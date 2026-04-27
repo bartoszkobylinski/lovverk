@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20200928-1914",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20200928-1914.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/midl-forskrift-om-unntak-fra-bestemmelsene-i-\\303\\270kologiforskriften-om-kontroll-av-produksjonen-av-\\303\\270kologiske-produkter-p\\303\\245-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 99,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "midl-forskrift-om-unntak-fra-bestemmelsene-i-økologiforskriften-om-kontroll-av-produksjonen-av-økologiske-produkter-på-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977"
+}

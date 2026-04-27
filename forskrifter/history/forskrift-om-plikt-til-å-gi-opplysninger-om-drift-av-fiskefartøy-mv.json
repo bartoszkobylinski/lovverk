@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20150526-0547",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20150526-0547.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-plikt-til-\\303\\245-gi-opplysninger-om-drift-av-fiskefart\\303\\270y-mv.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 47,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-plikt-til-å-gi-opplysninger-om-drift-av-fiskefartøy-mv"
+}

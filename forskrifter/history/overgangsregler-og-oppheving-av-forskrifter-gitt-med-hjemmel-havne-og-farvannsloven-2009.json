@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20191211-1837",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20191211-1837.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "forskrifter/overgangsregler-og-oppheving-av-forskrifter-gitt-med-hjemmel-havne-og-farvannsloven-2009.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 63,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "overgangsregler-og-oppheving-av-forskrifter-gitt-med-hjemmel-havne-og-farvannsloven-2009"
+}

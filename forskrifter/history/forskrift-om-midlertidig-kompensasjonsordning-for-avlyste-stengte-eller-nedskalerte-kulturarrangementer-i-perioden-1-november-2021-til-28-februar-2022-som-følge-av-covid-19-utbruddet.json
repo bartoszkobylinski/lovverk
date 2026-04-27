@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20220308-0345",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20220308-0345.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-midlertidig-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-november-2021-til-28-februar-2022-som-f\\303\\270lge-av-covid-19-utbruddet.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 193,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-midlertidig-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-november-2021-til-28-februar-2022-som-følge-av-covid-19-utbruddet"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20241210-3013",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20241210-3013.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-takseringsregler-til-bruk-ved-beskatning-ved-trekk-i-l\\303\\270nn-mv-av-personer-som-skattlegges-p\\303\\245-svalbard-i-inntekts\\303\\245ret-2025-etter-lov-29-november-1996-nr-68-om-skatt-til-svalbard.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-takseringsregler-til-bruk-ved-beskatning-ved-trekk-i-lønn-mv-av-personer-som-skattlegges-på-svalbard-i-inntektsåret-2025-etter-lov-29-november-1996-nr-68-om-skatt-til-svalbard"
+}

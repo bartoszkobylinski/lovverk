@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20230627-1136",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20230627-1136.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/midlertidig-forskrift-om-midlertidig-godkjenning-av-ordin\\303\\246re-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 47,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "midlertidig-forskrift-om-midlertidig-godkjenning-av-ordinære-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger"
+}

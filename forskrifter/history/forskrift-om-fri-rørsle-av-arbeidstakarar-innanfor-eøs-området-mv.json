@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20210219-0475",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20210219-0475.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-fri-r\\303\\270rsle-av-arbeidstakarar-innanfor-e\\303\\270s-omr\\303\\245det-mv.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-fri-rørsle-av-arbeidstakarar-innanfor-eøs-området-mv"
+}

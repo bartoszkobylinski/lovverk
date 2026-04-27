@@ -1,0 +1,14 @@
+# nordisk-konvensjon-om-arv-og-dødsboskifte — Change history
+
+_2 events; doc_id `nl-19341119-000`._
+
+## 2026-04-27 — Filename renamed
+Renamed: `lover/nl-19341119-000.md` → `"lover/nordisk-konvensjon-om-arv-og-d\303\270dsboskifte.md"`.
+Lines: +2 -1.
+Subject: `migration: rename 4522 documents to slug-based filenames`
+Commit: `3dddeca`.
+
+## 2026-04-26 — Added to corpus
+Lines: +231 -0.
+Subject: `sync: 4522 new, 0 changed, 0 removed`
+Commit: `57c3052`.

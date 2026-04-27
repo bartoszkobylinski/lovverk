@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20210817-2515",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20210817-2515.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-tilleggskrav-for-luftfartsoperasjoner-p\\303\\245-svalbard-og-i-andre-polare-omr\\303\\245der.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 127,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-tilleggskrav-for-luftfartsoperasjoner-på-svalbard-og-i-andre-polare-områder"
+}

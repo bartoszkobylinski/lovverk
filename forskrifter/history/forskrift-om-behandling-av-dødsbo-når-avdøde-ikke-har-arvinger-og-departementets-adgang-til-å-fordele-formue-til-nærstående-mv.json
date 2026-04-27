@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20220915-1583",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20220915-1583.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-behandling-av-d\\303\\270dsbo-n\\303\\245r-avd\\303\\270de-ikke-har-arvinger-og-departementets-adgang-til-\\303\\245-fordele-formue-til-n\\303\\246rst\\303\\245ende-mv.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 45,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-behandling-av-dødsbo-når-avdøde-ikke-har-arvinger-og-departementets-adgang-til-å-fordele-formue-til-nærstående-mv"
+}

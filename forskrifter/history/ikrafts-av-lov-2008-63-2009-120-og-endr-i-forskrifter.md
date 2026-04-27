@@ -1,0 +1,14 @@
+# ikrafts-av-lov-2008-63-2009-120-og-endr-i-forskrifter — Change history
+
+_2 events; doc_id `sf-20100326-0466`._
+
+## 2026-04-27 — Filename renamed
+Renamed: `forskrifter/sf-20100326-0466.md` → `forskrifter/ikrafts-av-lov-2008-63-2009-120-og-endr-i-forskrifter.md`.
+Lines: +2 -1.
+Subject: `migration: rename 4522 documents to slug-based filenames`
+Commit: `3dddeca`.
+
+## 2026-04-26 — Added to corpus
+Lines: +61 -0.
+Subject: `sync: 4522 new, 0 changed, 0 removed`
+Commit: `57c3052`.

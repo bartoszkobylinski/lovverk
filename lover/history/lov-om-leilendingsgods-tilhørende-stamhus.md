@@ -1,0 +1,14 @@
+# lov-om-leilendingsgods-tilhørende-stamhus — Change history
+
+_2 events; doc_id `nl-18880623-003`._
+
+## 2026-04-27 — Filename renamed
+Renamed: `lover/nl-18880623-003.md` → `"lover/lov-om-leilendingsgods-tilh\303\270rende-stamhus.md"`.
+Lines: +2 -1.
+Subject: `migration: rename 4522 documents to slug-based filenames`
+Commit: `3dddeca`.
+
+## 2026-04-26 — Added to corpus
+Lines: +87 -0.
+Subject: `sync: 4522 new, 0 changed, 0 removed`
+Commit: `57c3052`.

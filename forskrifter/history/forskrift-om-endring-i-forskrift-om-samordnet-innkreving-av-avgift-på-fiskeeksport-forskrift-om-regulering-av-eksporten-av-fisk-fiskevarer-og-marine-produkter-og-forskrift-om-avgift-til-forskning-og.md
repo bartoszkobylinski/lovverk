@@ -1,0 +1,14 @@
+# forskrift-om-endring-i-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-avgift-til-forskning-og — Change history
+
+_2 events; doc_id `sf-20251209-2491`._
+
+## 2026-04-27 — Filename renamed
+Renamed: `forskrifter/sf-20251209-2491.md` → `"forskrifter/forskrift-om-endring-i-forskrift-om-samordnet-innkreving-av-avgift-p\303\245-fiskeeksport-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-avgift-til-forskning-og.md"`.
+Lines: +2 -1.
+Subject: `migration: rename 4522 documents to slug-based filenames`
+Commit: `3dddeca`.
+
+## 2026-04-26 — Added to corpus
+Lines: +39 -0.
+Subject: `sync: 4522 new, 0 changed, 0 removed`
+Commit: `57c3052`.

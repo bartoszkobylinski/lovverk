@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20260327-0501",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20260327-0501.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "forskrifter/forskrift-om-overgangsregler-til-lov-22-juni-2018-nr-77-om-endringer-i-lov-9-mars-1973-nr-14-om-vern-mot-tobakksskader.md",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-overgangsregler-til-lov-22-juni-2018-nr-77-om-endringer-i-lov-9-mars-1973-nr-14-om-vern-mot-tobakksskader"
+}

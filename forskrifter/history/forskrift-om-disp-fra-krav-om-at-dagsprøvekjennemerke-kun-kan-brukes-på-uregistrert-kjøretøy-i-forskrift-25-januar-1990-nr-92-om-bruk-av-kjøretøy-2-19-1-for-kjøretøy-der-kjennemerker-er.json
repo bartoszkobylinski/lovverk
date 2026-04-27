@@ -1,0 +1,27 @@
+{
+  "doc_id": "sf-20210323-0990",
+  "events": [
+    {
+      "commit": "3dddeca",
+      "date": "2026-04-27",
+      "from_path": "forskrifter/sf-20210323-0990.md",
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: rename 4522 documents to slug-based filenames",
+      "to_path": "\"forskrifter/forskrift-om-disp-fra-krav-om-at-dagspr\\303\\270vekjennemerke-kun-kan-brukes-p\\303\\245-uregistrert-kj\\303\\270ret\\303\\270y-i-forskrift-25-januar-1990-nr-92-om-bruk-av-kj\\303\\270ret\\303\\270y-2-19-1-for-kj\\303\\270ret\\303\\270y-der-kjennemerker-er.md\"",
+      "type": "renamed"
+    },
+    {
+      "commit": "57c3052",
+      "date": "2026-04-26",
+      "from_path": null,
+      "lines_added": 29,
+      "lines_removed": 0,
+      "subject": "sync: 4522 new, 0 changed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-disp-fra-krav-om-at-dagsprøvekjennemerke-kun-kan-brukes-på-uregistrert-kjøretøy-i-forskrift-25-januar-1990-nr-92-om-bruk-av-kjøretøy-2-19-1-for-kjøretøy-der-kjennemerker-er"
+}
