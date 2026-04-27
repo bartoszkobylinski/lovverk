@@ -1,0 +1,42 @@
+---
+id: "sf-20100129-0072"
+slug: "csm-sikkerhetsmål-forskriften"
+type: "forskrift"
+ref_id: "forskrift/2010-01-29-72"
+title: "Forskrift om gjennomføring av vedtak 2009/460/EF om innføring av felles sikkerhetsmetode for vurdering av sikkerhetsmål (CSM sikkerhetsmål-forskriften)"
+short_title: "CSM sikkerhetsmål-forskriften"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2010-01-29"
+last_change_in_force: "2025-02-13"
+last_updated: "2023-01-11"
+xml_hash: "6590f32b0b93bc62a1db4f5cfa93c7ac266274e64445b5e7f72380420c3ad86d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gjennomføring av vedtak 2009/460/EF om innføring av felles sikkerhetsmetode for vurdering av sikkerhetsmål (CSM sikkerhetsmål-forskriften)
+
+## § 1.
+
+EØS-avtalen vedlegg XIII nr. 42eb (vedtak [2009/460/EF](eu/32009d0460)) om innføring av felles sikkerhetsmetode for vurdering av sikkerhetsmål gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 2.
+
+Statens jernbanetilsyn utøver myndighet etter denne forskriften.
+
+## § 3.
+
+Forskriften trer i kraft straks.
+
+## Vedtak 2009/460/EF
+
+For å lese vedtak [2009/460/EF i](eu/32009d0460) engelsk versjon se her: [(pdf)](static/SF/32009d0460e.pdf)
+
+For å lese vedtak [2009/460/EF i](eu/32009d0460) norsk versjon se her: [(pdf)](static/SF/32009d0460u.pdf)
+
+Uoffisiell oversettelse.

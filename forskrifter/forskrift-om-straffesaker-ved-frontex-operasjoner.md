@@ -1,0 +1,82 @@
+---
+id: "sf-20150605-0582"
+slug: "forskrift-om-straffesaker-ved-frontex-operasjoner"
+type: "forskrift"
+ref_id: "forskrift/2015-06-05-582"
+title: "Forskrift om behandling av straffesaker når norske skip deltar i en Frontex-operasjon"
+short_title: "Forskrift om straffesaker ved Frontex-operasjoner"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2015-06-05"
+last_change_in_force: null
+last_updated: null
+xml_hash: "bf5e3e679ee8db1902dd29576d9b3900fa38aaa7446ab1f8a8820fc571c12e4a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om behandling av straffesaker når norske skip deltar i en Frontex-operasjon
+
+## § 1.
+
+Formålet med forskriften er å gi regler for behandling av straffesaker når norske skip deltar i det europeiske grensekontrollbyrået Frontex sjøoperasjoner.
+
+Straffeprosessloven gjelder i den utstrekning det følger særskilt av denne forskriften.
+
+## § 2.
+
+Forskriften gjelder for norske skip som deltar i det europeiske grensekontrollbyrået Frontex sjøoperasjoner.
+
+Påtalemyndigheten ved Kripos treffer beslutninger etter denne forskriften, med unntak for [§ 9](forskrift/2015-06-05-582/§9) annet ledd. Når det er fare ved opphold, kan styrkesjefen treffe beslutningen. Beslutningen skal da snarest mulig forelegges for påtalemyndigheten.
+
+## § 3.
+
+Ved behandling av saker etter denne forskriften gjelder [straffeprosessloven § 60](lov/1981-05-22-25/§60) til [§ 61](lov/1981-05-22-25/§61) om inhabilitet samt [kapittel 5](lov/1981-05-22-25/kap5) og [6](lov/1981-05-22-25/kap6) i politiregisterloven om taushetsplikt tilsvarende for enhver som er ansatt på eller utfører tjeneste eller arbeid om bord på skipet.
+
+[Straffeprosessloven § 170 a](lov/1981-05-22-25/§170a) gjelder tilsvarende ved bruk av tvangsmidler etter denne forskriften.
+
+## § 4.
+
+Ved skjellig grunn til mistanke om at en person har begått en eller flere handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder, kan påtalemyndigheten ved Kripos beslutte at vedkommende skal pågripes.
+
+Beslutningen skal nedtegnes snarest mulig og inneholde en kort begrunnelse for pågripelsen, samt det faktiske forholdet saken gjelder.
+
+Kripos skal påse at Det nasjonale statsadvokatembetet, Justis- og beredskapsdepartementet samt Utenriksdepartementet snarest mulig blir informert om saken.
+
+## § 5.
+
+Pågripelsen skal foretas så skånsomt som forholdene tillater. Det skal utarbeides en skriftlig rapport som redegjør for hvem som er pågrepet og nærmere opplysninger om den enkelte. Når det anses nødvendig for å identifisere den som pågripes eller for å kontrollere opplysninger om identiteten til vedkommende, kan det tas fingeravtrykk, fotografi, samt innhentes biologisk materiale med sikte på å gjennomføre en DNA-analyse av vedkommende. [Straffeprosessloven § 157](lov/1981-05-22-25/§157) annet ledd, [§ 158](lov/1981-05-22-25/§158) annet ledd annet og tredje punktum, og femte ledd samt [§ 159](lov/1981-05-22-25/§159) første ledd gjelder tilsvarende.
+
+Det kan besluttes at vedkommende skal utelukkes fra fellesskap med andre passasjerer om bord dersom samkvem antas å være særlig skadelig for etterforskningen.
+
+## § 6.
+
+I etterforskningsøyemed kan det foretas ransaking av personer som med skjellig grunn mistenkes for en eller flere handlinger som etter loven kan medføre høyere straff enn fengsel i 6 måneder, eventuelt også fartøy som kan knyttes til lovbruddet. Beslutningen skal nedtegnes snarest mulig og inneholde en kort begrunnelse.
+
+Personer som er pågrepet, kan fratas alle gjenstander som er egnet til å skade vedkommende selv eller andre. Det skal føres en nøyaktig fortegnelse over fratatte gjenstander. [§ 7](forskrift/2015-06-05-582/§7) og [§ 8](forskrift/2015-06-05-582/§8) gjelder tilsvarende for fratatte gjenstander.
+
+## § 7.
+
+Den pågrepne skal så langt som mulig informeres om begrunnelsen for pågripelsen. Vedkommende skal snarest mulig gis anledning til å forklare seg. Forklaringen skal skrives ned og følge saken.
+
+## § 8.
+
+Ting som antas å ha betydning som bevis, kan beslaglegges. Det skal settes opp en nøyaktig fortegnelse over beslaglagte ting. Beslaget skal følge saken.
+
+## § 9.
+
+Såfremt vilkårene for pågripelsen fortsatt er oppfylt, skal den pågrepne snarest mulig og senest innen 72 timer etter at beslutningen om pågripelse ble truffet, overføres til myndighetene i en annen stat med sikte på videre strafforfølgning der. Samtidig overføres beslaglagte ting, sakens dokumenter og eventuelle andre bevismidler til bruk under strafforfølgningen der. Beslutningen skal være skriftlig, og den skal dateres og underskrives av påtalemyndigheten ved Kripos.
+
+I særlige tilfeller kan det besluttes at den pågrepne i stedet skal straffeforfølges i Norge. Myndigheten til å treffe denne beslutningen tilligger Det nasjonale statsadvokatembetet. [Straffeprosessloven § 59a](lov/1981-05-22-25/§59a) om klage til Riksadvokaten gjelder tilsvarende så langt den passer.
+
+## § 10.
+
+Ved ankomst til norsk territorium gjelder straffeprosessloven.
+
+## § 11.
+
+Forskriften trer i kraft straks.

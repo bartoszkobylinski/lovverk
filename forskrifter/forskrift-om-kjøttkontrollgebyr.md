@@ -1,0 +1,97 @@
+---
+id: "sf-20051227-1726"
+slug: "forskrift-om-kjøttkontrollgebyr"
+type: "forskrift"
+ref_id: "forskrift/2005-12-27-1726"
+title: "Forskrift om gebyr til dekning av utgifter ved kjøttkontroll"
+short_title: "Forskrift om kjøttkontrollgebyr"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+  - "Landbruks- og matdepartementet"
+date_in_force: "2006-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "b705149f181d28e1528a4f20be43e5a9b6dfcd7bd7cb6d20bb1fa4245e47b5a7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gebyr til dekning av utgifter ved kjøttkontroll
+
+## § 1. Virkeområde
+
+Forskriften regulerer plikten til å betale gebyr for kjøttkontroll. Den omfatter alle slakterier, herunder sesongslakterier og mobile slakterier, samt enhver annen som er ansvarlig for fremstilling av slaktedyr eller kjøtt for kjøttkontroll.
+
+## § 2. Gebyr for kjøttkontroll ved slakteri
+
+Slakteri, unntatt sesongslakteri og mobilt slakteri, skal betale gebyr til Mattilsynet for pålagt kjøttkontroll. Gebyrpliktig kontroll omfatter ante-mortem-undersøkelse og post-mortem-undersøkelse inkludert etterkontroll av slakt, kontroll av nødslakt, trikinundersøkelse, undersøkelse av slakt for antibakterielle midler og bakteriologisk kjøttkontroll.
+
+Gebyret fastsettes på grunnlag av antall dagsverk kjøttkontroll, à 7,5 timeverk, i henhold til årsplan fra slakteriet, etter en dagsverksats på kr 7 500. For arbeid utover Mattilsynets normalarbeidstid betales et tillegg på 40 % av en timeverksats på kr 1 000. For arbeid mellom kl. 21.00 og 06.00 fra mandag til fredag, på lørdager, søndager og offentlige helge- og høytidsdager utgjør tillegget 80 %.
+
+For kjøttkontroll utenfor årsplan betales gebyr på grunnlag av hvert påbegynt timeverk etter timeverksatsen i annet ledd. Tilsvarende betales gebyr for medgått ventetid utover en time. Dersom varslet slakting ikke finner sted, betales gebyr etter timeverksatsen for medgått tid til reise og oppmøte. Bestemmelsene om overtidstillegg i annet ledd gjelder tilsvarende.
+
+Gebyret skal likevel ikke overstige kr 2,1 per kilo slakt som gjennomsnitt på årsbasis.
+
+> Endret ved [forskrifter 1 feb 2008 nr. 104](forskrift/2008-02-01-104), [23 des 2008 nr. 1545](forskrift/2008-12-23-1545) (i kraft 1 jan 2009), [23 des 2009 nr. 1805](forskrift/2009-12-23-1805) (i kraft 1 jan 2010), [17 des 2010 nr. 1852](forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+
+## § 3. Gebyr for kjøttkontroll ved sesongslakteri og mobilt slakteri
+
+Ansvarlig for fremstilling av slaktedyr for pålagt kjøttkontroll ved sesongslakteri eller mobilt slakteri skal betale gebyr til Mattilsynet. Gebyrpliktig kontroll omfatter ante-mortem-undersøkelse og post-mortem-undersøkelse, etterkontroll av slakt, kontroll av nødslakt, trikinundersøkelse, undersøkelse av slakt for antibakterielle midler og bakteriologisk kjøttkontroll. I tillegg omfatter gebyret medgått reise- og ventetid.
+
+Gebyret fastsettes på grunnlag av hvert påbegynt timeverk etter en timeverksats på kr 950. For arbeid utover Mattilsynets normalarbeidstid betales et tillegg på 40 % av timeverksatsen. For arbeid mellom kl. 21.00 og 06.00 fra mandag til fredag, på lørdager, søndager og offentlige helge- og høytidsdager utgjør tillegget 80 % og reiseutgifter skal betales etter statens satser.
+
+Dersom varslet slakting ikke finner sted betales gebyr etter timeverksatsen for medgått tid til reise og oppmøte. Bestemmelsene om overtidstillegg i annet ledd gjelder tilsvarende.
+
+Gebyret skal likevel ikke overstige kr 2,1 per kilo slakt ved den gjennomførte kontrollen.
+
+> Endret ved [forskrifter 1 feb 2008 nr. 104](forskrift/2008-02-01-104), [23 des 2008 nr. 1545](forskrift/2008-12-23-1545) (i kraft 1 jan 2009), [23 des 2009 nr. 1805](forskrift/2009-12-23-1805) (i kraft 1 jan 2010), [17 des 2010 nr. 1852](forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [13 mars 2014 nr. 325](forskrift/2014-03-13-325), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+
+## § 4. (Opphevet)
+
+> Endret ved [forskrifter 1 feb 2008 nr. 104](forskrift/2008-02-01-104), [23 des 2008 nr. 1545](forskrift/2008-12-23-1545) (i kraft 1 jan 2009), [23 des 2009 nr. 1805](forskrift/2009-12-23-1805) (i kraft 1 jan 2010), [17 des 2010 nr. 1852](forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), opphevet ved forskrift [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023).
+
+## § 5. Gebyr for kontroll av kjøtt fra vilt og oppdrettsvilt
+
+Ansvarlig for fremstilling av kjøtt fra vilt eller oppdrettsvilt for pålagt kjøttkontroll skal betale gebyr til Mattilsynet. Gebyrpliktig kontroll omfatter post-mortem-undersøkelse, undersøkelse for antibakterielle midler og bakteriologisk kjøttkontroll, og for oppdrettsvilt omfatter den også ante-mortem-undersøkelse av de dyrene som skal slaktes.
+
+Gebyret utgjør kr 190 per dyr inkludert medgått reise- og overtid.
+
+> Endret ved [forskrifter 23 des 2008 nr. 1545](forskrift/2008-12-23-1545) (i kraft 1 jan 2009), [23 des 2009 nr. 1805](forskrift/2009-12-23-1805) (i kraft 1 jan 2010), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+
+## § 6. Årlig slakteplan for slakteri
+
+Slakteri (unntatt sesongslakteri og mobilt slakteri) skal innen 20. november hvert år oversende plan for påfølgende års slaktevirksomhet (årsplan) til Mattilsynets stedlige distriktskontor. Ved oppstart av nytt slakteri eller gjenopptakelse av slakting ved tidligere nedlagt slakteri, skal årsplan likevel oversendes senest 3 måneder før oppstart av slakting.
+
+Årsplan skal oversendes på skjema fastsatt av Mattilsynet og inneholde opplysninger om:forventet slaktemengde fordelt på dyreart,forventet gjennomføring av slakting på ulike slakteuker,forventet slaktehastighet (antall slakteskrotter per time),antall slaktelinjer det skal slaktes på samtidig ogstart- og sluttidspunkt per dag for hver slaktelinje.
+
+For helårsslakterier for tamrein gjelder punktene 1 til 3 ovenfor.
+
+Når slakteri får kunnskap om vesentlige avvik fra foreliggende plan, skal ny årsplan utarbeides og oversendes Mattilsynet straks. Avviket er vesentlig når det medfører minst 10% endring i slaktemengde eller slaktehastighet eller når gjennomføring av slaktingen endres systematisk.
+
+## § 7. Annen melding om behov for kjøttkontroll
+
+Ansvarlig for fremstilling av slaktedyr til kjøttkontroll ved sesongslakteri eller mobilt slakteri/slakteplasser mv., herunder tamrein, skal i god tid og senest en uke før planlagt slakting gi Mattilsynets stedlige distriktskontor opplysninger om dyreart som skal slaktes, antall dyr og antatt slaktetidspunkt. Ved endringer skal det snarest mulig gis melding om dette.
+
+> Endret ved forskrift [14 mai 2023 nr. 719](forskrift/2023-05-14-719) (i kraft 23 mai 2023).
+
+## § 8. Fastsettelse og innbetaling av gebyr
+
+Mattilsynet fastsetter gebyr etter [§ 2](forskrift/2005-12-27-1726/§2) og [§ 3](forskrift/2005-12-27-1726/§3) ved enkeltvedtak, som kan påklages etter [forvaltningslovens](lov/1967-02-10) bestemmelser. Gebyrene etter [§ 2](forskrift/2005-12-27-1726/§2), [§ 3](forskrift/2005-12-27-1726/§3) og [§ 5](lov/1967-02-10/§5) innkreves etterskuddsvis.
+
+> Endret ved forskrift [14 mai 2023 nr. 719](forskrift/2023-05-14-719) (i kraft 23 mai 2023).
+
+## § 9. Dispensasjon
+
+Mattilsynet kan i særskilte tilfeller dispensere fra bestemmelsene i denne forskrift forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+## § 10. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av den er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+## § 11. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2006. Samtidig oppheves [forskrift 21. desember 1998 nr. 1429](forskrift/1998-12-21-1429) om gebyr til dekning av utgifter ved tilsyn og kjøttkontroll.

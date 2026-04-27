@@ -1,0 +1,56 @@
+---
+id: "sf-20251001-1974"
+slug: "forskrift-om-overgangsregler-til-lov-20-juni-2025-nr-105-om-enhetsregisteret-og-lov-20-juni-2025-nr-106-om-foretaksregisteret"
+type: "forskrift"
+ref_id: "forskrift/2025-10-01-1974"
+title: "Forskrift om overgangsregler til lov 20. juni 2025 nr. 105 om Enhetsregisteret og lov 20. juni 2025 nr. 106 om Foretaksregisteret"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: "2026-01-09"
+last_updated: null
+xml_hash: "ef084e99a45da837f834008841e64f760f7593387dded313f77f785e8ecb2347"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler til lov 20. juni 2025 nr. 105 om Enhetsregisteret og lov 20. juni 2025 nr. 106 om Foretaksregisteret
+
+## Kapittel 1. Overgangsregler om avregistrering av observatører og kontaktpersoner og om omregistrering av nestledere i styret
+
+### § 1. Avregistrering av personer som er registrert i Foretaksregisteret med rollen observatør
+
+Registerføreren skal innen 1. juli 2026 avregistrere den som per 31. desember 2025 er registrert i Foretaksregisteret med rollen observatør. Registerføreren skal straks underrette foretaket om avregistreringen.
+
+### § 2. Avregistrering av personer som er registrert i Enhetsregisteret som kontaktperson
+
+(1) Registerføreren skal innen 1. januar 2027 avregistrere den som per 31. desember 2025 er registrert i Enhetsregisteret som kontaktperson for en enhet som ikke skal ha kontaktperson registrert ifølge [lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 4-2 andre ledd](lov/2025-06-20-105/§4-2/ledd/2). Registerføreren skal straks underrette enheten om avregistreringen.
+
+(2) For enheter som skal ha kontaktperson registrert i Enhetsregisteret ifølge [lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 4-2 andre ledd](lov/2025-06-20-105/§4-2/ledd/2), men som per 31. desember 2025 har registrert to eller flere kontaktpersoner, skal registerføreren innen 1. juli 2026 sørge for at enheten bare har registrert én kontaktperson. Registerføreren skal underrette enheten og gi en rimelig frist til å angi hvilken kontaktperson enheten skal ha registrert. Dersom enheten ikke svarer innen fristen, skal kontaktpersonen som ble registrert sist i Enhetsregisteret forbli registrert. Registerføreren skal straks underrette enheten om avregistreringen.
+
+### § 3. Omregistrering av personer som er registrert i Foretaksregisteret med rollen nestleder i styret
+
+Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den som per 31. desember 2025 er registrert i Foretaksregisteret med rollen nestleder i styret i et foretak som ikke er underlagt krav i lov eller i medhold av lov til å ha nestleder i styret. Registerføreren skal straks underrette foretaket om omregistreringen.
+
+### § 4. Omregistrering av personer som er registrert i Enhetsregisteret med rollen nestleder i styret
+
+Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den som per 31. desember 2025 er registrert i Enhetsregisteret med rollen nestleder i styret. Registerføreren skal straks underrette enheten om omregistreringen.
+
+> Endret ved forskrift [9 jan 2026 nr. 22](forskrift/2026-01-09-22).
+
+## Kapittel 2. Overgangsregler om sletting av opphørte enheter fra Enhetsregisteret
+
+### § 5. Sletting av opphørte enheter fra Enhetsregisteret
+
+Inntil [lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 8-3 første ledd tredje](lov/2025-06-20-105/§8-3/ledd/1/setning/3) og [fjerde punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/4) trer i kraft, kan registerføreren slette en opphørt enhet fra Enhetsregisteret dersom følgende vilkår er oppfylt:registerføreren har sendt varsel om sletting som nevnt i [enhetsregisterloven § 8-3 første ledd første](lov/2025-06-20-105/§8-3/ledd/1/setning/1) og [andre punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/2) til enheten og de som har meldeplikt etter [enhetsregisterloven § 5-3](lov/2025-06-20-105/§5-3), ogdet er ikke gitt opplysninger til registerføreren som sannsynliggjør at enheten fortsatt består innen fristen i varselet.
+
+## Kapittel 3. Ikrafttredelse
+
+### § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2026.

@@ -1,0 +1,253 @@
+---
+id: "sf-20071221-1736"
+slug: "forskrift-om-krav-til-transportbåndvekter"
+type: "forskrift"
+ref_id: "forskrift/2007-12-21-1736"
+title: "Forskrift om krav til transportbåndvekter"
+short_title: "Forskrift om krav til transportbåndvekter"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2008-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2020-10-12"
+xml_hash: "8ec76aadccf90d7339472e358fe5090426dffab957ccb304cdb3bd8dcf68169a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om krav til transportbåndvekter
+
+## Kapittel 1 – Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Forskriften gjelder når det er fastsatt krav til transportbåndvekter i [forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1](forskrift/2007-12-20-1723/§3-1).
+
+Forskriften gjelder ikke transportbåndvekter som er påmontert en innretning, som kan flyttes og som brukes som grunnlag for beregningen av et økonomisk oppgjør for knusing av berg- og løsmasse i bergindustrien.
+
+> Endret ved [forskrifter 13 des 2012 nr. 1243](forskrift/2012-12-13-1243) (i kraft 1 jan 2013), [16 des 2013 nr. 1533](forskrift/2013-12-16-1533) (i kraft 1 jan 2014), [1 des 2023 nr. 1989](forskrift/2023-12-01-1989) (i kraft 1 jan 2024).
+
+### § 2. Definisjoner
+
+I denne forskriften menes med:*Transportbåndvekt:* En automatisk vekt som kontinuerlig bestemmer massen til et bulkprodukt på et transportbånd, uten systematisk oppdeling av produktet og uten å avbryte transportbåndets bevegelse*Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør transportbåndvektens normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor transportbåndvektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket*Klimatiske miljøer:* De omgivelser der transportbåndvekten kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+
+### § 3. Krav til transportbåndvekter under bruk
+
+Transportbåndvekter skal minimum oppfylle de grunnleggende kravene fastsatt i [kapittel 2](forskrift/2007-12-21-1736/kap2). Maksimale tillatte målefeil ved salg av transportbåndvekter er angitt i [§ 30](forskrift/2007-12-21-1736/§30). Maksimale tillatte målefeil ved bruk av transportbåndvekter er angitt i [§ 31](forskrift/2007-12-21-1736/§31).
+
+Transportbåndvekter som er typegodkjent etter tidligere regelverk, skal under bruk oppfylle de kravene som var gjeldende da transportbåndvekten ble typegodkjent, herunder kravene til målenøyaktighet under bruk.
+
+Transportbåndvekter som ikke er rettmessig samsvarsmerket eller har gyldig typegodkjenning og førstegangsgodkjenning, er ikke tillatt å bruke.
+
+Der innpakning, beholder, opphengsanordning eller lignende som veies sammen med varen påvirker måleresultatet, skal massen av dette (tara) trekkes fra.
+
+> Endret ved [forskrift 19 des 2017 nr. 2287](forskrift/2017-12-19-2287) (i kraft 1 jan 2018).
+
+### § 4. Kontroll og godkjenning ved salg av transportbåndvekter
+
+Transportbåndvekter som selges eller tilbys for salg, skal ha gyldig samsvarsvurdering etter bestemmelsene i forskrift om målenheter og måling kapittel 4.
+
+> Endret ved [forskrifter 22 april 2016 nr. 416](forskrift/2016-04-22-416), [19 des 2017 nr. 2287](forskrift/2017-12-19-2287) (i kraft 1 jan 2018).
+
+### § 5. Tilsynet med en transportbåndvekt som brukes
+
+Testing av transportbåndvekter i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R50 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+
+Transportbåndvekten skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Bruker må sørge for at Justervesenet under testingen har tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr og kvalifisert personell.
+
+Et kontrollinstrument skal alltid være tilgjengelig i nærheten av transportbåndvekten som skal testes. Lagring og transport i forbindelse med testingen skal arrangeres slik at ikke noe av testproduktene mistes.
+
+> Endret ved [forskrifter 16 des 2013 nr. 1533](forskrift/2013-12-16-1533) (i kraft 1 jan 2014), [18 des 2015 nr. 1758](forskrift/2015-12-18-1758) (i kraft 1 jan 2016), [25 juni 2021 nr. 2229](forskrift/2021-06-25-2229) (i kraft 1 juli 2021).
+
+## Kapittel 2 – Krav til transportbåndvekter
+
+### Avsnitt I – Generelle krav
+
+### § 6. Måleteknisk beskyttelse og kvalitetsnivå
+
+En transportbåndvekt skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillitt til måleresultatet, og den skal konstrueres og fremstilles etter tilfredstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet.
+
+### § 7. Påtenkt bruk og påregnelig feilbruk
+
+Det skal tas hensyn til transportbåndvektens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene.
+
+### § 8. Tillatte feil
+
+Under de angitte driftsbetingelser og i fravær av en forstyrrelse skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i [§ 30](forskrift/2007-12-21-1736/§30) og [§ 31](forskrift/2007-12-21-1736/§31).
+
+Med mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.
+
+Under de angitte driftsbetingelser og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.
+
+Dersom transportbåndvekten er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil.
+
+### § 9. Påvirkende størrelser
+
+Produsenten skal angi det klimatiske og elektromagnetiske miljø som transportbåndvekten er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II.
+
+### § 10. Klimatisk miljø
+
+Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
+
+> Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
+
+### § 11. Elektromagnetiske miljø
+
+Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske miljø i følgende klasser:
+
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke transportbåndvektens nøyaktighet i vesentlig grad.
+
+### § 12. Grunnleggende regler for forsøk og bestemmelse av feil
+
+De grunnleggende kravene angitt i [§ 8](forskrift/2007-12-21-1736/§8) skal kontrolleres for hver relevant påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstant ved sine referanseverdier.
+
+Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for transportbåndvekten når denne påvirkende størrelsen kan antas å opptre.
+
+### § 13. Luftfuktighet
+
+Avhengig av det klimatiske miljø transportbåndvekten er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).
+
+Testforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig.
+
+### § 14. Reproduserbarhet
+
+Dersom transportbåndvekten brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil.
+
+### § 15. Repeterbarhet
+
+Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimale tillatte målefeil.
+
+### § 16. Oppløsning og følsomhet
+
+En transportbåndvekt skal være tilstrekkelig følsom, og skal ha tilstrekkelig oppløsning tilpasset måleoppgaven.
+
+### § 17. Holdbarhet
+
+En transportbåndvekt skal være konstruert slik at dens måletekniske egenskaper er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for.
+
+### § 18. Pålitelighet
+
+En transportbåndvekt skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar.
+
+### § 19. Egnethet
+
+En transportbåndvekt skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at vekten er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av transportbåndvekten. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleredskapet er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+
+En transportbåndvekt skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
+
+Dersom en transportbåndvekt har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen, kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene.
+
+### § 20. Beskyttelse mot manipulering
+
+Dersom transportbåndvekten koples til en annen anordning direkte eller ved fjerntilkopling, skal dets måletekniske egenskaper ikke påvirkes av anordningen på en feilaktig måte. Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.
+
+Programvare som har avgjørende betydning for de måletekniske egenskapene, skal være merket tilsvarende, og skal være sikret. Identifikasjon av slik programvare skal lett framskaffes fra transportbåndvekten. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.
+
+Måledata, programvare som er av avgjørende betydning for måleegenskapene, og måleteknisk viktige parametere som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.
+
+### § 21. Opplysninger som skal påføres eller følge transportbåndvekten
+
+En transportbåndvekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres transportbåndvekten:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge transportbåndvekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+
+For grupper av identiske transportbåndvekter er det ikke nødvendig med individuelle bruksanvisninger. Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
+
+### § 22. Angivelse av måleverdi
+
+Med mindre annet er angitt i avsnitt II, skal minstedelingen for en målt verdi være på formen 1 × 10n , 2 × 10n eller 5 × 10n , hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.
+
+Det skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i forskrift om målenheter og måling.
+
+### § 23. Visning av resultat
+
+Resultatet skal vises på et display eller som papirutskrift. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.
+
+Alle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.
+
+### § 24. Ytterligere behandling av data for å avslutte en handelstransaksjon
+
+Transportbåndvekten skal på en varig måte registrere måleresultatet sammen med opplysninger som identifiserer den bestemte transaksjon, når målingen ikke kan gjentas og vekten normalt er beregnet brukt når den ene parten i transaksjonen er fraværende.
+
+I tillegg skal et varig bevis på måleresultatet og opplysninger for identifikasjon av transaksjonen kunne stilles til rådighet på anmodning idet målingen avsluttes.
+
+### § 25. Samsvarsvurdering
+
+En transportbåndvekt skal være konstruert slik at det lett kan vurderes om det er i samsvar med de relevante kravene i denne forskriften.
+
+### Avsnitt II – Spesifikke krav
+
+### § 26. Angitte driftsbetingelser
+
+Produsenten skal angi nominelle bruksforhold som følger:For målestørrelsen: Måleområdet i form av største og minste lastFor påvirkende størrelser fra elektrisitetsforsyning:For vekselstrømforsyning:
+Nominell vekselstrømspenning, eller grenser for vekselstrømspenningFor likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenningFor mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For måleredskap som brukes under spesiell mekanisk belastning, f.eks. måleredskap som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdeneFor andre påvirkende størrelser i relevant omfang:Arbeidshastighet(er)Egenskaper ved produkt(er) til veiing.
+
+### § 27. Egnethet
+
+Det skal finnes midler til å begrense virkningene av skråstilling, belastning og arbeidshastighet slik at maksimal verdi for maksimal tillatte målefeil ikke overskrides ved normal drift. Det skal finnes egnede anordninger for materialhåndtering og en hensiktsmessig nullstillingsfunksjon slik at transportbåndvekten kan overholde maksimal tillatte målefeil under normal drift.
+
+Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøren skal kunne kontrollere at en eventuell indikator er pålitelig. Resultater som faller utenfor måleområdet, skal identifiseres som slike dersom det er mulig med utskrift.
+
+### § 28. Nøyaktighetsklasser
+
+Transportbåndvekter deles inn i tre nøyaktighetsklasser. Tabell 3 viser nøyaktighetsklassene og anvendelsen av disse i forhold til type veiing.
+
+Ved veiing av andre produkter enn de som er nevnt ovenfor, vil Justervesenet i hvert enkelt tilfelle avgjøre hvilken nøyaktighetsklasse transportbåndvekten skal tilhøre.
+
+### § 29. Måleområder
+
+Produsenten skal angi måleområdet, forholdet mellom minste nettobelastning på veieenheten og største kapasitet, samt minste summerte mengde.
+
+Minste summerte mengde, Σmin, skal være minst:800 d for klasse 0,5,400 d for klasse 1 og200 d for klasse 2der d er summerende deling for den summerende hovedindikeringsenheten.
+
+### § 30. Maksimale tillatte målefeil for transportbåndvekter som selges eller tilbys for salg
+
+### § 31. Maksimal tillatt målefeil for transportbåndvekter under bruk
+
+> Endret ved forskrifter [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023), [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
+
+### § 32. Båndets hastighet
+
+Produsenten skal angi hastigheten til transportbåndet. For båndvekter med én hastighet, og båndvekter med flere hastigheter med manuell hastighetsinnstilling, skal hastigheten ikke variere med mer enn 5 % av den nominelle verdien. Produktet skal ikke ha en annen hastighet enn båndets hastighet.
+
+### § 33. Summerende hovedindikeringsenhet
+
+Det skal ikke være mulig å nullstille den summerende hovedindikeringsenheten.
+
+### § 34. Ytelser under påvirkende størrelser og elektromagnetiske forstyrrelse
+
+Maksimal tillatte målefeil som følge av påvirkende størrelse for en belastning på minst Σmin skal være 0,7 ganger relevant verdi angitt i tabell 4 og 5, avrundet til nærmeste summerte deling (d).
+
+Den kritiske endringsverdien som følge av en forstyrrelse skal være 0,7 ganger relevant verdi angitt i tabell 4 og 5 for en belastning lik Σmin, for gitt nøyaktighetsklasse, avrundet oppover til neste summerte deling (d).
+
+### § 34a. Tilleggskrav til transportbåndvekter som brukes ved landing av fisk
+
+Transportbåndvekt som brukes ved landing av fisk skal ha hovedvisningsenhet plassert i eller ved vekten.
+
+Veid kvantum landet fisk skal kunne avleses fortløpende. Bruker skal etter andre menyvalg umiddelbart sette vekten tilbake til avlesningsmodus.
+
+Vekten skal ha minst en sekundær visningsenhet (slavedisplay) som gjentar visningen av veieresultatet fra hovedvisningsenheten. Sekundær visningsenhet skal ikke ha funksjoner som kan påvirke veieresultatet. Sekundær visningsenhet skal ha lik oppløsning som hovedtelleverket.
+
+Vekten skal ha mer enn ett telleverk, hvor det ene skal være en totalteller som løper kontinuerlig og som ikke kan nullstilles.
+
+Vekten skal ha funksjoner som avdekker registrerbare feil. Dersom slik feil avdekkes, skal tilførsel av fisk til vekten stoppe automatisk.
+
+Dersom vekten ikke nullstilles ved oppstart og minst hvert 30. minutt, skal tilførsel av fisk til vekten stoppe automatisk.
+
+> Tilføyd ved [forskrift 27 feb 2020 nr. 194](forskrift/2020-02-27-194) (i kraft 1 mars 2020).
+
+## Kapittel 3 – Avsluttende bestemmelser
+
+### § 35. Overtredelsesgebyr
+
+Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7.
+
+### § 36. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2008.

@@ -1,0 +1,78 @@
+---
+id: "sf-19950508-0409"
+slug: "forskrift-om-flyteutstyr-på-fritidsfartøy"
+type: "forskrift"
+ref_id: "forskrift/1995-05-08-409"
+title: "Forskrift om flyteutstyr om bord på fritidsfartøy."
+short_title: "Forskrift om flyteutstyr på fritidsfartøy"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1995-06-01"
+last_change_in_force: "2005-08-01"
+last_updated: null
+xml_hash: "74e55987cd7a6c67179e2006ed023dfb819b468286fbacad4af07b23a0f8bd46"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om flyteutstyr om bord på fritidsfartøy.
+
+## Kap. I. Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Denne forskrift gjelder fritidsbåter som ferdes på sjøen, innsjøer og vassdrag, og som ikke i henhold til andre regler er pålagt å ha flyteutstyr om bord.
+
+Forskriften gjelder ikke for båter som benyttes til idrettsformål, dersom sikkerhetsbestemmelser fastsatt av den respektive idrettsorganisasjonen følges.
+
+> Endret ved [forskrift 3 feb 1999 nr. 191](forskrift/1999-02-03-191) (i kraft 1 mars 1999).
+
+### § 2. Definisjoner
+
+I denne forskrift betyr:*CEN:* Den europeiske komité for standardisering*Flyteutstyr:* Redningsvest, flytevest, flyteplagg, oppstigningsvest og annet personlig utstyr til å holde en person flytende.*Fritidsbåt:* Seil-, motor- og robåt eller liknende som ikke benyttes i næring, samt seil-, motor- og robåt eller liknende som leies eller lånes ut for å benyttes i fritidsøyemed.*ISO:* Den internasjonale standardiseringsorganisasjon*NS:* Norsk Standard*Sjøsikkerhetskonvensjonen:* Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) senere endringer ([SOLAS-74)](traktat/1974-11-01-1)
+
+> Endret ved [forskrift 3 feb 1999 nr. 191](forskrift/1999-02-03-191) (i kraft 1 mars 1999).
+
+## Kap. II. Generelle bestemmelser
+
+### § 3. Ansvar
+
+Eier og fører av fritidsbåt er ansvarlig for at bestemmelsene i denne forskrift overholdes.
+
+> Endret ved [forskrift 3 feb 1999 nr. 191](forskrift/1999-02-03-191) (i kraft 1 mars 1999).
+
+### § 4. Fravik
+
+I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike kravene i denne forskrift. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig. Dette kan bare skje når det ikke er i strid med internasjonal overenskomst som Norge har sluttet seg til.
+
+## Kap. III. Flyteutstyr, kontroll
+
+### § 5. Flyteutstyr ombord
+
+Alle båter skal under seilas være utstyrt med egnet flyteutstyr til alle personer om bord. Flyteutstyret skal oppbevares lett tilgjengelig.
+
+> Endret ved [forskrift 3 feb 1999 nr. 191](forskrift/1999-02-03-191) (i kraft 1 mars 1999).
+
+### § 6. Krav til flyteutstyret
+
+Flyteutstyr skal være godkjent av Sjøfartsdirektoratet eller annen navngitt offentlig myndighet, typegodkjent i henhold til Sjøsikkerhetskonvensjonen, eller produsert og varedeklarert av produsent eller importør etter anerkjente normer fastsatt i samsvar med CEN eller NS/ISO-standard. Flyteutstyret skal være varig merket, slik at godkjenningen, typegodkjenningen eller varedeklarasjonen vises på flyteutstyret.
+
+### § 7. Kontroll
+
+Sjøfartsdirektoratet eller den det bemyndiger kan foreta kontroll for å påse at bestemmelsene i denne forskrift blir overholdt.
+
+## Kap. IV. Avsluttende bestemmelser
+
+### § 8. Straffebestemmelse
+
+Forsettlig eller uaktsom overtredelse av bestemmelsene i denne forskrift straffes i henhold til [lov av 26. juni 1998 nr. 47](lov/1998-06-26-47) om fritids- og småbåter [§ 28](lov/1998-06-26-47/§28).
+
+> Endret ved [forskrift 3 feb 1999 nr. 191](forskrift/1999-02-03-191) (i kraft 1 mars 1999).
+
+### § 9. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. juni 1995.

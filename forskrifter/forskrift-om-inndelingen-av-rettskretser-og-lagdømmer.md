@@ -1,0 +1,164 @@
+---
+id: "sf-20210122-0163"
+slug: "forskrift-om-inndelingen-av-rettskretser-og-lagdømmer"
+type: "forskrift"
+ref_id: "forskrift/2021-01-22-163"
+title: "Forskrift om inndelingen av rettskretser og lagdømmer"
+short_title: "Forskrift om inndelingen av rettskretser og lagdømmer"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2021-04-12"
+last_change_in_force: "2025-08-15"
+last_updated: "2021-01-23"
+xml_hash: "9c61ffb9804fd66523dbda2ae8674c2c375826d5b8fa434ff9659b9731717400"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om inndelingen av rettskretser og lagdømmer
+
+## Kapittel 1. Rettskretser
+
+### § 1. Rettskretser og rettssteder
+
+Landet deles inn i rettskretser. Hver rettskrets har en tingrett i første instans med ett eller flere rettssteder, som dekker én eller flere kommuner.
+
+### § 2. Romssa/Troms/Tromssan, Finnmárkku/Finnmark/Finmarkun og Nordland
+
+Romssa fylka/Troms fylke/Tromssan fylkki, Finnmárkku fylka/Finnmark fylke/Finmarkun fylkki og Nordland fylke har rettskretseneVestre Finnmark tingrett, med rettssteder i Alta og Hámmerfeasta/Hammerfest, som dekker kommunene Alta, Hammerfest/Hámmerfeasta, Hasvik, Kvænangen, Loppa, Måsøy, Nordkapp og Porsáŋgu/Porsanger/Porsanki,Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett, med rettssteder i Deatnu/Tana og Vadsø, som dekker kommunene Berlevåg, Båtsfjord, Deatnu/Tana, Gamvik, Guovdageaidnu/Kautokeino, Kárášjohka/Karasjok, Lebesby, Sør-Varanger, Unjárga/Nesseby, Vadsø og Vardø,Nord-Troms og Senja tingrett, med rettssteder i Finnsnes og Tromsø, som dekker kommunene Balsfjord, Bardu, Dyrøy, Gáivuotna/Kåfjord/Kaivuno, Karlsøy, Lyngen, Målselv, Nordreisa/Ráisa/Raisi, Senja, Skjervøy, Omasvuotna/Storfjord/Omasvuono, Sørreisa og Tromsø,Midtre Hålogaland tingrett, med rettssteder i Hárstták/Harstad, Narvik og Suortá/Sortland, som dekker kommunene Andøy, Bø, Dielddanuorri/Tjeldsund, Evenes, Gratangen, Hadsel, Hárstták/Harstad, Ibestad, Kvæfjord, Loabák/Lavangen, Lødingen, Narvik, Salangen, Suortá/Sortland og Øksnes,Salten og Lofoten tingrett, med rettssteder i Bodø og Svolvær, som dekker kommunene Beiarn, Bodø, Fuosko/Fauske, Flakstad, Gildeskål, Hábmer/Hamarøy, Meløy, Moskenes, Rødøy, Røst, Saltdal, Steigen, Sørfold, Vestvågøy, Værøy og Vågan, ogHelgeland tingrett, med rettssteder i Brønnøysund, Mo i Rana og Sandnessjøen, som dekker kommunene Alstahaug, Aarborte/Hattfjelldal, Bindal, Brønnøy, Dønna, Grane, Hemnes, Herøy, Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega og Vevelstad.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 3. Trööndelagen/Trøndelag
+
+Trööndelagen fylhke/Trøndelag fylke har rettskretsen Trøndelag tingrett, med rettssteder i Brekstad, Nåavmesjenjaelmie/Namsos, Steinkjer og Trondheim, som dekker kommunene Flatanger, Frosta, Frøya, Grong, Heim, Hitra, Holtålen, Høylandet, Inderøy, Indre Fosen, Leka, Levanger, Lierne, Malvik, Melhus, Meråker, Midtre Gauldal, Nåavmesjenjaelmie/Namsos, Namsskogan, Nærøysund, Oppdal, Orkland, Osen, Overhalla, Raarvihke/Røyrvik, Rennebu, Rindal, Røros, Selbu, Skaun, Snåase/Snåsa, Steinkjer, Stjørdal, Trondheim, Tydal, Verdal, Ørland og Åfjord.
+
+### § 4. Møre og Romsdal
+
+Møre og Romsdal fylke har rettskretseneNordmøre og Romsdal tingrett, med rettssteder i Kristiansund og Molde, som dekker kommunene Aukra, Aure, Averøy, Gjemnes, Hustadvika, Kristiansund, Molde, Rauma, Smøla, Sunndal, Surnadal, Tingvoll og Vestnes, ogSunnmøre tingrett, med rettssteder i Volda og Ålesund, som dekker kommunene Fjord, Giske, Haram, Hareid, Herøy, Sande, Stranda, Sula, Sykkylven, Ulstein, Vanylven, Volda, Ørsta og Ålesund.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025, endring endret ved forskrift [23 mai 2025 nr. 841](forskrift/2025-05-23-841)).
+
+### § 5. Vestland og Rogaland
+
+Vestland fylke og Rogaland fylke har rettskretseneSogn og Fjordane tingrett, med rettssteder i Førde og Sogndal, som dekker kommunene Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik og Årdal,Hordaland tingrett, med rettssted i Bergen, som dekker kommunene Alver, Askøy, Austevoll, Austrheim, Bergen, Bjørnafjorden, Fedje, Masfjorden, Modalen, Osterøy, Vaksdal, og Øygarden,Hardanger og Voss tingrett, med rettssted i Lofthus, som dekker kommunene Eidfjord, Kvam, Samnanger, Ullensvang, Ulvik og Voss herad,Haugaland og Sunnhordland tingrett, med rettssteder i Haugesund og Stord, som dekker kommunene Bokn, Bømlo, Etne, Fitjar, Haugesund, Karmøy, Kvinnherad, Sauda, Stord, Suldal, Sveio, Tysnes, Tysvær, Utsira og Vindafjord, ogSør-Rogaland tingrett, med rettssteder i Egersund, Sandnes og Stavanger, som dekker kommunene Bjerkreim, Eigersund, Gjesdal, Hjelmeland, Hå, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sirdal, Sokndal, Sola, Stavanger, Strand og Time.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 6. Agder
+
+Agder fylke har rettskretsen Agder tingrett, med rettssteder i Arendal, Farsund og Kristiansand, som dekker kommunene Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Farsund, Flekkefjord, Froland, Gjerstad, Grimstad, Hægebostad, Iveland, Kristiansand, Kvinesdal, Lillesand, Lindesnes, Lyngdal, Risør, Tvedestrand, Valle, Vegårshei, Vennesla, Åmli og Åseral.
+
+### § 7. Vestfold og Telemark
+
+Vestfold fylke og Telemark fylke har rettskretseneØvre Telemark tingrett, med rettssteder i Kviteseid og Notodden, som dekker kommunene Fyresdal, Hjartdal, Kviteseid, Midt-Telemark, Nissedal, Notodden, Seljord, Tinn, Tokke og Vinje,Nedre Telemark tingrett, med rettssted i Skien, som dekker kommunene Bamble, Drangedal, Kragerø, Nome, Porsgrunn, Siljan og Skien, ogVestfold tingrett, med rettssted i Tønsberg, som dekker kommunene Færder, Holmestrand, Horten, Larvik, Sandefjord og Tønsberg.
+
+> Endret ved forskrifter 22 jan 2021 nr. 163 (i kraft 1 jan 2023, endringen fremgår av dennes forskriftens [§ 18](forskrift/2021-01-22-163/§18) slik den lød før 10 juni 2025), [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 8. Buskerud og Innlandet
+
+Buskerud fylke og Innlandet fylke har rettskretseneBuskerud tingrett, med rettssteder i Drammen, Hokksund og Kongsberg, som dekker kommunene Drammen, Flesberg, Kongsberg, Krødsherad, Lier, Modum, Nore og Uvdal, Rollag, Sigdal og Øvre Eiker,Ringerike og Hallingdal tingrett, med rettssteder i Hønefoss og Nesbyen, som dekker kommunene Flå, Gol, Hemsedal, Hol, Hole, Jevnaker, Lunner, Nesbyen, Ringerike og Ål,Vestoppland og Valdres tingrett, med rettssteder i Fagernes og Gjøvik, som dekker kommunene Etnedal, Gjøvik, Gran, Nord-Aurdal, Nordre Land, Søndre Land, Sør-Aurdal, Vestre Slidre, Vestre Toten, Vang, Østre Toten, og Øystre Slidre,Gudbrandsdal tingrett, med rettssteder i Lillehammer og Vågåmo, som dekker kommunene Dovre, Gausdal, Lesja, Lillehammer, Lom, Nord-Fron, Ringebu, Sel, Skjåk, Sør-Fron, Vågå og Øyer, ogHedmarken og Østerdal tingrett, med rettssteder i Elverum, Hamar og Tynset, som dekker kommunene Alvdal, Elverum, Engerdal, Folldal, Hamar, Løten, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Tolga, Trysil, Tynset, Våler, Åmot og Åsnes.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 9. Akershus, Oslo og Østfold
+
+Akershus fylke, Oslo fylke og Østfold fylke har rettskretseneOslo tingrett, med rettssted i Oslo, som dekker Oslo kommune.Asker og Bærum tingrett, med rettssted i Sandvika, som dekker kommunene Asker og Bærum.Romerike og Glåmdal tingrett, med rettssteder i Eidsvoll, Kongsvinger og Lillestrøm, som dekker kommunene Aurskog-Høland, Eidskog, Eidsvoll, Gjerdrum, Grue, Hurdal, Kongsvinger, Lillestrøm, Lørenskog, Nannestad, Nes, Nittedal, Nord-Odal, Rælingen, Sør-Odal og Ullensaker,Follo og Nordre Østfold tingrett, med rettssteder i Mysen og Ski, som dekker kommunene Enebakk, Frogn, Indre Østfold, Marker, Nesodden, Nordre Follo, Skiptvet, Vestby og Ås, ogSøndre Østfold tingrett, med rettssteder i Fredrikstad, Halden, Moss og Sarpsborg, som dekker kommunene Aremark, Fredrikstad, Halden, Hvaler, Moss, Rakkestad, Råde, Sarpsborg og Våler.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+## Kapittel 2. Lagdømmer
+
+### § 10. Lagdømmer og lagsogn
+
+Landet deles inn i lagdømmer som består av flere lagsogn. Hvert lagdømme har en lagmannsrett som er ankeinstans for flere rettskretser.
+
+### § 11. Hålogaland
+
+Lagsognene Nordland, Romsa/Troms og Finnmárku/Finnmark utgjør Hålogaland lagdømme.
+
+Til lagsognet Nordland sogner Helgeland tingrett, Midtre Hålogaland tingrett og Salten og Lofoten tingrett.
+
+Til lagsognet Romsa/Troms sogner Nord-Troms og Senja tingrett.
+
+Til lagsognet Finnmárku/Finnmark sogner Vestre Finnmark tingrett Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett.
+
+### § 12. Frostating
+
+Lagsognene Møre og Romsdal og Trööndelagen/Trøndelag utgjør Frostating lagdømme.
+
+Til lagsognet Møre og Romsdal sogner Nordmøre og Romsdal tingrett og Sunnmøre tingrett.
+
+Til lagsognet Trööndelagen/Trøndelag sogner Trøndelag tingrett.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 13. Gulating
+
+Lagsognene Rogaland og Vestland utgjør Gulating lagdømme.
+
+Til lagsognet Rogaland sogner Haugaland og Sunnhordland tingrett og Sør-Rogaland tingrett.
+
+Til lagsognet Vestland sogner Hordaland tingrett, Hardanger og Voss tingrett, og Sogn og Fjordane tingrett.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 14. Agder
+
+Lagsognene Agder, Telemark og Vestfold utgjør Agder lagdømme.
+
+Til lagsognet Agder sogner Agder tingrett.
+
+Til lagsognet Telemark sogner Øvre Telemark tingrett og Nedre Telemark tingrett.
+
+Til lagsognet Vestfold sogner Vestfold tingrett.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 15. Borgarting
+
+Lagsognene Oslo, Asker og Bærum, Buskerud og Søndre Østfold utgjør Borgarting lagdømme.
+
+Til lagsognet Oslo, Asker og Bærum sogner Oslo tingrett og Asker og Bærum tingrett.
+
+Til lagsognet Buskerud sogner Buskerud tingrett og Ringerike og Hallingdal tingrett.
+
+Til lagsognet Søndre Østfold sogner Søndre Østfold tingrett.
+
+> Endret ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 16. Eidsivating
+
+Lagsognene Innlandet og Glåmdal, Nordre Østfold og Østre Akershus utgjør Eidsivating lagdømme.
+
+Til lagsognet Innlandet sogner Vestoppland og Valdres tingrett, Gudbrandsdal tingrett og Hedmarken og Østerdal tingrett.
+
+Til lagsognet Glåmdal, Nordre Østfold og Østre Akershus sogner Romerike og Glåmdal tingrett og Follo og Nordre Østfold tingrett.
+
+> Endret ved forskrifter [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025), [15 aug 2025 nr. 1646](forskrift/2025-08-15-1646).
+
+## Kapittel 3. Ikrafttredelse og overgangsbestemmelser
+
+### § 17. Opphevet
+
+> Endret ved [forskrift 19 mars 2021 nr. 761](forskrift/2021-03-19-761), opphevet ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025, for forskriftens bestemmelser om ikrafttredelse, se forskriftene i Norsk Lovtidend eller historiske versjoner).
+
+### § 18. Opphevet
+
+> Endret ved [forskrift 19 mars 2021 nr. 761](forskrift/2021-03-19-761), opphevet ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 19. Opphevet
+
+> Tilføyd ved [forskrift 19 mars 2021 nr. 761](forskrift/2021-03-19-761), opphevet ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 20. Opphevet
+
+> Tilføyd ved [forskrift 19 mars 2021 nr. 761](forskrift/2021-03-19-761), opphevet ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).
+
+### § 21. Opphevet
+
+> Tilføyd ved [forskrift 19 mars 2021 nr. 761](forskrift/2021-03-19-761), opphevet ved forskrift [4 april 2025 nr. 597](forskrift/2025-04-04-597) (i kraft 10 juni 2025).

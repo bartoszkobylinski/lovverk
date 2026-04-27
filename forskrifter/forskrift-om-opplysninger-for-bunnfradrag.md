@@ -1,0 +1,58 @@
+---
+id: "sf-19930211-0107"
+slug: "forskrift-om-opplysninger-for-bunnfradrag"
+type: "forskrift"
+ref_id: "forskrift/1993-02-11-107"
+title: "Forskrift om innhenting av opplysninger ved fastsettelse av bunnfradrag."
+short_title: "Forskrift om opplysninger for bunnfradrag"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1993-02-11"
+last_change_in_force: null
+last_updated: null
+xml_hash: "da9f68f1fd126046ec451e652266806f486a6672962ed40f22dc512f8fb6039b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innhenting av opplysninger ved fastsettelse av bunnfradrag.
+
+## I
+
+### § 1
+
+Kommunen kan innhente opplysninger om antall selvstendige boenheter i faste eiendommer i kommunen og om noen av disse boenhetene benyttes i forbindelse med næringsvirksomhet.
+
+Innhenting av opplysninger etter denne forskrift forutsetter at kommunestyret har truffet vedtak om bruk av bunnfradrag i eiendomsskattetakstene for vedkommende skatteår, jf. [lov av 6. juni 1975 nr. 29](lov/1975-06-06-29) om eigedomsskatt til kommunane [§ 11](lov/1975-06-06-29/§11).
+
+### § 2
+
+Plikten til å avgi opplysninger etter denne forskrift påhviler eiendommens eier. I boligselskaper og boligsameier som har eget styre påhviler plikten likevel dette organ.
+
+### § 3
+
+Opplysninger etter denne forskrift kan innhentes ved skjema som fastsettes av kommunen.
+
+Skjemaet skal inneholdekommunens retningslinjer for avgrensning av selvstendige boenheter,felt for angivelse av antall selvstendige boenheter i eiendommen i henhold til kommunens retningslinjer,felt for angivelse av hvilke selvstendige boenheter i eiendommen som benyttes i forbindelse med næringsvirksomhet,opplysning om hvor skjemaet skal leveres.
+
+Skjemaet skal også tydelig gi opplysning om forhold som nevnt i [§ 4](forskrift/1993-02-11-107/§4) vedrørende tilfredsstillende utfylling og innsendelsesfrist.
+
+Skjemaet kan inneholde felt hvor den som er opplysningspliktig etter eget ønske kan gi særskilte opplysninger av betydning for fastsettelse av bunnfradrag.
+
+### § 4
+
+Frist for innsendelse av skjema kan ikke settes kortere enn 4 uker etter at skjemaene ble utsendt.
+
+Kommunen kan vedta at det ikke skal fastsettes bunnfradrag i eiendomsskattetakstene for eiendommer hvor tilfredsstillende utfylt skjema ikke er innsendt innen gjeldende frist.
+
+Godtgjør noen innen fristens utløp at det av særlige grunner vil skape betydelige vanskeligheter å levere korrekt utfylt skjema innen fristen, skal kommunen etter skriftlig søknad gi utsetting.
+
+Forsinket skjema godtas når fristoversittelsen må anses som særlig unnskyldelig på grunn av årsak som ikke kan legges vedkommende til last.
+
+## II
+
+Denne forskrift trer i kraft straks.

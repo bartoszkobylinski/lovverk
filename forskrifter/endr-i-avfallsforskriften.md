@@ -1,0 +1,30 @@
+---
+id: "sf-20251203-2424"
+slug: "endr-i-avfallsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2025-12-03-2424"
+title: "Forskrift om endring i avfallsforskriften kapittel 14 (endring av maksimal normalpris for levering av isolerglassruter)"
+short_title: "Endr. i avfallsforskriften"
+language: "nb"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "2b415e50b3eb3ba470fe7f1eebc4fd50061737a23bb6760dc32851eb07de68fa"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i avfallsforskriften kapittel 14 (endring av maksimal normalpris for levering av isolerglassruter)
+
+## I
+
+Maksimal normalpris for levering av isolerglassruter i årene 2026–2028 er kr 1 850,– per tonn eksklusive merverdiavgift.
+
+## II
+
+Endringen trer i kraft 1. januar 2026.

@@ -1,0 +1,164 @@
+---
+id: "sf-20161028-1258"
+slug: "elsam-forskriften"
+type: "forskrift"
+ref_id: "forskrift/2016-10-28-1258"
+title: "Forskrift om elektronisk kommunikasjon med domstolene"
+short_title: "ELSAM-forskriften"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2016-10-28"
+last_change_in_force: "2024-01-01"
+last_updated: "2016-11-29"
+xml_hash: "fe50ee5fc02de33024124c6202a823b57d35cd5df70118d46a7cd65a94efbc90"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om elektronisk kommunikasjon med domstolene
+
+## § 1. Formål
+
+Forskriften skal legge til rette for sikker og effektiv bruk av elektronisk kommunikasjon med domstolene og bidra til at advokater og andre aktører kan kommunisere med domstolene på en enkel måte.
+
+## § 2. Virkeområde
+
+Forskriften gjelder elektronisk kommunikasjon i nettportalen og ved systemintegrasjonmellom domstolene og aktører i sivile saker, saker som er reist for jordskifteretten og straffesakerved krav om salær fra det offentlige fremsatt overfor domstolene.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 3. Hvem som kan kommunisere elektronisk i nettportalen
+
+For å kunne sende inn og motta dokumenter elektronisk, skal bruker være registrert i nettportalen, jf. [§ 5](forskrift/2016-10-28-1258/§5), såfremt den tekniske løsningen åpner for det. Som bruker kan følgende registrere seg:advokater og autoriserte advokatfullmektigersalærberettigete som skal framsette krav om salær etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v.rettsoppnevnte sakkyndige, tolker eller andre profesjonelle aktørermeddommere, jordskiftemeddommere og skjønnsmedlemmerselvprosederende parterprivatpersoner.
+
+Registrering som bruker skjer ved utfylling av et elektronisk skjema utformet av Domstoladministrasjonen. Ved utfylling av skjemaet aksepterer bruker vilkårene for tilgang til og bruk av nettportalen, herunder at skriftlig kommunikasjon med retten så langt mulig skal skje elektronisk. Plikten til elektronisk kommunikasjon gjelder så lenge vedkommende er registrert som bruker av nettportalen.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 3a. Obligatorisk bruk av nettportalen for advokater og autoriserte advokatfullmektiger
+
+Advokater og autoriserte advokatfullmektiger plikter å registrere seg som bruker i nettportalen og kommunisere gjennom nettportalen med domstolene som omfattes av forskriften.
+
+Plikten etter første ledd inntrer når vedkommende opptrer som prosessfullmektig i en skjønns- eller tvistesak etter [§ 2 bokstav a](forskrift/2016-10-28-1258/§2/bokstav/a), opptrer som forsvarer eller bistandsadvokat i straffesak etter [§ 2 bokstav a](forskrift/2016-10-28-1258/§2/bokstav/a), fremsetter krav om salær etter [§ 2 bokstav b](forskrift/2016-10-28-1258/§2/bokstav/b), eller når vedkommende blir bedt om å registrere seg i nettportalen av en domstol. Plikten gjelder såfremt den tekniske løsningen åpner for det.
+
+I saker hvor det ikke gjelder plikt som nevnt i første og annet ledd, kan domstolen, om den finner det hensiktsmessig, beslutte at kommunikasjonen mellom domstolen og advokat eller autorisert advokatfullmektig skal skje gjennom nettportalen.
+
+I saker hvor det gjelder plikt som nevnt i første og annet ledd, kan domstolen, om kommunikasjonen medfører uforholdsmessige merkostnader eller ulemper, beslutte at kommunikasjonen med domstolen i saken ikke skal skje gjennom nettportalen.
+
+Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet, kan Domstoladministrasjonen for et avgrenset tidsrom beslutte at en bestemt del eller hele saksporteføljen til en eller flere domstoler ikke skal behandles i nettportalen.
+
+> Tilføyd ved forskrift [10 aug 2018 nr. 1230](forskrift/2018-08-10-1230) (i kraft 15 sep 2018), endret ved forskrifter [14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019), [17 nov 2023 nr. 1855](forskrift/2023-11-17-1855) (i kraft 1 jan 2024).
+
+## § 3b. Obligatorisk bruk av nettportalen for rettsoppnevnte sakkyndige og tolker
+
+> **Tilføyes** ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
+
+## § 4. Portalmedhjelper
+
+Registrert bruker etter [§ 3](forskrift/2016-10-28-1258/§3) første ledd bokstav a og b kan utpeke en eller flere medarbeidere ved samme kontor som portalmedhjelper.
+
+Portalmedhjelper som har egen advokatbevilling, eller som er autorisert advokatfullmektig for registrert bruker, kan utføre prosesshandlinger for registrert bruker, i den grad det er tillatt etter rettspleielovgivningen ved ikke-elektronisk kommunikasjon med domstolene. Andre portalmedhjelpere kan på vegne av registrert bruker utføre det praktiske databehandlingsarbeidet på nettportalen.
+
+Registrert bruker hefter for alle disposisjoner portalmedhjelper foretar. Registrert bruker kan begrense portalmedhjelpers rettigheter i nettportalen.
+
+## § 5. Nettportal for elektronisk innlevering og mottak av dokumenter
+
+Domstoladministrasjonen skal etablere og drive nettportalen for kommunikasjon mellom domstolen og registrert bruker. Nettportalen skal være tilgjengelig for registrert bruker og portalmedhjelper ved pålogging på domstolenes internettsider.
+
+Gjennom nettportalen skal bruker kunne signere og levere inn dokumenter og motta dokumenter, forkynnelser og andre meddelelser fra retten. Saksinformasjon, dokumentliste og saksdokumenter i verserende saker skal være tilgjengelige for bruker gjennom nettportalen. Informasjon og dokumenter lagres ikke i nettportalen, men i domstolenes alminnelige fagsystem.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 5a. Løsninger for systemintegrasjon
+
+Domstoladministrasjonen kan etablere løsninger for direkte kommunikasjon mellom domstolenes fagsystemer og aktørers fagsystemer.
+
+En løsning for systemintegrasjon skal være utformet på en betryggende måte. Den skal ha tilfredsstillende løsninger for kommunikasjon, signatur og notoritet. Reglene om informasjonssikkerhet og internkontroll i [§ 12](forskrift/2016-10-28-1258/§12) gjelder tilsvarende.
+
+Domstoladministrasjonen kan stille krav til systemene som skal kommunisere med domstolenes fagsystemer, herunder til teknisk og praktisk innretning, forhåndsgodkjenning, sikkerhet og vedlikehold. Domstoladministrasjonen kan nekte bruk av et bestemt system i en løsning for systemintegrasjon. Det kan stilles vilkår for bruk av en løsning for systemintegrasjon.
+
+> Tilføyd ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 5b. Kommunikasjon gjennom en løsning for systemintegrasjon
+
+En løsning for systemintegrasjon kan brukes i all kommunikasjon med domstolene, herunder ved forkynning, såfremt den tekniske løsningen åpner for det.
+
+Kommunikasjon gjennom en løsning for systemintegrasjon likestilles med kommunikasjon gjennom nettportalen. Reglene om bruk av nettportalen gjelder så langt de passer.
+
+Kommunikasjon gjennom en løsning for systemintegrasjon oppfyller krav om obligatorisk bruk av nettportalen etter [§ 3a](forskrift/2016-10-28-1258/§3a). Reglene i [§ 3a](forskrift/2016-10-28-1258/§3a) annet til femte ledd gjelder tilsvarende.
+
+> Tilføyd ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 6. Elektronisk innlevering av dokumenter til retten
+
+Såfremt den tekniske løsningen åpner for det, kan bruker sende inn elektronisk i portalenethvert dokument som skal sendes retten i sivil sak, sak som er reist for jordskifteretten eller straffesakarbeidsoppgave etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. [§ 5](forskrift/1997-12-03-1441/§5) og andre dokumenter som skal sendes retten i tilknytning til salærkravet, herunder senere merknader, redegjørelse og vedlegg til disse.
+
+Arbeidsoppgave skal leveres på nettportalen på elektronisk skjema fastsatt av Justis- og beredskapsdepartementet.
+
+Retten kan i den enkelte sak pålegge bruker å ettersende papirkopi av dokumenter som er innsendt elektronisk.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019). **Endres** ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
+
+## § 7. Bekreftelse på at dokument er mottatt
+
+Ved elektronisk innlevering skal bruker motta bekreftelse i nettportalen på at dokument er mottatt. Bekreftelsen skal inneholde saksnummer, dato og tidspunktet for mottakelsen.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 8. Fristavbrudd
+
+Skal en prosesshandling foretas innen en frist, avbrytes fristen når prosesshandlingen er foretatt ved elektronisk innsendelse gjennom nettportalen. Dersom den elektroniske innsendelsen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet i nettportalen, kan fristen avbrytes ved forsendelse til den aktuelle domstolens elektroniske adresse etterfulgt av elektronisk innsendelse gjennom nettportalen når driftsforstyrrelsen eller den tekniske ustabiliteten er opphørt.
+
+> Endret ved forskrift [17 nov 2023 nr. 1855](forskrift/2023-11-17-1855) (i kraft 1 jan 2024).
+
+## § 9. Elektronisk kommunikasjon fra retten til brukeren
+
+Retten kan i enhver sak som nevnt i [§ 2](forskrift/2016-10-28-1258/§2), sende all informasjon elektronisk til registrert bruker av nettportalen. Retten kan gi forkynnelser og meddelelser i elektronisk form.
+
+For elektronisk forkynnelse gjelder [forskrift 11. oktober 1985 nr. 1810](forskrift/1985-10-11-1810) om postforkynning [§ 4](forskrift/1985-10-11-1810/§4) tredje ledd, [§ 7](forskrift/1985-10-11-1810/§7) og [§ 8](forskrift/1985-10-11-1810/§8).
+
+Ved elektronisk forkynnelse gjelder ikke [domstolloven § 162](lov/1915-08-13-5/§162).
+
+Annet og tredje ledd trer i kraft når departementet bestemmer.
+
+> Endret ved [forskrift 10 aug 2018 nr. 1230](forskrift/2018-08-10-1230) (i kraft 15 sep 2018. Endringen gjaldt rettelse i annet ledd. Annet og tredje ledd trer i kraft når departementet bestemmer.)
+
+## § 10. Varsel om nye dokumenter
+
+Bruker skal motta varsel til den elektroniske adressen bruker har oppgitt når et dokument er sendt til elektronisk forkynnelse gjennom nettportalen, og når et dokument det er forbundet frister med gjøres tilgjengelig i nettportalen.
+
+Nettportalen skal gi bruker god oversikt over nye innkomne dokumenter og løpende frister i sine verserende saker.
+
+> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019).
+
+## § 11. Krav til elektronisk signatur
+
+Kreves det med hjemmel i lov underskrift på dokumenter som skal innleveres elektronisk, er signering på domstolenes nettportal likestilt med underskrift.
+
+Nettportalen skal sikre tilstrekkelig notoritet for signaturen på det innleverte dokument ved integritetsbeskyttelse, sporbarhet og at det i ettertid ikke er mulig å benekte at dokumentet er sendt.
+
+## § 12. Informasjonssikkerhet og internkontroll
+
+Domstoladministrasjonen skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet for konfidensialitet, integritet og tilgjengelighet. Bestemmelsene i personvernforordningen artikkel 32 og 33 gjelder tilsvarende.
+
+Elektronisk kommunikasjon mellom domstolen og registrert bruker skal sikres med tilfredsstillende innloggingssystem og betryggende metode for autentisering av kommunikasjonspartene. Det skal brukes metoder for å sikre at det i ettertid ikke er mulig å benekte at dokumentet er sendt.
+
+Domstoladministrasjonen skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for de ansatte i domstolene som omfattes av denne forskriften.
+
+> Endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+## § 13. Arkivering av elektroniske dokumenter og signaturer
+
+Dokumenter som leveres inn elektronisk i portalen, arkiveres i samsvar med domstolenes alminnelige arkivrutiner.
+
+For arkivering av avansert elektronisk signatur gjelder [forskrift 25. juni 2004 nr. 988](forskrift/2004-06-25-988) om elektronisk kommunikasjon med og i forvaltningen [§ 28](forskrift/2004-06-25-988/§28) tilsvarende.
+
+## § 14. Ikrafttredelse
+
+Forskriften trer i kraft straks for Fredrikstad tingrett, Oslo tingrett, Sunnmøre tingrett, Sør-Trøndelag tingrett, Borgarting lagmannsrett og Frostating lagmannsrett. Fra samme tidspunkt oppheves [forskrift 12. februar 2012 nr. 140](forskrift/2012-02-12-140) om prøveordning med elektronisk kommunikasjon med domstolene.
+
+For øvrige domstoler trer forskriften i kraft fra den tid Domstoladminstrasjonen bestemmer. Domstoladministrasjonen kan beslutte at forskriften skal tre i kraft til forskjellig tid for de forskjellige domstolene.1

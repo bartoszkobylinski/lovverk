@@ -1,0 +1,48 @@
+---
+id: "nl-19920529-050"
+slug: "lov-om-inspeksjoner-av-styrker-i-europa"
+type: "lov"
+ref_id: "lov/1992-05-29-50"
+title: "Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl"
+short_title: "Lov om inspeksjoner av styrker i Europa"
+language: "nb"
+ministry:
+  - "Utenriksdepartementet"
+date_in_force: "1992-11-09"
+last_change_in_force: "2015-10-01"
+last_updated: "2021-07-07"
+xml_hash: "59ba356e81a4ba756a10f418b0d06ec0ce6915d7c35eacce0b23901492ca8449"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl
+
+## § 1.
+
+Det kan foretas inspeksjoner av installasjoner og områder som staten ikke selv eier eller råder over, i samsvar med Avtalen om konvensjonelle styrker i Europa av 19. november 1990.
+
+Kongen kan pålegge grunneieren eller andre rettighetshavere plikter som er nødvendige for gjennomføring av inspeksjonen.
+
+## § 2.
+
+De personer som etter Avtalen om konvensjonelle styrker i Europa skal nyte immunitet og privilegier, innrømmes immunitet og privilegier i samsvar med nevnte traktats bestemmelser uten hinder av norsk lov.
+
+Kongen kan gi nærmere regler om gjennomføringen av bestemmelser om immunitet og privilegier.
+
+## § 3.
+
+Denne lov gjelder også for Svalbard.
+
+## § 4.
+
+Den som forsettlig eller uaktsomt hindrer en inspeksjon som er omfattet av Avtalen om konvensjonelle styrker i Europa, eller overtrer vedtak fattet i medhold av denne lov, straffes med bøter.
+
+> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 5.
+
+Denne lov trer i kraft på det tidspunkt1 avtalen om konvensjonelle styrker i Europa trer i kraft.

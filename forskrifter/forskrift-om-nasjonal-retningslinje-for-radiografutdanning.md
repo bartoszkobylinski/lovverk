@@ -1,0 +1,172 @@
+---
+id: "sf-20250704-1483"
+slug: "forskrift-om-nasjonal-retningslinje-for-radiografutdanning"
+type: "forskrift"
+ref_id: "forskrift/2025-07-04-1483"
+title: "Forskrift om nasjonal retningslinje for radiografutdanning"
+short_title: null
+language: "nb"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2025-08-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "3a90e3ec9d444d9b7623dc61af0f51401b74a1a115b19dad188c2569fc03e7df"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om nasjonal retningslinje for radiografutdanning
+
+## Kapittel 1. Virkeområde og formål
+
+### § 1. Virkeområde og formål
+
+Forskriften gjelder for universiteter og høyskoler som gir radiografutdanning.
+
+Forskriften gjelder for 3-årig bachelorgrad i radiografi.
+
+Forskriften skal sikre et nasjonalt likeverdig faglig nivå, slik at kandidatene som uteksamineres, har en felles sluttkompetanse, uavhengig av utdanningsinstitusjon.
+
+### § 2. Formål med utdanningen
+
+Formålet med radiografutdanningen er å utdanne ansvarsbevisste, reflekterte og faglig kompetente radiografer som selvstendig og i samarbeid med andre utøver radiografi. Utdanningen skal være kunnskapsbasert, profesjonsrettet og praksisnær og i tråd med samfunnsmessig, vitenskapelig og teknologisk utvikling.
+
+I radiografi anvendes høyteknologisk bildedannende medisinsk utstyr for sikker diagnostikk og behandling. Kandidaten skal ha en sentral rolle i å vurdere kvalitet, ivareta strålevern og pasientsikkerhet, samt i arbeidet med å optimalisere prosedyrer. Kandidaten skal kunne utøve kunnskapsbasert praksis basert på faglig forsvarlighet og helhetlig omsorg for det enkelte mennesket, selvstendig og gjennom tverrprofesjonelt samarbeid.
+
+Radiografi er sammensatt av flere fagområder der kombinasjonen av disse utgjør fagets kjerne. Med kompetanse innen teknologi, biologiske basalfag og omsorgsfag skal radiografen sikre bildediagnostiske undersøkelser og behandling av høy kvalitet.
+
+Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant samers status som urfolk og deres rettigheter til språklige og kulturelt tilrettelagte tjenester.
+
+### § 3. Kompetanseområder
+
+Radiografutdanningen skal gi læringsutbytte i tråd med kravene i [kapittel 2](forskrift/2025-07-04-1483/kap2) til [8](forskrift/2025-07-04-1483/kap8) under følgende kompetanseområder:Anatomi, fysiologi, patologi og farmakologiFysikk og bildedannelsePasientomsorg, kommunikasjon og etikkStrålevernDigitalisering og e-helseForskning, fagutvikling og innovasjonHelsepolitikk og samfunn.
+
+Læringsutbyttebeskrivelsene i [§ 10](forskrift/2025-07-04-1483/§10) b, [§ 11](forskrift/2025-07-04-1483/§11) e–h, [§ 12](forskrift/2025-07-04-1483/§12) b og d, [§ 16](forskrift/2025-07-04-1483/§16) a, [§ 17](forskrift/2025-07-04-1483/§17) b, [§ 18](forskrift/2025-07-04-1483/§18) a, [§ 20](forskrift/2025-07-04-1483/§20) b, [§ 21](forskrift/2025-07-04-1483/§21) a og d, [§ 22](forskrift/2025-07-04-1483/§22) a–c, [§ 23](forskrift/2025-07-04-1483/§23) a og [§ 24](forskrift/2025-07-04-1483/§24) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
+
+## Kapittel 2. Læringsutbytte for kompetanseområdet anatomi, fysiologi, patologi og farmakologi
+
+### § 4. Anatomi, fysiologi, patologi og farmakologi – Kunnskap
+
+Kandidatenhar bred kunnskap om anatomi, fysiologi, molekylærbiologi og patologi i alle organsystemer og hvordan disse framstilles med bildediagnostiske modaliteterhar bred kunnskap om mikrobiologi og infeksjonsforebyggende tiltakhar kunnskap om generell farmakologi og legemiddelregning, spesielt legemidler anvendt ved bildediagnostiske undersøkelser og behandling, samt interaksjoner og bivirkningerhar kunnskap om hvordan patologiske prosesser påvirker gjennomføring av bildediagnostiske undersøkelser og behandlingkjenner til relevant lovgivning og forskrifter for legemiddelbruk, herunder retningslinjer for dokumentasjon og avvikshåndtering.
+
+### § 5. Anatomi, fysiologi, patologi og farmakologi – Ferdigheter
+
+Kandidatenkan anvende faglig kunnskap om anatomi, fysiologi og patologi for å oppnå god diagnostisk bildekvalitetkan vurdere framstilling av normal anatomi og vanlig forekommende patologi ved konvensjonell røntgen, CT og MRkan vurdere pasientens kliniske tilstand og tilpasse bildediagnostiske undersøkelser til den enkelte pasientkan beherske forberedelser og administrering av aktuelle legemidler.
+
+### § 6. Anatomi, fysiologi, patologi og farmakologi – Generell kompetanse
+
+Kandidatenkan planlegge og utføre kunnskapsbasert radiografi, samt systematisk vurdere kvalitet av arbeid som grunnlag for sikker diagnostikk og behandlingkan formidle legemiddelinformasjon om bruk, bivirkninger og identifisere risikofaktorer ved bruk av kontrastmidler, radiofarmaka og andre aktuelle medikamenter.
+
+## Kapittel 3. Læringsutbytte for kompetanseområdet fysikk og bildedannelse
+
+### § 7. Fysikk og bildedannelse – Kunnskap
+
+Kandidatenhar bred kunnskap innenfor fysikk, apparatlære, bildedannelse, opptaksteknikker og sikkerhet knyttet til konvensjonell røntgen, CT og MRhar kunnskap om prinsipper og metoder for bildebehandling og dens betydning for bildekvalitet og diagnostisk brukhar kunnskap om ulike metoder for å vurdere og måle bildekvalitet i medisinske bilderkjenner til fysikk, apparatlære, bildedannelse og opptaksteknikker knyttet til andre områder som stråleterapi, ultralyd, nukleærmedisin/PET, intervensjon og mammografi.
+
+### § 8. Fysikk og bildedannelse – Ferdigheter
+
+Kandidatenkan anvende faglig kunnskap innen fysikk og apparatlære til å vurdere berettigelsen av og optimalisere en bildediagnostisk undersøkelsekan vurdere teknisk og diagnostisk bildekvalitetkan beherske ulike bildebehandlingsteknikker og vurdere sammenhengen mellom disse og bildekvalitet.
+
+### § 9. Fysikk og bildedannelse – Generell kompetanse
+
+Kandidatenhar innsikt i oppbygning og virkemåte for utstyret som brukes ved bildediagnostiske undersøkelser og behandlingkan formidle og diskutere sentrale tekniske problemstillinger i faglige og tverrfaglige teamhar innsikt i og kan bidra til kunnskapsutvikling innen fagområdet medisinsk avbildning og bildebehandling.
+
+## Kapittel 4. Læringsutbytte for kompetanseområdet pasientomsorg, kommunikasjon og etikk
+
+### § 10. Pasientomsorg, kommunikasjon og etikk – Kunnskap
+
+Kandidatenhar kunnskap om kliniske symptomer og sykdomstegn ved ulike medisinske tilstander, inkludert akuttmedisinske situasjonerhar kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus og sosioøkonomiske problemerhar kunnskap om kommunikasjons- og veiledningsteorier og metoder, og kan forstå betydningen dette har for kommunikasjon og relasjonsbygginghar kunnskap om relevante etiske teorier og yrkesspesifikke etiske retningslinjer.
+
+### § 11. Pasientomsorg, kommunikasjon og etikk – Ferdigheter
+
+Kandidatenkan gi informasjon og råd til pasient og pårørende, med utgangspunkt i det enkelte menneskets behovkan beherske pasientobservasjon og relevante prosedyrer for å gi individtilpasset omsorg til pasienterkan vurdere risiko og identifisere forverring i pasientens tilstand, komplikasjoner ved legemiddelbruk og kan iverksette nødvendige akuttmedisinske tiltak inkludert hjerte-lungeredningkan beherske hygieniske prinsipper, inkludert sterile prosedyrer, for å forhindre smittespredningkan vurdere risiko for uønskede hendelser for pasient, pårørende og ansatte, og kjenner til metoder for å følge opp dette systematisk innenfor radiografisk praksiskan anvende faglig kunnskap til å identifisere, reflektere over og håndtere etiske problemstillinger i sin tjenesteutøvelsekan samhandle både tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, og initiere slik samhandlingkan identifisere og følge opp mennesker med sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus og sosioøkonomiske problemer og videre sette inn nødvendige tiltak og/eller behandling eller henvise videre ved behov.
+
+### § 12. Pasientomsorg, kommunikasjon og etikk – Generell kompetanse
+
+Kandidatenkan planlegge, gjennomføre og vurdere bildediagnostiske prosedyrer ut fra henvisning, berettigelse og pasientens kliniske tilstand, selvstendig og i tverrfaglig samarbeidhar relasjons-, kommunikasjons- og veiledningskompetanse som gjør kandidaten i stand til å forstå og samhandle med brukere, pasienter og pårørendehar innsikt i relevante fag- og yrkesetiske problemstillingerkan formidle sentralt fagstoff og veilede brukere, pasienter og pårørende og relevant personell som er i lærings-, mestrings- og endringsprosesser.
+
+## Kapittel 5. Læringsutbytte for kompetanseområdet strålevern
+
+### § 13. Strålevern – Kunnskap
+
+Kandidatenhar bred kunnskap om lover, regler og prinsipper for strålevern, herunder ulike organers strålefølsomhet og dosegrenser for yrkeseksponertehar bred kunnskap om stråling og strålevern relatert til mennesker og miljø og hvordan naturlig og medisinsk stråling bidrar til stråledose for pasienter og befolkningen generelthar kunnskap om risiko ved bruk av ioniserende og ikke-ioniserende stråling og hvordan celler og DNA påvirkeskjenner til prinsipper og metoder for kvalitetskontroll og kalibrering av bildedannende medisinsk utstyr.
+
+### § 14. Strålevern – Ferdigheter
+
+Kandidatenkan beherske verktøy for å beregne doser for ioniserende strålingkan vurdere berettigelse og anvende strålevernprinsipper for å optimalisere bruk av ioniserende og ikke-ioniserende strålingkan anvende faglig kunnskap om medisinsk strålebruk til å informere og gi råd til pasienter, pårørende og andre.
+
+### § 15. Strålevern – Generell kompetanse
+
+Kandidatenhar innsikt i og tar ansvar for sikker strålebruk og optimalisering i overenstemmelse med lover, regler og prinsipper for strålevernkan formidle, veilede og gi råd om berettigelse og ivaretakelse av strålevern inkludert pasientens rett til samvalghar innsikt i radiografens profesjonelle rolle og ansvarsområde knyttet til alle aspekter for berettigelse, optimalisering og sikkerhet.
+
+## Kapittel 6. Læringsutbytte for kompetanseområdet digitalisering og e-helse
+
+### § 16. Digitalisering og e-helse – Kunnskap
+
+Kandidatenhar bred digital kompetanse inkludert medisinske bilde- og informasjonssystemer, informasjonsoverføring, bildelagring og teleradiologihar kunnskap om lovverk og regler for taushetsplikt og informasjonssikkerhet samt behandling av sensitiv informasjon.
+
+### § 17. Digitalisering og e-helse – Ferdigheter
+
+Kandidatenkan anvende kunnskap for å behandle sensitiv informasjon på en ansvarlig og sikker måtekan beherske kommunikasjon med andre profesjoner, pasienter og pårørende over digital plattform.kan reflektere over hvordan e-helsesystemer kan koordinere helsetjenester i egen radiografpraksis og på virksomhetsnivå.
+
+### § 18. Digitalisering og e-helse – Generell kompetanse
+
+Kandidatenhar innsikt i og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå.
+
+## Kapittel 7. Læringsutbytte for kompetanseområdet forskning, fagutvikling og innovasjon
+
+### § 19. Forskning, fagutvikling og innovasjon – Kunnskap
+
+Kandidatenhar kunnskap om forskningsprosessen, forskningsetikk, vitenskapsteori og kunnskapsbasert praksis som metodekjenner til egen profesjons oppgaver og ansvarsområder i et organisatorisk, administrativt og samfunnsmessig perspektiv
+
+### § 20. Forskning, fagutvikling og innovasjon – Ferdigheter
+
+Kandidatenkan finne, kritisk vurdere og henvise til informasjon og fagstoff og framstille dette slik at det belyser en problemstillingkan oppdatere seg og anvende ny kunnskap på en metodisk og vitenskapelig måte og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med forsknings- og erfaringsbasert kunnskap.
+
+### § 21. Forskning, fagutvikling og innovasjon – Generell kompetanse
+
+Kandidatenkan planlegge og gjennomføre relevante prosjekter, samt dokumentere og formidle faglig kunnskaphar innsikt i radiografens rolle i faglige beslutningsprosesser som for eksempel screeningprogram og pakkeforløphar innsikt i profesjonens historie og nasjonal og internasjonal profesjonsutøvelsekjenner til nytenkning og innovasjonsprosesser, og kan bidra til tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser
+
+## Kapittel 8. Læringsutbytte for kompetanseområdet helsepolitikk og samfunn
+
+### § 22. Helsepolitikk og samfunn – Kunnskap
+
+Kandidatenhar kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder, slik at kandidaten bidrar til å sikre likeverdige tjenester for alle grupper i samfunnethar kunnskap om og forholder seg til helse- og sosialpolitikk, lover, regelverk innenfor relevante fagområde, inkludert å ha kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltethar kunnskap om barn og unge og kan ivareta deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter.
+
+### § 23. Helsepolitikk og samfunn – Ferdigheter
+
+Kandidatenkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.
+
+### § 24. Helsepolitikk og samfunn – Generell kompetanse
+
+Kandidatenhar innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering.
+
+## Kapittel 9. Studiets oppbygging og praksisstudier
+
+### § 25. Studiets oppbygging
+
+Studiet skal organiseres slik at det fremmer integrering av teoretiske og praktiske emner. Organiseringen skal sikre en jevn studieprogresjon gjennom utdanningsløpet for å oppnå krav til sluttkompetanse angitt i forskriften.
+
+Ferdighetstrening bør starte i første studieår, og foregå kontinuerlig gjennom hele studieløpet. I ferdighetstrening lærer studenten sammenhengen mellom kunnskap og ferdighet ved praktiske øvelser.
+
+Det bør tilrettelegges for praksisstudier ved bildediagnostisk avdeling i løpet av første studieår. Studenten skal gis mulighet til fordypning i et selvvalgt tema i løpet av studiet.
+
+### § 26. Praksisstudier
+
+Praksisstudier inngår som en sentral del av radiografutdanningen. Praksisstudiene utformes slik at de sikrer at læringsutbyttet oppnås. I praksisstudier skal studentene få erfaring i å planlegge, utføre og evaluere radiografi.
+
+Pasientrettede praksisstudier skal som hovedregel ha en varighet på minimum 30 uker, hvorav minst én lengre praksisperiode bør utgjøre minimum 12 uker. Praksisstudiene skal som et minimum omfatte konvensjonell røntgen, CT og MR. Praksisstudier i andre fagområder som nukleærmedisin/PET, stråleterapi, mammografi, barneradiografi, intervensjonsradiografi eller ultralyd bør tilbys etter tilgjengelighet. Praksisstudiene skal sikre kompetanse i pasientobservasjon, iverksettelse av tiltak og ivaretakelse av kritisk syke pasienter, og erfaring med tverrprofesjonelt samarbeid.
+
+## Kapittel 10. Ikrafttredelse og overgangsordninger
+
+### § 27. Ikrafttredelse, overgangsordninger og oppheving av forskrift
+
+Forskriften trer i kraft 1. august 2025.
+
+Universiteter og høyskoler som tilbyr utdanningen, kan tilby eksamen etter [forskrift 1. desember 2005 nr. 1376 til rammeplan for radiografutdanning](forskrift/2005-12-01-1376) inntil 31. desember 2025.
+
+[Forskrift 15. mars 2019 nr. 415 om nasjonal retningslinje for radiografutdanning](forskrift/2019-03-15-415) oppheves fra 1. august 2025.

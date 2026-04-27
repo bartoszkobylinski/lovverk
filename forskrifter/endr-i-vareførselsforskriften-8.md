@@ -1,0 +1,30 @@
+---
+id: "sf-20260312-0397"
+slug: "endr-i-vareførselsforskriften-8"
+type: "forskrift"
+ref_id: "forskrift/2026-03-12-397"
+title: "Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)"
+short_title: "Endr. i vareførselsforskriften"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2026-03-23"
+last_change_in_force: null
+last_updated: null
+xml_hash: "1b1d3d27d77087974dc01b69d964488bbbd96d96dcb97ef2e862868486a60554"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+
+## I
+
+(3) Vare til ambassader og konsulater, diplomatiske og konsulære representanter mv. som kan innføres avgiftsfritt etter [merverdiavgiftsforskriften § 7-5-5](forskrift/2009-12-15-1540/§7-5-5) kan deklareres ved at den som krever fritaket legger frem et særskilt skjema.
+
+## II
+
+Forskriften trer i kraft 23. mars 2026.

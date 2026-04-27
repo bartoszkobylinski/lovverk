@@ -1,0 +1,84 @@
+---
+id: "sf-20040401-0623"
+slug: "forskrift-om-tilskudd-til-prisnedskrivning-av-frukt-og-grønnsaker-i-grunnskolen"
+type: "forskrift"
+ref_id: "forskrift/2004-04-01-623"
+title: "Forskrift om tilskudd til prisnedskrivning av frukt og grønnsaker i grunnskolen"
+short_title: "Forskrift om tilskudd til prisnedskrivning av frukt og grønnsaker i grunnskolen"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2004-04-01"
+last_change_in_force: "2021-09-20"
+last_updated: null
+xml_hash: "c28006718427ad9cdd9af0ca71b52e032bdfa91ca091c99e9b2162e0e5c2dc87"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til prisnedskrivning av frukt og grønnsaker i grunnskolen
+
+## § 1. Formål
+
+Formålet med tilskuddsordningen er å stimulere til et økt forbruk av frukt og grønnsaker ved å tilby alle elever i grunnskolen en frukt eller grønnsak alle skoledager.
+
+## § 2. Virkeområde
+
+Forskriften gjelder godkjente virksomheter som leverer friske frukter og grønnsaker til grunnskoler som deltar i ordningen.
+
+## § 3. Generelle vilkår
+
+Tilskudd etter denne forskriften gis etter fastsatte tilskuddssatser til godkjente leverandører som leverer spiseklare, førsteklasses frukt og grønnsaker til grunnskoler. Vareutvalget skal sikre tilstrekkelig variasjon gjennom hele skoleåret og leveres til samme pris pr. enhet. Helsedirektoratet kan fastsette nærmere krav til kvalitet og utvalg.
+
+Leverandører som deltar i ordningen, forplikter seg til å rettlede om varebehandling og oppbevaring ved skolene.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 4. Valg av leverandører
+
+Opplysningskontoret for frukt og grønnsaker foretar endelig godkjenning av leverandører. Helsedirektoratet kan fastsette nærmere krav til leverandører. Godkjenning gis for 2 år av gangen og kan oppheves ved grovt mislighold. Interesserte som ønsker å bli vurdert som leverandører til ordningen, henvender seg til Opplysningskontoret for frukt og grønnsaker og tas med i leverandørvurderingen ved førstkommende utløp av godkjenningsperioden i det aktuelle leveranseområdet.
+
+Opplysningskontoret for frukt og grønnsaker kan iverksette anbud om leveringsrettigheter når flere ønsker leveranse i samme område.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 5. Fastsettelse av tilskuddsatser
+
+Tilskuddsatsen pr. enhet frukt eller grønnsak fastsettes for hvert kalenderår av Helsedirektoratet etter endelig budsjettvedtak i Stortinget. Helsedirektoratet kan i løpet av avtaleperioden (2 år) foreta endringer i tilskuddssatsen.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 6. Opplysningsplikt
+
+Leverandørenes dokumenterte oppgaver over leveringer av frukt og grønnsaker skal sendes Opplysningskontoret for frukt og grønnsaker senest 30 dager etter siste leveransedag i hvert skolehalvår. Oppgavene skal være attestert av revisor ved krav overstigende kr 20.000. Opplysningskontoret for frukt og grønnsaker foretar utbetaling av prisnedskrivningstilskuddet til leverandørene umiddelbart etter at oppgavene er kontrollert.
+
+## § 7. Etterbetaling, tilbakebetaling og avkortning mv.
+
+Feil i utbetaling skal rettes, enten ved etterbetaling eller ved tilbakebetaling eller trekk i senere utbetalinger av tilskudd.
+
+## § 8. Sanksjoner
+
+Ved overtredelse av bestemmelsene gitt i eller i medhold av denne forskriften gjelder bestemmelsene om sanksjoner og straff i [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3).
+
+> Endret ved forskrift [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
+
+## § 9. Dispensasjon
+
+Helsedirektoratet kan i særlige tilfeller dispensere fra denne forskriften.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 10. Klage
+
+Opplysningskontoret for frukt og grønnsakers vedtak i medhold av forskriften kan påklages til Helsedirektoratet.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 11. Ikrafttredelse og overgangsordning
+
+Forskriften trer i kraft straks, men utbetaling av tilskudd vil gjelde fra 1. januar 2004. Fra samme tid oppheves [forskrift 26. april 2000 nr. 363](forskrift/2000-04-26-363) om tilskudd til prisnedskrivning av frukt og grønt i skolen.
+
+Leverandører som pr. 31. desember 2003 leverer frukt og grønt til denne ordningen, får automatisk forlenget sin avtale t.o.m. 30. juni 2004.

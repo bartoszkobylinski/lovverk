@@ -1,0 +1,154 @@
+---
+id: "sf-20230620-1073"
+slug: "forskrift-om-oppfølgingstiltak-i-arbeids-og-velferdsetatens-egenregi"
+type: "forskrift"
+ref_id: "forskrift/2023-06-20-1073"
+title: "Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi"
+short_title: null
+language: "nb"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2023-06-20"
+last_change_in_force: "2025-08-01"
+last_updated: null
+xml_hash: "554fb4393389673bbc03b5cda26c7122925209770d7ddff6914b4c602e7dc54c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om oppfølgingstiltak i Arbeids- og velferdsetatens egenregi
+
+## Kapittel 1. Fellesbestemmelser
+
+### § 1-1. Formål
+
+Oppfølgingstiltak i Arbeids- og velferdsetatens egenregi skal styrke deltakerens muligheter for å få eller beholde ordinært arbeid og skal bidra til en varig tilknytning til arbeidsmarkedet.
+
+### § 1-2. Definisjoner
+
+I denne forskrift menes med«arbeid med støtte» tilpasset oppfølging som følger metoden Supported Employment (SE)«individuell jobbstøtte» tilpasset oppfølging som følger metoden Individual Placement and Support (IPS)«jobbspesialist» en veileder som gir oppfølging i samsvar med metoden SE eller IPS.
+
+### § 1-3. Vilkårene for deltakelse
+
+Oppfølgingstiltak skal være nødvendig og hensiktsmessig for at deltakeren kan få eller beholde lønnet arbeid. Arbeids- og velferdsetaten kan kreve at deltakeren gjennomgår en behovs- eller arbeidsevnevurdering, jf. [arbeids- og velferdsforvaltningsloven § 14a](lov/2006-06-16-20/§14a).
+
+Oppfølgingstiltak opphører når vilkårene for deltakelse ikke lenger er oppfylt, eller deltakeren ikke lenger ønsker å delta.
+
+### § 1-4. Avgjørelsesmyndighet
+
+Arbeids- og velferdsetaten gir tilbud om oppfølgingstiltak etter denne forskriften.
+
+## Kapittel 2. Arbeid med støtte
+
+### § 2-1. Personkrets
+
+Arbeid med støtte kan tilbys personer som har fylt 16 år, og som har behov for en mer omfattende formidlings- og oppfølgingsbistand enn den som tilbys etter [arbeids- og velferdsforvaltningsloven § 4](lov/2006-06-16-20/§4) tredje ledd.
+
+### § 2-2. Innhold
+
+Deltakere i arbeid med støtte kan få tilbud omregelmessig og tilpasset oppfølging fra en jobbspesialist,karriereveiledning og yrkesplanlegging,bistand til å komme i arbeid i en ordinær virksomhet,tilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver, ognødvendig hjelp til å samhandle med andre relevante instanser som kan bistå deltakeren.
+
+Jobbspesialisten kan også tilby nødvendig oppfølging til arbeidsgivere som ansetter deltakere gjennom arbeid med støtte. Det er en forutsetning at behovet for bistand går utover arbeidsgivers tilretteleggingsplikt etter [arbeidsmiljøloven § 4-2](lov/2005-06-17-62/§4-2).
+
+Deltakere i arbeid med støtte som får fag- og yrkesopplæring etter [tiltaksforskriften § 7-2 første ledd bokstav d](forskrift/2015-12-11-1598/§7-2/ledd/1/bokstav/d), kan få bistand til å gjennomføre opplæringen.
+
+> Endret ved forskrift [31 jan 2025 nr. 117](forskrift/2025-01-31-117) (i kraft 1 juli 2025).
+
+### § 2-3. Planlegging, gjennomføring og brukermedvirkning
+
+Det skal utarbeides en plan for oppfølgingen i samarbeid med deltakeren, jf. [arbeids- og velferdsforvaltningsloven § 14a](lov/2006-06-16-20/§14a) tredje ledd. Planen skal angi formålet og innholdet for tiltaket og oppfølgingsaktiviteter. Planen skal holdes oppdatert.
+
+Arbeids- og velferdsetaten skal sørge for at deltakeren får medvirket under planleggingen og gjennomføringen av aktiviteter gjennom hele oppfølgingsperioden.
+
+### § 2-4. Varighet
+
+Varigheten på tiltaket skal tilpasses deltakerens individuelle behov og muligheter på arbeidsmarkedet.
+
+Tiltaket kan ha en varighet på inntil ett år. For personer med nedsatt arbeidsevne kan tiltaket ha en varighet på inntil tre år. For personer som deltar i opplæring etter [tiltaksforskriften § 7-2 første ledd bokstav d](forskrift/2015-12-11-1598/§7-2/ledd/1/bokstav/d), kan tiltaket forlenges med inntil ett år, slik at samlet varighet kan være inntil to år, eller fire år for personer med nedsatt arbeidsevne.
+
+> Endret ved forskrift [30 juli 2025 nr. 1576](forskrift/2025-07-30-1576) (i kraft 1 aug 2025).
+
+## Kapittel 3. Individuell jobbstøtte
+
+### § 3-1. Personkrets
+
+Individuell jobbstøtte kan tilbys personer med moderate til alvorlige psykiske lidelser og/eller rusproblemer som får behandling i helse- og omsorgstjenesten og som har behov for en mer omfattende formidlings- og oppfølgingsbistand enn den som tilbys etter [arbeids- og velferdsforvaltningsloven § 4](lov/2006-06-16-20/§4) tredje ledd. Det er en forutsetning at personen har fylt 16 år.
+
+Etter nærmere retningslinjer fra Arbeids- og velferdsdirektoratet kan tiltaket også tilbys andre personer som får oppfølging av helse- og omsorgstjenesten eller som har sammensatte utfordringer og behov for en mer omfattende formidlings- og oppfølgingsbistand.
+
+### § 3-2. Innhold
+
+Deltakere i individuell jobbstøtte kan få tilbud omregelmessig og tilpasset oppfølging av en jobbspesialistbistand til aktiv jobbsøking tidlig i oppfølgingenstøtte fra jobbspesialisten til å mestre arbeidsrelaterte forhold i samarbeid med behandlingsteam i helse- og omsorgstjenestentilrettelegging på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver og behandlingsteamnødvendig hjelp til å samhandle med andre relevante instanser, blant annet om økonomiske, sosiale og utdanningsrelaterte forhold.
+
+Individuell jobbstøtte inngår som en integrert del av behandlings- og rehabiliteringstilbudet i helse- og omsorgstjenesten. Det er en forutsetning at personen samtykker til å delta i individuell jobbstøtte.
+
+Jobbspesialisten følger deltakeren fra arbeidssøking til formidling, og underveis i arbeidsforholdet. Deltakeren kan også få oppfølging under opplæring og utdanning.
+
+Jobbspesialisten kan også tilby nødvendig oppfølging til arbeidsgivere som tilsetter deltakere gjennom individuell jobbstøtte. Det er en forutsetning at behovet for bistand går utover arbeidsgivers tilretteleggingsplikt etter [arbeidsmiljøloven § 4-2](lov/2005-06-17-62/§4-2).
+
+### § 3-3. Planlegging, gjennomføring og brukermedvirkning
+
+Det utarbeides en plan for oppfølgingen i samarbeid med deltakeren og helse- og omsorgstjenesten. Planen skal angi formålet og innholdet for tiltaket og oppfølgingsaktiviteter. Planen skal holdes oppdatert.
+
+Arbeids- og velferdsetaten skal sørge for at deltakeren får medvirket under planleggingen og gjennomføringen av aktiviteter gjennom hele oppfølgingsperioden.
+
+### § 3-4. Samarbeid med helse- og omsorgstjenesten mv.
+
+Jobbspesialisten skal samhandle med behandlingsteamet i helse- og omsorgstjenesten og kan i henhold til [arbeids- og velferdsforvaltningsloven § 4a](lov/2006-06-16-20/§4a) og [§ 7](lov/2006-06-16-20/§7) behandle, herunder innhente og utlevere, personopplysninger som er nødvendige for å gi arbeidsrettet bistand. Det er en forutsetning at deltakeren samtykker til utlevering av egne helseopplysninger, jf. [helsepersonelloven § 22](lov/1999-07-02-64/§22).
+
+Dersom deltakere skal gjennomføre opplæring eller utdanning, kan jobbspesialisten i henhold til [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7) utlevere personopplysninger til utdanningsmyndighetene dersom det er nødvendig for å gi arbeidsrettet bistand.
+
+### § 3-5. Varighet
+
+Varigheten på individuell jobbstøtte tilpasses deltakerens individuelle behov og muligheter på arbeidsmarkedet.
+
+Tiltaket kan ha en varighet på inntil ett år. For personer med nedsatt arbeidsevne kan tiltaket ha en varighet på inntil tre år.
+
+### § 3-6. Forsøk med individuell jobbstøtte til unge under 30 år
+
+Individuell jobbstøtte til unge (IPS ung) kan tilbys personer mellom 16 år og 30 år.
+
+Bestemmelsene i [§ 3-1](forskrift/2023-06-20-1073/§3-1) til [§ 3-5](forskrift/2023-06-20-1073/§3-5) gjelder med de presiseringer som følger av denne bestemmelsen.
+
+IPS ung kan også tilbys unge med sammensatte psykiske problemer eller rusutfordringer. Oppfølgingen gis i henhold til [§ 3-2](forskrift/2023-06-20-1073/§3-2).
+
+For personer som deltar i opplæring eller utdanning, kan tiltaket forlenges med inntil ett år, slik at samlet varighet kan være inntil to år, eller fire år for personer med nedsatt arbeidsevne.
+
+## Kapittel 4. Ungdomsgaranti
+
+### § 4-1. Personkrets
+
+Ungdomsgarantien gjelder for personer fra fylte 16 år og fram til fylte 30 år som har fått fastslått at de har et behov for bistand fra Arbeids- og velferdsetaten for å komme i ordinært arbeid, jf. arbeids- og [velferdsforvaltningsloven § 14a](lov/2006-06-16-20/§14a). For personer som skal gjennomføre tilrettelagt fag- og yrkesopplæring etter [tiltaksforskriften § 7-3 tredje ledd](forskrift/2015-12-11-1598/§7-3/ledd/3), gjelder ungdomsgarantien fra det året personen fyller 16 år.
+
+> Endret ved forskrift [30 juli 2025 nr. 1576](forskrift/2025-07-30-1576) (i kraft 1 aug 2025).
+
+### § 4-2. Innhold
+
+Ungdomsgarantien skal sikre individuelt tilpasset oppfølging i hele garantiperioden slik at flere unge får mulighet til å komme i ordinært arbeid.
+
+Unge med behov for arbeidsrettet bistand skal få tilbud om en fast kontaktperson. I tillegg kan de få tilbud omregelmessige oppfølgingssamtaler,veiledning om hvilke muligheter som finnes i arbeidsmarkedet med utgangspunkt i den enkeltes jobbønsker og forutsetninger,vurdering av utdanningsmuligheter og kvalifiserende tiltak basert på den enkeltes forutsetninger, behov, jobbønsker og situasjonen i arbeidsmarkedet,hjelp til og veiledning om arbeidsrelaterte, sosiale og økonomiske forhold,bistand til å samhandle med andre relevante instanser, blant annet utdanningsmyndighetene, barneverntjenesten og helsetjenesten, ogtilrettelegging og hjelpemidler på arbeidsplassen tilpasset den enkeltes behov og i samarbeid med arbeidsgiver.
+
+Oppfølgingen gis sammenhengende i hele garantiperioden, blant annet under deltakelse i arbeidsmarkedstiltak, arbeidsrettede aktiviteter, opplæring og utdanning, medisinsk behandling, og på arbeidsplassen. Deler av oppfølgingen kan gis i grupper med andre dersom det er hensiktsmessig og i samsvar med den enkeltes ønsker og behov.
+
+Arbeidsgivere som ansetter deltakere i ungdomsgarantien, kan få tilbud om nødvendig oppfølging og veiledning. Det er en forutsetning at behovet for bistand går utover arbeidsgivers tilretteleggingsplikt etter [arbeidsmiljøloven § 4-2](lov/2005-06-17-62/§4-2).
+
+### § 4-3. Planlegging, gjennomføring og brukermedvirkning
+
+Det skal utarbeides en aktivitetsplan i samarbeid med deltakeren, jf. [arbeids- og velferdsforvaltningsloven § 14a](lov/2006-06-16-20/§14a) tredje ledd, som angir ungdomsgarantiens innhold, formål og plan for oppfølging og fast kontaktperson i Arbeids- og velferdsetaten. Aktivitetsplanen skal holdes oppdatert.
+
+Arbeids- og velferdsetaten skal sørge for at deltakeren får medvirket under planleggingen og gjennomføringen av aktiviteter gjennom hele garantiperioden.
+
+### § 4-4. Varighet
+
+Ungdomsgarantien inntrer innen åtte uker etter at den unge er registrert hos Arbeids- og velferdsetaten og gjelder så lenge den unge har behov for arbeidsrettet bistand. Garantien opphører ved fylte 30 år.
+
+## Kapittel 5. Ikrafttredelse
+
+### § 5-1. Ikrafttredelse
+
+Forskriften [kapittel 1](forskrift/2023-06-20-1073/kap1) til [3](forskrift/2023-06-20-1073/kap3) og [5](forskrift/2023-06-20-1073/kap5) trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 4. februar 2019 nr. 65 om oppfølgingstjenester i Arbeids- og velferdsetatens egen regi](forskrift/2019-02-04-65).
+
+Forskriften [kapittel 4](forskrift/2023-06-20-1073/kap4) trer i kraft 1. juli 2023.

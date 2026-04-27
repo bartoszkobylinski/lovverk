@@ -1,0 +1,60 @@
+---
+id: "sf-20011004-1179"
+slug: "forskr-om-tilbakelevering-av-kulturgjenstander"
+type: "forskrift"
+ref_id: "forskrift/2001-10-04-1179"
+title: "Forskrift om tilbakelevering av stjålne og ulovlig utførte kulturgjenstander"
+short_title: "Forskr om tilbakelevering av kulturgjenstander"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "2001-10-04"
+last_change_in_force: "2016-06-30"
+last_updated: "2026-02-26"
+xml_hash: "65f79103540d051f466ab27b3e1e500eba9144b69854f61fd88e2b331cec3561"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilbakelevering av stjålne og ulovlig utførte kulturgjenstander
+
+## § 1.
+
+I denne forskrift og i [kulturminneloven § 23a](lov/1978-06-09-50/§23a) til [§ 23f](lov/1978-06-09-50/§23f) gjelder følgende definisjoner:kulturgjenstand,en gjenstand som før eller etter å ha blitt ulovlig fjernet fra en stats territorium, er klassifisert eller definert som «nasjonalskatt av arkeologisk, forhistorisk, historisk, litterær, kunstnerisk, eller vitenskapelig verdi» i samsvar med nasjonal lovgivning eller nasjonale administrative framgangsmåter, i overensstemmelse med artikkel 36 i TEUV, ellersom er en integrert del av kirkelige eller andre religiøse institusjoners inventarfortegnelser, elleroffentlige samlinger som er oppført i katalogene til museer, arkiver og magasiner i biblioteker. Med offentlig samling menes samlinger som eies av en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), som er part i UNIDROIT-konvensjonen av 24. juni 1995 nr. 1 eller UNESCO-konvensjonen av 1970 om tiltak for å forby og hindre ulovlig import og eksport av kulturgjenstander og overføring av eiendomsrett til kulturgjenstander (heretter kalt UNESCO-konvensjonen av 1970), av en lokal eller regional myndighet i en slik stat eller en institusjon på en slik stats territorium som er definert som offentlig i samsvar med vedkommende stats lovgivning, forutsatt at denne institusjonen eies eller i betydelig grad er finansiert av denne staten eller av en lokal eller regional myndighet. I stater utenfor Det europeiske økonomiske samarbeidsområdet, men som er part i UNIDROIT-konvensjonen av 24. juni 1995 nr. 1, vil offentlig samling også omfatte samlinger som eies av en institusjon som er opprettet hovedsakelig for et kulturelt, pedagogisk eller vitenskapelig formål som i vedkommende stat anses å være i offentlighetens interesse,fjernet ulovlig fra territoriet til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), som er part i UNIDROIT-konvensjonen av 24. juni 1995 nr. 1 eller UNESCO-konvensjonen av 1970, erenhver utførsel fra en stats territorium i strid med denne stats lovgivning om definisjon og vern av kulturgjenstander eller kategorier kulturgjenstander,enhver manglende tilbakelevering ved utløpet av fristen for en midlertidig lovlig utførsel, eller enhver krenkelse av ett av de øvrige vilkår for denne midlertidige utførselen,enhver kulturgjenstand som er stjålet fra en stat som er part i UNIDROIT-konvensjonen av 24. juni 1995 nr. 1,gjenstander som ikke ledsages av et gyldig sertifikat, som i henhold til nasjonal lovgivning er påkrevet, der det gis tillatelse til at den aktuelle kulturgjenstanden eksporteres.*den anmodende stat,*den stat fra hvis territorium kulturgjenstanden er blitt fjernet ulovlig,*den anmodede stat,*den stat på hvis territorium den kulturgjenstand som er blitt fjernet ulovlig fra en annen stats territorium, befinner seg,*besitter,*den person som har kulturgjenstanden i sin besittelse for egen regning,*innehaver,*den person som har kulturgjenstanden i sin besittelse for en annens regning.
+
+> Endret ved [forskrifter 10 jan 2007 nr. 39](forskrift/2007-01-10-39), [30 juni 2016 nr. 854](forskrift/2016-06-30-854).
+
+## § 2.
+
+Som «nasjonale kulturskatter» defineres gjenstander som omfattes av utførselsforbud og som er underlagt søknadsplikt ved utførsel fra norsk territorium etter forskrift om utførsel og innførsel av kulturgjenstander [§ 2](forskrift/2001-10-04-1179/§2).
+
+Kulturgjenstander som inngår i første ledd omfattes av denne forskrift dersom de er mer enn 50 år gamle og ikke tilhører sin opphavsmann.
+
+I en stat utenfor Det europeiske økonomiske samarbeidsområdet som er part i UNIDROIT-konvensjonen av 24. juni 1995, omfattes kulturgjenstander som er skapt av medlemmer av et stamme- eller urbefolkningssamfunn til tradisjonell eller rituell bruk, og som skal returneres til dette samfunnet, på tross av at gjenstanden ble utført innen 50 år etter tilvirking.
+
+> Endret ved [forskrifter 14 mai 2002 nr. 467](forskrift/2002-05-14-467), [10 jan 2007 nr. 39](forskrift/2007-01-10-39), [30 juni 2016 nr. 854](forskrift/2016-06-30-854).
+
+## § 3.
+
+Kulturdepartementet skal:på anmodning fra den anmodende stat, ettersøke en bestemt kulturgjenstand som er fjernet ulovlig, og identifisere besitteren og/eller innehaveren,underrette de berørte stater dersom kulturgjenstander blir funnet på norsk territorium og det foreligger rimelig grunn til å anta at nevnte gjenstander er fjernet ulovlig fra en annen stats territorium, og ta imot tilsvarende underrettelse,gjøre det mulig for vedkommende myndigheter i den anmodende stat å kontrollere om den aktuelle gjenstand er en kulturgjenstand, og være slik myndighet i Norge,treffe nødvendige tiltak for å sikre fysisk bevaring av kulturgjenstanden i samarbeid med den berørte stat,søke å hindre at kulturgjenstanden unndras fra framgangsmåten for tilbakelevering, ved å treffe de nødvendige midlertidige tiltak, herunder midlertidig forføyning, selv om restitusjonskrav eller anmodning om retur av gjenstanden er fremmet for domstolene eller andre kompetente myndigheter i en annen stat,fungere som mellomledd mellom besitteren og/eller innehaveren og den anmodende stat i forbindelse med tilbakeleveringen,underrette vedkommende myndighet i den stat der den norske stat har anlagt sak for å sikre tilbakelevering av en kulturgjenstand, og ta imot tilsvarende underrettelse,underrette vedkommende myndigheter i andre stater om at det er anlagt sak i Norge, og ta imot tilsvarende underrettelse,for øvrig samarbeide med og fremme samråd mellom vedkommende myndigheter i andre stater,EØS-statenes sentrale myndigheter anvender i sitt innbyrdes samarbeid og samråd det administrative kommunikasjonssystemet for indre marked («IMI») – en modul som er spesielt tilpasset kulturgjenstander. IMI kan brukes for å formidle relevante opplysninger om konkrete saker som gjelder kulturgjenstander som er stjålet eller ulovlig fjernet fra en EØS-stats område. Kulturdepartementet utpeker hvilke fagmyndigheter som skal bruke IMI-systemet.
+
+Kontrollen etter første ledd bokstav c skal foretas innen seks måneder etter underretningen nevnt under bokstav b, er mottatt. Dersom kontrollen ikke foretas innen den fastsatte frist, får bokstavene d og e ikke anvendelse.
+
+Informasjonsutveksling gjennom IMI skal skje i overenstemmelse med gjeldende bestemmelser om personvern og privatlivets fred.
+
+> Endret ved [forskrift 30 juni 2016 nr. 854](forskrift/2016-06-30-854).
+
+## § 4.
+
+Partene kan bli enige om å henvise tvisten til annen domstol eller annen kompetent myndighet, eller til voldgift.
+
+## § 5.
+
+Den anmodende stat bærer utgiftene i forbindelse med tiltakene nevnt i [§ 3](forskrift/2001-10-04-1179/§3) første ledd bokstav d.
+
+## § 6.
+
+Denne forskrift trer i kraft straks for de bestemmelser som gjelder stater som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), samtidig oppheves [forskrift av 28. februar 1997 nr. 236](forskrift/1997-02-28-236) om tilbakelevering av kulturgjenstander som er fjernet ulovlig fra territoriet til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS) og som befinner seg i Norge. De bestemmelser som gjelder stater som er part i Unidroit-konvensjonen trer i kraft samtidig som konvensjonen trer i kraft for Norge.1

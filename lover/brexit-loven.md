@@ -1,0 +1,46 @@
+---
+id: "nl-20201127-131"
+slug: "brexit-loven"
+type: "lov"
+ref_id: "lov/2020-11-27-131"
+title: "Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union (brexit-loven)"
+short_title: "Brexit-loven"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2020-11-27"
+last_change_in_force: "2022-11-25"
+last_updated: "2022-03-10"
+xml_hash: "8fce24931ada2d2a1f9e04d59ad50717bb9c4f0fca69a86ffbcf5f77199661d6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union (brexit-loven)
+
+## § 1. Formål
+
+Formålet med loven er å gjennomføre Norges folkerettslige forpliktelser i forbindelse med at Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) trer ut fra Den europeiske union (EU), samt å gi grunnlag for fastsettelse av nasjonale regler.
+
+## § 2. Gjennomføring av folkerettslige forpliktelser
+
+Følgende bestemmelser i avtale 28. januar 2020 om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske union, gjelder som lov:artikkel 22 (krav til likebehandling)artikkel 23 og 24 (rettigheter for arbeidstakere og selvstendig næringsdrivende).
+
+> Endret ved lov [25 nov 2022 nr. 86](lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](forskrift/2022-11-25-2013)).
+
+## § 3. Forskriftshjemmel
+
+Kongen kan gi forskrift for å:gjennomføre avtale 28. januar 2020 om ordninger mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland som følge av Det forente kongerikes uttreden fra Den europeiske union, [EØS-avtalen](lov/1992-11-27-109/eøsl) og andre avtaler som gjelder mellom Det forente kongerike og EØS/EFTA-statene i kraft av Det forente kongerikes medlemskap i Den europeiske uniongjennomføre midlertidige avtaler mellom Norge og Storbritanniagjennomføre beredskapstiltak fra EU som er eller vil bli bindende for Norge gjennom EØS- eller Schengen-avtalenfastsette overgangsregler om forhold som har oppstått før utløpet av overgangsperioden som fastsatt i [lov 29. mars 2019 nr. 8](lov/2019-03-29-8) om en overgangsperiode ved Storbritannias uttreden fra EU [§ 2](lov/2019-03-29-8/§2), og som har virkning etter dette tidspunkt, eller som har oppstått etter utløpet av overgangsperioden som en direkte følge av Storbritannias uttreden fra EU.
+
+Forskriften kan avvike fra bestemmelser i annen lovgivning.
+
+## § 4. Ikrafttredelse
+
+Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+
+## § 5. Endringer i andre lover
+
+– – –

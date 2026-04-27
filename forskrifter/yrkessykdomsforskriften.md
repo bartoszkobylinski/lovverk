@@ -1,0 +1,47 @@
+---
+id: "sf-19970311-0220"
+slug: "yrkessykdomsforskriften"
+type: "forskrift"
+ref_id: "forskrift/1997-03-11-220"
+title: "Forskrift om yrkessykdommer, klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade."
+short_title: "Yrkessykdomsforskriften"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1997-05-01"
+last_change_in_force: "2020-04-07"
+last_updated: null
+xml_hash: "8aafb3d5fe0cccf2d841c78d5ca3a46d02eb8729fe3d77b549a8c9d33d601fad"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om yrkessykdommer, klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade.
+
+## § 1. Yrkessykdommer som skal likestilles med yrkesskade
+
+1. Sykdommer som skyldes forgiftning eller annen kjemisk påvirkning.
+2. Allergiske og idiosynkratiske hud- og lungesykdommer.
+3. Sykdommer som skyldes strålingsenergi.
+4. Nedsatt hørsel som skyldes larm fra maskiner, verktøy, prosesser og annet.
+5. Lungesykdommer som skyldes påvirkning av finfordelte stoffer.
+6. Sykdommer i armer og hender, herunder vasospastisk syndrom i hendene, samt nevropatier, når sykdommen er framkalt av vibrasjoner overført fra vibrerende maskiner, pressluftverktøy, bankehammere o.l.
+7. Sykdommer som skyldes endringer i barometertrykket under visse arbeidsforhold som hos dykkere, flygere og andre. Herunder medregnes også skader på sentralnervesystemet. Videre medregnes sykdom som skyldes forholdene under opphold i trykkammer.
+8. Sykdommer som skyldes smitteunder arbeid i laboratorium hvor en arbeider med vedkommende smittestoff.under arbeid på lege- eller tannlegekontor, sosialkontor, i medisinske institusjoner, sosiale institusjoner og utekontakter, barneheim, aldersheim o.l. eller ved annen yrkesutøvelse der virksomheten skjer i miljøer med særskilt sykdoms- eller smittefare. Følgende sykdommer omfattes:tuberkulose,poliomyelitt med lammelser,difteri,tyfoidfeber,paratyfus A,smittsom gulsott,mononucleosis infectiosa,andre smittsomme sykdommer når den yrkesskadde har fått komplikasjon fra hjernen og/eller ryggmargen, hjertet, nyrer eller ledd,serum-hepatitt og sykdommer med liknende infeksjonsmåte, herunder AIDS og HIV-smitte,paratyfus B, andre salmonelloser og dysenteri når sykdommen etterfølges av en langvarig eller konstant smittebærertilstand.smitte med meticillinresistente gule stafylokokker (MRSA),covid-19 med alvorlige komplikasjoner.under arbeid med dyr eller planter som lider av en infeksjon framkalt av vedkommende smittestoff, eller under arbeid med dyre- eller planteprodukter som er infisert av smittestoffet.
+9. Sykdommer etter vaksinasjon som har samband med yrket.
+
+> Endret ved [forskrifter 28 juli 1997 nr. 902](forskrift/1997-07-28-902), [7 april 2020 nr. 726](forskrift/2020-04-07-726) (med virkning fra 1 mars 2020).
+
+## § 2. Klimasykdommer og epidemiske sykdommer som skal likestilles med yrkesskade
+
+1. Følger av kulde og lav temperatur under arbeid i ishavsstrøk.
+2. Følger av sterk varme og sol under arbeid i tropiske eller subtropiske strøk.
+3. Karantenesykdommercholera asiatica (kolera)febris flava (gul feber)pestis (pest)variola (kopper).
+4. Malaria.
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.

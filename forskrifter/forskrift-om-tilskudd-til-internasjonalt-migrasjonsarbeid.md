@@ -1,0 +1,68 @@
+---
+id: "sf-20231120-1949"
+slug: "forskrift-om-tilskudd-til-internasjonalt-migrasjonsarbeid"
+type: "forskrift"
+ref_id: "forskrift/2023-11-20-1949"
+title: "Forskrift om tilskudd til internasjonalt migrasjonsarbeid"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2024-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "bbbea2bac7569d88e97d9c573bc52a0dbfcc33059e45ba9e01cb0170906afcce"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til internasjonalt migrasjonsarbeid
+
+## § 1. Formål
+
+Tilskuddet skal fremme dialog med myndigheter i opprinnelses- eller transittland om tilbaketaking av egne borgere eller personer som har tilknytning til landet, forebygge irregulær migrasjon eller legge til rette for retur av personer uten lovlig opphold i Norge.
+
+## § 2. Hvem som kan få tilskudd til hva
+
+Internasjonale organisasjoner Norge er medlem av, andre stater og frivillige organisasjoner som har aktiviteter i land Norge har samarbeid eller dialog med om retur og migrasjon, kan få tilskudd til tiltak som vil oppfylle minst ett av formålene i [§ 1](forskrift/2023-11-20-1949/§1).
+
+## § 3. Bekjentgjøring av tilskudd
+
+Tilskudd går fram av det årlige budsjettvedtaket og gjøres kjent for alle potensielle tilskuddsmottakere.
+
+Tilskudd tildeles fortløpende i budsjettåret.
+
+## § 4. Krav om og til et prosjektforslag
+
+Potensielle tilskuddsmottakere skal fremlegge et prosjektforslag som skal inneholdeklart definerte mål for prosjektetprosjektplan med tiltak, virkemidler og eventuelle samarbeidspartnerebeskrivelse av forventede resultaterbudsjett og opplysninger om supplerende finansieringskilder.
+
+## § 5. Hvordan prosjektforslag blir vurdert – betingelser for tilskudd
+
+Tilskuddsforvalter har dialog med myndighetene i aktuelle land om potensielle tilskudd og tilskuddsmottakere. I vurderingen av fremlagte prosjektforslag skal det særlig legges vekt på om tiltaketer egnet til å oppnå dialog eller samarbeid med opprinnelseslandetoppfyller ett eller flere av formålene i [§ 1](forskrift/2023-11-20-1949/§1)er omfattet av gjeldende retningslinjer for hva som regnes som offisiell utviklingsfinansiering (Official Development Assistance – ODA).
+
+Den som er tildelt tilskudd for det første året av et flerårig prosjekt, prioriteres de påfølgende årene, dersom vilkårene i forskriften og tildelingen ble oppfylt foregående år.
+
+## § 6. Krav om rapportering
+
+En tilskuddsmottaker skal rapportere til tilskuddsforvalteren om hvordan tiltaket har bidratt til å fremme formålet med tilskuddet.
+
+Rapporten skal inneholde et godkjent regnskap for organisasjonen og oppgi hvilke øvrige bidragsytere som har finansiert tiltak som dekkes av tilskuddet.
+
+## § 7. Adgang til å kontrollere at betingelsene og vilkårene for tilskuddet er oppfylt
+
+Tilskuddsforvalteren kan kontrollere at betingelsene for tilskuddet og vilkårene i et tilskuddsvedtak eller en tilskuddsavtale er oppfylt gjennom åkreve opplysninger og dokumentasjon som er nødvendig for kontrolleninnhente opplysninger fra andre myndigheter som har adgang til å utlevere opplysningenebesiktige tiltaket, og mottakeren skal medvirke til besiktigelsen dersom det er nødvendig for kontrollen.
+
+## § 8. Stans og tilbakebetaling
+
+Har en tilskuddsmottaker ikke oppfylt kravene i forskriften og tilskuddsvedtaket eller tilskuddsavtalen, kan tilskuddsforvalteren stoppe videre utbetalinger.
+
+Er tilskuddet ikke brukt i samsvar med kravene, kan tilskuddet kreves delvis eller helt tilbakebetalt.
+
+Har en tilskuddsmottaker fått utbetalt for mye tilskudd eller uforskyldt ikke brukt et tilskudd i samsvar med kravene, kan det som er for mye utbetalt eller som skal tilbakebetales, trekkes fra i et tilskudd som måtte tildeles senere.
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2024.

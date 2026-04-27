@@ -1,0 +1,33 @@
+---
+id: "sf-20030516-0652"
+slug: "forskrift-om-opptak-til-mesterutdanningen"
+type: "forskrift"
+ref_id: "forskrift/2003-05-16-652"
+title: "Forskrift om opptak til mesterutdanningen"
+short_title: "Forskrift om opptak til mesterutdanningen"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2003-05-16"
+last_change_in_force: "2020-10-13"
+last_updated: null
+xml_hash: "63729275a70f4718d4b1acc99fa6ec1f3af13bff17c900a47883edc9abef8ddd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om opptak til mesterutdanningen
+
+1. Mesterbrevkursene tilbys primært personer med svennebrev/fagbrev i det faget de vil søke mesterbrev i. Kursarrangør kan gjøre unntak fra dette, dersom dette er økonomisk avgjørende for å få igangsatt et kurs. Dette skal ikke ha innvirkning på det faglige innholdet og gjennomføringen av kurset.
+2. Før kursstart i faglig ledelse og faglig fordypning kreves ett års praksis i faget etter avlagt svennebrev/fagbrev.
+3. Søkeren må før kursstart gjennom attest eller egenerklæring dokumentere forkunnskaper i IKT, jf. læreplanens krav.
+4. Kandidaten må ha bestått eksamen i bedriftsledelse før eksamen i faglig ledelse og faglig fordypning. Kursarrangør kan fravike dette kravet.
+5. Mesterbrevnemnda kan ved spesielle forhold gi dispensasjon fra disse retningslinjene.
+6. Kandidater som har påbegynt sin mesterutdanning før 1. august 2002 omfattes av retningslinjene vedtatt av Nemnda den 14. oktober 1996.
+
+Forskriften trer i kraft fra 16. mai 2003 og fra samme tidspunkt oppheves [forskrift av 13. mars 2002 nr. 417](forskrift/2002-03-13-417) om opptak til mesterutdanningen. Nærmere opplysninger om nåværende forskrift fås hos Mesterbrevnemndas sekretariat, tlf. 23088362.
+
+> Endret ved [forskrift 13 okt 2020 nr. 2198](forskrift/2020-10-13-2198).

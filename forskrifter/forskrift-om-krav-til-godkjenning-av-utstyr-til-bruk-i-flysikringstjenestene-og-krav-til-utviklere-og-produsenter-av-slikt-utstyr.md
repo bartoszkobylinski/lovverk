@@ -1,0 +1,46 @@
+---
+id: "sf-20240902-2066"
+slug: "forskrift-om-krav-til-godkjenning-av-utstyr-til-bruk-i-flysikringstjenestene-og-krav-til-utviklere-og-produsenter-av-slikt-utstyr"
+type: "forskrift"
+ref_id: "forskrift/2024-09-02-2066"
+title: "Forskrift om krav til godkjenning av utstyr til bruk i flysikringstjenestene, og krav til utviklere og produsenter av slikt utstyr"
+short_title: null
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2024-09-02"
+last_change_in_force: "2025-06-20"
+last_updated: null
+xml_hash: "f7360df1dfd9145ae727728800003fec66a7c3ed34a76301f67bfadbafc3c899"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om krav til godkjenning av utstyr til bruk i flysikringstjenestene, og krav til utviklere og produsenter av slikt utstyr
+
+## § 1. Formål
+
+Formålet med forskriften er å gjennomføre felleseuropeiske krav til godkjenning av utstyr til bruk i flysikringstjenestene, og krav til utviklere og produsenter av slikt utstyr, i norsk rett.
+
+## § 2. Gjennomføring av delegert kommisjonsforordning (EU) 2023/1768 og kommisjonens gjennomføringsforordning (EU) 2023/1769
+
+[EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66zbi (forordning [(EU) 2023/1768](eu/32023r1768) av 14. juli 2023 om fastsettelse av nærmere regler for sertifisering av og erklæring om systemer for lufttrafikkstyring og flysikringstjenester og komponenter for lufttrafikkstyring og flysikringstjenester) gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+
+[EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66zbj (forordning [(EU) 2023/1769](eu/32023r1769) av 12. september 2023 om fastsettelse av tekniske krav og administrative framgangsmåter for godkjenning av organisasjoner som deltar i konstruksjon eller produksjon av systemer og komponenter for lufttrafikkstyring og flysikringstjenester, og om endring av gjennomføringsforordning [(EU) 2023/203](eu/32023r0203)) gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrift [20 juni 2025 nr. 1195](forskrift/2025-06-20-1195).
+
+## § 3. Virkeområde
+
+Forskriften gjelder i Norge, herunder på Svalbard, og for øvrige områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester, styre lufttrafikkbevegelser og styre luftrommet for allmenn lufttrafikk så langt dette er i overensstemmelse med Norges folkerettslige forpliktelser.
+
+## § 4. Overtredelsesgebyr
+
+Luftfartstilsynet kan ilegge overtredelsesgebyr etter [luftfartsloven §13a-5](lov/1993-06-11-101/§13a-5) for brudd på krav i forordningene nevnt i [§ 2](forskrift/2024-09-02-2066/§2).
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft straks.

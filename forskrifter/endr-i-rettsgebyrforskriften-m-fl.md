@@ -1,0 +1,42 @@
+---
+id: "sf-20251214-2558"
+slug: "endr-i-rettsgebyrforskriften-m-fl"
+type: "forskrift"
+ref_id: "forskrift/2025-12-14-2558"
+title: "Forskrift om endring i enkelte forskrifter under Justis- og beredskapsdepartementet som følge av innkrevingsloven m.m."
+short_title: "Endr. i rettsgebyrforskriften m.fl."
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "30bee12dac77dd799136fff88a1ef7ad01a324350ccf7da69139d804017b91db"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i enkelte forskrifter under Justis- og beredskapsdepartementet som følge av innkrevingsloven m.m.
+
+## I
+
+## II
+
+Dommer og beslutninger avsagt av forliksrådet kan forkynnes i elektronisk form overfor saksøker som er godkjent som bruker etter [forskrift 9. juli 2025 nr. 1509 om elektronisk kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten kapittel 3](forskrift/2025-07-09-1509/kap3).
+
+## III
+
+## IV
+
+## V
+
+## VI
+
+## VII
+
+## VIII
+
+Forskriften her trer i kraft 1. januar 2026.

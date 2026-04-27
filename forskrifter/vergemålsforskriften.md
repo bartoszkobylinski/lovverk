@@ -1,0 +1,406 @@
+---
+id: "sf-20130215-0201"
+slug: "vergemålsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2013-02-15-201"
+title: "Forskrift til vergemålsloven (vergemålsforskriften)"
+short_title: "Vergemålsforskriften"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2013-02-15"
+last_change_in_force: "2025-01-01"
+last_updated: null
+xml_hash: "535992976e69d3c333712dd55d9e6e165969bc8858916228b705701b95d44dff"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift til vergemålsloven (vergemålsforskriften)
+
+## Kapittel 1. Vergemålsmyndigheten
+
+### § 1. Statsforvalterens opplærings-, veilednings- og bistandsplikt
+
+Statsforvalteren skal sørge for at de oppnevnte vergene i vergemålsdistriktet får den opplæringen som er nødvendig for å kunne utføre vervet på en forsvarlig måte. Vergene skal få opplæring ved oppnevningen, og de skal få opplæring også senere dersom det er behov for det. Opplæringen skal tilpasses vergeoppdragets innhold og omfang.
+
+Statsforvalteren skal gi vergene i vergemålsdistriktet nødvendig veiledning og bistand ved behov. Statsforvalteren skal sette seg inn i saken og så langt som mulig gi et konkret råd i den aktuelle situasjonen. Om nødvendig må det også gis bistand slik at vergen kan følge rådet.
+
+> Endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 2. Statsforvalterens tilsyn med vergene
+
+Statsforvalteren skal føre tilsyn med at de oppnevnte vergene utfører vergeoppdraget i samsvar med lov, forskrift og vedtak.
+
+Som ledd i tilsynet skal statsforvalteren gi veiledning og bistand og gjennom dette løpende følge med på vergens utførelse av vergeoppdraget, samt kontrollere vergeregnskapet, jf. [kapittel 2](forskrift/2013-02-15-201/kap2), og årsrapport utarbeidet av fast verge.
+
+Dersom statsforvalteren finner grunn til det, skal statsforvalteren foreta nærmere undersøkelser av hvordan vergen utfører oppdraget. Ved behov skal statsforvalteren finne egnede tiltak for å sikre at vergeoppdraget løses i henhold til lov, forskrift og vedtak, herunder sørge for ytterligere veiledning og bistand, vurdere vergeoppdragets omfang på nytt og foreta en fornyet vurdering av vergens egnethet.
+
+> Endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 3. Tilsyn med uskiftebo der arving har verge
+
+Statsforvalteren skal vurdere om det skal oppnevnes en midlertidig verge (setteverge) etter [vergemålsloven § 34](lov/2010-03-26-9/§34), jf. [arveloven § 96 fjerde ledd annet punktum](lov/2019-06-14-21/§96/ledd/4/setning/2), når det er arvinger til uskifteboet som har verge, også når gjenlevende ektefelle eller samboer er vergen til arvingene. Statsforvalteren skal orientere den midlertidige vergen og gjenlevende ektefelle om bestemmelsene i [arveloven](lov/2019-06-14-21) som er av betydning for retten til å sitte i uskiftet bo.
+
+Statsforvalteren skal i den utstrekning det er nødvendig gjennomgå med verge bo som en gjenlevende ektefelle har overtatt uskiftet. Gjenlevende ektefelle plikter å gi de opplysningene som trengs for å kontrollere forvaltningen av boet.
+
+> Endret ved forskrifter [14 des 2020 nr. 2943](forskrift/2020-12-14-2943) (i kraft 1 jan 2021), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 4. Organisering av vergeberedskap
+
+Statsforvalteren skal sørge for å ha en beredskapsordning som sikrer at verge kan oppnevnes omgående. Om statsforvalteren har engasjert faste verger, skal statsforvalteren sørge for at én eller flere av de faste vergene i vergemålsdistriktet deltar i en slik ordning.
+
+> Endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 5. Den sentrale vergemålsmyndighetens oppgaver
+
+Statens sivilrettsforvaltning har oppgaven som sentral vergemålsmyndighet.
+
+Den sentrale vergemålsmyndigheten skal behandle klager over statsforvalterens vedtak etter [vergemålsloven](lov/2010-03-26-9).
+
+Den sentrale vergemålsmyndigheten skal videre drive opplæring og føre tilsyn med statsforvalterens oppgaver etter [vergemålsloven](lov/2010-03-26-9). Tilsynet skal særlig rettes inn mot en kontroll av at oppgavene utføres i samsvar med lov og forskrift, og at det sikres enhetlig praksis som skaper rettssikkerhet og rettslikhet. Den sentrale vergemålsmyndigheten skal føre tilsyn med at det er etablert systemer og rutiner som sikrer at de eiendelene som forvaltes av statsforvalteren etter [vergemålsloven](lov/2010-03-26-9), forvaltes på en forsvarlig måte, og at eventuelle økonomiske misligheter forebygges og avdekkes.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 2. Vergemålsmyndighetens kontroll med vergenes rapporter og regnskap. Revisjon
+
+> Overskrift endret ved forskrift [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 6. Systemer for internkontroll
+
+Vergemålsmyndigheten skal etablere systemer og rutiner som sikrer at eiendelene som forvaltes etter [vergemålsloven](lov/2010-03-26-9), forvaltes på en forsvarlig måte og i samsvar med de bestemmelser, reglement og instrukser som gjelder på området slik at eventuelle økonomiske misligheter forebygges og avdekkes. De nærmere rammene for internkontrollen følger av instruksen etter [§ 9](forskrift/2013-02-15-201/§9).
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 7. Statsforvalterens kontroll av vergenes rapporter mv.
+
+Statsforvalteren skal gå gjennom vergenes rapporter og eventuelle regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), jf. [kapittel 5](forskrift/2013-02-15-201/kap5), og skal følge opp saker hvor det er identifisert avvik. Statsforvalteren kan kreve ytterligere opplysninger og fremleggelse av bilag knyttet til vergens økonomiske disposisjoner på vegne av personen som har verge. Statsforvalteren kan innkalle vergen til møte for å ta imot og gjennomgå rapporten eller eventuelt regnskapet, jf. [§ 21](forskrift/2013-02-15-201/§21), og for fremvisning av verdipapirer eller andre formuesgjenstander for å kontrollere at disse er i behold. De nærmere reglene for kontrollen følger av instruksen etter [§ 9](forskrift/2013-02-15-201/§9).
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 8. Revisjon
+
+Den sentrale vergemålsmyndigheten velger revisor. Revisor skal påse at statsforvalterens internrevisjon og kontroll av vergenes rapporter og eventuelle regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), er i samsvar med reglene i [§ 6](forskrift/2013-02-15-201/§6) og [§ 7](forskrift/2013-02-15-201/§7) og instruks etter [§ 9](forskrift/2013-02-15-201/§9). Forvaltningslovens regler om taushetsplikt skal gjelde tilsvarende for revisor. Revisor kan kreve innsyn i alle opplysninger som er nødvendig for å utføre oppdraget.
+
+Revisors uttalelser om statsforvalterens kontroll, internkontroll og eventuelle andre uttalelser skal sendes den sentrale vergemålsmyndigheten innen 15. november hvert år.
+
+Uttalelsene skal redegjøre for om kontrollen er beheftet med vesentlige feil eller svakheter. Kopi sendes statsforvalteren. Den sentrale vergemålsmyndigheten godkjenner uttalelsene og iverksetter så snart som mulig nødvendige tiltak for å følge opp uttalelsene.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 9. Instruks
+
+Den sentrale vergemålsmyndigheten fastsetter instruks om statsforvalterens internkontroll, kontroll av vergenes rapporter og eventuelle regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), og revisjon etter [§ 6](forskrift/2013-02-15-201/§6) til [§ 8](forskrift/2013-02-15-201/§8), herunder nærmere regler om revisjon av vurderingene og uttalelsene om statsforvalterens kontroll etter [§ 7](forskrift/2013-02-15-201/§7) og øvrig kontroll etter [§ 6](forskrift/2013-02-15-201/§6).
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 10. Forvaltning av eiendeler som ikke tilhører personer som har verge
+
+Bestemmelsene i kapittelet her gjelder tilsvarende for statsforvalterens forvaltning av midler som ikke tilhører personer som har verge, jf. [vergemålsloven § 96](lov/2010-03-26-9/§96) og [§ 97](lov/2010-03-26-9/§97).
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 3. Saksbehandlingsregler
+
+### § 11. Nærmere regler om begjæring av vergemål
+
+Begjæring om opprettelse av vergemål etter [vergemålsloven § 56](lov/2010-03-26-9/§56) skal begrunnes. Begrunnelsen skal inneholde en beskrivelse av tilstanden til personen som det begjæres vergemål for, samt en vurdering av på hvilke området det antas at personen har behov for bistand fra verge.
+
+Første ledd gjelder tilsvarende ved begjæring om endring av eksisterende vergemål.
+
+> Endret ved forskrift [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 12. Nærmere regler om meldeplikten
+
+Melding om behov for vergemål etter [vergemålsloven § 57](lov/2010-03-26-9/§57) skal begrunnes. Begrunnelsen skal inneholde en beskrivelse av tilstanden til personen som det antas har behov for vergemål, samt en vurdering av på hvilke områder det antas at personen har behov for bistand fra verge. Meldingen skal også inneholde en vurdering av hvorvidt det er behov for fratakelse av rettslig handleevne, jf. [vergemålsloven § 22](lov/2010-03-26-9/§22).
+
+Meldingen skal om mulig inneholde forslag til én eller flere personer som anses egnet til å være verge.
+
+Meldeplikten gjelder tilsvarende ved behov for endring av eksisterende vergemål.
+
+Statsforvalteren skal sørge for å informere om meldeplikten og dens innhold til de ansvarlige for den krets av personer og organer som meldeplikten gjelder for etter [vergemålsloven § 57](lov/2010-03-26-9/§57) første ledd.
+
+> Endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 13. Nærmere regler om statsforvalterens rett til å få fremlagt dokumentasjon mv.
+
+Statsforvalteren kan kreve fremlagt dokumentasjon som nevnt i [vergemålsloven § 59](lov/2010-03-26-9/§59) første ledd bokstav a eller c. Statsforvalteren kan sette en frist for fremleggelsen av slik dokumentasjon.
+
+Erklæring fra lege eller annen sakkyndig, jf. [vergemålsloven § 59](lov/2010-03-26-9/§59) første ledd bokstav a, skal gis på egen blankett og sendes statsforvalteren i det vergemålsdistriktet personen bor innen tre uker om ikke annet er avtalt. Med mindre legen eller den sakkyndige er ansatt i det offentlige, skal kostnaden ved utarbeidelse av erklæringen dekkes av statsforvalteren etter satser fastsatt av departementet. Kostnaden dekkes av retten dersom retten har bedt om erklæringen. Kostnaden kan bare dekkes hvis blanketten er fullstendig utfylt. Legen eller annen sakkyndig kan ikke kreve nytt honorar dersom erklæringen returneres fordi den ikke er fullstendig utfylt eller erklæringen på annen måte er uegnet til statsforvalternes bruk.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 14. Vilkår for lån fra midler som tilhører person som har verge
+
+Statsforvalteren kan i særlige tilfeller samtykke til å låne ut midler som tilhører den som har verge etter reglene i [vergemålsloven § 39 første ledd bokstav j](lov/2010-03-26-9/§39/ledd/1/bokstav/j). Statsforvalteren kan bare samtykke til slike lån om det stilles betryggende sikkerhet for kravet. Om det stilles sikkerhet i fast eiendom, skal det utstedes en pantobligasjon som tinglyses på eiendommen og overleveres statsforvalteren for sikker oppbevaring. Den sentrale vergemålsmyndigheten fastsetter instruks om nærmere grenser for utlånsadgangen.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 4. Verger
+
+### § 15. Kravene til politiattesten
+
+I politiattesten for oppnevnte verger skal det anmerkes om personen er siktet, tiltalt, har vedtatt forelegg eller er dømt for overtredelse av [lov 22. mai 1902 nr. 10](lov/1902-05-22-10) Almindelig borgerlig Straffelov [§ 255](lov/1902-05-22-10/§255) til [§ 258](lov/1902-05-22-10/§258) og [§ 261](lov/1902-05-22-10/§261) om underslag og tyveri m.m., [§ 266](lov/1902-05-22-10/§266) til [§ 267](lov/1902-05-22-10/§267) om utpresning og ran, [§ 270](lov/1902-05-22-10/§270) til [§ 272](lov/1902-05-22-10/§272), [§ 274](lov/1902-05-22-10/§274) og [§ 275](lov/1902-05-22-10/§275) til [§ 278](lov/1902-05-22-10/§278) om bedrageri, utroskap og korrupsjon, [§ 281](lov/1902-05-22-10/§281) til [§ 287](lov/1902-05-22-10/§287) om forbrytelser i gjeldsforhold, [§ 317](lov/1902-05-22-10/§317) og [§ 318](lov/1902-05-22-10/§318) om heleri og hvitvasking, [§ 391 a](lov/1902-05-22-10/§391a), [§ 404](lov/1902-05-22-10/§404) om betrodde midler og [§ 405 a](lov/1902-05-22-10/§405a) om forseelser mot formuesrettigheter og [straffeloven § 208](lov/2005-05-20-28/§208), [§ 321](lov/2005-05-20-28/§321) til [§ 328](lov/2005-05-20-28/§328), [§ 330](lov/2005-05-20-28/§330) til [§ 341](lov/2005-05-20-28/§341), [§ 344](lov/2005-05-20-28/§344), [§ 371](lov/2005-05-20-28/§371) til [§ 376](lov/2005-05-20-28/§376), [§ 382](lov/2005-05-20-28/§382) til [§ 394](lov/2005-05-20-28/§394) og [kapittel 31](lov/2005-05-20-28/kap31). I tillegg skal straffesanksjonerte brudd på [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. anmerkes.
+
+> Endret ved [forskrift 19 juni 2015 nr. 673](forskrift/2015-06-19-673) (i kraft 1 okt 2015).
+
+### § 16. Godtgjøring til vergen
+
+Innenfor rammene av lov, forskrift, vedtak eller instruks inngår statsforvalteren en avtale med vergen om de nærmere forhold knyttet til vergeoppdraget.
+
+For vergeoppdraget ytes det etter søknad en fast årlig godtgjøring på kr 5 000 til alminnelige verger og kr 10 000 til faste verger. Dersom statsforvalteren kommer til at vergeoppdraget er særskilt krevende, ytes det i stedet en fast årlig godtgjøring på kr 7 500 til alminnelige verger og kr 15 000 til faste verger.
+
+Dersom omfanget av oppdraget tilsier det, kan det unntaksvis gis godtgjøring time for time etter en timesats på inntil kr 200 for alminnelige verger og inntil kr 400 for faste verger. Advokater som oppnevnes som verge, lønnes etter den offentlige salærsats, jf. [forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. § 2](forskrift/1997-12-03-1441/§2). Vergen må godtgjøre at en fast årlig sats ikke gir en rimelig dekning, og dokumentere timeforbruk for vergearbeidet. Statsforvalteren bør i det enkelte tilfelle sette en grense for hvor mange timer som kan brukes til oppdraget.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 des 2024 nr. 3314](forskrift/2024-12-18-3314) (i kraft 1 jan 2025).
+
+### § 17. Godtgjøring til nærstående
+
+Godtgjøring til oppnevnte verger som er forelder til, barn av eller ektefelle eller samboer til den som har verge, jf. [vergemålsloven § 30 første ledd annet punktum](lov/2010-03-26-9/§30/ledd/1/setning/2), gis etter [§ 16](forskrift/2013-02-15-201/§16) bare hvis særlige grunner taler for det.
+
+Ved vurderingen av om det foreligger særlige grunner etter [vergemålsloven § 30](lov/2010-03-26-9/§30) første ledd annet punktum, skal det legges vekt på omfanget og varigheten av vergemålet.
+
+> Endret ved forskrift [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 18. Dekning av vergens utgifter
+
+Den sentrale vergemålsmyndigheten fastsetter en fast årlig sats til dekning av vergens utgifter.
+
+Dersom vergen har nødvendige utlegg i forbindelse med utføringen av vergeoppdraget som i vesentlig grad overstiger den faste utgiftsdekningen etter første ledd, kan vergen søke statsforvalteren om dekning av slike utgifter. Statsforvalteren kan på forhånd fastsette en grense for rett til utvidet utgiftsdekning.
+
+> Endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 19. Inntekts- og formuesgrensen for dekning av vergens godtgjøring og utgifter
+
+Statsforvalteren skal dekke godtgjøringen og utgiftene til vergen etter [§ 16](forskrift/2013-02-15-201/§16) til [§ 18](forskrift/2013-02-15-201/§18) dersom personen som har vergehar en bruttoinntekt som er lik eller lavere enn minste årlige ytelse etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, oghar en formue på kr 50 000 eller mindre.
+
+Er personen som har verge gift eller lever sammen med og har felles økonomi med en annen person, skal statsforvalteren dekke godtgjøringen og utgiftene til vergen dersom disse personene til sammenhar en bruttoinntekt som er lik eller lavere enn minste årlige ytelse for ektefeller og samboere etter [folketrygdloven § 12-13 annet ledd](lov/1997-02-28-19/§12-13/ledd/2), tillagt renteinntekt av formuen, jf. bokstav b, oghar en formue på kr 75 000 eller mindre.
+
+Ved vurderingen av formuen etter første og annet ledd skal nettoformuen legges til grunn. Formue som består i personens bolig, skal normalt ses bort fra.
+
+Dersom statsforvalteren etter første og annet ledd ikke har plikt til å dekke godtgjørelsen, kan statsforvalteren når hensynet til personens betalingsevne tilsier det, likevel beslutte at hele eller deler av godtgjøringen skal dekkes eller forskutteres. Om statsforvalteren beslutter å forskuttere et beløp, kan dette beløpet motregnes dersom personen senere får bedret sin betalingsevne eller i særlige tilfeller fremmes som krav mot dødsboet.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 5. Vergens rapporterings- og regnskapsplikt
+
+> Overskrift endret ved forskrift [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 20. Vergens rapporteringsplikt og finansinstitusjoners opplysningsplikt
+
+Når en oppnevnt verge forvalter eiendeler på vegne av den som har verge, har vergen rapporteringsplikt for disse eiendelene. Vergen skal sørge for at penger er plassert på de konti som statsforvalteren har fastsatt, jf. [vergemålsloven § 36](lov/2010-03-26-9/§36) og [§ 51](lov/2010-03-26-9/§51).
+
+Finansinstitusjonene der midlene er plassert, skal gi vergemålsmyndigheten opplysninger om samtlige transaksjoner for de konti vergen eller statsforvalteren disponerer. Den sentrale vergemålsmyndigheten kan fastsette når opplysningene skal leveres.
+
+Rapporteringsplikten oppfylles ved at vergen årlig bekrefter at eiendelene er forvaltet i samsvar med lov, forskrift og vedtak. Vergen skal gi opplysninger om hva disposisjonene over vergekonto gjelder, der dette ikke klart fremkommer av transaksjonsoversikten fra finansinstitusjonene etter annet ledd. Videre skal vergen gi opplysninger om øvrige aktiva som forvaltes. Den sentrale vergemålsmyndigheten kan gi nærmere bestemmelser om innholdet i den årlige rapporten.
+
+Kvitteringer og andre bilag til vergens rapporter og eventuelt regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), skal ikke sendes statsforvalteren, men skal oppbevares som dokumentasjon i tre år etter utløpet av regnskapsåret.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 20a. Automatisert utlevering av opplysninger fra finansinstitusjoner mv.
+
+Banker og andre virksomheter som nevnt i [vergemålsloven § 54 første ledd](lov/2010-03-26-9/§54/ledd/1) kan oppfylle opplysnings- og utleveringsplikten etter [vergemålsloven § 54 annet ledd](lov/2010-03-26-9/§54/ledd/2) og [vergemålsforskriften § 20 annet ledd](forskrift/2013-02-15-201/§20/ledd/2) ved å gjøre følgende opplysninger tilgjengelig for vergemålsmyndigheten, digitalt og i form av helt eller delvis automatiserte prosesser:Lister over finansinstitusjoner som person som har verge har eller har hatt et kundeforhold i siste kalenderår,lister med oversikt over konti som eies eller har vært eid av person som har verge siste kalenderår, og som vergen har eller har hatt disposisjonsrett til siste kalenderår,kontodetaljer for slike konti, inkludert saldo,detaljert transaksjonshistorikk for slike konti siste kalenderår, herunder opplysninger om beløp inn og ut av konto, mottaker- og/eller avsenderinformasjon, tidspunkt, brukersted og transaksjonsbeskrivelser ogoversikt over parter som har eller har hatt disposisjonsrett til slike konti i den aktuelle perioden.
+
+Opplysninger som nevnt i første ledd kan innhentes når dette er nødvendig for at vergemålsmyndigheten skal kunne utføre sine oppgaver etter [vergemålsloven kapittel 2](lov/2010-03-26-9/kap2), herunder tilsyn, veiledning og bistand.
+
+> Tilføyd ved forskrift [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 21. Adgang til å pålegge regnskapsplikt
+
+Statsforvalteren kan i det enkelte tilfellet pålegge vergen regnskapsplikt. Statsforvalteren skal pålegge regnskapsplikt når vergemålet omfatter drift av fast eiendom eller annen ervervsvirksomhet.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 22. Frist for å sende inn rapport og regnskap mv.
+
+Frist for å sende inn vergens rapporter og eventuelt regnskap, jf. [§ 20](forskrift/2013-02-15-201/§20) og [§ 21](forskrift/2013-02-15-201/§21), er 30. april, men slik at fristen er 30. juni der det drives næring på vegne av personen som har verge eller der skattemyndighetene har gitt utsatt frist for å levere inn skattemeldingen.
+
+For vergeoppdrag som avsluttes i løpet av året, skal vergens rapport eller eventuelt regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), sendes inn så snart som mulig og senest innen to måneder etter avslutningen av oppdraget. Vergen skal ved avslutning av oppdraget sende inn kopi av kontoutskrifter og redegjøre for øvrige endringer siden avslutningen av forrige regnskapsår eller siden oppnevnelsen dersom det ikke foreligger rapport eller eventuelt regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21), fra året før.
+
+Statsforvalteren kan fastsette en annen frist enn det som følger av første ledd.
+
+Rapporter og eventuelt regnskap, jf. [§ 21](forskrift/2013-02-15-201/§21) skal sendes til statsforvalteren i det vergemålsdistriktet der personen som har verge bor.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 23. Adgang til å frita for rapporterings- og regnskapsplikt
+
+Når ektefellen eller samboeren til personen som har verge er oppnevnt som verge, skal vedkommende fritas for rapporterings- og regnskapsplikt, med mindre særlige grunner taler imot dette.
+
+Statsforvalteren kan frita for rapporterings- og regnskapsplikt i tilfeller der den som har verge bor hos sine foreldre og én av eller begge foreldrene er oppnevnt som verge.
+
+Statsforvalteren kan frita for rapporterings- og regnskapsplikt i tilfeller der dette ikke synes nødvendig sett hen til omfanget av den formuen og den inntekten som vergen forvalter.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 24. Rapporterings- og regnskapsplikt for andre midler
+
+Reglene i kapittelet her gjelder tilsvarende for formue som etter lov skal forvaltes på samme måte som midler tilhørende personer som har verge, eller som etter gyldig bestemmelse av arvelater eller giver skal forvaltes av statsforvalteren, jf. [vergemålsloven § 95](lov/2010-03-26-9/§95) og [§ 96](lov/2010-03-26-9/§96).
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 6. Nærmere regler om finansiell forvaltning
+
+### § 25. Valg av plasseringsalternativ for midlene under forvaltning
+
+Den sentrale vergemålsmyndigheten forhandler om vilkårene for innskudd i bank på vegne av statsforvalteren og fastsetter hvilke finansinstitusjoner som skal benyttes til innskuddsformål, jf. [vergemålsloven § 51](lov/2010-03-26-9/§51) annet ledd. Vergen kan velge hvilken av de fastsatte finansinstitusjonene midler som skal forvaltes av statsforvalteren etter [vergemålsloven kapittel 7](lov/2010-03-26-9/kap7), skal plasseres i, og til hvilke fastsatte vilkår innskuddet skal plasseres. Dersom vergen innenfor en frist ikke foretar et slikt valg, bestemmer statsforvalteren hvordan midlene skal plasseres. Bare statsforvalteren har kompetanse til å opprette konto på vegne av personen for midler som er under statsforvalterens forvaltning.
+
+Dersom det skal forvaltes et større beløp enn det som følger av [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 19-4 første ledd](lov/2015-04-10-17/§19-4/ledd/1), skal en oppnevnt verge velge plassering i flere banker slik at samtlige midler omfattes av innskuddsgarantien.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 26. Grensen for hvilke midler som forvaltes av statsforvalteren
+
+Grensen for når statsforvalteren plikter å forvalte finansielle eiendeler som nevnt i [vergemålsloven § 48](lov/2010-03-26-9/§48) for personer som har verge, settes til et beløp lik to ganger folketrygdens grunnbeløp (G), beregnet på grunnlag av folketrygdens grunnbeløp per 1. januar hvert år.
+
+> Endret ved forskrifter [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+### § 27. Vergens meldeplikt
+
+Når en mindreårig eller en person som er fratatt den rettslige handleevnen, tilføres eiendeler, og den samlede formuen til vedkommende overstiger beløpsgrensen fastsatt i [§ 26](forskrift/2013-02-15-201/§26), skal vergen så snart som mulig gi statsforvalteren melding om dette. Dersom det foreligger forhold som nevnt i [vergemålsloven § 49](lov/2010-03-26-9/§49) annet ledd, jf. [§ 95](lov/2010-03-26-9/§95), skal dokumentasjon for dette vedlegges.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 28. Melding fra skattemyndighetene om mindreåriges formue
+
+Skattemyndighetene skal gi den sentrale vergemålsmyndigheten melding om de personene som fyller 17 år eller mindre i det året meldingen gis, og som har finansielle eiendeler som skattemyndighetene har innhentet opplysninger om fra tredjepart. Slik melding skal likevel bare gis dersom verdien av de finansielle eiendelene samlet overstiger den grensen som følger av [§ 26](forskrift/2013-02-15-201/§26), jf. [vergemålsloven § 49](lov/2010-03-26-9/§49) første ledd første punktum.
+
+Meldingen gis innen 1. juni hvert år til den sentrale vergemålsmyndigheten.
+
+Meldingen skal inneholde opplysninger om personenes navn, adresse, fødselsnummer og en oversikt over de finansielle eiendelene nevnt i første ledd, samt hvor midlene er plassert. Opplysningene kan brukes som grunnlag i statsforvalterens saksbehandling etter [vergemålsloven](lov/2010-03-26-9).
+
+> Tilføyd ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580), endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 29. Meldeplikt ved forsikringsutbetalinger mv.
+
+Forsikringsselskap, pensjonsforetak, staten eller en kommune skal uoppfordret gi melding til statsforvalteren om utbetaling om erstatningsoppgjør mv. til en mindreårig. Meldingen skal gis statsforvalteren i det vergemålsdistriktet den mindreårige er bosatt. Meldingen skal gis før utbetalingen foretas. Skal utbetalingen skje i terminer, er det tilstrekkelig at det gis én melding om den samlede utbetalingen. Vilkårene og utmålingen som ligger til grunn for utbetalingen, skal oversendes samtidig.
+
+Melding om utbetaling etter første ledd skal inneholde:navn, adresse og fødselsnummer til den mindreårigehva utbetalingen gjelderoversikt over samlet forsikrings- eller skadeserstatningsbeløpopplysninger om utbetalingen skal skje som engangsutbetaling, i terminer eller på annen måtenavnet på den som gir meldingen.
+
+Opplysningene kan brukes som grunnlag i statsforvalterens saksbehandling etter [vergemålsloven](lov/2010-03-26-9).
+
+Dersom midlene samlet overstiger forvaltningsgrensen fastsatt med hjemmel i [vergemålsloven § 49](lov/2010-03-26-9/§49), skal statsforvalteren uten ugrunnet opphold opplyse den meldepliktige om hvilken konto midlene skal overføres til. Overstiger midlene ikke grensen, skal de overføres til vergen.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 28), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 29a. Varsel fra statsforvalteren om adgang til å beslutte særskilt forvaltning av gavemidler
+
+Når midler skal tas til forvaltning av statsforvalteren uten eierens samtykke etter [vergemålsloven § 48](lov/2010-03-26-9/§48) første og annet ledd, skal statsforvalteren varsle vergen eller vergene om dette. I varselet skal det opplyses om at for midler som er en gave, kan gavegiveren innen seks måneder etter at varselet ble gitt, bestemme at gaven i stedet skal forvaltes av vergene sammen eller av en verge alene, jf. [vergemålsloven § 95](lov/2010-03-26-9/§95) annet ledd annet og tredje punktum. I varselet skal det også opplyses om at dette bare gjelder dersom det er klart hvem som var giver, og at midlene var en gave, og bare i den utstrekning gaven fortsatt klart er i behold.
+
+> Tilføyd ved forskrift [13 april 2023 nr. 499](forskrift/2023-04-13-499).
+
+## Kapittel 7. Forskjellige bestemmelser
+
+### § 30. Nærmere regler om stadfesting og registrering av fremtidsfullmakt
+
+Stadfesting av fremtidsfullmakter skjer etter reglene i [vergemålsloven § 84](lov/2010-03-26-9/§84) første ledd. Dersom det fremkommer innvendinger mot fremtidsfullmakten, eller andre særlige forhold tilsier det, skal statsforvalteren innhente slik dokumentasjon som anses nødvendig ut fra innvendingen mot fremtidsfullmakten eller de særlige forholdene i saken.
+
+Statsforvalteren sørger for at stadfestingen registreres i samsvar med [vergemålsloven § 77](lov/2010-03-26-9/§77) første ledd. Ved faktiske endringer etter førstegangs registering har fullmektigen ansvaret for å be om at opplysninger registreres eller slettes når det er nødvendig for å sikre en korrekt registrering.
+
+Dersom en stadfestet fremtidsfullmakt erstattes helt eller delvis av vedtak om vergemål for fullmaktsgiveren, skal statsforvalteren sørge for at registrering av fremtidsfullmakten i registrene nevnt i [vergemålsloven § 77](lov/2010-03-26-9/§77) første ledd endres eller slettes i samsvar med vedtaket. Erstattes fullmakten helt eller delvis av dom om vergemål, skal retten på samme måte sørge for at registreringen av fremtidsfullmakten slettes eller endres i samsvar med dommen.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 29), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 31. Nærmere regler om forvaltningen av legatmidler mv.
+
+Dersom styret for en stiftelse ber om det, kan statsforvalteren der særlige grunner tilsier det, vedta å overta forvaltningen av stiftelsens midler, samt andre midler som statsforvalteren etter [vergemålsloven](lov/2010-03-26-9) ikke har plikt til å forvalte. Styret for stiftelsen og statsforvalteren inngår avtale om vederlag for forvaltningen. Statsforvalteren kan videre vedta at en eksisterende forvaltning skal opphøre.
+
+Statsforvalteren kan medvirke til at midlene til stiftelser og andre midler med lokal tilknytning overføres til forvaltning i den kommunen som har sterkest tilknytning til saken, samt til andre forvaltere i samsvar med stiftelsens beslutning.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 30), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+## Kapittel 8. Særlige regler for Svalbard
+
+### § 32. Sysselmesteren som lokal vergemålsmyndighet
+
+Sysselmesteren er lokal vergemålsmyndighet, jf. [vergemålsloven § 4](lov/2010-03-26-9/§4). Som lokal vergemålsmyndighet skal Sysselmesteren utføre de oppgavene som i [vergemålsloven](lov/2010-03-26-9) og bestemmelser gitt i medhold av denne er lagt til statsforvalteren, om ikke annet følger av lov eller forskrift.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 31), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juli 2021), [19 sep 2022 nr. 1663](forskrift/2022-09-19-1663).
+
+### § 33. Opplæring, veiledning og bistand for vergene på Svalbard
+
+Sysselmesteren på Svalbard har ansvaret for at vergene på Svalbard får opplæring, veiledning og bistand i samsvar med [§ 1](forskrift/2013-02-15-201/§1). Dersom Sysselmesteren begjærer det, skal Statsforvalteren i Troms og Finnmark bistå Sysselmesteren ved utføringen av disse oppgavene.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 32), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juli 2021).
+
+### § 34. Tilsynsmyndigheten på Svalbard
+
+Sysselmesteren på Svalbard fører tilsyn med vergene og uskiftebo på Svalbard i samsvar med [§ 2](forskrift/1997-12-03-1441/§2) og [§ 3](forskrift/2013-02-15-201/§3). Dersom Sysselmesteren begjærer det, skal Statsforvalteren i Troms og Finnmark bistå Sysselmesteren ved utføringen av tilsynsoppgavene.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 33), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juli 2021).
+
+### § 35. Forvaltning av finansielle eiendeler for personer bosatt på Svalbard som har verge
+
+Statsforvalteren i Troms og Finnmark har ansvaret for forvaltningen av de finansielle eiendelene som tilhører personer bosatt på Svalbard som har verge, i samsvar med [vergemålsloven § 48](lov/2010-03-26-9/§48) til [§ 54](lov/2010-03-26-9/§54) og bestemmelser gitt i medhold av disse. Statsforvalteren i Troms og Finnmark skal videre utføre de oppgavene som tilligger statsforvalteren etter [vergemålsloven § 35](lov/2010-03-26-9/§35) til [§ 45](lov/2010-03-26-9/§45), samt den forvaltning som følger av [§ 96](lov/2010-03-26-9/§96) og [§ 97](lov/2010-03-26-9/§97). En person regnes som bosatt på Svalbard i samsvar med [forskrift 4. februar 1994 nr. 111 om register over befolkningen på Svalbard § 2](forskrift/1994-02-04-111/§2).
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 34), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021), [18 jan 2024 nr. 85](forskrift/2024-01-18-85).
+
+## Kapittel 9. Overgangsordninger
+
+### § 36. Avvikling av overformynderiene. Regnskap
+
+Overformynderiene skal bestå frem til oppgavene etter [lov 22. april 1927 nr. 3 om vergemål for umyndige](lov/1927-04-22-3), samt oppgavene etter overgangsbestemmelsene etter forskriften her, er sluttført eller overført til statsforvalteren.
+
+Overformynderiene skal sørge for å overføre alle pågående saker til statsforvalteren, med de unntak som følger av bestemmelsene i forskriften her.
+
+Overformynderiene skal avgi avsluttende regnskap for de midlene de har til forvaltning frem til ikrafttredelsen av [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål.
+
+Overformynderiene skal kontrollere regnskapene for vergenes og hjelpevergenes forvaltning frem til ikrafttredelsen av [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål. Regnskapene skal vedlegges overformynderiets eget regnskap over forvaltningen, jf. tredje ledd.
+
+Regnskapet skal sendes til statsforvalteren innen tre måneder etter ikrafttredelsen av [lov 26. mars 2010 nr. 9 om vergemål (vergemålsloven)](lov/2010-03-26-9). Statsforvalteren kan forlenge fristen dersom overformynderiet ber om det.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 35), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 37. Hjelpevergenes og vergenes plikt til å levere avsluttet regnskap mv.
+
+Vergene, hjelpevergene og midlertidige verger skal, med mindre overformynderiet har fritatt dem for regnskapsplikt, utarbeide regnskap per dagen før datoen for ikrafttredelsen av [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål.
+
+Regnskapet skal leveres til overformynderiet senest to måneder etter ikrafttredelsen av [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål. Overformynderiet kan samtykke til utsatt frist når særlige grunner tilsier det.
+
+Regnskapene skal føres, revideres og desiseres slik det følger av regler i eller i medhold av [lov 22. april 1927 nr. 3](lov/1927-04-22-3) om vergemål for umyndige.
+
+> Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 36).
+
+### § 38. Godtgjøring og utgifter
+
+Om vergen eller hjelpevergen har krav på godtgjøring eller dekning av utgifter for oppdraget frem til [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål er trådt i kraft, kan overformynderiet fastsette en frist for når dette kravet må være fremmet. Overformynderiet tar stilling til kravet og sørger for utbetaling. Der overformynderiet har vedtatt at beløpet skal dekkes av klientens midler, sørger vergen for utbetalingen og oppbevarer vedtaket som bilag.
+
+> Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 37).
+
+### § 39. Avvikling av fellesmassene
+
+Dersom forvaltningen i fellesmasse etter [lov 22. april 1927 nr. 3](lov/1927-04-22-3) om vergemål for umyndige [§ 69](lov/1927-04-22-3/§69) ikke er avviklet ved ikrafttredelsen av [lov 26. mars 2010 nr. 9](lov/2010-03-26-9) om vergemål, kan den sentrale vergemålsmyndigheten overta forvaltningen av fellesmassene med sikte på avvikling. Den sentrale vergemålsmyndigheten kan avtale med den enkelte kommune at kommunen skal beholde forvaltningsansvaret i en avgrenset avviklingsperiode. Det organ som er ansvarlig for forvaltningen frem til avvikling, kan kreve en forvaltningsavgift på seks prosent av midlenes avkastning i regnskapsåret.
+
+I avviklingsperioden skal midlene i fellesmassene plasseres i tråd med reglene i [forskrift 8. februar 2000 nr. 119](forskrift/2000-02-08-119) om plassering av umyndiges midler.
+
+Når fellesmassen er avviklet, skal midlene plasseres som bankinnskudd på individuelle konti i bank i samsvar med [vergemålsloven § 51](lov/2010-03-26-9/§51) første ledd.
+
+> Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 38).
+
+### § 40. Regler om førstegangs plassering av midlene som skal forvaltes av statsforvalteren
+
+Ved overføringen av de forvaltede finansielle eiendelene fra overformynderienes til statsforvalterens forvaltning, skal eiendelene plasseres som innskudd i de finansinstitusjonene det er inngått avtale med og til de vilkår som er fremforhandlet, jf. [vergemålsloven § 51](lov/2010-03-26-9/§51) annet ledd. Dersom det er fremforhandlet vilkår med ulik profil, og vergen ikke har valgt plassering, eller valgt plassering ikke er tilgjengelig, skal midlene plasseres etter en ordning fastsatt av den sentrale vergemålsmyndigheten.
+
+> Endret ved [forskrifter 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 39), [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 41. Nærmere om overføring av klagesaker til den sentrale vergemålsmyndigheten
+
+Når en klage er kommet inn til overformynderiet eller statsforvalteren og det ikke er truffet vedtak i saken før 1. juli 2013, skal klagen overføres til den sentrale vergemålsmyndigheten.
+
+> Tilføyd ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580), endret ved forskrift [12 mai 2021 nr. 1711](forskrift/2021-05-12-1711) (i kraft 1 juni 2021).
+
+### § 42. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2013, med unntak av [§ 25](forskrift/2013-02-15-201/§25) som trer i kraft straks.
+
+> Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 40).
+
+### § 43. Opphevelse av forskrifter
+
+Fra den tid forskriften trer i kraft oppheves:[Forskrift 27. juni 1975 nr. 9516](forskrift/1975-06-27-9516) om føring av overformynder- og vergeregnskaper, revisjon m.v.[Forskrift 27. juni 1975 nr. 9517](forskrift/1975-06-27-9517) om oppbevaring m.m. i bank av verdipapirer og bankbøker under overformynderiets forvaltning[Forskrift 14. desember 1990 nr. 989](forskrift/1990-12-14-989) om fastsettelse av forvaltningsavgiften etter vergemålsloven[Forskrift 29. juni 1993 nr. 577](forskrift/1993-06-29-577) om meldeplikt for helseinstitusjoner m m etter vergemålslovgivningen[Forskrift 8. februar 2000 nr. 118](forskrift/2000-02-08-118) om grense for når overformynderiet skal forvalte umyndiges midler[Forskrift 8. februar 2000 nr. 119](forskrift/2000-02-08-119) om plassering av umyndiges midler.
+
+> Endret ved [forskrift 4 juni 2013 nr. 580](forskrift/2013-06-04-580) (tidligere § 41).

@@ -1,0 +1,186 @@
+---
+id: "sf-20140509-0626"
+slug: "forskrift-om-restriktive-tiltak-mot-republikken-guinea"
+type: "forskrift"
+ref_id: "forskrift/2014-05-09-626"
+title: "Forskrift om restriktive tiltak mot Republikken Guinea"
+short_title: "Forskrift om restriktive tiltak mot Republikken Guinea"
+language: "no"
+ministry:
+  - "Utenriksdepartementet"
+date_in_force: "2014-05-09"
+last_change_in_force: "2025-01-01"
+last_updated: "2021-05-04"
+xml_hash: "cd3b1da47fa7ae3030f50780a8d8350aa3dcc5dc5c5778de4b518a90f2607684"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om restriktive tiltak mot Republikken Guinea
+
+## I
+
+### § 1. Virkeområde
+
+Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inkludert norsk luftromom bord på alle luftfartøy eller fartøy under norsk jurisdiksjonoverfor alle norske statsborgere uansett hvor de befinner segoverfor alle juridiske personer, enheter og organer som er etablert eller stiftet i henhold til norsk lovgivningoverfor alle juridiske personer, enheter og organer med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+
+### § 2. Innarbeiding av forordning (EU) nr. 1284/2009
+
+1. EUs vedlagte forordning [(EU) nr. 1284/2009](eu/32009r1284) om visse spesifikke restriktive tiltak mot visse personer og enheter i lys av situasjonen i Republikken Guinea (som endret av forordning [(EU) nr. 269/2011](eu/32011r0269), forordning [(EU) nr. 1295/2011](eu/32011r1295), forordning [(EU) nr. 49/2013](eu/32013r0049), forordning [(EU) nr. 517/2013](eu/32013r0517), forordning [(EU) nr. 380/2014](eu/32014r0380)) gjelder som forskrift med de tilpasninger som følger av denne bestemmelsen.
+2. Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge».
+3. Henvisningene til medlemsstatenes kompetente myndigheter, i enkelte tilfelle med referanser til vedlegg III, skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+4. Henvisningene til virkeområdet i artikkel 18 skal forstås som «forskriftens virkeområde slik dette er fastlagt i [§ 1](forskrift/2014-05-09-626/§1)».
+5. Det er forbudt å kjøpe varer og teknologi oppført i vedlegg I til forskrift om eksport av forsvarsmateriell mv.
+6. Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også følgende artikler EU-interne og kommer ikke til anvendelse: 12, 13, 15–19. Tilsvarende gjelder forordningens vedlegg III.
+
+> Endret ved [forskrifter 21 des 2015 nr. 1850](forskrift/2015-12-21-1850), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
+
+### § 3. Straff
+
+Den som overtrer bestemmelser gitt i forskriften, straffes i henhold til [sanksjonsloven § 4](lov/2021-04-16-18/§4).
+
+> Endret ved forskrift [29 april 2021 nr. 1344](forskrift/2021-04-29-1344).
+
+### § 4. Dispensasjon
+
+Direktoratet for eksportkontroll og sanksjoner kan dispensere fra forskriften på grunnlag av vedlagte forordnings dispensasjonsbestemmelser. Direktoratet for eksportkontroll og sanksjoner kan også i særskilte tilfeller dispensere fra forskriften dersom den får en klart utilsiktet virkning, og forutsatt at det ikke strider mot Norges folkerettslige forpliktelser eller hensynene bak tiltakene mot Republikken Guinea.
+
+> Endret ved forskrift [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
+
+### § 5. Endring av forskriften
+
+Utenriksdepartementet gis fullmakt til å endre, suspendere eller oppheve forskriften.
+
+### § 6. Forskriftens ikrafttredelse
+
+## II
+
+Nye vedlegg A og I til III skal lyde: Vedlegg A, Vedlegg 1, Vedlegg II, Vedlegg III.
+
+## III
+
+Denne forskrift trer i kraft straks.
+
+## Vedlegg A
+
+> Endret ved [forskrifter 21 des 2015 nr. 1850](forskrift/2015-12-21-1850), [22 mai 2024 nr. 805](forskrift/2024-05-22-805).
+
+### RÅDSFORORDNING [(EU) nr. 1284/2009](eu/32009r1284)
+av 22. desember 2009
+om innføring av visse spesifikke restriktive tiltak mot Republikken Guinea
+
+### Artikkel 1
+
+I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavender og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter eller verdier påløpt eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller formuesgoder,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte kommer til anvendelse, på de vilkår som er fastsatt i traktaten.
+
+### Artikkel 2. (opphevet)
+
+### Artikkel 3. (opphevet)
+
+### Artikkel 4. (opphevet)
+
+### Artikkel 5. (opphevet)
+
+### Artikkel 6
+
+1. Alle penger og formuesgoder som tilhører, eies, besittes eller kontrolleres av de fysiske og juridiske personene, enhetene og organene som er oppført på listen i vedlegg II, skal fryses.
+2. Ingen penger eller formuesgoder skal stilles til rådighet for, verken direkte eller indirekte, eller gjøres tilgjengelige til fordel for de fysiske og juridiske personene, enhetene og organene som er oppført på listen i vedlegg II.
+3. Vedlegg II inneholder en liste over de personene som den internasjonale undersøkelseskommisjonen har fastslått er ansvarlige for hendelsene 28. september 2009 i Republikken Guinea, samt fysiske eller juridiske personer, enheter eller organer som er assosiert med dem, og som Rådet har oppført på listen i samsvar med artikkel 4 nr. 1 i rådsbeslutning 2010/638/FUSP av 25. oktober 2010 om restriktive tiltak rettet mot Republikken Guinea.1
+4. Det er forbudt forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i nr. 1 og 2.
+
+### Artikkel 7
+
+Forbudene i artikkel 6 nr. 2 skal ikke medføre noen form for ansvar for fysiske og juridiske personer, enheter eller organer som har stilt penger eller formuesgoder til rådighet, dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med disse forbudene.
+
+### Artikkel 8
+
+1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse, på de vilkår de finner hensiktsmessige, til at visse frosne penger eller formuesgoder frigis eller stilles til rådighet forutsatt at pengene eller formuesgodeneer nødvendige for å dekke de grunnleggende behov hos de personene som er oppført på listen i vedlegg II, samt familiemedlemmer de forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og legebehandling, skatter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerer nødvendige for å dekke ekstraordinære utgifter, forutsatt at medlemsstaten minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstater og Kommisjonen om hvorfor den anser at en bestemt tillatelse bør gis.
+2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+
+### Artikkel 8a
+
+1. [Artikkel 6 nr. 1](forskrift/2014-05-09-626/a6/nummer/1) og [2](forskrift/2014-05-09-626/a6/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+2. Uten at det berører nr. 1, kan de kompetente myndighetene i medlemsstatene, som er angitt på nettsidene oppført i [vedlegg III](forskrift/2014-05-09-626/vedleggIII), gjøre unntak fra bestemmelsene i [artikkel 6](forskrift/2014-05-09-626/a6) nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
+3. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+4. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
+
+### Artikkel 9
+
+1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra artikkel 6 og gi tillatelse til at visse frosne penger eller formuesgoder frigis dersom følgende vilkår er oppfylt:pengene eller formuesgodene det gjelder, er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før den dato da personen, enheten eller organet nevnt i artikkel 6 ble listeført, eller for en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen,pengene eller formuesgodene det gjelder, utelukkende skal brukes til å innfri fordringer som er sikret ved en slik tilbakeholdsrett eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt av gjeldende lover og forskrifter om slike fordringshaveres rettigheter,tilbakeholdsretten eller avgjørelsen er ikke til fordel for en person, en enhet eller et organ oppført på listen i vedlegg II, oganerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+
+### Artikkel 10
+
+1. Bestemmelsene i artikkel 6 nr. 2 skal ikke forhindre at finans- eller kredittinstitusjoner i EU i å godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal straks underrette vedkommende kompetente myndighet om slike transaksjoner.
+2. Bestemmelsene i artikkel 6 nr. 2 får ikke anvendelse på beløp som tilføres frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før den dato da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 3 ble oppført i vedlegg II,forutsatt at rentene, andre inntekter, betalinger eller finansielle instrumenter fryses i samsvar med artikkel 6 nr. 1.
+
+### Artikkel 11
+
+Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble fryst eller tilbakeholdt som følge av uaktsomhet.
+
+### Artikkel 12
+
+1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter eller organeromgående gi opplysninger som vil fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 6, til medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, der de er bosatt eller befinner seg, og gi opplysningene til Kommisjonen, direkte eller gjennom de kompetente myndigheter som angitt på nettsidene oppført i vedlegg III,samarbeide med denne kompetente myndigheten om verifisering av opplysningene.
+2. Enhver tilleggsopplysning som Kommisjonen mottar direkte, skal stilles til rådighet for den berørte medlemsstaten.
+3. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
+
+### Artikkel 13
+
+Kommisjonen og medlemsstatene skal umiddelbart underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal gi hverandre alle andre relevante tilgjengelige opplysninger i forbindelse med denne forordning, særlig om problemer med brudd på og håndheving av bestemmelsene samt rettsavgjørelser fra nasjonale domstoler.
+
+### Artikkel 14
+
+Vedlegg II inneholder opplysninger, i den grad slike opplysninger er tilgjengelige, om listeførte fysiske personer slik at disse kan identifiseres på tilfredsstillende vis.
+
+Opplysningene kan omfatteetternavn og fornavn, herunder eventuelle dekknavn og titler,fødselsdato og fødested,statsborgerskap,passnummer og identitetskortnummer,skattenummer og trygdenummer,kjønn,adresse eller andre opplysninger om oppholdssted,stilling eller yrke,listeføringsdato.
+
+Vedlegg II kan også inneholde opplysninger for identifikasjon som fastsatt i dette nummer om de listeførte personenes familiemedlemmer, forutsatt at disse opplysningene er nødvendig i et gitt tilfelle utelukkende for å verifisere identiteten til denne listeførte personen.
+
+Vedlegg II skal også angi årsakene til oppføringen på listen, f.eks. stilling.
+
+### Artikkel 15
+
+Kommisjonen skal ha myndighet til å endre vedlegg III på grunnlag av opplysninger fra medlemsstatene.
+
+### Artikkel 15a
+
+1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene nevnt i artikkel 6 nr. 1, skal vedlegg II endres tilsvarende.
+2. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, der den fysiske eller juridiske personen, enheten eller organet gis anledning til å komme med merknader.
+3. Dersom det kommer merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+4. Listen i vedlegg II skal gjennomgås jevnlig og minst hver tolvte måned.
+
+### Artikkel 16
+
+1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+
+### Artikkel 17
+
+1. Medlemsstatene skal utpeke de kompetente myndigheter nevnt i denne forordning og identifisere dem på eller ved hjelp av nettsidene oppført i vedlegg III.
+2. Medlemsstatene skal underrette Kommisjonen om sine kompetente myndigheter umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+3. Der denne forordning inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg III benyttes.
+
+### Artikkel 18
+
+Denne forordning får anvendelsepå EUs territorium, herunder i EUs luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor EUs territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter eller organer med hensyn til forretningsvirksomhet drevet helt eller delvis i EU.
+
+### Artikkel 19
+
+Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions tidende.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+## Vedlegg I (opphevet)
+
+> Opphevet ved [forskrift 21 des 2015 nr. 1850](forskrift/2015-12-21-1850).
+
+## Vedlegg II
+
+## Vedlegg III
+
+[Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]
+
+> Endret ved [forskrift 21 des 2015 nr. 1850](forskrift/2015-12-21-1850).

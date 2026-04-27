@@ -1,0 +1,142 @@
+---
+id: "nl-20090619-044"
+slug: "krisesenterlova"
+type: "lov"
+ref_id: "lov/2009-06-19-44"
+title: "Lov om kommunale krisesentertilbod (krisesenterlova)"
+short_title: "Krisesenterlova"
+language: "nn"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2010-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2022-03-28"
+xml_hash: "fa24e7baccd502c2f638bd052bc64688ea28e8c4726359123afe2fe94e5fb62f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om kommunale krisesentertilbod (krisesenterlova)
+
+## § 1. Formålet med lova
+
+Formålet med denne lova er å sikre eit godt og heilskapleg krisesentertilbod til kvinner, menn og barn som er utsette for vald eller truslar om vald i nære relasjonar.
+
+## § 2. Krav til krisesentertilbodet
+
+Kommunen skal sørgje for eit krisesentertilbod som skal kunne nyttast av personar som er utsette for vald eller truslar om vald i nære relasjonar, og som har behov for rådgjeving eller eit trygt og mellombels butilbod.
+
+Tilbodet skal omfatte følgjande:eit krisesenter eller eit tilsvarande gratis, heilårs, heildøgns, trygt og mellombels butilbodeit gratis dagtilbodeit heilårs og heildøgns tilbod der personar nemnde i første ledd kan få råd og rettleiing per telefonoppfølging i reetableringsfasen i samarbeid med andre delar av tenesteapparatet, jf. [§ 4](lov/2009-06-19-44/§4).
+
+Tilbodet skal gi brukarane støtte, rettleiing og hjelp til å ta kontakt med andre delar av tenesteapparatet.
+
+Enkeltpersonar kan vende seg direkte til krisesentertilbodet som nemnt i andre ledd, utan tilvising eller timeavtale.
+
+Kommunen skal sørgje for god kvalitet på tilbodet, mellom anna ved at dei tilsette har kompetanse til å ta vare på dei særskilte behova til brukarane.
+
+Butilbodet til kvinner og butilbodet til menn skal vere fysisk skilde.
+
+Departementet kan gi forskrift om krav til kompetanse hos dei tilsette og krav til fysisk sikring av lokale.
+
+> Endra ved lov [20 juni 2025 nr. 42](lov/2025-06-20-42) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1087](forskrift/2025-06-20-1087)).
+
+## § 3. Individuell tilrettelegging av tilbod
+
+Kommunen skal sørgje for at tilbodet så langt råd er blir lagt til rette slik at det kjem dei individuelle behova til brukarane i møte. Er tilrettelegging ikkje mogleg, skal kommunen sørgje for likeverdige alternative krisesentertilbod for brukarar som ikkje kan nytte det vanlege tilbodet ved krisesenteret.
+
+Dei særskilde rettane til samiske brukarar skal varetakast i krisesentertilbodet.
+
+Kommunen skal sørgje for å ta vare på barn på ein god måte som er tilpassa deira særskilte behov, og skal også sørgje for at barn får oppfylt dei rettane dei har etter anna regelverk.
+
+Kommunen skal sørgje for at brukarar av bu- og dagtilbodet får tilgang til kvalifisert tolk dersom det er nødvendig for at dei skal få eit fullgodt tilbod. Kommunen skal sørgje for rutinar for kvalitetssikring, bestilling og betaling av tolketenester.
+
+> Endra ved lov [20 juni 2025 nr. 42](lov/2025-06-20-42) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1087](forskrift/2025-06-20-1087)).
+
+## § 4. Samarbeid og samordning
+
+Kommunen skal sørgje for at krisesentertilbodet samarbeider med andre delar av tenesteapparatet dersom det er nødvendig for å gi brukaren eit heilskapleg og samordna tenestetilbod. Dersom brukaren har individuell plan etter anna lov og forskrift, skal kommunen sørgje for at krisesentertilbodet deltek i samarbeid om utarbeiding og oppfølging av tiltak og mål i den individuelle planen.
+
+Kommunen skal samordne tenestetilbodet etter første ledd. Ved behov skal kommunen bestemme kva for ein kommunal tenesteytar som skal vareta samordninga. Dersom det er oppnemnd barnekoordinator etter [helse- og omsorgstenesteloven § 7-2 a](lov/2011-06-24-30/§7-2a), skal koordinatoren sørgje for samordning av tenestetilbodet.
+
+Kommunen skal, i tillegg til å følgje opp einskilde brukarar, sørgje for at krisesentertilbodet samarbeider med andre delar av tenesteapparatet slik at krisesentertilbodet og dei andre tenestene kan ivareta sine oppgåver etter lov og forskrift.
+
+Med tenesteapparatet er det her meint kommunale, fylkeskommunale og statlege tenesteytarar, private tenesteytarar som utfører oppgåver på vegner av ein slik tenesteytar, barnehagar som får tilskot etter [barnehageloven § 19](lov/2005-06-17-64/§19) og skolar som får statstilskot etter [privatskolelova § 6-1](lov/2003-07-04-84/§6-1).
+
+> Endra med lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [11 juni 2021 nr. 78](lov/2021-06-11-78) som endra med lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+
+## § 5. Teieplikt
+
+Alle som utfører teneste eller arbeid etter denne lova, har teieplikt etter [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g). Brot på teieplikta straffast etter [straffeloven § 209](lov/2005-05-20-28/§209).
+
+Teieplikta gjeld også fødestad, fødselsdato, personnummer, statsborgarforhold, sivilstand, yrke, bustad, arbeidsstad og andre opplysningar som kan røpe at nokon har vore i kontakt med tilbodet.
+
+Opplysningar til andre forvaltningsorgan, jf. [forvaltningsloven § 13 b](lov/1967-02-10/§13b) nr. 5 og 6, kan berre givast når dette er nødvendig for å fremme oppgåvene til kommunen etter denne lova, eller for å førebyggje vesentleg fare for liv eller alvorleg skade på helsa til nokon.
+
+> Endra med lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)).
+
+## § 5 a. Behandling av personopplysningar
+
+Organ som utfører oppgåver etter denne lova, kan behandle personopplysningar, også personopplysningar som nemnde i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10), når det er nødvendig for å utføre oppgåver etter lova. Det same gjeld private som utfører oppgåver etter denne lova.
+
+Brukarar av krisesentertilbodet kan reservere seg mot vidarebehandling av opplysningar til bruk i til dømes statistikk, analysar og forsking.
+
+Departementet kan gi nærmare reglar i forskrift om behandling av personopplysningar, mellom anna om formålet med behandlinga, behandlaransvar, kva for personopplysningar som kan behandlast, utlevering, registerføring, tilgang til register og høvet til vidarebehandling.
+
+> Tilføyd ved lov [20 juni 2025 nr. 42](lov/2025-06-20-42) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1087](forskrift/2025-06-20-1087)).
+
+## § 5 b. Tilgang til teiepliktige opplysningar frå Folkeregisteret
+
+Organ som utfører oppgåver etter denne lova, kan utan hinder av teieplikt innhente opplysningar frå Folkeregisteret som er nødvendige for å utføre oppgåver etter denne lova.
+
+> Tilføyd ved lov [20 juni 2025 nr. 42](lov/2025-06-20-42) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1087](forskrift/2025-06-20-1087)).
+
+## § 6. Opplysningsplikt til barnevernet
+
+Alle som utfører teneste eller arbeid etter denne lova, skal i arbeidet sitt vere merksame på forhold som kan føre til tiltak frå barnevernstenesta.
+
+Alle som utfører teneste eller arbeid etter denne lova, skal utan hinder av teieplikta melde frå til barnevernstenesta utan ugrunna opphaldnår det er grunn til å tru at eit barn blir eller vil bli mishandla, utsett for alvorlege manglar ved den daglege omsorga eller anna alvorleg omsorgssvikt,når det er grunn til å tru at eit barn har ein livstruande eller annan alvorleg sjukdom eller skade og ikkje kjem til undersøking eller behandling,når det er grunn til å tru at eit barn med nedsett funksjonsevne eller eit spesielt hjelpetrengande barn ikkje får dekt sitt særlege behov for behandling eller opplæring,når eit barn set utviklinga si i alvorleg fare i form av alvorlege eller gjentatte brotsverk, problematisk bruk av rusmiddel eller andre utprega skadelege handlingar,når det er grunn til å tru at eit barn blir eller vil bli utnytta til menneskehandel.
+
+Alle som utfører teneste eller arbeid etter denne lova, pliktar også å gi opplysningar etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
+
+> Endra med lover [20 apr 2018 nr. 5](lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](forskrift/2018-06-08-839)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+
+## § 6 a. Opplysningar til den kommunale helse- og omsorgstenesta og sosialtenesta
+
+Kommunen skal sørgje for at alle som utfører tenester eller arbeid etter denne lova, er merksame på forhold som bør føre til tiltak frå sosialtenesta eller helse- og omsorgstenesta. Kommunen skal sørgje for at krisesentertilbodet av eige tiltak gir sosialtenesta eller helse- og omsorgstenesta opplysningar om slike forhold så langt opplysningane kan givast utan hinder av teieplikta.
+
+> Føyd til med lov [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+
+## § 7. Politiattest
+
+Den som blir tilsett eller får tildelt oppgåver som inneber kontakt med brukarar av eit krisesenter eller tilsvarande bu- og dagtilbod, skal leggje fram politiattest som nemnt i [politiregisterloven § 39](lov/2010-05-28-16/§39) første ledd. Attesten skal ikkje vere eldre enn tre månader.
+
+Departementet kan gje nærare forskrift om krav til politiattest.
+
+> Endra med lov [22 mai 2017 nr. 27](lov/2017-05-22-27) (ikr. 22 mai 2017 iflg. [res. 22 mai 2017 nr. 619](forskrift/2017-05-22-619)).
+
+## § 8. (Oppheva)
+
+> Oppheva med lov [19 juni 2020 nr. 89](lov/2020-06-19-89) (ikr. 1 jan 2021 iflg. [res. 25 sep 2020 nr. 1825](forskrift/2020-09-25-1825)).
+
+## § 9. Statleg tilsyn
+
+Statsforvaltaren skal føre tilsyn med at kommunen oppfyller pliktene pålagde etter [§§ 2](lov/2009-06-19-44/§2), [3](lov/2009-06-19-44/§3) og [4](lov/2009-06-19-44/§4) og [kommuneloven § 25-1](lov/2018-06-22-83/§25-1).
+
+Reglane i [kommuneloven kapittel 30](lov/2018-06-22-83/kap30) gjeld for den tilsynsverksemda som er nemnd i første leddet.
+
+> Endra med lover [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [19 juni 2020 nr. 89](lov/2020-06-19-89) (ikr. 1 jan 2021 iflg. [res. 25 sep 2020 nr. 1825](forskrift/2020-09-25-1825)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## § 10. Bruk av lova på Svalbard
+
+Kongen kan gi forskrifter om bruken av lova på Svalbard og har høve til å fastsetje særlege reglar der det blir teke omsyn til forholda på staden.
+
+## § 11. Ikraftsetjing og overgangsreglar
+
+Lova blir sett i kraft frå den tid Kongen bestemmer.1 Departementet kan i forskrift gi nærmare overgangsreglar.
+
+## § 12. Endring i anna lovgjeving
+
+Med verknad frå ikraftsetjinga av lova gjer ein denne endringa i anna lovgjeving: – – –

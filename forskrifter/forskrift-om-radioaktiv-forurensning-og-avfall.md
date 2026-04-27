@@ -1,0 +1,94 @@
+---
+id: "sf-20101101-1394"
+slug: "forskrift-om-radioaktiv-forurensning-og-avfall"
+type: "forskrift"
+ref_id: "forskrift/2010-11-01-1394"
+title: "Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall"
+short_title: "Forskrift om radioaktiv forurensning og avfall"
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2011-01-01"
+last_change_in_force: "2025-12-05"
+last_updated: "2023-08-11"
+xml_hash: "18468fc487eb83edfff7c2ee9865f0ff7b6a111a08f97e31c24ca9cde9c7ecb9"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall
+
+## § 1. Saklig virkeområde
+
+Forskriften gjelder forurensningslovens anvendelse på stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet.
+
+Forskriften gjelder også radioaktivt avfall jf. [§ 2](forskrift/2010-11-01-1394/§2).
+
+## § 2. Definisjoner
+
+I denne forskriften menes med*radioaktivt stoff:* stoff som sender ut alfa-, beta- eller gammastråling,*radioaktiv forurensning:* stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet. Dette omfatter også stråling fra naturlig forekommende radioaktive stoffer når menneskelig aktivitet fører til økt stråleeksponering av mennesker eller miljø,*radioaktivt avfall:* løsøregjenstander eller stoffer som regnes som avfall etter [forurensingsloven § 27](lov/1981-03-13-6/§27) første ledd, og inneholder eller er forurenset med radioaktive stoffer med spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg I bokstav a,*deponeringspliktig radioaktivt avfall:* radioaktivt avfall med større eller lik verdier for total aktivitet og spesifikk aktivitet enn angitt i vedlegg I bokstav b.
+
+Direktoratet for strålevern og atomsikkerhet bestemmer i tvilstilfeller hva som anses som radioaktivt avfall, herunder deponeringspliktig radioaktivt avfall.
+
+> Endret ved [forskrift 20 des 2018 nr. 2092](forskrift/2018-12-20-2092) (i kraft 1 jan 2019).
+
+## § 3. Forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall
+
+[Forurensningsloven](lov/1981-03-13-6) gjelder for radioaktiv forurensning og radioaktivt avfall med unntak av [§§ 21](lov/1981-03-13-6/§21) til [26](lov/1981-03-13-6/§26), [§ 30](lov/1981-03-13-6/§30), [§ 32a](lov/1981-03-13-6/§32a), [§§ 34](lov/1981-03-13-6/§34) til [37](lov/1981-03-13-6/§37) og [§§ 43](lov/1981-03-13-6/§43) til [47](lov/1981-03-13-6/§47).
+
+[Forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 16](forskrift/2004-06-01-930/kap16), [§§ 18B-2](forskrift/2004-06-01-930/§18B-2), [18B-3](forskrift/2004-06-01-930/§18B-3) og [kapittel 19](forskrift/2004-06-01-930/kap19) og [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 36-1](forskrift/2004-06-01-931/§36-1), [§ 36-2](forskrift/2004-06-01-931/§36-2), [§§ 36-5](forskrift/2004-06-01-931/§36-5) til [36-9](forskrift/2004-06-01-931/§36-9), [§§ 36-17](forskrift/2004-06-01-931/§36-17) til [36-19](forskrift/2004-06-01-931/§36-19), [kapittel 39](forskrift/2004-06-01-931/kap39), [kapittel 41](forskrift/2004-06-01-931/kap41) og [§ 41A-1a](forskrift/2004-06-01-931/§41A-1a), [§§ 41A-3](forskrift/2004-06-01-931/§41A-3) og [41A-4](forskrift/2004-06-01-931/§41A-4) gjelder for radioaktiv forurensning og radioaktivt avfall.
+
+> Endret ved forskrift [5 des 2025 nr. 2428](forskrift/2025-12-05-2428).
+
+## § 4. Tillatelse til radioaktiv forurensning
+
+Direktoratet for strålevern og atomsikkerhet kan gi tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11) til virksomhet som medfører eller kan medføre radioaktiv forurensning, og fastsette nærmere vilkår etter [forurensningsloven § 16](lov/1981-03-13-6/§16) for å motvirke at radioaktiv forurensning fører til skader eller ulemper.
+
+Virksomhet som medfører eller kan medføre tilførsel av radioaktive stoffer med total aktivitet eller spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg II, skal i relasjon til [forurensningsloven § 8](lov/1981-03-13-6/§8) siste ledd alltid anses å medføre nevneverdige skader eller ulemper og kan ikke finne sted uten tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11).
+
+> Endret ved [forskrift 20 des 2018 nr. 2092](forskrift/2018-12-20-2092) (i kraft 1 jan 2019).
+
+## § 5. Håndtering av radioaktivt avfall
+
+Radioaktivt avfall skal håndteres i samsvar med [forskrift 1. juni 2004 nr. 930](forskrift/2004-06-01-930) om gjenvinning og behandling av avfall ([avfallsforskriften) kapittel 16](forskrift/2004-06-01-930/kap16).
+
+## § 6. Unntak
+
+Departementet, eller den departementet bemyndiger, kan i særskilte tilfeller gjøre unntak fra bestemmelsene i denne forskriften.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2011.
+
+## § 8. Overgangsbestemmelser for krav om tillatelse
+
+Virksomhet som krever tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11) jf. [§ 4](lov/1981-03-13-6/§4) i denne forskriften, skal søke Direktoratet for strålevern og atomsikkerhet om tillatelse så snart som mulig og senest innen 1. januar 2013.
+
+Vedtak og godkjenninger gitt i medhold av forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V gjelder til de er erstattet av tillatelse etter forurensningsloven, men er ikke i noe tilfelle gyldige etter 1. januar 2014.
+
+Virksomhet som krever tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11) jf. [§ 4](lov/1981-03-13-6/§4) i denne forskriften og som er igangsatt før forskriften trer i kraft, men som ikke har hatt godkjenning etter forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V, kan fortsette til de får tillatelse, men ikke i noe tilfelle etter 1. januar 2014.
+
+Direktoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet som nevnt i første ledd likevel må søke om tillatelse innen en kortere frist og bestemme at virksomheten er ulovlig etter en fastsatt dato, dersom pålegget ikke etterkommes.
+
+> Endret ved [forskrift 20 des 2018 nr. 2092](forskrift/2018-12-20-2092) (i kraft 1 jan 2019).
+
+## § 9. Samtidige endringer i andre forskrifter
+
+## Vedlegg I. Radioaktivt avfall jf. § 2
+
+Vedlegg 1 bokstav a fastsetter nedre grenser for hva som er radioaktivt avfall. Vedlegg 1 bokstav b fastsetter hva som er deponeringspliktig radioaktivt avfall.
+
+Verdiene i tabellen nedenfor viser spesifikk aktivitet (Bq/g) for radioaktivt avfall. Avfall med spesifikk aktivitet større eller lik verdiene i tabellen skal regnes som radioaktivt avfall.
+
+Dersom avfallet inneholder ulike radionuklider, er avfallet å betrakte som radioaktivt dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, er større eller lik 1: $$\sum\limits_k \frac{C_k}{C_{e,k}} \ge 1$$
+
+Verdiene i tabellen viser spesifikk aktivitet (Bq/g), og den totale aktivitet (Bq) pr. år, for hva som anses som deponeringspliktig avfall, jf. § 2 bokstav d. Deponeringsplikten fordrer at både total aktivitet og spesifikk aktivitet er større eller lik verdiene. Det er virksomhetens forventede, totale avfall i løpet av et år som skal legges til grunn ved virksomhetens vurdering av deponeringsplikten. Dersom avfallet inneholder flere radionuklider, er avfallet deponeringspliktig dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, og summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende verdien i tabellen er større eller lik 1: $$\sum\limits_k \frac{C_k}{C_{e,k}} \ge 1 \quad \text{og} \quad \sum\limits_k \frac{A_k}{A_{e,k}} \ge 1$$
+
+## Vedlegg II. Tilførsel av radioaktive stoffer som alltid trenger tillatelse, jf. § 4 annet ledd
+
+Virksomhet som medfører tilførsel av radioaktive stoffer med en total aktivitet (Bq) pr. år, eller spesifikk aktivitet (Bq/g) som er større eller lik verdiene i dette vedlegget, må alltid ha tillatelse jf. § 4 annet ledd.
+
+Dersom tilførselen består av flere ulike radionuklider, kreves tillatelse dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, eller summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende grenseverdien, er større eller lik 1: $$\sum\limits_k \frac{C_k}{C_{e,k}} \ge 1 \quad \text{eller} \quad \sum\limits_k \frac{A_k}{A_{e,k}} \ge 1$$

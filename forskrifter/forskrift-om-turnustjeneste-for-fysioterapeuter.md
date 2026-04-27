@@ -1,0 +1,164 @@
+---
+id: "sf-20090909-1175"
+slug: "forskrift-om-turnustjeneste-for-fysioterapeuter"
+type: "forskrift"
+ref_id: "forskrift/2009-09-09-1175"
+title: "Forskrift om praktisk tjeneste (turnustjeneste) for å få autorisasjon som fysioterapeut"
+short_title: "Forskrift om turnustjeneste for fysioterapeuter"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2010-01-01"
+last_change_in_force: "2020-05-06"
+last_updated: null
+xml_hash: "f3b71d555770f5a7653f00ff6c63ed868a4b3e6285d2c8bfb30932488f4890ce"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om praktisk tjeneste (turnustjeneste) for å få autorisasjon som fysioterapeut
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Formål
+
+Formålet med praktisk tjeneste er at turnusfysioterapeuten ved å arbeide under veiledning, opplæring og supervisjon skal få nødvendig erfaring og tilegne seg ferdigheter for selvstendig å kunne utføre faglig forsvarlig virksomhet som fysioterapeut.
+
+### § 2. Forskriftens virkeområde
+
+Forskriften gjelder for:personer som har norsk utdanning som fysioterapeut og som må gjennomføre praktisk tjeneste som vilkår for å få autorisasjon som fysioterapeut i Norge,personer som har utenlandsk utdanning som fysioterapeut, og som helt eller delvis må gjennomføre praktisk tjeneste i Norge for å få autorisasjon som fysioterapeut i Norge ogturnusstedet der den praktiske tjenesten allerede blir eller skal utføres, herunder for fysioterapeut som er veileder og fysioterapeut som er ansvarlig for tjenesten.
+
+### § 3. Definisjoner
+
+I denne forskriften menes med:*turnussted:* virksomhet i spesialisthelsetjenesten eller kommunen der praktisk tjeneste allerede blir eller skal utføres.*turnusplass:* tidsbegrenset stilling som allerede er eller skal bli godkjent av Helsedirektoratet.*turnusfysioterapeut:* person som har avsluttet fysioterapiutdanning, har påbegynt praktisk tjeneste og har lisens til å utføre slik tjeneste.
+
+### § 4. Krav om lisens
+
+Turnusfysioterapeut som skal utføre praktisk tjeneste må ha lisens utstedt av Helsedirektoratet eller den det bemyndiger før tjenesten påbegynnes.
+
+## Kapittel 2. Krav til den praktiske tjenesten mv.
+
+### § 5. Innholdet i den praktiske tjenesten
+
+Følgende praktiske tjeneste må være tilfredsstillende utført i Norge for å få autorisasjon som fysioterapeut:6 måneders tjeneste i spesialisthelsetjenesten og6 måneders tjeneste i den kommunale helse- og omsorgstjenesten.
+
+Tjenesteperioder på under 2 måneder eller tjeneste fordelt på flere enn 3 tjenestesteder godkjennes som hovedregel ikke.
+
+Helsedirektoratet, eller den det bemyndiger, kan gjøre unntak fra første ledd bokstav a) for tjeneste som skal utføres eller har vært utført i utlandet.
+
+Helsedirektoratet kan dispensere fra kravene i første ledd for fravær på inntil fire uker som er en følge av stengning av virksomheten under covid-19-utbruddet.
+
+> Endret ved [forskrifter 16 mars 2012 nr. 237](forskrift/2012-03-16-237), [6 mai 2020 nr. 942](forskrift/2020-05-06-942).
+
+### § 6. Godkjenning av turnusplass før tiltredelse
+
+Før den praktiske tjenesten tiltres må turnusplassen være godkjent av Helsedirektoratet eller den det bemyndiger.
+
+## Kapittel 3. Gjennomføring og utsettelse av den praktiske tjenesten – søknad om særplass
+
+### § 7. Gjennomføring av praktisk tjeneste
+
+Den praktiske tjenesten skal som hovedregel utføres i direkte tilknytning til bestått avsluttende eksamen ved norsk utdanningsinstitusjon med fysioterapeututdanning.
+
+### § 8. Utsettelse av praktisk tjeneste
+
+Helsedirektoratet, eller den det bemyndiger, kan etter søknad samtykke i utsettelse av praktisk tjeneste når det foreligger særlige grunner.
+
+Søknad om utsettelse, før eller etter oppstart av den praktiske tjenesten, sendes Helsedirektoratet eller den det bemyndiger så snart utsettelsesgrunnen foreligger. Dersom utsettelse innvilges, må studenten/turnusfysioterapeuten selv melde seg til ny tjeneste i henhold til retningslinjer gitt av Helsedirektoratet.
+
+Eventuell annen tjeneste i utsettelsestiden godkjennes verken helt eller delvis som praktisk tjeneste.
+
+### § 9. Særplass
+
+Den som har påbegynt eller skal påbegynne praktisk tjeneste, kan søke Helsedirektoratet eller den det bemyndiger om å få utføre praktisk tjeneste på et bestemt sted (særplass). Søknad om særplass skal som hovedregel fremsettes innen fastsatt frist før den praktiske tjenesten påbegynnes.
+
+Særplass kan tildeles dersom vedkommende:er enslig forsørger til barn under 12 år,har barn under 12 år og ønsker å utføre praktisk tjeneste på samme sted eller i rimelig nærhet av ektefelle/samboer som avtjener militær førstegangstjeneste eller siviltjeneste,er samisktalende og ønsker å utføre den praktiske tjenesten i områder med samisktalende befolkning elleroppgir andre særlige grunner som etter en helhetsvurdering tilsier at vedkommende bør få utføre praktisk tjeneste på et bestemt sted.
+
+## Kapittel 4. Godkjenning og valg av turnusplasser m.m.
+
+### § 10. Fremskaffing av godkjente turnusplasser
+
+Helsedirektoratet, eller den det bemyndiger, fremskaffer hvert år godkjente turnusplasser i den kommunale helse- og omsorgstjenesten og spesialisthelsetjenesten.
+
+> Endret ved [forskrift 16 mars 2012 nr. 237](forskrift/2012-03-16-237).
+
+### § 11. Pålegg om å motta turnusfysioterapeuter
+
+Helsedirektoratet, eller den det bemyndiger, kan om nødvendig pålegge det enkelte regionale helseforetak og den enkelte kommune å motta turnusfysioterapeuter til tjeneste, jf. [spesialisthelsetjenesteloven § 3-5](lov/1999-07-02-61/§3-5) og helse- og [omsorgstjenesteloven § 8-1](lov/2011-06-24-30/§8-1).
+
+Pålegg om å motta turnusfysioterapeuter skal så langt som mulig gis i god tid før turnusfysioterapeuten(e) skal mottas. Turnusstedet skal få anledning til å uttale seg før slikt pålegg gis.
+
+> Endret ved [forskrift 16 mars 2012 nr. 237](forskrift/2012-03-16-237).
+
+### § 12. Valg av turnusplass og overføring til venteliste
+
+Utdanningsinstitusjonene ved turnuskomiteen sørger for trekning som angir rekkefølgen for valg av turnusplasser.
+
+Når alle turnusplassene er valgt, blir kandidater som ikke har fått turnusplass overført til en venteliste. Disse kandidatene kan få utsatt sin turnustjeneste med inntil 12 måneder.
+
+> Endret ved [forskrift 16 mars 2012 nr. 237](forskrift/2012-03-16-237).
+
+## Kapittel 5. Turnusstedets plikter
+
+### § 13. Turnusstedets plikter
+
+Den praktiske tjenesten skal tilrettelegges på forsvarlig måte i henhold til retningslinjer fastsatt av Helsedirektoratet, herunder at tjenesten kan gjennomføres på anvist turnusplass.
+
+Turnusstedet skal sørge for at turnusfysioterapeuten kan utføre tjenesten i tråd med gjeldende regelverk, herunder:gi nødvendig opplæring, veiledning og supervisjon,oppnevne fysioterapeut med norsk autorisasjon som personlig veileder for turnusfysioterapeuten ogpåse at turnusfysioterapeuten gis evaluering underveis og ved slutten av hver praktiske periode som en del av grunnlaget for attestasjon i forbindelse med godkjenning av den praktiske tjenesten.
+
+Turnusstedet skal etter endt praktisk tjeneste både i den kommunale helse- og omsorgstjenesten og i spesialisthelsetjenesten sørge for at det gis en attest fra veileder og den fysioterapeuten som er ansvarlig for tjenesten. Av attesten skal det fremgå om den praktiske tjenesten er fullført tilfredsstillende og om den praktiske tjenesten bør godkjennes. Anbefalingen skal gis til Helsedirektoratet eller den det bemyndiger.
+
+> Endret ved [forskrift 16 mars 2012 nr. 237](forskrift/2012-03-16-237).
+
+### § 14. Manglende evne til gjennomføring
+
+Hvis det avdekkes at turnusfysioterapeuten ikke klarer å gjennomføre den praktiske tjenesten i tråd med gjeldende regelverk, skal turnusstedet ut fra situasjonen i det enkelte tilfellet forsøke å hjelpe turnusfysioterapeuten til rette. Hvis dette ikke fører frem skal turnusstedet, etter å ha varslet turnusfysioterapeuten, gi en begrunnet melding til Helsedirektoratet eller den det bemyndiger.
+
+Om nødvendig kan turnusstedet ta turnusfysioterapeuten ut av tjenesten.
+
+### § 15. Arbeidsgiveransvar og plikt til å motta turnusfysioterapeut
+
+Turnusfysioterapeut er arbeidstaker og arbeidsgiveransvaret påhviler turnusstedet.
+
+Turnusstedet har plikt til å motta den turnusfysioterapeuten som blir tildelt.
+
+### § 16. Lønns- og driftsutgifter
+
+Lønns- og driftsutgifter i forbindelse med gjennomføringen av den praktiske tjenesten skal dekkes av turnusstedet.
+
+### § 17. Bolig
+
+Turnusstedet skal skaffe turnusfysioterapeuten bolig til vanlig leie.
+
+## Kapittel 6. Plikter for turnusfysioterapeuten
+
+### § 18. Tjeneste på godkjent turnusplass
+
+Turnusfysioterapeuten har plikt til å ta den plassen han/hun har valgt eller blitt tildelt. Dersom turnusfysioterapeuten ikke tar den plassen som er valgt eller tildelt, stiller kandidaten sist ved valg av turnusplass ved neste fordeling av turnusplasser.
+
+Dersom turnusfysioterapeuten ikke møter til praktisk tjeneste, skal turnusstedet uten opphold varsle Helsedirektoratet eller den direktoratet bemyndiger.
+
+## Kapittel 7. Øvrige bestemmelser
+
+### § 19. Retningslinjer
+
+Helsedirektoratet kan gi nærmere retningslinjer for utfylling og gjennomføring av denne forskriften, herunder gi retningslinjer for hvordan en ordning med venteliste skal gjennomføres.
+
+> Endret ved [forskrift 16 mars 2012 nr. 237](forskrift/2012-03-16-237).
+
+### § 20. Klageadgang
+
+Vedtak truffet etter denne forskriften kan påklages til Nasjonalt klageorgan for helsetjenesten.
+
+> Endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
+
+### § 21. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2010.
+
+### § 22. Endringer i andre forskrifter
+
+Fra samme tidspunkt som denne forskriften trer i kraft gjøres følgende endringer:

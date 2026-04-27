@@ -1,0 +1,34 @@
+---
+id: "nl-20230609-029"
+slug: "lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret"
+type: "lov"
+ref_id: "lov/2023-06-09-29"
+title: "Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret"
+short_title: "Lov om Digdirs tilgang til opplysninger i Folkeregisteret"
+language: "nb"
+ministry:
+  - "Digitaliserings- og forvaltningsdepartementet"
+date_in_force: "2023-06-09"
+last_change_in_force: null
+last_updated: "2024-01-01"
+xml_hash: "713b24c9ca23d85f27ad2e9b58704c2d8b36058ad857796e204723dcfafb640d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret
+
+## § 1. Tilgang til Folkeregisteret
+
+Kongen kan gi forskrift om at Digitaliseringsdirektoratet uten hinder av taushetsplikt kan innhente og behandle opplysninger fra Folkeregisteret, også opplysninger som nevnt i [personvernforordningen artiklene 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10), som er nødvendige for å løse direktoratets oppgaver, og om hvilke oppgaver som skal kunne gi grunnlag for innhenting og behandling av opplysninger fra Folkeregisteret.
+
+## § 2. Lovens anvendelse på Svalbard
+
+Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og om at Digitaliseringsdirektoratet uten hinder av taushetsplikt kan innhente og behandle opplysninger som nevnt i [§ 1](lov/2023-06-09-29/§1) fra befolkningsregisteret for Svalbard.
+
+## § 3. Ikrafttredelse
+
+Loven trer i kraft straks.

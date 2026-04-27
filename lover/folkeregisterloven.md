@@ -1,0 +1,374 @@
+---
+id: "nl-20161209-088"
+slug: "folkeregisterloven"
+type: "lov"
+ref_id: "lov/2016-12-09-88"
+title: "Lov om folkeregistrering (folkeregisterloven)"
+short_title: "Folkeregisterloven"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2017-10-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-08-16"
+xml_hash: "cdf8b16c05ebda36145d424de8acea946bf9d7b3fa7d6cacef25e0b5b28da156"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om folkeregistrering (folkeregisterloven)
+
+## Kapittel 1 Innledende bestemmelser
+
+### § 1-1. Folkeregisteret
+
+Det skal være et sentralt personregister for Norge, kalt Folkeregisteret.
+
+### § 1-2. Formål
+
+Lovens formål er å legge til rette for sikker, korrekt og effektiv registrering av grunnleggende personopplysninger om den enkelte, herunder hvilke personer som er bosatt i Norge. Loven skal sikre at registreringspliktige personer tildeles et unikt identifikasjonsnummer. Loven skal bidra til at opplysningene i Folkeregisteret skal kunne brukes til myndighetsoppgaver og offentlig forvaltning, forskning, statistikk og til å ivareta grunnleggende samfunnsbehov.
+
+### § 1-3. Folkeregistermyndighet
+
+Skattekontoret er registermyndighet i første instans. Skattedirektoratet er sentral registermyndighet og behandlingsansvarlig for registeret.
+
+> Endret ved [lov 16 juni 2023 nr. 51](lov/2023-06-16-51).
+
+## Kapittel 2 Registreringspliktige personer, identifikasjonsnummer
+
+### § 2-1. Hvem som skal registreres
+
+I Folkeregisteret registreres alle personer som:er eller har vært bosatt i Norge,er født i Norge ellerhar fått tildelt fødselsnummer eller d-nummer.
+
+### § 2-2. Identifikasjonsnummer
+
+Ved første gangs registrering i Folkeregisteret tildeles en person som er bosatt eller født i Norge, et fødselsnummer. Fødselsnummer kan også tildeles norsk statsborger bosatt i utlandet. For andre personer kan det tildeles et d-nummer etter regler fastsatt i forskrift.
+
+Fødselsnummeret består av elleve siffer. De seks første sifrene er personens fødselsdato i rekkefølge to siffer for dag, to for måned og to for år. De fem siste sifrene er individsiffer og kontrollsiffer. D-nummer er bygget opp på samme måte, likevel slik at første siffer er tillagt fire.
+
+Fødselsnummeret skal endres når fødselsdato eller kjønn endres, eller dersom det er besluttet i medhold av reglene i [politiloven](lov/1995-08-04-53). Fødselsnummer kan ellers endres når adopsjonsmyndigheten har bedt om nytt fødselsnummer der det er innvilget adopsjon av spedbarn etter [adopsjonsloven § 14](lov/2017-06-16-48/§14).
+
+Det kan registreres fødselsnummer til bruk ved etablering av dekkidentitet til politiet eller forsvarspersonell, når det er besluttet av kompetent politi- eller forsvarsmyndighet.
+
+Departementet kan gi forskrift om oppbygging av individ- og kontrollsiffer, hvem som kan tildeles d-nummer og krav til dokumentasjon og saksbehandling.
+
+> Endret ved lover [22 juni 2018 nr. 72](lov/2018-06-22-72), [20 des 2024 nr. 90](lov/2024-12-20-90).
+
+## Kapittel 3 Hvilke opplysninger som registreres
+
+### § 3-1. Hvilke opplysninger som kan registreres
+
+Til hvert enkelt fødselsnummer eller d-nummer kan følgende opplysninger registreres:navnfødselsdatokjønnadresserelektronisk kontaktinformasjonkontaktopplysninger for dødsbofødestedstatsborgerskapforeldreektefelle eller registrert partnersivilstandbarnforeldreansvaradopsjonfamilienummertilknytning til Sametingets valgmanntallsamiske språkvergemålstadfestet fremtidsfullmaktoppholdsstatusutenlandsk identifikasjonsnummerutlendingsmyndighetenes identifikasjonsnummerregistreringsstatusdødsdato
+
+I tilknytning til den enkelte opplysning kan det registreres merknader. Historiske opplysninger kan bevares i registeret.
+
+Departementet kan i forskrift gi regler om hvilke underkategorier og tilleggsopplysninger som kan registreres til den enkelte opplysning.
+
+### § 3-2. Grunnlaget for registrert identitet
+
+Til hvert fødselsnummer eller d-nummer kan det registreres opplysning om på hvilket grunnlag vedkommendes identitet er registrert. Det registreres om identiteten er unik, kontrollert eller ikke kontrollert.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+### § 3-3. Registrering av fødselsdato
+
+For personer som fødes i Norge, registreres fødselsdato på grunnlag av fødselsmeldingen gitt i medhold av [barnelova § 1](lov/1981-04-08-7/§1).
+
+For personer som flytter til Norge og ikke tidligere har vært registrert i Folkeregisteret, registreres fødselsdatoen på grunnlag av vedkommendes pass eller tilsvarende legitimasjonsdokument. For personer som trenger oppholdstillatelse, registreres fødselsdato på grunnlag av det som er registrert hos eller i vedtak av utlendingsmyndighetene. Dette gjelder ikke hvis antall tilgjengelige individsiffer for den aktuelle fødselsdato er svært lavt.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+> Endret ved lov [22 juni 2022 nr. 76](lov/2022-06-22-76). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+## Kapittel 4 Hvem som skal regnes for å være bosatt i Norge
+
+### § 4-1. Hovedregel om å være bosatt i Norge
+
+En person som oppholder seg lovlig i en norsk kommune i minst seks måneder, registreres som bosatt i Norge, med mindre annet følger av bestemmelsene i eller i medhold av dette kapittel.
+
+Departementet kan gi forskrift om at personer som oppholder seg lovlig i en norsk kommune på grunnlag av unntak fra kravet om oppholdstillatelse fastsatt i medhold av [utlendingsloven § 5](lov/2008-05-15-35/§5) tredje ledd, ikke skal regnes som bosatt i Norge.
+
+> Endret ved lov [20 des 2024 nr. 94](lov/2024-12-20-94) (i kraft 1 jan 2025).
+
+### § 4-2. Innflytting
+
+En person som flytter til en norsk kommune, registreres som bosatt når han eller hun har lovlig opphold i norsk kommune og har til hensikt å bli her i minst seks måneder. Opphold av minst seks måneders varighet regnes som bosetting, selv om oppholdet er midlertidig.
+
+En person som tar opphold i en norsk kommune på grunn av inntektsgivende aktivitet, og som dokumenterer pendling fra bolig i et annet land innenfor EØS, kan unntas registrering som bosatt i Norge. Ved avgjørelsen av om en person fyller vilkårene for pendling, gjelder bestemmelsene for pendlere tilsvarende.
+
+Bestemmelsene i første ledd gjelder tilsvarende når en person som flytter til Norge, oppholder seg skiftevis på den norske kontinentalsokkelen og i en norsk kommune.
+
+En person som trenger oppholdstillatelse, kan ikke registreres som bosatt før det er innvilget oppholdstillatelse på minimum seks måneder.
+
+### § 4-3. Utflytting
+
+En person som flytter til et land utenfor Norden for å bosette seg der, registreres som utflyttet. Forhold som skal vektlegges for å anse en person som utflyttet, er blant annet om vedkommende:har egen selvstendig bolig i innflyttingslandetikke lenger disponerer fast bolig i norsk kommuneikke lenger har arbeidsmessig tilknytning til en norsk kommuneikke har ektefelle eller barn i en norsk kommuneikke har annet enn sporadiske opphold i en norsk kommune i løpet av året.
+
+Utenlandsk statsborger som ikke lenger har lovlig opphold i en norsk kommune, registreres som utflyttet i henhold til melding fra utlendingsmyndighetene.
+
+Person som de siste to årene ikke har hatt kjent oppholdssted i Norge, registreres som utflyttet, med mindre registermyndigheten antar at personen oppholder seg her uten å ha tilknytning til en bestemt kommune.
+
+Registrering av en person som flytter fra en norsk kommune til et annet nordisk land, skjer i henhold til overenskomst 1. november 2004 nr. 41 mellom Danmark, Finland, Island, Norge og Sverige om folkeregistrering.
+
+### § 4-4. Forskrift
+
+Departementet kan gi forskrift til utfylling og gjennomføring av dette kapittel, herunder fastsette unntak fra bestemmelsene.
+
+## Kapittel 5 Bosted
+
+### § 5-1. Hovedregel om bosted
+
+En person registreres med bosted der vedkommende regelmessig tar sin døgnhvile.
+
+En person som tar sin døgnhvile skiftevis på to eller flere steder, registreres med bosted der vedkommende tar sin overveiende døgnhvile i løpet av enhver tolvmånedersperiode.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf og kan fastsette unntak fra hovedregelen.
+
+### § 5-2. Ektefeller og barn
+
+En person som har felles hjem med ektefelle eller barn, registreres med bosted der ektefelle eller barn er bosatt.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+### § 5-3. Pendlere
+
+Opphold utenfor registrert bosted som følge av arbeid eller av andre grunner, endrer ikke bosted, med mindre forholdene ellers er slike at personen må registreres med bosted på det nye stedet.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+### § 5-4. Medlemmer av Stortinget og regjeringen mv.
+
+Medlemmer av Stortinget og regjeringen som må oppholde seg utenfor registrert bosted som følge av det politiske vervet, kan beholde denne boligen som registrert bosted. Det samme gjelder for statssekretærer og politiske rådgivere i departementene og ved Statsministerens kontor. Denne boligen må ligge minst 40 kilometer fra arbeidsstedet, være fullverdig og disponeres gjennom et reelt eie- eller leieforhold på alminnelige vilkår.
+
+Ektefelle og barn i personens husstand skal være registrert bosatt samme sted, med mindre de har særlig svak tilknytning til boligen.
+
+Ved flytting til annen bolig som også oppfyller avstandskravet, kan personen med husstand registreres der på samme vilkår. Personer nevnt i første ledd som i løpet av funksjonsperioden etablerer seg i en slik bolig som oppfyller avstandskravet, kan på nærmere vilkår registreres bosatt der.
+
+Opphold i statsministerboligen endrer ikke registrert bosted så lenge statsministeren disponerer en egen privat bolig gjennom et reelt eie- eller leieforhold. Ektefelle og barn i statsministerens husstand anses bosatt samme sted, med mindre de har særlig svak tilknytning til den private boligen.
+
+Departementet kan gi forskrift om kravene til å disponere bolig, herunder besøkshyppighet, kravene til fullverdig bolig og vilkårene for adgangen etter tredje ledd andre punktum til å etablere bosted under funksjonsperioden.
+
+> Endret ved lov [20 juni 2025 nr. 56](lov/2025-06-20-56) (i kraft 1 okt 2025).
+
+## Kapittel 6 Den enkeltes meldeplikt til Folkeregisteret
+
+### § 6-1. Flyttemelding
+
+Den som endrer bosted innen en norsk kommune eller mellom norske kommuner, skal innen åtte dager etter flyttingen melde dette til skattekontoret.
+
+### § 6-2. Melding om innflytting
+
+Den som flytter til Norge for å bosette seg i en norsk kommune, skal innen åtte dager etter ankomsten personlig melde dette på skattekontoret og vise frem pass eller tilsvarende legitimasjon.
+
+### § 6-3. Melding om utflytting
+
+Den som flytter til et land utenfor Norden for å bosette seg der eller oppholde seg der i minst seks måneder, skal før utreisen melde dette til skattekontoret.
+
+Melding i forbindelse med flytting til et annet nordisk land reguleres av overenskomst 1. november 2004 nr. 41 mellom Danmark, Finland, Island, Norge og Sverige om folkeregistrering.
+
+### § 6-4. Melding om fødsel og navn
+
+Fødsel som har skjedd uten at en lege eller jordmor er til stede, skal meldes til skattekontoret av moren selv, jf. [barnelova § 1](lov/1981-04-08-7/§1).
+
+Valg av navn til den nyfødte skal meldes til skattekontoret av den eller de som har foreldreansvar for barnet, jf. [navneloven § 12](lov/2002-06-07-19/§12).
+
+> **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 6-5. Forskrift
+
+Departementet kan gi forskrift om registrering av flyttedato, krav til flyttemelding og fastsette unntak fra meldeplikten for utlending som ved innreisen også har meldeplikt til annen offentlig myndighet.
+
+## Kapittel 7 Meldeplikt for offentlige myndigheter og virksomheter
+
+### § 7-1. Offentlige myndigheters og virksomheters meldeplikt
+
+Offentlige myndigheter og virksomheter skal uten hinder av taushetsplikt gi de meldinger og opplysninger som er nødvendige for registerføringen. Samme plikt gjelder når de i sitt arbeid blir kjent med opplysninger som avviker fra det som er registrert i Folkeregisteret.
+
+Offentlige myndigheter og virksomheter skal gi melding til registermyndigheten når de måtte bli kjent med endringer eller feil i tidligere gitte opplysninger.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+## Kapittel 8 Registrering av opplysninger
+
+### § 8-1. Innføring i Folkeregisteret
+
+Registermyndigheten skal kontrollere om fremlagte opplysninger er i samsvar med reglene i denne lov eller forskrift gitt med hjemmel i loven. Straks opplysningene er funnet å være i slikt samsvar, skal de føres inn i registeret.
+
+### § 8-2. Meldinger fra offentlige myndigheter og virksomheter
+
+Opplysninger som meldes inn fra offentlige myndigheter og virksomheter, føres inn i registeret etter en formell kontroll.
+
+### § 8-3. DNA-testing
+
+Dersom det er nødvendig for registreringen å fastslå at det eksisterer en familierelasjon, kan det stilles krav om dokumentasjon ved hjelp av DNA-test. Dette gjelder bare dersom de øvrige opplysningene i saken ikke gir grunnlag for med rimelig sikkerhet å fastslå familierelasjonen.
+
+### § 8-4. Forskrift
+
+Departementet kan gi forskrift om når DNA-test kan kreves.
+
+Departementet kan gi forskrift om når faktiske og rettslige forhold som har funnet sted i utlandet, skal registreres i folkeregisteret, og hvilke krav som skal stilles til dokumentasjon.
+
+## Kapittel 9 Saksbehandlingsregler
+
+### § 9-1. Taushetsplikt
+
+Enhver som behandler personopplysninger etter denne lov, plikter å bevare taushet om det han eller hun får kjennskap til i sitt arbeid.
+
+Taushetsplikten omfatter ikke opplysninger om en persons fulle navn, fødselsdato, kjønn, fødsels- og d-nummer, grunnlaget for registrert identitet etter [§ 3-2](lov/2016-12-09-88/§3-2), adresse, kontaktopplysninger for dødsbo, fødested, statsborgerskap, sivilstand, vergemål, stadfestet fremtidsfullmakt og dødsdato, med mindre slike opplysninger røper et klientforhold eller andre forhold som gjør at opplysningene må anses personlige. Det samme gjelder historiske opplysninger om navn og adresse.
+
+Departementet kan i forskrift fastsette unntak fra taushetsplikten for opplysninger om registreringsstatus, jf. [§ 3-1](lov/2016-12-09-88/§3-1) første ledd bokstav w. Departementet kan i forskrift også gi regler om hvilke nærmere opplysninger om vergemål og stadfestet fremtidsfullmakt som skal omfattes av taushetsplikt.
+
+> Endret ved lover [18 juni 2021 nr. 110](lov/2021-06-18-110), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)).
+
+### § 9-2. Retting av feil i registeret
+
+Registermyndigheten skal rette registreringer når det foreligger en åpenbar registreringsfeil, eller når registreringsgrunnlaget er feil.
+
+Registrerte opplysninger skal rettes når det foreligger dokumentasjon som gir sannsynlighetsovervekt for at de nye opplysningene er korrekte. Eventuell retting av en opplysning som er meldt inn fra offentlig myndighet eller virksomhet, forelegges denne dersom rettingen har betydning for vedkommende myndighet eller virksomhet.
+
+En opplysning som er meldt inn fra offentlig myndighet eller virksomhet, skal rettes i samsvar med korrigert melding fra vedkommende myndighet eller virksomhet.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, og herunder gi særskilte regler om endring av registrert fødselsdato.
+
+### § 9-3. Endring etter beslutning om fingerte personopplysninger
+
+Når det er gitt tillatelse etter [politiloven](lov/1995-08-04-53) til bruk av fingerte personopplysninger, skal registermyndigheten registrere de aktuelle opplysningene i samsvar med avgjørelsen.
+
+> Endret ved lov [20 des 2024 nr. 90](lov/2024-12-20-90).
+
+### § 9-4. Sammenstilling, profilering og automatiserte avgjørelser
+
+(1) Folkeregistermyndigheten kan sammenstille innhentede personopplysninger når det er nødvendig for deres arbeid, herunder til ID-forvaltning, kontroll-, veilednings-, analyse- og statistikkformål. Folkeregistermyndigheten kan benytte innhentede personopplysninger til profilering til samme formål, når profileringen er nødvendig for å målrette tiltak som fremmer etterlevelse av loven. Graden av personidentifikasjon skal ikke være større enn det som er nødvendig for formålet.
+
+(2) Folkeregistermyndighetene kan treffe avgjørelser som utelukkende er basert på automatisert behandling. Behandlingen må sikre partens krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Den registrerte har rett til manuell overprøving av avgjørelsen.
+
+(3) Folkeregistermyndigheten kan benytte særlige kategorier av personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10), ved sammenstilling, profilering og automatiserte avgjørelser.
+
+(4) Departementet kan gi forskrift om sammenstilling, profilering og automatiserte avgjørelser, blant annet om formålet med behandlingen, hvilke personopplysninger som kan behandles og hvem det kan behandles personopplysninger om.
+
+> Tilføyd ved lov [22 des 2021 nr. 159](lov/2021-12-22-159) (ikr. 1 jan 2022 iflg. [res. 22 des 2021 nr. 3803](forskrift/2021-12-22-3803)).
+
+### § 9-5. Bruk av personopplysninger ved utvikling og testing av IT-systemer
+
+Folkeregistermyndigheten kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+> Tilføyd ved [lov 20 des 2018 nr. 111](lov/2018-12-20-111) (ikr. 1 juli 2019), endret ved lov [22 des 2021 nr. 159](lov/2021-12-22-159) (ikr. 1 jan 2022 iflg. [res. 22 des 2021 nr. 3803](forskrift/2021-12-22-3803), tidligere § 9-4).
+
+## Kapittel 10 Utlevering av opplysninger fra registeret
+
+### § 10-1. Utlevering av opplysninger som ikke er underlagt taushetsplikt
+
+Offentlige myndigheter og virksomheter, private virksomheter som utfører lovpålagte oppgaver eller oppgaver på vegne av det offentlige, og finansforetak, kan få utlevert ikke-taushetsbelagte opplysninger fra Folkeregisteret. Opplysningene kan gjøres elektronisk tilgjengelig gjennom lister basert på fødselsnummer og d-nummer.
+
+Andre private virksomheter og aktører kan få utlevert ikke-taushetsbelagte opplysninger om navngitte identifiserbare personer. Opplysning om fødselsnummer og d-nummer utleveres kun dersom det angis et begrunnet behov. Opplysninger for oppdatering av eksisterende registre kan likevel gjøres elektronisk tilgjengelig gjennom lister basert på fødsels-nummer og d-nummer.
+
+Den enkelte registrerte person skal ha tilgang til opplysninger om søk foretatt på egen person. Dette gjelder ikke for søk foretatt av pressen, ved utlevering av opplysninger gjennom lister som nevnt i første og annet ledd, og ved annen form for utlevering av opplysninger til oppdatering av eksisterende registre.
+
+Departementet kan gi forskrift om vilkår og betaling for utlevering, og kan fastsette unntak fra den enkeltes tilgang til opplysninger om søk foretatt på egen person.
+
+### § 10-2. Utlevering av taushetsbelagte opplysninger
+
+Taushetsbelagte opplysninger kan utleveres til offentlige myndigheter og virksomheter og til private virksomheter som har hjemmel i lov til å innhente opplysninger fra Folkeregisteret uten hinder av taushetsplikt. Opplysningene kan gjøres elektronisk tilgjengelig gjennom lister basert på fødselsnummer og d-nummer.
+
+Registermyndigheten kan til privatpersoner og bobestyrere utlevere taushetsbelagte opplysninger som er nødvendige i forbindelse med skifte av dødsbo.
+
+Taushetsbelagte opplysninger kan utleveres til en annen stat etter overenskomst som bestemmer at slik utlevering kan skje uten hinder av taushetsplikt.
+
+Departementet kan gi forskrift om vilkår og betaling for utlevering.
+
+### § 10-3. Utlevering av opplysninger til forskning
+
+Registermyndigheten kan utlevere taushetsbelagte opplysninger til forskningsformål i henhold til [forvaltningsloven §§ 13 d](lov/1967-02-10/§13d) og [13 e](lov/1967-02-10/§13e).
+
+Ikke-taushetsbelagte opplysninger om en nærmere angitt gruppe av personer kan utleveres til forskningsformål selv om den enkelte personen ikke kan navngis og identifiseres, dersom dette finnes rimelig og ikke medfører uforholdsmessig ulempe for andre interesser.
+
+### § 10-4. Graderte opplysninger
+
+Registrerte opplysninger som er gradert i medhold av [beskyttelsesinstruksen](forskrift/1972-03-17-3352), skal sperres i Folkeregisteret.
+
+Gradering av opplysninger i barnevernsaker besluttes av barnevernstjenesten. I andre saker treffes beslutning om gradering av politiet. Endring i beslutning om gradering skal registreres etter melding fra barnevernstjenesten eller politiet.
+
+Opplysning som er gradert strengt fortrolig, kan bare utleveres etter søknad som avgjøres av politiet eller barnevernstjenesten.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+> Endret ved lov [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)).
+
+### § 10-5. Varsling til brukere av registeret
+
+Registermyndigheten kan uten hinder av taushetsplikt gi opplysninger til andre offentlige myndigheter og virksomheter og til finansforetak når de kan ha bruk for opplysningene i sin virksomhet. Herunder kan registermyndigheten varsle andre offentlige myndigheter og virksomheter samt finansforetak når den har mistanke om at registrerte personopplysninger knytter seg til en falsk eller fiktiv identitet.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+### § 10-6. Bekreftet registerutskrift
+
+Enhver person over 18 år kan få utstedt en bekreftet utskrift av de opplysningene som er registrert om vedkommende selv i Folkeregisteret, jf. [§ 3-1](lov/2016-12-09-88/§3-1) første ledd.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.
+
+### § 10-7. Attester
+
+Registermyndigheten kan utstede:bostedsattest til en person som er registrert som bosatt i Norgefødselsattest til en person som er født eller adoptert i Norgeprøvingsattest, jf. [ekteskapsloven § 10](lov/1991-07-04-47/§10)attest til bruk for ekteskapsinngåelse etter utenlandsk rettvigselsattest.
+
+Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf, og fastsette unntak.
+
+## Kapittel 11 Kontroll av opplysninger
+
+### § 11-1. Opplysningsplikt om egne forhold
+
+Etter henvendelse fra registermyndigheten plikter personer over 15 år som oppholder seg i Norge, å gi følgende opplysninger om seg og sin husstand: fullt navn, fødselsdato, fødested, kjønn, sivilstand, foreldreansvar, adresse, yrke, arbeidssted og statsborgerskap.
+
+Har en person gitt uriktige eller ufullstendige meldinger eller opplysninger, plikter han eller hun etter oppfordring å møte på skattekontoret for å gi nærmere forklaring om forholdet. Er det grunn til å tvile på riktigheten av opplysninger som gis eller er gitt, kan registermyndigheten kreve at vedkommende for egen kostnad skaffer de attester eller den dokumentasjon som trengs.
+
+Registermyndigheten kan om nødvendig kreve politiets bistand til å innhente opplysninger etter denne loven.
+
+### § 11-2. Kontroll av bostedsadresse
+
+Dersom registermyndigheten har mistanke om at en registrert bostedsadresse er feil, eller at et oppgitt bosted i flyttemelding er feil, kan denbe om en nærmere redegjørelse fra vedkommende selv om dennes bostedsforholdinnhente opplysninger fra en huseier eller utleier om hvem som bor eller oppholder seg på eiendommeninnhente opplysninger fra posttilbyder, ekomtilbyder, nettselskap og strømleverandør om vedkommendes kundeforhold.
+
+For å avdekke feil i bostedsregistreringen, kan registermyndigheten innhente opplysninger fra posttilbyder om et antall registrerte personer for elektronisk sammenligning med opplysninger i registeret. Opplysninger innhentet ved slik masseinnhenting skal slettes så snart kontrollen er gjennomført.
+
+## Kapittel 12 Sanksjoner
+
+### § 12-1. Overtredelsesgebyr
+
+Registermyndigheten kan ilegge overtredelsesgebyr overfor:den som ikke oppfyller sin opplysningsplikt etter [§ 11-1](lov/2016-12-09-88/§11-1),den som ikke oppfyller sin opplysningsplikt etter [§ 11-2](lov/2016-12-09-88/§11-2) bokstav b og c ogden som bryter vilkår for utlevering av opplysninger etter [kapittel 10](lov/2016-12-09-88/kap10).
+
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
+
+Overtredelsesgebyret for første ledd bokstav a og b skal ikke utgjøre mer enn 15 ganger rettsgebyret og for bokstav c ikke mer enn 100 ganger rettsgebyret, jf. [rettsgebyrloven § 1](lov/1982-12-17-86/§1) annet ledd.
+
+Et overtredelsesgebyr kan helt eller delvis ettergis dersom det blir gjort sannsynlig at manglende etterlevelse skyldes forhold utenfor overtrederens kontroll eller dersom særlige rimelighetsgrunner knyttet til ileggelsen tilsier det.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+
+Overtredelsesgebyret tilfaller statskassen.
+
+Departementet kan gi forskrift om saksbehandlingen og utmålingen av overtredelsesgebyret.
+
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 12-2. Tap av rett til å få utlevert opplysninger
+
+Registermyndigheten kan ved grove eller gjentatte brudd på vilkår for utlevering av opplysninger etter [kapittel 10](lov/2016-12-09-88/kap10) treffe vedtak om tap av rett til å få utlevert opplysninger fra Folkeregisteret. Vedtaket skal gjelde for en bestemt tidsperiode som ikke overstiger to år.
+
+Departementet kan gi forskrift om saksbehandlingen og utmålingen av perioden for tap av rett til å få utlevert opplysninger.
+
+## Kapittel 13 Ikrafttredelse og endringer i andre lover
+
+### § 13-1. Ikrafttredelse. Overgangsbestemmelser
+
+Loven gjelder fra den tiden1 Kongen bestemmer.
+
+Fra samme tidspunkt oppheves [lov 16. januar 1970 nr. 1 om folkeregistrering](lov/1970-01-16-1).
+
+Vedtak om utlevering av opplysninger fra Folkeregisteret truffet med hjemmel i [lov 16. januar 1970 nr. 1 om folkeregistrering](lov/1970-01-16-1), bortfaller ett år etter at denne loven trer i kraft. Dersom parten innen dette året har søkt om tilsvarende utlevering av opplysninger, gjelder vedtaket frem til registermyndigheten har truffet vedtak i saken.
+
+### § 13-2. Endringer i andre lover
+
+Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:– – –

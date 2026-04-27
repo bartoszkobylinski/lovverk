@@ -1,0 +1,946 @@
+---
+id: "nl-19810313-006"
+slug: "forurensningsloven-forurl"
+type: "lov"
+ref_id: "lov/1981-03-13-6"
+title: "Lov om vern mot forurensninger og om avfall (forurensningsloven)"
+short_title: "Forurensningsloven – forurl"
+language: "nb"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "1983-10-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2023-01-10"
+xml_hash: "918ba4fa2208a58da828b925c8ea965d69a598f7d02d2aae95b548b0de8db9d1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om vern mot forurensninger og om avfall (forurensningsloven)
+
+## Kap. 1. Innledende bestemmelser.
+
+### § 1. (lovens formål)
+
+Denne lov har til formål å verne det ytre miljø mot forurensning og å redusere eksisterende forurensning, å redusere mengden av avfall og å fremme en bedre behandling av avfall.
+
+Loven skal sikre en forsvarlig miljøkvalitet, slik at forurensninger og avfall ikke fører til helseskade, går ut over trivselen eller skader naturens evne til produksjon og selvfornyelse.
+
+> Endret ved [lov 11 juni 1993 nr. 107](lov/1993-06-11-107).
+
+### § 2. (retningslinjer)
+
+Gjennomføringen av loven skal skje etter disse retningslinjer:Det skal arbeides for å hindre at forurensning oppstår eller øker, og for å begrense forurensning som finner sted. Det skal likeledes arbeides for å unngå avfallsproblemer. Loven skal nyttes for å oppnå en miljøkvalitet som er tilfredsstillende ut fra en samlet vurdering av helse, velferd, naturmiljøet, kostnader forbundet med tiltakene og økonomiske forhold.Forurensningsmyndighetene skal samordne sin virksomhet med planmyndighetene slik at planlovgivningen sammen med denne lov brukes for å unngå og begrense forurensning og avfallsproblemer.For å unngå og begrense forurensning og avfallsproblemer skal det tas utgangspunkt i den teknologi som ut fra en samlet vurdering av nåværende og fremtidig bruk av miljøet og av økonomiske forhold, gir de beste resultater.Avfall skal tas hånd om slik at det blir minst mulig til skade og ulempe. Det skal gjenvinnes, fortrinnsvis ved at det forberedes til ombruk eller materialgjenvinnes, med mindre gjenvinning ikke er berettiget ut fra en avveining av miljøhensyn, ressurshensyn og økonomiske forhold.1Kostnadene ved å hindre eller begrense forurensning og avfallsproblemer skal dekkes av den ansvarlige for forurensningen eller avfallet.Forurensning og avfallsproblemer som skyldes virksomhet på norsk område skal motvirkes i samme utstrekning hva enten skadene eller ulempene inntrer i eller utenfor Norge.
+
+> Endret ved [lover 11 juni 1993 nr. 107](lov/1993-06-11-107), [9 des 2016 nr. 89](lov/2016-12-09-89).
+
+### § 3. (alminnelige regler om lovens virkeområde)
+
+Loven gjelder forurensninger og avfall i det ytre miljø. For utslipp av genmodifiserte mikroorganismer og deponering av slike som avfall i miljøet gjelder [genteknologiloven](lov/1993-04-02-38).
+
+Med de begrensninger som følger av folkeretten gjelder lovenfor forurensningskilder og avfall og kilder for avfall som befinner seg her i riket,for forurensninger som truer med å inntreffe her i riket,for forurensningskilder som befinner seg i eller forurensning som truer med å inntreffe i Norges økonomiske sone dersom forurensningskilden er norsk fartøy eller innretning, eller forøvrig i den utstrekning Kongen bestemmer. Lovens anvendelse for undersøkelse etter, utvinning og utnytting av undersjøiske naturforekomster på den norske del av kontinentalsokkelen, herunder avslutning av slik virksomhet, er regulert i [§ 4](lov/1981-03-13-6/§4).
+
+Loven gjelder ikke for Svalbard. For Jan Mayen og bilandene gjelder loven i den utstrekning Kongen bestemmer. Forurensningsmyndigheten kan for disse områder fastsette de endringer i loven som de stedlige forhold tilsier.
+
+Om erstatningsansvar for forurensningsskade gjelder særlige regler, jf. [§ 53](lov/1981-03-13-6/§53).
+
+> Endret ved [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [2 apr 1993 nr. 38](lov/1993-04-02-38), [11 juni 1993 nr. 107](lov/1993-06-11-107), [21 juni 1996 nr. 36](lov/1996-06-21-36), [15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)).
+
+### § 4. (lovens anvendelse for virksomhet på kontinentalsokkelen)
+
+Reglene i denne lov gjelder, med de begrensninger som følger av folkeretten og av loven selv (jf. [kap. 8](lov/1981-03-13-6/kap8)), også for undersøkelser etter og utvinning og utnytting av undersjøiske naturforekomster på kontinentalsokkelen, herunder avslutning av slik virksomhet. Bestemmelsene i [§ 7](lov/1981-03-13-6/§7) første ledd, jf. [kapittel 3](lov/1981-03-13-6/kap3), om plikten til å innhente tillatelse og i [§ 9](lov/1981-03-13-6/§9) om forskrifter, gjelder likevel bare for de sider av virksomheten som jevnlig fører til forurensninger. Bestemmelsen i [§ 7](lov/1981-03-13-6/§7) annet ledd, jf. fjerde ledd, gjelder heller ikke tiltak for å hindre eller stanse akutt forurensning.
+
+Forurensningsmyndigheten kan gi nærmere forskrifter om avfall fra slik virksomhet på kontinentalsokkelen som nevnt i første ledd. For opprydding av avfall gjelder bestemmelsen i [§ 74](lov/1981-03-13-6/§74), jfr. [§ 7](lov/1981-03-13-6/§7), tilsvarende i stedet for [§ 37](lov/1981-03-13-6/§37).
+
+Forurensningsmyndigheten kan ved forskrift eller enkeltvedtak fastsette hva som i tvilstilfelle skal regnes som sider av virksomheten som jevnlig fører til forurensninger og kan gjøre unntak fra første ledd.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 5. (forurensning fra transport)
+
+For forurensning fra veger, jernbane o.l., havner og flyplasser gjelder loven her så langt forurensningsmyndigheten bestemmer.
+
+For forurensning fra det enkelte transportmiddel gjelder det som er fastsatt i eller i medhold av [produktkontrolloven](lov/1976-06-11-79), [vegtrafikkloven](lov/1965-06-18-4), [skipssikkerhetsloven](lov/2007-02-16-9), [havne- og farvannsloven](lov/2019-06-21-70), [luftfartsloven](lov/1993-06-11-101) og [jernbaneloven](lov/1993-06-11-100) i stedet for bestemmelsene i denne loven.
+
+Uansett bestemmelsen i annet ledd gjelder [lovens § 7](lov/1981-03-13-6/§7) annet og fjerde ledd, [kap. 6](lov/1981-03-13-6/kap6) og [§§ 74-77](lov/1981-03-13-6/§74) tilsvarende dersom ikke forurensningen må anses for tillatt i medhold av annen lovgivning. For gjennomføring av og ved overtredelse av disse bestemmelsene gjelder reglene i [kap. 7](lov/1981-03-13-6/kap7), [§ 74](lov/1981-03-13-6/§74) og i [kap. 10](lov/1981-03-13-6/kap10).
+
+Begrensninger i lovens anvendelse som følge av paragrafen her gjelder bare så langt ikke annet følger av [kap. 8](lov/1981-03-13-6/kap8).
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [11 juni 1993 nr. 100](lov/1993-06-11-100), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [18 des 2020 nr. 159](lov/2020-12-18-159) (ikr. 1 jan 2021).
+
+## Kap. 2. Alminnelige bestemmelser om forurensninger.
+
+### § 6. (hva som forstås med forurensning)
+
+Med forurensning forstås i denne lov:tilførsel av fast stoff, væske eller gass til luft, vann eller i grunnen,støy og rystelser,lys og annen stråling i den utstrekning forurensningsmyndigheten bestemmer,påvirkning av temperaturensom er eller kan være til skade eller ulempe for miljøet.
+
+Som forurensning regnes også noe som kan føre til at tidligere forurensning blir til økt skade eller ulempe, eller som sammen med miljøpåvirkning som nevnt i nummer 1 til 4, er eller kan bli til skade eller ulempe for miljøet.
+
+### § 7. (plikt til å unngå forurensning)
+
+Ingen må ha, gjøre eller sette i verk noe som kan medføre fare for forurensning uten at det er lovlig etter [§§ 8](lov/1981-03-13-6/§8) eller [9](lov/1981-03-13-6/§9), eller tillatt etter vedtak i medhold av [§ 11](lov/1981-03-13-6/§11).
+
+Når det er fare for forurensning i strid med loven, eller vedtak i medhold av loven skal den ansvarlige for forurensning sørge for tiltak for å hindre at den inntrer. Har forurensningen inntrådt skal han sørge for tiltak for å stanse, fjerne eller begrense virkningen av den. Den ansvarlige plikter også å treffe tiltak for å avbøte skader og ulemper som følge av forurensningen eller av tiltakene for å motvirke den. Plikten etter dette ledd gjelder tiltak som står i et rimelig forhold til de skader og ulemper som skal unngås.
+
+Bestemmelsen i annet ledd gjelder også forurensning som er tillatt etter [§ 11](lov/1981-03-13-6/§11) dersom det er åpenbart at vedtaket kan omgjøres etter [§ 18](lov/1981-03-13-6/§18) første ledd nummer 1 eller 2. Tilsvarende gjelder dersom det av samme grunner er åpenbart at det etter [§ 9](lov/1981-03-13-6/§9) tredje ledd kan gjøres unntak fra forskrift som tillater forurensning.
+
+Forurensningsmyndigheten kan pålegge den ansvarlige å treffe tiltak etter annet ledd første til tredje punktum innen en nærmere angitt frist.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 8. (begrensninger i plikten til å unngå forurensninger)
+
+Vanlig forurensning frafiske, jordbruk og skogbruk m.v.,boliger, fritidshus, kontorer, forretnings- eller forsamlingslokaler, skoler, hoteller og lagerbygg o.l.,midlertidig anleggsvirksomhet,er tillatt etter denne lov i den utstrekning det ikke er gitt særlige forskrifter etter [§ 9](lov/1981-03-13-6/§9). For utslipp av sanitært avløpsvann må det likevel søkes om tillatelse med mindre noe annet er bestemt i forskrift.
+
+Bestemmelsen i første ledd gjelder tilsvarende for forsvarets virksomhet. For forurensning fra forsvarets faste anlegg som ikke hovedsakelig nyttes til stridsformål, gjelder loven fullt ut.
+
+Forurensninger som ikke medfører nevneverdige skader eller ulemper kan finne sted uten tillatelse etter [§ 11](lov/1981-03-13-6/§11).
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 9. (forskrifter om forurensning)
+
+Forurensningsmyndigheten kan gi forskrifter om:grenseverdier for hvilke forurensninger som skal være tillatt eller at forurensning helt eller til bestemte tider skal være forbudt,grenseverdier for forekomster av visse stoffer, støy, rystelse, lys og annen stråling i miljøet, og hva som skal gjøres dersom grenseverdien overskrides,hvordan faste og midlertidige anlegg skal være innrettet og hvordan en virksomhet skal drives for å motvirke forurensning,kvalitetskrav til utstyr til vern mot forurensning og at slikt utstyr ikke må omsettes uten å være godkjent av forurensningsmyndigheten,at driftspersonell i virksomhet som kan medføre forurensning skal ha bestemte kvalifikasjoner.
+
+Forskriftene etter nummer 1-3 kan fastsette at de helt eller delvis og på nærmere vilkår skal gjelde i stedet for tillatelse etter [§ 11](lov/1981-03-13-6/§11). Hvis det etter forskriftene er nødvendig å søke om tillatelse, gjelder bestemmelsene i [kap. 3](lov/1981-03-13-6/kap3). De vilkår som kan settes i den enkelte tillatelse, jf. [§ 16](lov/1981-03-13-6/§16) kan i stedet fastsettes som forskrift etter paragrafen her.
+
+Forurensningsmyndigheten kan i det enkelte tilfelle gjøre unntak fra forskrift som tillater forurensning dersom vilkårene nevnt i [§ 18](lov/1981-03-13-6/§18) første ledd foreligger eller dersom forskriften selv gir adgang til det.
+
+Forskrifter etter denne paragraf kan begrenses til bestemte geografiske områder.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 10. (forholdet til granneloven m.v.)
+
+Reglene om varsel og granneskjønn i [grannelovens](lov/1961-06-16-15) §§ 6-8 gjelder ikke for forurensning som gjør det nødvendig med tillatelse etter [§ 11](lov/1981-03-13-6/§11). Det samme kan fastsettes i forskrift etter [§ 9](lov/1981-03-13-6/§9) annet ledd.
+
+Forurensning som er tillatt etter [§ 11](lov/1981-03-13-6/§11) eller etter forskrift som fastsetter at [grannelovens](lov/1961-06-16-15) §§ 6-8 ikke gjelder, kan ikke kreves rettet etter [grannelovens § 10](lov/1961-06-16-15/§10). Selv om skader eller ulemper er tillatt etter loven her, fritar det ikke for plikt til å betale erstatning eller plikt til å betale vederlag etter [granneloven](lov/1961-06-16-15).
+
+For andre skader eller ulemper enn det som skyldes forurensning gjelder [granneloven](lov/1961-06-16-15) fullt ut.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+## Kap. 3. Tillatelse til virksomhet som kan volde forurensning. Konsekvensanalyser.
+
+### § 11. (særskilt tillatelse til forurensende tiltak)
+
+Forurensningsmyndigheten kan etter søknad gi tillatelse til virksomhet som kan medføre forurensning. Forurensningsmyndigheten kan i særlige tilfeller gi tillatelse uten at det foreligger søknad, og i slik tillatelse gi pålegg som trer i stedet for vilkår etter [§ 16](lov/1981-03-13-6/§16).
+
+Kvotepliktig etter [klimakvoteloven § 4](lov/2004-12-17-99/§4) skal etter søknad innvilges tillatelse til kvotepliktige utslipp av klimagasser så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte. Kongen kan i utslippstillatelsen sette vilkår i medhold av [§ 16](lov/1981-03-13-6/§16). Det skal ikke settes noen utslippsgrenseverdi i tillatelsen. Tillatelsen gjelder så langt det innleveres kvoter i henhold til plikten i [klimakvoteloven § 13](lov/2004-12-17-99/§13).
+
+Forurensningsmyndigheten kan gi forskrifter om at den som vil drive visse slag virksomheter som etter sin art kan medføre forurensninger, må søke om tillatelse etter denne paragraf.
+
+Forurensningsspørsmål skal om mulig søkes løst for større områder under ett og på grunnlag av oversiktsplaner og reguleringsplaner. Hvis virksomheten vil være i strid med endelige planer etter [plan- og bygningsloven](lov/2008-06-27-71) skal forurensningsmyndigheten bare gi tillatelse etter forurensningsloven med samtykke fra planmyndigheten.
+
+Når forurensningsmyndigheten avgjør om tillatelse skal gis og fastsetter vilkårene etter [§ 16](lov/1981-03-13-6/§16), skal det legges vekt på de forurensningsmessige ulemper ved tiltaket sammenholdt med de fordeler og ulemper som tiltaket for øvrig vil medføre.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [14 juni 1985 nr. 77](lov/1985-06-14-77), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)).
+
+### § 12. (innhold av søknad)
+
+Søknad om tillatelse etter [§ 11](lov/1981-03-13-6/§11) skal gi de opplysninger som er nødvendig for å vurdere om tillatelse bør gis og hvilke vilkår som skal settes. Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfelle fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 13. (meldeplikt og konsekvensanalyser for virksomhet som kan medføre større forurensningsproblemer)
+
+Den som planlegger virksomhet som kan medføre store forurensninger på et nytt sted, eller en vesentlig utbygging av ny karakter på sted for eksisterende virksomhet, skal på et tidlig trinn under planleggingen gi melding til forurensningsmyndigheten. Forurensningsmyndigheten gir nærmere forskrifter om meldeplikten.
+
+Forurensningsmyndigheten kan fastsette at den som planlegger meldepliktig virksomhet skal foreta en konsekvensanalyse for å klarlegge virkningene forurensningen vil få. Konsekvensanalysen skal vanligvis inneholde en utredning om:hvilke forurensninger virksomheten vil medføre ved vanlig drift og ved praktisk tenkelige former for uhell, samt sannsynligheten for slike uhell,hvilke virkninger forurensningen kan få på kort og lang sikt. Om nødvendig skal det foretas undersøkelser av naturforholdene der forurensningen vil gjøre seg gjeldende. Det skal særskilt klarlegges hvordan forurensningen vil påvirke menneskenes bruk av miljøet og hvem som særlig får ulemper av forurensningen,alternative lokaliseringer, produksjonsprosesser, rensetiltak og måter for å gjenvinne avfall på som har vært vurdert og nærmere begrunnelse for de løsninger søkeren har valgt,hvordan virksomheten blir innpasset i oversiktsplan og reguleringsplan for området, eventuelt hvordan den vil binde fremtidig planlegging.
+
+Forurensningsmyndigheten kan gi pålegg om når utredningen skal foreligge og hva den skal inneholde.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 14. (utredningen er offentlig)
+
+Når utredningen etter [§ 13](lov/1981-03-13-6/§13) foreligger, har enhver rett til å gjøre seg kjent med den hos den meldepliktige eller vedkommende forurensningsmyndighet. Forurensningsmyndigheten kan bestemme at deler av utredningen skal være offentlig før hele utredningen foreligger.
+
+Opplysninger som forurensningsmyndigheten har taushetsplikt om etter [forvaltningsloven § 13](lov/1967-02-10/§13) flg., kan holdes tilbake også av den meldepliktige. Det samme gjelder opplysninger som går inn under [offentleglova §§ 20](lov/2006-05-19-16/§20) og [21](lov/2006-05-19-16/§21).
+
+Bestemmelsen i [offentleglova § 30](lov/2006-05-19-16/§30) om hvordan dokument skal gjøres kjent og i [§ 32](lov/2006-05-19-16/§32) om klage over avgjørelse om ikke å gjøre det tilgjengelig, gjelder både når krav om offentlighet av konsekvensanalyse rettes til forurensningsmyndigheten og til den meldepliktige. Klage over avgjørelse truffet av den meldepliktige går til forurensningsmyndigheten.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
+
+### § 15. (offentlig møte om virksomhet som kan medføre større forurensningsproblemer)
+
+Når det foreligger konsekvensanalyse etter [§ 13](lov/1981-03-13-6/§13) skal forurensningsmyndigheten i samarbeid med søkeren holde offentlig møte for drøfting av de forurensningsmessige følger virksomheten kan få. Møtet skal holdes i god tid før søknaden blir avgjort og skal kunngjøres på stedet. På møtet skal søkeren og forurensningsmyndigheten redegjøre for tiltaket og de forurensningsmessige følger det kan få.
+
+Forurensningsmyndigheten kan unnlate å holde møte som nevnt i første ledd dersom tiltaket slik det planlegges gjennomført ikke vil føre til alvorlige forurensninger. Det samme gjelder om saken er tilstrekkelig belyst ved at det i forbindelse med behandling av saken i medhold av annen lovgivning er holdt offentlig møte eller det av andre grunner må ansees unødvendig å holde møte.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 16. (vilkår i tillatelse)
+
+I tillatelse etter loven eller forskrift i medhold av loven kan det settes nærmere vilkår for å motvirke at forurensning fører til skader eller ulemper, og for å fremme effektiv utnyttelse av energi som virksomheten bruker eller frembringer.1 Det kan herunder fastsettes vilkår om beskyttelses- og rensetiltak, gjenvinning og at tillatelsen bare skal gjelde for en viss tid.
+
+Dersom forurensning fra virksomheten jevnlig vil utelukke eller vanskeliggjøre bruk av miljøet til et bestemt formål, kan det settes som vilkår at det treffes tiltak som tilgodeser dette formålet, eller at det gis tilskudd til slike tiltak. Det kan også settes som vilkår at forurenseren ved avtale eller ekspropriasjon erverver eller båndlegger områder som blir sterkt forurenset.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [10 des 1999 nr. 83](lov/1999-12-10-83) (ikr. 1 jan 2000).
+
+### § 17. (innløsning av fast eiendom m.v.)
+
+Etter krav fra eieren kan forurensningsmyndigheten fastsette at den ansvarlige for forurensningen, mot erstatning etter rettslig skjønn, skal innløse fast eiendom dersom forurensningen vil gjøre eiendommen lite egnet til det formål den brukes til.
+
+Bestemmelsen i første ledd gjelder tilsvarende ved festerett, forpaktning eller annen særskilt råderett over fast eiendom. Pålegg om innløsning kan gjelde del av eiendom eller rett over fast eiendom.
+
+Pålegg etter første og annet ledd kan gis også etter at tillatelse til forurensning er gitt. Ved fastsetting av erstatning gjelder reglene i [ekspropriasjonserstatningsloven 6. april 1984 nr. 17](lov/1984-04-06-17) tilsvarende. Ved utmålingen skal det gjøres fradrag for skader og ulemper eieren eller annen rettighetshaver etter [grannelovens § 2](lov/1961-06-16-15/§2) må finne seg i uten erstatning. Kostnadene ved skjønnet skal dekkes av den ansvarlige for forurensningen. Det samme gjelder ved overskjønn, om ikke retten av særlige grunner bestemmer noe annet.
+
+> Endret ved [lover 17 des 1982 nr. 88](lov/1982-12-17-88), [15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 18. (endring og omgjøring av tillatelse)
+
+Forurensningsmyndigheten kan oppheve eller endre vilkårene i tillatelse etter loven her eller etter forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersomdet viser seg at skaden eller ulempen ved forurensningen blir vesentlig større eller annerledes enn ventet da tillatelse ble gitt,skaden eller ulempen kan reduseres uten urimelig kostnad for forurenseren,ny teknologi gjør det mulig å minske forurensningene i vesentlig grad,vilkårene i tillatelsen er unødvendige for å motvirke forurensninger,de fordeler forurenseren eller andre får av at vilkår blir lempet på eller opphevet, er vesentlig større enn de skader eller ulemper det vil føre til for miljøet, ellerdet forøvrig følger av ellers gjeldende omgjøringsregler.
+
+Tillatelse gitt i medhold av [§ 11](lov/1981-03-13-6/§11) annet ledd tilbakekalles eller endres dersom kvoteplikten etter [klimakvoteloven § 4](lov/2004-12-17-99/§4) opphører.
+
+Tillatelse kan i alle tilfeller tilbakekalles eller endres når det har gått 10 år etter at den ble gitt.
+
+Tillatelse kan endres når dette er påkrevet etter regler som gjennomfører direktiv [2010/75/EU](eu/32010l0075) om industriutslipp jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1f.
+
+Ved avgjørelser etter første og tredje ledd skal det tas hensyn til kostnadene en endring eller omgjøring vil påføre forurenseren og de fordeler og ulemper endring eller omgjøring for øvrig vil medføre.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [16 juni 2023 nr. 61](lov/2023-06-16-61) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 954](forskrift/2023-06-16-954)).
+
+### § 19. (meldeplikt ved utskiftning av utstyr eller økning av forurensningene)
+
+Den som har tillatelse etter [§ 11](lov/1981-03-13-6/§11) og som skal foreta en vesentlig utskiftning av utstyr som gjør det teknisk mulig å motvirke forurensninger på en vesentlig bedre måte enn da tillatelsen ble gitt, skal på forhånd gi melding til forurensningsmyndigheten.
+
+Forurensningsmyndigheten kan gi nærmere forskrifter om meldeplikten etter første ledd.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 20. (nedleggelse og driftsstans)
+
+Hvis et anlegg blir nedlagt eller en virksomhet stanser, skal eieren eller brukeren gjøre det som til enhver tid er nødvendig for å motvirke forurensninger. Hvis anlegget eller virksomheten kan medføre forurensninger etter nedleggelsen eller driftsstansen, skal det i rimelig tid på forhånd gis melding til forurensningsmyndigheten.
+
+Forurensningsmyndigheten kan fastsette nærmere hvilke tiltak som er nødvendig for å motvirke forurensning. Den kan pålegge eieren eller brukeren å stille garanti for dekning av fremtidige utgifter og mulig erstatningsansvar.
+
+Den som ønsker å starte opp en virksomhet som har tillatelse etter [§ 11](lov/1981-03-13-6/§11), etter at virksomheten har vært nedlagt eller stanset i mer enn 2 år, må gi melding om dette til forurensningsmyndigheten. Denne avgjør om det må søkes om ny tillatelse før virksomheten settes i gang på ny.
+
+Forurensningsmyndigheten kan gi nærmere forskrifter om meldeplikt etter første og tredje ledd.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+## Kap. 4. Særlige regler om avløpsanlegg m.v.
+
+### § 21. (definisjoner)
+
+Med avløpsanlegg forstås anlegg som er etablert for transport og behandling av avløpsvann.
+
+Med avløpsvann forstås både sanitært og industrielt avløpsvann og overvann.
+
+Med overvann forstås vann som renner av på overflaten som følge av regn og smeltevann.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [6 juni 2025 nr. 26](lov/2025-06-06-26) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 988](forskrift/2025-06-06-988)).
+
+### § 22. (krav til utførelse av avløpsanlegg)
+
+Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfelle fastsette nærmere krav til avløpsledning, herunder om den skal være lukket og vanntett. Forurensningsmyndigheten kan avgjøre om alt avløpsvann skal ledes i felles ledning eller om det skal kreves særskilte ledninger for ulike typer avløpsvann.
+
+Ved omlegging eller utbedring av avløpsledninger kan forurensningsmyndigheten kreve at eier av tilknyttet stikkledning foretar tilsvarende omlegging eller utbedring. Også ellers kan forurensningsmyndigheten kreve omlegging eller utbedring av stikkledning, når særlige grunner tilsier det.
+
+I utslippstillatelse for avløpsanlegg kan det settes som vilkår at dette innrettes slik at anlegget kan ta avløpsvann fra annen kommune eller fra andre eiendommer. Merkostnaden dette fører til skal betales av de som får muligheter til tilknytning. I mangel av avtale, fastsettes merkostnaden og fordelingen av dette ved skjønn styrt av tingretten. Kostnadene ved underskjønnet skal deles forholdsvis mellom partene i skjønnssaken som får muligheter for tilknytning.
+
+> Endret ved [lover 17 des 1982 nr. 88](lov/1982-12-17-88), [15 apr 1983 nr. 21](lov/1983-04-15-21), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+
+### § 22 a. (pålegg om frakobling av overvann og overvannstiltak)
+
+Når det er nødvendig for å avlaste et kommunalt avløpsanlegg, kan kommunen pålegge eieren av en eiendom som er tilknyttet et kommunalt avløpsanlegg, å koble overvann helt eller delvis fra avløpsanlegget eller fordrøye overvannet før påslipp til avløpsanlegget. Det kan bare gis slikt pålegg dersom overvannet kan håndteres på annen forsvarlig måte.
+
+Dersom det er nødvendig for å sikre forsvarlig håndtering av overvannet ved pålegg etter første ledd, kan kommunen pålegge eieren å sørge for tiltak som med rimelighet kan kreves for å håndtere overvannet på egen eiendom eller å lede overvannet til et annet avløpsanlegg eller en alternativ avrenningsvei.
+
+Dersom ikke annet er avtalt, skal et pålegg etter første og andre ledd rettes mot festeren av eiendommen istedenfor eieren nårfesteren har arvefestedet er igjen minst 30 år av festetiden når pålegget blir gittavtalen gir festeren rett til å kreve festetiden forlenget så mye at det er igjen en festetid på minst 30 år når pålegget blir gitt
+
+> Tilføyd ved lov [6 juni 2025 nr. 26](lov/2025-06-06-26) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 988](forskrift/2025-06-06-988)).
+
+### § 23. (rett og plikt til tilknytning til eksisterende avløpsanlegg)
+
+Forurensningsmyndigheten kan bestemme at avløpsvann kan ledes inn i en annens avløpsanlegg.
+
+Om plikt til tilknytning til eksisterende avløpsledning gjelder reglene i [plan- og bygningsloven](lov/2008-06-27-71). Vedtak etter [plan- og bygningsloven](lov/2008-06-27-71) kan likevel treffes av forurensningsmyndigheten.
+
+Skjer tilknytning til kommunal avløpsledning, betales tilknytningsavgift etter [lov om kommunale vass- og avløpsanlegg](lov/2025-06-06-26). Skjer tilknytning til privat avløpsanlegg, kan eieren av anlegget kreve at vedkommende foretar eller betaler de utvidelser og forandringer av avløpsanlegget som tilknytningen gjør nødvendig, eller at det blir stilt sikkerhet for dette. Eieren kan også kreve refusjon for anleggsutgiftene i samsvar med [plan- og bygningsloven](lov/2008-06-27-71). Kostnadene ved underskjønnet skal bæres av den som blir tilknyttet anlegget.
+
+> Endret ved [lover 17 des 1982 nr. 88](lov/1982-12-17-88), 17 apr 1983 nr. 21, [21 juni 1996 nr. 36](lov/1996-06-21-36), [5 mai 1995 nr. 20](lov/1995-05-05-20) (ikr. 1 juli 1997), [13 juni 2014 nr. 21](lov/2014-06-13-21), [6 juni 2025 nr. 26](lov/2025-06-06-26) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 988](forskrift/2025-06-06-988)).
+
+### § 24. (drift og vedlikehold av avløpsanlegg)
+
+Kommunen er ansvarlig for drift og vedlikehold av avløpsanlegg som helt eller delvis eies av kommunen. Ved private avløpsanlegg er eier av den eiendom som anlegget først ble anlagt for, ansvarlig for drift og vedlikehold.
+
+Forurensningsmyndigheten kan bestemme at andre enn dem som er nevnt i første ledd skal være ansvarlig for drift og vedlikehold, bl.a. at kommunen skal være ansvarlig for private anlegg.
+
+Forurensningsmyndigheten kan gi nærmere forskrifter om bygging, drift og vedlikehold av avløpsanlegg, herunder fastsette krav til personell.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 24 a. (særlige erstatningsregler for avløpsanlegg)
+
+Anleggseieren er ansvarlig uten hensyn til skyld for skade som et avløpsanlegg volder fordi kapasiteten ikke strekker til eller fordi vedlikeholdet har vært utilstrekkelig. §§ 57-61 gjelder tilsvarende.
+
+> Tilføyd ved [lov 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)).
+
+### § 25. (utgifter til anlegg, drift og vedlikehold av avløpsanlegg)
+
+Utgiftene til anlegg, drift og vedlikehold av avløpsanlegg som drives av kommunen, dekkes av kommunen. Kommunen kan kreve full eller delvis dekning av sine kostnader ved innkreving av avgift i samsvar med [lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg](lov/2012-03-16-12). Kommunen kan uten hinder av annet punktum kreve refusjon etter [plan- og bygningsloven kapittel 18](lov/2008-06-27-71/kap18).
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [5 mai 1995 nr. 20](lov/1995-05-05-20) (ikr. 1 juli 1997), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27), [13 juni 2014 nr. 21](lov/2014-06-13-21).
+
+### § 26. (kommunal tømming av slam fra slamavskillere (septiktanker), privet m.v.)
+
+Kommunen skal sørge for tømming av mindre renseinnretninger som slamavskillere og samlekummer for avslamming av sanitært avløpsvann og overvann. Det samme gjelder for oppsamlingstanker med ubehandlet sanitært avløpsvann.
+
+Kommunen skal også sørge for nødvendige anlegg for tømming av avløpsvann fra bobiler, fritidsbåter m.v.
+
+Kommunen skal sørge for tømming av privet i tettbygd strøk, og utenfor tettbygd strøk i den utstrekning kommunen bestemmer det.
+
+Reglene i [§ 30](lov/1981-03-13-6/§30) om kommunal avfallsinnsamling og i [§ 34](lov/1981-03-13-6/§34) om avfallsgebyrer får tilsvarende anvendelse ved tømming av slamavskillere, privet m.v. Kommunens plikter etter første ledd skal likevel gjelde både i og utenfor tettbygde strøk.
+
+Blir sanitært avløpsvann ledet gjennom slamavskiller til renseanlegg, kan forurensningsmyndigheten kreve slamavskilleren utkoblet.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [17 mars 1989 nr. 11](lov/1989-03-17-11).
+
+## Kap. 5. Om avfall.
+
+### § 27. (definisjon av avfall)
+
+Med avfall menes løsøregjenstander eller stoffer som noen har kassert, har til hensikt å kassere eller er forpliktet til å kassere. Som avfall regnes ikke avløpsvann og avgasser.
+
+Som biprodukt og ikke avfall regnes løsøregjenstander og stoffer somer fremstilt som en integrert del av en produksjonsprosess som primært tar sikte på å fremstille noe annet,kan brukes direkte uten annen bearbeidelse enn det som er normalt i industriell praksis,kan brukes på en måte som er lovlig,ikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt, ogmed sikkerhet vil bli utnyttet.
+
+Løsøregjenstander og stoffer som har blitt avfall, skal regnes for å ha opphørt å være avfall når dehar gjennomgått gjenvinningskal brukes til bestemte formålkan omsettes i et marked eller er gjenstand for etterspørselinnfrir de tekniske kravene som følger av de aktuelle bruksområdene og eventuelle produktkrav og -standarder, ogikke medfører nevneverdig høyere risiko for helseskade eller miljøforstyrrelse enn tilsvarende gjenstander og stoffer som ellers kunne blitt brukt.Forurensningsmyndigheten kan bestemme ved enkeltvedtak om avfall har opphørt å være avfall etter første punktum.
+
+Forurensningsmyndigheten kan gi forskrift som presiserer hva som skal regnes som avfall.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 apr 2003 nr. 23](lov/2003-04-11-23) (ikr. 1 juli 2004), [9 des 2016 nr. 89](lov/2016-12-09-89), [17 juni 2022 nr. 65](lov/2022-06-17-65).
+
+### § 27a. (andre definisjoner)
+
+Med husholdningsavfall menes avfall fra private husholdninger, herunder større gjenstander som inventar og lignende.
+
+Med næringsavfall menes avfall fra offentlige og private virksomheter og institusjoner
+
+Med spesialavfall menes avfall som ikke hensiktsmessig kan behandles sammen med annet husholdningsavfall eller næringsavfall på grunn av sin størrelse eller fordi det kan medføre alvorlig forurensning eller fare for skade på mennesker eller dyr.
+
+Med gjenvinning menes ethvert tiltak der hovedresultatet er at avfall kommer til nytte ved å erstatte materialer som ellers ville blitt brukt, eller at avfall har blitt forberedt til dette.
+
+> Tilføyd ved [lov 9 des 2016 nr. 89](lov/2016-12-09-89).
+
+### § 28. (forbud mot forsøpling)
+
+Ingen må tømme, etterlate, oppbevare eller transportere avfall slik at det kan virke skjemmende eller være til skade eller ulempe for miljøet.
+
+Første ledd er ikke til hinder for at avfall blir tatt hånd om på opplagsplass eller i behandlingsanlegg med tillatelse etter [§ 29](lov/1981-03-13-6/§29) eller for at avfall blir levert dit.
+
+Den som har overtrådt forbudet i første ledd, skal sørge for nødvendig opprydding.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [9 des 2016 nr. 89](lov/2016-12-09-89).
+
+### § 29. (krav til anlegg for behandling av avfall)
+
+Den som driver opplagsplass eller anlegg for behandling av avfall som kan medføre forurensning eller virke skjemmende, må ha tillatelse etter reglene i [kap. 3](lov/1981-03-13-6/kap3). I tillatelsen kan det settes vilkår blant annet om transport, behandling, gjenvinning og oppbevaring av avfall og tiltak for å motvirke at anlegget virker skjemmende.
+
+Denne lovs [§ 10](lov/1981-03-13-6/§10) gjelder tilsvarende for opplagsplass eller anlegg for behandling av avfall som trenger tillatelse etter første ledd.
+
+Kommunen skal ha anlegg for opplag eller behandling av husholdningsavfall og kloakkslam og ha plikt til å ta imot slikt avfall og slam. Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfellet fastsette at kommunen også skal ha anlegg for og plikt til å ta imot spesialavfall og næringsavfall. Forurensningsmyndigheten kan likeledes fastsette nærmere krav til avfallsanlegget.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 apr 2003 nr. 23](lov/2003-04-11-23) (ikr. 1 juli 2004).
+
+### § 30. Kommunal innsamling av husholdningsavfall m.v.
+
+Kommunen skal sørge for innsamling av husholdningsavfall. Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfellet pålegge kommunene å innføre ordninger for sortering av avfallet. Et slikt pålegg må baseres på en samlet vurdering av kostnadene dette vil innebære i forhold til de miljøfordeler som oppnås.
+
+Kommunen kan gi forskrifter om at den kommunale innsamling bare skal gjelde i tettbygd strøk, at visse slag husholdningsavfall skal holdes utenfor den kommunale innsamling, og at visse slag avfall skal holdes adskilt. Kommunen kan etter søknad unnta bestemte eiendommer fra den kommunale innsamling.
+
+Kommunen kan gi forskrifter som er nødvendig for å få til en hensiktsmessig og hygienisk oppbevaring, innsamling og transport av husholdningsavfall. Uten kommunens samtykke må ingen samle inn husholdningsavfall. Forurensningsmyndigheten kan i særlige tilfeller ved forskrift eller enkeltvedtak bestemme at kommunens samtykke ikke er nødvendig.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 juni 1993 nr. 107](lov/1993-06-11-107), [21 juni 1996 nr. 36](lov/1996-06-21-36), [11 apr 2003 nr. 23](lov/2003-04-11-23) (ikr. 1 juli 2004).
+
+### § 31. (håndtering av spesialavfall)
+
+Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfelle pålegge en kommune samle inn spesialavfall og kan fastsette plikt for den enkelte til å levere sitt spesialavfall til kommunen eller annen avfallsmottaker.
+
+Forurensningsmyndigheten kan i det enkelte tilfelle eller i forskrift treffe vedtak for å få til en hensiktsmessig og forsvarlig oppbevaring, innsamling, transport og behandling av spesialavfall, herunder at ingen må samle inn slikt avfall uten forurensningsmyndighetens samtykke.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 32. Håndtering av næringsavfall
+
+Den som produserer næringsavfall, skal sørge for at avfallet blir brakt til lovlig avfallsanlegg eller gjennomgår gjenvinning, slik at det enten opphører å være avfall eller på annen måte kommer til nytte ved å erstatte materialer som ellers ville blitt brukt. Annen disponering av avfall fra fiske, jordbruk og skogbruk mv. er likevel tillatt, såfremt forurensningen dette kan medføre omfattes av [§ 8](lov/1981-03-13-6/§8) første ledd nr. 1.
+
+Forurensningsmyndigheten kan i særlige tilfeller gjøre unntak ved enkeltvedtak eller forskrift fra første ledd første punktum på nærmere fastsatte vilkår.
+
+Forurensningsmyndigheten kan i forskrift eller i det enkelte tilfelle pålegge produsenten å levere næringsavfall til kommunalt avfallsanlegg. Bestemmelsen i [§ 31](lov/1981-03-13-6/§31) annet ledd gjelder tilsvarende.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 apr 2003 nr. 23](lov/2003-04-11-23) (ikr. 1 juli 2004), [9 des 2016 nr. 89](lov/2016-12-09-89).
+
+### § 32 a. Mottaksanlegg for avfall fra skip
+
+Forurensningsmyndigheten kan gi forskrifter om etablering og drift av mottaksanlegg i land for avfall og lasterester fra skip. Forurensningsmyndigheten kan herunder pålegge den enkelte kommune, havnemyndighet, havneeier eller andre å sørge for at det finnes tilstrekkelige leveringsmuligheter og gi bestemmelser om videre transport og disponering av mottatt avfall.
+
+Forurensningsmyndigheten kan gi forskrifter om betaling av gebyr ved anløp i havn med mottaksanlegg og betaling av gebyr for levering av avfall og lasterester i havn.
+
+> Tilføyd ved [lov 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
+
+### § 32 b. (grensekryssende forsendelser av avfall)
+
+Forurensningsmyndigheten kan gi forskrift om grensekryssende forsendelser av avfall, blant annet om:forbud mot grensekryssende forsendelser av avfall, som forbud mot forsendelser av bestemte typer avfall eller til bestemte former for avfallshåndteringprosedyrer for grensekryssende forsendelser av avfall, som skriftlig forhåndsmelding og samtykke fra myndighetenekrav til grensekryssende forsendelser av avfall, som finansiell sikkerhet, følgedokumenter og behandlingsbekreftelseplikt til å ta en grensekryssende forsendelse av avfall tilbake.
+
+Forurensningsmyndigheten kan gi pålegg om at ulovlige grensekryssende forsendelser av avfall skal leveres til et lovlig avfallsanlegg.
+
+> Tilføyd ved lov [6 juni 2025 nr. 24](lov/2025-06-06-24) (i kraft 6 juni 2025 iflg. [res. 6 juni 2025 nr. 944](forskrift/2025-06-06-944)).
+
+### § 33. (gjenvinning og annen behandling av avfall)
+
+For å løse eller forebygge avfalls- eller forurensningsproblemer kan forurensningsmyndigheten, ved forskrift eller enkeltvedtak, fastsette at avfall skal gjenvinnes eller behandles på annen måte. Forurensningsmyndigheten kan herunder bl.a. treffe vedtak om:forberedelse til ombrukmaterialgjenvinning,utnyttelse av energi,destruksjon,innsamling, oppbevaring, sorteringbindende mål for gjenvinning, herunder mål for forberedelse til ombruk og materialgjenvinning
+
+Ved avgjørelsen skal det legges vekt på om de samlede miljøfordeler står i rimelig forhold til kostnadene, og kostnadene ved andre måter å håndtere avfallet på.
+
+Vedtak som nevnt i første ledd kan treffes overfor den som produserer, importerer, omsetter eller bruker avfallsskapende produkt og den som samler inn eller besitter avfall.
+
+Oppnås ikke frivillig ordning mellom partene, kan vedtak som nevnt i første ledd også treffes overfor den som kan bruke eller behandle avfall fra andre dersomdette er nødvendig for å sikre en tilfredsstillende behandling av avfall som kan medføre alvorlig forurensning eller helseskade ellerslikt vedtak er nødvendig for å få til en tilfredsstillende gjennomføring av et organisert system for innsamling og behandling av avfall.
+
+Den som leverer avfall til noen som etter fjerde ledd har plikt til å ta imot det, skal holde mottakeren skadesløs og levere avfallet på vilkår som sikrer mottakeren rimelig godtgjøring for hans arbeid. Har avfallet en verdi utover dette, skal mottageren betale et rimelig vederlag for avfallet. Partene kan kreve vederlagsspørsmålet avgjort ved voldgift etter [voldgiftsloven](lov/2004-05-14-25).
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 juni 1993 nr. 107](lov/1993-06-11-107), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [9 des 2016 nr. 89](lov/2016-12-09-89).
+
+### § 33 a. (Opphevet)
+
+> Tilføyd ved [lov 11 juni 1993 nr. 107](lov/1993-06-11-107) (ikr. 1 feb 1994), opphevet ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 1 apr 2002 iflg. [res. 15 mars 2002 nr. 270](forskrift/2002-03-15-270)).
+
+### § 34. (avfallsgebyr)
+
+Kommunen skal fastsette gebyrer til dekning av kostnader forbundet med avfallssektoren, herunder innsamling, transport, mottak, oppbevaring, behandling, etterkontroll m.v. Kostnadene skal fullt ut dekkes inn gjennom gebyrene. Med kostnader menes både kapitalkostnader og driftskostnader. For avfall som kommunen har plikt til å samle inn, motta og/eller behandle etter [§§ 29](lov/1981-03-13-6/§29), [30](lov/1981-03-13-6/§30) eller [31](lov/1981-03-13-6/§31) må gebyret ikke overstige kommunens kostnader.
+
+Kommunene bør fastsette differensierte gebyrer, der dette vil kunne bidra til avfallsreduksjon og økt gjenvinning. Forurensningsmyndigheten kan fastsette forskrifter om beregning av gebyrene.
+
+Avfallshåndtering etter [§ 35](lov/1981-03-13-6/§35) omfattes ikke av denne bestemmelsen.
+
+Gebyr skal betales av den som eier en eiendom som omfattes av ordning for innsamling av avfall eller tømming av slamavskiller, privet m.v. etter loven her. Dersom eiendommen er festet bort for 30 år eller mer, skal likevel festeren svare gebyret om ikke annet er avtalt. Det samme gjelder når festeren har rett til å få festet forlenget, slik at den samlede festetid blir mer enn 30 år.
+
+Avfallsgebyr med påløpte renter og kostnader er sikret med lovbestemt pant etter [panteloven § 6-1](lov/1980-02-08-2/§6-1). Reglene i [lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane §§ 26](lov/1975-06-06-29/§26) og [27](lov/1975-06-06-29/§27) gjelder tilsvarende.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [17 mars 1989 nr. 11](lov/1989-03-17-11), [11 juni 1993 nr. 107](lov/1993-06-11-107) (ikr. 1 feb 1994), [21 juni 1996 nr. 36](lov/1996-06-21-36), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 35. (avfall i samband med utsalgssteder, turistanlegg, utfartssteder m.v.)
+
+Den som driver dagligvarehandel, bensinstasjon, kiosk og liknende utsalgssted skal sørge for oppsetting av avfallsbeholdere i nærheten av salgsstedet og tømming av disse. Den som driver leirplass eller annet turistanlegg har også plikt til å sette opp og tømme avfallsbeholdere. Den som driver virksomhet nevnt i første og annet punktum skal forøvrig foreta nødvendig opprydding i området.
+
+Kommunen skal sørge for oppsetting og tømming av avfallsbeholdere på utfartssteder og andre sterkt besøkte offentlig steder hvor det må regnes med at avfall vil bli gjensatt. I tilknytning til tømming skal det foretas rimelig opprydding i området. Kommunens plikt etter dette ledd gjelder ikke dersom noen annen har plikt etter første ledd eller [§ 36](lov/1981-03-13-6/§36).
+
+Arrangør av tilstelning eller stevne skal sørge for nødvendig opprydding etterpå så langt dette ikke påhviler den som driver virksomhet som nevnt i første ledd.
+
+Kommunen kan i det enkelte tilfelle gi de pålegg som er nødvendige til gjennomføring av reglene i første og tredje ledd.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 36. (avfall langs offentlige veger m.v.)
+
+Vegstyresmakten skal sørge for oppsetting og tømming av avfallsbeholdere langs offentlige veger utenfor tettbygd strøk hvor de vegfarende erfaringsmessig etterlater seg avfall. Beholderne skal plasseres slik at de er forenlige med trafikksikkerheten. I tilknytning til tømming skal vegstyresmakten foreta nødvendig opprydding innenfor vegens eiendomsgrenser så langt dette ikke påhviler noen etter [§ 35](lov/1981-03-13-6/§35) første og tredje ledd.
+
+Forurensningsmyndigheten kan ved forskrift eller i det enkelt tilfelle fastsette at vegholderen skal sørge for toalett for de vegfarende dersom det ellers vil oppstå utilfredsstillende forhold.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 37. (pålegg om å rydde opp i avfall o.l. eller betale for opprydding)
+
+Kommunen kan gi pålegg om at den som har etterlatt, tømt eller oppbevart avfall i strid med [§ 28](lov/1981-03-13-6/§28), skal fjerne det, rydde opp innen en viss frist, eller at han skal dekke rimelige utgifter som noen har hatt til fjerning eller opprydding. Slikt pålegg kan også gis overfor den som har overtrådt [§ 35](lov/1981-03-13-6/§35) første eller tredje ledd dersom dette har ført til at avfallet er blitt spredd.
+
+Forurensningsmyndigheten kan også gi pålegg om opprydding og fjerning til den som var eier av motorkjøretøy, skip, fly eller annen liknende større gjenstand, da det ble etterlatt i strid med [§ 28](lov/1981-03-13-6/§28) eller som er eier når pålegget gis.
+
+Har noen bedt kommunen gi pålegg om opprydning eller betaling av utgifter etter første eller annet ledd, er avgjørelsen enkeltvedtak også om pålegg ikke blir gitt.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 1 apr 2002 iflg. [res. 15 mars 2002 nr. 270](forskrift/2002-03-15-270)).
+
+## Kap. 6. Akutt forurensning.
+
+### § 38. (akutt forurensning)
+
+Med akutt forurensning menes forurensning av betydning, som inntrer plutselig, og som ikke er tillatt etter bestemmelse i eller i medhold av denne lov.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 39. (varslingsplikt)
+
+Ved akutt forurensning eller fare for akutt forurensning, skal nærmeste politimyndighet straks varsles.
+
+Varslingsplikten etter første ledd påhviler den ansvarlige for forurensningen. Også andre har plikt til å varsle med mindre det åpenbart er unødvendig.
+
+Forurensningsmyndigheten kan gi nærmere bestemmelser om varsling av akutt forurensning i forskrift eller ved godkjenning av beredskapsplan etter [§ 41](lov/1981-03-13-6/§41). Det kan herunder fastsettes at varsel skal gis til annen myndighet enn politiet, og at varslingsreglene skal gjelde norsk fartøy uten hensyn til hvor det befinner seg.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 40. (beredskapsplikt)
+
+Den som driver virksomhet som kan medføre akutt forurensning skal sørge for en nødvendig beredskap for å hindre, oppdage, stanse, fjerne og begrense virkningen av forurensningen. Beredskapen skal stå i et rimelig forhold til sannsynligheten for akutt forurensning og omfanget av skadene og ulempene som kan inntreffe.
+
+Forurensningsmyndigheten kan i forskrift eller enkeltvedtak fastsette nærmere krav til beredskapen etter første ledd. Beredskapen skal etter forurensningsmyndighetens nærmere bestemmelse tilpasses den kommunale og den statlige beredskapen mot akutt forurensning.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21) (delvis i kraft, se § 89 med note).
+
+### § 41. (beredskapsplaner)
+
+Forurensningsmyndigheten kan i forskrift eller enkeltvedtak fastsette at det for virksomhet som kan medføre akutt forurensning, skal legges fram en beredskapsplan til godkjennelse. Planen skal gi retningslinjer for hva som skal gjøres ved akutt forurensning og den skal fornyes etter behov.
+
+Forurensningsmyndigheten kan fastsette nærmere vilkår for godkjenning av beredskapsplan. Det kan herunder fastsettes at beredskapsplanen skal samordnes med planer for å møte andre ulykkessituasjoner enn akutt forurensning. Forurensningsmyndigheten kan gi pålegg om endring i godkjent beredskapsplan og om nødvendig kalle godkjenningen tilbake.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 42. (samarbeid om privat beredskap)
+
+Forurensningsmyndigheten kan pålegge de som driver virksomhet som kan medføre akutt forurensning å samarbeide om beredskapen. Slike pålegg kan omfatte plikt til å utarbeide felles beredskapsplan etter [§ 41](lov/1981-03-13-6/§41) og å holde beredskapsutstyr i fellesskap.
+
+Forurensningsmyndigheten kan kreve at avtaler om etablering av særskilt beredskapsorganisasjon og andre avtaler om beredskapssamarbeid blir lagt fram til godkjennelse. Når det ikke foreligger slik avtale, kan forurensningsmyndigheten treffe vedtak om organisering og utgiftsfordeling i forbindelse med beredskapssamarbeidet.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 43. (kommunal og statlig beredskap)
+
+Kommuner skal sørge for nødvendig beredskap mot mindre tilfeller av akutt forurensning som kan inntreffe eller medføre skadevirkninger innen kommunen, og som ikke dekkes av privat beredskap etter §§ 40-42.
+
+Staten skal sørge for beredskap mot større tilfeller av akutt forurensning som ikke er dekket av kommunal beredskap etter første ledd eller privat beredskap etter §§ 40-42.
+
+Forurensningsmyndigheten skal såvidt mulig sørge for at privat, kommunal og statlig beredskap samordnes i et nasjonalt beredskapssystem.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21) (se § 89 med note).
+
+### § 44. (kommunale og interkommunale beredskapsplaner)
+
+Forurensningsmyndigheten kan kreve å få framlagt kommunal beredskapsplan til godkjenning og kan ved forskrift eller enkeltvedtak sette nærmere krav til den kommunale beredskapen.
+
+Forurensningsmyndigheten kan ved forskrift eller enkeltvedtak pålegge kommuner å samarbeide om beredskap mot akutt forurensning og kan herunder treffe vedtak om interkommunale beredskapsplaner og om utgiftsfordelingen mellom kommunene.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21) (se § 89 med note).
+
+### § 45. (statlig aksjonsutvalg ved omfattende ulykker)
+
+Kongen kan oppnevne et aksjonsutvalg for omfattende ulykker som kan medføre akutt forurensning. Aksjonsutvalget består av representanter for de berørte myndigheter og andre som oppnevnes, og skal samordne de forskjellige myndigheters arbeid med å bekjempe ulykker. Aksjonsutvalget skal vurdere de tiltak som settes i verk av den som er ansvarlig for å bekjempe ulykken og om nødvendig overta ledelsen av aksjonen helt eller delvis.
+
+Kongen gir regler om aksjonsutvalgets sammensetning, innkalling, myndighet og virksomhet.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21) (se § 89 med note).
+
+### § 46. (aksjoner mot akutt forurensning)
+
+Oppstår det akutt forurensning eller fare for akutt forurensning, skal den ansvarlige i samsvar med [§ 7](lov/1981-03-13-6/§7) iverksette tiltak for å avverge eller begrense skader og ulemper.
+
+Dersom den ansvarlige ikke iverksetter tilstrekkelige tiltak, skal vedkommende kommune søke å bekjempe ulykken. Kommunen skal varsle statlig forurensningsmyndighet som yter nødvendig bistand.
+
+Ved større tilfeller av akutt forurensning eller fare for akutt forurensning kan statlig myndighet helt eller delvis overta ledelsen av arbeidet med å bekjempe ulykken.
+
+Inntrer det omfattende akutt forurensning eller fare for slik forurensning, skal forurensningsmyndigheten sammenkalle aksjonsutvalget etter [§ 45](lov/1981-03-13-6/§45).
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 47. (bistandsplikt)
+
+Ved kommunale aksjoner etter dette kapittel plikter den som har beredskapsplikt etter [§ 40](lov/1981-03-13-6/§40) etter pålegg fra kommunen å stille til rådighet utstyr og personell som inngår i den private beredskap etter §§ 40-42. Etter anmodning skal andre kommuner såvidt mulig yte bistand.
+
+Ved aksjoner som ledes av staten, plikter den som har beredskapsplikt etter [§ 40](lov/1981-03-13-6/§40) og kommuner etter pålegg fra forurensningsmyndigheten å stille til rådighet utstyr og personell som inngår i beredskapen etter §§ 40-44. Er det fare for meget betydelig forurensningsskade, kan enhver gis pålegg om å stille til rådighet materiell eller personell for å bekjempe ulykken.
+
+Bestemmelsen i annet ledd gjelder også ved aksjoner utenfor rikets grenser. I slike tilfeller kan forurensningsmyndigheten også fastsette at utstyr og personell skal stilles til rådighet for andre lands myndigheter i den utstrekning det ellers følger av annet ledd.
+
+Alle offentlige myndigheter skal i den utstrekning det er forenlig med deres øvrige oppgaver yte bistand ved omfattende tilfeller av akutt forurensning.
+
+Den som har ytt bistand etter denne paragraf har krav på vederlag i samsvar med bestemmelsene i [§ 75](lov/1981-03-13-6/§75) annet ledd.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+## Kapittel 7. Tilsyn med forurensninger og avfall.
+
+> Overskriften endret ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 21 mars 2003 iflg. [res. 21 mars 2003 nr. 359](forskrift/2003-03-21-359) – forkortelsen Kap. erstattet av ordet Kapittel).
+
+### § 48. (forurensningsmyndighetens oppgaver)
+
+Forurensningsmyndigheten skal føre tilsyn med den alminnelige forurensningssituasjon og med forurensninger fra de enkelte kilder. Forurensningsmyndigheten skal også føre tilsyn med håndteringen av avfall.
+
+Forurensningsmyndigheten skal gjennom råd, veiledning og opplysning arbeide for å motvirke forurensninger og avfallsproblemer og se til at reglene i loven og vedtak i medhold av loven blir fulgt.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 48 a. Statlig tilsyn med kommunene
+
+Statsforvalteren kan føre tilsyn med lovligheten av kommunens oppfyllelse av plikter pålagt i eller i medhold av [§§ 9](lov/1981-03-13-6/§9), [22](lov/1981-03-13-6/§22), [23](lov/1981-03-13-6/§23), [24](lov/1981-03-13-6/§24), [26](lov/1981-03-13-6/§26), [29](lov/1981-03-13-6/§29), [30](lov/1981-03-13-6/§30), [31](lov/1981-03-13-6/§31), [32 a](lov/1981-03-13-6/§32a), [33](lov/1981-03-13-6/§33), [34](lov/1981-03-13-6/§34), [35](lov/1981-03-13-6/§35), [37](lov/1981-03-13-6/§37), [43](lov/1981-03-13-6/§43), [44](lov/1981-03-13-6/§44), [46](lov/1981-03-13-6/§46), [47](lov/1981-03-13-6/§47), [48](lov/1981-03-13-6/§48) og [82](lov/1981-03-13-6/§82) og kommunens internkontroll etter [kommuneloven § 25-1](lov/2018-06-22-83/§25-1) knyttet til disse pliktene.
+
+For tilsyn etter første ledd gjelder bestemmelsene i [kommuneloven kapittel 30](lov/2018-06-22-83/kap30).
+
+> Tilføyd ved [lov 13 juni 2014 nr. 21](lov/2014-06-13-21), endret ved [lover 19 juni 2015 nr. 68](lov/2015-06-19-68), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [16 juni 2023 nr. 61](lov/2023-06-16-61) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 954](forskrift/2023-06-16-954)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+
+### § 49. (opplysningsplikt)
+
+Etter pålegg av forurensningsmyndigheten plikter den som har, gjør eller setter i verk noe som kan forurense eller føre til avfallsproblemer uten hinder av taushetsplikt å gi forurensningsmyndigheten eller andre offentlige organer de opplysninger som er nødvendige for gjennomføring av gjøremål etter loven. Når særlige grunner tilsier det, kan forurensningsmyndigheten kreve at opplysningene gis av enhver som utfører arbeid for den som har opplysningsplikt etter første punktum.
+
+Opplysninger som nevnt i første ledd kan også kreves fra andre offentlige myndigheter uten hinder av den taushetsplikt som ellers gjelder. Forurensningsmyndigheten kan bestemme i hvilken form opplysningene skal gis.
+
+Vedtak etter første eller annet ledd treffes ved forskrift eller enkeltvedtak.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
+
+### § 50. (rett til gransking)
+
+Forurensningsmyndigheten skal ha uhindret adgang til eiendom der forurensning kan oppstå eller har oppstått, eller som er eller kan bli utsatt for forurensning når det er nødvendig for dens gjøremål etter loven. Tilsvarende gjelder virksomhet som har ført eller kan føre til avfallsproblemer.
+
+Forurensningsmyndigheten kan kreve å få lagt fram og få granske dokumenter og annet materiale som kan ha betydning for dens gjøremål etter loven.
+
+Ved inspeksjon av virksomhet skal forurensningsmyndigheten først ta kontakt med representanter for virksomhetens ledelse.
+
+Med mindre tungtveiende hensyn tilsier noe annet, skal forurensningsmyndigheten gi skriftlig rapport til virksomheten om resultatet av kontrollen.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
+
+### § 51. (pålegg om undersøkelse)
+
+Forurensningsmyndigheten kan pålegge den som har, gjør eller setter i verk noe som fører eller som det er grunn til å tro kan føre til forurensning, å sørge for eller bekoste undersøkelser eller lignende tiltak som med rimelighet kan kreves for åfastslå om og i hvilken grad virksomheten fører eller kan føre til forurensning,klarlegge årsaken til eller virkningene av inntrådt forurensning,klarlegge hvordan forurensningen skal motvirkes.
+
+Bestemmelsen i første ledd får tilsvarende anvendelse på virksomhet som fører, eller kan føre til avfallsproblemer.
+
+Pålegg etter første og annet ledd kan fastsettes ved forskrift eller i det enkelte tilfelle.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 51a. Registrering av forurensning i eller på fast eiendom
+
+Forurensningsmyndigheten kan registrere opplysninger om forurensning i eller på fast eiendom i matrikkelen, jf. [lov om eigedomsregistrering](lov/2005-06-17-101).
+
+Før registrering skjer skal berørte parter varsles.
+
+Forurensningsmyndigheten kan også registrere pålegg som gjelder forurensning i eller på fast eiendom på vedkommende matrikkelenhet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om registrering i matrikkelen, herunder hvem som skal sørge for slik registrering.
+
+> Tilføyd ved [lov 17 juni 2005 nr. 101](lov/2005-06-17-101) (ikr. 1 jan 2010 iflg. [res. 5 juni 2009 nr. 600](forskrift/2009-06-05-600)).
+
+### § 52. (godkjenning av laboratorier og analysemetoder)
+
+Forurensningsmyndigheten kan ved forskrift eller enkeltvedtak fastsette at undersøkelser og analyser som utføres etter vedtak i medhold av loven, skal foretas slik forurensningsmyndigheten bestemmer eller må foretas av noen som forurensningsmyndigheten har godkjent.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 52 a. (gebyrer)
+
+Forurensningsmyndigheten kan gi forskrift om gebyrer for behandling av tillatelser etter denne lov, eller forskrift fastsatt i medhold av loven, og for kontrolltiltak som gjennomføres for å sikre at loven eller vedtak i medhold av loven blir fulgt. Gebyrene settes slik at de samlet ikke overstiger forurensningsmyndighetens kostnader ved saksbehandlingen eller kontrollordningen.
+
+Gebyret er tvangsgrunnlag for utlegg.
+
+> Tilføyd ved [lov 16 mai 1986 nr. 22](lov/1986-05-16-22), endret ved [lover 8 jan 1993 nr. 20](lov/1993-01-08-20), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 52 b. Internkontroll
+
+Forurensningsmyndigheten kan gi forskrifter om internkontroll og internkontrollsystemer for å sikre at krav fastsatt i eller i medhold av denne lov overholdes.
+
+> Tilføyd ved [lov 27 juli 1990 nr. 52](lov/1990-07-27-52).
+
+### § 52 c. (EMAS-ordningen)
+
+Forurensingsmyndigheten eller den forurensningsmyndigheten bemyndiger kan gi forskrifter som gjennomfører [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om frivillig deltakelse i en miljøstyrings- og miljørevisjonsordning (EMAS-ordningen).
+
+Brønnøysundregistrenes vedtak om hvorvidt en organisasjon skal registreres eller strykes fra registeret etter forordningens1 artikkel 6, og Justervesenets vedtak om å gi, utvide, avslå, suspendere eller trekke tilbake akkreditering av miljøkontrollører etter artikkel 4 nr. 4 og 5, kan påklages til forurensningsmyndigheten.
+
+> Tilføyd ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), endret ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 21 mars 2003 iflg. [res. 21 mars 2003 nr. 359](forskrift/2003-03-21-359), paragrafen flyttet fra kap. 7A hvis overskrift samtidig ble opphevet).
+
+## Kap. 8. Erstatning for forurensningsskade.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67) (ikr. 1 aug 1989 og gis virkning for skadevoldende tilstand som foreligger på den tid loven trer i kraft, og for skadevoldende begivenheter som finner sted etter dette tidspunkt. Endringsloven gjør likevel ingen innskrenking i forurensningsansvar som på ikraftsettingstiden følger av ellers gjeldende erstatningsregler).
+
+### § 53. (saklig virkeområde)
+
+Kapitlet her gjelder plikten til å betale erstatning for forurensningsskade, for så vidt ansvarsspørsmålet ikke er særskilt regulert i annen lovgivning eller i kontrakt.
+
+Med forurensningsskade menes skade, ulempe eller tap forårsaket av forurensning (jf. [§ 6](lov/1981-03-13-6/§6)). Uansett hva som er bestemt i medhold av [§ 6](lov/1981-03-13-6/§6), regnes som forurensning her også lys eller annen stråling som er eller kan være til skade, tap eller ulempe for miljøet.
+
+Bestemmelsene i kapitlet gjelder tilsvarende for skade, ulempe eller tap forårsaket av avfall (jf. [§ 27](lov/1981-03-13-6/§27)).
+
+Uavhengig av bestemmelse i eller i medhold av [§ 5](lov/1981-03-13-6/§5) gjelder kapitlet her også forurensning og avfall fra faste transportanlegg og fra det enkelte transportmiddel, jf. [§ 5](lov/1981-03-13-6/§5) fjerde ledd.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 54. (stedlig virkeområde og lovvalg)
+
+Bestemmelsene i kapitlet gjelder forurensningsskade som:inntrer i Norge eller Norges økonomiske sone,inntrer utenfor områder som nevnt i bokstav (a), såfremt skaden er forårsaket av hending eller virksomhet på norsk sjø- eller landterritorium.
+
+Skader som ikke omfattes av virkeområdet etter første ledd, faller likevel inn under kapitlet i den utstrekning norsk erstatningsrett skal anvendes etter ellers gjeldende lovvalgregler.
+
+Når det gjelder tiltak for å avverge eller begrense forurensningsskade, er det tilstrekkelig at skade kan inntre på et område som kapitlet omfatter.
+
+Skadelidte kan kreve at spørsmålet om erstatning for forurensningsskade skal avgjøres etter bestemmelsene i den stat hvor den forurensende handling eller virksomhet fant sted.
+
+[§ 3](lov/1981-03-13-6/§3) tredje ledd gjelder tilsvarende.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 55. (ansvarssubjekt og ansvarsgrunnlag)
+
+Eier av fast eiendom, gjenstand, anlegg eller virksomhet som volder forurensningsskade, er ansvarlig etter kapitlet her uten hensyn til egen skyld, dersom eieren også driver, bruker eller innehar eiendommen m.v. I motsatt fall hviler slikt ansvar alene på den som faktisk driver, bruker eller innehar eiendommen m.v., for så vidt skaden ikke skyldes forhold som også eieren hefter for etter ellers gjeldende erstatningsregler.
+
+Den som indirekte ved å levere varer eller tjenester, foretar kontroll eller tilsyn eller på liknende måte har medvirket til forurensningsskade, er bare ansvarlig dersom det er utvist forsett eller uaktsomhet. Ved bedømmelsen av skyld skal det tas hensyn til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten, er satt til side. Bestemmelsen her gjør likevel ingen innskrenkning i det ansvar som følger av ellers gjeldende erstatningsregler.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 56. (tålegrense)
+
+Erstatning for forurensning som er tillatt, kan bare kreves i den utstrekning forurensningen er urimelig eller unødig etter reglene i [lov av 16 juni 1961 nr. 15 om rettshøve mellom grannar § 2](lov/1961-06-16-15/§2) annet til fjerde ledd.
+
+Selv om en forurensningsskade i seg selv ikke gir grunnlag for erstatning etter kapitlet her, kan den tas i betraktning ved krav om erstatning etter [granneloven](lov/1961-06-16-15).
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67),
+
+### § 57. (ansvarets omfang)
+
+Ansvar etter kapitlet omfattererstatning for økonomisk tap som følge av forurensningsskade som nevnt i [§ 53](lov/1981-03-13-6/§53),erstatning for skade, tap, ulempe eller utgifter som følge av rimelige tiltak for å hindre, begrense, fjerne eller avbøte forurensningsskade. Utgifter til tiltak mot forurensning som var tillatt, kan likevel ikke kreves erstattet i den utstrekning slik erstatning klart ville overstige den erstatning som kunne ha vært krevd dersom tiltakene ikke var blitt satt i verk,erstatning for skade, tap eller ulempe som følge av at forurensningen hindrer eller vanskeliggjør utøving av allemannsrett i næring,erstatning for skade, ulempe eller tap med hensyn til annen utøving av allemannsrett etter reglene i [§ 58](lov/1981-03-13-6/§58),erstatning for tap som en arbeidstaker lider ved at forurensningen fører til driftsstans eller innskrenking i en virksomhet han eller hun er ansatt i. Dette gjelder likevel ikke når virksomheten som sådan ikke kan kreve sitt tap erstattet fordi tapet er en for fjern og upåregnelig følge av forurensningen.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 58. (gjenopprettingserstatning til allmennheten ved skade som rammer utøvelse av allemannsretter utenfor næring m.v.)
+
+Ikke-tillatt forurensning som hindrer, vanskeliggjør eller begrenser utbyttet av å utøve allemannsrett utenfor næring, kan kreves erstattet etter paragrafen her, så langt det gjelder rimelige utgifter til å gjenopprette miljøet slik at allemannsretten i størst mulig utstrekning skal kunne utøves som tidligere.
+
+Krav om erstatning etter første ledd fremmes av den kommunale forurensningsmyndighet etter [§ 81](lov/1981-03-13-6/§81) første ledd bokstav c når forurensningsskaden er begrenset til kommunen. Dersom erstatningskravet er rettet mot kommunen, eller skade er voldt i flere kommuner, fremmes kravet av forurensningsmyndigheten på fylkesnivå etter [§ 81](lov/1981-03-13-6/§81) første ledd bokstav b. Dersom erstatningskravet er rettet mot fylkeskommunen, eller skade er voldt i flere fylker, fremmes kravet av den statlige forurensningsmyndighet etter [§ 81](lov/1981-03-13-6/§81) første ledd bokstav a. Departementet kan gi regler om hvilke forurensningsmyndigheter som nevnt i [§ 81](lov/1981-03-13-6/§81) første ledd bokstav a og b som kan gjøre kravet gjeldende.
+
+Krav om erstatning etter første ledd kan, uavhengig av om kravet fremmes av forurensningsmyndigheten, også gjøres gjeldende av en privat organisasjon eller sammenslutning med rettslig interesse i saken.
+
+Dersom en part som nevnt i tredje ledd fremmer krav etter paragrafen her, skal erstatningsbeløpet likevel tilfalle forurensningsmyndigheten etter reglene i annet ledd.
+
+Forurensningsmyndigheten treffer nærmere bestemmelse om hvordan erstatningsbeløpet skal anvendes. Nødvendige sakskostnader som en privat organisasjon e l har hatt, kan kreves dekket av beløpet.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 59. (flere mulige skadeårsaker)
+
+Den som volder en forurensning som alene eller sammen med andre skadeårsaker kan ha forårsaket forurensningsskaden, regnes for å ha voldt skaden dersom det ikke blir godtgjort at en annen årsak er mer sannsynlig.
+
+De som volder forurensninger som hver for seg eller til sammen er tilstrekkelige til å forårsake forurensningsskaden, er solidarisk ansvarlige etter [skadeerstatningsloven § 5-3](lov/1969-06-13-26/§5-3).
+
+Dersom det blir godtgjort at andre skadeårsaker i overveiende grad har bidratt til skaden, kan ansvaret for en mindre betydelig skadeårsak falle helt bort eller settes ned forholdsmessig så langt det er rimelig. Ved vurderingen skal det tas hensyn til skadevolderens bidrag til skaden, arten og omfanget av skadevolderens virksomhet og forholdene ellers.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 60. (engangserstatning eller terminvise beløp)
+
+Reglene i [granneloven § 16](lov/1961-06-16-15/§16) om engangserstatning eller terminvise beløp gjelder tilsvarende for erstatning etter kapitlet her.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 61. (lemping av ansvaret)
+
+Ved spørsmål om lemping av erstatningsansvar som følge av skade voldt på fast eiendom eller ting, kan det ved vurderingen etter [skadeerstatningsloven § 5-2](lov/1969-06-13-26/§5-2) tas hensyn til at eiendommen eller tingen tåler særlig lite.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 62. (bruken av erstatning ved utleie av bolig til boligformål)
+
+Erstatning for forurensningsskade på leilighet utleid til bolig skal brukes til vern mot forurensningen. I den utstrekning dette er lite tjenlig for leieboerne, kan erstatningen brukes til andre tiltak som øker bostandarden eller for øvrig slik at det også kommer leieboerne til gode.
+
+Departementet gir nærmere regler om gjennomføringen av første ledd, bl.a. om nødvendige prosessregler.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 63. (plikt til å stille sikkerhet m.v.)
+
+I en tillatelse etter loven her eller etter forskrift i medhold av loven kan det settes som vilkår at det blir stilt sikkerhet for mulig erstatningsansvar etter kapitlet her.
+
+Forurensningsmyndigheten avgjør hvilken sikkerhet som skal kreves.
+
+Forurensningsmyndigheten kan gi forskrifter om plikt til å stille sikkerhet for nærmere angitte typer virksomhet.
+
+Kongen kan gi bestemmelse om etablering av særskilte erstatningsordninger som skal dekke krav som omfattes av kapitlet, bl.a. om finansiering, tilskuddsplikt, søksmålsrett og skadeoppgjør.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67), endret ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 64. (vernetinget ved kumulasjon)
+
+Søksmål om erstatning eller krav som gjelder fast eiendom kan samlet reises i enhver rettskrets hvor det er verneting for ett av kravene, såfremt grunnlaget for kravene er det samme eller vesentlig likeartet. På samme vilkår kan krav reises av flere skadelidte eller mot flere skadevoldere i fellesskap.
+
+> Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67), endret ved [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## Kap. 9. Gjennomføring av loven og vedtak i medhold av loven. Vederlag og betaling for tiltak mot forurensning.
+
+### § 73. (tvangsmulkt ved forhold i strid med loven)
+
+For å sikre at bestemmelsene i denne lov eller vedtak i medhold av loven blir gjennomført, kan forurensningsmyndigheten fatte vedtak om tvangsmulkt til staten.
+
+Tvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som forurensningsmyndigheten har fastsatt. Tvangsmulkt kan også fastsettes på forhånd og løper da fra eventuell overtredelse tar til. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, eller at det forfaller for hver overtredelse. Tvangsmulkt fastsettes som løpende mulkt eller engangsmulkt. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forholdet varer, eller at det forfaller for hver overtredelse.
+
+Tvangsmulkt ilegges den ansvarlige for overtredelsen. Er overtredelsen skjedd på vegne av et selskap eller en annen sammenslutning, en stiftelse, en kommune, fylkeskommune eller annen offentlig innretning, skal tvangsmulkten vanligvis pålegges virksomheten som sådan. Er overtredelsen skjedd på vegne av en beredskapsorganisasjon opprettet etter [§ 42](lov/1981-03-13-6/§42), kan tvangsmulkten pålegges de deltagende selskaper.
+
+Vedtak om tvangsmulkt er tvangsgrunnlag for utlegg.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [26 juni 1992 nr. 86](lov/1992-06-26-86), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 74. (umiddelbar gjennomføring ved forurensningsmyndigheten)
+
+Har forurensningsmyndigheten gitt pålegg i medhold av [§ 7](lov/1981-03-13-6/§7) fjerde ledd eller [§ 37](lov/1981-03-13-6/§37) første eller annet ledd som ikke etterkommes av den ansvarlige, kan forurensningsmyndigheten sørge for iverksetting av tiltakene.
+
+Forurensningsmyndigheten kan også sørge for iverksetting av tiltakene dersom slikt pålegg kan medføre at iverksettelsen av tiltakene forsinkes eller dersom det er uvisst hvem som er ansvarlig.
+
+Ved iverksetting av tiltak etter første og annet ledd kan forurensningsmyndigheten gjøre bruk av og om nødvendig volde skade på den ansvarliges eiendom.
+
+Forurensningsmyndigheten kan gi nærmere forskrifter om gjennomføring av tiltak etter første og annet ledd.
+
+Inngrep mot akutt forurensning eller fare for akutt forurensning på det frie åpne hav og i ytre norsk sjøterritorium skal skje i samsvar med mellomfolkelig overenskomst som Norge har sluttet seg til. Forurensningsmyndigheten kan gi forskrift om slikt inngrep og om gjennomføring av slik overenskomst i norsk rett.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 75. (bruk av annen manns eiendom for å bekjempe forurensning og avfallsproblemer og vederlag for bistand)
+
+Ved gjennomføring av tiltak etter [§§ 7](lov/1981-03-13-6/§7), [37](lov/1981-03-13-6/§37), [46](lov/1981-03-13-6/§46) og [74](lov/1981-03-13-6/§74) kan forurensningsmyndigheten bestemme at det mot vederlag kan gjøres bruk av eller voldes skade på annens eiendom, såfremt vinningen er vesentlig større enn skaden eller ulempen ved inngrepet.
+
+Den som har gitt bistand etter [§ 47](lov/1981-03-13-6/§47) første til tredje ledd og som ikke er ansvarlig for forurensningen, har også krav på vederlag.
+
+Forurensningsmyndigheten er ansvarlig for vederlag etter første og annet ledd. Staten innestår for kravet.
+
+Kommuner som har hatt vesentlige utgifter til bekjempelse av akutt forurensning, kan få vederlag av staten etter nærmere bestemmelser fastsatt av forurensningsmyndigheten.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 76. (betaling av utgifter for tiltak mot forurensninger og avfallsproblemer)
+
+Det offentliges utgifter, skade eller tap etter [§ 74](lov/1981-03-13-6/§74) kan kreves dekket av den ansvarlige for forurensningen eller avfallsproblemene. Det samme gjelder det offentliges utgifter til vederlag etter [§ 75](lov/1981-03-13-6/§75). Dersom han ikke kan betale, eller det er ukjent hvem som er ansvarlig, kan utgiftene også kreves dekket av skadelidte eller den hvis interesser er ivaretatt ved tiltakene.
+
+Det kan beregnes renter av krav etter første ledd første og andre punktum i samsvar med [forsinkelsesrenteloven](lov/1976-12-17-100). Det kan også beregnes renter fra utgiftene påløper og frem til forsinkelsesrenten begynner å løpe (avsavnsrente). Ved beregning av avsavnsrente etter andre punktum skal pengemarkedsrenten tillagt fire prosentpoeng benyttes som rentesats.
+
+Har den ansvarlige ikke innen rimelig tid truffet tiltak som han er pliktig til, eller hvis det haster med å treffe tiltakene, kan den som har iverksatt tiltak for å verne sin eiendom eller avbøte skader på denne, kreve utgiftene dekket av den ansvarlige for så vidt som de er gjennomført med rimelig aktsomhet.
+
+Vedkommende forvaltningsorgan kan helt eller delvis frafalle sitt krav på dekning etter første ledd dersom det ellers vil komme til fortrengsel for andre skadelidte eller det vil virke urimelig å fremme kravet.
+
+Om lemping av ansvar etter første, annet og tredje ledd gjelder [skadeerstatningsloven § 5-2](lov/1969-06-13-26/§5-2) tilsvarende.
+
+Krav etter paragrafen her foreldes 5 år etter den dag da tiltakene ble gjennomført.1 Dersom den ansvarlige ikke var kjent da tiltakene ble gjennomført, foreldes kravet 5 år etter den dagen da fordringshaveren fikk eller burde ha skaffet seg nødvendig kunnskap om den ansvarlige. Har forurensningsmyndigheten truffet vedtak om krav på refusjon, løper fristen fra tidspunktet da endelig vedtak ble truffet. Kravet foreldes likevel senest 30 år etter at tiltakene ble gjennomført. For øvrig gjelder reglene i [foreldelsesloven](lov/1979-05-18-18) så langt de passer.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [21 juni 1996 nr. 36](lov/1996-06-21-36), [14 juni 2013 nr. 52](lov/2013-06-14-52), [21 mai 2021 nr. 41](lov/2021-05-21-41).
+
+### § 77. (begrenset adgang til å kreve utgifter dekket før tiltak er truffet)
+
+Krav på betaling som det offentlige har etter [§ 76](lov/1981-03-13-6/§76) første ledd, kan kreves dekket uten hensyn til avtale, dom eller oppgjør mellom den ansvarlige og andre skadelidte.
+
+Når andre enn det offentlige krever dekning av utgifter for tiltak mot forurensning av fast eiendom, og tiltakene ikke er gjennomført, kan beløpet bare kreves utbetalt av den ansvarligenår det er åpenbart at tiltakene ikke har betydning for allmennheten ellernår forurensningsmyndigheten samtykker. Det kan settes vilkår for slikt samtykke for å sikre at erstatningen nyttes til formålet.
+
+For beløp som er betalt overensstemmende med annet ledd bokstav a) eller b), blir den ansvarlige fri sitt ansvar overfor det offentlig etter [§ 76](lov/1981-03-13-6/§76) første ledd.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+## Kap. 10. Straff.
+
+### § 78. (straffansvar for forurensning)
+
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomthar, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av lovenunnlater å treffe tiltak som han er pliktig til etter [§§ 7](lov/1981-03-13-6/§7) og [40](lov/1981-03-13-6/§40), etter forskrift i medhold av loven, etter vilkår i enkelttillatelse etter [§ 11](lov/1981-03-13-6/§11), vilkår i godkjent beredskapsplan etter [§ 41](lov/1981-03-13-6/§41), eller etter særskilt pålegg i medhold av denne lovunnlater å gi melding etter [§§ 19](lov/1981-03-13-6/§19) eller [20](lov/1981-03-13-6/§20) eller å legge fram beredskapsplan etter [§ 41](lov/1981-03-13-6/§41)unnlater å etterkomme forurensningsmyndighetens pålegg etter §§ 49-51.
+
+Har overtredelsen voldt fare for stor skade eller ulempe, eller det forøvrig foreligger skjerpende omstendigheter, kan fengsel inntil 3 år anvendes. Dersom overtredelsen har voldt fare for alvorlig eller irreversibel skade på biologisk mangfold, eller fare for menneskers liv eller helbred, kan fengsel inntil 5 år anvendes.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 54](lov/2019-06-21-54) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 786](forskrift/2019-06-21-786)).
+
+### § 78 a. (Opphevet)
+
+> Tilføyd ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), opphevet ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 21 mars 2003 iflg. [res. 21 mars 2003 nr. 359](forskrift/2003-03-21-359)).
+
+### § 79. (straffansvar for ulovlig håndtering av avfall)
+
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomtetterlater eller tømmer samlet avfall, større kasserte gjenstander eller spesialavfall, slik at det kan virke skjemmende eller være til skade eller ulempe for miljøetunnlater å etterkomme pålegg om tiltak mot avfall etter [§ 37](lov/1981-03-13-6/§37).
+
+I forskrift etter [§§ 30](lov/1981-03-13-6/§30) til [33](lov/1981-03-13-6/§33) kan det bestemmes at forsettlig eller uaktsom overtredelse av forskriften straffes med bøter.
+
+Med bøter eller fengsel inntil 2 år straffes den som forsettlig eller uaktsomt innfører eller utfører avfall i strid med bestemmelser om grensekryssende forsendelser av avfall i forskrift etter [§ 32 b](lov/1981-03-13-6/§32b).
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [29 aug 2014 nr. 62](lov/2014-08-29-62) (ikr. 1 jan 2015), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 54](lov/2019-06-21-54) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 786](forskrift/2019-06-21-786)), [6 juni 2025 nr. 24](lov/2025-06-06-24) (i kraft 6 juni 2025 iflg. [res. 6 juni 2025 nr. 944](forskrift/2025-06-06-944)).
+
+### § 80. (overtredelsesgebyr)
+
+Forurensningsmyndigheten kan gi forskrift om ileggelse av overtredelsesgebyr til den somhar, gjør eller setter i verk noe som kan forurense i strid med denne lov eller forskrifter i medhold av lovenovertrer tiltaksplikt etter [§ 7](lov/1981-03-13-6/§7) andre ledd eller pålegg etter [§ 7](lov/1981-03-13-6/§7) fjerde leddovertrer vilkår i forskrift etter [§ 9](lov/1981-03-13-6/§9) første ledd eller tillatelse etter [§ 11](lov/1981-03-13-6/§11) første ledd jf. [§ 16](lov/1981-03-13-6/§16)driver virksomhet uten tillatelse i strid med forskrift etter [§ 11](lov/1981-03-13-6/§11) tredje leddovertrer meldingsplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd andre punktum eller tredje ledd første punktum eller forskrift etter [§ 20](lov/1981-03-13-6/§20) fjerde leddovertrer tiltaksplikt etter [§ 20](lov/1981-03-13-6/§20) første ledd første punktum eller pålegg etter [§ 20](lov/1981-03-13-6/§20) andre leddovertrer forskrift etter [§ 24](lov/1981-03-13-6/§24) tredje leddovertrer forbud i [§ 28](lov/1981-03-13-6/§28) første ledd eller plikt etter [§ 28](lov/1981-03-13-6/§28) tredje leddovertrer [§ 29](lov/1981-03-13-6/§29) første ledd første punktumovertrer forbud i [§ 30](lov/1981-03-13-6/§30) tredje ledd andre punktum, eller forskrift etter [§ 30](lov/1981-03-13-6/§30) andre eller tredje leddovertrer forskrift eller enkeltvedtak etter [§ 31](lov/1981-03-13-6/§31) andre leddforsøker å overtre bestemmelser om grensekryssende forsendelse av avfall i forskrift etter [§ 32 b](lov/1981-03-13-6/§32b)overtrer plikt i [§ 32](lov/1981-03-13-6/§32) første ledd første punktumovertrer forskrift etter [§ 32 a](lov/1981-03-13-6/§32a) første leddovertrer forskrift eller enkeltvedtak etter [§ 33](lov/1981-03-13-6/§33) første leddovertrer plikt i [§ 35](lov/1981-03-13-6/§35) første eller tredje ledd eller pålegg etter [§ 35](lov/1981-03-13-6/§35) fjerde leddovertrer varslingsplikt i [§ 39](lov/1981-03-13-6/§39) første eller andre ledd eller forskrift etter [§ 39](lov/1981-03-13-6/§39) tredje ledd, når vedkommende er den ansvarlige for forurensningen,overtrer beredskapsplikt i [§ 40](lov/1981-03-13-6/§40) første ledd eller forskrift eller enkeltvedtak etter [§ 40](lov/1981-03-13-6/§40) andre leddovertrer forskrift etter [§ 52 b](lov/1981-03-13-6/§52b).
+
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
+
+Forurensningsmyndigheten kan gi forskrift om utmålingen av overtredelsesgebyr.
+
+Adgangen til å ilegge overtredelsesgebyr foreldes 2 år etter at overtredelsen er opphørt. Fristen avbrytes ved at det gis forhåndsvarsel eller fattes vedtak om overtredelsesgebyr.
+
+> Opphevet ved [lov 20 juli 1991 nr. 66](lov/1991-07-20-66), tilføyd igjen ved [lov 21 juni 2019 nr. 54](lov/2019-06-21-54) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 786](forskrift/2019-06-21-786)), endret ved lov [6 juni 2025 nr. 24](lov/2025-06-06-24) (i kraft 6 juni 2025 iflg. [res. 6 juni 2025 nr. 944](forskrift/2025-06-06-944)).
+
+## Kap 11. Administrative bestemmelser. Forholdet til [forvaltningsloven](lov/1967-02-10).
+
+### § 81. (forurensningsmyndighetene)
+
+Forurensningsmyndighetene er:på riksnivå: Kongen, departementet og Miljødirektoratet,på fylkesnivå: fylkeskommunen og statsforvalteren eller den departementet bestemmer,på kommunalt nivå: kommunen.
+
+Kongen fastsetter hvilken forurensningsmyndighet som kan treffe vedtak etter loven. For kommunens og fylkeskommunens myndighet gjelder [§ 82](lov/1981-03-13-6/§82). Departementet kan videre fastsette at vedtak etter loven kan treffes av andre enn forurensningsmyndighetene herunder privat rettssubjekt.
+
+Kongen pålegger de øvrige forurensningsmyndigheter å utføre gjøremål etter denne lov. For kommunens og fylkeskommunens gjøremål gjelder [§ 82](lov/1981-03-13-6/§82).
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [14 juni 1991 nr. 30](lov/1991-06-14-30), [14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+
+### § 82. (kommunens og fylkeskommunens myndighet og gjøremål etter forurensningsloven)
+
+Kongen kan gi forskrift om at kommunen skal ha myndighet etter loven på områdene avløp, avfall, akutt forurensning, lokal luftkvalitet, støy, forurenset grunn, landbruk og lokale klimagassutslipp, i tillegg til det som følger av kapittel 4 og 5 i loven her.
+
+Kongen kan gi forskrift om hvilke gjøremål kommunen skal utføre på områdene avløp, avfall, akutt forurensning, lokal luftkvalitet og støy, i tillegg til det som følger av kapittel 4, 5 og 6 i loven her.
+
+Kongen kan gi forskrift om fylkeskommunens myndighet og gjøremål etter loven.
+
+Etter forespørsel fra kommunen kan Miljødirektoratet i enkeltsaker bestemme at kommunens myndighet som er tildelt etter første ledd, i stedet skal utøves av Miljødirektoratet eller statsforvalteren.
+
+> Opphevet ved lov [14 juni 1991 nr. 30](lov/1991-06-14-30), tilføyd ved lov [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+
+### § 83. (delegasjon av myndighet lagt til kommunen eller fylkeskommunen)
+
+Kommuneloven gjelder for kommunens og fylkeskommunens delegasjonsadgang.
+
+Når særlige hensyn taler for det, kan kommunestyret og fylkestinget delegere myndighet til å treffe enkeltvedtak til henholdsvis kommunale/interkommunale og fylkeskommunale/interfylkeskommunale selskaper.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [12 juni 1987 nr. 70](lov/1987-06-12-70), [17 mars 1989 nr. 11](lov/1989-03-17-11), [21 juni 1996 nr. 36](lov/1996-06-21-36).
+
+### § 84. (anmodning om å gjennomføre tiltak mot betydelige miljøskader eller overhengende fare for slike)
+
+Enhver kan anmode forurensningsmyndigheten om å treffe tiltak etter [§ 7](lov/1981-03-13-6/§7).
+
+Forurensningsmyndigheten har plikt til å vurdere en anmodning som er fremsatt av en fysisk eller juridisk person, som berøres eller ventes å bli berørt av betydelig miljøskade, eller som har tilstrekkelig interesse i saken. Anmodningen må underbygges med opplysninger som sannsynliggjør at det foreligger betydelig miljøskade i vann eller på land eller overhengende fare for slik skade.1
+
+Forurensningsmyndighetens avgjørelse på grunnlag av anmodning som nevnt i annet ledd er enkeltvedtak også dersom pålegg ikke gis.
+
+> Opphevet ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), tilføyd igjen ved [lov 14 juni 2013 nr. 52](lov/2013-06-14-52).
+
+### § 85. (forholdet til forvaltningsloven og tjenesteloven)
+
+[Forvaltningsloven](lov/1967-02-10) gjelder med de særlige bestemmelser som er gitt i loven her.
+
+Departementet er klageinstans over vedtak truffet av Miljødirektoratet. Miljødirektoratet er klageinstans over vedtak truffet av statsforvalteren. For vedtak truffet av kommunen gjelder [forvaltningsloven § 28](lov/1967-02-10/§28) annet ledd, med unntak av vedtak etter [§ 47](lov/1967-02-10/§47) hvor statsforvalteren er klageinstans. Departementet kan fastsette en annen klageinstans enn det som følger av dette ledd og hvem klage over vedtak truffet av privat rettssubjekt skal gå til.
+
+Forurensningsmyndigheten kan gi utfyllende forskrifter om saksbehandlingen av søknader etter [§ 11](lov/1981-03-13-6/§11), herunder om hvem søknaden skal forelegges for, kunngjøring av søknader og tillatelser og om betaling av kunngjøringen.
+
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for søknad om tillatelse etter [kap. 3](lov/1981-03-13-6/kap3), herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [12 juni 1987 nr. 70](lov/1987-06-12-70), [17 mars 1989 nr. 11](lov/1989-03-17-11), [14 juni 1991 nr. 30](lov/1991-06-14-30), [21 juni 1996 nr. 36](lov/1996-06-21-36), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [14 juni 2013 nr. 52](lov/2013-06-14-52), [14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013, delvis ikr., se § 89 med note), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## Kap. 12. Avsluttende bestemmelser.
+
+### § 86. (forholdet til eldre virksomheter)
+
+Loven gjelder også for virksomhet som er igangsatt før loven trer i kraft. Bestemmelsen i [§ 37](lov/1981-03-13-6/§37) om plikt til å rydde opp og fjerne avfall o.l. gjelder også ved overtredelse av gjerningsbeskrivelsen i [§ 28](lov/1981-03-13-6/§28) som har funnet sted før loven trer i kraft.
+
+Det er likevel ikke nødvendig å søke om ny tillatelse etter [§ 11](lov/1981-03-13-6/§11) for forurensning som er meddelt tillatelse etter [vassdragsloven 15. mars 1940 §§ 48](lov/1940-03-15-3/§48) og [49](lov/1940-03-15-3/§49), [granneloven 16. juni 1961 nr. 15 § 19](lov/1961-06-16-15/§19) eller [vannvernloven 26. juni 1970 nr. 75](lov/1970-06-26-75) § 6 eller § 10.
+
+Virksomhet som var igangsatt da loven her trådte i kraft og som ikke trengte tillatelse etter bestemmelsene nevnt i annet ledd, kan fortsette uten tillatelse etter [§ 11](lov/1981-03-13-6/§11), jfr. [§§ 7](lov/1981-03-13-6/§7) og [29](lov/1981-03-13-6/§29). Det samme gjelder virksomhet som er tillatt etter granneskjønn som i henhold til [grannelovens §§ 7](lov/1961-06-16-15/§7) og [8](lov/1961-06-16-15/§8) er holdt før loven trådte i kraft. Forurensningsmyndigheten kan likevel i forskrift eller enkeltvedtak bestemme at virksomhet nevnt i første og annet punktum er ulovlig etter en fastsatt frist, dersom virksomheten ikke har tillatelse etter [§ 11](lov/1961-06-16-15/§11).
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 87. (forholdet til vedtak truffet etter eldre lovgivning)
+
+Forskrifter eller enkeltvedtak fastsatt med hjemmel i lovbestemmelser som oppheves etter [§ 90](lov/1981-03-13-6/§90), står fortsatt ved lag inntil de blir endret eller opphevet i medhold av denne lov.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 88. (gjennomføringsbestemmelser)
+
+Departementet kan gi bestemmelser til utfylling og gjennomføring av denne lov, herunder om samarbeid mellom forurensningsmyndighetene og andre myndigheter.
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 89. (ikrafttreden)
+
+Loven trer i kraft1 fra den tid Kongen bestemmer. Deler av loven kan settes i kraft til forskjellige tider, også i forskjellige fylker og kommuner. I forbindelse med lovens ikrafttreden eller senere kan Kongen sette en frist for alle eller enkelte kommuner til å gjennomføre de plikter som loven pålegger kommunene. Det samme gjelder overfor vegstyresmaktene i forhold til [§ 36](lov/1981-03-13-6/§36).
+
+> Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+### § 90. (opphevelse av og endringer i andre lover)
+
+Når loven trer i kraft, gjøres følgende endringer i lovverket ellers: – – –

@@ -1,0 +1,30 @@
+---
+id: "sf-20260227-0309"
+slug: "endr-i-utlendingsforskriften-4"
+type: "forskrift"
+ref_id: "forskrift/2026-02-27-309"
+title: "Forskrift om endring i utlendingsforskriften (unntak fra gebyr for barn i visse tilfeller)"
+short_title: "Endr. i utlendingsforskriften"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2026-04-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "138c825c86a6c50840c2b92c4136f2725a989a90f12e32ff05db86644c4d2ead"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i utlendingsforskriften (unntak fra gebyr for barn i visse tilfeller)
+
+## I
+
+Bestemmelsene i første og annet ledd gjelder ikkesøknad om beskyttelse eller fornyelse av tillatelse til utlending som er innvilget beskyttelse,søknad som gjelder ektefelle eller samboer og forsørget barn av utlending tilknyttet diplomatiske eller lønte konsulære stasjoner (representasjoner) i riket, når slikt unntak følger av Norges folkerettslige forpliktelser. Unntaket gjelder også ektefelle eller samboer og forsørget barn av utlending som er hjelpepersonale ved slik stasjon,søknad som er fremsatt i henhold til [§ 8-3](forskrift/2009-10-15-1286/§8-3) og [§ 8-4](forskrift/2009-10-15-1286/§8-4) om oppholdstillatelse for utlendinger som antas å være utsatt for menneskehandel,søknad som gjelder oppholdstillatelse på selvstendig grunnlag etter lovens [§ 53](lov/2008-05-15-35/§53), og søknad fra barn under 18 år om familieinnvandring med slik referanseperson,søknad om tillatelse til å ta arbeid under behandling av søknad om beskyttelse, jf. lovens [§ 94](lov/2008-05-15-35/§94) og forskriftens [§ 17-26](forskrift/2009-10-15-1286/§17-26),søknad om tillatelse til utlending som skal utføre arbeid i forbindelse med en krisesituasjon, [jf. § 6-31](forskrift/2009-10-15-1286/§6-31),søknad om tillatelse til utlending som har vernet mot utsendelse etter lovens [§ 73](lov/2008-05-15-35/§73) som eneste oppholdsgrunnlag, jf. lovens [§ 74](lov/2008-05-15-35/§74),søknad som gjelder oppholdstillatelse etter [kapittel 6](forskrift/2009-10-15-1286/kap6) for å delta i Fulbright-programmet, og søknad fra familiemedlemmer som søker familiegjenforening med deltaker i dette programmet,søknad fra barn under 18 år om familieinnvandring med referanseperson som har tillatelse etter [§ 8-3](forskrift/2009-10-15-1286/§8-3), ellersøknad fra barn under 18 år om familieinnvandring med referanseperson som i vedtak av Utlendingsdirektoratet eller Utlendingsnemnda er ansett som et tidligere offer for menneskehandel.
+
+## II
+
+Endringen trer i kraft 1. april 2026.

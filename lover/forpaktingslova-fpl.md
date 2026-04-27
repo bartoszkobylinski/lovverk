@@ -1,0 +1,248 @@
+---
+id: "nl-19650625-001"
+slug: "forpaktingslova-fpl"
+type: "lov"
+ref_id: "lov/1965-06-25-1"
+title: "Lov om forpakting [forpaktingslova]"
+short_title: "Forpaktingslova – fpl"
+language: "nn"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "1966-01-01"
+last_change_in_force: "2021-06-01"
+last_updated: "2022-04-26"
+xml_hash: "13e190ce0a968559bce3f2405054c9a4c9a00aa76191fe378a4f5515b7eb02b7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om forpakting [forpaktingslova]
+
+## § 1. Omfanget av lova.
+
+Lova gjeld forpakting av eigedom, som skal nyttast til jordbruks- eller skogbruksproduksjon.
+
+Unntatt er:forpakting av eigedom som er mindre enn 5 dekar,forpakting i samband med arbeidsforhold når eigedomen er tillagt arbeidstakaren og inntekta av eigedomen utgjer den mindre delen av lønna,forpakting av eigedom som blir forvalta av militær styremakt,leigeforhold som går inn under [husleigelova](lov/1999-03-26-17),leige av jordbruksareal utan hus (rein jordleige).
+
+Dersom eigedomen skal nyttast til gartneri, forsøksfelt, undervisningsføremål eller liknande, kan departementet etter søknad gjere vedtak om at forpaktingsforholdet heilt eller delvis skal vere unntatt frå føresegnene i lova.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96), [21 juni 2017 nr. 99](lov/2017-06-21-99) (ikr. 1 sep 2017 iflg. [res. 21 juni 2017 nr. 829](forskrift/2017-06-21-829)).
+
+## § 2. Fråvik.
+
+Reglane i lova kan ikkje fråvikast ved avtale med mindre det klårt er sagt i lova.
+
+> Endra med [lov 19 juni 1969 nr. 54](lov/1969-06-19-54).
+
+## § 3. Skriftleg forpaktingsavtale.
+
+Forpaktingsavtale skal vere skriftleg. Det same gjeld endring av eller tillegg til slik avtale. Trass i kravet om skriftfesting blir munnleg avtale bindande for partane når forpaktinga er tiltrådt.
+
+Forpaktingsavtale skal innehalde spesifisert arealoppgåve over den forpakta eigedomen og elles utførlege opplysningar om kva for rettar og plikter avtalen omfattar.
+
+Kravet i første ledd om at avtalen skal vere skriftleg er ikkje til hinder for at avtalen kan gjerast ved bruk av eit elektronisk medium dersom partane er samde om det ogheile innhaldet i avtalen er tilgjengeleg for partane når avtalen vert gjort, ogdet er nytta ein trygg metode for å autentisere avtaleinngåinga og sikre innhaldet av avtala.
+
+> Endra med [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+## § 3 a. Bruk av elektronisk kommunikasjon mellom partane til forpaktingsavtalen
+
+Krav i denne lova om at oppseiing, heving, melding eller liknande skal gis skriftleg, er ikkje til hinder for bruk av elektronisk kommunikasjon dersom partane er samde om dette.
+
+> Føyd til med [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+## § 4. Forpaktingsavtale skal leggast fram for kommunen.
+
+Jordeigaren skal legge forpaktingsavtalen i original eller i rettkjend avskrift fram for kommunen innan ein månad etter at forpaktinga er tiltrådt.
+
+Inneheld avtalen føresegner som strir mot lova, skal kommunen snarast gje kvar av partane skriftleg melding om det. I brevet skal partane oppmodast til å gjere dei nødvendige endringar i avtalen og til å sende inn ny eller endra avtale til kommunen innan ein månad etter at brevet er motteke. Blir ny eller endra avtale ikkje sendt inn innan fristen er ute, gjer kommunen dei endringar i avtalen som trengst for å få han i samsvar med lova.
+
+Blir forpaktinga tiltrådt utan at det er gjort skriftleg avtale, skal jordeigaren innan ein månad etter tiltredinga gi kommunen skriftleg melding om det med nærare opplysningar om avtalen. Kommunen kan krevje tilsvarande opplysningar av forpaktaren. Kommunen skal snarast oppmode partane til å få i stand og sende inn skriftleg avtale. Føresegnene i andre leden gjeld på tilsvarande måte.
+
+Føresegnene ovanfor gjeld òg for seinare endringsavtale, likevel slik at fristen etter første leden og etter første punktum i tredje leden blir rekna frå det tidspunkt då avtalen blei inngått.
+
+Jordeigar som let vere å legge fram forpaktingsavtale eller melding om slik avtale i samsvar med første eller tredje leden, straffast med bøter. Det same gjeld om han let vere å sende inn endringsavtale eller melding om slik avtale, jfr. fjerde leden.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96).
+
+## § 5. Faredag.
+
+Om ikkje anna er avtala er faredag for tiltreding og fråtreding av forpakta eigedom den 14. april. Departementet kan fastsette ein annan faredag for einskilde fylke. Fell faredag etter reglane ovanfor på ein søndag eller helgedag, gjeld den følgjande dag som faredag.
+
+Fjorten dagar før tiltredingsdagen kan den tiltredande forpaktar krevje å få seg overlatt tilstrekkeleg lagringsplass for nødvendige driftsmiddel.
+
+## § 6. Forpaktingsavgifta.
+
+Forpaktingsavgifta må ikkje fastsettast på annan måte enn i pengar. Blir det handla i strid med denne føresegna, gjeld reglane i [§ 4](lov/1965-06-25-1/§4), andre leden. Blir partane ikkje samde om den pengesummen forpaktingsavgifta skal utgjere, blir summen fastsett av kommunen. Kommunen skal ved utrekninga så langt råd er verdsette naturalia og tenester etter vanleg pris i bygda.
+
+Dersom det ikkje er fastsett tid for betaling av forpaktingsavgifta, skal ho betalast seinast tre månader før utgangen av kvart forpaktingsår.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96).
+
+## § 7. Forpaktingstida.
+
+Forpaktingstida skal til vanleg ikkje vere kortare enn fem år. Når serlege grunnar talar for det, kan kommunen gje samtykke til kortare forpaktingstid.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96).
+
+## § 8. Oppseiing.
+
+Part som vil at forpaktinga skal slutte når forpaktingstida er ute, må gje den andre parten skriftleg oppseiing seinast eitt år før faredag og tidlegast to år før forpaktingstida er ute. Så lenge oppseing ikkje blir gjeve, blir forpaktinga forlenga med eitt år om gongen, dersom ikkje noko anna blir avtala.
+
+Er forpaktingstida ved lovleg skriftleg avtale sett til to år eller kortare, tek forpaktinga slutt utan oppseiing når denne tida er ute, dersom ikkje noko anna er avtala.
+
+## § 9. Framleige.
+
+Eigedom eller del av eigedom kan ikkje framleigast utan samtykke frå jordeigaren.
+
+For framleige av husvære eller rom på den forpakta eigedomen gjeld føresegnene i [husleigelova kapittel 7](lov/1999-03-26-17/kap7), jf. [§ 1-2](lov/1999-03-26-17/§1-2), tilsvarande.
+
+> Endra med [lov 24 mai 2019 nr. 18](lov/2019-05-24-18) (ikr. 1 juli 2019 iflg. [res. 24 mai 2019 nr. 673](forskrift/2019-05-24-673)).
+
+## § 10. Om forpaktaren døyr.
+
+Døyr forpaktaren i forpaktingstida, fell forpaktingsforholdet bort frå faredag året etter dødsfallet, såframt ikkje forholdet av annan grunn tar slutt tidlegare.
+
+Forpaktarens ektemake har rett til å tre inn i forpaktingsforholdet. Ektemake som vil nytte denne retten, må gje skriftleg melding om det til jordeigaren innan to månader etter dødsfallet.
+
+## § 11. Skjønn ved tiltreding og fråtreding.
+
+Det skal haldast skjønn til opplysning om kva tilstand eigedomen er i både når forpaktinga blir tiltrådt og når ho blir fratrådt.
+
+Har partane ikkje avtala noko anna, blir skjønnet halde av eit utval på tre medlemer som blir valt av kommunestyret. Skjønn som blir halde av dette utvalet, kan klagast til statsforvaltaren.
+
+Tiltredingsskjønnet bør ikke haldast tidlegare enn seks månader før, eller seinare enn tre månader etter tiltredinga, og fråtredingsskjønnet ikkje tidlegare enn seks månader før, eller seinare enn tre månader etter fråtredinga. Skjønnsmedlemene bør så langt råd er vere dei same ved dei to skjønna.
+
+Kommunen kan samtykke i at skjønn ikkje blir halde når det finst fullnøgjande opplysningar om den tilstand eigedomen er i. Det same gjeld når eigedomen er av lite verd eller kommunen av andre grunner finn at skjønn ikkje er nødvendig.
+
+Blir det ikkje halde skjønn over eigedomen, gjeld føresegnene ovanfor tilsvarande for takst som nemnt i [§ 12](lov/1965-06-25-1/§12), tredje leden.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 jan 2010 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## § 12. Skjønnsforretninga.
+
+Skjønn etter [§ 11](lov/1965-06-25-1/§11) skal haldast når marka høver for det. Leiaren av skjønnet fastset tid og stad for forretninga og kallar inn partane. Dersom ein part ikkje møter, og det er opplyst eller truleg at han har gyldig fråvere, skal forretninga til vanleg utsettast. Ho kan likevel fremjast dersom den som ikkje møter, har samtykt i det eller utsetting etter måten vil føre til vesentleg ulempe og det kan provast at han som ikkje møter er varsla om forretninga i tide.
+
+Skjønnsmedlemene skal gå over eigedomen og gi ei skriftleg utgreiing om dei einskilde jorde, gjerde, grøfter, vegar, bruer, vassleidningar m.m. Dei skal òg gje skriftleg utgreiing om forpaktarbustad eller husvære, driftsbygningar og andre bygningar eller innretningar som forpaktinga omfattar. Over skjønnsforretninga skal det utferdast eit dokument som blir underskrive av skjønnsmedlemene. Rettkjend utskrift av forretninga skal snarast sendast til kvar av partane.
+
+Vidare skal skjønnsmedlemene i tilfelle halde takst over buskap i samsvar med [§ 14](lov/1965-06-25-1/§14) og over reiskap i samsvar med [§ 15](lov/1965-06-25-1/§15).
+
+Dersom ikkje anna er avtala, skal utgifter ved skjønnsforretning delast likt mellom partane. Utgiftene er tvangsgrunnlag for utlegg.
+
+Kongen kan gi nærare reglar om skjønn etter denne lova.
+
+> Endra med [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## § 13. Bygningar.
+
+Jordeigar skal ved tiltredinga stille forpaktarbustad eller -husvære og driftsbygningar til rådvelde for forpaktaren i ordentleg og forsvarleg stand og elles i samsvar med avtalen.
+
+Dersom bygningane ikkje fyller krava etter første leden, skal tiltredingsskjønnet fastsette ein rimeleg frist for jordeigaren til å utbetre manglane. Blir manglane ikkje utbetra innan fristen, kan forpaktaren heve avtalen såframt manglane må seiast å vere vesentlege.
+
+Forpaktaren kan krevje ei rimeleg nedsetting av forpaktingsavgifta for tida inntil manglane er utbetra. Vidare kan han krevje skadebot, med mindre jordeigaren godtgjer at det på grunn av omstende som ikkje kan tilreknast han, har vore umogleg å overlevere bygningen i den stand som er nemnt i første leden.
+
+## § 14. Buskap.
+
+Dersom jordeigaren overlet forpaktaren buskap, skal han vere forplikta til å halde ein slik buskap på eigedomen. Buskapen skal til kvar tid så vidt råd er ha same realverde som den han overtok. Husdyra som blir sette i staden for dei forpaktaren overtok, skal tilhøyre jordeigaren.
+
+Forpaktaren er ansvarleg for skade som råkar buskapen ved hendeleg uhell.
+
+Både ved overtakinga og ved tilbakeleveringa skal det ved skjønn i samsvar med [§§ 11](lov/1965-06-25-1/§11) og 12 haldast takst over buskapen. Ved oppgjeret blir prisane på tilbakeleveringstida lagde til grunn. Har husdyrprisane endra seg i forpaktingstida, skal skjønnet først omrekne overtakingstaksten til dei prisar som gjeld ved tilbakeleveringa.
+
+Føresegnene i denne paragrafen gjeld ikkje om anna er avtala.
+
+## § 15. Reiskap.
+
+Dersom jordeigaren overlet forpaktaren reiskap, skal forpaktaren halde han godt vedlike og ta forsvarleg vare på han.
+
+Forpaktaren er ansvarleg for all verdmink av reiskapen, òg ved vanleg slit og elde og hendeleg uhell.
+
+Både ved overtakinga og ved tilbakeleveringa skal det ved skjønn i samsvar med [§§ 11](lov/1965-06-25-1/§11) og 12 haldast takst over reiskapen. Det skal ikkje takast omsyn til endringar av prisane i forpaktingstida.
+
+Føresegnene i denne paragrafen gjeld ikkje om anna er avtala.
+
+## § 16. Drift og vedlikehald av eigedomen.
+
+Forpaktaren skal drive jorda forsvarleg. Han skal på eigen kostnad utføre mindre reparasjonar på bygningar og ta vare på og halde ved like alt som høyrer til eigedomen og går inn under forpaktinga.
+
+Har forpaktaren ikkje oppfylt pliktene sine etter første leden, kan jordeigaren krevje vederlag ved fråtredinga.
+
+## § 17. Godtgjersle for jordbruksforbetringar.
+
+Har forpaktaren forbetra eigedomen – her medrekna bygningane – som jordbruk ved serlege tiltak utover forsvarleg drift og vedlikehald, kan han ved fråtredinga krevje ei rimeleg godtgjersle for dette av jordeigaren.
+
+Når godtgjersle blir fastsett, bør det takast rimeleg omsyn til den nytten som forpaktaren har hatt av tiltaket i forpaktingstida og den nytten som jordeigaren vil få av det. Vidare bør takast omsyn til om forpaktaren delvis har fått godtgjersle eller annan stønad i form av lågare forpaktingsavgift, materialar eller liknande.
+
+Ved tiltak av større omfang skal forpaktaren på førehand innhente samtykke frå jordeigaren. Avslår jordeigaren å gi samtykke eller tek han ikke standpunkt innan rimeleg tid, kan kommunen gje samtykke i jordeigarens stad. Vilkåret er at den finn tiltaket openbert forsvarleg og rimeleg, både ut frå ei driftsøkonomisk vurdering, ut frå tilhøvet mellom forpaktingstid og påkostnad, og ut frå ei vurdering av jordeigarens økonomiske evne og rettkomne interesser av yrkesmessig og anna slag. Kva som skal reknast for tiltak av større omfang, blir avgjort av kommunen i samband med at den handsamar søknad om samtykke.
+
+Har forpaktaren forsømt å innhente samtykke i samsvar med tredje leden, kan godtgjersle bare krevjast så langt samtykke ikkje var nødvendig.
+
+Kravet om godtgjersle må vere sett fram skriftleg før forpaktinga held opp å gjelde.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96).
+
+## § 18. Andre påkostnader.
+
+Bygning eller annan fast innretning som er oppført av forpaktaren til anna enn jordbruksføremål og som ikkje er teke bort innan tre månader etter at forpaktinga er slutt, tilfell jordeigaren. Jordeigaren kan i tilfelle rydde grunnen på forpaktarens kostnad. Forpaktaren er ansvarleg for skade han måtte påføre eigedomen ved flytting som nemnt i første punktum.
+
+Føresegnene i første leden gjeld så langt ikkje anna følgjer av avtala.
+
+## § 19. Gjødsel og stråfor.
+
+Utan samtykke frå jordeigaren kan forpaktaren ikkje føre bort gjødsel frå eigedomen.
+
+Når forpaktinga held opp å gjelde skal det vere nok stråfor att til å fø buskapen på eigedomen til han kjem på beite. Forpaktaren har krav på vanleg pris for stråfor som han overlet jordeigaren når forpaktinga held opp å gjelde.
+
+## § 20. Synfaring av eigedomen.
+
+Vil eigaren sjå over eigedomen for å få visse for at den blir driven i samsvar med avtalen og reglane i [§ 16](lov/1965-06-25-1/§16) skal han varsle forpaktaren i rimeleg tid før synfaringa.
+
+## § 21. Jordeigarens ansvar for urette oppgåver.
+
+Har jordeigaren i forpaktingsavtalen oppgjeve at eigedomen er større enn han er, eller gjeve anna urett opplysning om eigedomen og det som høyrer til han, kan forpaktaren på grunnlag av mangelen krevje ei rimeleg nedsetting av forpaktingsavgifta eller i tilfelle heve avtalen. Må mangelen reknast for uvesentlig, har forpaktaren likevel ikkje rett til å heve avtalen, med mindre jordeigaren har fare med svik.
+
+Må ein eigenskap reknast for å vere tilsikra, eller har jordeigaren fare med svik, kan forpaktaren krevje skadebot. Skadebot kan likevel ikkje krevjast dersom jordeigaren godtgjer at det på grunn av oppståtte forhold som ikkje kan tilreknast han, har vore umogleg å overlevere eigedomen i avtala stand.
+
+## § 22. Naturskade.
+
+Blir eigedomen skadd ved skred, storm, flom, stormflo eller anna naturulykke, kan forpaktaren krevje ei rimeleg nedsetting av forpaktingsavgifta. Han kan òg heve avtalen såframt skaden ikkje må reknast som uvesentleg.
+
+## § 23. Brann i forpaktingstida.
+
+Blir bygning som ikkje utan ulempe kan unnverast, øydelagd av brann, kan forpaktaren krevje ei rimeleg nedsetting av forpaktingsavgifta for den tid bygningen er ubrukeleg. Dersom jordeigaren ikkje set opp ny bygning eller utbetrar skaden innan rimeleg tid, kan forpaktaren heve avtalen, såframt ulempa ikkje er uvesentleg.
+
+Føresegnene i første leden gjeld ikkje dersom forpaktaren eller nokon i hans husstand eller nokon han svarar for, er skuld i brannen.
+
+## § 24. Pant eller kausjon.
+
+Er det stilt pant eller kausjon for oppfylling av forpaktingsavtalen, og blir trygda forringa, er forpaktaren når jordeigaren krev det, pliktig til å stille ny tilfredsstillande trygd. Gjer han ikkje det innan tre månader, kan jordeigaren heve avtalen og krevje skadebot.
+
+## § 25. Arbeidsplikt og leveringsplikt.
+
+Reglane i [§ 6](lov/1965-06-25-1/§6) er ikkje til hinder for at partane kan gjere avtale om arbeidsplikt eller leveringsplikt i samband med eller som vilkår for forpaktingsavtale. Slik avtale er likevel ikkje gyldig utan kommunen si godkjenning.
+
+> Endra med [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96).
+
+## § 26. Tap av forpaktingsretten.
+
+Jordeigaren kan heve forpaktingsavtalen når forpaktarentrass i påkrav ikkje har betalt forpaktingsavgifta innan tre månader etter forfallsdag,vanrøktar eigedomen eller trass i åtvaring misheld pliktene sine etter [§ 14](lov/1965-06-25-1/§14) eller [§ 15](lov/1965-06-25-1/§15) med omsyn til buskap eller reiskap,utan samtykke nyttar eigedomen til anna føremål enn føresetnaden etter avtalen,framleiger husvære i strid med [§ 9](lov/1965-06-25-1/§9),fører bort gjødsel i strid med [§ 19](lov/1965-06-25-1/§19),gjer hærverk på eller driv ulovleg jakt eller fiske på eigedomen eller annan eigedom som høyrer jordeigaren til,misheld avtaleføresegner som er vesentlege.
+
+Jordeigaren har likevel ikkje rett til å heve avtalen dersom mishaldinga må reknast som uvesentleg.
+
+## § 27. Frist for heving av forpaktingsavtale.
+
+Forpaktarens rett til å heve avtalen i dei tilfelle som er nemnd i [§§ 13](lov/1965-06-25-1/§13) andre leden, 21, 22 og 23 fell bort dersom han ikkje har gjort bruk av retten innan rimeleg tid. Forpaktaren kan ikkje heve avtalen etter at mangelen er retta.
+
+Har forpaktaren i tilfelle som nevnt i [§ 26](lov/1965-06-25-1/§26), første leden nr. 1, 2 eller 3, retta forholdet før jordeigaren har heve avtalen, kan jordeigaren ikkje sidan nytte dette forholdet som grunn til å heve avtalen. Det same gjeld dersom jordeigaren i tilfelle som nemnt i [§ 26](lov/1965-06-25-1/§26), første leden nr. 4, 5, 6 eller 7 ikkje har heve avtalen innan seks månader etter at han fekk kjennskap til forholdet.
+
+## § 28. Skriftleg heving.
+
+Heving av forpaktingsavtalen får ikkje rettsverknad utan at ho er skriftleg og grunngitt.
+
+## § 29. Ikraftsetting av lova. Oppheving av gjeldande lover, lovføresegner og forordningar.
+
+Denne lova tek til å gjelde frå den tid Kongen fastset.1 Lova gjeld ikkje for forpaktingsavtale som er inngått før ho tar til å gjelde.
+
+Frå same tid blir sette ut av kraft: – – –

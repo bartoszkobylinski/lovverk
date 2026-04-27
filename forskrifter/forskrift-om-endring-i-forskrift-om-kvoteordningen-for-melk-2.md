@@ -1,0 +1,32 @@
+---
+id: "sf-20251217-2623"
+slug: "forskrift-om-endring-i-forskrift-om-kvoteordningen-for-melk-2"
+type: "forskrift"
+ref_id: "forskrift/2025-12-17-2623"
+title: "Forskrift om endring i forskrift om kvoteordningen for melk"
+short_title: null
+language: "nb"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "2933328367eacc8ede57e7ac82faf64cf470dd667e5bdbb34d3e740728fa5db5"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om kvoteordningen for melk
+
+## I
+
+Foretakets disponible kvote i et enkelt kvoteår utgjør grunnkvote multiplisert med forholdstall for disponibel kvote på 1,01 for kumelkkvote og 1,00 for geitemelkkvote.
+
+Disponibel kvote for et enkelt foretak eller fra en enkelt landbrukseiendom kan ikke overstige 707 000 liter kumelk eller 350 000 liter geitemelk, med mindre foretaket har en større historisk leveringsrett etter [§ 5](forskrift/2011-12-23-1502/§5) eller [§ 5a](lov/1936-07-10-6/§5a).
+
+## II
+
+Endringene trer i kraft 1. januar 2026.

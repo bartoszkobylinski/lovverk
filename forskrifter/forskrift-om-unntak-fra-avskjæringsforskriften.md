@@ -1,0 +1,34 @@
+---
+id: "sf-20070608-0587"
+slug: "forskrift-om-unntak-fra-avskjæringsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2007-06-08-587"
+title: "Forskrift om unntak fra forskrift om bortfall av rett til dekning av utgifter til helsetjenester mv. på grunn av gjensidighetsavtale med annet land."
+short_title: "Forskrift om unntak fra avskjæringsforskriften"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2007-06-08"
+last_change_in_force: null
+last_updated: null
+xml_hash: "1d4eadc99accb137f51eaa6b3ad7c120d7539b63d78d2f93f97017e87928fb09"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om unntak fra forskrift om bortfall av rett til dekning av utgifter til helsetjenester mv. på grunn av gjensidighetsavtale med annet land.
+
+## § 1. Generelle unntak fra avskjæring
+
+Forskrift om bortfall av rett til dekning av utgifter til helsetjenester mv. på grunn av gjensidighetsavtale med annet land (heretter kalt avskjæringsforskriften) skal ikke gjelde for helsetjenester mv. gitt i følgende land:BulgariaEstlandDen tsjekkiske republikkHellasItaliaKyprosLatviaLitauenMaltaPolenRomaniaSlovakiaSloveniaUngarn.
+
+## § 2. Særlige unntak fra avskjæring
+
+Personer som før 1. januar 1994 er blitt innlagt i en helseinstitusjon i et avtaleland for folketrygdens regning, skal være unntatt fra bestemmelsene i avskjæringsforskriften inntil vedkommende blir innplassert i en institusjon der oppholdsutgiftene dekkes etter avtalelandets lovgivning. Unntaket er begrenset til dekning av institusjonsoppholdet.
+
+## § 3. Ikrafttredelse mv.
+
+Forskriften trer i kraft straks. Fra samme tid oppheves [forskrift 11. mai 2004 nr. 737](forskrift/2004-05-11-737) om unntak fra forskrift om bortfall av rett til dekning av utgifter til helsetjenester mv. på grunn av gjensidighetsavtale med annet land.

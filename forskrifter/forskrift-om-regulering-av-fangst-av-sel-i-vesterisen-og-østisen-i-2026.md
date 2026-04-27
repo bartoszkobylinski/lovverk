@@ -1,0 +1,74 @@
+---
+id: "sf-20260312-0398"
+slug: "forskrift-om-regulering-av-fangst-av-sel-i-vesterisen-og-østisen-i-2026"
+type: "forskrift"
+ref_id: "forskrift/2026-03-12-398"
+title: "Forskrift om regulering av fangst av sel i Vesterisen og Østisen i 2026"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-03-12"
+last_change_in_force: null
+last_updated: null
+xml_hash: "37c3d702c9abb15af6beddfe3a64ef514a6922da4d0c9486660d3277b3d19d59"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om regulering av fangst av sel i Vesterisen og Østisen i 2026
+
+## § 1. Virkeområde
+
+Forskriften gjelder fangst av sel i Vesterisen og Østisen.
+
+Med Vesterisen forstås drivisområdene i fiskerisonen ved Jan Mayen og i havområdene ved Jan Mayen utenfor Grønlands økonomiske sone og sørvest av Svalbard, og i tilgrensende områder i Grønlands økonomiske sone og Islands økonomiske sone.
+
+Med Østisen forstås områdene øst for 20 grader Ø i Russlands økonomiske sone.
+
+## § 2. Forbud
+
+Det er forbudt for norske fartøy å drive selfangst i Vesterisen og Østisen.
+
+## § 3. Totalkvoter
+
+Uten hensyn til forbudet i [§ 2](forskrift/2026-03-12-398/§2) kan norske fartøy som har fått tillatelse til å fange sel, fange inntil 8 935 grønlandssel i Vesterisen.
+
+## § 4. Definisjoner
+
+Med selunge forstås sel som er yngre enn ett år gammel. Dyr som er eldre anses som voksne. En unge av grønlandssel anses som diende før 10. april.
+
+## § 5. Fangstforbud
+
+Det er forbudt å drive fangst av diende unger av grønlandssel i Vesterisen og Østisen. Det er forbudt å drive fangst av hunner i kastelegrene i Vesterisen og Østisen.
+
+## § 6. Fangstperiode
+
+Det er forbudt å drive fangst av grønlandssel i Vesterisen før 10. april. Fra 1. april er det likevel tillatt å drive fangst av ett år og eldre grønlandssel, forutsatt at fangsten foregår utenom kastelegrene.
+
+Fangst i Vesterisen må avsluttes 30. juni.
+
+## § 7. Rapportering
+
+Uten hinder av [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektroniskrapportering for norske fiske- og fangstfartøy § 2](forskrift/2009-12-21-1743/§2), skal fartøy som deltar i selfangst føre papirdagbok utstedt av Fiskeridirektoratet.
+
+Fangstdagboken skal umiddelbart etter avsluttet tur sendes til Fiskeridirektoratet.
+
+## § 8. Kontroll og observasjon
+
+Fartøy som får tillatelse til å delta i fangst kan pålegges å ha inspektør om bord under fangsten.
+
+## § 9. Bemyndigelse
+
+Fiskeridirektoratet kan endre denne forskriften og fastsette nærmere bestemmelser som er nødvendige for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av fangsten.
+
+## § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften straffes i henhold til [havressurslova § 60](lov/2008-06-06-37/§60), [§ 61](lov/2008-06-06-37/§61), [§ 62](lov/2008-06-06-37/§62), [§ 64](lov/2008-06-06-37/§64) og [§ 65](lov/2008-06-06-37/§65).
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft straks og gjelder til og med 31. desember 2026.

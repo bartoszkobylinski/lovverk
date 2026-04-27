@@ -1,0 +1,126 @@
+---
+id: "sf-20150622-0752"
+slug: "forskrift-om-floghavre"
+type: "forskrift"
+ref_id: "forskrift/2015-06-22-752"
+title: "Forskrift om floghavre"
+short_title: "Forskrift om floghavre"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2015-10-01"
+last_change_in_force: "2020-07-01"
+last_updated: "2015-08-04"
+xml_hash: "b76e92dd9eefa114bfa4fa47e515c7f481241599998202bb4af703de0b7edca9"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om floghavre
+
+## § 1. Formål
+
+Formålet med denne forskriften er å sikre bekjempelse og hindre spredning av floghavre.
+
+## § 2. Virkeområde
+
+Forskriften retter seg mot eiere og driftsansvarlige for landbrukseiendommer og ansvarlige for areal som grenser mot dyrka mark på naboeiendom, veier og åpne vannveier. Forskriften retter seg også mot alle som importerer, omsetter, transporterer, lagrer, tørker og emballerer produkter som inneholder eller kan inneholde floghavre. Videre retter forskriften seg mot ansvarlige for landbruksmaskiner og annet utstyr i landbruket, og anleggsmaskiner som er benyttet på areal med mulig forekomst av floghavre.
+
+I denne forskriften forstås med floghavre planter, plantedeler og frø av *Avena fatua* L.
+
+## § 3. Meldeplikt
+
+Den driftsansvarlige for landbrukseiendom skal straks melde fra til kommunen ved kjennskap til eller mistanke om at det finnes floghavre på eiendommen. Meldingen skal følges av en planteprøve. Kommunen videresender planteprøven til det laboratoriet som Mattilsynet har bestemt. Laboratoriet sender analyseresultatet til Mattilsynet.
+
+## § 4. Registrering i offentlig register
+
+Landbrukseiendommer hvor det påvises floghavre, skal registreres i et offentlig register. Mattilsynet er ansvarlig for registreringen.
+
+## § 5. Opplysningsplikt
+
+Den som overdrar driftsansvar for landbrukseiendom hvor det er floghavre, skal gi skriftlig melding til ny eier eller driftsansvarlig om floghavreforekomsten.
+
+Den som overtar driftsansvar for landbrukseiendom og driver andre eiendommer hvor det er floghavre, skal gi skriftlig melding om dette til den som overdrar driftsansvaret.
+
+## § 6. Plikt til kontroll
+
+Den driftsansvarlige for landbrukseiendom skal sørge for årlig floghavrekontroll på all dyrket jord unntatt flerårig eng.
+
+## § 7. Plikt til bekjempelse
+
+Den driftsansvarlige for landbrukseiendom skal bekjempe floghavren på hele eiendommen. Luket floghavre skal destrueres slik at floghavren ikke kan spres.
+
+Den som er ansvarlig for areal som grenser mot dyrka mark på naboeiendom, veier og åpne vannveier, skal holde et 20 meter bredt belte inntil denne grensen, helt fritt for frøbærende floghavreplanter. Tilsvarende plikt gjelder for arealer som er utsatt for flom.
+
+## § 8. Forbud mot og vilkår for import og omsetning
+
+Det er forbudt å importere floghavre og produkter som inneholder floghavre, med unntak av import av korn, oljefrø og erter til en virksomhet som i sin videre behandling av produktet, ødelegger spireevnen hos floghavre.
+
+Det er forbudt å omsette floghavre, og avlinger og produkter som inneholder floghavre, med unntak av omsetning til en virksomhet som i sin videre behandling ødelegger spireevnen hos floghavre.
+
+Det er forbudt å omsette lo, julenek, halm, frøhalm, korn- og frøavrens, husdyrgjødsel, kompost, jord og planter med jord fra eiendom hvor det er floghavre, med unntak av produkter som er behandlet slik at spireevnen til eventuell floghavre er ødelagt, eller til en virksomhet som i sin videre behandling av produktet, ødelegger spireevnen hos floghavre.
+
+## § 9. Plikt til å rengjøre maskiner, utstyr, lagerrom, tørke, transportmidler og emballasje
+
+Landbruksmaskiner og annet utstyr som har vært brukt på arealer med mulig forekomst av floghavre eller til produkter som kan inneholde floghavre, skal rengjøres grundig før de flyttes til annen landbrukseiendom eller omsettes.
+
+Lagerrom eller tørker som har vært brukt til produkter som kan inneholde floghavre, skal rengjøres før behandling av ny vare.
+
+Transportmidler som har vært brukt til transport av produkter som kan inneholde floghavre, skal rengjøres etter bruk.
+
+All emballasje som har vært brukt til produkter som kan inneholde floghavre eller avfall fra disse produktene, skal rengjøres slik at mulig floghavre fjernes før den tas i bruk på nytt.
+
+Anleggsmaskiner som har vært brukt på områder med mulig forekomst av floghavre, skal rengjøres etter bruk.
+
+## § 10. Krav ved transport av produkter som kan inneholde floghavre
+
+Transport av produkter som kan inneholde floghavre, skal skje på en slik måte at spill ikke skal forekomme. Innenfor samme driftsenhet gjelder denne bestemmelsen bare når transporten foregår langs eller over annen driftsenhet.
+
+## § 11. Krav til leierenserier for såvarer og anlegg som mottar korn, erter eller frø
+
+Avrens og avfall fra leierenserier for såvarer og anlegg som mottar korn, erter eller frø, skal destrueres slik at spireevnen i mulig floghavre ødelegges, eller deponeres på en slik måte at floghavre ikke kan spres.
+
+Maskiner og annet utstyr skal rengjøres etter leierensing av korn, oljevekster, bladfaks, engsvingel, strandsvingel, raigras og raisvingel før arbeidet med vare fra annen produsent påbegynnes.
+
+> Endret ved [forskrift 26 juni 2020 nr. 1419](forskrift/2020-06-26-1419) (i kraft 1 juli 2020).
+
+## § 12. Krav til virksomheter som produserer eller importerer fôr
+
+Korn, erter og frø som skal brukes til fôr, skal før omsetning enten være:så fint malt eller blitt behandlet på annen måte slik at spireevnen i eventuell floghavre er ødelagt ellerprøvetatt og ved analyse funnet å være fri for floghavre. Det skal tas ut en representativ prøve på 1 kg pr. 10 tonn. For partier mindre enn 10 tonn, skal prøven være på 1 kg. I fôr til villfugler skal det tas ut en prøve på 1 kg pr. 25 tonn. For partier mindre enn 25 tonn, skal prøven være på 1 kg.
+
+Bestemmelsen gjelder ikke fôr til selskapsdyr.
+
+## § 13. Fjerning av landbrukseiendom fra det offentlige registeret
+
+Når den driftsansvarlige for landbrukseiendom mener å ha utryddet tidligere påvist floghavre, kan vedkommende varsle kommunen og be om offentlig kontroll av eiendommen det påfølgende året.
+
+Dersom det ved offentlig kontroll i vekstsesongen, i to år på rad, ikke blir funnet floghavre, skal eiendommen fjernes fra det offentlige registeret.
+
+Mattilsynet kan delegere myndighet til å utføre offentlig kontroll det første året til kommunen, men utfører selv offentlig kontroll det andre året. Som offentlig kontroll regnes også kontroll etter [forskrift 13. september 1999 nr. 1052](forskrift/1999-09-13-1052) om såvarer [§ 10](forskrift/1999-09-13-1052/§10).
+
+## § 14. Vilkår for fjerning fra det offentlige registeret
+
+For å kunne fjernes fra det offentlige registeret skal hele eiendommen være fri for floghavre.
+
+I de to årene som det pågår kontroll, skal det på areal der floghavre er funnet, dyrkes en lett kontrollerbar vekst (vårbygg eller vårhvete) eller ha vært sammenhengende grasproduksjon i drift de siste 10 årene. Med areal menes her området nærmere enn 100 meter fra stedet der floghavren er funnet. Hvis deler av området er naturlig avgrenset av vei, skog, bekk, eiendomsgrense eller lignende, regnes områdene utenfor avgrensningen ikke som en del av arealet.
+
+I de to årene som det pågår kontroll, kan arealene ikke behandles med plantevernmidler som virker mot floghavre.
+
+## § 15. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. [matloven § 23](lov/2003-12-19-124/§23), for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til [matloven § 24](lov/2003-12-19-124/§24) til [§ 26](lov/2003-12-19-124/§26).
+
+## § 16. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+## § 17. Dispensasjon
+
+Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+## § 18. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. oktober 2015. Samtidig oppheves [forskrift 25. mars 1988 nr. 251](forskrift/1988-03-25-251) om floghavre.

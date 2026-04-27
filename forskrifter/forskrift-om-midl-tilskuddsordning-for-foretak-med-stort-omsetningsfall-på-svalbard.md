@@ -1,0 +1,32 @@
+---
+id: "sf-20200417-0810"
+slug: "forskrift-om-midl-tilskuddsordning-for-foretak-med-stort-omsetningsfall-på-svalbard"
+type: "forskrift"
+ref_id: "forskrift/2020-04-17-810"
+title: "Forskrift om midlertidig tilskuddsordning for foretak med stort omsetningsfall på Svalbard"
+short_title: "Forskrift om midl. tilskuddsordning for foretak med stort omsetningsfall på Svalbard"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2020-04-17"
+last_change_in_force: null
+last_updated: null
+xml_hash: "cb9bbcf7a9e3746c1595037b80454a08e35e0c092767a8ac87fe65be63ee3813"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om midlertidig tilskuddsordning for foretak med stort omsetningsfall på Svalbard
+
+## § 1. Tilskuddsordning for Svalbard
+
+(1) [Lov 17. april 2020 nr. 23](lov/2020-04-17-23) om midlertidig tilskuddsordning for foretak med stort omsetningsfall gis anvendelse for Svalbard på vilkår som fastsettes av departementet.
+
+(2) Departementet kan gi nærmere regler om gjennomføring av tilskuddsordningen på Svalbard.
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.

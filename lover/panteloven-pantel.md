@@ -1,0 +1,820 @@
+---
+id: "nl-19800208-002"
+slug: "panteloven-pantel"
+type: "lov"
+ref_id: "lov/1980-02-08-2"
+title: "Lov om pant (panteloven)"
+short_title: "Panteloven – pantel"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1981-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2022-04-25"
+xml_hash: "37cc369ec87fc8f3aec9a8773fa5ccda63a6680d5d82e9cac819400be69706ed"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om pant (panteloven)
+
+## Kap. 1. Alminnelige bestemmelser.
+
+### § 1-1. Definisjoner.
+
+(1) Med panterett menes en særrett til å søke dekning for et krav (pantekravet) i ett eller flere bestemte formuesgoder (pantet).
+
+(2) Med underpant menes en panterett hvor rådigheten over pantet ikke blir fratatt eieren.
+
+(3) Med håndpant menes en panterett hvor rådigheten over pantet blir fratatt eieren.
+
+(4) Med realregister menes grunnbok, skipsregister (herunder Norsk Internasjonalt Skipsregister), luftfartøyregister og lignende rettighetsregister ordnet etter de formuesgoder som rettigheten gjelder. Verdipapirregistre og Løsøreregisterets motorvognregister regnes ikke som realregistre.
+
+(5) Med Løsøreregister menes Landsregisteret for rettigheter i løsøre.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)).
+
+### § 1-2. Fravikelighet. Forholdet til annen lovgivning.
+
+(1) Reglene i denne lov kan fravikes ved avtale med mindre annet er bestemt eller fremgår av sammenhengen.
+
+(2) Ved avtale kan panterett bare stiftes rettsgyldig hvor dette er hjemlet i denne lov eller i annen lovbestemmelse.
+
+(3) Denne lov står tilbake for bestemmelser om pant i andre lover.
+
+(4) At en panterett får rettsvern etter denne lov, er ikke til hinder for rettsvinning etter [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre, med mindre annet er uttrykkelig bestemt i lov.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-3. Adgangen til å pantsette.
+
+(1) Panterett kan ikke rettsgyldig heftes under ett på alt det noen eier eller kommer til å eie.
+
+(2) Når en rett ikke kan avhendes, eller bare kan avhendes på visse vilkår, gjelder samme begrensning med hensyn til adgangen til å pantsette retten.
+
+(3) Panterett i en ideell del kan bare stiftes når panteretten omfatter all rett vedkommende eier har til formuesgodet.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-4. Angivelse av pantekravet.
+
+(1) En panterett får bare rettsvern når det er fastsatt et bestemt beløp eller et høyeste beløp for pantekravet, hvis ikke annet følger av denne lov. Dette er likevel ikke til hinder for rettsvern for tilleggskrav som nevnt i [§ 1-5](lov/1980-02-08-2/§1-5).
+
+(2) Beløpet skal være angitt i norske penger eller i utenlandske penger som til vanlig har børskurs i Norge.
+
+> Endret ved [lover 16 juni 1989 nr. 52](lov/1989-06-16-52), [26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-5. Panterett for tilleggskrav.
+
+Når ikke annet følger av stiftelsesgrunnlaget for panteretten, omfatter panteretten også følgende tilleggskrav:omkostninger ved inndrivelse av pantekravet,renter som er opptjent senere enn to år før en panthaver begjærer tvangsdekning, forutsatt at dekning gjennomføres, eller senere enn to år før det åpnes gjeldsforhandling etter konkursloven eller gjeldsordningsloven, eller konkurs hos eieren.grunnbyrdeytelse som er forfalt senere enn to år før tidspunkt som angitt under bokstav b,premie for brannforsikring og annen vanlig tingsskadeforsikring for senere enn ett år før det tidspunkt som er angitt under bokstav b, når panthaveren har betalt premien for eieren, ognødvendige utgifter til bevaring av og tilsyn med pantet, når panthaver har dekket slike utgifter under en konkurs etter avtale med bostyreren.
+
+Panteretten etter første ledd bokstav b for renter opptjent senere enn to år før det er åpnet gjeldsforhandling etter gjeldsordningsloven hos eieren består inntil to år etter at gjeldsordningsperioden er utløpt. Dersom panthaver begjærer tvangsdekning i gjeldsordningsperioden, eller etter opphevelse av en gjeldsordning, omfatter panteretten både renter opptjent senere enn to år før det ble åpnet gjeldsforhandling, og renter opptjent senere enn to år før begjæringen om tvangsdekning, forutsatt at dekning gjennomføres.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+
+### § 1-6. Avkastning av pantet.
+
+(1) Ved underpant har eieren rett til avkastning av pantet.
+
+(2) Den som har pant i verdipapirer, finansielle instrumenter registrert i et verdipapirregister, innløsningspapirer, aksjer eller enkle pengekrav, kan kreve og motta renter, utbytte og avdrag som forfaller mens panteretten består. De beløp som panthaveren mottar, kan han bruke til dekning av forfalte renter av pantekravet og forfalte deler av hovedstolen. Overskytende beløp kan eieren kreve å få utbetalt av panthaveren. Skal det pantsatte papir eller krav innløses, kan panthaveren motta og beholde innløsningssummen i den utstrekning dette er nødvendig til sikring også av de uforfalte deler av pantekravet. Panterett i aksjer omfatter også fondsaksjer (friaksjer).
+
+(3) Ved namsutlegg i verdipapirer, innløsningspapirer eller enkle pengekrav skal avdrag og renter betales til namsmannen. Både saksøkeren og saksøkte kan foreta det som trengs for å holde kravet i kraft. Første punktum gjelder tilsvarende ved hel innfrielse av kravet.
+
+(4) Annet ledd gjør ingen endring i [lov av 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler [§ 15-8](lov/1989-06-16-69/§15-8) første ledd tredje punktum.
+
+> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [16 juni 1989 nr. 69](lov/1989-06-16-69), [26 juni 1992 nr. 86](lov/1992-06-26-86), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)).
+
+### § 1-7. Bruksrett, vedlikeholds- og forsikringsplikt.
+
+(1) Ved underpant har eieren rett til å bruke pantet på vanlig måte med mindre annet er avtalt, eller bestemt for utlegg eller for øvrig i medhold av lov.
+
+(2) Ved underpant plikter pantsetteren å sørge for forsvarlig stell og vedlikehold av pantet, slik at panthaverens sikkerhet ikke blir redusert.
+
+(3) Hvis håndpantsatt løsøre er overlevert til panthaveren, plikter han å sørge for slikt tilsyn med og stell av pantet som forholdene krever. Han har ikke rett til å bruke pantet for egne formål med mindre slik bruksrett er avtalt eller følger av annet rettsgrunnlag.
+
+(4) Ved avtalepant i fast eiendom, driftstilbehør eller varelager plikter pantsetteren å holde pantet forsikret mot brann og annen tingsskade i den utstrekning dette er vanlig.
+
+### § 1-8. Risiko og ansvar for tap av eller skade på pantet.
+
+(1) Hvis pantet går tapt eller blir skadet ved en tilfeldig hendelse, bærer eieren sitt tap og panthaveren tapet i pantesikkerhet.
+
+(2) Eieren og panthaveren blir bare erstatningsansvarlig overfor hverandre hvor dette følger av alminnelige erstatningsregler eller særlig rettsgrunnlag.
+
+### § 1-9. Forfall.
+
+(1) Foruten til vanlig forfallstid kan panthaveren kreve at pantekravet blir innfriddnår plikten til å betale renter og avdrag blir vesentlig misligholdt,når pantet blir tvangssolgt,når det blir åpnet gjeldsforhandling eller konkurs hos skyldneren eller hos pantets eier,når eieren eller pantsetteren vesentlig misbruker sin råderett over pantet eller forøvrig vesentlig forsømmer sine plikter etter [§ 1-7](lov/1980-02-08-2/§1-7),når pantet går tapt eller blir skadet ved en tilfeldig begivenhet, og dette medfører at pantesikkerheten blir vesentlig forminsket.
+
+(2) Krav om innfrielse etter første ledd bokstav c gir ikke rett til å kreve forsinkelsesrente.
+
+(3) Før innfrielse kan kreves etter reglene i første ledd bokstav d eller e, skal panthaveren gi eieren og pantsetteren varsel med en rimelig frist til å rette på forholdet, dersom det ikke er forbundet med fare å vente.
+
+> Endret ved [lover 4 mars 1983 nr. 4](lov/1983-03-04-4), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+
+### § 1-10. Avhendelse og pantsettelse av panterett.
+
+(1) Panthaveren har i forhold til eieren rett til å avhende panteretten og til å frempantsette den, når ikke annet er avtalt eller fremgår av forholdet.
+
+(2) Kan det krav som skal sikres, ikke avhendes, gjelder det samme for panteretten.
+
+(3) Erververen eller frempanthaveren får ikke større rett i forhold til pantets eier enn panthaveren selv hadde, med mindre annet følger av reglene om rettserverv i god tro.
+
+### § 1-11. Avhendelse av pantet m.v.
+
+(1) Panterett er ikke til hinder for at pantet blir avhendet, såfremt annet ikke følger av avtale. Særskilt avhendelse av deler av et panteobjekt eller av tilbehør kan bare skje med samtykke fra panthaveren, med mindre slik avhendelse åpenbart er uten betydning for panthaverens sikkerhet. Bestemmelsene i første og annet punktum gjelder tilsvarende for andre frivillige rettsstiftelser enn avhendelse.
+
+(2) Om adgangen til avhendelse av driftstilbehør og varelager som er pantsatt slik det til enhver tid er, gjelder [§§ 3-7](lov/1980-02-08-2/§3-7) og [3-13](lov/1980-02-08-2/§3-13). Bestemmelsene gjelder tilsvarende ved utleggspant og lovbestemt pant i slike formuesgoder. Om avhendelse av salgspantbeheftet løsøre gjelder [§ 3-16](lov/1980-02-08-2/§3-16).
+
+(3) Ved underpant i annet løsøre som ikke er realregistrert, kan løsøret ikke avhendes uten samtykke fra panthaveren. Tilsvarende gjelder andre frivillige disposisjoner enn avhendelse, unntatt stiftelse av ytterligere underpant. Ved namsutlegg kan samtykket i stedet gis av namsmannen.
+
+(4) Panterett i fast eiendom som erverves av stat, statsforetak, fylkeskommune eller kommune til veg- eller jernbaneformål, faller bort ved ervervet. Bestemmelsen i første ledd annet punktum gjelder tilsvarende også ved erverv av helt panteobjekt. Dersom gjenværende eiendom ikke gir full sikkerhet, skal vedkommende myndighet sørge for at panthaveren får sin del av kjøpesummen før eieren.
+
+> Endret ved [lover 5 juni 1981 nr. 50](lov/1981-06-05-50) (nytt fjerde ledd), [26 juni 1992 nr. 86](lov/1992-06-26-86), [16 des 2016 nr. 101](lov/2016-12-16-101) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1591](forskrift/2016-12-16-1591)).
+
+### § 1-12. Fellespant.
+
+(1) Når to eller flere selvstendige formuesgoder som tilhører samme eier eller forskjellige eiere, hefter som pant for samme pantekrav, har panthaveren rett til å holde seg til det eller de panteobjekter han vil for hele pantekravet, om ikke annet er avtalt.
+
+(2) Har panthaveren oppnådd dekning fra ett av pantobjektene for en større del av pantekravet enn den som etter rettsforholdene mellom partene skulle falle på dette objekt, har andre panthavere i objektet, eventuelt også eieren, rett til å tre inn i panteretten i de øvrige panteobjektene for den overskytende delen.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-13. Forholdet mellom flere panteretter.
+
+Når to eller flere har panterett i samme formuesgode, går den retten foran som først ble påheftet, om ikke annet er avtalt eller følger av reglene om rettsvern.
+
+### § 1-14. Utløsning.
+
+(1) Når en panthaver har tatt skritt til å inndrive pantekravet ved varsel eller begjæring om tvangsdekning i pantet, kan andre panthavere kreve å få utløse ham ved å gi ham fullt oppgjør.
+
+(2) Den som på etterstående prioritet har pant eller tilbakeholdsrett i et formuesgode som ikke er registrert i et realregister, kan når kravet er misligholdt kreve en bedre prioritert panthaver utløst ved å gi ham fullt oppgjør.
+
+(3) Dersom flere vil utløse, går den best prioriterte foran. En etterstående panthaver kan ikke kreve å få utløse en foranstående som vil utløse ham isteden.
+
+(4) Vil ingen av panthaverne utløse, kan pantets eier kreve å få gjøre det når han ikke er hovedskyldner for pantekravet.
+
+> Endret ved [lover 21 juni 1985 nr. 82](lov/1985-06-21-82), [26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-15. Nedsettelse av restkrav etter gjennomført dekningssalg.
+
+Dersom en panthaver under inndrivelse av pantekravet har kjøpt pantet til en pris som ikke ga full dekning, og panthaveren senere søker å inndrive restkravet mot pantets eier eller andre som hefter for kravet, kan restkravet nedsettes i den utstrekning det godtgjøres at kjøpesummen sto i et åpenbart misforhold til pantets verdi på salgstidspunktet.
+
+> Tilføyd ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 1-16. Beregning av frister.
+
+Ved beregning av frister etter denne lov gjelder reglene i [domstolsloven §§ 146](lov/1915-08-13-5/§146), [148](lov/1915-08-13-5/§148) og [149](lov/1915-08-13-5/§149) tilsvarende.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86) (tidligere § 1-15).
+
+### § 1-17. Bruk av elektronisk kommunikasjon
+
+Krav i eller i medhold av loven her om at varsel, melding, bekreftelse, samtykke eller liknende skal gis skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon.
+
+> Tilføyd ved [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+## Kap. 2. Avtalepant i fast eiendom.
+
+### § 2-1. Hva kan pantsettes.
+
+(1) Eiendomsrett til fast eiendom, tinglyst særlig rett i fast eiendom, og ideell andel i slike rettigheter kan pantsettes.
+
+(2) Fysisk del av fast eiendom eller festerett til slik del kan ikke pantsettes særskilt før vedkommende myndighet har gitt det nødvendige samtykke til fradeling eller bortfeste.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 2-2. Hva panterett i fast eiendom omfatter.
+
+(1) Når ikke annet er avtalt, omfatter pantsettelse av fast eiendomgrunnen,hus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han selv eller senere eier lar oppføre der, ogtilbehør og rettigheter som nevnt i [avhendingslova §§ 3-4](lov/1992-07-03-93/§3-4) til [3-6](lov/1992-07-03-93/§3-6).
+
+(2) – – –
+
+> Endret ved [lover 3 juli 1992 nr. 93](lov/1992-07-03-93), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)).
+
+### § 2-3. Hva panterett i festerett til grunn og hus m.m. på grunnen omfatter.
+
+(1) Pantsettelse av festerett til grunn og hus m.m. på grunnen skal omfattealle rettigheter som pantsetteren har etter festeavtalen, oghus og andre byggverk og anlegg på grunnen som pantsetteren eier eller som han eller senere fester lar oppføre der.
+
+(2) [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
+
+(3) Forøvrig gjelder [lov av 20. desember 1996 nr. 106](lov/1996-12-20-106) om tomtefeste [§ 18](lov/1996-12-20-106/§18) første ledd andre punktum og tredje ledd.
+
+> Endret ved [lover 20 des 1996 nr. 106](lov/1996-12-20-106) (ikr. 1 jan 2002 iflg. [res. 8 juni 2001 nr. 571](forskrift/2001-06-08-571)), [21 des 2005 nr. 130](lov/2005-12-21-130).
+
+### § 2-4. Pantsettelse av eierseksjon.
+
+(1) Pantsettelse av eierseksjon skal omfatte:den bruksenhet i bygning som pantsetteren har eiendomsrett eller eksklusiv bruksrett til, ogden tilhørende sameieandel i eiendomen.
+
+(2) [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
+
+> Endret ved [lover 4 mars 1983 nr. 7](lov/1983-03-04-7), [23 mai 1997 nr. 31](lov/1997-05-23-31) (ikr. 1 jan 1998), [21 des 2005 nr. 130](lov/2005-12-21-130), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 2-5. Rettsvern.
+
+(1) Panterett som nevnt i dette kapittel får rettsvern ved tinglysing i grunnboken. Pantet forblir i eierens besittelse dersom ikke annet er avtalt, jfr. [§ 2-6](lov/1980-02-08-2/§2-6).
+
+(2) Frempantsettelse av panterett i fast eiendom knyttet til omsetningsgjeldsbrev eller innløsningspapir får rettsvern etter reglene i [§ 4-1](lov/1980-02-08-2/§4-1) eller [§ 4-2](lov/1980-02-08-2/§4-2).
+
+(3) For pantsettelse av adkomstdokument til leierett eller borett til husrom gjelder [§ 4-3](lov/1980-02-08-2/§4-3).
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)).
+
+### § 2-6. Brukspant.
+
+(1) Det kan avtales at panthaveren skal overta besittelsen av eiendommen og drive den for pantsetterens regning. I så fall gjelder bestemmelsene i [tvangsfullbyrdelsesloven §§ 11-57](lov/1992-06-26-86/§11-57) første ledd, [11-59](lov/1992-06-26-86/§11-59) og [11-62](lov/1992-06-26-86/§11-62) tilsvarende.
+
+(2) Det kan også avtales at panthaveren skal drive eiendommen for egen regning slik at avkastningen trer i stedet for rente av pantegjelden. Bestemmelsene i [tvangsfullbyrdelsesloven §§ 11-57](lov/1992-06-26-86/§11-57) første ledd og [11-62](lov/1992-06-26-86/§11-62) gjelder da tilsvarende.
+
+(3) Avtale etter denne paragraf kan ikke gjennomføres i strid med konsesjonslovgivningen.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 2-7. Overtagelse av pantegjeld.
+
+(1) Når eieren vil avhende eller har avhendet en pantsatt fast eiendom, med plikt for den nye eier til å svare for pantegjelden, kan han anmode kreditor om å samtykke i at en navngitt ny eier trer inn i hans sted som personlig skyldner for pantegjelden.
+
+(2) Hvis kreditor har gitt sitt skriftlige samtykke, blir avhenderen fri sitt ansvar og den nye eier ansvarlig overfor kreditor fra det tidspunkt da samtykket kom frem til avhenderen eller den nye eier, dog tidligst fra det tidspunkt da gjeldsovertagelsen skulle finne sted ifølge avhendelsesavtalen. Hvis det sistnevnte tidspunkt inntrer mer enn ett år etter at kreditors samtykke ble gitt, taper dette sin virkning hvis ikke annet er avtalt.
+
+(3) Hvis kreditor ikke gir sitt skriftlige samtykke innen én måned etter at forespørsel ble mottatt, kan pantegjelden innbetales med én måneds skriftlig varsel, som sendes etter at det er inngått bindende avtale om avhendelse av pantet. Denne rett faller bort dersom varsel om innbetaling ikke er sendt senest ett år etter at kreditor ble forespurt, og pantegjelden deretter blir innbetalt i samsvar med det varsel som er gitt.
+
+(4) Bestemmelsene i denne paragraf kan ikke fravikes ved avtale til ugunst for avhender og erverver.
+
+## Kap. 3. Avtalepant i løsøre.
+
+### § 3-1. Hovedregelen om rettsvern.
+
+Med de unntak som er fastsatt i dette kapittel eller ved særskilt lov, kan avtalt panterett i løsøre bare få rettsvern etter reglene i [§ 3-2](lov/1980-02-08-2/§3-2).
+
+### § 3-1 a. Pant for lån under rekonstruksjonsforhandling
+
+Panterett etter [§ 3-4](lov/1980-02-08-2/§3-4), [§§ 3-8](lov/1980-02-08-2/§3-8) til [3-10](lov/1980-02-08-2/§3-10) og [§ 3-11](lov/1980-02-08-2/§3-11) til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 går foran alle andre heftelser i formuesgodene pantsettelsen omfatter. Panteretten kan bare benyttes til å dekke slike lån.
+
+> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (i kraft 1 juli 2026, endring endret ved ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79)).
+
+### § 3-2. Håndpant.
+
+(1) Håndpanterett kan avtales i løsøre som ikke kan registreres i et realregister. Unntaket for registrerbart løsøre er dog ikke til hinder for håndpantsettelse av tilbehør til slikt løsøre.
+
+(2) Håndpanterett får rettsvern ved at pantet overleveres til panthaveren eller en annen som påtar seg å sitte med det for panthaveren, slik at eieren ikke selv har hånd om det. Likt med overlevering av selve pantet regnes overlevering av nøkkel til rom hvor pantet oppbevares, eller lignende tiltak som fører til at eieren taper rådigheten over pantet. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke.
+
+(3) Er pantet på pantsettelsestiden hos en annen enn eieren, får håndpanterett også rettsvern når besitteren har fått melding om pantsettelsen og om at eieren ikke har rett til å råde over pantet. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke.
+
+(4) Pantsettelse av håndpanterett får rettsvern ved at det pantsatte løsøre overleveres til frempanthaveren. Reglene i annet og tredje ledd gjelder tilsvarende.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 3-3. Pant i realregistrerbart løsøre.
+
+(1) Løsøre som kan registreres i et realregister, og tilbehør til slikt løsøre, kan pantsettes og får rettsvern ved registrering i vedkommende register.
+
+(2) Reglene i [§ 2-7](lov/1980-02-08-2/§2-7) om overtagelse av pantegjeld gjelder tilsvarende ved avhendelse av slikt løsøre.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### Pant i driftstilbehør.
+
+### § 3-4. Hva panteretten omfatter.
+
+(1) Næringsdrivende kan underpantsette driftstilbehør som brukes i eller er bestemt for hans næringsvirksomhet.
+
+(2) Som driftstilbehør anseesmaskiner, redskaper, innbo og annet utstyr,rett til varemerke, patent, design og planteforedlerrett, herunder rett til søknad om slike rettigheter, rett til supplerende beskyttelsessertifikat, sekundært forretningskjennetegn, kretsmønster for integrerte kretser, rettigheter til produsenter av lydopptak og film etter [åndsverkloven § 20](lov/2018-06-15-40/§20), databaser som er vernet etter [åndsverkloven § 24](lov/2018-06-15-40/§24), ervervet opphavsrett, herunder rett til utøvende kunstneres fremføring av et verk, og ervervet rett til fotografiske bilder, ogundersøkelsesrett etter [lov 19. juni 2009 nr. 101](lov/2009-06-19-101) om erverv og utvinning av mineralressurser.Rettigheter som nevnt i bokstav b regnes ikke som driftstilbehør dersom de utelukkende utnyttes eller er bestemt for å utnyttes gjennom overdragelse eller utstedelse av lisenser.
+
+(3) Panterett i driftstilbehør som er beheftet med salgspant, eller som pantsetteren bare har en overførbar bruksrett til, omfatter den rett som pantsetteren til enhver tid har i vedkommende ting.
+
+(4) Panterett i driftstilbehør omfatter ikke tilbehør til fast eiendom, jf. [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c, og heller ikke ting som kan pantsettes etter [§§ 3-3](lov/1980-02-08-2/§3-3), [3-8](lov/1980-02-08-2/§3-8), [3-9](lov/1980-02-08-2/§3-9) eller [3-10](lov/1980-02-08-2/§3-10).
+
+(5) Panteretten gjelder driftstilbehøret i sin helhet, slik det er til enhver tid. Hvis pantsetterens næringsvirksomhet består av flere avdelinger som driftsmessig er adskilt, kan driftstilbehøret for den enkelte avdeling pantsettes særskilt.
+
+> Endret ved [lover 12 mars 1993 nr. 32](lov/1993-03-12-32), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [14 mars 2003 nr. 15](lov/2003-03-14-15) (ikr. 1 mai 2003 iflg. [res. 4 apr 2003 nr. 417](forskrift/2003-04-04-417)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [24 juni 2011 nr. 31](lov/2011-06-24-31), [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), [20 des 2018 nr. 120](lov/2018-12-20-120) (ikr. 1 aug 2019 iflg. [res. 21 juni 2019 nr. 807](forskrift/2019-06-21-807)).
+
+### § 3-5. Næringsdrivende.
+
+Som næringsdrivende anses:foretak registrert i Foretaksregisteretsykehus, pleiehjem, skole, universitet, museum, idretts- eller fritidsinstitusjon og andre institusjoner av sosial, humanitær eller lignende art, selv om de ikke blir drevet med sikte på fortjeneste, i den utstrekning dette bestemmes av Kongen i forskrift.
+
+> Endret ved [lov 21 juni 1985 nr. 78](lov/1985-06-21-78).
+
+### § 3-6. Rettsvern.
+
+Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret.
+
+> Endret ved [lover 1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)).
+
+### § 3-7. Avhendelse av pantsatt driftstilbehør
+
+(1) Pantsetteren kan skifte ut eller avhende pantsatt driftstilbehør så langt dette er i samsvar med forsvarlig drift og ikke vesentlig forringer panthaverens sikkerhet. På samme vilkår kan pantsetteren utstede lisenser som gjelder driftstilbehør som nevnt i [§ 3-4](lov/1980-02-08-2/§3-4) annet ledd bokstav b.
+
+(2) Når panthaveren har tatt skritt til å inndrive pantekravet ved varsel om tvangsdekning etter tvangsfullbyrdelsesloven, har pantsetteren ikke rett til å skifte ut, avhende eller utstede lisenser som gjelder pantsatt driftstilbehør uten panthaverens samtykke.
+
+(3) Når tilbehør blir solgt i samsvar med reglene i første og annet ledd eller i samsvar med regelen i [konkursloven § 17](lov/1984-06-08-58/§17) fjerde ledd, og selgeren ikke lenger har rådigheten over det, faller panteretten bort. Er salget skjedd i strid med disse reglene, står panteretten tilbake for rettsvinning etter [lov av 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre. Ved utstedelse av lisens som gjelder driftstilbehør som nevnt i [§ 3-4](lov/1980-02-08-2/§3-4) annet ledd bokstav b i samsvar med reglene i første og annet ledd, står panteretten ved lag, men tilbake for lisensen.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII).
+
+### § 3-8. Pant i motorvogner, anleggsmaskiner og jernbanemateriell.
+
+(1) Næringsdrivende kan underpantsettemotorvogner som brukes eller er bestemt til bruk i næringsvirksomheten,flyttbare anleggsmaskiner som brukes eller er bestemt til bruk i den næringsdrivendes entreprenørvirksomhet, ogjernbanemateriell bestående av lokomotiver, motorvognsett og vogner, som brukes eller er bestemt til bruk i den næringsdrivendes jernbanetrafikk.Pantsettelsen kan skje enkeltvis eller for motorvogner, anleggsmaskiner eller jernbanemateriell under ett.
+
+(2) Panteretten får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret. Ved enkeltvis pantsettelse av registrert motorvogn blir panteretten da også beskyttet mot rettserverv etter [lov 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre.
+
+(3) Pantsettelse av panterett i motorvogner, anleggsmaskiner og jernbanemateriell får rettsvern på samme måte. Er panteretten knyttet til et omsetningsgjeldsbrev eller et innløsningspapir, gjelder dog reglene i [§ 4-1](lov/1980-02-08-2/§4-1) eller [§ 4-2](lov/1980-02-08-2/§4-2).
+
+(4) Kongen kan fastsette i forskrift hva som skal regnes som motorvogner, anleggsmaskiner og jernbanemateriell etter denne bestemmelse, og hvorledes motorvognene, maskinene og materiellet skal identifiseres.
+
+(5) [§ 3-4](lov/1980-02-08-2/§3-4) tredje ledd og [§ 3-5](lov/1980-02-08-2/§3-5) gjelder tilsvarende. For næringsdrivende i landbruksnæring gjelder [§ 3-9](lov/1980-02-08-2/§3-9) fjerde ledd tilsvarende. Ved samlet pantsettelse av alle pantsetterens motorvogner, anleggsmaskiner eller alt jernbanemateriell gjelder [§ 3-4](lov/1980-02-08-2/§3-4) femte ledd og [§ 3-7](lov/1980-02-08-2/§3-7) tilsvarende.
+
+> Endret ved [lover 22 nov 1996 nr. 67](lov/1996-11-22-67) (ikr. 1 des 1996), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)).
+
+### § 3-9. Pant i redskaper, besetning, avling m.v. i landbruksnæring.
+
+(1) Løsøre som brukes eller er bestemt til bruk i næringsvirksomhet i landbruket, men som ikke er tilbehør til fast eiendom, og varer som produseres i virksomheten, kan underpantsettes særskilt.
+
+(2) Som slikt løsøre ansees:maskiner, redskaper og annet utstyr, bortsett fra tilbehør som nevnt i [§ 2-2](lov/1980-02-08-2/§2-2) bokstav c, og bortsett fra motorvogner som nevnt i [§ 3-8](lov/1980-02-08-2/§3-8),merder og annet liknende utstyr som brukes eller er bestemt til bruk i akvakultur.avling og annen innhøstet avkastning,dyr, herunder tamrein, pelsdyr, fjærfe, bier, muslinger og akvatiske organismer i akvakultur.såvarer, gjødsel, drivstoff og andre varer som forbrukes under virksomheten,emballasje til virksomhetens produkter.
+
+(3) Panteretten får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret.
+
+(4) Kongen kan fastsette i forskrift hva som skal regnes som næringsvirksomhet i landbruket.
+
+(5) [§ 3-4](lov/1980-02-08-2/§3-4) tredje og femte ledd, [§ 3-7](lov/1980-02-08-2/§3-7) og [§ 3-8](lov/1980-02-08-2/§3-8) tredje ledd gjelder tilsvarende.
+
+> Endret ved [lover 3 juli 1992 nr. 93](lov/1992-07-03-93), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)), [17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006).
+
+### § 3-10. Pant i fiskeredskaper.
+
+(1) Løsøre som brukes eller er bestemt til bruk i næringsvirksomhet med fiske- eller fangstfartøy, men som ikke er tilbehør til et fartøy, kan underpantsettes særskilt.
+
+(2) Panteretten får rettsvern ved tinglysing på eierens eller den bruksberettigedes blad i Løsøreregisteret.
+
+(3) [§ 3-4](lov/1980-02-08-2/§3-4) tredje og femte ledd, [§ 3-7](lov/1980-02-08-2/§3-7) og [§ 3-8](lov/1980-02-08-2/§3-8) tredje ledd gjelder tilsvarende.
+
+> Endret ved [lover 1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)).
+
+### Pant i varelager.
+
+### § 3-11. Hva panteretten omfatter.
+
+(1) Næringsdrivende kan underpantsette varelager i næringsvirksomhet.
+
+(2) Som varelager regnes virksomhetens beholdninger avråvarer, uferdige og ferdige varer og handelsvarer,drivstoff og andre varer som forbrukes under virksomheten,emballasje til virksomhetens produkter.
+
+(3) Panteretten må gjelde pantsetterens varelager i sin helhet eller en nærmere angitt del som driftsmessig er adskilt fra det øvrige og fremtrer som en selvstendig enhet, slik lageret eller vedkommende del av det er til enhver tid. Kongen1 kan gi forskrift om adgang til å pantsette del av varelager.
+
+(4) Panterett i varelager omfatter ikke ting som kan pantsettes etter [§§ 3-3](lov/1980-02-08-2/§3-3), [3-8](lov/1980-02-08-2/§3-8), [3-9](lov/1980-02-08-2/§3-9) eller [3-10](lov/1980-02-08-2/§3-10).
+
+(5) [§ 3-4](lov/1980-02-08-2/§3-4) tredje ledd og [§ 3-5](lov/1980-02-08-2/§3-5) gjelder tilsvarende.
+
+### § 3-12. Rettsvern.
+
+(1) Panterett i varelager får rettsvern ved tinglysing på eierens blad i Løsøreregisteret.
+
+(2) [§ 3-8](lov/1980-02-08-2/§3-8) tredje ledd gjelder tilsvarende.
+
+> Endret ved [lov 1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)).
+
+### § 3-13. Avhendelse av pantsatte varer.
+
+(1) Varer av pantsatt varelager kan avhendes fritt innenfor rammen av pantsetterens vanlige næringsvirksomhet.
+
+(2) Når panthaveren har tatt skritt til å inndrive pantekravet ved varsel om tvangssalg etter tvangsfullbyrdelsesloven, har pantsetteren ikke rett til å avhende varer av pantsatt varelager uten panthaverens samtykke.
+
+(3) [§ 3-7](lov/1980-02-08-2/§3-7) tredje ledd gjelder tilsvarende.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### Salgspant.
+
+### § 3-14. Hvilke krav kan sikres.
+
+I forbindelse med salg av løsøre kan det avtales panterett i det solgte (salgspant) til sikkerhet forselgerens krav på kjøpesummen med tillegg av rente og omkostninger, ellerlån som tredjeperson har ydet kjøperen til hel eller delvis betaling av krav som nevnt under bokstav a, og som långiveren utbetaler direkte til selgeren.
+
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+
+### § 3-15. Hvilke ting kan beheftes.
+
+(1) Salgspant kan ikke avtales etter reglene i [§§ 3-14](lov/1980-02-08-2/§3-14) til [3-22 i](lov/1980-02-08-2/§3-22) løsøre som kan registreres i et realregister. Unntaket for realregistrerbart løsøre er dog ikke til hinder for salgspant i tilbehør til slikt løsøre. Salgspant kan heller ikke avtales bare i en ideell del av en løsøregjenstand.
+
+(2) Salgspant kan heller ikke avtales i ting som kjøperen har rett til å selge videre før den er betalt.
+
+(3) Kongen kan ved forskrift unnta visse ting eller vareslag fra ordningen med salgspant, fastsette en minste beløpsgrense og ellers gi de bestemmelser som ansees nødvendige, bl.a. for samordning med reglene om kreditt- og avbetalingskjøp.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+
+### § 3-16. Forbud mot videresalg eller pantsettelse.
+
+Ting som er beheftet med salgspant, kan ikke avhendes eller håndpantsettes uten med samtykke av salgspanthaveren.
+
+### § 3-17. Rettsvern.
+
+(1) Ved forbrukerkjøp må avtale om salgspant for å få rettsvern inngås skriftlig og senest samtidig med at salgstingen blir overgitt til kjøperen. Avtale om salgspant kan inngås elektronisk dersom det er benyttet en betryggende metode for å autentisere avtaleinngåelsen og sikre avtalens innhold.
+
+(2) Ved andre kjøp enn forbrukerkjøp må salgspant for å få rettsvern være avtalt senest samtidig med at salgstingen blir overgitt til kjøperen. Dersom avtalen ikke er skriftlig, må den bekreftes skriftlig av en av partene uten ugrunnet opphold etter overleveringen.
+
+(3) Salgspant i motorvogn som er registrert i henhold til reglene i [vegtrafikkloven av 18. juni 1965 nr. 4 § 15](lov/1965-06-18-4/§15), jfr. [§ 16](lov/1965-06-18-4/§16), må for å få rettsvern dessuten tinglyses på kjøperens blad i Løsøreregisteret. Salgspantet blir da også beskyttet mot rettserverv etter [lov av 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre.
+
+(4) Avtalen må særskilt nevne de ting som panteretten skal omfatte og den kjøpesum eller det innkjøpslån den skal sikre. Når flere ting er kjøpt med salgspant under ett, ansees panteretten å hefte på samtlige ting til sikkerhet for det samlede beløp kjøperen skylder.
+
+(5) Er det avtalt salgspant både for selgerens krav og for innkjøpslån som tredjeperson har ydet kjøperen, blir de to panteretter likestilt, hvis ikke annet følger av avtalen.
+
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+### § 3-18. Salgspant i deler og tilbehør.
+
+(1) Salgspant i deler av eller i tilbehør til fast eiendom har uten tinglysing rettsvern mot eldre heftelser i eiendommen.
+
+(2) Mot senere frivillige rettsstiftelser i god tro i eiendommen og mot eierens kreditorer kan salgspant i deler eller tilbehør bare gjøres gjeldende når panteretten har rettsvern etter reglene om tinglysing. Tinglysingen skjer på vedkommende eiendoms blad i grunnboken.
+
+(3) Bestemmelsene i første og annet ledd gjelder tilsvarende for salgspant i deler av eller i tilbehør til en hovedting som kan registreres i et realregister.
+
+(4) Når panterett i fast eiendom eller i en annen hovedting må stå tilbake for salgspant i en del eller i tilbehør, skal panteretten gjelde den rett pantsetteren til enhver tid har i delen eller i tilbehøret.
+
+### § 3-19. Sammenføyning.
+
+Salgspant faller bort dersom salgstingen blir sammenføyet med en fast eiendom eller en annen hovedting på slik måte at utskilling ville medføre uforholdsmessige omkostninger eller urimelige verditap.
+
+### § 3-20. Bearbeidelse og påkostning.
+
+Salgspant faller bort dersom det ved bearbeidelse eller påkostning har funnet sted en ikke uvesentlig forandring av salgstingens karakter eller verdi etter at den ble overgitt til kjøperen.
+
+### § 3-21. Foreldelse.
+
+(1) Salgspant faller i alle tilfelle bort ett år etter den avtalte forfallstid for det krav panteretten skal sikre, og senest 5 år etter at salgstingen ble overgitt til kjøperen. Skal kjøpesummen eller lånet betales i avdrag, regnes ettårsfristen fra forfallstiden for det siste avdraget. Salgspant til sikkerhet for lån etter [folketrygdloven § 10-7](lov/1997-02-28-19/§10-7) første ledd bokstav h til anskaffelse av motorvogn registrert i henhold til [vegtrafikkloven 18. juni 1965 nr. 4 § 15](lov/1965-06-18-4/§15), jf. [§ 16](lov/1965-06-18-4/§16), faller likevel bort senest 10 år etter at motorvognen ble overgitt til den stønadsberettigede.
+
+(2) Fristene i første ledd avbrytes ved at begjæring om tvangssalg eller tilbakelevering etter tvangsfullbyrdelsesloven kommer inn til namsmyndigheten eller ved at det blir reist søksmål for å kreve tingen utlevert. Fristene avbrytes også når det er åpnet gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller konkurs hos skyldneren og salgspant uttrykkelig påberopes i fordringsanmeldelsen. Ved gjeldsordning etter gjeldsordningsloven skjer ingen foreldelse i gjeldsordningsperioden. Bestemmelsene i [lov av 18. mai 1979 nr. 18](lov/1979-05-18-18) om foreldelse av fordringer [§ 3](lov/1979-05-18-18/§3) nr. 3, [§ 10](lov/1979-05-18-18/§10), [§ 21](lov/1979-05-18-18/§21) nr. 1 og [§ 22](lov/1979-05-18-18/§22) nr. 1, jfr. [§ 15](lov/1979-05-18-18/§15) nr. 1 og 2 og [§ 17](lov/1979-05-18-18/§17) nr. 1 og 2, gjelder tilsvarende så langt de passer.
+
+> Endret ved [lover 21 juni 1985 nr. 82](lov/1985-06-21-82), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+
+### § 3-22. Rett som likestilles med salgspant.
+
+(1) Har selgeren eller den som har ydet et innkjøpslån forbeholdt seg eiendomsrett til salgstingen inntil kjøpesummen eller lånet er fullt betalt, eller rett til å ta salgstingen tilbake ved betalingsmislighold, skal forholdet ansees som en avtale om salgspant.
+
+(2) Leieavtale eller lignende avtale som i realiteten tjener til å sikre et avhendelsesvederlag, ansees som en avtale om salg og salgspant hvis det er meningen at leieren skal bli eier av tingen etter å ha betalt et visst antall leieterminer. Selv om det ikke er meningen at leieren skal bli eier eller ha rett til å bli eier, gjelder bestemmelsene i [§§ 3-15](lov/1980-02-08-2/§3-15) til [3-20](lov/1980-02-08-2/§3-20) tilsvarende. I forhold til vilkåret i [§ 3-17](lov/1980-02-08-2/§3-17) fjerde ledd er det tilstrekkelig at leiegjenstandene, leietiden og de terminvise leiebeløp er nevnt.
+
+> Endret ved [lover 21 juni 1985 nr. 82](lov/1985-06-21-82), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+
+## Kap. 4. Avtalepant i verdipapirer, finansielle instrumenter registrert i en verdipapirsentral, aksjer, enkle pengekrav, patenter, varemerker og planteforedlerretter m.m.
+
+> Overskriften endret ved lover [14 juni 1985 nr. 70](lov/1985-06-14-70), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229)).
+
+### § 4-1. Verdipapir og finansielle instrumenter registrert i en verdipapirsentral
+
+(1) Verdipapir kan pantsettes som håndpant. [§ 3-2](lov/1980-02-08-2/§3-2) annet til fjerde ledd gjelder tilsvarende.
+
+(2) Som verdipapir regnes omsetningsgjeldsbrev og dermed likestilte dokumenter, samt omsetningspapirer som representerer en andelsrett i et selskap.
+
+(3) Finansielle instrumenter registrert i en verdipapirsentral med Norge som hjemstat kan pantsettes ved registrering i verdipapirsentralen, jf. verdipapirsentralloven.
+
+(4) En livsforsikring kan pantsettes ved registrering i livsforsikringsregisteret, jf. [lov 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler [§ 17-1](lov/1989-06-16-69/§17-1) annet ledd.
+
+> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [16 juni 1989 nr. 69](lov/1989-06-16-69), [26 juni 1992 nr. 86](lov/1992-06-26-86), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+
+### § 4-2. Innløsningspapir.
+
+(1) Krav eller rettighet knyttet til et innløsningspapir som ikke er verdipapir, kan pantsettes.
+
+(2) Panteretten får rettsvern etter reglene om håndpant i [§ 3-2](lov/1980-02-08-2/§3-2) annet og tredje ledd, når det dessuten er gitt melding til den forpliktede etter papiret etter reglene i [§ 4-5](lov/1980-02-08-2/§4-5). Pantsettelse av slik panterett får rettsvern på samme måte.
+
+### § 4-2a. Aksjer som ikke er registrert i en verdipapirsentral
+
+(1) Aksjer som ikke er registrert i en verdipapirsentral, kan pantsettes med mindre noe annet er fastsatt i selskapets vedtekter.
+
+(2) Panteretten får rettsvern ved at selskapet får melding om pantsettelsen. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke.
+
+> Tilføyd ved [lov 13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), endret ved [lover 5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+
+### § 4-2b. Medlemskap i samvirkeforetak
+
+Panterett i medlemskap i samvirkeforetak som kan pantsettes etter [samvirkeloven § 21](lov/2007-06-29-81/§21), får rettsvern ved at foretaket får melding om pantsettelsen. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke for panterett som får rettsvern på denne måten. Er medlemskapet knyttet til fast eiendom (jf. [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c), får panteretten rettsvern ved tinglysing i grunnboken.
+
+> Tilføyd ved [lov 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)).
+
+### § 4-3. Adkomstdokument til leierett eller borett til husrom
+
+(1) Adkomstdokument til leierett eller borett til husrom kan pantsettes.
+
+(2) Som adkomstdokument regnes dokument som representerer en leierett eller borett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap, unntatt borettslagsandel som er registrert i grunnboken.
+
+(3) Panteretten får rettsvern ved at det gis melding om pantsettelsen til vedkommende utleier eller selskap. Dersom det er knyttet innskuddsbevis til leieretten eller boretten, må dette i tillegg overleveres etter reglene i [§ 3-2](lov/1980-02-08-2/§3-2) annet ledd, eller melding må gis til besitteren av dokumentet etter reglene i [§ 3-2](lov/1980-02-08-2/§3-2) tredje ledd.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)).
+
+### § 4-3a. Borettslagsandel som er registrert i grunnboken
+
+(1) Borettslagsandel som er registrert i grunnboken kan pantsettes.
+
+(2) Panteretten får rettsvern ved registrering i grunnboken.
+
+(3) Reglene i [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
+
+> Tilføyd ved [lov 6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)).
+
+### Enkle pengekrav.
+
+### § 4-4. Hvilke enkle pengekrav kan pantsettes.
+
+(1) Enkle pengekrav som noen har mot navngitt skyldner, kan pantsettes. Det samme gjelder enkle pengekrav som noen kommer til å få mot navngitt skyldner i særskilt nevnt rettsforhold.
+
+(2) Enkle pengekrav i form av innskudd på konto i kredittinstitusjon kan pantsettes til fordel for kredittinstitusjonen. I forbrukerforhold må slik panterett etableres ved skriftlig avtale, og panteretten kan bare omfatte innskudd som står på særskilt konto som er opprettet i forbindelse med avtalen.
+
+(3) Som enkelt pengekrav regnes pengekrav som ikke er knyttet til verdipapir, finansielle instrumenter registrert i en verdipapirsentral eller innløsningspapir.
+
+> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [10 des 2010 nr. 75](lov/2010-12-10-75) (ikr. 1 jan 2011 iflg. [res. 10 des 2010 nr. 1592](forskrift/2010-12-10-1592)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+
+### § 4-5. Rettsvern.
+
+(1) Panterett i enkelt krav får rettsvern ved at skyldneren får melding om pantsettelsen, enten fra pantsetteren eller fra panthaveren. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke. Pantsettelse av slik panterett får rettsvern på samme måte.
+
+(2) Avtale om panterett etter [§ 4-4](lov/1980-02-08-2/§4-4) annet ledd må inngås skriftlig for å få rettsvern. Avtalen må angi hvilket eller hvilke innskudd panteretten omfatter ved å angi kontonummer eller kontonumre. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke. Pantsettelse av slik panterett får rettsvern på samme måte.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [10 des 2010 nr. 75](lov/2010-12-10-75) (ikr. 1 jan 2011 iflg. [res. 10 des 2010 nr. 1592](forskrift/2010-12-10-1592)), [20 jan 2012 nr. 4](lov/2012-01-20-4) (ikr. 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895)).
+
+### § 4-6. Rådighet over pantsatt krav.
+
+(1) Når ikke annet følger av det som er avtalt, har panthaveren samme rett i forhold til skyldneren og samme rett til å disponere rettslig over pantsatt enkelt krav som pantsetteren selv hadde.
+
+(2) Panthaverens kreditorer kan bare disponere over det pantsatte krav så langt det er nødvendig til dekning av det krav pantsettelsen skal sikre.
+
+(3) Bestemmelsene i [lov av 17. februar 1939 nr. 1](lov/1939-02-17-1) om gjeldsbrev [§§ 25](lov/1939-02-17-1/§25) til [28](lov/1939-02-17-1/§28) gjelder tilsvarende ved pantsettelse av enkle krav.
+
+### § 4-7. Innskrenkning av panthaverens rådighet.
+
+Avtale som utelukker, begrenser eller setter vilkår for panthaverens rett til å disponere rettslig over et pantsatt enkelt krav, kan bare gjøres gjeldende overfor hans kreditorer og rettsetterfølgere og overfor skyldneren dersom skyldneren er varslet om det avtalte.
+
+### § 4-8. Avregning hvor et pantsatt krav er avhendet.
+
+(1) Hvis panthaveren uten rimelig grunn avhender et pantsatt enkelt krav før det er forfalt, skal kravets pålydende legges til grunn i oppgjøret mellom ham og pantsetteren, dersom pålydende er større enn avhendelsessummen. I alle andre tilfelle skal avhendelsessummen legges til grunn for oppgjøret.
+
+(2) Bestemmelsen i første ledd kan bare fravikes ved avtale i forbindelse med en aktuell avhendelse.
+
+### § 4-9. Avhendelse i sikringsøyemed.
+
+Bestemmelsene i [§ 4-6](lov/1980-02-08-2/§4-6) annet ledd, [§ 4-7](lov/1980-02-08-2/§4-7) og [§ 4-8](lov/1980-02-08-2/§4-8) gjelder tilsvarende når et enkelt krav er avhendet til eie i sikringsøyemed, slik at det skal foretas et etteroppgjør mellom partene i avhendelsesavtalen.
+
+### § 4-10. Factoring.
+
+(1) En næringsdrivende kan slutte avtale om avhendelse, avhendelse i sikringsøyemed eller pantsettelse av de enkle pengekrav på vederlag for varer eller tjenester som han har eller får i sin virksomhet eller i en særlig del av denne. Det er ikke nødvendig at skyldnerne blir navngitt.
+
+(2) Avtale som nevnt i første ledd får rettsvern ved tinglysing på den næringsdrivendes blad i Løsøreregisteret. Rett etter slik avtale kan allikevel ikke gjøres gjeldende mot den som i aktsom god tro har ervervet en konkurrerende rett til et krav som omfattes av avtalen, og som har fått rettsvern for sitt erverv etter [§ 4-5](lov/1980-02-08-2/§4-5) eller etter lov av 17. februar 1939 om gjeldsbrev § 29.
+
+(3) Bestemmelsene i [§ 3-5](lov/1980-02-08-2/§3-5), [§ 4-4](lov/1980-02-08-2/§4-4) tredje ledd, [§ 4-6](lov/1980-02-08-2/§4-6), [§ 4-7](lov/1980-02-08-2/§4-7) og [§ 4-8](lov/1980-02-08-2/§4-8) gjelder tilsvarende for avtale etter nærværende paragraf. For næringsdrivende i landbruksnæring gjelder [§ 3-9](lov/1980-02-08-2/§3-9) fjerde ledd tilsvarende.
+
+(4) [§ 3-1 a](lov/1980-02-08-2/§3-1a) gjelder tilsvarende for panterett etter denne paragrafen til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19.
+
+> Endret ved [lover 20 juli 1991 nr. 68](lov/1991-07-20-68), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [7 mai 2020 nr. 38](lov/2020-05-07-38) (i kraft 1 juli 2026, fjerde ledd oppheves, endring endret ved ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79)).
+
+### Patenter, varemerker og planteforedlerretter.
+
+> Overskriften tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229)).
+
+### § 4-11. Patent og varemerke m.m.
+
+(1) Rett til patent og rett til registrert varemerke som gjelder her i riket kan pantsettes. Det samme gjelder:nasjonal patentsøknad som er innført i patentregisteret og nasjonal varemerkesøknad som er innført i varemerkeregisteret,internasjonal patentsøknad som er videreført etter [patentloven § 31](lov/1967-12-15-9/§31) eller tatt opp til behandling etter [patentloven § 38](lov/1967-12-15-9/§38), og som er innført i patentregisteret, og internasjonal varemerkeregistrering som er gitt virkning i Norge etter [varemerkeloven § 70](lov/2010-03-26-8/§70), og innført i varemerkeregisteret,europeisk patentsøknad som nevnt i [patentloven § 66 g](lov/1967-12-15-9/§66g) første ledd, og som er innført i Patentstyrets særskilte register over slike søknader,supplerende beskyttelsessertifikat som nevnt i [patentloven §§ 62 a](lov/1967-12-15-9/§62a) og [62 b](lov/1967-12-15-9/§62b), ogoverdragelig avtalelisens som er registrert i patentregisteret, varemerkeregisteret eller i Patentstyrets særskilte register over europeiske patentsøknader.
+
+(2) Hvis en pantsatt patentsøknad, en pantsatt varemerkesøknad eller en pantsatt varemerkeregistrering deles, eller hvis en oppfinnelse eller et varemerke i en pantsatt søknad skilles ut i en ny søknad, omfattes også avdelte eller utskilte søknader eller registreringer av panteretten.
+
+(3) Når patent blir meddelt på grunnlag av en pantsatt patentsøknad, blir patentet omfattet av panteretten i stedet for søknaden. Når et varemerke blir registrert på grunnlag av en pantsatt varemerkesøknad, blir varemerkeregistreringen omfattet av panteretten istedenfor søknaden.
+
+(4) Når det blir utstedt et supplerende beskyttelsessertifikat og basispatentet er pantsatt, blir det supplerende beskyttelsessertifikatet omfattet av panteretten i stedet for basispatentet fra tidspunktet da basispatentet opphører å gjelde.
+
+> Tilføyd ved lov [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 4-12. Rettsvern for panterett i patent og varemerke m.m.
+
+Panterett i patent etter [§ 4-11](lov/1980-02-08-2/§4-11) får rettsvern ved anmerkning i patentregisteret, og panterett i varemerke etter [§ 4-11](lov/1980-02-08-2/§4-11) ved anmerkning i varemerkeregisteret. I tilfeller som nevnt i [§ 4-11](lov/1980-02-08-2/§4-11) første ledd bokstav c, får panteretten rettsvern ved anmerkning i Patentstyrets særskilte register over europeiske patentsøknader. Frempantsettelse får rettsvern på samme måte.
+
+> Tilføyd ved lov [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 4-13. Planteforedlerrett m.m.
+
+(1) Planteforedlerrett som gjelder her i riket kan pantsettes. Det samme gjelder:søknad om planteforedlerrett som er innført i Plantesortsnemndens journal over innkomne søknader, ogoverdragelig avtalelisens som er anmerket i plantesortsregisteret eller i Plantesortsnemndens journal over innkomne søknader.
+
+(2) Når planteforedlerrett blir meddelt på grunnlag av en pantsatt søknad om planteforedlerrett, blir planteforedlerretten omfattet av panteretten i stedet for søknaden.
+
+> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII).
+
+### § 4-14. Rettsvern for panterett i planteforedlerrett m.m.
+
+Panterett etter [§ 4-13](lov/1980-02-08-2/§4-13) får rettsvern ved anmerkning i plantesortsregisteret eller ved anmerkning i Plantesortsnemndens journal over innkomne søknader. Frempantsettelse får rettsvern på samme måte.
+
+> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII).
+
+### § 4-15. Avhendelse og lisensiering
+
+[§ 1-11](lov/1980-02-08-2/§1-11) første ledd gjelder for pant etter [§§ 4-11](lov/1980-02-08-2/§4-11) og [4-13](lov/1980-02-08-2/§4-13), herunder når det utstedes lisenser som gjelder en søknad eller rettighet som er pantsatt etter [§§ 4-11](lov/1980-02-08-2/§4-11) eller [4-13](lov/1980-02-08-2/§4-13).
+
+> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII).
+
+### § 4-16. Bortfall av panteretten m.m.
+
+(1) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når en pantsatt patentsøknad, varemerkesøknad eller søknad om planteforedlerrett:blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten, ellerblir endelig henlagt eller avslått.Det samme gjelder når et europeisk patent som er meddelt på grunnlag av en søknad som nevnt i [§ 4-11](lov/1980-02-08-2/§4-11) første ledd bokstav c, ikke blir gjort gjeldende her i riket.
+
+(2) Panteretten faller bort og panthaveren kan kreve at pantekravet blir innfridd når et pantsatt patent, en pantsatt varemerkerett, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett:blir overført til en annen fordi pantsetteren ikke har retten til oppfinnelsen, varemerket eller plantesorten,blir satt til side som ugyldig,opphører å gjelde fordi innehaveren har unnlatt å betale årsavgift eller fornyelsesavgift uten at panthaveren har gitt samtykke til det,opphører etter [planteforedlerloven § 18](lov/1993-03-12-32/§18), ellerslettes etter [varemerkeloven §§ 36](lov/2010-03-26-8/§36) eller [37](lov/2010-03-26-8/§37).
+
+(3) Panthaveren kan kreve at pantekravet blir innfridd når innehaveren gir avkall på et pantsatt patent, et pantsatt supplerende beskyttelsessertifikat eller en pantsatt planteforedlerrett uten at panthaveren har samtykket til det.
+
+(4) Panthaveren kan kreve at pantekravet blir innfridd når et supplerende beskyttelsessertifikat bortfaller på grunnlag av tilbakekall av markedsføringstillatelse.
+
+(5) Første til fjerde ledd gjelder tilsvarende for panterett i lisens.
+
+(6) For øvrig gjelder [§ 1-9](lov/1980-02-08-2/§1-9), bortsett fra første ledd bokstav e.
+
+> Tilføyd ved lov [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), endret ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 4-17. Avtale om realisasjon
+
+(1) Pant etter [§§ 4-11](lov/1980-02-08-2/§4-11) og [4-13](lov/1980-02-08-2/§4-13) kan realiseres på den måte som følger av skriftlig avtale mellom partene. [§ 1-14](lov/1980-02-08-2/§1-14) gjelder tilsvarende.
+
+(2) Panthaveren kan først utøve sin rett til å kreve realisasjon i medhold av avtale når to uker er gått etter at varsel er sendt innehaveren av den pantsatte søknaden eller rettigheten og andre kjente rettighetshavere. Den som forestår realisasjonen skal gi panthaveren og pantsetteren revidert regnskap. Skjer realisasjonen i form av overdragelse skal regnskapet gis senest tre måneder etter at oppgjør for overdragelsen fant sted. Skjer realisasjonen i form av at det utstedes lisenser eller at inntekter fra allerede etablerte lisenser innfordres, skal regnskap gis minst en gang i året. Andre rettighetshavere kan kreve kopi av regnskapet.
+
+> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII).
+
+## Kap. 5. Utleggspant.
+
+### § 5-1. Hva kapitlet gjelder.
+
+Reglene i dette kapittel gjelderpanterett stiftet av namsmyndighetene ved utlegg (namsutlegg),panterett stiftet av tingretten i midler som er under skiftebehandling, til sikkerhet for ektefelles, arvings eller kreditors krav ifølge skiftet (skifteutlegg).
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+### § 5-2. Utlegg i fast eiendom.
+
+(1) Utleggspant i eiendomsrett og særlig rett i fast eiendom eller ideell del av fast eiendom får rettsvern ved tinglysing i grunnboken.
+
+(2) Bestemmelsene i [§ 2-1](lov/1980-02-08-2/§2-1) annet ledd og [§§ 2-2](lov/1980-02-08-2/§2-2) til [2-4](lov/1980-02-08-2/§2-4) gjelder tilsvarende.
+
+(3) For utlegg i leierett eller borett til husrom knyttet til verdipapir eller innløsningspapir gjelder [§ 5-8](lov/1980-02-08-2/§5-8).
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)).
+
+### § 5-3. Utlegg i realregistrerbart løsøre og andre realregistrerte formuesgoder enn fast eiendom.
+
+(1) Utleggspant i løsøre som kan registreres i et realregister og tilbehør til slikt løsøre, får rettsvern ved registrering i vedkommende register. Utleggspant i andre realregistrerte formuesgoder som ikke er fast eiendom, får rettsvern ved registrering i vedkommende register.
+
+(2) Første ledd første punktum gjør ingen endring i [sjøloven § 41](lov/1994-06-24-39/§41) tredje ledd.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [24 juni 1994 nr. 39](lov/1994-06-24-39), [17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006).
+
+### § 5-4. Utlegg i driftstilbehør og varelager.
+
+(1) Utleggspant i næringsdrivendes driftstilbehør som nevnt i [§ 3-4](lov/1980-02-08-2/§3-4) får rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret. Bestemmelsene i [§§ 3-4](lov/1980-02-08-2/§3-4) og [3-5](lov/1980-02-08-2/§3-5) gjelder tilsvarende.
+
+(2) Utleggspant i enkelte enheter av driftstilbehøret får rettsvern etter reglene i [§ 5-6](lov/1980-02-08-2/§5-6) eller [§ 5-9](lov/1980-02-08-2/§5-9).
+
+(3) Utleggspant i næringsdrivendes varelager får rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret. Bestemmelsene i [§ 3-11](lov/1980-02-08-2/§3-11) gjelder tilsvarende.
+
+> Endret ved [lov 1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI).
+
+### § 5-5. Utlegg i motorvogn.
+
+Utlegg i motorvogn som er registrert i henhold til reglene i [vegtrafikkloven av 18. juni 1965 nr. 4 § 15](lov/1965-06-18-4/§15), jfr. [§ 16](lov/1965-06-18-4/§16), får rettsvern bare ved tinglysing på saksøktes blad i Løsøreregisteret. Utlegget blir da også beskyttet mot rettserverv etter [lov av 2. juni 1978 nr. 37](lov/1978-06-02-37) om godtroerverv av løsøre.
+
+### § 5-6. Utlegg i annet løsøre.
+
+Utleggspant i løsøre som ikke omfattes av [§§ 5-3](lov/1980-02-08-2/§5-3) til [5-5](lov/1980-02-08-2/§5-5), får rettsvern enten etter reglene om håndpant i [§ 3-2](lov/1980-02-08-2/§3-2) annet og tredje ledd eller ved tinglysing på saksøktes blad i Løsøreregisteret.
+
+### § 5-7. Utlegg i verdipapir, finansielle instrumenter registrert i en verdipapirsentral, innløsningspapir, aksjer, medlemskap i samvirkeforetak eller enkle krav
+
+(1) Utleggspant i verdipapir får rettsvern etter reglene om håndpant i [§ 3-2](lov/1980-02-08-2/§3-2) annet og tredje ledd.
+
+(2) Utleggspant i innløsningspapir som ikke er verdipapir, får rettsvern etter reglene om håndpant i [§ 3-2](lov/1980-02-08-2/§3-2) annet og tredje ledd, når det dessuten er gitt melding til den forpliktede etter papiret etter reglene i [§ 4-5](lov/1980-02-08-2/§4-5).
+
+(3) Utleggspant i aksjer som ikke er registrert i en verdipapirsentral med Norge som hjemstat, får rettsvern etter reglene i [§ 4-2 a](lov/1980-02-08-2/§4-2a) annet ledd.
+
+(4) Utleggspant i medlemskap i samvirkeforetak får rettsvern etter [§ 4-2 b](lov/1980-02-08-2/§4-2b).
+
+(5) Utleggspant i enkle krav får rettsvern etter reglene i [§ 4-5](lov/1980-02-08-2/§4-5) første ledd. Lov av 17. februar 1939 om gjeldsbrev §§ 25 til 28 gjelder tilsvarende.
+
+(6) I de tilfelle som er nevnt i de foregående ledd, får utlegget rettsvern mot saksøktes kreditorer også ved at utlegget blir tinglyst på saksøktes blad i Løsøreregisteret.
+
+(7) Utleggspant i finansielle instrumenter registrert i en verdipapirsentral med Norge som hjemstat får rettsvern ved registrering i verdipapirsentralen, jf. verdipapirsentralloven.
+
+> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [26 juni 1992 nr. 86](lov/1992-06-26-86), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+
+### § 5-8. Utlegg i adkomstdokument til leierett eller borett til husrom
+
+Når det tas utlegg i adkomstdokument til leierett eller borett til husrom, gjelder [§ 4-3](lov/1980-02-08-2/§4-3) og [§ 5-7](lov/1980-02-08-2/§5-7) sjette ledd tilsvarende.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)).
+
+### § 5-8a. Utlegg i borettsandel som er registrert i grunnboken
+
+(1) Utleggspant i borettslagsandel som er registrert i grunnboken får rettsvern ved registrering i grunnboken.
+
+(2) Reglene i [§ 2-2](lov/1980-02-08-2/§2-2) første ledd bokstav c gjelder tilsvarende.
+
+> Tilføyd ved [lov 6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)).
+
+### § 5-9. Utlegg i immaterialrettighet.
+
+Når det kan tas utlegg i patent, varemerke, design, opphavsrett eller lignende rettighet, får panteretten rettsvern ved registrering i særskilt register som måtte finnes for vedkommende rettighet. Dersom det ikke finnes noe særskilt register, får utlegget rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [14 mars 2003 nr. 15](lov/2003-03-14-15) (ikr. 1 mai 2003 iflg. [res. 4 apr 2003 nr. 417](forskrift/2003-04-04-417)).
+
+### § 5-10. Utlegg i andre formuesgoder.
+
+Når utlegg kan tas i andre formuesgoder enn nevnt i [§§ 5-2](lov/1980-02-08-2/§5-2) til [5-9](lov/1980-02-08-2/§5-9), får utlegget rettsvern ved tinglysing på saksøktes blad i Løsøreregisteret.
+
+### § 5-11. Melding til tredjeperson.
+
+Hvor rettsvernet for utleggspant er betinget av at melding blir gitt til tredjeperson, kan slik melding gis av panthaveren eller pantets eier. Ved namsutlegg kan melding dessuten gis av namsmyndigheten og ved skifteutlegg av tingretten.
+
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+
+### § 5-12. Adgang for eier av et utlagt formuesgode som ikke er realregistrert til å kreve formuesgodet solgt.
+
+Ved namsutlegg i et formuesgode som ikke er registrert i et realregister, kan eieren begjære det utlagte tvangssolgt etter [tvangsfullbyrdelsesloven kap 8](lov/1992-06-26-86/kap8), jf [kap 10](lov/1992-06-26-86/kap10), dersom det foreligger fyldestgjørende grunn.
+
+> Tilføyd ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 5-13. Foreldelse av namsutlegg i formuesgoder som ikke er realregistrert.
+
+(1) Et namsutlegg som ikke er registrert i et realregister, faller bort dersom det ikke er begjært tvangsdekning innen tre år etter at panteretten ble stiftet. Dersom det ikke har vært lovlig adgang til å begjære tvangsdekning, faller utlegget likevel ikke bort dersom begjæringen fremsettes innen en måned etter at hindringen falt bort.
+
+(2) Regelen i første ledd gjelder ikke namsutlegg for krav på skatt og offentlig avgift. Det samme gjelder namsutlegg for underholdsbidrag etter [innkrevingsloven § 23](lov/2025-04-25-12/§23).
+
+> Tilføyd ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86), endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [29 apr 2005 nr. 20](lov/2005-04-29-20) (ikr. 1 jan 2006 iflg. [res. 16 des 2005 nr. 1562](forskrift/2005-12-16-1562)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 5-14. Plikt for offentlig myndighet til å sørge for sletting av visse namsutlegg.
+
+Dersom en offentlig myndighet er fordringshaver for et krav som det er tatt utlegg for etter særskilt lovbestemmelse, og utlegget er registrert i register som nevnt i kapitlet her, plikter myndigheten innen en måned etter at kravet er opphørt, å sørge for sletting av utlegget.
+
+> Tilføyd ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## Kap. 6. Lovbestemt pant.
+
+### § 6-1. Lovbestemt pant i fast eiendom.
+
+(1) For skattekrav etter [lov av 6. juni 1975 nr. 29](lov/1975-06-06-29) om eigedomsskatt til kommunane har vedkommende kommune panterett foran alle andre heftelser i den eiendom skattekravet gjelder.
+
+(2) Samme panterett har en kommune og kommunale etater for følgende særlige eiendomsavgifter:avfallsgebyr etter [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall,feieavgift etter brann- og [eksplosjonsvernloven § 28](lov/2002-06-14-20/§28) annet leddårsgebyr for vann og avløp etter [lov om kommunale vass- og avløpsanlegg](lov/2025-06-06-26)
+
+(3) I eierseksjoner har seksjonseierne panterett etter panterett som nevnt i første og annet ledd, men foran alle andre heftelser, for krav på dekning av deres forpliktelser overfor sameiet, i samsvar med [eierseksjonsloven § 31](lov/2017-06-16-65/§31) første ledd.
+
+(4) Panterett etter første til tredje ledd har rettsvern uten tinglysing og kan ikke tinglyses. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke. For andre lovbestemte panterettigheter i fast eiendom gjelder de samme regler om rettsvern og tinglysing som for rettsstiftelser i fast eiendom ellers.
+
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [5 juni 1987 nr. 26](lov/1987-06-05-26), [26 juni 1992 nr. 86](lov/1992-06-26-86), [23 mai 1997 nr. 31](lov/1997-05-23-31) (ikr. 1 jan 1998), [14 juni 2002 nr. 20](lov/2002-06-14-20) (ikr. 1 juli 2002 iflg. [res. 14 juni 2002 nr. 536](forskrift/2002-06-14-536)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [16 juni 2017 nr. 65](lov/2017-06-16-65) (ikr. 1 jan 2018 iflg. [res. 15 sep 2017 nr. 1393](forskrift/2017-09-15-1393)), [6 juni 2025 nr. 26](lov/2025-06-06-26) (i kraft 1 jan 2026 iflg. [res. 6 juni 2025 nr. 988](forskrift/2025-06-06-988)).
+
+### § 6-2. Lovbestemt pant i løsøre.
+
+Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, forsåvidt ikke annet følger av den lovbestemmelse som fastsetter panteretten. Bestemmelsen i [§ 1-4](lov/1980-02-08-2/§1-4) gjelder ikke.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+### § 6-3. Foreldelse.
+
+(1) Lovbestemt pant faller bort dersom det ikke senest to år etter at pantekravet skulle ha vært betalt, innkommer begjæring til namsmyndigheten om tvangsdekning, eller dersom dekningen ikke gjennomføres uten unødig opphold. Registrert lovbestemt pant faller bort dersom tvangsdekning ikke er begjært innen tre år etter at pantekravet skulle vært betalt, eller dersom dekningen ikke gjennomføres uten unødig opphold. [§ 5-13](lov/1980-02-08-2/§5-13) første ledd annet punktum gjelder tilsvarende.
+
+(2) Hvis pantekravet skal betales i to eller flere terminer årlig, blir fristen etter første ledd regnet fra det tidspunkt da den siste terminen skulle ha vært betalt.
+
+(3) Dersom det er kommet i stand gjeldsordning etter gjeldsordningsloven, faller panteretten likevel tidligst bort en måned etter gjeldsordningens avslutning.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+
+### § 6-4. Lovbestemt pant for boomkostninger
+
+(1) Konkursboet har lovbestemt pant i ethvert formuesgode beheftet med pant som tilhører skyldneren på konkursåpningstidspunktet og som kan være gjenstand for utlegg eller konkursbeslag. Panteretten utgjør fem prosent av formuesgodets beregnede verdi eller av det et salg av formuesgodet innbringer, men maksimalt 700 ganger rettsgebyret i hvert realregistrerte panteobjekt. Panteretten går foran annet lovbestemt pant og alle andre heftelser i formuesgodet. Panteretten kan bare benyttes til å dekke nødvendige boomkostninger.
+
+(2) Enhver panthaver eller annen interessert kan innløse boets panterett. Dersom flere ønsker å innløse, har den best prioriterte panthaveren fortrinnsrett til innløsning.
+
+(3) Boet eller den som vil innløse boets panterett kan kreve formuesgodets verdi fastsatt av tingretten. Ved beregningen av formuesgodets verdi skal forholdene på verdsettingstidspunktet legges til grunn. Til grunn for verdsettingen kan tingretten innhente takst som dekkes av boet. I særlige tilfeller kan tingretten bestemme at verdsettingen skal skje ved skiftetakst, jf. [arveloven § 106](lov/2019-06-14-21/§106). I så fall kan retten også fastsette en godtgjørelse for skjønnsmedlemmene som fraviker fra de satsene som ellers gjelder ved skiftetakst. Skiftetakst etter denne bestemmelsen kan ikke overprøves ved overtakst.
+
+(4) Den som innløser boets panterett, trer inn i boets prioritet for et tilsvarende beløp. Innløserens panterett følger reglene for avtalepant i vedkommende formuesgode og skal anses stiftet på betalingstidspunktet. Bostyreren skal snarest mulig og i alle tilfelle før formuesgodet abandoneres eller overføres til en panthaver, sørge for at panteretten får rettsvern etter alminnelige regler.
+
+(5) Dersom det sikrede beløp ikke innbetales frivillig til boet innen den fristen som er avtalt eller som tingretten har fastsatt, kan boet kreve formuesgodet solgt etter reglene i [dekningsloven § 8-15](lov/1984-06-08-59/§8-15).
+
+(6) Er et formuesgode med panterett i som tilhørte skyldneren, solgt senere enn tre måneder før fristdagen (jf. [dekningsloven § 1-2](lov/1984-06-08-59/§1-2)), kan tingretten ved kjennelse beslutte at den eller de panthavere som har fått dekning, men som ikke ville ha fått like stor dekning om boet hadde fått fem prosent av salgssummen, skal innbetale inntil fem prosent av salgssummen til boet såfremt det trengs til dekning av nødvendige boomkostninger. Dette gjelder likevel ikke dersom salget er foretatt som ledd i ordinær og forsvarlig drift.
+
+(7) Tingretten avgjør hvor mye av verdiene som omfattes av legalpantet som det er nødvendig å benytte under bobehandlingen. Er boets panterett innløst og det ved slutningen av boet er midler til helt eller delvis å dekke boomkostningene uten å utnytte legalpanteretten, tilbakebetales det overskytende beløp til innløseren. Er formuesgodet realisert, skal det overskytende beløp tilfalle den eller dem som ville fått dekning dersom legalpanteretten ikke var blitt utnyttet. Er flere formuesgoder realisert, fordeles beløpet på grunnlag av realisasjonssummene.
+
+(8) Reglene i denne paragrafen gjelder tilsvarende ved offentlig skifte av insolvent dødsbo og for øvrig med de begrensningene som følger av overenskomst med fremmed stat.
+
+(9) Konkursboet har ikke lovbestemt pant etter første ledd i formuesgoder som inngår i en finansiell sikkerhetsstillelse etter [lov 26. mars 2004 nr. 17](lov/2004-03-26-17) om finansiell sikkerhetsstillelse.
+
+> Tilføyd ved [lov 23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 juli 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)), endret ved [lover 10 juni 2005 nr. 43](lov/2005-06-10-43) (ikr. 1 jan 2006 iflg. [res. 16 des 2005 nr. 1526](forskrift/2005-12-16-1526)), [16 mars 2007 nr. 11](lov/2007-03-16-11) (ikr. 1 juni 2007 iflg. [res. 25 mai 2007 nr. 552](forskrift/2007-05-25-552)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334), se endringsloven del VI for overgangsregel).
+
+### § 6-5. Lovbestemt pant for lån under rekonstruksjonsforhandling
+
+(1) Den som yter lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19, har lovbestemt pant i ethvert formuesgode beheftet med pant som tilhører skyldneren på tidspunktet da rekonstruksjonsforhandling ble åpnet, og som kan være gjenstand for utlegg eller konkursbeslag. Panteretten utgjør fem prosent av formuesgodets beregnede verdi eller av det et salg av formuesgodet innbringer, men maksimalt 700 ganger rettsgebyret i hvert realregistrerte panteobjekt. Panteretten går foran annet lovbestemt pant og alle andre heftelser i formuesgodet. Panteretten kan bare benyttes til å dekke lån som nevnt i første punktum. Benyttes panteretten etter denne paragrafen, reduseres boets panterett etter [§ 6-4](lov/1980-02-08-2/§6-4) tilsvarende.
+
+(2) Reglene i denne paragrafen gjelder med de begrensningene som følger av overenskomst med fremmed stat. [§ 6-4](lov/1980-02-08-2/§6-4) annet til syvende ledd og niende ledd gjelder tilsvarende.
+
+> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Oppheves** ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (i kraft 1 juli 2026, endring endret ved ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79)).
+
+## Kap. 7. Ikrafttredelse, overgangsbestemmelser, opphevelse og endringer av andre lover.
+
+### § 7-1. Ikrafttredelse.
+
+(1) Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.1
+
+(2) Kongen kan bestemme at deler av loven skal tre i kraft fra et senere tidspunkt enn loven forøvrig. Dette gjelder også bestemmelsene i [§ 7-3](lov/1980-02-08-2/§7-3).
+
+### § 7-2. Overgangsbestemmelser.
+
+(1) Reglene i [kapitlene 1](lov/1980-02-08-2/kap1) til [5](lov/1980-02-08-2/kap5) skal gjelde for panterett som blir stiftet etter at loven (eller vedkommende del av loven) er trådt i kraft.
+
+(2) Fullbyrdelsen av eldre panteretter skal følge de regler som til enhver tid gjelder. Eldre gyldig eiendomsforbehold og forbehold med tilsvarende virkning skal i den forbindelse regnes likt med salgspant; reglene i tvangsfullbyrdelseslovens1 nye § 215 a gjelder likevel ikke for eldre forbehold.
+
+(3) Reglene i [kapittel 6](lov/1980-02-08-2/kap6) skal gjelde for krav som opptjenes i tiden etter at loven er trådt i kraft. Lovbestemt panterett etter bestemmelser som oppheves ved denne lov, kan bare gjøres gjeldende for krav som opptjenes i tiden før loven trer i kraft.
+
+### § 7-3. Opphevelse og endringer av andre lover.
+
+Fra den tid loven trer i kraft, skal følgende bestemmelser i andre lover endres slik: – – –

@@ -1,0 +1,29 @@
+---
+id: "nl-20210611-084"
+slug: "endringslov-til-aksjelovgivningen-mv"
+type: "lov"
+ref_id: "lov/2021-06-11-84"
+title: "Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)"
+short_title: "Endringslov til aksjelovgivningen mv."
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2022-01-01"
+last_change_in_force: null
+last_updated: "2022-03-09"
+xml_hash: "5b239e9c00899964328625b63e816be3622029a8e0b8f46cf3c3fb352ebee1fe"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)
+
+## II
+
+## IV
+
+1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
+2. Departementet kan gi nærmere overgangsbestemmelser.

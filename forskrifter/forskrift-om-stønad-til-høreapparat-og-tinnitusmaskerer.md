@@ -1,0 +1,130 @@
+---
+id: "sf-19970418-0337"
+slug: "forskrift-om-stønad-til-høreapparat-og-tinnitusmaskerer"
+type: "forskrift"
+ref_id: "forskrift/1997-04-18-337"
+title: "Forskrift om stønad til høreapparat og tinnitusmaskerer"
+short_title: "Forskrift om stønad til høreapparat og tinnitusmaskerer"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1997-05-01"
+last_change_in_force: "2018-10-02"
+last_updated: "2011-05-16"
+xml_hash: "635000e7987169f8fb250f88c53a178fb2341886fa7b3a4b088a7a06ee4fab7e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om stønad til høreapparat og tinnitusmaskerer
+
+## I Høreapparat
+
+### § 1. Personkrets
+
+Det kan gis stønad til høreapparat til et medlem som har et hørselstap av et slikt omfang at høreapparat er av vesentlig betydning for hørselsfunksjonen.
+
+Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 2. Stønadsomfang
+
+Etter lov om folketrygd kan det gis stønad til anskaffelse av høreapparat med tilbehør og individuelt tilpassede ørepropper etter bestemmelsene i [§ 3](forskrift/1997-04-18-337/§3) – § 8. Til barn under 18 år med høreapparat som krever lang reparasjonstid kan det også gis stønad til å anskaffe reservehøreapparat. Stønad til reservehøreapparat kan også gis dersom det er nødvendig for å kunne skaffe seg eller beholde høvelig arbeid og det er dokumentert at det ikke finnes et høreapparat på markedet som kan dekke både dagliglivets og arbeidslivets behov.
+
+I tillegg gis det stønad tilinntil 3 batterier til hvert høreapparat. Det ytes ikke stønad til ytterligere anskaffelse av batterier. Dette gjelder også ved yrkesskade/yrkessykdom.legeundersøkelse etter bestemmelsene i [§ 9](forskrift/1997-04-18-337/§9) ogreiseutgifter etter bestemmelsene i [§ 10](forskrift/1997-04-18-337/§10).nødvendige utgifter til reparasjon av høreapparater som det er gitt stønad til etter denne forskriften. For barn under 18 år dekkes også utgifter til service.
+
+Utgifter til reparasjon av skader som skyldes skjødesløs behandling dekkes ikke. Dette gjelder likevel ikke for skader som skyldes barns normale aktiviteter.
+
+> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [11 des 2003 nr. 1491](forskrift/2003-12-11-1491) (fra 1 jan 2004), [18 juni 2004 nr. 908](forskrift/2004-06-18-908), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 3. Gjenanskaffelse
+
+1. Det gis stønad til gjenanskaffelse av høreapparat når det er gått minst 6 år siden medlemmet fikk stønad til høreapparat, oghøreapparatet ikke lenger fungerer tilfredsstillende og det ikke er regningssvarende å reparere det, ellerutprøving av nytt høreapparat har vist at dette gir medlemmet en vesentlig bedre hørselsfunksjon.
+2. Det kan gis stønad til gjenanskaffelse selv om det ikke har gått 6 år nårhørselstapet har endret seg slik at et nytt høreapparat med andre tekniske egenskaper kan gi en vesentlig bedre hørselsfunksjon, ellerdet er kommet en ny type høreapparat på markedet som kan avhjelpe hørselstapet på en vesentlig bedre måte, ellermedlemmet på grunn av vesentlig endring i funksjonsevnen ikke lenger er i stand til å betjene høreapparatet.
+3. Dersom medlemmet er under 18 år og har mistet eller ødelagt høreapparatet under lek eller annen aktivitet som er normal for alderen, kan det gis stønad til et nytt høreapparat selv om det ikke er gått 6 år siden medlemmet sist fikk stønad til høreapparat.
+
+> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 4. Søknad om stønad til høreapparat
+
+1. Det er et vilkår for å få stønad til høreapparat og ørepropp at det foreligger søknad om stønad fra hørselssentral eller fra avtalespesialist som fyller de krav og vilkår som er nevnt i [§ 5](forskrift/1997-04-18-337/§5). Avtalespesialisten må ha skriftlig avtale med det regionale helseforetaket om å formidle og tilpasse høreapparat og tinnitusmaskerer. Søknad om stønad skrives på blankett fastsatt av Arbeids- og velferdsdirektoratet. Søknad om stønad sendes Arbeids- og velferdsetaten etter forutgående undersøkelse av den hørselshemmede og tilpasning av høreapparatet.
+2. Det kan bare gis stønad til høreapparat som omfattes av leverings- og prisavtale som nevnt i [§ 6](forskrift/1997-04-18-337/§6). Unntaksvis kan det søkes om dispensasjon til å anskaffe en ny apparattype som det ikke er inngått avtale om, når dette er helt nødvendig for å oppnå et ønskelig resultat.
+3. En avtalespesialist, lege eller andre profesjonsutøvere i høreapparatformidlingen kan ikke formidle høreapparat som er levert av et firma som avtalespesialisten, legen eller profesjonsutøveren eller noen av deres nærmeste pårørende har økonomiske interesser i.
+
+> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 5. Undersøkelse og tilpasning
+
+Undersøkelse av den hørselshemmede og tilpasning av høreapparat skal utføres i samsvar med forsvarlig medisinskfaglig framgangsmåte.
+
+Den som utfører eller har ansvaret for å undersøke den hørselshemmede, ta avtrykk av øregangen for framstilling av ørepropper og tilpasning av høreapparat, skal ha nødvendige kvalifikasjoner til å utføre undersøkelsen og gjennomføre behandlingen på en faglig forsvarlig måte.
+
+> Endret ved [forskrift 3 juni 2002 nr. 512](forskrift/2002-06-03-512).
+
+### § 6. Avtaler om pris og levering
+
+Arbeids- og velferdsdirektoratet inngår avtaler med leverandører om levering av og priser på høreapparater med tilbehør som det gis stønad til. Avtalene omfatter også levering av og pris på reparasjon. Avtaler inngås på grunnlag av regelverket for offentlige anskaffelser for så mange apparattyper som er nødvendig for å dekke det antatte behovet i avtaleperioden.
+
+Arbeids- og velferdsdirektoratet skal videre inngå avtaler med leverandører av generiske ørepropper om levering av og priser på generiske ørepropper.
+
+> Endret ved [forskrifter 3 juni 2002 nr. 512](forskrift/2002-06-03-512), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 7. Eiendomsforhold
+
+Høreapparat som det er gitt stønad til er medlemmets eiendom.
+
+> Endret ved [forskrift 2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 8. Stønad til høreapparat
+
+Etter lov om folketrygd kan det gis stønad etter avtalte priser for:Høreapparat med tilbehør og individuelt tilpassede ørepropper som er søkt om i samsvar med denne forskriften. Det kan gis stønad for analogt og digitalt høreapparat opp til satser fastsatt av departementet.Stønadsgrensene kan fravikes for analogt høreapparat hvis et dyrere apparat er nødvendig av medisinske grunner for å oppnå en vesentlig bedre hørselsfunksjon. Stønadsgrensen for digitalt høreapparat kan ikke fravikes.Til barn under 18 år og ved hørselstap som skyldes godkjent yrkesskade gis det stønad til full dekning av nødvendige utgifter til hensiktsmessig analogt eller digitalt høreapparat uten hensyn til stønadsgrensen e.Reparasjon av høreapparat ved verksted.
+
+For høreapparater utlevert til barn under 18 år kan det gis en servicegodtgjørelse for apparatservice hos lokal forhandler eller hørselssentral.
+
+Arbeids- og velferdsetatens forhåndsgaranti skal foreligge før høreapparatet utleveres. Arbeids- og velferdsdirektoratet kan gjøre unntak fra dette.
+
+> Endret ved [forskrifter 9 jan 1998 nr. 24](forskrift/1998-01-09-24) (i kraft 1 jan 1998), [22 des 1998 nr. 1435](forskrift/1998-12-22-1435) (i kraft 1 jan 1999), [3 feb 1999 nr. 192](forskrift/1999-02-03-192), [8 jan 2001 nr. 17](forskrift/2001-01-08-17), [23 des 2004 nr. 1813](forskrift/2004-12-23-1813) (i kraft 1 jan 2005), [10 jan 2006 nr. 20](forskrift/2006-01-10-20) (i kraft 1 jan 2006), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006), [22 des 2006 nr. 1601](forskrift/2006-12-22-1601) (i kraft 1 jan 2007), [4 jan 2008 nr. 23](forskrift/2008-01-04-23) (i kraft 1 jan 2008), [8 des 2008 nr. 1286](forskrift/2008-12-08-1286) (i kraft 1 jan 2009), [2 mai 2011 nr. 433](forskrift/2011-05-02-433), [22 des 2011 nr. 1486](forskrift/2011-12-22-1486) (i kraft 1 jan 2012), [17 des 2012 nr. 1274](forskrift/2012-12-17-1274) (i kraft 1 jan 2013), [19 des 2013 nr. 1644](forskrift/2013-12-19-1644) (i kraft 1 jan 2014), [10 jan 2014 nr. 13](forskrift/2014-01-10-13) (i kraft 1 jan 2014), [18 des 2016 nr. 1822](forskrift/2016-12-18-1822) (i kraft 1 jan 2016), [20 des 2017 nr. 2328](forskrift/2017-12-20-2328) (i kraft 1 jan 2018), [2 okt 2018 nr. 1536](forskrift/2018-10-02-1536).
+
+### § 9. Legeundersøkelse
+
+Utgifter til nødvendig legeundersøkelse i forbindelse med anskaffelse av høreapparat dekkes etter refusjonstakstene, se forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege.
+
+Egenandel ved legeundersøkelse dekkes hvis lidelsen skyldes yrkesskade eller krigsskade, se [folketrygdloven § 5-25](lov/1997-02-28-19/§5-25) og lovene om krigspensjonering.
+
+> Endret ved [forskrift 2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 10. Reiseutgifter
+
+Hvis et medlem må reise til lege eller hørselssentral i forbindelse med formidling av høreapparat, dekkes reiseutgiftene gjennom folketrygden etter regler og takster fastsatt av Arbeids- og velferdsdirektoratet.
+
+> Endret ved [forskrifter 14 juni 2004 nr. 891](forskrift/2004-06-14-891), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+### § 11. Gjennomføring
+
+Arbeids- og velferdsdirektoratet gir retningslinjer for den praktiske gjennomføringen av denne forskriften og for oppgjør.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [2 mai 2011 nr. 433](forskrift/2011-05-02-433).
+
+## II Tinnitusmaskerer
+
+### § 12. Stønad til tinnitusmaskerer
+
+Til et medlem som er tinnitusrammet, kan det gis stønad til tinnitusmaskerer.
+
+Stønad til tinnitusmaskerer kan ytes opp til satser fastsatt av departementet. Stønadsgrensen kan fravikes hvis et dyrere apparat er nødvendig av medisinske grunner.
+
+[§ 2](forskrift/1997-04-18-337/§2) – § 11 gjelder tilsvarende.
+
+> Tilføyd ved [forskrift 9 jan 1998 nr. 24](forskrift/1998-01-09-24) (med virkning fra 1 jan 1998), endret ved [forskrifter 23 des 2004 nr. 1813](forskrift/2004-12-23-1813) (i kraft 1 jan 2005), [10 jan 2006 nr. 20](forskrift/2006-01-10-20) (i kraft 1 jan 2006), [22 des 2006 nr. 1601](forskrift/2006-12-22-1601) (i kraft 1 jan 2007), [4 jan 2008 nr. 23](forskrift/2008-01-04-23) (i kraft 1 jan 2008), [8 des 2008 nr. 1286](forskrift/2008-12-08-1286) (i kraft 1 jan 2009), [2 mai 2011 nr. 433](forskrift/2011-05-02-433), [22 des 2011 nr. 1486](forskrift/2011-12-22-1486) (i kraft 1 jan 2012), [17 des 2012 nr. 1274](forskrift/2012-12-17-1274) (i kraft 1 jan 2013), [19 des 2013 nr. 1644](forskrift/2013-12-19-1644) (i kraft 1 jan 2014), [18 des 2016 nr. 1822](forskrift/2016-12-18-1822) (i kraft 1 jan 2016), [20 des 2017 nr. 2328](forskrift/2017-12-20-2328) (i kraft 1 jan 2018), [2 okt 2018 nr. 1536](forskrift/2018-10-02-1536).
+
+## III Ikrafttredelse
+
+### § 13. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.
+
+> Endret [9 jan 1998 nr. 24](forskrift/1998-01-09-24) (tidligere [§ 12](forskrift/1998-01-09-24/§12)).

@@ -1,0 +1,30 @@
+---
+id: "sf-20040318-0532"
+slug: "forskrift-om-målbruk-i-helseføretak"
+type: "forskrift"
+ref_id: "forskrift/2004-03-18-532"
+title: "Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste."
+short_title: "Forskrift om målbruk i helseføretak"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "2004-03-18"
+last_change_in_force: null
+last_updated: null
+xml_hash: "2a480b45b5c513e643571c87472b658abca665ee101a4c1f3df592bb339d050e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.
+
+## I
+
+Helseføretak og regionale helseføretak etter [lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseføretak m.m. [§ 2](lov/2001-06-15-93/§2) er å rekna som «organ for stat» etter [lov 11. april 1980 nr. 5](lov/1980-04-11-5) om målbruk i offentleg teneste [§ 1](lov/1980-04-11-5/§1) og dermed som ein del av «statstenesta» etter [§ 2](lov/1980-04-11-5/§2) første ledd i sistnemnde lov.
+
+## II
+
+Forskrifta trer i kraft straks.

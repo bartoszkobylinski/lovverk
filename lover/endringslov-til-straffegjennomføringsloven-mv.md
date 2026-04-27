@@ -1,0 +1,33 @@
+---
+id: "nl-20130614-044"
+slug: "endringslov-til-straffegjennomføringsloven-mv"
+type: "lov"
+ref_id: "lov/2013-06-14-44"
+title: "Lov om endringar i straffegjennomføringsloven mv."
+short_title: "Endringslov til straffegjennomføringsloven mv."
+language: "nn"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "b57f55418f8bd08d6f2d96a1d80ca8976eae63d40ef3d6d26202b92b6d4fb4b5"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringar i straffegjennomføringsloven mv.
+
+## II
+
+I [lov 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker vert det gjort følgjande endringar:
+
+Personundersøkelse utføres av en skikket person som kriminalomsorgen utpeker, om ikke retten oppnevner en bestemt person til å foreta undersøkelsen.
+
+## IV. Ikraftsetjing
+
+1. Endringa i [straffeprosessloven § 163](lov/1981-05-22-25/§163) fyrste ledd tek til å gjelde frå det tidspunktet Kongen fastset.
+2. Elles tek lova til å gjelde straks.

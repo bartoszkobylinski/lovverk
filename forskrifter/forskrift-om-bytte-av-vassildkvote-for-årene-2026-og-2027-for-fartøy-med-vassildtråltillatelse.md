@@ -1,0 +1,50 @@
+---
+id: "sf-20251218-2690"
+slug: "forskrift-om-bytte-av-vassildkvote-for-årene-2026-og-2027-for-fartøy-med-vassildtråltillatelse"
+type: "forskrift"
+ref_id: "forskrift/2025-12-18-2690"
+title: "Forskrift om bytte av vassildkvote for årene 2026 og 2027 for fartøy med vassildtråltillatelse"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "2de63e02ed864928d511977d34b5620af4f54d605ab914168a6844bce9c7948a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om bytte av vassildkvote for årene 2026 og 2027 for fartøy med vassildtråltillatelse
+
+## § 1. Virkeområde
+
+Denne forskriften gir to fartøy med vassildtråltillatelse etter [konsesjonsforskriften § 2-24](forskrift/2006-10-13-1157/§2-24) adgang til å inngå en avtale om bytte av vassildkvote for årene 2026 og 2027.
+
+## § 2. Vilkår for kvotebytte
+
+Kvotebytteordningen gjelder bare mellom fartøy med vassildtråltillatelse. Begge tillatelsene må være kvoteavregnet med minimum 100 tonn vassild i ett av de tre siste årene. Kvotebyttet må gjelde hele kvoteårets kvote.
+
+Det er et vilkår for kvotebytte at begge fartøyeierne har gitt bindende og signert melding til Fiskeridirektoratet før det fiskes. Meldingen skal bindende angi fartøynavn, fiskerimerke, kjennesignal og identitetsnummeret til fartøyets vassildtråltillatelse. Det skal også oppgis hvilket fartøy som skal fiske på egen og det andre fartøyets tillatelse i 2026 og hvilket av disse fartøyene som skal fiske på egen og det andre fartøyets tillatelse i 2027.
+
+## § 3. Virkning av kvotebytte
+
+Et kvotebytte mellom to fartøy som er lovlig innmeldt etter [§ 2](forskrift/2025-12-18-2690/§2) gir det ene fartøyet rett til å fiske vassildkvoten etter egen og det andre fartøyets tillatelse i 2026. Fartøyet som avgir vassildkvoten på egen tillatelse i 2026 gis rett til å fiske vassildkvoten etter egen og det andre fartøyets tillatelse i 2027. Det er ikke adgang til å fiske med det samme fartøyet begge årene.
+
+Det er ikke adgang for et fartøy til å fiske på kvote som er byttet bort. Det er heller ikke adgang til å føre tilbake kvote som er byttet bort.
+
+Ved utskifting, salg av fartøy for fortsatt drift eller oppgivelse av tillatelse, følger adgangen til å fiske vassildtråltillatelsen som er innmeldt etter [§ 2](forskrift/2025-12-18-2690/§2).
+
+Det er ikke til hinder for kvotebytte etter første punktum at det er tildelt leiefartøytillatelse etter [konsesjonsforskriften § 1-7](forskrift/2006-10-13-1157/§1-7) for fiske i medhold av relevant tillatelse.
+
+## § 4. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften, straffes i henhold til [lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar §§ 60](lov/2008-06-06-37/§60), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2026 og varer til og med 31. desember 2027.

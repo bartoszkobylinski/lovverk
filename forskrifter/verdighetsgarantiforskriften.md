@@ -1,0 +1,44 @@
+---
+id: "sf-20101112-1426"
+slug: "verdighetsgarantiforskriften"
+type: "forskrift"
+ref_id: "forskrift/2010-11-12-1426"
+title: "Forskrift om en verdig eldreomsorg (verdighetsgarantien)"
+short_title: "Verdighetsgarantiforskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2011-01-01"
+last_change_in_force: "2020-07-01"
+last_updated: null
+xml_hash: "cc5e6dd43e67790a27ec620c343b3f68b89429b7fb32c8bb4e777589d22e6345"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om en verdig eldreomsorg (verdighetsgarantien)
+
+## § 1. Formål og virkeområde
+
+Forskriften har som formål å sikre at eldreomsorgen tilrettelegges på en slik måte at dette bidrar til en verdig, trygg og meningsfull alderdom.
+
+Forskriften gjelder den eldreomsorg som ytes i medhold av helse- og omsorgstjenesteloven. Forskriften får anvendelse uavhengig av hvor tjenesten utføres. Forskriften klargjør hvordan tjenestetilbudet skal utformes for å sikre retten til nødvendige helse- og omsorgstjenester og et verdig tjenestetilbud.
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+## § 2. Tjenestens verdigrunnlag
+
+De kommunale pleie- og omsorgstjenestene skal legge til rette for en eldreomsorg som sikrer den enkelte tjenestemottaker et verdig og så langt som mulig meningsfylt liv i samsvar med sine individuelle behov.
+
+## § 3. Tjenestens innhold
+
+Tjenestetilbudet skal innrettes i respekt for den enkeltes selvbestemmelsesrett, egenverd og livsførsel og sikre at medisinske behov blir ivaretatt. For å oppnå disse målsettingene skal tjenestetilbudet legge til rette for at følgende hensyn ivaretas:En riktig og forsvarlig boform ut fra den enkeltes behov og tilstand.Et variert og tilstrekkelig kosthold og tilpasset hjelp ved måltider.Et mest mulig normalt liv, med normal døgnrytme og adgang til å komme ut, samt nødvendig hjelp til personlig hygiene.Tilby samtaler om eksistensielle spørsmål.Lindrende behandling og en verdig død.Å bevare eller øke sin mulighet til å fungere i hverdagen. Omsorgen skal bidra til habilitering og rehabilitering.Faglig forsvarlig oppfølging av lege og annet relevant personell, som sikrer kontinuitet i behandlingen.Tilby eldre som bor på helseinstitusjon enerom.at par som ønsker det skal kunne bo sammen.
+
+> Endret ved [forskrift 19 juni 2020 nr. 1238](forskrift/2020-06-19-1238) (i kraft 1 juli 2020).
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2011.

@@ -1,0 +1,106 @@
+---
+id: "sf-19620601-0001"
+slug: "forskr-om-utlendingers-adgang-til-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/1962-06-01-1"
+title: "Forskrifter om utlendingers adgang til Jan Mayen"
+short_title: "Forskr. om utlendingers adgang til Jan Mayen"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1962-07-01"
+last_change_in_force: "2022-05-01"
+last_updated: null
+xml_hash: "be27438e4d4bc1b3b63dbd4da8e3b67127bb7a7e11bb8b9623cffdb445486c90"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter om utlendingers adgang til Jan Mayen
+
+## I. Passplikt m.v.
+
+### § 1. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+### § 2. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+## II. Visumplikt.
+
+### § 3. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+## III. Inn- og utreisekontroll.
+
+### § 4. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+### § 5. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+### § 6. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+### § 7. (Opphevet)
+
+> *Opphevet* ved [forskrift 29 april 2022 nr. 645](forskrift/2022-04-29-645) (i kraft 1 mai 2022).
+
+## IV. Oppholdstillatelse.
+
+### § 8
+
+Utlending som kommer til Jan Mayen, kan av politiet gis tillatelse til å oppholde seg der i inntil 1 uke under forutsetning av at han etter oppholdstidens utløp vil kunne forlate øya med skip eller fly. Dersom en utlending akter å ta opphold ut over 1 uke, må han på forhånd skaffe seg tillatelse til det av Justisdepartementet. Eventuell tillatelse gis gebyrfritt.
+
+Utlending som nektes oppholdstillatelse, skal pålegges straks å forlate Jan Mayen.
+
+### § 9
+
+Politiet skal føre register over utlendinger som gis tillatelse til å oppholde seg på Jan Mayen.
+
+## V. Arbeidstillatelse.
+
+### § 10
+
+Utlending som vil ta arbeid av enhver art på Jan Mayen må på forhånd skaffe seg særskilt tillatelse til det av Justisdepartementet.
+
+## VI. Avvisning og utvisning.
+
+### § 11
+
+Utlending som kommer til Jan Mayen uten gyldig pass eller med uvisert pass i de tilfeller hvor visum er foreskrevet, eller som ikke iakttar bestemmelsene i disse forskrifter, skal som regel avvises (nektes adgang til Jan Mayen).
+
+For øvrig kan politiet avvise enhver utlending dersom hans forhold tilsier det.
+
+### § 12
+
+Utlending som går i land på Jan Mayen uten å melde seg og legitimere seg som bestemt i disse forskrifter eller som handler i strid med lover og forskrifter som gjelder på Jan Mayen, kan utvises etter beslutning av politiet.
+
+Før utvisningsbeslutning treffes, skal utlendingen gis anledning til å forklare seg, og hans forklaring skal nedtegnes.
+
+Utvisningsbeslutningen anmerkes i utlendingens pass. Den utviste kan pålegges å betale utgiftene ved iverksettelse av utvisningsbeslutningen.
+
+### § 13
+
+Den som er besluttet utvist kan ikke reise inn igjen i riket uten etter særskilt tillatelse fra Justisdepartementet. Kommer han til riket uten slik tillatelse, vil han kunne straffes etter [straffelovens § 342](lov/2005-05-20-28/§342). Han skal gjøres oppmerksom på dette når beslutningen om utvisning blir meddelt.
+
+### § 14
+
+Politiet fører eget register over foretatte utvisninger, og det sender straks telegrafisk innberetning om utvisningsbeslutninger til politimesteren i Troms med angivelse av utlendingens fulle navn, fødselsår og fødselsdatum, samt når utvisningsbeslutningen er truffet og grunnen til denne.
+
+Politimesteren i Troms sender straks innberetningen videre til Statens utlendingskontor, som videresender den til Justisdepartementet.
+
+## VII. Ikrafttreden.
+
+### § 15
+
+Disse forskrifter trer i kraft fra og med 1. juli 1962.

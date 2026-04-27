@@ -1,0 +1,68 @@
+---
+id: "sf-20221019-1961"
+slug: "forskrift-om-skyteprøve-ved-fangst-av-vågehval"
+type: "forskrift"
+ref_id: "forskrift/2022-10-19-1961"
+title: "Forskrift om skyteprøve ved fangst av vågehval"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2022-10-19"
+last_change_in_force: null
+last_updated: null
+xml_hash: "bb31363193a15fc0d2cfb0b41cf14d05b1f13d587910e2cb8e63bbbf44c7453c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om skyteprøve ved fangst av vågehval
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre teoretisk og praktisk opplæring for å utøve dyrevelferdsmessig forsvarlig avliving av vågehval.
+
+## § 2. Virkeområde
+
+Forskriften gjelder for all fangst av vågehval fra norsk fartøy.
+
+## § 3. Krav til opplæring
+
+Skipper på fartøy som har tillatelse til å delta i fangst av vågehval og den som skal skyte vågehval må gjennomgå teoretisk og praktisk opplæring. Skytter må i tillegg årlig avlegge skyteprøve med harpunkanon og rifle.
+
+## § 4. Krav til skyteprøve med harpunkanon
+
+Skyteprøve med harpunkanon skal avlegges på følgende måte:
+
+Det skal avlegges tre skudd hvor avstand til blinken skal være 30 meter for to skudd og 40 meter for ett skudd. Alle skuddene må treffe angitt målområde. Ved bomskudd må hele prøven avlegges på nytt. Blinken består av en ring med diameter 80 cm med to flottører festet til ringen slik at den flyter med halve ringen over vannet.
+
+Prøven kan årlig avlegges maksimalt tre ganger.
+
+## § 5. Krav til skyteprøve med rifle
+
+Skyteprøven skal avlegges med samme våpen og type ammunisjon som skal benyttes under fangsten.
+
+Skyteprøven skal avlegges på følgende måte:
+
+Det skal avlegges fem skudd stående uten anlegg mot en blink på 20 cm i diameter (C-20) med skuddavstand 30 m hvor alle skuddene skal være treff. Dersom ett av skuddene treffer utenfor blinken, må hele prøven (fem skudd) avlegges på nytt.
+
+Det er ingen begrensinger på antall forsøk.
+
+## § 6. Ansvar for opplæring og godkjenning
+
+Fiskeridirektoratet er ansvarlig for tilrettelegging, gjennomføring og godkjenning av skyteprøve med harpunkanon.
+
+Skyteprøve med rifle skal avlegges på godkjent skytebane med autorisert skyteleder.
+
+Det skal utstedes dokumentasjon på oppfylte kompetansekrav.
+
+## § 7. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften straffes i henhold til [lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 60](lov/2008-06-06-37/§60), [§ 64](lov/2008-06-06-37/§64) og [§ 65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk.
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft straks.

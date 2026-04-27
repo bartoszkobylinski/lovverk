@@ -1,0 +1,78 @@
+---
+id: "sf-19831123-1779"
+slug: "forskr-om-lovbest-sykepleietjeneste"
+type: "forskrift"
+ref_id: "forskrift/1983-11-23-1779"
+title: "Forskrift om lovbestemt sykepleietjeneste i kommunens helsetjeneste"
+short_title: "Forskr. om lovbest. sykepleietjeneste"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1984-01-01"
+last_change_in_force: "2021-09-17"
+last_updated: null
+xml_hash: "90e2dd9784e54febb94797137d1ea236293ca023327983d4b70e9d63bde36d0d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om lovbestemt sykepleietjeneste i kommunens helsetjeneste
+
+## § 1. Oppgaver
+
+Kommunens lovbestemte sykepleietjeneste omfatter oppgaver innenfor forebyggende helsearbeid med spesiell vekt på opplysende og rådgivende virksomhet samt kurativ behandling og pleie, opptrening og rene pleiefunksjoner.
+
+Tilsatte i sykepleietjenesten må arbeide i nær kontakt med det øvrige helsepersonell i kommunen. Det må videre være nært samarbeid med kommunal sosialtjeneste, offentlig tannhelsetjeneste og helseinstitusjoner.
+
+## § 2. Organisasjon
+
+Sykepleietjenesten, herunder helsesøstertjeneste og hjemmesykepleie, er en del av kommunens lovbestemte helsetjeneste, både faglig og administrativt. Det forutsettes at andre lovbestemte sykepleiedeltjenester kan innpasses i virksomheten.
+
+## § 3. Faglige krav/ansvar
+
+Kommunen tilsetter kvalifisert personell i de lovbestemte deltjenestene, herunder blant annetHelsesøstre for å dekke behovet for de spesielle sykepleiefunksjoner i forbindelse med helsefremmende og forebyggende arbeid.Sykepleiere og hjelpepleiere for å utføre andre funksjoner i kommunens sykepleietjeneste.
+
+For å kunne tilsettes i helsesøsterstilling må vedkommende ha bestått eksamen fra godkjent helsesøster-utdanning.
+
+Offentlig godkjent sykepleier kan konstitueres i helsesøsterstilling.
+
+Faglig leder for helsesøstertjenesten skal være helsesøster.
+
+Faglig leder for hjemmesykepleien skal være offentlig godkjent sykepleier.
+
+Etter vedtatt plan kan sykepleiere, hjelpepleiere og andre som er tilsatt i kommunens sykepleietjeneste tillegges andre pleiefunksjoner innen helse- og sosialtjenesten i kommunen.
+
+> Endret ved [forskrift 11 feb 1997 nr. 126](forskrift/1997-02-11-126).
+
+## § 4. Anmodning om hjemmesykepleie/ansvar for kontakt med lege
+
+Anmodning om hjemmesykepleie kan komme fra pasienten selv eller andre. Leder for hjemmesykepleien skal medvirke til at den enkelte pasient får nødvendig legetilsyn.
+
+## § 5. Tilsyn
+
+Statsforvalteren skal føre det overordnede tilsyn med sykepleietjenestene i fylket og påse at forskrifter og retningslinjer blir fulgt.
+
+> Endret ved [forskrifter 1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [16 des 2011 nr. 1396](forskrift/2011-12-16-1396) (i kraft 1 jan 2012), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 6. Planer
+
+Sykepleietjenesten skal planlegges som ledd i utarbeidingen av kommunens helse- og sosialplan, jfr. [lov av 19. november 1982 nr. 68](lov/1982-11-19-68) om planlegging av og forsøksvirksomhet i sosialtjenesten og helsetjenesten i kommunene samt gjeldende retningslinjer.
+
+## § 7. Utfylling/gjennomføring
+
+Departementet kan gi nærmere retningslinjer til utfylling og gjennomføring av denne forskrift.
+
+> Endret ved [forskrift 20 des 2001 nr. 1580](forskrift/2001-12-20-1580) (i kraft 1 jan 2002).
+
+## § 8. Dispensasjon
+
+Departementet kan, når særlige grunner foreligger gjøre unntak fra bestemmelsene i denne forskrift.
+
+> Endret ved [forskrift 20 des 2001 nr. 1580](forskrift/2001-12-20-1580) (i kraft 1 jan 2002).
+
+## § 9. Ikrafttreden
+
+Denne forskrift trer i kraft fra 1. januar 1984. Fra samme dato oppheves midlertidig norm for instruks for helsesøstre, herunder som administrativ leder av helsestasjonsvirksomhet og skolehelsetjeneste, fastsatt av helsedirektøren 12. april 1976, midlertidige retningslinjer for opprettelse og drift av hjemmesykepleievirksomhet, fastsatt av Sosialdepartementet 22. desember 1971 og norm for instrukser for sykepleiesjef, offentlig godkjent sykepleier og hjelpepleier i hjemmesykepleien, fastsatt av Sosialdepartementet samme dato.

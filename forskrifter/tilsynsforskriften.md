@@ -1,0 +1,100 @@
+---
+id: "sf-20221216-2272"
+slug: "tilsynsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2022-12-16-2272"
+title: "Forskrift om tilsyn med tjenester og tiltak til barn i barnevernsinstitusjoner m.m. (tilsynsforskriften)"
+short_title: "Tilsynsforskriften"
+language: "nb"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2023-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2025-05-01"
+xml_hash: "196ca77d57d598c97596bf88b92f99e776c06001d493dcf05cb8972310ab9e8e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilsyn med tjenester og tiltak til barn i barnevernsinstitusjoner m.m. (tilsynsforskriften)
+
+## § 1. Formålet med tilsynet
+
+Tilsynets formål er å føre kontroll med at barnevernsinstitusjoner følger [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt bidra til å styrke kvaliteten i barnevernsinstitusjonene slik at institusjonen gir det enkelte barn forsvarlig omsorg og behandling. Videre skal tilsynet bidra til at det enkelte barn behandles hensynsfullt og med respekt for sin personlige integritet, og at barnets rettssikkerhet blir ivaretatt.
+
+Tilsynet skal bidra til at hensynet til barnets beste og barns rett til å medvirke blir ivaretatt.
+
+## § 2. Virkeområde
+
+Forskriften gjelder tilsyn med tjenester og tiltak til barn i barnevernsinstitusjoner etter [barnevernsloven kapittel 10](lov/2021-06-18-97/kap10).
+
+Forskriften gjelder tilsvarende ved tilsyn med omsorgssentre for enslige mindreårige asylsøkere etter [barnevernsloven kapittel 11](lov/2021-06-18-97/kap11), og så langt den passer for fosterhjem med særlige forutsetninger etter [barnevernsloven § 6-3](lov/2021-06-18-97/§6-3) første ledd.
+
+## § 3. Tilsynsmyndighetenes oppgaver og ansvar
+
+Statens helsetilsyn har det overordnede faglige tilsyn med barnevernsinstitusjonene. Statens helsetilsyn skal utøve sin myndighet i samsvar med [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven. Statsforvalteren er underlagt Statens helsetilsyn ved utøvelse av tilsyn etter denne forskriften.
+
+Statsforvalteren skal føre tilsyn med at barnevernsinstitusjoner følger [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven. Statsforvalteren i det fylket institusjonen ligger har ansvar for tilsynet. Dersom institusjonen består av avdelinger som ligger i flere fylker, er det statsforvalteren i det fylket avdelingen ligger som har ansvaret for tilsynet. De berørte statsforvalterne kan avtale at tilsynet skal organiseres på en annen måte.
+
+Tilsynet omfatter også å føre kontroll med at institusjonene gir det enkelte barn forsvarlig omsorg og behandling. Statsforvalteren skal ved utøvelse av tilsynet ha sin oppmerksomhet rettet mot alle forhold som har betydning for barnas utvikling, trivsel, velferd og rettssikkerhet. Som del av tilsynet skal statsforvalteren kontrollereat det foreligger et gyldig vedtak for oppholdet,at institusjonen ivaretar forutsetninger i barnevernstjenestens eller nemndas vedtak,at det foreligger planer for det enkelte barn i samsvar med [barnevernslovens kapittel 8](lov/2021-06-18-97/kap8) og oppfølgingsforskriften § 6,at institusjonen ivaretar det enkelte barnets rettigheter etter [barnevernsloven § 10-1](lov/2021-06-18-97/§10-1) til [§ 10-15](lov/2021-06-18-97/§10-15) og forskrifter til disse bestemmelsene,at institusjonen ivaretar det enkelte barnets etniske, kulturelle, språklige og religiøse bakgrunn ut fra formålet med oppholdet og institusjonens målsetting og rammer, ogat institusjonen følger opp samiske barns særlige rett til å ivareta språklig og kulturell bakgrunn på en hensiktsmessig måte ut fra formålet med oppholdet og institusjonens målsetting og rammer.
+
+Statsforvalteren skal som del av tilsynet kontrollere protokoller etter [barnevernsloven § 10-16](lov/2021-06-18-97/§10-16), og løpende følge med på utviklingen.
+
+Dersom statsforvalteren mottar klage på enkeltvedtak eller andre henvendelser fra barn og foreldre om forhold som gjelder oppholdet på institusjonen, skal statsforvalteren vurdere om klagen eller henvendelsen skal følges opp med tilsyn.
+
+> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 4. Planlegging og gjennomføring av tilsyn
+
+Statsforvalteren skal kontinuerlig vurdere behovet for tilsyn med den enkelte institusjon på grunnlag av risikovurderinger.
+
+Statsforvalteren kan undersøke alle sider av virksomheten som har betydning for at institusjonen yter tjenester og tiltak som er forsvarlige og til det enkelte barnets beste. Statsforvalteren kan uten hinder av taushetsplikt innhente alle relevante opplysninger, jf. [barnevernsloven § 17-4](lov/2021-06-18-97/§17-4).
+
+Dersom statsforvalteren får kunnskap om hendelser som innebærer fare for liv eller helse, skal dette snarest mulig følges opp. Det samme gjelder dersom statsforvalteren blir kjent med forhold som tilsier at barn ikke gis forsvarlig omsorg og behandling.
+
+Etter hvert tilsyn skal statsforvalteren utarbeide en skriftlig rapport som sendes til institusjonen og til regionalt nivå i Barne-, ungdoms- og familieetaten.
+
+Statsforvalteren skal sende en kopi av rapporten til barnevernstjenestene i de kommunene som har oppfølgnings – eller omsorgsansvar for barn på institusjonen. Statsforvalteren skal ta ut direkte identifiserbare opplysninger om barn som følges opp av andre kommuner.
+
+## § 5. Stedlig tilsyn
+
+Som del av tilsynet skal statsforvalteren føre stedlig tilsyn på institusjoner så ofte som nødvendig, men minst to gang hvert år. Barnevernsinstitusjoner som tar imot barn med vedtak etter [barnevernsloven § 4-4](lov/2021-06-18-97/§4-4), [§ 6-1](lov/2021-06-18-97/§6-1), [§ 6-2](lov/2021-06-18-97/§6-2) og [§ 6-6](lov/2021-06-18-97/§6-6) skal det føres stedlig tilsyn med minst fire ganger hvert år.
+
+Tilsynet skal legges til et tidspunkt der det kan forventes at barna er til stede på institusjonen.
+
+Statsforvalteren skal sørge for at det enkelte barn gis tilstrekkelig og tilpasset informasjon om tilsynet, herunder om at barnet kan ta kontakt med statsforvalteren også utenom det regelmessige stedlige tilsynet.
+
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at statsforvalteren skal kunne prioritere sine tilsynsoppgaver på en formålstjenlig og forsvarlig måte, kan statsforvalteren uten hinder av minstekravene i første ledd, vurdere hvor mange årlige tilsyn som skal føres ved besøk i det enkelte omsorgssenteret eller familiebaserte botilbudet.
+
+> **Endres** ved forskrift [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2026, se § 8 annet ledd).
+
+## § 6. Tilsynssamtaler
+
+Statsforvalteren skal ved stedlig tilsyn kontakte det enkelte barn og gi barnet tilstrekkelig og tilpasset informasjon om tilsynet. Dette gjelder også barn som ikke var til stede ved tilsynet. Barnet skal informeres om retten til å snakke med statsforvalteren alene dersom barnet ønsker det. Statsforvalteren skal legge til rette for at barnet fritt kan uttale seg om alle sider ved institusjonsoppholdet, og gjennomføres på en måte som er tilpasset barnets alder og modenhet. Barnet skal gis informasjon om retten til å klage til statsforvalteren etter [barnevernsloven § 10-16](lov/2021-06-18-97/§10-16), om videre oppfølgning og om hvordan opplysninger fra barnet kan bli benyttet.
+
+Ved tilsyn med samiske barn skal tilsynsmyndigheten ha samisk språklig eller kulturell kompetanse.
+
+> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 7. Årsrapport
+
+Ved utgangen av året skal statsforvalteren utarbeide en årsrapport om tilsynsvirksomheten etter denne forskriften.
+
+Rapporten skal blant annet inneholde en oversikt over antall utførte stedlige tilsyn, påpekte lovbrudd og protokoller etter [barnevernsloven § 10-16](lov/2021-06-18-97/§10-16). Rapporten skal også inneholde en oversikt over tilsynssamtaler med barn.
+
+Statsforvalteren skal i rapporten gi en generell vurdering av tilstanden på tilsynsområdet. Den kan også inneholde forslag til tiltak av mer generell karakter.
+
+Rapporten skal sendes til Statens helsetilsyn og til Barne-, ungdoms- og familieetaten.
+
+> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves [forskrift av 11. desember 2003 nr. 1564](forskrift/2003-12-11-1564) om tilsyn med barn i barneverninstitusjoner for omsorg og behandling.
+
+Bestemmelsen i [§ 5](forskrift/2022-12-16-2272/§5) fjerde ledd oppheves 1. juli 2026.
+
+> Endret ved forskrifter [20 juni 2023 nr. 990](forskrift/2023-06-20-990), [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308).

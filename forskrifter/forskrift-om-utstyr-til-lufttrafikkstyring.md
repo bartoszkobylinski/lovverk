@@ -1,0 +1,70 @@
+---
+id: "sf-19950602-0517"
+slug: "forskrift-om-utstyr-til-lufttrafikkstyring"
+type: "forskrift"
+ref_id: "forskrift/1995-06-02-517"
+title: "Forskrift om definisjon og bruk av kompatible tekniske spesifikasjonar og vedtekne Eurocontrol-standardar for innkjøp av utstyr og system til styring av lufttrafikken og framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken."
+short_title: "Forskrift om utstyr til lufttrafikkstyring"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "1995-06-02"
+last_change_in_force: "2003-09-22"
+last_updated: null
+xml_hash: "5d9f08fa6c952cdce515df18e3bb4f685a82148d6a605492bbfc1051431c031c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om definisjon og bruk av kompatible tekniske spesifikasjonar og vedtekne Eurocontrol-standardar for innkjøp av utstyr og system til styring av lufttrafikken og framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken.
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre at ein ved innkjøp av utstyr og system for styring av lufttrafikken nyttar felles definisjonar og fellesskapsstandardar innafor EØS-området.
+
+## § 1A.
+
+EØS-avtalen vedlegg XIII nr. 66c (forordning [(EF) nr. 2082/2000](eu/32000r2082) og forordning [(EF) nr. 980/2002](eu/32002r0980) om endring av forordning [(EF) nr. 2082/2000](eu/32000r2082)) om vedtak av Eurocontrol-standardar gjeld som forskrift med dei endringane og tilpassingane som følgjer av [EØS-avtalen vedlegg XIII, protokoll 1](lov/1992-11-27-109/eøsl/p1) til avtalen og avtalen elles.
+
+> Tilføyd ved [forskrift 22 sep 2003 nr. 1166](forskrift/2003-09-22-1166).
+
+## § 2. Virkeområde
+
+Denne forskrifta gjeld definisjon og bruk av kompatible tekniske spesifikasjonar og Eurocontrol-standardar ved innkjøp av utstyr og system for styring av lufttrafikken, i tillegg til standardiserte framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken, særlegkommunikasjonssystemovervakingssystemnavigasjonssystemsystem for automatisert bistand til flygekontrolltenestaframgangsmåtar for styring av luftrom og av lufttrafikkenarbeidsreglar for driftskrav til styring av lufttrafikkenmenneskelege ressursar
+
+> Endra 17 juli 1998 nr. 624.
+
+## § 3. Definisjonar
+
+På området kor denne forskrifta gjeld, tyder:*teknisk spesifikasjon*, alle tekniske krav, særleg dei som finst i anbodsgrunnlaget, som definerer dei påkravde eigenskapar ved eit arbeid, eit materiale, eit produkt eller ein levaranse, og som gjer det mogleg å gi ei objektiv framstilling av eit arbeid, eit materiale, eit produkt eller ei leveranse slik at dei svarer til den bruk som oppdragsgivaren har bestemt dei til. Desse tekniske reglane kan omfatte kvalitet, yteevne, tryggleik eller dimensjonar samt krav til materialet, produktet eller leveransen med omsyn til kvalitetssikring, terminologi, symbol, prøving og metodar for prøving, emballering, merking eller etikettering.*standard*, kvar teknisk spesifikasjon godkjent av eit godteke standardiseringsorgan for gjentatt eller stadig bruk, men slik at det i prinsippet ikkje er obligatorisk å følgje den.*Eurocontrolstandard*, dei obligatoriske element i Eurocontrol-spesifikasjonane med omsyn til fysiske kjenneteikn, form, materiale, yteevne, personell eller framgangsmåtar, der ein einsarta bruk er godteke som avgjerdande for gjennomføringa av eit integrert system for lufttrafikktenester (ATS) (dei obligatoriske elementa skal være oppførte i eit Eurocontrol standarddokument).Ei forklarande liste over kva områder slike Eurocontrolstandardar blir gjort gjeldande finst i Vedlegg I til denne forskrifta.
+
+## § 4. Plikt til å vise til spesifikasjonar i anbodsdokumentasjonen
+
+Dei offentlege oppdragsgjevarane nemnde i Vedlegg II til denne forskrifta, skal i dei generelle dokumenta eller anbodsgrunnlaget for kontrakt for innkjøp av flysikringsutstyr vise til tekniske spesifikasjonar og relevante obligatoriske Eurocontrol-standardar vedteke i samsvar med Rådsdirektiv [93/65/EØF](eu/31993l0065), endra ved Kommisjonsdirektiv [97/15/EF](eu/31997l0015). Denne regelen fritek ikkje for plikter som elles måtte følgje av dei alminnelege reglane om offentlege innkjøp.
+
+> Endra 17 juli 1998 nr. 624.
+
+## § 5. Plikt til å rapportere til EFTA sitt overvåkningsorgan
+
+Dei offentlege oppdragsgivarane nemde i Vedlegg II til denne forskrifta, skal kvart år underrette EFTA om dei tiltak dei har iverksett for å overkomme manglande teknisk og operasjonell kompatibilitet mellom lufttrafikktenestene i statane som er partar i EØS-avtalen.
+
+Dersom det vert gjort endringar i Vedlegg II til forskrifta, skal dette meldast til EFTA sitt overvåkningsorgan.
+
+## § 6. Ikraftsetting
+
+Denne forskrifta trer i kraft straks.
+
+## Vedlegg I. Eurocontrol-standardar. Rettleiande og obligatorisk liste
+
+Rettleiande liste:KommunikasjonssystemNavigasjonssystemOvervakingssystemDatabehandlingssystemFramgangsmåtar for styring av luftrom og av lufttrafikkenArbeidsreglar for og driftskrav til styring av lufttrafikkenMenneskelege ressursar
+
+Obligatorisk liste skal lyde:Eurocontrol-standard for direktekobla datakommunikasjon (On-Line Data Interchange, OLDI), versjon 2.2, (Eurocontrol-referanse DPS.ET1.ST06-STD),Eurocontrol-standard for presentasjon av datautveksling i luftfartstenesten (Air Traffic Services Data Exchange Presentation, ADEXP), versjon 2.0, (Eurocontrol-referanse DPS.ET1.ST09-STD),Eurocontrol-standard for utveksling av flygedata – dokument om grensesnittkontroll (Flight Data Exchange – Interface Control Document (FDE-ICD) versjon 1.0, (Eurocontrol-referanse COM.ET1.ST12-STD)).
+
+> Endra ved [forskrifter 17 juli 1998 nr. 624](forskrift/1998-07-17-624), [6 april 2001 nr. 320](forskrift/2001-04-06-320).
+
+## Vedlegg II. Offentleg oppdragsgivar med ansvar for kjøp av utstyr til lufttrafikktenesten
+
+> Endra ved [delegeringsvedtak 10 des 1999 nr. 1280](forskrift/1999-12-10-1280) (i kraft 1 jan 2000), [forskrift 22 sep 2003 nr. 1166](forskrift/2003-09-22-1166).

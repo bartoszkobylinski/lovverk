@@ -1,0 +1,43 @@
+---
+id: "sf-20210315-0767"
+slug: "forskrift-om-trekningskretser-for-meddommere-ved-søndre-østfold-tingrett"
+type: "forskrift"
+ref_id: "forskrift/2021-03-15-767"
+title: "Forskrift om trekningskretser for meddommere ved Søndre Østfold tingrett"
+short_title: "Forskrift om trekningskretser for meddommere ved Søndre Østfold tingrett"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2021-04-12"
+last_change_in_force: null
+last_updated: null
+xml_hash: "e6a2b22cd57775b37f2bb7aeabbfbd2c3dc006ea879e1ec01f2bff49df77e811"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om trekningskretser for meddommere ved Søndre Østfold tingrett
+
+## § 1.
+
+Søndre Østfold tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
+
+- Moss kommune
+- Råde kommune
+- Våler (Viken) kommune.
+
+- Rakkestad kommune
+- Sarpsborg kommune.
+
+- Aremark kommune
+- Halden kommune.
+
+- Fredrikstad kommune
+- Hvaler kommune.
+
+## § 2.
+
+Forskriften gjelder fra 12. april 2021.

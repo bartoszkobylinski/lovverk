@@ -1,0 +1,52 @@
+---
+id: "sf-20030107-0013"
+slug: "forskrift-til-samelovens-språkregler"
+type: "forskrift"
+ref_id: "forskrift/2003-01-07-13"
+title: "Forskrift til samelovens språkregler"
+short_title: "Forskrift til samelovens språkregler"
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2003-01-07"
+last_change_in_force: "2009-06-26"
+last_updated: null
+xml_hash: "4d89586b7fc1aac1e6fc2f602cf6ab19cec36542e6e87dae19e8a966029517a1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift til samelovens språkregler
+
+## § 1. Tilsyn mv.
+
+Arbeids- og inkluderingsdepartementet fører tilsyn med gjennomføringen av reglene i [samelovens kapittel 3](lov/1987-06-12-56/kap3) og denne forskriften.
+
+Alle offentlige organ som omfattes av [samelovens kapittel 3](lov/1987-06-12-56/kap3) og denne forskriften, plikter å sørge for at reglene blir fulgt.
+
+Hvert organ har ansvaret for at det har kompetent samiskspråklig personell.
+
+> Endret ved [forskrift 26 juni 2009 nr. 870](forskrift/2009-06-26-870).
+
+## § 2. Permisjonsregler i offentlige organ
+
+Der det praktisk og økonomisk er fordelaktig, bør samiskopplæringen skje i samarbeid mellom flere organ som omfattes av [samelovens kapittel 3](lov/1987-06-12-56/kap3) og denne forskriften. Tilsatte i organ som gis permisjon for å lære samisk ved en utdanningsinstitusjon, har rett til lønn under opplæringen. Utbetaling av delvis lønn kan gis når utdanningen er mer omfattende enn det organet har behov for og når utdanningen ikke er direkte nødvendig for tjenesten.
+
+Permisjon med lønn er betinget av at den tilsatte etter endt permisjon forplikter seg til å arbeide for organet en bestemt tid etter avsluttet opplæring. Plikttjenesten skal som hovedregel være det dobbelte av permisjonstiden og skal normalt påbegynnes straks utdanningen er avsluttet. Det kan stilles som vilkår at vedkommende dokumenterer å ha deltatt i opplæringen.
+
+Hvis den tilsatte unnlater å oppfylle vilkårene om plikttjeneste eller dokumentasjon av deltakelse i opplæring, skal vedkommende refundere en rimelig del av utgiftene etaten har hatt til utdanningen. Når sterke velferds- eller tjenestemessige grunner foreligger, kan etaten frafalle refusjonskravet. Retten til permisjon etter [sameloven § 3-7](lov/1987-06-12-56/§3-7) begrenser ikke permisjonsadgang i medhold av andre regler.
+
+Også organ som ikke omfattes av [sameloven § 3-7](lov/1987-06-12-56/§3-7), bør gi permisjon til tilsatte for samiskopplæring når det har behov for kompetanse i samisk.
+
+## § 3. Utvidelse av virkeområdet
+
+Reglene i [sameloven § 3-2](lov/1987-06-12-56/§3-2), [§ 3-3](lov/1987-06-12-56/§3-3) første ledd, [§ 3-7](lov/1987-06-12-56/§3-7) og [§ 3-11](lov/1987-06-12-56/§3-11) gjelder også for Sametinget, Reindriftsforvaltningen, Samisk høgskole og statlige samiske skoler.
+
+Reglene i [sameloven § 3-2](lov/1987-06-12-56/§3-2), [§ 3-3](lov/1987-06-12-56/§3-3) andre ledd, [§ 3-7](lov/1987-06-12-56/§3-7) og [§ 3-11](lov/1987-06-12-56/§3-11) gjelder også for Direktoratet for naturforvaltning og for Universitetet i Tromsø.
+
+## § 4. Iverksetting
+
+Forskriften settes i verk straks. Fra samme tidspunkt oppheves [forskrift av 30. januar 1992 nr. 79](forskrift/1992-01-30-79) til samelovens språkregler.

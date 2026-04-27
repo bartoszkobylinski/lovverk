@@ -1,0 +1,92 @@
+---
+id: "sf-19961220-1343"
+slug: "forskrift-om-innkreving-av-omsetningsavgift"
+type: "forskrift"
+ref_id: "forskrift/1996-12-20-1343"
+title: "Forskrift om innkreving av omsetningsavgift og overproduksjonsavgift."
+short_title: "Forskrift om innkreving av omsetningsavgift"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "1997-01-01"
+last_change_in_force: "2003-01-01"
+last_updated: null
+xml_hash: "0d7cfecc8f5bb70dc9503a89b07240b563ee1aaa6a4b9b660dd3cf69b7b1ab77"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innkreving av omsetningsavgift og overproduksjonsavgift.
+
+## § 1. Virkeområde
+
+Forskriften gjelder innkreving av avgift for de vareslag som omfattes av føresegner om avgift på omsetninga av mjølk, kjøtt, egg, fjørfekjøtt og pelsdyrskinn, og om overproduksjonsavgift på mjølk fastsatt ved kongelig [resolusjon av 20. desember 1996 nr. 1167](forskrift/1996-12-20-1167), og etter de til enhver tid gjeldende satser som fremgår av forskriften.
+
+## § 2. Innkrevingsmyndighet
+
+Avgift etter denne forskriften innkreves av Omsetningsrådet eller den rådet gir fullmakt.
+
+Omsetningsrådet kan gi nærmere bestemmelser om innbetaling av avgift, herunder fastsette betalingsforfall for innkreving etter [§§ 4](forskrift/1996-12-20-1343/§4) og 5.
+
+## § 3. Forhandler
+
+Med forhandler menes bl.a. godkjent slakteri, meieriselskap, eggpakkeri, og auksjonsfirma for pelsskinn som tar i mot varer for salg eller videre foredling fra primærprodusent av varen.
+
+Omsetningsrådet kan bestemme hvem som i tillegg til de i første ledd nevnte virksomheter som skal regnes som forhandler etter denne forskriften, herunder produsenter med omfattende direktesalg.
+
+## § 4. Innkreving hos forhandler
+
+For varer som omsettes fra produsent til forhandlere, skal avgift kreves opp av forhandleren og trekkes i oppgjøret med produsenten. Plikt til å kreve opp avgift gjelder enten varen blir betalt med penger, andre varer eller annet mellomregnskap med produsenten.
+
+Forhandleren har plikt til å holde oppkrevd avgift adskilt fra egne midler. Innehaver, styret eller daglig leder er ansvarlig for avgiftsmidlene.
+
+Omsetningsrådet kan bestemme at trukket avgift skal synliggjøres i oppgjøret med produsenten.
+
+Dersom produsenten burde ha visst at forhandleren ikke har krevd opp eller forvaltet avgiftsmidlene i samsvar med første og annet ledd, kan avgift også kreves inn hos produsenten.
+
+Forhandleren skal månedlig innbetale oppkrevd avgift for foregående måned til Omsetningsrådet eller den rådet gir fullmakt.
+
+## § 5. Innkreving hos produsent
+
+Ved omsetning av varer som ikke faller under [§ 4](forskrift/1996-12-20-1343/§4), innkreves avgift hos produsenten. Avgift innkreves årlig eller halvårlig, og skal innbetales etterskuddsvis.
+
+> Endret ved [forskrift 11 des 2002 nr. 1485](forskrift/2002-12-11-1485) (i kraft 1 jan 2003).
+
+## § 6. Oppgaveplikt
+
+Den som det blir krevd inn avgift hos etter [§ 4](forskrift/1996-12-20-1343/§4), skal hver måned sende Omsetningsrådet eller den rådet gir fullmakt, oppgave over hvor mye som er tatt imot av varer i foregående måned.
+
+Den som det blir krevd inn avgift hos etter [§ 4](forskrift/1996-12-20-1343/§4), skal også sende Omsetningsrådet eller den rådet gir fullmakt, revisorbekreftet årsoppgave over hvor mye som er tatt imot av varer, samt trukket i avgift fra produsentene.
+
+Den som det blir krevd inn avgift fra etter [§ 5](forskrift/1996-12-20-1343/§5), skal hvert år sende Omsetningsrådet eller den rådet gir fullmakt samlet oppgave over omsetningen av de varer som omfattes av nevnte bestemmelse. Slik oppgave skal innleveres det året avgiften betales.
+
+Omsetningsrådet eller den rådet gir fullmakt fastsetter hvilke oppgaver som skal innleveres i forbindelse med innkrevingen for de enkelte vareslag, og kan gi nærmere bestemmelser om de enkelte oppgavenes innhold og form, samt fastsette tidsfrister for rapporteringen.
+
+> Endret ved [forskrift 11 des 2002 nr. 1485](forskrift/2002-12-11-1485) (i kraft 1 jan 2003).
+
+## § 7. Kontroll
+
+Omsetningsrådet eller den rådet gir fullmakt, fører tilsyn med at oppgavene over innbetalinger etter denne forskriften er riktige og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer omsetningen eller produksjonen, herunder næringsoppgaven for jordbruket.
+
+Den som fører kontroll har taushetsplikt etter forvaltningsloven.
+
+## § 8. Motregning
+
+Dersom krav om avgift ikke innfris i rett tid, kan det i medhold av forskrifter om produksjonstillegg i jordbruket eller andre forskrifter, holdes tilbake tilskudd eller foretas trekk i senere utbetalinger av produksjonstillegg eller andre tilskudd.
+
+## § 9. Dispensasjon
+
+Omsetningsrådet kan i særlige tilfelle dispensere fra denne forskriften. Omsetningsrådet eller den rådet gir fullmakt kan i særlige tilfelle dispensere fra innkrevingen av omsetningsavgift og overproduksjonsavgift.
+
+> Endret ved [forskrift 11 des 2002 nr. 1485](forskrift/2002-12-11-1485) (i kraft 1 jan 2003).
+
+## § 10. Straff
+
+Overtredelse av bestemmelsene i denne forskriften, eller i medhold av forskriften, er straffbart etter [omsetningsloven § 15](lov/1936-07-10-6/§15) dersom ikke overtredelsen rammes av en strengere straffebestemmelse.
+
+## § 11. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 1997. Samtidig oppheves [forskrift av 2. september 1996 nr. 843](forskrift/1996-09-02-843) om innkreving av omsetningsavgift på kjøtt av storfe, svin og sau, [forskrift av 22. november 1993 nr. 1059](forskrift/1993-11-22-1059) om innkreving av avgift ved omsetning av egg, [forskrift av 22. november 1993 nr. 1060](forskrift/1993-11-22-1060) om innkreving av avgift ved omsetning av fjørfeslakt samt [forskrift av 3. oktober 1959 nr. 1](forskrift/1959-10-03-1) om oppkreving og betaling av avgift på rå, uberedte skinn av rev og mink som er alet i pelsdyrgård.

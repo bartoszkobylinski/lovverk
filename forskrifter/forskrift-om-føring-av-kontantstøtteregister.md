@@ -1,0 +1,44 @@
+---
+id: "sf-20051216-1510"
+slug: "forskrift-om-føring-av-kontantstøtteregister"
+type: "forskrift"
+ref_id: "forskrift/2005-12-16-1510"
+title: "Forskrift om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte."
+short_title: "Forskrift om føring av kontantstøtteregister"
+language: "no"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2006-01-01"
+last_change_in_force: null
+last_updated: "2021-04-09"
+xml_hash: "f75ed922d62567185cb17adf1548efea4cb62a0a20d18cbbd4f3968cce8b8358"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte.
+
+## § 1. Plikt til å føre register
+
+Kommunen har plikt til å opprette og føre register til bruk for trygdekontorene i forbindelse med kontroll av beregning og utbetaling av kontantstøtte etter kontantstøtteloven. Registeret kan samkjøres mot trygdekontorets register over mottakere av kontantstøtte.
+
+## § 2. Registerets innhold
+
+Registeret skal inneholde opplysninger om:navn, fødselsnummer og adresse til barn i alderen 1 til 3 år som har barnehageplass med offentlig driftstilskuddnavn, fødselsnummer og adresse til den/de barnet bor fast hosavtalt ukentlig oppholdstid i barnehagenbarnehagens navn, adresse og organisasjonsnummertidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden eller sluttet i barnehagen.
+
+Det er ikke tillatt å registrere andre opplysninger enn de som er nevnt i bokstav a-e.
+
+## § 3. Føring og sikring av registeret
+
+Registerføringen skal skje på bakgrunn av innsamlede opplysninger fra barnehageeierne. Registeret skal ajourføres månedlig. Kommunen fører kontroll med opplysninger fra barnehageeierne.
+
+Alle registrerte opplysninger skal oppbevares fram til barnet fyller 6 år. Opplysningene skal slettes fra registeret fra måneden etter at barnet fyller 6 år.
+
+De registrerte har rett til å få opplyst hvilke opplysninger om dem selv eller deres barn som er registrert i registeret. Utlevering av opplysninger fra registeret til andre kan bare skje etter skriftlig avtale med den registrerte eller dennes foresatte eller dersom utleveringen er hjemlet i lov.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2006.

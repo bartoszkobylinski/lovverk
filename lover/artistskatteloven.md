@@ -1,0 +1,102 @@
+---
+id: "nl-19961213-087"
+slug: "artistskatteloven"
+type: "lov"
+ref_id: "lov/1996-12-13-87"
+title: "Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)"
+short_title: "Artistskatteloven"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: null
+last_change_in_force: "2017-01-01"
+last_updated: "2021-09-09"
+xml_hash: "2c4ca5a7caca664ee343c6952bcbe4a11a11608a0b0f6faef16a882d131a6f4c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)
+
+## § 1. Virkeområde
+
+Denne lov gjelder beregning og oppgjør av skatt på bruttoinntekter til utenlandsk artist eller foretak i forbindelse med aktivitet utøvet av artisten i riket eller på norsk registrert fartøy eller på norsk kontinentalsokkel.
+
+Skatteplikt etter denne lov faller bort, og avløses av skatteplikt etter skatteloven, fra og med inntektsåret forut for det inntektsår da vilkårene i [skatteloven § 2-1](lov/1999-03-26-14/§2-1) annet ledd for å anses som bosatt, er oppfylt. I inntektsår når artist bosatt i annen EØS-stat ikke anses skattemessig bosatt i riket, kan artisten etter inntektsårets utløp uansett kreve å bli lignet etter skattelovens regler for begrenset skattepliktige. Trukket skatt etter [denne lov § 7](lov/1996-12-13-87/§7) omgjøres i tilfeller som nevnt i første og andre punktum til forskudd på skatt etter skattebetalingsloven.
+
+> Endret ved [lover 26 mars 1999 nr. 14](lov/1999-03-26-14) (ikr. 1 jan 2000), [28 mai 2004 nr. 31](lov/2004-05-28-31) (f o m inntektsåret 2004), [9 des 2005 nr. 111](lov/2005-12-09-111) (f o m inntektsåret 2006), [29 juni 2007 nr. 58](lov/2007-06-29-58) (f o m inntektsåret 2007).
+
+## § 2. Definisjoner
+
+Med utenlandsk artist forstås i denne lov person som er bosatt i utlandet og som utøver økonomisk aktivitet som artist, herunder aktivitet som idrettsutøver eller ved opptreden med religiøst, politisk, sosialt eller veldedig innhold.
+
+## § 3. Skattlegging av inntekt
+
+Av bruttoinntekt som nevnt i [§ 1](lov/1996-12-13-87/§1) svares skatt til staten. Fradrag gis ikke.
+
+Det skal likevel ikke svares skatt av bruttoinntekt så langt denne dekker dokumenterte utgifter til transport, kost og losji i forbindelse med arrangementet. Videre reduseres bruttoinntekter med agentprovisjon betalt av artisten.
+
+Det skal ikke svares skatt av godtgjørelse til utenlandsk artist for deltakelse i film-, fjernsyns- eller lydopptak der den som dekker godtgjørelsen ikke har skattemessig eller ervervsmessig tilknytning til Norge.
+
+## § 4. Skattesatsen
+
+Stortinget fastsetter skattesatsen for det enkelte inntektsår.
+
+## § 5. Skattefritak ved visse typer arrangementer
+
+Det skal ikke svares skatt av godtgjørelse til utenlandske artister for forestillinger som er ledd i en offentlig støttet kulturutveksling med annen stat.
+
+Med offentlig støttet kulturutveksling med annen stat menes kulturell virksomhet som har tilknytning til slik stat og som hovedsakelig er finansiert med statlige, fylkeskommunale eller kommunale midler eller med midler fra myndigheter i en annen stat.
+
+## § 6. (Opphevet)
+
+> Endret ved [lover 29 juni 2007 nr. 58](lov/2007-06-29-58) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [10 des 2010 nr. 65](lov/2010-12-10-65), opphevet ved [lov 27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+
+## § 7. Skattetrekk
+
+Den som utbetaler bruttoinntekt som nevnt i [§ 1](lov/1996-12-13-87/§1) skal av eget tiltak sørge for at skattetrekk foretas og innbetales.
+
+I de tilfeller det ikke er noen norsk arrangør som står for arrangementet, er den som stiller plass til rådighet for utenlandsk arrangør eller utenlandsk artist ansvarlig for at skatt blir trukket og innbetalt. Dette gjelder likevel bare dersom den som stiller plass til rådighet har hatt tilgang til inntektene fra arrangementet gjennom billettsalg eller på annen måte.
+
+Trekkreglene gjelder tilsvarende for artisten selv dersom det ikke foreligger noen trekkpliktig etter første eller annet ledd. Dersom den trekkpliktige etter første eller annet ledd ikke har foretatt korrekt trekk, er artisten selv ansvarlig for det manglende beløp.
+
+Når naturalytelser inngår i skattegrunnlaget og kontantytelsen ikke dekker samlet trekk, skal differansen innbetales av den skattepliktige til den trekkpliktige.
+
+Den som forsømmer plikten til å sørge for skattetrekk, er ansvarlig for innbetaling av det beløp som skulle ha vært trukket med tillegg av eventuelle renter og omkostninger.
+
+## § 8. Attest om innbetalt skatt
+
+Innkrevingsmyndigheten skal ved henvendelse fra den skattepliktige sende attest om innbetalt skatt, etter at skatten er endelig fastsatt og innbetalt.
+
+> Endret ved [lover 29 juni 2007 nr. 58](lov/2007-06-29-58) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+
+## § 9. Tvangsinndrivelse av skatt m.v.
+
+Skatten og eventuelle renter har samme fortrinnsrett ved insolvensbehandling av boer som formues- og inntektsskatt til staten etter skatteloven.
+
+> Endret ved [lover 26 mars 1999 nr. 14](lov/1999-03-26-14) (ikr. 1 jan 2000), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), tidligere § 10.
+
+## § 10. Forskriftshjemmel
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om skattlegging etter denne lov, herunder om fastsettelse av utgifter til transport, kost og losji, bruk av billetter, skattetrekk og innkreving.
+
+> Endret ved [lover 12 des 2008 nr. 96](lov/2008-12-12-96) (f o m inntektsåret 2008), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), tidligere § 11, [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+
+## § 11. (Opphevet)
+
+> Tilføyd ved [lov 17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)) som endret ved [lov 12 des 2008 nr. 100](lov/2008-12-12-100), endret ved [lover 10 des 2010 nr. 65](lov/2010-12-10-65), [26 apr 2013 nr. 16](lov/2013-04-26-16) (ikr. 1 juli 2013 iflg. [res. 26 apr 2013 nr. 413](forskrift/2013-04-26-413)), opphevet ved [lov 27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+
+## § 12. Forholdet til annen skattelovgivning
+
+Den øvrige skattelovgivning, herunder skatteforvaltningsloven og skattebetalingsloven, kommer til anvendelse så langt annet ikke følger av denne lov med forskrifter. Trekkplikt etter denne lov, og forsømmelse av slik plikt har samme virkning som tilsvarende plikt og forsømmelse etter de nevnte lover.
+
+> Endret ved [lov 27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+
+## II.
+
+Loven trer i kraft med virkning fra og med inntektsåret 1998.
+
+– – –

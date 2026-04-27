@@ -1,0 +1,2794 @@
+---
+id: "sf-20041001-1339"
+slug: "trafikkopplæringsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2004-10-01-1339"
+title: "Forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)"
+short_title: "Trafikkopplæringsforskriften"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2005-01-01"
+last_change_in_force: "2026-03-01"
+last_updated: "2017-03-13"
+xml_hash: "59d1799ca5023fccd83d950da83c3936e7eafee9270037dd203c887c4122caf6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+Denne forskriften gjelder trafikkopplæring og førerprøve for personer som vil erverve eller fornye en førerett som må dokumenteres med førerkort.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
+
+### § 1-2. Definisjoner
+
+I denne forskriften forstås med:*Trafikkopplæring:* praktisk og teoretisk opplæring for erverv eller fornyelse av førerett som må dokumenteres med førerkort.*Øvingskjøring:* den praktiske delen av opplæringen hvor en lærer eller ledsager rettleder eleven, og har tilsyn og kontroll med kjøringen.*Opplæring mot vederlag:* opplæring hvor den som underviser får vederlag for opplæringen, uavhengig av hvem som yter vederlaget. Opplæring i regi av godkjent trafikkskole anses alltid som opplæring mot vederlag.*Øvingskjøring med ledsager:* øvingskjøring hvor ledsageren ikke får vederlag for øvingskjøringen.*Undervisningspersonell:* person med kompetanse for trafikkopplæring etter denne forskriften som underviser i offentlig skoleverk eller hos en kursarrangør, eller trafikklærere etter definisjonen i [trafikklærerforskriften § 2 bokstav a](forskrift/2024-10-15-2556/§2/bokstav/a).*Ledsager:* person som forestår øvingskjøring uten å være lærer etter denne forskriften, jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd.*Faglig leder:* person med det faglige, administrative og pedagogiske ansvaret ved en trafikkskole.*Elev:* person som er under opplæring med lærer eller ledsager.*Undervisningstime:* 45 minutter undervisning.*Opplæringsinstitusjoner:* trafikkskoler, det offentlige skoleverk og godkjente kursarrangører.*Opplæring innenfor det offentlige skoleverket:* opplæring som faller innenfor opplæringslova. Opplæringen må være en del av skolens ordinære opplæringstilbud og være underlagt tilsyn fra det offentlige skoleverket.Private skoler likestilles i denne forskriften med det offentlige skoleverket dersom opplæringen i den private skolen erstatter den obligatoriske opplæringen i den offentlige grunnskolen eller videregående skole og er underlagt tilsvarende tilsyn.*Undervisningsplan:* plan som viser hvordan den enkelte opplæringsinstitusjonen oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal gi opplysninger om opplæringsinstitusjonens undervisningspersonell, kjøretøy, undervisningsmateriell, arbeidsmåter og bruken av øvingsområder.*Øvrige aktører som driver godkjenningspliktig opplæring:* opplæring i offentlig skoleverk som skjer i elevenes fritid eller personer og virksomheter som det er rimelig grunn til å anta foretar ulovlig opplæring mot vederlag.*Avsperret område:* et område som er avgrenset med fysiske hindringer som sikrer mot utforkjøring, hindrer uønsket kjøring inn i og ut av området, og hvor adkomst kan reguleres.*Kjørevurdering:* vurdering av kjøreferdigheter for personer med funksjonsnedsettelse og personer som har eller kan ha helsesvekkelse, jf. [sensorforskriften § 2](forskrift/2011-03-09-261/§2). Dette er en variant av praktisk prøve.*Kjøretøytilpasning:* vurdering av om tilpasningene i et førertilpasset kjøretøy er tilfredsstillende tilpasset fører, slik at fører kan kjøre trafikksikkert. Dette er en forenklet variant av kjørevurdering.
+
+Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemmelsene i [førerkortforskriften](forskrift/2004-01-19-298).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+## Kapittel 2. Øvingskjøring
+
+### § 2-1. Krav til elev under øvingskjøring
+
+Øvingskjøring må ikke finne sted tidligere enn to år før det tidspunkt eleven etter sin alder kan få førerett for den aktuelle kjøretøygruppe etter [førerkortforskriften](forskrift/2004-01-19-298) eller yrkessjåførforskriften [16. april 2008 nr. 362](forskrift/2008-04-16-362) jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd. Likevel må øvingskjøring ikke finne sted før fylte 15 år. Øvingskjøring i klassene AM 146 og S innenfor det offentlige skoleverk kan finne sted fra 10. klassetrinn, selv om eleven ikke har fylt 15 år. Lærling i kran- og løfteoperasjonsfaget, som har inngått lærekontrakt med lærebedrift som er godkjent etter opplæringslova, kan øvingskjøre til førerkort klasse C fra fylte 18 år.
+
+Personer som skal øvingskjøre må ha fullført trafikalt grunnkurs ved godkjent opplæringsinstitusjon før øvingskjøringen kan starte. Trafikalt grunnkurs avsluttet i perioden 16. mars–31. oktober gir rett til å øvingskjøre mellom 16. mars og 31. oktober, selv om opplæring i kjøring i mørket ikke er fullført jf. [§ 8-1](forskrift/2004-10-01-1339/§8-1) femte ledd.
+
+Unntatt fra kravet om trafikalt grunnkurs før øvingskjøring er:innehaver av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T.personer som har fylt 25 år,personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10). Fritaket fra trafikalt grunnkurs gjelder selv om vedkommende ikke oppfyller alderskravet i [førerkortforskriftens kapittel 8](forskrift/2004-01-19-298/kap8), [9](forskrift/2004-01-19-298/kap9) eller [10](forskrift/2004-01-19-298/kap10), jf. [kapittel 3](forskrift/2004-01-19-298/kap3).personer som er under utredning for mulig dispensasjon fra helsekravene i førerkortforskriftens vedlegg 1. Unntaket er begrenset til nødvendig kjøring i forbindelse med utredningen.
+
+Bevis for fullført trafikalt grunnkurs, eventuelt med unntak som nevnt ovenfor vedrørende mørkekjøring, medbringes under øvingskjøring. Dersom man er unntatt fra kravet til trafikalt grunnkurs før øvingskjøring etter tredje ledd bokstav a) eller c) må dokumentasjon som bekrefter førerett medbringes under øvingskjøring. Dersom det utenlandske førerkortet er innlevert må dokumentasjon fra Statens vegvesen for retten til øvingskjøring medbringes. Akseptabel legitimasjon med bilde skal alltid medbringes under øvingskjøring.
+
+For øvingskjøring i klassene C1, C1E, C, CE, D1, D1E, D og DE kreves det at eleven har førerett i klasse B. Militært personell kan øvingskjøre fra fylte 18 år. Kravet om førerett i klasse B gjelder ikke for elever i det offentlige skoleverk som gjennomgår opplæring i yrkessjåførfaget, jf. [yrkessjåførforskriften 16. april 2008 nr. 362](forskrift/2008-04-16-362), forutsatt at eleven har gjennomført trafikalt grunnkurs. Disse elevene kan også starte supplerende øvingskjøring ved godkjent trafikkskole.
+
+Person som har sperrefrist for erverv av førerett, jf. [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a), eller har tapt føreretten eller fått den tilbakekalt, eller har fått førerkortet beslaglagt, jf. [vegtrafikkloven § 33](lov/1965-06-18-4/§33) og [§ 34](lov/1965-06-18-4/§34), må ikke øvingskjøre med førerkortpliktig kjøretøy i denne perioden uten politiets samtykke. For sperrefrist etter [vegtrafikkloven § 24a](lov/1965-06-18-4/§24a) første ledd gjelder dette bare vedkommende klasse.
+
+Person som har tapt føreretten kan, etter at tapsperioden er over, øvingskjøre uten trafikalt grunnkurs. Vedkommende må ha med seg dokumentasjon fra Statens vegvesen eller annen myndighet som viser at vedkommende har rett til å øvingskjøre uten trafikalt grunnkurs, samt akseptabel legitimasjon med bilde. Tilsvarende gjelder for tilbakekalt førerett og inndratt førerkort.
+
+Person som har kjøreforbud for førerkortfritt kjøretøy, må ikke øvingskjøre med slikt kjøretøy eller med førerkortpliktig kjøretøy i denne perioden, uten politiets samtykke.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [25 juni 2012 nr. 642](forskrift/2012-06-25-642) (i kraft 1 juli 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+
+### § 2-2. Øvingskjøring på veg eller andre områder som ikke er avsperret
+
+Med mindre annet følger av denne forskriften skal læreren eller ledsageren følge med i kjøretøyet på sitteplass nær eleven ved øvingskjøring på veg eller andre områder som ikke er avsperret. Under øvingskjøring i klassene A1, A2 og A skal læreren eller ledsageren ha instruksjonsmulighet overfor eleven via toveis kommunikasjonsutstyr.
+
+Øvingskjøring med kjøretøy der læreren eller ledsageren ikke har lov til å følge med i eller på kjøretøyet kan bare skje dersom læreren eller ledsageren har instruksjonsmulighet overfor eleven via toveis radioforbindelse eller lignende, i tillegg til visuell kontakt. Det samme gjelder dersom det for opplæring mot vederlag er gjort særlig unntak fra kravet om at læreren skal følge med i kjøretøyet. I klassene A1, A2 og A stilles det ikke krav til at lærer eller ledsager må følge med på kjøretøyet til eleven. Det er ikke adgang til å øvingskjøre i klasse B eller T med kjøretøy med sitteplass kun for føreren. Det er likevel lov å øvingskjøre i klasse T med kjøretøy med sitteplass kun for føreren når dette skjer utenfor veg i tilknytning til jord- og skogbruk og oppfyller kravene i første punktum.
+
+Opplæringsinstitusjonen skal stille med kommunikasjonsutstyr og refleksvester, jf. [§ 2-4](forskrift/2004-10-01-1339/§2-4), til samtlige elever til bruk under opplæring.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 2-3. Øvingskjøring på avsperret område
+
+På øvingsbane eller annet avsperret område kan øvingskjøring for alle klasser skje uten at lærer eller ledsager følger med på kjøretøyet, når vedkommende har visuell kontakt med mulighet for instruksjon.
+
+Øvingskjøring på øvingsbane eller annet avsperret område kan gjennomføres med inntil tre elever per lærer i klasse A1, A2 og A eller inntil seks elever per lærer i klasse AM 146.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 2-4. Spesielle krav for øvingskjøring
+
+Øvingskjøring i klasse S kan skje uten at læreren eller ledsageren følger med på kjøretøyet dersom vedkommende har instruksjonsmulighet som nevnt i [§ 2-2](forskrift/2004-10-01-1339/§2-2) andre ledd. Dette gjelder også øvingskjøring i klasse AM 147 dersom det benyttes tre- eller firehjuls moped med styre og betjeningsanordninger som på en motorsykkel.
+
+Læreren eller ledsageren for øvingskjøring i klasse AM 146 skal selv kjøre tohjuls motorsykkel. Læreren eller ledsageren for øvingskjøring i klassene A1, A2 og A skal selv kjøre mellomtung eller tung tohjuls motorsykkel. Det samme gjelder klasse AM 147 når det benyttes tre- eller firehjuls moped med styre og betjeningsanordninger som på en motorsykkel. Ved øvingskjøring i klasse S uten at lærer eller ledsager følger med på kjøretøyet skal denne følge etter på beltemotorsykkel.
+
+Eleven og ledsageren under øvingskjøring i klassene A1, A2, A, AM 146 og S skal være iført refleksvest som viser en rød bokstav L på hvit bakgrunn godt synlig for bakenforkjørende. Eleven og læreren under øvingskjøring mot vederlag i klassene A1, A2, A, AM 146 og S skal være iført refleksvest som bakover viser ordet SKOLE eller SKULE godt synlig for bakenforkjørende. Kravene om refleksvest gjelder også dersom det til opplæring i klasse AM 147 benyttes tre- eller firehjuls moped med styre og betjeningsanordninger som for en motorsykkel.
+
+Ved øvingskjøring i klassene D1, D1E, D eller DE, kan man ikke ha med andre passasjerer enn de som deltar i eller fører tilsyn med opplæringen.
+
+Der læreren eller ledsager i medhold av [§ 2-2](forskrift/2004-10-01-1339/§2-2) eller [§ 2-3](forskrift/2004-10-01-1339/§2-3) ikke følger med i eller på kjøretøyet er det ikke tillatt å ha med passasjer på øvingskjøretøyet. I sikkerhetskurs på bane for tunge klasser, jf. [kap. 28](forskrift/2004-10-01-1339/kap28), er det tillatt med to elever i øvingskjøretøyet selv om lærer ikke medfølger på øvingskjøretøyet.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [30 april 2010 nr. 616](forskrift/2010-04-30-616) (i kraft 1 mai 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+## Kapittel 3. Øvingskjøring med ledsager
+
+### § 3-1. Krav til ledsager
+
+Ledsager må ha fylt 25 år, ha gyldig førerett for vedkommende kjøretøygruppe og ha hatt slik førerett uavbrutt de siste 5 år før øvingskjøring finner sted, jf. [vegtrafikkloven § 26 andre ledd](lov/1965-06-18-4/§26/ledd/2). Med gyldig førerett menes norsk førerett, førerett ervervet i annen EØS-stat, eller førerett fra annen stat som gir grunnlag for å utstede norsk førerkort uten krav til ytterligere opplæring eller prøver etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10). Personer som ikke har ervervet føreretten sin i Norge må medbringe dokumentasjon på uavbrutt førerett de siste 5 år, frem til de oppfyller kravet til 5 års norsk førerett.
+
+Kravet til uavbrutt førerett de siste 5 år er oppfylt også for ledsager hvor føreretten har vært tilbakekalt i seks måneder eller mindre på grunn av helse.
+
+Godkjente trafikklærere etter [trafikklærerforskriften § 4](forskrift/2024-10-15-2556/§4), kan være ledsager ved privat øvingskjøring fra fylte 23 år.
+
+Ved øvingskjøring med ledsager på veg som er åpen for alminnelig ferdsel, kan det bare øvingskjøres med en elev om gangen.
+
+> Endret ved forskrifter [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 3-2. Krav til øvingskjøretøy
+
+Kjøretøyet skal tilhøre den aktuelle førerkortklassen. Ved øvingskjøring i klasse S kan eleven bruke beltemotorsykkel klasse 2 selv om eleven kun kan få førerett begrenset til beltemotorsykkel klasse 1. Ved øvingskjøring på veg i klasse T skal kjøretøyet ha minst to sitteplasser.
+
+Øvingskjøretøy for klasse B skal ha ett ekstra speil eller en skjerm som gir ledsageren tilstrekkelig utsyn bakover. Videre skal kjøretøyet være merket med skilt som bakover viser en rød bokstav L på hvit bakgrunn. Skiltet skal være godt synlig for bakenforkjørende. Skiltet skal fjernes når kjøretøyet benyttes til annet enn øvingskjøring.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+## Kapittel 4. Opplæring mot vederlag
+
+### § 4-1. Adgang til å gi trafikkopplæring
+
+Trafikkopplæring mot vederlag kan bare gis av:trafikkskole som er godkjent i samsvar med denne forskriften,det offentlige skoleverk ogkursarrangør som er godkjent i samsvar med denne forskriften.
+
+Trafikkskoler kan tilby opplæring i alle klasser, herunder være kursarrangør.
+
+Det offentlige skoleverk kan gi opplæring i alle klasser. Obligatorisk opplæring kan bare gis i klassene C1, C1E, C, CE, D1, D1E, D, DE, AM 146, S og T, samt trafikalt grunnkurs som en integrert del av valgfaget trafikk, jf. [§ 8-5](forskrift/2004-10-01-1339/§8-5).
+
+Kursarrangører kan godkjennes for opplæring i trinnene 2 til 4 i klassene AM 146 og S, kurs i ulykkesberedskap, lastsikringskurs, og sikkerhetskurs på bane – klassene C, D og CE.
+
+Obligatorisk opplæring kan bare gis av godkjente trafikkskoler, offentlig skoleverk og godkjente kursarrangører og kun i samsvar med andre til fjerde ledd.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 4-2. Generelle krav til lærevogn
+
+Ved øvingskjøring må det benyttes kjøretøy som er godkjent som lærevogn, med mindre annet fremgår av denne forskriften. Lærevognen skal tilhøre den aktuelle førerkortklassen. Lærevognen skal godkjennes av Statens vegvesen før bruk. Godkjenningen føres i lærevognens vognkort som godkjent med eller uten tilleggsutstyr.
+
+Under øvingskjøring på veg som er åpen for alminnelig ferdsel skal lærevognen være utstyrt med eget synlig skilt bak med ordet «SKOLE» eller «SKULE». Skiltet skal ha sorte bokstaver på hvit bunn og være utformet etter norm for lite kjennemerke. Dette kravet gjelder ikke for motorsykler, jf. [§ 2-4](forskrift/2004-10-01-1339/§2-4) tredje ledd.
+
+For å få godkjent kjøretøy som lærevogn klasse B må det dokumenteres at opplæringsinstitusjon som angitt i [§ 4-1](forskrift/2004-10-01-1339/§4-1) har disposisjonsrett over kjøretøyet, enten ved at opplæringsinstitusjonen står oppført i vognkortet som eier, eller ved at kopi av leie- eller leasingavtale fremlegges. Det skal fremgå av avtalen hvem som er dens parter og hvilke kjøretøy som omfattes, enten i form av registreringsnummer eller understellsnummer. Disposisjonsretten føres inn i lærevognens vognkort.
+
+Er godkjent lærevogn klasse B ute av drift, for eksempel som følge av reparasjon eller vedlikehold, kan opplæringsinstitusjon som angitt i [§ 4-1](forskrift/2004-10-01-1339/§4-1) midlertidig sette inn et annet kjøretøy. Dette kjøretøyet må være godkjent med dobbelt pedalsett og også oppfylle de øvrige kravene i [§ 4-2](forskrift/2004-10-01-1339/§4-2) annet ledd og [§ 4-4](forskrift/2004-10-01-1339/§4-4). Dokumentasjon på at opplæringsinstitusjonen har disposisjonsrett over kjøretøyet slik som angitt i [§ 4-2](forskrift/2004-10-01-1339/§4-2) tredje ledd må da alltid medbringes, og opplæringsinstitusjonen må skriftlig melde fra til Statens vegvesen før slik bruk.
+
+> Endret ved forskrifter [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [16 des 2011 nr. 1347](forskrift/2011-12-16-1347), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [20 des 2017 nr. 2314](forskrift/2017-12-20-2314) (i kraft 1 jan 2018), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 4-3. Tilleggskrav til lærevogn – klassene A1, A2 og A
+
+Lærevogn i klasse A, tung motorsykkel, skal ha et slagvolum på minst 595 cm3, en effekt på over 40 kW og en konstruktiv hastighet på minst 100 km/t. Lærevogn i klasse A2, mellomtung motorsykkel, kan ha tilsvarende slagvolum, effekt og konstruktiv hastighet.
+
+Lærevogner i klassene A1, A2 og A skal ha følgende tilleggsutstyr når læreren følger med på kjøretøyet:dobbel sett betjeningsinnretning for brems og kopling,ett ekstra speil som gir læreren tilstrekkelig utsyn bakover,ett ekstra speil som gir læreren tilstrekkelig kontroll med eleven oghåndtak på hver side som er tilgjengelig for lærer.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014).
+
+### § 4-4. Tilleggskrav til lærevogn – klassene B, B kode 96 og BE
+
+Lærevogn i klassene B, B kode 96 og BE skal ha bredde minst 1,5 meter og ha minst fire sitteplasser.
+
+Lærevognen skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for brems og kopling,ett ekstra innvendig speil eller en skjerm som gir læreren tilstrekkelig utsyn bakover,ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven oghastighetsmåler som er lesbar for læreren.
+
+Tilhenger til bruk ved opplæring i klasse B kode 96 skal være minst like høy og bred som personbilen, være lukket og ha en tillatt totalvekt på minst 1500 kg.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 4-5. Tilleggskrav til lærevogn – tunge klasser
+
+Lærevogner i klassene C1, C1E, C, CE, D1, D, DE og D1E skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems eller ekstra betjening av driftsbrems,ekstra speil som gir læreren tilstrekkelig utsyn bakover ogett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
+
+Lærevogn i klassene C1, C1E, C og CE skal være registrert med minst tre sitteplasser.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 4-6. Tilleggskrav til lærevogn – klasse AM 147
+
+Lærevogn i klasse AM 147 skal være tre- eller firehjuls moped med egenvekt over 250 kg (uten batterier) og være registrert for to personer.
+
+Lærevognen skal ha følgende tilleggsutstyr:speilutrustning som gir læreren tilstrekkelig utsyn bakover ogett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 4-7. Tilleggskrav til lærevogn – klasse T
+
+Lærevogn i klasse T skal være 4-hjuls jord- og skogbrukstraktor, være registrert for to personer med konstruktiv hastighet mellom 38 og 50 km/t og tillatt totalvekt på minst 7000 kg.
+
+Traktoren skal ha sentralt plassert førersete, større bakhjul enn forhjul og løftbar trekk-krok for tilhenger.
+
+Lærevognen skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,to utvendige speil som gir læreren tilstrekkelig utsyn bakover,ett ekstra innvendig speil som gir læreren tilstrekkelig kontroll med eleven,sikkerhetsbelter for eleven og læreren ogkoplingspedal, frikoplingsspak eller liknende som gir læreren mulighet til å avbryte framdriften.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 4-8. Unntak fra krav om lærevogn
+
+Kjøretøy som er førertilpasset for personer med funksjonsnedsettelse er unntatt fra kravene i [§ 4-2](forskrift/2004-10-01-1339/§4-2) til og med [§ 4-7](forskrift/2004-10-01-1339/§4-7). Slikt kjøretøy kan benyttes som lærevogn hvis det er utstyrt slik Statens vegvesen finner det nødvendig for at øvingskjøringen skal være sikker. Kjøretøy benyttet til øvingskjøring etter denne bestemmelsen kan også benyttes som kjøretøy til førerprøven, jf. [§ 30A-6](forskrift/2004-10-01-1339/§30A-6).
+
+Det er ikke krav om godkjent lærevogn i obligatoriske kurs for klassene A1, A2 og A dersom eleven kjører alene på motorsykkelen.
+
+Det er ikke krav om godkjent lærevogn i klasse AM 146, men opplæringen skal skje på tohjuls moped.
+
+Ved opplæring i klasse AM 147 kan kravet om godkjent lærevogn i [§ 4-2](forskrift/2004-10-01-1339/§4-2) første ledd fravikes dersom mangel på opplæringstilbud gjør det nødvendig. Kjøretøyet må likevel være en tre- eller firehjuls moped.
+
+Det er ikke krav om godkjent lærevogn i klasse S. Eleven kan bruke egen beltemotorsykkel. Dersom læreren og eleven sitter på samme beltemotorsykkel, skal den være utstyrt med bøyle eller håndtak, jf. kjøretøyforskriften 4. oktober 1994 nr. 918 § 18-8, og dødmannsknapp som kan benyttes av læreren. Alternativt til dødmannsknapp kan det benyttes toveis kommunikasjonsutstyr. I klasse S kan det brukes beltemotorsykkel klasse 2 selv om eleven kun kan få førerett begrenset til beltemotorsykkel klasse 1. Ved øving med opplastet slede i trinn 3 og 4 i klasse S må sleden ha aktuell totalvekt på minimum 150 kg.
+
+Ved undervisning på sikkerhetskurs klasse T kode 141 og klasse T kode 148 er det ikke krav om godkjent lærevogn. Kjøretøyet må likevel være traktor med konstruktiv hastighet 50 km/t, ha tillatt totalvekt minst 7000 kg og være registrert for to personer.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [14 aug 2017 nr. 1248](forskrift/2017-08-14-1248) (i kraft 1 sep 2017), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 4-9. Tilleggskrav til elever under øvingskjøring mot vederlag
+
+For øvingskjøring mot vederlag i klassene A, A2 og A1 skal eleven i tillegg til påbudt styrthjelm, benytte gjennomsiktig visir eller briller, hansker, fottøy som dekker over ankelen og hensiktsmessige klær egnet for motorsykkelkjøring som dekker øvrige kroppsdeler. Hansker, fottøy og klær skal være av materiale som ikke smelter, brenner eller rives ved velt, og som har en beskyttende effekt ved slag og støt.
+
+For øvingskjøring mot vederlag i klasse AM 146 skal eleven i tillegg til påbudt styrthjelm, benytte visir eller briller, hansker og fottøy som er egnet til kjøring på moped.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+## Kapittel 5. Opplæringsinstitusjoner
+
+### § 5-1. Opplæringsinstitusjonenes ansvar
+
+Opplæringsinstitusjonene er ansvarlig for at opplæringen drives i samsvar med gjeldende regelverk og er av forsvarlig pedagogisk karakter.
+
+Opplæringsinstitusjonene er ansvarlig for at det utarbeides undervisningsplaner for obligatorisk opplæring.
+
+Opplæringsinstitusjonene skal disponere lærevogner, utstyr, undervisningslokale og områder som er nødvendig for å gjennomføre opplæringens innhold. Kravet gjelder likevel ikke personlig utstyr som styrthjelm og bekledning.
+
+Opplæringsinstitusjonene skal benytte undervisningspersonell som tilfredsstiller kravene i denne forskriften. Trafikkskolene skal bruke godkjente trafikklærere, med mindre annet følger av denne forskriften.
+
+### § 5-2. Godkjenning av trafikkskoler
+
+Trafikkskoler som tilbyr trafikkopplæring må være godkjent av Statens vegvesen og drives i samsvar med bestemmelsene i denne forskriften.
+
+Før godkjenning av en trafikkskole gis, må skolens eier sende skriftlig søknad til Statens vegvesen. I søknaden skal skolens forretningsnavn, organisasjonsnummer og faste forretningssted oppgis samt hvilket opplæringstilbud skolen vil tilby.
+
+For å få godkjenning må det framlegges dokumentasjon for godkjent faglig leder og undervisningspersonell.
+
+Bevis for godkjenningen utstedes av Statens vegvesen. Godkjenningen registreres i Trafikkskole, sensor og kursarrangørregisteret (TSK-registeret).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 5-3. Krav til trafikkskoler
+
+Trafikkskolene må ha en faglig leder som er godkjent i samsvar med [§ 6-14](forskrift/2004-10-01-1339/§6-14).
+
+Trafikkskolene må disponere kontor på sitt faste forretningssted. Flere trafikkskoler kan ha felles kontorlokaler og betjening av kontoret.
+
+Trafikkskolene må melde fra skriftlig til Statens vegvesen om åpningstid og være tilgjengelig for tilsyn etter nærmere avtale med Statens vegvesen.
+
+Elevfortegnelsen og undervisningsplanene skal være tilgjengelige for tilsynsmyndighetene på skolens kontor. Det samme gjelder opplæringskort for elever som har fullført eller avsluttet opplæringen.
+
+Trafikkskoler som ønsker å drive virksomhet fra mer enn ett sted, må på forhånd melde fra skriftlig til Statens vegvesen.
+
+Ved opphør eller flytting av trafikkskoler, samt skifte av eier, faglig leder eller andre forhold som har hatt betydning for godkjenningen, skal skriftlig melding straks sendes til Statens vegvesen.
+
+Trafikkskolene skal melde fra skriftlig til Statens vegvesen innen to uker når undervisningspersonell begynner eller slutter ved skolen.
+
+Det skal utarbeides skriftlig informasjon som gir elevene de opplysningene som har betydning for opplæringen, herunder opplysning om skolens navn, regler for bestilling og avbestilling av undervisningstimer samt varighet og pris på en kjøretime og på eventuelle kurs. Informasjonen skal gis elevene før opplæringen starter.
+
+Eieren av trafikkskolen har det overordnede ansvar for skolevirksomheten og skal legge forholdene til rette for opplæringen, herunder medvirke til at faglig leder uhindret kan oppfylle sine plikter.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [12 sep 2014 nr. 1170](forskrift/2014-09-12-1170), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 5-4. Godkjenning av og krav til kursarrangører
+
+Statens vegvesen kan godkjenne juridiske personer som kursarrangører. Det må fremlegges dokumentasjon som viser at søkeren oppfyller faglige og administrative forutsetninger for å kunne tilby opplæring i samsvar med forskriften. Det skal være en nær sammenheng mellom søkerens eksisterende aktivitet og opplæringens innhold.
+
+Statens vegvesen godkjenner kursarrangør, bane og kurspris for sikkerhetskurs på bane for klassene C, D og CE, jf. [kapittel 28](forskrift/2004-10-01-1339/kap28). Hver bane skal ha en fagansvarlig som har ansvaret for at opplæringen skjer i samsvar med gitte bestemmelser.
+
+Det kan settes vilkår for godkjenningen, herunder begrensning til intern opplæring og begrenset inntjening.
+
+Elevfortegnelsen og undervisningsplanene skal være tilgjengelige for tilsynsmyndighetene. Det samme gjelder opplæringskort for elever som har fullført eller avsluttet opplæringen.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225).
+
+### § 5-5. Elevfortegnelse
+
+Trafikkskoler og kursarrangører skal føre elektronisk fortegnelse over alle sine elever. Fortegnelsen skal vise elevens navn, adresse, fødselsnummer og når eleven begynte og sluttet, samt hvilke deler av den obligatoriske opplæringen som er gjennomført og dato for når den ble gjennomført.
+
+Eleven skal registreres i fortegnelsen med fortløpende tildelt elevnummer straks opplæringen starter, og fortegnelsen skal ajourføres umiddelbart.
+
+Det skal tas månedlig sikkerhetskopi av elevfortegnelsen, som skal være tilgjengelig for Statens vegvesen ved behov. Elevfortegnelsen må dateres.
+
+Elevfortegnelsen skal oppbevares i fem år uavhengig av om trafikkskolen eller kursarrangøren er avviklet.
+
+Statens vegvesen kan fastsette retningslinjer for elevfortegnelse.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 5-6. Opplæringskort
+
+Trafikkskoler og kursarrangører skal utstede elektronisk opplæringskort for hver elev i hver enkelt klasse. Vedkommende lærer skal etter hver undervisningstime og hver del av obligatoriske opplæring attestere hvilke deler av undervisningen som er gjennomført. Opplæringskortet skal påføres opplæringsinstitusjonens navn, samt elevens navn, adresse, fødselsdato, elevnummer etter [§ 5-5](forskrift/2004-10-01-1339/§5-5) og vise det antall undervisningstimer eleven har hatt, samt dato og tidspunkt for undervisningstimene.
+
+Opplæringskortet skal medbringes under opplæringen. Opplæringskortet skal vises frem når Statens vegvesen krever det.
+
+Statens vegvesen kan fastsette retningslinjer for opplæringskort.
+
+Opplæringskort skal oppbevares i fem år uavhengig av om trafikkskolen eller kursarrangøren er avviklet.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 5-7. Krav til utstyr – kurs i ulykkesberedskap
+
+Kursarrangør skal minst disponere:kjøretøy tilhørende klasse C eller Dpersonbil1 øvingsdukke for hjerte-lungeredning per 4 eleverførstehjelpsutstyr som normalt er tilgjengelig i tunge kjøretøybrannslukningsapparater og andre aktuelle slukkemidleroljefat, kar eller lignendeområde til demonstrasjoner og praktiske øvelser.
+
+### § 5-8. Krav til utstyr – kurs i sikring av last for klassene B kode 96, BE, D1E, DE og T
+
+Kursarrangør skal minst disponere:tilhenger med tillatt totalvekt minst 1950 kglang last med egenskaper og vekt tilsvarende en tømmerstokk på minst 4 meterkolli tilsvarende pallekasse, med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meterlast tilsvarende rundballe eller storsekk, vekt minst 350 kgsikringsutstyr som er nødvendig for å sikre lasten i punktene ovenfor.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 5-9. Krav til utstyr – kurs i sikring av last for klassene C1 og C
+
+Kursarrangør skal minst disponere:kran eller truck for å laste og losse kjøretøyetstroppestrekkerkontrollapparat som kan måle hvor mye fiberstroppene er strammetområde til de praktiske demonstrasjonene, som er stort nok til at elevene er sikret mot at ulykker skjerlastebil med lastebærersom er inndelt på en slik måte at den gir ulik friksjon mellom last og lastebærersom er utstyrt med surrefester som tilfredsstiller kravene i kjøretøyforskriften av 4. oktober 1994 med hensyn til antall og styrke, midtstøtter og sidelemmer som kan tas avmed forsterket forlem slik at den tåler de krefter som demonstrasjonene kreversikringsutstyr4 tonns fiberstropper med strammere4 tonns kjettinger med kjettingstrammeregods til de praktiske demonstrasjonenepallekasser, omlag 1m3 per kasse, med henholdsvis aluminiums-, plast- og trebunn. 2 av pallekassene skal være lastet med 1000 kg1 kabeltrommel, eller tilsvarende, med vekt omlag 500 kg1 betongelement, eller tilsvarende, med vekt omlag 1000 kg2 betongrør, eller tilsvarende, omlag 2 meter lange og diameter omlag 1 meter.
+
+Kursarrangør skal ha kantbeskyttere, kiler til å stenge rullende gods, paller og planker til avstenging.
+
+Kursarrangør skal påse at elevene bruker nødvendig verneutstyr under de praktiske øvelsene.
+
+> Endret ved forskrift [31 mars 2006 nr. 395](forskrift/2006-03-31-395).
+
+### § 5-10. Krav til utstyr – sikkerhetskurs på bane for klassene C, D og CE
+
+Kursarrangør skal minst disponere følgende kjøretøy:lastebil med slepvognlastebil med 2 akslet eller 3 akslet påhengsvognlastebil med tilhengerkobling for semitrailer, 2 akslet eller 3 aksletsemitrailer 2 akslet eller 3 aksletsemitrailer 3 akslet med selvsporende aksel med og uten låsinglastebil som kan kombineres med semitrailer, slepvogn eller påhengsvogn til modulvogntogbusser 2 akslet og 3 aksletleddbusspersonbil1 lastebil uten last.
+
+Kursarrangør skal disponere ett kjøretøy eller vogntog per 2 elever.
+
+Alle kjøretøy skal ha ABS-bremser. Kjøretøyene skal være lastet slik at målene for de ulike øvelsene på banen kan nås. Minst ett vogntogsett skal være fullt lastet.
+
+> Endret ved forskrifter [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 5-11. Kontroll og tilsyn med trafikkskoler, kursarrangører og øvrige aktører som driver godkjenningspliktig opplæring
+
+Statens vegvesen fører tilsyn med trafikkskoler og kursarrangører for å kontrollere at disse opptrer i samsvar med denne forskriften, herunder vilkår stilt med hjemmel i forskriften.
+
+Statens vegvesen kan også føre tilsyn med opplæring i offentlig skoleverk som skjer i elevens fritid og aktør som det er rimelig grunn til å anta foretar ulovlig opplæring mot vederlag.
+
+Statens vegvesen kan gi reaksjoner etter bestemmelsene i [§ 5-12](forskrift/2004-10-01-1339/§5-12), [§ 6-5](forskrift/2004-10-01-1339/§6-5), [§ 6-7](forskrift/2004-10-01-1339/§6-7) og [trafikklærerforskriften § 6](forskrift/2024-10-15-2556/§6).
+
+Statens vegvesen kan når som helst overvære undervisningen. Statens vegvesen kan treffe vedtak om å avbryte eller om å underkjenne obligatorisk opplæring dersom det er klart at opplæringen er i strid med denne forskriften.
+
+Eier av trafikkskole, faglig leder, ansvarlig hos kursarrangør, undervisningspersonell, annet personell og øvrige aktører plikter uten ugrunnet opphold å gi de opplysninger om virksomheten som blir krevd angående trafikkopplæringen samt framvise og utlevere til kontroll de dokumenter som angår trafikkopplæringen og virksomheten for øvrig. Er opplysningene lagret elektronisk, kan Statens vegvesen kreve datert utskrift undertegnet av faglig leder.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [12 sep 2014 nr. 1170](forskrift/2014-09-12-1170), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 5-12. Reaksjoner overfor trafikkskoler, kursarrangører og øvrige aktører som driver godkjenningspliktig opplæring
+
+Statens vegvesen kan gi pålegg som er nødvendig for å sikre at virksomheten er i samsvar med denne forskrift, herunder også gi pålegg om å stanse virksomheten helt eller delvis til avvik er rettet eller til vedtak om tilbakekalling er avgjort av klageinstansen.
+
+Dersom retting eller stansing ikke er foretatt innen en gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunkt en gitt frist for retting er overskredet og til retting er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. [tvangsfullbyrdelsesloven § 7-2](lov/1992-06-26-86/§7-2). Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.
+
+Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i forskriften.
+
+Statens vegvesen skal tilbakekalle godkjenningen av en trafikkskole eller kursarrangør når denne ikke lenger oppfyller de kravene som er forutsatt for godkjenningen. Ny godkjenning kan ikke gis før kravene igjen er oppfylt.
+
+Statens vegvesen kan tilbakekalle godkjenningen helt eller delvis når vedkommende trafikkskole eller kursarrangørhar gjort vesentlig brudd på forskrift om trafikkopplæring, ellerpå tross av skriftlig advarsel eller pålegg bryter forskriftene.
+
+Ved vurderingen av vedtak etter bestemmelsen skal det tas hensyn til i hvilken grad trafikkskolen eller kursarrangøren kan bebreides for overtredelsen. Dersom trafikkskolen eller kursarrangøren unndrar seg tilsyn eller ikke gir de opplysninger om opplæringen eller driften som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre opplæringsinstitusjonen i svært liten grad kan lastes for forholdet.
+
+Første gang godkjenningen av en trafikkskole eller kursarrangør tilbakekalles, skal tilbakekallingen normalt gjelde fra tre til seks måneder. Andre gang godkjenningen tilbakekalles, skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles, skal tilbakekallingen normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.
+
+Statens vegvesen kan fastsette tidsfrist for avvikling av en trafikkskole som ikke har faglig leder og kan sette forbud mot at skolen tar inn nye elever.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [17 des 2025 nr. 2680](forskrift/2025-12-17-2680) (i kraft 1 jan 2026).
+
+### § 5-13. Trafikkopplæring i det offentlige skoleverk
+
+Offentlig skole som tilbyr trafikkopplæring må før opplæringen starter gi skriftlig underretning til Statens vegvesen med opplysninger om organisasjonsnummer, skolens adresse, undervisningsansvarlig (rektor) og hva slags trafikkopplæring skolen tilbyr. Skolen må også opplyse om hvilket undervisningspersonell som benyttes i øvingskjøringen og den obligatoriske opplæringen og hvilken kompetanse disse har.
+
+Underretningen registreres i Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret).
+
+Ved endringer i, eller opphør av, opplæringstilbud, undervisningsansvarlig, undervisningspersonell eller andre forhold som har betydning for trafikkopplæringen, skal skriftlig melding straks sendes til Statens vegvesen.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 5-14. Godkjenningsgebyr for trafikkskoler og kursarrangører
+
+For behandling av søknad om godkjenning som trafikkskole eller kursarrangør, skal det betales et gebyr.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 10](forskrift/2023-10-10-1650/kap10).
+
+> Tilføyd ved forskrift [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), endret ved forskrift [10 okt 2023 nr. 1659](forskrift/2023-10-10-1659).
+
+## Kapittel 6. Undervisningspersonell og faglig leder
+
+### § 6-1. Generelle krav til undervisningspersonell
+
+Undervisningspersonell er ansvarlig for at opplæringen drives i samsvar med gjeldende regelverk og er av forsvarlig pedagogisk karakter.
+
+Undervisningspersonell må ha førerett for den klassen og den koden som det skal gis undervisning i.
+
+Undervisningspersonell må følge med i den faglige utviklingen og kan pålegges å delta i offentlig godkjente kurs. Fortsatt godkjenning kan gjøres betinget av at læreren består eventuelle prøver i samband med slike kurs.
+
+Undervisningspersonell må ha tilstrekkelige norskkunnskaper til å kunne utføre yrket sitt på en tilfredsstillende og forsvarlig måte.
+
+Undervisning i plikter ved trafikkuhell og førstehjelp punkt 5 og 6, jf. [§ 8-3 andre ledd](forskrift/2004-10-01-1339/§8-3/ledd/2), kan bare gis av personer med instruktørgodkjenning fra Norsk Førstehjelpsråd. Kravene til undervisningspersonell i andre og tredje ledd behøver ikke være oppfylt for å kunne undervise i plikter ved trafikkuhell og førstehjelp.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-2. Undervisning i offentlig skoleverk og hos kursarrangør
+
+For å kunne undervise ved øvingskjøring i offentlig skoleverk kreves det godkjenning som trafikklærer i den aktuelle førerkortklassen, jf. [trafikklærerforskriften](forskrift/2024-10-15-2556), dersom ikke annet er fastsatt i denne forskriften.
+
+Det er ikke et krav at trafikklærere som kun underviser i offentlig skoleverk og hos kursarrangør skal gjennomføre etterutdanning og regodkjennes i henhold til [trafikklærerforskriften](forskrift/2024-10-15-2556).
+
+For å kunne undervise på trafikalt grunnkurs som en integrert del av valgfag trafikk, jf. [§ 8-5](forskrift/2004-10-01-1339/§8-5), må vedkommende ha pedagogisk utdanning som tilsvarer kravene til lærere i det offentlige skoleverk og ha klassespesifikk spesialutdanning godkjent av Statens vegvesen, eller har godkjenning som trafikklærer, jf. [trafikklærerforskriften § 2 bokstav a nr. 1](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/1) til [3](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/3), og førerett i klasse B eller B kode 78.
+
+For å kunne undervise på AM 146 i offentlig skoleverk eller hos en kursarrangør, må vedkommende ha pedagogisk utdanning som tilsvarer kravene til lærere i det offentlige skoleverk, ha spesialutdanning for trafikalt grunnkurs, jf. tredje ledd, og ha klassespesifikk spesialutdanning for klasse AM 146 godkjent av Statens vegvesen, jf. [trafikklærerforskriften § 23](forskrift/2024-10-15-2556/§23). Undervisningspersonell på AM 146 kan også være godkjent trafikklærer, jf. [trafikklærerforskriften § 2 bokstav a nr. 1](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/1) til [3](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/3), og skal i tillegg ha spesialutdanning for klasse AM 146 godkjent av Statens vegvesen. I tillegg kreves førerett i minst 2 år etter bestått førerprøve i klasse A1, A2 eller A.
+
+For å kunne undervise i klasse S i offentlig skoleverk eller hos en kursarrangør, må vedkommende ha pedagogisk utdanning som tilsvarer kravene til lærere i det offentlige skoleverk eller være godkjent trafikklærer, jf. [trafikklærerforskriften § 2 bokstav a nr. 1](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/1) til [3](forskrift/2024-10-15-2556/§2/bokstav/a/nummer/3). I tillegg må vedkommende ha spesialutdanning for klasse S fra Nord universitet eller tilsvarende godkjent av Statens vegvesen, jf. [trafikklærerforskriften § 24](forskrift/2024-10-15-2556/§24). Ved opplæring i regi av kursarrangør kan også annet undervisningspersonell enn nevnt i første setning, undervise i klasse S. Kursarrangøren må dokumentere at undervisningspersonellet har opplæring, utdanning og erfaring likeverdig med kravene til øvrig undervisningspersonell i klasse S, i tillegg til spesialutdanning som nevnt i [trafikklærerforskriften § 9](forskrift/2024-10-15-2556/§9). Ved godkjenning av kursarrangør godkjennes arrangør og undervisningspersonell samlet etter en helhetsvurdering.
+
+> Endret ved forskrifter [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [6 aug 2012 nr. 796](forskrift/2012-08-06-796) (i kraft 1 sep 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-3. Undervisningspersonell i kurs i ulykkesberedskap
+
+Undervisningspersonell som ikke er godkjent trafikklærer for tunge klasser, jf. [trafikklærerforskriften](forskrift/2024-10-15-2556), skal ha spesialutdanning godkjent av Statens vegvesen. I tillegg skal vedkommende ha erfaring i brannberedskap, skadestedsledelse eller førstehjelp, avhengig av hvilket emne vedkommende skal undervise i, og være under oppsyn av godkjent trafikklærer for tunge klasser, jf. [trafikklærerforskriften](forskrift/2024-10-15-2556). Tilstedeværende trafikklærer er ansvarlig for opplæringen, jf. [trafikklærerforskriften § 3](forskrift/2024-10-15-2556/§3).
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-4. Krav til undervisningspersonell i kurs i sikring av last for klassene C1 og C
+
+Personer som har en spesialutdanning i undervisning i lastsikring før 1. januar 2005, kan undervise på kurs i sikring av last, forutsatt at de har gjennomført en dag opplæring i undervisningsmetodikk ved Nord universitet eller tilsvarende.
+
+I tillegg skal en person som har førerett i klasse C samt kranfører- eller truckførerbevis, assistere ved demonstrasjonene og ved de praktiske øvelsene
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-5. Reaksjoner overfor trafikklærer
+
+Statens vegvesen kan gi pålegg når trafikklæreren ikke oppfyller [trafikkopplæringsforskriftens](forskrift/2004-10-01-1339) krav.
+
+Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+
+Statens vegvesen kan tilbakekalle godkjenningen som trafikklærer helt eller delvis når vedkommendehar gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) ellerpå tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+
+Ved vurderingen av vedtak etter første, andre og tredje ledd, skal det tas hensyn til i hvilken grad trafikklæreren kan bebreides for overtredelsen. Dersom trafikklæreren unndrar seg tilsyn, eller ikke gir relevante opplysninger som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre trafikklæreren i svært liten grad kan lastes for forholdet.
+
+Når godkjenningen av en trafikklærer tilbakekalles etter tredje ledd, skal tilbakekallingen første gang normalt gjelde fra tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles permanent.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-6. Faglig leders plikter
+
+Den faglige lederen er ansvarlig for at trafikkskolen drives i samsvar med gjeldende regelverk og plikter blant annet åsamordne virksomheten ved skolensørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsoppleggetveilede og kontrollere alle lærere som faglig leder er ansvarlig for, i alle trinn og kurs som den enkelte læreren gir undervisning isørge for at undervisningspersonellet gjennomgår nødvendig faglig utviklingforeta evaluering av undervisningensørge for at bare kvalifisert undervisningspersonell gir undervisningdelta i praktisk og teoretisk trafikkopplæringvære trafikkskolens kontaktperson i forhold til Statens vegvesengi Statens vegvesen nødvendige opplysninger om trafikkskolens driftpåse at trafikkskolen ikke driver undervisning i andre klasser enn de den faglige lederen eller faglig medansvarlige etter fjerde ledd har formell kompetanse for å undervise isørge for innmelding av obligatorisk opplæring i tråd med [§ 7-6](forskrift/2004-10-01-1339/§7-6) og [§ 29-2](forskrift/2004-10-01-1339/§29-2).
+
+Faglig leder skal utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen som kreves etter første ledd bokstav c, fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig.
+
+Trafikkskolen kan gi undervisning i klasse S selv om den faglige lederen ikke har spesialutdanning i klasse S.
+
+Trafikkskolen kan gi undervisning i tunge klasser selv om ikke faglig leder har undervisningskompetanse til å undervise på kurs som nevnt i [trafikklærerforskriften § 13](forskrift/2024-10-15-2556/§13) til [§ 16](forskrift/2024-10-15-2556/§16).
+
+Trafikkskolen kan gi undervisning i klassene AM146, A1, A2, A og T selv om faglig leder ikke har undervisningskompetanse i vedkommende klasse, forutsatt at en annen trafikklærer ved trafikkskolen er faglig medansvarlig for opplæringen i vedkommende klasse. Den faglig medansvarlige må ha undervisningsrett og minst 3 års undervisningspraksis i vedkommende klasse. Faglig leder har likevel hovedansvaret.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-7. Reaksjoner overfor faglig leder
+
+Statens vegvesen kan gi pålegg når faglig leder ikke oppfyller [trafikkopplæringsforskriftens](forskrift/2004-10-01-1339) krav.
+
+Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+
+Statens vegvesen kan tilbakekalle godkjenningen som faglig leder helt eller delvis når vedkommendehar gjort vesentlig brudd på [trafikkopplæringsforskriften](forskrift/2004-10-01-1339) ellerpå tross av skriftlig advarsel eller pålegg bryter [trafikkopplæringsforskriften](forskrift/2004-10-01-1339).
+
+Ved vurderingen av vedtak etter første, andre og tredje ledd, skal det tas hensyn til i hvilken grad den faglige lederen kan bebreides for overtredelsen. Dersom faglig leder unndrar seg tilsyn, eller ikke gir relevante opplysninger om opplæringen eller trafikkskolens drift som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre den faglige lederen i svært liten grad kan lastes for forholdet.
+
+Når godkjenningen av en faglig leder tilbakekalles etter tredje ledd, skal tilbakekallingen første gang normalt gjelde fra tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles permanent.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 6-8. Spesielle krav til trafikklærer – tunge klasser, klasse T og klasse BE
+
+For godkjenning som trafikklærer i klassene C1, C1E, C, CE, D1, D1E, D og DE kreves i tillegg til grunnutdanning for trafikklærere jf. [§ 6-2](forskrift/2004-10-01-1339/§6-2), utdanning for opplæring på tunge kjøretøy fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen.
+
+For å kunne undervise i klasse T kreves godkjenning som trafikklærer og spesialutdanning godkjent av Statens vegvesen.
+
+For godkjenning som trafikklærer klasse BE kreves godkjenning som trafikklærer jf. [§ 6-2](forskrift/2004-10-01-1339/§6-2), og spesialutdanning fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen.
+
+Trafikklærer som er godkjent i klasse BE før 15. mars 2025, må kun gjennomføre etterutdanning i henhold til [trafikklærerforskriften](forskrift/2024-10-15-2556) for å oppfylle vilkårene om spesialutdanning i tredje ledd. Lærer som ikke har gjennomført kurs i sikring av last jf. [§ 6-10](forskrift/2004-10-01-1339/§6-10), må likevel gjennomføre dette før regodkjenning gis.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-9. Krav til undervisningspersonell – kurs i ulykkesberedskap
+
+Undervisningspersonell på kurs i ulykkesberedskap skal være godkjent trafikklærer for tunge klasser og ha spesialutdanning i brannberedskap, skadestedsledelse og førstehjelp fra Nord universitet eller tilsvarende. Minst en dag av spesialutdanningen skal være undervisningsmetodikk. For undervisningspersonell som ikke er godkjent trafikklærer for tunge klasser skal disse ha spesialutdanning og erfaring i brannberedskap, skadestedsledelse eller førstehjelp, avhengig av hvilket emne vedkommende skal undervise i, og være under oppsyn av godkjent trafikklærer for tunge klasser. Tilstedeværende trafikklærer er ansvarlig for opplæringen, jf. [§ 6-1 første ledd](forskrift/2004-10-01-1339/§6-1/ledd/1).
+
+> Endret ved forskrifter [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-10. Krav til undervisningspersonell – kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T
+
+Undervisningspersonell på kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T skal være trafikklærer og ha gjennomført kurs i sikring av last for klassene C1 og C.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-11. Krav til undervisningspersonell – kurs i sikring av last for klassene C1 og C
+
+Undervisningspersonell på kurs i sikring av last skal være godkjent trafikklærer for tunge klasser og ha spesialutdanning i emnet fra Nord universitet eller tilsvarende. Minst en dag av spesialutdanningen skal være undervisningsmetodikk.
+
+Personer som har en spesialutdanning i undervisning i lastsikring før 1. januar 2005, kan undervise på kurs i sikring av last, forutsatt at de har gjennomført en dag opplæring i undervisningsmetodikk ved Nord universitet eller tilsvarende.
+
+I tillegg skal en person som har førerett i klasse C og enten kranførerbevis eller truckførerbevis, assistere ved demonstrasjonene og ved de praktiske øvelsene.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-12. Krav til undervisningspersonell – sikkerhetskurs på bane for klassene C, D og CE
+
+Undervisningspersonell ved sikkerhetskurs på bane skal være godkjent trafikklærer for tunge klasser.
+
+På hvert kurs skal det være minst en lærer som har gjennomgått spesialutdanning som instruktør for tunge kjøretøy ved glattkjøringsbaner, eller som har undervist på minst 15 obligatoriske kurs på bane tidligere.
+
+En lærer kan undervise inntil 9 timer på banen per dag.
+
+> Endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-13. Krav til undervisningspersonell – Sikkerhetskurs klasse T 141 og klasse T 148
+
+Undervisningspersonell på sikkerhetskurs klasse T kode 141 og klasse T kode 148 skal, i tillegg til å oppfylle kravene i [§ 6-8](forskrift/2004-10-01-1339/§6-8) andre ledd, ha spesialutdanning godkjent av Statens vegvesen.
+
+> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-14. Godkjenning av faglige ledere
+
+Faglig leder av en trafikkskole skal ha godkjenning som trafikklærer, ha minst tre års lærerpraksis som hovedyrke ved en trafikkskole etter grunnutdanning for trafikklærere, og ha gjennomgått faglig lederkurs ved Nord universitet eller ha annen tilsvarende lederutdanning.
+
+Godkjenning som faglig leder gis av Statens vegvesen.
+
+Statens vegvesen kan også godkjenne faglig leder på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. yrkeskvalifikasjonsloven og [forskrift 22. desember 2017 nr. 2384](forskrift/2017-12-22-2384) om godkjenning av yrkeskvalifikasjoner.
+
+Statens vegvesen kan i tillegg godkjenne utdanning og praksis fra øvrige land. Godkjenning forutsetter bestått egnethetsprøve. Det kan også settes vilkår om gjennomføring av prøveperiode.
+
+Statens vegvesen registrerer godkjenningen i Trafikkskole, sensor og kursarrangørregisteret (TSK-registeret).
+
+> Endret ved forskrifter [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [6 aug 2012 nr. 796](forskrift/2012-08-06-796) (i kraft 1 sep 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-13), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-15. Faglig leders plikter
+
+Den faglige lederen er ansvarlig for at trafikkskolen drives i samsvar med gjeldende regelverk og plikter blant annet å:samordne virksomheten ved skolensørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsoppleggetveilede og kontrollere alle lærere som faglig leder er ansvarlig for, i alle trinn og kurs som den enkelte læreren gir undervisning isørge for at undervisningspersonellet gjennomgår nødvendig faglig utviklingforeta evaluering av undervisningensørge for at bare kvalifisert undervisningspersonell gir undervisningdelta i praktisk og teoretisk trafikkopplæringvære trafikkskolens kontaktperson i forhold til Statens vegvesengi Statens vegvesen nødvendige opplysninger om trafikkskolens driftpåse at trafikkskolen ikke driver undervisning i andre klasser enn de den faglige lederen eller faglig medansvarlige etter fjerde ledd har formell kompetanse for å undervise isørge for innmelding av obligatorisk opplæring i tråd med [§ 7-6](forskrift/2004-10-01-1339/§7-6) og [§ 29-2](forskrift/2004-10-01-1339/§29-2)faglig leder må ved behov fremlegge legeattest som viser at fastsatte helsekrav er oppfylt for vedkommende selv og for trafikklærerne.
+
+Faglig leder skal utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen som kreves etter første ledd bokstav c, fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig.
+
+Trafikkskolen kan gi undervisning i klasse S selv om den faglige lederen ikke har spesialutdanning i klasse S. Trafikkskolen kan gi undervisning i tunge klasser selv om ikke faglig leder har undervisningskompetanse til å undervise på kurs som nevnt i [§ 6-9](forskrift/2004-10-01-1339/§6-9) til [§ 6-12](forskrift/2004-10-01-1339/§6-12).
+
+Trafikkskolen kan gi undervisning i klassene AM146, A1, A2, A og T selv om faglig leder ikke har undervisningskompetanse i vedkommende klasse, forutsatt at en annen trafikklærer ved trafikkskolen er faglig medansvarlig for opplæringen i vedkommende klasse. Den faglig medansvarlige må ha undervisningsrett og minst 3 års undervisningspraksis i vedkommende klasse. Faglig leder har likevel hovedansvaret.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft straks og 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-14), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-16. Reaksjoner overfor faglig leder
+
+Statens vegvesen kan gi pålegg når faglig leder ikke oppfyller forskriftens krav.
+
+Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i forskriften.
+
+Statens vegvesen skal tilbakekalle godkjenningen som faglig leder når den faglige lederen ikke lenger oppfyller vilkårene for å være godkjent som faglig leder. Ny godkjenning kan ikke gis før vilkårene igjen er oppfylt.
+
+Statens vegvesen kan tilbakekalle godkjenningen som faglig leder helt eller delvis når vedkommendehar gjort vesentlig brudd på forskrift om trafikkopplæring ellerpå tross av skriftlig advarsel eller pålegg bryter forskriften.
+
+Ved vurderingen av vedtak etter første, andre og fjerde ledd, skal det tas hensyn til i hvilken grad den faglige lederen kan bebreides for overtredelsen. Dersom faglig leder unndrar seg tilsyn, eller ikke gir relevante opplysninger om opplæringen eller trafikkskolens drift som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre den faglige lederen i svært liten grad kan lastes for forholdet.
+
+Når godkjenningen av en faglig leder tilbakekalles etter tredje ledd, skal tilbakekallingen første gang normalt gjelde fra tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid. Dersom godkjenningen tilbakekalles, skal Statens vegvesen registrere tilbakekallingen i IMI (Internal Market Information System) innen tre dager, jf. [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20). Det samme gjelder når det foreligger en rettskraftig dom knyttet til falsk dokumentasjon, jf. [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20). Dersom vedtaket eller dom opphører, skal varslingen i IMI slettes i løpet av tre dager, jf. [forskrift om godkjenning av yrkeskvalifikasjoner § 7-1](forskrift/2017-12-22-2384/§7-1).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-15), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+### § 6-17. Godkjenningsgebyr for trafikklærere og faglige ledere
+
+For førstegangsbehandling av søknad om godkjenning som trafikklærer eller faglig leder, skal det betales et gebyr.
+
+For utvidelse av godkjenningen som trafikklærer, skal det betales et gebyr.
+
+For behandling av søknad om godkjenning som trafikklærer eller faglig leder på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. [yrkeskvalifikasjonsloven](lov/2017-06-16-69) og [forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner](forskrift/2017-12-22-2384), skal det betales et gebyr. Ved gjennomføring av prøveperiode for trafikklærer og faglig leder, skal det før oppstart betales et gebyr.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 10](forskrift/2023-10-10-1650/kap10).
+
+> Tilføyd ved forskrift [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), endret ved forskrift [10 okt 2023 nr. 1659](forskrift/2023-10-10-1659). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+
+## Kapittel 7. Generelt om trafikkopplæringens innhold
+
+### § 7-1. Trinnvist opplæringsforløp
+
+Opplæringen gjennomføres i trinn, der måloppnåelse på et trinn er en forutsetning for å kunne ha godt utbytte av opplæringen på det neste trinnet.
+
+Trinn 1 omhandler trafikksystemet og grunnleggende risikoforståelse.
+
+Trinn 2 omhandler kunnskap om kjøretøyet og teknisk kjøreferdighet.
+
+Trinn 3 omhandler kjøring i variert trafikk og kunnskap om vegtrafikklovgivningen.
+
+Trinn 4 omhandler utdypning av emnene risikoforståelse og trafikksystemet.
+
+Når det av pedagogiske eller praktiske grunner er hensiktsmessig for eleven, kan likevel deler av den ikke-obligatoriske opplæringen i neste trinn gjennomføres sammen med opplæringen i det trinnet eleven befinner seg på, før dette fullføres. Obligatorisk opplæring skal alltid gjennomføres i det trinnet den tilhører, når ikke annet er fastsatt for det enkelte kurset.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 7-2. Mål, undervisning og læreplaner
+
+Undervisningen skal legges til rette for at eleven kan nå målene for opplæringen, slik de er fastsatt i denne forskriften.
+
+Innenfor hvert trinn og innenfor deler av kurs kan det arbeides med å nå flere mål samtidig eller i en annen rekkefølge enn den som fremgår av forskriften, dersom ikke annet er fastsatt spesielt for vedkommende trinn eller kurs.
+
+Statens vegvesen fastsetter læreplaner. Læreplanene anses ikke som forskrifter etter forvaltningsloven.
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225).
+
+### § 7-3. Avvisning av elever
+
+Dersom en elev ikke har tilstrekkelige kjøreferdigheter til å gjennomføre den praktiske obligatoriske opplæringen på en meningsfull måte, skal undervisningspersonellet avvise eleven. Statens vegvesen skal varsles om avvisningen.
+
+Dersom eleven ikke aksepterer avvisningen, kan spørsmål om avvisning forelegges Statens vegvesen som fatter vedtak. Statens vegvesens vedtak kan påklages til Vegdirektoratet.
+
+Ved avvisning skal opplæringsinstitusjonen informere eleven om disse rutinene.
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 7-4. Obligatorisk opplæring
+
+Obligatorisk opplæring kan bare gis av opplæringsinstitusjoner som er nevnt i [§ 4-1](forskrift/2004-10-01-1339/§4-1).
+
+Eleven må ha deltatt i alle obligatoriske timer for å få den obligatoriske opplæringen godkjent. Hvis en elev har forfall til deler av et obligatorisk kurs, må tapte undervisningstimer tas igjen på tilsvarende kurs senere.
+
+Obligatorisk opplæring skal gjennomføres ved fysisk oppmøte, med mindre annet er særskilt fastsatt i denne forskriften.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 7-5. Trinnvurdering
+
+Eleven skal, med utgangspunkt i sine prestasjoner, ta stilling til i hvilken grad målene for trinnet er nådd og om grunnlaget for videre opplæring er tilstrekkelig. Læreren skal gi eleven en tilråding i spørsmålet om eleven har den kompetansen som er nødvendig for å få et godt utbytte av opplæringen i neste trinn.
+
+Trinnvurderingen skal vare 45 minutter for trinn 2 og 60 minutter for trinn 3. Trinnvurderingen skal inneholde før- og ettersamtale, i tillegg til praktisk kjøring. For klasse AM 147 og klasse S gjennomføres trinnvurderingen som en del av den øvrige obligatoriske opplæringen med en eller flere elever.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 7-6. Innmelding av gjennomført obligatorisk opplæring
+
+Obligatorisk opplæring i et trinn, og trinnvurdering i trinn 2 og 3, skal være innmeldt til Statens vegvesen før obligatorisk opplæring i nytt trinn påbegynnes. Når obligatorisk opplæring i klasse S gis over et kort tidsrom, kan opplæringen meldes inn samlet. Opplæringen må være innmeldt senest fire dager etter at den er gjennomført. Innmeldingen skal skje elektronisk til Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret).
+
+Ved opplæring innenfor det offentlige skoleverk er det ikke krav om at trinnvurderingen i trinn 2 og 3 skal meldes inn.
+
+Ved innmelding av trinnvurdering i Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret) skal læreren gi en tilrådning av om eleven har et godt grunnlag for å gå videre med opplæring i neste trinn, eller om eleven rådes til å fortsette opplæringen i det aktuelle trinnet for å komme på riktig nivå.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1110](forskrift/2024-06-20-1110) (i kraft 1 nov 2024), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+## Kapittel 8. Trafikalt grunnkurs
+
+### § 8-1. Generelt om trafikalt grunnkurs
+
+Personer som skal erverve førerett, skal i opplæringens trinn 1 gjennomføre trafikalt grunnkurs, jf. [kapitlene 9](forskrift/2004-10-01-1339/kap9) til og med 15.
+
+Personen må ha fylt 15 år før grunnkurset kan påbegynnes.
+
+Kurset er på 17 undervisningstimer, fordelt over minst 5 samlinger, og kan gjennomføres med inntil 16 elever. Det er adgang til å ta med inntil 2 elever i tillegg på deler av kurset, dersom disse har hatt forfall ved deler av tidligere kurs. Alternativt kan 2 elever som faller inn under unntakene i [§ 8-2](forskrift/2004-10-01-1339/§8-2) første ledd bokstavene b), c) eller d) tas i tillegg til de 16 elevene under opplæring i plikter ved trafikkuhell og førstehjelp.
+
+Det skal være 4 timer undervisning om plikter ved trafikkuhell og førstehjelp hvorav 1 time brukes til praktisk øving i forbindelse med en arrangert ulykke.
+
+Det skal være 3 timer undervisning om å være trafikant i mørket. Minst 1 av timene skal være demonstrasjon på et uteområde med liten eller ingen trafikk, der både gåendes og kjørendes perspektiv erfares. Denne delen kan gjennomføres med inntil 6 elever per lærer. Minst 1 time skal være demonstrasjon i bil på veg i reelle trafikksituasjoner med elevene som passasjerer. Denne delen kan gjennomføres med inntil 2 elever i bilen. Resterende tid disponeres til forventninger, mål, oppsummering og refleksjon med medelever og lærere i klasserom.
+
+Øvrig undervisning, jf. [§ 8-3](forskrift/2004-10-01-1339/§8-3) andre ledd nr. 1–4, skal være på 10 timer og fordeles jevnt over minst 3 samlinger.
+
+Det kan gjennomføres bare en samling i trafikalt grunnkurs per dag.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 8-2. Personer som er unntatt fra kravet om trafikalt grunnkurs
+
+Unntatt fra kravet om trafikalt grunnkurs er:personer som tidligere har gjennomført trafikalt grunnkurs,innehavere av norsk førerkort eller kompetansebevis som har eller har hatt førerett i klasse A1, A2, A, B, AM 146, AM 147, S eller T,personer som har fylt 25 år,personer som har eller har hatt førerett som anerkjennes for innbytte i Norge etter [førerkortforskriften kapittel 10](forskrift/2004-01-19-298/kap10).
+
+Personer som er unntatt etter første ledd bokstav b., på grunn av førerett i klasse AM 146, S eller T og personer som er unntatt etter første ledd bokstav c., skal likevel ha opplæring i kjøring i mørket og undervisning om plikter ved trafikkuhell og førstehjelp.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 8-3. Kursmål for trafikalt grunnkurs
+
+Eleven skal gjennom opplevelser, aktiviteter og oppsummeringer bli bevisst på hva som menes med at enhver skal ferdes hensynsfullt, og være aktpågivende og varsom så det ikke kan oppstå fare eller voldes skade, og slik at annen trafikk ikke unødig blir hindret eller forstyrret, jf. [vegtrafikkloven § 3](lov/1965-06-18-4/§3).
+
+Eleven skalkjenne til formelle begrunnelser for at vi har trafikkopplæring, vilkår for å få førerkort og at det finnes læreplaner for trafikkopplæringha grunnleggende forståelse for trafikk og førerrollen ved åbli bevisst hvordan regler om plassering, fart, vikeplikt, skilt og vegoppmerking og andre former for regulering og styring bidrar til sikrere og mer effektiv trafikkavviklingdrøfte samfunnets behov og miljømessige konsekvenser av vegtrafikkenbli bevisst ansvaret føreren har for å velge andre måter å reise på enn ved eget kjøretøy, eller å la være å reise, om dette er det beste for en selv, eventuelle passasjerer, miljø m.m.videreutvikle sin kunnskap om mennesket i trafikken ved ådrøfte ulike trafikantgruppers forutsetninger, behov og perspektivbeskrive vesentlige elementer i kjøreprosessen og bli bevisst betydningen av motivasjon og følelserforstå betydningen av kommunikasjon og samhandlingbli bevisst hvilken betydning ansvarsforståelse, selvinnsikt og vilje har for hvordan vi handler i trafikkenha kunnskap om betydningen av trafikkopplæring ved åkjenne til reglene for øvingskjøringdrøfte sammenhengen mellom kjøreerfaring og trafikkulykkerforstå betydningen av automatisering av grunnleggende handlinger og handlingsmønstredrøfte føreropplæringsmodellen, og hvordan opplæring ved trafikkskole og privat øving er nyttig og nødvendig for å nå målet for opplæringenbeherske grunnleggende ferdigheter i forbindelse med trafikkulykker og førstehjelp ved åha kunnskap om plikter ved trafikkuhellkjenne til rutiner for sikring av og opptreden på skadestedkunne vurdere skadeomfang og øve på praktisk førstehjelpdelta i redningsarbeidet ved en arrangert ulykke og gjennom denneoppleve å komme først til skadestedet, forstå viktigheten av å kjenne skadeomfanget før ulykken varsles og hvordan varsling gjøresøve på grunnleggende rutiner på skadestedetvidereutvikle den praktiske ferdigheten i grunnleggende livreddende førstehjelp ved trafikkulykkerbli bevisst gjennom demonstrasjon ute og i bil hvordan trafikkulykker i mørket kan unngås ved åoppleve og erfare årsaksforhold ved typiske ulykker som skjer i mørket og ha grunnlag for å vurdere risiko ved kjøring i mørketdrøfte hvordan vi som trafikanter kan opptre for å redusere risikoen ved ferdsel i mørketdrøfte hva som er riktig lysbruk og atferd ellers ved kjøring, parkering og nødstopp i mørket.
+
+Eleven skal vurdere sin egen kompetanse til å begynne videre opplæring og ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009, tidligere § 8-2), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 8-4. Kursbevis
+
+Opplæringsinstitusjonen skal melde fra til Statens vegvesen om hvilke elever som har gjennomført trafikalt grunnkurs. Statens vegvesen utsteder bevis som gir rett til øvingskjøring.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009, tidligere § 8-3), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 8-5. Trafikalt grunnkurs i offentlig skoleverk
+
+Trafikalt grunnkurs skal gjennomføres som en integrert del av valgfag trafikk i offentlig skoleverk forutsatt at:eleven går i niende eller høyere klassetrinn,eleven har vært til stede i minst 80 prosent av valgfagets 57 timer herunder hele førstehjelpsopplæringen,undervisningen ikke gjennomføres med flere enn 18 elever.
+
+Trafikant i mørket inngår ikke som en del av valgfag trafikk og må gjennomføres som beskrevet i [§ 8-1](forskrift/2004-10-01-1339/§8-1) ved en godkjent trafikkskole.
+
+> Tilføyd ved forskrift [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), endret ved forskrifter [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 9. Klassene A1, A2 og A
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 9-1. Hovedmål for klassene A1, A2 og A
+
+Etter å ha gjennomført trafikkopplæring i klasse A, A2 eller A1, skal eleven ha den kompetansen som er nødvendig for å kjøre motorsykkel i den aktuelle klassen på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre motorsykkelen på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 9-2. Trinn 1: Trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klassene A1, A2 og A
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, motorsykkelen.
+
+Eleven skalgjøre rede for motorsykkelens oppbygning med tanke på sikkerhet og miljøgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens kravgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikktilegne seg grunnleggende kjøretekniske ferdigheter for bremsing og styringutføre aktuell sikkerhetskontroll av motorsykkelen.
+
+En elev som skal erverve førerett for en motorsykkelklasse for første gang skal innledningsvis i trinn 2 gjennomføre grunnkurs klasse A1, A2 og A i samsvar med [§ 9-6](forskrift/2004-10-01-1339/§9-6) og [§ 9-7](forskrift/2004-10-01-1339/§9-7).
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019).
+
+### § 9-4. Trinn 3: Trafikal opplæring – klassene A1, A2 og A
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skal ha tilstrekkelig øving i kjøring med læreren som passasjer, hvis det kan skje lovlig, eller med last som utnytter minimum 80 prosent av tillatt nyttelast.
+
+Eleven skalgjøre rede for trafikksystemet og trafikantgruppergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken, herunder kjøring i tunnel og de regler som gjelder for motorsykkelkjøringanvende systematisk og automatisert informasjonsinnhentinganvende presis kjøreteknikk for styring og bremsing av motorsykkelenmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+Elever som skal erverve førerett i klasse A1 skal gjennomføre sikkerhetskurs i trafikk mot slutten av trinn 3, jf. [§ 9-8](forskrift/2004-10-01-1339/§9-8) og [§ 9-9](forskrift/2004-10-01-1339/§9-9).
+
+Elever som skal erverve førerett i klasse A2 og A skal gjennomføre sikkerhetskurs i presis kjøreteknikk for klasse A2 og A i trinn 3 jf. [§ 9-10](forskrift/2004-10-01-1339/§9-10) og [§ 9-11](forskrift/2004-10-01-1339/§9-11).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-5. Trinn 4: Avsluttende opplæring – klassene A1, A2 og A
+
+Etter å ha gjennomført trinn 4 skal eleven ha tilegnet seg den kompetansen som er nødvendig for å kunne kjøre motorsykkel i samsvar med hovedmålet. Eleven skal ha utviklet vilje til å ta ansvar, forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg for den aktuelle klassen jf. [§ 9-12](forskrift/2004-10-01-1339/§9-12), [§ 9-14](forskrift/2004-10-01-1339/§9-14) og [§ 9-16](forskrift/2004-10-01-1339/§9-16). Eleven skal i tillegg ha tilstrekkelig øving.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-6. Grunnkurs klasse A1, A2 og A
+
+Grunnkurset består av 3 undervisningstimer. Undervisningen gjennomføres i klasserom med inntil 16 elever.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-7. Kursmål for grunnkurs klasse A1, A2 og A
+
+Eleven skal gjennom drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med motorsykkel innebærer.
+
+Eleven skal:gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse A1, A2 og Adrøfte eget ønske og behov for å kjøre motorsykkel og samfunnets behovanalysere mulige konflikter mellom motorsyklister og andre trafikantgrupperdrøfte begrepet førerdyktighet, motorsykkelens kraftressurser og sammenhengen mellom disse og de krav trafikkmiljøet stiller til motorsykkelføreredrøfte og ta stilling til sikkerhet ved motorsykkelkjøring, årsakene til de vanligste og alvorligste motorsykkelulykkene og effektive tiltak for å motvirke dissegjøre rede for bruk av riktig motorsykkelbekledning og påbudt sikkerhetsutstyrsette ord på egne meninger om utfordringene ved å kjøre motorsykkel.
+
+> Endret ved forskrifter [30 april 2010 nr. 616](forskrift/2010-04-30-616) (i kraft 1 mai 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-8. Sikkerhetskurs i trafikk – klasse A1
+
+Sikkerhetskurset er på 4 undervisningstimer hvor minst 3 timer skal være praksis bestående av kjøring med refleksjonspauser og resterende tid fordeles til planlegging og oppsummering.
+
+> Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-9. Kursmål for sikkerhetskurs i trafikk – klasse A1
+
+Eleven skal gjennom opplevelse, aktiviteter og drøftinger videreutvikle sin kompetanse i å kjøre sikkert i trafikale situasjoner i samsvar med målet for trinn 3.
+
+Eleven skalgjøre rede for begrepet kjørestrategi og hva som kan kjennetegne en sikker kjørestrategividereutvikle sin kjørestrategi i ulike trafikale miljøvidereutvikle en sikker, strategisk og taktisk kjøringforstå og videreutvikle sikker samhandling og kommunikasjon med andre trafikanterreflektere over sine erfaringer og opplevelser.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-8), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-10. Sikkerhetskurs i presis kjøreteknikk – klasse A2 og A
+
+Kurset er på 4 undervisningstimer, hvorav minimum 3 timer skal være praksis bestående av kjøring og refleksjonspauser. Det skal settes av tid til innledning og oppsummering.
+
+Eleven kan kjøre på egen motorsykkel i dette kurset.
+
+Lærer kan undervise inntil 3 elever samtidig på dette kurset.
+
+Kurset skal gjennomføres på avsperret område.
+
+> Tilføyd ved forskrift [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-9), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-11. Kursmål for sikkerhetskurs i presis kjøreteknikk – klasse A2 og A
+
+Eleven skal gjennom praktiske øvelser, drøftinger og refleksjoner videreutvikle sin kjøretekniske kompetanse i motorsykkelkjøring. Gode arbeidsvaner og teknikker for bremsing og styring av motorsykkelen skal være etablert før kurset gjennomføres.
+
+Eleven skalkjenne til kursets mål og organisering, og bli bevisst sine egne forventninger til kursetutvikle forståelse for at en presis kjøreteknikk er basis for all kontroll med motorsykkelen under kjøringkjenne til de fysiske og psykiske begrensninger hos mennesket som har betydning for motorsykkelførere og kunne forklare hvordan føreren kan ta hensyn til dette i praktiske situasjonerbli bevisst på at motorsykkelkjøring er krevende og at gjentatt øving er nødvendig for å motvirke instinktive feilhandlingerVidereutvikle sin kjørekompetanse ved å oppleve og forstå betydningen av presis kjøreteknikk, som sittestilling, forankring, blikkbruk, styrekommando og gasskontroll,ved effektiv bremsing i hastighet 80 km/t på rett strekningved kjøring i høyre- og venstrekurver med kurveradius minst 10 meterved effektiv bremsing i høyre- og venstrekurver med kurveradius minst 10 meterved kursendring på strekning rett fremved farts- og plassendring i kurve.
+
+> Endret ved forskrifter [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013, tidligere § 9-9), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-10), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [22 mai 2019 nr. 656](forskrift/2019-05-22-656) (i kraft 1 juni 2019).
+
+### § 9-12. Sikkerhetskurs på veg klasse A1
+
+Kurset er på 5 undervisningstimer, hvorav minst 4 timer skal være praksis bestående av kjøring med refleksjonspauser og resterende tid fordeles til planlegging og oppsummering.
+
+> Tilføyd ved forskrift [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 9-11), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-13. Kursmål for sikkerhetskurs på veg klasse A1
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skalplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljøbeskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valgoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledeoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist.
+
+> Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-14. Sikkerhetskurs på veg klasse A2
+
+Kurset er på 5 undervisningstimer, hvorav minst 4 timer skal være praksis bestående av kjøring med refleksjonspauser og resterende tid fordeles til planlegging og oppsummering.
+
+Lærer kan undervise 2 elever om gangen når begge elevene gjennomfører sikkerhetskurs på veg klasse A2 som en del av obligatoriske kurs for utvidelse fra klasse A1 til A2 jf. [§ 9-21](forskrift/2004-10-01-1339/§9-21). Den praktiske øvingen gjennomføres ved at eleven kjører alene på motorsykkelen.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-15. Kursmål for sikkerhetskurs på veg klasse A2
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skalplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre tydelig, sikkert og selvstendig over lengre strekninger i krevende og variert miljøbeskrive og begrunne sin kjøring i tillegg til strategiske og taktiske valgoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledeoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-16. Sikkerhetskurs på veg klasse A
+
+Kurset er på 8 undervisningstimer.
+
+Det skal være minst 1 time innledning og klargjøring. Minst 5 timer skal være kjøring der lærer og elev kan benytte noe av denne tiden til refleksjonspauser. Minst 1 time skal benyttes til oppsummering i etterkant av kjøringen. Innledning og oppsummering kan gjennomføres med inntil 16 elever. Øvrig tid disponeres ut i fra elevens behov.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
+
+### § 9-17. Kursmål for sikkerhetskurs på veg klasse A
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skaldrøfte og ta stilling til begrepene risiko, sikkerhet, strategisk og taktisk i forbindelse med motorsykkelkjøring og hvilke påvirkningsmuligheter eleven harplanlegge en sammenhengende kjøretur og ta hensyn til særlige forhold knyttet til kjøreturenkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valgoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattoppleve og beskrive sammenhengen mellom godt utviklede ferdigheter og kjøregledevurdere egne sterke og svake sider som motorsyklist og velge ut områder med utviklingsmuligheter.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-18. Utvidelse fra klasse A1 til A2 med praktisk prøve
+
+Ved utvidelse fra klasse A1 til A2 med praktisk prøve skal eleven gjennomføre trinnvurdering og obligatoriske kurs for klasse A2 på trinn 3 og 4.
+
+De obligatoriske kursene skal ikke gjennomføres på samme dag.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-19. Utvidelse fra klasse A1 til A med praktisk prøve
+
+Ved utvidelse fra klasse A1 til A med praktisk prøve skal eleven gjennomføre trinnvurdering og obligatoriske kurs for klasse A på trinn 3 og 4.
+
+De obligatoriske kursene skal ikke gjennomføres på samme dag.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-20. Utvidelse fra klasse B til klasse A1
+
+Eleven med førerett i klasse B er ved erverv av klasse A1 unntatt fra å gjennomføre sikkerhetskurs i trafikk klasse A1 jf. [§ 9-8](forskrift/2004-10-01-1339/§9-8).
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-21. Obligatoriske kurs ved utvidelse fra klasse A1 til A2 uten praktisk prøve
+
+Ved utvidelse fra A1 til A2 skal eleven gjennomføre obligatorisk kurs ved utvidelse fra A1 til A2. Dette kurset er på 2 timer hvor minst 1 time er praktisk kjøring jf. [§ 9-22](forskrift/2004-10-01-1339/§9-22). Den praktiske øvingen gjennomføres ved at eleven kjører alene på motorsykkelen. Lærer kan maksimalt undervise 2 elever om gangen. Dette kurset gjennomføres innledningsvis og ikke på samme dag som annen obligatorisk opplæring.
+
+I tillegg skal eleven ved utvidelse fra A1 til A2 gjennomføre sikkerhetskurs i presis kjøreteknikk – klasse A2 og A jf. [§ 9-10](forskrift/2004-10-01-1339/§9-10) og [§ 9-11](forskrift/2004-10-01-1339/§9-11) og sikkerhetskurs på veg klasse A2 jf. [§ 9-14](forskrift/2004-10-01-1339/§9-14) og [§ 9-15](forskrift/2004-10-01-1339/§9-15).
+
+Dokumentert fullført obligatoriske kurs ved utvidelse av førerett i klasse A1 til A2 gir rett til førerett i klasse A2.
+
+Førerett i klasse A2, på bakgrunn av dokumentert fullført obligatoriske kurs ved utvidelse fra A1 til A2, forutsetter to års førerett i klasse A1. Kurset kan tidligst påbegynnes når eleven har ett års førerett i klasse A1.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrifter [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-22. Kursmål for obligatorisk kurs ved utvidelse fra A1 til A2 uten praktisk prøve
+
+Etter å ha gjennomført opplæringen skal eleven ha den kompetansen som er nødvendig for å kunne kjøre mellomtung motorsykkel i samsvar med hovedmålet. Eleven skal ha videreutviklet vilje til å ta ansvar, forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal med bakgrunn i egen erfaring som fører at lett motorsykkel sette seg mål for opplæringen. Eleven skal gjennom samtaler og aktiviteter bli bevisst på hvilken kompetanse som kreves for en fører av mellomtung motorsykkel.
+
+Eleven skalbeskrive egen kjøredyktighetdrøfte begrepet sikkerhet i sammenheng med motorsykkelkjøringdrøfte kjøring med tyngre motorsykkel og egen utvikling som motorsykkelførervise tilstrekkelige tekniske kjøreferdigheter for å ha godt utbytte av de øvrige obligatoriske kursene.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 9-23. Utvidelse fra klasse A2 til A
+
+Ved utvidelse fra klasse A2 til klasse A skal eleven gjennomføre obligatorisk kurs ved utvidelse fra A2 til A jf. [§ 9-24](forskrift/2004-10-01-1339/§9-24) og [§ 9-25](forskrift/2004-10-01-1339/§9-25).
+
+Elever fylt tjuefire år med mindre enn to års førerett i klasse A2, kan erverve førerett i klasse A ved å gjennomføre minst 7 timers obligatorisk kurs og praktisk prøve. Dette kurset kan også gjennomføres av elever fylt tjuetre år med mindre enn ett års førerett i klasse A2.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 9-24. Obligatorisk kurs ved utvidelse fra klasse A2 til A
+
+Kurset er på minst 7 undervisningstimer hvorav minst 4 timer er praktisk øving. Minst 2 timer benyttes til bevisstgjøring og planlegging, refleksjon og oppsummering. Undervisningen skal så langt det er mulig organiseres slik at kurset fremstår som en helhet for eleven.
+
+De praktiske øvingene gjennomføres ved at eleven kjører alene på motorsykkelen.
+
+Lærer kan maksimalt undervise 3 elever om gangen på de praktiske øvingene.
+
+Dokumentert fullført obligatorisk kurs ved utvidelse fra klasse A2 til A jf. [§ 9-25](forskrift/2004-10-01-1339/§9-25), gir rett til førerett i klasse A.
+
+Førerett i klasse A, på bakgrunn av dokumentert fullført obligatorisk kurs ved utvidelse fra A2 til A, forutsetter to års førerett i klasse A2. Kurset kan tidligst påbegynnes når eleven har ett års førerett i klasse A2.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
+
+### § 9-25. Kursmål for obligatorisk kurs ved utvidelse fra klasse A2 til A
+
+Etter å ha gjennomført opplæringen skal eleven ha den kompetansen som er nødvendig for å kunne kjøre tung motorsykkel i samsvar med hovedmålet. Eleven skal ha videreutviklet vilje til å ta ansvar, forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal med bakgrunn i egen erfaring som fører av mellomtung motorsykkel sette seg mål for opplæringen. Eleven skal gjennom samtale og aktiviteter bli bevisst på hvilken kompetanse som kreves for en fører av tung motorsykkel.
+
+Eleven skalkjenne til motorsyklisters ulykkesutsatthetdrøfte erfaringer med vekt på egen kjørestrategiplanlegge en sammenhengende kjøretur med vekt på egne utviklingsmulighetervise tilstrekkelige tekniske kjøreferdigheter til å ha utbytte av kursetkjøre selvstendig, sikkert og effektivt over lengre strekninger i krevende og variert miljø, og beskrive og begrunne sin kjørestrategi og taktiske valgoppfatte og vurdere trafikksituasjoner hvor motorsyklister er spesielt ulykkesutsattreflektere over og vurdere egen kompetanse som motorsyklist og vise evne og vilje til ettertanke og selvkritisk vurdering.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 10. Klasse AM 146
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 10-1. Hovedmål for klasse AM 146
+
+Etter å ha gjennomført trafikkopplæring i klasse AM 146 skal eleven ha den kompetansen som er nødvendig for å kjøre moped, AM 146, på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 10-2. Trinn 1: Trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klasse AM 146
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, mopeden.
+
+Eleven skalgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring og bremsing i områder med liten trafikkbeherske grunnleggende kjøretøybehandling i områder med liten trafikkutføre aktuell sikkerhetskontroll av mopeden.
+
+Eleven skal gjennomføre grunnkurs klasse AM 146 i samsvar med [§ 10-6](forskrift/2004-10-01-1339/§10-6) og [§ 10-7](forskrift/2004-10-01-1339/§10-7). Kurset gjennomføres som innledning til opplæringen i klasse AM 146. Ikke-obligatorisk opplæring mot vederlag kan i trinn 2 gjennomføres med inntil tre elever.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 10-4. Trinn 3: Trafikal opplæring – klasse AM 146
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal kunne kjøre sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken, i ulike vegmiljø og de regler som gjelder for mopedkjøringanvende systematisk og automatisert informasjonsinnhenting og presis kjøreteknikkmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.
+
+Eleven skal gjennomføre sikkerhetskurs i trafikk klasse AM 146 i samsvar med [§ 10-8](forskrift/2004-10-01-1339/§10-8) og [§ 10-9](forskrift/2004-10-01-1339/§10-9). Kurset gjennomføres mot slutten av opplæringen i trinn 3. Ikke-obligatorisk opplæring mot vederlag kan i trinn 3 gjennomføres med inntil tre elever.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 10-5. Trinn 4: Avsluttende opplæring – klasse AM 146
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre moped i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg i klasse AM 146 i samsvar med [§ 10-10](forskrift/2004-10-01-1339/§10-10) og [§ 10-11](forskrift/2004-10-01-1339/§10-11). Eleven skal i tillegg ha tilstrekkelig øving. Ikke-obligatorisk opplæring mot vederlag kan i trinn 4 gjennomføres med inntil tre elever.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 10-6. Grunnkurs klasse AM 146
+
+Kurset er på 3 undervisningstimer. Undervisningen gjennomføres i klasserom med inntil 16 elever.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-7. Kursmål for grunnkurs klasse AM 146
+
+Eleven skal gjennom drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med moped innebærer.
+
+Eleven skalgjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AM 146drøfte mopedførerens kapasitet og trafikkens kravdrøfte mopedens oppbygning med tanke på sikkerhet og miljøgjøre rede for mopedførerens bekledning med tanke på sikkerhetdrøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhelldrøfte begrepene sikker, strategisk og taktisk kjøring.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-8. Sikkerhetskurs i trafikk – klasse AM 146
+
+Sikkerhetskurset er på 4 undervisningstimer der minst 3 timer skal være praksis bestående av kjøring med refleksjonspauser og resterende tid fordeles til planlegging og oppsummering.
+
+Dette kurset kan gjennomføres med inntil 3 elever per lærer.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-9. Kursmål for sikkerhetskurs i trafikk – klasse AM 146
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å samhandle med andre trafikanter og til å velge kjøremåter med lav risiko.
+
+Eleven skalmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter, herunder å forutse, oppfatte og motvirke risiko for møteulykker, å bli forbikjørt og å kjøre forbivurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-10. Sikkerhetskurs på veg – klasse AM 146
+
+Sikkerhetskurset består av 4 undervisningstimer der minst 3 timer skal være praksis bestående av kjøring med refleksjonspauser og resterende tid fordeles til planlegging og oppsummering.
+
+Dette kurset kan gjennomføres med inntil 3 elever per lærer.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-11. Kursmål for sikkerhetskurs på veg – klasse AM 146
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal utvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skalvidereutvikle tydelig, sikker og selvstendig kjøring med moped i tettbygd strøk og landevegsmiljø ved bruk av systematisk informasjonsinnhenting og presis kjøre- teknikkerfare og velge kjørerute som gir størst mulig trygghet og minst mulig ulempe for annen trafikkreflektere over egne opplevelser og mopedens muligheter for sikker transport.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 10-12. Unntak for elever som har gjennomført opplæring i klasse A, A2 eller A1
+
+Elev som har gjennomført all obligatorisk opplæring i klasse A, A2 eller A1, men som ikke har ervervet førerett, kan avlegge førerprøven i klasse AM 146 etter å ha gjennomført obligatorisk opplæring på trinn 4 for AM 146, jf. [§ 10-5](forskrift/2004-10-01-1339/§10-5).
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 11. Klasse B
+
+### § 11-1. Hovedmål for klasse B
+
+Etter å ha gjennomført trafikkopplæringen i klasse B skal eleven ha den kompetansen som er nødvendig for å kjøre bil på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+### § 11-2. Trinn 1: Trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 11-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klasse B
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bilen.
+
+Eleven skalgjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse Bgjøre rede for bilens oppbygning med tanke på sikkerhet og miljø, herunder førerstøttesystemer som er vanlige i klassengjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for kjøring med tilhengergjøre rede for menneskets kapasitet og trafikkens krav herunder rus, rusmidler og bilkjøringgjøre seg klar for kjøringutføre igangsetting og stans, giring, styring, bremsing og rygging i variert terrengbeherske grunnleggende kjøretøybehandling i områder med liten trafikk, herunder når aktuelle førerstøttesystemer er aktivert eller deaktivertutføre aktuell sikkerhetskontroll av bilen.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 11-4. Trinn 3: Trafikal opplæring – klasse B
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av avsluttende opplæring i trinn 4.
+
+Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for hva det innebærer å ta tilstrekkelig hensyn til andre trafikantergjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for bilkjøringanvende systematisk og automatisert informasjonsinnhentingmestre å kjøre tydelig, sikkert og effektivt i bolig, tettsted og bymiljømestre å kjøre tydelig, sikkert og effektivt i landevegsmiljø og forutse, oppfatte og motvirke risiko for møte- og utforkjøringsulykker, å bli forbikjørt og kjøre forbimestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre å kjøre effektivt og behagelig, miljøvennlig og økonomisk i variert trafikkmiljø i god samhandling med andre trafikanter.mestre å bruke de førerstøttesystemene som kan aktiveres og deaktiveres av fører på øvingskjøretøyet, og reagere riktig når systemene varsler eller griper inn i kjøringen.
+
+Eleven skal gjennomføre sikkerhetskurs på øvingsbane i samsvar med [§§ 11-6](forskrift/2004-10-01-1339/§11-6) og [11-7](forskrift/2004-10-01-1339/§11-7). Kurset gjennomføres mot slutten av opplæringen i trinn 3. Unntaksvis kan kurset gjennomføres i tilknytning til kjøring i landevegsmiljø eller til kjøring i variert trafikkmiljø i sikkerhetskurs på veg, jf. [§ 11-8](forskrift/2004-10-01-1339/§11-8) tredje og fjerde ledd, når dette kan være fordelaktig for eleven. Det skal særlig tas hensyn til den totale undervisningsbelastningen og elevens læringsutbytte når undervisningen organiseres på denne måten.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 11-5. Trinn 4: Avsluttende opplæring – klasse B
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre bil i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg i samsvar med [§ 11-8](forskrift/2004-10-01-1339/§11-8) og [§ 11-9](forskrift/2004-10-01-1339/§11-9), og i tillegg ha tilstrekkelig øving.
+
+### § 11-6. Sikkerhetskurs på bane – klasse B
+
+Kurset er på 4 undervisningstimer og gjennomføres i sin helhet på banen. 1 time brukes til mål, forventninger, oppsummering og refleksjoner med medelever og lærere i klasserom. 1 time brukes til sikring av personer og last. Hver elev skal ha 2 timer praktisk øving på bane.
+
+Ved kjøring på bane kan det være inntil to elever i hver bil. Det skal være en trafikklærer i hver bil. Øvrig undervisning kan gjennomføres med inntil 16 elever.
+
+Øvingsbanens størrelse, kjøremønster, kapasitet og sikkerhetssoner bestemmer hvor mange biler det er forsvarlig å ha på banen samtidig.
+
+Banen, baneleien og hvor mange biler som kan øve på banen samtidig, godkjennes av Statens vegvesen.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225).
+
+### § 11-7. Kursmål for sikkerhetskurs på bane – klasse B
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal lære å sikre personer og last, og forstå hvordan bilens bremse- og styremuligheter påvirkes av førerens kjøremåte og bilens utrustning.
+
+Eleven skalkjenne kursets mål og organisering, og bli bevisst og sette ord på egne forventninger og målforstå betydningen av å sikre personer og last i eller på bil ved åoppleve hvordan løse gjenstander påvirkes og tilegne seg kunnskap om hvilke krefter en person utsettes for ved bråstopptilegne seg kunnskap om og øve på å sikre barn, voksne, last og gjenstandervidereutvikle sin kompetanse til å ha kontroll over bilen ved åoppleve hvordan fart, kjøremåte, førerstøttesystem, dekk og tilgjengelig veggrep virker inn på bilens bremse- og styremuligheteroppleve krisesituasjoner og bli bevisst egne reaksjonerreflektere over sine erfaringer og opplevelser ved ådele disse med medelever og lærerevurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmuligheter.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 11-8. Sikkerhetskurs på veg – klasse B
+
+Kurset er på 13 undervisningstimer.
+
+Kurset begynner med 2 timer undervisning i klasserom om bilkjøringens risiko.
+
+Andre del er 5 timer praktisk øving i landevegskjøring.
+
+Tredje del er 4 timer undervisning i planlegging og kjøring i variert trafikkmiljø. Minst 3 timer skal være selvstendig kjøring i variert trafikkmiljø, resterende tid skal benyttes til planlegging og oppsummering.
+
+Kurset avsluttes med 2 timer refleksjon og oppsummering i klasserom.
+
+Praktisk øving gjennomføres med inntil 2 elever. Kjøring i variert trafikkmiljø gjennomføres som hovedregel med 2 elever som arbeider sammen. Øvrig undervisning kan gjennomføres med inntil 16 elever.
+
+Hver del av kurset gjennomføres samlet og i fastsatt rekkefølge. Andre og tredje del kan ikke gjennomføres på samme dag.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 11-9. Kursmål for sikkerhetskurs på veg – klasse B
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skalha forståelse for bilkjøringens risiko ved åkjenne kursets mål og organisering og sette ord på egne forventninger og måldrøfte begrepet kjøredyktighetkjenne til fordelingen av de alvorligste ulykkene i forhold til alder, kjønn og tidspunktdrøfte årsakene til de vanligste og alvorligste ungdomsulykkene og foreslå, argumentere for og ta stilling til effektive tiltak for å motvirke disseidentifisere og beskrive mulige risikofaktorer i en gitt trafikksituasjon, forklare hva risikoen består i og velge ut, beskrive og argumentere for en ønsket atferddrøfte hvordan de selv påvirker og påvirkes av andre og være bevisst på sin personlige kjørestil med tanke på risiko og miljøvidereutvikle sin kjørekompetanse i landevegsmiljø ved åøve på kjøring på landeveg med varierende standardidentifisere og beskrive trafikkmiljøet, forutse og påpeke mulige risikomomenter og angi en hensiktsmessig kjøremåte fremover i tidanvende presis kjøreteknikk og videreutvikle en miljøvennlig og økonomisk kjøremåteoppleve og erfare situasjoner med særlig stor risiko ved inn- og/eller avkjøring fra større veg og vurdere og utvise hensiktsmessig atferd i slike situasjoneroppleve og erfare møtesituasjoner og å bli forbikjørt, og vurdere og utvise hensiktsmessig atferd og vilje til å ivareta egen og andres sikkerhet i slike situasjoner og ved vurdering av om egen forbikjøring kan gjennomføres eller ikkeskrive loggplanlegge og gjennomføre kjøring i variert trafikkmiljø ved åanvende hensiktsmessige hjelpemidler for å kunne beskrive, forklare og begrunne ulike forhold en må vente og ta hensyn til i løpet av kjøreturenkjøre selvstendig over lengre strekninger i et skiftende miljø som varierer i vegstandard og mellom typisk landeveg, by- og tettstedsmiljøbegrunne handlingsvalg og kjøremåterskrive loggreflektere over sine erfaringer og opplevelser ved ådele disse med medelever og lærerebeskrive og begrunne egne valg og kjøremåtervurdere egne sterke og svake sider som bilførere og velge ut områder med utviklingsmulighetervurdere og ta stilling til ulike løsninger i en gitt problemstilling, gjøre rede for sitt syn og kunne argumentere for dette.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 11-10. Utvidelse fra klasse B til klasse B kode 96
+
+Ved utvidelse fra klasse B til klasse B kode 96 skal eleven gjennomføre trafikkopplæring som for klasse BE, jf. [kap. 12](forskrift/2004-10-01-1339/kap12).
+
+Dokumentert fullført obligatorisk opplæring, som i det minste består av trinnvurdering i trinn 2 og 3, kurs i sikring og merking av last – klassene B kode 96, BE, T, D1E og DE og sikkerhetskurs på veg – klassene B kode 96 og BE, gir rett til førerett i klasse B kode 96.
+
+> Tilføyd ved forskrift [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [28 feb 2017 nr. 232](forskrift/2017-02-28-232).
+
+## Kapittel 12. Klasse BE
+
+### § 12-1. Hovedmål for klasse BE
+
+Etter å ha gjennomført trafikkopplæringen i klasse BE skal eleven ha den kompetansen som er nødvendig for å kjøre bil med tilhenger på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper, ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+### § 12-2. Trinn 1 – klasse BE
+
+Trinn 1 er dekket gjennom opplæringen for erverv av førerett i klasse B.
+
+### § 12-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klasse BE
+
+Etter å ha gjennomført trinn 2 skal eleven skal ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter. Eleven skal forstå behovet for sikkerhetskontroll og lastsikring.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bil og tilhenger.
+
+Eleven skalha kunnskap om risiko i tilknytning til å kjøre bil med tilhengerha grunnleggende kunnskap om lastsikringkunne kople til og fra tilhengeren og utføre aktuell sikkerhetskontrollkunne vurdere plassbehov ved kjøring rett fram og i sving, og kjøre vogntoget i mot- og utforbakkekunne rygge rett bakover og i sving, og kjenne førerens ansvar og plikter i forbindelse med rygging.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 12-4. Trinn 3: Trafikal opplæring – klasse BE
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal i vurdere sin egen ferdighet til å kjøre bil med tilhenger i god samhandling med andre.
+
+Eleven skalha systematisk og automatisert informasjonsinnhentingkunne kjøre tydelig, sikkert og effektivt i variert terrengkunne vurdere snuplasser, snumåter og bruk av medhjelperkunne kjøre selvstendig i variert trafikkmiljø på en måte som gir god samhandling med andre trafikanter og samtidig er økonomisk og miljøvennlig.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 12-5. Trinn 4: Avsluttende opplæring – klasse BE
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre kurs i sikring og merking av last – klassene B kode 96, BE, D1E, DE og T i samsvar med [§ 27-1](forskrift/2004-10-01-1339/§27-1) og sikkerhetskurs på veg – klassene B kode 96 og BE i samsvar med [§ 12-6](forskrift/2004-10-01-1339/§12-6) og [§ 12-7](forskrift/2004-10-01-1339/§12-7). Sikkerhetskurs på veg – klassene B kode 96 og BE er på 3 timer. Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 2 er gjennomført.
+
+> Endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 12-6. Sikkerhetskurs på veg – klassene B kode 96 og BE
+
+Kurset er på 3 undervisningstimer. Hver elev skal ha minst 2 timer praktisk øving. Resterende tid disponeres til forventninger og mål, planlegging, oppsummering og refleksjon i klasserom. Praktisk øving kan gjennomføres med inntil 2 elever i bilen. Øvrig undervisning kan gjennomføres med inntil 16 elever.
+
+I minst halvparten av den praktiske øvingen skal tilhengeren være lastet med flere kolli som til sammen veier minst 300 kg og er sikret med alminnelig sikringsutstyr. Aktuell totalvekt skal være minst 1200 kg.
+
+> Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), endret ved forskrift [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014).
+
+### § 12-7. Kursmål for sikkerhetskurs på veg – klassene B kode 96 og BE
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse til å opptre slik at ulykker unngås.
+
+Eleven skalplanlegge kjørerutaforstå risikoen ved å kjøre personbil med tilhenger i ulike trafikkmiljøutvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner, planlegging av møting, å bli forbikjørt, vurdering av snuplass og måte å snu på, og økonomisk kjøringkunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen kjøredyktighet til å kjøre bil med tilhenger og muligheter for forbedring.
+
+> Tilføyd ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 12-8. Utvidelse fra klasse B kode 96 til klasse BE
+
+Ved utvidelse fra klasse B kode 96 til klasse BE gjennomføres praktisk prøve.
+
+> Tilføyd ved forskrift [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013), endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013, tidligere § 12-6).
+
+## Kapittel 13. Klasse AM 147
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 13-1. Hovedmål for klasse AM 147
+
+Etter å ha gjennomført trafikkopplæringen i klasse AM 147 skal eleven ha den kompetansen som er nødvendig for å kjøre tre- og firehjuls moped på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 13-2. Trinn 1: Trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å få godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrift [28 feb 2017 nr. 232](forskrift/2017-02-28-232).
+
+### § 13-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klasse AM 147
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å kunne påbegynne opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, mopeden.
+
+Eleven skalgjøre rede for reglene om førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse AMgjøre rede for mopedens oppbygning med tanke på sikkerhet og miljøgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens krav, herunder rus, rusmidler og kjøring.
+
+Eleven skal gjennomføre obligatorisk kurs i grunnleggende kjøretøybehandling i samsvar med [§ 13-6](forskrift/2004-10-01-1339/§13-6). Kurset er på 4 undervisningstimer.
+
+Eleven skal mot slutten av det obligatoriske kurset i trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+### § 13-4. Trinn 3: Trafikal kompetanse – klasse AM 147
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre trygt i trafikken.
+
+Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalgjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for de regler som gjelder for kjøring med moped i trafikken.
+
+Eleven skal gjennomføre obligatorisk kurs i kjøring i trafikk i samsvar med [§ 13-7](forskrift/2004-10-01-1339/§13-7). Kurset er på 6 undervisningstimer.
+
+Eleven skal mot slutten av det obligatoriske kurset i trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+### § 13-5. Trinn 4: Avsluttende opplæring – klasse AM 147
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kjøre tre- eller firehjuls moped i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg i samsvar med [§ 13-8](forskrift/2004-10-01-1339/§13-8), og ha tilstrekkelig øving. Kurset er på 4 undervisningstimer. Minst 3 timer av kurset er praktisk øving. Den resterende del av kurset brukes til mål, forventninger, refleksjon og oppsummering.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+### § 13-6. Kursmål for kurs i grunnleggende kjøretøybehandling – klasse AM 147
+
+Eleven skal gjennom øving utvikle sin kompetanse i grunnleggende kjøretøybehandling.
+
+Kjøreferdigheten skal være så god at eleven har forsvarlig kontroll over kjøretøyet.
+
+Eleven skalgjøre seg klar for kjøringutføre igangsetting og stans i variert terrengutføre giring (der girmoped benyttes), styring og bremsingbeherske grunnleggende kjøretøybehandling under sammenhengende kjøringutføre sikkerhetskontroll av mopeden.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+### § 13-7. Kursmål for sikkerhetskurs i trafikk – klasse AM 147
+
+Eleven skal gjennom opplevelser og erfaringer videreutvikle sin kompetanse i å kjøre trygt i trafikken.
+
+Eleven skalanvende systematisk og automatisert informasjonsinnhentingmestre å kjøre tydelig, sikkert og effektivt i bolig-, tettsted-, by- og landevegsmiljømestre riktig kjøremåte i tilknytning til eventuelle spesielle lokale trafikkforhold.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+### § 13-8. Kursmål for sikkerhetskurs på veg – klasse AM 147
+
+Etter å ha gjennomført sikkerhetskurs på veg skal eleven gjennom opplevelse og erfaring ha videreutviklet sin kompetanse i å opptre slik at ulykker unngås. Eleven skal ha forståelse for risikomomenter knyttet til kjøring med tre- eller firehjulsmoped både på landeveg og i andre miljøer.
+
+Eleven skalforberede seg til, og klargjøre kjøretøyet for og planlegge en kjøretur og gjøre rede for forhold som en må forvente å møte og ta hensyn til i løpet av kjøreturenha forståelse for faremomenter knyttet til kryssing, inn- og utkjøring på større veg og videreutvikle sin kjørekompetanse i slike situasjonerha forståelse for faremomenter knyttet til kjøring på landeveg og videreutvikle sin kjørekompetanse på slik vegha forståelse for spesielle risikomomenter knyttet til kjøring med tre- eller firehjulsmoped og videreutvikle sin kjørekompetanse i ulike trafikkmiljøkunne sette ord på egne erfaringer, vurdere egne sterke og svake sider som mopedfører og velge ut områder med utviklingsmulighet.
+
+> Tilføyd ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), endret ved forskrifter [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019).
+
+## Kapittel 14. Klasse S
+
+### § 14-1. Hovedmål for klasse S
+
+Etter å ha gjennomført opplæringen i klasse S skal eleven ha den kompetansen som er nødvendig for å kjøre beltemotorsykkel på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:ivaretar egen og andres sikkerhetgir god samhandling med andre brukere av naturentar hensyn til helse og trivseltar hensyn til natur og miljøer i samsvar med gjeldende regelverk.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+### § 14-2. Trinn 1 – trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at de kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+### § 14-3. Trinn 2 – grunnleggende kjøretøy og kjørekompetanse klasse S
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trening i variert terreng i trinn 3.
+
+Eleven skal tilegne seg så god kjøreteknisk ferdighet at eleven kan flytte oppmerksomheten fra eget kjøretøy til naturen, terrenget og samhandling med annen ferdsel.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, beltemotorsykkelen.
+
+Eleven skalutføre aktuell sikkerhetskontroll og skifte av variatorreimutføre start og stopp av motorbenytte korrekt sittestilling og styreteknikkutføre igangsetting, fartsøkning og bremsing på en sikker og behagelig måte.
+
+Eleven skal innledningsvis i trinn 2 gjennomføre grunnkurs i klasse S jf. [§ 14-6](forskrift/2004-10-01-1339/§14-6) og [§ 14-7](forskrift/2004-10-01-1339/§14-7).
+
+Eleven skal, i tillegg til grunnkurs klasse S, ha 3 undervisningstimer i praktisk opplæring.
+
+På avgrenset område kan undervisningen gjennomføres med inntil 4 elever per lærer.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Tilføyd ved forskrift [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 14-4. Trinn 3 – kjøring i variert terreng – klasse S
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av avsluttende opplæring i trinn 4.
+
+Eleven skal kunne kjøre trygt, miljøbevisst og selvstendig under varierte forhold.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre selvstendig, sikkert, miljøbevisst og i god samhandling med andre brukere av naturen.
+
+Eleven skal:øve på kontroll før kjøringtilpasse sin kjøring i forhold til terreng, føreforholdene og egne ferdighetervelge kjøreadferd som er tilpasset andre brukere av naturen, dyreliv, natur og miljø, herunder lokale restriksjonerutføre kontroll av slede og lasting av slede med rett plassering og sikring av lastoppleve utfordringene ved, og få øving i, kjøring med passasjer på beltemotorsykkelen og med opplastet tilhengersledeforstå veltefaren og gjøre sikre vegvalg i ulendt terreng og løssnø, med og uten passasjer, slede og lastkjenne til faremomentene ved, og få øving i kjøring på veg og glatt underlag med og uten slede, ved kryssing av vegøve på observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følgeøve på å orientere seg ved hjelp av kart og kompass og GPS relaterte hjelpemidler.
+
+Eleven skal ha 4 undervisningstimer hvorav minst 3 timer skal være egenkjøring i variert terreng. Trinn 3 kan ikke gjennomføres på samme dag som grunnkurs klasse S.
+
+I trinn 3 kan undervisningen gjennomføres med inntil 4 elever samtidig.
+
+Læreren skal benytte egen beltemotorsykkel. Læreren kan likevel sitte på med eleven på kortere strekninger.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Tilføyd ved forskrift [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 14-5. Trinn 4 – Avsluttende opplæring – klasse S
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre beltemotorsykkel i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar og til å ta forholdsregler.
+
+Eleven skal gjennomføre sikkerhetskurs i naturen – klasse S, jf. [§ 14-8](forskrift/2004-10-01-1339/§14-8) og [§ 14-9](forskrift/2004-10-01-1339/§14-9).
+
+> Tilføyd ved forskrift [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+### § 14-6. Grunnkurs klasse S
+
+Grunnkurset er på 3 undervisningstimer.
+
+Undervisningen gjennomføres i klasserom med inntil 16 elever.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+### § 14-7. Kursmål for grunnkurs klasse S
+
+Eleven skal gjennom drøftinger og aktiviteter, refleksjon og oppsummering utvikle grunnleggende forståelse for hva kjøring med beltemotorsykkel, ferdsel med motorvogn i naturen og sikkerhet i fjellet innebærer.
+
+Eleven skalgjøre rede for regler om førerkort og føreropplæring, og grunntankene i opplæringen i klasse Sdrøfte eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved uhelldrøfte førers ansvar for natur, miljø og andre brukere av naturendrøfte rett bekledning og nødvendig sikkerhetsutstyrdrøfte GPS baserte hjelpemidler til bruk ved orienteringgjøre rede for kjøretøyets konstruksjon og virkemåtegjøre rede for sikkerhetskontroll av beltemotorsykkel.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+### § 14-8. Sikkerhetskurs i naturen klasse S
+
+Kurset er på 7 undervisningstimer.
+
+Kurset begynner med 2 timer innledning i klasserom med inntil 16 elever.
+
+Andre del er på 5 timer, hvorav minst 3 timer skal være selvstendig sammenhengende kjøring i og utenfor løype, med refleksjonspauser. Andre del kan ikke gjennomføres på samme dag som trinn 3. Hver elev skal gjennomføre minst en time av den selvstendige kjøringen med opplastet slede. Kurset avsluttes med felles oppsummering.
+
+Den praktiske øvingen kan gjennomføres med inntil 4 elever per lærer.
+
+Læreren skal benytte egen beltemotorsykkel. Læreren kan likevel sitte på med eleven på kortere strekninger.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017), endret ved forskrifter [14 aug 2017 nr. 1248](forskrift/2017-08-14-1248) (i kraft 1 sep 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 14-9. Kursmål for sikkerhetskurs i naturen – klasse S
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse i å opptre slik at ulykker unngås og ha rett opptreden hvis ulykke oppstår.
+
+Eleven skal lære å gjøre gode forberedelser før kjøring, gode valg under kjøring, og aktuelle nødtiltak og førstehjelp ved ulykke.
+
+Eleven skallære å gjøre gode forberedelser før kjøring ved å kunne:gjøre rede for fjellvettreglenefinne frem på og anvende varsom.no, andre nettsteder og kilder til planlegging av sikker ferdsel i mulig skredterreng og på islagt vannvurdere isforhold, og andre utfordringer i løypergjøre rede for bruk av smarttelefoner for navigasjon, skredvarsling og ulykkesvarslinggjøre rede for bruk av nødpeilesender til ulykkesvarslinggjøre rede for værtegn og utfordringer ved vind og dårlige siktforholdgjøre rede for symptomer på lokal og generell nedkjøling og hvordan forebygge nedkjølingvelge rett bekledning og nødvendig sikkerhetsutstyrvidereutvikle sin kjørekompetanse på beltemotorsykkel ved å:gjennomføre selvstendig sammenhengende kjøring med og uten last, herunder selv velge sikre ruter tilpasset skredfare, miljø, dyreliv og naturorientere seg ved hjelp av kart, kompass og GPS baserte hjelpemidlerbenytte rett observasjon og kommunikasjon, i den hensikt å ta ansvar for andre førere i et følgevidereutvikle sin forståelse for de farer og ulemper kjøring med beltemotorsykkel medfører for miljø, dyreliv, natur, fører, passasjer og andre brukere av naturenlære å utføre aktuelle nødtiltak, kameratredning og førstehjelp ved å:etablere nødbivuakk i snøen og bruke vindsekkutføre søk med skredsøker (sender/mottaker) og søkestang mot nedgravd person eller simulert person ved f.eks. ryggsekkutføre førstehjelp og kameratredning ved simulert ulykke med beltemotorsykkel i naturenreflektere over sine erfaringer og opplevelser ved ådrøfte disse med sine medelever og lærervurdere egne sterke og svake sider som fører av beltemotorsykkel og velge ut områder med utviklingsmuligheter.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 juli 2017).
+
+## Kapittel 15. Klasse T
+
+### § 15-1. Hovedmål for klasse T
+
+Etter å ha gjennomført trafikkopplæringen i klasse T skal eleven ha den kompetanse som er nødvendig for å kjøre traktor med tilhenger på en ansvarlig måte.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre traktor med tilhenger på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklingtar hensyn til helse, miljø og andres behovgjør at kjøretøy og veg ikke utsettes for unødig slitasjeer i samsvar med gjeldende regelverk.
+
+### § 15-2. Trinn 1: Trafikalt grunnkurs
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha så god forståelse for trafikk og trafikkopplæring at eleven kan begynne å øvingskjøre.
+
+Eleven skal gjennomføre trafikalt grunnkurs, jf. [kapittel 8](forskrift/2004-10-01-1339/kap8).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 15-3. Trinn 2: Grunnleggende kjøretøy- og kjørekompetanse – klasse T
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å bruke, og oppdage mangler ved, traktor med tilhenger.
+
+Eleven skal:gjøre rede for reglene for førerkort og trafikkopplæring, og grunntankene i opplæringen i klasse Tkjenne til at det finnes regler om motorferdsel i utmark og Arbeidstilsynets regler om bruk av traktorgjøre rede for traktorens og tilhengerens konstruksjon med tanke på sikkerhet og miljø, og grunnleggende lastsikringgjøre rede for eiers og brukers ansvar for kjøretøyets stand og bruk, økonomisk ansvar, offentlige reaksjoner og plikter ved trafikkuhellgjøre rede for menneskets kapasitet og trafikkens kravgjøre seg klar for kjøringutføre igangsetting og stans i variert terrengutføre riktig bruk av girsystem i variert terrengutføre bremsing i variert terrengutføre styring og svinging i kryssutføre rygging med og uten tilhenger, og til- og frakobling av tilhengerutføre aktuell sikkerhetskontroll av traktor og tilhenger, herunder legge på kjetting.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 15-4. Trinn 3: Trafikal opplæring – klasse T
+
+Etter å ha gjennomført trinn 3 skal elevene ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skal:gjøre rede for trafikksystemet, trafikantgrupper og interessemotsetningergjøre rede for veg, vegoppmerking, skilt og annen trafikkreguleringgjøre rede for tydelig, sikker og effektiv atferd i trafikken i ulike vegmiljø, herunder kjøring i tunnel, og de regler som gjelder for traktor med tilhengergjøre rede for kjøring på glatt føreanvende systematisk og automatisert informasjonsbearbeidingøve på å kjøre tydelig inn mot, gjennom og mellom kryssøve på å tilpasse kjøremåten til boligmiljø, tettsteds- og bymiljøøve på å tilpasse kjøremåten for kryssing av jernbaneplanovergang og til lokale kjøreforholdøve på vending og parkeringøve på å kjøre med lav risiko på landevegøve på å bruke traktor med tilhenger riktig i variert terreng og trafikkmiljø.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 15-5. Trinn 4: Avsluttende opplæring – klasse T
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetanse som er nødvendig for å kjøre traktor med tilhenger i samsvar med hovedmålet.
+
+Eleven skal kunne kjøre selvstendig i variert trafikk på en måte som gir god samhandling med andre trafikanter og som samtidig er økonomisk og miljøvennlig.
+
+Eleven skalmestre å forutse og vurdere risikoforhold riktig og i god tidmestre tydelig tegngiving, fartstilpassing og plasseringmestre å ha handlingsberedskap når det er nødvendigmestre å ta hensyn til egne og kjøretøyets begrensninger, slik at kjøringen hele tiden er under kontrollreflektere over hvordan trafikkbildet kan endre seg, legge planer ut i fra det og kunne begrunne handlingsvalg i ettertid.
+
+Eleven skal gjennomføre kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE, og T jf. [§ 27-1](forskrift/2004-10-01-1339/§27-1). Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 2 er gjennomført.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 15-6. Utvidelse fra klasse T til klasse T kode 141 og fra klasse T kode 144 til klasse T kode 148
+
+Ved utvidelse av føreretten fra klasse T til T kode 141 eller fra klasse T kode 144 til T kode 148 skal eleven gjennomføre sikkerhetskurs for klasse T kode 141 og klasse T kode 148, jf. [§ 15-7](forskrift/2004-10-01-1339/§15-7) og [§ 15-8](forskrift/2004-10-01-1339/§15-8). Det forutsettes førerett i klasse T eller T kode 144 før kurset påbegynnes.
+
+> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014).
+
+### § 15-7. Sikkerhetskurs klasse T kode 141 og klasse T kode 148
+
+Kurset er på 7 undervisningstimer hvorav minst 2 timer er praktisk kjøring i trafikk med traktor og tilhenger med konstruktiv hastighet 50 km/t. Vekten av lasten må utgjøre minst 50 % av tillatt nyttelast inntil aktuell totalvekt er 7000 kg, likevel være minst 2000 kg. Aktuell totalvekt skal være minst 4000 kg. De øvrige timene av kurset kan gjennomføres med inntil 16 elever.
+
+> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 15-8. Kursmål for sikkerhetskurs klasse T kode 141 og klasse T kode 148
+
+Eleven skal gjennom opplevelser, demonstrasjoner, praktisk øving, gruppearbeid og refleksjoner med medelever og lærer, videreutvikle sin kompetanse til å kjøre traktor med tilhenger slik at ulykker unngås. Når det ikke er praktisk mulig, kan undervisningen gjennomføres uten medelever.
+
+Eleven skal:forstå risikoen ved å kjøre traktor og tilhenger som går 50 km/ttilegne seg kunnskap om konstruksjon, kjøreegenskaper og bruk av tunge og raske traktorer med tilhenger og redskaputvikle sin kjørekompetanse, spesielt med tanke på oppfatting av risikosituasjoner i ulike trafikkmiljø og samhandling med andre trafikanterkunne sette ord på egne erfaringer og med bakgrunn i disse kunne vurdere sin egen dyktighet til å kjøre traktor med tilhenger og muligheter for forbedring.
+
+> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 15-9. Utvidelse fra klasse T til T kode 147
+
+Ved utvidelse av klasse T til klasse T kode 147 for personer som ikke har fylt 18 år, skal eleven gjennomføre sikkerhetskurs på veg jf. [§ 13-8](forskrift/2004-10-01-1339/§13-8).
+
+> Tilføyd ved forskrift [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), endret ved forskrift [2 sep 2019 nr. 1103](forskrift/2019-09-02-1103).
+
+## Kapittel 16. Grunnkurs for tunge kjøretøy
+
+### § 16-1. Grunnkurs – tunge kjøretøy
+
+Personer som skal erverve førerett i tung klasse for første gang, skal i opplæringens trinn 1 gjennomføre grunnkurs for tunge kjøretøy, jf. [kapitlene 17](forskrift/2004-10-01-1339/kap17) til og med 24.
+
+Kurset er på 3 undervisningstimer.
+
+Kurset kan gjennomføres med inntil 16 elever.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 16-2. Kursmål for grunnkurs tunge kjøretøy
+
+Eleven skal gjennom demonstrasjon, drøfting med medelever og lærer, og gjennom refleksjon og oppsummering, utvikle grunnleggende forståelse for hva kjøring med tyngre kjøretøy innebærer.
+
+Eleven skalerfare hvordan kjøring og samhandling med tunge kjøretøy skiller seg fra kjøring med personbildrøfte hvordan tungbilføreren kan skape et positivt forhold til andre trafikantgrupperdrøfte hvordan andre trafikantgrupper kan overvurdere tungbilførerens muligheter til å manøvrere kjøretøyet i vanskelige situasjoner, og at dette kan medføre at andre misforstår, eller ikke samarbeider slik tungbilføreren forventerdrøfte hvordan interessekonflikter mellom trafikantgrupper kan reduseres og hvordan tungbilføreren kan skape et positivt forhold til andre trafikanterdrøfte at trafikkulykker nesten uten unntak skyldes menneskelige feilhandlingervite at tungbilføreren må sette seg inn i et omfattende regelverk når det gjelderhelsekrav, alderskrav og andre regler om førerkort som gjelder generelt for alle tungbilklasserkjøre- og hviletid, kjøring i utlandet, pliktmessig avhold og yrkestransport.
+
+> Tilføyd ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 17. Klasse C1
+
+### § 17-1. Hovedmål for klasse C1
+
+Etter å ha gjennomført opplæringen for klasse C1 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil forsvarlig og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 17-2. Trinn 1: Grunnkurs for tunge kjøretøy
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha en grunnleggende forståelse for hvordan tunge kjøretøy skiller seg fra personbiler når det gjelder kjøring og samhandling.
+
+Eleven skal gjennomføre grunnkurs for tunge kjøretøy, jf. [kapittel 16](forskrift/2004-10-01-1339/kap16).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 17-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse C1
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, lastebilen.
+
+Eleven skalbeskrive lastebilens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere detteforklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en lett lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, lastebilens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 17-4. Trinn 3: Trafikal opplæring – klasse C1
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventede veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen, og blant kollegaer, påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232).
+
+### § 17-5. Trinn 4: Avsluttende opplæring – klasse C1
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre obligatorisk kurs i ulykkesberedskap jf. [kapittel 25](forskrift/2004-10-01-1339/kap25), sikkerhetskurs på veg jf. [kapittel 26](forskrift/2004-10-01-1339/kap26), kurs i sikring av last jf. [§ 27-2](forskrift/2004-10-01-1339/§27-2), og i tillegg ha tilstrekkelig øving.
+
+Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 eller trinn 3. Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 3 er gjennomført.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 18. Klasse C1E
+
+### § 18-1. Hovedmål for klasse C1E
+
+Etter å ha gjennomført opplæringen for klasse C1E skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 18-2. Trinn 1 – klasse C1E
+
+Trinn 1 er dekket gjennom opplæringen for erverv av førerett i klasse C1.
+
+### § 18-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse C1E
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
+
+Eleven skalbeskrive hvordan ulike tilhengere for lastebil er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom lastebil og tilhengerbeskrive grunnleggende oppbygging av bremser på tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 18-4. Trinn 3: Trafikal opplæring – klasse C1E
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret både med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 18-5. Trinn 4: Avsluttende opplæring – klasse C1E
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog i samsvar med hovedmålet.
+
+Eleven skal utvikle vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg, jf. [kapittel 26](forskrift/2004-10-01-1339/kap26), og i tillegg ha tilstrekkelig øving.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 19. Klasse C
+
+### § 19-1. Hovedmål for klasse C
+
+Etter å ha gjennomført opplæringen for klasse C skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil forsvarlig, og for å kunne ivareta de oppgaver som er lastebilførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 19-2. Trinn 1: Grunnkurs tunge kjøretøy
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha en grunnleggende forståelse for hvordan tunge kjøretøy skiller seg fra personbiler når det gjelder kjøring og samhandling.
+
+Eleven skal gjennomføre grunnkurs for tunge kjøretøy, jf. kapittel. 16.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 19-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse C
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, lastebilen.
+
+Eleven skalbeskrive lastebilens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en lastebil fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive lastebilens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, lastebilens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 19-4. Trinn 3: Trafikal opplæring – klasse C
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av tipp, kran, løftelem og annet arbeidsutstyr påmontert lastebilen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for lastebil og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kollegaer påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232).
+
+### § 19-5. Trinn 4: Avsluttende opplæring – klasse C
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre lastebil i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre obligatorisk kurs i ulykkesberedskap jf. [kapittel 25](forskrift/2004-10-01-1339/kap25), sikkerhetskurs på veg jf. [kapittel 26](forskrift/2004-10-01-1339/kap26), kurs i sikring av last jf. [§ 27-2](forskrift/2004-10-01-1339/§27-2) og sikkerhetskurs på øvingsbane jf. [kapittel 28](forskrift/2004-10-01-1339/kap28) og i tillegg ha tilstrekkelig øving.
+
+Når det er hensiktsmessig kan kurs i ulykkesberedskap og gjennomføres i trinn 2 eller trinn 3. Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 3 er gjennomført.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 20. Klasse CE
+
+### § 20-1. Hovedmål for klasse CE
+
+Etter å ha gjennomført opplæringen for klasse CE skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig, og for å kunne ivareta de oppgaver som er førerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarsikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 20-2. Trinn 1 – klasse CE
+
+Trinn 1 er dekket gjennom opplæringen for erverv av førerett i klasse C.
+
+### § 20-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse CE
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
+
+Eleven skalbeskrive hvordan ulike tilhengere for lastebil er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom lastebil og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 20-4. Trinn 3: Trafikal opplæring – klasse CE
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av avsluttende opplæring i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for lastebil, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 20-5. Trinn 4: Avsluttende opplæring – klasse CE
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg, jf. [kapittel 26](forskrift/2004-10-01-1339/kap26) og sikkerhetskurs på øvingsbane, jf. [kapittel 28](forskrift/2004-10-01-1339/kap28), og i tillegg ha tilstrekkelig øving.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 21. Klasse D1
+
+### § 21-1. Hovedmål for klasse D1
+
+Etter å ha gjennomført opplæringen for klasse D1 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre minibuss forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennligtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 21-2. Trinn 1: Grunnkurs tunge kjøretøy
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha en grunnleggende forståelse for hvordan tunge kjøretøy skiller seg fra personbiler når det gjelder kjøring og samhandling.
+
+Eleven skal gjennomføre grunnkurs tunge kjøretøy i samsvar med kapittel. 16.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 21-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse D1
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, minibussen.
+
+Eleven skalbeskrive minibussenes oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere detteforklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en minibuss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive minibussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, minibussens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare riktig bruk av minibussens nødutstyrforklare bruken av, og bruke, aktuelle girsystemer med tanke på best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 21-4. Trinn 3: Trafikal opplæring – klasse D1
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og aksellast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av arbeidsutstyr påmontert minibussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikringkjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 21-5. Trinn 4: Avsluttende opplæring – klasse D1
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre minibuss i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre obligatorisk kurs i ulykkesberedskap, jf. [kapittel 25](forskrift/2004-10-01-1339/kap25), og sikkerhetskurs på veg, jf. [kapittel 26](forskrift/2004-10-01-1339/kap26) og i tillegg ha tilstrekkelig øving.
+
+Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 eller trinn 3.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 22. Klasse D1E
+
+### § 22-1. Hovedmål for klasse D1E
+
+Etter å ha gjennomført opplæringen for klasse D1E skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennligtar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 22-2. Trinn 1 – klasse D1E
+
+Trinn 1 er dekket gjennom opplæringen for erverv av førerett i klasse D1.
+
+### § 22-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse D1E
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
+
+Eleven skalbeskrive hvordan ulike tilhengere for minibuss er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom minibuss og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 22-4. Trinn 3: Trafikal opplæring – klasse D1E
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for minibuss, tilhenger og vogntoget ved hjelp av vognkort og veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 22-5. Trinn 4: Avsluttende opplæring – klasse D1E
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre sikkerhetskurs på veg, jf. [kapittel 26](forskrift/2004-10-01-1339/kap26), kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T, jf. [§ 27-1](forskrift/2004-10-01-1339/§27-1) og i tillegg ha tilstrekkelig øving.
+
+Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 3 er gjennomført.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 23. Klasse D
+
+### § 23-1. Hovedmål for klasse D
+
+Etter å ha gjennomført opplæringen for klasse D skal eleven ha den kompetansen som er nødvendig for å kunne kjøre buss forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 23-2. Trinn 1: Grunnkurs for tunge kjøretøy
+
+Etter å ha gjennomført trinn 1 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av videre opplæring.
+
+Eleven skal ha en grunnleggende forståelse for hvordan tunge kjøretøy skiller seg fra personbiler når det gjelder kjøring og samhandling.
+
+Eleven skal gjennomføre grunnkurs tunge kjøretøy i samsvar med [kapittel 16](forskrift/2004-10-01-1339/kap16).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 23-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse D
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, bussen.
+
+Eleven skalbeskrive bussens oppbygningforklare styringens funksjon og kunne utføre kontroll av denneforklare egenskaper og utføre kontroll av hjul og dekk, risiko ved varmgang i hjullager og hvordan en kan identifisere dette.forklare bestemmelsene for bruk av kjetting, egenskaper ulike kjettinger har, metoder for pålegging, utføre pålegging og kunne vurdere risiko knyttet til pålegging og kjøring med kjettingforklare grunnleggende oppbygging og bruk av kjøretøyets bremser, alarmfunksjoner og kontrollpunkter, og kunne utføre nødvendig ettersyn og kontrollbeskrive hvordan motoren i en buss fungerer, og forklare konsekvenser av manglende ettersyn av smøre- og kjølesystembeskrive bussens drivverk og forklare hvordan en skal kjøre for å unngå unødig slitasje på drivverkets hoveddeler; kopling, girkasse, mellomaksel, differensial og drivakslerbeskrive kjøretøyets elektriske anlegg og utføre ettersyn av påbudte og nødvendige komponenter i det elektriske anleggetavgjøre nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedforklare riktig bruk av, og bruke, bussens betjeningsorganerbeskrive og bruke aktuelle førerstøttesystem, og vite betydningen av varselanordninger og konsekvenser av feilforklare riktig bruk av bussens nødutstyrforklare bruken av, og bruke, aktuelle girsystemer med tanke på, best mulig driftsøkonomi, framdrift og sikkerhetsette i gang, stanse og kjøre rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føret, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 23-4. Trinn 3: Trafikal opplæring – klasse D
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalkjenne til reglene i førerkortforskriften om førerett, helsekrav, alderskrav og gyldighetstid, og i yrkessjåførforskriften og yrkestransportloven om yrkesrettforklare reglene i skiltforskriften som gjelder for kjøring med gjeldende kjøretøybeskrive hvordan en kan beregne tillatt totalvekt og nyttelast på kjøretøyet ved hjelp av vognkort og veglisterforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforklare faremoment ved bruk av arbeidsutstyr påmontert bussen, og forstå at slikt utstyr kan komme inn under andre opplæringsforskrifterkjenne til at transport av farlig gods og spesialtransport er underlagt egne regelverk og beskrive hvilken kompetanse som kreves for å transportere farlig godskjenne til aktuelle bestemmelser i vegtrafikklovgivningen om øvingskjøring, pliktmessig avhold, fraktavtaler og forsikring for buss og godskjenne til kjøre- og hviletidsbestemmelsene og kunne anvende digital og analog fartsskriverforstå hvordan hjernen bearbeider informasjon, og kjenne til hvordan hjernens funksjoner påvirkes av emosjoner, stress, personlighet, søvn, ernæring og generell helseforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåteuttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av rusmidler i forbindelse med vegtrafikkforstå hvordan kultur i bransjen og blant kolleger påvirker atferd og oppførselmestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre å kjøre presist og behagelig, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke, og på smal og svingete vegmestre å kjøre tydelig, sikkert og effektivt i forbindelse med kø, i tunnel og i mørketmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232).
+
+### § 23-5. Trinn 4: Avsluttende opplæring – klasse D
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre buss i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre obligatorisk kurs i ulykkesberedskap, jf. [kapittel 25](forskrift/2004-10-01-1339/kap25). og sikkerhetskurs på veg jf. [kapittel 26](forskrift/2004-10-01-1339/kap26), sikkerhetskurs på øvingsbane, jf. [kapittel 28](forskrift/2004-10-01-1339/kap28) og i tillegg ha tilstrekkelig øving.
+
+Når det er hensiktsmessig kan kurs i ulykkesberedskap gjennomføres i trinn 2 eller trinn 3.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 24. Klasse DE
+
+### § 24-1. Hovedmål for klasse DE
+
+Etter å ha gjennomført opplæringen for klasse DE skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog forsvarlig og for å kunne ivareta de oppgaver som er bussførerens ansvar.
+
+Eleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre på en måte som:er trafikksikkergir god samhandlingfører til god trafikkavviklinger mest mulig behagelig, økonomisk og ressursvennliggjør at kjøretøy og veg ikke utsettes for unødig slitasjetar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.
+
+Eleven skal kunne:utføre kontroll og tilsyn med kjøretøyet som er en førers ansvarha omtanke for passasjerenesikre lasten forsvarligfatte riktige beslutninger om kjøring under vanskelige kjøreforholdvære en ressursperson i krisesituasjoner på vegen.
+
+### § 24-2. Trinn 1 – klasse DE
+
+Trinn 1 er dekket gjennom opplæringen for erverv av førerett i klasse D.
+
+### § 24-3. Trinn 2: Grunnleggende kjøre- og kjøretøykompetanse – klasse DE
+
+Etter å ha gjennomført trinn 2 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av trafikal opplæring i trinn 3.
+
+Eleven skal ha så god kjøreteknisk ferdighet at oppmerksomheten kan flyttes fra eget kjøretøy til trafikkbildet og samhandlingen med andre trafikanter.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet i å bruke, og oppdage mangler ved, vogntoget.
+
+Eleven skalbeskrive hvordan ulike tilhengere for buss er bygd oppbeskrive ulike tilhengerkoplinger, betjene disse og forklare og utføre nødvendig kontroll og vedlikeholdkontrollere kraftforbindelsen mellom buss og tilhengerbeskrive grunnleggende oppbygging av bremser på aktuelle tilhengere, forklare kontrollpunkter og alarmfunksjoner og kunne utføre nødvendig ettersyn og kontrollgjengi krav til lysutstyr og refleks på tilhenger, beskrive vanlige feil og kontrollere utstyretavgjøre hva som er nødvendig daglig ettersyn og vurdere hva som må utbedres før kjøring finner stedkople til og fra ulike slag tilhengerekjøre vogntog rett fram og i sving med observasjon, tegngiving og plassering som gir god kommunikasjon og tilstrekkelig sikkerhetsmarginforklare hvordan føreren må opptre for å redusere områdene rundt kjøretøyet hvor andre trafikanter kan være skjult og tilpasse atferden etter detteforklare risiko for tap av veggrep og velt ved kjøring i sving med ulike slag tilhengere, og tilpasse observasjon, fart og plassering i tråd med detteforklare riktig kjøring i utforbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorbremsekraft og økonomiforklare riktig kjøring i motbakker og tilpasse kjøringen etter sikt, føre, last, bremsinnretninger, girsystem, motorkraft og økonomiforklare og utføre forsvarlig rygging mot angitte mål med minst mulig påkjenning på kjøretøyene, vurdere bruk av medhjelper og forklare hvordan denne skal instrueres.
+
+Eleven skal mot slutten av trinn 2 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5).
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 24-4. Trinn 3: Trafikal opplæring – klasse DE
+
+Etter å ha gjennomført trinn 3 skal eleven ha den kompetansen som er nødvendig for å ha godt utbytte av den avsluttende opplæringen i trinn 4.
+
+Eleven skal ha kunnskap om aktuelle bestemmelser i vegtrafikklovgivningen og kjøre tydelig, sikkert og selvstendig i variert trafikk.
+
+Eleven skal gjennom hele trinnet drøfte sin egen motivasjon og vilje til å anvende kunnskaper og ferdigheter som tilegnes gjennom trinnet. Eleven skal vurdere sin egen ferdighet til å kjøre i god samhandling med andre.
+
+Eleven skalbeskrive hvordan en kan beregne tillatt totalvekt og nyttelast for buss, tilhenger og vogntoget ved hjelp av vognkort, veglister og andre aktuelle hjelpemidlerforstå hvordan last må være plassert og sikret med tanke på sikkerhet og best mulig utnyttelse av kjøretøy og last, vurdere riktig bruk av sikringsutstyr og uttrykke egne meninger om samfunnets holdninger og bransjens kultur når det gjelder bruk av sikringsutstyrforstå hvordan en kan planlegge kjøringen i forhold til vilkår for bruk, forventete veg- og føreforhold og forklare miljømessige konsekvenser ut fra valg av kjørerute og kjøremåtemestre å oppfatte trafikkbildet fullstendig ved å ha god observasjonsteknikk, ha kontroll over kjøretøyets blindsoner, kunne forutsi risikofulle situasjoner og handle på en måte som bidrar til sikkerhetmestre tilhengerens innvirkning på kjøringenmestre å kjøre presist og behagelig, sikkert, økonomisk og miljøvennlig, herunder ved kjøring i mot- og utforbakke og på smal svingete vegmestre samhandling med andre trafikanter, bidra til god trafikkflyt og ha evne til å tilpasse seg andre trafikanters behov.
+
+Eleven skal mot slutten av trinn 3 gjennomføre trinnvurdering i samsvar med [§ 7-5](forskrift/2004-10-01-1339/§7-5). Eleven kan velge hvilken vogntogtype som skal brukes ved trinnvurderingen.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 24-5. Trinn 4: Avsluttende opplæring – klasse DE
+
+Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kunne kjøre vogntog i samsvar med hovedmålet.
+
+Eleven skal ha utviklet vilje til å ta ansvar, til å ta forholdsregler og til å samarbeide i trafikken.
+
+Eleven skal gjennomføre kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T, jf. [§ 27-1](forskrift/2004-10-01-1339/§27-1) og i tillegg ha tilstrekkelig øving.
+
+Kurs i sikring av last kan også gjennomføres i trinn 2 eller 3 når grunnleggende opplæring i lastsikring som beskrevet i trinn 3 er gjennomført.
+
+> Endret ved forskrift [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+## Kapittel 25. Kurs i ulykkesberedskap – klassene C1, C, D1 og D
+
+### § 25-1. Generelt
+
+Kurs i ulykkesberedskap er på 9 undervisningstimer, og skal dekke temaene skadestedsledelse, livreddende førstehjelp, opptreden ved brann og røykutvikling, og psykisk krisehjelp.
+
+Kurset kan gjennomføres med inntil 16 elever.
+
+Personer som har, eller har hatt, en førerett i en tung klasse som egen førerkortklasse på førerkortet, er fritatt fra kurset.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 25-2. Kursmål for kurs i ulykkesberedskap
+
+Kurset skal bidra til at eleven kan være en ressursperson når en trafikkulykke eller krisesituasjon oppstår, og til at eleven med sin opptreden kan bidra til å redusere skadeomfanget ved trafikkulykker og eventuell brann på et skadested.
+
+Eleven skalgjennom demonstrasjoner og praktiske øvelser lærehvilke oppgaver som må gjøres ved et skadested før fagpersonell ankommerå varsle medisinsk nødtelefon, og kjenne til dens funksjonerå sikre et skadestedgjennom demonstrasjoner og praktiske øvelser lære åforeta en rask og overfladisk vurdering av en skadet eller akutt syk person ved å se på, snakke med og ta på pasientensikre frie luftveier hos både liggende og sittende pasienterstanse ytre blødningerstabilisere hode og nakke ved mistanker om skader i nakke og ryggutføre hjerte-lungeredningutføre tiltak som forebygger indre blødninger, sirkulasjonssvikt og nedkjølingkjenne tilhvordan kjøretøy som har farlig gods i lasten er merketaktuelle tiltak på et skadested hvor et kjøretøy som er merket etter ADR- forskriften er involvertgenerelle problemer ved røykutvikling og opptreden i røykfylte områderbrann- og røykutvikling i tunneler, herunder evakueringsløsningerbrann- og røykutvikling i kjøretøy, herunder evakueringsteknikkbrannslukkingsapparater (plassering i kjøretøy, klargjøring, bruk og tømmetid)andre slukkemidlerbrannårsaker og brannutviklinghvordan branntilløp kan oppdages tidligsteder og områder i kjøretøy hvor det erfaringsmessig kan oppstå et branntilløpdelta i praktiske øvelser under veiledning og kunneklargjøre brannslukningsapparater til brukslukke brann med pulverapparat og teppebruke et egnet slokkemiddel på brann i kjøretøy og andre steder i forbindelse med en ulykke eller krisesituasjonha kunnskap omtypiske kritiske situasjoner og ulykker i trafikkenvanlige psykiske reaksjoner som kan forekomme hos de berørtehvordan kriserammede kan hjelpes: forskjellige metoder og modeller for hjelp, herunder selvhjelp og kollegastøtteordningerhvorfor krisehåndtering er viktig.
+
+## Kapittel 26. Sikkerhetskurs på veg – tunge klasser
+
+### § 26-1. Generelt
+
+På sikkerhetskurs på veg skal eleven beherske kjøring over tid under ulike forhold.
+
+I klassene C1, C1E, D1 og D1E er kurset på 4 timer. 1 time brukes til innledning og klargjøring, etterarbeid og evaluering. 3 timer skal være sammenhengende egenkjøring.
+
+I klassene C og D er kurset på 6 undervisningstimer. 1 time brukes til innledning og klargjøring. 4 timer skal være sammenhengende egenkjøring. Kursene avsluttes med 1 time til etterarbeid og evaluering hvor eleven skal vurdere egen kjøreatferd.
+
+I klasse CE er kurset på 10 undervisningstimer. 1 time brukes til innledning og klargjøring. 4 timer skal være sammenhengende kjøring med lastebil med slepvogn og 4 timer skal være sammenhengende kjøring med lastebil med semitrailer. All kjøring skal skje på samme dag. Kurset avsluttes med 1 time til etterarbeid og evaluering hvor eleven skal vurdere egen kjøreatferd.
+
+Læreren skal i alle kursene gi en vurdering av elevens kjørekompetanse.
+
+Kjøretøyet skal tilfredsstille kravene til størrelse og last ved førerprøven, jf. [kapittel 30](forskrift/2004-10-01-1339/kap30).
+
+### § 26-2. Krav om sikkerhetskurs på veg ved utvidelse av førerett
+
+Ved utvidelse fra klasse C1 eller D1 til klasse C og D, blir kurset i den høyere klassen redusert med 2 timer.
+
+Ved utvidelse av førerett fra klasse C1 til D1, eller omvendt, behøver en ikke å ta kurset.
+
+Ved utvidelse av førerett fra klasse C1E til D1E, eller omvendt, behøver en ikke å ta kurset.
+
+Ved utvidelse av førerett fra klasse C til D1 eller D, behøver en ikke å ta kurset.
+
+Ved utvidelse av førerett fra klasse D til C1 eller C, behøver en ikke å ta kurset.
+
+Det som er bestemt i første til femte ledd, gjelder tilsvarende når opplæring i aktuell klasse er gjennomført, selv om vedkommende ikke har ervervet førerett i klassen.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 26-3. Kursmål for sikkerhetskurs på veg – tunge klasser
+
+Eleven skal gjennom opplevelse og erfaring videreutvikle sin kompetanse til å opptre slik at ulykker unngås.
+
+Eleven skal videreutvikle evne til refleksjon, til å ta andres perspektiv og til å velge kjøremåter med lav risiko.
+
+Eleven skal kunne foreta de kjøreforberedelser som er førerens ansvar og kjøre forsvarlig i lengre sammenhengende tid.
+
+Eleven skalplanlegge en lengre sammenhengende kjøretur ved åbli klar over og anvende hjelpemidler som er vanlig å bruke for vedkommende kjøretøygruppevidereutvikle forståelse for hvordan hjernen bearbeider informasjon, og hvordan hjernens funksjoner påvirkes av emosjoner, personlighet, stress, søvn, ernæring og generell helse, samt hvordan kultur i bransjen, og blant kolleger, påvirker atferd og oppførsel og drøfte hvordan dette kan tas hensyn til før og under kjøring, for at kjøringen skal bli mest mulig sikkerutvikle forståelse for at kjøringen er en del av et sosialt samspill hvor det stilles spesielle krav til tungbilførerens vurdering av trafikksituasjoneneutvikle forståelse for at føreren ved feilhandling, og utilstrekkelig sikring av last og passasjerer, kan forårsake alvorlige ulykker, og at konsekvensene etter en tungbilulykke ofte blir dramatiskegjennomføre kjøreturen ogkontrollere kjøretøy, dekk, bremser og nav med tanke på eventuell varmgang, sikkerhetsutstyr, lastsikring og plassering av bagasje før, under, og etter kjøringvidereutvikle sin evne til å oppfatte trafikkbildet fullstendig og iverksette nødvendige handlinger ved å vurdere vegens videre forløp og planlegge møtesituasjoner, vurdere trafikken bak og eventuelt finne steder hvor andre kan slippes forbi, og kjøre riktig til og fra stoppestedvidereutvikle sin evne til å oppfatte risiko ved å vurdere mulighet for forbikjøring kontinuerlig, tilpasse kjøringen ut fra at møtende som foretar forbikjøring kan feilvurdere, ta spesielle hensyn ved kjøring på smal og svingete veg, og under vanskelige kjøreforhold, ivareta informasjonsbehovet ved vending og rygging, vurdere eventuelle tiltak med bakgrunn i føreforholdene, ha nødvendig sikkerhetsmargin på begge sider slik at oppmerksomheten hovedsakelig kan rettes mot trafikale forhold, ta hensyn til møtende trafikk, hindringer, vegbredde, vegoppmerking m.m., vurdere om andre kan misforstå hvordan videre kjøring er planlagt, holde riktig avstand til andre trafikanter, foreta riktig sporvalg og begrunne sine handlingsvalg og -tendenservidereutvikle sin evne til å kjøre på en måte som gir god trafikkavvikling og lav risiko, god driftsøkonomi og minst mulig miljøbelastningreflektere over sine erfaringer og opplevelser ved ådrøfte disse med sine medelever og lærerebeskrive og begrunne egne valg og kjøremåtervurdere egne sterke og svake sider som tungbilfører og velge ut områder med utviklingsmuligheterlytte til og forstå lærerens vurdering av elevens kjørekompetanse.
+
+> Endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 27. Kurs i sikring av last
+
+### § 27-1. Kurs i sikring og merking av last – klassene B kode 96, BE, D1E, DE og T
+
+Kurset er på 2 undervisningstimer, hvorav 1 time skal være praktisk øving i merking og sikring av last på tilhenger. Kurset kan gjennomføres med inntil 16 elever. Inntil 4 elever kan øve sammen på å plassere, sikre og merke last.
+
+Personer som tidligere har gjennomført kurs i sikring av last er fritatt fra kurset jf. [§ 27-1](forskrift/2004-10-01-1339/§27-1) eller [§ 27-2](forskrift/2004-10-01-1339/§27-2). Personer som ikke har gjennomført kurset, men som har eller har hatt førerett i klassene C1 eller C som egen førerkortklasse på førerkortet, er fritatt fra kurset ved erverv av førerett i klassene BE, D1E, DE og T.
+
+Eleven skal forstå behovet for å sikre og merke last, og få nødvendig øving i å sikre last på tilhenger.
+
+Eleven skalvite at mangelfull sikring har årsak i menneskelig svikt, kan forårsake tragedier og få store konsekvenserkjenne til regelverket som gjelder for sikring av last på kjøretøy og for transport av farlig gods når føreren ikke har særskilt kompetansebevisgjennom demonstrasjon oppleve kreftene som virker inn på lasten under kjøring, friksjonens betydning og bli kjent med ulike metoder for sikring av last som låsing, stenging, surring, og dekkinggjøre rede for spesielle faremoment ved last som er feil plassert, last med høyt tyngdepunkt, hengende last, flytende last, levende dyr og persontransportøve på åplassere, sikre og merke lang last tilsvarende en tømmerstokkplassere og sikre ett kolli med minstemål 1 x 1 x 1 meter eller 0,8 x 1,2 x 1 meterplassere og sikre annen last som rundballe eller storsekk, vekt minst 350 kgforstå behovet for vedlikehold og avgjøre om lastsikringsutstyret er i forsvarlig stand.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 27-2. Kurs i sikring av last – klassene C1 og C
+
+Kurset er på 9 undervisningstimer, og kan gjennomføres med inntil 12 elever.
+
+Personer som har, eller har hatt, førerett i klasse C1 som egen førerkortklasse på førerkortet, er fritatt fra kurset.
+
+Eleven skal forstå at last må sikres forsvarlig. Eleven skal ha den kunnskap og de ferdigheter som er nødvendig for å sikre lasten slik at ulykker unngås.
+
+Eleven skalha kunnskap omhovedkravene som stilles til sikring av last og til sikringsutstyretat det er spesielle krav til sikring når to eller flere ulike transportmidler benyttes i samme transportkjedeat det kan være nødvendig å innhente ytterligere informasjon når spesiell last skal sikresgjennom demonstrasjoner og praktisk arbeid erfareat last som er feil eller dårlig sikret kan falle avde krefter som virker inn på lasten forover, bakover og sidelengs under kjøringhvordan vanlig gods beveger seg ved hastighetsøkning og ved bremsinghvordan gods som kan rulle beveger seg ved hastighetsøkning og ved bremsingat friksjonen innvirker på godsets bevegelse ved oppbremsingom ulik vekt innvirker på godsets bevegelseom stor vekt (1000 kg) hindrer godset i å bevege segat bruk av feil sikringsutstyr kan føre til at gods forskyver seg eller faller avkonsekvenser av feilvurdering vedrørende utstyrets kvalitetkunne beregne og velge riktig sikringsutstyr ved åplanlegge sikring av ulike typer godskunne vurdere metoder for sikring av last som stempling, surring, låsing og dekkingkunne utføre forsvarlig sikring av ulike typer last ved åsikre forskjellige godsslag, herunder gods som kan rulle, gods som er stablet og last med høy egenvektforeta overfallssurring, grimesurring, loopsurring, direkte surring/kryssurring, låsing, stenging og dekkingfå demonstrert om utført sikring er forsvarlig ved atkjøretøyet bremses og svingeslasten tippes til aktuell vinkelsikringsutstyret kontrolleres etter testingkunnevedlikeholde og avgjøre om lastsikringsutstyret er i tilstrekkelig god standbruke nødvendig verneutstyr som arbeidstøy, hansker og vernesko.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
+
+## Kapittel 28. Sikkerhetskurs på bane – klassene C, CE og D
+
+### § 28-1. Sikkerhetskurs på bane – klassene C, CE og D
+
+Sikkerhetskurs på bane for klassene C og D er på 9 undervisningstimer, hvorav hver elev skal ha 6 timer praktisk øving på banen. Det kan være inntil to elever i hver bil forutsatt at disse deler tiden likt. Inn under praktisk øving går også praktiske demonstrasjoner og fordeling av kjøretøy. Kurset kan gjennomføres med inntil 18 elever. Personer som har, eller har hatt, førerett i klassene C eller D som egen førerkortklasse på førerkortet, er fritatt fra kurset.
+
+Sikkerhetskurs på bane for klasse CE er på 9 undervisningstimer, hvorav hver elev skal ha 6 timer praktisk øving på banen. Det kan være inntil to elever i hver bil forutsatt at disse deler tiden likt. Inn under praktisk øving går også praktiske demonstrasjoner og fordeling av kjøretøy. Kurset kan gjennomføres med inntil 16 elever
+
+Er det åtte eller færre elever på kurset er det tilstrekkelig med én trafikklærer. Det skal være minst to trafikklærere dersom det er mellom ni og 16 elever på kurset. Ved 17 og 18 elever på kurset skal det være tre trafikklærere. Trafikklærer skal oppfylle kravene som følger av [trafikklærerforskriften § 14](forskrift/2024-10-15-2556/§14). Eleven skal så langt det er mulig følges opp av samme trafikklærer gjennom hele kurset.
+
+Sikkerhetskurs på bane må være gjennomført før eleven går opp til førerprøven, eller senest et år etter at førerkortet ble utstedt.
+
+Kurset skal gjennomføres på bane som er godkjent av Statens vegvesen, jf. [§ 5-4](forskrift/2004-10-01-1339/§5-4).
+
+En trafikklærer kan undervise inntil 9 timer på banen per dag.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 28-2. Kursmål for sikkerhetskurs på bane – klassene C og D
+
+Kurset skal bidra til at eleven kan fatte riktige beslutninger om kjøring under vanskelige føreforhold.
+
+Eleven skalkjenne tilhovedmålet for kursetsikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på vegrisikoen ved ikke å bruke bilbeltegjennom demonstrasjoner og praktiske øvelser erfarehvordan trafikanter kan være skjult i området rundt et stort kjøretøyat førerens sittestilling har stor betydningen for omfanget av blindsonen foran kjøretøyetbremse- og stopplengde for personbil, buss og lastebilhvordan kjøretøyets tyngde og veggrep virker inn på bremselengdenhvordan føreren kan påvirke styre- og bremseresultatat styre- og bremseresultatet endres ved endret fartat forskjellig last, dekkutrusning og ulike typer utstyr virker inn på styre- og bremseresultatat feilvurdering av bakkens fall og veggrep virker inn på styre- og bremseresultaterfarehvilken betydning lastens plassering har for kjøretøyets egenskaperulike bremsemetoder og konsekvenser av feilhandlingfordeler og ulemper med ulike bremsesystemerkonsekvenser av overbremset og underbremset akselvirkning av drivhjulsbremsernytten av forholdsregler ved bruk av vegskulder under kjøringeget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lasteterfare spesielle risikomomenter ved kjøring medbuss med midtmotor kontra hekkmotorautomatgiret bussautomatgiret buss med hjelpebremsvære med å drøfteegne holdninger og kjørevanerulykkerisiko, skadeomfang, samt konsekvenser av typiske tungbilulykkerhva feilhandlinger utført på banen eventuelt ville forårsaket ved kjøring i trafikkat trafikkulykker nesten uten unntak skyldes menneskelige feilhandlingerat føreren plikter å tilpasse farten etter ulike føreforholdat en tungbilførers feilhandling ofte har alvorlige konsekvensermed bakgrunn i erfaringene på banenvurdere sin egen kjørekompetanseforeslå kjøreatferd som kan redusere risikoen for ulykkertrekke selvstendige konklusjoner med hensyn til sikker avstand til den som kjører foranforstå at en tungbilfører under visse føreforhold ikke skal kjøre i det hele tatt.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
+
+### § 28-3. Kursmål for sikkerhetskurs på bane klasse CE
+
+Kurset skal bidra til at eleven kan fatte riktige beslutninger om kjøring med vogntog under vanskelige føreforhold.
+
+Eleven skalkjenne tilhovedmålet for kursetsikkerhetsrutinene som gjelder på banen, og hvordan bruk av sikkerhetsrutiner også utenfor banen, kan forhindre tungbilulykker på vegerfare atulike vogntogkombinasjoner som kjøres med samme hastighet får ulik stopplengdeulike bremsemetoder virker inn på stopplengde og retningsstabilitetveggrep og vogntogets tyngde virker inn på bremselengde og retningsstabilitetførerens handlinger kan virke inn på vogntogets retningsstabilitetstopplengde og retningsstabilitet endres ved endret fartlast og dekkutrustning virker inn på styre- og bremseresultatetulike typer tilhengere har ulik retningsstabilitetkjøring utenfor asfaltkant kan føre til at tilhenger får slengfeilvurdering av bakkens fall og veggrep kan fører til saksing og utforkjøringfeilvurdering av bakkens stigning, valg av kjøremåte og utstyr fører til økt risiko for ulykkereget valg av kjøremåte med forskjellige typer kjøretøy som er ulikt utstyrt og lastet kan bidra til økt sikkerhetmed bakgrunn i erfaringene på banenpåpeke konsekvenser hvis tilsvarende hadde skjedd i trafikkenvurdere sin egen kjørekompetanseforeslå kjøreatferd som kan redusere risikoen for ulykkerforstå at vogntogfører under visse føreforhold ikke skal kjøre i det hele tatt.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009).
+
+## Kapittel 29. Generelt om førerprøven
+
+### § 29-1. Alminnelige regler om førerprøven
+
+Statens vegvesen kan fastsette retningslinjer for innhold og vurdering av førerprøven. Statens vegvesen fastsetter de steder hvor førerprøven kan gjennomføres.
+
+Som hovedregel avlegges en teoretisk og en praktisk prøve for hver førerkortklasse. Den teoretiske prøven skal være bestått før praktisk prøve kan bestilles og avlegges.
+
+Dersom den teoretiske eller den praktiske prøven ikke bestås, kan ny prøve ikke avlegges før det har gått henholdsvis to eller fire uker. For klassene C, CE, D og DE er karantenetiden en uke for både teoretisk og praktisk prøve.
+
+For kandidater som ikke forstår norsk kan kommunikasjonen mellom kandidaten og sensoren foregå på et språk som partene behersker godt nok. Dersom språkproblemene er store, kan det benyttes godkjent tolk ved prøven. Eventuelle utgifter til tolk, utover hva som dekkes av den offentlige tolketjeneste, må kandidaten selv dekke. Tolken skal være godkjent av Statens vegvesen. Godkjenning som tolk kan tilbakekalles av Statens vegvesen blant annet dersom det avdekkes at vedkommende ikke innehar tilstrekkelig tolkefaglige kvalifikasjoner eller har bidratt til juks ved førerprøven. Kandidater som skal avlegge førerprøve for førerett i klassene C1, C1E, C, CE, D1, D1E, D eller DE, eller for annen kompetanse i yrkesmessig trafikk, må likevel gjennomføre prøven på norsk.
+
+Statens vegvesen utarbeider teoretiske prøver.
+
+Dersom praktisk prøve ikke er bestått innen tre år etter at teoretisk prøve er bestått, må kandidaten avlegge ny teoriprøve.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [14 juni 2019 nr. 736](forskrift/2019-06-14-736) (i kraft 19 juni 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [20 juni 2024 nr. 1110](forskrift/2024-06-20-1110) (i kraft 1 nov 2024).
+
+### § 29-2. Vilkår for å avlegge førerprøven
+
+Praktisk prøve kan avlegges når kandidaten tilfredsstiller kravene til alder, vandel, obligatorisk opplæring, helse og syn som er fastsatt for den aktuelle førerkortklassen jf. [førerkortforskriften kapittel 3](forskrift/2004-01-19-298/kap3), [5](forskrift/2004-01-19-298/kap5) og [12](forskrift/2004-01-19-298/kap12). I klassene AM og S kan teoretisk førerprøve avlegges når kravene er tilfredsstilt.
+
+Før førerprøven kan avlegges skal kandidaten fremvise akseptabel legitimasjon.
+
+Ved førerprøve i førerkortklasser der det ikke kreves helseattest, skal kandidatens syn testes ved at kjennemerke må kunne leses på 20 meters avstand. Dette kreves ikke når det er et krav om at kandidaten fremlegger gyldig synsattest eller utfylt synsdel fra helseattest for førerett. Dokumentasjonen må ikke være eldre enn 3 måneder, jf. [førerkortforskriften vedlegg 1 § 4](forskrift/2004-01-19-298/§4).
+
+Obligatorisk opplæring dokumenteres ved innmelding i Trafikkskole-, sensor- og kursarrangørregisteret (TSK-registeret), og i tråd med kravene i [§ 7-6](forskrift/2004-10-01-1339/§7-6).
+
+Opplæring om kjøring i mørket må gjennomføres før praktisk førerprøve (teoretisk prøve i klassene AM og S) når prøven avlegges i perioden fra 1. november til og med 15. mars. Avlegges førerprøven i perioden fra 16. mars til og med 31. oktober, må opplæring om kjøring i mørket dokumenteres fullført overfor Statens vegvesen innen 31. januar påfølgende år, jf. [førerkortforskriften § 4-4](forskrift/2004-01-19-298/§4-4).
+
+Dersom dokumentasjon for gjennomført opplæring om kjøring i mørket ikke er fremlagt tidligere, må denne fremlegges før praktisk prøve ved utvidelse til klassene BE, C1, C1E, C, CE, D1, D1E, D og DE dersom praktisk prøve avlegges i perioden fra og med 1. november til og med 15. mars, jf. [førerkortforskriften](forskrift/2004-01-19-298).
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [7 mars 2017 nr. 288](forskrift/2017-03-07-288), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+
+### § 29-3. Søknad om førerkort, utstedelse og utvidelse
+
+Ytterligere bestemmelser om søknad om førerkort, utstedelse og utvidelse følger av [førerkortforskriften kapittel 5](forskrift/2004-01-19-298/kap5).
+
+> Endret ved forskrift [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 29-4. Bestilling av time for førerprøven
+
+Time for teoretisk og praktisk prøve bestilles hos Statens vegvesen.
+
+Dersom kandidaten har behov for spesiell tilrettelegging av førerprøven, skal Statens vegvesen vurdere behovet i hvert enkelt tilfelle. Det må meldes fra skriftlig om behov for slik tilrettelegging ved timebestilling.
+
+> Endret ved forskrift [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 29-5. Teoretisk prøve
+
+Den teoretiske prøven kan avlegges inntil seks måneder før fastsatt minstealder for førerkortklassen. Teoretisk prøve for klassene AM og S kan likevel ikke avlegges før fylte 16 år, jf. [§ 29-2](forskrift/2004-10-01-1339/§29-2) første ledd. Lærling i kran- og løfteoperasjonsfaget, som har inngått lærekontrakt med lærebedrift som er godkjent etter opplæringslova og bestått førerprøve i klasse B, kan avlegge teoretisk førerprøve i klasse C fra fylte 18 år.
+
+Dersom 85 % av oppgavene til den teoretiske prøven er riktig besvart, skal prøven vurderes som bestått.
+
+Den teoretiske prøven skal som regel være skriftlig. Hvis kandidaten ikke behersker skriftlig norsk i tilstrekkelig grad til å kunne besvare spørsmålene, har lese- og skrivevansker eller tilsvarende, kan Statens vegvesen etter dokumentert søknad gi tillatelse til at tilsvarende tilrettelagt prøve avlegges. Om nødvendig kan prøven gjennomføres med tolk.
+
+Kandidaten kan bare bruke hjelpemidler godkjent av Statens vegvesen.
+
+Kandidaten skal la seg avbilde før kandidaten avlegger teoretisk prøve. Dette gjelder ikke for kandidater som allerede ligger inne i systemet med et akseptabelt bilde. Statens vegvesen kan kreve nytt bilde av kandidaten dersom det er nødvendig for å sikre tilstrekkelig identifikasjon.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 1 juli 2013), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+
+### § 29-6. Praktisk prøve
+
+Den praktiske prøven begynner med sensors klargjøring før prøven og avsluttes med tilbakemelding om resultatet av prøven. Andre oppgaver som må inngå i prøven følger av bestemmelsene om førerprøven i den enkelte klassen, jf. [kapittel 30](forskrift/2004-10-01-1339/kap30).
+
+Prøvestrekningen skal legges slik at kandidaten får mulighet til å vise sine ferdigheter under vekslende veg- og trafikkforhold og i regelen etter et standardisert ruteopplegg.
+
+Den praktiske prøven vurderes i størst mulig grad som en helhet. Sensor skal vurdere om kandidaten i tilstrekkelig grad har nådd de målene som er fastsatt for opplæring i den aktuelle klassen.
+
+Prøven kan avbrytes og vurderes som ikke bestått hvis det oppstår en situasjon hvor sensor eller andre trafikanter må gripe inn for å unngå skade eller fare, og kandidaten selv skulle ha avverget situasjonen. Prøven kan også avbrytes ved kjøring i strid med lyssignal, skilt eller vegoppmerking som beskriver en absolutt handling, eller når adferden medfører at det kan oppstå vesentlige ulemper eller fare i trafikken.
+
+Inntrer driftsstopp, illebefinnende eller andre forhold som gjør det vanskelig å gjennomføre førerprøven, kan prøven avbrytes og vurderingen utstå til ny prøve kan gjennomføres.
+
+Kjøretøy til førerprøven, unntatt tilhenger, skal være godkjent av Statens vegvesen. Kandidaten skal selv stille godkjent kjøretøy til rådighet ved prøven. Godkjenning som kjøretøy til førerprøven skal føres i vognkortet.
+
+Under prøven skal sensor så vidt mulig ha plass ved siden av kandidaten.
+
+Hvis kandidaten ønsker det, og forholdene ellers ligger til rette for det, kan trafikklæreren være med i kjøretøyet under prøven.
+
+I spesielle tilfeller kan det være mer enn en sensor eller annet tilsynspersonell til stede i kjøretøyet under prøven.
+
+For å få godkjent kjøretøy som førerprøvevogn klasse B må det dokumenteres at opplæringsinstitusjon som angitt i [§ 4-1](forskrift/2004-10-01-1339/§4-1) har disposisjonsrett over kjøretøyet, enten ved at opplæringsinstitusjonen står oppført i vognkortet som eier, eller ved at kopi av leie- eller leasingavtale fremlegges. Det skal fremgå av avtalen hvem som er dens parter og hvilke kjøretøy som omfattes, enten i form av registreringsnummer eller understellsnummer. Disposisjonsretten føres inn i lærevognens vognkort.
+
+Er godkjent førerprøvevogn klasse B ute av drift, for eksempel som følge av reparasjon eller vedlikehold, kan opplæringsinstitusjon som angitt i [§ 4-1](forskrift/2004-10-01-1339/§4-1) midlertidig sette inn et annet kjøretøy. Dette kjøretøyet må være godkjent med dobbelt pedalsett og også oppfylle de øvrige kravene i [§ 30-2](forskrift/2004-10-01-1339/§30-2). Dokumentasjon på at opplæringsinstitusjonen har disposisjonsrett over kjøretøyet slik som angitt [§ 29-6](forskrift/2004-10-01-1339/§29-6) tiende ledd må da alltid medbringes, og opplæringsinstitusjonen må skriftlig melde fra til Statens vegvesen før slik bruk.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2017 nr. 2314](forskrift/2017-12-20-2314) (i kraft 1 jan 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 29-7. Resultat av prøven
+
+Kandidaten skal gis beskjed om resultatet av prøven umiddelbart etter at den er avsluttet.
+
+Dersom en teoretisk prøve vurderes til ikke bestått, skal kandidaten etter ønske få tilbakemelding der det framgår hvilke tema som er besvart galt.
+
+Dersom en praktisk prøve vurderes til ikke bestått, skal kandidaten gis en skriftlig begrunnelse for vedtaket.
+
+### § 29-8. Førerprøve med automatgiret kjøretøy og utvidelse til ordinær førerett
+
+Den praktiske prøven kan avlegges med automatgiret kjøretøy. Føreretten begrenses da til å gjelde slike kjøretøy.
+
+Føreretten i klasse BE, C1, C1E, C, CE, D1, D1E, D og DE begrenses allikevel ikke til automatgiret kjøretøy hvis kandidaten allerede har ervervet førerett i en eller flere av klassene B, BE, C1, C1E, C, CE, D1, D1E, D eller DE med manuelt giret kjøretøy ved praktisk prøve, og prøvekjøretøyet gir mulighet for å velge gir manuelt og kandidaten benytter denne muligheten når det er nødvendig for å gjøre kjøringen sikrere eller redusere drivstofforbruket ved fartsøkning, fartsreduksjon og kjøring i mot- eller utforbakke.
+
+Dersom kandidaten avlegger praktisk prøve med manuelt giret kjøretøy, blir føreretten ubegrenset også i andre klasser, jf. [førerkortforskriften § 6-1](forskrift/2004-01-19-298/§6-1) tredje ledd, med unntak av klasse A1, A2 og A.
+
+For klasse A1, A2 og A gjelder tilsvarende som i første ledd. Føreretten i klasse A2 og A begrenses allikevel ikke til automatgiret kjøretøy hvis kandidaten allerede har ervervet førerett i klasse A1, eventuelt klasse A2, med manuelt giret kjøretøy ved praktisk prøve.
+
+Ved utvidelse av førerett for automatgiret kjøretøy til ordinær førerett avlegges kun praktisk prøve. Til slik praktisk prøve settes det av tid etter bestemmelsene i [kapittel 30](forskrift/2004-10-01-1339/kap30). Avlegges prøven i klasse B settes det imidlertid av 45 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll og kjøring i trafikk skal alltid inngå i prøven. Prøvestrekningen skal legges slik at kandidaten får mulighet til å vise at vedkommende behersker å kjøre sikkert, effektivt, økonomisk og miljøvennlig med manuelt gir og som hovedregel etter et standardisert ruteopplegg, jf. [§ 29-6](forskrift/2004-10-01-1339/§29-6).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [8 mars 2011 nr. 258](forskrift/2011-03-08-258) (i kraft 19 jan 2013), [20 juni 2013 nr. 926](forskrift/2013-06-20-926) (i kraft 1 sep 2013), [6 nov 2015 nr. 1298](forskrift/2015-11-06-1298) (i kraft 31 des 2015), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [20 juni 2024 nr. 1110](forskrift/2024-06-20-1110) (i kraft 1 nov 2024), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 29-9. Ny prøve etter underkjenning
+
+Når karantenetiden etter [§ 29-1](forskrift/2004-10-01-1339/§29-1) tredje ledd er over kan kandidaten gå opp til ny prøve. Kandidaten må selv bestille ny prøve hos Statens vegvesen.
+
+Dersom kandidaten ønsker det og intet særlig er til hinder for det, kan ny praktisk prøve avholdes for en annen sensor enn den som vurderte den tidligere prøven. Dersom kandidaten har strøket to ganger, kan kandidaten kreve at neste prøve avlegges for to sensorer.
+
+> Endret ved forskrift [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 29-10. Førerprøve ved utvidelse av førerett og etter tapt førerett
+
+Praktisk prøve avlegges på kjøretøy av den gruppen som kreves for vedkommende førerkortklasse. Statens vegvesen kan likevel samtykke i at prøven avlegges på annet egnet kjøretøy.
+
+Førerett som er tapt kan alternativt gjenerverves gjennom avleggelse av førerprøve i en mer omfattende klasse, jf. [førerkortforskriften § 6-1 tredje ledd](forskrift/2004-01-19-298/§6-1/ledd/3). Det forutsetter at obligatorisk opplæring i den mer omfattende klassen er gjennomført og at vedkommende har hatt førerett i den opprinnelige klassen som egen førerkortklasse på førerkortet, eller har bestått førerprøven i den opprinnelige klassen.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), opphevet ved forskrift [14 juni 2019 nr. 736](forskrift/2019-06-14-736) (i kraft 19 juni 2019), tilføyd igjen ved forskrift [19 juni 2019 nr. 759](forskrift/2019-06-19-759), endret ved forskrift [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 29-11. Karantene for fusk eller forsøk på fusk ved førerprøven
+
+En kandidat som forsettlig eller grovt uaktsomt fusker eller forsøker å fuske til førerprøven, kan ilegges karantenetid fra tre til ni måneder. Dersom forholdet er av alvorlig karakter, kan det ilegges karantenetid fra ti måneder til ett år. Karantenetiden beregnes fra fusket ble avdekket.
+
+Opptreden og handlinger i strid med Statens vegvesens regelverk og retningslinjer for teoretisk og praktisk førerprøve er fusk. Som fusk regnes blant annet å benytte eller ha med ulovlige hjelpemidler under teoriprøve, for eksempel notater, mobiltelefon, kamera eller annet kommunikasjonsutstyr, samt samarbeid med andre. Som fusk regnes også lyd- og bildeopptak inne i bilen under praktisk prøve. Som fusk av alvorlig karakter regnes blant annet fusk med organisert preg, bruk av elektroniske hjelpemidler og at prøven avlegges av en annen enn kandidaten.
+
+Ved mistanke om fusk eller forsøk på fusk, ilegges midlertidig karantene til saken er ferdig behandlet.
+
+Kandidaten kan ikke avlegge teoretisk eller praktisk prøve i noen førerkortklasser under karantenetiden.
+
+Kandidaten kan øvingskjøre og gjennomføre trafikkopplæring i karantenetiden.
+
+> Tilføyd ved forskrift [19 des 2019 nr. 2001](forskrift/2019-12-19-2001) (i kraft 1 jan 2020), endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 30. Førerprøven for den enkelte klassen
+
+### § 30-1. Førerprøve klassene A1, A2 og A
+
+Førerprøven for motorsykkel består av en teoretisk og en praktisk prøve. Den praktiske prøven er delt i en ferdighetsprøve med sikkerhetskontroll og en trafikal prøve med kontroll før kjøring. Den teoretiske prøven for motorsykkel er lik, bestått teoretisk prøve gjelder for klassene A1, A2 og A. Ved utvidelse fra klasse A1 til A, A1 til A2 og A2 til A avlegges kun praktisk prøve.
+
+Den praktiske prøven til klasse A1 skal avlegges på lett motorsykkel uten sidevogn. Motorsykkelen skal ha slagvolum på minst 120 cm3, en effekt på høyst 11 kW, et forhold mellom effekt og egenvekt på høyst 0,1 kW/kg og konstruktiv hastighet på minst 90 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,08 kW/kg.
+
+Den praktiske prøven til klasse A2 avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha slagvolum på minst 250 cm3, en effekt på minst 20 kW og høyst 35 kW, et forhold mellom effekt og egenvekt på høyst 0,2 kW/kg og en konstruktiv hastighet på minst 100 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,15 kW/kg.
+
+Den praktiske prøven til klasse A avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha et slagvolum på minst 595 cm3, en egenvekt på mer enn 180 kg, en effekt på minst 50 kW og en konstruktiv hastighet på minst 100 km/t. Motorsykkel med elektrisk motor skal ha et forhold mellom effekt og egenvekt på minst 0,25 kW/kg.
+
+Kjøretøy til førerprøve for klasse A1, A2 og A skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for kopling og brems,speil på styrets høyre side hvor sensoren kan observere kandidaten,speil på venstre side for sensors sikt bakover,støttehåndtak for sensoren,kommunikasjonsutstyr for sensoren og kandidaten.
+
+Kandidaten skal under kjøring i tillegg til påbudt styrthjelm benytte gjennomsiktig visir eller briller, hansker, fottøy som dekker over ankelen og hensiktsmessige klær egnet for motorsykkelkjøring som dekker øvrige kroppsdeler. Hansker, fottøy og klær skal være av materiale som ikke smelter, brenner eller rives ved velt, og som har en beskyttende effekt ved slag og støt.
+
+Til den praktiske prøven skal det settes av 65 minutter hvor 20 minutter anvendes til ferdighetsprøve med sikkerhetskontroll og 45 minutter anvendes til trafikal prøve med kontroll før kjøring.
+
+Sikkerhetskontroll, kontroll før kjøring og ferdighetsprøve på avsperret område skal være gjennomført før kjøring i trafikk. Dersom ferdighetene ved prøving på avsperret område er slik at det synes farlig for sensor å gjennomføre kjøring i trafikk, skal prøven avbrytes og vurderes til ikke bestått.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [8 mars 2010 nr. 315](forskrift/2010-03-08-315) (i kraft 15 mars 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-2. Førerprøve klasse B
+
+Førerprøven for klasse B består av en teoretisk og en praktisk prøve.
+
+Den praktiske prøven avlegges med personbil med tillatt totalvekt på ikke over 3500 kg, bredde på minst 1,5 meter og minst fire sitteplasser. Kjøretøyet skal ha konstruktiv hastighet på minst 100 km/t. Hastighetsmåler skal være lesbar fra sensors plass.
+
+Kjøretøy til førerprøve for klasse B skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for kopling, brems og gass,ett ekstra innvendig speil eller en skjerm, og utvendige speil eller skjerm som gir sensoren tilstrekkelig utsyn bakover og på begge sider,ekstra speil som gir sensoren mulighet til å observere kandidaten oglys over pedalene på førersiden.
+
+Kjøretøy med annen drivlinje enn manuelt gir, skal ha pedalsett på ledsagersiden, som kopler ut kjøretøyets fremdrift.
+
+Til den praktiske prøven skal det settes av 75 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll og kjøring i trafikk skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025).
+
+### § 30-3. Førerprøve klasse BE
+
+Kandidat som skal avlegge førerprøve for klasse BE må ha bestått førerprøven for klasse B. Førerprøven for klasse BE består av en praktisk prøve.
+
+Den praktiske prøven avlegges med bil som definert i klasse B, og tilhenger. Kjøretøyet skal ha en tillatt totalvekt på ikke over 3500 kg, bredde minst 1,5 meter og minst fire sitteplasser. Kjøretøyet skal ha en konstruktiv hastighet på minst 100 km/t. Hastighetsmåler skal være lesbar fra sensors plass. Det skal være utvendige speil som gir sensoren tilstrekkelig utsyn bakover på begge sider og ekstra speil som gir sensoren mulighet til å observere kandidaten. Vogntoget må ha en samlet tillatt totalvekt på over 3500 kg og kunne oppnå en hastighet på minst 100 km/t. Tilhengeren skal være lukket og ha en tillatt totalvekt på minst 1500 kg. Den skal være minst like høy og bred som personbilen. Tilhengeren skal være lastet med flere kolli som til sammen veier minst 300 kg og er sikret med alminnelig sikringsutstyr. Aktuell totalvekt skal være minst 1200 kg.
+
+Tilhengerredskap kan ikke benyttes.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-4. Førerprøve klasse C1
+
+Kandidater som skal avlegge førerprøve for klasse C1 må ha bestått førerprøve for klasse B. Førerprøven for klasse C1 består av en teoretisk og en praktisk prøve.
+
+Den praktiske prøven skal avlegges med lastebil med konstruktiv hastighet på minst 80 km/t som har tillatt totalvekt mellom 6000 og 7500 kg og lengde på minst 5 meter. Kjøretøyet skal ha ABS-bremser, lukket lasterom som er minst like høyt og bredt som førerhuset og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
+
+Kjøretøy til førerprøve for klasse C1 skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+
+Kjøretøyet skal ha aktuell totalvekt på minst 6000 kg.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrift [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-5. Førerprøve klasse C1E
+
+Kandidater som skal avlegge førerprøve for klasse C1E må ha bestått førerprøven klasse C1. Førerprøven for klasse C1E består av en praktisk prøve.
+
+Den praktiske prøven skal avlegges med vogntog som består av lastebil som tilfredsstiller kravene til førerprøven for klasse C1 og tilhenger som har tillatt totalvekt minst 2000 kg. Tilhengeren skal være lukket og enten minst like høy og bred som førerhuset, eller mindre enn førerhuset forutsatt at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene. Vogntoget må kunne oppnå en hastighet på minst 80 km/t. Vogntoget skal ha en lengde på minst 8 meter og en samlet tillatt totalvekt som ikke overskrider 12000 kg. Tilhengeren skal ha aktuell totalvekt på minst 1800 kg.
+
+Tilhengerredskap kan ikke benyttes.
+
+Til den praktiske prøven skal det settes av 75 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-6. Førerprøve klasse C
+
+Kandidater som skal avlegge førerprøve for klasse C må ha bestått førerprøven for klasse B. Førerprøven for klasse C består av en teoretisk og en praktisk prøve. Bestått teoretisk prøve klasse C gjelder også for klasse C1.
+
+Den praktiske prøven skal avlegges med lastebil med konstruktiv hastighet på minst 80 km/t som har tillatt totalvekt på minst 19 000 kg, lengde på minst 8 meter, bredde på minst 2,4 meter og en akselavstand på minst 4 meter. Kjøretøyet skal ha ABS-bremser, girkasse som gir anledning til å velge gir manuelt, ha påbygg som minst er like høyt og bredt som førerhuset eller mindre forutsatt at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene, og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
+
+Kjøretøy til førerprøven for klasse C skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,ekstra speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+
+Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll. Kjøretøyet skal ha aktuell totalvekt på minst 18500 kg.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-7. Førerprøve klasse CE
+
+Kandidater som skal avlegge førerprøven for klasse CE må ha bestått førerprøven for klasse C. Likevel kan teoretisk prøve i klasse CE avlegges når kandidaten har bestått teoretisk prøve i klasse C. Førerprøven for klasse CE består av en teoretisk og en praktisk prøve.
+
+Den praktiske prøven skal avlegges med lastebil som tilfredsstiller kravene til førerprøve klasse C med tilhenger. Vogntoget skal ha en totallengde på minst 18 meter og tilhengeren skal være en slepvogn med tillatt totalvekt 20000 kg eller mer. Alternativt kan prøven avlegges med vogntog med totallengde på minst 15,5 meter hvor semitraileren har tillatt totalvekt 25000 kg eller mer. Både vogntog med slepvogn og semitrailer skal ha en bredde på minst 2,4 meter og kunne oppnå en hastighet på minst 80 km/t. Tilhengeren skal være minst 7,5 meter lang og være minst like høy og bred som lastebilen, eller mindre forutsatt at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene.
+
+Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll.
+
+Vogntoget skal ha samlet aktuell totalvekt på minst 38500 kg. Tilhengerens aktuelle totalvekt skal være minst 15000 kg.
+
+Tilhengerredskap kan ikke benyttes.
+
+Til den praktiske prøven skal det settes av 75 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-8. Førerprøve klasse D1
+
+Kandidater som skal avlegge førerprøve klasse D1 må ha bestått førerprøve for klasse B. Førerprøven for klasse D1 består av en teoretisk og en praktisk prøve.
+
+Den praktiske prøven klasse D1 skal avlegges med minibuss med en konstruktiv hastighet på minst 80 km/t. Minibussen må ha tillatt totalvekt på minst 4000 kg, være minst 5,2 meter lang og ha ABS-bremser. Kjøretøyet skal ikke ha flere enn 16 passasjerplasser. Kjøretøyet skal ha fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
+
+Kjøretøy til førerprøve for klasse D1 skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-9. Førerprøve klasse D1E
+
+Kandidater som skal avlegge førerprøven for klasse D1E må ha bestått førerprøven for klasse D1. Førerprøven for klasse D1E består av en praktisk prøve.
+
+Den praktiske prøven skal avlegges med minibuss som tilfredsstiller kravene til førerprøven for klasse D1 og tilhenger. Tilhengeren skal ha tillatt totalvekt på minst 1500 kg. Vogntoget må kunne oppnå en hastighet på minst 80 km/t. Tilhengeren skal være minst 2 meter høy og 2 meter bred og være lukket. Tilhengeren skal ha aktuell totalvekt på minst 1000 kg.
+
+Tilhengerredskap kan ikke benyttes.
+
+Til den praktiske prøven skal det settes av 75 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-10. Førerprøve klasse D
+
+Kandidater som skal avlegge førerprøve for klasse D må ha bestått førerprøven for klasse B. Førerprøven for klasse D består av en teoretisk og en praktisk prøve. Bestått teoretisk prøve klasse D gjelder også for klasse D1.
+
+Den praktiske prøven skal avlegges med buss. Kjøretøyet skal ha konstruktiv hastighet på minst 80 km/t, totallengde på minst 10 meter, bredde på minst 2,4 meter og akselavstand minst 5,5 meter. Kjøretøyet skal ha ABS-bremser og fartsskriver som fastsatt i [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid i EØS [§ 1](forskrift/2007-07-02-877/§1).
+
+Kjøretøy til førerprøve for klasse D skal ha følgende tilleggsutstyr:dobbelt sett betjeningsinnretning for fotbrems,speil som gir sensoren tilstrekkelig utsyn bakover på begge sider ogekstra speil som gir sensoren mulighet til å observere kandidaten.
+
+Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-11. Førerprøve klasse DE
+
+Kandidater som skal avlegge førerprøve for klasse DE må ha bestått førerprøven for klasse D. Førerprøven for klasse DE består av en praktisk prøve.
+
+Den praktiske prøven avlegges med buss som tilfredsstiller kravene til førerprøven klasse D og tilhenger med tillatt totalvekt på minst 2000 kg. Vogntoget må kunne oppnå en hastighet på minst 80 km/t. Tilhengeren skal være minst 2 meter høy og 2 meter bred og være lukket. Tilhengeren skal ha en aktuell totalvekt på minst 1800 kg.
+
+Kandidaten skal ha med utstyr som er nødvendig for å gjennomføre sikkerhetskontroll.
+
+Tilhengerredskap kan ikke benyttes.
+
+Til den praktiske prøven skal det settes av 75 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30-12. Førerprøve klasse AM
+
+Førerprøven for klasse AM 146 består av en teoretisk prøve.
+
+Førerprøven for klasse AM 147 består av en teoretisk prøve.
+
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013).
+
+### § 30-13. Førerprøve klasse S
+
+Førerprøven for klasse S består av en teoretisk prøve.
+
+> Endret ved forskrift [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006).
+
+### § 30-14. Førerprøve klasse T
+
+Førerprøven for klasse T består av en teoretisk og en praktisk prøve.
+
+Den praktiske prøven avlegges på 4-hjuls jord- og skogbrukstraktor med tilkoplet tilhenger. Traktor til førerprøven skal ha sentralt plassert førersete, større bakhjul enn forhjul og løftbar trekk-krok for tilhenger, være registrert for to personer, ha konstruktiv fart på mellom 38 og 50 km/t, ha koplingspedal og ha tillatt totalvekt på minst 7000 kg. Tilhengeren skal ha tillatt totalvekt på over 4000 kg, og så høye lemmer at det ikke er mulig å få utsyn bakover fra førerplassen uten å måtte bruke sidespeilene. Vogntoget må ha en lengde på minst 8 meter, og ha en samlet tillatt totalvekt på minst 12 000 kg. Tilhengeren skal være lastet med flere kolli som er sikret med alminnelig sikringsutstyr. Vekten av lasten må utgjøre minst 50 % av tillatt nyttelast inntil aktuell totalvekt er 7000 kg, likevel være minst 2000 kg. Aktuell totalvekt skal være minst 4000 kg.
+
+Kjøretøy til førerprøven klasse T skal ha følgende tilleggsutstyr:dobbelt sett pedaler for fotbrems,utvendige speil som gir sensor tilstrekkelig utsyn bakover på begge sider,ett ekstra innvendig speil som gir sensor tilstrekkelig kontroll med kandidaten,sikkerhetsbelter for kandidaten og sensoren ogkoplingspedal, frikoplingsspak eller liknende som gir sensor mulighet til å avbryte framdriften.
+
+Til den praktiske prøven skal det settes av 65 minutter.
+
+Kontroll før kjøring, til- og frakopling av tilhenger, sikkerhetskontroll, kjøring i trafikk og rygging skal alltid inngå i prøven.
+
+Kandidaten skal ha mulighet til å vise, på det aktuelle kjøretøyet som benyttes til førerprøven, at vedkommende kan bruke de ulike førerstøttesystemene som kan aktiveres og deaktiveres av fører. Kandidaten skal reagere riktig når førerstøttesystemene varsler eller griper inn i kjøringen. Sensor kan be kandidaten bruke eller kople ut bestemte systemer.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 30A. Kjørevurdering
+
+> Kapittelet tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-1. Alminnelige regler om kjørevurdering
+
+Statens vegvesen kan fastsette retningslinjer for innhold og gjennomføring av kjørevurdering, herunder også ny førerprøve etter pålegg fra politiet, kombinert prøve og kjøretøytilpasninger. Statens vegvesen fastsetter de steder kjørevurderingen kan gjennomføres.
+
+Dersom søker har eller har hatt flere førerkortklasser, skal kjørevurderingen, eller ny førerprøve etter pålegg fra politiet, gjennomføres i den mest omfattende klassen vedkommende har eller ønsker å beholde, jf. [førerkortforskriften vedlegg 1 § 6a](forskrift/2004-01-19-298/§6a). Som mest omfattende førerkortklasse regnes i stigende rekkefølge: AM, S, T, A1, A2, A, B, BE, C1/D1, C1E/D1E, C, D, DE og CE.
+
+Ved førlighetssvekkelse med førertilpasset kjøretøy, avlegges kjørevurdering i den klassen det tilpassede kjøretøyet tilhører, da førlighetssvekkelse krever dispensasjon fra helsekravene, jf. [førerkortforskriften vedlegg 1 § 41](forskrift/2004-01-19-298/§41). Sensor skal vurdere om kandidaten også kan beholde underliggende klasser i disse tilfellene, og eventuelt hvilke klasser.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-2. Vilkår for å avlegge kjørevurdering
+
+Kjørevurdering kan avlegges når det foreligger anmodning fra lege via statsforvalteren, eller fra statsforvalteren.
+
+Ny førerprøve kan avlegges når det foreligger pålegg fra politiet.
+
+Kjørevurdering ved synsfunksjon etter [førerkortforskriften vedlegg 1 § 9](forskrift/2004-01-19-298/§9) kan avlegges når det foreligger gyldig synsattest.
+
+Kjørevurdering ved stabil førlighetssvekkelse etter [førerkortforskriften vedlegg 1 § 41](forskrift/2004-01-19-298/§41) kan avlegges når det foreligger gyldig helseattest, eller kandidaten har fått godkjent nytt kjøretøy og førlighetssvekkelsen er dokumentert.
+
+Før kjørevurderingen eller ny førerprøve kan avlegges skal kandidaten fremvise akseptabel legitimasjon.
+
+Før kombinert prøve eller ny førerprøve etter pålegg fra politiet kan avlegges, betales gebyr i henhold til [førerkortforskriften § 14-2](forskrift/2004-01-19-298/§14-2). Kjørevurdering er gebyrfri.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-3. Bestilling av time til kjørevurdering
+
+Time for kjørevurdering, eller ny førerprøve etter pålegg fra politiet, bestilles hos Statens vegvesen.
+
+I saker hvor kjørevurderingen er etter anmodning fra lege via statsforvalteren, eller fra statsforvalteren, kan ikke time bestilles før Statens vegvesen har registrert anmodningen.
+
+I saker hvor ny førerprøve er etter pålegg fra politiet, kan ikke time bestilles før Statens vegvesen har registrert pålegget.
+
+I saker hvor Statens vegvesen er vedtaksmyndighet, må helseattest være registrert før time bestilles. I saker hvor det er godkjent et nytt førertilpasset kjøretøy, og det allerede er registrert at kandidaten har stabil førlighetssvekkelse, er det ikke nødvendig å innhente ny helseattest for å bekrefte førlighetssvekkelsen før time bestilles.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-4. Kjørevurdering
+
+Kjørevurdering består alltid av praktisk kjøring, og den starter med førsamtale og avsluttes med ettersamtale. Førsamtalen kan etter avtale gjennomføres en annen dag i forkant av kjørevurderingen.
+
+Kjøreruten skal legges slik at kandidaten får vise sine ferdigheter under vekslende veg- og trafikkforhold, med utgangspunkt i et standardisert ruteopplegg. Kjøreruten kan likevel tilpasses blant annet ut fra anmodning fra oppdragsgiver.
+
+Kjørevurderingen vurderes i størst mulig grad som en helhet. Sensor skal vurdere om kandidaten kan kjøre trafikksikkert med den helsesvekkelsen kandidaten eventuelt har og i tråd med oppdraget.
+
+Kjørevurderingen kan avbrytes og vurderes som ikke anbefalt hvis det oppstår en situasjon hvor sensor eller andre trafikanter må gripe inn for å unngå skade eller fare, og kandidaten selv skulle ha avverget situasjonen. Kjørevurderingen kan også avbrytes når adferden medfører at det kan oppstå vesentlige ulemper eller fare i trafikken.
+
+Inntrer driftsstopp, illebefinnende eller andre forhold som gjør det vanskelig å gjennomføre kjørevurderingen, kan kjørevurderingen avbrytes og vurderingen utstå til ny kjørevurdering kan gjennomføres.
+
+Kjøretøy til kjørevurderingen, unntatt tilhenger, skal være godkjent av Statens vegvesen som kjøretøy til førerprøve. Kjøretøykravene i [kapittel 30](forskrift/2004-10-01-1339/KAPITTEL_30) gjelder. Kandidaten skal selv stille godkjent kjøretøy til rådighet ved kjørevurderingen. Godkjenning som kjøretøy til førerprøve skal føres i vognkortet.
+
+Under kjørevurderingen skal sensor så vidt mulig ha plass ved siden av kandidaten.
+
+Hvis kandidaten ønsker det, og forholdene ellers ligger til rette for det, kan trafikklæreren være med i kjøretøyet under kjørevurderingen. Dette gjelder også hvis kandidaten har behov for at en annen person som en medhjelper, personlig pleier eller personlig assistent er med i kjøretøyet under kjøringen.
+
+I spesielle tilfeller kan det være mer enn en sensor eller annet tilsynspersonell til stede i kjøretøyet under kjørevurderingen.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-5. Ny førerprøve etter pålegg fra politiet (kjørevurdering)
+
+Ny førerprøve etter pålegg fra politiet på bakgrunn av helsemessige årsaker eller mistanke om manglende kunnskaper eller kjøreferdigheter som hensynet til trafikksikkerheten krever, jf. [vegtrafikkloven § 34 første ledd](lov/1965-06-18-4/§34/ledd/1), skal gjennomføres med sensor som har kjørevurderingskompetanse.
+
+Ved ny førerprøve etter dette kapittelet, skal kandidatens prestasjoner måles opp mot hovedmålene for føreropplæringen for å kunne avdekke om kandidaten har en tilfredsstillende kompetanse med tanke på allmenn trafikksikkerhet. I tillegg gjelder kravene om kjørevurdering i § 30A-4 også for gjennomføring av ny førerprøve.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-6. Førertilpasset kjøretøy
+
+Hvis en person på grunn av funksjonsnedsettelse bare kan oppnå førerett på kjøretøy med førertilpasninger, skal kjørevurderingen avlegges på slikt kjøretøy, forutsatt at Statens vegvesen finner det forsvarlig å benytte kjøretøyet under kjørevurderingen, jf. [§ 4-8](forskrift/2004-10-01-1339/§4-8) første ledd. Kjøretøyet skal likevel være utstyrt med speil og ekstra bremsepedal for sensor. I særlige tilfeller kan det, etter søknad, gjøres unntak fra krav om ekstra bremsepedal for sensor.
+
+I enkelttilfeller kan trafikklærer, som kjenner kjøretøyet godt, ha plass ved siden av kandidaten. Sensor kan i slike tilfeller ha plass annet sted i kjøretøyet, som gir god oversikt til å vurdere hendelser og kandidaten under kjørevurderingen.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-7. Kombinert prøve
+
+Ved førstegangserverv av førerett og ved utvidelse til ny førerkortklasse, hvor det stilles krav om både praktisk prøve og kjørevurdering, skal det gjennomføres en kombinert prøve med sensor som har kjørevurderingskompetanse, jf. [sensorforskriften](forskrift/2011-03-09-261). Kombinert prøve gjennomføres også i andre tilfeller der det stilles krav om både praktisk prøve og kjørevurdering.
+
+Ved en kombinert prøve, skal kandidaten prøves i de samme elementene som ved en ordinær praktisk prøve, og bestemmelsene for praktisk prøve etter [kapittel 29](forskrift/2004-10-01-1339/KAPITTEL_29) og [kapittel 30](forskrift/2004-10-01-1339/KAPITTEL_30) gjelder også ved kombinert prøve. Det skal gjennomføres før- og etter samtale med kandidaten. Ved behov, kan prøveruten tilpasses oppdraget.
+
+Ved utvidelse av førerett til klasse BE eller en av de andre tilhengerklassene, hvor kandidaten har en førlighetssvekkelse og ikke kan utføre til- og frakopling av tilhenger selv, kan kandidaten søke om å benytte en medhjelper eller sensor under veiledning av kandidaten. Kandidaten må gjennom instruksjon vise at vedkommende vet hvordan oppgaven skal utføres og påse at medhjelper gjør oppgaven korrekt.
+
+I saker hvor resultatet av kjørevurderingen er en sakkyndig uttalelse, mens resultatet på praktisk prøve gir et avsluttende vedtak fra Statens vegvesen, vil ikke vedtaket være gyldig før helsekravet er godkjent og helseattest registrert hos Statens vegvesen.
+
+Dersom resultatet av kombinert prøve er «ikke bestått», kan ny kombinert prøve ikke avlegges før det har gått fire uker, jf. [§ 29-1](forskrift/2004-10-01-1339/§29-1), og ny anmodning om kjørevurdering eller ny synsattest foreligger der dette er et krav etter [§ 30A-14](forskrift/2004-10-01-1339/§30A-14).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-8. Kjøretøytilpasning
+
+I tilfeller der det er gjennomført og bestått kombinert prøve på et annet kjøretøy enn det førertilpassede kjøretøyet vedkommende skal ha, skal sensor vurdere behov for å gjennomføre en kjøretøytilpasning. Sensor skal også vurdere om det er behov for å gjennomføre en kjøretøytilpasning i tilfeller hvor vedkommende har førerett og fått nytt kjøretøy med nye eller tilsvarende førertilpasninger, uavhengig om det er gjennomført kjørevurdering med tilsvarende tilpasninger tidligere.
+
+For kjøretøytilpasning, gjelder bestemmelsene for kjørevurdering som fremgår i dette kapittelet.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-9. Kjørevurdering i klasse A1, A2 og A
+
+Kjørevurdering i klasse A1, A2 og A bygges opp på samme måte som praktisk prøve i disse klassene, ved at det gjennomføres ferdighetsprøve på avsperret område før kjøring i trafikk.
+
+Sensor skal selv kjøre egen motorsykkel under kjørevurderingen. Det er et krav at det skal være toveis kommunikasjonsutstyr mellom sensor og kandidaten.
+
+Sikkerhetsutstyr som fremgår i [§ 30-1](forskrift/2004-10-01-1339/§30-1) gjelder også for kjørevurdering.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-10. Kjørevurdering i klasse AM, S og T
+
+Kjørevurdering kan gjennomføres i klasse AM og vil begrenses til denne klassen. Kjørevurderingen bygges opp på samme måte som praktisk prøve for klasse A1, ved at det gjennomføres ferdighetsprøve på avsperret område før kjøring i trafikk.
+
+Ved kjørevurdering med tohjuls moped, gis kode AM 146, jf. [førerkortforskriften vedlegg 4](forskrift/2004-01-19-298/vedlegg4). For personer med førerkortklasse AM uten koder, er det tilstrekkelig å gjennomføre kjørevurdering med tohjuls moped for å beholde AM uten koder. Sensor skal selv kjøre egen motorsykkel under kjørevurderingen. Det er et krav at det skal være toveis kommunikasjonsutstyr mellom sensor og kandidaten.
+
+Ved kjørevurdering med tre- eller firehjuls moped (mopedbil), gis kode AM 147, jf. [førerkortforskriften vedlegg 4](forskrift/2004-01-19-298/vedlegg4). Kjøretøyet skal være tre- eller firehjuls moped med egenvekt over 250 kg (uten batterier) og være registrert for to personer. Kjøretøyet skal også ha tilleggsutstyr som følger av [§ 4-6](forskrift/2004-10-01-1339/§4-6).
+
+Kjørevurdering i klasse S og T tilpasses ut fra oppdrag og behov. For klasse T gjelder likevel krav til kjøretøy etter [§ 30-14](forskrift/2004-10-01-1339/§30-14).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-11. Kjørevurdering med automatgiret kjøretøy
+
+Hvis en person med ubegrenset førerett, avlegger kjørevurderingen eller ny førerprøve med automatgiret kjøretøy, kan føreretten begrenses til å gjelde slike kjøretøy, jf. [førerkortforskriften § 4-3](forskrift/2004-01-19-298/§4-3).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-12. Resultatet av kjørevurderingen
+
+I de sakene Statens vegvesen gir en sakkyndig uttalelse, skal uttalelsen sendes til oppdragsgiver for videre vurdering av om helseattest kan utstedes. Uttalelsen vil inneholde konklusjonen anbefalt eller ikke anbefalt, i tillegg til nærmere beskrivelser. I særlige tvilstilfeller kan det gis konklusjonen usikker.
+
+I de sakene Statens vegvesen gir en sakkyndig uttalelse til politiet, skal uttalelsen sendes til politiet for videre saksbehandling. Uttalelsen vil inneholde konklusjonen bestått eller ikke bestått, i tillegg til nærmere beskrivelser.
+
+I de sakene Statens vegvesen er vedtaksmyndighet, vil kandidaten få resultat bestått eller ikke bestått. Kandidaten gis en skriftlig begrunnelse for vedtaket.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-13. Klage på kjørevurderingen
+
+Det er kun adgang til å klage på kjørevurdering hvor Statens vegvesen er vedtaksmyndighet, jf. [forvaltningsloven](lov/1967-02-10). Sensors skjønnsmessige vurdering av kjørevurderingen kan likevel ikke påklages, jf. [forvaltningslovforskriften § 32](forskrift/2006-12-15-1456/§32).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-14. Vilkår ved ønske om nytt forsøk
+
+Dersom resultatet av kjørevurderingen er «ikke anbefalt», kan ikke ny kjørevurdering avlegges uten ny anmodning fra lege via statsforvalteren, eller fra statsforvalteren. Dette fordrer at lege eller statsforvalteren anser det som hensiktsmessig at det avlegges ny kjørevurdering for å kunne vurdere helsekravet.
+
+Dersom resultatet av ny førerprøve etter pålegg fra politiet er «ikke bestått», kan ikke ny tilsvarende førerprøve gjennomføres. Vedkommende kan imidlertid søke politiet om gjenerverv av føreretten, jf. [førerkortforskriften § 6-1 tredje ledd](forskrift/2004-01-19-298/§6-1/ledd/3) og [vegtrafikkloven § 24 fjerde ledd](lov/1965-06-18-4/§24/ledd/4). Bestått ordinær førerprøve i den mest omfattende klassen vedkommende ønsker førerett for, er nødvendig for å kunne gjenerverve føreretten.
+
+Dersom resultatet av kjørevurderingen er «ikke bestått» og Statens vegvesen er vedtaksmyndighet etter [førerkortforskriften vedlegg 1 § 9](forskrift/2004-01-19-298/§9), anses helsekravet for ikke oppfylt. Ny kjørevurdering kan ikke avlegges før det har gått fire uker. Dersom kjørevurderingen ikke er bestått innen 3 måneder etter synsattestens utstedelsesdato, kreves det ny synsattest for å få nytt forsøk. Ny synsattest kan tidligst utstedes etter karantenetidens utløp.
+
+Dersom resultatet av kjørevurderingen er «ikke bestått» og Statens vegvesen er vedtaksmyndighet etter [førerkortforskriften vedlegg 1 § 41](forskrift/2004-01-19-298/§41), kan ny kjørevurdering ikke avlegges før det har gått fire uker. I særlige tilfeller kan sensor vurdere kortere karantenetid.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 30A-15. Fjerne begrensninger i føreretten
+
+Personer som har begrensninger i føreretten i form av koder, kan fjerne begrensningene ved å avlegge ny kjørevurdering uten aktuelle førertilpasninger.
+
+Ved utvidelse av førerett til ordinær førerett, der kandidaten ikke har andre førertilpasninger enn automatgiret kjøretøy, avlegges kun praktisk prøve, jf. [§ 29-8](forskrift/2004-10-01-1339/§29-8).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+## Kapittel 31. Overgangsbestemmelser, unntak og ikrafttredelse
+
+### § 31-1. Tidligere godkjent undervisningspersonell for trafikkopplæring
+
+Personer med offentlig godkjenning for å drive trafikkopplæring i henhold til tidligere forskrifter, kan fortsatt virke i yrket, med mindre annet følger av denne forskriften.
+
+Kravet i [trafikklærerforskriften § 3](forskrift/2024-10-15-2556/§3) om førerett for den koden trafikklærer underviser i, gjelder ikke for trafikklærer som er godkjent og registrert for vedkommende klasse og kode før 1. januar 2017.
+
+Kravet i [§ 6-2 fjerde ledd](forskrift/2004-10-01-1339/§6-2/ledd/4) om spesialutdanning i trafikalt grunnkurs gjelder ikke for undervisningspersonell for klasse AM 146 godkjent før 1. januar 2017.
+
+Godkjent trafikklærer i klasse AM 146 før 1. januar 2017, har rett til å undervise i klassen fram til 1. januar 2018, uten å oppfylle kravet i [trafikklærerforskriften § 8](forskrift/2024-10-15-2556/§8) om spesialutdanning i AM 146.
+
+Godkjent trafikklærer i klasse T før 1. januar 2017, har rett til å undervise i klassen fram til 1. januar 2020, uten å oppfylle kravet i [trafikklærerforskriften § 12](forskrift/2024-10-15-2556/§12) om spesialutdanning.
+
+Godkjent undervisningspersonell for sikkerhetskurs klasse T kode 141 og klasse T kode 148 før 1. januar 2017, har rett til å undervise i sikkerhetskurset fram til 1. januar 2020, uten å oppfylle kravet i [trafikklærerforskriften § 12](forskrift/2024-10-15-2556/§12) om spesialutdanning i klasse T, jf. [§ 6-14](forskrift/2004-10-01-1339/§6-14).
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 31-2. Overgangsregler for obligatorisk opplæring
+
+Elever som har gjennomført trafikalt grunnkurs før 1. november 2008 uten å ha gjennomført mørkekjøringsdemonstrasjon, beholder sin rett til øvingskjøring.
+
+Fullført obligatorisk opplæring i klasse A før 19. januar 2013 anses som fullført obligatorisk opplæring i klasse A2. Deler av obligatorisk opplæring i klasse A, gjennomført før 19. januar 2013, gir rett til fradrag i deler av obligatorisk opplæring ved klasse A2.
+
+Elev som har fullført obligatorisk opplæring i klasse AM 146 før 1. januar 2017 kan avlegge førerprøven på bakgrunn av denne opplæringen innen 1. januar 2018. Deler av obligatorisk opplæring i klasse AM 146, gjennomført før 1. januar 2017, gir rett til fradrag i tilsvarende obligatorisk opplæring i klasse AM 146 innen 1. januar 2018.
+
+Elev som har fullført obligatorisk opplæring i klasse A1 før 1. januar 2017 kan avlegge førerprøven på bakgrunn av denne opplæringen innen 1. januar 2018. Deler av obligatorisk opplæring i klasse A1, gjennomført før 1. januar 2017, gir rett til fradrag i tilsvarende obligatorisk opplæring i klasse A1 innen 1. januar 2018.
+
+Elev som har fullført obligatorisk opplæring i klasse S før 1. juli 2017 kan avlegge førerprøven på bakgrunn av denne opplæringen innen 1. juli 2018. Deler av obligatorisk opplæring i klasse S, gjennomført før 1. juli 2017, gir rett til fradrag i tilsvarende obligatorisk opplæring i klasse S innen 1. juli 2018.
+
+> Endret ved forskrifter [13 des 2005 nr. 1647](forskrift/2005-12-13-1647), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [30 april 2010 nr. 616](forskrift/2010-04-30-616) (i kraft 1 mai 2010), [21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 19 jan 2013), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017).
+
+### § 31-3. Andre overgangsregler
+
+Kravet i [§ 4-7 andre ledd bokstav e](forskrift/2004-10-01-1339/§4-7/ledd/2/bokstav/e)) og [§ 30-14 tredje ledd bokstav e](forskrift/2004-10-01-1339/§30-14/ledd/3/bokstav/e)) gjelder ikke for kjøretøy godkjent før 1. juli 2006. Traktor som allerede er godkjent som lærevogn og førerprøvevogn, kan benyttes som lærevogn og førerprøvevogn frem til 1. januar 2030 uten å oppfylle kravene i [§ 4-7](forskrift/2004-10-01-1339/§4-7) og [§ 30-14](forskrift/2004-10-01-1339/§30-14) om å være 4-hjuls jord- og skogbrukstraktor med tilleggskrav om at traktoren skal ha sentralt plassert førersete, større bakhjul enn forhjul og løftbar trekk-krok for tilhenger.
+
+Kravet i [§ 6-14](forskrift/2004-10-01-1339/§6-14) andre ledd om at faglig leder skal utarbeide en årlig plan, kravet i [§ 7-6](forskrift/2004-10-01-1339/§7-6) om at innmeldingen skal skje elektronisk, kravet i [§ 7-6](forskrift/2004-10-01-1339/§7-6) om at opplæring må være innmeldt senest 3 virkedager før praktisk prøve kan avlegges og kravet i [§ 29-1](forskrift/2004-10-01-1339/§29-1) om godkjenning av tolk, trer i kraft 1. januar 2010.
+
+Bestått teoretisk prøve i klasse A før 19. januar 2013 anses som bestått teoretisk prøve i klasse A og A2 etter 19. januar 2013.
+
+Den praktiske prøven til klasse A avlegges på motorsykkel uten sidevogn. Motorsykkelen skal ha et slagvolum på minst 595 cm3, en effekt på minst 40 kW og en konstruktiv hastighet på minst 100 km/t. Denne overgangsregelen gjelder fram til 31. desember 2018.
+
+Godkjent lærevogn før 1. januar 2017 i klasse C1, C1E, C og CE registrert med mindre enn 3 sitteplasser kan likevel benyttes som lærevogn fram til 1. januar 2022 jf. [§ 4-5](forskrift/2004-10-01-1339/§4-5).
+
+Lærevogn klasse B og førerprøvevogn klasse B som er godkjent og registrert på samme eier før 1. januar 2018 kan brukes til opplæring mot vederlag klasse B og/eller førerprøve klasse B til og med 30. juni 2018, uten at en opplæringsinstitusjon har disposisjonsrett over kjøretøyet slik som angitt i [§ 4-2](forskrift/2004-10-01-1339/§4-2) tredje ledd og/eller [§ 29-6](forskrift/2004-10-01-1339/§29-6) sjette ledd. Fra og med 1. juli 2018 må opplæringsinstitusjonen enten stå oppført i vognkortet som eier, eller kopi av leie- eller leasingavtale må vedlegges vognkortet som et kontrolldokument i kjøretøyet. Det skal fremgå av avtalen hvem som er dens parter og hvilke kjøretøy som omfattes, enten i form av registreringsnummer eller understellsnummer.
+
+Kravet i [§ 30-2 tredje ledd bokstav a](forskrift/2004-10-01-1339/§30-2/ledd/3/bokstav/a) om dobbelt sett betjeningsinnretning også for gass, gjelder ikke for kjøretøy som er godkjent som førerprøvevogn før 1. juli 2024.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [21 juli 2010 nr. 1129](forskrift/2010-07-21-1129) (i kraft 1 aug 2010), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [20 juni 2013 nr. 926](forskrift/2013-06-20-926) (i kraft 1 sep 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [20 des 2017 nr. 2314](forskrift/2017-12-20-2314) (i kraft 1 jan 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 31-4. Utfyllende bestemmelser og unntak
+
+Statens vegvesen kan, ved enkeltvedtak, gjøre unntak fra bestemmelsene i denne forskriften, når det foreligger særlig tungtveiende grunner.
+
+Dersom en opplæringsinstitusjon for trafikklærere har en godkjent trafikkskole kan Statens vegvesen gi tillatelse til å benytte studenter ved opplæringsinstitusjonen som undervisningspersonell. Statens vegvesen kan gjøre unntak fra kravet om å være godkjent trafikklærer for navngitte studenter under utdanning som tungbillærer eller spesialutdanning i klasse A når de er i praksisperiode ved trafikkskole.
+
+Søknad om dispensasjon fra helsekravene i [trafikklærerforskriften § 4](forskrift/2024-10-15-2556/§4) avgjøres av helsemyndighetene etter bestemmelsene i [førerkortforskriften](forskrift/2004-01-19-298).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+
+### § 31-5. Særregler for Forsvaret og Sivilforsvaret
+
+Kravene til ledsager i [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd gjelder ikke for personell i Forsvaret og Sivilforsvaret som forestår øvingskjøring for å kunne føre Forsvarets eller Sivilforsvarets kjøretøy under tjeneste. Slikt militært personell skal ha gjennomgått opplæring etter program godkjent av Forsvaret.
+
+### § 31-6. Saksbehandlingsregler
+
+For vedtak som fattes med hjemmel i denne forskriften, gjelder [forvaltningsloven](lov/1967-02-10). Det er adgang til å klage på førerprøven med unntak av sensors skjønnsmessige vurdering av praktisk førerprøve, jf. [forvaltningslovforskriften § 32](forskrift/2006-12-15-1456/§32). Vedtak i forbindelse med førerprøve begrunnes i samsvar med [§ 29-7](forskrift/2004-10-01-1339/§29-7).
+
+For søknad om godkjenning av trafikkskole etter [§ 5-2](forskrift/2004-10-01-1339/§5-2) og kursarrangør etter [§ 5-4](forskrift/2004-10-01-1339/§5-4) skal saksbehandlingsfrist som nevnt i [tjenesteloven § 11](lov/2009-06-19-103/§11) første ledd første punktum, være en måned. Saksbehandlingsfristen løper fra det tidspunktet Statens vegvesen har mottatt all nødvendig dokumentasjon.
+
+[Tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av trafikkskole etter [§ 5-2](forskrift/2004-10-01-1339/§5-2) eller kursarrangør etter [§ 5-4](forskrift/2004-10-01-1339/§5-4).
+
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 31-6a. (Opphevet)
+
+> Tilføyd ved forskrift [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), endret ved forskrift [20 des 2022 nr. 2400](forskrift/2022-12-20-2400) (i kraft 1 jan 2023), opphevet ved forskrift [10 okt 2023 nr. 1659](forskrift/2023-10-10-1659).
+
+### § 31-7. Ikrafttredelse m.m.
+
+Forskriften trer i kraft 1. januar 2005, likevel slik at krav om spesialutdanning for lærere i klasse A1 og A i [§ 6-5](forskrift/2004-10-01-1339/§6-5) trer i kraft 1. januar 2006.
+
+Forvaltningsavgjørelser gitt eller fastsatt i medhold av de forskrifter som er nevnt i tredje ledd, gjelder fortsatt inntil de eventuelt blir endret eller opphevet med hjemmel i denne forskrift.
+
+## Kapittel 32. Behandling av personopplysninger
+
+> Kapittelet tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-1. Formålet med behandlingen
+
+Statens vegvesen kan behandle personopplysninger for å forvalte og gjennomføre trafikkopplæring og førerprøve for personer som vil erverve eller fornye en førerett som må dokumenteres med førerkort.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-2. Registre og opplysninger som kan behandles
+
+I Trafikkskole, sensor og kursarrangørregisteret (TSK-registeret) kan det behandles personopplysninger om faglig leder, undervisningspersonell, undervisningsstedets kontormedarbeidere, sensorer, elever og kandidater: navn, kjønn, fødselsnummer, D-nummer, kundenummer, adresse, registreringsstatuser og datoer fra Folkeregisteret, telefonnummer, foretrukket målform, tilknyttet undervisningssted, gjennomført obligatorisk opplæring, vurdering av måloppnåelse hos eleven, trafikkskole og undervisningspersonell hvor opplæringen er gjennomført, aktuell trafikkstasjon, førerettigheter, kvalifikasjoner, kompetanse, godkjenninger og merknader som er nødvendige for saksbehandlingen.
+
+I eSensor kan det behandles personopplysninger i forbindelse med gjennomføring av praktisk prøve; navn, kjønn, fødselsnummer, D-nummer, kundenummer, trafikkstasjon, sensors vurdering av kandidatens atferd, kandidatens kjørerute, merknader som er nødvendige for saksbehandlingen, relevante helseopplysninger, resultat og registreringer av praktisk prøve.
+
+I eTeori kan det behandles personopplysninger i forbindelse med gjennomføring av teoretisk prøve; navn, kjønn, fødselsnummer, D-nummer, kundenummer, trafikkstasjon, vurdering av kandidatens kompetanse, merknader som er nødvendige for saksbehandlingen, gjennomførte og beståtte prøver.
+
+I eTilsyn kan det behandles personopplysninger i forbindelse med godkjenning og gjennomføring av tilsyn; navn, kjønn, fødselsnummer, D-nummer, kundenummer, adresse, registreringsstatuser og datoer fra Folkeregisteret, telefonnummer, gjennomført obligatorisk opplæring, trafikkskole og undervisningspersonell hvor opplæringen er gjennomført, aktuell trafikkstasjon, kjennemerke og øvrige kjøretøyopplysninger, førerettigheter, kvalifikasjoner, kompetanse, godkjenninger, vurdering av undervisningspersonellets gjennomføring av opplæring, vurdering av måloppnåelse hos eleven, merknader som er nødvendige for saksbehandlingen, relevante helseopplysninger, vandel, sperrefrist for førerkort og beslag av førerkort og tap av førerett så lenge føreretten ikke er gjenervervet.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-3. Behandlingsansvarlig
+
+Statens vegvesen er behandlingsansvarlig for behandling av personopplysninger etter § 32-1 og [§ 32-2](forskrift/2004-10-01-1339/§32-2).
+
+Trafikkskolen er behandlingsansvarlig for behandling av personopplysninger som de får utlevert etter [§ 32-5](forskrift/2004-10-01-1339/§32-5).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-4. Tilgangskontroll
+
+Bare personer som har nødvendig tjenstlig behov, skal ha tilgang til Trafikkskole, sensor og kursarrangørregisteret (TSK-registeret), eSensor, eTeori og eTilsyn. Tilgangen skal begrenses ut ifra hvilken rolle den enkelte tjenesteperson har.
+
+Før tilgang gis, skal opplæring for å sikre nødvendig kunnskap om personvern og informasjonssikkerhet være gjennomført.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-5. Utlevering av personopplysninger
+
+Trafikkskolene kan behandle personopplysninger om en elevs gjennomførte obligatoriske opplæring hos annen trafikkskole for å gi et videre tilbud om opplæring. Utlevering av personopplysninger etter dette ledd kan skje ved direkte søk i TSK-registeret.
+
+Dette er ikke til hinder for utlevering av opplysninger i andre tilfeller der dette har hjemmel i lov.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-6. Automatiserte avgjørelser
+
+Vedtak om resultat av teoriprøve kan skje som automatisert vedtak.
+
+Statens vegvesen er vedtaksmyndighet for automatiserte vedtak etter denne forskriften.
+
+Vegdirektoratet er klageinstans. Kandidaten kan kreve manuell behandling av klagesaken.
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).
+
+### § 32-7. Sikkerhetsrevisjoner
+
+Det skal gjennomføres systematiske sikkerhetsrevisjoner for å sikre at behandlingen skjer i tråd med [personopplysningsloven](lov/2018-06-15-38) og [personopplysningsforskriften](forskrift/2018-06-15-876).
+
+> Tilføyd ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186).

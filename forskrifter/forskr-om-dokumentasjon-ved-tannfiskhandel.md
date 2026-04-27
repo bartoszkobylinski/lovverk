@@ -1,0 +1,54 @@
+---
+id: "sf-20000106-0007"
+slug: "forskr-om-dokumentasjon-ved-tannfiskhandel"
+type: "forskrift"
+ref_id: "forskrift/2000-01-06-7"
+title: "Forskrift om fangstdokumentasjon ved import, eksport og re-eksport av patagonisk tannfisk (Dissostichus spp.)."
+short_title: "Forskr. om dokumentasjon ved tannfiskhandel"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2000-05-04"
+last_change_in_force: null
+last_updated: null
+xml_hash: "ec0c6d9ab17db9c6d2e1c14b5cfa7846d8c49505286455a4d4a81d2ee1af1482"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fangstdokumentasjon ved import, eksport og re-eksport av patagonisk tannfisk (Dissostichus spp.).
+
+## § 1. Forskriftens virkeområde
+
+Forskriften gjelder ved import, eksport og re-eksport av patagonisk tannfisk (Dissostichus spp.).
+
+## § 2. Forbud
+
+Det er forbudt å importere, eksportere og re-eksportere patagonisk tannfisk (Dissostichus spp.) dersom fisken ikke ledsages av et fangstdokument som viser at fangsten er tatt i samsvar med regelverket til den regionale forvaltningsorganisasjonen Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) eller at fangsten er tatt utenfor CCAMLR-området.
+
+## § 3. Dokumentkrav
+
+Fangstdokumentet nevnt i [§ 2](forskrift/2000-01-06-7/§2) skal inneholde minst følgende opplysninger:navn, adresse, telefon- og faksnummer til den myndighet i flaggstat som har utstedt dokumentet,fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,tidsperioden (fra dato til dato) da fangsten ble tatt,dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, ognavn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.
+
+Ved import skal fangstdokumentet være signert og stemplet av ansvarlig myndighet i den eksporterende stat.
+
+## § 4. Utfylling av fangstdokument ved eksport
+
+Følgende regler gjelder for utfylling av fangstdokument ved eksport:eksportør skal på hvert fangstdokument føre det kvantum patagonisk tannfisk (Dissostichus spp.) spesifisert på art som er med i forsendelsen,eksportør skal på hvert fangstdokument føre navn og adresse til importør og stedet hvor importen skal skje,eksportør skal på hvert fangstdokument føre eksportørens navn og adresse og skal signere dokumentet,eksportør skal av Fiskeridirektoratet få bekreftet at opplysningene på fangstdokumentet er korrekte.
+
+## § 5. Regler vedrørende re-eksport
+
+Dersom patagonisk tannfisk (Dissostichus spp.) re-eksporteres, skal re-eksportør på skjema utgitt av Fiskeridirektoratet gi følgende opplysninger:netto vekt av hvert fiskeslag spesifisert på produkttype sammen med nummer på fangstdokument som hvert fiskeslag og produkttype relateres til,navn og adresse til importøren av forsendelsen, stedet hvor importen foregikk samt navn og adresse til eksportøren,bekreftelse fra Fiskeridirektoratet om at opplysningene på skjemaet er korrekte.
+
+Det opprinnelige fangstdokumentet skal også følge forsendelsen ved re-eksport.
+
+## § 6. Straffebestemmelse
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til [lov av 6. juni 1997 nr. 32 om innførsle- og utførsleregulering § 4](lov/1997-06-06-32/§4).
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 4. mai 2000.

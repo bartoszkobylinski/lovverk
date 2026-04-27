@@ -1,0 +1,383 @@
+---
+id: "sf-20110606-0666"
+slug: "forskrift-om-godkjenning-av-enzymer-mm-i-næringsmidler"
+type: "forskrift"
+ref_id: "forskrift/2011-06-06-666"
+title: "Forskrift om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler"
+short_title: "Forskrift om godkjenning av enzymer mm. i næringsmidler"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2011-06-06"
+last_change_in_force: "2022-06-01"
+last_updated: "2013-06-13"
+xml_hash: "81b1970943c32b521bbb97d6be1231f9c20745deca6629095f9880587f96ca81"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler
+
+## § 1. Gjennomføring av forordning (EF) nr. 1331/2008
+
+[EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XII nr. 54zzzzp (forordning [(EF) nr. 1331/2008](eu/32008r1331) som endret ved forordning [(EU) 2019/1381](eu/32019r1381)) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer til næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrift [12 mai 2022 nr. 960](forskrift/2022-05-12-960) (i kraft 1 juni 2022).
+
+## § 1a. Gjennomføring av forordning [(EU) nr. 234/2011](eu/32011r0234)
+
+[EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XII nr. 64 (forordning [(EU) nr. 234/2011](eu/32011r0234) som endret ved forordning [(EU) nr. 562/2012](eu/32012r0562) og forordning [(EU) 2020/1823](eu/32020r1823)) om gjennomføringsbestemmelser til forordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles godkjenningsprosedyre for tilsetningsstoffer, enzymer og aromaer til næringsmidler gjelder som forskrift med de tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved [forskrift 18 juni 2012 nr. 547](forskrift/2012-06-18-547), endret ved [forskrifter 19 mars 2013 nr. 293](forskrift/2013-03-19-293), [18 mars 2022 nr. 1388](forskrift/2022-03-18-1388).
+
+## § 2. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. [matloven § 23](lov/2003-12-19-124/§23), for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til [matloven § 24](lov/2003-12-19-124/§24) til [§ 26](lov/2003-12-19-124/§26).
+
+## § 3. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+## § 4. Dispensasjon
+
+Mattilsynet kan i særskilte tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+## § 5. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.
+
+## Forordninger
+
+For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir gjennomført, gjengir vi dem i dette avsnittet. Teksten nedenfor er kun til informasjon, og er ikke en del av forskriften.
+
+### Konsolidert forordning (EF) nr. 1331/2008
+
+> Endret ved forskrift [12 mai 2022 nr. 960](forskrift/2022-05-12-960) (i kraft 1 juni 2022).
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1331/2008](eu/32008r1331) som endret ved forordning [(EU) 2019/1381](eu/32019r1381)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII.
+
+### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1331/2008](eu/32008r1331)
+av 16. desember 2008
+om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité1
+
+etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+
+ut fra følgende betraktninger:Fri omsetning av trygge og sunne næringsmidler er en nødvendig del av det indre marked, og bidrar i høy grad til å verne borgernes helse og velferd, og deres sosiale og økonomiske interesser.Det bør sikres et høyt vernenivå for menneskers liv og helse ved gjennomføringen av Fellesskapets politikk.For å verne menneskers helse må det foretas en trygghetsvurdering av tilsetningsstoffer, enzymer og aromaer i næringsmidler beregnet på konsum, før de bringes i omsetning i Det europeiske fellesskap.Ved europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,3 europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer4 og europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler5 (heretter kalt «sektorregelverk på næringsmiddelområdet») fastsettes harmoniserte kriterier og krav med hensyn til vurdering og godkjenning av disse stoffene.Det tilrettelegges særlig for at tilsetningsstoffer, enzymer og aromaer i næringsmidler, i den grad de må trygghetsvurderes i samsvar med forordning [(EF) nr. 1334/2008](eu/32008r1334) om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler, ikke må bringes i omsetning eller anvendes i næringsmidler beregnet på konsum, i samsvar med vilkårene fastsatt i sektorregelverket for hvert næringsmiddelområde, med mindre de er oppført på en fellesskapsliste over godkjente stoffer.Å sikre innsyn i produksjonen og håndteringen av næringsmidler er helt avgjørende for å bevare forbrukernes tillit.I den forbindelse bør det fastsettes en felles, effektiv, tidsbegrenset og åpen fellesskapsframgangsmåte for vurdering og godkjenning av de tre stoffkategoriene, for å forenkle den frie omsetningen av dem på fellesskapsmarkedet.Den felles framgangsmåten må bygge på prinsippene om god forvaltning og rettssikkerhet, og må gjennomføres i samsvar med disse prinsippene.Denne forordning vil således fullstendiggjøre rammereglene for godkjenning av stoffene ved å fastsette de ulike trinnene i framgangsmåten, tidsfristene for dem, rollen til de berørte parter og prinsippene som gjelder. For visse deler av framgangsmåten er det imidlertid nødvendig å ta hensyn til de særlige kjennetegnene til sektorregelverket for hvert næringsmiddelområde.Fristene fastsatt i framgangsmåten tar hensyn til tiden som er nødvendig for å vurdere de ulike kriteriene i sektorregelverket for hvert næringsmiddelområde, og gir samtidig tilstrekkelig tid til samråd ved utarbeidingen av utkast til tiltak. Særlig bør fristen på ni måneder som Kommisjonen har til å framlegge et utkast til forordning om ajourføring av fellesskapslisten, ikke utelukke at dette kan gjøres på kortere tid.Når Kommisjonen mottar en søknad bør den innlede framgangsmåten og om nødvendig anmode om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»), opprettet ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,6 så snart som mulig etter at søknadens gyldighet og anvendelighet er blitt vurdert.I samsvar med rammen for risikovurdering i saker som gjelder næringsmiddeltrygghet, som fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), må det forut for godkjenningen som gjør at stoffer kan bringes i omsetning, foretas en uavhengig vitenskapelig vurdering av høyest mulig standard av risikoen stoffene utgjør for menneskers helse. Vurderingen, som må foretas under myndighetens ansvar, må etterfølges av et vedtak om risikohåndtering gjort av Kommisjonen etter en framgangsmåte med forskriftskomité som sikrer et nært samarbeid mellom Kommisjonen og medlemsstatene.Godkjenningen som gjør at stoffer kan bringes i omsetning, bør gis i henhold til denne forordning under forutsetning av at kriteriene for godkjenningen i henhold til sektorregelverket for næringsmiddelområdet er oppfylt.Det er allment anerkjent at vitenskapelige risikovurderinger i visse tilfeller ikke er tilstrekkelig for å fremskaffe alle de opplysninger som en avgjørelse om risikohåndtering bør bygge på, og at det kan tas hensyn til andre berettigede forhold som er relevante for saken, herunder samfunnsmessige, økonomiske, tradisjonelle, etiske og miljømessige forhold, samt kontrollmulighetene.For å sikre at både driftsansvarlige for foretak i de berørte sektorene og allmennheten underrettes om gjeldende godkjenninger bør de godkjente stoffene oppføres på en fellesskapsliste som Kommisjonen oppretter, ajourfører og offentliggjør.Om nødvendig og under visse omstendigheter kan sektorregelverket for det bestemte næringsmiddelområdet inneholde bestemmelser om tidsbegrenset vern av vitenskapelige opplysninger og annen informasjon som søkeren har inngitt. I så fall skal det i sektorregelverket fastsettes på hvilke vilkår opplysningene ikke kan anvendes til fordel for en annen søker.Nettverkssamarbeid mellom myndigheten og de organisasjoner i medlemsstatene som er virksomme på områdene som hører inn under myndighetens oppdrag, er et av grunnprinsippene for myndighetens arbeidsmåte. Når myndigheten utarbeider sin uttalelse, kan den derfor benytte seg av nettverket som står til dens rådighet gjennom artikkel 35 i forordning [(EF) nr. 178/2002](eu/32002r0178) og kommisjonsforordning [(EF) nr. 2230/2004](eu/32004r2230).7Den felles framgangsmåten for godkjenning av stoffer må oppfylle krav om innsyn og informasjon til allmennheten og samtidig sikre søkernes rett til fortrolig behandling av bestemte opplysninger.Hensynet når det gjelder å sikre fortrolig behandling av visse sider av en søknad bør opprettholdes for å beskytte søkerens konkurransemessige stilling. Opplysninger som gjelder et stoffs trygghet, herunder, men ikke begrenset til, toksikologiske undersøkelser, andre trygghetsundersøkelser og rådata, bør imidlertid under ingen omstendigheter være fortrolige.I henhold til forordning [(EF) nr. 178/2002](eu/32002r0178) får europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter8 anvendelse på dokumenter som myndigheten er i besittelse av.I forordning [(EF) nr. 178/2002](eu/32002r0178) er det fastsatt framgangsmåter for å treffe nødtiltak for næringsmidler med opprinnelse i Fellesskapet eller som er importert fra tredjestater. I henhold til nevnte forordning kan Kommisjonen treffe slike tiltak i situasjoner der det er sannsynlig at næringsmidler vil utgjøre en alvorlig risiko for menneskers og dyrs helse eller miljøet, og der en slik risiko ikke kan avverges på en tilfredsstillende måte ved hjelp av tiltak som treffes av den eller de berørte medlemsstater.Av hensyn til økt effektivitet og enklere regelverk bør det på mellomlang sikt undersøkes om det er hensiktsmessig å utvide virkeområdet for den felles framgangsmåten til annet regelverk på næringsmiddelområdet.Siden målene for denne forordning ikke i tilstrekkelig grad kan nås av medlemsstatene på grunn av forskjellene mellom nasjonale lover og bestemmelser og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.De tiltak som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.9Kommisjonen bør særlig ha myndighet til å ajourføre fellesskapslistene. Ettersom det dreier seg om generelle tiltak som har som formål å endre ikke-grunnleggende bestemmelser i sektorregelverket for hvert næringsmiddelområde, blant annet ved å supplere dem med nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).Av effektivitetshensyn bør fristene som normalt gjelder i forbindelse med framgangsmåten med forskriftskomité med kontroll, kortes ned ved tilføyelse av stoffer på fellesskapslistene og ved tilføyelse, sletting eller endring av vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslistene.Når det av tvingende årsaker ikke er mulig å overholde fristene som normalt gjelder for framgangsmåten med forskriftskomité med kontroll, bør Kommisjonen kunne anvende framgangsmåten for behandling av hastesaker fastsatt i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å slette et stoff fra fellesskapslistene og for å tilføye, slette eller endre vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslistene –
+
+### Kapittel I
+Allmenne prinsipper
+
+### Artikkel 1. Formål og virkeområde
+
+1. Ved denne forordning fastsettes en felles framgangsmåte for vurdering og godkjenning (heretter kalt «den felles framgangsmåten») av tilsetningsstoffer, enzymer og aromaer i næringsmidler samt utgangsmaterialer for aromaer og næringsmiddelingredienser som brukes eller er beregnet på bruk i eller på næringsmidler (heretter kalt «stoffene»), som bidrar til fri omsetning av næringsmidler i Fellesskapet og til et høyt nivå for vern av menneskers helse og til et høyt nivå av forbrukervern, herunder vern av forbrukernes interesser. Denne forordning får ikke anvendelse på røykaromaer som omfattes av virkeområdet for europaparlaments- og rådsforordning [(EF) nr. 2065/2003](eu/32003r2065) av 10. november 2003 om røykaromaer som brukes eller er beregnet på bruk i eller på næringsmidler.1
+
+2. Ved den felles framgangsmåten skal det fastsettes regler for ajourføringen av listene over stoffer som er godkjent for markedsføring i Fellesskapet i henhold til forordning [(EF) nr. 1333/2008](eu/32008r1333) om tilsetningsstoffer i næringsmidler, forordning [(EF) nr. 1332/2008](eu/32008r1332) om næringsmiddelenzymer og forordning [(EF) nr. 1334/2008](eu/32008r1334) om aromaer og visse næringsmiddelingredienser med aromatiserende egenskaper til bruk i og på næringsmidler (heretter kalt sektorregelverk på næringsmiddelområdet).
+
+3. Kriteriene for oppføring av stoffer på fellesskapslisten omhandlet i artikkel 2, innholdet i forordningen omhandlet i artikkel 7 og, eventuelt, overgangsbestemmelsene for løpende framgangsmåter, er fastsatt i sektorregelverket for hvert næringsmiddelområde.
+
+### Artikkel 2. Fellesskapsliste over stoffer
+
+1. Innenfor rammen av sektorregelverket for hvert næringsmiddelområde skal stoffer som kan bringes i omsetning i Fellesskapet, oppføres på en liste (heretter kalt «fellesskapslisten») hvis innhold bestemmes av nevnte regelverk. Fellesskapslisten skal ajourføres av Kommisjonen. Den skal offentliggjøres i *Den europeiske unions tidende*.
+
+2. Med «ajourføring av fellesskapslisten» menes:å tilføye et stoff til fellesskapslisten,å slette et stoff fra fellesskapslisten,å tilføye, slette eller endre vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslisten.
+
+### Kapittel II
+Felles framgangsmåte
+
+### Artikkel 3. Hovedtrinnene i den felles framgangsmåten
+
+1. Den felles framgangsmåten for ajourføring av fellesskapslisten kan innledes enten på initiativ fra Kommisjonen eller som følge av en søknad. Søknader kan inngis av en medlemsstat eller en berørt part, som kan representere flere berørte parter (heretter kalt «søkeren»), i samsvar med vilkårene i gjennomføringsbestemmelsene omhandlet i artikkel 9 nr. 1 bokstav a). Søknader skal sendes til Kommisjonen.
+
+2. Kommisjonen skal anmode om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten») som skal avgis i samsvar med artikkel 5.For ajourføringene omhandlet i artikkel 2 nr. 2 bokstav b) og c) er Kommisjonen imidlertid ikke pålagt å anmode om en uttalelse fra myndigheten dersom ajourføringene ikke er tilbøyelige til å påvirke menneskers helse.
+
+3. Den felles framgangsmåten skal avsluttes med at Kommisjonen vedtar en forordning om ajourføringen i samsvar med artikkel 7.
+
+4. Som unntak fra nr. 3 kan Kommisjonen når som helst avslutte den felles framgangsmåten og avstå fra å gjøre den planlagte ajourføringen dersom den anser at ajourføringen ikke er begrunnet. Den skal eventuelt ta hensyn til myndighetens uttalelse, medlemsstatenes synspunkter, relevante bestemmelser i Fellesskapets regelverk og andre berettigede forhold som er relevante for den aktuelle saken.I slike tilfeller skal Kommisjonen når det er relevant underrette søkeren og medlemsstatene direkte og oppgi i brevet grunnene til at de ikke anser ajourføringen som berettiget.
+
+### Artikkel 4. Innledning av framgangsmåten
+
+1. Når Kommisjonen mottar en søknad om ajourføring av fellesskapslisten, skal densende skriftlig bekreftelse til søkeren på at søknaden er mottatt innen 14 virkedager etter at den er mottatt,eventuelt og i så fall så snart som mulig underrette myndigheten om søkeren og anmode om myndighetens uttalelse i samsvar med artikkel 3 nr. 2.Kommisjonen skal gjøre søknaden tilgjengelig for medlemsstatene.
+
+2. Når Kommisjonen innleder framgangsmåten på eget initiativ, skal den underrette medlemsstatene og eventuelt be om myndighetens uttalelse.
+
+### Artikkel 5. Uttalelse fra myndigheten
+
+1. Myndigheten skal avgi sin uttalelse senest ni måneder etter at den har mottatt en gyldig søknad.
+
+2. Myndigheten skal sende sin uttalelse til Kommisjonen, medlemsstatene og eventuelt søkeren.
+
+### Artikkel 6. Tilleggsopplysninger om risikovurdering
+
+1. I behørig begrunnede tilfeller når myndigheten ber om tilleggsopplysninger fra søkere, kan fristen nevnt i artikkel 5 nr. 1 forlenges. Etter samråd med søkeren skal myndigheten fastsette en frist for framleggelse av disse opplysningene og underrette Kommisjonen om behovet for ytterligere tid. Dersom Kommisjonen ikke framsetter noen innvendinger innen åtte virkedager etter myndighetens underretning, skal tidsrommet nevnt i artikkel 5 nr. 1 automatisk forlenges med den ytterligere tiden. Kommisjonen skal underrette medlemsstatene om forlengelsen.
+
+2. Dersom tilleggsopplysningene ikke sendes til myndigheten før utløpet av den forlengede fristen nevnt i nr. 1, skal myndigheten utforme sin endelige uttalelse på grunnlag av opplysninger som allerede er framlagt.
+
+3. Når søkere framlegger tilleggsopplysninger på eget initiativ, skal de sende dem til myndigheten og til Kommisjonen. I slike tilfeller skal myndigheten avgi sin uttalelse før den opprinnelige fristen uten at det berører artikkel 10.
+
+4. Myndigheten skal gjøre tilleggsopplysningene tilgjengelig for medlemsstatene og Kommisjonen.
+
+5. Myndigheten skal offentliggjøre tilleggsopplysningene fra søkeren, i samsvar med artikkel 11 og 12.◄**M1**
+
+### Artikkel 7. Ajourføring av fellesskapslisten
+
+1. Innen ni måneder etter at myndigheten har avgitt sin uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 14 nr. 1 et utkast til forordning som ajourfører fellesskapslisten, idet den tar hensyn til myndighetens uttalelse, relevante bestemmelser i Fellesskapets regelverk og andre berettigede forhold som er relevante for saken.Dersom det ikke er blitt anmodet om en uttalelse fra myndigheten, skal tidsrommet på ni måneder begynne å løpe fra og med den dagen Kommisjonen mottar en gyldig søknad.
+
+2. I forordningen som ajourfører fellesskapslisten, skal det redegjøres for de hensyn som ligger til grunn for den.
+
+3. Dersom utkastet til forordning ikke er i samsvar med uttalelsen fra myndigheten, skal Kommisjonen grunngi sin beslutning.
+
+4. Disse tiltakene, som skal endre ikke-grunnleggende deler av sektorregelverket for hvert næringsmiddelområde og som gjelder sletting av et stoff fra fellesskapslisten, skal vedtas etter framgangsmåten med forskriftskomité med kontroll omhandlet i artikkel 14 nr. 3.
+
+5. Tiltakene for å endre ikke-grunnleggende deler av sektorregelverket for hvert næringsmiddelområde, blant annet ved å utfylle det, og som gjelder tilføyelse av et stoff til fellesskapslisten samt tilføyelse, sletting eller endring av vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslisten, bør av effektivitetshensyn vedtas etter framgangsmåten med forskriftskomité med kontroll omhandlet i artikkel 14 nr. 4.
+
+6. Når det foreligger tvingende årsaker kan Kommisjonen anvende framgangsmåten for behandling av hastesaker omhandlet i artikkel 14 nr. 5 for å slette et stoff fra fellesskapslisten og for å tilføye, slette eller endre vilkår, spesifikasjoner eller begrensninger knyttet til forekomsten av et stoff på fellesskapslisten.
+
+### Artikkel 8. Tilleggsopplysninger om risikohåndtering
+
+1. Dersom Kommisjonen anmoder om tilleggsopplysninger om risikohåndtering fra søkere, skal den i samråd med søkeren fastsette en frist for framleggelsen av opplysningene. I slike tilfeller kan fristen omhandlet i artikkel 7 forlenges tilsvarende. Kommisjonen skal underrette medlemsstatene om forlengelsen av fristen, og når tilleggsopplysningene er framlagt gjøre dem tilgjengelig for medlemsstatene.
+
+2. Dersom tilleggsopplysningene ikke sendes før utløpet av den forlengede fristen nevnt i nr. 1, skal Kommisjonen treffe tiltak på grunnlag av opplysninger som allerede er framlagt.
+
+### Kapittel III
+Diverse bestemmelser
+
+### Artikkel 9. Gjennomføringstiltak
+
+1. Gjennomføringsbestemmelser til denne forordning skal vedtas av Kommisjonen etter framgangsmåten med forskriftskomité omhandlet i artikkel 14 nr. 2 senest 24 måneder etter vedtaket av sektorregelverket for hvert næringsmiddelområde, særlig med hensyn til:innhold, utarbeiding og framleggelse av søknaden omhandlet i artikkel 4 nr. 1,nærmere bestemmelser om kontroll av søknadenes gyldighet,hvilke typer opplysninger som skal være med i myndighetens uttalelse omhandlet i artikkel 5.
+
+2. Med henblikk på vedtakelsen av gjennomføringsbestemmelsene omhandlet i nr. 1 bokstav a) skal Kommisjonen rådspørre myndigheten, som senest seks måneder etter ikrafttredelsen av sektorregelverket på hvert næringsmiddelområde, skal framlegge et forslag for Kommisjonen om hvilke opplysninger som kreves i forbindelse med risikovurderingen av de berørte stoffene.
+
+### Artikkel 10. Forlengelse av frister
+
+I særlige tilfeller kan Kommisjonen enten på eget initiativ eller eventuelt på anmodning fra myndigheten forlenge fristene omhandlet i artikkel 5 nr. 1 og artikkel 7, dersom det er nødvendig av hensyn til sakens karakter, uten at det berører artikkel 6 nr. 1 og artikkel 8 nr. 1. I slike tilfeller skal Kommisjonen, når det er hensiktsmessig, underrette søkeren og medlemsstatene om forlengelsen og grunnen til den.
+
+### Artikkel 11. Innsyn
+
+Dersom Kommisjonen ber om uttalelse fra myndigheten i samsvar med artikkel 3 nr. 2 i denne forordningen, skal myndigheten umiddelbart offentliggjøre søknaden om godkjenning, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger fra søkeren, samt sine vitenskapelige uttalelser, i samsvar med artikkel 38–39e i forordning (EF) nr. 178/2002. Myndigheten skal også offentliggjøre eventuelle anmodninger om uttalelser og enhver forlengelse av frister i henhold til artikkel 6 nr. 1 i denne forordningen.
+
+### Artikkel 12. Fortrolighet
+
+1. Søkeren kan framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves, når søknaden inngis.
+
+2. Dersom det kreves en uttalelse fra myndigheten i samsvar med artikkel 3 nr. 2 i denne forordningen, skal myndigheten vurdere søkerens anmodning om fortrolighet, i samsvar med artikkel 39–39e i forordning (EF) nr. 178/2002.
+
+3. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:Dersom det er relevant, opplysninger som gis i detaljerte beskrivelser av utgangsstoffer og startpreparater og om hvordan de brukes til å framstille stoffet som er gjenstand for godkjenningen, og detaljerte opplysninger om arten og sammensetningen av materialene eller produktene som søkeren har til hensikt å bruke stoffet som er gjenstand for godkjenningen i, unntatt opplysninger som er relevante for trygghetsvurderingen.Dersom det er relevant, detaljerte analytiske opplysninger om variabilitet og stabilitet for enkeltstående produksjonspartier av det stoffet som er gjenstand for godkjenningen, unntatt opplysninger som er relevante for trygghetsvurderingen.
+
+4. Dersom det ikke kreves en uttalelse fra myndigheten i samsvar med artikkel 3 nr. 2 i denne forordningen, skal Kommisjonen vurdere søkerens anmodning om fortrolighet. Artikkel 39, 39a og 39d i forordning (EF) nr. 178/2002 og nr. 3 i denne artikkelen gjelder tilsvarende med nødvendige endringer.
+
+5. Denne artikkelen berører ikke artikkel 41 i forordning (EF) nr. 178/2002.
+
+### Artikkel 13. Nødssituasjoner
+
+Ved nødssituasjoner i forbindelse med et stoff på fellesskapslisten, særlig i lys av en uttalelse fra myndigheten, skal det treffes tiltak etter framgangsmåten omhandlet i artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+
+### Artikkel 14. Komité
+
+1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+
+2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+
+3. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+4. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsfristene nevnt i artikkel 5a nr. 3 bokstav c) og i nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, to måneder og fire måneder.
+
+5. Når det vises til dette nummer, får artikkel 5a nr. 1, 2, 4 og 6 samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+
+### Artikkel 15. Vedkommende myndigheter i medlemsstatene
+
+Senest seks måneder etter ikrafttredelsen av sektorregelverket for hvert næringsmiddelområde skal medlemsstatene, for hvert sektorregelverk, oversende Kommisjonen og myndigheten navn og adresse samt kontaktpunkt for den nasjonale vedkommende myndighet for den felles framgangsmåten.
+
+### Kapittel IV
+Sluttbestemmelse
+
+### Artikkel 16. Ikrafttredelse
+
+Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *De Europeiske Fellesskaps Tidende*.
+
+Den får anvendelse på sektorregelverket for hvert næringsmiddelområde fra og med den dagen da bestemmelsene i artikkel 9 nr. 1 får anvendelse.
+
+Artikkel 9 får anvendelse fra 20. januar 2009.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Strasbourg, 16. desember 2008.
+
+*For Europaparlamentet**For Rådet**H.-G. PÖTTERING**B. LE MAIRE**President**Formann*
+
+### Konsolidert forordning (EU) nr. 234/2011
+
+> Tilføyd ved [forskrift 18 juni 2012 nr. 547](forskrift/2012-06-18-547), endret ved [forskrift 19 mars 2013 nr. 293](forskrift/2013-03-19-293), rettelse 13 juni 2013, forskrift [18 mars 2022 nr. 1388](forskrift/2022-03-18-1388).
+
+Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) nr. 234/2011](eu/32011r0234). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) nr. 562/2012](eu/32012r0562) og forordning [(EU) 2020/1823](eu/32020r1823).
+
+### KOMMISJONSFORORDNING [(EU) nr. 234/2011](eu/32011r0234)
+av 10. mars 2011
+om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331) av 16. desember 2008 om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler,1 særlig artikkel 9 nr. 1,
+
+etter samråd med Den europeiske myndighet for næringsmiddeltrygghet (EFSA) i henhold til artikkel 9 nr. 2 i forordning [(EF) nr. 1331/2008](eu/32008r1331) og
+
+ut fra følgende betraktninger:Ved forordning [(EF) nr. 1331/2008](eu/32008r1331) er det fastsatt regler for ajourføringen av listene over stoffer som er godkjent for markedsføring i Unionen i henhold til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler,2 europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer3 og europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler4 (heretter kalt «sektorregelverk på næringsmiddelområdet»).I henhold til artikkel 9 i forordning [(EF) nr. 1331/2008](eu/32008r1331) skal Kommisjonen vedta gjennomføringstiltak med hensyn til innhold, utarbeiding og framleggelse av søknadene om å ajourføre unionslistene med sektorregelverket på hvert næringsmiddelområde, nærmere bestemmelser om kontroll av søknadenes gyldighet og hvilke typer opplysninger som bør være med i uttalelsen fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «Myndigheten»).For å ajourføre listene er det nødvendig å kontrollere at bruken av stoffet samsvarer med de generelle og særlige bruksvilkårene som er fastsatt i sektorregelverket på næringsmiddelområdet.Myndigheten vedtok 9. juli 2009 en vitenskapelig uttalelse om hvilke opplysninger som kreves for en vurdering av søknader om tilsetningsstoffer i næringsmidler.5 Disse opplysningene bør framlegges når det inngis en søknad om bruk av et nytt tilsetningsstoff. Når det gjelder en søknad om endring av bruksvilkårene for et tilsetningsstoff som allerede er godkjent eller om endring av spesifikasjonene for et tilsetningsstoff som allerede er godkjent, kan det hende at de opplysninger som kreves for risikovurdering ikke må framlegges, dersom søkeren begrunner hvorfor.Myndigheten vedtok 23. juli 2009 en vitenskapelig uttalelse om hvilke opplysninger som kreves for en vurdering av søknader om næringsmiddelenzymer.6 Disse opplysningene bør framlegges når det inngis en søknad om bruk av et nytt næringsmiddelenzym. Når det gjelder en søknad om endring av bruksvilkårene for et næringsmiddelenzym som allerede er godkjent eller om endring av spesifikasjonene for et næringsmiddelenzym som allerede er godkjent, kan det hende at de opplysninger som kreves for risikovurdering ikke må framlegges, dersom søkeren begrunner hvorfor.Myndigheten vedtok 19. mai 2010 en vitenskapelig uttalelse om hvilke opplysninger som kreves for risikovurdering av aromaer som skal brukes i eller på næringsmidler.7 Disse opplysningene bør framlegges når det inngis en søknad om bruk av en ny aroma. Når det gjelder en søknad om endring av bruksvilkårene for en aroma som allerede er godkjent eller om endring av spesifikasjonene for en aroma som allerede er godkjent, kan det hende at de opplysninger som kreves for risikovurdering ikke må framlegges, dersom søkeren begrunner hvorfor.Det er viktig at toksikologiske undersøkelsene utføres i henhold til en viss standard. Derfor bør europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) av 11. februar 2004 om tilnærming av lover og forskrifter om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer8 følges. Dersom slike forsøk skal foretas utenfor Unionens territorium, bør de følge OECDs prinsipper for god laboratoriepraksis (GLP) (OECD, 1998).9Bruken av tilsetningsstoffer i næringsmidler og næringsmiddelenzymer bør alltid være teknologisk velbegrunnet. Når det gjelder tilsetningsstoffer i næringsmidler bør søkeren også forklare hvorfor den teknologiske virkningen ikke kan oppnås på andre økonomiske og teknologiske gjennomførbare måter.Bruken av et stoff bør godkjennes dersom det ikke villeder forbrukeren. Søkerne bør forklare at bruken det søkes om, ikke villeder forbrukeren. For tilsetningsstoffer i næringsmidler bør også fordeler og nytteverdi for forbrukeren forklares.Uten at det berører artikkel 9 i forordning [(EF) nr. 1332/2008](eu/32008r1332), artikkel 19 i forordning [(EF) nr. 1333/2008](eu/32008r1333) og artikkel 13 i forordning [(EF) nr. 1334/2008](eu/32008r1334) bør Kommisjonen kontrollere at søknaden er gyldig og om den omfattes av det respektive sektorregelverket på næringsmiddelområdet. Det bør, dersom det er relevant, tas hensyn til en uttalelse fra Myndigheten om hvor egnet de framlagte opplysningene er for risikovurdering. En slik kontroll bør ikke forsinke vurderingen av en søknad.Opplysningene som er framlagt i uttalelsen fra Myndigheten bør være tilstrekkelige for å fastslå om det er trygt for forbrukerne om den foreslåtte bruken av stoffet godkjennes. Dette omfatter konklusjoner om stoffets giftighet, der det er relevant, og mulig fastsettelse av et akseptabelt daglig inntak (ADI) uttrykt numerisk med nærmere opplysninger om en vurdering av eksponering gjennom kosten for alle næringsmiddelkategorier, herunder eksponering av sårbare forbrukere.Søkeren bør også ta hensyn til Myndighetens detaljerte retningslinjer for de opplysninger som kreves for risikovurdering (*EFSA Journal*).10I denne forordning tas det hensyn til gjeldende vitenskapelige og tekniske kunnskap. Kommisjonen kan revidere denne forordning i lys av utviklingen på dette området og offentliggjøring av reviderte eller ytterligere vitenskapelige retningslinjer fra Myndigheten.Praktiske ordninger i forbindelse med en søknad om godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler, blant annet adresser, kontaktpersoner og oversending av dokumenter, bør gjøres tilgjengelige i en egen melding fra Kommisjonen og/eller Myndigheten.Det bør fastsettes en tidsfrist slik at søkerne får mulighet til å etterkomme de nye bestemmelsene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+### Kapittel I
+Alminnelige bestemmelser
+
+### Artikkel 1. Virkeområde
+
+Denne forordning får anvendelse på søknader omhandlet i artikkel 3 nr. 1 i forordning [(EF) nr. 1331/2008](eu/32008r1331) om innføring av en felles framgangsmåte for godkjenning av tilsetningsstoffer, enzymer og aromaer i næringsmidler.► **M1**
+
+### Artikkel 1a. Definisjoner
+
+I denne forordning menes med:«QPS-status» (velbegrunnet formodning om sikkerhet) den sikkerhetsstatus Myndigheten har tildelt utvalgte grupper av mikroorganismer på bakgrunn av en vurdering som har vist at det ikke foreligger noe sikkerhetsproblem,«SCFs retningslinjer fra 1992» de retningslinjer for framlegging av opplysninger om næringsmiddelenzymer som er fastsatt i uttalelse fra Vitenskapskomiteen for næringsmidler av 11. april 1991.1
+
+### Kapittel II
+Søknadens innhold, utarbeiding og framleggelse
+
+### Artikkel 2. Søknadens innhold
+
+1. En søknad som nevnt i artikkel 1 skal bestå avet brev,teknisk dokumentasjon,et detaljert sammendrag og et offentlig sammendrag av dokumentasjonen.◄**M2**
+
+2. Brevet nevnt i nr. 1 bokstav a) skal utformes i samsvar med modellen i vedlegget.
+
+3. Den tekniske dokumentasjonen nevnt i nr. 1 bokstav b) skal inneholdede administrative opplysningene nevnt i artikkel 4,de opplysningene som kreves for risikovurdering i henhold til artikkel 5, 6, 8 og 10, samt opplysninger om meldingen om undersøkelser i samsvar med artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178), ogde opplysningene som kreves for risikohåndtering i henhold til artikkel 7, 9 og 11, samt opplysninger om meldingen om undersøkelser i samsvar med artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178).◄**M2**
+
+4. Når det gjelder en søknad om endring av bruksvilkårene for tilsetningsstoffer, enzymer og aromaer i næringsmidler som allerede er godkjent, kan det hende at ikke alle opplysningene som nevnes i artikkel 5–11, er nødvendige. Søkeren skal framlegge en etterprøvbar begrunnelse for hvorfor de foreslåtte endringene ikke påvirker resultatene av den eksisterende risikovurderingen.
+
+5. Når det gjelder en søknad om endring av spesifikasjonene for tilsetningsstoffer, enzymer og aromaer i næringsmidler som allerede er godkjent, gjelder følgende:opplysningene kan begrenses til begrunnelsen for søknaden og endringene i spesifikasjonen,søkeren skal framlegge en etterprøvbar begrunnelse for hvorfor de foreslåtte endringene ikke påvirker resultatene av den eksisterende risikovurderingen.
+
+6. Sammendraget av dokumentasjonen nevnt i nr. 1 bokstav c) skal inneholde en grunngitt erklæring om at bruken av produktet er i samsvar med vilkårene fastsatt iartikkel 6 i forordning [(EF) nr. 1332/2008](eu/32008r1332) ellerartikkel 6, 7 og 8 i forordning [(EF) nr. 1333/2008](eu/32008r1333) ellerartikkel 4 i forordning [(EF) nr. 1334/2008](eu/32008r1334).Det offentlige sammendraget av dokumentasjonen skal ikke inneholde noen opplysninger som er gjenstand for en anmodning om fortrolig behandling i henhold til artikkel 12 i forordning [(EF) nr. 1334/2008](eu/32008r1334) og artikkel 39a i forordning [(EF) nr. 178/2002](eu/32002r0178).◄**M2**
+
+### Artikkel 3. Utarbeiding og framleggelse
+
+1. Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39 f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal søknaden inngis via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene. Søkeren skal ta hensyn til Kommisjonens praktiske retningslinjer for inngivelse av søknader (se nettstedet til Generaldirektoratet for helse og næringsmiddeltrygghet)*.
+
+2. For opprettelsen av en unionsliste over næringsmiddelenzymer, nevnt i artikkel 17 i forordning [(EF) nr. 1332/2008](eu/32008r1332), skal fristen for framlegging av søknader være 24 måneder etter anvendelsesdatoen for gjennomføringstiltakene fastsatt i denne forordning.
+
+### Artikkel 4. Administrative opplysninger
+
+De administrative opplysningene nevnt i artikkel 2 nr. 3 bokstav a), skal omfatte:navn, adresse og kontaktopplysninger for søkeren (selskap, organisasjon osv.),navn, adresse og kontaktopplysninger for produsenten(e) av stoffet, dersom det er forskjellig fra søkerens,navn, adresse og kontaktopplysninger for personen som er ansvarlig for dokumentasjonen,dato for innsending av dokumentasjonen,søknadstype, dvs. om søknaden gjelder et tilsetningsstoff, et næringsmiddelenzym eller en aroma,dersom det er relevant, kjemisk betegnelse i henhold til IUPAC-nomenklaturen,dersom det er relevant, tilsetningsstoffets E-nummer som definert i Unionens regelverk om tilsetningsstoffer i næringsmidler,dersom det er relevant, en henvisning til lignende godkjente næringsmiddelenzymer,dersom det er relevant, aromastoffets FL-nummer som definert i Unions regelverk om aromaer,dersom det er relevant, opplysninger om tillatelser som omfattes av europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôr,1innholdsfortegnelse for dokumentasjonen,liste over dokumenter og andre opplysninger. Søkeren skal angi antall bind med dokumentasjon som er framlagt til støtte for søknaden, og titlene på disse. Et detaljert register med henvisning til bind og sider skal legges ved,
+►**M2**dersom søkeren i samsvar med artikkel 12 i forordning [(EF) nr. 1331/2008](eu/32008r1331) inngir en anmodning om fortrolig behandling av visse opplysninger i dokumentasjonen, herunder tilleggsopplysninger, en liste over de opplysningene som skal behandles fortrolig, sammen med en verifiserbar begrunnelse som viser hvordan offentliggjøring av disse opplysningene kan skade søkerens interesser i vesentlig grad,en liste over de undersøkelsene som er inngitt til støtte for søknaden, herunder opplysninger som viser overholdelse av artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178).
+◄**M2**
+
+### Artikkel 5. Alminnelige bestemmelser om opplysninger som kreves i forbindelse med en risikovurdering
+
+1. Dokumentasjonen som framlegges til støtte for en søknad om sikkerhetsvurdering av et stoff, skal muliggjøre en omfattende risikovurdering av stoffet og en kontroll av at stoffet ikke utgjør en trussel mot forbrukernes helse i henhold til artikkel 6 bokstav a) i forordning [(EF) nr. 1332/2008](eu/32008r1332), artikkel 6 nr. 1 bokstav a) i forordning [(EF) nr. 1333/2008](eu/32008r1333) og artikkel 4 bokstav a) i forordning [(EF) nr. 1334/2008](eu/32008r1334).
+
+2. Dokumentasjonen for søknaden skal omfatte alle de tilgjengelige opplysningene som er relevante med henblikk på risikovurderingen (dvs. fullstendige offentliggjorte artikler til alle de angitte referansene eller fullstendige kopier av de opprinnelige undersøkelsene som ikke er offentliggjorte).
+
+3. Søkeren kan ta hensyn til de seneste tekniske retningslinjer som Myndigheten har vedtatt eller godkjent og som er tilgjengelige på det tidspunkt søknaden inngis (*EFSA Journal*).
+
+4. Det skal inngis dokumentasjon om framgangsmåten som ble fulgt ved innsamling av opplysninger, herunder strategier ved litteratursøk (antakelser som er gjort, søkeord og databaser som er benyttet, tidsperiode som er dekket, begrensningskriterier osv.) og det samlede resultat av et slikt søk.
+
+5. Strategien for sikkerhetsvurdering og den tilsvarende prøvingsstrategien skal beskrives, og det skal gis begrunnelser for hvorfor særskilte undersøkelser og/eller opplysninger tas med eller utelukkes.
+
+6. De enkelte rådataene fra undersøkelser som ikke er offentliggjorte og, dersom det er mulig, rådata fra offentliggjorte undersøkelser samt enkeltresultater fra undersøkelser, skal på anmodning gjøres tilgjengelige for Myndigheten.
+
+7. For hver biologiske eller toksikologiske undersøkelse skal det presiseres om prøvematerialet samsvarer med den foreslåtte eller eksisterende spesifikasjonen. Dersom prøvematerialet skiller seg fra spesifikasjonen, skal søkeren dokumentere at opplysningene er relevante for det aktuelle stoffet.Toksikologiske undersøkelser skal utføres i anlegg som oppfyller kravene i europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) eller, dersom de utføres utenfor Unionens territorium, skal OECDs prinsipper for god laboratoriepraksis (GLP) følges. Søkeren skal dokumentere at kravene er oppfylt. For undersøkelser som ikke utføres i samsvar med standardprotokoller, skal det framlegges en vurdering av opplysningene samt en begrunnelse for hvorfor de er egnet til risikovurderingen.
+
+8. Søkeren skal foreslå en overordnet konklusjon om sikkerheten ved den foreslåtte bruken av stoffet. Den overordnede vurderingen av de mulige risikoene for menneskers helse skal foretas med hensyn til menneskers kjente eller sannsynlige eksponering.
+
+### Artikkel 6. Spesifikke opplysninger som kreves for risikovurdering av tilsetningsstoffer i næringsmidler
+
+1. I tillegg til opplysningene som skal framlegges i henhold til artikkel 5, skal det inngis opplysninger om følgende:tilsetningsstoffets identitet og karakteristikk, herunder foreslåtte spesifikasjoner og analysedata,partikkelstørrelse, fordeling av partikkelstørrelse og andre fysisk-kjemiske kjennetegn, dersom det er relevant,framstillingsprosessen,forekomst av urenheter,stabilitet, reaksjon og nedbrytning i næringsmidler der stoffet tilsettes,eksisterende godkjenninger og risikovurderinger, dersom det er relevant,foreslåtte normale og høyeste tillatte grenseverdi for bruk for næringsmiddelkategoriene nevnt på unionslisten eller i en nylig foreslått næringsmiddelkategori eller i et mer spesifikt næringsmiddel som tilhører en av disse kategorier;vurdering av eksponering gjennom kosten,biologiske og toksikologiske opplysninger.
+
+2. De biologiske og toksikologiske opplysningene nevnt i nr. 1 i), skal omfatte følgende hovedområder:toksikenetikk,subkronisk giftighet,genotoksisitet,kronisk giftighet/kreftframkallende virkninger,reproduksjons- og utviklingstoksisitet.
+
+### Artikkel 7. Opplysninger som kreves for risikohåndtering av tilsetningsstoffer i næringsmidler
+
+1. Dokumentasjonen som framlegges til støtte for en søknad, skal omfatte de opplysninger som er nødvendige for å bekrefte om det foreligger et rimelig teknisk behov som ikke kan oppnås på andre økonomiske og teknologiske gjennomførbare måter og opplysninger om den foreslåtte bruken villeder forbrukeren i henhold til artikkel 6 nr. 1 i forordning [(EF) nr. 1333/2008](eu/32008r1333).
+
+2. For å sikre kontrollen nevnt i nr. 1 skal hensiktsmessige og tilstrekkelige opplysninger framlegges om følgende:tilsetningsstoffets identitet, herunder henvisning til eksisterende spesifikasjoner,funksjon og teknologisk behov for nivået som foreslås for næringsmiddelkategoriene eller produktene som søknaden om godkjenning gjelder for, og en begrunnelse for hvorfor dette ikke kan oppnås på andre økonomiske og teknologiske gjennomførbare måter,undersøkelser for å se om tilsetningsstoffet har tilsiktet virkning ved det foreslåtte bruksnivået,fordeler for forbrukeren. Søkeren skal ta hensyn til kravene fastsatt i artikkel 6 nr. 2 i forordning [(EF) nr. 1333/2008](eu/32008r1333),hvorfor bruken ikke villeder forbrukeren,foreslåtte normale og høyeste tillatte grenseverdi for bruk for næringsmiddelkategoriene nevnt på unionslisten eller i en nylig foreslått næringsmiddelkategori eller i et mer spesifikt næringsmiddel som tilhører en av disse kategorier,eksponeringsvurderingen, basert på normale eller maksimale grensenivåer for bruk for hver berørte kategori eller produkt,mengden tilsetningsstoff i det endelige næringsmiddelet slik det inntas av forbruker,analysemetoder som muliggjør identifisering og kvantifisering av tilsetningsstoffet og dets restmengder i næringsmidler,overholdelse av de særlige vilkårene for søtstoffer og fargestoffer fastsatt i artikkel 7 og 8 i forordning [(EF) nr. 1333/2008](eu/32008r1333), dersom det er relevant.
+
+### Artikkel 8. Spesifikke opplysninger som kreves for risikovurdering av næringsmiddelenzymer
+
+1. I tillegg til opplysningene som skal framlegges i henhold til artikkel 5, skal det inngis opplysninger om følgende:navn, synonymer, forkortelser og klassifisering(er),enzymkommisjonens nummer,foreslåtte spesifikasjoner, herunder opprinnelse,egenskaper,henvisning til eventuelle lignende næringsmiddelenzymer.kildematerialet,framstillingsprosessen,stabilitet, reaksjon og nedbrytning i næringsmidler der enzymet brukes,eksisterende godkjenninger og vurderinger, dersom det er relevant,foreslått bruk i næringsmidler og, dersom det er relevant, foreslåtte normale eller høyeste tillatte grenseverdi for bruk,vurdering av eksponering gjennom kosten,biologiske og toksikologiske opplysninger.
+
+2. De biologiske og toksikologiske opplysningene nevnt i nr. 1 bokstav i), skal omfatte følgende hovedområder:subkronisk giftighet,genotoksisitet.► **M1**
+
+3. Som unntak fra nr. 1 bokstav l) er det ikke nødvendig at den dokumentasjonen som framlegges for å underbygge en søknad om sikkerhetsvurdering av et næringsmiddelenzym, omfatter toksikologiske opplysninger, dersom det berørte næringsmiddelenzymet er framstilt avspiselige deler av planter eller dyr som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker,mikroorganismer med QPS-status.
+
+4. Nr. 3 får ikke anvendelse når de berørte planter eller dyr er genmodifiserte organismer som definert i artikkel 2 nr. 5 i forordning [(EF) nr. 1829/2003](eu/32003r1829), eller når de berørte mikroorganismer er genmodifiserte mikroorganismer som definert i artikkel 2 bokstav b) i direktiv [2009/41/EF](eu/32009l0041).1 Nr. 3 bokstav b) får imidlertid anvendelse på mikroorganismer som er genmodifisert ved hjelp av teknikker/metoder som oppført i del A nr. 4 i vedlegg II til direktiv [2009/41/EF](eu/32009l0041).
+
+5. Næringsmiddelenzymer kan samles i én og samme søknad under forutsetning av at de har samme katalytiske aktivitet, er framstilt av samme utgangsmateriale (f.eks. på artsnivå) og i hovedsak ved samme framstillingsprosess, samt at de er framstilt avspiselige deler av planter eller dyr som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker,mikroorganismer med QPS-status, ellermikroorganismer som er brukt i framstillingen av næringsmiddelenzymer som er vurdert og godkjent av vedkommende myndigheter i enten Frankrike eller Danmark i henhold til SCFs retningslinjer fra 1992.
+
+6. Nr. 5 får ikke anvendelse når de berørte planter eller dyr er genmodifiserte organismer som definert i artikkel 2 nr. 5 i forordning [(EF) nr. 1829/2003](eu/32003r1829), eller når de berørte mikroorganismer er genmodifiserte mikroorganismer som definert i artikkel 2 bokstav b) i direktiv [2009/41/EF](eu/32009l0041).◄ **M1**
+
+### Artikkel 9. Opplysninger som kreves for risikohåndtering av næringsmiddelenzymer
+
+1. Dokumentasjonen som inngis til støtte for en søknad skal omfatte de opplysninger som er nødvendige for å bekrefte om det foreligger et rimelig teknisk behov og om den foreslåtte bruken villeder forbrukeren i henhold til artikkel 6 bokstav b) og c) i forordning [(EF) nr. 1332/2008](eu/32008r1332).
+
+2. For å sikre kontrollen nevnt i nr. 1, skal det framlegges hensiktsmessige og tilstrekkelige opplysninger om følgende:næringsmiddelenzymets identitet, herunder henvisning til eksisterende spesifikasjoner,funksjonen og det tekniske behovet, herunder en beskrivelse av den eller de prosesser der næringsmiddelenzymet kan brukes,næringsmiddelenzymets innvirkning på det ferdige næringsmiddelet,hvorfor bruken ikke villeder forbrukeren,foreslåtte og høyeste tillatte grenseverdi for bruk, dersom det er aktuelt,vurdering av eksponering gjennom kosten, som beskrevet i Myndighetens retningslinjer for næringsmiddelenzymer.1
+
+### Artikkel 10. Spesifikke opplysninger som kreves for risikovurdering av aromaer
+
+1. I tillegg til opplysningene som skal framlegges i henhold til artikkel 5, skal det inngis opplysninger om følgende:framstillingsprosessen,spesifikasjoner,opplysninger om partikkelstørrelse, fordeling av partikkelstørrelse og andre fysisk-kjemiske kjennetegn, dersom det er relevant,eksisterende godkjenninger og vurderinger, dersom det er relevant,foreslått bruk i næringsmidler og foreslåtte normale eller høyeste tillatte grenseverdi for bruk i kategoriene i henhold til unionslisten eller i en mer spesifikk produkttype som tilhører en av disse kategorier,opplysninger om kilder i kostholdet,vurdering av eksponering gjennom kosten,biologiske og toksikologiske opplysninger.
+
+2. De biologiske og toksikologiske opplysningene nevnt i nr. 1 bokstav h), skal omfatte følgende hovedområder:undersøkelse av strukturelle/metaboliske likheter med aromastoffer i en eksisterende evaluering av aromastoffer,genotoksisitet,subkronisk giftighet, dersom det er relevant,utviklingstoksisitet, dersom det er relevant,opplysninger om kronisk giftighet og kreftframkallende virkning, dersom det er relevant.
+
+### Artikkel 11. Opplysninger som kreves for risikohåndtering av aromaer
+
+Dokumentasjonen som framlegges til støtte for en søknad skal omfatte følgende opplysninger:aromaens identitet, herunder henvisning til eksisterende spesifikasjoner,stoffets organoleptiske egenskaper,foreslåtte normale eller høyeste tillatte grenseverdi for bruk i næringsmiddelkategorier eller i et mer spesifikt næringsmiddel som tilhører en av disse kategorier,eksponeringsvurderingen, basert på normale eller maksimale bruksnivåer for hver berørte kategori eller produkt.
+
+### Kapittel III
+Nærmere bestemmelser om kontroll av søknadens gyldighet
+
+### Artikkel 12. Prosedyrer
+
+1. Når Kommisjonen mottar en søknad, skal den uten unødig opphold kontrollere om næringsmiddeltilsetningen, næringsmiddelenzymet eller næringsmiddelaromaen faller innenfor virkeområdet for den relevante sektorforordningen om næringsmidler, om søknaden inneholder alle opplysningene som kreves i henhold til kapittel II, og om den oppfyller kravene i artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178).
+
+2. Kommisjonen kan rådføre seg med myndigheten om egnetheten av opplysningene for risikovurdering i samsvar med de vitenskapelige uttalelsene om hvilke data som kreves for å evaluere søknader om godkjenning av stoffer, og om hvorvidt søknaden oppfyller kravene i artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178). Myndigheten skal meddele Kommisjonen sine synspunkter innen 30 virkedager.
+
+3. Dersom Kommisjonen anser søknaden som gyldig, skal evalueringsperioden nevnt i artikkel 5 nr. 1 i forordning [(EF) nr. 1331/2008](eu/32008r1331) begynne på datoen for mottak av myndighetens svar som nevnt i nr. 2 i denne artikkelen.I samsvar med artikkel 17 nr. 4 andre ledd bokstav a) i forordning [(EF) nr. 1332/2008](eu/32008r1332) får imidlertid artikkel 5 nr. 1 i forordning (EF) nr. 1331/2008 ikke anvendelse ved opprettelse av EU-listen over næringsmiddelenzymer.
+
+4. Når det gjelder søknader om oppdatering av EU-listen over næringsmiddeltilsetninger, næringsmiddelenzymer eller næringsmiddelaromaer, kan Kommisjonen be om tilleggsopplysninger fra søkeren i spørsmål som gjelder søknadens gyldighet, og skal i så fall underrette søkeren om fristen for å gi disse opplysningene. Når det gjelder søknader inngitt i samsvar med artikkel 17 nr. 2 i forordning [(EF) nr. 1332/2008](eu/32008r1332), skal Kommisjonen fastsette denne fristen i samråd med søkeren.
+
+5. Søknaden skal anses som ugyldig dersomden ikke faller innenfor virkeområdet for den relevante sektorforordningen om næringsmidler,den ikke inneholder alle opplysningene som kreves i henhold til kapittel II,den ikke oppfyller kravene i artikkel 32b i forordning [(EF) nr. 178/2002](eu/32002r0178), ellermyndigheten anser at opplysningene for risikovurdering ikke er egnet.I slike tilfeller skal Kommisjonen underrette søkeren, medlemsstatene og myndigheten og begrunne hvorfor søknaden anses som ugyldig.
+
+6. Som unntak fra nr. 5 i og uten at det berører artikkel 32b nr. 4 og 5 i forordning [(EU) 178/2002](eu/32002r0178), kan en søknad anses som gyldig selv om den ikke inneholder alle opplysningene som kreves i henhold til kapittel II, forutsatt at søkeren har gitt en tilfredsstillende begrunnelse for hver manglende opplysning.
+
+### Kapittel IV
+Uttalelse fra myndigheten
+
+### Artikkel 13. Opplysninger som skal være med i Myndighetens uttalelse
+
+1. Uttalelsen fra Myndigheten skal inneholde følgende opplysninger:identitet for og karakterisering av tilsetningsstoffer, enzymer eller aromaer i næringsmidler,vurderingen av biologiske og toksikologiske opplysninger,en vurdering av den europeiske befolknings eksponering gjennom kosten med hensyn til andre mulige kilder til eksponering gjennom kosten,en samlet risikovurdering som fastsetter en veiledende helsebasert verdi dersom det er mulig og relevant, og som gjør oppmerksom på usikkerhet og begrensninger dersom det er relevant,når eksponeringen gjennom kosten overstiger de veiledende helsebaserte verdiene fastsatt i den samlede risikovurderingen, skal eksponeringsvurderingen av stoffet være detaljert og, dersom det er mulig, angi bidraget til den samlede eksponeringen for hver næringsmiddelkategori eller næringsmiddel for hvilke anvendelsen er eller søkes godkjent,konklusjoner,
+►**M2**resultatene av høringer som er gjennomført under risikovurderingsprosessen i samsvar med artikkel 32c nr. 2 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+◄**M2**
+
+2. Kommisjonen kan be om mer spesifikke tilleggsopplysninger i sin anmodning om en uttalelse fra Myndigheten.
+
+### Kapittel V
+Sluttbestemmelser
+
+### Artikkel 14. Ikrafttredelse og anvendelse
+
+Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
+
+Den får anvendelse fra 11. september 2011.
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel, 10. mars 2011.
+
+*For Kommisjonen*José Manuel BARROSO*President*
+
+### Vedlegg
+
+## Forordninger i pdf
+
+Nedenfor gjengis forordning [(EU) nr. 1331/2008](eu/32008r1331), forordning [(EU) nr. 234/2011](eu/32011r0234) og forordning [(EU) nr. 562/2012](eu/32012r0562).
+
+> Endret ved [forskrifter 18 juni 2012 nr. 547](forskrift/2012-06-18-547), [19 mars 2013 nr. 293](forskrift/2013-03-19-293) med rettelse 13. juni 2013.

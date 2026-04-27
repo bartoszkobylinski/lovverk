@@ -1,0 +1,274 @@
+---
+id: "sf-20201208-2646"
+slug: "forskrift-om-økonomiforvaltningen-i-sokn-i-den-norske-kirke"
+type: "forskrift"
+ref_id: "forskrift/2020-12-08-2646"
+title: "Forskrift om økonomiforvaltningen i sokn i Den norske kirke"
+short_title: "Forskrift om økonomiforvaltningen i sokn i Den norske kirke"
+language: "no"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2021-01-01"
+last_change_in_force: "2024-06-05"
+last_updated: null
+xml_hash: "173d756e3bc68983dd6ecbdb5063244d46afbc6d81d5c8e7efe50370c212b94c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om økonomiforvaltningen i sokn i Den norske kirke
+
+## § 1. Formål
+
+Forskriftens formål er å legge til rette for en tjenlig og forsvarlig økonomiforvaltning i soknets organer, og på den måten sikre en god økonomistyring i den virksomhet som disse organene har ansvar for.
+
+## § 2. Virkeområde
+
+Forskriften gjelder for soknets organer, virksomheter under disse organene som har egne inntekter og som disponerer disse etter vedtak i egne styringsorganer, og for samarbeidstiltak hvor midler disponeres etter vedtak av styringsorganer for denne virksomheten.
+
+## § 3. Grunnleggende krav til økonomiforvaltningen
+
+Soknets organer skal forvalte økonomien slik at den økonomiske handleevnen blir ivaretatt over tid, og skal utarbeide samordnete og realistiske planer for egen virksomhet og økonomi. Soknets organer skal forvalte finansielle midler og gjeld på en måte som ikke innebærer vesentlig finansiell risiko, blant annet slik at betalingsforpliktelser kan innfris ved forfall.
+
+## § 4. Grunnleggende regnskapsprinsipper og god kommunal regnskapsskikk
+
+(1) Årsregnskapene skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:All tilgang på og bruk av midler i året skal framgå av driftsregnskapet eller investeringsregnskapet.All tilgang på og bruk av midler skal regnskapsføres brutto.Alle kjente utgifter og inntekter i året skal tas med i årsregnskapet for vedkommende år, enten de er betalt eller ikke når årsregnskapet avsluttes.Påløpt pensjonspremie i et kalenderår utgiftsføres.Dersom størrelsen på et beløp er usikkert, brukes beste estimat.
+
+(2) Årsregnskapene skal føres i samsvar med god kommunal regnskapsskikk.
+
+(3) Årsregnskapene skal bestå av et driftsregnskap og et investeringsregnskap. Driftsregnskapet og investeringsregnskapet skal deles inn og stilles opp på samme måte som årsbudsjettet. Årsregnskapene skal også bestå av et balanseregnskap og noteopplysninger.
+
+(4) Virkninger av endring av regnskapsprinsipp føres direkte mot egenkapitalen. Virkninger som påvirker arbeidskapitalen, føres mot konto for prinsippendringer. Virkninger som påvirker anleggsmidler eller langsiktig gjeld, føres mot kapitalkonto.
+
+(5) Forskuddsbetalte avgifter for feste av grav kan inntektsføres når de innbetales.
+
+> Endret ved forskrift [5 juni 2024 nr. 939](forskrift/2024-06-05-939).
+
+## § 5. Definisjoner
+
+1. *Årsbudsjett:* Består av driftsbudsjett og investeringsbudsjett. Det er en oppstilling over forventede inntekter og bruk av avsetninger i budsjettåret på den ene siden og forventede utgifter og avsetninger i budsjettåret på den annen side.
+2. *Driftsbudsjett:* En oppstilling av forventede løpende inntekter og bruk av avsetninger i budsjettåret og løpende utgifter og avsetninger som skal dekkes inn ved bruk av disse inntektene.
+3. *Investeringsbudsjett:* En oppstilling over investeringsutgifter og hvordan disse finansieres.
+4. *Inntekter:* Godtgjørelse til soknets organer for salg av varer tjenester samt overføringer fra andre uten motytelse.
+5. *Utgifter:* Godtgjørelse fra soknets organer for kjøp av varer og tjenester, samt overføringer til andre uten motytelse.
+6. *Løpende inntekter:* Påregnelige inntekter som kommer igjen med jevne mellomrom.
+7. *Kommunal tjenesteyting:* Kommunal tjenesteyting i stedet for særskilt bevilgning, jf. [trossamfunnsloven § 14](lov/2020-04-24-31/§14) tredje ledd og [gravplassloven § 3](lov/1996-06-07-32/§3) annet ledd, knyttet til nærmere avtalte driftsoppgaver eller gjennomføring av avtalte investeringsprosjekter.
+8. *Budsjettmyndighet:* Myndighet til å vedta årsbudsjettet og reguleringer av dette. Myndigheten omfatter både inntekts- og utgiftssiden i budsjettene.
+9. *Bevilgning:* Den økonomiske ramme som soknets organer har vedtatt og som kan disponeres av underordnet organ (også administrasjonen) i budsjettåret.
+10. *Disponeringsfullmakt:* Myndighet til å disponere de bevilgninger som er ført opp i årsbudsjettet.
+11. *Soknets organer:* menighetsrådet, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) tredje ledd, eller fellesorgan for flere sokn opprettet i medhold av [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd, jf. [§ 12](lov/2020-04-24-31/§12) annet ledd.
+12. *Organ for soknet på kommunenivå:* Organ for ett eller flere sokn som til sammen dekker minst én kommune.
+
+## § 6. Økonomiplan
+
+(1) Organ for soknet på kommunenivå skal én gang i året vedta en rullerende økonomiplan.
+
+(2) Økonomiplanen skal omfatte minst de fire neste budsjettårene.
+
+(3) Økonomiplanen skal omfatte hele virksomheten og gi en realistisk oversikt over sannsynlige inntekter, forventede utgifter og prioriterte oppgaver i planperioden. Planen skal være satt opp på en oversiktlig måte.
+
+(4) I økonomiplanen skal det for hvert år i planperioden vises hvordan de oppførte utgifter og tiltak skal finansieres.
+
+(5) Planer som omfatter avgrensede deler av virksomheten, skal integreres i økonomiplanleggingen og bruken av midler innarbeides i planen.
+
+(6) Økonomiplanen og endringer i denne vedtas på grunnlag av innstilling fra den økonomireglementet bestemmer.
+
+## § 7. Budsjettforslaget til kommunen
+
+(1) Organ for soknet på kommunenivå skal hvert år fremme ett samlet forslag til kommunen om bevilgninger over kommunens budsjett til den kirkelige virksomheten i kommunen, samt forslag til bevilgninger i økonomiplanperioden. Forslaget skal bygge på økonomiplanen.
+
+(2) Organ for soknet på kommunenivå skal i økonomireglementet fastsette hvordan arbeidet med å utarbeide budsjettet skal legges opp, blant annet slik at medvirkning fra soknene sikres.
+
+## § 8. Årsbudsjettet
+
+(1) Årsbudsjettet er en bindende plan for midlene til soknets organer og anvendelsen av disse i budsjettåret.
+
+(2) Organ for soknet på kommunenivå skal vedta årsbudsjettet innen årets begynnelse eller senest innen 1 måned etter at kommunens bevilgning er kjent.
+
+(3) Sokn i kommuner med flere sokn skal vedta sitt årsbudsjett innen årets begynnelse, eller senest innen 1 måned etter at eventuelle overføringer fra organ for soknet på kommunenivå er kjent.
+
+(4) Soknets organer vedtar selv sitt årsbudsjett. Vedtak treffes på grunnlag av innstilling fra den organets økonomireglement bestemmer. Endringer i årsbudsjettet skjer slik økonomireglementet bestemmer.
+
+## § 9. Årsbudsjettets innhold
+
+(1) Årsbudsjettet skal omfatte all virksomhet det respektive organet for soknet har ansvar for, jf. [§ 2](forskrift/2020-12-08-2646/§2). Årsbudsjettet skal være realistisk. Det skal vedtas på grunnlag av de inntekter og utgifter som organet kan forvente i budsjettåret.
+
+(2) Årsbudsjettet skal stilles opp på en oversiktlig måte og i samsvar med oppstillingskrav i forskriftens vedlegg 1A og 1B. Soknets organer avgjør selv hvordan ytterligere inndeling av deres budsjett skal skje. Prioriteringer, målsettinger og premisser som budsjettet bygger på, skal komme tydelig fram. De enkelte bevilgningene skal føres opp med beløp og tekst som angir hva bevilgningen gjelder. Årsbudsjettet skal vise beløp for det år budsjettet gjelder for, det foregående budsjettår og det sist avlagte årsregnskap.
+
+(3) Det skal vedtas separate drifts- og investeringsbudsjett dersom det skal foretas investeringer i budsjettåret.
+
+(4) Driftsbudsjettet skal omfatte:løpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbruk.
+
+(5) Driftsbudsjettet skal bare finansieres av løpende inntekter. Løpende inntekter som ikke benyttes i budsjettåret, skal settes av til driftsfond. Dersom soknets organer tidligere har vedtatt å fordele et regnskapsmessig merforbruk over flere år, skal slik avsetning være dekket inn. Tilsvarende gjelder for øvrige pliktige avsetninger.
+
+(6) Det skal budsjetteres med et brutto driftsresultat som minst gir tilstrekkelig dekning for renter, avdrag og nødvendige avsetninger.
+
+(7) Investeringsbudsjettet skal omfatte:utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av fond og avsetninger til investeringsfonddekning av tidligere års udekket beløp.
+
+(8) Investeringsbudsjettet skal settes opp i balanse slik at alle utgifter og avsetninger bevilgningsmessig er dekket inn.
+
+## § 10. Budsjettstyring
+
+Soknets organer skal påse at det gjennom budsjettåret legges fram rapporter som viser utviklingen i inntekter og utgifter sammenholdt med det vedtatte årsbudsjettet. Dersom det er grunn til å anta at det kan oppstå nevneverdige avvik i forhold til opprinnelig eller regulert årsbudsjett, skal det i rapporten foreslås nødvendige tiltak.
+
+## § 11. Endringer i årsbudsjettet
+
+Soknets organer er ansvarlig for at det foretas endringer i årsbudsjettet når dette må antas påkrevd.
+
+## § 12. Årsregnskap og årsberetning
+
+(1) Det skal for hvert kalenderår utarbeides årsregnskap og årsberetning.
+
+(2) Soknets organer vedtar selv sine årsregnskap. Vedtaket må angi disponering av regnskapsmessig mindreforbruk eller dekning av regnskapsmessig merforbruk.
+
+(3) I årsberetningen skal det gis opplysninger om forhold som er viktige for å bedømme den økonomiske stillingen til soknets organer og resultatet av virksomheten når dette ikke framgår av årsregnskapet. Årsberetningen skal redegjøre for vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet, samt om andre forhold av vesentlig betydning for virksomheten.
+
+(4) I årsberetningen skal det gjøres rede forden faktiske tilstanden når det gjelder kjønnslikestillingen, herunder kjønnsfordelingen i styrende organer,eventuelle likestillingstiltak som er iverksatt og som planlegges iverksatt for å fremme likestilling uavhengig av kjønn,eventuelle begrensninger når det gjelder tilgang til egne aktiviteter, styrende organer, verv eller stillinger som har sammenheng med ett eller flere diskrimineringsgrunnlag, ogeventuelle segregerte aktiviteter eller tilbud.
+
+## § 13. Årsregnskapets innhold
+
+(1) Driftsregnskapet skal omfatte:løpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbrukbruk av udisponert fra tidligere år (mindreforbruk).
+
+(2) Det skal bare utarbeides investeringsregnskap dersom det er foretatt eller budsjettert med investeringer i regnskapsåret. Investeringsregnskapet skal omfatte:utgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av fond og avsetninger til investeringsfonddekning av tidligere års udekket beløpbruk av tidligere års udisponerte beløp.
+
+(3) Driftsregnskap og investeringsregnskap skal stilles opp i henhold til vedlegg 2A og 2B til denne forskriften og vise regnskapstall på samme detaljeringsnivå som soknets organer har brukt i årsbudsjettet sitt. Oppstillingene skal minst vise beløp for vedkommende års regnskap, årsbudsjett og sist avlagte årsregnskap. I oppstillingene som legges fram for behandling i organ for soknet, kan uvesentlige poster slås sammen, og poster som ikke er aktuelle, kan utelates.
+
+(4) Balanseregnskapet skal vise status for eiendeler, egenkapital og gjeld ved utgangen av regnskapsåret. Det skal utarbeides i samsvar med [§ 15](forskrift/2020-12-08-2646/§15) og stilles opp i henhold til vedlegg 3 til denne forskriften. Balanseregnskapet skal minst vise beløp for sist avlagte årsregnskap i tillegg til årets regnskap.
+
+> Endret ved forskrift [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298).
+
+## § 14. Bokføring
+
+(1) Regnskapsopplysninger skal bokføres, spesifiseres, dokumenteres og oppbevares i samsvar med [bokføringsloven § 3](lov/2004-11-19-73/§3) til [§ 14](lov/2004-11-19-73/§14). For sokn i kommuner med flere sokn gjelder kun [bokføringsloven § 4](lov/2004-11-19-73/§4).
+
+(2) Dersom kontantsalg i en avgrenset virksomhet er mindre enn tre ganger folketrygdens grunnbeløp i løpet av et regnskapsår, kan kontantsalget dokumenteres etter reglene i [forskrift 1. desember 2004 nr. 1558 om bokføring](forskrift/2004-12-01-1558) delkapittel § 5-4 så langt de passer.
+
+(3) Pliktig regnskapsrapportering omfatter:Regnskapsrapportering etter [§ 12](forskrift/2020-12-08-2646/§12) i forskriften herRegnskapsrapportering som nevnt i [bokføringsloven § 3](lov/2004-11-19-73/§3), jf. [bokføringsforskriften § 2-1](forskrift/2004-12-01-1558/§2-1)Regnskapsrapportering fastsatt med hjemmel i [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. § 6](lov/2003-12-12-108/§6).
+
+(4) Ved utarbeidelse av pliktig spesifikasjon og ajourhold av bokføring innenfor virksomhet som ikke er bokføringspliktig etter [bokføringsloven § 2](lov/2004-11-19-73/§2) andre ledd, gjelder likevel ikke bestemmelsene i [bokføringsloven § 5](lov/2004-11-19-73/§5) og [§ 7](lov/2004-11-19-73/§7) om at dette skal ivaretas minimum hver fjerde måned, men kun bestemmelsene om hver periode med pliktig regnskapsrapportering.
+
+## § 15. Klassifisering og måling av eiendeler og gjeld
+
+(1) I balanseregnskapet er anleggsmidler definert som eiendeler bestemt til varig eie eller bruk for soknet. Anleggsmidler som soknets organer har forvaltningsansvaret for, skal aktiveres i deres balanseregnskap.
+
+(2) Andre eiendeler er omløpsmidler. Omløpsmidler skal vurderes til det laveste av anskaffelseskost og virkelig verdi.
+
+(3) Markedsbaserte finansielle omløpsmidler skal vurderes til virkelig verdi.
+
+(4) Anleggsmidler skal vurderes til anskaffelseskost. Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden bør likevel ikke være lengre enn5 år for IKT-utstyr og programvare, kontormaskiner og lignende10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy og lignende20 år for større nyttekjøretøy, større anleggsmaskiner og lignende40 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, veger og parkeringsplasser og lignende50 år for kirker, krematorier, orgler, gravplasser, installasjoner på gravplasser, administrasjonslokaler, menighetshus, institusjonslokaler, kulturbygg og lignende.
+
+(5) Avskrivningene skal være lineære, så fremt ikke noe annet følger av god kommunal regnskapsskikk.
+
+(6) Større varige driftsmidler som består av deler med ulik levetid, kan dekomponeres slik at delene av driftsmidlet avskrives hver for seg. Ved dekomponering skal gjennomsnittlig avskrivningstid for de ulike delene ikke være lengre enn det som fastsettes i medhold av fjerde ledd.
+
+(7) Avskrivningene skal starte senest året etter at anleggsmidlet er anskaffet eller tatt i bruk av virksomheten.
+
+(8) Anleggsmidler nedskrives til virkelig verdi ved et vesentlig og varig verdifall. Nedskrivningen reverseres i den grad grunnlaget for nedskrivningen faller bort.
+
+## § 16. Noter til årsregnskapet
+
+(1) I årsregnskapet skal det gis følgende tilleggsopplysninger i noter så langt opplysningene er aktuelle, med tydelig henvisning til hvilke elementer i årsregnskapet de knytter seg til:Det skal opplyses om forutsetninger (øremerking) for tilskuddet fra kommunen samt om verdien av kommunal tjenesteyting.Det skal gis en redegjørelse for pensjonsordning og pensjonsleverandør. Det skal som et minimum opplyses om brutto påløpt pensjonsforpliktelse, pensjonsmidler og netto pensjonsforpliktelse.For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året.Aksjer og andeler i selskaper som er ført opp som anleggsmidler skal spesifiseres etter selskap. Det skal opplyses om balanseført verdi, eventuell markedsverdi og eierandel i hvert selskap.Det skal gis en spesifikasjon over samlede avsetninger og bruk av avsetninger i regnskapsåret, samlet og for den enkelte fondstype.Det skal opplyses om foretatte strykninger av vedtatte avsetninger/bruk av fond, overføring drift/investering samt inndekning merforbruk, jf. [§ 17](forskrift/2020-12-08-2646/§17).Det skal gis en sammenfattende oversikt over transaksjoner som er ført mot kapitalkontoen i løpet av regnskapsåret.Det skal opplyses om ytelser til daglig leder i virksomheten og de samlede ytelsene til valgte medlemmer i det øverste organet.I forbindelse med sammenslåinger av sokn og organ for sokn på kommunenivå, skal det gis opplysninger i siste årsregnskap om interne mellomværende med sokn og organ for sokn som slås sammen spesifisert for omløpsmidler, anleggsmidler, kortsiktig og langsiktig gjeld. I første årsregnskap i nye sokn og organ for sokn på kommunenivå gis informasjon om etableringen av åpningsbalansen, herunder forskjellen mellom balanseverdier i de gamle sokn og organ for sokn per 31. desember foregående regnskapsår og åpningsbalansen.Det skal også gis noteopplysninger om andre forhold dersom opplysningene ikke framgår av årsregnskapet for øvrig og er vesentlige for vurderingen av den økonomiske utviklingen og stillingen.
+
+(2) Notene skal nummereres. I oppstillingene i årsregnskapet skal det så langt som mulig gis henvisninger fra regnskapsposter til tilhørende note.
+
+## § 17. Årsavslutningen, regnskapsfrister og behandlingen av årsregnskap
+
+(1) Regnskapet skal være framlagt innen 22. februar i året etter regnskapsåret. Årsregnskapet og årsberetningen fastsettes av soknets organer og undertegnes av valgt leder og daglig leder der det finnes, innen 20. mars. Revisor skal for hvert regnskapsår avgi revisjonsberetning innen 30. april.
+
+(2) Ved avslutningen av driftsregnskapet skal bruk av og avsetning til disposisjonsfond, overføring fra drift til investering og dekning av tidligere års merforbruk regnskapsføres i samsvar med budsjettet. Overføring fra drift til investering skal likevel reduseres dersom det er nødvendig for å unngå avsetning av løpende inntekter til investeringsfond.
+
+(3) Dersom driftsregnskapet viser et mindreforbruk, skal mindreforbruket reduseres så mye som mulig ved å stryke bruk av disposisjonsfond. Dersom driftsregnskapet viser et merforbruk, skal dette reduseres så mye som mulig ved å:stryke overføring til investeringstryke avsetning til disposisjonsfondstryke inndekning av tidligere års merforbruk.
+
+(4) Strykninger av budsjettert inndekning av tidligere års regnskapsmessige merforbruk kan først skje når strykninger etter tredje ledd bokstav a og b er gjennomført.
+
+(5) Unntatt fra strykning etter tredje og fjerde ledd er avsetninger som er begrunnet i at midlene i medhold av lov, forskrift eller avtale er reservert særskilte formål.
+
+(6) Dersom driftsregnskapet viser mindreforbruk etter at disposisjoner i andre til fjerde ledd er gjennomført, skal mindreforbruket føres opp til bruk i det året regnskapet legges fram.
+
+(7) Merforbruk som ikke kan dekkes på budsjettet i det året regnskapet legges fram, skal føres opp til dekning i det følgende års budsjett. Under særlige forhold kan soknets organer, etter å ha foretatt de nødvendige endringer i økonomiplanen, vedta at merforbruket skal dekkes over inntil ytterligere to år. Vedtak om utsatt inndekning i sokn i kommuner med flere sokn skal meldes til organ for soknet på kommunenivå. Vedtak om utsatt inndekning i organ for soknet på kommunenivå skal meldes til det organet i Den norske kirke som Kirkemøtet bestemmer.
+
+(8) Ved avslutningen av investeringsregnskapet skal bruk av fond og avsetning til investeringsfond, overføring fra drift til investering og dekning av tidligere års merforbruk regnskapsføres i samsvar med budsjettet. Dersom utgifter og avsetninger i investeringsregnskapet ikke fullt ut kan finansieres av inntekter og bruk av avsetninger i investeringsregnskapet, skal det udekkede beløpet reduseres så mye som mulig ved å stryke avsetninger til ubundet fond. Hvis investeringsregnskapet fortsatt viser udekket beløp etter strykninger, skal det udekkede beløpet føres opp til dekning på investeringsbudsjettet i det år regnskapet legges fram.
+
+(9) Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i åttende ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved åstryke overføring fra driftstryke bruk av lånstryke bruk av ubundet investeringsfond.
+
+(10) Hvis investeringsregnskapet viser et udisponert beløp etter at strykningene i niende ledd er gjennomført, skal det udisponerte beløpet føres opp til inntekt i investeringsbudsjettet i det året regnskapet legges fram.
+
+(11) Den delen av et lån som er brukt til å finansiere utgifter i regnskapsåret, føres i investeringsregnskapet. Den delen av et lån som ikke er brukt, registreres på memoriakonto for ubrukte lånemidler. Bruk av lån i investeringsregnskapet kan ikke være høyere enn det som er fastsatt i investeringsbudsjettet. Bruk av lån kan ikke være høyere enn utgiftene i investeringsregnskapet som ikke blir kompensert etter [merverdiavgiftskompensasjonsloven](lov/2003-12-12-108) og som med hjemmel i lov eller regler gitt av Kirkemøtet kan finansieres med lån. Bruk av lån kan likevel være høyere hvis bruken finansierer dekning av et tidligere års udekket beløp i investeringsregnskapet, og hvis det udekkede beløpet knytter seg til utgifter som med hjemmel i lov kan finansieres med lån.
+
+> Endret ved forskrift [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298).
+
+## § 18. Revisjon
+
+(1) Regnskapet skal revideres av statsautorisert revisor, registrert revisor eller revisor kvalifisert i samsvar med [forskrift 17. juni 2019 nr. 904 om kontrollutvalg og revisjon § 9](forskrift/2019-06-17-904/§9) tredje ledd. Revisor skal planlegge, gjennomføre, dokumentere og rapportere sitt arbeid i samsvar med lov og forskrift og god kommunal revisjonsskikk. Revisjonsberetning avgis til vedkommende organ for soknet.
+
+(2) For sokn i kommuner med flere sokn kan organ for sokn på kommunenivå godkjenne eller velge annen revisor enn nevnt i første ledd når soknets inntekter ikke var høyere enn fire ganger folketrygdens grunnbeløp i siste års regnskap. Det kan i slike tilfeller gjøres unntak fra første ledd annen setning.
+
+(3) Hvis revisor mener at årsregnskapet eller årsberetningen ikke bør vedtas slik de foreligger, skal dette angis særskilt. Hvis revisor i revisjonsberetningen konkluderer negativt eller ikke har tilstrekkelig grunnlag for å konkludere, skal kopi av revisjonsberetningen sendes det organet i Den norske kirke som Kirkemøtet bestemmer. Dette organet kan oppnevne et utvalg på tre medlemmer til å vurdere tiltak. Utvalgets medlemmer kan ikke være valgte eller oppnevnte medlemmer av vedkommende organ for soknet.
+
+(4) Dersom det ikke er avlagt regnskap innen 1. juli i året etter regnskapsåret, skal revisor innberette dette til det organet i Den norske kirke som Kirkemøtet bestemmer.
+
+## § 19. Rapportering
+
+(1) Soknets organer skal avgi opplysninger fra de kirkelige regnskapene til departementet eller til den departementet bestemmer. Opplysninger skal rapporteres elektronisk til Statistisk sentralbyrå innen 20. mars på den måten Statistisk sentralbyrå fastsetter.
+
+(2) Rapporteringen fra organ for soknet på kommunenivå skal skje i henhold til vedlegg 3 og 4A til denne forskriften. Anskaffelse og anvendelse av midler som vedrører flere funksjoner skal være fordelt på berørte funksjoner. Dersom utgifter og inntekter er ført både i drifts- og investeringsregnskapet, skal vedlegg 4A være spesifisert i en driftsdel og investeringsdel.
+
+(3) Rapportering fra sokn i kommuner med flere sokn skal foretas i henhold til vedlegg 3 og 4B uten krav til fordeling av utgiftsarter og inntektsarter på funksjoner. Dersom utgifter og inntekter er ført både i drifts- og investeringsregnskapet, skal vedlegg 4B være spesifisert i en driftsdel og investeringsdel.
+
+(4) For øvrig skal rapporteringen skje i henhold til de spesifikasjoner som fastsettes av departementet eller den departementet bestemmer.
+
+## § 20. Økonomireglement
+
+(1) Soknets organer skal vedta bestemmelser om økonomiforvaltningen i eget økonomireglement.
+
+(2) Dette skal minst inneholde bestemmelser om:delegering av myndighetutarbeidelse av budsjettforslag til kommunenvedtak og endring av årsbudsjettintern rapportering og budsjettoppfølgingframleggelse av årsregnskap og årsberetning.
+
+(3) Økonomireglementet for sokn i kommuner med flere sokn skal godkjennes av organ for soknet på kommunenivå.
+
+## § 21. Finansforvaltning
+
+(1) I den grad finansformue plasseres i annet enn bankinnskudd, skal et finansreglement ta stilling til:formålet med forvaltningengenerelle rammer og begrensninger for forvaltningenfinansiell risikorisikospredningrutiner for rapportering fra forvalter.
+
+(2) Midler tilhørende bundne fonds skal ikke plasseres slik at de utsettes for finansiell risiko.
+
+## § 22. Iverksetting
+
+Forskriften gjelder fra 1. januar 2021. Fra samme tidspunkt oppheves [forskrift 25. september 2003 nr. 1215 om økonomiforvaltningen for kirkelige fellesråd og menighetsråd i Den norske kirke](forskrift/2003-09-25-1215).
+
+## § 23. Overgangsregler
+
+Årsregnskapet for 2020 skal avlegges og vedtas i 2021 i samsvar med reglene i [forskrift 25. september 2003 nr. 1215 om økonomiforvaltningen for kirkelige fellesråd og menighetsråd i Den norske kirke](forskrift/2003-09-25-1215). Fristene i [§ 17](forskrift/2020-12-08-2646/§17) (1) og [§ 19](forskrift/2020-12-08-2646/§19) (1) i forskriften her gjelder for regnskapsåret 2020.
+
+## Vedlegg 1A. Budsjettskjema – Driftsbudsjettet
+
+> Endret ved forskrifter [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298), [16 nov 2022 nr. 1974](forskrift/2022-11-16-1974) (i kraft 1 jan 2023).
+
+## Vedlegg 1B. Budsjettskjema – Investeringsbudsjettet
+
+> Endret ved forskrifter [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298), [16 nov 2022 nr. 1974](forskrift/2022-11-16-1974) (i kraft 1 jan 2023).
+
+## Vedlegg 2A. Regnskapsskjema – Driftsregnskapet
+
+> Endret ved forskrifter [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298), [16 nov 2022 nr. 1974](forskrift/2022-11-16-1974) (i kraft 1 jan 2023).
+
+## Vedlegg 2B. Regnskapsskjema – Investeringsregnskapet
+
+> Endret ved forskrifter [26 nov 2021 nr. 3298](forskrift/2021-11-26-3298), [16 nov 2022 nr. 1974](forskrift/2022-11-16-1974) (i kraft 1 jan 2023).
+
+## Vedlegg 3. Balanse
+
+> Endret ved forskrift [16 nov 2022 nr. 1974](forskrift/2022-11-16-1974) (i kraft 1 jan 2023).
+
+Balanseregnskapet skal vise status for eiendeler, egenkapital og gjeld ved utgangen av regnskapsåret. Det skal stilles opp i henhold til oppstillingen nedenfor. Ved rapportering av årets balanseregnskap (regnskap (år t)) til Statistisk sentralbyrå skal kontoklasse 5 nyttes.*BALANSE**Regnskap (år t)**Regnskap
+(år t – 1)**EIENDELER:**A**Kap. 5.2**Anleggsmidler*5.27Faste eiendommer og anlegg5.24Utstyr, maskiner og transportmidler5.22Utlån5.21Aksjer og andeler*B**Kap. 5.1**Omløpsmidler*5.13Kortsiktige fordringer5.18Aksjer og andeler5.12Sertifikater5.11Obligasjoner5.10Kasse, bankinnskudd*C**SUM EIENDELER:**(A + B)**EGENKAPITAL OG GJELD:**D**Kap. 5.5**Egenkapital*5.56Disposisjonsfond5.51Bundne driftsfond5.53Ubundne investeringsfond5.55Bundne investeringsfond5.580Endring i regnskapsprinsipp som påvirker AK (investering)5.581Endring i regnskapsprinsipp som påvirker AK (drift)5.5950Regnskapsmessig mindreforbruk5.5900Regnskapsmessig merforbruk5.5960Udisponert i investeringsregnskapet5.5970Udekket i investeringsregnskapet5.5990Kapitalkonto*Gjeld**E**Kap. 5.4**Langsiktig gjeld*5.41Ihendehaverobligasjonslån5.43Sertifikatlån5.45Andre lån*F**Kap. 5.3**Kortsiktig gjeld*5.31Kassekredittlånt5.32Annen kortsiktig gjeld*G**SUM GJELD OG EGENKAPITAL:**(D + E + F)**Kap. 5.9**Memoriakonti*5.9100Ubrukte lånemidler5.9200-5.9899Andre memoriakonti5.9999Motkonto for memoriakontiene
+
+## Vedlegg 4A. Funksjoner og arter – organ for soknet på kommunenivå
+
+Organ for soknet på kommunenivå skal registrere økonomiske data slik at det kan rapporteres på funksjonene og artene oppgitt nedenfor. Ved rapportering av regnskapsopplysningene til Statistisk sentralbyrå skal driftsutgifter og -inntekter rapporteres på kontoklasse 3 og investeringsutgifter og -inntekter på kontoklasse 4.*Funksjoner*041Kirkelig Administrasjon042Kirker043Gravplasser044Annen kirkelig virksomhet045Barnehager089Finansieringstransaksjoner*Arter*010Fastlønn020Vikarer030Ekstrahjelp040Overtid050Annen lønn060Trekkpliktige godtgjørelser080Godtgjørelse folkevalgte090Pensjonsinnskudd095Trekkpliktige forsikringsordninger099Arbeidsgiveravgift100Kontormateriell110Aktivitetsrelatert forbruksmateriell/utstyr/tjenester120Annet forbruksmateriell130Post, bank, telefoni og datalinjer140Annonser, reklame, informasjon og representasjon150Opplæring, kurs (ikke oppg.pl.)155Reiseutgifter, opplæring (ikke oppg.pl.)160Utgifter og godtgjørelser for reiser og diett, bil mv. som er oppgavepliktige, men ikke trekkpliktige165Andre oppgavepliktige, men ikke trekkpliktige ytelser170Reiseutgifter/drift av egne transportmidler180Strøm/energi185Forsikringer190Leie av lokaler og grunn195Avgifter, gebyrer og lisenser200Inventar og utstyr210Leie, leasing, kjøp av transportmidler220Leie, leasing, kjøp av maskiner230Vedlikehold og byggetjenester, nybygg240Serviceavtaler og reparasjoner250Materialer til vedlikehold260Renhold, vaskeri og vaktmestertjenester265Vakthold og vektertjenester, alarmsystemer270Konsulenttjenester/kjøpte tjenester280Grunnerverv285Kjøp av eksisterende bygg og anlegg300Refusjon til staten/statlige institusjoner305Refusjon til rettssubjektet Den norske kirke330Refusjon til kommune340Refusjon til organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd350Refusjon til enkeltsokn370Refusjoner til andre380Interne overføringer390Kalkulatoriske utgifter ved kommunal tjenesteyting400Tilskudd til staten/statlige institusjoner405Tilskudd til rettssubjektet Den norske kirke429Merverdiavgift som gir rett til momskompensasjon430Tilskudd til kommunen/kommunale institusjoner440Tilskudd/gaver til organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd450Tilskudd/gaver til enkeltsokn465Overføring av ofringer/innsamlede midler til andre470Tilskudd/gaver til andre500Renteutgifter510Avdragsutgifter520Utlån, kjøp av aksjer og andeler530Dekning av tidligere års regnskapsmessige merforbruk/Dekning av tidligere års udekket540Avsetninger til ubundne fond550Avsetninger til bundne fond570Overføring til investeringsregnskapet580Regnskapsmessig mindreforbruk (overskudd)/udisponert590Avskrivninger600Brukerbetaling ved kirkelige tjenester610Betaling fra deltakere620Salg av varer og tjenester, gebyrer mv. utenfor avgiftsområdet630Husleieinntekter/utleie av lokaler/festeavgift650Avgiftspliktig salg av varer og tjenester660Salg av driftsmidler670Salg av fast eiendom700Refusjoner fra staten/statlige institusjoner705Refusjon fra rettssubjektet Den norske kirke710Sykelønnsrefusjon//refusjoner fra trygdeetaten729Kompensasjon for merverdiavgift730Refusjon fra kommunen/kommunale institusjoner740Refusjon fra organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd750Refusjon fra enkeltsokn770Refusjon fra andre780Interne overføringer790Kalkulatoriske inntekter ved kommunal tjenesteyting800Tilskudd fra staten/statlige institusjoner805Tilskudd fra rettssubjektet Den norske kirke830Tilskudd fra kommunen/kommunale institusjoner840Tilskudd fra organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd850Tilskudd fra enkeltsokn860Offer/innsamlet til egen virksomhet865Offer/innsamlet til annen virksomhet (eksterne offer)870Tilskudd/gaver fra andre900Renteinntekter905Utbytte910Bruk av lån920Mottatte avdrag på utlån, aksjesalg, andeler mv.930Bruk av tidligere års regnskapsmessige mindreforbruk/Bruk av tidligere års udisponert940Bruk av ubundne fond950Bruk av bundne fond970Overført fra driftsregnskapet980Regnskapsmessig merforbruk (underskudd)/Udekket990Motpost avskrivninger
+
+## Vedlegg 4B. Funksjoner og arter – sokn
+
+Sokn skal registrere økonomiske data slik at det kan rapporteres på artene oppgitt nedenfor. Det er ikke krav til at regnskapsopplysningene skal spesifiseres på funksjoner.010–099Lønn, sosiale utgifter, arbeidsgiveravgift100–299Kjøp av varer, tjenester og utstyr300Refusjon til staten/statlige institusjoner305Refusjon til rettssubjektet Den norske kirke330Refusjon til kommune340Refusjon til organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd350Refusjon til enkeltsokn370Refusjoner til andre390Kalkulatoriske utgifter ved kommunal tjenesteyting400Tilskudd til staten/statlige institusjoner405Tilskudd til rettssubjektet Den norske kirke429Merverdiavgift som gir rett til momskompensasjon430Tilskudd til kommunen/kommunale institusjoner440Tilskudd/gaver til organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd450Tilskudd//gaver til enkeltsokn465Overføring av ofringer/innsamlede midler til andre470Tilskudd/gaver til andre500Renteutgifter510Avdragsutgifter520Utlån, kjøp av aksjer og andeler530Dekning av tidligere års regnskapsmessige merforbruk/Dekning av tidligere års udekket540Avsetninger til ubundne fond550Avsetninger til bundne fond570Overføring til investeringsregnskapet580Regnskapsmessig mindreforbruk (overskudd)/udisponert590Avskrivninger600Brukerbetaling ved kirkelige tjenester610Betaling fra deltakere620Salg av varer og tjenester, gebyrer mv. utenfor avgiftsområdet630Husleieinntekter/utleie av lokaler/festeavgift650Avgiftspliktig salg av varer og tjenester660Salg av driftsmidler670Salg av fast eiendom700Refusjoner fra staten/statlige institusjoner705Refusjon fra rettssubjektet Den norske kirke710Sykelønnsrefusjon/refusjoner fra trygdeetaten729Kompensasjon for merverdiavgift730Refusjon fra kommunen/kommunale institusjoner740Refusjon fra organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd750Refusjon fra enkeltsokn770Refusjon fra andre790Kalkulatoriske inntekter ved kommunal tjenesteyting800Tilskudd fra staten//statlige institusjoner805Tilskudd fra rettssubjektet Den norske kirke830Tilskudd fra kommunen/kommunale institusjoner840Tilskudd fra organ for sokn på kommunenivå, jf. [trossamfunnsloven § 11](lov/2020-04-24-31/§11) fjerde ledd850Tilskudd fra enkeltsokn860Offer/innsamlet til egen virksomhet865Offer/innsamlet til annen virksomhet870Tilskudd/gaver fra andre900Renteinntekter905Utbytte910Bruk av lån920Mottatte avdrag på utlån, aksjesalg, andeler mv.930Bruk av tidligere års regnskapsmessige mindreforbruk/Bruk av tidligere års udisponert940Bruk av ubundne fond950Bruk av bundne fond970Overført fra driftsregnskapet980Regnskapsmessig merforbruk (underskudd)/udekket990Motpost avskrivninger

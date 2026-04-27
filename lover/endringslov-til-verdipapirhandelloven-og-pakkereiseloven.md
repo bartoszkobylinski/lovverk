@@ -1,0 +1,31 @@
+---
+id: "nl-20200424-032"
+slug: "endringslov-til-verdipapirhandelloven-og-pakkereiseloven"
+type: "lov"
+ref_id: "lov/2020-04-24-32"
+title: "Lov om endringer i verdipapirhandelloven (forskriftshjemmel om tilbudsprisen ved pliktig tilbud) og lov om endringer i pakkereiseloven (forskriftshjemmel om forlengelse av frist for tilbakebetaling)"
+short_title: "Endringslov til verdipapirhandelloven og pakkereiseloven"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2020-04-24"
+last_change_in_force: null
+last_updated: null
+xml_hash: "970d59d81c90a6c347a6cf890abd82b4c726f50d1d7ebce9a529275cb5329be9"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i verdipapirhandelloven (forskriftshjemmel om tilbudsprisen ved pliktig tilbud) og lov om endringer i pakkereiseloven (forskriftshjemmel om forlengelse av frist for tilbakebetaling)
+
+## I
+
+## II
+
+## III
+
+1. Loven trer i kraft straks. Opphevelsen av [verdipapirhandelloven § 6-10](lov/2007-06-29-75/§6-10) fjerde ledd nytt tredje punktum trer likevel i kraft fra den tid Kongen bestemmer.
+2. Departementet kan gi nærmere overgangsregler.

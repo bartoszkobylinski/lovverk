@@ -1,0 +1,40 @@
+---
+id: "nl-19820521-029"
+slug: "lov-om-opph-av-pensjonsordn-for-åremålstilsatte"
+type: "lov"
+ref_id: "lov/1982-05-21-29"
+title: "Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte"
+short_title: "Lov om opph. av pensjonsordn. for åremålstilsatte"
+language: "nb"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1982-05-21"
+last_change_in_force: "2011-01-01"
+last_updated: "2021-09-29"
+xml_hash: "d8fb172f9148503edf3d34ce6c9e00af242d379b39e3ff94127acc04cbc4410e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte
+
+## I.
+
+[Lov 9. november 1956 nr. 2](lov/1956-11-09-2) om pensjonsordning for åremålstilsatte oppheves.
+
+For den som ved denne lovs ikrafttreden innehar stilling omfattet av nevnte lovs § 1, eller er pensjonist eller har oppsatte pensjonsrettigheter, skal lovens regler fortsatt gjelde.
+
+## II.
+
+Full pensjon i Statens pensjonskasse etter høyeste lønnsklasse i statens alminnelige lønnsregulativ etter nevnte lovs § 4 første ledd, skal være 8 ganger folketrygdens grunnbeløp.
+
+Lov 28. juli 1949 om Statens pensjonskasse § 42 gjelder tilsvarende for pensjoner etter nevnte lov.
+
+> Endret ved [lover 8 jan 1988 nr. 1](lov/1988-01-08-1), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).
+
+## III.
+
+Denne lov trer i kraft straks.

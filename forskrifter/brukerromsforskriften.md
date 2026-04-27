@@ -1,0 +1,132 @@
+---
+id: "sf-20041217-1661"
+slug: "brukerromsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2004-12-17-1661"
+title: "Forskrift om ordning med brukerrom for inntak av narkotika (brukerromsforskriften)"
+short_title: "Brukerromsforskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2004-12-17"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "1e8c6a6a8f3efad415511ec53c042a065ebc26963b7d91b0c2aa456806169d1f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om ordning med brukerrom for inntak av narkotika (brukerromsforskriften)
+
+## § 1. Adgang til brukerromsordningens tjenester
+
+En person har lovlig adgang til brukerromsordningens tjenester når han eller hun er registrert som bruker av ordningen.
+
+For å bli registrert som bruker av ordningen, må en person halangvarig narkotikaavhengighet og en helseskadelig injeksjonspraksis, ogha fylt 18 år.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 2), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 2. Håndheving av adgangskriteriene og krav til dokumentasjon
+
+Personalet i brukerromsordningen avgjør om kriteriene for registrering etter [§ 1](forskrift/2004-12-17-1661/§1) andre ledd er oppfylt. Lederen av brukerromsordningen avgjør om en person skal nektes registrering.
+
+Hvis det er tvil om en person har fylt 18 år, kan det kreves legitimasjon eller annet aldersbevis.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 3), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 3. Regler for opptreden i brukerromsordningen
+
+Kommunen skal gi regler for brukerens opptreden i brukerromsordningen. Reglene skal forelegges departementet i forbindelse med søknad om godkjenning av brukerromsordningen.
+
+Ved opptreden som er i strid med gjeldende lovgivning, eller ved brudd på regler gitt av kommunen, kan en person bortvises fra brukerromsordningen for den tid lederen av brukerromsordningen bestemmer. En avgjørelse om bortvisning fra brukerromsordningen er ikke enkeltvedtak etter forvaltningsloven.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 4), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 4. Straffrihet mv.
+
+Straffriheten i brukerromsordningen omfatter en mengde narkotiske stoffer beregnet til ett enkelt inntak.
+
+Narkotiske stoffer til bruk i brukerromsordningen skal fremvises for personalet.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 5), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025).
+
+## § 5. Brukerromsordningens innhold
+
+Brukerromsordningen skal omfattetilbud til brukerne om generelle råd om injeksjonspraksis og mer skånsomme inntaksmåter enn injisering,tilbud til brukerne om generelle råd om hygiene og egenomsorg for å forebygge smitte og for å redusere risikoen for skade,utdeling av rent utstyr for injisering og inhalering til hver bruker,observasjon av brukerne under og etter inntaket av narkotika,tilbud om individuell og konkret rådgivning til hver bruker i forbindelse med inntaket av narkotika,tilbud om enkel individuell helsehjelp, som for eksempel sårstell,tilbud om rådgivning og informasjon om helse- og omsorgstjenester og sosiale tjenester ogformidling av kontakt med helse- og omsorgstjenesten eller sosialtjenesten dersom brukeren ønsker det.
+
+Departementet kan gjøre unntak fra kravene i første ledd bokstav f og g i forbindelse med godkjenning etter [brukerromsloven § 3](lov/2004-07-02-64/§3) eller ved søknad om endring. Et vilkår for unntak er at kommunen har tilsvarende tilbud rettet inn mot målgruppen et annet sted.
+
+Brukerromsordningen kan også omfatte tilbud om rusmiddelanalyse av de stoffene som skal inntas.
+
+Brukerromsordningen skal sikre rask tilgang til nødvendig helsehjelp gjennom et nært samarbeid med øvrig helse- og omsorgstjeneste.
+
+Ved lokaliseringen av brukerromsordningen, skal det tas hensyn til avstanden til og fremkommeligheten for ambulansetjenesten.
+
+Ved fastsettelsen av åpningstider og utformingen av brukerromsordningens lokaler, skal det tas hensyn til brukernes behov.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 6), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025).
+
+## § 6. Personalet
+
+Brukerromsordningen skal bemannes både med personer med helsefaglig utdanning og personer med sosialfaglig utdanning. Leder av brukerromsordningen skal ha helsefaglig utdanning som minst tilsvarer høgskolenivå.
+
+Alle ansatte skal regelmessig gjennomgå opplæring i førstehjelp til bruk ved overdoser.
+
+Kommunen må sørge for at de ansatte gis adekvat veiledning.
+
+Brukerromsordningen skal være tilstrekkelig bemannet til samtidig å kunne foreta adgangskontroll, observere under inntak av narkotika, gi individuell og konkret rådgivning i forbindelse med inntak av narkotika, gi individuell helsehjelp og kontrollere forholdene i fremmøterommet.
+
+Departementet kan gjøre unntak fra kravene i første og fjerde ledd når dette kan begrunnes i unntak etter [§ 5 andre ledd](forskrift/2004-12-17-1661/§5/ledd/2).
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 7), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025).
+
+## § 7. Plikt til å føre journal i brukerromsordningen
+
+Den som yter helsehjelp i brukerromsordningen plikter å føre journal etter reglene som er gitt i eller i medhold av [helsepersonelloven § 39](lov/1999-07-02-64/§39) og [§ 40](lov/1999-07-02-64/§40) med mindre noe annet følger av reglene i annet ledd.
+
+Det er ikke plikt til å føre journal for helsehjelp som nevnt i [§ 5](forskrift/2004-12-17-1661/§5) første ledd bokstav a–e, g og h.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 8), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 8. Helseopplysninger som kan behandles
+
+Kommunen kan behandle helseopplysninger som er nødvendig for å oppfylle regler gitt i brukerromsloven eller forskriften her, jf. [brukerromsloven § 5](lov/2004-07-02-64/§5). Kommunen kan ikke registrere andre helseopplysninger enn brukerens navn, eventuelt kombinert med bilde, alder, kjønn, bosted og tidspunkt for bruk av injiseringsrommet eller inhaleringsrommet.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 10), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 9. Formål med behandlingen av helseopplysningene
+
+Formålet med behandlingen av helseopplysningene er åholde oversikt over brukere med lovlig adgang til brukerromsordningens tjenester oggi et informasjonsgrunnlag for kommunens planlegging, tilrettelegging og drift av brukerromsordningen.
+
+Dersom personalet er i tvil om en person er registrert bruker av ordningens tjenester, kan personalet innhente opplysning om dette fra registeret, jf. første ledd bokstav a. Opplysninger fra registeret til bruk for kommunens planlegging, tilrettelegging og drift av brukerromsordningen, jf. første ledd bokstav b, skal behandles uten individualiserende kjennetegn.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 11), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 10. Sletting av helseopplysninger
+
+Kommunen kan ikke lagre helseopplysninger lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen av helseopplysningene.
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 12), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+## § 11. Tilsyn med helseregisteret
+
+Datatilsynet fører tilsyn med helseregistre som føres i brukerromsordningen, jf. [helseregisterloven § 26](lov/2014-06-20-43/§26).
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 13), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 12. Politiets kontrolladgang og håndheving av den offentlige ro og orden mv.
+
+Politiet kan ved mistanke om straffbar besittelse eller bruk av narkotika i brukerromsordningens lokaler eller tilstøtende behandlingsrom og på begjæring få opplysning om hvorvidt en identifisert person er registrert bruker av ordningens tjenester eller ikke, jf. [brukerromsloven § 6](lov/2004-07-02-64/§6) annet ledd.
+
+Politiet kan gripe inn for å sikre den offentlige ro og orden mv. i samsvar med [politiloven § 7](lov/1995-08-04-53/§7).
+
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 14), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+
+## § 13. Ikrafttredelse
+
+Denne forskriften trer i kraft 17. desember 2004.
+
+> Endret ved [forskrift 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 16).

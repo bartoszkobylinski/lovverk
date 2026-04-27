@@ -1,0 +1,38 @@
+---
+id: "sf-20250107-0008"
+slug: "anerkjennelse-av-visse-typer-legitimasjonsdokumenter-ved-reise-til-svalbard-jf-forskrift-om-kontroll-av-reisende-til-og-fra-svalbard-4-annet-ledd"
+type: "forskrift"
+ref_id: "forskrift/2025-01-07-8"
+title: "Anerkjennelse av visse typer legitimasjonsdokumenter ved reise til Svalbard, jf. forskrift om kontroll av reisende til og fra Svalbard § 4 annet ledd"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2025-01-07"
+last_change_in_force: null
+last_updated: null
+xml_hash: "daca50b32ba94b49775ac4b04a8249a4c3aac4469044db6c5ee4418008df9770"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Anerkjennelse av visse typer legitimasjonsdokumenter ved reise til Svalbard, jf. forskrift om kontroll av reisende til og fra Svalbard § 4 annet ledd
+
+Det vises til [forskrift 29. april 2022 nr. 643 om kontroll av reisende til og fra Svalbard § 4 annet ledd](forskrift/2022-04-29-643/§4/ledd/2) siste punktum, hvoretter «Sysselmesteren kan godta andre dokumenter som gyldig legitimasjonsdokument, for eksempel passerbrev etter [utlendingsforskriften § 12-9](forskrift/2009-10-15-1286/§12-9) og [§ 12-10](forskrift/2009-10-15-1286/§12-10).»
+
+I dag skal reisende ved reise til og fra Svalbard legitimere sin identitet ved gyldig pass, se [utlendingsforskriftens § 2-3 første ledd](forskrift/2009-10-15-1286/§2-3/ledd/1). Det fremkommer imidlertid av [grenseforskriften § 1-3 første ledd annet punktum](forskrift/2022-04-29-665/§1-3/ledd/1/setning/2) at nasjonalt ID-kort anses som godkjent reisedokument for norske statsborgere.
+
+På det norske fastlandet forholder politiets grensekontroll seg til [utlendingsforskriftens vedlegg 4](forskrift/2009-10-15-1286/vedlegg4), når det gjelder reiser til og fra Schengen. Dette vedlegget angir hvilke identitetsdokumenter som pr. 8. juli 2024 er godkjente som reisedokumenter, jf. [utlendingsforskriftens § 2-10](forskrift/2009-10-15-1286/§2-10). Som følge av dette aksepterer grensekontrollen (og flyselskapene) 31 ulike ID-kort som gyldige reisedokumenter i tillegg til gyldige pass. [Utlendingsforskriften § 2-10](forskrift/2009-10-15-1286/§2-10) er imidlertid ikke gjort gyldig for Svalbard, kfr. samme forskrift [§§ 1-1](forskrift/2009-10-15-1286/§1-1) til [1-19](forskrift/2009-10-15-1286/§1-19).
+
+En skjerpet håndheving fra grensekontrollen på fastlandets side vil medføre at utenlandske fastboende- og tilreisende kan reise inn i Riket, til det norske fastlandet, med gyldige legitimasjonsdokumenter utstedt av EØS- eller EFTA-land, jf. opplistingen som nevnt, men deretter ikke kan reise videre til (eller fra) Svalbard uten at disse i tillegg fremviser gyldig pass.
+
+En slik tilnærming fremstår som utilsiktet og kan motsatt ikke begrunnes ut fra kontrollformål som følger av eller begrunner utlendingslovgivningen.
+
+Som følge av dette finner Sysselmesteren det korrekt å anvende de fullmakter som fremgår av [forskrift om kontroll av reisende til og fra Svalbard, § 4 annet ledd](forskrift/2022-04-29-643/§4/ledd/2), siste punktum, og ved å treffe slik beslutning.
+
+Under henvisning til [forskrift 29. april 2022 nr. 643 om kontroll av reisende til og fra Svalbard § 4 annet ledd](forskrift/2022-04-29-643/§4/ledd/2) siste punktum godtar Sysselmesteren som gyldig legitimasjonsdokument, de dokumenter som fremgår av [vedlegg 4. Legitimasjonsdokument utstedt av EØS- eller EFTA-land som godkjennes som reisedokumenter](forskrift/2009-10-15-1286/vedlegg4).
+
+Denne beslutning gjøres gjeldende straks.

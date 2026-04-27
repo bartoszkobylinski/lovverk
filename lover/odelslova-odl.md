@@ -1,0 +1,740 @@
+---
+id: "nl-19740628-058"
+slug: "odelslova-odl"
+type: "lov"
+ref_id: "lov/1974-06-28-58"
+title: "Lov om odelsretten og åsetesretten (odelslova)"
+short_title: "Odelslova – odl"
+language: "nn"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "1975-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2021-07-02"
+xml_hash: "81af2c7ba55484db7c06fc3ae5beba853886fe286482167698cebefca4ac07d4"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om odelsretten og åsetesretten (odelslova)
+
+## Kap. I. – Kva som kan odlast (odlingsjord).
+
+### § 1. Kva det kan hevdast odel til. Definisjonar
+
+Odelsrett kan hevdast til fast eigedom som nemnt i [§ 2](lov/1974-06-28-58/§2). Slik eigedom blir kalla odlingsjord. Den som eig odlingsjord når odelshevdstida går ut, blir kalla odlar.
+
+Eigedom som det kviler odel på, blir kalla odelsjord.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas del IX).
+
+### § 2. Krav til arealstorleik
+
+Ein eigedom blir rekna som odlingsjord når fulldyrka eller overflatedyrka jord på eigedomen er over 35 dekar, eller det produktive skogarealet på eigedomen er over 500 dekar.
+
+Med til arealgrunnlaget blir rekna eigedomen sin del i realsameige.
+
+> Endra med [lover 4 mai 2001 nr. 17](lov/2001-05-04-17) (ikr. 1 sep 2001 iflg. [res. 4 mai 2001 nr. 474](forskrift/2001-05-04-474), sjå lovas V), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX), [21 juni 2017 nr. 99](lov/2017-06-21-99) (ikr. 1 sep 2017 iflg. [res. 21 juni 2017 nr. 829](forskrift/2017-06-21-829), sjå lovas V).
+
+### § 3. Grunn til bergverk, fabrikk og andre industrielle føretak
+
+Odel kan ikkje hevdast på grunn som er teken i bruk til bergverk, fabrikk og andre industrielle føretak, når grunnen er etla til å tene det industrielle føremålet. Her tek ein og omsyn til slik framtidig utviding som det er rimeleg å rekne med.
+
+Må eit industrielt føretak etter sitt slag og sin storleik reknast som tilhøyrsle til ein jordbrukseigedom, følgjer det same reglar som eigedomen elles.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 4. Vatn, foss, elv, bruksrett og sameigepart
+
+Særskilt odelsrett kan ikkje hevdast til eit vatn, ein foss eller ei elv. Det same gjeld bruksrett over framand eigedom.
+
+Odelsrett kan heller ikkje hevdast til sameigepart, med mindre parten ligg til særskilt registrert grunneigedom.
+
+> Endra med [lover 23 juni 1978 nr. 70](lov/1978-06-23-70), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 5. Område med reguleringsplan
+
+Når eit område ved reguleringsplan er lagt ut til utbygging og anlegg, samferdselsanlegg og teknisk infrastruktur eller til forsvaret, kan grunn i området ikkje odlast.
+
+Kongen kan ta avgjerd om at dette og skal gjelde område som ved reguleringsplan er lagt ut til andre føremål enn dei her nemnde, bortsett frå landbruksområde.
+
+> Endra med [lover 27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 6. Skjønn for å avgjere om ein eigedom er odlingsjord
+
+Når det kan vere tvil om ein eigedom er odlingsjord, kan den som har rettsleg interesse i det, få avgjort spørsmålet etter reglane om skjønn, jf. lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker kapittel 1. Innkalling til skjønnet kan skje i samsvar med reglane i [lov 18. desember 1959 nr. 1](lov/1959-12-18-1) om mortifikasjon av skuldbrev mv. [§ 7](lov/1959-12-18-1/§7) andre ledd.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+## Kap. II. Odelsvilkår knytt til hevdstid og slektskap
+
+> Overskriften endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 7. Odelshevdstid
+
+Odelsrett får odlaren når han har vore eigar med full eigedomsrett i 20 år.
+
+Hevdstida blir rekna frå den dagen hevdaren blir eigar med full eigedomsrett. Når ikkje anna er opplyst, reknar ein at han blei eigar då heimelen hans blei tinglyst.
+
+Har eigaren ikkje annan heimel enn eigedomshevd, vinn han odel samstundes med at eigedomshevda er fullført.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 8. Kven som har odelsrett
+
+Utanom odlaren får også etterkomarane hans odelsrett dersom nokon av foreldra har ått heile eigedomen med odel, eller nokon av besteforeldra er siste eigar av heile eigedomen med odel. For etterkomarar av sameigaren med odelsrett krevst det likevel ikkje at foreldra eller besteforeldra som har odelsrett har ått heile eigedomen.
+
+For at ein etterkomar av odlaren skal ha odelsrett, må han være fødd før jorda gjekk over til nokon som ikkje har odelsrett. Blir eigedomen løyst på odel, får både barn av løysingsmannen og barn av odelsrettshavarar lenger ute i rekkja odelsrett, endå om dei er fødde etter at jorda gjekk ut av slekta. Kjem eigedomen tilbake til seljaren før foreldingsfristen er ute, blir det rekna som om den ikkje har vore ute av eiga hans.
+
+> Endra med [lover 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX), [14 juni 2013 nr. 47](lov/2013-06-14-47) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 645](forskrift/2013-06-14-645), sjå lovas II).
+
+### § 9. Odelsrett til barn født utanom ekteskap og adoptivbarn
+
+Barn får odelsrett etter faren og farsslekta når farskapen er fastsett slik at han gir grunnlag for arverett etter [§ 7](lov/2019-06-14-21/§7) første stykket i [arvelova](lov/2019-06-14-21).
+
+Adoptivbarn har same odelsrett etter adoptivforeldra som barn etter sine foreldre, jfr. likevel [§ 12](lov/1974-06-28-58/§12). Odelsrett som eit barn som blir adoptert har i si eiga slekt, fell bort ved adopsjonen.
+
+> Endra med [lover 8 apr 1981 nr. 7](lov/1981-04-08-7), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endra med lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+### § 10. Odelshevdstid ved eigarskifte i hevdstida
+
+Går eigedomen før odelshevdstida er ute over til ein ny eigar som i rett nedstigende line ættar frå den førre eigaren, kan eigartidene reknast saman. Tilsvarande gjeld når eit adoptivbarn tar over odlingsjord etter adoptivforeldra.
+
+Odelshevd stoggar ikkje om ein eigar fører eigedomen tilbake til ein tidlegare eigar som han ættar frå. Det same gjeld ved avhending mellom sysken eller til barn av sysken, når avhendaren har overtatt eigedomen frå nokon som han ættar frå. Det som her er sagt gjeld og overgang ved tvangssal eller arv.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 11. Tinglysing av odelsfridom før hevdstida er ute
+
+Når eigar av odlingsjord tinglyser fråsegn om at eigedomen skal vere fri for odel, stoggar odelshevda. Ny hevd tar til når denne eller seinare eigar tinglyser at fråsegna skal slettast som hefte på eigedomen.
+
+Gjeld det eigedom under samodling av ektemakar eller sambuarar (jfr. [§ 15](lov/1974-06-28-58/§15)), lyt dei begge skrive under fråsegna og i tilfelle fråsegn om sletting.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. III. – Om odelsrekkefølgja.
+
+### § 12. Odelsrettshavarane sin prioritet
+
+Av etterkomarane til odlaren går eldre sysken føre yngre med seg og si line, om ikkje anna går fram av eller blir fastsett med heimel i denne lova. Dette gjeld uansett kjønn og når etterkomarane er fødde.
+
+Adoptivbarn går inn i den vanlege odelsrekkefølgja, men med prioritet etter adopsjonstidspunktet. Er adoptivbarnet ektemaken eller sambuaren sitt særkullsbarn, kan barnet likevel ikkje få dårlegare prioritet enn det hadde før adopsjonen.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 13. Ektemakar og sambuarar sin prioritet når dei samodlar
+
+Når jord er odla av ektemakar eller sambuarar i ekteskapsliknande forhold etter [§ 15](lov/1974-06-28-58/§15) tredje eller fjerde stykket, får dei lik odelsprioritet. Har dei barn saman, får desse betre odelsrett enn særkullsbarn som den eine eller begge måtte ha. Mellom særkullsbarna går odelen etter [§ 12](lov/1974-06-28-58/§12).
+
+Ved skifte av felleseige mellom ektemakar får den av dei som samodla jord blir utlagd til prioritet framfor den andre. Har dei ikkje fellesbarn, men kvar av dei har særkullsbarn, får barna til den av ektemakane som får jorda utlagt, betre odelsrett enn barna til den andre. Har denne ektemaken og etterkomarane hans ått jorda i 20 år, fell odelen i den andre lina bort.
+
+Andre stykket gjeld tilsvarande når jord samodla etter [§ 15](lov/1974-06-28-58/§15) fjerde stykket blir tatt over av ein av sambuarane.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 14. Odelsprioritet når odelsjorda består av fleire eigedomar
+
+Mellom sysken og deira liner gjeld føreretten til odelsjord berre ein eigedom.
+
+Den som frå nokon av foreldra eller frå slektningar elles i rett oppstigande line har tatt over ein eigedom som fyller krava til odlingsjord, har ikkje førerett til fleire odelseigedomar, så lenge yngre sysken eller deira liner ikkje har fått kvar sin. Det same gjeld når nokon frå eigne sysken eller sysken av foreldra har tatt over eigedom som han har odelsrett til. Slik er det også der nokon av etterkomarane hans har tatt over eigedom frå slektningar i rett oppstigande line eller frå sysken av han.
+
+Likt med overtaking som nemnt blir rekna at slik eigedom er løyst på odel eller kjøpt på tvangssal.
+
+Odelsrett kan likevel gjerast gjeldande etter dei vanlege reglane, dersom rettshavaren tilbyr dei yngre syskenlinene å overta den første eigedomen for ein pris som blir fastsett ved skjøn. Han har rett til å gå frå tilbodet etter at prisen for begge eigedomane er endeleg fastsett.
+
+Dersom det er fleire eigedomar etter at kvar line har fått sin, går føreretten etter prioritetsrekkefølgja i [§ 12](lov/1974-06-28-58/§12), jfr. [§ 13](lov/1974-06-28-58/§13), og reglane ovafor i denne paragrafen.
+
+> Endra med [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. IV. – Odelsvilkår knytt til eigedom som blir samodla av ektemakar eller sambuarar
+
+> Overskriften endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 15. Odelsvilkår knytt til eigedom som blir samodla av ektemakar eller sambuarar
+
+Ein ektemake vinn ikkje odelsrett til ein eigedom som den andre ektemaken har odelsrett til før ekteskapet eller får nedervd odelsrett til under ekteskapet, og heller ikkje til eigedom som den eine av ektemakane eig før ekteskapet utan at han har odelsrett til den.
+
+Det same gjeld eigedom som ein ektemake får under ekteskapet som arv eller gåve, og eigedom som blir hans særeige. Likeeins gjeld det odlingsjord som går inn i fellesbuet etter at nokon av foreldra til den eine ektemaken har påbyrja, men ikkje fullført odelshevd. Likt med foreldre reknar ein andre som etter [§ 10](lov/1974-06-28-58/§10) kan rekne saman eigartidene.
+
+Jord som ein ektemake i felleseige elles blir eigar av under ekteskapet, skal i høve til denne lova reknast for å vere ført inn i buet av begge ektemakane saman. Når slik eigedom høyrer til felleseiga i heile hevdstida, hevdar dei odelsrett for seg sjølve og for fellesbarn og særkullsbarn, jfr. [§ 13](lov/1974-06-28-58/§13). Døyr ein av ektemakane før hevdstida er ute, får likevel fellesbarn og særkullsbarn odelsrett når den attlevande fullfører odelshevda.
+
+Når sambuarar i ekteskapsliknande forhold blir eigarar av ein eigedom med like partar og sameiget varer i heile hevdstida, hevdar dei odelsrett for seg sjølve og for fellesbarn og særkullsbarn. Døyr ein av sameigarane før hevdstida er ute, får likevel fellesbarn og særkullsbarn odelsrett når den attlevande fullfører odelshevda. Som sambuar etter dette stykket reknar ein den som fyller vilkåra i [arvelova § 2](lov/2019-06-14-21/§2) tredje ledd.
+
+> Endra med [lover 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX første ledd nr. 3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endra med lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+## Kap V. – Særskilt om makeskifte og om odelsrett i sameigehøve.
+
+### § 16. Makeskifte og kjøp av tilleggsjord
+
+Når eigedomar seg i mellom byter jordstykkje eller teigar utan mellomlag, går kvar teig inn under odel eller odling på den eigedomen teigen blir høyrande til. Det same gjeld om det blir gjeve eit mellomlag som etter måten er så lite at teigane i røynda må reknast for å være jamgode.
+
+Det som her er sagt gjeld tilsvarande om ein teig blir bytt med ein råderett over ein annan eigedom.
+
+Når jord ved jordskifte blir overført frå ein eigedom til ein annan, eller bruksrett blir avløyst med eit grunnstykkje, gjeld det som er sagt i første stykket tilsvarande.
+
+Jord som blir lagt til ein eigedom som tilleggsjord, går inn under odel eller odling på den eigedomen jorda blir lagt til når departementet har godkjent kjøpet av di kjøparen bør få tilleggsjord. For odelsjord må i tillegg foreldingstida vere ute.
+
+> Endra med [lover 15 juni 2001 nr. 78](lov/2001-06-15-78) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 714](forskrift/2001-06-15-714)), [27 mai 2005 nr. 31](lov/2005-05-27-31) (ikr. 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487)), [8 des 2006 nr. 68](lov/2006-12-08-68) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1361](forskrift/2006-12-08-1361)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2013 nr. 47](lov/2013-06-14-47) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 645](forskrift/2013-06-14-645)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+
+### § 17. Oppløysing av sameige
+
+Blir sameige i odelsjord oppløyst med deling mellom sameigarane, får kvar av dei odelsretten til det stykket han får utlagt. Dette gjeld endå om stykket er større enn det som skulle falle på han etter høvestalet i sameiga, og anten odelen hans før galdt ein part eller heile eigedomen.
+
+Blir sameiga oppløyst ved tvangssal, kan dei tidlegare sameigarane ikkje løyse eigedomen frå tvangssalgskjøparen eller rettsetterfølgjarane hans. Er kjøparen ein sameigar som tidlegare hadde odelsrett berre til ein part, får han odelsrett til heile eigedomen. Ein utanforståande med betre odelsrett til eigedomen har same løysingsrett som før.
+
+> Endra med [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 18. Overføring av sameigepart
+
+Blir sameigepart overførd til ein annan sameigar som har odelsrett til sin part, får overtakaren odelsrett til den parten han tar over, når den overførde parten tidlegare var odelsfri eller det ikkje er gjort steg til løysing innan foreldingsfristen.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. VI. – Kven odelsrett kan gjerast gjeldande mot og allmenne avgrensingar i løysingsretten
+
+> Overskriften endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 19. Mot kven ein kan gjere odelsrett gjeldande
+
+Odelsrett kan gjerast gjeldande både mot framande og mot odelsrettshavarar lenger ute i odelsrekkja. Odelsrett kan òg gjerast gjeldande på skifte, jf. [arvelova § 108](lov/2019-06-14-21/§108) og [ekteskapslova § 66](lov/1991-07-04-47/§66) andre stykket.
+
+Ingen odelsrettshavar kan løyse odelsjord frå si eiga mor eller sin eigen far før odelsrettshavaren har fylt 18 år.
+
+Den som har avhendt odelsjord, har ikkje løysingsrett mot kjøparen eller rettsetterfølgjaren hans, med atterhald for der jorda er fråseld eigaren ved tvangssal.
+
+> Endra med [lover 11 juni 1993 nr. 82](lov/1993-06-11-82) (gjeld ikkje der løysingsrett var aktuell då lova tok til å gjelde), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endra med lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+### § 20. Kjøpstilbod ved sal til ein som ikkje har best odelsrett, eller til ein utan odelsrett
+
+Vil ein eigar avhende odelsjord, eller delar av odelsjorda, til ein som ikkje har best odelsrett, eller til ein som ikkje har odelsrett, og dei er samde om vilkåra, kan han gi tilbod om å gå inn i kjøpstilbodet på dei avtalte vilkåra til ein eller fleire av dei som har odelsrett.
+
+Eigaren kan gi tilbod etter fyrste stykket sjølv om det ikkje ligg føre avtale med ein namngjeven person. Gir eigaren tilbod som nemnd i andre stykket første punktum, gjeld [§ 20 a](lov/1974-06-28-58/§20a) tilsvarande.
+
+Eigaren er ikkje bunden til å selje til nokon som har sagt seg viljug til å gå inn i kjøpstilbodet.
+
+Reglane i første, andre og tredje stykket gjeld tilsvarande for tingretten eller ein bustyrar under offentleg skifte som vil gi slikt tilbod. For tilbod sett fram av tingretten eller bustyrar, gjeld også reglane i [§§ 20 a](lov/1974-06-28-58/§20a) til [20 c](lov/1974-06-28-58/§20c).
+
+> Endra med [lover 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 20 a. Frist og formkrav mv.
+
+Ein eigar eller bustyrar som set fram kjøpstilbod som nemnt i [§ 20](lov/1974-06-28-58/§20), kan setje ein frist for den som får tilbodet, til å seie ifrå om han vil gå inn i tilbodet. Fristen kan ikkje setjast kortare enn to månader rekna frå det tidspunktet tilbodet har kome fram til odelsrettshavaren.
+
+Tilbod og svar skal vere skriftleg. Tilbod og svar kan likevel gjerast ved bruk av elektronisk medium dersom eigaren og den som får tilbodet, er samde om det.
+
+Er det mindreårige eller personar som heilt eller delvis manglar rettsleg handleevne mellom dei som det er aktuelt å gi eit slikt tilbod, skal tilbodet også sendast statsforvaltaren.
+
+> Føyd til med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX), endra med [lover 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endra med [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 20 b. Konsekvensar av ikkje å gå inn i kjøpstilbodet, halde tilbodsfristen og å fremje krav om atterhald
+
+Dei som avslår kjøpstilbodet, eller som ikkje svarar innan fristen, kan ikkje løyse odelsjorda når jorda innan to år rekna frå tilbodsfristen gjekk ut blir avhenda på dei vilkår som var fastsett i tilbodet, og desse vilkåra lyt reknast som reelle og sakleg velgrunna. Har den som tek over odelsjorda odelsrett, blir den som fekk tilbodet ståande etter den som overtek og hans line i odelsrekkja.
+
+Det blir ikkje rekna som avslag på tilbodet om det i svaret blir tatt atterhald om at vederlaget må fastsetjast i samsvar med reglane i [odelslova § 49](lov/1974-06-28-58/§49).
+
+> Føyd til med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 20 c. Kostnader ved takst
+
+Har den som har motteke tilbod etter reglane i [§§ 20](lov/1974-06-28-58/§20) til [20 b](lov/1974-06-28-58/§20b), kravd takst over eigedomen, jf. [§ 20 b](lov/1974-06-28-58/§20b) andre stykket, ber han kostnadene i samsvar med reglane i [skjønnslova § 42](lov/1917-06-01-1/§42) første og andre stykket. Men er eigaren ikkje viljug til å selje til takstbeløpet, ber eigaren kostnadene der takstbeløpet er lågare enn tilbodsbeløpet. Ved angrep på taksten gjeld [skjønnslova § 42](lov/1917-06-01-1/§42) tredje stykket.
+
+> Føyd til med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 21. Løysingsnekt når samtykke til løysing vil vere klårt urimeleg
+
+Vil ein odelsrettshavar løyse ein eigedom på odel frå ein yngre bror eller syster som har overtatt den av foreldra, kan retten nekte løysing, når det etter det som ligg føre ville vere klårt urimeleg om den eldre fekk drive den yngre bort. Omsyn kan mellom anna takast til om den eldre har vore fråverande i lenger tid og driv eit anna yrke som han gjennom skulegang eller praksis har utdana seg for, medan den yngre har vore heime og hjelpt til på garden og må reknast for skikka til å drive den.
+
+Odelsløysing kan også i andre tilfelle nektast mot ein eigar med eller utan odelsrett, når det ville vere klårt urimeleg om løysingsmannen fekk drive eigaren bort.
+
+Når ein odelsrettshavar krev eigedomen utlagt til seg på skifte, og slikt utlegg vil vere klårt urimeleg i høve til ein annan loddeigar med dårlegare odelsrett, kan retten ta anna avgjerd ut frå dei synsmåtar som er nemnde i første stykket. Saka skal i så fall handsamast i søksmåls former.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 22. Fråskild tomt, regulerte område og sameigepartar
+
+Fråskild tomt til bustadhus, forretningsbygg, industriføretak, lager, naust, garasje eller liknande kan ikkje løysast på odel. Det same gjeld grunn som går inn under [§ 5](lov/1974-06-28-58/§5), med mindre den på løysingstida er brukt til jordbruksføremål og ein må rekne med at dette vil halde fram dei næraste 15 åra.
+
+Grunn som går inn under [§ 4](lov/1974-06-28-58/§4) kan berre løysast på odel i samband med løysing av ein eigedom grunnen er utskild frå.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 23. Løysingsrett ved skifte av tilhøva
+
+Eigedom som etter skifte av tilhøva ikkje lenger fyller vilkåra for odlingsjord etter [§ 2](lov/1974-06-28-58/§2) i denne lova, kan ikkje løysast på odel.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 24. Løysingsrett til særskilt skyldsett småbruk
+
+Eit særskilt skyldsett småbruk, som med samtykkje frå landbruksmyndigheita er skilt ut frå eit større bruk og som det er bygt hus på, kan ikkje løysast med heimel i odelsrett til hovudbruket. Ny odel til småbruket kan vinnast når vilkåra for odling ligg føre. Blir småbruket fråskilt til nokon som frå før har odelsrett til hovudbruket, blir odelsretten for overtakaren og hans line ståande ved lag.
+
+> Endra med [lover 27 mai 2005 nr. 31](lov/2005-05-27-31) (ikr. 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 25. Odelsfråskriving
+
+Ein odelsrettshavar kan ikkje overføre retten sin til ein annan. Men han kan skriftleg binde seg, anten andsynes einskilde eller i det heile, til ikkje å gjere den gjeldande.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 26. Løysingsrett for barn fødde etter avhending eller odelsfråskriving
+
+Den som har avhendt ein eigedom, og difor etter reglane i [§ 19](lov/1974-06-28-58/§19) tredje stykket ikkje har løysingsrett, eller som har skrive frå seg løysingsretten etter [§ 25](lov/1974-06-28-58/§25), overfører ikkje større rett enn han sjølv har til barn fødde etter avhendinga eller fråskrivinga.
+
+> Endra med [lover 11 juni 1993 nr. 82](lov/1993-06-11-82), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. VII. – Om bu- og driveplikt.
+
+### § 27. Utsetjing av sak om odelsløysing eller offentleg skifte ved søknad om konsesjon eller fritak frå driveplikt
+
+Når det i samband med odelsløysing eller offentleg skifte blir søkt om konsesjon fordi buplikta ikkje skal oppfyllast, eller om fritak frå driveplikt, skal retten utsetje den endelege avgjerda i saka til konsesjons- eller fritaksspørsmålet er avgjort.
+
+> Føyd til med [lov 12 mai 1995 nr. 23](lov/1995-05-12-23) (ikr. 1 juli 1995), endra med [lover 4 mai 2001 nr. 17](lov/2001-05-04-17) (ikr. 1 sep 2001 iflg. [res. 4 mai 2001 nr. 474](forskrift/2001-05-04-474)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX), tidlegare § 27a.
+
+### § 28. Odelsløysing og tilbakesøkjing ved brot på bu- og driveplikt
+
+Dersom ein odelrettshavar ikkje oppfyller vilkår om buplikt etter [konsesjonslova § 5](lov/2003-11-28-98/§5) andre stykket, eller driveplikt etter [jordlova § 8](lov/1995-05-12-23/§8), kan andre odelsrettshavarar innan fem år etter at overtakinga fann stad, søkje eigedomen løyst på odel utan hinder av om eigaren måtte ha betre odelsrett.
+
+Har eigaren fått eigedomen ved odelsløysing, kan også saksøkte i løysingssaka søkje eigedomen tilbake når vilkår om bu- og driveplikt ikkje blir oppfylte. Det same gjeld om eigaren, før tidsfristen etter første stykket er ute, avhender eigedomen til nokon som ikkje har odelsrett. Som avhending blir også rekna forpakting eller annan liknande total bruksrett. Krav om tilbakesøkjing etter dette stykket står tilbake for odelsrettshavarane sin løysingsrett etter første stykket.
+
+Når odelsløysinga eller tilbakesøkjinga er fullført, fell odelsretten for den tidlegare eigaren bort. Er odelsløysinga eller tilbakesøkjinga fullført av nokon som ikkje høyrer til den tidlegare eigaren si line, fell odelsretten bort også for denne lina.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 29. (Oppheva)
+
+> Endra med [lov 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 96](lov/1993-06-11-96), oppheva med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. VIII. – Odelsfrigjering.
+
+### § 30. Når stat eller kommune har tatt over odelsjord
+
+Dersom staten eller ein kommune har tatt over eller vil ta over odelsjord, og særlege grunnar taler for at odelsrett ikkje bør vere til hinder, kan Kongen ta avgjerd om odelsfrigjering.
+
+Det kan setjast som vilkår at jorda innan ein nærare fastsett frist blir tatt i bruk til det påtenkte føremålet, eller at førebuande arbeid med sikte på dette blir sett i verk innan ei viss tid. Går den fastsette fristen ut utan at vilkåra er oppfylte, kan jorda løysast på odel, og vanleg foreldingsfrist, jfr. [§ 40](lov/1974-06-28-58/§40), går frå dette tidspunktet. I dette tilfelle blir også dei som er fødde etter at jorda gjekk ut av slekta rekna for å ha odelsrett, så framt dei etter reglane i [§§ 8](lov/1974-06-28-58/§8) og [9](lov/1974-06-28-58/§9) elles ville hatt det.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 31. (Oppheva)
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [11 mai 1984 nr. 26](lov/1984-05-11-26), [12 jan 1996 nr. 4](lov/1996-01-12-4), [27 mai 2005 nr. 31](lov/2005-05-27-31) (ikr. 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487)), [8 des 2006 nr. 68](lov/2006-12-08-68) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1361](forskrift/2006-12-08-1361)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), oppheva med [lov 14 juni 2013 nr. 47](lov/2013-06-14-47) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 645](forskrift/2013-06-14-645), sjå lovas II).
+
+### § 32. Oreigning, oreigningsliknande tilfelle og makeskifte
+
+Når ein eigedom blir oreigna, fell eldre odelsrett bort, med unntak for slike særlege tilfelle der odelsretten kan sameinast med oreigningsføremålet.
+
+Har nokon friviljug late frå seg alt, eller noko av ei odelsjord, kan Kongen fri slik jord for eldre odelsrett når overtakaren søkjer om det, og det må reknast med at eit tilsvarande oreigningsinngrep, ville ha blitt gjort i fall partane ikkje hadde blitt samde.
+
+> Endra med [lov 15 juni 2001 nr. 78](lov/2001-06-15-78) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 714](forskrift/2001-06-15-714)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+
+### § 33. Sakshandsaming
+
+Før det blir tatt avgjerd om odelsfrigjering etter [§§ 30](lov/1974-06-28-58/§30) eller [32](lov/1974-06-28-58/§32), skal odelsretthavarane så langt det lar seg gjere, gjevast høve til å uttale seg om spørsmålet innan ein frist på ein månad. Overfor den som det er vanskeleg å gi individuelt varsel, er det nok med kunngjering i Norsk Lysingsblad og i ei avis som er ålment lesen på staden.
+
+Når det er tatt steg til odelsfrigjering etter [§§ 30](lov/1974-06-28-58/§30) eller [32](lov/1974-06-28-58/§32), skal odelsløysingssak som er eller blir reist, stoggast til spørsmålet om odelsfrigjering er avgjort.
+
+Departementet kan gi forskrift om sakshandsaminga og om kommunen sine oppgåver ved søknad om odelsfrigjering etter [§ 30](lov/1974-06-28-58/§30) og [§ 32 andre ledd](lov/1974-06-28-58/§32/ledd/2).
+
+> Endra med [lover 11 mai 1984 nr. 26](lov/1984-05-11-26), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2013 nr. 47](lov/2013-06-14-47) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 645](forskrift/2013-06-14-645)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+
+## Kap. IX. – Attlevande ektemake og sambuar sitt vern
+
+> Overskriften endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 34. Attlevande sitt vern overfor barn og barnebarn
+
+Er ein ektemake avliden og let etter seg odelsjord i felleseige med den attlevande som ikkje har best odelsrett, kan felles barn eller barnebarn ikkje ta eigedomen frå den attlevande før denne har fått alderspensjon eller full uføretrygd etter [folketrygdloven](lov/1997-02-28-19) og barnet har fylt 18 år. Når barnet (barnebarnet) har fylt 25 år, kan det også elles få rett til å overta eigedomen, når det under omsyn til begge partane ville vere klårt urimeleg om den attlevande skulle halde fram med å bruke eigedomen.
+
+Desse reglane gjeld og om eigedomen var særeige for den avlidne, dersom det mellom ektemakane gjaldt slik eigeskipnad som nemnt i [lov om ekteskap §§ 42](lov/1991-07-04-47/§42) tredje ledd og [43](lov/1991-07-04-47/§43).
+
+Første stykket gjeld tilsvarande når attlevande i ekteskapsliknande sambuarforhold blir eigar av avlidnes odelsjord.
+
+> Endra med [lover 8 juni 1979 nr. 38](lov/1979-06-08-38), [4 juli 1991 nr. 47](lov/1991-07-04-47), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
+
+### § 35. Attlevande sitt vern overfor avlidne sitt særkullsbarn
+
+Er ein ektemake avliden og let etter seg odelsjord i felleseige med den attlevande som ikkje har best odelsrett, kan ikkje særkullsbarn eller deira barn ta jorda frå den attlevande før barnet har fylt 18 år. Vernet kan lengjast utover dette tidspunktet når noko anna ville vere klårt urimeleg, omsyn tatt til begge partar.
+
+Paragraf 34 andre stykket gjeld tilsvarande.
+
+Første stykket gjeld tilsvarande når attlevande i ekteskapsliknande sambuarforhold vert eigar av avlidnes odelsjord.
+
+> Endra med [lover 8 juni 1979 nr. 38](lov/1979-06-08-38), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 36. Attlevande sitt vern overfor andre odelsrettshavarar
+
+Andre odelsrettshavarar enn dei som er nemnde i [§§ 34](lov/1974-06-28-58/§34) og [35](lov/1974-06-28-58/§35) kan ikkje gjera gjeldande odelsrett mot den attlevande ektemaken, så framt eigedomen har vore i felleseige med den avlidne i minst fem år. Dette gjeld så lenge den attlevande ikkje har rett til pensjon som nemnt i [§ 34](lov/1974-06-28-58/§34) første stykket, og vilkåret er elles at odelsrettshavaren ikkje kunne ha løyst eigedomen frå den avlidne ektemaken. Også før denne tid kan ein odelsrettshavar gjere odelsrett gjeldande til eigedomen når det ville vere klårt urimeleg om den attlevande skulle halde fram med å sitje med den. [§ 34](lov/1974-06-28-58/§34) andre stykket og [§ 39](lov/1974-06-28-58/§39) første stykket andre punktum gjeld tilsvarande.
+
+Første stykket gjeld tilsvarande når attlevande i ekteskapsliknande sambuarforhold blir eigar av avlidnes odelsjord.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 37. Fleire eigedomar i buet
+
+Er det fleire eigedomar i eit bu, kan den attlevande ektemaken ikkje i medhald av §§ 34-36 krevje mer enn ein av dei etter sitt eige val.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 38. Attlevande sin rett til gratis husrom
+
+Når ein attlevande ektemake må gje frå seg eigedomen etter [§§ 34](lov/1974-06-28-58/§34) til [36](lov/1974-06-28-58/§36), har han rett til høveleg gratis husrom dersom dette er mogleg og rimeleg med omsyn til interessene til overtakaren. Dette gjeld ikkje når vedkomande har flytta frå eigedomen for godt utan atterhald om husrom der.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 39. Bu- og driveplikt for attlevande
+
+For at attlevande skal ha vern som nemnt i [§§ 34](lov/1974-06-28-58/§34) til [36](lov/1974-06-28-58/§36), må han seinast frå eitt år etter at han blei eigar, bu på eigedomen og bruke han som sin reelle bustad, jf. [konsesjonslova § 6](lov/2003-11-28-98/§6), og drive eigedomen i samsvar med [jordlova § 8](lov/1995-05-12-23/§8). Den styresmakta som kan gi konsesjon etter konsesjonslova, kan gi dispensasjon frå buplikta etter første punktum. Den styresmakta som kan gi fritak frå driveplikt etter [jordlova § 8 a](lov/1995-05-12-23/§8a), kan gi dispensasjon frå driveplikta.
+
+Bruksretten fell bort om attlevande varig flytter frå eigedomen eller om eigedomen ikkje blir driven på forsvarleg måte.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 39 a. Prosessreglar når odelsrettshavar krev eigedomen
+
+Når ein odelsrettshavar krev eigedomen etter [§§ 34](lov/1974-06-28-58/§34) til [36](lov/1974-06-28-58/§36), gjeld reglane i kapittel XIV.
+
+> Føyd til med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. X. – Forelding av odelsrett og løysingsrett.
+
+### § 40. Frist for å gjere odelsretten gjeldande
+
+Retten til odelsløysing må gjerast gjeldande innan seks månader frå den dagen då dokument som gir den nye eigaren full heimel blir tinglyst. Dette gjeld også overgang ved arv. Ved tvangssal blir foreldingsfristen rekna frå tinglysinga av tvangssalskøyte.
+
+Reglane i første stykket gjeld likevel ikkje når ein eigar med odelsrett ikkje oppfyller buplikta etter [konsesjonslova § 5](lov/2003-11-28-98/§5) eller driveplikta etter [jordlova § 8](lov/1995-05-12-23/§8). Andre odelsrettshavarar som hadde odelsrett då eigaren fekk tinglyst heimel, kan i eit slikt tilfelle krevje å løyse eigedomen, dersom kravet blir sett fram før det tidsromet er ute som eigaren er pålagt buplikt for eller som følgjer av [konsesjonslova § 5](lov/2003-11-28-98/§5) andre stykket.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [26 juni 1992 nr. 86](lov/1992-06-26-86), [12 jan 1996 nr. 4](lov/1996-01-12-4) (ikr. 1 juli 1996 iflg. [res. 12 jan 1996 nr. 88](forskrift/1996-01-12-88) – ettårsfristen (før var den to år) – gjeld ikkje der odelsløysingsfristen etter første eller andre stykket har teke til å løpe før iverksetjingsdatoen), 19 juni 2009 nr. 98 (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 41. Slekta sitt tap av odelsrett
+
+Har odelsjord i slik tid som nemnt i [§ 40](lov/1974-06-28-58/§40) med tinglyst heimel tilhøyrt nokon som ikkje har odelsrett, utan at nokon av odelsrettshavarane har tatt steg til odelsløysing og deretter innløyser eigedomen, taper slekta sin odelsrett.
+
+Med dei unntak som er nemnde i [§ 42](lov/1974-06-28-58/§42) og [§ 43](lov/1974-06-28-58/§43) taper også dei nærare i slekta sin odelsrett når dei har late ein eigar lenger ute i odelsrekkja sitje med tinglyst heimel til odelsjord i slik tid som nemnt.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 42. Odelsrett og prioritet ved tilbakeføring, arv og tvangssal
+
+Dersom ein eigar skøyter eigedomen tilbake til ein tidlegare eigar som han ættar frå, eller eigedomen fell tilbake til den tidlegare eigaren ved arv, eller den tidlegare eigaren kjøper eigedomen på tvangssal, blir den tidlegare eigars odelsrett ikkje rekna for å vere tapt, endå om han hadde best odelsrett og det er gått meir enn seks månader sidan den andre fekk tinglyst heimel. Stoda blir i dette tilfelle den same som om den opphavelege avhendaren hadde ått eigedomen heile tida.
+
+Det same gjeld om ein son eller ei dotter som har tatt over odelsjord, skøyter den vidare til nokon av dei eldre syskena eller deira liner. Det same gjeld også om nokon av dei eldre syskena eller deira liner arvar eigedomen eller kjøper han på tvangssal.
+
+> Endra med [lover 26 juni 1998 nr. 46](lov/1998-06-26-46), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 43. Løysingsrett og prioritet ved sal frå eigar med nedervd odelsrett
+
+Ved friviljug avhending av odelsjord frå ein eigar med nedervd odelsrett, kan også dei eldre syskena og deira liner gjere odelsrett gjeldande, endå om eigaren har ått jorda med full heimel i meir enn seks månader. Men dei har prioritet etter seljarens line. Likt med friviljug avhending er arveovergang.
+
+Blir odelsjord ved tvangssal fråseld ein eigar som nemnt, gjeld dette også dei andre som har odelsrett etter [§§ 8](lov/1974-06-28-58/§8) og 9, men slik at dei blir ståande etter eigaren og hans line.
+
+> Endra med [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [26 juni 1998 nr. 46](lov/1998-06-26-46), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 44. Odelsmothevd
+
+Når odelsjord har vore ute av odelsætta i 20 år, fell odelsretten for denne ætta bort, endå om den nye eigaren ikkje har tinglyst heimel, og utan omsyn til om ny odelshevd då er fullført.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 45. (Oppheva)
+
+> Oppheva med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 46. Skifte
+
+Så lenge eit dødsbu er under offentleg eller privat skifte, går det ingen foreldingsfrist mellom bueigarane til odelseigedom i buet. I denne tida går det heller ingen foreldingsfrist for etterkomarane deira andsynes eigarane i buet.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 47. Ektemakar og sambuarar
+
+Har ein ektemake heimel til ein eigedom som den andre ektemaken har betre odelsrett til, går det ingen foreldingsfrist mellom dei. I denne tida går det heller ingen foreldingsfrist for odelsrettshavarar som ikkje kunne ha løyst eigedomen dersom ektemaken med odelsrett hadde ått eigedomen.
+
+Første stykket gjeld tilsvarande der den eine i eit ekteskapsliknande sambuarforhold har heimel til eigedom som den andre har betre odelsrett til.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 48. Vernetilfella
+
+Så lenge ein attlevande ektemake eller sambuar sit med ein eigedom med vern mot odelsløysing i medhald av [§§ 34](lov/1974-06-28-58/§34) til [36](lov/1974-06-28-58/§36), jf. [§ 39](lov/1974-06-28-58/§39), går det ingen foreldingsfrist for odelsrett til eigedomen. Dette gjeld og om odelsrettshavarane let den attlevande ektemaken eller sambuaren sitje med eigedomen ut over den tid som er fastsett i [§§ 34](lov/1974-06-28-58/§34) til [36](lov/1974-06-28-58/§36).
+
+Det går heller ingen foreldingsfrist der odelsrettshavarar ikkje kan krevje å få overta eigedomen på grunn av føresegnene i [§ 19](lov/1974-06-28-58/§19) andre stykket. Dette gjeld òg der odelsrettshavarar let mora eller faren sitje med eigedomen ut over den tid som er fastsett i [§ 19](lov/1974-06-28-58/§19) andre stykket.
+
+> Endra med [lover 11 juni 1993 nr. 82](lov/1993-06-11-82), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+## Kap. XI. – Om verdsetjinga av odelseigedom og om hefte som kviler på odelsjord.
+
+> Endra med [lov 19 des 1975 nr. 70](lov/1975-12-19-70).
+
+### § 49. Odelstakst
+
+Verdsetjinga ved odelstakst skal gjerast på grunnlag av den bruk av eigedomen som er naturleg og pårekneleg etter tilhøva på staden, og som kan sameinast med at eigedomen hovudsakleg blir nytta til landbruksføremål.
+
+Reglane i første stykket gjeld tilsvarande for verdsetjinga av odelseigedom når nokon på arveskifte eller skifte mellom ektemakar tek over eigedom i kraft av odelsrett. Når slik verdsetjing skjer ved skiftetakst, jf. [arvelova § 106](lov/2019-06-14-21/§106), gjeld §[§ 50](lov/2019-06-14-21/§50) og [71](lov/2019-06-14-21/§71) andre stykket tilsvarande så langt dei høver.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [4 juli 1991 nr. 47](lov/1991-07-04-47), [11 juni 1993 nr. 82](lov/1993-06-11-82), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endra med lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+### § 50. Avløysing av hefte
+
+Hefte på eigedomen som blir dekte av takstverdien, kan løysingsmannen krevje avløyste, når dei er påhefta etter at foreldingsfristen tok til, jfr. [§ 40](lov/1974-06-28-58/§40). Som slikt hefte blir rekna mellom anna kjøpekontrakt, forpakting, bortfeste av tomter, positive og negative servituttar, grunntyngsler, panterett og frådeling av tomt, også om tomta blir seld i foreldingstida. Det som her er sagt, gjeld også råderettar som er påhefta tidlegare, dersom dei er særleg tyngjande.
+
+Avtale om forpakting for lengre tid enn 5 år og avtale om jordleige kan løysingsmannen seie opp med verknad frå første faredag som kjem eitt år etter oppseiinga, og etter at han har teke over eigedomen. Avtale om leige av husrom kan han seie opp etter reglane i [lov 26. mars 1999 nr. 17](lov/1999-03-26-17) om husleieavtaler [§ 9-6](lov/1999-03-26-17/§9-6). Oppseiing etter dette stykket – som kan gjevast når løysingssak er reist – gjeld endå om avtala ikkje gjev høve til slik oppseiing.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+## Kap. XII. – Åsetesretten.
+
+### § 51. Kva åsetesrett er
+
+Når eigaren av odelsjord eller odlingsjord døyr og jorda går i arv til etterkomarane hans, har ein av desse rett til på skifte å få denne utlagt til seg, på vilkår som går fram av dei etterfølgjande paragrafane. Denne retten, som blir kalla åsetesrett, gjeld ikkje sameigepart utan der resteigedomen er eigd av ektefellen eller sambuaren til arvelataren og arvingen er etterkomar også etter denne.
+
+Jord som ikkje fyller vilkåra som odlingsjord på den tida arvelateren døyr, går ikkje inn under åsetesrett.
+
+Reglane om bu- og driveplikt i [konsesjonslova § 5](lov/2003-11-28-98/§5) andre stykket og [jordlova § 8](lov/1995-05-12-23/§8) første stykket gjeld tilsvarande når ein åsetesarving tek over jord.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 52. Åsetesrekkefølgja
+
+Kven av etterkomarane som har best åsetesrett, blir avgjort etter reglane i [§ 12](lov/1974-06-28-58/§12).
+
+Adoptivbarn og etterkomarar av adoptivbarn får åsetesrett med prioritet etter adopsjonstidspunktet.
+
+Særkullsbarn til ein ektemake eller ein sambuar har ikkje åsetesrett til jord som etter [§ 15](lov/1974-06-28-58/§15) blir rekna ført inn i buet av den andre åleine. Gjeld det jord som etter [§ 15](lov/1974-06-28-58/§15) tredje eller fjerde stykket kan samodlast, har fellesbarn betre åsetesrett enn særkullsbarn.
+
+Dersom den med best åsetesrett ikkje har best odelsrett av etterkomarane, går den av dei som har best odelsrett framom, med dei rettar som åsetesretten gjev.
+
+Vil det i særlege tilfelle føre til klårt urimelege resultat å følgja den vanlege åsetesrekkjefølgja, kan retten ta anna avgjerd ut frå dei synsmåtar som er nemnde i [§ 21](lov/1974-06-28-58/§21). Saka skal i så fall førehavast i søksmåls former.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 53. Dei eigedomar åsetesretten gjeld for
+
+Reglane i [§ 14](lov/1974-06-28-58/§14) gjeld tilsvarande for åsetesrett, og då utan omsyn til om eigedomar i buet er odelsjord eller ikkje.
+
+Er begge foreldra avlidne og har late etter seg kvar sine eigedomar, blir dei to bu oppgjera i høve til desse reglane å sjå under eitt, endå om dei ikkje går føre seg til same tid.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 54. Deling av eigedom
+
+Dersom ein eigar finn at eigedomen hans har slik storleik og avkastingsevne at ein huslyd ikkje treng det heile, kan han med samtykkje frå landbruksmyndigheita dele eigedomen mellom to eller fleire av åsetesarvingane.
+
+Eigedomsdeling som nemnt i første stykket kan gjerast medan eigaren lever eller etter at han er avliden. I siste fall må eigaren ha sett opp eit skriftleg dokument om korleis delinga skal skje.
+
+> Endra med [lover 27 mai 2005 nr. 31](lov/2005-05-27-31) (ikr. 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 55. Odelsjord overteken med åsetesrett
+
+Er eigedom som er overtatt etter [§§ 53](lov/1974-06-28-58/§53) eller [54](lov/1974-06-28-58/§54) odelsjord, blir odelen verande i lina til den arvingen eigedomen er utlagt til, slik at dei andre åsetesarvingane ikkje kan gjere odelsrett gjeldande mot overtakaren eller nokon av etterkomarane hans.
+
+Er lina til overtakaren utdøydd, går odelen først til den næraste av dei linene som ikkje fekk noko jord ved delinga. Finst inga slik line, går odelen til den med best rett i dei linene som først fekk jord.
+
+> Endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 56. Åsetestakst
+
+Åsetesarvingen har krav på at det ved skjøn blir fastsett ein overtakingspris som er rimeleg etter dei tilhøva som ligg føre. Verdsetjinga skal gjerast med særleg tanke på at overtakaren kan makte å bli sitjande med eigedomen. Er det gjeld i buet, skal taksten minst svare til gjelda. Åsetestaksten må ikkje i noko høve setjast høgare enn verdien av eigedomen ved odelstakst, jf. [§ 49](lov/1974-06-28-58/§49).
+
+Det som er sagt i første stykket gjeld og om det er ein attlevande ektemake mellom bueigarane.
+
+> Endra med lover [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endra med lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+## Kap. XIII. – Om etteroppgjer og skadebot.
+
+> Endra med [lov 19 des 1975 nr. 70](lov/1975-12-19-70).
+
+### § 57. Etteroppgjer
+
+Dersom nokon som har overtatt jord på skifte i medhald av åsetes- eller odelsrett eller ved odelsløysing, innan 10 år avhendar jorda med ein monaleg vinst, skal det skje eit etteroppgjer dersom dette blir kravt av nokon medarving eller av saksøkte i løysingssaka. Saksøkte i løysingssaka må vere syskenbarnet til saksøkjaren eller i nærare slektskap.
+
+Det skal også skje eit etteroppgjer i samsvar med reglane i første stykket der jord er overført til ein etterkomar av eigaren etter åsetesliknande prinsipp. Det same gjeld der nokon har overtatt jord ved friviljug avhending dersom det må reknast med at det elles ville ha blitt odelsløysing.
+
+Krav om slikt etteroppgjer må setjast fram innan 6 månader etter tinglysinga av heimelsdokumentet. Summen som avhendaren skal greie ut, blir i mangel av semje å fastsetje ved skjøn.
+
+Desse reglane gjeld òg når deler av eigedomen blir avhenda til prisar som ligg monaleg over det ein må gå ut frå at dei blir rekna til ved åsetestaksten eller ved odelsløysinga.
+
+Oreigning av ein eigedom eller delar av den blir i høve til reglane i denne paragrafen rekna likt med avhending. Det same gjeld feste eller grunnleige når feste- eller leigetida er minst 20 år, eller festaren eller leigaren, når tida er ute, har rett til fornying slik at tida samanlagt blir minst 20 år.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 58. Skadebot
+
+Ved tilbakesøkjing som nemnt i [§ 28](lov/1974-06-28-58/§28) andre stykket kan tilbakesøkjaren krevje skadebot for tap han har hatt ved å ha blitt tvungen til å fråvike eigedomen. Kravet må i tilfelle gjerast gjeldande i samband med tilbakesøkjinga.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. XIV. – Rettargangsreglar ved odelsløysing.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70). – Jf. *tidlegare* lov 1 juni 1917 nr. 1 kap. 3.
+
+### § 59. Tilhøvet til tvisteloven
+
+For odelsløysingssaker gjeld føresegnene i [tvisteloven](lov/2005-06-17-90), så langt ikkje anna er fastsett i dette kapitlet.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 60. Stemning, saksøkte og verneting
+
+Den som vil løyse ein eigedom på odel, må ta ut stemning mot eigaren ved tingretten i den rettskrinsen der eigedomen ligg. Det skal ikkje vere mekling i forliksrådet.
+
+Som eigar reknast den som har overtatt eigedomen ved bindande avtale, eller som på anna rettsgrunnlag er blitt eigar. Stemning mot den som har grunnboksheimel til eigedomen, er alltid nok til å avbryte foreldingsfristen.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 61. Kva stemninga må innehalde og forkynning
+
+Om stemninga gjeld føresegnene i [tvisteloven § 9-2](lov/2005-06-17-90/§9-2). Stemninga skal alltid nemne kva for eigedom søksmålet gjeld, og gjere greie for dei omstende saksøkjaren byggjer løysingskravet på. Den skal også nemne dei hefte saksøkjaren i tilfelle vil krevje avløyste etter reglane i [§ 50](lov/1974-06-28-58/§50), og kven som er rettshavarar til slike hefte.
+
+Stemninga skal sendast til forkynning for saksøkte med oppmoding om å gi tilsvar innan ein frist som retten fastset.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 62. Tilbakeskøyting
+
+Etter at odelsløysingssak er reist, kan partane i ei kjøpeavtale ikkje, med verknad for saksøkjaren, gjere handelen om, eller avtale at eigedomen skal gå tilbake til seljaren. Dette gjeld også om slik tilbakeføringsrett var avtala mellom seljaren og kjøparen.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 63. Innskrenkingar i eigaren sin råderett etter at stemning er forkynt
+
+Etter at stemning i odelsløysingssak er forkynt, må saksøkte ikkje gjere noko som fører til at eigedomen blir ringare.
+
+Etter at stemninga er forkynt, må saksøkte ikkje hogge meir i skogen enn det som etter utrekning av skogbruksstyresmakta svarar til verdauken på grunn av tilveksten frå då av.
+
+Etter krav frå saksøkte skal domaren gi skogbruksstyresmakta pålegg om utrekning som nemnt i andre stykket, og setje ein frist for når utrekninga skal vere gjort.
+
+Om saksførehavinga for avgjerder skogbruksstyresmakta tar etter denne paragrafen og om klage over slike avgjerder, gjeld same reglar som for avgjerder etter [lov 27. mai 2005 nr. 31](lov/2005-05-27-31) om skogbruk.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 27 mai 2005 nr. 31](lov/2005-05-27-31) (ikr. 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 64. Særskilt førehaving og dom
+
+Gjer saksøkte i tilsvaret gjeldande at saksøkjaren ikkje har løysingsrett, eller at løysing bør nektast etter [§ 21](lov/1974-06-28-58/§21), kan dette spørsmålet takast opp til særskilt førehaving og avgjerd ved dom, såframt denne framgangsmåten synes mest føremålstenleg. I så fall held saka fram etter dei vanlege reglane i [tvisteloven](lov/2005-06-17-90).
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 1 juni 1979 nr. 24](lov/1979-06-01-24), [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 65. Om rettsmøte, mekling, frifinningsdom og odelstakst
+
+Når saka ikkje sluttar med frifinningsdom etter [§ 64](lov/1974-06-28-58/§64) eller med forlik og heving, og domaren ikkje finn grunn til vidare saksførebuing med mekling, fastset han tid og stad for eit rettsmøte til førehaving av løysingssaka. Om samansetjinga av retten gjeld her reglane i [skjønnslova §§ 11](lov/1917-06-01-1/§11)-[17](lov/1917-06-01-1/§17).
+
+Retten skal prøve mekling mellom partane dersom det ikkje er gjort i tidlegare rettsmøte. Kjem det til forlik, skal løysingssaka hevast. Kjem det ikkje til forlik, kan retten – etter at partane har fått uttale seg – straks seie frifinningsdom når det synes tvillaust at saksøkjaren ikkje har løysingsrett, eller retten samrøystes finn at løysing bør nektast etter [§ 21](lov/1974-06-28-58/§21). I andre tilfelle held saka fram med odelstakst.
+
+Retten avgjer om tvist om løysingsretten som ikkje tidlegare er avgjort, skal takast opp til førehaving og avgjerd i samband med taksten, eller utsetjast til avslutningsmøtet i saka, jfr. [§ 69](lov/1974-06-28-58/§69) og [§ 72](lov/1974-06-28-58/§72).
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 66. Odelstakst, varsel og partsstilling for andre innehavarar av rettar
+
+For sjølve odelstaksten gjeld reglane i [skjønnslova kap. 1](lov/1917-06-01-1/kap1), så langt ikkje anna følgjer av dette kapitlet. Paragrafane 9, 10 og 21 gjeld ikkje.
+
+Innehavarar av rettar, som er kravde avløyste, eller som ein må rekna med kan kome til å falle bort (jfr. [§ 71](lov/1974-06-28-58/§71) andre stykket), skal gjevast varsel om taksten, og har under denne same partsstilling som eigaren.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 67. Avløysing og verdsetting av hefte
+
+Hefte som saksøkjaren har kravd avløyst etter [§ 50](lov/1974-06-28-58/§50) og som ikkje går ut på ein fast pengesum, skal verdsetjast særskilt. Det same gjeld hefte som berre delvis må reknast å bli dekte av takstsummen. Dersom retten finn at vilkåra for avløysing ikkje ligg føre, skal det seiast orskurd for dette, om ikkje avløysingskravet blir trekt tilbake.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 68. Krav om ny odelstakst
+
+Blir odelstaksten oppheva utan å bli heimvist, må den part som vil ha ny takst, setje fram krav om det innan 4 veker etter at opphevingsorskurden er blitt endeleg. Dersom saka blir avgjort av Høgsteretten, skal fristen reknast frå den dagen orskurden er forkynt.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 1 juni 1979 nr. 24](lov/1979-06-01-24), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 69. Rettsmøte til avslutting av løysingssaka og motsegner mot løysingskravet
+
+Når odelstaksten er blitt endeleg, og det ikkje er gått fram i samsvar med [§ 72](lov/1974-06-28-58/§72), fastset domaren tid og stad for eit rettsmøte til avslutning av løysingssaka.
+
+Gjer saksøkte ikkje gjeldande noka motsegn mot løysingskravet, eller er dette tidlegare fastslått ved rettskraftig dom, jfr. [§ 64](lov/1974-06-28-58/§64), sluttar saka med fråviksorskurd.
+
+Har saksøkte motsegner mot løysingskravet, som ikkje er avgjorde tidlegare, held saksførehavinga fram etter dei vanlege reglane for sivile tvistar. Skal retten setjast med meddommarar, kan desse etter loddtrekning takast mellom dei som har vore skjønnsmedlemer i saka.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 1 juni 1979 nr. 24](lov/1979-06-01-24), [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 70. Om skøyte, betaling av løysingssum, overtaking av bruken og trygd for løysingssummen
+
+I fråviksorskurd og i dom som gir saksøkjaren medhald i løysingskravet, skal saksøkte påleggjast å skrive ut skøyte til saksøkjaren, mot betaling av den løysingssummen som blei fastsett ved taksten. Har saksøkte i tida mellom taksten og avslutningsmøtet utan rimeleg grunn betalt gjeld med pantetrygd innanfor 60 % av takstsummen, kan saksøkjaren krevje lagt til grunn for oppgjeret med saksøkte at pantegjelda ikkje har falle bort, men at panteretten er gått over til saksøkte.
+
+I orskurden eller dommen skal det dessutan takast inn føresegner om tidspunktet for skøyting, betaling av løysingssummen og overtakinga av bruken av eigedomen, og vidare – så langt det trengst – om partane sitt tilhøve til eigedomen fram til overtakingstidspunktet. Dette skal som hovudregel setjast til 14 april førstkomande. Etter krav frå saksøkjaren kan retten ta avgjerd om særskilde avgrensingar i råderetten som saksøkte skal ha over eigedomen i tida fram til bruksovertakinga. Om løysingssummen ikkje skal betalast straks, skal retten etter krav frå saksøkte påleggje saksøkjaren å stille slik trygd for løysingssummen som retten fastset. Retten skal i tilfelle òg setje ein rimeleg frist til å oppfylle eit slikt krav. Dersom særlege omsyn ikkje gjer seg gjeldande, skal fristen etter førre punktum vere ein månad.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 71. Avløysing av hefte
+
+Saksøkjaren må seinast på avslutningsmøtet seie frå om han vil gjennomføre avløysing av hefte som han etter [§ 50](lov/1974-06-28-58/§50) ikkje er bunden av, og som han har kravd avløyste. Avløysingssummen skal i tilfelle betalast til vedkomande rettshavar innan ein frist som retten fastset.
+
+Hefte som etter sin prioritet ikkje blir dekte av takstsummen, fell bort når odelsløysing er gjennomført. Saksøkjaren kan krevje at det blir tatt inn i fråviksorskurden eller dommen kva for hefte dette gjeld.
+
+Blir eit hefte delvis dekt av takstsummen, kan rettshavaren krevje kontant betaling av den dekte delen, eller at heftet blir ståande mot at han sjølv betalar, til saksøkjaren verdien av den udekte delen. Retten kan også samtykkje i at heftet blir ståande i redusert form i samsvar med taksten, dersom denne ordninga er praktisk mogeleg.
+
+For hefte på eigedomen som ikkje fell bort eller ikkje blir avløyste eller oppsagde under løysingssaka, har odelsløysing ingen verknad.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 72. Avgjerder etter §§ 70 og 71 i samband med odelstakst
+
+Når partane samtykkjer eller retten samrøystes finn at ingen avgjerande omsyn er til hinder, kan dei spørsmåla som er nemnde i §§ 70-71 takast opp og avgjerast i samband med odelstaksten.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 73. Eigedomsretten sin overgang, vågnaden for hende på eigedomen og tilleggstakst
+
+Eigedomsretten går over til saksøkjaren når han har fått skøyte. Frå same tidspunktet har, saksøkjaren vågnaden for tilfeldige hende på eigedomen, med mindre retten har fastsett noko anna i medhald av [§ 70](lov/1974-06-28-58/§70) andre stykket.
+
+Hevdar ein part at det etter odelstaksten, men før skøytinga til saksøkjaren, har skjedd noko som bør føre til endring av taksten, kan retten ta avgjerd om tilleggstakst, når ein må rekne med at denne vil gi ei monaleg endring i høve til den første taksten. Tilleggstaksten skal berre avgjere dei endringane i takstsummen som dei nye tilhøva bør føre til, og skal ikkje overprøve vurderingane i den opphavlege taksten på andre punkt.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 74. Når saksøkjaren døyr eller misser rettsleg handleevne før løysingssaka er sluttført
+
+Døyr saksøkjaren før løysingssaka er sluttførd, har dei andre odelsrettshavarane rett til å gå inn i saka i staden hans. Same retten har også dei av livsarvingane til den avlidne som ikkje sjølv ville ha kunne reist løysingssak. At tidsfristen for nokon av dei andre odelsrettshavarane til å reise sjølvstendig løysingssak er ute, hindrar dei ikkje frå å gjere bruk av retten etter denne paragrafen, men i så fall står dei tilbake for alle livsarvingane til den avlidne.
+
+Føresegna i første stykket gjeld tilsvarande dersom saksøkjaren misser si rettslege handleevne før løysingssaka er sluttførd, og statsforvaltaren fråfell saka på hans vegner.
+
+Når nokon har rett som nemnt i første eller andre stykket, skal løysingssaka stoggast inntil vidare. Retten skal så vidt råd er varsle rettshavarane. Seinast 6 veker etter at varsel er mottatt, må ein odelsrettshavar som vil gå inn i saka gi melding om dette til retten. For den som ikkje har fått slikt varsel som nemnt, er fristen eitt år rekna frå dødsfallet. Retten skal la meldinga forkynne for saksøkte, og saka går så vidare. Dersom ingen har meldt seg når fristen går ut, skal løysingssaka hevast. Mot oversitjing av fristen etter dette stykket kan det ikkje gjevast oppfrisking.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endra med [lov 5 apr 2013 nr. 12](lov/2013-04-05-12), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 75. Saksøkjaren sitt tap av odelsrett
+
+Dersom saksøkjaren ikkje gjennomfører odelsløysinga eller stiller pålagt trygd for løysingssummen til den tid som er fastsett i fråviksorskurd eller rettskraftig dom, misser han odelsretten til eigedomen. Dette gjeld likevel ikkje når løysing blir gjennomført på eit seinare tidspunkt enn det retten har fastsett eller trygd ikkje vert stilt som pålagt av retten og dette har grunnlag i avtale mellom partane.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 76. Ved krav om tilbakesøkjing
+
+Føresegnene i dette kapitlet gjeld tilsvarande for krav om tilbakesøkjing etter [§ 28](lov/1974-06-28-58/§28) andre stykket så langt dei høver.
+
+> Føyd til med [lov 19 des 1975 nr. 70](lov/1975-12-19-70), endra med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+## Kap. XV. Ikraftsetjing og overgangsreglar.
+
+> Tidlegare [kap. XIV](lov/1974-06-28-58/kapxiv) endra til [kap. XV](lov/1974-06-28-58/kapxv) ved [lov 19 des 1975 nr. 70](lov/1975-12-19-70).
+
+### § 77. Ikraftsetting
+
+Denne lova trer i kraft frå den tid Kongen fastset,1 jfr. likevel [§ 78](lov/1974-06-28-58/§78).
+
+Etternemnde lover blir frå same tid endra eller oppheva slik: – – –
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70) (tidlegare § 58), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
+
+### § 78. (Oppheva)
+
+> Endra med [lov 19 des 1975 nr. 70](lov/1975-12-19-70) (tidlegare § 59), oppheva med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).
+
+### § 79. Overgangsreglar
+
+Denne lova får ingen verknad for tilhøve der det etter dei tidlegare gjeldande reglane er blitt høve til å bruke odelsrett før dei tilsvarande nye reglane har tatt til å gjelde.
+
+Odelsjord som er gått over til ein odelsrettshavar før dei nye reglane i denne lova tok til å gjelde, kan ikkje løysast av nokon som har betre odelsrett enn eigaren etter dei nye reglane, men som stod tilbake for eigaren etter dei reglane som galdt før.
+
+Ved avgjerd etter [§§ 14](lov/1974-06-28-58/§14) og [53 i](lov/1974-06-28-58/§53) denne lova skal det takast omsyn også til eigedomsovertaking frå før lova tok til å gjelde.
+
+For odlingsjord som etter dei hittil gjeldande reglane ikkje har kunne odlast av di grunnen ligg i område som er ført over til bykommune før [lov 14 juni 1963 nr. 5](lov/1963-06-14-5) tok til å gjelde (jfr. [lov 21 desember 1956 nr. 3](lov/1956-12-21-3) om endring i kommunal inndeling § 9), skal i odelshevdstida etter § 7 i lova her reknast med inntil 15 år, slik at dersom vilkåra for odelshevd elles har lege føre i 15 år eller meir når lova tar til å gjelde, skal odelshevd reknast for å vere fullført 5 år deretter. Same reglane skal gjelde for jord i Finnmark som staten har utvist eller selt med atterhald om at odel ikkje skal kunne hevdast.
+
+> Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70) (tidlegare § 60), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).

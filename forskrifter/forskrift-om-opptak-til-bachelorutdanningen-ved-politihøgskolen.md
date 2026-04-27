@@ -1,0 +1,162 @@
+---
+id: "sf-20170829-1592"
+slug: "forskrift-om-opptak-til-bachelorutdanningen-ved-politihøgskolen"
+type: "forskrift"
+ref_id: "forskrift/2017-08-29-1592"
+title: "Forskrift om opptak til bachelorutdanningen ved Politihøgskolen"
+short_title: "Forskrift om opptak til bachelorutdanningen ved Politihøgskolen"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2017-09-29"
+last_change_in_force: "2024-12-04"
+last_updated: null
+xml_hash: "43380aa48c92f00d143642e07c007dc8b37f4e35ddd431e7d391d755c40277ef"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om opptak til bachelorutdanningen ved Politihøgskolen
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Virkeområde
+
+Forskriften omhandler reglene og kravene for opptak til bachelorutdanningen ved Politihøgskolen.
+
+### § 1-2. Opptakskrav
+
+Denne forskriften fastsetter de opptakskrav som er nødvendige for å kunne gjennomføre fysiske, praktiske og teoretiske emner i den 3-årige bachelorutdanningen ved Politihøgskolen.
+
+### § 1-3. (Opphevet)
+
+> Tilføyd ved [forskrift 7 april 2020 nr. 728](forskrift/2020-04-07-728), opphevet ved [forskrift 7 april 2020 nr. 728](forskrift/2020-04-07-728) (i kraft 31 des 2020), tilføyd ved forskrift [21 des 2020 nr. 3086](forskrift/2020-12-21-3086) (i kraft 1 jan 2021), opphevet ved forskrift [21 des 2020 nr. 3086](forskrift/2020-12-21-3086) (i kraft 1 jan 2022).
+
+## Kapittel 2. Generelle opptakskrav
+
+### § 2-1. Generell studiekompetanse
+
+Søkere til bachelorutdanningen må ha generell studiekompetanse i samsvar med [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [kapittel 2](forskrift/2017-01-06-13/kap2) fastsatt av Kunnskapsdepartementet 6. januar 2017.
+
+### § 2-2. Unntak fra krav om generell studiekompetanse
+
+Søkere som ikke har generell studiekompetanse, har krav på å bli vurdert etter unntaksbestemmelsene i forskrift om opptak til høgre utdanning [kapittel 3](forskrift/2017-08-29-1592/kap3).
+
+### § 2-3. Tidspunkt for når opptakskrav må være oppfylt
+
+Opptakskrav etter dette kapittelet må være oppfylt innen søknadsfristen 1. mars.
+
+## Kapittel 3. Spesielle opptakskrav
+
+### § 3-1. Spesielle opptakskrav i tillegg til generell studiekompetanse
+
+Søkere til bachelorutdanningen må i tillegg til de generelle opptakskravene tilfredsstille følgende krav:Norsk statsborgerskapPlettfri vandelHatt førerrett klasse B i minst ett år pr. 1. august i opptaksåret.Karakter 3 eller bedre i norsk hovedmål skriftlig (393 timer) fra norsk videregående skole, (gjennomsnitt av standpunkt og eksamenskarakter). For søkere som har samisk som første- eller andrespråk gjelder karakterkravet i norsk for gjennomsnittet av karakterene i norsk skriftlig (309 timer) og samisk skriftlig (309 timer). For søkere som har finsk som andrespråk, gjelder karakterkravet i norsk gjennomsnittet av karakterene i første- og andrespråk skriftlig.For øvrig gjelder regler fastsatt av Kunnskapsdepartementet om ekvivalente prøver og karakterer i norsk.Oppfylle de medisinske krav, jf. [§ 3-3](forskrift/2017-08-29-1592/§3-3).Bestå fysiske krav, herunder krav til svømmeferdigheter.Fremstå som egnet etter vurdering i opptaksnemnd.
+
+Opptakskrav etter bokstav a, c, d og e må dokumenteres innen søknadsfristen 1. mars.
+
+> Endret ved forskrift [4 des 2024 nr. 2999](forskrift/2024-12-04-2999).
+
+### § 3-2. Medisinske krav
+
+Søker skal i henhold til de medisinske krav vurderes individuelt på bakgrunn av innsendt dokumentasjon. Søker må ikke ha:funksjonsnedsettelseaktivitetsbegrensning, ellerdeltakelsesbegrensningsom medfører at utdanningen ikke kan gjennomføres på en fullverdig måte.
+
+### § 3-3. Utarbeidelse av retningslinjer
+
+Politihøgskolen utarbeider nærmere retningslinjer for vurdering av medisinske og fysiske krav for gjennomføring av bachelorutdanningen, herunder praksisåret. Politidirektoratet utarbeider nærmere retningslinjer for vurdering av kravet til plettfri vandel og egnethet.
+
+## Kapittel 4. Opptak
+
+### § 4-1. Registrering via Samordna opptak
+
+Søknad til Politihøgskolens bachelorutdanning må registreres via Samordna opptak innen søknadsfristen 1. mars.
+
+### § 4-2. Medisinsk vurdering
+
+Den medisinske vurderingen gjennomføres på grunnlag av legeerklæring på fastlagt skjema og i henhold til Politihøgskolens retningslinjer. Dersom søker mener særskilt skjønn bør utøves må utfyllende legeopplysninger, eventuelt fra behandlende spesialist, dokumenteres av søker innen søknadsfristen. To eller flere sakkyndige leger oppnevnt av Politihøgskolens styre bistår i vurdering av legeerklæringer og dokumenterte helseopplysninger.
+
+### § 4-3. Politihøgskolens avgjørelse
+
+Politihøgskolen avgjør om søker oppfyller de generelle opptakskravene i [kapittel 2](forskrift/2017-08-29-1592/kap2) og de spesielle opptakskravene i [§ 3-1](forskrift/2017-08-29-1592/§3-1) bokstav a til og med f. Søker må i den forbindelse fremlegge uttømmende og utvidet politiattest.
+
+### § 4-4. Innkalling til opptaksprøver
+
+Politihøgskolen bestemmer, på grunnlag av søkers konkurransepoeng ved søknadsfristens utløp, antall søkere som hvert år skal innkalles til opptaksprøver.
+
+Kun søkere som oppfyller de generelle opptakskravene i [kapittel 2](forskrift/2017-08-29-1592/kap2) og de spesielle opptakskravene i [§ 3-1](forskrift/2017-08-29-1592/§3-1) bokstav a, b, c, d og e kan innkalles til opptaksprøver.
+
+### § 4-5. Opptaksprøver
+
+Opptaksprøver består av fysiske tester og vurdering i opptaksnemnd. Søkere som består de fysiske testene innkalles til egnethetsvurdering i opptaksnemnd.
+
+### § 4-6. Opptaksnemndenes vurdering
+
+Opptaksnemndene skal ved standardiserte metoder vurdere søkerens egnethet. Egnethet vurderes på bakgrunn av en totalvurdering av personlige kvalifikasjoner. Det skal legges vekt på politiinstruksens krav til personlige forhold og opptreden.
+
+### § 4-7. Karakterforbedringer
+
+Søkere som har bestått opptaksprøvene kan ettersende dokumentasjon for forbedring av karakter i videregående opplæring, samt annen poenggivende dokumentasjon etter [§ 5-1](forskrift/2017-08-29-1592/§5-1) frem til og med 1. juli.
+
+## Kapittel 5. Rangering
+
+### § 5-1. Generelt om rangering
+
+Kvalifiserte søkere konkurrerer om studieplass på grunnlag av poengberegning i henhold til § 7-1 (2) til og med (5), § 7-4 til og med § 7-8 og § 7-10 til og med § 7-13 i forskrift om opptak til høgre utdanning.
+
+### § 5-2. Rangering til ordinær kvote
+
+Til bachelorutdanning som tilbys på Politihøgskolens egne campuser rangeres alle søkere innen samme kvote. Det benyttes ikke egen kvote for søkere med førstegangsvitnemål.
+
+> Endret ved forskrift [4 des 2024 nr. 2999](forskrift/2024-12-04-2999)
+
+### § 5-3. Rangering til spesielle kvoter
+
+Til desentralisert bachelorutdanning er det fastsatt 75 prosent kvote for søkere fra Nord-Norge. Inntil 2 studieplasser settes i tillegg av til søkere med samisk språkkompetanse.
+
+> Tilføyd ved forskrift [4 des 2024 nr. 2999](forskrift/2024-12-04-2999)
+
+## Kapittel 6. Opptaksnemnd
+
+### § 6-1. Oppnevning av opptaksnemnder
+
+Opptaksnemnder oppnevnes av Politihøgskolens styre.
+
+For hver opptaksnemnd oppnevnes to medlemmer med juridisk embetseksamen/mastergrad i rettsvitenskap og fast ansettelse i politi- og lensmannsetaten. Fire medlemmer med politiskole-/politihøgskoleutdanning og fast ansettelse i politi- og lensmannsetaten, og to medlemmer utenfor etaten, fortrinnsvis ansatt i undervisnings-, universitets- eller høyskolesektoren. Ingen medlemmer skal være ansatt ved Politihøgskolen. Begge kjønn skal være likt representert.
+
+Politihøgskolen ivaretar administrasjonen av opptaksnemndene.
+
+### § 6-2. Sammensetning av opptaksnemnder
+
+Hver opptaksnemnd består av 8 medlemmer som deler oppdraget seg imellom, dog slik at nemnda for hver gang blir sammensatt på følgende måte:
+
+Én leder med juridisk embetseksamen/mastergrad i rettsvitenskap. To medlemmer med politiskole-/politihøgskoleutdanning, hvorav én av disse utpekes som sekretær. Ett medlem utenfor etaten. Begge kjønn skal være likt representert.
+
+### § 6-3. Oppnevningsperiode
+
+Medlemmer oppnevnes for en periode på inntil tre år, og kan reoppnevnes. Medlemmer som ikke lenger oppfyller vilkårene for å være medlem av opptaksnemnda må senest fratre ved utløpet av opptaksprosessen, men kan av styret bli pålagt å fratre tidligere.
+
+### § 6-4. Saksbehandlingsregler
+
+En opptaksnemnd er beslutningsdyktig når leder og minst to medlemmer er til stede. Vedtak fattes med vanlig flertall. Ved stemmelikhet er lederens stemme avgjørende.
+
+## Kapittel 7. Klagebehandling
+
+### § 7-1. Klagenemnd
+
+Klager behandles av en klagenemnd oppnevnt av Politihøgskolens styre.
+
+Dersom klagen gjelder vedtak i opptaksnemnda knyttet til egnethet, oversendes klagen til opptaksnemnda til ny vurdering. Dersom opptaksnemnda opprettholder sin avgjørelse, sendes klagen til klagenemnda med opptaksnemndas begrunnelse.
+
+Dersom klagen gjelder avslag på medisinsk grunnlag kan styret oppnevne en sakkyndig lege som bistår klagenemnda i behandlingen.
+
+### § 7-3. Saksbehandlingsregler
+
+Klager behandles i henhold til forvaltningslovens bestemmelser.
+
+## Kapittel 8. Øvrige bestemmelser
+
+### § 8-1. Ikrafttredelse
+
+Denne forskrift trer i kraft 1 måned etter at den er stadfestet av Politidirektoratet. Fra samme tid oppheves forskrift 16. mars 2015 om medisinske krav ved opptak til Politihøgskolen1 og regler 4. juli 2008 om opptak til bachelorutdanningen ved Politihøgskolen.1

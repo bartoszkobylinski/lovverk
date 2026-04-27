@@ -1,0 +1,168 @@
+---
+id: "nl-19970619-062"
+slug: "familievernkontorloven"
+type: "lov"
+ref_id: "lov/1997-06-19-62"
+title: "Lov om familievernkontorer"
+short_title: "Familievernkontorloven"
+language: "nb"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "1998-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2022-03-31"
+xml_hash: "8edb1705ba0f602b90919b75eab1faea0b6a0e09c9e9f0f4b4702c3b6ccdd8a2"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om familievernkontorer
+
+## § 1. Familievernkontorenes oppgaver
+
+Familievernet er en spesialtjeneste som har familierelaterte problemer som sitt fagfelt. Familievernkontorene skal gi et tilbud om behandling og rådgivning der det foreligger vansker, konflikter eller kriser i familien. Familievernkontorene skal foreta mekling etter [lov om ekteskap § 26](lov/1991-07-04-47/§26) og [barneloven § 51](lov/1981-04-08-7/§51). Familievernkontorene skal bistå der retten oppnevner en ansatt fra familievernet etter [barnelova § 65 a](lov/1981-04-08-7/§65a).
+
+Familievernkontorene bør også drive utadrettet virksomhet om familierelaterte tema. Dette kan bestå av veiledning, informasjon og undervisning rettet mot hjelpeapparatet og publikum.
+
+Familier, par eller enkeltpersoner kan henvende seg direkte til et familievernkontor. Lege, psykolog, medisinsk eller sosial institusjon eller offentlig myndighet kan henvise klienter til familievernkontor.
+
+> Endret ved lover [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [31 mars 2017 nr. 13](lov/2017-03-31-13) (ikr. 1 jan 2018 iflg. [res. 15 sep 2017 nr. 1395](forskrift/2017-09-15-1395)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+## § 1 a. Samarbeid og samordning
+
+Familievernkontoret skal samarbeide med andre tjenesteytere dersom samarbeid er nødvendig for å gi brukeren et helhetlig og samordnet tjenestetilbud.
+
+Kommunen skal samordne tjenestetilbudet etter første ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter [helse- og omsorgstjenesteloven § 7-2 a](lov/2011-06-24-30/§7-2a), skal koordinatoren sørge for samordning av tjenestetilbudet.
+
+Familievernkontoret skal, i tillegg til å følge opp enkelte brukere, samarbeide med andre tjenesteytere slik at familievernkontoret og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.
+
+Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter [barnehageloven § 19](lov/2005-06-17-64/§19) og skoler som får statstilskudd etter [privatskolelova § 6-1](lov/2003-07-04-84/§6-1).
+
+> Tilføyd ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) som endret ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+
+## § 2. Statlig regional familievernmyndighets oppgaver
+
+Familievernkontorene drives av den statlige regionale familievernmyndigheten eller den som statlig regional familievernmyndighet inngår avtale med om drift av familievernkontor. De kontorer det inngås slik avtale med, faller inn under denne loven.
+
+Statlig regional familievernmyndighet skal sørge for at familieverntjenesten finnes i regionen, og på forsvarlig måte planlegge, dimensjonere og organisere tjenesten.
+
+> Endret ved lov [9 mai 2003 nr. 29](lov/2003-05-09-29) (ikr. 1 jan 2004 iflg. [res. 9 mai 2003 nr. 596](forskrift/2003-05-09-596)).
+
+## § 2 a. Politiattest
+
+Den som skal ansettes ved et familievernkontor, skal fremlegge politiattest som nevnt i [politiregisterloven § 39](lov/2010-05-28-16/§39). Dette gjelder kun personer som skal utføre oppgaver som forutsetter et tillits- eller ansvarsforhold overfor mindreårige.
+
+> Tilføyd ved lov [16 juni 2023 nr. 42](lov/2023-06-16-42) (i kraft 1 sep 2023 iflg. [res. 16 juni 2023 nr. 899](forskrift/2023-06-16-899)).
+
+## § 3. Tilsyn
+
+Statsforvalteren fører tilsyn med virksomheten ved familievernkontorene i fylket.
+
+Statsforvalteren har rett til innsyn i nødvendige opplysninger i forbindelse med utøvelse av tilsynsoppgaven.
+
+> Endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## § 4. Legers selvstendige beslutningsansvar
+
+I tilfeller der faglig leder ikke er psykiater eller annen lege, og det er ansatt lege/psykiater ved kontoret, berører ikke dette legens selvstendige beslutningsansvar etter [helsepersonelloven § 4](lov/1999-07-02-64/§4) tredje ledd.
+
+> Endret ved lov [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)).
+
+## § 5. Taushetsplikt
+
+Enhver som utfører arbeid eller tjeneste for et familievernkontor har taushetsplikt etter [helsepersonelloven §§ 21](lov/1999-07-02-64/§21) og [23](lov/1999-07-02-64/§23) med mindre noe annet fremgår av loven her.
+
+Overtredelse av taushetsplikt etter denne bestemmelsen kan straffes etter [straffeloven § 209](lov/2005-05-20-28/§209).
+
+> Endret ved lover [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 5 a. Taushetsplikt og opplysningsplikt ved mekling
+
+Den som foretar mekling etter [lov om ekteskap § 26](lov/1991-07-04-47/§26) og [barneloven § 51](lov/1981-04-08-7/§51) og [§ 61](lov/1981-04-08-7/§61) første ledd nr. 2 har taushetsplikt om det som kommer fram om personlige forhold i forbindelse med oppdraget. §§ 6, 7, 9 og 10 i loven her gjelder tilsvarende.
+
+> Tilføyd ved lov [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), endret ved lov [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+## § 6. Taushetsplikt – samtykke
+
+Taushetsplikt er ikke til hinder for at opplysninger gjøres kjent for dem opplysningene direkte gjelder, eller for andre i den utstrekning de som har krav på taushet samtykker.
+
+For barn under 16 år, skal samtykke gis av foreldre eller foresatte. Etter hvert som barnet utvikles og modnes skal barnets foreldre høre hva barnet har å si før samtykke gis. Det skal legges vekt på hva barnet mener. Er barnet mellom 12 og 16 år, skal det legges stor vekt på hva barnet mener.
+
+Dersom et barns interesser tilsier det kan statsforvalteren eller departementet bestemme at opplysningene skal være undergitt taushetsplikt selv om det foreligger samtykke etter annet ledd.
+
+> Endret ved lover [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## § 7. Taushetsplikt i forhold til samarbeidende personell
+
+Taushetsplikt er ikke til hinder for at opplysninger gjøres kjent for annet personell ved det enkelte kontor av hensyn til klientbehandlingen med mindre klienten motsetter seg dette, og det etter forholdene kan og bør respekteres.
+
+## § 8. Forskning og statistikk
+
+Departementet kan bestemme at opplysninger kan eller skal gis til bruk for forskning og statistikk, og at det kan skje uten hinder av taushetsplikt. Opplysningene skal gis uten individualiserende kjennetegn.
+
+Til vedtak som nevnt i første ledd kan knyttes vilkår. Den som mottar opplysningene har taushetsplikt og straffansvar etter denne lov.
+
+Departementet kan gi nærmere forskrifter om bruk av taushetsbelagte opplysninger i forskning og statistikk.
+
+> Endret ved lov [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)).
+
+## § 9. Opplysninger til den kommunale helse- og omsorgstjenesten og sosialtjenesten
+
+Fagpersonell ved familievernkontor skal i sitt arbeid være oppmerksomme på forhold som bør føre til tiltak fra den kommunale helse- og omsorgstjenesten eller sosialtjenesten, og skal av eget tiltak gi den kommunale helse- og omsorgstjenesten og sosialtjenesten opplysninger om slike forhold. Opplysninger kan likevel bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt.
+
+Uten hinder av taushetsplikt etter [§ 5](lov/1997-06-19-62/§5) skal fagpersonell ved familievernkontorer av eget tiltak gi opplysninger til den kommunale helse- og omsorgstjenesten når det er grunn til å tro at en gravid kvinne misbruker rusmidler på en slik måte at det er overveiende sannsynlig at barnet vil bli født med skade, jf. helse- og [omsorgstjenesteloven § 10-3](lov/2011-06-24-30/§10-3). Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av helse- og omsorgstjenesteloven, plikter fagpersonell ved familievernkontorer å gi slike opplysninger.
+
+> Endret ved lover [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+## § 10. Opplysningsplikt til barnevernet
+
+Fagpersonell ved familievernkontor skal i sitt arbeid være oppmerksomme på forhold som kan føre til tiltak fra barnevernstjenesten.
+
+Fagpersonellet skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+
+Fagpersonellet plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
+
+> Endret ved lover [20 apr 2018 nr. 5](lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](forskrift/2018-06-08-839)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+
+## § 11. Klientjournal m.m.
+
+Ansvarlig behandler plikter å føre ordnede opptegninger over sin virksomhet. Det skal føres journal over hver klientenhet; par, familier og enkeltklienter. Helsepersonell som fører journal etter denne bestemmelsen plikter derfor ikke å føre journal for den enkelte klienten etter [helsepersonelloven § 39](lov/1999-07-02-64/§39).
+
+Departementet gir forskrifter om hva klientjournalen skal inneholde og hvordan klientjournal skal føres, herunder regler om supplering, retting og sletting samt oppbevaring og videre behandling.
+
+Plikten til å føre journal gjelder ikke ved mekling etter [lov om ekteskap § 26](lov/1991-07-04-47/§26) og [barneloven § 51](lov/1981-04-08-7/§51).
+
+> Endret ved lover [14 apr 2000 nr. 31](lov/2000-04-14-31) (ikr. 1 jan 2001 iflg. [res. 30 juni 2000 nr. 641](forskrift/2000-06-30-641)), [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+## § 12. Klienters rett til innsyn i journal
+
+Enhver har rett til innsyn i klientjournal for de opplysninger som direkte bare gjelder ham eller henne. Innsyn utover dette er avhengig av samtykke fra den eller de opplysningene direkte gjelder.
+
+Innsyn kan nektes dersom det av hensyn til vedkommendes helse, eller forhold til personer som står klienten nær, må anses utilrådelig.
+
+Klienten kan, dersom innsyn nektes, be om at opplysningene gjøres kjent for en representant han eller hun utpeker.
+
+Foreldre eller foresatte for barn under 16 år har innsynsrett i opplysninger som gjelder barnet. Foreldre eller foresatte til barn mellom 12 og 16 år har likevel ikke innsynsrett i opplysninger som gjelder barnet dersom barnet av grunner fagpersonellet mener bør respekteres ikke ønsker at opplysningene gis.
+
+## § 13. Saksbehandling
+
+Der ikke annet fremgår av loven gjelder forvaltningslovens regler. For kontorer som ikke går inn under definisjonen i [forvaltningsloven § 1](lov/1967-02-10/§1) annet punktum, får ikke [forvaltningsloven § 2](lov/1967-02-10/§2) annet ledd anvendelse.
+
+> Endret ved lov [15 juni 2001 nr. 38](lov/2001-06-15-38) (ikr. 1 sep 2001 iflg. [res. 15 juni 2001 nr. 613](forskrift/2001-06-15-613)).
+
+## § 14. Lovens anvendelse på Svalbard
+
+Kongen kan gi forskrifter om lovens anvendelse på Svalbard.
+
+## § 15. Ikrafttredelse og overgangsbestemmelser
+
+Loven trer i kraft 1. januar 1998.
+
+De eksisterende kontorer har rett til avtale med fylkeskommunen i to år fra lovens ikrafttredelse.
+
+## § 16. Endringer i andre lover
+
+Med virkning fra lovens ikrafttredelse gjøres følgende endring: – – –

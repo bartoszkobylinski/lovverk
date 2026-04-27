@@ -1,0 +1,432 @@
+---
+id: "sf-20071221-1573"
+slug: "ihr-forskriften"
+type: "forskrift"
+ref_id: "forskrift/2007-12-21-1573"
+title: "Forskrift om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse mv. (IHR-forskriften)"
+short_title: "IHR-forskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2008-01-01"
+last_change_in_force: "2019-10-18"
+last_updated: "2013-05-16"
+xml_hash: "84b71ddb78058b537c2627f163e68a1ad4586ba828409a363c02bae3a1eeef62"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse mv. (IHR-forskriften)
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Forskriften har til formål å forebygge og motvirke alvorlige hendelser av betydning for internasjonal folkehelse, og sikre en internasjonalt koordinert oppfølging. Dette skal gjøres på måter som unngår unødvendig forstyrrelse av internasjonal trafikk og handel.
+
+> Endret ved [forskrift 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 2. Virkeområde
+
+Forskriften gjelder for Norge og norsk del av kontinentalsokkelen, med de begrensninger som følger av folkeretten eller internasjonale avtaler.
+
+Forskriften gjelder oppdagelse, vurdering og varsling av alvorlige hendelser som kan ha betydning for internasjonal folkehelse, og nødvendige tiltak rettet mot personer i Norge eller som befinner seg på innreise til eller utreise fra Norge. Tilsvarende gjelder for bagasje, last, containere, transportmidler, humant biologisk materiale, postsendinger og varer, herunder dyr og planter.
+
+Med en alvorlig hendelse av betydning for internasjonal folkehelse menes i forskriften her en folkehelserisiko eller helsetrussel som kan spres over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. Hendelsen kan være av fysisk, biologisk, kjemisk eller ukjent opprinnelse.
+
+> Endret ved [forskrift 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 3. Nasjonalt kontaktpunkt for IHR og EWRS
+
+Folkehelseinstituttet er nasjonalt kontaktpunkt for Internasjonalt helsereglement (IHR) og Kommisjonens varslingssystem (EWRS), og skal til enhver tid være tilgjengelig for kommunikasjon med Verdens helseorganisasjons IHR-kontaktpunkter, Kommisjonen og relevante myndigheter i Norge.
+
+Folkehelseinstituttet skal også være ansvarlig for å videreformidle informasjon fra Verdens helseorganisasjon og Kommisjonen til relevante myndigheter i Norge.
+
+> Endret ved [forskrifter 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+## Kapittel 2. Varsling og oppfølging
+
+### § 4. Varslingsplikt for helsepersonell og andre myndigheter
+
+Lege, sykepleier, jordmor, helsesykepleier eller tannlege som mistenker eller påviser et tilfelle av sykdom eller skade som kan ha betydning for internasjonal folkehelse og som ikke allerede er varslet etter varslingsbestemmelsene i MSIS-forskriften 20. juni 2003 nr. 740 [kapittel 3](forskrift/2003-06-20-740/kap3) og [forskrift 25. april 2003 nr. 486](forskrift/2003-04-25-486) om miljørettet helsevern [§ 6](forskrift/2003-04-25-486/§6), skal uten hinder av lovbestemt taushetsplikt umiddelbart varsle kommunelegen.
+
+Ansatte ved politiet, tollvesenet, havner, flyplasser, Mattilsynet, Forsvaret, Kystvakten, Kystverket, Fiskeridirektoratet og Sjøfartsdirektoratet som innen sitt ansvarsområde blir kjent med informasjon som kan gi mistanke om en alvorlig hendelse som utgjør eller kan utgjøre en folkehelserisiko gjennom spredning av sykdom over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping, skal uten hinder av lovbestemt taushetsplikt umiddelbart varsle kommunelegen.
+
+Dersom det ikke er mulig å få varslet kommunelegen, skal Folkehelseinstituttet varsles direkte. Kommunelegen skal varsle Folkehelseinstituttet.
+
+Direktoratet for strålevern og atomsikkerhet skal varsle Folkehelseinstituttet om hendelser som kan ha betydning for internasjonal folkehelse.
+
+> Endret ved [forskrifter 23 mai 2014 nr. 667](forskrift/2014-05-23-667) som endret ved [forskrift 27 mai 2014 nr. 676](forskrift/2014-05-27-676) (i kraft 1 juli 2014), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [15 sep 2017 nr. 1396](forskrift/2017-09-15-1396), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019), [8 mars 2019 nr. 205](forskrift/2019-03-08-205), [18 okt 2019 nr. 1383](forskrift/2019-10-18-1383).
+
+### § 5. Varslingsplikt for fører av skip, luftfartøy og andre transportmidler
+
+Fører av skip eller luftfartøy skal snarest mulig og senest ved ankomst til første ankomstpunkt i Norge varsle om helsetilstanden om bord, dersom ett av følgende vilkår er oppfylt:føreren har grunn til å anta at det finnes smittestoffer eller annet agens om bord, som kan utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse,fartøyet kommer fra en havn eller lufthavn i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse, og ankomsten skjer i inkubasjonstiden,det finnes en person om bord som har oppholdt seg i et område som er erklært rammet av en smittsom sykdom eller annen alvorlig hendelse som kan ha betydning for internasjonal folkehelse på et slikt tidspunkt at inkubasjonstiden ikke er over ved fartøyets ankomst til Norge.
+
+Varsel etter første ledd skal gis kontrollsentralen, tollvesenet eller Kystverket, som deretter varsler kommunelegen eller Folkehelseinstituttet, jf. [§ 4](forskrift/2007-12-21-1573/§4).
+
+Andre transportører skal i tilfeller som nevnt i første ledd, avgi varsel til politi, som deretter varsler kommunelegen eller Folkehelseinstituttet, jf. [§ 4](forskrift/2007-12-21-1573/§4).
+
+> Endret ved [forskrifter 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [21 april 2017 nr. 482](forskrift/2017-04-21-482).
+
+### § 6. Varslets innhold
+
+Varsel etter [§ 4](forskrift/2007-12-21-1573/§4) og [§ 5](forskrift/2007-12-21-1573/§5) skal inneholde opplysninger som er relevante og nødvendige for at Folkehelseinstituttet skal kunne vurdere om hendelsen utløser varsel til Verdens helseorganisasjon og Kommisjonen i medhold av [§ 7](forskrift/2007-12-21-1573/§7).
+
+Folkehelseinstituttet kan innhente relevant og nødvendig tilleggsinformasjon.
+
+> Endret ved [forskrifter 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 7. Varsel til Verdens helseorganisasjon og Kommisjonen
+
+Folkehelseinstituttet skal vurdere hendelser som oppstår på norsk territorium innen 48 timer etter at instituttet er blitt kjent med hendelsen gjennom mottak av varsel eller på annen måte.
+
+Folkehelseinstituttet skal så raskt som mulig og senest innen 24 timer etter vurderingen etter første ledd varsle Verdens helseorganisasjon og Kommisjonen om alle hendelser på norsk territorium som kan utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse, samt om ethvert tiltak som iverksettes som en respons på disse hendelsene.
+
+Folkehelseinstituttet skal sammen med varslet gi opplysninger om mulig årsak eller smittekilde til Verdens helseorganisasjon og Kommisjonen. Er hendelsen eller sykdommen oppdaget blant personer eller gods som befinner seg i et transportmiddel som kommer fra utlandet, skal det gis detaljerte opplysninger om transportmiddelet og dets reiserute, samt hvilke strakstiltak som er blitt iverksatt.
+
+Folkehelseinstituttet skal informere departementet, Helsedirektoratet og andre relevante myndigheter om varslingen.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 8. Oppfølging av varsel til Verdens helseorganisasjon og Kommisjonen
+
+Etter at varsel til Verdens helseorganisasjon eller Kommisjonen i medhold av [§ 7](forskrift/2007-12-21-1573/§7) er avgitt, skal Folkehelseinstituttet fortsette å oversende til Verdens helseorganisasjon og Kommisjonen tilgjengelig informasjon om den varslede hendelsen.
+
+Informasjonen skal om mulig inneholde kasusdefinisjoner, laboratorieresultater, risikokilde og -type, antall tilfeller og dødsfall og forhold som er relevante for den varslede hendelsen. Det skal informeres om hvilke tiltak som er iverksatt og hvilken støtte som trengs for å følge opp den varslede hendelsen.
+
+> Endret ved [forskrifter 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 9. Henvendelse fra Verdens helseorganisasjon og Kommisjonen om en mulig alvorlig hendelse i Norge
+
+Dersom Verdens helseorganisasjon eller Kommisjonen henvender seg til Folkehelseinstituttet med mistanke om en alvorlig hendelse av betydning for internasjonal folkehelse i Norge basert på andre kilder enn varsel etter [§ 8](forskrift/2007-12-21-1573/§8), skal Folkehelseinstituttet innen 24 timer bekrefte at henvendelsen er mottatt og oversende tilgjengelig informasjon om hendelsen samt annen relevant informasjon.
+
+Folkehelseinstituttet skal informere departementet, Helsedirektoratet og andre relevante myndigheter om kommunikasjonen med Verdens helseorganisasjon.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 10. Varsel fra Verdens helseorganisasjon og Kommisjonen om en alvorlig hendelse i utlandet
+
+Dersom Folkehelseinstituttet får varsel fra Verdens helseorganisasjon eller via Kommisjonens varslingssystem om en alvorlig hendelse av betydning for internasjonal folkehelse som har oppstått i utlandet og som kan berøre Norge, skal instituttet umiddelbart informere departementet, Helsedirektoratet og andre relevante myndigheter om dette.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 11. Underretning til Verdens helseorganisasjon og Kommisjonen om en mulig alvorlig hendelse i utlandet
+
+Dersom Folkehelseinstituttet mottar dokumentasjon om en mulig alvorlig hendelse i utlandet som kan ha betydning for internasjonal folkehelse, i form av sykdom hos tilreisende, vektorer som bærer smitte eller varer som er infisert eller kontaminert, skal Verdens helseorganisasjon og Kommisjonen varsles innen 24 timer.
+
+Folkehelseinstituttet skal informere departementet, Helsedirektoratet og andre relevante myndigheter om kommunikasjonen med Verdens helseorganisasjon og Kommisjonen.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 12. Behandling av personopplysninger
+
+Ved varsel etter kapittelet her skal helseopplysninger og andre personopplysninger ikke inneholde direkte personidentifiserende kjennetegn, med mindre det er nødvendig for å motvirke en alvorlig hendelse som kan ha betydning for internasjonal folkehelse.
+
+Dersom det er nødvendig for å motvirke en alvorlig hendelse som kan ha betydning for internasjonal folkehelse, kan det utleveres helseopplysninger og andre personopplysninger til Verdens helseorganisasjon, Kommisjonen og andre land.
+
+Opplysninger som Folkehelseinstituttet mottar fra Verdens helseorganisasjon, Kommisjonen, andre land eller personell som ikke har varslingsplikt etter [MSIS-forskriften kapittel 3](forskrift/2003-06-20-740/kap3), skal behandles på samme måte som varsler i henhold til [MSIS-forskriften kapittel 3](forskrift/2003-06-20-740/kap3).
+
+> Endret ved [forskrifter 23 mai 2014 nr. 667](forskrift/2014-05-23-667) som endret ved [forskrift 27 mai 2014 nr. 676](forskrift/2014-05-27-676) (i kraft 1 juli 2014), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+## Kapittel 3. Midlertidige tiltak for å begrense skadevirkningene av en alvorlig hendelse av betydning for internasjonal folkehelse
+
+### § 13. Anbefalinger fra Verdens helseorganisasjon om midlertidige tiltak
+
+Folkehelseinstituttet skal videreformidle informasjon om anbefalinger fra Verdens helseorganisasjon om midlertidige tiltak til departementet, Helsedirektoratet og andre relevante myndigheter.
+
+Helsedirektoratet skal informere berørte kommuner og fylkeskommuner om anbefalinger fra Verdens helseorganisasjon og kan gi nærmere retningslinjer om gjennomføring av tiltak i medhold av relevant regelverk.
+
+Kommunene og fylkeskommunene skal i henhold til gjeldende varslings- og rapporteringsrutiner informere Helsedirektoratet om de tiltak som iverksettes.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 13a. Kommunens virkemidler
+
+Kommunen kan følge opp anbefaling fra Verdens helseorganisasjon gjennom pålegg etter [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3) med forskrifter.
+
+> Tilføyd ved [forskrift 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 14. Tiltak overfor personer
+
+Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 3](lov/1994-08-05-55/kap3), [4](lov/1994-08-05-55/kap4) og 5, bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor personer ved innreise til eller utreise fra Norge for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:plikt til å opplyse om reisehistorikk i berørte områder, samt planlagt reiserute eller oppholdssted,plikt til å fremlegge dokumentasjon på medisinske undersøkelser, laboratorieanalyser, vaksinasjon eller annen profylaktisk behandling, herunder vaksinasjonssertifikat,medisinske undersøkelser av personer som er mistenkt smittet,masseundersøkelser,nekte mistenkt smittede personer innreise, dersom ingen andre tiltak anses tilstrekkelige,nekte ikke-smittede personer innreise til berørte områder, dersom ingen andre tiltak anses tilstrekkelige.
+
+Undersøkelser etter første ledd bokstav c) eller d) kan iverksettes etter vilkårene i [smittevernloven § 3-1](lov/1994-08-05-55/§3-1). Undersøkelsene kan omfatte bildeundersøkelse, tuberkulinprøving, blodprøvetaking eller andre tilsvarende undersøkelser som kan gjøres uten fare.
+
+Helsedirektoratet kan pålegge andre myndigheter å bistå med gjennomføringen av tiltakene i første ledd, jf. [smittevernloven § 4-10](lov/1994-08-05-55/§4-10).
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [21 april 2017 nr. 482](forskrift/2017-04-21-482).
+
+### § 15. Tiltak overfor bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale og varer
+
+Helsedirektoratet kan, i tillegg til tiltak etter [smittevernloven kapittel 4](lov/1994-08-05-55/kap4), bestemme at følgende tiltak, i den utstrekning de er nødvendige, skal iverksettes overfor bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale og varer for å motvirke at smittsomme sykdommer eller annet agens som kan ha betydning for internasjonal folkehelse føres inn i landet eller spres til andre land, jf. [smittevernloven § 4-3](lov/1994-08-05-55/§4-3) og [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde ledd, jf. første ledd:gjennomgang av godsmanifest og rute,gjennomføring av inspeksjoner og undersøkelser,gjennomgang av dokumentasjon på tiltak iverksatt ved avsendelse eller i transitt for å utelukke smitte,behandling av bagasje, last, containere, transportmidler, postpakker, humant biologisk materiale eller varer for å fjerne smitte, herunder vektorer og reservoarer,andre særlige helsetiltak for å sikre trygg håndtering og transport av humant biologisk materiale,isolasjon eller karantene,beslag og destruksjon av mistenkt infisert bagasje, last, containere, transportmidler, postpakker eller varer, dersom ingen annen tilgjengelig behandling anses tilstrekkelig,nekte inn- eller utførsel, samt innreise eller avreise for transportmidler.
+
+Helsedirektoratet kan pålegge andre myndigheter å bistå med gjennomføringen av tiltakene i første ledd, jf. [smittevernloven § 4-10](lov/1994-08-05-55/§4-10).
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [21 april 2017 nr. 482](forskrift/2017-04-21-482).
+
+### § 16. Unntak for transportmidler og varer i transitt
+
+Med mindre det foreligger begrunnet mistanke om eller kliniske tegn, symptomer eller annen dokumentasjon på smittekilder om bord, kan tiltak etter [§ 14](forskrift/2007-12-21-1573/§14) ikke iverksettes overfor:skip i transitt som passerer gjennom en sjøkanal eller vannvei i Norge, og som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse,skip som passerer gjennom norsk territorialfarvann uten å anløpe havn eller kyst,luftfartøy i transitt ved norsk lufthavn, dog slik at luftfartøyet kan bli pålagt å holde seg til en bestemt del av lufthavnen og ikke tillate noen ombordstigning, avstigning, lasting eller lossing,lastebiler, tog og busser i transitt som ikke kommer fra et område som er rammet av en alvorlig hendelse av betydning for internasjonal folkehelse, og som passerer gjennom et område uten noen ombordstigning, avstigning, lasting eller lossing, ellervarer i transitt som ikke blir omlastet, unntatt levende dyr.
+
+Ethvert transportmiddel skal tillates å ta om bord drivstoff, vann, mat og forsyninger.
+
+### § 17. Skip, luftfartøy og andre transportmidler på innreisesteder
+
+Skip og luftfartøy kan ikke av folkehelsehensyn nektes å anløpe eller ankomme en havn eller lufthavn, ta om bord eller sette av, losse eller laste last eller forråd. Ethvert transportmiddel skal tillates å ta om bord drivstoff, vann, mat og forsyninger. Pålegg eller tillatelser etter dette leddet kan gjøres betinget av inspeksjon og gjennomføring av helsetiltak for å motvirke spredning av smitte eller annet agens.
+
+Dersom det ikke er mulig å få iverksatt tilfredsstillende kontrolltiltak overfor et infisert transportmiddel, eller det iverksatte tiltaket ikke er vellykket, kan transportmidlet likevel få tillatelse til å reise videre under forutsetning av at ansvarlig myndighet underretter myndighetene på neste kjente innreisested om forholdene.
+
+Dersom det anses påkrevd, kan transportmidlet henvises videre til nærmeste utpekte havn, lufthavn eller grensepasseringssted, jf. [§ 19](forskrift/2007-12-21-1573/§19).
+
+> Endret ved [forskrift 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+## Kapittel 4. Stående tiltak for å forebygge og begrense skadevirkningene av en alvorlig hendelse av betydning for internasjonal folkehelse
+
+### § 18. Anbefalinger fra Verdens helseorganisasjon om stående tiltak
+
+Folkehelseinstituttet skal videreformidle informasjon om anbefalinger fra Verdens helseorganisasjon om stående tiltak til departementet, Helsedirektoratet, Direktoratet for strålevern og atomsikkerhet og andre relevante myndigheter.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [15 sep 2017 nr. 1396](forskrift/2017-09-15-1396), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+### § 19. Utpekte havner, lufthavner og grensepasseringssteder
+
+Helsedirektoratet utpeker hvilke havner, lufthavner og grensepasseringssteder som skal ivareta særskilte oppgaver, slik at de kan håndtere en alvorlig hendelse som kan ha betydning for internasjonal folkehelse.
+
+Kommunen skal sørge for at utpekte havner, lufthavner og grensepasseringssteder har tilgang til de lokaler og det personale og utstyr som er nødvendig for kontroll av passasjerer, bagasje, last, containere, transportmidler, humant biologisk materiale, postsendinger og varer, herunder dyr og planter, for å beskytte mot en alvorlig hendelse som kan ha betydning for internasjonal folkehelse.
+
+Helsedirektoratet kan gi retningslinjer om forhold nevnt i annet ledd.
+
+> Endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017).
+
+### § 20. Helseerklæringer
+
+Fører av skip eller luftfartøy skal utfylle og avgi henholdsvis «Erklæring om helseforholdene om bord på skip» eller «Helsedelen av Luftfartøysdeklarasjonen». Erklæringen skal avgis til tjenestemann ved tollvesenet eller kommunelegen ved ankomst til landet.
+
+Tolltjenestemannen underretter kommunelegen umiddelbart, dersom det fremkommer opplysninger i helseerklæringen som gir grunn til nærmere undersøkelser.
+
+### § 21. Hygienesertifikater for skip
+
+Kommunelegen kan, dersom det anses nødvendig av hensyn til folkehelsen, bestemme at fører av skip ved ankomst til første havn i Norge skal fremlegge «Sertifikat for hygienekontroll på skip» eller «Sertifikat for dispensasjon fra hygienekontroll på skip».
+
+Foreligger det i tilfeller som nevnt i første ledd, ikke sertifikat for hygienekontroll eller dispensasjon, eller sertifikatet er ugyldig, skal kommunelegen omgående varsles om dette av dem som utfører kontrollen med sertifikatene. Etter foretatt inspeksjon om bord på skipet kan kommunelegen beslutte at hygienekontroll skal finne sted og utstede sertifikat om foretatt kontroll eller om dispensasjon.
+
+Er kommunen ikke godkjent for oppgaven, skal skip henvises til nærmeste godkjente havn for befaring og utstedelse av sertifikat.
+
+Helsedirektoratet godkjenner hvilke kommuner som kan utføre hygienekontroll på skip og utstede sertifikater for foretatt kontroll eller dispensasjon. Sertifikatene er gyldige i seks måneder, men kan forlenges med én måned.
+
+> Endret ved [forskrift 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016).
+
+### § 22. Gebyrer og dekning av utgifter
+
+Eier eller driftsansvarlig for skip, luftfartøy og annet transportmiddel som kommer til Norge, skal betale for det arbeidet som utføres i forbindelse med inspeksjon, desinfeksjon, insektsutrydding, rotteutrydding eller annen sanering etter pålegg gitt i medhold av [§ 14](forskrift/2007-12-21-1573/§14). Betalingen skal ikke være høyere enn hva de aktuelle ytelser har kostet. Tilsvarende gjelder ved tiltak overfor bagasje, last, containere, postpakker, humant biologisk materiale og varer, jf. [§ 15](forskrift/2007-12-21-1573/§15).
+
+Helsedirektoratet fastsetter nærmere gebyrsatser for undersøkelse og kontroll som foretas i forbindelse med utstedelse av «Sertifikat for hygienekontroll på skip» eller «Sertifikat for dispensasjon fra hygienekontroll på skip». Det kan kreves betaling for inspektørenes reise til og fra skipet. Det kan ikke kreves betaling for utstedelse av ovennevnte sertifikater.
+
+Det kan ikke kreves dekning av utgifter fra reisende for følgende ytelser:medisinsk undersøkelse som utføres i henhold til denne forskriften,tilleggsundersøkelser for å undersøke den reisendes helsetilstand,vaksinasjon eller annen profylaktisk behandling ved ankomst til Norge,påkrevd isolasjon av eller karantene for reisende,ethvert sertifikat utstedt til den reisende, ogethvert helsetiltak iverksatt overfor bagasje som den reisende bringer med seg.
+
+> Endret ved [forskrift 18 des 2015 nr. 1588](forskrift/2015-12-18-1588) (i kraft 1 jan 2016).
+
+## Kapittel 5. Avsluttende bestemmelser
+
+### § 23. Dispensasjon
+
+Departementet kan i særlige tilfeller gi dispensasjon fra bestemmelser gitt i eller i medhold av forskriften her. Det kan settes vilkår for en eventuell dispensasjon.
+
+### § 24. Straff
+
+Overtredelse av denne forskrift eller vedtak truffet med hjemmel i forskriften straffes etter bestemmelsene i [smittevernloven § 8-1](lov/1994-08-05-55/§8-1), jf. [straffeloven § 156](lov/2005-05-20-28/§156) og [§ 357](lov/2005-05-20-28/§357).
+
+### § 25. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2008.
+
+### § 26. Opphevelse av og endringer i andre forskrifter
+
+Fra den tid forskriften trer i kraft, oppheves følgende forskrifter:[Forskrifter 9. mai 1953 nr. 7](forskrift/1953-05-09-7) om vern mot overføring av smittsom sykdom fra utlandet m.v.[Forskrifter 1. februar 1954 nr. 2](forskrift/1954-02-01-2) om karantenetilsyn i havner og lufthavner.[Forskrifter 1. februar 1954 nr. 1](forskrift/1954-02-01-1) om tollvesenets plikter, om plikter for de ansvarshavende for lufthavner (flyplasser) og om godkjenning for utstedelse av rottesertifikater.[Forskrift 29. april 1955 nr. 1](forskrift/1955-04-29-1) om tollvesenets plikter og om plikter for de ansvarshavende for lufthavner (flyplasser).
+
+Fra samme tid gjøres følgende endringer i andre forskrifter: – – –
+
+## Merknader til forskrift om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse (IHR-forskriften)
+
+*Merknadene er en veiledning for å utdype innholdet i enkelte av bestemmelsene i forskriften. Merknadene er i seg selv ikke rettslig bindende. Forskriften og merknadene bør leses i sammenheng for å få en best mulig forståelse av forskriftenes bestemmelser*.
+
+IHR-forskriften gjennomfører Verdens helseorganisasjons (WHOs) Internasjonalt helsereglement (2005), og Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) som blant annet regulerer EUs varslingssystem EWRS, jf. merknadene til [§ 1](forskrift/2007-12-21-1573/§1) nedenfor. Gjennomføringen omfatter varsling og oppfølging av alvorlige hendelser av betydning for internasjonal folkehelse, uavhengig av opprinnelse.
+
+IHR står for International Health Regulations (Internasjonalt helsereglement). IHR regulerer blant annet varslinger til WHO. EWRS står for Early Warning and Response System (Tidlig varsling og respons system). EWRS er EU-Kommisjonens varslingssystem.
+
+Forskriften gjennomfører sammen med smittevernloven, helseberedskapsloven og folkehelseloven forpliktelsene Norge har akseptert ved inngåelsen av WHOs helsereglement, IHR (2005), og Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) av 22. oktober 2013 om alvorlige helsetrusler over landegrensene og om oppheving av vedtak nr. [2119/98/EF](eu/31998d2119). IHR (2005) erstatter tidligere helsereglement fra 1969 og har gyldighet fra 15. juni 2007. Dette reglementet er å betrakte som en internasjonal avtale. Reglementet stiller krav om informasjon til WHO og andre land og gjør det nødvendig å organisere et apparat i Norge både på varslings- og responssiden. Med Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) har Norge forpliktet seg til å varsle om grensekryssende helsetrusler i Kommisjonens varslingssystem, EWRS. Beslutningen ble tatt inn i protokoll 31 til EØS-avtalen 20. mars 2015.
+
+Fra 3. juli 2015 er Norge også fullverdig medlem av EUs varslingssystem for atomulykker (ECURIE), der Statens strålevern (Strålevernet)1 er nasjonalt kontaktpunkt.
+
+Formålet med forskriften er ikke bare å etterkomme forpliktelsene overfor WHO og Kommisjonen, men også å bidra til at den norske befolkningen til enhver tid er best mulig beskyttet mot alvorlige internasjonale helsetrusler.
+
+IHR (2005) og EUs beslutning 1080/2013/EU forplikter landene til å etablere kontaktpunkter for varsling til og mottak av varsel fra WHO ved alvorlige hendelser av betydning for internasjonal folkehelse, jf. forskriften [§ 3](forskrift/2007-12-21-1573/§3).
+
+IHR-forskriften gjelder for Svalbard i samsvar med [forskrift 22. juni 2015 nr. 747](forskrift/2015-06-22-747) om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen [§ 9](forskrift/2007-12-21-1573/§9) første ledd bokstav e. Når det gjelder kontinentalsokkelen er utgangspunktet at norsk lovgivning gjelder.
+
+IHR (2005) omfatter alle hendelser, uavhengig av årsak eller kilde, som kan ha betydning for internasjonal folkehelse. EWRS omfatter alle kategorier av trusler mot helsen av biologisk, kjemisk og miljømessig opprinnelse. Radiologiske eller nukleære hendelser omfattes ikke av EWRS da dette ivaretas av ECURIE innenfor EU.
+
+Fra 1. januar 2017 omfatter IHR-forskriften ikke bare smittsomme sykdommer, men enhver alvorlig hendelse som kan ha betydning for internasjonal folkehelse, og mistanke om slike eller mistanke om hendelser som ikke kan utelukkes å være det.
+
+En del smittsomme sykdommer og utbrudd er allerede varslingspliktige i Norge, jf. forskrift [20. juni 2003 nr. 740](forskrift/2003-06-20-740) (MSIS-forskriften) [kapittel 3](forskrift/2003-06-20-740/kap3). For miljøhendelser ligger det også plikter om lokal og nasjonal varsling i blant annet forskrift om miljørettet helsevern og forurensningsregelverket.
+
+En alvorlig hendelse av betydning for internasjonal folkehelse er definert i forskriften som en folkehelserisiko eller helsetrussel som kan spres over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. En slik alvorlig hendelse som er av betydning for internasjonal folkehelse utgjør en såkalt PHEIC under IHR/WHO. Behovet for oppmerksomhet og varsling gjelder også før en hendelse er definert som PHEIC, og flere av forskriftens bestemmelser viser derfor til alvorlig hendelse som kan ha betydning for internasjonal folkehelse.
+
+Definisjonen ble endret 1. januar 2017 for å innlemme EWRS og varsling til Kommisjonen, som har en noe lavere terskel enn varsling etter IHR. Definisjonen omfatter fortsatt en ekstraordinær hendelse (en PHEIC) som etter IHR er fastslått åutgjøre en folkehelserisiko for andre stater gjennom internasjonal spredning av sykdom med mer, ogpotensielt fordrer en samordnet internasjonal respons.
+
+En folkehelserisiko er sannsynlighet for at en hendelse skal finne sted som kan være helseskadelig for befolkningen, særlig en hendelse som kan spre seg internasjonalt eller utgjør en alvorlig og direkte fare.
+
+En helsetrussel er en hendelse som er uvanlig og uventet for tid og sted, kan forårsake vesentlig sykdom, skade eller død, eller har rask og ukontrollert sykdomsspredning. En helsetrussel kan være av både fysisk, biologisk, kjemisk eller ukjent opprinnelse. Fysisk inkluderer også hendelser med radioaktive eller nukleære stoffer. En hendelse som omfattes av forskriften kan for eksempel være et utbrudd av sykdom eller enkelttilfeller av sykdom, kjemikaliehendelse, radioaktiv eller nukleær hendelse, eller annen miljøhendelse med ukjent opprinnelse. Videre vil et alvorlig utbrudd av en allmennfarlig smittsom sykdom, jf. [smittevernloven § 1-3](lov/1994-08-05-55/§1-3) første ledd nr. 4 og [forskrift 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer, vanligvis utgjøre en alvorlig hendelse av betydning for internasjonal folkehelse.
+
+Ved mistanke om en alvorlig hendelse av betydning for internasjonal folkehelse skal varsel gå til Folkehelseinstituttet ved Smittevernvakta på instituttet ved smittevernhendelser og til Giftinformasjonen ved andre typer hendelser (se Beredskapstelefoner på [www.fhi.no](https://www.fhi.no)). Folkehelseinstituttet vurderer deretter om hendelsen skal varsles videre til WHO og Kommisjonen.
+
+Helsedirektoratet ved Statens strålevern1 er nasjonalt varslingspunkt for IAEA og fra 3. juli 2015 også nasjonalt varslingspunkt for EUs varslingssystem for atomulykker (ECURIE). Helsedirektoratet ved Statens strålevern sørger for at meldinger via ECURIE mottas og viderevarsles til FHI og andre aktuelle beredskapsaktører.
+
+De nasjonale kontaktpunktene skal til enhver tid være tilgjengelige for kommunikasjon med WHOs IHR-kontaktpunkter og Kommisjonen. For å unngå varsling av samme hendelse i flere ulike systemer bør Folkehelseinstituttet og Helsedirektoratet ved Statens strålevern1 samarbeide og sørge for god kommunikasjonsutveksling.
+
+Relevante myndigheter kan være departementer, Helsedirektoratet, Statens strålevern, Statens helsetilsyn, helse- og omsorgstjenesten, Fylkesmannen, Mattilsynet, Kystverket, Luftfartstilsynet, politi og tollvesen mfl.
+
+Det er viktig å understreke at det er plikt til å varsle om mistanke om et tilfelle av sykdom eller skade som kan ha betydning for internasjonal folkehelse. Helsepersonell og kommunelegen skal altså ikke selv vurdere om den aktuelle hendelsen er varslingspliktig til WHO og Kommisjonen, jf. [§ 7](forskrift/2007-12-21-1573/§7). Det er viktig at alle hendelser som kan tenkes å få betydning, varsles til Folkehelseinstituttet. Instituttet vil i mange tilfeller ha supplerende informasjon fra andre kilder og kan gjøre en samlet vurdering. Folkehelseinstituttet vil ta stilling til om hendelsen kan være av betydning for internasjonal folkehelse etter retningslinjer gitt av WHO og i beslutning nr. [1082/2013/EU](eu/32013d1082*) artikkel 9, jf. [§ 7](forskrift/2007-12-21-1573/§7).
+
+Se også varslingsplikten som følger av [lov 23. juni 2000 nr. 56](lov/2000-06-23-56) om helsemessig og sosial beredskap [§ 2-3](lov/2000-06-23-56/§2-3).
+
+Det er viktig å understreke at det er plikt til å varsle kommunelegen om mistanke om en alvorlig hendelse som utgjør eller kan utgjøre en folkehelserisiko gjennom spredning av sykdom over landegrensene, og som kan kreve en internasjonalt koordinert bekjemping. Andre myndigheter og kommunelegen skal altså ikke selv vurdere om den aktuelle hendelsen er varslingspliktig til WHO eller Kommisjonen, jf. [§ 7](forskrift/2007-12-21-1573/§7). Det er viktig at alle hendelser som kan tenkes å få betydning, varsles til Folkehelseinstituttet. Varslingsplikten etter andre ledd gjelder hendelser med smittsomme sykdommer. Ansattes varslingsplikt skal være forenelig med deres øvrige oppgaver.
+
+Ved forhold innenfor Mattilsynets ansvarsområde (mat, dyr og planter) skal ansatte i Mattilsynet varsle kommunelegen. Det vises også til [MSIS-forskriften § 3-9](forskrift/2003-06-20-740/§3-9) (varsling om smitte fra næringsmidler) og [§ 3-10](forskrift/2003-06-20-740/§3-10) (varsling om smitte fra dyr). Statens strålevern1 har ikke plikt til å varsle kommunelegen etter denne forskriftens § 4, da Strålevernet allerede har varslingsplikt til Fylkesmannen som så har den videre lokale kontakten, jf. [kgl.res. 23. august 2013 nr. 1023](forskrift/2013-08-23-1023) om atomberedskap.
+
+Bestemmelsen angir at dersom det ikke er mulig å få varslet kommunelegen, skal Folkehelseinstituttet varsles direkte. Kommunelegen skal varsle fylkesmannen og Folkehelseinstituttet. Ved mistanke om en alvorlig hendelse som er av eller kan ha betydning for internasjonal folkehelse skal varsel gå til Folkehelseinstituttet ved Smittevernvakta på instituttet ved smittsomme sykdommer og Giftinformasjonen ved andre typer hendelser (se Beredskapstelefoner på [www.fhi.no](https://www.fhi.no)). Det er viktig at varsel til Folkehelseinstituttet gis umiddelbart og telefonisk, eller som nærmere angitt på FHIs nettsider. På denne måten kan også varsleren gi nødvendige tilleggsopplysninger til instituttet som trengs for eventuell videreformidling av varslet til WHO og Kommisjonen. Folkehelseinstituttet kan også be om relevant tilleggsinformasjon, slik at instituttet kan gjøre vurderingen som er nevnt i [§ 7](forskrift/2007-12-21-1573/§7). Folkehelseinstituttet som mottaker av varsel skal gi veiledning om hvordan varsel skal sendes og mottas. Det presiseres at varslingsplikter etter forskriften inkluderer plikt til å sikre at varsel er mottatt.
+
+Fjerde ledd er en kodifisering av gjeldende varslingspraksis mellom Statens strålevern1 og Folkehelseinstituttet. Det presiseres at Statens strålevern har en varslingsplikt om hendelser som Strålevernet får kjennskap til gjennom sin virksomhet og som kan ha betydning for internasjonal folkehelse. Dette for å sikre at FHI som IHR-kontaktpunkt raskt får kjennskap til aktuelle hendelser. I samsvar med kgl.res. om atomberedskap varsler Statens strålevern også FHI som rådgiver for Kriseutvalget for atomberedskap om hendelser innenfor Kriseutvalget for atomberedskap sitt mandat.
+
+Inkubasjonstid er kun relevant ved hendelser med smittestoffer. For andre typer agens kan det være aktuelt med en mer konkret risikovurdering, herunder at risikoen ikke er over ved ankomst til Norge.
+
+Varsel fra fører av skip eller luftfartøy etter første ledd skal gis til Kystverket (skip), tollvesenet (skip) eller kontrollsentralen (fly), som igjen varsler videre til kommunelegen i den kommunen hvor flyplassen eller ankomsthavnen ligger. Kommunelegen varsler videre til Folkehelseinstituttet, jf. [§ 4](forskrift/2007-12-21-1573/§4).
+
+Med mindre annet er særskilt bestemt i helselovgivningen, skal varsel til helsemyndighetene i tilfeller omfattet av bestemmelsen primært skje telefonisk (eventuelt via nødnett). Annen elektronisk varsling kan komme i tillegg til dette. Med elektronisk varsling menes her for eksempel e-post, sms, forsendelser via nettportaler som CIM, SafeSeaNet med mer.
+
+Det følger av [helseregisterloven § 6](lov/2014-06-20-43/§6) at det bare kan behandles helseopplysninger som er tilstrekkelige og relevante for å ivareta konkret angitt formål. I dette ligger en begrensning av hvilke opplysninger som kan registreres.
+
+Folkehelseinstituttet vil fortløpende vurdere alle hendelser som instituttet er blitt kjent med etter varsling, jf. denne forskrift [§ 4](forskrift/2007-12-21-1573/§4) og [§ 5](forskrift/2007-12-21-1573/§5) eller gjennom sin overvåking, jf. MSIS-forskriften, samt gjennom øvrig epidemietterretning.
+
+Folkehelseinstituttet vil varsle hendelser til WHO dersom minst to av følgende kriterier er oppfylt:hendelsen har alvorlig innvirkning på folkehelsen,hendelsen er uvanlig eller uventet,det er risiko for internasjonal spredning, og/ellerdet er risiko for internasjonale reise- eller handelsrestriksjoner.
+
+Folkehelseinstituttet vil varsle hendelser til Kommisjonen dersom følgende kriterier er oppfylt:den er uvanlig eller uventet på det aktuelle sted og tidspunkt, eller den fører til eller kan føre til betydelig sykelighet eller dødelighet hos mennesker, eller den øker eller kan øke raskt i omfang, eller den er for omfattende til å kunne håndteres med nasjonal innsatskapasitet, ogden berører eller kan berøre mer enn én medlemsstat, ogden krever eller kan kreve samordnet innsats på innenfor EU/EØS.
+
+Det er i praksis en noe lavere terskel for å varsle Kommisjonen enn å varsle WHO. Innenfor EU varsles ikke hendelser med radioaktive eller nukleære stoffer i EWRS, da slike hendelser varsles via EUs varslingssystem for atomulykker (ECURIE).
+
+Dersom det oppstår hendelser som i utgangspunktet reiser tvil om de oppfyller kriteriene til alvorlig hendelse, kan Folkehelseinstituttet på selvstendig faglig grunnlag likevel underrette Kommisjonen og WHO og samrå seg med organisasjonene.
+
+Per 1. januar 2017 er det ikke fastslått endelige tidsangivelser for varsling innen EWRS, men det går frem av Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) artikkel 9 [punkt](forskrift/2007-12-21-1573/kap2) 2 at ved varsel til WHO skal hendelsen senest samtidig varsles også i EWRS. Forskriften viser i andre ledd derfor til en 24-timersfrist da det er gjeldende krav etter IHR.
+
+Parallelt med varsling til WHO og Kommisjonen skal Folkehelseinstituttet også informere departementet, Helsedirektoratet og andre relevante myndigheter.
+
+Relevante myndigheter er omtalt i merknaden til [§ 3](forskrift/2007-12-21-1573/§3).
+
+Folkehelseinstitutt vil gjennom sin overvåking av hendelsen løpende holde oversikt over og informere WHO og Kommisjonen om hendelsens karakter og utbredelse. Tiltakene som settes i verk i landet vil bli koordinert av Helsedirektoratet, og Folkehelseinstituttet vil sørge for at WHO og Kommisjonen også blir orientert om dette. Det er viktig at kommunikasjonen med WHO, Kommisjonen og andre internasjonale aktører, slik som EUs smittevernsenter i Stockholm (ECDC), skjer gjennom én kanal, som i hovedsak bør være Folkehelseinstituttet.
+
+Det kan tenkes situasjoner hvor WHO og Kommisjonen får informasjon om en mulig alvorlig hendelse i Norge, og at informasjonen kommer fra en annen kilde enn Folkehelseinstituttet, for eksempel fra massemediene. WHO og Kommisjonen vil da henvende seg til Folkehelseinstituttet og be om en utredning av situasjonen. Folkehelseinstituttet må da gi all den informasjon som er nødvendig for å klargjøre saken så raskt som mulig. Folkehelseinstituttet vil i et slikt tilfelle også parallelt informere departementet, Helsedirektoratet og andre relevante myndigheter.
+
+Relevante myndigheter er omtalt i merknaden til [§ 3](forskrift/2007-12-21-1573/§3).
+
+Ved en alvorlig hendelse i utlandet er Folkehelseinstituttet først og fremst en videreformidler av informasjon fra WHO og Kommisjonen. Folkehelseinstituttet kan imidlertid også på vanlig måte bidra med råd om forståelse av hendelsen og relevante tiltak, jf. [smittevernloven § 7-9](lov/1994-08-05-55/§7-9).
+
+Tiltak for å møte trusselen vil iverksettes av departementet eller Helsedirektoratet som vil ivareta koordineringen av tiltakene. En alvorlig hendelse som er varslet fra WHO eller Kommisjonen, kan være av en slik karakter at landets krise- og beredskapsplaner blir berørt. Berørte kommuner må også varsles på et tidlig tidspunkt, men tiltakene som settes i verk, må samkjøres nasjonalt.
+
+Relevante myndigheter er omtalt i merknaden til [§ 3](forskrift/2007-12-21-1573/§3).
+
+Folkehelseinstituttet kan få opplysninger om hendelser i andre land som dokumenterer at det foreligger en folkehelserisiko utenfor Norge, som kan få betydning for internasjonal folkehelse, og som ikke allerede er varslet til WHO og Kommisjonen.
+
+Folkehelseinstituttet skal i slike situasjoner sende melding om dette til WHO og Kommisjonen så snart det er mulig. Folkehelseinstituttet vil parallelt varsle departementet, Helsedirektoratet og andre relevante myndigheter.
+
+Relevante myndigheter er omtalt i merknaden til [§ 3](forskrift/2007-12-21-1573/§3).
+
+Ved varsel etter kapitlet skal som hovedregel ikke helseopplysninger og andre personopplysninger inneholde direkte personidentifiserende kjennetegn. Med direkte personidentifiserende kjennetegn menes navn, fødselsnummer eller andre personentydige kjennetegn som identifiserer en person.
+
+Unntak gjelder der det er nødvendig for å motvirke en alvorlig hendelse som kan ha betydning for internasjonal folkehelse. Se med definisjonen i denne forskriften [§ 2](forskrift/2007-12-21-1573/§2) og merknadene til [§ 2](forskrift/2007-12-21-1573/§2).
+
+Lege og sykepleier har varslingsplikt etter [MSIS-forskriften kapittel 3](forskrift/2003-06-20-740/kap3), og varsel etter denne forskrift skal behandles på samme måte som varsel fra lege og sykepleier etter [MSIS-forskriften kapittel 3](forskrift/2003-06-20-740/kap3) og fra kommunelegen etter forskrift om miljørettet helsevern § 6. Det samme gjelder varsler fra andre myndigheter og førere av transportmidler, jf. denne forskrift hhv. [§ 4](forskrift/2007-12-21-1573/§4) annet ledd og [§ 5](forskrift/2007-12-21-1573/§5), samt varsler om personer på vei til Norge fra WHO, Kommisjonen og andre land. [MSIS-forskriften § 3-11](forskrift/2003-06-20-740/§3-11) slår fast at Folkehelseinstituttet kan behandle helseopplysninger mottatt gjennom varsel så lenge det er nødvendig for å forebygge og motvirke spredning av smittsom sykdom. Opplysningene skal slettes eller anonymiseres når hendelsen er avklart. Tilsvarende fastsetter forskrift om miljørettet helsevern [§ 6](forskrift/2007-12-21-1573/§6) at opplysninger i varsel til Folkehelseinstituttet skal slettes eller anonymiseres når helsetrusselen er avklart.
+
+Helseopplysninger og andre personopplysninger kan utleveres til Verdens helseorganisasjon, Kommisjonen og andre land dersom det er nødvendig for å motvirke en alvorlig hendelse som kan ha betydning for internasjonal folkehelse. Utlevering av opplysninger til utlandet skal være i samsvar med [personopplysningsloven § 29](lov/2018-06-15-38/§29) og [§ 30](lov/2018-06-15-38/§30) om overføring av personopplysninger til utlandet.
+
+Varsler fra WHO, Kommisjonen og andre land vil ikke komme inn som meldinger etter [MSIS-forskriften kapittel 2](forskrift/2003-06-20-740/kap2), heller ikke varsler fra andre enn lege/sykepleier. Dersom en person kommer til Norge, vil vedkommende imidlertid bli undersøkt av helsepersonell som da vil sende varsel og eventuell MSIS-melding. Sletteplikten i [MSIS-forskriften § 3-11](forskrift/2003-06-20-740/§3-11) og forskrift om miljørettet helsevern § 6 gjelder således for alle varsler, også de som mottas etter denne forskriften.
+
+Ved en alvorlig hendelse av internasjonal betydning vil WHO utstede midlertidige anbefalinger om helsetiltak.
+
+En midlertidig anbefaling er et råd utstedt av WHO om iverksettelse av en tidsbegrenset, risikospesifikk respons mot en alvorlig hendelse av betydning for internasjonal folkehelse for å forebygge eller redusere internasjonal spredning av sykdom.
+
+Et midlertidig tiltak kan forlenges og eventuelt bli et stående tiltak ved beslutning fra Verdens helseforsamling. De stående tiltakene vil ha en forebyggende karakter og vil ofte være iverksatt før den alvorlige hendelsen inntrer, jf. forskriften [kapittel 4](forskrift/2007-12-21-1573/kap4).
+
+Det er viktig at de midlertidige tiltakene står i forhold til alvorlighetsgraden av den trusselen som den alvorlige hendelsen representerer overfor landet. Ved katastrofelignende tilstander vil departementet eller regjeringens kriseutvalg fatte de nødvendige beslutninger, mens Helsedirektoratet vil koordinere iverksettelsen. De midlertidige tiltakene skal iverksettes på måter som unngår unødvendig forstyrrelse av internasjonal trafikk og handel.
+
+De smittevernrelaterte midlertidige tiltakene i forskriften er hjemlet i den karantenebestemmelsen i [smittevernloven § 4-3](lov/1994-08-05-55/§4-3). Det vises også til [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde, jf. første ledd som gir hjemmel til forskriftsbestemmelser for gjennomføring av internasjonale avtaler på folkehelseområde, for eksempel IHR (2005).
+
+Relevante myndigheter er omtalt i merknaden til [§ 3](forskrift/2007-12-21-1573/§3).
+
+Med hjemmel i [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3) med forskrifter kan kommunen gi pålegg om blant annet gransking, retting og stansing for å følge opp anbefalingene fra WHO.
+
+De smittevernrelaterte tiltakene i første ledd er hjemlet i [smittevernloven § 4-3](lov/1994-08-05-55/§4-3). For iverksetting av de smittevernrelaterte tiltakene er det tilstrekkelig at det foreligger mistanke om en smittsom sykdom, jf. [smittevernloven § 1-3](lov/1994-08-05-55/§1-3) nr. 1. For alle tiltakene gjelder det at de kun kan iverksettes i den grad de er nødvendige. Det vises også til [folkehelseloven § 29](lov/2011-06-24-29/§29) fjerde, jf. første ledd som gir hjemmel til forskriftsbestemmelser for varslingsplikt for ansatte og bistandsplikt overfor andre myndigheter. Dette kan være som ledd i gjennomføring av internasjonale avtaler på folkehelseområdet, for eksempel IHR (2005). Slike forskrifter kan gi bestemmelser om iverksetting av midlertidige og stående tiltak fra WHO.
+
+Når det gjelder vaksinasjonssertifikat omtalt i første ledd bokstav b), vises det til vedlegg 6 og 7 til IHR (2005).
+
+Transportmidler eller gods som kan føre med seg smittestoff o.l. fra en alvorlig hendelse av betydning for internasjonal folkehelse, krever særskilt behandling. Kommunen vil bistå ved iverksettelsen av slike tiltak ut fra den plikt som er pålagt i folkehelseloven.
+
+Når det gjelder første ledd bokstav g) vises det til [smittevernloven § 4-1](lov/1994-08-05-55/§4-1) første ledd bokstav e).
+
+For alle tiltakene gjelder det at de kun kan iverksettes i den grad de er nødvendige. Det vises til omtalen av folkehelseloven § 29 i merknaden til denne forskriftens [§ 14](forskrift/2007-12-21-1573/§14).
+
+Bestemmelsen i første ledd fastsetter at fartøy ikke av folkehelsehensyn kan nektes å anløpe å anløpe eller ankomme en havn eller lufthavn, ta om bord eller sette av, losse eller laste last eller forråd. Ethvert transportmiddel skal tillates å ta om bord drivstoff, vann, mat og forsyninger. Slike tillatelser som nevnt i [§ 17](forskrift/2007-12-21-1573/§17) første ledd kan gjøres betinget av inspeksjon og gjennomføring av helsetiltak for å motvirke spredning av smitte eller annet agens.
+
+I samsvar med IHR (2005) artikkel 28 tas det forbehold for gjeldende internasjonale avtaler ved eventuelle vedtak etter denne bestemmelsen. Blant annet regulerer IHR mer enn bare varsling og tiltak for å sikre helsemessig respons, tiltak må også gjennomføres slik at man unngår unødvendig forstyrrelse av internasjonal trafikk og handel.
+
+Det presiseres at betingelser og tiltak hjemlet i denne forskriften heller ikke er til hinder for tiltak og pålegg hjemlet i annet regelverk, for eksempel skipssikkerhetsloven.
+
+En stående anbefaling er et råd utstedt av WHO vedrørende særlige aktuelle folkehelserisikoer og om hensiktsmessige helsetiltak som må iverksettes rutinemessig eller periodisk for å forebygge eller redusere internasjonal spredning av sykdom.
+
+De stående tiltakene berører Norges forpliktelser i forhold til WHO og vedtas av Verdens helseforsamling. Det er departementet som ivaretar Norges medlemskap i WHO. De stående tiltakene vil ha gyldighet over flere år og oppheves først etter vedtak av helseforsamlingen. Eventuell innføring og opphevelse av stående tiltak i Norge må gjennomføres i norsk rett på vanlig måte etter vedtak i Verdens helseforsamling.
+
+Etter forskriften utpeker Helsedirektoratet hvilke havner, lufthavner og grensepasseringssteder som i beredskapssammenheng kan benyttes som mottak når det foreligger en alvorlig hendelse. WHO skal til enhver tid holdes orientert om hvilke steder som er utpekt for slike mottak.
+
+Ved mistanke om en alvorlig hendelse kan skip, luftfartøy eller andre transportmidler dirigeres til innreisesteder som er utpekt til å ha særskilt kapasitet for å takle slike hendelser.
+
+Det vises også til [luftfartsloven § 9-3](lov/1993-06-11-101/§9-3) tredje ledd om pålegg om landing mv.
+
+Andre ledd innebærer i realiteten en presisering av planforutsetningene i [forskrift 23. juli 2001 nr. 881](forskrift/2001-07-23-881) om krav til beredskapsplanlegging og beredskapsarbeid mv. § 4. Også i tidligere gjeldende [forskrifter 9. mai 1953 nr. 7](forskrift/1953-05-09-7) om vern mot overføring av smittsom sykdom fra utlandet m.v. var det krav til nødvendig utstyr for iverksetting av tiltak mot overføring av smitte fra utlandet.
+
+Kommunene som har fått utpekt slike mottak, må i sine beredskapsplaner beskrive hvordan slike situasjoner vil bli hensiktsmessig taklet, jf. forskrift om krav til beredskapsplanlegging [§ 4](forskrift/2007-12-21-1573/§4). Kommunen bør sørge for at eget planverk er koordinert med planverkene til utpekte lufthavner, havner og grensepasseringssteder.
+
+Det vises for øvrig til [luftfartsloven § 13-9](lov/1993-06-11-101/§13-9) som sier at departementet kan pålegge aktører innen luftfarten å yte bistand i form av blant annet beredskapsplanlegging for å sikre nødvendig nasjonal beredskap i krig, ved krise og i andre ekstraordinære situasjoner. Dette er fulgt opp i «§ 10-plan for Avinor», samt i [St.meld.nr.15 (2006–2007)](https://www.regjeringen.no/id/STM200620070015000DDDEPIS) om verksemda i Avinor 2006–2008. Det er ikke gitt utfyllende forskrifter til bestemmelsen.
+
+Helsedirektoratet kan gi retningslinjer om hvilket personale og utstyr som utpekte lufthavner, havner og grensepasseringssteder bør ha etter annet ledd. Det vises for øvrig til vedlegg 1 punkt B til IHR (2005) om krav til kjernekapasitet for utpekte lufthavner, havner og grensepasseringssteder.
+
+Erklæring om helseforholdene om bord på skip tilsvarer Modell Maritime Declaration of Health. Skjemaet har blitt oppdatert for å reflektere det utvidede virkeområdet til IHR (2005) og gjeldende tekniske standarder og terminologi.
+
+Helsedelen av Luftfartøysdeklarasjonen tilsvarer Health Part of the Aircraft General Declaration, og er et dokument utarbeidet av International Civil Aviation Organization (ICAO), som er et FN-byrå.
+
+Skjemaene er inntatt som vedlegg 8 og 9 til IHR (2005). Helsedirektoratet sørger for at oppdaterte skjemaer er tilgjengelige på sine nettsider.
+
+De tidligere rottesertifikatene er erstattet av sertifikater for hygienekontroll på skip. Det vises til vedlegg 3 til IHR (2005). Helsedirektoratet sørger for at oppdaterte skjemaer er tilgjengelige på sine nettsider.
+
+Sertifikatene er gyldige for en periode opptil 6 måneder.
+
+Det vises også til [forskrift 21. desember 2000 nr. 1406](forskrift/2000-12-21-1406) om skadedyrbekjempelse (skadedyrforskriften) [§ 5-7](forskrift/2000-12-21-1406/§5-7) om utstedelse av hygienesertifikater på skip.
+
+Kontrolltiltakene skal om mulig gjennomføres når skip og lasterom er tomme. Dersom skipet har ballast, skal tiltakene gjennomføres før lasting.
+
+Der kontrolltiltak er tilfredsstillende gjennomført, skal kommunelegen utstede et «Sertifikat for hygienekontroll på skip» med angivelse av forhold av betydning som er funnet, og kontrolltiltakene som er iverksatt.
+
+Kommunelegen kan utstede et «Sertifikat for dispensasjon fra hygienekontroll på skip», dersom han/hun har forvisset seg om at skipet ikke har noen smitte eller infeksjon om bord, herunder ingen vektorer eller reservoarer. Slikt sertifikat skal normalt bare utstedes dersom inspeksjonen er gjennomført når skipet og lasterommene er tomme, eller bare inneholder ballast eller annet materiale som tillater grundig inspeksjon av lasterommene.
+
+Dersom forholdene som kontrolltiltakene gjennomføres under er av en slik art at det ikke er mulig å oppnå et tilfredsstillende resultat, skal vedkommende myndighet gjøre en anmerkning om dette på «Sertifikatet for hygienekontroll på skip».
+
+Helsedirektoratet skal sørge for at WHO underrettes om hvilke kommuner som er godkjent for å utføre hygienekontroll på skip og utstede sertifikater og dispensasjon. Direktoratet kan publisere disse listene.
+
+Det vises til [smittevernloven § 4-1](lov/1994-08-05-55/§4-1) tredje ledd om dekning av utgifter. Utgifter for tiltak overfor skip, luftfartøy og annet transportmiddel som iverksettes for å forebygge spredning av en alvorlig hendelse, må dekkes av eieren. Det samme gjelder for tiltak overfor bagasje, last, containere, varer, postpakker og humant biologisk materiale.
+
+Helsetiltak overfor enkeltpersoner eller grupper av mennesker skal i prinsippet være gratis.
+
+Det kan oppstå tilfeller hvor det bør gjøres unntak fra forskriftens bestemmelser av hensyn til andre viktige, samfunnsmessige forhold eller på grunn av sterke individuelle, menneskelige hensyn. Dette må vurderes konkret i det enkelte tilfelle.
+
+> Merknader endret uten kunngjøring i Norsk Lovtidend 1 nov 2012, endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61), endret uten kunngjøring 16 mai 2013, endret ved [forskrifter 16 des 2016 nr. 1603](forskrift/2016-12-16-1603) (i kraft 1 jan 2017), [21 april 2017 nr. 482](forskrift/2017-04-21-482), [15 sep 2017 nr. 1396](forskrift/2017-09-15-1396).

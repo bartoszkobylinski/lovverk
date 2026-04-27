@@ -1,0 +1,292 @@
+---
+id: "nl-19830603-054"
+slug: "tannhelsetjenesteloven-tannhl"
+type: "lov"
+ref_id: "lov/1983-06-03-54"
+title: "Lov om tannhelsetjenesten (tannhelsetjenesteloven)"
+short_title: "Tannhelsetjenesteloven – tannhl"
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1984-01-01"
+last_change_in_force: "2025-07-01"
+last_updated: "2021-07-01"
+xml_hash: "5ac0415de2351f4f8e350622d677981fe82db1939ffa5a12e0fbde8ef8556527"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om tannhelsetjenesten (tannhelsetjenesteloven)
+
+## Kap. 1. Alminnelige bestemmelser
+
+### § 1-1. (Fylkeskommunens ansvar for tannhelsetjeneste)
+
+Fylkeskommunen skal sørge for at tannhelsetjenester, herunder spesialisttjenester, i rimelig grad er tilgjengelige for alle som bor eller midlertidig oppholder seg i fylket.
+
+Fylkeskommunen har ansvar for Den offentlige tannhelsetjenesten.
+
+Den offentlige tannhelsetjenesten omfatter tannhelsetjeneste som utføres på gruppene som er nevnt i [§ 1-3](lov/1983-06-03-54/§1-3) enten av fylkeskommunens ansatte eller av privatpraktiserende tannlege som har inngått avtale med fylkeskommunen etter [§ 4-1](lov/1983-06-03-54/§4-1).
+
+### § 1-2. (Tannhelsetjenestens formål)
+
+Fylkeskommunen skal fremme tannhelsen i befolkningen og ved sin tannhelsetjeneste sørge for nødvendig forebyggelse og behandling. Den skal spre opplysning om og øke interessen for hva den enkelte selv og allmennheten kan gjøre for å fremme tannhelsen.
+
+### § 1-3. (Omfanget av Den offentlige tannhelsetjenesten)
+
+Den offentlige tannhelsetjenesten skal organisere forebyggende tiltak for hele befolkningen. Den skal gi et regelmessig og oppsøkende tilbud til:Barn og ungdom fra fødsel til og med det året de fyller 18 år.Psykisk utviklingshemmede i og utenfor institusjon.Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie.Unge voksne fra året de fyller 19 til og med året de fyller 28 år.Personer som på grunn av rusmiddelavhengighet mottar noen av følgende tilbud:personlig assistanse i medhold av [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav b](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/b)avlastningstiltak for pårørende i medhold av [helse- og omsorgstjenesteloven § 3-6 nr. 2](lov/2011-06-24-30/§3-6/nummer/2)legemiddelassistert rehabilitering i medhold av [spesialisthelsetjenesteloven § 3-16](lov/1999-07-02-61/§3-16)Innsatte i fengsler i kriminalomsorgen.Andre grupper som fylkeskommunen har vedtatt å prioritere.
+
+I tillegg til de prioriterte oppgavene kan Den offentlige tannhelsetjenesten yte tjenester til voksne pasienter mot betaling etter fylkeskommunens bestemmelser. Departementet kan gi forskrift om at fylkeskommunen skal sørge for å tilby slike tjenester i områder av fylket der det ikke foreligger annet tilstrekkelig tilbud, og om pliktens varighet og geografiske virkeområde.
+
+> Endret ved lover [2 juni 1989 nr. 26](lov/1989-06-02-26), [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)), [19 des 2014 nr. 90](lov/2014-12-19-90) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1729](forskrift/2014-12-19-1729)), [21 juni 2024 nr. 43](lov/2024-06-21-43) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1101](forskrift/2024-06-21-1101)), [20 juni 2025 nr. 73](lov/2025-06-20-73) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1117](forskrift/2025-06-20-1117)).
+
+### § 1-3a. (Tilrettelegging m.v.)
+
+Fylkeskommunen skal planlegge, organisere og legge til rette for at fylkeskommunen, tannhelsetjenesten og helsepersonell kan oppfylle krav fastsatt i eller i medhold av lov eller forskrift. Departementet kan i forskrift gi nærmere regler om pliktens innhold.
+
+> Tilføyd ved lov [2 juli 1999 nr. 64](lov/1999-07-02-64) (ikr. 1 jan 2001 iflg. [res. 1 des 2000 nr. 1199](forskrift/2000-12-01-1199)).
+
+### § 1-3b. (Registrering m.v.)
+
+Fylkeskommunen skal motta og registrere meldinger om helsepersonell i fylkeskommunen og i tannhelsetjenesten.
+
+Departementet kan i forskrift gi regler om hvilke opplysninger som skal gis, når disse skal gis og hvordan de skal registreres og formidles videre til sentralt register.
+
+> Tilføyd ved lov [2 juli 1999 nr. 64](lov/1999-07-02-64) (ikr. 1 jan 2001 iflg. [res. 1 des 2000 nr. 1199](forskrift/2000-12-01-1199)).
+
+### § 1-3c. Fylkeskommunens ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep
+
+Fylkeskommunen skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. Fylkeskommunen skal legge til rette for at den offentlige tannhelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.
+
+> Tilføyd ved lov [16 juni 2017 nr. 55](lov/2017-06-16-55) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 777](forskrift/2017-06-16-777)).
+
+### § 1-3 d. (Ansvar for tilbud til personer med midlertidig oppholdstillatelse)
+
+Den offentlige tannhelsetjenestens ansvar etter [§ 1-3 første ledd bokstav d](lov/1983-06-03-54/§1-3/ledd/1/bokstav/d) gjelder ikke for personer med midlertidig oppholdstillatelse i Norge som ikke har bodd minst fem år i riket, jf. [§ 2-1 a](lov/1983-06-03-54/§2-1a).
+
+Første ledd gjelder ikke for personer som har rettigheter i henhold til gjensidighetsavtale med annen stat.
+
+> Tilføyd ved lov [25 juni 2024 nr. 54](lov/2024-06-25-54) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1211](forskrift/2024-06-25-1211)).
+
+### § 1-4. (Samordning av Den offentlige tannhelsetjenesten og privat sektor)
+
+Fylkeskommunen har ansvaret for samordning av Den offentlige tannhelsetjenesten og privat sektor.
+
+> Endret ved lover [5 mai 1995 nr. 20](lov/1995-05-05-20) (ikr. 1 juli 1997), [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)).
+
+### § 1-4a. Fylkeskommunens ansvar for samarbeid
+
+Fylkeskommunen skal sørge for at virksomheter som yter tannhelsetjenester som nevnt i [§§ 1-1](lov/1983-06-03-54/§1-1) og [1-3](lov/1983-06-03-54/§1-3), samarbeider med andre tjenesteytere dersom samarbeid er nødvendig for å gi pasienten et helhetlig og samordnet tjenestetilbud, og samarbeider med barnekoordinator dersom dette er oppnevnt etter [helse- og omsorgstjenesteloven § 7-2 a](lov/2011-06-24-30/§7-2a).
+
+Fylkeskommunen skal, i tillegg til å følge opp enkelte pasienter, sørge for nødvendig samarbeid mellom tannhelsetjenesten innad i fylkeskommunen, med tannhelsetjenesten i andre fylkeskommuner og andre tjenesteytere, slik at den fylkeskommunale tannhelsetjenesten og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.
+
+Med tjenesteytere etter første og andre ledd menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som yter tjenester på vegne av slike tjenesteytere, barnehager som får tilskudd etter [barnehageloven § 19](lov/2005-06-17-64/§19) og skoler som får statstilskudd etter [privatskolelova § 6-1](lov/2003-07-04-84/§6-1).
+
+> Tilføyd ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) som endret ved lov [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871)).
+
+### § 1-5. (Meldingsplikt til fylkesadministrasjonen mv.)
+
+Fylkeskommunen kan pålegge helsepersonell som arbeider innenfor rammen av denne lov å gi opplysninger til bruk for planlegging, styring og utvikling av tannhelsetjenesten i fylkeskommunen. Utlevering av taushetsbelagte opplysninger etter første punktum skal skje etter samtykke fra den opplysningene angår, hvis ikke annet er bestemt i eller i medhold av lov.
+
+Pålegg etter denne bestemmelsen skal være saklig begrunnet og ikke omfatte flere opplysninger enn det som er nødvendig av hensyn til formålet.
+
+> Opphevet ved lov [11 juni 1993 nr. 85](lov/1993-06-11-85), tilføyd igjen ved lov [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)).
+
+### § 1-6. Om informasjon
+
+Fylkeskommunen skal sørge for at det gis slik informasjon som pasienten har rett til å motta etter [pasient- og brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2). Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter [pasient- og brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3/ledd/3) tredje ledd.
+
+Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Denne plikten gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til avdød pasient eller fra nærmeste pårørende til pasient over 18 år uten samtykkekompetanse. Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i [pasient- og brukerrettighetsloven kapittel 3](lov/1999-07-02-63/kap3).
+
+Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første ledd.
+
+> Tilføyd ved lov [21 juni 2019 nr. 43](lov/2019-06-21-43) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 793](forskrift/2019-06-21-793)), endret ved lov [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 1-7. Varsel om alvorlige hendelser
+
+Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen, eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+
+> Tilføyd ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (i kraft 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+
+### § 1-8. Folkerettslige forpliktelser om trygdekoordinering
+
+Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
+
+Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av [EØS-avtalens](lov/1992-11-27-109/eøsl) hoveddel, bilaterale avtaler som nevnt i første ledd og forordninger og avtaler som nevnt i [folketrygdloven §§ 1-3 a](lov/1997-02-28-19/§1-3a) og [1-3 b](lov/1997-02-28-19/§1-3b).
+
+> Tilføyd ved lov [25 nov 2022 nr. 86](lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](forskrift/2022-11-25-2013)).
+
+## Kap. 2. Rett til tannhelsehjelp
+
+### § 2-1. (Rett til tannhelsehjelp)
+
+Alle nevnt i [§ 1-3](lov/1983-06-03-54/§1-3) har rett til nødvendig tannhelsehjelp i den fylkeskommune der de bor eller midlertidig oppholder seg.
+
+Den offentlige tannhelsetjenesten skal gi den som søker eller trenger tannhelsehjelp, de opplysninger vedkommende trenger for å ivareta sin rett, og se til at det ikke påføres unødig utgift, tap, tidsspille eller uleilighet.
+
+Forvaltningslovens regler gjelder ikke for vedtak etter denne paragrafen.
+
+### § 2-1 a. (Krav om botid i riket for personer med midlertidig oppholdstillatelse)
+
+Personer nevnt i [§ 1-3 første ledd bokstav d](lov/1983-06-03-54/§1-3/ledd/1/bokstav/d) som har midlertidig oppholdstillatelse i riket, skal ha fem års botid i riket for å ha rett til nødvendig tannhelsehjelp etter [§ 2-1](lov/1983-06-03-54/§2-1).
+
+Kravet om botid i riket gjelder ikke for personer som har rettigheter i henhold til gjensidighetsavtale med annen stat.
+
+> Tilføyd ved lov [25 juni 2024 nr. 54](lov/2024-06-25-54) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1211](forskrift/2024-06-25-1211)), endret ved lov [20 juni 2025 nr. 73](lov/2025-06-20-73) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1117](forskrift/2025-06-20-1117)).
+
+### § 2-2. (Vederlag for tannpleie i Den offentlige tannhelsetjenesten)
+
+For hjelp i Den offentlige tannhelsetjenesten skal mottageren betale vederlag når dette følger av forskrift fastsatt av departementet eller fylkeskommunen.
+
+For hjelp til grupper som nevnt i [§ 1-3 første ledd andre punktum](lov/1983-06-03-54/§1-3/ledd/1/setning/2) bokstav a, b, c, e og f kan det, med unntak for kjeveortopedisk behandling, ikke kreves vederlag.
+
+Vederlaget kan fastsettes som egenandel eller betaling etter takst.
+
+Departementet fastsetter egenandeler og takster.
+
+> Endret ved lover [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)), [19 des 2014 nr. 90](lov/2014-12-19-90) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1729](forskrift/2014-12-19-1729)), [21 juni 2024 nr. 43](lov/2024-06-21-43) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1101](forskrift/2024-06-21-1101)).
+
+### § 2-3. (Klage)
+
+Den som ikke får den hjelp som er bestemt i denne lov og godkjent plan, kan klage til det organ fylkeskommunen bestemmer. Går avgjørelsen klageren imot eller avvises klagen, kan avgjørelsen klages til statsforvalteren.
+
+Fristen for å klage er i alle tilfelle tre uker fra vedkommende fikk høve til å klage. En klage som kommer etter fristen, kan likevel tas under behandling når det finnes rimelig at den blir prøvd.
+
+> Endret ved lover [30 juli 1992 nr. 101](lov/1992-07-30-101), [11 juni 1993 nr. 85](lov/1993-06-11-85), [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)), [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## Kap. 3. Politiattest
+
+> Kapitlet opphevet ved lov [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)), tilføyd igjen ved lov [22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)).
+
+### § 3-1. (Politiattest)
+
+Fylkeskommunen skal innhente politiattest fra helsepersonell i samsvar med [helsepersonelloven § 20 a](lov/1999-07-02-64/§20a).
+
+> Tilføyd ved lov [22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)).
+
+## Kap. 4. Forholdet mellom fylkeskommunene og privat tannhelsetjeneste
+
+### § 4-1. (Privat tannhelsevirksomhet)
+
+Dersom pasientenes utgifter til tannpleie helt eller delvis skal kunne godtgjøres av fylkeskommunen, jfr. [§ 5-1](lov/1983-06-03-54/§5-1) annet ledd, må privatpraktiserende tannlege ha skriftlig avtale med fylkeskommunen der vedkommende vil ha sitt kontor eller hovedvirke.
+
+Avtale som nevnt i denne paragraf kan ikke overdras.
+
+Fylkestannlegen fører tilsyn med slik virksomhet.
+
+### § 4-2. (Inngåelse av avtale med privat tannlege)
+
+Hvis en fylkeskommune ønsker å inngå avtale med privatpraktiserende tannlege om behandling av prioriterte grupper som nevnt i [§ 1-3 første ledd bokstav a](lov/1983-06-03-54/§1-3/ledd/1/bokstav/a) til [g](lov/1983-06-03-54/§1-3/ledd/1/bokstav/g), skal den kunngjøre at interesserte kan melde seg. Avtale skal inngås med den som er faglig best skikket.
+
+Departementet kan gi nærmere forskrifter om privat virksomhet innen Den offentlige tannhelsetjenesten, om kunngjøring av ledig avtale, om fremgangsmåte ved valg blant søkere og om avtalevilkår.
+
+> Endret ved lov [21 juni 2024 nr. 43](lov/2024-06-21-43) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1101](forskrift/2024-06-21-1101)).
+
+## Kap 5. Om utgiftene
+
+### § 5-1. (Fylkeskommunens ansvar for utgifter)
+
+Fylkeskommunen skal dekke utgifter ved Den offentlige tannhelsetjenesten.
+
+Pasientenes utgifter til behandling som er utført i privat praksis etter avtale med fylkeskommunen skal helt eller delvis dekkes av fylkeskommunen på samme måte som om tilbudet hadde vært gitt av fylkeskommunens ansatte tannleger.
+
+Fylkeskommunen skal dekke skyssutgifter i samsvar med forskrift fastsatt av fylkeskommunen for pasienter under [§ 1-3](lov/1983-06-03-54/§1-3) som søker tannhelsehjelp i Den offentlige tannhelsetjenesten.
+
+I den utstrekning tannhelsetjenester som omhandlet i § 1-3 gir rett til stønad etter regler fastsatt i forskrift i medhold av [folketrygdloven § 5-24 a](lov/1997-02-28-19/§5-24a), skal fylkeskommunen dekke utgifter til tannhelsetjenester som bosatte i fylkeskommunen har mottatt i et annet EØS-land. Departementet kan i forskrift gi nærmere bestemmelser om utgiftsdekningen.
+
+> Endret ved lover [6 juni 2003 nr. 37](lov/2003-06-06-37) (ikr. 1 juli 2003 iflg. [res. 6 juni 2003 nr. 674](forskrift/2003-06-06-674)), [19 juni 2009 nr. 72](lov/2009-06-19-72) (ikr. 1 jan 2011 iflg. [res. 3 des 2010 nr. 1508](forskrift/2010-12-03-1508)).
+
+### § 5-2. (Tilskudd fra staten)
+
+Staten yter årlig rammetilskudd til delvis dekning av fylkeskommunenes utgifter. Tilskuddet fordeles gjennom inntektssystemet for kommunene og fylkeskommunene etter regler gitt av Kongen.
+
+> Endret ved lover [31 mai 1985 nr. 41](lov/1985-05-31-41), [21 des 1990 nr. 80](lov/1990-12-21-80), [11 juni 1993 nr. 90](lov/1993-06-11-90).
+
+### § 5-3. (Plikt til å utarbeide atskilte regnskaper mv.)
+
+Departementet kan gi forskrift om føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som fylkeskommunen tilbyr der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.
+
+> Tilføyd ved lov [19 des 2014 nr. 90](lov/2014-12-19-90) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1729](forskrift/2014-12-19-1729)).
+
+## Kap. 6. Forskjellige bestemmelser
+
+### § 6-1. (Undervisning og praktisk opplæring)
+
+Enhver fylkeskommune plikter å medvirke til undervisning og praktisk opplæring av tannhelsepersonell, herunder også videre- og etterutdannelse.
+
+Fylkeskommunen skal sørge for at dens ansatte tannhelsepersonell får påkrevet videre- og etterutdannelse.
+
+Tannhelsepersonell innen Den offentlige tannhelsetjenesten plikter å ta del i videre- og etterutdannelse som blir foreskrevet og som er nødvendig for å holde dets kvalifikasjoner ved like.
+
+### § 6-2. (Tilsyn og veiledning)
+
+Statens helsetilsyn skal føre tilsyn med at fylkeskommunene fremmer tannhelsetjenestens formål på forsvarlig og hensiktsmessig måte, og se til at lover og forskrifter for tannhelsetjenesten blir kjent og overholdt.
+
+Uten hinder av taushetsplikt kan Statens helsetilsyn eller den det gir myndighet kreve opplysninger om tannhelsetjenesten i fylkeskommunen og dens pasienter som er påkrevet for oversikt, kontroll og tilsyn. Det foretas inspeksjon og undersøkelser også av journal og opptegnelser m.v.
+
+Statens helsetilsyn kan pålegge fylkestannlegen å utføre disse tilsynsoppgavene på Statens helsetilsyns vegne.
+
+Statens helsetilsyn kan forelegge innhentede opplysninger for sakkyndige til uttalelse.
+
+> Endret ved lover [30 juli 1992 nr. 101](lov/1992-07-30-101), [13 des 2002 nr. 78](lov/2002-12-13-78) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1600](forskrift/2002-12-13-1600)).
+
+### § 6-3. (Samarbeid mellom fylkeskommuner)
+
+Fylkeskommunene kan inngå avtaler om samarbeid om de oppgaver som pålegges dem etter denne lov.
+
+### § 6-4. (Opphevet)
+
+> Opphevet ved lov [16 mai 1986 nr. 21](lov/1986-05-16-21).
+
+### § 6-5. (Gjennomføring og utfylling)
+
+Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av denne loven.
+
+### § 6-6. (Svalbard)
+
+Loven gjelder for Svalbard i den utstrekning departementet bestemmer.
+
+> Endret ved lov [2 juni 1989 nr. 26](lov/1989-06-02-26).
+
+### § 6-7. (Oslo)
+
+Det som er fastsatt for fylkeskommuner i denne loven gjelder også for bykommunen Oslo.
+
+## Kap. 7. Overgangsbestemmelser
+
+### § 7-1. (Opphevet)
+
+> Opphevet ved lov [10 jan 1997 nr. 7](lov/1997-01-10-7) (ikr. 1 mars 1997).
+
+### § 7-2. (Opphevet)
+
+> Opphevet ved lov [10 jan 1997 nr. 7](lov/1997-01-10-7) (ikr. 1 mars 1997).
+
+### § 7-3. (Opphevet)
+
+> Opphevet ved lov [10 jan 1997 nr. 7](lov/1997-01-10-7) (ikr. 1 mars 1997).
+
+### § 7-4. (Eldre forskrift, vedtekt m.v.)
+
+Forskrift, vedtekt, instruks o.l. gitt med hjemmel i tidligere lov som oppheves eller endres når denne loven trer i kraft, gjelder fortsatt i den utstrekning den ikke strider mot denne loven eller er erstattet med forskrift, vedtekt, instruks e.l. gitt i medhold av den.
+
+### § 7-5. (Økonomiske overgangsordninger)
+
+Kongen skal gi nærmere regler om overgangsordninger.
+
+## Kap. 8. Ikrafttreden
+
+### § 8-1. (Foregrepet ikrafttreden)
+
+Etter at loven er vedtatt, men før den er trådt i kraft, kan departementet gi forskrift, instruks eller pålegg som trer i kraft samtidig med loven.
+
+Departementet kan også gi bestemmelser om at fylkeskommunen skal foreta oppnevning av styre, utvalg eller nemnd for tannhelsetjenesten, ansette tannhelsepersonell og organisere administrasjon slik at Den offentlige tannhelsetjenesten kan tre i virksomhet fra den tid denne loven trer i kraft.
+
+### § 8-2. (Ikrafttreden)
+
+1. Loven trer i kraft 1. januar 1984. Kongen kan fastsette at enkelte bestemmelser skal tre i kraft fra senere tid enn loven forøvrig.
+2. Fra samme tid oppheves følgende lover: – – –
+3. Fra samme tid foretas endring i – – –

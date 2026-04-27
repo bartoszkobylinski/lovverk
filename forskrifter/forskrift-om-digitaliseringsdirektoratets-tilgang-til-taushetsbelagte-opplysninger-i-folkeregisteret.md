@@ -1,0 +1,30 @@
+---
+id: "sf-20230620-0955"
+slug: "forskrift-om-digitaliseringsdirektoratets-tilgang-til-taushetsbelagte-opplysninger-i-folkeregisteret"
+type: "forskrift"
+ref_id: "forskrift/2023-06-20-955"
+title: "Forskrift om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret"
+short_title: null
+language: "nb"
+ministry:
+  - "Digitaliserings- og forvaltningsdepartementet"
+date_in_force: "2023-07-01"
+last_change_in_force: null
+last_updated: "2024-01-02"
+xml_hash: "a188a5ce10c7bb96a77965eef697c77187b27bfe14f373e90966711f31154428"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret
+
+## § 1. Oppgaver som krever innhenting og behandling av taushetsbelagte opplysninger fra Folkeregisteret
+
+Digitaliseringsdirektoratet kan uten hinder av taushetsplikt innhente og behandle opplysninger fra Folkeregisteret når dette er nødvendig for å utføre følgende oppgaver:sikre personer tilgang til offentlige tjenester gjennom innlogging, tilgangsstyring og mulighet til å opptre på vegne av virksomheter og andre personerutstedelse av eID til personer med klientadresser og fortrolige adresser.
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2023.

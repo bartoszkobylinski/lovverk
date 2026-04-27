@@ -1,0 +1,570 @@
+---
+id: "nl-19921204-132"
+slug: "legemiddelloven"
+type: "lov"
+ref_id: "lov/1992-12-04-132"
+title: "Lov om legemidler m.v. (legemiddelloven)"
+short_title: "Legemiddelloven"
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1994-01-01"
+last_change_in_force: "2025-05-01"
+last_updated: "2023-02-16"
+xml_hash: "cb00137f109a4518084195f0642861ebce33eaac688af340b96b4cc4ebb08a3a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om legemidler m.v. (legemiddelloven)
+
+## Kap. I. Området for loven. Definisjoner.
+
+### § 1
+
+Denne lov gjelder legemidler og visse andre varer til medisinsk bruk. Uavhengig av [§ 2](lov/1992-12-04-132/§2) første ledd gjelder denne loven også for de stoffer, droger, planter, sopper og blandinger som Kongen etter [§ 22](lov/1992-12-04-132/§22) har fastsatt som narkotika.
+
+For legemidler til dyr gjelder kapittel I a. Dette gjelder likevel ikke for legemidler som nevnt i forordning om legemidler til dyr artikkel 2 nr. 7 bokstav a, b og d og for andre legemidler til dyr som ikke omfattes av virkeområdet til forordningen. For disse legemidlene gjelder loven med tilhørende forskrifter med unntak av bestemmelsene i kapittel I a.
+
+> Endret ved lover [24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+### § 2
+
+Med legemidler forstås i denne lov stoffer, droger og preparater som er bestemt til eller utgis for å brukes til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter, påvirke fysiologiske funksjoner hos mennesker eller dyr, eller til ved innvortes eller utvortes bruk å påvise sykdom.
+
+Kongen gir nærmere forskrifter om hva som skal regnes som legemidler. I forskriftene kan det fastsettes at visse stoffer, droger eller preparater alltid skal regnes som legemidler uansett om de også har annen anvendelse, og at visse stoffer, droger eller preparater som kommer inn under bestemmelsen i første ledd, likevel ikke skal regnes som legemidler.
+
+Departementet avgjør i tvilstilfeller om en vare etter loven og forskriftene skal regnes som legemiddel.
+
+Kongen gir alminnelige forskrifter om innførsel og omsetning av legemidler, herunder om deklarasjon, om erklæringer eller attester som skal gis eller skaffes ved kjøp eller innførsel, og om forsiktighetsregler som skal iakttas ved utlevering.
+
+### § 2 a
+
+For bruk av legemidler til dyr gjelder loven også i jurisdiksjonsområder etablert i medhold av [lov 17. desember 1976 nr. 91 om Norges økonomiske sone](lov/1976-12-17-91) og på kontinentalsokkelen.
+
+Kongen kan gi forskrift om at loven og forskrifter med hjemmel i loven helt eller delvis skal gjelde for Svalbard og Jan Mayen og kan fastsette særlige regler under hensyn til de stedlige forholdene.
+
+> Tilføyd ved [lov 20 juni 2014 nr. 39](lov/2014-06-20-39) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 788](forskrift/2014-06-20-788)), endret ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+## Kap. I a. Legemidler til dyr
+
+> Tilføyd ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+### § 2 b. Gjennomføring av forordning om legemidler til dyr
+
+[EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XIII om legemidler nr. 22 (forordning [(EU) 2019/6](eu/32019r0006) om legemidler til dyr (forordning om legemidler til dyr)) gjelder som lov med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+Departementet kan gi forskrift om endringer av forordningen i samsvar med rettsakter som vedtas av EU-kommisjonen og innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl).
+
+> Tilføyd ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)), endret ved lov [20 des 2024 nr. 97](lov/2024-12-20-97).
+
+### § 2 c. Anvendelse av lovens øvrige bestemmelser
+
+Loven [§§ 2](lov/1992-12-04-132/§2) tredje og fjerde ledd, [2 a](lov/1992-12-04-132/§2a), [3](lov/1992-12-04-132/§3), [8](lov/1992-12-04-132/§8) femte ledd, [10](lov/1992-12-04-132/§10) tredje til femte ledd, [14](lov/1992-12-04-132/§14) femte ledd, [16](lov/1992-12-04-132/§16), [17](lov/1992-12-04-132/§17), [18](lov/1992-12-04-132/§18), [25 b](lov/1992-12-04-132/§25b), [28](lov/1992-12-04-132/§28), [28 a](lov/1992-12-04-132/§28a), [29](lov/1992-12-04-132/§29), [30](lov/1992-12-04-132/§30), [30 a](lov/1992-12-04-132/§30a), [30 b](lov/1992-12-04-132/§30b), [31](lov/1992-12-04-132/§31) og [32](lov/1992-12-04-132/§32) annet ledd gjelder også for legemidler omfattet av forordning om legemidler til dyr. For legemidler omfattet av forordningen artikkel 2 nr. 6 bokstav a, gjelder i tillegg loven [§§ 12](lov/1992-12-04-132/§12) og [13](lov/1992-12-04-132/§13).
+
+> Tilføyd ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+### § 2 d. Forskrifter om legemidler til dyr
+
+Departementet kan gi forskrifter omat pakningsvedlegg skal gis i papirformat, elektronisk format eller i begge disse formater, og om bruk av nasjonal identifikasjonskode på legemidlets pakningregistrering av legemiddelbruk for matproduserende dyr i henhold til forordning om legemidler til dyr artikkel 108 nr. 4 og bruk av legemidler til dyr i henhold til forordningen artikkel 110 til 114 og 116forbud mot tilvirkning, import, distribusjon, besittelse, salg og levering av immunologiske legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 110 nr. 1krav til dyrehelsepersonells rapporteringer av mistenkte bivirkninger i henhold til forordning om legemidler til dyr artikkel 79 nr. 2merking av homøopatiske legemidler, innvilgelse og avslag på søknad om registrering av homøopatiske legemidler og om endring av registrering, suspensjon og tilbakekall av registreringen, samt om plikt til å foreslå endringer av legemidlet og dets dokumentasjongrossistvirksomhet med legemidler til dyr, blant annet om søknad om tillatelse, saksbehandling, godkjenning og avslag og suspensjon, tilbakekall og endring av tillatelsen, om krav til grossisters personell, lokaler, oppbevaring og håndtering av legemidler til dyr og hvilke personer og virksomheter som grossister kan levere legemidler tilparallellhandel med legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 102 nr. 3reklame for legemidler til dyr i henhold til forordning om legemidler til dyr artikkel 122gjennomføring og utfylling av forordning om legemidler til dyrunntak fra krav ommarkedsføringstillatelse for legemidler til visse kjæledyr og i henhold til forordning om legemidler til dyr artikkel 110 nr. 2 og 3, artikkel 112 til 114 og artikkel 116bruk av norsk språk for preparatomtale, merking og pakningsvedlegg for legemidler til dyrtilvirkertillatelse ved tilberedning, oppdeling eller presentasjon av legemidler, eller ved endringer i pakningen, når disse handlingene utelukkende utføres i tilknytning til detaljsalg til offentlighetengrossisttillatelse for levering av begrensede mengder legemidler til dyr fra en detaljist i Norge til en annen
+
+Tilsynsmyndigheten kan i særlige tilfeller gjøre unntak fra kravet om markedsføringstillatelse, forutsatt at det ikke vil stride mot [§ 2 b](lov/1992-12-04-132/§2b).
+
+> Tilføyd ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+## Kap. II. Klinisk utprøving av legemidler.
+
+### § 3
+
+Kongen gir forskrifter om klinisk utprøving av legemidler på mennesker og dyr. I forskriften kan bl.a. fastsettes hva som skal regnes som klinisk utprøving av legemidler, at slik utprøving skal godkjennes av den myndighet Kongen bestemmer og de nærmere vilkår for godkjenning.
+
+Departementet kan gi forskrift om gebyr for behandling av søknad om klinisk utprøving av legemidler.
+
+> Endret ved [lov 27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)).
+
+## Kap. III. Krav til legemidler. Standarder.
+
+### § 4
+
+Et legemiddel skal oppfylle bestemte kvalitetskrav, være effektivt og ved normal bruk ikke ha skadevirkninger som står i misforhold til forventet effekt.
+
+Kongen kan forby salg av legemiddel som ikke oppfyller krav til kvalitet, sikkerhet og effekt. Før avgjørelse treffes, skal spørsmålet forelegges den i [§ 11](lov/1992-12-04-132/§11) nevnte Spesialitetsnemnd til uttalelse.
+
+### § 5
+
+Kongen kan i forskrift fastsette standarder for legemidlers kvalitet, fremstilling, håndtering og oppbevaring m.v.
+
+### § 6
+
+Kongen gir forskrifter om prisfastsettelse av legemidler.
+
+Det er forbudt å gi rabatter som ikke er fastlagt på tidspunktet for salget av et legemiddel. Forbudet gjelder ikke rabatter som følger av avtale mellom det offentlige og legemidlets rettighetshaver for å sikre offentlig finansiering av legemidlet. Kongen kan i forskrift gi utfyllende bestemmelser om forbudet.
+
+Kongen kan i forskrift pålegge apotekene å levere utvalgte byttbare legemidler til en trinnpris. Departementet fastsetter trinnprisen ved å ta utgangspunkt i maksimal utsalgspris fra apotek for originallegemidlet og redusere denne prisen med faste prosentsatser etter at konkurranse fra generiske og biotilsvarende legemidler er oppstått. Kongen kan i forskrift pålegge grossister for legemidler å levere legemidler med fastsatt trinnpris til apotek til en pris som med tillegg av maksimal apotekavanse ikke er høyere enn at apotek kan selge legemidlet til trinnpris. Kongen kan i forskrift gi nærmere bestemmelser om prisfastsettelsen, hvilke legemidler som kan gis trinnpris, og leveringsplikt for de legemidler som omfattes.
+
+Kongen kan i forskrift pålegge grossister en maksimal avanse ved distribusjon av legemidler som apotek har fremforhandlet direkte med leverandør. Departementet kan gi forskrift om maksimal grossistavanse ved distribusjon av helseforetaksfinansierte legemidler, og om gjennomføringen av slik distribusjon.
+
+Departementet kan i forskrift fastsette regler om behandlingsmåten for godkjenning av legemidler for offentlig refusjon. Ved klage over vedtak om forhåndsgodkjent refusjon av legemiddel over folketrygden kan klageinstansen bare prøve lovmessigheten.
+
+Det offentlige og legemidlets rettighetshaver kan inngå en refusjonskontrakt om offentlig finansiering av et legemiddel. I kontrakten kan det inntas bestemmelser om at legemidlets rettighetshaver helt eller delvis skal refundere det offentliges utgifter som følge av at legemidlet forskrives til flere pasienter enn forutsatt, eller bestemmelser som på annen måte reduserer det offentliges utgifter. Kontrakten skal ha regler om hvordan partene kan bringe sitt ansvar etter kontrakten til opphør. Kongen kan i forskrift fastsette nærmere regler om bruken av refusjonskontrakter.
+
+> Endret ved [lover 15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [20 des 2002 nr. 101](lov/2002-12-20-101) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1732](forskrift/2002-12-20-1732), med unntak av nytt annet ledd som ble satt ikr. 3 mars 2003 iflg. [res. 20 des 2002 nr. 1733](forskrift/2002-12-20-1733) og [vedtak 26 feb 2003 nr. 219](forskrift/2003-02-26-219)), [19 des 2003 nr. 123](lov/2003-12-19-123) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1791](forskrift/2003-12-19-1791)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [17 juni 2016 nr. 50](lov/2016-06-17-50) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 707](forskrift/2016-06-17-707)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)), [21 mai 2021 nr. 40](lov/2021-05-21-40) (ikr. 1 juli 2021 iflg. [res. 21 mai 2021 nr. 1653](forskrift/2021-05-21-1653)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+## Kap. IV. Farmasøytiske spesialpreparater.
+
+### § 7. (Opphevet)
+
+> Opphevet ved [lov 18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)).
+
+### § 8
+
+Følgende legemidler må ha markedsføringstillatelse før de kan omsettes:Legemidler som er fremstilt industrielt eller ved bruk av en industriell prosess.
+
+Departementet kan i forskrifter gi nærmere regler om hvilke legemidler som skal ha markedsføringstillatelse før de kan omsettes.
+
+Markedsføringstillatelse gis på grunnlag av en vurdering av preparatets kvalitet, sikkerhet og effekt.
+
+Før markedsføringstillatelse gis, skal preparatets navn, reseptstatus, preparatomtale, merking, pakning, pakningsvedlegg og annet utstyr være godkjent.
+
+Ved klage over avslag på søknad om markedsføringstillatelse kan bare lovmessigheten prøves.
+
+Departementet kan i forskrifter gi nærmere regler for godkjennelsen av de enkelte ledd i markedsføringstillatelsen.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+### § 9
+
+Markedsføringstillatelse for et legemiddel gjelder for et tidsrom av fem år og kan fornyes. En markedsføringstillatelse som er fornyet på grunnlag av søknad innsendt etter 1. juli 2006, har ubegrenset gyldighet. Søknad om fornyet markedsføringstillatelse må foreligge minst seks måneder før markedsføringstillatelsens utløp. Midlertidig markedsføringstillatelse kan gis for kortere tid.
+
+Når særlige grunner foreligger, kan markedsføringstillatelsen gjøres betinget av at preparatet bare skal være til bruk for visse sykehus eller forskrives av visse spesialister.
+
+Departementet kan kalle markedsføringstillatelsen tilbake dersom:Preparatet ikke lenger anses å fylle kravene til kvalitet, sikkerhet eller effekt.Spesialpreparatet ikke har den angitte kvalitative og kvantitative sammensetning.De bestemmelser som gjelder for legemidler ikke overholdes.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)).
+
+### § 10
+
+Kongen gir nærmere forskrifter om vilkår for markedsføringstillatelse, forpliktelser knyttet til markedsføringstillatelser og sanksjoner ved brudd på disse. Kongen kan gi forskrift med bestemmelser om omsetning og kontroll av legemidler som nevnt i [§ 8](lov/1992-12-04-132/§8) første ledd.
+
+Kongen kan i særlige tilfeller gjøre unntak fra kravene i [§ 8](lov/1992-12-04-132/§8).
+
+Departementet kan gi forskrift om gebyr for å dekke utgifter ved søknad om markedsføringstillatelse for legemidler, herunder søknad om fornying og endring av markedsføringstillatelse.
+
+Departementet kan gi forskrift om sektoravgift på salg av legemidler fra innehaver av legemidlets markedsføringstillatelse. Sektoravgiften skal dekke myndighetenes utgifter til kvalitetskontroll, overvåking av bivirkninger, informasjon om legemidler, regulatorisk og vitenskapelig veiledning, metodevurderinger, tilsyn med legemiddelreklame og fastsettelse av pris på legemidler. Sektoravgiften skal også dekke myndighetenes utgifter ved deltakelse i vitenskapelige komiteer og faste arbeidsgrupper i EU/EØS-samarbeidet, kvalitetssikring og utstedelse av dokumenter knyttet til markedsføringstillatelser og markedsføring i Norge som ikke dekkes av gebyr eller oppdragsinntekt.
+
+Departementet kan gi forskrift om gebyr for myndighetenes arbeid med å utstede sertifikater for legemidler.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)).
+
+### § 11
+
+Departementet oppnevner en Spesialitetsnemnd som skal være rådgiver for departementet i saker om markedsføringstillatelse for spesialpreparater og om tilbakekalling av gitt markedsføringstillatelse etter [§§ 8](lov/1992-12-04-132/§8) og 9.
+
+Departementet gir nærmere forskrifter om nemnda.
+
+> Endret ved [lov 20 des 1996 nr. 109](lov/1996-12-20-109).
+
+## Kap. V. Tilvirkning og import av legemidler.
+
+> Overskriften endret ved [lov 20 des 1996 nr. 109](lov/1996-12-20-109).
+
+### § 12
+
+Med tilvirkning menes fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med disse aktiviteter.
+
+Tilvirkning må ikke skje uten godkjenning fra departementet.
+
+For apotek følger godkjenningen av særskilt tilvirkertillatelse gitt i medhold av apotekloven.
+
+Departementet kan i forskrift bl.a. stille krav til produksjons- og kontrollansvarliges faglige kvalifikasjoner. I forskriften kan det også stilles krav til lokaler, utstyr m.v.
+
+Godkjenning etter 2. ledd kreves ikke for sykehus og andre helseinstitusjoner når det gjelder preparater som må tilberedes umiddelbart før bruk.
+
+Godkjenning kan gis betinget og tidsbegrenset og kan kalles tilbake dersom betingelsene for tillatelsen ikke oppfylles.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)).
+
+### § 13
+
+Import av legemidler fra stater utenfor det europeiske økonomiske samarbeidsområdet må ikke skje uten godkjenning fra departementet med mindre annet følger av denne lov.
+
+Godkjenningen kan gis tidsbegrenset og kan kalles tilbake dersom betingelsene for tillatelsen ikke oppfylles.
+
+Departementet kan i forskrift gi nærmere bestemmelser om import etter første ledd.
+
+Import av legemidler fra stater innenfor det europeiske økonomiske samarbeidsområdet kan bare foretas av den som har godkjenning til grossistvirksomhet etter [§ 14](lov/1992-12-04-132/§14), med mindre annet følger av denne loven.
+
+Tilvirkere av legemidler, som har godkjenning etter [§ 12](lov/1992-12-04-132/§12), kan importere de råvarer m.v. som er nødvendig for den produksjon som omfattes av tilvirkergodkjenningen.
+
+Departementet kan gi privatpersoner rett til import av legemidler til eget bruk, uten at det kreves godkjenning etter første eller tredje ledd. Departementet kan i forskrift fastsette nærmere bestemmelser om slik import.
+
+> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 13a
+
+Legemidler som importeres i strid med [§ 13](lov/1992-12-04-132/§13) med forskrifter kan tilbakeholdes, beslaglegges og destrueres.
+
+Ved tilbakehold skal mottakeren varsles om at legemidlene vil bli vurdert beslaglagt og destruert. Mottaker skal gis mulighet til å uttale seg i saken innen en nærmere angitt frist.
+
+Dersom mottakeren ikke avgir uttalelse innen fristen, kan legemidlene beslaglegges og destrueres. [Forvaltningsloven §§ 23](lov/1967-02-10/§23), [24](lov/1967-02-10/§24), [25](lov/1967-02-10/§25) og [27](lov/1967-02-10/§27) kommer ikke til anvendelse der mottaker ikke har gitt tilbakemelding innen fristen.
+
+Kongen kan gi forskrift om gjennomføring av denne bestemmelsen, herunder fastsette frister for å gi tilbakemelding på varsel gitt etter andre ledd.
+
+Kongen kan i forskrift gjøre unntak fra klagerett over vedtak fattet i medhold av denne bestemmelsen.
+
+> Tilføyd ved [lov 23 mai 2014 nr. 18](lov/2014-05-23-18) (ikr. 1 juli 2014 iflg. [res. 23 mai 2014 nr. 669](forskrift/2014-05-23-669)).
+
+### § 13 b. Tilbakeholdelse, beslagleggelse og destruksjon av legemidler til dyr
+
+Legemidler til dyr som importeres i strid med kapittel I a eller forskrifter gitt i medhold av kapittel I a, kan tilbakeholdes, beslaglegges og destrueres.
+
+Ved tilbakehold skal mottakeren varsles om at legemidlene vil bli vurdert beslaglagt og destruert, og gis mulighet til å uttale seg i saken innen en nærmere angitt frist.
+
+> Tilføyd ved lov [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
+
+## Kap. VI. Grossistvirksomhet, formidling og detaljomsetning av legemidler
+
+> Overskriften endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [23 mai 2014 nr. 18](lov/2014-05-23-18) (ikr. 1 juli 2014 iflg. [res. 23 mai 2014 nr. 669](forskrift/2014-05-23-669)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 14
+
+Grossistvirksomhet med legemidler til mennesker omfatter alle former for virksomhet som består i å skaffe til veie, oppbevare, selge, utlevere eller eksportere legemidler, med unntak av vanlig apotekvirksomhet og annen utlevering av legemidler til allmennheten. Med grossist menes innehaver av grossisttillatelse eller av annen tillatelse som gir rett til å utøve grossistvirksomhet med legemidler.
+
+Grossistvirksomhet med legemidler krever en særskilt godkjenning fra departementet. Tilvirkere etter [§ 12](lov/1992-12-04-132/§12) og importører etter [§ 13](lov/1992-12-04-132/§13) første ledd kan likevel, uten særskilt godkjenning, drive grossistvirksomhet med de legemidlene tilvirker- eller importgodkjenningen gjelder for.
+
+Departementet kan gi forskrift om vilkår for godkjenning til grossistvirksomhet og krav til ansvarshavendes faglige kvalifikasjoner, til lokaler, varehåndtering mv. Departementet kan også gi forskrift om at grossister som utleverer legemidler til apotek, pålegges visse forpliktelser til offentlig tjenesteytelse.
+
+Godkjenning kan gis betinget og tidsbegrenset og kan kalles tilbake dersom betingelsene for godkjenning ikke oppfylles.
+
+Departementet kan pålegge grossister og andre som driver grossistvirksomhet, å registrere opplysninger om omsetningen. Opplysningene skal gjøres tilgjengelig for departementet. Departementet kan gi forskrift om hvordan opplysningene skal oppbevares og gjøres tilgjengelig.
+
+Grossister og andre som driver grossistvirksomhet, plikter å gi departementet elektronisk tilgang til opplysninger om lagerstatus ved fare for tilgangen til legemidler i Norge. Departementet kan gi forskrift om gjennomføringen av første punktum.
+
+> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 15
+
+Grossister kan bare få forsyninger av legemidler fra andre grossister eller fra tilvirkere og importører med rett til å drive grossistvirksomhet etter [§ 14](lov/1992-12-04-132/§14) andre ledd, andre punktum.
+
+Grossister kan, med de unntak som er fastsatt i eller i medhold av denne lov, bare utlevere legemidler til andre grossister, tilvirkere etter [§ 12](lov/1992-12-04-132/§12), importører etter [§ 13](lov/1992-12-04-132/§13), 1. ledd eller til personer eller virksomhet som driver med detaljomsetning etter [§ 16](lov/1992-12-04-132/§16).
+
+Grossister kan utlevere legemidler til profesjonelle sluttbrukere. Departementet kan gi forskrift om slikt salg og hvem som skal anses som profesjonelle sluttbrukere.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 15a
+
+Med legemiddelformidling menes enhver form for virksomhet knyttet til salg eller kjøp av legemidler, unntatt grossistvirksomhet og detaljomsetning, som ikke innebærer fysisk håndtering og som består i å forhandle uavhengig og på vegne av en annen juridisk eller fysisk person.
+
+Med legemiddelformidler menes virksomhet eller person som driver med formidling av legemidler etter første ledd.
+
+Departementet kan i forskrift fastsette nærmere krav til legemiddelformidlere.
+
+> Tilføyd ved [lov 23 mai 2014 nr. 18](lov/2014-05-23-18) (ikr. 1 juli 2014 iflg. [res. 23 mai 2014 nr. 669](forskrift/2014-05-23-669)), endret ved lov [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 16
+
+Med detaljomsetning menes salg av legemidler til allmennheten, herunder helseinstitusjoner eller andre brukere av legemidler.
+
+Detaljomsetning av legemidler må, med de unntak som er fastsatt i eller i medhold av denne lov, bare forestås av apotek og medisinutsalg underlagt et apotek.
+
+Varer som regnes som legemidler etter denne loven, kan til teknisk, vitenskapelig og annen ikke-medisinsk bruk selges av apotek, tilvirkere, grossister og andre som har fått tillatelse i samsvar med forskrifter gitt av departementet.
+
+Departementet kan i forskrift bestemme at visse reseptfrie legemidler skal kunne selges av kjøpmenn, samt gi nærmere bestemmelser for slikt salg. I forskrift kan det fastsettes plikt til å betale sektoravgift for omsetning av legemidler etter paragrafen her for å dekke utgifter til myndighetenes administrasjon og tilsyn med salgsordningen.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)), [19 des 2003 nr. 123](lov/2003-12-19-123) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1791](forskrift/2003-12-19-1791)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 17
+
+Leger, tannleger og veterinærer kan av departementet gis tillatelse til å levere legemidler, forbindingssaker og andre sykepleieartikler mot betaling når adgangen til apotek er tungvint. Legemidlene skal være anskaffet fra apoteket i ferdig tilberedt stand.
+
+Selv om tillatelse som nevnt i første ledd ikke er gitt, kan lege, tannlege og veterinær kreve dekket utlegg til legemidler som er brukt under behandlingen av en pasient eller et dyr, eller som er utlevert til bruk inntil midlene kan skaffes fra apotek.
+
+På steder hvor det er vanskelig adgang til apotek eller lege, kan departementet gi tillatelse til at en autorisert sykepleier har et mindre forråd av legemidler m.v. til bruk i påkommende tilfelle. I særlige tilfeller kan departementet gi slik tillatelse til andre enn autorisert sykepleier. Det er ikke adgang til å beregne noen fortjeneste ved utlevering fra slikt forråd. Varene skal leveres fra et bestemt apotek, som påtar seg å føre nødvendig tilsyn.
+
+Departementet kan gi nærmere regler om levering av legemidler m.v. i henhold til denne paragraf, derunder om hvilken pris eller fortjeneste som kan beregnes for levering etter første ledd.
+
+> Opphevet ved [lov 20 des 1996 nr. 109](lov/1996-12-20-109), tilføyd ved [lov 2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)), endret ved [lov 15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)).
+
+### § 18
+
+Departementet kan gi forskrift om sektoravgift på salg av legemidler fra grossister og andre som driver grossistvirksomhet. Grossisten og andre som driver grossistvirksomhet, skal kreve sektoravgiften dekket av legemiddelets kjøper. Sektoravgiften skal dekke tilskudd til apotek og Relis, fraktrefusjon av legemidler samt myndighetenes utgifter til forvaltning av apotek.
+
+> Opphevet ved [lov 20 des 1996 nr. 109](lov/1996-12-20-109), tilføyd igjen ved [lov 15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 jan 2002 iflg. [vedtak 12 des 2001 nr. 1408](forskrift/2001-12-12-1408)), endret ved [lover 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 18 a
+
+Departementet kan ved fare for tilgangen til legemidler i Norge pålegge grossister og andre som driver grossistvirksomhet, restriksjoner på salg, utlevering og parallelleksport av legemidler.
+
+Departementet kan gi forskrift om gjennomføringen av første ledd.
+
+> Tilføyd ved lov [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+## Kap. VII. Reklame for legemidler m.v.
+
+### § 19
+
+Reklame for legemidler skal være nøktern og sann.
+
+Kongen gir forskrift om reklame for legemidler, herunder utdeling av prøver i reklameøyemed. I forskriften kan det bl.a. gis regler om tilbakekalling av markedsføringstillatelsen ved brudd på reklamebestemmelsene og inntas forbud mot visse former for reklame. Forskriften kan også gi bestemmelser om midlertidige tiltak.
+
+> Endret ved [lover 18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)).
+
+### § 20
+
+Det er forbudt i reklame eller lignende, ved tekst eller bilder, direkte eller indirekte, å gi uttrykk for at stoff, droge eller preparat som ikke er legemiddel anbefales som middel til å forebygge, lege eller lindre sykdom, sykdomssymptomer eller smerter eller påvirke fysiologiske funksjoner hos mennesker eller dyr. Når særlige grunner foreligger, kan departementet gjøre unntak fra denne bestemmelse.
+
+Ved overtredelse av første ledd kan departementet pålegge tilvirkeren eller annonsøren å sørge for at en godkjent beriktigelse blir sendt ut eller offentliggjort på tilsvarende måte som den ulovlige reklamen.
+
+Blir det tross advarsel fortsatt drevet reklame for en vare i strid med bestemmelsene i første ledd, kan varen ved dom forbys solgt under navn som var brukt i den ulovlige reklamen.
+
+> Endret ved [lover 14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [28 feb 2025 nr. 2](lov/2025-02-28-2) (i kraft 1 mai 2025 iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601)).
+
+### § 21
+
+I reklame må det ikke ved tekst eller bilder eller på annen måte, direkte eller indirekte gis uriktige, misvisende eller villedende opplysninger om en vares medisinske virkning eller egenskaper. Annet og tredje ledd i [§ 20](lov/1992-12-04-132/§20) får tilsvarende anvendelse.
+
+Når særlige grunner taler for det, kan Kongen ved forskrifter forby all medisinsk reklame overfor allmennheten for bestemte varer eller varegrupper.
+
+Når særlige grunner taler for det, kan Direktoratet for medisinske produkter gi forskrift om forbud mot all medisinsk reklame overfor allmennheten for bestemte varer eller varegrupper i fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformer.
+
+> Endret ved lov [28 feb 2025 nr. 2](lov/2025-02-28-2) (i kraft 1 mai 2025 iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601)).
+
+### § 21 a
+
+Dersom en overtredelse av bestemmelser som Direktoratet for medisinske produkter fører tilsyn med etter [legemiddelloven kapittel VII](lov/1992-12-04-132/kapvii) med tilhørende forskrift, medfører betydelig helserisiko, og det ikke finnes andre effektive midler for å stanse overtredelsen, kan Direktoratet for medisinske produkter påleggeen vertstjenesteleverandør eller en eier av et nettbasert grensesnitt å fjerne innhold på grensesnittet eller innta en tydelig advarsel som forbrukerne ser når de får tilgang til det nettbaserte grensesnittet,en internettilbyder å begrense tilgangen til et nettbasert grensesnitt,en vertstjenesteleverandør å fjerne, deaktivere eller begrense tilgangen til et nettbasert grensesnitt,en registerenhet for toppdomener eller en domeneregistrar å slette, suspendere eller omregistrere et fullt kvalifisert domenenavn til Direktoratet for medisinske produkter.
+
+Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til informasjons- og ytringsfriheten, forbrukernes interesser, partenes interesser samt mulighetene for mindre inngripende tiltak.
+
+Dersom det er rimelig grunn til å anta at det foreligger brudd på bestemmelser som Direktoratet for medisinske produkter fører tilsyn med etter [kapittel VII](lov/1992-12-04-132/kapvii), kan Direktoratet for medisinske produkter gi pålegg etter første ledd med midlertidig virkning. Et vedtak med midlertidig virkning skal gjelde for en bestemt tid som ikke kan overstige tre uker fra virkningstidspunktet. Vedtaket kan fornyes dersom vilkårene er oppfylt.
+
+> Tilføyd ved [lov 20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)), endret ved lov [20 des 2023 nr. 106](lov/2023-12-20-106) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2128](forskrift/2023-12-20-2128)).
+
+### § 21 b. Begrensninger i Kongens myndighet. Klageadgang
+
+Kongen kan ikke instruere Direktoratet for medisinske produkter i saker som gjelder reklame for legemidler der avgjørelser i saken er rettet mot tilbydere av fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformer, eller omgjøre vedtak i slike saker.
+
+Enkeltvedtak i saker etter første ledd kan påklages til Markedsrådet.
+
+Kongen kan gi forskrift om at også andre enkeltvedtak som gjelder reklame for legemidler, og er truffet av Direktoratet for medisinske produkter, kan påklages til Markedsrådet.
+
+> Tilføyd ved lov [28 feb 2025 nr. 2](lov/2025-02-28-2) (i kraft 1 mai 2025 iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601)).
+
+## Kap. VIII. Narkotika
+
+> Overskriften endret ved [lov 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+### § 22
+
+Kongen fastsetter hvilke stoffer, droger, planter, sopper og blandinger (narkotika) som skal komme inn under bestemmelsene i dette kapittel og gir forskrifter om tilvirkning, omsetning (salg, kjøp, annen overdragelse og mellommannsvirksomhet), innførsel, utførsel, gjennomførsel (transitt), utlevering, forsendelse og oppbevaring av disse, samt om dyrking av vekster som skal nyttes til fremstilling av narkotika.
+
+I forskriftene kan inntas forbud mot besittelse, bruk, tilvirkning, anskaffelse, omsetning, innførsel, utførsel og gjennomførsel av visse narkotika. Forskriftene skal gjelde også for frihavner, frilager og transittopplag.
+
+> Endret ved [lov 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+### § 23
+
+Tilvirkning av narkotika må bare foregå i den utstrekning det er uttrykkelig fastsatt i tillatelse etter [§ 12](lov/1992-12-04-132/§12).
+
+Innførsel av narkotika, grossistvirksomhet og detaljomsetning med narkotika kan bare foregå i den utstrekning dette er uttrykkelig fastsatt i tillatelse etter [§§ 13](lov/1992-12-04-132/§13), [14](lov/1992-12-04-132/§14) og [16](lov/1992-12-04-132/§16). Apotek er unntatt denne bestemmelsen.
+
+Dersom ikke annet er bestemt i forskrifter, må innførsel, utførsel og transitt av narkotika bare skje etter særskilt tillatelse (sertifikat) for hver gang og på de vilkår som er fastsatt i tillatelsen eller i forskrifter. Tillatelsen utstedes av den myndighet som Kongen bestemmer.
+
+Omsetning, utlevering og forsendelse av narkotika er bare tillatt til medisinsk og vitenskapelig bruk. Departementet kan i forskrift tillate industriell bruk av narkotika.
+
+Tilvirkere og selgere er pliktige til å gi de meldinger og opplysninger som departementet krever.
+
+> Endret ved [lover 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [14 juni 2013 nr. 38](lov/2013-06-14-38) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 616](forskrift/2013-06-14-616)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 23a
+
+Det kan kreves gebyr for behandling av søknader om særskilt tillatelse til innførsel og utførsel av narkotika. Departementet kan i forskrift gi nærmere bestemmelser om gebyr, herunder om gebyrets størrelse.
+
+> Tilføyd ved [lov 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+### § 24
+
+Det er forbudt uten lovlig adkomst å være i besittelse av eller å bruke narkotika og å skaffe seg adgang til å få kjøpt slike varer under falske opplysninger, f.eks. om navn, bosted, sykdom eller sykdomstegn.
+
+Slike midler må ikke anvendes til annet formål enn de er utlevert til, og må ikke uten lovlig hjemmel overdras til eller erverves av andre enn den som resepten eller rekvisisjonen er utstedt til. Resept eller rekvisisjon må ikke overdras til eller erverves av andre enn den de er utstedt til.
+
+> Endret ved [lov 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 24 a
+
+Det er forbudt uten lovlig adkomst å erverve, besitte eller bruke stoff som etter forskrift med hjemmel i [straffeloven § 234](lov/2005-05-20-28/§234) første ledd er regnet som dopingmidler. Forbudet gjelder også for preparater som inneholder slike stoffer.
+
+[§ 24](lov/1992-12-04-132/§24) annet ledd gjelder tilsvarende.
+
+> Tilføyd ved [lov 14 juni 2013 nr. 38](lov/2013-06-14-38) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 616](forskrift/2013-06-14-616)), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 25
+
+Lovbestemt taushetsplikt er ikke til hinder for at opplysninger om mulig misbruk av narkotika gis til Statens helsetilsyn.
+
+Leger, tannleger, veterinærer, apotekere og apotekbestyrere, psykologer, edruelighetsnemnder og politiet er pliktig til på anmodning å gi Statens helsetilsyn opplysninger om bestemte personers mulige misbruk av narkotika, eller om andre bestemt angitte tilfeller av misbruk eller overtredelse av bestemmelser i lov eller forskrifter om disse varer. I sak om straff eller inndragning p.g.a. overtredelse av slike bestemmelser kan retten uten hinder av [straffeprosessloven § 119](lov/1981-05-22-25/§119) motta vitneprov om disse forhold.
+
+Opplysninger om misbruk som er gitt til Statens helsetilsyn i henhold til denne paragraf, eller som det på annen måte har fått kjennskap til, kan uten hinder av taushetsplikt gis til leger, apotek, psykologer, edruelighetsnemnder og, dersom det foreligger mistanke om lovstridig handling, til politiet.
+
+> Endret ved [lover 13 des 2002 nr. 78](lov/2002-12-13-78) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1600](forskrift/2002-12-13-1600)), [24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+## Kap. VIII a. Stoffer som kan brukes ved ulovlig fremstilling av narkotika
+
+> Kapitlet tilføyd ved [lov 19 des 1997 nr. 99](lov/1997-12-19-99), overskriften endret ved [lov 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+### § 25a
+
+Kongen kan gi forskrifter om at det kreves særskilt godkjenning for import, eksport, transitt, tilvirkning, mottak, besittelse, håndtering og omsetning av stoffer som kan brukes ved illegal fremstilling av narkotika, for å hindre spredning av slike stoffer.
+
+Kongen kan gi forskrifter om krav til innholdet i søknad om godkjenning for import, eksport, transitt, tilvirkning, mottak, besittelse, håndtering og omsetning av stoffene, til innholdet i dokumenter som vedrører handelen, om merking og om rapporteringsplikt til kontrollmyndigheten på området.
+
+Kongen kan bestemme hvem som skal være kontrollmyndighet. Kontrollmyndigheten skal vurdere søknader om godkjenning og gjennomføre tilsyn.
+
+Ved søknad om lisens i henhold til forskrifter gitt i medhold av paragrafen her, skal det fremlegges politiattest for søker og ansvarlig medarbeider. Er søkeren en juridisk person, gjelder kravet om politiattest for virksomhetens daglige leder. Attesten skal være en uttømmende politiattest begrenset til overtredelser av narkotikalovgivningen.
+
+Det kan kreves gebyr for utstedelse av lisens eller for registrering i henhold til forskrifter gitt i medhold av paragrafen her. Størrelsen på gebyret fastsettes av departementet.
+
+> Tilføyd ved [lov 19 des 1997 nr. 99](lov/1997-12-19-99), endret ved [lover 18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)).
+
+## Kap. IX. Forskjellige bestemmelser.
+
+### § 25b
+
+Rett for helsepersonell og dyrehelsepersonell til å rekvirere reseptpliktige legemidler følger av særskilt lov. Departementet kan i forskrift bestemme at andre grupper kan få begrenset rett til å rekvirere reseptpliktige legemidler.
+
+Departementet kan i forskrift gi nærmere bestemmelser om rekvirering av legemidler, herunder om utforming og utfylling av resept og rekvisisjonsblankett. Det kan også bestemmes at bestemte legemidler helt eller delvis skal unntas fra rekvireringsretten.
+
+> Tilføyd ved [lov 2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)).
+
+### § 26
+
+Kongen gir forskrifter om hva som skal regnes som sprit, brennevin og vin til medisinsk bruk, og om salg og utlevering av slik vare.
+
+I forskriftene kan fastsettes alminnelige innskrenkninger i legers, tannlegers og veterinærers adgang til å rekvirere sprit, brennevin og vin til medisinsk bruk.
+
+Departementet kan innskrenke et apoteks adgang til å kjøpe sprit, brennevin og vin til medisinsk bruk, hvis det er skjellig grunn til å anta at det foregår misbruk ved utlevering eller anvendelse av slike varer ved apoteket.
+
+> Endret ved [lov 2 juni 2000 nr. 39](lov/2000-06-02-39) (ikr. 1 mars 2001 iflg. [vedtak 4 sep 2000 nr. 894](forskrift/2000-09-04-894)).
+
+### § 26a
+
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for godkjenning av virksomheter som driver med forskrivning, tilvirkning, distribusjon mv. av medisinfôr til dyr, fugler, fisk og andre akvatiske organismer, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser. Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.
+
+> Tilføyd ved [lov 19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)).
+
+### § 27
+
+Departementet kan i forskrift bestemme at vare som ikke regnes som legemiddel etter denne lov, men som selges til spesielt medisinsk bruk, eller til annet særlig bruk i helse- og sykepleie, skal være undergitt særskilt kontroll, for å sikre at varen svarer til de krav som må stilles av hensyn til liv og helse.
+
+Departementet kan gi forskrift med nærmere regler om kontroll av varer etter første ledd. I forskriftene kan det blant annet fastsettes regler om hvilke krav varen skal fylle, om godkjenning av varen og av tilvirkere og selgere og om tilsyn med tilvirkning og omsetning. Det kan i forskriftene fastsettes gebyr for å dekke utgiftene ved godkjenning, kontroll og undersøkelser.
+
+> Endret ved [lov 27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)).
+
+### § 28
+
+Departementet fører tilsyn med at bestemmelsene i denne lov og bestemmelser gitt med hjemmel i denne lov overholdes. Departementet fastsetter hvilke myndigheter som er kompetent myndighet etter forordning om legemidler til dyr.
+
+Departementet kan kreve å få utlevert og beslaglegge de oppgaver, dokumenter og opplysninger som er nødvendige for å ivareta tilsynet og foreta de nødvendige kontroller av virksomheter, produksjon, omsetning og markedsføringsaktiviteter m.v. som berøres av denne lov, så lenge og i det omfanget det er nødvendig. Lovbestemt taushetsplikt er ikke til hinder for tilsynet.
+
+Departementet kan i forbindelse med tilsynet kostnadsfritt ta ut eller kreve utlevert prøver av legemidler og prøver av stoffer som er brukt under tilvirkning av legemidler hos de virksomheter som berøres av denne lov.
+
+Departementet kan gi pålegg om retting dersom bestemmelser i denne lov eller bestemmelser gitt med hjemmel i denne lov, ikke overholdes. Pålegget rettes til den ansvarlige for virksomheten.
+
+Dersom plikten etter [§ 14 sjette ledd](lov/1992-12-04-132/§14/ledd/6) ikke oppfylles, kan departementet treffe vedtak om at grossisten skal betale en løpende tvangsmulkt for hver dag som går etter utløpet av fristen som er satt for oppfylling av forholdet, inntil plikten oppfylles. Vedtak om tvangsmulkt er tvangsgrunnlag for utlegg.
+
+Dersom frist for oppfyllelse av pålegg oversittes, kan departementet fastsette tvangsmulkt overfor den ansvarlige i form av engangsmulkt eller løpende dagsmulkt. Tvangsmulkt kan tilsvarende fastsettes ved brudd på innhentet skriftlig bekreftelse fra den næringsdrivende på at denne skal tilby avhjelpende tiltak til berørte forbrukere. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget eller forpliktende avhjelpende tiltak blir gjennomført og hvilke kostnader disse anses å medføre.
+
+Er det tvil om en vare som skal innføres eller bringes i handelen, inneholder stoff som kommer inn under denne lov, kan departementet forlange at tilvirkeren eller importøren gir opplysning om innholdsstoffene i den utstrekning dette er nødvendig for å avgjøre spørsmålet.
+
+Departementet kan forby innførsel eller salg inntil opplysningene er gitt.
+
+Ved overtredelse av [legemiddelloven §§ 19](lov/1992-12-04-132/§19) og [21](lov/1992-12-04-132/§21) eller forskrifter gitt med hjemmel i disse bestemmelsene, eller forordning [(EU) 2019/6 artikkel 119](eu/32019r0006/a119) til 121 eller forskrifter om reklame gitt med hjemmel i [§ 2 d](lov/1992-12-04-132/§2d), kan departementet innhente skriftlig bekreftelse fra overtrederen på at det ulovlige forholdet skal opphøre. I tilfeller hvor markedsføring av et legemiddel har vært ulovlig, kan departementet innhente skriftlig bekreftelse på at næringsdrivende skal tilby avhjelpende tiltak til berørte forbrukere.
+
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [16 feb 2007 nr. 6](lov/2007-02-16-6) (ikr. 1 mars 2007 iflg. [res. 16 feb 2007 nr. 172](forskrift/2007-02-16-172)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 juni 2010 nr. 24](lov/2010-06-18-24) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 845](forskrift/2010-06-18-845)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)), [22 juni 2018 nr. 76](lov/2018-06-22-76) (ikr. 1 jan 2022 iflg. [res. 17 sep 2021 nr. 2767](forskrift/2021-09-17-2767)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 28 a
+
+EFTAs overvåkingsorgan kan treffe vedtak om overtredelsesgebyr og tvangsmulkt for overtredelse av forpliktelser som følger av markedsføringstillatelse utstedt i sentral prosedyre.
+
+Departementet kan ilegge den som forsettlig eller uaktsomt overtrer bestemmelsene i [§ 13 første](lov/1992-12-04-132/§13/ledd/1) og [fjerde ledd](lov/1992-12-04-132/§13/ledd/4), [§ 14 andre ledd](lov/1992-12-04-132/§14/ledd/2), [§ 16 andre ledd](lov/1992-12-04-132/§16/ledd/2), [§§ 18 a](lov/1992-12-04-132/§18a) til [21](lov/1992-12-04-132/§21) og [§ 23 femte ledd](lov/1992-12-04-132/§23/ledd/5), overtredelsesgebyr. Det samme gjelder den som overtrer forordning om legemidler til dyr artiklene 58 nr. 3, 4 og 10, 88 nr. 1 bokstav c, 99 nr. 1, 119, 120 og 121. Det samme gjelder ved overtredelse av forskrifter gitt i medhold av disse bestemmelsene eller [§ 10](lov/1992-12-04-132/§10) første ledd første punktum når det er fastsatt i forskrift at overtredelsen kan medføre slik sanksjon.
+
+Der den næringsdrivende, eller noen som opptrer på den næringsdrivendes vegne, forsettlig eller uaktsomt overtrer pålegg om stedlig kontroll etter [§ 28](lov/1992-12-04-132/§28) annet ledd, kan den næringsdrivende ilegges overtredelsesgebyr.
+
+Departementet kan gi forskrift om hvilke hensyn det kan eller skal legges vekt på ved vurderingen av om overtredelsesgebyr skal ilegges.
+
+Departementet fastsetter i forskrift nærmere bestemmelser om utmåling og betaling av overtredelsesgebyr og tvangsmulkt, herunder om renter og tilleggsgebyr dersom overtredelsesgebyret eller tvangsmulkten ikke blir betalt ved forfall.
+
+Departementets adgang til å ilegge overtredelsesgebyr foreldes etter 2 år. Fristen regnes fra tidspunktet overtredelsen fant sted. Fristen avbrytes ved at departementet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr. Departementet kan gi nærmere bestemmelser om foreldelse i forskrift, herunder fravike bestemmelsene om foreldelsesfrist og fristavbrudd for særlige typer overtredelser.
+
+> Tilføyd ved [lov 22 juni 2018 nr. 76](lov/2018-06-22-76) (ikr. 1 jan 2022 iflg. [res. 17 sep 2021 nr. 2767](forskrift/2021-09-17-2767)), endret ved lover [21 juni 2019 nr. 42](lov/2019-06-21-42) (ikr. 1 jan 2022 iflg. [res. 17 sep 2021 nr. 2767](forskrift/2021-09-17-2767)), [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 jan 2022 iflg. [res. 17 sep 2021 nr. 2767](forskrift/2021-09-17-2767)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)), [21 juni 2024 nr. 43](lov/2024-06-21-43) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1101](forskrift/2024-06-21-1101)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+
+### § 29
+
+Den som har legemidler i sin besittelse plikter å oppbevare dem forsvarlig.
+
+### § 30
+
+Enhver som i medhold av stilling eller verv etter loven får kjennskap til drifts- eller forretningshemmelighet skal med de begrensninger som følger av hans gjøremål etter loven, tie med det han slik får vite. Ingen må i ervervsvirksomhet gjøre bruk av det han slik får vite. Taushetsplikten gjelder også etter at vedkommende har sluttet i stillingen eller vervet. Departementet kan samtykke i unntak fra taushetsplikt etter denne bestemmelse når sterke samfunnsmessige hensyn taler for at opplysningene gis. Taushetsplikten skal likevel ikke være til hinder for utveksling av informasjon (samordning) som forutsatt i lov om Oppgaveregisteret. [Forvaltningslovens §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g) gjelder ikke.
+
+> Endret ved [lover 6 juni 1997 nr. 35](lov/1997-06-06-35) (ikr. 1 nov 1997), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)).
+
+### § 30 a
+
+Farmasøytisk industri, legemiddelgrossister og apotek kan kreve fremleggelse av ordinær politiattest, jf. [politiregisterloven § 40](lov/2010-05-28-16/§40). Attesten avgrenses til å omfatte overtredelser av narkotikalovgivningen.
+
+> Tilføyd ved [lov 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)).
+
+### § 30 b
+
+Sektoravgift og gebyr etter denne loven er tvangsgrunnlag for utlegg.
+
+> Tilføyd ved [lov 27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)).
+
+## Kap. X. Straff, inndragning og tvangsinndrivelse.
+
+> Overskriften endret ved [lov 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)). Overskrift **endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 31
+
+Den som forsettlig eller uaktsomt overtrer denne lov, eller forskrifter, forbud eller påbud som er gitt med hjemmel i loven, straffes med bøter eller med fengsel i inntil 3 måneder, eller med begge deler. Ved overtredelse av forordning om legemidler til dyr kommer straff bare til anvendelse ved overtredelse av artikkel 88 nr. 1 bokstav c og 99 nr. 1.
+
+Besittelse og bruk av narkotika, jf. [§ 24](lov/1992-12-04-132/§24) første ledd, og erverv, besittelse og bruk av dopingmidler, jf. [§ 24 a](lov/1992-12-04-132/§24a) første ledd, straffes med bøter eller fengsel inntil 6 måneder, eller begge deler.
+
+Dersom den straffbare handling gjelder overdragelse av legemiddel som ikke regnes som narkotika og det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel i inntil 2 år, eller begge deler.
+
+Forsøk straffes som fullbyrdet overtredelse.
+
+> Endret ved [lover 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [14 juni 2013 nr. 38](lov/2013-06-14-38) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 616](forskrift/2013-06-14-616)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 31 a
+
+> **Tilføyes** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 32
+
+Dersom vilkårene for inndragning etter straffeloven er oppfylt, kan påtalemyndigheten beslutte at beslaglagte stoffer som er oppført på narkotikalisten inndras. Beslutningen skal være skriftlig og begrunnet. Eieren eller besitteren skal så vidt mulig underrettes om påtalemyndighetens beslutning og kan kreve saken forelagt for retten innen 1 måned etter at beslaget ble foretatt.
+
+Departementet bestemmer hva som skal gjøres med inndratte legemidler.
+
+Departementet bestemmer også hva som skal gjøres med narkotika som er å regne som hittegods.
+
+> Endret ved [lover 24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 33. (Opphevet)
+
+> Tilføyd ved [lov 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), opphevet ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)). **Tilføyes** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+## Kap. XI. Ikrafttredelse. Endringer i andre lover.
+
+### § 34
+
+Loven trer i kraft fra den tid EØS-avtalen trer i kraft for Norge.1
+
+Fra den tid loven trer i kraft, oppheves [lov av 20. juni 1964 nr. 5](lov/1964-06-20-5) om legemidler m.v.
+
+Fra samme tidspunkt gjøres følgende endringer i andre lover: – – –
+
+> Endret ved [lov 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), tidligere § 33.

@@ -1,0 +1,126 @@
+---
+id: "sf-20190612-0721"
+slug: "forskrift-om-helsekrav-for-operativt-personell-på-jernbane-og-signaler-på-tog"
+type: "forskrift"
+ref_id: "forskrift/2019-06-12-721"
+title: "Forskrift om helsekrav for operativt personell på jernbane og signaler på tog"
+short_title: null
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2019-06-16"
+last_change_in_force: "2022-06-01"
+last_updated: "2023-01-11"
+xml_hash: "4229d157c1d57bd66636224d158bae33c70b8a22e9ce12e9ab6ba7d65c175334"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om helsekrav for operativt personell på jernbane og signaler på tog
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Virkeområde
+
+1. Forskriften gjelder for jernbanevirksomheter på jernbanenettet.
+
+2. Forskriften [kapittel 2](forskrift/2019-06-12-721/kap2) gjelder operativt personell som utfører arbeidsoppgaver av betydning for trafikksikkerheten, for eksempel skiftepersonell, trafikkstyrer, sikkerhetsvakt mv. Dette gjelder likevel ikke ombordpersonell eller førere som har førerbevis etter [forskrift 27. november 2009 nr. 1414](forskrift/2009-11-27-1414) om sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet.
+
+3. Forskriften [kapittel 3](forskrift/2019-06-12-721/kap3) gjelder for godstog som kun trafikkerer jernbanenettet og ikke passerer en landegrense.
+
+### § 1-2. Definisjoner
+
+I forskriften her menes med:*jernbaneinfrastruktur:* trasé, over- og underbygning, banestrømforsyning, kontaktledningsanlegg, signalanlegg og telekommunikasjonsanlegg,*trafikkstyring:* togledelse og andre funksjoner som koordinerer og bidrar til å ivareta sikkerheten for kjøring av tog og skifting,*jernbanevirksomhet:* virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og/eller trafikkstyring.
+
+## Kapittel 2. Krav til helse
+
+### § 2-1. Arbeidsoppgaver av betydning for trafikksikkerheten
+
+1. Bestemmelsene i dette kapitlet omfatter operativt personell som utfører arbeidsoppgaver av betydning for trafikksikkerheten jf. [§ 1-1](forskrift/2019-06-12-721/§1-1) nr. 3. Slikt personell må ha gjennomført helseundersøkelse og oppfylle kravene til helse i dette kapitlet.
+
+2. Personell som nevnt i første ledd skal informere jernbanevirksomheten om sin egen helsetilstand dersom vedkommende er kjent med eller mistenker at helsetilstanden er endret slik at kravene ikke lenger er oppfylt.
+
+3. Dersom det er tvil om arbeidsoppgavene fortsatt kan utføres uten fare for trafikksikkerheten vises det til [§ 2-6](forskrift/2019-06-12-721/§2-6).
+
+### § 2-2. Helseundersøkelse
+
+Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 1-1](forskrift/2019-06-12-721/§1-1) nr. 2 skal gjennomgå en helseundersøkelse. Helseundersøkelsen skal utføres av en lege.
+
+### § 2-3. Første gangs helseundersøkelse
+
+1. Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i [§ 1-1](forskrift/2019-06-12-721/§1-1) nr. 2 skal gjennomgå en helseundersøkelse som minst skal omfatte:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel, fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+
+2. Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:kognitive egenskaper,psykomotoriske egenskaper,atferdsmessige og personlige egenskaper.
+
+### § 2-4. Periodiske undersøkelser
+
+1. Det skal gjennomføres minst en helseundersøkelse:hvert femte år for personale opp til 40 år,hvert tredje år for personale mellom 41 og 62 år,hvert år for personale over 62 år.
+
+2. Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det.
+
+### § 2-5. Minstekrav til den periodiske helseundersøkelsen
+
+Periodisk helseundersøkelse skal minst inneholde:en generell undersøkelse,undersøkelser av sansefunksjoner (syn, hørsel og fargesans),en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.
+
+### § 2-6. Supplerende helseundersøkelser og/eller psykologiske vurderinger
+
+1. I tillegg til den regelmessige helseundersøkelsen skal det gjennomføres en særskilt supplerende helseundersøkelse og/eller psykologisk vurdering dersom det foreligger grunn til å tvile på den ansattes fysiske eller psykiske skikkethet, eller dersom det foreligger rimelig grunn til å mistenke misbruk av legemidler, bruk av narkotiske stoffer eller alkohol over de tillatte grensene. Det vil særlig være tilfelle etter en hendelse eller en ulykke.
+
+2. Jernbanevirksomheten skal ha systemer for å sikre at slike supplerende undersøkelser og vurderinger blir gjennomført.
+
+### § 2-7. Allmenne krav
+
+1. Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.
+
+2. Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:plutselig bevisstløshet,nedsatt oppmerksomhet eller konsentrasjon,plutselig arbeidsudyktighet,nedsatt balanse- eller koordineringsevne,betydelig begrenset bevegelsesevne.
+
+### § 2-8. Synskrav
+
+1. Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.
+
+2. Følgende krav gjelder:synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,største tillatte korreksjon: langsynthet +5/nærsynthet -8,syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,kontaktlinser er tillatt,normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),syn på begge øyne: effektivt,binokulært syn: effektivt,kontrastfølsomhet: god,ingen progressiv øyensykdom,øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.
+
+3. Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege.
+
+### § 2-9. Hørselskrav
+
+1. Hørselsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.
+
+2. Tilfredsstillende hørsel som bekreftes av et toneaudiogram, det vil si tilstrekkelig god hørsel til å kunne føre en telefonsamtale og høre varsellyder og radiomeldinger.
+
+3. Bruk av høreapparat er tillatt.
+
+### § 2-10. Rusmidler mv.
+
+1. Det skal ikke foreligge misbruk av legemidler, bruk av narkotika eller avhengighet av eller misbruk av alkohol.
+
+2. Legemidler som kan påvirke reaksjonsevne, konsentrasjonsevne eller vurderingsevne kan bare benyttes etter særskilt vurdering og anvisning av lege.
+
+### § 2-11. Overgangsordninger
+
+1. For personell som omfattes av dette kapitlet og som ved ikrafttredelse oppfyller krav til helse etter [forskrift 18. desember 2002 nr. 1678](forskrift/2002-12-18-1678) om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften), gjelder denne forskriftens krav fra og med neste periodiske helseundersøkelse, men senest fra 1. januar 2022.
+
+2. Unntak fra krav til helse gitt i medhold av [forskrift 18. desember 2002 nr. 1678](forskrift/2002-12-18-1678) om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften) før ikrafttredelse av denne forskriften, gjelder til de utløper, men ikke utover 1. januar 2022.
+
+## Kapittel 3. (Opphevet)
+
+> Kapitlet opphevet ved forskrift [8 sep 2021 nr. 2714](forskrift/2021-09-08-2714) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 770](forskrift/2022-05-06-770)).
+
+### § 3-1. (Opphevet)
+
+> Opphevet ved forskrift [8 sep 2021 nr. 2714](forskrift/2021-09-08-2714) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 770](forskrift/2022-05-06-770)).
+
+## Kapittel 4. Avsluttende bestemmelser
+
+### § 4-1. Unntak
+
+Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige forhold tilsier det.
+
+### § 4-2. Ikrafttredelse
+
+1. Forskriften trer i kraft 16. juni 2019.
+
+2. Fra samme tidspunkt oppheves [forskrift 29. februar 2008 nr. 240](forskrift/2008-02-29-240) om togframføring på det nasjonale jernbanenettet (togframføringsforskriften) og [forskrift 12. januar 2012 nr. 63](forskrift/2012-01-12-63) om togframføring på ERTMS-strekninger (ERTMS-togframføringsforskriften).

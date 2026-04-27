@@ -1,0 +1,32 @@
+---
+id: "sf-20180622-0950"
+slug: "forskrift-om-anvendelse-av-lov-om-informasjon-om-bestemt-angitte-områder-skjermingsverdige-objekter-og-bunnforhold-på-svalbard-og-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/2018-06-22-950"
+title: "Forskrift om anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen"
+short_title: "Forskrift om anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen"
+language: "no"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "2018-09-01"
+last_change_in_force: "2024-05-31"
+last_updated: null
+xml_hash: "e77c5fde0c1fd014aa6cf3ed04c5b3abf1fa6270e7a490fc02170ff255516e47"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen
+
+## § 1. Anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen
+
+[Lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88) gjelder for Svalbard og Jan Mayen.
+
+> Endret ved forskrift [31 mai 2024 nr. 874](forskrift/2024-05-31-874).
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft 1. september 2018.

@@ -1,0 +1,156 @@
+---
+id: "sf-19950713-0642"
+slug: "forskrift-om-høsting-av-tang-og-tare"
+type: "forskrift"
+ref_id: "forskrift/1995-07-13-642"
+title: "Forskrift om høsting av tang og tare"
+short_title: "Forskrift om høsting av tang og tare"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1995-07-13"
+last_change_in_force: "2022-11-01"
+last_updated: null
+xml_hash: "1956d9a60457fa1b97a85f1bad64565ecc30b76cd70e7658712ff8a79ab475b6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om høsting av tang og tare
+
+## § 1. Virkeområde
+
+Forskriften gjelder for undersøkelse og høsting av tang og tare i indre norsk farvann, norsk sjøterritorium, og Norges økonomiske sone.
+
+Forskriften gjelder ikke for områder underlagt privat eiendomsrett.
+
+Det er forbudt å høste tang og tare på dypere vann enn 20 meter.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 2. Formål
+
+Forskriftens formål er å sikre en bærekraftig utnyttelse av tang og tare som del av en helhetlig forvaltning av kystens ressurser og naturmiljø.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 3. Definisjoner
+
+*Åpne felt* er de høsteområdene som er utlagt til høsting av tang og tare i forvaltningsplan for tang og tare. Åpne felt høstes etter nærmere fastsatt høstesyklus.
+
+*Stengte områder* er avgrensede områder innenfor åpne felt hvor det likevel skal være forbudt å høste tare i hele eller deler av året.
+
+*Bærekraftig utnyttelse* er en utnyttelse som gir økonomisk vekst og bedre livsvilkår for menneskene uten å ødelegge verken naturressursene, miljøet eller fremtidige generasjoners muligheter til å ivareta sine behov.
+
+*Egner seg for høsting* vil si at ressursen og økosystemet i et felt kan tåle den belastningen høstingen innebærer.
+
+> Tilføyd ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 4. Retten til høsting av tang og tare
+
+Retten til høsting av tang og tare tilhører staten.
+
+Høsting av tang og tare i indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen er forbudt med mindre det i medhold av denne forskrift gis tillatelse til undersøkelse og utnyttelse av tang- og tareforekomster i bestemte områder.
+
+> Endret ved [forskrifter 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 3), [18 des 2008 nr. 1535](forskrift/2008-12-18-1535) (i kraft 1 jan 2009).
+
+## § 5. Regionale forskrifter
+
+Fiskeridirektoratet kan fastsette regionale forskrifter om hvor og når det er tillatt å høste tare i den enkelte region. Forskriftsforslag utarbeides av fylkesvise grupper som ledes av fylkeskommunen.
+
+Fiskeridirektoratet kan, i samråd med Miljødirektoratet, åpne for høsting av tang og tare for inntil 5 år av gangen dersom det er sannsynlig at ressursen og økosystemet i området kan tåle den belastningen høstingen innebærer.
+
+Høsting kan bare skje innenfor åpne felt, og på de vilkår som framgår av denne forskrift, de regionale forskriftene, samt forvaltningsplan for tang og tare.
+
+Hele eller deler av åpne felt kan stenges før 5 år er gått dersom noen av forutsetningene tillatelsen bygger på bortfaller.
+
+Fiskeridirektoratet kan også fastsette bestemmelser om varig forbud mot høsting av tang og tare i bestemte områder.
+
+> Endret ved [forskrifter 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 4), [14 jan 2011 nr. 52](forskrift/2011-01-14-52), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
+
+## § 6. Åpning av nye felt
+
+Den som ønsker å høste tare i andre felt enn de som er åpne i medhold av [§ 5](forskrift/1995-07-13-642/§5) kan søke Fiskeridirektoratet om tillatelse til å undersøke om et felt er egnet for høsting jf. [§ 7](forskrift/1995-07-13-642/§7). Det påligger søker å dokumentere om feltet er egnet for høsting.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 5).
+
+## § 7. Tillatelse til forskning og undersøkelse
+
+Fiskeridirektoratet kan tillate høsting i andre områder enn de som er åpnet i medhold av forskriftens [§ 5](forskrift/1995-07-13-642/§5). Tillatelse kan kun gis til forskning eller undersøkelse av om et område er egnet for høsting. Slik tillatelse kan gis til en bestemt person, selskap eller institusjon.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 6).
+
+## § 8. Bestemmelser om høsteredskaper
+
+Fiskeridirektoratet kan gi bestemmelser om hvilke redskap som kan anvendes for høsting av tang og tare, samt regulere bruk av redskap.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 7).
+
+## § 9. Registreringsplikt
+
+Ingen kan drive høsting av tang og tare med trål eller annen mekanisk redskap uten å ha registrert sitt fartøy i Fiskeridirektoratets register over fartøy for tang- og tarehøsting.
+
+Ved utskiftning av fartøy skal det gis melding til Fiskeridirektoratet.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 8).
+
+## § 10. (Opphevet)
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 9), [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021), opphevet ved forskrift [31 okt 2022 nr. 1889](forskrift/2022-10-31-1889) (i kraft 1 nov 2022).
+
+## § 11. Rapportering av høstekvantum, kontroll mv.
+
+Det skal føres fangstdagbok når det høstes tang og tare. Fangstdagboken skal inneholde angivelse av dato, høstested og kvantum. Fiskeridirektoratet kan kreve fangstdagboken fremlagt.
+
+Det skal gis årlig rapport til Fiskeridirektoratet om høstekvantum for hvert høstefelt.
+
+Fiskeridirektoratet kan ved forskrift fastsette bestemmelser om rapportering av andre forhold av betydning for forvaltningen av tang- og tareressursen, samt fastsette nærmere regler om gjennomføringen etter første og annet ledd.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 10).
+
+## § 12. Fiske i høsteområdene
+
+Fiske skal kunne drives innenfor de felter som er åpnet for høsting av tang og tare i den utstrekning det ikke kommer til fortrengsel for tang- og tarehøsterne.
+
+Fiskeridirektoratet kan utferdige ytterligere bestemmelser, herunder gi pålegg av hensyn til sesongbetont fiske.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 11).
+
+## § 13. Tapte fiskeredskaper mv.
+
+Dersom fiskeredskaper skades som følge av høsting av tang og tare, eller dersom det under utøvelsen av høsting lokaliseres tapte fiskeredskaper, plikter høster å melde fra om dette til Fiskeridirektoratets regionkontor.
+
+> Tilføyd ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 14. Aktsomhetsplikt
+
+Taretråling skal utøves med nødvendig aktsomhet for å unngå skade på kulturminner.
+
+Ved funn av mulige kulturminner skal trålaktiviteten avbrytes.
+
+Høster plikter umiddelbart å gi melding til enten nærmeste politikammer, nærmeste sjøfartsmuseum (skipsfunn) eller fylkeskommunens kulturminnesektor (andre arkeologiske funn), samt Fiskeridirektoratet med angivelse av nøyaktig posisjon av funnet.
+
+Meldeplikt ved funn av kulturminner er lovfestet iht. [kulturminneloven § 8](lov/1978-06-09-50/§8) annet ledd, [§ 13](lov/1978-06-09-50/§13) andre ledd og [§ 14](lov/1978-06-09-50/§14) tredje ledd.
+
+> Tilføyd ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 15. Bemyndigelse
+
+Fiskeri- og kystdepartementet kan endre denne forskrift og fastsette nærmere bestemmelser som er nødvendige for å oppnå en rasjonell og hensiktsmessig utøvelse og gjennomføring av høstingen.
+
+> Tilføyd ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526).
+
+## § 16. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til § 4 i lov av [21. juni 1963 nr. 12](forskrift/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og i henhold til § 53 i [lov av 3. juni 1983 nr. 40](lov/1983-06-03-40/§53) om saltvannsfiske m.v.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 12).
+
+## § 17. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+> Endret ved [forskrift 26 nov 2004 nr. 1526](forskrift/2004-11-26-1526) (tidligere § 13).

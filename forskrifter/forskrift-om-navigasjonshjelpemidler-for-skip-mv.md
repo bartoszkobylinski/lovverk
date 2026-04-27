@@ -1,0 +1,350 @@
+---
+id: "sf-20140905-1157"
+slug: "forskrift-om-navigasjonshjelpemidler-for-skip-mv"
+type: "forskrift"
+ref_id: "forskrift/2014-09-05-1157"
+title: "Forskrift om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger"
+short_title: "Forskrift om navigasjonshjelpemidler for skip mv."
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2014-09-15"
+last_change_in_force: "2026-01-01"
+last_updated: "2022-07-05"
+xml_hash: "810f44b44de4f91a9c908e57d1fd63c2dbc1006220d3aadb74e5686a805824df"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+(1) Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller mer, inkludert fritidsfartøy med største lengde 24 meter eller merpassasjerskipflyttbare innretninger. Flyttbare innretninger uten egen framdrift skal følge [kapittel 5](forskrift/2014-09-05-1157/kap5) og [6](forskrift/2014-09-05-1157/kap6), [§ 2](forskrift/2014-09-05-1157/§2), [§ 5](forskrift/2014-09-05-1157/§5), [§ 6](forskrift/2014-09-05-1157/§6), [§ 9](forskrift/2014-09-05-1157/§9) og [§ 10](forskrift/2014-09-05-1157/§10)lektere.
+
+(2) Skip med sikkerhetssertifikat for hurtiggående fartøy skal følge [kapittel 2](forskrift/2014-09-05-1157/kap2), [3](forskrift/2014-09-05-1157/kap3), [5](forskrift/2014-09-05-1157/kap5) og [6](forskrift/2014-09-05-1157/kap6) og [§ 2](forskrift/2014-09-05-1157/§2) og [§ 22](forskrift/2014-09-05-1157/§22).
+
+> Endret ved forskrifter [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
+
+### § 2. Dokumentasjon
+
+Forskriftens krav til anlegg, utstyr, innretninger og lignende skal dokumenteres oppfylt ved tegninger. Tegningene skal være så detaljerte og tydelige at det på bakgrunn av tegningene er mulig å avgjøre om kravene er oppfylt.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Kapittel 2. Operasjonelle krav
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 3. Vedlikehold og reparasjon
+
+(1) Alle rimelige tiltak skal treffes for å holde navigasjonshjelpemidlene i funksjonsdyktig stand.
+
+(2) Feil ved navigasjonshjelpemidlene som oppstår underveis eller i havn der reparasjoner ikke kan finne sted, anses ikke å gjøre skipet eller den flyttbare innretningen sjøudyktig dersom skipsfører vurderer risikoen og iverksetter nødvendige tiltak for å opprettholde sikker navigering til en havn der reparasjoner kan utføres. Risikovurderingen og bestilling av reparasjon eller deler, skal dokumenteres.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 4. Samhandlingsplan for søk og redning
+
+Passasjerskip på internasjonal reise skal ha en plan for samhandling med søk- og redningstjenester. Planen skal utarbeides i samsvar med MSC.1/Circ.1079/Rev.1 om utarbeidelse av planer for samhandling mellom søk- og redningstjenester og passasjerskip, og inneholde krav til periodiske øvelser for å teste planens effektivitet.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 5. Internasjonal signalbok og IAMSAR-håndbok
+
+(1) En oppdatert papirutgave av volum III av IAMSAR-håndboken (International Aeronautical and Maritime Search and Rescue) skal finnes om bord.
+
+(2) Skip som har radioanlegg installert, skal ha om bord en oppdatert papirutgave av internasjonal signalbok (International Code of Signals).
+
+> Endret ved forskrifter [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
+
+### § 6. Signaler som skal brukes i nødssituasjoner
+
+(1) Skip i liten kystfart eller større fartsområde og flyttbare innretninger skal ha en oppdatert tabell over signaler som illustrert i den internasjonale signalboken (International Code of signals) lett tilgjengelig om bord. Signalene skal brukes i nødkommunikasjon med redningssentraler, sjøredningsenheter og luftfartøy som tar del i søk eller redningsoperasjoner.
+
+(2) Internasjonalt nødsignal skal bare brukes for å varsle om at noen er i nød.
+
+(3) Det er forbudt å bruke signaler som kan forveksles med et internasjonalt nødsignal i andre situasjoner enn nødssituasjoner.
+
+> Endret ved forskrifter [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
+
+### § 7. Daglig rapportering til rederiet
+
+Skip med bruttotonnasje 500 eller mer og flyttbare innretninger på internasjonal reise som varer lenger enn 48 timer, skal daglig rapportere til rederiet om posisjoner, kurs, hastighet og forhold som kan påvirke reisen eller er av betydning for sikker drift av skipet eller den flyttbare innretningen.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 8. Operasjonsbegrensninger for passasjerskip i utenriksfart
+
+Passasjerskip i utenriksfart skal ha en engelsk oppdatert liste over alle skipets begrensninger lett tilgjengelig om bord. Listen skal blant annet omfatte:dispensasjonerbegrensninger som gjelder operasjonsområdeværbegrensningerbølgebegrensningertillatte lastertrimhastighet.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 9. Ispatruljetjenesten
+
+Skip og flyttbare innretninger som i issesongen passerer gjennom farvann som overvåkes av ispatruljetjenesten, skal benytte seg av ispatruljetjenesten.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 10. Farevarsler
+
+(1) Skipsfører skal varsle fartøy i nærheten og relevante myndigheterom områder med farlig is, farlig vrakgods eller andre farer for navigeringenved tropisk stormved temperatur under 0 °C kombinert med kuling som kan føre til isingved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarselom observasjon av flytende transportcontainere i sjøenved tap av én eller flere transportcontainere. Dersom skipet forlates, eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
+
+(2) Varsler etter første ledd skal gis på engelsk eller i samsvar med den internasjonale signalhåndboken. Informasjonen i varselet skal være i samsvar med [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS)](traktat/1974-11-01-1) kapittel V regel 32, fastsatt ved resolusjon MSC.99(73), som endret ved resolusjon MSC.550 (108).
+
+> Endret ved forskrifter [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026), [17 des 2025 nr. 2671](forskrift/2025-12-17-2671) (i kraft 1 jan 2026).
+
+### § 11. Bruk av styremaskin
+
+Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to av kraftenhetene brukes i farvann som krever spesiell aktsomhet under navigeringen.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 12. Styremaskinen – prøving og øvelser
+
+(1) Styremaskinen skal kontrolleres og prøves av besetningen tidligst 12 timer før avgang. For skip som regelmessig brukes på reiser som ikke overstiger 1000 nautiske mil mellom avgangshavnen og den endelige ankomsthavnen, er det tilstrekkelig å kontrollere og prøve styremaskinen minst én gang i uken.
+
+(2) Styremaskinens funksjon prøves i samsvar med skipets prosedyre, og prosedyren skal omfattehovedstyremaskinenhjelpestyremaskinenestyreposisjoner som ikke er på broenstyreposisjonene på broennødkrafttilførselenrorindikatorene i forhold til rorets faktiske stillingalarm for svikt i krafttilførsel til fjernopererte kontrollsystemer for styremaskinenalarm for svikt i krafttilførsel til kraftenhetene i styremaskinenautomatiske isolasjonsarrangementer og annet automatisk utstyr.
+
+(3) Prøvingen etter annet ledd skal vise at roret har full bevegelse i samsvar med styremaskinens spesifikasjoner, og at kommunikasjonsutstyret mellom bro og styremaskinrom fungerer. I tillegg skal styremaskinens tilslutninger kontrolleres visuelt.
+
+(4) Nødstyringsøvelser skal gjennomføres minst hver tredje måned. Øvelsene skal omfatte direkte kontroll med roret fra styremaskinrommet og kommunikasjonsprosedyren med broen. Nødstyringsøvelsen skal omfatte operasjon av alternativ krafttilførsel hvis denne finnes.
+
+(5) En enkel betjeningsinstruks som viser de fjernopererte kontrollsystemenes omstillingsprosedyrer skal være slått opp på broen og i styremaskinrommet. Mannskap som bruker og vedlikeholder styremaskinene, skal kjenne til bruken og prosedyrene for omstilling fra ett system til et annet.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Kapittel 3. Broutforming og sikt fra broen
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 13. Broutforming
+
+(1) Det skal tas hensyn til SOLAS regel V/15 fastsatt ved resolusjon MSC.99(73), MSC/Circ.982 og SN.1/Circ.288 ved alle beslutninger som berører broutforming og arrangement av navigasjonssystemer og navigasjonsutstyr på broen.
+
+(2) Plasseringen og bruken av arbeidsstasjon for overvåking av fremdriftsmaskineri skal ikke forstyrre de primære funksjonene knyttet til brovaktholdet.
+
+> Endret ved forskrifter [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
+
+### § 14. Sikt fra broen
+
+(1) Skip og flyttbare innretninger bygget 1. juli 1998 eller senere skalfra kommandoposisjonen ha sikt til havoverflaten ikke hindret med mer enn to skipslengder og aldri mer enn 500 meter rett forover og til 10° på hver side, og ikke ha enkelte blindsektorer større enn 5° uavhengig av skipets dypgående, trim og dekkslastikke ha blindsektor større enn 10° som skyldes last, laste- og losseinnretninger eller andre gjenstander utenfor styrehuset forenfor tvers, og som begrenser sikten til havoverflaten fra kommandoposisjonen. Den totale buen av blindsektorer skal ikke være større enn 20°, og den uhindrede sektoren mellom to blindsektorer skal være minst 5°ha horisontal sikt fra kommandoposisjonen som utgjør en bue på minst 225°, det vil si fra rett forut til minst 22,5° aktenfor tvers på hver side av skipetha horisontal sikt fra hver broving som utgjør en bue på minst 225°, det vil si fra minst 45° på motsatt baug og gjennom rett forut, og så fra rett forut til rett akterut i 180° på samme side av skipetha horisontal sikt fra hovedstyreposisjonen som utgjør en bue fra rett forut til minst 60° på hver side av skipetha skipssiden synlig fra brovingenha den nedre kanten av frontvinduene på broen plassert så lavt over brodekket som mulig, og ikke i noe tilfelle slik at sikten forover blokkeresha overkanten av frontvinduene på broen slik at den tillater sikt forover mot horisonten for en person med øyehøyde på 1800 mm over brodekket ved kommandoposisjonen når skipet stamper i høy sjø, eller 1600 mm der det er konstruksjonsmessig upraktisk med 1800 mmha frontvinduene på broen vertikalt skråstilt med overkanten minst 10° og maksimalt 25° forenfor underkantenha minimale karmer mellom vinduene på broen. Karmene kan ikke være plassert rett foran en arbeidsstasjonikke ha polariserte og fargede vinduerha klar sikt fra minst to av frontvinduene på broen, og det skal avhengig av broutformingen i tillegg være et tilstrekkelig antall vinduer til å gi klar sikt til sidene.
+
+(2) Skip bygget før 1. juli 1998 skal oppfylle kravene i første ledd bokstav a og b, med mindre dette krever konstruksjonsendringer eller tilleggsutstyr.
+
+(3) Følgende skip og flyttbare innretninger som etter Sjøfartsdirektoratets vurdering ikke kan oppfylle kravene etter første ledd, skal ha arrangement som sikrer sikt fra broen som så nær opp til kravene som praktisk mulig:skip og flyttbare innretninger med ukonvensjonell utformingskip som utelukkende går i fartsområde 2 eller mindre fartsområdeskip med bruttotonnasje under 500 i innenriksfartskip med bruttotonnasje under 150.
+
+(4) Uavhengig av kravene i første ledd bokstav a, c, d og e kan ballastvannoperasjoner gjennomføres når skipsfører har vurdert at det er sikkert, og det tas hensyn til økte blindsektorer og redusert horisontal sikt for å sikre forsvarlig utkikk til enhver tid. Operasjonen skal gjennomføres i samsvar med ballastvannplanen til skipet eller den flyttbare innretningen.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Kapittel 4. Navigasjonshjelpemidler
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 15. Navigasjonshjelpemidler
+
+(1) Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) 1. juli 2002 eller senere, og flyttbare innretninger skal ha følgende navigasjonshjelpemidler om bord:*Bruttotonnasje**Passasjerskip**Lasteskip og flyttbare innretninger*Globalt navigasjonssatellittsystem (GNSS)AlleAlleAutomatisk identifikasjonssystem (AIS)AlleAlleBrovaktalarmAlleAlleKursindikator (THD) for skip og flyttbare innretninger som ikke har gyrokompassAlleAlleRadarreflektor< 150< 150Magnetkompass klasse B< 150< 150Standard magnetkompass klasse A som kan vise kursen ved hovedstyreposisjon≥ 150≥ 150Peileinnretning til magnetkompass≥ 150≥ 150Reserve magnetkompass klasse A eller gyrokompass≥ 150≥ 150Dagslyssignallampe i fartsområde 3 og større≥ 150≥ 150EkkoloddAlle≥ 3009 GHz (3 cm) radarAlle≥ 300Elektronisk plottehjelp (EPA), automatisk plottehjelp (ATA) eller automatisk radar plottehjelp (ARPA)< 500≥ 300, < 500Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannetAlle≥ 300Gyrokompass≥ 500≥ 500Peileinnretning til gyrokompass≥ 500≥ 500Indikatorer som kan leses fra kommandoposisjonen og som viser
+• rorvinkel
+• propellhastighet
+• fremdriftskraftens styrke og retning
+• styrke og retning på sideveis skyvekraft
+• stigning
+• driftsmodus≥ 500≥ 500ATA eller ARPA≥ 500, < 3000≥ 500, < 30003 GHz (10 cm) radar≥ 3000≥ 3000To uavhengige hjelpemidler med ATA eller ARPA. På skip med bruttotonnasje 10 000 eller mer og flyttbare innretninger skal ett av disse være ARPA≥ 3000≥ 3000Kurskontrollsystem eller rutekontrollsystem (selvstyreanlegg)≥ 10 000≥ 10 000Svinghastighetsindikator som kan leses fra kommandoposisjonen≥ 50 000≥ 50 000Måleutstyr for hastighet og distanse som skal vise langskips og tverrskips hastighet og distanse over grunnen≥ 50 000≥ 50 000
+
+(2) Dersom skipet har nødstyreposisjon, skal det være kommunikasjonsutstyr som kan formidle kursinformasjon til nødstyreposisjonen.
+
+(3) Skip med bruttotonnasje 500 eller mer og flyttbare innretninger skal være utstyrt slik at en feil på ett navigasjonshjelpemiddel i § 15 eller § 16 ikke skal redusere skipets eller den flyttbare innretningens evne til å oppfylle kravene om magnetkompass, peileinnretninger, oppdaterte offisielle sjøkart og nautiske publikasjoner.
+
+(4) Navigasjonshjelpemidler og systemer med flere alternative operasjonsmoduser skal vise den til enhver tid gjeldende operasjonsmodusen.
+
+(5) Skip bygget før 1. juli 2002 som ikke oppfyller første ledd fullt ut, skal i stedet for første ledd oppfylle kravene i vedlegg I.
+
+(6) Kravet om brovaktalarm gjelder ikke for følgende skip i fartsområde 4 eller mindre fartsområder eller skip med bruttotonnasje under 500 i liten kystfart:passasjerskip som går i fast rute og der overfartstiden ikke overstiger 12 minutterpassasjerskip med kontinuerlig brovakt bestående av minst to personerskip med passasjersertifikat som fører 12 eller færre passasjerer, og som ikke er hurtiggående fartøy.
+
+(7) Kravet om peileinnretning til gyrokompass gjelder ikke skip i fartsområde 4 eller mindre fartsområder. For skip med bruttotonnasje under 1600 gjelder kravet bare så langt det er praktisk gjennomførbart.
+
+(8) Lektere med bruttotonnasje under 150 skal ha radarreflektor eller radarrefleksjonsevne som gjør det mulig for andre skip som bruker radar å oppdage lekteren på 9- og 3-GHz radar.
+
+(9) Passasjerskip med bruttotonnasje 500 eller mer i liten kystfart som har brukt unntaket i § 18 femte ledd slik det lød frem til 1. juli 2022, og lasteskip med bruttotonnasje under 150 skal oppfylle kravet om brovaktalarm ikke senere enn 1. juli 2023.
+
+(10) Passasjerskip i innenriksfart med bruttotonnasje under 300, hurtiggående passasjerfartøy med bruttotonnasje under 150 og lasteskip med bruttotonnasje under 300 skal oppfylle kravet om AIS ikke senere enn 1. juli 2023.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 15a. Elektronisk inklinometer eller tilsvarende utstyr
+
+Containerskip og bulkskip, som definert i SOLAS regel V/2.8 og regel V/2.9, med bruttotonnasje 3000 eller mer som er bygget 1. januar 2026 eller senere, skal være utstyrt med elektronisk inklinometer eller annet utstyr som gjør det mulig å bestemme, vise og registrere skipets rullebevegelse.
+
+> Tilføyd ved forskrift [17 des 2025 nr. 2671](forskrift/2025-12-17-2671) (i kraft 1 jan 2026).
+
+### § 16. Sjøkart, nautiske publikasjoner og ECDIS
+
+(1) Alle skip og flyttbare innretninger skal ha oppdaterte offisielle sjøkart og nautiske publikasjoner for den planlagte reisen om bord, slik at posisjonene kan plottes og overvåkes under hele reisen. Elektronisk visnings- og informasjonssystem for sjøkart (ECDIS) med reservesystem kan benyttes for å oppfylle kravet om oppdaterte offisielle sjøkart. De nautiske publikasjonene i første punktum kan være digitale, jf. SLS.14/Circ.213.
+
+(2) ECDIS med reservesystem skal installeres på følgende skip og flyttbare innretninger i utenriksfart:passasjerskip med bruttotonnasje 500 eller mertankskip med bruttotonnasje 3000 eller merlasteskip, som ikke er tankskip, med bruttotonnasje 10 000 eller merlasteskip, som ikke er tankskip, og flyttbare innretninger med bruttotonnasje 3000 til 10 000 bygget 1. juli 2014 eller senereflyttbare innretninger med bruttotonnasje 10 000 eller mer.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 17. Magnetkompass
+
+(1) Magnetkompass og peileinnretning skal være uavhengig av enhver kraftforsyning.
+
+(2) Magnetkompass klasse A skal være riktig justert. Det skal utarbeides en deviasjonstabell eller kurver til å rette kompasskurser og peilinger.
+
+(3) Det skal være mulig å ta peilinger horisonten rundt. For skip bygget før 1. juli 2002 gjelder kravet så langt det er praktisk mulig.
+
+(4) I stedet for å oppfylle kravene om standard magnetkompass og reservekompass, kan skipet og den flyttbare innretningen være utrustet med to gyrokompass. Begge gyrokompassene skal kunne vise kursinformasjon ved hovedstyreposisjonen. Hvert gyrokompass skal være uavhengig tilkoblet hoved- og nødkraftkilden og ha hver sin individuelle nødkraftkilde (UPS) med minimum 30 minutter kapasitet. Skip som oppfyller denne bestemmelsen, oppfyller kravet om gyrokompass i [§ 15](forskrift/2014-09-05-1157/§15).
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 18. Gyrokompass
+
+(1) Gyrokompasset skal være tydelig lesbart fra hovedstyreposisjonen.
+
+(2) Gyrokompasset på skip bygget 1. februar 1992 eller senere og flyttbare innretninger skal være tydelig lesbart fra nødstyreposisjonen.
+
+(3) Gyrokompass på skip og flyttbare innretninger bygget 1. juli 2002 eller senere skal kunne overføre kursinformasjon til radar, AIS og ATA.
+
+(4) Det skal være mulig å bruke peileinnretning til å peile horisonten rundt ved å bruke gyrokompasset. For skip bygget før 1. juli 2002 gjelder kravet så langt det er praktisk mulig.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 19. Brovaktalarm
+
+Brovaktalarmen skal være aktivert når skipet og den flyttbare innretningen er underveis.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 20. Automatisk identifikasjonssystem (AIS)
+
+(1) AIS skal være i drift til enhver tid, unntatt der internasjonale avtaler, regler eller standarder åpner for beskyttelse av navigasjonsopplysninger.
+
+(2) AIS skal testes i forbindelse med det årlige radiotilsynet. Testen skal verifisere programmering av skipets statiske informasjon, korrekt datautveksling med tilkoblede sensorer og radioytelsen ved frekvensmåling og testing på luften (eksempelvis ved bruk av VTS). Det skal være ett eksemplar av testrapporten om bord.
+
+> Endret ved forskrifter [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 21. Ferdsskriver (VDR)
+
+(1) Følgende skip og flyttbare innretninger skal ha ferdsskriver (VDR):passasjerskip i utenriksfartpassasjerskip i innenriksfart i klasse Ahurtiggående passasjerfartøy med bruttotonnasje 150 eller merlasteskip med bruttotonnasje 3000 eller mer og flyttbare innretninger.
+
+(2) Lasteskip med bruttotonnasje 3000 eller mer bygget før 1. juli 2002 kan i stedet ha S-VDR.
+
+(3) Ferdsskriveren skal årlig funksjonsprøves av en test- eller serviceinstans autorisert av produsenten eller leverandøren for å verifisere nøyaktighet, opptakstid og avlesning av registrerte data.
+
+(4) Test- eller serviceinstansen skal årlig gjennomføre prøver for å vurdere tilgjengeligheten av vernekapsel og alle anordninger som er montert for å lette lokaliseringen.
+
+(5) Test- eller serviceinstansens samsvarssertifikat skal angi når funksjonsprøven i tredje ledd ble utført, og hvilke funksjonsstandarder som ble brukt. En kopi av sertifikatet skal oppbevares om bord.
+
+(6) Sjøfartsdirektoratet kan etter søknad fra rederiet gi skip, unntatt ro-ro passasjerskip, bygget før 1. juli 2002 dispensasjon fra første ledd hvis det er urimelig eller upraktisk å installere VDR på grunn av eksisterende utstyr.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 22. Globalt system for identifisering og sporing av fartøy (LRIT)
+
+(1) Informasjon om identitet og posisjon (lengde- og breddegrad) samt dato og tid for gitt posisjon skal sendes automatisk i LRIT-systemet for:passasjerskip i utenriksfartlasteskip med bruttotonnasje 300 eller mer i utenriksfartflyttbare innretninger.
+
+(2) Kravet i første ledd gjelder ikke skip og flyttbare innretninger utstyrt med AIS som utelukkende opererer i radiodekningsområde A1.
+
+(3) System og utstyr som benyttes for å møte LRIT-kravene, skal kunne slås av om bord eller være i stand til å avbryte sending av LRIT-informasjon nårinternasjonale avtaler har bestemmelser om beskyttelse av navigasjonsopplysninger, ellerskipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.
+
+(4) Dersom sending av LRIT-informasjon avbrytes i samsvar med tredje ledd bokstav b, skal skipsføreren informere Sjøfartsdirektoratet.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 23. Integrerte navigasjons- og brosystemer
+
+(1) Integrerte brosystemer på skip og flyttbare innretninger skal være bygget opp slik at svikt i et delsystem umiddelbart gjøres kjent for vakthavende navigatør ved lyd- eller lysalarm og ikke forårsaker svikt i et annet delsystem.
+
+(2) Ved svikt i en del av et integrert navigasjonssystem skal det være mulig å betjene hver utstyrsdel eller hvert delsystem for seg.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Kapittel 5. Atkomstmidler for los
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 24. Atkomstmidler for los
+
+(1) Skip som med sannsynlighet skal bruke los, skal ha utstyr og arrangementer for at losen trygt kan entre og forlate skipet på begge sider. Ved gjennomføringen av [§ 24](forskrift/2014-09-05-1157/§24) til [§ 27](forskrift/2014-09-05-1157/§27) skal det tas hensyn til innholdet i IMO-resolusjon A.1045(27).
+
+(2) Porter i skipssiden som brukes til atkomst for losen, skal ikke åpne utover.
+
+(3) Losheis skal ikke brukes.
+
+> Endret ved forskrifter [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
+
+### § 25. Entringskrav
+
+(1) Når skipet entres 1,5 til 9 meter over vannflaten, skal det være sikker atkomst til en losleider som er plassert og sikret slik atlosleideren går klar av ethvert utslipp fra skipetlosleideren er innenfor utstrekningen av skipets parallelle sider og så langt det er mulig innenfor skipets halve lengde midtskipshvert trinn på losleideren hviler fast mot skipssiden. Hvis skipets konstruksjon hindrer trinnene på losleideren i å hvile fast mot skipssiden, skal andre anordninger sikre at losen trygt kan entre og forlate skipeten enkelt leiderlengde når vannflaten fra det sted losen entrer og forlater skipet også med en ugunstig slagside på 15°, og uansett skipets laste- og trimforholdfestepunktene, sjaklene og sikringstauene er minst like sterke som holdetauene.
+
+(2) Når skipet entres mer enn 9 meter over vannflaten, skal atkomsten sikres med losleider i kombinasjon med fallrep som skalplasseres slik at det vender akterover og går klar av alle utslippbrukes slik at den nedre enden av fallrepet sikres inntil skipssiden innenfor utstrekningen av skipets parallelle sider, og så langt det er mulig hviler innenfor skipets halve lengde midtskipsbrukes slik at losleider og fallrepstau sikres til skipets side 1,5 meter over bunnplattformen av fallrepet.
+
+(3) Brukes det et kombinasjonsarrangement med inngang i nedre plattform av fallrepet, skal losleider og fallrepstau settes opp fra inngangen til plattform og forlenges til over høyden på rekkverket.
+
+(4) Skal losen entre og forlate skipet ved hjelp av fallrep i kombinasjon med losleider, skal slikt utstyr finnes på hver side av skipet hvis ikke det er mulig å flytte og bruke utstyret på begge sider.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 26. Forholdsregler for atkomst til skipets dekk
+
+(1) Atkomstmidlene for losen skal klargjøres under tilsyn av en ansvarlig offiser, som skal ha mulighet til å kommunisere med broen.
+
+(2) Offiseren skal sørge for at losen ledsages langs en trygg rute til og fra broen.
+
+(3) Personell som er involvert i rigging og bruk av atkomstmidlene, skal instrueres i sikker operasjon.
+
+(4) Utstyret skal testes før bruk.
+
+(5) Det skal sikres trygg, praktisk og uhindret passasje for enhver som går om bord eller fra borde mellom toppen av losleideren eller toppen av fallrepet eller en hvilken som helst annen innretning og skipets dekk. Når slik passasje eren port i rekken eller skansekledningen, skal det være forsvarlig håndtak på begge sider av åpningenen rekketrapp, skal det finnes to rekkestøtter som er fast sikret til skipets konstruksjon ved eller nær nederste ende og høyere oppe. Rekketrappen skal være forsvarlig festet til skipet for å hindre at den tipper.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 27. Utstyr og belysning
+
+(1) Følgende utstyr skal være tilgjengelig for umiddelbar bruk:to håndtau med diameter på 28 mm til 32 mm sikret til skipetfallrep festet til ringplaten på dekket når losen ankommer og forlater skipet, og når losen anmoder om detteen livbøye utstyrt med selvtennende lysen hiveline.
+
+(2) Atkomstmidlene og stedet på dekket der en person entrer og forlater skipet, skal lyses tilstrekkelig opp.
+
+(3) Atkomstmidlene skalvedlikeholdes og holdes renevære forsvarlig stuetinspiseres regelmessigkun brukes til å entre og forlate skipet.
+
+(4) Datoen da losleideren ble tatt i bruk første gang, og reparasjonsdatoer skal registreres i vedlikeholdssystemet.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Kapittel 6. Avsluttende bestemmelser
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 28. Dispensasjon
+
+(1) Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften, når det dokumenteres at løsningene er likeverdige med forskriftens krav.
+
+(2) Sjøfartsdirektoratet kan etter skriftlig søknad fra rederiet gi dispensasjon fra krav i forskriften når det ikke strider mot krav i direktiv [2002/59/EF](eu/32002l0059) vedlegg II, ogdet dokumenteres at kravet ikke er vesentlig, og at unntaket vurderes sikkerhetsmessig forsvarlig, ellerdet dokumenteres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+(3) Sjøfartsdirektoratet kan unnta et skip som drives fram ved hjelp av seil, selv om det er utstyrt med mekanisk framdrift til bruk som hjelpekraft og i nødssituasjoner (seilskip) og lektere fra kravene i § 7, § 11, § 12, § 13, § 14, § 15 (unntatt kravet om radarreflektor), § 16, § 17, § 18, § 19, § 20, § 21 og § 23.
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+### § 29. Ikrafttredelse
+
+Forskriften trer i kraft 15. september 2014. Fra samme tid oppheves [forskrift 15. september 1992 nr. 701 om navigasjonshjelpemidler og bro-, styrehus- og radioarrangementer for skip](forskrift/1992-09-15-701).
+
+> Endret ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Vedlegg I
+
+1. Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) før 1. juli 2002, og som ikke oppfyller forskriftens [§ 15](forskrift/2014-09-05-1157/§15) første ledd fullt ut, skal ha følgende navigasjonshjelpemidler om bord:*Bruttotonnasje*Globalt navigasjonssatellittsystem (GNSS)AlleAutomatisk identifikasjonssystem (AIS)AlleBrovaktalarmAlleKursindikator (THD), med mindre skipet har gyrokompass som kan overføre kursinformasjon til AISAlleMagnetkompass klasse B< 150Standard magnetkompass klasse A≥ 150Styremagnetkompass klasse A som kan vise kursen ved hovedstyreposisjonen, med mindre standard magnetkompass oppfyller dette.≥ 150Peileinnretning til magnetkompass≥ 150Reservemagnetkompass klasse A med mindre skipet har styremagnetkompass eller gyrokompass≥ 150Dagslyssignallampe unntatt fartsområde 2 eller mindre≥ 150Ekkolodd– skip bygget 25. mai 1980 eller senere i utenriksfart≥ 500– skip bygget før 25. mai 1980 i utenriksfart≥ 1 6009 GHz (3 cm) radar– passasjerskip på internasjonal reiseAlle– skip som ikke er passasjerskip på internasjonal reise≥ 300– skip bygget 1. september 1984 eller senere som ikke er på internasjonal reise≥ 500– skip bygget før 1. september 1984 som ikke er på internasjonal reise≥ 1600Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannet– skip bygget 1. september 1984 eller senere i utenriksfart≥ 500– skip som er utstyrt med ARPAAlleGyrokompass– skip bygget 1. september 1984 eller senere≥ 500– skip bygget før 1. september 1984 på internasjonal reise≥ 1600Peileinnretning til gyrokompass≥ 1600Indikatorer som kan leses fra kommandoposisjonen, og som viser rorvinkel, propellhastighet, fremdriftskraftens styrke og retning, styrke og retning på sideveis skyvekraft, stigning og driftsmodus– skip bygget 1. september 1984 eller senere≥ 500– skip bygget før 1. september 1984≥ 1600Ekstra radar i tillegg til 9 GHz (3 cm) radar≥ 10 000Automatisk radarplotteanlegg (ARPA)– skip bygget 1. september 1984 eller senere≥ 10 000– tankskip bygget før 1. september 1984≥ 10 000– skip som ikke er tankskip bygget før 1. september 1984≥ 15 000Svinghastighetsindikator som kan leses fra kommandoposisjonen– skip bygget 1. september 1984 eller senere≥ 100 000
+
+2. Navigasjonshjelpemidlene i nr. 1 skal oppfylle ytelseskravene som gjaldt på tidspunktet de ble plassert om bord. Når navigasjonshjelpemidler byttes ut, gjelder [forskrift 30. august 2016 nr. 1042 om skipsutstyr](forskrift/2016-08-30-1042).
+
+> Endret ved [forskrifter 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
+
+## Vedlegg II *(Opphevet)*
+
+> Tilføyd ved forskrift [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022), opphevet ved forskrift [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).

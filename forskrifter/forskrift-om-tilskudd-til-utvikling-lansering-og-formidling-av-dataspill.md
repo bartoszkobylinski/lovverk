@@ -1,0 +1,440 @@
+---
+id: "sf-20210223-0557"
+slug: "forskrift-om-tilskudd-til-utvikling-lansering-og-formidling-av-dataspill"
+type: "forskrift"
+ref_id: "forskrift/2021-02-23-557"
+title: "Forskrift om tilskudd til utvikling, lansering og formidling av dataspill"
+short_title: "Forskrift om tilskudd til utvikling, lansering og formidling av dataspill"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "2021-03-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-11-19"
+xml_hash: "36e7aa40596fe4e11ddbf6da1cdae2b51fe12e9fea8021428e2c2575c0a56885"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til utvikling, lansering og formidling av dataspill
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Formål
+
+Denne forskriften skal bidra til å oppfylle formål i [forskrift om tilskudd til produksjon og formidling av audiovisuelle verk](forskrift/2016-10-07-1196) og gjeldende politiske mål på dataspillområdet.
+
+Tilskudd etter denne forskriften skal primært stimulere den delen av dataspillbransjen som utvikler og formidler dataspill med kulturelt og kunstnerisk innhold.
+
+### § 1-2. Virkeområde
+
+Denne forskriften angir regler for tildeling av tilskudd over Kulturdepartementets budsjett.
+
+Tilskudd gitt i henhold til denne forskriften kan gå tilutvikling og lansering av egenproduserte dataspillfaglig utvikling av fagpersoner i dataspillbransjenfellestiltak for dataspillbransjenformidlingstiltak for dataspillkompetansehevende tiltak for formidlere av dataspill.
+
+Det kan ikke gis utviklings- og lanseringstilskudd til dataspillprosjekter som primært markedsfører kommersielle produkter. Det kan heller ikke gis tilskudd til prosjekter som gjelder opplæringsprodukter, pedagogiske verktøy, oppslagsverk eller manualer.
+
+### § 1-3. Tilskuddsforvalter
+
+Tilskuddsforvaltere er Norsk filminstitutt, regionale filmfond eller regionale filmsentre.
+
+Forskriften forvaltes av Norsk filminstitutt. Tilskuddsforvalter kan fastsette det nærmere innholdet av bestemmelsene i denne forskriften i veiledere.
+
+### § 1-4. EØS-avtalens regler om offentlig støtte
+
+Tilskudd etter denne forskriften skal være forenlig med [EØS-avtalen artikkel 61](lov/1992-11-27-109/eøsl/a61).
+
+Tilskudd skal ikke tildeles foretak i økonomiske vanskeligheter eller som ikke har etterkommet et påbud om tilbakebetaling av tilskudd som EFTAs overvåkingsorgan eller EU-Kommisjonen har erklært ulovlig og uforenelig med det indre markedet.
+
+### § 1-5. Definisjoner
+
+I denne forskriften betyr*dataspill:* en digital, fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder som drives av brukermedvirkning, og som er produsert for offentlig visning eller omsetning.*offentlig tilskudd:* tilskudd som faller inn under [EØS-avtalen artikkel 61](lov/1992-11-27-109/eøsl/a61) (1), herunder tilskudd fra stat, kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.*kulturprodukt:* et dataspill som oppfyller minst tre av følgende kriterierDesigndokumentet eller litterært forelegg er originalskrevet på norsk eller samisk.Dataspillet er på norsk eller samisk språk.Prosjektet fokuserer på norsk eller samisk språk, kultur og historie, eller tematikk som har relevans for en norsk målgruppe.Dataspillet har et vesentlig bidrag fra opphavere eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.*smalt audiovisuelt verk:* et dataspill som oppfyller minst ett av følgende kriterier:Dataspillet har Norge som primærmarked.Dataspillet inneholder mer enn 50 prosent norsk eller samisk dialog.Dataspillet er av tydelig kunstnerisk karakter.Dataspillet bruker et eksperimentelt eller innovativt fortellerspråk.Dataspillet fokuserer på norsk kultur eller historie.Dataspillet er et originalverk rettet mot barn eller unge.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+## Kapittel 2. Felles bestemmelser
+
+### § 2-1. Krav til søknaden
+
+Søknaden skal være på norsk og sendes på elektronisk søknadsskjema der dette foreligger. Tilskuddsforvalter kan gjøre unntak for språkkravet på hele eller deler av søknaden.
+
+Tilskuddsforvalter kan stille ytterligere krav til søknaden.
+
+### § 2-2. Søknadsfrister
+
+Tilskuddsforvalter kan fastsette søknadsfrister. Søker må levere fullstendig søknad innen fristen.
+
+Søker må levere fullstendig søknad før oppstart av den aktuelle prosjektfasen eller før tiltaket iverksettes.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-3. Opplysningsplikt
+
+Søker har plikt til å gi tilskuddsforvalter alle opplysninger som er nødvendige for å behandle søknaden. Søker skal av eget tiltak innhente dokumenter eller opplysninger fra tredjeparter dersom det er nødvendig.
+
+Mottaker av tilskudd har plikt til å holde tilskuddsforvalter løpende orientert om endrede forhold som kan være av betydning for tilskuddsforvalters vurdering av om forutsetningene for tilskuddet fremdeles er oppfylt. Tilskuddsmottaker skal av eget tiltak innhente dokumenter eller opplysninger fra tredjeparter dersom det er nødvendig.
+
+Tilskuddsmottaker plikter blant annet å opplyse tilskuddsforvalter omall offentlig støtte prosjektet mottarplanlagt overføring av rettigheter i prosjektet til tredjepartplanlagt fusjon eller fisjon av selskap som er mottaker av tilskuddat tilskuddsmottaker tas under konkursbehandlingvesentlige endringer i prosjektet som beskrevet i [§ 2-4](forskrift/2021-02-23-557/§2-4).
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-4. Vesentlige endringer i prosjektet skal godkjennes av tilskuddsforvalter
+
+Tilskuddsmottaker kan ikke foreta vesentlige endringer i prosjektet uten at dette er skriftlig godkjent av tilskuddsforvalter.
+
+Vesentlige endringer vil blant annet være endring av besetning av nøkkelfunksjoner, innholdsmessige endringer i tiltaket eller i dataspillet i forhold til godkjent designdokument, endret finansiering eller budsjett eller andre brudd på forutsetninger i tilskuddsbrevet.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-5. Tilskuddsmottakers står ansvarlig overfor tilskuddsforvalter
+
+Tilskuddsmottaker skal kunne stå ansvarlig overfor tilskuddsforvalter.
+
+Tilskuddsmottaker kan ikke la andre foretak gjennomføre prosjektet i deres sted. Tilskuddsmottaker kan heller ikke benytte seg av underleverandører dersom det umuliggjør tilskuddsforvalters kontrollmuligheter som beskrevet i [kapittel 6](forskrift/2021-02-23-557/kap6).
+
+Dersom en tilskuddsmottaker oppretter et datterselskap som har som eneste formål å gjennomføre prosjektet det er gitt tilskudd til, og datterselskapet registreres som tilskuddsmottaker, vil morselskapet kunne holdes solidarisk ansvarlig for forpliktelser overfor tilskuddsforvalter.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-6. Aksept av forutsetning og vilkår for tilskudd
+
+Ved anmodning om utbetaling av tilskudd har tilskuddsmottaker akseptert de forutsetninger for tilskudd og krav til bruken av tilskuddet som framgår av tilskuddsbrevet og denne forskriften.
+
+Tilskuddsforvalter kan sette absolutte frister for aksept. Dersom tilskuddsmottaker ikke aksepterer innen fastsatt frist, faller tilskuddet bort.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-7. Offentlighet og kommunikasjon
+
+Tilskuddsforvalter kan offentliggjøre tilskuddsmottaker, prosjekttittel, tilskuddets størrelse og gi et beskrivende sammendrag av prosjektet ved tildeling av tilskudd.
+
+Tilskuddsforvalter kan også offentliggjøre søknadslister.
+
+### § 2-8. Endringer i regelverk
+
+Tilskuddsmottaker skal holde seg orientert om endringer i regelverk som er av betydning for prosjektet. Tilskuddsmottaker er forpliktet til å overholde det til enhver tid gjeldende lovverket som gjelder for prosjektet.
+
+Tilskuddsforvalter kan endre reglene for regnskapsrapportering, og tilskuddsmottaker må tilpasse seg endringene fortløpende. Slike endringer skal varsles minst fire uker før de trer i kraft.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 2-9. Godkjente kostnader
+
+Kun kostnader som er relevante og direkte knyttet til gjennomføring av tiltaket godkjennes som grunnlag for utmåling av tilskudd. Kostnadene må kunne dokumenteres og dokumentasjonen må være tydelig, spesifikk og oppdatert.
+
+Tilskuddsmottaker skal ved kjøp og leie av utstyr velge det alternativet som er rimeligst og mest hensiktsmessig. Vederlag for ytelser og leie av utstyr skal ikke overstige markedspris.
+
+Tilskuddsforvalter kan fastsette satser for fakturering av interne kostnader.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+## Kapittel 3. Tilskudd til utvikling og lansering av dataspill
+
+### § 3-1. Virkeområde
+
+Dette kapittelet gjelder tilskudd til utvikling og lansering av dataspill. Det kan gis tilskudd til utvikling av dataspill fra idéstadiet og frem til ferdigstilling. Tilskudd til lansering kan gis til lansering i Norge og lansering i utlandet.
+
+### § 3-2. Krav til søker
+
+Søker skal være et produksjonsforetak som er etablert i Norge eller i et annet EØS-land og som har audiovisuell produksjon som formål. Foretaket skal være registrert i det norske enhets- eller foretaksregisteret.
+
+Søker skal dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og være ansvarlig for prosjektets regnskap. Nøkkelmedarbeiderne i prosjektet skal samlet ha tilstrekkelig profesjonell erfaring til å gjennomføre prosjektet. I vurderingen skal det legges vekt på prosjektets størrelse, kompleksitet og budsjett.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 3-3. Krav om nødvendige rettigheter i prosjektet
+
+Søker skal dokumentere å ha inngått avtaler med rettighetshavere etter [åndsverkloven](lov/2018-06-15-40) som sikrer at søker besitter eller kan erverve alle nødvendige rettigheter for å realisere dataspillet, og at søker kan inngå avtaler om salg og distribusjon av det ferdige dataspillet.
+
+Tilskuddsmottaker skal besitte og alene ha den nødvendige rett til å råde over slike rettigheter når tilbud om tilskudd aksepteres.
+
+Tilskuddsmottaker kan inngå avtaler som gir tredjepart utnyttelsesrett (lisens) til salg og distribusjon av dataspillet forutsatt at avtalene er tidsavgrensede, men kan ikke overdra eierskap til immaterielle rettigheter til eller i dataspillet.
+
+Det er en forutsetning for å motta tilskudd at alle rettighetsforhold er fullt opplyste.
+
+For minoritetsprodusenter kreves det kun eierandel i dataspillet.
+
+### § 3-4. Overføring av rettigheter i prosjektet til tredjepart
+
+Dersom tilskuddsmottaker overfører de nødvendige rettighetene til prosjektet til et annet foretak, er dette i strid med forutsetningene for tilskuddet, jf. [§ 3-3](forskrift/2021-02-23-557/§3-3).
+
+Tilskuddsforvalter kan tildele ny rettighetshaver tilskudd til fullføring av prosjektet. Det er en forutsetning at ny tilskuddsmottaker oppfyller vilkårene i forskriften, og at det er i tråd med formålet med tilskuddsordningen.
+
+Tilskuddsmottaker kan ikke overdra tilskudd gitt i henhold til denne forskriften.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 3-5. Søknaden må gjelde et kulturprodukt
+
+Søknaden må gjelde et kulturprodukt.
+
+For samproduksjoner med norske minoritetsprodusenter er det tilstrekkelig at prosjektet er definert som kulturprodukt i hovedprodusentens opphavsland. For søkere med hovedprodusent fra land uten kompetent myndighet til slik godkjenning, vil tilskuddsforvalter gjøre en vurdering av hvorvidt prosjektet er et kulturprodukt.
+
+### § 3-6. Teksting og universell utforming
+
+Dataspill som mottar tilskudd etter dette kapittel skal gjøres tilgjengelig med tekst på norsk eller samisk i Norge. Tilskuddsforvalter kan i særlige tilfeller gjøre unntak fra kravet om teksting.
+
+Tilskuddsforvalter kan kreve universell utforming av dataspill som mottar tilskudd etter dette kapittelet.
+
+> Endret ved forskrift [8 des 2025 nr. 2440](forskrift/2025-12-08-2440) (i kraft 1 jan 2026).
+
+### § 3-7. Ikke-kommersielle rettigheter
+
+Tilskuddsforvalter har rett til ikke-kommersiell bruk og profilering av dataspill som har mottatt tilskudd etter dette kapittelet på festivaler og kulturelle arrangementer, samt på nettsider, i kataloger og i andre publikasjoner.
+
+Tilskuddsforvalter skal på forhånd klarere med tilskuddsmottaker at bruk og profilering etter første ledd ikke kommer i konflikt med dataspillets kommersielle interesser.
+
+Tilskuddsforvalter har rett til få overlevert materiale fra tilskuddsmottaker til ikke-kommersiell distribusjon og profilering i Norge og utlandet i henhold til denne bestemmelse.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 3-8. Prioritering
+
+Med mindre annet følger av denne forskriften, skal tilskuddsforvalter i sin vurdering av og prioritering mellom søknader om tilskudd utvikling eller lansering etter dette kapittelet vektlegge:prosjektets kunstneriske kvaliteter og markedspotensial.søkers profesjonalitet og gjennomføringsevne.at tilskuddsmidlene som et hele skal bidra tildataspill på norsk (bokmål og/eller nynorsk) eller samisk til barn og unge.kjønnsbalanse og inkludering, diversitet og representativitet i produksjons-, innholds- og publikumsleddet.prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter.prosjekter som kan bidra til utvikling av talentfulle fagarbeidere i dataspillbransjen.å bygge opp under formålet med tilskuddet.
+
+Regionale filmsentre og filmfond kan i sin prioritering i tillegg vektlegge prosjektets regionale tilknytning.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 3-9. Tilskudd til utvikling av dataspill etter kunstnerisk vurdering
+
+Tilskuddsforvalter kan gi tilskudd til utvikling av dataspill med høy kunstnerisk og produksjonsmessig kvalitet. Utviklingstilskudd kan gis til dataspill i alle sjangre og for alle målgrupper.
+
+Utviklingstilskudd kan gis til alle deler av utviklingsløpet, fra tidlig utvikling til ferdigstilling av dataspillet. Tilskuddet kan gis som ett eller flere tilskudd og knytte seg til bestemte deler av utviklingsløpet.
+
+> Endret ved forskrift [8 des 2025 nr. 2440](forskrift/2025-12-08-2440) (i kraft 1 jan 2026).
+
+### § 3-9a. Tilskudd til utvikling av dataspill etter markedsvurdering
+
+Tilskudd etter denne bestemmelsen skal bidra til at det utvikles dataspill med høy kunstnerisk og produksjonsmessig kvalitet, at produsentene av disse spillene får en styrket forhandlingsposisjon i ferdigstillelsen av spillene, og at dataspillene får høy gjennomslagskraft.
+
+Tilskuddsforvalter kan gi tilskudd til ferdigstilling av dataspill som allerede har mottatt tilskudd etter [§ 3-9](forskrift/2021-02-23-557/§3-9). Tilskuddet etter [§ 3-9](forskrift/2021-02-23-557/§3-9) må være mottatt senest to år før søknadstidspunktet.
+
+Det er en forutsetning for tilskudd at det ikke er gjort vesentlige endringer i prosjektet siden det mottok tilskudd etter [§ 3-9](forskrift/2021-02-23-557/§3-9).
+
+Utviklingen av spillet skal ha nådd minimum pre alpha-nivå og en spillbar versjon av spillet skal foreligge i søknaden.
+
+Søker må på søknadstidspunktet ha inngått en avtale med en ekstern utgiver om finansiering fram til ferdigstilling og markedsføring av spillet. Søker kan ikke ha eierskap i utgiverselskapet.
+
+Tilskuddsforvalter kan spesifisere nærmere krav til avtalen og innholdet i pre-alpha-versjonen i tilskuddsordningens retningslinjer.
+
+> Tilføyd ved forskrift [8 des 2025 nr. 2440](forskrift/2025-12-08-2440) (i kraft 1 jan 2026).
+
+### § 3-10. Tilskudd til utvikling til samproduksjoner med utenlandsk hovedprodusent
+
+Tilskuddsforvalter kan gi tilskudd til utvikling av dataspill i samproduksjon med utenlandsk hovedprodusent. Tilskudd etter denne bestemmelsen skal gis til utvikling av dataspill med høy kunstnerisk og produksjonsmessig kvalitet som stimulerer til profesjonalisering av norsk bransje gjennom internasjonalt samarbeid.
+
+I vurderingen av og prioriteringen mellom søknader om tilskudd skal tilskuddsforvalter i tillegg til det som følger av [§ 3-8](forskrift/2021-02-23-557/§3-8) legges vekt på samarbeidet mellom samprodusentene, kreative og tekniske bidrag fra den norske bransjen, den norske andelen av prosjektets budsjett og prosjektets kunstneriske kvalitet.
+
+Tilskuddet beregnes med utgangspunkt i den norske budsjettandelen i prosjektet.
+
+### § 3-11. Tilskudd til lansering av dataspill
+
+Tilskudd til lansering skal bidra til at hvert dataspill kan nå sitt optimale publikumspotensial, hevde seg nasjonalt og internasjonalt og øke produksjonsforetakets inntekter fra dataspillet.
+
+I vurderingen av og prioriteringen mellom søknader om tilskudd til lansering av dataspill skal det i tillegg til det som fremgår av [§ 3-8](forskrift/2021-02-23-557/§3-8) legges vekt på fremlagte lanseringsplaner, lanseringstidspunkt og dataspillets forventede inntekts- og markedspotensial.
+
+Tilskuddsforvalter kan fastsette hvilke utgifter som utgjør godkjente lanseringskostnader og fastsette satser for lanseringstilskudd.
+
+For tiltak på salgsmarkeder, messer og andre relevante arenaer skal tilskuddsforvalter vektlegge hvor betydningsfull posisjon arenaen har i dataspillbransjen. Det kan gis tilskudd til langsiktig lansering med tiltak i flere markeder.
+
+Dataspill med utviklingstilskudd fra den aktuelle tilskuddsforvalter kan prioriteres.
+
+### § 3-12. Maksimalt offentlig tilskudd til utvikling og lansering av dataspill
+
+Dersom ikke annet følger av denne bestemmelsens annet avsnitt, skal maksimalt samlet offentlig tilskudd til utvikling og lansering av dataspill, både hver for seg og samlet, ikke overstige 50 prosent av godkjente regnskapsførte utviklings- og lanseringskostnader.
+
+Dersom dataspillet er et smalt audiovisuelt verk, skal maksimalt samlet offentlig tilskudd til utvikling og lansering, både hver for seg og samlet, ikke overstige 75 prosent av dataspillets godkjente regnskapsførte utviklings- og lanseringskostnader.
+
+For samproduksjoner med utenlandsk hovedprodusent gjelder prosenttaket for den norske andelen i prosjektet.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 3-13. Utmåling av tilskudd
+
+Tilskuddets maksimale størrelse, tilskuddsramme, fastsettes ved innvilgelse av tilskudd og som prosentandel av et budsjett. Tilskuddet er tilskudd mot avregning. Endelig tilskuddsbeløp vil beregnes ut fra fastsatt prosentandel av godkjent endelig regnskap.
+
+### § 3-14. Tilbakebetaling av for mye utbetalt tilskudd
+
+Dersom det er underforbruk i forhold til tilskuddsrammen, vil tilskuddsbeløpet justeres forholdsmessig slik at tilskuddsprosenten opprettholdes. Dersom det er utbetalt høyere tilskuddsbeløp enn det fastsatte endelige tilskuddsbeløpet i henhold til innvilgelsesvedtaket, vil tilskuddsforvalter kreve tilbakebetaling av det overskytende.
+
+Dersom samlet offentlig tilskudd er høyere enn det som følger av [§ 3-12](forskrift/2021-02-23-557/§3-12), skal tilskuddsforvalter kreve tilskudd tilbakebetalt slik at maksimalt tilskuddstak for offentlig støtte ikke overskrides.
+
+## Kapittel 4. Tilskudd til kompetanseutvikling for fagarbeidere i den produserende dataspillbransjen
+
+### § 4-1. Virkeområde
+
+Dette kapittelet gjelder tilskudd til kompetanseutvikling av enkeltpersoner som er fagarbeidere i den produserende dataspillbransjen. Tilskudd etter dette kapittelet skal bidra til å styrke profesjonaliteten i dataspillbransjen.
+
+### § 4-2. Tilskudd til faglig utvikling
+
+Det kan gis tilskudd til faglig utvikling gjennom deltakelse på bransjearrangement, kurs, seminarer og finansieringsfora, samt representasjon av dataspill på prioriterte festivaler eller prisutdelinger.
+
+Tilskudd kan gis til deltakeravgift, reiser og opphold.
+
+Der Norsk filminstitutt er tilskuddsforvalter kan tilskudd etter denne bestemmelsen kun brukes til internasjonale arrangementer.
+
+### § 4-3. Krav til søker
+
+Tilskudd etter dette kapittel gis til enkeltpersoner.
+
+For å kunne motta tilskudd etter dette kapittel må søker ha relevant utdanning på bachelornivå eller høyere, eller kunne dokumentere relevant yrkeserfaring fra dataspillbransjen.
+
+Regionale filmsentre og filmfond kan gjøre unntak fra kompetansekravet.
+
+### § 4-4. Prioritering
+
+Ved vurdering av og prioritering mellom søknader og utmåling av tilskudd til enkeltpersoner skal det legges vekt på ordningens formål og den faglige begrunnelsen for søknaden.
+
+Tilskuddsforvalter kan også prioritere søknader ut fra målet om kjønnsbalanse og mangfold i dataspillbransjen.
+
+### § 4-5. Utmåling av tilskudd
+
+Tilskuddet skal ikke overskride det som etter en forhåndsvurdering er nødvendig for å dekke utgifter til deltakeravgift, reiser og opphold for søker. I vurderingen av hva som er nødvendig skal det tas hensyn til andre offentlige tilskudd.
+
+Tilskuddsforvalter kan fastsette satser for tilskudd.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+## Kapittel 5. Tilskudd til fellestiltak for dataspillbransjen
+
+### § 5-1. Virkeområde
+
+Dette kapittelet gjelder tilskudd til fellestiltak for dataspillbransjen, herunder profileringstiltak i Norge og i utlandet, og tiltak for kompetanseheving av dataspillbransjen. Formålet med tilskuddene er å styrke den norske dataspillbransjen, og norske dataspills posisjon hos publikum.
+
+Tilskudd etter dette kapittelet gis ikke til fellestiltak som gjelder enkeltstående dataspill.
+
+### § 5-2. Krav til søker
+
+Organisasjoner, stiftelser eller foretak som påtar seg ansvaret for å arrangere, koordinere og gjennomføre felles bransjetiltak for den norske dataspillbransjen kan søke om tilskudd etter dette kapittel. Tilskuddsmottaker må kunne stå ansvarlig for gjennomføringen av prosjektet og rapporteringen til tilskuddsforvalter. Søker skal være registrert i Enhetsregisteret.
+
+### § 5-3. Prioritering
+
+Tilskuddsforvalter skal prioritere prosjekter som har bred representasjon fra bransjen og/eller som på sikt vil bidra til å styrke den norske dataspillbransjen.
+
+I vurderingen kan det legges vekt på prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 5-4. Tilskudd til profilering
+
+Tilskudd etter denne bestemmelsen skal bidra til å styrke dataspills posisjon hos publikum. Det kan gis tilskudd til fellestiltak nasjonalt og internasjonalt og andre aktiviteter som skaper offentlig oppmerksomhet rundt norske dataspill.
+
+### § 5-5. Tilskudd til kompetansehevende tiltak for den produserende dataspillbransjen
+
+Tilskudd etter denne bestemmelsen skal bidra til kompetanseheving av den produserende dataspillbransjen i Norge.
+
+Det kan gis tilskudd til kompetansehevende arrangementer, seminarer og bransjetiltak som har den produserende dataspillbransjen som målgruppe.
+
+### § 5-6. Utmåling av tilskudd
+
+Kun kostnader som er relevante og knyttet til gjennomføring av tiltaket, kan godkjennes som grunnlag for utmåling av tilskudd.
+
+Tilskuddsforvalter kan fastsette satser for tilskudd.
+
+## Kapittel 6. Tilskudd til formidling av dataspill og til kompetansehevende tiltak for formidlere av dataspill
+
+### § 6-1. Virkeområde
+
+Dette kapittelet gjelder tilskudd til formidling og tilgjengeliggjøring av dataspill og arbeid med å tilrettelegge for dataspillets møte med publikum. Det gjelder også tilskudd til arrangører av kompetansehevende tiltak for formidling av dataspill.
+
+### § 6-2. Definisjon av begrepet formidlingstiltak
+
+Formidlingstiltak er tiltak som skaper møteplasser mellom publikum og dataspill, og styrker møtet mellom utøvere og ett eller flere dataspill ved å sette det inn i en pedagogisk, kulturell, samfunnsmessig eller historisk kontekst.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 6-3. Krav til søker
+
+Organisasjoner, stiftelser eller foretak som påtar seg ansvaret for å arrangere, koordinere og gjennomføre tiltak som tilrettelegger for publikums møter med dataspill kan søke om tilskudd etter dette kapittel. Søker skal være registrert i Enhetsregisteret.
+
+Søker er ansvarlig part ovenfor tilskuddsforvalter og skal kunne påta seg forpliktelser på vegne av prosjektet. Søker skal kunne dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og må kunne stå ansvarlig for prosjektets regnskap.
+
+### § 6-4. Nødvendige rettigheter
+
+Søker skal ha, eller klarere nødvendige rettigheter for dataspillene for å kunne gjennomføre de prosjektene eller tiltakene det søkes om tilskudd til.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 6-5. Prioritering
+
+Vedtak om tilskudd baseres på en samlet vurdering avformålet med tilskuddsordningeneprioriterte satsningsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalterprosjektets egenart, kunstneriske og/eller kulturelle verdiprosjektets økonomi og bærekraftgeografisk spredningrelevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet.
+
+### § 6-6. Tilskudd til arrangementer for formidling av dataspill
+
+Tilskudd etter denne bestemmelsen skal bidra til bredde og kvalitet i dataspilltilbudet for barn, unge og voksne, og stimulere dataspillkulturen i Norge.
+
+Det kan gis tilskudd til arrangementer og visning, herunder dataspilltreff og andre dataspillarrangement og formidlingstiltak for dataspill med kunstnerisk, kulturelt eller pedagogisk formål. Tilskudd til større dataspillarrangementer som går over flere dager, skal ikke overstige 60 % av arrangørens godkjente, samlede budsjett.
+
+Dataspilltreff og arrangementer skal være åpne for allmennheten og tilby et sammensatt dataspillprogram av et visst omfang.
+
+### § 6-7. Tilskudd til kompetansehevende tiltak for formidlere
+
+Tilskudd etter denne bestemmelsen skal bidra til et profesjonelt miljø for formidling av dataspill i Norge, øke kompetansen om og forståelsen for dataspill og engasjere flere til både å bruke og skape dataspill. Tilskuddet skal også bidra til at barn og unge blir reflekterte og kritiske brukere av dataspill.
+
+Det kan gis tilskudd til seminarer, bransjetiltak og pedagogiske tiltak knyttet til dataspill.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 6-8. Utmåling av tilskudd
+
+Tilskudd gis som prosjekttilskudd.
+
+Kun kostnader som er relevante og knyttet til gjennomføring av tiltaket, kan godkjennes som grunnlag for utmåling av tilskudd.
+
+Tilskuddsforvalter kan fastsette satser for tilskudd.
+
+## Kapittel 7. Kontroll og rapportering om bruken av tilskudd
+
+### § 7-1. Kontroll og rapportering om bruken av tilskudd
+
+Tilskuddsforvalter skal sørge for nødvendig kontroll med bruken av tilskuddsmidlene.
+
+Tilskuddsmottaker skal rapportere om bruken av tilskuddet. Tilskuddsforvalter skal fastsette en frist for å avgi rapport om bruken av tilskuddet, og eventuelt levere regnskap og produktet som er beskrevet i vedtaket om tilskudd.
+
+Tilskuddsforvalter kan kontrollere at enkelttilskudd eller et utvalg tilskudd er brukt etter vilkår og forutsetninger i innvilgelsesvedtak.
+
+Tilskuddsmottaker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at tilskuddsforvalter kan føre kontroll etter denne forskriften. Tilskuddsmottaker skal oppbevare all dokumentasjon for at vilkårene for å motta kompensasjon er oppfylt i ti år beregnet fra året etter søknadsåret.
+
+### § 7-2. Regnskap
+
+Regnskap skal føres i henhold til særregler gitt i denne forskriften, gjeldende lover og regler og i tråd med god regnskapsskikk. Tilskuddsforvalter kan fastsette nærmere retningslinjer for regnskapsføring.
+
+Følgende krav gjelder til regnskap ved tilskudd til utvikling og lansering:Det skal føres eget regnskap for hvert dataspill som mottar tilskudd etter [kapittel 3](forskrift/2021-02-23-557/kap3).Regnskapet skal normalt føres i henhold til godkjent kalkyleskjema.Utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante post.Alle avtaler om rettigheter, avtaler med stab og avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig.
+
+## Kapittel 8. Reaksjoner ved mislighold
+
+### § 8-1. Omgjøring av vedtak om tildeling av tilskudd
+
+Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd i følgende situasjoner:Tilskuddsmottaker har brutt opplysningsplikten i [§ 2-3](forskrift/2021-02-23-557/§2-3) ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften.Tilskuddsmottaker har ikke benyttet tilskuddet i henhold til vilkår og forutsetninger for tilskuddet.Tilskuddsmottakers drift strider mot lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet.Tilskuddsmottakers rapportering har vesentlige mangler.Tilskuddet er i strid med [EØS-avtalens](lov/1992-11-27-109/eøsl) regler om offentlig støtte.Tilskuddsmottaker har endret prosjektet vesentlig uten godkjenning av tilskuddsforvalter.Tilskuddsmottaker har ikke gjennomført prosjektet, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet.Tilskuddsmottaker har på annen vesentlig måte brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.
+
+Ved krav om tilbakebetaling kan det fastsettes rente etter [forsinkelsesrenteloven](lov/1976-12-17-100). Dersom tilbakebetalingskravet skyldes at tilskuddet strider mot EØS-regelverket skal det fastsettes renter og renters rente i tråd med EFTAs overvåkingsorgans referanserente.
+
+Ved grovt mislighold skal tilskuddsforvalter umiddelbart stanse alle utbetalinger av tilskudd til tilskuddsmottaker i påvente av en avklaring av om vedtak om tildeling av tilskudd skal omgjøres eller en reaksjon iverksettes.
+
+Tilskuddsmottaker skal varsles før vedtak fattes.
+
+> Endret ved forskrift [12 mai 2022 nr. 901](forskrift/2022-05-12-901).
+
+### § 8-2. Tilbakeholdelse av tilskudd og motregning
+
+Tilskuddsforvalter kan holde tilbake utbetalinger i situasjoner som nevnt i [§ 8-1](forskrift/2021-02-23-557/§8-1), i påvente av en utbedring av påpekte brudd på vilkår og forutsetninger for tilskudd.
+
+Ved utbetaling av for mye tilskudd slik at tilskuddsforvalter har et tilbakebetalingskrav overfor tilskuddsmottaker, kan tilskuddsforvalter tilbakeholde innvilget, ikke utbetalt tilskudd i andre prosjekter, i påvente av tilbakebetaling fra tilskuddsmottaker.
+
+Tilskuddsforvalter kan motregne krav som ikke er tilbakebetalt opp mot ikke utbetalt tilskudd. Dette gjelder uavhengig av når kravet oppsto eller forfalt.
+
+### § 8-3. Utestengelse fra tilskuddsordninger ved mislighold
+
+Tilskuddsforvalter kan utestenge tilskuddsmottaker fra tilskuddsforvalters tilskuddsordninger i opptil tre år.
+
+Utestengelse kan vedtas:dersom tilbaketrukne midler ikke blir tilbakebetaltved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i [§ 8-1](forskrift/2021-02-23-557/§8-1) første ledd.
+
+## Kapittel 9. Ikrafttredelse
+
+### § 9-1. Ikrafttredelse
+
+Forskriften trer i kraft 1. mars 2021.

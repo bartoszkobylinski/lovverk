@@ -1,0 +1,42 @@
+---
+id: "sf-20241218-3383"
+slug: "forskrift-om-forbud-mot-å-fiske-reker-i-nafo-området"
+type: "forskrift"
+ref_id: "forskrift/2024-12-18-3383"
+title: "Forskrift om forbud mot å fiske reker i NAFO-området"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2025-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "a7c011e948de1db98ad3ff0d5228b9381500277290078e18e9f4e4fb8f3cf2f0"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forbud mot å fiske reker i NAFO-området
+
+## § 1. Virkeområde
+
+Forskriften gjelder for fiske i internasjonalt farvann i området nord for 35° N og vest for en linje trukket langs meridianen 42° V til posisjon 59° N 42° V og derfra langs meridianen 44° V til Grønlands kyst (NAFO-området).
+
+## § 2. Generelt forbud
+
+Det er forbudt for norske fartøy å fiske og lande reker i NAFO-området.
+
+## § 3. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til [havressurslova § 59](lov/2008-06-06-37/§59) og [forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven](forskrift/2011-12-20-1437).
+
+## § 4. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til [havressurslova §§ 60](lov/2008-06-06-37/§60), [61](lov/2008-06-06-37/§61), [62](lov/2008-06-06-37/§62), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2025.

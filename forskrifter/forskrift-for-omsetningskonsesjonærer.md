@@ -1,0 +1,767 @@
+---
+id: "sf-19990311-0302"
+slug: "forskrift-for-omsetningskonsesjonærer"
+type: "forskrift"
+ref_id: "forskrift/1999-03-11-302"
+title: "Forskrift om tariffer og rapporteringsplikt for omsetningskonsesjonærer (forskrift for omsetningskonsesjonærer)"
+short_title: "Forskrift for omsetningskonsesjonærer"
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "1999-04-01"
+last_change_in_force: "2025-02-01"
+last_updated: "2023-08-11"
+xml_hash: "475791ce5821ab4ebb8c95ec6e3a86238163075d66d167b6a30092008420c2c2"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tariffer og rapporteringsplikt for omsetningskonsesjonærer (forskrift for omsetningskonsesjonærer)
+
+## Del I. Generelle bestemmelser
+
+### Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Formål
+
+Denne forskriften skal legge grunnlag for et effektivt kraftmarked og kontroll av nettvirksomheten som et naturlig monopol. Forskriften skal sikre at kraft overføres til riktig leveringskvalitet og pris, at nettet utnyttes og utbygges på en sikker og samfunnsmessig rasjonell måte. Herunder skal det tas hensyn til allmenne og private interesser som blir berørt.
+
+### § 1-2. Virkeområde
+
+Forskriften gjelder tariffer ved salg av nettjenester samt rapportering av økonomiske og tekniske data ved kraftproduksjon, kraftomsetning, nettvirksomhet og øvrig virksomhet for rapporteringspliktige selskaper.
+
+> Endret ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 1-3. Definisjoner
+
+I denne forskrift menes med:*Anleggsbidrag:* Beregnet investeringstilskudd ved tilknytning av en ny kunde eller ved forsterkning av nettet til en eksisterende kunde.*Avkastning:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).*Avkastningsgrunnlag:* Som definert i [forskrift om strømnettselskapenes inntekter § 1-3](forskrift/2025-01-14-50/§1-3).*Distribusjonsnett:* Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.*Integrert foretak:* Som definert i [energiloven § 1-3](lov/1990-06-29-50/§1-3).*Konsesjonær:* Innehaver av omsetningskonsesjon.*Kundegruppe:* En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.*Kundespesifikke kostnader:* Kostnader knyttet til kundehåndtering, herunder måling, avregning, fakturering, tilsyn mv.*Marginale tapskostnader:* Endring i tapskostnader i nettet ved en marginal endring i innmating eller uttak.*Marginal tapsprosent:* Prosentvis endring i nettap ved en marginal endring i innmating eller uttak.*Nettselskap:* Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.*Nettjenester:* Omfatter en eller flere av følgende:overføring av kraft, herunder drift, vedlikehold og investering i nettanleggtarifferingmåling, avregning og kundehåndteringtilsyn og sikkerhetdriftskoordineringpålagte beredskapstiltakpålagt energiutredning.*Plusskunde:* Sluttbruker med forbruk og fysisk eller virtuell produksjon bak tilknytningspunkt, hvor innmatet effekt i tilknytningspunktet ikke på noe tidspunkt overstiger 100 kW. En plusskunde kan ikke ha konsesjonspliktig anlegg bak eget tilknytningspunkt eller omsetning bak tilknytningspunktet som krever omsetningskonsesjon.*Regionalnett:* Overføringsnett mellom transmisjonsnett og distribusjonsnett.*Tariffer:* Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.*Transmisjonsnett:* Anlegg i overføringsnettet definert i [energiloven § 1-5](lov/1990-06-29-50/§1-5).*Tilknytningspunkt:* Punkt i overføringsnettet der det foregår innmating eller uttak av kraft eller utveksling mellom nettselskap.*Øvrig virksomhet:* All virksomhet som ikke omfattes av kraftproduksjon, kraftomsetning, nettvirksomhet eller televirksomhet; herunder fjernvarme, veilys, installasjon, kabel-tv, enøk-virksomhet, utleie og salg av konsulenttjenester.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [11 okt 2002 nr. 1123](forskrift/2002-10-11-1123) (i kraft 1 jan 2003), [5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006), [29 april 2016 nr. 456](forskrift/2016-04-29-456) (i kraft 1 jan 2017), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 1-4. Ansvar for nettjenester
+
+Nettselskapet kan la andre utføre nettjenester såfremt inntekter og kostnader forbundet med dette fremkommer i nettselskapets rapportering til Reguleringsmyndigheten for energi under virksomhetsområdene distribusjonsnett, regionalnett eller transmisjonsnett. Nettselskapet skal fremstå utad som ansvarlig for oppgavene eller tjenestene.
+
+> Tilføyd ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), endret ved [forskrifter 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 1-5. Kryssubsidiering
+
+Nettselskapet skal ikke belaste nettvirksomheten med kostnader som er knyttet til konkurranseutsatt virksomhet. Flytting av inntekter som knytter seg til nettvirksomheten over på konkurranseutsatte virksomhetsområder er ikke tillatt.
+
+Nettselskapet skal overholde følgende krav:*Eksterne transaksjoner*Overføring av midler, herunder finans- og realkapital som stilles til rådighet, fra nettselskaper til andre juridiske personer, skal skje til markedsvilkår.*Transaksjoner i et integrert foretak*Transaksjoner mellom nettselskapet og andre selskaper i et integrert foretak skal skje til markedsvilkår. Overholdelse av markedsvilkår skal kunne gjøres rede for. Avtaler mellom selskaper i et integrert foretak skal foreligge skriftlig.*Interne transaksjoner*Ved interne transaksjoner mellom nettvirksomheten og andre virksomhetsområder skal faktiske kostnader fordeles direkte på det virksomhetsområdet ytelsen er utført. Kostnadene skal fordeles forholdsmessig ut fra den reelle bruken av ressurser.Ved utnyttelse av felles anleggsmidler mellom andre virksomhetsområder og nettvirksomheten skal kostnader, avskrivninger og balanseverdier fordeles forholdsmessig mellom virksomhetsområdene ut fra den reelle bruken av anleggsmidlene.Interne transaksjoner skal ikke påvirke årsresultatet. Prinsipper og fordelingsnøkler anvendt ved fordelingen av kostnader og felles anleggsmidler skal gjøres rede for og skal kunne dokumenteres. Reguleringsmyndigheten for energi kan gi pålegg om at en bestemt metode for kostnadsberegning eller fordeling skal benyttes.*Anskaffelser til nettvirksomheten*Enhver anskaffelse fra andre selskaper i et integrert foretak, hvor kostnadene ved anskaffelsen belastes nettvirksomheten, skal så langt som mulig være basert på konkurranse. Utvelgelse av kvalifiserte anbydere og tildeling av slike kontrakter skal skje på grunnlag av objektive og ikke-diskriminerende kriterier.
+
+Annet ledd bokstav d omfatter ikke anskaffelser av administrative tjenester og eiendomstjenester. Annet ledd bokstav d omfatter ikke kontrakter med en anslått verdi under 100 000 kroner eksklusiv merverdiavgift.
+
+> Tilføyd ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+## Del II. Økonomisk og teknisk rapportering
+
+### Kapittel 2. Rapportering til Reguleringsmyndigheten for energi
+
+> Overskrift endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 2-1. Rapporteringsplikt
+
+Alle konsesjonærer plikter å innlevere økonomisk og teknisk rapportering til Reguleringsmyndigheten for energi.
+
+> Endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 2-2. Frist for innlevering
+
+Rapportering skal innleveres til Reguleringsmyndigheten for energi i henhold til bestemmelser for innlevering til sentralt regnskapsregister som er fastsatt i eller i medhold av regnskapsloven. Ved overtredelse av frist for innlevering eller vesentlige mangler ved rapporteringen gjelder bestemmelsen i [lov 29. juni 1990 nr. 50](lov/1990-06-29-50) (energiloven) [§ 10-3](lov/1990-06-29-50/§10-3) tilsvarende.
+
+Rapportering etter første ledd kan etter søknad utsettes i inntil fire uker dersom det ikke hindrer gjennomføringen av denne forskriften. Utsatt frist kan ikke settes senere enn 1. august.
+
+Søknad om utsatt frist sendes Reguleringsmyndigheten for energi innen tre uker etter at selskapets årsregnskap er godkjent. Bekreftelse av datoen for godkjenningen skal legges ved.
+
+> Endret ved [forskrifter 7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2008), [15 juni 2010 nr. 984](forskrift/2010-06-15-984) (i kraft 1 juli 2010), [16 des 2013 nr. 1576](forskrift/2013-12-16-1576) (i kraft 1 jan 2014), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 2-3. Programvare
+
+Programvare utarbeidet av Reguleringsmyndigheten for energi skal benyttes ved innlevering av økonomisk og teknisk rapportering.
+
+> Endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 2-4. Regnskapsprinsipper
+
+Regnskapet skal avlegges i henhold til bestemmelsene i [regnskapsloven](lov/1998-07-17-56) og god regnskapsskikk. Reguleringsmyndigheten for energi kan fastsette krav til ytterligere spesifikasjoner. Alle konsesjonærer plikter å sette seg inn i disse kravene og rapportere korrekt i henhold til dem slik at Reguleringsmyndigheten for energi har et korrekt datagrunnlag.
+
+> Endret ved [forskrifter 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 2-5. Årsregnskap, årsberetning og revisors beretning
+
+Årsregnskap, årsberetning og revisors beretning skal sendes Reguleringsmyndigheten for energi sammen med rapporteringen eller så snart de foreligger ferdig publisert.
+
+> Endret ved [forskrifter 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 2-6. Segmentinformasjon for nettvirksomheten
+
+Konsesjonærens årsregnskap skal inneholde separat regnskapsinformasjon for nettvirksomheten. Det skal som et minimum opplyses om årlig inntektsramme, jf. [§ 8-6](forskrift/1999-03-11-302/§8-6), inngående og utgående saldo for mer- og mindreinntekt, eventuell innhenting og avskrivning av mindreinntekt eller tilbakeføring av merinntekt i perioden, driftsresultat, avkastningsgrunnlag og avkastning.
+
+> Endret ved [forskrifter 16 des 2002 nr. 1611](forskrift/2002-12-16-1611) (i kraft 1 jan 2003), [18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 2-7. Revisors rolle
+
+Konsesjonærens revisor skal kontrollere og attestere på at rapporteringen er gjort i samsvar med reglene i denne forskrift.
+
+### § 2-8. (Opphevet)
+
+> Endret ved [forskrifter 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [10 des 2014 nr. 1554](forskrift/2014-12-10-1554) (i kraft 1 jan 2015), [1 juli 2015 nr. 850](forskrift/2015-07-01-850), [1 juli 2015 nr. 850](forskrift/2015-07-01-850) (i kraft 1 juli 2016), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 3. Regnskapets oppbygging og tilleggsopplysninger
+
+### § 3-1. Virksomhetsområder
+
+Rapporteringen skal gjøres på egne virksomhetsområder som skal inndeles i:kraftomsetningkraftproduksjontransmisjonsnettregionalnettdistribusjonsnettteleøvrig virksomhet.
+
+Konsesjonæren skal skille konkurranseutsatte forretningsområder og nettvirksomhet i selvstendige virksomhetsområder med separate budsjetter og regnskaper. Konsesjonæren plikter å henføre inntekter og kostnader til virksomhetsområdene slik at driftsresultatet for virksomhetsområdene gir et mest mulig korrekt bilde av årets drift. Rapporteringen skal følge kalenderåret. Regnskapet skal avstemmes mot årsregnskapet per regnskapspost. Differanser mellom årsregnskapet og rapporteringen skal gjøres rede for.
+
+> Endret ved [forskrifter 16 des 2002 nr. 1611](forskrift/2002-12-16-1611) (i kraft 1 jan 2003), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 3-2. (Opphevet)
+
+> Opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 3-3. Regnskapsmessig behandling av eierandeler
+
+Konsesjonær plikter å rapportere til Reguleringsmyndigheten for energi selv om eier(e) også er rapporteringspliktig. Konsesjonær som har eierandeler i rapporteringspliktige selskap skal ikke innarbeide disse eierandelene under virksomhetsområdene.
+
+Det skal opplyses om navn på alle selskaper konsesjonæren har eierandeler i, størrelsen på eierandelene samt etter hvilke prinsipper eierandelene er innarbeidet i årsregnskapet.
+
+> Endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 3-4. (Opphevet)
+
+> Opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 3-5. Anleggsregister
+
+Konsesjonæren skal ha et anleggsregister som omfatter alle anleggsmidlene. Anleggsregisteret skal gi en oversikt over brutto førstegangs historisk anskaffelseskostnad, anskaffelsestidspunkt, avskrivningsplan, akkumulerte av- og nedskrivninger, netto bokført verdi, investeringstilskudd og lignende.
+
+> Endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 3-6. Tilleggsopplysninger
+
+1. Det skal gis detaljert informasjon om kraftomsetning.
+2. Det skal gis utførlige opplysninger om prinsipper for regnskapsmessig behandling av aktivering, kostnadsføring og vedlikehold.
+3. Det skal gis utførlige opplysninger om prinsipper for behandling av anleggsbidrag, tilskudd med videre.
+4. Det skal gis detaljert informasjon om anlegg eller rettigheter som kan brukes i nettvirksomheten så vel som konkurranseutsatt virksomhet.
+5. Alle former for godtgjørelse som virksomhet av kommersiell karakter betaler for bruk av anlegg eller rettigheter knyttet til konsesjonærens nettvirksomhet skal spesifiseres.
+6. I rapporteringen skal samlet kraftsalg inklusiv tap samsvare med samlet krafttilgang.
+7. Nettanlegg skal rapporteres i fysiske størrelser, eksempelvis antall km linje, antall transformatorer, antall km jordkabel med videre.
+8. Konsesjonærer med kraftproduksjon skal spesifisere produksjon pr. kraftstasjon.
+
+> Endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### Kapittel 4. Resultatregnskap
+
+### § 4-1. Generelt om resultatregnskap
+
+Konsesjonæren skal rapportere fullstendig resultatregnskap i henhold til bestemmelsene i regnskapsloven og god regnskapsskikk. For virksomhetsområdene i henhold til [§ 3-1](forskrift/1999-03-11-302/§3-1) første ledd skal det rapporteres driftsinntekter, driftskostnader og driftsresultat.
+
+> Endret ved [forskrift 16 des 2002 nr. 1611](forskrift/2002-12-16-1611) (i kraft 1 jan 2003).
+
+### § 4-2. Energisalg
+
+Energisalg til sluttbrukere skal rapporteres for virksomhetsområdet kraftomsetning. Salg av egenprodusert kraft skal også vises under virksomhetsområdet kraftproduksjon.
+
+### § 4-3. Energikjøp
+
+Energikjøp for videresalg skal rapporteres for virksomhetsområdet kraftomsetning. Energikjøp knyttet til forbruk i egne produksjonsanlegg skal føres under virksomhetsområdet kraftproduksjon.
+
+### § 4-4. Salg av nettjenester
+
+Inntekter fra salg av nettjenester samt beregningsgrunnlag skal rapporteres for virksomhetsområdene transmisjonsnett, regionalnett og distribusjonsnett. Kraftleverandør som fakturerer nettjenester på vegne av nettselskap skal ikke rapportere dette som inntekter fra salg av nettjenester.
+
+> Endret ved [forskrift 18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 4-5. Kjøp av nettjenester
+
+Kjøp av nettjenester skal rapporteres for virksomhetsområdene kraftproduksjon, transmisjonsnett, regionalnett og distribusjonsnett.
+
+> Endret ved [forskrift 18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 4-6. Kjøp av systemtjenester
+
+Nettselskapers kjøp og salg av systemtjenester skal rapporteres for virksomhetsområdene transmisjonsnett, regionalnett og distribusjonsnett. Med systemtjenester menes tjenester som er påkrevd for at den overførte effekten skal ha den nødvendige kvalitet, som regulerstyrke, reserver og reaktiv effekt.
+
+> Endret ved [forskrifter 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 4-7. Nettap
+
+Nettap skal rapporteres for virksomhetsområdene transmisjonsnett, regionalnett og distribusjonsnett.
+
+> Endret ved [forskrifter 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2008), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 4-8. Inntekter og kostnader ved kundehåndtering, måling og avregning
+
+Inntekter og kostnader ved kundehåndtering, måling og avregning skal spesifiseres for nettvirksomhet og konkurranseutsatt virksomhet.
+
+### § 4-9. Gevinst eller tap ved avgang av anlegg
+
+Gevinst eller tap ved avgang av anleggsmidler skal rapporteres for hvert virksomhetsområde i henhold til [§ 3-1](forskrift/1999-03-11-302/§3-1) første ledd.
+
+> Endret ved [forskrift 4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2013).
+
+### Kapittel 5. Balanse
+
+### § 5-1. Generelt om balansen
+
+Konsesjonæren skal rapportere fullstendig balanse i henhold til bestemmelsene i regnskapsloven og god regnskapsskikk.
+
+Varige driftsmidler, kundefordringer, lagerbeholdning og leverandørgjeld skal fordeles på virksomhetsområdene i henhold til [§ 3-1](forskrift/1999-03-11-302/§3-1) første ledd. Mer- og mindreinntekt skal fordeles på transmisjonsnett, regionalnett og distribusjonsnett. Øvrige eiendeler og gjeld skal ikke fordeles på virksomhetsområdene.
+
+> Endret ved [forskrifter 16 des 2002 nr. 1611](forskrift/2002-12-16-1611) (i kraft 1 jan 2003), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 5-2. Bokførte verdier
+
+Bokført verdi for driftsmidler fremkommer som brutto førstegangs historisk anskaffelseskostnad fratrukket akkumulerte avskrivninger, nedskrivninger og eventuelle tilskudd. Anlegg under utførelse inngår ikke i anskaffelseskostnad før anlegget er aktivert. Inngående saldo i regnskapsåret skal være i overensstemmelse med utgående saldo i forutgående regnskapsår.
+
+> Endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 5-3. Anleggsmidler
+
+Anleggsmidler skal rapporteres til bokført verdi. Dersom bokførte verdier i årsregnskapet ikke er i overensstemmelse med de verdier som er rapportert for virksomhetsområdene, skal det gjøres rede for differansene.
+
+Kraftstasjoner, vassdragsreguleringsanlegg med nødvendig eiendom og rettigheter for kraftproduksjon skal rapporteres under virksomhetsområdet kraftproduksjon.
+
+Fjernvarmeanlegg med nødvendig eiendom og rettigheter skal rapporteres under virksomhetsområde øvrig virksomhet.
+
+Transmisjons-, regional- og distribusjonsnettanlegg med nødvendig eiendom og rettigheter skal rapporteres på de respektive virksomhetsområder.
+
+Kundespesifikke anlegg skal rapporteres under virksomhetsområdene transmisjonsnett, regionalnett eller distribusjonsnett.
+
+Øvrige driftsmidler skal rapporteres under det virksomhetsområdet hvor de anvendes. Dersom direkte henføring på virksomhetsområdene ikke er mulig skal disse driftsmidlene fordeles. Fordelingen skal gjenspeile den relative bruk av ressurser for de aktuelle virksomhetsområdene.
+
+> Endret ved [forskrifter 18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 5-4. Avskrivninger
+
+Brutto førstegangs historisk anskaffelseskostnad skal avskrives lineært. Avskrivninger skal rapporteres separat for virksomhetsområdene.
+
+> Endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 5-5. (Opphevet)
+
+> Opphevet ved forskrift [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 5-6. (Opphevet)
+
+> Opphevet ved forskrift [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+## Del III. Avbruddsrapportering
+
+### Kapittel 6. *(Opphevet)*
+
+> Opphevet ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006).
+
+## Del IV. Inntekter for nettvirksomheten
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere del III), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002).
+
+### Kapittel 7. *(Opphevet)*
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 6), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002). Hele kapitlet gitt på nytt ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-1. (Opphevet)
+
+> Endret ved forskrifter [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-2. (Opphevet)
+
+> Endret ved [forskrifter 7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2008), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-3. (Opphevet)
+
+> Endret ved [forskrifter 15 des 2008 nr. 1358](forskrift/2008-12-15-1358) (i kraft 1 jan 2009), [4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2013), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-4. (Opphevet)
+
+> Opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-5. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2013), [4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2015), [4 des 2015 nr. 1408](forskrift/2015-12-04-1408) (fom rapportering for regnskapsåret 2015), [4 des 2015 nr. 1408](forskrift/2015-12-04-1408) (i kraft 1 jan 2016), [13 des 2018 nr. 1914](forskrift/2018-12-13-1914) (i kraft 1 jan 2019), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-6. (Opphevet)
+
+> Endret ved [forskrifter 16 des 2013 nr. 1576](forskrift/2013-12-16-1576) (i kraft 1 jan 2014), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 7-7. (Opphevet)
+
+> Endret ved [forskrift 18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 8. *(Opphevet)*
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 7), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002). Hele kapitlet gitt på nytt ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-1. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2015 nr. 1408](forskrift/2015-12-04-1408) (i kraft 1 jan 2016), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-2. (Opphevet)
+
+> Endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-3. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2013), [10 des 2014 nr. 1554](forskrift/2014-12-10-1554) (i kraft straks med virkning fra 1 jan 2014), [13 des 2018 nr. 1914](forskrift/2018-12-13-1914) (i kraft 1 jan 2019 med virkning første gang for beregning av inntektsramme for 2019), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-4. (Opphevet)
+
+> Endret ved [forskrifter 7 des 2016 nr. 1457](forskrift/2016-12-07-1457) (i kraft 1 jan 2017), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [23 sep 2020 nr. 1810](forskrift/2020-09-23-1810), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-5. (Opphevet)
+
+> Opphevet ved [forskrift 15 des 2008 nr. 1358](forskrift/2008-12-15-1358) (i kraft 1 jan 2011).
+
+### § 8-6. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2015 nr. 1408](forskrift/2015-12-04-1408), [8 jan 2019 nr. 12](forskrift/2019-01-08-12), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2023), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 8-7. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2012 nr. 1137](forskrift/2012-12-04-1137) som endret ved [forskrift 17 des 2012 nr. 1250](forskrift/2012-12-17-1250) (i kraft 1 jan 2013), [16 des 2013 nr. 1576](forskrift/2013-12-16-1576) (i kraft 1 jan 2014), [4 des 2015 nr. 1408](forskrift/2015-12-04-1408) (med virkning første gang for akkumulert mer- eller mindreinntekt beregnet på grunnlag av tillatt inntekt for 2015), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 9. *(Opphevet)*
+
+> Tilføyd ved [forskrift 13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001). Hele kapitlet gitt på nytt ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007). Hele kapitlet endret ved [forskrift 7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2009), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9-1. (Opphevet)
+
+> Endret ved [forskrifter 4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2014), [16 des 2013 nr. 1576](forskrift/2013-12-16-1576) (i kraft 1 jan 2014), [14 des 2017 nr. 2030](forskrift/2017-12-14-2030) (i kraft 1 jan 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9-2. (Opphevet)
+
+> Endret ved [forskrifter 16 des 2013 nr. 1576](forskrift/2013-12-16-1576) (i kraft 1 jan 2015), [13 des 2018 nr. 1914](forskrift/2018-12-13-1914) (i kraft 1 jan 2020 med virkning første gang for beregning av tillatt inntekt for 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9-3. (Opphevet)
+
+> Endret ved [forskrift 13 des 2018 nr. 1914](forskrift/2018-12-13-1914) (i kraft 1 jan 2020 med virkning første gang for beregning av tillatt inntekt for 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 9A. *(Opphevet)*
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) som endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), endret ved forskrifter [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9A-1. (Opphevet)
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) som endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), opphevet ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), tilføyd ved forskrift [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9A-2. (Opphevet)
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2007), endret ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9A-3. (Opphevet)
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2007), endret ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9A-4. (Opphevet)
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) som endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), endret ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 9A-5. (Opphevet)
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) som endret ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), endret ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 10. *(Opphevet)*
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 8), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 9), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 10-1. (Opphevet)
+
+> Opphevet ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007).
+
+### § 10-2. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 8-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 9-2), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 10-3. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000 tidligere § 8-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 9-3), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 10-4. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 8-4), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 9-4), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 11. *(Opphevet)*
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 9), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 10), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [11 okt 2002 nr. 1123](forskrift/2002-10-11-1123) (i kraft 1 jan 2003), hele kapitlet endret ved [forskrift 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 11-1. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 9-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 10-1), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [11 okt 2002 nr. 1123](forskrift/2002-10-11-1123) (i kraft 1 jan 2003), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 11-2. (Opphevet)
+
+> Tilføyd ved [forskrift 11 okt 2002 nr. 1123](forskrift/2002-10-11-1123) (i kraft 1 jan 2003), endret ved [forskrifter 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020, tidligere § 11-4), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 12. *(Opphevet)*
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 10), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 11), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 12-1. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 10-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 11-1), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 12-2. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 10-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 11-2), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), [7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2008), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 12-3. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 10-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 11-3), [16 okt 2001 nr. 1394](forskrift/2001-10-16-1394) (i kraft 1 jan 2002), [16 des 2002 nr. 1611](forskrift/2002-12-16-1611) (i kraft 1 jan 2003), [7 des 2007 nr. 1423](forskrift/2007-12-07-1423) (i kraft 1 jan 2008), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+## Del V. Tariffer
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere del IV), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002).
+
+### Kapittel 13. Generelt om tariffer
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 11), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 12), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002).
+
+### § 13-1. Prinsipper for utforming av punkttariffer
+
+Alle nettselskapene er ansvarlige for at det utarbeides tariffer som er punktbaserte etter følgende prinsipper:tariffene skal refereres tilknytningspunktene.avtale med nettselskapet i tilknytningspunktet skal gi adgang til hele nettsystemet og kraftmarkedet.nettselskapet plikter å tilby alle som etterspør nettjenester ikke-diskriminerende og objektive punkttariffer og vilkår.tariffene skal utformes slik at de i størst mulig grad gir signaler om effektiv utnyttelse og effektiv utvikling av nettet.tariffene kan differensieres etter objektive og kontrollerbare kriterier basert på relevante nettforhold.tariffene skal fastsettes uavhengig av avtaler om kraftkjøp/kraftsalg.tariffene skal gi nettselskapet inntekter til dekning av kostnader innenfor tildelt inntektsramme, kostnader i overliggende nett, innbetalt eiendomsskatt og lovpålagt innbetaling til energifond.målte og stipulerte timeverdier i Elhub skal benyttes til avregning av tariffer. Der timeverdier for uttak ikke er tilgjengelig skal nettselskapet stipulere timeverdier.den enkelte boenhet eller fritidsbolig skal måles og avregnes hver for seg.tariffene skal utformes slik at de reflekterer kostnadsstrukturen i nettet.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-1), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 nov 2009 nr. 1365](forskrift/2009-11-10-1365) (i kraft 1 jan 2010), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 18 feb 2019), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)), [8 mai 2023 nr. 671](forskrift/2023-05-08-671) (i kraft 1 okt 2023), [22 des 2023 nr. 2415](forskrift/2023-12-22-2415) (i kraft 22 jan 2024).
+
+### § 13-2. Alminnelige regler for tariffering
+
+Tariffene for uttak og innmating av kraft skal utarbeides etter følgende grunnstruktur:energiledd som varierer med kundenes løpende uttak eller innmating av kraft.andre tariffledd som skal dekke nettkostnader som ikke dekkes gjennom energiledd.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)).
+
+### § 13-3. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-3), opphevet ved forskrift [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)).
+
+### § 13-4. (Opphevet)
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-4), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-4), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), opphevet ved forskrift [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)).
+
+### § 13-5. Informasjonsplikt
+
+Nettselskapene plikter av eget tiltak å gi andre nettselskaper den informasjon som er nødvendig for at disse skal kunne beregne egne tariffer. Informasjonen skal gis innen rimelig tid før nye tariffer trer i kraft.
+
+Nettselskapene plikter på forespørsel og innen rimelig tid å gi kunder informasjon om beregningsgrunnlaget for egne tariffer og beregningen av tariffene for de ulike kundegrupper.
+
+Tariffer og vilkår skal samles skriftlig, og være lett tilgjengelig for nettkundene.
+
+Nettselskapet plikter å gi tilstrekkelig informasjon slik at kunden kan innrette seg etter prissignalene i tariffen. Næringskunder skal som et minimum, få informasjon om innmating og uttak på timebasis. Øvrige kunder skal som et minimum, få informasjon om innmating, uttak og tilhørende nettleie på timebasis. Informasjonen skal være elektronisk tilgjengelig senest påfølgende døgn kl. 09:00.
+
+Nettselskapene skal i rimelig tid før endring av tariffene trer i kraft informere den enkelte nettkunde om tariffendringer. Informasjonen skal inneholde en begrunnelse for tariffendringene.
+
+Nettselskapene plikter å underrette Reguleringsmyndigheten for energi om endringer av sine tariffer i rimelig tid før disse trer i kraft.
+
+Ved uenighet mellom nettselskap og nettkunde om tariffer og andre overføringsvilkår, plikter nettselskapet å informere kunden om at Reguleringsmyndigheten for energi kan gi pålegg etter [§ 18-1](forskrift/1999-03-11-302/§18-1) og kan avgjøre uenigheter etter [forskrift om nettregulering og energimarkedet § 4-13](forskrift/2019-10-24-1413/§4-13).
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-5), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-5), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 mars 2006), [15 juni 2010 nr. 984](forskrift/2010-06-15-984) (i kraft 1 juli 2010), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [9 juni 2021 nr. 1860](forskrift/2021-06-09-1860), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrift [21 des 2021 nr. 3750](forskrift/2021-12-21-3750)).
+
+### § 13-6. Nettavtale
+
+Avtaler med vilkår for tilknytning og bruk av nettet skal inngås direkte mellom nettselskapene og hver enkelt kunde.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 11-6), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 12-6).
+
+### Kapittel 14. Praktisk utforming av tariffer for ordinære uttak
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 12), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 13).
+
+### § 14-1. Utforming av tariffer for ordinære uttak i transmisjons- og regionalnett
+
+I transmisjons- og regionalnett skal energileddet avspeile marginale tapskostnader. Energileddet skal være referert til de enkelte tilknytningspunkter og skal tidsdifferensieres. Tidsdifferensieringen skal minimum være ukentlig med en sats for dag og en annen sats som gjelder både natt og helg. Marginale tapsprosenter skal beregnes med hensyn til systembelastningen i et samlet nettsystem og en produksjons- og lastsituasjon som er representativ for hvert enkelt tidsavsnitt. Tapsprosenten for henholdsvis uttak og innmating skal ha samme absoluttverdi, men motsatt fortegn.
+
+I transmisjons- og regionalnett skal effektbaserte tariffledd fastsettes med utgangspunkt i kundens effektbelastning i definerte referansetimer. Referansetimene skal så langt som mulig ikke kunne forutsies av nettbrukerne. Det kan legges flere målinger til grunn. Det kan fastsettes et minimum effektgrunnlag.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 12-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 13-1), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 14-2. Utforming av tariffer for ordinære uttak i distribusjonsnettet
+
+Det skal utarbeides separate tariffer for høyspent og lavspent uttak.
+
+Tariffene for lavspent uttak i distribusjonsnettet skal bestå av et fastledd og et energiledd. Tariffene for næringskunder med årlig forbruk over 100 000 kWh kan i tillegg inneholde et effektledd.
+
+Fastleddet skal utformes slik at kunden dekker en rimelig andel av de faste kostnadene i nettet. Fastleddet skal differensieres på grunnlag av kundens etterspørsel etter effekt. Ved bruk av effektledd trenger ikke fastleddet differensieres.
+
+Energileddet skal dekke marginale tapskostnader. Energileddet kan i tillegg dekke en andel av nettselskapets øvrige kostnader. Energileddet kan ha et påslag når nettet er høyt belastet. Inntektene fra energileddet kan maksimalt utgjøre 50 prosent av nettselskapets inntekter fra hver kundegruppe. Inntektene fra energileddet kan likevel overstige 50 prosent fram til 1. juli 2026.
+
+Effektleddet skal baseres på kundens effektuttak i definerte perioder. En periode kan maksimalt gjelde én måned. Effektleddet skal tidsdifferensieres.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 12-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 13-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrifter [21 des 2021 nr. 3750](forskrift/2021-12-21-3750) og [10 mai 2022 nr. 825](forskrift/2022-05-10-825)), [2 mai 2024 nr. 716](forskrift/2024-05-02-716).
+
+### § 14-3. Fellesmåling av sluttkunder
+
+Nettselskapet skal på forespørsel tilby måling og avregning per felles inntaksledning når måling og avregning etter [§ 13-1](forskrift/1999-03-11-302/§13-1) bokstav i) gir urimelige merkostnader.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 12-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 13-3), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 nov 2009 nr. 1365](forskrift/2009-11-10-1365) (i kraft 1 jan 2010), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 18 feb 2019).
+
+### Kapittel 15. Praktisk utforming av tariffer for innmating fra produksjon
+
+> Kapitlet opphevet 1 juli 2012 ved [forskrift 5 juni 2009 nr. 616](forskrift/2009-06-05-616), tilføyd igjen ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 15-1. Energiledd for innmating
+
+Energileddet for innmating for produsenter med installert effekt større eller lik 1 MW skal avspeile marginale tapskostnader. Energileddet skal være referert til de enkelte tilknytningspunkter og skal tidsdifferensieres. Tidsdifferensieringen skal som et minimum være ukentlig med en sats for dag og en annen sats som gjelder både natt og helg. Marginale tapsprosenter skal beregnes med hensyn til systembelastningen i et samlet nettsystem og en produksjons- og lastsituasjon som er representativ for hvert enkelt tidsavsnitt.
+
+For kraftverk med installert effekt mindre enn 1 MW skal energileddet avspeile marginale tapskostnader i eget og overliggende nett.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 14-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 15-1), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 16-1).
+
+### § 15-2. Fastledd for innmating
+
+Transmisjonsnettets fastledd for innmating skal benyttes på alle nettnivå.
+
+Fastleddet skal være basert på kraftverkets midlere årsproduksjon.
+
+Plusskunder skal ikke tarifferes fastledd for innmating.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 14-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 15-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [29 april 2016 nr. 456](forskrift/2016-04-29-456) (i kraft 1 jan 2017), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 16-2).
+
+### § 15-3. Inntekter fra innmating i distribusjonsnettet
+
+Inntekt fra andre tariffledd for innmating i distribusjonsnettet skal gå til dekning av kostnader i distribusjonsnettet, og skal ikke videreføres til overliggende nett.
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006), endret ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 16-3).
+
+### Kapittel 16. Anleggsbidrag
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 14), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 15).
+
+### § 16-1. Når skal nettselskapet fastsette og kreve inn anleggsbidrag
+
+Nettselskapet skal fastsette og kreve inn et anleggsbidrag fra kunden for å få dekket hele eller deler av kostnadsgrunnlaget for investeringene som blir utløst når kunden:blir tilknyttet nettetfår økt kapasitetfår bedre kvalitet.
+
+Nettselskapet skal også fastsette og kreve inn et anleggsbidrag fra kunder som blir tilknyttet eller får økt kapasitet i nettanlegg som er anleggsbidragsfinansiert. Plikten gjelder i ti år fra tidspunktet kunden som utløste investeringen ble tilknyttet eller fikk økt kapasitet.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-2. Informasjon om anleggsbidrag
+
+Når kunde utløser et anleggsbidrag etter [§ 16-1](forskrift/1999-03-11-302/§16-1), skal nettselskapet vederlagsfritt og uten ugrunnet opphold gi informasjon omhjemmelsgrunnlaget for innkreving av anleggsbidragpraksis for beregning og innkreving av anleggsbidragestimert anleggsbidrag. Estimatet skal minimum inneholde en oppstilling av kostnadene fordelt på arbeids- og materialkostnader, spesifisert på hovedkomponenterat uenighet om anleggsbidrag kan bringes inn for Reguleringsmyndigheten for energi.
+
+Nettselskapet skal på forespørsel fra kunde gi innsyn i fullstendig kostnadsgrunnlag uten ugrunnet opphold.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019), endret ved [forskrift 24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 16-3. Krav til prosess
+
+Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser et anleggsbidrag i henhold til [§ 16-1](forskrift/1999-03-11-302/§16-1). Dette innebærer dokumentasjon påforespørsel fra kundetilbud med estimert anleggsbidrag til kundeakseptert avtale om tilknytning og anleggsbidraginformasjon til kunde om eventuelle endringer i estimert anleggsbidrag underveisetterberegnet anleggsbidrag.Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-4. Skriftlig avtale om anleggsbidrag
+
+Nettselskapet skal inngå skriftlig avtale om anleggsbidrag direkte med kunde.
+
+Avtalen skal spesifisere hva kunden har bestilt, estimert anleggsbidrag, og estimert tidspunkt for ferdigstillelse av nettanlegget.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-5. Beregning av anleggsbidrag
+
+Anleggsbidraget kan maksimalt være lik kostnadsgrunnlaget for nettinvesteringen minus utredningskostnader kunden har betalt etter [§ 17-5](forskrift/1999-03-11-302/§17-5) tredje ledd.
+
+Kostnadsgrunnlaget er anleggskostnad, fratrukket reinvesteringskostnader, tillagt fremskyndingskostnader og samlede utredningskostnader etter [§ 17-5](forskrift/1999-03-11-302/§17-5) tredje ledd.
+
+Kundens anleggsbidrag settes lik en andel av kostnadsgrunnlaget på hvert nettnivå. For kundens bestilling som utløser investeringer i nettanlegg der kunden er eneste bruker beregnes andelen etter [§ 16-8](forskrift/1999-03-11-302/§16-8). Andelen beregnes etter [§ 16-9](forskrift/1999-03-11-302/§16-9) for kundens bestilling som utløser investeringer i nettanlegg med flere brukere i distribusjonsnettet. Andelen beregnes etter [§ 16-9](forskrift/1999-03-11-302/§16-9) og [§ 16-10](forskrift/1999-03-11-302/§16-10) for kundens bestilling som utløser investeringer i nettanlegg med flere brukere i regional- og transmisjonsnettet.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-6. Anleggskostnad
+
+Det er kun kostnader for anlegg som kunden benytter som skal inngå i anleggskostnadene.
+
+Anleggskostnadene fastsettes på grunnlag av nettselskapets innkjøpspriser og selvkost. Bokført verdi skal legges til grunn når nettselskapet benytter brukte komponenter.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-7. Reinvesterings- og fremskyndingskostnader
+
+Reinvesteringskostnader er kostnader ved å erstatte eksisterende nettanlegg, inkludert arbeidskostnader og kostnader for nødvendig utstyr. Reinvesteringskostnaden er entengjenanskaffelsesverdien til eksisterende nettanlegg som erstattes, elleranskaffelsesverdien til nettanlegget som nettselskapet ville bygget ved reinvestering.
+
+Fremskyndingskostnader er kostnadene ved at nettanlegget erstattes før levetiden er gått ut. Fremskyndingskostnadene beregnes med formelen $$FK = RI \cdot \left[ 1 - \frac{1}{(1+k)^t} \right]$$
+
+Nettselskapene skal bruke økonomisk levetid på lavspent nettanlegg og teknisk levetid på høyspent nettanlegg.
+
+Fremskyndingskostnader skal ikke beregnes for transformatorer.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-8. Anleggsbidrag i nettanlegg der kunden er eneste bruker
+
+Kundens anleggsbidrag settes lik kostnadsgrunnlaget nårkunden er eneste bruker av nettanlegget, ognettanlegget er dimensjonert etter nettselskapets minste standard i forhold til kundens bestilte kapasitet, ognettselskapet vurderer at andre kunder ikke vil bli tilknyttet eller få økt kapasitet i nettanlegget innen ti år etter kunden som utløste investeringen ble tilknyttet eller fikk økt kapasitet.
+
+Dersom andre kunder likevel blir tilknyttet nettanlegget eller får økt kapasitet innen ti år, skal nettselskapet betale tilbake den delen av anleggsbidraget som overstiger kundens forholdsmessige andel av kostnadsgrunnlaget.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-9. Anleggsbidrag i nettanlegg med flere brukere
+
+Kundens anleggsbidrag beregnes som en forholdsmessig andel av kostnadsgrunnlaget.
+
+Kundens forholdsmessige andel beregnes som kundens etterspurte kapasitetsøkning delt på den økte kapasiteten i nettanlegget.
+
+Nettselskapet kan fordele hele kostnadsgrunnlaget på et gitt antall kunder dersom [§ 16-8](forskrift/1999-03-11-302/§16-8) bokstav b) og c) er oppfylt. Kostnadsgrunnlaget fordeles mellom de aktuelle kundene basert på kapasitetsøkningene kundene har bestilt.
+
+Dersom andre kunder likevel blir tilknyttet nettanlegget eller får økt kapasitet innen ti år, skal nettselskapet betale tilbake den delen av anleggsbidraget som overstiger hver av kundenes forholdsmessige andel av kostnadsgrunnlaget.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-10. Anleggsbidrag i regional- og transmisjonsnett
+
+Kunder med samlet avtalt kapasitet mindre enn 1 MW skal ikke betale anleggsbidrag for investeringer i regional- eller transmisjonsnett.
+
+Kostnadsgrunnlaget for investeringer i regional- og transmisjonsnettet skal multipliseres med en reduksjonsfaktor lik 0,5. Reduksjonsfaktoren skal ikke benyttes når kundens anleggsbidrag fastsettes etter [§ 16-8](forskrift/1999-03-11-302/§16-8) eller [§ 16-9](forskrift/1999-03-11-302/§16-9) tredje ledd.
+
+Kostnadsgrunnlaget for investeringer i regional- og transmisjonsnett kan begrenses i særskilte tilfeller.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-11. Etterberegning av anleggsbidraget
+
+Nettselskapet skal etterberegne anleggsbidraget etter at nettanlegget er ferdigstilt på grunnlag av faktisk påløpte kostnader.
+
+Nettselskapet skal fakturere kunden differensen når innbetalt anleggsbidrag er lavere enn etterberegnet anleggsbidrag, men maksimalt 15 prosent utover estimert anleggsbidrag. Begrensningen gjelder ikke dersom kostnadsoverskridelsen skyldes forhold på kundens side.
+
+Nettselskapet skal betale tilbake til kunden differansen mellom estimert og etterberegnet anleggsbidrag når innbetalt anleggsbidrag er høyere enn etterberegnet anleggsbidrag.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 16-12. Overgangsbestemmelse for anleggsbidrag i regional- og transmisjonsnett
+
+Nettselskapet skal ikke kreve anleggsbidrag fra innmatingskunder som utløser investeringer i regional- og transmisjonsnettet nårkunden har fått innvilget nødvendig konsesjon før 1. juli 2018, ogkunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
+
+Nettselskapet kan ikke kreve anleggsbidrag fra uttakskunder som utløser investeringer i regional- og transmisjonsnettet nårkunden har bedt nettselskapet om tilknytning, økt kapasitet eller bedre kvalitet før 1. juli 2018, ogkunden er tilknyttet, gitt økt kapasitet eller bedre kvalitet før 1. juli 2022.
+
+Kravet i første ledd bokstav b og annet ledd bokstav b gjelder ikke hvis nettselskapet ikke har oppfylt tilknytningsplikten etter [energiloven § 3-4](lov/1990-06-29-50/§3-4), [§ 3-4a](lov/1990-06-29-50/§3-4a), [forskrift 24. oktober 2019 nr. 1413 om nettregulering og energimarkedet § 3-2](forskrift/2019-10-24-1413/§3-2), [§ 3-3](forskrift/2019-10-24-1413/§3-3), eller saksbehandlingen for anleggskonsesjon i Norges vassdrags- og energidirektorat og Energidepartementet har tatt særlig lang tid.
+
+> Tilføyd ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092), endret ved [forskrifter 12 okt 2018 nr. 1597](forskrift/2018-10-12-1597), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### Kapittel 17. Andre tariffbestemmelser
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 15), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 16).
+
+### § 17-1. Produksjonsrelaterte nettanlegg
+
+Kostnadene ved produksjonsrelaterte nettanlegg skal dekkes av produsenten og ikke inngå i tariffgrunnlaget for uttak. Med produksjonsrelaterte nettanlegg menes kraftledninger og andre nettanlegg der hovedfunksjonen er overføring av kraft fra tilknyttet produksjonsanlegg til nærmeste utvekslingspunkt i nettet.
+
+Når det er tilknyttet uttak direkte til produksjonsrelaterte nettanlegg kan en rimelig andel av kostnadene ved disse anleggene inngå i tariffgrunnlaget for andre tariffledd for uttak.
+
+Andre tariffledd skal likevel ikke overstige tilsvarende tariffledd referert nærmeste tilknytningspunkt mot tilgrensende ordinære nettanlegg. Uttak fra produksjonsrelaterte nettanlegg skal avregnes energiledd jf. [§ 14-1](forskrift/1999-03-11-302/§14-1) og [§ 14-2](forskrift/1999-03-11-302/§14-2).
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 15-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 16-1), [5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006).
+
+### § 17-2. Ordinære uttak direkte fra kraftverk
+
+For uttak til distribusjonsnett direkte fra felles nettanlegg tilknyttet kraftverk hvor det over året er netto innmating mot regional- eller transmisjonsnett, skal andre tariffledd beregnes slik at hele gevinsten, sett i forhold til tariffen ved direkte tilknytning mot transmisjonsnettet, tilfaller uttaket. Kostnader i nettanlegg som kun benyttes til uttak, skal dekkes av distribusjonsnettet. Uttak skal avregnes energiledd referert tilknytningspunktet, jf. [§ 14-1](forskrift/1999-03-11-302/§14-1).
+
+> Tilføyd ved [forskrift 17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), endret ved [forskrifter 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006), [18 des 2018 nr. 2091](forskrift/2018-12-18-2091) (i kraft 1 jan 2019).
+
+### § 17-3. Reaktiv effekt
+
+Nettselskapene har enerett på salg av reaktiv effekt fra sitt nett.
+
+Prisen på reaktiv effekt skal baseres på de kostnader uttak av reaktiv effekt fra nettet påfører nettselskapet.
+
+Nettselskapene kan sette en grense for maksimalt tillatt uttak av reaktiv effekt. Kostnader for uttak under denne grense skal inngå i de generelle tariffene. Uttak over denne grense avregnes etter en egen tariff for reaktiv effekt.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 15-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 16-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002, tidligere § 17-2).
+
+### § 17-4. Betaling for andre nettjenester
+
+Nettselskapet skal fastsette og kreve inn betaling som dekkerkostnadene ved endring av eksisterende nettanlegg som utløses av andre enn nettselskapet,kostnadene når kunden ber om tjenester som normalt ikke kan forventes levertde påløpte kostnadene når kunden kansellerer bestilling om ny tilknytning, økt kapasitet eller bedre kvalitet.
+
+Nettselskapet skal følge kravene for fastsetting og innkreving av anleggsbidrag når de fastsetter og krever inn betaling etter første ledd. Kravene etter [§ 16-1](forskrift/1999-03-11-302/§16-1), [§ 16-5](forskrift/1999-03-11-302/§16-5) tredje ledd, [§ 16-8](forskrift/1999-03-11-302/§16-8), [§ 16-9](forskrift/1999-03-11-302/§16-9), [§ 16-10](forskrift/1999-03-11-302/§16-10) og [§ 16-12](forskrift/1999-03-11-302/§16-12) kommer ikke til anvendelse.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 15-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 16-3), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002, tidligere § 17-3), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 17-5. Betaling for nettutredninger i regional- og transmisjonsnett
+
+Nettselskapet skal vederlagsfritt avklare om det er driftsmessig forsvarlig å etterkomme kundens bestilling, når effektbehov og lokalisering er rimelig avklart.
+
+Nettselskapet kan ta betalt for å avklare om det er driftsmessig forsvarlig å etterkomme kundens bestilling, når kundens effektbehov og lokalisering ikke er rimelig avklart. Betalingen fastsettes på grunnlag av faktisk medgåtte kostnader.
+
+Nettselskapet skal ta betalt fra kunden for videre utredninger og utarbeidelse av konsesjonssøknad. Kunden skal dekke en forholdsmessig andel av kostnadene. Kostnadene skal være basert på selvkost.
+
+Nettselskapet skal vederlagsfritt og uten ugrunnet opphold gi informasjon omhjemmelsgrunnlaget for krav om betaling for nettutredningerpraksis for betaling for nettutredningerat uenighet om betaling for nettutredninger kan bringes inn for NVE.
+
+Nettselskapet skal dokumentere prosessen når kunden kommer med en forespørsel som utløser betaling for nettutredninger i henhold til [§ 17-5](forskrift/1999-03-11-302/§17-5). Dette innebærer dokumentasjon påforespørsel fra kundentilbud til kunden om utredningakseptert tilbud fra kunden om utredning.Nettselskapet skal oppbevare dokumentasjonen i ti år fra anlegget er spenningssatt.
+
+> Tilføyd ved [forskrift 17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), endret ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019).
+
+### § 17-6. Tariffering av særskilte tjenester
+
+Nettselskapet kan fastsette tariffer for særskilte tjenester hos kunden. Slike tariffer skal reflektere kostnadene forbundet med tjenesten.
+
+> Tilføyd ved [forskrift 5 des 2005 nr. 1470](forskrift/2005-12-05-1470) (i kraft 1 jan 2006), endret ved [forskrift 27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 17-4a).
+
+### § 17-7. Tariffer ved oppkjøp og sammenslåing
+
+Ved oppkjøp og sammenslåing av nett i tilgrensende nettområder skal det innføres like tariffer. Dersom tariffene i forkant var vesentlig forskjellig, kan ulike tariffer opprettholdes i en overgangsperiode på inntil syv år.
+
+Opprettholdes ulike tariffer etter oppkjøp eller sammenslåing, skal Reguleringsmyndigheten for energi underrettes om dette.
+
+> Tilføyd ved [forskrift 17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), endret ved [forskrifter 4 des 2015 nr. 1408](forskrift/2015-12-04-1408) (i kraft 1 jan 2016), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 17-6), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 17-8. Tariffering under rasjonering
+
+Når departementet har iverksatt rasjonering i medhold av [§ 6-2](lov/1990-06-29-50/§6-2) i [energiloven](lov/1990-06-29-50), kan rasjoneringsmyndigheten fastsette særskilte tariffer etter [energilovforskriften § 6-2c](forskrift/1990-12-07-959/§6-2c).
+
+> Tilføyd ved [forskrift 12 des 2003 nr. 1502](forskrift/2003-12-12-1502) (i kraft 1 jan 2004), endret ved [forskrifter 15 juni 2010 nr. 984](forskrift/2010-06-15-984) (i kraft 1 juli 2010), [27 juni 2018 nr. 1092](forskrift/2018-06-27-1092) (i kraft 1 jan 2019, tidligere § 17-7), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019), [8 mai 2024 nr. 752](forskrift/2024-05-08-752) (i kraft 1 juli 2024).
+
+### § 17-9. Tariff for ikke-fjernavleste måleverdier
+
+Nettselskapet kan fastsette tariff til dekning av merkostnader ved å håndtere og kontrollere måleverdiene for kunder som ikke har fjernavlest måler. Dette gjelder kun der manglende fjernavlesing skyldes forhold på kundens side.
+
+Tariff for ikke-fjernavleste måleverdier settes til 1500 kroner eksklusiv merverdiavgift per år.
+
+> Tilføyd ved forskrift [22 jan 2021 nr. 178](forskrift/2021-01-22-178) (i kraft 1 feb 2021).
+
+## Del VI. Øvrige bestemmelser
+
+> Endret ved [forskrift 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere del V).
+
+### Kapittel 18. Ikrafttreden og overgangsbestemmelser
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere kapittel 16), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere kapittel 17).
+
+### § 18-1. Pålegg
+
+Reguleringsmyndigheten for energi kan gi de pålegg som er nødvendige for gjennomføring av denne forskrift og vilkår satt i konsesjoner gitt av Reguleringsmyndigheten for energi i medhold av energiloven.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 16-1), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 17-1), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 18-1a. Overtredelsesgebyr
+
+Ved overtredelse av bestemmelsene i [§ 1-5](forskrift/1999-03-11-302/§1-5), [§ 2-1](forskrift/1999-03-11-302/§2-1), [§ 2-2](forskrift/1999-03-11-302/§2-2), [§ 2-4](forskrift/1999-03-11-302/§2-4), [§ 4-1](forskrift/1999-03-11-302/§4-1), [§ 5-1](forskrift/1999-03-11-302/§5-1) og [kapittel 13](forskrift/1999-03-11-302/kap13) til [17](forskrift/1999-03-11-302/kap17) kan det ilegges overtredelsesgebyr.
+
+> Tilføyd ved [forskrift 14 des 2006 nr. 1413](forskrift/2006-12-14-1413) (i kraft 1 jan 2007), endret ved [forskrifter 4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2020), [4 des 2019 nr. 1630](forskrift/2019-12-04-1630) (i kraft 1 jan 2021), [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).
+
+### § 18-2. Dispensasjon
+
+Reguleringsmyndigheten for energi kan i særlige tilfeller dispensere fra denne forskrift og vilkår satt i konsesjoner gitt av Reguleringsmyndigheten for energi i medhold av energiloven.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 16-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 17-2), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 18-3. (Opphevet ved forskrift 5 des 2005 nr. 1470, i kraft 1 jan 2006).
+
+### § 18-4. Klage
+
+Vedtak fattet av Reguleringsmyndigheten for energi kan påklages til Energiklagenemnda. Klagen stiles til Energiklagenemnda, og sendes til Reguleringsmyndigheten for energi til forberedende klagebehandling.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 16-3), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 17-4), [24 okt 2019 nr. 1415](forskrift/2019-10-24-1415) (i kraft 1 nov 2019).
+
+### § 18-5. Ikrafttreden
+
+Denne forskrift trer i kraft 1. april 1999.
+
+[§ 7-5](forskrift/1999-03-11-302/§7-5) femte ledd trer i kraft 1. januar 2015 med virkning første gang for akkumulert mindreinntekt beregnet på grunnlag av tillatt inntekt for 2015.
+
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 16-4), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 17-5), [4 des 2012 nr. 1137](forskrift/2012-12-04-1137) (i kraft 1 jan 2015).
+
+### § 18-6. (Opphevet)
+
+> Tilføyd ved [forskrift 18 okt 2006 nr. 1171](forskrift/2006-10-18-1171) (i kraft 1 jan 2007), opphevet ved forskrift [20 jan 2025 nr. 56](forskrift/2025-01-20-56) (i kraft 1 feb 2025).

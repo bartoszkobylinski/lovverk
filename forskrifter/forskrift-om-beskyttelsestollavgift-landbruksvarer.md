@@ -1,0 +1,100 @@
+---
+id: "sf-19981217-1448"
+slug: "forskrift-om-beskyttelsestollavgift-landbruksvarer"
+type: "forskrift"
+ref_id: "forskrift/1998-12-17-1448"
+title: "Forskrift om økning i tollavgift – beskyttelsestollavgift – på landbruksvarer"
+short_title: "Forskrift om beskyttelsestollavgift, landbruksvarer"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "1999-01-01"
+last_change_in_force: "2023-01-01"
+last_updated: "2009-09-15"
+xml_hash: "66b97068ad60e083e3f383a8d0cc24afd0231506a29933f9d39cf5f57e8e5008"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om økning i tollavgift – beskyttelsestollavgift – på landbruksvarer
+
+## § 1. Formål
+
+Formålet med beskyttelsestollavgift er å gi norske jordbruksråvarer eller bearbeidede produkter av disse, en prispreferanse i forhold til tilsvarende importert vare i de tilfeller der den ordinære tollavgiften er for lav til å sikre dette.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 2. Virkeområde
+
+Denne forskriften gjelder ileggelse av volumbasert beskyttelsestollavgift utover ordinær tollavgiftssats ved innførsel av landbruksvarer som er merket SSG i den norske bindingslisten i Verdens handelsorganisasjon (World Trade Organisation WTO), jf. Bindingsliste XIV Norge, Seksjon 1 – A Tollsatser. Volumbasert beskyttelsestollavgift ilegges i samsvar med reglene i WTO-avtalen, jf. WTO landbruksavtalen Artikkel 5.
+
+Beskyttelsestollavgift etter denne forskriften skal ikke ilegges for varer som importeres fra EF der tollavgiftsnivået er fastsatt i samsvar med handelsavtaler mellom EF og Norge. Beskyttelsestollavgift skal heller ikke ilegges for varer som importeres fra land hvor tollavgiftsnivået er fastsatt i samsvar med protokoll A i bilaterale frihandelsavtaler inngått mellom EFTA og hvert av disse landene.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 3. Forvaltningsmyndighet
+
+Landbruksdirektoratet gis myndighet til å fastsette beskyttelsestoll etter denne forskrift.
+
+Landbruksdirektoratet kan kreve informasjon om forhold som er av betydning for gjennomføring av bestemmelsene i denne forskrift.
+
+> Endret ved [forskrifter 30 juni 2000 nr. 707](forskrift/2000-06-30-707) (i kraft 1 juli 2000), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 4. Definisjoner
+
+I denne forskriften menes med:*Beskyttelsestollavgift:* Økning i tollavgiftssatsen.*Volumbasert beskyttelsestollavgift:* Beskyttelsestollavgiftssats ilagt på grunnlag av innført total mengde av et produkt.*Ordinær tollavgift:* Den maksimale WTO-bundne tollavgift, jf. [§ 10](forskrift/1998-12-17-1448/§10).*Historisk import:* Gjennomsnittlig import av et produkt i de siste tre år, slik den framkommer i Statistisk sentralbyrås importstatistikk.*Årets import:* Importvolumet for et produkt i inneværende kalenderår som er registrert i tollvesenets elektroniske tollekspedisjonssystem (TVINN), herunder import som skjer etter WTO-avtalens bestemmelser om eksisterende og ny markedsadgang.*Historisk konsum:* Gjennomsnittlig konsum av et produkt i de siste tre år det foreligger opplysninger for.*Markedsadgang:* Historisk import av et produkt i prosent av historisk konsum av det samme produktet.*Utløsningsnivå:* Årets import i prosent av historisk import.*Konsumendring:* Differansen mellom konsum i det seneste året det foreligger opplysninger for, og konsumet i året forut for dette.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 5. Vilkår for ileggelse av volumbasert beskyttelsestollavgift
+
+Volumbasert beskyttelsestollavgift kan innføres når:årets import er 125 prosent eller mer av historisk import, ellerårets import er 110 prosent eller mer av historisk import, og markedsadgangen for et produkt er større enn 10 prosent men mindre enn eller lik 30 prosent, ellerårets import er 105 prosent eller mer av historisk import, og markedsadgangen for et produkt er større enn 30 prosent.
+
+Volumbasert beskyttelsestollavgift kan i tillegg innføres når årets import overstiger volumendring i innenlandsk konsum summert med ett av utløsningsnivåene (respektive 125, 110, 105 prosent eller mer, gitt forutsetninger om markedsadgang) nevnt i første ledd multiplisert med historisk import. Dette gjelder likevel ikke dersom årets import er mindre enn 105 prosent av historisk import.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 6. Nivå og varighet
+
+Volumbasert beskyttelsestollavgiftssats kan ikke overstige en tredjedel av den ordinære tollavgiften som gjelder for det året tiltaket ble truffet for.
+
+Beskyttelsestollavgiftssatsen for et produkt kan maksimalt ilegges for resten av det kalenderåret beskyttelsestollavgiften blir iverksatt.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 7. Unntak
+
+Beskyttelsestollavgift skal ikke ilegges import som skjer etter bestemmelsene i WTO-avtalen om ny eller eksisterende markedsadgang, jf. Bindingsliste XIV Norge Seksjon 1 – B Importkvoter. Denne importen skal imidlertid medregnes i importert mengde i året.
+
+Enhver forsendelse som er underveis i henhold til kontrakt som kan dokumenteres inngått før volumbasert beskyttelsestollavgift ble kunngjort, skal være fritatt for beskyttelsestollavgift.
+
+En forsendelse som blir fritatt for beskyttelsestollavgift etter andre ledd skal medregnes i importert mengde av det aktuelle produktet i det påfølgende år og vil bli lagt til for utløsning av beskyttelsestollavgift i dette året.
+
+For å få fritak etter andre ledd må importøren framlegge tillatelse til fritak fra økning i tollavgiftssats. Søknad om fritak sendes Landbruksdirektoratet som skal utstede tillatelse på bakgrunn av framlagt dokumentasjon.
+
+> Endret ved [forskrifter 30 juni 2000 nr. 707](forskrift/2000-06-30-707) (i kraft 1 juli 2000), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 8. Særskilte bestemmelser for lett bedervelige og sesongbetonte varer
+
+For lett bedervelige og sesongbetonte varer, fastsettes beskyttelsestollavgiften slik at det tas hensyn til produktenes særlige egenskaper.
+
+> Endret ved forskrift [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 9. Kunngjøring
+
+Når det fattes vedtak om beskyttelsestollavgift skal Landbruksdirektoratet umiddelbart kunngjøre dette gjennom forskrift. Forskriften skal inneholde opplysninger om størrelsen på beskyttelsestollavgiften og perioden vedtaket gjelder for.
+
+Det skal gå minst 2 virkedager fra vedtaket om iverksettelse av beskyttelsestollavgift fattes og til det blir iverksatt.
+
+> Endret ved [forskrifter 30 juni 2000 nr. 707](forskrift/2000-06-30-707) (i kraft 1 juli 2000), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [15 des 2022 nr. 2269](forskrift/2022-12-15-2269) (i kraft 1 jan 2023).
+
+## § 10. Overgangsbestemmelse
+
+I 1999 skal ordinær tollavgift, jf. [§ 4](forskrift/1998-12-17-1448/§4) nr. 3, ved beregning av beskyttelsestoll være den maksimale WTO-bundne tollavgift for år 2000.
+
+## § 11. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 1999.

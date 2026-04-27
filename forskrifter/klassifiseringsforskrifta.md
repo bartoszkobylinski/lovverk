@@ -1,0 +1,170 @@
+---
+id: "sf-20120910-0866"
+slug: "klassifiseringsforskrifta"
+type: "forskrift"
+ref_id: "forskrift/2012-09-10-866"
+title: "Forskrift om klassifisering og sikring av anlegg i elektroniske kommunikasjonsnett (klassifiseringsforskrifta)"
+short_title: "Klassifiseringsforskrifta"
+language: "no"
+ministry:
+  - "Digitaliserings- og forvaltningsdepartementet"
+date_in_force: "2013-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2024-01-04"
+xml_hash: "cd8e21cff200b2f043cc2e1c813eb184fa85c80d91254019b786f0796ae81d43"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om klassifisering og sikring av anlegg i elektroniske kommunikasjonsnett (klassifiseringsforskrifta)
+
+## § 1. Formål
+
+Forskrifta sitt formål er å sikre nettutstyr i anlegg mot uønskt ytre fysisk påverknad for at tilbydar skal kunne tilby elektronisk kommunikasjonsnett- og teneste med forsvarleg sikkerheit for brukarane i fred, krise og krig.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 2. Virkeområde
+
+Forskrifta gjeld nettilbydarar.
+
+Nasjonal kommunikasjonsmyndigheit kan treffe vedtak om at andre som omfattast av [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomlova)](lov/2024-12-13-76) også skal omfattast av forskrifta.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 3. Definisjonar
+
+I denne forskrifta meinast med:*nettilbydar:* tilbydar av elektroniske kommunikasjonsnett som nyttast til offentleg elektronisk kommunikasjonsteneste.*nettutstyr:* utstyr som nyttast til elektronisk kommunikasjon og som inngår som ein integrert del av elektroniske kommunikasjonsnett.*anlegg:* fysisk konstruksjon som huser nettutstyr, og som utgjer ein naturleg heilskap, som til dømes eit fjell-/bunkeranlegg, ei bygning, ein avgrensa del av ei bygning, eller ei mast.*to-faktor autentisering:* autentisering av personell ved hjelp av to av faktorane «noko personen har», «noko personen veit» og «noko personen er».*EMP/HPM-våpen:* våpen basert på elektromagnetisk puls (EMP) eller høgfrekvent radiostråling (HPM).*hjelpeteknisk utstyr:* straumforsyningsutstyr, reservestraumforsyning og kjøleutstyr som er fast installert i anlegg, eller tilrettelagt for å bli installert i anlegg, for drift av nettutstyr.
+
+## § 4. Klassifisering
+
+Nettilbydar skal klassifisere alle anlegg ut i frå kor viktig eiget nettutstyr i anlegget vurderast å vere for offentlege elektroniske kommunikasjonstenester. Anlegga skal klassifiserast i fire klassar:Klasse AAnlegg som omfattast av [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven)](lov/2018-06-01-24).Klasse BAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på landsdelsnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse CAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på fylkesnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse DAnlegg som ikkje er omfatta av klassane A, B eller C.
+
+Med anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester meinast mellom anna anlegg med nettutstyr som er kritisk for:samtrafikk med elektroniske kommunikasjonsnett i utlandet,samtrafikk med nasjonale/regionale elektroniske kommunikasjonsnett,sentral dirigering og styring av elektronisk kommunikasjon,sentrale oppslags-, registrerings- eller databasetenester,kringkasting, ellerdrift og overvaking av utstyr nemnt i punkt 1.–5.
+
+Nettilbydar skal revidere klassifiseringa minst årleg.
+
+I særlege tilfelle kan Nasjonal kommunikasjonsmyndigheit gjennom vedtak gjere om nettilbydar si klassifisering av anlegg.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 5. Generelle krav til sikring
+
+Nettilbydar skal på forsvarleg måte sikre nettutstyr i anlegg mot uønskt ytre fysisk påverknad. Omfanget av sikringstiltak skal vere basert på ei dokumentert heilskapleg risiko- og sårbarheitsvurdering.
+
+Sikringstiltak på og i anlegg skal minst oppfylle krava gitt i [§ 6](forskrift/2012-09-10-866/§6) – § 12.
+
+Nasjonal kommunikasjonsmyndigheit kan pålegge at nettilbydar gjennomfører tiltak som går utover krava i [§ 6](forskrift/2012-09-10-866/§6) – § 12 dersom det er nødvendig for å oppfylle kravet til forsvarleg sikring, jf. første ledd.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 6. Skalsikring
+
+Nettilbydar skal gjennom forsvarleg skalsikring av anlegg hindre at uvedkommande kan ta seg fram til eller påføre skade på nettutstyr.
+
+Anlegg i klasse A, B og C skal ha skalsikring tilpassa anlegget sin klasse basert på relevante og forsvarlege normer eller standardar.
+
+For anlegg i klasse A, B og C skal nettilbydar ha dokumenterte krav til etablering av skalsikring og dokumenterte rutinar for vedlikehald av skalsikringa.
+
+## § 7. Tilgangskontroll og innbrotsalarm
+
+Nettilbydar skal gjennom forsvarleg tilgangskontroll på anlegg sørgje for at personelltilgang til nettutstyr styrast av tenestlege behov.
+
+Anlegg i klasse A, B og C skal ha tilgangskontrollsystem tilpassa anlegget sin klasse og omfang av personelltilgang, og som er basert på relevante og forsvarlege normer eller standardar. Tilgangskontrollsystemet skal minst vere basert på to-faktor autentisering.
+
+Anlegg i klasse A, B og C skal ha innbrotsalarmsystem tilpassa anlegget sin klasse og omfang av skalsikring, basert på relevante og forsvarlege normer eller standardar. I innbrotsalarmsystemet skal det inngå responsapparat med moglegheit for utrykking.
+
+For anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte drifts- og vedlikehaldsrutinar for tilgangskontroll- og innbrotsalarmsystema som inkluderer rutinar for å handtere systemsvikt og straumbrot.
+
+## § 8. Brannsikring
+
+Nettilbydar skal gjennom forsvarleg brannsikring på anlegg hindre skade på nettutstyr som følgje av brann.
+
+Anlegg i klasse A, B og C skal ha brannvarslings- og brannslukkingssystem tilpassa anlegget sin klasse, fysiske utforming og omgjevnad, basert på relevante og forsvarlege normer eller standardar.
+
+For anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte drifts- og vedlikehaldsrutinar for brannvarslings- og brannslukkingssystemet som inkluderer rutinar for å handtere systemsvikt og straumbrot.
+
+## § 9. Sikring mot EMP/HPM-våpen
+
+Nettilbydar skal oppretthalde eksisterande sikring av nettutstyr mot EMP/HPM-våpen i anlegg i klasse A, B og C. Reduksjon av sikringsnivå kan godkjennast av Nasjonal kommunikasjonsmyndigheit.
+
+Før etablering av nytt anlegg, eller ombygging av eksisterande anlegg, i klasse A eller B, skal nettilbydar legge fram for Nasjonal kommunikasjonsmyndigheit ei kvalifisert vurdering av aktuelle sikringstiltak mot EMP/HPM-våpen.
+
+Nasjonal kommunikasjonsmyndigheit kan pålegge nettilbydar å sikre nettutstyr mot EMP/HPM-våpen.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 10. Hjelpeteknisk utstyr
+
+Nettilbydar skal sørgje for forsvarleg driftssikkerheit til hjelpeteknisk utstyr.
+
+Anlegg i klasse A og B skal ha tilgang til tilstrekkeleg hjelpeteknisk utstyr i reserve for å oppretthalde drift av nettutstyr ved svikt i det hjelpetekniske utstyret.
+
+Anlegg i klasse A og B skal ha reservestraumforsyning som utan avbrot kan forsyne nettutstyr med tilstrekkeleg straum i minst tre døgn. Anlegg i klasse C skal ha reservestraumforsyning som utan avbrot kan forsyne nettutstyr med tilstrekkeleg straum i minst to døgn.
+
+For anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte og forsvarlege drifts- og vedlikehaldsrutinar for hjelpeteknisk utstyr, som inkluderer rutinar for å handtere systemsvikt og eventuell transport av drivstoff og mobilt utstyr.
+
+## § 11. Lokalisering
+
+Nettilbydar skal ved etablering av anlegg lokalisere anlegget slik at risikoen for skade på nettutstyr frå omgjevnadane blir minst mogleg.
+
+For anlegg i klasse A og B, og ved etablering av nytt anlegg i klasse A eller B, skal nettilbydar også innhente relevant dokumentasjon om risikoen for skade på nettutstyr frå omgjevnadane, som inkluderer risiko- og sårbarheitsvurderingar gjennomført av lokale beredskapsmyndigheiter.
+
+Der anlegg i klasse A og B likevel er, eller vil bli, etablert i omgjevnadar som medfører høg risiko for skade på nettutstyr skal nettilbydar sikre anlegget særskilt mot den identifiserte risikoen.
+
+## § 12. Samlokalisering
+
+Dersom det på anlegg i klasse A, B eller C er samlokalisering, skal nettilbydar gjennomføre ei dokumentert og forsvarleg vurdering av om eiget nettutstyr i anlegget skal sikrast særskilt mot ytre fysisk påverknad frå andre samlokaliseringsaktørar. Vurderinga kan ta omsyn til sikringstiltaka elles på anlegget.
+
+Nettilbydar skal sikre eiget nettutstyr i samsvar med vurderinga i første ledd.
+
+## § 13. Eksterne aktørar
+
+Der andre aktørar på vegne av nettilbydar utfører tiltak etter [§ 5](forskrift/2012-09-10-866/§5) – § 12 på anlegg i klasse A, B eller C, er nettilbydar ansvarleg for at det ligg føre skriftlege avtalar som sikrar utføringa av desse tiltaka. Slike avtalar skal ikkje vere til hinder for at nettilbydar eller Nasjonal kommunikasjonsmyndigheit kan føre tilsyn med utføringa av tiltaka.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 14. Rapportering
+
+Nettilbydar skal rapportere til Nasjonal kommunikasjonsmyndigheit oversyn over anlegga i klassane A, B og C, inkludert vurderinga som ligg til grunn for klassifiseringa. Rapportering skal skje ved den første klassifiseringa og deretter når Nasjonal kommunikasjonsmyndigheit krev det. Nasjonal kommunikasjonsmyndigheit kan fastsette retningslinjer for rapporteringa.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 15. Tilsyn, pålegg og sanksjonar
+
+Nasjonal kommunikasjonsmyndigheit fører tilsyn med føresegnene i denne forskrifta, jf. [ekomlova § 15-1](lov/2024-12-13-76/§15-1).
+
+Nasjonal kommunikasjonsmyndigheit kan gi pålegg om retting av forhold for å sikre samsvar med krav fastsett i denne forskrifta, jf. [ekomlova § 15-5](lov/2024-12-13-76/§15-5).
+
+Brot på krava i denne forskrifta kan føre til tvangsmulkt, jf. [ekomlova § 15-11](lov/2024-12-13-76/§15-11), brotsgebyr, jf. [ekomlova § 15-12 første ledd bokstav b](lov/2024-12-13-76/§15-12/ledd/1/bokstav/b). eller straff, jf. [ekomlova § 15-14](lov/2024-12-13-76/§15-14).
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 16. Dispensasjon
+
+Nasjonal kommunikasjonsmyndigheit kan i særlege tilfelle gjere unntak frå forskrifta eller frå føresegner i denne forskrifta.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 17. Klageinstans
+
+Klage over enkeltvedtak fatta av Nasjonal kommunikasjonsmyndigheit i medhald av denne forskrifta avgjerast av departementet, jf. [ekomlova §§ 16-6 syvende ledd](lov/2024-12-13-76/§16-6/ledd/7) og [16-7](lov/2024-12-13-76/§16-7).
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).
+
+## § 18. Ikraftsetjing
+
+Forskrifta trer i kraft 1. januar 2013.
+
+## § 19. Fristar for gjennomføring
+
+Klassifisering, jf. [§ 4](forskrift/2012-09-10-866/§4), og rapportering, jf. [§ 14](forskrift/2012-09-10-866/§14), skal vere gjennomført seinast 1. april 2013.
+
+Tiltak etter [§ 5](forskrift/2012-09-10-866/§5) – § 13 skal vere gjennomført seinast 1. juli 2014.
+
+Nasjonal kommunikasjonsmyndigheit kan gi utsetjing med å oppfylle krava i denne forskrifta.
+
+> Endra ved forskrift [20 des 2024 nr. 3423](forskrift/2024-12-20-3423) (i kraft 1 jan 2025).

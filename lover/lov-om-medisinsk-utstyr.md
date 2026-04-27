@@ -1,0 +1,140 @@
+---
+id: "nl-20200507-037"
+slug: "lov-om-medisinsk-utstyr"
+type: "lov"
+ref_id: "lov/2020-05-07-37"
+title: "Lov om medisinsk utstyr"
+short_title: "Lov om medisinsk utstyr"
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2020-05-07"
+last_change_in_force: "2026-01-01"
+last_updated: "2023-02-16"
+xml_hash: "ce5aa7fa336fae6d10528f8eb8d096ae7baece735915975b2b3ae6767d7bbb3d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om medisinsk utstyr
+
+## § 1. Gjennomføring av forordningene om medisinsk utstyr
+
+Forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 11, gjelder som lov. Forordningen gjelder med tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2020/561](eu/32020r0561)forordning [(EU) 2023/502](eu/32023r0502)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2023/2197](eu/32023r2197)
+
+Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12, gjelder som lov. Forordningen gjelder med tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2022/112](eu/32022r0112)forordning [(EU) 2023/503](eu/32023r0503)forordning [(EU) 2023/607](eu/32023r0607)
+
+Departementet kan gi forskrift om gjennomføring og utfylling av forordningene gjennomført i første og andre ledd. Departementet kan også gi forskrift om endringer av forordningene i samsvar med rettsakter som vedtas av EU-kommisjonen og innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl).
+
+> Endret ved lover [20 des 2024 nr. 97](lov/2024-12-20-97), [20 juni 2025 nr. 76](lov/2025-06-20-76) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1121](forskrift/2025-06-20-1121)).
+
+## § 2. Saklig virkeområde
+
+Utover virkeområdet som følger av [§ 1](lov/2020-05-07-37/§1), gjelder loven også for bruk av medisinsk utstyr.
+
+Den myndigheten som departementet utpeker, kan i tvilstilfelle avgjøre om et produkt skal regnes som medisinsk utstyr.
+
+Departementet kan gi forskrift om bruk av medisinsk utstyr, blant annet om kvalifikasjoner og krav til slik bruk, og om hvilke produkter som skal regnes som medisinsk utstyr.
+
+## § 3. Stedlig virkeområde
+
+Loven gjelder for norske luft- og sjøfartøy og innretninger på norsk kontinentalsokkel.
+
+Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og at det skal gjelde særlige regler under hensyn til de stedlige forholdene.
+
+## § 4. Etikett og bruksanvisning
+
+Departementet kan gi forskrift om at dokumentasjon, informasjon og bruksanvisning som skal følge medisinsk utstyr, skal gis på bestemte språk.
+
+## § 5. Reklame
+
+Departementet kan gi forskrift om reklame for medisinsk utstyr.
+
+## § 6. Reprosessering av medisinsk engangsutstyr
+
+Departementet kan gi forskrift om reprosessering av medisinsk engangsutstyr.
+
+## § 7. Registrering og rapportering
+
+Departementet kan gi forskrift om plikt til registrering for produsent, autorisert representant, distributør, importør og bruker av medisinsk utstyr.
+
+Departementet kan gi forskrift om registrering av medisinsk utstyr som omsettes eller brukes.
+
+## § 8. Eiers og brukers meldeplikt om hendelser, feil eller svikt
+
+Departementet kan gi forskrift om meldeplikt for eiere og brukere av medisinsk utstyr.
+
+## § 9. Tilbakeholdelse, beslagleggelse og destruksjon
+
+Medisinsk utstyr som importeres i strid med denne loven eller forskrift gitt i medhold av denne loven, kan tilbakeholdes, beslaglegges og destrueres.
+
+Ved tilbakehold skal mottakeren varsles om at det medisinske utstyret vil bli vurdert beslaglagt og destruert og gis mulighet til å uttale seg i saken innen en nærmere angitt frist.
+
+Tiltak etter første ledd kan gjennomføres for mottakerens regning. Skyldig beløp er tvangsgrunnlag for utlegg.
+
+## § 10. Avgift og gebyrer
+
+Departementet kan pålegge markedsaktører som nevnt i [§ 7](lov/2020-05-07-37/§7) og tekniske kontrollorgan, jf. [lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar § 1](lov/1994-06-16-20/§1), å dekke utgifter ved tilsyn og kontroll etter denne loven. Departementet kan gi forskrift om rapporteringsplikt for markedsaktører etter første punktum om opplysninger som er nødvendige for å ivareta formålet.
+
+Departementet kan gi forskrift om gebyr for behandling av søknad om klinisk utprøving og ytelsesevaluering av medisinsk utstyr.
+
+Departementet kan gi forskrift om beregning, innkreving og innbetaling av avgift og gebyr etter første og annet ledd.
+
+Ved forsinket betaling skal det betales rente i samsvar med [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling](lov/1976-12-17-100). Avgift og gebyr etter denne loven er tvangsgrunnlag for utlegg.
+
+## § 11. Tilsyn
+
+Departementet fastsetter hvem som er kompetent myndighet etter Europaparlaments- og rådsforordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr artikkel 101 og Europaparlaments- og rådsforordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr artikkel 96. Denne myndigheten fører tilsyn med etterlevelsen av de kravene som følger av [§ 1](lov/2020-05-07-37/§1).
+
+Den myndigheten som departementet utpeker, fører tilsyn med etterlevelsen av kravene i lovbestemmelsene som ikke er tillagt kompetent myndighet etter første ledd.
+
+Tilsynsmyndighetene kan innhente nødvendige opplysninger og kreve at markedsaktørene og brukere legger fram dokumentasjon på at lovens krav er oppfylt.
+
+Dersom utstyr kan medføre fare for folkehelsen, eller noens helse eller sikkerhet, eller nødvendig dokumentasjon ikke kan fremskaffes, kan tilsynsmyndigheten iverksette nødvendige tiltak for å sikre at medisinsk utstyr til enhver tid er sikkert, vedlikeholdes korrekt og brukes forsvarlig i samsvar med sitt formål. Nødvendige tiltak kan blant annet omfatte krav om retting, midlertidig stans av virksomhet og forbud mot markedsføring.
+
+Tilsynsmyndighetene gir de pålegg og treffer de enkeltvedtak som ellers er nødvendige for gjennomføringen av tilsynet, dette kan blant annet omfatte krav om retting, midlertidig stans av virksomhet og forbud mot markedsføring.
+
+Departementet kan gi forskrift om tilsynet etter denne bestemmelsen.
+
+## § 12. Tvangsmulkt
+
+I pålegg gitt etter denne loven kan det fastsettes en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Tvangsmulkten kan også fastsettes som engangsmulkt.
+
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+## § 13. Overtredelsesgebyr
+
+Departementet kan gi forskrift om at den som overtrer nærmere angitte bestemmelser i forordningene nevnt i [§ 1](lov/2020-05-07-37/§1), eller som overtrer nærmere angitte handlingsnormer fastsatt i forskrift gitt i medhold av loven her, kan ilegges overtredelsesgebyr.
+
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser.
+
+Departementet kan gi forskrift om hvilke hensyn det kan eller skal legges vekt på ved vurderingen av om overtredelsesgebyr skal ilegges.
+
+Departementet kan gi forskrift om utmåling og betaling av overtredelsesgebyr, blant annet om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.
+
+Adgangen til å ilegge overtredelsesgebyr foreldes etter 2 år. Fristen regnes fra tidspunktet overtredelsen fant sted. Fristen avbrytes ved at tilsynsmyndigheten gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr. Departementet kan gi forskrift om foreldelse, blant annet om unntak fra bestemmelsene om foreldelsesfrist og fristavbrudd for særlige typer overtredelser.
+
+## § 14. Straff
+
+Departementet kan gi forskrift om at den som forsettlig eller uaktsomt overtrer nærmere angitte bestemmelser i forordningene nevnt i [§ 1](lov/2020-05-07-37/§1), eller som overtrer nærmere angitte handlingsnormer fastsatt i forskrift eller enkeltvedtak gitt i medhold av loven her, straffes med bøter eller fengsel inntil 3 måneder. Ved grov overtredelse kan straffen være bøter eller fengsel inntil 2 år.
+
+## § 15. Dispensasjon
+
+Departementet kan gi forskrift om dispensasjon fra bestemmelser gitt i eller i medhold av loven her.
+
+## § 16. Ikrafttredelse, opphevelse og overgangsbestemmelser
+
+Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+[Lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6) oppheves fra den tid Kongen bestemmer. Kongen kan oppheve de enkelte bestemmelsene til forskjellig tid.
+
+Forskrifter og delegeringer som er gitt med hjemmel i [lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6), gjelder inntil Kongen bestemmer noe annet.
+
+Kongen kan gi forskrift om ytterligere overgangsbestemmelser.
+
+## § 17. Endringer i andre lover
+
+Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover:

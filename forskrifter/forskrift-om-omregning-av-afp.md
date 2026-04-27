@@ -1,0 +1,54 @@
+---
+id: "sf-20101130-1494"
+slug: "forskrift-om-omregning-av-afp"
+type: "forskrift"
+ref_id: "forskrift/2010-11-30-1494"
+title: "Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv."
+short_title: "Forskrift om omregning av AFP"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2011-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: null
+xml_hash: "f8c411e350dafa6085f82a0eaee702ff6d398b6c13f074a8ca8c11fd19b24589"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv.
+
+## § 1. Anvendelsesområde
+
+Forskriften kommer til anvendelse dersom avtalefestet pensjon under utbetaling etter [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3](lov/2010-06-25-28/§3) bokstav a og b, jf. [folketrygdloven kapittel 3](lov/1997-02-28-19/kap3) skal regnes om ved endring i sivilstand mv. eller dersom pensjonen utgjør et lavere beløp enn minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8). Forskriften kommer også til anvendelse dersom pensjon som nevnt i første punktum skal regnes om ved endring i satsene for grunnpensjon etter folketrygdloven [§ 3-2](lov/1997-02-28-19/§3-2) med virkning fra 1. september 2016.
+
+> Endret ved [forskrift 30 juni 2016 nr. 852](forskrift/2016-06-30-852) (i kraft 1 sep 2016).
+
+## § 2. Beregning av ny pensjon
+
+Det beregnes først hva grunnpensjon, tilleggspensjon og/eller særtillegg utgjør etter endring omfattet av [§ 1](forskrift/2010-11-30-1494/§1).
+
+Deretter beregnes en faktor som uttrykker forholdet mellomgrunnpensjon, tilleggspensjon og særtillegg som utbetales på omregningstidspunktet, oggrunnpensjon, tilleggspensjon og særtillegg før endring.
+
+Ny grunnpensjon, tilleggspensjon og/eller særtillegg framkommer ved at pensjonen etter første ledd multipliseres med faktoren som fastsatt i andre ledd, begrenset til de komponentene av pensjonen som endres, slik at dersom grunnpensjonen endres etter omregningen i første ledd, multipliseres grunnpensjonen med faktoren, og så videre.
+
+Ved beregningen av faktoren i andre ledd legges pensjonen før anvendelse av [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3](lov/2010-06-25-28/§3) bokstav c til grunn.
+
+> Endret ved [forskrift 30 juni 2016 nr. 852](forskrift/2016-06-30-852) (i kraft 1 sep 2016).
+
+## § 3. Minstenivåtillegg
+
+Dersom pensjonisten mottar AFP som ikke er redusert på grunn av arbeidsinntekt, og pensjon under utbetaling utgjør et lavere beløp enn det minste pensjonsnivå vedkommende ville hatt rett til etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje, fjerde, femte og sjette ledd bokstav b som alderspensjonist, skal differansen utbetales som et tillegg til pensjonen (minstenivåtillegg). Med pensjon under utbetaling menes pensjon etter regulering og etter anvendelse av regelen i [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3 bokstav c](lov/2010-06-25-28/§3/bokstav/c), uten avtalefestede tillegg.
+
+> Endret ved [forskrifter 30 juni 2016 nr. 852](forskrift/2016-06-30-852) (i kraft 1 sep 2016), [8 nov 2024 nr. 2702](forskrift/2024-11-08-2702) (i kraft 1 jan 2025).
+
+## § 4. Anvendelsen av lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3 bokstav c (70-prosentregelen)
+
+Ved reduksjon av pensjonen etter [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3](lov/2010-06-25-28/§3) bokstav c skal eventuelt minstenivåtillegg etter [§ 3](lov/2010-06-25-28/§3) settes ned først. Dersom dette ikke er tilstrekkelig, skal ytterligere reduksjon i pensjonen fordeles forholdsmessig på grunnpensjon, særtillegg, tilleggspensjon og eventuelle avtalefestede tillegg.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2011.

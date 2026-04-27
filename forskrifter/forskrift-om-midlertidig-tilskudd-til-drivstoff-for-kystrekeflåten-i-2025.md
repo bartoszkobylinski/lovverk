@@ -1,0 +1,54 @@
+---
+id: "sf-20241220-3492"
+slug: "forskrift-om-midlertidig-tilskudd-til-drivstoff-for-kystrekeflåten-i-2025"
+type: "forskrift"
+ref_id: "forskrift/2024-12-20-3492"
+title: "Forskrift om midlertidig tilskudd til drivstoff for kystrekeflåten i 2025"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2025-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "67aa80dc25c6d8b5c1856c9458f595c6b1e5d1383fb7a38faec96629c57180ec"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om midlertidig tilskudd til drivstoff for kystrekeflåten i 2025
+
+## § 1. Formål
+
+Formålet med ordningen er å bidra til å avhjelpe den krevende likviditetssituasjonen for merkeregistrerte fartøy i kystrekeflåten i 2025 ved å redusere kostnadsbyrden som følge av ekstraordinære utgifter til drivstoff.
+
+## § 2. Vilkår for tilskudd
+
+Følgende fartøy kan søke om tilskudd til drivstoffutgifter til norsk avgiftsbelagt drivstoff som er bunkret i 2025:Fartøy som i henhold til [forskrift 17. desember 2020 nr. 2950 om midlertidig tilskudd som kompensasjon for CO2-avgift til fartøy som driver fiske og fangst i nære farvann](forskrift/2020-12-17-2950), inngikk i kystrekeflåten for året 2024.Fartøy som ikke omfattes av punkt a, men som dokumenterer at inntekten fra reke- og sjøkrepsfisket i sum overstiger 50 % av fangstverdien som bunkringen av drivstoff er opphav til.
+
+Det kan søkes om tilskudd inntil 12 ganger og første søknad kan sendes fra og med februar 2025.
+
+## § 3. Tildelingsmyndighet
+
+Søknad om tilskudd sendes til Garantikassen for fiskere. Garantikassen kan i særlige tilfeller dispensere fra vilkårene i denne forskriften og kan fastsette nærmere krav til søknaden.
+
+Garantikassen kan innhente de opplysninger som er nødvendig for å kontrollere om vilkårene for tilskuddet er oppfylt.
+
+## § 4. Tilskuddet
+
+Det gis tilskudd med 4 kroner per fylte liter drivstoff.
+
+Tildeling av tilskudd foretas så lenge det er gjenstående midler i ordningen forutsatt at bunkringen av drivstoff er gjort i 2025. Dersom det er flere søknader enn det de gjenstående midlene i ordningen kan imøtekomme, skal søknadene prioriteres etter når de er kommet inn til Garantikassen. Gjenstår det midler i ordningen ved utløpet av 2025, kan Garantikassen fastsette en endelig søknadsfrist. Garantikassen kan deretter fordele gjenværende midler på de søkere som har blitt innvilget tilskudd for bunkringer gjort i 2025. Fordelingen skal skje på grunnlag av antall fylte liter som det er gitt tilskudd for.
+
+Tilskudd som er utbetalt på grunnlag av uriktige opplysninger kan kreves tilbakebetalt.
+
+## § 5. Klage
+
+Fiskeridirektoratet er klageinstans for vedtak om tildeling av tilskudd. Klage skal sendes til Garantikassen for fiskere.
+
+## § 6. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2025.

@@ -1,0 +1,74 @@
+---
+id: "sf-20031214-1572"
+slug: "forskrift-om-klagenemnda-for-miljøinformasjon"
+type: "forskrift"
+ref_id: "forskrift/2003-12-14-1572"
+title: "Forskrift om Klagenemnda for miljøinformasjon"
+short_title: "Forskrift om Klagenemnda for miljøinformasjon"
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2004-01-01"
+last_change_in_force: "2014-01-01"
+last_updated: null
+xml_hash: "3dcfe22cbbff10e1fea649c5475ef5981520c7c50d76f7c95f30f9f93c53cbca"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om Klagenemnda for miljøinformasjon
+
+## § 1.
+
+Klagenemnda for miljøinformasjon (Klagenemnda) er et uavhengig organ, administrativt underlagt Klima- og miljødepartementet. Klagenemnda bistås i sitt arbeide av et sekretariat opprettet eller engasjert av Klima- og miljødepartementet.
+
+> Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+## § 2.
+
+Klagenemnda avgjør klager i henhold til § 19 i [lov av 9. mai 2003 nr. 31](lov/2003-05-09-31/§19) om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet.
+
+## § 3.
+
+Klage over avslag på et krav om miljøinformasjon skal gjøres skriftlig til Klagenemnda. Det skal fremgå hvilken virksomhet klagen retter seg mot og hvilken miljøinformasjon som begjæres fremlagt. Klagen bør inneholde en nærmere begrunnelse for hvorfor klageren mener at avslaget på kravet er urettmessig.
+
+## § 4.
+
+Straks Klagenemnda mottar en klage skal den virksomhet som klagen retter seg mot underrettes om klagen. Virksomheten skal innenfor en fastsatt frist gis mulighet til å uttale seg om klagen, med mindre dette åpenbart er unødvendig.
+
+Så snart saken er tilstrekkelig opplyst skal Klagenemnda treffe sin avgjørelse.
+
+## § 5.
+
+Klagenemnda er beslutningsdyktig når leder eller nestleder og to av medlemmene deltar i behandlingen av en sak. Det ene av de to medlemmene skal ha bakgrunn fra næringslivet, mens det andre medlemmet skal ha bakgrunn fra henholdsvis miljø-, medie- eller forbrukersiden. Klagenemndas leder eller nestleder avgjør hvem av nemndas medlemmer som skal tjenestegjøre i den enkelte sak. Medlemmene forutsettes å skulle tjenestegjøre etter tur, med mindre særlige grunner tilsier noe annet.
+
+Klagenemndas leder, eller i dennes fravær, nestleder kan treffe beslutning om at samtlige av nemndas medlemmer tjenestegjør i saker for Klagenemnda. Kan ett av Klagenemndas medlemmer med bakgrunn fra næringslivet, miljø-, medie- eller forbrukersiden ikke delta i behandlingen av en slik sak, skal nemndas leder, eller i dennes fravær, nestleder treffe beslutning om at ett av de øvrige medlemmene skal fratre i saken, slik at balansen i Klagenemndas interesserepresentasjon opprettholdes. Ved stemmelikhet avgjør lederens, eller i dennes fravær, nestlederens dobbeltstemme.
+
+## § 6.
+
+Bestemmelsene i lov av 16. februar 1967 om behandlingsmåten i forvaltningssaker om inhabilitet og taushetsplikt gjelder for enhver som deltar i behandlingen av en sak for Klagenemnda.
+
+## § 7.
+
+Klagenemndas vedtak skal offentliggjøres på den måten Klagenemnda finner mest hensiktsmessig.
+
+## § 8.
+
+Klagenemnda kan fastsette nærmere retningslinjer for sin saksbehandling.
+
+## § 9.
+
+Klagenemnda skal en gang pr. år utarbeide en melding til Klima- og miljødepartementet om sin virksomhet.
+
+> Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+## § 10.
+
+Parter i en tvist for namsmyndigheten eller i et søksmål for domstolene om rett til miljøinformasjon etter lovens kapittel 4 er den som har fremsatt det omtvistede kravet og den virksomhet dette retter seg mot.
+
+## § 11.
+
+Denne forskriften trer i kraft fra 1. januar 2004.

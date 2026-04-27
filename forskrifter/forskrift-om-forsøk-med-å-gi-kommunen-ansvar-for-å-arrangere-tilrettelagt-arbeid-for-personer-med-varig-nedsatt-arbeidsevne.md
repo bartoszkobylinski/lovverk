@@ -1,0 +1,78 @@
+---
+id: "sf-20171220-2308"
+slug: "forskrift-om-forsøk-med-å-gi-kommunen-ansvar-for-å-arrangere-tilrettelagt-arbeid-for-personer-med-varig-nedsatt-arbeidsevne"
+type: "forskrift"
+ref_id: "forskrift/2017-12-20-2308"
+title: "Forskrift om forsøk med å gi kommunen ansvar for å arrangere tilrettelagt arbeid for personer med varig nedsatt arbeidsevne"
+short_title: "Forskrift om forsøk med å gi kommunen ansvar for å arrangere tilrettelagt arbeid for personer med varig nedsatt arbeidsevne"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2018-01-01"
+last_change_in_force: "2020-11-03"
+last_updated: null
+xml_hash: "321d6892645690a41e5272fba5c4a5904979732fb786e86f3f7bac35535985bc"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forsøk med å gi kommunen ansvar for å arrangere tilrettelagt arbeid for personer med varig nedsatt arbeidsevne
+
+## § 1. Formål
+
+Forsøket skal gi grunnlag for å vurdere fordeler og ulemper med statlig eller kommunalt ansvar for arbeidsmarkedstiltaket varig tilrettelagt arbeid, og om en overføring til kommunene potensielt vil kunne gi et tilbud om tilrettelagt arbeid som er kvalitativt bedre enn i dag. Videre skal forsøket gi grunnlag for å vurdere om en overføring kan gi tilbud til flere enn i dag, gitt den samme ressursinnsatsen.
+
+## § 2. Virkeområde og finansiering
+
+Arbeids- og velferdsdirektoratet velger hvor mange og hvilke kommuner som deltar i forsøket.
+
+Forsøkskommunene vil motta et tilskudd fra Arbeids- og velferdsdirektoratet som benyttes til finansieringen av forsøket.
+
+## § 3. Målgruppe
+
+Personer som mottar full uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12), og som ikke allerede har blitt tildelt varig tilrettelagt arbeid etter [forskrift 11. desember 2015 nr. 1598](forskrift/2015-12-11-1598), kan tas inn som deltakere i forsøket.
+
+Som hovedregel bør personer som er under 30 år ved oppstart, eller mottar uføretrygd etter reglene om ung ufør jf. [folketrygdloven § 12-13](lov/1997-02-28-19/§12-13) tredje ledd prioriteres.
+
+Den enkelte forsøkskommunen bestemmer innenfor rammene i denne forskriften hvem som skal tas inn i forsøket.
+
+## § 4. Innhold
+
+Deltakerne i forsøket skal tilbys tilrettelagt arbeid med reelle arbeidsoppgaver som er tilpasset deltakerens arbeidsevne, og som er utviklende for deltakerens arbeidsevne. Tilbudet om tilrettelagt arbeid kan kombineres med annen aktivitet, som for eksempel opplæring, dersom dette støtter opp under utviklingen av deltakerens arbeidsevne.
+
+Arbeidsplassen kan være i kommunale eller andre offentlige virksomheter, private virksomheter, skjermede virksomheter, ideelle virksomheter osv.
+
+## § 5. Utvidet adgang til midlertidig ansettelse
+
+Deltakeren skal ansettes som arbeidstaker i virksomheten. Deltakeren kan ansettes midlertidig i heltids- eller deltidsstilling jf. [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9) nr. 1 bokstav d i forsøksperioden.
+
+Arbeidstakeren mottar uføretrygd, og det er derfor ikke krav til at arbeidsgiveren skal utbetale lønn. Dette er likevel ikke til hinder for at det i en tariffavtale, arbeidsavtalen eller annen avtale kan avtales at det skal utbetales en lønn på inntil 1G (bonuslønn).
+
+## § 6. Inntektsgrense ved reduksjon av uføretrygden for deltakere i forsøket
+
+Deltakere i forsøket skal få fastsatt en inntektsgrense som svarer til 100 prosent av grunnbeløpet (G) per kalenderår, se [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14) første ledd. Det vil si at deltakeren kan motta en lønn på inntil 1G uten at uføretrygden blir redusert.
+
+## § 7. Avgjørelsesmyndighet, organisering, anvisning, rapportering mv.
+
+Den enkelte forsøkskommunen bestemmer innenfor formålsbestemmelsen i [§ 1](forskrift/2017-12-20-2308/§1), hvordan forsøket skal organiseres, størrelsen på eventuelle tilskudd til tiltaksarrangører, og hvordan anvisning og utbetaling i forbindelse med forsøket skal skje.
+
+Forsøkskommunene skal rapportere til Arbeids- og velferdsdirektoratet på bruk av midlene, herunder avlevere regnskap for forsøket til Arbeids- og velferdsdirektoratet. Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer om innholdet i rapporten og kravene til regnskapet.
+
+## § 8. Politiattest for ansatte i bedrifter som tar inn deltakere i forsøket
+
+Virksomheter som tilbyr arbeid til deltakere i forsøket skal kreve fremleggelse av politiattest i samsvar med reglene i [politiregisterloven § 39](lov/2010-05-28-16/§39) første ledd av en person som skal ansettes i virksomheten og som kan komme i et tillits- eller ansvarsforhold hvor overgrep eller skadelig påvirkning overfor utviklingshemmede kan finne sted.
+
+Bestemmelsene i [forskrift 23. mars 2012 nr. 248](forskrift/2012-03-23-248) om politiattest i henhold til arbeidsmarkedsloven gjelder så langt den passer.
+
+## § 9. Forsøksperiode
+
+Forsøket varer til 31. desember 2021.
+
+> Endret ved [forskrift 3 nov 2020 nr. 2236](forskrift/2020-11-03-2236).
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2018.

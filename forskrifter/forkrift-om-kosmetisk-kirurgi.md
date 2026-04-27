@@ -1,0 +1,98 @@
+---
+id: "sf-20001221-1387"
+slug: "forkrift-om-kosmetisk-kirurgi"
+type: "forskrift"
+ref_id: "forskrift/2000-12-21-1387"
+title: "Forskrift om tillatelse til å utføre kosmetisk kirurgiske inngrep."
+short_title: "Forkrift om kosmetisk kirurgi"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2001-01-01"
+last_change_in_force: "2021-09-17"
+last_updated: "2021-09-27"
+xml_hash: "80b54b7eec48a7274c106a468494c86a9586340cec4e6eb54060f547301f0069"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tillatelse til å utføre kosmetisk kirurgiske inngrep.
+
+## § 1. Virkeområde
+
+Forskriften gjelder virksomhet utenom sykehus og poliklinikker eid av regionale helseforetak.
+
+Kosmetisk kirurgiske inngrep kan bare utføres av leger som har generell tillatelse, jf. [§ 3](forskrift/2000-12-21-1387/§3), eller leger/tannleger som har fått spesiell tillatelse fra statsforvalteren jf. [§ 4](forskrift/2000-12-21-1387/§4).
+
+> Endret ved [forskrifter 19 des 2002 nr. 1714](forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [1 juli 2005 nr. 750](forskrift/2005-07-01-750), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 2. Definisjon
+
+Kosmetisk kirurgiske inngrep i henhold til denne forskriften, er inngrep hvor kosmetiske hensyn er avgjørende indikasjon for inngrepet, dvs. inngrep som utføres i den hensikt å forandre utseendet.
+
+> Endret ved [forskrift 1 juli 2005 nr. 750](forskrift/2005-07-01-750).
+
+## § 3. Generell tillatelse
+
+Leger som er godkjente spesialister i plastisk kirurgi har generell tillatelse til å utføre kosmetisk kirurgiske inngrep og omfattes derfor ikke av denne forskriften.
+
+> Endret ved [forskrift 1 juli 2005 nr. 750](forskrift/2005-07-01-750).
+
+## § 4. Spesiell tillatelse
+
+Etter søknad kan leger eller tannleger med følgende kompetanse gis spesiell tillatelse til å utføre kosmetisk kirurgiske inngrep:Leger som er godkjente spesialister i generell kirurgi kan utføre kosmetisk kirurgiske inngrep innenfor sitt fagfelt i den grad de er faglig kompetente til det.Leger som er godkjente spesialister i øre-nese-halssykdommer kan utføre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.Leger som er godkjente spesialister i øyesykdommer kan utføre øyelokkorreksjoner og andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.Leger som er godkjente spesialister i kjevekirurgi og munnhulesykdommer kan utføre kosmetisk kirurgiske inngrep i munnhulen, og på ansiktsskjelettet og andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde, og som inngår som en naturlig del av utdanningen i spesialiteten.Tannleger som er godkjente spesialister i oral kirurgi og oral medisin kan utføre kosmetisk kirurgiske inngrep i munnhulen, og på ansiktsskjelettet samt andre kosmetisk kirurgiske inngrep som naturlig hører inn under spesialitetens arbeidsområde og, som inngår som en naturlig del av utdanningen i spesialiteten.
+
+> Endret ved [forskrifter 19 des 2002 nr. 1714](forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [1 juli 2005 nr. 750](forskrift/2005-07-01-750) (i kraft straks og 1 jan 2006).
+
+## § 5. Opphør av tillatelse
+
+Tillatelsen opphører dersom legens eller tannlegens autorisasjon og/eller spesialistgodkjenning opphører eller kalles tilbake.
+
+> Endret ved [forskrift 1 juli 2005 nr. 750](forskrift/2005-07-01-750).
+
+## § 6. Tilbakekall av tillatelse
+
+Tillatelse til å utføre kosmetisk kirurgiske inngrep kan Statens helsetilsyn kalle tilbake dersom legen eller tannlegen ikke lenger anses skikket til å inneha slik tillatelse.
+
+> Endret ved [forskrifter 19 des 2002 nr. 1714](forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [1 juli 2005 nr. 750](forskrift/2005-07-01-750).
+
+## § 7. Klage
+
+Klageinstans for statsforvalterens vedtak etter [§ 8](forskrift/2000-12-21-1387/§8) er Helsedirektoratet.
+
+Klageinstans for Statens helsetilsyns vedtak etter [§ 6](forskrift/2000-12-21-1387/§6) er Statens helsepersonellnemnd.
+
+> Endret ved [forskrifter 19 des 2002 nr. 1714](forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [1 juli 2005 nr. 750](forskrift/2005-07-01-750), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 8. Dispensasjon
+
+Når særlige grunner foreligger kan statsforvalteren i det enkelte tilfelle gi dispensasjon fra bestemmelsene i denne forskrift. Før dispensasjon gis skal uttalelse innhentes fra Den norske lægeforening eller Den norske tannlegeforening.
+
+> Endret ved [forskrifter 19 des 2002 nr. 1714](forskrift/2002-12-19-1714) (i kraft 1 jan 2003), [1 juli 2005 nr. 750](forskrift/2005-07-01-750), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2001.
+
+## Merknader til forskrift om tillatelse til å utføre kosmetisk kirurgiske inngrep
+
+### Til § 1. Virkeområde:
+
+Bestemmelsen innebærer at forskriften gjelder for private sykehus, eventuelle poliklinikker, avtalespesialister og spesialister uten avtale. Presiseringen er ikke ment å endre gjeldende rettstilstand.
+
+### Til § 2. Definisjon:
+
+Et kirurgisk inngrep er å anse som et kosmetisk kirurgisk inngrep når det avgjørende hensynet for å utføre inngrepet er av kosmetisk karakter og ikke av medisinsk karakter.
+
+Forskriften er begrenset til å omfatte inngrep med bruk av kirurgisk kniv. Ved bruk av andre metoder som benyttes innenfor feltet, legges [helsepersonelloven § 4](lov/1999-07-02-64/§4) om forsvarlighet til grunn. Denne bestemmelsen innebærer blant annet at helsepersonell ikke skal gå ut over sine kvalifikasjoner i forbindelse undersøkelse, behandling og annen helsehjelp til pasienter.
+
+### Til § 4. Spesiell tillatelse:
+
+Bestemmelsen angir hvilke spesialister som kan gis spesiell tillatelse til å utføre kosmetisk kirurgiske inngrep. Det er statsforvalteren som gir slik tillatelse.
+
+Endringene av 1 juli 2005 nr. 750 trer i kraft 1. juli 2005. Når det gjelder tannleger som er godkjente spesialister i henhold til ny [§ 4](forskrift/2000-12-21-1387/§4) bokstav e) trer forskriften i kraft 1. januar 2006, slik at aktuelt helsepersonell kan informeres om forskriftsendringen og sørge for å skaffe seg tillatelse innen ikrafttredelsestidspunktet.
+
+> Merknadene tilføyd ved [forskrift 1 juli 2005 nr. 750](forskrift/2005-07-01-750), endret som følge av forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).

@@ -1,0 +1,34 @@
+---
+id: "sf-20130621-0681"
+slug: "forskrift-om-vedtaksmyndighet-etter-energiloven"
+type: "forskrift"
+ref_id: "forskrift/2013-06-21-681"
+title: "Forskrift om vedtaksmyndighet etter energiloven"
+short_title: null
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2013-07-01"
+last_change_in_force: "2025-09-01"
+last_updated: null
+xml_hash: "337804d3493a496e47cbfea2d9e79981b32fef49e20ce4a0a5dc578837162313"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om vedtaksmyndighet etter energiloven
+
+## § 1. Vedtak
+
+Kongen i statsråd fatter vedtak om konsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) for nye elektriske anlegg for tilknytning av vannkraftverk i saker hvor Kongen gir konsesjon etter vassdragslovgivningen.
+
+> Endret ved forskrift [29 aug 2025 nr. 1738](forskrift/2025-08-29-1738) (i kraft 1 sep 2025, tidligere § 3).
+
+## § 2. Ikrafttreden
+
+Denne forskrift trer i kraft 1. juli 2013.
+
+> Endret ved forskrift [29 aug 2025 nr. 1738](forskrift/2025-08-29-1738) (i kraft 1 sep 2025, tidligere § 4).

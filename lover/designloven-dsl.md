@@ -1,0 +1,554 @@
+---
+id: "nl-20030314-015"
+slug: "designloven-dsl"
+type: "lov"
+ref_id: "lov/2003-03-14-15"
+title: "Lov om beskyttelse av design (designloven)"
+short_title: "Designloven – dsl"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2003-05-01"
+last_change_in_force: "2023-03-01"
+last_updated: "2022-05-24"
+xml_hash: "72425323ad83a708dc87fd02236cb96c281f125b0ff2022cb2900621ae1d814b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om beskyttelse av design (designloven)
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1. Enerett til design
+
+Den som har frembrakt en design (designeren), eller den som designerens rett har gått over til, kan ved registrering oppnå enerett til å utnytte designen etter bestemmelsene i denne loven (designrett).
+
+Registrering av en design utelukker ikke beskyttelse etter annen lovgivning hvis vilkårene for beskyttelse etter annen lovgivning er oppfylt, herunder beskyttelse etter [varemerkeloven](lov/2010-03-26-8), [åndsverkloven](lov/2018-06-15-40) og [patentloven](lov/1967-12-15-9).
+
+> Endret ved lov [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)).
+
+### § 2. Definisjoner
+
+I loven her forstås meddesign: utseendet til et produkt eller en del av et produkt som særlig følger av de karakteriserende trekkene ved linjene, konturene, fargene, formen, strukturen eller materialet til produktet eller produktets ornamentering.produkt: en industrielt eller håndverksmessig fremstilt gjenstand, herunder deler som er bestemt til å inngå i et sammensatt produkt, emballasje, utstyr, grafiske symboler og typografiske skrifttyper, men ikke edb-programmer.sammensatt produkt: et produkt som består av flere bestanddeler som kan skiftes ut, slik at produktet kan tas fra hverandre og settes sammen igjen.
+
+### § 3. Nyhet og individuell karakter
+
+Designrett kan bare oppnås hvis designen er ny og har individuell karakter.
+
+En design anses som ny hvis ingen identisk design har blitt allment tilgjengelig før den dagen da søknaden ble innlevert (søknadsdagen) eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16). En design skal anses som identisk med en annen design hvis de karakteriserende trekkene bare skiller seg fra hverandre på uvesentlige punkter.
+
+En design anses å ha individuell karakter hvis helhetsinntrykket designen gir den informerte brukeren, skiller seg fra helhetsinntrykket en slik bruker får av annen design som har blitt allment tilgjengelig før den dagen som er nevnt i annet ledd. Ved vurderingen av om designen har individuell karakter, skal det tas hensyn til hvor stor frihet designeren hadde ved utviklingen av designen.
+
+### § 4. Sammensatte produkter
+
+Designen til en bestanddel av et sammensatt produkt anses bare for å være ny og ha individuell karakter i den gradbestanddelen er synlig under normal bruk av det sammensatte produktet, ogden synlige delen av bestanddelen oppfyller vilkårene om nyhet og individuell karakter.
+
+Med normal bruk forstås sluttbrukerens anvendelse av det sammensatte produktet, med unntak av vedlikehold, service eller reparasjon av produktet.
+
+### § 5. Designens allmenne tilgjengelighet
+
+En design er allment tilgjengelig etter loven her hvis den har blitt offentliggjort ved registrering eller på annen måte. Det samme gjelder hvis designen har blitt utstilt, utnyttet kommersielt eller blitt kjent på annen måte.
+
+Designen anses likevel ikke for å ha blitt allment tilgjengelig hvisfagkretsene innenfor den aktuelle sektoren i EØS gjennom sin alminnelige næringsvirksomhet ikke med rimelighet kunne ha fått kjennskap til designen gjennom omstendigheter som nevnt i første ledd før søknadsdagen eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16), ellerandre har fått kjennskap til designen under en underforstått eller uttrykkelig forutsetning om fortrolighet.
+
+### § 6. Handlinger som ikke ødelegger nyheten (nyhetsfrist)
+
+Designen anses ikke for å ha blitt allment tilgjengelig etter [§ 5](lov/2003-03-14-15/§5) hvis den tidligst tolv måneder før den dagen som er nevnt i [§ 3](lov/2003-03-14-15/§3) annet ledd, er gjort allment tilgjengeligav designeren eller den som designerens rett har gått over til,av andre på grunnlag av opplysninger som er gitt eller handlinger som er foretatt av designeren eller den som designerens rett har gått over til, ellersom følge av misbruk i forhold til designeren eller den som designerens rett har gått over til.
+
+### § 7. Design som strider mot offentlige interesser og andres rettigheter
+
+En design kan ikke registreres hvis denstrider mot offentlig orden eller moral, elleruten tillatelse inneholder et våpen eller annet tegn som er omfattet av [straffeloven § 165](lov/2005-05-20-28/§165) bokstav b og [§ 166](lov/2005-05-20-28/§166), et statsflagg eller et offentlig kontroll- eller garantimerke for produkter av samme eller liknende slag som produktene designen gjelder, eller noe som er egnet til å oppfattes som et slikt tegn, flagg eller merke.
+
+Designrett kan ikke oppnås hvis designen kolliderer med en design i en tidligere søknad om designrett her i landet som ikke var allment tilgjengelig før søknadsdagen for den nye søknaden eller før prioritetsdagen, hvis det er påberopt prioritet etter [§ 16](lov/2003-03-14-15/§16), men som blir gjort offentlig på et senere tidspunkt.
+
+Designrett kan heller ikke oppnås hvis designen krenker en annens rett her i landet til:et varemerke, foretaksnavn eller annet forretningskjennetegn,et åndsverk eller fotografisk bilde,en betegnelse som er beskyttet ved forskrift etter matloven, elleret navn, kunstnernavn eller lignende eller portrett, med mindre det åpenbart siktes til en forlengst avdød person.
+
+> Endret ved lover [23 mai 2003 nr. 33](lov/2003-05-23-33) (ikr. 1 juni 2003 iflg. [res. 23 mai 2003 nr. 624](forskrift/2003-05-23-624)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 8. Design som er bestemt av teknisk funksjon
+
+Designrett kan ikke oppnås for de trekkene ved et produkts utseendesom bare er bestemt av teknisk funksjon, ellersom må gjengis i nøyaktig form og dimensjon for at produktet skal kunne kobles mekanisk til eller plasseres i, rundt eller mot et annet produkt, slik at begge produktene fyller sin funksjon.
+
+Designrett kan likevel oppnås for design av gjensidig utskiftbare produkter som kan bygges eller kobles sammen på forskjellige måter i et modulsystem.
+
+### § 9. Designrettens innhold og omfang
+
+Designretten innebærer at ingen kan utnytte designen uten samtykke fra innehaveren av designretten (designhaveren), med de unntakene som følger av [§§ 10](lov/2003-03-14-15/§10) til [12](lov/2003-03-14-15/§12). Slik utnyttelse gjelder særlig det å tilvirke, utby, bringe i omsetning, innføre, utføre eller bruke et produkt som designen inngår i eller anvendes på, samt det å lagre et produkt med formål som nevnt.
+
+Designretten omfatter enhver design som ikke gir den informerte brukeren et annet helhetsinntrykk. Ved vurderingen av omfanget av designretten skal det tas hensyn til hvor stor frihet designeren hadde ved utviklingen av designen.
+
+### § 10. Unntak fra designretten
+
+Designretten er ikke til hinder for at designenutnyttes i privat og ikke-kommersielt øyemed,utnyttes til eksperimentelle formål, ellergjengis med det formål å sitere eller undervise, forutsatt at handlingen er i samsvar med god forretningsskikk og ikke i urimelig grad skader den normale utnyttelsen av designen, samt at kilden blir oppgitt.
+
+### § 11. Utstyr på skip og luftfartøy
+
+Designretten er ikke til hinder forutnyttelse av utstyr på skip og luftfartøy som hører hjemme i en annen stat, hvis fartøyet oppholder seg midlertidig her i landet,innføring til Norge av reservedeler og tilbehør for reparasjon av slike fartøy samt gjennomføring av reparasjoner.
+
+### § 12. Konsumpsjon av designretten
+
+Designretten er ikke til hinder for utnyttelse av designbeskyttede produkter som er brakt i omsetning innenfor EØS av designhaveren eller med dennes samtykke.
+
+## Kapittel 2. Søknad om registrering av design
+
+### § 13. Søknaden om registrering
+
+En søknad om registrering av design skal innleveres skriftlig til Patentstyret.
+
+Søknaden skal oppgi søkerens navn og adresse, produktet eller produktene som designen gjelder, og inneholde bilder som tydelig viser designen.
+
+Hvis søkeren også innleverer en modell av designen før den blir registrert, er det modellen som skal anses å vise designen.
+
+Søkes registrering av en annen enn den som har frembrakt designen, skal designerens navn innføres i designregisteret hvis søkeren eller designeren ber om dette. Om designen er et resultat av et samarbeid mellom flere designere i en gruppe, kan en angivelse av gruppens navn erstatte angivelsen av hver enkelt designer.
+
+Søknaden skal i tillegg oppfylle de kravene som er fastsatt av Kongen ved forskrift. Det skal betales fastsatt gebyr, ellers henlegges søknaden.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798), se dens nr. 4).
+
+### § 14. Endring av søknaden
+
+En søknad om registrering av design kan ikke endres til å gjelde et annet produkt enn angitt i søknaden. Designen i en søknad kan bare endres hvis designen i endret form beholder sin identitet og oppfyller vilkårene for registrering.
+
+### § 15. Søknad om registrering av mer enn én design (samregistrering)
+
+En søknad kan omfatte mer enn én design hvis produktene som designene gjelder, tilhører samme klasse etter Locarnoavtalen 8. oktober 1968 om internasjonal klassifisering av design.
+
+### § 16. Prioritet
+
+Den som har innlevert en søknad om beskyttelse av design i Norge eller i en stat tilsluttet Pariskonvensjonen 20. mars 1883 om beskyttelse av industriell eiendomsrett eller avtale 15. april 1994 om opprettelse av Verdens handelsorganisasjon (WTO-avtalen), og som innen seks måneder etter dette søker om designrett her i landet, kan kreve at den nye søknaden skal anses som innlevert samtidig som den første søknaden.
+
+Den som har vist frem en design på en offisiell eller offisielt anerkjent internasjonal utstilling som nevnt i konvensjon 22. november 1928 om internasjonale utstillinger, og som innen seks måneder etter dette søker om designrett her i landet, kan kreve at søknaden skal anses som innlevert på den dagen da designen første gang ble vist frem på utstillingen.
+
+Kongen kan ved forskrift fastsette nærmere vilkår for retten til å kreve prioritet. Kongen kan også fastsette at prioritet kan kreves i andre tilfeller enn nevnt i første og annet ledd.
+
+### § 17. Vilkår for registrering
+
+Patentstyret skal påse at søknaden oppfyller kravene i [§§ 13](lov/2003-03-14-15/§13) til [15](lov/2003-03-14-15/§15). Patentstyret skal også påse at søknaden gjelder en design som nevnt i [§ 2](lov/2003-03-14-15/§2) nr. 1, og at vilkårene i [§ 7](lov/2003-03-14-15/§7) første ledd er oppfylt.
+
+I den utstrekning det er bestemt i forskrift fastsatt av Kongen, skal Patentstyret etter forespørsel fra søkeren i tillegg undersøke om det finnes andre forhold som kan hindre designrett, og i tilfelle orientere søkeren om det. For undersøkelsen skal det betales fastsatt gebyr.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 18. Registrering og kunngjøring
+
+Hvis søknaden oppfyller vilkårene som nevnt i [§ 17](lov/2003-03-14-15/§17) første ledd, skal designen registreres og registreringsbrev sendes til søkeren. Registreringen av en design skal kunngjøres.
+
+Registreringen kan likevel utsettes i inntil seks måneder fra den dagen som er nevnt i [§ 3](lov/2003-03-14-15/§3) annet ledd, såfremt søkeren ber om det i søknaden.
+
+### § 19. Retting av søknaden
+
+Hvis søknaden ikke oppfyller vilkårene som nevnt i [§ 17](lov/2003-03-14-15/§17) første ledd, skal Patentstyret gi søkeren melding om dette og informere om virkningen manglene kan få. Søkeren skal gis en rimelig frist for uttalelse og om mulig retting av manglene.
+
+Om manglene blir rettet innen den fristen som Patentstyret setter, skal søknaden regnes som innlevert den dagen da den kom inn til Patentstyret. Søknaden regnes likevel ikke som innlevert før bilder eller modell av designen har kommet inn til Patentstyret.
+
+Hvis søkeren ikke har uttalt seg eller rettet manglene innen fristens utløp, skal søknaden henlegges.
+
+Behandlingen av en henlagt søknad skal gjenopptas hvis søkeren uttaler seg eller retter manglene innen to måneder etter utløpet av fristen. Det skal betales fastsatt avgift. Behandlingen av en søknad kan bare gjenopptas én gang.
+
+### § 20. Avslag
+
+Hvis søknaden har mangler som ikke blir rettet etter reglene i [§ 19](lov/2003-03-14-15/§19), og designen ikke kan registreres i endret form etter [§ 14](lov/2003-03-14-15/§14) annet punktum, skal søknaden avslås. Dette gjelder ikke hvis Patentstyret finner at søkeren bør gis en ny frist for retting.
+
+## Kapittel 3. Offentlighet og opplysningsplikt
+
+### § 21. Innsyn i dokumentene i søknadssaken
+
+Enhver kan fra og med søknadsdagen kreve innsyn i søknaden med vedlegg og alle dokumenter i saken, om ikke annet er bestemt i annet til femte ledd.
+
+Det kan ikke kreves innsyn i dokumenter som kan avsløre designens utseende, før designen er registrert etter [§ 18](lov/2003-03-14-15/§18). Når seks måneder har gått fra den dagen som er nevnt i [§ 3](lov/2003-03-14-15/§3) annet ledd, skal dokumentene være offentlige selv om designen ikke er registrert. Er søknaden henlagt eller avslått, gjelder innsynsretten bare hvis søkeren ber om gjenopptakelse, klager på avgjørelsen eller krever oppreisning.
+
+Hvis søkeren krever det, skal dokumentene som kan avsløre designens utseende, være offentlige tidligere enn det som følger av annet ledd.
+
+Opplysninger om forretningshemmeligheter kan unntas fra offentlighet hvis søkeren krever det. Når slikt krav er innlevert, blir opplysningene ikke offentlige før kravet er endelig avslått. Opplysninger som har betydning for om designrett kan oppnås eller for designrettens omfang eller varighet, kan ikke unntas fra offentlighet.
+
+Dokument som Patentstyret har utarbeidet for sin egen interne saksforberedelse, kan unntas fra offentlighet.
+
+### § 22. Opplysningsplikt for designsøker
+
+En søker som påberoper seg designsøknaden overfor en annen før designen har blitt allment tilgjengelig, skal etter forespørsel la vedkommende gjøre seg kjent med dokumentene i søknaden.
+
+Den som ved direkte henvendelse eller i annonser eller på annen måte har gjort det kjent for utenforstående at det er søkt om eller gitt designrett, uten å oppgi søknadens eller registreringens nummer, skal uten unødig opphold etter forespørsel opplyse om nummeret. Den som har gitt opplysninger som kan gi inntrykk av at det er søkt om eller gitt designrett, skal uten unødig opphold etter forespørsel opplyse om designen er registrert eller søkt registrert.
+
+## Kapittel 4. Designregistreringens gyldighetstid
+
+### § 23. Registreringens varighet
+
+Designregistreringen gjelder i den eller de periodene på fem år som søknaden er innlevert for, regnet fra søknadsdagen. Registrering som gjelder for en kortere periode enn tjuefem år, kan fornyes for ytterligere femårsperioder til sammenlagt tjuefem år. Hver periode løper fra utgangen av den forrige perioden.
+
+Registreringen gjelder i høyst fem år for en design til en bestanddel som brukes til å reparere et sammensatt produkt for å gi det tilbake sitt opprinnelige utseende (reservedeler).
+
+### § 24. Fornyelse av registreringen
+
+Krav om fornyelse innleveres skriftlig til Patentstyret tidligst ett år før og senest seks måneder etter registreringsperiodens utløp. Det skal betales fastsatt avgift. Blir kravet om fornyelse innlevert etter utløpet av registreringsperioden, skal det betales en tilleggsavgift.
+
+Innbetaling av fornyelsesavgift med angivelse av designens registreringsnummer innen fristene i første ledd skal anses som et krav om fornyelse.
+
+Fornyelsen av en registrering skal innføres i designregistret og kunngjøres.
+
+## Kapittel 5. Overprøving og ugyldighet mv.
+
+### § 25. Administrativ overprøving og domstolprøving
+
+En designregistrering skal helt eller delvis oppheves av Patentstyret eller kjennes ugyldig av en domstol etter bestemmelsene i [§§ 26](lov/2003-03-14-15/§26) til [28](lov/2003-03-14-15/§28), hvis designen ikke oppfyller vilkårene i [§§ 2](lov/2003-03-14-15/§2) til 8. Hvis designen er registrert for en som ikke har retten til designen, skal registreringen oppheves etter bestemmelsene i [§§ 26](lov/2003-03-14-15/§26) og [27](lov/2003-03-14-15/§27), eller overføres til rett innehaver etter [§§ 29](lov/2003-03-14-15/§29) og [30](lov/2003-03-14-15/§30).
+
+Registreringen kan ikke oppheves eller kjennes ugyldig på det grunnlaget at designhaveren bare har retten til en andel av designen.
+
+### § 26. Frister og krav om sakstilknytning
+
+Krav om administrativ overprøving kan fremmes av enhver så lenge registreringen består, om ikke annet er bestemt i annet og tredje ledd.
+
+Et krav om administrativ overprøving kan bare fremmes avden som påstår å ha retten til designen, hvis kravet er begrunnet med at designhaveren ikke har retten til designen.den som søker om eller har den eldre rettigheten, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) annet og tredje ledd.departementet eller av den personen eller det organet som berøres av bruken, hvis kravet er begrunnet med at registreringen krenker rettigheter nevnt i [§ 7](lov/2003-03-14-15/§7) første ledd nr. 2.
+
+Er kravet begrunnet med at designhaveren ikke har retten til designen, må det settes frem senest ett år etter at den som fremmer kravet, fikk kjennskap til registreringen og de øvrige forholdene som kravet bygger på. Var designhaveren i god tro da designen ble registrert, eller da registreringen ble overført til designhaveren, kan kravet ikke fremmes senere enn tre år etter registreringen eller overføringen.
+
+Første til tredje ledd gjelder tilsvarende for søksmål om ugyldighet.
+
+Søksmål om ugyldighet kan reises også etter at registreringen er bortfalt, eller etter at det er gitt avkall på registreringen. Den som reiser søksmål i slike tilfeller, må ha rettslig interesse i saken.
+
+Hvis krav om administrativ overprøving med påstand om at designhaveren ikke har retten til designen er fremmet for Patentstyret innen fristen i tredje ledd, kan søksmål om spørsmålet reises innen to måneder etter den dagen da melding om Patentstyrets endelige avgjørelse ble sendt vedkommende part.
+
+> Endret ved lov [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)).
+
+### § 27. Innlevering og behandling av krav om administrativ overprøving
+
+Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret ogoppgi navnet og adressen til den som har innlevert kravet,oppgi registreringen og eventuelt hvilken design i registreringen som kreves overprøvd,oppgi hvilke grunner kravet bygger på, oginneholde nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.Kravet skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
+
+Hvis kravet ikke oppfyller vilkårene i første ledd og [§ 26](lov/2003-03-14-15/§26), skal Patentstyret gi en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal kravet avvises hvis ikke Patentstyret finner at det bør gis en ny frist for retting.
+
+Er kravet om overprøving fremmet av andre enn designhaveren, skal Patentstyret snarest mulig gi designhaveren melding om kravet med en rimelig frist for uttalelse.
+
+Er det innlevert to eller flere krav om overprøving av samme registrering, kan Patentstyret slå sakene sammen til én sak hvis det ikke fremsettes en saklig begrunnet innvending mot dette.
+
+Patentstyret kan ta hensyn til forhold som ikke er berørt i kravet om overprøving. Er et krav om overprøving trukket tilbake, kan Patentstyret fortsette behandlingen av saken hvis det foreligger særlige grunner. Leddet her gjelder bare så langt det er forenlig med [§ 26](lov/2003-03-14-15/§26) annet ledd.
+
+Enhver kan kreve innsyn i dokumentene i sak om administrativ overprøving. Bestemmelsene i [§ 21](lov/2003-03-14-15/§21) fjerde og femte ledd gjelder tilsvarende.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 28. Endring av en registrert design
+
+Registreringen av en design kan oppheves delvis av Patentstyret hvis designen i endret form beholder sin identitet og oppfyller vilkårene for registrering, og designhaveren har bedt om eller samtykket til endringen.
+
+Registreringen av en design kan på samme vilkår kjennes delvis ugyldig av en domstol.
+
+Den endrede designen innføres i designregistret, og nytt registreringsbrev sendes designhaveren. Melding om endringen med bilder av designen i endret form skal kunngjøres.
+
+### § 29. Retten til designen
+
+Den som i sak om administrativ overprøving godtgjør å ha retten til en design som er registrert for en annen, kan kreve registreringen overført i stedet for opphevet.
+
+Godtgjør noen å ha retten til en design i en søknad som er innlevert av en annen, skal Patentstyret overføre søknaden. Den som søknaden overføres til, skal betale nytt søknadsgebyr, ellers henlegges søknaden.
+
+Finner Patentstyret et spørsmål som nevnt i første og annet ledd tvilsomt, kan den som påstår å ha retten til designen, oppfordres til å reise søksmål innen en rimelig frist. Blir søksmål ikke reist innen fristen, kan Patentstyret sette påstanden ut av betraktning. Den som har fremmet påstanden, skal gjøres oppmerksom på dette.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 30. Søksmål om overføring av en søknad eller registrering
+
+Den som påstår å ha retten til en design i en søknad som er innlevert av en annen, eller en design som er registrert for en annen, kan reise søksmål for domstolene om overføring av søknaden eller registreringen. Søksmål om overføring av en registrering må reises innen fristen i [§ 26](lov/2003-03-14-15/§26) tredje ledd, jf. sjette ledd.
+
+### § 31. Rett til fortsatt utnyttelse
+
+Har den som blir frakjent en registrering etter [§§ 29](lov/2003-03-14-15/§29) eller [30 i](lov/2003-03-14-15/§30) god tro begynt å utnytte designen her i landet eller gjort omfattende forberedelser til dette, kan vedkommende fortsette eller begynne utnyttelsen mot rimelig vederlag og på rimelige vilkår for øvrig. Denne retten gjelder på samme vilkår for innehavere av registrerte lisenser.
+
+Rettigheter etter første ledd kan bare gå over til andre sammen med den virksomheten der retten er oppstått, eller der utnyttelsen var ment å skulle skje.
+
+### § 32. Forholdet mellom saker for Patentstyret og domstolene
+
+Pågår sak for Patentstyret om overføring av en søknad, kan Patentstyret ikke endre, henlegge, avslå eller innvilge søknaden før saken om overføring er endelig avgjort. Gjelder saken retten til en design i en registrering, kan registreringen ikke oppheves, endres eller slettes før nevnte tidspunkt.
+
+Er det reist søksmål for domstolene om retten til designen, skal Patentstyret utsette behandlingen av sak om registrering, oppheving eller overføring inntil søksmålet er rettskraftig avgjort. Er det reist søksmål om ugyldighet, skal Patentstyret utsette behandlingen av sak om oppheving inntil nevnte tidspunkt.
+
+Den som har fremmet krav om administrativ overprøving, kan ikke reise søksmål om ugyldighet eller overføring mens saken pågår for Patentstyret.
+
+### § 33. Oppheving av eget tiltak
+
+Hvis en registrering av en design, en fornyelse eller en endring av en registrering har skjedd ved en åpenbar feil, kan Patentstyret av eget tiltak helt eller delvis oppheve innføringen.
+
+Innehaveren av registreringen skal gis melding med rimelig frist for uttalelse før oppheving finner sted.
+
+### § 34. Slettelse av registreringen
+
+Registreringen skal slettes fra designregistret etter utløpet av registreringsperioden hvis den ikke blir fornyet, ikke kan fornyes eller hvis designhaveren fremmer et skriftlig krav om slettelse.
+
+Er det reist søksmål om overføring av registreringen eller tatt utlegg i designretten, kan registreringen ikke slettes etter krav fra designhaveren før søksmålet er rettskraftig avgjort, eller utlegget er falt bort.
+
+### § 35. Innføring i designregistret og kunngjøring
+
+Er det fremmet krav om administrativ overprøving av en registrering eller reist søksmål om ugyldighet eller overføring av en registrering, skal dette innføres i designregistret og kunngjøres. Når saken er endelig avgjort, skal utfallet innføres i designregistret og kunngjøres.
+
+Oppheving av en registrering etter [§ 33](lov/2003-03-14-15/§33) og slettelse av en registrering etter [§ 34](lov/2003-03-14-15/§34) skal innføres i designregistret og kunngjøres.
+
+Rett til fortsatt utnyttelse etter [§ 31](lov/2003-03-14-15/§31) skal innføres i designregistret og kunngjøres hvis en av partene ber om det.
+
+## Kapittel 6. Klage mv.
+
+### § 36. Klage over avgjørelse i Patentstyret
+
+Avgjørelsen i Patentstyret av en designsøknad eller et krav om at en internasjonal designregistrering skal ha virkning i Norge, kan påklages av søkeren til Klagenemnden for industrielle rettigheter (Klagenemnden) hvis avgjørelsen har gått søkeren imot.
+
+Avgjørelsen av en sak om administrativ oppheving etter [§ 25](lov/2003-03-14-15/§25) kan påklages til Klagenemnden av den parten som avgjørelsen har gått imot. Blir et krav etter [§ 29](lov/2003-03-14-15/§29) om overføring av en søknad eller registrering innvilget, kan avgjørelsen påklages til Klagenemnden av søkeren eller designhaveren.
+
+Avgjørelsen om å oppheve en innføring etter [§ 33](lov/2003-03-14-15/§33), kan påklages til Klagenemnden av innehaveren.
+
+Avgjørelsen om å avvise eller avslå et krav omgjenopptakelse etter [§ 19](lov/2003-03-14-15/§19) fjerde ledd,unntak fra offentlighet etter [§§ 21](lov/2003-03-14-15/§21) fjerde ledd, [27](lov/2003-03-14-15/§27) sjette ledd og [38](lov/2003-03-14-15/§38) femte ledd,innsyn i dokumenter i saker etter loven her,fornyelse av en designregistrering etter [§ 24](lov/2003-03-14-15/§24), ellerat en sak skal tas under behandling etter [§ 50](lov/2003-03-14-15/§50),kan påklages til Klagenemnden av den som har fremsatt kravet.
+
+Andre avgjørelser i Patentstyret kan ikke påklages.
+
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)).
+
+### § 37. Innlevering av klage
+
+En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal oppgiklagerens navn og adresse,avgjørelsen som det klages over,hvilken endring som ønskes i avgjørelsen, oghvilke grunner klagen bygger på.Klagen skal i tillegg oppfylle de vilkårene som er fastsatt av Kongen ved forskrift. Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 38. Behandling av klage
+
+Andre parter i saken skal snarest mulig gis melding om klagen med en rimelig frist for uttalelse.
+
+Er vilkårene for å behandle klagen oppfylt, kan Patentstyret oppheve eller endre avgjørelsen hvis det finner det klart at klagen er begrunnet. Blir det ikke truffet slik avgjørelse, skal sakens dokumenter sendes til Klagenemnden. Gir Patentstyret en uttalelse til Klagenemnden, skal en kopi sendes til partene.
+
+Hvis vilkårene for å behandle klagen ikke er oppfylt, skal klageren gis en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal klagen avvises hvis ikke Klagenemnden finner at det bør gis en ny frist for retting.
+
+Tas klagen under behandling, skal Klagenemnden foreta de undersøkelser som klagen gir grunn til. Den kan ta hensyn til forhold som ikke er berørt i klagen. Er klagen trukket tilbake, kan Klagenemnden fortsette behandlingen av saken hvis det foreligger særlige grunner. Leddet her gjelder bare så langt det er forenlig med [§ 26](lov/2003-03-14-15/§26) annet ledd.
+
+Enhver kan kreve innsyn i dokumentene i klagesaken. Bestemmelsene i [§ 21](lov/2003-03-14-15/§21) fjerde og femte ledd gjelder tilsvarende.
+
+> Endret ved lov [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)).
+
+### § 39. Domstolsprøving av avgjørelser fra Klagenemnden for industrielle rettigheter
+
+En avgjørelse kan bare bringes inn for domstolene hvis klageretten etter [§ 36](lov/2003-03-14-15/§36) har blitt brukt, og Klagenemnden har avgjort klagen. Forrige punktum berører ikke retten til å reise søksmål om ugyldighet eller overføring etter [§§ 25](lov/2003-03-14-15/§25) og [30](lov/2003-03-14-15/§30).
+
+Avgjørelsen i Klagenemnden av klagesak kan bringes inn for domstolene av den parten som avgjørelsen har gått imot, om ikke annet følger av tredje ledd. Søksmål må være reist innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Opplysning om søksmålsfristen skal inntas i meldingen om avgjørelsen. Søksmål rettes mot staten ved Klagenemnden.
+
+Avgjørelsen i Klagenemnden av sak om administrativ overføring av en søknad eller registrering kan ikke bringes inn for domstolene. Det samme gjelder avgjørelse der Klagenemnden avviser eller avslår et krav om administrativ oppheving, eller opprettholder en avgjørelse fra Patentstyret om avvisning eller avslag.
+
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)).
+
+## Kapittel 7. Erstatning og straff m.m.
+
+### § 39 a. Forbud mot inngrep
+
+Den som har gjort inngrep i en annens rett etter denne loven, eller medvirket til det, kan ved dom forbys å gjenta handlingen. Den som har gjort vesentlige forberedelsestiltak med sikte på å utføre en handling som vil utgjøre inngrep, eller på annen måte har opptrådt slik at det er særlig grunn til å frykte at vedkommende vil gjøre inngrep, kan ved dom forbys å gjennomføre handlingen.
+
+> Tilføyd ved lov [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 40. Vederlag og erstatning for designinngrep
+
+For forsettlig eller uaktsomt designinngrep skal inngriperen betale til rettighetshaveren:vederlag svarende til en rimelig lisensavgift for utnyttelsen, samt erstatning for skade som følge av inngrepet som ikke ville oppstått ved lisensiering,erstatning for skade som følge av inngrepet, ellervederlag svarende til vinningen som er oppnådd ved inngrepet.Vederlag og erstatning fastsettes etter det av grunnlagene i bokstav a til c som er gunstigst for rettighetshaveren.
+
+Er det handlet forsettlig eller grovt uaktsomt skal inngriperen, dersom rettighetshaveren krever det, i stedet for vederlag og erstatning fastsatt etter første ledd betale vederlag svarende til det dobbelte av en rimelig lisensavgift for utnyttelsen.
+
+Første og annet ledd gjelder tilsvarende ved medvirkning.
+
+For inngrep som har skjedd i god tro skal inngriperen, i den grad det ikke fremstår som urimelig, betale vederlag svarende til en rimelig lisensavgift for utnyttelsen eller til vinningen som er oppnådd ved inngrepet.
+
+Ansvaret etter første til tredje ledd kan lempes etter [lov 13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 5-2](lov/1969-06-13-26/§5-2).
+
+> Endret ved lover [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+
+### § 41. Tiltak for å hindre inngrep
+
+For å hindre inngrep kan retten i den utstrekning det finnes rimelig, gi pålegg om forebyggende tiltak for produkter som utgjør designinngrep og for materialer og hjelpemidler som hovedsakelig er brukt, eller tilsiktet brukt, til å fremstille slike produkter. Slikt pålegg kan blant annet gå ut på at produkter og materialer og hjelpemidler skal:tilbakekalles fra handelen,definitivt fjernes fra handelen,ødelegges, ellerutleveres til rettighetshaveren.Avgjørelsen av om tiltak skal pålegges og valget mellom mulige tiltak skal skje ut fra en forholdsmessighetsvurdering. Det skal blant annet tas hensyn til inngrepets alvorlighet, virkningene av tiltakene og tredjeparts interesser.
+
+Første ledd gjelder tilsvarende i tilfeller som nevnt i [§ 39 a](lov/2003-03-14-15/§39a) annet punktum.
+
+Tiltak etter paragrafen her skal ikke være betinget av at rettighetshaveren yter kompensasjon til den tiltaket retter seg mot, og påvirker ikke rettighetshaverens rett til vederlag eller erstatning etter [§ 40](lov/2003-03-14-15/§40). Tiltak skal gjennomføres for saksøktes regning hvis ikke særlige grunner taler mot det.
+
+> Endret ved lover [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+
+### § 41 a. Tillatelse til utnyttelse
+
+I stedet for å fastsette tiltak etter [§§ 39 a](lov/2003-03-14-15/§39a) og [41](lov/2003-03-14-15/§41) kan retten når helt særlige grunner foreligger, gi tillatelse til utnyttelse av designen i designrettens gyldighetstid eller en del av denne mot rimelig vederlag til rettighetshaveren og på passende vilkår for øvrig. Slik tillatelse kan bare gis til den som har handlet i aktsom god tro.
+
+> Tilføyd ved lov [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 41 b. Formidling av informasjon om dom i sak om inngrep
+
+I dom i sak om inngrep kan retten bestemme at informasjon om dommen skal formidles på passende måte for inngriperens regning. Dette gjelder tilsvarende ved medvirkning til inngrep og i tilfeller som nevnt i [§ 39 a](lov/2003-03-14-15/§39a) annet punktum.
+
+> Tilføyd ved lov [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 42. Utnyttelse før registrering
+
+Utnytter noen uten samtykke fra søkeren en design som er søkt registrert, og skjer utnyttelsen etter at dokumentene som viser designen har blitt offentlige etter [§ 21](lov/2003-03-14-15/§21), men før kunngjøringen av registreringen, gjelder [§ 39 a](lov/2003-03-14-15/§39a), [§ 40](lov/2003-03-14-15/§40) første til tredje og femte ledd, [§§ 41](lov/2003-03-14-15/§41), [41 a](lov/2003-03-14-15/§41a) og [41 b](lov/2003-03-14-15/§41b) tilsvarende hvis søknaden fører til registrering.
+
+Foreldelsesfristen for krav etter denne bestemmelsen begynner ikke å løpe før designen er registrert.
+
+> Endret ved lov [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 43. Grunnlag for frifinnelse i sivile saker
+
+I sivile saker om designinngrep kan det bare bygges på at registreringen er ugyldig eller kan kreves overført etter bestemmelsene i [kapittel 5](lov/2003-03-14-15/kap5), hvis det først er avsagt dom for ugyldighet eller overføring, eller hvis Patentstyret har truffet endelig avgjørelse om oppheving eller overføring.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 44. Straff
+
+Den som begår designinngrep, straffes med bøter eller fengsel inntil ett år.
+
+Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger, skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som inngriperen har oppnådd, og omfanget av inngrepet for øvrig.
+
+> Endret ved lover [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+
+### § 45. Straff og erstatning ved brudd på opplysningsplikten etter § 22
+
+Den som forsettlig eller uaktsomt har brutt opplysningsplikten etter [§ 22](lov/2003-03-14-15/§22), straffes med bøter og skal i den grad det finnes rimelig erstatte skaden som måtte ha oppstått.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## Kapittel 8. Rettergangsbestemmelser
+
+### § 46. Tvungent verneting
+
+Følgende søksmål må reises ved Oslo tingrett:Søksmål om retten til en design som er søkt registrert etter loven her, jf. [§ 30](lov/2003-03-14-15/§30).Søksmål om prøving av avgjørelse truffet av Klagenemnden som omtalt i [§ 39](lov/2003-03-14-15/§39).Søksmål om ugyldighet eller om overføring av en registrering, jf. [§§ 25](lov/2003-03-14-15/§25) og [30](lov/2003-03-14-15/§30).Sivilt søksmål om designinngrep.
+
+Oslo tingrett er verneting for søkere og designhavere som ikke har bopel i Norge.
+
+> Endret ved lover [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)), [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 47. Melding om søksmål
+
+Den som reiser søksmål om ugyldighet eller om overføring av en registrering, skal samtidig gi melding om det til Patentstyret samt i rekommandert brev gi melding til enhver lisenshaver som er innført i designregistret med adresse. En lisenshaver som reiser søksmål om designinngrep, skal i rekommandert brev gi melding om dette til den som er innført i designregisteret som designhaver, hvis adressen er angitt i registeret.
+
+Dokumenterer saksøkeren ikke at de nødvendige meldingene er gitt, kan retten sette en frist for å gi meldingene. Oversittes fristen skal saken avvises.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 48. Oversendelse av dommer
+
+Retten skal sende Patentstyret utskrift av dommer i sivil sak etter loven her.
+
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## Kapittel 9. Forskjellige bestemmelser
+
+### § 49. Adresse for korrespondanse
+
+Meldinger fra Patentstyret eller Klagenemnden til en søker, designhaver eller en som har krevd administrativ overprøving, regnes alltid som avgitt når de er sendt til den adressen som vedkommende senest har oppgitt til Patentstyret eller Klagenemnden. Adressen innføres i designregistret. For søkere og designhavere som har fullmektig, kan meddelelser etter leddet her sendes til fullmektigen.
+
+Hvis den registrerte adressen viser seg å være feil, inntas meldingen eller et sammendrag i Norsk Designtidende med opplysning om at dokumentet kan fås hos Patentstyret eller Klagenemden.
+
+Kan forkynnelse eller annen prosessuell meddelelse ikke skje ved den registrerte adressen eller hos fullmektigen, gjelder annet ledd tilsvarende for retten. Dokumentet anses i så fall som forkynt eller meddelt fire uker etter utgivelsen av Norsk Designtidende.
+
+Hvis en søker eller designhaver ellers har utpekt en fullmektig til å representere seg i forhold som gjelder søknaden eller designregistreringen, skal fullmektigens navn og adresse innføres i designregistret. Det samme gjelder hvis en som krever administrativ overprøving har utpekt en fullmektig til å representere seg i forhold som gjelder kravet.
+
+> Endret ved lover [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+
+### § 50. Fristoversitting
+
+Den som overfor Patentstyret har oversittet en frist fastsatt i eller i medhold av bestemmelsene i [kapittel 2](lov/2003-03-14-15/kap2), [4](lov/2003-03-14-15/kap4) eller 6, og som følge av dette har lidt rettstap, skal når denne krever det, likevel få en sak tatt under behandling hvis det godtgjøres at fristoversittelsen var utilsiktet. Kravet må være innlevert skriftlig til Patentstyret innen to måneder etter at hindringen som førte til fristoversittelsen opphørte, og senest fire måneder etter fristens utløp. Innen samme frist skal den unnlatte handlingen være foretatt. Det skal betales fastsatt gebyr, ellers anses kravet som ikke innkommet.
+
+Første ledd gjelder ikke frister etter [§ 16](lov/2003-03-14-15/§16) om prioritet eller søksmålsfristen etter [§ 39](lov/2003-03-14-15/§39) annet ledd annet punktum. Heller ikke kan klage på avgjørelser som nevnt i [§ 36](lov/2003-03-14-15/§36) annet ledd, tas til behandling dersom fristen i [§ 37](lov/2003-03-14-15/§37) er oversittet.
+
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798), se dens nr. 2).
+
+### § 51. Om designregistret mv.
+
+Patentstyret fører designregistret og utgir en tidende der registreringer mv. kunngjøres.
+
+Enhver har rett til å få se designregistret og få bekreftet utskrift av det. For utskrifter skal det betales fastsatt gebyr.
+
+For kopier av dokumenter som er offentlige etter loven her, skal det betales fastsatt gebyr.
+
+Gebyrsatsene for ikke bekreftede utskrifter og kopier skal fastsettes slik at de samlete inntektene ikke blir større enn de faktiske omkostningene ved formidling av informasjonen, med tillegg av en rimelig fortjeneste.
+
+> Endret ved lover [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 52. Forskrifter til loven (avgifter og gebyrer mv.)
+
+Kongen kan ved forskrift gi nærmere bestemmelser til utfylling og gjennomføring av loven her. Kongen kan blant annet gi bestemmelser omomfanget av Patentstyrets undersøkelse av søknader,internasjonale søknader og registreringer,lengden på frister etter loven,deling og sammenslåing av søknader og registreringer,føring av og innsyn i designregistret, ogsatser for avgifter og gebyrer, og betaling av disse. Kongen kan herunder fastsette gebyrer for deling og sammenslåing av søknader og registreringer.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 53. Lisens
+
+En designhaver kan gi en annen rett til å utnytte designen (lisens). Lisenshaveren kan ikke overdra retten videre, med mindre avtalen med designhaveren gir rett til dette.
+
+Inngår lisensen i en virksomhet, kan den overdras sammen med virksomheten om ikke annet er avtalt. Den som overdrar virksomheten, er fortsatt ansvarlig for at lisensavtalen oppfylles.
+
+En lisens skal innføres i designregistret og kunngjøres hvis en av partene ber om det. Det samme gjelder hvis en registrert lisens er overdratt eller opphørt.
+
+### § 54. Rettsvirkningen mv. av innføringer i designregistret
+
+Søksmål som gjelder en designregistrering, kan alltid reises mot den som står som innehaver i designregistret, og meldinger som Patentstyret skal gi designhaveren, kan alltid sendes til denne.
+
+Er en designrett overdratt til en annen, skal dette innføres i designregistret og kunngjøres hvis en av partene ber om det. Hvis enkelte av designene i en samregistrering etter [§ 15](lov/2003-03-14-15/§15) er overdratt, kan overdragelsen bare innføres i designregistret og kunngjøres hvis designhaveren krever deling av registreringen. For slik deling skal det betales fastsatt gebyr, ellers anses kravet om deling som ikke innkommet.
+
+Utlegg i designretten skal innføres i designregistret og kunngjøres etter melding fra namsmyndighetene.
+
+Frivillig overdragelse av en designregistrering eller utstedelse av lisens som er blitt innmeldt til registrering, går i kollisjonstilfelle foran overdragelse eller utstedelse av lisens som ikke er eller først senere blir innmeldt til registrering, dersom vedkommende rettighetshaver ved innmeldelsen var i god tro.
+
+> Endret ved lover [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+## Kapittel 10. Internasjonal designregistrering
+
+### § 55. Definisjoner
+
+Med en internasjonal designregistrering forstås en registrering av design som er foretatt av Det internasjonale byrået ved Verdensorganisasjonen for immateriell eiendomsrett (WIPO) på grunnlag av Genèveavtalen 2. juli 1999 til Haagoverenskomsten 6. november 1925 om internasjonal registrering av design.
+
+Patentstyret er registreringsmyndighet i Norge i saker om internasjonal designregistrering.
+
+### § 56. Søknad om internasjonal designregistrering
+
+Den som er norsk statsborger eller er bosatt eller driver virksomhet i Norge, kan søke om internasjonal registrering av design ved å innlevere søknad om det til Patentstyret eller Det internasjonale byrået.
+
+Søknaden skal oppfylle de kravene som er fastsatt i Genèveavtalen.
+
+Når en søknad om internasjonal designregistrering er innlevert til Patentstyret, skal Patentstyret oversende søknaden til Det internasjonale byrået innen fristen som er fastsatt ved forskrift. For slik oversendelse skal det betales fastsatt gebyr.
+
+> Endret ved lov [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 57. Krav om at en internasjonal designregistrering skal ha virkning i Norge
+
+Når Patentstyret får melding fra Det internasjonale byrået med krav fra innehaveren om at en internasjonal registrering skal ha virkning i Norge, skal Patentstyret undersøke om registreringen gjelder en design som nevnt i [§ 2](lov/2003-03-14-15/§2) nr. 1, og om vilkårene i [§ 7](lov/2003-03-14-15/§7) første ledd er oppfylt.
+
+Er vilkårene ikke oppfylt, skal Patentstyret helt eller delvis avslå å gi den internasjonale registreringen virkning i Norge. Avslag må meldes til Det internasjonale byrået innen fristen som er fastsatt ved forskrift.
+
+Ved avslag kan innehaveren av den internasjonale registreringen på de vilkårene som er fastsatt ved forskrift, kreve at Patentstyret foretar en fornyet vurdering av spørsmålet om den internasjonale registreringen skal ha virkning i Norge.
+
+Er vilkårene oppfylt, skal Patentstyret innføre den internasjonale registreringen i designregistret og kunngjøre at den har virkning i Norge.
+
+For Patentstyrets behandling av krav om at en internasjonal registrering skal ha virkning i Norge, gjelder [§§ 19](lov/2003-03-14-15/§19) og [50](lov/2003-03-14-15/§50) tilsvarende. Hvis den internasjonale designhaveren har påberopt prioritet, gjelder [§ 16](lov/2003-03-14-15/§16).
+
+> Endret ved lov [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)).
+
+### § 58. Virkningene av en internasjonal designregistrering
+
+En innføring i designregistret om at en internasjonal registrering har virkning i Norge, har samme virkning som om designen var registrert her i landet. Innføringen har virkning fra den dagen registreringen ved Det internasjonale byrået anses for å ha skjedd.
+
+Frem til den internasjonale registreringen er innført i designregistret og kunngjort etter [§ 57](lov/2003-03-14-15/§57) fjerde ledd, har registreringen samme virkning som en søknad om designregistrering i Norge. Utnytter noen designen uten samtykke fra den internasjonale designhaveren, og skjer utnyttelsen etter at den internasjonale registreringen er kunngjort av Det internasjonale byrået, gjelder [§ 39 a](lov/2003-03-14-15/§39a), [§ 40](lov/2003-03-14-15/§40) første til tredje og femte ledd og [§§ 41](lov/2003-03-14-15/§41), [41 a](lov/2003-03-14-15/§41a) og [41 b](lov/2003-03-14-15/§41b) tilsvarende hvis registreringen senere blir innført i designregistret. Foreldelsesfristen for krav etter dette leddet begynner ikke å løpe før registreringen er innført i designregistret.
+
+Innføringen kan fornyes etter bestemmelsene i Genèveavtalen. Når Patentstyret får melding fra Det internasjonale byrået om fornyelse av en internasjonal registrering, skal dette innføres i designregistret og kunngjøres.
+
+En innføring i designregistret om at en internasjonal registrering har virkning i Norge, kan oppheves, kjennes ugyldig, overføres eller slettes etter bestemmelsene i [kapittel 5](lov/2003-03-14-15/kap5). Oppheving etter [§ 33](lov/2003-03-14-15/§33) må skje innen fristen som er fastsatt ved forskrift.
+
+> Endret ved lov [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+
+### § 59. Virkningen av at en internasjonal designregistrering opphører
+
+Hvis en internasjonal registrering helt eller delvis opphører å gjelde, opphører samtidig dens virkning i Norge i samme utstrekning. Dette skal innføres i designregistret og kunngjøres.
+
+## Kapittel 11. Sluttbestemmelser
+
+### § 60. Oppheving av mønsterloven og terminologiske endringer i andre lover
+
+### § 61. Andre lovendringer
+
+### § 62. Ikraftsettings- og overgangsbestemmelser
+
+Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+Designloven gjelder også for design som er registrert eller søkt registrert før loven trådte i kraft, med de unntakene som følger av paragrafen her.
+
+For søknader som er innlevert før loven trådte i kraft, gjelder de tidligere bestemmelsene om innholdet i søknader, saksbehandling, innsyn, klage og domstolprøving av klageavgjørelser.
+
+Bestemmelsene i [§§ 4](lov/2003-03-14-15/§4) og [8](lov/2003-03-14-15/§8) gjelder ikke for design som er registrert eller søkt registrert før loven trådte i kraft. Overprøving for Patentstyret eller domstolene av en registrering som er gjort på grunnlag av de tidligere bestemmelsene, skjer på grunnlag av disse bestemmelsene.
+
+Hvis noen før loven trådte i kraft utnyttet en design på en måte som ikke krevde samtykke fra designhaveren etter de tidligere bestemmelsene, men som krever slikt samtykke etter loven her, kan vedkommende fortsette utnyttelsen uten hinder av de nye bestemmelsene. Samme rett har den som hadde gjort vesentlige forberedelser til å utnytte designen.

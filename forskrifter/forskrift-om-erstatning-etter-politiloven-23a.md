@@ -1,0 +1,70 @@
+---
+id: "sf-20220630-1279"
+slug: "forskrift-om-erstatning-etter-politiloven-23a"
+type: "forskrift"
+ref_id: "forskrift/2022-06-30-1279"
+title: "Forskrift om erstatning etter politiloven § 23a"
+short_title: null
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2022-09-01"
+last_change_in_force: "2023-01-06"
+last_updated: null
+xml_hash: "5e21e31b43859b658017778718237fa9c76b665c2d379dc5ce0ab1ce2aff11c7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om erstatning etter politiloven § 23a
+
+## § 1. Definisjoner
+
+I denne forskriften forstås med*Treningsaktiviteter:* Trening, testing, kursing og øvelser som omfattes av [politiloven § 23a](lov/1995-08-04-53/§23a) første ledd bokstav a og b.*Markører:* Personer som spiller praktiske roller for å støtte gjennomføringen av politiets treningsaktiviteter og opptaksprøver.*Opptaksprøver:* Prøver som må bestås for å tjenestegjøre i spesielle enheter, funksjoner eller tjenestearter i politiet. Som opptaksprøver regnes også seleksjon i forkant av selve opptaksprøven.
+
+## § 2. Personkretsen som omfattes av politiloven § 23a
+
+Som personell som gjør arbeid eller utfører verv i politiets tjeneste etter [politiloven § 23a](lov/1995-08-04-53/§23a) ansesfast eller midlertidig ansatte i politidistrikt, særorgan eller Politidirektoratet, med eller uten politiutdanning og politimyndighet, som deltar i eller medvirker til politiets, herunder Politihøgskolens, treningsaktiviteter og opptaksprøverpolitistudenter som er i praksis i politiet i bachelorutdanningen eller som medvirker til politiets treningsaktiviteter og opptaksprøver som markørerpersonell fra Forsvaret, Sivilforsvaret, andre etater og myndigheter, virksomheter og frivillige organisasjoner, og andre som deltar i eller medvirker til politiets treningsaktiviteter og opptaksprøver som instruktører eller markører.
+
+Første ledd bokstav a omfatter også personer som gjennomfører opptaksprøver uten å være ansatt i politiet.
+
+Personell som nevnt i første ledd bokstav c omfattes ikke når deltakelsen eller medvirkningen er forankret i disse aktørenes egne roller, myndighet, ansvar og oppgaver, herunder Forsvarets bistand til politiet etter [politiloven § 27a](lov/1995-08-04-53/§27a) og [bistandsinstruksen](forskrift/2017-06-16-789).
+
+## § 3. Skadesituasjoner som omfattes av politiloven § 23a
+
+Retten til erstatning etter [politiloven § 23a](lov/1995-08-04-53/§23a) omfatter skader som skyldestreningsaktivitet som inngår i et sertifiserings- og vedlikeholdsprogram for innsatspersonell, og treningsaktivitet med elementer fra slike program når den inngår i kravsett for å inneha bestemte stillinger, funksjoner, klassifiseringer og sertifiseringer. Treningsaktiviteten omfattes uavhengig av om den foregår på eller utenfor politiets egen eiendomannen treningsaktivitet på operative politioppgaver som omfatter elementer av maktbruk eller redningstjeneste, jf. [§ 4](forskrift/2022-06-30-1279/§4). Slik treningsaktivitet omfattes også når den arrangeres av, eller i samvirke med, andre nasjonale eller internasjonale aktører eller av Politihøgskolen som etter- og videreutdanningopptaksprøver for innsatspersonell.
+
+Retten til erstatning gjelder uavhengig av om treningsaktiviteten foregår i Norge eller i utlandet, og under hvilken del av treningsaktiviteten skaden oppstod. Retten til erstatning omfatter også skader som skyldes skadeforebyggende oppvarmingsøvelser som inngår i det spesifikke opplegget for treningsaktiviteter og opptaksprøver.
+
+## § 4. Oppgaver som omfattes av politiloven § 23a første ledd bokstav b
+
+Med treningsaktiviteter på operative politioppgaver med elementer av maktbruk eller redningstjeneste menes trening, kursing eller øvelser i blant annet:arrestasjonsteknikkbruk av våpen og andre maktmidlerutrykningskjøring og bruk av kjøretøy til tvangsmessig stans av annet kjøretøybruk av politihelikopter, droner o.l. i taktisk hendelses- eller situasjonshåndteringføring av snøscooter i polisiære oppdrag, redningstjeneste og oppsynsvirksomhetsjøtjeneste med føring av politiets båterbruk av tjenestehunder i søk og redning og som maktmiddelmobilt innsatskonsept og massetjenestelivvakttjenestegjennomføring av søk og redningsoppdraginnsatsledelse i politioppdrag og redningstjenesteandre operative politioppgaver for å opprettholde ro og orden, beskytte liv og helse og kritiske samfunnsfunksjoner mv, og bekjempe kriminalitet.
+
+## § 5. Skadesituasjoner som ikke omfattes av politiloven § 23a
+
+Retten til erstatning etter [politiloven § 23a](lov/1995-08-04-53/§23a) omfatter ikke skader som skyldesgjøremål knyttet til administrativ støtte for planlegging og gjennomføring av treningsaktiviteter og opptaksprøveralminnelig og generell fysisk grunntreningalminnelig og generell fysisk oppvarming i forkant av treningsaktiviteter eller opptaksprøver.
+
+> Endret ved forskrift [6 jan 2023 nr. 19](forskrift/2023-01-06-19).
+
+## § 6. Treningsaktiviteter som anses pålagt og organisert etter politiloven § 23a første ledd bokstav a og b
+
+Treningsaktiviteter anses som pålagt når de utøves i henhold tilsertifiserings- og vedlikeholdsprogram for innsatspersonell eller andre kravsett for å inneha bestemte stillinger, funksjoner, klassifiseringer og sertifiseringer, jf. [§ 3](forskrift/2022-06-30-1279/§3) første ledd bokstav akrav om å gjennomføre treningsaktiviteter for å opprettholde kompetanse i operative politioppgaver og egen sikkerhet, jf. [§ 3](forskrift/2022-06-30-1279/§3) første ledd bokstav b og [§ 4](forskrift/2022-06-30-1279/§4).
+
+Treningsaktiviteter anses som organisert når de ledes av eller utføres i samråd med instruktør eller øvingsleder. Det er ikke et krav at instruktør eller øvingsleder er til stede for å lede treningsaktiviteten.
+
+## § 7. Fremsettelse av krav
+
+Retten til erstatning etter [politiloven § 23a](lov/1995-08-04-53/§23a) forutsetter at skadelidte fremmer krav om erstatning etter [yrkesskadeforsikringsloven § 11](lov/1989-06-16-65/§11). Dersom dette kravet avslås, vurderer Statens pensjonskasse av eget tiltak om erstatning skal tilkjennes etter [politiloven § 23a](lov/1995-08-04-53/§23a).
+
+## § 8. Klage
+
+Avgjørelser om erstatning etter [politiloven § 23a](lov/1995-08-04-53/§23a) kan påklages til Finansklagenemnda. Slik klage er ikke et vilkår for domstolsbehandling av avgjørelser om erstatning etter [politiloven § 23a](lov/1995-08-04-53/§23a).
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 1. september 2022.
+
+> Endret ved forskrift [12 aug 2022 nr. 1445](forskrift/2022-08-12-1445).

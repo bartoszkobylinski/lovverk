@@ -1,0 +1,92 @@
+---
+id: "sf-20000706-0727"
+slug: "forskrift-om-meldesystem-etter-samordningsloven"
+type: "forskrift"
+ref_id: "forskrift/2000-07-06-727"
+title: "Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv."
+short_title: "Forskrift om meldesystem etter samordningsloven"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2000-09-01"
+last_change_in_force: "2024-01-01"
+last_updated: null
+xml_hash: "abbd69aef1c62b3f4e23274941e221088851db49555972951f2b99be313146b2"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv.
+
+## § 1. Formål og omfang
+
+Formålet med denne forskriften er å sikre at det skjer korrekt samordning og tilpassing av ytelser fra pensjons- eller trygdeordninger som omfattes av samordningsloven.
+
+> Endret ved [forskrift 18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020).
+
+## § 2. Om registrering av opplysninger
+
+Når en person er innvilget ytelser fra en pensjons- eller trygdeordning, skal opplysninger om dette registreres av Arbeids- og velferdsetaten i et samordningsregister.
+
+Det skal registreres opplysninger om fødselsnummer (eventuelt D-nummer), pensjons- eller trygdeordning, ytelsestype, virkningstidspunkt, opphørstidspunkt og eventuelt andre nødvendige opplysninger som Arbeids- og velferdsdirektoratet bestemmer.
+
+Det skal foretas registrering selv om ytelsen er bortfalt som følge av fradragsreglene i samordningsloven eller særskilte fradragsregler for vedkommende pensjonsordning.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020).
+
+## § 3. Generelt om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjons- eller trygdeordning
+
+Utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjons- eller trygdeordning skal skje elektronisk.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020).
+
+## § 4. Melding fra pensjons- eller trygdeordning til Arbeids- og velferdsetaten ved innvilgelse, endring eller opphør av ytelse
+
+Pensjons- eller trygdeordning skal sende melding til Arbeids- og velferdsetaten når ytelsen innvilges, endres eller opphører.
+
+Arbeids- og velferdsetaten skal registrere opplysningene fra pensjons- eller trygdeordningen.
+
+Når en ytelse er innvilget, må pensjons- eller trygdeordning ikke utbetale ytelsen før svarmelding er mottatt etter [§ 5](forskrift/2000-07-06-727/§5) første ledd.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020).
+
+## § 5. Melding fra Arbeids- og velferdsetaten til pensjons- eller trygdeordning
+
+Arbeids- og velferdsetaten skal sende svarmelding til pensjons- eller trygdeordning når etaten har mottatt melding fra ordningen om at det er innvilget en ytelse, jf. [§ 4](forskrift/2000-07-06-727/§4). Svarmeldingen skal gi opplysninger om det er registrert andre ytelser i den aktuelle saken, eventuelt at det ikke er registrert andre ytelser.
+
+Arbeids- og velferdsetaten skal gi pensjons- eller trygdeordning de opplysningene om ytelser etaten selv administrerer som er nødvendig for at ordningen skal kunne foreta korrekt pensjonsberegning og samordning.
+
+Arbeids- og velferdsetaten skal gi melding til pensjons- eller trygdeordning om ny ytelse, endring eller opphør av ytelse som det er mottatt melding om fra annen pensjons- eller trygdeordning.
+
+Arbeids- og velferdsetaten kan inngå avtale med pensjons- eller trygdeordning om rapporter over utbetalte arbeidsavklaringspenger, herunder opplysninger om endringer på grunn av arbeid, fravær, trekk på grunn av for sen melding mv.
+
+Når det skjer endringer i faktisk eller forventet arbeidsinntekt etter [folketrygdloven § 17 A-6](lov/1997-02-28-19/§17A-6) som fører til at en pensjon fra folketrygden omregnes, skal Arbeids- og velferdsetaten oppgi den nye inntekten til tjenestepensjonsleverandøren sammen med meldingen om at ytelsen fra folketrygden er endret.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [20 april 2010 nr. 527](forskrift/2010-04-20-527) (med virkning fra 1 mars 2010), [18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020), [21 des 2023 nr. 2283](forskrift/2023-12-21-2283) (i kraft 1 jan 2024).
+
+## § 5a. (Opphevet)
+
+> Opphevet ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006).
+
+## § 6. Melding fra Arbeids- og velferdsetaten til tjenestepensjonsleverandør om samordning med alderspensjon etter [folketrygdloven kapittel 20](lov/1997-02-28-19/kap20)
+
+Arbeids- og velferdsetaten skal gi opplysninger om opptjente rettigheter i folketrygden som danner grunnlag for samordning etter [samordningsloven § 24a](lov/1957-07-06-26/§24a) og [§ 24c](lov/1957-07-06-26/§24c). Arbeids og velferdsetaten skal også gi opplysninger som er nødvendige for å vurdere om det skal foretas ny samordningsberegning.
+
+Tjenestepensjonsleverandøren fastsetter samordningsbeholdningen og samordningsfradraget på grunnlag av opplysninger fra Arbeids- og velferdsetaten.
+
+> Tilføyd ved [forskrift 18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020).
+
+## § 7. Øvrige meldinger fra pensjons- eller trygdeordning
+
+Enhver pensjons- eller trygdeordning skal gi melding om egen pensjonsberegning til annen pensjons- eller trygdeordning når dette har betydning for beregningen av ytelsene fra vedkommende ordning.
+
+> Endret ved [forskrifter 13 mars 2002 nr. 265](forskrift/2002-03-13-265), [18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020, tidligere § 6).
+
+## § 8. Ikrafttredelse
+
+Forskriften trer i kraft den 1. september 2000. Fra samme tidspunkt oppheves [forskrift av 7. april 1961 nr. 4116](forskrift/1961-04-07-4116) om registrering av personer med pensjons- og trygdeytelser som omfattes av samordningsloven m.v. (samordningsforskrift 47).
+
+> Endret ved [forskrift 18 juni 2020 nr. 1226](forskrift/2020-06-18-1226) (i kraft 1 juli 2020, tidligere § 7).

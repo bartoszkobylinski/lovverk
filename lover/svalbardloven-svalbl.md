@@ -1,0 +1,404 @@
+---
+id: "nl-19250717-011"
+slug: "svalbardloven-svalbl"
+type: "lov"
+ref_id: "lov/1925-07-17-11"
+title: "Lov om Svalbard [Svalbardloven]"
+short_title: "Svalbardloven – svalbl"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1925-08-14"
+last_change_in_force: "2023-08-25"
+last_updated: "2022-04-28"
+xml_hash: "3b3d16dfaf2f5f17786940cdeec2c817a7e7a3bb24f6f314c93a5b1118b0a24e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om Svalbard [Svalbardloven]
+
+## 1ste kapitel. Svalbards forhold til Norge.
+
+### § 1
+
+Svalbard er en del av kongeriket Norge.
+
+Til Svalbard hører Bjørnøya, Vest-Spitsbergen, Nordostlandet, Barents øy, Edge øy, Kong Karls land, Hopen, Prins Karls Forland og alle andre øer, holmer og skjær mellem 10° og 35° lengde øst for Greenwich og mellem 74° og 81° nordlig bredde.
+
+### § 2
+
+Norsk privatrett og strafferett og den norske lovgivning om rettspleien gjelder for Svalbard, når ikke annet er fastsatt.
+
+Andre lovbestemmelser gjelder ikke for Svalbard, uten når det særskilt er fastsatt.
+
+### § 3
+
+Lovene om offentlige tjenestemenn,1 om betaling for offentlige forretninger, om mynt, mål og vekt, om tid, om formidling av landsdekkende postsendinger, om elektronisk kommunikasjon, om arbeidervern og om arbeidstvister skal gjelde for Svalbard med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.
+
+> Endret ved [lover 9 jan 1998 nr. 5](lov/1998-01-09-5), [4 juli 2003 nr. 83](lov/2003-07-04-83) (ikr. 25 juli 2003 iflg. [res. 4 juli 2003 nr. 879](forskrift/2003-07-04-879)), [26 jan 2007 nr. 4](lov/2007-01-26-4) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 86](forskrift/2007-01-26-86)).
+
+### § 4
+
+Kongen kan utferdige alminnelige forskrifter om kirke-, skole- og forsorgsvesenet, om den offentlige orden, om utvisning, lege- og sunnhetsvesenet, om bygnings- og brannvesenet, om ildsfarlige gjenstander, om skipsfart, luftfart og annen samferdsel, om turisme, om industrielt rettsvern, om bergverksdrift, saltvannsfiske, fangst av ikke stedegne sjøpattedyr og annen næringsdrift og om oppgaver til den offisielle statistikk. Kongen kan også utferdige forskrift om begrensninger i virksomhet som vil kunne være til skade for forskningsaktivitet i bestemte områder av spesiell verdi for forskningen.
+
+Den som forsettlig eller uaktsomt overtrer forskrifter gitt i medhold av første ledd eller forbud eller påbud gitt i medhold av forskriftene, straffes med bøter eller med fengsel i inntil 1 år, med mindre forskriften fastsetter lavere straff.
+
+Ved overtredelse av regler om fiske og fangst i Svalbards indre farvann og sjøterritorium gjelder [lov av 6. juni 2008 nr. 37](lov/2008-06-06-37) om forvaltning av viltlevande marine ressursar [§§ 64](lov/2008-06-06-37/§64) annet og fjerde ledd og [65](lov/2008-06-06-37/§65) tilsvarende. Forsøk straffes i slike tilfeller på samme måte som fullbyrdet overtredelse.
+
+> Endret ved [lover 16 des 1960 nr. 1](lov/1960-12-16-1), [16 juni 1989 nr. 68](lov/1989-06-16-68), [14 juni 1991 nr. 28](lov/1991-06-14-28), [20 juli 1991 nr. 66](lov/1991-07-20-66), [17 apr 1998 nr. 23](lov/1998-04-17-23) (ikr. 1 juli 1998 iflg. [res. 17 apr 1998 nr. 336](forskrift/1998-04-17-336)), [15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)), [21 des 2005 nr. 128](lov/2005-12-21-128), [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## 2net kapitel. Styre og rettspleie.
+
+### § 5
+
+På Svalbard skal det være en sysselmester som oppnevnes av Kongen.
+
+Sysselmesteren har samme myndighet som en statsforvalter. Sysselmesteren er også politimester og notarius publicus, så lenge det ikke er særskilte tjenestepersoner i disse stillingene.
+
+På Svalbard er sysselmesteren namsmann og hovedstevnevitne. Veksel- og sjekkprotester tas opp av Sysselmesteren.
+
+> Endret ved [lover 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)),[7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 6
+
+Lagmannsrett for Svalbard er lagmannsretten for det lagsogn som Kongen fastsetter.
+
+### § 7
+
+Svalbard hører under den tingrett som Kongen fastsetter.
+
+> Endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+
+### § 8
+
+Medlemmer og varamedlemmer av Svalbard forliksråd velges av Longyearbyen lokalstyre selv. Sysselmesteren er sekretariat for forliksrådet.
+
+> Endret ved [lover 11 juni 1993 nr. 83](lov/1993-06-11-83), [15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 9. (Opphevet)
+
+> Opphevet ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67).
+
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (i kraft 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), opphevet ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+
+### § 10
+
+Skjønn i ekspropriasjonssaker avgis av tre skjønnsmedlemmer. Overskjønn avgis av fem skjønnsmedlemmer og styres av sysselmesteren eller en ansatt hos Sysselmesteren som oppfyller kravene for å være lagdommer.
+
+Er saken særlig viktig, kan Kongen etter begjæring av en part bestemme at en skjønnsstyrer som oppnevnes av Kongen og to skjønnsmedlemmer skal avgi skjønnet. Overskjønn avgis i så fall av fem skjønnsmedlemmer og styres av en skjønnsstyrer som Kongen oppnevner.
+
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 11
+
+På Svalbard velger lokalstyret selv meddommere hvert fjerde år. Valget foregår etter hvert valg til lokalstyret og gjelder for fire år fra 1. mai det påfølgende år. Når rettsmøte skal holdes på Svalbard, skal en av domstolens tjenestemenn ta ut meddommere ved loddtrekning.
+
+Skjønnsmedlemmer og rettsvitner oppnevnes av retten.
+
+De som opnevnes, plikter å ta imot hvervet. Reise- og kostgodtgjørelse kan tilstås efter regler som Kongen fastsetter.
+
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+### § 12
+
+På Svalbard kan meldinger om dødsfall etter [arveloven § 89](lov/2019-06-14-21/§89) gis til Sysselmesteren.
+
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86), tilføyd igjen ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 13
+
+Tinglysingsregisteret (grunnboken) for Svalbard er et edb-basert register over tinglyste dokumenter som gjelder fast eiendom. Føringen av grunnboken skjer ved elektronisk databehandling. Forskrifter fastsatt med hjemmel i lov om tinglysing gis anvendelse så langt de passer. Departementet kan gi særskilte forskrifter for grunnboken for Svalbard.
+
+> Endret ved [lov 7 mars 1997 nr. 21](lov/1997-03-07-21).
+
+## 3dje kapitel. Særregler om personlige rettsforhold.
+
+### § 14. (Opphevet)
+
+> Endret ved [lov 22 apr 1927 nr. 3](lov/1927-04-22-3), opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
+
+### § 15. (Opphevet)
+
+> Opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
+
+### § 16. (Opphevet)
+
+> Opphevet ved [lov 16 juni 1989 nr. 68](lov/1989-06-16-68).
+
+### § 17
+
+Oprettes ektepakt forut for ekteskapet, og vigselmannen påtegner en bevidnelse om tiden, er ektepakten gyldig også overfor tredjemann like fra giftermålet, dersom den blir tinglyst innen ett år.
+
+### § 18
+
+Mekling mellom ektefeller etter [ekteskapsloven](lov/1991-07-04-47) kan foretas av Sysselmesteren eller av en vigsler.
+
+> Endret ved lover 5 nov 1964, [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 19
+
+Sysselmesteren gjør også tjeneste som bidragsfoged efter lovene om foreldre og barn.
+
+> Endret ved [lover 8 apr 1981 nr. 7](lov/1981-04-08-7), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 20. (Opphevet)
+
+> Endret ved [lov 12 juni 1987 nr. 70](lov/1987-06-12-70), opphevet ved [lov 17 juli 1992 nr. 100](lov/1992-07-17-100).
+
+### § 21
+
+Lovene om odels- og åsætesrett gjelder ikke for Svalbard.
+
+## 4de kapitel. Særregler om eiendomsforholdene.
+
+### § 22
+
+All grunn, som ikke blir tilkjent nogen til eiendom efter [Svalbardtraktaten,](traktat/1920-02-09-1) er statsgrunn og er som sådan undergitt statens eiendomsrett.
+
+Ingen kan vinne hevd på eiendomsrett eller bruksrett til statsgrunn. Rettigheter som staten har over avhendet statsgrunn, kan ikke falle bort ved hevd.
+
+> Endret ved [lov 22 juni 1928 nr. 19](lov/1928-06-22-19).
+
+### § 23
+
+Over grunn som er tilkjent privat eier efter [Svalbardtraktaten,](traktat/1920-02-09-1) kan statsborgere i de land, som er med på traktaten, erhverve så vel eiendomsrett som bruksrett uten tillatelse. Det samme gjelder lovlig stiftet selskap, som har sitt styre i disse stater.
+
+Pantebokføreren kan forlange bevis fra vedkommende myndighet i hjemlandet for at en utlending eller et utenlandsk selskap opfyller disse vilkår.
+
+> Endret ved [lov 22 juni 1928 nr. 19](lov/1928-06-22-19).
+
+### § 24
+
+Dersom eieren eller brukeren av fast eiendom på Svalbard ikke bor eller har fast ophold i Norge eller på Svalbard, skal han ha en fullmektig som bor i riket og har fullmakt til å representere ham i alt som angår eiendommen. Det samme gjelder, når eieren eller brukeren er et selskap med styre i utlandet.
+
+Fullmakten med fullmektigens navn og stilling skal tinglyses.
+
+Er ikke slik fullmakt gitt og tinglyst, kan underdommeren opnevne en fullmektig efter begjæring av en interessert. Opnevnelsen skal tinglyses og gjelder inntil eieren eller brukeren selv tinglyser fullmakt.
+
+### § 25. (Opphevet)
+
+> Endret ved [lover 7 mars 1997 nr. 21](lov/1997-03-07-21), [15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), opphevet ved [lov 17 juni 2005 nr. 101](lov/2005-06-17-101) (ikr. 1 jan 2022 iflg. [res. 17 des 2021 nr. 3632](forskrift/2021-12-17-3632)).
+
+### § 26
+
+Grunneieren har enerett til jakt og fangst på eiendommen:i nærheten av bosteder, hus, magasiner, verksteder og andre bygg som har til formål å nytte ut eiendommen;innenfor en avstand av 10 km. fra hovedsætet for virksomheten eller utnyttingen av eiendommen.
+
+> Endret ved [lov 15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648). Tillatelser gitt med hjemmel i det opphevede annet ledd bortfalt fra samme tid).
+
+### § 27
+
+Utenfor de områder som er nevnt i § 26, har jægere, fangstmenn, fiskere og egg- og dunsamlere rett til å ha hytter og andre innretninger, som de trenger for sitt ophold og arbeide, når det ikke er til ulempe for grunneieren.
+
+De som vil drive videnskapelige undersøkelser, har samme rett utenfor de områder som er nevnt i § 26 a.
+
+Tvist om anvendelsen av disse forskrifter avgjøres av Sysselmesteren med endelig virkning.
+
+> Endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 28
+
+Tvungen avståelse av eiendomsrett eller bruksrett over fast eiendom i andre tilfelle enn bergverksordningen hjemler, kan Kongen tillate:når staten eller private vil bygge havn, kai, dokk, vei, transportinnretning, vannledning, kraftoverføring, telegraf eller telefon;når staten ellers trenger grunn til offentlig eller videnskapelig bruk.
+
+Eieren og andre rettighetshavere skal få adgang til å uttale sig, før Kongen gir tillatelsen.
+
+## 5te kapitel. Longyearbyen lokalstyre
+
+> Kapitlet tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)).
+
+### § 29
+
+Formålet med dette kapitlet er å legge forholdene til rette for et funksjonsdyktig lokalt folkestyre i Longyearbyen, og for en rasjonell og effektiv forvaltning av fellesinteressene innenfor rammen av norsk svalbardpolitikk, og med sikte på en miljøforsvarlig og bærekraftig utvikling av lokalsamfunnet. Bestemmelsene i dette kapitlet skal også legge til rette for en tillitskapende forvaltning som bygger på en høy etisk standard.
+
+Dette kapitlet gjelder for Longyearbyen lokalstyres virksomhet.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 19 juni 2009 nr. 88](lov/2009-06-19-88) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 840](forskrift/2009-06-19-840)), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 30
+
+Longyearbyen skal ha et folkevalgt styre (lokalstyret), som er det øverste organet i Longyearbyen lokalstyre. Lokalstyret treffer vedtak på vegne av Longyearbyen lokalstyre, så langt ikke annet følger av lov eller delegasjonsvedtak.
+
+Longyearbyen lokalstyre er et eget rettssubjekt og kan ta avgjørelser på eget initiativ og ansvar.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 31
+
+Longyearbyen lokalstyre kan drive virksomhet av allmenn interesse som har tilknytning til Longyearbyen, og som ikke ivaretas av staten.
+
+Longyearbyen lokalstyre utøver sin myndighet og virksomhet innenfor nasjonale rammer og rammen av norsk svalbardpolitikk.
+
+Longyearbyen lokalstyre har ansvar for infrastruktur i Longyearbyen som ikke er tillagt staten eller andre. Lokalstyret kan selv fastsette gebyr for slike tjenester. Gebyret skal beregnes ut fra prinsippet om selvkost, jf. § 41 bokstav b.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 32
+
+Forvaltningsloven, offentleglova og arkivlova gjelder tilsvarende for Longyearbyen lokalstyre som for kommunene.
+
+Longyearbyen lokalstyre skal aktivt informere om sin egen virksomhet og om virksomhet som andre rettssubjekter utfører på vegne av lokalstyret. Longyearbyen lokalstyre skal også legge til rette for at alle kan få tilgang til slik informasjon.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 33
+
+Longyearbyen lokalstyres myndighetsområde er arealplanområdet for Longyearbyen slik dette fastsettes ved forskrift i medhold av lov om miljøvern på Svalbard.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)).
+
+### § 34
+
+Lokalstyret velges av og blant de stemmeberettigede innbyggere med bostedsadresse i Longyearbyen.
+
+Medlemmene i lokalstyret skal velges ved forholdsvalg. Dersom det ikke foreligger mer enn ett godkjent listeforslag, holdes valget likevel som et flertallsvalg. Valget gjelder for fire år. Det kan i løpet av perioden holdes suppleringsvalg etter egne regler.
+
+Lokalstyret skal ha minst elleve medlemmer, og medlemstallet skal være et oddetall. Endring av medlemstallet vedtas av lokalstyret selv senest 31. desember i nest siste år av valgperioden, med virkning for kommende valgperiode.
+
+Departementet gir forskrift om stemmerett, valgbarhet, gjennomføring av valg og suppleringsvalg til lokalstyret.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 8 des 2006 nr. 67](lov/2006-12-08-67) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1377](forskrift/2006-12-08-1377)), [16 mars 2007 nr. 12](lov/2007-03-16-12), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 35
+
+Folkevalgte organer skal opprettes etter bestemmelsene i denne loven eller etter bestemmelser om slike organer i andre lover.
+
+Folkevalgte organer etter denne loven erlokalstyretadministrasjonsutvalgetutvalg, inkludert kontrollutvalgetarbeidsutvalglokalstyrekomiteerfolkevalgte organer hjemlet i særlov.
+
+Folkevalgte organer som nevnt i andre ledd bokstav a, b, c og e skal ha navn som inkluderer den betegnelsen som er brukt om organet der.
+
+Med folkevalgte menes i dette kapitlet medlemmer av lokalstyret og personer som et folkevalgt organ har valgt inn i et folkevalgt organ eller et annet organ i Longyearbyen lokalstyre etter § 35 a.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 35 a
+
+Andre organer i Longyearbyen lokalstyre skal opprettes etter bestemmelsene i denne loven.
+
+Andre organer i Longyearbyen lokalstyre etter denne loven erpartssammensatte utvalgstyret for en institusjonstyret for et lokalstyreforetakungdomsråd eller annet medvirkningsorgan for ungdom og arbeidsutvalg for dette.
+
+For øvrig gjelder de samme bestemmelsene som for folkevalgte organer etter § 35.
+
+> Tilføyd ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)), endret ved lov [2 juni 2023 nr. 21](lov/2023-06-02-21) (i kraft 1 juli 2023 iflg. [res. 2 juni 2023 nr. 767](forskrift/2023-06-02-767)).
+
+### § 35 b
+
+[Kommuneloven § 5-3](lov/2018-06-22-83/§5-3) tredje ledd om intern delegering og [§ 5-4](lov/2018-06-22-83/§5-4) om delegering til andre rettssubjekter gjelder tilsvarende for Longyearbyen lokalstyre.
+
+Lokalstyret velger selv et administrasjonsutvalg med minst fem medlemmer. [Kommuneloven § 5-6](lov/2018-06-22-83/§5-6) andre til femte ledd om formannskap og fylkesutvalg gjelder tilsvarende for valg av medlemmer og administrasjonsutvalgets virksomhet.
+
+Lokalstyret kan selv opprette utvalg for lokale formål eller for deler av Longyearbyen lokalstyres virksomhet. Slike utvalg skal ha minst tre medlemmer. [Kommuneloven § 5-7](lov/2018-06-22-83/§5-7) andre til femte ledd om utvalg gjelder tilsvarende for valg av medlemmer og utvalgenes virksomhet.
+
+[Kommuneloven §§ 5-9](lov/2018-06-22-83/§5-9), [5-10](lov/2018-06-22-83/§5-10), [5-11](lov/2018-06-22-83/§5-11), [5-13](lov/2018-06-22-83/§5-13) og [5-14](lov/2018-06-22-83/§5-14) om kommunestyrekomiteer, styret for institusjon, partssammensatte utvalg, reglement for folkevalgte organer og reglement for delegering og innstilling gjelder tilsvarende for Longyearbyen lokalstyre.
+
+Longyearbyen lokalstyre skal selv velge et ungdomsråd eller annet medvirkningsorgan for ungdom. [Kommuneloven § 5-12](lov/2018-06-22-83/§5-12) tredje til syvende ledd gjelder tilsvarende.
+
+> Tilføyd ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)), endret ved lov [2 juni 2023 nr. 21](lov/2023-06-02-21) (i kraft 1 juli 2023 iflg. [res. 2 juni 2023 nr. 767](forskrift/2023-06-02-767)).
+
+### § 36
+
+Lokalstyret velger selv en leder og en nestleder blant administrasjonsutvalgets medlemmer. De som skal velges, må før valget ha samtykket til å stille til valg. Lokalstyrelederen og nestlederen velges for hele valgperioden. [Kommuneloven § 6-1](lov/2018-06-22-83/§6-1) og [§ 6-2](lov/2018-06-22-83/§6-2) fjerde ledd gjelder tilsvarende for Longyearbyen lokalstyre.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 36 a
+
+[Kommuneloven kapittel 7](lov/2018-06-22-83/kap7) om valg til folkevalgte organer og [kapittel 8](lov/2018-06-22-83/kap8) om rettigheter og plikter for folkevalgte gjelder tilsvarende for Longyearbyen lokalstyre, med unntak av §§ 7-2 og 7-3 og med den tilpasningen som følger av andre ledd.
+
+Det konstituerende møtet etter [kommuneloven § 7-1](lov/2018-06-22-83/§7-1) første ledd skal holdes innen seks uker etter at valgoppgjøret er avsluttet.
+
+> Tilføyd ved [lov 8 des 2006 nr. 67](lov/2006-12-08-67) (ikr. 10 sep 2007 iflg. [res. 8 des 2006 nr. 1377](forskrift/2006-12-08-1377)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 36 b
+
+Denne bestemmelsen gjelder ved valg tilutvalg, inkludert kontrollutvalg og partssammensatte utvalgstyret for en institusjonstyret for et lokalstyreforetakfolkevalgte organer hjemlet i en særlov.
+
+En person er valgbar og plikter å ta imot valg hvis følgende vilkår er oppfylt:Han eller hun har stemmerett ved lokalstyrevalg.Han eller hun er innført i befolkningsregisteret som bosatt i Longyearbyen på valgtidspunktet.Han eller hun har skriftlig samtykket til å stille til valg.
+
+Personer som ikke har nådd stemmerettsalderen, men som for øvrig fyller vilkårene for valgbarhet og stemmerett, er valgbare, men er ikke pliktige til å ta imot valg.
+
+> Tilføyd ved [lov 8 des 2006 nr. 67](lov/2006-12-08-67) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1377](forskrift/2006-12-08-1377)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 36 c
+
+Utelukket fra valg til organer nevnt i § 36 b ersysselmesteren og assisterende sysselmesteradministrasjonssjefen i Longyearbyen lokalstyre og dennes stedfortredersektorsjefer og ledere på tilsvarende nivåsekretærer for lokalstyretden som har ansvaret for regnskapsfunksjonen i Longyearbyen lokalstyreden som foretar revisjonen i Longyearbyen lokalstyreansatte i sekretariatet i kontrollutvalget.
+
+Medlemmer og varamedlemmer av kontrollutvalget kan ikke velges somleder eller nestleder for lokalstyretmedlem eller varamedlem av administrasjonsutvalgetmedlem eller varamedlem av et folkevalgt organ med beslutningsmyndighetmedlem eller varamedlem av en lokalstyrekomité.
+
+Den som er ansvarlig for regnskapet i et lokalstyreforetak, er ikke valgbar til styret i foretaket.
+
+En kandidat ved lokalstyrevalget er ikke valgbar til stemmestyret, jf. [forskrift 14. mai 2007 nr. 506](forskrift/2007-05-14-506) om lokalstyrevalg [§ 7-4](forskrift/2007-05-14-506/§7-4) første ledd.
+
+En kandidat som ellers ville vært utelukket fra valg på grunn av sin stilling, er likevel valgbar hvis han eller hun har fratrådt stillingen når organet trer i funksjon.
+
+> Tilføyd ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)), endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 37
+
+[Kommuneloven §§ 11-2](lov/2018-06-22-83/§11-2) til [11-13](lov/2018-06-22-83/§11-13) om saksbehandlingen i folkevalgte organer gjelder tilsvarende for Longyearbyen lokalstyre. For styret i et lokalstyreforetak gjelder bare [§ 11-3](lov/2018-06-22-83/§11-3) andre og tredje ledd og §§ 11-4 til 11-7, 11-10 og 11-11.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 38. (Opphevet)
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 39
+
+Lokalstyret ansetter selv en administrasjonssjef, som skal være leder av Longyearbyen lokalstyres administrasjon.
+
+[Kommuneloven kapittel 13](lov/2018-06-22-83/kap13) om administrasjonen gjelder tilsvarende for Longyearbyen lokalstyre.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 16 mars 2007 nr. 12](lov/2007-03-16-12), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 39 a. (Opphevet)
+
+> Tilføyd ved [lov 8 des 2006 nr. 67](lov/2006-12-08-67) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1377](forskrift/2006-12-08-1377)), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 40
+
+[Kommuneloven kapittel 14](lov/2018-06-22-83/kap14) om økonomiforvaltning gjelder tilsvarende for Longyearbyen lokalstyre, med unntak av [§§ 14-8](lov/2018-06-22-83/§14-8) og [14-17](lov/2018-06-22-83/§14-17) første ledd andre punktum. Økonomiplanen, årsbudsjettet, årsregnskapene, årsberetningene og saksdokumentene fra det innstillende organet skal sendes departementet til orientering.
+
+[Kommuneloven kapittel 16](lov/2018-06-22-83/kap16) om kommunenes og fylkeskommunenes rapportering til staten gjelder tilsvarende for Longyearbyen lokalstyre.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 1 jan 2020 iflg. [res. 24 mai 2019 nr. 674](forskrift/2019-05-24-674)).
+
+### § 41
+
+Følgende kapitler i kommuneloven gjelder tilsvarende for Longyearbyen lokalstyrekapittel 9 om kommunale foretakkapittel 15 om selvkostkapittel 21 om representasjon av begge kjønn i styret av aksjeselskaperkapittel 22 om kommunestyrets kontrollansvarkapittel 23 om kontrollutvalgkapittel 24 om revisjonkapittel 25 om internkontrollkapittel 26 om eierstyringkapittel 27 om lovlighetskontrollkapittel 28 om statlig kontroll med kommuner og fylkeskommuner med økonomisk ubalanse (ROBEK)kapittel 29 om utlegg og konkurskapittel 30 om statlig tilsyn.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402), gjelder § 41 første ledd bokstav a, c–f, h, i og l), [24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 1 jan 2020 iflg. [res. 24 mai 2019 nr. 674](forskrift/2019-05-24-674), gjelder bokstav b, j og k), [24 mai 2019 nr. 17](lov/2019-05-24-17) (i kraft 25 aug 2023 iflg. [res. 25 aug 2023 nr. 1356](forskrift/2023-08-25-1356), gjelder bokstav g, se endringslov for overgangsbestemmelse).
+
+### § 42. (Opphevet)
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 43. (Opphevet)
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 12 des 2003 nr. 113](lov/2003-12-12-113) (ikr. 1 juli 2004 iflg. [res. 12 des 2003 nr. 1505](forskrift/2003-12-12-1505)), [15 des 2006 nr. 90](lov/2006-12-15-90) (ikr. 1 mars 2007 iflg. [res. 15 des 2006 nr. 1427](forskrift/2006-12-15-1427)), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402). Den delen som viser til kommuneloven § 60 ble opphevet 1 jan 2020).
+
+### § 44. (Opphevet)
+
+> Tilføyd ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret ved [lover 12 des 2003 nr. 113](lov/2003-12-12-113) (ikr. 1 juli 2004 iflg. [res. 12 des 2003 nr. 1505](forskrift/2003-12-12-1505)), [16 mars 2007 nr. 12](lov/2007-03-16-12), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+### § 44 a. (Opphevet)
+
+> Tilføyd ved [lov 8 des 2006 nr. 67](lov/2006-12-08-67) (ikr. 1 jan 2007 iflg. [res. 8 des 2006 nr. 1377](forskrift/2006-12-08-1377)), opphevet ved [lov 24 mai 2019 nr. 17](lov/2019-05-24-17) (ikr. 28 okt 2019 iflg. [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)).
+
+## 6te kapitel. Forskjellige bestemmelser.
+
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), endret kapittelnummer fra 5.
+
+### § 45
+
+Kongen kan fastsette at personer og selskaper fra stater som står utenfor [Svalbardtraktaten](traktat/1920-02-09-1) skal kunne erhverve bergverksrettigheter, eiendomsrett eller bruksrett til fast eiendom på Svalbard helt eller delvis på samme vilkår som om de hørte hjemme i traktatstatene.
+
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), tidligere § 29.
+
+### § 46
+
+Denne lov trer i kraft fra den tid Kongen fastsetter.1
+
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), tidligere § 30.

@@ -1,0 +1,270 @@
+---
+id: "sf-20161222-1868"
+slug: "drikkevannsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2016-12-22-1868"
+title: "Forskrift om vannforsyning og drikkevann (drikkevannsforskriften)"
+short_title: "Drikkevannsforskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2017-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2017-01-03"
+xml_hash: "60ef2dba5826b309230ad99470a2f19928c1a04ec3e469afb5499e0c8c1a1aee"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om vannforsyning og drikkevann (drikkevannsforskriften)
+
+## § 1. Formål
+
+Formålet med forskriften er å beskytte menneskers helse ved å stille krav om sikker levering av tilstrekkelige mengder helsemessig trygt drikkevann som er klart og uten fremtredende lukt, smak og farge.
+
+## § 2. Virkeområde
+
+Forskriften gjelder alt drikkevann som definert i [§ 3](forskrift/2016-12-22-1868/§3) b, og alle forhold som kan ha innvirkning på drikkevannet.
+
+Forskriften gjelder ikke naturlig mineralvann og kildevann som definert i forskrift om naturlig mineralvann og kildevann.
+
+For innretninger på norsk kontinentalsokkel og norske luft- og sjøfartøyer gjelder forskriften dersom drikkevannet på disse ikke er særskilt regulert i annet regelverk.
+
+## § 3. Definisjoner
+
+I denne forskriften menes med*distribusjonssystem:* teknisk anlegg som fordeler eller oppbevarer drikkevann fra vannbehandlingsanlegget frem til påkoblingspunktet mot enkeltvannforsyning eller internt fordelingsnett eller til og med tappepunkt som vannverkseieren er ansvarlig for*drikkevann:* alle former for vann som enten ubehandlet eller etter behandling skal drikkes, brukes i matlaging, til andre husholdningsformål eller i næringsmiddelforetak der det stilles krav om bruk av drikkevann. Drikkevann omfatter ikke rent vann og rent sjøvann som definert i næringsmiddelhygieneforskriften*enkeltvannforsyning:* system som leverer drikkevann til kun en enkelt bolig eller fritidsbolig, og som består av ett eller flere av følgende elementer: vanntilsigsområde, råvannskilde, teknisk installasjon som behandler vannet og teknisk installasjon som fordeler eller oppbevarer drikkevannet. Enkeltvannforsyning omfatter også stikkledning og teknisk installasjon som fordeler eller oppbevarer drikkevannet fra og med påkoblingspunktet mot vannforsyningssystemets distribusjonssystem eller internt fordelingsnett*hygienisk barriere:* naturlig eller konstruert hindring eller tiltak som fjerner eller inaktiverer sykdomsfremkallende virus, bakterier, parasitter eller andre mikroorganismer, eller som fortynner, fjerner eller omdanner kjemiske stoffer til et nivå hvor de ikke lenger utgjør en helserisiko*internt fordelingsnett:* teknisk installasjon som ikke er en enkeltvannforsyning og som fordeler eller oppbevarer drikkevannet fra og med påkoblingspunktet mot vannforsyningssystemets distribusjonssystem til påkoblingspunktet mot enkeltvannforsyning eller til og med tappepunkt som eieren av internt fordelingsnett er ansvarlig for. Internt fordelingsnett er inne i en bygning eller mellom bygninger med den samme eieren, eller på luft- og sjøfartøyer som bunkrer vann*produsert vann per døgn:* den mengden drikkevann som går ut fra vannbehandlingsanlegget i et gjennomsnittsdøgn den uken av året med høyest produksjon, eller som i tilsvarende uke mottas inn på et distribusjonssystem som utgjør et vannforsyningssystem alene. For vannforsyningssystemer uten vannmåler beregnes mengden produsert vann per døgn ved å multiplisere antall personer forsynt i den uken av året hvor vannforsyningssystemet forsyner flest personer, med 0,2 m3*råvann:* vann som brukes til produksjon av drikkevann*råvannskilde:* vannforekomst som råvann hentes fra*sårbar abonnent:* abonnent som kjennetegnes ved stor risiko for sykdom eller andre alvorlige konsekvenser dersom det ikke leveres tilstrekkelige mengder helsemessig trygt drikkevann*vannbehandlingsanlegg:* teknisk anlegg som fordeler eller oppbevarer vannet fra råvannskilden og frem til og med det tekniske anlegget som behandler vannet i et vannforsyningssystem*vannforsyningssystem:* system som ikke er enkeltvannforsyning, og som består av ett eller flere av følgende elementer: vanntilsigsområde, råvannskilde, vannbehandlingsanlegg og distribusjonssystem. Vanntilsigsområdet eller råvannskilden utgjør alene ikke et vannforsyningssystem*vanntilsigsområde;* område, over og under bakken, som vannet i råvannskilden kommer fra*vannverkseier:* den eller de fysiske eller juridiske personene som har ansvaret for at kravene til vannforsyningssystemet etterleves.
+
+## § 4. Forurensning
+
+Det er forbudt å forurense drikkevann. Forbudet omfatter alle aktiviteter, fra vanntilsigsområdet til tappepunktene, som medfører fare for at drikkevannet blir forurenset. Med aktiviteter menes også friluftsliv og annen utøvelse av allemannsretten. Der det er fastsatt beskyttelsestiltak etter [§ 12](forskrift/2016-12-22-1868/§12) eller restriksjoner etter [§ 26](forskrift/2016-12-22-1868/§26), gjelder forbudet brudd på disse. I vanntilsigsområdene kan landbruksaktivitet foregå dersom det ikke forurenser drikkevannet eller medfører brudd på beskyttelsestiltak etter [§ 12](forskrift/2016-12-22-1868/§12) eller restriksjoner etter [§ 26](forskrift/2016-12-22-1868/§26).
+
+Abonnentene skal ha egnet sikring mot tilbakestrømming i samsvar med kravene i plan- og bygningsloven og byggteknisk forskrift for å hindre at drikkevannet i distribusjonssystemet blir forurenset.
+
+## § 5. Grenseverdier
+
+Vannverkseieren skal sikre at drikkevannet er helsemessig trygt, klart og uten fremtredende lukt, smak og farge. Drikkevannet skalikke inneholde virus, bakterier, parasitter, andre mikroorganismer eller stoffer som i antall eller konsentrasjon utgjør en mulig helsefare ogoverholde grenseverdiene i vedlegg 1.
+
+Drikkevannet skal være i samsvar med kravene i første ledd på følgende steder:ved påkoblingspunkter mot andre vannforsyningssystemerved påkoblingspunkter mot interne fordelingsnett eller enkeltvannforsyningerved tappepunkter som vannverkseieren er ansvarlig forder vannet forlater en vanntank som vannverkseieren er ansvarlig for.
+
+Eieren av et internt fordelingsnett skal sikre at det interne fordelingsnettet ikke gjør drikkevannet mindre helsemessig trygt. Det interne fordelingsnettet skal heller ikke bidra til at drikkevannet blir mindre klart eller får framtredende lukt, smak eller farge.
+
+Eieren av en enkeltvannforsyning er selv ansvarlig for at drikkevannet er helsemessig trygt, klart og uten fremtredende lukt, smak og farge.
+
+## § 6. Farekartlegging og farehåndtering
+
+Vannverkseieren skal identifisere farene som må forebygges, fjernes eller reduseres til et akseptabelt nivå for å sikre levering av tilstrekkelige mengder helsemessig trygt drikkevann som er klart og uten fremtredende lukt, smak og farge.
+
+Vannverkseieren skal sikre at tiltak som forebygger, fjerner eller reduserer farene til et akseptabelt nivå, identifiseres og gjennomføres.
+
+Farekartlegging og farehåndtering skal danne grunnlag for beredskapsforberedelser som er beskrevet i [§ 11](forskrift/2016-12-22-1868/§11).
+
+Vannverkseieren skal sikre at farekartleggingen og farehåndteringen er oppdatert.
+
+## § 7. Internkontroll
+
+Vannverkseieren skal etablere internkontroll ved vannforsyningssystemet, og sikre at denne følges opp. Internkontrollen skal sikre og vise at kravene i denne forskriften etterleves, og skal tilpasses vannforsyningssystemets art og omfang.
+
+Internkontrollen skal minst omfattehvordan vannforsyningssystemet er organisert, og hvordan ansvaret og myndigheten er plassertrutinene vannverkseieren har etablert for å sikre at kravene i denne forskriften etterlevesregistreringer som viser at rutinene etterlevesrutinene som følges dersom det oppstår avvik fra kravene i denne forskriften ogrutinene som følges for å hindre at avvik fra regelverket gjentar seg.
+
+Internkontrollen skal være skriftlig ved vannforsyningssystem med produsert vann per døgn på minst 10 m3 drikkevann, eller som forsyner en eller flere sårbare abonnenter. Mattilsynet kan om nødvendig pålegge mindre vannforsyningssystemer å dokumentere internkontrollen skriftlig.
+
+Vannverkseieren skal sikre at internkontrollen er oppdatert, og at alle som bidrar til å produsere og levere drikkevannet arbeider i samsvar med denne.
+
+## § 8. Kompetanse og opplæring
+
+Vannverkseieren skal sikre at vannforsyningssystemet har, eller gjennom avtale har tilgang til, nødvendig kompetanse.
+
+Vannverkseieren skal sikre at alle som deltar i aktiviteter omfattet av denne forskriften, gis opplæring som står i forhold til arbeidsoppgavene. Alle skal være kjent med betydningen av kravene i [§ 5](forskrift/2016-12-22-1868/§5), [§ 10](forskrift/2016-12-22-1868/§10) og [§ 11](forskrift/2016-12-22-1868/§11).
+
+## § 9. Leveringssikkerhet
+
+Vannverkseieren skal sikre at vannforsyningssystemet er utstyrt og dimensjonert samt har driftsplaner og beredskapsplaner for å kunne levere tilstrekkelige mengder drikkevann til enhver tid.
+
+Vannverkseieren skal legge til rette for at vannforsyningssystemet kan levere nødvann til drikke og personlig hygiene uten bruk av det ordinære distribusjonssystemet.
+
+Under kriser eller katastrofer i fredstid eller ved krig kan vannforsyningen opprettholdes for å sikre vann til nødvendige formål selv om konsentrasjonen av en eller flere parametere er over grenseverdiene i vedlegg 1. Dette kan bare gjøres etter avtale med kommunelegen i samsvar med [folkehelseloven § 27](lov/2011-06-24-29/§27) bokstav b og Mattilsynet, og etter at abonnentene er varslet i samsvar med kravene i [§ 23](forskrift/2016-12-22-1868/§23) andre ledd.
+
+## § 10. Forebyggende sikring
+
+Vannverkseieren skal sikre at vannbehandlingsanlegget og alle relevante deler av distribusjonssystemet er tilstrekkelig fysisk sikret, og at alle styringssystemer er tilstrekkelig sikret mot uautorisert tilgang og bruk.
+
+## § 11. Beredskap
+
+Vannverkseieren skal sikre at det gjennomføres nødvendige beredskapsforberedelser og utarbeides beredskapsplaner i samsvar med helseberedskapsloven og forskrift om krav til beredskapsplanlegging.
+
+Vannverkseieren av vannforsyningssystemer med produsert vann per døgn på minst 10 m3 drikkevann, eller som forsyner en eller flere sårbare abonnenter, skal utarbeide en plan for beredskapsøvelser i samsvar med § 7 i forskrift om krav til beredskapsplanlegging. Vannverkseieren skal sikre at denne planen er oppdatert og følges.
+
+## § 12. Beskyttelsestiltak
+
+Vannverkseieren skal sikre at drikkevannet beskyttes mot forurensning.
+
+Vannverkseieren skal planlegge nødvendige tiltak for å beskytte vanntilsigsområdet og råvannskilden. Tiltakene skal være basert på farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6).
+
+Vannverkseieren skal gjennomføre aktuelle beskyttelsestiltak og informere berørte kommuner ved behov for tiltak som krever oppfølging etter [§ 26](forskrift/2016-12-22-1868/§26).
+
+Vannverkseieren skal informere allmennheten om forbudet mot forurensning, der dette er relevant. Dette kan for eksempel gjøres med oppslag i vanntilsigsområdet.
+
+Vannverkseieren skal påse at abonnenter som ifølge farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6) kan utgjøre en særlig fare for forurensning av drikkevannet ved tilbakestrømming, har egnet sikring mot dette. Vannverkseieren kan stille krav om maksimal vannmengde som kan tas ut ved testing av sprinkleranlegg.
+
+## § 13. Vannbehandling
+
+Vannverkseieren skal sikre at råvannet behandles slik at drikkevannet tilfredsstiller kravene i [§ 5](forskrift/2016-12-22-1868/§5). Vannbehandlingen og kildebeskyttelsen etter [§ 12](forskrift/2016-12-22-1868/§12) skal til sammen gi tilstrekkelige hygieniske barrierer. Dette innebærer at vannbehandlingen skal være tilpassetråvannskvalitetenfarene identifisert i samsvar med [§ 6](forskrift/2016-12-22-1868/§6) ogmengden produsert vann per døgn.
+
+En vannbehandlingsmetode som fjerner eller inaktiverer sykdomsfremkallende virus, bakterier, parasitter eller andre mikroorganismer, skal alltid inngå, med mindre vannforsyningssystemet har grunnvannskilde og farekartleggingen etter [§ 6](forskrift/2016-12-22-1868/§6) tilsier at det ikke er nødvendig.
+
+Vannverkseieren skal sikre at det utarbeides en plan for hvordan vannbehandlingsanlegget skal driftes og vedlikeholdes, og at denne planen er oppdatert og følges.
+
+## § 14. Vannbehandlingskjemikalier
+
+Vannverkseieren og eieren av internt fordelingsnett skal sikre at det bare benyttes vannbehandlingskjemikalier som er godkjent av Mattilsynet. Liste over godkjente vannbehandlingskjemikalier finnes på Mattilsynets internettsider.
+
+Produsenter og importører skal søke Mattilsynet om godkjenning av vannbehandlingskjemikalier. Søknaden skal minst inneholde den dokumentasjonen som er beskrevet i vedlegg 3. Vannbehandlingskjemikalier kan bare godkjennes dersom bruken ikke medfører helsefarlige mengder stoffer i drikkevannet. Desinfeksjonsmidler skal godkjennes i samsvar med biocidforskriften. Mattilsynet kan trekke tilbake godkjenningen dersom ny informasjon tilsier det.
+
+## § 15. Distribusjonssystem og internt fordelingsnett
+
+Vannverkseieren skal sikre at vannforsyningssystemets distribusjonssystem er i tilfredsstillende stand og driftes på en tilfredsstillende måte for å hindre at drikkevannet blir forurenset og for å bidra til bærekraftig bruk av grunnvann og overflatevann.
+
+Vannverkseieren skal sikre at det utarbeides en plan for hvordan distribusjonssystemet skal vedlikeholdes og fornyes, og at denne planen er oppdatert og følges.
+
+Eieren av internt fordelingsnett skal sikre at det interne fordelingsnettet er i tilfredsstillende stand, og at det ikke bidrar til at drikkevann i distribusjonssystemet blir forurenset.
+
+## § 16. Materialer
+
+Vannverkseieren og eieren av internt fordelingsnett skal sikre at de materialene som kommer i kontakt med drikkevannet, er helsemessig trygge. Materialene skal ikke avgi stoffer til drikkevannet i helsefarlige mengder eller i mengder som bidrar til at drikkevannet blir mindre klart eller får framtredende lukt, smak eller farge.
+
+## § 17. Registrering
+
+Vannverkseieren skal registrere vannforsyningssystemet på skjema fastsatt av Mattilsynet.
+
+Vannverkseieren skal registrere vannforsyningssystemer som ikke er registrert per 1. juli 2017, innen 1. juli 2018.
+
+Nye vannforsyningssystemer skal registreres før byggestart. Registreringen kan utløse krav om en plangodkjenning i samsvar med [§ 18](forskrift/2016-12-22-1868/§18).
+
+Følgende opplysninger skal registreres:vannforsyningssystemets navnvannverkseiers navn og adressevannforsyningssystemets organisasjonsnummer i samsvar med enhetsregisterloven, eller fødselsdatoen til vannverkseieren dersom vannforsyningssystemet ikke har et organisasjonsnummermengden vann vannforsyningssystemet er dimensjonert for å produsere og antall abonnentertype råvannskildekoordinatene til inntakspunkt i alle råvannskildene, inkludert brønner, som inngår i vannforsyningssystemet ogtype vannbehandling som benyttes.
+
+Vannverkseieren skal sikre at de registrerte opplysningene er oppdaterte. Endringer i fjerde ledd bokstav d kan utløse krav om plangodkjenning i samsvar med [§ 18](forskrift/2016-12-22-1868/§18).
+
+## § 18. Plangodkjenning
+
+Vannforsyningssystem som skal dimensjoneres for å gi produsert vann per døgn på minst 10 m3 drikkevann, eller forsyne en eller flere sårbare abonnenter, er plangodkjenningspliktig. Vannverkseieren ved plangodkjenningspliktige vannforsyningssystem skalsøke Mattilsynet om godkjenning av etablerings- og driftsplanen. Planen skal dokumentere at vannforsyningssystemet vil kunne oppfylle kravene i denne forskriften. Vannverkseieren skal søke på skjema fastsatt av Mattilsynetinformere berørte kommuner, slik at disse kan uttale seg om planen i samsvar med [§ 26](forskrift/2016-12-22-1868/§26)påse at planen er godkjent av Mattilsynet før byggestart ogregistrere at vannforsyningssystemet er klart til å settes i drift. Dette skal gjøres på skjema fastsatt av Mattilsynet før det settes i drift.
+
+Ved endringer som har betydning for produksjonen av tilstrekkelige mengder helsemessig trygt drikkevann ved plangodkjenningspliktige vannforsyningssystem, skal vannverkseieren følge bestemmelsene i bokstav a til d i første ledd.
+
+Vannforsyningssystem som er i drift uten godkjent plan per 1. januar 2017 fritas fra kravene i første ledd.
+
+## § 19. Prøvetakingsplan
+
+Vannverkseieren skal utarbeide en prøvetakingsplan for vannforsyningssystemet. Prøvetakingsplanen skal være basert på farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6), og inneholde en oversikt overprøvene som er nødvendige for å sikre og vise at vannforsyningssystemet oppfyller kravene i [§ 5](forskrift/2016-12-22-1868/§5). Dette inkluderer minstekravene til råvannsprøver omtalt i [§ 20](forskrift/2016-12-22-1868/§20) og minstekravene til drikkevannsprøver omtalt i [§ 21](forskrift/2016-12-22-1868/§21). Dersom et vannforsyningssystem mottar drikkevann fra et annet vannforsyningssystem, kan vannverkseierne ved disse vannforsyningssystemene samarbeide om prøvetakingsplanenhvor prøvene skal tas, på vannbehandlingsanlegget og i distribusjonssystemet for å sikre at drikkevannet er i samsvar med kravene i [§ 5](forskrift/2016-12-22-1868/§5). Dersom vannverkseieren kan vise at konsentrasjonen av et gitt stoff i drikkevannet ikke øker utover i distribusjonssystemet, kan prøvene for analyse av disse stoffene tas rett etter vannbehandlingennår prøvene skal tas. Råvannsprøvene og drikkevannsprøvene skal fordeles gjennom året eller bruksperioden for å være mest mulig representativehvilke parametere de ulike prøvene skal analyseres for.
+
+Vannverkseieren skal sikre at prøvetakingsplanen er oppdatert og følges.
+
+## § 20. Minstekrav til råvannsprøver
+
+Vannverkseieren skal ta råvannsprøver i samsvar med prøvetakingsplanen omtalt i [§ 19](forskrift/2016-12-22-1868/§19). Minstekravet til antall råvannsprøver er:
+
+Råvannsprøvene skal minst analyseres for *E. coli*. Ved vannforsyningssystemer med minst 10 m3 produsert vann per døgn skal råvannsprøvene i tillegg minst analyseres for intestinale enterokokker, koliforme bakterier, pH, turbiditet og farge. Uttak og analyser av råvannsprøver skal foretas i samsvar med internasjonale eller nasjonale standarder når slike foreligger. Der vedlegg 1 eller vedlegg 2 angir krav til analysemetoder, skal disse benyttes. Laboratoriene som benyttes, skal være akkreditert for de aktuelle analysene.
+
+## § 21. Minstekrav til drikkevannsprøver
+
+Vannverkseieren skal ta drikkevannsprøver i samsvar med prøvetakingsplanen omtalt i [§ 19](forskrift/2016-12-22-1868/§19). Parameterne det er minstekrav for, er inndelt i prøvegruppe A og B etter hvor ofte prøvene skal tas. Minstekravet til frekvensen på drikkevannsprøvene er:
+
+Drikkevannsprøvene for prøvegruppe A skal analyseres for parameterne som er angitt med prøvegruppe A i vedlegg 1 og vedlegg 2. Drikkevannsprøvene for prøvegruppe B skal analyseres for parameterne som er angitt med prøvegruppe B i vedlegg 1 og vedlegg 2. Uttak av drikkevannsprøver skal foretas i samsvar med NS-ISO 5667-5 og NS-EN ISO 19458. Analyser av drikkevannsprøver skal foretas i samsvar med internasjonale eller nasjonale standarder når slike foreligger. Der vedlegg 1 eller vedlegg 2 angir krav til analysemetoder, skal disse benyttes. Laboratoriene som benyttes, skal være akkreditert for de aktuelle analysene.
+
+Antallet analyser i prøvegruppe A og B kan reduseres, med unntak av analysene for *E. coli*. For å benytte denne muligheten skal vannverkseieren gjennomføre en risikovurdering i samsvar med NS-EN 15975-2 eller tilsvarende metode. Risikovurderingen skal baseres på resultatene fra råvannsprøvene etter [§ 20](forskrift/2016-12-22-1868/§20) og ta hensyn til resultatene av overvåkningsprogrammene som er etablert i samsvar med [vannforskriften § 17](forskrift/2006-12-15-1446/§17) og [§ 18](forskrift/2006-12-15-1446/§18). Før vannverkseieren kan redusere antallet analyser i prøvegruppe A eller B, skal risikovurderingen være akseptert av Mattilsynet.
+
+Dersom risikovurderingen fastslår at det ikke utgjør noen helsefare kanfrekvensen av analysene for en parameter reduseres. For å kunne gjøre dette skal samtlige representative drikkevannsprøver fra en periode på 3 år være lavere enn 60 prosent av grenseverdien eller tiltaksgrensen for den aktuelle parameteren. Minst to prøver skal være analysertanalyser av en parameter fjernes fra prøvetakingsplanen omtalt i [§ 19](forskrift/2016-12-22-1868/§19), slik at drikkevannet ikke lenger overvåkes for denne. For å kunne gjøre dette skal samtlige representative drikkevannsprøver fra en periode på 3 år være lavere enn 30 prosent av grenseverdien eller tiltaksgrensen for den aktuelle parameteren. Minst to prøver skal være analysert.
+
+## § 22. Tiltak
+
+Dersom drikkevannet ikke er i samsvar med kravene i [§ 5](forskrift/2016-12-22-1868/§5) første ledd, eller dersom tiltaksgrensene i vedlegg 2 overskrides, skal vannverkseieren straks undersøke årsaken til avviket.
+
+Ved avvik fra kravene i [§ 5](forskrift/2016-12-22-1868/§5) første ledd skal vannverkseieren så raskt som mulig gjennomføre tiltak for å rette avviket.
+
+Ved avvik fra tiltaksgrensene i vedlegg 2 skal vannverkseieren samtidig som årsaken undersøkes, vurdere om avviket kan utgjøre en helsefare. Dersom avviket kan utgjøre en helsefare, skal vannverkseieren så raskt som mulig gjennomføre tiltak for å rette avviket.
+
+## § 23. Opplysningsplikt til abonnentene
+
+Vannverkseieren skal varsle abonnentene straks ved mistanke om avvik fra kravene i [§ 5](forskrift/2016-12-22-1868/§5) første ledd eller ved overskridelser av tiltaksgrensene i vedlegg 2 som kan utgjøre en helsefare. Vannverkseieren skal gi råd om hvordan abonnentene skal forholde seg. Dersom vannverkseieren ikke overholder denne opplysningsplikten, kan Mattilsynet informere abonnentene for vannforsyningssystemets regning.
+
+Vannverkseieren skal sikre at abonnentene til enhver tid har tilgang til oppdatert informasjon om drikkevannskvaliteten.
+
+Dersom det er gjennomført en risikovurdering som medfører at antallet analyser i prøvegruppe A eller B er redusert slik det er gitt mulighet for i [§ 21](forskrift/2016-12-22-1868/§21), skal abonnentene ha tilgang til et sammendrag av denne risikovurderingen.
+
+## § 24. Opplysningsplikt til Mattilsynet
+
+Vannverkseieren skal varsle Mattilsynet straks ved mistanke om avvik fra kravene i [§ 5](forskrift/2016-12-22-1868/§5) første ledd eller ved overskridelser av tiltaksgrensene i vedlegg 2 som kan utgjøre en helsefare. Vannverkseieren skal samtidig informere om hvilke tiltak som gjennomføres i samsvar med kravene i [§ 22](forskrift/2016-12-22-1868/§22) og hvilke råd de gir abonnentene.
+
+Dersom Mattilsynet ber om det, skal vannverkseieren gi Mattilsynet de opplysningene som er nødvendige for at Mattilsynet skal kunne gjennomføre sine oppgaver etter denne forskriften.
+
+## § 25. Rapportering
+
+Ved vannforsyningssystem med produsert vann per døgn på minst 10 m3 skal vannverkseieren rapportere analyseresultatene fra råvannsprøvene i [§ 20](forskrift/2016-12-22-1868/§20) og drikkevannsprøvene i [§ 21](forskrift/2016-12-22-1868/§21). Vannverkseieren skal også rapportere andre relevante data som er nødvendige for å ivareta Norges internasjonale rapporteringsforpliktelser. Rapporteringen skal gjøres på skjema fastsatt av Mattilsynet innen 15. februar påfølgende år.
+
+## § 26. Kommunens plikter
+
+Kommunen skal i samsvar med [folkehelseloven kapittel 2](lov/2011-06-24-29/kap2) ta drikkevannshensyn når den utarbeider arealdelen av kommuneplanen og reguleringsplaner, samt når den gir tillatelser etter relevant regelverk. Kommunen skal om nødvendig ta initiativ til interkommunalt plansamarbeid for å ivareta drikkevannshensynet der vannforsyningssystemet ligger i flere kommuner.
+
+Kommunen skal i samarbeid med vannverkseieren vurdere behovet for restriksjoner for å beskytte råvannskilder og vanntilsigsområder. Dette gjelder også i forbindelse med planarbeid etter plan- og bygningsloven.
+
+Kommunen skal på bakgrunn av data fra Mattilsynet ha oversikt over samtlige vannforsyningssystemer i kommunen for å ivareta sine forpliktelser etter [folkehelseloven kapittel 2](lov/2011-06-24-29/kap2). Kommunen skal ha oversikt over hvor innbyggerne i samsvar med [§ 23](lov/2011-06-24-29/§23) andre ledd kan finne informasjon om drikkevannskvaliteten.
+
+Kommunen skal uttale seg om forhold som angår miljørettet helsevern og arealdisponering til planer for nye vannforsyningssystemer og ved søknader om endringer som omtalt i [§ 18](forskrift/2016-12-22-1868/§18).
+
+Kommunen skal i samsvar med [sivilbeskyttelsesloven kapittel 5](lov/2010-06-25-45/kapV) og hensynet til samfunnssikkerhet gitt i plan- og bygningsloven påse at forsyningen av drikkevann vurderes og følges opp.
+
+## § 27. Fylkeskommunens plikter
+
+Fylkeskommunen skal i samsvar med [folkehelseloven kapittel 4](lov/2011-06-24-29/kap4) ta drikkevannshensyn når den utarbeider regionale planer.
+
+Fylkeskommunen skal som vannregionmyndighet sikre at drikkevannshensynet ivaretas i de regionale vannforvaltningsplanene etter vannforskriften.
+
+## § 28. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og kan fatte nødvendige vedtak i samsvar med [matloven § 23](lov/2003-12-19-124/§23) til [§ 26](lov/2003-12-19-124/§26), for alle bestemmelsene i denne forskriften med unntak av [§ 26](forskrift/2016-12-22-1868/§26) og [§ 27](forskrift/2016-12-22-1868/§27).
+
+Tilsyn med bestemmelsene i [§ 26](forskrift/2016-12-22-1868/§26) og [§ 27](forskrift/2016-12-22-1868/§27) følger av bestemmelsene i [folkehelseloven § 31](lov/2011-06-24-29/§31) og [§ 32](lov/2011-06-24-29/§32) og sivilbeskyttelsesloven [§ 29](lov/2010-06-25-45/§29).
+
+## § 29. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelser i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser.
+
+## § 30. Straff
+
+Forsettlig eller uaktsom overtredelse av bestemmelsene i denne forskriften, eller enkeltvedtak som er gitt med hjemmel i denne forskriften, er straffbart i samsvar med [matloven § 28](lov/2003-12-19-124/§28), [folkehelseloven § 18](lov/2011-06-24-29/§18) og [helseberedskapsloven § 6-5](lov/2000-06-23-56/§6-5).
+
+## § 31. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2017. Registreringsplikten etter [§ 17](forskrift/2016-12-22-1868/§17) trer i kraft 1. juli 2017.
+
+[Forskrift 4. desember 2001 nr. 1372](forskrift/2001-12-04-1372) om vannforsyning og drikkevann oppheves 1. januar 2017.
+
+[Forskrift 10. oktober 2003 nr. 1233](forskrift/2003-10-10-1233) om forbud mot virksomhet som kan forurense Glitre som vannforsyningssystem, Modum, Øvre Eiker, Nedre Eiker og Lier kommuner, Buskerud videreføres inntil videre.
+
+## § 32. Overgangsbestemmelse
+
+Grenseverdien i [vedlegg 1](forskrift/2016-12-22-1868/vedlegg1) for sum 4 PFAS skal gjelde først fra 1. januar 2026.
+
+I [vedlegg 1](forskrift/2016-12-22-1868/vedlegg1) tilføyes følgende rad etter raden for nitritt: – – –
+
+> Tilføyd ved forskrift [19 des 2025 nr. 2728](forskrift/2025-12-19-2728), endret ved forskrift [22 des 2016 nr. 1868](forskrift/2016-12-22-1868) (i kraft 1 jan 2026).
+
+## Vedlegg 1
+Grenseverdier
+
+> Endret ved denne forskriftens [§ 32](forskrift/2016-12-22-1868/§32) (i kraft 1 jan 2026).
+
+## Vedlegg 2
+Tiltaksgrenser
+
+## Vedlegg 3
+Søknad om godkjenning av vannbehandlingskjemikalier skal inneholde følgende dokumentasjon:
+
+1. opplysninger om søkeren med kontaktinformasjon
+2. produktets handelsnavn
+3. navn på produsent
+4. opplysninger om bruk og høyeste dosering
+5. informasjon om kjemisk sammensetning som innebærer en fullstendig oversikt over alle komponentene med CAS-nummer og prosent mengde i produktet til 100 prosent og
+6. analysesertifikat for alle komponentene.

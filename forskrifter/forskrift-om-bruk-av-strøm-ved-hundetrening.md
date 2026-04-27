@@ -1,0 +1,60 @@
+---
+id: "sf-20080314-0256"
+slug: "forskrift-om-bruk-av-strøm-ved-hundetrening"
+type: "forskrift"
+ref_id: "forskrift/2008-03-14-256"
+title: "Forskrift om bruk av elektrisk strøm ved trening av hund"
+short_title: "Forskrift om bruk av strøm ved hundetrening"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2008-03-14"
+last_change_in_force: "2010-08-06"
+last_updated: null
+xml_hash: "07abe9fa042e1fef784cf638b5e27e47c3bb40d39ca1a526fbf38e9cb17dc7a1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om bruk av elektrisk strøm ved trening av hund
+
+## § 1. Formål
+
+Formålet med denne forskrift er å regulere bruken av elektrisk strøm ved trening av hund slik at hunden ikke unødig kommer i fare for å lide eller bli skremt.
+
+## § 2. Virkeområde
+
+Forskriften gjelder bruk av elektrisk strøm ved all form for opplæring, trening og bruk av hund.
+
+## § 3. Forbud
+
+Det er forbudt å bruke utstyr på hund som medfører at hunden kan utsettes for elektrisk strøm. Unntak gjelder for nødvendig aversjonstrening av hund mot jaging av beitedyr, tamrein og klovvilt når treningen utføres av personer som tilfredsstiller kompetansekravene i denne forskrift.
+
+I forskriften menes med aversjonstrening trening som påfører hund ubehag for å hindre eller avlære en adferd.
+
+## § 4. Kompetansekrav
+
+Personer som skal utføre aversjonstrening skal ha erfaring med dressur av hund og gjennomgått og bestått utdanning i aversjonsdressur. Utdanningen må omfatte grunnkurs på minimum 24 timer i hundeadferd og aversjon, teoretisk kurs i gjeldende dyrevernbestemmelser og aversjonsdressur samt praktisk opplæring i aversjonsdressur gitt av en kompetent og erfaren instruktør. Kandidaten skal deretter under vurdering av en slik instruktør gjennomføre og bestå en praktisk test i aversjonsdressur, der flere hunder og hunderaser benyttes.
+
+Kompetansen skal vedlikeholdes gjennom oppgraderingskurs. Dokumentasjon for kompetansen skal kunne framlegges for tilsynsmyndigheten.
+
+Instruktøren som gir den praktiske opplæringen samt tilrettelegger og vurderer den praktiske testen må kunne dokumentere egen kompetanse på og omfattende erfaring med aversjonsdressur.
+
+Kurstilbyder plikter å registrere utdanningsopplegget, herunder oppgraderingskurs, i Mattilsynet. Kravet om 24 timer grunnkurs gjelder ikke personer som har gjennomgått utdanning og bestått en praktisk test før den 1. januar 2006.
+
+## § 5. Kontroll og bruk av utstyr
+
+Personer som skal utføre aversjonstrening har ansvar for å kontrollere at utstyr som brukes til aversjonstrening av hund er egnet til formålet og fungerer etter hensikten, og at bruk av slikt utstyr tilpasses treningssituasjonen og den enkelte hund.
+
+## § 6. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [dyrevelferdsloven § 37](lov/2009-06-19-97/§37).
+
+> Endret ved [forskrift 6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

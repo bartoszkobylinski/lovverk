@@ -1,0 +1,112 @@
+---
+id: "sf-20171218-2235"
+slug: "forskrift-om-tilskudd-til-utleieboliger-fra-husbanken"
+type: "forskrift"
+ref_id: "forskrift/2017-12-18-2235"
+title: "Forskrift om tilskudd til utleieboliger fra Husbanken"
+short_title: null
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2018-01-01"
+last_change_in_force: "2023-12-31"
+last_updated: "2019-12-17"
+xml_hash: "0a3cea0ac8504a8db9fb1b42ce7137e39c5fb8ae564ba191f5ce43d4e37f9cd3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til utleieboliger fra Husbanken
+
+## § 1. Formålet med tilskuddet
+
+Tilskuddet skal bidra til flere egnede utleieboliger for vanskeligstilte på boligmarkedet.
+
+En bolig er egnet når den har tilfredsstillende standard, og funksjonene og lokaliseringen er egnet for den som skal bo der.
+
+Med vanskeligstilte på boligmarkedet menes personer og familier som ikke har mulighet til å skaffe seg eller opprettholde et tilfredsstillende boforhold på egenhånd.
+
+## § 1a. Virkeområde
+
+Forskriften gjelder ikke for Svalbard.
+
+> Tilføyd ved [forskrift 14 april 2020 nr. 795](forskrift/2020-04-14-795).
+
+## § 2. Hvem som kan gis tilskudd
+
+Husbanken kan gi tilskudd til kommuner som sannsynliggjør at prosjektet bidrar til flere egnede kommunalt disponerte utleieboliger og en mer formålstjenlig boligmasse.
+
+Husbanken kan gi tilskudd til selskaper og andre som har til formål å leie ut boliger til vanskeligstilte. Vilkårene for slik tildeling er at eiereninngår en avtale med kommunen eller et statlig helseforetak om at kommunen eller helseforetaket skal ha eksklusiv rett til å tildele boligene til sine boligsøkere i minst 30 årtinglyser en klausul på eiendommen om at boligene kun kan leies ut til vanskeligstilte på boligmarkedet og om tildelingsretten nevnt i bokstav ainngår en samarbeidsavtale med kommunen eller et statlig helseforetak som regulerer det løpende samarbeidet og forvaltningen av boligene.
+
+## § 3. Hva det kan gis tilskudd til
+
+Tilskudd kan gis tilå oppføre boligerå kjøpe boliger, inkludert eventuelle kostnader til å utbedre boligene slik at de blir egnet til formåletå bygge om andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg.
+
+Det skal ikke gis tilskudd til vedlikehold eller rehabilitering ut over det som følger av første ledd.
+
+Utleieboligene skal være egnet for forskriftens målgruppe, og bør spres i vanlige og gode bomiljøer.
+
+Tilskudd til prosjekter med samlokaliserte boliger kan ikke gis dersom boligene får et institusjonsliknende preg. Disse boligene skal spres i vanlige og gode bomiljøer.
+
+## § 3a. Opphevet
+
+> Tilføyd ved [forskrift 23 juni 2023 nr. 1077](forskrift/2023-06-23-1077), opphevet ved [forskrift 23 juni 2023 nr. 1077](forskrift/2023-06-23-1077) (i kraft 31 des 2023).
+
+## § 4. Sikkerhet for tilbakebetalingskrav
+
+Andre tilskuddsmottakere enn kommuner skal stille første prioritets pant i eiendommen til sikkerhet for et mulig krav på tilbakebetaling av tilskuddet.
+
+## § 5. Krav til søknaden
+
+En søknad om tilskudd skal inneholde opplysninger omsøkerens navn, adresse, organisasjonsnummer og hvem som er kontaktpersonbetegnelsen på eiendommenmålgruppen for prosjektet, for eksempel bostedsløse, økonomisk vanskeligstilte, enslige mindreårige flyktninger, personer med nedsatt funksjonsevne eller personer med problemer med den psykiske helsen eller rusantall boenheter, størrelsen på boenhetene og samlet bruksarealsummen av kostnadene i prosjektet.
+
+## § 6. Krav til dokumentasjonen som skal følge søknaden
+
+Til en søknad om tilskudd til oppføring av bolig skal det vedleggesen beskrivelse av tiltaket med tegninger og situasjonskartet kostnadsoverslag eller et pristilbudtakst over tomt og eventuell eksisterende bygningsmasse.
+
+Til en søknad om tilskudd til kjøp og eventuell utbedring skal det vedleggesen kjøpekontrakt eller et tilbud om kjøpen e-takst. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaringen beskrivelse av nødvendige utbedringer med kostnadsoverslag.
+
+Til en søknad om tilskudd til ombygging av andre bygg til boliger, herunder eventuelle kostnader til kjøp av slike bygg, skal det vedleggesen beskrivelse av tiltaket med tegninger av bygget før og etter arbeidetet kostnadsoverslag eller et tilbud om kjøpen e-takst dersom prosjektet også inneholder kjøp av bygg. Dersom det ikke er mulig å innhente e-takst, kan det i stedet vedlegges en verditakst eller en annen verdivurdering. Både e-takst, verditakst og andre verdivurderinger må være utarbeidet av en nøytral takstmann eller eiendomsmegler, og bygge både på statistiske data og befaring.
+
+Andre søkere enn kommuner skal i tillegg vedleggetildelingsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav asamarbeidsavtale med kommunen eller et statlig helseforetak, jf. [§ 2](forskrift/2017-12-18-2235/§2) annet ledd bokstav cforhåndstakst (ved oppføring eller ombygging)driftsbudsjettfirmaattest som viser at selskapet har til formål å eie, forvalte og leie ut boliger til vanskeligstilte.
+
+## § 7. Husbankens rett til å kreve ytterligere opplysninger
+
+Husbanken kan be om ytterligere opplysninger som er nødvendig for å kunne avgjøre søknaden, og innhente opplysninger fra andre myndigheter.
+
+Før eller etter at tilskuddet er utbetalt, kan Husbanken kontrollere at vilkårene i tilskuddsvedtaket er oppfylt gjennom åbe om nødvendige opplysninger og dokumentasjoninnhente opplysninger fra andre myndigheterbesiktige tiltaket og om nødvendig be mottakeren medvirke til besiktigelsen.
+
+## § 8. Hvordan søknadene blir vurdert
+
+Husbanken avgjør i et enkeltvedtak søknadene ut frahver kommunes behov der de kommunene som har størst boligsosiale utfordringer, skal prioritereshvor godt tiltaket er egnet til å nå formålet med tilskuddsordningenprosjektøkonomien og prosjektgjennomføringen.
+
+Prosjekter som gir boliger i gode bomiljøer for vanskeligstilte husstander med barn og unge, skal prioriteres.
+
+## § 9. Hvordan tilskuddsbeløpet beregnes
+
+Tilskudd gis etter faste satser fastsatt av departementet.
+
+## § 10. Avskrivning
+
+Tilskuddet avskrives over 30 år med 3,3 prosent per fullført år fra utbetalingsdato.
+
+## § 11. Tilbakebetalingsplikt
+
+Tilskudd skal betales tilbake dersom kravene i forskriften eller vilkårene i tilskuddsvedtaket ikke blir oppfylt.
+
+Ved salg av bolig som har fått tilskudd, skal tilskudd som ikke er avskrevet betales tilbake.
+
+## § 12. Rapportering og stikkprøvekontroller
+
+Kommunene skal hvert år rapportere til Husbanken om hvordan boligene er blitt brukt.
+
+Husbanken vil foreta stikkprøver for å kontrollere at tilskuddsmottakerne har brukt tilskuddet som forutsatt i vedtaket.
+
+## § 13. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2018.
+
+Samtidig oppheves [forskrift 23. februar 2011 nr. 192 om tilskudd til utleieboliger fra Husbanken](forskrift/2011-02-23-192).

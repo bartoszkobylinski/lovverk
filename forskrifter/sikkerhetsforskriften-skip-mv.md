@@ -1,0 +1,326 @@
+---
+id: "sf-20040622-0972"
+slug: "sikkerhetsforskriften-skip-mv"
+type: "forskrift"
+ref_id: "forskrift/2004-06-22-972"
+title: "Forskrift om sikkerhet, pirat- og terrorberedskapstiltak og bruk av maktmidler om bord på skip og flyttbare boreinnretninger (sikkerhetsforskriften)"
+short_title: "Sikkerhetsforskriften (skip mv)"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2004-07-01"
+last_change_in_force: "2023-03-27"
+last_updated: null
+xml_hash: "17abe5e958d9df8f92616f313995fe75a63913b2a66d5f1124b2c7780dca273b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om sikkerhet, pirat- og terrorberedskapstiltak og bruk av maktmidler om bord på skip og flyttbare boreinnretninger (sikkerhetsforskriften)
+
+## Kapittel 1: Generelle bestemmelser
+
+> Overskrift tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 1. Virkeområde
+
+(1) Med unntak av [§ 17](forskrift/2004-06-22-972/§17) og [§ 18](forskrift/2004-06-22-972/§18) som gjelder for alle skip og [§ 25](forskrift/2004-06-22-972/§25) til § 32 som bare gjelder for rutegående passasjerskip i innenriksfart som tilbyr overnatting, gjelder denne forskriften følgende norske skip:Passasjerskip, herunder hurtiggående passasjerskip, som er sertifisert for internasjonal fart som definert i SOLAS kap. I, regel 2(d), samt passasjerskip som er sertifisert for passasjerskipsklasse A som definert i den til enhver tid gjeldende forskrift om besiktelse, bygging og utrustning av passasjerskip i innenriksfart;lasteskip, herunder hurtiggående lasteskip, med bruttotonnasje på 500 og derover, som er sertifisert for internasjonal fart som definert i SOLAS kap. I, regel 2(d);flyttbare boreinnretninger. Flyttbare boreinnretninger omfattes likevel ikke av kravene i denne forskrift når de er på lokasjon eller hvis de ikke forflytter seg utenfor norske jurisdiksjonsområder
+
+(2) Forskriften gjelder ikke fartøy som benyttes til ikke-kommersielle formål, med unntak av kravene i [§ 13](forskrift/2004-06-22-972/§13).
+
+(3) [§ 18](forskrift/2004-06-22-972/§18) til [§ 24](forskrift/2004-06-22-972/§24) gjelder for seiling i, til eller fra et område med beredskapsnivå 2 eller 3, likevel bare seiling sør for 46 grader nordlig bredde.
+
+> Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [1 juli 2011 nr. 731](forskrift/2011-07-01-731), [27 april 2012 nr. 371](forskrift/2012-04-27-371) (i kraft 1 mai 2012), [7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 2. Definisjoner
+
+I denne forskrift betyr:*Beredskapsnivå 1:* Det nivået hvor et minimum av relevante sikkerhets- og terrorberedskapstiltak skal opprettholdes til enhver tid.*Beredskapsnivå 2:* Det nivået hvor tilleggstiltak for sikkerhets- og terrorberedskap skal opprettholdes for en viss tidsperiode på grunn av en midlertidig økt risiko for hendelser som kan true sikkerheten.*Beredskapsnivå 3:* Det nivået hvor ytterligere spesifikke sikkerhets- og terrorberedskapstiltak skal opprettholdes for en begrenset tidsperiode når en hendelse som kan true sikkerheten er umiddelbart forestående eller sannsynlig.*Fartøy:* Med fartøy menes i denne forskrift skip og flyttbare boreinnretninger som faller inn under forskriftens virkeområde.*Fartøyets sikkerhets- og terrorberedskapsoffiser (Ship security officer, SSO):* Person som er oppnevnt av fartøyets rederi til å inneha ansvaret for sikkerheten om bord, herunder å sørge for at SSP er implementert, fulgt og oppdatert. SSO er også kontaktperson til CSO og PFSO. SSO rapporterer til føreren, dersom ikke føreren selv er oppnevnt som SSO.*Fartøyets sikkerhets- og terrorberedskapsplan (Ship security plan, SSP):* Sikkerhets- og terrorberedskapsplan for fartøy. Plan som skal etablere relevante rutiner til beskyttelse av mannskap, passasjerer, last og fartøy mot ulovlige handlinger. Planen skal etablere rutiner for å beskytte mannskapet, passasjerene, lasten m.m. og fartøyet mot risiko for ulovlige handlinger.*Flyttbar boreinnretning:* Flyttbar plattform, herunder boreskip, med eget fremdriftsmaskineri og som har utstyr for boring etter undersjøiske petroleumsforekomster.*Skipsføreren:* Den person som har den høyeste myndigheten om bord.*Havneterminalens sikkerhets- og terrorberedskapssjef (Port facility security officer, PFSO):* Person utpekt som ansvarlig for utvikling, iverksettelse, revisjon og vedlikehold av sikkerhets- og terrorberedskapsplanen for havneterminalen.*Havneterminalens sikkerhets- og terrorberedskapsplan (Port facility security Plan, PFSP):* Plan utviklet for å sikre bruk av relevante sikkerhets- og terrorberedskapstiltak til beskyttelse av havneterminalen, fartøy, last, personer og forsyninger til fartøy.*Hurtiggående passasjerfartøy:* Fartøy som definert i regel X/1 i [SOLAS-konvensjonen med](traktat/1974-11-01-1) senere endringer og som kan føre mer enn 12 passasjerer.*Internasjonalt sikkerhets- og terrorberedskapssertifikat (International ship security certificate, ISSC):* Internasjonalt sikkerhets- og terrorberedskapssertifikat som viser at fartøyet oppfyller kravene i ISPS-koden.*ISPS-koden (International Ship and Port Facility Security Code):* IMOs internasjonale kode for sikkerhet og terrorberedskap på skip og i havneterminaler, med senere endringer.*ISPS-kodens del A:* Forordet og de obligatoriske bestemmelser, som utgjør ISPS-kodens del A, vedrørende bestemmelser i kapittel XI-2 i vedlegget til SOLAS-konvensjonen med senere endringer.*ISPS-kodens del B:* Veiledningen som utgjør ISPS-kodens del B, vedrørende bestemmelser i kapittel XI-2 i vedlegget til SOLAS-konvensjonen og ISPS-koden, med senere endringer.*Lasteskip:* Ethvert skip som ikke er passasjerskip, fiske- og fangstfartøy, lekter, fritidsfartøy eller flyttbar innretning.*Norske jurisdiksjonsområder:* Indre norske farvann, norsk sjøterritorium og norsk kontinentalsokkel.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*RSO (Recognized security organization):* Anerkjent klasseinstitusjon som er delegert myndighet av Sjøfartsdirektoratet til å foreta godkjennelser og sertifiseringer m.m. på norske fartøy i henhold til SOLAS kap. XI-2 og ISPS-koden.*Rederiet:* Slik det fremgår av [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4), jf. [§ 5](lov/2007-02-16-9/§5). «Selskapet», jf. SOLAS kap. XI-2 regel 1 underpunkt 1.1.7, skal anses som rederiet.*Rederiets sikkerhets- og terrorberedsskapsoffiser (Company Security Officer, CSO):* Person som er oppnevnt av fartøyets rederi til å sørge for at sårbarhetsvurderinger er utført, at SSP er utarbeidet, innsendt for godkjennelse og deretter implementert, fulgt og vedlikehold. CSO er også kontaktperson til PFSO og SSO.*Sikkerhets- og terrorberedskapsavtale (Declaration of security, DoS):* Avtale, som beskriver fordelingen av ansvar for iverksettelse av nødvendige sikkerhetstiltak, mellom fartøy og havneterminal, eller mellom fartøy og fartøy, eller fartøy og annen enhet som ikke har krav til internasjonalt sikkerhets- og terrorberedskapssertifikat (ISSC).*[SOLAS:](traktat/1974-11-01-1)* Den internasjonale konvensjon av 1974 om sikkerhet for menneskeliv til sjøs, med senere endringer.*SOLAS kap. XI-2:* SOLAS-konvensjonens særlige tiltak til fremme av sikkerhet og terrorberedskap, med senere endringer.*Sårbarhetsvurdering (Ship security assessment, SSA):* Vurdering med hensyn til sårbarhet for terroranslag mot fartøy.*Terroralarmsystem (Ship security alert system, SSAS):* System som igangsetter og sender varsel til kompetent myndighet, når alarmen aktiveres.
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+### § 3. Plikter
+
+Rederiet, skipsføreren og andre som har sitt arbeid om bord skal utføre sine plikter i henhold til skipssikkerhetsloven og med de utfyllende bestemmelser som følger av forskriften her.
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+### § 4. Fravik
+
+(1) I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig og fraviket må være sikkerhetsmessig forsvarlig. Fravik må ikke være i strid med internasjonal overenskomst Norge har sluttet seg til.
+
+(2) Sjøfartsdirektoratet kan tillate fartøy eller grupper av fartøy å implementere andre sikkerhetstiltak ekvivalente til de tiltak som er beskrevet i SOLAS kap. XI-2 eller ISPS-koden, forutsatt at slike ekvivalente sikkerhetstiltak er minst like effektive som de beskrevet i SOLAS kap. XI-2 eller ISPS-koden.
+
+## Kapittel 2: Internasjonale bestemmelser
+
+> Overskrift tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 5. Forholdet til internasjonal konvensjon
+
+Fartøy som omfattes av denne forskrift skal følge de relevante kravene i SOLAS kap. XI-1, regel 3 og 5, kap. XI-2 samt ISPS-kodens del A. ISPS-kodens del B er veiledende retningslinjer som det skal tas hensyn til i det omfang del A bestemmer det, med unntak av følgende deler av del B som er bindende; 1.12, 1.16, 4.1, 4.4, 4.5, 4.8, 4.14, 4.15, 4.16, 4.18, 4.24, 4.28, 4.41, 4.45, 6.1, 8.3 til 8.10, 9.2, 9.4, 13.6 og 13.7.
+
+### § 6. Forholdet til EU-regelverk
+
+EØS-avtalen vedlegg XIII nr. 56bb (Europaparlamentets- og rådsforordning [(EF) nr. 725/2004](eu/32004r0725) av 31. mars 2004 om styrket sikring av skip og havneanlegg), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Det vises til vedlegg 1 i forskriften. Ved eventuell konflikt mellom øvrige bestemmelser i forskriften og ovennevnte forordning, har sistnevnte forrang.
+
+EØS-avtalen vedlegg XIII nr. 56r (forordning [(EF) nr. 324/2008](eu/32008r0324) av 9. april 2008 om fastleggelse av reviderte prosedyrer for Kommisjonens inspeksjoner innenfor maritim sikring som endret ved gjennomføringsforordning [(EU) 2016/462](eu/32016r0462)) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Det vises til vedlegg 2 i forskriften. Ved eventuell konflikt mellom øvrige bestemmelser i forskriften og ovennevnte forordning, har sistnevnte forrang.
+
+> Tilføyd ved [forskrift 4 feb 2005 nr. 119](forskrift/2005-02-04-119), endret ved [forskrifter 2 april 2007 nr. 392](forskrift/2007-04-02-392), [16 jan 2009 nr. 41](forskrift/2009-01-16-41), [17 feb 2017 nr. 209](forskrift/2017-02-17-209).
+
+### § 6a. Rapportering til regionale sikkerhetssentre i høyrisikoområder for piratangrep
+
+Skip som skal foreta operasjoner eller gå i transitt i et område som er definert som høyrisikoområdet for piratangrep i «Best management practices to deter piracy off the Coast of Somalia and in the Arabian Sea Area», skal følge anbefalingene i «Best management practices to deter piracy off the Coast of Somalia and in the Arabian Sea Area» som gjelder registrering hos MSCHOA og rapportering til UKMTO og andre kontaktpunkter før innreise i området og underveis.
+
+> Tilføyd ved [forskrift 8 juni 2011 nr. 580](forskrift/2011-06-08-580).
+
+## Kapittel 3: Sikkerhet og terrorberedskapstiltak
+
+> Overskrift tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 7. Terroralarmsystem (Ship security alert system)
+
+(1) Fartøy som omfattes av denne forskrift skal ha et terroralarmsystem om bord i henhold til bestemmelsene i SOLAS kap. XI-2, regel 6.1
+
+(2) Dersom Hovedredningssentralen mottar alarm fra et norsk fartøy, skal fartøyets rederi snarest mulig bli varslet om dette. Hvert rederi skal ha etablert prosedyrer for å kunne få avklart om det dreier seg om tilsiktet utsendelse av terroralarm eller ikke, og hvis mulig fremskaffe opplysninger om situasjonen om bord. Eventuell kontakt med fartøyet skal skje på en slik måte at ingen uvedkommende vil kunne forstå at det er mottatt terroralarm fra fartøyet.
+
+(3) Når rederiet blir varslet om at det er mottatt terroralarm fra et fartøy, skal rederiet omgående iverksette ovennevnte prosedyre. Rederiet skal melde tilbake til Hovedredningssentralen så snart omstendighetene rundt utsendelsen av terroralarm er avklart.
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+### § 8. Sårbarhetsvurdering (SSA)
+
+(1) Det skal utarbeides en sårbarhetsvurdering som beskrevet i ISPS-kodens del A, seksjon 8.
+
+(2) Sårbarhetsvurderingen skal danne grunnlag for å utarbeide og oppdatere sikkerhets- og terrorberedskapsplanen.
+
+### § 9. Sikkerhets- og terrorberedskapsplan (SSP)
+
+(1) Det skal utarbeides en sikkerhets- og terrorberedskapsplan på grunnlag av sårbarhetsvurderingen (SSA), jf. [§ 8](forskrift/2004-06-22-972/§8). Fartøyets sikkerhets- og terrorberedskapsplan (SSP) skal utformes, oppbevares og endres i henhold til ISPS-kodens del A, seksjon 9.
+
+(2) For fartøy som;anløper havneterminaler som ikke har utarbeidet og implementert godkjent sikkerhets- og terrorberedskapsplan;foretar skip-til-skip aktiviteter med skip som ikke har ISSC;overfører eller mottar last eller personer til eller fra faste plattformer, flytende plattformer eller flyttbare innretninger som ikke har ISSC;skal fartøyets sikkerhets- og terrorberedskapsplan (SSP) også innholde prosedyrer og tiltak for slike operasjoner.
+
+(3) Innholdet i fartøyets sikkerhets- og terrorberedskapsplan (SSP) skal godkjennes av Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO).
+
+(4) Rederiet kan gjøre endringer til planen og sikkerhetsutstyret såfremt endringene ikke medfører mindre effektive sikkerhets- og terrorberedskapstiltak enn den godkjente planen, og rederiet kan dokumentere dette. Slike endringer verifiseres om bord enten ved fornyelse eller mellomliggende verifikasjon. Det kan ikke foretas endringer av terroralarmsystemet eller endringer til fartøyets eller rederiets rapporteringsrutiner uten forhåndsgodkjennelse av Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO).
+
+(5) Opplysninger vedrørende fartøyets terroralarmsystem som nevnt i ISPS-kodens del A, seksjon 9.4 under punkt .17 og .18 kan være beskrevet annet sted enn i sikkerhetsplanen, i et dokument som kun er kjent for skipsføreren, sikkerhets- og terrorberedskapsoffiseren (SSO) og andre besetningsmedlemmer som fastsatt av rederiet.
+
+(6) De deler av planen som relaterer seg til ISPS – kodens del A, seksjon 9.4 underpunkt .2, .4, .5, .7, .15, .17 og .18 kan ikke forevises annet lands myndighet uten Sjøfartsdirektoratets godkjennelse.
+
+(7) Rederiet skal periodisk gjennomgå sikkerhets- og terrorberedskapsplanen (SSP).
+
+(8) Rederiet skal utarbeide prosedyrer for gjennomføring av intern revisjon for sikkerhets- og terrorberedskapstiltak.
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+### § 10. Verifikasjon og sertifisering
+
+(1) Når det er verifisert at fartøyet oppfyller kravene i denne forskrift og i den godkjente sikkerhets- og terrorberedskapsplan (SSP), utsteder Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO) internasjonalt sikkerhets- og terrorberedskapssertifikat (ISSC).
+
+(2) Internasjonalt sikkerhets- og terrorberedskapssertifikatet (ISSC) er gyldig i 5 år, forutsatt at det blir foretatt minst en mellomliggende verifikasjon. Slik mellomliggende verifikasjon skal foretas i perioden mellom sertifikatets andre og tredje årsdato som definert i SOLAS kap. I, regel 2, bokstav n. Den mellomliggende verifikasjonen skal inkludere inspeksjon av fartøyets system for sikkerhet og terrorberedskap, herunder tilhørende utstyr, for å påse at dette fungerer tilfredsstillende.
+
+(3) Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO) kan i særlige tilfeller kreve at ytterligere verifikasjon blir foretatt hvis dette finnes påkrevd.
+
+### § 11. Midlertidig sertifisering
+
+Sjøfartsdirektoratet eller anerkjent klasseinstitusjon (RSO), kan utstede midlertidig internasjonalt sikkerhets- og terrorberedskapssertifikat (ISSC) med inntil 6 måneders gyldighet når fartøyet oppfyller de forutsetninger og krav som er gitt i ISPS-kodens del A, seksjon 19.4. Varigheten av et midlertidig internasjonalt sikkerhets- og terrorberedskapssertifikat kan ikke forlenges.
+
+### § 12. Dokumentasjon
+
+(1) Dokumentasjon som nevnt i ISPS-kodens del A, seksjon 10.1 (records) skal oppbevares om bord for de siste 3 år og minst for de siste 10 havneanløp. Det kreves ikke dokumentasjon for perioden frem til denne forskrift trådte i kraft.
+
+(2) All dokumentasjon, inkludert fartøyets sikkerhets- og terrorbredskapsplan (SSP), skal være skrevet på arbeidsspråket om bord. Hvis dette ikke er engelsk, skal det i tillegg finnes en oversettelse til engelsk om bord.
+
+### § 13. Dokument over fartøyshistorikk (CSR)
+
+(1) Fartøy som omfattes av denne forskrift skal ha dokumentasjon over fartøyets historikk (CSR) om bord i henhold til bestemmelsene i SOLAS kap. XI-1, regel 5. Skjemaer og retningslinjer for CSR fremgår av resolusjon A.959(23) «Format and guidelines for the maintenance of the Continuous Synopsis Record (CSR)». Prosedyrene i resolusjonen for vedlikehold av CSR skal følges. CSR-dokumenter med oppdateringer vil bli utstedt av Skipsregisterene.
+
+(2) Fartøyets CSR skal være tilgjengelig for inspeksjon til enhver tid.
+
+### § 14. Sikkerhets- og terrorberedskapsoffiserer (CSO og SSO)
+
+(1) Ethvert rederi skal utpeke en sikkerhets- og terrorberedskapsoffiser (CSO) som er pålagt de oppgaver som ISPS-kodens del A, seksjon 11 krever som et minimum.
+
+(2) Ethvert fartøy skal ha en sikkerhets- og terrorberedskapsoffiser (SSO) om bord som har særlig ansvar for sikkerheten og terrorberedskapen. Ansvaret omfatter som et minimum de oppgaver som beskrives i ISPS-kodens del A, seksjon 12.
+
+(3) Opplæring av fartøyets og rederiets sikkerhets- og terrorberedskapsoffiserer skal være i henhold til kravene gitt i ISPS-kodens del A, seksjon 13 og hensyn tatt til del B, seksjon 13, samt IMOs modellkurs for disse. Det må kunne dokumenteres at personen har gjennomført opplæring, med relevante henvisninger til ISPS-koden og IMOs modellkurs. Dokumentasjon for opplæring som fartøyets sikkerhets- og terrorberedskapsoffiser (SSO) skal oppbevares om bord. Fra 1. juli 2013 skal fartøyets sikkerhets- og terrorberedskapsoffiser ha ferdighetssertifikat for sikringsoffiser etter [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk.
+
+> Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [2 jan 2012 nr. 40](forskrift/2012-01-02-40).
+
+### § 15. Beredskapsnivå
+
+(1) Fartøy skal minst operere i henhold til det beredskapsnivå som fastsettes av norske myndigheter, med mindre høyere beredskapsnivå kreves av havnestater i henhold til SOLAS kap. XI-2, regel 4.3.
+
+(2) Fartøy skal uten forsinkelser respondere på melding om endring til høyere beredskapsnivå.
+
+(3) Når norske myndigheter beslutter å iverksette beredskapsnivå 2 eller 3 for visse eller alle norske fartøy, skal dette skje ved at fartøyenes rederier informeres av norske myndigheter. Rederiene skal omgående informere alle berørte fartøy om at beredskapsnivå 2 eller 3 er fastsatt, og fartøyet skal omgående sende en kvittering til rederiet hvor det bekreftes at melding om endret beredskapsnivå er mottatt om bord. Dersom slik kvittering ikke er mottatt innen 12 timer etter utsendelse av informasjon til rederiet, skal rederiet varsle Hovedredningssentralen om dette
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+### § 16. Sikkerhetsdeklarasjon (DoS)
+
+(1) Skipsføreren eller sikkerhets- og beredskapsoffiseren (SSO) skal anmode relevant havnemyndighet, ved havnens sikkerhets- og terrorberedskapssjef (PFSO) eller annen autorisert person, om at sikkerhetsdeklarasjon blir fylt ut når:Fartøyet opererer på et høyere beredskapsnivå enn det nivå som havnen, eller et annet fartøy det samhandler med, opererer på;det har vært en relevant trussel eller en hendelse som har angått sikkerheten til fartøyet eller havneanlegget;fartøyet er ved en havneterminal som ikke har utarbeidet og implementert godkjent sikkerhets- og terrorberedskapsplan.
+
+(2) Skipsføreren eller fartøyets sikkerhets- og terrorberedskapsoffiser (SSO) skal dessuten anmode om at sikkerhetsdeklarasjon blir fylt ut når fartøyet foretar aktiviteter med et skip, faste plattformer, flytende plattformer eller flyttbare innretninger som ikke har ISSC-sertifikat.
+
+(3) Sikkerhetsdeklarasjoner skal minimum oppbevares om bord for en tidsperiode som spesifisert i [§ 12](forskrift/2004-06-22-972/§12).
+
+> Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+## Kapittel 4: Bruk av maktmidler og rapportering
+
+> Kapitlet tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 17. Bruk av maktmidler
+
+(1) Når det er nødvendig for å hindre eller beskytte mot terrorhandlinger og piratvirksomhet, kan skipsføreren beslutte å ta i bruk maktmidler innenfor folkerettens grenser. Enhver som befinner seg om bord plikter å yte hjelp og respektere de tiltak som treffes.
+
+(2) Maktmidler kan bare anvendes mot en trussel som er direkte, umiddelbar, betydelig og på annen måte uungåelig. Bruk av maktmidler skal så langt som mulig unngås, og der dette er nødvendig skal det stå i rimelig forhold til trusselens omfang og forholdene for øvrig.
+
+(3) Urettmessig bruk av maktmidler kan medføre straffeansvar etter [lov 20. mai 2005 nr. 28](lov/2005-05-20-28) om straff (straffeloven).
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731), endret ved [forskrift 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
+
+### § 18. Rapportering
+
+(1) Dersom skipet har vært utsatt for et angrep og det fra skipets side har vært tatt i bruk maktmidler, skal hendelsen rapporteres til Sjøfartsdirektoratet innen 72 timer. Rapporten skal beskrive hendelsen, angi involverte personer og bruken av maktmidler, herunder skytevåpen. Dersom forholdene tillater det bør situasjonen så langt dette er mulig dokumenteres gjennom lyd- og bildeopptak.
+
+(2) Dersom det er grunn til å tro at bruk av maktmidler har medført personskade eller død skal det rapporteres om dette umiddelbart til Kripos.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 19. Forholdet til offentleglova
+
+(1) Informasjon som sendes til Sjøfartsdirektoratet eller Kripos etter [§ 18](forskrift/2004-06-22-972/§18), [§ 20](forskrift/2004-06-22-972/§20) annet ledd eller [§ 23](forskrift/2004-06-22-972/§23) annet ledd vil kunne være omfattet av unntaket fra offentlighet etter [offentleglova § 24](lov/2006-05-19-16/§24) tredje ledd.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+## Kapittel 5: Bruk og oppbevaring av skytevåpen, bevæpnede vakter m.v.
+
+> Kapitlet tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 20. Bruk av bevæpnede vakter og dokumentasjonsplikt
+
+(1) For å hindre eller beskytte fartøyet mot terrorhandlinger og piratvirksomhet kan væpnet vakthold tas i bruk etter en risikovurdering og etter konsultasjon med skipsføreren.
+
+(2) Før væpnede vakter tas om bord i henhold til første ledd skal rederiet for orienteringsformål innsende følgende dokumentasjon til Sjøfartsdirektoratet:En begrunnelse for hvorfor industriens retningsgivende preventive tiltak ikke anses å være tilstrekkelige og at det er et behov for væpnede vakter.En vurdering av vaktselskapets og vaktenes egnethet, herunder vaktselskapets egen dokumentasjon på:tilfredsstillende prosedyrer for rekruttering og trening av personell;tilfredsstillende prosedyrer for anskaffelse, bruk, vedlikehold, oppbevaring og transport av utstyr, herunder skytevåpen og ammunisjon, relevant for det aktuelle oppdraget;at vaktene har nødvendige kvalifikasjoner og opplæring, herunder trening med skytevåpen, for det aktuelle oppdraget; ogat vaktene har fylt 18 år, kan identifisere seg og fremlegge vandelsattest av nyere dato. Dersom vandelsattest ikke er mulig å fremskaffe bør annen lignende bekreftelse eller referanse innhentes.Dokumentasjonen skal også oppbevares om bord.
+
+(3) Ved utvelgelse og bruk av vaktselskaper skal rederiet ta hensyn til retningslinjer utarbeidet av FNs sjøfartsorganisasjon IMO.
+
+(4) Dersom Sjøfartsdirektoratet får kunnskap om at et navngitt vaktselskap ikke kan anses som egnet til å benyttes på norskregistrerte skip, kan Sjøfartsdirektoratet treffe vedtak om at rederier ikke kan benytte dette selskapet.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 21. Rederiets varslingsplikt overfor forsikringsgiverne
+
+Før væpnede vakter benyttes, skal rederiet i rimelig tid varsle forsikringsgiver som dekker ansvar, tap, omkostninger eller utgifter som følge av piratvirksomhet, og gi slike opplysninger som den enkelte forsikringsgiver behøver for å avklare forholdet til forsikringen.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 22. Prosedyrer for bruk av bevæpnede vakter
+
+(1) Rederiet skal etablere prosedyrer for bruk av bevæpnede vakter, samt bruk og oppbevaring av skytevåpen som tar hensyn til krav fastsatt i forskriften her. Prosedyrene skal gjøres kjent for skipsføreren, mannskapet og vakter som følger med skipet.
+
+(2) Det skal fremgå av prosedyrene at vakter om bord står under skipsførerens kommando.
+
+(3) Videre skal det fremgå av prosedyrene at vakter som tas om bord blir gjort kjent med skipet og forhold om bord som har betydning for deres oppdrag.
+
+(4) Prosedyrene er ikke gjenstand for verifisering og godkjenning etter forskriftens [§ 10](forskrift/2004-06-22-972/§10) og [§ 11](forskrift/2004-06-22-972/§11).
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+### § 23. Oppbevaring av skytevåpen
+
+(1) Skytevåpen skal oppbevares på en forsvarlig måte i henhold til [forskrift 7. mai 2021 nr. 1452 om våpen, skytevåpen, våpendelar og ammunisjon (våpenforskrifta)](forskrift/2021-05-07-1452).
+
+(2) Rederiet eller skipsføreren skal sørge for å føre en fortegnelse over skytevåpen og ammunisjon som tas på og av skipet og rapportere dette til Sjøfartsdirektoratet umiddelbart. Det skal redegjøres for eventuelle avvik.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731), endret ved forskrift [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
+
+### § 24. Bruk av skytevåpen
+
+(1) Bevæpning og iverksetting av prosedyre for bruk av skytevåpen skal godkjennes av skipsføreren i hvert enkelt tilfelle. Den enkelte er alltid ansvarlig for at bruk av skytevåpen utøves i henhold til [§ 17](forskrift/2004-06-22-972/§17) og [§ 22](forskrift/2004-06-22-972/§22).
+
+(2) Før skytevåpen tas i bruk skal det tas hensyn til de farer eller skader dette kan utsette de ombordværende for.
+
+(3) Så fremt omstendighetene tillater det skal angriperen(e) varsles gjennom lys- og lydsignaler og avfyring av varselskudd.
+
+(4) Avfyring av rettet skudd med hensikt å uskadeliggjøre noen må bare skje som siste utvei og etter at andre lempeligere midler forgjeves har vært forsøkt, eller i situasjoner hvor alternative midler åpenbart ikke vil føre frem.
+
+> Tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731).
+
+## Kapittel 6: Sikring av rutegående passasjerskip i innenriksfart som tilbyr overnatting
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 25. Sikringsvurdering
+
+(1) Rutegående passasjerskip som tilbyr overnatting skal ha en sikringsvurdering som blant annet bør omfatte vurdering av eksisterende sikringstiltak, vesentlige funksjoner om bord, aktuelle trusler og sårbarhetsfaktorer. Rederiet bør vurdere hvilke deler av sårbarhetsvurderingen, som beskrevet i avsnitt 8 del A av ISPS-regelverket, som bør inngå i sikringsvurderingen.
+
+(2) Sikringsvurderingen skal gjennomgås og oppdateres minst hvert femte år. Sikringsvurderingen skal danne grunnlag for tiltak og prosedyrer som iverksettes for sikring av skipet.
+
+(3) Når grunnlaget for sikringsvurderingen endres, skal rederiet utarbeide ny sikringsvurdering.
+
+(4) Sikringsvurderingen skal sendes til Sjøfartsdirektoratet.
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 26. Gjennomsøkning av skipet
+
+(1) Rutegående passasjerskip som tilbyr overnatting skal gjennomsøkes for gjenstander som kan utgjøre en fare for sikkerheten om bord. Områdene som skal gjennomsøkes og metode og frekvens for søkene bestemmes på grunnlag av sikringsvurderingen som er nevnt i [§ 25](forskrift/2004-06-22-972/§25).
+
+(2) Rederiet skal sørge for at det finnes prosedyre og nødvendig opplæring av mannskapet for håndtering og isolering av gjenstander som er beskrevet i første ledd.
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 27. Adgangs- og stikkprøvekontroll
+
+(1) Rederiet skal sørge for at alle som går om bord har legitim adgang til skipet.
+
+(2) Det skal gjennomføres stikkprøvekontroll av bagasje, kjøretøy og last. Omfanget av stikkprøvekontrollen bestemmes på grunnlag av sikringsvurderingen etter [§ 25](forskrift/2004-06-22-972/§25).
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 28. Informasjon om tilsyn med bagasje
+
+Passasjerene skal på hensiktsmessig måte informeres om at all bagasje som ikke er plassert i lugaren må oppbevares under tilsyn. Slik informasjon skal gis over skipets høyttaleranlegg eller video og ved annet informasjonsmateriell om bord.
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 29. Sikring av autorisert adgang
+
+Skipet skal ha en prosedyre for å sikre at uvedkommende ikke får adgang til områder på skipet som er forbeholdt mannskapet.
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+### § 30. Beredskapsplan
+
+Skipet skal ha en hensiktsmessig beredskapsplan for håndtering av sikkerhetstrusler som er identifisert i sikringsvurderingen.
+
+> Tilføyd ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017).
+
+## Kapittel 7: Avsluttende bestemmelser
+
+> Overskriften tilføyd ved [forskrift 1 juli 2011 nr. 731](forskrift/2011-07-01-731), endret ved [forskrift 7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017, tidligere kapittel 6).
+
+### § 31. Ikrafttredelse
+
+(1) Denne forskrift trer i kraft 1. juli 2004.
+
+(2) For passasjerskip i klasse A, trer forskriften i kraft 1. juli 2005.
+
+> Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 18), [1 juli 2011 nr. 731](forskrift/2011-07-01-731) (tidligere § 17), [7 juli 2016 nr. 907](forskrift/2016-07-07-907) (i kraft 1 jan 2017, tidligere § 25).
+
+## Vedlegg 1
+
+Se her for å lese forordning [(EF) nr. 725/2004](eu/32004r0725):1 [(pdf)](static/SF/32004r0725.pdf)
+
+> Tilføyd ved [forskrift 4 feb 2005 nr. 119](forskrift/2005-02-04-119).
+
+## Vedlegg 2
+
+Vedlegg 2 til forskriften kan fås ved henvendelse til Sjøfartsdirektoratet.
+
+> Tilføyd ved [forskrift 2 april 2007 nr. 392](forskrift/2007-04-02-392).

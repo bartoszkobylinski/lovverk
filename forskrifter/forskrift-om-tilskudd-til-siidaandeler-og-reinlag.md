@@ -1,0 +1,186 @@
+---
+id: "sf-20190620-0865"
+slug: "forskrift-om-tilskudd-til-siidaandeler-og-reinlag"
+type: "forskrift"
+ref_id: "forskrift/2019-06-20-865"
+title: "Forskrift om tilskudd til siidaandeler og reinlag"
+short_title: null
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2019-07-01"
+last_change_in_force: "2025-12-18"
+last_updated: null
+xml_hash: "138782540f2709da26574a3c08bd59c8e17fe18335c5c7c19c8267714b9e0c41"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til siidaandeler og reinlag
+
+## § 1. Formål
+
+Tilskudd til siidaandeler og reinlag skal bidra til å fremme en bærekraftig reindrift, kvalitet og produktivitet samt heve inntekten i næringen.
+
+> Endret ved forskrift [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021).
+
+## § 2. Periode for tilskuddsberegning
+
+Perioden for tilskuddsberegning etter denne forskriften (tilskuddsåret) er reindriftsåret, som løper fra 1. april til og med 31. mars, med mindre noe annet følger av de enkelte bestemmelsene.
+
+## § 3. Generelle vilkår for tilskudd
+
+Tilskudd etter denne forskriften kan innvilges til reinlag eller leder av siidaandel dersom:Reinlaget eller leder av siidaandel har levert melding om reindrift for tilskuddsåret, ogreinlaget eller leder av siidaandel har hatt en avgiftspliktig salgsinntekt fra salg av kjøtt fra rein i eget merke på minimum 50 000 kroner eksklusiv merverdiavgift det siste kalenderåret. Inntekter fra rein som er slaktet eller omsatt utenfor Norge regnes ikke som avgiftspliktig salgsinntekt etter denne forskriften, med mindre reinen omfattes av ordningen for utenlands bearbeiding, ogleder av siidaandelen ikke mottar alderspensjon etter folketrygdens regler i driftsåret søknaden gjelder. I felles siidaandel kan likevel eldste ektefelle eller samboer motta alderspensjon.
+
+Sideordnede rekrutteringsandeler kan ikke innvilges tilskudd etter denne forskriften.
+
+> Endret ved forskrifter [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023).
+
+## § 4. Særskilt om reintall
+
+Det er et vilkår for å motta tilskudd at siidaens reintall per 31. mars i tilskuddsåret er i samsvar med øvre reintall fastsatt i godkjente bruksregler.
+
+Hvis reintallet i siidaen overskrider fastsatt øvre reintall, kan leder av siidaandelen likevel få tilskudd dersom:siidaen har utarbeidet en reduksjonsplan etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til denne, ellersiidaandelen er i en reduksjonsprosess vedtatt av reindriftsstyret etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til dette, ellersiidaen har fastsatt øvre reintall per siidaandel i henhold til [reindriftsloven § 60 tredje ledd](lov/2007-06-15-40/§60/ledd/3) der summen av siidaandelenes reintall ikke overskrider siidaens fastsatte øvre reintall, og siidaandelens reintall er i henhold til dette, ellersiidaandelen ikke omfattes av bokstavene a–c, og ikke har økt sitt reintall fra det reintall som siidaandelen hadde i året før siidaen overskred fastsatt øvre reintall.
+
+> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [18 des 2025 nr. 2675](forskrift/2025-12-18-2675).
+
+## § 5. Utmåling av tilskudd
+
+Dersom siidaandelene har fått fastsatt et øvre reintall, og siidaandelen ikke oppfyller vilkårene om reintall i [§ 4](forskrift/2019-06-20-865/§4) andre ledd bokstav a–e, kan leder av siidaandelen likevel få tilskudd etter følgende beregning:ved overskridelser mellom 1 og 10 rein, reduseres tilskuddet med 1000 kroner per rein som overskrider siidaandelens fastsatte reintall,ved overskridelser mellom 11 og 20 rein, reduseres tilskuddet med 2000 kroner per rein som overskrider siidaandelens fastsatte reintall,ved overskridelser mellom 21 og 30 rein reduseres tilskuddet med 3000 kroner per rein som overskrider siidaandelens fastsatte reintall.
+
+Dersom siidandelene ikke har fått fastsatt et øvre reintall, og siidaandelen har økt sitt reintall i strid med [§ 4](forskrift/2019-06-20-865/§4) andre ledd bokstav f kan leder av siidaandelen likevel få tilskudd etter følgende beregning:ved økning mellom 1 og 10 rein, reduseres tilskuddet med 1000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 11 og 20 rein, reduseres tilskuddet med 2000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 21 og 30 rein reduseres tilskuddet med 3000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall.
+
+Ved overskridelser eller økning av reintallet på mer enn 30 rein kan det ikke innvilges tilskudd.
+
+## § 6. Krav til søknaden
+
+Reinlag eller leder av siidaandel som søker tilskudd skal benytte søknadskjema fastsatt av Landbruksdirektoratet. Søknaden skal sendes til statsforvalteren i det reinbeiteområdet siidaandelen eller reinlaget tilhører.
+
+Søknad om tilskudd må være levert innen 31. mai.
+
+I særlige tilfeller kan statsforvalteren dispensere fra søknadsfristen.
+
+> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023).
+
+## § 7. Særskilt driftstilskudd til ungdom
+
+Leder av siidaandelen som er under 30 år per 1. januar i driftsåret, kan innvilges driftstilskudd på inntil 40 000 kroner. I felles siidaandel kan likevel eldste ektefelle eller samboer være over 30 år.
+
+## § 8. Særskilt driftstilskudd til kvinner
+
+Kvinner som står alene som leder av siidaandel og som har reindrift som hovednæring, kan innvilges særskilt driftstilskudd på inntil 40 000 kroner.
+
+Med hovednæring menes at minst 50 prosent av siidaandelsleders personinntekt ved siste skatteoppgjør stammer fra avgiftspliktig salgsinntekt fra salg av kjøtt fra rein i eget merke. Kvinner som har vært reindriftslærling året før overtakelse av siidaandelen kan innvilges tilskudd dersom minst 50 prosent av lønnsinntekten stammer fra arbeidet som lærling dette året.
+
+> Endret ved forskrifter [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023).
+
+## § 9. Etableringstilskudd
+
+Person som får overdratt eller opprettet siidaandel til seg før han eller hun har fylt 35 år, kan innvilges et etableringstilskudd på inntil 120 000 kroner det første året etter overdragelsen, og inntil 100 000 kroner per år de to neste årene etter overdragelsen. Hvis siidaandelen blir overdratt til ektefeller eller samboere i fellesskap, kan likevel eldste ektefelle eller samboer være over 35 år på tidspunktet for overdragelsen.
+
+Den som søker om etableringstilskudd er fritatt fra inntektskravet i [§ 3](forskrift/2019-06-20-865/§3) nr. 2.
+
+> Endret ved forskrifter [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022).
+
+## § 10. Produksjonspremie
+
+Reinlag eller leder av siidaandel kan innvilges produksjonspremie på inntil 41 prosent av avgiftspliktig salgsinntekt eksklusiv merverdiavgift av kjøtt og andre avgiftspliktige salgsinntekter fra rein tilhørende reinlaget eller siidaandelsleder det siste kalenderåret.
+
+For øvrige reineiere i siidaandel beregnes produksjonspremien av salgsinntekter av kjøtt og andre salgsinntekter fra rein tilhørende reineierne i siidaandelen det siste kalenderåret.
+
+Salgsinntekt av kjøtt fra rein som er slaktet på slakteri skal være innrapportert i henhold til [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617) for at dette kan inngå i grunnlag for beregning av produksjonspremien.
+
+Salg av livdyr, og frakt- og slaktekostnader inngår ikke som grunnlag for beregningen av produksjonspremien.
+
+Inntekter fra rein som er slaktet eller omsatt utenfor Norge regnes ikke som avgiftspliktig salgsinntekt etter første punktum, med mindre reinen omfattes av ordningen med utenlands bearbeiding.
+
+Det utbetales ikke produksjonspremie for avgiftspliktig salgsinntekt som overstiger 700 000 kroner per siidaandel og 1 500 000 kroner per reinlag.
+
+Landbruksdirektoratet kan dispensere fra inntektsgrensen i sjette ledd ved avvikling av en siidaandel, der hele flokken slaktes.
+
+> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024).
+
+## § 10a. Tilskudd som kompensasjon for veibruksavgift på bensin
+
+Reinlag eller leder av siidaandel kan innvilges tilskudd som kompensasjon for veibruksavgift på bensin. Tilskuddet beregnes på grunnlag av rein som er slaktet og rapportert i samsvar med [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Beregningen skjer på bakgrunn av følgende satser:*Sats**Slakteuttak (kilo)**Tilskudd (kroner)*1500–9994 00021000–24998 00032500–499915 00045000 og over20 000
+
+> Tilføyd ved forskrift [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025).
+
+## § 11. Kalveslaktetilskudd
+
+Reinlag eller leder av siidaandel kan innvilges kalveslaktetilskudd på inntil 740 kroner per kalv som er slaktet og innrapportert i henhold til [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Slaktingen må være utført ved slakteri som har tatt i bruk optisk lengdemåling av reinslakt.
+
+Det kan innvilges et kvalitetstillegg på inntil 100 kroner per kalveslakt i EUROP-klasse O+ til E+.
+
+Tilskuddet kan innvilges for kalver slaktet i perioden 15. august–31. mars.
+
+Kalveslaktetilskuddet kan også innvilges for kasserte kalver og kalver som tapes som følge av radioaktivitetstiltak.
+
+> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [16 april 2021 nr. 1187](forskrift/2021-04-16-1187), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025).
+
+## § 12. Ektefelle-/samboertillegg
+
+Der begge ektefeller/samboere utøver aktiv reindrift i samme siidaandel, og begge står som leder av siidaandelen, kan siidaandelen innvilges et ekstra driftstilskudd på inntil 30 000 kroner. Det er ikke et vilkår at begge ektefellene/samboerne har eget merke.
+
+Hvis begge ektefellene/samboerne eier rein er det et vilkår at begge eier rein i siidaandelen de er ledere for. I driftsåret ekteskapet/samboerskapet er inngått, kan statsforvalteren dispensere fra dette kravet.
+
+Ektefelle-/samboertillegg kan ikke innvilges dersom en av ektefellene/samboerne ved siste skatteoppgjør hadde en personinntekt utenfor reindriften på mer enn 400 000 kroner. Godtgjørelse for verv i reindriftsnæringen regnes i denne sammenheng som inntekt fra reindriften.
+
+> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 12), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023, tidligere § 13), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025).
+
+## § 13. Opplysningsplikt og kontroll
+
+Mottakere av tilskudd etter denne forskriften plikter å gi alle opplysninger som reindriftsmyndighetene finner nødvendig for å kunne forvalte tilskuddordningene, eller for å kunne oppfylle reindriftsavtalen.
+
+Reindriftsmyndighetene fører tilsyn med at utbetalinger av tilskudd er riktige. På forespørsel plikter søkeren å utlevere all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. For virksomheter som er pålagt revisjonsplikt kan reindriftsmyndighetene kreve revidert regnskap.
+
+> Endret ved forskrifter [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 13), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023, tidligere § 14).
+
+## § 14. Innhenting av opplysninger
+
+I forbindelse med søknadsbehandling og kontroll av tilskuddsutbetalinger kan reindriftsmyndighetene innhente opplysninger fra offentlige myndigheter.
+
+> Tilføyd ved forskrift [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023).
+
+## § 15. Retting av feilutbetalinger
+
+Reindriftsmyndighetene kan rette feil i utbetalt tilskudd, enten ved etterbetaling eller krav om tilbakebetaling av tilskudd fra tilskuddsmottaker.
+
+> Endret ved forskrift [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 14).
+
+## § 16. Avkorting mv.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknaden som har eller ville ha dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig driver eller har drevet sin virksomhet i strid med lover og forskrifter for reindriftsnæringen, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+
+> Endret ved forskrifter [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 15), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024).
+
+## § 17. Innkreving av tilbakebetalings- eller avkortingsbeløp
+
+Reindriftsmyndighetene kan kreve tilbakebetalt differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter [§ 15](forskrift/2019-06-20-865/§15) eller avkorting etter [§ 16](forskrift/2019-06-20-865/§16). Differansen kan også motregnes i senere tilskuddsutbetalinger.
+
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+
+Dersom tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan reindriftsmyndighetene kreve renter fra det tidspunkt kravet om tilbakebetaling er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan reindriftsmyndighetene kreve renter fra tidspunktet da det urettmessige tilskuddet ble utbetalt. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av [§ 3 i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](lov/1976-12-17-100/§3).
+
+> Endret ved forskrifter [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 16), [29 juni 2022 nr. 1238](forskrift/2022-06-29-1238) (i kraft 1 juli 2022), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024).
+
+## § 18. Administrasjon, klage og dispensasjon
+
+Landbruksdirektoratet administrerer tilskuddene etter denne forskriften. Statsforvalteren fatter vedtak om tilskudd. Søknader skal behandles etter regelverket som var gjeldende for reindriftsåret det søkes tilskudd for. Statsforvalterens vedtak kan påklages til Landbruksdirektoratet etter [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](lov/1967-02-10).
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra forskriftens bestemmelser.
+
+Vedtak fattet av Landbruksdirektoratet i henhold til denne forskriften kan påklages til Landbruks- og matdepartementet etter [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](lov/1967-02-10).
+
+> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 17), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023).
+
+## § 19. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2019. Samtidig oppheves [forskrift 19. juni 2012 nr. 592](forskrift/2012-06-19-592) om tilskudd til siidaandeler og tamreinlag.
+
+> Endret ved forskrift [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022, tidligere § 18).

@@ -1,0 +1,36 @@
+---
+id: "sf-19780714-0002"
+slug: "forskrift-om-fondsavsetninger-enøk-tiltak"
+type: "forskrift"
+ref_id: "forskrift/1978-07-14-2"
+title: "Forskrifter om skattefrie fondsavsetninger til energiøkonomisering."
+short_title: "Forskrift om fondsavsetninger, ENØK-tiltak"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1978-07-14"
+last_change_in_force: null
+last_updated: null
+xml_hash: "7aa89a4c71213d0e5add8738c6d884c53366c5447c36bfbfd2b7651f9281f5c4"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter om skattefrie fondsavsetninger til energiøkonomisering.
+
+## I
+
+### § 1
+
+Departementet kan samtykke i frigiving av avsatte midler til investeringer som er nødvendige for åutnytte spillvarme fra produksjons- og ventilasjonsanlegg,tilbakeføre i produksjonsprosessen avfallsstoffer eller spillprodukter som ellers ville bli sluppet ut til vann/jord eller som blir behandlet på særskilt måte som avfall,utnytte avfallsstoffer eller spillprodukter som brensel for produksjon av varme.
+
+### § 2
+
+Søknad om samtykke skal sendes Finansdepartementet vedlagt gjenpart av eventuell søknad om lån/lånegarantier. Gjenpart av søknaden skal sendes til Industri-, og Miljøverndepartementet.
+
+## II
+
+Forskriftene trer i kraft straks.

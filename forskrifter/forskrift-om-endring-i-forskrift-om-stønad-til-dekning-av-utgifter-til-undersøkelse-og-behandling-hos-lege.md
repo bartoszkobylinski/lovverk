@@ -1,0 +1,30 @@
+---
+id: "sf-20250523-0848"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-lege"
+type: "forskrift"
+ref_id: "forskrift/2025-05-23-848"
+title: "Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege"
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "288981c0b330c5520f7d5bc52c205e9f7a644fdabe0055d72e02465c5a2e0aa2"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege
+
+## I
+
+1. Når lege mottar lønn fra kommunen for pasientbehandling i kontorpraksis eller ved legevakt, utbetales stønaden til kommunen. Det samme gjelder for stønad til svangerskapskontroller og veiledning i familieplanlegging som utføres av lege ansatt i helsestasjon.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

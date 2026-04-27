@@ -1,0 +1,76 @@
+---
+id: "sf-20260223-0262"
+slug: "forskrift-om-tilskudd-til-klimarådgiving"
+type: "forskrift"
+ref_id: "forskrift/2026-02-23-262"
+title: "Forskrift om tilskudd til klimarådgiving"
+short_title: null
+language: "nb"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2026-02-23"
+last_change_in_force: null
+last_updated: null
+xml_hash: "4b9c33e3be2dcd5f5903b9c696abfd0611c1ff0c113c9e52608048dd2f609c70"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til klimarådgiving
+
+## § 1. Formål
+
+Formålet med tilskudd til klimarådgiving er å stimulere til at jordbruksforetak mottar rådgiving som gir økt kunnskap om klimagassutslipp, utslippsreduserende tiltak, opptak og lagring av karbon og klimatilpasning i jordbruksproduksjonen.
+
+## § 2. Vilkår for å motta tilskudd
+
+Tilskudd etter denne forskriften kan gis til jordbruksforetak som oppfyller vilkårene for å motta tilskudd etter [forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket](forskrift/2014-12-19-1817), og som har mottatt klimarådgiving til egen jordbruksproduksjon.
+
+Tilskuddet gis for klimarådgiving gjennomført etter rådgivingsopplegg godkjent av Landbruksdirektoratet etter [§ 3](forskrift/2026-02-23-262/§3). Rådgivingen skal ha resultert i en plan for tiltak som har til hensikt å redusere jordbruksforetakets klimabelastning og bedre jordbruksforetakets mulighet til å tilpasse seg et klima i endring.
+
+Tilskudd kan ikke gis dersom det har gått mindre enn tre år siden tilskudd for klimarådgiving ble innvilget. Det kan likevel gis nytt tilskudd innen tre år dersom jordbruksforetaket:har hatt omfattende omlegging til andre typer driftsmetoder i jordbruksproduksjonen,har hatt omlegging til annen type produksjon som er berettiget produksjonstilskudd i jordbruket, ellerdriver flere typer jordbruksproduksjoner enn tidligere mottatt rådgiving dekker.
+
+## § 3. Godkjenning av klimarådgivingens innhold og utførelse
+
+Foretak som tilbyr og kan dokumentere klimarådgiving med høy faglig kvalitet kan etter søknad godkjennes for en periode på inntil fem år. Godkjenningen faller bort dersom forutsetningene for godkjenningen endres.
+
+I klimarådgivingen skal det inngå en plan for en helhetlig gjennomgang av utslipp og opptak av klimagasser på gårdsnivå, plan for beregning av klimagassutslipp og -opptak i produksjonen samt plan for utfylling av jordbruksforetakets tiltaksplan.
+
+## § 4. Tilskuddssatser
+
+Tilskudd etter denne forskriften gis etter rådgivingskategorier og satser fastsatt i jordbruksavtalen.
+
+## § 5. Søknad
+
+Søknad om tilskudd skal sendes til statsforvalteren på søknadsskjema fastsatt av Landbruksdirektoratet.
+
+Søknader innsendt mer enn ett år etter mottatt klimarådgiving, avvises.
+
+## § 6. Opplysningsplikt og kontroll
+
+Tilskuddsmottaker plikter å gi alle opplysninger som statsforvalteren og Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen og kontrollere at utbetalingen av tilskudd er riktig.
+
+Tilskuddsmottaker plikter å utlevere all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet.
+
+## § 7. Tilbakebetaling
+
+Dersom foretaket som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner har mottatt en utbetaling som ikke er berettiget, kan det feilutbetalte beløpet kreves tilbakebetalt.
+
+For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](lov/1976-12-17-100).
+
+Krav fra offentlig myndighet som utspringer av foretakets jordbruksvirksomhet kan motregnes i senere utbetalinger av tilskudd til foretaket.
+
+## § 8. Forvaltning, dispensasjon og klage
+
+Vedtak om tilskudd fattes av statsforvalteren. Vedtak om godkjenning av rådgivingsopplegg fattes av Landbruksdirektoratet.
+
+Statsforvalteren kan i særlige tilfeller dispensere fra [§ 2](forskrift/2026-02-23-262/§2) og [§ 5](forskrift/2026-02-23-262/§5).
+
+Vedtak fattet i medhold av [§ 3](forskrift/2026-02-23-262/§3) kan påklages til Landbruks- og matdepartementet. Øvrige vedtak kan påklages til Landbruksdirektoratet.
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft 23. februar 2026.

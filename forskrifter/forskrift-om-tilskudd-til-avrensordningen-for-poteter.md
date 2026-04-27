@@ -1,0 +1,76 @@
+---
+id: "sf-20090402-0386"
+slug: "forskrift-om-tilskudd-til-avrensordningen-for-poteter"
+type: "forskrift"
+ref_id: "forskrift/2009-04-02-386"
+title: "Forskrift om tilskudd til avrensordningen for poteter"
+short_title: "Forskrift om tilskudd til avrensordningen for poteter"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2009-07-01"
+last_change_in_force: "2021-09-15"
+last_updated: null
+xml_hash: "34595641529490de8d10c8a1bc632d8a39bf83d35c21a987bcc00929c814f62c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til avrensordningen for poteter
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre avsetning av norskproduserte avrenspoteter.
+
+## § 2. Definisjon
+
+Med avrenspoteter menes i denne forskrift frasorterte poteter i tilknytning til potetproduksjon, -omsetning og -foredling.
+
+## § 3. Grunnvilkår
+
+Det kan gis prisnedskrivingstilskudd etter jordbruksavtalens satser til produsent av rektifisert potetsprit eller potetstivelse som tilbyr minimum treårig avtale om mottak av avrenspoteter fra godkjente omsetningsledd i markedsordningen for poteter.
+
+Produsent av rektifisert potetsprit eller potetstivelse skal, innenfor intervallet 80 til 120 prosent av avtalt årlig leveranse, tilby pris på avrens som fastsatt i jordbruksavtalen.
+
+Avtalt kvantum avrenspoteter kan avgrenses til omsetningsleddets gjennomsnittlige leveranse av avrens de siste tre år før avtalen blir inngått.
+
+> Endret ved [forskrift 23 nov 2010 nr. 1472](forskrift/2010-11-23-1472) (i kraft 1 jan 2011).
+
+## § 4. Opplysningsplikt og kontroll
+
+Mottakere av tilskudd plikter å gi alle opplysninger som Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen.
+
+Landbruksdirektoratet fører tilsyn med at utbetaling av prisnedskrivingstilskudd er riktig, og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. Landbruksdirektoratet kan kreve at opplysningene bekreftes av revisor.
+
+Landbruksdirektoratet kan foreta stedlig kontroll hos tilskuddsmottaker.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 5. Feilutbetalinger, avkorting og innkreving
+
+Landbruksdirektoratet kan rette feil i utbetalt tilskudd.
+
+Brudd på forskriftens bestemmelser kan medføre tilbakeholdelse eller avkorting av hele eller deler av tilskuddet.
+
+Differansen mellom utbetalt og berettiget tilskudd som følge av vedtak etter første eller annet ledd, kan kreves tilbakebetalt fra mottaker eller motregnes i senere tilskuddsutbetalinger.
+
+Der mottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av [§ 3](lov/1976-12-17-100/§3) i [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](lov/1976-12-17-100).
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 6. Administrasjon, klage og dispensasjon
+
+Landbruksdirektoratet administrerer tilskuddsordningen.
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra forskriftens bestemmelser.
+
+Vedtak fattet i medhold av denne forskriften kan påklages til Landbruks- og matdepartementet etter [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker, kapittel VI](lov/1967-02-10/kapvi).
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 7. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. juli 2009.

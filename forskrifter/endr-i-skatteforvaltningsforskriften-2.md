@@ -1,0 +1,158 @@
+---
+id: "sf-20250625-1310"
+slug: "endr-i-skatteforvaltningsforskriften-2"
+type: "forskrift"
+ref_id: "forskrift/2025-06-25-1310"
+title: "Forskrift om endring i forskrift til skatteforvaltningsloven (skatteforvaltningsforskriften)"
+short_title: "Endr. i skatteforvaltningsforskriften"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "fbc2bedfd08fdf8543822444ed71a9e1049e64bacde167cab512fb28144dde87"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift til skatteforvaltningsloven (skatteforvaltningsforskriften)
+
+## I
+
+(2) Definisjonene av kryptoeiendel og opplysningspliktig kryptoeiendel i [§ 7-12-1](forskrift/2016-11-23-1360/§7-12-1) gjelder tilsvarende for [§ 7-3](forskrift/2016-11-23-1360/§7-3).
+
+- salgsvederlag, gevinst og tap, herunder valutagevinst og valutatap. Dette gjelder likevel ikke inntekter fra salg eller innløsning av en finansiell eiendel som allerede er rapportert etter 7-12-7.
+
+For den som formidler utleie av fast eiendom hvor betaling for formidlingen er knyttet til gjennomførte transaksjoner, gjelder opplysningsplikten i [§§ 7-11-1](forskrift/2016-11-23-1360/§7-11-1) til [7-11-3](forskrift/2016-11-23-1360/§7-11-3), [7-11-5](forskrift/2016-11-23-1360/§7-11-5) og [7-11-6](forskrift/2016-11-23-1360/§7-11-6) tilsvarende så langt den passer dersom formidlingen ikke har skjedd gjennom en digital plattform. Det samme gjelder for den som på vegne av utleier inngår kontrakt om utleie av fast eiendom hvor betaling for tjenesten er knyttet til gjennomførte transaksjoner.
+
+Formidlere av drosjetjenester som anvender digitale plattformer og som har løyvehavere skattemessig hjemmehørende i land som har avtale om automatisk utveksling av opplysninger med Norge, skal i tillegg gi opplysninger om disse etter [§ 7-11-1](forskrift/2016-11-23-1360/§7-11-1) til [§ 7-11-6](forskrift/2016-11-23-1360/§7-11-6).
+
+(2) Digitale formidlere av drosjetjenester hjemmehørende i land som har gjennomført tilsvarende regler som i [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11) og som har avtale om automatisk utveksling av opplysningene med Norge, er unntatt fra opplysningsplikten i første ledd.
+
+(1) Opplysninger etter dette kapittel skal gis av den som gjennom en digital plattform formidler utleie av fast eiendom, utleie av transportmidler og salg av tjenester mot vederlag.
+
+(2) Opplysningsplikten etter første ledd gjelder ikke for opplysningspliktige somer skattemessig hjemmehørende i et land med tilsvarende regler som [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11) og som har avtale om automatisk utveksling av opplysningene med Norgepå forhånd og årlig godtgjør at de bare har utleiere eller tjenesteytere som er unntatt fra opplysningsplikt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet leddpå forhånd og årlig godtgjør at de har en forretningsmodell som ikke tillater utleiere eller tjenesteytere å oppnå overskudd fra vederlaget.bare har opplysningsplikt etter [§ 7-5-18](forskrift/2016-11-23-1360/§7-5-18) første ledd første punktum.
+
+(1) Det skal gis opplysninger etter [§ 7-11-3](forskrift/2016-11-23-1360/§7-11-3) andre og tredje ledd for hver utleier eller tjenesteyter som i løpet av skattleggingsperioden er registrert på plattformen og gjennom plattformen har leid ut fast eiendom eller transportmidler eller solgt tjenester og fått betalt eller kreditert vederlag for dette i skattleggingsperioden. Opplysningene skal gis for hvert kvartal i perioden 1. januar til 31. desember i skattleggingsperioden.
+
+(2) Det skal ikke gis opplysninger omoffentlige virksomheterbørsnoterte selskaperhoteller hvor det er formidlet mer enn 2 000 utleietilfeller for en fast eiendom i løpet av skattleggingsperioden
+
+(3) For utleiere eller tjenesteytere som ikke er skattemessig hjemmehørende i Norge, skal det gis opplysninger om de som er hjemmehørende i, og faste eiendommer som ligger i, land som har avtale om automatisk utveksling av opplysningene med Norge. Uavhengig av hvor utleieren anses skattemessig hjemmehørende, skal det likevel gis opplysninger om alle faste eiendommer som leies ut i Norge.
+
+(4) Skattekontoret kan bestemme at opplysningspliktige som for skattleggingsperioden ikke har identifisert utleiere eller tjenesteytere som det skal gis opplysninger om, skal gi opplysninger om dette.
+
+(1) Det skal gis opplysninger omden opplysningspliktiges navn, adresse, organisasjonsnummer eller skatteregistreringsnummer (TIN) og firmanavnet på plattformeneventuelt navn, adresse og organisasjonsnummer eller skatteregistreringsnummer (TIN) på den som gir opplysninger på vegne av den opplysningspliktigeden enkelte utleiers eller tjenesteyters navn, primæradresse med landkode, fødselsnummer (ev. fødselsdato), D-nummer, organisasjonsnummer eller skatteregistreringsnummer (TIN) og hvilket land som har utstedt dettedet unike identifikasjonsnummer eller referansenummer til den bankkonto eller en annen lignende betalingskonto hvor vederlaget blir betalt eller kreditert. Står kontoen i en annens navn, skal det gis identitetsopplysninger etter bokstav c som gjelder kontoinnehaveren.
+
+(2) Ved salg av tjenester og utleie av transportmidler skal det for den enkelte utleier eller tjenesteyter gis opplysninger omhva som er formidletantall salg og utleietilfeller som er betalt eller kreditertsamlet vederlaget som er betalt eller kreditert etter fradrag som nevnt i bokstav dsamlet gebyr, kommisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen.
+
+(3) Ved utleie av enhver type fast eiendom skal det for hver eiendom og hver utleid enhet på eiendommen gis opplysninger omtype eiendomadresse, herunder landkode, til hver utleid enhet/eiendom samt gårds- og bruksnummerantall dager hver enhet/eiendom har vært leid utsamlet vederlag som er betalt eller kreditert for den enkelte enhet/eiendom etter fradrag som nevnt i bokstav esamlet gebyr, provisjoner eller skatter som er forhåndsbetalt eller trukket av plattformen per utleid enhet/eiendom.
+
+(4) Vederlaget skal oppgis i den valuta det ble betalt eller kreditert i og med valutakode. Alle beløp skal også oppgis i hele norske kroner. Ved omregning av beløp i fremmed valuta til norske kroner skal Norges Banks kurser eller annen offentlig vekslingskurs benyttes. Er vederlaget betalt eller kreditert i en annen form enn ordinær valuta, skal vederlaget rapporteres i norske kroner omregnet eller verdsatt på en konsekvent måte.
+
+(1) For å avgjøre om en utleier eller tjenesteyter er unntatt fra plattformens opplysningsplikt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet ledd bokstav a og b kan den opplysningspliktige benytte offentlig tilgjengelige opplysninger eller en bekreftelse fra virksomheten selv. For å avgjøre om en selger er unntatt etter [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) annet ledd bokstav c kan den opplysningspliktige legge til grunn opplysninger fra sine egne tilgjengelige registre.
+
+(2) Den opplysningspliktige skal innhente og verifisere opplysninger som nevnt i § 7-11-3 første ledd bokstav c om hver enkelt utleier eller tjenesteyter som i løpet av skattleggingsperioden har vært registrert på plattformen for utleie av fast eiendom, utleie av transportmidler eller salg av tjenester og opplysninger om adressen til hver fast eiendom/enhet som tilbys for utleie, jf. § 7-11-3 tredje ledd bokstav b.
+
+(3) Den opplysningspliktige kan velge å bare gjennomgå utleiere eller tjenesteytere som det skal gis opplysninger om, jf. [§ 7-11-2](forskrift/2016-11-23-1360/§7-11-2) første ledd første punktum.
+
+(4) Opplysninger som gjeldernye utleiere eller tjenesteytere skal verifiseres innen 31. desember i det første året plattformen er opplysningspliktig, ved å bruke all tilgjengelig informasjoneksisterende utleiere eller tjenesteytere skal verifiseres innen 31. desember i det andre året etter at reglene trer i kraft eller rapporteringsplikt oppstod, ved å bruke all elektronisk søkbar informasjon.
+
+(5) Får den opplysningspliktige informasjon om at registrerte opplysninger om en utleier eller tjenesteyter eller en fast eiendom er ufullstendige eller uriktige, må opplysningene verifiseres på nytt ved å bruke pålitelige opplysninger fra uavhengige kilder.
+
+(6) Gjennomgangen er gyldige i tre år etter at opplysningene om utleier eller tjenesteyter ble innhentet og verifisert. Dersom det er grunn til å tro at de innhentede opplysningene er upålitelige eller uriktige, skal opplysningene gjennomgås tidligere med sikte på å avklare dette.
+
+(7) Dersom utleier eller tjenesteyter ikke har gitt opplysningene som kreves etter [§ 7-11-3](forskrift/2016-11-23-1360/§7-11-3) første ledd bokstav c innen to måneder etter at den opplysningspliktige etterspurte de påkrevde opplysningene, skal den opplysningspliktige utelukke vedkommende fra tjenesten eller holde tilbake vederlag for formidlet utleie eller tjeneste inntil opplysningene er gitt.
+
+(8) Den opplysningspliktige kan inngå avtale med tredjepart om å utføre verifiseringen etter denne bestemmelsen. [§ 7-11-5](forskrift/2016-11-23-1360/§7-11-5) tredje punktum gjelder tilsvarende. Andre opplysningspliktige på samme plattform, hjemmehørende i et land som har avtale om automatisk utveksling av opplysningene med Norge, kan foreta verifisering etter dette landets regler dersom disse er vesentlig sammenfallende med bestemmelsen her.
+
+(9) Den opplysningspliktige skal oppbevare dokumentasjon som viser hvordan en utleier eller tjenesteyter er identifisert. Dokumentasjonen skal oppbevares i minst fem år etter utløpet av inntektsåret. Når det foreligger ny dokumentasjon, skal dokumentasjon som har betydning for opplysningsplikten for tidligere skattleggingsperioder oppbevares i minst fem år etter utløpet av inntektsåret.
+
+Har flere opplysningspliktige på samme plattform opplysninger om samme utleier eller tjenesteyter, kan de avtale at opplysningene skal gis av en av dem. Dette gjelder også for opplysningspliktige hjemmehørende i et land som har inngått avtale om automatisk utveksling av opplysningene med Norge, når dette landets regler er vesentlig sammenfallende med bestemmelsene her og utleier eller tjenesteyter også er hjemmehørende i et slikt land. Slik avtale fritar ikke den opplysningspliktige for tvangsmulkt eller overtredelsesgebyr etter [skatteforvaltningsloven § 14-1](lov/2016-05-27-14/§14-1) og [§ 14-7](lov/2016-05-27-14/§14-7) dersom opplysningsplikten ikke blir oppfylt.
+
+Opplysningene skal gis elektronisk innen 31. januar året etter skattleggingsperioden. Den opplysningspliktige skal innen samme frist gi utleier og tjenesteyter kopi av de rapporterte opplysningene.
+
+Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [skatteforvaltningsloven § 7-5 åttende ledd](lov/2016-05-27-14/§7-5/ledd/8), kan for skattleggingsperioden 2026 enten gi opplysninger etter denne bestemmelsen eller velge å gi opplysninger etter [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11). Opplysningspliktige som velger å rapportere etter de nye reglene for inntektsåret 2026, har ikke plikt til å foreta selgergjennomgang etter [§ 7-11-4](forskrift/2016-11-23-1360/§7-11-4) for eksisterende kunder dette året.
+
+(1) I denne forskrift § 7-12 menes med:*kryptoeiendel:* en digital representasjon av verdi som bygger på kryptografisk sikret distribuert registerteknologi eller en lignende teknologi for å validere og sikre transaksjoner.*opplysningspliktig kryptoeiendel:* enhver kryptoeiendel med unntak av digitale sentralbankpenger, spesifiserte elektroniske pengeprodukter og kryptoeiendeler som den opplysningspliktige tilbyderen har fastslått ikke kan brukes til betalings- eller investeringsformål.*tilbyder av vekslingstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet utfører vekslingstransaksjoner for opplysningspliktige kryptoeiendeler for eller på vegne av andre, herunder ved å opptre som motpart eller som mellommann til slike transaksjoner, eller ved å gjøre en handelsplattform for veksling tilgjengelig.*tilbyder av oppbevaringstjenester:* enhver fysisk person eller enhet, som ledd i sin virksomhet tilbyr tjeneste for oppbevaring av eller kontroll med opplysningspliktige kryptoeiendeler eller metodene for tilgang til slike kryptoeiendeler, hvor det er relevant i form av private krypteringsnøkler.*partnerjurisdiksjon:* en jurisdiksjon som har satt i kraft regler om opplysningsplikt for kryptoeiendeler og som er oppført på liste publisert av Skatteetaten.*vekslingstransaksjon:* erverv og avhending av kryptoeiendel mot offisiell valuta eller erverv og avhending av kryptoeiendel mot kryptoeiendel.*overføring:* flytting av kryptoeiendel til eller fra en brukers adresse eller konto hos opplysningspliktig tilbyder, som tilbyderen på transaksjonstidspunktet ikke kan fastslå er en vekslingstransaksjon. Overføring mellom brukerens egne adresser og konti hos tilbyderen, er ikke omfattet.
+
+(2) Definisjonene av reelle rettighetshavere, enhet, nærstående enhet, finansielle produkter, spesifisert elektronisk pengeprodukt og digitale sentralbankpenger i [§ 7-3-2](forskrift/2016-11-23-1360/§7-3-2) gjelder tilsvarende for § 7-12.
+
+(1) Opplysningsplikten etter [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) gjelder tilbyder av vekslingstjenester som eren fysisk person bosatt i Norge etter [skatteloven § 2-1](lov/1999-03-26-14/§2-1) eller en enhet hjemmehørende i Norge etter [skatteloven § 2-2](lov/1999-03-26-14/§2-2),en enhet som er stiftet eller på annen måte etablert i Norge og enten er et eget, rettssubjekt eller er opplysningspliktig om inntekt etter [skatteforvaltningsloven kapittel 8](lov/2016-05-27-14/kap8),enhet ledet eller forvaltet fra Norge, ellerfysisk person eller enhet med forretningssted i Norge.
+
+(2) Opplysningsplikten etter [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) gjelder tilbyder av oppbevaringstjenester som er hjemmehørende i Norge etter [skatteloven §§ 2-1](lov/1999-03-26-14/§2-1) eller [2-2](lov/1999-03-26-14/§2-2), eller har skatteplikt etter [skatteloven § 2-3 første ledd bokstav b](lov/1999-03-26-14/§2-3/ledd/1/bokstav/b).
+
+(3) Tilbyder av vekslingstjenester er også opplysningspliktig for tjenester som utføres gjennom filial i Norge.
+
+(4) Tilbyder av vekslingstjenester som er omfattet av første ledd bokstav b til d, er ikke opplysningspliktig i Norge dersom opplysningsplikten er oppfylt i partnerjurisdiksjon der tilbyderen er skattemessig hjemmehørende.
+
+(5) Tilbyder av vekslingstjenester som er omfattet av første ledd bokstav c og d, er ikke opplysningspliktig i Norge dersom opplysningsplikten er oppfylt i partnerjurisdiksjon der tilbyderen er stiftet eller på annen måte etablert og enten er et eget rettssubjekt eller er opplysningspliktig om inntekt.
+
+(6) Tilbyder av vekslingstjenester som er omfattet av første ledd bokstav d som er en enhet, er ikke opplysningspliktig i Norge dersom opplysningsplikten er oppfylt i partnerjurisdiksjon der tilbyderen er ledet eller forvaltet fra.
+
+(7) Tilbyder av vekslingstjenester som er omfattet av første ledd bokstav d som er en fysisk person, er ikke opplysningspliktig i Norge dersom opplysningsplikten er oppfylt i partnerjurisdiksjon der tilbyderen er skattemessig bosatt.
+
+(8) Tilbyder av vekslingstjenester er ikke opplysningspliktig i Norge for transaksjoner som utføres gjennom en filial i en partnerjurisdiksjon, dersom opplysningsplikten er oppfylt i partnerjurisdiksjonen.
+
+(9) Tilbyder av vekslingstjenester med tilnærmet lik tilknytning til andre jurisdiksjoner, er ikke opplysningspliktig i Norge dersom det er sendt inn bekreftelse om at opplysningsplikten er oppfylt i en annen partnerjurisdiksjon. Bekreftelse skal gis på den måten Skattedirektoratet bestemmer.
+
+(1) Med bruker av tjenesten menes person eller enhet som en opplysningspliktig tilbyder utfører vekslingstjenester eller oppbevaringstjenester på vegne av.
+
+(2) Når en person eller enhet, som ikke er en finansiell institusjon eller opplysningspliktig tilbyder, opptrer som bruker av tjenesten på vegne av en annen, anses den det opptres på vegne av som bruker av tjenesten.
+
+(3) Ved overføring av kryptoeiendeler til en næringsdrivende som vederlag for varer eller tjenester for en verdi som overstiger USD 50 000, anses den næringsdrivende for å være bruker. Dersom den opplysningspliktige tilbyderen er forpliktet til å identifisere kjøperen etter [hvitvaskingsloven](lov/2018-06-01-23), skal også kjøperen anses for å være bruker.
+
+(4) Enheter som har inntekter som hovedsakelig kan henføres til investering, reinvestering eller omsetning av finansielle produkter eller kryptoeiendeler og som styres, forvaltes eller på annen måte ledes av en finansiell institusjon, anses som bruker av tjenesten.
+
+Det skal ikke gis opplysninger omaksjeselskap hvis aksjer regelmessig handles på en eller flere etablerte verdipapirmarkedernærstående enhet til enhet nevnt i bokstav aoffentlig myndighet nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav ainternasjonale organisasjoner nevnt i [§ 7-3-7](forskrift/2016-11-23-1360/§7-3-7) første ledd bokstav csentralbankerfinansielle institusjoner med unntak av enhet nevnt i § 7-12-3 fjerde ledd.
+
+Om den enkelte bruker og om eventuelle reelle rettighetshavere skal det gis opplysninger omnavnadressehvor bruker er skattemessig bosatt eller hjemmehørende. Enhet som ikke er eget skattesubjekt og ikke er skattemessig hjemmehørende i noen jurisdiksjon, skal behandles som hjemmehørende i den jurisdiksjonen reell ledelse finner sted eller der enheten har hovedkontorutenlandsk identifikasjonsnummerfødselsnummer, D-nummer eller organisasjonsnummerfødselsdatohvilke roller reelle rettighetshavere har i enheten.
+
+Om opplysningspliktig tilbyder skal det gis opplysninger omnavnadresseidentifikasjonsnummer.
+
+(1) For den enkelte bruker skal det gis følgende opplysninger:fullstendig navn på kryptoeiendelfor erverv og avhending mot offisiell valuta: det samlede beløpet som er henholdsvis betalt og mottatt fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjonerfor erverv og avhending mot andre kryptoeiendeler: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall transaksjonerfor overføring av kryptoeiendeler som vederlag for varer eller tjenester som overstiger USD 50 000: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringerfor andre overføringer til og fra bruker enn de som er omfattet av bokstav b til d: den samlede markedsverdien fratrukket transaksjonskostnader, det samlede antall enheter og antall overføringer. Rapporteringen skal deles inn etter overføringstype der den er kjent av tilbyderenfor overføringer av kryptoeiendeler til lommebokadresse der den opplysningspliktige ikke kjenner til om lommebokadressen er knyttet til en tilbyder av virtuelle eiendeler eller en finansiell institusjon: den samlede markedsverdien fratrukket transaksjonskostnader og det samlede antall enheterfor innestående verdier i kryptoeiendeler: markedsverdi og antall enheter per kryptoeiendelfor innestående verdier i offisiell valuta: saldo per 1. januar i skattefastsettingsåret.
+
+(2) For erverv og avhending etter bokstav b, skal beløpet rapporteres i den offisielle valutaen det ble betalt eller mottatt i. Hvis beløpene ble betalt eller mottatt i flere offisielle valutaer, skal beløpene rapporteres i en bestemt offisiell valuta, omregnet på transaksjonstidspunktet på en måte som den opplysningspliktige tilbyderen anvender konsekvent. Ved omregningen skal kursen på transaksjonstidspunktet benyttes.
+
+(3) For transaksjoner som er omfattet av første ledd bokstav c til f, skal markedsverdien fastsettes i en bestemt offisiell valuta. Markedsverdien fastsettes på transaksjonstidspunktet etter en verdsettelsesmetode som den opplysningspliktige tilbyderen anvender konsekvent.
+
+(4) For innestående verdier i første ledd bokstav g, skal markedsverdien fastsettes per 1. januar i skattefastsettingsåret og rapporteres i en bestemt offisiell valuta.
+
+(5) For hvert beløp som rapporteres i offisiell valuta, skal det oppgis valutakode.
+
+(6) Opplysningspliktig tilbyder av oppbevaringstjenester skal kun gi opplysninger nevnt i første ledd bokstav a, d, e, f, g og h.
+
+(1) Det skal gis opplysninger nevnt i § 7-12-5 til § 7-12-7 per skattleggingsperiode.
+
+(2) Opplysningene skal gis elektronisk til den tid Skattedirektoratet bestemmer.
+
+(1) Ved etablering av kundeforhold, skal opplysningspliktige innhente en egenerklæring for å fastslå hvor brukeren er bosatt eller hjemmehørende. Opplysningspliktige skal vurdere påliteligheten av en slik egenerklæring opp mot annen innhentet dokumentasjon, herunder dokumentasjon samlet inn etter [hvitvaskingsloven](lov/2018-06-01-23). En enhet som ikke er skattemessig hjemmehørende i noen jurisdiksjon, skal behandles som hjemmehørende der enhetens reelle ledelse finner sted eller der enheten har hovedkontor.
+
+(2) For eksisterende brukere må gjennomgang være gjennomført innen 12 måneder etter ikrafttredelse av reglene i [skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12).
+
+(3) For enheter som ikke er unntatt etter § 7-12-4, skal opplysningspliktige identifisere eventuelle reelle rettighetshavere og hvor disse er skattemessig bosatt. Første og annet ledd gjelder tilsvarende.
+
+(4) Tredje ledd gjelder ikke nårmindre enn 50 prosent av virksomhetens bruttoinntekt i det foregående inntektsåret var passiv inntekt og mindre enn 50 prosent av virksomhetens eiendeler i det foregående inntektsåret var passive kapitalplasseringervirksomheten i all vesentlighet består i å yte finansielle tjenester til ett eller flere datterselskaper som ikke driver virksomhet som finansiell institusjon, unntatt når formålet er å erverve eller finansiere selskaper og deretter beholde eierinteressene for investeringsformålvirksomheten er under oppstart og investerer kapital i aktiva de første 24 måneder for å drive annen virksomhet enn som finansiell institusjonvirksomheten er i ferd med å avvikle eller omorganisere sine aktiva når den ikke har drevet virksomhet som finansiell institusjon de siste fem år og ikke skal drive slik virksomhet i fremtidenhoveddelen av virksomheten er knyttet til finansierings- og sikringstransaksjoner som utelukkende gjennomføres med eller for nærstående enheter, forutsatt at de nærstående enhetene hovedsakelig driver annen virksomhet enn virksomhet som finansiell institusjon, ellerenheten er etablert som en ideell organisasjon etter lovgivningen i jurisdiksjonen den er hjemmehørende i, og at vilkårene i [§ 7-3-22](forskrift/2016-11-23-1360/§7-3-22) tredje ledd bokstav a nr. 8 er oppfylt.
+
+(5) Dersom den opplysningspliktige vet eller har grunn til å tro at det foreligger endringer eller nye relevante opplysninger, eller at den opprinnelige egenerklæringen er uriktig eller upålitelig, kan opplysningene ikke lenger legges til grunn. Det skal i slike tilfeller innhentes en ny egenerklæring eller en rimelig forklaring med tilhørende dokumentasjon fra bruker.
+
+(1) Egenerklæringen skal være signert eller bekreftet av brukeren eller den reelle rettighetshaveren, datert og inneholde følgende opplysninger om brukeren eller den reelle rettighetshaveren:navnadressehvor brukeren eller den reelle rettighetshaveren er skattemessig bosatt eller hjemmehørendenorsk fødselsnummer, D-nummer eller organisasjonsnummerutenlandsk identifikasjonsnummerfødselsdatoredegjørelse for at bruker er omfattet av unntakene etter § 7-12-4 eller § 7-12-9 fjerde ledd.
+
+(2) For enheter som ikke er omfattet av unntakene i § 7-12-4 eller § 7-12-9 fjerde ledd, skal det også gis opplysninger etter første ledd om alle reelle rettighetshavere, samt hvilken rolle de har i enheten. Dette gjelder ikke hvis de reelle rettighetshaverne allerede er identifisert etter [hvitvaskingsloven](lov/2018-06-01-23).
+
+(3) Egenerklæringen skal også forplikte bruker til å ta kontakt med den opplysningspliktige og gi opplysninger ved endringer.
+
+Dersom egenerklæring ikke kan innhentes ved opprettelse av nytt kundeforhold, skal opplysningspliktige ikke etablere kundeforholdet. Er kundeforholdet opprettet, men det viser seg at det er gitt feilaktige eller utilstrekkelige opplysninger ved etablering av kundeforholdet, skal kundeforholdet avsluttes eller sperres om det ikke kan innhentes ny gyldig egenerklæring innen 90 dager fra kundeforholdet ble etablert. Blir forholdet oppdaget etter at kundeforholdet er etablert, gjelder fristen fra forholdet ble oppdaget.
+
+Opplysningspliktige som er en finansiell institusjon etter [skatteforvaltningsloven § 7-3 første ledd](lov/2016-05-27-14/§7-3/ledd/1), kan legge til grunn tidligere gjennomført gjennomgang. Opplysningspliktige kan også legge til grunn en egenerklæring innhentet for andre formål, forutsatt at egenerklæringen oppfyller kravene i § 7-12-10.
+
+Opplysningspliktige skal oppbevare dokumentasjon for opplysninger levert etter § 7-12-5 til § 7-12-7, herunder lommebokadresser nevnt i § 7-12-7 første ledd bokstav f. Opplysningspliktige skal også oppbevare egenerklæringer og annen dokumentasjon knyttet til gjennomgangskravene i § 7-12-9 og § 7-12-10. Opplysningene skal oppbevares i minst fem år etter utløpet av rapporteringsåret.
+
+Skattepliktig skal ha kopi av opplysninger som er gitt etter dette kapittel innen 15. februar året etter skattleggingsperioden med mindre annet er bestemt. For opplysninger etter [§ 7-2-1](forskrift/2016-11-23-1360/§7-2-1) til [§ 7-2-11](forskrift/2016-11-23-1360/§7-2-11), gjelder reglene i [§ 7-13-2](forskrift/2016-11-23-1360/§7-13-2).
+
+## II
+
+Endringene under I trer i kraft 1. januar 2026.

@@ -1,0 +1,1044 @@
+---
+id: "nl-20050610-044"
+slug: "forsikringsvirksomhetsloven-forsvl"
+type: "lov"
+ref_id: "lov/2005-06-10-44"
+title: "Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)"
+short_title: "Forsikringsvirksomhetsloven – forsvl"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2006-07-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-08-05"
+xml_hash: "53c48ae4fa0562822c32f702d6e17c10fcf319077565f3cd3526104d1edffb72"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Virkeområde
+
+Loven gjelder forsikringsforetak og pensjonsforetak som driver virksomhet i henhold til finansforetaksloven, med mindre annet følger av bestemmelse gitt i eller i medhold av denne loven.
+
+Reglene i [kapittel 6](lov/2005-06-10-44/kap6) om flytting gjelder også for banker og forvaltningsselskaper for verdipapirfond.
+
+Kongen kan bestemme at loven her skal gjelde for pensjonsfond og kan gi nærmere regler om dette.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 1-2. Geografisk virkeområde
+
+Loven gjelder på kontinentalsokkelen og på Svalbard, i den utstrekning ikke annet følger av Norges folkerettslige forpliktelser. Kongen avgjør i hvilken utstrekning loven skal gjøres gjeldende for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 1-8).
+
+### § 1-3. Unntak fra loven
+
+Kongen kan i særlige tilfelle unnta forsikringsforetak eller pensjonsforetak, samt enkelte former for virksomhet som drives av slike foretak, fra en eller flere bestemmelser i loven og kan sette vilkår for slike unntak.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+## Kapittel 2. Pensjonskasser og innskuddspensjonsforetak
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 2-1. Pensjonskasse. Pensjonsordning
+
+En pensjonskasse er en selveid institusjon som nevnt i [finansforetaksloven § 7-2](lov/2015-04-10-17/§7-2) tredje ledd jf. [§ 2-16](lov/2015-04-10-17/§2-16).
+
+Som pensjonsordning i dette kapitlet regnes kollektiv pensjonsordning som nevnt i [finansforetaksloven § 2-16](lov/2015-04-10-17/§2-16) annet ledd.
+
+> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 1 juli 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 59](lov/2009-06-19-59) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 691](forskrift/2009-06-19-691)), [22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2014 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566) og [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 2-2. Pensjonskasser for flere foretak/arbeidsgivere
+
+Foretak, kommuner og andre arbeidsgivere som har adgang til å opprette felles pensjonsordning etter [foretakspensjonsloven kapittel 12](lov/2000-03-24-16/kap12), [innskuddspensjonsloven kapittel 10](lov/2000-11-24-81/kap10) og [tjenestepensjonsloven § 7-1](lov/2013-12-13-106/§7-1) eller denne [lovens § 4-2](lov/2005-06-10-44/§4-2), kan ha slik felles pensjonsordning i en pensjonskasse (konsernpensjonskasse). Kravet om tilknytning i [foretakspensjonsloven § 12-1](lov/2000-03-24-16/§12-1), [tjenestepensjonsloven § 7-1](lov/2013-12-13-106/§7-1) og [innskuddspensjonsloven § 10-1](lov/2000-11-24-81/§10-1) gjelder tilsvarende for opprettelse av pensjonskasse for felles pensjonsordning som ikke omfattes av disse lovene.
+
+To eller flere kommuner kan avtale å ha sine pensjonsordninger i samme pensjonskasse (interkommunal pensjonskasse). Bestemmelsene i [§ 4-2](lov/2005-06-10-44/§4-2) annet og tredje ledd gjelder tilsvarende.
+
+To eller flere uavhengige foretak kan inngå avtale om å ha sine pensjonsordninger i samme pensjonskasse (fellespensjonskasse). Avtalen skal i samsvar med reglene i [§ 2-9](lov/2005-06-10-44/§2-9) angi:hvilke foretak som omfattes av avtalen,grunnkapitalen i fellespensjonskassen og hvor stor andel hvert foretak skal skyte inn i fellespensjonskassen, og regler om plikt til senere å skyte inn kapital,fellespensjonskassens øverste organ med stemmerettsregler,hvilke former for kollektive pensjonsordninger som fellespensjonskassen skal overta,nærmere bestemmelser om følgene av oppkjøp og sammenslåing av foretak som har pensjonsordning i fellespensjonskassen,oppsigelsesfristen for foretak som vil tre ut av avtalen, og regler om adgangen til å utelukke et foretak fra fellespensjonskassen, samt om oppgjøret i samsvar med [§ 2-9](lov/2005-06-10-44/§2-9) fjerde ledd når et foretak går ut av fellespensjonskassen. Oppsigelse skal uansett kunne skje med tre måneders varsel med virkning fra det førstkommende årsskifte,om det skal benyttes samme premietariff eller ulike premietariffer for de forskjellige pensjonsordningene i fellespensjonskassen.
+
+Kongen kan gi nærmere regler om pensjonsordninger og pensjonskasser som omfattes av paragrafen her, herunder forskrift om kommuners adgang til å ha pensjonsordning i interkommunal pensjonskasse og foretaks adgang til å ha pensjonsordning i fellespensjonskasse.
+
+> Endret ved lover [15 juni 2007 nr. 29](lov/2007-06-15-29) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 649](forskrift/2007-06-15-649)), [17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-2).
+
+### § 2-3. Organisering av virksomheten
+
+En pensjonskasses virksomhet og økonomiske forhold skal holdes rettslig atskilt fra virksomheten til arbeidsgiver, foretak, forening eller annen institusjon som har pensjonsordning i pensjonskassen.
+
+Styret kan inngå avtaler om utførelse av forsikringstekniske beregninger, registrering av medlemmer og rettigheter og andre særskilte arbeidsoppgaver som omfattes av den daglige ledelse av virksomheten. Avtale om kapitalforvaltning kan bare inngås med bank eller livsforsikringsforetak som har adgang til å drive virksomhet her i riket, samt med verdipapirforetak, forvaltningsselskap for verdipapirfond og forvaltere av alternative investeringsfond som har tillatelse til å drive aktiv forvaltning.
+
+Styret skal sørge for at det til enhver tid foreligger skriftlig fastsatte retningslinjer for forsvarlig kapitalforvaltning, og skal drøfte retningslinjene minst hvert år. Det skal utarbeides en redegjørelse for investeringsstrategien som omfatter metoder for måling og styring av investeringsrisiko og allokering av eiendeler sett i forhold til pensjonsforpliktelsenes art og varighet.
+
+> Endret ved lover [20 juni 2014 nr. 28](lov/2014-06-20-28) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 785](forskrift/2014-06-20-785)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-7), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+
+### § 2-4. Forholdet til pensjonsordningene og arbeidsgiver
+
+Regelverket for en pensjonsordning fastsettes ved avtale mellom pensjonskassen og arbeidsgiver. Som arbeidsgiver regnes her også morselskap i konsern, kommune, forening og styrende organ i en foreningspensjonsordning.
+
+Bestemmelsene om kollektive pensjonsordninger i [lov 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler gjelder tilsvarende så langt de passer. Utkast til regelverket skal forelegges pensjonskassens aktuar til uttalelse før avtalen inngås.
+
+Arbeidsgiver, foretak, forening eller annen institusjon med pensjonsordning i pensjonskassen kan skyte inn ny kapital i pensjonskassen for å sikre at soliditeten til enhver tid er forsvarlig, og at minstekravene til grunnkapital og annen kapital er oppfylt. Det samme gjelder arbeidsgivere tilknyttet en foreningspensjonsordning.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-8).
+
+### § 2-5. (Opphevet)
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), opphevet ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+
+### § 2-6. Alminnelige regler for virksomheten
+
+Bestemmelsene om livsforsikring i [kapittel 3](lov/2005-06-10-44/kap3) med tilhørende forskrifter gjelder tilsvarende for pensjonskasser med tillatelse til å overta kollektive pensjonsordninger som regnes som livsforsikring, med mindre annet er fastsatt i eller i medhold av lov.
+
+For pensjonskasser med tillatelse til å overta kollektive pensjonsordninger uten forsikringselement gjelder bestemmelsene i [§§ 3-3](lov/2005-06-10-44/§3-3), [3-11](lov/2005-06-10-44/§3-11) til [3-13](lov/2005-06-10-44/§3-13), [3-19](lov/2005-06-10-44/§3-19), [3-20](lov/2005-06-10-44/§3-20), [3-23](lov/2005-06-10-44/§3-23) og [3-24](lov/2005-06-10-44/§3-24) tilsvarende så langt de passer.
+
+Skal midler i en pensjonskasse forvaltes som egen investeringsportefølje, skal avtalen fastsette hvordan porteføljen skal være sammensatt, regler om adgang til å endre porteføljen og andre vilkår som er påkrevd.
+
+Kongen kan gi nærmere regler om pensjonskassers virksomhet, herunder regler til gjennomføring og avgrensning av bestemmelsene i paragrafen her.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-1), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 2-7. Informasjonskrav
+
+Pensjonsforetaket skal påse at medlemmer og pensjonister i pensjonsordninger som foretaket forvalter, får generell informasjon om pensjonsforetaket, regelverket for pensjonsordningen og endringer i regelverket.
+
+Informasjon som nevnt i første ledd skal være offentlig tilgjengelig.
+
+Medlemmer og pensjonister skal på anmodning få tilsendt pensjonsforetakets årsregnskap med årsberetning og regnskap for egen pensjonsordning hvis pensjonsforetaket forvalter flere pensjonsordninger. Det samme gjelder pensjonsforetakets redegjørelse for kapitalforvaltningsstrategien.
+
+Informasjon fra pensjonsforetaket skal være på norsk og gis skriftlig på en tydelig og forståelig måte. Informasjonen skal oppdateres regelmessig og gjøres tilgjengelig vederlagsfritt.
+
+Pensjonsforetaket kan benytte elektronisk kommunikasjon så lenge mottaker ikke har reservert seg mot slik kommunikasjon. Bruk av elektronisk kommunikasjon må sette mottaker i stand til å lagre informasjonen og gi mulighet til uendret gjengivelse av den lagrede informasjonen for bruk i et tidsrom som er tilstrekkelig for formålet.
+
+Departementet kan i forskrift gi nærmere regler om informasjon som skal gis til medlemmer, potensielle medlemmer og pensjonister.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-11), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+
+### § 2-8. Sammenslåing, deling og opphør
+
+Sammenslåing, deling og opphør av en pensjonskasse kan skje etter reglene i [finansforetaksloven kapittel 12](lov/2015-04-10-17/kap12) avsnitt I eller II. Kongen kan fastsette nærmere regler om sammenslåing, deling og opphør.
+
+Bestemmelsene i [foretakspensjonsloven kapitlene 13](lov/2000-03-24-16/kap13), [14](lov/2000-03-24-16/kap14) og [15](lov/2000-03-24-16/kap15), [tjenestepensjonsloven kapittel 7](lov/2013-12-13-106/kap7) og [innskuddspensjonsloven kapitlene 11](lov/2000-11-24-81/kap11), [12](lov/2000-11-24-81/kap12) og [13](lov/2000-11-24-81/kap13) gjelder tilsvarende så langt de passer, med mindre Kongen i sitt samtykke etter første ledd fastsetter andre vilkår.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-12).
+
+### § 2-9. Særlige regler for fellespensjonskasse
+
+Foretakene kan ved enstemmighet beslutte å gi et bestemt foretak adgang til å slutte seg til avtalen.
+
+Et foretak har rett til å tre ut av fellespensjonskassen i samsvar med bestemmelsene i avtalen, jf. [§ 2-2](lov/2005-06-10-44/§2-2) tredje ledd bokstav f.
+
+Dersom et foretak vesentlig misligholder sine forpliktelser i fellespensjonskassen, kan de øvrige foretakene beslutte å utelukke foretaket fra fellespensjonskassen og fastsette opphørstidspunktet, jf. [§ 2-2](lov/2005-06-10-44/§2-2) tredje ledd bokstav f.
+
+Når et foretak ikke lenger skal ha sin pensjonsordning i fellespensjonskassen, skal den del av fellespensjonskassens midler som knytter seg til dette foretaket på opphørstidspunktet, tilordnes foretaket. Foretaket skal også tilordnes en del av egenkapitalen i fellespensjonskassen på opphørstidspunktet, beregnet etter forholdet mellom premiereserven eller alderspensjonskapitalen for foretakets medlemmer og premiereserven eller alderspensjonskapitalen for alle medlemmer i fellespensjonskassen. For øvrig gjelder [foretakspensjonsloven § 12-7](lov/2000-03-24-16/§12-7), [tjenestepensjonsloven § 7-1](lov/2013-12-13-106/§7-1) og [innskuddspensjonsloven § 10-5](lov/2000-11-24-81/§10-5) fjerde ledd tilsvarende.
+
+Ved sammenslåing av flere foretak som omfattes av en fellespensjonskasse, eller av virksomhet i foretakene, skal avtalens bestemmelser om stemmerett og kapitalforhold tilpasses de endrede forhold. Tilsvarende gjelder ved deling av foretak som omfattes av fellespensjonskassen.
+
+> Tilføyd ved [lov 15 juni 2007 nr. 29](lov/2007-06-15-29) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 649](forskrift/2007-06-15-649)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 7-13).
+
+### § 2-10. Gjenforsikring
+
+En pensjonskasse skal til enhver tid ha gjenforsikring som er betryggende sett i forhold til pensjonskassens risikoeksponering og dens økonomiske stilling.
+
+Styret skal sørge for at det foreligger oppdaterte retningslinjer for arten og omfanget av pensjonskassens gjenforsikringer og for at disse blir fulgt opp.
+
+> Tilføyd ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 2-11. Krav til organisering, virksomhet mv. i innskuddspensjonsforetak
+
+Bestemmelsene i [§§ 2-3](lov/2005-06-10-44/§2-3), [2-4](lov/2005-06-10-44/§2-4) unntatt annet ledd annet punktum, [2-7](lov/2005-06-10-44/§2-7) og [2-8](lov/2005-06-10-44/§2-8) gjelder tilsvarende for innskuddspensjonsforetak så langt de passer.
+
+Bestemmelsene i [finansforetaksloven § 16-9](lov/2015-04-10-17/§16-9) og i denne lovens [§§ 3-3](lov/2005-06-10-44/§3-3), [3-11](lov/2005-06-10-44/§3-11) til [3-13](lov/2005-06-10-44/§3-13), [3-20](lov/2005-06-10-44/§3-20), [3-23](lov/2005-06-10-44/§3-23), [3-24](lov/2005-06-10-44/§3-24) og [kapittel 6](lov/2005-06-10-44/kap6) gjelder tilsvarende så langt de passer.
+
+Kongen kan gi nærmere regler om innskuddspensjonsforetaks organisering og virksomhet, herunder regler til gjennomføring og avgrensning av bestemmelsene i paragrafen her.
+
+> Tilføyd ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), endret ved lover [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+## Kapittel 3. Kollektiv og individuell livsforsikring
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 3-1. Virkeområde og definisjoner
+
+Bestemmelsene i dette kapittel gjelder for foretak som yter kollektiv livsforsikring, individuell livsforsikring eller begge deler, med mindre annet følger av reglene om kommunale pensjonsordninger i [kapittel 4](lov/2005-06-10-44/kap4) eller av reglene om fellesordning for premieberegning for pensjonsordninger med ytelsesbasert foretakspensjon i [kapittel 5](lov/2005-06-10-44/kap5).
+
+Som kollektiv livsforsikring regnes kollektive pensjonsordninger etablert i samsvar med foretakspensjonsloven, tjenestepensjonsloven eller innskuddspensjonsloven, kommunale pensjonsordninger, samt kollektive livrenteforsikringer, gruppelivsforsikringer og andre kollektive livsforsikringer.
+
+Som individuell livsforsikring regnes livsforsikring som ikke er kollektiv livsforsikring.
+
+Kongen kan gi nærmere regler til utfylling og avgrensning av bestemmelsene i kapitlet her, herunder nærmere regler for hva som skal regnes som henholdsvis kollektiv livsforsikring, kommunale pensjonsordninger, individuell livsforsikring, fripoliser, pensjonsbevis, pensjonskapitalbevis, fortsettelsesforsikringer, engangsbetalte forsikringer, kontraktfastsatte forpliktelser og forpliktelser knyttet til verdien av særskilt investeringsportefølje.
+
+> Endret ved lover [30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-1).
+
+### § 3-2. Skille mellom virksomhetsregler
+
+Dersom et foretak som driver kollektiv livsforsikringsvirksomhet, også driver individuell livsforsikringsvirksomhet, gjelder reglene i dette [kapittel med](lov/2005-06-10-44) tilhørende forskrifter for den samlede virksomhet i selskapet, med mindre annet følger av annet ledd.
+
+Kongen kan fastsette nærmere regler som skal gjelde for foretakets virksomhet knyttet til individuelle livsforsikringskontrakter med kontraktfastsatte forpliktelser som er inngått før det tidspunkt bestemmelsene i kapitlet her trer i kraft, og som foretaket har skilt ut som egen portefølje. Foretaket skal i så fall føre eget regnskap for denne porteføljen.
+
+Første og annet ledd gjelder tilsvarende for et foretak som bare driver individuell livsforsikringsvirksomhet.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-2).
+
+### § 3-3. Pristariffer
+
+Foretaket skal til enhver tid ha pristariffer for beregning av premie for samtlige av de produkter eller produktkombinasjoner som foretaket tilbyr. Pristariffene skal angi hvilket samlet vederlag foretaket beregner seg for å overta de ulike typer av risiko som er knyttet til, og for å yte de ulike typer av tjenester som inngår i, de forskjellige produktene og produktkombinasjonene.
+
+Foretaket skal ved fastsettelsen av pristariffer skille mellom:pris for dekning av risiko knyttet til person,pris for forvaltning av midler knyttet til forsikringskontraktene, herunder foretakets risiko for avkastningsresultatet,pris for forvaltning av midler i særskilte investeringsporteføljer med investeringsvalg, og i tilfelle vederlag for avkastningsgaranti knyttet til porteføljene, ogpris for administrative tjenester.
+
+Pristariffene kan fastsette at forsikringstaker, i tillegg til beregnet premie for den enkelte kontrakt, skal betale et kontraktsgebyr ved begynnelsen av forsikringsforholdet, og et avbruddsgebyr dersom forsikringstaker avslutter forsikringsforholdet før forsikringstiden er utløpt. Kongen kan gi nærmere regler om størrelsen på slike gebyrer, og gjøre unntak for regelen i første punktum for kollektive livsforsikringer. Utover dette kan foretaket ikke kreve tillegg til premie beregnet etter gjeldende pristariffer.
+
+For fripoliser, pensjonsbevis og pensjonskapitalbevis som forvaltes med investeringsvalg kan foretaket hvert år kreve vederlag for administrative tjenester etter egen pristariff. For fortsettelsesforsikringer basert på fripoliser, pensjonsbevis eller pensjonskapitalbevis skal pristariffer for personrisiko og for forvaltning svare til de pristariffer som ligger til grunn for den aktuelle fripolisen, pensjonsbeviset eller pensjonskapitalbeviset. Kongen kan gi nærmere regler om pristariffer for fortsettelsesforsikringer, herunder unntak fra regelen i annet punktum.
+
+Ved utformingen av pristariffene skal foretaket sørge for at:foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte kontrakter blir oppfylt, og vil være betryggende ut fra foretakets økonomi, ogdet ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+
+Kongen kan gi nærmere regler om pristariffer. Kongen kan også gi nærmere regler om rentesatser og andre beregningselementer som foretaket kan benytte ved utformingen av pristariffene.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-3).
+
+### § 3-4. Kjønn som faktor ved beregning av risiko
+
+Foretaket kan anvende kjønn som faktor ved beregning av pris for dekning av risiko knyttet til person og ved beregning av premier og ytelser dersom kjønn er en bestemmende faktor ved beregningen av risiko, og dette er basert på relevante og nøyaktige aktuarmessige og statistiske data. Ved avtaler om private og frivillige forsikringer utenfor arbeidsforhold skal anvendelse av kjønn som faktor ved beregningen ikke føre til forskjeller i forsikringstakeres premier og ytelser.
+
+> Tilføyd ved [lov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 4 juni 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), endret ved lover [20 juni 2014 nr. 29](lov/2014-06-20-29) (ikr. 1 jan 2015, se endringslovens XIX), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-3a).
+
+### § 3-5. Endring av pristariffer
+
+Foretaket kan endre sine pristariffer, og skal i så fall fastsette fra hvilket tidspunkt de nye tariffene skal gjelde.
+
+I forhold til inngåtte kontrakter kan foretaket ikke gjøre endringen gjeldende før første ordinære premieforfall minst fire måneder etter at forsikringstakeren har mottatt underretning om den fastsatte endringen.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-4).
+
+### § 3-6. Beregning av premier mv.
+
+Ved beregning av premier skal foretaket benytte de til enhver tid gjeldende pristariffer, med mindre annet følger av [§ 3-5](lov/2005-06-10-44/§3-5) annet ledd. Krav om betaling av premie skal angi hvilke poster som inngår i beregningen, og forhold av betydning for premieberegningen.
+
+Premien skal beregnes for ett år av gangen, og betales forskuddsvis hvert år med mindre det er avtalt terminvis innbetaling i løpet av året.
+
+Kongen kan fastsette særlige regler for beregning og betaling av premie for engangsbetalte forsikringer.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-5).
+
+### § 3-7. Meldeplikt og tilsyn med pristariffer
+
+Foretaket skal gi melding til Finanstilsynet om fastsatte pristariffer og prinsippene for utformingen av tariffene. Det samme gjelder ved endring av pristariffer. Kongen kan gi nærmere regler om meldeplikten.
+
+Finanstilsynet skal føre kontroll for å påse at de pristariffer som benyttes er i samsvar med reglene gitt i eller i medhold av [§§ 3-3](lov/2005-06-10-44/§3-3) til [3-5](lov/2005-06-10-44/§3-5), og at premieberegningen skjer i samsvar med reglene i [§ 3-6](lov/2005-06-10-44/§3-6).
+
+Finanstilsynet kan forby bruk av pristariffer som Finanstilsynet finner er ubetryggende eller urimelige.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-6).
+
+### § 3-8. Forsikringskapitalen
+
+I livs- og pensjonsforsikring skal foretaket føre eget kunderegnskap for hver kontrakt med oversikt over forsikringskapitalen. Forsikringskapitalen knyttet til en kontrakt skal bestå av premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond, reguleringsfond og bufferavsetning for pensjonsordninger med flerårig avkastningsgaranti.
+
+> Tilføyd ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 3-9. Premiereserve knyttet til kontraktfastsatte forpliktelser
+
+Premiereserven for kontraktfastsatte forpliktelser skal beregnes med utgangspunkt i kontraktens forsikringstekniske premieberegningsgrunnlag. Premiereserven skal utgjøre forskjellen mellom nåverdien av foretakets fremtidige forpliktelser og nåverdien av foretakets fremtidige nettopremier. Tilleggsytelser som følge av tilført overskudd medregnes. Nettopremier er premie beregnet som angitt i [§ 3-6](lov/2005-06-10-44/§3-6), med fradrag for pris for administrative tjenester og pris for forvaltning.
+
+Endres premieberegningsrenten eller de biometriske forutsetningene som ligger til grunn for premieberegningen, beregnes premiereserven for forpliktelser som oppstår etter endringen på grunnlag av den nye beregningsrenten eller det nye biometriske beregningsgrunnlaget.
+
+Premiereserven skal hvert år tilføres et beløp som tilsvarer sparedelen av årets premie, årlig avkastning i samsvar med premieberegningsrenten, og det beløpet som etter beregningsgrunnlaget årlig skal tilføres premiereserven som følge av at foretakets forpliktelse overfor forsikrede som er død i løpet av året, er bortfalt. Premiereserven skal også tilføres overskudd etter reglene i [§ 3-18](lov/2005-06-10-44/§3-18). Til fradrag kommer frigjøringer av premiereserven blant annet som følge av utbetalinger.
+
+Dersom det i løpet av året inntrer forsikringstilfeller som gir rett til utbetaling av uføreytelser eller ytelser til etterlatte, skal premiereserven tilføres et beløp som fullt ut tilsvarer nåverdien av foretakets fremtidige forpliktelser.
+
+Premiereserven skal tilordnes de enkelte kontrakter og de forsikrede på grunnlag av foretakets forpliktelser.
+
+Kongen kan fastsette nærmere regler om beregning av premiereserven, herunder om rentesats til bruk ved beregningen.
+
+> Tilføyd ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 3-10. Premiereserve for forpliktelser knyttet til særskilt investeringsportefølje
+
+Pensjonskapitalen der forpliktelsene er knyttet til verdien av særskilt investeringsportefølje, skal til enhver tid motsvare verdien av den investeringsportefølje som er tilordnet kontrakten. Andelen av overskudd på risikoresultatet medregnes.
+
+Dersom en pensjonsordning eller kontrakt uten kontraktfastsatte alderspensjonsytelser gir rett til kontraktfastsatte uføre- eller etterlatteytelser, skal det beregnes premiereserve for slike forpliktelser etter reglene i [§§ 3-9](lov/2005-06-10-44/§3-9) og [3-19](lov/2005-06-10-44/§3-19).
+
+> Tilføyd ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 3-11. Inndeling av forvaltningskapitalen
+
+Foretakets forvaltningskapital skal deles inn i kollektivporteføljen, investeringsvalgporteføljen og selskapsporteføljen. Hver av porteføljene kan deles inn i flere underporteføljer.
+
+Eiendeler som motsvarer forsikringskapital knyttet til foretakets kontrakter med kontraktfastsatte forpliktelser skal inngå i kollektivporteføljen. Som kontraktfastsatte forpliktelser regnes forpliktelser som ikke er knyttet til verdien av særskilt investeringsportefølje.
+
+Eiendeler som motsvarer forsikringskapital knyttet til verdien av særskilte investeringsvalgporteføljer skal inngå i investeringsvalgporteføljen.
+
+Eiendeler som motsvarer forsikringskapital knyttet til kontraktfastsatte uføre- og etterlatteforpliktelser, skal inngå i kollektivporteføljen selv om midler knyttet til alderspensjonsytelser er plassert i særskilt investeringsportefølje. Dette gjelder likevel ikke når forsikringskapital knyttet til kontraktfastsatte uføre- og etterlatteforpliktelser forvaltes i investeringsvalgporteføljen etter reglene i [foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1).
+
+Eiendeler som ikke inngår i kollektivporteføljen eller investeringsvalgporteføljen, skal inngå i selskapsporteføljen.
+
+Premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond anses her som del av den portefølje de øvrige midler knyttet til kontrakten inngår i, med mindre det følger av kontrakten at midlene i fondet skal plasseres på annen måte.
+
+Ved valg av eiendeler til de forskjellige porteføljer, og ved endring av sammensetningen av porteføljer, skal foretaket overholde krav til god forretningsskikk og sørge for at det ikke skjer urimelig forskjellsbehandling av kunder. Foretaket skal ha retningslinjer for valg av eiendeler og endring av porteføljer for å unngå at det oppstår interessekonflikter mellom kunder og kundegrupper eller mellom kunder og foretaket. I tilfelle av interessekonflikt mellom kunder og foretaket, skal hensynet til kundene gå foran.
+
+Foretaket skal opprette et system for registrering av hvilke eiendeler som til enhver tid inngår i de ulike porteføljer.
+
+Reglene i paragrafen her er ikke til hinder for at foretaket etablerer en ordning for samlet kapitalforvaltning.
+
+Finanstilsynet kan, i samsvar med bestemmelsene i denne paragrafen, treffe avgjørelse om hvilken portefølje en kontrakt, og midler som motsvarer en avsetning, skal inngå i.
+
+Kongen kan gi forskrift til utfylling av reglene i paragrafen her.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-7).
+
+### § 3-12. Forvaltning av porteføljene
+
+Midlene i kollektivporteføljen kan forvaltes i atskilte deler fastsatt ut fra foretakets risiko for avkastningsresultatet.
+
+Midlene i investeringsvalgporteføljen skal plasseres i særskilte investeringsporteføljer for hver kontrakt i investeringsvalgporteføljen i samsvar med de krav som følger av kontrakten mellom foretaket og forsikringstakeren og i samsvar med regler gitt i eller i medhold av lov.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-8).
+
+### § 3-13. Tilordning av avkastning. Overskudd
+
+Avkastning ved forvaltning av midler plassert i kollektivporteføljen skal årlig fordeles mellom de kontrakter som omfattes. Fordelingen foretas etter forholdet mellom den forsikringskapital som er knyttet til hver av kontraktene.
+
+Avkastning tilordnet en kontrakt skal etter fradrag for tilordning i samsvar med beregningsgrunnlaget for kontrakten og i tilfelle avsetning til bufferfond etter [§ 3-19](lov/2005-06-10-44/§3-19), tilordnes kontrakten som overskudd på avkastningsresultatet. Tilsvarende gjelder tilordning av avkastning av midler som svarer til premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond. Avkastning av midler i risikoutjevningsfondet tilordnes dette fondet.
+
+Avkastning ved forvaltning av midler plassert i særskilt investeringsportefølje skal årlig tilordnes den kontrakt porteføljen er knyttet til. Er det knyttet avkastningsgaranti til en investeringsportefølje, skal garantert avkastning som ikke dekkes av oppnådd avkastning, dekkes av forsikringsforetaket. Tilsvarende gjelder tilordning av avkastning av midler i premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond eller reguleringsfond forvaltet i særskilt investeringsportefølje.
+
+Avkastning av midler som omfattes av selskapsporteføljen skal årlig tilordnes foretaket.
+
+Eiendelene skal verdsettes i samsvar med de regler som er gitt i årsregnskapsforskriften for forsikringsforetak.
+
+Kongen kan i forskrift gi nærmere regler om verdivurdering av eiendeler.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-9), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 3-14. Overskudd på risikoresultat
+
+Foretaket skal hvert år beregne risikoresultatet særskilt for hver gruppe av pensjonsordninger, andre kollektivordninger eller kontrakter, og individuelle kontrakter inkludert fripoliser, pensjonsbevis og pensjonskapitalbevis.
+
+Som overskudd regnes de på forhånd beregnede risikopremier etter gjeldende premieberegningsgrunnlag for en gruppe med fradrag for de faktiske risikokostnader for gruppen. Det skal ved beregningen ses bort fra den fortjeneste for foretaket som er bygget inn i pristariffene for risiko knyttet til person.
+
+Overskudd på risikoresultatet skal årlig fordeles mellom de enkelte kontrakter i hver gruppe etter forholdet mellom de risikopremier som er betalt for den enkelte kontrakt. Foretaket kan likevel bestemme at inntil halvparten av årets samlede overskudd på risikoresultatet skal avsettes til risikoutjevningsfondet.
+
+Kongen kan gi nærmere regler om at visse typer kontrakter kan unntas fra bestemmelsene i første til tredje ledd.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-10).
+
+### § 3-15. Styrking av premiereserve
+
+Foretaket kan, med samtykke fra Finanstilsynet, benytte hele eller en del av årets overskudd etter [§ 3-13](lov/2005-06-10-44/§3-13) første ledd og [§ 3-14](lov/2005-06-10-44/§3-14) til å øke premiereserven for forsikringsforpliktelser knyttet til de kontrakter overskuddet ellers skulle vært tilordnet.
+
+Finanstilsynet kan gi et foretak samtykke til, i et fastsatt antall år, å disponere årlige overskudd i samsvar med første ledd i henhold til en plan som må være meddelt Finanstilsynet. Finanstilsynet kan sette som vilkår for samtykket at selskapet overfører et beløp fra selskapskapitalen til premiereserven.
+
+Når hensynet til soliditeten eller flytteretten tilsier det, kan Finanstilsynet gi foretaket pålegg om å benytte hele eller en del av overskuddet som angitt i første og annet ledd.
+
+Overskudd som blir anvendt etter reglene i første til tredje ledd, skal tilføres premiereserven for de enkelte kontrakter.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-11).
+
+### § 3-16. Overskudd tilordnet fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktfastsatte forpliktelser
+
+Bestemmelsene i paragrafen her gjelder anvendelsen av overskudd etter [§ 3-13](lov/2005-06-10-44/§3-13) første og annet ledd tilordnet fripoliser, pensjonsbevis og pensjonskapitalbevis med kontraktfastsatte forpliktelser. Kongen kan i forskrift fastsette at bestemmelsene i paragrafen her også skal gjelde for andre typer kontrakter.
+
+Er foretakts risikoresultat negativt for en gruppe av kontrakter, kan kontraktens andel av risikoresultatet dekkes ved fradrag i overskudd på avkastningsresultatet tilordnet kontrakten.
+
+Foretaket har rett til inntil 20 prosent av det overskudd på avkastningsresultatet som er tilordnet kontrakten, i tilfelle etter fradrag for andel av negativt risikoresultat i samsvar med annet ledd. Foretaket skal fastsette i vedtektene hvor høy prosentsats det skal benytte. Det er, innenfor begrensningen i første punktum, adgang til å fastsette forskjellige fordelingsnøkler ut fra foretakets risiko for avkastningsresultatet. Kongen kan gi nærmere regler for slik overskuddsdeling.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-12).
+
+### § 3-17. Negativt risikoresultat for fripoliser, pensjonsbevis og pensjonskapitalbevis med investeringsvalg
+
+Bestemmelsene i paragrafen her gjelder fripoliser, pensjonsbevis og pensjonskapitalbevis tilordnet egen investeringsportefølje med investeringsvalg. Kongen kan i forskrift fastsette at bestemmelsene i paragrafen her også skal gjelde for andre typer kontrakter.
+
+Er foretakets risikoresultat negativt for en gruppe av kontrakter, kan kontraktens andel av risikoresultatet dekkes ved fradrag i avkastning tilordnet kontrakten etter [§ 3-13](lov/2005-06-10-44/§3-13) tredje ledd eller i verdien av investeringsporteføljen tilordnet kontrakten.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-13).
+
+### § 3-18. Anvendelse av overskudd tilordnet kontrakten
+
+Når annet ikke følger av [§§ 3-15](lov/2005-06-10-44/§3-15), [3-16](lov/2005-06-10-44/§3-16) eller [3-17](lov/2005-06-10-44/§3-17), gjelder følgende:Overskudd etter [§ 3-13](lov/2005-06-10-44/§3-13) første til tredje ledd og [§ 3-14](lov/2005-06-10-44/§3-14) tilordnet kontrakter som er regulert av foretakspensjonsloven, tjenestepensjonsloven eller innskuddspensjonsloven skal fordeles etter reglene om fordeling av avkastning i disse lovene.Overskudd tilordnet andre kontrakter skal anvendes i samsvar med det som er bestemt i kontrakten mellom foretaket og forsikringstakeren.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-14).
+
+### § 3-19. Bufferfond
+
+For å sikre sine forpliktelser under kontrakter med kontraktfastsatte forpliktelser, kan foretaket avsette hele eller deler av overskuddet på avkastningsresultatet for den enkelte kontrakt til bufferfond ut over minstekravet til premiereserve. Tilsvarende gjelder for kontrakter i særskilt investeringsportefølje som skal sikre alders-, uføre- og etterlatteytelser etter reglene i [foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1). Finanstilsynet kan, når det finner at soliditetshensyn tilsier det, pålegge foretaket å avsette overskuddet på den enkelte kontrakt til bufferfond.
+
+Foretakets bufferfond skal være fordelt på de enkelte kontraktene. Foretaket fastsetter årets avsetning til bufferfond, jf. [§ 3-13](lov/2005-06-10-44/§3-13) første ledd, i prosent av premiereserven knyttet til den enkelte kontrakt ut fra foretakets risiko for avkastningsresultatet. Kongen kan i forskrift gi nærmere regler om avsetninger til bufferfond, herunder om adgang til å bruke en annen prosentsats for grupper av kontrakter.
+
+Dersom avkastningen tilordnet en kontrakt etter [§ 3-13](lov/2005-06-10-44/§3-13) første ledd i et år er negativ eller ikke er stor nok til å dekke det årlige kravet til økning i premiereserven etter premieberegningsgrunnlaget, kan kravet oppfylles ved bruk av bufferfond tilordnet kontrakten.
+
+Midler som er avsatt til bufferfond, kan i et senere år tilordnes kontrakten som overskudd.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-17), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 3-20. Premie- og innskuddsfond mv.
+
+Foretakets forpliktelser knyttet til premiefond, innskuddsfond, bufferavsetning, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond skal tilsvare fondets verdi til enhver tid.
+
+[§ 3-19](lov/2005-06-10-44/§3-19) gjelder tilsvarende for slike fond i den grad de skal tilføres avkastning i samsvar med regelen i [§ 3-13](lov/2005-06-10-44/§3-13) annet ledd.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-19), [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)).
+
+### § 3-21. Risikoutjevningsfond
+
+Risikoutjevningsfondet kan bare benyttes til å dekke det årlige kravet til økning i premiereserven for de enkelte kontrakter når behovet for økningen skyldes risiko knyttet til person.
+
+Risikoutjevningsfondet skal ikke fordeles på de enkelte kontrakter.
+
+Kongen kan gi nærmere regler om risikoutjevningsfondet.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-22), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935), tidligere § 3-22).
+
+### § 3-22. Kontoføring. Kontoutskrift
+
+I livs- og pensjonsforsikring skal foretaket opprette og føre en konto for hver forsikring, som skal inneholde kunderegnskapet med oversikt over forsikringskapitalen, endringer i kapitalen sist år og status for forsikringen pr. 31. desember det enkelte året. Selskapet skal hvert år sende forsikringstakeren utskrift av kontoen.
+
+Departementet gir nærmere regler om dette.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-23), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935), tidligere § 3-23).
+
+### § 3-23. Pensjonsoversikt til medlemmer i kollektive pensjonsordninger
+
+Foretak som tilbyr kollektive pensjonsordninger, skal hvert år utarbeide et kortfattet dokument med nøkkelinformasjon for hvert medlem. Tittelen på dokumentet må inneholde ordet «pensjonsoversikt».
+
+Pensjonsoversikten skal dateres og inneholde informasjon om foretaket, pensjonsordningen, det enkelte medlems rettigheter, relevant kontoinformasjon og forventet fremtidig pensjon. Eventuelle endringer i informasjonen sammenlignet med foregående år skal tydelig angis.
+
+Departementet kan i forskrift gi regler om hvilken informasjon som skal gis, og om hvordan informasjonen skal gis.
+
+> Tilføyd ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), endret ved lov [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935), tidligere § 3-24).
+
+### § 3-24. Livsforsikringsytelser i krig
+
+Hvis Norge kommer i krig, kan Kongen bestemme at ytelser etter livsforsikringsavtaler bare skal utbetales delvis. Kongen kan også gjøre andre nødvendige endringer i livsforsikringsavtalene for å dekke underskudd i et livsforsikringsforetak som følge av krig.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-26), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107), tidligere § 3-24), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935), tidligere § 3-25).
+
+## Kapittel 4. Kommunale pensjonsordninger
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 4-1. Virkeområde
+
+Bestemmelsene i dette kapittel gjelder:pensjonsordninger med ytelsesbasert pensjon opprettet i livsforsikringsforetak eller i pensjonskasse av kommunal arbeidsgiver som er bundet av hovedtariffavtale inngått mellom arbeidsgiver- og arbeidstakerorganisasjonene i kommunal sektor, eller av tariffavtale med tilsvarende krav til pensjonsordning for kommunal arbeidsgiver,tilsvarende pensjonsordninger for statlige helseforetak og andre statlige foretak,tilsvarende pensjonsordninger for foretak hvor en kommune har den bestemmende innflytelse eller har eller har hatt en kommunal eierandel, eller som har nær tilknytning til en kommune.
+
+Som kommunal pensjonsordning regnes her pensjonsordning som omfattes av første ledd.
+
+Departementet kan fastsette nærmere regler til utfylling og avgrensning av bestemmelsene i kapitlet her.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-1).
+
+### § 4-2. Kommunale konsernlignende forhold
+
+En kommune og ett eller flere foretak hvor kommunen har bestemmende innflytelse, eller flere slike foretak, kan opprette felles pensjonsordning. Foretak som kommunen har eller har hatt en eierandel i, eller som har nær tilknytning til kommunen, kan inngå i en slik felles pensjonsordning.
+
+Pensjonsordningen kan i samsvar med bestemmelsene i [§ 4-6](lov/2005-06-10-44/§4-6) anses som fellesordning for premieberegning. For øvrig gjelder [foretakspensjonsloven §§ 12-3](lov/2000-03-24-16/§12-3) og [12-4](lov/2000-03-24-16/§12-4) tilsvarende så langt det passer.
+
+Ved opphør av tilknytningen til konsernforholdet gjelder [foretakspensjonsloven §§ 12-5](lov/2000-03-24-16/§12-5) til [12-7](lov/2000-03-24-16/§12-7) tilsvarende.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-2).
+
+### § 4-3. Kommunal bransje
+
+Et livsforsikringsforetak som driver virksomhet knyttet til både kommunale og andre kollektive pensjonsordninger, skal behandle de kommunale pensjonsordningene som egen bransje. Det skal føres eget regnskap for bransjen.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-3).
+
+### § 4-4. Årets premier
+
+Årlig premie for en pensjonsordning skal tilsvare summen av ordinær årspremie, reguleringspremie og særskilte engangspremier for ytelser som ikke kan premiesettes på forhånd.
+
+Premier beregnes etter reglene i [§ 4-5](lov/2005-06-10-44/§4-5), jf. [§§ 4-7](lov/2005-06-10-44/§4-7) og [4-8](lov/2005-06-10-44/§4-8), for så vidt annet ikke følger av reglene i [§ 4-6](lov/2005-06-10-44/§4-6) om fellesordning for premieberegning.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-4).
+
+### § 4-5. Premieberegning
+
+Pensjonsordningen skal årlig tilføres en premie som etter beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre den rett til pensjon som medlemmene vil opptjene i løpet av året, med tillegg av årets risikopremier og kostnader for tjenester (ordinær årspremie). Premie for hvert år beregnes ved årets begynnelse og senere i året i takt med lønnsutviklingen.
+
+Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppreguleringen i løpet av året av opptjente pensjonsrettigheter og løpende pensjoner (reguleringspremie). Reguleringspremie beregnes på tidspunktet for oppreguleringen ut fra lønnsutviklingen i løpet av året og reguleringen av pensjoner under utbetaling og opptjent rett til pensjon til medlemmer som har fratrådt sin stilling uten rett til utbetaling av pensjon, i samsvar med endringen av folketrygdens grunnbeløp.
+
+Pensjonsordningen skal også hvert år tilføres premie til dekning av andre pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunktet pensjonsrettighetene oppstår.
+
+Ved beregninger av premie etter reglene i paragrafen her skal det gjøres fradrag i pensjonsytelsene for de ytelser som, ut fra de til enhver tid gjeldende regler for folketrygden, kan antas å bli utbetalt fra folketrygden (beregnet folketrygd). Departementet kan gi nærmere regler om fastsettelse av beregnet folketrygd.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-5).
+
+### § 4-6. Fellesordning for premieberegning
+
+Bestemmelsene i [§ 4-5](lov/2005-06-10-44/§4-5) er ikke til hinder for at det opprettes fellesordninger som består av flere pensjonsordninger, for at premie for de enkelte pensjonsordninger som inngår i en fellesordning, skal bli fastsatt ved beregning basert på prinsipper som vil motvirke at pensjonskostnadene for de enkelte medlemmene for tilsvarende pensjonsrettigheter vil variere med medlemmenes kjønn og alder.
+
+En fellesordning opprettet i henhold til første ledd, skal hvert år tilføres premier tilsvarende summen av ordinær årspremie fastsatt etter forsikringstekniske beregninger for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet ordinær årspremie til fellesordningen beregnes ut fra forholdet mellom samlet pensjonsgrunnlag for medlemmene i hver av pensjonsordningene, med mindre det er fastsatt i forsikringsvilkårene for pensjonsordningene i fellesordningen at beregningen i stedet skal foretas ut fra brutto alderspensjonsytelse fratrukket beregnet ytelse fra folketrygden for samtlige medlemmer i hver av pensjonsordningene. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.
+
+Opptas en arbeidstaker som medlem av en pensjonsordning i løpet av et forsikringsår, belastes pensjonsordningen med en tilleggspremie for den delen av året som da gjenstår. Tillegget skal beregnes ut fra pensjonsordningens andel av samlet ordinær årspremie til fellesordningen og den prosentvise økningen av pensjonsordningens samlede grunnlag for beregning av premie etter annet ledd annet punktum som det nye medlemmet representerer. Avvik fra forsikringsteknisk beregnet premie inngår ved beregningen av ordinær årspremie til fellesordningen i det etterfølgende året.
+
+Dersom det i løpet av et forsikringsår opptas en ny pensjonsordning i en fellesordning, skal den ordinære årspremie for pensjonsordningen for resten av året beregnes ut fra den samlede ordinære årspremie til fellesordningen som er beregnet for dette året, og den prosentvise økningen av det samlede grunnlaget for beregning av premie etter annet ledd annet punktum som pensjonsordningen medfører.
+
+Det skal fastsettes i forsikringsavtalen om reguleringspremie som nevnt i [§ 4-5](lov/2005-06-10-44/§4-5) annet ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning. Ved særskilt beregning skal reguleringspremien beregnes for hver pensjonsordning i fellesordningen ut fra den prosentvise økningen av premiereserven for pensjonsordningen som er påkrevd som følge av oppregulering av medlemmenes opptjente pensjonsrettigheter ut fra lønnsutviklingen. Reguleringspremien for oppregulering av pensjoner under utbetaling og av opptjent rett til arbeidstakere som har fratrådt sin stilling uten rett til utbetaling av pensjon, skal beregnes i forhold til den del av premiereserven som sikrer slike pensjonsrettigheter. Ved gjennomsnittsberegning skal fellesordningen hvert år tilføres reguleringspremier tilsvarende summen av årlige reguleringspremier etter [§ 4-5](lov/2005-06-10-44/§4-5) annet ledd for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet reguleringspremie til fellesordningen beregnes ut fra forholdet mellom samlet premiereserve for hver av pensjonsordningene på tidspunktet for oppregulering av pensjonsrettighetene. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.
+
+Det skal fastsettes i forsikringsavtalen om premier som nevnt i [§ 4-5](lov/2005-06-10-44/§4-5) tredje ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning som nevnt i annet ledd.
+
+Departementet kan fastsette nærmere regler om fellesordninger for premieberegning.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-6).
+
+### § 4-7. Premieberegning ut fra lineær opptjening mv.
+
+Ved beregning av pensjonsordningenes premier skal det legges til grunn at medlemmenes rett til pensjon opptjenes lineært fra tidspunktet for medlemskap i pensjonsordningen og frem til en pensjonsalder på 67 år eller annen særaldersgrense. Skal tidligere tjenestetid fra statlig eller annen kommunal pensjonsordning medregnes, regnes tidspunktet for medlemskap fra et tilsvarende tidligere tidspunkt.
+
+[Foretakspensjonsloven § 9-3](lov/2000-03-24-16/§9-3) gjelder tilsvarende.
+
+Dersom et medlem gjør bruk av rett til å fratre med rett til utbetaling av pensjon før nådd pensjonsalder, skal det kreves tilleggspremie som nevnt i [§ 4-5](lov/2005-06-10-44/§4-5) tredje ledd.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-7).
+
+### § 4-8. Endring i forutsetningene for det forsikringstekniske beregningsgrunnlaget
+
+Viser det seg at fradraget i pensjonsytelsene for ytelser utbetalt av folketrygden blir mindre enn lagt til grunn ved premieberegningen, skal det beregnes tilleggspremie etter [§ 4-5](lov/2005-06-10-44/§4-5) tredje ledd til dekning av differansen. Det gjelder også dersom årsaken er endring i regelverket for folketrygden som medfører at ytelsene fra folketrygden reduseres eller vil bli redusert. Blir fradraget for ytelser fra folketrygden større enn lagt til grunn ved premieberegningen, skal overskytende premiereserve tilføres premiefondet.
+
+Viser det seg ellers at vesentlige forutsetninger for beregningsgrunnlag som er benyttet ved beregning av premier i tidligere år svikter, skal det fastsettes nytt beregningsgrunnlag og i tilfelle endrede vilkår for pensjonsordningen. Forbehold om rett til endring av premie i slike tilfeller skal fremgå av vilkårene for pensjonsordningen.
+
+[Foretakspensjonsloven § 9-5](lov/2000-03-24-16/§9-5) første og annet ledd gjelder tilsvarende.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-8).
+
+### § 4-9. Innbetaling av premie
+
+Blir premie for et forsikringsår ikke innbetalt ved årets utgang eller ved utløpet av annen frist fastsatt i nytt premievarsel etter [forsikringsavtaleloven § 14-2](lov/1989-06-16-69/§14-2), bortfaller den økning av forsikringsforpliktelsene som den ikke innbetalte premien skulle dekke. Medlemmene i pensjonsordningen eller pensjonsordningene skal i tilfelle varsles om dette. Det kan likevel ikke som følge av slikt bortfall kreves tilbakebetaling av for meget utbetalt pensjon.
+
+Departementet kan fastsette nærmere regler om innbetaling av premie.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-9).
+
+### § 4-10. Minstekrav til premiereserve
+
+Premiereserven for pensjonsordningen skal til enhver tid være så stor at den etter det forsikringstekniske beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre rett til opptjent pensjon for medlemmene, herunder rett til uførepensjon og etterlattepensjon.
+
+Premiereserven for en pensjonsordning skal minst tilsvare summen av de premiereserver som trengs etter beregningsgrunnlaget for å sikre retten til opptjent pensjon for hvert enkelt medlem i pensjonsordningen, herunder premiereserve opptjent av arbeidstakere som har fratrådt sin stilling. Dette gjelder likevel ikke premiereserve for fratrådt arbeidstaker som får medregnet tjenestetiden i annen ordning dersom tilhørende premiereserve er overført. For et medlem som har fått medregnet tjenestetid fra en annen pensjonsordning, jf. [§ 4-7](lov/2005-06-10-44/§4-7) første ledd, uten overføring av tilhørende premiereserve, skal det gjøres fradrag tilsvarende den premiereserve som vil være tilstrekkelig for å sikre rett til pensjon opptjent ved slik medregnet tjenestetid.
+
+Ved beregningen av premiereserve skal det gjøres fradrag i pensjonsytelsene for de ytelser som, ut fra de til enhver tid gjeldende regler for folketrygden, kan antas å bli utbetalt av folketrygden, jf. [§ 4-5](lov/2005-06-10-44/§4-5) fjerde ledd.
+
+Ved beregningen av premiereserve skal det også gjøres fradrag for forsikringsforpliktelser som er bortfalt etter [§ 4-9](lov/2005-06-10-44/§4-9).
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-10).
+
+### § 4-10 a. (Opphevet)
+
+> Tilføyd ved lov [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), opphevet ved lov [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 4-11. Pensjonsordningens forsikringskapital
+
+Pensjonsordningens forsikringskapital består av premiereserven, bufferfond, premiefond, og eventuelt bufferavsetning for pensjonsordninger med flerårig avkastningsgaranti.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-11), [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
+
+### § 4-12. Rådighet over pensjonsordningens midler
+
+Pensjonsordningens midler skal holdes atskilt fra forsikringstakerens midler. Midlene hefter ikke for forsikringstakerens forpliktelser og kan ikke ved pantsettelse eller på annen måte benyttes til å sikre eller å dekke dennes kreditorer.
+
+Midlene kan ikke benyttes til å utbetale pensjoner eller andre ytelser til arbeidstakere som ikke er opptatt som medlem.
+
+For premiefond knyttet til pensjonsordningen gjelder [foretakspensjonsloven §§ 10-2](lov/2000-03-24-16/§10-2) til [10-4](lov/2000-03-24-16/§10-4) tilsvarende så langt de passer.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-12).
+
+### § 4-13. Kapitalforvaltningen
+
+Pensjonsordningens midler skal forvaltes i samsvar med de regler for kapitalforvaltningen i livsforsikringsforetak og pensjonskasser som gjelder til enhver tid, men mindre annet følger av [§ 4-15](lov/2005-06-10-44/§4-15).
+
+Avkastning av midler knyttet til premiefond skal årlig tilføres premiefondet.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-13).
+
+### § 4-14. Overskudd
+
+Overskudd tilført pensjonsordningen skal godskrives forsikringstakeren og overføres til pensjonsordningens premiefond.
+
+Overskudd på premiereserve knyttet til pensjon under utbetaling eller knyttet til oppsatt pensjonsrettighet til fratrådt arbeidstaker skal likevel tilføres premiereserven dersom pensjonsytelsen eller pensjonsrettigheten ikke blir regulert i samsvar med årlig endring av grunnbeløpet i folketrygden.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-14).
+
+### § 4-15. Egen investeringsportefølje
+
+Forsikringstakeren kan i samsvar med bestemmelser i regelverket for pensjonsordningen avtale at forsikringskapitalen skal forvaltes som en investeringsportefølje tilordnet pensjonsordningen. Avtalen skal angi hvordan porteføljen skal sammensettes og hvilken adgang det er til å endre sammensetningen, samt den avkastningsgaranti som i tilfelle er knyttet til porteføljen.
+
+Avkastning ut over det som er lagt til grunn i pensjonsordningens beregningsgrunnlag overføres til premiefondet.
+
+Er avkastningen på investeringsporteføljen i en regnskapsperiode ikke så stor som forutsatt i premieberegningsgrunnlaget for pensjonsordningen, skal differansen kreves dekket ved overføring fra premiefondet eller tilskudd fra forsikringstakeren. Pensjonsinnretningen svarer overfor de forsikrede for at differansen blir dekket.
+
+[Foretakspensjonsloven §§ 11-3](lov/2000-03-24-16/§11-3) til [11-5](lov/2000-03-24-16/§11-5) gjelder tilsvarende.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-15).
+
+### § 4-16. Pensjonsinnretningens opplysningsplikt
+
+Pensjonsinnretningen skal opprette og føre egen konto for forsikringskapitalen knyttet til hver pensjonsordning. Kontoen skal inneholde regnskap og status pr. 31. desember for det enkelte år. Nærmere regler fastsettes av Finanstilsynet.
+
+Pensjonsinnretningen skal hvert år sende forsikringstakeren utskrift av kontoen for pensjonsordningen sammen med opplysninger som vil være av vesentlig betydning for forsikringstakerens vurdering av forsikringsforholdet. Finanstilsynet gir nærmere regler om dette.
+
+Pensjonsinnretningen skal på anmodning fra et medlem gi informasjon om vilkårene for opptjening av rett til pensjon, hvilken betydning det har for pensjonsrettighetene å avslutte arbeidsforholdet, verdien av de opptjente pensjonsrettighetene og vilkårene for forvaltning og regulering av oppsatte pensjonsrettigheter.
+
+Pensjonsinnretningen skal utstede et pensjonsbevis til arbeidstakere som fratrer sin stilling uten rett til straks begynnende pensjon. Pensjonsbeviset skal opplyse hvilke pensjonsrettigheter vedkommende har opptjent (oppsatte rettigheter) på fratredelsestidspunktet. Pensjonsinnretningen skal senere på forespørsel fra innehaveren av pensjonsbeviset gi oppdatert informasjon om de oppsatte rettighetene sammen med informasjon om vilkårene for regulering av oppsatte rettigheter. Ved flytting av pensjonsordningen som omfatter den oppsatte rettighet i medhold av [§ 6-11](lov/2005-06-10-44/§6-11), skal pensjonsinnretningen som pensjonsordningen flyttes fra, informere den fratrådte arbeidstakeren.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-16), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
+
+### § 4-17. Innhenting av opplysninger til bruk for arbeidet med avtalefestet pensjon
+
+Arbeids- og velferdsetaten skal utlevere den samlede pensjonsbeholdningen beregnet etter [folketrygdloven § 20-4](lov/1997-02-28-19/§20-4) og andre opplysninger som er nødvendige for pensjonsinnretningens premieberegning, beregning av fremtidig pensjon, vilkårsprøving og beregning av avtalefestet pensjon for arbeidstakere født i 1963 eller senere. Taushetsplikten etter [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7) er ikke til hinder for utveksling av opplysninger mellom Arbeids- og velferdsetaten og kommunale pensjonsinnretninger i den utstrekning det er nødvendig for å fremme oppgaver etter denne bestemmelsen.
+
+Pensjonsinnretningen har rett til å innhente opplysninger fra det felles organet etter [AFP-tilskottsloven § 18](lov/2010-02-19-5/§18), som gjør det mulig å vurdere om vilkårene for avtalefestet pensjon for arbeidstakere født i 1963 eller senere, er oppfylt.
+
+Pensjonsinnretningen har rett til å innhente opplysninger fra nåværende eller tidligere arbeidsgivere om arbeidstakerens eller pensjonistens arbeids- og inntektsforhold som er nødvendige for å forvalte og beregne avtalefestet pensjon for arbeidstakere født i 1963 eller senere. Den som pålegges å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.
+
+> Tilføyd ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+
+### § 4-17 a. Innhenting av opplysninger til bruk for arbeidet med tidligpensjon og særalderspåslag
+
+Pensjonsinnretningen har rett til å innhente opplysninger fra nåværende og tidligere arbeidsgiver om arbeidstakerens eller pensjonistens arbeidsforhold som er nødvendige for å forvalte og beregne tidligpensjon og særalderspåslag for arbeidstakere født i 1963 eller senere. Den som pålegges å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.
+
+Arbeids- og velferdsetaten skal utlevere opplysninger som er nødvendige for pensjonsinnretningens premieberegning, beregning av fremtidig pensjon, vilkårsprøving og beregning av tidligpensjon og særalderspåslag for arbeidstakere født i 1963 eller senere. Taushetsplikten etter [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7) er ikke til hinder for utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjonsinnretningen i den utstrekning det er nødvendig for å fremme oppgaver etter denne bestemmelsen.
+
+> Tilføyd ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 jan 2026).
+
+### § 4-18. Innhenting av opplysninger til bruk for beregning av forventede fremtidige pensjonsytelser fra pensjonsordningen
+
+Arbeids- og velferdsetaten skal utlevere den samlede pensjonsbeholdningen beregnet etter [folketrygdloven § 20-4](lov/1997-02-28-19/§20-4) og andre opplysninger som er nødvendige for pensjonsinnretningens beregning av forventede fremtidige pensjonsytelser fra pensjonsordningen for sine medlemmer. Taushetsplikten etter [arbeids- og velferdsforvaltningsloven § 7](lov/2006-06-16-20/§7) er ikke til hinder for utveksling av opplysninger mellom Arbeids- og velferdsetaten og kommunale pensjonsinnretninger i den utstrekning det er nødvendig for å fremme oppgaver etter denne bestemmelsen.
+
+> Tilføyd ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+
+### § 4-19. Opplysninger i skattemeldingen for arbeidsgiveravgift og finansskatt på lønn
+
+Arbeidsgivere med kommunal pensjonsordning skal gi opplysning om identifikator på pensjonsinnretningen i skattemeldingen etter [skatteforvaltningsloven § 8-6](lov/2016-05-27-14/§8-6).
+
+> Tilføyd ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+
+### § 4-20. Adgang til å treffe automatiserte avgjørelser
+
+Pensjonsinnretningen kan treffe avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, herunder personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10). Behandlingen må sikre partens krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Den registrerte har rett til manuell overprøving av avgjørelsen.
+
+Departementet kan i forskrift gi nærmere regler om bruk av automatiserte avgjørelser.
+
+> Tilføyd ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+
+### § 4-21. Flytting av pensjonsordning
+
+Pensjonsordningen og dens midler kan flyttes til annen pensjonsinnretning etter reglene i [kapittel 6](lov/2005-06-10-44/kap6).
+
+> Endret ved [lover 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-17), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303), tidligere § 4-17).
+
+### § 4-22. Opphør av pensjonsordningen
+
+Dersom et foretak med kommunal pensjonsordning går konkurs eller det er truffet vedtak om at foretaket eller dets virksomhet skal avvikles, skal pensjonsordningen opphøre. Det samme gjelder om foretaket slutter å betale premie til pensjonsordningen og premien ikke kan dekkes av midler i premiefondet.
+
+Når en pensjonsordning opphører, skal pensjonsordningens midler fordeles mellom medlemmene, pensjonistene og arbeidstakere som har fratrådt sine stillinger på grunnlag av premiereserven knyttet til opptjente pensjonsrettigheter til hver enkelt person, og benyttes til å sikre deres rett til pensjon i pensjonsinnretningen.
+
+> Endret ved [lover 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10-18), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303), tidligere § 4-18).
+
+## Kapittel 5. Fellesordning for premieberegning for pensjonsordninger med ytelsesbasert foretakspensjon
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 5-1. Virkeområde mv.
+
+Bestemmelsene i dette kapittel gjelder pensjonsordninger med ytelsesbasert foretakspensjon hvor finansieringsordningen er basert på premieberegning i fellesordninger.
+
+Ytelsesbaserte foretakspensjonsordninger som nevnt i første ledd kan bare inngå i fellesordning bestående av andre ytelsesbaserte foretakspensjonsordninger.
+
+En felles pensjonsordning for konsernforetak kan utgjøre en fellesordning. Foretakspensjonsordninger i samme fellespensjonskasse kan utgjøre en fellesordning.
+
+En pensjonsinnretning som har en eller flere fellesordninger skal føre regnskap for hver fellesordning.
+
+Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensning av reglene i kapitlet her.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved lover [15 juni 2007 nr. 29](lov/2007-06-15-29) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 649](forskrift/2007-06-15-649)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-1.
+
+### § 5-2. Årets premier
+
+Årlig premie for en pensjonsordning skal tilsvare summen av ordinær årspremie, reguleringspremie og særskilte engangspremier for ytelser som ikke kan premiesettes på forhånd.
+
+Premier beregnes etter [§ 5-3](lov/2005-06-10-44/§5-3) hvis ikke noe annet følger av reglene i [§§ 5-4](lov/2005-06-10-44/§5-4) og [5-5](lov/2005-06-10-44/§5-5) om fellesordning for premieberegning.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-2.
+
+### § 5-3. Premieberegning
+
+Pensjonsordningen skal årlig tilføres en premie som etter beregningsgrunnlaget for ordningen er tilstrekkelig til å sikre rett til pensjon som medlemmene vil opptjene i løpet av året, med tillegg av årets risikopremier og kostnader for tjenester (ordinær årspremie). Premie for hvert år beregnes ved årets begynnelse og senere i året i takt med lønnsutviklingen.
+
+Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppregulering i løpet av året av opptjente pensjonsrettigheter (reguleringspremie). Reguleringspremien beregnes på tidspunktet for oppreguleringen ut fra lønnsutviklingen i løpet av året.
+
+Pensjonsordningen skal også hvert år tilføres premie til dekning av pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunkt pensjonsrettighetene oppstår.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-3.
+
+### § 5-4. Vilkår for fellesordning for premieberegning
+
+Bestemmelsene i [kapittel 3](lov/2005-06-10-44/kap3) er ikke til hinder for at det opprettes fellesordninger som består av flere pensjonsordninger, for at premie for den enkelte pensjonsordning som inngår i en fellesordning, skal bli fastsatt ved beregning basert på prinsipper som vil motvirke at pensjonskostnaden for de enkelte medlemmer for tilsvarende pensjonsrettigheter vil variere med medlemmenes kjønn og alder.
+
+Alle pensjonsordningene i en fellesordning skal ha pensjonsplaner som gir samme typer av pensjonsytelser. Forholdet mellom alderspensjonsytelse og etterlatteytelse for det enkelte medlem skal være det samme etter pensjonsplanene for alle pensjonsordningene. Alle pensjonsordningene skal bygge på samme beregningsrente og i hovedsak samme beregningsgrunnlag.
+
+Pensjonsordninger med pensjonsplaner som gir forskjellig ytelsesnivå for alderspensjon, kan inngå i samme fellesordning.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-4.
+
+### § 5-5. Premieberegning i fellesordninger
+
+En fellesordning opprettet etter [§ 5-4](lov/2005-06-10-44/§5-4) skal hvert år tilføres premie tilsvarende summen av ordinær årspremie fastsatt etter forsikringsteknisk beregning for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordnings andel av samlet ordinær premie til fellesordningen beregnes ut fra forholdet mellom den rett til alderspensjon som vil bli opptjent i løpet av året for samtlige medlemmer av hver av pensjonsordningene. Kostnader for tjenester kan unntas fra fordeling i fellesordningen.
+
+Opptas en arbeidstaker som medlem av en pensjonsordning i løpet av et forsikringsår, belastes tilleggspremie for den del av året som gjenstår. Tillegget beregnes ut fra pensjonsordningens andel av samlet årspremie til fellesordningen og den prosentvise økningen av pensjonsordningens beregningsgrunnlag etter første ledd annet punktum som det nye medlemmet representerer. Avvik fra forsikringsteknisk beregnet premie inngår ved beregningen av ordinær årspremie til fellesordningen i det etterfølgende år. Bestemmelsene i første til tredje punktum gjelder tilsvarende ved beregning av premietillegg for særskilt lønnsøkning for et medlem av pensjonsordningen.
+
+Dersom det i løpet av et forsikringsår opptas en ny pensjonsordning i en fellesordning, skal den ordinære årspremien beregnes ut fra den samlede ordinære årspremie til fellesordningen som er beregnet for året, og den prosentvise økningen av det samlede beregningsgrunnlaget etter første ledd annet punktum som pensjonsordningen representerer.
+
+Det skal fastsettes i forsikringsavtalen om reguleringspremie som nevnt i [§ 5-3](lov/2005-06-10-44/§5-3) annet ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning. Ved særskilt beregning skal reguleringspremien beregnes for hver pensjonsordning i fellesordningen ut fra den prosentvise økning av premiereserven for pensjonsordningen som er påkrevd som følge av oppregulering av medlemmenes opptjente pensjonsrettigheter ut fra lønnsutviklingen. Ved gjennomsnittsberegning skal fellesordningen hvert år tilføres reguleringspremier tilsvarende summen av årlig reguleringspremie etter [§ 5-3](lov/2005-06-10-44/§5-3) annet ledd for samtlige pensjonsordninger som inngår i fellesordningen. Den enkelte pensjonsordningens andel av samlet reguleringspremie til fellesordningen beregnes ut fra forholdet mellom samlet premiereserve for hver av pensjonsordningene på tidspunktet for oppregulering av pensjonsrettighetene. Ved beregning av premiereserve etter reglene i leddet her skal premiereserve knyttet til pensjoner under utbetaling unntas fra beregningen, med mindre annet er fastsatt. Kostnader for tjenester kan beregnes og belastes særskilt for hver pensjonsordning.
+
+Reguleringspremie for pensjoner under utbetaling skal beregnes og betales særskilt for hver enkelt pensjonsordning.
+
+Det skal fastsettes i forsikringsavtalen i hvilken utstrekning premier som nevnt i [§ 5-3](lov/2005-06-10-44/§5-3) tredje ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning som nevnt i første ledd.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-5.
+
+### § 5-6. Eldre arbeidstakere
+
+Alle pensjonsordninger i en fellesordning skal ha samme regler om opptak av medlemmer som har mindre enn 10 år igjen til pensjonsalderen, og om rett til pensjon og medregning av tidligere tjenestetid for slike arbeidstakere når de er opptatt som medlemmer, jf. [foretakspensjonsloven § 3-9](lov/2000-03-24-16/§3-9) annet og tredje ledd, jf. [§ 5-6](lov/2000-03-24-16/§5-6) første ledd bokstav c.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-6.
+
+### § 5-7. Innbetaling av premie
+
+Blir premie for et forsikringsår ikke innbetalt ved årets utgang eller ved utløpet av annen frist fastsatt i nytt premievarsel etter [lov 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler [§ 14-2](lov/1989-06-16-69/§14-2), bortfaller den økning av forsikringsforpliktelsene som den ikke innbetalte premien skulle dekke. Medlemmene i pensjonsordningen skal i tilfelle varsles om dette. Det kan likevel ikke som følge av slikt bortfall kreves tilbakebetaling av for mye utbetalt pensjon.
+
+Departementet kan ved forskrift fastsette nærmere regler om innbetaling av premie.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-7.
+
+## Kapittel 6. Flytting
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 6-1. Virkeområde og flytterett
+
+Bestemmelsene i dette kapittel gjelder flytting mellom pensjonsinnretninger av:pensjonsordninger i henhold til foretakspensjonsloven,pensjonsordninger i henhold til tjenestepensjonslovenpensjonsordninger i henhold til innskuddspensjonsloven,pensjonsordninger som omfattes av [kapittel 4](lov/2005-06-10-44/kap4),andre kollektive pensjonsordninger,fripoliser, pensjonsbevis, pensjonskapitalbevis og tilsvarende individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger,individuelle pensjonsavtaler (pensjonsforsikrings- og livrentekontrakter, og andre pensjonsavtaler),andre livsforsikringskontrakter.
+
+Kontrakt som nevnt i første ledd bokstav a til h kan flyttes til annen pensjonsinnretning. Med flytting menes oppsigelse av kontrakten for overføring av tilhørende midler til en tilsvarende kontrakt opprettet i en annen pensjonsinnretning.
+
+Som pensjonsinnretning regnes her forsikringsforetak, pensjonsforetak, bank og forvaltningsselskap for verdipapirfond.
+
+Omdanning, sammenslåing og deling av pensjonsordning i forbindelse med flytting kan foretas i henhold til ellers gjeldende regler. Tilsvarende gjelder for sammenslåing og omdanning av fripoliser, pensjonsbevis, pensjonskapitalbevis og andre individuelle pensjonsrettigheter utgått fra kollektive pensjonsordninger.
+
+Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensning av reglene i kapitlet her.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-1).
+
+### § 6-2. Flytting av kollektive pensjonsordninger
+
+For foretak som flytter pensjonsordning som nevnt i [§ 6-1](lov/2005-06-10-44/§6-1) første ledd bokstav a til d eller en kollektiv livrenteordning, gjelder reglene i [§§ 6-2](lov/2005-06-10-44/§6-2) til [6-10](lov/2005-06-10-44/§6-10).
+
+Flytting må omfatte hele pensjonsordningen. Ved flytting av kommunal pensjonsordning omfattes også oppsatte pensjonsrettigheter og midler knyttet til slike rettigheter.
+
+Gjelder flyttingen et foretak som har felles pensjonsordning med ett eller flere andre foretak, skal foretaket og dets gruppe av medlemmer med tilhørende del av midlene i pensjonsordningen skilles ut fra den felles pensjonsordningen.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-2).
+
+### § 6-3. Rettigheter i den nye pensjonsordningen
+
+Arbeidstakernes og pensjonistenes rettigheter etter flyttingen skal fastsettes i regelverket for den nye pensjonsordningen.
+
+Det nye regelverket kan ikke inneholde bestemmelser som innebærer reduksjon av arbeidstakeres rett til opptjent pensjon med tilhørende premiereserve eller til opptjent pensjonskapital. Pensjonister skal sikres pensjonsytelser med tilhørende premiereserve eller pensjonskapital som minst tilsvarer den rett til ytelser som gjaldt før flyttingen.
+
+Bestemmelsene i paragrafen her er ikke til hinder for at regelverket for pensjonsordningen endres etter ellers gjeldende regler med virkning for opptjening av pensjon ved tjenestetid etter flyttingen, og heller ikke for at pensjonsordningens midler etter flyttingen forvaltes helt eller delvis som egen investeringsportefølje etter ellers gjeldende regler.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-3).
+
+### § 6-4. Medlemmenes uttalerett mv.
+
+Før foretaket flytter pensjonsordningen, skal det sørge for at medlemmene mottar fullstendige opplysninger om flyttingen av pensjonsordningen og hvilke rettigheter de vil få i den nye pensjonsordningen. Avgivende og mottakende pensjonsinnretning plikter å påse at foretakets informasjon er korrekt og utfyllende.
+
+Spørsmålet om flytting av pensjonsordningen skal forelegges styringsgruppen for pensjonsordningen til uttalelse.
+
+Medlemmer i pensjonsordningen skal også gis anledning til å uttale seg. For øvrig kan en arbeidstakerorganisasjon uttale seg på vegne av sine medlemmer. Annet kan fastsettes i tariffavtale.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-4).
+
+### § 6-5. Oppsigelse. Flyttegebyr
+
+Kontrakt om pensjonsordning kan sies opp med en frist på to måneder. Oppsigelse skal skje skriftlig. Kravet om skriftlighet er ikke til hinder for at oppsigelse kan oversendes elektronisk, dersom det er benyttet en betryggende metode som autentiserer avsender og sikrer meldingens innhold.
+
+Første ledd er ikke til hinder for at det avtales at oppsigelsesfristen ikke skal utløpe før ved første kvartalsskifte, halvårsskifte eller årsskifte for pensjonsordninger med årspremie beregnet etter reglene i [§ 4-6](lov/2005-06-10-44/§4-6).
+
+Ved utløpet av fristen for oppsigelse går risiko knyttet til medlemmer og pensjonister i pensjonsordningen over på den pensjonsinnretning pensjonsordningen flyttes til.
+
+Foretaket skal betale et flyttegebyr til dekning av kostnader som pensjonsinnretningen har ved å avslutte kontrakten og overføre pensjonsordningens midler til annen pensjonsinnretning. Departementet kan gi nærmere regler om flyttegebyr.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-5).
+
+### § 6-6. Oppgjørsfrist
+
+Ved oppsigelsesfristens utløp skal pensjonsinnretningen overføre pensjonsordningens midler til den nye pensjonsinnretningen. Oppgjørsfristen er likevel to måneder etter utløpet av oppsigelsesfristen når pensjonsordningens midler overstiger NOK 300 mill.
+
+Pensjonsinnretningene kan ved avtale fastsette annen frist for etteroppgjør enn det som følger av første ledd.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-6).
+
+### § 6-7. Beregning av pensjonsordningens midler
+
+En ytelsesbasert pensjonsordnings midler omfatter premiereserve til sikring av opptjent pensjon, herunder premiereserve for uføre- og etterlatteytelser, bufferfond, pensjonistenes overskuddsfond og premiefondet. Pensjonsordningens andel av overskudd i flytteåret omfattes også.
+
+I pensjonsordninger med innskuddspensjon omfatter pensjonsordningens midler pensjonskapitalen og innskuddsfondet, samt pensjonsordningens andel av overskudd i flytteåret.
+
+Ved flytting overføres den forsikringskapital som er knyttet til pensjonsordningen beregnet på tidspunktet for oppsigelsestidens utløp. Pensjonsordningens andel av overskudd i flytteåret frem til tidspunktet for oppsigelsestidens utløp omfattes også.
+
+Forvaltes pensjonsordningens midler i egen eller egne investeringsporteføljer, legges markedsverdien av porteføljen ved utløpet av oppsigelsesfristen til grunn ved verdiberegningen. Dette gjelder også avkastnings- og verdisikringsgarantier knyttet til porteføljene. [Foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1) fjerde ledd gjelder tilsvarende.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-7), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 6-8. Premiereserve for uføreytelser
+
+Premiereserve for uføreytelser til medlemmer som er blitt uføre før utløpet av oppsigelsesfristen, skal fastsettes på grunnlag av det beregningsgrunnlag som gjaldt for pensjonsordningen ved utløpet av oppsigelsesfristen. Fastsatt uføregrad legges til grunn selv om uføregraden blir fastsatt etter dette tidspunktet.
+
+Medlem som er sykmeldt ved utløpet av oppsigelsesfristen, skal her anses som ufør dersom den sykdom som da var konstatert, har gitt rett til arbeidsavklaringspenger eller uføretrygd innen ett år etter utløpet av oppsigelsesfristen.
+
+Tidsfristen i annet ledd kan fravikes ved avtale mellom pensjonsinnretningene. Slik avtale berører ikke foretakets eller de forsikredes rettigheter overfor avgivende pensjonsinnretning etter annet ledd med mindre foretaket samtykker til at forpliktelsene overtas av mottakende pensjonsinnretning.
+
+> Endret ved lover [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 des 2014 nr. 81](lov/2014-12-19-81) (ikr. 1 jan 2015), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-8).
+
+### § 6-9. Oppgjørsmåte
+
+Pensjonsordningens midler beregnet etter reglene i [§§ 6-7](lov/2005-06-10-44/§6-7) og [6-8](lov/2005-06-10-44/§6-8) skal overføres i penger. Det kan avtales mellom pensjonsinnretningene at oppgjør for midler plassert i egen investeringsportefølje skal skje ved overføring av porteføljen.
+
+Ved overføring av midler etter utløpet av oppsigelsesfristen skal det svares avkastning av midlene fra utløpet av oppsigelsesfristen og frem til den dag midlene blir overført. Avkastningen beregnes etter renten på folioinnskudd i Norges Bank tillagt to prosentenheter, med mindre en høyere rente avtales mellom pensjonsinnretningene.
+
+Dersom oppgjørsfristen etter [§ 6-6](lov/2005-06-10-44/§6-6) er oversittet, og dette ikke skyldes forhold på forsikringstakers eller den mottakende pensjonsinnretningens side, skal det svares forsinkelsesrente etter [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m., fra utløpet av oppgjørsfristen og frem til den dag midlene blir overført. I tillegg skal det svares avkastning beregnet etter annet ledd.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-9).
+
+### § 6-10. Anvendelse av overførte midler
+
+Overført premiereserve skal anvendes til sikring av medlemmenes og pensjonistenes rettigheter i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag som dette bygger på.
+
+Bufferfond, pensjonistenes overskuddsfond og premiefond skal etter overføringen fortsatt være en del av pensjonsordningens midler og anvendes etter ellers gjeldende regler.
+
+Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene til de enkelte medlemmer eller pensjonister etter beregningsgrunnlaget i pensjonsinnretningen det flyttes til, skal manglende premiereserve tilføres fra premiefondet. Resten dekkes i tilfelle ved overført bufferfond eller ved overføringer fra foretaket.
+
+Er overført premiereserve knyttet til medlemmenes og pensjonistenes rett til opptjent pensjon større enn nødvendig for å sikre deres rettigheter etter beregningsgrunnlaget i pensjonsinnretningen det flyttes til, skal overskytende premiereserve benyttes til engangspremie for tillegg til pensjonsytelsene. I kommunale pensjonsordninger skal overskytende premiereserve overføres til premiefondet.
+
+Pensjonskapital og innskuddsfond i pensjonsordning med innskuddspensjon skal etter overføringen forvaltes i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag dette i tilfelle bygger på.
+
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-10), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 6-11. Flytting av pensjonsrettigheter utgått fra kollektive pensjonsordninger
+
+Ved flytting av en kommunal pensjonsordning skal oppsatte pensjonsrettigheter i pensjonsordningen med tilhørende midler, samtidig overføres til den nye pensjonsinnretningen. Bestemmelsene i [§ 6-3](lov/2005-06-10-44/§6-3), [§ 6-5](lov/2005-06-10-44/§6-5) tredje og fjerde ledd, [§ 6-7](lov/2005-06-10-44/§6-7) første, tredje og fjerde ledd, [§ 6-8](lov/2005-06-10-44/§6-8), [§ 6-9](lov/2005-06-10-44/§6-9) og [§ 6-10](lov/2005-06-10-44/§6-10) første til fjerde ledd gjelder tilsvarende.
+
+Ved flytting av andre pensjonsordninger overføres ikke pensjonsrettigheter knyttet til fripoliser, pensjonsbevis eller pensjonskapitalbevis til den nye pensjonsinnretningen, med mindre den som har rett til fripolisen, pensjonsbeviset eller pensjonskapitalbeviset krever det etter reglene i [§ 6-13](lov/2005-06-10-44/§6-13).
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-11).
+
+### § 6-12. Flytting ved medregning av tidligere tjenestetid
+
+Blir en arbeidstaker medlem av pensjonsordning med foretakspensjon som har bestemmelser om medregning av tjenestetid, gjelder reglene i [foretakspensjonsloven §§ 4-11](lov/2000-03-24-16/§4-11) til [4-13](lov/2000-03-24-16/§4-13). Ved beregningen av de midler som skal overføres, gjelder [§ 6-7](lov/2005-06-10-44/§6-7) første, tredje og fjerde ledd tilsvarende. For øvrig gjelder [§ 6-5](lov/2005-06-10-44/§6-5) fjerde ledd, [§ 6-9](lov/2005-06-10-44/§6-9) og [§ 6-10](lov/2005-06-10-44/§6-10) første til fjerde ledd tilsvarende så langt de passer.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-12).
+
+### § 6-13. Flytting av fripolise, pensjonsbevis og pensjonskapitalbevis
+
+Den som har rett til pensjonsrettigheter knyttet til fripolise, pensjonsbevis eller pensjonskapitalbevis, kan flytte kontrakten til en annen pensjonsinnretning. Oppsigelsesfristen ved flytting er én måned.
+
+Bestemmelsene om formkrav til oppsigelse i [§ 6-5](lov/2005-06-10-44/§6-5) første ledd annet og tredje punktum, risikoovergang i [§ 6-5](lov/2005-06-10-44/§6-5) tredje ledd, samt oppgjørsfrist i [§ 6-6](lov/2005-06-10-44/§6-6) gjelder tilsvarende.
+
+Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7), [6-8](lov/2005-06-10-44/§6-8), [6-9](lov/2005-06-10-44/§6-9) og [6-10](lov/2005-06-10-44/§6-10) første, annet, fjerde og femte ledd tilsvarende. Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved overført bufferfond.
+
+> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)). [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-13), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+### § 6-14. Flytting av individuelle pensjonsavtaler
+
+Den som har en individuell pensjonsavtale, eller en individuell livrenteforsikring, kan flytte kontrakten til en annen pensjonsinnretning. Oppsigelsesfristen ved flytting er én måned.
+
+Bestemmelsene om formkrav til oppsigelse i [§ 6-5](lov/2005-06-10-44/§6-5) første ledd annet og tredje punktum, risikoovergang i [§ 6-5](lov/2005-06-10-44/§6-5) tredje ledd, samt oppgjørsfrist i [§ 6-6](lov/2005-06-10-44/§6-6) gjelder tilsvarende.
+
+Ved beregningen av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7) og [6-8](lov/2005-06-10-44/§6-8). Oppgjør foretas etter reglene i [§ 6-9](lov/2005-06-10-44/§6-9).
+
+Overførte midler skal anvendes til å sikre rettighetene etter den nye pensjonsavtalen etter reglene i [§ 6-10](lov/2005-06-10-44/§6-10) første og annet ledd. Er premiereserve for pensjonsforsikring ikke tilstrekkelig til å sikre rettighetene etter den nye kontrakten, kan resten dekkes ved overføring fra premiefondet eller i tilfelle fra bufferfond knyttet til forsikringen. Overskytende premiereserve benyttes til å øke ytelsene, med mindre forsikringstakeren krever at midlene skal overføres til premiefond.
+
+Person som er oppnevnt som begunstiget under pensjonsavtalen, skal underrettes om flyttingen.
+
+For individuelle pensjonsavtaler kan avgivende pensjonsinnretning ta forbehold om at det skal beregnes et fradrag i premiereserven (seleksjonsfradrag). Slikt fradrag kan bare kreves dersom den pensjonsinnretningen kontrakten flyttes til, legger til grunn ny helseprøving av forsikrede. Departementet kan gi nærmere regler.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-14), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+
+## Kapittel 7. Skadeforsikring
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 7-1. Skadeforsikringsvirksomhet mv.
+
+Tillatelse til å drive virksomhet som skadeforsikringsforetak gir adgang til å overta forsikringer som regnes som skadeforsikring. Som skadeforsikring regnes forsikring mot skade eller tap av ting, rettigheter eller andre fordeler og forsikring mot erstatningsansvar eller kostnader, samt ulykkesforsikring, sykeforsikring og annen personforsikring som ikke er livsforsikring.
+
+Et skadeforsikringsforetak har ikke adgang til å markedsføre eller tilby forsikringer mot strafferettslige sanksjoner dersom forsikringen vil være i strid med rettsordenen. Departementet kan ved forskrift eller enkeltvedtak fastsette hva som forstås med forsikring i strid med rettsordenen.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-1).
+
+### § 7-2. Selvforsikringsordninger
+
+Et skadeforsikringsforetak kan forestå administrasjon av selvforsikringsordninger for foretak og institusjoner i tilknytning til at foretaket overtar forsikring for samme foretak eller institusjon. Kongen kan i forskrift gjøre unntak fra vilkåret i første punktum.
+
+Selskapet skal føre egen konto for hver selvforsikringsordning med avregning ved hvert årsskifte.
+
+> Endret ved lover [17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-2).
+
+### § 7-3. Skadeforsikringsforetaks salgskanaler
+
+Et skadeforsikringsforetak skal påse at deres agenter oppfyller kravene som følger av [forsikringsavtaleloven §§ 2-1](lov/1989-06-16-69/§2-1), [2-2](lov/1989-06-16-69/§2-2), [11-1](lov/1989-06-16-69/§11-1) og [11-2](lov/1989-06-16-69/§11-2) ved inngåelse av forsikringsavtale med forsikringstakere.
+
+Krav på erstatning i henhold til forsikringsavtale kan meldes til agenten. I forhold til [forsikringsavtaleloven §§ 8-5](lov/1989-06-16-69/§8-5) og [18-5](lov/1989-06-16-69/§18-5) anses kravet fremsatt overfor skadeforsikringsforetaket den dag agenten har mottatt meldingen.
+
+> Endret ved lover [17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-3).
+
+### § 7-4. (Opphevet)
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-4), opphevet ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)).
+
+### § 7-5. Premietariffer
+
+Et skadeforsikringsforetak skal ha premietariffer for standardiserte produkter eller produktkombinasjoner som foretaket markedsfører. De som etterspør slike forsikringer, skal på en enkel måte få opplysninger fra foretaket om premienivå og forhold på forsikringstakerens side som etter premietariffene vil bli lagt vekt på ved beregningen av premiene. Foretaket skal i premietariffen eller på annen måte fastsette regler om hvilke forhold på forsikringstakerens side som vil gi rett til premierabatt eller betinge premietillegg. Kongen kan i forskrift gi nærmere regler om premietariffer.
+
+Opplysning om premien på en forsikring skal omfatte det samlede vederlag foretaket normalt vil beregne seg for å overta de ulike typer av risiko som omfattes av forsikringsvilkårene for de forskjellige produkter og produktkombinasjoner, og for å yte tjenester knyttet til produktene.
+
+Foretaket kan benytte forskjellig premie overfor ulike kundegrupper når aktuarberegninger eller risikostatistikk gir forsvarlig grunnlag for å legge til grunn at den forsikringsrisiko kunder innenfor de ulike gruppene representerer, vil være forskjellig.
+
+Foretaket skal ved utformingen av premietariffene og ved fastsettelse av premien sørge for at:foretakets premier vil stå i rimelig forhold til den risiko som overtas og de tjenester som ytes,foretakets premier vil være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte forsikringer blir oppfylt, og vil være betryggende ut fra foretakets økonomi,det ikke vil skje urimelig forskjellsbehandling mellom produkter, produktkombinasjoner eller kundegrupper.
+
+Foretaket skal gi melding til Finanstilsynet om fastsatte premietariffer for livsforsikringer som nevnt i [finansforetaksloven § 2-14](lov/2015-04-10-17/§2-14) annet ledd og om prinsippene for utformingen av slike premietariffer.
+
+Finanstilsynet skal føre kontroll for å påse at de premier som benyttes, er i samsvar med reglene i dette kapittel. Kongen kan forby bruk av premier som Kongen finner er ubetryggende eller urimelige.
+
+Kongen kan fastsette regler om skadeforsikringsforetaks plikt til å gi opplysninger om produkter, premier og forsikringsvilkår i skadeforsikring til informasjonsordning for finansielle tjenester.
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-5).
+
+### § 7-6. Endring av premietariffer
+
+Et skadeforsikringsforetak kan endre sine premietariffer, og skal i så fall fastsette fra hvilket tidspunkt de nye tariffene skal gjelde.
+
+Viser foretakets forsikringsresultater at foretakets premier for ett eller flere forsikringsprodukter ikke står i rimelig forhold til den risiko som overtas og de tjenester som ytes, skal foretaket vurdere om det er behov for premieendring. Foretaket skal endre premier som viser seg ikke å være tilstrekkelige til å gi sikkerhet for at forpliktelsene etter inngåtte forsikringer blir oppfylt.
+
+For inngåtte forsikringer kan en premieøkning ikke gjøres gjeldende før fra første hovedforfall, minst én måned etter at forsikringstakeren har mottatt underretning om den fastsatte endringen.
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-6).
+
+### § 7-7. Beregning av premier mv.
+
+Premien skal beregnes og betales forskuddsvis, med mindre det er avtalt terminvis innbetaling i løpet av forsikringstiden. Krav om betaling av premie skal angi hvilke poster som inngår i beregningen, og opplyse om andre forhold av betydning for størrelsen av premien.
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lover 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-7), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+
+### § 7-8. Utlikningsordning
+
+> Tilføyes ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) som § 12-17 (ikr. fra den tid Kongen bestemmer). Kap. 12 er endret til [kap. 7](lov/2005-06-10-44/kap7) ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 7-9. Skadeoppgjør
+
+Departementet kan i forskrift gi nærmere regler om takseringstjenester i skadeforsikringsforetak.
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-18).
+
+### § 7-10. Forskrifter
+
+Kongen kan i forskrift fastsette nærmere regler til utfylling og avgrensning av bestemmelsene i kapitlet her.
+
+> Tilføyd ved [lov 17 des 2010 nr. 84](lov/2010-12-17-84) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1664](forskrift/2010-12-17-1664), se denne for overgangsregel), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 12-19).
+
+## Kapittel 8. Unntaksbestemmelser
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 8-1. Stat
+
+Denne lovens bestemmelser kommer ikke til anvendelse på ordninger som styres av staten. Kongen kan likevel fastsette at denne lov helt eller delvis skal gjelde for Norges Banks pensjonskasse.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-1).
+
+### § 8-2. Husdyrforsikring
+
+Denne lovens bestemmelser kommer ikke til anvendelse på forsikring av husdyr administrert av slakterier eller meierier. De skal imidlertid årlig sende inn oppgave over virksomheten til Finanstilsynet. Finanstilsynet kan, hvis det er påkrevet av hensyn til forsikringstakerne, bestemme at også disse ordninger skal være undergitt denne loven helt eller delvis.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-2).
+
+### § 8-3. Begravelseskasser og hjelpekasser
+
+Denne lovens bestemmelser kommer ikke til anvendelse på begravelseskasser og hjelpekasser som yter en maksimumsstøtte lik folketrygdens grunnbeløp. Disse innretninger kan imidlertid av Finanstilsynet pålegges å sende oppgave om sin virksomhet til Finanstilsynet. Finanstilsynet kan, hvis det er påkrevet av hensyn til de berettigede til ytelsene, bestemme at også disse ordninger skal være undergitt denne lov helt eller delvis.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-3).
+
+### § 8-4. Mindre gjensidige forsikringsforetak
+
+Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for mindre gjensidige forsikringsforetak.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-4).
+
+### § 8-5. Sjøtrygdelag
+
+Denne lovens bestemmelser kommer ikke til anvendelse på forsikringsforeninger som går inn under [lov 3. juli 1953 nr. 2](lov/1953-07-03-2) om sjøtrygdelag.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-5).
+
+### § 8-6. Gjenforsikring
+
+Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for foretak som bare driver gjenforsikringsvirksomhet.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-6).
+
+### § 8-7. Krigsrisiko til sjøs
+
+Kongen kan gjøre helt eller delvis unntak fra denne lovens bestemmelser for foretak som bare driver forsikring av krigsrisiko til sjøs.
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-7).
+
+### § 8-8. Andre unntak
+
+Kongen kan i forskrift eller ved enkeltvedtak gjøre unntak fra loven for forsikringsforetak som ifølge sine vedtekter bare kan overta direkte forsikring for en nærmere angitt krets av forsikringstakere, og eventuelt gjenforsikring i tillegg.
+
+Finanstilsynet avgjør i tvilstilfelle om et foretak faller inn under første ledd.
+
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 15-8).
+
+## Kapittel 9. Straffebestemmelser
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 9-1. Straffeansvar
+
+Tillits- eller tjenestemenn i institusjoner som er underlagt denne lov og som forsettlig eller uaktsomt overtrer loven eller bestemmelse eller pålegg gitt med hjemmel i loven eller som overtrer ellers gjeldende regelverk for virksomheten, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
+
+Hvis et pålegg av tilsynet ikke blir etterkommet, kan vedkommende departement bestemme at de personer og/eller den institusjon, institusjonens morselskap eller morselskapet i det konsern institusjonen er en del av, som skal oppfylle pålegget, skal betale en daglig løpende mulkt til forholdet er rettet. Pålegg om mulkt er tvangsgrunnlag for utlegg.
+
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 16-1).
+
+## Kapittel 10. Ikrafttredelses- og overgangsregler
+
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+
+### § 10-1. Ikrafttredelse
+
+Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+Fra den tid loven trer i kraft oppheves [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet.
+
+> Endret ved lover [30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 17-3).
+
+### § 10-2. Overgangsregler
+
+Departementet kan gi nærmere overgangsregler.
+
+Forskrifter gitt i medhold av [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet gjelder inntil noe annet er bestemt.
+
+> Endret ved lover [30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 17-2).
+
+### § 10-3. Endringer i andre lover
+
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 17-3).

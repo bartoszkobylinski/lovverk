@@ -1,0 +1,34 @@
+---
+id: "sf-20200604-1135"
+slug: "endr-i-forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten"
+type: "forskrift"
+ref_id: "forskrift/2020-06-04-1135"
+title: "Forskrift om endring i forskrift om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten"
+short_title: "Endr. i forskrift om distriktsinndelinger mv. i politi- og lensmannsetaten"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "2c1db322f5a02470f5e3258dae89325084fab7062c873a57ab864fe70cde110a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten
+
+## I
+
+I [forskrift 24. mai 2017 nr. 2480](forskrift/2017-05-24-2480) om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten gjøres følgende endringer:
+
+Oslo sentrum politistasjonsdistrikt med tjenestestedet Oslo sentrum politistasjon.
+
+Oslo øst politistasjonsdistrikt med tjenestestedet Oslo øst politistasjon.
+
+## II
+
+Ikrafttredelsetidspunkt fastsettes i samråd mellom politidistriktet og Politidirektoratet.

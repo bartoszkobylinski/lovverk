@@ -1,0 +1,94 @@
+---
+id: "sf-20230816-1327"
+slug: "budsjett-og-regnskapsforskriften-for-iks"
+type: "forskrift"
+ref_id: "forskrift/2023-08-16-1327"
+title: "Forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for interkommunale selskaper (budsjett- og regnskapsforskriften for IKS)"
+short_title: "Budsjett- og regnskapsforskriften for IKS"
+language: "nb"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2024-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "060d77a0d6d13ff228a88a28cf6c84e05e8e0da02e581dabed221355ac956959"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for interkommunale selskaper (budsjett- og regnskapsforskriften for IKS)
+
+## Kapittel. 1 Virkeområde
+
+### § 1-1. Virkeområde
+
+Forskriften gjelder for interkommunale selskaper etablert etter [IKS-loven](lov/1999-01-29-6).
+
+## Kapittel 2. Økonomiplan, årsbudsjett, årsregnskap og årsberetning for selskaper som utarbeider årsregnskap og årsberetning etter [regnskapsloven](lov/1998-07-17-56)
+
+### § 2-1. Virkeområde
+
+Kapittelet gjelder for interkommunale selskaper som utarbeider årsregnskap og årsberetning etter [regnskapsloven](lov/1998-07-17-56) i henhold til [IKS-loven § 27](lov/1999-01-29-6/§27) første ledd.
+
+### § 2-2. Innholdet i økonomiplanen og årsbudsjettet
+
+Økonomiplanen og årsbudsjettet skal utarbeides i samsvar med [IKS-loven § 20](lov/1999-01-29-6/§20).
+
+Økonomiplanen og årsbudsjettet skal inneholde en resultatoppstilling som nevnt i [regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) eller [§ 6-1a](lov/1998-07-17-56/§6-1a) og en oppstilling av investeringsutgiftene og finansieringen av disse. Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene skal vise beløp for budsjettåret, det forrige budsjettåret og det sist vedtatte årsregnskapet.
+
+Økonomiplanen og årsbudsjettet skal inneholde en oversikt over selskapets avdrag på lån i det enkelte budsjettåret.
+
+### § 2-3. Innholdet i årsregnskapet
+
+Årsregnskapet skal utarbeides i samsvar med [regnskapsloven](lov/1998-07-17-56).
+
+Årsregnskapet skal inneholde en resultatoppstilling som nevnt i [regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) eller [§ 6-1a](lov/1998-07-17-56/§6-1a) og også en oppstilling av investeringsutgiftene og finansieringen av disse. Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet.
+
+Årsregnskapet skal også inneholde noteopplysninger om:Størrelsen på minimumsavdraget beregnet etter [IKS-loven § 22](lov/1999-01-29-6/§22) sjette ledd, og størrelsen på selskapets betalte avdrag på lån. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen av minimumsavdraget.Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
+
+### § 2-4. Innholdet i årsberetningen
+
+Årsberetningen skal utarbeides i samsvar med [regnskapsloven](lov/1998-07-17-56).
+
+Årsberetningen skal også redegjøre for:Vesentlige beløpsmessige avvik mellom årsbudsjettet og årsregnskapet og vesentlige avvik fra representantskapets premisser for bruken av de økonomiske rammene.Selskapets måloppnåelse og andre ikke-økonomiske forhold som er av vesentlig betydning for deltakerne eller innbyggerne.
+
+Plikten til å utarbeide årsberetning gjelder ikke for selskap som regnes som små foretak etter [regnskapsloven § 1-6](lov/1998-07-17-56/§1-6).
+
+## Kapittel 3. Økonomiplan, årsbudsjett, årsregnskap og årsberetning for selskaper som utarbeider årsregnskap og årsberetning etter [kommuneloven](lov/2018-06-22-83)
+
+### § 3-1. Virkeområde
+
+Kapittelet gjelder for interkommunale selskaper som utarbeider årsregnskap og årsberetning etter [kommuneloven](lov/2018-06-22-83) i henhold til [IKS-loven § 27](lov/1999-01-29-6/§27) andre ledd.
+
+### § 3-2. Innholdet i økonomiplanen og årsbudsjettet
+
+Økonomiplanen og årsbudsjettet skal utarbeides i samsvar med [IKS-loven § 20](lov/1999-01-29-6/§20). Økonomiplanen skal deles inn i en driftsdel og en investeringsdel og årsbudsjettet skal deles inn i et driftsbudsjett og et investeringsbudsjett. Økonomiplanen og årsbudsjettet skal utarbeides i samsvar med [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. kapittel 2](forskrift/2019-06-07-714/kap2) og [3](forskrift/2019-06-07-714/kap3), så langt ikke annet følger av [IKS-loven](lov/1999-01-29-6).
+
+Økonomiplanen og årsbudsjettet skal inneholde oppstillinger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-5](forskrift/2019-06-07-714/§5-5) første ledd og [§ 5-6](forskrift/2019-06-07-714/§5-6). Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene skal vise beløp for budsjettåret, det forrige budsjettåret og det sist vedtatte årsregnskapet.
+
+### § 3-3. Innholdet i årsregnskapet
+
+Årsregnskapet skal utarbeides i samsvar med [kommuneloven § 14-6](lov/2018-06-22-83/§14-6) andre til fjerde ledd. Årsregnskapet skal utarbeides i samsvar med [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. kapittel 2](forskrift/2019-06-07-714/kap2) til [4](forskrift/2019-06-07-714/kap4), så langt ikke annet følger av [IKS-loven](lov/1999-01-29-6).
+
+Årsregnskapet skal inneholde oppstillinger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-5](forskrift/2019-06-07-714/§5-5) første ledd, [§ 5-6](forskrift/2019-06-07-714/§5-6) og [§ 5-8](forskrift/2019-06-07-714/§5-8). Oppstillingene kan tilpasses den virksomheten som drives. Oppstillingene av driftsregnskapet og investeringsregnskapet skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet. Oppstillingen av balanseregnskapet skal vise beløp for regnskapsåret og det forrige årsregnskapet.
+
+Årsregnskapet skal inneholde noteopplysninger som nevnt i [forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 5-10](forskrift/2019-06-07-714/§5-10) til [§ 5-15](forskrift/2019-06-07-714/§5-15). Årsregnskapet skal også inneholde noteopplysninger om:Hvor stor andel av selskapets inntekter som kommer fra deltakerne, og hvor stor andel av selskapets inntekter som kommer fra andre.Overføringer fra deltakerne som er foretatt for å dekke inn negativ egenkapital i selskapet.
+
+### § 3-4. Innholdet i årsberetningen
+
+Årsberetningen skal utarbeides i samsvar med [kommuneloven § 14-7](lov/2018-06-22-83/§14-7) andre ledd.
+
+## Kapittel 4. Ikrafttredelse og overgangsregler
+
+### § 4-1. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2024.
+
+Fra samme tidspunkt oppheves [forskrift 17. desember 1999 nr. 1568 om årsbudsjett, årsregnskap og årsberetning for interkommunale selskaper](forskrift/1999-12-17-1568).
+
+### § 4-2. Overgangsregler
+
+Oppstillingene i årsregnskapet for 2023 skal svare til oppstillingene i årsbudsjettet for 2023 slik det følger av [forskrift 17. desember 1999 nr. 1568 om årsbudsjett, årsregnskap og årsberetning for interkommunale selskaper § 2](forskrift/1999-12-17-1568/§2) tredje ledd, [§ 3](forskrift/1999-12-17-1568/§3) første til tredje ledd og [§ 5](forskrift/1999-12-17-1568/§5).

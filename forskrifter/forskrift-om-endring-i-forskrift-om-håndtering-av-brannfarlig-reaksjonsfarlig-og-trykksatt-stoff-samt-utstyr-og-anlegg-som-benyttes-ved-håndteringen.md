@@ -1,0 +1,159 @@
+---
+id: "sf-20260204-0140"
+slug: "forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen"
+type: "forskrift"
+ref_id: "forskrift/2026-02-04-140"
+title: "Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2027-01-01"
+last_change_in_force: "2026-02-20"
+last_updated: null
+xml_hash: "02ad49ebb4b73e113711cea3c959bac27ef74a4392dcc82e8efafe21bb6afc7b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
+
+## I
+
+Forskriften har som formål å verne liv, helse, miljø og materielle verdier mot uhell, ulykker og uønskede tilsiktede hendelser med farlig stoff.
+
+Forskriften regulerer håndtering av farlig stoff og utstyr og anlegg, herunder rørledninger, som benyttes ved håndtering av farlig stoff. Forskriften regulerer prosjektering, konstruksjon, produksjon, omsetning, installasjon, drift, endring, reparasjon, vedlikehold og kontroll av utstyr og anlegg som benyttes ved håndtering av farlig stoff.
+
+For rørledninger som har utgangspunkt til havs gjelder forskriften fra det punkt rørledningen første gang krysser marbakken til fastland eller øy, og rørledninger med utgangspunkt på fastland, også når deler av rørledningen senere krysser fjorder, sund m.m.
+
+Forskriften regulerer lasting, lossing og stasjonær oppbevaring av farlig stoff på skip, herunder omlasting og bunkring fra skip til skip.
+
+- *Farlig stoff:*Brannfarlig stoff: Stoffgruppene som står oppført som brannfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).Reaksjonsfarlig stoff: Stoffgruppene som står oppført som reaksjonsfarlig stoff i [vedlegg 1](forskrift/2009-06-08-602/vedlegg1).
+
+Brannfarlig gass kategori 1A, 1B og 2 skal ikke håndteres i kjeller eller annet rom under terreng eller på loft. Første punktum gjelder ikke for følgende installasjoner:rørføringer,kulde- og varmepumpeanlegg,gassfyrte kjelanlegg og gassfyrte peiser, koblet til utvendig tank, flaskeskap eller tilsvarende, som var installert før 1. januar 2027.
+
+Virksomheter kan likevel håndtere brannfarlig gass kategori 1A, 1B og 2 i rom under terreng dersom risikovurdering viser at håndteringen er akseptabel og håndteringen finner sted i bygg der det ikke befinner seg boliger eller publikumslokaler.
+
+I boenhet kan det håndteres inntil 55 liter brannfarlig gass kategori 1A, 1B og 2 og inntil 10 liter brannfarlig væske kategori 1 og 2.
+
+I garasje, i utvendig bod, båthus eller lignende kan det for personlig bruk håndteres inntil 90 liter brannfarlig gass kategori 1A, 1B og 2 og inntil 50 liter brannfarlig væske kategori 1 og 2.
+
+I lokaler som er tilgjengelig for tredjeperson, som serveringssteder, overnattingssteder, forsamlingslokaler, idrettslokaler, forretninger og lignende kan det håndteres inntil 55 liter brannfarlig gass kategori 1A, 1B og 2.
+
+Håndtering etter første, annet og tredje ledd er kun tillatt dersom:gassbeholdere oppbevares stående og sikres mot å velte,ventil på gassbeholder er beskyttet slik at ventilen ikke kan skades,gasstilførsel er stengt når utstyret ikke er i bruk,gassbeholdere, unntatt mindre engangsbeholdere, er utstyrt med sikkerhetsventil,det ved bytte av gassbeholder påses at utstyr og anlegg er fritt for lekkasjer, ogdet gassforbrukende utstyret er beregnet for innendørs bruk.
+
+I lokaler som er tilgjengelig for tredjeperson, som serveringssteder, overnattingssteder, forsamlingslokaler, idrettslokaler, forretninger og lignende skal det være installert egnet gassdeteksjon der hvor det blir håndtert brannfarlig gass kategori 1A, 1B eller 2.
+
+Den som skal drifte kjelanlegg med ytelse ≥ 0,5 MW skal ha sertifikat for drift av kjelanlegg utstedt av sertifiseringsorgan akkreditert etter NS-EN ISO/IEC 17024:2012. Sertifikat skal fornyes hvert 5. år.
+
+Ved konstruksjon, produksjon, installasjon, endring og reparasjon av utstyr og anlegg som benyttes ved håndtering av farlig stoff skal det gjennomføres kontroll for å påse at utstyr og anlegg er sikkert. Kravet til kontroll gjelder både nytt og brukt utstyr.
+
+Kontroll ved installasjon av følgende utstyr og anlegg skal utføres av akkreditert inspeksjonsorgan før det settes i drift:kjeler som er beregnet for produksjon av damp eller hetvann med temperatur over 110 °C, og hvor produktet av trykk i bar og volum i liter er større enn 3000 og hvor trykket er større enn 0,5 bar overtrykk og volumet er større enn 100 literforbruksanlegg som inneholder mer enn 400 liter giftig gass kategori 1, 2 eller 3, og forbruksanlegg for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet tank, rørledning for distribusjon eller flaskebatteri. Anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 tilknyttet frittliggende ene- og fritidsboliger er likevel unntatt fra krav om bruk av akkreditert inspeksjonsorgan. Unntak gjelder også for anlegg og utstyr for brannfarlig gass kategori 1A, 1B eller 2 som i en begrenset periode befinner seg på stedet i forbindelse med bygg- og anleggsvirksomhet, landbruksvirksomhet, arrangementer eller lignende aktiviteterkuldeanlegg og varmepumpeanlegg med 400 liter eller mer av brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3fylleanlegg for brannfarlig gass kategori 1A, 1B eller 2 eller giftig gass kategori 1, 2 eller 3drivstoffanlegg for brannfarlig gass kategori 1A, 1B eller 2tankanlegg for brannfarlig gass kategori 1A, 1B eller 2, eller giftig gass kategori 1, 2 eller 3deler av biogassanlegg hvor biogassen oppgraderes, komprimeres eller flytendegjøresrørledninger for transport av brannfarlig eller reaksjonsfarlig stoff med driftstrykk høyere enn 16 barprosessanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17)tankanlegg med farlig stoff i virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17).
+
+Med akkreditert inspeksjonsorgan menes i denne paragraf et inspeksjonsorgan som er akkreditert etter NS-EN ISO/IEC 17020:2012 som type A, B eller C.
+
+Eier eller bruker skal sørge for systematisk tilstandskontroll av utstyr og anlegg for å påse at den tekniske tilstanden er tilfredsstillende. Hyppighet og omfang av den systematiske tilstandskontrollen må tilpasses utstyrets og anleggets driftsbetingelser. Kontrollen skal utføres minst hvert 5. år. For utstyr og anlegg i virksomheter med krav til samtykke etter [§ 17](forskrift/2009-06-08-602/§17) kan kontrollintervallet utvides utover 5 år dersom kontrollene gjennomføres i samsvar med et program for risikobasert inspeksjon etter anerkjent norm.
+
+Systematisk tilstandskontroll av utstyr og anlegg som nevnt i annet ledd bokstav a–j skal utføres av akkreditert inspeksjonsorgan som nevnt i tredje ledd.
+
+> Endret ved forskrift [20 feb 2026 nr. 244](forskrift/2026-02-20-244).
+
+Eier eller bruker skal sørge for sikker drift av utstyr og anlegg som benyttes ved håndtering av farlig stoff. Virksomheter skal utarbeide nødvendige sikkerhets- og driftsinstrukser både for normale og unormale driftssituasjoner. Instruksene skal være på norsk og i tillegg på språk som ansatte og andre berørte i virksomheten forstår når disse ikke forstår norsk. Virksomheter skal sørge for at instruksene etterleves.
+
+Eier eller bruker skal sørge for at utstyr og anlegg som benyttes ved håndtering av farlig stoff holdes i forsvarlig stand og vedlikeholdes. Virksomheter skal utarbeide nødvendige vedlikeholdsinstrukser på norsk og i tillegg på språk som ansatte og andre berørte i virksomheten forstår når disse ikke forstår norsk. Virksomheter skal sørge for at instruksene etterleves.
+
+Forbruksanlegg for brannfarlig gass kategori 1A, 1B eller 2 som er tilknyttet bolig eller fritidsbolig skal vedlikeholdes årlig.
+
+Utstyr skal ha formålstjenlig og varig merking. Merkingen skal identifisere utstyret og fareegenskapene til stoffene i utstyret. Ved identifikasjon av fareegenskapene skal det benyttes farepiktogram i samsvar med [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622) eller skilt med tilsvarende faresymbol.
+
+Nedgravde rørledninger skal markeres tydelig og varig.
+
+Krav til skilting og merking omfatter ikke håndtering av mindre mengder farlig stoff for personlig bruk.
+
+Enhver som oppbevarer farlig stoff i et anlegg eller transporterer farlig stoff i rørledning i mengde lik eller større enn mengdene fastsatt i vedlegg 2, og enhver som bunkrer skip med brannfarlig gass kategori 1A, 1B eller 2 skal sende melding til Direktoratet for samfunnssikkerhet og beredskap. Melding skal sendes i rimelig tid før utstyr og anlegg tas i bruk, eller bunkring skal gjennomføres. Dersom det skal bygges nytt anlegg som skal oppbevare farlig stoff eller transportere farlig stoff i rørledning i mengde lik eller større enn mengdene nevnt i vedlegg 2, skal melding sendes i rimelig tid før bygging påbegynnes.
+
+Ved endringer skal eksisterende innmelding endres. Ved opphør skal eksisterende innmelding settes som opphørt.
+
+Melding skal sendes elektronisk i den form Direktoratet for samfunnssikkerhet og beredskap bestemmer. Bunkring av skip med brannfarlig gass kategori 1A, 1B eller 2, og oppbevaring av farlig stoff, er unntatt fra kravet om at meldingen skal sendes elektronisk når bunkringen eller oppbevaringen er skjermingsverdig etter [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven)](lov/2018-06-01-24).
+
+Den som driver handel med farlig stoff, skal ikke levere farlig stoff til anlegg med tank før anlegget er meldt inn i tråd med bestemmelsene over. Der det er levert farlig stoff til anlegget før 1. januar 2027, gjelder plikten til å kontrollere at anlegget er meldt inn fra første leveranse etter denne dato.
+
+Virksomheten skal kartlegge farer og problemer med hensyn på håndtering av farlig stoff og på denne bakgrunn vurdere risiko. Vurderingen skal inkludere interne og eksterne forhold samt uønskede tilsiktede handlinger. Vurderingen skal gjennomgås regelmessig og om nødvendig oppdateres, og i tillegg alltid oppdateres ved endringer som påvirker risikoen ved anlegget.
+
+Virksomheter som omfattes av [forskrift 3. juni 2016 nr. 569 om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)](forskrift/2016-06-03-569) skal i tillegg beregne og presentere virksomhetens risiko på omgivelsene i form av risikokonturer. Dersom virksomhetens risikokonturer er overlappende med risikokonturer fra andre storulykkevirksomheter, skal det utarbeides felles risikokonturer.
+
+Virksomheter som er pliktig til å utarbeide risikokonturer, skal på forespørsel legge disse frem for kommunen.
+
+Virksomheter skal som et minimum iverksette følgende forebyggende sikkerhetstiltak:
+
+1. Bygning, container, telt eller annet lukket rom der farlig stoff håndteres skal ha effektiv ventilasjon som sikrer mot brann, eksplosjon og annen ulykke.
+
+1. Bygning, rom, container mv. som er klassifisert som eksplosjonsfarlig område skal ha avlastningsflate(r) som er svekket i forhold til bygningskonstruksjonen for øvrig, og som skal fungere som trykkavlastning dersom eksplosjon inntreffer. Avlastet trykk skal ledes bort i sikker retning.
+
+1. Oppføring eller vesentlig endring av bygg eller anlegg der farlig stoff skal håndteres skal prosjekteres.
+
+1. Prosessikrings-, nødavstengnings- og nødstrømsystem tilpasset anleggets kompleksitet skal installeres dersom det er nødvendig for å forhindre at unormale tilstander utvikler seg til faresituasjoner.
+
+1. Det skal utarbeides arealdisponeringsplan som minimum viser plassering av farlig stoff og utstyr og anlegg for håndtering av farlig stoff, adkomstveier, internt trafikkmønster, inngjerding, uttak for slokkevann og annet slokkeutstyr.
+
+1. Det skal ikke føres brannfarlig gass med uredusert trykk inn i bygning. Der det finnes anerkjente normer for innføring av brannfarlig gass i bygning skal disse legges til grunn.
+
+1. Nedgravde rør for brannfarlig gass skal sammenføyes ved bruk av sveisede forbindelser.
+
+Virksomheter skal som et minimum iverksette følgende forebyggende tiltak for rørledning for transport og distribusjon av brannfarlig stoff:
+
+1. Plan for rørledninger som viser trasé skal utarbeides. Basert på risikovurdering skal planen omfatte arealmessige begrensninger i området rundt rørledningen.
+
+1. Rørledninger i materialer som kan korrodere, skal utstyres med korrosjonsbeskyttelse og korrosjonsovervåking som muliggjør sikker drift i hele levetiden.
+
+1. Rørledninger med driftstrykk over 16 bar skal utstyres med sender- og mottakermuligheter for rense- og inspeksjonsverktøy. Sluser for sending og mottak skal designes slik at de ikke kan åpnes under trykk.
+
+1. Umiddelbart etter førstegangs landfall skal det for rørledninger med driftstrykk over 16 bar installeres en nødavstengingsventil.
+
+Virksomhet som innehar samtykke etter [§ 17](forskrift/2009-06-08-602/§17) er ansvarlig for at levering av brannfarlig gass skjer på en sikker måte og i tråd med [brann- og eksplosjonsvernloven](lov/2002-06-14-20) og forskrifter fastsatt i medhold av denne.
+
+Bunkring av brannfarlig gass til skip skal utføres i samsvar med anerkjent norm når slik finnes. I tillegg skal følgende minimumskrav overholdes:Driftsinstruks for bunkringsoperasjonen skal være samkjørt med instruks for mottakende skip. Ansvarsforhold mellom leverandør og mottaker skal være avklart både for normal drift og for unormale hendelser. Driftsinstruksen skal inneholde en sjekkliste for bunkringsoperasjonen. Sjekklisten skal som et minimum dokumentere at punkt c) til og med n) nedenfor er oppfylt.Det skal utpekes en stedlig ansvarlig person for bunkringsoperasjonen. Det skal fremgå av sjekklisten hvilken virksomhet som har samtykke til operasjonen og hvem som er ansvarlig person for bunkringsoperasjonen.Det skal finnes minst én vindanviser på stedet. Vindanviser må være synlig for bunkringspersonell, fra skipets/skipenes bro(er) og for beredskapspersonell når de ankommer stedet.Det skal være tilgjengelig minst to plattformer for muntlig kommunikasjon mellom leverandør og mottaker. Arbeidsspråk må avtales og beherskes av de involverte.Ansvarlig person for bunkringsoperasjonen skal forsikre seg om at system for å hindre overfylling av fartøyets bunkerstanker fungerer som forutsatt.Det skal fastsettes kriterier for når bunkring ikke skal gjennomføres pga. vind, bølger, sikt, tordenvær el. på bunkringslokasjonen. Disse kriteriene må være omforent på land- og sjøside, og skal fremkomme av driftsinstruks for bunkringsoperasjonen. Bunkring skal ikke igangsettes, eventuelt avbrytes, dersom fastsatte grenseverdier overstiges, og i alle tilfeller ved vindstyrke 20 m/s (39 knop) eller mer.Det skal sikres at det ikke er elektrisk potensialforskjell mellom leverandør og mottaker under bunkringsoperasjonen.Før bunkring påbegynnes skal det opprettes et indre sikkerhetsområde rundt bunkringspunktet. I indre sikkerhetsområde skal det ikke foregå annen aktivitet eller befinne seg personer som ikke er tilknyttet bunkringsoperasjonen. Området skal sperres av. Avsperring og restriksjoner skal opprettholdes til bunkringsoperasjonen er avsluttet.Indre sikkerhetsområde skal fastsettes i tråd med anerkjent norm. For bunkring av brannfarlig gass der det ikke finnes anerkjent norm for utstrekning av indre sikkerhetsområde, skal største troverdige lekkasje legges til grunn for fastsettelse av området. Områdets utstrekning settes til største av følgende:avstand til nedre brennbarhetsgrense (LFL)avstand til der dødelighet som følge av brannbelastning er 1 % for scenariets varighetavstand til der dødelighet som følge av innånding av giftig gass er 1 % for scenariets varighet.Det skal ikke finnes tennkilder i indre sikkerhetsområde. Unntatt er operasjoner der områdets utstrekning fastsettes etter 2 eller 3, hvor tennkilder tillates utenfor LFL. Det gjøres også unntak for operasjoner der gassen leveres fra tankkjøretøy, hvor det tillates at tankkjøretøyet befinner seg i indre sikkerhetsområde.Før bunkring skal det opprettes et ytre sikkerhetsområde der ansvarlig person for bunkringsoperasjonen skal ha oversikt over andre aktiviteter under bunkringen. Tredjeperson og passerende fartøy tillates ikke i ytre sikkerhetsområde. Ytre sikkerhetsområde skal fastsettes på bakgrunn av lokale forhold som kan påvirke bunkringsoperasjonen, og skal som et minimum strekke seg 20 meter utenfor indre sikkerhetsområde.Bunkringssystemet skal være utstyrt med innretning som på en kontrollert måte frigjør mottakende skip fra leverandør ved stor belastning på bunkringsslangen, og som umiddelbart stanser utslipp av brannfarlig gass.Bunkringssystemet skal være utstyrt med et automatisk nødavstengningssystem som setter anlegget hos både mottakende skip og leverandør i sikker tilstand når det er utløst. Hurtiglukkende nødavstengningsventiler skal finnes hos både leverandør og mottaker. Ved feil på systemet, skal anlegget gå til sikker tilstand.Når bunkring skjer fra tankkjøretøy skal kjøretøyet oppstilles slik at det kan kjøre uhindret bort fra fylleplassen uten å måtte rygge.Bunkring fra land skal overvåkes visuelt med fysisk tilstedeværelse fra egnet sted på kaien. Bunkring fra skip skal overvåkes visuelt med fysisk tilstedeværelse fra egnet sted på dekk.Det skal benyttes tørrbrytende hurtigkobling i koblingen mellom bunkringsslange og skip og i koblingen mellom bunkringsslange og tankbil.
+
+Virksomheter somhåndterer farlig stoff i mengder større eller lik det som fremkommer av [vedlegg 1](forskrift/2009-06-08-602/vedlegg1), del 1 kolonne 2 og del 2 kolonne 2 i [forskrift 3. juni 2016 nr. 569 om tiltak for å forebygge og begrense konsekvensene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkeforskriften)](forskrift/2016-06-03-569),omlaster farlig stoff fra skip til skip,bunkrer eller på annen måte omtapper brannfarlig gass kategori 1A, 1B eller 2 til skip for bruk om bord på det mottakende skip,transporterer brann- eller reaksjonsfarlig stoff i rørledninger med driftstrykk høyere enn 16 bar, ellerhar ansvar for fyllestasjoner for hydrogen til bruk som drivstoff på kjøretøy,skal innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap i rimelig tid før håndtering av farlig stoff påbegynnes.
+
+Samtykke som nevnt i første ledd bokstav c er ikke begrenset til en bestemt lokalitet.
+
+Ved eierskifter skal virksomheter som nevnt i første ledd og virksomheter som har fått samtykke etter femte ledd, informere Direktoratet for samfunnssikkerhet og beredskap om dette så snart som mulig og senest innen en måned etter at eierskiftet er gjennomført.
+
+Nabovirksomheter som hver for seg håndterer farlig stoff og der risikovurderingen etter [§ 14](forskrift/2009-06-08-602/§14) viser at en hendelse kan få konsekvens for nabovirksomhet, skal utveksle informasjon og samordne tiltak slik at sikkerheten blir ivaretatt.
+
+Uhell og ulykker i forbindelse med håndtering av farlig stoff skal snarest mulig og senest innen tre virkedager rapporteres til Direktoratet for samfunnssikkerhet og beredskap. Rapporten skal inneholde en beskrivelse av hendelsen, analyse av årsakene til hendelsen og opplyse om hvilke tiltak virksomheten vil iverksette for å forhindre slike hendelser i fremtiden. Dersom ikke alle opplysninger er kjent etter tre dager kan den første rapporteringen være av foreløpig karakter og endelig rapport ettersendes snarest mulig.
+
+Kommunen fører tilsyn med at bestemmelsene i denne forskriften blir overholdt. Kommunen kan likevel ikke føre tilsyn etter denne forskrift medvirksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17), ogmilitære virksomheter, herunder anlegg og lagre.
+
+Direktoratet for samfunnssikkerhet og beredskap fører tilsyn med at bestemmelsene i denne forskrift blir overholdt av virksomheter som er samtykkepliktig etter [§ 17](forskrift/2009-06-08-602/§17) og av militære virksomheter, herunder anlegg og lagre.
+
+Direktoratet kan i tillegg til kommunen føre tilsyn med at personer og andre virksomheter enn de som er samtykkepliktige etter [§ 17](forskrift/2009-06-08-602/§17) overholder bestemmelsene i denne forskriften nårdirektoratet anser at dette er nødvendig for å følge opp hendelser eller bekymringsmeldinger, ellerdirektoratet anser at dette er nødvendig for å ha oversikt over risiko knyttet til håndtering av farlig stoff.
+
+Ved overtredelse av forskriften eller vedtak truffet i medhold av denne, gjelder bestemmelsene i [lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver § 37](lov/2002-06-14-20/§37) til [§ 40](lov/2002-06-14-20/§40) og [§ 42](lov/2002-06-14-20/§42) tilsvarende.
+
+Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap kan påklages til Justis- og beredskapsdepartementet.
+
+Tolv måneder etter denne forskrifts ikrafttredelse skal det kunne dokumenteres at krav etter denne forskrift utover det som fulgte av de etter [§ 26 annet ledd](forskrift/2009-06-08-602/§26/ledd/2) opphevede forskrifter er oppfylt. Krav om innhenting av samtykke etter [§ 17](forskrift/2009-06-08-602/§17) gjelder kun for virksomheter som er etablert etter 8. juni 2009.
+
+Virksomheter som plikter å utarbeide risikokonturer etter [§ 14](forskrift/2009-06-08-602/§14), skal gjøre dette innen to år fra 1. januar 2027. Dersom en virksomhet før det er gått to år gjør vesentlige endringer som utløser plikt til å innhente samtykke, skal likevel virksomheten utarbeide risikokonturer før vedtak om samtykke kan treffes. Det samme gjelder søknader om samtykke til nye anlegg.
+
+Stoffgruppene angitt i tabellen nedenfor er omfattet av definisjonen av farlig stoff i henhold til § 4.
+
+Der tabellen ikke angir kriterier for klassifisering er stoffgruppene sammenfallende med tilsvarende fareklasser i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622).
+
+Stoffgruppene gjelder både stoffer og stoffblandinger selv om det visse steder i tabellen kun er brukt ordet «stoff».
+
+Alkoholholdig drikk etter [lov 2. juni 1989 nr. 27](lov/1989-06-02-27) om alkoholholdig drikk som er emballert til forbruker er ikke omfattet av forskriften.*Stoffgruppe**Kriterier for klassifisering**Trykksatt stoff*Brannfarlig gass, kategori 1A og 1BGass som ved 20 °C og standard trykk på 101,3 kPa:
+a) kan antennes i en blanding på 13 % eller mindre med luft; eller
+b) har et eksplosjonsområde i luft på minst 12 prosentpoeng uavhengig av nedre eksplosjonsgrense,
+tilsvarende GHS kategori 1.Brannfarlig gass, kategori 2Gass som har et eksplosjonsområde i luft ved 20 °C og standard trykk på 101,3 kPa og ikke er brannfarlig gass, kategori 1.Giftig gass, kategori 1LC50 ≤ 100 ppmV, tilsvarende GHS kategori 1.Giftig gass, kategori 2100 < LC50 ≤ 500 ppmV, tilsvarende GHS kategori 2.Giftig gass, kategori 3500 < LC50 ≤ 2500 ppmV, tilsvarende GHS kategori 3.Oksiderende gassGass som, generelt ved avgivelse av oksygen, kan forårsake eller bidra til forbrenning av andre materialer i større grad enn luft kan, tilsvarende GHS kategori 1.Brannfarlig aerosolbeholder, kategori 1Brannfarlig aerosolbeholder som ved prøving medfører tilordning til GHS kategori 1.Brannfarlig aerosolbeholder, kategori 2Brannfarlig aerosolbeholder som ved prøving medfører tilordning til GHS kategori 2*Brannfarlig stoff*Brannfarlige gasser, kategori 1ABrannfarlige gasser, kategori 1BBrannfarlige gasser, kategori 2Oksiderende gasser, kategori 1Brannfarlige aerosoler, kategori 1Brannfarlige aerosoler, kategori 2Brannfarlige væsker, kategori 1Brannfarlige væsker, kategori 2Brannfarlige væsker, kategori 3Gassoljer, diesel og lette fyringsoljerFlammepunkt ≥ 55 °C og ≤ 100 °CBrannfarlige faste stoffer, kategori 1Brannfarlige faste stoffer, kategori 2Stoffer eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 1Stoffer eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 2Stoffer eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 3Selvantennende væsker, kategori 1Selvantennende faste stoffer, kategori 1Selvopphetende stoffer og stoffblandinger, kategori 1Selvopphetende stoffer og stoffblandinger, kategori 2Oksiderende væsker, kategori 1Oksiderende væsker, kategori 2Oksiderende væsker, kategori 3Oksiderende faste stoffer, kategori 1Oksiderende faste stoffer, kategori 2Oksiderende faste stoffer, kategori 3Selvreaktive stoffer og stoffblandinger (type C, D, E eller F)Organiske peroksider (type C, D, E eller F)*Reaksjonsfarlig stoff*Stoff som utvikler giftig gass i kontakt med vannStoffer eller stoffblandinger med faresetning EUH029Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 1Stoffer med fareklasse akutt giftighet kategori 1, med faresetning H330Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 2Stoffer med fareklasse akutt giftighet kategori 2, med faresetning H330Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 3Stoffer med fareklasse akutt giftighet kategori 3, med faresetning H331
+
+Dersom et farlig stoff har flere klassifiseringer, skal klassifiseringen med lavest innmeldingsgrense velges for innmelding.*Stoffgruppe**Mengde**Trykksatt stoff*Brannfarlig gass, kategori 1A og 1B og 20,4 m3Oksiderende gass4,0 m3Giftig gass, kategori 1, 2 og 30,4 m3Brannfarlig aerosolbeholder, kategori 1 og 23,0 m3Vanndamp eller hetvann under trykk**Brannfarlig stoff*Brannfarlige gasser, kategori 1A og 1B og 20,4 m3Oksiderende gasser, kategori 14,0 m3Brannfarlige aerosoler, kategori 1 og 23,0 m3Brannfarlige væsker, kategori 1 og 26,0 m3Brannfarlige væsker, kategori 312,0 m3Gassoljer, diesel og lette fyringsoljer100 m3Brannfarlige faste stoffer, kategori 1 og 212,0 tonnStoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 1, fast3,0 tonnStoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 1, flytende3,0 m3Stoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 2, fast6,0 tonnStoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 2, flytende6,0 m3Stoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 3, fast12,0 tonnStoff eller stoffblandinger som ved kontakt med vann utvikler brannfarlige gasser, kategori 3, flytende12,0 m3Selvantennende væsker, kategori 11,0 m3Selvantennende faste stoffer, kategori 11 tonnSelvopphetende stoffer og stoffblandinger, kategori 13,0 tonnSelvopphetende stoffer og stoffblandinger, kategori 212,0 tonnOksiderende faste stoffer, kategori 13,0 tonnOksiderende faste stoffer, kategori 2 og 36,0 tonnOksiderende væsker, kategori 13,0 m3Oksiderende væsker, kategori 2 og 36,0 m3Selvreaktive stoffer og stoffblandinger (type C, D, E eller F), fast3,0 tonnSelvreaktive stoffer og stoffblandinger (type C, D, E eller F), flytende3,0 m3Organiske peroksider (type C, D, E eller F), fast3,0 tonnOrganiske peroksider (type C, D, E eller F), flytende3,0 m3*Reaksjonsfarlig stoff*Stoff som utvikler giftig gass i kontakt med vann, fast1 tonnStoff som utvikler giftig gass i kontakt med vann, flytende1,0 m3Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 1, 2 og 3, gass0,4 m3Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 1, fast3,0 tonnGiftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 1, flytende3,0 m3Giftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 2 og 3, fast6,0 tonnGiftig stoff med innåndingsfare av gass, damp, støv eller tåke kategori 2 og 3, flytende6,0 m3
+
+## II
+
+Forskriften trer i kraft 1. januar 2027.

@@ -1,0 +1,52 @@
+---
+id: "sf-20080704-0791"
+slug: "forskrift-om-merking-av-rein-utenfor-beite"
+type: "forskrift"
+ref_id: "forskrift/2008-07-04-791"
+title: "Forskrift om merking av rein utenfor det samiske reinbeiteområdet"
+short_title: "Forskrift om merking av rein utenfor beite"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2008-07-04"
+last_change_in_force: "2014-09-03"
+last_updated: null
+xml_hash: "2e613b2eb25f297cb6a1b0e46edd06cf40f9dd8916554c5ffe940ba47b15ecaa"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om merking av rein utenfor det samiske reinbeiteområdet
+
+## § 1.
+
+Denne forskriften gjelder reindrift som utøves utenfor det samiske reinbeiteområdet på grunnlag av tillatelse i henhold til [reindriftsloven § 8](lov/2007-06-15-40/§8).
+
+Formålet med merking av rein er å gi grunnlag for bestemmelse av eiendomsretten til reinen og en velordnet reindrift utenfor det samiske reinbeiteområdet.
+
+## § 2.
+
+All rein skal merkes i samsvar med § 34, § 35 og § 38 i [reindriftsloven.](lov/2007-06-15-40/§38)
+
+Departementet kan i særlige tilfelle gi fritak fra plikten til å merke rein om dette finnes forenlig med ordnet drift og andre berørte interesser.
+
+## § 3.
+
+Rein født tidligere år og som etter 31. mai finnes uten lovlig merke, skal slaktes og utbyttet av salget overføres Staten v/Landbruksdirektoratet.
+
+> Endret ved [forskrifter 18 des 2013 nr. 1598](forskrift/2013-12-18-1598) (i kraft 1 jan 2014), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 4.
+
+Merkenemnda for Sør-Trøndelag/Hedmark reinbeiteområde er merkenemnd for reindrift utenfor det samiske reinbeiteområdet. Ved behandling av slike saker blir merkenemnda utvidet med en representant fra Oppland fylke.
+
+## § 5.
+
+Merkenemnda kan i særlige tilfelle dispensere fra disse bestemmelser, jf. dog [§ 2](forskrift/2008-07-04-791/§2) annet ledd.
+
+## § 6.
+
+Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift 16. november 2007 nr. 1257](forskrift/2007-11-16-1257) om fritak fra plikten til å merke rein utenfor det samiske reinbeiteområdet.

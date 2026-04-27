@@ -1,0 +1,170 @@
+---
+id: "sf-19990528-0654"
+slug: "forskrift-om-årsregnskap-for-verdipapirfond"
+type: "forskrift"
+ref_id: "forskrift/1999-05-28-654"
+title: "Forskrift om årsregnskap m.m. for verdipapirfond"
+short_title: "Forskrift om årsregnskap for verdipapirfond"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1999-07-01"
+last_change_in_force: "2024-11-01"
+last_updated: "2022-02-08"
+xml_hash: "37f344e65c89b260ec6290b7f3d3b9da22d7b8f259f7b7c39e02c2c49632a1e1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om årsregnskap m.m. for verdipapirfond
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+Forskriften gjelder for verdipapirfond, jf. [lov 25. november 2011 nr. 44](lov/2011-11-25-44) om verdipapirfond [§ 1-2](lov/2011-11-25-44/§1-2) første ledd. For spesialfond som nevnt i [verdipapirfondloven § 1-2](lov/2011-11-25-44/§1-2) første ledd nr. 6 gjelder i tillegg til de øvrige bestemmelsene i forskriften her, følgende bestemmelser:Det skal gis opplysninger i noter om de lån som er opptatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike lån.Det skal gis opplysninger i noter om de salg av finansielle instrumenter fondet ikke eier som er foretatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike salg.
+
+Regnskapslovens bestemmelser om små foretak gjelder ikke for verdipapirfond.
+
+Plikter som er pålagt den regnskapspliktige i [regnskapsloven kapittel 2](lov/1998-07-17-56/kap2), [§ 3-1](lov/1998-07-17-56/§3-1), [§ 3-5](lov/1998-07-17-56/§3-5) og [kapittel 8](lov/1998-07-17-56/kap8) påhviler forvaltningsselskapet for verdipapirfondet, jf. [lov om verdipapirfond § 2-1](lov/2011-11-25-44/§2-1) første ledd, [§ 2-4](lov/2011-11-25-44/§2-4) første ledd og [§ 8-1](lov/2011-11-25-44/§8-1) første ledd nr. 1.
+
+> Endret ved [forskrifter 26 mars 2010 nr. 466](forskrift/2010-03-26-466) (i kraft 1 juli 2010), [21 des 2011 nr. 1467](forskrift/2011-12-21-1467) (i kraft 1 jan 2012).
+
+## Kapittel 2. Årsregnskap og årsberetning
+
+### § 2-1. Fastsettelse av årsregnskap og årsberetning
+
+Årsregnskapet og årsberetningen skal fastsettes av forvaltningsselskapets styre senest fire måneder etter regnskapsårets slutt.
+
+### § 2-1a. Rettvisende bilde
+
+Hvis anvendelsen av en bestemmelse i [kapittel 3](forskrift/1999-05-28-654/kap3) til 5 i denne forskrift i særlige unntakstilfeller er uforenlig med plikten til å gi et rettvisende bilde av årsregnskapet, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i [regnskapsloven § 3-2a](lov/1998-07-17-56/§3-2a) første ledd.
+
+> Tilføyd ved [forskrift 20 des 2005 nr. 1599](forskrift/2005-12-20-1599) (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere).
+
+### § 2-2. Årsberetningens innhold
+
+I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av [regnskapsloven § 2-2](lov/1998-07-17-56/§2-2):Det skal opplyses om hvilket forvaltningsselskap som er forretningsfører og hvem som er depotmottaker for verdipapirfondet.Det skal redegjøres for den finansielle risikoen som har vært knyttet til virksomheten i regnskapsåret. Det skal redegjøres for verdipapirfondets risikostyring og organisering av denne.Det skal gis informasjon om verdiutviklingen for en andel i perioden. Det skal kommenteres særskilt om verdiutviklingen står i forhold til verdipapirfondets risikoprofil. Dersom verdipapirfondet har andelsklasser skal det redegjøres for verdiutviklingen for en andel i hver av andelsklassene.Det skal redegjøres for om det har vært ekstraordinært store innløsninger i perioden og håndteringen av disse. Dersom ekstraordinært store innløsninger har hatt innvirkning på andelenes verdiutvikling skal dette kommenteres.
+
+Opplysninger om forutsetningen om fortsatt drift etter [regnskapsloven § 2-2 åttende ledd](lov/1998-07-17-56/§2-2/ledd/8) nr. 2–4, skal også gis om forvaltningsselskapet for verdipapirfondet.
+
+> Endret ved [forskrifter 20 des 2005 nr. 1599](forskrift/2005-12-20-1599) (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere), [21 des 2011 nr. 1467](forskrift/2011-12-21-1467) (i kraft 1 jan 2012), [1 nov 2024 nr. 2614](forskrift/2024-11-01-2614).
+
+## Kapittel 3. Vurderingsregler
+
+### § 3-1. Finansielle instrumenter
+
+[Regnskapsloven § 5-8](lov/1998-07-17-56/§5-8) gjelder ikke. Finansielle instrumenter (fondets verdipapirportefølje) skal vurderes til virkelig verdi.
+
+## Kapittel 4. Resultatregnskap og balanse
+
+### § 4-1. Resultatregnskap
+
+[Regnskapsloven § 6-1](lov/1998-07-17-56/§6-1) gjelder ikke. Resultatregnskapet skal ha følgende oppstillingsplan:Porteføljeinntekter og porteføljekostnaderRenteinntekterUtbytteGevinst/tap ved realisasjonNetto endring urealiserte kursgevinster/kurstapAndre porteføljeinntekterI. PorteføljeresultatForvaltningsinntekter og forvaltningskostnader mvProvisjonsinntekter fra salg og innløsning av andelerKostnader ved salg og innløsning av andelerForvaltningshonorarAndre inntekterAndre kostnaderII. ForvaltningsresultatIII. Resultat før skattekostnadSkattekostnadÅrsresultat
+
+I tilknytning til resultatregnskapet skal det gis følgende opplysninger om anvendelse av årsresultatet/dekning av tap:Netto utdelt til andelseiere i åretAvsatt til utdeling til andelseiereOverført til/fra opptjent egenkapital
+
+### § 4-2. Balanse
+
+[Regnskapsloven § 6-2](lov/1998-07-17-56/§6-2) gjelder ikke. Balansen skal ha følgende oppstillingsplan:EIENDELERFondets verdipapirporteføljeFordringerOpptjente, ikke mottatte inntekterAndre fordringerBankinnskuddEGENKAPITALInnskutt egenkapitalAndelskapital til pålydendeOverkurs/underkursOpptjent egenkapitalGJELDAvsatt til utdeling til andelseiereAnnen gjeld
+
+Verdipapirporteføljen skal spesifiseres på de ulike kategorier finansielle instrumenter.
+
+Det skal i tilknytning til balansen opplyses om garantiforpliktelser.
+
+[Regnskapsloven § 6-3](lov/1998-07-17-56/§6-3) første ledd gjelder slik at også post C II skal deles opp dersom verdipapirfondets forhold tilsier det.
+
+### § 4-3. Ingen kontantstrømoppstilling
+
+[Regnskapsloven § 6-4](lov/1998-07-17-56/§6-4) gjelder ikke.
+
+## Kapittel 5. Noteopplysninger
+
+### § 5-1. Opplysningsplikt
+
+[Regnskapsloven kapittel 7](lov/1998-07-17-56/kap7) om noteopplysninger gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger som nevnt i dette kapittel kan utelates når de ikke er av betydning for å bedømme verdipapirfondets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i [§§ 5-3](forskrift/1999-05-28-654/§5-3) og [5-9](forskrift/1999-05-28-654/§5-9).
+
+### § 5-1a. Rettvisende bilde
+
+Hvis anvendelsen av bestemmelsene i regnskapsloven og denne forskrift ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i [regnskapsloven § 3-2a](lov/1998-07-17-56/§3-2a) første ledd, skal det gis tilleggsopplysninger.
+
+Dersom verdipapirfondet er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.
+
+Ethvert fravik som nevnt i [§ 2-1a](forskrift/1999-05-28-654/§2-1a) i denne forskrift skal angis. [Regnskapsloven § 7-1](lov/1998-07-17-56/§7-1) sjette ledd annet punktum gjelder tilsvarende.
+
+> Tilføyd ved [forskrift 20 des 2005 nr. 1599](forskrift/2005-12-20-1599) (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere), endret ved [forskrift 20 des 2011 nr. 1422](forskrift/2011-12-20-1422) (fom regnskapsår påbegynt 1 jan 2011 eller senere).
+
+### § 5-2. Regnskapsprinsipper
+
+Opplysninger om anvendte regnskapsprinsipper etter [regnskapsloven § 7-2](lov/1998-07-17-56/§7-2) skal minst omfatte følgende opplysninger:Prinsippene for regnskapsmessig behandling av finansielle instrumenter, herunder spesielt regnskapsmessig behandling av finansielle derivater.Prinsippene for fastsettelse av virkelig verdi, herunder om beregning av virkelig verdi bygger på observerbare markedsverdier eller om den er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.Prinsippene for regnskapsmessig behandling av transaksjonskostnader.Prinsippene for regnskapsmessig behandling av utdelinger til andelseierne.
+
+### § 5-3. Virkningen av feil i tidligere årsregnskap
+
+Opplysninger etter [regnskapsloven § 7-3](lov/1998-07-17-56/§7-3) skal omfatte opplysninger om konsekvensen for andelseierne av feil i tidligere årsregnskap og korrigering av slike feil.
+
+### § 5-4. Finansiell markedsrisiko
+
+Verdipapirfond skal gi opplysninger som nevnt i [regnskapsloven § 7-5](lov/1998-07-17-56/§7-5).
+
+### § 5-5. Aksjer, andeler og rentebærende verdipapirer
+
+[Regnskapsloven §§ 7-17](lov/1998-07-17-56/§7-17), [7-18](lov/1998-07-17-56/§7-18) og [7-20](lov/1998-07-17-56/§7-20) gjelder ikke. Aksjer, andeler og rentebærende verdipapirer skal spesifiseres fordelt på de børser eller markeder verdipapiret omsettes på. Spesifikasjonen skal vise:selskap/utstederpålydende/antall aksjervalutaanskaffelseskostvirkelig verdiurealisert gevinst/taptegningsrettigheterverdipapirets prosentvise andel av verdipapirfondets totale forvaltningskapitalfor aksjer og andeler: næring og eierandel i selskapetfor rentebærende papirer: risikoklasse
+
+For rentebærende verdipapirer skal det opplyses om rentereguleringstidspunkter og gjennomsnittlig effektiv rente, samt hvordan denne er beregnet.
+
+### § 5-6. Finansielle derivater
+
+Det skal gis en beskrivelse av de finansielle derivatene som er benyttet gjennom året. Det skal redegjøres for spesielle risikofaktorer som er knyttet til de enkelte typer av finansielle derivater.
+
+Det skal gis opplysninger om nominelt beløp og virkelig verdi per årsslutt for henholdsvis renterelaterte derivater, valutarelaterte derivater, egenkapitalrelaterte derivater samt andre finansielle derivater. Dersom nominelt beløp ikke er representativt for aktiviteten gjennom året skal gjennomsnittlig nominelt beløp for året oppgis. Virkningen av motregning, jf. [verdipapirhandelloven kapittel 14](lov/2007-06-29-75/kap14), skal fremkomme. Det skal redegjøres for definisjon av nominelt beløp.
+
+> Endret ved [forskrift 29 juni 2007 nr. 876](forskrift/2007-06-29-876) (i kraft 1 nov 2007).
+
+### § 5-7. Verdipapirporteføljens omløpshastighet mv
+
+Omløpshastigheten på fondets verdipapirportefølje skal oppgis med beskrivelse av beregningsmetode.
+
+Årets transaksjonskostnader i forbindelse med kjøp og salg av finansielle instrumenter skal spesifiseres.
+
+### § 5-8. Egenkapital
+
+[Regnskapsloven § 7-25](lov/1998-07-17-56/§7-25) annet punktum gjelder ikke.
+
+Opplysninger om endringer i egenkapitalen i løpet av regnskapsåret, skal minst angi årsresultat, utdelinger til andelseierne, økning i egenkapital ved utstedelse av andeler og reduksjon i egenkapital ved innløsning av andeler.
+
+### § 5-9. Andeler og andelsklasser
+
+Det skal opplyses om antall utstedte andeler i verdipapirfondet. Dersom verdipapirfondet har andelsklasser skal det opplyses om antall andelsklasser, hva som kjennetegner den enkelte andelsklasse og antall utstedte andeler i hver andelsklasse.
+
+Det skal opplyses om størrelsen på innløsningskursen per andel med fradrag av innløsningskostnader ved regnskapsårets slutt og hvordan innløsningskursen er beregnet. Det skal gis tilsvarende opplysninger for de to siste regnskapsår.
+
+Det skal gis opplysninger om eventuelle særskilte avtaler som er inngått med større andelseiere med hensyn til begrensing i verdipapirfondets plikt til innløsning.
+
+> Endret ved [forskrift 21 des 2011 nr. 1467](forskrift/2011-12-21-1467) (i kraft 1 jan 2012).
+
+### § 5-10. Provisjonsinntekter fra salg og innløsning av andeler
+
+Det skal opplyses om grunnlaget for beregning av provisjonsinntekter fra salg og innløsning av andeler i verdipapirfondet og hvilken prosentsats som benyttes, samt hvilken andel av salgs- og innløsningsprovisjonen som tilfaller verdipapirfondet.
+
+### § 5-11. Kostnader ved salg og innløsning av andeler
+
+Det skal opplyses om grunnlaget for beregning av den godtgjørelse som depotmottaker har belastet verdipapirfondet og hvilken prosentsats som benyttes.
+
+### § 5-12. Forvaltningshonorar
+
+Det skal opplyses om grunnlaget for beregning av den godtgjørelse som forvaltningsselskapet har belastet verdipapirfondet og hvilken prosentsats som benyttes. I tillegg skal det opplyses om hvilke prosentsatser som har blitt belastet henholdsvis fondet og de enkelte verdipapirfondene som fondet eventuelt har plassert sine midler i.
+
+> Endret ved [forskrift 13 aug 2003 nr. 1047](forskrift/2003-08-13-1047).
+
+### § 5-13. Andre porteføljeinntekter, andre inntekter og andre kostnader
+
+Det skal opplyses om innholdet i postene andre porteføljeinntekter, andre inntekter og andre kostnader.
+
+## Kapittel 6. Avsluttende bestemmelser
+
+### § 6-1. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. juli 1999. Fra samme tidspunkt oppheves [forskrift 16. desember 1998 nr. 1243](forskrift/1998-12-16-1243) om årsregnskap m.m. for verdipapirfond.

@@ -1,0 +1,52 @@
+---
+id: "nl-20251222-120"
+slug: "endringslov-til-skattebetalingsloven-2"
+type: "lov"
+ref_id: "lov/2025-12-22-120"
+title: "Lov om endringer i skattebetalingsloven"
+short_title: "Endringslov til skattebetalingsloven"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2025-12-22"
+last_change_in_force: null
+last_updated: null
+xml_hash: "6c0d069eafd10eb164e22b1f0361e4c4a8dd87c638c1fc5f0f2fa75de093ff4e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i skattebetalingsloven
+
+- [Lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)](lov/2005-06-17-67).
+
+## I
+
+## II
+
+## III
+
+(1) Personlig eier av virksomhet kan kreve å utsette betalingen av formuesskatt på virksomhetsformue.
+
+(2) Som virksomhetsformue regnes formue i aksjer, aksjesparekonto, andeler i selskap med deltakerfastsetting, driftsmidler i enkeltpersonforetak som er omfattet av verdsettingsrabatten i [skatteloven § 4-17 annet ledd](lov/1999-03-26-14/§4-17/ledd/2), og næringseiendom.
+
+(3) Utsatt betaling kan kreves for inntil tre inntektsår når samlet utsatt formuesskatt overstiger 30 000 kroner i inntektsåret. Utsettelsen omfatter forskuddstrekk og forskuddsskatt tilsvarende forventet utsatt formuesskatt og endelig fastsatt formuesskatt. Krav om utsettelse etter dette ledd kan fremsettes på ethvert tidspunkt i inntektsåret.
+
+(4) Utsatt formuesskatt tillegges en egen rente. Ved oversittelse av forfall etter [§ 10-51 fjerde ledd](lov/2005-06-17-67/§10-51/ledd/4) beregnes forsinkelsesrenter etter [§ 11-1](lov/2005-06-17-67/§11-1) av kravet tillagt rente etter første punktum.
+
+(5) Den som har krevd utsettelse, kan helt eller delvis kreve å tre ut av ordningen på ethvert tidspunkt.
+
+(6) Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring av denne paragraf, herunder regler om rentesats, renteperiode, renteberegning og uttreden av ordningen ved dødsfall.
+
+(4) Utsatt formuesskatt og renter etter [§ 9-3](lov/2005-06-17-67/§9-3) forfaller til betaling 31. mai i det tredje året etter fastsettingsåret. Dersom skattyter trer ut av ordningen, forfaller utsatt skatt og renter til betaling tre uker etter at krav ble sendt skattyter, likevel tidligst 20. august i skattefastsettingsåret.
+
+## IV
+
+Endringene under I trer i kraft straks med virkning fra og med inntektsåret 2025.
+
+Endringene under II trer i kraft straks med virkning for terminskatt for inntektsåret 2025 og senere inntektsår.
+
+Endringene under III trer i kraft straks med virkning for formuesskatt fra og med inntektsåret 2026.

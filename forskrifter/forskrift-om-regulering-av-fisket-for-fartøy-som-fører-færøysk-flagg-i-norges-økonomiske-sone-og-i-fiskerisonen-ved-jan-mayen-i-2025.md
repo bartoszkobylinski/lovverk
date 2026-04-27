@@ -1,0 +1,82 @@
+---
+id: "sf-20241217-3240"
+slug: "forskrift-om-regulering-av-fisket-for-fartøy-som-fører-færøysk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2025"
+type: "forskrift"
+ref_id: "forskrift/2024-12-17-3240"
+title: "Forskrift om regulering av fisket for fartøy som fører færøysk flagg i Norges økonomiske sone og i fiskerisonen ved Jan Mayen i 2025"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2025-01-01"
+last_change_in_force: "2025-09-08"
+last_updated: null
+xml_hash: "0b8e80d9be91ce0f278db87f82d8eb6f56a223d739bb951f2c069ccde0c3a180"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om regulering av fisket for fartøy som fører færøysk flagg i Norges økonomiske sone og i fiskerisonen ved Jan Mayen i 2025
+
+## § 1. Generelt forbud
+
+Det er forbudt å drive fiske og fangst for fartøy som fører færøysk flagg i Norges økonomiske sone og i fiskerisonen ved Jan Mayen mellom 12 og 200 nautiske mil fra grunnlinjene.
+
+## § 2. Kvoter i Norges økonomiske sone nord for 62° N
+
+Uten hinder av forbudet i [§ 1](forskrift/2024-12-17-3240/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:3 910 tonn torsk980 tonn hyse500 tonn sei400 tonn andre arter, herunder uer og blåkveite, som bifangst.
+
+## § 3. Kvoter tildelt av Russland
+
+Uten hensyn til forbudet i [§ 1](forskrift/2024-12-17-3240/§1) har fartøy som fører færøysk flagg adgang til å fiske følgende kvanta som er tildelt Færøyene av Russland i Norges økonomiske sone nord for 62° mellom 12 og 200 nautiske mil fra grunnlinjene:7 445 tonn torsk1 000 tonn hyse600 tonn andre arter, herunder uer og blåkveite, som bifangst.
+
+## § 4. Bifangst av uer
+
+Ved fiske etter andre arter er det tillatt å ha inntil 20 % bifangst av uer i de enkelte fangster og av landet fangst.
+
+## § 5. Bifangst av blåkveite
+
+Ved fiske etter andre arter er det tillatt å ha inntil 7 % bifangst av blåkveite om bord ved avslutning av fisket og av landet fangst. Det er likevel tillatt å ha inntil 12 % blåkveite som bifangst i de enkelte fangster.
+
+## § 6. Soneadgang ved fiske etter norsk vårgytende sild
+
+Uten hinder av forbudet i [§ 1](forskrift/2024-12-17-3240/§1) har fartøy som fører færøysk flagg adgang til å fiske 40 179 tonn norsk vårgytende sild i Norges økonomiske sone nord for 62° N.
+
+Det er kun adgang til å fiske i periodene fra og med 1. januar til og med 31. januar og fra og med 1. september til og med 31. desember.
+
+Maksimalt 12 fartøy kan delta i fisket samtidig.
+
+## § 7. Soneadgang ved fiske etter makrell
+
+Uten hinder av forbudet [§ 1](forskrift/2024-12-17-3240/§1) har fartøy som fører færøysk flagg adgang til å fiske 27 694 tonn makrell i Norges økonomiske sone.
+
+> Tilføyd ved forskrift [8 sep 2025 nr. 1789](forskrift/2025-09-08-1789).
+
+## § 8. Begrensninger ved fiske etter makrell
+
+Maksimalt 12 fartøy kan delta i fisket etter makrell samtidig.
+
+Sør for 62° N er det kun tillatt å fiske etter makrell med not.
+
+> Tilføyd ved forskrift [8 sep 2025 nr. 1789](forskrift/2025-09-08-1789).
+
+## § 9. Beregning av fangstkvanta
+
+Alle fangstkvanta skal beregnes i rund vekt.
+
+> Endret ved forskrift [8 sep 2025 nr. 1789](forskrift/2025-09-08-1789) (tidligere § 7).
+
+## § 10. Straff og inndragning
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften, straffes i henhold til [lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 8](lov/1976-12-17-91/§8) og [9](lov/1976-12-17-91/§9). På samme måte straffes medvirkning og forsøk.
+
+> Endret ved forskrift [8 sep 2025 nr. 1789](forskrift/2025-09-08-1789) (tidligere § 8).
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2025 og gjelder til og med 31. desember 2025.
+
+> Endret ved forskrift [8 sep 2025 nr. 1789](forskrift/2025-09-08-1789) (tidligere § 9).

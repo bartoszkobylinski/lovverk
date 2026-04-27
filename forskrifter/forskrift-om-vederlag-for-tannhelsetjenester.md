@@ -1,0 +1,66 @@
+---
+id: "sf-19840524-1268"
+slug: "forskrift-om-vederlag-for-tannhelsetjenester"
+type: "forskrift"
+ref_id: "forskrift/1984-05-24-1268"
+title: "Forskrift om vederlag for tannhelsetjenester i den offentlige tannhelsetjenesten"
+short_title: "Forskrift om vederlag for tannhelsetjenester"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1984-07-01"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "a0f6fe5ccebcf32a7d873b322e4b5920e391cd8e010f90608a729105f4e6fddf"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om vederlag for tannhelsetjenester i den offentlige tannhelsetjenesten
+
+## § 1. Personer som skal betale fullt vederlag
+
+Personer som ikke går inn under [§ 1-3 første ledd bokstav a](lov/1983-06-03-54/§1-3/ledd/1/bokstav/a), [b](lov/1983-06-03-54/§1-3/ledd/1/bokstav/b), [c](lov/1983-06-03-54/§1-3/ledd/1/bokstav/c), [d](lov/1983-06-03-54/§1-3/ledd/1/bokstav/d), [e](lov/1983-06-03-54/§1-3/ledd/1/bokstav/e), [f](lov/1983-06-03-54/§1-3/ledd/1/bokstav/f) og [g](lov/1983-06-03-54/§1-3/ledd/1/bokstav/g) i [lov om tannhelsetjenesten](lov/1983-06-03-54) skal betale fullt vederlag etter departementets fastsatte takster inkludert eventuelle utgifter til tanntekniske arbeider.
+
+> Endret ved forskrifter [25 okt 2004 nr. 1381](forskrift/2004-10-25-1381), [12 juni 2024 nr. 972](forskrift/2024-06-12-972) (i kraft 1 juli 2024).
+
+## § 2. Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie
+
+Når eldre, langtidssyke og uføre i institusjon og hjemmesykepleie har hatt institusjonsopphold eller pleie av hjemmesykepleien i sammenhengende 3 måneder eller mer, skal disse gis vederlagsfrie tannhelsetjenester, inkludert eventuelle utgifter til tanntekniske arbeider, så lenge oppholdet eller pleien vedvarer.
+
+For tannhelsetjenester som blir gitt før institusjonsoppholdet eller hjemmesykepleien har vart i 3 måneder, kan kreves vederlag som under [§ 1](forskrift/1984-05-24-1268/§1), dersom oppholdet eller omsorgen ikke forventes å vare over 3 måneder.
+
+Tannbehandling som har sammenheng med eller påvirker den sykdom pasienten er innlagt for eller får pleie for, skal ytes vederlagsfritt selv om institusjonsoppholdet eller pleien ikke har vart i 3 måneder.
+
+## § 2a. Personer med rusmiddelavhengighet og personer innsatt i fengsel i kriminalomsorgen
+
+Personer som mottar følgende helse- og omsorgstjenester skal ha rett til vederlagsfrie tannhelsetjenester, inkludert eventuelle utgifter til tanntekniske arbeider, fra den offentlige tannhelsetjenesten:personer som på grunn av rusmiddelavhengighet mottar personlig assistanse etter [helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav b](lov/2011-06-24-30/§3-2/ledd/1/nummer/6/bokstav/b),personer hvor de pårørende på grunn av vedkommendes rusmiddelavhengighet mottar avlastningstiltak etter [helse- og omsorgstjenesteloven § 3-6 nr. 2](lov/2011-06-24-30/§3-6/nummer/2)personer som er del av behandlingsprogram med legemiddelassistert rehabilitering (LAR) etter [forskrift 18. desember 2009 nr. 1641](forskrift/2009-12-18-1641).
+
+Det er et vilkår for at tannhelsetjenestene skal være vederlagsfrie at helse- og omsorgstjenestene har varighet sammenhengende i tre måneder eller lenger. Retten til slike tannhelsetjenester gjelder fra oppstart av behandlingsopplegget med helse- og omsorgstjenester og så lenge dette vedvarer.
+
+Når innsatte i fengsel i kriminalomsorgen har fengselsopphold som varer tre måneder eller lenger, skal disse gis vederlagsfrie tannhelsetjenester, inkludert eventuelle utgifter til tanntekniske arbeider, så lenge fengselsoppholdet vedvarer. Akutt tannhelsehjelp gis vederlagsfritt uavhengig av oppholdets varighet.
+
+> Tilføyd ved forskrift [12 juni 2024 nr. 972](forskrift/2024-06-12-972) (i kraft 1 juli 2024).
+
+## § 3. Ungdom og unge voksne fra 19 til 28 år
+
+Ungdom og unge voksne, fra det året de fyller 19 til og med det året de fyller 28, skal ikke betale større vederlag enn 25 prosent av departementets fastsatte takster, inkludert eventuelle utgifter til tanntekniske arbeider. For behandling som Helsedirektoratet eller det organ som Helsedirektoratet bestemmer gir hel eller delvis refusjon for kan kreves vederlag som under [§ 1](forskrift/1984-05-24-1268/§1) av dem som fyller 19 til 28 år i behandlingsåret.
+
+> Endret ved [forskrifter 25 okt 2004 nr. 1381](forskrift/2004-10-25-1381), [21 juni 2006 nr. 684](forskrift/2006-06-21-684) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [12 juni 2024 nr. 972](forskrift/2024-06-12-972) (i kraft 1 juli 2024), [20 juni 2025 nr. 1150](forskrift/2025-06-20-1150) (i kraft 1 juli 2025).
+
+## § 4. Andre grupper av befolkningen
+
+For grupper som kommer inn under [§ 1-3 første ledd bokstav g i lov om tannhelsetjenesten](lov/1983-06-03-54/§1-3/ledd/1/bokstav/g) fastsetter fylkeskommunen vederlagets størrelse som andel av departementets fastsatte takster.
+
+> Endret ved forskrifter [25 okt 2004 nr. 1381](forskrift/2004-10-25-1381), [12 juni 2024 nr. 972](forskrift/2024-06-12-972) (i kraft 1 juli 2024).
+
+## § 5. Kjeveortopedisk behandling
+
+For kjeveortopedisk behandling og utgifter til kjeveortopedisk apparatur m.v. kan kreves vederlag som under [§ 1](forskrift/1984-05-24-1268/§1) av alle grupper av befolkningen.
+
+## § 6. Ikrafttreden
+
+Denne forskrift trer i kraft 1. juli 1984.

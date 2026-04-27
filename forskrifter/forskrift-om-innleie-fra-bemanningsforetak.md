@@ -1,0 +1,72 @@
+---
+id: "sf-20130111-0033"
+slug: "forskrift-om-innleie-fra-bemanningsforetak"
+type: "forskrift"
+ref_id: "forskrift/2013-01-11-33"
+title: "Forskrift om innleie fra bemanningsforetak"
+short_title: null
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2013-01-11"
+last_change_in_force: "2024-04-16"
+last_updated: null
+xml_hash: "78f2777096c0ac9cd370b62ee4e89d74e0eb9f210fb167171848dbc4e3a75c2e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innleie fra bemanningsforetak
+
+## Kapittel I. Arbeidsmiljøloven og innleie til virksomhet som ikke sysselsetter arbeidstaker
+
+### § 1
+
+Reglene i [arbeidsmiljøloven § 2-2 første ledd](lov/2005-06-17-62/§2-2/ledd/1), [§ 14-1](lov/2005-06-17-62/§14-1), [§ 14-12 første](lov/2005-06-17-62/§14-12/ledd/1) og [tredje ledd](lov/2005-06-17-62/§14-12/ledd/3), [§ 14-12a første ledd](lov/2005-06-17-62/§14-12a/ledd/1), [14-12b første](lov/2005-06-17-62/§14-12b/ledd/1), [andre](lov/2005-06-17-62/§14-12b/ledd/2) og [femte ledd](lov/2005-06-17-62/§14-12b/ledd/5) og [§ 14-14](lov/2005-06-17-62/§14-14) samt reglene i [kapittel II](forskrift/2013-01-11-33/kapII) i forskriften her gjelder også ved innleie til virksomhet som ikke sysselsetter arbeidstaker. Ved tvister gjelder reglene i [arbeidsmiljøloven kapittel 17](lov/2005-06-17-62/kap17) samt [§ 15-11](lov/2005-06-17-62/§15-11).
+
+> Endret ved forskrift [16 april 2024 nr. 626](forskrift/2024-04-16-626).
+
+## Kapittel II. Taushetsplikt mv. i tilknytning til likebehandlingsreglene. Straff
+
+### § 2
+
+Bemanningsforetak, innleier og tillitsvalgte har taushetsplikt om opplysninger mottatt i medhold av [arbeidsmiljøloven § 14-12b](lov/2005-06-17-62/§14-12b). Opplysningene kan bare benyttes til å sikre eller undersøke overholdelse av kravet om likebehandling i [arbeidsmiljøloven § 14-12a](lov/2005-06-17-62/§14-12a) eller til å oppfylle plikter etter [arbeidsmiljøloven § 14-12b](lov/2005-06-17-62/§14-12b).
+
+Forsettlig eller uaktsom overtredelse av denne bestemmelsen straffes med bøter, jf. [straffeloven § 339](lov/2005-05-20-28/§339) nr. 2.
+
+## Kapittel III. Særregler om innleie på visse områder
+
+> Tilføyd ved forskrift [20 des 2022 nr. 2355](forskrift/2022-12-20-2355) (i kraft 1 april 2023).
+
+### § 3
+
+Innleie fra bemanningsforetak er tillatt uavhengig av vilkårene i [arbeidsmiljøloven § 14-12](lov/2005-06-17-62/§14-12) når det gjelder:Innleie av helsepersonell for å sikre forsvarlig drift av helse- og omsorgstjenester. Slik innleie er tillatt i samme utstrekning som det kan avtales midlertidig ansettelse etter [arbeidsmiljøloven § 14-9](lov/2005-06-17-62/§14-9) andre ledd bokstav a. Før det tas beslutning om innleie etter bestemmelsen, skal arbeidsgiver drøfte behovet for innleie med de tillitsvalgte.Innleie av arbeidstakere med spesialkompetanse som skal utføre rådgivnings- og konsulenttjeneste i klart avgrenset prosjekt.
+
+Med helsepersonell menes personell som omfattes av [helsepersonelloven § 3](lov/1999-07-02-64/§3). Med rådgivnings- og konsulenttjeneste menes levering av spesialisert kunnskap og rådgivning innenfor et bestemt fagområde.
+
+Innleier skal dokumentere grunnlaget for innleie etter denne bestemmelsen når tillitsvalgte ber om det.
+
+> Tilføyd ved forskrift [20 des 2022 nr. 2355](forskrift/2022-12-20-2355) (i kraft 1 april 2023).
+
+### § 4
+
+Innleie fra bemanningsforetak til bygningsarbeid på byggeplasser i Oslo, Akershus, Østfold, Buskerud og Vestfold er ikke tillatt.
+
+Med bygningsarbeid menesoppføring av bygninger,innrednings-, utsmykkings-, og installasjonsarbeid,montering og demontering av prefabrikkerte elementer,riving, demontering, ombygging og istandsetting,sanering og vedlikehold, utenom arbeid som er rutinemessig eller mindre omfattende,graving, sprenging og annet grunnarbeid i tilknytning byggeplass, ogannet arbeid som utføres i tilknytning til byggearbeid.
+
+Med *byggeplass* menes enhver arbeidsplass hvor det utføres midlertidig eller skiftende bygningsarbeid av et visst omfang.
+
+> Tilføyd ved forskrift [20 des 2022 nr. 2355](forskrift/2022-12-20-2355) (i kraft 1 april 2023, se endringsforskriften for overgangsregler), endret ved forskrift [16 april 2024 nr. 626](forskrift/2024-04-16-626).
+
+## Kapittel IV. Ikrafttredelse
+
+> Endret ved forskrift [20 des 2022 nr. 2355](forskrift/2022-12-20-2355) (i kraft 1 april 2023, tidligere kapittel III).
+
+### § 5
+
+Forskriften gjelder fra 11. januar 2013.
+
+> Endret ved forskrift [20 des 2022 nr. 2355](forskrift/2022-12-20-2355) (i kraft 1 april 2023, tidligere § 3).

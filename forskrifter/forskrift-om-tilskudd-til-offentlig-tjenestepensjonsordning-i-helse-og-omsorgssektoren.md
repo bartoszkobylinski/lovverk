@@ -1,0 +1,124 @@
+---
+id: "sf-20190308-0194"
+slug: "forskrift-om-tilskudd-til-offentlig-tjenestepensjonsordning-i-helse-og-omsorgssektoren"
+type: "forskrift"
+ref_id: "forskrift/2019-03-08-194"
+title: "Forskrift om tilskudd til virksomheter med offentlig tjenestepensjonsordning som har levert spesialisthelsetjenester og statlige barneverntjenester"
+short_title: "Forskrift om tilskudd til offentlig tjenestepensjonsordning i helse- og omsorgssektoren"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2019-03-08"
+last_change_in_force: "2019-09-27"
+last_updated: null
+xml_hash: "29d62589c142116f4ab096208bb3f342ebdffe8f539072334fe854053ed71cd7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til virksomheter med offentlig tjenestepensjonsordning som har levert spesialisthelsetjenester og statlige barneverntjenester
+
+## § 1. Definisjoner
+
+I forskriften menes med*offentlig tjenestepensjonsordning:* pensjonsordning i samsvar med [forsikringsvirksomhetsloven kapittel 4](lov/2005-06-10-44/kap4)*historiske pensjonskostnader:* kostnader i offentlig tjenestepensjonsordning til tidligere opptjente pensjonsrettigheter som forfaller til betaling etter at opptjeningen er avsluttet*pensjonspremie:* reguleringspremie og særskilte engangspremier for ytelser hvis premie ikke kan fastsettes på forhånd.
+
+## § 2. Hvem som har rett til tilskudd
+
+Private virksomheter som betaler årlig pensjonspremie til offentlig tjenestepensjonsordning for opptjeningstid før 1. januar 2019, og som under opptjeningen i samsvar med avtale med fylkeskommune, regionalt helseforetak eller helseforetak leverte sykehustjenester, tverrfaglig spesialisert rusbehandling, rusbehandling på vegne av fylkeskommune før 2004, psykisk helsevern eller spesialisert rehabilitering omfattet av [spesialisthelsetjenesteloven § 2-1](lov/1999-07-02-61/§2-1)a, eller som i samsvar med avtale med staten eller annen fylkeskommune enn Oslo kommune leverte barneverntjenester som staten har finansieringsansvar for etter [barnevernloven § 9-4](lov/1992-07-17-100/§9-4), har rett til tilskudd. Som likestilt med avtale med fylkeskommune, regionalt helseforetak eller helseforetak regnes betaling fra Helfo for helsehjelp som nevnt i første punktum ytet etter [forskrift 29. oktober 2015 nr. 1232](forskrift/2015-10-29-1232) om private virksomheters adgang til å yte spesialisthelsetjenester mot betaling fra staten.
+
+Det kan likevel ikke gis tilskudd tilde private ideelle sykehusene Lovisenberg Diakonale Sykehus, Diakonhjemmet Sykehus, Betanien Hospital Skien, Martina Hansen Hospital, Revmatismesykehuset Lillehammer, Haugesund Sanitetsforeningens Revmatismesykehus, Haraldsplass Diakonale Sykehus og Hospitalet Betanien i Bergen, Jæren DPS, Solli DPS, Olaviken alderspsykiatriske sykehus og Voss DPS N.K.S. BjørkeliOverføringsavtalens Sikringsordning
+
+Etter søknad fastsetter Helsedirektoratet hvem som har rett til tilskudd og størrelsen på tilskuddet. Helsedirektoratet kan fastsette rapporteringskrav i vedtaket.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 3. Krav til offentlig tjenestepensjonsordning
+
+Offentlig tjenestepensjonsordning som kreves etter [§ 2](forskrift/2019-03-08-194/§2), skal bare omfatte opptjeningstid frem til 1. januar 2019. Den skal ikke omfatte opptjening i pensjonsordning etter sykepleierpensjonsloven eller opptjening i pensjonsordning for sykehusleger.
+
+## § 4. Vilkår om separate regnskaper
+
+Helsedirektoratet kan stille krav om separate regnskaper som vilkår for vedtak om tilskudd dersom det foreligger risiko for kryssubsidiering av økonomisk virksomhet i strid med EØS-avtalens artikkel 61(1).
+
+Helsedirektoratet kan stille krav til utformingen av de separate regnskapene, blant annet at regnskapene skal oppfylle kravene i [forskrift 7. september 2006 nr. 1062](forskrift/2006-09-07-1062) til utfylling og gjennomføring mv. av regnskapsloven av 17. juli 1998 nr. 56 § 9-1-3 og allokere inntekter og utgifter på relevant regnskap.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 5. Rapporteringsplikter
+
+En tilskuddsmottaker skal uten unødig opphold varsle Helsedirektoratet om endringer i adresse, organisasjonsnummer eller bankkontonummer og om betingelsene for å motta tilskudd etter [§ 2](forskrift/2019-03-08-194/§2) ikke lenger er til stede.
+
+## § 6. Krav til en søknad om tilskudd
+
+En søknad om tilskudd skal sendes Helsedirektoratet på den måten Helsedirektoratet bestemmer og inneholdevirksomhetens kontaktinformasjon og kontonummerdokumentasjon for at kravene i [§ 2](forskrift/2019-03-08-194/§2) første ledd er oppfyltbekreftelse på at virksomheten har en offentlig tjenestepensjonsordning som krevd i [§ 3](forskrift/2019-03-08-194/§3)søkers erklæring om å frafalle rettskrav på å få dekket fra staten, fylkeskommune, regionalt helseforetak eller helseforetak de delene av historiske pensjonskostnader til tjenester som angitt i [§ 2](forskrift/2019-03-08-194/§2) som omfattes av offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3)dokumentasjon for hvor stor andel av opptjeningen som gjelder tjenester etter [§ 2](forskrift/2019-03-08-194/§2) første leddfullmakt til Helsedirektoratet til å innhente opplysninger fra søkerens leverandør av offentlig tjenestepensjon som er nødvendige for å beregne tilskuddetsøkerens vurdering av om tilskuddet vil kunne anses som offentlig støtte etter EØS-avtalen artikkel 61(1), blant annet om virksomheten driver økonomisk aktivitet og om tilskuddet vil kunne påvirke samhandelen innenfor EØS-området. Søkeren skal også opplyse om virksomheten har opprettet separate regnskaper mellom økonomisk og ikke-økonomisk aktivitetopplysninger om historiske pensjonskostnader omfattet av pensjonsavtale etter [§ 3](forskrift/2019-03-08-194/§3) også er dekket av avtale med regionale helseforetak om levering av spesialisthelsetjenester eller avtale med staten om levering av barneverntjenester i det året det søkes tilskudd forvirksomhetens satser for beregning av arbeidsgiveravgift på pensjonspremieopplysninger om omsetning knyttet til virksomhetens avtaler som er nødvendig for å beregne fradrag etter [§ 10](forskrift/2019-03-08-194/§10)bekreftelse på at den offentlige tjenestepensjonsordningen som krevd i [§ 3](forskrift/2019-03-08-194/§3) i det første tilskuddsåret er tilført de midlene som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i den offentlige tjenestepensjonsordningen som virksomheten hadde per 31. desember i året før det første tilskuddsåret, herunder avkastning på premiereserve og tilleggsavsetning, med unntak av den andelen som skyldes opptjening i særskilte pensjonsordninger for sykehusleger og sykepleiere.
+
+Har søkeren fått tilskudd før, er det tilstrekkelig at en søknad for et senere år viser til tidligere informasjon etter kravene i første ledd. Er informasjonen etter kravene i første ledd gal eller har endret seg, skal søknaden i tillegg opplyse om det.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 7. Beregning av det årlige tilskuddet
+
+Et tilskudd skal dekke pensjonspremien søkeren betaler i søknadsåret for offentlig tjenestepensjonsordning etter [§ 3](forskrift/2019-03-08-194/§3), med fradrag foropptjening som relaterer seg til andre tjenester enn de [§ 2](forskrift/2019-03-08-194/§2) gjelder etter [§ 8](forskrift/2019-03-08-194/§8)midler som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret i tilskuddsåret etter [§ 10](forskrift/2019-03-08-194/§10)kostnader som er dekket gjennom avtale med regionale helseforetak eller staten etter [§ 10](forskrift/2019-03-08-194/§10)kostnader som allerede er dekket ved utbetaling av erstatning eller på annen måte.
+
+Tilskuddet skal også kompensere for arbeidsgiveravgift etter [§ 11](forskrift/2019-03-08-194/§11).
+
+Tilskuddet fastsettes som et engangsbeløp eller terminer.
+
+Tilskuddet beregnes for hele det året som det søkes om tilskudd i.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 8. Fradrag for tjenester forskriften ikke gjelder
+
+Helsedirektoratet beregner hvor stor andel av opptjeningen i den offentlige tjenestepensjonsordningen som gjelder tjenester som ikke er omfattet av [§ 2](forskrift/2019-03-08-194/§2) første ledd
+
+Andelen som tilskuddet skal reduseres med skal tilsvare et vektet gjennomsnitt av den årlige differansen mellom virksomhetens prisregulerte totale omsetning og omsetning tilknyttet tjenester omfattet av [§ 2](forskrift/2019-03-08-194/§2) første ledd.
+
+Dersom regnskapsopplysninger ikke er tilgjengelig, kan andre opplysninger som sannsynliggjør fordelingen av omsetningen det enkelte år legges til grunn.
+
+## § 9. Fradrag for kompensasjon som er dekket etter avtale
+
+Det gjøres fradrag for den delen av tilskuddet som er knyttet til avtale med regionalt helseforetak om levering av tjenester omfattet av [spesialisthelsetjenesteloven § 2-1](lov/1999-07-02-61/§2-1)a eller avtale med staten om tjenester som staten har finansieringsansvar for etter [barnevernloven § 9-4](lov/1992-07-17-100/§9-4), som gjelder i tilskuddsåret og som forutsetter at tilskuddsmottakeren selv skal dekke de historiske pensjonskostnadene knyttet til kontrakten.
+
+Andelen som nevnt i første ledd skal for den enkelte avtale tilsvare den prosentvise andelen av virksomhetens totale brutto omsetning før skatt i avtalens to første hele driftsår som skyldes avtalen. Dersom det ikke foreligger opplysninger om faktisk omsetning i avtalens to første hele driftsår, kan forventet omsetning i tilskuddsåret også legges til grunn for beregningen.
+
+Fradraget for den enkelte avtale skal reduseres forholdsmessig tilsvarende det antall måneder av tilskuddsåret som avtalen ikke gjelder.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 10. Fradrag for midler som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret
+
+Det gjøres fradrag for midler som tilføres virksomhetens premiefond i forbindelse med årsoppgjøret for den offentlige tjenestepensjonsordningen i det året tilskuddet beregnes for, inkludert avkastning på premiereserver og tilleggsavsetninger. Dersom midlene overstiger den pensjonspremien som virksomheten betaler i tilskuddsåret, skal det gjøres fradrag for den overskytende delen i året etter tilskuddsåret.
+
+Fradraget etter første ledd reduseres med de administrative kostnadene ved den offentlige tjenestepensjonsordningen, herunder rentegarantipremie.
+
+Fradraget beregnet etter første og andre ledd reduseres med andelene beregnet etter [§ 8](forskrift/2019-03-08-194/§8) og [§ 9](forskrift/2019-03-08-194/§9).
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 11. Tillegg for kompensasjon av arbeidsgiveravgift
+
+Det gjøres tillegg for kompensasjon for arbeidsgiveravgift på tilskuddsbeløp etter [§ 7](forskrift/2019-03-08-194/§7) første ledd, beregnet med virksomhetens satser for arbeidsgiveravgift. Tillegget skal ikke dekke mer enn den arbeidsgiveravgiften som faktisk påløper.
+
+> Tilføyd ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268).
+
+## § 12. Helsedirektoratets rett til å utføre kontroller
+
+Helsedirektoratet kan kontrollere at betingelsene for tilskuddet og vilkårene i tilskuddsvedtaket er oppfylt og kan kreve at tilskuddsmottaker fremlegger de opplysningene og den dokumentasjonen som er nødvendig for kontrollen.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268) (tidligere § 11).
+
+## § 13. Stans i utbetaling av tilskudd og krav om tilbakebetaling
+
+Helsedirektoratet kan stanse utbetalingen av tilskudd eller kreve at tilskuddsmottaker tilbakebetaler hele eller deler av utbetalt tilskudd dersomtildelingen har bygget på uriktige, misvisende eller mangelfulle opplysninger fra søkerentilskuddet ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtakettilskuddsmottaker ikke har oppfylt øvrige krav i forskriften eller tilskuddsvedtaket.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268) (tidligere § 12).
+
+## § 14. Ikrafttredelse
+
+Forskriften trer i kraft 8. mars 2019.
+
+> Endret ved [forskrift 27 sep 2019 nr. 1268](forskrift/2019-09-27-1268) (tidligere § 13).

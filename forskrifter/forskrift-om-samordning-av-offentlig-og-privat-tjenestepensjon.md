@@ -1,0 +1,36 @@
+---
+id: "sf-19791001-4082"
+slug: "forskrift-om-samordning-av-offentlig-og-privat-tjenestepensjon"
+type: "forskrift"
+ref_id: "forskrift/1979-10-01-4082"
+title: "Forskrift om samordning av offentlig og privat tjenestepensjon for opptjening før 1. oktober 1979"
+short_title: "Forskrift om samordning av offentlig og privat tjenestepensjon"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1979-10-01"
+last_change_in_force: "2020-01-01"
+last_updated: null
+xml_hash: "b9bc239a6d8c6c29afa8ba2487aab86d6459c5573b62e42d4c7c34ec269852de"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om samordning av offentlig og privat tjenestepensjon for opptjening før 1. oktober 1979
+
+## § 1.
+
+Dersom det er opptjent rettighet i offentlig eller privat tjenestepensjonsordning før 1. oktober 1979, skal offentlig tjenestepensjonsordning ved anvendelse av [samordningsloven § 6](lov/1957-07-06-26/§6) fortsatt regne med tjenestetid i den private ordning.
+
+> Tilføyd ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
+
+## § 2.
+
+For offentlige tjenestepensjoner som 1. oktober 1979 løper med begrenset samordningsfradrag for folketrygdpensjon og/eller personskadetrygdpensjon på grunn av samtidig rett til privat tjenestepensjon, skal endringen i [samordningslovens § 1](lov/1957-07-06-26/§1) nr. 2 ikke medføre at pensjonene settes ned.
+
+## § 3.
+
+Forskriften trer i kraft 1. oktober 1979.

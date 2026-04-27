@@ -1,0 +1,608 @@
+---
+id: "sf-20050608-0538"
+slug: "alkoholforskriften"
+type: "forskrift"
+ref_id: "forskrift/2005-06-08-538"
+title: "Forskrift om omsetning av alkoholholdig drikk mv. (alkoholforskriften)"
+short_title: "Alkoholforskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2005-07-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "02adb4d3ebe262f60d405b8feeebf4dd34953b5222ddc97fc95e7f8638942961"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om omsetning av alkoholholdig drikk mv. (alkoholforskriften)
+
+## Kapittel 1. Definisjoner
+
+### § 1-1
+
+I denne forskrift legges følgende definisjoner til grunn:*Alkoholfri drikk:* Drikk som inneholder under 0,7 volumprosent alkohol*Alkoholsvak drikk:* Drikk som inneholder fra og med 0,7 til og med 2,5 volumprosent alkohol*Alkoholholdig drikk gruppe 1:* Drikk som inneholder over 2,5 og høyst 4,7 volumprosent alkohol*Alkoholholdig drikk gruppe 2:* Drikk som inneholder over 4,7 og mindre enn 22 volumprosent alkohol*Alkoholholdig drikk gruppe 3:* Drikk som inneholder fra og med 22 til og med 60 volumprosent alkohol.
+
+> Endret ved [forskrift 8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+### § 1-2. (Opphevet)
+
+> Opphevet ved [forskrift 8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+## Kapittel 2. Salg og skjenking
+
+### § 2-1
+
+Salg og skjenking av alkoholholdig drikk skal foregå på en slik måte at skadevirkningene begrenses og alkoholpolitiske og sosiale hensyn ivaretas.
+
+### § 2-2
+
+Bevillingshaver og styrer er ansvarlig for at salg etter salgsbevilling gitt til andre enn Vinmonopolet, jf. [alkoholloven § 3-1](lov/1989-06-02-27/§3-1) annet ledd og [§ 3-1b](lov/1989-06-02-27/§3-1b), og skjenking etter skjenkebevillinger foregår i overensstemmelse med [alkoholloven](lov/1989-06-02-27) og bestemmelser gitt med hjemmel i den.
+
+Bevillingshaver og styrer plikter å føre tilsyn med de ansattes utøvelse av salg og skjenking, og er ansvarlig for at de ansatte blir gjort kjent med regelverket for salg og skjenking av alkoholholdig drikk, og ellers gitt den nødvendige veiledning for virksomheten.
+
+Under styrers fravær påhviler styrers ansvar og plikter stedfortreder.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+### § 2-3
+
+Den som selger eller skjenker alkoholsvak drikk og alkoholholdig drikk i gruppe 1 og 2 må ha fylt 18 år, og den som selger eller skjenker alkoholholdig drikk i gruppe 3 må ha fylt 20 år. Dette gjelder likevel ikke ved salg av alkoholsvak drikk når en person over 18 år har daglig tilsyn med salget. Person med kokk-, servitør- eller resepsjonistfagbrev som ikke har nådd den alder som er fastsatt i [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) tredje ledd kan likevel selge, utlevere eller skjenke alkoholholdig drikk.
+
+Lærlinger og lærekandidater, jf. [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 4-1](lov/1998-07-17-61/§4-1), og elever i kokk-, servitør- eller resepsjonistfag i videregående skole under praktisk opplæring i bedrift, som ikke har nådd den alder som er fastsatt i [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) tredje ledd, kan likevel selge, utlevere eller servere alkoholholdig drikk når dette er nødvendig av hensyn til opplæringen. Det er et vilkår at det foreligger en reell opplæringssituasjon, hvor salg eller servering av alkoholholdig drikk inngår som en del av en fastsatt læreplan. Bestemmelsene i dette ledd gjelder ikke for bevilling gitt til AS Vinmonopolet.
+
+> Endret ved forskrifter [21 juni 2005 nr. 665](forskrift/2005-06-21-665) (i kraft 1 juli 2005), [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+### § 2-4
+
+Salg, utlevering og skjenking av alkoholsvak drikk og alkoholholdig drikk i gruppe 1 og 2 må ikke skje til personer under 18 år, og salg, utlevering og skjenking av alkoholholdig drikk i gruppe 3 må ikke skje til personer under 20 år, selv om vedkommende viser frem skriftlig fullmakt fra foreldre, foresatte eller andre.
+
+Ansatte på salgs- og skjenkesteder har ved tvil om alder rett og plikt til å kreve legitimasjon.
+
+> Endret ved [forskrift 21 juni 2005 nr. 665](forskrift/2005-06-21-665) (i kraft 1 juli 2005).
+
+### § 2-5
+
+Alkoholsvak og alkoholholdig drikk må ikke selges, utleveres eller skjenkes fra automat.
+
+## Kapittel 3. Særlig om salg
+
+### § 3-1
+
+Salg eller utlevering av alkoholholdig drikk må ikke skje til personer som er åpenbart påvirket av rusmidler.
+
+### § 3-2
+
+Det må påses at det ikke drikkes alkoholholdig drikk i salgslokalet, med mindre drikken er skjenket i et lokale som både har salgs- og skjenkebevilling i medhold av [alkoholloven § 3-1c](lov/1989-06-02-27/§3-1c), jf. [§ 1-7g](lov/1989-06-02-27/§1-7g).
+
+> Endret ved [forskrift 29 juni 2020 nr. 1431](forskrift/2020-06-29-1431) (i kraft 1 sep 2020).
+
+### § 3-3
+
+Ved kommunal bevilling for salg av alkoholholdig drikk gitt til andre enn Vinmonopolet, skal slik drikk plasseres på salgsstedet på en slik måte at den ikke kan forveksles med alkoholfri og alkoholsvak drikk.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+### § 3-4
+
+Det kan ikke gis salgsbevilling for alkoholholdig drikk til bensinstasjon eller kiosk.
+
+Med «bensinstasjon» forstås utsalgssted som i det vesentlige selger bensin, olje og andre varer som er nødvendig for drift av eller vedlikehold av motorkjøretøyer og motorbåter. Med «kiosk» forstås utsalg som i det vesentlige selger kioskvarer.
+
+### § 3-5
+
+Bestilling av alkoholholdig drikk må ikke ekspederes med mindre bestillingen inneholder fullstendige opplysninger om kjøpers navn, adresse og alder.
+
+### § 3-6
+
+Utsalg for alkoholholdig drikk i gruppe 2 og 3 skal ikke ekspedere bestillinger som skal sendes til militære områder med mindre det foreligger bestillingsbekreftelse fra vedkommende militære sjef. Som militært område regnes ikke kommandantbolig mv. hvor militære personer har sine private hjem.
+
+### § 3-7
+
+Det er AS Vinmonopolets ansvar å føre kontroll med at selskapets salg av alkoholholdig drikk i gruppe 2 og 3 til enhver tid foregår i samsvar med lov og forskrift.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+## Kapittel 4. Særlig om skjenking
+
+### § 4-1
+
+Personer som er åpenbart påvirket av rusmidler må ikke gis adgang til skjenkestedet.
+
+Dersom en person som er åpenbart påvirket av rusmidler befinner seg på skjenkestedet, har bevillingshaver plikt til å sørge for at vedkommende forlater stedet. Bevillingshaver har plikt til å sørge for at personer som trenger det, får nødvendig bistand.
+
+### § 4-2
+
+Det må ikke skjenkes alkoholholdig drikk til person som er åpenbart påvirket av rusmidler, eller skjenkes på en slik måte at vedkommende må antas å bli åpenbart påvirket.
+
+Sitter flere personer sammen og en eller flere av dem er åpenbart påvirket av rusmidler, må det ikke serveres alkoholholdig drikk til noen av dem før den eller de påvirkede er fjernet.
+
+### § 4-3
+
+Det må påses at personer som ikke fyller alderskravene i [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) ikke drikker alkohol som skjenkes andre gjester.
+
+### § 4-4
+
+Det må påses at gjestene kun nyter skjenket alkoholholdig drikk, og at de ikke medtar skjenket alkoholholdig drikk når de forlater skjenkestedet.
+
+> Endret ved [forskrift 29 juni 2020 nr. 1431](forskrift/2020-06-29-1431) (i kraft 1 sep 2020).
+
+### § 4-5
+
+Brennevin kan bare skjenkes i mengder á 2 og 4 cl. Dette gjelder ikke for servering av cocktails.
+
+### § 4-6
+
+Den som har bevilling til å skjenke alkoholholdig drikk, plikter også å føre et rimelig utvalg av alkoholfrie og/eller alkoholsvake drikker, og som må regnes som en naturlig erstatning for alkoholholdig drikk.
+
+Alkoholfrie og alkoholsvake drikker skal oppføres på skjenkekart og andre prislister.
+
+> Endret ved [forskrift 21 juni 2005 nr. 665](forskrift/2005-06-21-665) (i kraft 1 juli 2005).
+
+### § 4-7
+
+Når halvflasker er i handelen, plikter skjenkestedet å føre et rimelig utvalg av slike.
+
+### § 4-8
+
+Alminnelig skjenkebevilling kan inkludere selvservering fra kjøleskap på hotellrom.
+
+Det må påses at alkoholholdig og alkoholsvak drikk ikke er tilgjengelig for mindreårige.
+
+## Kapittel 5. Kunnskapsprøve
+
+### § 5-1
+
+Styrer, stedfortreder og kontrollør må ha dokumentert kunnskap om [alkoholloven](lov/1989-06-02-27) og bestemmelser gitt i medhold av den. Dette kravet er oppfylt ved bestått kunnskapsprøve etter bestemmelsene i dette kapitlet.
+
+> Endret ved [forskrift 8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2016).
+
+### § 5-2
+
+Kommunen er ansvarlig for å avholde kunnskapsprøver for styrere og stedfortredere i virksomheter som har eller søker om kommunal salgs- eller skjenkebevilling, og for sine kontrollører.
+
+Statsforvalteren er ansvarlig for å avholde kunnskapsprøver for styrere og stedfortredere i virksomheter som har eller søker om statlig skjenkebevilling til skip og til Forsvarets befalsmesser etter [alkoholloven § 5-3](lov/1989-06-02-27/§5-3) første ledd.
+
+Helsedirektoratet er ansvarlig for å avholde kunnskapsprøver for styrere og stedfortredere i virksomheter som har eller søker om statlig skjenkebevilling til tog, fly og til Forsvarets befalsmesser etter [alkoholloven § 5-3](lov/1989-06-02-27/§5-3) annet ledd.
+
+Kommunen kan avholde kunnskapsprøver for kandidater uten tilknytning til virksomhet med bevilling.
+
+Flere bevillingsmyndigheter kan samarbeide om gjennomføring av prøver.
+
+> Endret ved forskrifter [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012), [8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2016), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+### § 5-3
+
+Bevillingsmyndigheten skal avholde prøve innen 2 måneder etter at den har mottatt melding om at prøve ønskes avlagt.
+
+### § 5-4
+
+Prøven skjer i form av elektronisk flervalgsprøve som er forskjellig for henholdsvis salgsbevilling, skjenkebevilling og for kontrollører. Det avsettes 60 minutter til besvarelse av prøven.
+
+Bestått prøve for skjenkebevilling skal dokumentere at kandidaten har kunnskaper om innholdet i bestemmelsene i [alkohollovens kapittel 1](lov/1989-06-02-27/kap1), [4](lov/1989-06-02-27/kap4), [5](lov/1989-06-02-27/kap5), [7](lov/1989-06-02-27/kap7), [8](lov/1989-06-02-27/kap8) og [9](lov/1989-06-02-27/kap9), samt forskrifter gitt med hjemmel i disse kapitlene, og at vedkommende har kjennskap til [alkohollovens kapittel 2](lov/1989-06-02-27/kap2), [3](lov/1989-06-02-27/kap3), [6](lov/1989-06-02-27/kap6), [10](lov/1989-06-02-27/kap10), samt forskrifter gitt med hjemmel i disse kapitlene.
+
+Bestått prøve for salgsbevilling skal dokumentere at kandidaten har kunnskaper om innholdet i bestemmelsene i [alkohollovens kapittel 1](lov/1989-06-02-27/kap1), [3](lov/1989-06-02-27/kap3), [7](lov/1989-06-02-27/kap7), [8](lov/1989-06-02-27/kap8) og [9](lov/1989-06-02-27/kap9), samt forskrifter gitt med hjemmel i disse kapitlene, og at vedkommende har kjennskap til [alkohollovens kapittel 2](lov/1989-06-02-27/kap2), [4](lov/1989-06-02-27/kap4), [5](lov/1989-06-02-27/kap5), [6](lov/1989-06-02-27/kap6) og [10](lov/1989-06-02-27/kap10), samt forskrifter gitt med hjemmel i disse kapitlene.
+
+Bestått prøve for kontrollører skal dokumentere at kandidaten har tilstrekkelige kunnskaper om de bestemmelsene som er nevnt i annet og tredje ledd, til å kunne utføre forsvarlig salgs- og skjenkekontroll.
+
+> Endret ved forskrifter [8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2015), [8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2016).
+
+### § 5-5
+
+Ved bestått prøve utsteder bevillingsmyndigheten bevis som dokumenterer at kunnskapskravet er oppfylt.
+
+### § 5-6
+
+For avleggelse av prøve, herunder forsøk på avleggelse, betales et forskuddsgebyr på kr 400.
+
+> Endret ved [forskrift 8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2015).
+
+## Kapittel 6. Bevillingsgebyr
+
+### § 6-1
+
+Bevillingsgebyr på kommunal salgsbevilling for alkoholholdig drikk utenom Vinmonopolet og kommunal og statlig bevilling for skjenking av alkoholholdig drikk fastsettes for ett kalenderår om gangen for hver enkelt bevilling på grunnlag av forventet mengde alkoholholdig drikk.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+### § 6-2
+
+Gebyret skal betales etter følgende satser:Salg:0,26 kr pr. vareliter for alkoholholdig drikk i gruppe 10,75 kr pr. vareliter for alkoholholdig drikk i gruppe 2Skjenking:0,63 kr pr. vareliter for alkoholholdig drikk i gruppe 11,62 kr pr. vareliter for alkoholholdig drikk i gruppe 25,35 kr pr. vareliter for alkoholholdig drikk i gruppe 3.
+
+Bevillingsgebyret utgjør pr. år minimum kr 2130 for salg og kr 6600 for skjenking. Bevillingsmyndigheten kan likevel i særlige tilfeller bestemme at gebyret skal settes lavere. For ambulerende bevilling kan bevillingsmyndigheten kreve et gebyr på inntil kr 470 pr. gang.
+
+> Endret ved forskrifter [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012), [5 des 2012 nr. 1142](forskrift/2012-12-05-1142) (i kraft 1 jan 2013), [26 nov 2013 nr. 1381](forskrift/2013-11-26-1381) (i kraft 1 jan 2014), [8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2015), [4 nov 2015 nr. 1294](forskrift/2015-11-04-1294) (i kraft 1 jan 2016), [24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016), [23 nov 2016 nr. 1361](forskrift/2016-11-23-1361) (i kraft 1 jan 2017), [21 nov 2017 nr. 1818](forskrift/2017-11-21-1818) (i kraft 1 jan 2018), [20 nov 2018 nr. 1730](forskrift/2018-11-20-1730) (i kraft 1 jan 2019), [29 nov 2019 nr. 1595](forskrift/2019-11-29-1595) (i kraft 1 jan 2020), [26 okt 2020 nr. 2167](forskrift/2020-10-26-2167) (i kraft 1 jan 2021), [25 nov 2021 nr. 3526](forskrift/2021-11-25-3526) (i kraft 1 jan 2022), [31 okt 2022 nr. 1914](forskrift/2022-10-31-1914) (i kraft 1 jan 2023), [3 nov 2023 nr. 1791](forskrift/2023-11-03-1791) (i kraft 1 jan 2024), [26 nov 2024 nr. 2856](forskrift/2024-11-26-2856) (i kraft 1 jan 2025), [28 nov 2025 nr. 2361](forskrift/2025-11-28-2361) (i kraft 1 jan 2026).
+
+### § 6-3
+
+Bevillingsmyndigheten fastsetter frister for bevillingshavers innsendelse av oppgave over forventet omsatt mengde alkoholholdig drikk og innbetaling av gebyr.
+
+Ved årets utløp skal bevillingshaver sende inn oppgave over faktisk omsatt mengde alkohol. Dersom det foreligger et avvik mellom tidligere oppgitt forventet omsetning og faktisk omsetning, kan bevillingsmyndigheten foreta en etterberegning og et etteroppgjør.
+
+## Kapittel 7. Opplysninger til statistiske formål
+
+### § 7-1
+
+Innehaver av salgs- eller skjenkebevilling og virksomheter som utleverer alkoholholdig drikk i forbindelse med privat innførsel plikter etter anmodning å avgi opplysninger til bruk for statistiske formål til Helsedirektoratet.
+
+Opplysninger som kan kreves avgitt, gjelder omsetning av alkoholholdig drikk på det enkelte salgs- eller skjenkested, herunder vareliter og type. Det kan også kreves opplysninger om alkoholsvak drikk. Helsedirektoratet gir nærmere bestemmelser.
+
+> Endret ved forskrifter [19 juni 2009 nr. 690](forskrift/2009-06-19-690) (i kraft 1 juli 2009), [18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), [2 feb 2024 nr. 187](forskrift/2024-02-02-187).
+
+### § 7-2
+
+Folkehelseinstituttet kan i samarbeid med Statistisk sentralbyrå bestemme hvordan offisiell statistikk skal utarbeides, herunderdefinisjon av statistiske enheter, kjennemerker, klassifikasjoner mv.databearbeidingen.Det skal legges vekt på statistikkhensyn og på hensynet til de berørte parters kostnader ved innhenting av opplysninger og utarbeidelse av statistikk.
+
+> Endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
+
+### § 7-3
+
+Kommunene plikter etter anmodning å avgi opplysninger om kommunens forvaltning av [alkoholloven](lov/1989-06-02-27) til Helsedirektoratet, herunder opplysninger om innkrevd omsetningsgebyr.
+
+> Tilføyd ved forskrift [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012), endret ved forskrifter [14 jan 2016 nr. 34](forskrift/2016-01-14-34), [2 feb 2024 nr. 187](forskrift/2024-02-02-187).
+
+### § 7-4
+
+Innehaver av tillatelse for avgiftsfritt salg på flyplass plikter å avgi opplysninger til statistiske formål til Helsedirektoratet.
+
+Opplysninger som kan kreves avgitt, gjelder omsetning av alkoholholdig drikk, herunder vareliter og type. Det kan også kreves opplysninger om alkoholsvak drikk.
+
+> Tilføyd ved forskrift [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012), endret ved forskrifter [14 jan 2016 nr. 34](forskrift/2016-01-14-34), [2 feb 2024 nr. 187](forskrift/2024-02-02-187).
+
+## Kapittel 8. Internkontroll
+
+### § 8-1
+
+For å sikre at krav fastsatt i eller i medhold av [alkoholloven](lov/1989-06-02-27) overholdes, jf. [alkoholloven § 1-1](lov/1989-06-02-27/§1-1), skal innehavere av salgs- og skjenkebevillinger føre internkontroll med den virksomhet som drives i henhold til bevillingen, [alkoholloven](lov/1989-06-02-27) og bestemmelser fastsatt i medhold av [alkoholloven](lov/1989-06-02-27). Bestemmelsene i kapitlet her gjelder tilsvarende for virksomheter som utleverer alkoholholdig drikk i forbindelse med privat innførsel.
+
+Første ledd gjelder ikke for innehavere av ambulerende skjenkebevilling etter [alkoholloven § 4-5](lov/1989-06-02-27/§4-5). For bevilling gitt etter [alkoholloven § 1-6](lov/1989-06-02-27/§1-6) annet ledd, siste punktum kan det gjøres unntak fra plikten etter første ledd når det vil virke urimelig bl.a. av hensyn til stedets størrelse.
+
+> Endret ved forskrifter [19 juni 2009 nr. 690](forskrift/2009-06-19-690) (i kraft 1 juli 2009), [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+### § 8-2
+
+I denne forskriften betyr internkontroll systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i bevillingen, [alkoholloven](lov/1989-06-02-27) og i bestemmelser fastsatt i medhold av [alkoholloven](lov/1989-06-02-27).
+
+### § 8-3
+
+Internkontrollen skal tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold og ha det omfang som er nødvendig for å overholde krav i bevillingen, [alkoholloven](lov/1989-06-02-27) og bestemmelser fastsatt i medhold av [alkoholloven](lov/1989-06-02-27). Internkontrollen skal dokumenteres i den form og i det omfang som er nødvendig på bakgrunn av virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Dokumentasjonen skal til enhver tid være oppdatert og tilgjengelig for kontrollmyndigheten.
+
+Internkontrollen innebærer at den/de ansvarlige for virksomheten skalha oversikt over krav i bevillingen, [alkoholloven](lov/1989-06-02-27) og bestemmelser fastsatt i medhold av [alkoholloven](lov/1989-06-02-27) som gjelder for virksomheten,sørge for at ansatte i virksomheten har tilstrekkelige kunnskaper og kompetanse til å overholde kravene til virksomheten, herunder kravene til internkontroll,ha oversikt over hvordan virksomheten er organisert og hvordan oppgaver og ansvar er fordelt,ha rutiner for å sikre overholdelse av krav i bevillingen, [alkoholloven](lov/1989-06-02-27) og bestemmelser fastsatt i medhold av [alkoholloven](lov/1989-06-02-27) som gjelder for virksomheten,ha rutiner for å forebygge, avdekke og rette opp avvik,foreta systematisk og regelmessig gjennomgang av internkontrollen.
+
+## Kapittel 9. Kontroll med salgs- og skjenkebevillinger
+
+### § 9-1
+
+Kommunen har ansvar for kontroll med utøvelsen av kommunal bevilling til skjenking av alkoholholdig drikk, kommunal bevilling til salg av alkoholholdig drikk gitt til andre enn Vinmonopolet og statlig bevilling etter [alkoholloven § 5-3](lov/1989-06-02-27/§5-3) første ledd, herunder for kontroll med føring av internkontroll etter [kapittel 8](forskrift/2005-06-08-538/kap8) i forskriften her.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+### § 9-2
+
+Kommunen skal gi nødvendig råd og veiledning til bevillingshaver, styrer og stedfortreder, slik at omsetningen av alkohol kan skje i samsvar med regelverket, og på en slik måte at alkoholpolitiske og sosiale hensyn ivaretas.
+
+### § 9-3
+
+Kommunen er ansvarlig for at de som skal foreta kontroll ved salgs- og skjenkestedene (kontrollørene) får nødvendig opplæring i alkohollovgivningen, kontrollmetoder og rapportskriving for å kunne ivareta sine oppgaver. Kontrollørene skal ha bestått kunnskapsprøve etter [kapittel 5](forskrift/2005-06-08-538/kap5) i denne forskriften.
+
+> Endret ved [forskrift 8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2016).
+
+### § 9-4
+
+Kontrollen skal særlig omfatte salgs- og skjenketidene, aldersgrensebestemmelsene, og at det ikke selges eller skjenkes til personer som er åpenbart påvirket av rusmidler. Kommunen skal sikre at kontrollen til enhver tid er rettet mot de forhold som synes hensiktsmessige etter en vurdering av de lokale forhold.
+
+### § 9-5
+
+Kontroll av skjenkesteder skal gjennomføres med minst to kontrollører.
+
+Kontrollen av salgs- og skjenkesteder kan foregå åpent eller anonymt.
+
+Etter utført kontroll skal kontrollørene alltid presentere seg for stedets ansvarshavende og muntlig redegjøre for sitt inntrykk av stedet.
+
+> Endret ved [forskrift 8 des 2014 nr. 1547](forskrift/2014-12-08-1547) (i kraft 1 jan 2016).
+
+### § 9-6
+
+Skriftlig rapport sendes snarest mulig – og innen en uke – til salgs- eller skjenkestedet med adgang for bevillingshaveren til å uttale seg innen to uker.
+
+Rapportene sendes bevillingsmyndigheten. Rapporter fra steder med statlig bevilling skal sendes via kommunal bevillingsmyndighet. Salgs- eller skjenkestedets uttalelse til rapporten skal følge med.
+
+### § 9-7
+
+Salgs- og skjenkestedene skal kontrolleres så ofte som behovet tilsier. Hvert sted skal kontrolleres minst en gang årlig. Kommunen skal årlig utføre minst tre ganger så mange kontroller som de har salgs- og skjenkesteder.
+
+### § 9-8
+
+Innenfor rammen av denne forskrift kan kommunen fastsette nærmere retningslinjer for utøvelsen av kontrollen med salgs- og skjenkestedene.
+
+## Kapittel 10. Inndragning av salgs- og skjenkebevillinger
+
+### § 10-1
+
+Bestemmelsene om prikktildeling og inndragning i [§ 10-2](forskrift/2005-06-08-538/§10-2) til [§ 10-6](forskrift/2005-06-08-538/§10-6) gjelder der kontroll gjennomført i henhold til [kapittel 9](forskrift/2005-06-08-538/kap9) i denne forskriften eller rapport fra andre myndigheter, avdekker at innehaver av kommunal salgs- eller skjenkebevilling ikke har oppfylt sine plikter etter [alkoholloven](lov/1989-06-02-27), bestemmelser gitt i medhold av [alkoholloven](lov/1989-06-02-27), bestemmelser i lov eller i medhold av lov som har sammenheng med [alkohollovens](lov/1989-06-02-27) formål, eller plikter som følger av vilkår i bevillingsvedtaket.
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, gjelder overtredelser begått fra og med denne dato).
+
+### § 10-2
+
+Ved overtredelser som nevnt i [§ 10-3](forskrift/2005-06-08-538/§10-3) skal kommunen tildele bevillingshaver et bestemt antall prikker. Likeartede brudd avdekket ved samme kontroll skal anses som ett enkelt brudd.
+
+Dersom bevillingshaver i løpet av en periode på to år er tildelt til sammen 12 prikker, skal kommunestyret inndra bevillingen for et tidsrom på én uke. Dersom det i løpet av toårsperioden blir tildelt flere enn 12 prikker skal kommunestyret øke lengden på inndragningen tilsvarende.
+
+Ved beregning av toårsperioden skal overtredelsestidspunktene legges til grunn.
+
+Toårsperioden gjelder uavhengig av om bevillingen er fornyet i løpet av perioden, jf. [alkoholloven § 1-6](lov/1989-06-02-27/§1-6). Ved overdragelse begynner ny periode på overdragelsestidspunktet, jf. [alkoholloven § 1-10](lov/1989-06-02-27/§1-10) første ledd.
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, gjelder overtredelser begått fra og med denne dato).
+
+### § 10-3
+
+Følgende overtredelser fører til tildeling av åtte prikker:salg, utlevering eller skjenking til person som er under 18 år, jf. [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) annet leddbrudd på bistandsplikten, jf. [§ 4-1](forskrift/2005-06-08-538/§4-1) annet ledd i denne forskriftenbrudd på kravet om forsvarlig drift, jf. [alkoholloven § 3-9](lov/1989-06-02-27/§3-9) og [§ 4-7](lov/1989-06-02-27/§4-7)hindring av kommunal kontroll, jf. [alkoholloven § 1-9](lov/1989-06-02-27/§1-9).
+
+Følgende overtredelser fører til tildeling av fire prikker:salg og utlevering til person som er åpenbart påvirket av rusmidler, jf. [§ 3-1](forskrift/2005-06-08-538/§3-1) i denne forskriften, skjenking til person som er eller må antas å bli åpenbart påvirket av rusmidler, jf. [§ 4-2](forskrift/2005-06-08-538/§4-2) første ledd i denne forskriftenbrudd på salgs-, utleverings- og skjenketidsbestemmelsene, jf. [alkoholloven § 3-4a](lov/1989-06-02-27/§3-4a), [§ 3-7](lov/1989-06-02-27/§3-7) og [§ 4-4](lov/1989-06-02-27/§4-4)skjenking av alkoholholdig drikk gruppe 3 til person på 18 eller 19 år, jf. [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) første leddbrudd på alderskravet til den som selger, utleverer eller skjenker alkoholholdig drikk, jf. [alkoholloven § 1-5](lov/1989-06-02-27/§1-5) tredje ledd.
+
+Følgende overtredelser fører til tildeling av to prikker:det gis adgang til lokalet til person som er åpenbart påvirket av rusmidler, eller bevillingshaver sørger ikke for at person som er åpenbart påvirket av rusmidler forlater stedet, jf. [§ 4-1](forskrift/2005-06-08-538/§4-1) i denne forskriftenmangler ved bevillingshavers internkontroll, jf. [alkoholloven § 1-9](lov/1989-06-02-27/§1-9) siste ledd, jf. [kapittel 8](forskrift/2005-06-08-538/kap8) i denne forskriftenmanglende levering av omsetningsoppgave innen kommunens frist, jf. [kapittel 6](forskrift/2005-06-08-538/kap6) i denne forskriftenmanglende betaling av bevillingsgebyr innen kommunens frist, jf. [kapittel 6](forskrift/2005-06-08-538/kap6) i denne forskriftenbrudd på krav om styrer og stedfortreder, jf. [alkoholloven § 1-7c](lov/1989-06-02-27/§1-7c)gjentatt narkotikaomsetning på skjenkestedet, jf. [alkoholloven § 1-8](lov/1989-06-02-27/§1-8) annet leddgjentatt diskriminering, jf. [alkoholloven § 1-8](lov/1989-06-02-27/§1-8) annet ledd.
+
+Følgende overtredelser fører til tildeling av én prikk:brudd på kravet om alkoholfrie alternativer, jf. [§ 4-6](forskrift/2005-06-08-538/§4-6) i denne forskriftenbrudd på regler om skjenkemengde, jf. [§ 4-5](forskrift/2005-06-08-538/§4-5) i denne forskriftenkonsum av medbrakt alkoholholdig drikk, jf. [§ 4-4](forskrift/2005-06-08-538/§4-4) i denne forskriftengjester medtar alkohol ut av lokalet, jf. [§ 4-4](forskrift/2005-06-08-538/§4-4) i denne forskriftenbrudd på plikten til å påse at det ikke drikkes alkohol i salgslokalet, jf. [§ 3-2](forskrift/2005-06-08-538/§3-2) i denne forskriften.brudd på krav om plassering av alkoholholdig drikk på salgssted, jf. [§ 3-3](forskrift/2005-06-08-538/§3-3) i denne forskriftenbrudd på vilkår i bevillingsvedtaket, jf. [alkoholloven § 3-2](lov/1989-06-02-27/§3-2) og [§ 4-3](lov/1989-06-02-27/§4-3)brudd på reklameforbudet, jf. [alkoholloven § 9-2](lov/1989-06-02-27/§9-2), jf. [kapittel 14](forskrift/2005-06-08-538/kap14) i denne forskriftenandre overtredelser som omfattes av [alkoholloven § 1-8](lov/1989-06-02-27/§1-8) første ledd, jf. blant annet [alkoholloven § 3-1](lov/1989-06-02-27/§3-1) femte ledd, [§ 4-1](lov/1989-06-02-27/§4-1) annet ledd, [§ 8-6](lov/1989-06-02-27/§8-6), [§ 8-6a](lov/1989-06-02-27/§8-6a), [§ 8-12](lov/1989-06-02-27/§8-12) og [§ 8-13](lov/1989-06-02-27/§8-13).
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016), endret ved forskrifter [24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016), [29 juni 2020 nr. 1431](forskrift/2020-06-29-1431) (i kraft 1 sep 2020).
+
+### § 10-4
+
+Dersom det foreligger helt spesielle og svært formildende omstendigheter, kan kommunen tildele færre prikker for en overtredelse enn det som følger av [§ 10-3](forskrift/2005-06-08-538/§10-3).
+
+Dersom det foreligger svært skjerpende omstendigheter, kan kommunen tildele flere prikker for en overtredelse enn det som følger av [§ 10-3](forskrift/2005-06-08-538/§10-3). Kommunestyret kan ved svært skjerpende omstendigheter også øke lengden på inndragningen utover det som følger av [§ 10-2](forskrift/2005-06-08-538/§10-2), i de alvorligste tilfellene for resten av bevillingsperioden.
+
+Dersom omstendigheter som nevnt i første og annet ledd vektlegges, skal dette begrunnes særskilt i vedtaket.
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, gjelder overtredelser begått fra og med denne dato).
+
+### § 10-5
+
+Der det foreligger grunnlag for prikktildeling, skal kommunen sende ut forhåndsvarsel om tildeling av prikker, jf. [forvaltningsloven § 16](lov/1967-02-10/§16).
+
+Kommunestyret fatter enkeltvedtak om tildeling av prikker. Bevillingshaver skal i forbindelse med vedtaket orienteres om mulige konsekvenser ved ytterligere prikktildelinger.
+
+Vedtak etter annet ledd kan påklages etter [forvaltningslovens](lov/1967-02-10) regler. Der klageretten ikke benyttes, kan tildelingen av prikker likevel påklages i forbindelse med klage på senere vedtak om inndragning hvor tildelingen av prikker inngår som grunnlag.
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, gjelder overtredelser begått fra og med denne dato).
+
+### § 10-6
+
+Dersom tildeling av prikker danner grunnlag for inndragning, skal kommunen sende ut forhåndsvarsel om inndragning av bevillingen, jf. [forvaltningsloven § 16](lov/1967-02-10/§16).
+
+Kommunestyret fatter enkeltvedtak om inndragning av bevilling på grunnlag av tildeling av prikker.
+
+Kommunen bør iverksette vedtak om inndragning innen fire uker etter vedtakelsesdato.
+
+> Tilføyd ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, gjelder overtredelser begått fra og med denne dato).
+
+### § 10-7
+
+En bevilling kan inndras dersom den ikke er benyttet i løpet av det siste året.
+
+Bevillingen kan likevel ikke inndras dersom årsaken til manglende bruk av bevillingen er en hindring utenfor bevillingshavers kontroll og som han ikke med rimelighet kunne unngå eller overvinne følgene av. Dette gjelder bare i den utstrekning det kan antas at driften kan gjenopptas innen rimelig tid.
+
+> Endret ved [forskrift 26 okt 2015 nr. 1225](forskrift/2015-10-26-1225) (i kraft 1 jan 2016, tidligere § 10-1).
+
+## Kapittel 11. Overdragelse av virksomhet
+
+### § 11-1
+
+Dersom ny bevilling er tildelt før et eierskifte, kan alkoholholdig drikk som inngår i varebeholdningen overdras sammen med virksomheten. Bevillingsmyndigheten skal ha melding om overdragelsen.
+
+### § 11-2
+
+Dersom ny bevilling ikke er tildelt før et eierskifte, men virksomheten fortsetter å drive på tidligere bevilling, jf. [alkoholloven § 1-10](lov/1989-06-02-27/§1-10) første ledd tredje og fjerde punktum, kan alkoholholdig drikk som inngår i varebeholdningen overdras sammen med virksomheten under forutsetning av at partene samtidig med melding om overdragelsen dokumentererhvem som overtar virksomhetentidspunktet for overdragelsenvarebeholdningens omfangen plan for håndtering av varebeholdningen for det tilfelle at ny bevilling ikke er gitt innen utløpet av overgangsperioden.
+
+Bevillingsmyndighetene kan ved ettersyn kontrollere de dokumenterte opplysninger.
+
+## Kapittel 12. Panthavers salg av alkoholholdig drikk
+
+### § 12-1
+
+Helsedirektoratet kan gi panthaver som dokumenterer at han har fått overført alkoholholdig drikk fra konkursbo, tillatelse til å selge alkoholholdig drikk til bevillingshaver etter [alkoholloven](lov/1989-06-02-27).
+
+Før tillatelse gis, skal det innhentes uttalelse fra politiet.
+
+> Endret ved [forskrift 8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+### § 12-2
+
+Tillatelsen gis for et bestemt kvantum. Panthaver skal utpeke en person som vedkommende har styringsrett over, som skal være ansvarlig for å gjennomføre salget.
+
+### § 12-3
+
+Varelageret skal være tilfredsstillende sikret.
+
+### § 12-4
+
+Panthaver skal dokumentere at varene er overdratt til innehaver av bevilling etter [alkoholloven](lov/1989-06-02-27). Videresalg skal være gjennomført innen tre måneder. Dersom dette ikke skjer, skal panthaver gi Helsedirektoratet melding om årsaken. Direktoratet kan gi utsatt frist.
+
+> Endret ved [forskrift 8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+## Kapittel 13. Register med opplysninger om innehavere av salgs- og skjenkebevilling
+
+### § 13-1
+
+*Registerets omfang og formål*
+
+Registeret skal omfatte opplysninger om innehavere av salgs- og skjenkebevilling.
+
+Registeret skal nyttes til å holde oversikt over hvem som har salgs- og skjenkebevilling.
+
+### § 13-2
+
+*Behandlingsansvarlig*
+
+Helsedirektoratet er ansvarlig for registeret.
+
+> Endret ved [forskrift 8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012).
+
+### § 13-3
+
+*Føring av registeret*
+
+Registeret føres ved hjelp av elektronisk databehandling (edb).
+
+Bevillingsmyndighetene skal selv vedlikeholde opplysningene i registeret. Det skal legges til rette for at bevillingsmyndighetene på enklest mulig måte kan registrere og endre opplysninger i registeret.
+
+Det skal legges til rette for at det kan benyttes opplysninger fra Enhetsregisteret der det er praktisk mulig, jf. [lov 3. juni 1994 nr. 15 om Enhetsregisteret § 1](lov/1994-06-03-15/§1) annet ledd tredje punktum.
+
+### § 13-4
+
+*Registerets innhold*
+
+Registeret skal inneholde følgende typer opplysningerhvilke rettigheter bevillingen omfatter, jf. bevilling etter [alkoholloven § 3-1](lov/1989-06-02-27/§3-1) andre ledd, bevilling gitt til andre enn Vinmonopolet etter [alkoholloven § 3-1](lov/1989-06-02-27/§3-1) første ledd, jf. [§ 3-1b](lov/1989-06-02-27/§3-1b), eller bevilling etter [§ 4-2](lov/1989-06-02-27/§4-2) første og tredje leddbevillingshavers firmanavn og organisasjonsnummer/foretaksnummervirksomhetens adresse og andre kontaktopplysningerbevilling gyldig til (dato)bevilling gitt (dato)bevilling inndradd (dato)for tilfeller som nevnt i [alkoholloven § 1-10](lov/1989-06-02-27/§1-10) første ledd: dato for overdragelse av virksomheten og informasjon om hvem virksomheten er overdratt til.
+
+> Endret ved [forskrift 24 juni 2016 nr. 816](forskrift/2016-06-24-816) (i kraft 1 juli 2016).
+
+### § 13-5
+
+*Utlevering av opplysninger fra registeret*
+
+Opplysningene i registeret er offentlige.
+
+### § 13-6
+
+*Forholdet til personopplysningsloven*
+
+[Lov 14. april 2000 nr. 31 om behandling av personopplysninger (personopplysningsloven)](lov/2000-04-14-31) gjelder i den grad opplysningene i registeret er personopplysninger, jf. lovens § 2.
+
+## Kapittel 14. Forbud mot reklame for alkoholholdig drikk
+
+### § 14-1
+
+Reklame for alkoholholdig drikk er forbudt.
+
+Forbudet gjelder også bruk av vare- eller firmamerke eller kjennetegn for alkoholholdig drikk, forutsatt at en ikke uvesentlig del av dem reklamen henvender seg til må antas å ville oppfatte den som reklame for alkoholholdig drikk.
+
+Forbudet gjelder også reklame for andre varer med samme vare- eller firmamerke eller kjennetegn som alkoholholdig drikk, med mindre varen har et eget distinkt varemerke/-kjennetegn. Når varen har et eget distinkt varemerke/-kjennetegn, kan det i reklame i tillegg gis opplysninger om vare- eller firmamerke eller kjennetegn, med mindre en ikke uvesentlig del av dem reklamen henvender seg til må antas å ville oppfatte den som alkoholreklame.
+
+Varer som nevnt i første og tredje ledd må heller ikke inngå i reklame for andre varer eller tjenester.
+
+### § 14-2
+
+Med reklame forstås enhver form for massekommunikasjon i markedsføringsøyemed, herunder reklame i trykt skrift, film, radio, fjernsyn, telefonnett, datanettverk, lysreklame, plakater, skilt og lignende innretninger, avbildninger, utstillinger og liknende, distribusjon av trykksaker, vareprøver mv.
+
+Det foreligger markedsføringsøyemed dersom et siktemål med kommunikasjonen er å fremme salg. I vurderingen av om det foreligger markedsføringsøyemed, må det bl.a. legges vekt på hvem som er avsender av informasjonen, hvem som tar initiativ til å gi informasjonen, innholdet i og utformingen av informasjonen og hvordan informasjonen er presentert og formidlet.
+
+> Endret ved [forskrift 31 aug 2015 nr. 1015](forskrift/2015-08-31-1015) (i kraft 1 nov 2015).
+
+### § 14-3
+
+Unntatt fra forbudet er:Annonser i et utenlandsk trykt skrift som innføres til Norge, med mindre hovedformålet med skriftet eller importen er å reklamere for alkoholholdig drikk i Norge.Informative annonser i bransjetidsskrifter og annen informasjon til bevillingshavere som ledd i den ordinære omsetningsprosess for alkoholholdige drikker.Annonser om salgssted, herunder nettsalgssted, eller skjenkested med informasjon om stedets navn, adresse og åpningstider samt bevillingsrettigheter. Tilsvarende informasjon kan gis fra salgs- og skjenkested på egne nettsider.Opplysningsskilt av lite format i umiddelbar tilknytning til salgs- eller skjenkested.Merking av vanlig serveringsutstyr på skjenkested med alkoholprodusenters eller grossisters firmanavn og/eller firmamerke.Merking av bevillingshavers kjøretøyer, emballasje, betjeningsuniformer ol med eget firmanavn og/eller firmamerke.Reklame i utenlandske fjernsynskanaler, når reklamen er i samsvar med reklamereglene i det land kanalen sendes fra. Unntaket gjelder ikke reklame i fjernsynssendinger som er spesielt rettet mot Norge.Nøkterne ikke-produktspesifikke faktaopplysninger om alkoholholdig drikk, bl.a. om råvarer, tilvirkning, oppbevaring, bruksområder og serveringsmåte, herunder ikke-produktspesifikke bilder og andre illustrasjoner som framstiller alkoholholdig drikk, i massekommunikasjonskanaler som mottaker selv aktivt må oppsøke for å få denne informasjonen fra avsender.Nøkterne ikke-produktspesifikke faktaopplysninger om at alkoholholdig drikk inngår i mat- og drikkepakke ved skjenkested, eller at opplevelser knyttet til slik drikk inngår i reisearrangementer. Det kan ikke vises bilder eller illustrasjoner av alkoholholdig drikk.Ved nettsalg: Nøkterne produkt- og prisopplysninger, herunder bilder av produktene på nøytral bakgrunn, i nettbutikk når opplysningene gis av AS Vinmonopolet som grunnlag for bestilling over nettet (nettsalg) eller innehaver av kommunal salgsbevilling for alkoholholdig drikk i gruppe 1 når bevillingen omfatter nettsalg. Opplysningene om den alkoholholdige drikken må ikke framheve drikken i forhold til andre produkter som omsettes i nettbutikken.Ved auksjon: Nøkterne produkt- og prisopplysninger om produkter som skal auksjoneres bort, herunder bilder av produktene på nøytral bakgrunn. Slike opplysninger kan kun gis av AS Vinmonopolet eller auksjonshus som bistår selskapet og kun på deres hjemmesider eller etter forespørsel.På salgs- og skjenkesteder: Nøkterne produktspesifikke faktaopplysninger om de alkoholholdige drikkene som omsettes på stedet. Det kan gis opplysninger om pris, råvarer, tilvirkning, duft, smak, farge, serveringsmåte, oppbevaring og bruksområder samt vises bilder av produktene på nøytral bakgrunn. Produktspesifikt informasjonsmateriell i form av produktkataloger, -brosjyrer eller lignende, er ikke tillatt. Opplysningene om den alkoholholdige drikken må ikke framheve drikken i forhold til andre produkter som omsettes på stedet. På salgssteder må opplysningene plasseres i nær fysisk tilknytning til produktene. Skjenkesteder kan i menyen informere om hvilke alkoholholdige drikker som passer til de matrettene som serveres på stedet, dersom det også oppgis alkoholfrie alternativer.På hjemmesidene til salgs- og skjenkesteder: Nøkterne produktspesifikke faktaopplysninger om de alkoholholdige drikkene som omsettes på stedet, dersom det er en del av en fullstendig oversikt over produktene som omsettes på stedet. Det kan gis opplysninger om pris, råvarer, tilvirkning, duft, smak, farge, serveringsmåte, oppbevaring og bruksområder samt vises bilder av produktene på nøytral bakgrunn. Opplysningene om den alkoholholdige drikken må ikke framheve drikken i forhold til andre produkter som omsettes på stedet. Skjenkesteder kan i menyen informere om hvilke alkoholholdige drikker som passer til de matrettene som serveres på stedet, dersom det også oppgis alkoholfrie alternativer.På hjemmesidene til produsenter og grossister: Nøkterne produktspesifikke faktaopplysninger om råvarer, tilvirkning, duft, smak, farge, serveringsmåte, oppbevaring, bruksområder og forhandlere, herunder produktbilder på nøytral bakgrunn, på følgende vilkår:Det gis tilsvarende opplysninger for øvrige produkter som er i produsentenes og grossistenes produktutvalg.Det gis opplysninger som er obligatorisk å merke produktene med etter [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne (matinformasjonsforskriften)](forskrift/2014-11-28-1497). Ingrediensliste og næringsdeklarasjon bør oppgis hvis slik informasjon finnes.Det opplyses om skadevirkninger alkohol kan medføre.Nærmere krav til innhold, utforming og plassering av opplysningene kan fastsettes av Helsedirektoratet.Ved forhåndsbestilling av alkoholholdig drikk for utlevering på utenlands flyreiser: Nøkterne produkt- og prisopplysninger som grunnlag for bestillingen dersom informasjonen kun er tilgjengelig for reisende som har bedt om å få denne informasjonen. Det kan på nøktern måte også opplyses til reisende at de kan be om denne informasjonen.På messer, festivaler, omvisninger, kurs og foredrag som omhandler alkoholholdig drikk: Nøkterne produktspesifikke faktaopplysninger om råvarer, tilvirkning, duft, smak, farge, serveringsmåte, oppbevaring, bruksområder og forhandlere, herunder produktbilder på nøytral bakgrunn. Det kan også opplyses om hjemmesider med slik produktinformasjon, jf. denne bestemmelsens nr. 13 og 14.Området hvor opplysninger etter første ledd første punktum gis, må være tydelig avgrenset uten tilgang for personer under 18 år.Det kan gis nøkterne opplysninger som er nødvendige for å gjøre slike arrangementer og innholdet i arrangementene kjent. Bilder eller illustrasjoner som framstiller alkoholholdig drikk og opplysninger om firmamerker eller produkter er ikke tillatt. Opplysninger om spesifikke produsenter og grossister er kun tillatt på arrangementets hjemmeside.Reklame for andre varer og tjenester med samme navn som alkoholholdig drikk, dersom navnet på den alkoholholdige drikken er produsentens eget personnavn. Det er også tillatt å bruke personnavnet på en merkevare for alkoholholdig drikk selv om personnavnet også brukes på merkevarer for andre varer eller tjenester.Den alkoholholdige drikken må ha et eget distinkt varemerke, og etikett/emballasje må ikke gi klare assosiasjoner til de andre varene og tjenestene ved bruk av ord og ordforbindelser, herunder slagord, navn, bokstaver, tall, figurer, form og avbildninger.Særlig merking for generelle merkeordninger på etiketten eller emballasjen til alkoholholdig drikk, når merkingen dokumenterer at produkter som bærer merkingen oppfyller særlige krav til produksjonsmåte, opprinnelse eller innhold.Nøktern bruk av samme firmanavn eller firmamerke som alkoholholdig drikk ved sponsing av ideelle formål og hvor sponsors markedsføringsøyemed er uvesentlig. Slik merking kan kun gis en tilbaketrukket plassering på informasjonsmateriell for det formålet som sponses.Firmanavn eller firmamerke for alkoholholdig drikk som navn på skjenkestedet når tilvirkningen av drikken skjer ved skjenkestedet.
+
+> Endret ved forskrifter [8 des 2011 nr. 1218](forskrift/2011-12-08-1218) (i kraft 1 jan 2012), [31 aug 2015 nr. 1015](forskrift/2015-08-31-1015) (i kraft 1 nov 2015).
+
+### § 14-4
+
+Plikten til å fjerne utendørs reklame påhviler vedkommende eiendoms eier (fester).
+
+Pålegg fra politiet om å fjerne utendørs reklame mv. kan fullbyrdes etter reglene i [tvangsfullbyrdelsesloven § 13-14](lov/1992-06-26-86/§13-14) uten at dom kreves.
+
+### § 14-5
+
+Departementet kan i det enkelte tilfelle, når særlige grunner foreligger, fravike bestemmelsene i dette kapittel.
+
+### § 14-6
+
+Bestemmelsene i [§ 14-1](forskrift/2005-06-08-538/§14-1) til [§ 14-5](forskrift/2005-06-08-538/§14-5) gjelder også for Svalbard og Jan Mayen.
+
+### § 14-7
+
+Reklame for stoffer som er særskilt beregnet for, eller betegnes som egnet til, tilsetning til alkoholholdig drikk er forbudt. Det samme gjelder reklame for emner, tilvirkingsbeskrivelser, apparater og andre midler til å framstille slike drikker.
+
+Unntatt fra forbudet er produkt- og prisopplysninger på Internett når opplysningene gis som grunnlag for bestilling av varer over nettet (nettsalg).
+
+## Kapittel 15. Innførsel
+
+### § 15-1
+
+Det er ikke tillatt for personer under 18 år å innføre alkoholholdig drikk i gruppe 1 og 2 og for personer under 20 år å innføre alkoholholdig drikk i gruppe 3.
+
+> Endret ved [forskrift 19 juni 2009 nr. 690](forskrift/2009-06-19-690) (i kraft 1 juli 2009).
+
+### § 15-2
+
+Når privatpersoner innfører alkoholholdig drikk, kan Helsedirektoratet og toll- og avgiftsmyndighetene kreve framlagt dokumentasjon på at den alkoholholdige drikken er til personlig bruk dersom det på grunn av mengden alkoholholdig drikk eller av andre årsaker er grunn til å tro at varene ikke er til personlig bruk. Dersom slik dokumentasjon ikke gis, kan varene ikke innføres uten rett til å drive engrossalg eller uten bevilling som angitt i [alkoholloven § 2-1](lov/1989-06-02-27/§2-1).
+
+> Endret ved [forskrift 19 juni 2009 nr. 690](forskrift/2009-06-19-690) (i kraft 1 juli 2009).
+
+### § 15-3
+
+AS Vinmonopolet kan innføre alkoholholdig drikk for salg til person som har bestilt et produkt til personlig bruk, når slikt produkt ikke finnes i AS Vinmonopolets produktutvalg.
+
+Det er et vilkår for slik innførsel at den alkoholholdige drikken ikke er bestemt for videresalg eller ervervsmessig bruk.
+
+AS Vinmonopolet kan innføre alkoholholdig drikk som vareprøver til intern bruk ved utarbeidelse av markeds- og produktplan, jf. [forskrift 30. november 1995 nr. 938 om AS Vinmonopolets innkjøpsvirksomhet mv](forskrift/1995-11-30-938)., når produktene ikke finnes i AS Vinmonopolets produktutvalg.
+
+> Endret ved forskrift [29 april 2021 nr. 1362](forskrift/2021-04-29-1362).
+
+### § 15-4
+
+Det er forbudt å innføre brennevin som inneholder mer enn 60 volumprosent alkohol.
+
+### § 15-5
+
+Virksomheter som utleverer alkoholholdig drikk til privatpersoner som innfører alkoholholdig drikk til personlig bruk skal:ha et internkontrollsystem som sikrer overholdelse av de krav som gjelder ved utlevering av alkoholholdig drikk, jf. [kapittel 8](forskrift/2005-06-08-538/kap8),være uavhengig av selgeren av den alkoholholdige drikken som utleveres og ikke ha noen direkte eller indirekte fordeler av selve salget ut over normal betaling for tjenesten ogikke ha faste utleveringssteder for alkoholholdig drikk ut over det som er en del av deres normale distribusjonsordning for alle typer forsendelser.
+
+For å kunne registrere seg som utleverer av alkoholholdig drikk ved privat innførsel og dermed lovlig kunne stå for slik utlevering, jf. [alkoholloven § 2-4](lov/1989-06-02-27/§2-4), må virksomheten avgi en egenerklæring om at virksomheten oppfyller de krav som stilles for å kunne utlevere alkoholholdig drikk.
+
+> Tilføyd ved [forskrift 19 juni 2009 nr. 690](forskrift/2009-06-19-690) (i kraft 1 juli 2009).
+
+### § 15-6
+
+Helsedirektoratet kan ilegge virksomheter som forsettlig eller uaktsomt overtrer [§ 15-5](forskrift/2005-06-08-538/§15-5) første ledd nr. 1 og 3, overtredelsesgebyr. [Forskrift 13. september 2024 nr. 2149 om ileggelse og utmåling av overtredelsesgebyr etter alkoholloven](forskrift/2024-09-13-2149) kommer til anvendelse.
+
+> Tilføyd ved forskrift [13 sep 2024 nr. 2152](forskrift/2024-09-13-2152) (i kraft 17 sep 2024).
+
+## Kapittel 16. Aldersgrenser ved innførsel, salg og kjøp av vinråstoff mv.
+
+### § 16-1
+
+Råstoff, halvfabrikata, preparater og andre varer som hovedsakelig anvendes ved tilvirkning av eller som tilsetning til alkoholholdig drikk, må ikke innføres fra utlandet av personer under 18 år.
+
+### § 16-2
+
+Betjening under 18 år må ikke ha befatning med salg eller utlevering av varer som nevnt i [§ 16-1](forskrift/2005-06-08-538/§16-1).
+
+Lærlinger og lærekandidater, jf. [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa (opplæringslova) § 4-1](lov/1998-07-17-61/§4-1), og elever i den videregående skole under praktisk opplæring i bedrift, som ikke er 18 år, kan likevel selge eller utlevere slike varer når dette er nødvendig av hensyn til opplæringen. Det er et vilkår at det foreligger en reell opplæringssituasjon, hvor salg av slike varer inngår som en del av en fastsatt læreplan.
+
+### § 16-3
+
+Salg eller utlevering av varer som nevnt i [§ 16-1](forskrift/2005-06-08-538/§16-1) må ikke skje til personer under 18 år, selv om det forevises skriftlig fullmakt fra foreldre, foresatte eller andre.
+
+Ansatte på salgsstedet har i tvilstilfelle rett og plikt til å kreve at kjøper legitimerer sin alder.
+
+### § 16-4
+
+Det er forbudt å kjøpe varer som nevnt i [§ 16-1](forskrift/2005-06-08-538/§16-1) på vegne av noen som er under 18 år.
+
+### § 16-5
+
+Bestilling av varer som nevnt i [§ 16-1](forskrift/2005-06-08-538/§16-1) må ikke ekspederes med mindre bestillingen inneholder fullstendige opplysninger om kjøpers navn, adresse og alder.
+
+Selger kan ved forsendelsessalg kreve kopi av gyldig legitimasjon fra kjøperen, dersom dette er nødvendig for å kontrollere at salg eller utlevering av varer nevnt i [§ 16-1](forskrift/2005-06-08-538/§16-1) ikke skjer til personer under 18 år.
+
+## Kapittel 17. Ikrafttredelse og overgangsbestemmelser
+
+### § 17-1
+
+Denne forskrift trer i kraft 1. juli 2005. Unntatt fra dette er forskriften [kapittel 8](forskrift/2005-06-08-538/kap8) som trer i kraft 1. januar 2006.
+
+Fra samme tidspunkt oppheves [forskrift 11. desember 1997 nr. 1292 om omsetning av alkoholholdig drikk mv](forskrift/1997-12-11-1292).
+
+### § 17-2
+
+Virksomhet som ved lovens ikrafttredelse innehar kommunal salgsbevilling for øl, kommunal skjenkebevilling eller statlig skjenkebevilling, og virksomhet som får salgsbevilling for alkoholholdig drikk som inneholder høyst 4,7 volumprosent alkohol, kommunal skjenkebevilling eller statlig skjenkebevilling innen 31. desember 2005, skal t.o.m. 31. desember 2005 svare bevillingsgebyr etter bestemmelsene i [forskrift 11. desember 1997 nr. 1292 om omsetning av alkoholholdig drikk mv. kapittel 11](forskrift/1997-12-11-1292/kap11).
+
+### § 17-3
+
+Kommunen kan benytte kontrollører som ikke har bestått kunnskapsprøve etter [alkoholforskriften § 5-1](forskrift/2005-06-08-538/§5-1) fram til 1. juli 2016.
+
+> Tilføyd ved [forskrift 14 des 2015 nr. 1600](forskrift/2015-12-14-1600) (i kraft 1 jan 2016).

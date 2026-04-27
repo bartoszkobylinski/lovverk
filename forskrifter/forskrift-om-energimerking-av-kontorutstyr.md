@@ -1,0 +1,44 @@
+---
+id: "sf-20100625-0940"
+slug: "forskrift-om-energimerking-av-kontorutstyr"
+type: "forskrift"
+ref_id: "forskrift/2010-06-25-940"
+title: "Forskrift om gjennomføring i norsk rett av vedlegg IV nr. 30 til EØS-avtala (forordning (EF) nr. 106/2008 om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr)"
+short_title: "Forskrift om energimerking av kontorutstyr"
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2010-07-01"
+last_change_in_force: "2014-10-10"
+last_updated: null
+xml_hash: "ddb4556e902127703a05b49d8f5b113f6d0e95ec62e5a0e51fef0378756fcfaa"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gjennomføring i norsk rett av vedlegg IV nr. 30 til EØS-avtala (forordning (EF) nr. 106/2008 om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr)
+
+## § 1. Gjennomføring av forordning [(EF) nr. 106/2008](eu/32008r0106) og forordning [(EU) nr. 174/2013](eu/32013r0174)
+
+EØS-avtala vedlegg IV nr. 30 (forordning [(EF) nr. 106/2008](eu/32008r0106) om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr), som endra ved EØS-avtala vedlegg IV nr. 30 (forordning [(EU) nr. 174/2013](eu/32013r0174) av 5. februar 2013 om endring av forordning [(EF) nr. 106/2008](eu/32008r0106) om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr) gjeld som forskrift med dei endringar og tillegg som følgjer av vedlegg IV, protokoll 1 til avtala og avtala elles.
+
+> Endra ved [forskrift 10 okt 2014 nr. 1279](forskrift/2014-10-10-1279).
+
+## § 2. Tilsyn
+
+Noregs vassdrags- og energidirektorat fører tilsyn med at forskrifta vert overhalde.
+
+## § 3. Ikraftsetjing
+
+Forskrifta gjeld frå 1. juli 2010. Frå same tidspunkt vert [forskrift 23. mai 2005 nr. 458](forskrift/2005-05-23-458) om gjennomføring i norsk rett av vedlegg IV til EØS-avtala nr. 18 (forordning [(EF) nr. 2422/2001](eu/32001r2422)) om eit fellesskapsprogram for energieffektivitetsmerking av kontorutstyr gjeld som forskrift med dei tilpassingar som følgjer av vedlegg IV og protokoll 1 til avtala og avtala elles oppheva.
+
+## Forordninger
+
+For å lese forordning [(EF) nr. 106/2008](eu/32008r0106) sjå her: [(pdf)](static/SF/32008r0106t.pdf)
+
+For å lese forordning [(EU) nr. 174/2013](eu/32013r0174) sjå her: [(pdf)](static/SF/32013r0174d.pdf)
+
+> Endra ved [forskrift 10 okt 2014 nr. 1279](forskrift/2014-10-10-1279).

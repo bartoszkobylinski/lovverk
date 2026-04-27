@@ -1,0 +1,439 @@
+---
+id: "nl-19870612-056"
+slug: "sameloven-samel"
+type: "lov"
+ref_id: "lov/1987-06-12-56"
+title: "Lov om Sametinget og andre samiske rettsforhold (sameloven)"
+short_title: "Sameloven – samel"
+language: "nb"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "1989-02-24"
+last_change_in_force: "2024-08-01"
+last_updated: "2025-09-02"
+xml_hash: "cd975add15849d3ccc6625bc3609123c3322e7ac4a81440fae3432736fb5a9b7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om Sametinget og andre samiske rettsforhold (sameloven)
+
+## Kapittel 1. Allmenne bestemmelser.
+
+### § 1-1. Lovens formål. Forholdet til folkeretten
+
+Lovens formål er å legge forholdene til rette for at den samiske folkegruppe i Norge kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.
+
+Loven gjelder med de begrensninger som følger av [ILO-konvensjon nr. 169](traktat/1989-06-27-2) om urfolk og stammefolk i selvstendige stater. Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.
+
+> Endret ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 1-2. Sametinget.
+
+Den samiske folkegruppe skal ha et eget landsomfattende sameting valgt av og blant samene.
+
+### § 1-3. Sametingets årsmelding.
+
+Sametingets årsmelding sendes til Kongen.
+
+### § 1-4. Statens økonomiske ansvar.
+
+De særlige utgifter som påføres fylkeskommuner og kommuner ved valg til Sametinget dekkes av staten.
+
+Kongen gir forskrift om gjennomføring av første ledd.
+
+### § 1-5. Samiske språk
+
+De samiske språkene og norsk er likeverdige språk. Sørsamisk, lulesamisk og nordsamisk skal være likestilte med norsk etter bestemmelsene i [kapittel 3](lov/1987-06-12-56/kap3).
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 1-6. Det samiske flagget
+
+Det samiske flagget er flagget godkjent av den 13. nordiske samekonferansen 15. august 1986.
+
+Sametinget kan ved forskrift gi nærmere bestemmelser om bruken av det samiske flagget.
+
+> Tilføyd ved [lov 11 apr 2003 nr. 22](lov/2003-04-11-22).
+
+## Kapittel 2. Sametinget.
+
+### § 2-1. Sametingets arbeidsområde og myndighet.
+
+Sametingets arbeidsområde er alle saker som etter tingets oppfatning særlig berører den samiske folkegruppe.
+
+Sametinget kan av eget tiltak reise og avgi uttalelse om alle saker innenfor sitt arbeidsområde. Det kan av eget tiltak også legge fram saker for offentlige myndigheter og private institusjoner m.v.
+
+Sametinget kan delegeres myndighet til å forvalte de bevilgninger som bevilges til samiske formål over det årlige statsbudsjett. Departementet fastsetter reglement for Sametingets økonomiforvaltning. Sametinget kan gi forskrift om fordeling og bruk av tilskudd.
+
+Sametinget har beslutningsmyndighet når dette følger av andre bestemmelser i loven eller fastsatt på annen måte.
+
+> Endret ved lover [28 feb 1997 nr. 18](lov/1997-02-28-18), [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 2-2. Innhenting av uttalelse fra Sametinget.
+
+Andre offentlige organer bør gi Sametinget anledning til å uttale seg før de treffer avgjørelse i saker på Sametingets arbeidsområde.
+
+### § 2-3. Valgmåte, valgtidspunkt og valgperiode.
+
+Valg til Sametinget holdes som direkte valg.
+
+Valget holdes som forholdsvalg når mer enn ett forslag til valgliste blir godkjent i en valgkrets. I andre tilfelle holdes valget som flertallsvalg.
+
+Valget holdes på samme dag som stortingsvalg. I kommuner med mindre enn 30 manntallsførte er det kun adgang til å avlegge forhåndsstemme ved sametingsvalget.
+
+Sametinget velges for et tidsrom av fire år. Valgperioden reknes fra første oktober i valgåret.
+
+> Endret ved [lov 27 juni 2008 nr. 51](lov/2008-06-27-51).
+
+### § 2-4. Valgkretser og mandatfordeling.
+
+Ved valg til Sametinget velges medlemmer med varamedlemmer fra følgende valgkretser:Østre valgkrets/Nuortaguovllu válgabiire: kommunene Sør-Varanger, Nesseby, Vadsø, Vardø, Båtsfjord, Tana, Berlevåg, Lebesby og Gamvik i Finnmark fylkeÁvjovári valgkrets/Ávjovári válgabiire: kommunene Karasjok, Kautokeino og Porsanger i Finnmark fylkeNordre valgkrets/Davveguovllu válgabiire: kommunene Nordkapp, Måsøy, Hammerfest, Alta, Hasvik og Loppa i Finnmark fylke og kommunene Skjervøy, Kvænangen og Nordreisa i Troms fylkeGáisi valgkrets/Gáiseguovllu válgabiire: kommunene Kåfjord, Storfjord, Lyngen, Karlsøy, Tromsø, Balsfjord, Målselv, Bardu, Senja og Sørreisa i Troms fylkeVesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: kommunene Dyrøy, Salangen, Lavangen, Gratangen, Tjeldsund, Ibestad, Harstad og Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylkeSørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, Trøndelag fylke, kommunene Surnadal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Innlandet fylkeSør-Norge valgkrets/Lulli-Norgga válgabiire: de kommunene i Møre og Romsdal og Innlandet fylker som ikke tilhører valgkrets 6, samt fylkene Vestland, Rogaland, Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold og Oslo.
+
+Det skal velges 39 representanter til Sametinget. Valgkretsene tildeles først to mandater hver. Deretter fordeles de øvrige 25 mandatene forholdsmessig mellom valgkretsene på grunnlag av antall manntallsførte etter fordelingsmåten fastsatt i [valgloven § 11-3 tredje](lov/2023-06-16-62/§11-3/ledd/3) og [fjerde ledd](lov/2023-06-16-62/§11-3/ledd/4). Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretsen ville fått dersom alle 39 mandater var fordelt forholdsmessig mellom valgkretsene.
+
+Kongen gir forskrift med utfyllende bestemmelser om mandatfordelingen og kandidatkåring.
+
+> Endret ved lover [1 juni 2001 nr. 29](lov/2001-06-01-29) (ikr. 1 juni 2001 iflg. [res. 1 juni 2001 nr. 625](forskrift/2001-06-01-625)), [15 apr 2005 nr. 19](lov/2005-04-15-19), [27 juni 2008 nr. 51](lov/2008-06-27-51), [23 juni 2020 nr. 114](lov/2020-06-23-114) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1286](forskrift/2020-06-23-1286)), [16 juni 2023 nr. 62](lov/2023-06-16-62) (i kraft 1 mai 2024 iflg. [res. 22 mars 2024 nr. 553](forskrift/2024-03-22-553)).
+
+### § 2-5. Stemmerett.
+
+Stemmerett ved valg til Sametinget har alle som har stemmerett ved kommunestyrevalg i kretsen, og som på valgdagen står innført i Sametingets valgmanntall i kretsen (jf. [§ 2-6](lov/1987-06-12-56/§2-6)).
+
+> Endret ved [lov 27 juni 2008 nr. 51](lov/2008-06-27-51).
+
+### § 2-6. Sametingets valgmanntall.
+
+Alle som avgir erklæring om at de oppfatter seg selv som same, og som entenhar samisk som hjemmespråk, ellerhar eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, ellerer barn av person som står eller har stått i Sametingets valgmanntall, kan kreve seg innført i Sametingets valgmanntall.
+
+Begjæring om innføring i Sametingets valgmanntall rettes til Sametinget.
+
+Sametingets valgmanntall utarbeides av Sametinget på grunnlag av folkeregisteret, valgmanntallet ved siste sametingsvalg og de krav om innføring eller strykning som er kommet i løpet av valgperioden. Sametingets valgmanntall skal føres kommunevis.
+
+Når en person er innført i Sametingets valgmanntall, kan dette registreres i folkeregisteret. Denne registrering skal være tilgjengelig kun for den myndighet som har ansvaret for gjennomføring av valg til Sameting, eller etter samtykke fra Sametinget.
+
+Sametingets valgmanntall kan føres ved hjelp av EDB.
+
+> Endret ved lover [28 feb 1997 nr. 18](lov/1997-02-28-18), [14 mai 2004 nr. 26](lov/2004-05-14-26), [27 juni 2008 nr. 51](lov/2008-06-27-51).
+
+### § 2-7. Valgbarhet og forslagsrett.
+
+Valgbar til Sametinget er alle som er innført i Sametingets valgmanntall i kretsen. De som skal velges, må dessuten være innført i folkeregisteret som bosatt i kretsen på valgdagen. Personale ved Sametingets administrasjon er likevel ikke valgbare.
+
+Forslagsrett i valgkretsene har alle som er innført i Sametingets valgmanntall i kretsen. Et forslag til valgliste må være underskrevet av minst 30 samer med forslagsrett.
+
+En gruppe, parti eller liknende sammenslutning kan søke Sametinget om å bli registrert med et bestemt partinavn. Begjæring om registrering skal være ledsaget av underskrifter fra minst 200 personer som har stemme- og forslagsrett ved valg til Sametinget. Vedtak om registrering kan ikke påklages. Kongen kan gi nærmere bestemmelser om vilkårene og framgangsmåten ved registrering.
+
+> Endret ved lover [28 feb 1997 nr. 18](lov/1997-02-28-18), [27 juni 2008 nr. 51](lov/2008-06-27-51).
+
+### § 2-7 a. (Opphevet)
+
+> Tilføyd ved [lov 18 des 2020 nr. 152](lov/2020-12-18-152), opphevet ved [lov 18 des 2020 nr. 152](lov/2020-12-18-152) (ikr. 1 jan 2022).
+
+### § 2-8. Plikt til å motta valg, fritaksgrunner og møteplikt.
+
+Alle som har rett til å stille til valg til Sametinget, har plikt til å motta valget med mindre de blir fritatt etter reglene i andre ledd.
+
+Rett til å kreve seg fritatt for valg har alle somhar fylt seksti år innen valgårets utløp, ellerhar gjort tjeneste som medlem av Sametinget de siste fire år, elleroverfor Sametingets valgnemnd godtgjør at de ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet.
+
+Person som er valgt som medlem av Sametinget eller organ nedsatt av Sametinget, plikter å delta i Sametingets eller respektive organs møter med mindre det foreligger gyldig forfall.
+
+Arbeidstaker har krav på fri fra arbeid i det omfang det er nødvendig på grunn av pliktene i Sametinget eller i det organ vedkommende er oppnevnt medlem i.
+
+> Endret ved lover [28 feb 1997 nr. 18](lov/1997-02-28-18), [1 juni 2001 nr. 29](lov/2001-06-01-29) (ikr. 1 juni 2001 iflg. [res. 1 juni 2001 nr. 625](forskrift/2001-06-01-625)).
+
+### § 2-9. Fritak og uttreden i valgperioden.
+
+Medlemmer av Sametinget som ikke kan skjøtte sine plikter i vervet uten uforholdsmessig vanskelighet, kan av Sametinget etter søknad fritas fra vervet for en bestemt tid eller for resten av valgperioden.
+
+Medlemmer som blir ansatt i Sametingets administrasjon, trer ut av Sametinget for resten av valgperioden.
+
+> Endret ved lov [16 juni 2023 nr. 62](lov/2023-06-16-62) (i kraft 1 mai 2024 iflg. [res. 22 mars 2024 nr. 553](forskrift/2024-03-22-553)).
+
+### § 2-10. Valgmyndighet.
+
+Sametinget er øverste valgmyndighet ved valg til Sametinget.
+
+### § 2-11. Utfyllende bestemmelser om valget.
+
+Kongen gir utfyllende bestemmelser om valg til Sametinget.
+
+### § 2-12. Sametingets administrasjon, organisering og saksbehandling.
+
+Sametinget skal ha en egen administrasjon. Personalet ved administrasjonen ansettes av Sametinget.
+
+Sametingets ansatte personell skal være underlagt den lovgivning som gjelder for statens tjenestemenn så langt det passer.
+
+Sametinget kan opprette de styrer, råd eller utvalg som Sametinget finner hensiktsmessig og, såfremt ikke annet fremgår, delegere myndighet til disse.
+
+Beslutningsmyndighet i henhold til [§§ 2-9](lov/1987-06-12-56/§2-9), [2-10](lov/1987-06-12-56/§2-10) og [2-14](lov/1987-06-12-56/§2-14) kan ikke delegeres.
+
+Enkeltvedtak fattet av styre, råd eller utvalg oppnevnt av Sametinget, kan i samsvar med forvaltningslovens bestemmelser påklages til Sametinget eller særskilt klagenemnd oppnevnt av Sametinget.
+
+> Endret ved [lov 28 feb 1997 nr. 18](lov/1997-02-28-18).
+
+### § 2-13. Forhandlingsspråk.
+
+Under møter i Sametinget har alle rett til å tale samisk eller norsk etter eget ønske.
+
+### § 2-14. Forretningsorden.
+
+Sametinget gir bestemmelser om sammenkalling og arbeidsordningen i Sametinget.
+
+### § 2-15. Pensjonsordning
+
+Medlemmer av Sametinget som utøver sitt verv på fulltid, har rett til pensjon etter en egen pensjonsordning. Kongen kan i forskrift bestemme at også andre medlemmer av Sametinget skal ha rett til pensjon.
+
+Kongen gir nærmere forskrift om beregningen av pensjonsrettighetene og om gjennomføringen av pensjonsordningen.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 69](lov/2001-06-15-69), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+## Kapittel 3. Samiske språk
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), overskrift endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-1. Definisjoner
+
+I dette kapitlet menes med:forvaltningsområdet for samiske språk: kommuner inndelt i kategoriene språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner, og fylkeskommuner, som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk,offentlig organ: ethvert organ for stat og kommune som har en tjenestekrets som helt eller delvis omfatter en av kommunene i forvaltningsområdet for samiske språk, og fylkeskommuner som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [17 juni 2005 nr. 99](lov/2005-06-17-99) (ikr. 1 jan 2006 iflg. [res. 17 juni 2005 nr. 656](forskrift/2005-06-17-656)), [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-2. Oversettelse av regler. Kunngjøringer og skjema
+
+Lover og forskrifter av særlig interesse for hele eller deler av den samiske befolkning, skal oversettes til samiske språk av det departementet som har ansvaret for loven eller forskriften. Kommunene og fylkeskommunene har ansvaret for å oversette lokale forskrifter av særlig interesse for hele eller deler av den samiske befolkning til samiske språk.
+
+Kunngjøringer fra offentlige organer som særlig retter seg mot hele eller deler av befolkningen i forvaltningsområdet for samiske språk, skal skje både på samisk og norsk. Ansvaret ligger hos det organet som offentliggjør kunngjøringen.
+
+Papirbaserte og digitale skjema til bruk overfor et offentlig organ i forvaltningsområdet for samiske språk skal foreligge både på samisk og norsk. Dette gjelder likevel ikke landsomfattende organer. Ansvaret ligger hos det organet som utarbeider skjemaet.
+
+Det offentlige organet skal vurdere hvilket eller hvilke språk det skal oversettes til. I vurderingen skal det tas hensyn til hvem informasjonen retter seg mot og hva informasjonen dreier seg om.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-3. Rett til svar på samisk
+
+Den som henvender seg skriftlig på samisk til en språkutviklingskommune, språkvitaliseringskommune eller fylkeskommune i forvaltningsområdet for samiske språk, har rett til skriftlig svar på samisk. Det samme gjelder ved skriftlige henvendelser til et statlig organ som har en språkutviklingskommune eller en språkvitaliseringskommune i sin tjenestekrets.
+
+Den som henvender seg muntlig på samisk til en språkutviklingskommune, har rett til samtidig muntlig svar på samisk. Det samme gjelder ved muntlige henvendelser på samisk til en fylkeskommunal tannklinikk eller til et lokalt statlig organ, som har tjenestekrets i en språkutviklingskommune. Retten gjelder likevel ikke ved muntlige henvendelser til offentlig ansatte som utfører oppdrag utenfor organets kontor.
+
+Den som henvender seg muntlig på samisk til en språkvitaliseringskommune, har rett til muntlig svar på samisk. Det samme gjelder ved muntlige henvendelser på samisk til en fylkeskommunal tannklinikk eller til et lokalt statlig organ, som har tjenestekrets i en språkvitaliseringskommune. Retten gjelder likevel ikke ved muntlige henvendelser til offentlig ansatte som utfører oppdrag utenfor organets kontor.
+
+Den enkelte har rett til svar på samisk på det eller de samiske språkene som er i bruk og som har tradisjonell geografisk tilknytning til det offentlige organets tjenestekrets.
+
+Rett til svar på samisk gjelder ikke overfor offentlige organer som er landsomfattende, med mindre annet følger av forskrift fastsatt av Kongen.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78) (ikr. 1 jan 1993), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-3a. Informasjon om språkrettigheter
+
+Offentlige organer som er omfattet av bestemmelsene i [§§ 3-3](lov/1987-06-12-56/§3-3), [3-4](lov/1987-06-12-56/§3-4), [3-4 a](lov/1987-06-12-56/§3-4a), [3-4 b](lov/1987-06-12-56/§3-4b) og [3-5](lov/1987-06-12-56/§3-5), skal aktivt informere om retten til å bruke samisk.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-4. Domstoler
+
+For domstoler med embetskrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.Enhver har rett til å henvende seg muntlig til domstolen på samisk dersom rettergangslovgivningen gir adgang til muntlig istedenfor skriftlig henvendelse. Har domstolen plikt til å nedtegne henvendelsen, kan den som fremmer henvendelsen, kreve at nedtegnelsen skjer på samisk. Et slikt krav bryter ingen frist. Nr. 1 andre og tredje punktum gjelder tilsvarende.Enhver har rett til å tale samisk i rettsmøter. Skal noen som ikke kan samisk delta i forhandlingene, brukes en tolk som retten har oppnevnt eller godkjent.Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.Domstolen sørger for at rettsbøker som er skrevet på norsk, oversettes til samisk når en part krever det. Et slikt krav bryter ingen frist.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-4 a. Husleietvistutvalget
+
+Reglene i [§ 3-4](lov/1987-06-12-56/§3-4) første ledd nr. 1 og nr. 2 gjelder også i Husleietvistutvalget. Reglene i [§ 3-4](lov/1987-06-12-56/§3-4) første ledd nr. 3 og nr. 4 gjelder så langt de passer for saker som er gjenstand for muntlig behandling eller mekling i Husleietvistutvalget. Husleietvistutvalget skal sørge for at vedtak eller forlik skrevet på norsk, oversettes til samisk når en part krever det. For kostnader til oversettelser gjelder [rettsgebyrloven § 2](lov/1982-12-17-86/§2) andre ledd tredje punktum.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-4 b. Politi og påtalemyndighet
+
+For politi og påtalemyndighet med tjenestekrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å tale samisk i avhør på organets kontor.Enhver har rett til å bruke samisk ved muntlig anmeldelse og rettsmiddelerklæring.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-4 c. Kriminalomsorgen
+
+For kriminalomsorgens anstalter i Troms og Finnmark gjelder i tillegg følgende regler om bruk av samisk:Innsatte har rett til å bruke samisk ved muntlig rettsmiddelerklæring til fengselsmyndigheten.Innsatte har rett til å bruke samisk overfor hverandre og overfor sine pårørende.[§ 3-5](lov/1987-06-12-56/§3-5) gjelder tilsvarende for innsatte.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-5. Utvidet rett til bruk av samisk i helse- og omsorgsinstitusjoner
+
+Den som ønsker å bruke samisk for å ivareta egne interesser overfor offentlige helse- og omsorgsinstitusjoner og barnevernsinstitusjoner i språkutviklingskommuner og i språkvitaliseringskommuner, har rett til å bli betjent på samisk.
+
+Retten gjelder ikke overfor landsomfattende offentlige helse- og omsorgsinstitusjoner og barnevernsinstitusjoner, med mindre det følger av forskrift fastsatt av Kongen.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-6. Individuelle kirkelige tjenester
+
+Enhver har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i språkutviklingskommuner og språkvitaliseringskommuner.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-7. Rett til utdanningspermisjon
+
+Ansatte i offentlige organer har rett til permisjon med lønn for å skaffe seg kunnskap i samisk dersom organet har behov for slik kompetanse. Retten kan gjøres betinget av at den ansatte forplikter seg til å arbeide for organet en viss tid etter utdanningen.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-8. Rett til opplæring i samisk
+
+Enhver har rett til opplæring i samisk. Kongen kan gi nærmere regler om gjennomføringen av denne bestemmelsen.
+
+For opplæring i og på samisk gjelder reglene i og i medhold av [lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](lov/2023-06-09-30).
+
+> Tilføyd ved lov [21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [17 juli 1998 nr. 61](lov/1998-07-17-61) (ikr. 1 aug 1999 iflg. [res. 27 nov 1998 nr. 1096](forskrift/1998-11-27-1096)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)).
+
+### § 3-9. Samisk i kommuneadministrasjonen og folkevalgte organer
+
+I språkutviklingskommuner skal samisk være likestilt med norsk internt i den kommunale administrasjonen og i kommunestyret. Kommunestyret kan selv bestemme at samisk skal være likestilt med norsk i andre folkevalgte organer, med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.
+
+I øvrige kommuner kan kommunestyret selv bestemme at samisk skal være likestilt med norsk i hele eller deler av den interne kommunale administrasjonen, og i folkevalgte organer med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-10. Samisk språk- og kulturtilbud
+
+Språkstimuleringskommuner skal sørge for et samisk språk- og kulturtilbud til barn, unge og eldre.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-11. Klage
+
+Dersom et offentlig organ ikke følger bestemmelsene i dette kapitlet, kan den som saken direkte gjelder, klage til det organet som er nærmest overordnet det organet klagen angår. Statsforvalteren er klageinstans når klagen angår kommunale eller fylkeskommunale organ.
+
+Også landsomfattende samiske organisasjoner og landsomfattende offentlige organer med oppgaver av særlig betydning for hele eller deler av den samiske befolkningen, har klagerett i slike saker. Det samme gjelder i saker hvor ingen enkeltperson er særskilt berørt.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 3-12. Organisering av samisk språkarbeid
+
+Sametinget skal arbeide for vern og videre utvikling av samiske språk i Norge.
+
+Sametinget tildeler midler til kommuner og fylkeskommuner for gjennomføringen av reglene i kapittelet her.
+
+> Tilføyd ved [lov 21 des 1990 nr. 78](lov/1990-12-21-78), endret ved lover [13 des 2002 nr. 81](lov/2002-12-13-81) (ikr. 1 jan 2003 iflg. [res. 13 des 2002 nr. 1394](forskrift/2002-12-13-1394)), endret ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-13. Kommunal og fylkeskommunal planlegging
+
+Fylkeskommuner og kommuner i forvaltningsområdet for samiske språk skal drøfte utfordringer for samisk språk i regional planstrategi og kommunens planstrategi, jf. [plan- og bygningsloven §§ 7-1](lov/2008-06-27-71/§7-1) og [10-1](lov/2008-06-27-71/§10-1). Overordnede mål for å styrke samisk språk skal fastsettes i regional plan etter [plan- og bygningsloven § 8-1](lov/2008-06-27-71/§8-1). Kommunen skal fastsette sine mål for å styrke samisk språk som en tematisk kommunedelplan eller i kommuneplanens samfunnsdel, jf. [plan- og bygningsloven § 11-1](lov/2008-06-27-71/§11-1) tredje ledd og [§ 11-2](lov/2008-06-27-71/§11-2).
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-14. Rekruttering av ansatte med samiskspråklig kompetanse
+
+Kommuner, fylkeskommuner og statlige offentlige organer som har behov for ansatte med samisk språkkunnskap for å kunne utføre sine oppgaver, kan etterspørre samisk språkkunnskap som en ønsket eller nødvendig kvalifikasjon når det lyses ut stillinger.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+### § 3-15. Forskriftshjemler
+
+Kongen gir forskrift om hvilke kommuner og fylkeskommuner som skal inngå i forvaltningsområdet for samiske språk, og hvilke kommuner som skal regnes som språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner.
+
+Kongen kan gi forskrift om at bestemmelsene i dette kapittelet også skal gjelde helt eller delvis for andre statlige offentlige organer, fylkeskommunale enheter eller for privat rettssubjekt når det treffer enkeltvedtak eller utferdiger forskrift på vegne av stat, fylkeskommune eller kommune.
+
+> Tilføyd ved lov [9 juni 2023 nr. 28](lov/2023-06-09-28) (i kraft 1 jan 2024 iflg. [res. 9 juni 2023 nr. 807](forskrift/2023-06-09-807)).
+
+## Kapittel 4 Konsultasjoner
+
+> Kapitlet tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-1. Saker som er gjenstand for konsultasjoner
+
+Bestemmelsene i kapitlet her gjelder for lovgivning, forskrifter og andre beslutninger eller tiltak som vil kunne påvirke samiske interesser direkte. Bestemmelsene gjelder ikke for saker om statsbudsjettet.
+
+Bestemmelsene i kapitlet her gjelder ikke for saker av generell karakter som må antas å ville påvirke hele samfunnet på samme måte.
+
+I saker som er knyttet til naturgrunnlaget for samisk kultur, gjelder bestemmelsene i kapitlet her for tiltak og beslutninger som planlegges iverksatt i tradisjonelle samiske områder, eller som kan få virkning på samisk materiell kulturutøvelse i tradisjonelle samiske områder.
+
+Bestemmelsene i kapitlet her gjelder ikke for Sametinget i saker hvor Sametinget har innsigelsesadgang etter [plan- og bygningsloven § 5-4](lov/2008-06-27-71/§5-4).
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-2. Rett til å bli konsultert
+
+I saker nevnt i [§ 4-1](lov/1987-06-12-56/§4-1), har Sametinget og andre representanter for berørte samiske interesser rett til å bli konsultert.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-3. Plikt til å konsultere
+
+Plikten til å konsultere etter bestemmelsene i kapitlet her gjelder forregjeringen, departementer, direktorater og andre underliggende virksomheter,statsforetak og private rettssubjekter når de utøver myndighet på vegne av staten.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-4. Konsultasjonsplikt for fylkeskommuner og kommuner
+
+Fylkeskommuner og kommuner har plikt til å konsultere representanter for berørte samiske interesser i saker om lokale forskrifter og andre beslutninger eller tiltak som vil kunne påvirke samiske interesser direkte.
+
+Bestemmelsene i kapitlet her gjelder for øvrig så langt de passer.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-5. Varsling om saker som kan bli gjenstand for konsultasjoner
+
+Den som har konsultasjonsplikt, skal varsle Sametinget og andre med konsultasjonsrett om saker som kan bli gjenstand for konsultasjoner, jf. [§ 4-1](lov/1987-06-12-56/§4-1). Er varsling ikke gitt, kan Sametinget på eget initiativ anmode om konsultasjoner i slike saker.
+
+Sametinget og andre med konsultasjonsrett skal innen rimelig tid svare på om de ønsker konsultasjoner i den aktuelle saken. Sametinget kan også gi sin vurdering av om andre enn Sametinget bør konsulteres i saken.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-6. Innholdet i og formålet med konsultasjonene
+
+Konsultasjonene skal gjennomføres i god tro og med formål om å oppnå enighet. Det organet som har konsultasjonsplikt, skal gi full informasjon om relevante forhold på alle stadier i behandlingen av saken.
+
+Konsultasjonene skal begynne så tidlig at partene har reell mulighet til å oppnå enighet om beslutningen.
+
+Konsultasjonene skal ikke avsluttes så lenge partene antar at det er mulig å oppnå enighet om saken.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-7. Protokoll
+
+Det skal føres protokoll fra konsultasjonene. I protokollen skal det redegjøres for hva saken gjelder, partenes vurderinger og standpunkter og konklusjonene i saken. Det skal tydelig framgå om det er oppnådd enighet.
+
+Den samiske partens vurderinger i saken skal følge saken fram til endelig beslutning.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-8. Forskrifter
+
+Kongen kan gi forskrift med nærmere bestemmelser om hvem som har rett og plikt til konsultasjoner, og om gjennomføringen av konsultasjoner for organer og rettssubjekter som nevnt i [§ 4-3](lov/1987-06-12-56/§4-3).
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-9. Virkning av brudd på konsultasjonsregler
+
+Brudd på reglene om konsultasjoner i kapitlet her kan gi grunnlag for ugyldighet i samsvar med alminnelige forvaltningsrettslige prinsipper.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+### § 4-10. Forholdet til forvaltningsloven og annen lovgivning
+
+Reglene om konsultasjoner i loven her gjelder ved siden av saksbehandlingsreglene i [forvaltningsloven](lov/1967-02-10) og regler om samiske interesser i andre lover, med de unntakene som følger av [§ 4-1](lov/1987-06-12-56/§4-1) fjerde ledd.
+
+> Tilføyd ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+
+## Kapittel 5. Overgangsregler og ikrafttredelse.
+
+> Endret ved lover [lov 21 des 1990 nr. 78](lov/1990-12-21-78), tidligere kapittel 3, [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)), tidligere kapittel 4.
+
+### § 5-1. Overgangsregler.
+
+Sametinget er en videreføring av Norsk sameråd. Sametinget trer inn i alle funksjoner, rettigheter og plikter til Norsk sameråd.
+
+Kongen gir regler om sammenkalling av og arbeidsordningen i Sametinget. Disse regler gjelder inntil Sametinget fastsetter forretningsorden i medhold av [§ 2-14](lov/1987-06-12-56/§2-14).
+
+> Endret ved lover [21 des 1990 nr. 78](lov/1990-12-21-78) (tidligere § 3-1), [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870), tidligere § 4-1).
+
+### § 5-2. Ikrafttredelse.
+
+Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
+
+> Endret ved lover [21 des 1990 nr. 78](lov/1990-12-21-78) (tidligere § 3-2), [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870), tidligere § 4-2).
+
+## Vedlegg. Samisk oversettelse
+
+> Oversettelsen av sameloven er levert av Kommunal- og distriktsdepartementet. Oversettelsen er à jour per 1. august 2024.
+Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

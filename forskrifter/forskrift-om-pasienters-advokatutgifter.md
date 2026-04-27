@@ -1,0 +1,68 @@
+---
+id: "sf-20090327-0357"
+slug: "forskrift-om-pasienters-advokatutgifter"
+type: "forskrift"
+ref_id: "forskrift/2009-03-27-357"
+title: "Forskrift om dekning av pasienters utgifter til advokat etter pasientskadeloven § 11"
+short_title: "Forskrift om pasienters advokatutgifter"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2009-04-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "fc7a40e22f7ef42af5aad4bfc5c24cfe18c6ea0effa720ede487c7e4236d9565"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om dekning av pasienters utgifter til advokat etter pasientskadeloven § 11
+
+## § 1. Virkeområde
+
+Forskriften gjelder utgifter til advokat som dekkes av Norsk pasientskadeserstatning eller Pasientskadenemnda etter [pasientskadeloven § 11](lov/2001-06-15-53/§11).
+
+## § 2. Salærsats
+
+Utgifter til advokat skal beregnes ut fra en timesats tilsvarende den til enhver tid gjeldende salærsatsen fastsatt av Justisdepartementet i medhold av [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. ([salærforskriften) § 2](forskrift/1997-12-03-1441/§2). Merverdiavgift kommer i tillegg til salærsatsen.
+
+## § 3. Fastsettelse
+
+Beregningen etter [§ 2](forskrift/2009-03-27-357/§2) skal skje på grunnlag av den salærsatsen som gjaldt da advokaten avsluttet arbeidet med saken.
+
+## § 4. Avkortning
+
+Dersom Norsk pasientskadeserstatning eller Pasientskadenemnda finner at advokaten har benyttet lengre tid på saken enn hva som er rimelig og nødvendig, skal det foretas avkortninger i forhold til det beløpet som kreves dekket.
+
+## § 5. Overgangsbestemmelse
+
+Forskriften får anvendelse når kravet om erstatning er meldt til Norsk pasientskadeserstatning etter reglene i [pasientskadeloven § 9](lov/2001-06-15-53/§9) etter ikrafttredelsen av denne forskriften.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. april 2009.
+
+## Merknader til de enkelte bestemmelsene i forskriften
+
+### Til § 1:
+
+Forskriften gjelder bare advokatutgifter som dekkes av Norsk pasientskadeserstatning eller Pasientskadenemnda etter [pasientskadeloven § 11](lov/2001-06-15-53/§11).
+
+Bestemmelsene om salærsats får således ikke anvendelse på advokatutgifter som gjelder deler av saken som Norsk pasientskadeserstatning eller Pasientskadenemnda ikke finner skal dekkes etter [pasientskadeloven § 11](lov/2001-06-15-53/§11).
+
+Bestemmelsene om salærsats får heller ikke anvendelse på sakskostnader som omtales i [forvaltningsloven § 36](lov/1967-02-10/§36).
+
+### Til § 2:
+
+Når Norsk pasientskadeserstatning eller Pasientskadenemnda dekker advokatutgifter etter salærsatsen, kan advokaten ikke kreve eller motta ytterligere vederlag av pasienten for denne delen av saken, for eksempel for å få dekket differansen mellom vanlig timepris og salærsatsen. Dette fremgår av [pasientskadeloven § 11](lov/2001-06-15-53/§11) tredje ledd.
+
+### Til § 3:
+
+Bestemmelsen regulerer at det er salærsatsen som gjelder på det tidspunktet da advokaten avslutter sitt arbeid med saken, som skal legges til grunn ved Norsk pasientskadeserstatning eller Pasientskadenemndas beregning av de utgifter som kan kreves dekket i medhold av [pasientskadeloven § 11](lov/2001-06-15-53/§11).
+
+### Til § 4
+
+Bestemmelsen presiserer Norsk pasientskadeserstatning og Pasientskadenemndas adgang til å foreta avkortninger i salærkravene. Departementet viser til viktigheten av at begrensningen i timesatsen som følger av [§ 2](forskrift/2009-03-27-357/§2), ikke medfører at det gis kompensasjon for flere timer enn det som må anses som rimelig og nødvendig i anledning saken.

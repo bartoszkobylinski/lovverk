@@ -1,0 +1,40 @@
+---
+id: "sf-20040310-0516"
+slug: "forskrift-om-tenester-etter-barnelova-61"
+type: "forskrift"
+ref_id: "forskrift/2004-03-10-516"
+title: "Forskrift om godtgjering til andre som gjer teneste etter barnelova § 61 første ledd."
+short_title: "Forskrift om tenester etter barnelova § 61"
+language: "no"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2004-04-01"
+last_change_in_force: "2008-01-01"
+last_updated: null
+xml_hash: "e0bb1ea92a28577f8ffcfafd5cdd382b72b22ab2ee296433c25e4601c419b9bb"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om godtgjering til andre som gjer teneste etter barnelova § 61 første ledd.
+
+## § 1.
+
+[Forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. gjeld tilsvarande der retten oppnemnar annan eigna person etter [barnelova § 61](lov/1981-04-08-7/§61) nr. 4 og 7, viser partane til mekling hos annan person med innsikt i dei tvistepunkta saka gjeld etter [barnelova § 61](lov/1981-04-08-7/§61) nr. 2 og oppnemnar annan person enn advokat som representant for barnet etter [barnelova § 61](lov/1981-04-08-7/§61) nr. 5.
+
+Retten skal fastsetje salæret etter timesats fastsett av Justisdepartementet jf. [forskrift 3. desember 1997 nr. 1441 § 2](forskrift/1997-12-03-1441/§2) første punktum. Dette gjeld berre der det ikkje høyrer til den alminnelege tenesteplikta å utøve rolla. Vedkomande kan ikkje krevje tapt arbeidsgodtgjering i staden for godtgjering etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441).
+
+Dei som gjer teneste etter første ledd skal ha reisegodtgjering slik det er fastsett i reglane om skyss- og kostgodtgjering for offentlege tenestemenn.
+
+## § 2.
+
+Der godkjend meklar får saka send frå retten etter [barnelova § 61](lov/1981-04-08-7/§61) nr. 2, gjeld [forskrift 18. desember 2006 nr. 1478](forskrift/2006-12-18-1478) om mekling etter ekteskapsloven og [barneloven § 4](lov/1981-04-08-7/§4) tilsvarande der meklinga vert utført av andre enn tilsette ved familievernkontora.
+
+> Endra ved [forskrift 14 des 2007 nr. 1583](forskrift/2007-12-14-1583) (i kraft 1 jan 2008).
+
+## § 3.
+
+Forskrifta her tek til å gjelde 1. april 2004.

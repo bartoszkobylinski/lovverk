@@ -1,0 +1,56 @@
+---
+id: "nl-19471205-001"
+slug: "boikottloven-boil"
+type: "lov"
+ref_id: "lov/1947-12-05-1"
+title: "Lov om boikott [boikottloven]"
+short_title: "Boikottloven – boil"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1948-01-16"
+last_change_in_force: "2015-10-01"
+last_updated: "2021-08-30"
+xml_hash: "0bc11b514424c9ca72f0aebddfa5bbeb22515423adf7e0cc138d2ec88bfd3219"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om boikott [boikottloven]
+
+## § 1.
+
+Med boikott mener denne lov en oppfordring, avtale eller liknende tiltak som for å tvinge, skade eller straffe noen tar sikte på å hindre eller vanskeliggjøre en persons eller virksomhets økonomiske samkvem med andre.
+
+> Endret ved lover 26 juni 1953 nr. 6, [11 juni 1993 nr. 65](lov/1993-06-11-65).
+
+## § 2.
+
+Boikott er rettsstridig:når den har et rettsstridig formål eller ikke kan nå sitt mål uten å føre til et rettsbrudd;når den blir foretatt eller holdt vedlike ved rettsstridige midler eller på en unødig opphissende eller krenkende måte eller ved usanne eller misvisende opplysninger;når den vil skade vesentlige samfunnsinteresser eller virke utilbørlig, eller når det ikke er noe rimelig forhold mellom den interesse som skal fremmes ved boikotten og den skade som den vil føre med seg;når den blir foretatt uten at den som boikotten er rettet mot har fått rimelig varsel, eller uten at det på forhånd overfor ham og dem som en boikottoppfordring er rettet til, er gjort fyllestgjørende rede for grunnen til boikotten.
+
+## § 3.
+
+Er varsel om boikott gitt, kan søksmål reises for å få avgjort om den er lovlig.
+
+Megling i forliksrådet er ikke nødvendig i saker om lovligheten av boikott eller om skadebot for tap som er voldt ved boikott.
+
+Er boikott foretatt eller varslet, kan retten etter krav fra den som boikotten er rettet mot, ved midlertidig forføyning sette forbud mot boikotten til det er avgjort om den er lovlig.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## § 4.
+
+Når retten skal fastsette skadebot for ulovlig boikott, skal den legge vekt ikke bare på størrelsen av skaden, men også på den utviste skyld og på om den skadelidende selv har vist mislig forhold. Under forhold som er særlig formildende, kan skadeboten falle helt bort.
+
+## § 5.
+
+Den som setter i verk boikott som er rettsstridig etter denne lov, straffes med bøter eller med fengsel opp til 3 måneder. [Straffeloven § 251](lov/2005-05-20-28/§251) gjelder ikke forhold som rammes av loven.
+
+> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 6.
+
+Denne lov trer i kraft den dag1 Kongen fastsetter.

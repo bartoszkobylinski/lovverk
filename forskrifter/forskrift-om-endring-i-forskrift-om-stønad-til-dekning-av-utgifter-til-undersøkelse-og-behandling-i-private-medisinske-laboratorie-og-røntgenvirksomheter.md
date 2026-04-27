@@ -1,0 +1,28 @@
+---
+id: "sf-20260204-0145"
+slug: "forskrift-om-endring-i-forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-i-private-medisinske-laboratorie-og-røntgenvirksomheter"
+type: "forskrift"
+ref_id: "forskrift/2026-02-04-145"
+title: "Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie og røntgenvirksomheter"
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2026-02-09"
+last_change_in_force: null
+last_updated: null
+xml_hash: "132999ee6c9a66a3f0c9b93009eeb4bce109d30f96f694a78da33f65aedb35fd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie og røntgenvirksomheter
+
+## I
+
+## II
+
+Forskriften trer i kraft 9. februar 2026.

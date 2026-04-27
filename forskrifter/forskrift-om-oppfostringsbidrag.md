@@ -1,0 +1,76 @@
+---
+id: "sf-20060623-0723"
+slug: "forskrift-om-oppfostringsbidrag"
+type: "forskrift"
+ref_id: "forskrift/2006-06-23-723"
+title: "Forskrift om fastsetting og endring av oppfostringsbidrag etter lov om barnevern (barnevernsloven)."
+short_title: "Forskrift om oppfostringsbidrag"
+language: "no"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2006-07-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "9838f655f8b809a304c36ba0d23692082e96c2c3f0283ad780347fb13f1df746"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fastsetting og endring av oppfostringsbidrag etter lov om barnevern (barnevernsloven).
+
+## § 1.
+
+Kommunen kan fremme krav om fastsettelse av oppfostringsbidrag når et barn har opphold utenfor hjemmet som følge av et vedtak etter [barnevernsloven](lov/2021-06-18-97). Kommunen kan likevel ikke fremme slikt krav dersom foreldrene er fratatt foreldreansvaret med tanke på adopsjon, jf. [barnevernsloven § 5-10](lov/2021-06-18-97/§5-10). Kommunen kan heller ikke fremme krav om oppfostringsbidrag dersom det ut fra en helhetsvurdering av foreldrenes økonomiske situasjon og forholdene for øvrig må anses som urimelig.
+
+Kommunen må spesifisere om kravet gjelder begge eller bare en av foreldrene. Dersom kravet gjelder begge foreldrene, må det settes frem eget krav om fastsettelse for hver av foreldrene.
+
+Ved frivillige vedtak må den private part være gjort uttrykkelig oppmerksom på at krav om oppfostringsbidrag vil bli fremmet før samtykke til vedtaket blir gitt. Det samme gjelder ved samtykke til forlenget oppholdstid.
+
+> Endret ved [forskrifter 15 des 2022 nr. 2258](forskrift/2022-12-15-2258) (i kraft 1 jan 2023), [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 2.
+
+Dersom det skjer endringer i foreldrenes situasjon eller forholdene for øvrig, kan kommunen eller den private part fremme krav om endring av oppfostringsbidraget.
+
+## § 3.
+
+Arbeids- og velferdsdirektoratet kan bestemme at saker etter denne forskriften skal behandles av ett eller flere spesielt utvalgte kontorer.
+
+## § 4.
+
+Bidragsfogden kan fatte vedtak om at en eller begge av foreldrene skal betale oppfostringsbidrag dersom dette anses rimelig ut fra deres økonomiske situasjon og forholdene for øvrig.
+
+Ved avgjørelsen av om det skal betales oppfostringsbidrag og eventuelt ved fastsettelse av beløpet skal det legges vekt på foreldrenes bidragsevne og bidragsplikt for andre barn. Det kan også tas hensyn til utgifter i forbindelse med samvær med barnet.
+
+Oppfostringsbidrag kan fastsettes fra måneden etter at vedtaket om opphold ble iverksatt og til den måneden oppholdet opphører eller til og med den måneden barnet fyller 18 år. Bidraget kan fastsettes eller endres med virkning fra inntil tre måneder før kravet ble mottatt.
+
+Bidragsfogdens vedtak kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer.
+
+> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 5.
+
+Det samlede oppfostringsbidraget skal ikke overstige kommunens kostnader til tiltaket, jf. reglene om kommunens økonomiske ansvar i [barnevernsloven § 15-11](lov/2021-06-18-97/§15-11) jf. [§ 16-5](lov/2021-06-18-97/§16-5) med tilhørende forskrifter.
+
+> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 6. (Opphevet)
+
+> Opphevet ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026).
+
+## § 7.
+
+For å fastsette oppfostringsbidraget kan bidragsfogden uten hensyn til taushetsplikt kreve nødvendige opplysninger fra arbeidsgiver, ligningsmyndigheter og Arbeids- og velferdsetaten, og fra forsikringsselskap, banker og andre som oppbevarer eller forvalter formuesverdier.
+
+## § 8.
+
+Alle faste oppfostringsbidrag etter denne forskriften skal indeksreguleres. [Lov om barn og foreldre § 73](lov/1981-04-08-7/§73) om indeksregulering av underholdsbidrag med tilhørende forskrifter gjelder tilsvarende så langt de passer.
+
+## § 9.
+
+Denne forskriften trer i kraft 1. juli 2006. Krav om oppfostringsbidrag som på ikrafttredelsestidspunktet er fremmet for barneverns- og helsenemnda, avgjøres av denne.
+
+> Endret ved [forskrift 15 des 2022 nr. 2258](forskrift/2022-12-15-2258) (i kraft 1 jan 2023).

@@ -1,0 +1,62 @@
+---
+id: "sf-20170703-1107"
+slug: "forskrift-om-tvangsmulkt-etter-foretaksregisterloven-og-etter-enhetsregisterloven"
+type: "forskrift"
+ref_id: "forskrift/2017-07-03-1107"
+title: "Forskrift om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven"
+short_title: "Forskrift om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2017-07-03"
+last_change_in_force: null
+last_updated: null
+xml_hash: "35f94626c7abad2589e37e318613e199a3b7e489a3dfeeab5710f8fc793f6d45"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven
+
+## § 1. Tvangsmulkt etter foretaksregisterloven
+
+Tvangsmulkt etter [foretaksregisterloven § 4-5](lov/1985-06-21-78/§4-5), [§ 7-1](lov/1985-06-21-78/§7-1) og [§ 10-2](lov/1985-06-21-78/§10-2) kan ilegges foretaket i inntil 26 uker etter følgende satser:kr 500 per uke de første åtte ukerkr 1 000 per uke de neste ti ukerkr 1 500 per uke de siste åtte uker.
+
+Dersom grunnlaget for tvangsmulkt ikke er bortfalt innen utløpet av perioden som nevnt i første ledd, kan Foretaksregisteret ilegge de meldepliktige etter [foretaksregisterlovens § 4-2](lov/1985-06-21-78/§4-2) første ledd tvangsmulkt etter bestemmelsen i første ledd. De meldepliktige vil være solidarisk ansvarlige for tvangsmulkten.
+
+Tvangsmulkt ilegges for hele uker slik at del av en uke regnes som full uke.
+
+Tvangsmulkt kan ikke ilegges uten at Foretaksregisteret har varslet foretaket/den meldepliktige om manglende overholdelse av melde- eller dokumentopplysningsplikten, og gitt denne en rimelig frist til å rette forholdet.
+
+## § 2. Tvangsmulkt etter enhetsregisterloven
+
+Tvangsmulkt etter [enhetsregisterloven § 16](lov/1994-06-03-15/§16) kan ilegges registreringsenheten i inntil 26 uker etter følgende satser:kr 250 per uke de første åtte ukerkr 500 per uke de neste ti ukerkr 750 per uke de siste åtte uker.
+
+Dersom særlige grunner tilsier det kan tvangsmulkt etter første ledd ilegges den som er meldepliktig etter [enhetsregisterloven § 14](lov/1994-06-03-15/§14) første ledd.
+
+Tvangsmulkt ilegges for hele uker slik at del av en uke regnes som full uke.
+
+Tvangsmulkt kan ikke ilegges uten at Enhetsregisteret har varslet registreringsenheten/den meldepliktige om manglende overholdelse av meldeplikten, og gitt denne en rimelig frist til å rette forholdet.
+
+## § 3. Forbud mot å ilegge tvangsmulkt etter begge lover
+
+Det kan ikke ilegges tvangsmulkt etter både foretaksregisterloven og enhetsregisterloven for samme forhold.
+
+## § 4. Klage
+
+Vedtak om tvangsmulkt kan påklages til departementet etter reglene i forvaltningsloven.
+
+## § 5. Ettergivelse
+
+Tvangsmulkt etter [§ 1](forskrift/2017-07-03-1107/§1) og [§ 2](forskrift/2017-07-03-1107/§2) kan av registeret etter søknad helt eller delvis ettergis dersomdet blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor registreringsenhetens kontroll, ellerdersom særlige rimelighetsgrunner tilsier det.
+
+Søknad om ettergivelse må fremsettes for registeret innen ett år etter at vedtak om ileggelse av tvangsmulkt ble truffet.
+
+Registerets vedtak i sak om ettergivelse av tvangsmulkt, kan påklages til departementet etter reglene i forvaltningsloven.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft straks. Samtidig oppheves [forskrift 21. desember 2004 nr. 1744](forskrift/2004-12-21-1744) om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven.

@@ -1,0 +1,86 @@
+---
+id: "sf-19830301-0628"
+slug: "forskrift-om-salg-av-legemidler-til-ikke-medisinsk-bruk"
+type: "forskrift"
+ref_id: "forskrift/1983-03-01-628"
+title: "Forskrift om salg av legemidler til ikke-medisinsk bruk"
+short_title: "Forskrift om salg av legemidler til ikke-medisinsk bruk"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1983-03-01"
+last_change_in_force: "2024-01-01"
+last_updated: null
+xml_hash: "0c1e5fbe5688b8b21501a8d16f3a974b607982d82b6690eeaa77b1a038d72d94"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om salg av legemidler til ikke-medisinsk bruk
+
+## § 1. Definisjon. Virkeområde
+
+Med legemidler til ikke-medisinsk bruk forstås i denne forskrift legemidler, herunder narkotika, til teknisk, vitenskapelig og annen ikke-medisinsk bruk. Forskriften omfatter ikke narkotika som er forbudt, jf. [§ 4](forskrift/2013-02-14-199/§4) i [forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)](forskrift/2013-02-14-199).
+
+> Endret ved forskrifter [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
+
+## § 2. Salg av legemidler til ikke-medisinsk bruk
+
+Rett til å selge legemidler til ikke-medisinsk bruk har Norsk Medisinaldepot, apotek og andre som har fått Direktoratet for medisinske produkters tillatelse.
+
+> Endret ved [forskrift 27 des 2000 nr. 1577](forskrift/2000-12-27-1577) (i kraft 1 jan 2001), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+
+## § 3. Kjøp av legemidler til ikke-medisinsk bruk
+
+Rett til kjøp av legemidler til ikke-medisinsk bruk harde som har rett til å selge samme legemiddel, jf. [§ 2](forskrift/1983-03-01-628/§2);bestyrer av offentlige og offentlig godkjente laboratorier, vitenskapelige institusjoner og undervisningsinstitusjoner. Ved kjøp av narkotika må Direktoratet for medisinske produkters tillatelse foreligge;leger, tannleger og veterinærer til laboratoriebruk;bedrifter, institusjoner eller personer over 18 år som har fått særskilt tillatelse fra Direktoratet for medisinske produkter.
+
+For ikke-reseptpliktige legemidler kreves ikke særskilt kjøpetillatelse.
+
+> Endret ved forskrifter [27 des 2000 nr. 1577](forskrift/2000-12-27-1577) (i kraft 1 jan 2001), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+
+## § 4. Legitimasjon, rekvisisjon m.v.
+
+Selger skal påse at kjøper har rett til å kjøpe legemidler til ikke-medisinsk bruk. Bud må være over 16 år og vise fullmakt. Er kjøperen ukjent for selger, skal kjøper vise legitimajson.
+
+Ved kjøp av reseptpliktige legemidler, herunder narkotika skal kjøpetillatelsen innleveres til selger. Kjøpere som ikke trenger særlig tillatelse fra Direktoratet for medisinske produkter skal i stedet levere skriftlig rekvisisjon undertegnet av den som har rett til kjøp. Rekvisisjonen skal inneholde opplysninger om hva legemidlet skal brukes til.
+
+Rekvisisjon eller kjøpestillatelse skal oppbevares hos selger i 1 år. Gjelder dokumentet narkotika, skal det oppbevares hos selger i 3 år. Om narkotikaregnskap vises til [§ 13](forskrift/2013-02-14-199/§13) og [§ 14](forskrift/2013-02-14-199/§14) i [forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)](forskrift/2013-02-14-199).
+
+> Endret ved forskrifter [27 des 2000 nr. 1577](forskrift/2000-12-27-1577) (i kraft 1 jan 2001), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+
+## § 5. Emballasje
+
+Legemidler til ikke-medisinsk bruk må bare leveres i sterk, hel og lukket emballasje. Det må ikke brukes flasker eller andre beholdere som p.g.a. sin vanlige bruk kan føre til farlige forvekslinger.
+
+## § 6. Merking
+
+Legemidler til ikke-medisinsk bruk skal ved utlevering ha følgende merking, eventuelt både på ytre og indre emballasje:Legemidlets handelsnavn og INN-navn. Hvis INN-navn ikke er fastsatt brukes BAN-navn e.l. eller stoffets betegnelse etter vanlig kjemisk nomenklatur. Ved salg av sammensatt preparat skal art og mengde av legemidlene angis.Navn og adresse til den som har tilvirket eller pakket varen eller innført varen i pakket stand.Generell advarselstekst:«Til ikke-medisinsk bruk. Oppbevares utilgjengelig for barn, adskilt fra nærings- og nytelselsmidler og dyrefor.»Tilleggsadvarsel:Legemidler som er oppført i Stofflisten, jfr. § 5 i forskrift om merking, omsetning m.v. av kjemiske stoffer og produkter som kan medføre helsefare av 26. november 1982, skal merkes i henhold til bestemmelsene der.Narkotika skal ha giftmerke og merkes: «Giftig ved svelging».Andre reseptpliktige legemidler skal merkes: «Kan medføre forgiftning ved svelging.»Ved merking av legemidler (herunder narkotika) som kan tas opp gjennom huden eller ved innånding skal tilleggsadvarselen tilføyes «....(ved svelging), innånding eller hudkontakt».Andre advarsler.Legemidler med spesielle egenskaper som kan medføre helsefare skal påføres særskilt advarselstekst, f.eks. «Kan fremkalle allergi», «Kan fremkalle kreft», «Irriterende», «Etsende». Dette gjelder ikke for legemidler som merkes etter pkt. 4 a).
+
+Advarselsmerkingen skal være tydelig og skille seg ut fra annen tekst m.v. på pakningen.
+
+> Endret ved [forskrift 14 feb 2013 nr. 199](forskrift/2013-02-14-199).
+
+## § 7. Oppbevaring. Bruk
+
+Legemidler til ikke-medisinsk bruk skal oppbevares forsvarlig, jfr. [§ 6](forskrift/1983-03-01-628/§6) nr. 3 a).
+
+Narkotika og andre reseptpliktige legemidler skal oppbevares i låst skap e.l.
+
+Legemidler til ikke-medisinsk bruk skal oppbevares i den emballasje de er utlevert i fra selger.
+
+Legemidler til ikke-medisinsk bruk må bare brukes til det formål de er utlevert til og må ikke overlates til uvedkommende.
+
+> Endret ved [forskrift 14 feb 2013 nr. 199](forskrift/2013-02-14-199).
+
+## § 8. Unntak
+
+Direktoratet for medisinske produkter kan gjøre unntak fra denne forskrift.
+
+> Endret ved forskrifter [27 des 2000 nr. 1577](forskrift/2000-12-27-1577) (i kraft 1 jan 2001), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+
+## § 9. Ikrafttredelse. Overgangsbestemmelse
+
+Denne forskrift trer i kraft straks. Bestemmelsene om merking i [§ 6](forskrift/1983-03-01-628/§6) skal være gjennomført innen 1. mars 1984.

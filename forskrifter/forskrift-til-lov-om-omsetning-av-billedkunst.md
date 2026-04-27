@@ -1,0 +1,98 @@
+---
+id: "sf-19900928-0778"
+slug: "forskrift-til-lov-om-omsetning-av-billedkunst"
+type: "forskrift"
+ref_id: "forskrift/1990-09-28-778"
+title: "Forskrift til lov om avgift på omsetning av billedkunst"
+short_title: "Forskrift til lov om omsetning av billedkunst"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "1990-11-01"
+last_change_in_force: "2010-09-01"
+last_updated: null
+xml_hash: "9faefa9c95a9210ad1a556d826144a33af65e05c2193bb5dc178ced74ee75179"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift til lov om avgift på omsetning av billedkunst
+
+## § 1. Avgiftsplikt, virkeområde
+
+For billedkunst som omsettes i Norge på de måter som er beskrevet som avgiftspliktig etter [lovens § 1](forskrift/1990-09-28-778/§1), er nasjonaliteten til opphavsmannen til selgeren eller til kjøperen uten betydning for avgiftsplikten.
+
+Lovens regler skal ikke gjelde for omsetning på Svalbard.
+
+## § 2. Avgiften
+
+Avgiften blir fastsatt til 5 prosent av hele salgssummen, og kommer i tillegg til denne.
+
+Offentlig omsetning av verk som beskrevet i [lovens § 1](forskrift/1990-09-28-778/§1) vil utløse avgiftsplikten, også offentlig omsetning som skjer fra kunstnerens atelier. Avgiftspliktig er også omsetning som ifølge [§ 1](forskrift/1990-09-28-778/§1) er likestilt med offentlig omsetning. Det stilles ingen krav til kunstnerisk kvalitet, og verk av profesjonelle kunstnere og amatører er likestilt i forhold til avgiftsplikten. Tilsvarende er det heller ikke noe skille i forhold til om opphavsmannen er levende eller død.
+
+Avgiften beregnes av hele salgssummen og slik at det ikke gjøres fratrekk for glass, ramme, sokkel, mappe eller innbinding, når dette inngår som en del av verket og/eller prisen for verket. Dette gjelder imidlertid ikke dersom det er den som omsetter eksemplarene som besørger dette, og vedkommende selger det samme grafiske blad med eller uten ramme etter kjøperens ønske.
+
+Salær, kommisjon o.l. inngår også i beregningsgrunnlaget.
+
+Dersom salget er merverdiavgiftspliktig etter [lov 19. juni 1969 nr. 66](lov/1969-06-19-66) om merverdiavgift, skal 5%-avgiften inn i beregningsgrunnlaget for merverdiavgiften, jf. merverdiavgiftlovens [§ 18](lov/1969-06-19-66/§18) annet ledd nr. 2.
+
+Ved delt betaling av verker, f.eks. avbetalingskjøp eller oppdelt utbetaling ved utsmykkingsoppdrag, beregnes avgiften for hvert beløp som skal inn- eller utbetales.
+
+For utsmykkingsoppdrag, bestillingsverk o.l. utgjør kontraktsummen avgiftsgrunnlaget.
+
+Alle kvitteringer vedrørende salg av kunst skal stemples med 5% ifølge [lov 4. november 1948 nr. 1](lov/1948-11-04-1).
+
+Avgiften skal uoppfordret betales til Bildende Kunstneres Hjelpefond sammen med oppgave over omsetning. Alle som omsetter kunst regelmessig skal også sende inn oppgave for terminer uten omsetning.
+
+Kunstavgiften blir å innbetale til Bildende Kunstneres Hjelpefond ved annenhver termin for innbetaling av merverdiavgift. Avgiften blir å innbetale til fondet ved andre, fjerde og sjette termin.
+
+> Endret ved [forskrift 22 des 2006 nr. 1535](forskrift/2006-12-22-1535) (i kraft 1 jan 2007).
+
+## § 3. Regnskapsplikt
+
+De avgiftspliktige skal føre regnskap over avgiftspliktige omsetninger, slik at avgiftsoppgaver lett kan kontrolleres.
+
+## § 4. Styrets sammensetning
+
+Styret for Bildende Kunstneres Hjelpefond består av fem medlemmer med personlige varamedlemmer, oppnevnt av departementet. To av medlemmene oppnevnes av departementet etter forslag fra Norske Billedkunstnere (NBK). Ett av medlemmene oppnevnes av departementet etter forslag fra Norske Kunsthåndverkere (NK) og Forbundet Frie Fotografer (FFF). Oppnevnelsen skifter mellom NKs og FFFs forslag til kandidat hvert fjerde år. To av medlemmene med varamedlem bør være over 60 år. De øvrige medlemmene med varamedlem oppnevnes på fritt grunnlag. Departementet oppnevner styreleder.
+
+Styret er beslutningsdyktig når minst fire stemmeberettigede medlemmer er til stede.
+
+> Endret ved [forskrift 1 sep 2010 nr. 1263](forskrift/2010-09-01-1263).
+
+## § 5. Styrets arbeid
+
+Styret sørger for å innkreve avgiften fra dem som er ansvarlig for rett innbetaling.
+
+Styret disponerer fondets midler og har ansvar for fondets drift. Styret gjør vedtak om fordeling av støtte innenfor de formål som er nevnt i [lovens § 2](forskrift/1990-09-28-778/§2). Støtten til billedkunstnere skal i hovedsak gå til eldre billedkunstnere og deres etterlatte.
+
+Styret må følge forvaltningslovens regler om taushetsplikt.
+
+Styret skal utarbeide en årsrapport om fondets virksomhet. Årsrapporten og revidert regnskap skal oversendes departementet innen 1. mai det påfølgende år.
+
+Styremedlemmene skal ha møtegodtgjøring og dekning av reise og diett etter statens satser.
+
+## § 6. Nærmere om innkrevingen
+
+Styret kan foreta nærmere kontroll av regnskaper m.v for å undersøke om det foreligger avgiftsplikt og omfang av eventuell avgiftsplikt.
+
+Ved for sen innbetaling skal det betales rente etter [lov av 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. § 3. Styret kan i visse tilfeller gjøre unntak fra denne bestemmelse.
+
+## § 7. Utfyllende bestemmelser
+
+Etter forslag fra styret kan departementet fastsette vedtekter for fondet. De praktiske regler for gjennomføring av lovens bestemmelser fastsettes av styret.
+
+## § 8. Endringer i forskriften
+
+Endringer i forskriften kan fastsettes av departementet.
+
+> Endret ved [forskrift 22 des 2006 nr. 1535](forskrift/2006-12-22-1535) (i kraft 1 jan 2007).
+
+## § 9. Ikraftsetting
+
+Forskriften settes i kraft fra 1. november 1990. Fra samme tidspunkt oppheves reglene fra 2. august 1951.
+
+> Tilføyd ved [forskrift 22 des 2006 nr. 1535](forskrift/2006-12-22-1535) (i kraft 1 jan 2007).

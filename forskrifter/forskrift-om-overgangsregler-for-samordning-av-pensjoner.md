@@ -1,0 +1,68 @@
+---
+id: "sf-20140703-0948"
+slug: "forskrift-om-overgangsregler-for-samordning-av-pensjoner"
+type: "forskrift"
+ref_id: "forskrift/2014-07-03-948"
+title: "Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015"
+short_title: "Forskrift om overgangsregler for samordning av pensjoner"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2015-01-01"
+last_change_in_force: "2014-11-26"
+last_updated: null
+xml_hash: "cf7a037b5f385818b0b43ebcbbb9951e2d78f8a14d44d9a720021d6375ae1db8"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015
+
+## § 1. Virkeområde
+
+Forskriften gir overgangsregler om fastsetting av samordningsfradrag når det er innvilget ytelser som omfattes av forskriften her med virkningstidspunkt før 1. januar 2015.
+
+## § 2. Definisjoner
+
+I forskriften her forstås«[samordningsloven» som lov 6. juli 1957 nr. 26](lov/1957-07-06-26) om samordning av pensjons- og trygdeytelser,«samordningsfradrag» som fradrag i pensjon med hjemmel i samordningsloven,«forskrift om omregning av uførepensjon til uføretrygd» som [forskrift 3. juli 2014 nr. 947](forskrift/2014-07-03-947) om omregning av uførepensjon til uføretrygd,«forskrift om overgangsregler for uførepensjon fra tjenestepensjonsordning» som [forskrift 3. juli 2014 nr. 949](forskrift/2014-07-03-949) om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015,«brutto tjenestepensjon» som alderspensjon fra tjenestepensjonsordning som omfattes av samordningsloven og enke- og enkemannspensjon som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) første ledd første og tredje punktum når pensjonene gis før fylte 67 år,«netto tjenestepensjon» som uførepensjon fra tjenestepensjonsordning som omfattes av [samordningsloven § 3](lov/1957-07-06-26/§3) andre ledd første og tredje punktum,«personskadetrygd» som uførepensjon, enkepensjon, enkemannspensjon som omfattes av [samordningsloven § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav b og [§ 4](lov/1957-07-06-26/§4) andre ledd når pensjonene gis før fylte 67 år og«ytelser fra folketrygden» som uførepensjon (før 1. januar 2015) og uføretrygd (fra og med 1. januar 2015) etter folketrygdloven.
+
+## § 3. Fastsetting av samordningsfradrag
+
+Folketrygden omregnes etter forskrift om omregning av uførepensjon til uføretrygd.
+
+Når det ytesbrutto tjenestepensjon og folketrygd ellerpersonskadetrygd og folketrygd,skal samordningsfradraget for folketrygden fastsettes til det samme beløpet som det utgjorde umiddelbart før 1. januar 2015.
+
+Samordningsfradraget for folketrygden endres forholdsmessig ut fra endringer i uføregrad.
+
+> Endret ved [forskrift 26 nov 2014 nr. 1464](forskrift/2014-11-26-1464).
+
+## § 4. Tjenestepensjon, personskadetrygd og folketrygd
+
+Paragrafen her gjelder når det ytes både tjenestepensjon, personskadetrygd og folketrygd.
+
+Folketrygden omregnes etter forskrift om omregning av uførepensjon til uføretrygd.
+
+Tjenestepensjonen skal ikke omregnes etter forskrift om overgangsregler for uførepensjon fra tjenestepensjonsordning. Netto tjenestepensjon fastsettes til det samme beløpet som den utgjorde umiddelbart før 1. januar 2015.
+
+Samordningsfradraget for folketrygden i personskadetrygden fastsettes til det samme beløpet som det utgjorde umiddelbart før 1. januar 2015.
+
+## § 5. Enke- og enkemannspensjon og uførepensjon fra tjenestepensjonsordning
+
+Paragrafen gjelder når det ytes enke- og enkemannspensjon og uførepensjon som reguleres etter [lov om Statens pensjonskasse § 35](lov/1949-07-28-26/§35) og tilsvarende regler for andre offentlige tjenestepensjonsordninger.
+
+Redusert enke- og enkemannspensjon etter første ledd og samordningsfradraget for folketrygden fastsettes til det samme beløpet som de utgjorde umiddelbart før 1. januar 2015.
+
+Dersom uføregraden i tjenestepensjonsordningen og/eller inntekten endres, fastsettes det en ny redusert enke- og enkemannspensjon.
+
+Samordningsfradraget for folketrygden endres forholdsmessig ut fra endringer i uføregrad.
+
+## § 6. Regulering av samordningsfradraget
+
+Samordningsfradrag reguleres i samsvar med endringer i folketrygdens grunnbeløp.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2015.

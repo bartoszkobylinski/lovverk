@@ -1,0 +1,70 @@
+---
+id: "sf-19921230-1232"
+slug: "forskrift-om-drift-av-kultiveringsanlegg"
+type: "forskrift"
+ref_id: "forskrift/1992-12-30-1232"
+title: "Forskrift om etablering og drift av kultiveringsanlegg for fisk og kreps"
+short_title: "Forskrift om drift av kultiveringsanlegg"
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "1993-01-01"
+last_change_in_force: "2016-01-01"
+last_updated: null
+xml_hash: "9d5795a25e65b8a3445e37eb58887f8bf87963c36c60ecab4b7ce4111f0fc8d4"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om etablering og drift av kultiveringsanlegg for fisk og kreps
+
+## § 1. Tillatelse
+
+Uten tillatelse fra Fylkesmannen er det forbudt å etablere eller drive anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av anadrome laksefisk og kreps for senere utsetting i naturen. Det samme gjelder for arter eller bestander av innlandsfisk som ikke forvaltes av fylkeskommunen.
+
+Uten tillatelse fra fylkeskommunen er det forbudt å etablere eller drive anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av innlandsfisk som fylkeskommunen har forvaltningsansvar for.
+
+Eventuell utvidelse eller annen endring av anlegg med tillatelse etter [lov 15. mai 1981 nr. 19](lov/1981-05-15-19) om bygging av anlegg for klekking av rogn og for oppdrett av fisk og skalldyr eller [lov 14. juni 1985 nr. 68](lov/1985-06-14-68) om oppdrett av fisk, skalldyr m.v. skal behandles etter denne forskrift.
+
+Tiltak etter første ledd som kan medføre spredning av organismer som ikke er av stedegen stamme, krever tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
+
+> Endret ved [forskrifter 28 des 2009 nr. 1844](forskrift/2009-12-28-1844) (i kraft 1 jan 2010), [19 juni 2015 nr. 716](forskrift/2015-06-19-716) (i kraft 1 jan 2016).
+
+## § 2. Vilkår
+
+Tillatelse gis for bestemt lokalitet og med bestemt størrelsesbegrensning. Det kan også settes krav til vanninntak, innredning og avløp, bruk av arter og stammer og hvor fisk fra anlegget kan settes ut. Det kan også settes vilkår for å bevare det naturlige miljø eller tilgodese allmenne interesser.
+
+Tillatelsen gis til en eller flere bestemte personer, selskaper, foreninger eller stiftelser eller til staten, en kommune eller en annen offentlig innretning.
+
+Ny tillatelse må innhentes dersom forhold nevnt i første eller andre ledd endres.
+
+## § 3. Begrensninger
+
+Tillatelse skal ikke gis dersom anlegget:Vil volde fare for utbredelse av sykdom på fisk eller andre ferskvannsorganismer.Vil volde fare for forurensning.Har en uheldig plassering i forhold til det omkringliggende miljø, ferdsel eller annen mer samfunnsnyttig bruk av området.Vil volde fare for spredning av fiskearter.Er i strid med gjeldende kommunale planer.
+
+## § 4. Søknad
+
+Søknad etter denne forskriften utfylles i to eksemplarer på fastsatt skjema hvorav ett sendes enten fylkesmannen eller fylkeskommunen, jf. [§ 1](forskrift/1992-12-30-1232/§1), og ett sendes kommunen der anlegget søkes lokalisert.
+
+Søker skal etter anvisning fra kommunen sørge for at søknaden legges ut til offentlig innsyn, og at dette kunngjøres i Norsk lysningsblad og i to aviser som er vanlig lest i området.
+
+> Endret ved [forskrift 28 des 2009 nr. 1844](forskrift/2009-12-28-1844) (i kraft 1 jan 2010).
+
+## § 5. Tilbaketrekning av tillatelse
+
+Fylkesmannen eller fylkeskommunen, jf. [§ 1](forskrift/1992-12-30-1232/§1), kan kreve at anlegg som ikke har vært benyttet over en periode på to år blir fjernet. Dersom pålegget ikke blir etterfulgt innen den frist som er satt, kan fylkesmannen eller fylkeskommunen la arbeidet bli utført for vedkommendes regning. Utgifter ved dette kan inndrives ved utpanting.
+
+Tillatelse, som ikke har vært benyttet innen to år faller bort. Dersom anlegget drives i strid med gitte vilkår for driften, kan tillatelsen trekkes tilbake.
+
+> Endret ved [forskrift 28 des 2009 nr. 1844](forskrift/2009-12-28-1844) (i kraft 1 jan 2010).
+
+## § 6. Straff
+
+Overtredelse av denne forskrift er straffbart, jf. § 49 i lov om laksefisk og innlandsfisk m.v.
+
+## § 7. Ikrafttreden
+
+Denne forskrift trer i kraft fra 1. januar 1993. Søknader om etablering eller overføring av konsesjon for denne type anlegg som er sendt inn før denne forskrift trer i kraft skal behandles i henhold til forskrifter fastsatt av Fiskeridepartementet [11. juli 1990 nr. 547](forskrift/1990-07-11-547).

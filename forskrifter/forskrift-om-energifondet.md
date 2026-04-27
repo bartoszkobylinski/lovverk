@@ -1,0 +1,86 @@
+---
+id: "sf-20011210-1377"
+slug: "forskrift-om-energifondet"
+type: "forskrift"
+ref_id: "forskrift/2001-12-10-1377"
+title: "Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)"
+short_title: "Forskrift om Energifondet"
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2002-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2018-05-11"
+xml_hash: "ced44dfa347ee0cb09c99679ad3111bd10b3eb3c9de80a49e34e95ab7d10780b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
+
+## § 1. Formål
+
+Forskriften skal sikre en effektiv innbetaling og kontroll av bidrag til Energifondet.
+
+## § 2. Definisjoner
+
+I denne forskrift forstås med:*Omsetningskonsesjonær:* Enhet som har konsesjon meddelt etter [energiloven § 4-1](lov/1990-06-29-50/§4-1).*Husholdningsbruk:* Med husholdningsbruk menes bruk av elektrisk energi for:eneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.*Målepunkt-ID:* Entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).*Forvalter av Energifondet:* Den som til enhver tid er satt til å forvalte midlene fra Energifondet.
+
+> Endret ved [forskrift 4 juli 2012 nr. 713](forskrift/2012-07-04-713) (i kraft 1 jan 2013).
+
+## § 3. Påslag og bidrag til Energifondet
+
+Omsetningskonsesjonær som tarifferer for uttak av elektrisk energi skal i forbindelse med fakturering legge et påslag på tariffen til alle sluttbrukere på alle nettnivåer.
+
+For husholdningsbruk skal påslaget utgjøre 1 øre/kWh. For andre sluttbrukere enn husholdninger skal påslaget utgjøre 800 kroner/år per målepunkt-ID.
+
+Bidraget omsetningskonsesjonær skal betale til Energifondet er 1 øre/kWh multiplisert med den energimengden som er fakturert husholdningsbruk, samt summen av påslag per målepunkt-ID som er fakturert andre sluttbrukere enn husholdninger, i den angjeldende termin.
+
+> Endret ved [forskrifter 1 des 2003 nr. 1404](forskrift/2003-12-01-1404) (i kraft 1 jan 2004), [18 mai 2004 nr. 964](forskrift/2004-05-18-964) (i kraft 1 juli 2004), [4 juli 2012 nr. 713](forskrift/2012-07-04-713) (i kraft 1 jan 2013).
+
+## § 4. Regnskap
+
+Det skal etableres egne regnskaps- og balansekonti som tydeliggjør fakturering mot og innbetalinger fra sluttbrukere, samt overføring av bidrag til Energifondet.
+
+> Endret ved [forskrift 4 juli 2012 nr. 713](forskrift/2012-07-04-713) (i kraft 1 jan 2013).
+
+## § 5. Innbetaling og oppgave
+
+Omsetningskonsesjonær skal sende forvalter av Energifondet terminvise oppgaver. Hver termin omfatter to kalendermåneder. 1. termin omfatter januar og februar, 2. termin mars og april, 3. termin mai og juni, 4. termin juli og august, 5. termin september og oktober og 6. termin november og desember.
+
+Oppgaven skal vise samlet fakturert mengde elektrisk energi og antall målepunkt-ID som er fakturert påslag etter [§ 3](forskrift/2001-12-10-1377/§3) annet ledd annet punktum i den angjeldende terminen.
+
+Oppgaven må være kommet frem til forvalter av Energifondet innen 1 måned og 10 dager etter utløpet av hver termin.
+
+Bidraget etter [§ 3](forskrift/2001-12-10-1377/§3) tredje ledd forfaller til betaling samtidig med oppgavefristen. Bidrag skal betales uavhengig av faktiske innbetalinger til omsetningskonsesjonær fra sluttbrukere.
+
+Avvik mellom fakturert uttak av elektrisk energi og faktisk forbruk av elektrisk energi skal korrigeres ved motregning eller etterbetaling til Energifondet i forbindelse med den terminen avregning av avviket mot sluttkunder faktureres.
+
+Omsetningskonsesjonærs revisor skal årlig verifisere fakturerte mengder elektrisk energi, antall fakturerte målepunkt-ID og bidrag til Energifondet.
+
+> Endret ved [forskrift 4 juli 2012 nr. 713](forskrift/2012-07-04-713) (i kraft 1 jan 2013).
+
+## § 6. Kontroll
+
+Forvalter av Energifondet fører kontroll med at [energiloven § 4-4](lov/1990-06-29-50/§4-4) og bestemmelser gitt i eller i medhold av denne forskrift overholdes.
+
+Forvalter av Energifondet skal ha rett til å foreta bokettersyn og kreve alle opplysninger som er nødvendige for gjennomføring av kontroll.
+
+## § 7. Dispensasjon
+
+Departementet kan i særlige tilfeller dispensere fra denne forskrift.
+
+## § 8. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2002. Uttak av elektrisk energi før ikrafttredelsesdatoen er ikke grunnlag for påslag på nettariffen og betaling av bidrag til Energifondet.
+
+## Merknader til de enkelte bestemmelser
+
+### Til § 2 Definisjoner, bokstav b) nr. 2
+
+Inn under «andre fellesanlegg» i [§ 2](forskrift/2001-12-10-1377/§2) bokstav b) nr. 2 hører bl.a. private, utendørs belysnings- eller oppvarmingsanlegg av kortere veistrekninger, samt belysningsanlegg til akebakker, kortere skiløyper mv. satt opp av og for flere husholdninger i fellesskap. Det må kunne dokumenteres på objektivt og notorisk grunnlag overfor omsetningskonsesjonær at anlegget drives uten fortjeneste av husholdningene som nyter godt av anlegget. Registrering av de ansvarlige/berettigede til bruk av fellesanlegget i Frivillighetsregisteret, jf. [lov 29. juni 2007 nr. 88](lov/2007-06-29-88) om register for frivillig virksomhet, anses som tilstrekkelig objektiv og notorisk dokumentasjon for at anlegget drives uten fortjeneste.
+
+> Merknad tilføyd 8 mars 2013.

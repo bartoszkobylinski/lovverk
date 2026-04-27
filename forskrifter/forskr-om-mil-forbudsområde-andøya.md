@@ -1,0 +1,26 @@
+---
+id: "sf-19610120-0001"
+slug: "forskr-om-mil-forbudsområde-andøya"
+type: "forskrift"
+ref_id: "forskrift/1961-01-20-1"
+title: "Forskrift om forbud mot oppankring på et område utenfor Andøya flystasjon."
+short_title: "Forskr. om mil. forbudsområde, Andøya"
+language: "no"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "1961-01-20"
+last_change_in_force: null
+last_updated: null
+xml_hash: "a9e443842148da20db6f4b991544b211814b9dcc8ed943ed70ea422db533430c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forbud mot oppankring på et område utenfor Andøya flystasjon.
+
+Med hjemmel i lov om forsvarshemmeligheter fastsettes et forbudt område for oppankring for fartøyer utenfor Andøya flystasjon, med følgende avgrensninger:
+
+Vikanberget til 69° 19′ N – 16° 12′ Ø til 69° 17,2′ N – 16° 13,6′ Ø til Haugnes lykt.

@@ -1,0 +1,174 @@
+---
+id: "nl-19501215-007"
+slug: "beredskapsloven-beredskl"
+type: "lov"
+ref_id: "lov/1950-12-15-7"
+title: "Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsloven]"
+short_title: "Beredskapsloven – beredskl"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1950-12-15"
+last_change_in_force: "2022-12-20"
+last_updated: "2021-06-16"
+xml_hash: "579f8b3b0dc0b3602cef9386ee9f7823a4236c53bbce4cef3e5fcffd8ebfec6d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsloven]
+
+## Kapitel I. Kongens myndighet når Stortinget på grunn av krig er avskåret fra å utøve sin virksomhet.
+
+### § 1
+
+Er Stortinget på grunn av krig avskåret fra å utøve sin virksomhet, tilligger det Kongen å gjøre alle de vedtak som er påkrevd for å vareta rikets interesser under krigen og forberede overgangen til fredelige forhold.
+
+### § 2
+
+Bestemmelser av lovgivningsmessig innhold gitt av Kongen med hjemmel i [§ 1](lov/1950-12-15-7/§1) skal snarest mulig meddeles Stortinget.
+
+Hvis bestemmelsene ikke tidligere er opphevet av Stortinget eller Kongen faller de bort senest ved oppløsningen av det første, ordentlige Storting som trer sammen etter at bestemmelsene er gitt.
+
+## Kapitel II. Særlige fullmakter for Kongen.
+
+### § 3
+
+Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare og det på grunn av disse forhold er fare ved opphold, kan Kongen gi bestemmelser av lovgivningsmessig innhold for å trygge rikets sikkerhet, den offentlige orden, folkehelsen og landets forsyninger, for å fremme og trygge militære tiltak og tiltak til vern om sivilbefolkning og eiendom og for å utnytte landets hjelpekilder til fremme av disse formål. Herunder kan gis bestemmelser om utskriving av arbeidskraft til militære og sivile formål. Om nødvendig kan det i bestemmelsene gjøres avvik fra gjeldende lov.
+
+Bestemmelser gitt av Kongen med hjemmel i denne paragraf skal snarest mulig meddeles Stortinget. Er Stortinget ikke samlet når bestemmelsene gis, skal det øyeblikkelig sammenkalles. Bestemmelsene kan oppheves av Kongen eller Stortinget.
+
+Såfremt bestemmelsene ikke er opphevet innen 30 dager etter at de er meddelt Stortinget, skal de snarest mulig legges fram som lovforslag.
+
+### § 4
+
+Bestemmelser som blir gitt etter [§ 3](lov/1950-12-15-7/§3) kunngjøres på den måte som finnes høvelig. De trer i kraft straks hvis de ikke selv bestemmer noe annet.
+
+Hvis bestemmelsene ikke tidligere er opphevet, faller de bort ved oppløsningen av det første ordentlige Storting som trer sammen etter at bestemmelsene er gitt.
+
+### § 5
+
+Når forholdene er slik som nevnt i [§ 3](lov/1950-12-15-7/§3) og et område er avskåret fra forbindelse med Regjeringen eller det av andre grunner finnes nødvendig, kan Kongen gi statsforvalteren og andre lokale forvaltningsorganer – herunder militære myndigheter – fullmakt til å utferdige slike bestemmelser som nevnt i [§ 3](lov/1950-12-15-7/§3). Fullmakt kan under samme vilkår gis til utøving av forvaltningsmyndighet som ellers tilligger Kongen, et departement eller et annet sentralt forvaltningsorgan, når det gjelder formål som nevnt i [§ 3](lov/1950-12-15-7/§3). Fullmakt etter dette ledd kan gis uten hensyn til den gjeldende administrative inndeling.
+
+Hvis det er uomgjengelig nødvendig til varetakelse av samfunnsviktige interesser, kan statsforvalteren utøve slik myndighet som nevnt i foregående ledd, selv om fullmakt fra Kongen ennå ikke foreligger.
+
+Bestemmelser av lovgivningsmessig innhold truffet etter første eller annet ledd skal snarest mulig meddeles Kongen. Hvis de ikke tidligere er opphevet, faller de bort 1 måned etter at meldingen er mottatt.
+
+> Endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## Kapitel III. Forholdet mellom militær og sivil myndighet på krigsskueplass.
+
+### § 6
+
+På krigsskueplassen kan de militære myndigheter overta den øverste ledelse av politiet og kan i så fall om nødvendig midlertidig sette politiets embets- og tjenestemenn ut av virksomhet. Kongen kan bestemme at alt politi, enkelte politikorps eller politiet i visse distrikter skal innlemmes i de militære styrker. I den utstrekning det anses nødvendig for å fremme og trygge militære tiltak kan de militære myndigheter overta ledelsen også av andre sivile forvaltningsgrener. Sivile tjenestemenn og ombud i stat og kommune skal gi de militære myndigheter den hjelp som forlanges.
+
+Kongen gir nærmere regler om hvilke områder skal regnes for krigsskueplass.
+
+> Endret ved lov [20 des 2022 nr. 115](lov/2022-12-20-115).
+
+## Kapitel IV. Særregler om behandlingen av straffesaker.
+
+### § 7
+
+Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen, i den utstrekning særlige forhold gjør det påkrevet, bestemme at reglene i §§ 8-13 eller enkelte av dem skal få anvendelse. Slikt vedtak kan gis virkning for hele riket eller for enkelte deler av det.
+
+### § 8
+
+Pågripelse etter [straffeprosesslovens kapittel 14](lov/1981-05-22-25/kap14) kan foretas uten hensyn til størrelsen av straffen for den handling mistanken gjelder.
+
+Fremstillingen av den pågrepne for dommer eller påtalemyndighet skal skje snarest mulig, men det er ikke nødvendig å overholde fristen etter [straffeprosessloven § 183](lov/1981-05-22-25/§183) første ledd første punktum. Fristen etter § 183 første ledd annet punktum skal være 3 dager.
+
+> Endret ved [lov 14 juni 1985 nr. 71](lov/1985-06-14-71).
+
+### § 9
+
+Hvis det er fare ved opphold, behøver spørsmålet om tiltale ikke i noe tilfelle å forelegges for riksadvokaten.
+
+Under samme vilkår kan en politimester utøve den påtalemyndighet som tilkommer statsadvokaten, og en politifullmektig den påtalemyndighet som tilkommer politimesteren.
+
+### § 10
+
+Saker som hører under lagmannsrett, kan i stedet bringes inn for tingrett.
+
+> Endret ved [lov 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)). Bestemmelsen mistet det meste av sin praktiske betydning ved endringene i [straffeprosessloven ved lov 11 juni 1993 nr. 80](lov/1993-06-11-80).
+
+### § 11. (Opphevet)
+
+> Endret ved [lov 14 juni 1985 nr. 71](lov/1985-06-14-71), opphevet ved [lov 16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+
+### § 12. (Opphevet)
+
+> Opphevet ved [lov 8 apr 1983 nr. 14](lov/1983-04-08-14).
+
+### § 13
+
+Anke over kjennelse eller beslutning har ikke i noe tilfelle oppsettende virkning med mindre vedkommende rett eller ankedomstolen bestemmer det.
+
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+### § 14
+
+Når forholdene er slik som nevnt i [§ 7](lov/1950-12-15-7/§7) og det på grunn av særlige forhold vil medføre uforholdsmessig eller skadelig forsinkelse av rettergangen å bringe saker inn for Høyesterett, kan Kongen med virkning for hele riket eller for deler av det bestemme at lagmannsretten skal gjøre tjeneste som domstol i siste instans. Slik bestemmelse har den virkning at adgangen til å anvende anke mot avgjørelser av lagmannsrett faller bort, og avgjørelser som allerede er truffet, blir endelige, selv om anke er erklært.
+
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## Kapitel V. Tvangsavståing til det offentlige.
+
+### § 15
+
+Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen, i den utstrekning det er nødvendig til varetakelse av viktige samfunnsinteresser, kreve avstått til stat eller kommune eiendomsrett til eller annen rådighet over løsøre av ethvert slag, herunder elektrisk kraft, samt bruksrett til eller annen særlig rådighet over fast eiendom.
+
+Den som kravet er rettet mot plikter å medvirke til at transportmidler, varer o.l. som skal avstås, snarest mulig blir stillet til rådighet på angitt sted. Når det er nødvendig, kan det kreves hjelp av politiet til å få kravet gjennomført.
+
+Kravet om avståing skal fremsettes skriftlig. Når avståing har funnet sted, skal det gis skriftlig kvittering.
+
+### § 16
+
+Erstatning fastsettes i mangel av minneleg overenskomst ved skjønn av den myndighet og på den måte som Kongen bestemmer.
+
+Kongen kan bestemme at erstatning for visse slags ytelser ikke skal fastsettes ved skjønn, men betales etter takster som Kongen fastsetter. Slike takster kan fastsettes for hele riket eller for deler av det.
+
+Avståingen kan kreves gjennomført straks selv om erstatningen ikke er betalt eller fastsatt.
+
+> Endret ved [lover 18 juni 1965 nr. 5](lov/1965-06-18-5), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. res. 11 mai nr. 563).
+
+### § 17
+
+Kongen kan gi regler om utbetaling av erstatning etter §§ 15-16. Slike regler kan gis med virkning også for avståinger som allerede har funnet sted.
+
+Hvis intet annet blir bestemt, forfaller erstatningen til betaling så snart tingen er tatt i besittelse og erstatningen fastsatt. Skal erstatning for en løpende ytelse betales som periodisk avgift, forfaller første termin på det tidspunkt som er nevnt i første punktum.
+
+## Kapitel VI. Forskjellige bestemmelser.
+
+### § 18
+
+Kongen kan gi nærmere forskrifter og treffe andre nødvendige tiltak til gjennomføring av bestemmelsene i denne lov.
+
+Myndighet etter loven kan delegeres til andre i den utstrekning det anses nødvendig for at lovens formål kan oppnås.
+
+### § 19
+
+Den som unnlater å etterkomme krav om avståing etter [kap. V](lov/1950-12-15-7/kapv) eller motsetter seg eller søker å hindre at slik avståing blir gjennomført, straffes med bøter eller med fengsel inntil 3 år.
+
+På samme måte straffes den som overtrer bestemmelser som er utferdiget med hjemmel i denne lovs [§§ 3](lov/1950-12-15-7/§3) og [5](lov/1950-12-15-7/§5) og inneholder trussel om straff, hvis ikke forholdet rammes av et strengere straffebud. Er handlingen forøvet av uaktsomhet er straffen bøter eller fengsel inntil 1 år.
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser utferdiget med hjemmel i denne lovs [§ 18](lov/1950-12-15-7/§18) første ledd, straffes med bøter eller fengsel inntil 3 måneder, hvis ikke forholdet rammes av et strengere straffebud.
+
+> Endret ved [lover 26 jan 1973 nr. 2](lov/1973-01-26-2), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 20. (Opphevet)
+
+> Opphevet ved [lov 8 apr 1983 nr. 14](lov/1983-04-08-14).
+
+### § 21
+
+Kongen kan bestemme at denne lov helt eller delvis skal gjelde på Svalbard.
+
+### § 22
+
+Denne lov trer i kraft straks.
+
+> Endret ved lov 25 juni 1954 nr. 6.

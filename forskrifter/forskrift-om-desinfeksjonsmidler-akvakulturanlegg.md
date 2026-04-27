@@ -1,0 +1,100 @@
+---
+id: "sf-20080617-0821"
+slug: "forskrift-om-desinfeksjonsmidler-akvakulturanlegg"
+type: "forskrift"
+ref_id: "forskrift/2008-06-17-821"
+title: "Forskrift om godkjenning og bruk av desinfeksjonsmidler i akvakulturanlegg og transportenheter"
+short_title: "Forskrift om desinfeksjonsmidler, akvakulturanlegg"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2008-08-01"
+last_change_in_force: "2024-01-01"
+last_updated: null
+xml_hash: "db525610332c92f0e6cb128a6be72c6a1df938e4b81d14a7dab2611fd830db9f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om godkjenning og bruk av desinfeksjonsmidler i akvakulturanlegg og transportenheter
+
+## § 1. Formål
+
+Formålet med denne forskrift er å fremme god helse hos akvakulturdyr.
+
+## § 2. Virkeområde
+
+Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.
+
+Forskriften omfatter godkjenning og bruk av desinfeksjonsmidler i akvakulturanlegg og transportenheter som transporterer levende akvakulturdyr.
+
+## § 3. Definisjoner
+
+I denne forskriften menes med:*Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.*Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.*Akvatiske dyr:*kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*bløtdyr som tilhører rekken *Mollusca*krepsdyr som tilhører underrekken *Crustacea*.*Desinfeksjonsmiddel:* ethvert kjemisk middel som er beregnet til bruk i arbeid med bekjemping eller forebygging av smittsom sykdom hos akvatiske dyr, unntatt stoffer som regnes som legemidler.*Legemiddel:* ethvert kjemisk stoff som er beregnet til å forebygge eller bekjempe sykdom hos akvatiske dyr ved innvortes eller utvortes bruk, herunder midler til desinfeksjon av rogn.
+
+## § 4. Godkjenning av desinfeksjonsmidler
+
+Direktoratet for medisinske produkter kan etter søknad godkjenne desinfeksjonsmidler til bruk i arbeid med forebygging, begrensing og utrydding av smittsomme sykdommer hos akvatiske dyr. Godkjenning skal bare gis for desinfeksjonsmidler som er av god kvalitet, og svarer til de krav til sikkerhet og effektivitet som må stilles av hensyn til mennesker, dyr og miljø.
+
+Direktoratet for medisinske produkter skal ha forelagt de opplysninger, og kan foreta de undersøkelser som anses nødvendige for å kunne vurdere søknaden.
+
+Direktoratet for medisinske produkter avgjør i tvilstilfeller om et preparat eller stoff omfattes av denne forskrift.
+
+Godkjenningen gjelder for en periode på 5 år.
+
+Søknad om fornyet godkjenning må være innsendt til godkjenningsinstansen senest 6 måneder før utløpet av den fastsatte godkjenningstid.
+
+> Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+## § 5. Tilbaketrekking av godkjenning
+
+Direktoratet for medisinske produkter kan trekke tilbake godkjenning hvis;desinfeksjonsmidlets sammensetning avviker fra opplysningene i søknaden,vilkår for godkjenningen ikke overholdes, ellernye opplysninger og vurderinger av desinfeksjonsmidlet medfører at det ikke lenger anses for å svare til kravene i [§ 4](forskrift/2008-06-17-821/§4).
+
+> Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+## § 6. Midlertidig salgsforbud
+
+Direktoratet for medisinske produkter kan midlertidig forby salg av et godkjent desinfeksjonsmiddel dersom det antas å foreligge grunn til å tilbakekalle godkjenningen eller bruk av preparatet kan medføre fare.
+
+> Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+## § 7. Bruk av godkjent desinfeksjonsmiddel
+
+Ved desinfeksjon av akvakulturanlegg, transportenheter og utstyr pålagt i eller med hjemmel i [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv., eller dens forskrifter, skal det kun benyttes listeført preparat som er godkjent i henhold til [§ 4](forskrift/2008-06-17-821/§4). Listen kunngjøres på [www.mattilsynet.no](https://www.mattilsynet.no).
+
+Sjøvann kan anvendes som fortynningsmiddel, dersom desinfeksjonsmiddelet er godkjent for slik bruk.
+
+Gjelder desinfeksjonen en eller flere navngitte sykdommer, skal desinfeksjonsmidlet være godkjent til bruk mot vedkommende gruppe smittestoff (bakterier, virus eller sopp). Mattilsynet kan gi pålegg om valg av godkjent desinfeksjonsmiddel.
+
+Dersom det ikke er godkjent desinfeksjonsmiddel som er egnet i forbindelse med bekjempelse av en aktuell sykdom, kan Mattilsynet gi tillatelse til at det nyttes andre preparater eller virkestoffer dersom disse er utprøvd mot det spesifikke smittestoffet.
+
+## § 8. Gebyr
+
+For behandling av søknader om godkjenning etter [§ 4](forskrift/2008-06-17-821/§4) i denne forskrift, skal søkeren betale et gebyr til det offentlige.
+
+## § 9. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i [§ 7](forskrift/2008-06-17-821/§7) i samsvar med [matloven § 23](lov/2003-12-19-124/§23) om tilsyn og vedtak.
+
+Vedtak fattet av Direktoratet for medisinske produkter etter [§ 4](forskrift/2008-06-17-821/§4), [§ 5](forskrift/2008-06-17-821/§5), [§ 6](forskrift/2008-06-17-821/§6) og [§ 10](forskrift/2008-06-17-821/§10) første ledd kan påklages til Helse- og omsorgsdepartementet.
+
+> Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+## § 10. Dispensasjon
+
+Når særlige grunner foreligger, kan Direktoratet for medisinske produkter dispensere fra bestemmelsene i [§ 4](forskrift/2008-06-17-821/§4) fjerde og femte ledd og sette vilkår for dispensasjonen.
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i [§ 7](forskrift/2008-06-17-821/§7) og sette vilkår for dispensasjonen, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+> Endret ved forskrift [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+## § 11. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+## § 12. Ikrafttredelse og oppheving av andre forskrifter
+
+Forskriften trer i kraft 1. august 2008. Samtidig oppheves [forskrift 20. februar 1997 nr. 194](forskrift/1997-02-20-194) om rengjøring og desinfeksjon av akvakulturanlegg m.v.

@@ -1,0 +1,277 @@
+---
+id: "sf-20031010-1221"
+slug: "forskrift-om-sanksjoner-mot-kongo"
+type: "forskrift"
+ref_id: "forskrift/2003-10-10-1221"
+title: "Forskrift om sanksjoner og restriktive tiltak i lys av situasjonen i Den demokratiske republikken Kongo"
+short_title: "Forskrift om sanksjoner mot Kongo"
+language: "no"
+ministry:
+  - "Utenriksdepartementet"
+date_in_force: "2003-10-10"
+last_change_in_force: "2025-01-01"
+last_updated: "2022-11-21"
+xml_hash: "653dbe5f37d22e5467e7e6f382641f7ea2ca0812782d266f83b41d70b07fab4d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om sanksjoner og restriktive tiltak i lys av situasjonen i Den demokratiske republikken Kongo
+
+## § 1. Virkeområde
+
+Forskriften gjelder:på norsk territorium, inkludert norsk luftromom bord på alle fartøy, også luftfartøy, boreplattformer og andre lignende flyttbare innretninger under norsk jurisdiksjonfor alle norske statsborgere og personer med bosted i Norgefor alle foretak registrert i Foretaksregisteretfor alle foretak med hensyn til forretningsvirksomhet de driver helt eller delvis i Norge.
+
+Forskriften gjelder også for Svalbard og Jan Mayen.
+
+> Endret ved [forskrifter 15 april 2008 nr. 361](forskrift/2008-04-15-361), [17 sep 2008 nr. 1024](forskrift/2008-09-17-1024), [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920).
+
+## § 2. Innarbeiding av forordning (EF) nr. 1183/2005
+
+(1) EUs vedlagte forordning [(EF) nr. 1183/2005](eu/32005r1183), med senere endringer, gjelder som forskrift med de tilpasninger som følger av denne bestemmelsen.
+
+(2) Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge». Unntak gjelder for «EUs felles liste over militært materiell» som skal forstås som henvisninger til «Liste I – forsvarsrelaterte varer» i vedlegg I i [forskrift 19. juni 2013 nr. 718 om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester](forskrift/2013-06-19-718) (forskrift om eksport av forsvarsmateriell mv.).
+
+(3) Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner».
+
+(4) Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Videre er også artikkel 9 til 12 EU-interne og kommer ikke til anvendelse.
+
+(5) Vedlegg I til vedlagte forordning [(EF) nr. 1183/2005](eu/32005r1183) er i denne forskriften erstattet med en lenke til FNs sanksjonskomites liste over personer, enheter og organer underlagt FN-sanksjoner.
+
+(6) Vedlegg Ia til vedlagte forordning [(EF) nr. 1183/2005](eu/32005r1183) er i denne forskriften erstattet med en lenke til EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak.
+
+> Endret ved [forskrifter 15 april 2008 nr. 361](forskrift/2008-04-15-361), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
+
+## § 3. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften er straffbart i henhold til [sanksjonsloven § 4](lov/2021-04-16-18/§4).
+
+> Endret ved [forskrifter 6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [15 april 2008 nr. 361](forskrift/2008-04-15-361), [18 juni 2008 nr. 611](forskrift/2008-06-18-611), [17 sep 2008 nr. 1024](forskrift/2008-09-17-1024), [19 feb 2018 nr. 249](forskrift/2018-02-19-249), [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920).
+
+## § 4. Dispensasjon
+
+Direktoratet for eksportkontroll og sanksjoner kan dispensere fra forskriften på grunnlag av vedlagte forordnings dispensasjonsbestemmelser. Direktoratet for eksportkontroll og sanksjoner kan også i særskilte tilfeller dispensere fra forskriften dersom den får en klart utilsiktet virkning, og forutsatt at det ikke strider mot Norges folkerettslige forpliktelser eller hensynene bak tiltakene og sanksjonene mot Den demokratiske republikken Kongo.
+
+> Endret ved forskrifter [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
+
+## § 5. Endring av forskriften
+
+Utenriksdepartementet gis fullmakt til å endre, suspendere eller oppheve forskriften.
+
+> Endret ved forskrift [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920).
+
+## § 6. Forskriftens ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+> Endret ved forskrift [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920).
+
+## Vedlegg A
+
+> Tilføyd ved forskrift [1 okt 2021 nr. 2920](forskrift/2021-10-01-2920), endret ved forskrifter [12 jan 2022 nr. 88](forskrift/2022-01-12-88), [1 mars 2023 nr. 286](forskrift/2023-03-01-286). [31 aug 2023 nr. 1392](forskrift/2023-08-31-1392), [20 des 2023 nr. 2259](forskrift/2023-12-20-2259).
+
+### RÅDSFORORDNING [(EF) nr. 1183/2005](eu/32005r1183) av 18. juli 2005 om restriktive tiltak i lys av situasjonen i Den demokratiske republikken Kongo
+
+### Artikkel 1
+
+I denne forordning menes med«krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordningens ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særlig foroppfyllelse av enhver forpliktelse som har oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,kompensasjon med hensyn til en kontrakt eller transaksjon,et motkrav,anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev, ogdokumenter som viser eierandeler i penger eller finansielle ressurser,«faglig bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for teknisk tjeneste, i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester og inkludert muntlig bistand,«formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester som befinner seg i et tredjeland med henblikk på overføring til et annet tredjeland,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom.
+
+### Artikkel 1a
+
+1. Det skal være forbudt å yte, direkte eller indirekte,faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell(i), eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på denne listen, til ikke-statlige enheter eller personer som driver virksomhet på territoriet til Den demokratiske republikk Kongo («DR Kongo»),finansiering eller finansiell bistand knyttet til salg, levering, overføring eller eksport av varer og teknologi oppført på EUs felles liste over militært materiell, herunder tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, ved salg, levering, overføring eller eksport av slike artikler eller ved levering av tilknyttet faglig bistand eller formidlingstjenester til ikke-statlige enheter eller personer som driver virksomhet på territoriet til DR Kongo.
+
+2. Det skal på forhånd gis underretning om yting av faglig bistand, finansiering eller finansiell bistand eller formidlingstjenester relatert til militære aktiviteter til enhver ikke-statlig eller annen person eller enhet eller ethvert organ i DR Kongo, eller til bruk i DR Kongo, unntatt yting av nevnte bistand til FNs stabiliseringsoperasjon i DR Kongo («MONUSCO») eller Den afrikanske unions regionale innsatsstyrke, og unntatt yting av bistand knyttet til ikke-dødbringende militært utstyr som utelukkende er ment for humanitære formål eller beskyttende bruk i samsvar med artikkel 1b nr. 1, til Sanksjonskomiteen som er opprettet i henhold til punkt 8 i FNs sikkerhetsrådsresolusjon 1533 (2004) («Sanksjonskomiteen»). Slik underretning skal inneholde all relevant informasjon, herunder, der det er nødvendig, sluttbruker, foreslått leveringsdato og forsendelsenes transportplan.
+
+### Artikkel 1b
+
+1. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 1a og gi tillatelse til levering avfaglig bistand, finansiering eller finansiell bistand eller formidlingstjenester knyttet til våpen og tilhørende materiell som utelukkende er bestemt til støtte for eller bruk av MONUSCO,faglig bistand, finansiering eller finansiell bistand eller formidlingstjenester knyttet til ikke-dødbringende militært utstyr som utelukkende er ment for humanitære formål eller beskyttende bruk,faglig bistand, finansiering eller finansiell bistand eller formidlingstjenester knyttet til våpen og tilhørende materiell som utelukkende er bestemt til støtte for eller bruk av Den afrikanske unions regionale innsatsstyrke,faglig bistand, finansiering eller finansiell bistand eller formidlingstjenester knyttet til andre salg og levering av våpen og tilhørende materiell, etter forhåndsgodkjenning fra Sanksjonskomiteen.
+
+2. Det skal ikke gis tillatelse til aktiviteter som allerede har funnet sted.
+
+### Artikkel 2
+
+1. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres, direkte eller indirekte, av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I eller Ia, herunder av en tredjepart som handler på deres vegne eller på deres instruks, skal fryses.
+
+2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i vedlegg I eller Ia.
+
+3. Nr. 1 og 2 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller avandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg I og av Rådet når det gjelder vedlegg Ia.
+
+### Artikkel 2a
+
+1. Vedlegg I skal inneholde de fysiske eller juridiske personene, enhetene eller organene som er listeført av Sanksjonskomiteen fordi de deltar i eller leverer støtte til handlinger som undergraver freden, stabiliteten eller sikkerheten i DR Kongo. Nevnte handlinger omfatter:brudd på våpenembargoen og tilknyttede tiltak som nevnt i artikkel 1 i beslutning [2010/788/FUSP](eu/32010d0788) og artikkel 1a i denne forordningen,politiske og militære ledere av utenlandske væpnede grupper aktive i Den demokratiske republikk Kongo som hindrer avvæpning og frivillig tilbakevending eller tilbakeflytting av medlemmer av nevnte grupper,politiske og militære ledere av kongolesiske militser, herunder de som mottar støtte fra utlandet, som hindrer sine medlemmer i å delta i avvæpnings-, demobiliserings- og reintegreringsprosesser,å rekruttere eller benytte barn i væpnet konflikt i strid med gjeldende folkerett,å planlegge, iscenesette eller utføre handlinger i DR Kongo som innebærer brudd på menneskerettighetene eller overgrep i henhold til eller brudd på internasjonal humanitærrett, alt etter forholdene, herunder handlinger som omfatter angrep rettet mot sivilbefolkningen, inkludert drap, lemlestelse, voldtekt og annen seksualisert vold, bortføring, tvangsfordriving og angrep på skoler og sykehus,å hindre tilgang til eller distribuering av humanitær bistand i DR Kongo,å støtte enkeltpersoner eller enheter, herunder væpnede grupper eller kriminelle nettverk som er involvert i destabiliseringsvirksomhet i DR Kongo gjennom ulovlig utnytting av eller handel med naturressurser, blant annet gull eller viltlevende dyr samt produkter fra viltlevende dyr,å handle på vegne av eller på instruks fra en listeført person eller enhet, eller å handle på vegne av eller på instruks fra en enhet som er eid eller kontrollert av en listeført person eller enhet,å planlegge, iscenesette, støtte eller delta i angrep mot MONUSCOs fredsbevarende styrker eller FN-personell, herunder medlemmer av ekspertgruppen, eller mot medisinsk personell eller humanitært personell,å yte finansiell, materiell eller faglig støtte eller levere varer eller tjenester til en listeført person eller enhet.å delta i produksjon, framstilling eller bruk av improviserte sprenglegemer i DR Kongo, eller å delta i bestilling, planlegging eller beordring av, bistand eller medvirkning til eller på annen måte støtte til angrep med improviserte sprenglegemer i DR Kongo.
+
+2. Vedlegg I skal inneholde begrunnelsen for å listeføre fysiske eller juridiske personer, enheter eller organer, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen.
+
+3. Vedlegg I inneholder også nødvendige opplysninger, der slike er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse. Vedlegg I inneholder også datoen da personene, enhetene og organene ble listeført av FNs sikkerhetsråd eller av Sanksjonskomiteen.
+
+### Artikkel 2b
+
+1. Vedlegg Ia inneholder en liste over de fysiske eller juridiske personene, enhetene eller organene som Rådet har listeført basert på en av følgende begrunnelser:å hindre en minnelig og fredelig løsning som leder mot valg i DR Kongo, herunder ved voldshandlinger, undertrykking eller oppfordring til vold, eller ved å undergrave rettsstaten,å planlegge, iscenesette eller utgjøre handlinger som innebærer alvorlige brudd på eller krenkelser av menneskerettighetene i DR Kongo,å være ansvarlig for å opprettholde den væpnede konflikten, ustabiliteten eller usikkerheten i DR Kongo,å yte støtte til fysiske eller juridiske personer, enheter eller organer som er ansvarlig for å opprettholde den væpnede konflikten, ustabiliteten eller usikkerheten i DR Kongo,å oppfordre til vold i tilknytning til handlinger som omtalt i bokstav b, c og d,å utnytte den væpnede konflikten, ustabiliteten eller usikkerheten i DR Kongo, inkludert gjennom ulovlig utnytting av eller handel med naturressurser og viltlevende dyr,å være tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a, b, c, d, e eller f.
+
+2. Vedlegg Ia inneholder begrunnelsen for at personene og enhetene som er nevnt i vedlegget, er listeført.
+
+3. Vedlegg Ia inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte personene eller enhetene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For enheter kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+
+### Artikkel 3
+
+1. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I eller vedlegg Ia og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal brukes til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, ellerutelukkende skal brukes til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten, når tillatelsen gjelder personer, enheter og organer oppført i vedlegg I, har underrettet Sanksjonskomitéen om at dette er fastslått, og at den vurderer å gi slik tillatelse, og Sanksjonskomitéen ikke har kommet med innsigelser mot dette innen fire arbeidsdager etter at underretningen ble gitt.
+
+2. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atSanksjonskomitéen, dersom tillatelsen gjelder en fysisk eller juridisk person, enhet eller et organ oppført i vedlegg I, er underrettet om at dette er fastslått av medlemsstaten, og at det er godkjent av komitéen,medlemsstaten, dersom tillatelsen gjelder en fysisk eller juridisk person, enhet eller et organ oppført i vedlegg Ia, minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener at det bør gis særskilt tillatelse.
+
+3. For en fysisk eller juridisk person, enhet eller et organ oppført i vedlegg Ia skal den berørte medlemsstaten underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
+
+### Artikkel 4
+
+1. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt at følgende vilkår er oppfylt:pengene eller formuesgodene er gjenstand foren rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før 18. april 2005 eller en rettslig beslutning truffet av en domstol, et forvaltningsorgan eller en voldgiftsdomstol før denne datoen, for en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, elleren voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet ble oppført i vedlegg Ia, eller for en rettslig eller administrativ avgjørelse truffet i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før eller etter denne datoen,pengene eller formuesgodene skal utelukkende brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller den rettslige beslutningen ikke er til fordel for personer, enheter eller organer oppført i vedlegg I eller Ia,anerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+
+2. For en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I skal tilbakeholdsretten eller den rettslige beslutningen nevnt i nr. 1 bokstav a) i) meldes til Sanksjonskomiteen av medlemsstaten.
+
+3. For en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg Ia skal den berørte medlemsstaten underrette de øvrige medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til denne artikkelen.
+
+### Artikkel 4b
+
+1. Uavhengig av artikkel 2 nr. 3 kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 2 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille til rådighet visse frosne penger eller formuesgoder som tilhører fysiske eller juridiske personer, enheter eller organer oppført i vedlegg Ia, når det er fastslått at pengene eller formuesgodene er nødvendige for humanitære formål, som å yte eller legge til rette for yting av bistand, herunder medisinsk utstyr, matvarer eller transport av humanitære hjelpearbeidere og tilhørende bistand, eller til evakuering fra DR Kongo.
+
+2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om tillatelser som gis i henhold til denne artikkel, senest fire uker etter at tillatelsen er gitt.
+
+### Artikkel 5
+
+1. Bestemmelsen i artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da disse kontiene ble omfattet av denne forordningen,beløp forfalt til betaling til en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg Ia i henhold til en rettslig, administrativ eller voldgiftsmessig avgjørelse som er truffet i EU, eller som er rettskraftig i den berørte medlemsstaten,forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 2 nr. 1.
+
+2. Bestemmelsen i artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra en tredjepart til en konto tilhørende fysiske eller juridiske personer, enheter eller organer som er listeført i vedlegg I eller Ia, forutsatt at de godskrevne beløpene fryses. Finans- eller kredittinstitusjoner skal umiddelbart underrette vedkommende kompetente myndigheter om slike transaksjoner.
+
+### Artikkel 6
+
+1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 2, til de kompetente myndighetene i medlemsstatene der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom de nevnte kompetente myndighetene, til Kommisjonen, ogsamarbeide med de kompetente myndighetene om en eventuell verifisering av disse opplysningene.
+
+2. Enhver tilleggsopplysning Kommisjonen mottar direkte, skal stilles til rådighet for den berørte medlemsstatens kompetente myndigheter.
+
+3. Alle opplysninger som gis eller mottas i henhold til nr. 1 og 2, skal benyttes bare til det formål de gis eller mottas for.
+
+### Artikkel 7
+
+1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble fryst som følge av uaktsomhet.
+
+2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med forbudene fastsatt i denne forordningen.
+
+### Artikkel 7a
+
+1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I og Ia,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en person, en enhet eller et organ omtalt i bokstav a).
+
+2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
+
+3. Denne artikkelen berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
+
+### Artikkel 7b
+
+Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå tiltakene nevnt i artikkel 1a og artikkel 2 nr. 1 og 2.
+
+### Artikkel 8
+
+Kommisjonen og medlemsstatene skal umiddelbart underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal gi hverandre all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig om problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
+
+### Artikkel 9
+
+1. Når FNs sikkerhetsråd eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, skal Rådet registrere vedkommende person, enhet eller organ i vedlegg I.
+
+2. Rådet skal fastsette og endre listen over fysiske eller juridiske personer, enheter eller organer i vedlegg Ia.
+
+3. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet omtalt i nr. 1 og 2, enten direkte, dersom adressen er kjent, eller ved å offentliggjøre en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+
+4. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+
+5. Dersom FNs sikkerhetsråd eller Sanksjonskomiteen beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen eller å endre opplysningene som identifiserer en fysisk eller juridisk person, en enhet eller et organ på listen, skal Rådet endre vedlegg I tilsvarende.
+
+6. Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra medlemsstatene.
+
+### Artikkel 10
+
+Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordningen og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+
+Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordningen er trådt i kraft, og om alle senere endringer.
+
+### Artikkel 11
+
+Denne forordningen får anvendelsepå Fellesskapets territorium, herunder i Fellesskapets luftrom,om bord i alle luftfartøyer og fartøyer under en medlemsstats jurisdiksjon,for alle personer innenfor eller utenfor Fellesskapets territorium som er statsborgere i en medlemsstat,for alle juridiske personer, enheter og organer etablert eller stiftet i henhold til en medlemsstats lovgivning,for alle juridiske personer, enheter eller organer som driver virksomhet innenfor Fellesskapet.
+
+### Artikkel 12
+
+Denne forordningen trer i kraft den dag den kunngjøres i Den europeiske unions tidende.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+### VEDLEGG I
+Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2a
+
+FNs sanksjonskomites liste over personer, enheter og organer underlagt FN-sanksjoner i lys av situasjonen i DR Kongo er tilgjengelig [her](https://www.un.org/securitycouncil/sanctions/1533/materials/summaries).
+
+### VEDLEGG Ia
+Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2b
+
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). 1
+
+Listeførte med programkode («programme») COD – Democractic Republic of Congo er listeført under denne forskriften.
+
+### VEDLEGG II
+Liste over kompetente myndigheters nettsider.
+
+BELGIUMhttps://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en_veiligheid/sanctieshttps://diplomatie.belgium.be/fr/politique/themes_politiques/paix_et_securite/sanctionshttps://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIAhttps://www.mfa.bg/en/101
+
+CZECH REPUBLIC[www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+DENMARKhttp://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/
+
+GERMANYhttp://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html
+
+ESTONIAhttp://www.vm.ee/est/kat_622/
+
+IRELANDhttp://www.dfa.ie/home/index.aspx?id=28519
+
+GREECEhttp://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAINhttp://www.exteriores.gob.es/Portal/en/PoliticaExteriorCooperacion/GlobalizacionOportunidadesRiesgos/Paginas/SancionesInternacionales.aspx
+
+FRANCEhttp://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIAhttp://www.mvep.hr/sankcije
+
+ITALYhttps://www.esteri.it/mae/it/politica_estera/politica_europea/misure_deroghe
+
+CYPRUShttp://www.mfa.gov.cy/mfa/mfa2016.nsf/mfa35_en/mfa35_en?OpenDocument
+
+LATVIAhttp://www.mfa.gov.lv/en/security/4539
+
+LITHUANIAhttp://www.urm.lt/sanctions
+
+LUXEMBOURGhttps://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/mesures-restrictives.html
+
+HUNGARYhttp://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf
+
+MALTAhttps://foreignaffairs.gov.mt/en/Government/SMB/Pages/Sanctions-Monitoring-Board.aspx
+
+NETHERLANDShttps://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIAhttp://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=
+
+POLANDhttps://www.gov.pl/web/dyplomacja
+
+PORTUGALhttp://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx
+
+ROMANIAhttp://www.mae.ro/node/1548
+
+SLOVENIAhttp://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIAhttps://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLANDhttp://formin.finland.fi/kvyhteistyo/pakotteet
+
+SWEDENhttp://www.ud.se/sanktioner
+
+UNITED KINGDOMhttps://www.gov.uk/sanctions-embargoes-and-restrictions
+
+Address for notifications to the European Commission:European CommissionService for Foreign Policy Instruments (FPI)EEAS 07/99B-1049 Brussels, BelgiumE-mail: relex-sanctions@ec.europa.eu

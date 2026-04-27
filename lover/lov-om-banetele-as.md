@@ -1,0 +1,44 @@
+---
+id: "nl-20010615-087"
+slug: "lov-om-banetele-as"
+type: "lov"
+ref_id: "lov/2001-06-15-87"
+title: "Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap"
+short_title: "Lov om BaneTele AS"
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2001-06-15"
+last_change_in_force: "2016-03-01"
+last_updated: "2021-09-29"
+xml_hash: "70bdc43d5e1432f97778f1cd2a638e06f60890b3280442fea8464b3e06b5df09"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap
+
+## § 1. Formål
+
+Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av Jernbaneverkets kommersielle televirksomhet BaneTele til aksjeselskap.
+
+## § 2. Overføring av privatrettslige forpliktelser
+
+Overføring til aksjeselskapet av forpliktelser knyttet til de deler av Jernbaneverkets kommersielle televirksomhet omdanningen gjelder, har frigjørende virkning for staten.
+
+Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+
+## § 3. Overføring av offentlige rettigheter, konsesjoner, tillatelser m.v.
+
+Offentlige rettigheter, konsesjoner, tillatelser med videre som gjelder den virksomheten som skal omdannes, blir fra omdanningstidspunktet overført til aksjeselskapet.
+
+## § 4. (Opphevet)
+
+> Opphevet ved [lov 22 jan 2016 nr. 1](lov/2016-01-22-1) (ikr. 1 mars 2016 iflg. [res. 22 jan 2016 nr. 44](forskrift/2016-01-22-44)).
+
+## § 5. Ikrafttredelse
+
+Loven trer i kraft straks.

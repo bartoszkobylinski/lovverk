@@ -1,0 +1,30 @@
+---
+id: "sf-20251121-2306"
+slug: "forskrift-om-endring-i-forskrift-om-besittelse-omsetning-og-transport-av-nukleært-materiale-og-flerbruksvarer"
+type: "forskrift"
+ref_id: "forskrift/2025-11-21-2306"
+title: "Forskrift om endring i forskrift om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer"
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "a3ca3c7059d7db4e66fa39982198199fc1e3e48c1e1eddcf17583ae00a818add"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer
+
+## I
+
+Direktoratet for strålevern og atomsikkerhet kan ilegge den som forsettlig eller uaktsomt overtrer bestemmelsene i [§§ 3](forskrift/2000-05-12-433/§3) til [8](forskrift/2000-05-12-433/§8) og [§§ 10](forskrift/2000-05-12-433/§10) til [12](forskrift/2000-05-12-433/§12) i denne forskriften, overtredelsesgebyr. Nærmere regler om ileggelse og utmåling av overtredelsesgebyr følger av [forskrift 2. november 2025 nr. 2168 om ileggelse og utmåling av overtredelsesgebyr etter atomenergiloven](forskrift/2025-11-02-2168).
+
+## II
+
+Endringen trer i kraft 1. januar 2026.

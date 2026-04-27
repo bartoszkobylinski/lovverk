@@ -1,0 +1,110 @@
+---
+id: "nl-19550630-020"
+slug: "lov-om-brudvigjing-i-utlandet"
+type: "lov"
+ref_id: "lov/1955-06-30-20"
+title: "Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg"
+short_title: "Lov om brudvigjing i utlandet"
+language: "nn"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "1956-01-01"
+last_change_in_force: "2023-10-01"
+last_updated: "2021-06-16"
+xml_hash: "529f5f80fceb0a046ff8ca9babc9bed853902304f6cf89cb5fa45fc0b427b958"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg
+
+## Kap. 1. Når norsk tenestemakt kan vigja brudfolk i utlandet.
+
+### § 1
+
+Kongen kan gjeva sjømannsprest som er utsend av Den Norske Sjømannsmisjonen rett til å vigja brudfolk etter norsk lov i det landet der presten har arbeidet sitt. Slik rett kan Kongen òg gjeva annan norsk prest som har prestarbeid i utlandet. Løyve kan ikkje gjevast utan vigjinga vert rekna for rettsgild, så langt det gjeld formene, i det landet der brudfolka skal vigjast.
+
+Når serlege grunnar er for det, kan Kongen likeins gjeva sjømannsprest rett til å vigja brudfolk ombord i norske skip som er utanfor sjøbeltet (sjøterritoriet) åt det landet der presten har arbeidet sitt.
+
+Minst den eine av brudfolka må vera norsk borgar eller busett i Noreg.
+
+> Endra med [lov 4 juli 1991 nr. 47](lov/1991-07-04-47).
+
+### § 2
+
+Kongen kan gjeva misjonær som er utsend av norsk misjonslag, rett til å vigja brudfolk etter norsk lov i det landet der misjonslaget arbeider.
+
+Minst den eine av brudfolka må vera norsk borgar eller busett i Noreg.
+
+### § 3
+
+Kongen kan gjeva norsk feltprest rett til å vigja brudfolk etter norsk lov utanfor Noreg i militærdeild som presten høyrer til.
+
+Minst den eine av brudfolka må høyra til norske militære styrkar. Paragraf 1, tredje leden, fyrste punktum, gjeld på tilsvarande måte.
+
+### § 4
+
+Utsend utanrikstenestetilsett kan vigja brudfolk i samsvar med lovreglane om utanrikstenesta.
+
+> Endra med lover [13 feb 2015 nr. 9](lov/2015-02-13-9) (ikr. 1 mars 2015 iflg. [res. 13 feb 2015 nr. 131](forskrift/2015-02-13-131)), [16 juni 2023 nr. 34](lov/2023-06-16-34) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 944](forskrift/2023-06-16-944)).
+
+## Kap. 2. Når utanlandsk tenestemakt kan vigja brudfolk i Noreg.
+
+### § 5
+
+Kongen kan gjeva diplomatisk eller konsulær tenestemann åt eit framandt land løyve til å vigja brudfolk i Noreg etter formene i det landet når det er teke atterhald om tilsvarande løyve for norsk diplomatisk eller konsulær tenestemann i det framande landet. Vilkåret er at brudfolka ikkje er norske borgarar, at minst den eine av dei er borgar eller busett i det landet som tenestemannen høyrer til og at tenestemannen kan halda slik vigjing etter lovane i det landet.
+
+### § 6
+
+Kongen kan gjeva prest som høyrer til eit utanlandsk evangelisk-luthersk kyrkjesamfund, løyve til å vigja brudfolk i Noreg etter formene i det kyrkjesamfundet når brudfolka eller ein av dei er borgar i det framande landet, og presten kan halda slik vigjing etter lovene der.
+
+Løyve kan ikkje gjevast utan norsk prest kan få tilsvarande løyve etter lovene i det framande landet.
+
+> Endra med lov 11 des 1959 nr. 3.
+
+### § 7
+
+Kongen kan gjeva utanlandsk feltprest løyve til å vigja brudfolk i Noreg i militærdeild som presten høyrer til, når minst den eine av brudfolka høyrer til dei styrkane det gjeld og presten kan halda slik vigjing etter lovene i heimlandet sitt.
+
+## Kap. 3. Ymse føresegner.
+
+### § 8
+
+Når det vert gjeve løyve etter denne lova, kan Kongen taka dei atterhald og setja dei vilkår som trengs.
+
+Kongen kan taka slike løyve tilbake kva tid han vil.
+
+### § 9
+
+Kongen kan gjeva nøgnare føresegner om vigjing etter [§§ 1](lov/1955-06-30-20/§1), [2](lov/1955-06-30-20/§2) og 3, då og om formene, om prøving av ekteskapsvilkåra før vigjinga og om skyldnad til å føra bøker og gjeva vitnemål og utskrifter.
+
+> Endra med lov 18 mai 1973 nr. 24.
+
+### § 10
+
+Når nokon har vigt brudfolk etter løyve gjeve med heimel i [§§ 1](lov/1955-06-30-20/§1), 2, 3, 5, 6 eller 7, skal han senda melding om vigjinga til norsk tenestemakt i samsvar med reglar som Kongen gjev.
+
+### § 11
+
+Ei vigjing som er haldi av norsk tenestemakt i utlandet eller av utanlandsk tenestemakt i Noreg er utan rettsverknad når vigjingsmannen vanta rett løyve eller vigjinga på onnor vis er gjord i strid med reglane om vigjingsrett i denne lova. Det same gjeld om norsk vigjing når reglane i [ekteskapslova § 11](lov/1991-07-04-47/§11) første ledd ikkje er fylgde, og om utanlandsk vigjing når ho, så langt det gjeld formene, er ugild etter lovene i det landet som vigjingsmannen høyrer til.
+
+Ei vigjing står derimot ved makt om andre reglar om framgangsmåten og om lysing ikkje er fylgde.
+
+I serhøve kan ei vigjing som er haldi av norsk tenestemakt eller av utanlandsk tenestemakt i Noreg, godtakast som gjeldande, endå om ho vantar bindande kraft etter reglane i første leden. Slik avgjerd kan takast endå om den eine av brudfolka eller båe er avlidne. Departementet fastset kva for statsforvaltarar som skal handsame slike saker. Kongen kan gjeva nøgnare reglar om godtakingsvilkåra.
+
+> Endra med [lover 7 feb 1969 nr. 7](lov/1969-02-07-7), [4 juli 1991 nr. 47](lov/1991-07-04-47), [8 mai 1998 nr. 25](lov/1998-05-08-25), [18 sep 2015 nr. 92](lov/2015-09-18-92) (ikr. 1 jan 2016 iflg. [res. 18 sep 2015 nr. 1057](forskrift/2015-09-18-1057)), [17 juni 2016 nr. 27](lov/2016-06-17-27), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 12
+
+Med Noreg er i denne lova og meint Svalbard, Jan Mayen og norsk underland.
+
+### § 13
+
+Kongen fastset kva tid denne lova skal taka til å gjelda.1
+
+Når lova tek til å gjelda, fell etternemnde lover bort: – – –
+
+Vigjingsløyve som alt er gjeve og likeins føreseiingar om vigjing som norsk tenestemakt kan halda i utlandet og utenlandsk tenestemakt kan halda i Noreg, held fram å gjelda til dei vert kalla tilbake, sett ut or kraft eller brigda etter denne lova, så sant dei ikkje strider mot nokor føresegn i henne. Det same gjeld om vigjingsmakt som ein sjømannsprest har når lova tek til å gjelda.

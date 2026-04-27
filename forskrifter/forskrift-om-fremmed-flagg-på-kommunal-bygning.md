@@ -1,0 +1,26 @@
+---
+id: "sf-19330706-0003"
+slug: "forskrift-om-fremmed-flagg-på-kommunal-bygning"
+type: "forskrift"
+ref_id: "forskrift/1933-07-06-3"
+title: "Forskrift om adgang til i særlige tilfelle å benytte fremmed lands flagg ved siden av det norske flagg på kommunale offentlige bygninger."
+short_title: "Forskrift om fremmed flagg på kommunal bygning"
+language: "no"
+ministry:
+  - "Utenriksdepartementet"
+date_in_force: "1933-07-06"
+last_change_in_force: null
+last_updated: null
+xml_hash: "05e1225032fbaad6fff95fac6e823cfbc5b8562bc01f3f60e478ae2be4973410"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om adgang til i særlige tilfelle å benytte fremmed lands flagg ved siden av det norske flagg på kommunale offentlige bygninger.
+
+1. Et fremmed lands flagg kan heises ved siden av Norges flagg på eller fra kommunale offentlige bygninger og eiendommer eller bygninger og eiendommer som for den vesentligste del benyttes av kommunale institusjoner, når dette av hensyn til internasjonal høflighet finnes ønskelig.
+
+2. Et fremmed lands flagg skal dog ved sådanne anledninger ikke gis en mere fremtredende plass enn Norges flagg.

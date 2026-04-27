@@ -1,0 +1,38 @@
+---
+id: "sf-20140326-0334"
+slug: "vedtak-om-gebyr-for-varemerkeregistreringer-etter-madridprotokollen"
+type: "forskrift"
+ref_id: "forskrift/2014-03-26-334"
+title: "Vedtak om gebyrer for utpeking av Norge i internasjonale varemerkeregistreringer etter Madridprotokollen"
+short_title: "Vedtak om gebyr for varemerkeregistreringer etter Madridprotokollen"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2014-04-01"
+last_change_in_force: "2024-03-01"
+last_updated: null
+xml_hash: "27126d19d5de8419e8b2e2351c8bf7b9fb775604469821f903cbf74e40708a5f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Vedtak om gebyrer for utpeking av Norge i internasjonale varemerkeregistreringer etter Madridprotokollen
+
+## § 1.
+
+For utpeking av Norge i en internasjonal varemerkeregistrering etter Madridprotokollen, jf. [varemerkeloven § 70](lov/2010-03-26-8/§70), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr3800,og2.tilleggsgebyr for hver klasse utover énkr1000
+
+Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr4000,og2.tilleggsgebyr for beskyttelse i hver klasse utover énkr1650
+
+For fornyelse av utpekinger iht. [varemerkeloven § 72 andre ledd](lov/2010-03-26-8/§72/ledd/2), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.fornyelsesavgift for beskyttelse i inntil én klassekr3400,og2.tilleggsavgift for hver klasse utover énkr1300
+
+Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr5150,og2.tilleggsgebyr for beskyttelse i hver klasse utover énkr2100
+
+> Endret ved vedtak [24 jan 2024 nr. 129](forskrift/2024-01-24-129) (i kraft 1 mars 2024).
+
+## § 2.
+
+Vedtaket trer i kraft 1. april 2014.

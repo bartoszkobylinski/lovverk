@@ -1,0 +1,30 @@
+---
+id: "sf-20010316-0243"
+slug: "forskrift-om-utvidelse-av-oppdrettsloven"
+type: "forskrift"
+ref_id: "forskrift/2001-03-16-243"
+title: "Forskrift om utvidelse av oppdrettslovens virkeområde."
+short_title: "Forskrift om utvidelse av oppdrettsloven"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2001-03-16"
+last_change_in_force: null
+last_updated: null
+xml_hash: "85f5af3fa9ff0f46cf4073f03d66864f525dedd1fe6aaa7adf02dc712106e62a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om utvidelse av oppdrettslovens virkeområde.
+
+## § 1.
+
+[Lov av 14. juni 1985 nr. 68](lov/1985-06-14-68) om oppdrett av fisk, skalldyr m.v. omfatter også pigghuder.
+
+## § 2.
+
+Forskriften trer i kraft straks.

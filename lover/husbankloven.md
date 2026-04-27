@@ -1,0 +1,130 @@
+---
+id: "nl-20090529-030"
+slug: "husbankloven"
+type: "lov"
+ref_id: "lov/2009-05-29-30"
+title: "Lov om Husbanken"
+short_title: "Husbankloven"
+language: "nn"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2010-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-08-26"
+xml_hash: "237feab16b5826fff22480faa3f3502eeb7b54284e352805300e742daaba7bb8"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om Husbanken
+
+## § 1. Oppgåver
+
+Husbanken skal fremja bustadføremål i samsvar med overordna retningsliner.
+
+Husbanken skal forvalta bustøtte og låne- og tilskotsordningar og medverka til å utvikla og formidla kunnskap om mål, metodar og resultat innanfor sitt saksområde.
+
+Departementet kan gje Husbanken andre oppgåver, medrekna å forvalta ordningar på andre område.
+
+Departementet kan gje forskrifter om verksemda og verkemidla til Husbanken.
+
+> Endra ved [lov 24 aug 2012 nr. 64](lov/2012-08-24-64) (ikr. 1 jan 2013 iflg. [res. 24 aug 2012 nr. 826](forskrift/2012-08-24-826)).
+
+## § 2. Verkeområde
+
+Lova gjeld på Svalbard. Departementet kan fastsetja særlege reglar ut ifrå tilhøva på staden.
+
+## § 3. Tilknyting til staten
+
+Husbanken er eit statleg forvaltningsorgan underlagt departementet.
+
+## § 4. Leiing og organisering
+
+Husbanken vert leidd av ein administrerande direktør som vert tilsett av Kongen i statsråd.
+
+Husbanken skal ha eit hovudkontor.
+
+Departementet kan fastsetja at Husbanken skal ha regionkontor og kor dei skal liggja.
+
+> Endra ved [lover 2 des 2016 nr. 86](lov/2016-12-02-86), [21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831)).
+
+## § 5. Partsevne
+
+Husbanken opptrer som part på vegner av staten i søksmål som er knytte til verksemda.
+
+Departementet kan i enkelte saker overta utøving av partsstillinga.
+
+## § 6. Klage
+
+Departementet kan fastsetja forskrift om særskild klageinstans for enkeltvedtaka til Husbanken.
+
+## § 7. Finansiering
+
+Verksemda og verkemidla til Husbanken vert finansierte ved løyvingar over statsbudsjettet og ved lån frå staten.
+
+## § 8. Utlån
+
+Lån i Husbanken vert forrenta etter føresegner som Stortinget fastset.
+
+Departementet gjev forskrifter om tilbakebetaling av lån, rentesatsar, gebyr, o.l. Departementet kan òg fastsetja føresegner om gebyr i tilknyting til etablering og forvaltning av lån.
+
+Husbanken kan gje utsetjing av betaling av renter og avdrag. Husbanken kan delta i gjeldsforhandlingar.
+
+## § 9. Ettergjeving av krav
+
+Husbanken kan ettergje krav om å betala tilbake lån eller tilskot dersom det ikkje lèt seg gjera å driva inn kravet. Dette gjeld likevel ikkje dersom kravet er overført til Innkrevjingsmyndigheita for innkrevjing.
+
+> Endra ved [lover 24 aug 2012 nr. 64](lov/2012-08-24-64) (ikr. 1 jan 2013 iflg. [res. 24 aug 2012 nr. 826](forskrift/2012-08-24-826)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+## § 10. Innhenting og handsaming av personopplysningar i samband med tilskot og lån
+
+Når det er naudsynt for sakshandsaminga, kan Husbanken og kommunane utan hinder av teieplikt henta inn og handsamaopplysningar om namn, adresse, telefonnummer, e-postadresse, kundenummer og reservasjonsstatus for digital post, kontonummer, målform og fødselsnummeropplysningar om eventuell verje og den rettslege handleevna til søkjaren i økonomiske tilhøveopplysningar om inntekt, formue, skatt og gjeld, medrekna opplysningar om inntekt frå Arbeids- og velferdsetatenandre opplysningar om økonomiske tilhøveopplysningar om offentlege ytingaropplysningar om arbeidstilhøveopplysningar om opphaldsløyve og opphaldsrett, og bakgrunnen for gjevne løyve og rettaropplysningar om bustad, butilhøve og sosiale tilhøveopplysningar om utdanninga til søkjaren.
+
+Opplysningane som er nemnde i fyrste leddet, kan òg verta henta inn og handsama dersom dei er naudsynte for å forvalta løyvde tilskot og lån.
+
+Opplysningane kan verta henta inn frå søkjaren sjølv, folkeregisteret, kontakt- og reservasjonsregisteret, arbeidsgjevar- og arbeidstakarregisteret, skattestyresmaktene, Kartverket, arbeidsgjevarar, utdanningsinstitusjonar, forsikringsselskap, eigedomsmeklarar, finansinstitusjonar, selskap som tilbyr kredittvurderingar, båtregister, Arbeids- og velferdsetaten og anna offentleg styresmakt. Søkjaren skal likevel ha rett til å velja å skaffa opplysningar frå arbeidsgjevar og bank sjølv. Opplysningar om sosiale tilhøve kan berre hentast inn frå søkjaren sjølv.
+
+Når det er naudsynt for sakshandsaminga, kan søkjaren eller andre som opplysingane gjeld, verta bedne om å samtykkja til at det vert henta inn helseopplysningar frå helsepersonell.
+
+Husbanken eller kommunen skal opplysa den som blir pålagd å gje frå seg opplysningar, om føremålet med å henta inn opplysningane, om heimelen for å henta inn opplysningane og om retten til å klaga, jf. [forvaltningsloven § 14](lov/1967-02-10/§14). Husbanken eller kommunen skal på søknadstidspunktet opplysa søkjaren og eventuelle husstandsmedlemmer om kva kjelder opplysningane vert henta frå, kva dei skal verta brukte til, og om retten til å gjennomføra etterfølgjande kontrollar.
+
+Opplysningane som er nemnde i fyrste leddet, skal verta gjevne utan godtgjersle.
+
+Tilgangen til å henta inn og handsama opplysningar etter denne føresegna gjeld også naudsynte opplysningar om ektefellen eller sambuaren til søkjaren, og heimebuande born eller andre husstandsmedlemmer.
+
+Departementet kan fastsetja nærare føresegner om den tilgangen Husbanken og kommunane har til å henta inn og handsama personopplysningar.
+
+> Føyd til ved [lov 21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831)).
+
+## § 11. Kontroll av personopplysningar ved mistanke om utbetalingar på urettkome grunnlag
+
+Husbanken og kommunane kan påleggja søkjaren å gje opplysningar når det er rimeleg grunn til å undersøkja om det har skjedd utbetalingar på urettkome grunnlag.
+
+Husbanken og kommunen kan henta inn oppdaterte opplysningar og kontrollera opplysningane som er nemnde i [§ 10](lov/2009-05-29-30/§10) når det er rimeleg grunn til å undersøkja om det har skjedd utbetalingar på urettkome grunnlag. Husbanken og kommunen kan òg henta inn naudsynte opplysningar om helseforhold utan samtykke frå søkjaren. Søkjaren har likevel rett til å velja å skaffa opplysningar frå helsepersonell sjølv. Opplysningane som er nemnde i dette leddet, skal verta gjevne utan hinder av teieplikt. Husbanken fastset, etter drøftingar med dei aktuelle organisasjonane, godtgjersle for helsepersonell som vert pålagt å gje opplysningar.
+
+Husbanken og kommunane skal opplysa søkjarar og andre personar som er nemnde i [§ 10](lov/2009-05-29-30/§10), om kva opplysningar som er henta inn, frå kven og med kva føremål og utfall. Dersom det er naudsynt for å oppnå kontrollføremålet, kan slik informasjon verta utsett til etter at kontrollen er gjennomført.
+
+> Føyd til ved [lov 21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831)).
+
+## § 12. Handsaming av personopplysningar for statistikk, analyse, forsking og retting av feil
+
+Husbanken kan handsama dei opplysningane som er nemnde i [§ 10](lov/2009-05-29-30/§10), når det er naudsynt for å utarbeida statistikk og analysar, men berre dersom ein ikkje kan oppnå føremålet ved å bruka anonymiserte opplysningar. Det same gjeld for kommunane, som kan gje opplysningane til Husbanken.
+
+Husbanken kan lagra dei opplysningane som er nemnde i [§ 10](lov/2009-05-29-30/§10), for seinare bruk i forsking. Departementet kan gje nærare føresegner om utlevering av personopplysningar frå Husbanken til bruk i forsking i samsvar med [forvaltningsloven § 13](lov/1967-02-10/§13) d.
+
+Husbanken kan handsama dei personopplysningane som er nemnde i [§ 10](lov/2009-05-29-30/§10), når det er naudsynt for å testa, søkja etter feil og retta feil i dei digitale sakshandsamingssystema til Husbanken, men berre dersom ein ikkje kan oppnå føremålet ved å bruka anonymiserte opplysningar. Departementet kan gje nærare føresegner om handsaming av personopplysningar i samband med testing, søking etter feil og retting av feil.
+
+> Føyd til ved [lov 21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831)).
+
+## § 13. Ikraftsetjing o.a.
+
+Lova gjeld frå den tida Kongen fastset.1
+
+Frå same tid vert [lov 1. mars 1946 nr. 3](lov/1946-03-01-3) om Den Norske Stats Husbank oppheva.
+
+Forskrifter gjevne i medhald av [lov 1. mars 1946 nr. 3](lov/1946-03-01-3) om Den Norske Stats Husbank gjeld òg etter at lova her tek til å gjelda.
+
+> Endra ved [lover 24 aug 2012 nr. 64](lov/2012-08-24-64) (ikr. 1 jan 2013 iflg. [res. 24 aug 2012 nr. 826](forskrift/2012-08-24-826), tidlegare § 13, samstundes vart tidlegare § 10, § 11 og § 12 oppheva), [21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831), tidlegare § 10).

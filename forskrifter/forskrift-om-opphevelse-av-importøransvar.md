@@ -1,0 +1,34 @@
+---
+id: "sf-19931112-1028"
+slug: "forskrift-om-opphevelse-av-importøransvar"
+type: "forskrift"
+ref_id: "forskrift/1993-11-12-1028"
+title: "Forskrift om opphevelse av importøransvaret etter produktansvarsloven for import fra stater som har ratifisert EØS-avtalen og Luganokonvensjonen."
+short_title: "Forskrift om opphevelse av importøransvar"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1994-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "9eade7b7c0c17b0f4e3f7504d1a051279ab4a1ba5b3551942217b181d84f68a5"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om opphevelse av importøransvaret etter produktansvarsloven for import fra stater som har ratifisert EØS-avtalen og Luganokonvensjonen.
+
+## § 1.
+
+Import av produkt fra stater som har ratifisert [EØS-avtalen og](lov/1992-11-27-109) Luganokonvensjonen 1988 om domsmyndighet og fullbyrding av dommer i sivile og kommersielle saker, regnes ikke som import etter [lov 23. desember 1988 nr. 104](lov/1988-12-23-104) om produktansvar [§ 1-3](lov/1988-12-23-104/§1-3).
+
+Dersom produktet er importert fra en tredjestat til en stat som er nevnt i første ledd, skal importøren av produktet fra tredjestaten ha samme ansvar som produsenten.
+
+Forhandleren av produktet skal likevel være ansvarlig hvis produsentens eller importørens eller mellomliggende salgsledds navn og adresse i en stat som nevnt i første ledd, ikke oppgis innen rimelig tid.
+
+## § 2.
+
+Denne forskriften trer i kraft fra den tid EØS-avtalen trer i kraft for Norge.

@@ -1,0 +1,38 @@
+---
+id: "sf-20250402-0577"
+slug: "endr-i-blåreseptforskriften"
+type: "forskrift"
+ref_id: "forskrift/2025-04-02-577"
+title: "Forskrift om endring i blåreseptforskriften"
+short_title: "Endr. i blåreseptforskriften"
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2025-04-02"
+last_change_in_force: null
+last_updated: null
+xml_hash: "81a875e6ee9dd9de6449baa1ad50ede1c89cc473fa060b2c2d8974840937e2c3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i blåreseptforskriften
+
+## I
+
+Det ytes stønad til næringsmidler som er oppført på produkt- og prislistene dersom næringsmiddelet er rekvirert i samsvar med gjeldende vilkår.
+
+Det ytes stønad ved:begrenset, nedsatt eller forstyrret evne til å innta, fordøye, oppta, omdanne eller utskille vanlige næringsmidler eller enkelte av de næringsstoffene de inneholder, eller deres stoffskifteprodukt. Det er et vilkår at tilfredsstillende ernæringsstatus ikke kan oppnås ved endring av det normale kostholdet alene,andre medisinsk betingede ernæringsmessige behov som ikke kan dekkes ved en endring av det normale kostholdet alene.
+
+Stønad etter denne bestemmelsen må i hvert enkelt tilfelle godkjennes av Helsedirektoratet, eller det organ Helsedirektoratet bestemmer. Dette gjelder ikke stønad ved medfødte stoffskiftesykdommer med defekter i aminosyre-, fettsyre- eller karbohydratomsetningen.
+
+Det ytes ikke stønad til andre produkter enn de som er oppført på gjeldende produkt- og prisliste.
+
+Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, gir nærmere retningslinjer om vilkår for stønad, herunder krav til antallsbegrensning og særskilte rekvireringskrav.
+
+## II
+
+Forskriften trer i kraft straks, med unntak av [§ 6](forskrift/2007-06-28-814/§6) som trer i kraft 1. desember 2025.

@@ -1,0 +1,236 @@
+---
+id: "nl-20050603-034"
+slug: "jernbaneundersøkelsesloven"
+type: "lov"
+ref_id: "lov/2005-06-03-34"
+title: "Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehendelser m.m. (jernbaneundersøkelsesloven)"
+short_title: "Jernbaneundersøkelsesloven"
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2005-06-03"
+last_change_in_force: "2021-06-11"
+last_updated: "2021-08-24"
+xml_hash: "c699ba6c301040838ba8b176decc5fdcdd60e1d5db29f5aade38b1c441a2546b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehendelser m.m. (jernbaneundersøkelsesloven)
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Lovens formål
+
+Lovens formål er gjennom undersøkelse av jernbaneulykker og jernbanehendelser å forbedre sikkerheten og forebygge jernbaneulykker.
+
+### § 2. Lovens saklige virkeområde og unntak
+
+Loven gjelder jernbane, herunder sporvei, tunnelbane, forstadsbane og lignende sporbundne transportmiddel som omfattes av [jernbaneloven](lov/1993-06-11-100).
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke jernbaner som omfattes av loven her, herunder gjøre unntak fra lovens anvendelsesområde for visse typer jernbaner.
+
+### § 3. Undersøkelsesmyndighetens oppgaver og uavhengighet
+
+Undersøkelse av jernbaneulykker og jernbanehendelser skal skje ved den myndighet departementet bestemmer.
+
+Undersøkelsesmyndigheten skal klarlegge hendelsesforløp og årsaksfaktorer, utrede forhold av betydning for å forebygge jernbaneulykker og avgi undersøkelsesrapport som nevnt i [§ 19](lov/2005-06-03-34/§19).
+
+Undersøkelsesmyndigheten skal ikke ta stilling til sivilrettslig eller strafferettslig skyld og ansvar. Undersøkelsen skal foregå uavhengig av annen etterforskning eller undersøkelse som helt eller delvis har slikt formål.
+
+Undersøkelsesmyndigheten skal hvert år offentliggjøre en rapport om de undersøkelser som er gjennomført året før, inkludert sikkerhetstilrådinger og tiltak som er truffet i samsvar med disse.
+
+Departementet kan gi utfyllende forskrifter om undersøkelsesmyndighetens arbeid, herunder om samarbeid og utveksling av opplysninger med andre land og internasjonale organisasjoner i den grad det følger av internasjonale avtaler som Norge har inngått.
+
+### § 4. Tilsynsmyndighetens oppgaver
+
+Tilsynsmyndigheten som nevnt i [jernbaneloven § 11](lov/1993-06-11-100/§11) skal vurdere rapportene som undersøkelsesmyndigheten avgir, med tanke på å identifisere og iverksette tiltak som kan bedre jernbanesikkerheten. Tilsynsmyndigheten kan gi pålegg om oppfølging av sikkerhetstilrådinger til den som driver jernbanevirksomhet etter jernbaneloven.
+
+Departementet kan gi utfyllende forskrifter om tilsynsmyndighetens arbeid etter loven her, herunder om samarbeid og utveksling av opplysninger med andre land og internasjonale organisasjoner i den grad det følger av internasjonale avtaler som Norge har inngått.
+
+### § 5. Definisjoner
+
+I loven her forstås med:Jernbaneulykke: en uønsket eller utilsiktet plutselig begivenhet eller en bestemt rekke slike begivenheter som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på kjørevei, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker.Jernbanehendelse: enhver annen uønsket begivenhet enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på driftssikkerheten.Alvorlig jernbanehendelse: en uønsket begivenhet som under litt andre omstendigheter kunne ha ført til en jernbaneulykke.Jernbanevirksomhet: drift av kjørevei, trafikkstyring og trafikkvirksomhet.
+
+Departementet kan gi forskrifter som presiserer og utfyller definisjonene i første ledd, herunder gi utfyllende bestemmelser om hva som menes med kjørevei, trafikkstyring og trafikkvirksomhet i bokstav d.
+
+## Kapittel II. Varsling av jernbaneulykker og jernbanehendelser mv.
+
+### § 6. Varslingsplikt av jernbaneulykker
+
+Ansatte i jernbanevirksomhet som blir involvert i en jernbaneulykke, skal straks varsle nærmeste trafikkstyringsenhet, nærmeste politimyndighet eller Hovedredningssentralen om ulykken. Dette gjelder likevel ikke dersom den ansatte er kjent med at varsel allerede er gitt.
+
+Varslingsplikt etter første ledd har også enhver som blir vitne til jernbaneulykke, dersom vitnet etter omstendighetene ikke har grunn til å anta at slik varsling er unødvendig.
+
+Når nærmeste trafikkstyringsenhet, nærmeste politimyndighet eller Hovedredningssentralen mottar varsel om en jernbaneulykke, skal vedkommende instans straks varsle de andre instansene som er nevnt, samt gi varsel til undersøkelsesmyndigheten og tilsynsmyndigheten. Dette gjelder likevel ikke dersom instansen er kjent med at varsel allerede er gitt.
+
+Departementet kan gi nærmere forskrifter om varslingsplikt etter første ledd og videreformidling av varsel etter tredje ledd.
+
+### § 7. Varslingsplikt av alvorlige jernbanehendelser
+
+Inntreffer det en alvorlig jernbanehendelse, skal den som driver jernbanevirksomhet straks varsle undersøkelsesmyndigheten om hendelsen. Undersøkelsesmyndigheten varsler tilsynsmyndigheten.
+
+Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt varslingsplikt etter første ledd:den som utfører trafikkstyring,den som fremfører rullende materiell,den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor, ogden som utfører vedlikehold av rullende materiell eller kjørevei.
+
+Departementet kan gi nærmere forskrifter om varslingsplikt og videreformidling av varsel etter denne paragrafen.
+
+## Kapittel III. Rapportering og innsamling av opplysninger om jernbaneulykker og jernbanehendelser mv.
+
+### § 8. Rapportering av opplysninger
+
+Den som driver jernbanevirksomhet plikter å rapportere opplysninger om jernbaneulykker og jernbanehendelser til undersøkelsesmyndigheten og tilsynsmyndigheten.
+
+Departementet kan i forskrifter bestemme at også følgende personer skal ha en særskilt rapporteringsplikt etter første ledd:den som utfører trafikkstyring,den som fremfører rullende materiell,den som utfører eller leder skifting på eller ved stasjon eller innen et sidespors område,den som utfører trafikksikkerhetsoppgaver om bord i tog, herunder beredskapsoppgaver,den som har sikkerhetsansvar ved arbeid og aktivitet i og ved spor,den som utfører vedlikehold av rullende materiell eller kjørevei, og andre som har befatning med jernbanevirksomhet, herunder produsent av jernbanemateriell.
+
+Departementet kan i forskrift gi nærmere bestemmelser om rapporteringsplikten etter første og annet ledd, herunder hvilke opplysninger som skal rapporteres, hvilke myndigheter det skal rapporteres til og måten det skal skje på.
+
+### § 8 a. Taushetsplikt
+
+Enhver som utfører tjeneste eller arbeid for den som driver jernbanevirksomhet, har taushetsplikt etter [forvaltningsloven](lov/1967-02-10) om det de får kjennskap til i forbindelse med undersøkelser og rapportering av ulykker og hendelser etter loven her.
+
+Personer som nevnt i første ledd, har i tillegg taushetsplikt om alle opplysninger som er innrapportert i medhold av [§ 8](lov/2005-06-03-34/§8) og om opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter [§ 14](lov/2005-06-03-34/§14). Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre eller opplysningene er nødvendige for å forklare årsaken til en jernbaneulykke eller jernbanehendelse.
+
+Taushetsplikt som nevnt i annet ledd, er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker forutsatt at opplysningene har statistisk form eller de er alminnelig tilgjengelig andre steder.
+
+> Tilføyd ved [lov 16 des 2016 nr. 102](lov/2016-12-16-102) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1589](forskrift/2016-12-16-1589)).
+
+### § 9. Bruk av data fra systemer som registrerer lyd og bilde
+
+Undersøkelsesmyndigheten skal ha tilgang til data fra ethvert system for vedvarende eller regelmessig registrering av lyd og bilde fra førerrom i tog, men har ikke anledning til å utlevere slikt materiale til andre. Utskrift av registrert lyd eller kopi av bilder kan likevel utleveres til bruk som bevis i en straffesak eller sivil sak for domstolene etter rettens kjennelse. Retten kan bare godkjenne utlevering etter annet punktum dersom behovet for utlevering i den konkrete saken veier tyngre enn faren for at man ved slik utlevering vanskeliggjør undersøkelsesmyndighetens arbeid med den aktuelle saken eller fremtidige nasjonale eller internasjonale undersøkelser.
+
+Departementet kan ved forskrift bestemme hvilke registreringssystemer for lyd og bilde som omfattes av første ledd.
+
+## Kapittel IV. Undersøkelse av ulykker og hendelser mv.
+
+### § 10. Undersøkelsesplikt
+
+Undersøkelsesmyndigheten skal undersøke jernbaneulykker og alvorlige jernbanehendelser.
+
+Departementet kan i forskrift fastsette at undersøkelsesmyndigheten skal undersøke andre jernbanehendelser enn de som er nevnt i første ledd.
+
+### § 11. Iverksetting av undersøkelse og undersøkelsens omfang
+
+Når undersøkelsesmyndigheten har mottatt varsel om jernbaneulykke etter [§ 6](lov/2005-06-03-34/§6) eller om alvorlig jernbanehendelse etter [§ 7](lov/2005-06-03-34/§7), skal den straks avgjøre om det er behov for å iverksette umiddelbar undersøkelse. Når undersøkelsesmyndigheten mottar rapport etter [§ 8](lov/2005-06-03-34/§8) skal den uten ugrunnet opphold avgjøre om og når det skal iverksettes undersøkelse.
+
+Undersøkelsesmyndigheten avgjør selv omfanget av undersøkelsen og hvordan den skal gjennomføres. Ved avgjørelsen skal undersøkelsesmyndigheten blant annet ta hensyn til hvilken lærdom undersøkelsen forventes å gi med tanke på å forbedre sikkerheten, ulykken eller hendelsens alvorlighetsgrad, dens innvirkning på jernbanesikkerheten generelt og om den inngår i en serie av ulykker eller hendelser.
+
+Undersøkelsesmyndigheten kan uten hensyn til tidligere avgjørelser beslutte å undersøke forhold ved en eller flere jernbaneulykker eller jernbanehendelser.
+
+Departementet kan gi utfyllende forskrifter om undersøkelsesmyndighetens oppgaver og kompetanse etter paragrafen her.
+
+### § 12. Forbud mot å fjerne vrakrester mv. samt behov for å gjenopprette trafikken
+
+Jernbanemateriell og kjørevei som er skadet i jernbaneulykke, vrakrester eller andre ting fra slikt materiell og spor etter ulykken må ikke fjernes eller røres uten samtykke fra undersøkelsesmyndigheten og politiet, med mindre det er nødvendig for å redde eller avverge fare for liv eller eiendom eller for å hindre at noe som kan ha betydning for undersøkelsen, ødelegges eller forsvinner.
+
+Undersøkelsesmyndigheten skal avslutte sine undersøkelser på ulykkesstedet så snart som mulig slik at den som driver kjøreveien kan bli i stand til å gjenopprette trafikken.
+
+### § 13. Tiltak for å fremskaffe opplysninger
+
+Undersøkelsesmyndigheten har rett til å benytte privat grunn og kan kreve å få undersøke og ta i besittelse jernbanemateriell og kjørevei, vrakrester, dokumenter og andre ting i den utstrekning den trenger det for å kunne utøve sitt verv. Herunder skal undersøkelsesmyndigheten ha rett tilå kreve en fullstendig obduksjon av de omkomne og til å få umiddelbar adgang til resultatene av slike undersøkelser eller tester av prøver som er tatt, ogå be om legeundersøkelse av alle personer involvert i ulykken eller hendelsen eller be om at det utføres tester på prøver som er tatt av slike personer, og ha umiddelbar tilgang til resultatet av slike undersøkelser eller tester.
+
+Om nødvendig kan undersøkelsesmyndigheten kreve hjelp av politiet.
+
+> Endret ved lov [11 juni 2021 nr. 87](lov/2021-06-11-87) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1871](forskrift/2021-06-11-1871)).
+
+### § 14. Forklaringsplikt til undersøkelsesmyndigheten mv.
+
+Enhver plikter på forlangende, og uten hensyn til taushetsplikt, å gi undersøkelsesmyndigheten de opplysninger han eller hun sitter inne med om forhold som kan være av betydning for undersøkelsen. Enhver som forklarer seg har rett til å la seg bistå av advokat eller annen person under forklaringen.
+
+### § 15. Bevissikring
+
+Undersøkelsesmyndigheten kan kreve bevissikring utenfor rettssak etter reglene i [tvisteloven § 28-3](lov/2005-06-17-90/§28-3) tredje ledd og [§ 28-4](lov/2005-06-17-90/§28-4). Krav om bevissikring fremmes for den tingrett hvor de som skal avhøres, bor eller oppholder seg eller realbevis skal undersøkes.
+
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+### § 16. Rettigheter for dem saken angår
+
+Når undersøkelsesmyndigheten iverksetter undersøkelse, skal den så vidt mulig underrette den som driver den aktuelle jernbanevirksomhet, ofrene og deres familie, eiere av skadede ting, produsenter, berørte beredskapstjenester, representanter for personalet og for brukerne, samt andre som saken angår, om dette. Slik underretning skal gis så snart som mulig, og skal opplyse om rettighetene etter annet ledd i paragrafen her og etter [§ 20](lov/2005-06-03-34/§20) første ledd.
+
+Innen undersøkelsene avsluttes, skal de som er nevnt i første ledd gis adgang til å fremkomme med opplysninger og synspunkter om jernbaneulykken eller jernbanehendelsen og dens årsaksfaktorer. De skal også underrettes jevnlig om fremdriften av undersøkelsen og gis adgang til å fremkomme med sine synspunkter på undersøkelsen i den grad det er praktisk mulig. Videre bør de også gis adgang til å være til stede under undersøkelsen og ha rett til å gjøre seg kjent med dokumentene, i den utstrekning undersøkelsesmyndigheten finner at dette kan skje uten hinder for undersøkelsen. Tredje punktum gjelder med de begrensninger som følger av taushetsplikten, jf. [§ 17](lov/2005-06-03-34/§17).
+
+Departementet kan gi utfyllende forskrifter til paragrafen her.
+
+### § 17. Taushetsplikt
+
+Enhver som utfører tjeneste eller arbeid for undersøkelsesmyndigheten har taushetsplikt etter [forvaltningsloven](lov/1967-02-10) om det som de får kjennskap til under utførelsen av sitt arbeid. [Forvaltningsloven § 13b](lov/1967-02-10/§13b) første ledd nr. 6 gjelder likevel ikke.
+
+Når personer som nevnt i første ledd mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av [forvaltningsloven](lov/1967-02-10), skal tilsvarende strenge taushetsplikt gjelde, med mindre tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre eller opplysningene er nødvendige for å forklare årsaken til jernbaneulykken eller jernbanehendelsen.
+
+Personer som nevnt i første ledd har i tillegg taushetsplikt om alle opplysninger som er innrapportert i medhold av [§ 8](lov/2005-06-03-34/§8), og opplysninger som er fremkommet under forklaring for undersøkelsesmyndigheten etter [§ 14](lov/2005-06-03-34/§14). Dette gjelder ikke dersom tungtveiende offentlige hensyn tilsier at opplysningene bør kunne gis videre eller opplysningene er nødvendige for å forklare årsaken til en jernbaneulykke eller jernbanehendelse.
+
+Taushetsplikt som nevnt i annet og tredje ledd er ikke til hinder for at opplysningene bringes videre i den grad den som har krav på taushet samtykker, dersom opplysningene har statistisk form, eller dersom de er alminnelig tilgjengelig andre steder.
+
+Opplysninger som er taushetsbelagt etter tredje ledd kan gis videre til utenlandske og internasjonale myndigheter og organisasjoner når dette følger av internasjonale avtaler som Norge har inngått.
+
+### § 18. Informasjon til tilsynsmyndigheten
+
+Undersøkelsesmyndigheten skal fortløpende holde tilsynsmyndigheten underrettet om forhold som avdekkes i løpet av undersøkelsen, og sine egne foreløpige vurderinger av disse, i den grad dette anses nødvendig for jernbanesikkerheten.
+
+### § 19. Undersøkelsesrapport
+
+Når undersøkelsesmyndigheten har undersøkt en jernbaneulykke eller alvorlige jernbanehendelser, skal den utarbeide en rapport som redegjør for hendelsesforløpet og inneholder undersøkelsesmyndighetens uttalelse om årsaksforholdene. Rapporten skal opplyse om formålet med undersøkelsen, jf. [§ 1](lov/2005-06-03-34/§1). Rapporten skal også så langt det er formålstjenlig, inneholde undersøkelsesmyndighetens eventuelle tilrådinger om tiltak som bør treffes eller vurderes med henblikk på å hindre lignende ulykker eller alvorlige hendelser i fremtiden.
+
+Rapporten skal ikke inneholde referanser til enkeltpersoners navn eller adresse.
+
+Undersøkelsesmyndighetens avgjørelse etter denne paragrafen kan ikke påklages.
+
+### § 20. Behandling av utkast til undersøkelsesrapport
+
+Før undersøkelsesmyndigheten sluttbehandler rapporten, skal et utkast til rapport etter anmodning forelegges for personer som nevnt i [§ 16](lov/2005-06-03-34/§16) første ledd, med en rimelig frist for vedkommende til å gi uttalelse, med mindre særlige forhold tilsier at dette ikke gjøres. Statens jernbanetilsyn skal forelegges utkastet til rapport, med rimelig frist til å uttale seg. Retten etter første punktum gjelder bare de delene av utkastet til rapport som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om.
+
+Undersøkelsesmyndighetens avgjørelse etter denne paragrafen kan ikke påklages.
+
+### § 21. Unntatt dokumentoffentlighet for utkast til undersøkelsesrapport
+
+Undersøkelsesmyndighetens utkast til rapport er ikke offentlig.
+
+### § 22. Forbud mot bruk som bevis i straffesak
+
+Opplysninger undersøkelsesmyndigheten mottar i medhold av [§§ 8](lov/2005-06-03-34/§8) eller [14](lov/2005-06-03-34/§14) kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.
+
+## Kapittel V. Tilsynsmyndighetens bruk av opplysninger mv.
+
+### § 23. Taushetsplikt
+
+Enhver som utfører tjeneste eller arbeid for tilsynsmyndigheten har taushetsplikt etter reglene i [§ 17](lov/2005-06-03-34/§17) så langt de passer.
+
+### § 24. Forbud mot bruk som bevis i straffesak
+
+Opplysninger tilsynsmyndigheten mottar i medhold av [§§ 8](lov/2005-06-03-34/§8) og [18](lov/2005-06-03-34/§18) kan ikke brukes som bevis i en senere straffesak mot den som har gitt opplysningene.
+
+## Kapittel VI. Forbud mot sanksjoner fra arbeidsgiver
+
+### § 25. Forbud mot sanksjoner fra arbeidsgiver
+
+En arbeidstaker som avgir rapport etter [§ 8](lov/2005-06-03-34/§8) eller forklaring etter [§ 14](lov/2005-06-03-34/§14) skal ikke som følge av dette utsettes for noen form for sanksjoner fra arbeidsgiverens side. Første punktum gjelder ikke tiltak som arbeidsgiveren iverksetter med hovedformål å forbedre arbeidstakerens kvalifikasjoner.
+
+Første ledd gjelder ikke dersom de mottatte opplysningene viser at arbeidstakeren ikke oppfyller helsemessige krav til å inneha sin stilling, eller at arbeidstakeren selv har opptrådt grovt uaktsomt i forbindelse med den rapporterte ulykken eller hendelsen. Første ledd gjelder heller ikke omstendigheter knyttet til arbeidstakeren eller dennes handlinger og unnlatelser som er blitt kjent på annen måte enn gjennom arbeidstakerens rapportering eller forklaring som nevnt i første ledd.
+
+## Kapittel VII. Fjerning av vrakrester utenfor kjøreveien
+
+### § 26. Fjerning av vrakrester utenfor kjøreveien mv.
+
+Dersom jernbanemateriell eller deler av kjørevei er havnet utenfor kjøreveien, eller vrakrester eller andre ting fra slikt materiell er til hinder for den alminnelige ferdsel eller på annen måte til fare eller ulempe, kan politiet sette en frist for at eieren, eller brukeren, skal rette forholdet. Oversittes fristen, kan politiet iverksette nødvendige tiltak på eierens eller brukerens bekostning. Dersom det av hensyn til ferdselen eller av annen grunn er nødvendig å gjøre noe straks, kan politiet sette i verk tiltak som nevnt uten at det gis noen frist.
+
+## Kapittel VIII. Avsluttende bestemmelser
+
+### § 27. Straff
+
+Den som uaktsomt eller forsettlig overtrer bestemmelser gitt i eller i medhold av [§§ 6](lov/2005-06-03-34/§6), [7](lov/2005-06-03-34/§7), [8](lov/2005-06-03-34/§8), [12](lov/2005-06-03-34/§12) første ledd, [14](lov/2005-06-03-34/§14), [17](lov/2005-06-03-34/§17), [23](lov/2005-06-03-34/§23), [25](lov/2005-06-03-34/§25) og [26](lov/2005-06-03-34/§26) i loven, straffes med bøter dersom forholdet ikke går inn under strengere straffebestemmelse.
+
+> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 28. Endringer i andre lover
+
+I [lov 11. juni 1993 nr. 100](lov/1993-06-11-100) om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) gjøres følgende endringer: – – –
+
+### § 29. Ikrafttredelse
+
+Loven trer i kraft straks.
+
+### § 30. Overgangsordning
+
+Forskrifter fastsatt med hjemmel i [jernbaneloven kapittel V](lov/1993-06-11-100/kapv) gjelder også etter at loven her har trådt i kraft.

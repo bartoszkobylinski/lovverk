@@ -1,0 +1,55 @@
+---
+id: "sf-20240314-0434"
+slug: "forskrift-om-beskyttelse-av-småmat-som-betegnelse-for-tradisjonelt-særpreg"
+type: "forskrift"
+ref_id: "forskrift/2024-03-14-434"
+title: "Forskrift om beskyttelse av Småmat som betegnelse for tradisjonelt særpreg"
+short_title: null
+language: "nb"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2024-03-14"
+last_change_in_force: null
+last_updated: null
+xml_hash: "81708a33e7726ccd3965e686a81e1d379158e8301cdcccc9b6372ee4bcd26cc9"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om beskyttelse av Småmat som betegnelse for tradisjonelt særpreg
+
+## § 1. Beskyttet produktbetegnelse
+
+Småmat.
+
+Produktnavnet Småmat er forbeholdt næringsmidler som oppfyller vilkårene i denne forskriften.
+
+## § 2. Produksjonsmetode
+
+1. *Produktbeskrivelse*Småmat er en tradisjonell matrett fra Hallingdal bestående av klar kjøttkraft og små jevnstore biter av kjøtt, potet og ulike grønnsaker.
+2. *Råvarer og produksjon*Kraft skal kokes på salte urøkte spekeknoker av svin og får og ferskt kjøtt av storfe og salt. Kraftbein, ferskt kjøtt av svin og sau og spekeskinke kan også brukes. Kraften skal trekkes lenge for å få rik smak. Underveis skummer man av toppen av kraften for å få en klarest mulig kraft.Kjøttet skal kokes sammen med kraften til det er gjennomkokt. I Småmat skal det brukes mest storfekjøtt, i tillegg kan kjøtt av svin og sau benyttes.Poteter og grønnsaker skal kokes hver for seg og skal ha tyggemotstand. Grønnsaker som gulrot, gule erter, kålrot, selleri og purre kan brukes.Alle ingredienser skal kuttes i terninger med en størrelse på ca. 1x1 cm. Småmat skal inneholde 40–60 % kraft, 10–30 % kjøtt, 20–40 % poteter og resten grønnsaker.
+
+## § 3. Merking
+
+Produkter som tilfredsstiller kravene i denne forskriften, kan bruke produktnavnet Småmat og logoen og bokstavbetegnelsen for Beskyttet tradisjonelt særpreg.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+## Vedlegg: Næringsmidlets tradisjonelle karakter
+
+Småmat har lange tradisjoner i Hallingdal. Det er litt usikkert hvor gammel denne retten er og hvor lenge navnet har vært brukt, men man har funnet dokumentasjon på navnebruken tilbake til første halvdel av 1800-tallet.
+
+Småmaten var og er festmat i Hallingdal og er fremdeles vanlig i bryllup og begravelser. Småmat brukes ikke til forrett, den har alltid blitt brukt som hovedrett og serveres gjerne med lefsekling.
+
+I Småmat ble det tradisjonelt brukt råvarer som man hadde tilgjengelig, slik som saltet og tørket kjøtt av svin og får, ferskt kjøtt av storfe, sau og svin, erter, potet og gulrot. Ingredienser som kålrot, selleri og purre er også en del av tradisjonen.
+
+Alle ingredienser kokes i henhold til tradisjonen hver for seg og alle bitene kuttes like store. Fra gammelt av ble bitene kuttet for hånd, men i dag foregår kutting som oftest på maskin.
+
+Kraften trekkes på rikelig av spekeknoker og eventuelt kraftbein, samt kjøttet som brukes i småmaten. Det tilsettes salt og kraften trekkes over lang tid til den får en rik smak. Underveis skummer man av toppen av kraften for å få en klarest mulig kraft.
+
+Småmat er kjennetegnet av en klar kjøttkraft med kjøtt og grønnsaker kuttet i små og like store biter. Ferdig Småmat skal være pen å se på. Den skal lukte svakt av spekekjøtt, smake rikelig av spekekjøtt og et hint av grønnsaker.

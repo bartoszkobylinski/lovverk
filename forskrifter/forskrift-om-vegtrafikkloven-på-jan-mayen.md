@@ -1,0 +1,78 @@
+---
+id: "sf-19931110-1019"
+slug: "forskrift-om-vegtrafikkloven-på-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/1993-11-10-1019"
+title: "Forskrift om vegtrafikkloven med forskrifters gyldighet på Jan Mayen."
+short_title: "Forskrift om vegtrafikkloven på Jan Mayen"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "1994-01-01"
+last_change_in_force: "2002-07-01"
+last_updated: null
+xml_hash: "0335f5b59f793c6d1fdadfad39afc25740f13c582bcf99acac3b4bb324c9079e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om vegtrafikkloven med forskrifters gyldighet på Jan Mayen.
+
+## I
+
+For Jan Mayen fastsettes følgende endringer i vegtrafikkloven og i forskrifter gitt i medhold av loven:
+
+Forskrift med hjemmel i første ledd om konkurransekjøring på veg åpen for alminnelig ferdsel gjelder ikke. Forskrift med hjemmel i første ledd om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
+
+I stedet for annet ledd gjelder:
+
+Departementet, politimesteren i Bodø eller den han gir myndighet, kan gi særlige trafikkbestemmelser for Jan Mayen.
+
+I tillegg til tredje ledd gjelder:
+
+Utgift til offentlig trafikkskilt kan kreves dekket av den som er ansvarlig for vegstrekningen.
+
+Tredje til sjette ledd gjelder ikke.
+
+Gjelder ikke.
+
+Forskrift med hjemmel i paragrafen om godkjenning og registrering av utrykningskjøretøy gjelder ikke. Forskrift med hjemmel i § 11 om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
+
+Annet til fjerde ledd gjelder ikke.
+
+Gjelder ikke.
+
+Første ledd gjelder ikke.
+
+Gjelder ikke.
+
+Annet ledd gjelder ikke.
+
+Annet til niende ledd gjelder ikke.
+
+Gjelder ikke.
+
+Femte ledd gjelder ikke.
+
+Annet ledd gjelder ikke.
+
+Gjelder ikke.
+
+> Endret ved [forskrift 19 des 2001 nr. 1505](forskrift/2001-12-19-1505) (i kraft 1 juli 2002).
+
+## II
+
+Myndighet som i vegtrafikkloven eller forskrift gitt i medhold av loven, er tillagt annen myndighet enn Kongen, departementet, eller – ved delegering – Vegdirektoratet, tilligger politimesteren i Bodø eller den han gir myndighet.
+
+Politimesteren i Bodø eller den han gir myndighet, kan fastsette generelle unntak eller unntak i enkelttilfeller fra det som er fastsatt i denne forskrift, når det er ønskelig av hensyn til de stedlige forhold.
+
+Generelle unntak innberettes til Vegdirektoratet.
+
+## III
+
+Denne forskrift trer i kraft 1. januar 1994.
+
+Samtidig oppheves bestemmelser av 14. april 1967 om vegtrafikklovgivningens gyldighet for Svalbard og Jan Mayen §§ 3 og 4.

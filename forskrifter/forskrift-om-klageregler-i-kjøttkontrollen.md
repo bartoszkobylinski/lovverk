@@ -1,0 +1,34 @@
+---
+id: "sf-20040116-0094"
+slug: "forskrift-om-klageregler-i-kjøttkontrollen"
+type: "forskrift"
+ref_id: "forskrift/2004-01-16-94"
+title: "Forskrift om særskilte klageregler innen kjøttkontrollen mv."
+short_title: "Forskrift om klageregler i kjøttkontrollen"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2004-01-16"
+last_change_in_force: null
+last_updated: null
+xml_hash: "99d3cc2db4182c5ed0542bb499eec4b51ef7baa21ed197b81f3d1413931fee0f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om særskilte klageregler innen kjøttkontrollen mv.
+
+## § 1. Virkeområde
+
+Denne forskrift gjelder klage på vedtak fattet som ledd i kjøttkontroll etter [lov av 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. og forskrifter i medhold av denne.
+
+## § 2. Klagefrist
+
+Klage på vedtak om kjøttkontroll må fremmes til tilsynsveterinæren uten unødig opphold og senest 24 timer etter at klager er gjort kjent med vedtaket.
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft straks.

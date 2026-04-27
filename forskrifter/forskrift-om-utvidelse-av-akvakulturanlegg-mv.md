@@ -1,0 +1,122 @@
+---
+id: "sf-20080617-0823"
+slug: "forskrift-om-utvidelse-av-akvakulturanlegg-mv"
+type: "forskrift"
+ref_id: "forskrift/2008-06-17-823"
+title: "Forskrift om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m."
+short_title: "Forskrift om utvidelse av akvakulturanlegg mv"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2008-08-01"
+last_change_in_force: "2022-07-01"
+last_updated: "2022-04-29"
+xml_hash: "5b254ec4844df2d6e3eef685d28c63d634752a60bcc0cc70610c402dcfc39316"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om etablering og utvidelse av akvakulturanlegg, zoobutikker m.m.
+
+## § 1. Formål
+
+Formål med denne forskriften er å fremme god helse hos akvatiske dyr og ivareta god velferd hos fisk og tifotkreps.
+
+## § 2. Virkeområde
+
+Forskriften omfatter velferdsmessige krav for fisk og tifotkreps i akvakulturanlegg, unntatt zoobutikker, hagedammer, kommersielle akvarier og grossister med akvariedyr, og gjelder da for norsk landterritorium og territorialfarvann, norske luft- og sjøfartøyer, på innretninger på norsk kontinentalsokkel, Svalbard, Jan Mayen, bilandene og i Norges økonomiske sone.
+
+Forskriften omfatter dyrehelsemessige krav for akvakulturanlegg og havbeite for Svalbard.
+
+Forskriften omfatter dyrehelsemessige krav for havbeite på norsk landterritorium og territorialfarvann, i Norges økonomiske sone, for Svalbard, Jan Mayen, bilandene, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard.
+
+Forskriften omfatter ikke restitusjons- og mellomlagringsmerder ved levendelagring av villfanget fisk.
+
+Forskriften retter seg mot enhver som planlegger drift eller driver akvakulturanlegg eller havbeite, som skal registrere eller søke om godkjenning av etablering, utvidelse eller annen vesentlig endring av akvakulturanlegg eller havbeite.
+
+> Endret ved forskrifter [15 des 2014 nr. 1831](forskrift/2014-12-15-1831) (i kraft 1 jan 2015), [19 april 2018 nr. 674](forskrift/2018-04-19-674), [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022), [1 juli 2022 nr. 1300](forskrift/2022-07-01-1300).
+
+## § 3. Definisjoner
+
+I forskriften forstås med:*Akvakulturanlegg:* Enhver lokalitet, fysisk avgrenset område eller installasjon som drives av et akvakulturforetak der akvakulturdyr oppdrettes, med unntak av de lokaliteter, områder eller installasjoner der ville akvatiske dyr høstet eller fanget med tanke på konsum, holdes midlertidig uten å fôres i påvente av å bli slaktet. Med akvakulturforetak menes her ethvert privat eller offentlig foretak, ideelt eller ikke, som utøver en hvilken som helst virksomhet i forbindelse med oppdrett, hold eller dyrking av akvakulturdyr.*Akvakulturdyr:* Alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg.(Opphevet)*Akvariedyr:* Alle akvatiske dyr som holdes, oppdrettes eller omsettes utelukkende for prydformål.*Akvatiske dyr:*kjeveløse fisk (urfisk) som tilhører overklassen *Agnatha*, bruskfisk og beinfisk som tilhører klassene *Chondrichthyes* og *Osteichthyes*bløtdyr som tilhører rekken *Mollusca*krepsdyr som tilhører underrekken *Crustacea*.*Biosikkerhetssystem:* Gjeldende tiltak for å forebygge, overvåke og bekjempe sykdommer hos akvatiske dyr.*Etablering:* Plassering av akvakulturanlegg eller havbeite, på en lokalitet som er geografisk definert.*Havbeite:* Akvakultur av krepsdyr og bløtdyr i form av bunnkultur uten at dyrene holdes i fangenskap.*Installasjon:* Innretninger der akvakulturdyr fôres, behandles eller oppbevares, inkludert fortøyninger. En installasjon kan bestå av flere produksjonsenheter.*Installasjon for fritidsfiske:* Dammer eller andre installasjoner der populasjonen opprettholdes kun med tanke på fritidsfiske ved utsett av akvakulturdyr.*Vassdrag:* Alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste flomvannstand, inkludert hoved- og sidevassdrag med tilhørende nedslagsfelt.
+
+> Endret ved forskrift [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 4. Krav om melding og registrering
+
+Den som innehar eller ønsker å etablere:akvakulturanlegg hvor akvatiske dyr kun holdes uten at de skal omsettes,akvakulturanlegg eller havbeite som kun omsetter små mengder akvakulturdyr, eller akvatiske dyr fra havbeite, for konsum til sluttforbruker eller lokal detaljist som omsetter direkte til sluttforbrukerinstallasjon for midlertidig oppbevaring av rensefiskskal gi melding om dette til Mattilsynet.
+
+Meldingen skal minimum inneholde opplysninger om hvem som er ansvarlig, geografisk plassering, inntaksvann og avløpsvann, eventuell behandling av avløpsvann, samt opplysninger om art, antallet akvatiske dyr, størrelse på akvakulturanlegget eller havbeitet, mengde som eventuelt omsettes til humant konsum og til hvem. Endringer i disse opplysninger skal også meldes til Mattilsynet.
+
+Akvakulturanlegget eller havbeitet som nevnt i første ledd, kan bli pålagt å gjennomføre smitteforbyggende tiltak for å hindre spredning av smittsom sykdom, dersom akvakulturanlegget eller havbeitet representerer en uakseptabel smitterisiko på grunn av nærheten til vassdrag eller annen akvakulturrelatert virksomhet. Dersom smitteforebyggende tiltak ikke kan redusere smitterisikoen i tilstrekkelig grad, kan Mattilsynet gi pålegg om at akvakulturanlegget eller havbeitet som nevnt i første ledd må avvikle driften.
+
+Avstanden fra installasjon for midlertidig oppbevaring av rensefisk til andre akvakulturanlegg skal være minst 2,5 kilometer. Ved kortere avstand enn dette, må forhåndsgodkjenning innhentes fra Mattilsynet.
+
+> Endret ved forskrifter [19 april 2018 nr. 674](forskrift/2018-04-19-674), [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 5. Krav om godkjenning
+
+Etablering av akvakulturanlegg og havbeite, utvidelse av produksjonsomfang og annen vesentlig endring av allerede godkjent akvakulturanlegg eller havbeite, skal være godkjent av Mattilsynet. Akvakulturanlegg som produserer og omsetter akvariedyr, omfattes av krav om godkjenning.
+
+> Endret ved forskrift [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 6. Krav til søknad om godkjenning
+
+Søknaden om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis, og hvilke vilkår som eventuelt skal stilles, og skal minst inneholde følgende:Navn på eier av akvakulturanlegget eller havbeitet, adresse, og kontaktopplysninger som e-postadresse, telefonnummer og mobilnummer.Opplysninger om søknaden gjelder nyetablering eller endring av gitt godkjenning.Art og utviklingsstadium, produksjonsform, driftsform og omfang.Kart og koordinatangivelse som beskriver plassering, plantegning over akvakulturanlegget eller havbeitet, og oversikt over eventuelt vanninntak og avløp.Beredskapsplan, herunder plan for smittehygieniske og velferdsmessige tiltak for å hindre og håndtere utbrudd av smittsom sykdom, massedød og andre kritiske situasjoner.Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder risikobasert helsekontroll, opprettholdelse av god vannkvalitet og journalføring, kan etterleves.Dokumentasjon på lokalitetens egnethet til å sikre fisk og tifotkreps en god velferd, herunder data på vannkvalitet, mengde vann og naturgitte forhold av vesentlig betydning for velferden. I landanlegg skal vannmengden dokumenteres gjennom angivelse av den mengde vann som er tilgjengelig i vannkilden, angitt hydraulisk kapasitet sammenholdt med en spesifisert produksjonsplan for anlegget.Bokstav e gjelder ikke for havbeite. Bokstav f gjelder ikke for fangstbasert akvakultur.
+
+Det kan kreves ytterligere opplysninger dersom det er nødvendig for å vurdere om godkjenning kan gis.
+
+> Endret ved forskrifter [15 des 2014 nr. 1831](forskrift/2014-12-15-1831) (i kraft 1 jan 2015), [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 7. Forhold som vurderes ved godkjenning
+
+For at godkjenning skal kunne gis må etableringen av akvakulturanlegget, eller havbeitet, ikke innebære uakseptabel risiko for spredning av smitte, herunder smitte inn til akvakulturanlegget eller havbeitet og dets omkringliggende miljø.
+
+I vurdering av smittefaren skal det legges særlig vekt på avstand til vassdrag, annen akvakulturrelatert virksomhet og til grupper av akvakulturanlegg. Det skal også legges vekt på hvilken art som skal produseres, driftsform og produksjonsomfang.
+
+For akvakulturanlegg i sjø, vurderes avstand til annen akvakulturrelatert virksomhet og vassdrag i hovedsak ut fra plassering av produksjonsenhetene. For akvakulturanlegg på land vurderes avstand til andre akvakulturrelaterte virksomheter og vassdrag i hovedsak ut fra vanninntak og avløp.
+
+Det skal foreligge et internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, herunder beredskapsplan, risikobasert helsekontroll, opprettholdelse av god vannkvalitet og journalføring, kan etterleves.
+
+Akvakulturanlegg og havbeite skal kunne ivareta artens krav til et godt levemiljø. Det skal være sikkerhet for tilstrekkelig tilførsel av vann av egnet kvalitet. Anlegget skal være slik lokalisert og konstruert at risikoen er lav for at akvakulturdyrene påføres skade eller unødig påkjenning. Ved vurdering av velferden skal opplysninger om anleggets utforming og utstyr samt dets plassering på lokaliteten vurderes opp mot produksjonsform og vanndata.
+
+Det kan stilles vilkår til godkjenningen.
+
+> Endret ved forskrift [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 8. Endring og tilbaketrekking av godkjenning
+
+Mattilsynet kan endre eller trekke tilbake godkjenningen som nevnt i [§ 5](forskrift/2008-06-17-823/§5) dersom:Det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt, i eller i medhold av matloven eller dyrevelferdsloven.Det viser seg at sykdomstilstand eller kunnskap om sykdomsmessige eller velferdsmessige forhold er vesentlig endret i forhold til da godkjenning ble gitt.Annen plassering, produksjonsform eller endring av produksjonsomfang kan forbedre helsesituasjonen eller velferden vesentlig i akvakulturanlegget, havbeitet eller det omkringliggende miljø.
+
+> Endret ved forskrifter [6 aug 2010 nr. 1147](forskrift/2010-08-06-1147), [6 april 2022 nr. 629](forskrift/2022-04-06-629) (i kraft 28 april 2022).
+
+## § 9. Omgjøring av produksjonsomfang fra volum til maksimalt tillatt biomasse
+
+Godkjenninger til etablering eller utvidelse av akvakulturanlegg gitt før 1. januar 2005, avgrenset i volum, er etter dette tidspunktet avgrenset i biomasse. Hver 1 m3 godkjent volum utgjør etter dette 65 kg maksimalt tillatt biomasse.
+
+For akvakulturanlegg i sjø med matfisk i Troms og Finnmark godkjent før 1. januar 2005 for inntil 36 000 m3, utgjør 1 m3 etter dette 75 kg maksimalt tillatt biomasse. For akvakulturanlegg med godkjent volum over 36 000 m3, utgjør 1 m3 likevel kun 65 kg maksimalt tillatt biomasse.
+
+## § 10. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften i samsvar med [matloven § 23](lov/2003-12-19-124/§23) og [dyrevelferdsloven § 30](lov/2009-06-19-97/§30).
+
+> Endret ved forskrift [6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
+
+## § 11. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+## § 12. Straff
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28) og [dyrevelferdsloven § 37](lov/2009-06-19-97/§37).
+
+> Endret ved forskrift [6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
+
+## § 13. Ikrafttredelse og overgangsbestemmelser
+
+Forskriften trer i kraft 1. august 2008. Samtidig oppheves [forskrift 16. januar 2004 nr. 279](forskrift/2004-01-16-279) om godkjenning av etablering og utvidelse av akvakulturanlegg og registrering av pryddammer.
+
+Søknad om godkjenning av allerede etablerte zoobutikker, hagesenter, hagedammer, kommersielle akvarier og grossister skal være sendt Mattilsynet innen 1. januar 2009.

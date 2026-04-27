@@ -1,0 +1,60 @@
+---
+id: "sf-20180615-0877"
+slug: "overgangsregler-om-behandling-av-personopplysninger"
+type: "forskrift"
+ref_id: "forskrift/2018-06-15-877"
+title: "Overgangsregler om behandling av personopplysninger"
+short_title: "Overgangsregler om behandling av personopplysninger"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2018-07-20"
+last_change_in_force: "2022-07-01"
+last_updated: null
+xml_hash: "2877d0146047522c5b456858f1b87536b3eb2659c194fab091f68b8248f72582"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Overgangsregler om behandling av personopplysninger
+
+## § 1. Videreføring av personopplysningsloven av 2000 for enkelte områder
+
+[Lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger og [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger fortsetter å gjelde forbehandling av personopplysninger etter straffegjennomføringsloven kapittel 1 A og 1 Bbehandling av personopplysninger i forbindelse med gjennomføring av strafferettslige reaksjoner i konfliktrådene, jf. [konfliktrådsloven § 1](lov/2014-06-20-49/§1) annet ledd
+
+> Endret ved [forskrifter 12 mai 2020 nr. 987](forskrift/2020-05-12-987) (i kraft 1 juli 2020), [10 nov 2020 nr. 2297](forskrift/2020-11-10-2297) (i kraft 1 jan 2021).
+
+## § 2. Vedtak om pålegg og tvangsmulkt
+
+Pålegg vedtatt etter [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger som ikke er etterkommet ved ikrafttredelsen,1 fortsetter å gjelde så langt de ikke strider mot personvernforordningen eller personopplysningsloven.
+
+Tvangsmulkt som løper ved lovens ikrafttreden, opphører å løpe. Datatilsynet kan fastsette tvangsmulkt i medhold av [personopplysningsloven § 29](lov/2018-06-15-38/§29) så langt pålegget fortsetter å gjelde i henhold til første ledd.
+
+## § 3. Opphevelse av konsesjoner og tillatelser
+
+Konsesjoner gitt i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger, [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger og [lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling av helseopplysninger opphører å gjelde med mindre annet er bestemt.
+
+Tillatelser gitt i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger [§ 9](lov/2000-04-14-31/§9) tredje ledd opphører å gjelde med mindre annet er bestemt.
+
+## § 4. (Opphevet)
+
+> Opphevet ved [forskrift 20 mai 2022 nr. 882](forskrift/2022-05-20-882) (i kraft 1 juli 2022).
+
+## § 5. Overgangsregler om rådføringsplikt
+
+Rådføringsplikten etter [personopplysningsloven § 9](lov/2018-06-15-38/§9) annet ledd, [§ 10](lov/2018-06-15-38/§10) og [§ 11](lov/2018-06-15-38/§11) annet ledd gjelder ikke for behandlinger som er gitt konsesjon etter [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger eller [lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling av helseopplysninger, eller som er tilrådd av personvernombud i samsvar med [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger [§ 7-27](forskrift/2000-12-15-1265/§7-27).
+
+## § 6. Adgang til fortsatt behandling av personopplysninger nevnt i personvernforordningen artikkel 9 og 10
+
+Den som har fått tillatelse til behandling av sensitive personopplysninger i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger [§ 9](lov/2000-04-14-31/§9) tredje ledd, kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i tillatelsen så langt den åpner for behandling i forbindelse meddopingkontroll i treningssentregjennomføring av bakgrunnsundersøkelser (Integrity Due Diligence-undersøkelser)elektronisk publisering av rettsavgjørelser.
+
+Følgende behandlingsansvarlige kan behandle personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 i samme utstrekning og på samme vilkår som fastsatt i de angitte konsesjonene:Stiftelsen Antidoping Norge, jf. konsesjoner 4. desember 2017 om chatte-kanal på nett for bruk til spørsmål relatert til doping, 17. november 2015 om ekstern varslingstjeneste og 14. mars 2016 om dopingkontroll innen den organiserte idrettenLotteri- og stiftelsestilsynet, jf. konsesjon 6. juli 2016 om nasjonal plattform for arbeid mot manipulering av idrettskonkurranser
+
+Så fremt tillatelsen gjaldt 24. mai 2018, er det uten betydning for adgangen til behandling etter første og annet ledd at en tillatelse er tidsbegrenset.
+
+Datatilsynet kan gi tillatelse til behandling av personopplysninger som nevnt i personvernforordningen artikkel 9 og 10 for formålene nevnt i første ledd dersom viktige samfunnsinteresser tilsier det og det settes i verk tiltak for å sikre den registrertes interesser.
+
+> Endret ved [forskrift 29 mars 2019 nr. 401](forskrift/2019-03-29-401).

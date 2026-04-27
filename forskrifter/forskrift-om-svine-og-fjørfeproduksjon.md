@@ -1,0 +1,32 @@
+---
+id: "sf-20030411-0461"
+slug: "forskrift-om-svine-og-fjørfeproduksjon"
+type: "forskrift"
+ref_id: "forskrift/2003-04-11-461"
+title: "Forskrift om regulering av svine- og fjørfeproduksjonen."
+short_title: "Forskrift om svine- og fjørfeproduksjon"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2003-04-11"
+last_change_in_force: "2020-02-07"
+last_updated: null
+xml_hash: "697d24acf20f9ae2a00336863ed93d09374150da6b13eac63cafd8eacfd35be3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om regulering av svine- og fjørfeproduksjonen.
+
+## § 1. Konsesjonsgrenser
+
+Grensene for svine- og fjørfehold som kan drives uten departementets tillatelse er 2 100 konsesjonsenheter som fordeler seg slik;maksimalt 280 000 omsatte eller slaktede kyllinger pr. år,maksimalt 60 000 omsatte eller slaktede kalkuner pr. år,maksimalt 7 500 verpehøner på ethvert tidspunkt,maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år,maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 150 utrangerte avlspurker pr. år (faktor 1,4286),produksjon i registrerte foredlingsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 438 utrangerte avlspurker pr. år (faktor 4,1714),produksjon i registrerte formeringsbesetninger med maksimalt 105 avlspurker på ethvert tidspunkt og maksimalt 220 utrangerte avlspurker pr. år (faktor 2,0952), ellersatellitt i purkering med maksimalt 53 avlspurker på ethvert tidspunkt, eller maksimalt 2 100 omsatte eller slaktede slaktegriser pr. år.
+
+For purkeringer kan det innvilges konsesjon for maksimalt 450 avlspurker i navet på ethvert tidspunkt, og maksimalt 1010 utrangerte avlspurker per år (faktor 2,2444).
+
+Ved tildelt konsesjon fastsettes grensen for maksimal utrangering av avlspurker tilsvarende forholdet mellom maksimalt antall avlspurker og utrangerte avlspurker innenfor de ulike produksjonstypene som nevnt i første ledd nr. 5, 6 og 7 og i andre ledd.
+
+> Endret ved [forskrifter 26 mars 2004 nr. 573](forskrift/2004-03-26-573) (i kraft 1 april 2004), [26 april 2013 nr. 420](forskrift/2013-04-26-420), [12 des 2014 nr. 1598](forskrift/2014-12-12-1598) (i kraft 1 jan 2015), [7 feb 2020 nr. 121](forskrift/2020-02-07-121).

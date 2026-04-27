@@ -1,0 +1,238 @@
+---
+id: "sf-20071221-1741"
+slug: "forskrift-om-automatiske-jernbanevekter"
+type: "forskrift"
+ref_id: "forskrift/2007-12-21-1741"
+title: "Forskrift om krav til automatiske jernbanevekter"
+short_title: "Forskrift om automatiske jernbanevekter"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2008-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2020-10-12"
+xml_hash: "89beb3da7ac85172757bc8466bf28849930a4b8f61d12fc1c33116c56f9fedb3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om krav til automatiske jernbanevekter
+
+## Kapittel 1 – Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Forskriften gjelder når det er fastsatt krav til automatiske jernbanevekter i [forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1](forskrift/2007-12-20-1723/§3-1).
+
+Forskriften setter ikke krav til elektromagnetisk stråling som avgis av måleinstrumentet.
+
+> Endret ved [forskrifter 23 okt 2017 nr. 1682](forskrift/2017-10-23-1682), [1 des 2023 nr. 1989](forskrift/2023-12-01-1989) (i kraft 1 jan 2024).
+
+### § 2. Definisjoner
+
+I denne forskriften menes med:*Automatisk jernbanevekt:* En automatisk vekt som har en veieplattform med skinner til transport av jernbanekjøretøy*Automatisk vekt:* Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapet*Målestørrelsen:* Den bestemte størrelsen som skal måles*Påvirkende størrelse:* En størrelse som ikke er målestørrelsen, men som påvirker måleresultatet*Angitte driftsbetingelser:* De verdier av målestørrelsen og påvirkende størrelser som utgjør vektens normale driftsbetingelser*Forstyrrelse:* En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vektens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser*Kritiske endringsverdi:* Den verdien der endringen i måleresultatet anses som uønsket*Klimatiske miljøer:* De omgivelser der vekter kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.
+
+### § 3. Krav til automatiske jernbanevekter under bruk
+
+Automatiske jernbanevekter skal minimum oppfylle de grunnleggende kravene fastsatt i [kapittel 2](forskrift/2007-12-21-1741/kap2). Maksimale tillatte målefeil for automatiske jernbanevekter er angitt i [§ 29](forskrift/2007-12-21-1741/§29).
+
+Automatiske jernbanevekter som er typegodkjent etter tidligere regelverk, skal under bruk oppfylle de kravene som var gjeldende da den automatiske jernbanevekten ble typegodkjent, herunder kravene til målenøyaktighet under bruk.
+
+Automatiske jernbanevekter som ikke er rettmessig samsvarsmerket eller har gyldig typegodkjenning og førstegangsgodkjenning, er ikke tillatt å bruke.
+
+Der innpakning, beholder, opphengsanordning eller lignende som veies sammen med varen påvirker måleresultatet, skal massen av dette (tara) trekkes fra.
+
+> Endret ved [forskrift 19 des 2017 nr. 2287](forskrift/2017-12-19-2287) (i kraft 1 jan 2018).
+
+### § 4. Kontroll og godkjenning ved salg av automatiske jernbanevekter
+
+Automatiske jernbanevekter som selges eller tilbys for salg, skal ha gyldig samsvarsvurdering etter bestemmelsene i forskrift om målenheter og måling kapittel 4.
+
+### § 5. Tilsynet med en automatisk jernbanevekt som brukes
+
+En automatisk jernbanevekt er underlagt et periodisk tilsyn. Tilsynsperioden for en automatisk jernbanevekt er tre år.
+
+Testing av automatiske jernbanevekter forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R106 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.
+
+Automatiske jernbanevekter skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Under testingen må det være tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr, kvalifisert personell og nødvendig kontrollinstrument i nærheten av vekten.
+
+> Endret ved [forskrift 16 des 2013 nr. 1524](forskrift/2013-12-16-1524) (i kraft 1 jan 2014).
+
+## Kapittel 2 – Krav til automatiske jernbanevekter
+
+### Avsnitt I – Generelle krav
+
+### § 6. Måleteknisk beskyttelse og kvalitetsnivå
+
+En automatisk jernbanevekt skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillitt til måleresultatet, og den skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet.
+
+### § 7. Påtenkt bruk og påregnelig feilbruk
+
+Det skal tas hensyn til den automatiske jernbanevektens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene i dette kapitlet.
+
+### § 8. Tillatte feil
+
+Under de angitte driftsbetingelser og i fravær av en forstyrrelse skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i [§ 29](forskrift/2007-12-21-1741/§29).
+
+Med mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.
+
+Under de angitte driftsbetingelser og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.
+
+Dersom den automatiske jernbanevekten er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil.
+
+### § 9. Påvirkende størrelser
+
+Produsenten skal angi det klimatiske og elektromagnetiske miljø som den automatiske jernbanevekten er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II.
+
+### § 10. Klimatisk miljø
+
+Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
+
+> Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
+
+### § 11. Elektromagnetiske miljø
+
+Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.
+
+Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
+
+Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke den automatiske jernbanevektens nøyaktighet i vesentlig grad.
+
+### § 12. Grunnleggende regler for forsøk og bestemmelse av feil
+
+De grunnleggende kravene angitt i [§ 8](forskrift/2007-12-21-1741/§8) skal kontrolleres for hver relevant påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstant ved sine referanseverdier.
+
+Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for måleredskapet når denne påvirkende størrelsen kan antas å opptre.
+
+### § 13. Luftfuktighet
+
+Avhengig av det klimatiske miljø vekten er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).
+
+Testforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig.
+
+### § 14. Reproduserbarhet
+
+Dersom den automatiske jernbanevekten brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil.
+
+### § 15. Repeterbarhet
+
+Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimale tillatte målefeil.
+
+### § 16. Oppløsning og følsomhet
+
+En automatisk jernbanevekt skal være tilstrekkelig følsom, og skal ha tilstrekkelig oppløsning tilpasset måleoppgaven.
+
+### § 17. Holdbarhet
+
+En automatisk jernbanevekt skal være konstruert slik at dens måletekniske egenskaper er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for.
+
+### § 18. Pålitelighet
+
+En automatisk jernbanevekt skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar.
+
+### § 19. Egnethet
+
+En automatisk jernbanevekt skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at måleredskapet er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleredskapet. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom måleredskapet er beregnet til måling av verdier av målestørrelsen som er konstant over tid.
+
+En automatisk jernbanevekt skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.
+
+Dersom en automatisk jernbanevekt har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen, kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene.
+
+### § 20. Beskyttelse mot manipulering
+
+Dersom automatisk jernbanevekten koples til en annen anordning direkte eller ved fjerntilkopling, skal dets måletekniske egenskaper ikke påvirkes av anordningen på en feilaktig måte.
+
+Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.
+
+Programvare som har avgjørende betydning for de måletekniske egenskapene, skal være merket tilsvarende, og skal være sikret. Identifikasjon av slik programvare skal lett framskaffes fra vekten. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.
+
+Måledata, programvare som er av avgjørende betydning for måleegenskapene, og måleteknisk viktige parametere som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.
+
+### § 21. Opplysninger som skal påføres eller følge den automatiske jernbanevekten
+
+En automatisk jernbanevekt skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vekten:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.
+
+Opplysninger om betjening skal følge den automatiske jernbanevekten med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.
+
+Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.
+
+### § 22. Angivelse av måleverdi
+
+Med mindre annet er angitt i avsnitt II, skal minstedelingen for en målt verdi være på formen 1 × 10n , 2 × 10n eller 5 × 10n , hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.
+
+Det skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i forskrift om målenheter og måling.
+
+### § 23. Visning av resultat
+
+Resultatet skal vises på et display eller som papirutskrift.
+
+Alle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.
+
+Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.
+
+### § 24. Ytterligere behandling av data for å avslutte en handelstransaksjon
+
+Den automatiske jernbanevekten skal på en varig måte registrere måleresultatet sammen med opplysninger som identifiserer den bestemte transaksjon, når målingen ikke kan gjentas og vekten normalt er beregnet brukt når den ene parten i transaksjonen er fraværende.
+
+I tillegg skal et varig bevis på måleresultatet og opplysninger for identifikasjon av transaksjonen kunne stilles til rådighet på anmodning idet målingen avsluttes.
+
+### § 25. Samsvarsvurdering
+
+En automatisk jernbanevekt skal være konstruert slik at det lett kan vurderes om det er i samsvar med de relevante kravene i denne forskriften.
+
+### Avsnitt II – Spesifikke krav
+
+### § 26. Angitte driftsbetingelser
+
+Produsenten skal angi nominelle bruksforhold for den automatiske jernbanevekten som følger:For målestørrelsen: Måleområdet i form av største og minste lastFor påvirkende størrelser fra elektrisitetsforsyning:For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenning.For likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenningFor mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For vekter som brukes under spesiell mekanisk belastning, f.eks. vekter som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdeneFor andre påvirkende størrelser i relevant omfang:Arbeidshastighet(er)Egenskaper ved produkt(er) til veiing.
+
+### § 27. Egnethet
+
+Det skal finnes midler til å begrense virkningene av skråstilling, belastning og arbeidshastighet slik at maksimal verdi for maksimal tillatte målefeil ikke overskrides ved normal drift. Det skal finnes egnede anordninger for materialhåndtering og en hensiktsmessig nullstillingsfunksjon slik at den automatiske jernbanevekten kan overholde maksimal tillatte målefeil ved normal drift.
+
+Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøren skal kunne kontrollere at en eventuell indikator er pålitelig. Resultater som faller utenfor måleområdet, skal identifiseres som slike dersom det er mulig med utskrift
+
+### § 28. Nøyaktighetsklasser
+
+Automatiske jernbanevekter inndeles i fire nøyaktighetsklasser. Tabell 3 viser nøyaktighetsklassene og til hvilke type veiing de skal anvendes.
+
+### § 29. Maksimal tillatt feil
+
+Maksimal tillatt feil for dynamisk veiing av én enkelt vogn eller et helt tog er vist i tabell 4 for automatiske jernbanevekter som selges eller tilbys for salg, og tabell 5 for automatiske jernbanevekter under bruk.
+
+Maksimal tillatt feil for dynamisk veiing av koplede eller frakoplede vogner er den høyeste av følgende verdier:verdien beregnet etter tabell 4 og 5, avrundet til nærmeste delingverdien beregnet etter tabell 4 og 5, avrundet til nærmeste deling for en belastning lik 35 % av maksimum vognvekt (som angitt i påskriften)en minstedeling (d).
+
+Maksimal tillatt feil for dynamisk veiing av tog er den høyeste av følgende verdier:verdien beregnet etter tabell 4 og 5, avrundet til nærmeste minstedelingverdien beregnet etter tabell 4 og 5 for vekten av én enkelt vogn lik 35 % av maksimum vognvekt (som angitt i påskriften) multiplisert med antall referansevogner (ikke over 10) i toget og avrundet til nærmeste delingen minstedeling (d) for hver vogn i toget, men ikke over 10 d.
+
+Ved veiing av koplede vogner kan høyest 10 % av de veieresultatene som er oppnådd ved en eller flere passeringer av toget, overstige relevant maksimal tillatt feil gitt i annet ledd, men de skal ikke overstige to ganger maksimal tillatt feil.
+
+> Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
+
+### § 30. Minstedeling (d)
+
+Forholdet mellom nøyaktighetsklassen og minstedelingen skal være som angitt i tabell 6.
+
+### § 31. Måleområder
+
+Minimumskapasiteten skal ikke være under 1 t, og ikke over verdien av resultatet av minste vognvekt dividert med antallet partiellveiinger.
+
+Minste vognvekt skal ikke være under 50 d.
+
+### § 32. Ytelse under påvirkende faktorer og elektromagnetisk forstyrrelse
+
+Maksimal tillatte feil som følge av en påvirkningsfaktor, er som angitt i tabell 7:
+
+Den kritiske endringsverdien som følge av en forstyrrelse, er en minstedeling.
+
+## Kapittel 3 – Avsluttende bestemmelser
+
+### § 33. Overtredelsesgebyr
+
+Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7.
+
+### § 34. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2008.

@@ -1,0 +1,72 @@
+---
+id: "sf-20040527-1087"
+slug: "forskrift-om-bruk-av-det-samiske-flagget"
+type: "forskrift"
+ref_id: "forskrift/2004-05-27-1087"
+title: "Forskrift om bruk av det samiske flagget"
+short_title: "Forskrift om bruk av det samiske flagget"
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2004-05-27"
+last_change_in_force: "2024-03-24"
+last_updated: null
+xml_hash: "94a469b8628ac20f3d1baa46009e0bff529e13f0767747c2ff0429a3926132a3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om bruk av det samiske flagget
+
+## § 1.
+
+Det samiske flagget er felles for samene i Norge, Sverige, Finland og Russland og dermed et felles nasjonalsymbol for hele det samiske folket.
+
+## § 2.
+
+Sametinget i Norge gir ved denne forskrift bindende regler for bruk av det samiske flagget på territoriet som omfattes av staten Norge.
+
+## § 3.
+
+Bruken av det samiske flagget skal gjenspeile den respekt som tilkommer enhver bruk av nasjonale symboler.
+
+## § 4.
+
+Det samiske flagget kan brukes på de fastsatte samiske flaggdagene og ved offisielle samiske anledninger og markeringer. Flagget kan brukes ved andre høytider og festlige anledninger for det samiske folket.
+
+De samiske flaggdagene er:6. februar (Det samiske folkets nasjonaldag),2. mars (Dagen da Sametinget i Finland ble åpnet – 2. mars 1996),25. mars (Marimesse – Maria bebudelsesdag. Tradisjonell samisk merkedag),24. juni (Midtsommersdagen – St. Hansdagen. Tradisjonell samisk merkedag),9. august (FNs internasjonale urfolksdag),15. august (Dagen da det samiske flagget ble godkjent – 15. august 1986),18. august (Dagen da Sameråd ble opprettet – 18. august 1956),26. august (Dagen da Sametinget i Sverige ble åpnet – 26. august 1993),9. oktober (Dagen da Sametinget i Norge ble åpnet – 9. oktober 1989),9. november (Dagen da Sameparlamentet i Finland ble opprettet – 9. november 1973),15. november (Dagen da Isak Saba ble født – 15. november 1875),29. november (Dagen da Elsa Laula Renberg ble født – 29. november 1877).
+
+Flagget kan også brukes ved offisielle norske flaggdager, ved offisielle anledninger og ved høytider og festlige anledninger i Norge, samt når det av forskjellige hensyn er spesielt viktig eller ønskelig.
+
+> Endret ved forskrift [8 des 2023 nr. 2488](forskrift/2023-12-08-2488) (i kraft 24 mars 2024).
+
+## § 5.
+
+Det samiske flagget kan brukes alene eller sammen med det norske statsflagget, det norske handelsflagget, andre nasjoners flagg og andre typer flagg.
+
+## § 6.
+
+Ved bruk av det samiske flagget ved offisielle norske flaggdager og ved offisielle anledninger i Norge, skal det samiske flagget plasseres på plassen til høyre for det norske flagget.
+
+Ved bruk av det samiske flagget sammen med det norske flagget på samiske flaggdager og ved samiske anledninger, skal flaggene plasseres som nevnt i første ledd.
+
+> Endret ved forskrift [8 des 2023 nr. 2488](forskrift/2023-12-08-2488) (i kraft 24 mars 2024).
+
+## § 7.
+
+Flagget heises i tidsrommet mars-oktober kl. 08.00 og hales ved solnedgang, dog ikke senere enn kl. 21.00. I tidsrommet november-februar heises flagget kl. 10.00 og hales kl. 15.00. I områdene sør for Nordland fylke heises flagget kl. 09.00 i tidsrommet november-februar og hales ved solnedgang, dog ikke senere enn kl. 21.00.
+
+## § 8.
+
+Sametinget kan i særlige tilfeller tillate bruk av det samiske flagget på annen måte enn hva som framgår av disse regler.
+
+## § 9.
+
+Alle spørsmål om bruk av det samiske flagget på eller fra offentlige bygninger blir i tvilstilfeller å forelegge for Sametinget for avgjørelse.
+
+## § 10.
+
+Denne forskriften trer straks i kraft.

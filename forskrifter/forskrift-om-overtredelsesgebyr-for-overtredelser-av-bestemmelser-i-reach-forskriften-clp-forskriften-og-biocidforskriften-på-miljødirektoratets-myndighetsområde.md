@@ -1,0 +1,70 @@
+---
+id: "sf-20230929-1568"
+slug: "forskrift-om-overtredelsesgebyr-for-overtredelser-av-bestemmelser-i-reach-forskriften-clp-forskriften-og-biocidforskriften-på-miljødirektoratets-myndighetsområde"
+type: "forskrift"
+ref_id: "forskrift/2023-09-29-1568"
+title: "Forskrift om overtredelsesgebyr for overtredelser av bestemmelser i REACH-forskriften, CLP-forskriften og biocidforskriften på Miljødirektoratets myndighetsområde"
+short_title: null
+language: "nb"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2023-09-29"
+last_change_in_force: null
+last_updated: null
+xml_hash: "e08f3428d28fabca2ac8302017bd94e8e33185d827e3f78f482373bf6171b77a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overtredelsesgebyr for overtredelser av bestemmelser i REACH-forskriften, CLP-forskriften og biocidforskriften på Miljødirektoratets myndighetsområde
+
+## § 1. Formål
+
+Formålet med denne forskriften er å forebygge at produkter, herunder kjemikalier, medfører helseskade og miljøforstyrrelse gjennom en forutsigbar, effektiv og ensartet bruk av overtredelsesgebyr.
+
+## § 2. Virkeområde
+
+Forskriften fastsetter rammene for Miljødirektoratets myndighet til å ilegge overtredelsesgebyr ved overtredelse av følgende forskrifter gitt i medhold av [produktkontrolloven](lov/1976-06-11-79):[forskrift 30. mai 2008 nr. 516 om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften)](forskrift/2008-05-30-516)[forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622)[forskrift 18. april 2017 nr. 480 om biocider (Biocidforskriften)](forskrift/2017-04-18-480).
+
+## § 3a. Overtredelser av REACH-forskriften som kan sanksjoneres med overtredelsesgebyr
+
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:REACH-forordningen artikkel 6, 7 og 22 om registreringsplikt for framstiller, produsent og importør av visse stoffer og stoffer i stoffblandinger, jf. [REACH-forskriften § 1](forskrift/2008-05-30-516/§1)REACH-forordningen artikkel 5 om forbud mot produksjon, import og omsetning av stoffer som ikke er lovlig registrert, jf. [REACH-forskriften § 1](forskrift/2008-05-30-516/§1)REACH-forordningen artikkel 31 om krav til sikkerhetsdatablad, jf. [REACH-forskriften § 1](forskrift/2008-05-30-516/§1)REACH-forordningen artikkel 56 om autorisasjon av visse stoffer før de bringes i omsetning eller tas i bruk, jf. [REACH-forskriften § 1](forskrift/2008-05-30-516/§1)REACH-forordningen artikkel 67 om forbud mot produksjon, omsetning og bruk av stoffer og stoffblandinger i strid med restriksjoner fastsatt i vedlegg XVII til forordningen, jf. [REACH-forskriften § 1](forskrift/2008-05-30-516/§1).
+
+Overtredelsesgebyret kan utmåles etter faste satser som angitt i [§ 6](forskrift/2023-09-29-1568/§6).
+
+## § 3b. Overtredelser av CLP-forskriften som kan sanksjoneres med overtredelsesgebyr
+
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:CLP-forordningen artikkel 4 nr. 4 om krav til merking av farlige stoffer og stoffblandinger, jf. [CLP-forskriften § 1](forskrift/2012-06-16-622/§1)CLP-forordningen artikkel 4. nr. 7 om krav til merking av stoffblandinger som nevnt i vedlegg II del 2, jf. [CLP-forskriften § 1](forskrift/2012-06-16-622/§1)CLP-forordningen artikkel 35 nr. 2 om krav til barnesikker lukking, jf. [CLP-forskriften § 1](forskrift/2012-06-16-622/§1).
+
+Overtredelsesgebyret kan utmåles etter faste satser som angitt i [§ 6](forskrift/2023-09-29-1568/§6).
+
+## § 3c. Overtredelser av biocidforskriften som kan sanksjoneres med overtredelsesgebyr
+
+Miljødirektoratet kan ved overtredelse av følgende bestemmelser ilegge den ansvarlige for overtredelsen et overtredelsesgebyr:biocidforordningen artikkel 17 om bruk eller tilgjengeliggjøring på markedet av biocidprodukter uten godkjenning, jf. [biocidforskriften § 1-1](forskrift/2017-04-18-480/§1-1)biocidforordningen artikkel 69 og [biocidforskriften § 2-1](forskrift/2017-04-18-480/§2-1) om krav til klassifisering, emballering og merking av biocidprodukter, jf. [biocidforskriften § 1-1](forskrift/2017-04-18-480/§1-1)biocidforordningen artikkel 72 om krav til reklame for biocidprodukter, jf. [biocidforskriften § 1-1](forskrift/2017-04-18-480/§1-1).
+
+Overtredelsesgebyret kan utmåles etter faste satser som angitt i [§ 6](forskrift/2023-09-29-1568/§6).
+
+## § 4. Overtredelsesgebyr for foretak
+
+Foretak kan ilegges overtredelsesgebyr dersom overtredelsen ble begått av noen som handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr for overtredelsen.
+
+## § 5. Ileggelse og utmåling av overtredelsesgebyr.
+
+Ved vurderingen av om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, skal det blant annet tas hensyn tillovbruddets grovhet, herunder om lovbruddet har medført risiko for helse eller miljøom den ansvarlige tidligere har begått liknende lovbruddmomentene som nevnt i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd for fysiske personer og [§ 46](lov/1967-02-10/§46) andre ledd for foretak.
+
+Overtredelsesgebyr for foretak skal ikke overstige 15 ganger folketrygdens grunnbeløp. Overtredelsesgebyr for fysiske personer skal ikke overstige 2 ganger folketrygdens grunnbeløp. Grunnbeløpet på overtredelsestidspunktet legges til grunn ved beregningen av overtredelsesgebyrets størrelse.
+
+## § 6. Utmåling etter faste satser
+
+Overtredelsesgebyret kan utmåles etter fast sats på ¼ ganger folketrygdens grunnbeløp slik det lyder på overtredelsestidspunktet ved overtredelse av følgende bestemmelser:[§ 3a](forskrift/2023-09-29-1568/§3a) bokstav c) om krav til sikkerhetsdatablad[§ 3b](forskrift/2023-09-29-1568/§3b) bokstavene a) om krav til merking av farlige stoffer og stoffblandinger og b) om krav til merking av stoffblandinger som nevnt i vedlegg II del 2[§ 3c](forskrift/2023-09-29-1568/§3c) bokstav b) om krav til klassifisering, emballering og merking av biocidprodukter.
+
+Overtredelsesgebyret kan utmåles etter fast sats på ½ ganger folketrygdens grunnbeløp slik det lyder på overtredelsestidspunktet ved overtredelse av følgende bestemmelser:[§ 3b](forskrift/2023-09-29-1568/§3b) bokstav c) om krav til barnesikker lukking.
+
+Ved omfattende, gjentatte eller ved flere overtredelser i samme handling utmåles overtredelsesgebyret etter [§ 5](forskrift/2023-09-29-1568/§5).
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft straks.

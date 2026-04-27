@@ -1,0 +1,36 @@
+---
+id: "sf-20180313-0340"
+slug: "forskrift-om-arbeids-og-velferdsetatens-tilgang-til-opplysninger-fra-innkrevingssentralen-for-bidrag-og-tilbakebetalingskrav"
+type: "forskrift"
+ref_id: "forskrift/2018-03-13-340"
+title: "Forskrift om Arbeids- og velferdsetatens tilgang til opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav"
+short_title: "Forskrift om Arbeids- og velferdsetatens tilgang til opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2018-04-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "d3af824dac13b39a7d13ad5cd3077bd3bf07ebe29408d6279120873fc9844003"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om Arbeids- og velferdsetatens tilgang til opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav
+
+## § 1. Elektronisk tilgang til opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav
+
+Arbeids- og velferdsetaten kan gis elektronisk tilgang til nødvendige opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav om de krav som innkreves på vegne av etaten etter bidragsinnkrevingsloven.
+
+Hvilke opplysninger som er nødvendige, skal fremgå av avtale mellom Arbeids- og velferdsetaten og Skatteetaten. Det samme gjelder hvilke systemer det gis elektronisk tilgang til.
+
+## § 2. Hvem kan gis elektronisk tilgang
+
+Tilgang etter [§ 1](forskrift/2018-03-13-340/§1) kan gis til de som utfører tjeneste eller arbeid for Arbeids- og velferdsetaten, når det foreligger tjenstlig behov for opplysningene.
+
+## § 3. Ikrafttredelse
+
+Forskriften trer i kraft 1. april 2018.

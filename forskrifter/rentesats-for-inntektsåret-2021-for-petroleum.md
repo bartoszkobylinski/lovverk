@@ -1,0 +1,24 @@
+---
+id: "sf-20220119-0083"
+slug: "rentesats-for-inntektsåret-2021-for-petroleum"
+type: "forskrift"
+ref_id: "forskrift/2022-01-19-83"
+title: "Kunngjøring av rentesats for inntektsåret 2021 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum"
+short_title: "Rentesats for inntektsåret 2021 for petroleum"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "88e3bf74084a82cab03382a9df64abf8152d0e785c8ba69c3b80148e389a45b1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Kunngjøring av rentesats for inntektsåret 2021 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum
+
+For inntektsåret 2021 har Finansdepartementet beregnet rentesatsen til bruk ved fremføring av underskudd og overskytende friinntekt etter [petroleumsskatteloven § 3](lov/1975-06-13-35/§3) bokstav c annet ledd første punktum og [§ 5](lov/1975-06-13-35/§5) sjette ledd annet punktum til 0,7 prosent.

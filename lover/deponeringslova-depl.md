@@ -1,0 +1,72 @@
+---
+id: "nl-19390217-002"
+slug: "deponeringslova-depl"
+type: "lov"
+ref_id: "lov/1939-02-17-2"
+title: "Lov om deponering i gjeldshøve [deponeringslova]"
+short_title: "Deponeringslova – depl"
+language: "nn"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1939-03-23"
+last_change_in_force: "1957-07-06"
+last_updated: "2021-09-10"
+xml_hash: "bdce0df6bad03b4af4004f36cdfe27bbbdfc54c414cedee98877f48756d7abfd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om deponering i gjeldshøve [deponeringslova]
+
+## § 1.
+
+Har nokon ei gjeld i pengar eller verdpapir, som han ikkje får oppfylla av ein grunn som ligg hjå kravshavaren, kann han fri seg med å deponera i Noregs bank i samhøve med reglane i denne lov.
+
+Same retten har skyldnaren om kravshavaren ikkje gjer det skyldnaren kann setja til vilkår for å betala, eller det er grunn til å vera i tvil om kven som er kravshavar og skyldnaren ikkje kann klandrast for denne uvissa.
+
+## § 2.
+
+Er det pengar skyldnaren skal svara, deponerar han på den måten at han set pengane inn på folio i banken.
+
+Er ansvaret i verdpapir, deponerar han med å gjeva slike papir utan forsegling eller lås til banken til gøymings. Rente, avdrag og andre summar som forfell på slike papir, tek banken inn og fører på folio som deponera pengar etter denne lov. Gøymingsgebyret som banken fastset, tek han av dei pengane som soleis kjem inn, og elles skal det betalast av den som gjer krav på det som er deponera. Departementet kann gjeva reglar om kva banken elles skal gjera med verdpapira.
+
+## § 3.
+
+Når skyldnaren deponerar, skal han gjeva opp deponeringsgrunnen, kva gjeld det er og om råd er namnet på kravshavaren.
+
+Blir det som er deponera, utreidt til urette mann, for di skyldnaren gav range eller ufullstendige opplysningar, blir han ikkje fri ansvaret sitt. Men kravshavaren kann ikkje krevja meir enn det tapet forsøminga valda.
+
+Skyldnaren skal varsla kravshavaren om at han har deponera, so sant det er råd. Gjer han ikkje det, skal han svara tap dette fører med seg.
+
+## § 4.
+
+Det som er deponera, skal reidast ut til kravshavaren, når han provar retten sin.
+
+Gjer fleire krav på det som er deponera, skal det reidast ut når det er endeleg avgjort i dom eller på annan måte kven som har retten.
+
+## § 5.
+
+Skyldnaren kann ikkje krevja att det som er deponera, utan i det tilfellet som er nemnt i [§ 6](lov/1939-02-17-2/§6), andre leden.
+
+Når den som deponerar, tek atterhald om større rett til å krevja attende, går tilfellet ikkje inn under denne lov.
+
+## § 6.
+
+Retten kravshavaren har til dei verde som er deponera, fell bort tjuge år etter deponeringsdagen.
+
+Innan eitt år etter kann den som deponera, krevja dei att.
+
+Blir det ikkje reist noko slikt krav, går dei inn i statskassa.
+
+## § 7.
+
+Serlege reglar i andre lover om høve for skyldnaren til å fri seg med deponering, held ved å gjelda.
+
+## § 8.
+
+Føresegnene framanfor gjeld på tilsvarande måte når det vert betala utbyte, likvidasjonspart eller anna slikt i selskapshøve.
+
+> Tilføyd ved lov 6 juli 1957 nr. 8.

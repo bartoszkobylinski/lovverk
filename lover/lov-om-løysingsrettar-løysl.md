@@ -1,0 +1,198 @@
+---
+id: "nl-19941209-064"
+slug: "lov-om-løysingsrettar-løysl"
+type: "lov"
+ref_id: "lov/1994-12-09-64"
+title: "Lov om løysingsrettar"
+short_title: "Lov om løysingsrettar – løysl"
+language: "nn"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1995-07-01"
+last_change_in_force: "2018-01-01"
+last_updated: "2021-08-27"
+xml_hash: "577f78331752eabdf7ce1eedcad4f00436edd6fec30c06d165971c62eccad55f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om løysingsrettar
+
+## § 1. Hovudområdet for lova, definisjonar
+
+Lova gjeld løysingsrettar til fast eigedom. Med løysingsrett er meint den rett nokon har til å overta ein fast eigedom seinare, når eigedomen likevel skiftar eigar, eller til eit anna tidspunkt. Ein løysingsrett som berre kan gjerast gjeldande når eigedomen vert avhend eller skiftar eigar på annan måte, er kalla forkjøpsrett. Som fast eigedom vert rekna grunn og bygningar, og elles andre innretninger som er varig forbundne med grunnen.
+
+Lova gjeld òg løysingsrettar til sameigepartar i fast eigedom, til eigarseksjon, til tomtefesterett og til særleg råderett over fast eigedom.
+
+Lova gjeld ikkje løysingsrettar som har heimel i lov, med mindre noko anna er fastsett.
+
+## § 2. Tilhøyrsle
+
+Løysingsrett til fast eigedom gjeld òg tilhøyrsla til eigedomen. Føresegnene i [avhendingslova §§ 3-4](lov/1992-07-03-93/§3-4) til [3-6](lov/1992-07-03-93/§3-6) gjeld tilsvarande.
+
+## § 3. Aksjar og selskapspartar
+
+Løysingsrettar til aksjar eller andre selskapspartar går inn under lova når selskapet har til hovudføremål å eige og styre fast eigedom (eigedomsselskap).
+
+Løysingsrettar som nemnt gjeld òg leigerett, innskot og liknande som er knytt til selskapsparten.
+
+Fyrste og andre ledd gjeld ikkje vedtektsfesta løysingsrettar i burettslag eller løysingsrettar som vert regulert av [lov om aksjeselskaper §§ 4-19](lov/1997-06-13-44/§4-19) til [4-23](lov/1997-06-13-44/§4-23), [lov om allmennaksjeselskaper §§ 4-19](lov/1997-06-13-45/§4-19) til [4-23](lov/1997-06-13-45/§4-23) og [lov av 21. juni 1985 nr. 83](lov/1985-06-21-83) om ansvarlige selskaper og kommandittselskaper (selskapsloven) [§ 2-29](lov/1985-06-21-83/§2-29).
+
+> Endra med [lover 13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603)).
+
+## § 4. Høvet til å fråvike lova
+
+Føresegnene i lova kan fråvikast i avtale eller anna rettsgrunnlag når ikkje noko anna er særskilt sagt.
+
+## § 5. Avtaleform og bruk av elektronisk kommunikasjon
+
+Løysingsrett som vert skipa ved avtale, kan gjerast munnleg eller skriftleg.
+
+Ei munnleg avtale skal setjast opp skriftleg når nokon av partane krev det. Føresegna i førre punktum er ufråvikeleg.
+
+Krav etter [§§ 10](lov/1994-12-09-64/§10), [12](lov/1994-12-09-64/§12) eller [13](lov/1994-12-09-64/§13) om at tilbod, varsel eller krav skal vere skriftleg, er ikkje til hinder for bruk av elektronisk kommunikasjon om partane er samde om det.
+
+> Endra med [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+## § 6. Lengstetid
+
+Løysingsrett gjeld ikkje for lengre tid enn 25 år.
+
+Fyrste ledd gjeld ikkje løysingsrettsom ligg til ein annan fast eigedom, når retten gjeld grunn som er utskild frå eigedomen eller som er høveleg til å slåast saman med den,til ein aksje eller annan part når retten tilkjem andre parteigarar i same selskap eller sameige.
+
+Løysingsrett som ligg til eit føretak og gjeld grunn til utviding eller tilfang til drift av føretaket, kan gjelde for opp til 50 år.
+
+Fyrste og tredje ledd er ufråvikelege.
+
+## § 7. Overførings- og fråskiljingsforbod
+
+Løysingsrett kan ikkje overførast eller gå i arv.
+
+Løysingsrett som nemnt i [§ 6](lov/1994-12-09-64/§6) andre og tredje ledd fylgjer ved rettsovergang eigedomen, parten eller føretaket som retten ligg til, og kan ikkje skiljast ifrå.
+
+## § 8. Rettsovergang til nærståande
+
+Forkjøpsrett kan ikkje gjerast gjeldande når eigedomen går over til ektemake, til livsarving, til fosterbarn som faktisk står i same stilling som livsarving, eller til nokon annan som i dei siste to åra har høyrt til same husstand som den tidlegare eigaren. Forkjøpsrett kan heller ikkje gjerast gjeldande til bustadeigedom når eigedomen går over på skifte etter separasjon eller skilsmål, eller når eit husstandsmedlem overtek eigedomen etter føresegnene i [lov av 4. juli 1991 nr. 45](lov/1991-07-04-45) om rett til felles bolig og innbo når husstandsfellesskap opphører [§ 3](lov/1991-07-04-45/§3). I dei tilfella som er nemnde i andre punktum kan forkjøpsrett likevel gjerast gjeldande dersom det er særleg om å gjere for forkjøpsrettshavaren, og det etter tilhøva ikkje vil verke urimeleg.
+
+Paragrafen er ufråvikeleg når det gjeld forkjøpsrett til bustadeigedom og fritidseigedom.
+
+> Endra med [lov 20 des 1996 nr. 106](lov/1996-12-20-106) (ikr. 1 jan 2002 iflg. [res. 8 juni 2001 nr. 571](forskrift/2001-06-08-571)).
+
+## § 9. Løysingsrett i samband med tenestetilhøve
+
+Forkjøpsrett til ein bustadeigedom som eigaren har fått overta i samband med tenestetilhøve, kan utan hinder av [§ 8](lov/1994-12-09-64/§8) fyrste ledd gjerast gjeldande dersom det er særleg om å gjere for forkjøpsrettshavaren, og det etter tilhøva ikkje vil verke urimeleg. Løysingsrett til ein bustadeigedom kan ikkje gjerast gjeldande når eigaren sluttar i tenesta for å gå av med alderspensjon eller for å få uførepensjon eller uføretrygd.
+
+Paragrafen er ufråvikeleg.
+
+> Endra med [lover 20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
+
+## § 10. Førehandstilbod
+
+Ein eigar som ynskjer å avhende ein fast eigedom, kan gje forkjøpsrettshavaren skriftleg tilbod om å få overta den på nærare vilkår i samsvar med forkjøpsretten, med frist to månader frå mottakinga av varselet til å seie ifrå skriftleg om han eller ho godtek tilbodet. Det skriftlege tilbodet skal opplyse om verknaden av at forkjøpsrettshavaren ikkje aksepterer tilbodet innan fristen, jf. tredje ledd.
+
+Aksepterer forkjøpsrettshavaren tilbodet innan fristen, er eigaren bunden til å stå ved tilbodet.
+
+Dersom forkjøpsrettshavaren ikkje aksepterer, kan eigaren innan to år deretter avhende eigedomen på same eller like strenge eller strengare vilkår til kven eigaren vil utan hinder av forkjøpsretten.
+
+Vert eigedomsavhending som nemnt i tredje ledd gjennomført, kan forkjøpsretten ikkje gjerast gjeldande ved dette eigarskiftet eller seinare.
+
+## § 11. Utløysing av forkjøpsrett
+
+Eigedomsavhending utløyser forkjøpsrett frå den tid då det er avtala på bindande måte at eigedomen skal gå over til ny eigar.
+
+Tvangssal utløyser forkjøpsrett som ikkje er sett til side etter [tvangsfullbyrdelsesloven § 11-21](lov/1992-06-26-86/§11-21), frå den tid det ligg føre rettskraftig stadfestingsorskurd etter [tvangsfullbyrdelsesloven §§ 11-30](lov/1992-06-26-86/§11-30) og [11-51](lov/1992-06-26-86/§11-51), jf. [§ 11-23](lov/1992-06-26-86/§11-23).
+
+Arv utløyser forkjøpsrett frå arvefallet. Kan retten berre gjerast gjeldande mot somme av arvingane, lyt det fyrst vere bindande avgjort på skifte kven av dei som skal overta eigedomen.
+
+Avtale som gjev rett til leige i meir enn 10 år, utløyser forkjøpsrett til eigedomen. Dette gjeld ikkje avtale om tilfang til drift av eit føretak.
+
+Hefter forkjøpsrett på ein eigedom som høyrer til eit selskap, kan retten til å løyse eigedomen gjerast gjeldande når ein så stor del av aksjane eller selskapspartane skiftar eigar at styringsretten i selskapet kjem på andre hender.
+
+## § 12. Frist for å gjere forkjøpsrett gjeldande
+
+Forkjøpsrett lyt gjerast gjeldande innan seks månader etter at forkjøpsrettshavaren fekk eller burde skaffa seg kunnskap om dei rettshøve som utløyser retten etter [§ 11](lov/1994-12-09-64/§11).
+
+Ein part i rettshøvet kan gje skriftleg varsel til forkjøpsrettshavaren med frist til å gjere retten gjeldande innan to månader frå det tidspunkt varselet er kome fram til forkjøpsrettshavaren.
+
+Når forkjøpsrett ikkje er gjort gjeldande til tid som nemnt i fyrste eller andre ledd, kan forkjøpsretten ikkje gjerast gjeldande ved dette eigarskiftet eller seinare.
+
+## § 13. Løysingskravet
+
+Krav om å få overta ein eigedom med grunnlag i løysingsrett skal setjast fram skriftleg.
+
+Krav om å få overta ein eigedom med grunnlag i annan løysingsrett enn forkjøpsrett skal setjast fram overfor eigaren av eigedomen.
+
+Krav om å få overta ein eigedom med grunnlag i forkjøpsrett etter [§ 11](lov/1994-12-09-64/§11) fyrste ledd, skal setjast fram overfor avhendaren og ervervaren av eigedomen. Er forkjøpsretten utløyst ved tvangssal etter [§ 11](lov/1994-12-09-64/§11) andre ledd er det nok at kravet vert sett fram overfor ervervaren.
+
+Er forkjøpsretten utløyst ved arv etter [§ 11](lov/1994-12-09-64/§11) tredje ledd, skal kravet setjast fram overfor tingretten dersom arvebuet ikkje er teke over av sjølvskiftande arvingar. Elles skal kravet setjast fram overfor arvingane eller deira representant, eller den som har overteke eigedomsretten til eigedomen.
+
+Løysingskrav framsett mot den som har grunnboksheimel til eigedomen, er alltid nok til å bryte fristane etter [§ 12](lov/1994-12-09-64/§12) fyrste og andre ledd. Det same gjeld løysingskrav som er sendt til tingretten, endå om buet er overteke til sjølvskifte eller uskifte.
+
+Når løysingskravet er framsett, kan eigaren med skriftleg varsel til løysingsrettshavaren setje ein frist på ein månad til å gje fullgod trygd for oppgjeret ved garantifråsegn frå bank eller trygdelag. Tvist om storleiken på garantisummen og om det skal reknast rente av fastsett løysingssum, kan avgjerast av tingretten ved orskurd.
+
+> Endra med [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+
+## § 14. Om rettar og plikter
+
+Skal eigedomen ved sal gå over til ein ny eigar som enno ikkje har fått skøyte eller overteke bruken av eigedomen, går den nye eigarens rettar og plikter etter avtala over på forkjøpsretthavaren frå den tid då løysingskrav etter [§ 13](lov/1994-12-09-64/§13) tredje ledd fyrste punktum er kome fram til ervervaren. Vilkåret er at det ervervaren har lagt ut i samsvar med avtala, vert godtgjort av forkjøpsrettshavaren. Føresegna i [§ 13](lov/1994-12-09-64/§13) siste ledd gjeld tilsvarande.
+
+## § 15. Frist for å gje eigedomen frå seg
+
+Når løysingskrav er framsett, har eigaren krav på så lang frist med å gje ifrå seg bruken av eigedomen og skøyte at eigaren får rimeleg høve til å områ seg. Det same gjeld ein ny eigar som alt har overteke eigedomen.
+
+## § 16. Avgrensing i rådvelde når løysingskrav er framsett
+
+Når løysingskrav er framsett, må eigaren eller innehavaren ikkje forringe eigedomen ved riving av bygningar, hogst i skog ut over verdauken på grunn av tilveksten frå då av eller på annan måte. Heller ikkje må det gjerast særlege påkostnader eller andre endringar som skaper vanskar for gjennomføringa av løysingskravet.
+
+## § 17. Avkasting og kostnader
+
+Løysingsrettshavaren har rett til avkasting eigedomen gjev frå det tidspunkt løysingsrettshavaren overtek bruken av eigedomen. Frå same tidspunkt svarar løysingsrettshavaren for kostnadene ved eigedomen.
+
+## § 18. Omgjering og heving
+
+Ei avhendingsavtale som utløyser forkjøpsrett, kan avhendaren med verknad for forkjøpsrettshavaren gjere om inntil forkjøpsrettshavaren har fått skriftleg varsel om eigedomsavhendinga (§ 12 andre ledd), eller inntil avhendaren har motteke løysingskrav (§ 13).
+
+Avhendaren har rett til å heve avtala etter vanlege reglar om mishald også for ein forkjøpsrettshavar som har reist løysingskrav.
+
+## § 19. Løysingssum
+
+Når løysingssummen skal setjast til den pris eigedomen vert selt for til andre og eigedomen openbert er selt til underpris, eller skiftar eigar ved byte, gåve eller arv, skal løysingssummen fastsetjast etter vanleg pris.
+
+Det same gjeld også elles når det ikkje er heimel for å fastsetje løysingssummen på anna grunnlag.
+
+Når løysingssummen etter skipingsgrunnlaget er fastsett til ein fast sum, skal løysingsrettshavaren godtgjere verdauken av særlege påkostnader som er gjort på eigedomen etter at løysingssummen opphavleg vart fastsett.
+
+Kår eller andre naturalytingar som går inn i overtakingsvilkåra, kan etter krav frå ein av partane reknast om i pengar.
+
+## § 20. Regulering av løysingssum
+
+Fast løysingssum kan etter krav frå nokon av partane regulerast når det har gått lenger enn 10 år sidan summen vart fastsett, eller før den tid når det har skjedd særskilt stor endring i pristilhøva.
+
+Ved reguleringa av løysingssummen skal eigedomsverdet på reguleringstida leggjast til grunn. Var løysingssummen opphavleg sett lågare enn full pris, skal det takast omsyn til det.
+
+## § 21. Kostnader
+
+Løysingsrettshavaren svarar for kostnadene i samband med gjennomføringa av løysinga.
+
+## § 22. Skjønn
+
+Avgjerd i samsvar med [§§ 19](lov/1994-12-09-64/§19) til [21](lov/1994-12-09-64/§21) høyrer under skjønn.
+
+Skjønnet vert styrt av jordskifteretten.
+
+> Endra med [lover 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endra med [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+
+## § 23. Ikraftsetjing
+
+Lova tek til å gjelde frå den dagen Kongen1 fastset.
+
+Lova gjeld ikkje for løysingsrettar der løysingskrav er framsett før lova har teke til å gjelde.
+
+Føresegnene om lengstetid i [§ 6](lov/1994-12-09-64/§6) gjeld såleis at løysingsrett tidlegast fell bort 20 år etter at lova har teke til å gjelde.
+
+## § 24. Endringar i andre lover
+
+Frå den tida lova tek til å gjelde, skal fylgjande føresegner i andre lover endrast slik: – – –

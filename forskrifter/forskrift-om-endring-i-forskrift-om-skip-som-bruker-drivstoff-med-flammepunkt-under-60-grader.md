@@ -1,0 +1,30 @@
+---
+id: "sf-20251215-2611"
+slug: "forskrift-om-endring-i-forskrift-om-skip-som-bruker-drivstoff-med-flammepunkt-under-60-grader"
+type: "forskrift"
+ref_id: "forskrift/2025-12-15-2611"
+title: "Forskrift om endring i forskrift om skip som bruker drivstoff med flammepunkt under 60 grader"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "7409ac66783fec00b1dacc632bdb15208276033cca7e323c74b68e9dee51ddae"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om skip som bruker drivstoff med flammepunkt under 60 grader
+
+## I
+
+IMO Res. MSC.391(95) «International Code of safety for ships using gases or other low-flashpoint fuels» som endret ved IMO Res. MSC.422(98), MSC.458(101), MSC.475(102), MSC.524 (106) og MSC.551(108) gjelder som forskrift for skip eller fartøy som skal ha sertifikat nevnt i [§ 1 første ledd bokstav a](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/a) til [e](forskrift/2016-12-27-1883/§1/ledd/1/bokstav/e)med byggekontrakt inngått 1. januar 2017 eller seneresom det ikke er inngått byggekontrakt for, men som er kjølstrukket eller er på et tilsvarende byggetrinn 1. juli 2017 eller seneresom leveres 1. januar 2021 eller seneresom 1. januar 2017 eller senere bygges om til å bruke drivstoff med flammepunkt under 60 °C.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

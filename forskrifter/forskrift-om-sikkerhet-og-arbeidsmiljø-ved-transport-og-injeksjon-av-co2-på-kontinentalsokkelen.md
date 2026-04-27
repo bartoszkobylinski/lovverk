@@ -1,0 +1,188 @@
+---
+id: "sf-20200225-0186"
+slug: "forskrift-om-sikkerhet-og-arbeidsmiljø-ved-transport-og-injeksjon-av-co2-på-kontinentalsokkelen"
+type: "forskrift"
+ref_id: "forskrift/2020-02-25-186"
+title: "Forskrift om sikkerhet og arbeidsmiljø ved transport og injeksjon av CO2 på kontinentalsokkelen"
+short_title: null
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2020-02-26"
+last_change_in_force: "2025-01-01"
+last_updated: null
+xml_hash: "ca3a0d9c7fdeb23714400fb059b7f1033504c7c3637dca128dd67b5ac8a0bebe"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om sikkerhet og arbeidsmiljø ved transport og injeksjon av CO2 på kontinentalsokkelen
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med denne forskriften er åfremme et høyt nivå for sikkerhet og arbeidsmiljø i virksomhet som omfattes av denne forskriftenoppnå systematisk gjennomføring av tiltak for å oppfylle kravene og nå målene som er gitt i sikkerhetslovgivningenvidereutvikle og forbedre nivået for sikkerhet og arbeidsmiljø.
+
+### § 2. Virkeområde
+
+Forskriften gjelder for leting etter og utnyttelse av undersjøiske reservoarer for lagring av CO2 og transport av CO2 til slike reservoarer i områder som er underlagt norsk jurisdiksjon. Forskriften gjelder også for transport av CO2 og utnyttelse av undersjøiske reservoarer til lagring av CO2 i og utenfor riket og norsk kontinentalsokkel når det følger av folkeretten eller av overenskomst med fremmed stat.
+
+Forskriften gjelder for utstyr og systemer for injeksjon. Dette omfatter utstyr og systemer som er nødvendige for drift og vedlikehold av rørledninger samt utstyr og systemer for å overvåke injeksjonsbrønner og nød- og sikkerhetssystemer i tilknytning til rørledninger og injeksjonsbrønner, avgrenset til utløpet av CO2-brønnens injeksjonsrør.
+
+Undersøkelse og leting etter undersjøiske reservoarer for lagring av CO2, og utnyttelse, transport og lagring av CO2 i slike reservoarer på norsk kontinentalsokkel som ledd i petroleumsvirksomheten, reguleres av petroleumsloven ([lov 29. november 1996 nr. 72](lov/1996-11-29-72)) med tilhørende forskrifter.
+
+Forskriften gjelder ikke for Svalbard.
+
+### § 3. Forholdet til annen lovgivning
+
+Forskriften er basert på prinsippene som legges til grunn i HMS-forskriftene for petroleumsvirksomheten, tilpasset de risikoforholdene som transport og injeksjon av CO2 representerer. Forskriften er begrenset til å gjelde for sikkerhet og arbeidsmiljø. Begrepene «gjelder tilsvarende» og «gjelder så langt det passer» som benyttet i denne forskriften, skal forstås i lys av nevnte begrensninger.
+
+### § 4. Definisjoner
+
+I denne forskriften menes med*aktivitetsforskriften*,[forskrift 29. april 2010 nr. 613](forskrift/2010-04-29-613) om utføring av aktiviteter i petroleumsvirksomheten med endringer*den ansvarlige*,operatør og andre som deltar i virksomhet som er omfattet av denne forskriften, uten å være rettighetshaver*injeksjon*,injeksjon av CO2 i undersjøiske reservoarer, deriblant boring av injeksjonsbrønner, injisering, samt bygging, plassering, drift og bruk av innretning for injeksjon*innretning*,installasjoner, anlegg og annet utstyr for utnyttelse av undersjøisk reservoar til lagring av CO2, likevel ikke forsynings- og hjelpefartøy eller skip som transporterer CO2 i bulk. Innretning omfatter også rørledning og kabel når ikke annet er bestemt*innretningsforskriften*,[forskrift 29. april 2010 nr. 634](forskrift/2010-04-29-634) om utforming og utrustning av innretninger med mer i petroleumsvirksomheten med endringer*operatør*,den juridiske (privat eller offentlig) person som på rettighetshavers vegne forestår den daglige ledelse av transport og utnyttelse av undersjøisk reservoar til lagring av CO2*rammeforskriften*,[forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg med endringer*rettighetshaver*,fysisk eller juridisk person, eller flere slike personer, som etter forskrift om lagring og transport av CO2 på sokkelen innehar en tillatelse til undersøkelse, leting eller utnyttelse av undersjøiske reservoar til lagring av CO2, eller til anlegg og drift av innretninger for transport av CO2. Er en tillatelse gitt til flere slike personer sammen, kan uttrykket rettighetshaver omfatte både rettighetshaverne samlet og den enkelte deltaker*sikkerhetslovgivningen*,hjemmelslovene og forskrift om lagring og transport av CO2 på sokkelen og vedtak som er fattet i medhold av disse innenfor virkeområdet, jf. [§ 2](forskrift/2020-02-25-186/§2)*styringsforskriften*,[forskrift 29. april 2010 nr. 611](forskrift/2010-04-29-611) om styring og opplysningsplikt i petroleumsvirksomheten og på enkelte landanlegg med endringer*utnyttelse*,all virksomhet knyttet til lagring og overvåkning (monitorering) av CO2 i undersjøiske reservoarer, herunder utbygging, injeksjon av CO2 og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av CO2 i bulk med skip*teknisk og operasjonell forskrift*,[forskrift 29. april 2010 nr. 612](forskrift/2010-04-29-612) om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer med endringer*transport*,skiping av CO2 i rørledning samt bygging av rørledning, plassering, drift og bruk av innretning for transport.
+
+### § 5. Ansvar etter denne forskriften
+
+Operatøren og andre som deltar i virksomheten, er ansvarlig etter denne forskriften. Den ansvarlige skal sikre at krav som er gitt i sikkerhetslovgivningen, blir etterlevd.
+
+Operatøren skal påse at alle som utfører arbeid for seg, enten personlig, ved ansatte, ved entreprenører eller underentreprenører, etterlever krav som er gitt i sikkerhetslovgivningen.
+
+I tillegg til de pliktene som rettighetshaverne har etter enkelte bestemmelser i denne forskriften, er disse ansvarlige for å påse at operatøren etterlever krav som er gitt i sikkerhetslovgivningen.
+
+Arbeidstakerne har plikt til å medvirke, jf. [arbeidsmiljøloven § 2-3](lov/2005-06-17-62/§2-3).
+
+## Kapittel II. Grunnleggende krav til sikkerhet og arbeidsmiljø og til styring av virksomheten
+
+### § 6. Prinsipper for sikkerhet
+
+Bestemmelsene som gjelder sikkerhet og arbeidsmiljø i [rammeforskriften kapittel II](forskrift/2010-02-12-158/kapii), gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 7. Styring av virksomheten
+
+Bestemmelsene som gjelder sikkerhet og arbeidsmiljø i [rammeforskriften kapittel III](forskrift/2010-02-12-158/kapiii) og [styringsforskriften kapittel II](forskrift/2010-04-29-611/kapii) til og med VI, gjelder tilsvarende på denne forskriftens virkeområde.
+
+## Kapittel III. Materiale og opplysninger
+
+### § 8. Dokumentasjon med mer
+
+[Rammeforskriften § 23](forskrift/2010-02-12-158/§23) om generelle krav til materialer og opplysninger, [§ 24](forskrift/2010-02-12-158/§24) om bruk av anerkjente normer og [§ 26](forskrift/2010-02-12-158/§26) om dokumentasjon i tidlig fase samt [styringsforskriften § 24](forskrift/2010-04-29-611/§24) om tilrettelegging av materiale og opplysninger gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 9. Varsling og melding
+
+Krav til varsling og melding som gjelder sikkerhet og arbeidsmiljø i [styringsforskriften kapittel VIII](forskrift/2010-04-29-611/kapviii), gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 10. Rapportering og informasjon
+
+Krav til rapportering og informasjon i [styringsforskriften kapittel IX](forskrift/2010-04-29-611/kapix) med unntak av [§ 34](forskrift/2010-04-29-611/§34) gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 11. Forhold som gjelder sikkerhet og arbeidsmiljø i plan for utbygging og drift av undersjøisk reservoar til injeksjon og lagring av CO2 og særskilt tillatelse til anlegg og drift av innretninger for transport
+
+I tillegg til redegjørelsen som kreves etter forskrift om lagring og transport av CO2 på sokkelen § 4-6 og § 6-2, skal planen for utbygging og drift av undersjøiske reservoarer til injeksjon og lagring av CO2 og særskilt tillatelse til anlegg og drift av innretninger for transport omfatte en redegjørelse for forhold som er av betydning for sikkerhet og arbeidsmiljø som nevnt i [rammeforskriften § 27](forskrift/2010-02-12-158/§27).
+
+Det skal gjøres rede for konsekvenser for brønnbarrierene til eksisterende brønner i lagringskomplekset for CO2.
+
+### § 12. Samtykke til enkelte aktiviteter
+
+Operatøren må i tilstrekkelig tid før planlagt start sende inn søknad om samtykke til Havindustritilsynet. Søknaden om samtykke kan omfatte flere aktiviteter som naturlig hører sammen.
+
+Havindustritilsynet kan bestemme ved enkeltvedtak at operatøren skal innhente samtykke fra Havindustritilsynet før visse aktiviteter settes i gang, deriblant gi bestemmelser om dokumentasjonen som skal følge med søknad om samtykke. Havindustritilsynet kan ved enkeltvedtak avgrense samtykket til å gjelde enkelte trinn eller faser.
+
+Dersom forutsetningene for samtykkene som er gitt i medhold av denne paragrafen, endres vesentlig, kan Havindustritilsynet kreve at operatøren henter inn et nytt samtykke før aktivitetene føres videre.
+
+Operatøren må ha samtykkefør innretninger eller deler av disse tas i brukfør utføring av større ombygginger eller endring av bruksformål hvis ikke disse er dekket i godkjent plan for utbygging og drift og særskilt tillatelse til anlegg og driftfør vesentlige endringer i aktiviteter som følge av nye krav eller tillatelser fra andre myndigheterfør gjennomføring av leteboringerfør gjennomføring av bemannede undervannsoperasjoner til havs.
+
+Søknaden om samtykke skal så langt det passer inneholde opplysninger som nevnt i [styringsforskriften § 26](forskrift/2010-04-29-611/§26) og opplysninger som nevnt i forskrift om lagring og transport av CO2 på sokkelen § 5-2.
+
+Havindustritilsynet kan stille andre krav til dokumentasjon.
+
+> Endret ved forskrifter [19 des 2022 nr. 2440](forskrift/2022-12-19-2440) (i kraft 1 jan 2023), [18 des 2023 nr. 2157](forskrift/2023-12-18-2157) (i kraft 1 jan 2024).
+
+### § 13. Avslutningsplan
+
+I tillegg til opplysninger og vurderinger som kreves etter forskrift om lagring og transport av CO2 på sokkelen § 7-1, skal avslutningsplanen så langt det passer omfatte en beskrivelse av forhold som nevnt i [rammeforskriften § 30](forskrift/2010-02-12-158/§30).
+
+## Kapittel IV. Utforming og utrusting av innretninger og utføring av aktiviteter
+
+### § 14. Utforming og bruk av innretninger
+
+[Rammeforskriften § 45](forskrift/2010-02-12-158/§45) om utbyggingsløsninger, [§ 47](forskrift/2010-02-12-158/§47) om plassering av innretninger, trasévalg og [§ 49](forskrift/2010-02-12-158/§49) om bruk av innretninger gjelder tilsvarende på denne forskriftens virkeområde.
+
+Innretninger skal baseres på robuste og enklest mulige løsninger og utformes slik atmuligheten for menneskelige feilhandlinger begrenses,de eller det kan opereres, prøves og vedlikeholdes uten fare for personellet og med lavest mulig risiko for forurensning,de eller det er egnet for bruk og i stand til å motstå de lastene de eller det kan bli utsatt for under drift.
+
+Bruk av innretninger og deler av dem skal være i henhold til krav som er fastsatt i og i medhold av sikkerhetslovgivningen og eventuelle tilleggsbegrensninger som følger av fabrikasjon, installering og ferdigstilling. Bruken skal til enhver tid være i samsvar med innretningens tekniske tilstand og de forutsetningene for bruk som er lagt til grunn for forsvarlig virksomhet.
+
+Ved setting av begrensninger for aktivitetsnivået på innretningen skal det også tas hensyn til status for utføring av vedlikehold.
+
+> Endret ved forskrift [18 des 2024 nr. 3264](forskrift/2024-12-18-3264) (i kraft 1 jan 2025).
+
+### § 14a. Kvalifisering og bruk av ny teknologi og nye metoder
+
+Der virksomheten medfører bruk av ny teknologi eller nye metoder, skal det utarbeides kriterier for utvikling, prøving og bruk slik at kravene til sikkerhet og arbeidsmiljø blir ivaretatt. Kriteriene skal være representative for de aktuelle bruksforholdene, og teknologien eller metodene skal være tilpasset allerede aksepterte løsninger.
+
+Kvalifiseringen eller prøvingen skal demonstrere at gjeldende krav kan oppfylles ved bruk av den aktuelle nye teknologien eller metodene.
+
+> Tilføyd ved forskrift [18 des 2024 nr. 3264](forskrift/2024-12-18-3264) (i kraft 1 jan 2025).
+
+### § 15. Sikkerhetsfunksjoner og sikkerhetssystemer
+
+Innretninger skal være utstyrt med nødvendige sikkerhetsfunksjoner som til enhver tid kanoppdage unormale tilstanderhindre at unormale tilstander utvikler seg til fare- og ulykkessituasjonerbegrense skadene ved ulykker.
+
+Det skal fastsettes krav til ytelsen for sikkerhetsfunksjoner.
+
+Status for aktive sikkerhetsfunksjoner skal være tilgjengelig i kontrollrommet.
+
+Det skal fastsettes på forhånd hvilke tiltak og begrensninger som er nødvendige for å opprettholde sikkerhetssystemers barrierefunksjon ved overbroing, utkopling eller annen svekkelse. De kompenserende tiltakene skal settes i verk så raskt som mulig når slik svekkelse oppstår.
+
+Status for sikkerhetssystemer skal være kjent for relevant personell til enhver tid.
+
+### § 16. Rørledningssystemer
+
+Rørledningssystemene skal utformes slik at innvendig vedlikehold kan utføres.
+
+Sluser for avsending og mottak av rense- og inspeksjonsverktøy skal utformes slik at de ikke kan åpnes under trykk.
+
+På rørledningssystemer der sviktmodi kan utgjøre en miljø- eller sikkerhetsrisiko, skal det utføres inspeksjoner for å følge opp mulige sviktmodi som kan påvirke integriteten i rørledningssystemet. Vedlikeholdsprogrammet skal definere den første inspeksjonen og tidspunktet skal være basert på de gjennomførte risikovurderingene.
+
+> Endret ved forskrift [18 des 2024 nr. 3264](forskrift/2024-12-18-3264) (i kraft 1 jan 2025).
+
+### § 17. Bore- og brønnsystemer og bore- og brønnaktiviteter
+
+Kravene som gjelder for bore- og brønnsystemer i [innretningsforskriften kapittel VIII](forskrift/2010-04-29-634/kapviii) og for bore- og brønnaktiviteter i [aktivitetsforskriften kapittel XV](forskrift/2010-04-29-613/kapxv) gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 18. Flyttbare innretninger
+
+Flyttbare innretninger og bruken av dem skal være i henhold til [rammeforskriften § 25](forskrift/2010-02-12-158/§25), [aktivitetsforskriften kapittel II](forskrift/2010-04-29-613/kapii), V, VI, VII og VIII samt relevante tekniske krav i innretningsforskriften.
+
+For flyttbare innretninger som er registrert i et nasjonalt skipsregister, og som følger et maritimt driftskonsept, gjelder [rammeforskriften § 3](forskrift/2010-02-12-158/§3) jf. [innretningsforskriften § 1](forskrift/2010-04-29-634/§1) fjerde ledd tilsvarende.
+
+### § 19. Bemannede undervannsoperasjoner og dykkeroperasjoner
+
+Kravene til utstyr og utføring av bemannede undervannsoperasjoner i [rammeforskriften § 4](forskrift/2010-02-12-158/§4) første ledd, [innretningsforskriften § 1](forskrift/2010-04-29-634/§1) andre ledd, [§ 41a](forskrift/2010-04-29-634/§41a) og [kapittel XIII](forskrift/2010-04-29-634/kapxiii), [aktivitetsforskriften § 21](forskrift/2010-04-29-613/§21) andre ledd og [kapittel XIX](forskrift/2010-04-29-613/kapxix) samt dykkeroperasjoner i teknisk og operasjonell forskrift [§ 63](forskrift/2010-04-29-613/§63) gjelder tilsvarende på denne forskriftens virkeområde.
+
+### § 20. Beredskap til havs
+
+[Aktivitetsforskriften § 77](forskrift/2010-04-29-613/§77) om håndtering av fare- og ulykkessituasjoner gjelder så langt det passer på denne forskriftens virkeområde.
+
+## Kapittel V. Avsluttende bestemmelser
+
+### § 21. Tilsynsmyndighet med mer
+
+Havindustritilsynet fører tilsyn med at de kravene som er gitt i sikkerhetslovgivningen, blir etterlevd.
+
+Havindustritilsynet fatter de enkeltvedtakene som er nødvendige for å gjennomføre bestemmelser som er gitt i denne forskriften. Enkeltvedtak som er fattet av Havindustritilsynet i medhold av denne forskriften, kan påklages til Energidepartementet.
+
+Havindustritilsynet kan gjøre unntak fra bestemmelsene i denne forskriften når det foreligger særlige forhold. Dersom unntaket kan ha betydning for sikkerheten og arbeidsmiljøet, skal en uttalelse fra arbeidstakernes tillitsvalgte legges ved søknaden om unntak.
+
+> Endret ved forskrifter [19 des 2022 nr. 2440](forskrift/2022-12-19-2440) (i kraft 1 jan 2023), [18 des 2023 nr. 2157](forskrift/2023-12-18-2157) (i kraft 1 jan 2024).
+
+### § 22. Reaksjonsmidler og straff
+
+Bestemmelser om straff og andre reaksjonsmidler som går fram av [arbeidsmiljøloven § 18-7](lov/2005-06-17-62/§18-7), [§ 18-8](lov/2005-06-17-62/§18-8), [§ 18-10](lov/2005-06-17-62/§18-10) og [kapittel 19](lov/2005-06-17-62/kap19), lov om andre undersjøiske naturforekomster § 4 og forskrift om lagring og transport av CO2 på sokkelen § 11-24, gjelder ved brudd på krav som er gitt i og i medhold av denne forskriften.
+
+### § 23. Ikrafttredelse
+
+Denne forskriften trer i kraft 26. februar 2020.

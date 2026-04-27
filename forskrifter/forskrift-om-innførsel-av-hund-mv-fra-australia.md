@@ -1,0 +1,76 @@
+---
+id: "sf-20010104-0007"
+slug: "forskrift-om-innførsel-av-hund-mv-fra-australia"
+type: "forskrift"
+ref_id: "forskrift/2001-01-04-7"
+title: "Forskrift om særskilte beskyttelsestiltak ved innførsel av hund, katt og flygehund fra Malaysia og Australia"
+short_title: "Forskrift om innførsel av hund mv fra Australia"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2001-01-04"
+last_change_in_force: "2016-06-01"
+last_updated: "2001-02-26"
+xml_hash: "8f97ada9f3d0adedfccfb481a3d836370cfb490eb5cba67af3ad1a23fb417a30"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om særskilte beskyttelsestiltak ved innførsel av hund, katt og flygehund fra Malaysia og Australia
+
+## Kapittel I. Formål, virkeområde og definisjoner
+
+### § 1. Formål
+
+Formålet med denne forskrift er å forebygge spredning av virussjukdommene Hendra og Nipah.
+
+### § 2. Virkeområde
+
+Forskriften gjelder for hund, katt og flygehund fra Malaysia og flygehund og katt fra Australia. Forskriften gjelder i tillegg til [forskrift 20. februar 2004 nr. 464](forskrift/2004-02-20-464) om dyrehelsemessige betingelser for import og eksport av levende dyr, sæd, egg og embryo og [forskrift 19. mai 2016 nr. 542](forskrift/2016-05-19-542) om ikke- kommersiell forflytning av kjæledyr.
+
+> Endret ved [forskrift 19 mai 2016 nr. 543](forskrift/2016-05-19-543) (i kraft 1 juni 2016).
+
+### § 3. Definisjoner
+
+I denne forskriften menes med:*Flygehund:* flaggermus tilhørende slekten Pteropus.
+
+> Endret ved [forskrift 19 mai 2016 nr. 543](forskrift/2016-05-19-543) (i kraft 1 juni 2016).
+
+## Kapittel II. Forbud
+
+### § 4. Forbud mot innførsel av hund, katt og flygehund fra Malaysia og katt og flygehund fra Australia
+
+Det er forbudt å innføre hund, katt og flygehund fra Malaysia og katt og flygehund fra Australia.
+
+### § 5. Unntak for innførsel av flygehund fra Malaysia
+
+Forbudet i [§ 4](forskrift/2001-01-04-7/§4) gjelder ikke dersom dyret følges av originalt helsesertifikat som er utstedt av offentlig veterinær i Malaysia, og som bekrefter at følgende krav er oppfylt:dyret skal være oppdrettet i fangenskap, ogdyret skal karanteneres i 60 dager før avreise, ogdyret skal testes for antistoffer mot Hendra- og Nipahvirus med en serumnøytralisasjonstest eller en godkjent ELISA-test. Dyret skal testes to ganger med negativt resultat. Blodprøvene til testene skal tas med et intervall på 21-30 dager. Den andre blodprøven skal tidligst være tatt 10 dager før avreise. Testene skal utføres ved et godkjent laboratorium.
+
+### § 6. Unntak for innførsel av hund og katt fra Malaysia
+
+Forbudet i [§ 4](forskrift/2001-01-04-7/§4) gjelder ikke innførsel av hund og katt fra Malaysia såfremt dyret følges av et originalt helsesertifikat som er utstedt av offentlig veterinær i Malaysia, og som bekrefter at følgende tilleggskrav er oppfylt:dyret skal ikke ha hatt kontakt med svin de siste 60 dager før avreise, ogdyret skal ikke ha oppholdt seg i et dyrehold som i løpet av de siste 60 dager før avreise har hatt utbrudd av Nipah disease, ogdyret skal være testet med en IgG ELISA-test med negativt resultat for antistoffer mot Nipahvirus. Blodprøven til testen skal være tatt i løpet av de siste 10 dager før avreise. Testen skal utføres ved et godkjent laboratorium.
+
+Forbudet gjelder ikke for hunder og katter i transitt så lenge dyrene befinner seg innenfor terminalområdet til en internasjonal flyplass.
+
+> Endret ved [forskrift 9 juni 2007 nr. 595](forskrift/2007-06-09-595).
+
+### § 7. Unntak for innførsel av katt fra Australia
+
+Forbudet i [§ 4](forskrift/2001-01-04-7/§4) gjelder ikke innførsel av katt fra Australia såfremt dyret følges av et originalt helsesertifikat som er utstedt av offentlig veterinær i Australia, og som bekrefter at dyret ikke har oppholdt seg i et dyrehold som i løpet av de siste 60 dager før avreise har hatt utbrudd av Hendra.
+
+Forbudet gjelder ikke for katter i transitt så lenge de befinner seg innenfor terminalområdet til en internasjonal flyplass.
+
+## Kapittel III. Avsluttende bestemmelser
+
+### § 8. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+> Endret ved [forskrift 15 jan 2004 nr. 332](forskrift/2004-01-15-332).
+
+### § 9. Ikrafttredelse
+
+Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift av 7. februar 2000 nr. 107](forskrift/2000-02-07-107) om særskilte beskyttelsestiltak ved innførsel av hund, katt og flygehund fra Malaysia og Australia.

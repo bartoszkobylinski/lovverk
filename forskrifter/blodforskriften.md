@@ -1,0 +1,463 @@
+---
+id: "sf-20050204-0080"
+slug: "blodforskriften"
+type: "forskrift"
+ref_id: "forskrift/2005-02-04-80"
+title: "Forskrift om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre (blodforskriften)"
+short_title: "Blodforskriften"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2005-02-08"
+last_change_in_force: "2024-01-01"
+last_updated: "2019-04-24"
+xml_hash: "f915df2d3b1898732b2ca46ee56d7ae0881bfa7e6b9fbe23ab2712b728ca0112"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre (blodforskriften)
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Formål
+
+Forskriftens formål er å sikre et høyt beskyttelsesnivå for blodmottakere og blodgivere, herunder å hindre overføring av smitte og trygge sikkerheten og kvaliteten på humant blod og blodkomponenter uansett anvendelsesformål.
+
+### § 1-2. Virkeområde
+
+Forskriften gjelder tapping og testing av humant blod og blodkomponenter uansett anvendelsesformål. Forskriften gjelder videre for prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter, dersom anvendelsesformålet er transfusjon. Forskriften gjelder ikke for alminnelig blodprøvetaking.
+
+Forskriften gjelder også for behandling av helseopplysninger i blodgiverregistre og i hemovigilanssystemet.
+
+For transfusjonsenheter gjelder bare kravene i forskriften [§ 2-3](forskrift/2005-02-04-80/§2-3), [§ 2-4](forskrift/2005-02-04-80/§2-4), [§ 3-1](forskrift/2005-02-04-80/§3-1), [§ 3-2](forskrift/2005-02-04-80/§3-2), [§ 3-4](forskrift/2005-02-04-80/§3-4), [§ 3-5](forskrift/2005-02-04-80/§3-5), [§ 3-11](forskrift/2005-02-04-80/§3-11), [§ 3-12](forskrift/2005-02-04-80/§3-12), [§ 4-8](forskrift/2005-02-04-80/§4-8) og [§ 5-1](forskrift/2005-02-04-80/§5-1) til [§ 5-7](forskrift/2005-02-04-80/§5-7).
+
+Forskriften gjelder ikke for stamceller.
+
+### § 1-3. Forholdet til annet regelverk
+
+For medisinsk utstyr som benyttes i forbindelse med aktiviteter som nevnt i [§ 1-2](forskrift/2005-02-04-80/§1-2) første ledd, gjelder kravene i [lov 12. januar 1995 nr. 6 om medisinsk utstyr](lov/1995-01-12-6) og [lov 7. mai 2020 nr. 37 om medisinsk utstyr](lov/2020-05-07-37) og [forskrift 15. desember 2005 nr. 1690 om medisinsk utstyr](forskrift/2005-12-15-1690) og [forskrift 9. mai 2021 nr. 1476](forskrift/2021-05-09-1476) om medisinsk utstyr.
+
+For humant blod som benyttes til tilvirkning av legemidler, gjelder reglene i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. med forskrifter.
+
+> Endret ved forskrift [9 mai 2021 nr. 1502](forskrift/2021-05-09-1502) (i kraft 26 mai 2021).
+
+### § 1-4. Definisjoner
+
+I denne forskrift forstås med:*aferese:* en metode til å tappe en eller flere blodkomponenter ved maskinell behandling av blod, mens de øvrige blodkomponenter gis tilbake til blodgiver under eller ved avslutningen av prosessen,*alvorlig bivirkning:* enhver utilsiktet respons hos blodgiver eller blodmottaker som oppstår i tilknytning til tapping eller transfusjon av blod og blodkomponenter, der responsen er fatal, livstruende, invalidiserende, medfører arbeidsudyktighet, eller forårsaker eller forlenger sykehusopphold eller sykdomstilstand,*alvorlig uønsket hendelse:* enhver uønsket hendelse som oppstår i tilknytning til tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av blod og blodkomponenter, der hendelsen enten fører til død eller er livstruende, invalidiserende eller medfører arbeidsudyktighet hos pasienten, eller forårsaker eller forlenger sykehusopphold eller sykdomstilstand,*autolog donasjon:* blod eller blodkomponenter tappet fra et individ med eneste hensikt autolog transfusjon eller annen bruk for den samme giveren,*autolog transfusjon:* transfusjon der giver og mottaker er samme person, og det anvendes forhåndstappet blod eller blodkomponenter,*avvisning:* suspensjon av en persons egnethet for å gi blod eller blodkomponenter, enten permanent eller midlertidig,*blod:* fullblod tappet fra en blodgiver og prosessert enten for bruk til transfusjon eller for videre bearbeiding,*blodbank:* enhver struktur eller enhet som er ansvarlig for ethvert ledd i tapping og testing av humant blod og blodkomponenter, uansett anvendelsesformål, og for prosessering, oppbevaring, distribusjon og utlevering når formålet er transfusjon. Transfusjonsenheter omfattes ikke av definisjonen,*blodkomponent:* en terapeutisk bestanddel fra blod (erytrocytter, leukocytter, trombocytter, plasma) prosessert ved ulike separasjonsmetoder,*blodprodukt:* ethvert terapeutisk produkt hvor humant blod eller blodkomponenter inngår,*distribusjon:* aktivitet der blod eller blodkomponenter leveres til andre blodbanker, transfusjonsenheter eller andre som tilvirker blodprodukter. Aktiviteten omfatter ikke selve utleveringen av blod eller blodkomponenter til transfusjon,*erytrocytter framstilt ved aferese:* erytrocyttene fra en erytrocyttaferesetapping. Før lagring må erytrocyttene tilsettes additivløsning og produktet må leukocyttdepleteres dersom leukocyttdepletering ikke inngår som en del av afereseprosedyren,*erytrocytter, leukocyttdepletert, i additiv løsning:* erytrocyttene fra en enkelt blodtapping, hvorfra en stor del av plasmaet fra tappingen og leukocyttene er fjernet. Det er tilsatt en nærings-/konserveringsoppløsning,*frigivelse av blodkomponent:* arbeidsoperasjon som skal sikre at en blodkomponent kan frigis til bruk fra karantene, gjennom systemer og prosedyrer som sikrer at sluttproduktet er i samsvar med de krav som er stilt til det aktuelle blodprodukt,*friskfrosset plasma:* plasma fra en blodtapping eller plasma tappet ved aferese, frosset og lagret innen 8 timer etter tappingen,*fullblod:* en vanlig blodtapping,*god praksis:* alle elementer i etablert praksis som samlet vil medføre at blod eller blodkomponenter systematisk oppfyller forhåndsdefinerte spesifikasjoner og er i overensstemmelse med fastsatte regler,*granulocytter, aferese:* en konsentrert granulocyttsuspensjon framstilt ved aferese,*hemovigilans:* en samling organiserte overvåkningsprosedyrer for å oppdage alvorlige bivirkninger og alvorlige uønskede hendelser hos blodgivere og blodmottakere, samt epidemiologisk oppfølging av blodgivere,*inspeksjon:* en formell og objektiv kontroll av om virksomheten drives i henhold til gjeldende regelverk,*Institusjoner:* virksomheter hvor blodtransfusjon utføres, f.eks. sykehus, sykehjem, klinikker, produsenter og biomedisinske forskningsinstitusjoner hvor blod og blodkomponenter kan leveres,*IT-basert system:* et system som omfatter innlegging av data, elektronisk behandling og utmating av informasjon som brukes til rapportering, automatisk kontroll eller dokumentasjon,*karantene:* fysisk isolasjon av blodkomponenter eller innkommet materiale/reagenser over et variabelt tidsrom i påvente av godkjenning, frigivelse eller avvisning av blodkomponentene eller de innkomne materialene/reagensene,*kryoprecipitatdepletert plasma til transfusjon:* resten av enhet friskfrosset plasma etter at kryopresipitatet er fjernet,*kryopreservering:* forlenget lagringstid av blodkomponenter ved frysing,*kryopresipitat:* en plasmakomponent framstilt fra friskfrosset plasma ved utfelling av proteiner etter frysing/tining og etterfølgende konsentrasjon og resuspensjon av de utfelte proteiner i en liten mengde plasma,*kvalifisering:* som del av valideringen som innebærer kontroll av at personale, lokaler, utstyr eller materiale fungerer etter hensikten og gir de forventede resultater,*kvalitetskontroll:* en del av et kvalitetsstyringssystem som har til formål å sikre at kvalitetskravene oppfylles,*kvalitetssikring:* alle aktiviteter fra tapping til utlevering av blod, som har til formål å sikre at blod og blodkomponenter er av den kvalitet som kreves for det tiltenkte bruksformål,*kvalitetsstyring:* samordnede aktiviteter for å lede og kontrollere en blodbank med hensyn til kvalitet på alle nivåer innen virksomheten,*kvalitetsstyringssystem:* organisasjonsstruktur, ansvarsforhold, prosedyrer, prosesser og ressurser for gjennomføring av kvalitetsstyring,*leukocyttdepleterte poolede trombocytter framstilt ved fraksjonering:* en konsentrert suspensjon av trombocytter framstilt ved behandling av blodenheter og pooling av trombocyttene fra porsjonene under eller etter separeringen, og hvorfra leukocyttene er fjernet. Trombocyttene er suspendert i additivløsning eller plasma,*leukocyttdepleterte trombocytter, aferese:* En konsentrert suspensjon av trombocytter framstilt ved aferese, og hvorfra leukocyttene er fjernet. Trombocyttene er suspendert i additivløsning eller plasma,*mobil enhet:* en midlertidig eller flyttbar enhet som brukes til tapping av blod og blodkomponenter, og som befinner seg på et sted som er utenfor blodbanken, men under dennes kontroll,*plasma:* den flytende del av blodet, som blodcellene er suspendert i. Plasma kan atskilles fra blodcellene i en blodtapping til terapeutisk bruk som friskfrosset plasma eller til viderebehandling. Det kan anvendes til å framstille legemidler av eller til lagringsmedium for trombocytter. Det kan også anvendes til resuspensjon av erytrocytter til utskiftningstransfusjon eller perinatral transfusjon,*prosessering:* ethvert trinn i behandlingen av en blodkomponent som utføres mellom tapping av blod og utlevering av en blodkomponent, også kalt komponentframstilling,*skriftlige prosedyrer:* kontrollerte dokumenter som beskriver hvordan bestemte oppgaver skal utføres,*spesifikasjon:* en beskrivelse av kriterier som må oppfylles for å oppnå den kvalitetsstandard som kreves,*sporbarhet:* muligheten for å identifisere hver enkelt enhet blod eller blodkomponent fra giver til det endelige bestemmelsesstedet, enten det er tale om en mottaker, en legemiddelprodusent eller annet formål, og omvendt,*standard:* de krav som danner grunnlag for sammenlikning,*statistisk prosesskontroll:* en kvalitetskontrollmetode av et produkt som bygger på en prosess med analyser av et tilstrekkelig antall prøver, uten at det er nødvendig å teste hvert produkt som framstilles,*tilbakesporing*: prosessen med å etterforske en rapport om en mistenkt transfusjonsrelatert bivirkning hos en pasient for å identifisere en potensielt implisert giver,*transfusjonsenhet:* sykehusenhet som oppbevarer, utleverer og som kan utføre forlikelighetstesting av blod og blodkomponenter for bruk til sykehusets egne pasienter,*utlevering:* levering av blod eller blodkomponenter fra en blodbank eller en transfusjonsenhet for overføring til mottaker,*validering:* skaffe til veie dokumenterte og objektive bevis for at de forhåndsdefinerte kravene for en bestemt prosedyre eller prosess kan oppfylles konsekvent,*årsakssammenheng:* sannsynligheten for at en alvorlig bivirkning hos en mottaker kan tilskrives en transfundert blodenhet eller blodkomponent, eller at en alvorlig bivirkning hos en giver kan tilskrives giverprosessen.
+
+> Endret ved [forskrift 26 okt 2012 nr. 991](forskrift/2012-10-26-991).
+
+### § 1-5. Frivillig og vederlagsfri blodgivning
+
+Blodgivning skal være frivillig og vederlagsfri.
+
+Blodbankene skal innhente skriftlig samtykke fra blodgiver for tapping og testing av blod og blodkomponenter, samt for behandling av helseopplysninger i blodgiverregisteret. Det må innhentes særskilt samtykke til at blod og blodkomponenter og helseopplysninger skal kunne benyttes til forskning.
+
+## Kapittel 2. Godkjenning og organisering
+
+### § 2-1. Krav om godkjenning av blodbanker, vilkår, tilbakekalling mv.
+
+Tapping og testing av blod og blodkomponenter kan bare finne sted ved blodbanker som er godkjent av Direktoratet for medisinske produkter. Det samme gjelder prosessering, oppbevaring, klargjøring og distribusjon av humant blod og blodkomponenter der formålet er transfusjon. Direktoratet for medisinske produkter kan knytte vilkår til godkjenningen. Direktoratet for medisinske produkter skal registrere opplysningene direktoratet mottar, i henhold til annet ledd.
+
+Søknad om godkjenning etter første ledd skal inneholde alle nødvendige opplysninger for at Direktoratet for medisinske produkter skal kunne vurdere om godkjenning kan gis, herunder:navn og adresse på blodbanken (identifikasjon),navn, adresse og kvalifikasjoner til blodbankens leder og eventuelt den som har det daglige ansvaret for å oppfylle vedkommendes plikter,oversikt over transfusjonsenheter som blodbanken forsyner,en beskrivelse av internkontrollsystemet, jf. [§ 2-4](forskrift/2005-02-04-80/§2-4), som minst omfatter:oversikt over hvordan virksomheten er organisert (organisasjonsplan),oversikt over ansvars- og myndighetsforhold,oversikt over virksomhetens rapporteringsstruktur,oversikt over lokaler og utstyr,antall ansatte og deres kvalifikasjoner,bestemmelser vedrørende blodgiverrekruttering og -seleksjon,bestemmelser vedrørende tapping, testing, prosessering, klargjøring, distribusjon, utlevering og tilbakekalling av blod og blodkomponenter,bestemmelser for innberetning og registrering av alvorlige bivirkninger og alvorlige uønskede hendelser,hygienebestemmelser,bestemmelser vedrørende behandling av helseopplysninger i blodgiverregistre.
+
+En blodbank kan ikke foreta vesentlige endringer i virksomheten uten skriftlig godkjenning fra Direktoratet for medisinske produkter.
+
+Direktoratet for medisinske produkter kan trekke tilbake godkjenningen, dersom blodbanken ikke drives i samsvar med kravene fastsatt i denne forskriften eller vilkår fastsatt etter første ledd tredje punktum.
+
+> Endret ved [forskrifter 26 okt 2012 nr. 991](forskrift/2012-10-26-991), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 2-2. Ansvar i blodbanker
+
+Blodbankens eier har ansvar for at blodbanken har nødvendig godkjenning. Blodbankens eier har ansvar for at Direktoratet for medisinske produkter blir forelagt alle opplysninger som er nødvendige for å kunne vurdere om godkjenning skal gis. Blodbankens eier skal informere direktoratet omgående ved endringer i blodbankens ledelse, permanent eller midlertidig.
+
+Blodbankens leder har ansvar for at enhver enhet av blod og blodkomponenter har blitt tappet og testet i henhold til gjeldende regelverk, uavhengig av anvendelsesformål, og prosessert, oppbevart, distribuert og utlevert i henhold til regelverket når blodproduktene skal anvendes til transfusjon. Blodbankens leder har videre ansvar for at kravene til blodbanker i [§ 2-3](forskrift/2005-02-04-80/§2-3), [§ 2-4](forskrift/2005-02-04-80/§2-4), [§ 2-5](forskrift/2005-02-04-80/§2-5), [§ 3-1](forskrift/2005-02-04-80/§3-1), [§ 3-4](forskrift/2005-02-04-80/§3-4), [§ 3-5](forskrift/2005-02-04-80/§3-5) og [§ 3-11](forskrift/2005-02-04-80/§3-11) er oppfylt.
+
+Blodbankens leder skal ha høyere utdanning innen medisin eller biologi og minst to års praksis fra relevant fagområde etter avsluttet utdanning.
+
+> Endret ved [forskrifter 26 okt 2012 nr. 991](forskrift/2012-10-26-991), [28 nov 2014 nr. 1488](forskrift/2014-11-28-1488), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 2-3. Kompetansekrav til personalet i blodbanker og transfusjonsenheter
+
+Tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av blod og blodkomponenter i henhold til denne forskriften kan bare utføres av personale som har fått tilstrekkelig opplæring og er kvalifisert til det, jf. vedlegg VI.
+
+### § 2-4. Internkontroll
+
+Blodbanker og transfusjonsenheter skal etablere internkontroll for å sikre at virksomheten planlegges, organiseres, utføres og vedlikeholdes i samsvar med regler fastsatt i lov og forskrift. Internkontrollen skal tilpasses virksomhetens art, aktiviteter, størrelse og risikoforhold i det omfang som er nødvendig for å etterleve kravene, samt de standarder og spesifikasjoner til et kvalitetsstyringssystem som følger av vedlegg VI.
+
+Blodbanker og transfusjonsenheter skal sørge for at retningslinjer for god praksis er tilgjengelig og følges i kvalitetsstyringssystemet. Ved utforming av retningslinjene skal det tas hensyn til Europarådets «Guide to the preparation, use and quality assurance of blood components», der det er relevant.
+
+Internkontrollen skal dokumenteres. Den skriftlige dokumentasjonen skal for blodbankene blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over antall ansatte og deres kvalifikasjoner,oversikt over ansvars- og myndighetsforhold,oversikt over de krav, regler og retningslinjer som gjelder for virksomheten, herunder:hygienebestemmelser, jf. vedlegg VI.bestemmelser vedrørende blodgiverrekruttering og -seleksjon, jf. [§ 3-8](forskrift/2005-02-04-80/§3-8) og vedlegg VI.bestemmelser vedrørende tapping, testing, prosessering, oppbevaring, distribusjon og utlevering samt tilbakekalling av humant blod og blodkomponenter, jf. vedlegg VI.krav til blodgiverregistre i medhold av forskriftens [kapittel 4](forskrift/2005-02-04-80/kap4) og [pasientjournalloven § 23](lov/2014-06-20-42/§23),rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kvalifikasjoner til å overholde kravene og rutiner for meldinger om alvorlige bivirkninger og alvorlige uønskede hendelser, samt dokumentasjon og kvalitetskontroll av helseopplysninger i blodgiverregisteret,rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig for oppfølging,rutiner virksomheten følger for tilbaketrekking av blod eller blodkomponenter, som kan stå i forbindelse med en alvorlig bivirkning og alvorlig uønsket hendelse.rutiner virksomheten følger for systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i virksomheten.
+
+Tilsynsmyndigheten kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet.
+
+> Endret ved [forskrifter 16 feb 2018 nr. 231](forskrift/2018-02-16-231), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+### § 2-5. Utarbeiding og oppbevaring av årsrapport for blodbanker
+
+Blodbanker skal utarbeide årsrapport for virksomheten. Årsrapporten skal inneholde opplysninger om:samlet antall aktive blodgivere,samlet antall tappinger,oppdatert liste over de transfusjonsenheter som blodbanken forsyner,samlet antall ikke anvendte tappinger,antall av hver komponent som er framstilt og distribuert,hyppighet (insidens) og forekomst (prevalens) av transfusjonsoverførbare infeksiøse markører i blod og blodkomponenter hos blodgivere,antall tilbakekallinger av produkter,antall innberettede alvorlige bivirkninger og alvorlige uønskede hendelser.
+
+Opplysningene som nevnt i første ledd skal oppbevares i minst 15 år.
+
+## Kapittel 3. Sporbarhet, hemovigilans, kvalitet og sikkerhet for blod og blodkomponenter
+
+### § 3-1. Krav til sporbarhet i blodbanker og transfusjonsenheter
+
+Blodbanker og transfusjonsenheter skal sørge for at blod og blodkomponenter som tappes, testes, prosesseres, oppbevares, frigis og/eller distribueres, kan spores fra blodgiver til mottaker og omvendt.
+
+For å oppfylle kravet i første ledd, skal det foreligge et system for identifikasjon av hver enkelt tapping av blod og blodkomponenter, slik at de kan spores tilbake til blodgiver, transfusjon og blodmottaker. Systemet skal entydig identifisere hver enkelt blodgivning og blodkomponenttype og følgende data:
+
+Data som oppbevares av blodbanker:Identifikasjon av blodbankIdentifikasjon av blodgiverIdentifikasjon av blodenhetIdentifikasjon av hver blodkomponentDato for tapping (dag/måned/år)Institusjoner som mottar blodenheter eller blodkomponenter, eller endelig bestemmelsessted.
+
+Data som oppbevares av transfusjonsenheter og andre institusjoner:Identifikasjon av blodkomponentleverandørIdentifikasjon av utlevert blodkomponentIdentifikasjon av mottaker som har fått transfundert blodBekreftelse av endelig bestemmelsessted for ikke transfundert blodenheterDato for transfusjon eller annen bruk (dag/måned/år)Komponentens lotnummer, hvis det foreligger.
+
+Opplysninger som er nødvendige for å sikre full sporbarhet etter denne bestemmelsen, skal oppbevares i minst 30 år.
+
+### § 3-2. Dokumentasjon og registrering i pasientjournal
+
+Enhver transfusjon av blod og blodkomponenter skal dokumenteres i pasientens journal i samsvar med forskrift om pasientjournal. I tillegg registreres tidspunktet for transfusjonen og identifikasjon av hver enkelt blodenhet eller blodkomponent.
+
+### § 3-3. Hemovigilanssystemet
+
+For å få en oversikt over alvorlige bivirkninger og alvorlige uønskede hendelser hos blodmottakere og blodgivere, skal det etableres et nasjonalt register, hemovigilanssystemet.
+
+Formålet med hemovigilanssystemet er å samle inn og behandle data fra blodbanker og tranfusjonsenheter om alvorlige bivirkninger og alvorlige uønskede hendelser for å:gi grunnlag for overvåking av transfusjonstjenestengi grunnlag for kvalitetssikring, utvikling og overordnet styring av transfusjonstjenestenunderstøtte sporbarhetssystemet og plikten til å trekke tilbake blod og blodkomponenter som kan forbindes med alvorlige bivirkninger og/eller alvorlige uønskede hendelser.
+
+Direktoratet for medisinske produkter er dataansvarlig for hemovigilanssystemet.
+
+> Endret ved [forskrifter 26 okt 2012 nr. 991](forskrift/2012-10-26-991), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 3-4. Dokumentasjons- og meldeplikt om alvorlige bivirkninger hos mottaker av blod og blodkomponenter
+
+Institusjoner skal straks melde mistanke om alvorlige bivirkninger hos mottaker under eller etter transfusjonen som kan tilskrives blodets eller blodkomponentens kvalitet eller sikkerhet til blodbanken, eller om feil blod eller blodkomponent er transfundert.
+
+Blodbanken skal kontrollere opplysningene straks de er mottatt og melde dem videre til hemovigilanssystemet. Meldingen om opplysningene skal skje på særskilt skjema fastsatt av Direktoratet for medisinske produkter, jf. vedlegg IV, del A, B og C. Direktoratet for medisinske produkter kan bestemme at innrapporteringen skal skje elektronisk i henhold til fastsatte standarder.
+
+Helseforetak eller annet rettssubjekt som er ansvarlig for virksomhet som nevnt i første og annet ledd har ansvar for at pliktene som nevnt oppfylles og skal sørge for at det finnes rutiner som sikrer dette.
+
+> Endret ved [forskrifter 16 des 2011 nr. 1396](forskrift/2011-12-16-1396) (i kraft 1 jan 2012), [26 okt 2012 nr. 991](forskrift/2012-10-26-991), [16 feb 2018 nr. 231](forskrift/2018-02-16-231), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 3-5. Dokumentasjons- og meldeplikt om alvorlige uønskede hendelser som kan påvirke kvaliteten og sikkerheten ved blod og blodkomponenter
+
+Blodbanker og transfusjonsenheter skal sørge for at alvorlige uønskede hendelser i forbindelse med tapping, testing, prosessering, oppbevaring, distribusjon og transfusjon av blod, som kan tilskrives blod eller blodkomponenters kvalitet og sikkerhet registreres.
+
+For å identifisere årsaker som kan forhindre slike hendelser skal hendelsene snarest etterforskes, samt korrigeres for å redusere risikoen for nye hendelser. Hendelsene skal deretter meldes til hemovigilanssystemet på særskilt skjema fastsatt av Direktoratet for medisinske produkter, jf. vedlegg V del B. Direktoratet for medisinske produkter kan bestemme at innrapporteringen skal skje elektronisk i henhold til fastsatte standarder.
+
+Dersom alvorlige uønskede hendelser kan utgjøre en fare for andre givere og/eller mottakere enn dem som er direkte berørt av hendelsen, skal blodbanken straks melde hendelsen til hemovigilanssystemet, i forkant av melding beskrevet i annet ledd i henhold til vedlegg V del A.
+
+Helseforetak eller annet rettssubjekt som er ansvarlig for virksomhet som nevnt i første og annet ledd har ansvar for at pliktene som nevnt i denne bestemmelsen oppfylles og skal sørge for at det finnes rutiner som sikrer dette.
+
+> Endret ved [forskrifter 16 des 2011 nr. 1396](forskrift/2011-12-16-1396) (i kraft 1 jan 2012), [26 okt 2012 nr. 991](forskrift/2012-10-26-991), [16 feb 2018 nr. 231](forskrift/2018-02-16-231), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 3-6. Årlig rapportering til hemovigilanssystemet
+
+Blodbanker skal en gang per år rapportere det samlede antall alvorlige bivirkninger og alvorlige uønskede hendelser til hemovigilanssystemet. Det skal rapporters i samsvar med krav fastsatt i vedlegg IV del D og vedlegg V del C.
+
+### § 3-7. Tilbaketrekking av blod og blodkomponenter
+
+Blodbanken skal umiddelbart trekke tilbake blod og blodkomponenter som kan forbindes med en alvorlig bivirkning som nevnt i [§ 3-4](forskrift/2005-02-04-80/§3-4), eller en alvorlig uønsket hendelse som nevnt i [§ 3-5](forskrift/2005-02-04-80/§3-5). Blodbanken skal videre beskrive hvilke tiltak som er truffet med hensyn til andre berørte blodkomponenter som har blitt utlevert til transfusjon eller bruk som plasma for fraksjonering.
+
+### § 3-8. Utvelgelse av blodgivere
+
+Blodbanker skal ha evalueringsprosedyrer for å sikre at mulige blodgivere er egnet til å gi blod eller blodkomponenter, jf. utvelgelseskriteriene i vedlegg I. Resultatene fra slik evaluering skal dokumenteres, og det skal gis informasjon om ethvert relevant unormalt funn til blodgiveren. Evalueringen skal gjennomføres ved hjelp av et godkjent spørreskjema og personlig intervju.
+
+Før enhver tapping av blod eller blodkomponenter skal det gjennomføres en medisinsk vurdering av blodgiveren, inkludert et intervju. Undersøkelsen skal utføres av kvalifisert helsepersonell, som også skal ta stilling til om vedkommende er egnet til å gi blod eller blodkomponenter. Det vises til vedlegg VI.
+
+### § 3-9. Testing av blodgiverblod og plasma
+
+Blodbanker skal teste avgitt blod og blodkomponenter for blodtype og infeksjoner i samsvar med kravene i bestemmelsen her og vedlegg VI.
+
+Det skal foretas følgende testing av blod og aferesetappinger, herunder predeponerte tappinger til autotransfusjon:ABO-type (kreves ikke ved plasma som bare er beregnet til fraksjonering)RhD-type (kreves ikke ved plasma som bare er beregnet til fraksjonering)Testing for følgende infeksjoner hos blodgiverne:Hepatitt B (HbsAg)Hepatitt C (Anti-HCV)Hiv-1/2 (Anti-hiv 1/2).
+
+Det kan kreves ytterligere testing av spesifikke komponenter eller blodgivere eller i spesielle epidemiologiske situasjoner.
+
+Blod og blodkomponenter som innføres til Norge, skal være testet for blodtype og infeksjoner i samsvar med kravene i bestemmelsen her.
+
+### § 3-10. Kvalitets- og sikkerhetskrav for blod og blodkomponenter
+
+Blodbanker skal sørge for at blod og blodkomponenter tilfredsstiller kravene til kvalitet og sikkerhet i vedlegg II og VI.
+
+### § 3-11. Innførsel av blod og blodkomponenter
+
+Kravene til sporbarhet i [§ 3-1](forskrift/2005-02-04-80/§3-1) første og annet ledd gjelder for blod og blodkomponenter som blodbanker eller transfusjonsenheter innfører fra et land utenfor EØS-området.
+
+Kravene til meldinger til hemovigilanssystemet om alvorlige bivirkninger og alvorlige uønskede hendelser etter [§ 3-4](forskrift/2005-02-04-80/§3-4) og [§ 3-5](forskrift/2005-02-04-80/§3-5) og vedleggene IV og V, gjelder for blod og blodkomponenter som blodbanker og transfusjonsenheter innfører fra et land utenfor EØS-området.
+
+Kravene i vedlegg VI om standarder og spesifikasjoner til kvalitetsstyringssystem i blodbanker gjelder for blod og blodkomponenter som blodbanker eller transfusjonsenheter innfører fra et land utenfor EØS-området.
+
+### § 3-12. Merking, oppbevaring, distribusjon og utlevering av blod og blodkomponenter
+
+Blod og blodkomponenter skal merkes i samsvar med kravene i denne bestemmelsen og oppbevares i samsvar med kravene i vedlegg III.
+
+Blodkomponenter skal merkes med følgende opplysninger:komponentens offisielle navnmengde vekt/volum eller antall celler i komponenten (avhengig av hva som er relevant)entydig numerisk eller alfanumerisk identifikasjon av tappingenblodbankens navnABO-type (kreves ikke for plasma som bare er beregnet til fraksjonering)RhD-type, enten RhD positiv eller RhD negativ (kreves ikke for plasma som bare er beregnet til fraksjonering)utløpsdato eller tidspunkt (avhengig av hva som er relevant)oppbevaringstemperaturnavn, sammensetning og volum på eventuelt antikoagulerende middel og/eller tilsetningsløsning.Merking av blod og blodkomponenter skal inngå som en del av identifikasjonssystemet etter [§ 3-1](forskrift/2005-02-04-80/§3-1) annet ledd. For blod og blodkomponenter for autolog transfusjon skal etiketten være forsynt med en identifikasjon av blodgiveren og advarselen «Kun til autolog transfusjon».
+
+Distribusjon og utlevering av blod og blodkomponenter skal i alle ledd i transfusjonskjeden foregå under slike forhold at produktets integritet og kvalitet bevares.
+
+Blod og blodkomponenter for autologe transfusjoner skal oppbevares, distribueres og utleveres atskilt fra blod og blodkomponenter for allogen transfusjon.
+
+## Kapittel 4. Informasjon til blodgivere og behandling av helseopplysninger i blodgiverregistre
+
+### § 4-1. Etablering av blodgiverregistre og formål
+
+Blodbanker skal føre registre over blodgivere og helseopplysninger for disse (blodgiverregister).
+
+Formålet med blodgiverregistrene er å samle inn og innenfor forskriftens rammer behandle opplysninger om blod og blodgivere i Norge for å nå formålene som nevnt i [§ 1-1](forskrift/2005-02-04-80/§1-1), herunder bidra til å sikre sporbarhet fra blodgiver til blodmottaker og omvendt.
+
+### § 4-2. Forbud mot bruk
+
+Opplysninger i blodgiverregistre kan ikke anvendes til formål som er uforenlige med formål som følger av [§ 4-1](forskrift/2005-02-04-80/§4-1), jf. [§ 1-1](forskrift/2005-02-04-80/§1-1).
+
+Opplysninger om enkeltindivider som er framkommet ved behandling av helseopplysninger etter denne forskriften, kan ikke brukes i forsikringsøyemed, selv om den registrerte samtykker.
+
+### § 4-3. Dataansvarlig og databehandler
+
+Helseforetaket er dataansvarlig for de enkelte blodgiverregistre som er tilknyttet et helseforetak.
+
+I blodbanker som ikke er tilknyttet et helseforetak, er virksomheten dataansvarlig, jf. [§ 2-1](forskrift/2005-02-04-80/§2-1).
+
+Dataansvarlig kan inngå skriftlig avtale med en databehandler om behandling av helseopplysninger i registeret.
+
+> Endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+### § 4-4. Generell informasjon til blodgivere
+
+Blodbanker skal sørge for at mulige blodgivere får informasjon om:Blodets grunnleggende egenskaper, prosedyrene i forbindelse med blodgivning, de komponenter som framstilles på basis av blod og aferesetappinger og de store fordeler blodgivning har for pasienter.Årsakene til at det skal foretas en klinisk vurdering, gis opplysninger om helse- og sykdomsforhold og gjennomføres testing av giverblod. Ved allogene donasjoner skal blodgiveren informeres om utvelgelseskriteriene for blodgivere. For autologe donasjoner skal det opplyses om muligheten for utelukkelse og årsakene til at prosedyren ikke vil finne sted når det kan innebære helserisiko for den berørte, enten som blodgiver eller som autolog mottaker av blod eller blodkomponenter. Det skal opplyses om betydningen av informert samtykke.Behandling av opplysninger i blodgiverregistre, herunder beskyttelse av helseopplysninger, jf. [§ 4-6](forskrift/2005-02-04-80/§4-6).Muligheten for å trekke seg eller avstå fra å gi blod når som helst i prosessen.I hvilke situasjoner personer skal avstå fra å gi blod, fordi det kan være skadelig for blodgiverens egen helse.Årsakene til at det er viktig at blodgivere opplyser blodbanken om forhold som kan gjøre tidligere tappinger uegnet til transfusjon.At blodbanken er forpliktet til å informere blodgiveren på en hensiktsmessig måte, hvis testresultater kan tyde på at blodgiveren er syk.At testresultater som avslører markører for vira som for eksempel Hiv, HBV, HVC og andre relevante mikrobiologiske agenser, som kan overføres gjennom blodet, vil medføre at blodgiveren utelukkes, og at den tappede enhet destrueres.At blodgivere har mulighet til å stille spørsmål på et hvilket som helst tidspunkt.
+
+Ved autologe donasjoner skal blodgivere, i tillegg til informasjonen i første ledd, få informasjon om:Muligheten for at blod og blodkomponenter ikke vil dekke behov i forbindelse med påtenkt transfusjon.Årsakene til at ubrukt autologt blod og ubrukte autologe blodkomponenter kasseres og ikke anvendes i forbindelse med transfusjon til andre blodmottakere.
+
+### § 4-5. Registrering av opplysninger i blodgiverregistre
+
+Blodgiverregistre skal med samtykke fra blodgiveren inneholde følgende opplysninger om personer som ønsker å gi, gir eller har gitt blod:personopplysninger:navn, fødselsnummeradresse, bostedskommunesporbarhetskodeadministrative opplysninger:blodbankens navndato for blodgivningdato for samtykkeerklæringmedisinske opplysninger:opplysninger om helsetilstand, herunder diagnoser, sykdommer, legemiddelbruk mv.opplysninger om blodet (resultater av tester som nevnt i [§ 3-9](forskrift/2005-02-04-80/§3-9) annet ledd, resultater av blodtypeserologiske og virusserologiske undersøkelser, samt biokjemiske prøvesvar som er relevante i forhold til de ulike blodkomponenter)opplysninger om vurdering av hvorvidt blodgiveren kan gi og eventuelt har gitt blodopplysninger som framgår av utfylt spørreskjema, jf. [§ 3-8](forskrift/2005-02-04-80/§3-8).
+
+### § 4-6. Behandling av helseopplysninger i blodgiverregistre
+
+Behandling av helseopplysninger kan skje manuelt eller ved hjelp av elektroniske hjelpemidler.
+
+Innenfor formålene i [§ 4-1](forskrift/2005-02-04-80/§4-1) og [§ 1-1](forskrift/2005-02-04-80/§1-1) kan opplysninger fra blodgiverregistre benyttes til utarbeiding av statistikk.
+
+Opplysninger som nevnt i [§ 4-5](forskrift/2005-02-04-80/§4-5) kan bare behandles dersom det er adgang til å behandle opplysningene etter denne forskriften, etter den registrertes samtykke, etter vedtak om dispensasjon fra taushetsplikten, eller på andre grunnlag i samsvar med reglene om taushetsplikt og personvernforordningen artikkel 6 og 9.
+
+> Endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+### § 4-7. Informasjonssikkerhet
+
+Dataansvarlig og databehandler skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32.
+
+> Endret ved [forskrifter 16 feb 2018 nr. 231](forskrift/2018-02-16-231), [15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+### § 4-8. Taushetsplikt
+
+Enhver som behandler helseopplysninger etter denne forskriften, har taushetsplikt etter [pasientjournalloven § 15](lov/2014-06-20-42/§15).
+
+Taushetsplikten etter første ledd gjelder også blodgiverens fødselsdato, personnummer, adresse, bostedskommune og sporbarhetskode.
+
+> Endret ved [forskrift 16 feb 2018 nr. 231](forskrift/2018-02-16-231).
+
+### § 4-9. Oppbevaring av helseopplysninger, retting, sletting og sperring av opplysninger
+
+Helseopplysninger som er innsamlet til blodgiverregistre, skal oppbevares i minst 30 år, med mindre annet følger av denne forskriften eller [pasientjournalloven § 25](lov/2014-06-20-42/§25).
+
+Opplysninger i registeret kan ikke kreves slettet i medhold av [helsepersonelloven § 43](lov/1999-07-02-64/§43) og [pasientjournalloven § 25](lov/2014-06-20-42/§25) med mindre blod og blodkomponenter samtidig tas ut av blodbanken. Sletting eller sperring av opplysninger kan ikke kreves når blod eller blodkomponenter er brukt.
+
+> Endret ved [forskrift 16 feb 2018 nr. 231](forskrift/2018-02-16-231).
+
+## Kapittel 5. Avsluttende bestemmelser
+
+### § 5-1. Tilsyn
+
+Direktoratet for medisinske produkter fører tilsyn med tapping, testing, prosessering, oppbevaring og distribusjon av blod og blodkomponenter til bruk i fraksjonering, samt blodkomponenter til transfusjon fram til disse er frigitt for bruk og fatter de nødvendige vedtak, jf. [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler [§ 28](lov/1992-12-04-132/§28).
+
+Statens helsetilsyn fører innenfor sitt ansvarsområde tilsyn med tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av blod og blodkomponenter til bruk i fraksjonering, samt blodkomponenter til transfusjon fram til disse er frigitt for bruk, og med blodkomponenter frigitt til transfusjon og fatter de nødvendige vedtak, jf. [lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)](lov/2017-12-15-107).
+
+Tilsyn med blodbanker skal gjennomføres jevnlig og minst hvert annet år.
+
+> Endret ved forskrifter [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [24 sep 2021 nr. 2844](forskrift/2021-09-24-2844), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 5-2. Tilsynsmyndighetenes adgang til dokumentasjon
+
+Tilsynsmyndighetene kan kreve de opplysninger som trengs for å gjennomføre sine oppgaver.
+
+Tilsynsmyndighetene kan som ledd i sin kontroll kreve adgang til alle steder i virksomheten der blod og blodkomponenter tappes, testes, prosesseres, oppbevares og distribueres. Tilsynsmyndighetene kan gjennomføre de prøver eller kontroller som de finner nødvendig, og kreve bistand fra personale på stedet i den grad dette er nødvendig for å få utført prøvene eller kontrollene.
+
+Retten til å kreve opplysninger eller tilgang til lokaler og utstyr i henhold til første ledd gjelder uten hinder av taushetsplikt. Tilsynsmyndighetene har taushetsplikt om opplysningene de mottar etter denne bestemmelsen i henhold til gjeldende bestemmelser om taushetsplikt.
+
+### § 5-3. Dispensasjon
+
+Direktoratet for medisinske produkter kan i særskilte tilfeller gi dispensasjon fra denne forskriften og sette vilkår for eventuell dispensasjon. Slikt vedtak må ikke stride mot forpliktelser som følger av EØS-avtalen.
+
+> Endret ved [forskrifter 26 okt 2012 nr. 991](forskrift/2012-10-26-991), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 5-4. Klage
+
+Vedtak truffet av Direktoratet for medisinske produkter etter § 2-1, § 5-1 første ledd og § 5-3 og vedtak truffet av Statens helsetilsyn etter § 5-1 annet ledd, kan påklages til departementet.
+
+> Endret ved [forskrifter 26 okt 2012 nr. 991](forskrift/2012-10-26-991), [20 des 2023 nr. 2165](forskrift/2023-12-20-2165) (i kraft 1 jan 2024).
+
+### § 5-5. Straff
+
+Overtredelse av denne forskrift eller vedtak truffet med hjemmel i forskriften straffes etter bestemmelsene i [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler [§ 31](lov/1992-12-04-132/§31), [lov 5. august 1994 nr. 55](lov/1994-08-05-55) om vern mot smittsomme sykdommer [§ 8-1](lov/1994-08-05-55/§8-1), [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. [§ 67](lov/1999-07-02-64/§67) og [lov 21. februar 2003 nr. 12](lov/2003-02-21-12) om biobanker [§ 18](lov/2003-02-21-12/§18) annet ledd.
+
+> Endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+### § 5-6. Endringer
+
+Departementet kan foreta endringer i denne forskrift så langt departementet har hjemmel i hjemmelslovene.
+
+### § 5-7. Ikrafttredelse og overgangsordninger
+
+Forskriften trer i kraft 8. februar 2005.
+
+Blodbanker som var etablert før forskriftens ikrafttredelse, skal tilpasse seg forskriftens krav innen 8. november 2005.
+
+## Vedlegg I – Kriterier for utvelgelse av blodgivere, jf. § 3-8
+
+Unntaksvis kan en kvalifisert person ved blodbanken gi tillatelse til enkelte donasjoner fra blodgivere som ikke oppfyller nedenstående betingelser. Alle slike situasjoner skal dokumenteres klart og være i overensstemmelse med forskriftens [§ 2-4](forskrift/2005-02-04-80/§2-4) og [§ 2-5](forskrift/2005-02-04-80/§2-5). Nedenstående betingelser gjelder ikke ved autologe donasjoner.
+
+De med en stjerne (*) merkede tester og utelukkelsesperioder er ikke påkrevet, hvis tappingen utelukkende anvendes til plasma beregnet til fraksjonering.
+
+Utelukkelsesperiodens varighet:Etter en infeksjonssykdom bør mulige blodgivere utelukkes i minst to uker etter full klinisk helbredelse.
+
+Imidlertid gjelder nedenstående utelukkelsesperioder for de i tabellen anførte infeksjoner:Brucellose*2 år etter datoen for full klinisk helbredelseOsteomyelitis2 år etter datoen for bekreftet helbredelseQ-feber*2 år etter datoen for bekreftet helbredelseSyfilis*1 år etter datoen for bekreftet helbredelseToxoplasmose*6 måneder etter datoen for klinisk helbredelseTuberkulose2 år etter datoen for bekreftet helbredelseGiktfeber2 år etter datoen for symptomenes opphør, hvis der ikke er tegn på en kronisk hjertelidelseFeber > 38 °C2 uker etter datoen for symptomenes opphørInfluensalignende sykdom2 uker etter datoen for symptomenes opphørMalaria*– personer som i løpet av de første fem leveår har bodd i et malariaområde3 år etter hjemkomst fra det siste besøk i endemisk område, forutsatt at vedkommende fortsatt er symptomfri; utelukkelsesperioden kan nedsettes til 4 måneder, hvis en immunologisk eller molekylær genomisk test er negativ ved hver tapping– asymptomatiske personer, som har vært i et endemisk område6 måneder etter avreise fra det endemiske område, med mindre det foreligger en negativ immunologisk eller molekylær genomisk testVestnilvirus*28 dager etter å ha forlatt et område med risiko for overføring av vestnilvirus, med mindre en individuell nukleinsyretest (NAT) er negativ
+
+> Endret ved [forskrifter 28 nov 2014 nr. 1488](forskrift/2014-11-28-1488), [11 des 2015 nr. 1444](forskrift/2015-12-11-1444) (i kraft 1 jan 2016).
+
+## Vedlegg II – Kvalitets- og sikkerhetskrav for blod og blodkomponenter, jf. § 3-10
+
+Kvalitets- og sikkerhetsvurdering av nye blodkomponenter må gjennomføres av Helsedirektoratet.
+
+Blodkomponenter som er omtalt i EUs bloddirektiv, men ikke i denne forskriften kan bare brukes etter særskilt godkjenning fra Helsedirektoratet.
+
+> Vedlegg II endret ved [forskrift 26 okt 2012 nr. 991](forskrift/2012-10-26-991).
+
+## Vedlegg III – Oppbevaring av blod og blodkomponenter, jf. § 3-12
+
+## Vedlegg IV – Melding om alvorlige bivirkninger, jf. § 3-4
+
+### DEL A – Hurtigmeldingsformat for mistenkte alvorlige bivirkninger
+
+- fullblod
+- røde blodlegemer
+- blodplater
+- plasma
+- annet (presiser).
+
+- Immunologisk betinget hemolyse som skyldes ABO-uforlikelighet
+- Immunologisk betinget hemolyse som skyldes annet allo-antistoff
+- Ikke-immunologisk betinget hemolyse
+- Transfusjonsoverført bakterieinfeksjon
+- Anafylaksi/overfølsomhet
+- Transfusjonsrelatert akutt lungeskade (TRALI)
+- Transfusjonsoverført virusinfeksjon (HBV)
+- Transfusjonsoverført virusinfeksjon (HCV)
+- Transfusjonsoverført virusinfeksjon (hiv-1/2)
+- Transfusjonsoverført virusinfeksjon, annet (presiser)
+- Transfusjonsoverført parasittinfeksjon (malaria)
+- Transfusjonsoverført parasittinfeksjon, annet (presiser)
+- Post-transfusjons purpura
+- Transplantat-mot-vert-reaksjon
+- Annen/andre alvorlig(e) reaksjon(er) (presiser).
+
+### DEL B – Alvorlige bivirkninger – skala for årsakssammenheng
+
+### DEL C – Bekreftelsesformat for alvorlige bivirkninger
+
+- Full helbredelse
+- Lett sekvele
+- Alvorlig sekvele
+- Dødsfall.
+
+### DEL D – Format for årlig rapport om alvorlige bivirkninger
+
+## Vedlegg V – Melding om alvorlige uønskede hendelser, jf. § 3-5
+
+### DEL A – Hurtigmeldingsformat for alvorlige uønskede hendelser
+
+### DEL B – Bekreftelsesformat for alvorlige uønskede hendelser
+
+### DEL C – Format for årlig rapport om alvorlige uønskede hendelser
+
+## Vedlegg VI – Standarder og spesifikasjoner til et kvalitetsstyringssystem, jf. § 2-4
+
+> Endret ved forskrift [9 mai 2021 nr. 1502](forskrift/2021-05-09-1502) (i kraft 26 mai 2021).
+
+KvalitetsstyringssystemAnsvaret for kvaliteten påhviler alle personer som deltar i blodbankens prosesser, under en ledelse som sørger for en systematisk tilnærming til kvalitet, gjennomføring og vedlikehold av kvalitetsstyringssystemet.Kvalitetsstyringssystemet omfatter kvalitetsstyring, kvalitetssikring, fortløpende kvalitetsforbedring, personale, lokaler og utstyr, dokumentasjon, tapping, testing og prosessering, oppbevaring, distribusjon, utlevering, kvalitetskontroll, tilbakekalling av blodkomponenter og ekstern og intern revisjon, kontraktshåndtering, håndtering av avvik og egeninspeksjon.Kvalitetsstyringssystemet skal sikre at alle kritiske prosesser er spesifisert i egnede instruksjoner og utføres i samsvar med standardene og spesifikasjonene i dette vedlegget. Ledelsen skal med jevne mellomrom gjennomgå systemet for å kontrollere at det er effektivt, og om nødvendig innføre korrigerende tiltak.
+
+KvalitetssikringAlle blodbanker og transfusjonsenheter skal i sitt kvalitetssikringsarbeid bli støttet av et kvalitetssikringsorgan, som kan være internt eller eksternt. Dette organet skal medvirke i alle kvalitetsrelaterte spørsmål og gjennomgå og godkjenne alle relevante kvalitetsrelaterte dokumenter.Alle prosedyrer, lokaler og alt utstyr som innvirker på kvaliteten og sikkerheten til blod og blodkomponenter, skal valideres før de tas i bruk og valideres på nytt med jevne mellomrom som følge av valideringsresultatene.
+
+1. Det skal være tilstrekkelig personale hos blodbanker til å utføre aktiviteter knyttet til tapping, kontroll, oppbevaring, distribusjon og utlevering av blod og blodkomponenter, og personalet skal være utdannet og vurdert som kompetent til å utføre sine oppgaver.
+2. Alt personale hos blodbanker skal ha ajourførte stillingsbeskrivelser som klart beskriver deres oppgaver og ansvar. Blodbanker skal pålegge ansvaret for produksjon og kvalitetssikring på forskjellige enkeltpersoner som utfører sine oppgaver uavhengig av hverandre.
+3. Alt personale hos blodbanker skal gjennomgå grunnleggende og videregående opplæring tilpasset deres bestemte arbeidsoppgaver. Opplæringen skal dokumenteres. Det skal foreligge opplæringsprogrammer som også omfatter god praksis.
+4. Innholdet i opplæringsprogrammene skal vurderes regelmessig, og personalets kompetanse skal evalueres regelmessig.
+5. Det skal foreligge skriftlige sikkerhets- og hygieneinstrukser som er tilpasset de aktiviteter som utføres, og som er i samsvar med [lov 17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) og [forskrift 19. desember 1997 nr. 1322](forskrift/1997-12-19-1322) om vern mot eksponering for biologiske faktorer (bakterier, virus, sopp m.m.) på arbeidsplassen.
+
+Allment
+
+Lokaler, herunder mobile enheter, skal innrettes og vedlikeholdes på en slik måte at de egner seg til de aktiviteter som utføres. De skal gjøre det mulig å utføre arbeidet i logisk rekkefølge, slik at risikoen for feil blir minst mulig og effektivt renhold og vedlikehold muliggjøres, så det blir minst mulig fare for kontaminering.
+
+Blodgiverområde
+
+Det skal være et område til fortrolige personlige intervjuer med og vurdering av enkeltpersoner for å vurdere deres egnethet som blodgivere. Dette området skal være atskilt fra alle andre behandlingsområder.
+
+Blodtappingsområde
+
+Blodtapping skal utføres i et område som er beregnet på sikker tapping av blod fra blodgivere, riktig utstyrt for første behandling av blodgivere som får bivirkninger eller skader av hendelser knyttet til blodgivning, og organisert på en slik måte at sikkerheten til både blodgivere og personale sikres og det unngås feil under tappingen.
+
+Områder for testing og behandling av blod
+
+Det skal være et eget laboratorieområde for testing som er atskilt fra blodgiveren og området for behandling av blodkomponenter, og med tilgang begrenset til godkjent personale.
+
+OppbevaringsområdeOppbevaringsområdene skal muliggjøre sikker og atskilt oppbevaring av forskjellige kategorier av blod og blodkomponenter og materialer, herunder materialer i karantene og materialer frigitt fra karantene samt blodenheter eller blodkomponenter som er tappet etter særlige kriterier (f.eks. autolog tapping).Det skal treffes forholdsregler i tilfelle utstyrsfeil eller strømbrudd i de viktigste oppbevaringsområdene.
+
+Område for disponering av avfall
+
+Det skal være et område for sikker disponering av avfall, engangsmaterialer som brukes ved tapping, testing og behandling, og for blod eller blodkomponenter som kasseres.
+
+1. Alt utstyr skal valideres, kalibreres og vedlikeholdes så det egner seg til det tiltenkte formål. Bruksanvisninger skal foreligge og relevant dokumentasjon arkiveres.
+2. Utstyret skal velges slik at faren for blodgivere, personale eller blodkomponenter blir minst mulig.
+3. Bare reagenser og materialer fra godkjente leverandører som oppfyller kravene og spesikikasjonene, skal brukes. Kritiske materialer skal frigis av en person som er kvalifisert til å utføre denne oppgaven. Dersom det er relevant, skal materialer reagenser og utstyr oppfylle kravene i [forskrift 9. mai 2021 nr. 1476](forskrift/2021-05-09-1476) om medisinsk utstyr.
+4. Det skal oppbevares fortegnelse over inventaret og utstyr i et tidsrom som er godtatt av og avtalt med kompetent myndighet.
+5. Dersom det anvendes IT-baserte systemer, skal programvare, maskinvare og prosedyrer for sikkerhetskopiering kontrolleres regelmessig for å sikre pålitelighet, valideres før bruk og vedlikeholdes i validert tilstand. Maskinvare og programvare skal beskyttes mot uautorisert bruk og uautoriserte endringer. Prosedyren for sikkerhetskopiering skal forhindre tap av eller skade på data ved forventet eller uventet driftsstans eller funksjonsfeil.
+
+1. Dokumenter med spesifikasjoner, prosedyrer og registre over alle aktiviteter utført ved blodbanken skal foreligge og holdes ajour.
+2. Registrene skal være leselige og kan være håndskrevne, overført til et annet medium som for eksempel mikrofilm eller dokumentert i et IT-basert system.
+3. Alle betydelige endringer i dokumenter skal behandles umiddelbart, og de skal gjennomgås, dateres og undertegnes av en person med myndighet til å utføre denne oppgaven.
+
+Blodgiverens egnethetDet skal innføres og vedlikeholdes prosedyrer for sikker identifikasjon av blodgivere, egnethetssamtaler og egnethetsvurdering. De skal finne sted før hver tapping og skal oppfylle kravene i § 4-4 og vedlegg I i forskriften.Blodgiverintervjuet skal utføres på en slik måte at det sikres fortrolighet.Blodgiverens egnethet og endelige vurdering skal undertegnes av kvalifisert helsepersonale.
+
+Tapping av blod og blodkomponenterProsedyren for blodtapping skal utformes slik at blodgiverens identitet kontrolleres og registreres på en sikker måte, og at forbindelsen mellom blodgiveren og blodet, blodkomponentene og blodprøvene kan fastslås klart.Systemet med sterile blodposer brukes til tapping av blod og blodkomponenter, og behandling av dem skal være CE-merket eller overholde tilsvarende standarder dersom blodet og blodkomponentene tappes i tredjestater. Blodposens lotnummer skal kunne spores for hver blodkomponent.Prosedyrene for tapping av blod skal minimere risikoen for mikrobiell kontaminering.Laboratorieprøver skal tas i forbindelse med tappingen og skal oppbevares på riktig måte før testingen utføres.Prosedyren som benyttes for merking av dokumentasjon, blodposer og laboratorieprøver med tappenummer, skal være slik at risikoen for identifikasjonsfeil og forveksling unngås.Etter tapping skal blodposene håndteres på en slik måte at blodets kvalitet ivaretas, og ved en oppbevarings- og transporttemperatur som passer for krav til videre behandling.Det skal være et system som sikrer at hver tapping kan knyttes til det tappe- og fraksjoneringssystemet der blodet tappes og/ eller behandles.
+
+LaboratorieundersøkelserAlle prosedyrer for laboratorieundersøkelser skal valideres før bruk.Hver tapping skal kontrolleres i samsvar med kravene fastsatt i § 3-1 annet ledd i forskriften.Det skal være klart definerte prosedyrer for å oppklare tilfeller av avvikende resultater og sikre at blod og blodkomponenter som har et gjentatt reaktivt resultat i en serologisk kartlegging av infeksjon med viraene nevnt i vedlegg IV til forskriften, utelukkes fra terapeutisk bruk og oppbevares atskilt i et dertil avsett miljø. Det skal utføres tilfredsstillende bekreftende undersøkelser. Ved bekreftet positive resultater skal det treffes relevante forholdsregler med hensyn til giverhåndtering, herunder rådgiving til og oppfølging av blodgiver.Det skal foreligge data som bekrefter egnetheten til alle laboratoriereagenser som brukes ved testing av blod og blodkomponenter.Kvaliteten til laboratorieundersøkelsene skal vurderes regelmessig ved deltaking i et formelt system for prestasjonsprøving, for eksempel et eksternt kvalitetssikringsprogram.Blodtypeserologiske undersøkelser skal omfatte prosedyrer for testing av bestemte grupper av blodgivere (f.eks. førstegangsgivere, givere med en historie av blodoverføring).
+
+Behandling og valideringAlt av utstyr og tekniske innretninger skal brukes i samsvar med validerte prosedyrer.Behandlingen av blodkomponenter skal utføres etter egnede og validerte prosedyrer, herunder tiltak for å unngå risiko for kontaminering og vekst av mikrober.
+
+MerkingAlle beholdere skal på alle stadier være merket med relevante identitetsopplysninger. Dersom det ikke finnes et validert IT-basert system for statuskontroll, skal merkingen klart skille mellom frigitte og ikke-frigitte enheter med blod og blodkomponenter.Merkingssystemet for det tappede blodet, blodkomponenter på mellomstadiet og ferdige blodkomponenter og prøver skal entydig identifisere typen innhold og oppfylle merkings- og sporbarhetskravene omhandlet i § 3-1 og § 3-2 i forskriften. Etiketten for en ferdig blodkomponent skal oppfylle kravene i § 3-12 annet ledd i forskriften.For autologt blod og autologe blodkomponenter skal etiketten også overholde § 3-12 og tilleggskravene for autologe tappinger i vedlegg II i forskriften.
+
+Frigivelse av blod og blodkomponenterDet skal være et sikkert system som hindrer at hver blodenhet eller blodkomponent frigis før alle obligatoriske krav omhandlet i denne forskriften er oppfylt. Hver blodbank skal kunne påvise at hver blodenhet eller blodkomponent er formelt frigitt av en autorisert person. Registre skal før hver blodkomponent frigis, dokumentere at alle aktuelle erklæringsskjemaer, relevante journaler og testresultater oppfyller alle kriterier for godkjenning.Før frigivelse skal blod og blodkomponenter holdes administrativt og fysisk atskilt fra frigitt(e) blod og blodkomponenter. I mangel av et validert IT-basert system for statuskontroll skal etiketten på en blodenhet eller blodkomponent identifisere frigivelsesstatus i samsvar med punkt 6.5.1.Dersom den endelige komponenten ikke blir frigitt på grunn av bekreftet positivt resultat av en infeksjonstest, skal det i samsvar med kravene i punkt 6.3.2 og 6.3.3 utføres en kontroll for å sikre at andre komponenter fra samme tapping og komponenter tilberedt fra tidligere tappinger fra samme blodgiver identifiseres. Blodgiverregisteret skal ajourføres umiddelbart.
+
+1. Blodbankens kvalitetsstyringssystem skal for blod og blodkomponenter beregnet på framstilling av legemidler sikre at oppbevarings- og distribusjonskravene er i samsvar med § 3-12 og vedlegg III i forskriften.
+2. Prosedyrer for oppbevaring og distribusjon skal valideres for å sikre kvaliteten til blod og blodkomponenter under hele oppbevaringsperioden og utelukke forveksling av blodkomponenter. Alle transport- og oppbevaringsaktiviteter, herunder mottak og distribusjon, skal defineres ved skriftlige prosedyrer og spesifikasjoner.
+3. Autologt blod og autologe blodkomponenter samt blodkomponenter tappet og tilberedt for bestemte formål skal oppbevares atskilt.
+4. Det skal føres hensiktsmessige fortegnelser over lagerinnhold og distribusjon.
+5. Emballasjen skal beskytte blodets og blodkomponentene mot skade og sikre at oppbevaringstemperaturen under distribusjon og transport opprettholdes.
+6. Tilbakelevering av blod og blodkomponenter til lager for senere utlevering skal godtas bare dersom alle kvalitetskrav og prosedyrer fastsatt av blodbanken for å sikre blodkomponentenes integritet er oppfylt.
+
+Oppgaver som utføres eksternt, skal defineres i en egen skriftlig kontrakt.
+
+Avvik
+
+Blodkomponenter som avviker fra standardene fastsatt i vedlegg II i forskriften, skal frigis for overføring bare under særlige omstendigheter og etter skriftlig avtale med ordinerende lege og blodbankens lege.
+
+Klager
+
+Alle klager og andre opplysninger, herunder alvorlige bivirkninger og alvorlige uønskede hendelser, som kan tyde på at det er utlevert blodkomponenter med feil, skal dokumenteres og omhyggelig etterforskes med sikte på å fastslå årsakene til feilen. Om nødvendig skal blodkomponentene tilbakekalles, og det skal iverksettes korrigerende tiltak for å hindre gjentakelse. Det skal finnes prosedyrer for å sikre at vedkommende myndigheter underrettes om alvorlige bivirkninger eller alvorlige uønskede hendelser i samsvar med forskriftsmessige krav.
+
+TilbakekallingBlodbanken skal ha personale med myndighet til å vurdere behovet for tilbakekalling av blod og blodkomponenter og til å iverksette og samordne nødvendige tiltak.Det skal finnes en effektiv prosedyre for tilbakekalling, herunder en beskrivelse av ansvarsforhold og tiltak som skal treffes. Den skal omfatte underretning til vedkommende myndighet.Det skal innen forhåndsfastsatte frister treffes tiltak som omfatter sporing av alle relevante blodkomponenter og, dersom det er relevant, tilbakesporing. Formålet med etterforskningen er å identifisere enhver blodgiver som kan ha bidratt til å forårsake transfusjonsreaksjonen, og å tilbakekalle alle eksisterende blodkomponenter fra vedkommende giver samt underrette mottakere av komponenter tappet fra samme giver om den eventuelle risikoen.
+
+Korrigerende og forebyggende tiltakDet skal finnes et system for å sikre at det treffes korrigerende og forebyggende tiltak dersom det for blodkomponenter foreligger manglende samsvar og kvalitetsproblemer.Data skal rutinemessig analyseres for å identifisere kvalitetsproblemer som kan kreve korrigerende tiltak, eller identifisere ugunstige tendenser som kan kreve forebyggende tiltak.Alle feil og uhell skal dokumenteres og etterforskes for å identifisere systemproblemer slik at de kan korrigeres.
+
+1. Det skal finnes system for egeninspeksjon og internrevisjoner for alle deler av virksomheten, slik at samsvaret med standardene fastsatt i dette vedlegg kan kontrolleres. Disse kontrollene skal utføres regelmessig av opplærte og kompetente personer på en uavhengig måte i samsvar med godkjente prosedyrer.
+2. Alle resultater skal dokumenteres og hensiktsmessige korrigerende tiltak skal treffes til rett tid og på en effektiv måte.

@@ -1,0 +1,32 @@
+---
+id: "sf-20220620-1116"
+slug: "midlertidig-forskrift-om-endring-i-forskrifter-etter-barnevernloven-for-å-håndtere-høyt-antall-ankomster-av-fordrevne-fra-ukraina"
+type: "forskrift"
+ref_id: "forskrift/2022-06-20-1116"
+title: "Midlertidig forskrift om endring i forskrifter etter barnevernloven for å håndtere høyt antall ankomster av fordrevne fra Ukraina"
+short_title: null
+language: "no"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2022-06-20"
+last_change_in_force: null
+last_updated: null
+xml_hash: "aa4db33de994ca90727806f3642ce51ef32ae78e3d2a113ba184582ceb60355e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Midlertidig forskrift om endring i forskrifter etter barnevernloven for å håndtere høyt antall ankomster av fordrevne fra Ukraina
+
+## I
+
+## II
+
+## III
+
+## IV
+
+Forskriften trer i kraft straks og oppheves 1. juli 2023.

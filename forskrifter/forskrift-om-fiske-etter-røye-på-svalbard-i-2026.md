@@ -1,0 +1,71 @@
+---
+id: "sf-20260107-0012"
+slug: "forskrift-om-fiske-etter-røye-på-svalbard-i-2026"
+type: "forskrift"
+ref_id: "forskrift/2026-01-07-12"
+title: "Forskrift om fiske etter røye på Svalbard i 2026"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+  - "Klima- og miljødepartementet"
+date_in_force: "2026-01-07"
+last_change_in_force: null
+last_updated: null
+xml_hash: "daf951b39264cc2738c2c48eaaff6e1dbdb58903800db7430af8f0b7ec493452"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fiske etter røye på Svalbard i 2026
+
+## § 1. Formål
+
+Denne forskrift har til formål å sikre en forvaltning av røye på Svalbard som ivaretar bestandenes produksjonsevne og sammensetning, og samtidig sikrer fritidsfiske som en viktig friluftsaktivitet for fastboende på Svalbard. Forvaltning av annen anadrom laksefisk er ikke inkludert i forskriftens formål.
+
+## § 2. Virkeområde og tidsrom for fiske
+
+Forskriften gjelder for fiske etter røye i vassdrag på Svalbard og i sjøområdet rundt Svalbard ut til territorialgrensen, herunder Hopen og Bjørnøya. Fiskeåret er fastsatt som perioden fra og med 1. januar til og med 15. oktober det enkelte år.
+
+## § 3. Definisjoner
+
+- *Fastboende:* person som er gyldig innført i befolkningsregisteret for Svalbard.
+- *Fiskekvoter:* maksimalt antall fisker over 25 cm som kan fiskes i den enkelte lokalitet per sesong.
+- *Vassdrag:* innsjø, vann, tjern, elv, elvearm, bekk eller kanal. Ferskvannslaguner og strengsjøer regnes også som vassdrag.
+
+## § 4. Krav til fisker
+
+Fiske etter røye kan bare foretas av den som har innløst fiskekort fra Sysselmesteren. Kun fastboende har anledning til garnfiske etter røye.
+
+## § 5. Redskapsbruk
+
+Garn som nyttes skal ha minimum 52 mm maskevidde, tilsvarende 12 omfar (målt fra knute til knute). Det skal ha maks høyde på 1,8 meter og maks 25 meters lengde. Garn kan ikke kobles sammen i lenker. Garn skal merkes med bøye, eiers navn og adresse. Garn er kun tillatt i navngitte innsjøer der det er åpnet for dette, og med maksimalt 2 garn samtidig per fisker.
+
+## § 6. Garnforbudssoner
+
+I vassdrag, som er åpnet for garnfiske, må garn settes minst 200 m fra innløps- eller utløpsos. I sjøområder er garnfiske ikke tillatt nærmere elvemunning (grense elv/sjø) enn 200 m. Sysselmesteren kan ved eget vedtak utvide disse sonene for enkelte lokaliteter.
+
+## § 7. Stopp i fiske
+
+Dersom den fastsatte kvoten for et vassdrag fylles kan Sysselmesteren innføre forbud mot ytterligere beskatning i lokaliteten for resten av gjeldende sesong.
+
+## § 8. Garnfiske i sjøen
+
+Utover de begrensninger som ligger i [§ 2](forskrift/2026-01-07-12/§2), [§ 4](forskrift/2026-01-07-12/§4), [§ 5](forskrift/2026-01-07-12/§5) og [§ 6](forskrift/2026-01-07-12/§6) er der ingen begrensninger i fiske etter røye i sjøen.
+
+## § 9. Rapporteringsplikt
+
+Fangst av fisk på 25 cm og mer rapporteres (merkes med garn eller håndsnøre, fangstdato og sted) til Sysselmesteren snarest mulig og senest innen 10 dager etter fiske er foretatt, med mindre ikke tilstrekkelig kommunikasjon foreligger. All fangst (uansett størrelse) skal rapporteres innen 25. oktober hvert år og alle fiskehoder av røye over 25 cm skal innleveres snarest mulig og senest innen 25. oktober hvert år. Manglende rapportering kan medføre at fiskekort for kommende sesong ikke tildeles.
+
+## § 10. Vassdrag åpnet for fiske
+
+Det er åpnet for fiske i følgende vann/innsjøer, knyttet til maksimalkvoter for fisk over 25 cm og redskapstyper. I tilhørende elvestrenger og ut til 200 m fra inn- og utløp er det kun tillatt å fiske med stang og håndsnøre. Maksimalkvoten gjelder hele vassdraget.
+
+Det er åpnet for fiske i følgende vassdrag, knyttet til redskapstyper og maksimalkvoter for fisk over 25 cm. I alle disse vassdragene er det tillatt med håndsnøre og stang.*Vassdrag**Maksimalkvote**Garnfiske tillatt*Richardvatnet (Raudfjorden)40NeiRabotvatna (Rabotfjorden)10NeiArresjøen (Danskøya)10NeiGjøavatnet (Amsterdamøya)10NeiÅsøvatnet (v for Flathukfjellet)10NeiPytten (Danskøya)20NeiPervatnet (Sjubrean)30NeiNordre Dieset (Mitrahalvøya)40JaSøndre Dieset (Mitrahalvøya)30JaErlingvatnet (Mitrahalvøya)50NeiMurraytjørnene (Forlandet)25NeiVårfluesjøen (Woodfjorden)150JaLovénvatnet (Trygghamna)10JaStraumsjøen (Erdmannflya)100NeiLinnévatnet100JaKongressvatnet40JaBretjønna (Grønnfjordbotnen)10JaRevvatnet (n for Hornsund)25NeiSvartvatnet (s for Hornsund)25NeiMosselvatnet75NeiFemmilsjøen (Ny-Friesland)150NeiLakssjøen (Ny-Friesland)75NeiStrøen (Ny-Friesland)25NeiEinsteinvatnet (Austbotn)50Nei
+
+## § 11. Iverksettelse m.m.
+
+Forskriften trer i kraft 7. januar 2026 og gjelder frem til og med 31. desember 2026.

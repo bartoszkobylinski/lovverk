@@ -1,0 +1,28 @@
+---
+id: "sf-19871120-0924"
+slug: "forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv"
+type: "forskrift"
+ref_id: "forskrift/1987-11-20-924"
+title: "Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere."
+short_title: "Forskrift om klage ved vedtak i N. Kulturråd mv."
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "1987-12-16"
+last_change_in_force: "1991-03-15"
+last_updated: null
+xml_hash: "1d36ec93d742f5b99af4a8203898e24401a7e5b0b7e363ce04709e3d0a1e79a3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.
+
+I medhold av [forvaltningslovens § 28](lov/1967-02-10/§28) tredje ledd fastsettes følgende forskrift:
+
+Vedtak fattet av Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere kan ikke påklages til departementet for så vidt angår det faglige kunstneriske skjønn.
+
+Forskriften trer i kraft fra kunngjøringstidspunktet.

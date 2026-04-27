@@ -1,0 +1,26 @@
+---
+id: "sf-19761115-0002"
+slug: "forskrift-om-prøving-av-bremser"
+type: "forskrift"
+ref_id: "forskrift/1976-11-15-2"
+title: "Forskrift om hastighetsgrenser ved prøving av bremser."
+short_title: "Forskrift om prøving av bremser"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "1976-11-15"
+last_change_in_force: null
+last_updated: null
+xml_hash: "a84f222ce75b4c18da949f6509e27d782ba65dedad855c12405213437656b81a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om hastighetsgrenser ved prøving av bremser.
+
+Bestemmelsene i [vegtrafikkloven § 6](lov/1965-06-18-4/§6) annet og sjette ledd om maksimalhastighet får ikke anvendelse ved kjøring som foretas for prøving av bremser på kjøretøy i samsvar med Vegdirektoratets Bestemmelser om kjøretøy, Hovedgruppe 15. Det er en forutsetning at kjøringen skjer på trygg måte og at den foretas på avstengt område utenfor veg etter skriftlig oppdrag fra Vegdirektoratet.
+
+Vedtaket trer i kraft straks.

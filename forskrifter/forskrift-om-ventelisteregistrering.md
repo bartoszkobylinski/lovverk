@@ -1,0 +1,90 @@
+---
+id: "sf-20001207-1233"
+slug: "forskrift-om-ventelisteregistrering"
+type: "forskrift"
+ref_id: "forskrift/2000-12-07-1233"
+title: "Forskrift om ventelisteregistrering"
+short_title: "Forskrift om ventelisteregistrering"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2001-01-01"
+last_change_in_force: "2024-06-01"
+last_updated: "2013-05-10"
+xml_hash: "0e6f085a2401fe830737c85b49d482eae2036a83baf9794e87b66b5e97d9c461"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om ventelisteregistrering
+
+## § 1. Virkeområde
+
+Denne forskrift gjelderSomatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som et regionalt helseforetak har inngått avtale om tjenesteyting med i henhold til [spesialisthelsetjenesteloven § 2-1a](lov/1999-07-02-61/§2-1a) tredje ledd.Somatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som eies av et regionalt helseforetak.Institusjoner som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og som eies av, eller som har inngått avtale som nevnt i nr. 1 med, et regionalt helseforetak.
+
+> Endret ved [forskrifter 18 des 2001 nr. 1577](forskrift/2001-12-18-1577) (i kraft 1 jan 2002), [31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [29 okt 2015 nr. 1232](forskrift/2015-10-29-1232) (i kraft 1 nov 2015), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
+
+## § 2. Definisjon av venteliste
+
+Med venteliste menes i denne forskriften digitalt register med ordnede opplysninger om pasienter som venter på oppstart av helsehjelpen, jf. [§ 5](forskrift/2000-12-07-1233/§5).
+
+> Endret ved [forskrifter 31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
+
+## § 3. Ventelisteregistrering
+
+Institusjon som faller inn under [§ 1](forskrift/2000-12-07-1233/§1), skal føre venteliste over pasienter med rett til nødvendig helsehjelp etter [pasient- og brukerrettighetsloven § 2-2 andre ledd](lov/1999-07-02-63/§2-2/ledd/2). Dersom den aktuelle helsehjelpen ytes på flere, geografisk atskilte, behandlingssteder i institusjonen, skal det føres venteliste for hvert behandlingssted.
+
+Tidsfristen for når helsehjelpen senest skal være påbegynt etter [pasient- og brukerrettighetsloven § 2-2a andre ledd](lov/1999-07-02-63/§2-2a/ledd/2) skal fremgå av ventelisten. Videre skal det fremgå om det søkes om innleggelse, dagbehandling eller poliklinisk behandling.
+
+Pasienter som trenger øyeblikkelig hjelp, jf. [pasient- og brukerrettighetsloven § 2-2 første ledd](lov/1999-07-02-63/§2-2/ledd/1), skal ikke registreres på venteliste.
+
+Henvisninger registreres på mottaksdato. Mottaksdato er den dag henvisningen er mottatt av institusjonen. Dersom henvisningen er sendt fra en annen institusjon, registreres også en ansiennitetsdato. Ansiennitetsdato er mottaksdato ved den første institusjonen.
+
+> Endret ved [forskrifter 31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
+
+## § 4. Oppdatering av ventelistene
+
+Institusjonen skal til enhver tid holde ventelistene oppdatert. Ventetiden slutter den dato helsehjelpen påbegynnes. Pasienter som ikke lenger er aktuelle for den planlagte helsehjelpen, skal heller ikke regnes som ventende lenger.
+
+De pasientene som har vært registrert på venteliste i seks måneder bør kontaktes med forespørsel om henvisningen fortsatt er aktuell.
+
+> Endret ved [forskrifter 31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [29 okt 2015 nr. 1232](forskrift/2015-10-29-1232) (i kraft 1 nov 2015), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
+
+## § 5. Rapportering til departementet
+
+De regionale helseforetakene skal sørge for elektronisk rapportering av ventelistedata til departementet hvert tertial. For institusjoner som yter tverrfaglig spesialisert behandling for rusmiddelavhengighet, skal rapportering skje elektronisk.
+
+> Endret ved [forskrifter 18 des 2001 nr. 1577](forskrift/2001-12-18-1577) (i kraft 1 jan 2002), [31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2001. Fra samme tidspunkt oppheves [forskrift av 27. juni 1997 nr. 654](forskrift/1997-06-27-654) om ventetidsgaranti.
+
+## Merknader til de enkelte bestemmelsene
+
+### Til § 1 Virkeområde
+
+Tverrfaglig spesialisert behandling for rusmiddelavhengighet er en del av spesialisthelsetjenesten. Virksomheter som yter slik tjeneste, skal derfor føre venteliste på linje med den øvrige spesialisthelsetjenesten.
+
+### Til § 2 Definisjon av venteliste
+
+Venteliste defineres her som et elektronisk register. Institusjonene må derfor legge forholdene til rette for slik føring. Ventelistene skal fungere som et arbeidsredskap til bruk i pasientlogistikken i den enkelte institusjon. Ventelistene skal også bidra til å danne grunnlag for å avgjøre om retten til vurdering, og retten til nødvendig helsehjelp innenfor den fastsatte fristen oppfylles ovenfor den enkelte pasienten. Videre skal ventelistene bidra til vurderingene av forholdet mellom behovet for helsetjenester og kapasiteten i helsetjenesten.
+
+### Til § 3 Ventelisteregistrering
+
+[§ 3 første ledd](forskrift/2000-12-01-1208/§3/ledd/1) slår fast at det er det aktuelle behandlingsstedet som har ansvaret for å sørge for at det føres venteliste. I praksis vil det være den enkelte avdeling/avdelingsoverlege som utfører registreringen. Dersom rusinstitusjonen ikke vurderer om pasienten har rett til nødvendig helsehjelp eller fastsetter tidsfrist for å yte helsehjelpen selv, må den innhente disse opplysningene fra den instansen som foretar vurderingen. Formuleringen «er registrert for undersøkelse eller behandling» viser at det før registrering på ventelisten må foretas en vurdering av om pasienten skal undersøkes eller behandles ved institusjonen. Henvisningene alene kan med andre ord ikke danne grunnlag for registrering. Pasientene skal ikke stå på venteliste ved mer enn en institusjon. I noen tilfeller vil ikke en henvisning føre til at helsehjelp tilbys ved institusjonen. I en slik situasjon vil institusjonen måtte returnere henvisningen umiddelbart uten å registrere pasienten på venteliste. Dette kan være aktuelt i situasjoner hvor institusjonen må avvise pasienter fra andre regioner fordi de står i fare for å ikke kunne oppfylle sin forpliktelse til å tilby helsehjelp innen tidsfristen til egne pasienter med rett til nødvendig helsehjelp, jf. [pasient- og brukerrettighetsloven § 2-2](lov/1999-07-02-63/§2-2), og/eller til å foreta vurdering av egne pasienter innen 10 dagers fristen, jf. [pasient- og brukerrettighetsloven § 2-2a](lov/1999-07-02-63/§2-2a). I slike tilfeller er det anledning til å avvise pasienter som benytter seg av retten til valg av behandlingssted. Anledningen til å avvise gjelder bare før pasienten er registrert på venteliste. Ved å sette en pasient på venteliste, forplikter institusjonene seg altså til å yte helsehjelp til vedkommende innen faglig forsvarlig tidsfrist, eventuelt innen den tidsfristen som er fastsatt etter [§ 2-2a andre ledd](lov/1999-07-02-63/§2-2a/ledd/2). At man registrerer en pasient for vurdering etter [pasient- og brukerrettighetsloven § 2-2a andre ledd første punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/1) innebærer bare en forpliktelse til å vurdere pasienten. Å gi en pasient tilbud om vurdering innebærer ikke at sykehuset også tar på seg en forpliktelse til å behandle pasienten. Dersom sykehuset mottar en pasient som det ikke har ansvar for, innebærer det altså ikke en plikt til å yte den behandlingen pasienten eventuelt måtte ha behov for.
+
+Det skal fremgå av registreringen om pasienten er henvist for innleggelse, dagbehandling eller poliklinisk behandling. Poliklinisk behandling omfatter også ambulant spesialisttilbud. I tillegg mener departementet at det bør fremgå fra hvilket fagområde pasienten, etter spesialisthelsetjenestens vurdering, mest sannsynlig trenger helsehjelp.
+
+Det presiseres at pasienter som trenger øyeblikkelig hjelp etter [pasient- og brukerrettighetsloven § 2-2 første ledd](lov/1999-07-02-63/§2-2/ledd/1) ikke skal føres på liste. Disse har uansett en ubetinget rett til behandling umiddelbart.
+
+Henvisninger skal registreres på mottaksdato, som danner utgangspunkt for fristberegningen for retten til vurdering etter [pasient- og brukerrettighetsloven § 2-2a andre ledd](lov/1999-07-02-63/§2-2a/ledd/2).
+
+### Til § 4 Oppdatering av ventelistene
+
+Bestemmelsen slår innledningsvis fast plikten til å holde ventelistene oppdatert. Institusjonen må således undersøke hvorfor enkelte pasienter har stått så lenge som seks måneder på liste, og om de fortsatt er aktuelle for undersøkelse eller behandling. Det gjelder ikke dersom det er planlagt at behandling ikke skal skje før på et senere tidspunkt. Mulige grunner til at pasienten ikke lenger er aktuell, kan være at vedkommende har fått behandling ved privat behandlingsinstitusjon, at pasienten ikke lenger ønsker behandlingen, er overført til annen behandlingsinstitusjon eller at vedkommende er død.
+
+> Merknader tilføyd ved [forskrift 31 aug 2004 nr. 1227](forskrift/2004-08-31-1227) (i kraft 1 sep 2004), merknader endret ved forskrifter [17. januar 2013 nr. 61](forskrift/2013-01-17-61), [23 mai 2024 nr. 813](forskrift/2024-05-23-813) (i kraft 1 juni 2024).

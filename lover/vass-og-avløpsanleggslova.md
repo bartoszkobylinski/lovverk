@@ -1,0 +1,76 @@
+---
+id: "nl-20120316-012"
+slug: "vass-og-avløpsanleggslova"
+type: "lov"
+ref_id: "lov/2012-03-16-12"
+title: "Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)"
+short_title: "Vass- og avløpsanleggslova"
+language: "nn"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2012-07-01"
+last_change_in_force: "2020-11-01"
+last_updated: "2021-09-09"
+xml_hash: "c5c466228efe66e40891e49be9f51a23c5b77413465dc591336243ca16f63684"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)
+
+## § 1. Kommunalt eigarskap til vass- og avløpsanlegg
+
+Nye vass- og avløpsanlegg skal vere eigd av kommunar. Eksisterande vass- og avløpsanlegg kan berre seljast eller på annan måte overdragast til kommunar. Vesentleg utviding eller samanslåing av eksisterande private anlegg kan berre skje med løyve frå kommunen etter [§ 2](lov/2012-03-16-12/§2).
+
+Fyrste ledd gjeld ikkje for overvassanlegg.
+
+I lova her er det med vass- og avløpsanlegg meint hovudleidningar for vatn og avløp, pumpestasjonar, høgdebasseng, anlegg for handtering og reinsing av vatn og avløp m.m.
+
+Lova her gjeld ikkje for mindre vass- og avløpsanlegg.
+
+Lova gjeld heller ikkje for vass- og avløpsanlegg eigd av anna offentleg organ eller for næringsverksemd o.l. som ikkje er knytt til kommunale anlegg.
+
+> Endra med [lov 8 mars 2019 nr. 5](lov/2019-03-08-5) (ikr. 8 mars 2019 iflg. [res. 8 mars 2019 nr. 195](forskrift/2019-03-08-195)).
+
+## § 2. Kommunalt løyve til privat vass- og avløpsanlegg
+
+Kommunen kan etter søknad gi løyve til samanslåing eller vesentleg utviding av eksisterande privat vass- og avløpsanlegg eller til etablering av nytt anlegg dersomdet private anlegget ligg så langt frå kommunalt vass- og avløpsanlegg at kommunen ikkje kan krevje at busetnaden som det private anlegget tener eller skal tene skal knytast til det kommunale anlegget med heimel i plan- og [bygningslova § 27-1](lov/2008-06-27-71/§27-1) og [§ 27-2](lov/2008-06-27-71/§27-2), ellerkostnadene ved å knyte seg til det kommunale anlegget vil vere uhøveleg store eller andre særlege omsyn talar for det.
+
+Nye anlegg etter første ledd skal organiserast som andelslag eigd av brukarane. Kommunen avgjer om det elles skal stillast særlege vilkår for løyvet.
+
+Ved samanslåing eller vesentleg utviding av eksisterande anlegg avgjer kommunen om det skal stillast særlege vilkår for løyvet. Når særlege omsyn talar for det, kan kommunen krevje at anlegget skal organiserast som andelslag eigd av brukarane.
+
+## § 3. Kommunale vass- og avløpsgebyr
+
+Når ein fast eigedom har tilknyting til kommunal vass- eller avløpsleidning, anten beinveges eller gjennom privat samleidning, har eigaren skyldnad til å svare vass- og avløpsgebyr til kommunen. Det same gjeld når kommunen med heimel i plan- og [bygningslova §§ 27-1](lov/2008-06-27-71/§27-1) eller [27-2](lov/2008-06-27-71/§27-2) har kravd at eigedomen skal ha slik tilknyting. Gebyr kan krevjast jamvel av eigedom som det ikkje er hus på, når kommunen kunne kravd tilknyting til slike leidningar om det hadde vore hus på eigedomen. Er det ikkje bygd på eigedomen av di det, i lov eller i vedtak av offentleg styresmakt, er sett forbod mot bygging, kan det ikkje krevjast gebyr så lenge forbodet gjeld. Det same gjeld når byggjehindringa er annan serleg grunn som eigaren ikkje har ansvaret for.
+
+Gebyr kan òg krevjast for eigedom som slepp ut avløpsvatn i vassdrag når kommunen legg vassdraget i lukka leidning.
+
+Når ikkje anna er avtala, skal gebyr for bortfest grunn svarast av festaren og ikkje av eigaren, i fall festaren har arvefeste eller festerett for så lang tid at det er att minst 30 år av festetida rekna frå den tid gebyrskyldnaden kom opp. Det same gjeld når avtala gjev festaren rett til å krevja festetida lengd så mykje at det vert att ei festetid på minst 30 år som nemnt, om festaren gjer bruk av retten sin.
+
+Kommunen kan ta bort alt eller noko av gebyret for eigedom som det ikkje er hus på.
+
+## § 4. Ramma for kommunalt eigarskap til vass- og avløpsanlegg og hovudreglane for fastsetjing av vass- og avløpsgebyr
+
+Gebyra skal vera eingongsgebyr for tilknyting og årlege gebyr.
+
+Departementet fastset i forskrift ramma for gebyra og hovudreglane om utrekning og innkrevjing. Likeeins kan departementet fastsetje andre føresegner til gjennomføring av lova.
+
+## § 5. Lokale forskrifter
+
+Kommunen fastset i forskrift storleiken på gebyra i kommunen og gjev nærare reglar om gjennomføring av gebyrvedtaket og innkrevjing av gebyra.
+
+## § 6. Lovpant og tvangsgrunnlag for utlegg
+
+Forfalt krav på årsgebyr etter denne lova er sikra med lovpant i eigedomen etter [pantelova § 6-1](lov/1980-02-08-2/§6-1). Både årsgebyr og eingongsgebyr for tilknyting er elles tvangsgrunnlag for utlegg. Gebyra kan krevjast inn av kommunen etter reglane for innkrevjing av skatt.
+
+> Endra med [lov 20 des 2019 nr. 99](lov/2019-12-20-99) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)). **Vert endra** med lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a).
+
+## § 7. Ikraftsetjing
+
+Lova tek til å gjelde frå den tid Kongen fastset.1 Frå same tid opphevast [lov 31. mai 1974 nr. 17](lov/1974-05-31-17) om kommunale vass- og kloakkavgifter.
+
+Forskrifter gjevne i medhald av [lov 31. mai 1974 nr. 17](lov/1974-05-31-17) om kommunale vass- og kloakkavgifter gjeld òg etter at lova her tek til å gjelde.

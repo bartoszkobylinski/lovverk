@@ -1,0 +1,40 @@
+---
+id: "sf-20210315-0799"
+slug: "forskrift-om-trekningskretser-for-meddommere-ved-vestre-finnmark-tingrett"
+type: "forskrift"
+ref_id: "forskrift/2021-03-15-799"
+title: "Forskrift om trekningskretser for meddommere ved Vestre Finnmark tingrett"
+short_title: "Forskrift om trekningskretser for meddommere ved Vestre Finnmark tingrett"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2021-04-26"
+last_change_in_force: null
+last_updated: null
+xml_hash: "b30705fad9553ae90bdfe87c4aff7e90f284d05a05c7783714bf389ac120110d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om trekningskretser for meddommere ved Vestre Finnmark tingrett
+
+## § 1.
+
+Vestre Finnmark tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
+
+- Alta kommune
+- Loppa kommune
+- Kvænangen kommune.
+
+- Hámmerfeasta/Hammerfest kommune
+- Hasvik kommune
+- Måsøy kommune
+- Nordkapp kommune
+- Porsáŋgu/Porsanger/Porsanki kommune.
+
+## § 2.
+
+Forskriften gjelder fra 26. april 2021.

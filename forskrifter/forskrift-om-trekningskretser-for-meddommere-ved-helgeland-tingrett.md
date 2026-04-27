@@ -1,0 +1,51 @@
+---
+id: "sf-20210315-0852"
+slug: "forskrift-om-trekningskretser-for-meddommere-ved-helgeland-tingrett"
+type: "forskrift"
+ref_id: "forskrift/2021-03-15-852"
+title: "Forskrift om trekningskretser for meddommere ved Helgeland tingrett"
+short_title: "Forskrift om trekningskretser for meddommere ved Helgeland tingrett"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2021-04-26"
+last_change_in_force: null
+last_updated: null
+xml_hash: "feb8b9facc9a8ef6e3ef69c73da3613394003b7cce9419149adfa0e13034726c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om trekningskretser for meddommere ved Helgeland tingrett
+
+## § 1.
+
+Helgeland tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
+
+- Hemnes kommune
+- Lurøy kommune
+- Nesna kommune
+- Rana kommune
+- Træna kommune.
+
+- Alstahaug kommune
+- Dønna kommune
+- Herøy kommune
+- Leirfjord kommune.
+
+- Grane kommune
+- Aarborte/Hattfjelldal kommune
+- Vefsn kommune.
+
+- Bindal kommune
+- Brønnøy kommune
+- Sømna kommune
+- Vega kommune
+- Vevelstad kommune.
+
+## § 2.
+
+Forskriften gjelder fra 26. april 2021.

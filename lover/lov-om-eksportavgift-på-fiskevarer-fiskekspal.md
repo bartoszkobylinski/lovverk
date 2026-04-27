@@ -1,0 +1,60 @@
+---
+id: "nl-20000707-068"
+slug: "lov-om-eksportavgift-på-fiskevarer-fiskekspal"
+type: "lov"
+ref_id: "lov/2000-07-07-68"
+title: "Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen"
+short_title: "Lov om eksportavgift på fiskevarer – fiskekspal"
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2001-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-09-27"
+xml_hash: "ce272ceb31874b7944f1406399c951a79dfef67650c02438ae7a8addd2e2e5e6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen
+
+## § 1. Formål
+
+Formålet med loven er å styrke finansieringen av forskning og utvikling (FoU), for å legge til rette for økt verdiskaping, miljøtilpasning, omstilling og nyskaping i fiskeri- og havbruksnæringen.
+
+## § 2. Avgift
+
+Departementet kan gi forskrift om at den som eksporterer fisk og fiskevarer eller andre marine ressurser, samt varer hvor marine ressurser utgjør en vesentlig del, skal betale en avgift beregnet av verdien ved eksport.
+
+Departementet gir nærmere bestemmelser om avgiften, herunder om plikten til å svare avgift, størrelsen på avgiften, beregning av avgiften, innkreving av avgiften og anvendelse av avgiftsmidlene.
+
+Skyldig avgift er tvangsgrunnlag for utlegg.
+
+## § 3. Forvaltning
+
+Avgiftsmidlene forvaltes av et aksjeselskap hvor staten eier alle aksjene. Aksjeselskapet skal utføre de oppgaver som er fastsatt i eller i medhold av loven.
+
+Utgifter til forvaltning og administrasjon av aksjeselskapet dekkes av avgiftsmidlene.
+
+[Forvaltningsloven](lov/1967-02-10) gjelder for aksjeselskapet. Enkeltvedtak som selskapet treffer, kan ikke påklages, og vedtakene kan bare omgjøres av selskapet selv.
+
+[Arkivlova kapittel 1](lov/2025-06-20-96/kap1), [2](lov/2025-06-20-96/kap2) og [4](lov/2025-06-20-96/kap4) gjelder for selskapet.
+
+> Endret ved [lover 9 des 2011 nr. 56](lov/2011-12-09-56) (ikr. 1 jan 2012 iflg. [res. 9 des 2011 nr. 1221](forskrift/2011-12-09-1221)), [25 mai 2018 nr. 20](lov/2018-05-25-20) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 756](forskrift/2018-05-25-756), selskapet skal treffe avgjørelse i saker som ikke er endelig avgjort på det tidspunktet loven begynner å gjelde), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+## § 4. Opplysningsplikt
+
+Den som eksporterer varer som omfattes av loven plikter å gi de opplysninger som er nødvendige for at forvaltningen skal kunne utføre sine oppgaver etter loven.
+
+## § 5. Forskrifter
+
+Departementet kan gi forskrift om aksjeselskapets organisering og saksbehandling, oppløsning av selskapet, saksbehandlingen i saker om vedtak etter [§ 2](lov/2000-07-07-68/§2) og omfanget av opplysningsplikten etter [§ 4](lov/2000-07-07-68/§4).
+
+> Endret ved [lov 25 mai 2018 nr. 20](lov/2018-05-25-20) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 756](forskrift/2018-05-25-756), selskapet skal treffe avgjørelse i saker som ikke er endelig avgjort på det tidspunktet loven begynner å gjelde).
+
+## § 6. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen1 bestemmer.

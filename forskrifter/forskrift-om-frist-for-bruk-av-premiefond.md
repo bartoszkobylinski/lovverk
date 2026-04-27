@@ -1,0 +1,28 @@
+---
+id: "sf-19770422-9891"
+slug: "forskrift-om-frist-for-bruk-av-premiefond"
+type: "forskrift"
+ref_id: "forskrift/1977-04-22-9891"
+title: "Forskrifter om frist for anvendelse av midler avsatt til premiefond til folketrygda."
+short_title: "Forskrift om frist for bruk av premiefond"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1977-04-22"
+last_change_in_force: null
+last_updated: null
+xml_hash: "b70cdf0d76eaf06503fa00fee56db8bf95e576ca518d4528799c9dbb0931196a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter om frist for anvendelse av midler avsatt til premiefond til folketrygda.
+
+1. Avsatte midler etter [lov av 7. juli 1967 nr. 8](lov/1967-07-07-8) med tillegg av renter, må anvendes til betaling av arbeidsgiveravgift innen 30. november 1977.
+
+2. Norges Bank tilbakebetaler arbeidsgiveren midler som er innestående pr. 1. desember 1977.
+
+3. Ved anvendelse av midlene i samsvar med punkt 1 og tilbakebetaling etter punkt 2, kommer de alminnelige regler i loven med tilhørende forskrifter til anvendelse.Disse forskrifter trer i kraft straks.

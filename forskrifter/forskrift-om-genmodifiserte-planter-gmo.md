@@ -1,0 +1,161 @@
+---
+id: "sf-20011221-1603"
+slug: "forskrift-om-genmodifiserte-planter-gmo"
+type: "forskrift"
+ref_id: "forskrift/2001-12-21-1603"
+title: "Forskrift om innesluttet bruk av genmodifiserte planter (planteforskriften)"
+short_title: "Forskrift om genmodifiserte planter (GMO)"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2002-01-01"
+last_change_in_force: null
+last_updated: "2022-03-30"
+xml_hash: "ed6306fc4508202b6ba5ee200d6a24e7221ac64c76a596eb52791e5abfa79158"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om innesluttet bruk av genmodifiserte planter (planteforskriften)
+
+## Kap. 1. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+Forskriften gjelder all innesluttet bruk av genmodifiserte planter, herunder også bruk av planter i kombinasjon med andre genmodifiserte organismer.
+
+Forskriften regulerer godkjenning av den innesluttede bruken. Forskriften regulerer også godkjenning av laboratorier og anlegg.
+
+Unntatt fra virkeområdet i første ledd er all virksomhet som innebærer innesluttet bruk av genmodifiserte mikroorganismer. Slik virksomhet reguleres i forskrift om genmodifiserte mikroorganismer.
+
+### § 2. Definisjoner
+
+I denne forskrift menes med:*innesluttet bruk:* enhver arbeidsoperasjon hvor genmodifiserte organismer blir fremstilt, dyrket, lagret, destruert, eller brukt på annen måte i et lukket system hvor det anvendes fysiske inneslutningstiltak, eventuelt i kombinasjon med andre særskilte inneslutningstiltak, for å begrense organismenes kontakt med mennesker og miljø slik at disse sikres et høyt nivå av sikkerhet*genmodifiserte organismer:* mikroorganismer, planter og dyr hvor den genetiske sammensetning er endret ved bruk av gen- eller celleteknologi*mikroorganisme:* enhver cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale*kombinasjonsbruk:* innesluttet bruk av planter i kombinasjon med andre genmodifiserte organismer*genteknologi:* teknikker som innebærer at arvestoff isoleres, karakteriseres, modifiseres og innsettes i levende celler eller virus*celleteknologi:* teknikker for framstilling av levende celler med nye kombinasjoner av genetisk materiale ved fusjon av to eller flere celler*bruker:* enhver fysisk eller juridisk person som er ansvarlig for den innesluttede bruken.
+
+### § 3. Ansvar for virksomheten
+
+Ansvarlig for laboratorium/anlegg søker om godkjenning av laboratorium/anlegg, jf. [kap. 4](forskrift/2001-12-21-1603/kap4) og vedlegg I. Ansvaret omfatter også at inneslutningstiltak, sikkerhetstiltak og kontroll er i overensstemmelse med forskriften og den godkjenningen som er gitt. Ansvarlig for laboratorium/anlegg er også ansvarlig for at det føres protokoll over virksomheten. Protokollen skal på anmodning stilles til rådighet for tilsynsmyndigheten.
+
+Bruker er ansvarlig for forhåndsvurdering og søknad om godkjenning av den innesluttede bruken, jf. [kap. 3](forskrift/2001-12-21-1603/kap3) og vedlegg II. Ansvaret omfatter også kontroll med at den innesluttede bruken er i overensstemmelse med forskriften og den godkjenning som er gitt. Bruker er ansvarlig for at det føres protokoll over den innesluttede bruken. Protokollen skal på anmodning stilles til rådighet for tilsynsmyndigheten.
+
+### § 4. Forhåndsvurdering av risiko
+
+Bruker skal foreta en forhåndsvurdering av risikoen som følger av den innesluttede bruken:for sykdom/skade på mennesker, dyr, planter eller miljøfor utendørs etablering og spredning av genmodifiserte planteri landbruksmessig sammenheng.
+
+Forhåndsvurderingen er avgjørende for hvilke krav som stilles til inneslutningstiltak og inneslutningsnivå. Kravene til forhåndsvurderingen fremgår av vedlegg III.
+
+## Kap. 2. Godkjenning av innesluttet bruk
+
+### § 5. Godkjenning av innesluttet bruk
+
+Godkjenningsmyndighet er departementet eller den departementet bemyndiger.
+
+All virksomhet som omfatter innesluttet bruk av genmodifiserte planter krever godkjenning. Søknad sendes på fastsatt skjema, jf. vedlegg I og virksomheten kan ikke igangsettes før godkjenningsmyndigheten har gitt skriftlig godkjenning.
+
+Godkjenningsmyndighetene kan kreve ytterligere opplysninger dersom de anser det nødvendig.
+
+Godkjenning av virksomhet som omfatter overføring av humant genmateriale til planter, som ikke skjer i forsknings- eller forsøkssammenheng for å kartlegge arvestoffets oppbygging, egenskaper og funksjoner, og innesluttet bruk av genmodifiserte planter og kombinasjonsbruk, der målet er omsetning eller annen utnytting i næring, skal foreligge innen 90 dager. For all annen virksomhet skal godkjenning foreligge innen 45 dager.
+
+All virksomhet krever godkjent laboratorium/anlegg.
+
+### § 6. Samfunnsmessige og etiske vurderinger
+
+Ved søknad om godkjenning etter [§ 5](forskrift/2001-12-21-1603/§5) tredje ledd skal det foretas en vurdering av de samfunnsmessige og etiske aspekter ved virksomheten, med en særlig vekt på formålet med virksomheten. Søknaden skal inneholde de opplysninger som er nødvendige for at godkjenningsmyndighetene skal kunne foreta en slik vurdering, og brukers egen vurdering skal fremgå av søknaden.
+
+### § 7. Endring av virksomheten
+
+Dersom det under arbeidet med den innesluttede bruken ønskes foretatt endringer i det som omfattes av godkjennelsen, skal ny søknad om godkjenning sendes godkjenningsmyndighetene.
+
+## Kap. 3. Godkjenning av laboratorier og anlegg
+
+### § 8. Godkjenning av laboratorier og anlegg
+
+Godkjenningsmyndighet er departementet eller den departementet bemyndiger.
+
+Laboratorier og anlegg som skal brukes til innesluttet bruk av genmodifiserte planter, skal være godkjent før virksomheten igangsettes.
+
+Søknad om godkjenning av laboratorier og anlegg sendes på fastsatt søknadsskjema, jf. vedlegg I.
+
+Godkjenning av laboratorium/anlegg skal foreligge innen 45 dager.
+
+### § 9. Vilkår for godkjenning av laboratorier og anlegg
+
+Laboratoriet/anlegget skal være egnet til formålet, og sikre at den innesluttede bruken ikke medfører helse- og miljømessige skadevirkninger. Ved bruk av genmodifiserte planter skal inneslutningstiltakene være i samsvar med kravene i [kap. 4](forskrift/2001-12-21-1603/kap4) og vedlegg I.
+
+Ved kombinasjonsbruk med genmodifiserte mikroorganismer eller dyr, skal inneslutningstiltakene kombineres med de krav som følger av forskrift om innesluttet bruk av genmodifiserte dyr og forskrift om innesluttet bruk av genmodifiserte mikroorganismer.
+
+### § 10. Endring av laboratorium/anlegg
+
+Dersom det ønskes foretatt endringer av laboratoriet/anlegget som berører inneslutningsnivå eller andre sikkerhetstiltak, skal det sendes ny søknad om godkjenning. Endringene kan ikke tas i bruk før ny godkjenning er gitt.
+
+## Kap. 4. Krav til inneslutningsnivå
+
+### § 11. Klassifisering
+
+Krav til inneslutningsnivå for laboratorier og anlegg for innesluttet bruk av genmodifiserte planter bestemmes av plantens biologiske inneslutningsnivå:høy biologisk inneslutning, dvs. planter uten evne til utendørs etablering og spredning,moderat biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning, men med liten evne til utslipp av pollen,lav biologisk inneslutning, dvs. planter med evne til utendørs etablering og spredning og med stor evne til utslipp av pollen.
+
+Plantens inneslutningsnivå fastsettes på grunnlag av forhåndsvurdering av risiko, jf. [§ 4](forskrift/2001-12-21-1603/§4) og vedlegg III.
+
+### § 12. Inneslutningsnivå for laboratorier og anlegg
+
+Laboratorier og anlegg klassifiseres i inneslutningsnivå S2, S3 og S4, som er tilpasset plantenes biologiske inneslutningsnivå. Kravene til inneslutningstiltak fremgår av søknadsskjema for godkjenning av laboratorier og anlegg, vedlegg I.
+
+### § 13. Bruk av inneslutningsnivå
+
+1. *inneslutningsnivå S2:* for innesluttet bruk av genmodifiserte planter med høy biologisk inneslutning,
+2. *inneslutningsnivå S3:* for innesluttet bruk av genmodifiserte planter med moderat biologisk inneslutning,
+3. *inneslutningsnivå S4:* for innesluttet bruk av genmodifiserte planter med lav biologisk inneslutning.
+
+## Kap. 5. Sikkerhet og kontroll
+
+### § 14. Sikkerhetstiltak
+
+Ved all innesluttet bruk skal prinsipper for god mikrobiologisk praksis følges sammen med de sikkerhetstiltak som fremgår av skjema for søknad om godkjenning av laboratorium/anlegg, jf. vedlegg I.
+
+### § 15. Kontroll
+
+Ansvarlig for laboratoriet skal føre kontroll med virksomheten og ta de anvendte inneslutningstiltak opp til revisjon på grunnlag av ny vitenskapelig eller teknisk viten. Dette gjelder også oppbevaring og håndtering av avfall.
+
+### § 16. Tilsynsmyndighet
+
+Departementet eller den departementet bemyndiger skal føre tilsyn med at bestemmelsene i denne forskrift overholdes.
+
+### § 17. Opplysningsplikt
+
+Bruker plikter å underrette godkjenningsmyndighetene om nye opplysninger av betydning for virksomheten og godkjenningen av den. Ansvarlig for laboratorium/anlegg plikter å gir opplysninger som vedrører sikkerhet og kontroll ved anlegget/laboratoriet. Nye opplysninger omfatter både forhold som ikke tidligere var kjent og forhold som kommer til etter at søknaden er sendt.
+
+Ansvarlig for laboratorium/anlegg plikter å varsle tilsynsmyndigheten umiddelbart ved uhellsutslipp av genmodifiserte organismer.
+
+## Kap. 6. Ikraftsetting
+
+### § 28. Ikraftsetting
+
+Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves [forskrift av 4. mai 2001 nr. 506](forskrift/2001-05-04-506) om innesluttet bruk av genmodifiserte planter (planteforskriften).
+
+## Vedlegg I. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte planter
+
+## Vedlegg II. Søknad om godkjenning av innesluttet bruk av genmodifiserte planter
+
+1. det innsatte genmaterialets opprinnelse (donor), planlagte funksjon og genetiske stabilitet
+2. vert/vektorsystem
+3. metode for å oppnå genmodifiseringen
+4. den modifiserte organismens egenskap, funksjon og biologiske inneslutning
+5. formålet, herunder det ventede resultat
+
+1. Risiko for sykdom/skade på mennesker, dyr, planter eller miljø
+2. Risiko for utendørs etablering og spredning av genmodifiserte planter
+3. Risiko i landbruksmessig sammenheng
+4. Ytterligere risiko som følge av kombinasjonsbruk der andre typer genmodifiserte organismer er involvert
+
+## Vedlegg III. Forhåndsvurdering av risiko for sykdom/skade på mennesker, dyr, planter eller miljø
+
+*Forhold som må vurderes:*Om genmodifiseringen vil føre til uttrykk av uønskede egenskaper (eks. antibiotikaresistens, toksiner osv.)om planten er tilført egenskaper som kan gi endret mottakelighet for kjemikalier, biologiske agens eller andre kontrolltiltak (eks. antibiotika-, herbicidresistens)eksisterende metoder for påvisning, identifisering og overvåkning av de modifiserte planteneeksisterende teknikker som gjør det mulig å påvise overføring av det nye genmaterialet til andre organismer
+
+*Forhold som må vurderes:*Overlevelsesevne i utendørs miljø (vekstbetingelser: næring, temperatur, lys osv.),reproduksjonsevne og mulighet for genspredning via kjønnet formering til nært beslektede arter eller planter av samme art,muligheter for horisontal genoverføring vurdert ut fra det innsatte genmaterialets natur.
+
+*Forhold som må vurderes:*Den genmodifiserte plantens potensiale som ugress eller spredning av ugressegenskaper til andre planter,om planten er oppført på karanteneliste,om plantematerialet innebærer risiko for spredning av plantepatogener. Muligheter for interaksjoner med andre planter i miljøet (både kulturplanter og ville planter),Vurderes ut fra følgende forhold:inokulumets tetthetlevedyktighetangrepsmåtevertsspekter/livssyklusmiljøbetingelser for spredningvirulens.
+
+Ved kombinasjonsbruk skal det vurderes spesielt om mikroorganismene utgjør en ytterligere risiko. Forhåndsvurderingen av risiko omfatter alle typer virksomhet, og skal legges ved søknad om godkjennelse. Godkjenningsmyndighetene kan innhente uttalelse fra andre berørte myndigheter der virksomhetens art krever det.

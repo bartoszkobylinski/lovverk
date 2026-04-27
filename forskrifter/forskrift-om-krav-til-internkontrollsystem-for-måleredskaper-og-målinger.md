@@ -1,0 +1,72 @@
+---
+id: "sf-20260312-0399"
+slug: "forskrift-om-krav-til-internkontrollsystem-for-måleredskaper-og-målinger"
+type: "forskrift"
+ref_id: "forskrift/2026-03-12-399"
+title: "Forskrift om krav til internkontrollsystem for måleredskaper og målinger"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-05-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "a5e7fe1a8763dd1938a028dc38f1a9fbffc8dcc6f03b921091795108a555d27b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om krav til internkontrollsystem for måleredskaper og målinger
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Denne forskriften fastsetter krav til internkontrollsystem for å ivareta krav fastsatt i eller i medhold av [lov om målenheter, måling og normaltid](lov/2007-01-26-4). Forskriften gjelder når Justervesenet har pålagt bruker eller servicefirma krav til internkontroll for måleredskaper og målinger [§ 5-4](forskrift/2007-12-20-1723/§5-4).
+
+### § 2. Definisjoner
+
+I denne forskriften menes med*det måletekniske regelverket:* bestemmelser gitt i eller i medhold av [lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid](lov/2007-01-26-4)*internkontrollsystem:* systematiske og dokumenterte tiltak som skal sikre at virksomheten overholder krav fastsatt i det måletekniske regelverket*sporbarhet:* egenskapen til et måleresultat der måleresultatet kan knyttes til en referanse gjennom en dokumentert, ubrutt kjede av kalibreringer som er relatert til de internasjonale SI-enhetene*kalibrering:* sammenligning av et måleredskap med en referansenormal, et mer nøyaktig måleredskap eller med et referansemateriale.
+
+## Kapittel 2. Krav til internkontrollsystemet
+
+### § 3. Ansvar
+
+Den som er ansvarlig for virksomheten skal sørge for at det innføres internkontrollsystem for måleredskaper og målinger i virksomheten når dette er bestemt av Justervesenet.
+
+### § 4. Internkontrollsystems innhold
+
+Internkontrollsystemet skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse, og utformes slik at kravene i det måletekniske regelverket overholdes.
+
+Internkontrollsystemet skal sørge for at det måletekniske regelverket etterleves og skal minimum inneholdebeskrivelse av virksomhetens organisasjon, herunder fordeling av ansvar, oppgaver og myndighet knyttet til etterlevelse av det måletekniske regelverket, samt hvem som er ansvarlig for drift og oppfølging av internkontrollsystemet for måleredskaper og målingerrutiner for bruk og vedlikehold av måleredskaperoversikt over måleredskaper og målinger omfattet av internkontrollsystemet og utstyr som brukes ved kontroll av disserutiner for systematisk kontroll og overvåkning som avdekker avvik fra krav i det måletekniske regelverketrutiner for å korrigere og forebygge avvik fra krav i det måletekniske regelverketrutiner for å avdekke, korrigere og forebygge avvik fra interne rutiner som skal sikre etterlevelse av det måletekniske regelverketrutiner som sikrer at personell som utfører oppgaver relatert til det måletekniske regelverket får nødvendig opplæringrutiner som sørger for at varer og tjenester levert av eksterne har tilstrekkelig kvalitet, når slike varer og tjenester kan ha påvirkning på måleredskaper eller målinger som er omfattet av internkontrollsystemetrutiner for styring av dokumentasjon som er nødvendig i internkontrollsystemetrutiner for systematisk overvåking og gjennomgang av internkontrollsystemet for å sikre at det er egnet til å oppfylle gjeldende krav.
+
+Internkontrollsystemet skal inneholde rutiner for å registrere det som er nødvendig for å dokumentere at internkontrollsystemet etterleves, herunder minst registrering avresultater av systematisk kontroll og overvåkning som gjennomføres for å avdekke avvik fra det måletekniske regelverketavvik samt vurdering av hvilken betydning disse kan ha på måleresultatene og årsaken til at avvikene har oppståttgjennomført opplæring eller videreopplæringvedlikehold som kan ha innvirkning på måleresultatene,resultater fra systematisk overvåking og gjennomgang av internkontrollsystemetdokumentasjon på at utstyr som brukes til å gjennomføre systematisk kontroll og overvåkning etter første ledd bokstav d) og til å korrigere avvik etter første ledd 4 bokstav e) tilfredsstiller kravene til kalibrering og nøyaktighet etter [§ 6](forskrift/2026-03-12-399/§6).
+
+Beskrivelser, oversikter og rutiner skal være skriftlige. Registreringer skal være leselige, identifiserbare og enkle å finne igjen, og skal oppbevares i 2 år eller til neste tilsyn.
+
+### § 5. Kompetanse
+
+Personer som utfører aktiviteter som er omfattet av eller relatert til det måletekniske regelverket, skal ha tilstrekkelig kompetanse slik at utførelsen skjer i tråd med gjeldende krav.
+
+### § 6. Kalibrering og sporbarhet
+
+Utstyr som brukes av den ansvarlige eller eksterne til å gjennomføre systematisk kontroll og overvåkning etter [§ 4 bokstav d](forskrift/2026-03-12-399/§4/bokstav/d)) og til å korrigere avvik etter [§ 4 bokstav e](forskrift/2026-03-12-399/§4/bokstav/e)) skal være kalibrert med sporbarhet til det internasjonale systemet for målenheter (SI-systemet), når slikt utstyr påvirker måleredskaper eller målinger omfattet av internkontrollsystemet. Utstyret skal ha en nøyaktighet som kan brukes for å dokumentere at krav i det måletekniske regelverket er oppfylt.
+
+Utstyret skal ha et program for kalibrering eller verifikasjon av parametere som har vesentlig innvirkning på måleresultatene.
+
+### § 7. Dispensasjon
+
+Justervesenet kan i forskrift eller enkeltvedtak gi unntak fra ett eller flere av kravene gitt i [§ 4](forskrift/2026-03-12-399/§4).
+
+## Kapittel 3. Avsluttende bestemmelser
+
+### § 8. Overtredelsesgebyr
+
+Overtredelse av bestemmelsene i [kapittel 2](forskrift/2026-03-12-399/kap2) kan medføre overtredelsesgebyr utmålt etter bestemmelsene i [forskrift om målenheter og måling kapittel 7](forskrift/2007-12-20-1723/kap7).
+
+### § 9. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. mai 2026. Fra samme tidspunkt oppheves [forskrift 20. desember 2016 nr. 1753 om krav til internkontrollsystem for måleredskaper og målinger](forskrift/2016-12-20-1753).

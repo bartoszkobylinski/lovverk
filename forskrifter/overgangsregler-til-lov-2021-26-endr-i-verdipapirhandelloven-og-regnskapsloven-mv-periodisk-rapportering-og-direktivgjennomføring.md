@@ -1,0 +1,34 @@
+---
+id: "sf-20210624-2176"
+slug: "overgangsregler-til-lov-2021-26-endr-i-verdipapirhandelloven-og-regnskapsloven-mv-periodisk-rapportering-og-direktivgjennomføring"
+type: "forskrift"
+ref_id: "forskrift/2021-06-24-2176"
+title: "Overgangsregler til lov 30. april 2021 nr. 26 om endringer i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)"
+short_title: "Overgangsregler til lov 2021:26, endr. i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2021-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "3d04e7b91f6fa465be00b4a4da7e6901b4d92e14890fd60dfbfb34dc0fd7d76b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Overgangsregler til lov 30. april 2021 nr. 26 om endringer i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)
+
+## § 1. Forskning og utvikling
+
+[Lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 5-6](lov/1998-07-17-56/§5-6) tredje punktum, skal forstås slik at gjenværende avskrivningsperiode på tidspunktet for ikrafttredelse av [lov 30. april 2021 nr. 26 om endringer i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)](lov/2021-04-30-26), ikke kan overstige ti år.
+
+## § 2. Goodwill
+
+[Lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 5-7](lov/1998-07-17-56/§5-7) tredje punktum, skal forstås slik at gjenværende avskrivningsperiode på tidspunktet for ikrafttredelse av [lov 30. april 2021 nr. 26 om endringer i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)](lov/2021-04-30-26), ikke kan overstige ti år.
+
+## § 3. Ikrafttredelse
+
+Overgangsreglene trer i kraft 1. juli 2021.

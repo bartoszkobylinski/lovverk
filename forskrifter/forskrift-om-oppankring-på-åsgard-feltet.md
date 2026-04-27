@@ -1,0 +1,40 @@
+---
+id: "sf-19960329-0310"
+slug: "forskrift-om-oppankring-på-åsgard-feltet"
+type: "forskrift"
+ref_id: "forskrift/1996-03-29-310"
+title: "Forskrift om område med forbud mot oppankring og fiske på Åsgard-feltet."
+short_title: "Forskrift om oppankring på Åsgard-feltet"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1997-03-01"
+last_change_in_force: "1997-03-01"
+last_updated: "2019-09-13"
+xml_hash: "629f938211a1c122db964f1e9a4e50d8ddabd5ae3036c5ce0aacb232eae62727"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om område med forbud mot oppankring og fiske på Åsgard-feltet.
+
+## § 1.
+
+Forskriften får anvendelse på 16 undervannsinnretninger fordelt på tre områder på Åsgard-feltet. Oljedirektoratet gis myndighet til å fastsette de endelige koordinater når disse foreligger. Koordinatene vil bli lokalisert innenfor følgende område:Smørbukk Sør:Blokk:6506/12Smørbukk:Blokk:6506/126506/11Midgard:Blokk:6507/116407/2
+
+## § 2.
+
+Innenfor området som vil bli endelig fastlagt av Oljedirektoratet forbys oppankring og fiske med bunnredskaper som bunntrål og snurrevad.Innretningens endelige betegnelser og posisjoner er:1Undervanns-UTMGeografiskeinnretningkoordinaterkoordinaterP7 212 875,0 N65° 01′ 22,8″ N400 079,0 Ø6° 52′ 44,6″ ØL7 225 879,0 N65° 08′ 18,0″ N395 983,0 Ø6° 46′ 57,0″ ØK7 225 489,0 N65° 08′ 01,3″ N392 416,0 Ø6° 42′ 24,6″ ØG7 220 500,1 N65° 05′ 17,6″ N390 139,8 Ø6° 39′ 44,3″ Ø
+
+> Endret ved [forskrift 13 feb 1997 nr. 357](forskrift/1997-02-13-357) (i kraft 1 mars 1997).
+
+## § 3.
+
+Forsettlig eller uaktsom overtredelse av denne forskriften straffes etter [lov 22. mars 1985 nr. 11](lov/1985-03-22-11) om petroleumsvirksomhet [§ 66](lov/1985-03-22-11/§66), jf forskrift om sikkerhetssoner m.v. [§ 15](lov/1985-03-22-11/§15).
+
+## § 4.
+
+Forskriften trer i kraft fra den tid1 Oljedirektoratet bestemmer.

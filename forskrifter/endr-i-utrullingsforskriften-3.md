@@ -1,0 +1,30 @@
+---
+id: "sf-20260330-0516"
+slug: "endr-i-utrullingsforskriften-3"
+type: "forskrift"
+ref_id: "forskrift/2026-03-30-516"
+title: "Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)"
+short_title: "Endr. i utrullingsforskriften"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2026-04-07"
+last_change_in_force: null
+last_updated: null
+xml_hash: "0644895e23eb3429c0925f834423d452f1f442da6bd8cfa4a7928e296addf636"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)
+
+## I
+
+1. Skyldner er registrert bosatt eller har registrert forretningsadresse i Finnmark, Troms eller Nordland fylke, unntatt Bindal kommune.
+
+## II
+
+Endringen trer i kraft 7. april 2026.

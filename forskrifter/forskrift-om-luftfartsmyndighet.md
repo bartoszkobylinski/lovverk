@@ -1,0 +1,38 @@
+---
+id: "sf-19991210-1272"
+slug: "forskrift-om-luftfartsmyndighet"
+type: "forskrift"
+ref_id: "forskrift/1999-12-10-1272"
+title: "Forskrift om hvem som er luftfartsmyndighet etter luftfartsloven."
+short_title: "Forskrift om luftfartsmyndighet"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2000-01-01"
+last_change_in_force: "2002-01-01"
+last_updated: null
+xml_hash: "af26cf660de38dec57ff018f291c7fd3b01beb875066ef732526e8b2fad8c792"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om hvem som er luftfartsmyndighet etter luftfartsloven.
+
+## I
+
+Luftfartstilsynet skal være luftfartsmyndighet etter luftfartsloven.
+
+Luftfartstilsynet og Luftfartsverket har hjemmel til å treffe vedtak om dispensasjon etter § 9-1, pålegge et luftfartøy å lande etter § 9-3, treffe vedtak om tilbakeholdsrett mv. etter § 13-2 første ledd og annet ledd nr. 1 og til å treffe vedtak om statistikk og lignende etter § 13-4. Vilkårene for Luftfartsverkets myndighet etter § 9-1 fremgår av [delegeringsvedtak av 5. januar 2001 nr. 9](forskrift/2001-01-05-9).
+
+Forskrifter der Luftfartsverket er gitt myndighet med hjemmel i luftfartsloven, skal med hjemmel i § 15-3 endres slik at Luftfartstilsynet blir myndighet. Det gjøres unntak for forskrifter gitt med hjemmel i annet ledd der både Luftfartstilsynet og Luftfartsverket er gitt myndighet.
+
+Den myndighet som Havarikommisjonen for sivil luftfart, politiet m.fl. er tillagt som «luftfartsmyndighet»/«vedkommende myndighet» etter luftfartsloven forblir uendret.
+
+> Endret ved [forskrift 5 jan 2001 nr. 15](forskrift/2001-01-05-15) (i kraft 10 feb 2001), [5 des 2001 nr. 1343](forskrift/2001-12-05-1343) (i kraft 1 jan 2002).
+
+## II
+
+Forskriften trer i kraft 1. januar 2000.

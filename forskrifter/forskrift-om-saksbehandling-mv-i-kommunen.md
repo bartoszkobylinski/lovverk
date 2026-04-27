@@ -1,0 +1,46 @@
+---
+id: "sf-20031208-1480"
+slug: "forskrift-om-saksbehandling-mv-i-kommunen"
+type: "forskrift"
+ref_id: "forskrift/2003-12-08-1480"
+title: "Forskrift om saksbehandling mv. i kommunen i saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven"
+short_title: "Forskrift om saksbehandling mv. i kommunen"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2004-01-01"
+last_change_in_force: "2014-09-22"
+last_updated: null
+xml_hash: "551bd5b566cd45bf0b4c125603c7d6708e8ed8c8dad8fa633cb4c33c0896512c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om saksbehandling mv. i kommunen i saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven
+
+## § 1. Om kommunens saksforberedelse
+
+I alle saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven har kommunen ansvaret for å hente inn nødvendige opplysninger og tilrettelegge saken. Dersom kommunen ikke selv har myndighet til å avgjøre saken, skal kommunen utrede saken og gi uttalelse til vedtaksmyndigheten.
+
+I alle saker etter konsesjonsloven som gjelder søknad om konsesjon for erverv av eiendom som skal nyttes til landbruksformål skal det i vedtaket vises hvordan prisvurderingen er foretatt i forhold til eiendommens enkelte deler. Dersom en på skjønnsmessig grunnlag er kommet fram til en annen pris enn det verdsettelsen av de enkelte delene tilsier, skal de hovedhensyn som har vært avgjørende for dette oppgis.
+
+> Endret ved [forskrift 23 juni 2009 nr. 831](forskrift/2009-06-23-831) (i kraft 1 juli 2009).
+
+## § 2. Om innhenting av statistikk mv.
+
+Kommunen må hente inn de statistiske opplysninger Landbruksdepartementet ber om. I arbeidet med innhenting og levering av statistikk skal kommunen anvende det elektroniske dataformatet Landbruksdepartementet fastsetter.
+
+Kommunen må stille til rådighet nødvendige saksdokumenter Landbruksdepartementet ber om i forbindelse med evaluering av praktiseringen av konsesjonsloven, jordloven, odelsloven og skogbruksloven.
+
+## § 3. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2004.
+
+## § 4. Opphevelse
+
+Fra ikrafttredelsen av forskriften her oppheves:[Forskrift av 30. desember 1993 nr. 1369](forskrift/1993-12-30-1369) om delegasjon av myndighet m.v. til fylkeslandbruksstyret og kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og fylkesmannen etter lov om skogbruk og skogvern av 21. mai 1965 (skogbruksloven),[Forskrift av 11. mars 1994 nr. 204](forskrift/1994-03-11-204) om krav til jord- og skogbruksfagleg kompetanse i kommunene,[Vedtak av 30. mai 2000 nr. 620](forskrift/2000-05-30-620) om delegering til kommunen, fylkeslandbruksstyret, fylkesmannen og Statens landbruksforvaltning, og forskrift om saksbehandling i kommunen og om intern arbeidsdeling mellom fylkeslandbruksstyret og fylkesmannen i saker etter konsesjonslova, odelslova og jordlova.
+
+Fra ikrafttredelsen av forskriften her oppheves følgende bestemmelser:[Forskrift av 2. mai 1997 nr. 423](forskrift/1997-05-02-423) om nydyrking [§ 8](forskrift/1997-05-02-423/§8),[Forskrift av 20. desember 1996 nr. 1200](forskrift/1996-12-20-1200) om planlegging og godkjenning av veier for landbruksformål [§ 3-2](forskrift/1996-12-20-1200/§3-2),[Forskrift av 20. april 1994 nr. 311](forskrift/1994-04-20-311) om bruk m.v. av skogavgift [§ 2-3](forskrift/1994-04-20-311/§2-3), og[Forskrift av 15. februar 1994 nr. 134](forskrift/1994-02-15-134) om forvaltning og bruk av rentene av skogavgiften (rentemidlene) [§ 3](forskrift/1994-02-15-134/§3) annet ledd nr. 1 annet punktum.

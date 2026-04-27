@@ -1,0 +1,97 @@
+---
+id: "sf-20190813-1061"
+slug: "forskrift-om-utgifter-til-jordmorhjelp"
+type: "forskrift"
+ref_id: "forskrift/2019-08-13-1061"
+title: "Forskrift om stønad til dekning av utgifter til jordmorhjelp"
+short_title: "Forskrift om utgifter til jordmorhjelp"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2019-08-13"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "f344d2f065d3129a15b9175e54f4351438b4691657ca95c484245ab13715046e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om stønad til dekning av utgifter til jordmorhjelp
+
+## Kapittel I. Regler
+
+### § 1
+
+Det ytes stønad stønad til dekning av utgifter til jordmorhjelp ved svangerskapskonsultasjoner, veiledning i familieplanlegging og ved fødsel utenfor institusjon.
+
+Det er et vilkår for rett til stønad ved svangerskapskonsultasjoner og veiledning i familieplanlegging at jordmor har avtale om driftstilskudd med kommunen eller er ansatt i kommunen. Driftsavtalen må omfatte minst 1/5 av full arbeidstid.
+
+### § 2
+
+Det er et vilkår for rett til stønad etter denne forskriften at den som utfører svangerskapskonsultasjoner og yter bistand ved fødsel utenfor institusjon, har autorisasjon som jordmor. Vilkåret om norsk autorisasjon gjelder ikke for jordmødre fra andre EU/EØS-stater som yter midlertidige tjenester i Norge, jf. [forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.
+
+### § 3
+
+Stønad ved svangerskapskonsultasjoner ytes etter takstene i kapittel II. Stønad ved fødsel utenfor institusjon ytes etter takstene i kapittel III. Det er ikke anledning til å kreve honorar av medlemmet ut over de fastsatte takstene.
+
+### § 4
+
+Hvis medlemmet på grunn av sin helsetilstand ikke kan møte fram på behandlingsstedet til svangerskapskonsultasjon, dekker kommunen reiseutgiftene for jordmor etter [lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m. [§ 11-1](lov/2011-06-24-30/§11-1) fjerde og femte ledd.
+
+### § 5. (Opphevet)
+
+> Opphevet ved forskrift [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021).
+
+### § 6
+
+Når jordmor er ansatt i kommunen, utbetales stønaden direkte til kommunen.
+
+> Endret ved forskrift [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021).
+
+## Kapittel II. Takster for svangerskapskonsultasjoner og individuell prevensjonsveiledning
+
+Takstene i [kapittel II](forskrift/2019-08-13-1061/kapII) gjelder bare for jordmødre med avtale om kommunalt driftstilskudd eller i kommunal stilling.
+
+«Repetisjon» betyr at taksten kan repeteres flere ganger på samme regning. Står det i stedet et tall, kan taksten repeteres dette antall ganger i én konsultasjon.*Takst**Honorar/refusjon**Merknad**Repetisjon*1aFørste gangs fullstendig undersøkelse og veiledning av gravide samt utfylling av godkjent svangerskapsjournal
+Ugyldig takstkombinasjon: 1b, 2433,–A101bSvangerskapskonsultasjon
+Ugyldig takstkombinasjon: 1a, 2218,–A101cTillegg for veiledning i prevensjon/familieplanlegging
+Ugyldig takstkombinasjon: 2149,–A101dTillegg for taking og innsending av prøver til laboratorium
+Ugyldig takstkombinasjon: 273,–A102Individuell prevensjonsveiledning
+Ugyldig takstkombinasjon: 1a, 1b, 1c, 1d130,–A20
+
+Takst 1a kan benyttes ved første gangs undersøkelse hos jordmor selv om den gravide har vært til første gangs undersøkelse hos lege. Takst 1a og 1b kan ikke kombineres.
+
+Takst 1b kan benyttes ved svangerskapskonsultasjoner og ved én konsultasjon etter fødselen. Taksten kan også benyttes ved konsultasjon sent i svangerskapet for å vurdere den gravides og barnets tilstand og om fødselen nærmer seg eller er i gang. Konsultasjon etter fødsel kan være barselsamtale, hjemmebesøk eller 4–6-ukerskontroll.
+
+Takst 1c kan benyttes inntil én gang per svangerskap.
+
+Takst 1d kan benyttes én gang per undersøkelse/konsultasjon ved innsending av en eller flere prøver. Taksten kan utløses uten samtidig undersøkelse/konsultasjon dersom det er behov for prøvetaking mellom svangerskapskonsultasjoner.
+
+Takstene 1b og 1c kan benyttes ved telefonkonsultasjoner og ved videokonsultasjoner. Det er et vilkår at videokonsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten. Video- og telefonkonsultasjon skal være avtalt med pasienten på forhånd. Video- og telefonkonsultasjoner erstatter ikke fysiske konsultasjoner fullt ut, men kan brukes som supplement etter individuell vurdering.
+
+Takst 2 er en egenandel, og kan benyttes ved individuell prevensjonsveiledning som skjer uavhengig av svangerskapsomsorg. Taksten kan ikke kreves av jordmor som arbeider i helsestasjon.
+
+> Endret ved forskrifter [23 mars 2020 nr. 389](forskrift/2020-03-23-389), [28 aug 2020 nr. 1693](forskrift/2020-08-28-1693), [20 okt 2020 nr. 2098](forskrift/2020-10-20-2098) (i kraft 1 nov 2020), [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025).
+
+## Kapittel III. Takster for jordmorhjelp ved fødsel utenfor institusjon
+
+Takstene 3a og 3b kan benyttes én gang per svangerskap når jordmor forut for planlagt hjemmefødsel har utført hovedtyngden av svangerskapskonsultasjonene, enten hjemmefødselen faktisk finner sted eller ikke.
+
+Jordmor med driftsavtale eller kommunal stilling benytter i stedet takst 1b for hver konsultasjon.
+
+Takstene 4a og 4b inkluderer nødvendig for- og etterarbeid i forbindelse med fødselen. Takstene kan som hovedregel ikke kreves for fødselshjelp som ytes i forbindelse med ledsagelse til fødeinstitusjon/under transport. Dersom planlagt hjemmefødsel må overføres til sykehus på grunn av komplikasjoner, kan taksten kreves for den tiden jordmor gir fødselshjelp før overføringen finner sted. Hjemmebesøk før og etter fødselen, vaktberedskap mv. dekkes ikke av trygden.
+
+Takstene 7a, 7b og 7c kan beregnes i tillegg til 4a, 6a og 8. Takst 7a kan kreves i tillegg til takst 7b eller 7c når tidspunktene sammenfaller.
+
+Takst 6a og 6b kan kun benyttes i forbindelse med planlagt hjemmefødsel.
+
+Takst 8 kan benyttes én gang av jordmor som assisterer primærjordmor ved hjemmefødsel.
+
+> Endret ved forskrifter [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025).
+
+## Kapittel IV. Ikrafttredelse
+
+Forskriften trer i kraft 13. august 2019. Fra samme tid oppheves [forskrift 26. juni 2012 nr. 656](forskrift/2012-06-26-656) om stønad til dekning av utgifter til jordmorhjelp.

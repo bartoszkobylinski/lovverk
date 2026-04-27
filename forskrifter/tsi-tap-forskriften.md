@@ -1,0 +1,44 @@
+---
+id: "sf-20121001-0954"
+slug: "tsi-tap-forskriften"
+type: "forskrift"
+ref_id: "forskrift/2012-10-01-954"
+title: "Forskrift om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)"
+short_title: "TSI TAP-forskriften"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2012-10-01"
+last_change_in_force: "2023-06-06"
+last_updated: "2023-01-06"
+xml_hash: "c81579a68ce80761cc71a91d817d18385d48ac1ae562797e11c41f4476afdc09"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)
+
+## § 1.
+
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37dj (forordning [(EU) nr. 454/2011](eu/32011r0454)) om den tekniske spesifikasjonen for samtrafikkevne med hensyn til delsystemet «telematikkprogrammer for persontransport» i det transeuropeiske jernbanesystemet, som endret ved forordning [(EU) nr. 665/2012](eu/32012r0665), forordning [(EU) nr. 1273/2013](eu/32013r1273), forordning [(EU) 2015/302](eu/32015r0302), forordning [(EU) 2016/527](eu/32016r0527) og forordning [(EU) 2019/775](eu/32019r0775), gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved [forskrifter 8 mai 2013 nr. 465](forskrift/2013-05-08-465), [19 mai 2014 nr. 651](forskrift/2014-05-19-651), [28 sep 2015 nr. 1132](forskrift/2015-09-28-1132), [28 sep 2016 nr. 1160](forskrift/2016-09-28-1160), [9 sep 2021 nr. 2723](forskrift/2021-09-09-2723) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 799](forskrift/2022-05-06-799)).
+
+## § 2.
+
+Bane NOR SF er nasjonalt kontaktpunkt iht. artikkel 6 i kommisjonsforordning [(EU) nr. 1273/2013](eu/32013r1273).
+
+> Endret ved [forskrifter 19 mai 2014 nr. 651](forskrift/2014-05-19-651), [19 sep 2018 nr. 1354](forskrift/2018-09-19-1354).
+
+## § 3.
+
+Forskriften trer i kraft straks.
+
+## Forordninger
+
+Rettsakten er gyldig på alle offisielle språk i EU. Vi legger ved den engelske teksten. Den uoffisielle norske oversettelsen legges kun ved av informasjonshensyn i påvente av den offisielle norske oversettelsen.
+
+> Endret ved [forskrifter 8 mai 2013 nr. 465](forskrift/2013-05-08-465), [19 mai 2014 nr. 651](forskrift/2014-05-19-651), endret uten kunngjøring 29 jan 2015, endret ved [forskrifter 28 sep 2015 nr. 1132](forskrift/2015-09-28-1132), [28 sep 2016 nr. 1160](forskrift/2016-09-28-1160), [9 sep 2021 nr. 2723](forskrift/2021-09-09-2723) (i kraft 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 799](forskrift/2022-05-06-799)).

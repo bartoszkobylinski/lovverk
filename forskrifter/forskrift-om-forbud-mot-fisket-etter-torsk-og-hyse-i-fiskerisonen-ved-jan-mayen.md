@@ -1,0 +1,58 @@
+---
+id: "sf-20181220-2217"
+slug: "forskrift-om-forbud-mot-fisket-etter-torsk-og-hyse-i-fiskerisonen-ved-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/2018-12-20-2217"
+title: "Forskrift om forbud mot fisket etter torsk og hyse i fiskerisonen ved Jan Mayen"
+short_title: "Forskrift om forbud mot fisket etter torsk og hyse i fiskerisonen ved Jan Mayen"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2019-01-01"
+last_change_in_force: "2020-01-01"
+last_updated: null
+xml_hash: "ebbe2cb17782825f16847d12acdbb40f8ddeddc9f6dc13c136112df52387371a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forbud mot fisket etter torsk og hyse i fiskerisonen ved Jan Mayen
+
+## § 1. Generelt forbud
+
+Det er forbudt for norske fartøy å fiske og lande torsk og hyse i fiskerisonen ved Jan Mayen.
+
+## § 2. Bifangst
+
+Ved fiske etter blåkveite i fiskerisonen ved Jan Mayen er det tillatt å ha inntil 5 % bifangst av torsk i vekt i de enkelte fangster og ved landing.
+
+> Tilføyd ved [forskrift 27 des 2019 nr. 2191](forskrift/2019-12-27-2191) (i kraft 1 jan 2020).
+
+## § 3. Kartleggingsfiske
+
+Uten hinder av forbudet i [§ 1](forskrift/2018-12-20-2217/§1) kan norske fartøy med adgang til å delta gis tillatelse til å delta i kartleggingsfiske etter torsk og hyse i fiskerisonen ved Jan Mayen.
+
+Tillatelse gis av Fiskeridirektoratet. Fiskeridirektoratet skal fastsette vilkår i tillatelsen som er nødvendig for å oppnå en hensiktsmessig gjennomføring av et slikt kartleggingsfiske.
+
+> Endret ved [forskrift 27 des 2019 nr. 2191](forskrift/2019-12-27-2191) (i kraft 1 jan 2020, tidligere § 2).
+
+## § 4. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften, kan ilegges overtredelsesgebyr i henhold til [havressurslova § 59](lov/2008-06-06-37/§59) og [forskrift 20. desember 2011 nr. 1437](forskrift/2011-12-20-1437) om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.
+
+> Endret ved [forskrift 27 des 2019 nr. 2191](forskrift/2019-12-27-2191) (i kraft 1 jan 2020, tidligere § 3).
+
+## § 5. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til [havressurslova § 61](lov/2008-06-06-37/§61), [§ 64](lov/2008-06-06-37/§64) og [§ 65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk.
+
+> Endret ved [forskrift 27 des 2019 nr. 2191](forskrift/2019-12-27-2191) (i kraft 1 jan 2020, tidligere § 4).
+
+## § 6. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. januar 2019.
+
+> Endret ved [forskrift 27 des 2019 nr. 2191](forskrift/2019-12-27-2191) (i kraft 1 jan 2020, tidligere § 5).

@@ -1,0 +1,1364 @@
+---
+id: "nl-19980717-056"
+slug: "regnskapsloven-rskl"
+type: "lov"
+ref_id: "lov/1998-07-17-56"
+title: "Lov om årsregnskap m.v. (regnskapsloven)"
+short_title: "Regnskapsloven – rskl"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1999-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2023-02-21"
+xml_hash: "874a120a0464b161a160a4ca7100273409e1bbe0c08b2652a3b853daa91b1dbf"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om årsregnskap m.v. (regnskapsloven)
+
+## Kapittel 1. Virkeområde, regnskapspliktige, definisjoner
+
+### § 1-1. Lovens virkeområde
+
+(1) Loven gjelder regnskapspliktige som nevnt i [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 1 til 12 som er hjemmehørende i Norge, samt regnskapspliktige som nevnt i [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 13.
+
+(2) Kongen fastsetter regler om denne lovs anvendelse for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene og kan fastsette særlige regler under hensyn til forholdene der.
+
+> Endret ved [lover 15 juni 2001 nr. 59](lov/2001-06-15-59) (ikr. 1 jan 2005 iflg. [res. 19 nov 2004 nr. 1489](forskrift/2004-11-19-1489)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-2. Regnskapspliktige
+
+(1) Regnskapspliktige etter denne loven er:aksjeselskaper,allmennaksjeselskaper,statsforetak,selskap som definert i [selskapsloven § 1-2](lov/1985-06-21-83/§1-2) første ledd bokstav a, med unntak avinterkommunale selskaperselskap som ikke er partrederi og som i året har hatt mindre enn fem millioner kroner i salgsinntekt og et gjennomsnittlig antall ansatte færre enn fem årsverk dersom antallet deltakere ikke overstiger fem og ingen av deltakerne er juridisk person med begrenset ansvar,finansforetak og andre foretak som det føres tilsyn med etter [finanstilsynsloven § 1-2](lov/2024-06-21-41/§1-2),verdipapirfond,samvirkeforetak og økonomiske foreninger som i året har hatt salgsinntekter over to millioner kroner,boligbyggelag, borettslag og eierseksjonssameier som nevnt i [eierseksjonsloven § 64](lov/2017-06-16-65/§64) annet ledd.andre foreninger som i året har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,stiftelser,enhver som driver enkeltpersonforetak og som i året samlet har hatt eiendeler med verdi over 20 millioner kroner eller et gjennomsnittlig antall ansatte høyere enn 20 årsverk,andre som etter særskilt bestemmelse i eller i medhold av lov har regnskapsplikt etter regnskapsloven.utenlandsk foretak som utøver eller deltar i virksomhet her i riket eller på norsk kontinentalsokkel, og som er skattepliktig til Norge etter norsk intern lovgivning,
+
+(2) Foretak som er omfattet av første ledd nr. 4, 7, 9 eller 11 og som har drevet virksomhet i mer enn ett år, er regnskapspliktig først når vilkår om å overskride beløpsgrenser eller grense for antall ansatte er oppfylt to år på rad.
+
+(3) Foretak som har hatt regnskapsplikt etter første ledd nr. 4, 7, 9 eller 11, men som ett år ikke oppfyller vilkår om beløpsgrense eller antall ansatte, har fortsatt regnskapsplikt fram til vilkårene ikke er oppfylt to år på rad.
+
+(4) Departementet kan i forskrift gi regler om beregning av salgsinntekter og eiendelenes verdi etter første ledd nr. 4, 7, 9 og 11.
+
+> Endret ved [lover 17 des 1999 nr. 93](lov/1999-12-17-93) (ikr. 1 jan 2000), [16 juni 2000 nr. 41](lov/2000-06-16-41) (ikr. 1 juli 2000), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [15 juni 2001 nr. 59](lov/2001-06-15-59) (ikr. 1 jan 2005 iflg. [res. 19 nov 2004 nr. 1489](forskrift/2004-11-19-1489)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)) som endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [16 juni 2017 nr. 65](lov/2017-06-16-65) (ikr. 1 jan 2018 iflg. [res. 15 sep 2017 nr. 1393](forskrift/2017-09-15-1393)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [21 juni 2024 nr. 41](lov/2024-06-21-41) (i kraft 1 april 2025 iflg. [res. 21 mars 2025 nr. 479](forskrift/2025-03-21-479)).
+
+### § 1-2a. Regnskapspliktige med plikt til å utarbeide bærekraftsrapportering
+
+(1) Bestemmelsene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder for følgende regnskapspliktige:aksjeselskaper,allmennaksjeselskaper,selskaper som nevnt i [§ 1-2 nr. 4](lov/1998-07-17-56/§1-2/nummer/4) hvis alle deltakerne som har ubegrenset ansvar, er selskaper med begrenset ansvar,banker,kredittforetak,forsikringsforetak,statsforetak,filialer som nevnt i [§ 2-8 annet ledd](lov/1998-07-17-56/§2-8/ledd/2),andre regnskapspliktige når det er fastsatt i forskrift gitt av departementet.
+
+(2) Bestemmelsene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder likevel ikke for alternative investeringsfond.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-3. Konsern
+
+(1) Et morselskap utgjør sammen med et datterselskap eller datterselskaper et konsern.
+
+(2) Regnskapspliktig etter [§ 1-2](lov/1998-07-17-56/§1-2) som ikke faller inn under [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 11 eller 13, er morselskap hvis vedkommende på grunn av avtale eller som eier av aksjer eller andeler har bestemmende innflytelse over et annet foretak. En regnskapspliktig skal anses å ha bestemmende innflytelse hvis vedkommende:eier så mange aksjer eller andeler i et annet foretak at de representerer flertallet av stemmene i det andre foretaket, med mindre det i særlige unntakstilfeller klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, ellerhar rett til å velge eller avsette et flertall av medlemmene i det andre foretakets styre.
+
+(3) Et foretak som står i forhold som nevnt i annet ledd til et morselskap, anses som datterselskap.
+
+(4) Ved beregningen av stemmerettigheter og rettigheter til å velge eller avsette medlemmer til styret skal rettigheter som morselskapet og morselskapets datterselskaper innehar, regnes med. Det samme gjelder rettigheter som innehas av noen som handler i eget navn, men for morselskapets eller et datterselskaps regning.
+
+> Endret ved [lover 15 juni 2001 nr. 59](lov/2001-06-15-59) (ikr. 1 jan 2005 iflg. [res. 19 nov 2004 nr. 1489](forskrift/2004-11-19-1489)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-4. Tilknyttet selskap
+
+Som tilknyttet selskap regnes foretak hvor den regnskapspliktige har betydelig innflytelse, men som ikke er datterselskap eller felles kontrollert virksomhet, jf. [§ 5-17](lov/1998-07-17-56/§5-17) første ledd. Betydelig innflytelse skal normalt anses å foreligge når den regnskapspliktige eier så mange aksjer eller andeler at de representerer minst 20 prosent av stemmene i foretaket.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 1-5. Kategorier av foretak og konsern
+
+(1) Som mikroforetak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:balansesum: 5 millioner kronersalgsinntekter: 10 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 10 årsverkMed mindre noe annet er fastsatt, skal mikroforetak følge reglene for små foretak.
+
+(2) Som små foretak regnes regnskapspliktige som på balansedagen overskrider én eller ingen av følgende tre terskler:balansesum: 84 millioner kronersalgsinntekter: 168 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 50 årsverk
+
+(3) Som mellomstore foretak regnes regnskapspliktige som ikke er mikroforetak, små foretak eller store foretak.
+
+(4) Som store foretak regnes regnskapspliktige som på balansedagen overskrider minst to av følgende tre terskler:balansesum: 290 millioner kronersalgsinntekter: 580 millioner kronergjennomsnittlig antall ansatte i regnskapsåret: 250 årsverk
+
+(5) Som små konsern regnes konsern som på balansedagen oppfyller vilkårene for små foretak i annet ledd, beregnet etter reglene i tolvte ledd. Med mindre noe annet er fastsatt, skal små konsern følge reglene for små foretak.
+
+(6) Som mellomstore konsern regnes konsern som ikke er små konsern eller store konsern. Med mindre noe annet er fastsatt, skal mellomstore konsern følge reglene for mellomstore foretak.
+
+(7) Som store konsern regnes konsern som på balansedagen oppfyller vilkårene for store foretak i fjerde ledd, beregnet etter reglene i tolvte ledd. Med mindre noe annet er fastsatt, skal store konsern følge reglene for store foretak.
+
+(8) Når en regnskapspliktig eller et konsern på balansedagen overskrider eller ikke lenger overskrider grensene for to av de tre tersklene for balansesum, salgsinntekter og gjennomsnittlig antall ansatte, skal dette forholdet få virkning for hvilken størrelseskategori den regnskapspliktige eller konsernet tilhører først for det andre av to regnskapsår etter hverandre hvor forholdet har inntruffet.
+
+(9) Inntektene fra den regnskapspliktiges hovedaktiviteter skal anses som salgsinntekt ved vurdering av om terskelverdiene i første til syvende ledd er overskredet.
+
+(10) Balansesummen er summen av alle eiendelspostene, jf. [§ 6-2](lov/1998-07-17-56/§6-2) A og B.
+
+(11) Morselskap i mellomstore konsern regnes som mellomstore foretak. Morselskap i store konsern regnes som store foretak. Morselskap i små konsern regnes bare som mikroforetak hvis vilkårene er oppfylt for konsernet.
+
+(12) I konsern skal balansesum, salgsinntekter og gjennomsnittlig antall ansatte beregnes enten for konsernet sett som en enhet (konsolidert grunnlag) eller samlet for konsernet uten noen form for eliminering av konserninterne transaksjoner og mellomværende. Hvis beregningen gjøres samlet for konsernet uten elimineringer, økes grensene for balansesum og salgsinntekter med 20 prosent.
+
+(13) Departementet kan i forskrift gi regler om beregningen av balansesum og salgsinntekter for enkelte regnskapspliktige og om regnskapsføringen ved overgang fra en foretakskategori til en annen.
+
+> Endret ved [lover 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 10 des 2004 med virkning for regnskapsår påbegynt 1 jan 2004 eller senere iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-6. Foretak av allmenn interesse og noterte foretak
+
+(1) Som foretak av allmenn interesse regnesnoterte foretak,banker,kredittforetak,forsikringsforetak.
+
+(2) Som noterte foretak regnes regnskapspliktige som har utstedt omsettelige verdipapirer som er tatt opp til handel på et regulert marked i EØS.
+
+(3) Med mindre noe annet er fastsatt, skal foretak av allmenn interesse følge reglene for store foretak uavhengig av balansesum, salgsinntekter og gjennomsnittlig antall ansatte i regnskapsåret. Med mindre noe annet er fastsatt, skal morselskap i konsern hvor minst ett av selskapene i konsernet er et foretak av allmenn interesse, følge reglene for store konsern uavhengig av konsernets balansesum, salgsinntekter og gjennomsnittlig antall ansatte i regnskapsåret.
+
+(4) Noterte foretak som er små eller mellomstore foretak, kan følge reglene for små og mellomstore foretak i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8). Reglene i [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-8](lov/1998-07-17-56/§2-8) gjelder ikke banker, kredittforetak og forsikringsforetak som er små eller mellomstore foretak og som ikke er noterte foretak.
+
+> Endret ved [lover 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 10 des 2004 med virkning for regnskapsår påbegynt 1 jan 2004 eller senere iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-7. Regnskapsåret
+
+(1) Regnskapsåret er kalenderåret. Avvikende regnskapsår kan benyttes dersom dette på grunn av sesongmessig virksomhet øker årsregnskapets informasjonsverdi. Regnskapspliktig som er filial eller datterselskap av utenlandsk foretak, kan benytte avvikende regnskapsår for å ha samme regnskapsår som det utenlandske foretaket. Departementet kan i særlige tilfeller ved forskrift eller enkeltvedtak gjøre unntak fra bestemmelsen i første punktum.
+
+(2) Den regnskapspliktiges første regnskapsår, første avvikende regnskapsår eller siste avvikende regnskapsår kan være kortere eller lengre enn 12 måneder. Regnskapsåret kan likevel ikke i noe tilfelle være lengre enn 18 måneder.
+
+(3) Ved oppløsning slutter regnskapsåret på oppløsningstidspunktet.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 juni 2006 nr. 38](lov/2006-06-30-38) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 773](forskrift/2006-06-30-773)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 1-8. Styre og tilsvarende ledelsesorgan
+
+De bestemmelser som omhandler et styre og dets medlemmer gjelder også for tilsvarende ledelsesorganer og medlemmer av slikt ledelsesorgan.
+
+### § 1-9. Fusjon
+
+Som fusjon regnes sammenslåing som nevnt i [aksjeloven § 13-2](lov/1997-06-13-44/§13-2) og [allmennaksjeloven § 13-2](lov/1997-06-13-45/§13-2), samt sammenslåing som omfatter annen regnskapspliktig og som gjennomføres på tilsvarende måte. Som fusjon regnes også en sammenslåing som nevnt i [allmennaksjeloven §§ 13-25](lov/1997-06-13-45/§13-25) til [13-36](lov/1997-06-13-45/§13-36), jf. [aksjeloven § 13-25](lov/1997-06-13-44/§13-25), om fusjoner over landegrensene når kontantvederlaget som ytes til aksjeeierne i det overdragende selskapet ikke overstiger 20 prosent av det samlede vederlaget.
+
+> Endret ved [lov 21 des 2007 nr. 129](lov/2007-12-21-129).
+
+### § 1-10. Vesentlig opplysning
+
+En opplysning er vesentlig dersom utelatelsen eller feil i slike opplysninger med rimelighet kan forventes å påvirke beslutninger som brukere tar på grunnlag av foretakets årsregnskap. Enkeltposters vesentlighet skal vurderes i sammenheng med andre tilsvarende poster.
+
+> Tilføyd ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 1-11. Bærekraftsforhold
+
+Med bærekraftsforhold menes miljømessige, sosiale og styringsmessige forhold, inkludert forhold som gjelder arbeidstakere, respekt for menneskerettigheter og bekjempelse av korrupsjon og bestikkelser.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+## Kapittel 2 Årsberetning og bærekraftsrapportering
+
+> Kapittelet med [§ 2-1](lov/1998-07-17-56/§2-1) til [§ 2-8](lov/1998-07-17-56/§2-8) opphevet ved [lov 19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)), tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-1. Plikt til å utarbeide årsberetning
+
+(1) Regnskapspliktige som er mellomstore eller store foretak, skal for hvert regnskapsår utarbeide årsberetning i samsvar med bestemmelsene i denne loven.
+
+(2) Regnskapspliktige som utarbeider konsernregnskap, skal i årsberetningen også dekke virksomheten i konsernet. Informasjonen om virksomheten i konsernet skal gi grunnlag for å vurdere morselskapet og datterselskapene som en enhet.
+
+(3) Årsberetningen skal fastsettes samtidig med årsregnskapet, jf. [§ 3-1](lov/1998-07-17-56/§3-1) annet ledd.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-2. Årsberetningens innhold
+
+(1) I årsberetningen skal det gis opplysninger om arten av virksomheten og hvor virksomheten drives, inkludert opplysning om eventuelle filialer.
+
+(2) Årsberetningen skal minst omfatte en rettvisende oversikt over utviklingen og resultatet av den regnskapspliktiges virksomhet og av dens stilling, sammen med en beskrivelse av de mest sentrale risikoer og usikkerhetsfaktorer den regnskapspliktige står overfor. Oversikten skal være en balansert og fyllestgjørende analyse av utviklingen og resultatet av den regnskapspliktiges virksomhet og av dens stilling, hensyntatt virksomhetens størrelse og kompleksitet. Det skal gis opplysninger om forsknings- og utviklingsaktiviteter.
+
+(3) I den grad det er nødvendig for å forstå den regnskapspliktiges utvikling, resultat eller stilling, skal analysen nevnt i annet ledd inneholde både finansielle og ikke-finansielle sentrale resultatindikatorer relevante for den aktuelle virksomheten, inkludert opplysninger om miljøforhold og forhold som gjelder arbeidstakere.
+
+(4) I sin analyse skal årsberetningen, der det passer, inneholde henvisninger og tilleggsforklaringer til beløp oppført i årsregnskapet.
+
+(5) Det skal gis en redegjørelse i årsberetningen som gir grunnlag for å vurdere den regnskapspliktiges framtidige utvikling. Regnskapspliktig som i foregående årsberetning eller årsregnskap har angitt resultatmål eller gitt andre opplysninger om forventet utvikling, skal opplyse om forventningene er i samsvar med årets resultat og begrunne eventuelle avvik.
+
+(6) Det skal gis opplysninger om finansiell risiko som er av betydning for å bedømme foretakets eiendeler, gjeld, finansiell stilling og resultat. Opplysningene skal omfatte mål og strategier som er fastsatt for styring av finansiell risiko, herunder strategien for sikring av hver hovedtype av planlagte transaksjoner der sikringsvurdering er benyttet. Det skal gjøres rede for foretakets eksponering mot markedsrisiko, kredittrisiko og likviditetsrisiko.
+
+(7) Regnskapspliktige som nevnt i [§ 2-3 første ledd](lov/1998-07-17-56/§2-3/ledd/1) skal opplyse om sentrale immaterielle ressurser. Det skal forklares på hvilken måte foretakets forretningsmodell grunnleggende er avhengig av slike ressurser, og på hvilken måte slike ressurser er en kilde til verdiskaping for virksomheten. Med sentrale immaterielle ressurser menes ressurser uten fysisk substans som foretakets forretningsmodell grunnleggende er avhengig av, og som er en kilde til verdiskaping for foretaket.
+
+(8) I årsberetningen skal det gis følgende opplysninger om forutsetningen om fortsatt drift, jf. [§ 4-5](lov/1998-07-17-56/§4-5):Dersom forutsetning om fortsatt drift legges til grunn for årsregnskapet, skal det bekreftes at forutsetningen er til stede.Dersom det er tvil om den regnskapspliktige kan fortsette virksomheten, skal det redegjøres for usikkerheten.Dersom styrets handleplikt ved tap av egenkapital har inntrådt i henhold til [aksjeloven](lov/1997-06-13-44) eller [allmennaksjeloven § 3-5](lov/1997-06-13-45/§3-5), skal det opplyses om det er besluttet eller satt i verk tiltak for å sikre selskapets drift, eventuelt å oppløse selskapet.Dersom det er sannsynlig at virksomheten vil bli avviklet, skal det redegjøres for hvordan virkelig verdi ved avvikling er beregnet dersom dette ikke framgår i note til årsregnskapet.
+
+(9) Årsberetningen skal inneholde forslag til anvendelse av overskudd eller dekning av tap dersom dette ikke framgår av årsregnskapet.
+
+(10) Det skal gis opplysninger om arbeidsmiljøet og en oversikt over iverksatte tiltak som har betydning for arbeidsmiljøet. Det skal opplyses særskilt om skader og ulykker. Regnskapspliktig som i regnskapsåret har sysselsatt minst 5 årsverk, skal i tillegg opplyse særskilt om sykefravær.
+
+(11) Det skal gis opplysninger om forhold ved virksomheten, herunder dens innsatsfaktorer og produkter, som kan medføre en ikke ubetydelig påvirkning på miljøforhold. Opplysningene skal omfatte hvilke negative virkninger virksomheten har eller kan ha på klima, natur og miljø, samt hvilke tiltak som er iverksatt eller planlegges iverksatt for å forhindre eller redusere slike negative virkninger.
+
+(12) Det skal gis opplysninger om det er tegnet forsikring for styrets medlemmer og daglig leder for deres mulige ansvar overfor foretaket og tredjepersoner og i tilfelle om forsikringsdekningen.
+
+(13) Regnskapspliktige som er noterte foretak, skal gi følgende opplysninger om aksjeeierforhold i selskapet:en beskrivelse av vedtektsbestemmelser som begrenser retten til å omsette selskapets aksjer,en beskrivelse av hvem som utøver rettighetene til aksjer i eventuelle ansatteaksjeordninger når myndigheten ikke utøves direkte av de ansatte som er omfattet av ordningen,avtaler mellom aksjeeiere selskapet er kjent med som begrenser mulighetene til å omsette eller utøve stemmerett for aksjer,vesentlige avtaler selskapet er part i hvis vilkår trer i kraft, endres eller opphører som følge av et overtakelsestilbud, samt en redegjørelse for vilkårene. I den grad det vil medføre urimelig forretningsmessig ulempe at en avtale blir kjent, kan foretaket la være å opplyse om avtalen. Dette gjelder likevel ikke dersom selskapet er forpliktet til å offentliggjøre opplysninger om avtalen i henhold til annen lovgivning.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-3. Plikt til å utarbeide bærekraftsrapportering
+
+(1) Store foretak skal innta bærekraftsrapportering for foretaket i årsberetningen i samsvar med [§ 2-4](lov/1998-07-17-56/§2-4). Dette gjelder også for små og mellomstore foretak som er noterte foretak, men ikke for mikroforetak.
+
+(2) Morselskap i store konsern skal innta konsolidert bærekraftsrapportering for konsernet i årsberetningen i samsvar med [§ 2-5](lov/1998-07-17-56/§2-5).
+
+(3) Et morselskap som utarbeider konsolidert bærekraftsrapportering for konsernet i samsvar med [§ 2-5](lov/1998-07-17-56/§2-5), skal anses å ha oppfylt plikten etter første ledd.
+
+(4) Et datterselskap er unntatt fra plikt til å utarbeide bærekraftsrapportering etter første ledd hvis datterselskapet med sine datterselskaper er inkludert i årsberetningen til et morselskap, og morselskapets årsberetning er utarbeidet i samsvar med [§ 2-1 annet ledd](lov/1998-07-17-56/§2-1/ledd/2), [§ 2-2](lov/1998-07-17-56/§2-2) og [§ 2-5](lov/1998-07-17-56/§2-5), og det avgis en attestasjonsuttalelse i samsvar med [revisorloven § 9-7 a](lov/2020-11-20-128/§9-7a). Et morselskap som selv er datterselskap, er på samme vilkår unntatt fra plikt til å utarbeide konsolidert bærekraftsrapportering for konsernet etter annet ledd.
+
+(5) Et datterselskap er unntatt fra plikt til å utarbeide bærekraftsrapportering etter første ledd hvis datterselskapet med sine datterselskaper er inkludert i den konsoliderte bærekraftsrapporteringen til et morselskap som er etablert utenfor EØS, og denne bærekraftsrapporteringen er utarbeidet i samsvar med standardene for bærekraftsrapportering som er nevnt i [§ 2-6 nr. 1](lov/1998-07-17-56/§2-6/nummer/1), eller på en likeverdig måte i samsvar med beslutninger om likeverdige standarder om bærekraftsrapportering fastsatt i forskrift i medhold av [verdipapirhandelloven § 5-7](lov/2007-06-29-75/§5-7). Et morselskap som selv er datterselskap, er på samme vilkår unntatt fra plikt til å utarbeide konsolidert bærekraftsrapportering for konsernet etter annet ledd.
+
+(6) Unntakene i fjerde og femte ledd gjelder bare hvis følgende vilkår er oppfylt:Årsberetningen til datterselskapet inneholder navnet og forretningskontoret til morselskapet som rapporterer på konsernnivå, nettlenkene til den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen, jf. nr. 2, og opplysning om at datterselskapet er unntatt fra kravene til bærekraftsrapportering.Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen til revisor eller uavhengig tilbyder av attestasjonstjenester, og i tilfelle oversettelsene som nevnt i nr. 3, er publisert og tilgjengelig på internett.Den konsoliderte bærekraftsrapporteringen og attestasjonsuttalelsen er på eller oversatt til norsk, svensk, dansk eller engelsk. Hvis en oversettelse ikke er sertifisert, skal oversettelsen inneholde en erklæring om dette.
+
+(7) Er morselskapet etablert utenfor EØS, gjelder fjerde og femte ledd dessuten bare hvis opplysninger etter taksonomiforordningen artikkel 8 inntas i årsberetningen til datterselskapet eller i den konsoliderte bærekraftsrapporteringen, og den konsoliderte bærekraftsrapporteringen og en attestasjonsuttalelse avgitt av en person eller et foretak med godkjenning i hjemlandet til å attestere bærekraftsrapporteringen, sendes inn til Regnskapsregisteret, jf. [§ 8-2 tredje ledd](lov/1998-07-17-56/§8-2/ledd/3).
+
+(8) Unntakene i fjerde og femte ledd gjelder ikke for store foretak som er noterte foretak.
+
+(9) Der forordning [(EU) nr. 575/2013](eu/32013r0575) (kapitalkravsforordningen) artikkel 10 gjelder, skal en bank eller et kredittforetak som er knyttet til og overvåket av et sentralt organ som angitt i forordningen artikkel 10, behandles som et datterselskap av dette sentrale organet ved anvendelsen av fjerde og femte ledd. Et forsikringsforetak som er del av et konsern på grunnlag av finansielle forbindelser som angitt i direktiv [2009/138/EF](eu/32009l0138) (Solvens II-direktivet) artikkel 212 nr. 1 bokstav c punkt ii, og som er underlagt konsernovervåking i samsvar med direktivet artikkel 213 nr. 2 bokstav a til c, skal behandles som et datterselskap av morselskapet i dette konsernet ved anvendelsen av fjerde og femte ledd.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-4. Bærekraftsrapportering
+
+(1) Bærekraftsrapporteringen i årsberetningen etter [§ 2-3 første ledd](lov/1998-07-17-56/§2-3/ledd/1) skal gi informasjon som er nødvendig for å forstå den regnskapspliktiges innvirkning på bærekraftsforhold og informasjon som er nødvendig for å forstå hvordan bærekraftsforhold påvirker den regnskapspliktiges utvikling, stilling og resultat. Bærekraftsrapporteringen skal være tydelig identifiserbar og gis i en egen del av årsberetningen.
+
+(2) Bærekraftsrapporteringen skal inneholde:en kort beskrivelse av foretakets forretningsmodell og strategi, inkludert:hvor motstandsdyktig forretningsmodellen og strategien er mot risiko knyttet til bærekraftsforhold,mulighetene for foretaket knyttet til bærekraftsforhold,foretakets planer for å sikre at forretningsmodellen og strategien er forenlig med overgangen til en bærekraftig økonomi og med begrensning av global oppvarming til 1,5 °C i tråd med [Parisavtalen](traktat/2015-12-12-32), målet om å oppnå klimanøytralitet innen 2050 og foretakets eventuelle eksponering for kull-, olje- og gassrelaterte aktiviteter. Beskrivelsen skal omfatte gjennomføringstiltak og tilknyttede planer for investeringer og finansiering,hvordan forretningsmodellen og strategien tar hensyn til foretakets interessenter og til innvirkningen foretaket har på bærekraftsforhold, oghvordan strategien har blitt gjennomført når det gjelder bærekraftsforhold.en beskrivelse av de tidsbestemte målene knyttet til bærekraftsforhold som foretaket har satt, herunder, der det er relevant, mål om reduksjon i klimagassutslipp minst for 2030 og 2050, av fremgangen foretaket har hatt med å oppnå målene og en erklæring om hvorvidt foretakets miljørelaterte mål er vitenskapelig fundert,en beskrivelse av rollen til foretakets styrende organer når det gjelder bærekraftsforhold, og deres kompetanse til å utføre denne rollen eller tilgangen de har på slik kompetanse,en beskrivelse av foretakets retningslinjer knyttet til bærekraftsforhold,informasjon om eventuelle insentivordninger knyttet til bærekraftsforhold som tilbys medlemmer av foretakets styrende organer,en beskrivelse avden regnskapspliktiges aktsomhetsvurderinger som gjelder bærekraftsforhold, inkludert aktsomhetsvurderinger i samsvar med lovkrav,de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og forsyningskjeden, gjennomførte tiltak for å identifisere og overvåke disse virkningene, samt andre virkninger foretaket er forpliktet til å identifisere etter andre EØS-regler om å gjøre aktsomhetsvurderinger, ogtiltak som er iverksatt for å forhindre, begrense og utbedre faktiske eller potensielle skadevirkninger, og resultatet av slike tiltak.en beskrivelse av de viktigste risikoene for foretaket knyttet til bærekraftsforhold, inkludert en beskrivelse av bærekraftsforholdene som foretaket er mest avhengig av, og hvordan foretaket håndterer disse risikoene, ogindikatorer som er relevante for opplysningene ovenfor.Den regnskapspliktige skal beskrive prosessen som er utført for å identifisere informasjonen som er inkludert i årsberetningen i henhold til første ledd. Der det passer skal opplysningene som nevnt i nr. 1 til 8 inkludere informasjon som beskriver forholdene på kort, mellomlang og lang sikt.
+
+(3) Der det passer skal bærekraftsrapporteringen inneholde:informasjon om foretakets egen virksomhet og verdikjede, inkludert foretakets produkter og tjenester, dets forretningsforbindelser og leverandørkjede, ogreferanser til annen informasjon i årsberetningen og beløp som er rapportert i årsregnskapet med utdypende forklaringer.
+
+(4) Opplysninger om kommende utvikling eller forhandlinger kan utelates i særlige unntakstilfeller, når det etter styrets eller tilsvarende foretaksorgans forsvarlig begrunnede oppfatning vil være til alvorlig forretningsmessig skade for den regnskapspliktige om opplysningene ble offentliggjort. Opplysningene kan likevel bare utelates hvis dette ikke forhindrer en rimelig og balansert forståelse av foretakets utvikling, stilling og resultat og hvordan virksomheten påvirker omgivelsene. Begrunnelsen skal inntas i styreprotokollen eller dokumenteres på tilsvarende måte.
+
+(5) Den regnskapspliktige skal utarbeide bærekraftsrapportering som angitt i første til fjerde ledd i samsvar med standardene for bærekraftsrapportering som er fastsatt i medhold av [§ 2-6 nr. 1](lov/1998-07-17-56/§2-6/nummer/1).
+
+(6) Små og mellomstore foretak som er noterte foretak, kan begrense bærekraftsrapporteringen etter første ledd til følgende informasjon:en kort beskrivelse av foretakets forretningsmodell og strategi,en beskrivelse av foretakets retningslinjer når det gjelder bærekraftsforhold,de viktigste faktiske eller potensielle negative virkningene knyttet til foretakets virksomhet og verdikjede, inkludert foretakets produkter og tjenester, forretningsforhold og leverandørkjeden, gjennomførte tiltak for å identifisere og overvåke, forhindre, begrense og avhjelpe disse virkningene,de viktigste risikoene for foretaket knyttet til bærekraftsforhold og hvordan foretaket håndterer disse risikoene, ogsentrale indikatorer som er nødvendige for rapporteringen i nr. 1 til 4.
+
+(7) Sjette ledd gjelder tilsvarende for følgende store foretak:mindre og ikke-komplekse foretak, jf. [finansforetaksloven § 1-5 ellevte ledd](lov/2015-04-10-17/§1-5/ledd/11),egenforsikringsforetak ogegenforsikringsforetak for gjenforsikring.
+
+(8) Regnskapspliktige som benytter adgangen i sjette og syvende ledd, skal utarbeide bærekraftsrapportering i samsvar med standardene for bærekraftsrapportering for små og mellomstore foretak som er fastsatt i medhold av [§ 2-6 nr. 2](lov/1998-07-17-56/§2-6/nummer/2).
+
+(9) Den regnskapspliktiges ledelse og arbeidstakernes tillitsvalgte skal drøfte hvilken informasjon som er relevant, og hvordan bærekraftsinformasjonen innhentes og verifiseres. Synspunktene til arbeidstakernes tillitsvalgte skal formidles til arbeidsgivers styre.
+
+(10) Regnskapspliktige som utarbeider bærekraftsrapportering i samsvar med første til niende ledd, skal anses å ha oppfylt opplysningskravene i [§ 2-2 tredje ledd](lov/1998-07-17-56/§2-2/ledd/3) om å innta finansielle og ikke-finansielle sentrale resultatindikatorer i årsberetningen, tiende ledd om arbeidsmiljøet og ellevte ledd om påvirkning på miljøforhold.
+
+(11) Bærekraftsrapporteringen skal inneholde informasjon som beskrevet i artikkel 8 i taksonomiforordningen, jf. [lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer § 3](lov/2021-12-22-161/§3).
+
+(12) Departementet kan fastsette forskrift om oppbevaring av dokumentasjon som underbygger bærekraftsrapporteringen og behandling av særlige kategorier personopplysninger i forbindelse med utarbeidelse av bærekraftsrapportering.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-5. Konsolidert bærekraftsrapportering
+
+(1) Den konsoliderte bærekraftsrapporteringen i årsberetningen, jf. [§ 2-3 annet ledd](lov/1998-07-17-56/§2-3/ledd/2), skal utarbeides i samsvar med bestemmelsene i [§ 2-4](lov/1998-07-17-56/§2-4) første til femte ledd. Den konsoliderte bærekraftsrapporteringen skal gi grunnlag for å vurdere morselskapet og alle datterselskapene som en enhet. Den konsoliderte bærekraftsrapporteringen skal være tydelig identifiserbar og gis i en egen del av årsberetningen.
+
+(2) Der hvor den regnskapspliktige identifiserer betydelige forskjeller mellom konsernets og ett eller flere konsernselskapers innvirkning på eller risiko knyttet til bærekraftsforhold, skal det gis opplysninger som gir en tilstrekkelig forståelse også av disse konsernselskapenes innvirkning på eller risiko knyttet til bærekraftsforhold.
+
+(3) Den regnskapspliktige skal angi hvilke datterselskaper som er unntatt fra kravene til bærekraftsrapportering fordi de inngår i den konsoliderte bærekraftsrapporteringen.
+
+(4) Morselskapets ledelse og arbeidstakernes tillitsvalgte skal drøfte hvilken informasjon som er relevant, og hvordan bærekraftsinformasjonen innhentes og verifiseres. Synspunktene til arbeidstakernes tillitsvalgte skal formidles til arbeidsgivers styre.
+
+(5) Morselskap som utarbeider bærekraftsrapportering i samsvar med første til fjerde ledd, skal anses å ha oppfylt opplysningskravene i [§ 2-2 tredje ledd](lov/1998-07-17-56/§2-2/ledd/3) om å innta finansielle og ikke-finansielle sentrale resultatindikatorer i årsberetningen, tiende ledd om arbeidsmiljøet og ellevte ledd om påvirkning på miljøforhold.
+
+(6) Den konsoliderte bærekraftsrapporteringen skal inneholde informasjon som beskrevet i artikkel 8 i taksonomiforordningen, jf. [lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer § 3](lov/2021-12-22-161/§3).
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), endret ved lov [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)).
+
+### § 2-6. Standarder for bærekraftsrapportering
+
+Departementet kan fastsette forskrifter som svarer til kommisjonsforordninger fastsatt i medhold av følgende bestemmelser i regnskapsdirektivet (direktiv [2013/34/EU](eu/32013l0034)):artikkel 29b om standarder for bærekraftsrapportering,artikkel 29c om standarder for bærekraftsrapportering for små og mellomstore foretak,artikkel 40b om standarder for bærekraftsrapportering for tredjelandsforetak.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-7. Elektronisk rapporteringsformat
+
+(1) Foretak som etter [§ 2-3](lov/1998-07-17-56/§2-3) skal utarbeide bærekraftsrapportering, skal utarbeide årsberetningen i et elektronisk rapporteringsformat.
+
+(2) Departementet kan i forskrift gi nærmere regler om hvilket elektronisk rapporteringsformat som skal benyttes, og om offentliggjøring og innsending av årsberetningen i det elektroniske rapporteringsformatet.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-8. Bærekraftsrapportering for foretak fra land utenfor EØS (tredjelandsforetak)
+
+(1) Store foretak som er datterselskap i konsern hvor konsernspissen er et morselskap som er etablert utenfor EØS, skal publisere en bærekraftsrapport som dekker det konsernet som datterselskapet inngår i. Plikten gjelder også for små og mellomstore foretak som er noterte foretak med slik konserntilknytning. Mikroforetak er unntatt. Rapporteringsplikten gjelder bare hvis konsernet som datterselskapet inngår i har hatt salgsinntekter på over 150 millioner euro innenfor EØS i hvert av de siste to regnskapsårene.
+
+(2) En norsk filial av et foretak som er etablert utenfor EØS, skal, hvis filialen hadde salgsinntekter tilsvarende 40 millioner euro eller mer i det foregående regnskapsåret, publisere en bærekraftsrapport som dekker konsernet som filialen er en del av. Hvis foretaket som filialen er en del av ikke inngår i et konsern, skal bærekraftsrapporten dekke dette foretaket. Rapporteringsplikten gjelder bare hvis foretaket som filialen er en del av:har en selskapsform som tilsvarer aksjeselskap eller allmennaksjeselskap,enten ikke inngår i et konsern eller inngår i et konsern hvor konsernspissen er et morselskap som er etablert utenfor EØS, oginngår i et konsern som har hatt salgsinntekter på over 150 millioner euro innenfor EØS i hvert av de siste to regnskapsårene, eller selv har hatt slike salgsinntekter.Rapporteringsplikten gjelder ikke hvis foretaket som filialen er en del av har et datterselskap som har rapporteringsplikt etter første ledd eller tilsvarende regler i en annen EØS-stat. Med filial menes regnskapspliktig etter [§ 1-2 første ledd](lov/1998-07-17-56/§1-2/ledd/1) nr. 13 som har et fast forretningssted her i riket.
+
+(3) Bærekraftsrapport som nevnt i første og annet ledd skal inneholde opplysningene angitt i [§ 2-5 første ledd](lov/1998-07-17-56/§2-5/ledd/1), jf. [§ 2-4 annet ledd nr. 1 bokstav c](lov/1998-07-17-56/§2-4/ledd/2/nummer/1/bokstav/c) til e, nr. 2 til 6 og, der det passer, nr. 7.
+
+(4) Bærekraftsrapporten skal utarbeides i samsvar med standardene for bærekraftsrapportering for tredjelandsforetak som er fastsatt i forskrifter i medhold av [§ 2-6 nr. 3](lov/1998-07-17-56/§2-6/nummer/3). Alternativt kan bærekraftsrapporten utarbeides i samsvar med de alminnelige standardene for bærekraftsrapportering som er fastsatt i medhold av [§ 2-6 nr. 1](lov/1998-07-17-56/§2-6/nummer/1), eller på en likeverdig måte i samsvar med Europakommisjonens beslutninger om likeverdige standarder om bærekraftsrapportering fastsatt i forskrift i medhold av [verdipapirhandelloven § 5-7](lov/2007-06-29-75/§5-7).
+
+(5) Hvis informasjonen som kreves etter tredje ledd ikke er fullt ut tilgjengelig, skal datterselskapet eller filialen anmode konsernspissen eller foretaket som filialen er en del av (tredjelandsforetaket) om å gi all informasjon som er nødvendig for å sette datterselskapet eller filialen i stand til å oppfylle sine forpliktelser. Hvis ikke all nødvendig informasjon er gitt, skal datterselskapet eller filialen utarbeide og publisere en bærekraftsrapport som inneholder all den informasjonen datterselskapet eller filialen har innhentet, sammen med en erklæring om at tredjelandsforetaket ikke gjorde den nødvendige informasjonen tilgjengelig.
+
+(6) Bærekraftsrapporten skal publiseres sammen med en attestasjonsuttalelse fra en eller flere personer eller foretak som er autorisert til å attestere bærekraftsrapportering i henhold til lovgivningen i det aktuelle tredjelandet eller i en EØS-stat. Hvis tredjelandsforetaket ikke har lagt frem en slik attestasjonsuttalelse, skal datterselskapet eller filialen avgi en erklæring om at tredjelandsforetaket ikke har lagt frem en attestasjonsuttalelse om bærekraftsrapporten.
+
+(7) Bærekraftsrapporten og attestasjonsuttalelsen skal være på, eller oversettes til, norsk, svensk, dansk eller engelsk.
+
+(8) Med salgsinntekter menes for tredjelandsforetak som nevnt i første og annet ledd inntektene slik de er definert av de regnskapsreglene som foretakets årsregnskap er utarbeidet etter.
+
+(9) Departementet kan i forskrift fastsette nærmere regler om at datterselskaper og filialer som nevnt i første og annet ledd skal sende inn opplysninger om de samlede salgsinntektene i filialen og i EØS.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-9. Redegjørelse om foretaksstyring
+
+(1) Noterte foretak skal i årsberetningen eller i dokument det er henvist til i årsberetningen, redegjøre for sine prinsipper og praksis vedrørende foretaksstyring.
+
+(2) Redegjørelsen for prinsipper og praksis vedrørende foretaksstyring etter første ledd skal minst inneholde følgende opplysninger:en angivelse av anbefalinger og regelverk om foretaksstyring som foretaket er omfattet av eller for øvrig velger å følge,opplysninger om hvor anbefalinger og regelverk som nevnt i nr. 1 er offentlig tilgjengelige,en begrunnelse for eventuelle avvik fra anbefalinger og regelverk som nevnt i nr. 1,en beskrivelse av hovedelementene i foretakets, og for regnskapspliktige som utarbeider konsernregnskap eventuelt også konsernets, systemer for internkontroll og risikostyring knyttet til regnskapsrapporteringsprosessen,vedtektsbestemmelser som helt eller delvis utvider eller fraviker bestemmelser i [allmennaksjeloven kapittel 5](lov/1997-06-13-45/kap5),sammensetningen til styre, bedriftsforsamling, representantskap og kontrollkomité; eventuelle arbeidsutvalg for disse organene, samt en beskrivelse av hovedelementene i gjeldende instrukser og retningslinjer for organenes og eventuelle utvalgs arbeid,vedtektsbestemmelser som regulerer oppnevning og utskifting av styremedlemmer,vedtektsbestemmelser og fullmakter som gir styret adgang til å beslutte at foretaket skal kjøpe tilbake eller utstede egne aksjer eller egenkapitalbevis, ogen beskrivelse av foretakets retningslinjer for likestilling og mangfold med hensyn til kjønn og andre forhold slik som alder, funksjonsnedsettelse og utdannings- og yrkesbakgrunn for sammensetning av styre, ledelses- og kontrollorganer og deres eventuelle underutvalg. Mål for retningslinjene, hvordan de har blitt gjennomført og virkningen av dem i rapporteringsperioden skal opplyses. Hvis foretaket ikke har slike retningslinjer, skal dette begrunnes.
+
+(3) Annet ledd nr. 1, 2, 3, 5 og 6 gjelder ikke for regnskapspliktige som ikke har utstedt aksjer eller egenkapitalbevis som er notert på et regulert marked eller på en multilateral handelsfasilitet, jf. [verdipapirhandelloven § 2-7 femte ledd](lov/2007-06-29-75/§2-7/ledd/5).
+
+(4) Regnskapspliktig som utarbeider bærekraftsrapportering etter [§§ 2-3](lov/1998-07-17-56/§2-3) til [2-7](lov/1998-07-17-56/§2-7), skal anses å ha oppfylt annet ledd nr. 9 hvis informasjonen er gitt i bærekraftsrapporteringen og det er tatt inn en henvisning til informasjonen i redegjørelsen om foretaksstyring.
+
+(5) Departementet kan i forskrift gi nærmere bestemmelser om avleggelse og oppdatering av opplysninger i redegjørelsen om foretaksstyring, når redegjørelsen er gitt som dokument det er henvist til i årsberetningen etter første ledd, samt om revisors plikter i forbindelse med opplysningene i dokumentet.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-10. Rapportering om betalinger til myndigheter mv.
+
+(1) Regnskapspliktige som driver virksomhet innen utvinningsindustrien, skal utarbeide og offentliggjøre en årlig rapport med opplysninger om sine betalinger til myndigheter på land- og prosjektnivå. Det samme gjelder regnskapspliktige som driver skogsdrift innen ikke-beplantet skog. Det skal i årsberetningen opplyses om hvor rapporten er offentliggjort.
+
+(2) Plikten til å utarbeide en årlig rapport etter første ledd første og annet punktum gjelder ikke for regnskapspliktige som utarbeider en årlig rapport etter tilsvarende utenlandsk regelverk. Det samme unntaket gjelder dersom opplysninger etter første ledd første punktum er tatt inn i morselskapets årlige rapport om konsernets betalinger til myndigheter utarbeidet som konsernrapportering etter reglene i denne paragraf med tilhørende forskrift eller etter tilsvarende utenlandsk regelverk.
+
+(3) Departementet kan i forskrift fastsette at rapporteringsplikten etter første ledd bare skal gjelde for regnskapspliktige over en gitt størrelse og betalinger over gitte terskelverdier, samt fastsette andre unntak fra første ledd. Departementet kan i forskrift også fastsette at rapporten skal inneholde andre opplysninger enn betalinger til myndigheter, hva som anses som tilsvarende utenlandsk regelverk, samt gi nærmere regler om definisjoner, offentliggjøring og konsernrapportering.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-11. Språk i årsberetningen mv.
+
+(1) Årsberetningen skal være på norsk. Departementet kan ved forskrift eller enkeltvedtak bestemme at årsberetningen kan være på et annet språk.
+
+(2) Første ledd gjelder også for redegjørelsen om foretaksstyring som nevnt i [§ 2-9](lov/1998-07-17-56/§2-9) og rapporteringen om betalinger til myndigheter mv. som nevnt i [§ 2-10](lov/1998-07-17-56/§2-10).
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 2-12. Signering av årsberetningen mv.
+
+(1) Bestemmelsene i [§ 3-5](lov/1998-07-17-56/§3-5) om signering av årsregnskapet og påtegnet forbehold gjelder også for årsberetningen.
+
+(2) Signering av årsberetningen og påtegnet forbehold skal anses å omfatte redegjørelsen om foretaksstyring som nevnt i [§ 2-9](lov/1998-07-17-56/§2-9) og rapport om betaling til myndigheter mv. som nevnt i [§ 2-10](lov/1998-07-17-56/§2-10), når det er henvist til slike redegjørelser eller slik rapport i årsberetningen.
+
+> Tilføyd ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+## Kapittel 3 Årsregnskap
+
+> Overskriften endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-1. Plikt til å utarbeide årsregnskap
+
+(1) Regnskapspliktige skal for hvert regnskapsår utarbeide årsregnskap i samsvar med bestemmelsene i denne loven. Små foretak kan ved utarbeidelse av årsregnskap følge de unntaksbestemmelser som fremgår av loven.
+
+(2) Årsregnskapet og årsberetningen skal fastsettes senest seks måneder etter regnskapsårets slutt.
+
+(3) For konsernregnskap eller selskapsregnskap utarbeidet i samsvar med [§ 3-9](lov/1998-07-17-56/§3-9), gjelder ikke bestemmelsene i denne lov [§ 1-4](lov/1998-07-17-56/§1-4), [§ 1-9](lov/1998-07-17-56/§1-9), [§ 3-2](lov/1998-07-17-56/§3-2) første og tredje ledd samt annet ledd annet og tredje punktum, [§ 3-2a](lov/1998-07-17-56/§3-2a), [§ 3-4 første](lov/1998-07-17-56/§3-4/ledd/1) og [annet ledd](lov/1998-07-17-56/§3-4/ledd/2), [§ 3-6](lov/1998-07-17-56/§3-6), [§ 3-8](lov/1998-07-17-56/§3-8), [kapittel 4](lov/1998-07-17-56/kap4), [kapittel 5](lov/1998-07-17-56/kap5), [kapittel 6](lov/1998-07-17-56/kap6), [§§ 7-1](lov/1998-07-17-56/§7-1) til [7-14](lov/1998-07-17-56/§7-14), [§ 7-15 fjerde](lov/1998-07-17-56/§7-15/ledd/4) og [femte ledd](lov/1998-07-17-56/§7-15/ledd/5), [§ 7-16](lov/1998-07-17-56/§7-16), [§ 7-17](lov/1998-07-17-56/§7-17), [§§ 7-19](lov/1998-07-17-56/§7-19) til [7-25](lov/1998-07-17-56/§7-25), [§ 7-28](lov/1998-07-17-56/§7-28), [§ 7-29](lov/1998-07-17-56/§7-29), [§ 7-30b](lov/1998-07-17-56/§7-30b), [§ 7-33](lov/1998-07-17-56/§7-33), [§ 7-34](lov/1998-07-17-56/§7-34), [§ 7-35](lov/1998-07-17-56/§7-35), [§ 7-36](lov/1998-07-17-56/§7-36) fjerde til niende ledd og [§§ 7-37](lov/1998-07-17-56/§7-37) til [7-41](lov/1998-07-17-56/§7-41).
+
+> Endret ved [lover 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), [30 juni 2006 nr. 38](lov/2006-06-30-38) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 773](forskrift/2006-06-30-773)), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)).
+
+### § 3-2. Årsregnskapets innhold
+
+(1) Årsregnskapet skal inneholde resultatregnskap, balanse og noteopplysninger. Mellomstore og store foretak skal utarbeide kontantstrømoppstilling. Årsregnskapet kan i tillegg inneholde en oppstilling av endringer i egenkapitalen.
+
+(2) For morselskap i mellomstore og store konsern består årsregnskapet av selskapsregnskap og konsernregnskap. Konsernregnskapet skal omfatte morselskapet og alle datterselskapene. Konsernregnskapet skal vise disse foretakene som en enhet (konsolidering). Transaksjoner mellom konsoliderte foretak skal ikke regnskapsføres i konsernregnskapet.
+
+(3) Morselskap i små konsern kan unnlate å utarbeide konsernregnskap. Dette gjelder ikke dersom et av selskapene i konsernet er et foretak av allmenn interesse.
+
+(4) Et morselskap kan unnlate å utarbeide konsernregnskap hvis samtlige av selskapets datterselskaper både hver for seg og samlet er av uvesentlig betydning, eller samtlige av foretakets datterforetak kan utelates fra konsolidering etter [§ 3-8](lov/1998-07-17-56/§3-8).
+
+> Endret ved [lover 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [19 apr 2013 nr. 15](lov/2013-04-19-15) (ikr. 1 juni 2013 iflg. [res. 19 apr 2013 nr. 395](forskrift/2013-04-19-395)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)).
+
+### § 3-2a. Rettvisende bilde
+
+(1) Årsregnskapet skal gi et rettvisende bilde av den regnskapspliktiges og konsernets eiendeler og gjeld, finansielle stilling og resultat.
+
+(2) Hvis anvendelsen av en bestemmelse i [kapittel 4](lov/1998-07-17-56/kap4) til 7 i særlige unntakstilfeller er uforenlig med plikten etter første ledd, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i første ledd.
+
+> Tilføyd ved [lov 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-2b. Utarbeidelse av årsregnskap etter regel om begrenset regnskapsplikt
+
+(1) Regnskapspliktige enkeltpersonforetak og ansvarlige selskaper som oppfyller vilkårene for små foretak i [§ 1-5](lov/1998-07-17-56/§1-5), kan utarbeide årsregnskap basert på skatterapporteringen av årsresultat og balanse samt tilpassede tilleggsopplysninger når dette kan anses som god regnskapsskikk for slike regnskapspliktige. Første punktum gjelder ikke for ansvarlige selskaper der en eller flere av deltagerne er en juridisk person med begrenset ansvar.
+
+(2) For årsregnskap som utarbeides etter første ledd, skal regnskapsvalutaen være i norske kroner.
+
+(3) Vedtak om å utarbeide årsregnskap etter første ledd krever i et ansvarlig selskap tilslutning fra samtlige medlemmer av selskapsmøtet og dessuten fra samtlige styremedlemmer hvis selskapet har styre. Vedtaket skal gjøres kjent for deltagere som ikke er medlemmer av selskapsmøtet, før regnskapsåret begynner eller ved stiftelsen. Samtlige deltagere og styremedlemmer kan kreve at årsregnskapet ikke skal utarbeides etter reglene i første ledd. Et slikt krav må fremsettes skriftlig senest to måneder før regnskapsårets utgang.
+
+> Tilføyd ved [lov 15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-3. (Opphevet)
+
+> Tilføyd ved [lov 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610)), endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [16 juni 2017 nr. 51](lov/2017-06-16-51) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 751](forskrift/2017-06-16-751)) som endret ved [lov 19 des 2017 nr. 115](lov/2017-12-19-115) (endring opphevet), opphevet ved [lov 15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere).
+
+### § 3-3a. (Opphevet)
+
+> Endret ved [lover 14 juni 2002 nr. 21](lov/2002-06-14-21) (ikr. 1 jan 2003 iflg. [res. 14 juni 2002 nr. 535](forskrift/2002-06-14-535)), [20 juni 2003 nr. 43](lov/2003-06-20-43) (ikr. 13 aug 2003 iflg. [forskr. 13 aug 2003 nr. 1044](forskrift/2003-08-13-1044)), [19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere, tidligere § 3-3), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [16 juni 2017 nr. 51](lov/2017-06-16-51) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 751](forskrift/2017-06-16-751)) som endret ved [lov 19 des 2017 nr. 115](lov/2017-12-19-115) (endring opphevet), [19 des 2017 nr. 115](lov/2017-12-19-115) (ikr. 1 jan 2018), [21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)), opphevet ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-3b. (Opphevet)
+
+> Tilføyd ved [lov 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), endret ved [lover 19 apr 2013 nr. 15](lov/2013-04-19-15) (ikr. 1 juni 2013 iflg. [res. 19 apr 2013 nr. 395](forskrift/2013-04-19-395)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), opphevet ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-3 c. (Opphevet)
+
+> Tilføyd ved [lov 19 apr 2013 nr. 15](lov/2013-04-19-15) (ikr. 1 juni 2013 iflg. [res. 19 apr 2013 nr. 395](forskrift/2013-04-19-395) med virkning for regnskapsår påbegynt etter 31 des 2012), endret ved [lover 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [22 des 2021 nr. 161](lov/2021-12-22-161) (i kraft 1 jan 2023 iflg. [res. 20 des 2022 nr. 2293](forskrift/2022-12-20-2293)), opphevet ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-3d. (Opphevet)
+
+> Tilføyd ved [lov 13 des 2013 nr. 116](lov/2013-12-13-116) (ikr. 1 jan 2014 med virkning for regnskapsår påbegynt 1 jan 2014 og senere), endret ved [lov 20 juni 2014 nr. 29](lov/2014-06-20-29) (ikr. 1 juli 2014 iflg. [vedtak 26 juni 2014 nr. 866](forskrift/2014-06-26-866)), opphevet ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-4. Regnskapsvaluta, presentasjonsvaluta og språk
+
+(1) Regnskapsvaluta for årsregnskapet skal være norske kroner eller den valuta virksomheten i hovedsak er knyttet til (funksjonell valuta). Morselskap kan anvende funksjonell valuta i konsernregnskapet og norske kroner i selskapsregnskapet. Ved endring av regnskapsvaluta kan omregning skje til kursen på gjennomføringstidspunktet.
+
+(2) Årsregnskapet kan presenteres i norske kroner, euro eller regnskapsvalutaen.
+
+(3) Årsregnskapet og årsberetningen skal være på norsk. Departementet kan ved forskrift eller enkeltvedtak bestemme at årsregnskapet og/eller årsberetningen kan være på et annet språk.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-5. Signering av årsregnskapet
+
+(1) For regnskapspliktige som har styre, skal årsregnskapet signeres av samtlige styremedlemmer. For regnskapspliktige som har daglig leder, skal også daglig leder signere. For regnskapspliktige som verken har styre eller daglig leder, skal deltakerne eller medlemmene signere.
+
+(2) Har en som skal signere innvendinger mot årsregnskapet eller årsberetningen, skal vedkommende signere med påtegnet forbehold og gi en nærmere redegjørelse.
+
+> Endret ved [lover 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [19 apr 2013 nr. 15](lov/2013-04-19-15) (ikr. 1 juni 2013 iflg. [res. 19 apr 2013 nr. 395](forskrift/2013-04-19-395) med virkning for regnskapsår påbegynt etter 31 des 2012), [13 des 2013 nr. 116](lov/2013-12-13-116) (ikr. 1 jan 2014 med virkning for regnskapsår påbegynt 1 jan 2014 og senere), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-6. Konsernregnskap
+
+(1) Konsernregnskapet skal bygge på de konsoliderte foretakenes selskapsregnskaper.
+
+(2) Selskapsregnskap som ikke er avlagt i samsvar med anvendte prinsipper i konsernregnskapet, skal for konsolideringsformål omarbeides i samsvar med de prinsipper som er anvendt i konsernregnskapet.
+
+(3) Dersom datterselskap følger et annet regnskapsår enn morselskapet, skal konsernregnskapet bygge på et delårsregnskap som avgis ved regnskapsårets slutt. Er avviket tre måneder eller mindre, er det tilstrekkelig at datterselskapets årsregnskap korrigeres for vesentlige transaksjoner og hendelser i den mellomliggende perioden.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-7. Unntak fra konsernregnskapsplikt for morselskap i underkonsern
+
+(1) Plikten til å utarbeide konsernregnskap gjelder ikke for regnskapspliktig som selv er datterselskap dersom den regnskapspliktiges morselskap hører hjemme i en EØS-stat og utarbeider konsernregnskap som omfatter den regnskapspliktige og dennes datterselskaper, og dette konsernregnskapet er utarbeidet og revidert i samsvar med lovgivningen i denne staten. Dette konsernregnskapet skal være på norsk, med mindre departementet ved forskrift eller enkeltvedtak bestemmer noe annet. Bestemmelsene i [kapittel 8](lov/1998-07-17-56/kap8) gjelder tilsvarende for dette konsernregnskapet.
+
+(2) Dersom den regnskapspliktige er foretak hvor én aksje- eller andelseier eier mer enn 90 prosent av selskapskapitalen gjelder adgangen til ikke å utarbeide konsernregnskap bare dersom de øvrige aksje- eller andelseierne godkjenner dette.
+
+(3) Aksje- eller andelseiere som eier minst 10 prosent av selskapskapitalen kan kreve at det utarbeides konsernregnskap i tilfeller som omfattes av første ledd. Slikt krav må framsettes senest seks måneder før regnskapsårets slutt. Kravet kan sendes ved bruk av elektronisk kommunikasjon til den e-postadressen eller på den måten selskapet har oppgitt til dette formålet dersom det er benyttet en betryggende metode som autentiserer avsender og sikrer kravets innhold.
+
+(4) Departementet kan i enkeltvedtak gjøre tilsvarende unntak fra konsernregnskapsplikten når morselskapet hører hjemme i annen stat enn EØS-stat.
+
+(5) Regnskapspliktige som er noterte foretak, kan ikke anvende unntaksbestemmelsene i første til fjerde ledd.
+
+> Endret ved [lover 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 3-8. Utelatelse av datterselskap fra konsolidering
+
+(1) Et datterselskap skal utelates fra konsolideringen etter [§ 3-2 annet ledd](lov/1998-07-17-56/§3-2/ledd/2) hvis aksjene eller andelene i datterselskapet er anskaffet med sikte på midlertidig eie og holdes i påvente av salg. Et datterselskap kan utelates fra konsolidering hvis det er særlig vanskelig og uforholdsmessig kostbart å hente inn informasjon om datterselskapet innen en rimelig frist, eller det foreligger alvorlige og langvarige begrensninger som i vesentlig grad er til hinder for morselskapets utøvelse av sine rettigheter.
+
+(2) Datterselskap kan utelates fra konsolideringen dersom utelatelsen ikke har betydning for å bedømme konsernets stilling og resultat. Når det er flere datterselskaper som hver for seg kan utelates etter første punktum, skal de likevel tas med i konsolideringen dersom de samlet er av betydning for å bedømme konsernets stilling og resultat.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [20 juni 2025 nr. 47](lov/2025-06-20-47) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1110](forskrift/2025-06-20-1110)).
+
+### § 3-9. Anvendelse av internasjonale regnskapsstandarder
+
+(1) [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) punkt 10b (forordning [(EF) nr. 1606/2002](eu/32002r1606) om anvendelse av internasjonale regnskapsstandarder med tilpasninger til EØS-avtalen) gjelder som lov med de endringer og tillegg som følger av protokoll 1 til avtalen og avtalen for øvrig.
+
+(2) Departementet fastsetter forskrifter som svarer til kommisjonsforordninger fastsatt i medhold av forordning [(EF) nr. 1606/2002](eu/32002r1606) artikkel 3.
+
+(3) Regnskapspliktig som omfattes av forordning [(EF) nr. 1606/2002](eu/32002r1606) artikkel 4, har anledning til også å utarbeide selskapsregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter annet ledd, jf. forordningen artikkel 5 bokstav a. Regnskapspliktig som omfattes av forordning [(EF) nr. 1606/2002](eu/32002r1606) artikkel 4, men som ikke har konsernregnskapsplikt etter IFRS, skal utarbeide årsregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter annet ledd, jf. forordningen artikkel 5 bokstav a.
+
+(4) Regnskapspliktig som ikke omfattes av forordning [(EF) nr. 1606/2002](eu/32002r1606) artikkel 4, har anledning til å utarbeide konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter annet ledd, jf. forordningen artikkel 5 bokstav b. Slik regnskapspliktig har anledning til å utarbeide selskapsregnskap på samme måte, jf. forordningen artikkel 5 bokstav b.
+
+(5) Departementet kan gi forskrift om forenklet anvendelse av internasjonale regnskapsstandarder etter forskrifter fastsatt i medhold av annet ledd. I forskriften kan det gjøres unntak fra opplysningskrav i de internasjonale regnskapsstandardene. Forskriften kan i særlige tilfeller tillate avvik fra bestemmelser i de internasjonale regnskapsstandardene om innregning og måling, og om nødvendig fastsette alternativ regnskapsføring. Unntaket i [§ 3-1](lov/1998-07-17-56/§3-1) tredje ledd fra [kapittel 6](lov/1998-07-17-56/kap6) gjelder ikke. Forskriften kan fastsette at også andre unntak etter [§ 3-1](lov/1998-07-17-56/§3-1) tredje ledd ikke skal gjelde.
+
+> Tilføyd ved [lov 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 10 des 2004, for første og annet ledd, ikr. 1 jan 2005 for fjerde ledd første punktum med virkning for regnskapsår påbegynt 1 jan 2005 eller senere, ikr. 1 jan 2006 for tredje ledd og fjerde ledd annet punktum med virkning for regnskapsår påbegynt 1 jan 2005 eller senere, iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610)), endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 juni 2006 nr. 38](lov/2006-06-30-38) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 773](forskrift/2006-06-30-773)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 jan 2011 for regnskapsår som begynner 1 jan 2011 eller senere, iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+## Kapittel 4. Grunnleggende regnskapsprinsipper og god regnskapsskikk
+
+### § 4-1. Grunnleggende regnskapsprinsipper
+
+(1) Årsregnskapet skal utarbeides i samsvar med følgende grunnleggende regnskapsprinsipper:Transaksjoner skal regnskapsføres til verdien av vederlaget på transaksjonstidspunktet (transaksjonsprinsippet).Inntekt skal resultatføres når den er opptjent (opptjeningsprinsippet).Utgifter skal kostnadsføres i samme periode som tilhørende inntekt (sammenstillingsprinsippet).Urealisert tap skal resultatføres (forsiktighetsprinsippet).Ved sikring skal gevinst og tap resultatføres i samme periode.
+
+(2) Små foretak kan fravike de grunnleggende prinsippene om opptjening og sammenstilling, jf. første ledd nr. 2 og 3, når dette kan anses som god regnskapsskikk for små foretak. Små foretak kan fravike det grunnleggende prinsippet om sikring, jf. første ledd nr. 5.
+
+(3) Regnskapspliktig som nevnt i [§ 1-2](lov/1998-07-17-56/§1-2) nr. 9, 10 eller 11 og som ikke har økonomisk vinning som formål, kan fravike de grunnleggende prinsippene om transaksjon, opptjening og sammenstilling, jf. første ledd nr. 1, 2 og 3, når dette kan anses som god regnskapsskikk for slike regnskapspliktige.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 4-2. Regnskapsestimater
+
+(1) Ved usikkerhet skal det brukes beste estimat, på bakgrunn av den informasjon som er tilgjengelig når årsregnskapet avlegges.
+
+(2) Ved endring av regnskapsestimat skal virkningen resultatføres i den perioden estimatet endres, med mindre resultatføringen kan utsettes i samsvar med god regnskapsskikk.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 4-3. Kongruensprinsippet
+
+(1) Alle inntekter og kostnader skal resultatføres.
+
+(2) Virkning av endring av regnskapsprinsipp og korrigering av feil i tidligere årsregnskap skal føres direkte mot egenkapitalen. Andre unntak fra kongruensprinsippet skal gjøres når det er i samsvar med god regnskapsskikk.
+
+(3) Små foretak kan uten hinder av bestemmelsen i annet ledd resultatføre virkning av endring av regnskapsprinsipp og korrigering av feil i tidligere årsregnskap.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 4-4. Prinsippanvendelse
+
+Årsregnskapet skal utarbeides etter ensartede prinsipper, som skal anvendes konsistent over tid. Prinsippanvendelsen i konsernregnskapet og selskapsregnskapet kan være forskjellig.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 4-5. Forutsetningen om fortsatt drift
+
+Årsregnskapet skal utarbeides under forutsetning om fortsatt drift så lenge det ikke er sannsynlig at virksomheten vil bli avviklet. Dersom det er sannsynlig at virksomheten vil bli avviklet, skal eiendeler og gjeld vurderes til virkelig verdi ved avvikling.
+
+### § 4-6. God regnskapsskikk
+
+Utarbeidelse av årsregnskap skal foretas i samsvar med god regnskapsskikk.
+
+> Endret ved [lov 19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)).
+
+## Kapittel 5. Vurderingsregler
+
+### I. Generelle vurderingsregler
+
+### § 5-1. Klassifisering av eiendeler
+
+(1) Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Andre eiendeler er omløpsmidler.
+
+(2) Fordringer som skal tilbakebetales innen ett år, kan ikke klassifiseres som anleggsmidler.
+
+(3) Dersom hensikten med en eiendel endres, skal den omklassifiseres. Før omklassifisering skal vurderingen fullføres.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-2. Omløpsmidler
+
+Omløpsmidler skal vurderes til laveste av anskaffelseskost og virkelig verdi.
+
+### § 5-3. Anleggsmidler
+
+(1) Anleggsmidler skal vurderes til anskaffelseskost.
+
+(2) Anleggsmidler som har begrenset økonomisk levetid, skal avskrives etter en fornuftig avskrivningsplan.
+
+(3) Anleggsmidler skal nedskrives til virkelig verdi ved verdifall som forventes ikke å være forbigående. Nedskrivningen skal reverseres i den utstrekning grunnlaget for nedskrivningen ikke lenger er til stede.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-4. Anskaffelseskost
+
+(1) Anskaffelseskost ved kjøp er kjøpspris med tillegg av kjøpsutgifter.
+
+(2) Anskaffelseskost ved tilvirkning omfatter variable og faste tilvirkningskostnader. Distribusjonsutgifter inngår ikke i anskaffelseskost ved tilvirkning. Små foretak kan likevel unnlate å medta faste tilvirkningskostnader ved beregning av anskaffelseskost.
+
+(3) Finansieringsutgifter på kapital som kan knyttes til tilvirkning av et anleggsmiddel kan kostnadsføres når de påløper.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-5. Tilordning av anskaffelseskost
+
+Eiendeler skal tilordnes anskaffelseskost spesifikt. Varer kan tilordnes anskaffelseskost ved FIFO-metoden (først inn, først ut) eller gjennomsnittlig anskaffelseskost dersom spesifikk tilordning ikke er praktisk eller hensiktsmessig. Ombyttbare finansielle eiendeler skal tilordnes gjennomsnittlig anskaffelseskost. Små foretak kan likevel tilordne ombyttbare finansielle eiendeler anskaffelseskost etter FIFO-metoden.
+
+### II. Spesielle vurderingsregler
+
+### § 5-6. Forskning og utvikling
+
+Utgifter til egen forskning skal kostnadsføres. Utgifter til egen utvikling kan kostnadsføres. Balanseførte utviklingsutgifter skal vurderes etter vurderingsregelen for anleggsmidler i [§ 5-3](lov/1998-07-17-56/§5-3). Dersom den økonomiske levetiden for balanseførte utviklingsutgifter ikke kan anslås pålitelig, skal balanseførte utviklingsutgifter avskrives over maksimalt ti år.
+
+> Endret ved lov [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 5-7. Goodwill
+
+Goodwill er differansen mellom anskaffelseskost ved kjøp av en virksomhet og virkelig verdi av identifiserbare eiendeler og gjeld i virksomheten. Goodwill skal vurderes etter vurderingsregelen for anleggsmidler i [§ 5-3](lov/1998-07-17-56/§5-3). Dersom den økonomiske levetiden for goodwill ikke kan anslås pålitelig, skal goodwill avskrives over maksimalt ti år. Nedskriving av goodwill skal ikke reverseres.
+
+> Endret ved lov [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 5-8. Finansielle instrumenter og varederivater
+
+(1) Finansielle instrumenter og varederivater skal vurderes til virkelig verdi dersom deer klassifisert som omløpsmiddel,inngår i en handelsportefølje med henblikk på videresalg,omsettes på regulert marked i EØS eller tilsvarende markedsplass utenfor EØS, oghar god eierspredning og likviditet.
+
+(2) Små foretak kan uten hinder av bestemmelsen i første ledd vurdere markedsbaserte finansielle omløpsmidler etter vurderingsregelen for omløpsmidler i [§ 5-2](lov/1998-07-17-56/§5-2).
+
+(3) Departementet kan i forskrift gi nærmere bestemmelser om regnskapsføring av finansielle instrumenter og varederivater, herunder om hvilke finansielle instrumenter og varederivater som ikke kan vurderes til virkelig verdi.
+
+> Endret ved [lover 17 november 2000 nr. 80](lov/2000-11-17-80) (ikr. 31 mars 2001 iflg. [vedtak 30 mars 2001 nr. 319](forskrift/2001-03-30-319)), [19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-9. Utenlandsk valuta
+
+Pengeposter i utenlandsk valuta skal vurderes etter kursen ved regnskapsårets slutt.
+
+### § 5-9a. Aksjeverdibasert betaling
+
+(1) Aksjeverdibasert betaling skal regnskapsføres til virkelig verdi på transaksjonstidspunktet.
+
+(2) Små foretak kan unnlate å kostnadsføre aksjeverdibasert avlønning.
+
+> Tilføyd ved [lov 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), endret ved [lover 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-10. Pensjonskostnader for små foretak
+
+Små foretak kan unnlate å balanseføre pensjonsforpliktelser som er forsikret. Premien skal i tilfelle anses som pensjonskostnad.
+
+### § 5-11. Leieavtaler for små foretak
+
+Små foretak kan unnlate å balanseføre leieavtaler.
+
+### § 5-12. Langsiktige tilvirkningskontrakter for små foretak
+
+Små foretak kan inntektsføre langsiktige tilvirkningskontrakter når kontrakten er fullført.
+
+### III. Gjeld
+
+### § 5-13. Vurdering av gjeld
+
+(1) Bestemmelsene i dette kapittel gjelder tilsvarende for gjeld.
+
+(2) Kravene til resultatføring av urealisert tap, jf. [§ 4-1](lov/1998-07-17-56/§4-1) nr. 4, [§ 5-2](lov/1998-07-17-56/§5-2) og [§ 5-3](lov/1998-07-17-56/§5-3) tredje ledd, gjelder ikke urealisert tap som følge av renteendring på annen langsiktig gjeld og kortsiktig gjeld, jf. [§ 6-2](lov/1998-07-17-56/§6-2) første ledd D II og III.
+
+(3) Første års avdrag på langsiktig gjeld kan klassifiseres som kortsiktig gjeld.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### IV. Fusjon
+
+### § 5-14. Fusjon
+
+Fusjon skal regnskapsføres som egenkapitaltransaksjon med overdratte eiendeler og gjeld som tingsinnskudd i det overtakende foretaket. Ved fusjon ved stiftelse av nytt foretak skal eiendeler og gjeld i et overdragende foretak som i realiteten må anses som et overtakende foretak, likevel videreføres til balanseførte verdier.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 5-15. (Opphevet)
+
+> Opphevet ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 5-16. Fusjon og fisjon av små foretak
+
+Ved fusjon mellom eller fisjon av små foretak kan eiendeler og gjeld i de fusjonerende eller fisjonerte foretakene videreføres til balanseførte verdier.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### V. Vurderingsregler som ikke er obligatoriske for små foretak som ikke utarbeider konsernregnskap
+
+### § 5-17. Investering i tilknyttet selskap og datterselskap
+
+(1) Investering i tilknyttet selskap skal vurderes etter egenkapitalmetoden eller generelle vurderingsregler i selskapsregnskapet. Investering i tilknyttet selskap skal vurderes etter egenkapitalmetoden i konsernregnskapet. Egenkapitalmetoden kan likevel ikke anvendes for midlertidig investering i tilknyttet selskap.
+
+(2) Investering i datterselskap skal vurderes etter egenkapitalmetoden eller generelle vurderingsregler i selskapsregnskapet. Egenkapitalmetoden kan likevel ikke anvendes for midlertidig investering i datterselskap.
+
+(3) Vurdering etter egenkapitalmetoden innebærer at:Investeringen skal vurderes til den regnskapspliktiges andel av egenkapitalen, og resultatandelen skal inntektsføres eller kostnadsføres.På kjøpstidspunktet skal investeringen vurderes til anskaffelseskost.Resultatandelen fratrukket utdelinger fra selskapet skal tillegges investeringen i balansen. Ved beregning av resultatandelen skal det tas hensyn til mer- eller mindreverdier på kjøpstidspunktet og interngevinster.
+
+> Endret ved [lover 18 juni 1999 nr. 41](lov/1999-06-18-41) (ikr. 1 okt 1999 iflg. res. 24 sep 1999), [21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-18. Deltakelse i felleskontrollert virksomhet
+
+(1) Dersom to eller flere deltakere ved avtale i fellesskap kontrollerer en virksomhet (felleskontrollert virksomhet), skal deltakelse i virksomheten regnskapsføres etter generelle vurderingsregler, bruttometoden eller egenkapitalmetoden i selskapsregnskapet. Deltakelse i felleskontrollert virksomhet skal regnskapsføres etter bruttometoden eller egenkapitalmetoden i konsernregnskapet. Midlertidig deltakelse i felleskontrollert virksomhet kan likevel ikke regnskapsføres etter egenkapitalmetoden eller bruttometoden.
+
+(2) Regnskapsføring etter bruttometoden innebærer at deltakeren regnskapsfører sin andel av inntekter, kostnader, eiendeler og gjeld.
+
+> Endret ved [lover 18 juni 1999 nr. 41](lov/1999-06-18-41) (ikr. 1 okt 1999 iflg. res. 24 sep 1999), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 5-19. Konserndannelse
+
+Ved konserndannelse som gjennomføres ved kjøp av aksjer eller andeler m.v., skal investeringens anskaffelseskost i konsernregnskapet tilordnes datterselskapets identifiserbare eiendeler og gjeld samt goodwill.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 5-20. (Opphevet)
+
+> Endret ved [lov 18 juni 1999 nr. 41](lov/1999-06-18-41) (i kraft 1 okt 1999 iflg. [vedtak 24 sep 1999 nr. 1066](forskrift/1999-09-24-1066) som også gir overgangsbestemmelser), opphevet ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+## Kapittel 6. Resultatregnskap, balanse og kontantstrømoppstilling
+
+### § 6-1. Resultatregnskap etter art
+
+(1) Resultatregnskapet etter art skal ha følgende oppstillingsplan:SalgsinntektAnnen driftsinntektEndring i beholdning av varer under tilvirkning og ferdig tilvirkede varerEndring i beholdning av egentilvirkede anleggsmidlerVarekostnadLønnskostnadAvskrivning på varige driftsmidler og immaterielle eiendelerNedskrivning av varige driftsmidler og immaterielle eiendelerAnnen driftskostnadDriftsresultatInntekt på investering i datterselskap og tilknyttet selskapInntekt på andre investeringerRenteinntekt fra foretak i samme konsernAnnen finansinntektVerdiendring av finansielle instrumenter vurdert til virkelig verdiNedskrivning av finansielle eiendelerRentekostnad til foretak i samme konsernAnnen finanskostnadResultat før skattekostnadSkattekostnadÅrsresultat
+
+(2) Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 11 og 12 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.
+
+> Endret ved [lover 18 juni 1999 nr. 41](lov/1999-06-18-41) (ikr. 1 okt 1999 iflg. res. 24 sep 1999), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 6-1a. Resultatregnskap etter funksjon
+
+(1) Resultatregnskapet etter funksjon skal ha følgende oppstillingsplan:SalgsinntektKostnad solgte varerBrutto resultatDistribusjonskostnaderAdministrative kostnaderDriftsresultatInntekt på investering i datterselskap og tilknyttet selskapInntekt på andre investeringerRenteinntekt fra foretak i samme konsernRentekostnad til foretak i samme konsernAnnen finansinntektAnnen finanskostnadVerdiendring av finansielle instrumenter vurdert til virkelig verdiResultat før skattekostnadSkattekostnadÅrsresultat
+
+(2) Salgsinntekt etter første ledd nr. 1 skal ikke omfatte skatter og avgifter direkte knyttet til salget. Første ledd nr. 7 og 8 skal spesifisere resultatandel fra investering vurdert etter egenkapitalmetoden eller bruttometoden.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), endret ved lover [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 6-2. Balanse
+
+(1) Balansen skal ha følgende oppstillingsplan:
+EIENDELERAnleggsmidlerImmaterielle eiendelerUtviklingKonsesjoner, patenter, lisenser, varemerker og lignende rettigheterUtsatt skattefordelGoodwillVarige driftsmidlerTomter, bygninger og annen fast eiendomMaskiner og anleggSkip, rigger, fly og lignendeDriftsløsøre, inventar, verktøy, kontormaskiner og lignendeFinansielle anleggsmidlerInvesteringer i datterselskapInvesteringer i annet foretak i samme konsernLån til foretak i samme konsernInvesteringer i tilknyttet selskapLån til tilknyttet selskap og felles kontrollert virksomhetInvesteringer i aksjer og andelerObligasjonerAndre fordringerOmløpsmidlerVarerFordringerKundefordringerAndre fordringerKrav på innbetaling av selskapskapitalInvesteringerAksjer og andeler i foretak i samme konsernMarkedsbaserte aksjerMarkedsbaserte obligasjonerAndre markedsbaserte finansielle instrumenterAndre finansielle instrumenterBankinnskudd, kontanter og lignendeEGENKAPITAL OG GJELDEgenkapitalInnskutt egenkapitalSelskapskapitalOverkursAnnen innskutt egenkapitalOpptjent egenkapitalFondAnnen egenkapitalGjeldAvsetning for forpliktelserPensjonsforpliktelserUtsatt skattAndre avsetninger for forpliktelserAnnen langsiktig gjeldKonvertible lånObligasjonslånGjeld til kredittinstitusjonerØvrig langsiktig gjeldKortsiktig gjeldKonvertible lånSertifikatlånGjeld til kredittinstitusjonerLeverandørgjeldBetalbar skattSkyldige offentlige avgifterAnnen kortsiktig gjeld
+
+(2) Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital eller spesifiseres i note eller i oppstillingen av endringer i egenkapitalen.
+
+(3) Som pensjonsforpliktelser etter første ledd D I nr. 1 regnes differansen mellom verdien av påløpte pensjonsforpliktelser og verdien av midler avsatt til dekning av forpliktelsene.
+
+(4) I stedet for en oppstillingsplan etter første ledd kan den regnskapspliktige inndele eiendeler og gjeld etter likviditet dersom opplysningene er spesifisert på tilsvarende måte som etter første ledd, og dette gir mer relevante og pålitelige opplysninger.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [14 juni 2013 nr. 40](lov/2013-06-14-40) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 635](forskrift/2013-06-14-635)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 6-3. Oppdeling eller sammenslåing av poster
+
+(1) Når den regnskapspliktiges forhold tilsier det, skal det i resultatregnskap og balanse foretas en ytterligere oppdeling av poster, tilføyelser av poster og tilføyelse av delsummer som ikke inngår i oppstillingsplanene.
+
+(2) Poster, unntatt poster under egenkapital, skal slås sammen hvis sammenslåingen fører til et mer oversiktlig årsregnskap.
+
+(3) Regnskapspliktige som nevnt i [§ 1-2](lov/1998-07-17-56/§1-2) første ledd nr. 9, 10 eller 11, og som ikke har økonomisk vinning som formål, kan avvike fra oppstillingsplanene i [§ 6-1](lov/1998-07-17-56/§6-1), [§ 6-1 a](lov/1998-07-17-56/§6-1a) og [§ 6-2](lov/1998-07-17-56/§6-2), dersom dette anses som god regnskapsskikk for slike regnskapspliktige.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 6-4. Kontantstrømoppstilling
+
+Kontantstrømoppstillingen skal gi en oversikt over innbetalinger og utbetalinger og forklare likviditetsendringer.
+
+### § 6-5. Konsernregnskapets oppstillingsplan
+
+Dersom aksjer eller andeler i et datterselskap eies av andre enn de konsoliderte selskapene, skal deres andel av egenkapitalen og årets resultat oppføres som minoritetsinteresser. Minoritetsinteresser oppføres under egenkapital i balansen og som fradrag i årsresultatet i resultatregnskapet. I resultatregnskapet vises årsresultat før og etter minoritetsinteresser. For øvrig gjelder [§§ 6-1](lov/1998-07-17-56/§6-1) og [6-2](lov/1998-07-17-56/§6-2) så langt de passer.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 6-6. Sammenligning med foregående årsregnskap
+
+(1) For hver post i resultatregnskapet, balansen og kontantstrømoppstillingen skal det vises tilsvarende tall fra foregående årsregnskap. Tallene skal om nødvendig omarbeides for å bli sammenlignbare, med mindre annet følger av god regnskapsskikk.
+
+(2) Små foretak kan unnlate å omarbeide sammenligningstallene.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+## Kapittel 7. Noteopplysninger
+
+### § 7-1. Opplysningsplikt
+
+(1) I noter til årsregnskapet skal det gis opplysninger som nevnt i [§§ 7-2](lov/1998-07-17-56/§7-2) til [7-34](lov/1998-07-17-56/§7-34). Små foretak kan i stedet gi opplysninger som nevnt i [§§ 7-35](lov/1998-07-17-56/§7-35) til [7-46](lov/1998-07-17-56/§7-46).
+
+(2) I tillegg til opplysninger som nevnt i første ledd skal det gis opplysninger som er nødvendige for å bedømme den regnskapspliktiges eller konsernets stilling og resultat og som ikke fremgår av årsregnskapet for øvrig. Små foretak som ikke utarbeider konsernregnskap kan unnlate å gi slike tilleggsopplysninger om forhold knyttet til konsernets stilling og resultat.
+
+(3) Opplysninger kan utelates når de ikke er av betydning for å bedømme den regnskapspliktiges eller i tilfelle, konsernets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i [§§ 7-26](lov/1998-07-17-56/§7-26), [7-27](lov/1998-07-17-56/§7-27) og [7-30](lov/1998-07-17-56/§7-30) til [7-32](lov/1998-07-17-56/§7-32). Små foretak skal alltid gi opplysninger som nevnt i [§§ 7-42](lov/1998-07-17-56/§7-42) til [7-45](lov/1998-07-17-56/§7-45).
+
+(4) Hvis anvendelsen av bestemmelsene i denne lov ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i [§ 3-2a](lov/1998-07-17-56/§3-2a) første ledd, skal det gis tilleggsopplysninger.
+
+(5) Dersom foretak som ikke er små er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter fjerde ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.
+
+(6) Ethvert fravik som nevnt i [§ 3-2 a](lov/1998-07-17-56/§3-2a) annet ledd skal angis. Fraviket skal begrunnes konkret og fullstendig med opplysning om betydningen fraviket har for den regnskapspliktiges og konsernets eiendeler og gjeld, finansielle stilling og resultat.
+
+> Endret ved [lover 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-1 a. Rekkefølge
+
+Noteopplysninger for poster i balanse og resultatregnskap skal ha samme rekkefølge som postene i oppstillingen for balanse og resultatregnskap.
+
+> Tilføyd ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### I. Noteopplysninger som ikke er obligatoriske for små foretak
+
+### § 7-2. Regnskapsprinsipper
+
+Det skal gis opplysninger om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring og omregning av utenlandsk valuta. Endringer i hvilke prinsipper som anvendes skal begrunnes. Forskjellig prinsippanvendelse i selskapsregnskap og konsernregnskap skal opplyses og begrunnes i konsernregnskapet. Det skal gis opplysninger om og begrunnelse for sikringsvurdering, jf. [§ 4-1](lov/1998-07-17-56/§4-1) nr. 5. Tilsvarende gjelder eventuell porteføljevurdering. Kontinuitet ved regnskapsføring av konserndannelse eller fusjon skal opplyses og begrunnes.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-2a. Regnskapsvaluta og presentasjonsvaluta
+
+Dersom årsregnskapet presenteres i en annen valuta enn regnskapsvalutaen, skal regnskapsvalutaen og omregningskurser opplyses. I selskapsregnskapet skal det opplyses om tilsvarende omregningskurser til norske kroner.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-3. Virkning av endring av regnskapsprinsipp m.v.
+
+Det skal opplyses om virkningen av endring av regnskapsprinsipp. Det samme gjelder feil i tidligere årsregnskap og korrigering av slike feil, samt omklassifiseringer. Sammenligningstall og omarbeiding av disse skal forklares.
+
+### § 7-4. Virkning av endring i konsernsammensetningen
+
+Ved endring i konsernsammensetningen skal det gis opplysninger som muliggjør sammenligning med tidligere årsregnskap.
+
+### § 7-5. Finansiell markedsrisiko
+
+(1) Det skal gis opplysninger om egenskaper ved og omfang av finansielle derivater fordelt på klasser av derivater. Opplysningene skal omfatte vesentlige betingelser og forhold som kan påvirke beløpsstørrelse, tidfesting og usikkerhet ved fremtidige kontantstrømmer.
+
+(2) Foretak av allmenn interesse skal gi opplysninger om finansiell markedsrisiko fordelt på arter av risiko.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-6. Enkelttransaksjoner
+
+Det skal gis opplysninger om store enkelttransaksjoner.
+
+### § 7-7. Sammenslåing av poster i oppstillingsplanen
+
+(1) Poster i oppstillingsplanen som er slått sammen etter [§ 6-3](lov/1998-07-17-56/§6-3) annet ledd, skal spesifiseres.
+
+(2) [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-7 a. Bruttopresentasjon
+
+Det skal opplyses om bruttobeløp for eiendeler og forpliktelser, samt inntekter og kostnader som presenteres netto i resultat- eller balanseoppstilling.
+
+> Tilføyd ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-7 b. Hendelser etter balansedagen
+
+Det skal opplyses om arten og den økonomiske virkningen av vesentlige hendelser som har inntruffet etter balansedagen, og som ikke er regnskapsført i resultatregnskap eller balanse.
+
+> Tilføyd ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-8. Salgsinntekter
+
+Salgsinntekter skal spesifiseres på virksomhetsområde og geografisk marked.
+
+### § 7-8b. Spesifisering av driftskostnader etter art
+
+(1) Dersom driftskostnadene ikke er spesifisert etter sin art i resultatregnskapet, skal spesifikasjon foretas etter følgende oppstilling:Endring i beholdning av varer under tilvirkning og ferdig tilvirkede varerEndring i beholdning av egentilvirkede anleggsmidlerVarekostnadLønnskostnadAvskrivning på varige driftsmidler og immaterielle eiendelerNedskrivning på varige driftsmidler og immaterielle eiendelerAnnen driftskostnad.
+
+(2) [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-9. Langsiktige tilvirkningskontrakter
+
+Det skal opplyses om igangværende langsiktige tilvirkningskontrakter.
+
+### § 7-10. Varer
+
+Varer skal spesifiseres på råvarer, varer under tilvirkning og ferdigvarer. [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+### § 7-11. Lønnskostnader
+
+Lønnskostnader skal spesifiseres på lønninger, folketrygdavgift, pensjonskostnader og andre ytelser. [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende. Det skal opplyses om beregning av pensjonskostnader og pensjonsforpliktelser.
+
+### § 7-11a. Aksjeverdibasert betaling
+
+Det skal redegjøres for bruken av aksjeverdibasert betaling. Det skal opplyses om kostnadsført aksjeverdibasert betaling minst spesifisert på de aktuelle postene i resultatregnskapet. Det skal opplyses hvordan kostnadene er beregnet, herunder de forutsetningene som er lagt til grunn for beregningen.
+
+> Tilføyd ved [lov 10 des 2004 nr. 81](lov/2004-12-10-81) (ikr. 1 jan 2005 iflg. [res. 10 des 2004 nr. 1610](forskrift/2004-12-10-1610), med virkning for regnskapsår påbegynt 1 jan 2005 eller senere), endret ved [lov 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)).
+
+### § 7-12. Anleggsmidler
+
+(1) For hver post under varige driftsmidler og immaterielle eiendeler skal det opplyses om:anskaffelseskost med spesifikasjon av balanseførte finansieringsutgifter knyttet til egentilvirkede anleggsmidler.tilgang og avgang i løpet av regnskapsåret,samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, ogavskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
+
+(2) Det skal opplyses om endring i avskrivningsplan.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-13. Varige driftsmidler
+
+(1) For hver post under varige driftsmidler skal det opplyses om økonomisk levetid og valg av avskrivningsplan. For hver post skal det opplyses om balanseførte leieavtaler. Det skal opplyses om årets tilgang av egentilvirkede varige driftsmidler.
+
+(2) Det skal opplyses om hvilke forutsetninger som er lagt til grunn for nedskrivning og reversering av nedskrivning.
+
+(3) Ved leie av varig driftsmiddel som ikke er balanseført skal det opplyses om årlig leie med tilsvarende spesifikasjon som i oppstillingsplanen for balansen.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-14. Immaterielle eiendeler
+
+(1) For hver post under immaterielle eiendeler skal økonomisk levetid og valg av avskrivningsplan opplyses.
+
+(2) Det skal opplyses om utgifter som har gått med til forskning og utvikling i regnskapsåret. Det skal videre opplyses om forventet samlet inntjening av pågående forskning og utvikling motsvarer medgåtte samlede utgifter. Arten av forskning og utvikling som drives skal angis.
+
+(3) Goodwill skal spesifiseres for hvert enkelt virksomhetskjøp. Avskrivningsplan for goodwill som er lenger enn fem år, skal begrunnes.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-15. Datterselskap, tilknyttet selskap m.v.
+
+(1) Det skal opplyses om foretaksnavn, forretningskontor, eierandel og stemmeandel for datterselskap, tilknyttet selskap og felles kontrollert virksomhet.
+
+(2) For datterselskap og tilknyttet selskap skal det gis opplysninger om egenkapitalen og resultatet ifølge siste årsregnskap. Dette gjelder likevel ikke datterselskap som er konsolidert eller er regnskapsført etter egenkapitalmetoden i selskapsregnskapet, eller tilknyttet selskap som er regnskapsført etter egenkapitalmetoden.
+
+(3) Regnskapspliktig som er datterselskap, skal opplyse om foretaksnavn og forretningskontor for morselskap som utarbeider konsernregnskap der den regnskapspliktige inngår i konsolideringen. Det skal opplyses hvor en kan få utlevert konsernregnskapene.
+
+(4) Dersom datterselskap er utelatt fra konsolideringen etter [§ 3-8](lov/1998-07-17-56/§3-8), skal dette opplyses og begrunnes.
+
+(5) I konsernregnskapet skal det opplyses om navnet på foretak der den regnskapspliktige selv eller gjennom datterselskaper eier så mange aksjer eller andeler at de representerer flertallet av stemmene i foretaket, men som ikke er datterselskap fordi det klart kan påvises at slikt eierskap likevel ikke gir bestemmende innflytelse, jf. [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd nr. 1. Det skal opplyses om de forhold som påviser at slikt eierskap likevel ikke gir bestemmende innflytelse.
+
+> Endret ved [lover 21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-16. Investering som regnskapsføres etter egenkapitalmetoden
+
+For investering som regnskapsføres etter egenkapitalmetoden, skal det opplyses om anskaffelseskost og balanseført egenkapital på anskaffelsestidspunktet. For hver investering skal det opplyses om inngående balanse, inntektsført resultat, andre endringer i løpet av året og utgående balanse. Det skal opplyses om merverdier og goodwill samt avskrivning av merverdier og goodwill.
+
+### § 7-17. Virkelig verdi av finansielle instrumenter
+
+(1) For hver kategori av finansielle instrumenter og varederivater som er vurdert etter [§ 5-8](lov/1998-07-17-56/§5-8), skal det opplyses om anskaffelseskost, virkelig verdi og periodens resultatførte verdiendring. Det skal i tillegg gis opplysninger om vesentlige forutsetninger som ligger til grunn for vurderingen.
+
+(2) For finansielle derivater som ikke er vurdert til virkelig verdi etter [§ 5-8](lov/1998-07-17-56/§5-8), skal det opplyses om virkelig verdi såfremt virkelig verdi kan fastsettes etter en markedsverdi eller en rimelig tilnærming til markedsverdien. Opplysningene skal gis separat for hver klasse av finansielle derivater.
+
+(3) For finansielle anleggsmidler vurdert etter [§ 5-3](lov/1998-07-17-56/§5-3) der balanseført verdi er høyere enn virkelig verdi, skal det opplyses om balanseført verdi og virkelig verdi av den enkelte eiendelen eller en hensiktsmessig gruppering av eiendelene. Det skal gis en begrunnelse for hvorfor nedskrivning ikke er foretatt. Begrunnelsen skal inkludere holdepunktene for at verdifallet er forbigående.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531) og ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-18. Aksjer og andeler i andre selskaper
+
+Aksjer og andeler i selskaper hvor den regnskapspliktiges eierandel er over 10 prosent eller investeringen utgjør mer enn 50 prosent av den regnskapspliktiges egenkapital, skal spesifiseres etter selskap dersom investeringen ikke omfattes av [§§ 7-15](lov/1998-07-17-56/§7-15) og [7-16](lov/1998-07-17-56/§7-16). Det skal opplyses om balanseført verdi, eventuell markedsverdi og eierandel i hvert selskap.
+
+### § 7-19. Fordringer
+
+For hver post under eiendeler skal det opplyses om fordringer som forfaller senere enn ett år etter regnskapsårets slutt. [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-20. Obligasjoner
+
+(1) Obligasjoner skal spesifiseres etter debitorkategori og pålydende valuta. Det skal opplyses om balanseført verdi og markedsverdi.
+
+(2) Foretak av allmenn interesse skal gi en oversikt over rentereguleringstidspunkter og gjennomsnittlig rente.
+
+> Endret ved [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-21. Gjeld
+
+(1) For hver post innledet med arabertall under gjeld, skal den del av gjelden som forfaller til betaling mer enn fem år etter regnskapsårets slutt, spesifiseres. [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+(2) Er den regnskapspliktiges gjeld sikret ved pant eller lignende sikkerhet i den regnskapspliktiges eiendeler, skal det gis opplysninger om den gjeld sikkerheten gjelder og om balanseført verdi av de pantsatte eiendeler. Utlegg skal angis særskilt.
+
+(3) Det skal opplyses hvilke forpliktelser som er dekket av andre avsetninger som nevnt i [§ 6-2](lov/1998-07-17-56/§6-2) D I nr. 3.
+
+(4) Foretak av allmenn interesse skal for obligasjonslån, konvertible lån og langsiktig gjeld til kredittinstitusjoner opplyse om avdragsstruktur, gjennomsnittlig rente og særlige vilkår.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-22. Mellomværende med foretak i samme konsern m.v.
+
+(1) For hver post under fordringer, annen langsiktig gjeld og kortsiktig gjeld skal det angis det samlede beløp som gjelder foretak i samme konsern, tilknyttet selskap og felles kontrollert virksomhet. [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+(2) Det skal opplyses om samlet forpliktelse i form av pantstillelse, annen sikkerhetsstillelse og garantier til fordel for foretak i samme konsern.
+
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-23. Skattekostnad
+
+Det skal opplyses om beregning av skattekostnad og utsatt skatt eller utsatt skattefordel.
+
+### § 7-24. Ekstraordinære inntekter og kostnader
+
+Det skal opplyses om størrelsen og arten av ekstraordinære inntekter og kostnader.
+
+### § 7-25. Egenkapital
+
+(1) Opptjent egenkapital skal spesifiseres.
+
+(2) Det skal opplyses om endringer i egenkapitalen i løpet av regnskapsåret. Det skal gis opplysning om innholdet i hver enkelt egenkapitaltransaksjon. Opplysningene kan i stedet gis i oppstillingen av endringer i egenkapitalen.
+
+(3) Samvirkeforetak som har medlemskapitalkonti i samsvar med [lov om samvirkeforetak § 29](lov/2007-06-29-81/§29), skal gi opplysninger om årets utbetaling og avsetning. Det skal også opplyses om eventuelle vedtektsbestemmelser og årsmøtevedtak eller forslag til vedtak knyttet til medlemskapitalkonti.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-26. Antall aksjer, aksjeeiere m.v.
+
+(1) Aksjeselskap og allmennaksjeselskap skal opplyse om aksjekapitalen og aksjenes pålydende fordelt på hver aksjeklasse. Det skal opplyses om vedtektsbestemmelser om stemmerett. Det skal opplyses om alle rettigheter som kan medføre at det blir utstedt nye aksjer med angivelse av hovedtrekkene i de vilkår som gjelder for retten.
+
+(2) Aksjeselskap og allmennaksjeselskap skal opplyse om selskapets 20 største aksjeeiere og deres eierandeler. Opplysning om aksjeeiere som eier under 1 prosent av aksjene kan utelates.
+
+(3) Det skal opplyses om aksjer eller andeler i selskapet samt rettigheter til slike, som eies av henholdsvis daglig leder og medlemmer av styret og bedriftsforsamlingen.
+
+(4) Foretak av allmenn interesse skal gi opplysninger som nevnt i tredje ledd spesifisert på de enkelte medlemmer av styret og deres personlig nærstående samt de enkelte ledende ansatte og deres personlig nærstående. Som personlig nærstående regnes:ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,mindreårige barn til vedkommende selv, samt mindreårige barn til en person som nevnt i nr. 1 som vedkommende bor sammen med, ogforetak der vedkommende selv eller noen som er nevnt i nr. 1 og 2 har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+
+(5) Regnskapspliktige som er utstedere med Norge som hjemstat etter [verdipapirhandelloven § 5-4](lov/2007-06-29-75/§5-4), skal opplyse om vesentlige indirekte aksjebesittelser i selskapet. Aksjebesittelser som representerer minst 10 prosent av stemmerettene i selskapet, regnes som vesentlige etter første punktum.
+
+> Endret ved [lover 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-27. Egne aksjer
+
+(1) Dersom egne aksjer ikke vises på egen linje under selskapskapital i balansen, må spesifikasjon gis i note eller i oppstillingen av endringer i egenkapitalen.
+
+(2) Aksjeselskap og allmennaksjeselskap som har en beholdning av egne aksjer etter aksjeloven og [allmennaksjeloven kapittel 9](lov/1997-06-13-45/kap9), skal opplyse om antallet, aksjenes pålydende verdi og den andel aksjene utgjør av aksjekapitalen.
+
+(3) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:bakgrunnen for erverv som har funnet sted,antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-28. Garantiforpliktelser
+
+Det skal opplyses om summen av garantiforpliktelser som ikke er regnskapsført. Det skal opplyses særskilt dersom slike garantiforpliktelser er sikret ved pant.
+
+### § 7-29. Andre forpliktelser
+
+Det skal opplyses om andre forpliktelser enn nevnt i [§ 7-28](lov/1998-07-17-56/§7-28) som ikke er regnskapsført. Det skal opplyses særskilt dersom slike forpliktelser er sikret ved pant.
+
+### § 7-30. Antall ansatte
+
+Det skal opplyses om antall årsverk som den regnskapspliktige har sysselsatt i regnskapsåret.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-30a. Obligatorisk tjenestepensjon
+
+Det skal opplyses om foretaket er pliktig til å ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon og om foretaket har pensjonsordning som oppfyller kravene etter denne loven.
+
+> Tilføyd ved [lov 21 des 2005 nr. 124](lov/2005-12-21-124) (ikr. 1 jan 2006).
+
+### § 7-30b. Transaksjoner med nærstående parter
+
+(1) Det skal opplyses om vesentlige transaksjoner med nærstående parter. Opplysningene skal omfatte transaksjonenes beløp, en beskrivelse av hva slags forhold det er mellom selskapet og den nærstående part, samt andre opplysninger om transaksjonene som er nødvendige for å forstå den regnskapspliktiges og konsernets stilling.
+
+(2) Transaksjoner mellom konsoliderte foretak kan unnlates opplyst i konsernregnskapet. Transaksjoner mellom heleide konsoliderte foretak kan unnlates opplyst i selskapsregnskapet dersom selskapet er unntatt fra dokumentasjonsplikten etter [skatteforvaltningsloven § 8-9](lov/2016-05-27-14/§8-9) annet ledd.
+
+(3) Opplysninger om individuelle transaksjoner etter første ledd kan grupperes etter typen av transaksjoner, med mindre særskilte opplysninger er nødvendige for å forstå virkningene av transaksjonene for den regnskapspliktiges og konsernets stilling.
+
+(4) Departementet kan i forskrift gi nærmere bestemmelser om definisjonen av nærstående parter og bestemmelser om at regnskapspliktige som direkte eller indirekte eies helt eller delvis av offentlig myndighet, kan unnlate å gi opplysninger som kreves etter første ledd.
+
+> Tilføyd ved [lov 25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), endret ved [lover 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-31. Ytelser til ledende personer mv. i foretak som ikke er foretak av allmenn interesse
+
+(1) Regnskapspliktige som ikke er foretak av allmenn interesse skal opplyse om samlede utgifter til henholdsvis lønn, pensjonsforpliktelser og annen godtgjørelse til daglig leder og medlemmer av styret og bedriftsforsamlingen.
+
+(2) Det skal opplyses om arten og omfanget av forpliktelser til å gi daglig leder eller leder av styret særskilt vederlag ved opphør eller endring av ansettelsesforholdet eller vervet. Tilsvarende gjelder avtaler om bonuser, overskuddsdelinger og lignende til fordel for daglig leder eller leder av styret.
+
+(3) Når en eller flere opplysninger som nevnt i første eller annet ledd ikke gis fordi den regnskapspliktige ikke har hatt slike utgifter eller forpliktelser skal det opplyses særskilt om dette.
+
+(4) Det skal opplyses om forpliktelser knyttet til aksjeverdibaserte godtgjørelser til fordel for ansatte og tillitsvalgte. Det skal opplyses om arten og omfanget av de enkelte avtaler om aksjeverdibaserte godtgjørelser til fordel for de enkelte ledende ansatte og de enkelte medlemmer av styre, kontrollkomité og andre valgte selskapsorganer med unntak av bedriftsforsamlingen. Opplysningene om avtaler som nevnt i annet punktum skal minst omfatte en beskrivelse av på hvilken måte utviklingen av verdien til aksjene eller egenkapitalbevisene i selskapet eller i andre selskaper i samme konsern, har påvirket beregningen av den godtgjørelsen som er utbetalt i i regnskapsåret. For avtaler om aksjeverdibaserte godtgjørelser som ikke er avsluttet ved regnskapsårets slutt skal det opplyses om avtalens løpetid og det skal gis en beskrivelse av på hvilken måte det er avtalt at utviklingen i aksjenes verdi vil påvirke beregningen av fremtidige utbetalinger.
+
+(5) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i fjerde ledd tredje og fjerde punktum, gis følgende opplysninger:antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
+
+(6) Fjerde ledd annet til fjerde punktum og femte ledd gjelder ikke heleide datterselskaper i konsern.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-31a. Godtgjørelse til revisor
+
+Det skal opplyses om godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på lovpålagt revisjon, andre attestasjonstjenester, skatterådgivning og andre tjenester utenfor revisjonen. Honorarer for andre tjenester utenfor revisjonen skal spesifiseres for vesentlig forskjellige tjenester. Opplysningene skal også omfatte godtgjørelse til foretak som revisor har et særskilt samarbeid med.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-31b. Ytelser til ledende personer mv. i foretak av allmenn interesse
+
+(1) Foretak av allmenn interesse skal opplyse om samlet godtgjørelse og andre fordeler som er gitt til de enkelte ledende ansatte og de enkelte medlemmene av henholdsvis styret, kontrollkomiteen og andre valgte selskapsorganer med unntak av bedriftsforsamlingen.
+
+(2) Det skal opplyses om forpliktelser knyttet til aksjeverdibaserte godtgjørelser til fordel for ansatte og tillitsvalgte.
+
+(3) Det skal videre gis opplysninger for hver person omfattet av første ledd som har hatt ansettelsesforhold eller verv for selskapet i løpet av regnskapsåret spesifisert i samsvar med fjerde til niende ledd.
+
+(4) Opplysninger om godtgjørelse eller honorarer skal minst omfatte:den totale lønn vedkommende har mottatt eller opptjent for tjenester ytt i løpet av regnskapsåret, herunder eventuelle møtehonorarer vedtatt av generalforsamlingen,godtgjørelse og fordeler vedkommende har mottatt fra foretak i samme konsern,godtgjørelse i form av overskuddsdeling eller bonusutbetalinger og grunnen til at slike ytelser er gitt,betydelig eller vesentlig tilleggsgodtgjørelse for spesielle tjenester utenfor de normale funksjoner for en leder,betalt eller skyldig vederlag til hver tidligere administrerende direktør og styreleder i regnskapsåret i forbindelse med avslutning av vedkommendes ansettelsesforhold eller verv, ogberegnet verdi av totale fordeler i annet enn kontanter som anses som godtgjørelse.
+
+(5) Opplysninger om aksjeverdibaserte godtgjørelser skal minst omfatte en beskrivelse av på hvilken måte utviklingen av verdien til aksjene eller egenkapitalbevisene i selskapet eller i andre selskaper i samme konsern, har påvirket beregningen av den godtgjørelsen som er utbetalt i regnskapsåret. For avtaler om aksjeverdibaserte godtgjørelser som ikke er avsluttet ved regnskapsårets slutt skal det opplyses om avtalens løpetid og det skal gis en beskrivelse av på hvilken måte det er avtalt at utviklingen i aksjenes verdi vil påvirke beregningen av fremtidige utbetalinger.
+
+(6) For aksjeverdibaserte godtgjørelser som utelukkende gjelder utdeling av aksjer, egenkapitalbevis eller opsjoner, skal det istedenfor opplysninger som nevnt i femte ledd, gis opplysninger om:antall opsjoner som er tildelt samt aksjer eller egenkapitalbevis som er gitt av foretaket i løpet av regnskapsåret, og vilkårene for å benytte disse,antall opsjoner som er innløst i løpet av regnskapsåret. For hver av disse skal det opplyses om antall aksjer eller egenkapitalbevis som eventuelt er utdelt, innløsningskursen og eventuelle utbetalinger fra selskapet knyttet til innløsningen,antall opsjoner som ikke er innløst ved regnskapsårets slutt, innløsningskursen, forfallstidspunktet og hovedbetingelsene for å utøve rettighetene,endringer i vilkår knyttet til eksisterende aksjeverdibaserte godtgjørelser i løpet av regnskapsåret.
+
+(7) For ytelsesbaserte pensjonsordninger skal det minst opplyses om endringer i den enkeltes opptjente rettigheter etter ordningen i løpet av regnskapsåret. For innskuddsbaserte pensjonsordninger skal det minst gis opplysninger om innskudd i ordningen som foretaket i løpet av regnskapsåret har betalt eller er blitt skyldig for hver person som er omfattet av første ledd.
+
+(8) Det skal opplyses om arten og omfanget av forpliktelser til å gi særskilt vederlag ved fratredelse, opphør eller endring av ansettelsesforholdet eller vervet.
+
+(9) Det skal opplyses om lån, forskuddsbetalinger og sikkerhetsstillelser selskapet eller andre selskap i konsernet har gitt til personer som omfattet av første ledd, herunder hvilke vilkår som gjelder, avdragsplan, utestående beløp og rentesatsen.
+
+(10) Allmennaksjeselskaper som skal utarbeide retningslinjer om fastsettelse av lønn og annen godtgjørelse til ledende personer etter [allmennaksjeloven § 6-16 a](lov/1997-06-13-45/§6-16a), skal opplyse om innholdet i retningslinjene.
+
+(11) Opplysningene etter paragrafen her og i tilfelle også opplysningene etter [§ 7-32](lov/1998-07-17-56/§7-32) første ledd, kan i stedet for i noter gis i en rapport om godtgjørelse til ledende personer. Rapporten skal inngå i årsberetningen.
+
+(12) Når en eller flere opplysninger som nevnt i femte eller niende ledd ikke gis fordi den regnskapspliktige ikke har hatt slike utgifter eller forpliktelser, skal det opplyses særskilt om dette.
+
+(13) For allmennaksjeselskaper med aksjer tatt opp til handel på regulert marked, kan opplysninger etter denne paragrafen og eventuelt [§ 7-32](lov/1998-07-17-56/§7-32) første ledd i stedet for i noter til årsregnskapet, gis i rapport etter [allmennaksjeloven § 6-16 b](lov/1997-06-13-45/§6-16b).
+
+> Tilføyd ved lov [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), endret ved lover [15 des 2006 nr. 88](lov/2006-12-15-88) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1432](forskrift/2006-12-15-1432)), [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)), [6 des 2019 nr. 77](lov/2019-12-06-77) (ikr. 1 jan 2021 iflg. res. [11 des 2020 nr. 2712](forskrift/2020-12-11-2712)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-32. Lån og sikkerhetsstillelse til ledende personer, aksjeeiere m.v.
+
+(1) Lån til eller sikkerhetsstillelse til fordel for daglig leder og leder av styret skal spesifiseres. For hvert lån skal det opplyses om hvilke vilkår som gjelder, herunder rentesatsen og avdragsplanen.
+
+(2) Det skal opplyses om samlede lån til og samlet sikkerhetsstillelse til fordel for ansatte, aksjeeiere og medlemmer av styret og bedriftsforsamlingen. I aksjeselskap og allmennaksjeselskap skal opplysningene også omfatte lån til eller sikkerhetsstillelse til fordel for nærstående til aksjeeiere, og medlemmer av styret og bedriftsforsamlingen. Det skal opplyses om hvilke vilkår som gjelder for slike lån eller sikkerhetsstillelser. Lån eller sikkerhetsstillelser som utgjør mer enn 5 prosent av egenkapitalen etter balansen, skal spesifiseres. Som nærstående etter denne paragraf regnes:ektefelle og en person som vedkommende bor sammen med i ekteskapslignende forhold,slektninger i rett oppstigende eller nedstigende linje og søsken,slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i nr. 1,ektefelle til, og en person som bor sammen i ekteskapslignende forhold med, noen som er nevnt i nr. 2,foretak der vedkommende selv eller noen som er nevnt i nr. 1 til 4, har slik bestemmende innflytelse som nevnt i [§ 1-3](lov/1998-07-17-56/§1-3) annet ledd.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-33. Betingede utfall
+
+Det skal opplyses om forhold ved regnskapsårets slutt med betinget utfall.
+
+### § 7-34. Utvinning av petroleum, kraftproduksjon m.v.
+
+Regnskapspliktig som har betydelig virksomhet innen utvinning av petroleum, kraftproduksjon eller gruvedrift, skal gi opplysning om antatte reserver og gjenværende utvinnings- eller utnyttelsesperiode, konsesjonsperiode og andre økonomiske betingelser. Det skal opplyses særskilt om framtidige utgifter til disponering og opprydding.
+
+### II. Noteopplysninger for små foretak
+
+### § 7-35. Regnskapsprinsipper m.v.
+
+(1) Det skal gis opplysninger om anvendte regnskapsprinsipper.
+
+(2) Det skal opplyses om sammenligningstallene er omarbeidet. Dersom de omarbeides skal omarbeidingen forklares, jf. [§ 6-6](lov/1998-07-17-56/§6-6).
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-36. Konsern, tilknyttet selskap mv.
+
+(1) Regnskapspliktig som er datterselskap, skal opplyse om foretaksnavn og forretningskontor for morselskap som utarbeider konsernregnskap der den regnskapspliktige inngår i konsolideringen.
+
+(2) Dersom datterselskap er utelatt fra konsolideringen etter [§ 3-8](lov/1998-07-17-56/§3-8), skal dette opplyses og begrunnes.
+
+(3) For investering som regnskapsføres etter egenkapitalmetoden, skal det opplyses om anskaffelseskost og balanseført egenkapital på anskaffelsestidspunktet. For hver investering skal det opplyses om inngående balanse, inntektsført resultat, andre endringer i løpet av året og utgående balanse. Det skal opplyses om merverdier og goodwill samt avskriving av merverdier og goodwill.
+
+(4) Morselskap som ikke utarbeider konsernregnskap, skal opplyse om transaksjoner med datterselskaper og interngevinst på disse.
+
+(5) For fordringer, annen langsiktig gjeld og kortsiktig gjeld skal det angis det samlede beløp som gjelder foretak i samme konsern, tilknyttet selskap og felles kontrollert virksomhet. [§ 6-6](lov/1998-07-17-56/§6-6) annet ledd om sammenligningstall gjelder tilsvarende.
+
+(6) Det skal opplyses om samlet forpliktelse i form av pantstillelse, annen sikkerhetsstillelse og garantier til fordel for foretak i samme konsern.
+
+> Endret ved [lover 21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-37. Virkelig verdi av finansielle instrumenter
+
+For hver kategori av finansielle instrumenter og varederivater som er vurdert etter [§ 5-8](lov/1998-07-17-56/§5-8), skal det opplyses om virkelig verdi og periodens resultatførte verdiendring. Det skal i tillegg gis opplysninger om vesentlige opplysninger som ligger til grunn for vurderingen.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531), og ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-37a. Finansielle derivater
+
+Det skal gis opplysninger om egenskaper ved og omfang av finansielle derivater som er vurdert til virkelig verdi etter [§ 5-8](lov/1998-07-17-56/§5-8) første ledd, fordelt på klasser av derivater. Opplysningene skal omfatte vesentlige betingelser og forhold som kan påvirke beløpsstørrelse, tidfesting og usikkerhet ved framtidige kontantstrømmer.
+
+> Tilføyd ved [lov 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-38. Spesifisering av resultatregnskapet
+
+(1) Poster i oppstillingsplanen for resultatregnskapet som er slått sammen etter [§ 6-3](lov/1998-07-17-56/§6-3) annet ledd, skal spesifiseres. Lønnskostnader skal spesifiseres på lønninger, folketrygdavgift, pensjonskostnader og andre ytelser. [§ 6-6](lov/1998-07-17-56/§6-6) annet ledd om sammenligningstall gjelder tilsvarende.
+
+(2) [§ 6-6](lov/1998-07-17-56/§6-6) om sammenligningstall gjelder tilsvarende.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-39. Anleggsmidler
+
+(1) For varige driftsmidler og immaterielle eiendeler skal det opplyses om:anskaffelseskost med spesifikasjon av balanseførte lånekostnader knyttet til egentilvirkede anleggsmidler,tilgang og avgang i løpet av regnskapsåret,samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger, ogavskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsåret.
+
+(2) Det skal opplyses om økonomisk levetid og valg av avskrivningsplan for immaterielle eiendeler.
+
+(3) Goodwill skal spesifiseres for hvert enkelt virksomhetskjøp. Avskrivningsplan for goodwill som er lenger enn fem år, skal begrunnes.
+
+> Endret ved lover [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-40. Fordringer, gjeld, garantiforpliktelser
+
+(1) Det skal opplyses hvor stor del av den regnskapspliktiges fordringer som forfaller senere enn ett år etter regnskapsårets slutt.
+
+(2) Det skal opplyses hvor stor del av den regnskapspliktiges gjeld som forfaller til betaling mer enn fem år etter regnskapsårets slutt, hvor stor del av den regnskapspliktiges gjeld som er sikret ved pant eller lignende sikkerhet i den regnskapspliktiges eiendeler, og balanseført verdi av de pantsatte eiendeler.
+
+(3) Det skal opplyses om summen av garantiforpliktelser som ikke er regnskapsført. Det skal opplyses særskilt dersom slike garantiforpliktelser er sikret ved pant.
+
+> Endret ved lover [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-41. Ekstraordinære inntekter og kostnader
+
+Det skal opplyses om størrelsen og arten av ekstraordinære inntekter og kostnader.
+
+### § 7-42. Antall aksjer, aksjeeiere m.v.
+
+(1) Har selskapet en beholdning av egne aksjer etter [aksjeloven kapittel 9](lov/1997-06-13-44/kap9), skal det opplyses om antallet, aksjenes pålydende verdi og den andel aksjene utgjør av aksjekapitalen.
+
+(2) Det skal opplyses om endringer i beholdning av egne aksjer og datterselskapenes beholdning av aksjer i morselskapet i løpet av regnskapsåret. Det skal minst opplyses om:bakgrunnen for erverv som har funnet sted,antall aksjer som er ervervet, vederlag for disse og den andel de utgjør av aksjekapitalen,antall aksjer som er avhendet, vederlag for disse og den andel de utgjør av aksjekapitalen.
+
+(3) Samvirkeforetak som har medlemskapitalkonti i samsvar med [lov om samvirkeforetak § 29](lov/2007-06-29-81/§29), skal gi opplysninger om årets utbetaling og avsetning. Det skal også opplyses om eventuelle vedtektsbestemmelser og årsmøtevedtak eller forslag til vedtak knyttet til medlemskapitalkonti.
+
+> Endret ved [lover 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 7-43. Antall ansatte
+
+Det skal opplyses om antall årsverk som den regnskapspliktige har sysselsatt i regnskapsåret.
+
+> Endret ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 jan 2006 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)).
+
+### § 7-43a. (Opphevet)
+
+> Tilføyd ved [lov 21 des 2005 nr. 124](lov/2005-12-21-124) (ikr. 1 jan 2006), opphevet ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-44. (Opphevet)
+
+> Opphevet ved [lov 30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-45. Lån og sikkerhetsstillelse til ledende personer, aksjeeiere m.v.
+
+Det skal opplyses om samlede lån til og samlet sikkerhetsstillelse til fordel for medlemmer av styret med angivelse av rentesats, hovedvilkår og eventuelle tilbakebetalte, avskrevne eller frafalte beløp. Det samme gjelder for medlemmer av annet administrasjons-, ledelses- eller kontrollorgan.
+
+> Endret ved lov [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+
+### § 7-46. Fortsatt drift
+
+Dersom det er usikkerhet om fortsatt drift, skal det opplyses om usikkerheten.
+
+> Tilføyd ved [lov 15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere).
+
+## Kapittel 8. Offentlighet, innsendelse av regnskap, straff
+
+### § 8-1. Offentlighet
+
+(1) Årsregnskapet, årsberetningen, revisjonsberetningen og attestasjonsuttalelsen om bærekraftsrapporteringen er offentlige. Enhver har rett til å gjøre seg kjent med innholdet av denne rapporteringen hos den regnskapspliktige eller hos Regnskapsregisteret. Regnskapspliktig som etter § 2-3 skal utarbeide bærekraftsrapportering, skal gjøre årsberetningen tilgjengelig på sin nettside. Første og annet punktum gjelder tilsvarende for bærekraftsrapporten, attestasjonsuttalelsen og erklæringene som nevnt i [§ 8-2 fjerde ledd](lov/1998-07-17-56/§8-2/ledd/4).
+
+(2) Årsregnskap, årsberetning og revisjonsberetning utarbeidet på grunnlag av regnskapsplikt etter [§ 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) (filialregnskap) er ikke offentlige. Dette gjelder også for regnskapspliktig etter [§ 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) som i tillegg er regnskapspliktig på annet grunnlag. Regnskapsregisteret kan ikke gjøre innholdet i dokumentene kjent for andre enn kontrollmyndigheter og myndigheter som utarbeider offisiell statistikk. Første til tredje punktum gjelder ikke dersom den regnskapspliktige ikke har fastsatt et årsregnskap som er utarbeidet, revidert og offentliggjort i samsvar med lovgivningen i hjemstaten. Første til tredje punktum gjelder heller ikke dersom dette årsregnskapet ikke er utarbeidet i samsvar med reglene i regnskapsdirektivet (direktiv [2013/34/EU](eu/32013l0034) med senere endringer) eller på tilsvarende måte. Det samme gjelder dersom den regnskapspliktige ikke har oppfylt innsendingsplikten etter [§ 8-2 annet ledd](lov/1998-07-17-56/§8-2/ledd/2).
+
+(3) Departementet kan gi nærmere regler om hvordan innholdet av dokumentene skal gjøres tilgjengelige, og kan fastsette bestemmelser om betaling av gebyr. Dersom det begjæres innsyn hos den regnskapspliktige selv, skal gebyret ikke overstige den regnskapspliktiges kostnader ved innsynet. Slik begjæring kan avvises dersom dokumentene er tilgjengelige i Regnskapsregisteret.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [30 juni 2006 nr. 38](lov/2006-06-30-38) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 773](forskrift/2006-06-30-773)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 8-2. Innsending til Regnskapsregisteret
+
+(1) Senest én måned etter fastsetting av årsregnskapet skal regnskapspliktige sende et eksemplar av årsregnskapet, årsberetningen, revisjonsberetningen, attestasjonsuttalelsen om bærekraftsrapporteringen og eventuelt rapport om betalinger til myndigheter mv. etter [§ 2-10](lov/1998-07-17-56/§2-10) til Regnskapsregisteret, vedlagt et oversendelsesbrev. Det skal opplyses når årsregnskapet er fastsatt.
+
+(2) Regnskapspliktig som nevnt i [§ 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) skal sende inn et eksemplar av årsregnskapet, årsberetningen og revisjonsberetningen for det foretaket filialen er en del av slik disse regnskapsdokumentene er utarbeidet, revidert og offentliggjort i henhold til lovgivningen i hjemstaten senest samtidig med at dette årsregnskapet skal offentliggjøres etter lovgivningen i hjemstaten, vedlagt et oversendelsesbrev. Det skal opplyses når årsregnskapet er fastsatt, og når det skal offentliggjøres etter lovgivningen i hjemstaten. Regnskapsdokumentene skal være utarbeidet på eller oversatt til norsk, dansk, svensk eller engelsk.
+
+(3) Datterselskap som er unntatt fra plikt til å utarbeide bærekraftsrapportering fordi datterselskapet er omfattet av den konsoliderte bærekraftsrapporteringen til et morselskap som er etablert utenfor EØS, jf. § 2-3 femte ledd, skal sende inn den konsoliderte bærekraftsrapporteringen, jf. § 2-3 syvende ledd.
+
+(4) Regnskapspliktig som er datterselskap eller filial som nevnt i [§ 2-8](lov/1998-07-17-56/§2-8), skal sende inn bærekraftsrapporten som nevnt i § 2-8 første til femte ledd, attestasjonsuttalelsen som nevnt i § 2-8 sjette ledd og i tilfelle erklæringene som nevnt i § 2-8 femte og sjette ledd.
+
+(5) Regnskapsregisteret føres av den Kongen bestemmer. Innholdet av de innsendte dokumentene skal holdes tilgjengelig ved Regnskapsregisteret i 10 år.
+
+(6) Departementet kan gi forskrifter om at visse regnskapspliktige skal være fritatt fra plikten etter første ledd. Departementet kan fastsette nærmere regler om innsending til Regnskapsregisteret og krav til innholdet i oversendelsesbrevet som nevnt i første ledd og kan gi regler som pålegger de regnskapspliktige elektronisk innsending. Departementet kan videre gi regler om at bestemmelser fastsatt i eller i medhold av [§ 8-1](lov/1998-07-17-56/§8-1), skal gjelde tilsvarende for opplysninger den regnskapspliktige har sendt til Regnskapsregisteret i oversendelsesbrevet eller på annen måte.
+
+(7) [Foretaksregisterloven § 6-2](lov/2025-06-20-106/§6-2) om registrering og kunngjøring av selskapsopplysninger og dokumenter på Unionens offisielle språk gjelder tilsvarende for innsending av oversettelser av årsregnskapet, årsberetningen og revisjonsberetningen. [Foretaksregisterloven § 9-4](lov/2025-06-20-106/§9-4) om utveksling av opplysninger etter direktiv [(EU) 2017/1132](eu/32017l1132) gjelder tilsvarende for opplysninger i Regnskapsregisteret.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [30 juni 2006 nr. 38](lov/2006-06-30-38) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 773](forskrift/2006-06-30-773)), [30 juni 2006 nr. 58](lov/2006-06-30-58) (ikr. 1 jan 2007 iflg. [res. 30 juni 2006 nr. 878](forskrift/2006-06-30-878)), [15 apr 2011 nr. 10](lov/2011-04-15-10) (ikr. 1 mai 2011 iflg. [res. 15 apr 2011 nr. 400](forskrift/2011-04-15-400)), [13 des 2013 nr. 116](lov/2013-12-13-116) (ikr. 1 jan 2014 med virkning for regnskapsår påbegynt 1 jan 2014 og senere), [16 juni 2023 nr. 67](lov/2023-06-16-67) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 905](forskrift/2023-06-16-905)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+### § 8-3. Forsinkelsesgebyr
+
+(1) Dersom årsregnskap, årsberetning, revisjonsberetning eller oversendelsesbrev som skal sendes til Regnskapsregisteret, ikke er avsendt før 1. august i året etter regnskapsåret, eller dersom det etter denne fristen hefter mangler ved innsendte dokumenter som nevnt etter nærmere regler fastsatt av departementet, skal den regnskapspliktige betale forsinkelsesgebyr inntil innsendingsplikten er oppfylt eller mangler er rettet, men ikke for mer enn 26 uker. Er regnskapsåret avsluttet på en dato fra 1. januar til 30. juni, er fristen etter første punktum 1. februar. Forsinkelsesgebyr ved innsendingsplikt etter [§ 8-2](lov/1998-07-17-56/§8-2) annet ledd påløper ikke før tidligst en måned etter at det utenlandske foretaket skal offentliggjøre årsregnskapet i henhold til reglene for dette i hjemstaten. Departementet kan i forskrift utsette fristene etter første og annet punktum med inntil en måned, og gi andre regler om forsinkelsesgebyr.
+
+(2) Dersom påløpt forsinkelsesgebyr ikke betales innen tre uker etter påkrav fra Regnskapsregisteret, svarer den regnskapspliktiges styremedlemmer solidarisk for påløpt gebyr. Har ikke den regnskapspliktige styre, svarer deltakerne eller medlemmene og daglig leder solidarisk for gebyret. Solidarskyldners ansvar etter dette ledd er begrenset til gebyr påløpt fram til vedkommende fratrådte sitt verv.
+
+(3) Regnskapsregisteret kan helt eller delvis ettergi forsinkelsesgebyret, dersom det blir gjort sannsynlig at innsendingsplikten ikke er overholdt som følge av forhold utenfor den regnskapspliktiges kontroll eller dersom særlige rimelighetsgrunner knyttet til ileggelsen tilsier det. Regnskapsregisteret kan helt eller delvis frita personer fra solidaransvar etter annet ledd i samsvar med reglene for ettergivelse av gebyr.
+
+(4) Ilagt gebyr er tvangsgrunnlag for utlegg. Ileggelse av forsinkelsesgebyr regnes ikke som et enkeltvedtak etter forvaltningsloven.
+
+> Endret ved [lover 19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 10 juni 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [17 juni 2005 nr. 78](lov/2005-06-17-78) (ikr. 17 juni 2005 iflg. [res. 17 juni 2005 nr. 625](forskrift/2005-06-17-625)), [15 apr 2011 nr. 10](lov/2011-04-15-10) (ikr. 1 mai 2011 iflg. [res. 15 apr 2011 nr. 400](forskrift/2011-04-15-400)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 8-4. Innkreving av gebyr
+
+Krav som nevnt i [§ 8-3](lov/1998-07-17-56/§8-3) innkreves av Innkrevingsmyndigheten med mindre departementet bestemmer annet.
+
+> Endret ved [lover 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 8-5. Straff
+
+Den som overtrer bestemmelser om bokføring eller regnskap, straffes etter [straffeloven §§ 392](lov/2005-05-20-28/§392) til [394](lov/2005-05-20-28/§394).
+
+> Endret ved [lover 18 juni 1999 nr. 41](lov/1999-06-18-41) (ikr. 1 okt 1999 iflg. res. 24 sep 1999), [25 juni 2004 nr. 50](lov/2004-06-25-50) (ikr. 1 okt 2004 iflg. [res. 25 juni 2004 nr. 977](forskrift/2004-06-25-977)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2018 nr. 114](lov/2018-12-20-114).
+
+## Kapittel 9. Forskjellige bestemmelser
+
+> Tilføyd ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17).
+
+### § 9-1. Plikt til å utarbeide adskilte regnskaper mv.
+
+(1) For å bidra til kontroll med at bestemmelsene i [EØS-avtalen artikkel 59](lov/1992-11-27-109/eøsl/a59) blir overholdt, kan Kongen fastsette i forskrift at foretak som offentlige myndigheter har gitt særlige eller eksklusive rettigheter eller som er tillagt oppgaven å utføre tjenester av allmenn økonomisk betydning og mottar statsstøtte uansett form, herunder subsidier, stønad eller kompensasjon, knyttet til denne tjenesten og som dessuten driver andre former for virksomhet, for hvert regnskapsår skal utarbeide en oppgave med resultatoppstilling for de forskjellige deler av virksomheten. Kongen kan gi nærmere regler om utforming, revisjon, registrering, dokumentasjon og oppbevaring av slike oppgaver. Kongen kan også gi regler om innsendingsplikt til offentlige myndigheter av oppgaver som nevnt i første punktum og om innsyn for offentlige myndigheter og andre i registrerte regnskapsopplysninger og regnskapsmateriale.
+
+(2) Plikten etter første ledd gjelder uavhengig av om foretaket er regnskapspliktig etter denne lov.
+
+> Tilføyd ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17), endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 9-2. Resultat- og balanseoppstilling til bruk for offentlig kontroll og statistikk
+
+(1) Regnskapspliktig som i henhold til [§ 3-9](lov/1998-07-17-56/§3-9) tredje eller fjerde ledd utarbeider selskapsregnskap i samsvar med internasjonale regnskapsstandarder fastsatt i medhold av [§ 3-9](lov/1998-07-17-56/§3-9) annet ledd, skal utarbeide en egen resultatoppstilling og balanseoppstilling utenfor årsregnskapet i samsvar med [kapittel 6](lov/1998-07-17-56/kap6) og i tilfelle spesifikasjon av driftskostnadene i samsvar med [§ 7-8 b](lov/1998-07-17-56/§7-8b).
+
+(2) Kravet etter første ledd gjelder ikke dersom den regnskapspliktige i selskapsregnskapet har stilt opp resultatregnskapet og balansen i samsvar med bestemmelsene i [kapittel 6](lov/1998-07-17-56/kap6) og i tilfelle i samsvar med [§ 7-8 b](lov/1998-07-17-56/§7-8b).
+
+(3) Bestemmelsene i [§ 8-2](lov/1998-07-17-56/§8-2) første ledd, [§ 8-3](lov/1998-07-17-56/§8-3) og [§ 8-4](lov/1998-07-17-56/§8-4) gjelder tilsvarende for resultat- og balanseoppstilling som skal utarbeides etter denne paragraf. Regnskapsregisteret kan ikke gjøre innholdet kjent for andre enn kontrollmyndigheter og myndigheter som utarbeider offisiell statistikk.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 9-3. Offentlig organs opplysningsplikt til Regnskapsregisteret
+
+Departementet kan ved forskrift bestemme at forvaltningsorgan skal gi opplysninger til Regnskapsregisteret som er egnet til å fastslå regnskapsplikt etter [§ 1-2](lov/1998-07-17-56/§1-2) første til fjerde ledd. Forskriftene kan fastsette at opplysningene skal gis uten hinder av taushetsplikt.
+
+> Tilføyd ved [lov 10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), endret ved [lov 12 des 2008 nr. 98](lov/2008-12-12-98) (ikr. 1 jan 2009).
+
+## Kapittel 10. Sluttbestemmelser
+
+> Endret ved lov 7 juni 2002 nr. 17, endret kapittelnummer fra kap 9.
+
+### § 10-1. Regler som utfyller eller fraviker loven
+
+For regnskapspliktig som nevnt i [§ 1-2 første ledd nr. 5](lov/1998-07-17-56/§1-2/ledd/1/nummer/5) til [11](lov/1998-07-17-56/§1-2/ledd/1/nummer/11) eller [13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13), kan departementet gi forskrift som utfyller eller fraviker [kapittel 2](lov/1998-07-17-56/kap2) til [7](lov/1998-07-17-56/kap7) og som unntar regnskapspliktig som nevnt i [§ 1-2 første ledd nr. 13](lov/1998-07-17-56/§1-2/ledd/1/nummer/13) fra regnskapsplikt.
+
+> Endret ved [lover 7 juni 2002 nr. 17](lov/2002-06-07-17), tidligere § 9-1, [15 juni 2001 nr. 59](lov/2001-06-15-59) som endret ved [lov 29 apr 2005 nr. 22](lov/2005-04-29-22) (ikr. 29 apr 2005 iflg. [res. 29 apr 2005 nr. 366](forskrift/2005-04-29-366)), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 10-2. Ikrafttredelse
+
+Loven trer i kraft 1. januar 1999.
+
+> Endret ved [lover 21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [7 juni 2002 nr. 17](lov/2002-06-07-17), tidligere § 9-2, [19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)).
+
+### § 10-3. Overgangsbestemmelser
+
+(1) For selskaper som har reservefond ved lovens ikrafttredelse, skal det overføres til overkursfondet et beløp lik summen av overkursavsetninger de siste ti år, jf. [aksjeloven § 12-1](lov/1997-06-13-44/§12-1) annet ledd nr. 3. Gjenværende reservefond anses som annen egenkapital.
+
+(2) For regnskapspliktige som har oppskrivningsfond ved lovens ikrafttredelse, anses oppskrivningsfondet som overkursfond.
+
+(3) For regnskapspliktige som har tilbakeføringsfond ved lovens ikrafttredelse, anses tilbakeføringsfondet som annen egenkapital.
+
+(4) For selskaper som har innløsningsfond ved lovens ikrafttredelse, anses innløsningsfondet som overkursfond.
+
+(5) Regnskapspliktige som følger et annet regnskapsår enn kalenderåret, skal legge om regnskapsåret i samsvar med [§ 1-7](lov/1998-07-17-56/§1-7) senest to år etter lovens ikrafttredelse.
+
+(6) Kongen kan gi nærmere overgangsbestemmelser.
+
+> Endret ved [lover 10 mars 2000 nr. 15](lov/2000-03-10-15), [21 des 2000 nr. 108](lov/2000-12-21-108) (ikr. 1 jan 2001), [7 juni 2002 nr. 17](lov/2002-06-07-17), tidligere § 9-3, [19 des 2003 nr. 122](lov/2003-12-19-122) (ikr. 1 jan 2004), [10 juni 2005 nr. 46](lov/2005-06-10-46) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 531](forskrift/2005-06-10-531)), [19 nov 2004 nr. 73](lov/2004-11-19-73) (ikr. 1 jan 2006 iflg. [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531)), [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+
+### § 10-4. Endringer i andre lover
+
+Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+> Endret ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17), tidligere § 9-4.
+
+## EØS-avtalen vedlegg XXII nr. 10b (Europaparlaments- og rådsforordning (EF) nr. 1606/2002 av 19. juli 2002 om anvendelse av internasjonale regnskapsstandarder)
+
+1. Under sitt møte i Lisboa 23. og 24. mars 2000 understreket Det europeiske råd behovet for å påskynde gjennomføringen av det indre marked for finansielle tjenester, fastsatte 2005 som frist for gjennomføringen av Kommisjonens handlingsplan for finansielle tjenester og framholdt at det bør iverksettes tiltak for å gjøre det lettere å sammenligne finansregnskap som utarbeides av selskaper med offentlig omsatte verdipapirer.
+2. Med henblikk på å bedre det indre markeds virkemåte bør selskaper med offentlig omsatte verdipapirer være forpliktet til å anvende felles internasjonale regnskapsstandarder av høy kvalitet når de utarbeider sitt konsernregnskap. Det er dessuten viktig at de standarder for finansiell rapportering som anvendes av selskaper i Fellesskapet som deltar i finansmarkeder, er internasjonalt aksepterte og virkelig er felles for hele verden. Dette forutsetter en stadig større samordning av de regnskapsstandarder som for tiden brukes internasjonalt, der det endelige målet er ett enkelt sett med regnskapsstandarder for hele verden.
+3. Rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 om årsregnskapene for visse selskapsformer,4 rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 om konsoliderte regnskaper,5 rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper6 og rådsdirektiv [91/674/EØF](eu/31991l0674) av 19. desember 1991 om forsikringsforetaks årsregnskaper og konsoliderte regnskaper7 er også rettet mot selskaper i Fellesskapet med offentlig omsatte verdipapirer. Rapporteringskravene i disse direktivene kan ikke sikre den høye graden av innsyn og sammenlignbarhet med hensyn til finansiell rapportering for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer som er et nødvendig vilkår for å kunne bygge et integrert kapitalmarked som fungerer effektivt, smidig og rasjonelt. Det er derfor nødvendig å utfylle den rettslige rammen som gjelder for selskaper med offentlig omsatte verdipapirer.
+4. Denne forordning har som mål å bidra til en rasjonell og kostnadseffektiv virkemåte for kapitalmarkedet. Vern av investorer og opprettholdelse av tillit til finansmarkedene er også et viktig aspekt ved fullføringen av det indre marked på dette område. Forordningen styrker den frie bevegelighet for kapital i det indre marked og bidrar til at selskaper i Fellesskapet kan konkurrere på like vilkår om tilgjengelige finansielle midler i Fellesskapets kapitalmarkeder samt i verdenskapitalmarkedene.
+5. Det er viktig for konkurranseevnen til Fellesskapets kapitalmarkeder å oppnå tilnærming av standardene som brukes i Europa ved utarbeidingen av finansregnskap, til internasjonale regnskapsstandarder som kan brukes over hele verden, for transaksjoner over landegrenser eller for børsnotering hvor som helst i verden.
+6. 13. juni 2000 offentliggjorde Kommisjonen meldingen «Den europeiske unions strategi for finansiell rapportering: veien framover» der den foreslo at alle selskaper i Fellesskapet med offentlig omsatte verdipapirer innen 2005 skal utarbeide sitt konsernregnskap i henhold til ett enkelt sett med regnskapsstandarder, nemlig de internasjonale regnskapsstandardene IAS («International Accounting Standards»).
+7. De internasjonale regnskapsstandardene «International Accounting Standards» (IAS) utarbeides av International Accounting Standards Committee (IASC), hvis mål er å utarbeide ett enkelt sett med regnskapsstandarder for hele verden. I forbindelse med omorganiseringen av IASC vedtok det nye styret 1. april 2001, som en av sine første beslutninger, å endre navnet på IASC til International Accounting Standards Board (IASB), og når det gjelder framtidige internasjonale regnskapsstandarder, å endre navnet på IAS til «International Financial Reporting Standards» (IFRS). Dersom det er mulig, og under forutsetning av at det sikrer en høy grad av innsyn og sammenlignbarhet med hensyn til finansiell rapportering i Fellesskapet, bør disse standardene gjøres obligatoriske for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer.
+8. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen8 og med behørig hensyn til Kommisjonens erklæring i Europaparlamentet 5. februar 2002 om gjennomføring av regelverket om finansielle tjenester.
+9. For å kunne vedta at en internasjonal regnskapsstandard skal anvendes i Fellesskapet, er det for det første nødvendig at den oppfyller det grunnleggende krav i ovennevnte rådsdirektiver, det vil si at dens anvendelse resulterer i et rettvisende bilde av et foretaks økonomiske stilling og resultat, idet dette prinsippet ses i lys av ovennevnte rådsdirektiver uten at det krever nøyaktig samsvar med alle bestemmelsene i direktivene. For det andre er det nødvendig at den, i samsvar med Rådets konklusjoner av 17. juli 2000, fremmer den europeiske offentlighetens interesse, og endelig at den oppfyller grunnleggende kriterier når det gjelder kvaliteten på informasjonen som kreves for at finansregnskaper skal være til nytte for brukerne.
+10. En regnskapsfaglig komité vil bistå Kommisjonen med støtte og sakkunnskap ved vurderingen av internasjonale regnskapsstandarder.
+11. Godkjenningsordningen for internasjonale regnskapsstandarder bør sikre rask behandling av forslag til internasjonale standarder, og bør også være et hjelpemiddel for de viktigste berørte parter til å drøfte, overveie og utveksle opplysninger om internasjonale regnskapsstandarder, særlig for nasjonale organer som fastsetter regnskapsstandarder, tilsynsmyndigheter innenfor områdene verdipapirer, bankvirksomhet og forsikring, sentralbanker, herunder Den europeiske sentralbank, regnskapsbransjen samt de som bruker og utarbeider regnskap. Ordningen bør være et hjelpemiddel til å frambringe en felles forståelse av vedtatte internasjonale regnskapsstandarder i Fellesskapet.
+12. I samsvar med forholdsmessighetsprinsippet er de tiltak som fastsettes i denne forordning, som krever at ett enkelt sett internasjonale regnskapsstandarder pålegges selskaper med offentlig omsatte verdipapirer, nødvendige for å nå målet om å bidra til at kapitalmarkeder i Fellesskapet fungerer rasjonelt og kostnadseffektivt, og dermed til gjennomføringen av det indre marked.
+13. I samsvar med samme prinsipp er det med hensyn til årsregnskap nødvendig å la medlemsstatene velge om de vil tillate eller kreve av selskaper med offentlig omsatte verdipapirer å utarbeide dette i samsvar med internasjonale regnskapsstandarder vedtatt etter framgangsmåten fastsatt i denne forordning. Medlemsstatene kan videre beslutte å utvide denne tillatelsen eller dette kravet til andre selskaper med hensyn til utarbeidingen av deres konsernregnskap og/eller årsregnskap.
+14. For å fremme utveksling av synspunkter og gjøre det mulig for medlemsstatene å samordne sine standpunkter bør Kommisjonen jevnlig underrette komiteen for regnskapsregulering om igangsatte prosjekter, diskusjonsnotater, rapporter og høringsutkast som er utferdiget av IASB, og om det etterfølgende arbeidet til den regnskapsfaglige komiteen. Det er også viktig at komiteen for regnskapsregulering blir underrettet på et tidlig tidspunkt dersom Kommisjonen akter å foreslå at en internasjonal regnskapsstandard ikke skal vedtas.
+15. I forbindelse med at Kommisjonen overveier og tar stilling til dokumenter og forslag som IASB har utferdiget i forbindelse med utarbeidingen av internasjonale regnskapsstandarder (IFRS og SIC/IFRIC), bør Kommisjonen ta hensyn til betydningen av å unngå konkurransemessige ulemper for europeiske selskaper som driver virksomhet på verdensmarkedet, samt i størst mulig grad til synspunktene som delegasjonene i komiteen for regnskapsregulering har framsatt. Kommisjonen vil være representert i IASBs organer.
+16. En egnet og streng håndhevingsordning er avgjørende for å sikre investorenes tillit til finansmarkedene. Medlemsstatene er i samsvar med traktatens artikkel 10 forpliktet til å treffe tiltak som er egnet til å sikre at internasjonale regnskapsstandarder overholdes. Kommisjonen akter å samarbeide med medlemsstatene, særlig gjennom Den europeiske komiteen for verdipapirtilsyn (CESR), for å utarbeide en felles tilnærming til håndheving.
+17. Det er dessuten nødvendig å gi medlemsstatene adgang til å utsette anvendelsen av visse bestemmelser til 2007 for selskaper hvis verdipapirer omsettes offentlig både i Fellesskapet og i et regulert marked i en tredjestat, og som allerede anvender et annet sett med internasjonalt aksepterte standarder som grunnlag for sitt konsernregnskap samt for selskaper som bare har offentlig omsatte gjeldsinstrumenter. Det er likevel svært viktig at ett enkelt sett med verdensomspennende internasjonale regnskapsstandarder, IAS, innen 2007 får anvendelse på alle selskaper i Fellesskapet hvis verdipapirer blir offentlig omsatt i et regulert marked i Fellesskapet.
+18. For at medlemsstatene og selskapene skal kunne gjennomføre de tilpasninger som er nødvendige for å kunne anvende internasjonale regnskapsstandarder, kan visse bestemmelser ikke anvendes før i 2005. Det bør utarbeides egnede bestemmelser om hvordan selskapene skal anvende IAS første gang etter denne forordnings ikrafttredelse. Bestemmelsene bør utformes på internasjonalt plan for å sikre internasjonal anerkjennelse av de løsninger som vedtas –
+
+### Art 1. Mål
+
+Målet med denne forordning er å vedta og anvende internasjonale regnskapsstandarder i Fellesskapet [EØS] med sikte på å harmonisere den finansielle informasjon som framlegges av selskapene omhandlet i artikkel 4 for å sikre en høy grad av innsyn i og sammenlignbarhet mellom finansregnskaper og dermed en rasjonell virkemåte for kapitalmarkedet i Fellesskapet [EØS] og det indre marked.*
+
+### Art 2. Definisjoner
+
+I denne forordning menes med «internasjonale regnskapsstandarder» International Accounting Standards (IAS) og International Financial Reporting Standards (IFRS) og tilhørende tolkninger (SIC/IFRIC-tolkninger), etterfølgende endringer av disse standardene og tilhørende tolkninger samt framtidige standarder og tilhørende tolkninger som utgis eller vedtas av International Accounting Standards Board (IASB).
+
+### Art 3. Vedtakelse og anvendelse av internasjonale regnskapsstandarder
+
+1. Etter framgangsmåten fastsatt i artikkel 6 nr. 2 skal Kommisjonen avgjøre hvordan de internasjonale regnskapsstandardene skal få anvendelse i Fellesskapet.
+
+2. De internasjonale regnskapsstandardene kan bare vedtas dersomde ikke strider mot prinsippet fastsatt i artikkel 2 nr. 3 i direktiv [78/660/EØF](eu/31978l0660) og artikkel 16 nr. 3 i direktiv [83/349/EØF](eu/31983l0349*) og dersom de er i den europeiske offentlighetens interesse,de oppfyller kriteriene med hensyn til lettfattelighet, relevans, pålitelighet og sammenlignbarhet for den finansielle informasjon som er nødvendig for å treffe økonomiske beslutninger og vurdere selskapsledelsens arbeid.
+
+3. Kommisjonen skal, etter framgangsmåten fastsatt i artikkel 6 nr. 2 og senest 31. desember 2002 treffe beslutning om anvendelsen i Fellesskapet av de internasjonale regnskapsstandardene som foreligger ved ikrafttredelsen av denne forordning.
+
+4. Vedtatte internasjonale regnskapsstandarder skal offentliggjøres i sin helhet på hvert av Fellesskapets offisielle språk som kommisjonsforordninger i *De Europeiske Fellesskaps Tidende*.
+
+### Art 4. Konsernregnskap for selskaper med offentlig omsatte verdipapirer
+
+For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.1 *
+
+### Art 5. Valgmuligheter med hensyn til årsregnskap og selskaper hvis verdipapirer ikke omsettes offentlig
+
+Medlemsstatene [EØS-statene] kan tillate eller kreve atselskapene omhandlet i artikkel 4 utarbeider sitt årsregnskap,selskaper som ikke er omhandlet i artikkel 4, utarbeider sitt konsernregnskap og/eller årsregnskap,i samsvar med de internasjonale regnskapsstandarder som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2.
+
+### Art 6. Framgangsmåte med komité
+
+1. Kommisjonen skal bistås av en komité for regnskapsregulering, heretter kalt «komiteen».
+
+2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+
+3. Komiteen fastsetter sin forretningsorden.
+
+### Art 7. Rapportering og samordning
+
+1. Kommisjonen skal jevnlig være i kontakt med komiteen om spørsmål som angår igangsatte IASB-prosjekter og deres status samt ethvert tilknyttet dokument utferdiget av IASB for å samordne standpunkter og fremme drøftinger om vedtakelsen av de standarder som nevnte prosjekter og dokumenter kan gi opphav til.
+
+2. Kommisjonen skal underrette komiteen på behørig måte og i rett tid dersom Kommisjonen akter å foreslå at en standard ikke skal vedtas.
+
+### Art 8. Underretning
+
+Dersom medlemsstater vedtar tiltak i henhold til artikkel 5, skal de umiddelbart underrette Kommisjonen og de øvrige medlemsstater om dette.
+
+### Art 9. Overgangsbestemmelser
+
+Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaperhvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),* ellerhvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
+
+### Art 10. Opplysninger og gjennomgåelse
+
+Kommisjonen skal gjennomgå denne forordnings virkemåte og framlegge en rapport om dette for Europaparlamentet og Rådet innen 1. juli 2007.
+
+### Art 11. Ikrafttredelse
+
+Denne forordning trer i kraft den tredje dag etter at den er kunngjort i *De Europeiske Fellesskaps Tidende.*
+
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel, 19. juli 2002.

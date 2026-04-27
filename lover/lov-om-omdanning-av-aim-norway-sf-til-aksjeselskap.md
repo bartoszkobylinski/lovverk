@@ -1,0 +1,52 @@
+---
+id: "nl-20160617-044"
+slug: "lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap"
+type: "lov"
+ref_id: "lov/2016-06-17-44"
+title: "Lov om omdanning av Aerospace Industrial Maintenance Norway SF til aksjeselskap"
+short_title: "Lov om omdanning av AIM Norway SF til aksjeselskap"
+language: "nb"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "2016-08-01"
+last_change_in_force: null
+last_updated: "2021-09-29"
+xml_hash: "66982ae0097888fe97fb9149829a71aa5f9fef8a25f40ad0c187b7254ca333d6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om omdanning av Aerospace Industrial Maintenance Norway SF til aksjeselskap
+
+## § 1. Formål
+
+Formålet med loven er å omdanne statsforetaket Aerospace Industrial Maintenance Norway SF (AIM Norway SF) til et aksjeselskap ved navn Aerospace Industrial Maintenance Norway AS (AIM Norway AS). Loven skal sikre kontinuitet i driften.
+
+## § 2. Omdanning av AIM Norway SF
+
+AIM Norway SF oppløses ved at selskapets samlede eiendeler, rettigheter og forpliktelser overføres til AIM Norway AS, herunder alle løpende kontraktsforhold. Overføringen av forpliktelser har frigjørende virkning for AIM Norway SF.
+
+AIM Norway AS stiftes i henhold til aksjelovens regler. Eiendelene som overføres skal benyttes som statens aksjeinnskudd i selskapet mot at staten blir aksjeeier.
+
+## § 3. Omregistrering
+
+Omregistrering i grunnbok og andre registre i forbindelse med omdanningen, skjer ved navneendring. Det påløper ingen avgifter ved slik navneendring.
+
+## § 4. Overføring av offentlige rettigheter mv.
+
+Offentlige rettigheter, konsesjoner, tillatelser, lisenser eller lignende som gjelder AIM Norway SF, blir ved omdanningen overført til AIM Norway AS. Det påløper ingen avgifter ved slike overføringer.
+
+## § 5. Forholdet til rettighetshavere og medkontrahenter
+
+Rettighetshavere og medkontrahenter kan ikke motsette seg overføringen eller gjøre gjeldende at overføringene utgjør en bortfallsgrunn for rettsforholdet. Eventuelle forbehold i kontrakter som gir rett til å si opp avtaleforholdet eller reforhandle kontrakten, kan ikke gjøres gjeldende.
+
+## § 6. Forholdet til skatt og avgift
+
+AIM Norway AS overtar den samme skatte- og avgiftsmessige posisjonen som AIM Norway SF hadde. Overføringen og omdanningen skal ikke utløse skatter eller avgifter.
+
+## § 7. Ikrafttredelse
+
+Loven trer i kraft 1. august 2016.

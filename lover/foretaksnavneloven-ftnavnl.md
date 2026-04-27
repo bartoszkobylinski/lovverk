@@ -1,0 +1,350 @@
+---
+id: "nl-19850621-079"
+slug: "foretaksnavneloven-ftnavnl"
+type: "lov"
+ref_id: "lov/1985-06-21-79"
+title: "Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)"
+short_title: "Foretaksnavneloven – ftnavnl"
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1988-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-08-24"
+xml_hash: "f558b577cec612a438eab9d3277a337acaea69de9d697fd2fde86f28793c19ab"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)
+
+## Kapittel 1. Innledende bestemmelser
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 1-1
+
+En næringsdrivende kan få enerett til foretaksnavn og eventuelle andre forretningskjennetegn etter bestemmelsene i denne lov.
+
+Med foretaksnavn menes det offisielle navn på en næringsdrivende juridisk person og kjennetegnet for et enkeltpersonforetak. En juridisk person skal i rettergang og overfor offentlig myndighet betegnes med sitt foretaksnavn. For enkeltpersonforetak nyttes innehaverens personnavn. Retten til foretaksnavnet oppnås ved at det tas i bruk her i riket som navn på foretaket eller registreres, jfr. [§ 3-1](lov/1985-06-21-79/§3-1).
+
+Med foretaksnavn til norskregistrert utenlandsk foretak, jf. [foretaksregisterloven § 2-1 andre ledd](lov/2025-06-20-106/§2-1/ledd/2), menes navn som nevnt i denne lov [§ 2-2 femtende ledd](lov/1985-06-21-79/§2-2/ledd/15). Reglene i denne lov [§ 2-1](lov/1985-06-21-79/§2-1) og [§§ 2-3](lov/1985-06-21-79/§2-3) til [2-6](lov/1985-06-21-79/§2-6) gjelder ikke for norskregistrert utenlandsk foretak.
+
+For sin virksomhet kan et næringsdrivende foretak også nytte annet kjennetegn (sekundært forretningskjennetegn). Rett til sekundært forretningskjennetegn oppnås ved at kjennetegnet innarbeides. Det anses å være innarbeidet når, og så lenge, det innen vedkommende omsetningskrets her i riket er godt kjent som særlig kjennetegn for et foretak. Bestemmelsene i denne lov, unntatt [§ 2-2](lov/1985-06-21-79/§2-2), [§ 3-1](lov/1985-06-21-79/§3-1) og [kapittel 4](lov/1985-06-21-79/kap4), får tilsvarende anvendelse for sekundære forretningskjennetegn.
+
+> Endret ved lover [12 juni 1987 nr. 50](lov/1987-06-12-50), [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [12 april 2024 nr. 17](lov/2024-04-12-17) (i kraft 1 juli 2024 iflg. [res. 12 april 2024 nr. 602](forskrift/2024-04-12-602)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+## Kapittel 2. Krav til foretaksnavn. Registrering
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 2-1
+
+Et foretaksnavn må ikke være identisk med et foretaksnavn som er, eller blir, registrert etter allerede innkommet melding til Foretaksregisteret, såfremt det ikke foreligger samtykke fra vedkommende rettighetshaver. Et foretaksnavn må som minimum bestå av en sammenstilling av tre bokstaver fra det norske alfabet.
+
+Navn på land, fylker eller kommuner kan ikke nyttes som foretaksnavn.
+
+> Endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 2-2
+
+Foretaksnavn for enkeltpersonforetak skal inneholde innehaverens etternavn.
+
+Foretaksnavn for ansvarlig selskap skal inneholde ordene ansvarlig selskap eller forkortelsen ANS. Har deltakerne i det ansvarlige selskap delt ansvar for selskapets forpliktelser, skal foretaksnavnet inneholde ordene selskap med delt ansvar eller forkortelsen DA.
+
+Foretaksnavn for kommandittselskap skal inneholde ordet kommandittselskap eller forkortelsen KS.
+
+Foretaksnavn for aksjeselskap skal inneholde ordet aksjeselskap eller forkortelsen AS.
+
+Foretaksnavn for allmennaksjeselskap skal inneholde ordene allmennaksjeselskap eller forkortelsen ASA.
+
+Foretaksnavn for europeisk selskap skal inneholde ordene europeisk selskap eller forkortelsen SE.
+
+Foretaksnavn for andre selskaper med begrenset deltakeransvar og for foreninger med økonomisk formål, skal med mindre annet er bestemt i særlovgivningen, inneholde ordene selskap med begrenset ansvar eller forkortelsen BA.
+
+Foretaksnavn for samvirkeforetak skal inneholde ordet samvirkeforetak eller forkortelsen SA.
+
+Foretaksnavn for europeisk samvirkeforetak skal inneholde ordene europeisk samvirkeforetak eller forkortelsen SCE. Har medlemmene av et europeisk samvirkeforetak begrenset ansvar for foretakets forpliktelser, skal foretaksnavnet slutte med ordene med begrenset ansvar.
+
+Foretaksnavn for næringsdrivende stiftelse skal inneholde ordet stiftelse eller forkortelsen STI.
+
+Foretaksnavn for statsforetak skal inneholde ordet statsforetak eller SF.
+
+Foretaksnavn for interkommunalt selskap skal inneholde ordene interkommunalt selskap eller IKS.
+
+Foretaksnavn for kommunalt foretak skal inneholde ordene kommunalt foretak eller forkortelsen KF, og foretaksnavn for fylkeskommunalt foretak skal inneholde ordene fylkeskommunalt foretak eller forkortelsen FKF. Foretaksnavn som er nevnt i første punktum skal også inneholde en angivelse av hvilken kommune eller fylkeskommune foretaket er en del av.
+
+Foretaksnavn for regionalt helseforetak skal inneholde ordene regionalt helseforetak eller forkortelsen RHF. Foretaksnavn for helseforetak skal inneholde ordene helseforetak eller HF.
+
+Foretaksnavn til norskregistrert utenlandsk foretak skal være det samme som hovedforetakets offisielle navn i hjemstaten, og i tillegg inneholde betegnelsen NUF.
+
+Foretaksnavn må ikke inneholde annen foretaksbetegnelse enn den som angir foretakets egen organisasjonsform. Foretaksbetegnelsen skal stå bakerst i foretaksnavnet. Kongen kan gi nærmere regler om utforming av foretaksnavn.
+
+> Endret ved lover [12 juni 1987 nr. 50](lov/1987-06-12-50), [30 aug 1991 nr. 71](lov/1991-08-30-71), [22 des 1995 nr. 80](lov/1995-12-22-80) (ikr. 1 jan 1996), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [29 jan 1999 nr. 5](lov/1999-01-29-5) (ikr. 1 jan 2000 iflg. [res. 22 okt 1999 nr. 1097](forskrift/1999-10-22-1097)), [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 669](forskrift/2001-06-15-669)), [7 juni 2002 nr. 19](lov/2002-06-07-19) (ikr. 1 jan 2003 iflg. [vedtak 14 okt 2002 nr. 1126](forskrift/2002-10-14-1126)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [1 apr 2005 nr. 14](lov/2005-04-01-14) (ikr. 1 apr 2005 iflg. [res. 1 apr 2005 nr. 269](forskrift/2005-04-01-269)), [30 juni 2006 nr. 50](lov/2006-06-30-50) (ikr. 18 aug 2006 iflg. [res. 30 juni 2006 nr. 778](forskrift/2006-06-30-778)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [19 juni 2015 nr. 77](lov/2015-06-19-77) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 675](forskrift/2015-06-19-675)), [12 april 2024 nr. 17](lov/2024-04-12-17) (i kraft 1 juli 2024 iflg. [res. 12 april 2024 nr. 602](forskrift/2024-04-12-602), se endringsloven [del VI](lov/2024-04-12-17/kapVI) nr. 2 for overgangsregel).
+
+### § 2-3
+
+Et foretaksnavn må ikke være egnet til å villede.
+
+> Endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 2-4
+
+Foretaksnavn for enkeltpersonforetak eller ansvarlig selskap må ikke inneholde annet personnavn enn innehavers eller deltakers navn.
+
+Trer fullt ansvarlig deltaker ut av ansvarlig selskap eller kommandittselskap, eller overdras et foretaksnavn sammen med foretaket, jfr. [§ 4-1](lov/1985-06-21-79/§4-1), kan den tidligere deltakers eller eiers navn beholdes i foretaksnavnet såfremt vedkommende rettighetshaver gir samtykke til det og det ikke er egnet til å villede.
+
+> Endret ved lover [12 juni 1987 nr. 50](lov/1987-06-12-50), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 2-5
+
+Et foretaksnavn må ikke stride mot lov, offentlig orden eller moral.
+
+> Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 2-6
+
+Såfremt det ikke foreligger samtykke fra vedkommende rettighetshaver, må et foretaksnavn ikke:inneholde noe som er egnet til å oppfattes som annens navn, kunstnernavn eller lignende, med mindre det åpenbart siktes til en forlengst avdød person;inneholde noe som er egnet til å oppfattes som alminnelig kjent navn på en stiftelse, ideell forening eller lignende sammenslutning;inneholde noe som er egnet til å oppfattes som den særpregede tittel på en annens vernede åndsverk, eller som særskilt laget navn i slikt verk, hvis navnet er blitt alminnelig kjent;krenke en annens rett her i riket til et varemerke, foretaksnavn eller sekundært forretningskjennetegn;inneholde særegent navn på annens faste eiendom, eller noe som kan forveksles med det.Et foretaksnavn må ikke søkes registrert i ond tro.
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 2-7
+
+Foretaksnavn kan ikke registreres i Foretaksregisteret dersom det strider mot [§§ 2-1](lov/1985-06-21-79/§2-1), [2-2](lov/1985-06-21-79/§2-2), [2-3](lov/1985-06-21-79/§2-3), [2-4](lov/1985-06-21-79/§2-4) eller [2-5](lov/1985-06-21-79/§2-5) i denne lov. Registerfører undersøker ikke om foretaksnavnet som er søkt registrert krenker rettigheter etter [§ 2-6](lov/1985-06-21-79/§2-6).
+
+For saksbehandlingen hos registerfører gjelder bestemmelsene i [foretaksregisterloven](lov/2025-06-20-106).
+
+> Tilføyd ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), endret ved lov [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+## Kapittel 3. Vern for foretaksnavn. Administrativ overprøving
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 3-1
+
+Rett til foretaksnavn vinnes fra den dag foretaksnavnet tas i bruk her i riket, eller fra den dag registreringsmelding kommer inn til Foretaksregisteret, såfremt foretaksnavnet tas i bruk her i riket innen ett år.
+
+Rett til foretaksnavn etter første ledd har den virkning at ingen kan ta i bruk eller registrere et identisk foretaksnavn.
+
+Rett til foretaksnavn opphører fra den dag faktisk bruk opphører. For registrerte foretak opphører alltid retten til foretaksnavnet når foretaket slettes, med mindre foretaksnavnet og virksomheten overtas av andre, jfr. [§ 4-1](lov/1985-06-21-79/§4-1), eller foretaket registreres på ny innen 6 måneder etter at det er slettet etter [foretaksregisterloven § 8-3 andre ledd](lov/2025-06-20-106/§8-3/ledd/2).
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+### § 3-2
+
+For at et foretaksnavn skal ha vern mot lignende foretaksnavn eller varemerker, må foretaksnavnet oppfylle de krav til særpreg som gjelder etter [varemerkeloven § 14](lov/2010-03-26-8/§14).
+
+Rett til foretaksnavn etter første ledd gir en enerett, som har den virkning at ingen uten samtykke fra innehaveren kan bruke i næringsvirksomhet foretaksnavn eller varemerke som er identisk med eller ligner foretaksnavnet (kjennetegnslikhet) for virksomhet av samme eller lignende slag (bransjelikhet), såfremt det er risiko for forveksling.
+
+For et foretaksnavn som er velkjent her i riket, innebærer eneretten etter første ledd at ingen uten samtykke fra innehaveren kan bruke i næringsvirksomhet foretaksnavn eller varemerke som er identisk med eller ligner foretaksnavnet for virksomhet av samme eller annet slag, hvis bruken uten rimelig grunn ville medføre en urimelig utnyttelse av eller skade på det velkjente foretaksnavnets særpreg eller anseelse (goodwill).
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 3-3
+
+Rett til et foretaksnavn etter [§ 3-2](lov/1985-06-21-79/§3-2) gir ikke selvstendig beskyttelse for deler av navnet som ikke oppfyller de krav til særpreg som gjelder etter [varemerkeloven § 14](lov/2010-03-26-8/§14).
+
+Retten er ikke til hinder for at noen i samsvar med god forretningsskikk bruker:sitt navn eller sin adresse,angivelser om virksomhetens art eller angivelser som gjelder en i virksomheten utbudt vare eller tjenestes art, beskaffenhet, mengde, formål, verdi, geografiske opprinnelse eller andre egenskaper eller tidspunkt for når varen er fremstilt eller tjenesten utført,et allment benyttet stedsnavn.
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 3-4
+
+Gjør flere hver for seg krav på enerett til samme foretaksnavn, skal den ha fortrinnsrett som har eldst hjemmel for sitt krav, hvis ikke annet følger av bestemmelsen i [§ 3-5](lov/1985-06-21-79/§3-5).
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 3-5
+
+Et yngre foretaksnavn kan uten hinder av bestemmelsene i dette kapittel bestå ved siden av et foretaksnavn som har eldre rett, hvis innehaveren av den eldre rett ikke innen rimelig tid har tatt skritt for å hindre bruken av det yngre foretaksnavn, eller det følger av [§ 3-6 a](lov/1985-06-21-79/§3-6a) eller [§ 5-1](lov/1985-06-21-79/§5-1) andre til femte ledd at det yngre navnet kan bestå ved siden av det eldre.
+
+For å unngå forvekslingsfare i tilfelle som nevnt i første ledd, kan retten bestemme at ett eller begge foretaksnavn i fremtiden bare må brukes på en særlig måte, såsom ved tilføyelse av stedsnavn eller med annet klargjørende tillegg.
+
+> Endret ved lover [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 apr 1996 iflg. [res. 29 mars 1996 nr. 307](forskrift/1996-03-29-307)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 3-6
+
+Enhver med rettslig interesse som mener at et registrert foretaksnavn strider mot [§§ 2-3](lov/1985-06-21-79/§2-3), [2-5](lov/1985-06-21-79/§2-5) eller [2-6](lov/1985-06-21-79/§2-6), kan kreve at registreringen oppheves ved administrativ overprøving. Kravet må fremmes innen 3 år etter at registreringsvedtaket er fattet.
+
+Et krav om administrativ overprøving skal innleveres skriftlig til Patentstyret og inneholdenavn og adresse på den som fremsetter kravet,foretaksnavnet som kreves overprøvd (med organisasjonsnummer),hvilke grunner kravet bygger på,nødvendig dokumentasjon av forhold som påberopes til støtte for kravet.
+
+Det skal betales fastsatt gebyr, ellers anses kravet om administrativ overprøving som ikke innkommet.
+
+Hvis kravet om administrativ overprøving ikke oppfyller vilkårene i andre ledd skal Patentstyret gi en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal kravet avvises hvis ikke Patentstyret finner at det bør gis en ny frist for retting.
+
+Patentstyret skal gi innehaveren av det registrerte foretaksnavnet som kravet retter seg mot, melding om kravet med en rimelig frist for uttalelse.
+
+Er det innlevert to eller flere krav om administrativ overprøving av samme registrering, kan Patentstyret slå sakene sammen til én sak hvis det ikke fremsettes en saklig begrunnet innvending mot dette.
+
+Patentstyret kan ta hensyn til forhold som ikke er berørt i kravet om administrativ overprøving.
+
+Enhver kan kreve innsyn i dokumentene i en administrativ overprøvingssak. Opplysninger om forretningshemmeligheter kan unntas hvis den berørte parten krever det. Når et slikt krav er innlevert, blir opplysningene ikke offentlige før kravet er endelig avslått. Dokumenter som Patentstyret har utarbeidet for sin interne saksforberedelse, kan unntas fra offentlighet.
+
+Dersom Patentstyret finner at et foretaksnavn er registrert i strid med [§§ 2-3](lov/1985-06-21-79/§2-3), [2-5](lov/1985-06-21-79/§2-5) eller [2-6](lov/1985-06-21-79/§2-6), og registreringshindringen fortsatt foreligger, skal det fatte vedtak om å oppheve registreringen av foretaksnavnet, med mindre registreringen kan bestå etter [§ 3-6 a](lov/1985-06-21-79/§3-6a). [Foretaksregisterloven § 8-1 første ledd](lov/2025-06-20-106/§8-1/ledd/1) og [tredje ledd første](lov/2025-06-20-106/§8-1/ledd/3/setning/1) og [andre punktum](lov/2025-06-20-106/§8-1/ledd/3/setning/2) om retting av feil gjelder tilsvarende.
+
+Dersom kravet om administrativ overprøving tas til følge, skal dette registreres i Foretaksregisteret så snart adgangen til å påklage vedtaket etter [§ 3-7](lov/1985-06-21-79/§3-7) er uttømt eller klagefristen har løpt ut.
+
+> Tilføyd ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), endret ved lover [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+### § 3-6 a
+
+Hvis et krav om administrativ overprøving er begrunnet i et eldre registrert varemerke eller foretaksnavn, skal innehaveren av det eldre kjennetegnet, hvis innehaveren av det yngre foretaksnavnet krever det, godtgjøre at det eldre kjennetegnet i løpet av femårsperioden forut for fremsettelsen av kravet har vært i reell bruk for de varer eller tjenester eller den virksomhet det er registrert for, og som er påberopt som grunnlag for kravet, eller at det foreligger rimelig grunn for manglende bruk. Første punktum gjelder bare hvis det da kravet om overprøving ble fremsatt, var gått minst fem år fra endelig avgjørelse om registrering av det eldre varemerket eller foretaksnavnet.
+
+Hvis det den dagen registreringsmelding innkom for det yngre foretaksnavnet, var gått minst fem år fra endelig avgjørelse om registrering av det eldre varemerket eller foretaksnavnet, skal innehaveren av det eldre kjennetegnet i tillegg godtgjøre at det ble gjort reell bruk av dette i løpet av femårsperioden forut for den nevnte innkomstdagen, eller at det forelå rimelig grunn til manglende bruk.
+
+Hvis innehaveren av det eldre varemerket eller foretaksnavnet ikke kan godtgjøre at kjennetegnet har vært i bruk som angitt i første og annet ledd, skal registreringen av det yngre foretaksnavnet ikke oppheves på grunnlag av inngrep i retten til det eldre varemerket eller foretaksnavnet.
+
+Hvis et eldre varemerke eller foretaksnavn bare har vært i reell bruk for deler av varene eller tjenestene eller den virksomheten det er registrert for, anses det ved behandlingen av kravet som registrert bare for disse varene eller tjenestene eller denne delen av virksomheten.
+
+> Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 3-7
+
+Vedtak etter [§ 3-6](lov/1985-06-21-79/§3-6), herunder i sak om innsyn etter [§ 3-6](lov/1985-06-21-79/§3-6) åttende ledd, kan påklages til Klagenemnden for industrielle rettigheter (Klagenemnden) av den som vedtaket har gått imot. En klage må være innlevert skriftlig til Patentstyret innen to måneder etter den dagen da melding om avgjørelsen ble sendt vedkommende part. Klagen skal inneholdeklagerens navn og adresse,avgjørelsen som det klages over,hvilken endring som ønskes i avgjørelsen,hvilke grunner klager bygger på.
+
+Fastsatt klagegebyr skal betales, ellers opptas ikke klagen til behandling.
+
+Andre parter i saken skal snarest mulig gis melding om klagen med en rimelig frist for uttalelse.
+
+Er vilkårene for å behandle klagen oppfylt, kan Patentstyret oppheve eller endre avgjørelsen hvis det finner det klart at klagen er begrunnet. Blir det ikke truffet slik avgjørelse, skal sakens dokumenter sendes til Klagenemnden. Gir Patentstyret en uttalelse til Klagenemnden, skal en kopi sendes til partene.
+
+Hvis vilkårene for å behandle klagen ikke er oppfylt, skal klageren gis en rimelig frist for uttalelse og om mulig retting av manglene. Blir manglene ikke rettet innen utløpet av fristen, skal klagen avvises hvis ikke Klagenemnden finner at det bør gis en ny frist for retting.
+
+Tas klagen under behandling, skal Klagenemnden foreta de undersøkelser som klagen gir grunn til. Den kan ta hensyn til forhold som ikke er berørt i klagen.
+
+Bestemmelsene om innsyn i dokumentene i [§ 3-6](lov/1985-06-21-79/§3-6) åttende ledd gjelder tilsvarende for dokumentene i klagesaken.
+
+> Tilføyd ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), endret ved lover [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)), [21 juni 2019 nr. 49](lov/2019-06-21-49) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 798](forskrift/2019-06-21-798)).
+
+### § 3-8
+
+Er det reist søksmål etter [§ 5-1](lov/1985-06-21-79/§5-1), skal Patentstyret utsette behandlingen av en overprøvingssak inntil søksmålet er rettskraftig avgjort.
+
+Den som har fremmet krav om administrativ overprøving, kan ikke reise søksmål etter [§ 5-1](lov/1985-06-21-79/§5-1) mens saken pågår for Patentstyret.
+
+En avgjørelse fra Patentstyret om å avvise eller avslå et krav om administrativ overprøving, eller klage på et slikt vedtak, kan ikke bringes inn for domstolene.
+
+Et vedtak fra Patentstyret om å oppheve registreringen av et foretaksnavn på grunnlag av [§ 3-6](lov/1985-06-21-79/§3-6) kan bringes inn for domstolen av rettighetshaveren hvis klageretten etter [§ 3-7](lov/1985-06-21-79/§3-7) har blitt brukt, og Klagenemnden har avgjort klagen. Søksmål må være reist innen to måneder etter den dagen da meldingen om avgjørelsen ble sendt til rettighetshaveren. Det kan ikke gis oppfriskning mot oversittelse av søksmålsfristen, som skal nevnes i meldingen om vedtaket. Søksmål rettes mot staten ved Klagenemnden.
+
+> Tilføyd ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [22 juni 2012 nr. 58](lov/2012-06-22-58) (ikr. 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244)).
+
+## Kapittel 4. Overdragelse mv. av foretaksnavn og sekundære forretningskjennetegn
+
+> Overskriften endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)).
+
+### § 4-1
+
+Et foretaksnavn kan overdras sammen med den virksomhet som foretaket driver eller med den vesentligste del av denne.
+
+Ved overdragelse av virksomheten eller den vesentligste del av denne går retten til foretaksnavnet over til den nye eier hvis ikke annet er avtalt. Inneholder foretaksnavnet overdragerens navn, går likevel retten til foretaksnavnet over til den nye eier av virksomheten bare såfremt det er særskilt avtalt.
+
+> Endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 4-2
+
+Rett til foretaksnavn kan ikke være gjenstand for utlegg eller annen separat tvangsforfølgning.
+
+Ved konkurs går retten til foretaksnavnet over til konkursboet. Inneholder foretaksnavnet et personnavn, gjelder dette bare for den øvrige del av foretaksnavnet med mindre vedkommende person er død, eller foretaksnavnet er sterkt innarbeidet eller vedkommende ikke har rimelig grunn til å motsette seg at boet råder over hele foretaksnavnet. Foretaksnavn som ikke tilhører konkursboet kan likevel anvendes for den tid virksomheten fortsetter for boets regning.
+
+> Endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 4-3
+
+Rett til sekundært forretningskjennetegn kan overdras i eller uten forbindelse med den virksomheten som kjennetegnet er knyttet til.
+
+Bestemmelsene i [§ 4-1](lov/1985-06-21-79/§4-1) annet ledd og [§ 4-2](lov/1985-06-21-79/§4-2) første ledd gjelder tilsvarende for sekundære forretningskjennetegn. Ved konkurs går retten til sekundære forretningskjennetegn over til konkursboet. Inneholder kjennetegnet et personnavn, gjelder dette bare for den øvrige del av kjennetegnet, med mindre kjennetegnet er et registrert eller innarbeidet varemerke, eller vedkommende person er død eller ikke har rimelig grunn til å motsette seg at boet råder over hele kjennetegnet. Kjennetegn som etter dette ikke tilhører konkursboet kan likevel anvendes for den tid virksomheten fortsetter for boets regning.
+
+En innehaver av sekundært forretningskjennetegn kan gi en annen rett til å bruke kjennetegnet i næringsvirksomhet (lisens). Lisenshaveren kan ikke overdra sin rett videre, med mindre avtalen med innehaveren gir rett til dette.
+
+Innehaveren av et sekundært forretningskjennetegn kan påberope sin kjennetegnsrett overfor en lisenshaver som overtrer lisensavtalens bestemmelser om varigheten av lisensen, i hvilken utforming kjennetegnet kan brukes, hvilke former for virksomhet det kan brukes for, hvilket geografisk område det kan brukes i eller kvaliteten av de ytelser lisenshaveren tilbyr.
+
+Hvis et sekundært forretningskjennetegn er villedende, eller av innehaveren eller noen annen med innehaverens samtykke blir brukt på en måte som er egnet til å villede, kan retten ved dom forby bruk av kjennetegnet eller slike former for bruk som er villedende, og ellers gi de påbud som finnes nødvendig. Søksmål etter forrige punktum kan reises av enhver som har rettslig interesse i det.
+
+> Tilføyd ved lov [26 mars 2010 nr. 8](lov/2010-03-26-8) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936)).
+
+## Kapittel 5. Bruk av foretaksnavn i strid med loven. Søksmålskompetanse m.m.
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 5-1
+
+Dersom et foretaksnavn blir brukt eller registrert i Foretaksregisteret i strid med denne lov, kan enhver med rettslig interesse og også departementet, reise søksmål for å få navnet kjent ulovlig. Slikt søksmål kan også reises om navnebruken opprinnelig har vært lovlig, men senere er blitt villedende eller egnet til å vekke forargelse.
+
+Hvis kravet om å få navnet kjent ulovlig er begrunnet i et eldre registrert varemerke eller foretaksnavn, skal innehaveren av det eldre kjennetegnet, hvis innehaveren av foretaksnavnet krever det, godtgjøre at det eldre kjennetegnet i løpet av femårsperioden forut for datoen for søksmålet har vært i reell bruk for de varer eller tjenester eller den virksomhet det er registrert for, og som er påberopt som grunnlag for kravet om å få foretaksnavnet kjent ulovlig, eller at det foreligger rimelig grunn for manglende bruk. Dette gjelder bare hvis det da søksmål ble reist, var gått minst fem år fra endelig avgjørelse om registrering av det eldre varemerket eller foretaksnavnet ble truffet.
+
+Hvis det den dagen da registreringsmelding innkom for det yngre foretaksnavnet, var gått minst fem år fra endelig avgjørelse om registrering av det eldre varemerket eller foretaksnavnet, skal innehaveren av det eldre varemerket eller foretaksnavnet i tillegg godtgjøre at det ble gjort reell bruk av kjennetegnet i løpet av femårsperioden forut for den nevnte innkomstdagen, eller at det forelå rimelig grunn til manglende bruk.
+
+Hvis innehaveren av det eldre varemerket eller foretaksnavnet ikke kan godtgjøre at kjennetegnet har vært i bruk som nevnt i første og andre ledd, skal kravet om å få foretaksnavnet kjent ulovlig ikke tas til følge på grunnlag av inngrep i retten til det eldre varemerket eller foretaksnavnet.
+
+Hvis et eldre varemerke eller foretaksnavn bare har vært i reell bruk for deler av varene eller tjenestene eller virksomheten det er registrert for, anses det ved behandlingen av kravet som registrert bare for disse varene eller tjenestene eller denne delen av virksomheten.
+
+> Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+
+### § 5-2
+
+Retten kan i tilknytning til søksmål etter [§§ 5-1](lov/1985-06-21-79/§5-1), [6-2](lov/1985-06-21-79/§6-2) eller [6-3](lov/1985-06-21-79/§6-3), eller etter selvstendig søksmål, treffe slike forholdsregler at fortsatt bruk av foretaksnavnet i uforandret form hindres. Således kan det bestemmes at skilter, reklamemateriell o.l. skal endres, tilintetgjøres, eller etter påstand fra den krenkede, overleveres ham uten eller mot vederlag etter rettens skjønn.
+
+> Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+## Kapittel 6. Straff og erstatning m.m.
+
+> Overskriften endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)).
+
+### § 6-1
+
+Den som bruker foretaksnavn som er vernet etter [§§ 3-2](lov/1985-06-21-79/§3-2) og [3-3 i](lov/1985-06-21-79/§3-3) strid med annens rett, straffes med bøter eller fengsel inntil ett år.
+
+Dersom det foreligger særlig skjerpende omstendigheter, er straffen bøter eller fengsel inntil tre år. Ved vurderingen av om særlig skjerpende omstendigheter foreligger, skal det særlig legges vekt på den skade som er påført rettighetshaveren, herunder skade på rettighetshaverens kommersielle omdømme, den vinning som krenkeren har oppnådd og omfanget av krenkelsen for øvrig.
+
+Bestemmelsene om sanksjoner mot varemerkeinngrep i [varemerkeloven kapittel 8](lov/2010-03-26-8/kap8), bortsett fra [§ 61](lov/2010-03-26-8/§61), gjelder tilsvarende ved bruk av foretaksnavn som er vernet etter §§ 3-2 og 3-3 i strid med annens rett.
+
+For bruk av andre foretaksnavn enn dem som er vernet etter [§§ 3-2](lov/1985-06-21-79/§3-2) og [3-3 i](lov/1985-06-21-79/§3-3) strid med denne lov eller annens rett, gjelder [§§ 5-2](lov/1985-06-21-79/§5-2), [6-2](lov/1985-06-21-79/§6-2) og [6-3](lov/1985-06-21-79/§6-3).
+
+> Tilføyd ved lov [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+
+### § 6-2
+
+Den som bruker foretaksnavn i strid med denne lov straffes med bøter eller med fengsel inntil tre måneder, for så vidt ikke strengere straffebestemmelse kommer til anvendelse. Medvirkning straffes ikke.
+
+> Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), tidligere § 6-1, [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 6-3
+
+Den som forsettlig eller uaktsomt har brukt foretaksnavn i strid med annens rett, plikter å erstatte skaden. Erstatningen kan nedsettes eller falle helt bort når det bare er lite å legge skadegjøreren til last.
+
+Er bruken skjedd i god tro, kan retten i den utstrekning det finnes rimelig, pålegge brukeren å erstatte skaden, dog ikke ut over den vinning som må antas å være oppnådd.
+
+> Endret ved lover [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), tidligere § 6-2.
+
+## Kapittel 7. Forskjellige bestemmelser
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+### § 7-1
+
+Partsangivelse ved foretaksnavn i dokumenter skal skje ved at det fulle foretaksnavn skrives med tydelig leselige bokstaver, stemples e.l., og at den eller de signaturberettigede egenhendig skriver sitt navn.
+
+Trer en juridisk person i likvidasjon eller åpnes det gjeldsforhandling eller konkurs hos innehaveren av et foretaksnavn skal foretaksnavnet ved tegning av foretaksnavnet gis en tilføyelse som angir dette, jf. [foretaksregisterloven § 7-2](lov/2025-06-20-106/§7-2).1
+
+> Endret ved lover [27 nov 1992 nr. 118](lov/1992-11-27-118), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [19 juni 2015 nr. 77](lov/2015-06-19-77) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 675](forskrift/2015-06-19-675)), [20 juni 2025 nr. 106](lov/2025-06-20-106) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119)).
+
+## Kapittel VIII. Ikrafttredelses- og overgangsbestemmelser
+
+### § 8-1
+
+Loven tar til å gjelde fra den tid1 Kongen bestemmer.
+
+### § 8-2
+
+Med unntak av bestemmelsene i [§ 2-2](lov/1985-06-21-79/§2-2) gjelder loven for foretaksnavn tatt i bruk før lovens ikrafttredelse. [§§ 6-1](lov/1985-06-21-79/§6-1) og [6-2](lov/1985-06-21-79/§6-2) kommer bare til anvendelse på bruk av foretaksnavn etter lovens ikrafttredelse.
+
+> Endret ved lov [19 juni 2015 nr. 77](lov/2015-06-19-77) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 675](forskrift/2015-06-19-675)).
+
+## Kapittel IX. Endring av andre lover
+
+> Overskriften endret ved lov [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
+
+– – –

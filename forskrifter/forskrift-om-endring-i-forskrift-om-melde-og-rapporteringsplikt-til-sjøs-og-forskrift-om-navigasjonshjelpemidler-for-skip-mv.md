@@ -1,0 +1,51 @@
+---
+id: "sf-20251217-2671"
+slug: "forskrift-om-endring-i-forskrift-om-melde-og-rapporteringsplikt-til-sjøs-og-forskrift-om-navigasjonshjelpemidler-for-skip-mv"
+type: "forskrift"
+ref_id: "forskrift/2025-12-17-2671"
+title: "Forskrift om endring i forskrift om melde- og rapporteringsplikt til sjøs og forskrift om navigasjonshjelpemidler for skip mv."
+short_title: null
+language: "nb"
+ministry:
+  - "Klima- og miljødepartementet"
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "6f19c01a99ba8a0fd2f455e56422be6cad108c2c01ecd8d0cf3fbefa6238f5f3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om melde- og rapporteringsplikt til sjøs og forskrift om navigasjonshjelpemidler for skip mv.
+
+## I
+
+5. Ved tap av fraktcontainere skal rapporten utarbeides i samsvar med bestemmelsene om faremeldinger som fastsatt i regel V/31 og V/32 i [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1).
+
+## II
+
+1. ved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarsel
+
+1. om observasjon av flytende transportcontainere i sjøen
+
+1. ved tap av én eller flere transportcontainere. Dersom skipet forlates, eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
+
+(2) Varsler etter første ledd skal gis på engelsk eller i samsvar med den internasjonale signalhåndboken. Informasjonen i varselet skal være i samsvar med [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS)](traktat/1974-11-01-1) kapittel V regel 32, fastsatt ved resolusjon MSC.99(73), som endret ved resolusjon MSC.550 (108).
+
+Containerskip og bulkskip, som definert i SOLAS regel V/2.8 og regel V/2.9, med bruttotonnasje 3000 eller mer som er bygget 1. januar 2026 eller senere, skal være utstyrt med elektronisk inklinometer eller annet utstyr som gjør det mulig å bestemme, vise og registrere skipets rullebevegelse.
+
+1. ved vind med styrke 10 eller høyere på Beaufort-skalaen når det ikke er sendt ut kulingvarsel
+
+1. om observasjon av flytende transportcontainere i sjøen
+
+1. ved tap av én eller flere transportcontainere. Dersom skipet forlates, eller dersom en rapport fra skipet er ufullstendig eller ikke kan fremlegges, skal rederiet, så langt som mulig, påta seg de forpliktelsene som er pålagt skipsføreren etter denne regelen.
+
+2. Varsler etter nr. 1 skal gis på engelsk eller i samsvar med den internasjonale signalhåndboken. Informasjonen i varselet skal være i samsvar med [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS)](traktat/1974-11-01-1) kapittel V regel 32, fastsatt ved resolusjon MSC.99(73), som endret ved resolusjon MSC.550 (108).
+
+## III
+
+Forskriften trer i kraft 1. januar 2026.

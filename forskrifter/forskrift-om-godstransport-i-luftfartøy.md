@@ -1,0 +1,204 @@
+---
+id: "sf-20030111-0041"
+slug: "forskrift-om-godstransport-i-luftfartøy"
+type: "forskrift"
+ref_id: "forskrift/2003-01-11-41"
+title: "Forskrift om transport av gods i luftfartøy (BSL D 1-7)."
+short_title: "Forskrift om godstransport i luftfartøy"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2003-03-01"
+last_change_in_force: "2019-05-15"
+last_updated: null
+xml_hash: "e5c4feae5b10ddb39d48c43c59b150d2208a096b78e62850a5c6f561dc2cb77d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om transport av gods i luftfartøy (BSL D 1-7).
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med denne forskriften er å sikre at:gods i luftfartøy under transport er stuet og surret på en slik måte at det ikke ved forskyvning kan forårsake forandring av luftfartøyets tyngdepunkt eller skade ombordværende personer eller deler av luftfartøyet,transport av farlig gods med luftfartøy skjer under forsvarlige forhold slik at skade på liv, helse og materielle verdier unngås.
+
+### § 2. Virkeområde
+
+(1) Denne forskriften gjelder for luftfart med norsk luftfartøy. Forskriften gjelder likevel ikke luftfart som reguleres av forordning [(EU) nr. 965/2012](eu/32012r0965) som gjennomført ved [forskrift 7. august 2013 nr. 956](forskrift/2013-08-07-956) om luftfartsoperasjoner, forordning [(EU) 2018/395](eu/32018r0395) som gjennomført ved [forskrift 7. juni 2018 nr. 836](forskrift/2018-06-07-836) om luftfart med ballong, eller forordning [(EU) 2018/1976](eu/32018r1976) som gjennomført ved [forskrift 15. mai 2019 nr. 663](forskrift/2019-05-15-663) om luftfart med seilfly.
+
+(2) Forskriften gjelder også for bruk av utenlandskregistrerte luftfartøy, som opereres av en norsk operatør.
+
+(3) Forskriften får anvendelse utenfor norsk område når det er forenlig med fremmed rett som skal få anvendelse i henhold til overenskomst med fremmed stat eller for øvrig ut fra alminnelige rettsgrunnsetninger, jf. [luftfartsloven § 1-2](lov/1993-06-11-101/§1-2).
+
+> Endret ved [forskrifter 2 feb 2009 nr. 143](forskrift/2009-02-02-143), [28 okt 2014 nr. 1361](forskrift/2014-10-28-1361), [7 juni 2018 nr. 836](forskrift/2018-06-07-836), [15 mai 2019 nr. 663](forskrift/2019-05-15-663).
+
+### § 3. Definisjoner
+
+I denne forskrift menes med:
+
+Gjenstander, varer, artikler og stoffer (substanser) som kan medføre risiko for helse, sikkerhet eller eiendom under transport i et luftfartøy.
+
+Som farlig gods regnes likevel ikke:Stoffer, materialer og substanser som etter denne forskrifts [§ 8](forskrift/2003-01-11-41/§8) første ledd kan klassifiseres som farlig gods, men som er nødvendig for et luftfartøys operative eller tekniske drift.Artikler og varer som aerosoler, alkoholholdige drikkevarer, parfymer, eau-de-cologne, fyrstikker og sigarettennere som inneholder flytende gass, kan medbringes om bord i luftfartøyer for service eller salg på en flyging eller en serie av flyginger.Tørris som brukes til bevaring av mat og drikkevarer som skal serveres om bord.
+
+Gjenstander, varer, artikler og stoffer (substanser) som transporteres innvendig i et luftfartøy.
+
+Et bestemt land- eller sjøområde (med bygninger, installasjoner og utstyr) som er beregnet til helt eller delvis å bli brukt for luftfartøyers start, landing og annen manøvrering.
+
+Fly med høyeste tillatte startvekt som ikke overstiger 5.700 kg, og helikopter med høyeste tillatte startvekt som ikke overstiger 3.150 kg.
+
+En situasjon hvor alvorlig og/eller overhengende fare truer, og øyeblikkelig hjelp trenges.
+
+En person, organisasjon eller virksomhet som er engasjert i eller tilbyr engasjement i operasjon av luftfartøy.
+
+Akseptering, lasting, lossing eller frakt av gods med luftfartøy.
+
+Fly med høyeste tillatte startvekt som overstiger 5.700 kg. Helikopter med høyeste tillatte startvekt som overstiger 3.150 kg.
+
+## Kapittel II. Transport av gods
+
+### § 4. Transport av gods i lasterom
+
+(1) Ved stuing av gods i lasterom skal bestemmelsene om lasterommets maksimale vektkapasitet og tillatte flatebelastning overholdes. Ethvert lasterom skal ha et skilt med tekst som angir lastningsbegrensningene.
+
+(2) All utrustning som brukes til surring av gods i lasterom i tunge luftfartøy slik som beslag, kroker, tauverk, nett o.l. skal med hensyn til dimensjoner og styrke tåle de maksimale treghetskrefter som luftfartøyet er sertifisert for. Dersom ikke annet er angitt, gjelder følgende minimumskrav:Når lasterommet ligger slik at løst gods vil kunne skade besetningsmedlemmer eller passasjerer når luftfartøyet utsettes for akselerasjon eller retardasjon, skal utrustningen tåle:*Kraftretning**Bruddstyrke minst lik**Fly**Helikopter*Fremover9 ganger lastens vekt4 ganger lastens vektNedover4,5 ganger lastens vekt4 ganger lastens vektOppover2 ganger lastens vekt1,5 ganger lastens vektBakover og tverrskips4,5 ganger lastens vekt4 ganger lastens vektNår lasterommet ligger slik at risiko som nevnt i bokstav a ikke foreligger, skal utrustningen tåle:*Kraftretning**Bruddstyrke minst lik*Samtlige nevnt under bokstav a1,5 ganger lastens vekt
+
+(3) For andre luftfartøy enn tunge luftfartøy, skal utrustning som brukes til surring av gods i lasterom ha slik styrke at medført gods ikke utgjør en fare for besetningens og passasjerenes sikkerhet.
+
+(4) For tunge luftfartøy skal det foreligge en instruks for stuing, støtting og surring av gods i lasterom, som angir de typer separasjonsnett og festeanordninger som skal anvendes og deres bruksanvisning. Bruddstyrken for både faste og løse deler i festeutstyret skal fremgå av instruksen.
+
+(5) For lasterom som tilfredsstiller kravet i annet ledd, bokstav b, kan det fastsettes en kollivekt når det brukes separasjonsnett. Kompaktstuing eller surring er i så fall ikke nødvendig.
+
+(6) Operatør av luftfartøy utstyrt for transport av gods på paller, skal ha instrukser som spesielt dekker denne form for fraktflyging. Det skal legges særlig vekt på ansvaret for og kontroll med låsing av pallene.
+
+(7) Med transport av gods i lasterom, skal også forstås transport av bagasje i bagasjerom.
+
+### § 5. Transport av gods i passasjerkabin
+
+(1) Ved transport av passasjerer i luftfartøy kan gods transporteres i passasjerkabinen under forutsetning av at kabinen er godkjent for dette, samt at godset er stuet og surret som fastsatt i annet t.o.m. fjerde ledd nedenfor.
+
+(2) Gods skal være plassert foran eller ved siden av den passasjer som sitter lengst fremme. Gods pakket i spesielle lastebeholdere beregnet for fastspenning i passasjersete, kan plasseres bak passasjerene. I helikoptre og lette fly, kan gods plasseres ved siden av eller bak passasjerene såfremt dette ikke er forbudt i henhold til flygehåndboken.
+
+(3) Gods må ikke plasseres slik at det hindrer atkomst til eller blokkerer nødutganger, nødutstyr, forbindelsesganger i passasjerkabin eller cockpit. Gods må heller ikke skjule informasjonsskilt i passasjerkabin med mindre det brukes erstatningsskilt eller annen godkjent fremgangsmåte for informasjon. Hvis passasjerer ikke medføres, avgjør fartøysjefen i hvilken utstrekning nødutganger, nødutstyr, forbindelsesganger og skilter i passasjerkabin kan være blokkert eller skjult.
+
+(4) Ved lasting av gods i passasjerkabin må gjeldende største tillatte belastning på gulv, hattehylle e.l. ikke overskrides. Vekten av gods inkludert lastebeholder som plasseres i et passasjersete må ikke overstige 80 kg.
+
+(5) For all utrustning som brukes til surring av gods, gjelder de krav til bruddstyrke som er fastsatt i [§ 4](forskrift/2003-01-11-41/§4) annet ledd.
+
+(6) Gods som i seg selv eller ved sin plassering i luftfartøyet kan utgjøre en fare for de ombordværende, tillates ikke transportert i passasjerkabinen.
+
+(7) Gods skal være i beholder eller annen sikker pakning, eller være dekket med impregnert presenning som har minst samme motstandsevne mot brann som setetrekk og øvrig innredning i passasjerkabinen. Godset skal være emballert slik at det er luktfritt. Emballasje for flytende væsker skal være slik at lekkasje forhindres.
+
+(8) Instruks som bestemt i [§ 4](forskrift/2003-01-11-41/§4) tredje ledd, skal i tillempet form også foreligge for transport av gods i passasjerkabin.
+
+(9) Ved start og landing skal all håndbagasje, bortsett fra lettere effekter som kåper, frakker, damevesker, kamera være plassert:som angitt i første ledd,i bagasje- eller lasterom, ellerunder passasjerstolene.
+
+### § 6. Ballast
+
+(1) Ballast skal, når det ikke foreligger annen godkjent metode, bestå av sekker av egnet materiale fylt med singel, grov grus eller materiale av tilsvarende beskaffenhet som ikke skader sekken. Kornstørrelsen bør være 10-15 mm. Ved bruk av finkornet materiale, f.eks. sand, skal det brukes en tett tilsluttende innerpose av plast e.l.
+
+(2) Ballastsekken skal være tett lukket og merket med faktisk vekt. Sekker som skal plasseres i passasjerseter, skal være forsynt med stropper slik at fastspenningsbeltene kan tres gjennom disse og låses for å holde sekkene på plass.
+
+(3) Ved plassering av ballast i passasjerkabin gjelder [§ 5](forskrift/2003-01-11-41/§5) fjerde ledd tilsvarende.
+
+### § 7. Transport av gods av særskilt art
+
+(1) En operatør som utfører transport av gods av særskilt art, plikter å føre kontroll med at lasten til enhver tid behandles i samsvar med de gjeldende bestemmelser for slik transport.
+
+(2) Levende dyr skal transporteres i samsvar med bestemmelsene i IATA Live Animals Regulations (IATA LAR), Edition 29.
+
+(3) Skytevåpen eller andre våpen tillates ikke medført i passasjerkabinen. Det samme gjelder andre gjenstander eller stoffer som er særlig egnet som middel til å øve vold eller trusler eller påføre person eller fartøy skade. Herunder regnes også imitasjoner av våpen og annet som nevnt. Unntatt fra forbudet er våpen som medbringes av tjenestemenn i politiet eller forsvaret under utøvelse av spesielle vakt- og ledsageroppdrag. Fartøysjefen på lette luftfartøy kan gjøre unntak fra forbudet mot å medføre skytevåpen eller gjenstander. Tillatelse til å bære våpen må kunne forevises når slik kreves.
+
+(4) Våpen eller gjenstander som er nevnt i tredje ledd, skal klareres senest ved innsjekkingen. Hvis det ikke foretas regulær innsjekking ved en landingsplass, skal klarering ordnes med fartøysjefen før vedkommende person går inn på oppstillingsområdet eventuelt, hvis slikt ikke er opprettet, før ombordstigning.
+
+## Kapittel III. Transport av farlig gods
+
+### § 8. Fareklasser
+
+(1) Varer som regnes som farlig gods inndeles i følgende fareklasser:Klasse 1: EksplosiverKlasse 2: GasserKlasse 3: Brannfarlige væskerKlasse 4: Brannfarlige faste stoffer, selvantennelige stoffer, stoffer som utvikler farlige gasser i kontakt med vannKlasse 5: Oksyderende stoffer; organiske peroksyderKlasse 6: Giftige og smittefarlige stofferKlasse 7: Radioaktive materialerKlasse 8: Etsende stofferKlasse 9: Diverse farlig gods.
+
+(2) For farlig gods som det under enhver omstendighet er forbudt å transportere med luftfartøy, gjelder ICAOs Technical Instructions for the Safe Transport of Dangerous Goods by Air, Doc. 9284-AN/905, ICAO-TI, Part I Chapter 2. Engangs gasstennere og tennere som kan være utsatt for lekkasje under redusert trykk, er forbudt å transportere.
+
+### § 9. Hovedregel for transport av farlig gods
+
+(1) Farlig gods skal transporteres i samsvar med bestemmelsene i ICAOs Technical Instructions for the Safe Transport of Dangerous Goods by Air, Doc. 9284-AN/905, (heretter kalt ICAO-TI) med de supplementer, tillegg og endringer som til enhver tid er godkjent av Luftfartstilsynet.
+
+(2) Luftfartstilsynet kan i samråd med norsk tilsynsmyndighet på vedkommende fagområde i de enkelte tilfeller eller for nærmere angitte arter transporter, gjøre unntak fra de krav som er satt i første ledd. Dette kan i så fall gjøres på spesielle vilkår.
+
+### § 10. Krav til emballasje for farlig gods
+
+(1) Emballasje for farlig gods skal være produsert, merket og testet i henhold til FNs krav som angitt i ICAO-TI eller være godkjent av Luftfartstilsynet eller annen myndighetsgodkjent instans, før emballasjen tas i bruk.
+
+(2) Før emballasje tas i gjenbruk, skal brukeren forsikre seg om at emballasjen fortsatt oppfyller FNs spesifikasjonskrav når det gjelder tilstand og merking.
+
+### § 11. Krav til transportør av farlig gods
+
+(1) Operatør som transporterer farlig gods skal ha Luftfartstilsynets tillatelse til dette. Ved vurdering av om tillatelse skal gis, skal Luftfartstilsynet legge vekt på:kvaliteten på opplæringsprogrammet for personell som håndterer farlig gods, ogat etablerte rutiner og instrukser, herunder nødprosedyrer for behandling av farlig gods er dokumentert.
+
+(2) Tillatelse til å transportere farlig gods vil ikke bli gitt før aktuell opplæring av personellet med hensyn til håndtering av farlig gods er gjennomført, jf. [§ 15](forskrift/2003-01-11-41/§15).
+
+### § 12. Avsenderens plikter
+
+(1) Før innlevering av farlig gods for flytransport, skal avsender selv vurdere om det er forbudt å transportere godset med luftfartøy og sørge for at godset er korrekt klassifisert, emballert og merket.
+
+(2) Avsender skal undertegne en erklæring («Shippers Declaration» i ICAO-TI) som bekrefter at det farlige godset er fullstendig og presist beskrevet med korrekt teknisk betegnelse, og at det er klassifisert, pakket og merket for transport med luftfartøy.
+
+(3) Avsenders erklæring om farlig gods skal være på engelsk. En operatør kan til innenlands bruk utarbeide en avsendererklæring på norsk og søke Luftfartstilsynet om å få godkjent dokumentet til bruk innenlands.
+
+(4) Avsendere som regelmessig forestår avsendelse av farlig gods med flyfrakt skal ha slik opplæring som fremgår av [§ 15](forskrift/2003-01-11-41/§15). Dette gjelder selv om avsender benytter seg av speditør for innlevering av godset til operatøren.
+
+### § 13. Speditørens plikter
+
+(1) En speditør som på vegne av avsender innleverer farlig gods for lufttransport, skal selv vurdere om avsendererklæringen er korrekt utfylt og signert i samsvar med bestemmelsene i ICAO-TI. Han skal også se til at godset er merket og pakket i henhold til de samme bestemmelsene og ikke viser tegn til skade eller lekkasje.
+
+(2) En speditører som innleverer farlig gods for lufttransport, skal ha slik opplæring som fremgår av [§ 15](forskrift/2003-01-11-41/§15) eller tilsvarende utdanning gitt av egne tilsynsmyndigheter eller organisasjoner.
+
+### § 14. Operatørens plikter
+
+(1) En operatør som mottar farlig gods for transport har ansvar for:at sjekkliste for godkjennelse av farlig gods blir utfylt. Listen fylles ut av fraktfører eller operatør, og angir punktvis rekkefølgen for utførelse av kontrollfunksjoner ved akseptering av farlig gods for transport,at avsenderen har innlevert avsenders erklæring,å kontrollere at avsenders erklæring er utstedt i samsvar med bestemmelsene i ICAO-TI,at alt farlig gods er forsvarlig emballert og merket med korrekt fareseddel i henhold til bestemmelsene i ICAO-TI. En slik fareseddel settes på den ytre emballasje av godset, og angir hvilken klasse/sekundærklasse godset er klassifisert i,at godset før innlasting ikke viser tegn til skade eller lekkasje.
+
+(2) En operatør som aksepterer transport av farlig gods, skal påse at fartøysjefen før det enkelte oppdrag får skriftlig melding om transporten (Notification to the Captain). Meldingen skal minst inneholde:hva slags farlig gods som skal transporteres,mengden angitt i vekt, volum eller på annen måte,hvor i luftfartøyet godset er lastet.Meldingen til fartøysjefen (NOTOC) kan ikke være en kopi av transportbeviset, farlig gods deklareringsdokument, faktura e.l.
+
+(3) Ved passasjertransport plikter en operatør å informere passasjerene om hvilket gods som ikke er tillatt å medføre om bord på luftfartøyet, verken som håndbagasje eller reisegods. Som et minimum skal slik informasjon gis:sammen med billetten eller annet reisedokument,ved informative skilt lokalisert ved billettskranker, innsjekkingsskranker, luftfartøyets inn- og utgang og i ankomsthaller hvor bagasjen blir utlevert, ellerved skilt på de steder frakt innleveres og aksepteres for transport.
+
+(4) Operatøren skal laste farlig gods på den måte som fremgår av bestemmelsene i ICAO-TI, herunder sørge for at farlig gods av forskjellige klasser som innbyrdes kan reagere på hverandre holdes atskilt, og at farlig gods sikres for å hindre bevegelser som kan forårsake skader under flyging.
+
+(5) Ved en luftfartsulykke, alvorlig luftfartshendelse eller nødsituasjon med et luftfartøy med farlig gods om bord, skal operatøren snarest mulig informere nærmeste lufttrafikktjenesteenhet til stedet der ulykken inntraff om at luftfartøyet medførte farlig gods. Informasjonen må opplyse om det farlige godsets tekniske betegnelse, klassifisering, sekundær risiko som har krevd merking, forenlighetsgruppe klasse 1, mengde og plassering om bord i luftfartøyet.
+
+(6) Ved et uhell eller en ulykke i tilknytning til transport av farlig gods, skal operatør, fartøysjef, eier eller bruker av luftfartøyet underrette luftfartsmyndighetene i den stat hvor uhellet inntraff. Det skal også rapporteres om udeklarert og feildeklarert farlig gods som oppdages i lasten eller i passasjerenes bagasje. Underretningen skal skje i samsvar med statens krav. Luftfartstilsynet skal i tillegg informeres om enhver hendelse som inntreffer med farlig gods utenfor landets grenser.
+
+(7) Farlig gods som i forbindelse med akseptering eller lasting blir funnet skadet eller viser tegn til lekkasje, eller udeklarert ev. feildeklarert farlig gods som oppdages i lasten eller i passasjerenes bagasje, skal ikke aksepteres tatt med om bord og straks fjernes av personell utdannet til dette.
+
+(8) Operatøren skal:etablere instrukser og nødprosedyrer for personell som håndterer farlig gods. Det skal klart fremgå hvilke rutiner som skal følges dersom uhell eller ulykker med det farlige godset inntreffer på bakken eller i luften,ved vurdering av hvilke rutiner som skal følges, ta i betraktning om fartøyet som er involvert bare transporterer gods eller kombinert gods og passasjerer,forholde seg til bestemmelsene som fremgår av ICAO Doc. 9481-AN/928 Emergency Response Guidance for Aircraft Incidents Involving Dangerous Goods, når det gjelder nødprosedyrer ved uhell og ulykker i luften med farlig gods.
+
+### § 15. Opplæring og utdanning i håndtering av farlig gods
+
+(1) Opplæringsprogrammer vedrørende behandling, videreforsendelse og transport av farlig gods, herunder etterutdanningsprogrammer annet hvert år, skal være i overensstemmelse med ICAO-TI Part 6 eller IATAs Dangerous Goods Regulation seksjon 1.
+
+(2) Opplæringsprogrammene skal opprettes av eller på vegne av:regulære avsendere av farlig gods,speditører som ekspederer farlig gods,operatør,personer eller foretak på landingsplasser som på en operatørs vegne forestår mottak, lasting, lossing, oppbevaring eller annen form for håndtering av gods, herunder sikkerhetssjekk av passasjerers håndbagasje.
+
+(3) Regulære avsendere, speditører og andre foretak eller personer som mottar, aksepterer, behandler og videreformidler farlig gods med luftfartøy skal ha relevant utdannelse for dette. Utdannelsen skal være godkjent av den respektive tilsynsmyndighet.
+
+(4) En operatør er ansvarlig for at personell som håndterer farlig gods i forbindelse med akseptering, lasting, lossing og selve transporten i luften har gjennomgått opplæring i forhold til personellets kategori og ansvarsområde. Opplæringen skal omfatte nødprosedyrer i luften og på bakken.
+
+(5) Operatøren skal føre internt tilsyn med sitt personell som håndterer farlig gods i forbindelse med aksept, lasting, lossing og selve transporten i luften, og forsikre seg om at dette personellet til enhver tid oppfyller de opplæringsvilkår som går frem av ICAO-TI.
+
+(6) Operatørens opplæringsprogram og etterutdanningskurs skal fremgå av operatørens instruksverk og være godkjent av Luftfartstilsynet, som også vil føre tilsyn med virksomheten.
+
+(7) På forespørsel fra Luftfartstilsynet skal operatøren kunne fremvise:opplæringsprogrammet,program for etterutdanning,oversikt over personell som har fått opplæring i akseptering av farlig gods.
+
+## Kapittel IV. Avsluttende bestemmelser
+
+### § 16. Dispensasjon
+
+Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemmelsene i denne forskrift.
+
+### § 17. Ikrafttredelse
+
+(1) Forskriften trer i kraft 1. mars 2003.
+
+(2) Fra samme tidspunkt oppheves [forskrift av 15. mai 1979 nr. 23](forskrift/1979-05-15-23) om transport av gods i luftfartøy.

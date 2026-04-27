@@ -1,0 +1,36 @@
+---
+id: "sf-20120608-0499"
+slug: "forskrift-om-overgangsregler-til-endr-i-offanskl-m-m"
+type: "forskrift"
+ref_id: "forskrift/2012-06-08-499"
+title: "Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)"
+short_title: "Forskrift om overgangsregler til endr i offanskl. m.m."
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2012-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "3bbe7166d7fc42bf5bfd51b250f6b5e8e5e1ad2556c65c746805228564152eef"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)
+
+## I
+
+### § 1
+
+Endringer i [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser får anvendelse på anskaffelser der konkurransen kunngjøres etter lovens ikrafttredelse. For anskaffelser der konkurransen ikke kunngjøres får endringene anvendelse på anskaffelser der kontrakt inngås etter lovens ikrafttredelse.
+
+### § 2
+
+Endringer i [lov 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner får ikke anvendelse på avgjørelser truffet av folkevalgt organ eller den kommunale eller fylkeskommunale administrasjon som er brakt inn for lovlighetskontroll før lovens ikrafttredelse.
+
+## II
+
+Denne forskrift trer i kraft 1. juli 2012.

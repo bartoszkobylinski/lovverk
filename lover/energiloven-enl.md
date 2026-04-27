@@ -1,0 +1,876 @@
+---
+id: "nl-19900629-050"
+slug: "energiloven-enl"
+type: "lov"
+ref_id: "lov/1990-06-29-50"
+title: "Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)"
+short_title: "Energiloven – enl"
+language: "nb"
+ministry:
+  - "Energidepartementet"
+date_in_force: "1991-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2024-01-01"
+xml_hash: "7e4b3ecaddbac791c849c1a4b6b6b9634039033ac25c72ed8659c347142827e3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)
+
+## Kap. 1. Alminnelige bestemmelser
+
+### § 1-1. (Virkeområde)
+
+Denne lov kommer til anvendelse på produksjon, omforming, overføring, omsetning, fordeling og bruk av energi.
+
+Loven gjelder ikke på norsk sjøterritorium.
+
+Departementet kan i forskrift eller i det enkelte tilfelle begrense anvendelsen av enkelte bestemmelser i denne lov hva gjelder innretninger, formål eller virksomheter omfattet av havenergilova.
+
+Loven gjelder ikke erverv av eiendomsrett eller bruksrett til vannfall og regulering og utbygging av vassdrag.
+
+Departementet fastsetter hvor stor ytelse eller hvor mange abonnenter et fjernvarmeanlegg skal ha for at loven kommer til anvendelse. Anlegg som unntas fra loven kan pålegges å knytte seg til andre anlegg etter bestemmelsene i [§ 5-3](lov/1990-06-29-50/§5-3).
+
+Kongen kan bestemme at deler av loven skal gjøres gjeldende for Svalbard.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [4 juni 2010 nr. 21](lov/2010-06-04-21) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 760](forskrift/2010-06-04-760)), [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 1-2. (Formål)
+
+Loven skal sikre at produksjon, omforming, overføring, omsetning, fordeling og bruk av energi foregår på en samfunnsmessig rasjonell måte, herunder skal det tas hensyn til allmenne og private interesser som blir berørt.
+
+> Endret ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)).
+
+### § 1-3. (Definisjoner)
+
+Med elektrisk anlegg forstås i denne lov: Fellesbetegnelse på elektrisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, omforming, overføring og fordeling av elektrisk energi.
+
+Med fjernvarmeanlegg forstås i denne lov: Betegnelse på teknisk utrustning og tilhørende bygningstekniske konstruksjoner for produksjon, overføring og fordeling av varmtvann eller annen varmebærer til eksterne forbrukere.
+
+Med integrert foretak forstås i denne lov: Foretak eller en gruppe av foretak som driver overføring, omforming eller fordeling av elektrisk energi (nettvirksomhet) i tillegg til annen virksomhet. En gruppe av foretak omfattes dersom en fysisk eller juridisk person kan utøve direkte eller indirekte kontroll med foretak i gruppen.
+
+Med bygning forstås i denne lov: En konstruksjon med tak og vegger som er varig forbundet med grunnen, der det brukes energi for å påvirke inneklimaet. Som bygning regnes også del av slik konstruksjon som er utformet eller endret for separat bruk.
+
+Med energikartlegging forstås en systematisk kartlegging av energibruken i et foretak med sikte på å få oversikt over mulige energieffektiviseringstiltak. Kartleggingen omfatter bygninger, industriprosesser, transport og andre aktiviteter.
+
+Med kontroll i tredje ledd og [§§ 4-6](lov/1990-06-29-50/§4-6) og [4-7](lov/1990-06-29-50/§4-7) forstås i denne lov: Rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig:eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av demrettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.
+
+Med rettigheter forstås i denne lov: stemmerettigheter, rett til utnevnelse av personer i styre, ledende stilling eller med fullmakt til å representere virksomheten utad, samt beholdning av majoritetsandel.
+
+Med omfattende oppgradering menes en oppgradering hvor kostnadene er høyere enn 50 prosent av investeringskostnadene for et nytt sammenlignbart anlegg. Installasjon av utstyr til oppsamling av CO2 med sikte på å lagre det geologisk, anses ikke som oppgradering i denne sammenheng.
+
+> Endret ved [lover 30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 jan 2021 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)), [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 1-4. (Statens anlegg)
+
+Lovens bestemmelser i [§ 2-4 annet](lov/1990-06-29-50/§2-4/ledd/2) og [tredje ledd](lov/1990-06-29-50/§2-4/ledd/3) og [§§ 3-2](lov/1990-06-29-50/§3-2), [3-3](lov/1990-06-29-50/§3-3), [3-4](lov/1990-06-29-50/§3-4), [3-4 a](lov/1990-06-29-50/§3-4a), [3-6](lov/1990-06-29-50/§3-6) og [10-3](lov/1990-06-29-50/§10-3) gjelder ikke for statens anlegg.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 1-5. (Transmisjonsnett)
+
+Transmisjonsnettet omfatter anlegg for overføring av elektrisk energi på minst 200 kV, og anlegg på 132 kV som er av vesentlig betydning for driften av disse anleggene.
+
+Transmisjonsnettet omfatter også anlegg for omforming av elektrisk energi, når omformeranlegget er direkte tilknyttet anlegg for overføring som nevnt i første ledd og transformerer til spenning på minst 33 kV.
+
+Transmisjonsnettet omfatter ikke anlegg som nevnt i første og andre ledd som kun betjener en enkelt eller et fåtall brukere.
+
+Departementet kan i enkeltvedtak fastsette hvilke anlegg som skal inngå i transmisjonsnettet i henhold til denne bestemmelse. Anlegg som inngår i sentralnettet ved denne bestemmelsens ikrafttredelse, inngår i transmisjonsnettet med mindre departementet fatter annet vedtak.
+
+> Tilføyd ved [lov 27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 juli 2016 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)).
+
+## Kap. 2. Saksbehandling
+
+### § 2-1. (Melding med forslag til utredningsprogram)
+
+Dersom et tiltak omfattes av kravet til melding med forslag til utredningsprogram etter [plan- og bygningsloven kapittel 14](lov/2008-06-27-71/kap14), skal konsesjonsmyndigheten ha mottatt slik melding og fastsatt utredningsprogrammet før det kan søkes om konsesjon etter loven her.
+
+Konsesjonsmyndigheten kan ved enkeltvedtak avslutte behandlingen av en melding med forslag til utredningsprogram dersom det er klart at søknaden om konsesjon til tiltaket vil bli avslått fordiselskapet som har inngitt meldingen, er oppløst eller tatt under konkursbehandlingtiltaket helt eller delvis er planlagt plassert i et område omfattet av vernevedtak etter [naturmangfoldloven](lov/2009-06-19-100) eller Stortingets vedtak om vern av vassdrag, og tiltaket vil ha direkte innvirkning på verneverdienetiltaket helt eller delvis er planlagt plassert i et område hvor det er særlig fare for naturskadetiltaket vil medføre vesentlige ulemper for miljø eller annen arealbruk som klart overstiger nytten ved tiltaket.
+
+Hvis forslagsstilleren ikke har søkt om konsesjon innen to år etter at utredningsprogrammet er fastsatt, må tiltaket meldes på nytt før det kan søkes om konsesjon. Konsesjonsmyndigheten kan forlenge fristen etter søknad.
+
+> Tilføyd ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 2-2. (Søknad)
+
+Søknad etter denne lov sendes konsesjonsmyndigheten.
+
+For søknader som omfattes av plan- og [bygningsloven kapittel 14](lov/2008-06-27-71/kap14) skal konsekvensutredninger vedlegges søknaden.
+
+Søknaden skal gi de opplysninger som er nødvendig for å vurdere om tillatelse bør gis og hvilke vilkår som skal settes. Departementet kan fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for, herunder krav om gjennomføring av ekstern kvalitetssikring. Kreves gjennomføring av ekstern kvalitetssikring, skal departementet avgi en uttalelse om behov og konseptvalg før prosjektet kan meldes og omsøkes.
+
+Samtidig med søknad om kraftverksutbygging etter vassdragslovgivningen skal det som regel innsendes søknad om bygging av anlegg for produksjon, omforming og overføring av elektrisk energi.
+
+En søknad som tilfredsstiller gjeldende krav, skal tilgjengeliggjøres på konsesjonsmyndighetens nettsted, kunngjøres i en eller flere aviser alminnelig lest i distriktet og sendes på høring. Offentlige organer som berøres av tiltaket, og andre som tiltaket direkte gjelder, skal få søknaden tilsendt i forbindelse med høringen. Det skal fastsettes en frist for å avgi uttalelse til konsesjonsmyndigheten. Søkeren skal betale utgiftene ved kunngjøringen og høringen. Kunngjøring og høring kan unnlates når det er klart at søknaden vil bli avslått, eller det av andre grunner finnes unødvendig.
+
+Reglene om innsigelse i [plan- og bygningsloven §§ 5-4](lov/2008-06-27-71/§5-4) til [5-6](lov/2008-06-27-71/§5-6) gjelder så langt de passer ved behandling av søknader etter [§ 3-1](lov/1990-06-29-50/§3-1) og [§ 10-4 annet ledd](lov/1990-06-29-50/§10-4/ledd/2). De samme organene som har innsigelsesrett etter [plan- og bygningsloven](lov/2008-06-27-71), har også klagerett på konsesjonsvedtaket etter reglene i [forvaltningsloven kapittel VI](lov/1967-02-10/kapVI). Departementet kan gi forskrift om bruk av innsigelse i konsesjonssaker etter loven her.
+
+Behandlingen av en søknad etter denne loven kan utsettes i påvente av en energiutredning etter forskrift fastsatt i medhold av [§ 7-1](lov/1990-06-29-50/§7-1).
+
+[Behandlingen av en søknad etter denne lov kan utsettes i påvente av en energiplan etter [§ 7-1](lov/1990-06-29-50/§7-1).]1
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-2), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-1).
+
+### § 2-3. (Mangelfull melding eller søknad)
+
+Har en melding etter [§ 2-1](lov/1990-06-29-50/§2-1) eller søknad etter [§ 2-2](lov/1990-06-29-50/§2-2) feil eller mangler som kan rettes, skal konsesjonsmyndigheten sette en frist for retting og gi nødvendig veiledning med opplysninger om følgene av at retting ikke foretas innen fristen.
+
+En melding eller søknad som etter rettefristens utløp fremdeles inneholder feil eller mangler, skal avvises. Det samme gjelder dersom meldingen eller søknaden inneholder feil eller mangler som ikke kan rettes.
+
+Konsesjonsmyndigheten kan gi oppfriskning for oversittelse av rettefristen.
+
+> Tilføyd ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 2-4. (Vedtak)
+
+Kongen kan gi forskrift om at nærmere bestemte vedtak etter [§ 3-1](lov/1990-06-29-50/§3-1) skal fattes av Kongen i statsråd. Konsesjon etter denne lov kan ikke erstattes av rettslig bindende planer etter [plan- og bygningsloven](lov/2008-06-27-71). Konsesjon til vindkraftanlegg på land etter [§ 3-1](lov/1990-06-29-50/§3-1) kan ikke gis før tiltaket er planavklart etter [plan- og bygningsloven](lov/2008-06-27-71).
+
+Konsesjon etter kap. 3, 4 og 5 gis for et begrenset tidsrom på inntil 50 år regnet fra da konsesjonen ble gitt.
+
+Konsesjon gis til bestemt person, selskap, lag, kommune eller fylkeskommune.
+
+Konsesjonsmyndigheten kan pålegge den som gis konsesjon etter [§ 3-1](lov/1990-06-29-50/§3-1), å betale utgiftene ved kunngjøringen av konsesjonsvedtaket.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-3), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [16 juni 2023 nr. 73](lov/2023-06-16-73) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 896](forskrift/2023-06-16-896)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-2).
+
+### § 2-5. (Reguleringsmyndighet og klagenemnd)
+
+Departementet utpeker en reguleringsmyndighet og klagenemnd etter denne loven og gir forskrift om organisering, oppgaver og myndighet.
+
+Reguleringsmyndigheten og klagenemnda er uavhengige og kan ikke instrueres om utøvelsen av tillagt myndighet. Enkeltvedtak fattet av reguleringsmyndigheten kan bare påklages til klagenemnda.
+
+Reguleringsmyndigheten og klagenemnda kan ikke instrueres i disponeringen av tildelte budsjettmidler.
+
+Reguleringsmyndigheten skal samarbeide med andre lands reguleringsmyndigheter og internasjonale institusjoner i samsvar med Norges EØS-rettslige forpliktelser.
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), endret ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-3).
+
+## Kap. 3. Elektriske anlegg
+
+### § 3-1. (Konsesjon på anlegg)
+
+Anlegg for produksjon, omforming, overføring og fordeling av elektrisk energi, kan ikke bygges, eies eller drives uten konsesjon. Det samme gjelder ombygging eller utvidelse av bestående anlegg, jf. [§ 10-4 annet ledd](lov/1990-06-29-50/§10-4/ledd/2).
+
+Departementet fastsetter ved forskrift hvor høy spenning eller hvilken installert effekt et elektrisk anlegg skal ha for at første ledd får anvendelse. Departementet kan ved forskrift fastsette unntak fra konsesjonsplikt eller nærmere angitte begrensninger for konsesjonsfrie anlegg.
+
+For konsesjonspliktige anlegg for overføring eller omforming av elektrisk energi med tilhørende elektrisk utrustning og bygningstekniske konstruksjoner etter første ledd, gjelder plan- og [bygningsloven § 1-3](lov/2008-06-27-71/§1-3) andre ledd.
+
+Departementet kan bestemme at ethvert kraftanlegg med endelig konsesjon etter denne lov, og som ikke er unntatt fra plan- og bygningsloven etter tredje ledd, uten videre skal ha virkning som statlig arealplan etter plan- og [bygningsloven § 6-4](lov/2008-06-27-71/§6-4).
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 3-1 a. (Detaljplan)
+
+Konsesjonsmyndigheten kan bestemme at konsesjonæren skal utarbeide en detaljplan for bygging og drift av anlegg med konsesjon etter [§ 3-1](lov/1990-06-29-50/§3-1). Detaljplanen skal vise og redegjøre for den endelige utbyggingsløsningen, alle planlagte arealinngrep, hvordan miljø og landskap skal ivaretas i anleggs- og driftsfasen, og ellers utfylle konsesjonen så langt det er nødvendig. Dersom utbyggingsløsningen beskrevet i detaljplanen kan gi endrede virkninger for miljø- og samfunnsinteresser sammenlignet med den utbyggingsløsningen som lå til grunn for konsesjonen, skal detaljplanen ha nødvendige utredninger og beskrivelser av de endrede virkningene. Anleggsarbeidet kan ikke starte før detaljplanen er godkjent av konsesjonsmyndigheten.
+
+Det kan fastsettes vilkår i konsesjonen om utarbeiding av, innholdet i og frist for innsending av detaljplanen. Konsesjonsmyndigheten kan forlenge fristen etter søknad fra konsesjonær.
+
+[§ 2-2 femte ledd](lov/1990-06-29-50/§2-2/ledd/5) og [sjette ledd annet punktum](lov/1990-06-29-50/§2-2/ledd/6/setning/2) gjelder tilsvarende for behandlingen av detaljplaner etter paragrafen her.
+
+> Tilføyd ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 3-1 b. (Frister for bygging og idriftsettelse)
+
+En konsesjon etter [§ 3-1](lov/1990-06-29-50/§3-1) bortfaller hvis arbeidet ikke er satt i gang innen fem år fra da konsesjonen ble gitt. Anlegget skal settes i drift innen fem år fra tidspunktet da arbeidet ble satt i gang.
+
+Fristenes lengde kan fravikes i konsesjonen. Fristene kan etter søknad forlenges av konsesjonsmyndigheten med inntil to år av gangen. Beslutning om fristutsettelse treffes ved enkeltvedtak.
+
+I fristene etter første og annet ledd medregnes ikke den tid som på grunn av ekstraordinære forhold (force majeure) har vært umulig å utnytte.
+
+> Tilføyd ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 3-2. (Områdekonsesjon)
+
+Innen et område kan konsesjon gis for bygging, eierskap og drift av anlegg for fordeling av elektrisk energi mellom spenningsnivåer som fastsettes av departementet.
+
+Konsesjoner etter første ledd omfatter også nødvendige nettanlegg som etableres for å oppfylle plikten etter [§ 3-4 a annet ledd](lov/1990-06-29-50/§3-4a/ledd/2).
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 3-3. (Områdekonsesjonærens leveringsplikt)
+
+Den som gis områdekonsesjon etter [§ 3-2](lov/1990-06-29-50/§3-2), skal levere elektrisk energi til alle kunder innenfor det geografiske området konsesjonen gjelder for. Områdekonsesjonæren har plikt til å tilknytte nye anlegg for uttak av elektrisk energi og om nødvendig investere i nettanlegg innenfor det geografiske området konsesjonen gjelder for. Den samme plikten gjelder ved forbruksøkninger som medfører behov for investeringer i nett. Plikten til å foreta nødvendige investeringer i nettanlegg etter annet og tredje punktum gjelder også anleggskonsesjonærer der tilknytningen utløser et investeringsbehov.
+
+Reguleringsmyndigheten kan dispensere fra leverings-, tilknytnings- eller investeringsplikten etter første ledd når særlige grunner tilsier det.
+
+Departementet kan gi forskrift om leveringsplikten, blant annet om priser, konsesjonærenes og sluttbrukernes vilkår, gjennomføring, organisering og informasjon.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for leveringsplikt, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 3-4. (Anleggskonsesjonærens plikt til å tilknytte uttakskunder)
+
+Den som gis anleggskonsesjon etter [§ 3-1](lov/1990-06-29-50/§3-1) for nettanlegg, har plikt til å tilknytte nye anlegg for uttak av elektrisk energi og om nødvendig investere i nettanlegg. Den samme plikten gjelder ved forbruksøkninger som medfører behov for investeringer i nett. Plikten til å foreta nødvendige investeringer i nettanlegg etter denne bestemmelsen gjelder alle konsesjonærer der tilknytningen utløser et investeringsbehov.
+
+Departementet kan i ekstraordinære tilfeller gi dispensasjon fra tilknytnings- og investeringsplikten for uttakskunder.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for tilknytning av anlegg, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 3-4 a. (Plikt til å tilknytte anlegg for produksjon av elektrisk energi)
+
+Alle som har konsesjon for nettanlegg etter dette kapittelet, har plikt til å tilknytte nye anlegg for produksjon av elektrisk energi og om nødvendig investere i nettanlegg. Den samme plikten gjelder ved produksjonsøkninger som medfører behov for investeringer i nett. Plikten til å foreta nødvendige investeringer i nettanlegg etter denne bestemmelsen gjelder alle konsesjonærer der tilknytningen utløser et investeringsbehov.
+
+Områdekonsesjonæren skal på forespørsel bygge nødvendige nettanlegg helt frem til et anlegg for produksjon av elektrisk energi som tilknyttes nett med spenning opp til og med 22 kV innenfor det geografiske området konsesjonen gjelder for.
+
+Departementet kan gi dispensasjon fra tilknytnings- og investeringsplikten for produksjon dersom tiltaket ikke er samfunnsmessig rasjonelt.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for tilknytning av anlegg, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+
+> Tilføyd ved [lov 19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), endret ved [lover 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345), tidligere § 3-4), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 3-5. (Vilkår)
+
+For konsesjoner etter [§§ 3-1](lov/1990-06-29-50/§3-1) og [3-2](lov/1990-06-29-50/§3-2) kan departementet gi nærmere forskrifter og fastsette vilkår:av hensyn til etterspørsel av elektrisk energi og til en rasjonell energiforsyning.om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av det elektriske anlegget.om utnyttelse av det enkelte kraftverk.for å unngå skader på natur og kulturverdier.om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
+
+Departementet kan i forbindelse med den enkelte konsesjon fastsette ytterligere vilkår dersom det finnes påkrevet av allmenne eller private interesser.
+
+> Endret ved [lover 11 mai 2001 nr. 20](lov/2001-05-11-20) (ikr. 1 jan 2002 iflg. [res. 11 mai 2001 nr. 482](forskrift/2001-05-11-482)), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671), tidligere § 3-4).
+
+### § 3-6. (Ekspropriasjon av elektriske anlegg)
+
+Departementet kan treffe vedtak om ekspropriasjon av anlegg for omforming, overføring og fordeling av elektrisk energi.
+
+Ekspropriasjon kan først skje ved utløpet av perioden konsesjon er gitt for, og må foretas til fordel for annet energiverk eller staten.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671), tidligere § 3-5).
+
+### § 3-7. (Koordinerende operatør av distribusjonssystem)
+
+Departementet kan gi forskrifter om utpeking av konsesjonær etter [§§ 3-1](lov/1990-06-29-50/§3-1) og [3-2](lov/1990-06-29-50/§3-2) som koordinerende operatør av distribusjonssystem. Departementet kan gi forskrifter om operatørens oppgaver og myndighet overfor aktører som helt eller delvis eier eller er tilknyttet nett.
+
+> Tilføyd ved [lov 27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 juli 2016 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)).
+
+## Kap. 4. Omsetning av elektrisk energi
+
+### § 4-1. (Omsetningskonsesjon)
+
+Uten konsesjon fra reguleringsmyndigheten, kan ingen andre enn staten stå for omsetning av elektrisk energi. Reguleringsmyndigheten avgjør i tvilstilfelle om konsesjonsplikt foreligger.
+
+For konsesjoner etter første ledd kan reguleringsmyndigheten fastsette vilkår om:den interne organisering og regnskapsførsel hos konsesjonæren.markedsadgang for alle som etterspør nettjenester ved å tilby ikke-diskriminerende og objektive punkttariffer og vilkår.nøytral opptreden av netteier.fastsettelse og beregning av tariffer og inntekter ved salg av nettjenester.informasjon til kunder tilknyttet konsesjonærens nett.annen virksomhet i forbindelse med utbygging og utnyttelse av felles infrastruktur.samordning av nett og nettjenester.tilslutning til klageorgan godkjent etter [godkjenningsloven](lov/2016-06-17-29). Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.oppbevaring av relevante opplysninger fra transaksjoner vedrørende leveranse av elektrisk energi som inngås med engroskunder og systemansvarlig. Et slikt vilkår kan også stilles overfor selskaper som tidligere er gitt konsesjon.
+
+Reguleringsmyndigheten kan fastsette ytterligere vilkår dersom det finnes påkrevet av hensyn til allmenne interesser.
+
+Reguleringsmyndigheten kan i særlige tilfeller dispensere fra vilkår som nevnt i annet og tredje ledd.
+
+Departementet kan gi forskrift om innholdet i vilkår som nevnt i annet ledd.
+
+Departementet kan gi forskrift om endring etter klage og omgjøringsadgang som avviker fra bestemmelsene i [forvaltningsloven §§ 34](lov/1967-02-10/§34) og [35](lov/1967-02-10/§35) ved feil i datagrunnlaget for enkeltvedtak om fastsettelse av nettselskapenes inntektsrammer.
+
+> Endret ved lover [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 46](lov/2006-06-30-46) (ikr. 1 jan 2007 iflg. [res. 30 juni 2006 nr. 873](forskrift/2006-06-30-873)), [27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 juli 2016 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2068](forskrift/2018-12-20-2068)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285)), [12 mars 2021 nr. 11](lov/2021-03-12-11).
+
+### § 4-2. (Utenlandsforbindelser)
+
+For å eie eller drive utenlandsforbindelser som er omfattet av [§ 3-1](lov/1990-06-29-50/§3-1), kreves særskilt konsesjon fra departementet. Konsesjon kan bare gis til den systemansvarlige etter [§ 6-1](lov/1990-06-29-50/§6-1) eller til foretak hvor denne har bestemmende innflytelse. Ved vurderingen av om konsesjon bør gis, skal det legges vekt på prosjektets samfunnsøkonomiske lønnsomhet, forholdet til eventuelle konkurrerende prosjekter og transparente og ikke-diskriminerende hensyn for øvrig.
+
+Departementet kan i konsesjonen fastsette vilkår for handel som innebærer bruk av utenlandsforbindelsen. I konsesjonen kan det for øvrig settes andre vilkår som er påkrevet av allmenne hensyn. Krav som følger av EØS-avtalens regler om grensekryssende krafthandel,1 må være oppfylt.
+
+Konsesjon etter første ledd kan likevel gis til andre når forbindelsen er tilknyttet anlegg for produksjon eller forbruk av elektrisk energi til havs og krysser avgrensningslinjen mellom Norges kontinentalsokkel og en annen stats sokkel. Det samme gjelder for mindre utenlandsforbindelser under transmisjonsnettsnivå i grenseområder. For disse kan det gjøres en forenklet vurdering av om konsesjon bør gis, og vilkår i konsesjonen kan tilpasses disponeringen av forbindelsen i det aktuelle området.
+
+Når det er gitt konsesjon etter første ledd, skal reguleringsmyndigheten, innenfor rammene av konsesjonsvilkårene, ved enkeltvedtakfastsette eller godkjenne vilkår for tilgang til forbindelsen, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [2 des 2016 nr. 87](lov/2016-12-02-87) (ikr. 1 jan 2017 iflg. [res. 2 des 2016 nr. 1420](forskrift/2016-12-02-1420)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [11 juni 2021 nr. 86](lov/2021-06-11-86) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1889](forskrift/2021-06-11-1889), se endringsloven for overgangsregel til første ledd annet punktum).
+
+### § 4-3. (Måling, avregning og fakturering)
+
+Departementet gir forskrift om måling, avregning og fakturering.
+
+Myndighet etter regelverket som nevnt i første ledd til å koordinere måling og avregning av kraftomsetning, tillegges den som utpekes av reguleringsmyndigheten, under nærmere fastsatte vilkår. Den avregningsansvarlige skal sørge for at all innmating og alt uttak av elektrisk energi blir korrekt avregnet slik at det oppnås økonomisk balanse i kraftmarkedet.
+
+Enhver som helt eller delvis eier eller driver nett, produksjon eller organisert markedsplass, samt omsettere og sluttbrukere plikter å rette seg etter den avregningsansvarliges instrukser under avregningskoordineringen, samt følge de bestemmelser om måling, avregning og fakturering som er fastsatt i eller i medhold av denne lov. Avgjørelser som fattes av den avregningsansvarlige under utøvelsen av avregningsansvaret er unntatt forvaltningsloven kap. IV-VI og VIII.
+
+Den avregningsansvarlige som nevnt i annet ledd plikter å utstede opprinnelsesgarantier for produsert elektrisk energi etter anmodning fra berettigede produsenter. Departementet gir forskrifter om utforming og gjennomføring av ordningen, herunder om berettiget produksjon, utstedelse, innhold i og innløsing av opprinnelsesgarantier, gebyr for utstedelse, rapportering og kontroll mv.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår om utøvelsen av avregningsansvaret, ellerfastsette eller godkjenne metoder for å fastsette vilkår som nevnt i bokstav a.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)), [22 mars 2024 nr. 12](lov/2024-03-22-12) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 501](forskrift/2024-03-22-501)).
+
+### § 4-4. (Omlegging av energibruk og energiproduksjon)
+
+Departementet kan bestemme at omsetningskonsesjonær som tarifferer nettjenester skal legge et påslag i tariffen for uttak av elektrisk energi til sluttforbruk i nettet, som skal betales som bidrag til et energifond.
+
+Fondets midler skal anvendes til tiltak rettet mot omlegging av energibruk og energiproduksjon i samsvar med vedtekter som fastsettes av departementet.
+
+Skyldig bidrag er tvangsgrunnlag for utlegg. Betales bidraget ikke til forfallstid, svares rente som fastsatt i medhold av [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m.
+
+Departementet gir forskrifter om utforming og gjennomføring av ordningen, herunder om størrelse på påslaget, grunnlag, beregning av bidraget, innbetalinger til fondet, rente, oppkreving og kontroll m.m.
+
+[Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kapittel IV](lov/1967-02-10/kapiv), V og VI gjelder ikke når forvalteren av Energifondet treffer enkeltvedtak på vegne av staten om tildeling av midler fra Energifondet.
+
+> Tilføyd ved [lov 11 mai 2001 nr. 20](lov/2001-05-11-20) (ikr. 1 jan 2002 iflg. [res. 11 mai 2001 nr. 482](forskrift/2001-05-11-482)), endret ved [lov 24 jan 2003 nr. 7](lov/2003-01-24-7) (ikr. 1 feb 2003 iflg. [res. 24 jan 2003 nr. 50](forskrift/2003-01-24-50)).
+
+### § 4-5. (Organiserte markedsplasser)
+
+Uten konsesjon fra reguleringsmyndigheten kan ingen andre enn staten forestå organisering eller drift av markedsplass for omsetning av elektrisk energi. Reguleringsmyndigheten avgjør i tvilstilfelle om konsesjonsplikt foreligger.
+
+I konsesjonen kan det settes vilkår dersom det finnes påkrevet av allmenne hensyn. Departementet kan gi forskrift om aktørenes informasjonsplikt og om vilkårene reguleringsmyndigheten kan sette i konsesjonen.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første ledd, ellerfastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)).
+
+### § 4-5 a. (Organiserte markedsplasser underlagt EØS-regelverk)
+
+Den som skal opptre i Norge som operatør med ansvar for organisering eller drift av markedsplasser for omsetning av elektrisk energi etter regelverk som er harmonisert gjennom [EØS-avtalen](lov/1992-11-27-109/eøsl), skal søke reguleringsmyndigheten om vedtak om utpeking.
+
+Operatører som er utpekt i en annen EØS-stat, og som ønsker å utvide virksomheten til budområder innenfor kraftmarkedet i Norge, skal gi melding til reguleringsmyndigheten senest to måneder før virksomhetens oppstart.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår for handel på markedsplasser som nevnt i første og annet ledd, ellerfastsette eller godkjenne metoder for å fastsette vilkår for handel på markedsplasser som nevnt i bokstav a.
+
+Reguleringsmyndigheten kan ved enkeltvedtak fastsette ytterligere vilkår overfor operatører nevnt i første og annet ledd for å legge til rette for effektiv konkurranse, ivareta hensynet til systemsikkerhet og fremme et effektivt kraftmarked.
+
+Departementet kan gi forskrift om aktørenes informasjonsplikt, kriterier for utpeking av operatører etter første ledd og vilkårene som kan fastsettes etter fjerde ledd.
+
+> Tilføyd ved lov [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)).
+
+### § 4-6. (Krav om selskapsmessig skille)
+
+I et integrert foretak skal nettvirksomhet være organisert som en egen selvstendig juridisk enhet, adskilt fra annen virksomhet. Nettforetak skal ikke ha direkte eller indirekte kontroll over foretak som driver annen virksomhet. Foretak som driver produksjon eller omsetning av elektrisk energi eller konsesjonspliktig fjernvarmevirksomhet, skal ikke ha direkte eller indirekte kontroll over nettforetak.
+
+Første ledd er ikke til hinder for samarbeid om felles driftssentral mellom nettforetak og foretak som driver produksjon av elektrisk energi eller fjernvarmevirksomhet, så lenge nettforetaket har styring og ansvar for driftssentralens nettfunksjoner. Departementet kan gi forskrift om nettforetaks adgang til å selge eller leie ut egen kapasitet, herunder driftskontrollfunksjoner, overskuddskapasitet og i beredskapssituasjoner.
+
+Departementet kan gi dispensasjon fra hele eller deler av kravet om selskapsmessig skille.
+
+Departementet kan gi nærmere forskrifter om selskapsmessig skille og fastsette vilkår i konsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1) om forhold som nevnt i denne bestemmelsen.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742). Vertikalt integrerte virksomheter som omfattes av § 4-6 første ledd, plikter innen 1 juli 2007 å være organisert i samsvar med kravene i [§§ 4-6](lov/1990-06-29-50/§4-6) og [4-7](lov/1990-06-29-50/§4-7)), endret ved [lover 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 jan 2021 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)).
+
+### § 4-7. (Krav om funksjonelt skille)
+
+Personer i ledelsen i nettforetak kan ikke delta i ledelsen i foretak som driver annen virksomhet innenfor det integrerte foretaket.
+
+Morselskap eller kontrollerende eier i det integrerte foretaket skal ikke gi instrukser til nettforetak om den daglige driften eller om avgjørelser vedrørende utbygging eller oppgradering av nettet. Dette er ikke til hinder for overordnet styring med nettforetakets økonomiske rammer.
+
+Kravene i første og annet ledd gjelder ikke for nettforetak med færre enn 100 000 nettkunder.
+
+Departementet kan gi dispensasjon fra hele eller deler av kravet til funksjonelt skille.
+
+Departementet kan gi forskrift om funksjonelt skille.
+
+> Tilføyd ved [lov 30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), endret ved lover [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 jan 2021 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)), [12 mars 2021 nr. 11](lov/2021-03-12-11), [16 juni 2023 nr. 71](lov/2023-06-16-71) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 897](forskrift/2023-06-16-897)).
+
+### § 4-8. (Krav om eiermessig skille i transmisjonsnett)
+
+Den som driver eller har direkte eller indirekte kontroll over virksomhet som driver med produksjon eller omsetning av elektrisk energi, kan ikke eie anlegg i transmisjonsnettet eller ha direkte eller indirekte kontroll over eller rettigheter i en virksomhet som eier slike anlegg, eller som har systemansvar. Den som eier anlegg i transmisjonsnettet, eller har direkte eller indirekte kontroll over en virksomhet som eier slike anlegg eller som har systemansvar, kan ikke direkte eller indirekte ha kontroll over eller rettigheter i en virksomhet som driver med produksjon eller omsetning av elektrisk energi.
+
+Den som har kontroll over eller rettigheter i en virksomhet som driver med produksjon eller omsetning av elektrisk energi kan ikke utnevnepersoner til styret i en virksomhet som eier anlegg i transmisjonsnettet, eller som har systemansvarpersoner til en ledende stilling i en virksomhet som nevnt i bokstav apersoner som utad kan representere en virksomhet som nevnt i bokstav a.
+
+Personer som nevnt i bokstavene a til c kan ikke ha en tilsvarende posisjon i en virksomhet som driver produksjon eller omsetning av elektrisk energi.
+
+Anlegg i transmisjonsnettet skal overdras til den systemansvarlige virksomheten.
+
+Departementet kan fatte enkeltvedtak eller gi forskrift om nærmere krav til eiermessig skille. Dette kan omfatte frister for gjennomføring av kravene i denne paragrafen.
+
+Departementet kan gi forskrift som gjør unntak fra kravene i denne paragrafen.
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 21 juni 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 4-9. (Ekspropriasjon av anlegg i transmisjonsnett)
+
+Departementet kan etter søknad fatte vedtak om samtykke til ekspropriasjon av anlegg i transmisjonsnett til fordel for den systemansvarlige virksomheten. Departementet kan gi samtykke til at ekspropriasjonen settes i verk før det foreligger rettskraftig skjønn, jf. [oreigningslova § 25](lov/1959-10-23-3/§25).
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 21 juni 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 4-10. (Sertifisering som operatør av transmisjonssystem (TSO))
+
+Eier av anlegg i et transmisjonsnett skal søke reguleringsmyndigheten om sertifisering som operatør av transmisjonssystem. Reguleringsmyndigheten skal kontrollere at kravene etter [§ 4-8](lov/1990-06-29-50/§4-8) er oppfylt.
+
+Eier av anlegg i et transmisjonsnett skal melde til reguleringsmyndigheten om enhver planlagt transaksjon som nødvendiggjør vurdering av kravene som følger av [§ 4-8](lov/1990-06-29-50/§4-8) eller forskrift gitt i medhold av [§ 4-8](lov/1990-06-29-50/§4-8).
+
+Reguleringsmyndigheten skal igangsette prosedyre for sertifisering ved mottatt melding, på eget initiativ eller ved begrunnet forespørsel fra EFTAs overvåkingsorgan. En avgjørelse skal fattes innen fire måneder etter at prosedyren ble igangsatt. Dersom det ikke foreligger en avgjørelse innen fire måneder, skal vedtak om sertifisering anses gitt.
+
+Reguleringsmyndigheten skal uten ugrunnet opphold underrette EFTAs overvåkingsorgan om vedtak om sertifisering eller stilltiende godkjennelse etter tredje ledd tredje punktum, og på forespørsel oversende relevant informasjon knyttet til sertifiseringen.
+
+Departementet kan gi forskrift om sertifisering, blant annet om utenlandsforbindelser og sertifisering for foretak som er hjemmehørende i stater utenfor EØS.
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 21 juni 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 4-11. (Reguleringsmyndighetens forskrifter)
+
+Departementet kan gi forskrift om at reguleringsmyndigheten kan gi forskrift om metoder for beregning av nettselskapenes tillatte og faktiske inntekter og håndtering av avvik mellom disse, samt nøytral opptreden av netteier.
+
+Vilkår som settes i konsesjoner, skal være i samsvar med fastsatt forskrift.
+
+> Tilføyd ved [lov 25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 21 juni 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+## Kapittel 4 A. Omsetning av elektrisk energi fra kraftleverandør til forbrukere
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+### § 4 A-1. Virkeområde og definisjoner
+
+Bestemmelsene i dette kapittelet gjelder avtale om kjøp av elektrisk energi (kraftavtaler) som inngås mellom en kraftleverandør og en forbruker.
+
+Med kraftleverandør menes i dette kapittelet et foretak med omsetningskonsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1) som selger elektrisk energi til forbrukere. Med forbruker menes i dette kapittelet en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.
+
+Bestemmelsene i dette kapittelet kan ikke ved avtale fravikes til ugunst for en forbruker.
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+### § 4 A-2. Informasjon om kostnader ved forbrukerens oppsigelse av kraftavtale
+
+Dersom en kraftavtale inneholder vilkår om kostnader ved oppsigelse som kraftleverandøren eller forbrukeren skal betale ved oppsigelse, skal det gis et regneeksempel i avtalevilkårene som viser hvordan kostnadene beregnes.
+
+Kraftleverandøren skal på forbrukerens anmodning kostnadsfritt og senest innen fem virkedager angi hvilken eventuell kostnad en oppsigelse av kraftavtalen vil utgjøre. Beregningen av kostnaden skal gis forbrukeren skriftlig og på en slik måte at opplysningene er tilgjengelige i fremtiden i uendret form. Beregningen av kostnaden er bindende for kraftleverandøren i 48 timer. Retten til informasjon etter første og annet punktum skal fremgå av avtalevilkårene.
+
+Departementet kan gi forskrift om hvordan regneeksempelet etter første ledd og beregningen av kostnaden etter annet ledd skal gis.
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+### § 4 A-3. Nedkjølingsperiode ved telefonsalg, dørsalg, standssalg og butikksalg
+
+Et tilbud om kraftavtale ved telefonsalg, dørsalg, standssalg og butikksalg skal gis skriftlig og på en slik måte at opplysningene er tilgjengelige i fremtiden i uendret form. Forbrukeren kan tidligst akseptere et slikt tilbud om kraftavtale 24 timer etter at tilbudet er mottatt og blir ikke bundet før tilbudet er akseptert skriftlig.
+
+Kraftleverandøren skal kunne dokumentere forbrukerens aksept og utlevere aksepten til myndighetene på forespørsel.
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+### § 4 A-4. Oppsigelsesrett ved endringer i kraftavtalen
+
+Dersom en kraftavtale inneholder en adgang for kraftleverandøren til ensidig å gjøre endringer i avtalen, kan en endring til ugunst for forbrukeren tidligst tre i kraft 30 dager etter at forbrukeren har mottatt skriftlig varsel om endringen.
+
+En forbruker som har mottatt et varsel etter første ledd, kan si opp avtalen kostnadsfritt før endringen gjøres gjeldende. Oppsigelsesretten gjelder likevel ikke ved prisøkninger som skyldes økte offentlige avgifter knyttet til omsetning av energi, når avgiftsøkningen ikke var offentlig kjent på avtaletidspunktet.
+
+Departementet kan gi forskrift om hvordan endringer i kraftavtalen skal varsles overfor forbrukere.
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+### § 4 A-5. Tilsyn
+
+Forbrukertilsynet og Markedsrådet skal føre tilsyn med at bestemmelsene i [§§ 4 A-1](lov/1990-06-29-50/§4a-1) til [4 A-4](lov/1990-06-29-50/§4a-4) overholdes. Tilsynet med bestemmelsene skal utføres i samsvar med reglene i [markedsføringsloven §§ 32](lov/2009-01-09-2/§32) til [41](lov/2009-01-09-2/§41), [§ 42 første ledd annet punktum](lov/2009-01-09-2/§42/ledd/1/setning/2) og [§§ 43](lov/2009-01-09-2/§43) til [43 c](lov/2009-01-09-2/§43c). Bestemmelsene i kapittel 10 i denne loven gjelder ikke for tilsyn etter første og annet punktum.
+
+Ved forsettlig eller uaktsom overtredelse av regler nevnt i første ledd første punktum som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr. Departementet kan gi forskrift om utmålingen av slikt overtredelsesgebyr.
+
+> Tilføyd ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+
+## Kap. 5. Fjernvarmeanlegg mv.
+
+> Overskrift endret ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 5-1. (Konsesjon for fjernvarmeanlegg)
+
+Fjernvarmeanlegg kan ikke bygges, eies eller drives uten konsesjon. Det samme gjelder ombygging og utvidelse av fjernvarmeanlegg, jf. [§ 10-4 annet ledd](lov/1990-06-29-50/§10-4/ledd/2).
+
+Departementet kan fastsette hvor stor ytelse eller hvor mange abonnenter et fjernvarmeanlegg skal ha for at denne bestemmelse kommer til anvendelse.
+
+Departementet kan fastsette at denne bestemmelse ikke får anvendelse på fjernvarmeanlegg som forsyner offentlige institusjonsbygg, større forretningsbygg, industriell virksomhet, borettslag eller boligsameier.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [19 juni 2009 nr. 105](lov/2009-06-19-105) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 671](forskrift/2009-06-19-671)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 5-2. (Vilkår)
+
+For konsesjoner etter [§ 5-1](lov/1990-06-29-50/§5-1) kan departementet gi nærmere forskrifter og fastsette vilkår:om påbegynnelse, bygging, utførelse, idriftsettelse, vedlikehold, drift og nedleggelse av fjernvarmeanlegget.om konsesjonærens organisasjon og kompetanse, kompetanse hos den som overlates driftsoppgaver og bestemmelser som regulerer bortsettelse av drift.
+
+Departementet kan i forbindelse med den enkelte konsesjon fastsette ytterligere vilkår dersom det finnes påkrevet av allmenne eller private interesser.
+
+> Endret ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)).
+
+### § 5-3. (Tilknytningsplikt)
+
+Departementet kan pålegge ethvert fjernvarmeanlegg å knytte seg til andre fjernvarmeanlegg såfremt anlegget har et varmesystem som kan tilknyttes.
+
+> Endret ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)).
+
+### § 5-4. (Leveringsplikt)
+
+Konsesjonæren har plikt til å skaffe tilknyttede abonnenter fjernvarme, enten selv eller gjennom avtale med en annen leverandør i samsvar med planen for anlegget eller som avtalt med abonnentene. Dersom det er pålagt tilknytningsplikt i medhold av plan- og [bygningsloven § 27-5](lov/2008-06-27-71/§27-5) og bebyggelsen ikke kan tilknyttes fjernvarmeanlegget på grunn av forsinkelser i forhold til fastsatt frist for fullføring, kan konsesjonæren pålegges av departementet å sikre bebyggelsen midlertidig varmeforsyning.
+
+Plikten til å skaffe fjernvarme faller bort i tilfelle krig, streik, lockout, eller andre plutselige og uforutsette hendinger som medfører at levering vil bli umulig eller urimelig byrdefullt. Leveringen av fjernvarme kan avbrytes når det er fare for personskade eller skade på eiendom eller når det er nødvendig for reparasjon og vedlikehold.
+
+Konsesjonæren plikter å treffe midlertidig tiltak for i størst mulig utstrekning å avbøte skader og ulemper ved stans i leveringene når dette er mulig.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
+
+### § 5-5. (Pris)
+
+Vederlag for fjernvarme kan beregnes i form av tilknytningsavgift, fast årlig avgift og pris for bruk av varme. Prisen for fjernvarme skal ikke overstige prisen for elektrisk oppvarming i vedkommende forsyningsområde.
+
+Det skal gis melding til konsesjonsmyndigheten om priser og andre leveringsvilkår og endringer i disse fra konsesjonspliktige anlegg.
+
+Enhver som er pålagt å tilknytte seg fjernvarmeanlegg etter plan- og [bygningsloven § 27-5](lov/2008-06-27-71/§27-5), har rett til å klage til konsesjonsmyndigheten over priser og andre leveringsvilkår. Konsesjonsmyndigheten kan gi pålegg om endringer av prisen eller leveringsvilkårene for øvrig.
+
+Når tilknytningsplikt til fjernvarmeanlegg er pålagt i medhold av plan- og [bygningsloven § 27-5](lov/2008-06-27-71/§27-5), skal abonnenten betale tilknytningsavgift og fast årlig avgift uavhengig av om fjernvarme nyttes eller ikke.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
+
+### § 5-6. (Forhandlingsplikt)
+
+Konsesjonæren plikter, på forespørsel fra noen som ønsker å inngå avtale om tredjepartsleveranse eller tredjepartsadgang til fjernvarmeanlegget, å forhandle med vedkommende i god tro og med det formål å komme til enighet. Dersom partene ikke kommer til enighet, skal konsesjonæren gi en begrunnelse for hvorfor tredjepartsleveranse eller tredjepartsadgang avslås.
+
+Plikten til å forhandle etter første ledd gjelder likevel ikke dersom tredjepartsleveranse eller tredjepartsadgang av åpenbare tekniske grunner ikke kan gjennomføres. Konsesjonæren skal beskrive hvilke åpenbare tekniske grunner som foreligger og gi en begrunnelse for avslaget.
+
+Tvister mellom konsesjonæren og noen som ønsker å inngå avtale som nevnt i første ledd, kan bringes inn for departementet etter skriftlig begjæring fra en av partene. Departementet kan megle i saken etter at partene er gitt adgang til å uttale seg. Departementet kan ved forskrift fastsette nærmere bestemmelser om slik megling.
+
+> Tilføyd ved [lov 14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)).
+
+### § 5-7. (Nedleggelse)
+
+Fjernvarmeanlegg som drives i medhold av konsesjon etter loven her må ikke nedlegges uten tillatelse av departementet.
+
+Ved utløpet av konsesjonstiden kan det etter søknad gis fornyet konsesjon etter loven her. Dersom det ikke meddeles slik konsesjon, kan anlegget overtas vederlagsfritt av stat, fylkeskommune eller kommune.
+
+Dersom anlegget ikke blir overtatt av det offentlige, og det heller ikke blir meddelt ny konsesjon, plikter eieren å fjerne anlegget innen en nærmere fastsatt frist. Departementet kan bestemme at nedgravde deler av anlegget ikke skal graves opp igjen.
+
+Ved nedleggelse av anlegget er eieren forpliktet til å iverksette tiltak som det offentlige forlanger for å avverge fare eller skade for omgivelsene og for eiendommer som berøres av anlegget, og for ivaretakelse av abonnentenes interesser.
+
+> Endret ved [lov 14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615), tidligere § 5-6).
+
+### § 5-8. (Måling og fakturering)
+
+Departementet kan gi forskrift om måling og fakturering av fjernvarme og fjernkjøling og om måling og fakturering av energibruk i hver enkelt bruksenhet i bygninger som har felles varmeanlegg for romoppvarming eller tappevann eller felles kjøleanlegg for romavkjøling eller tappevann.
+
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+## Kap. 6. Systemansvar, rasjonering og leveringskvalitet
+
+> Kapitlet tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret kapittelnummer fra 5A.
+
+### § 6-1. (Systemansvaret)
+
+Departementet gir forskrifter om systemansvaret.
+
+Departementet tildeler myndigheten til å utøve systemansvaret på nærmere fastsatte vilkår. Den systemansvarlige skal sørge for at det til enhver tid er momentan balanse mellom den samlede produksjon og den samlede bruk av kraft hensett til kraftutvekslingen med tilknyttede utenlandske systemer.
+
+Enhver som helt eller delvis eier eller driver nett, produksjon eller organisert markedsplass, samt omsettere og sluttbrukere plikter å rette seg etter den systemansvarliges instrukser under systemansvaret, samt følge de bestemmelser om systemansvaret som er fastsatt i eller i medhold av denne lov. Avgjørelser som fattes av den systemansvarlige under utøvelsen av systemansvaret er unntatt forvaltningsloven kap. IV-VI og VIII.
+
+Reguleringsmyndigheten skal ved enkeltvedtakfastsette eller godkjenne vilkår omsystem- og balansetjenester,planlegging, idriftsettelse eller tilknytning av anlegg i kraftsystemet, som bruk av standardvilkår,den systemansvarliges kapasitetstildeling og håndtering av flaskehalser i overføringsnettet, blant annet for utenlandsforbindelser etter [§ 4-2](lov/1990-06-29-50/§4-2),utøvelsen av systemansvaret, ellerfastsette eller godkjenne metoder for å fastsette vilkår om forhold som nevnt i bokstav a.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved lover [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 5A-1), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [22 mars 2024 nr. 12](lov/2024-03-22-12) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 501](forskrift/2024-03-22-501)).
+
+### § 6-2. (Rasjonering)
+
+Departementet kan sette i verk rasjonering, herunder tvangsmessige leveringsinnskrenkninger eller rekvisisjon, når ekstraordinære forhold tilsier det.
+
+Departementet utpeker en rasjoneringsmyndighet som er ansvarlig for planlegging og administrativ gjennomføring av tiltak i forbindelse med rasjonering etter første ledd.
+
+Rasjoneringsmyndigheten kan delegere myndighet til å treffe vedtak i forbindelse med gjennomføring av rasjonering til Kraftforsyningens beredskapsorganisasjon (KBO). Kapittel VI om klage og omgjøring i [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder ikke for enkeltvedtak som er truffet av rasjoneringsmyndigheten eller KBO i forbindelse med gjennomføring av rasjonering. For saker som behandles av KBO gjelder heller ikke [forvaltningsloven kapittel II](lov/1967-02-10/kapii) om ugildhet. Saker skal likevel forberedes og avgjøres etter en forsvarlig, saklig og nøytral saksbehandling.
+
+Departementet kan gi forskrift om virkemidler for å unngå kraftrasjonering, planlegging og gjennomføring av kraftrasjonering, rekvisisjon av kraft og tvangsmessige leveringsinnskrenkninger.
+
+> Tilføyd ved lov [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved lover [19 des 2003 nr. 131](lov/2003-12-19-131) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1647](forskrift/2003-12-19-1647)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 5A-2), [22 mars 2024 nr. 12](lov/2024-03-22-12) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 501](forskrift/2024-03-22-501)).
+
+### § 6-3. (Leveringskvalitet)
+
+Departementet gir forskrifter om leveringskvaliteten i kraftsystemet og om informasjonsplikten i den forbindelse.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 5A-3).
+
+## Kap. 7. Energiplanlegging og kost-nytteanalyser
+
+> Kapitlet tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lover 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), endret kapittelnummer fra 5B), [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 7-1. (Energiplanlegging)
+
+Den som har konsesjon etter [§§ 3-1](lov/1990-06-29-50/§3-1), [3-2](lov/1990-06-29-50/§3-2) og [5-1](lov/1990-06-29-50/§5-1) plikter å delta i energiplanlegging.
+
+Departementet gir forskrifter og vilkår om planleggingen.
+
+> Tilføyd ved [lov 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 5B-1).
+
+### § 7-2. (Anlegg som omfattes av plikten til å gjennomføre kost-nytteanalyse)
+
+En tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme ved planlegging av følgende anlegg:termiske kraftverk med mer enn 20 MW samlet innfyrt termisk effektindustrianlegg med mer enn 20 MW samlet innfyrt termisk effekt som vil ha overskuddsvarme med anvendbar temperaturfjernvarmeanlegg og fjernkjøleanleggenergiproduksjonsanlegg med mer enn 20 MW samlet innfyrt termisk effekt som planlegges tilkoblet i et eksisterende fjernvarme- eller fjernkjøleanleggdatasentre med mer enn 2 MW samlet tilført elektrisk effektandre anlegg med mer enn 20 MW samlet tilført elektrisk effekt.Det samme gjelder ved omfattende oppgradering av anlegg som nevnt i første punktum bokstav a, b og d.
+
+Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av første ledd.
+
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 7-3. (Innholdet i kost-nytteanalyser)
+
+En kost-nytteanalyse for anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) skal inneholde en vurdering av kostnader og fordeler som kan oppstå ved å gjennomføre følgende tiltak:å drive et termisk kraftverk som et høyeffektivt kraftvarmeverkå oppgradere et termisk kraftverk til å kunne drive høyeffektiv kraftvarmeproduksjonå drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørselå utnytte overskuddsvarme fra nærliggende anlegg og datasentre når nye fjernvarme- eller fjernkjøleanlegg planlegges, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjøleanlegg planlegges oppført eller omfattende oppgradertå drive datasentre som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav e og anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav f slik at overskuddsvarme brukes til å dekke en økonomisk begrunnet etterspørsel.
+
+Departementet kan gi forskrift om nærmere definisjon av tiltakene i første ledd og innholdet i og gjennomføringen av en kost-nytteanalyse.
+
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 7-4. (Godkjenning og oppfølging av kost-nytteanalyser)
+
+En kost-nytteanalyse etter [§ 7-2](lov/1990-06-29-50/§7-2) og [§ 7-3](lov/1990-06-29-50/§7-3) skal godkjennes av departementet før byggingen eller oppgraderingen settes i gang. Departementet kan gi forskrift om innsending, godkjenning og bruk av kost-nytteanalysene.
+
+Departementet kan i enkeltvedtak fastsette at et anlegg ikke kan bygges eller oppgraderes uten at overskuddsvarmen utnyttes, dersom kost-nytteanalysen viser at fordelene ved dette er større enn kostnadene. Dette gjelder ikke anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav e og f.
+
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+## Kap. 8. Energitilstand i bygninger og energikartlegging i store foretak
+
+> Kapitlet tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere kap 8 endret kapittelnummer til kap 11), overskrift endret ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 282](forskrift/2024-02-16-282)).
+
+### § 8-1. (Energiattest)
+
+En energiattest for en bygning skal bestå av dokumentasjon av de faktiske opplysninger utregningen bygger på, et energimerke og en tiltaksliste for energitiltak.
+
+Energiattesten er gyldig i 10 år.
+
+Departementet gir forskrifter om utformingen av, innholdet i, beregningsmåter for og utstedelse av energiattesten og bruk av den i markedsføring, samt lagring av opplysninger, herunder personopplysninger.
+
+Departementet kan gi forskrifter om kvalifikasjonskrav for den som utfører energiattestering.
+
+Departementet kan gi forskrifter om hvilke bygninger som er unntatt fra krav i [§§ 8-2](lov/1990-06-29-50/§8-2) og [8-3](lov/1990-06-29-50/§8-3) om energiattest, hvilke bygninger som anses å være ofte besøkt av allmennheten som nevnt i [§§ 8-2](lov/1990-06-29-50/§8-2) og [8-3](lov/1990-06-29-50/§8-3), og hvem som er ansvarlig for å oppfylle pliktene til energimerking.
+
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret ved lov [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)).
+
+### § 8-2. (Energiattest ved salg, utleie og ferdigstilling av nye bygninger)
+
+Eieren av en bygning skal innhente energiattest ved salg eller utleie. Energiattesten skal legges fram for kjøperen eller leietakeren før avtale om salg eller utleie blir inngått.
+
+Eieren av en ny bygning skal innhente energiattest ved ferdigstilling. Som ny bygning regnes også hovedombygging av en eksisterende bygning.
+
+Dersom en bygning som nevnt i første eller annet ledd har et samlet bruksareal på mer enn 500 kvadratmeter og ofte besøkes av allmennheten, skal eieren sørge for at et sammendrag av energiattesten plasseres synlig for brukerne av bygningen.
+
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 juli 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447) som endret ved [res. 18 des 2009 nr. 1581](forskrift/2009-12-18-1581)), endret ved lover [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 16 mars 2012 iflg. [res. 16 mars 2012 nr. 225](forskrift/2012-03-16-225)), [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)).
+
+### § 8-3. (Energiattest for offentlige bygninger)
+
+Eieren av en bygning skal innhente energiattest og sørge for at et sammendrag av energiattesten plasseres synlig for brukerne av bygningen når:mer enn 250 kvadratmeter av bygningens bruksareal brukes av offentlige myndigheter, og bygningen ofte besøkes av allmennhetenmer enn 250 kvadratmeter av bygningens bruksareal brukes av departementer, direktorater eller tilsynsorganer.
+
+Departementet kan gi forskrift om innholdet i pliktene etter første ledd.
+
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 juli 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447) som endret ved [res. 18 des 2009 nr. 1581](forskrift/2009-12-18-1581)), endret ved lov [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)).
+
+### § 8-4. (Energivurdering av varme- og klimaanlegg)
+
+Eieren av varme- eller klimaanlegg i en bygning skal sørge for dokumenterbare systemer, rutiner eller jevnlige kontroller som legger til rette for energieffektiv drift av anlegget, og skal sørge for at det foreligger en dokumentert vurdering av dimensjoneringen av anlegget. Vurderingen skal oppdateres ved relevante endringer på bygningen eller anlegget.
+
+Departementet kan gi forskrift om energivurdering av varme- og klimaanlegg, kvalifikasjonskrav for den som utfører energivurdering, dokumentasjonskrav og liknende, og hvilke bygninger og anlegg som omfattes av kravene i første ledd.
+
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret ved lov [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)).
+
+### § 8-5. (Energikartlegging i store foretak)
+
+Store foretak skal regelmessig gjennomføre en energikartlegging. Departementet gir forskrift om hva som regnes som store foretak.
+
+Departementet gir forskrift om kvalifikasjonskrav for den som utfører energikartlegging, kartleggingens utarbeidelse og innhold og rapportering, lagring og bruk av resultatene fra energikartlegging.
+
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 282](forskrift/2024-02-16-282)).
+
+## Kap. 9. Beredskap
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret kapittelnummer fra 6.
+
+### § 9-1. (Kraftforsyningens beredskapsorganisasjon)
+
+Kraftforsyningens beredskapsorganisasjon (KBO) består av de enheter som eier eller driver anlegg eller annet som har vesentlig betydning for drift eller gjenoppretting av eller sikkerhet i produksjon, omforming, overføring, omsetning eller fordeling av elektrisk energi eller fjernvarme. Beredskapsmyndigheten kan ved forskrift eller enkeltvedtak fastsette hvilke enheter som skal inngå i KBO.
+
+Alle enheter i KBO skal sørge for at virksomheten er innrettet på en slik måte og med slike ressurser som er nødvendig for å ivareta ansvar og oppgaver etter dette kapittelet.
+
+Beredskapsmyndigheten skal samordne beredskapsarbeid og utpeke den samlede ledelse i KBO.
+
+I ekstraordinære situasjoner som kan skade eller hindre produksjon, omforming, overføring, omsetning eller fordeling av elektrisk energi eller fjernvarme, kan KBO pålegges oppgaver og plikter. Det samme gjelder i ekstraordinære situasjoner hvor skade eller hindring som nevnt i første punktum har oppstått.
+
+Beredskapsmyndigheten kan under beredskap og i krig underlegge kraftforsyningen KBO. Kraftforsyningen plikter å følge de pålegg som gis og gjennomføre de tiltak som kreves.
+
+> Endret ved [lover 11 juni 1993 nr. 98](lov/1993-06-11-98), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-1), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)).
+
+### § 9-2. (Beredskapstiltak)
+
+Den som helt eller delvis eier eller driver anlegg eller system som er eller kan bli av vesentlig betydning for produksjon, omforming, overføring, omsetning eller fordeling av elektrisk energi eller fjernvarme, plikter å sørge for effektiv sikring og beredskap og iverksette tiltak for å forebygge, håndtere og begrense virkningene av ekstraordinære situasjoner som nevnt i [§ 9-1](lov/1990-06-29-50/§9-1) fjerde eller femte ledd og for å gjenopprette normal situasjon.
+
+Beredskapsmyndigheten kan gi forskrift eller treffe enkeltvedtak om beredskapstiltak for å forebygge, håndtere eller begrense virkningene av ekstraordinære situasjoner som nevnt i [§ 9-1](lov/1990-06-29-50/§9-1) fjerde eller femte ledd eller for å gjenopprette normal situasjon. Beredskapstiltak kan pålegges den som eier eller driver anlegg eller systemer som nevnt i første ledd. Beredskapstiltak kan gjelde for eksisterende og planlagte anlegg eller systemer som nevnt i første ledd.
+
+Vedtak om beredskapstiltak kan blant annet omfatte krav til organisering, planlegging, forebygging, sikkerhets- eller sikringstiltak, utførelse, gjennomføring, gjenopprettingsevne, ledelse eller drift. Beredskapsmyndigheten kan treffe vedtak om at drift i ekstraordinære situasjoner og gjennomføring av tiltak etter dette kapittel skal kunne skje fra norsk territorium.
+
+Den som pålegges beredskapstiltak plikter å gjennomføre tiltaket for egen regning og risiko.
+
+Når det anses nødvendig kan beredskapsmyndigheten uten hensyn til tidligere pålegg treffe vedtak om at nye eller endrede beredskapstiltak skal settes i verk.
+
+> Endret ved [lover 11 juni 1993 nr. 98](lov/1993-06-11-98), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-2), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)).
+
+### § 9-3. (Informasjonssikkerhet)
+
+Alle enheter i KBO skal vurdere sikkerheten ved all behandling av informasjon om kraftforsyningen. Enhetene skal kartlegge hvilken informasjon som er sensitiv, hvor den befinner seg og hvem som har tilgang til den. Det skal etableres effektiv avskjerming og beskyttelse av sensitiv informasjon.
+
+Enhver plikter å hindre at andre enn rettmessige brukere får adgang eller kjennskap til sensitiv informasjon om kraftforsyningen.
+
+Departementet kan gi nærmere forskrifter om informasjonssikkerhet i kraftforsyningen og om taushetsplikten.
+
+> Endret ved [lover 11 juni 1993 nr. 98](lov/1993-06-11-98), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-3), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)).
+
+### § 9-4. (Delegering mv.)
+
+Beredskapsmyndigheten kan delegere myndighet til å treffe vedtak i forbindelse med beredskap til KBO eller enheter som inngår i KBO.
+
+[Forvaltningsloven kapittel II](lov/1967-02-10/kapii) om ugildhet gjelder ikke for saker som behandles av KBO. Saker skal uansett forberedes og avgjøres etter en forsvarlig, saklig og nøytral saksbehandling.
+
+> Endret ved [lover 11 juni 1993 nr. 98](lov/1993-06-11-98), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-4), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)).
+
+### § 9-5. Meldeplikt, rett til adgang og vilkår for tilgang)
+
+Beredskapsmyndigheten kan i forskrift fastsette krav om å melde igangsetting av arbeid for å bygge eller endre anlegg eller systemer som nevnt i [§ 9-2](lov/1990-06-29-50/§9-2) første ledd.
+
+Alle som omfattes av dette kapittelet, plikter å gi beredskapsmyndigheten adgang til grunn, bygg, anlegg og lignende mot gyldig legitimasjon. Det samme gjelder adgang for politiet og militære myndigheter når dette har sammenheng med forberedelse til og gjennomføring av væpnet sikring.
+
+Beredskapsmyndigheten kan gi forskrift om at KBO-enheter kan kreve at personer som skal ha tilgang til anlegg eller annet som har vesentlig betydning for drift eller gjenoppretting av eller sikkerhet i produksjon, omforming, overføring, omsetning og fordeling av elektrisk energi eller fjernvarme, skal fremlegge en ordinær politiattest.
+
+> Endret ved [lover 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-5), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)), [21 juni 2019 nr. 65](lov/2019-06-21-65) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 792](forskrift/2019-06-21-792)).
+
+### § 9-6. (Gebyr eller sektoravgift til dekning av kostnader)
+
+Beredskapsmyndigheten kan kreve gebyr eller sektoravgift fra enheter i KBO til dekning av kostnadene ved beredskapsmyndighetens arbeid med kraftforsyningsberedskap. Kostnadene utlignes på de enhetene som omfattes av [§ 9-1](lov/1990-06-29-50/§9-1) første ledd, eller som er utpekt som KBO-enheter i medhold av denne loven.
+
+Departementet kan gi forskrift om gebyr eller sektoravgift og om innrapportering av opplysninger som er nødvendige for beregning av gebyret eller sektoravgiften.
+
+Gebyret eller sektoravgiften er tvangsgrunnlag for utlegg. Betales ikke sektoravgiften eller gebyret til forfallstid, svares deretter rente som fastsatt i medhold av [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3](lov/1976-12-17-100/§3) første ledd.
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-6), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 1 jan 2013 iflg. [res. 7 des 2012 nr. 1146](forskrift/2012-12-07-1146)), [21 april 2023 nr. 7](lov/2023-04-21-7) (i kraft 1 juli 2023 iflg. [res. 21 april 2023 nr. 530](forskrift/2023-04-21-530)).
+
+### § 9-7. (Opphevet)
+
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 6-7), opphevet ved [lov 11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)).
+
+## Kap. 10. Diverse bestemmelser
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret kapittelnummer fra 7.
+
+### § 10-1. (Tilsyn og kontroll)
+
+Departementet kan gi de pålegg som er nødvendige for gjennomføringen av bestemmelser gitt i eller i medhold av denne loven. Departementet fører kontroll med at bestemmelser gitt i eller i medhold av denne loven blir overholdt. Dette gjelder tilsvarende for reguleringsmyndigheten der den er gitt myndighet etter denne loven. Kostnadene til kontroll knyttet til [§ 4-2](lov/1990-06-29-50/§4-2) skal betales av konsesjonæren. Klagenemnda kan gi pålegg om utlevering av informasjon i medhold av tredje ledd første punktum.
+
+Den som har konsesjon skal påse at anlegget, driften av anlegget eller virksomheten oppfyller de krav som er fastsatt i eller i medhold av denne lov. Departementet gir forskrifter om internkontroll og internkontrollsystemer.
+
+Enhver plikter uten hinder av taushetsplikt å gi departementet, reguleringsmyndigheten eller klagenemnda de opplysninger som er nødvendige for utøvelse av myndighet etter denne loven. Uten hinder av lovbestemt taushetsplikt skal informasjon utleveres til EFTAs faste komité, EFTAs overvåkningsorgan eller EU-kommisjonen når det er fremmet en begrunnet forespørsel og informasjonen er nødvendig og forholdsmessig for gjennomføringen av oppgaver pålagt gjennom EØS-avtalen.
+
+For å fremme effektivt tilsyn med kraftmarkedet kan departementet eller reguleringsmyndigheten, uten hinder av lovbestemt taushetsplikt, gi andre norske myndigheter opplysninger som er nødvendige for å fremme håndhevelsen av norsk regulering av kraftmarkedet. For å oppfylle Norges avtaleforpliktelser overfor annen stat kan departementet eller reguleringsmyndigheten uten hinder av lovbestemt taushetsplikt gi energimyndighetene i andre stater som er part i EØS-avtalen, byrået for samarbeid mellom energiregulatorer eller EFTAs overvåkningsorgan opplysninger som er nødvendige for å fremme håndhevelsen av norsk, EØS-rettslig, eller vedkommende stats regulering av kraftmarkedet.
+
+Ved utlevering av taushetsbelagte opplysninger etter tredje og fjerde ledd skal det stilles som vilkår at opplysningene undergis taushetsplikt hos mottakeren og at opplysningene bare kan formidles videre med samtykke fra det organet som utleverte dem, og bare for det formålet som samtykket omfatter. Den opplysningene gjelder skal underrettes om videreformidling av taushetsbelagt informasjon dersom opplysningene opprinnelig er innhentet fra vedkommende, med mindre slik underretning vil motvirke formålet med de kontroll- eller reguleringstiltak opplysningene skal tjene, eller medføre fare for at de ikke kan gjennomføres.
+
+Departementet kan gi forskrift om informasjons- og taushetsplikten og om utlevering av opplysninger som nevnt i tredje, fjerde og femte ledd, og om plikt til å utlevere informasjon til det europeiske nettverket for operatører av transmisjonssystem for elektrisk energi.
+
+Til dekning av departementets kostnader til tilsyns- og kontrollarbeid knyttet til [kapittel 3](lov/1990-06-29-50/kap3) og [5](lov/1990-06-29-50/kap5), innkreves et gebyr eller en sektoravgift. Departementet kan gi forskrift om gebyr eller sektoravgift og om innrapportering av opplysninger som er nødvendige for beregning av gebyret eller sektoravgiften.
+
+Gebyret eller sektoravgiften er tvangsgrunnlag for utlegg. Betales ikke gebyret eller sektoravgiften til forfallstid, svares deretter rente som fastsatt i medhold av [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3](lov/1976-12-17-100/§3) første ledd.
+
+> Endret ved [lover 11 juni 1993 nr. 98](lov/1993-06-11-98), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-1), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 16 mars 2012 iflg. [res. 16 mars 2012 nr. 225](forskrift/2012-03-16-225)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)), [21 april 2023 nr. 7](lov/2023-04-21-7) (i kraft 1 juli 2023 iflg. [res. 21 april 2023 nr. 530](forskrift/2023-04-21-530)).
+
+### § 10-1 a. (Etterundersøkelser)
+
+Konsesjonsmyndigheten kan i driftsperioden pålegge konsesjonæren å utføre og bekoste undersøkelser av tiltakets virkninger for miljø eller annen arealbruk. Pålegget skal angi nødvendige rammer for undersøkelsene. Kostnadene ved pålegget skal stå i et rimelig forhold til tiltakets antatte skadevirkninger og den antatte nytten av undersøkelsene.
+
+Undersøkelsesrapportene med tilhørende materiale skal stilles til rådighet for konsesjonsmyndigheten.
+
+> Tilføyd ved lov [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 10-2. (Tilbaketrekking av tillatelse)
+
+Departementet eller reguleringsmyndigheten kan trekke tilbake en konsesjon eller annen tillatelse dersom rettighetshaveren har gitt uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning for vedtaket. Det samme gjelder dersom rettighetshaveren ikke lenger anses skikket til å utøve virksomheten etter grovt eller gjentatte brudd på denne loven eller bestemmelser eller pålegg gitt i medhold av loven. En konsesjon kan også trekkes tilbake ved oversittelse av frister som er gitt i eller i medhold av denne loven, og som er knyttet til fremdriften av tiltaket.
+
+Reguleringsmyndigheten kan, uavhengig av første ledd, helt eller delvis trekke tilbake en omsetningskonsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1) ved grovt eller gjentatte brudd på bestemmelser gitt i eller i medhold av loven her, samt i[avtaleloven § 38 b](lov/1918-05-31-4/§38b)[markedsføringsloven § 6](lov/2009-01-09-2/§6), [§ 10](lov/2009-01-09-2/§10), [§ 11](lov/2009-01-09-2/§11), [§ 12](lov/2009-01-09-2/§12), [§ 13](lov/2009-01-09-2/§13), [§ 13 a](lov/2009-01-09-2/§13a), [§ 14 første ledd](lov/2009-01-09-2/§14/ledd/1), [§ 15](lov/2009-01-09-2/§15), [§ 16](lov/2009-01-09-2/§16), [§ 16 a første ledd bokstav a](lov/2009-01-09-2/§16a/ledd/1/bokstav/a), [§ 17](lov/2009-01-09-2/§17), [§ 17 a](lov/2009-01-09-2/§17a), [§ 18](lov/2009-01-09-2/§18), [§ 20 annet ledd](lov/2009-01-09-2/§20/ledd/2) og [§ 22](lov/2009-01-09-2/§22), eller forskrift gitt i medhold av [§ 6 femte ledd](lov/2009-01-09-2/§6/ledd/5) eller [§ 10 annet](lov/2009-01-09-2/§10/ledd/2) og [tredje ledd](lov/2009-01-09-2/§10/ledd/3)[angrerettloven §§ 8](lov/2014-06-20-27/§8) til [24 a](lov/2014-06-20-27/§24a), [§ 25 annet ledd annet punktum](lov/2014-06-20-27/§25/ledd/2/setning/2) og [§ 27](lov/2014-06-20-27/§27), eller forskrift gitt i medhold av [§ 8](lov/2014-06-20-27/§8).Første punktum gjelder likevel bare når lovbruddet gir rimelig grunn til å tro at fortsatt virksomhet kan skade sluttbrukere eller tilliten til strømmarkedet eller aktørene i strømmarkedet.
+
+Departementet kan gi forskrift om at også brudd på andre bestemmelser gitt i eller i medhold av lov skal kunne gi grunnlag for å trekke tilbake en omsetningskonsesjon.
+
+Blir konsesjon for et anlegg etter [kapittel 3](lov/1990-06-29-50/kap3) eller [kapittel 5](lov/1990-06-29-50/kap5) trukket tilbake, skal departementet fastsette en frist til å sørge for at anlegget blir overtatt av andre som lovlig kan drive det. Bestemmelsene i [lov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom (konsesjonsloven) mv. § 19](lov/2003-11-28-98/§19) gjelder tilsvarende dersom fristen oversittes. For fjernvarmeanlegg kan det kreves at anlegget nedlegges. Ved nedleggelse får bestemmelsene i [§ 5-7](lov/1990-06-29-50/§5-7) tilsvarende anvendelse.
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-2), opphevet ved [lov 14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), tilføyd ved lov [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)), endret ved lov [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 10-3. (Tvangsmulkt og direkte gjennomføring)
+
+Ved overtredelse av denne lov eller bestemmelser eller pålegg gitt i medhold av loven, kan departementet eller reguleringsmyndigheten fastsette en tvangsmulkt etter reglene i [forvaltningsloven § 51](lov/1967-02-10/§51).
+
+Tvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som er fastsatt.
+
+Blir pålegg etter [kapittel 9](lov/1990-06-29-50/kap9) ikke etterkommet innen den fastsatte frist, kan departementet la pålegget utføre på vedkommendes bekostning.
+
+Tvangsmulkt og utgifter til utføring av pålegg er tvangsgrunnlag for utlegg.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-3), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)).
+
+### § 10-4. (Omgjøring)
+
+I særlige tilfeller kan tillatelser endres av hensyn til allmenne eller private interesser. Det skal tas hensyn til kostnadene en endring vil påføre konsesjonæren, og de fordelene og ulempene endringen for øvrig vil medføre.
+
+Endringer i tillatelser kan også foretas etter søknad fra konsesjonæren. Bestemmelsene i [§ 2-2](lov/1990-06-29-50/§2-2) gjelder tilsvarende.
+
+> Endret ved [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-4), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085)).
+
+### § 10-5. (Straff)
+
+Med bøter eller fengsel inntil 1 år eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelser eller enkeltvedtak nevnt i [§ 10-7](lov/1990-06-29-50/§10-7) første ledd nr. 1 til 3 og annet ledd nr. 1 til 3. Overtredelse av [§§ 7-2](lov/1990-06-29-50/§7-2) til [7-4](lov/1990-06-29-50/§7-4) eller bestemmelser i [kapittel 8](lov/1990-06-29-50/kap8) medfører likevel ikke straff. Departementet kan gi forskrift om at forsettlig eller uaktsom overtredelse av forskriften straffes på samme måte.
+
+Er det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller det forøvrig foreligger skjerpende omstendigheter, kan overtredelser etter første ledd straffes med fengsel inntil 2 år, om ikke strengere straffebud får anvendelse.
+
+> Endret ved [lover 20 juli 1991 nr. 66](lov/1991-07-20-66), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-5), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)), [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+
+### § 10-6. (Forskrifter)
+
+Departementet kan gi forskrift til gjennomføring og utfylling av loven og dens virkeområde.
+
+Departementet kan gi de forskrifter som er nødvendig for ivaretakelse av Norges forpliktelser etter EØS-avtalen, blant annet forordning om vilkår for tilgang til nett for utveksling av elektrisk energi over landegrensene,1 forordning om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter,2 samt bestemmelser om behandling av tvister, saksbehandlingsfrister og utsatt iverksetting av vedtak.
+
+Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven for konsesjoner etter [§§ 4-1](lov/1990-06-29-50/§4-1) og [4-5 i](lov/1990-06-29-50/§4-5) denne lov, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn. Saksbehandlingsreglene kan fravike reglene i denne loven.
+
+> Endret ved [lover 27 nov 1992 nr. 119](lov/1992-11-27-119), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-6), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
+
+### § 10-7. (Overtredelsesgebyr)
+
+Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:[§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b første ledd](lov/1990-06-29-50/§3-1b/ledd/1), [§ 4-2 første ledd](lov/1990-06-29-50/§4-2/ledd/1), [§ 5-1 første ledd](lov/1990-06-29-50/§5-1/ledd/1), [§ 5-4 første](lov/1990-06-29-50/§5-4/ledd/1) og [tredje ledd](lov/1990-06-29-50/§5-4/ledd/3), [§ 5-5 første](lov/1990-06-29-50/§5-5/ledd/1) og [annet ledd](lov/1990-06-29-50/§5-5/ledd/2), [§ 5-7 første](lov/1990-06-29-50/§5-7/ledd/1), [tredje](lov/1990-06-29-50/§5-7/ledd/3) og [fjerde ledd](lov/1990-06-29-50/§5-7/ledd/4), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 7-1](lov/1990-06-29-50/§7-1), [§ 7-2 første ledd](lov/1990-06-29-50/§7-2/ledd/1), [§ 7-3 første ledd](lov/1990-06-29-50/§7-3/ledd/1), [§ 7-4 første ledd](lov/1990-06-29-50/§7-4/ledd/1), [§ 8-2](lov/1990-06-29-50/§8-2), [§ 8-3](lov/1990-06-29-50/§8-3) [første ledd](lov/1990-06-29-50/§8-3/ledd/1), [§ 8-4](lov/1990-06-29-50/§8-4) [første ledd](lov/1990-06-29-50/§8-4/ledd/1), [§ 8-5](lov/1990-06-29-50/§8-5) [første ledd](lov/1990-06-29-50/§8-5/ledd/1), [§ 9-1 annet ledd](lov/1990-06-29-50/§9-1/ledd/2), [§ 9-2 første ledd](lov/1990-06-29-50/§9-2/ledd/1), [§ 9-3 første](lov/1990-06-29-50/§9-3/ledd/1) og [annet ledd](lov/1990-06-29-50/§9-3/ledd/2), [§ 9-5 annet ledd](lov/1990-06-29-50/§9-5/ledd/2) eller [§ 10-1 annet ledd](lov/1990-06-29-50/§10-1/ledd/2)pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1) og [§ 10-1 a](lov/1990-06-29-50/§10-1a)konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b annet ledd](lov/1990-06-29-50/§3-1b/ledd/2), [§ 3-2](lov/1990-06-29-50/§3-2), [§ 4-2 annet](lov/1990-06-29-50/§4-2/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-2/ledd/3), [§ 4-4 første ledd](lov/1990-06-29-50/§4-4/ledd/1), [§ 5-2](lov/1990-06-29-50/§5-2), [§ 5-3](lov/1990-06-29-50/§5-3), [§ 5-4 første ledd](lov/1990-06-29-50/§5-4/ledd/1), [§ 5-5 tredje ledd](lov/1990-06-29-50/§5-5/ledd/3), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 9-1 fjerde](lov/1990-06-29-50/§9-1/ledd/4) og [femte ledd](lov/1990-06-29-50/§9-1/ledd/5) eller [§ 9-2 annet](lov/1990-06-29-50/§9-2/ledd/2) til [fjerde ledd](lov/1990-06-29-50/§9-2/ledd/4)forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
+
+Reguleringsmyndigheten kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:[§ 3-3 første ledd](lov/1990-06-29-50/§3-3/ledd/1), [§ 3-4 første ledd](lov/1990-06-29-50/§3-4/ledd/1), [§ 3-4 a første](lov/1990-06-29-50/§3-4a/ledd/1) og [annet ledd](lov/1990-06-29-50/§3-4a/ledd/2), [§ 4-1 første ledd](lov/1990-06-29-50/§4-1/ledd/1), [§ 4-3 tredje ledd](lov/1990-06-29-50/§4-3/ledd/3), [§ 4-5 første ledd](lov/1990-06-29-50/§4-5/ledd/1), [§ 4-5 a](lov/1990-06-29-50/§4-5a), [§ 4-6 første](lov/1990-06-29-50/§4-6/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-6/ledd/2), [§ 4-7 første](lov/1990-06-29-50/§4-7/ledd/1) til [tredje ledd](lov/1990-06-29-50/§4-7/ledd/3), [§ 4-8](lov/1990-06-29-50/§4-8), [§ 4-10 første](lov/1990-06-29-50/§4-10/ledd/1) og [annet ledd](lov/1990-06-29-50/§4-10/ledd/2), [§ 6-1 tredje ledd](lov/1990-06-29-50/§6-1/ledd/3) eller [§ 10-1 første](lov/1990-06-29-50/§10-1/ledd/1), [tredje](lov/1990-06-29-50/§10-1/ledd/3) og [femte ledd](lov/1990-06-29-50/§10-1/ledd/5)pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1)konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-3 fjerde ledd](lov/1990-06-29-50/§3-3/ledd/4), [§ 3-4 tredje ledd](lov/1990-06-29-50/§3-4/ledd/3), [§ 3-4 a fjerde ledd](lov/1990-06-29-50/§3-4a/ledd/4), [§ 4-1 annet](lov/1990-06-29-50/§4-1/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-1/ledd/3), [§ 4-2 fjerde ledd](lov/1990-06-29-50/§4-2/ledd/4), [§ 4-3 annet](lov/1990-06-29-50/§4-3/ledd/2), [tredje](lov/1990-06-29-50/§4-3/ledd/3) og [femte ledd](lov/1990-06-29-50/§4-3/ledd/5), [§ 4-5 annet](lov/1990-06-29-50/§4-5/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-5/ledd/3) eller [§ 6-1 fjerde ledd](lov/1990-06-29-50/§6-1/ledd/4)forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
+
+Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved individuell utmåling av gebyret, skal det særlig legges vekt på momentene i [forvaltningsloven § 44](lov/1967-02-10/§44) tredje ledd og om det foreligger gjentagelse. Det skal også tas hensyn til om det er truffet vedtak om inndragning av utbytte fra samme forhold.
+
+Dersom bestemmelser eller vedtak som nevnt i første eller annet ledd er overtrådt av noen som har handlet på vegne av et foretak, kan overtredelsesgebyr ilegges foretaket etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44), jf. [§ 46](lov/1967-02-10/§46).
+
+EFTAs overvåkningsorgan kan ilegge et foretak overtredelsesgebyr for overtredelse av plikt til å utlevere informasjon som følger av pålegg etter [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 20 (forordning [714/2009](eu/32009r0714)).
+
+Departementet kan gi forskrift om utmåling av overtredelsesgebyr.
+
+> Tilføyd ved [lov 19 des 2003 nr. 131](lov/2003-12-19-131) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1647](forskrift/2003-12-19-1647)), endret ved [lover 30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-7), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [20 juni 2014 nr. 56](lov/2014-06-20-56) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 782](forskrift/2014-06-20-782)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)), [18 juni 2021 nr. 138](lov/2021-06-18-138) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1983](forskrift/2021-06-18-1983)), [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder første ledd), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder annet ledd).
+
+### § 10-8. (Administrativ inndragning av utbytte)
+
+Departementet kan helt eller delvis inndra utbytte fra overtredelse av bestemmelser eller enkeltvedtak nevnt i [§ 10-7](lov/1990-06-29-50/§10-7) første ledd, uten hensyn til om overtrederen har utvist skyld. Det samme gjelder ved overtredelse av forskrift, når det er særskilt bestemt i forskriften. Reguleringsmyndigheten kan helt eller delvis inndra utbytte som er oppnådd ved overtredelse av bestemmelser eller enkeltvedtak nevnt i [§ 10-7](lov/1990-06-29-50/§10-7) annet ledd, uten hensyn til om overtrederen har utvist skyld. Det samme gjelder ved overtredelse av forskrift, når det er særskilt bestemt i forskriften. Inndragning skjer overfor overtrederen, med mindre denne sannsynliggjør at utbyttet er tilfalt en annen. Inndragning kan bare skje så langt dette ikke vil være klart urimelig.
+
+I stedet for utbyttet kan hele eller deler av utbyttets verdi inndras. Som utbytte regnes også formuesgode som trer istedenfor utbytte, avkastning og andre fordeler av utbytte. Det er nettoutbyttet som kan inndras. Kan størrelsen av nettoutbyttet ikke godtgjøres, fastsettes beløpet skjønnsmessig.
+
+Oppfyllelsesfristen er fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere. Endelig vedtak om inndragning av utbytte er tvangsgrunnlag for utlegg.
+
+Departementet kan i forskrift gi nærmere bestemmelser om inndragning av utbytte, herunder om standardisert eller skjønnsmessig utmåling og fradrag for utgifter.
+
+> Tilføyd ved [lov 19 des 2003 nr. 131](lov/2003-12-19-131) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1647](forskrift/2003-12-19-1647)), endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-8), opphevet ved [lov 20 juni 2014 nr. 56](lov/2014-06-20-56) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 782](forskrift/2014-06-20-782)), tilføyd ved lov [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)).
+
+### § 10-9. (Foreldelse)
+
+Adgangen til å treffe vedtak om overtredelsesgebyr eller inndragning av utbytte foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at departementet eller reguleringsmyndigheten gir skriftlig forhåndsvarsel om vedtak om overtredelsesgebyr eller inndragning av utbytte, eller på annen måte gir skriftlig varsel om at departementet eller reguleringsmyndigheten legger til grunn at det er sannsynlig at vedkommende har brutt regelverket.
+
+> Tilføyd ved lov [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)).
+
+## Kap. 11. Ikrafttreden. Endring i andre lover.
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447) som endret ved [res. 18 des 2009 nr. 1581](forskrift/2009-12-18-1581)), endret kapittelnummer fra 8.
+
+### § 11-1. (Ikrafttreden og overgangsregler)
+
+Opphevelse av [lov av 14. desember 1917 nr. 16](lov/1917-12-14-16) om erverv av vannfall, bergverk og annen fast eiendom m.v. §§ 22 og 23 trer i kraft straks.
+
+Kongen bestemmer når de øvrige deler av loven trer i kraft.1 Kongen kan bestemme at de enkelte bestemmelser i loven skal tre i kraft til ulik tid.
+
+Bestemmelsene i [§§ 5-1](lov/1990-06-29-50/§5-1), [5-2](lov/1990-06-29-50/§5-2), [5-4](lov/1990-06-29-50/§5-4) og [5-6](lov/1990-06-29-50/§5-6) gjelder ikke for fjernvarmeanlegg i drift når loven trer i kraft.
+
+I saker hvor et utredningsprogram ble fastsatt før ikrafttredelsen av [§ 2-1](lov/1990-06-29-50/§2-1), regnes fristen i [§ 2-1 tredje ledd](lov/1990-06-29-50/§2-1/ledd/3) fra og med datoen bestemmelsen trer i kraft.
+
+For konsesjoner tildelt før ikrafttredelsen av [§ 3-1 b](lov/1990-06-29-50/§3-1b) regnes fristen i [§ 3-1 b første ledd første punktum](lov/1990-06-29-50/§3-1b/ledd/1/setning/1) fra og med datoen bestemmelsen trer i kraft.
+
+Bestemmelsen i [§ 3-4 a annet ledd](lov/1990-06-29-50/§3-4a/ledd/2) gjelder ikke for produksjonsanlegg som er bygget eller bygging er igangsatt, på det tidspunktet bestemmelsen trer i kraft.
+
+> Endret ved [lover 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 8-1), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder fjerde og femte ledd), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder sjette ledd).
+
+### § 11-2. (Forholdet til eldre lovgivning)
+
+Forskrifter fastsatt med hjemmel i lovbestemmelser som oppheves etter [§ 11-3](lov/1990-06-29-50/§11-3) skal gjelde inntil de blir endret eller opphevet i medhold av denne lov.
+
+Tillatelser gitt i medhold av lovbestemmelser som oppheves etter [§ 11-3](lov/1990-06-29-50/§11-3) skal fortsatt gjelde til de løper ut. Kraftleiekonsesjoner inntil 5.000 kW faller bort straks.
+
+Er det før denne lov trer i kraft søkt om tillatelse etter lovbestemmelser som oppheves etter [§ 11-3](lov/1990-06-29-50/§11-3), skal søknaden avgjøres etter reglene i denne lov.
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 8-2).
+
+### § 11-3. (Endring i andre lover)
+
+– – –
+
+> Endret ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 8-3).

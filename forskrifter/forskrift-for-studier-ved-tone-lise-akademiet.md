@@ -1,0 +1,418 @@
+---
+id: "sf-20170901-1416"
+slug: "forskrift-for-studier-ved-tone-lise-akademiet"
+type: "forskrift"
+ref_id: "forskrift/2017-09-01-1416"
+title: "Forskrift for fagskolestudier ved Fagskolen TLA AS"
+short_title: "Forskrift for studier ved Tone Lise Akademiet"
+language: "no"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2017-09-01"
+last_change_in_force: "2019-01-22"
+last_updated: null
+xml_hash: "aa940a46ececc9a43bcc9c4527e09b15f43b49ce6326f1c8f9d0bcb9d594028b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift for fagskolestudier ved Fagskolen TLA AS
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1-1. Forskriftens virkeområde
+
+Styret ved Fagskolen TLA AS har vedtatt denne forskrift som regulerer opptak, studier og eksamen ved Fagskolen TLA AS.
+
+> Tilføyd ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 1-2. Fagskolens virksomhet
+
+[Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven) gjelder for virksomheten fagskolen driver.
+
+> Tilføyd ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 1-3. Formål
+
+Formålet med forskrift, er å fremme gode arbeidsvaner og god orden, og slik legge til rette for et godt læringsmiljø. Forskrift skal bidra til godt samarbeid, trivsel og medansvar.
+
+Forskrift gjelder for studenter på Fagskolen TLA AS. Det gjelder på fagskolens område, ved fagskolens nærområde, ved utplassering, eksterne turer i regi av fagskolen og øvrige aktiviteter i fagskolens regi. Undervisningen foregår i fagskolens lokaler, med mindre det er gitt beskjed om annet fra fagskolen.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662)(tidligere § 1-1).
+
+### § 1-4. Studentenes ansvar
+
+Studenten plikter å sette seg inn i forskriften. Studenten kan ikke påberope manglende kjennskap til forskriften som unnskyldning for regelbrudd.
+
+Studenten plikter å sette seg inn i informasjonen som er tilgjengelig på fagskolen, om utdanningen der studenten er påmeldt. Dette gjelder særlig informasjon om undervisning, ordensregler og retningslinjer for gjennomføring av eksamen.
+
+Studentene ved fagskolen har rett til opplæring, vurdering, og dokumentasjon i samsvar med bestemmelsene i [lov 8. juni 2018 nr. 28](lov/2018-06-08-28) om høyere yrkesfaglig utdanning (fagskoleloven).
+
+Studentene plikter å betale fastsatte skolepenger og semesteravgifter i henhold til fagskolens studiekontrakt.
+
+Studentene plikter å delta aktivt i den opplæringen som blir gitt, møte opp til undervisning og veiledning, og delta i de evalueringer og vurderinger som fagskolen tilbyr. Studentene plikter å sette seg inn i aktuelle studieplaner og studentreglement ved fagskolen. Fagskolen skal legge til rette for at studentene kan gjøre seg kjent med slikt materiale.
+
+Studentenes representant i skolens styre har møte-, tale- og forslagsrett når styret behandler saker som har betydning for studentenes velferd, eller gjennomføring av godkjent fagskoleutdanning. Studentrepresentantene skal velges i samsvar med [fagskoleloven § 3](lov/2018-06-08-28/§3). Dette fremkommer i fagskolens reglement/vedtekter for studentorgan.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 1-2).
+
+### § 1-5. Fagskolens ansvar
+
+Fagskolen skal gjennomføre undervisningen, slik den er definert i studieplanen. Fagskolen kan gjøre mindre endringer i undervisningen og pensum dersom spesielle forhold tilsier dette, men fagskolen skal da informere og tilrettelegge så godt det lar seg gjøre.
+
+Fagskolen plikter å informere studentene om forskriften og å gjøre den tilgjengelig for studentene.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 1-3).
+
+### § 1-6. Fravær fra obligatorisk undervisning
+
+Fagskolens utdanninger har obligatorisk undervisning. Se den enkelte studieplan for mer informasjon. Dersom krav til deltagelse på obligatorisk undervisning ikke overholdes, vil studenten risikere å miste studieplassen. Studiene ved fagskolen er intensive og krever 100 % deltagelse for å gå opp til eksamen, fravær utover 6 dager anses som avbrutt studie.
+
+Lengre fravær som skyldes sykdom, ulykker eller lignende, og som dokumenteres med legeerklæring, kan etter skriftlig søknad til fagansvarlig gi fritak for tilstedeværelsesplikten, men obligatorisk undervisning må tas igjen for å ha mulighet til å fullføre eksamen.
+
+Avslag på søknad om fritak for tilstedeværelsesplikten er enkeltvedtak og kan påklages. Se [kapittel 5](forskrift/2017-09-01-1416/kap5) for informasjon om klagebehandling.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 1-4).
+
+### § 1-7. Utestenging og bortvisning
+
+En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av styret bortvises fra fagskolen i inntil ett år. Hvis en student på tross av skriftlig advarsel fra fagskolen ikke etterkommer et vedtak om bortvisning, kan styret vedta å utestenge studenten fra utdanningen i inntil ett år.
+
+Styret kan vedta at en student som har skapt fare for liv eller helse for, eller har opptrådt grovt usømmelig overfor, noen som studenten har møtt i forbindelse med undervisning eller praksisopplæring, skal utestenges fra fagskoleutdanning med klinisk undervisning og praksisstudier og fratas retten til å gå opp til eksamen i slik utdanning ved fagskolen i inntil tre år. Det samme gjelder dersom en student har brutt lovfestet taushetsplikt.
+
+Styret kan vedta at en student som har benyttet et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden som nevnt i [fagskoleloven § 9](lov/2018-06-08-28/§9) første og annet ledd, eller som har fusket eller forsøkt å fuske som nevnt i [fagskoleloven § 9](lov/2018-06-08-28/§9) første ledd tredje punktum, skal utestenges fra all utdanning ved fagskolen og fratas retten til å gå opp til eksamen ved fagskolen i inntil ett år. Tilsvarende gjelder for en student som forsettlig har medvirket.
+
+Et vedtak om å bortvise eller utestenge en student kan bare treffes med minst to tredels flertall i styret. En student har rett til å uttale seg før det treffes vedtak i en sak om bortvisning og utestenging. Vedtaket kan påklages til Nasjonal klagenemnd for fagskoleutdanning.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 1-5).
+
+## Kapittel 2. Opptak
+
+### § 2-1. Opptak
+
+Opptak av studenter foretas av opptaksansvarlig ved Fagskolen TLA AS. Opptak etter realkompetansevurdering gjennomføres av opptaksansvarlig i samarbeid med studieleder eller fagansvarlig på det aktuelle utdanningstilbudet.
+
+Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ved de enkelte utdanningene innen rammene av NOKUT sin godkjenning.
+
+### § 2-2. Formelle opptakskrav
+
+Fagskoleutdanningene bygger på fullført og bestått videregående opplæring, eller tilsvarende realkompetanse, det vil si nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR). Fullført og bestått yrkesrettet utdanninger som frisør, hudpleier, fotterapeut, helse, omsorg og oppvekst, design og håndverksfag i minimum 1 år.
+
+Formelt opptakskrav er:Fullført og bestått videregående opplæring i ett av utdanningsprogrammene nedenunder:Tegning, form og fargeMedier og kommunikasjonDramaHudpleieInteriørdesign/utstillingsdesignKunst, design og arkitekturHelsefagFotterapieller ett av svennebrevene under:FrisørfagetFotograffagetMaskør- og parykkmakerfagetKostymesyerfaget.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 2-3. Opptak på bakgrunn av realkompetanse
+
+Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 19 år i løpet av året det søkes opptak. Opptakskomite som består av rektor og studieleder foretar realkompetansevurdering. Rektor fatter vedtak om opptak på bakgrunn av realkompetanse. Realkompetansen vurderes opp mot læringsutbytte på nivå 4A i Nasjonalt kvalifikasjonsrammeverk for livslang læring. Realkompetansevurdering skjer etter følgende retningslinjer:Søkere:Må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte svennebrev eller vitnemål fra utdanningsprogram som gjelder for formelt opptakskravMå levere dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.Dokumentasjon:Må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte svennebrev for formell kompetanse og for fellesfagene på vg1 og vg2 i yrkesfaglige programområder.Realkompetansen kan være oppnådd både gjennom utdanning og praktisk relevant yrkeserfaring over 3 år.
+
+- Et av følgende fagbrev + 1 års relevant yrkeserfaring:Negletekniker/makeupartist som vurderes mot utdanningsprogrammet hudpleiefagAktivitør som vurderes mot utdanningsprogrammet formgivingsfagBlomsterdekoratør som vurderes mot utdanningsprogrammet formgivingsfag.
+- Et av følgende svennebrev + 1 års relevant yrkeserfaring:GullsmedSølvsmedHåndveverKjole- og draktsyerModistBunadtilvirkerHerreskredderMediedesignerMediegrafiker.
+- Relevant yrkeserfaring som godkjennes er medarbeider på en eller flere av følgende arbeidsplasser:HudpleieklinikkApotekButikker innen klær, mote og accessoirerTeater og sceneTv, film og reklamebyråFrisørsalongHudpleiesalong/spaNegleklinikkModellbyråParfymeriBedrifter innen tekstilbransjenBrudesalongBedrifter som jobber med:mediedesignblogging/videoblogging (vloggere) innen skjønnhet og velværefotterapidesignstyling av moteinteriørutstillingsdesign.
+
+Søker må også dokumentere tilstrekkelige ferdigheter i norsk til å kunne gjennomføre studiet. Ferdighetene skal ligge på et nivå som tilsvarer B2 norskprøve eller den kompetansen som oppnås ved Norsk Vg1 studieforberedende eller Norsk Vg2 yrkesfaglige utdanningsprogram.
+
+Realkompetanse er all den kompetansen en person har skaffet seg gjennom utdanning, lønnet eller ulønnet arbeid, organisasjonserfaring, fritidsaktiviteter eller på annen måte.
+
+Søkere som ønsker å bli realkompetansevurdert må være fylt minimum 19 år i opptaksåret.
+
+Realkompetanse vurderes av opptaksansvarlig. Dersom en søkers realkompetanse er vurdert som likestilt med det formelle opptaksgrunnlaget, gjelder vurderingen i utgangspunktet også hvis studenten søker opptak til utdanningen senere år. Fagskolen har rett til å foreta en ny vurdering, og eventuelt endre vedtaket.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 2-4. Tilstrekkelig norskkunnskaper
+
+Søkeren må ha kompetanse i norsk hovedmål og norsk muntlig tilsvarende Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring. Dokumentasjon av formell kompetanse i norskkunnskaper må fremlegges i form av karakterutskrift enten fra Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglig utdanningsprogram i videregående.
+
+Søkere som ikke har formell kompetanse i norskkunnskaper må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring.
+
+> Tilføyd ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 2-5. Opptak for søkere med utenlandsk utdanning/annet morsmål
+
+Søkere med utenlandsk utdanning, må ha kvalifikasjoner på nivå 4 i NKR. De faglige kvalifikasjonene må tilsvare kvalifikasjonene i utdanningsprogrammet fra videregående opplæring, som kreves for opptak til den aktuelle utdanningen.
+
+Søkere med annen utdanning enn norsk eller nordisk videregående opplæring, må dokumentere kunnskaper i norsk tilsvarende Norsk Vg1 studieforberedende, Norsk Vg2 yrkesfaglige utdanningsprogram eller bestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universitetene eller bestått B2 norskprøven for voksne innvandrere fra VOX.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 2-4).
+
+### § 2-6. Prosedyre for opptak
+
+Søknad om opptak for fagskolestudier registreres via søknadsskjema, til det aktuelle studiet på nettsiden tilhørende Fagskolen TLA AS.
+
+Når søknaden er behandlet, vil søkere med relevant kompetanse bli kontaktet av fagskolen. Søkere vil bli tilbudt skoleplass fortløpende.
+
+Dersom det er flere søknader enn plasser, vil kvalifiserte søkere plasseres på venteliste i den rekkefølgen søknadene er mottatt.
+
+Søkere som får tilbud om studieplass, aksepterer tilbudet ved å signere kontrakt med fagskolen, innen oppgitt frist. Studenten kan miste studieplassen hvis fagskolen ikke har mottatt signert kontrakt innen fristen.
+
+All praksis, utdanning og andre forhold som skal gi grunnlag for opptak, må dokumenteres med attesterte kopier. Søkere som søker om opptak på formelt grunnlag, skal legge ved kopi av vitnemål fra videregående opplæring. Attester for arbeidserfaring må angi lengde på arbeidsforhold, stillingsprosent og arbeidsinnhold. Attester må være datert for å komme i betraktning.
+
+Søkere kan søke om studieplass før de har avlagt alle eksamener og eller bestått/fullført. I slike tilfeller vil søkeren eventuelt få betinget opptak i påvente av eksamensresultatene. Søkeren må sende vitnemål/bekreftelse på bestått utdanning til fagskolen innen 1 måned før studiet starter. Hvis ikke, bortfaller tilbudet om studieplass.
+
+Studenten kan innen 14 dager fra kontraktinngåelse gå fra studiekontrakten, etter reglene om angrerett etter angrerettloven.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 2-5).
+
+### § 2-7. Klage ved avslag på søknad om opptak
+
+Vedtak om opptak er enkeltvedtak og kan påklages. Se [kapittel 5](forskrift/2017-09-01-1416/kap5) for informasjon om klagebehandling.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 2-6).
+
+### § 2-8. Krav til politiattest
+
+Ved opptak til eller underveis i utdanningene der studenten kan komme i kontakt med mindreårige som del av klinisk undervisning eller praksisopplæring, kan det kreves at studenten legger frem politiattest som omtalt i [politiregisterloven § 39](lov/2010-05-28-16/§39) første ledd.
+
+Hvis det er gitt særlige regler om politiattest for bestemte typer yrkesutøving, gjelder disse tilsvarende for studenten som deltar i praksisopplæring eller klinisk undervisning.
+
+En student som er dømt for forhold som innebærer at studenten må anses som uskikket til å delta i arbeid med bestemte grupper mennesker, kan utestenges fra praksisopplæring eller klinisk undervisning. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+
+Den som er siktet eller tiltalt for straffbart forhold, som omtalt i [politiregisterloven § 39](lov/2010-05-28-16/§39) første ledd, eller i regler om krav til politiattester som nevnt i annet ledd, kan utestenges fra praksisopplæring eller klinisk undervisning til rettskraftig dom foreligger eller saken er henlagt. Studenten kan bare utestenges dersom praksisopplæring eller klinisk undervisning må regnes som uforsvarlig på grunn av kontakten studenten da får med mennesker.
+
+Styret avgjør, etter uttalelsene fra fagskolen, om studenten skal nektes retten til å delta i klinisk undervisning eller praksisopplæring.
+
+Vedtak om utestenging etter denne bestemmelsen kan påklages til Nasjonal klagenemnd for fagskoleutdanning. Departementet kan gi forskrift om saksbehandling ved utestenging på grunn av straffbare forhold.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 2-7).
+
+### § 2-9. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
+
+Studenter skal ikke bruke klesplagg som helt eller delvis dekker ansiktet i forbindelse med undervisning eller tilsvarende, inkludert på turer, ekspedisjoner og lignende i tilknytning til utdanningsinstitusjonens undervisning. Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, læringsmessige, helsemessige eller sikkerhetsmessige forhold.
+
+En student som tross skriftlig advarsel har brukt klesplagg som helt eller delvis dekker ansiktet i strid med første ledd, kan bortvises i inntil ett år. Hvis studenten til tross for skriftlig advarsel ikke etterkommer et vedtak om bortvisning, kan studenten utestenges fra utdanningen i inntil ett år. Vedtak om bortvisning kan treffes av rektor eller den rektor bemyndiger. Vedtak om utestengning treffes av styret selv eller institusjonens klagenemnd. Vedtak om bortvisning eller utestengning kan påklages til institusjonens klagenemnd eller nasjonalt klageorgan for fagskoleutdanning, jf. § 13.
+
+> Tilføyd ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+## Kapittel 3. Innpassing og fritak
+
+### § 3-1. Innpassing av emner
+
+Studenter kan søke om å få godkjent tidligere bestått fagskoleutdanning som en del av utdanningen. Utdanningen må tilfredsstille de faglige kravene for emnet eller emnene det søkes om innpassing for. Det er kun emner fra andre godkjente fagskoleutdanninger på samme eller nært beslektede fagområder og med samme antall fagskolepoeng, som kan innpasses i utdanningen.
+
+### § 3-2. Fritak for deler av utdanningen
+
+Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på grunnlag av dokumentert oppnådd likeverdig kompetanse. Relevant kompetanse kan for eksempel være utenlandsk utdanning, folkehøyskole, voksenopplæring eller høyere utdanning på samme eller beslektet fagområde. Fritak kan også gis på grunnlag av realkompetanse. Det gis ikke fritak for utdanning på videregående opplæringsnivå.
+
+### § 3-3. Prosedyre ved vurdering av innpassing og fritak
+
+Søknad om innpass eller fritak må inneholde nødvendig dokumentasjon av omfang og innhold i emnet som studenten ønsker godskrevet. Eksempler på dokumentasjon er vitnemål, kompetansebevis, attester, studieplan med mer.
+
+Opptaksansvarlig i samarbeid med studieleder på det aktuelle utdanningstilbudet foretar en faglig vurdering av innsendt dokumentasjon. Utgangspunktet for vurderinger om innpassing og fritak er læringsutbyttet for den aktuelle utdanningen eller det aktuelle emnet, og fagskolepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning. Dersom utdanningen eller emnet ikke inneholder læringsutbyttebeskrivelser, kan studenten dokumentere læringsutbyttet gjennom studieplan eller lignende.
+
+### § 3-4. Klage ved avslag på søknad om fritak og innpassing
+
+Vedtak om innpassing og fritak er enkeltvedtak og kan påklages. Se [kapittel 5](forskrift/2017-09-01-1416/kap5) for informasjon om klagebehandling.
+
+## Kapittel 4. Eksamen
+
+### § 4-1. Eksamens- og vurderingsformer
+
+Ved fagskolens utdanninger benyttes følgende eksamens- og vurderingsordninger Skriftlig skoleeksamen, praktisk skoleeksamen og mappevurdering.
+
+Det fremgår av studieplanen hvilke eksamens- og vurderingsformer som benyttes i hver enkelt utdanning.
+
+### § 4-2. Vilkår og gjennomføring
+
+Kandidaten kan senest møte opp innen én – 1- time etter at eksamen har startet og har ikke anledning til å forlate eksamenslokalet den første timen etter at eksamenen har startet.
+
+Mobiltelefoner og annet elektronisk utstyr skal være avslått og legges i sekk eller veske. Dette skal ikke aktiveres før kandidaten har forlatt eksamenslokalet.
+
+Bordene skal være ryddet for gjenstander senest ti minutter før eksamen starter. Yttertøy, lue, sekk eller veske skal settes enten foran eller bak i eksamenslokalet der dette er mulig.
+
+Kandidaten må forevise gyldig legitimasjon ved gjennomføring av eksamen. Godkjent legitimasjon er studentkort, pass, norsk førerkort eller bankkort med bilde.
+
+Opplysninger om hjelpemidler er opplyst på forsiden av eksamensoppgaven. Dersom kandidaten oppbevarer ulovlige hjelpemidler under eksamen, vil disse bli beslaglagt, og kandidaten vil bli rapportert som mistenkt for forsøk på fusk. Eksamensbesvarelsen skal være tydelig. Kandidaten må sørge for at skriften på arket er leselig.
+
+Kladdeark er ikke gyldig som innleveringsark, og vil ikke bli sendt til sensur. I de tilfeller der det skal brukes kladdeark så vil ark bli utdelt fra fagskolen. Når kandidaten er klar til å levere sin besvarelse, skal kandidaten gi tegn til eksamensinspektør som samler inn eksamen. Kandidaten leverer selv inn besvarelsen til hovedvakten. Når eksamensbesvarelsen er innlevert skal kandidaten forlate lokalet umiddelbart.
+
+Kandidaten kan skrive på sin eksamensbesvarelse til angitt eksamenstid er over. All skriving skal opphøre når eksamenstiden er ute. Dette gjelder også utfylling av headingen. Hvis ikke dette overholdes, vil det bli rapportert som mistanke om forsøk på fusk.
+
+Kandidater som må avbryte eksamen på grunn av sykdom, skal ta kontakt med eksamensinspektør i lokalet. Besvarelsen skal i slike tilfeller ikke leveres inn. Dersom en kandidat velger å levere inn besvarelse på tross av sykdom som eventuelt oppstår, har kandidaten brukt ett eksamensforsøk.
+
+Besvarelser som er levert, kan ikke trekkes tilbake.
+
+### § 4-3. Mappevurdering
+
+Flere innleveringer i løpet av ett semester som vurderes samlet som en mappe etter siste innlevering.
+
+Alle obligatoriske oppgaver må leveres innen gitt frist for å kunne motta tilbakemelding og veiledning på oppgaven. Oppgavebesvarelser kan bearbeides og forbedres helt frem til summativ vurdering ved slutten av semesteret.
+
+Mappeinnhold og formelle krav om utforming av mappen spesifiseres i et eget informasjonsskriv (mappekrav) tilknyttet det enkelte utdanningstilbud. Ved kontinuasjon kan det bli utformet nye mappekrav.
+
+### § 4-4. Karakterer og vitnemål
+
+Fagskolen benytter følgende karakterskala:AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser stor grad av selvstendighet.BMeget godMeget god prestasjon som er tilfredsstillende på de fleste områder.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon som er under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+
+Eksamenskarakterene vil normalt bli offentliggjort samme dag som studenten avslutter. Etter fullført og bestått utdanning vil vitnemål bli tilsendt 30 virkedager etter studentene avslutter. I de tilfeller der studieavgiften ikke er betalt, vil ikke kandidaten kunne få noen resultater av eksamen.
+
+Fagskolen benytter en 5 trinns karakterskala med følgende symboler: A – B – C – D – E – F. Karakteren F betyr at eksamen eller mappeinnlevering ikke er bestått. I tillegg benyttes karakterskalaen Bestått/Ikke bestått (B/IB).
+
+Studenten er selv ansvarlig for å holde seg orientert om eksamensresultatene i løpet av skoleåret.
+
+Fagskolen dokumenterer fullført og bestått fagskoleutdanning med 30 fagskolepoeng i vitnemålet. Utstedelse av vitnemål forutsetter at studieavgiften er betalt i sin helhet. Fagskolen utsteder kun ett vitnemål til hver student. En avgift vil påløpe ved bestilling av nytt vitnemål (duplikat).
+
+### § 4-5. Vilkår for å avlegge eksamen
+
+Studenten har rett til å avlegge avsluttende eksamen når han/hun har signert studiekontrakten, akseptert kjøpsbetingelser og betalt forfalt studieavgift og eksamensavgift. Studenten har bestått alle obligatoriske arbeidskrav slik de er beskrevet i studieplanen og/eller emnebeskrivelsensenest 1 uke før eksamen.
+
+### § 4-6. Informasjon om eksamen og oppmelding til eksamen
+
+Det publiseres en eksamensplan for studentene til hvert semester. Studenter vil ved å godkjenne studieplanen sin være automatisk påmeldt til de eksamener som fremgår av studieplanen.
+
+Studenter som ikke ønsker å ta en eksamen de er oppmeldt til, må selv melde seg av eksamen innen fristen. En student som trekker seg under eksamen uten grunn, eller unnlater å møte uten å ha meldt seg av eksamen, betraktes som å ha fremstilt seg til eksamen.
+
+Styret oppnevner sensor(er). Sensor(ene) skal være interne og eksterne.
+
+Der det benyttes flere sensorer skal det på forhånd være avklart hvem som har det avgjørende ordet ved eventuell uenighet om karakteren. Det er den eksterne sensoren som har det avgjørende ordet dersom det er uenighet mellom sensorene om karakteren.
+
+### § 4-7. Tilrettelegging av eksamen
+
+Studenter, som av medisinske eller andre årsaker, mener seg berettiget til utvidet tid ved gjennomføring av eksamen, og/eller har behov for spesielle hjelpemidler/hjelpetiltak, må søke om dette skriftlig til akademiets e-postadresse og sendes innen gitte frister. Ved akutte skader/sykdommer kan søknad sendes så snart som mulig etter at behovet er oppstått. Søknaden må dokumenteres med legeattest eller annen relevant dokumentasjon. Dersom studenten får avslag kan studenten klage til fagskolens administrasjon.
+
+En student som har gyldig fravær ved teoretisk eksamen, kan få forlenget frist. Det gis ikke forlengelse utover 14 dager. Søknad om forlenget frist ved teoretisk eksamen sendes fagskolen på e-post. Hvis ikke studenten kan levere ved ny utsatt frist på grunn av gyldig fravær, må studenten ta utsatt eksamen.
+
+For å fullføre praktisk eksamen må studenten møte til oppsatt tid og har studenten gyldig fravær må praktisk eksamen flyttes til neste avsluttende studium. Ved ikke bestått eksamen har studenten mulighet for å gå opp til eksamen 3 ganger og det vil påløpe et eksamensgebyr fra 2 eksamensforsøk.
+
+Vedtaket er et enkeltvedtak og kan påklages. Se [kapittel 5](forskrift/2017-09-01-1416/kap5) for informasjon om klagebehandling.
+
+### § 4-8. Sykdom eller fravær fra eksamen
+
+Fravær fra eksamen grunnet sykdom skal dokumenteres med sykemelding fra lege. Andre årsaker som hindrer studenten fra å møte, som for eksempel alvorlig sykdom eller død i nær familie, må også kunne dokumenteres. Dersom fraværet ikke dokumenteres ansees studenten å ha fremstilt seg til eksamen. Fravær som dokumenteres ansees som gyldig fravær.
+
+Dersom studenten blir syk under eksamen, kan han/hun forlate lokalet. Sykemeldingsskjema og legeerklæring må sendes administrasjonen innen 48 timer for at eksamen ikke skal telle som et eksamensforsøk.
+
+### § 4-9. Kontinuasjonseksamen
+
+En student som har gyldig fravær på eksamen må selv melde seg opp til ny eksamen innen to kalenderår etter ordinær eksamen. Studenter som har strøket på eksamen eller som ønsker å forbedre sin karakter, kan ta kontinuasjonseksamen.
+
+Kontinuasjonseksamen avlegges mot eksamens avgift. Studenter som har gyldig fravær fra eksamen, kan gjennomføre ny eksamen kostnadsfritt. En eksamen kan kun kontinueres 3 (tre) ganger.
+
+### § 4-10. Klage på karakterfastsetting
+
+Studenten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner. Studenten må fremsette krav om begrunnelse innen 3 (tre) uker fra karakteren ble kunngjort dersom begrunnelse ikke er gitt sammen med karakteren. Krav om begrunnelse for karakter skal sendes til administrasjonen ved fagskolen. Ved muntlig eksamen må studenten be om begrunnelse umiddelbart etter at karakteren er meddelt. Sensor skal normalt gi begrunnelsen innen 2 (to) uker etter at studenten har bedt om den. I begrunnelsen skal sensor gjøre rede for de generelle prinsippene som er lagt til grunn for bedømmelsen samt den konkrete bedømmelsen av studentens prestasjon. Sensor kan velge om begrunnelsen gis skriftlig eller muntlig.
+
+Studenten har rett til å klage på karakterfastsettingen. Klage på karakterer skal sendes til administrasjonen ved fagskolen innen 3 (tre) uker etter at karakteren er gjort kjent for studenten, eller 3 (tre) uker etter at studenten har mottatt begrunnelse for karakteren. Klagen må være datert, underskrevet og bør inneholde en begrunnelse for klagen. Skjema fås i skolensadministrasjon.
+
+Studenten kan ikke klage på bedømmelse av muntlig eksamen. Det samme gjelder annen bedømmelse som på grunn av prøvens art (for eksempel praksisopplæring) ikke lar seg etterprøve.
+
+Hvis karakteren er fastsatt på grunnlag av både skriftlig og muntlig prøve, og bedømmelsen av den skriftlige prøven blir endret, holdes ny muntlig eksamen for fastsetting av endelig karakter. Ved klage på karakter oppnevner fagansvarlig ny(e) sensor(er).
+
+De(n) nye sensoren(e) skal ikke gjøres kjent med hvilken karakter besvarelsen har fått ved ordinær sensur. De(n) nye sensoren(e) setter den endelige karakteren. Karakteren kan justeres både opp og ned i forhold til karakteren som ble gitt i den opprinnelige sensuren. Karakteren fra om-sensur er endelig og kan ikke påklages. Klagebehandlingen kan ta opptil 3 (tre) uker, og resultatet sendes skriftlig til studenten.
+
+### § 4-11. Klage på formelle feil ved eksamen
+
+Studenter som har avlagt eksamen kan klage over formelle feil ved eksamensoppgaver og/eller eksamensavvikling. Klage over formelle feil ved eksamen må fremsettes skriftlig senest innen tre (3) uker etter at eksamen er avviklet. Klagen sendes til administrasjonen ved fagskolen. Formelle feil kan være feil ved eksamensoppgaven, eksamensavviklingen eller gjennomføringen av sensur.
+
+Dersom klagebehandlingen avdekker at det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, skal sensuren oppheves og det skal foretas ny sensurering.
+
+Ved ny sensurering benyttes ny(e) sensor(er). Karakterfastsetting ved ny sensurering etter denne paragrafen kan påklages etter reglene i [§ 4-10](forskrift/2017-09-01-1416/§4-10).
+
+### § 4-12. Annullering av eksamen
+
+Styret kan annullere resultatet av en eksamen, prøve eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i. Styret kan også annullere resultatet av en eksamen, prøve eller lignende og godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med eksamenen, prøven eller lignende eller under gjennomføringen av emnet.
+
+Styret kan annullere fritak for eller innpassing av utdanning og kompetanse som en student har fått ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden.
+
+Vedtak om annullering etter første og annet ledd kan påklages av studenten til Nasjonal klagenemnd for fagskoleutdanning.
+
+Adgangen til annullering foreldes ikke.
+
+Etter at det foreligger vedtak om annullering, skal eventuelle vitnemål eller karakterutskrifter leveres tilbake til fagskolen. Et endelig vedtak om annullering etter første eller annet ledd utgjør et særlig tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
+
+### § 4-13. Fusk eller forsøk på fusk
+
+Handlinger eller forhold som tar sikte på å gi studenten, eller en medstudent, et uberettiget fortrinn regnes som fusk. Det samme gjelder for handlinger som medfører at studentens, eller en medstudents, kunnskaper og ferdigheter ikke blir prøvd og vurdert på en upartisk og faglig betryggende måte.
+
+Studenten skal ikke ha ulovlige hjelpemidler tilgjengelig under eksamen eller prøve.
+
+Studenten skal ikke levere en besvarelse som er hentet ut fra Internett og helt eller delvis utgitt som egen besvarelse.
+
+Studenten skal ikke levere en besvarelse som helt eller delvis er utarbeidet av en annen person.
+
+Studenten skal ikke levere en besvarelse som helt eller delvis er brukt av studenten ved en tidligere eksamen eller prøve.
+
+Ved skriftlig eksamen i fagskolens eller andre godkjente lokaler vil fusk eller forsøk på fusk medføre at eksamensinspektøren sender en skriftlig rapport til eksamensteamet.
+
+## Kapittel 5. Klagebehandling
+
+### § 5-1. Klagerett
+
+En student har klagerett på alle enkeltvedtak fattet av fagskolen. Alle enkeltvedtak skal være skriftlige og inneholde en begrunnelse for vedtaket.
+
+Dersom begrunnelse ikke foreligger sammen med vedtaket, kan studenten henvende seg til den som fattet vedtaket og be om begrunnelse.
+
+### § 5-2. Klagefrist
+
+Klagefrist på alle enkeltvedtak er 3 (tre) uker etter at studenten har mottatt vedtaket eller etter at studenten burde vært kjent med forholdet som begrunner klagen.
+
+Dersom studenten har bedt om begrunnelse for vedtaket, gjelder klagefristen fra begrunnelsen er mottatt.
+
+### § 5-3. Klagens innhold
+
+En klage må være skriftlig og inneholde informasjon om vedtaket det klages på, og endringen som ønskes i vedtaket det klages over. Klagen bør også være begrunnet. Klagen må være undertegnet og datert.
+
+### § 5-4. Veiledning, hjelp og støtte
+
+Fagskolen skal informere studenten om klageadgang, klagefrist, klageinstans og fremgangsmåte ved klage, samt retten til å se sakens dokumenter. Denne informasjonen skal gis i alle enkeltvedtak.
+
+Studenten har rett på å få hjelp og støtte fra fagskolens administrasjon til utforming av en skriftlig klage. Dersom klagen gjelder en disiplinærsanksjon har studenten rett til å la seg bistå i alle trinn av saksbehandlingen, for eksempel av fagskolens studentrepresentant.
+
+### § 5-5. Klageinstans
+
+Studieadministrasjonen oppretter klagenemnd på vegne av styret ved Fagskolen TLA AS. Klagenemnden skal ha en sammensetning som oppfyller kravene i universitets- og [høyskoleloven § 5-1](lov/2005-04-01-15/§5-1) (1) og [fagskoleloven § 13](lov/2018-06-08-28/§13).
+
+Klagenemnden behandler saker innen fagskolelovenInnpassing og fritak ([fagskoleloven § 1](lov/2018-06-08-28/§1)b annet ledd)Klage over formelle feil ved eksamen ([fagskoleloven § 7](lov/2018-06-08-28/§7))Annullering av eksamen ([fagskoleloven § 9](lov/2018-06-08-28/§9))Utestenging og bortvisning ([fagskoleloven § 10](lov/2018-06-08-28/§10))Vurdering av skikkethet ([fagskoleloven § 11](lov/2018-06-08-28/§11))Krav til politiattest ([fagskoleloven § 12](lov/2018-06-08-28/§12)).
+
+Klagenemnda ved Fagskolen TLA AS har fem medlemmer med personlige varamedlemmer:Leder og varamedlem for leder skal fylle de lovbestemte krav for lagdommere.Leder og varamedlem for leder skal ikke være ansatt ved institusjonen.To av medlemmene skal være ansatte: Prosjektleder og faglærer.To av medlemmene skal være studenter
+
+Ved klage på karakterfastsetting oppnevnes nye sensorer. Slike klager skal ikke behandles av klageinstansen. Se [§ 4-10](forskrift/2017-09-01-1416/§4-10) for mer informasjon.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 5-6. Saksgang ved klage
+
+Studenten skal sende klagen skriftlig til administrasjonen. Når fagskolen har mottatt klagen informeres studenten om at klagen er mottatt og om videre saksgang.
+
+Klagen vurderes først av avdelingen som fattet vedtaket. Hvis den som fattet vedtaket ikke finner grunn til å omgjøre vedtaket, skal den som fattet vedtaket sende klagen videre til fagskolens klagenemnd.
+
+Klagenemnda kan om nødvendig innhente ytterligere informasjon fra fagskolens administrasjon og fra den som klager. Klagen skal være så godt opplyst som mulig før vedtaket fattes.
+
+Søkeren har krav på et begrunnet svar på klagen innen 3 (tre) uker fra klagenemnda mottok klagen. Avgjørelsen er endelig og kan ikke påklages.
+
+## Kapittel 6. Dokumentasjon
+
+> Overskrift endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 6-1. Krav på vitnemål eller annen dokumentasjon
+
+Studentene har krav på å få dokumentert fullført utdanning gjennom utstedelse av vitnemål, jf. § 19 i [fagskoleloven.](lov/2018-06-08-28/§19)
+
+Vitnemålet skal dokumentere det overordnede læringsutbyttet til utdanningen og oppnådd kvalifikasjon i henhold til kravene for utstedelse av vitnemål. NOKUT kan gi forskrift om krav til vitnemålets innhold.
+
+Alle avsluttende vurderinger og eksamenskarakterer skal fremgå av vitnemålet. Dersom kun deler av utdanningen er fullført, har studenten rett til karakterutskrift som viser beståtte emner.
+
+Det gis 30 studiepoeng for ett halvt år bestått fagskoleutdanning på heltid, og ett år bestått fagskoleutdanning på deltid. Det totale arbeidstimer er 750 timer jf. [tilsynsforskriften kapittel 3](forskrift/2013-12-19-1636/kap3) § 3-1 punkt 6.
+
+For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon på fullført utdanning, må minst 30 av studiepoengene være avlagt ved fagskolen. Det er normalt den fagskolen som har en student ved fullført utdanning, som har ansvaret for å utstede vitnemålet. Ved innpassing mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene, jf. [forskrift 17. mars 2017 nr. 334](forskrift/2017-03-17-334) om fagskoleutdanning [§ 1-2](forskrift/2017-03-17-334/§1-2).
+
+Fravær føres ikke på vitnemål og karakterutskrift.
+
+> Tilføyd ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662).
+
+### § 6-2. Nærmere regler
+
+Styret kan fastsette nærmere regler til forskriften der dette er angitt i forskriften.
+
+Styret kan fastsette generelle administrative bestemmelser for gjennomføring av opptak, studier og eksamen, for behandling av saker om fusk og om tildeling av grader og vitnemål.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 6-1).
+
+### § 6-3. Ikrafttredelse
+
+Forskriften trer i kraft 1. september 2017.
+
+> Endret ved [forskrift 22 jan 2019 nr. 662](forskrift/2019-01-22-662) (tidligere § 6-2).

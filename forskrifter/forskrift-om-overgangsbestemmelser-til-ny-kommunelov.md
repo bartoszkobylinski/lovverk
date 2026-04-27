@@ -1,0 +1,50 @@
+---
+id: "sf-20190627-0937"
+slug: "forskrift-om-overgangsbestemmelser-til-ny-kommunelov"
+type: "forskrift"
+ref_id: "forskrift/2019-06-27-937"
+title: "Forskrift om overgangsbestemmelser til ny kommunelov"
+short_title: "Forskrift om overgangsbestemmelser til ny kommunelov"
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: null
+last_change_in_force: "2019-09-30"
+last_updated: null
+xml_hash: "ff8dc1baa8a92c4833e69b10a03c9a85ad64381cb5bd8304bfd09a078eddfd37"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsbestemmelser til ny kommunelov
+
+## § 1. Forlenget funksjonstid for enkelte typer organer
+
+Ny § 7-1 femte ledd vil frem til første årsskifte i valgperioden 2019–2023 gjelde for typer av folkevalgte organer som har sitt rettslige grunnlag i [kommuneloven 25. september 1992 nr. 107](lov/1992-09-25-107), men som ikke videreføres i den nye loven. Ny § 7-1 femte ledd vil frem til første årsskifte i valgperioden 2019–2023 også gjelde for eldreråd valgt etter lov om kommunale og fylkeskommunale eldreråd og råd for mennesker med nedsatt funksjonsevne etter lov om råd eller anna representasjonsordning i kommunar og fylkeskommunar for menneske med nedsett funksjonsevne m.m.
+
+## § 2. Eierskapskontroll
+
+For eierskapskontroll som er bestilt før 1. november 2019, gjelder ikke kravet i ny § 24-2 første ledd om at det er revisor som skal utføre eierskapskontrollen. En eierskapskontroll er bestilt når kontrollutvalget har truffet vedtak om slik bestilling.
+
+## § 3. Revisjon av årsregnskapet for 2019
+
+Ny § 24-5 til § 24-8 får ikke anvendelse på revisjon av årsregnskapet og årsberetningen for regnskapsåret 2019. Revidering av disse årsregnskapene og årsberetningene skal følge reglene i [forskrift 15. juni 2004 nr. 904](forskrift/2004-06-15-904) om revisjon i kommuner og fylkeskommuner mv.
+
+## § 4. Tilsyn
+
+Tilsyn som er igangsatt før ny lov er satt i kraft skal følge reglene i lov om kommuner og fylkeskommuner [25. september 1992 nr. 107 kapittel 10](lov/1992-09-25-107/kap10)A. Et tilsyn regnes som igangsatt når kommunen har fått varsel om tilsyn.
+
+## § 5. Delegering
+
+Vedtaksmyndighet som er delegert med hjemmel i lov om kommuner og fylkeskommuner [25. september 1992 nr. 107](lov/1992-09-25-107) videreføres, og er gyldig frem til 31. desember 2020, hvis ikke kommunestyret selv bestemmer noe annet.
+
+> Tilføyd ved [forskrift 30 sep 2019 nr. 1300](forskrift/2019-09-30-1300).
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1
+
+> Endret ved [forskrift 30 sep 2019 nr. 1300](forskrift/2019-09-30-1300) (tidligere § 5).

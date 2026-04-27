@@ -1,0 +1,64 @@
+---
+id: "sf-20230127-0105"
+slug: "forskrift-om-betaling-av-bompenger-på-offentlig-veg"
+type: "forskrift"
+ref_id: "forskrift/2023-01-27-105"
+title: "Forskrift om betaling av bompenger på offentlig veg"
+short_title: null
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2023-03-31"
+last_change_in_force: "2025-02-01"
+last_updated: null
+xml_hash: "f420b4af72f0421a5b3f265b710b51d2acd6a756e1a10d3b0ff7eb9e9987d68e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om betaling av bompenger på offentlig veg
+
+## § 1. Formål og virkeområde
+
+Formålet med denne forskriften er å regulere hvem som har ansvaret for å betale bompenger og når betalingsansvar oppstår.
+
+Denne forskriften gjelder for de tilfeller motorvogn passerer bomstasjon.
+
+## § 2. Definisjoner
+
+I denne forskrift menes med:*avtalepart:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som har gyldig AutoPASS-avtale, jf. [forskrift 14. desember 2018 nr. 1917 om utstedervirksomhet for bompenger og ferjebilletter § 6](forskrift/2018-12-14-1917/§6), fra avtalen er registrert i AutoPASS Samvirke.*eier:* fysisk eller juridisk person, eller enhet i enhetsregisteret, som på datoen for motorvognens passering står oppført som eier av motorvognen i Kjøretøyregisteret, jf. [forskrift av 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-1](forskrift/1990-01-25-92/§2-1), eller i andre motorvognregistre.*fører*: fysisk person som fører motorvognen ved passering i bomstasjon.bompengeselskapene er selskaper som har fullmakt til å kreve inn bompenger.
+
+> Endret ved forskrift [19 des 2024 nr. 3539](forskrift/2024-12-19-3539) (i kraft 1 feb 2025).
+
+## § 3. Bompengenes størrelse
+
+Bompengenes størrelse følger av gjeldende takstvedtak i medhold av [veglova § 27](lov/1963-06-21-23/§27) første, andre eller tredje ledd.
+
+## § 4. Ansvar for å betale bompenger
+
+Når en registrert motorvogn passerer bomstasjon, har følgende ansvar for å betale bompenger:avtalepart, når motorvognen på tidspunktet for passering er omfattet av AutoPASS-avtale.eier, når motorvognen på tidspunktet for passering ikke er omfattet av AutoPASS-avtale.fører, når motorvogn, kjennemerke eller brikke er meldt stjålet til politiet, regnet fra tidspunktet tyveriet skjedde.
+
+Når en uregistrert motorvogn passerer bomstasjon, er den som har anskaffet prøvekjennemerke ansvarlig for å betale bompenger.
+
+## § 5. Utlevering av personopplysninger til bompengeselskap
+
+Følgende personopplysninger knyttet til personer som nevnt i [§ 4](forskrift/2023-01-27-105/§4), og som er innhentet i medhold av [vegtrafikkloven § 15](lov/1965-06-18-4/§15) og [§ 16](lov/1965-06-18-4/§16), kan utleveres fra Statens vegvesen til bompengeselskap:navnadressefødselsdatoorganisasjonsnummer.
+
+Personopplysningene kan behandles hos bompengeselskap i den utstrekning dette er nødvendig for bompengeselskapets innkreving av bompenger etter [veglova § 27](lov/1963-06-21-23/§27) femte ledd.
+
+## § 6. Behandling av søknader om fritak fra å betale bompenger
+
+Søknad om fritak fra å betale bompenger behandles av bompengeselskapene. Bompengeselskapenes avgjørelse av søknaden er et enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+Avslag kan påklages til bompengeselskapet innen tre uker. Dersom vedtaket opprettholdes, oversender bompengeselskapet klagen til Vegdirektoratet.
+
+> Tilføyd ved forskrift [19 des 2024 nr. 3539](forskrift/2024-12-19-3539) (i kraft 1 feb 2025).
+
+## § 7. Ikrafttredelse
+
+Denne forskriften trer i kraft 31. mars 2023. Fra samme tidspunkt oppheves [forskrift 28. november 2016 nr. 1418 om betaling av bompenger](forskrift/2016-11-28-1418).
+
+> Endret ved forskrift [19 des 2024 nr. 3539](forskrift/2024-12-19-3539) (i kraft 1 feb 2025, tidligere § 6).

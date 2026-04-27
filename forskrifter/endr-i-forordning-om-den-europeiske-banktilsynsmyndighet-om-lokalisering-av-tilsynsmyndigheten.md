@@ -1,0 +1,30 @@
+---
+id: "sf-20210702-2339"
+slug: "endr-i-forordning-om-den-europeiske-banktilsynsmyndighet-om-lokalisering-av-tilsynsmyndigheten"
+type: "forskrift"
+ref_id: "forskrift/2021-07-02-2339"
+title: "Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten"
+short_title: "Endr. i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2021-07-02"
+last_change_in_force: null
+last_updated: null
+xml_hash: "86d55a670cdecebc06edd34a94680621a35e1f4a6d78a150ae0949d20cf6a1e3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten
+
+## § 1. Gjennomføring av forordning (EU) 2018/1717 om lokalisering av Den europeiske banktilsynsmyndighet
+
+[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2018/1717](eu/32018r1717) om endring av forordning [(EU) nr. 1093/2010](eu/32010r1093) med hensyn til lokalisering av Den europeiske banktilsynsmyndighet gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.

@@ -1,0 +1,112 @@
+---
+id: "sf-20251229-2899"
+slug: "forskrift-om-regulering-av-fiske-i-grønlands-økonomiske-sone-i-2026"
+type: "forskrift"
+ref_id: "forskrift/2025-12-29-2899"
+title: "Forskrift om regulering av fiske i Grønlands økonomiske sone i 2026"
+short_title: null
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: "2026-02-18"
+last_updated: null
+xml_hash: "a68d08f1b36a0c7f387d18134c19ebf2228b024a4955e14eecaf04ec71c9f193"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om regulering av fiske i Grønlands økonomiske sone i 2026
+
+## § 1. Generelt forbud
+
+Det er forbudt for norske fartøy å fiske og lande fisk i Grønlands økonomiske sone.
+
+## § 2. Totalkvoter
+
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 14 (Sydøstgrønland):720 tonn torsk, hvorav 360 tonn må fiskes i forvaltningsområde Sydøstgrønland og 360 tonn må fiskes i forvaltningsområde Dohrn Banke.
+
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i NAFO-område 1 (Vest-Grønland):875 tonn blåkveite55 tonn skolest.
+
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande følgende kvanta i Grønlands økonomiske sone i ICES’ statistikkområde 5a, 12 og 14:900 tonn blåkveite1 300 tonn bunnlevende uer15 tonn kveite360 tonn brosme140 tonn skolest325 tonn bifangst av andre arter.
+
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-29-2899/§1) kan norske fartøy fiske og lande 1 500 tonn reker i Grønlands økonomiske sone i ICES’ statistikkområde 5a og 14.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73).
+
+## § 3. Gruppekvoter
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy kan totalt fiske og lande inntil 720 tonn torsk.
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy kan fiske og lande inntil 430 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 470 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 875 tonn blåkveite i NAFO-område 1 (Vest-Grønland).
+
+Fartøy med torsketråltillatelse kan fiske og lande inntil 1 300 tonn bunnlevende uer i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+> Tilføyd ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73).
+
+## § 4. Fartøykvoter
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy tildeles fartøykvote på 360 tonn torsk.
+
+Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy tildeles fartøykvote på 215 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse tildeles fartøykvote på 235 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy med torsketråltillatelse tildeles fartøykvote på 437,5 tonn blåkveite i NAFO-område 1 (Vest-Grønland).
+
+Fartøy med torsketråltillatelse som deltar i fisket etter blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland), tildeles fartøykvote på 650 tonn bunnlevende uer i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+
+Fartøy som har adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone tildeles fartøykvote på 500 tonn reker i ICES’ statistikkområde 5a og 14. Fartøykvotene oppheves fra og med 20. februar 2026 for fartøy med adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone.
+
+> Tilføyd ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73), endret ved forskrift [18 feb 2026 nr. 234](forskrift/2026-02-18-234).
+
+## § 5. Bifangst
+
+For norske fartøy som har adgang til å delta i fisket i Grønlands økonomiske sone, er det tillatt å ha inntil 10 % bifangst av hver art fartøyet ikke har lisens for i de enkelte fangster og ved landing.
+
+> Tilføyd ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73).
+
+## § 6. Påmelding og tillatelse
+
+Fartøy som har adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone må være skriftlig påmeldt til Fiskeridirektoratet før fisket kan ta til.
+
+Ingen fartøy må delta i fisket uten tillatelse fra Fiskeridirektoratet. Det kan stilles vilkår om at fartøy som deltar i fisket skal samle biologiske data etter nærmere angitte retningslinjer.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 4).
+
+## § 7. Tids- og områdebegrensning
+
+Fisket etter torsk kan bare foregå på de vilkårene og innenfor de tidsrom og områder som bestemmes av grønlandske myndigheter.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 5).
+
+## § 8. Refordeling
+
+Fartøykvotene kan endres eller oppheves dersom en rasjonell utøvelse av fisket tilsier det.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 6).
+
+## § 9. Stopp i fisket
+
+Fiskeriene vil bli stoppet når totalkvotene eller gruppekvotene er beregnet oppfisket.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 7).
+
+## § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til [havressurslova §§ 60](lov/2008-06-06-37/§60), [61](lov/2008-06-06-37/§61), [62](lov/2008-06-06-37/§62), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65) og [deltakerloven § 31](lov/1999-03-26-15/§31). På samme måte straffes medvirkning og forsøk.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 8).
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2026 og gjelder til og med 31. desember 2026.
+
+> Endret ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73) (tidligere § 9).

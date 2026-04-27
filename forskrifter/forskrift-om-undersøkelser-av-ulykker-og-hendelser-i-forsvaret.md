@@ -1,0 +1,144 @@
+---
+id: "sf-20170821-1331"
+slug: "forskrift-om-undersøkelser-av-ulykker-og-hendelser-i-forsvaret"
+type: "forskrift"
+ref_id: "forskrift/2017-08-21-1331"
+title: "Forskrift om undersøkelser av ulykker og hendelser i Forsvaret"
+short_title: "Forskrift om undersøkelser av ulykker og hendelser i Forsvaret"
+language: "no"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "2017-11-01"
+last_change_in_force: "2020-07-01"
+last_updated: null
+xml_hash: "1428366ae2fd0d7fe8b27b03224c9592ac3d848acb2cc90f536b999770095707"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om undersøkelser av ulykker og hendelser i Forsvaret
+
+## § 1. Unntak fra forsvarsundersøkelseslovens virkeområde
+
+Forsvarsundersøkelsesloven med forskrifter gjelder ikke for Etterretningstjenesten. Forsvarssjefen kan i enkeltsaker beslutte at loven med forskrifter skal gjelde for Etterretningstjenesten.
+
+## § 2. Organisering av undersøkelsesmyndigheten
+
+Statens havarikommisjon er undersøkelsesmyndighet som nevnt i [forsvarsundersøkelsesloven § 4](lov/2016-12-16-92/§4) første ledd og denne forskrift.
+
+Leder for undersøkelsesmyndigheten skal være sivil embetsmann. Øvrige ansatte i undersøkelsesmyndigheten kan være sivile eller militære.
+
+Leder for undersøkelsesmyndigheten er behandlingsansvarlig etter Europaparlaments- og rådsforordning [(EU) 2016/679](eu/32016r0679*) av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv [95/46/EF](eu/31995l0046) (generell personvernforordning) artikkel 4 nr. 7.
+
+Undersøkelsesmyndigheten skal besitte relevant kompetanse og erfaring til å gjennomføre undersøkelsesarbeidet på en faglig forsvarlig måte.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 3. Forholdet til andre myndigheter
+
+Undersøkelsesmyndigheten skal etablere et samarbeid med andre myndigheter innenfor rammen av forsvarsundersøkelsesloven.
+
+## § 4. Forsvarets plikt til varsling etter ulykke eller alvorlig hendelse
+
+Forsvaret skal straks varsle undersøkelsesmyndigheten om ulykker og alvorlige hendelser somhar medført tap av menneskeliv,har medført omfattende skade på eller tap av materiell eller omfattende skade på eiendom eller miljøet,oppfyller nærmere spesifiserte krav fastsatt av undersøkelsesmyndigheten, elleretter en samlet vurdering anses å være av interesse for undersøkelsesmyndigheten.
+
+Forsvaret skal også varsle politiet om forhold som nevnt i første ledd bokstav a og b.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 5. Tiltak på skadestedet
+
+Den tilstedeværende med høyest militær grad skal ta ledelse på skadestedet til politi eller brannvesen ankommer. Dette inkluderer å varsle, igangsette tiltak for å begrense omfanget av skaden, og sørge for at nødvendige redningstiltak iverksettes.
+
+Dernest skal vedkommende blant annet ta ansvar for følgendefå oversikt over hvem som er involvert i ulykken,få oversikt over hvem som er omkommet eller skadet,få oversikt over hvor de skadde blir sendt til behandling,samle inn personalia til alle involverte og vitner,få oversikt over hvilket materiell som er involvert,sperre av åstedet og holde uvedkommende utenfor sperringene,sikre at spor og bevismateriale ikke flyttes eller skades, unntatt når det er nødvendig for redningsarbeidet eller for å unngå tap av bevismateriale,sørge for at spor og bevismateriale fra skadestedet dokumenteres,føre logg over hva som gjøres på skadestedet, ogføre logg over hvem som blir sluppet inn på skadestedet.
+
+Når undersøkelsesmyndigheten ber om det, skal Forsvaret så snart som mulig, og senest når tidskritisk redningsarbeid er ivaretatt, sette undersøkelsesmyndigheten i kontakt med den tilstedeværende med høyest militær grad på skadestedet.
+
+## § 6. Forsvarets rapportering etter ulykke eller alvorlig hendelse
+
+Forsvaret skal rapportere ulykker og alvorlige hendelser skriftlig til undersøkelsesmyndigheten så snart som mulig og senest innen 48 timer. Undersøkelsesmyndigheten kan i enkelttilfeller bestemme at skriftlig rapport kan fremsendes senere enn 48 timer.
+
+Undersøkelsesmyndigheten kan fastsette krav til rapportering.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 7. Prioritering av undersøkelser
+
+Undersøkelsesmyndigheten skal undersøke alle ulykker som har medført tap av menneskeliv.
+
+Undersøkelsesmyndigheten skal prioritere å undersøke ulykker eller hendelser basert på en samlet vurdering avalvorlighetsgrad,sammenheng med militær virksomhet, ogforventning om at undersøkelsen vil ha betydelig potensial for å forbedre sikkerheten i Forsvaret.
+
+## § 8. Støtte til undersøkelsesmyndigheten
+
+Forsvaret og andre etater i forsvarssektoren skal støtte undersøkelsesmyndighetens arbeid ved å stille personell, materiell og lokaler til rådighet i den utstrekning det er nødvendig for å gjennomføre undersøkelsen, og for så lang tid som undersøkelsen krever.
+
+Det personell som avgis til undersøkelsesmyndigheten etter første ledd eller denne forskrift [§ 10](forskrift/2017-08-21-1331/§10), skal avlønnes av avgivende etat. Variable kostnader som reiseutgifter, overtidskompensasjon og lignende skal refunderes av undersøkelsesmyndigheten.
+
+## § 9. Tiltak for å fremskaffe opplysninger
+
+Undersøkelsesmyndigheten skal gis umiddelbar, ubegrenset og uhindret adgang til stedet og de objekter som var innblandet i ulykken eller hendelsen, i samsvar med denne forskrift [§ 3](forskrift/2017-08-21-1331/§3).
+
+Undersøkelsesmyndigheten har blant annet rett til åfå tilgang til- og kontroll over ferdsskrivere med innhold, og alle andre relevante logger og registreringer,kreve obduksjon av de omkomne, og få tilgang til resultatene av slike undersøkelser og av prøver som er tatt,innkalle og utspørre vitner,få data og opptak fra lufttrafikktjenesten, kystradar, kystradio, nødnett, redningskanal og øvrige trafikkovervåkningstjenester og systemer,få logg fra hovedredningssentralen,få utskrift av telefon- og basestasjonsdata,få fri tilgang til alle relevante opplysninger og opptegnelser som eieren, innehaveren av sertifikatet for typekonstruksjon, den ansvarlige vedlikeholdsorganisasjon, opplæringsorganisasjonen, operatøren eller produsenten av objekt involvert i ulykken eller hendelsen, ogfå fri tilgang til alle relevante opplysninger og opptegnelser som myndigheter eller tjenesteyter som utfører oppgaver for eller på vegne av myndigheter besitter.
+
+Undersøkelsesmyndighetens tiltak for å fremskaffe opplysninger kan bare utføres i den utstrekning det er nødvendig for å gjennomføre undersøkelsen og for så lang tid som undersøkelsen krever.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 10. Undersøkelsesmyndighetens tilgang til informasjon og bistand i undersøkelsesmyndighetens informasjonsinnhenting
+
+Forsvaret og andre etater i forsvarssektoren skal overlevere informasjon av betydning for undersøkelsen uoppfordret til undersøkelsesmyndigheten. Undersøkelsesmyndigheten skal gjøres kjent med om informasjonen er sikkerhetsgradert etter sikkerhetsloven eller underlagt annen lovbestemt taushetsplikt.
+
+Undersøkelsesmyndighetens adgang til informasjon av betydning for undersøkelsen gjelder kun for så lang tid som undersøkelsen krever.
+
+Forsvaret og andre etater i forsvarssektoren skal bistå undersøkelsesmyndigheten i informasjonsinnhenting, i den utstrekning det er nødvendig for å gjennomføre undersøkelsen og for så lang tid som undersøkelsen krever.
+
+## § 11. Undersøkelsesrapport
+
+Undersøkelsesmyndigheten skal etter en undersøkelse utarbeide en ugradert rapport som skal offentliggjøres. Vedlegg til rapporten kan være sikkerhetsgradert etter sikkerhetsloven, dersom det er nødvendig.
+
+Rapporten skal ha en hensiktsmessig form med hensyn til ulykkens eller hendelsens art og alvorlighetsgrad, og for betydningen av resultatene av undersøkelsen.
+
+Undersøkelsesrapporten blir offentlig når den er ferdigstilt.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 12. Frist for svar på utkast til rapport
+
+Med rimelig frist i [forsvarsundersøkelsesloven § 22](lov/2016-12-16-92/§22) menes 30 dager. Undersøkelsesmyndigheten kan ferdigstille rapporten om svar ikke er mottatt innen fristen.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 13. Foreløpig rapport
+
+Undersøkelsesmyndigheten skal avgi en foreløpig rapport dersom undersøkelsesrapporten ikke er ferdig innen 12 måneder. Den foreløpige rapporten skal gjøre rede for status på undersøkelsen.
+
+Undersøkelsesmyndigheten avgjør selv i hvilken form den ønsker å avgi en slik foreløpig rapport. Rapporten skal være ugradert og kunne offentliggjøres.
+
+Svar på utkast til foreløpig rapport og svar på utkast til undersøkelsesrapporten kan være opplysninger som er underlagt taushetsplikt etter [forsvarsundersøkelsesloven § 19](lov/2016-12-16-92/§19) tredje ledd.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 14. Oppfølging av undersøkelsesrapport
+
+Forsvaret skal vurdere rapportene for å identifisere og iverksette tiltak som kan bedre sikkerheten.
+
+Forsvaret skal innen 90 dager fra mottak av rapporten informere undersøkelsesmyndigheten omtiltak som er iverksatt,tiltak planlagt iverksatt med tilhørende tidsplan, ellertilrådinger som ikke planlegges fulgt opp med tiltak, og vurderingene som er lagt til grunn.
+
+Andre etater i forsvarssektoren pålegges samme krav som følger av første og andre ledd hvis de blir adressert i undersøkelsesrapporten.
+
+> Endret ved [forskrift 24 juni 2020 nr. 1386](forskrift/2020-06-24-1386) (i kraft 1 juli 2020).
+
+## § 15. Årsrapport
+
+Undersøkelsesmyndigheten skal hvert år offentliggjøre en rapport som redegjør for de undersøkelser som er gjennomført året før, inkludert tilrådinger og tiltak som er iverksatt på bakgrunn av undersøkelsesrapportene.
+
+## § 16. Implementering i sikkerhetsstyringssystem
+
+Forsvaret skal innarbeide bestemmelsene i forsvarsundersøkelsesloven og denne forskriften i sitt sikkerhetsstyringssystem.
+
+## § 17. Ikrafttredelse og opphevelse
+
+Denne forskrift trer i kraft 1. november 2017. Fra samme tidspunkt oppheves regler [6. januar 1995 nr. 18](forskrift/1995-01-06-18) om tiltak og undersøkelser m.v. ved ulykker og hendelser i Forsvaret.

@@ -1,0 +1,44 @@
+---
+id: "sf-20180925-1474"
+slug: "forskrift-om-fortegnelser-over-meddommere"
+type: "forskrift"
+ref_id: "forskrift/2018-09-25-1474"
+title: "Forskrift om fortegnelser over meddommere"
+short_title: "Forskrift om fortegnelser over meddommere"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2020-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "bf8213e611b3d83f0361d9def654139b6f493011c5f1c5c0f8e5a7c0958ed882"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fortegnelser over meddommere
+
+## § 1. Portal for meddommerutvalg
+
+Domstoladministrasjonen skal etablere og drive nettportal for meddommerutvalg til tingrettene, lagmannsrettene og jordskifterettene (meddommerportalen).
+
+Portalen kan også anvendes for utvalg av skjønnsmedlemmer og arbeidslivskyndige meddommere.
+
+## § 2. Obligatorisk bruk av portalen
+
+Det er obligatorisk for kommunene å benytte nettportalen ved oversendelse av fortegnelser over utvalget av meddommere til tingrettene, lagmannsrettene og jordskifterettene etter [domstolloven § 69](lov/1915-08-13-5/§69) annet ledd, og ved sletting fra utvalget etter [§ 76](lov/1915-08-13-5/§76) fjerde ledd.
+
+I særlige tilfeller kan Domstoladministrasjonen godkjenne at fortegnelsen oversendes på en annen måte.
+
+## § 3. Opplysninger om e-postadresse og mobiltelefonnummer
+
+Som en del av opplysningene angitt i [domstolloven § 69](lov/1915-08-13-5/§69) første ledd annet punktum skal fortegnelsene inneholde utvalgsmedlemmenes e-postadresse og mobiltelefonnummer. Dette gjelder ikke hvis et utvalgsmedlem ikke har en e-postadresse eller et mobiltelefonnummer.
+
+Fortegnelser over medlemmer til jordskifteutvalget skal også inneholde opplysninger om hva det enkelte utvalgsmedlem er kyndig i.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2020.

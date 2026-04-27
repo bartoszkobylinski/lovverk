@@ -1,0 +1,104 @@
+---
+id: "nl-19900427-009"
+slug: "fiskeeksportloven-fiskeekspl"
+type: "lov"
+ref_id: "lov/1990-04-27-9"
+title: "Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeksportloven)"
+short_title: "Fiskeeksportloven – fiskeekspl"
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1991-07-01"
+last_change_in_force: "2023-07-01"
+last_updated: "2021-09-09"
+xml_hash: "22c8d632452c5c1598837c38b9d109b475ee526a52404821629027ff7f3b8445"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeksportloven)
+
+## § 1. Lovens virkeområde
+
+Loven gjelder eksport av fisk, fiskevarer og marine produkter, herunder reeksport og direkte levering til utlandet eller til utenlandsk fartøy fra norsk fiskefartøy.
+
+Med fisk, fiskevarer og marine produkter menes alle arter fisk, krepsdyr, bløtdyr, pigghuder og makroalger, samt varer der disse artene er det eneste eller en vesentlig del av råstoffet. Loven gjelder også fisk, fiskevarer og marine produkter av utenlandsk opprinnelse. Departementet avgjør i tvilstilfeller hva som skal anses som fisk, fiskevarer og marine produkter etter loven.
+
+> Endret ved lov [26 mai 2023 nr. 15](lov/2023-05-26-15) (i kraft 1 juli 2023 iflg. [res. 26 mai 2023 nr. 729](forskrift/2023-05-26-729)).
+
+## § 2. Norges sjømatråd AS
+
+Norges sjømatråd AS (Sjømatrådet) er et aksjeselskap. Aksjeloven gjelder for Sjømatrådet om ikke annet følger av denne lov. Staten skal eie alle aksjer i Sjømatrådet.
+
+Styret skal være representativt for fiskeri- og havbruksnæringen. Departementet kan ved forskrift gi nærmere bestemmelser om sammensetningen av styret.
+
+Sjømatrådet skal utføre de oppgaver som er fastsatt i denne lov eller i forskrifter gitt med hjemmel i loven. For øvrig skal Sjømatrådet gi råd til departementet i spørsmål som angår eksport eller omsetning og produksjon i sammenheng med eksport.
+
+Forvaltningsloven gjelder ikke for Sjømatrådet, unntatt i saker om enkeltvedtak som Sjømatrådet treffer etter § 3 i loven her.
+
+> Endret ved [lover 17 juni 2005 nr. 80](lov/2005-06-17-80) (ikr. 1 sep 2005 iflg. [res. 19 aug 2005 nr. 904](forskrift/2005-08-19-904)), [9 des 2011 nr. 56](lov/2011-12-09-56) (ikr. 1 jan 2012 iflg. [res. 9 des 2011 nr. 1221](forskrift/2011-12-09-1221)).
+
+## § 3. Registrering av eksportører
+
+Eksport av fisk, fiskevarer og marine produkter kan bare foretas av eksportører som er registrert i henhold til lovens bestemmelser. Departementet gir forskrift om registreringsordningen, blant annet om unntak fra kravet om registrering. I forskriften kan det stilles som vilkår for registrering at avgift er innbetalt i samsvar med [§ 6](lov/1990-04-27-9/§6) første ledd bokstav a. Registrert eksportør kan bare slettes fra registeret som følge av manglende innbetaling av avgift etter tredje punktum.
+
+Departementet kan gi forskrift om at Sjømatrådet får fullmakt til å forvalte registreringsordningen og føre register over eksportører som etter loven har rett til å eksportere fisk, fiskevarer og marine produkter.
+
+> Endret ved [lover 17 juni 2005 nr. 80](lov/2005-06-17-80) (ikr. 1 sep 2005 iflg. [res. 19 aug 2005 nr. 904](forskrift/2005-08-19-904)), [9 des 2011 nr. 56](lov/2011-12-09-56) (ikr. 1 jan 2012 iflg. [res. 9 des 2011 nr. 1221](forskrift/2011-12-09-1221)), [26 mai 2023 nr. 15](lov/2023-05-26-15) (i kraft 1 juli 2023 iflg. [res. 26 mai 2023 nr. 729](forskrift/2023-05-26-729)).
+
+## § 4. Sentralisert eksport
+
+Departementet kan gi forskrift om at forhandlinger om og gjennomføring av salg av bestemte typer eller arter av fisk, fiskevarer og marine produkter til nærmere bestemte utenlandske markeder bare skal kunne foretas av ett eller flere salgsforetak med begrenset ansvar (sentralisert salg).
+
+I forskriften kan det fastsettes nærmere bestemmelser om kvotedeling.
+
+Sentralisert salg kan som hovedregel bare finne sted når forhold på det aktuelle eksportmarked gjør dette berettiget.
+
+Departementet kan i særlige tilfelle dispensere fra vedtak som er gjort etter første ledd når berørte organisasjoner har hatt anledning til å uttale seg.
+
+> Endret ved [lover 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [26 mai 2023 nr. 15](lov/2023-05-26-15) (i kraft 1 juli 2023 iflg. [res. 26 mai 2023 nr. 729](forskrift/2023-05-26-729)).
+
+## § 5. Salgsvilkår og minsteeksportpriser mv.
+
+Departementet kan gi forskrift om at salg til utlandet av fisk, fiskevarer og marine produkter bare kan finne sted på nærmere bestemte salgsvilkår. I forskrift etter første punktum kan det også fastsettes minsteeksportpriser og, ved ekstraordinære markedsforhold, andre tiltak av midlertidig karakter for bestemte varer til bestemte markeder, når dette skjer av hensyn til internasjonale avtaler.
+
+> Endret ved [lover 19 juni 1997 nr. 80](lov/1997-06-19-80), [26 mai 2023 nr. 15](lov/2023-05-26-15) (i kraft 1 juli 2023 iflg. [res. 26 mai 2023 nr. 729](forskrift/2023-05-26-729)).
+
+## § 6. Avgift
+
+Departementet kan fastsette forskrift om at det skal svares:en årlig avgift til Sjømatrådet som betales av den enkelte eksportør,en avgift beregnet av fob-verdien ved eksport av varer som omfattes av loven her.
+
+Avgiftens størrelse fastsettes av departementet. Avgift som oppkreves etter første ledds bokstav b) er tvangsgrunnlag for utlegg.
+
+Avgift som innbetales i medhold av paragrafen her, kan bl.a. nyttes til:administrative kostnader ved drift av Sjømatrådetkontroll etter § 7 i loven herinformasjon til næringeninnenlands og utenlands markedstiltakannet eksportfremmende arbeid.
+
+Departementet gir nærmere bestemmelser om oppkreving og anvendelse av innkomne avgiftsmidler. Departementet kan bestemme at en bestemt del av midlene skal gis som tilskudd til driften av en interesseorganisasjon for produsenter og eksportører.
+
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [24 juni 1994 nr. 35](lov/1994-06-24-35), [19 juni 1997 nr. 80](lov/1997-06-19-80), [9 des 2011 nr. 56](lov/2011-12-09-56) (ikr. 1 jan 2012 iflg. [res. 9 des 2011 nr. 1221](forskrift/2011-12-09-1221)).
+
+## § 7. Kontroll med eksporten
+
+Departementet kan gi forskrift om kontroll med at eksporten av fisk, fiskevarer og marine produkter skjer i samsvar med bestemmelser fastsatt i eller i medhold av denne loven.
+
+> Endret ved lov [26 mai 2023 nr. 15](lov/2023-05-26-15) (i kraft 1 juli 2023 iflg. [res. 26 mai 2023 nr. 729](forskrift/2023-05-26-729)).
+
+## § 8. Opplysningsplikt
+
+Den som driver virksomhet eller akter å drive virksomhet som faller inn under loven, plikter å gi de opplysninger om virksomheten som er nødvendig for forvaltningens saksbehandling etter loven. Departementet kan ved forskrift gi nærmere bestemmelser om utstrekningen og gjennomføringen av opplysningsplikten.
+
+> Endret ved [lov 17 juni 2005 nr. 80](lov/2005-06-17-80) (ikr. 1 sep 2005 iflg. [res. 19 aug 2005 nr. 904](forskrift/2005-08-19-904)).
+
+## § 9. Straffansvar
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av loven, straffes med bøter. På samme måte straffes forsøk.
+
+> Endret ved [lover 20 juli 1991 nr. 66](lov/1991-07-20-66), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 10. Ikrafttredelse
+
+Denne lov trer i kraft fra den dato1 Kongen bestemmer.
+
+– – –

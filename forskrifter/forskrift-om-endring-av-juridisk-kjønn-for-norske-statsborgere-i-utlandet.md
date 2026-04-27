@@ -1,0 +1,30 @@
+---
+id: "sf-20161212-1565"
+slug: "forskrift-om-endring-av-juridisk-kjønn-for-norske-statsborgere-i-utlandet"
+type: "forskrift"
+ref_id: "forskrift/2016-12-12-1565"
+title: "Forskrift om endring av juridisk kjønn for norske statsborgere bosatt i utlandet"
+short_title: "Forskrift om endring av juridisk kjønn for norske statsborgere i utlandet"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2017-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "47914e4d3ddd1d46c76b2f23a9a093d0c0c39bf30a2f1896f6d4261bf80cae72"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring av juridisk kjønn for norske statsborgere bosatt i utlandet
+
+## § 1.
+
+Norske statsborgere som er bosatt i utlandet, har rett til å få endret sitt juridiske kjønn etter reglene i [lov 17. juni 2016 nr. 46](lov/2016-06-17-46) om endring av juridisk kjønn.
+
+## § 2.
+
+Forskriften gjelder fra 1. januar 2017.

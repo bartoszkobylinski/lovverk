@@ -1,0 +1,44 @@
+---
+id: "sf-19900824-0761"
+slug: "forskrift-om-forbud-mot-jakt-på-utsatt-fugl"
+type: "forskrift"
+ref_id: "forskrift/1990-08-24-761"
+title: "Midlertidig forskrift om forbud mot jakt på utsatt fugl"
+short_title: "Forskrift om forbud mot jakt på utsatt fugl"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "1990-08-24"
+last_change_in_force: "2010-08-06"
+last_updated: null
+xml_hash: "81649ea471f952280fa2d879ddd7bf5ac2661abe5f6698d2eed0d4db9bbcab90"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Midlertidig forskrift om forbud mot jakt på utsatt fugl
+
+## § 1.
+
+Det er forbudt å arrangere og delta i jakt på fugl i områder hvor jakten i hovedsak er rettet mot utsatte individer, med mindre det har gått så lang tid fra utsetting og eventuell fôring at fuglen har tilpasset seg en vill tilværelse. Den skal ha naturlig næringssøk, ha kondisjon som en vill fugl, ha fått flygeegenskaper som en vill fugl og ha en naturlig skyhet for mennesker.
+
+Fuglen skal være satt ut senest 20. juli. Eventuell fôring skal foregå på slik måte at fuglen utvikler naturlig næringssøk. Det er ikke tillatt å bruke fôringsautomat.
+
+## § 2.
+
+Dersom det oppstår tvil, avgjør Mattilsynet om vilkårene i [§ 1](forskrift/1990-08-24-761/§1) er oppfylt.
+
+> Endret ved [forskrift 9 jan 2004 nr. 45](forskrift/2004-01-09-45).
+
+## § 3.
+
+Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til [dyrevelferdsloven § 37](lov/2009-06-19-97/§37).
+
+> Endret ved [forskrift 6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
+
+## § 4.
+
+Forskriften trer i kraft straks.

@@ -1,0 +1,62 @@
+---
+id: "sf-19500428-3419"
+slug: "forskrift-om-bevisopptak-i-sivile-saker-i-utlandet"
+type: "forskrift"
+ref_id: "forskrift/1950-04-28-3419"
+title: "Forskrift om bevisopptak i sivile saker i utlandet"
+short_title: "Forskrift om bevisopptak i sivile saker i utlandet"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: null
+last_change_in_force: "2008-01-01"
+last_updated: null
+xml_hash: "bb7e747282f74f77e3c97c3c137c4f16c93839b7b65f9102019a59d9e706df87"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om bevisopptak i sivile saker i utlandet
+
+## I.
+
+Utenriksdepartementet bemyndiges til etter samråd med Justis- og politidepartementet å autorisere norske diplomatiske og konsulære tjenestemenn, som har de egenskaper som er foreskrevet for tingrettsdommere, til overensstemmende med domstolloven § 50 å oppta bevis i sivile saker i utlandet. Bemyndigelsen kan gis én gang for alle eller for ett enkelt tilfelle. Den kan når som helst tilbakekalles.
+
+> Endret ved [forskrift 11 okt 2002 nr. 1094](forskrift/2002-10-11-1094) (i kraft 1 jan 2003).
+
+## II.
+
+Det fastsettes følgende særregler i henhold til [domstolloven § 50](lov/1915-08-13-5/§50), annet ledd, for framgangsmåten ved norske diplomatiske og konsulære tjenestemenns bevisopptak i utlandet:
+
+### § 1
+
+Ved begjæring om bevisopptak ved norsk utenrikstjenestemann får reglene i [domstolloven § 47](lov/1915-08-13-5/§47) og [§ 48](lov/1915-08-13-5/§48) tilsvarende anvendelse. Rettsanmodninger sendes gjennom Justis- og politidepartementet direkte til den utenrikske fagstasjon.
+
+### § 2
+
+Dommeren skal til rettsmøter tilkalle et rettsvitne. Rettsvitnet bør ha fylt 21 år og helst være norsk, dansk eller svensk borger. Vedkommende stasjons personale kan benyttes. Kreves det særlig kyndighet, bør så vidt mulig et sakkyndig rettsvitne tilkalles.
+
+### § 3
+
+Rettsspråket er norsk, men avhøring og protokollasjon kan dog foretas på et fremmed språk når så vel dommeren som rettsvitnet og den som avhøres behersker dette. Skal det avhøres en person hvis språk dommeren og rettsvitnet ikke behersker, skal det antas en tolk som ved forsikring på ære og samvittighet bekrefter oversettelsens riktighet.
+
+### § 4
+
+Dommeren skal så vidt mulig gi partene betimelig varsel til rettsmøtet hvis disse ikke har gitt avkall på det. Spesielt uttalte ønsker med hensyn til varselsmåte og varselsfrist skal så vidt mulig etterkommes.
+
+Som prosessfullmektig kan uten hinder av bestemmelsene i [tvisteloven kapittel 3](lov/2005-06-17-90/kap3) benyttes enhver voksen person som finnes verdig til det.
+
+> Endret ved [forskrift 21 des 2007 nr. 1607](forskrift/2007-12-21-1607) (i kraft 1 jan 2008, jf endringsforskriften for overgangsregler).
+
+### § 5
+
+Avhøringen foretas av dommeren. Partene og disses representanter har anledning til å begjære spørsmål forelagt den som avhøres.
+
+### § 6
+
+Anke mot dommerens kjennelser og beslutninger avgjøres av den rett som har begjært bevisopptaket, hvis denne er en høyere rett. I motsatt fall går anken til den vanlige ankeinstans på det sted hvor den rett som har begjært bevisopptaket, har sitt sete.
+
+> Endret ved [forskrift 21 des 2007 nr. 1607](forskrift/2007-12-21-1607) (i kraft 1 jan 2008, jf endringsforskriften for overgangsregler).

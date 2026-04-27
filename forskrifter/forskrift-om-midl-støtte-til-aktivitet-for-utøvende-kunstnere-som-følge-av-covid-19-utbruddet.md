@@ -1,0 +1,74 @@
+---
+id: "sf-20200701-1462"
+slug: "forskrift-om-midl-støtte-til-aktivitet-for-utøvende-kunstnere-som-følge-av-covid-19-utbruddet"
+type: "forskrift"
+ref_id: "forskrift/2020-07-01-1462"
+title: "Forskrift om midlertidig støtte til aktivitet for utøvende kunstnere rammet av oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet"
+short_title: "Forskrift om midl. støtte til aktivitet for utøvende kunstnere som følge av covid-19-utbruddet"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "2020-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "858abc336866f5bdd65d49f994f479629a084e14637b5ac69e9d8083d70d5529"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om midlertidig støtte til aktivitet for utøvende kunstnere rammet av oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet
+
+## § 1. Formål
+
+Denne forskriften etablerer en midlertidig ordning for å opprettholde aktivitet og motvirke langtidsuvirksomhet blant utøvende kunstnere som har oppdrags- eller inntektsbortfall som følge av pålegg eller råd gitt av myndighetene i forbindelse med covid-19-utbruddet.
+
+## § 2. Målgruppe
+
+Målgruppen er profesjonelle utøvende kunstnere som er rammet av covid-19-utbruddet slik at deres kunstneriske aktiviteter har blitt avlyst eller begrenset på annen måte. Med utøvende kunstnere menes musikere, sangere, skuespillere, dansere, dirigenter, sceneinstruktører og andre som gjennom sin kunst fremfører åndsverk eller tradisjonsuttrykk.
+
+## § 3. Generelle vilkår
+
+Det kan etter søknad gis støtte når følgende vilkår er oppfylt:Søkeren er utøvende kunstner og har dette som hovederverv som frilanser, personlig næringsdrivende eller ansatt i egen virksomhet.Kunstneren bor og har hovedsakelig sitt virke i Norge.Kunstneren har oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet.
+
+## § 4. Hva det kan gis støtte til
+
+Det kan gis støtte til fortsatt kunstnerisk aktivitet i perioden med oppdrags- eller inntektsbortfall, herunder forberedelser til aktiviteter som vil finne sted når smitteverntiltakene tillater det. Det kan kun gis støtte for aktiviteter planlagt gjennomført i Norge.
+
+## § 5. Tildelingskriterier
+
+Utøvende kunstnere som inngir søknad som oppfyller ordningens vilkår, kan tildeles støtte for hele eller deler av søknadsbeløpet. Tildeling vil skje på grunnlag av innsendt dokumentasjon og etter en kunstfaglig vurdering. Det skal tas hensyn til om og eventuelt hvor mye søkeren har mottatt i støtte for samme periode eller samme aktivitet fra andre hold, herunder kulturfond og særskilte kompensasjonsytelser knyttet til covid-19-utbruddet. Det kan tas hensyn til omfanget av kunstnerens oppdrags- eller inntektsbortfall. Det tildeles støtte etter denne ordningen kun én gang per utøvende kunstner per søknadsperiode.
+
+Maksimalt søknadsbeløp er 200 000 kroner per søker. Ordningen er rammestyrt.
+
+Tildelt støtte utbetales ikke dersom det innen utbetalingen blir åpnet konkurs hos søkeren.
+
+## § 6. Krav til søknaden
+
+Søknaden skal blant annet inneholde følgende opplysninger:Erklæring om at vilkårene i [§ 3](forskrift/2020-07-01-1462/§3) er oppfylt.Beskrivelse av kunstnerisk aktivitet som det søkes om støtte til etter [§ 4](forskrift/2020-07-01-1462/§4).Opplysning om hvorvidt søker har mottatt støtte eller kompensasjonsytelser utenfor denne ordningen, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd tredje punktum.Opplysning om søkerens oppdrags- eller inntektsbortfall som følge av covid-19-utbruddet, jf. [§ 5](forskrift/2020-07-01-1462/§5) første ledd fjerde punktum.Erklæring om at søker ikke er under konkursbehandling.
+
+Fond for utøvende kunstnere kan be om ytterligere opplysninger som er nødvendige for behandling av søknader etter denne forskriften.
+
+## § 7. Dokumentasjon
+
+Så langt det er mulig må søker på forespørsel kunne dokumentere opplysninger gitt i søknaden.
+
+## § 8. Saksbehandlingsregler
+
+Ordningen forvaltes av Fond for utøvende kunstnere. Søknadsfrist og søknadsskjema fastsettes av Fond for utøvende kunstnere.
+
+Kulturdepartementet er klageinstans for Fond for utøvende kunstneres vedtak etter forskriften. Det er ikke adgang til å klage over vedtak etter forskriften for så vidt gjelder skjønnsutøvelsen.
+
+## § 9. Kontroll
+
+Fond for utøvende kunstnere fører kontroll med at vilkårene for å motta støtte er oppfylt. Det kan gjennomføres etterhåndskontroll av søkere som mottar støtte. Søker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at Fond for utøvende kunstnere kan føre kontroll. Søker skal oppbevare all dokumentasjon for at vilkårene for å motta støtte er oppfylt i tre år beregnet fra året etter søknadsåret.
+
+## § 10. Tilbakebetaling
+
+Dersom en søker gir ufullstendige eller feilaktige opplysninger, og dette medfører at det utbetales uberettiget eller for høyt beløp, kan støtten helt eller delvis kreves tilbake. Dersom støtten ennå ikke er utbetalt, kan den holdes helt eller delvis tilbake eller bortfalle.
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft straks.

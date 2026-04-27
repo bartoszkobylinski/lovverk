@@ -1,0 +1,322 @@
+---
+id: "sf-20250129-0115"
+slug: "forskrift-om-lagring-og-bruk-av-gjødsel-mv"
+type: "forskrift"
+ref_id: "forskrift/2025-01-29-115"
+title: "Forskrift om lagring og bruk av gjødsel mv."
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+  - "Klima- og miljødepartementet"
+  - "Landbruks- og matdepartementet"
+date_in_force: "2025-02-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "61c1e1d264d07941693c7af9ae9ba53a485a64c7d9d43ea9e1aac237f4c2add7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om lagring og bruk av gjødsel mv.
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Formålet med denne forskriften er å legge til rette for at gjødselvarer kan utnyttes som en ressurs samtidig som forurensningsmessige, helsemessige og hygieniske ulemper ved lagring og bruk forebygges. Forskriften skal legge til rette for god avling og god utnytting av næringsstoffer i gjødselvarer og jordsmonn, og begrense tap av næringsstoffer til vassdrag og luft. Forskriften skal bidra til en miljøforsvarlig forvaltning av jordsmonnet og ivareta hensynet til biologisk mangfold.
+
+### § 2. Virkeområde
+
+Forskriften gjelder lagring og bruk av organiske gjødselvarer og bruk av uorganiske gjødselvarer. Forskriften gjelder også håndtering av enkelte andre forurensningskilder som kan oppstå i jordbruksdrift, som vaskevann, planterester og silopressaft.
+
+Bestemmelsene i forskriftens [kapittel 2](forskrift/2025-01-29-115/kap2) gjelder bare for jordbruksforetak, ansvarlig for hestehold og ansvarlig for andre aktiviteter der det oppstår husdyrgjødsel. Med unntak av [§§ 14](forskrift/2025-01-29-115/§14), [17 første ledd](forskrift/2025-01-29-115/§17/ledd/1) og [18 første ledd](forskrift/2025-01-29-115/§18/ledd/1) gjelder [kapittel 3](forskrift/2025-01-29-115/kap3) bare for jordbruksareal.
+
+Forskriften gjelder ikke bruk av gjødselvarer i private hager, skolegårder eller tilrettelagte lekeområder. Bruk av gjødselvarer ved etablering og reetablering av slike områder er likevel omfattet. Forskriften gjelder ikke bruk av gjødselvarer i skog eller utmark.
+
+### § 3. Definisjoner
+
+I denne forskriften menes med:*Avløpsslam:* slam, filtermedium og lignende materialer fra rensing av sanitært og kommunalt avløpsvann, unntatt ristgods.*Biorest:* restprodukt fra anaerob nedbrytning av organisk materiale. Biorest blir også kalt råtnerest.*Bortskaffe:* fjerne overskudd av egen gjødsel, herunder ved levering til andre.*Fulldyrket jord:* areal som er dyrket til vanlig pløyedybde og som kan fornyes ved pløying.*Gjødsel:* produkt som har som hovedoppgave å tilføre næringsstoffer til planter og matsopp og som i bruksmengde og mengde næringsstoff egner seg for årlig tilførsel.*Gjødselvare:* en samlebetegnelse for gjødsel og andre produkt som uten å behandles eller blandes videre, kan brukes til å tilføre næring, til dyrking, som dekkingsmateriale eller på annen måte, for å påvirke planters og matsopps vekstvilkår, og tilsetninger til andre gjødselvarer som selges som egne produkter. Begrepet omfatter også husdyrgjødsel, mineralgjødsel, biorest, avløpsslam og næringsholdig væskeoverskudd.*Grøntareal:* områder hvor det er eller skal etableres et vegetasjonsdekke, men hvor det ikke skal produseres vekster for mat-, såvare- eller fôrforsyning.*Husdyrgjødsel:* husdyrgjødsel som definert i [animaliebiproduktforskriften § 2](forskrift/2016-09-14-1064/§2) jf. forordning [(EF) nr. 1069/2009](eu/32009r1069) artikkel 3 nr. 20 og artikkel 3 nr. 6. Husdyrgjødsel kan være iblandet fôr, strø, vaskevann og annet som naturlig hører med i husdyrholdet eller gjødselhåndteringen.*Innmarksbeite:* areal som kan nyttes som beite og som ikke kan høstes maskinelt. Minst 50 prosent av arealet må være dekket av nyttbare grasarter eller beitetålende urter.*Jordbruksareal:* fulldyrket jord, overflatedyrket jord og innmarksbeite.*Jordbruksforetak:* foretak som er registrert i Enhetsregisteret og som driver jordbruksproduksjon på én eller flere landbrukseiendommer.*Mineralgjødsel:* omfatter industrielt framstilt eller bearbeidet uorganisk gjødselvare.*Nedmolding:* innblanding i jord ved hjelp av jordarbeidingsutstyr som ved harving, pløying mv. Som nedmolding regnes også bruk av spredeutstyr som fører gjødsla direkte ned i jordsmonnet med injeksjon eller nedfelling.*Organisk gjødsel/gjødselvare:* gjødselvare av animalsk eller vegetabilsk opprinnelse eller en blanding av disse.*Organisk-mineralsk gjødsel/gjødselvare:* gjødselvare som består av produkter av animalsk eller vegetabilsk opprinnelse, eller er en blanding av disse og mineralgjødsel.*Overflatedyrket jord:* areal som for det meste er ryddet og jevnet i overflaten slik at maskinell høsting er mulig.*P-AL-verdi:* fosformengder løst ut med ammoniumlaktat-oppløsning. P-AL-verdi oppgis som mg P/100 g jord.*Talle:* husdyrgjødsel iblandet rikelig med strø for å samle opp gjødsla direkte på husdyrenes underlag, og som omdannes i oppsamlingsperioden. Omfatter ikke strøblandet fjørfegjødsel.*Vannforekomst:* en avgrenset og betydelig mengde av overflatevann, som for eksempel innsjø, magasin, elv, bekk, kanal, fjord eller kyststrekning, eller deler av disse, eller en avgrenset mengde grunnvann innenfor en eller flere akviferer, jf. [forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltningen 3 bokstav a](forskrift/2006-12-15-1446/§3/bokstav/a).*Åpen jord:* jord som ligger bar uten plantedekke.
+
+## Kapittel 2. Krav til oppsamling og lagring av organiske gjødselvarer
+
+### § 4. Plassering av gjødselanlegg og driftsbygninger
+
+Driftsbygninger for husdyrhold og anlegg for lagring av organiske gjødselvarer skal ikke plasseres på flomutsatte områder eller så nær vannforekomster at det medfører fare for forurensning.
+
+Ved plassering skal det legges vekt på topografi, vegetasjon og fremherskende vindretning slik at luktulemper begrenses.
+
+### § 5. Krav om oppsamling av husdyrgjødsel i driftsbygninger
+
+Husdyrgjødsel i driftsbygninger skal samles opp slik at gjødsla ikke medfører fare for forurensning.
+
+### § 6. Krav til håndtering av husdyrgjødsel ved utendørs dyrehold
+
+For å hindre avrenning skal man ved utendørs husdyrhold unngå at husdyrgjødsel samler seg opp på samme sted over lengre tid. Innretninger hvor dyr og husdyrgjødsel samler seg, slik som luftegård, utegård, fôrings-, drikke- og hvileplasser, skal plasseres i tilstrekkelig avstand fra vannforekomster, dreneringssystem mv. til at det ikke medfører fare for forurensning. Innretningene skal plasseres og håndteres slik at avrenning begrenses.
+
+Husdyrgjødsel som samler seg i luftegårder, utegårder og på permanente fôrings-, drikke- og hvileplasser skal fjernes minst én gang i vekstsesongen og én gang om høsten.
+
+### § 7. Krav til utforming av lager for husdyrgjødsel og andre organiske gjødselvarer
+
+Lager for flytende organiske gjødselvarer skal ha tette konstruksjoner i gulv, sidevegger, porter, luker, uttappingsrør, spjeld m.m., slik at det ikke oppstår lekkasjer. Kanaler og renner for å lede gjødsel til lageret skal være tette. Lageret skal ha tilstrekkelig sikring til å ivareta hensyn til helse, arbeidsmiljø og sikkerhet.
+
+Lager for urin og biorest med mindre enn 25 prosent tørrstoff skal ha tak eller annet dekke som begrenser fordamping til luft. Dekket må likevel sørge for nødvendig ventilering av farlige gasser.
+
+Lager for faste organiske gjødselvarer med mindre enn 25 prosent tørrstoff skal ha tett bunnplate og skjermes med tette kanter. Bunnplaten skal ha fall til sluk og tett oppsamlingskum for sig fra gjødselen.
+
+Ved oppføring, utvidelse eller utbedring av gjødsellager som er søknadspliktig etter [plan- og bygningsloven](lov/2008-06-27-71), skal det foreligge samsvarserklæring om oppfyllelse av krav etter denne forskriften og etter [byggteknisk forskrift](forskrift/2017-06-19-840) gitt i medhold av [plan- og bygningsloven](lov/2008-06-27-71).
+
+### § 8. Lagring og plassering av tørre organiske gjødselvarer direkte på bakken
+
+Organiske gjødselvarer med mer enn 25 prosent tørrstoff kan lagres direkte på bakken på steder der den senere kan fjernes. Gjødsla skal skjermes mot overflatevann.
+
+Lagringen skal ikke skje på flomutsatte områder eller så nær vannforekomster at det medfører fare for forurensning. Ved plassering skal det legges vekt på topografi, vegetasjon og fremherskende vindretning slik at avrenning og luktulemper begrenses.
+
+Organiske gjødselvarer som omdannes i lagringsperioden kan lagres i inntil tre år. Husdyrgjødsel fra fjørfe kan likevel bare lagres i inntil ett år. Det samme gjelder organiske gjødselvarer som er mottatt utenfra og som er klar til bruk.
+
+### § 9. Krav til oppsamling av silopressaft og lagring av fôr på bakken
+
+Siloanlegg for gras og surfôr skal utformes slik at det ikke medfører fare for forurensning. Silopressaft skal samles opp og lagres i overenstemmelse med kravene i [§ 7](forskrift/2025-01-29-115/§7).
+
+Rundballer, og annen midlertidig lagring av fôr med tilsvarende begrenset avrenning, kan plasseres direkte på bakken. Lagring av slikt fôr skal ikke overstige tre år. Fôret skal ikke plasseres på flomutsatte områder eller så nær vannforekomster at det medfører fare for forurensning. Ved plassering skal det legges vekt på terreng- og grunnforhold slik av avrenning begrenses.
+
+### § 10. Krav til håndtering av næringsholdig væskeoverskudd fra innendørs husdyrhold og veksthus
+
+Veksthus og driftsbygninger for husdyrhold som oppføres eller bygges om, skal etableres med oppsamling av vaskevann og annet næringsholdig væskeoverskudd slik at det ikke medfører fare for forurensning. Dette gjelder likevel ikke driftsbygninger for innendørs drift på talle, hvor oppsamling av gjødsel skjer med strø.
+
+### § 11. Krav til håndtering av oppsamlede planterester
+
+Oppsamlede planterester fra veksthus og grønnsaksavlinger skal ikke lagres på flomutsatte områder eller så nær vannforekomster, dreneringssystem mv. at det medfører fare for forurensning. Ved plassering skal det legges vekt på terreng- og grunnforhold slik at avrenning begrenses. Slike rester kan lagres i inntil tre år, og må kunne fjernes på en enkel måte.
+
+### § 12. Krav til lagerkapasitet for husdyrgjødsel
+
+Det skal disponeres tilstrekkelig lagerkapasitet til at husdyrgjødsel kan lagres frem til spredning eller annen lovlig omsetning. Lagerkapasiteten skal minimum omfatte åtte måneders egen produksjon av husdyrgjødsel med mindre enn 25 prosent tørrstoff.
+
+Den som ikke selv skal benytte husdyrgjødsla kan likevel, etter søknad til statsforvalteren, gis tillatelse til færre enn åtte måneders lagerkapasitet.
+
+Ved leie av lagerkapasitet, er innehaveren av husdyrgjødsla ansvarlig for at lagringen oppfyller kravene stilt i denne forskriften.
+
+### § 13. Større anlegg innen fjørfeavl og svineavl
+
+I anlegg for svine- og fjørfehold med bløtgjødsellager med 2000 slaktegrisplasser eller mer, 750 avlspurker eller mer eller 40 000 plasser for fjørfe eller mer, skal det nyttes lagersystem eller teknikker som det kan dokumenteres at reduserer utslipp av ammoniakk (NH3) med 40 prosent eller mer sammenlignet med utendørs bløtgjødsellager uten dekke.
+
+For anlegg for svine- og fjørfehold med bløtgjødsellager dimensjonert for 2000 eller flere slaktegrisplasser, 750 eller flere avlspurker eller 40 000 eller flere plasser for fjørfe, oppført etter 20. juli 2003, skal det tas i bruk innredningssystemer for husdyr som det kan dokumenteres at reduserer utslipp av ammoniakk (NH3) med 20 prosent eller mer sammenlignet med referansen. For anlegg for svinehold er referansen spalteplank på hele bingearealet, mens for burhøns er referansen anlegg hvor gjødselen lagres i husdyrrommet under burene. For anlegg med frittgående fjørfe er referansen fast underlag med strø og med drikkekar som vannkilde. Ved motstrid står dette leddet tilbake for [lov 19. juni 2009 nr. 97 om dyrevelferd](lov/2009-06-19-97) med tilhørende forskrifter.
+
+## Kapittel 3. Krav til bruk av gjødselvarer
+
+### § 14. Gjødsling etter behov
+
+Bruk av gjødselvarer skal, når ikke annet er bestemt i denne forskriften, tilpasses vekstenes behov og jordas næringsstoffinnhold.
+
+### § 15. Krav til spredetidspunkt
+
+Spredning av organiske gjødselvarer er tillatt i følgende perioder dersom ikke annet er bestemt i medhold av denne forskriften, jf. [§ 31](forskrift/2025-01-29-115/§31):I områder som ligger innenfor nedbørsfeltet som drenerer til kyststrekningen fra svenskegrensa til fylkesgrensa mot Agder, i perioden 1. mars til og med 1. september. Det skal samme år høstes eller etableres plantevekst etter siste spredning. I forbindelse med etablering av høstkorn eller andre vekster som skal etablere plantevekst før innvintring, er spredning tillatt frem til og med 15. september.I kommunene Stavanger, Sola, Randaberg, Sandnes, Gjesdal, Klepp, Time og Hå i Rogaland fylke, i perioden 1. mars til og med 1. september. Det skal samme år høstes eller etableres plantevekst etter siste spredning.I Troms og Finnmark i perioden 1. mars til og med 1. november i kombinasjon med nedmolding. Spredning uten nedmolding på eng og annen grøde skal skje senest 1. september og det skal samme år høstes etter spredningen.I resten av landet, i perioden 1. mars til og med 15. september. Det skal samme år høstes eller etableres plantevekst etter siste spredning.
+
+Spredning av organiske gjødselvarer er ikke tillatt på snødekket eller frossen mark.
+
+Silopressaft kan spres frem til og med 15. september.
+
+### § 16. Krav til spredning
+
+Organisk gjødsel som spres på åpen jord må moldes ned innen 18 timer. Dette gjelder likevel ikke organisk-mineralsk gjødsel som er pelletert, granulert eller tilsvarende.
+
+Ved spredning av organisk gjødsel skal luktulemper og ulemper som følge av partikkelspredning begrenses.
+
+### § 17. Godkjent spredeareal
+
+Spredning av gjødselvarer kan bare skje på fulldyrket og overflatedyrket jord, godkjent innmarksbeite, grøntareal og anlegg for dyrking av mat-, fôr- eller prydvekster.
+
+Kommunen kan etter søknad godkjenne innmarksbeite som spredeareal. Ved vurderingen skal det legges særlig vekt på hvilke virkninger gjødsling kan få for natur- og kulturlandskapsverdier, og om gjødslingen kan skje på en forsvarlig måte.
+
+Det kan ikke tilføres gjødselvarer på jordbruksareal som ikke høstes eller beites.
+
+Areal godkjent etter andre ledd skal innrapporteres av kommunen i offentlig register med kartbeskrivelse og kunne påvises tilsvarende i terrenget.
+
+### § 18. Vegetasjonssone som er båndlagt mot spredning
+
+Det skal i vegetasjonssone mot vassdrag, jf. [vannressursloven § 11](lov/2000-11-24-82/§11), [forskrift om nydyrking § 6](forskrift/1997-05-02-423/§6) og [forskrift om produksjonstilskudd § 4 fjerde ledd](forskrift/2014-12-19-1817/§4/ledd/4), ikke tilføres gjødselvarer.
+
+Ved spredning av gjødselvarer på innmarksbeite skal avstanden til vassdrag være minst 6 meter målt fra ytterkant av utstyrets normale rekkevidde.
+
+### § 19. Begrensning for nitrogen i sårbare områder
+
+I områder som til enhver tid er definert som sårbare etter direktiv [91/676/EØF](eu/31991l0676) om beskyttelse av vann mot forurensning forårsaket av nitrater fra landbruket (nitratdirektivet) er det ikke tillatt å tilføre mer enn 17 kg nitrogen per dekar per år fra husdyrgjødsel. Dette gjelder områder med avrenning til Glommavassdraget, medregnet Lågen og Vorma, Haldenvassdraget og øvrige områder med avrenning til Oslofjorden mellom svenskegrensa og Strømstangen fyr samt til indre Oslofjord (innenfor Drøbaksterskelen).
+
+Mengden nitrogen i egen husdyrgjødsel bestemmes enten ut fra normtall for ulike dyreslag, jf. [vedlegg 2](forskrift/2025-01-29-115/vedlegg2), eller ut fra en oversikt over nitrogenstrømmer inn til og ut av husdyrholdet. Det kan gjøres fratrekk for forventet tap av ammoniakk fra husdyrrom og lager. Slikt fratrekk kan ikke overstige faktorene i [vedlegg 2](forskrift/2025-01-29-115/vedlegg2).
+
+### § 20. Begrensninger for tilførsel av fosfor på jordbruksareal
+
+Ved bruk av fosforholdige gjødselvarer på fulldyrket og overflatedyrket jord, skal mengden tilført fosfor enten:følge krav til fosforbalanse etter andre ledd, ellerfølge grensene satt i tredje ledd.
+
+Gjødsling etter bokstav a) er avgrenset oppad til 3,5 kg/P/daa/år. Forholdet mellom fosformengde som tilføres og tas ut skal være 1:1 eller lavere over en treårsperiode. Oppnådd balanse skal dokumenteres gjennom oversikt over fosforstrømmer inn og ut av foretaket. Før oppstart av hver treårsperiode skal bruk av adgangen til balansegjødsling, samt analyseresultater fra jordprøver i tråd med [§ 29](forskrift/2025-01-29-115/§29) som ikke er eldre enn fire år, innrapporteres av jordbruksforetaket til offentlig register. Innrapportering skal skje på den måten og fra det tidspunkt som Landbruksdirektoratet bestemmer.
+
+For gjødsling etter første ledd bokstav b), skal tilført fosfor per dekar ikke overstige følgende grenser:For alle fylker bortsett fra Rogaland og Troms og Finnmark:2,8 kg P/daa/år i perioden 1. januar 2027–31. desember 20292,5 kg P/daa/år i perioden 1. januar 2030–31. desember 20322,3 kg P/daa/år fra og med 1. januar 2033Rogaland:3,1 kg P/daa/år i perioden 1. januar 2027–31. desember 20293,0 kg P/daa/år i perioden 1. januar 2030–31. desember 20322,7 kg P/daa/år fra og med 1. januar 2033Troms og Finnmark:2,5 kg P/daa/år fra og med 1. januar 2027
+
+Statsforvalteren kan etter søknad gi tillatelse til tilførsel av mer enn grensene etter andre og tredje ledd dersom foretaket dokumenterer et reelt behov, gitt avlingens fosforopptak og fosfornivåer i jord målt gjennom jordprøver.
+
+Foretak uten husdyr, eller som har husdyrhold med mindre årsproduksjon av husdyrgjødsel enn 75 kg P, og som tar imot organisk gjødselvare fra andre, kan beregne grensene etter tredje ledd som et snitt over en treårsperiode. For øvrige foretak beregnes grensene som et årlig snitt for foretakets samlede areal. Grensene kan likevel ikke overstiges med mer enn 10 pst. per dekar med mindre annet kan begrunnes gjennom gjødslingsplanen, jf. [§ 26](forskrift/2025-01-29-115/§26).
+
+På innmarksbeiter godkjent for spredning kan det tilføres 2 kg P/daa/år.
+
+Det er kun areal som tilføres gjødselvare som kan regnes med i grensene etter første til sjette ledd.
+
+Mengde fosfor i egen husdyrgjødsel bestemmes enten ut fra normtall for ulike dyreslag, jf. [vedlegg 1](forskrift/2025-01-29-115/vedlegg1), eller ut fra en oversikt over fosforstrømmer inn til og ut av husdyrholdet. Ved bruk av avløpsslam er det bare plantetilgjengelig fosfor som inngår i beregningen.
+
+Denne bestemmelsen gjelder for den som produserer, mottar eller sprer mer enn 75 kg fosfor det enkelte år.
+
+### § 21. Adgang til høyere fosfortilførsel for særlig fosforkrevende vekster
+
+For produksjon av poteter og grønnsaker som er særlig fosforkrevende, kan det gjødsles etter behov, gitt den aktuelle vekstens forventede fosforbehov og fosfornivåer i jord, målt gjennom jordprøver i tråd med [§ 29](forskrift/2025-01-29-115/§29). Siste jordprøve kan ikke være eldre enn fire år. Arealet skal gjødsles og drives slik at avrenning begrenses.
+
+Areal med produksjon som nevnt i første ledd skal registreres av foretaket i offentlig register på den måten og fra det tidspunkt som Landbruksdirektoratet bestemmer.
+
+## Kapittel 4. Særlige bestemmelser om bruk av gjødselvarer med avløpsslam
+
+### § 22. Særlige krav til bruk av gjødselvarer med avløpsslam
+
+Det er ikke tillatt å bruke uhygienisert avløpsslam.
+
+Følgende krav gjelder for bruk av gjødselvarer med avløpsslam på ulike typer areal:Det er ikke tillatt å bruke gjødselvarer med avløpsslam på eng, i gartnerier eller der det dyrkes grønnsaker, poteter, bær eller høstes frukt.Der gjødselvarer med avløpsslam er brukt, kan det dyrkes grønnsaker, poteter, bær og høstes frukt tidligst tre år etter siste sprededato. Der det er spredt avløpsslambasert gjødsel med særskilte bruksvilkår eller sterilisert avløpsslam, kan det likevel dyrkes slike vekster når det har gått ti måneder etter siste sprededato.Arealene kan brukes til beiting eller høsting av fôrvekster tidligst vekstsesongen etter at gjødselvare med avløpsslam er brukt.På annet enn jordbruksareal og grøntareal kan avløpsslam bare brukes som del av et dyrkingsmedium.Det kan ikke spres gjødselvarer med avløpsslam på jordbruksareal som har fosforinnhold målt som P-AL-verdi på 14 eller høyere. Siste jordprøve kan ikke være eldre enn to år.Ved spredning av gjødselvarer med avløpsslam på jordbruksareal kan det maksimalt tilføres avløpsslam i mengder som inneholder 25 kg P/daa over en tiårsperiode. Det kan likevel ikke brukes større mengder plantetilgjengelig fosfor enn det som tilsvarer maksimal tillatt fosfortilførsel etter [§ 20](forskrift/2025-01-29-115/§20).
+
+Gjødselvarer med avløpsslam skal nedmoldes senest 18 timer etter spredning. Kravet om nedmolding gjelder likevel ikke ved bruk av avløpsslambasert gjødsel med særskilte bruksvilkår. Ved spredning av gjødselvarer med avløpsslam skal luktulemper begrenses.
+
+### § 23. Melding om bruk av gjødselvarer med avløpsslam
+
+Den som skal bruke gjødselvarer med avløpsslam på jordbruksareal skal melde fra til kommunen minst to uker før første levering. Meldeplikten gjelder likevel ikke ved bruk av avløpsslambasert gjødsel med særskilte bruksvilkår.
+
+Melding om bruk av gjødselvarer med avløpsslam skal gis på den måten Mattilsynet bestemmer, og skal minst inneholde opplysninger om:mottakerens navn og adresse,gårds- og bruksnummer på eiendommen der produkter med avløpsslam skal brukes,produktets sammensetning og behandlingsmåte,mengden som skal brukes,bruksstedet angitt på kart,typen areal produktet skal spres på og størrelsen på arealet,kartfestede jordanalyser, ogvurdering av forhold som kan ha innvirkning på helsemessige og hygieniske forhold ved bruken.
+
+Kommunen skal forelegge meldingen til uttalelse for myndighet for miljørettet helsevern i kommunen etter [folkehelseloven § 9](lov/2011-06-24-29/§9). Avdekker meldingen forhold som gjør at forskriftens krav ikke etterleves, kan kommunen kreve forholdet rettet etter [folkehelseloven § 14](lov/2011-06-24-29/§14).
+
+## Kapittel 5. Særlige bestemmelser om bruk av gjødselvarer der bruken reguleres ut fra gjødselvarens tungmetallinnhold
+
+### § 24. Tillatt bruksmengde av gjødselvarer ut fra tungmetallinnhold
+
+Ved bruk av gjødselvarer skal den samlede bruksmengden i løpet av en tiårsperiode ikke overskride:fire tonn tørrstoff per dekar ved bruk av gjødselvarer i tungmetallklasse Ito tonn tørrstoff per dekar ved bruk av gjødselvarer i tungmetallklasse II800 kg tørrstoff per dekar ved bruk av gjødselvarer i tungmetallklasse III som bare inneholder forbrenningsprodukter av rent plantematerialeett tonn tørrstoff per dekar ved bruk av gjødselvarer tungmetallklasse III på grøntarealen mengde som medfører at tungmetallmengden som kan tilføres ved bruk av produkter i klasse II ikke overskrides, ved bruk av en kombinasjon av gjødselvarer i ulike tungmetallklasser og gjødselvarer med fosforbaserte grenseverdier for tungmetallinnhold.
+
+Gjødselvarer i tungmetallklasse 0 og gjødselvarer med fosforbaserte grenseverdier kan brukes uten mengdebegrensninger knyttet til tungmetallinnholdet. Andre dyrkingsmedier enn anleggsjord, og som er i tungmetallklasse 0, I og II, kan brukes på småarealer som bed og til potter og kar uten mengdebegrensning. Gjødselvarer i tungmetallklasse 0 kan brukes på alle arealer. Gjødselvarer med fosforbaserte grenseverdier kan brukes bare på jordbruksareal. EU-gjødselvarer skal brukes i tråd med tungmetallklasse II, eller med aktuell lavere klasse dersom det kan dokumenteres et lavere tungmetallinnhold enn tungmetallklasse II.
+
+Ved bruk av avløpsslambasert gjødsel med særskilte bruksvilkår skal den årlige tilførselen av avløpsslamkomponenten ikke overstige 100 kg tørrstoff per dekar. Ved bruk av gjødselvarer i ferdigplenproduksjon gjelder mengdebegrensningen etter første ledd i løpet av hver produksjonssyklus i stedet for i løpet av en tiårsperiode.
+
+Ved etablering og reetablering av grøntareal skal bruksmengden av gjødselvarer ikke overskride et lag på fem centimeter. Ved bruk av anleggsjord, gjelder denne mengdebegrensningen bare for de komponentene i anleggsjorden som utgjøres av annet enn jord, sand og silt. Andre produkter enn anleggsjord og jorddekkingsmidler skal blandes inn i jorda på bruksstedet. Gjødselvarer kan i tillegg brukes i de mengder som følger av første ledd på de etablerte arealene.
+
+Ved bruk som toppdekke på deponier skal bruksmengden av gjødselvarer ikke overskride et lag på 15 centimeter.
+
+Bruken av mengder som følger av første til og med tredje ledd er ikke tillatt dersom dette medfører en overskridelse av behovet, jf. [§ 14](forskrift/2025-01-29-115/§14), eller av den maksimale mengden fosfor som etter [§ 20](forskrift/2025-01-29-115/§20) eller [§ 22 bokstav f](forskrift/2025-01-29-115/§22/bokstav/f) kan tilføres arealene. Bruken av mengder som følger av fjerde ledd er ikke tillatt dersom dette medfører en overskridelse av behovet, jf. [§ 14](forskrift/2025-01-29-115/§14).
+
+### § 25. Særlige bestemmelser om bruk av gjødselvarer på dyrket jord ut fra tungmetallinnhold
+
+Det kan ikke brukes gjødselvarer i tungmetallklasse I, II og III eller med fosforbaserte grenseverdier for tungmetallinnhold på jordbruksareal dersom tungmetallinnholdet i jorda overskrider følgende verdier:Milligram per kilogram tørrstoffKadmium1Bly60Kvikksølv1Nikkel50Sink150Kobber50Krom100
+
+Jordbruksforetaket skal sørge for at det utføres tungmetallanalyser av jorda med nødvendig hyppighet dersom det er risiko for at tungmetallgrensene angitt i første ledd overskrides på grunn av geologiske forhold eller andre forhold, som for eksempel intensiv bruk av husdyrgjødsel over flere år.
+
+## Kapittel 6. Krav til plan og dokumentasjon
+
+### § 26. Krav til gjødslingsplan
+
+Den som disponerer og gjødsler mer enn 25 dekar per år, eller mer enn 5 dekar poteter eller grønnsaker som er særlig fosforkrevende, jf. [§ 21](forskrift/2025-01-29-115/§21), skal ha en gjødslingsplan. Planen skal foreligge før den enkelte vekstsesong og justeres etter behov dersom vekstforholdene avviker fra forutsetningene som lå til grunn da planen ble laget.
+
+Planen skal inneholde en kartskisse som viser arealinndelingen, og følgende opplysninger skal oppgis for hvert enkelt areal:utstrekning i dekar,resultat av representative jordprøver i tråd med [§ 29](forskrift/2025-01-29-115/§29),forgrøde,årets vekster,forventet avlingsnivå per dekar,årets gjødslingsbehov for nitrogen og fosfor per dekar,type gjødselvare som forventes brukt, ogplanlagt tilførsel av fosfor- og nitrogenmengde per dekar oppgitt i kg.
+
+Jordprøver etter bokstav b) skal ikke være eldre enn åtte år, med mindre noe annet er bestemt i denne forskriften, jf. [§ 20 andre ledd](forskrift/2025-01-29-115/§20/ledd/2), [§ 21](forskrift/2025-01-29-115/§21) og [§ 22 andre ledd bokstav e)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/e).
+
+Foretakets gjødslingsplanlegging i henhold til bokstav f–h skal være basert på bokstav a–e.
+
+Gjødslingsplanen skal gi en beskrivelse av hvordan et eventuelt overskudd av organisk gjødselvare skal håndteres.
+
+Opplysninger etter andre ledd skal oppbevares, og skal kunne legges frem for kontroll, i minst fem år etter utløpet av det kalenderåret gjødslingsplanen gjelder for.
+
+### § 27. Krav til journal med dokumentasjon på mottak, bortskaffelse og bruk av gjødselvarer mv.
+
+Den som tar imot gjødselvare med mer enn 75 kg fosfor det enkelte år for lagring eller bruk regulert av denne forskrift, skal dokumentere type og mengde, mengden totalfosfor, dato for mottakelsen og fra hvem gjødselen kommer. Den som tar imot gjødselvare med avløpsslam må i tillegg dokumentere innhold av plantetilgjengelig fosfor.
+
+Den som bortskaffer organisk gjødselvare med mer enn 75 kg fosfor det enkelte år til andre, skal dokumentere type og mengde, mengden totalfosfor, dato for leveransen og til hvem det er levert.
+
+Alle som bruker gjødselvare skal føre gjødseljournal som gir oversikt over:hvilken type og mengde gjødselvare det er gjødslet med, på hvilket areal og på hvilket tidspunkt,hvilke mengder av fosfor og nitrogen som er tilført det enkelte areal, oghvilke mengder fosfor og nitrogen som totalt er tilført.
+
+Opplysninger som kreves etter denne paragrafen skal oppbevares og kunne legges frem for kontroll senest 1. november det året gjødseljournalen gjelder for, og skal oppbevares i minst fem år etter utløpet av det året journalen gjelder for.
+
+Opplysninger etter andre ledd skal innrapporteres digitalt til offentlig register på den måten og fra det tidspunkt som Landbruksdirektoratet bestemmer.
+
+### § 28. Særlige krav til journal ved bruk av visse gjødselvarer på jordbruksarealer
+
+Den som bruker gjødselvarer der bruken begrenses ut fra gjødselvarens tungmetallinnhold jf. [§ 25](forskrift/2025-01-29-115/§25) og [forskrift 29. januar 2025 nr. 116 om gjødselvarer § 18](forskrift/2025-01-29-116/§18) og [§ 19](forskrift/2025-01-29-116/§19) på jordbruksarealer skal føre journal hvor følgende opplysninger skal inngå:gårds- og bruksnummer på eiendommen der produktet er brukt,bruksstedet,produktkategorien,gjødselvarens tungmetallbegrensning,mengden brukt per dekar, ogspredetidspunktet.
+
+Ved bruk av avløpsslambasert gjødsel med særskilte bruksvilkår skal journalen i tillegg til det som følger av første ledd inneholde opplysninger om:hvilken virksomhet produktet er mottatt fra,produktets handelsnavn,mengden som er mottatt,mottaksdatoen, ogkartskisse som angir de arealene hvor produktet er brukt.
+
+Opplysninger som kreves etter paragrafen her skal oppbevares og kunne legges frem for kontroll i minst ti år etter utløpet av det kalenderåret journalen gjelder for.
+
+### § 29. Uttak og analyse av jordprøver
+
+Jordprøver påkrevd etter denne forskrift skal være representative med hensyn til jordvariasjon, størrelse og formen på arealet.
+
+Uttak av jordprøver skal følge faglig anerkjente metoder.
+
+Prøvestedene skal koordinatfestes.
+
+Prøvene skal analyseres av laboratorium som er akkreditert eller som følger et kvalitetssikringssystem for jordanalyser slik Landbruksdirektoratet bestemmer. Analysen skal slå fast jordart, pH, fosforinnhold målt som P-AL-verdi, og jordas innhold av organisk materiale (moldinnhold).
+
+Resultater fra jordprøvene med tilhørende koordinater skal innrapporteres digitalt til offentlig register på den måten og fra det tidspunkt som Landbruksdirektoratet bestemmer.
+
+## Kapittel 7. Tilsyn, klage, straff mv.
+
+### § 30. Tilsyn og enkeltvedtak
+
+Kommunen fører tilsyn og kan fatte nødvendige enkeltvedtak for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. I tillegg kan Mattilsynet føre tilsyn og fatte nødvendige enkeltvedtak etter [§ 22 første ledd](forskrift/2025-01-29-115/§22/ledd/1) og [andre ledd bokstav a)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/a) til [d)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/d), [§ 24](forskrift/2025-01-29-115/§24) og [§ 25](forskrift/2025-01-29-115/§25).
+
+Kommunen kan utøve myndighet etter [forurensingsloven](lov/1981-03-13-6) i henhold til [forskrift 20. desember 2024 nr. 3400 om kommunens myndighet etter forurensningsloven](forskrift/2024-12-20-3400), etter [jordlova](lov/1995-05-12-23) i henhold til [forskrift 8. desember 2003 nr. 1479](forskrift/2003-12-08-1479) og etter bestemmelsene i [folkehelseloven kap. 3](lov/2011-06-24-29/kap3).
+
+### § 31. Myndighet til å gi forskrift og fatte enkeltvedtak
+
+Statsforvalteren kan gi forskrift eller fatte enkeltvedtak om:Ytterligere krav til skjerming mot nedbør eller krav om annen plassering av gjødselvaren enn det som følger av [§ 8](forskrift/2025-01-29-115/§8) dersom dette er nødvendig for å begrense fare for forurensning.Senere spredetidspunkt i områdene som ligger innenfor nedbørsfeltet som drenerer til kyststrekningen fra svenskegrensa til fylkesgrensa mot Agder jf. [§ 15 første ledd nr. 1](forskrift/2025-01-29-115/§15/ledd/1/nummer/1). I disse områdene kan spredning med nedmolding tillates frem til 1. november så lenge det ikke fører til vesentlig økt avrenning til Oslofjorden.Senere spredetidspunkt enn det som følger av [§ 15 første ledd](forskrift/2025-01-29-115/§15/ledd/1) i Nordland og innlandsområder over marin grense der vekstsesongen i snitt de siste ti årene har startet etter 1. mai, med unntak av områder omfattet av bokstav b). I slike områder kan spredning med nedmolding tillates frem til 1. november. Adgangen til å tillate senere spredetidspunkt er begrenset til områder der vannforekomstene oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446), og ikke står i fare for å få forverret tilstand.Strengere krav til spredning av gjødselvarer med avløpsslam enn det som følger av [§ 22 andre ledd bokstav e)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/e) og [f)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/f) i områder der vannforekomstene ikke oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446) eller står i fare for å få forverret tilstand.Krav til gjennomføring av avbøtende tiltak for å motvirke avrenning på arealer der det produseres poteter eller grønnsaker som er særlig fosforkrevende, jf. [§ 21](forskrift/2025-01-29-115/§21), i områder der vannforekomstene ikke oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446) eller står i fare for å få forverret tilstand.Digital innrapportering av opplysninger etter [§ 27 første](forskrift/2025-01-29-115/§27/ledd/1) og [tredje ledd](forskrift/2025-01-29-115/§27/ledd/3) til offentlig register i områder der vannforekomstene ikke oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446) eller står i fare for å få forverret tilstand.Strengere krav til lagring og bruk av gjødselvarer enn det som følger av denne forskrift i områder der vannforekomstene ikke oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446) eller står i fare for å få forverret tilstand.
+
+Enkeltvedtak etter denne bestemmelsen skal innrapporteres av statsforvalteren til offentlig register.
+
+### § 32. Dispensasjon
+
+Kommunen kan etter søknad gi en tidsavgrenset dispensasjon til å spre gjødselvare på annet areal enn godkjent spredeareal jf. [§ 17 første ledd](forskrift/2025-01-29-115/§17/ledd/1), som ledd i etablering av innmarksbeite. Ved vurderingen skal det legges særlig vekt på hvilke virkninger gjødsling kan få for natur- og kulturlandskapsverdier, og om gjødslingen kan skje på en forsvarlig måte.
+
+Statsforvalteren kan i særlige tilfeller og etter søknad, gi en tidsbegrenset dispensasjon fra bestemmelsene i denne forskriften, med unntak av [§ 22 første ledd](forskrift/2025-01-29-115/§22/ledd/1) og [andre ledd bokstav a)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/a) til [d)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/d), [§ 24](forskrift/2025-01-29-115/§24) og [§ 25](forskrift/2025-01-29-115/§25), der det er Mattilsynet som har myndighet til å gi dispensasjon.
+
+Dispensasjon kan ikke gis dersom hensynene bak bestemmelsen det dispenseres fra, eller forskriftens formålsbestemmelse, blir vesentlig tilsidesatt. Fordelen ved en dispensasjon må, etter en samlet vurdering, være klart større enn ulempene.
+
+Ved vurderingen av om dispensasjon skal gis og eventuelt på hvilke vilkår, skal det legges særlig vekt på dispensasjonens konsekvenser for vannkvalitet, herunder om dispensasjon medfører at vannforekomster ikke oppfyller målene i [vannforskriften](forskrift/2006-12-15-1446) eller står i fare for å få forverret tilstand, samt konsekvenser for helse, ressursutnyttelse og miljøforsvarlig forvaltning av jordsmonnet.
+
+Dispensasjoner etter denne bestemmelsen skal innrapporteres til offentlig register.
+
+### § 33. Straff
+
+Den som forsettlig eller uaktsomt overtrer denne forskriften, eller vedtak truffet i medhold av denne forskriften, straffes etter [forurensningsloven kapittel 10](lov/1981-03-13-6/kap10), [matloven § 28](lov/2003-12-19-124/§28) eller [folkehelseloven § 18](lov/2011-06-24-29/§18) hvis ikke strengere straffebestemmelser kommer til anvendelse.
+
+### § 34. Klage
+
+Vedtak truffet av kommunen i medhold av denne forskriften kan påklages til statsforvalteren. Vedtak truffet av Mattilsynet i medhold av denne forskriften kan påklages til Mattilsynet ved hovedkontoret. Vedtak truffet av statsforvalteren i medhold av denne forskriften kan påklages til Landbruksdirektoratet. Landbruksdirektoratets vedtak skal fattes i samråd med Miljødirektoratet.
+
+## Kapittel 8. Ikrafttredelse, overgangsregler og endring av forskriften
+
+### § 35. Ikrafttredelse
+
+Forskriften trer i kraft 1. februar 2025. Fra samme tidspunkt oppheves [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951).
+
+### § 36. Overgangsregler
+
+1. *Spredetidspunkt*Frem til utgangen av 2026 er spredning av organiske gjødselvarer tillatt i følgende perioder:I områdene som ligger innenfor nedbørsfeltet som drenerer til kyststrekningen svenskegrensa – Lindesnes, i perioden 15. februar til og med 1. november i kombinasjon med nedmolding. Spredning uten nedmolding på eng og annen grøde skal gjøres senest 1. september.I kommunene Stavanger, Sola, Randaberg, Sandnes, Gjesdal, Klepp, Time og Hå i Rogaland fylke i perioden 15. februar til og med 1. september.I resten av landet, i perioden 15. februar til og med 1. november. Spredning uten nedmolding på eng og annen grøde skal gjøres senest 15. september.Frem til utgangen av 2028 kan likevel virksomheter som ved forskriftens ikrafttredelse ikke hadde tilstrekkelig lagerkapasitet til å overholde krav til spredetidspunkt i [§ 15](forskrift/2025-01-29-115/§15), spre gjødselvarer uten nedmolding på eng frem til og med 15. september, og med nedmolding frem til og med 1. november. Dette gjelder likevel ikke dersom det gjøres vesentlige endringer i driften som øker gjødselmengden og behovet for lagerkapasitet, herunder omlegging fra båsfjøs til løsdrift eller installasjon av melkerobot eller melkestall.
+2. *Beite godkjent som spredeareal*Innmarksbeiter godkjent som spredeareal i medhold av [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav § 24 nr. 1 andre ledd](forskrift/2003-07-04-951/§24/nummer/1/ledd/2), skal anses godkjent som spredeareal etter denne forskrift såfremt arealet oppfyller definisjonen av innmarksbeite i [§ 3 bokstav i](forskrift/2025-01-29-115/§3/bokstav/i). Statsforvalteren kan ved enkeltvedtak likevel oppheve tidligere godkjenninger av innmarksbeiter som spredeareal dersom:arealet ikke er dokumentert med kartbeskrivelse og kan påvises tilsvarende i terrenget,gjødslingen har uheldige virkninger for natur- og kulturlandskapsverdier,gjødslingen ikke kan skje på en forsvarlig måte, ellerarealet ikke beites men likevel tilføres gjødselvarer.Innmarksbeiter kan frem til utgangen av 2027 tilføres mineralgjødsel uten at arealet er godkjent etter [§ 17](forskrift/2025-01-29-115/§17) såfremt det foreligger gjødslingsplan fra 2022 eller 2023 som dokumenterer at arealet ble tilført mineralgjødsel før ikrafttredelse av denne forskrift.
+3. *Vedtak og forskrifter gitt i medhold av tidligere [forskrift 4. juli 2003 nr. 951](forskrift/2003-07-04-951) om gjødselvarer av organisk opphav mv.*Enkeltvedtak og forskrifter gitt i medhold av [forskrift 4. juli 2003 nr. 951 om gjødselvarer mv. av organisk opphav](forskrift/2003-07-04-951), oppheves ved ikrafttredelse av denne forskrift med mindre annet følger av bokstav b om godkjenning av beite som spredeareal.
+4. *Fosforgrenser*Bestemmelsene om begrensninger for tilførsel av fosfor på jordbruksareal i [§ 20 første](forskrift/2025-01-29-115/§20/ledd/1), [andre](forskrift/2025-01-29-115/§20/ledd/2) og [tredje ledd](forskrift/2025-01-29-115/§20/ledd/3) trer i kraft 1. januar 2027. Frem til utgangen av 2026 skal mengden tilført fosfor ved bruk av fosforholdig gjødsel og annen plantenæring på fulldyrket og overflatedyrket jord, ikke overstige 3,5 kg P/daa. Statsforvalteren kan etter søknad gi tillatelse til tilførsel av mer enn 3,5 kg P/daa/år dersom foretaket dokumenterer et reelt behov, gitt avlingens fosforopptak og fosfornivåer i jord målt gjennom jordprøver.
+5. *Gjødslingsplan og gjødseljournal*Bestemmelsene om krav til gjødslingsplan i [§ 26](forskrift/2025-01-29-115/§26) og krav til gjødseljournal i [§ 27](forskrift/2025-01-29-115/§27) trer i kraft 1. januar 2026. Frem til utgangen av 2025 skal gjødslingsplanleggingen følge kravene i [forskrift 1. juli 1999 nr. 791 om gjødslingsplanlegging](forskrift/1999-07-01-791).
+6. *Jordprøver*Jordprøver tatt før forskriftens ikrafttredelse skal anses som godkjent etter denne forskrift såfremt prøvestedene er kartfestet og det foreligger analyseresultat som slår fast jordart, pH, fosforinnhold målt som P-AL-verdi, og jordas innhold av organisk materiale (moldinnhold). Fra 1. januar 2030 skal det likevel foreligge jordprøver som oppfyller kravene i [§ 29](forskrift/2025-01-29-115/§29).
+7. *Bruk av produkter med avløpsslam*Bestemmelser om bruk av produkter med avløpsslam i [§ 22 andre ledd bokstav e)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/e) og [f)](forskrift/2025-01-29-115/§22/ledd/2/bokstav/f) trer i kraft 1. januar 2030.
+
+### § 37. Endring av forskriften
+
+Forskriften kan endres av Landbruks- og matdepartementet, Klima- og miljødepartementet og Helse- og omsorgsdepartementet i fellesskap.
+
+[Vedlegg 1](forskrift/2025-01-29-115/vedlegg1) og [vedlegg 2](forskrift/2025-01-29-115/vedlegg2) kan endres av Landbruksdirektoratet.
+
+## Vedlegg 1: normtall for forventet mengde fosfor (P) per individ av ulike dyreslag*
+
+## Vedlegg 2: normtall for forventet mengde nitrogen (N) per individ av ulike dyreslag*

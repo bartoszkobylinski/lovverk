@@ -1,0 +1,24 @@
+---
+id: "sf-20101217-1607"
+slug: "forskrift-om-utvidelse-av-geografisk-virkeområde-for-havne-og-farvannsloven"
+type: "forskrift"
+ref_id: "forskrift/2010-12-17-1607"
+title: "Utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann"
+short_title: "Forskrift om utvidelse av geografisk virkeområde for havne- og farvannsloven"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2010-12-17"
+last_change_in_force: null
+last_updated: null
+xml_hash: "ba8450052c53055a8ca76a0610bc1ed0c5c3427b4351e3e7a5bc6dd8f5018062"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann
+
+Med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat gis [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann [§ 13](lov/2009-04-17-19/§13) og [§ 22](lov/2009-04-17-19/§22) utvidet geografisk virkeområde slik at disse også gjelder i Norges økonomiske sone.

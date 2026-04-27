@@ -1,0 +1,31 @@
+---
+id: "sf-20150409-0420"
+slug: "forskrift-om-søknad-om-mesterbrev-kvalifikasjon-fra-andre-land"
+type: "forskrift"
+ref_id: "forskrift/2015-04-09-420"
+title: "Forskrift om søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land"
+short_title: "Forskrift om søknad om mesterbrev, kvalifikasjon fra andre land"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2015-04-09"
+last_change_in_force: null
+last_updated: null
+xml_hash: "0eec90360c0666d0bbdbfe91d21cda230e611739e018889f3fa36da94dd0fadb"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land
+
+## I
+
+1. Ved søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land, foretas det en helhetlig vurdering av søkerens kompetanse sett i forhold til den norske mesterkvalifikasjonen. Det legges til grunn for vurderingen at:Søker må være mester i et fag som ligger under den norske mesterbrevordningen.Søker må ha norsk fag-/svennebrev, eller det må foreligge bekreftelse fra norsk myndighet på at den utenlandske fagutdanningen er på samme nivå som den norske fagutdanningen.Det utenlandske mesterbrevet må i grove trekk samsvare med det norske når det gjelder nivå og faglig innhold.Søker må kunne dokumentere kompetanse i de til en hver tid gjeldende norske myndighetskrav og bransjestandarder innen mesterfaget. Dette inkluderer lover, forskrifter og standarder.Søker må kunne dokumentere praksis som selvstendig yrkesutøver i faget.
+2. All dokumentasjon skal foreligge på norsk.
+
+## II
+
+Forskrift om søknad om mesterbrev med bakgrunn i mesterkvalifikasjon fra andre land ble vedtatt i Mesterbrevnemnda 9. april 2015, og trer i kraft med umiddelbar virkning. Samtidig oppheves [forskrift 20. juni 2003 nr. 1160](forskrift/2003-06-20-1160) om godkjenning av annen utdanning og arbeidspraksis (realkompetanse) i stedet for mestereksamener.

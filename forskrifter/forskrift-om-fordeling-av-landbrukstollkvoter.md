@@ -1,0 +1,488 @@
+---
+id: "sf-20081010-1132"
+slug: "forskrift-om-fordeling-av-landbrukstollkvoter"
+type: "forskrift"
+ref_id: "forskrift/2008-10-10-1132"
+title: "Forskrift om fordeling av tollkvoter for landbruksvarer"
+short_title: "Forskrift om fordeling av landbrukstollkvoter"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2008-10-10"
+last_change_in_force: "2024-10-04"
+last_updated: "2013-10-15"
+xml_hash: "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fordeling av tollkvoter for landbruksvarer
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Denne forskriften regulerer fordeling av tollkvoter for landbruksvarer som omfattes av vedlegg 1.
+
+### § 2. Definisjoner
+
+I denne forskrift menes med:*Budgiver:* Virksomhet som er registrert hos Landbruksdirektoratet for å delta på auksjon.*Kvoteandel:* Den andel av en tollkvote som tildeles en virksomhet gjennom auksjon eller annen form for tildeling.*Kvoteeier:* Virksomhet som har fått tildelt kvoteandel fra Landbruksdirektoratet, jf. [§ 23](forskrift/2008-10-10-1132/§23).*Kvoteperiode:* Den periode kvoteandelen skal importeres innenfor (jf. vedlegg 1, kolonne V).*Kvotesøker:* Virksomhet som søker om å få tildelt kvoteandel.*Kvoteår:* Perioden, maksimalt ett år, som tollkvoten gjelder for.*Skriftlig:* Også elektronisk melding dersom ikke Landbruksdirektoratet på grunn av behov for sikker identifisering krever henvendelser per brev eller telefaks.*Driftsoperatør:* Virksomhet som har inngått kontrakt med Landbruksdirektoratet om beredskapslagring av korn.
+
+> Endret ved forskrifter [31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+### § 3. Forvaltningsmyndighet
+
+Landbruksdirektoratet fordeler tollkvoter etter forskriften.
+
+Landbruksdirektoratet kan stille vilkår som er nødvendige for å oppfylle formålet med den enkelte kvote, herunder fastsette godkjennelsesprosedyrer for hvem som kan få kvoteandel og vilkår for anvendelsen av den importerte varen.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 4. Generelle vilkår for fordeling og uttak av tollkvoteandeler
+
+Med unntak av tollkvotene som fordeles etter [kapittel II](forskrift/2008-10-10-1132/kapii) må kvotesøker eller budgiver være registrert i Foretaksregisteret for å få tildelt kvoteandel etter forskriften.
+
+En tildelt tollkvoteandel er gyldig for import innenfor kvoteperioden, jf. vedlegg 1.
+
+Landbruksdirektoratet utsteder innførselstillatelse innenfor den tildelte tollkvoteandelen. For kvoter som er fordelt ved auksjon, utstedes ikke innførselstillatelsen før auksjonsbeløpet er betalt.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## Kapittel II. Fordeling av tollkvoter etter søknadstidspunkt
+
+### § 5. Vareomfang
+
+Bestemmelsene i dette kapitlet gjelder de tollkvoter som er markert med «S» i kolonne VII i vedlegg 1.
+
+### § 6. Minimums- og maksimumsandeler
+
+Før fordelingen kan Landbruksdirektoratet fastsette en minimums- og maksimumsandel av hele tollkvoten som en kvotesøker kan få tildelt pr. søknad og totalt pr. kvoteår.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 7. Søknad
+
+Skriftlig søknad om kvoteandel sendes til Landbruksdirektoratet, og skal inneholde søkers navn, adresse og foretaksnummer eller personnummer. Det skal søkes om en bestemt mengde av en angitt vare. Varebetegnelsen og tolltariffens varenummer skal oppgis.
+
+Kun registrerte trossamfunn kan søke om andel av tollkvotene for kosherslaktet kjøtt og halalslaktet kjøtt.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [20 feb 2015 nr. 144](forskrift/2015-02-20-144).
+
+### § 8. Fordeling av tollkvoten
+
+Landbruksdirektoratet fastsetter en søknadsperiode for første tildeling av kvoteandeler innenfor den enkelte tollkvote. Så fremt fullstendig søknad er registrert innkommet i denne perioden, tildeler Landbruksdirektoratet kvoteandel i samsvar med den mengden det søkes om. Dersom den totale mengden det søkes om overstiger tollkvoten, avkortes mengden det søkes om forholdsmessig mellom søkerne.
+
+Kvote som ikke er fordelt etter første ledd, fordeles fortløpende etter søknadenes prioritet. Søknader gis prioritet etter datoen fullstendig søknad er registrert innkommet til Landbruksdirektoratet. Søknader registrert innen kl. 1500 samme dag gis lik prioritet. Dersom mengden det søkes om medfører at tollkvoten overstiges, avkortes denne med det overskytende kvantum. For søknader med samme prioritet, avkortes mengden forholdsmessig.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 9. (Opphevet)
+
+> Opphevet ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178).
+
+### § 10. Ubenyttet kvoteandel
+
+Det innvilges ikke kvoteandel innenfor kvoteåret før tidligere tildelt andel av samme kvote er importert.
+
+Dersom kvoteeier ikke ønsker å benytte tildelt kvoteandel, skal det uten ugrunnet opphold gis skriftlig melding om dette til Landbruksdirektoratet. Helt eller delvis ubenyttet kvoteandel skal trekkes tilbake.
+
+Kvoteandel som er trukket tilbake skal legges ut til ny fordeling.
+
+> Endret ved [forskrifter 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 11. Omsetningsforbud
+
+Kvoteandeler tildelt etter dette kapitlet kan ikke omsettes.
+
+## Kapittel III. Fordeling av tollkvoter ved auksjon
+
+### § 12. Vareomfang
+
+Bestemmelsene i dette kapitlet gjelder de tollkvoter som er markert med «A1», «A2», «A3», «A4», «A5» og «A6 » i kolonne VII i vedlegg 1.
+
+### § 13. Tidspunkt for auksjoner
+
+Landbruksdirektoratet fastsetter åpningstidspunktet for auksjonene innenfor følgende tidsrammer:
+
+Kvotefordelingen ved auksjon for reinsdyr til slakteri/reinkjøtt merket «A1» gjennomføres i oktober og januar. Inntil 40 prosent av antatt total kvote fordeles i oktober.
+
+Kvotefordeling ved auksjon for de produkter som er merket «A2» gjennomføres senest i november året før det året kvoten skal fordeles for.
+
+Kvotefordeling ved auksjon for de produkter som er merket «A3» gjennomføres senest i november samme år som kvoteperioden starter.
+
+Kvotefordeling ved auksjon for de produkter som er merket «A4» gjennomføres i januar hvert år det året kvotene skal fordeles for.
+
+Kvotene for oljefrø merket «A5» fordeles to ganger per år, august og november. Kvotene for matkorn og enkelte råvarer til kraftfôr fordeles i august, november og mai. I august fordeles 25-55 prosent av det prognostiserte importbehovet. I november fordeles 25-55 prosent av importbehovet, justert i forhold til nye prognoser og tildelt kvote i august. Fordelingen i august og november kan ikke til sammen overstige 80 prosent av prognostisert importbehov i november. Ekstra kvoter kan fordeles utenom de ordinære tildelingstidspunkter.
+
+Kvotefordeling ved auksjon for de produkter som er merket «A6» gjennomføres senest i november året før det første av de to år kvotene skal fordeles for.
+
+Dersom hele eller deler av en tollkvote ikke fordeles, kan Landbruksdirektoratet, dersom markedsmessige hensyn tilsier det, fordele restkvantumet ved å avholde tilleggsauksjon på et senere tidspunkt enn det som er nevnt ovenfor.
+
+> Endret ved [forskrifter 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 14. Minimums- og maksimumsandel
+
+Landbruksdirektoratet kan fastsette en minimums- og maksimumsandel av tollkvoten som én budgiver kan legge inn bud på i en auksjon.
+
+> Endret ved [forskrifter 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 15. Krav til auksjonsdeltaker
+
+For å delta på auksjon, må virksomheten registrere seg innen kunngjort frist og vurderes kredittverdig av Landbruksdirektoratet. I vurderingen skal det legges vekt på virksomhetens betalingsevne og -vilje. Landbruksdirektoratet kan videre vektlegge sin generelle tillit til virksomheten. Dersom virksomheten ikke vurderes å være kredittverdig, skal den stille bankgaranti for det beløp som ønskes disponert i auksjonen.
+
+Budgiver innenfor kvotene for svingelfrø, engrappfrø og raigrasfrø må være registrert som såvareforretning.
+
+Budgiver innenfor kvotene for eplesaft/-konsentrat fra EU, EFTA og Storbritannia må oppfylle vilkårene i [forskrift 22. desember 2005 nr. 1723 om administrative nedsettelser av tollavgiftssatser for landbruksvarer § 18b](forskrift/2005-12-22-1723/§18b) første ledd.
+
+> Endret ved [forskrifter 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [1 juli 2011 nr. 753](forskrift/2011-07-01-753), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [20 mars 2015 nr. 272](forskrift/2015-03-20-272), [24 nov 2021 nr. 3279](forskrift/2021-11-24-3279) (i kraft 1 des 2021), [15 des 2022 nr. 2261](forskrift/2022-12-15-2261) (i kraft 1 jan 2023).
+
+### § 16. (Opphevet)
+
+> Opphevet ved [forskrift 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364).
+
+### § 17. Bud
+
+Bud skal gis elektronisk i Landbruksdirektoratet auksjonssystem og anses som bindende avgitt på det tidspunktet budet er registrert inn i auksjonssystemet.
+
+Bud skal gis pr. hele kilo, med unntak for kornkvotene hvor budet skal gis pr. tonn.
+
+Bud for kvoter som auksjoneres i kilo skal gis i kronebeløp med to desimaler. Minstepris skal være kr 0,01 pr. kilo og minste budøkning kr 0,01 pr. kilo. For kvoter som auksjoneres i tonn skal minstepris være kr 10 pr. tonn, og minste budøkning være i hele kroner og minimum kr 1 pr. tonn.
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 18. Åpningsbud
+
+Innenfor minimums- og maksimumsandel fastsatt av Landbruksdirektoratet, jf. [§ 14](forskrift/2008-10-10-1132/§14), kan budgiver i sitt første bud velge hvor stor mengde det bys på.
+
+Frist for å legge inn første bud er 30 minutter før åpningstidspunktet for auksjonen, jf. [§ 13](forskrift/2008-10-10-1132/§13). Budgiver skal gis anledning til å legge inn bud i en periode på minimum 24 timer før fristen for å legge inn første bud går ut. I denne perioden kan budgiver endre sitt opprinnelige bud. Budet offentliggjøres ikke før åpningstidspunktet.
+
+Dersom en budgiver legger inn sitt første bud etter at fristen for dette har gått ut, avvises budet slik at budgiver utelukkes fra auksjonen.
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 19. Videre budgivning
+
+Etter åpningstidspunktet for auksjonen forlenges auksjonen med et tidsintervall angitt av Landbruksdirektoratet. Tidsintervallet fornyes hver gang det legges inn nytt bud.
+
+Tollkvoten fordeles til budgiver eller budgivere med høyeste bud. I tilfeller hvor denne eller disse ikke har lagt inn bud på hele kvoten, eller tildelingen begrenses av regelen om maksimalgrensen for kvoten, fordeles resterende kvote til budgiver eller budgivere med nest høyeste bud osv. inntil hele kvoten er fordelt. Dersom mengden det er budt på medfører at totalt kvantum for kvoten overskrides, foretas avkorting i det eller de laveste bud som gir tildeling. I slike tilfeller avkortes like bud i forhold til mengde angitt i budgivernes siste bud.
+
+Nytt bud kan ikke innebære endring av kvantum i forhold til budgivers første bud, jf. [§ 18](forskrift/2008-10-10-1132/§18). Så fremt budprisen økes, kan budgivere som ikke har fått tildeling eller har fått avkortet mengde i samsvar med reglene i foregående ledd, likevel redusere mengden i det nye budet ned til tildelt kvantum.
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 20. Utsetting, stans og annullering
+
+Dersom det oppstår eller har oppstått problemer knyttet til Landbruksdirektoratets auksjonssystem, som kan ha betydning for gjennomføringen og resultatet av en auksjon, kan auksjonen utsettes, stanses eller annulleres. I slike tilfeller skal Landbruksdirektoratet informere budgivere som har lagt inn bud på de auksjonene som blir rammet, om åpningstidspunkt for ny auksjon eller tidspunktet for når en stanset auksjon skal fortsette.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 21. Oppgjør av auksjonsbeløp mv.
+
+Auksjonsbeløpet forfaller til betaling etter de frister som fastsettes av Landbruksdirektoratet.
+
+Krav på auksjonsbeløp kan motregnes i budgivers krav på tilskudd fra tilskuddsordninger forvaltet av Landbruksdirektoratet.
+
+Dersom auksjonsbeløpet ikke er oppgjort innen fastsatt forfallsdato, kan Landbruksdirektoratet i særlige tilfeller oppheve kvotetildelingen og legge kvoteandelen ut til ny auksjon. Landbruksdirektoratet kan i slike tilfeller kreve erstatning for det tap staten lider som følger av budgivers mislighold av auksjonsbeløpet.
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 22. (Opphevet)
+
+> Opphevet ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178).
+
+### § 23. Omsetning av kvoteandel
+
+En ubenyttet kvoteandel som er tildelt etter bestemmelsene i dette kapitlet kan omsettes fra auksjonsbeløpet er innbetalt til kvoteperiodens slutt. Kjøperen må oppfylle vilkårene i [§ 4](forskrift/2008-10-10-1132/§4) jf. [§ 15](forskrift/2008-10-10-1132/§15) annet og tredje ledd. Selger skal gi Landbruksdirektoratet skriftlig melding når en kvoteandel overdras.
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [25 okt 2010 nr. 1364](forskrift/2010-10-25-1364), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 24. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 25. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 26. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 27. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 28. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 29. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 30. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+### § 31. (Opphevet)
+
+> Opphevet 1 jan 2013 ved [forskrift 16 nov 2012 nr. 1100](forskrift/2012-11-16-1100), tilhørte tidligere kapittel IV.
+
+## Kapittel IV. Fordeling av tollkvoten for ost fra EU som ikke fordeles ved auksjon
+
+> Endret ved forskrifter [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [7 des 2020 nr. 2627](forskrift/2020-12-07-2627) (tidligere kapittel V).
+
+### § 32. Vareomfang
+
+Bestemmelsene i dette kapitlet gjelder tollkvoten for ost fra EU som er markert med «H» i kolonne VII i vedlegg 1.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [26 okt 2018 nr. 1615](forskrift/2018-10-26-1615).
+
+### § 33. Søknad
+
+Tollkvoten for ost fordeles på grunnlag av skriftlig søknad til Landbruksdirektoratet. Søknaden skal inneholde søkerens navn, adresse og foretaksnummer.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 34. Krav til søkerne
+
+Tollkvoten for ost fordeles til søkere som har importert minst 15 tonn ost under tollposisjon 04.06 i løpet av de siste 24 måneder før 1. oktober.
+
+> Tilføyd ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178) (i kraft 1 jan 2015, jf. dennes romertall II nr. 2 og 3 for overgangsbestemmelser.)
+
+### § 35. Fordeling på grunnlag av historisk import
+
+Tollkvoten fordeles forholdsmessig ut fra verdien av søkernes import under tollposisjon 04.06 i løpet av de siste 24 måneder før 1. oktober.
+
+Ingen søkere kan tildeles mer enn 30 prosent av tollkvoten. Ufordelt tollkvote som følge av denne avgrensningen fordeles i samsvar med første ledd til øvrige søkere som oppfyller vilkåret i [§ 34](forskrift/2008-10-10-1132/§34).
+
+> Tilføyd ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178) (i kraft 1 jan 2015, jf. dennes romertall II nr. 2 og 3 for overgangsbestemmelser.)
+
+### § 36. (Opphevet)
+
+> Opphevet ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178).
+
+### § 37. (Opphevet)
+
+> Opphevet ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178).
+
+### § 38. (Opphevet)
+
+> Opphevet 1 jan 2012 ved [forskrift 15 nov 2011 nr. 1111](forskrift/2011-11-15-1111).
+
+### § 39. (Opphevet)
+
+> Opphevet 1 jan 2011 ved [forskrift 25 okt 2010 nr. 1364](forskrift/2010-10-25-1364).
+
+### § 40. (Opphevet)
+
+> Opphevet ved [forskrift 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178).
+
+### § 41. Omsetning av kvoteandel
+
+Ubenyttet kvoteandel som er tildelt etter dette kapitlet kan omsettes fra fordelingstidspunktet frem til kvoteperiodens slutt.
+
+Selgeren skal gi Landbruksdirektoratet skriftlig melding når en kvoteandel overdras.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## Kapittel V. Fordeling av tollkvoten for ost fra Storbritannia
+
+> Kapittel tilføyd ved forskrift [7 des 2020 nr. 2627](forskrift/2020-12-07-2627).
+
+### § 41a. Vareomfang
+
+Bestemmelsene i dette kapitlet gjelder tollkvoten for ost fra Storbritannia som er markert med «H» i kolonne VII i vedlegg 1.
+
+> Tilføyd ved forskrift [7 des 2020 nr. 2627](forskrift/2020-12-07-2627).
+
+### § 41b. Krav til søkerne
+
+Tollkvoten for ost fordeles til søkere som har importert minst 1 tonn ost under tollposisjon 04.06 fra Storbritannia i løpet av de siste 24 måneder før 1. oktober.
+
+> Tilføyd ved forskrift [7 des 2020 nr. 2627](forskrift/2020-12-07-2627).
+
+### § 41c. Fordeling på grunnlag av historisk import
+
+Tollkvoten fordeles forholdsmessig ut fra verdien av søkernes import under tollposisjon 04.06 fra Storbritannia i løpet av de siste 24 måneder før 1. oktober.
+
+> Tilføyd ved forskrift [7 des 2020 nr. 2627](forskrift/2020-12-07-2627).
+
+### § 41d. Søknadsbehandling og omsetning av kvoteandel
+
+Bestemmelsene i [§ 33](forskrift/2008-10-10-1132/§33) om krav til søknad gjelder tilsvarende. Det kan ikke treffes vedtak om fordeling av tollkvoten for ost fra Storbritannia før den midlertidig vareavtale med Storbritannia trer i kraft.
+
+Bestemmelsene i [§ 41](forskrift/2008-10-10-1132/§41) gjelder tilsvarende.
+
+> Tilføyd ved forskrift [7 des 2020 nr. 2627](forskrift/2020-12-07-2627).
+
+## Kapittel Va. Fordeling av tollkvote for matkorn til beredskapslagring
+
+> Kapittel tilføyd ved forskrift [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+### § 41e. Vareomfang
+
+Bestemmelsene i dette kapitlet gjelder tollkvote for matkorn til Statens beredskapslagring som er markert med «B» i kolonne VII i [vedlegg 1](forskrift/2008-10-10-1132/vedlegg1).
+
+> Tilføyd ved forskrift [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+### § 41f. Fordeling på grunnlag av tildelt kontrakt for beredskapslagring
+
+Tollkvoten fordeles forholdsmessig ut fra driftsoperatørenes andel av den totale mengden korn som skal kjøpes inn til beredskapslagring samme år.
+
+Fordelingen skjer innen 20. november.
+
+> Tilføyd ved forskrift [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+### § 41g. Omsetning av kvoteandel
+
+Bestemmelsene i [§ 41](forskrift/2008-10-10-1132/§41) gjelder tilsvarende.
+
+> Tilføyd ved forskrift [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+## Kapittel VI. Generelle bestemmelser
+
+### § 42. Kunngjøring
+
+Kvoter til fordeling og søknads- eller registreringsfrist kunngjøres på Landbruksdirektoratet sitt nettsted.
+
+> Endret ved [forskrifter 3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 43. Opplysningsplikt
+
+Landbruksdirektoratet kan fra kvotesøker, budgiver og kvoteeier kreve de opplysninger som har betydning for kvotetildelingen og for oppfølging av at vilkår i tilknytning til kvoten overholdes. Opplysningene kan kreves dokumentert.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 44. Rapporteringsplikt
+
+Kvoteeier plikter å inngi dokumenterte oppgaver over utnyttelsen av tildelt kvote, herunder nødvendige spesifikasjoner for statistikkformål dersom Landbruksdirektoratet krever det.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 45. Kontroll
+
+For å kontrollere at vilkår som er satt i forskriften eller i vedtak om tollnedsettelse i medhold av forskriften blir overholdt, kan Landbruksdirektoratet kreve å få seg forelagt dokumenter og vareprøver, samt foreta stedlig kontroll hos kvoteeier. Kvoteeier plikter å yte bistand ved slik kontroll.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 46. Tilbaketrekking av tildelt kvoteandel og tap av rett til å bli tildelt tollkvoter
+
+Ved brudd på bestemmelsene i denne forskriften eller vilkår fastsatt med hjemmel i forskriften, kan Landbruksdirektoratet trekke hele eller deler av kvoteandelen tilbake og/eller bestemme at kvotesøker, budgiver eller kvoteeier mister adgangen til å bli tildelt kvoteandeler etter denne forskrift i inntil tre år.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 47. Dispensasjon
+
+Landbruksdirektoratet kan i særlige tilfeller dispensere fra forskriftens bestemmelser.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+### § 48. Klage
+
+Enkeltvedtak fattet i medhold av denne forskriften kan påklages til Landbruks- og matdepartementet etter lov 10. februar 1967 om behandlingsmåten i forvaltningssaker [(forvaltningsloven) kapittel VI](lov/1967-02-10/kapvi).
+
+### § 49. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Fra samme tidspunkt oppheves [forskrift 20. juni 2003 nr. 907](forskrift/2003-06-20-907) om fordeling av tollkvoter for landbruksvarer.
+
+### § 50. Endringer i andre forskrifter
+
+I [forskrift 22. desember 2005 nr. 1723](forskrift/2005-12-22-1723) om administrative tollnedsettelser for landbruksvarer gjøres følgende endringer: – – –
+
+I [forskrift 1. juni 2007 nr. 580](forskrift/2007-06-01-580) om tollnedsettelse for landbruksvarer som gjeninnføres etter bearbeiding i utlandet gjøres følgende endringer: – – –
+
+## Vedlegg 1. Tollkvoter omfattet av forskriften
+
+Kvotene gjelder for de produkter som var omfattet av de varenummer i tolltariffen som gjaldt ved iverksettelsen av forskriften. Eventuelle endringer i tolltariffens varenummer medfører ingen endringer i hvilke produkter som kan importeres innenfor kvotene.
+
+Dersom det er gitt preferanse i tollavgiftssatsen i henhold til frihandelsavtaler eller GSP-ordningen, reduseres tollsatsen i kolonne III tilsvarende den gitte preferansen. *I*
+*Produkt**II*
+*Tolltariffens
+varenummer**III*
+*Tollavgiftssats
+(kr/kg)**IV*
+*Mengde
+(tonn)**V*
+*Kvoteperiode**VI*
+*Import-
+land**VII*
+*Fordeling**VIII*
+*Avtale**IX*
+*Note*Islandshest01.01.2100/
+.2902/
+.29080.00200 stk.KalenderåretIslandS[EØS-avtalen](lov/1992-11-27-109/eøsl)Levende rein til slakt og kjøtt av rein, hele/halve skrotter01.06.1910/
+02.08.90211.10–30.6Alle landA11Kjøtt til messer og lignendeKap. 2 og 162,4035KalenderåretWTOSWTO-avtalenKosherslaktet kjøttKap. 2 og 1615KalenderåretSHalalslaktet kjøtt (slaktet uten bedøvelse)Kap. 2 og 16150KalenderåretSKjøtt av storfePos. 02.01. og 02.02.0.00500KalenderåretNamibia og BotswanaA2WTO-avtalen/
+frihandelsavtaler2Kjøtt av storfe02.01.1000/.2001/
+.2002/.2003/
+.2004/
+02.02.1000/.2001/
+.2002/.2003/
+.20040.002 500KalenderåretEUA2[EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017)Kjøtt av storfe02.02.1000/.2001/
+.2002/.2003/
+.2004
+02.02.2008
+02.02.3001/.30099,11
+18,75
+33,601 084KalenderåretWTOA2WTO-avtalen2Kjøtt av svin02.03.1101/.21010.00600KalenderåretEUA2[EØS-avtalen](lov/1992-11-27-109/eøsl) (2010)Kjøtt av svin02.03.1101/.21010.00100KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Kjøtt av svin02.03.21016,961 381KalenderåretWTOA2WTO-avtalenRibbe av svin02.03.190415,003001.12.–31.12.EUA2[EØS-avtalen](lov/1992-11-27-109/eøsl) (2017)Ribbe av svin02.03.19040.00501.12.–31.12.GBA2Frihandelsavtale med Storbritannia (2021)Kjøtt av sauer eller geiter02.04.1000/.3000
+02.04.2100/.4100
+02.04.2200/.4200
+02.04.4300
+02.04.500012,23
+9,09
+32,10
+28,97
+14,01206KalenderåretWTOA2WTO-avtalen2Lever av svin02.06.41005,00350KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Lever av svin02.06.41000.0060KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Kjøtt av høns og kalkuner02.07.1100/.1200/
+.2400/.25000.00950KalenderåretEUA2[EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017)Kjøtt av høns og kalkuner02.07.1100/.1200/
+.2400/.25000.00158KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Kjøtt av høns02.07.12007,26221KalenderåretWTOA2WTO-avtalenKjøtt av kalkun02.07.25007,75221KalenderåretWTOA2WTO-avtalenKjøtt av ender, gjess og perlehøns02.07.4200/.5200/ex.601013,67221KalenderåretWTOA2WTO-avtalenBryst av ender02.07.440130,00200KalenderåretEUA2[EØS-avtalen](lov/1992-11-27-109/eøsl) (2010 og 2017)Kjøtt av annet vilt02.03.1109/.1209/
+.1909/.2109/.2209/
+.2909
+02.08.1000/.9030/
+.9094/
+ex.90990,60250KalenderåretWTOA2WTO-avtalen/
+frihandelsavtalerKjøtt av elg02.08.9043/.9044/
+.90450,60100KalenderåretWTOA2WTO-avtalen/
+frihandelsavtaler3Kjøtt av hjort02.08.9046/.9047/
+.90480,60200KalenderåretWTOA2WTO-avtalen/
+frihandelsavtaler3Kjøtt av svin02.10.1101
+02.10.1109
+02.10.19000.00600KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003, 2010 og 2017)10Kjøtt av svin02.10.1101
+02.10.1109
+02.10.19000.00100KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Tørket storfekjøtt02.10.20000.0010KalenderåretEFTAA2Avtale med EFTASmør04.05.10003,32575KalenderåretWTOA2WTO-avtalenOst04.060.004701KalenderåretEUH[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2017)Ost04.060.00299KalenderåretGBHFrihandelsavtale med Storbritannia (2021)Ost04.060.003 400KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010 og 2017)Ost04.060.00200KalenderåretEFTAA2Avtale med EFTAHønseegg04.07.1100/.2100
+Ex 04.07.90000.00290KalenderåretEUA2Avtale med EFHønseegg04.07.21003,781 295KalenderåretWTOA2WTO-avtalenHønseegg04.07.1100/.2100
+Ex 04.07.90000.0048KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Honning04.09.00000.00192KalenderåretGSPA24Matpoteter07.01.90220.002 5001.4–14.5EUA4[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010)Matpoteter07.01.90220.001 0001.4–14.5GBA4Frihandelsavtale med Storbritannia (2021)MatpoteterEx. 07.01.90280.001 3101.12–14.5EgyptA3Frihandelsavtale5Hvitkål07.04.9013/.90201,43134KalenderåretWTOA2WTO-avtalenRødkål07.04.90400,72134KalenderåretWTOA2WTO-avtalenIssalat, herunder isbergsalat, til industriformål07.05.1112/.11190.005001.3–31.5EUA4[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010 og 2017)Issalat, herunder isbergsalat, til industriformål07.05.1112/.11220.006001.3–30.11EUA4[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)Issalat, herunder isbergsalat, til industriformål07.05.1112/.1119/.11220.002201.3–30.11GBA4Frihandelsavtale med Storbritannia (2021)Erter07.08.10000.0060KalenderåretEgyptA2FrihandelsavtaleTørkede poteter07.12.90110.00300KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)Tørkede poteter07.12.90110.00100KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)EplerEx. 08.08.10110.002 0001.5.–31.7.EUA4[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)EplerEx. 08.08.10110.004001.5.–31.7.GBA4Frihandelsavtale med Storbritannia (2021)EplerEx. 08.08.10110,037 0001.5.–31.7.WTOA4WTO-avtalenEplerEx. 08.08.10110,037501.8.–30.11.WTOA4WTO-avtalenEplerEx. 08.08.10110,032501.11–30.11.WTOA4WTO-avtalenPærer08.08.30200,0225011.8.–30.11.WTOA4WTO-avtalenJordbær, friske08.10.1023/.10240.003009.6.–9.9.EUA4[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)Jordbær, friske08.10.1023/.10240.00609.6.–9.9.GBA4Frihandelsavtale med Storbritannia (2021)Durumhvete, til pastaproduksjon10.01.19000.005 000KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010)Durumhvete, til pastaproduksjon10.01.19000.001 000KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Durumhvete til pastaproduksjon10.01.19000.0010 000KalenderåretCanada og UkrainaA2FrihandelsavtaleHøstrug, til såformålEx. 10.02.10000.001 000KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010)Høstrug, til såformålEx. 10.02.10000.00200KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Mais, til dyrefôr10.05.90100.0015 000KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010 og 2017)Mais, til dyrefôr10.05.90100.003 000KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Gryn, grovt mel og pelleter av mais, til dyrefôr11.03.13100.0010 000KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010)Gryn, grovt mel og pelleter av mais, til dyrefôr11.03.13100.002 000KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Matkorn10.01.1900/.9909
+10.02.9000
+10.08.4000/.5000/
+.6000
+10.08.90001.9.–31.8.Alle landA56,7Matkorn til beredskap10.01.990901.10–31.08Alle landB6, 11Råvarer til kraftfôr07.13.1001
+10.01.9909
+10.02.9000
+10.03.9000
+10.04.9000
+10.05.9010
+10.07.9010
+11.03.1310
+12.14.1000
+15.20.0010
+17.03.1010/.9010
+23.02.1010/.3000/
+.4090 23.03.20101.9.–31.8.Alle landA56,7Oljefrø12.01.9010
+12.05.1010/.901001.09–31.08.Alle landA56,7Svingelfrø12.09.23000.0075KalenderåretEUA2Avtale med EFSvingelfrø til plenformål12.09.23000.00400KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Engrappfrø12.09.24000.0050KalenderåretEUA2Avtale med EFEngrappfrø til plenformål12.09.24000.00200KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Engrappfrø til plenformål12.09.24000.0040KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Raigrasfrø12.09.25000.00700KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)Høy12.14.90910.0035 000KalenderåretEUA2Avtale med WTO og [EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003)Høy12.14.90910.007 000KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Høy12.14.90910.00500KalenderåretAndre land enn EUA2Avtale med WTOPølser16.01.00000.0010KalenderåretEFTAA2Avtale med EFTAPølser16.01.00000.00600KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003, 2010 og 2017)Pølser16.01.00000.00120KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Kalkunrullade16.02.310112,5 %20KalenderåretWTOA2WTO-avtalen8Kalkunrullade16.02.31010.0020KalenderåretIsraelA2Frihandelsavtale med Israel (2021)Hermetisk skinke av svin og tunge av storfeEx. 16.02.4100 ex.
+16.02.50090.00150KalenderåretGSPA24Bacon Crisp16.02.49100.00350KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Bacon Crisp16.02.49100.0040KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Kjøttboller16.02.50010.00200KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Corned beefEx. 16.02.50090.00200KalenderåretGSPA24,9Melasse til dyrefôr17.03.1010
+17.03.90100.0040 000KalenderåretGSPA24Poteter, halvfabrikata til fremstilling av snacks20.05.20910.003 000KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2010)Poteter, halvfabrikata til fremstilling av snacks20.05.20910.00650KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)Hermetiske erter, snittebønner og brekkbønner20.05.4003/.4009
+ex. 20.05.59010.00350KalenderåretGSPA64Hermetiske grønnsaksblandingerEx. 20.05.99080.00150KalenderåretGSPA64Konsentrert eplesaft, til bearbeidings- industrien20.09.79000.00400KalenderåretEFTAA2Avtale med EFTAEplesaft, også konsentrert, til bearbeidings-
+industrien20.09.7100/.79000.003 300KalenderåretEUA2[EØS-avtalens art. 19](lov/1992-11-27-109/eøsl/a19) (2003 og 2010)Eplesaft, også konsentrert, til bearbeidings-
+industrien20.09.7100/.79000.00100KalenderåretGBA2Frihandelsavtale med Storbritannia (2021)
+
+Særlige bestemmelser:
+
+> Endret ved [forskrifter 31 aug 2009 nr. 1123](forskrift/2009-08-31-1123), [1 juli 2011 nr. 753](forskrift/2011-07-01-753), [24 okt 2011 nr. 1041](forskrift/2011-10-24-1041), [15 nov 2011 nr. 1111](forskrift/2011-11-15-1111) (i kraft 1 jan 2012), [16 nov 2012 nr. 1100](forskrift/2012-11-16-1100) (i kraft 1 jan 2013), [18 des 2012 nr. 1299](forskrift/2012-12-18-1299) (i kraft 1 jan 2013), [3 okt 2013 nr. 1178](forskrift/2013-10-03-1178), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [20 feb 2015 nr. 144](forskrift/2015-02-20-144), [4 juli 2018 nr. 1140](forskrift/2018-07-04-1140) (i kraft 1 okt 2018), [7 des 2020 nr. 2627](forskrift/2020-12-07-2627) (i kraft 1 jan 2021 jf. meddelelse [29 des 2020 nr. 3175](forskrift/2020-12-29-3175)), [24 nov 2021 nr. 3279](forskrift/2021-11-24-3279) (i kraft 1 des 2021, se endringsforskriften del II for overgangsregler), [14 des 2021 nr. 3534](forskrift/2021-12-14-3534) (i kraft 1 jan 2022), [22 juni 2022 nr. 1175](forskrift/2022-06-22-1175) (i kraft 1 juli 2022), [15 des 2022 nr. 2261](forskrift/2022-12-15-2261) (i kraft 1 jan 2023), [27 april 2023 nr. 625](forskrift/2023-04-27-625) (i kraft 1 mai 2023), [4 okt 2024 nr. 2392](forskrift/2024-10-04-2392).
+
+## Vedlegg 2. (Opphevet)
+
+> Opphevet 1 jan 2012 ved [forskrift 15 nov 2011 nr. 1111](forskrift/2011-11-15-1111).

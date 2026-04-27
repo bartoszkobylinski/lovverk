@@ -1,0 +1,60 @@
+---
+id: "sf-20211006-3079"
+slug: "forskrift-om-overgangsregler-til-barnehageloven-overføring-av-ansvaret-for-å-føre-tilsyn-med-økonomiske-forhold-i-private-barnehager-fra-kommunen-og-statsforvalteren-til-utdanningsdirektoratet"
+type: "forskrift"
+ref_id: "forskrift/2021-10-06-3079"
+title: "Forskrift om overgangsregler til barnehageloven – overføring av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen og statsforvalteren til Utdanningsdirektoratet"
+short_title: "Forskrift om overgangsregler til barnehageloven – overføring av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen og statsforvalteren til Utdanningsdirektoratet"
+language: "no"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2022-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "786dd6963f902f6a9e4dbabc5f6ab33bb782e21ecb5546957fff5d07fcd33fc5"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler til barnehageloven – overføring av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen og statsforvalteren til Utdanningsdirektoratet
+
+## § 1. Virkeområde
+
+Forskriften gjelder tilsyn med private barnehager etter [barnehageloven kapittel V](lov/2005-06-17-64/kapv) med forskrifter som ikke er avsluttet før 1. januar 2022. Et tilsyn er avsluttet når kommunen eller statsforvalteren har konkludert med at det ikke foreligger brudd på regelverket i barnehagen, eller har konkludert med at vedtaket om reaksjoner er fulgt opp fra barnehagens side.
+
+Forskriften gjelder tilsyn åpnet med hjemmel i tidligere [§ 9](lov/2005-06-17-64/§9) andre ledd og tidligere [§ 16 første ledd i barnehageloven](lov/2005-06-17-64/§16), samt tilsyn åpnet med hjemmel i [§ 2](forskrift/2020-12-18-3026/§2) første ledd og [§ 5 andre ledd i forskrift 18. desember 2020 nr. 3026 om overgangsregler til barnehageloven](forskrift/2020-12-18-3026/§5).
+
+## § 2. Overgangsregler om overføring av tilsynsansvaret
+
+Kommunen og statsforvalteren skal fullføre pågående tilsyn dersom varsel om vedtak er utsendt før 1. januar 2022.
+
+Dersom varsel om vedtak ikke er utsendt før 1. januar 2022, skal kommunen eller statsforvalteren sende tilsynssaken til Utdanningsdirektoratet for videre behandling.
+
+## § 3. Overgangsregler om rett til innsyn i dokumenter mv.
+
+Kommunen og statsforvalteren har rett til innsyn i dokumenter og adgang til barnehagelokaler i den utstrekning dette anses nødvendig for å fullføre pågående tilsyn etter § 2 første ledd.
+
+## § 4. Overgangsregler om bruk av reaksjonsmidler
+
+Kommunen og statsforvalteren kan gi pålegg om retting av forhold som er i strid med bestemmelser i [barnehageloven § 21](lov/2005-06-17-64/§21) til [§ 23](lov/2005-06-17-64/§23). Hvis fristen for å etterkomme pålegget ikke overholdes, eller hvis forholdet ikke lar seg rette, kan kommunen og statsforvalteren vedta tidsbegrenset eller varig stenging av virksomheten. Kommunens stengingsvedtak skal sendes statsforvalteren til orientering.
+
+I stedet for eller i tillegg til stenging av virksomheten, kan kommunen og statsforvalteren bruke økonomiske reaksjoner overfor private barnehager dersom krav etter [barnehageloven § 21](lov/2005-06-17-64/§21) til [§ 23](lov/2005-06-17-64/§23), eller forskrift i medhold av [barnehageloven § 23](lov/2005-06-17-64/§23), ikke er overholdt.
+
+Kommunen kan holde tilbake tilskudd til private barnehager eller redusere tilskudd i kommende terminer dersom krav etter [barnehageloven § 21](lov/2005-06-17-64/§21) til [§ 23](lov/2005-06-17-64/§23) eller forskrift i medhold av [barnehageloven § 23](lov/2005-06-17-64/§23) ikke er oppfylt.
+
+Dersom tilskudd er anvendt i strid med [barnehageloven § 21](lov/2005-06-17-64/§21) til [§ 23](lov/2005-06-17-64/§23) eller forskrift i medhold av [barnehageloven § 23](lov/2005-06-17-64/§23), kan kommunen og statsforvalteren kreve tilbakebetaling av tilskudd.
+
+Tilbakehold av tilskudd, reduksjon i tilskudd eller tilbakebetaling av tilskudd etter tredje og fjerde ledd skal stå i forhold til regelbruddets art og økonomiske betydning.
+
+## § 5. Overgangsregler om klage
+
+Kommunens vedtak om retting, stenging eller bruk av økonomiske reaksjonsmidler etter denne forskriften kan påklages til statsforvalteren. Statsforvalteren skal behandle klagen uavhengig av om klagen fremsettes før eller etter 1. januar 2022.
+
+Statsforvalterens vedtak om retting, stenging eller bruk av økonomiske reaksjonsmidler etter denne forskriften kan påklages til Utdanningsdirektoratet. Utdanningsdirektoratet skal behandle klagen uavhengig av om klagen fremsettes før eller etter 1. januar 2022.
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2022. Samtidig oppheves [forskrift 18. desember 2020 nr. 3026 om overgangsregler til barnehageloven – tilsyn, veiledning, reaksjoner mv.](forskrift/2020-12-18-3026)

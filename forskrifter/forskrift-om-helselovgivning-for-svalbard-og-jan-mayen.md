@@ -1,0 +1,332 @@
+---
+id: "sf-20150622-0747"
+slug: "forskrift-om-helselovgivning-for-svalbard-og-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/2015-06-22-747"
+title: "Forskrift om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen"
+short_title: "Forskrift om helselovgivning for Svalbard og Jan Mayen"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+  - "Landbruks- og matdepartementet"
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2015-10-01"
+last_change_in_force: "2025-06-01"
+last_updated: "2021-09-27"
+xml_hash: "3f9a70ee83f257c66bc0edd0d39cc00304c7369db74245aaa96f9a725504361e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen
+
+## § 1. Formål
+
+Formålet med forskriften er å gi lover og forskrifter om helsemessige forhold anvendelse for Svalbard og Jan Mayen og å fastsette tilpasninger ut fra de stedlige forholdene.
+
+## § 2. Helselover som etter loven selv eller Svalbardloven gjelder for Svalbard
+
+Lover og forskrifter om helsemessige forhold som etter loven selv eller Svalbardloven gjelder helt eller delvis for Svalbard, er[lov 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet, jf. lovens § 58[lov 9. mars 1973 nr. 14](lov/1973-03-09-14) om vern mot tobakksskader, jf. [lovens § 3](forskrift/2015-06-22-747/§3)(opphevet)[forskrift 11. desember 1998 nr. 1300](forskrift/1998-12-11-1300) om alkoholordningen for Svalbard, jf. [alkoholloven § 1-2](lov/1989-06-02-27/§1-2)(opphevet)[lov 12. mai 2000 nr. 36 om strålevern og bruk av stråling](lov/2000-05-12-36), jf. [forskrift 16. desember 2016 nr. 1659 § 3 om strålevern og bruk av stråling (strålevernforskriften) § 3](forskrift/2016-12-16-1659/§3).[lov 15. juni 2001 nr. 53](lov/2001-06-15-53) om erstatning ved pasientskader mv., jf. [lovens § 19](forskrift/2015-06-22-747/§19) og [forskrift 31. oktober 2008 nr. 1166](forskrift/2008-10-31-1166) om pasientskadelovens virkeområde og om tilskuddsplikt for den som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten [§ 1](forskrift/2015-06-22-747/§1)[lov 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. (helseforetaksloven), jf. [vedtak 5. oktober 2001 nr. 1148](forskrift/2001-10-05-1148) om utvidelse av [lov av 15. juni 2001 nr. 93](lov/2001-06-15-93) om helseforetak m.m. sitt geografiske virkeområde til også å gjelde Svalbard.
+
+> Endret ved [forskrifter 4 des 2015 nr. 1387](forskrift/2015-12-04-1387) (i kraft 1 jan 2016), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838), [30 april 2025 nr. 772](forskrift/2025-04-30-772) (i kraft 1 juni 2025).
+
+## § 3. Spesialisthelsetjenestelovens anvendelse for Svalbard
+
+Det regionale helseforetaket Helse Nord RHF skal sørge for akuttmedisinsk beredskap og andre helsetjenester på Svalbard i den utstrekning dette er nødvendig og hensiktsmessig ut fra de stedlige forholdene. Dette gjelder likevel ikke helsetjenester som arbeidsgiver plikter å sørge for i henhold til [kgl.res. 7. august 1925 nr. 3767](forskrift/1925-08-07-3767) om bergverksordningen for Spitsbergen (Svalbard) fastsatt med hjemmel i [lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard [§ 4](lov/1925-07-17-11/§4), samt [forskrift 5. juli 1928 nr. 3356](forskrift/1928-07-05-3356) om arbeidsgivers plikt til å yde sykepleie m.v. og om arbeidsgivers ansvar ved ulykker på Svalbard og [forskrift 11. oktober 1929 nr. 3280](forskrift/1929-10-11-3280) om arbeidsgivers plikt til å yde sykepleie m.v. og arbeidsgivers ansvar ved ulykker på Svalbard.
+
+For Svalbard gjelder [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. [§ 2-2](lov/1999-07-02-61/§2-2), [§ 3-1](lov/1999-07-02-61/§3-1), [§ 3-2](lov/1999-07-02-61/§3-2) første ledd første punktum, [§ 3-3](lov/1999-07-02-61/§3-3), [§ 3-3](lov/1999-07-02-61/§3-3)a, [§ 3-4](lov/1999-07-02-61/§3-4)a, § 3-17, [§ 6-1](lov/1999-07-02-61/§6-1), [§ 6-2](lov/1999-07-02-61/§6-2), [§ 7-1](lov/1999-07-02-61/§7-1) og [§ 7-2](lov/1999-07-02-61/§7-2). Dette gjelder for hele virksomheten også når andre typer helsetjenester er integrert i virksomhet som yter spesialisthelsetjenester.
+
+Bestemmelsene i lovens § 3-3 gjelder ikke for privat helseinstitusjon på Svalbard.
+
+Forskrifter med hjemmel i spesialisthelsetjenesteloven gjelder ikke.
+
+## § 4. Helsepersonellovens anvendelse for Svalbard
+
+[Lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. gjelder for Svalbard.
+
+Forskrifter med hjemmel i helsepersonelloven som gjelder for Svalbard, er[forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)[forskrift 21. desember 2000 nr. 1378](forskrift/2000-12-21-1378) om leges melding til politiet om unaturlig dødsfall o.l, men slik at alle dødsfall skal meldes til Sysselmesteren[forskrift 1. mars 2019 nr. 168](forskrift/2019-03-01-168) om pasientjournal (pasientjournalforskriften)[forskrift 21. desember 2000 nr. 1386](forskrift/2000-12-21-1386) om krav om tillatelse til bruk av lystgassanalgesi ved tannbehandling[forskrift 21. desember 2000 nr. 1387](forskrift/2000-12-21-1387) om tillatelse til å utføre kosmetisk kirurgiske inngrepforskrift [21. desember 2001 nr. 1476](forskrift/2001-12-21-1476) om innsamling og behandling av helseopplysninger i Dødsårsaksregisteret [kapittel 2](forskrift/2001-12-21-1476/kap2), men slik at både elektronisk melding og melding på papir sendes direkte fra legen til Dødsårsaksregisteretforskrift [21. desember 2001 nr. 1483](forskrift/2001-12-21-1483) om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister [kapittel 2](forskrift/2001-12-21-1483/kap2)[forskrift 20. desember 2002 nr. 1731](forskrift/2002-12-20-1731) om internkontroll i helse- og omsorgstjenestenforskrift [20. juni 2003 nr. 739](forskrift/2003-06-20-739) om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister [kapittel 2](forskrift/2003-06-20-739/kap2)forskrift [20. juni 2003 nr. 740](forskrift/2003-06-20-740) om innsamling og behandling av helseopplysninger i Meldingssystem for smittsomme sykdommer og i Tuberkuloseregisteret og om varsling om smittsomme sykdommer [kapittel 2](forskrift/2003-06-20-740/kap2)[forskrift 1. juli 2005 nr. 749](forskrift/2005-07-01-749) om markedsføring av kosmetiske inngrepforskrift 19. august 2005 nr. 941 om begrensninger i helsepersonells adgang til å motta gave, provisjon, tjeneste eller annen ytelse[forskrift 3. april 2008 nr. 320](forskrift/2008-04-03-320) om legemiddelhåndtering for virksomheter og helsepersonell som yter helsehjelp[forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller Sveits[forskrift 18. desember 2008 nr. 1486](forskrift/2008-12-18-1486) om krav til helsepersonells attester, erklæringer o.l.[forskrift 4. mai 2012 nr. 400](forskrift/2012-05-04-400) om pliktmessig avhold for helsepersonell[forskrift 4. mars 2022 nr. 325](forskrift/2022-03-04-325) om melding fra lege, psykolog eller optiker ved helsesvekkelse av betydning for trafikksikkerheten.
+
+Meldeplikten til helseregistre etter [helsepersonelloven § 35](lov/1999-07-02-64/§35) til [§ 37](lov/1999-07-02-64/§37) gjelder bare registrene i andre ledd bokstav f, g, i og j og bare helsepersonell i den offentlige helsetjenesten.
+
+Statsforvalteren etter loven og forskriftene er for Svalbard Statsforvalteren i Troms og Finnmark.
+
+Meldinger etter [helsepersonelloven § 18](lov/1999-07-02-64/§18) skal gis til Statsforvalteren i Troms og Finnmark.
+
+Myndigheten etter [helsepersonelloven § 29](lov/1999-07-02-64/§29) har for Svalbard den regionale komiteen for medisinsk og helsefaglig forskningsetikk for den nordligste regionen (REK nord).
+
+Opplysninger etter [helsepersonelloven § 32](lov/1999-07-02-64/§32) skal gis til Sysselmesteren.
+
+Opplysninger etter [helsepersonelloven § 33](lov/1999-07-02-64/§33) skal gis til Longyearbyen lokalstyre dersom barnet oppholder seg i Longyearbyen arealplanområde og for øvrig til Sysselmesteren.
+
+[Helsepersonelloven § 7](lov/1999-07-02-64/§7), [§ 10](lov/1999-07-02-64/§10), [§ 22](lov/1999-07-02-64/§22) og [§ 41](lov/1999-07-02-64/§41) skal anvendes som om de bestemmelsene i pasient- og brukerrettighetsloven som det henvises til, gjelder.
+
+Myndigheten til å rekvirere legemidler etter [helsepersonelloven § 63](lov/1999-07-02-64/§63) femte ledd har for Svalbard overleger i den offentlige helsetjenesten.
+
+Utøvelse av yrker som nevnt i [helsepersonelloven § 48](lov/1999-07-02-64/§48) på Svalbard forutsetter norsk autorisasjon, lisens eller spesialistgodkjenning etter [helsepersonelloven kapittel 9](lov/1999-07-02-64/kap9). Dette gjelder likevel ikke:personell som yter helsehjelp i kraft av å være helsepersonells medhjelper, jf. [helsepersonelloven § 5](lov/1999-07-02-64/§5)helsepersonell med utenlandsk godkjenning som kun yter helsetjenester sporadisk.
+
+Helsepersonell som har utenlandsk godkjenning, og som yter helsetjenester på vegne av arbeidsgiveren og i hovedsak til arbeidsgiverens ansatte og deres familiemedlemmer, kan utøve yrket uten norsk autorisasjon, lisens eller spesialistgodkjenning inntil søknad om slik godkjenning er avgjort dersom søknaden er fremsatt senest når søkeren begynner i stillingen.
+
+Helsepersonellovens bestemmelser om helsepersonell med autorisasjon eller lisens gjelder også for helsepersonell som utøver yrket uten norsk autorisasjon eller lisens etter ellevte og tolvte ledd eller [§ 23](forskrift/2015-06-22-747/§23) første ledd. [Helsepersonelloven § 65 a](lov/1999-07-02-64/§65a) gjelder tilsvarende for slikt helsepersonell.
+
+> Endret ved [forskrifter 1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [21 juni 2019 nr. 795](forskrift/2019-06-21-795) (i kraft 1 okt 2019), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [4 mars 2022 nr. 325](forskrift/2022-03-04-325) (i kraft 1 april 2022), [28 okt 2022 nr. 1809](forskrift/2022-10-28-1809).
+
+## § 5. Lov om alternativ behandling av sykdom mv. – anvendelse for Svalbard
+
+[Lov 27. juni 2003 nr. 64](lov/2003-06-27-64) om alternativ behandling av sykdom mv. gjelder for Svalbard.
+
+Forskrifter med hjemmel i loven gjelder for Svalbard med unntak av [forskrift 11. desember 2003 nr. 1501](forskrift/2003-12-11-1501) om markedsføring av alternativ behandling av sykdom [§ 6](forskrift/2003-12-11-1501/§6) om tilsyn.
+
+## § 6. Helsetilsynslovens anvendelse for Svalbard
+
+[Lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)](lov/2017-12-15-107) gjelder for Svalbard.
+
+Forskrifter med hjemmel i [helsetilsynsloven](lov/2017-12-15-107) gjelder for Svalbard, med unntak av [forskrift 4. februar 2005 nr. 80 om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre](forskrift/2005-02-04-80) og [forskrift 7. desember 2015 nr. 1430 om krav til kvalitet og sikkerhet ved håndtering av humane celler og vev](forskrift/2015-12-07-1430).
+
+Statsforvalteren etter loven og forskriftene er for Svalbard Statsforvalteren i Troms og Finnmark. Tilsynet for Svalbard skal gjennomføres i samråd med Sysselmesteren.
+
+> Endret ved forskrifter [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
+
+## § 7. Psykisk helsevernlovens anvendelse for Svalbard
+
+I [lov 2. juli 1999 nr. 62](lov/1999-07-02-62) om etablering og gjennomføring av psykisk helsevern gjelder følgende for Svalbard:§ 3-1 og [forskrift 16. desember 2011 nr. 1258](forskrift/2011-12-16-1258) om etablering og gjennomføring av psykisk helsevern m.m. [§ 8](forskrift/2011-12-16-1258/§8)§ 3-6§ 4-8 når det er nødvendig å anvende tvangsmidler i påvente av at pasienten kan bringes til fastlandet eller under transporten.
+
+Kommunelegen etter lovens § 3-1 er for Svalbard lege tilsatt i den offentlige helsetjenesten for Svalbard. For Svalbard kan det å hente og undersøke innebære å bringe en pasient til fastlandet for å undersøkes eller følges opp videre i det psykiske helsevernet der. Statsforvalteren er Statsforvalteren i Troms og Finnmark.
+
+Den faglig ansvarlige etter lovens § 4-8 er lege tilsatt i den offentlige helsetjenesten for Svalbard. Kontrollkommisjonen er kontrollkommisjonen for Universitetssykehuset i Nord-Norge.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 8. Helseberedskapslovens anvendelse for Svalbard
+
+[Lov 23. juni 2000 nr. 56](lov/2000-06-23-56) om helsemessig og sosial beredskap gjelder for Svalbard.
+
+Forskrifter med hjemmel i helseberedskapsloven som gjelder for Svalbard, er[forskrift 23. juli 2001 nr. 881](forskrift/2001-07-23-881) om krav til beredskapsplanlegging og beredskapsarbeid mv. etter lov om helsemessig og sosial beredskap[forskrift 21. desember 2007 nr. 1573](forskrift/2007-12-21-1573) om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse.
+
+Helse Nord RHF og Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus har plikt til å utarbeide beredskapsplaner etter lovens § 2-2.
+
+Privat sykehus på Svalbard har plikt til å utarbeide beredskapsplan for virksomheten etter lovens § 2-2.
+
+Sysselmesteren og Longyearbyen lokalstyre omfattes av helseberedskapsloven og har plikt til å utarbeide beredskapsplan etter lovens § 2-2 for det ansvaret de har etter smittevernloven og [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3), jf. forskriften [§ 9](forskrift/2015-06-22-747/§9) og [§ 10](forskrift/2015-06-22-747/§10).
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 9. Smittevernlovens anvendelse for Svalbard
+
+[Lov 5. august 1994 nr. 55](lov/1994-08-05-55) om vern mot smittsomme sykdommer gjelder for Svalbard med unntak av [kapittel 6](lov/1994-08-05-55/kap6) og [§ 7-1](lov/1994-08-05-55/§7-1).
+
+Forskrifter gitt med hjemmel i smittevernloven som gjelder for Svalbard, er[forskrift 1. januar 1995 nr. 100](forskrift/1995-01-01-100) om allmennfarlige smittsomme sykdommer[forskrift 12. september 1996 nr. 903](forskrift/1996-09-12-903) om innførsel, transport og annen håndtering av materiale som er smittefarlig for menneskerforskrift [20. juni 2003 nr. 739](forskrift/2003-06-20-739) om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister [kapittel 2](forskrift/2003-06-20-739/kap2)forskrift 20. juni 2003 nr. 740 om innsamling og behandling av helseopplysninger i Meldingssystem for smittsomme sykdommer og i Tuberkuloseregisteret og om varsling om smittsomme sykdommer [kapittel 2](forskrift/2003-06-20-740/kap2) og [3](forskrift/2003-06-20-740/kap3)[forskrift 21. desember 2007 nr. 1573](forskrift/2007-12-21-1573) om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse (IHR-forskriften)[forskrift 13. februar 2009 nr. 205](forskrift/2009-02-13-205) om tuberkulosekontroll [kapittel 1](forskrift/2009-02-13-205/kap1), [§ 2-1](forskrift/2009-02-13-205/§2-1) første ledd bokstav b, [§ 2-2](forskrift/2009-02-13-205/§2-2) til [§ 2-4](forskrift/2009-02-13-205/§2-4), [§ 3-1](forskrift/2009-02-13-205/§3-1), [§ 3-2](forskrift/2009-02-13-205/§3-2) første og tredje ledd, [§ 3-3](forskrift/2009-02-13-205/§3-3) første ledd og [§ 3-4](forskrift/2009-02-13-205/§3-4), [§ 4-1](forskrift/2009-02-13-205/§4-1), [§ 4-3](forskrift/2009-02-13-205/§4-3), [§ 4-5](forskrift/2009-02-13-205/§4-5) til [§ 4-8](forskrift/2009-02-13-205/§4-8) og [§ 4-10](forskrift/2009-02-13-205/§4-10) første ledd.
+
+Meldingsplikt og varslingsplikt etter [smittevernloven § 2-3](lov/1994-08-05-55/§2-3) gjelder bare etter forskriftene i andre ledd bokstav d, e og f, og bare helsepersonell i den offentlige helsetjenesten. Alt helsepersonell og andre myndigheter plikter likevel å varsle Sysselmesteren etter IHR-forskriften. Sysselmesteren varsler videre til Nasjonalt folkehelseinstitutt og Statsforvalteren i Troms og Finnmark.
+
+Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus har for Svalbard myndigheten som etter loven og forskriftene er lagt til kommunelegen.
+
+Longyearbyen lokalstyre har for Longyearbyen arealplanområde myndigheten som etter loven og forskriftene er lagt til kommunen.
+
+Sysselmesteren har for Svalbard utenfor Longyearbyen arealplanområde myndigheten som etter loven og forskriftene er lagt til kommunen.
+
+Myndigheten etter fjerde ledd utøves i samråd med Longyearbyen lokalstyre og Sysselmesteren. Myndigheten etter femte og sjette ledd utøves i samråd med Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus, som også kan fatte hastevedtak etter [smittevernloven § 5-8](lov/1994-08-05-55/§5-8).
+
+Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus har plikten etter lovens § 3-8 til å tilby det nasjonale programmet for vaksinering mot smittsomme sykdommer.
+
+Statsforvalteren etter loven og forskriftene er Statsforvalteren i Troms og Finnmark.
+
+Kommunen etter forskrift om tuberkulosekontroll er den offentlige helsetjenesten på Svalbard. Plikt til å gjennomgå undersøkelse etter tuberkulosekontrollforskriften § 3-1 bokstav a gjelder personer fra land med høy forekomst av tuberkulose som skal oppholde seg mer enn tre måneder på Svalbard. Personer som har gjennomgått tuberkuloseundersøkelse i løpet av de siste tre måneder før ankomst til Svalbard, er ikke underlagt plikt til å gjennomgå undersøkelse. Tilfredsstillende dokumentasjon for gjennomgått undersøkelse må kunne fremlegges. Vedtak etter [forskrift om tuberkulosekontroll § 3-4](forskrift/2009-02-13-205/§3-4) fattes av den offentlige helsetjenesten på Svalbard.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 10. Folkehelselovens anvendelse for Svalbard
+
+Lov [24. juni 2011 nr. 29](lov/2011-06-24-29) om folkehelsearbeid [kapittel 3](lov/2011-06-24-29/kap3) om miljørettet helsevern og [§ 29](lov/2011-06-24-29/§29), [§ 31](lov/2011-06-24-29/§31) og [§ 32](lov/2011-06-24-29/§32) gjelder for Svalbard.
+
+Forskrifter med hjemmel i folkehelseloven gjelder ikke for Svalbard.
+
+Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus har for Svalbard myndigheten som etter lovens kapittel 3 er lagt til kommunelegen.
+
+Longyearbyen lokalstyre har for Longyearbyen arealplanområde myndigheten som etter loven er lagt til kommunen.
+
+Sysselmesteren har for Svalbard utenfor Longyearbyen arealplanområde myndigheten som etter loven er lagt til kommunen.
+
+Myndigheten etter tredje ledd utøves i samråd med Sysselmesteren og Longyearbyen lokalstyre. Myndigheten etter fjerde og femte ledd utøves i samråd med Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus.
+
+Ved utøvelse av myndighet etter fjerde og femte ledd skal Nasjonalt folkehelseinstitutt bistå Longyearbyen lokalstyre og Sysselmesteren dersom det er behov for dette, jf. [folkehelseloven § 25](lov/2011-06-24-29/§25) fjerde ledd. Ved utøvelse av tilsyn etter [folkehelseloven § 9](lov/2011-06-24-29/§9) skal Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus bistå Longyearbyen lokalstyre og Sysselmesteren med helsefaglige vurderinger dersom det er behov for dette.
+
+Statsforvalteren etter loven er Statsforvalteren i Troms og Finnmark.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 11. Apoteklovens og legemiddellovens anvendelse for Svalbard
+
+[Lov 2. juni 2000 nr. 39](lov/2000-06-02-39) om apotek og [lov 4. desember 1992 nr. 132](lov/1992-12-04-132) om legemidler m.v. gjelder for Svalbard.
+
+Forskrifter med hjemmel i lovene, med unntak av [forskrift 4. februar 2005 nr. 80](forskrift/2005-02-04-80) om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre og [forskrift 7. mars 2008 nr. 222](forskrift/2008-03-07-222) om krav til kvalitet og sikkerhet ved håndtering av humane celler og vev, gjelder for Svalbard.
+
+Apotek på Svalbard kan ekspedere resept og rekvisisjon utstedt av lege som praktiserer på Svalbard etter [§ 4](forskrift/2015-06-22-747/§4) tiende ledd eller [§ 23](forskrift/2015-06-22-747/§23) første ledd og som er autorisert som lege i annet land enn de som fremgår av [forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. § 9-5](forskrift/2022-06-02-977/§9-5).
+
+Uten hinder av første og andre ledd kan Sysselmesteren gi praktiserende lege på Svalbard tillatelse til å innføre og utlevere legemidler i den utstrekning dette er nødvendig av hensyn til legens virksomhet. Sysselmesteren kan stille nærmere vilkår for slik tillatelse.
+
+> Endret ved [forskrifter 4 des 2015 nr. 1387](forskrift/2015-12-04-1387) (i kraft 1 jan 2016), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [28 okt 2022 nr. 1809](forskrift/2022-10-28-1809).
+
+## § 11a. Medisinsk utstyrslovens anvendelse for Svalbard
+
+[Lov 7. mai 2020 nr. 37](lov/2020-05-07-37) om medisinsk utstyr gjelder for Svalbard.
+
+Forskrifter med hjemmel i [lov om medisinsk utstyr](lov/2020-05-07-37) som gjelder for Svalbard, er:[forskrift 9. mai 2021 nr. 1476](forskrift/2021-05-09-1476) om medisinsk utstyr med unntak av reglene om det norske språkkravet for medisinsk utstyr i Barentsburg jf. § 8, utpeking og tilsyn av tekniske kontrollorgan jf. forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr kapittel IV og forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr kapittel IV[forskrift 29. november 2013 nr. 1373 om håndtering av medisinsk utstyr](forskrift/2013-11-29-1373).
+
+Statsforvalteren i Troms og Finnmark er statsforvalter for Svalbard etter annet ledd bokstav b.
+
+Tilsynet for Svalbard skal gjennomføres i samråd med Sysselmesteren.
+
+> Tilføyd ved forskrift [21 mai 2021 nr. 1567](forskrift/2021-05-21-1567) (i kraft 26 mai 2021), endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 12. Matlovens anvendelse for Svalbard
+
+[Lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. gjelder for Svalbard.
+
+Forskrifter med hjemmel i matloven gjelder for Svalbard bare dersom det er fastsatt i den enkelte forskrift.
+
+Mattilsynet fører tilsyn etter matloven på Svalbard.
+
+Tilsynet etter tredje ledd gjennomføres i samråd med Sysselmesteren, Longyearbyen lokalstyre og Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 13. Kosmetikklovas anvendelse for Svalbard
+
+[Lov 21. desember 2005 nr. 126](lov/2005-12-21-126) om kosmetikk og kroppspleieprodukt m.m. gjelder for Svalbard.
+
+Forskrifter med hjemmel i kosmetikklova gjelder for Svalbard.
+
+Mattilsynet fører tilsyn etter kosmetikklova på Svalbard.
+
+Tilsynet etter tredje ledd gjennomføres i samråd med Sysselmesteren, Longyearbyen lokalstyre og Universitetssykehuset Nord-Norge HF – Longyearbyen sykehus.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 14. Steriliseringslovens anvendelse for Svalbard
+
+[Lov 3. juni 1977 nr. 57](lov/1977-06-03-57) om sterilisering gjelder for Svalbard.
+
+Forskrifter med hjemmel i steriliseringsloven gjelder for Svalbard.
+
+Steriliseringsnemnda er Steriliseringsnemnda i Troms.
+
+Statsforvalteren er Statsforvalteren i Troms og Finnmark.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 15. Bioteknologilovens anvendelse for Svalbard
+
+[Lov 5. desember 2003 nr. 100](lov/2003-12-05-100) om humanmedisinsk bruk av bioteknologi m.m. gjelder for Svalbard.
+
+Forskrifter med hjemmel i bioteknologiloven gjelder for Svalbard.
+
+## § 16. Behandlingsbiobanklovens anvendelse for Svalbard
+
+[Lov 21. februar 2003 nr. 12](lov/2003-02-21-12) om behandlingsbiobanker gjelder for Svalbard.
+
+Forskrifter med hjemmel i behandlingsbiobankloven, med unntak av [forskrift 4. februar 2005 nr. 80](forskrift/2005-02-04-80) om tapping, testing, prosessering, oppbevaring, distribusjon og utlevering av humant blod og blodkomponenter og behandling av helseopplysninger i blodgiverregistre og [forskrift 7. mars 2008 nr. 222](forskrift/2008-03-07-222) om krav til kvalitet og sikkerhet ved håndtering av humane celler og vev, gjelder for Svalbard.
+
+[Behandlingsbiobankloven § 11](lov/2003-02-21-12/§11) skal anvendes som om bestemmelsene i pasient- og brukerrettighetsloven som det henvises til, gjelder.
+
+## § 17. Helseforskningslovens anvendelse for Svalbard
+
+[Lov 20. juni 2008 nr. 44](lov/2008-06-20-44) om medisinsk og helsefaglig forskning gjelder for Svalbard.
+
+Forskrifter med hjemmel i helseforskningsloven gjelder for Svalbard.
+
+Den regionale komiteen for medisinsk og helsefaglig forskingsetikk er den regionale komiteen som behandler saker i den nordligste regionen (REK Nord).
+
+## § 17a. Obduksjonslovas anvendelse for Svalbard
+
+[Lov 7. mai 2015 nr. 26](lov/2015-05-07-26) om obduksjon og avgjeving av lik til undervisning og forsking gjelder for Svalbard.
+
+Forskrifter med hjemmel i obduksjonslova gjelder for Svalbard.
+
+> Tilføyd ved [forskrift 4 des 2015 nr. 1387](forskrift/2015-12-04-1387) (i kraft 1 jan 2016).
+
+## § 17b. Transplantasjonslovas anvendelse for Svalbard
+
+[Lov 7. mai 2015 nr. 25](lov/2015-05-07-25) om donasjon og transplantasjon av organ, celler og vev gjelder for Svalbard.
+
+Forskrifter med hjemmel i transplantasjonslova gjelder for Svalbard.
+
+> Tilføyd ved [forskrift 16 juni 2017 nr. 767](forskrift/2017-06-16-767) (i kraft 1 juli 2017).
+
+## § 17c. Meldeplikt for bivirkninger av legemidler
+
+Meldeplikten etter [forskrift 15. februar 2019 nr. 115](forskrift/2019-02-15-115) om system for rapportering av bivirkninger av legemidler [§ 3-1](forskrift/2019-02-15-115/§3-1) gjelder for leger og tannleger på Svalbard, jf. [helseregisterloven § 4](lov/2014-06-20-43/§4) andre punktum.
+
+> Tilføyd ved [forskrift 15 feb 2019 nr. 115](forskrift/2019-02-15-115) (i kraft 1 jan 2020).
+
+## § 18. Helselover som etter loven selv eller lov om Jan Mayen gjelder for Jan Mayen
+
+Lover og forskrifter om helsemessige forhold som etter loven selv eller lov om Jan Mayen gjelder helt eller delvis for Jan Mayen, er[lov 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet, jf. lovens § 58[lov 9. mars 1973 nr. 14](lov/1973-03-09-14) om vern mot tobakksskader, jf. [lovens § 3](forskrift/2015-06-22-747/§3)[forskrift 11. desember 2000 nr. 1543](forskrift/2000-12-11-1543) om alkoholordningen for Jan Mayen, jf. [alkoholloven § 1-2](lov/1989-06-02-27/§1-2)(opphevet)[Lov 12. mai 2000 nr. 36 om strålevern og bruk av stråling](lov/2000-05-12-36), jf. [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling (strålevernforskriften) § 3](forskrift/2016-12-16-1659/§3).
+
+> Endret ved forskrift [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
+
+## § 19. Helsepersonellovens anvendelse for Jan Mayen
+
+[Lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. gjelder for Jan Mayen.
+
+Forskrifter med hjemmel i helsepersonelloven gjelder ikke for Jan Mayen.
+
+Statsforvalteren etter loven er for Jan Mayen Statsforvalteren i Nordland.
+
+Meldinger etter [helsepersonelloven § 18](lov/1999-07-02-64/§18) skal gis til Statsforvalteren i Nordland.
+
+Myndigheten etter [helsepersonelloven § 29](lov/1999-07-02-64/§29) har for Jan Mayen den regionale komiteen for medisinsk og helsefaglig forskningsetikk for den nordligste regionen (REK Nord).
+
+[Helsepersonelloven § 7](lov/1999-07-02-64/§7), [§ 10](lov/1999-07-02-64/§10), [§ 22](lov/1999-07-02-64/§22) og [§ 41](lov/1999-07-02-64/§41) skal anvendes som om bestemmelsene i pasient- og brukerrettighetsloven som det henvises til, gjelder.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 20. Lov om alternativ behandling av sykdom mv. – anvendelse for Jan Mayen
+
+[Lov 27. juni 2003 nr. 64](lov/2003-06-27-64) om alternativ behandling av sykdom mv. gjelder for Jan Mayen.
+
+Forskrifter med hjemmel i loven gjelder for Jan Mayen med unntak av [forskrift 11. desember 2003 nr. 1501](forskrift/2003-12-11-1501) om markedsføring av alternativ behandling av sykdom [§ 6](forskrift/2003-12-11-1501/§6) om tilsyn.
+
+## § 21. Helsetilsynslovens anvendelse for Jan Mayen
+
+[Lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)](lov/2017-12-15-107) gjelder for Jan Mayen.
+
+Forskrifter med hjemmel i helsetilsynsloven gjelder ikke for Jan Mayen.
+
+Statsforvalteren etter loven er for Jan Mayen Statsforvalteren i Nordland.
+
+> Endret ved forskrift [20 sep 2021 nr. 2838](forskrift/2021-09-20-2838).
+
+## § 21a. Obduksjonslovas anvendelse for Jan Mayen
+
+[Lov 7. mai 2015 nr. 26](lov/2015-05-07-26) om obduksjon og avgjeving av lik til undervisning og forsking [§ 1](lov/2015-05-07-26/§1) til [§ 3](lov/2015-05-07-26/§3), [§ 9](lov/2015-05-07-26/§9) til [§ 13](lov/2015-05-07-26/§13), [§ 15](lov/2015-05-07-26/§15), [§ 16](lov/2015-05-07-26/§16) og [§ 16 a](lov/2015-05-07-26/§16a) gjelder for Jan Mayen.
+
+> Tilføyd ved [forskrift 4 des 2015 nr. 1387](forskrift/2015-12-04-1387) (i kraft 1 jan 2016), endret ved [forskrift 16 juni 2017 nr. 767](forskrift/2017-06-16-767) (i kraft 1 juli 2017).
+
+## § 21b. Transplantasjonslovas anvendelse for Jan Mayen
+
+[Lov 7. mai 2015 nr. 25](lov/2015-05-07-25) om donasjon og transplantasjon av organ, celler og vev gjelder for Jan Mayen.
+
+Forskrifter med hjemmel i transplantasjonslova gjelder for Jan Mayen.
+
+> Tilføyd ved [forskrift 16 juni 2017 nr. 767](forskrift/2017-06-16-767) (i kraft 1 juli 2017).
+
+## § 22. Ikrafttredelse
+
+Forskriften trer i kraft 1. oktober 2015.
+
+Fra samme tidspunkt oppheves[forskrift 15. juni 1928 nr. 3357](forskrift/1928-06-15-3357) om læge- og sundhetsforholdene på Svalbard[forskrift 4. september 1934 nr. 3347](forskrift/1934-09-04-3347) om utgiftene ved hjemsendelse av sinnssyke fra Svalbard[forskrift 26. februar 2001 nr. 178](forskrift/2001-02-26-178) om apotek [§ 1](forskrift/2001-02-26-178/§1).
+
+## § 23. Overgangsregler
+
+Den som har utenlandsk godkjenning som helsepersonell og yter helsetjenester på vegne av arbeidsgiver og i hovedsak til arbeidsgiverens ansatte og deres familiemedlemmer, og som søker om norsk autorisasjon, lisens eller spesialistgodkjenning senest 1. juli 2016, kan utøve yrket inntil søknaden er avgjort.
+
+Kravet for privat sykehus på Svalbard om å utarbeide beredskapsplan skal være oppfylt innen 1. oktober 2017.
+
+Bevillinger og tillatelser etter [forskrift 15. juni 1928 nr. 3357](forskrift/1928-06-15-3357) om læge- og sundhetsforholdene på Svalbard [§ 21](forskrift/1928-06-15-3357/§21) og [§ 22](forskrift/1928-06-15-3357/§22) gjelder videre.
+
+Helseforskningsloven, unntatt [§ 9](forskrift/2015-06-22-747/§9) og [§ 10](forskrift/2015-06-22-747/§10), gjelder også for forskningsprosjekter som er satt i gang før 1. oktober 2015. Prosjekter som er satt i gang, men som ikke er godkjent av en regional komité for medisinsk og helsefaglig forskningsetikk i Norge før 1. oktober 2015, skal meldes til den regionale komiteen som behandler saker i den nordligste regionen (REK Nord). Meldingen skal inneholde opplysninger om forskningsansvarlig og prosjektleder, en beskrivelse av prosjektet og anslåtte tidsrammer for prosjektet.
+
+> Endret ved [forskrift 1 feb 2016 nr. 88](forskrift/2016-02-01-88).

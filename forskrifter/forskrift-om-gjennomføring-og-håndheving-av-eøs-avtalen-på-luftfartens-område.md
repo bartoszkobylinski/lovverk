@@ -1,0 +1,66 @@
+---
+id: "sf-19940715-0691"
+slug: "forskrift-om-gjennomføring-og-håndheving-av-eøs-avtalen-på-luftfartens-område"
+type: "forskrift"
+ref_id: "forskrift/1994-07-15-691"
+title: "Forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område"
+short_title: "Forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "1994-07-15"
+last_change_in_force: "2024-03-05"
+last_updated: "2020-04-07"
+xml_hash: "a4148ccad0ea3ec16909f839193a8a0ce14e023b251e6c5845400641f87d9b98"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område
+
+## I
+
+### § 1
+
+Følgende regler i EØS-avtalen Vedlegg XIII, [kapittel VI](lov/1992-11-27-109/kap6) – Sivil luftfart, gjelder som forskrift med de endringer og tillegg som følger av vedlegget selv, protokoll 1 til avtalen og avtalen ellers:1 Vedlegget pkt. 62 (Rådsforordning [(EØF) nr. 2342/90](eu/31990r2342) av 24. juli 1990) om luftfartsselskapers adgang til å delta i ruteflyging innenfor EØS og om deling av setekapasiteten mellom luftfartsselskaper på ruteflyginger mellom EØS-statene.– – –1 Vedlegget pkt. 64 (Rådsforordning [(EØF) nr. 294/91](eu/31991r0294) av 4. februar 1991) om fraktflyging mellom EØS-statene.– – –– – –
+
+> Endret ved [forskrifter 19 mai 2000 nr. 445](forskrift/2000-05-19-445) (i kraft 1 juli 2000), [23 juni 2000 nr. 588](forskrift/2000-06-23-588) (i kraft 15 juli 2000), [15 aug 2001 nr. 923](forskrift/2001-08-15-923) (i kraft 1 sep 2001), [17 des 2004 nr. 1854](forskrift/2004-12-17-1854), [17 feb 2005 nr. 141](forskrift/2005-02-17-141), [23 mai 2005 nr. 459](forskrift/2005-05-23-459), [21 feb 2008 nr. 189](forskrift/2008-02-21-189), [12 aug 2011 nr. 833](forskrift/2011-08-12-833), [3 april 2020 nr. 676](forskrift/2020-04-03-676), [30 okt 2020 nr. 2212](forskrift/2020-10-30-2212), [9 mars 2021 nr. 640](forskrift/2021-03-09-640), [10 feb 2022 nr. 199](forskrift/2022-02-10-199), [21 mars 2022 nr. 436](forskrift/2022-03-21-436), [16 nov 2022 nr. 1986](forskrift/2022-11-16-1986), [5 mars 2024 nr. 385](forskrift/2024-03-05-385).
+
+### § 1a. (Opphevet)
+
+> Tilføyd ved forskrift [8 des 2021 nr. 3435](forskrift/2021-12-08-3435), opphevet ved forskrift [10 feb 2022 nr. 199](forskrift/2022-02-10-199).
+
+### § 2
+
+Samferdselsdepartementet håndhever reglene i [§ 1](forskrift/1994-07-15-691/§1) punkt 1, 3 og 5.
+
+> Endret ved [vedtak 10 des 1999 nr. 1278](forskrift/1999-12-10-1278) (i kraft 1 jan 2000), endret ved [forskrifter 23 juni 2000 nr. 588](forskrift/2000-06-23-588) (i kraft 15 juli 2000), [12 aug 2011 nr. 833](forskrift/2011-08-12-833), [8 des 2021 nr. 3435](forskrift/2021-12-08-3435), [10 feb 2022 nr. 199](forskrift/2022-02-10-199)
+
+### § 3. (Opphevet)
+
+> Opphevet ved [forskrift 12 aug 2011 nr. 833](forskrift/2011-08-12-833).
+
+### § 4
+
+Forskriften får ikke anvendelse for Svalbard.
+
+### § 5
+
+Samferdselsdepartementet har fullmakt til å foreta mindre endringer i forskriften.
+
+### § 6
+
+1. Forskriften trer i kraft straks.
+
+2. Fra samme tidspunkt oppheves:[forskrift 20. august 1993 nr. 818](forskrift/1993-08-20-818) om gjennomføring og håndheving av tillegg til avtale om sivil luftfart mellom Norge, Sverige og Det Europeiske Økonomiske Fellesskap[forskrift 20. august 1993 nr. 819](forskrift/1993-08-20-819) om luftfartsselskapers adgang til markedet[forskrift 20. august 1993 nr. 820](forskrift/1993-08-20-820) om utstedelse av lisenser til luftfartsselskaper, og[forskrift 21. februar 1994 nr. 139](forskrift/1994-02-21-139) om gjennomføring og handheving av EØS-avtalen på luftfartens område.
+
+## II
+
+Ved henvendelse til Samferdselsdepartementet kan en få forordningstekstene justerte for EØS-avtalen.
+
+Se her for å lese forordning [(EØF) nr. 95/93](eu/31993r0095): [(pdf)](static/SF/31993r0095.pdf)
+
+Se her for å lese forordning [(EF) nr. 793/2004](eu/32004r0793): [(pdf)](static/SF/32004r0793.pdf)

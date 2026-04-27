@@ -1,0 +1,150 @@
+---
+id: "sf-19760625-0005"
+slug: "forskrift-om-fastsetting-av-normpriser"
+type: "forskrift"
+ref_id: "forskrift/1976-06-25-5"
+title: "Forskrift om fastsetting av normpriser"
+short_title: "Forskrift om fastsetting av normpriser"
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "1976-06-25"
+last_change_in_force: "2024-01-01"
+last_updated: "2010-09-28"
+xml_hash: "98708e2450141d6eabe65f5346aace94b66d2ba43f7f6868dbc99491bc2d5996"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fastsetting av normpriser
+
+## I. Normpris ved ligningsbehandlingen.
+
+### § 1
+
+Til bruk ved ligningen, herunder utligning av særskatt i h.t. [lov av 13. juni 1975 nr. 35](lov/1975-06-13-35) om skattlegging av undersjøiske petroleumsforekomster m.v. (petroleumsskatteloven), kan det fastsettes normpriser for ulike typer og kvaliteter petroleum eller for deler av sådanne som utvinnes i de områder som er nevnt i [lovens § 1](forskrift/1976-06-25-5/§1), a-b.
+
+### § 2
+
+Normprisen skal svare til hva petroleum kunne ha vært omsatt for mellom uavhengige parter i et fritt marked. Med uavhengige parter menes kjøpere og selgere som innbyrdes ikke har slike felles interesser at det kunne ha påvirket en avtalt pris. Ved verdsettelsen skal det bl.a. tas hensyn til oppnådde og noterte priser for petroleum av samme eller tilsvarende art med nødvendig justering for kvalitetsforskjeller, transportkostnader m.v. til Nordsjøområdet eller andre aktuelle markeder, leveringstid, betalingstid og vilkår forøvrig, oppnådde og noterte priser for petroleumsprodukter med nødvendig justering for bearbeiding m.v. og andre sammenlignbare priser eller vedsettelse som måtte finnes. Det skal tas hensyn til hvorvidt det dreier seg om avtaler mellom tilknyttede selskaper eller andre avtaler der særlige forhold eller øvrige betingelser må ha hatt betydning for prisfastsettelsen.
+
+Normprisen fastsettes etterskuddsvis, som pris for petroleum som utvinnes i et bestemt tidsrom. Normprisen fastsettes normalt for den enkelte dag. Normprisen kan fastsettes for en lengre periode enn en enkelt dag når dette finnes hensiktsmessig og ikke urimelig.
+
+For petroleum som blir ilandført ved rørledning, fastsettes normprisen på grunnlag av verdien på ilandføringsstedet. For petroleum som blir ilandført ved skip, bestemmer departementet, etter en vurdering av de valgte transportløsninger, hvorvidt normpris skal fastsettes på grunnlag av verdien levert Nordsjøhavn, eller på grunnlag av verdien på produksjonsstedets avskipningspunkt. Departementet bestemmer i tvilstilfelle hva som skal regnes for ilandføringssted- og avskipningspunkt. Departementet kan gjøre unntak fra bestemmelsene i dette ledd når det er nødvendig eller hensiktsmessig for å håndheve bestemmelsene om norsk beskatningsrett i henhold til skatte- og avgiftslovgivningen eller avtaler med andre land vedrørende beskatning av petroleumsvirksomhet m.v.
+
+> Endret ved [forskrifter 24 sep 2007 nr. 1087](forskrift/2007-09-24-1087) (i kraft 1 okt 2007), [24 sep 2010 nr. 1290](forskrift/2010-09-24-1290) (i kraft 1 okt 2010).
+
+### § 3
+
+Med mindre særlige grunner tilsier noe annet, skal fastsettelsen av normprisene skje fire ganger årlig, etter utløpet av hvert kvartal.
+
+Det kan fastsettes foreløpige normpriser.
+
+De berørte parter skal innen 4 uker etter hvert av de 3 første kvartalene og innen 3 uker etter 4. kvartal avgi uttalelse om normpriser for vedkommende kvartal. Den myndighet som skal foreta prisfastsettingen, kan også innkalle partene til drøfting og innhenting av ytterligere opplysninger. For partenes adgang til å gjøre seg kjent med sakens dokumenter gjelder bestemmelsene i [forvaltningsloven § 18](lov/1967-02-10/§18) til [§ 21](lov/1967-02-10/§21) med mindre annet følger av denne bestemmelsen. Skjønnsmessige holdepunkter og tallfesting av disse i tilknytning til skjønnet anses ikke som faktiske opplysninger og bearbeiding av faktum i forhold til [forvaltningsloven § 18c](lov/1967-02-10/§18c). Øvrige berørte parter har ikke krav på å gjøre seg kjent med dokumenter som er lagt frem for prisfastsettingsmyndigheten av en part. Dersom en berørt part imidlertid opplyser at parten ønsker dokumenter eller deler av disse gjort kjent for andre berørte parter, skal prisfastsettingsmyndigheten sørge for dette.
+
+Prisfastsettingsmyndigheten skal deretter, enten skriftlig eller i møte med de berørte parter, gi en foreløpig vurdering av prisfastsettingsspørsmålet. Etter at de foreløpige vurderinger er kunngjort for de berørte parter, kan disse avgi uttalelse innen 2 uker. Når prisfastsettingsmyndigheten finner grunn til det, kan det settes lengre frister for uttalelse.
+
+Ved fastsetting av foreløpige normpriser skal de berørte parter såvidt mulig varsles og gis en kort frist til å uttale seg. Finner prisfastsettingsmyndigheten etter foreløpig vurdering at det ikke har skjedd helt vesentlige endringer, kan det treffes vedtak om at den sist fastsatte endelige normpris anvendes som foreløpig normpris for senere perioder.
+
+Når flere selskaper samarbeider om utvinningen, kan departementet kreve at gruppen skriftlig skal utpeke en eller flere representanter som mottar varsel, innkalles til møter og avgir uttalelse m.v. på gruppens vegne.
+
+> Endret ved [forskrifter 24 sep 2007 nr. 1087](forskrift/2007-09-24-1087) (i kraft 1 okt 2007), [17 okt 2008 nr. 1119](forskrift/2008-10-17-1119) (i kraft 1 jan 2009), [24 sep 2010 nr. 1290](forskrift/2010-09-24-1290) (i kraft 1 okt 2010).
+
+### § 4
+
+Departementet gis myndighet til å fastsette foreløpige og endelige normpriser, herunder bestemme at normpris ikke skal fastsettes for enkelte produksjonsområder. Departementet kan også unnta enkeltavskipninger fra fastsatt normpris når særlige hensyn tilsier det.
+
+Departementet kan gi et særskilt petroleumsprisråd myndighet til å treffe vedtak som nevnt i disse forskrifter.
+
+> Endret ved [forskrift 24 sep 2007 nr. 1087](forskrift/2007-09-24-1087) (i kraft 1 okt 2007).
+
+### § 5
+
+Petroleumsprisrådets vedtak om foreløpig eller endelig fastsetting av normpris kan kreves overprøvet av departementet. Klage må være innkommet til Petroleumsprisrådet innen 30 dager etter at vedtaket er fattet. De øvrige parter skal underrettes om klagen og ha anledning til å slutte seg til klagesaken, selv om de ikke har krevet overprøvning innen fristens utløp.
+
+I forbindelse med overprøving av vedtak etter første ledd om endelig fastsetting av normpris, kan de parter som har krevet overprøvning eller senere har sluttet seg til klagesaken, kreve prisfastsettingen forelagt for et utvalg av sakkyndige til uttalelse om den fastsatte normpris er åpenbart urimelig før departementet treffer sin avgjørelse.
+
+Krav om oppnevning av slikt sakkyndig utvalg må være innkommet til departementet senest 14 dager etter klagefristens utløp. Utvalget skal ha 3 medlemmer som oppnevnes av Justitiarius i Høyesterett etter at departementet og de berørte parter som deltar i saken har hatt anledning til å uttale seg om oppnevnelsen. Utvalget skal gi Petroleumsprisrådet og de parter som har krevd fremleggelse for utvalget, anledning til å uttale seg skriftlig eller muntlig, og forøvrig innhente slike opplysninger som utvalget finner ønskelig. Utvalget skal avgi uttalelse senest 3 måneder etter oppnevnelsen, med mindre departementet bestemmer noe annet.
+
+Utvalget fastsetter selv sin godtgjørelse og hvordan betalingen av godtgjørelsen og andre utgifter ved utvalgsbehandlingen skal fordeles mellom partene.
+
+> Endret ved [forskrift 24 sep 2010 nr. 1290](forskrift/2010-09-24-1290) (i kraft 1 okt 2010).
+
+### § 6
+
+Departementets vedtak om foreløpig eller endelig fastsetting av normpris kan kreves overprøvet av Kongen dersom vedtaket er truffet av departementet som førsteinstans eller hvis departementet har omgjort et tidligere vedtak av Petroleumsprisrådet uten klage.
+
+Bestemmelsene i [§ 5](forskrift/1976-06-25-5/§5) første ledd gjelder tilsvarende.
+
+### § 7
+
+Om adgangen til å omgjøre normprisvedtak av eget tiltak gjelder alminnelige forvaltningsrettslige regler samt [forvaltningslovens § 35](lov/1967-02-10/§35), dog slik at fristen for slik omgjøring skal være 6 måneder fra underinstansens vedtak ble truffet. Bestemmelse om underretning til underinstansen i henhold til [forvaltningslovens § 35](lov/1967-02-10/§35) annet ledd skal ikke komme til anvendelse på normprisvedtak.
+
+### § 8
+
+Søksmål til prøving av gyldigheten av normprisvedtak kan ikke reises med mindre klagemulighetene i henhold til disse forskrifter er utnyttet. Forøvrig kommer [Tvistemålslovens § 437](lov/1915-08-13-6/§437) tilsvarende til anvendelse.
+
+### § 9
+
+Enhver som ved utligning av inntekt- og formuesskatt, herunder særskatt i henhold til [Petroleumsskattelovens § 5](lov/1975-06-13-35/§5), vil få normpris lagt til grunn ved ligningen, er pliktig til å gi alle opplysninger som kreves for fastsettelse av normpris. Vedkommende skal også av eget tiltak gi ytterligere opplysninger dersom disse må antas å være av betydning for verdsetting av petroleum utvunnet i de områder som er nevnt i [Petroleumsskattelovens § 1](lov/1975-06-13-35/§1), a-b.
+
+Opplysninger om salg m.v. av petroleum produsert på den norske kontinentalsokkel kan bl.a. kreves gitt på særskilt prisoppgaveskjema som fastsettes av departementet. Prisoppgaven skal insendes til departementet hver måned. Frist for innsendelse av slik prisoppgave fastsettes av departementet.
+
+Den oppgavepliktige skal i særskilte kvartalsoppgaver bekrefte de innsendte prisoppgaver innen 15 dager etter kvartalets utløp.
+
+Endringer i de innsendte opplysninger skal meddeles departementet innen 15 dager etter at den oppgavepliktige er blitt kjent med endringen.
+
+Overtredelse av bestemmelsene i de foregående ledd straffes med bøter, jfr. [straffeloven § 339](lov/2005-05-20-28/§339) nr. 2, såfremt ikke strengere straffebestemmelse kommer til anvendelse.
+
+### § 10
+
+Petroleumsprisrådet skal bestå av minst 5 medlemmer som oppnevnes av Kongen.
+
+Funksjonstiden for medlemmer og varamedlemmer er 2 år. I det enkelte tilfelle kan det fastsettes en annen funksjonstid for å sikre kontinuitet i rådet.
+
+Rådet kan fatte vedtak når minst 4 av rådets medlemmer eller deres varamedlemmer er til stede, og et flertall av de tilstedeværende stemmer for vedtaket.
+
+Drøftelser med berørte parter eller innhenting av opplysninger kan, etter rådets nærmere bestemmelse, overlates til et medlem eller et utvalg, eller til rådets sekretariat.
+
+> Endret ved [forskrift 24 sep 2007 nr. 1087](forskrift/2007-09-24-1087) (i kraft 1 okt 2007).
+
+## II. Normpris ved beregning av produksjonsavgift.
+
+### § 11
+
+Ved fastsetting av beregningsgrunnlaget for produksjonsavgift (royalty) eller beregningsgrunnlaget for foreløpige innbetalinger i henhold til kgl.res. av 8. desember 1972 (med senere endringer) om undersøkelse etter og utnyttelse av undersjøiske petroleumsforekomster § 26, får bestemmelsene i disse forskrifter tilsvarende anvendelse.
+
+Beregningsgrunnlaget fastsettes i alle tilfelle på grunnlag av mengden og verdien på produsert petroleum ved utvinningsområdets avskipningspunkt.
+
+## III. Normpris ved overdragelse av petroleum.
+
+### § 12
+
+Departementet kan ved forskrift eller i det enkelte tilfelle fastsette at bestemmelsene i disse forskrifter helt eller delvis skal legges til grunn ved fastsetting av pris for utvunnet petroleum som overtas i henhold til inngåtte avtaler om statsdeltakelse i petroleumsutvinning på den norske kontinentalsokkel.
+
+## IV. Alminnelige bestemmelser.
+
+### § 13
+
+I denne resolusjon betyr:
+
+> Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
+
+### § 14
+
+Departementet kan utferdige forskrifter til gjennomføring av denne resolusjons bestemmelser, gi utfyllende forskrifter for Petroleumsprisrådets fastsettelse av normpris og gi forskrifter for saksbehandlingen i Petroleumsprisrådet.
+
+## V. Endringsbestemmelser.
+
+### § 15
+
+– – –
+
+## VI. Ikrafttreden.
+
+### § 16
+
+Disse forskrifter trer ikraft straks.

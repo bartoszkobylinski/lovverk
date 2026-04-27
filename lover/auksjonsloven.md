@@ -1,0 +1,116 @@
+---
+id: "nl-19180814-003"
+slug: "auksjonsloven"
+type: "lov"
+ref_id: "lov/1918-08-14-3"
+title: "Lov om frivillige auksjoner [auksjonsloven]"
+short_title: "Auksjonsloven"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1927-07-01"
+last_change_in_force: "2006-01-01"
+last_updated: "2021-08-31"
+xml_hash: "f73311df3a877cf1c52cedb307cbcac2e3e334bf5f027889d6093dc0de7c7638"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om frivillige auksjoner [auksjonsloven]
+
+## § 1. (Opphevet)
+
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## § 2.
+
+Med de begrensninger som følger av brukthandellova, kan enhver selv eller ved andre holde offentlig auksjon over gods som tilhører ham, og som han har rett til å selge.
+
+> Endret ved [lover 13 mai 1988 nr. 26](lov/1988-05-13-26), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+
+## § 3. (Opphevet)
+
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## § 4.
+
+Ved enhver frivillig auktion skal et vidne være tilstede.
+
+Som vidne kan brukes enhver, som er over 18 aar og ikke fradømt stemmeret i offentlige anliggender.
+
+## § 5.
+
+Om enhver frivillig auksjon skal styreren gi melding til politiet samtidig med bekjentgjørelsen av auksjonen eller snarest mulig etter det.
+
+Findes det nødvendig, at der til opretholdelse av orden fremmøter politi, er sælgeren pligtig til at betale de særlige utgifter, som dette maatte medføre.
+
+> Endret ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)).
+
+## § 6. (Opphevet)
+
+> Opphevet ved [lov 16 juni 1989 nr. 72](lov/1989-06-16-72).
+
+## § 7.
+
+Ved løsøreauktioner skal det av kundgjørelsen og auktionsvilkaarene tydelig fremgaa, om tingene tilhører samme eier eller ikke.
+
+Den, som gjør sig en næring av at holde auktion for andre, kan ikke under en auktion over andenmands gods sælge noget for egen regning.
+
+## § 8.
+
+Har auktionsstyreren eller nogen anden paatat sig at kræve ind auktionspengene, er han som selvskyldner ansvarlig for rigtig betaling.
+
+Opkræveren skal være tilstede ved auktionen. Han bestemmer, om en byder skal faa betalingsfrist, og om tingen straks skal utleveres til ham eller opbevares for hans regning, til han betaler.
+
+Hvis en byder uten rimelig grund blir avvist eller negtet betalingsfrist, og sælgeren lider skade ved det, er opkræveren ansvarlig.
+
+## § 9.
+
+Auktionsvilkaarene skal læses op, før oprop begynder, og under auktionen være tilgjængelige for dem, som ønsker at gjøre sig kjendt med dem.
+
+## § 10.
+
+Tingene ropes op enkeltvis, hvis ikke deres art gjør det nødvendig eller hensigtsmæssig at rope dem op under ett eller i større eller mindre avdelinger. Den orden, som er angit i en auktionskatalog eller lignende fortegnelse, bør ikke fravikes uten særlig grund. Saalænge salg foregaar efter saadan fortegnelse, maa der ikke ropes op andre ting.
+
+Tingene skal helst være tilstede eller i nærheten, saa de kjøpelystne har adgang til at gjøre sig bekjendt med dem.
+
+## § 11.
+
+Før tilslaget blir git, skal det høieste bud gjentagne ganger kundgjøres høit og tydelig.
+
+Viser det sig, at to eller flere har gjort det høieste bud, eller opstaar det tvist om budet, skal styreren opfordre til videre bud. Nytter ikke det, avgjør han, hvem som skal ansees for høistbydende.
+
+Hvis ikke auktionsvilkaarene forbeholder en frist, skal opkræveren eller, hvis opkræver ikke er antat, sælgeren straks anta eller forkaste budene. Enhver byder pligter at vedstaa sit bud, til avgjørelsen er truffet eller fristen utløpet.
+
+## § 12.
+
+Enhver frivillig auktion indføres i en bok med anførsel av sted og tid og navnet paa sælgeren og andre, som har optraadt under forretningen.
+
+Ved ethvert salg skal tingen, kjøperens navn og kjøpesummen indføres i auktionsboken. Blir kjøpesummen betalt straks, skal ogsaa det anføres.
+
+Opstaar der tvist om kjendsgjerninger av betydning, som er forefaldt paa møtet, skal oplysning straks søkes ved forklaringer av de tilstedeværende, og det nødvendige føres ind i auktionsboken.
+
+Boken underskrives av styreren og vidnet.
+
+Enhver, som erhvervsmæssig eller til stadighet vil drive auktionsvirksomhet, skal bruke en auktionsbok, som er godkjendt av politimesteren.
+
+## § 13. (Opphevet)
+
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## § 14.
+
+Overtredelse i bestemmelsene i [§§ 4](lov/1918-08-14-3/§4), 7, 9, 10 første ledd tredje punktum og [§ 12](lov/1918-08-14-3/§12) straffes med bøter.
+
+> Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## § 15. (Opphevet)
+
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+## Slutningsbestemmelse.
+
+Tiden for denne lovs ikrafttræden bestemmes ved særskilt lov.1

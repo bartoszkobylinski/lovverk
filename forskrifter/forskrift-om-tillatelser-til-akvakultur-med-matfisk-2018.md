@@ -1,0 +1,142 @@
+---
+id: "sf-20180830-1323"
+slug: "forskrift-om-tillatelser-til-akvakultur-med-matfisk-2018"
+type: "forskrift"
+ref_id: "forskrift/2018-08-30-1323"
+title: "Forskrift om tildeling av nye tillatelser til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2018 – auksjon av restkapasitet"
+short_title: "Forskrift om tillatelser til akvakultur med matfisk, 2018"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2018-08-30"
+last_change_in_force: null
+last_updated: "2018-10-03"
+xml_hash: "43843a9a85b9d20858eb084a03576243aad107476fac96f8d906965d2183fa1f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tildeling av nye tillatelser til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2018 – auksjon av restkapasitet
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Forskriften skal fremme akvakulturnæringens lønnsomhet og konkurransekraft innenfor rammene av en miljømessig bærekraftig utvikling og bidra til verdiskaping på kysten.
+
+### § 2. Forskriftens virkeområde
+
+Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.
+
+Forskriften gjelder tildeling av nye tillatelser til akvakultur med matfisk av laks, ørret og regnbueørret i sjø.
+
+## Kapittel 2. Auksjonsinnretning
+
+### § 3. Fordeling av produksjonskapasitet i denne auksjonen
+
+Forskriften gjelder tildeling av produksjonskapasitet i bestemte produksjonsområder. Produksjonskapasiteten tildeles i bestemte størrelser som nummererte tillatelser. Fordelingen er slik:*Tillatelsesnr.**Produksjonsområde**Størrelse i tonn MTB*1116271003745481005810061040711281211
+
+De nærmere grenser for produksjonsområdene følger av [forskrift 16. januar 2017 nr. 61](forskrift/2017-01-16-61) om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret.
+
+Tillatelser under 100 tonn må fusjoneres eller være omsøkt fusjonert med en eller flere eksisterende tillatelser tilhørende samme produksjonsområde før 1. august 2019, slik at tillatelsesstørrelsen er lik eller større enn 100 tonn. Slik søknad sendes den aktuelle fylkeskommunen og det skal ikke betales søknadsgebyr. Dersom tillatelsesstørrelsen er mindre enn 100 tonn per 1. august 2019 trekker Fiskeridirektoratet tilsagnet om tillatelse eller tillatelsen tilbake. Vederlag som er innbetalt vil ikke bli refundert.
+
+### § 4. Utlysning av produksjonskapasitet
+
+Fiskeridirektoratet og fylkeskommunene står for den offentlige utlysingen av produksjonskapasiteten. Utlysningsteksten publiseres på det tidspunkt departementet bestemmer.
+
+### § 5. Tildelingsform
+
+Produksjonskapasiteten nevnt i [§ 3](forskrift/2018-08-30-1323/§3) tildeles gjennom en lukket budrunde.
+
+### § 6. Rett til å søke klarering av lokalitet og utskriving av tillatelsesdokument
+
+Fiskeridirektoratet fatter vedtak om tilsagn om tillatelse til alle budvinnere i auksjonen. Vinnere av auksjonen kan be om at produksjonskapasitetet tildeles som økt kapasitet på en eller flere eksisterende tillatelser, så fremt den eksisterende tillatelsen er hjemmehørende i samme produksjonsområde som produksjonskapasiteten som er vunnet. Dersom en budgiver vinner flere tillatelser innenfor et produksjonsområde kan budgiveren be om at den samlede produksjonskapasiteten som tillatelsene representerer tildeles i form av ett tilsagn om tillatelse.
+
+Tildeling av tilsagn om tillatelse gir rett til å søke om klarering av lokalitet innenfor det produksjonsområdet tilsagnet om tillatelse gjelder.
+
+Rett til drift starter når tillatelsesdokument er skrevet ut av fylkeskommunen. Tillatelsesdokument kan ikke skrives ut før forvaltningen endelig har avgjort eventuelle klager som følge av auksjonen.
+
+### § 7. Innbetalt vederlag og endringer i rammebetingelser mv.
+
+En tillatelse til akvakultur gir rettigheter og plikter og er underlagt de til enhver tid gjeldende lover og regler. Vederlaget blir ikke refundert ved endringer i rammebetingelser som påvirker lønnsomhet, og heller ikke ved eventuell senere inndragning eller reduksjon av tillatelsens kapasitet på bakgrunn av forhold nevnt i [akvakulturloven § 9](lov/2005-06-17-79/§9) eller andre lovbestemte forhold, herunder reduksjon i kapasitet besluttet i eller i medhold av produksjonsområdeforskriften.
+
+## Kapittel 3. Hvem som kan delta i auksjonen
+
+### § 8. Hvem som kan delta i auksjonen
+
+Bare fysiske personer eller selskaper hjemmehørende i EØS eller Sveits kan delta i auksjonen.
+
+For å få utstedt endelig tillatelsesdokument må den fysiske personen enten ha fødselsnummer eller D-nummer. Et selskap må være registrert med organisasjonsnummer i Brønnøysundregistrene.
+
+### § 9. Krav for å bli registrert som budgiver
+
+For å delta i auksjonen må personen eller foretaket:fylle ut fastsatt registreringsskjema, inkludert opplasting av firmaattest,laste opp fastsatt skjema om dokumentasjon på økonomisk evne til å betale vederlaget ogtilfredsstille krav til finansiell situasjon i henhold til [§ 11](forskrift/2018-08-30-1323/§11) og avgi egenerklæring om dette.
+
+Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Det er ikke mulig å registrere seg på annen måte. Frist for registrering er 17. september kl. 23:59.
+
+Fiskeridirektoratet vil avvise registrereringen dersom den er levert for sent. Dersom registreringsdokumentene har feil eller mangler vil avsender bli gitt en kort frist til å rette disse.
+
+Bud kan ikke innleveres etter at fristen i andre ledd har gått ut. Innleverte bud kan ikke endres etter at fristen i andre ledd har gått ut.
+
+### § 10. Finansiell situasjon
+
+En budgiver kan ikkevære ute av stand til å oppfylle sine betalingsforpliktelser,ha åpnet gjeldsforhandlinger,være insolvent eller være underlagt begjæring om konkurs eller opphør,begjært frivillig opphør, ellervære gjenstand for konkursbehandling eller være konkurs.
+
+Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon.
+
+## Kapittel 4. Budgivning
+
+### § 11. Budgivning og minstepris
+
+Bud kan kun inngis elektronisk i Fiskeridirektoratets registreringsløsning på angitt skjema, og skal være registrert inn senest på tidspunktet som angitt i [§ 9](forskrift/2018-08-30-1323/§9) andre ledd. Hver budgiver kan kun inngi et bud per objekt. Det er mulig å endre inngitte bud frem til fristen, og det er det sist inngitte budet som er gyldig ved fristens utløp. Bud som er innlevert i registreringsløsningen er bindende og ugjenkallelig avgitt på det tidspunktet fristen i [§ 9](forskrift/2018-08-30-1323/§9) andre ledd går ut.
+
+Budet skal være i norske kroner (NOK) og skal angis i hele kroner. Fiskeridirektoratet kan ikke godta bud på deler av en tillatelse.
+
+Bud som er på under 120 000 kroner per tonn MTB aksepteres ikke.
+
+### § 12. Forbud om konkurransebegrensende adferd
+
+Enhver form for direkte eller indirekte samarbeid eller samordnet opptreden mellom budgivere eller deres interessenter som virker eller er ment å virke konkurransebegrensende, er forbudt. Eksempler på samarbeid som er forbudt er utveksling av konkurransesensitiv eller strategisk informasjon, offentlig kunngjøring om registrering eller deltakelse i auksjonen og deling av budgivningsstrategier.
+
+Staten vil i tillegg til ev. tilbaketrekking av tildelte tilsagn om tillatelse eller tillatelse, kunne forfølge ev. økonomiske tap som følge av brudd på auksjonsregelverket gjennom sivilt søksmål.
+
+### § 13. Uforutsette hendelser mv.
+
+For det tilfelle det oppstår ekstraordinære hendelser kan Fiskeridirektoratet utsette fristen for å delta i auksjonen og inngi bud.
+
+### § 14. Vinner av auksjonen
+
+Vinner av auksjonen kåres ved at Fiskeridirektoratet sammenstiller inngitte bud for hver tillatelse. Det høyest pålydende budet for hver tillatelse vinner. Rangering av bud med samme pålydende blir avgjort ved loddtrekning foretatt av Fiskeridirektoratet.
+
+### § 15. Innbetaling av vederlag
+
+Vinner plikter å betale budsummen innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til
+
+Beløpet betales til kontonummer 7694 05 09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.
+
+Departementet kan kreve erstatning for det tap staten lider som følge av budgivers mislighold av auksjonsbeløpet.
+
+## Kapittel 5. Avsluttende bestemmelser
+
+### § 16. Brudd på auksjonsregelverket
+
+Brudd på denne forskriften medfører utestengelse fra denne auksjonen.
+
+Om en budgiver blir utestengt, vil budgiveren forbli forpliktet med hensyn til innleverte bud og eventuelle betalingsforpliktelser som ville oppstått om den ekskluderte budgiveren ville vunnet frem med sitt bud. Den ekskluderte budgiveren vil likevel ikke bli tildelt noe tilsagn om tillatelse.
+
+Dersom bruddet oppdages etter at auksjonen er gjennomført kan Fiskeridirektoratet trekke tilbake eventuelle tilsagn om tillatelse eller tildelt tillatelse. Budgiveren vil forbli forpliktet med hensyn til innleverte bud og eventuelle betalingsforpliktelser.
+
+### § 17. Tilbakebetaling av innbetalt vederlag ved omgjøring
+
+Dersom tilsagn om tillatelse eller tildelt tillatelse trekkes tilbake som følge av omgjøring av vedtaket om tilsagn, for eksempel på grunn av klage, tilbakebetales innbetalt vederlag. Dette gjelder bare omgjøringsvedtak gjort etter denne forskriften, men ikke om omgjøringen skjer som følge av forhold nevnt i [§ 16](forskrift/2018-08-30-1323/§16).
+
+### § 18. Søksmålsfrist
+
+Fiskeridirektoratet eller departementet kan sette som vilkår at mulig søksmål om forvaltningsvedtak etter denne forskriften er gyldig eller krav om erstatning som følge av vedtaket, skal tas ut innen seks måneder fra det tidspunkt melding om fastsettelse av frist kom frem til vedkommende part. Det kan gis oppfriskning for oversittelse av fristen etter reglene i [tvisteloven § 16-12](lov/2005-06-17-90/§16-12) til [§ 16-14](lov/2005-06-17-90/§16-14).
+
+### § 19. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.

@@ -1,0 +1,331 @@
+---
+id: "nl-19990326-015"
+slug: "deltakerloven-deltl"
+type: "lov"
+ref_id: "lov/1999-03-26-15"
+title: "Lov om retten til å delta i fiske og fangst (deltakerloven)"
+short_title: "Deltakerloven – deltl"
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2000-01-01"
+last_change_in_force: "2023-04-21"
+last_updated: "2021-08-24"
+xml_hash: "693e0c7a7fe80a0f5d296fc7733b1e25433f8224601d89e1272f9a24297bd90f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om retten til å delta i fiske og fangst (deltakerloven)
+
+## Kapittel I. Lovens formål og virkeområde
+
+### § 1. Lovens formål
+
+Formålet med denne lov er:å tilpasse fiskeflåtens fangstkapasitet til ressursgrunnlaget for å sikre en rasjonell og bærekraftig utnyttelse av de marine ressurser,å øke lønnsomheten og verdiskapingen i næringen og gjennom dette trygge bosetting og arbeidsplasser i kystdistriktene, ogå legge til rette for at høstingen av de marine ressurser fortsatt skal komme kystbefolkningen til gode.
+
+### § 1 a. Forholdet til folkeretten
+
+Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.
+
+> Tilføyd ved [lov 21 sep 2012 nr. 66](lov/2012-09-21-66) (ikr. 1 jan 2013 iflg. [res. 21 sep 2012 nr. 913](forskrift/2012-09-21-913)).
+
+### § 2. Virkeområde
+
+Loven regulerer adgangen til å drive ervervsmessig fiske og fangst og annen høsting av viltlevende marine ressurser med fartøy som er norsk etter reglene i [sjøloven §§ 1](lov/1994-06-24-39/§1) til [4](lov/1994-06-24-39/§4) og fartøy som eies av utlending bosatt i Norge når fartøyets største lengde er mindre enn [15](lov/1994-06-24-39/§15) meter. Fartøy som er norsk etter [sjøloven § 1](lov/1994-06-24-39/§1) tredje ledd, er likevel ikke omfattet av loven her, med mindre fartøyet eies av person bosatt i Norge og fartøyets største lengde er mindre enn 15 meter. Som norsk fartøy regnes i loven her fartøy som er omfattet av første og annet punktum.
+
+Loven gjelder likevel ikke høsting av anadrome laksefisker slik det er definert i [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk mv. [§ 5](lov/1992-05-15-47/§5) bokstav a. Departementet kan i forskrift bestemme at hele eller deler av loven her ikke skal gjelde for høsting av én eller flere arter som ikke er fisk, krepsdyr, bløtdyr eller sjøpattedyr.
+
+> Endret ved [lover 21 jan 2000 nr. 8](lov/2000-01-21-8), [6 juni 2008 nr. 37](lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355)), [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+### § 3. Ervervsmessig fiske og fangst – definisjon
+
+Med ervervsmessig fiske og fangst menes i denne lov all høsting av viltlevende marine ressurser når vedkommende yrkesutøver har dette til levevei alene eller sammen med annen næring og hvor fartøy nyttes.
+
+Vitenskapelige undersøkelser eller praktiske fiskeforsøk som gjennomføres etter tillatelse av Fiskeridirektoratet, jf. [lov om forvaltning av viltlevande marine ressursar § 66](lov/2008-06-06-37/§66), er ikke å anse som ervervsmessig fiske og fangst etter loven her.
+
+Kongen kan ved forskrift gi nærmere bestemmelser om når fiske og fangst skal anses for å være ervervsmessig, herunder regler om krav til inntekt opptjent ved fiske og fangst.
+
+> Endret ved [lover 6 juni 2008 nr. 37](lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355)). [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+## Kapittel II. Ervervstillatelse
+
+### § 4. Krav om ervervstillatelse
+
+Et fartøy kan ikke nyttes til ervervsmessig fiske eller fangst uten at det er gitt ervervstillatelse av departementet. Det kan fastsettes vilkår for slik tillatelse.
+
+Ervervstillatelse gis til fartøyets eier for ett bestemt fartøy. Tillatelsen gir ikke rett til å benytte annet fartøy. Andre enn den fysiske eller juridiske person som innehar tillatelsen, kan ikke uten egen tillatelse drive fiske eller fangst med fartøyet.
+
+En ervervstillatelse gir bare rett til å utøve fiske eller fangst i samsvar med de bestemmelser som til enhver tid er fastsatt i eller i medhold av lov om forvaltning av viltlevande marine ressursar eller loven her.
+
+> Endret ved [lov 6 juni 2008 nr. 37](lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355)).
+
+### § 5. Nasjonalitetskrav
+
+Ervervstillatelse kan bare gis til den som er norsk statsborger eller likestilt med norsk statsborger. Som likestilt med norsk statsborger regnes utlending bosatt i Norge. Utlending bosatt i Norge kan bare bli tildelt ervervstillatelse når fartøyets største lengde er mindre enn 15 meter.
+
+Følgende selskaper og sammenslutninger anses som likestilt med norsk statsborger:aksjeselskap, allmennaksjeselskap og annet selskap med begrenset ansvar når selskapets hovedkontor og styrets sete er i Norge, når styrets flertall, herunder styrelederen, består av norske statsborgere som er bosatt i Norge og har bodd her i de to siste år, og når norske statsborgere eier aksjer eller andeler svarende til minst 6/10 av selskapets kapital og kan utøve stemmerett i selskapet med minst 6/10 av stemmene.partrederi eller annet norsk selskap når medlemmene hefter ubegrenset for selskapets forpliktelser, og når norske statsborgere er medeiere for minst 6/10.kommandittselskap når norske statsborgere eier minst 6/10 av den ansvarlige kapital, og når norske statsborgere eier minst 6/10 av kommandittkapitalen.
+
+Ved anvendelsen av denne paragraf skal likt med det som eies av norske statsborgere, regnes det som eies av den norske stat, institusjon eller fond som styres av den norske stat og norske kommuner.
+
+> Endret ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+### § 5 a. Krav til bosted
+
+Det er forbudt å nytte fartøy til ervervsmessig fiske eller fangst dersom ikke minst halvparten av mannskapet og lottfiskerne samt fartøyføreren er bosatt i en kystkommune eller i en nabokommune til en kystkommune. Kravet til fartøyførers bosted gjelder ikke hvis fartøyfører også er fartøyeier. Det kan etter søknad gis dispensasjon fra bostedskravet for fartøyfører med bosted annet sted i Norge, eller i Norden eller EØS-området for øvrig.
+
+Kongen kan ved forskrift gjøre unntak fra forbudet i første ledd for fartøy som nyttes til ervervsmessig fiske eller fangst i farvann som er utenfor norsk eller annen stats nasjonale jurisdiksjon, og som er regulert av internasjonale organisasjoner eller avtaler som Norge er part i og som gir Norge adgang til fiske og fangst.
+
+Kravet i første ledd gjelder ikke i den utstrekning det er gitt tillatelse som unntar fra første ledd i medhold av [havressurslova § 23 b](lov/2008-06-06-37/§23b) fjerde ledd.
+
+> Tilføyd ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), endret ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. 1 jan 2022 iflg. [res. 17 des 2021 nr. 3629](forskrift/2021-12-17-3629)).
+
+### § 6. Krav om tidligere aktivitet i fiske eller fangst
+
+Ervervstillatelse kan bare gis til den som har drevet ervervsmessig fiske eller fangst på eller med norsk fartøy i minst tre av de siste fem årene og fortsatt er knyttet til fiske- og fangstyrket.
+
+For selskap eller sammenslutning kan ervervstillatelse bare gis dersom personer som oppfyller kravet i første ledd innehar mer enn 50 pst. av eierinteressene og faktisk har tilsvarende kontroll over virksomheten.
+
+Departementet kan i særlig tilfelle, når næringsmessige og regionale hensyn tilsier det, ved enkeltvedtak gjøre unntak fra kravet i første og annet ledd om tidligere aktivitet i fiske eller fangst. Kongen kan ved forskrift gjøre unntak fra kravet om tidligere aktivitet, herunder for fartøy under en viss størrelse.
+
+Når det er nødvendig til gjennomføring av overenskomst med fremmed stat, kan Kongen ved forskrift fastsette ytterligere regler, herunder andre regler enn de som er fastsatt i første ledd, for tillatelse etter [§ 4](lov/1999-03-26-15/§4).
+
+### § 7. Særlige bestemmelser om ervervstillatelse
+
+Søknad om ervervstillatelse kan avslås dersom:innvilgelse ikke er ønskelig ut fra hensynet til fiskeflåtens distriktsmessige fordeling, hensynet til ressursgrunnlaget eller lovens formål for øvrig. Kongen kan ved forskrift gi nærmere regler om når søknad om ervervstillatelse kan avslås.fartøyet tidligere er tatt ut av fisket i medhold av en kondemnerings- eller strukturkvoteordning eller liknende ordning.fartøyeieren eller andre som har drevet et fartøy på fartøyeierens vegne, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning.
+
+Når et fartøy skal overtas ved arv etter reglene i [arveloven kapittel 2](lov/2019-06-14-21/kap2), [3](lov/2019-06-14-21/kap3) eller [4](lov/2019-06-14-21/kap4), skal den nye eieren gis tidsbegrenset ervervstillatelse i inntil fem år inntil aktivitetskravet i § 6 første ledd er oppfylt. Slik tidsbegrenset ervervstillatelse kan også gis ved overføring av fartøyet som ledd i generasjonsskifte til fordel for personer som kan få arverett etter [arveloven kapittel 2](lov/2019-06-14-21/kap2). Gjenlevende ektefelle eller samboer i uskiftet bo, jf. [arveloven kapittel 5](lov/2019-06-14-21/kap5) og 6, kan gis en tidsubegrenset ervervstillatelse så lenge uskifteboet består dersom fartøyet inngår i formuen som overtas uskiftet.
+
+Kongen kan ved forskrift gi nærmere bestemmelser om tildeling av ervervstillatelse ved erverv av fartøy i tilfeller som nevnt i annet ledd, ved tvangssalg og konkurs, og om fremgangsmåten ved tvangssalg av fiskefartøy der det er en ervervstillatelse knyttet til fartøy. Selskaper og sammenslutninger som er omfattet av [finansforetaksloven § 1-3](lov/2015-04-10-17/§1-3), og som har rett til å drive finansieringsvirksomhet i Norge, kan i medhold av slike forskrifter bli tildelt midlertidig ervervstillatelse ved tvangssalg og konkurs uten hensyn til § 5.
+
+> Endret ved [lover 17 des 2004 nr. 88](lov/2004-12-17-88), [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+### § 8. Krav til fartøy
+
+Ervervstillatelse skal ikke gis dersom fartøyet ikke er utrustet for eller egnet til å drive fiske eller fangst. Kongen kan ved forskrift gi regler om krav til fartøyet, herunder regler om at fartøyet ikke kan føres inn i registeret over norske fiskefartøy dersom det ikke oppfyller de krav som stilles av sjøfartsmyndighetene eller andre myndigheter.
+
+> Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88).
+
+### § 9. Overdragelse av aksjer, eierandeler m.v.
+
+Aksje eller part i selskap eller sammenslutning som direkte eller indirekte eier merkeregistrert fartøy, må ikke overdras til annen eier uten at departementet på forhånd har gitt tillatelse til endring i eiersammensetningen.
+
+Kongen kan ved forskrift gi regler om meldeplikt ved eierendringer. Når det er innført slik meldeplikt, gjelder ikke forbudet mot overdragelse før det er gitt tillatelse. Reglene om meldeplikt kan likevel inneholde forbud mot overdragelse før en viss frist etter at meldingen er sendt.
+
+> Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88).
+
+### § 10. Bortfall av ervervstillatelse
+
+En ervervstillatelse faller bort når eieren taper eiendomsretten til fartøyet, herunder ved tvangssalg, kondemnering og forlis.
+
+### § 11. Tilbakekall av ervervstillatelse
+
+En ervervstillatelse skal tilbakekalles når fartøyeieren:ikke lenger oppfyller kravene i [§ 5](lov/1999-03-26-15/§5),ikke har drevet ervervsmessig fiske eller fangst i minst tre av de siste fem år på eller med norsk fartøy og heller ikke er knyttet til fiske- og fangstyrket.
+
+En ervervstillatelse kan tilbakekalles når:fartøyet ikke har vært benyttet i ervervsmessig fiske eller fangst en nærmere bestemt tid fastsatt av departementet i forskrift eller i ervervstillatelsen,fartøyet eller fartøyeieren ikke lenger fyller vilkår som er fastsatt i eller i medhold av loven her,forutsetningene som tillatelsen bygger på er vesentlig endret,fartøyeieren mot bedre vitende har gitt uriktige opplysninger eller fortiet forhold av vesentlig betydning for vedtaket om å gi slik tillatelse,fartøyeieren eller andre som har drevet fartøyet, grovt eller gjentatte ganger har overtrådt bestemmelser gitt i eller i medhold av denne lov eller annen fiskerilovgivning, elleradgang til tilbakekall følger av alminnelige forvaltningsrettslige regler.
+
+I mindre alvorlige tilfeller kan departementet bestemme at en ervervstillatelse skal tilbakekalles for et bestemt tidsrom.
+
+Kongen kan gi utfyllende regler for tilbakekall av tillatelser.
+
+## Kapittel III. Spesiell tillatelse
+
+> Overskrift **endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 12. Krav om spesiell tillatelse til enkelte former for fiske og fangst
+
+Ingen må uten spesiell tillatelse nytte havfiskefartøy til ervervsmessig fiske og fangst. Det kan fastsettes vilkår for en slik tillatelse. Bestemmelsene i [§§ 7](lov/1999-03-26-15/§7) og [8](lov/1999-03-26-15/§8) gjelder tilsvarende for tildeling av spesiell tillatelse.
+
+Kongen kan ved forskrift gi nærmere regler om hva som er å regne som havfiskefartøy og fastsette krav om spesiell tillatelse for å nytte andre fartøy enn havfiskefartøy til ervervsmessig fiske og fangst.
+
+Kongen kan ved forskrift fastsette nærmere regler for tildeling av spesielle tillatelser.
+
+> Endret ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)). **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 13. Forholdet til ervervstillatelse
+
+Ervervstillatelse må foreligge for at spesiell tillatelse kan gis.
+
+> **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 14. Unntak fra kravet om spesiell tillatelse
+
+Kongen kan ved forskrift gjøre unntak fra kravet om spesiell tillatelse for fartøy under en viss størrelse, og for fiske og fangst etter bestemte arter, med bestemte redskaper eller i bestemte områder.
+
+> **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 15. Rekkevidden av en spesiell tillatelse
+
+En spesiell tillatelse i medhold av [§ 12](lov/1999-03-26-15/§12) gis til fartøyets eier for ett bestemt fartøy. Tillatelsen gir ikke rett til å benytte annet fartøy. Andre enn den fysiske eller juridiske person som innehar tillatelsen, kan ikke uten egen tillatelse drive fiske eller fangst med fartøyet.
+
+[§ 4](lov/1999-03-26-15/§4) tredje ledd og [§ 7](lov/1999-03-26-15/§7) tredje ledd gjelder tilsvarende for spesielle tillatelser.
+
+> **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 16. Tildeling av nye spesielle tillatelser til enkelte former for fiske og fangst
+
+Når departementet ved en vurdering ut fra lovens formål finner at det totale antallet spesielle tillatelser til en form for fiske eller fangst skal økes, og at departementet derfor skal foreta tildeling av nye tillatelser, skal departementet fatte særskilt beslutning om at slik tildeling skal skje. Nye tillatelser skal lyses ut offentlig.
+
+Når særlige grunner tilsier det, kan tildeling av ny tillatelse skje uten offentlig utlysning.
+
+Tildeling etter første ledd skal foretas etter en samlet vurdering av søkerne ut fra lovens formål, herunder regler gitt i medhold av [§ 12](lov/1999-03-26-15/§12) tredje ledd.
+
+> **Oppheves** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 17. Tildeling av spesiell tillatelse til erstatning for tilsvarende spesiell tillatelse
+
+Departementet kan i følgende tilfeller tildele spesiell tillatelse til fartøyeier for et bestemt fartøy til erstatning for tilsvarende spesiell tillatelse som oppgis:Fartøyeier skifter ut sitt gamle fartøy med et brukt fartøy eller nybygg.Fartøyeier kjøper eller overtar på annen måte fartøyet for fortsatt drift.Fartøyeier eller eier av et annet fartøy oppgir tilsvarende spesiell tillatelse.
+
+Departementet kan gi tilsagn til fartøyeier om tildeling av ny spesiell tillatelse etter første ledd bokstav a for et ubestemt erstatningsfartøy dersom fartøyet er forlist i løpet av de siste seks månedene, eller fartøyet planlegges solgt uten at eieren har anskaffet nytt fartøy.
+
+Kongen kan i forskrift gi nærmere bestemmelser om tildeling av spesiell tillatelse etter første ledd og tilsagn etter annet ledd, herunder om begrensninger i adgangen til å tildele tillatelse etter første ledd og gi tilsagn etter annet ledd, og om varighet av tilsagn etter annet ledd. Kongen kan i enkeltfiskerier åpne for tildeling av spesiell tillatelse i flere tilfeller enn det som følger av første ledd.
+
+> Opphevet ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), tilføyd ved [lov 19 juni 2015 nr. 78](lov/2015-06-19-78) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 692](forskrift/2015-06-19-692)). **Oppheves** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 18. Bortfall og tilbakekall av en spesiell tillatelse
+
+En spesiell tillatelse faller bort dersom ervervstillatelsen for fartøyet bortfaller eller tilbakekalles.
+
+Bestemmelsene i [§ 10](lov/1999-03-26-15/§10) om bortfall av ervervstillatelse og [§ 11](lov/1999-03-26-15/§11) om tilbakekall av ervervstillatelse gjelder tilsvarende for spesiell tillatelse.
+
+> **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 19. Tilbakekall og avgrensning av en hel gruppe spesielle tillatelser
+
+Kongen kan tilbakekalle alle spesielle tillatelser som er gitt for en bestemt type fiske eller fangst. Kongen kan også avgrense alle spesielle tillatelser for en bestemt type fiske eller fangst til et snevrere geografisk område eller til et mindre omfang av typer fiske eller fangst enn tillatelsene omfatter.
+
+> **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+## Kapittel IV. Særlige begrensninger i fiske og fangst m.v.
+
+### § 20. Tillatelse til å fiske i farvann utenfor Norges økonomiske sone
+
+Departementet kan fastsette begrensninger i deltakelsen eller andre reguleringstiltak for norske fartøyer som driver fiske i farvann under andre staters fiskerijurisdiksjon eller i farvann utenfor noen stats fiskerijurisdiksjon.
+
+### § 21. Årlige begrensninger i adgangen til å delta i enkelte fiskerier
+
+Når hensynet til ressursforvaltningen, avviklingen av fisket eller lønnsomheten i fisket gjør det nødvendig, kan Kongen ved forskrift med virkning for inntil ett år av gangen, fastsette bestemmelser om vilkår for adgangen til å delta i et bestemt fiske. Det kan herunder stilles krav om at fartøyeieren, fartøyets fører eller høvedsmannen er registrert i fiskermanntallet eller krav om tidligere deltakelse i det aktuelle fisket. Videre kan det stilles krav til faglige og tekniske forutsetninger, herunder fartøy og utstyr, og til eiers og mannskaps behov for å kunne drive fiske. Det kan også fastsettes et største antall fartøy som skal gis adgang til fisket.
+
+Bestemmelser fastsatt etter første ledd kan begrenses til bestemte fartøystørrelser, bestemte fiskemetoder, bestemte geografiske områder eller i bestemte tidsrom. For fangst av kongekrabbe kan det også skilles etter hvor fartøyet er registrert.
+
+I forskrift etter første ledd som stiller krav om tidligere deltakelse i det aktuelle fisket, kan det gis tilsvarende bestemmelser som i [§ 17](lov/1999-03-26-15/§17) første og annet ledd.
+
+Uten hinder av bestemmelser fastsatt i medhold av første ledd har personer som er bosatt i Finnmark, kommunene Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord og de områder med sjøsamisk innslag i resten av Troms og Nordland som Kongen fastsetter, rett til å fiske torsk, hyse og sei med konvensjonelle redskaper. Retten etter første punktum gjelder bare for den som står i fiskermanntallet og eier et merkeregistrert fartøy under 11 meter. Kongen kan ved forskrift fastsette at bestemmelsen i første punktum også gjelder andre fiskerier.
+
+> Endret ved [lover 18 apr 2008 nr. 10](lov/2008-04-18-10), [21 sep 2012 nr. 66](lov/2012-09-21-66) (ikr. 1 jan 2013 iflg. [res. 21 sep 2012 nr. 913](forskrift/2012-09-21-913)), [19 juni 2015 nr. 78](lov/2015-06-19-78) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 692](forskrift/2015-06-19-692)). **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+## Kapittel V. Registrering og merking av fartøy
+
+### § 22. Registrering av fartøy
+
+Fartøy som det er gitt ervervstillatelse for etter [§ 4](lov/1999-03-26-15/§4), skal føres inn i et register over norske fiskefartøy. Registrering kan ikke foretas før det foreligger ervervstillatelse.
+
+Departementet kan gi bestemmelser om hvilke register som skal føres over norske fiskefartøy, hvilke opplysninger som skal registreres om det enkelte fartøyet samt bestemmelser om hvilke opplysninger som skal gis i forbindelse med søknad om ervervstillatelse og spesiell tillatelse. Departementet kan også fastsette bestemmelser om administrasjonen av registrene.
+
+> Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88).
+
+### § 23. Registrering i skipsregisteret
+
+Fartøy som skal nyttes til ervervsmessig fiske eller fangst, kan ikke registreres i skipsregisteret, jf. [lov av 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten [§§ 11](lov/1994-06-24-39/§11) flg., før det foreligger ervervstillatelse etter loven her.
+
+### § 24. Merking av fartøy
+
+Fartøy som skal nyttes til ervervsmessig fiske eller fangst, skal merkes slik departementet bestemmer.
+
+### § 25. Gebyr
+
+Departementet kan bestemme at det skal betales et gebyr ved innføring i merkeregisteret og en årlig avgift så lenge fartøyet står i merkeregisteret. Gebyret og avgiften er tvangsgrunnlag for utlegg.
+
+> Endret ved [lov 18 apr 2008 nr. 10](lov/2008-04-18-10).
+
+### § 26. Sletting i merkeregisteret
+
+Fartøy skal slettes i merkeregisteret ved permanent eller midlertidig tilbakekall eller bortfall av ervervstillatelsen.
+
+## Kapittel VI. Sanksjoner m.v.
+
+### § 27. Administrativ inndragning av fangst
+
+Dersom et fartøy overskrider den fangstmengde pr. tur som er fastsatt i den enkelte tillatelse, tilfaller merfangsten eller dens verdi den salgsorganisasjon som førstehåndsomsetningen er lagt til. Dette gjelder uten hensyn til om forholdet medfører straffansvar.
+
+Departementet kan ved særskilt forskrift tillate at det ilandføres større fangstmengder pr. tur enn det tillatelsen gir adgang til.
+
+Salgsorganisasjonen skal inngi oppgaver over levert merfangst til Fiskeridirektoratet. Inndragning etter første ledd besluttes av Fiskeridirektoratet som foretar beregning av merfangsten og dens verdi.
+
+> Endret ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+### § 28. Overtredelsesgebyr
+
+Ved forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne loven, kan det ilegges overtredelsesgebyr. Ved overtredelse av bestemmelser gitt i medhold av denne loven, kan det bare ilegges overtredelsesgebyr når dette går fram av forskriften.
+
+Hvis noen som handler på vegne av et foretak har overtrådt en bestemmelse gitt i eller i medhold av denne loven, kan foretaket ilegges et overtredelsesgebyr. Det gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr.
+
+Overtredelsesgebyret kan ilegges etter faste satser eller utmåles i hvert enkelt tilfelle. Ved fastsettelsen av gebyret kan det blant annet tas hensyn til fortjenesten eller den potensielle fortjenesten som den ansvarlige har hatt ved overtredelsen, hvor alvorlig overtredelsen er og ekstra kostnader som kontrolltiltak og behandling av saken har medført.
+
+Kongen kan i forskrift gi nærmere regler om fastsettelse av overtredelsesgebyr og bestemmelser om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall.
+
+Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Overtredelsesgebyr kan også kreves inn gjennom salgslaget ved motregning i fangstoppgjør. Domstolene kan prøve størrelsen på gebyret.
+
+> Tilføyd ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88), endret ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+### § 29. Tvangsmulkt
+
+For å sikre at reglene gitt i eller i medhold av denne loven, eller plikt fastsatt i medhold av denne loven, blir oppfylt, kan det ilegges tvangsmulkt.
+
+Tvangsmulkten er en løpende mulkt som går fra en særskilt fastsatt frist for oppfyllelse av et pålegg, dersom denne fristen er utløpt uten at pålegget er oppfylt. Departementet kan i særlige tilfeller redusere eller frafalle påløpt mulkt.
+
+Kongen kan i forskrift gi nærmere regler om fastsettelse, gjennomføring og tidsrom tvangsmulkten skal gjelde for, og bestemmelser om rente og tilleggsgebyr dersom tvangsmulkten ikke blir betalt ved forfall.
+
+Tvangsmulkt kan kreves inn gjennom salgslaget ved motregning i fangstoppgjør.
+
+> Tilføyd ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88), endret ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)).
+
+### § 30. Gjennomføring
+
+Kongen kan gi nærmere forskrifter til gjennomføring av denne lov.
+
+> Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 28).
+
+### § 30 a. Tilgang til opplysninger i Folkeregisteret
+
+Fiskeridirektoratet skal, uten hinder av taushetsplikt, ha tilgang til opplysninger i Folkeregisteret som er nødvendige for utførelsen av oppgaver etter denne loven. Direktoratet skal også ha tilgang til opplysninger i Folkeregisteret til utredning og produksjon av statistikk.
+
+> Tilføyd ved lov [21 april 2023 nr. 6](lov/2023-04-21-6) (i kraft 21 april 2023 iflg. [res. 21 april 2023 nr. 527](forskrift/2023-04-21-527)).
+
+### § 31. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av [§§ 4](lov/1999-03-26-15/§4), [5 a](lov/1999-03-26-15/§5a), [7](lov/1999-03-26-15/§7) tredje ledd, 9, 12, 15, 20, 21 og 24 straffes med bøter eller fengsel i inntil ett år.
+
+Grov overtredelse av bestemmelsene nevnt i første ledd, som er gjort med grov uaktsomhet eller med forsett, kan straffes med fengsel i inntil seks år. Ved vurderingen av om overtredelsen er grov, skal det særlig legges vekt på om den økonomiske eller potensielle økonomiske verdien av overtredelsen er stor, om overtredelsen har skjedd systematisk og over tid, om overtredelsen er av grenseoverskridende art, og om overtredelsen har skjedd som ledd i organisert virksomhet.
+
+Når straffansvar etter første ledd kan gjøres gjeldende mot fartøyføreren for en handling noen av mannskapet på et fartøy står for, kan den underordnede bare straffes dersom han har overtrådt bestemmelsen med forsett. Ved avgjørelsen av om en underordnet skal straffes, skal det særlig tas hensyn til den preventive virkningen av straffen, hvor grov overtredelsen er, og om vedkommende har hatt eller kunne ha oppnådd fordel ved overtredelsen.
+
+Fartøyføreren kan vedta forelegg på vegne av oppdragsgiveren. Oppdragsgiveren kan også straffes i sak som reises mot fartøyføreren.
+
+> Endret ved [lover 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 29), [31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. fra den tid Kongen bestemmer).
+
+### § 31 a. Straffeprosessuell inndragning
+
+Ved overtredelse av bestemmelser nevnt i [§ 31](lov/1999-03-26-15/§31) første ledd, kan fangst inndras. Det samme gjelder redskap, gjenstander eller fartøy som er benyttet ved lovovertredelsen. Dette gjelder uten hensyn til hvem som er eier. I stedet for tingen kan verdien helt eller delvis inndras hos den skyldige eller den det er handlet på vegne av, eller hos eieren.
+
+Det kan fastsettes at panterett og andre rettigheter i ting som blir inndratt, helt eller delvis faller bort. Bestemmelsene i [straffeloven § 74](lov/2005-05-20-28/§74) gjelder tilsvarende.
+
+Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
+
+> Tilføyd ved [lov 31 mai 2013 nr. 24](lov/2013-05-31-24) (ikr. 1 jan 2014 iflg. [res. 31 mai 2013 nr. 540](forskrift/2013-05-31-540)), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## Kapittel VII. Ikrafttredelse og endring i andre lover
+
+### § 32. Ikrafttredelse m.v.
+
+1. Denne lov trer i kraft fra den tid1 Kongen bestemmer.
+2. Fra samme tid oppheves følgende lover:[Lov av 16. juni 1939 nr. 7](lov/1939-06-16-7) om fangst av hval.[Lov av 20. april 1951](lov/1951-04-20) om fiske med trål.[Lov av 14. desember 1951 nr. 1](lov/1951-12-14-1) om fangst av sel.[Lov av 16. juni 1972 nr. 57](lov/1972-06-16-57) om regulering av deltagelsen i fisket.
+3. Forskrifter og vedtak fastsatt i medhold av lover nevnt i nr. 2, gjelder inntil noe annet blir bestemt i medhold av loven her.
+4. Bestemmelser gitt i medhold av mellombels [lov av 29. juni 1956 nr. 8](lov/1956-06-29-8) om eigedomsretten til fiske- og fangstfarkoster, skal fortsatt gjelde inntil de oppheves eller avløses av bestemmelser gitt i medhold av denne lov.
+5. [Lov av 5. desember 1917 nr. 1](lov/1917-12-05-1) om registrering og merking av fiskefartøyer §§ 1 og 2 oppheves. [Lovens §§ 3](lov/1999-03-26-15/§3) flg. gjelder inntil de oppheves av Kongen.2
+6. Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+> Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 30).

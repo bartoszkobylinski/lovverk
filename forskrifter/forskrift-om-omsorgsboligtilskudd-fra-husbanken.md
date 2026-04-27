@@ -1,0 +1,71 @@
+---
+id: "sf-20051221-1667"
+slug: "forskrift-om-omsorgsboligtilskudd-fra-husbanken"
+type: "forskrift"
+ref_id: "forskrift/2005-12-21-1667"
+title: "Forskrift om tilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken"
+short_title: "Forskrift om omsorgsboligtilskudd fra Husbanken"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2005-12-21"
+last_change_in_force: "2021-09-17"
+last_updated: "2021-09-27"
+xml_hash: "aba8e80d9f241fc5e8aa7c56ef115d980862862739441a3bf82cb836e5277fbd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken
+
+## § 1. Formål
+
+Tilskuddene skal stimulere kommunene til å øke tilbudet av sykehjemsplasser og boliger tilrettelagt for heldøgns pleie og omsorg (omsorgsboliger). Tilskuddene skal sette kommunene i stand til å bygge, kjøpe eller utbedre sykehjem og omsorgsboliger ut fra lokale behov til de som på grunn av alder, funksjonshemming, funksjonsnedsettelse eller sykdom har behov for det.
+
+## § 2. Hvem som kan få tilskuddene
+
+Tilskuddene kan bare utbetales til kommunene.
+
+## § 3. Hva det kan gis tilskudd til
+
+Tilskudd kan gis i forbindelse med oppføring, kjøp og utbedring/ombygging av sykehjemsplasser og omsorgsboliger, tilSykehjemsplasser eller boform for heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd nr. 5.Omsorgsboliger med eller uten tilknyttede servicelokaler/fellesareal, og som er tilrettelagt slik at det er mulig å gi heldøgns pleie og omsorg etter [lov 19. november 1982 nr. 66](lov/1982-11-19-66) om helsetjenesten i kommunene [§ 1-3](lov/1982-11-19-66/§1-3) annet ledd og [lov 13. desember 1991 nr. 81](lov/1991-12-13-81) om sosiale tjenester [§ 4-2](lov/1991-12-13-81/§4-2).Sykehjemsplasser eller boform for heldøgns pleie og omsorg i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).Omsorgsboliger i utlandet med eller uten tilknyttede servicelokaler/fellesareal i utlandet som oppfyller krav i retningslinjene gitt i medhold av [§ 6](forskrift/2005-12-21-1667/§6).Kompensasjon for utgifter til renter og avdrag på lån til omsorgsboliger eller sykehjemsplasser. Tilskuddet omfatter renter og avdrag som påløper f.o.m. 1. januar 1998. Dette gjelder bare for prosjekter som har fått tilsagn om tilskudd til omsorgsboliger og sykehjem etter 1. januar 1997.
+
+For at omsorgsboliger og sykehjemsplasser som nevnt i første ledd punkt 1 skal få tilskudd, må kommunen dokumentere at det er opprettet heldøgns pleie- og omsorgstjeneste i kommunen.
+
+Departementet fastsetter hvor lenge kommunen må disponere boligen eller sykehjemsplassen.
+
+Forskriften gjelder ikke for boliger eller sykehjemsplasser som kommer inn under fylkeskommunens ansvarsområde.
+
+## § 4. Størrelsen på tilskuddene
+
+Departementet fastsetter størrelsen på tilskuddene.
+
+## § 5. Søknad og saksgang
+
+1. Tilskudd som nevnt i [§ 3](forskrift/2005-12-21-1667/§3) punkt 1 utbetales av Husbanken når kommunen kan dokumentere at omsorgsboliger og sykehjemsplasser er ferdigstilt innen utløpet av 2007. Der særskilte forhold gjør det nødvendig kan det søkes om utbetaling i 2007 til tross for manglende ferdigstillelse. Det kan gis inntil 6 måneders utsettelse av ferdigstillingen.Søknader om tilskudd til omsorgsboliger og sykehjemsplasser skal sendes statsforvalteren til uttalelse.
+2. Tilskudd som nevnt under [§ 3](forskrift/2005-12-21-1667/§3) punkt 2 utbetales etterskuddsvis og beregnes på grunnlag av finansieringskostnader etter Husbankens ordinære rente- og avdragsvilkår. Når prosjektet finansieres på annen måte enn i Husbanken utbetales tilskuddet etter en sjablon tilsvarende husbankvilkår.
+
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+
+## § 6. Nærmere retningslinjer
+
+Husbanken gir nærmere retningslinjer for gjennomføringen av tilskuddsordningen og om krav til standard og tilrettelegging.
+
+> Endret ved [forskrift 19 mars 2010 nr. 435](forskrift/2010-03-19-435).
+
+## § 7. Prioritering
+
+Departementet kan fastsette regler om prioritering av søknader.
+
+## § 8. Krav til tilbakebetaling
+
+Dersom det avdekkes at forutsetningene for tilskuddet ikke er overholdt kan staten redusere eller stanse utbetalingen av tilskuddet, eller kreve tilbakebetaling av tilskuddet fra den aktuelle kommunen.
+
+## § 9. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Samtidig oppheves [forskrift 28. januar 2003 nr. 107](forskrift/2003-01-28-107) om tilskudd til omsorgsboliger og sykehjemsplasser fra Den Norske Stats Husbank.

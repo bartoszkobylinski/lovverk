@@ -1,0 +1,50 @@
+---
+id: "sf-20180112-0042"
+slug: "forskrift-om-beskyttelse-av-geografisk-betegnelse-målselvnepe"
+type: "forskrift"
+ref_id: "forskrift/2018-01-12-42"
+title: "Forskrift om beskyttelse av Målselvnepe fra Nord-Norge som geografisk betegnelse"
+short_title: "Forskrift om beskyttelse av geografisk betegnelse, Målselvnepe"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2018-01-12"
+last_change_in_force: null
+last_updated: null
+xml_hash: "8b6c70e1a9a229ce8fd0495c3164341e3d666c326f3613cb9282a08df643e46e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om beskyttelse av Målselvnepe fra Nord-Norge som geografisk betegnelse
+
+## § 1. Beskyttet produktbetegnelse
+
+Målselvnepe fra Nord-Norge.
+
+## § 2. Rettmessig bruker
+
+Produsentorganisasjonen Ottar.
+
+## § 3. Vilkår for bruk av produktbetegnelsen
+
+1. *Produktbeskrivelse*Målselvnepe fra Nord-Norge er nepe av sorten Målselvnepe (*Brassicarapa L. var. Rapa*) stamme Gibostad dyrket nord for polarsirkelen.Målselvnepe fra Nord-Norge skal ha en søtlig og mild nepesmak, saftig og sprø konsistens, gul farge i skallet og kjøttet og en flat- og sirkelrund form. Hele neper skal ha en størrelse på mellom 8 og 13 cm i diameter. Spesialsorteringer kan forekomme.
+2. *Geografisk område*Målselvnepe fra Nord-Norge skal produseres i Nord-Norge nord for polarsirkelen avgrenset mot sør av kommunene Saltdal, Beiarn og Meløy.
+3. *Produksjonsmetode**Dyrking og såing*Målselvnepe fra Nord-Norge skal dyrkes på godt drenert sandholdig jord (jordklassene 2 – 6, ikke grovsand) eller moldholdig mineraljord. Det skal foretas vekstskifte hvert år med planter av en annen plantefamilie enn korsblomstfamilien. Ved dyrking i områder med klumprot kan Målselvnepe fra Nord-Norge bare dyrkes hvert 7. år og i jord med pH≥6.Frø til dyrking av Målselvnepe fra Nord-Norge skal være kjøpt inn via registrert såvareforretning eller sortseier/-vedlikeholder. Egenproduserte frø kan brukes forutsatt at opphavet er frø kjøpt fra registrert såvareforretning eller foredlervare. Ved egen frøformering kan det ikke dyrkes andre blomstrende *Brassica*-arter nærmere enn 600 meter fra frønepene. Bare neper dyrket i det definerte geografiske området for dyrking av Målselvnepe fra Nord-Norge kan brukes til produksjon av basisfrø.Såing skal foregå når jorda er lagelig. Etter såing skal åkeren dekkes med duk eller nett, eller gjerdes inn med vertikale insektnett for beskyttelse mot skadeinsekter. Ved de tidligste såingene skal bruk av plast for klimaforbedring vurderes. Plantene skal sikres jevn tilgang på vann og næringsstoffer gjennom vekstsesongen. Gjødsling skal tilpasses på bakgrunn av jordanalyser.*Høsting, kvalitetskontroll og lagring*Nepene skal holdes fuktig fra høsting og frem til siste vaskeprosess. Lagringsnepe er unntatt.Neper som selges som Målselvnepe fra Nord-Norge skal være sortstypiske, være hele og fri for insekts-, sopp- og vekstskader. Neper med rød eller sterk grønn skolt skal sorteres ut. Det skal foretas kvalitetskontroll ved skjæreprøve av 3 kg pr. parti, enten direkte i åker eller ved ankomst på pakkeri. Et parti defineres her som det volumet høstet pr. skifte/åker pr. høstetidspunkt.Langtidslagring av Målselvnepe fra Nord-Norge skal skje ved minst 90 % relativ luftfuktighet og en temperatur på mellom 0 og 2 °C.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+## Vedlegg: Beskrivelse av produktets opprinnelse og tilknytning til det geografiske området
+
+Målselvnepe er en gammel landsort registrert i Offisiell norsk sortsliste (A091). Nepas historie strekker seg tilbake til pomorhandelen på 1700- og 1800-tallet mellom norske og russiske handelsmenn. Navnet Målselvnepe forekommer første gang i skriftlige kilder i 1921.
+
+Nepefrø av russisk opphav antas å ha blitt innført til Norge på begynnelsen av 1800-tallet av firmaet A. Ebeltoft senior i Tromsø. Det er kjent at det ble drevet frøavl av nepe fra før 1850. En av avlerne var Ole Enok Olsen, opprinnelig fra gården Tårnstad i Lenvik. Han bosatte seg senere som husmann i Målselv, og la grunnlaget for dagens Målselvnepe gjennom utvelgelse av gule sirkelrunde eksemplarer av «russenepa», som i hovedsak var stor, flat og gjerne med rød skolt. Nepa ble først kalt «russenepa», senere «Ol-Enok-nepa» og etter hvert Målselvnepe. På begynnelsen av 1900-tallet var det flere aktive frøavlere i Målselv. Fra 1920-tallet og fram til i dag har det vært drevet avl og frøproduksjon av Målselvnepe på Troms Amts Landbruksskole, dagens Senja videregående skole avdeling Gibostad. Skolen er den dag i dag ansvarlig for vedlikehold av sorten.
+
+Nord-Norge har unike naturgitte betingelser for plantevekst med en kombinasjonen av relativt lav gjennomsnittlig veksttemperatur, kort vekstsesong og lyse sommernetter på grunn av midnattsol. Målselvnepe er godt tilpasset disse vekstforholdene, og har en særpreget søtlig og mild nepesmak grunnet liten produksjon av bitterstoffer.
+
+Dyrking av Målselvnepe er en spesialproduksjon som krever gode kunnskaper for å få neper av høy kvalitet. Målselvnepe fra Nord-Norge anses som en delikatesse og er etterspurt i markedet.

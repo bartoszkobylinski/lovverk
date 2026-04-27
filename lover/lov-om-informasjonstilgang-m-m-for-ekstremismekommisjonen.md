@@ -1,0 +1,70 @@
+---
+id: "nl-20221220-097"
+slug: "lov-om-informasjonstilgang-m-m-for-ekstremismekommisjonen"
+type: "lov"
+ref_id: "lov/2022-12-20-97"
+title: "Lov om informasjonstilgang m.m. for Ekstremismekommisjonen"
+short_title: "Lov om informasjonstilgang m.m. for Ekstremismekommisjonen"
+language: "nb"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2022-12-20"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "981ce898793d7dd78149b69c0687fb1b3d00c5dcede490c7e465b88b2fe50811"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
+
+## § 1. Formålet med loven
+
+Formålet med loven er å gi Ekstremismekommisjonen, oppnevnt av Kongen i statsråd 10. juni 2022, tilgang til opplysninger som er nødvendige for å få utført kommisjonens arbeid i henhold til mandatet, og å gi kommisjonen adgang til å behandle disse opplysningene.
+
+## § 2. Lovens anvendelse på Svalbard og Jan Mayen
+
+Loven gjelder på Svalbard og Jan Mayen.
+
+## § 3. (Opphevet)
+
+> Opphevet ved lov [20 des 2022 nr. 97](lov/2022-12-20-97) (i kraft 1 mars 2024, se [§ 9](lov/2022-12-20-97/§9) annet ledd).
+
+## § 4. Taushetsplikt
+
+Medlemmene i Ekstremismekommisjonen og enhver som utfører tjeneste eller arbeid for kommisjonen, har taushetsplikt etter [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 g](lov/1967-02-10/§13g). [Forvaltningsloven § 13 b](lov/1967-02-10/§13b) første ledd nr. 6 gjelder ikke.
+
+Når personer som nevnt i første ledd mottar opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av [forvaltningsloven](lov/1967-02-10), skal de strengere reglene gjelde. Det samme gjelder etter at materialet er avlevert til en bevaringsinstitusjon, for de som er ansatt i eller som utfører arbeid eller tjeneste for bevaringsinstitusjonen.
+
+> Endret ved lov [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+## § 5. Behandling av personopplysninger mv.
+
+Kommisjonen er behandlingsansvarlig fram til kommisjonen har avsluttet sitt arbeid. Bevaringsinstitusjonen er behandlingsansvarlig for materiale som avleveres dit.
+
+> Endret ved lover [20 des 2022 nr. 97](lov/2022-12-20-97) (i kraft 1 mars 2024, se [§ 9](lov/2022-12-20-97/§9) annet ledd), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+## § 6. Forbud mot bruk av opplysninger som bevis i senere straffesak, sivil sak eller tilsynssak
+
+Opplysninger som Ekstremismekommisjonen mottar i medhold av [§ 3](lov/2022-12-20-97/§3), kan ikke brukes som bevis i en senere straffesak eller sivil sak eller som dokumentasjon i tilsynssaker som kan gi grunnlag for reaksjoner mot enkeltpersoner.
+
+## § 7. Klageinstans etter offentleglova
+
+Ved klager på Ekstremismekommisjonens avgjørelser etter [offentleglova](lov/2006-05-19-16) er departementet klageinstans. Det samme gjelder for klager på avgjørelser etter [offentleglova](lov/2006-05-19-16) som gjelder kommisjonens arkiv etter at arkivet er avlevert til en bevaringsinstitusjon.
+
+> Endret ved lov [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+## § 8. Avlevering og kassasjon av dokumenter
+
+Når Ekstremismekommisjonen har avsluttet sitt arbeid, skal det gjennomføres arkivavgrensning av kommisjonens dokumentmateriale. Materiale som omfattes av arkivplikten, og som skal bevares etter reglene i [arkivlova](lov/2025-06-20-96) med forskrifter, skal avleveres til en bevaringsinstitusjon. Materiale som ikke skal arkiveres eller bevares, skal kasseres.
+
+> Endret ved lov [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+## § 9. Ikrafttredelse og opphør
+
+Loven trer i kraft straks.
+
+[§ 3](lov/2022-12-20-97/§3) og [§ 5](lov/2022-12-20-97/§5) første og andre ledd oppheves når Ekstremismekommisjonen har avsluttet sitt arbeid, og [§ 5](lov/2022-12-20-97/§5) tredje ledd blir da første ledd.1

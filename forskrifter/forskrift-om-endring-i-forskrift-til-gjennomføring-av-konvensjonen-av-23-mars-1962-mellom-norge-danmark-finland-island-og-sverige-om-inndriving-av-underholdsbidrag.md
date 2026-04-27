@@ -1,0 +1,30 @@
+---
+id: "sf-20250911-1815"
+slug: "forskrift-om-endring-i-forskrift-til-gjennomføring-av-konvensjonen-av-23-mars-1962-mellom-norge-danmark-finland-island-og-sverige-om-inndriving-av-underholdsbidrag"
+type: "forskrift"
+ref_id: "forskrift/2025-09-11-1815"
+title: "Forskrift om endring i forskrift til gjennomføring av konvensjonen av 23. mars 1962 mellom Norge, Danmark, Finland, Island og Sverige om inndriving av underholdsbidrag"
+short_title: null
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "cfa6fae7b65049b1cb6292d712ff88c8e0b59e3fd1c23473a3f506df9be7878e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift til gjennomføring av konvensjonen av 23. mars 1962 mellom Norge, Danmark, Finland, Island og Sverige om inndriving av underholdsbidrag
+
+## I
+
+Beløp som kommer inn til Arbeids- og velferdsdirektoratet eller det organ direktoratet bestemmer eller Innkrevingsmyndigheten, sendes til den kompetente myndighet i det landet som har begjært fullbyrdingen eller til annen mottaker etter anvisning av sist nevnte myndighet.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

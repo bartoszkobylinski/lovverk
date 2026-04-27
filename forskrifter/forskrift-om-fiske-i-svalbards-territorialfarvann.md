@@ -1,0 +1,221 @@
+---
+id: "sf-20100830-1230"
+slug: "forskrift-om-fiske-i-svalbards-territorialfarvann"
+type: "forskrift"
+ref_id: "forskrift/2010-08-30-1230"
+title: "Forskrift om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i Svalbards territorialfarvann"
+short_title: "Forskrift om fiske i Svalbards territorialfarvann"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2010-10-01"
+last_change_in_force: "2021-01-18"
+last_updated: "2020-02-14"
+xml_hash: "ef8747608dddcdb228639a76fbcf4bf41900b4e06ca1cb353a1a80f8d2e7aed8"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i Svalbards territorialfarvann
+
+## Kapittel I. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+Denne forskrift gjelder i Svalbards territorialfarvann for norske og utenlandske fartøy av ethvert slag som skal drive fiske og fangst i ervervsøyemed, herunder omlastning. Forskriften gjelder også for fartøy som bistår fiskeflåten, herunder transportfartøy og lete- og forsøksfartøy. Ved omlasting kommer forskriften til anvendelse uavhengig av hvilket område fisken er fanget i.
+
+Forskriften gjelder ikke for fartøy som er omfattet av [forskrift 31. august 2010 nr. 1231](forskrift/2010-08-31-1231) om elektronisk rapportering for utenlandske fiske- og fangstfartøy i Norges økonomiske sone, territorialfarvann, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard.
+
+> Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020).
+
+## Kapittel II. Rapportering
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere kapittel III).
+
+### § 2. Krav til rapportering
+
+Fartøy omfattet av denne forskrift skal sende meldingene angitt i [§ 3](forskrift/2010-08-30-1230/§3) til [§ 8](forskrift/2010-08-30-1230/§8) per telefaks til Fiskeridirektoratet. Meldingene skal være autentisert på en måte som er godkjent av Fiskeridirektoratet.
+
+Ansvarshavende om bord på fartøy omfattet av denne forskrift skal forvisse seg om at rapporteringssystemet fungerer tilfredsstillende før fisket i Svalbards territorialfarvann påbegynnes, herunder at Fiskeridirektoratet kan motta telefaks og at fartøyet får returmeldingen som angir meldingsstatus fra Fiskeridirektoratet i henhold til [§ 10](forskrift/2010-08-30-1230/§10) i denne forskriften.
+
+> Endret ved [forskrifter 17 jan 2012 nr. 68](forskrift/2012-01-17-68), [19 jan 2012 nr. 81](forskrift/2012-01-19-81), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 4).
+
+### § 3. Melding om fiskestart
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som skal drive fiske eller fangst i territorialfarvannet, skal tidligst 24 timer og senest 12 timer før fisket i dette området påbegynnes, sende melding om fiskestart.
+
+Fartøy som kommer fra Norges økonomiske sone eller fra fiskevernsonen ved Svalbard, etter å ha drevet fiske der, kan uten hensyn til tidsfristen i første ledd starte fiske etter at melding om fiskestart er sendt. Fartøy som bistår fiskeflåten skal sende melding om fiskestart hver gang det går inn i territorialfarvannet.
+
+Fartøyet kan ikke påbegynne fiske i territorialfarvannet før melding om fiskestart (COE) er bekreftet mottatt av Fiskeridirektoratet i henhold til [§ 10](forskrift/2010-08-30-1230/§10) i denne forskriften.
+
+Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOE, melding om fiskestartMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)KanselleringREVAngivelse av at meldingen er en kanselleringKvantum om bordOBPFangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt.Posisjon breddeXTVPosisjon bredde ved sending av rapport N/SGGDD (WGS-84)Posisjon lengdeXGVPosisjon lengde ved sending av rapport E/WGGGDD (WGS-84)FangstområdeRAVICES område der fisket skal starteDatoPDPDato for fiskestart i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for fiskestart i UTC (TTMM)Posisjon breddeLAPAntatt posisjon bredde for fiskestart N/SGGDD (WGS-84)Posisjon lengdeLOPAntatt posisjon lengde for fiskestart E/WGGGDD (WGS-84)MålartDSPPlanlagt målart (FAO fiskeslagskode), angi kun én
+
+> Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 5).
+
+### § 4. Melding om fangst ved rapportering per telefaks
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som rapporterer per telefaks skal sende melding om fangst ([CAT)](traktat/1984-12-10-1) ved overgang til fiske i annet ICES-statistikkområde, og ellers ukentlig, ved utløpet av hver sjuende dag etter at melding om fiskestart (COE) er sendt.
+
+Melding om fangst skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Innhold*MeldingstypeTMPCAT, FangstmeldingMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringPosisjon lengdeLAPDPosisjon lengde på meldingstidspunktet
+PD: påkrevd dersom fartøyet ikke sender posisjonsrapporterPosisjon breddeLOPDPosisjon bredde på meldingstidspunktet
+PD: påkrevd dersom fartøyet ikke sender posisjonsrapporterFangstCAPFangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.FangstområdeRAPICES-område der fangsten er tattSoneZOPSone der fangsten er tatt (ISO-3)
+
+> Endret ved [forskrifter 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 7), [3 juni 2020 nr. 1126](forskrift/2020-06-03-1126).
+
+### § 5. Omlastingsmelding
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som skal avgi fangst, skal senest 24 timer før omlastingen påbegynnes, sende melding om omlasting.
+
+Fartøy som har mottatt fangst, skal umiddelbart og senest en time etter at den enkelte omlasting er avsluttet sende, melding om omlasting.
+
+Det er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Norge, Russland, Færøyene, Grønland, Island og Storbritannia, samt fartøy fra NEAFC-samarbeidsland.
+
+Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPTRA, melding om omlastingMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringPosisjon breddeLTPAntatt posisjon bredde for omlasting N/SGGDD (WGS-84)Posisjon lengdeLGPAntatt posisjon lengde for omlasting E/WGGGDD (WGS-84)Kvantum om bordOBPDFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
+PD: påkrevd dersom fartøyet avgir fangstKvantum som skal overføresKGPKvantum som skal overføres fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittOverført fraTFPDRadiokallesignal på fartøyet det overføres fra
+PD: påkrevd dersom fartøyet mottar fangstOverført tilTTPDRadiokallesignal på fartøyet det overføres til.
+PD: påkrevd dersom fartøyet avgir fangstDatoPDPDAntatt dato for omlasting i UTC (ÅÅÅÅMMDD). PD: påkrevd dersom fartøyet avgir fangstTidPTPDAntatt tidspunkt for omlasting i UTC (TTMM). PD: påkrevd dersom fartøyet avgir fangst
+
+> Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 8), [18 jan 2021 nr. 148](forskrift/2021-01-18-148).
+
+### § 6. Melding om havneanløp
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal uavhengig av om det skal landes fangst, sende melding om havneanløp senest 4 timer før anløp til havn.
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som har mottatt fangst fra et annet fartøy, skal senest 24 timer før landing finner sted sende melding om havneanløp.
+
+Melding om havneanløp skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPPOR, melding om havneanløpMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og en endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringAnløpshavnPOPInternasjonal kode for havnen som anløpes, ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)LandingsanleggLSPDNavnet på landingsanlegget (Tekst maks 60 karakterer)
+PD: påkrevd dersom fangst skal landesDatoPDPDato for havneanløp i UTC (ÅÅÅÅMMDD)TidPTPTidspunkt for havneanløp i UTC (TTMM)Kvantum som skal landesKGPDKvantum som skal landes fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
+PD: påkrevd dersom fangst skal landesKvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 9).
+
+### § 7. Melding om havneavgang
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal sende melding om havneavgang senest 2 timer etter havneavgang, men før fisket starter.
+
+Melding om havneavgang skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPDEP, melding om havneavgangMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)AvgangshavnPOPInternasjonal kode for havnen som forlates ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)Dato avgang havnZDPDato for avgang havn (ÅÅÅÅMMDD)Tid avgang havnZTPTidspunkt for avgang havn i UTC (TTMM)Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittFiskeriaktivitetACPFIS = i fiske, STE = stimer (NEAFC koder)KanselleringREVAngivelse om at meldingen er en kansellering
+
+> Endret ved [forskrift 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 10).
+
+### § 8. Melding om avslutning av fiske
+
+Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal sende melding om avslutning av fiske når fisket i territorialfarvannet avsluttes og senest ved utgang av dette området. Fartøy som bistår fiskeflåten, skal sende melding om avslutning av fiske hver gang det går ut av territorialfarvannet.
+
+Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOX, melding om avslutning av fiskeMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)KanselleringREVAngivelse om at meldingen er en kanselleringAnløpshavnPOVInternasjonal kode for havnen som skal anløpes. ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)FangstCAPDFangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.
+PD: påkrevd dersom det rapporteres manueltSoneZOPDSone der fangsten er tatt (ISO alfa-3). Se vedlegg 2.
+PD: påkrevd dersom det rapporteres manueltKvantum om bordOBVFangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt.
+
+> Endret ved [forskrifter 17 jan 2012 nr. 68](forskrift/2012-01-17-68), [28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 11).
+
+### § 9. Fangstdagbok
+
+Fiskefartøy skal føre fangstdagbok. Fangstdagboken skal være innbundet og ha nummererte sider.
+
+Fangstdagboken skal føres fortløpende og skal inneholde opplysninger om redskapstype og materiale i redskapet. Videre skal fangstdagboken inneholde opplysninger om dato og klokkeslett ved begynnelsen av hvert enkelt hal/drag/kast og posisjon angitt i lengde og bredde (grader og minutter) ved begynnelsen og ved slutten av hvert enkelt hal/drag/kast og varigheten av dette. Fangstdagboken skal også inneholde fangst for de enkelte hal/drag/kast, den totale fangst pr. dag og fra fiskestart, levering av fangst til andre fartøy og mottatt fangst til foredling eller transport, alt angitt i kg rund vekt og spesifisert på fiskearter.
+
+Fangst i det enkelte hal/drag/kast skal være innført senest før neste hal/drag/kast tas om bord.
+
+Det er adgang til å korrigere fangstanslagene etter døgnets siste hal/kast. Slik korrigering må foretas før innføring av første hal/kast neste døgn og før eventuell sending av melding om avslutning av fiske.
+
+I fangstdagboken skal på de aktuelle datoer noteres opplysninger om klokkeslett og eventuell radiostasjon for de meldinger som er sendt Fiskeridirektoratet i medhold av [§ 3](forskrift/2010-08-30-1230/§3)–§ 8.
+
+Fiskefartøy skal ha om bord fangstdagbok/bøker som dekker de siste 12 måneder, dersom fartøyet i løpet av denne perioden har vært i fiske i område under norsk fiskerijurisdiksjon.
+
+Fangstdagboken skal på forlangende fremvises for norske myndigheter og kan kreves innsendt til Fiskeridirektoratet.
+
+> Endret ved [forskrifter 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 12), [18 mai 2020 nr. 1044](forskrift/2020-05-18-1044) (i kraft 1 juni 2020).
+
+## Kapittel III. Returmelding
+
+> Kapitteloverskriften endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere kapittel IV).
+
+### § 10. Returmelding
+
+Meldinger sendt per telefaks til Fiskeridirektoratet i henhold til denne forskrift vil automatisk bli bekreftet med en mottakskvittering. Dersom mottakskvitteringen ikke mottas, eller denne inneholder opplysninger om at meldingen ikke kunne mottas, må fartøyet sende meldingen på nytt til Fiskeridirektoratet. Meldingen anses ikke som mottatt av Fiskeridirektoratet før fartøyet har mottatt bekreftende mottakskvittering.
+
+> Endret ved forskrifer [17 jan 2012 nr. 68](forskrift/2012-01-17-68), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 13).
+
+## Kapittel IV. Korreksjon, kansellering og tekniske feil
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere kapittel V).
+
+### § 11. Adgang til å korrigere og kansellere meldinger
+
+Melding om havneanløp (POR), melding om omlasting (TRA) og melding om fangst ([CAT)](traktat/1984-12-10-1) kan korrigeres. Melding om fangst ([CAT)](traktat/1984-12-10-1) kan korrigeres frem til klokken 12.00 UTC dagen etter at slik melding er sendt eller inntil melding om havneanløp (POR) eller melding om avslutning av fiske (COX) er sendt.
+
+Dataelementet kvantum om bord (OB) i melding om fiskestart (COE) kan korrigeres frem til fartøyet går inn i Svalbards territorialfarvann.
+
+Melding om fiskestart (COE), melding om fangst ([CAT),](traktat/1984-12-10-1) melding om havneanløp (POR), melding om havneavgang (DEP), melding om omlasting (TRA) og melding om avslutning av fiske (COX) kan kanselleres ved å sende ny melding med kanselleringskode. Dette innebærer at den tidligere innsendte meldingen nulles ut. Meldingen som inneholder kanselleringskoden må være lik meldingen som skal kanselleres og derav også ha samme RN som den meldingen som skal kanselleres. Ny melding må sendes i henhold til gjeldende regelverk og innenfor gjeldende tidsfrister med nytt RN.
+
+> Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 14).
+
+### § 12. Krav til utbedring av feil
+
+Dersom det har oppstått feil ved fartøyets rapporteringsutstyr slik at kravene i denne forskrift ikke kan oppfylles kan ikke fartøyet starte fisket på nytt uten rapporteringsutstyr som tilfredsstiller kravene i denne forskrift, eller fartøyet har fått dispensasjon fra Fiskeridirektoratet til å starte fisket.
+
+Dersom det oppstår feil ved fartøyets rapporteringsutstyr mens fartøyet er på fiskefeltet må utstyret repareres eller erstattes så snart fartøyet kommer til havn.
+
+> Endret ved [forskrifter 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 16), [18 mai 2020 nr. 1044](forskrift/2020-05-18-1044) (i kraft 1 juni 2020).
+
+## Kapittel V. Kontroll, inspeksjon, mv.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere kapittel VI).
+
+### § 13. Kontroll, inspeksjon mv.
+
+Fartøy som fisker i territorialfarvannet skal føre sitt nasjonale flagg og skal være merket på en slik måte at de lett kan identifiseres i henhold til alminnelige internasjonale standarder slik som FAOs retningslinjer for merking av fiskefartøy (FAO Standard Specification for Marking and Identification of Fishing Vessels).
+
+Ansvarshavende plikter å sørge for at fartøyet er utstyrt med losleider som fyller vilkårene i henhold til ISO/FDIS 799 og som er egnet for å ta om bord inspektør. Fiskeridirektoratet kan gi nærmere forskrifter om leiderens utforming.
+
+Fiskeridirektoratet kan gi forskrifter om at fartøy skal ha om bord tegning/beskrivelse med mål over oppbevaringsrom/binger/RSW-tanker for fisk og fiskeprodukter, samt stuingsplan over den fisk og de fiskeprodukter som er om bord.
+
+> Endret ved [forskrift 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 17).
+
+### § 14. Krav til stuing
+
+Fiskeridirektoratet kan ved forskrift gi bestemmelser om hvorledes de enkelte fiskearter og forskjellige produkter av samme fiskeart skal stues om bord i fartøyet.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 18).
+
+### § 15. Lasteromstegninger
+
+Fartøy over 24 meter største lengde skal ha om bord oppdaterte tegninger eller beskrivelse av lasterom og andre oppbevaringsrom for fisk og fiskeprodukter. Dersom fartøyet deltar i fiske i det nordvestlige Atlanterhav (NAFO-området) eller i EU-farvann, gjelder dette kravet for fartøy over 17 meter største lengde.
+
+Tegningene eller beskrivelsene som nevnt i første ledd må angi de enkelte roms brutto lagringskapasitet i kubikkmeter. Dersom rommet er ytterligere oppdelt skal dette angis på samme måte.
+
+For norske fartøy skal dokumenter som nevnt i første ledd være kontrollert av Sjøfartsdirektoratet eller annen instans godkjent for slik kontroll.
+
+For utenlandske fartøy skal dokumenter som nevnt i første ledd være godkjent av kompetent myndighet i den stat hvor fartøyet er registrert.
+
+Tegninger eller beskrivelser som nevnt i første ledd pliktes på forespørsel fremlagt for kontrollmyndigheter.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 19).
+
+## Kapittel VI. Reguleringsfullmakt, straff og ikrafttredelse
+
+### § 16. Bemyndigelse
+
+Fiskeridirektoratet kan endre denne forskrift og fastsette nærmere rapporteringsbestemmelser. Fiskeridirektoratet kan videre gi nærmere regler om gjennomføring av rapporteringspliktene, herunder regler om kontroll med bestemmelsene i denne forskriften og regler om krav til utstyr.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 20).
+
+### § 17. Straff og inndragning
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser i denne forskriften straffes eller er gjenstand for inndragning etter [lov 6. juni 2008 nr. 37](lov/2008-06-06-37) om forvaltning av viltlevande marine ressursar ([havressurslova) § 62](lov/2008-06-06-37/§62) og [§ 64](lov/2008-06-06-37/§64), og lov [17](lov/2008-06-06-37/§17). Juli 1925 nr. 11 om Svalbard [§ 4](lov/2008-06-06-37/§4) annet og tredje ledd. På samme måte straffes medvirkning og forsøk.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 21).
+
+### § 18. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. oktober 2010. Samtidig oppheves [forskrift 17. mars 2005 nr. 237](forskrift/2005-03-17-237) om rapportering og kontroll mv. ved fiske og fangst mv. i Svalbards territorialfarvann og indre farvann og [forskrift 26. mars 2003 nr. 406](forskrift/2003-03-26-406) om satellittbasert overvåkning av fiske- og fangstfartøyers aktivitet i Svalbards territorialfarvann og indre farvann.
+
+> Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 22).
+
+## Vedlegg. Forklaring til angivelse av soner (ZO)
+
+Følgende områder/soner med tilhørende koder benyttes for dataelementet ZO:*Sone**Kode*Norges økonomiske soneNORFiskevernsonen ved SvalbardXSVFiskerisonen ved Jan MayenXJMSkagerrakXSKEU-sonenXEURussisk soneRUSGrønlandsk soneGRLFærøysk soneFROIslandsk soneISLBritisk soneGBRNEAFC-områdetXNENAFO-områdetXNWCCAMLR-områdetXCASvalbards territorialfarvannXSI
+
+> Tilføyd ved [forskrift 17 jan 2012 nr. 68](forskrift/2012-01-17-68), endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere Vedlegg 2), [18 jan 2021 nr. 148](forskrift/2021-01-18-148).

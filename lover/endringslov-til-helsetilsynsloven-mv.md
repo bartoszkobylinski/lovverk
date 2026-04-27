@@ -1,0 +1,88 @@
+---
+id: "nl-20250620-074"
+slug: "endringslov-til-helsetilsynsloven-mv"
+type: "lov"
+ref_id: "lov/2025-06-20-74"
+title: "Lov om endringer i helsetilsynsloven mv. (ny meldeordning for alvorlige hendelser i helse- og omsorgstjenesten)"
+short_title: "Endringslov til helsetilsynsloven mv."
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2025-06-20"
+last_change_in_force: null
+last_updated: null
+xml_hash: "70f08945ece81cfee4d9a093f2e0f97e4ea3ccc234910226cccf8dd900bc076c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i helsetilsynsloven mv. (ny meldeordning for alvorlige hendelser i helse- og omsorgstjenesten)
+
+1. [Lov 3. juni 1983 nr. 54 om tannhelsetjenesten (tannhelsetjenesteloven)](lov/1983-06-03-54).
+2. [Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)](lov/1999-07-02-61).
+3. [Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)](lov/1999-07-02-63).
+4. [Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)](lov/2011-06-24-30).
+5. [Lov 16. juni 2017 nr. 56 om Statens undersøkelseskommisjon for helse- og omsorgstjenesten](lov/2017-06-16-56).
+6. [Lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)](lov/2017-12-15-107).
+
+## I
+
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
+
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+## II
+
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
+
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+## III
+
+Dersom skade eller komplikasjon som nevnt i femte ledd er svært alvorlig, skal pasienten eller brukeren gis tilbud om møte med helse- og omsorgstjenesten så snart som mulig etter hendelsen, og senest ti dager etter hendelsen. Slike møter skal ha til formål å gi pasienten eller brukeren informasjon etter fjerde og femte ledd, utveksle informasjon knyttet til hendelsen og avklare hvilket behov pasienten eller brukeren har for videre oppfølging. Ved dødsfall som følge av alvorlig hendelse, skal nærmeste pårørende tilbys tilsvarende møte.
+
+Hvis statsforvalteren mener at det bør gis pålegg til virksomhet etter [helsetilsynsloven §§ 8](lov/2017-12-15-107/§8) eller [9](lov/2017-12-15-107/§9) og [spesialisthelsetjenesteloven § 7-1](lov/1999-07-02-61/§7-1), eller at helsepersonell bør ilegges en reaksjon som nevnt i [helsepersonelloven kapittel 11](lov/1999-07-02-64/kap11), skal saken oversendes Statens helsetilsyn. Dette gjelder likevel ikke når statsforvalteren selv vil gi pålegg om retting etter [helsetilsynsloven § 8](lov/2017-12-15-107/§8) eller faglig pålegg etter [helsepersonelloven § 56](lov/1999-07-02-64/§56). Første og andre ledd gjelder tilsvarende for behandlingen av saken hos Statens helsetilsyn.
+
+Statsforvalteren skal gi den som har fremsatt en anmodning om tilsyn, innsyn i relevante saksdokumenter og anledning til å uttale seg til disse så langt taushetsplikt ikke er til hinder for dette. Det samme gjelder pasient, bruker eller nærmeste pårørende i saker hvor statsforvalteren behandler meldinger om alvorlige hendelser etter [§ 7-6](lov/1999-07-02-63/§7-6) i loven her, [helsetilsynsloven § 6](lov/2017-12-15-107/§6), [spesialisthelsetjenesteloven § 3-3 a](lov/1999-07-02-61/§3-3a), [helse- og omsorgstjenesteloven § 12-3 a](lov/2011-06-24-30/§12-3a) og [tannhelsetjenesteloven § 1-7](lov/1983-06-03-54/§1-7).
+
+En pasient, bruker eller nærmeste pårørende kan sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av ytelse av helse- og omsorgstjenester eller ved at en pasient eller bruker skader en annen. Adgangen til å sende melding gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+
+Departementet kan gi forskrift om melding etter første ledd, også om innholdet i meldingene.
+
+## IV
+
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
+
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+## V
+
+En virksomhet som yter helse- og omsorgstjenester, skal snarest mulig og senest innen fem virkedager sende melding til Statens undersøkelseskommisjon om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen. Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+
+Pasienter, brukere eller nærmeste pårørende kan sende melding til undersøkelseskommisjonen om hendelser som nevnt i første ledd.
+
+Når undersøkelseskommisjonen har mottatt melding etter første eller andre ledd skal den uten ugrunnet opphold avgjøre om det skal iverksettes undersøkelse.
+
+## VI
+
+Lovens formål er å bidra til å styrke pasient- og brukersikkerheten og kvaliteten i helse- og omsorgstjenesten gjennom statlig tilsyn og andre tiltak som støtter opp om helse- og omsorgstjenestens arbeid med læring og forbedring. Loven skal også bidra til å styrke befolkningens tillit til helsepersonell og helse- og omsorgstjenesten.
+
+Statens helsetilsyn har det overordnede faglige tilsyn med helse- og omsorgstjenesten i landet og skal utøve myndighet i samsvar med det som er bestemt i lover og forskrifter. Statens helsetilsyn skal gjennomføre tilsyn, formidle kunnskap, systematisere og identifisere risikoområder, veilede statsforvalteren og bidra til overordnet læring og forbedring i helse- og omsorgstjenesten. Statens helsetilsyn kan innhente rapporter om alvorlige hendelser fra statsforvalteren, jf. [§ 6 tredje ledd](lov/2017-12-15-107/§6/ledd/3).
+
+Statsforvalteren skal på grunnlag av meldinger og rapporter fra virksomheter om alvorlige hendelser etter [§ 6](lov/2017-12-15-107/§6), og etter behov, veilede virksomhetene og støtte opp om virksomhetens styringssystem og systematiske arbeid med å forebygge, avdekke, avverge og lære av alvorlige hendelser.
+
+Formålet med melding og rapport om alvorlige hendelser er å bidra til å styrke arbeidet med læring og forbedring for å kunne forebygge, avdekke og avverge alvorlige hendelser i helse- og omsorgstjenesten.
+
+En virksomhet som yter helse- og omsorgstjenester, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren med kopi til Statens helsetilsyn om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen. Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at meldingen er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om melding og rapport som nevnt i andre og tredje ledd, herunder om innholdet i meldingene og rapportene.
+
+## VII
+
+1. Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
+2. Departementet kan gi overgangsregler.

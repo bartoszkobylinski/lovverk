@@ -1,0 +1,36 @@
+---
+id: "nl-20251222-125"
+slug: "endringslov-til-finansforetaksloven"
+type: "lov"
+ref_id: "lov/2025-12-22-125"
+title: "Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)"
+short_title: "Endringslov til finansforetaksloven"
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "ec5bf854740cccc02f0d2f0c9580e6166f1a7b9608ff9fbede114661c0e3829f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)
+
+- [Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven)](lov/2015-04-10-17).
+
+## I
+
+(3) For grensekryssende virksomhet her i riket fra en annen EØS-stat gjelder [kapittel 1](lov/2015-04-10-17/kap1) samt bestemmelsene i [§ 9-1 annet](lov/2015-04-10-17/§9-1/ledd/2) og [tredje ledd](lov/2015-04-10-17/§9-1/ledd/3), [§ 9-2](lov/2015-04-10-17/§9-2), [§§ 9-4](lov/2015-04-10-17/§9-4) til [9-6](lov/2015-04-10-17/§9-6), [§ 12-27](lov/2015-04-10-17/§12-27), [§ 13-5 fjerde ledd](lov/2015-04-10-17/§13-5/ledd/4), [§§ 16-5](lov/2015-04-10-17/§16-5) til [16-9](lov/2015-04-10-17/§16-9), [§ 16-11](lov/2015-04-10-17/§16-11), [§§ 16-13](lov/2015-04-10-17/§16-13) til [16-16](lov/2015-04-10-17/§16-16), [§ 20A-3 tredje ledd](lov/2015-04-10-17/§20a-3), [§ 22-1](lov/2015-04-10-17/§22-1) og [§ 22-2](lov/2015-04-10-17/§22-2), tilsvarende.
+
+(2) Garantiordningen skal bidra til å sikre utbetaling av krav som følger av avtale om direkte skadeforsikring, til sikrede og skadet tredjeperson når forsikringsforetaket som har forsikret risikoen, er under insolvensbehandling eller avvikling som definert i direktiv [2009/138/EF](eu/32009l0138) artikkel 268 nr. 1 bokstav d eller tilsvarende prosedyrer.
+
+(3) Når et forsikringsforetak med hovedsete i annen EØS-stat driver direkte skadeforsikring gjennom grensekryssende virksomhet her i riket etter [§ 5-5](lov/2015-04-10-17/§5-5), skal forsikringsforetaket være medlem av garantiordningen.
+
+## II
+
+Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Departementet kan gi overgangsregler.

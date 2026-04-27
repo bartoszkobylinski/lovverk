@@ -1,0 +1,32 @@
+---
+id: "sf-20241011-2451"
+slug: "forskrift-om-advokatlovens-anvendelse-for-svalbard"
+type: "forskrift"
+ref_id: "forskrift/2024-10-11-2451"
+title: "Forskrift om advokatlovens anvendelse for Svalbard"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2025-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "619d91617d6f77a6aa49d7347520db65b8136340b2a266542982bd08f38f5c4e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om advokatlovens anvendelse for Svalbard
+
+## § 1. Anvendelse for Svalbard
+
+(1) [Lov 12. mai 2022 nr. 28 om advokater og andre som yter rettslig bistand](lov/2022-05-12-28) gjelder også for Svalbard.
+
+(2) [Lov 16. juni 2017 nr. 69 om godkjenning av yrkeskvalifikasjoner §§ 8](lov/2017-06-16-69/§8), [12](lov/2017-06-16-69/§12), [13](lov/2017-06-16-69/§13), [15](lov/2017-06-16-69/§15), [16](lov/2017-06-16-69/§16), [17](lov/2017-06-16-69/§17) og [18](lov/2017-06-16-69/§18) gjelder også for jurister og advokater på Svalbard.
+
+## § 2. Ikraftsetting
+
+Forskriften trer i kraft 1. januar 2025.

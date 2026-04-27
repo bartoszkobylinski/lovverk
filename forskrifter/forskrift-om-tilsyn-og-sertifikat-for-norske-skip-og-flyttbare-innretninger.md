@@ -1,0 +1,496 @@
+---
+id: "sf-20141222-1893"
+slug: "forskrift-om-tilsyn-og-sertifikat-for-norske-skip-og-flyttbare-innretninger"
+type: "forskrift"
+ref_id: "forskrift/2014-12-22-1893"
+title: "Forskrift om tilsyn og sertifikat for norske skip og flyttbare innretninger"
+short_title: null
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2015-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "03485774b0d5bbebcbd39388abd5b5f898f2e53a8f7e2191e26f0abcacce2527"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilsyn og sertifikat for norske skip og flyttbare innretninger
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+(1) Forskriften gjelder for norskelasteskip med største lengde 15 meter eller mer, hvis annet ikke er angitt i de enkelte paragrafeneskip som brukes utenfor næringsvirksomhet og har største lengde 24 meter eller merlektere med største lengde 15 meter eller merpassasjerskipfiske- og fangstfartøy med største lengde 15 meter eller merflyttbare innretninger.
+
+(2) Forskriften gjelder også for norske skip som skal brukes i oljevernberedskap eller som beredskapsfartøy, uansett størrelse.
+
+(3) Forskriften gjelder ikke for lasteskip med lengde (L) under 24 meter som er omfattet av virkeområdet til forskrift om fartøy under 24 m som fører 12 eller færre passasjerer og kun driver virksomhet som beskrevet der.
+
+> Endret ved [forskrifter 14 jan 2020 nr. 65](forskrift/2020-01-14-65) (i kraft 1 feb 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 2. Begjæring om tilsyn
+
+(1) Rederiet skal sende begjæring om tilsyn så snart som mulig når skip eller flyttbar innretninger avtalt byggetskal ha utstedt eller opprettholdt sertifikatskal ha tilsyn for arbeids- og levevilkår (MLC-tilsyn) uten utstedelse av sertifikatskal ha tilsyn for ballastvannbehandling, uten utstedelse av sertifikater pålagt reparasjon etter havari, skade eller manglerskal få eller har fått utført endringer av skrog, arrangement, maskineri, utstyr og andre komponenterfår slettet sin klasse i anerkjent klassifikasjonsselskapoverføres til et norsk skipsregister.
+
+(2) For flyttbar innretning som har ligget i opplag i mer enn tolv måneder skal rederiet begjære tilsyn før den flyttbare innretningen settes i drift.
+
+(3) Begjæringen sendes tilSjøfartsdirektoratet på fastsatt skjema, unntatt i tilfeller som nevnt i bokstav b til d i leddet herklassifikasjonsselskapet, når tilsynsmyndigheten er delegert til anerkjent klassifikasjonsselskapgodkjent radioinspeksjonsforetak når det gjelder radiotilsynDirektoratet for samfunnssikkerhet og beredskap (DSB), når det gjelder tilsyn av elektrisk anlegg på lasteskip, lektere og fiskefartøy uten klasse i anerkjent klassifikasjonsselskap og på passasjerskip.
+
+> Endret ved [forskrifter 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 3. (Opphevet)
+
+> Opphevet ved forskrift [1 aug 2025 nr. 1582](forskrift/2025-08-01-1582).
+
+## Kapittel 2. Overføring av skip og flyttbare innretninger til norsk skipsregister
+
+### § 4. Tilsyn med lasteskip og passasjerskip som skal overføres til et norsk skipsregister fra skipsregister i EØS-området
+
+EØS-avtalen vedlegg XIII nr. 56q (forordning [(EF) nr. 789/2004](eu/32004r0789)) av 21. april 2004 om overføring av lasteskip og passasjerskip mellom skipsregistrene i EØS-området og om opphevelse av Rådets forordning [(EØF) nr. 613/91](eu/31991r0613) gjelder som forskrift, med de tilpasninger som følger av protokoll 1 til avtalen og avtalen for øvrig.
+
+### § 5. Dokumentasjon ved begjæring om overføring til et norsk skipsregister
+
+(1) For skip eller flyttbare innretninger som verken tidligere har hatt norsk sertifikat eller omfattes av [§ 4](forskrift/2014-12-22-1893/§4), skal rederiet sammen med begjæringen sende opplysninger om redningsredskaper, stabilitet, brannsikrings- og brannslokkingsarrangement, innredningsarrangement og eventuelt slepe- og ankerhåndteringsutstyr som fremgår av fastsatt dokumentliste.
+
+(2) For fiskefartøy skal opplysningene i henhold til gjeldende dokumentliste, fastsatt av Sjøfartsdirektoratet, innsendes av rederiet til Sjøfartsdirektoratet eller til den direktoratet har bemyndiget.
+
+> Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+## Kapittel 3. Tilsyn med og sertifikater for skip og flyttbare innretninger
+
+### § 6. Sikkerhetssertifikat for passasjerskip
+
+(1) Skip som fører mer enn tolv passasjerer på internasjonal reise skal hasikkerhetssertifikat for passasjerskipdispensasjonssertifikat som viser betingelser for eventuelle dispensasjoner som er gitt etter [SOLAS](traktat/1974-11-01-1) SLS.14/Circ.115/Add.3vedlegg til sikkerhetssertifikat for passasjerskip som angir hvor mange livbåter og annet redningsutstyr skipet må ha når det på en bestemt reise har færre passasjerer enn det er sertifisert forroro-passasjerskip skal ha vedlegg til sikkerhetssertifikat som dokumenterer de særlige stabilitetskravene som skipet skal oppfylle. Dersom roro-passasjerskipet skal oppfylle stabilitetskravene i [forskrift 1. juli 2014 nr. 1072 om bygging av skip vedlegg III](forskrift/2014-07-01-1072/vedleggIII) avsnitt A, skal det dokumenteres hvilken begrensning i signifikant bølgehøyde skipet har.
+
+(2) Gyldig tilsynserklæring for elektriske anlegg skal foreligge og radiotilsyn skal være utført før sikkerhetssertifikat for passasjerskip kan utstedes.
+
+(3) Sikkerhetssertifikat for passasjerskip utstedes med varighet inntil tolv måneder. Dispensasjonssertifikatet som nevnt i første ledd kan ikke gis lenger varighet enn sikkerhetssertifikat for passasjerskip.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [3 des 2024 nr. 3131](forskrift/2024-12-03-3131) (i kraft 5 des 2024).
+
+### § 7. Tilsyn for sikkerhetssertifikat for passasjerskip
+
+Skip som skal ha sikkerhetssertifikat for passasjerskip skal gjennomgå følgende tilsyn, basert på IMOs retningslinjer for tilsyn etter det harmoniserte systemet for tilsyn og sertifisering (HSSC), for å vise at skipet oppfyller kravene til konstruksjon og utrustning som gjelder for passasjerskip på internasjonal reise:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hver tolvte måned, jf. [§ 35](forskrift/2014-12-22-1893/§35)utvendig tilsyn av skipets bunn utføres ved hvert fornyelsestilsynMinst to av bunntilsynene som kreves etter bokstav c, skal i løpet av en femårsperiode skje når skipet er tørt.Det skal ikke gå mer enn 36 måneder mellom to tilsyn av bunnen når skipet er tørt.Passasjerskip som følger de særskilte føringene i HSSC, jf. MSC.1/Circ.1348, kan i stedet for kravene etter bokstav c romertall i og ii, i løpet av en femårsperiode gjennomføre et bunntilsyn når skipet er tørt. Femårsperioden følger varigheten av skipets internasjonale lastelinjesertifikat.
+
+> Endret ved [forskrifter 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 8. Sikkerhetssertifikater for lasteskip i utenriksfart
+
+(1) Lasteskip med bruttotonnasje 300 eller mer i utenriksfart skal ha sikkerhetssertifikat for radio.
+
+(2) Lasteskip med bruttotonnasje 500 eller mer i utenriksfart skal hasikkerhetssertifikat for konstruksjon av lasteskipsikkerhetssertifikat for utstyr på lasteskipdispensasjonssertifikat som viser betingelser for eventuelle dispensasjoner som er gitt etter [SOLAS](traktat/1974-11-01-1) SLS.14/Circ.115/Add.3.
+
+(3) Gyldig tilsynserklæring for elektriske anlegg eller gyldig klassesertifikat skal foreligge før sikkerhetssertifikat for utstyr og konstruksjon av lasteskip kan utstedes.
+
+(4) Sikkerhetssertifikat for konstruksjon av lasteskip, utstyr på lasteskip og radio på lasteskip utstedes med varighet inntil fem år. Dispensasjonssertifikat som nevnt i første ledd kan ikke gis lenger varighet enn sikkerhetssertifikatene for lasteskip.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 9. Tilsyn for sikkerhetssertifikat for konstruksjon av lasteskip, utstyr på lasteskip og radio på lasteskip
+
+(1) Skip som skal ha sikkerhetssertifikat for konstruksjon av lasteskip skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at skipet oppfyller kravene til konstruksjon av lasteskip:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte år, jf. [§ 35](forskrift/2014-12-22-1893/§35)mellomliggende tilsyn innen tre måneder før eller etter den andre eller tredje årsdagen for sertifikatet. Det mellomliggende tilsynet kan erstatte det årlige tilsynet som kreves etter bokstav dårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatetutvendig tilsyn av skipets bunn minst to ganger i løpet av sertifikatperioden. Det skal aldri gå mer enn 36 måneder mellom to bunntilsyn.
+
+(2) Skip som skal ha sikkerhetssertifikat for utstyr på lasteskip skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at skipet oppfyller kravene til utstyr på lasteskip:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte år, jf. [§ 35](forskrift/2014-12-22-1893/§35)periodisk tilsyn innen tre måneder før eller etter den andre eller tredje årsdagen for sertifikatet. Det periodiske tilsynet kan erstatte det årlige tilsynet av utstyr som kreves etter bokstav dårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatet.
+
+(3) Skip som skal ha sikkerhetssertifikat for radio på lasteskip skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at skipet oppfyller kravene til radiokommunikasjonsutstyr på lasteskip:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte år, jf. [§ 35](forskrift/2014-12-22-1893/§35)periodisk tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag.
+
+(4) Gjennomførte mellomliggende, periodiske og årlige tilsyn, og utvendig tilsyn av skipets bunn, dokumenteres med påtegning av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved [forskrifter 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 10. Internasjonalt lastelinjesertifikat for passasjerskip, lasteskip og lektere
+
+(1) Passasjerskip med lengde (L) 24 meter eller mer på internasjonal reise og lasteskip og lektere med lengde (L) 24 meter eller mer i utenriksfart skal hainternasjonalt lastelinjesertifikatdispensasjonssertifikat som viser betingelser for eventuelle dispensasjoner som er gitt fra lastelinjekravene.
+
+(2) Rapport om tilstand ved tildeling av fribord (Record of Condition of Assignment of Load Lines) skal foreligge før internasjonalt lastelinjesertifikat utstedes. Rapporten skal være signert og stemplet av Sjøfartsdirektoratet, anerkjent klassifikasjonsselskap eller av annen stat som er part i Den internasjonale lastelinjekonvensjonen.
+
+(3) Internasjonalt lastelinjesertifikat utstedes med varighet inntil fem år. Dispensasjonssertifikatet som nevnt i første ledd kan ikke gis lenger varighet enn det internasjonale lastelinjesertifikatet.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [24 jan 2022 nr. 118](forskrift/2022-01-24-118).
+
+### § 11. Tilsyn for internasjonalt lastelinjesertifikat
+
+(1) Skip som skal ha internasjonalt lastelinjesertifikat skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at skipet oppfyller kravene til lastelinje for skip:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte årårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatet.
+
+(2) Gjennomførte årlige tilsyn dokumenteres ved påtegning av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved [forskrifter 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 12. Farts- og driftssertifikat for flyttbar innretning
+
+(1) Flyttbare innretninger skal ha farts- og driftssertifikat for flyttbar innretning. I tillegg til sertifikater den flyttbare innretningen skal ha etter andre forskrifter gitt med hjemmel i skipssikkerhetsloven, omfatter farts- og driftssertifikatet følgende sertifikater:sikkerhetssertifikat for konstruksjon av flyttbar innretningsikkerhetssertifikat for utstyr på flyttbar innretningsikkerhetssertifikat for radioinstallasjon på flyttbar innretninglastelinjesertifikat for flyttbar innretning.
+
+(2) Farts- og driftssertifikatet skal ha to vedlegg:Vedlegg 1 opplyser om eventuelle konstruksjons- og operasjonsbegrensninger som gjelder for den flyttbare innretningen.Vedlegg 2 angir forskriftene den flyttbare innretningen er sertifisert etter, og dispensasjoner fra disse.
+
+(3) Før farts- og driftssertifikat utstedes skal det foreligge gyldig tilsynsrapport for elektriske anlegg.
+
+(4) Sertifikater for flyttbare innretninger utstedes med varighet inntil fem år.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 13. Tilsyn for sertifikater for flyttbar innretning
+
+(1) Flyttbare innretninger som skal ha farts- og driftssertifikat skal gjennomgå følgende tilsyn for å vise at den flyttbare innretningen oppfyller kravene til konstruksjon, utstyr og drift for flyttbare innretninger:førstegangstilsyn før den flyttbare innretningen tas i brukårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatetfornyelsestilsyn hvert femte år. Tilsynet kan starte inntil seks måneder før sertifikatenes utløpsdato.
+
+(2) Gjennomførte årlige tilsyn dokumenteres ved at det aktuelle sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [21 nov 2022 nr. 1997](forskrift/2022-11-21-1997).
+
+### § 14. Sertifikat for arbeids- og levevilkår
+
+(1) Lasteskip og passasjerskip, med bruttotonnasje 500 eller mer i utenriksfart, skal ha sertifikat for arbeids- og levevilkår. Sertifikatet består av en sertifikatdel og en erklæring om arbeids- og levevilkår.
+
+(2) Erklæringen om arbeids- og levevilkår som kreves etter første ledd, består av to deler:Del 1 utarbeides av Sjøfartsdirektoratet og gir informasjon omreglene som gjennomfører ILO-konvensjon nr. 186 om sjøfolks arbeids- og levevilkår (MLC)vesentlig likeverdig gjennomføring av MLC i norsk rett, jf. MLC artikkel VI nr. 3dispensasjoner fra MLC kapittel 3, gitt med hjemmel i [forskrift 21. april 2017 nr. 515](forskrift/2017-04-21-515) om innredning, rekreasjonstilbud, kost og forpleining på skip.Del 2 utarbeides av rederiet og skal visehvordan kravene beskrevet i del 1 oppfylleshvilke tiltak som er satt i verk for å sikre en stadig forbedring og kontinuerlig etterlevelse av reglene for arbeids- og levevilkårene om bordhvordan etterlevelsen av reglene kontinuerlig kontrolleres, hvem som er ansvarlig for kontrollen, hvor etterlevelsen dokumenteres og hvilke tiltak som skal settes i verk når manglende etterlevelse avdekkes.
+
+(3) Sertifikat for arbeids- og levevilkår utstedes med varighet inntil fem år. Sertifikatet blir ugyldig dersom driften av skipet overføres til et annet rederi.
+
+(4) Fiskefartøy skal ha sertifikat for arbeids- og levevilkår når fartøyet harstørste lengde 15 meter eller mer og er sertifisert for Havfiske I eller større fartsområderlengde (L) 24 meter eller mer og er sertifisert for Bankfiske I eller større fartsområder.
+
+(5) Sertifikatet som kreves etter fjerde ledd, skal vise samsvar med kravene som gjennomfører ILO-konvensjon nr. 188 om arbeidsvilkår i fiskerisektoren, og skal utstedes med varighet inntil fem år når fartssertifikatet som kreves etter [§ 26](forskrift/2014-12-22-1893/§26) første ledd, blir utstedt første gang eller blir fornyet 16. november 2017 eller senere, jf. [§ 27](forskrift/2014-12-22-1893/§27) første ledd bokstav a eller b.
+
+> Endret ved [forskrifter 10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [26 jan 2018 nr. 115](forskrift/2018-01-26-115), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 15. Tilsyn for sertifikat for arbeids- og levevilkår
+
+(1) Lasteskip og passasjerskip som skal ha sertifikat for arbeids- og levevilkår, skal gjennomgå følgende tilsyn for å vise at skipet oppfyller kravene til arbeids- og levevilkår på skip:førstegangstilsyn før sertifikat kan utstedes første gangmellomliggende tilsyn mellom andre og tredje årsdag for sertifikatetfornyelsestilsyn hvert femte år.
+
+(2) Tilsyn som kreves etter første ledd, kan alternativt begjæres gjennomført i forbindelse med revisjon av sikkerhetsstyringssystemet om bord.
+
+(3) Gjennomført mellomliggende tilsyn etter første ledd bokstav b dokumenteres ved at sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+(4) Fiskefartøy som skal ha sertifikat for arbeids- og levevilkår, skal gjennomgå følgende tilsyn for å vise at fiskefartøyet oppfyller kravene til arbeids- og levevilkår på fiskefartøy:førstegangstilsyn før sertifikatet kan utstedes første gangfornyelsestilsyn hvert femte år.
+
+> Endret ved [forskrifter 10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 16. Midlertidig sertifikat for arbeids- og levevilkår
+
+(1) Et midlertidig sertifikat for arbeids- og levevilkår med gyldighet inntil seks måneder kan utstedes fornybyggskip som overføres til et norsk skipsregisterskip som et rederi overtar ansvaret for driften av, når skipet er nytt for vedkommende rederi.
+
+(2) Midlertidig sertifikat kan utstedes etter gjennomført tilsyn som så langt som det er rimelig og praktisk mulig kan verifisere at skipet oppfyller reglene i MLC vedlegg A5-I, og rederiet harsøkt om utstedelse av erklæring om arbeids- og levevilkår del 1utarbeidet tilfredsstillende prosedyrer som viser at reglene som gjennomfører MLC kan etterlevesbekreftet at skipsføreren er kjent med reglene og sitt ansvar for å gjennomføre dem.
+
+(3) Et midlertidig sertifikat kan ikke forlenges. Det kan heller ikke utstedes flere midlertidige sertifikater til samme skip før endelig sertifikat for arbeids- og levevilkår er utstedt.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 17. MLC-tilsyn av skip som ikke skal ha sertifikat for arbeids- og levevilkår
+
+(1) Lasteskip og passasjerskip sertifisert for fartsområde 3 eller større og passasjerskip klasse A, B, C eller D, som ikke skal ha sertifikat for arbeids- og levevilkår, jf. [§ 14](forskrift/2014-12-22-1893/§14) første ledd, skal gjennomgå MLC-tilsyn vedførstegangstilsyn og andre eller tredje fornyelsestilsyn i en femårsperiode for sikkerhetssertifikat for passasjerskip i innenriksfart eller konstruksjons- og utstyrssertifikat utstedt etter DSC-kodenførstegangstilsyn, fornyelsestilsyn og andre eller tredje periodiske tilsyn i sertifikatperioden for sikkerhetssertifikat for hurtiggående fartøyførstegangstilsyn, fornyelsestilsyn og andre eller tredje årlige tilsyn i sertifikatperioden for passasjersertifikatførstegangstilsyn og mellomliggende tilsyn i sertifikatperioden for fartssertifikat for lasteskip.
+
+(2) MLC-tilsynet kan alternativt begjæres gjennomført i forbindelse med revisjon av sikkerhetsstyringssystemet om bord.
+
+(3) Det skal ikke gå mer enn 36 måneder mellom to MLC-tilsyn.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 18. Sikkerhetssertifikat for passasjerskip i innenriksfart
+
+(1) Passasjerskip klasse A, B, C eller D med lengde (L) 24 meter eller mer som går i innenriksfart i EØS-området, skal ha sikkerhetssertifikat for passasjerskip i innenriksfart. Likeverdige løsninger og fritak gitt med hjemmel i [forskrift 28. mars 2000 nr. 305 om besiktelse, bygging og utrustning av passasjerskip i innenriksfart § 4](forskrift/2000-03-28-305/§4) og [§ 8](forskrift/2000-03-28-305/§8) skal inntas i sikkerhetssertifikatet.
+
+(2) Sikkerhetssertifikatet skal havedlegg som angir hvor mange livbåter og andre redningsredskaper skipet må ha når det på en bestemt reise har færre passasjerer enn det er sertifisert forvedlegg som dokumenterer de særlige stabilitetskravene roro-passasjerskip klasse A og B og roro-passasjerskip klasse C bygget 1. oktober 2004 eller senere skal oppfylle. Dersom roro-passasjerskipet skal oppfylle stabilitetskravene i [forskrift 28. mars 2000 nr. 305](forskrift/2000-03-28-305) om besiktelse, bygging og utrustning av passasjerskip i innenriksfart vedlegg IV avsnitt A, skal det dokumenteres hvilken begrensning i signifikant bølgehøyde skipet har.
+
+(3) Under forflytning uten last eller passasjerer kan passasjerskip klasse C eller D passere havområder klasse B.
+
+(4) Gyldig tilsynserklæring eller installasjonsbevis for elektriske anlegg skal foreligge og radiotilsyn skal være utført før sikkerhetssertifikat for passasjerskip i innenriksfart kan utstedes.
+
+(5) Sikkerhetssertifikat for passasjerskip i innenriksfart utstedes med varighet inntil tolv måneder.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [3 des 2024 nr. 3131](forskrift/2024-12-03-3131) (i kraft 5 des 2024).
+
+### § 19. Tilsyn for sikkerhetssertifikat for passasjerskip i innenriksfart
+
+Skip som skal ha sikkerhetssertifikat for passasjerskip i innenriksfart, skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at skipet oppfyller kravene til konstruksjon og utrustning som gjelder for passasjerskip klasse A, B, C eller D:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hver tolvte månedutvendig tilsyn av skipets bunn skal utføres ved hvert fornyelsestilsynMinst to utvendig bunntilsyn i løpet av en femårsperiode skal skje når skipet er tørt.Det skal ikke gå mer enn 36 måneder mellom to bunntilsyn når skipet er tørt.førstegangstilsyn og andre eller tredje fornyelsestilsyn i en femårsperiode for passasjerskip i innenriks fart som ikke skal ha internasjonalt sertifikat for hindring av oljeforurensning (IOPP) eller internasjonalt sertifikat for hindring av luftforurensning (IAPP), skal også omfatte tiltak mot olje- og luftforurensning.
+
+> Endret ved [forskrifter 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 20. Passasjersertifikat
+
+(1) Følgende skip som fører flere enn 12 passasjerer i innenriksfart, skal ha passasjersertifikat:skip med lengde (L) under 24 meterhurtiggående fartøy med lengde (L) under 24 meterskip som går i fartsområde 2 eller mindreseilskipskip som ikke har mekaniske framdriftsmidlerskip bygd av annet materiale enn stål og tilsvarende, som definert i [forskrift 28. mars 2000 nr. 305 om besiktelse, bygging og utrustning av passasjerskip i innenriksfart](forskrift/2000-03-28-305).Skip som omfattes av [forskrift 17. juni 2014 nr. 768 om særlige regler for skip som er vernet eller fredet og fører flere enn 12 passasjerer](forskrift/2014-06-17-768), skal ha passasjersertifikat for vernet eller fredet skip. Første punktum gjelder ikke treskip som følger [forskrift 23. januar 2020 nr. 69 om åpne treskip som fører flere enn 12 passasjerer](forskrift/2020-01-23-69), fartøy som følger [forskrift 21. september 2022 nr. 1627 om fartøy som blir brukte av opplæringsinstitusjonar](forskrift/2022-09-21-1627), eller fartøy som følger [forskrift 21. september 2022 nr. 1628 om fartøy som blir brukte av lag eller foreiningar](forskrift/2022-09-21-1628).
+
+(2) Skip som fører 12 eller færre passasjerer og som brukes til lege- og ambulansetjeneste eller organisert skoleskyss, skal ha passasjersertifikat.
+
+(3) Under forflytning uten last eller passasjerer kan skip med passasjersertifikat passere fartsområder i innenriksfart som er opptil to fartsområder større enn det som går fram av passasjersertifikatet.
+
+(4) Gyldig tilsynserklæring eller installasjonsbevis for elektriske anlegg skal foreligge før passasjersertifikat kan utstedes.
+
+(5) Passasjersertifikat utstedes med varighet inntil fem år. Eventuelle operasjonelle begrensninger som følge av at skip er hurtiggående, vernet eller fredet, skal framgå av passasjersertifikatet.
+
+> Endret ved forskrifter [14 jan 2020 nr. 65](forskrift/2020-01-14-65) (i kraft 1 feb 2020), [23 jan 2020 nr. 70](forskrift/2020-01-23-70) (i kraft 1 feb 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [21 sep 2022 nr. 1627](forskrift/2022-09-21-1627) (i kraft 1 okt 2022).
+
+### § 21. Tilsyn for passasjersertifikat
+
+(1) Skip som skal ha passasjersertifikat skal gjennomgå følgende tilsyn for vise at skipet oppfyller kravene til konstruksjon og utrustning som gjelder for passasjerskip i innenriksfartførstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte årårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatetårlig utvendig tilsyn av skipets bunn.Minst to utvendige bunntilsyn i løpet av femårsperioden for passasjersertifikatets varighet skal skje når skipet er tørt.Det skal ikke gå mer enn 36 måneder mellom hvert bunntilsyn når skipet er tørt.førstegangstilsyn, fornyelsestilsyn og andre eller tredje årlige tilsyn i sertifikatperiodens varighet for passasjerskip i innenriks fart, skal også omfatte tiltak mot luft- og oljeforurensning.
+
+(2) Tilsynet gjennomføres ikke før Sjøfartsdirektoratet har mottatt rederiets erklæring på fastsatt skjema om at kravene i relevante forskrifter er oppfylt.
+
+(3) Gjennomførte årlige tilsyn dokumenteres ved at sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 21a. Sikkerhetssertifikat for passasjerskip i territorialfarvannet ved Svalbard
+
+(1) Skip som fører mer enn tolv passasjerer i territorialfarvannet ved Svalbard, og som ikke har sikkerhetssertifikat for passasjerskip på internasjonal reise, skal ha sikkerhetssertifikat for skip i territorialfarvannet ved Svalbard.
+
+(2) Gyldig tilsynserklæring for elektriske anlegg skal foreligge og radiotilsyn skal være utført før sikkerhetssertifikatet kan utstedes.
+
+(3) Sikkerhetssertifikat for passasjerskip i territorialfarvannet ved Svalbard utstedes med varighet inntil tolv måneder.
+
+> Tilføyd ved [forskrift 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020).
+
+### § 21b. Tilsyn for sikkerhetssertifikat for passasjerskip i territorialfarvannet ved Svalbard
+
+Skip som skal ha sikkerhetssertifikat for passasjerskip i territorialfarvannet ved Svalbard skal gjennomgå tilsyn etter HSSC, for å vise at skipet oppfyller kravene til konstruksjon og utrustning som gjelder for passasjerskip i territorialfarvannet ved Svalbard:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hver tolvte måned, jf. [§ 35](forskrift/2014-12-22-1893/§35)utvendig tilsyn av skipets bunn utføres ved hvert fornyelsestilsynMinst to av bunntilsynene som kreves etter bokstav c, skal i løpet av en femårsperiode skje når skipet er tørt.Det skal ikke gå mer enn 36 måneder mellom to tilsyn av bunnen når skipet er tørt.Passasjerskip som følger de særskilte føringene i HSSC, kan i stedet for kravene etter bokstav c romertall i og ii, i løpet av en femårsperiode gjennomføre et bunntilsyn når skipet er tørt. Femårsperioden følger varigheten av skipets Internasjonale lastelinjesertifikat.
+
+> Tilføyd ved [forskrift 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 22. Sikkerhetssertifikat for radio for ikke-konvensjonsskip
+
+(1) Følgende skip skal ha sikkerhetssertifikat for radio for ikke-konvensjonsskip:lasteskip med største lengde 8 meter eller mer med fartsområde 1 eller større i innenriksfart, og lasteskip med bruttotonnasje under 300 i utenriksfartskip som brukes utenfor næringsvirksomhetpassasjerskip som skal ha passasjersertifikat.
+
+(2) Sikkerhetssertifikat for radio for ikke-konvensjonsskip utstedes med varighet inntil fem år.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 23. Tilsyn for sikkerhetssertifikat for radio for ikke-konvensjonsskip
+
+(1) Skip som skal ha sikkerhetssertifikat for radio for ikke-konvensjonsskip skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at kravene til radiokommunikasjonsutstyr som gjelder for skipet er oppfylt:førstegangstilsyn før skipet tas i brukårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag for sertifikatetfornyelsestilsyn hvert femte år.
+
+(2) Gjennomførte årlige tilsyn dokumenteres ved at radiosertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved [forskrifter 31 juli 2019 nr. 1036](forskrift/2019-07-31-1036) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 24. Fartssertifikat for lasteskip og lektere
+
+(1) Følgende skip skal ha fartssertifikat med fastsatt fartsområde:lasteskip med største lengde 15 meter eller mer i innenriksfartlasteskip med største lengde 15 meter eller mer, og bruttotonnasje under 500, i utenriksfartskip som brukes utenfor næringsvirksomhet i polare farvannlekter som enten er bemannet, brukes til føring av farlig eller forurensende last i bulk eller brukes i fartsområde 3 eller større.
+
+(2) Fartssertifikat utstedes ikke før gyldig klassesertifikat, tilsynserklæring for elektriske anlegg eller installasjonsbevis for elektriske anlegg foreligger.
+
+(3) Fartssertifikatet utstedes med varighet inntil fem år.
+
+(4) Lasteskip med bruttotonnasje 300 eller mer, men med bruttotonnasje under 500, og skip med bruttotonnasje 300 eller mer som brukes utenfor næringsvirksomhet, skal ha fartssertifikat med påtegning som tillater fart i polare farvann dersom de skal operere i slike farvann.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [19 des 2025 nr. 2820](forskrift/2025-12-19-2820) (i kraft 1 jan 2026, for skip med byggedato før 1 jan 2026 trer endringene i kraft 1 jan 2027).
+
+### § 25. Tilsyn for fartssertifikat for lasteskip og lektere
+
+(1) Skip som skal ha fartssertifikat for lasteskip og lektere skal gjennomgå følgende tilsyn som viser at kravene til konstruksjon og utrustning for lasteskip, lektere og skip som brukes utenfor næringsvirksomhet er oppfylt:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte årmellomliggende tilsyn mellom sertifikatets andre og tredje årsdagutvendig tilsyn av skipets bunn ved hvert fornyelsestilsyn og mellomliggende tilsynUtvendig bunntilsyn skal skje når skipet er tørt.Det skal aldri gå mer enn 36 måneder mellom to bunntilsyn.
+
+(2) Førstegangstilsyn, fornyelsestilsyn og mellomliggende tilsyn med lasteskip og lektere i innenriksfart som ikke skal ha internasjonalt sertifikat for hindring av oljeforurensning (IOPP) eller sertifikat for hindring av luftforurensning (IAPP), skal også omfatte tiltak mot olje- og luftforurensning.
+
+(3) Tilsynet gjennomføres ikke før Sjøfartsdirektoratet har mottatt rederiets erklæring på fastsatt skjema om at kravene i relevante forskrifter er oppfylt.
+
+(4) Gjennomført mellomliggende tilsyn dokumenteres ved at fartssertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+(5) Lasteskip og skip som brukes utenfor næringsvirksomhet og som etter [§ 24 fjerde ledd](forskrift/2014-12-22-1893/§24/ledd/4) skal ha fartssertifikat med påtegning om fart i polare farvann, skal ha et førstegangstilsyn før påtegning. Førstegangstilsynet skal vise at krav for fart i polare farvann er oppfylt. Senere tilsyn harmoniseres med tilsynene etter første ledd.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [19 des 2025 nr. 2820](forskrift/2025-12-19-2820) (i kraft 1 jan 2026, for skip med byggedato før 1 jan 2026 trer endringene i kraft 1 jan 2027).
+
+### § 26. Fartssertifikat for fiske- og fangstfartøy
+
+(1) Fiske- og fangstfartøy skal hafartssertifikat for fiske- og fangstfartøydispensasjonssertifikat som viser betingelser for eventuelle dispensasjoner som er gitt fra Sjøfartsdirektoratets regelverkpåtegning i fartssertifikatet som tillater fart i polare farvann dersom fartøyet skal operere i polare farvann og har største lengde 24 meter eller mer.
+
+(2) Gyldig klassesertifikat, tilsynserklæring for elektriske anlegg eller installasjonsbevis for elektriske anlegg skal foreligge før fartssertifikat for fiske- og fangstfartøy kan utstedes.
+
+(3) Dispensasjonssertifikat etter første ledd kan ikke gis lengre varighet enn fartssertifikatet.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [19 des 2025 nr. 2820](forskrift/2025-12-19-2820) (i kraft 1 jan 2026, for skip med byggedato før 1 jan 2026 trer endringene i kraft 1 jan 2027).
+
+### § 27. Tilsyn for fartssertifikat for fiske- og fangstfartøy
+
+(1) Fiske- og fangstfartøy skal gjennomgå følgende tilsyn som viser at kravene til konstruksjon og utrustning av fiske- og fangstfartøy er oppfylt:førstegangstilsyn før skipet tas i brukfornyelsestilsyn hvert femte årmellomliggende tilsyn mellom sertifikatets andre og tredje årsdagtilsyn av radioinstallasjoner og AISfor fartøy med lengde (L) 24 meter eller mer og fartøy med fartsområde Bankfiske II eller større skal tilsynet utføres innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatetfor fartøy med lengde (L) under 24 meter som er sertifisert for Bankfiske I eller mindre fartsområder, skal tilsynet utføres innenfor et tidsintervall som samsvarer med bokstav c.utvendig tilsyn av skipets bunn ved hvert fornyelsestilsyn og mellomliggende tilsynUtvendige bunntilsyn skal skje når skipet er tørtDet skal aldri gå mer enn 36 måneder mellom to utvendige bunntilsynførstegangstilsyn og fornyelsestilsyn med fiskefartøy som ikke skal ha internasjonalt sertifikat for hindring av oljeforurensning (IOPP) eller sertifikat for hindring av luftforurensning (IAPP), skal også omfatte tiltak mot luft- og oljeforurensning.
+
+(2) Gjennomført mellomliggende tilsyn og tilsyn av radioinstallasjoner dokumenteres ved det aktuelle sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+(3) Tilsynet gjennomføres ikke før Sjøfartsdirektoratet har mottatt rederiets erklæring på fastsatt skjema om at kravene i relevante forskrifter er oppfylt.
+
+(4) Fiske- og fangstfartøy som skal ha påtegning om fart i polare farvann i fartssertifikatet etter [§ 26 første ledd](forskrift/2014-12-22-1893/§26/ledd/1), skal ha et førstegangstilsyn før påtegning. Førstegangstilsynet skal vise at krav for fart i polare farvann er oppfylt. Senere tilsyn harmoniseres med tilsynene etter første ledd.
+
+> Endret ved forskrifter [10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [19 des 2025 nr. 2820](forskrift/2025-12-19-2820) (i kraft 1 jan 2026, for skip med byggedato før 1 jan 2026 trer endringene i kraft 1 jan 2027).
+
+### § 28. Sertifikat for skip i oljevernberedskap
+
+(1) Skip som brukes i oljevernøvelser eller oljevernaksjoner skal i tillegg til sitt ordinære sertifikat eller fartøyinstruks ha sertifikat for skip i oljevernberedskap, med mindre tillatelsen til å gjøre slikt arbeid følger av det ordinære sertifikatet eller den ordinære fartøyinstruksen.
+
+(2) Sertifikat for skip i oljevernberedskap utstedes med samme utløpsdato som det ordinære sertifikatet eller den ordinære fartøyinstruksen. For skip som ikke har annet sertifikat, utstedes oljevernsertifikatet med varighet inntil 30 måneder etter avsluttet tilsyn.
+
+### § 29. Tilsyn for sertifikat for skip i oljevernberedskap
+
+Skip som skal ha sertifikat for skip i oljevernberedskap skal gjennomgå følgende tilsyn for å vise at kravene til skip i oljevernberedskap er oppfylt:førstegangstilsyn for slep og oljelenser før skipet tas i bruk som oljevernfartøyfornyelsestilsyn hvert femte år hvis skipet har fartssertifikat for lasteskip og lektere eller fartssertifikat for fiske- og fangstfartøyfornyelsestilsyn hver 30. måned for andre fartøy. Fornyelsestilsynet kan starte inntil seks måneder før sertifikatets utløpsdato uten at neste utløpsdato endres.
+
+> Endret ved [forskrifter 10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 30. Sertifikat for beredskapsfartøy
+
+(1) Skip som skal ha oppgaver i forbindelse med fare- og ulykkessituasjoner i petroleumsvirksomheten eller brukes ved vakthold rundt innretninger skal ha sertifikat for beredskapsfartøy i tillegg til sertifikat for lasteskip.
+
+(2) Sertifikat for beredskapsfartøy skal ha et vedlegg som viserberedskapstjenester fartøyet er godkjent foroperasjonelle begrensningerskipets beredskaps- og redningskapasitetberedskapsutstyr som skal være om bord.
+
+(3) Sertifikat for beredskapsfartøy utstedes med varighet inntil 5 år.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 31. Tilsyn for sertifikat for beredskapsfartøy
+
+(1) Skip som skal ha sertifikat for beredskapsfartøy skal gjennomgå følgende tilsyn for å vise at kravene til beredskapsfartøy er oppfylt:førstegangstilsyn før skipet tas i bruk som beredskapsfartøyårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag for sertifikatetfornyelsestilsyn hvert femte år.
+
+(2) Gjennomførte årlige tilsyn dokumenteres ved at sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 32. Sertifikatkrav for skip som skal slepe
+
+(1) Skip som skal slepe skal hasikkerhetssertifikater for lasteskip etter [§ 8](forskrift/2014-12-22-1893/§8) andre ledd, ellerfartssertifikat for lasteskip etter [§ 24](forskrift/2014-12-22-1893/§24) første ledd bokstav a eller b og ha påtegning for slep i fartssertifikatet. Eventuelle begrensninger for slep fremgår av fartssertifikatet.
+
+(2) Med slep menes sleping eller skyving av én eller flere gjenstander. Tauing av lette gjenstander, slik som en lettbåt, en lett flytebrygge eller tilsvarende, og korte forflytninger av en gjenstand innenfor et begrenset område anses ikke som sleping.
+
+> Endret ved [forskrifter 18 des 2015 nr. 1769](forskrift/2015-12-18-1769) (i kraft 1 jan 2016), [18 des 2015 nr. 1769](forskrift/2015-12-18-1769) (i kraft 1 jan 2018), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
+
+### § 33. Tilsyn for skip som skal slepe
+
+Skip som skal slepe skal gjennomgå førstegangstilsyn som viser at kravene til stabilitet, styrke og utrustning er oppfylt før skipet tas i bruk til slep.
+
+> Tilføyd ved [forskrift 18 des 2015 nr. 1769](forskrift/2015-12-18-1769) (i kraft 1 jan 2016), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 34. Kontroll og tilsyn for slepe- og ankerhåndteringsarrangement
+
+(1) Slepe- og ankerhåndteringsarrangement skal kontrolleres minst en gang i året.
+
+(2) Kontrollen etter første ledd skal utføres av kvalifisert personell om bord etter instruks fra produsenten. Kontrollen skal også omfatte nødutløsning. Etter nødutløsningsprøvene skal demontering foretas i den grad dette anses påkrevd.
+
+(3) Hvert femte år skal kontrollene som er nevnt i første ledd utføres med Sjøfartsdirektoratet eller anerkjent klasseselskap til stede.
+
+(4) Dokumentasjon om gjennomførte kontroller og tilsyn med slepe- og ankerhåndteringsarrangement skal oppbevares om bord.
+
+(5) Med kvalifisert personell menes personell som har fått opplæring av produsenten av utstyret til å gjennomføre årlige kontroller av vinsj, og som anses kompetent av rederiet.
+
+> Tilføyd ved [forskrift 18 des 2015 nr. 1769](forskrift/2015-12-18-1769) (i kraft 1 jan 2016), endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [16 des 2025 nr. 2652](forskrift/2025-12-16-2652) (i kraft 1 jan 2026).
+
+### § 34a. Internasjonalt sertifikat for ballastvannbehandling
+
+Skip med bruttotonnasje 400 eller mer i utenriksfart, og flyttbare innretninger i utenriksfart, som er bygget for å føre ballastvann, skal ha sertifikat for ballastvannbehandling.
+
+Sertifikat for ballastvannbehandling utstedes med varighet inntil fem år.
+
+Skip med gyldig samsvarsdokument som viser at skipet oppfyller kravene etter Den internasjonale konvensjon om kontroll og behandling av ballastvann og sedimenter fra skip 2004, skal ha sertifikat for ballastvannbehandling ved første årlige tilsyn, mellomliggende tilsyn eller fornyelsestilsyn gjennomført 8. september 2017 eller senere, men ikke senere enn 8. desember 2018.
+
+> Tilføyd ved [forskrift 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369).
+
+### § 34b. Tilsyn for internasjonalt sertifikat for ballastvannbehandling
+
+Skip og flyttbare innretninger som skal ha sertifikat for ballastvannbehandling, skal gjennomgå følgende tilsyn, basert på HSSC, for å vise at kravene til ballastvannbehandling er oppfylt:førstegangstilsyn før sertifikat utstedes første gangmellomliggende tilsyn mellom andre og tredje årsdag for sertifikatetfornyelsestilsyn hvert femte årårlig tilsyn innenfor et tidsintervall avgrenset til tre måneder før eller etter hver årsdag på sertifikatet.
+
+Hvis det gjøres en endring, utskifting eller vesentlig reparasjon av konstruksjon, utstyr, systemer, tilbehør, arrangementer og materiale som er del av rensesystemet for ballastvann, skal det gjennomføres tilsyn for å verifisere at kravene til ballastvannbehandling er oppfylt.
+
+Gjennomførte tilsyn dokumenteres ved at sertifikatet påtegnes av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+> Tilføyd ved [forskrift 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369), endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [1 juni 2022 nr. 951](forskrift/2022-06-01-951).
+
+### § 34c. Tilsyn med skip som ikke skal ha sertifikat for ballastvannbehandling
+
+Skip i utenriksfart som ikke skal ha sertifikat for ballastvannbehandling, jf. [§ 11](forskrift/2014-12-22-1893/§11)a, skal gjennomgå tilsyn for ballastvannbehandling vedførstegangstilsyn og andre eller tredje fornyelsestilsyn i en femårsperiode for sikkerhetssertifikat for passasjerskipførstegangstilsyn, fornyelsestilsyn og andre eller tredje periodiske tilsyn i sertifikatperioden for sikkerhetssertifikat for hurtiggående fartøyførstegangstilsyn og mellomliggende tilsyn i sertifikatperioden for fartssertifikat for lasteskipførstegangstilsyn og mellomliggende tilsyn i sertifikatperioden for fartssertifikat for fiske- og fangstfartøy.
+
+> Tilføyd ved [forskrift 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369), endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+## Kapittel 4. Sertifikats gyldighet og rederiets rapporteringsplikt
+
+### § 35. Beregning av sertifikatenes utløpsdato
+
+(1) Ved førstegangsutstedelse av sertifikat beregnes utløpsdatoen fra avsluttet dato for førstegangstilsyn.
+
+(2) Ved fornyelse av sertifikater beregnes ny utløpsdato frautløpsdatoen for det eksisterende sertifikatet når fornyelsestilsynet fullføres tre måneder før utløpsdatoen for det eksisterende sertifikatet eller seneredatoen for fullføring av fornyelsestilsynet når dette fullføres mer enn tre måneder før utløpsdatoen på det eksisterende sertifikatet.
+
+(3) Når skip eller flyttbare innretninger har ligget i opplag eller vært ute av drift på grunn av reparasjoner og endringer i en betydelig periode, kan ny varighet for sertifikater beregnes fra datoen for fornyelsestilsynet selv om dette fullføres etter utløpsdatoen for det eksisterende sertifikatet.
+
+(4) Når årlig, mellomliggende eller periodisk tilsyn gjennomføres før tidsperiodene angitt i forskriftenskal årsdagen på sertifikatet ved påtegning endres til en dato som ikke skal være mer enn tre måneder senere enn datoen da tilsynet ble avsluttetkan utløpsdatoen for sertifikatet forbli uendret, hvis det gjennomføres tilsyn slik at de tillatte intervallene mellom pålagte tilsyn ikke overskrides.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 36. Harmonisering av sertifikatenes utløpsdato
+
+(1) Utløpsdatoen for internasjonale sertifikat for passasjerskip på internasjonal reise skal harmoniseres med årsdagen for sikkerhetssertifikatet for passasjerskip. Utløpsdatoen på sertifikater med varighet på fem år skal harmoniseres med utløpsdatoen for skipets internasjonale lastelinjesertifikat.
+
+(2) Utløpsdatoen for internasjonale sertifikat for lasteskip skal harmoniseres medklassesertifikatets utløpsdato når sertifikatet er utstedt av anerkjent klassifikasjonsselskaputløpsdatoen for sikkerhetssertifikat for konstruksjon, for lasteskip uten klasse i anerkjent klassifikasjonsselskaputløpsdatoen for internasjonalt lastelinjesertifikat, for lasteskip med bruttotonnasje under 500 uten klasse i anerkjent klassifikasjonsselskap.
+
+(3) Utløpsdatoen for sertifikat for arbeids- og levevilkår trenger ikke harmoniseres etter første og andre ledd.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 37. Forlengelse av sertifikatenes varighet
+
+(1) Lasteskip, lektere, passasjerskip og flyttbare innretninger kan få sertifikatene påtegnet forlenget varighet med inntil fem måneder fra utløpsdatoen for sertifikatene når fornyelsestilsyn er fullført og nye sertifikater ikke kan plasseres om bord på skipet eller den flyttbare innretningen før de eksisterende sertifikatenes utløpsdato. Første punktum gjelder tilsvarende for sertifikat for ballastvannbehandling for fiske- og fangstfartøy.
+
+(2) Lasteskip, lektere og passasjerskip i utenriksfart eller en flyttbar innretning, som ikke er i en havn hvor tilsynet kan gjennomføres før sertifikatene utløper, kan etter søknad fra rederiet få påtegnet sertifikatene forlenget varighet med inntil tre måneder. Forlengelsen kan bare gis for å la skipet eller den flyttbare innretningen fullføre en reise til en havn der det kan inspiseres, og bare når forlengelsen er forsvarlig. Bestemmelsene i første og andre punktum gjelder tilsvarende for sertifikat for ballastvannbehandling for fiske- og fangstfartøy.
+
+(3) Fiske- og fangstfartøy kan få forlenget varigheten av fartssertifikat for fiske- og fangstfartøy med inntil ett år når Sjøfartsdirektoratet finner det rimelig, sertifikatet ikke tidligere har fått forlenget gyldighetstid og et fullstendig innvendig tilsyn, og et utvendig tilsyn så langt det er mulig uten slippsetting eller dokking, viser at fartøyet oppfyller kravene for sertifikat.
+
+(4) Fiske- og fangstfartøy som ikke er i norsk havn når fartssertifikatet utløper, kan få forlenget sertifikatets varighet fram til fartøyet kommer til en havn hvor tilsynet kan gjennomføres, likevel ikke lenger enn fem måneder etter den opprinnelige utløpsdatoen.
+
+(5) Skip eller flyttbar innretning med sertifikat utstedt for en kort reise der sertifikatet ikke er forlenget etter første eller andre ledd, kan etter søknad fra rederiet få sertifikatet påtegnet forlenget varighet med inntil én måned fra utløpsdatoen for sertifikatet. Med kort reise menes en reise hvor verken reisen fra avgangshavnen til ankomsthavnen eller returreisen overstiger 1000 nautiske mil. Bestemmelsene i første og andre punktum gjelder tilsvarende for sertifikat for ballastvannbehandling for fiske- og fangstfartøy.
+
+(6) Fiske- og fangstfartøy med sertifikat som ikke er forlenget etter fjerde ledd, kan gis inntil én måned forlenget varighet av sertifikatet.
+
+> Endret ved [forskrifter 8 sep 2017 nr. 1369](forskrift/2017-09-08-1369), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 38. Sertifikatets tilgjengelighet
+
+(1) Originale sertifikater etter denne forskriften skal være lett tilgjengelige om bord for kontroll.
+
+(2) MLC rapporten etter tilsyn av arbeids- og levevilkår skal gjøres tilgjengelig for alle som har sitt arbeid om bord. Sertifikat for arbeids- og levevilkår og erklæring om arbeids- og levevilkår skal være oppslått om bord på et sted hvor de er tilgjengelige for alle som har sitt arbeid om bord.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 39. Opphør av sertifikatets gyldighet
+
+(1) Et sertifikat er ugyldig nårdet er utløpttilsyn ikke er fullført innen fastsatte fristersertifikatet ikke er påtegnet av Sjøfartsdirektoratet eller andre med tilsynsmyndighetskipet eller den flyttbare innretningen er overført til et annet lands skipsregisterdet er gjort vesentlige endringer ved skipet eller den flyttbare innretningen, eller utstyr om bord, uten at tilsyn er gjennomførttilstanden til skipets eller den flyttbare innretningens skrog, maskineri eller utstyr reduseres i slik grad at kravene som ligger til grunn for sertifikatet ikke lenger er oppfylt.
+
+(2) Et ugyldig sertifikat kan bli gyldig igjen når manglende tilsyn blir fullført eller sertifikatet blir påtegnet av Sjøfartsdirektoratet eller andre med tilsynsmyndighet.
+
+(3) Sjøfartsdirektoratet kan kreve mer omfattende tilsyn når tilsyn ikke har vært utført innen fastsatte frister.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 40. Rederiets rapporteringsplikt
+
+Rederiet skal rapportere til Sjøfartsdirektoratet når skipet eller den flyttbare innretningenhar vært utsatt for en ulykke eller annen hendelse, eller det oppdages en mangel, som berører sikkerheten på en slik måte at det kan få innflytelse på sertifikatets gyldighet. Når skipet eller den flyttbare innretningen oppholder seg i en annen stats havn, skal relevante myndigheter i den staten også motta rapport.får slettet sin klasse i anerkjent klassifikasjonsselskap. Årsaken til slettingen skal opplyses.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+## Kapittel 5. Avsluttende bestemmelser
+
+### § 41. Dispensasjon
+
+(1) Sjøfartsdirektoratet kan dispensere fra sertifikatkravene i forskriften her når rederiet i skriftlig søknad godtgjør at dispensasjonen vil være sikkerhetsmessig forsvarlig. Dispensasjon kan gis tilskip i innenriksfart som må foreta en enkelt reise i et større fartsområde enn det er sertifisert for, også om reisen skal skje i utenriksfartskip i innenriksfart som skal føre flere passasjerer enn skipet er sertifisert forskip og flyttbare innretninger som ved kompenserende tiltak opprettholder sikkerhetsnivå som kreves i forskriftenskip og flyttbare innretninger som skal foreta prøvetur.
+
+(2) Skip og flyttbare innretninger kan få dispensasjon fra krav i forskriften dersom håndheving av kravene til konstruksjon, redning og radio medfører at nyskapende løsninger ikke kan brukes. For skip eller flyttbar innretning som skal på internasjonal reise kan dispensasjon etter dette leddet omfatte et hvilket som helst krav hvis staten skipet skal anløpe blir underrettet om dispensasjonen og godtar denne.
+
+> Endret ved forskrifter [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [24 jan 2022 nr. 118](forskrift/2022-01-24-118).
+
+### § 42. Ikrafttredelse
+
+(1) Forskriften trer i kraft 1. januar 2015.
+
+(2) Fra samme tid oppheves[forskrift 15. juni 1987 nr. 506](forskrift/1987-06-15-506) om besiktelse for utstedelse av sertifikater til passasjer-, lasteskip og lektere, og om andre besiktelser m.m.[forskrift 4. september 1987 nr. 855](forskrift/1987-09-04-855) om anmeldelse av nybygg, besiktelse og sertifisering m.v. av flyttbare innretninger.
+
+> Endret ved forskrift [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+### § 43. Endringer i andre forskrifter
+
+Med virkning fra 1. januar 2015 gjøres følgende endringer i andre forskrifter:
+
+I [forskrift 19. august 2013 nr. 998](forskrift/2013-08-19-998) om klagerett for den som har sitt arbeid om bord gjøres følgende endring:– – –
+
+I [forskrift 28. mars 2000 nr. 305](forskrift/2000-03-28-305) om besiktelse, bygging og utrustning av passasjerskip gjøres følgende endringer:– – –
+
+I [forskrift 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelse for fiske- og fangstfartøy med største lengde på 15 meter og derover gjøres følgende endringer:– – –
+
+I [forskrift 8. februar 2011 nr. 130](forskrift/2011-02-08-130) om bruk av fartøy i oljevern gjøres følgende endringer:– – –
+
+I [forskrift 16. oktober 1991 nr. 853](forskrift/1991-10-16-853) om beredskapsfartøy gjøres følgende endringer:– – –
+
+## Vedlegg 1 (Opphevet)
+
+> Vedlegg 1 med §§ 48 – 56 opphevet ved [forskrift 18 des 2015 nr. 1769](forskrift/2015-12-18-1769) (i kraft 1 jan 2018).

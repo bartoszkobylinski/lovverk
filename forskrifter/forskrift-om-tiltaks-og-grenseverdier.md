@@ -1,0 +1,252 @@
+---
+id: "sf-20111206-1358"
+slug: "forskrift-om-tiltaks-og-grenseverdier"
+type: "forskrift"
+ref_id: "forskrift/2011-12-06-1358"
+title: "Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier)"
+short_title: "Forskrift om tiltaks- og grenseverdier"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2013-01-01"
+last_change_in_force: "2026-04-10"
+last_updated: "2023-08-11"
+xml_hash: "8da9474df16ccdd84bf4c2839b8c436bd4007862498ddc52429254333882b621"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier)
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1-1. Formål
+
+Formålet med forskriften er å beskytte arbeidstakerne mot farer på grunn av fysiske, kjemiske eller biologiske faktorer i virksomheten ved å angi grenseverdier, tiltaksverdier og smitterisikogrupper.
+
+### § 1-2. Virkeområde
+
+Forskriften gjelder for virksomheter hvor arbeidstakere kan utsettes for fysiske, kjemiske eller biologiske faktorer.
+
+Forskriftens [kapittel 2](forskrift/2011-12-06-1358/kap2) om støy gjelder ikke for petroleumsvirksomheten til havs.
+
+> Endret ved [forskrift 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013).
+
+### § 1-3. Hvem forskriften retter seg mot
+
+Arbeidsgiver skal sørge for at bestemmelsene i denne forskriften blir gjennomført.
+
+Forskriftens kapitler 1, 4, 5 og 6 gjøres gjeldende for virksomheter som ikke sysselsetter arbeidstakere.
+
+Forskriftens kapitler 2 og 3 skal også gjennomføres av virksomheter som ikke sysselsetter arbeidstakere når det gjelder virksomheti bygge- og anleggsvirksomheti landbruket.
+
+Forskriften gjelder også leverandør av pusteluft.
+
+> Endret ved [forskrift 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013).
+
+### § 1-4. Definisjoner – støy
+
+I denne forskriften menes med:*Daglig støyeksponeringsnivå, LEX,8h :* ekvivalentnivå (LpAeq,T ) for en arbeidsdag normalisert til 8 timer i henhold til internasjonal standard ISO 1999:1990 punkt 3.5 og 3.6. Dette omfatter all støy på arbeidsplassen,*Grenseverdier:* verdier for støyeksponering som ikke skal overskrides,*Gruppe I:* arbeidsforhold hvor det stilles store krav til vedvarende konsentrasjon eller behov for å føre uanstrengt samtale og i spise- og hvilerom,*Gruppe II:* arbeidsforhold hvor det er viktig å føre samtale eller vedvarende store krav til presisjon, hurtighet eller oppmerksomhet,*Gruppe III:* arbeidsforhold med støyende maskiner og utstyr under forhold som ikke går inn under arbeidsgruppe I og II,*Toppverdi av lydtrykknivå, LpC,peak :* høyeste observerte C-veide lydtrykknivå målt i løpet av måletiden med målerinnstilling «peak»,*Tiltaksverdier:* verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen og uheldig belastning til et minimum.
+
+### § 1-5. Definisjoner – vibrasjoner
+
+I denne forskriften menes med:*Daglig eksponeringsverdi:* energiekvivalent middelverdi av den frekvensveide akselerasjonen gjennom arbeidsdagen korrigert til en referansetid på 8 timer (A(8)). A(8) = A(T)√T/8 hvor A(T) er daglig vibrasjonseksponering gjennom en arbeidsdag med samlet varighet T timer. For hånd- og armvibrasjoner fastsettes A(T) etter NS-EN-ISO-5349-1, [kapittel 4](forskrift/2011-12-06-1358/kap4) og [5](forskrift/2011-12-06-1358/kap5) og vedlegg A. For helkroppsvibrasjoner fastsettes A(T) etter NS-ISO-2631-1, [kapittel 5](forskrift/2011-12-06-1358/kap5) til 7 og vedlegg A og B som verdien for daglig vibrasjonseksponering i den akseretningen som gir høyest verdi når k-faktorer for sittende eller stående person benyttes,*Grenseverdi for daglig eksponering (A((8)):* daglig eksponeringsverdi som ikke skal overskrides,*Helkroppsvibrasjoner:* mekaniske vibrasjoner som overføres til hele kroppen og medfører risiko for helseskade, særlig i ryggraden, og som også kan innebære en sikkerhetsrisiko,*Hånd- og armvibrasjoner:* mekaniske vibrasjoner som overføres fra arbeidsutstyr til hånd eller arm og medfører risiko for skade på blodkar, skjelett, ledd, nerver eller muskler, og som også kan innebære en sikkerhetsrisiko,*Tiltaksverdi for daglig eksponering (A(8)):* daglig eksponeringsverdi som krever iverksetting av tiltak for å redusere risikoen til et minimum.
+
+> Endret ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+### § 1-6. Definisjoner – kjemikalier
+
+I denne forskriften menes med:*Fibre:* Partikler med lengde større enn 5 mikrometer, med diameter mindre eller lik 3 mikrometer, og med forholdet lengde:diameter større eller lik 3:1.*Grenseverdi:* Maksimumsverdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en arbeidstaker i en fastsatt referanseperiode på åtte timer.*Kjemikalie:* Grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke.
+
+> Endret ved [forskrifter 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013), [22 des 2014 nr. 1885](forskrift/2014-12-22-1885) (i kraft 1 jan 2015).
+
+### § 1-7. Definisjoner – biologiske faktorer
+
+I denne forskriften menes med:*Biologisk grenseverdi:* Grensen for konsentrasjonen av en gitt agens i et biologisk miljø, dens metabolitt eller en effektindikator.*Biologiske faktorer:* mikroorganismer, inkludert de som har blitt genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.Med mikroorganismer menes: mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.Med cellekultur menes: resultatet av in vitro-dyrking av celler fra flercellede organismer.*Levende biologiske faktorer:* en cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale.
+
+> Endret ved [forskrifter 2 juli 2020 nr. 1479](forskrift/2020-07-02-1479), [5 april 2024 nr. 581](forskrift/2024-04-05-581).
+
+### § 1-8. Definisjoner – stråling
+
+I denne forskrift menes med:*Elektromagnetisk felt:* statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz,*Grenseverdi:* verdier fastsatt ut fra biofysiske og biologiske hensyn, spesielt på bakgrunn av de vitenskapelig veletablerte korttids- og akutte direkte effekter som termiske effekter og elektrisk stimulering av vev, som ikke skal overskrides,*Grenseverdi for helsemessige virkninger:* de grenseverdier som kan gi utsatte arbeidstakere helseskadelige virkninger som oppvarming og stimulering av nerve- og muskelvev, som ikke skal overskrides,*Grenseverdi for sensoriske virkninger:* de grenseverdier som kan gi utsatte arbeidstakere forbigående sanseforstyrrelser og mindre endringer i hjernefunksjonene, som ikke skal overskrides,*Ikke-koherent optisk stråling:* kunstig optisk stråling, unntatt laserstråling,*Ioniserende stråling:* røntgenstråling, partikkelstråling, eller stråling fra radioaktivt stoff i bølgelengdeområde 0,01–10 nm,*Kunstig optisk stråling:* elektromagnetisk stråling i bølgelengdeområdet 100 nm–1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling (lys) og infrarød stråling,
+*Ultrafiolett stråling:* optisk stråling i bølgelengdeområde 100 nm–400 nm. Området oppdeles videre i UVA (315–400 nm), UVB (280–315 nm) og UVC (100–280 nm),
+*Synlig stråling:* optisk stråling i bølgelengdeområde 380 nm–780 nm,
+*Infrarød stråling:* optisk stråling i bølgelengdeområdet 780 nm–1 mm. Området deles videre i IR-A (780–1400 nm), IR-B (1400–3000 nm) og IR-C (3000 nm–1 mm),*Tiltaksverdi:* verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen og uheldig belastning til et minimum.
+
+> Endret ved [forskrifter 22 des 2014 nr. 1885](forskrift/2014-12-22-1885) (i kraft 1 jan 2015), [21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+### § 1-9. Dispensasjon
+
+Arbeidstilsynet, Havindustritilsynet og Luftfartstilsynet kan på sine områder gi dispensasjon fra forskriften dersom det foreligger særlige grunner, det er sikkerhets- og helsemessig forsvarlig og det ikke strider mot EØS-avtalen.
+
+> Endret ved [forskrifter 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013), [20 des 2018 nr. 2186](forskrift/2018-12-20-2186) (i kraft 1 jan 2019), [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
+
+## Kapittel 2. Støy
+
+### § 2-1. Tiltaksverdier
+
+Tiltaksverdiene for støyeksponering er:a)nedre tiltaksverdi for arbeidsforhold i gruppe I:LEX,1h = 55 dBb)nedre tiltaksverdi for arbeidsforhold i gruppe II:LEX,1h = 70 dBc)nedre tiltaksverdi for arbeidsforhold i gruppe III:LEX,8h = 80 dBd)øvre tiltaksverdier:LEX,8h = 85 dB og LpC,peak = 130 dB
+
+For arbeidsforhold i gruppene I og II skal støy fra egen aktivitet ikke inngå i vurderingen i forhold til nedre tiltaksverdi såfremt arbeidstakeren kan avbryte støyen. For spise- og hvilerom skal kun bakgrunnsstøy fra installasjoner, tilstøtende lokaler og omgivelser inngå i vurderingen.
+
+### § 2-2. Grenseverdier for støy
+
+Grenseverdier for støyeksponering er:daglig støyeksponeringsnivå, LEX,8h : 85 dBtoppverdi av lydtrykknivå, LpC,peak : 130 dB
+
+Ved fastleggingen av arbeidstakerens faktiske eksponering, skal det tas hensyn til den effektive dempingsvirkningen av påbudt personlig hørselsvern som arbeidstakeren skal bruke.
+
+## Kapittel 3. Vibrasjoner
+
+### § 3-1. Tiltaksverdier
+
+Tiltaksverdiene for den daglige eksponeringen (A(8)):for hånd- og armvibrasjoner: 2,5 m/s2,for helkroppsvibrasjoner: 0,5 m/s2.
+
+### § 3-2. Grenseverdier
+
+Grenseverdiene for den daglige eksponeringen (A(8)):for hånd- og armvibrasjoner: 5,0 m/s2,for helkroppsvibrasjoner: 1,1 m/s2.
+
+## Kapittel 4. Stråling
+
+### § 4-1. Grenseverdier for ioniserende stråling
+
+Følgende grenseverdier skal ikke overskrides:Grenseverdien for arbeidstakere over 18 år er 20 mSv per kalenderår.Stråledosen til øyelinsen skal ikke overstige 20 mSv per kalenderår.Stråledosen til hud, hender og føtter skal ikke overstige 500 mSv per kalenderår.For lærlinger mellom 16 og 18 år som bruker strålekilder som ledd i sin utdannelse, gjelder i stedet for dosene angitt under a–c dosegrenser på henholdsvis 5, 15 og 150 mSv per kalenderår.For gravide kvinner skal dosen til fosteret ikke overstige 1 mSv for den resterende delen av svangerskapet, dvs. etter at graviditet er kjent.
+
+> Endret ved [forskrift 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017).
+
+### § 4-2. Grenseverdier for kunstig optisk stråling
+
+Grenseverdier for eksponering for kunstig optisk stråling, unntatt laserstråling, er fastsatt i vedlegg 3. Grenseverdier for eksponering for laserstråling er fastsatt i vedlegg 4.
+
+### § 4-3. Tiltaks- og grenseverdier for elektromagnetisk felt
+
+Tiltaks- og grenseverdier ved eksponering for elektromagnetisk felt er fastsatt i vedlegg 5, 6 og 7.
+
+Eksponering kan overskride grenseverdiene dersom eksponeringen skjer i forbindelse med installering, utprøving, bruk, utvikling, vedlikehold eller forskning i tilknytning til magnetisk resonansbildedannelse (MRI)-utstyr til pasienter i helsesektoren, dersom følgende er oppfylt:risikovurderingen viser at grenseverdiene er overskredet,samtlige tekniske og organisatoriske tiltak er innført,omstendighetene begrunner overskridelsen av grenseverdiene,arbeidsplassens, arbeidsutstyrets eller arbeidsmetodens særlige karakter er tatt i betraktning, ogarbeidsgiveren påviser at arbeidstakerne fortsatt er beskyttet mot helseskadelige virkninger og sikkerhetsrisiko, herunder sikrer at de instrukser for sikker bruk som produsenten av utstyret har gitt har blitt fulgt.
+
+Eksponering kan overskride grenseverdiene midlertidig i bestemte sektorer eller i forbindelse med bestemte aktiviteter som ikke er omfattet av andre ledd, dersom følgende er oppfylt:risikovurderingen viser at grenseverdiene er overskredet,samtlige tekniske og organisatoriske tiltak er innført,arbeidsplassens, arbeidsutstyrets eller arbeidsmetodens særlige karakter er tatt i betraktning, ogarbeidsgiveren påviser at arbeidstakerne fortsatt er beskyttet mot helseskadelige virkninger og sikkerhetsrisiko, herunder ved å benytte sammenlignbare, mer spesifikke og internasjonalt anerkjente standarder og retningslinjer.
+
+> Tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+## Kapittel 5. Kjemikalier
+
+### § 5-1. Grenseverdier for forurensninger i arbeidsatmosfæren
+
+Grenseverdier ved forurensning i arbeidsatmosfæren er gitt i vedlegg 1 til forskriften.
+
+> Endret ved [forskrift 22 des 2014 nr. 1885](forskrift/2014-12-22-1885) (i kraft 1 jan 2015).
+
+### § 5-2. Biologiske grenseverdier
+
+1. Grenseverdi for bly er 45 µg Pb per liter blod for kvinner i fertil alder og 150 µg Pb per liter blod for øvrige arbeidstakere
+2. Grenseverdi for kvikksølv i urin er 30 μg Hg/g kreatinin.
+
+> Endret ved forskrifter [19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013), [10 april 2026 nr. 580](forskrift/2026-04-10-580).
+
+### § 5-3. Krav til sand og annet blåsemiddel som blir brukt til sandblåsing
+
+Sand og annet blåsemiddel som blir brukt til sandblåsing skal ikke være kreftfremkallende.
+
+Blåsemidler skal ikke inneholde bly eller blyforbindelser, biologisk tilgjengelig nikkel eller mer enn 1 vektprosent kvarts eller andre krystallinske silika.
+
+> Endret ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+### § 5-4. Krav til sement og sementholdige stoffblandinger
+
+Det skal ikke brukes sement og sementholdige stoffblandinger som i hydrert form inneholder mer enn 2 mg løselig seksverdig krom pr. kg. tørr sement.
+
+Kravet i første ledd gjelder ikke for bruk i forbindelse med kontrollerte, lukkede og helautomatiserte prosesser, hvor sement og sementholdige stoffblandinger utelukkende behandles maskinelt, og det ikke er mulighet for kontakt med huden.
+
+> Endret ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+### § 5-5. Krav til pusteluft fra fyllingsanlegg
+
+Trykkluft fra fyllingsanlegget skal være mest mulig fri for forurensninger og fri for lukt og smak.
+
+Følgende verdier skal ikke overskrides:10 ppm (11 mg/m3) karbonmonoksid (CO)500 ppm (900 mg/m3) karbondioksid (CO2 )1 mg/m3 olje50 mg/m3 vann for flasker med fyllingstrykk 200 bar og 30 mg/m3 vann for flasker med fyllingstrykk 300 bar
+
+O2 -innholdet skal være 21,0 % +/– 0,5 %.
+
+> Endret ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+### § 5-6. Forbud mot arbeid med spesielle kjemikalier
+
+Forbud mot arbeid med spesielle kjemikalier fremgår av [forskrift om organisering, ledelse og medvirkning kapittel 12](forskrift/2011-12-06-1355/kap12) og forskrift om utførelse av arbeid [kapittel 3](forskrift/2011-12-06-1355/kap3) og 4.
+
+## Kapittel 6. Klassifisering av biologiske faktorer
+
+### § 6-1. Liste over klassifiserte biologiske faktorer (smitterisikogrupper)
+
+Som grunnlag for beskyttelsestiltak mot biologiske farekilder skal arbeidsgiveren anvende listen i vedlegg 2 ved vurderingen av den risiko som biologiske faktorer utgjør.
+
+> Endret ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016).
+
+## Kapittel 7. Avsluttende bestemmelser
+
+### § 7-1. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av denne, eller medvirkning til dette, er straffbart i henhold til [arbeidsmiljøloven kapittel 19](lov/2005-06-17-62/kap19).
+
+### § 7-2. Overtredelsesgebyr
+
+Dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser i forskriften her eller vedtak gitt i medhold av denne, kan virksomheten ilegges overtredelsesgebyr etter [arbeidsmiljøloven § 18-10](lov/2005-06-17-62/§18-10).
+
+> Tilføyd ved [forskrift 30 des 2013 nr. 1718](forskrift/2013-12-30-1718) (i kraft 1 jan 2014).
+
+### § 7-3. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2013.
+
+> Endret ved [forskrift 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013, tidligere § 7-3), [30 des 2013 nr. 1718](forskrift/2013-12-30-1718) (i kraft 1 jan 2014, tidligere § 7-2).
+
+## Vedlegg 1: Liste over grenseverdier for forurensninger i arbeidsatmosfæren
+
+For petroleumsvirksomhet til havs gjelder grenseverdiene med sikkerhetsfaktorer som angitt i [aktivitetsforskriften § 36](forskrift/2010-04-29-613/§36). For virksomheten på landanlegg, jf. [rammeforskriften § 6](forskrift/2010-02-12-158/§6) e, skal det prosjekteres med en sikkerhetsfaktor i forhold til grenseverdi.
+
+- A: Kjemikalier som skal betraktes som at de fremkaller allergi eller annen overfølsomhet i øynene eller luftveier, eller som skal betraktes som at de fremkaller allergi ved hudkontakt.
+- E: EU har en veiledende grenseverdi og/eller anmerkning for stoffet.
+- G: EU har fastsatt en bindende grenseverdi og/eller anmerkning for stoffet.
+- H: Kjemikalier som kan tas opp gjennom huden.
+- K: Kjemikalier som skal betraktes som kreftfremkallende.
+- M: Kjemikalier som skal betraktes som mutagene.
+- R: Kjemikalier som skal betraktes som reproduksjonstoksiske.
+- S: Korttidsverdi er en verdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en arbeidstaker som ikke skal overskrides i en fastsatt referanseperiode. Referanseperioden er 15 minutter hvis ikke annet er oppgitt.
+- T: Takverdi er en øyeblikksverdi som angir maksimalkonsentrasjon av et kjemikalie i pustesonen som ikke skal overskrides.
+
+> Vedlegg 1 endret ved [forskrifter 19 des 2012 nr. 1376](forskrift/2012-12-19-1376) (i kraft 1 jan 2013), [7 jan 2013 nr. 12](forskrift/2013-01-07-12), [22 des 2014 nr. 1885](forskrift/2014-12-22-1885) (i kraft 1 jan 2015), [26 juni 2015 nr. 799](forskrift/2015-06-26-799), [21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), [21 aug 2018 nr. 1255](forskrift/2018-08-21-1255), [23 mars 2020 nr. 402](forskrift/2020-03-23-402) (i kraft 1 april 2020), [28 juni 2021 nr. 2248](forskrift/2021-06-28-2248) (i kraft 1 juli 2021), [19 des 2022 nr. 2350](forskrift/2022-12-19-2350), [5 april 2024 nr. 581](forskrift/2024-04-05-581), [18 des 2025 nr. 2660](forskrift/2025-12-18-2660) (i kraft 21 des 2025), [10 april 2026 nr. 580](forskrift/2026-04-10-580).
+
+## Vedlegg 2: Liste over klassifiserte biologiske faktorer (smitterisikogrupper)
+
+Levende biologiske faktorer klassifiseres i fire smitterisikogrupper i forhold til den infeksjonsfare de representerer:*smitterisikogruppe 1:* en biologisk faktor som vanligvis ikke forårsaker infeksjonssykdom hos mennesker*smitterisikogruppe 2:* en biologisk faktor som kan forårsake infeksjonssykdom hos mennesker og være til fare for arbeidstakerne, det er usannsynlig at den vil spre seg til samfunnet og det finnes vanligvis effektive forebyggende tiltak eller behandling*smitterisikogruppe 3:* en biologisk faktor som kan forårsake alvorlig infeksjonssykdom hos mennesker og utgjøre en alvorlig fare for arbeidstakerne, det kan være risiko for spredning til samfunnet, men det finnes vanligvis effektive forebyggende tiltak eller behandling*smitterisikogruppe 4:* en biologisk faktor som forårsaker alvorlig infeksjonssykdom hos mennesker og utgjør en alvorlig fare for arbeidstakerne, det kan være stor risiko for spredning til samfunnet og det finnes vanligvis ingen effektive forebyggende tiltak eller behandling.
+
+Listen inneholder kun biologiske faktorer som forårsaker infeksjonssykdommer hos mennesker. I tillegg gir listen en oversikt over følgende merknader:*A:* kan forårsake allergiske reaksjoner*D:* Registre over arbeidstakere som utsettes for denne biologiske faktoren skal oppbevares i minst 10 år etter siste kjente eksponering*T:* Toksindannende, kan forårsake toksiske reaksjoner*V:* Effektiv vaksine finnes
+
+> Endret ved forskrifter [6 april 2020 nr. 695](forskrift/2020-04-06-695), [24 mars 2023 nr. 412](forskrift/2023-03-24-412), [15 mai 2024 nr. 785](forskrift/2024-05-15-785).
+
+## Vedlegg 3: Ikke-koherent optisk stråling
+
+De biofysisk relevante eksponeringsverdiene for optisk stråling kan bestemmes ved hjelp av nedenstående formler. Formlene som skal benyttes, avhenger av området til strålingsemisjonen fra kilden, og resultatene bør sammenlignes med de tilsvarende grenseverdier for eksponering som er angitt i tabell 3.1. Det kan være relevant med mer enn en eksponeringsverdi og tilsvarende eksponeringsgrense for en gitt optisk strålingskilde.
+
+I denne forskriften kan formlene ovenfor erstattes med følgende uttrykk, samtidig som de diskrete verdiene fastsatt i nedenstående tabeller benyttes:a)\(E_{\text{eff}} = \sum\limits_{\lambda = 180 \text{ nm}}^{\lambda = 400 \text{ nm}} E_{\lambda} \cdot S(\lambda) \cdot \Delta \lambda\)og (Heff = Eeff · Δt)b)\(E_{\text{UVA}} = \sum\limits_{\lambda = 315 \text{ nm}}^{\lambda = 400 \text{ nm}} E_{\lambda} \cdot \Delta \lambda\)og (HUVA = EUVA · Δt)c), d)\(L_{\text{B}} = \sum\limits_{\lambda = 300 \text{ nm}}^{\lambda = 700 \text{ nm}} L_{\lambda} \cdot B(\lambda) \cdot \Delta \lambda\)e), f)\(E_{\text{B}} = \sum\limits_{\lambda = 300 \text{ nm}}^{\lambda = 700 \text{ nm}} E_{\lambda} \cdot B(\lambda) \cdot \Delta \lambda\)g) – l)\(L_{\text{R}} = \sum\limits_{\lambda_1}^{\lambda_2} L_{\lambda} \cdot R(\lambda) \cdot \Delta \lambda\)(Se tabell 3.1 for egnede verdier av λ1 og λ2 )m), n)\(E_{\text{IR}} = \sum\limits_{\lambda = 780 \text{ nm}}^{\lambda = 3000 \text{ nm}} E_{\lambda} \cdot \Delta \lambda\)o)\(E_{\text{skin}} = \sum\limits_{\lambda = 380 \text{ nm}}^{\lambda = 3000 \text{ nm}} E_{\lambda} \cdot \Delta \lambda\)og (Hskin = Eskin · Δt)
+
+## Vedlegg 4: Optisk stråling fra laser
+
+De biofysisk relevante eksponeringsverdiene for optisk stråling kan bestemmes ved hjelp av nedenstående formler. Formlene som skal benyttes, avhenger av bølgelengden til og varigheten av strålingsemisjonen fra kilden, og resultatene bør sammenlignes med de tilsvarende grenseverdiene for eksponering som er angitt i tabell 4.2 til 4.4. Det kan være relevant med mer enn en eksponeringsverdi og tilsvarende eksponeringsgrense for en gitt kilde for optisk stråling fra laser.
+
+Koeffisientene som benyttes som beregningsfaktorer i tabell 4.2 til 4.4 er angitt i tabell 4.5, og korrigeringer for gjentatt eksponering er angitt i tabell 4.6. $$E = \frac{dP}{dA} [Wm^{-2}]$$$$H = \int\limits_0^t E(t) \cdot dt [Jm^{-2}]$$
+
+Hver av følgende tre generelle regler bør anvendes på alle gjentatte eksponeringer som skyldes gjentatte laserimpulser eller laserskanning:Eksponeringen for enhver enkeltimpuls i et impulstog skal ikke overskride grenseverdien for eksponering for en enkeltimpuls av denne impulsvarigheten.Eksponeringen for enhver impulsgruppe (eller undergruppe av impulser i et impulstog) innenfor et tidsrom t skal ikke overskride grenseverdien for eksponering for tidsrommet t.Eksponeringen for enhver enkeltimpuls i en gruppe impulser skal ikke overskride grenseverdien for eksponering for en enkeltimpuls multiplisert med en korreksjonsfaktor for akkumulert varmevirkning Cp =N-0,25, der N er antallet impulser. Denne regelen gjelder bare eksponeringsgrenser som skal gi beskyttelse mot termisk skade der alle impulser avgitt i et kortere tidsrom enn Tmin anses som en enkeltpuls.
+
+## Vedlegg 5: Nedre tiltaksverdier for elektromagnetisk felt
+
+> Vedlegg 5 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrift 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017).
+
+## Vedlegg 6: Øvre tiltaksverdier for elektromagnetisk felt
+
+> Vedlegg 6 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrifter 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017), [20 des 2017 nr. 2353](forskrift/2017-12-20-2353) (i kraft 1 jan 2018).
+
+## Vedlegg 7: Grenseverdier for elektromagnetisk felt
+
+> Vedlegg 7 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrift 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017).

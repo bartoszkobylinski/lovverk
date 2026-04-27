@@ -1,0 +1,54 @@
+---
+id: "sf-20250122-0054"
+slug: "endr-i-yrkestransportforskriften"
+type: "forskrift"
+ref_id: "forskrift/2025-01-22-54"
+title: "Forskrift om endring i yrkestransportforskriften"
+short_title: "Endr. i yrkestransportforskriften"
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: "2025-03-06"
+last_updated: null
+xml_hash: "c14aa337492f300696d2118ab3496d6ea7520b39dec775188528929935edd2e7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i yrkestransportforskriften
+
+## I
+
+1. Løyve for godstransport, løyve som gir innehaveren rett til å drive godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 3500 kg,
+2. Internasjonalt varebilløyve, løyve som gir innehaveren rett til å drive internasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg,
+3. Nasjonalt varebilløyve, løyve som gir innehaveren rett til å drive nasjonal godstransport med motorvogn eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg og opp til 3500 kg.
+
+Den som mot vederlag vil drivegodstransport med motorvogn1 eller motorvogn med tilhenger med tillatt totalvekt over 2500 kg, ellerpersontransport i rute med motorvogn eller fartøy, ellerpersontransport med motorvogn utenfor rute,må ha løyve fra vedkommende løyvemyndighet.
+
+For den som har eller søker om løyve for godstransport, internasjonalt eller nasjonalt varebilløyve eller turvognløyve fremgår kravene til etablering av forordning [(EF) nr. 1071/2009](eu/32009r1071) art. 5.
+
+For den som har eller søker om løyve for godstransport, internasjonalt varebilløyve og turvognløyve følger de nærmere kravene til faglig kompetanse og dokumentasjon av slik kompetanse av forordning [(EF) nr. 1071/2009](eu/32009r1071) art. 8 og 21. Kravet om faglig kompetanse anses å være oppfylt dersom søkeren enten kan fremlegge vitnemål for bestått eksamen, innehar løyve for den løyvetype det søkes om, eller har ledet et transportforetak sammenhengende i perioden på 10 år før 4. desember 2009. For søkere om internasjonalt varebilløyve, anses kravet om faglig kompetanse å være oppfylt dersom søkeren har ledet et transportforetak sammenhengende i perioden på 10 år før 20. august 2020.
+
+For den som har eller søker om nasjonalt varebilløyve må søkeren kunne dokumentere nødvendig kunnskap innen yrkestransport med tilhørende forskrifter, [vegtrafikkloven](lov/1965-06-18-4), [arbeidsmiljøloven](lov/2005-06-17-62) og [ferieloven](lov/1988-04-29-21), opplæring av ansatte, internkontroll, foretaksformer, økonomiforståelse, skatter og avgifter. Statens vegvesen fastsetter det nærmere innholdet i kravene til fagkompetanse for nasjonalt varebilløyve. Kravet om faglig kompetanse anses å være oppfylt dersom søkeren har ledet et transportforetak sammenhengende i perioden på 10 år før 1. januar 2026, kan fremlegge vitnemål for bestått eksamen hos Statens vegvesen eller oppfyller kravene i første ledd. Statens vegvesen kan godkjenne vitnemål eller kompetansebevis utstedt av offentlig myndighet i annen EØS-stat eller Sveits som bevis på tilsvarende kompetanse.
+
+> Endret ved forskrift [6 mars 2025 nr. 368](forskrift/2025-03-06-368).
+
+Den som søker om løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve, turvognløyve, eller drosjeløyve skal avlegge løyveeksamen hos Statens vegvesen.
+
+[Er den som har eller søker om løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve eller turvognløyve et selskap eller annen juridisk person, følger det av forordning [(EF) nr. 1071/2009](eu/32009r1071) hvem som skal oppfylle kravene i [§ 4](forskrift/2003-03-26-401/§4), jf. [§ 6](forskrift/2003-03-26-401/§6)– [§ 8](forskrift/2003-03-26-401/§8).] I tillegg må styrets leder oppfylle kravene til god vandel etter [§ 6](forskrift/2003-03-26-401/§6).
+
+> Endret ved forskrift [6 mars 2025 nr. 368](forskrift/2025-03-06-368) slik at første setning er satt i kraft og innarbeidet i opprinnelig forskrift 6 mars 2025.
+
+Dersom godkjent transportleder eller daglig leder fratrer virksomheten, skal dette meldes løyvemyndigheten snarest og senest innen 28 dager. Løyvene kalles tilbake dersom ikke virksomheten innen 3 måneder etter fratreden kan dokumentere at det er ansatt ny transportleder eller daglig leder som fyller kravene i [§ 6](forskrift/2003-03-26-401/§6) og/eller [§ 8](forskrift/2003-03-26-401/§8). For virksomhet som har løyve for godstransport, internasjonalt varebilløyve, nasjonalt varebilløyve eller turvognløyve gjelder tilsvarende for styrets leder når virksomheten har et styre.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.
+
+Endringene i [§ 6 første ledd](forskrift/2003-03-26-401/§6/ledd/1) og [§ 10 første ledd første punktum](forskrift/2003-03-26-401/§10/ledd/1/setning/1) trer i kraft 6. mars 2025.
+
+> Endret ved forskrift [6 mars 2025 nr. 368](forskrift/2025-03-06-368).

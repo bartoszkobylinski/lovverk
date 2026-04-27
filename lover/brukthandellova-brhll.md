@@ -1,0 +1,72 @@
+---
+id: "nl-19991222-105"
+slug: "brukthandellova-brhll"
+type: "lov"
+ref_id: "lov/1999-12-22-105"
+title: "Lov om handelsverksemd med brukte og kasserte ting (brukthandellova)"
+short_title: "Brukthandellova – brhll"
+language: "nn"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2000-01-01"
+last_change_in_force: "2024-07-01"
+last_updated: "2021-09-27"
+xml_hash: "3402df44f2eac51d0e8111200ba67cdd0b86b1626b825b7d551dc6b147c98ae1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om handelsverksemd med brukte og kasserte ting (brukthandellova)
+
+## § 1. Verkeområde, formål m.v.
+
+Denne lova gjeld handelsverksemd med brukte og kassertevarer av edelt metall,edelsteinar og perler,kulturgjenstandar,kunstverk, samleobjekt og antikvitetar,motorvogner og tilhengjarar til motorvogner.Departementet fastset nærare forskrifter om kva for varer og gjenstandar som skal reknast for omfatta av verkeområdet etter punkt 1 til 5.
+
+Som handelsverksemd vert rekna handel med varer i næring for eiga eller framand rekning og i eige eller i framand namn. Opptak av bestilling av varer i næring for seinare levering vert òg rekna som handelsverksemd.
+
+Handelsverksemd skal drivast i samsvar med god forretningsskikk.
+
+Formålet med lova er å førebyggje omsetning av stolne eller ulovleg mottekne gjenstandar og å lette politiets arbeid med å oppspore slike gjenstandar.
+
+Kongen gir forskrift om bruken av lova på Svalbard og kan fastsetje særlege reglar med omsyn til dei stadlege tilhøva.
+
+> Endra ved lov [14. juni 2024 nr. 38](lov/2024-06-14-38) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 957](forskrift/2024-06-14-957)).
+
+## § 2. Krav om løyve frå politiet
+
+Handelsverksemd med og oppkjøp med sikte på sal av brukte og kasserte varer og gjenstandar som nemnt i [§ 1 første ledd](lov/1999-12-22-105/§1/ledd/1) krev løyve frå politiet. Ein må ha løyve alle stader der verksemda vert driven, både på innkjøpsstad og salsstad.
+
+Løyve som nemnt i første ledd kan bli nekta og kan trekkjast attende dersom måten verksemda vert driven på, eller andre forhold, gir grunn til å frykte misbruk. Slike vedtak kan klagast inn for departementet etter reglane i [forvaltningslova §§ 28-34](lov/1967-02-10/§28).
+
+> Endra ved lov [14. juni 2024 nr. 38](lov/2024-06-14-38) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 957](forskrift/2024-06-14-957)).
+
+## § 3. Unnatak frå politiløyve
+
+Føresegnene i [§ 2](lov/1999-12-22-105/§2) gjeld ikkje for auksjonsverksemd som vert driven av advokatar.
+
+> Endra med [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)).
+
+## § 4. Forskriftsheimel
+
+Departementet kan gi forskrifter om verksemd som nemnt i [§ 2](lov/1999-12-22-105/§2), og verksemd som nemnt i [§ 3](lov/1999-12-22-105/§3).
+
+Departementet kan òg gi forskrifter om meldeplikt til politiet og om føring av protokoll osv., for foretak som skaffar seg brukte og kasserte ting til bruk i eiga bedrift.
+
+## § 5. Straff
+
+Den som forsettleg eller aktlaust bryt føresegner gitt i eller i medhald av denne lova, vert straffa med bøter eller under skjerpande forhold med fengsel i inntil tre månader.
+
+> Endra med [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 6. Ikraftsetjings- og overgangsreglar
+
+Lova gjeld frå den tid1 Kongen fastset. Frå same tidspunkt vert [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet oppheva.
+
+Løyve frå politiet gitt med heimel i [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet gjeld òg etter ikraftsetjinga av lova her.
+
+## § 7. Endringar i andre lover
+
+Frå den tid lova trer i kraft vert det gjort følgjande endringar i andre lover: – – –

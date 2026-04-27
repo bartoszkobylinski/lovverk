@@ -1,0 +1,36 @@
+---
+id: "sf-20250911-1817"
+slug: "forskrift-om-endring-i-forskrift-til-gjennomføring-av-haag-konvensjonen-15-april-1958-om-anerkjennelse-og-fullbyrding-av-avgjørelser-om-underholdsbidrag-til-barn"
+type: "forskrift"
+ref_id: "forskrift/2025-09-11-1817"
+title: "Forskrift om endring i forskrift til gjennomføring av Haag-konvensjonen 15. april 1958 om anerkjennelse og fullbyrding av avgjørelser om underholdsbidrag til barn"
+short_title: null
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "0f41ce824f19a7999b86b75050e9af461194ae814b5751132d99b240cf873301"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift til gjennomføring av Haag-konvensjonen 15. april 1958 om anerkjennelse og fullbyrding av avgjørelser om underholdsbidrag til barn
+
+## I
+
+Avgjørelsen anses truffet av kompetent myndighet såframt den er truffet av:myndighetene i den stat der den bidragspliktige hadde sitt bosted på det tidspunkt da saken ble reist;myndighetene i den stat der den bidragsberettigte hadde sitt bosted på det tidspunkt da saken ble reist;Barne- og familiedepartementet kan dog bestemme at dette ikke skal gjelde avgjørelser truffet i en stat som ikke anerkjenner kompetanse for norske myndigheter på grunnlag av bidragsberettigtes bosted;den myndighet som den bidragspliktige har godtatt enten uttrykkelig eller ved å innlate seg på sakens realitet uten å ta forbehold for kompetansen.
+
+Blir begjæringen tatt til følge, sendes saken til Innkrevingsmyndigheten, til innkreving.
+
+Om bidragsskyldnerens plikt til å betale gebyr og yte refusjon for Innkrevingsmyndighetens arbeid med innkrevingen, gjelder de vanlige regler.
+
+Bidragsberettigede som oppholder seg her i riket, kan rette begjæring til Innkrevingsmyndigheten om å få innkrevet underholdsbidrag i utlandet etter Haag-konvensjonen 15. april 1958 om anerkjennelse og fullbyrding av avgjørelser om underholdsbidrag til barn. Innkrevingsmyndigheten sender innkrevingsbegjæringen til kompetent utenlandsk myndighet.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

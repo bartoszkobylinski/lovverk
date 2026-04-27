@@ -1,0 +1,118 @@
+---
+id: "nl-20090619-095"
+slug: "voksenopplæringsloven"
+type: "lov"
+ref_id: "lov/2009-06-19-95"
+title: "Lov om voksenopplæring (voksenopplæringsloven)"
+short_title: "Voksenopplæringsloven"
+language: "nb"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2010-01-01"
+last_change_in_force: "2021-01-01"
+last_updated: "2021-09-09"
+xml_hash: "501e82b6582e2b3c281a22fe31731a1275eb32fe91062158be6aea8a8cc18167"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om voksenopplæring (voksenopplæringsloven)
+
+## § 1. Formål
+
+Formålet med denne loven er å fremme livslang læring ved å legge til rette for organisert kursaktivitet ved siden av det formelle utdanningssystemet. Loven skal bidra til motivasjon og tilgang til kunnskap og kompetanse for alle, og slik fremme den enkeltes utvikling og møte behovene i samfunns- og arbeidslivet.
+
+Loven skal ivareta opplæring og deltakelse i frivillige organisasjoner, bidra til å bevare et mangfoldig kulturliv og ta vare på kulturarven gjennom læring.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 2. Virkeområde
+
+Loven gjelder godkjenning for statstilskudd for godkjente studieforbund, og vilkår for slike tilskudd.
+
+Kongen gir forskrift om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold.
+
+> Endret ved lover [16 juni 2017 nr. 70](lov/2017-06-16-70) (ikr. 1 aug 2017 iflg. [res. 16 juni 2017 nr. 754](forskrift/2017-06-16-754)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 3. Definisjoner
+
+I denne loven menes med:*Studieforbund:* ideell og demokratisk organisasjon godkjent etter [lovens § 5](lov/2009-06-19-95/§5), som utfører oppgaver innenfor voksenopplæring, og som har flere medlemsorganisasjoner.*Samisk studieforbund:* studieforbund av og blant samer.*Medlemsorganisasjon i studieforbund:* organisasjon som utfører oppgaver innenfor voksenopplæring, og som er medlem av et studieforbund, jf. [§ 5](lov/2009-06-19-95/§5) bokstav f.*Politiske partiers studieforbund:* Studieforbund der medlemsorganisasjonene er tilknyttet et politisk parti, og som har som formål å tilby organisert opplæring.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 4. Overordnede mål for studieforbundenes kursaktivitet
+
+Studieforbundene skal drive sin kursaktivitet på grunnlag av minst ett av følgende overordnede mål:å bidra til å vedlikeholde og styrke demokratiet og legge grunnlag for bærekraftig utvikling ved å engasjere og utvikle aktive medborgere.å senke terskelen for læring og deltakelse i frivillige organisasjoner.å bekjempe utenforskap og bidra til inkludering.å bidra til motivasjon og tilgang til kunnskap og kompetanse for alle og slik møte behov i et samfunn og arbeidsliv i stadig endring.å styrke kulturelt mangfold og bevare kulturarven gjennom læring.å være en selvstendig arena for læring og et supplement til offentlige utdanningstilbud for voksne.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 5. Godkjenning av studieforbund
+
+Departementet kan etter søknad godkjenne et studieforbund for tilskudd etter loven.
+
+I tillegg til å drive sin opplæringsvirksomhet i samsvar med [§ 4](lov/2009-06-19-95/§4), må et studieforbund oppfylle følgende vilkår:Det må ha opplæring som hovedformål, og ellers ha et ideelt formål.Det må ha betegnelsen «studieforbund» i navnet.Det må ha en demokratisk oppbygning.Det må ha en virksomhet over hele landet og en regional forankring.Studieforbundets kursvirksomhet må utgjøre et minimumsnivå. Departementet fastsetter minimumsnivået, samt regler for rapportering, i forskrift.Studieforbundet må ha et minimum antall medlemsorganisasjoner. Departementet fastsetter minimumstallet i forskrift.
+
+Hva gjelder bestemmelsene i bokstavene d, e og f i annet ledd, fastsetter departementet i forskrift egne krav for samiske studieforbund. Hva gjelder bestemmelsen i bokstav e i annet ledd, fastsetter departementet i forskrift egne krav for politiske partiers studieforbund.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 6. Modell for statstilskudd til studieforbund
+
+Studieforbund som er godkjent etter § 5 i loven, kan få statstilskudd. Studieforbund og deres medlemsorganisasjoner kan kun motta statstilskudd etter denne loven fra departementet som studieforbundet er godkjent av.
+
+Departementet kan gi forskrift om tilskudd, rapportering og kontroll.
+
+Departementet gir forskrift om tilskudd for samiske studieforbund.
+
+Kommuner og fylkeskommuner kan gi tilskudd til studieforbund ut fra kommunale og fylkeskommunale planer.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 7. Gratis bruk av undervisningslokaler
+
+Undervisningslokaler der driftsutgiftene dekkes av det offentlige, skal etter søknad stilles vederlagsfritt til disposisjon for studieforbund og medlemsorganisasjoner ved avholdelse av kurs med tilskudd etter loven. Departementet gir nærmere forskrifter.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 8. Fellesorgan for studieforbund
+
+Fellesorgan for studieforbund kan etter søknad få tilskudd til drift, samt til samordningsoppgaver overfor studieforbundene og oppgaver for departementet.
+
+## § 9. Beskyttelse av betegnelsen studieforbund
+
+Betegnelsen studieforbund kan bare benyttes som navn av organisasjoner som er godkjent som studieforbund etter loven, jf. [§ 5](lov/2009-06-19-95/§5).
+
+## § 10. Dokumentasjon på gjennomført opplæring
+
+Deltakere på kurs med tilskudd skal ha dokumentasjon på gjennomført opplæring. Departementet gir forskrift om slik dokumentasjon.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 11. Tilsyn og kontroll
+
+Departementet fører tilsyn og kontroll med virksomhet som er godkjent og mottar tilskudd etter denne loven, og skal i den sammenheng ha tilgang til relevant dokumentasjon. Departementet kan gi forskrift om tilsyn, blant annet om studieforbundenes plikt til å bistå under tilsynet, om hvordan opplysninger skal gis, og om krav til regnskap, dokumentasjon og revisjon.
+
+Ved avvikling av studieforbundet kan departementet kreve tilbakeført gjenstående midler som skriver seg fra statstilskuddet. Departementet kan gi forskrift om avvikling av studieforbund.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+
+## § 12. Reaksjonsformer
+
+Dersom det blir oppdaget forhold i strid med loven, med forskrifter gitt i medhold av loven eller med forutsetningene for godkjenningen, kan departementet gi pålegg om å rette på forholdet.
+
+Departementet kan holde tilbake statstilskuddet eller trekke tilbake godkjenningen dersom vilkår i loven, vilkår i forskrifter gitt i medhold av loven eller forutsetningene for godkjenningen ikke blir oppfylt. Departementet kan også kreve tilbake for mye utbetalt tilskudd, og tilskuddsmidler som er brukt i strid med loven, forskrifter gitt i medhold av loven eller forutsetningene for godkjenningen.
+
+## § 13. Overgangsbestemmelser
+
+Nettskoler som er godkjent etter denne loven før 1. januar 2021, beholder sin godkjenning ut 2026.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 19 juni 2020 nr. 1250](forskrift/2020-06-19-1250), tidligere § 27).
+
+## § 14. Ikrafttredelse
+
+Loven trer i kraft 1. januar 2010.
+
+> Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 19 juni 2020 nr. 1250](forskrift/2020-06-19-1250), tidligere § 28).

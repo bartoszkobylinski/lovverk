@@ -1,0 +1,42 @@
+---
+id: "sf-19890103-0003"
+slug: "forskrift-om-samordning-pensjons-og-trygdeytelser-ved-afp"
+type: "forskrift"
+ref_id: "forskrift/1989-01-03-3"
+title: "Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år"
+short_title: "Forskrift om samordning pensjons- og trygdeytelser ved AFP"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1989-01-03"
+last_change_in_force: "2020-01-01"
+last_updated: null
+xml_hash: "42a3cc5205e6a9ae433c455a5ab90cd4eda24e2e5bc2cc0b92cbbbcb0c93719b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år
+
+## § 1. Samordning av to eller flere tjenestepensjoner
+
+Ved beregning av pensjonsmaksimum etter [samordningsloven § 7](lov/1957-07-06-26/§7) skal den høyeste av pensjonene fastsatt etter garantireglene for AFP i perioden mellom fylte 65 år og 67 år (folketrygdberegnet AFP) og pensjon for full tjenestetid etter pensjonsgrunnlaget, anses som pensjon for full tjenestetid.
+
+> Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
+
+## § 2. Samordning av tjenestepensjon og personskadetrygd
+
+I begrepet den høyeste av pensjonene i [samordningsloven § 16](lov/1957-07-06-26/§16) nr. 2, inngår også pensjon fastsatt etter garantiregelen for AFP i perioden mellom fylte 65 år og 67 år (folketrygdberegnet AFP).
+
+Ved beregning av pensjonsmaksimum etter [samordningsloven § 16](lov/1957-07-06-26/§16) nr. 3 skal den høyeste av pensjon fastsatt etter garantiregelen og pensjon for full tjenestetid etter pensjonsgrunnlaget, anses som pensjon regnet etter full tjenestetid.
+
+> Tilføyd ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
+
+## § 3.
+
+Forskriften trer i kraft straks.
+
+> Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).

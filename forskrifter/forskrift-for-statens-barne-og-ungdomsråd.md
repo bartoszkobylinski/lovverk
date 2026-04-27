@@ -1,0 +1,64 @@
+---
+id: "sf-19850125-3553"
+slug: "forskrift-for-statens-barne-og-ungdomsråd"
+type: "forskrift"
+ref_id: "forskrift/1985-01-25-3553"
+title: "Forskrifter for Statens barne- og ungdomsråd."
+short_title: "Forskrift for Statens barne- og ungdomsråd"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "f87766e9dce56be96a356f74e6c27a79090803fe60eb97458bc23ca00483938a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter for Statens barne- og ungdomsråd.
+
+## 1.
+
+Statens barne- og ungdomsråd er et rådgivende og koordinerende organ for myndighetene i barne- og ungdomssaker. Rådet skal gi uttalelser i saker som departementene og andre offentlige organer legger frem for det, eller som rådet selv tar opp.
+
+Rådet skal ha det totale oppvekstmiljø for øye og gi råd om hvordan barns og ungdoms interesser best kan ivaretas innen ulike sektorer av offentlig og frivillig virksomhet. Rådet skal også være et bindeledd mellom myndighetene og ulike organisasjoner og grupper som har en viktig del av sitt virke knyttet til barn og ungdom.
+
+## 2.
+
+Rådet har elleve medlemmer med personlige varamedlemmer, oppnevnt av Kongen for to år om gangen. Valgperioden følger kalenderåret. Seks av medlemmene med varamedlemmer opnevnes på fritt grunnlag. De andre medlemmene med varamedlemmer oppnevnes etter forslag fraLandsrådet for Norske Ungdomsorganisasjoner (LNU), som foreslår tre medlemmer med varamedlemmer. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsrådet.Organisasjoner utenom LNU, som foreslår ett medlem med varamedlemm. Kultur- og vitenskapsdepartementet inhenter forslag fra organisasjonene.Organisasjonene innenfor offentlig ungdomsarbeid, som foreslår ett medlem med varamedlem. Kultur- og vitenskapsdepartementet innhenter forslag fra Landsforeningen for fritidsklubber (LFK).
+
+Kongen utpeker leder og nestleder for rådet.
+
+Ved oppnevning av rådet legges det vekt på at medlemmene til sammen representerer alle hovedområder av betydning for oppvekstmiljøet.
+
+## 3.
+
+Kultur- og vitenskapsdepartementet er sekretariat for rådet og deltar på møtene i rådet.
+
+## 4.
+
+Rådet holder møte minst fire ganger i året og ellers når lederen eller minst fire av rådets medlemmer finner det nødvendig.
+
+## 5.
+
+Rådet er vedtaksført når minst seks av medlemmene er til stede. I tilfelle stemmelikhet, gjør lederens stemme utslaget.
+
+Det skal føres protokoll over drøftingene. Avstemninger og dissenser føres inn i protokollen.
+
+Innen 31. mars hvert år skal rådet sende Kultur- og vitenskapsdepartementet melding om arbeidet siste kalenderår.
+
+## 6.
+
+En gang årlig avholdes den barne- og ungdomspolitiske konferansen med representanter fra barne- og ungsdomsorganisasjonene, offentlig ungdomsarbeid og offentlige myndigheter med ansvar for barn og ungdom.
+
+Konferansen innkalles med minst seks ukers varsel. Saker som ønskes behandlet, må være innsendt sekretariatet senest fire uker før møtet skal holdes. Den endelige dagsorden og saksdokumenter sendes deltakerne minst to uker før konferansen.
+
+Hovedformålet med konferansen er å behandle aktuelle barne- og ungdomspolitiske saker fra hovedområder som hjem, skole, arbeid og fritid. Rådets årsmelding skal være sendt deltakerne minst seks uker før møtet.
+
+## 7.
+
+Rådets medlemmer honoreres i samsvar med statens komitéregulativ. Utlegg for reiser refunderes i samsvar med statens reiseregulativ.

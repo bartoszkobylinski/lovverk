@@ -1,0 +1,1014 @@
+---
+id: "sf-20171219-2286"
+slug: "riksarkivarens-forskrift"
+type: "forskrift"
+ref_id: "forskrift/2017-12-19-2286"
+title: "Forskrift om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver (riksarkivarens forskrift)"
+short_title: "Riksarkivarens forskrift"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "2018-01-01"
+last_change_in_force: "2022-03-01"
+last_updated: "2022-03-01"
+xml_hash: "1f4c73e456df66ed9a5e644ff1ea61ce3d53cb5b61d2ec16a7dc7d6f60a59f7f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver (riksarkivarens forskrift)
+
+## Kapittel 1. Arkivplan
+
+### § 1-1. Arkivplan
+
+(1) Alle offentlige organer skal til enhver tid ha en ajourført arkivplan jf. [forskrift om offentlege arkiv § 4](forskrift/2017-12-15-2105/§4). Arkivplanen skal innrettes slik at den kan brukes som et redskap i organets internkontroll med arkivarbeidet. I arkivplanen skal organet dokumentere hvordan arkivansvaret blir ivaretatt, og hvordan arkivfunksjonen er organisert. Arkivplanen skal gi en samlet oversikt over organets arkiv, jf. [arkivlova § 2](lov/1992-12-04-126/§2) bokstav b.
+
+(2) Arkivplanen skal, i tillegg til å oppfylle krav som ellers følger av denne forskriften, minst inneholde:organisering av arkivfunksjonen og delegeringsfullmakter på arkivområdet, inkludert hvor ansvaret for å forvalte arkivene er plassert, samt eventuelle avtaler om kjøp av arkivtjenester,rutiner for dokumentfangst, journalføring, tilgangsstyring og kvalitetssikring av arkivene, jf. [forskrift om offentlege arkiv § 12](forskrift/2017-12-15-2105/§12),rutiner for oppbevaring og sikring av arkivene,klassifikasjon som blant annet viser hvilke prosesser arkivdokumentene inngår i, jf. [forskrift om offentlege arkiv § 5](forskrift/2017-12-15-2105/§5),oppdatert arkivoversikt som viser hvor arkivdokumentene er lagret,kassasjonsregler med oppbevaringstid og rutiner for bevaring og kassasjon, jf. [forskrift om offentlege arkiv § 16](forskrift/2017-12-15-2105/§16) jf. [§ 7-3](forskrift/2017-12-19-2286/§7-3) i forskriften her, ogavleveringsplan for statlige organ, jf. [forskrift om offentlege arkiv § 19](forskrift/2017-12-15-2105/§19).
+
+> Endret ved forskrifter [26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+## Kapittel 2. Arkivlokaler og oppbevaring av arkiv
+
+### § 2-1. Alminnelige krav til arkivlokaler
+
+(1) Rom der offentlige organ oppbevarer arkiv, herunder digitale arkiv, regnes som arkivlokale.
+
+(2) Arkivlokale kan være vanlige lokaler eller spesialrom for arkiv. Med spesialrom for arkiv menes lokaler som er spesielt tilpasset langtidslagring av ulike typer arkivmateriale.
+
+(3) Arkivlokaler skal være innrettet for å gi det arkivmaterialet som blir oppbevart der, vern mot:vann og fukt,brann og skadelig varme,skadelig påvirkning fra klima og miljø, skadedyr m.m., ogskadeverk, innbrudd og uautorisert tilgang.
+
+(4) Organet må i tillegg ta høyde for risikoen for skade på arkivene fra omgivelsene utenfor arkivlokalet.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 2-2. Arkiv som skal oppbevares i spesialrom for arkiv
+
+(1) Eldre og avsluttet arkiv skal oppbevares i spesialrom for arkiv. Så langt det er mulig bør også arkivmateriale fra avsluttet arkivperiode som ikke er i hyppig bruk, oppbevares i spesialrom for arkiv.
+
+(2) Kravet til oppbevaring i spesialrom gjelder ikke arkivmateriale som kan kasseres jf. [kap. 7](forskrift/2017-12-19-2286/kap7) og som er skilt ut fra det øvrige materialet.
+
+(3) Analoge arkiv som har et så lite volum at det ikke er rimelig å kreve at organet innreder eget spesialrom for arkiv, kan i stedet plasseres i brannsikkert skap eller annen innretning som ivaretar krav til sikker oppbevaring jf. [§ 2-5](forskrift/2017-12-19-2286/§2-5) tredje ledd bokstav d).
+
+> Endret ved [forskrifter 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-11).
+
+### § 2-3. Vern mot vann og fukt
+
+(1) Arkivlokaler skal være sikret mot inntrengning av vann og fukt. Man må ikke ta i bruk arkivlokaler som man vet kan være truet av flom eller oversvømmelse.
+
+(2) Ved nødvendig bruk av vann i arkivlokaler skal man ta hensyn til risiko for skade på arkivmaterialet.
+
+(3) Arkivmateriale skal ikke stå direkte på gulvet.
+
+(4) I spesialrom for arkiv skal det ikke være vannrør. Dersom spesialrom for arkiv i eksisterende bygninger likevel har vannrør og det er urimelig kostbart å endre røropplegget, kan en alternativt bruke tekniske løsninger som effektivt hindrer at arkivmaterialet blir skadet av vann fra rørene, f.eks.:fuktfølere på gulvet tilkoblet stengeventil og/eller alarm,fuktføler på vannrør, spesielt i skjøter og koblinger, ellerfysisk sikring i form av vannrenner under vannrør som ligger over arkivreoler, e.l.
+
+(5) Vannrør som brukes til kjøling av digitale arkiv er tillatt.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-2).
+
+### § 2-4. Vern mot at det oppstår brann i arkivlokalet
+
+(1) Brannfarlig virksomhet er forbudt i arkivlokaler. Det skal ikke være annet elektrisk utstyr enn det som er nødvendig for virksomheten i arkivlokalene. Det elektriske anlegget skal være i samsvar med forskrifter for slike anlegg i branntrygge lokaler. El-sentral med strømmålere, sikringer o.l. skal ikke være plassert i arkivlokalene.
+
+(2) Dersom det er kopimaskin, skanner, pc eller liknende i arkivlokalet må det tas nødvendige forholdsregler for å unngå fare for brann.
+
+(3) Spesialrom for arkiv skal varmes opp med varmekilder som ikke kan medføre fare for brann eller skade arkivmaterialet.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-3).
+
+### § 2-5. Vern mot spredning av brann i arkivlokalet
+
+(1) Dersom en branncelle deles opp i flere arkivlokaler, skal skilleveggene mellom dem minst ha brannmotstandsevne EI 30, og utføres i materialer som er begrenset brennbare. I arkivlokaler skal det brukes maling, gulvbelegg o.a. som minst mulig fremmer brannspredning.
+
+(2) Arkivlokaler skal ha håndslukkingsapparat eller annet egnet brannslukkingsanlegg.
+
+(3) Brannvarslingsanlegg for arkivlokaler skal tilfredsstille de krav som gjelder for bygningen for øvrig. Spesialrom for arkiv skal ha automatisk brannalarm med kobling til bemannet sentral.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-4).
+
+### § 2-6. Vern mot brannspredning inn i arkivlokalet
+
+(1) Arkivlokaler skal klassifiseres etter de byggetekniske forskriftene til plan- og bygningsloven (TEK 17).
+
+(2) Arkivlokaler skal være separate enheter eller brannceller.
+
+(3) Krav til brannmotstandsevne for ulike typer arkivlokaler:I vanlige lokaler skal bygningsdelene minst ha brannmotstandsevne REI 30, og utføres i materiale som er begrenset brennbart.I spesialrom for arkiv der organet oppbevarer arkivmateriale fra avsluttede arkivperioder frem til det skal avleveres, skal bygningsdelene minst ha brannmotstandsevne REI 60, og utføres i materiale som er begrenset brennbart.I spesialrom for arkiv der det oppbevares avlevert arkivmateriale, skal bygningsdelene ha brannmotstandsevne REI 120 og utføres i ubrennbart eller begrenset brennbart materiale.Brannsikkert skap som brukes til oppbevaring av arkiv, jf. [§ 2-11](forskrift/2017-12-19-2286/§2-11) tredje ledd, skal ha brannmotstandsevne EI 90 eller høyere.
+
+(4) Spesialrom for arkiv skal ha selvlukkende dør. Det skal ikke ha vinduer dersom dette medfører sikkerhetsrisiko for arkivmaterialet.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-5).
+
+### § 2-7. Vern mot skadelig påvirkning fra klima, miljø, skadedyr m.m.
+
+(1) For å gi optimalt vern av arkivmaterialet som oppbevares der, skal arkivlokaler være spesielt tilpasset lagringsmediet med hensyn til temperatur, relativ luftfuktighet, elektriske installasjoner, forurensing og andre miljøfaktorer.
+
+(2) I bygningsdeler og innredning skal det ikke brukes materialer som kan skade arkivmaterialet ved avgassing, stråling eller på annen måte.
+
+(3) Arkivlokaler skal utformes slik at de oppfyller kravene i anerkjente standarder for bevaring av ulike typer lagringsmedier som papir, mikrofilm, analog film og foto, magnetiske lydbånd, VHS m.v. samt ulike typer digitale lagringsmedier. Riksarkivaren kan fastsette retningslinjer for oppbevaring av ulike medietyper.
+
+(4) Arkivmateriale som kan påvirke hverandre negativt, må ikke oppbevares i samme arkivlokale uten at nødvendige sikringstiltak er iverksatt. Det må heller ikke oppbevares andre ting eller gjenstander som kan bidra til å redusere sikkerheten til arkivene.
+
+> Endret ved forskrifter [26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-6).
+
+### § 2-8. Vern mot skadeverk, innbrudd og uautorisert tilgang
+
+(1) Arkivlokaler skal være utformet slik at arkivmaterialet er fullgodt sikret mot skadeverk, innbrudd og uautorisert tilgang. Offentlige organer skal ha regler om hvem som skal ha tilgang til arkivene.
+
+(2) Spesialrom for arkiv skal være sikret med egen innbruddsalarm med kobling til bemannet sentral. Øvrige arkivlokaler skal inngå i det ordinære sikkerhetsopplegget for bygningen.
+
+(3) Arkivlokaler der det oppbevares sikkerhetsgradert arkivmateriale skal oppfylle krav som er fastsatt i sikkerhetsloven med forskrifter.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-7).
+
+### § 2-9. Bruk av tilfluktsrom som arkivlokale
+
+(1) Tilfluktsrom kan ikke brukes som arkivlokale for oppbevaring av annet arkivmateriale enn det som er tillatt å kassere i henhold til kassasjonsregler godkjent av Riksarkivaren, jf. [forskrift om offentlege arkiv § 16](forskrift/2017-12-15-2105/§16). Tilfluktsrommet skal oppfylle de krav som ellers gjelder for oppbevaring av det aktuelle arkivmaterialet.
+
+(2) Arkivmateriale som oppbevares i tilfluktsrom må kunne beskyttes ved en eventuell evakuering som skjer på kort varsel (i løpet av 72 timer).
+
+(3) Bruk av tilfluktsrom til arkivlokale må ikke skje i strid med regler og instrukser om bruk av tilfluktsrom som er fastsatt av Sivilforsvaret.
+
+> Endret ved forskrifter [26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-8).
+
+### § 2-10. Utforming, dimensjonering og innredning av arkivlokaler
+
+(1) Gulv og reoler i arkivlokaler skal ha bæreevne tilpasset vekten av arkivmaterialet. Det skal være nok fri gulvplass til transport og fremhenting av arkivmateriale.
+
+(2) Reoler i spesialrom for arkiv skal være av ubrennbart materiale, og hyllene skal ha minst 10 cm klaring mot gulv, vegg og tak.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-9).
+
+### § 2-11. Drift av arkivlokaler
+
+(1) Arkivlokaler skal ha fast tilsyn og renhold.
+
+(2) Blir man oppmerksom på forhold som gir risiko for skade på arkivmaterialet, skal det settes i verk tiltak så snart som mulig.
+
+(3) Blir man oppmerksom på at arkivmaterialet har fått skader på grunn av forholdene i arkivlokalet, skal det settes i verk tiltak så snart som mulig for å forebygge ytterligere skade. Skader som allerede har oppstått skal utbedres, jf. [§ 6-4](forskrift/2017-12-19-2286/§6-4). Dette skal skje i tråd med kvalifisert veiledning.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022, tidligere § 2-10).
+
+## Kapittel 3. Krav til arkivsystem og elektronisk behandling av arkivdokument
+
+### § 3-1. Krav til arkivsystem for elektroniske arkivdokumenter
+
+(1) Med arkivdokument menes et dokument som skal inngå i et arkiv.
+
+(2) Arkivdokumenter som lagres elektronisk skal være knyttet til et system som styrer all arkivering av og tilgang til dokumentene.
+
+(3) System for journalføringspliktige saksdokumenter jf. [forskrift om offentlege arkiv § 9](forskrift/2017-12-15-2105/§9), skal følge krav som Riksarkivaren med hjemmel i [forskrift om offentlege arkiv § 11](forskrift/2017-12-15-2105/§11), har fastsatt i Norsk arkivstandard (Noark). Noark-systemer skal godkjennes av Riksarkivaren før de tas i bruk.
+
+(4) Dersom et offentlig organ planlegger å lagre elektroniske arkivdokumenter i et system som ikke er Noark-godkjent, skal det sendes melding til Riksarkivaren før systemet tas i bruk. Riksarkivaren kan kreve å få seg forelagt systemet for godkjenning.
+
+(5) Som ledd i vurderingen av et arkivsystem kan Riksarkivaren kreve at det blir gjennomført en test av prøve på et arkivuttrekk fra systemet, jf. [§ 5-2](forskrift/2017-12-19-2286/§5-2) bokstav b. Organet kan utføre test selv, dersom Riksarkivaren har distribuert verktøy for dette formålet. Riksarkivaren kan også autorisere andre instanser til å utføre eller administrere slik test.
+
+(6) Statlige organer skal sende melding til Riksarkivaren om alle arkivsystemer som skal tas i bruk.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 3-2. Ansvar, rutiner og rettigheter i arkivsystem
+
+(1) Det skal utarbeides instruks for organet som beskriver ansvar, rutiner og rettigheter knyttet til opprettelse, mottak, utveksling, vedlikehold og bruk av arkivdokumenter i arkivsystem.
+
+(2) Følgende ansvarsforhold og rutiner skal beskrives:ansvar for tildeling og ajourhold av brukerrettigheter,hvilke spesifikke rettigheter for behandling av arkivdokument som tildeles brukere av systemet med tilhørende roller,hvilke typer dokumenter som skal autentiseres og signeres, samt regler og rutiner for signering av dokumenter, herunder bruken av digital signatur,ansvar og rutiner for kvalitetssikring av registreringen og arkiveringen,ansvarsforhold og prosedyrer for registrering, journalføring og arkivering av dokumenter som sendes og mottas,rutiner som definerer ansvar for:fordeling av dokumenter,retting av registrerte journal- og arkivopplysninger,avskrivning og ferdigstillelse av dokumenter,vurdering av spørsmål vedrørende offentlighet,registrering av unntak for offentlighet og hjemmel for dette, ogprosedyrer for registrering og arkivering til bruk dersom systemet er ute av drift.
+
+### § 3-3. Krav til dokumentformat og eksportfunksjoner i arkivsystem
+
+(1) Elektroniske arkivdokumenter skal lagres i ett eller flere av de dokumentformater som er fastsatt i [kapittel 5](forskrift/2017-12-19-2286/kap5) jf. [§ 5-17](forskrift/2017-12-19-2286/§5-17) til [§ 5-20](forskrift/2017-12-19-2286/§5-20). Dette gjelder ikke dokumenter som tillates kassert etter 10 år eller mindre. Organet skal kontrollere at konvertering til arkivformat er utført korrekt og komplett, og at dokumentene er lesbare, før det foretas kassasjon av produksjonsformatet.
+
+(2) Riksarkivaren kan fastsette at system som lagrer elektroniske arkivdokumenter skal ha eksportfunksjoner som sikrer at bevaringsverdig materiale kan overføres til andre system eller avleveres til arkivdepot.
+
+(3) Ved eksport for avlevering eller deponering skal systemet kunne produsere et arkivuttrekk i henhold til krav fastsatt av Riksarkivaren. Bestemmelsen gjelder ikke dersom alle dokumenter og opplysninger i systemet tillates kassert etter 10 år eller mindre i medhold av [arkivloven § 9](lov/1992-12-04-126/§9).
+
+(4) Kommuner og fylkeskommuner kan gjøre unntak fra bestemmelsen dersom de benytter andre dokumentformat eller eksportformat godkjent av Riksarkivaren.
+
+### § 3-4. Oppbevaring og sikring
+
+Det skal utarbeides rutiner for organet som beskriver hvordan arkivdokumentene oppbevares og sikres, herunder:hvilke lagringsmedier og arkivformat som brukes,hvilke kategorier av saker og dokumenter som skal arkiveres elektronisk, og hvilke som eventuelt iht. formkrav i lov- og regelverk eller av andre grunner skal arkiveres på papir,ansvarsforhold og prosedyrer for konvertering av dokumenter til arkivformat, herundertidspunkt for konverteringretningslinjer for destruksjon av mottatte papirdokumenter som er skannet og arkivert elektronisk,en plan for periodisering av arkivet og vedlikehold av materialet inntil det kan overføres til arkivdepot, ogiverksatte rutiner og tiltak for beskyttelse av dokumenter og ivaretakelse av informasjonssikkerhet.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 3-5. Blandet arkivering av elektroniske dokumenter og papirdokumenter
+
+(1) Alle arkivdokumenter som inngår i én og samme sak, eller som ellers hører sammen i en annen type gruppering av dokumenter, skal så langt det lar seg gjøre, arkiveres enten elektronisk eller på papir. Papirbaserte og elektroniske arkivdokumenter skal inngå i hver sine klart definerte deler av arkivet.
+
+(2) All blanding av papirbasert og elektronisk arkivering skal være godt dokumentert i arkivplanen, jf. [§ 1-1](forskrift/2017-12-19-2286/§1-1).
+
+### § 3-6. Destruksjon av papirversjonen etter skanning i den løpende arkivdanningen
+
+(1) Når arkivdokumenter på papir blir skannet i tråd med kravene i [§ 5-15](forskrift/2017-12-19-2286/§5-15), og de arkiveres elektronisk som ledd i den løpende arkivdanningen, kan papirversjonen av dokumentene destrueres. Arkivskaper har ansvar for å vurdere hvilke konsekvenser destruksjon vil kunne ha for juridiske rettigheter og plikter for organet selv eller for andre, og påse at behov for bevaring av originalmediet blir ivaretatt. Destruksjon må ikke skje dersom lovbestemte formkrav, for eksempel krav om håndskrevet signatur eller andre juridiske hensyn, krever at papirversjonen bevares. Det er ikke adgang til å destruere originaldokumenter som kommer inn under destruksjonsforbudet i [§ 8-7](forskrift/2017-12-19-2286/§8-7).
+
+(2) Organet skal fastsette retningslinjer for å kontrollere at skanning av innkomne papirdokumenter er utført korrekt og komplett, og at dokumentene er lesbare, før den originale papirversjonen destrueres. Dette inkluderer operatøransvar, arbeidsprosedyre og rutiner for kvalitetssikring ved skanning.
+
+(3) Riksarkivaren kan i enkelttilfeller fastsette at også papirversjonen av dokumentene skal bevares.
+
+## Kapittel 4. Periodisering
+
+### § 4-1. Journal- og arkivperioder
+
+(1) Sakarkiv og den tilhørende journalen skal deles inn i perioder. Det skal være samsvar mellom periodeinndelingen i journalen og arkivet, men en periode i den elektroniske journalen kan omfatte flere perioder i arkivet.
+
+(2) Deler av arkivet, sånn som personalmapper, kan holdes utenfor periodiseringen eller følge særskilte prinsipper for periodisering. Slike unntak skal spesifiseres i arkivplanen.
+
+(3) Når en arkivperiode blir avsluttet, skal arkivmaterialet fra den avsluttede perioden skilles ut fra det aktive arkivet. For papirbaserte arkiv, journaler og eventuelle journalregister gjelder bestemmelsene i [§ 4-3](forskrift/2017-12-19-2286/§4-3). For elektroniske journaler og sakarkiv gjelder bestemmelsene i [§ 4-4](forskrift/2017-12-19-2286/§4-4) til [§ 4-6](forskrift/2017-12-19-2286/§4-6). Oppbevaring skal følge reglene i [kapittel 2](forskrift/2017-12-19-2286/kap2).
+
+### § 4-2. Skarpt periodeskille eller overlappingsperiodel
+
+(1) Ved journalføring på papir skal det brukes skarpt periodeskille. Dette innebærer at man setter bort alle dokumenter som ble registrert i den avsluttede perioden. Dokument som hører til saker som er aktive ved periodeskillet, kan enten settes bort sammen med den avsluttede perioden eller overføres til den nye perioden. I begge tilfeller må det sørges for henvisninger i journalen og saksmappene som sikrer at man kan finne igjen saker eller dokumenter som krysser periodeskillet.
+
+(2) Skarpt periodeskille skal også brukes når det skjer grunnleggende endringer i arkivet, f.eks. overgang fra papirbasert til elektronisk journal.
+
+(3) Ved elektronisk journalføring, kan det ved normal overgang mellom arkivperioder brukes overlappingsperiode.
+
+### § 4-3. Rutiner ved bortsetting av arkivmaterialet
+
+(1) Ved bortsetting skal de enkelte arkivstykkene, sånn som esker, pakker, protokoller, filmruller, elektroniske lagringsmedium osv, merkes tydelig med:navnet på arkivskaperen (organet og eventuelt avdeling eller journalbokstav),innholdet i arkivstykket (til vanlig kode og tekst i klassifikasjonen), oghvilket tidsrom arkivmaterialet omfatter.
+
+(2) Det skal foretas arkivavgrensing i tråd med [forskrift om offentlege arkiv § 14](forskrift/2017-12-15-2105/§14) og kassasjon i tråd med bestemmelsene i kapittel 7 i forskriften her. Arkivmaterialet som skal kasseres på et senere tidspunkt, skal plasseres for seg og ikke blandes sammen med det som skal bevares.
+
+(3) Det skal lages en summarisk liste over materiale som blir kassert i forbindelse med bortsettingen og over materiale som eventuelt skal kasseres på et senere tidspunkt. Det skal lages en fullstendig arkivliste over det som skal bevares. Ved bruk av elektronisk journal kan avleveringslisten produseres automatisk fra journalsystemet, men nummerering av arkivstykkene må påføres særskilt.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 4-4. Periodeinndeling i elektronisk journal og arkiv
+
+Når en periode avsluttes i elektronisk journal og eventuelt tilhørende elektronisk arkiv, skal databasen reorganiseres slik at alle saker som hører til den avsluttede perioden, blir skilt ut. Dette kan gjøres ved å ta sakene fra den avsluttede perioden ut av basen, eller ved å la dem utgjøre en egen logisk enhet i eller i tilknytning til den aktive basen, jf. [§ 4-5](forskrift/2017-12-19-2286/§4-5).
+
+### § 4-5. Framfinning i elektronisk journal og arkiv fra avsluttede perioder
+
+I tiden frem til avlevering til arkivdepot skal organet ha nødvendige hjelpemidler til å finne fram i elektroniske journaler og arkiv fra avsluttede perioder. Dette kan gjøres ved å opprette en eller flere historiske databaser, dvs. søkbare databaser for de avsluttede periodene. Dersom det bare er journalen som er elektronisk, kan man i stedet basere framfinningen på papirutskrifter.
+
+### § 4-6. Klargjøring av elektronisk journal og arkiv for deponering i arkivdepot
+
+(1) En elektronisk kopi av journal- og arkivsystemet for den avsluttete arkivperioden skal klargjøres for deponering i arkivdepot.
+
+(2) Data skal organiseres i henhold til krav fastsatt i [kapittel 5](forskrift/2017-12-19-2286/kap5). Kommuner og fylkeskommuner skal følge samme prosedyre eller annen prosedyre som på en fullgod måte ivaretar hensynet til langtidslagring og fremtidig dokumentasjon, jf. [§ 3-3](forskrift/2017-12-19-2286/§3-3) fjerde ledd.
+
+(3) Statlige organer skal deponere en arkivversjon hos Arkivverket straks perioden er avsluttet, jf. [§ 5-5](forskrift/2017-12-19-2286/§5-5) femte ledd.
+
+## Kapittel 5. Elektronisk arkivmateriale. Lagringsmedier, format og avlevering
+
+### Del I. Generelle bestemmelser
+
+### § 5-1. Virkeområde
+
+(1) Bestemmelsene i dette kapitlet gjelder arkivmateriale fra statlige organers elektroniske systemer som skal bevares for ettertiden i henhold til arkivloven, forskrift om offentlege arkiv og forskriften her.
+
+(2) For kommuner og fylkeskommuner gjelder bestemmelser i dette kapitlet i den utstrekning det er fastsatt i [kapittel 3](forskrift/2017-12-19-2286/kap3) og 8. For øvrig fastsetter kommuner og fylkeskommuner selv spesifiserte krav til arkivmateriale som skal avleveres eller deponeres til arkivdepot.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 5-2. Definisjoner
+
+I dette kapitlet gjelder følgende definisjoner:*Arkivversjon:* den samlede leveransen av arkivuttrekk og øvrig dokumentasjon jf. [§ 5-6](forskrift/2017-12-19-2286/§5-6), som skal mottas av arkivdepotet ved avlevering eller deponering.*Arkivuttrekk:* det datainnhold som skal hentes ut av et system og inngå som arkivversjonens hoveddel (tidligere kalt datauttrekk).*Avgiver:* den som avleverer eller deponerer en arkivversjon til arkivdepot.*Avlevering:* fysisk overføring av arkivmateriale til arkivdepot. Ved avlevering fra statlig organer til Arkivverket overføres råderetten over arkivet til Riksarkivaren.*Deponering (depositum):* fysisk overføring av arkivmateriale uten overføring av råderetten.*Avleverings- eller deponeringspakke:* betegnelse på en arkivversjon med metadata jf. [§ 5-27](forskrift/2017-12-19-2286/§5-27) og [§ 5-28](forskrift/2017-12-19-2286/§5-28) som er ferdig pakket som en TAR-fil og klar for overføring til arkivdepot, samt en overføringsfil, jf. bokstav g).*Overføringsfil:* en enkelt fil som overføres parallelt med en avleverings- eller deponeringspakke og inneholder informasjon om avleverings- eller deponeringspakken (filen tidligere kjent som info.txt og info.xml).*Rapport:* en logisk sammenstilling av utvalgte data fra en database fremstilt som en avledet databasetabell eller et arkivdokument.
+
+### § 5-3. Fremstilling av arkivversjon
+
+(1) Ved avlevering eller deponering av elektronisk arkivmateriale skal det fremstilles en arkivversjon som overføres til Arkivverket jf. [§ 5-2](forskrift/2017-12-19-2286/§5-2) bokstav a).
+
+(2) Arkivverket bestemmer hvilken metode og periodeinndeling som skal brukes ved produksjon av arkivuttrekk fra det enkelte system.
+
+(3) Arkivverket bestemmer om arkivuttrekket skal omfatte original eller avledet informasjon i strukturert form, eller om det skal produseres en eller flere rapporter i et av dokumentformatene spesifisert i [§ 5-17](forskrift/2017-12-19-2286/§5-17).
+
+(4) For journal- og arkivsystemer gjelder egne bestemmelser i [§ 5-21](forskrift/2017-12-19-2286/§5-21) til [§ 5-23](forskrift/2017-12-19-2286/§5-23).
+
+(5) Riksarkivaren kan inngå særskilt avtale med avgiver om andre metoder og formater for fremstilling av arkivversjon enn det som følger av bestemmelsene i dette kapitlet.
+
+> Endret ved [forskrifter 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-4. Avlevering og deponering av kopi av elektronisk arkivmateriale i staten
+
+(1) Ved avlevering til Arkivverket overtar Riksarkivaren råderetten over arkivmaterialet og ansvaret for bevaring og alt videre vedlikehold, jf. [arkivloven § 10](lov/1992-12-04-126/§10).
+
+(2) Ved deponering av kopi av elektronisk arkivmateriale til Arkivverket beholder avgiver råderetten og det fulle ansvaret for materialet. Avgiver skal betjene og vedlikeholde materialet inntil avlevering senere har funnet sted. Arkivverket skal bevare den deponerte kopien utilgjengelig for bruk, og bare utføre teknisk vedlikehold.
+
+(3) En deponering skifter automatisk status til avlevering når det fastsatte avleveringstidspunktet er nådd, med mindre avgiver eller Arkivverket har meldt behov for en ny vurdering av om den deponerte versjonen fortsatt gjenspeiler arkivet, eller om det må fremstilles en ny arkivversjon.
+
+### § 5-5. Tidspunkt, tidsintervall og form for avlevering eller deponering
+
+(1) Arkivverket bestemmer tidspunkt og tidsintervall for avlevering eller deponering av arkivversjoner fra det enkelte system.
+
+(2) Arkivverket bestemmer om materialet skal overføres med status som avlevering eller deponering, og kan kreve deponering tidligere enn tidspunktet for avlevering, jf. [forskrift om offentlege arkiv § 18](forskrift/2017-12-15-2105/§18).
+
+(3) Når et system går ut av bruk uten at datainnholdet flyttes til et nytt system, eller i sammenheng med at virksomheter opphører, skal det foretas en samlet avlevering.
+
+(4) Fra elektroniske journal- og arkivsystemer skal en arkivversjon deponeres hos Arkivverket straks en arkivperiode er avsluttet. Digitale arkivdokumenter som er tilknyttet skal følge med ved deponeringen. Arkivdokumenter på papir skal følge som ledd i den ordinære avleveringen når materialet er 25–30 år gammelt jf. [§ 6-2](forskrift/2017-12-19-2286/§6-2) første ledd.
+
+> Endret ved [forskrifter 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### Del II. Fremgangsmåte ved avlevering eller deponering
+
+### § 5-6. Arkivversjonen
+
+(1) Ved avlevering eller deponering skal data eksporteres fra vedkommende system og konverteres til et standardisert format (arkivuttrekk) i samsvar med del III og IV. Dette arkivuttrekket skal overføres sammen med nødvendig dokumentasjon jf. del VI og VII, som en avleverings- eller deponeringspakke jf. del VIII, og bevares som systemets arkivversjon, uavhengig av det opprinnelige systemet.
+
+(2) Arkivversjoner fra elektroniske systemer skal inneholde:et arkivuttrekk fra det opprinnelige systemets database,eventuelle tilknyttede arkivdokumenter,beskrivelse av arkivuttrekkets struktur og innhold,dokumentasjon av det opprinnelige systemet og bruken av dette, oginformasjon om avleveringen eller deponeringen.
+
+(3) For arkivversjoner fra Noark 3-systemer og Noark 4-systemer gjelder ikke bokstav c, og for Noark 5-systemer skal det kun medfølge en overordnet beskrivelse. I henhold til bokstav d skal det for Noark-systemer bare gis opplysninger om bruken av det opprinnelige systemet.
+
+(4) Informasjonen i bokstav e) skal også inngå i overføringsfilen.
+
+### § 5-7. Gjennomføring
+
+(1) Avlevering eller deponering av arkivmateriale skal på forhånd være avtalt med Arkivverket. Arkivverket kan kreve at det først leveres en prøve av arkivuttrekket, dersom praktiske hensyn tilsier det.
+
+(2) Kostnadene ved produksjon av en arkivversjon og avleveringen eller deponeringen av denne til Arkivverket skal dekkes av avgiver.
+
+(3) Avgiver skal ikke slette grunnlagsdataene for arkivversjonen i sitt system før Arkivverket har godkjent avleveringen eller deponeringen. Grunnlagsdataene kan ikke slettes så lenge materialet bare er deponert, jf. [§ 5-4](forskrift/2017-12-19-2286/§5-4) annet ledd.
+
+### § 5-8. Godkjenning
+
+(1) Ved avlevering eller deponering skal Arkivverket godkjenne arkivversjonen, og kvittere for det mottatte materialet. Arkivverket kan nekte å godkjenne arkivversjonen dersom:innholdet ikke omfatter de deler som er fastsatt i [§ 5-6](forskrift/2017-12-19-2286/§5-6),arkivuttrekket ikke omfatter de opplysningene som følger av Noark-standarden eller i henhold til avtale,feil eller mangler i dataene kan tilbakeføres til feil ved selve produksjonen av arkivuttrekket,den medfølgende struktur- og innholdsbeskrivelsen er feilaktig eller ufullstendig eller,kravene til lagringsmedium, tegnsett, formater eller fil- og katalogstruktur ikke er oppfylt.
+
+(2) Hvis materialet ikke blir godkjent, kan Arkivverket kreve at avgiver produserer en ny arkivversjon, eller kreve refusjon for nødvendig arbeid for å bringe materialet i samsvar med bestemmelsene, jf. [arkivloven § 11](lov/1992-12-04-126/§11).
+
+### § 5-9. Tilgang for organ til avlevert elektronisk materiale
+
+(1) Organets tilgang til avlevert elektronisk arkivmateriale skjer i henhold til [forskrift om offentlege arkiv § 23](forskrift/2017-12-15-2105/§23).
+
+(2) Kopi av avlevert elektronisk materiale må ikke utleveres i strid med bestemmelser gitt i lov eller i medhold av lov som tidsbegrenser vedkommende organs tilgang til materialet.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### Del III. Formatkrav m.m. ved uttak fra databasetabeller
+
+### § 5-10. Organisering av arkivuttrekk
+
+(1) Arkivuttrekk fra databaser skal bestå av sekvensielle tekstfiler. Et uttrekk kan bestå av en eller flere filer. Relasjoner mellom filene i uttrekket skal være beskrevet i den medfølgende dokumentasjonen slik det fremgår av [§ 5-24](forskrift/2017-12-19-2286/§5-24).
+
+(2) Data skal tas ut på en måte som gjør at hver posttype eksporteres til én enkelt sekvensiell fil. Opprinnelige fysiske pekere skal omgjøres til unike logiske nøkler (primær- og fremmednøkler). Felt som er repetert flere ganger innenfor en post, skal skilles ut fra den opprinnelige posten, og eksporteres som egne poster i en ny fil med tilhørende nøkler. Pakkede og binære tallfelt aksepteres ikke i arkivuttrekk ved avlevering og deponering. For øvrig henvises det til [§ 5-11](forskrift/2017-12-19-2286/§5-11) til [§ 5-20](forskrift/2017-12-19-2286/§5-20).
+
+(3) For arkivuttrekk i XML- eller JSON-format kan ovennevnte krav avvikes etter avtale med Arkivverket.
+
+(4) For Noark-systemer gjelder [§ 5-21](forskrift/2017-12-19-2286/§5-21) til [§ 5-23](forskrift/2017-12-19-2286/§5-23).
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-11. Tegnsett i arkivuttrekk
+
+(1) Arkivuttrekk og medfølgende struktur- og innholdsbeskrivelser skal overføres som ren tekst i ukryptert form, og benytte godkjent tegnsett.
+
+(2) Godkjente tegnsett er:Unicode UTF-8 (ISO/IEC 10646-1:2000 Annex D)ISO 8859-1:1998, Latin 1ISO 8859-4:1998, Latin-4 for samiske tegn.
+
+(3) Andre tegnsett aksepteres bare etter avtale med Arkivverket.
+
+### § 5-12. Tekstfilformater i arkivuttrekk
+
+Tekstfiler i et arkivuttrekk skal ha ett av følgende formater:Fast format: Alle felt kommer i faste posisjoner innen postene. Lengde og/eller startposisjon for hvert felt skal spesifiseres i struktur- og innholdsbeskrivelsen, som skal følge med uttrekket slik det fremgår av [§ 5-24](forskrift/2017-12-19-2286/§5-24). Alle lengder og posisjoner angis ut fra antall tegn.Tegnseparert format (kommaseparert format) i henhold til standarden IETF RFC 4180: Poster og felt har variabel lengde og er atskilt med faste, entydige skilletegn. Postskille er påkrevd og skal angis i den medfølgende struktur- og innholdsbeskrivelsen. Feltskilletegnet, feltnavn og eventuelle overskriftslinjer skal spesifiseres i den medfølgende struktur- og innholdsbeskrivelsen, jf. [§ 5-24](forskrift/2017-12-19-2286/§5-24).XML – Extensible Markup Language versjon 1.0, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).JSON – Java Script Object Notation – ISO/IEC21778, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).Databasedump tillates i henhold til SQL standard ISO/IEC 9075, 1999 eller senere. I den grad databasen inneholder binære objekter skal disse leveres separat i et format slik det er spesifisert i denne forskriften.Databasedump tillates også formatert i henhold til SIARD standard, versjon 1 eller 2 (eCH-0165). I den grad databasen inneholder binære objekter skal disse leveres separat i et format slik det er spesifisert i denne forskriften.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-13. Eksport av ulike datatyper i arkivuttrekk
+
+Ved eksport til tekstfiler etter bestemmelsene i [§ 5-10](forskrift/2017-12-19-2286/§5-10) skal datatyper i den opprinnelige databasen legges ut slik:Ved bruk av fast format legges tekststrenger ut venstrejustert i feltene. Etterfølgende posisjoner fylles opp med blanke tegn. Heltall og desimaltall legges ut høyrejustert uten ledende nuller, og posisjonene foran fylles opp med blanke tegn.Negative heltall og desimaltall legges ut med et minustegn før første siffer. Positive tall skal ikke representeres med plusstegn.Desimaltall legges ut med komma som desimalskilletegn. Skilletegn for hver tusen skal ikke benyttes.Dato legges ut i henhold til norsk standard NS-ISO 8601.
+
+### Del IV. Formatkrav m.m. for arkivdokumenter
+
+### § 5-14. Tilknytning av arkivdokumenter til arkivuttrekk
+
+(1) Arkivdokumenter skal være tilknyttet arkivuttrekket fra et journalføringssystem eller annet elektronisk system for registrering av dokumenter.
+
+(2) Arkivdokumentene skal lagres som separate filer, og overføres sammen med arkivuttrekket. Arkivuttrekket skal inneholde referanse til filnavn for hvert enkelt dokument. Hvis fil- eller katalognavn endres ved eksport til arkivversjonen, skal endringene gjenspeiles i filreferansene for å opprettholde koblingene mellom dokumentene. Separate filer kan pakkes i henhold til standardene ZIP og TAR, jf. [§ 5-17](forskrift/2017-12-19-2286/§5-17) bokstav j, andre og tredje ledd.
+
+(3) Alle filstier for filreferanser skal være relative.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-15. Bildekvalitet ved skanning
+
+Skanning av dokumenter skal utføres uten informasjonstap, og oppløsningen skal være på minimum 300 dpi/ ppi (100 %, RGB, 24 bit dybde, lavest mulig kompresjon).
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-16. OCR, sikkerhetsfunksjoner og digital signatur i arkivdokumenter
+
+(1) Ved skanning av dokumenter eller ved behandling av tidligere skannede dokumenter, kan ikke originalt innhold erstattes med OCR-lest tekst. En versjon som er gjort søkbar ved OCR-lesing, kan likevel medfølge i tillegg til en skannet versjon, eller som tilleggsinformasjon i det originale dokument.
+
+(2) Sikkerhetsfunksjoner som er mulige i arkivdokumenter, herunder passord og kryptering, skal være deaktivert ved avlevering eller deponering til Arkivverket. Arkivdokumenter kan bare overføres i kryptert form når det er gjort særskilt avtale om kryptering. En slik avtale skal omfatte regler om disponeringen av nøkler for dekryptering.
+
+(3) Arkivdokumenter kan være påført digitale signaturer basert på offentlig nøkkelkryptografi. Dersom de digitale signaturer inngår i et ikke godkjent format må det inngås avtale med Arkivverket.
+
+### § 5-17. Godkjente filformater for arkivdokumenter ved avlevering eller deponering
+
+(1) Følgende formater er godkjente ved avlevering eller deponering:Arkivdokumenter med ren tekst:TXT-ren tekstfil uten innkapslede objekter, jf. spesifikasjonen i [§ 5-11](forskrift/2017-12-19-2286/§5-11).TIFF – Tag Image File Format versjon 6, avbildninger av tekst, med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), første ledd.PDF/A – med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.XML-Extensible Markup Language versjon 1.0, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).JSON – Java Script Objekt Notation- ISO/IEC 21778, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).For tekstdokumenter i OOXML eller ODF format bør en PDF/A-versjon leveres som tillegg.Arkivdokumenter inneholdende tekst med objekter:TIFF – Tag Image File Format versjon 6, avbildninger, med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), første ledd.PDF/A – med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.For digitale fotografier og bilder aksepteres følgende formater:TIFF versjon 6 med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), første ledd.JPEG (ISO/IEC 10918-1:1994).JPEG 2000 (ISO/IEC 15444-1).PNG (ISO/IEC15948).PDF/A – med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.For kart aksepteres følgende formater:TIFF versjon 6 med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), første ledd.SOSI versjon 2.2 (1995) eller nyere.GML (ISO 19136).For videosekvenser aksepteres følgende formater:MPEG-2 (ISO/IEC 13818-2).MPEG-4/H.264 Part 10: Advanced Video Coding (ISO/IEC 14496-10).Matroska format container som spesifisert på matroska.org – med FFV1 video encoding som spesifisert på ffmpeg.org.JPEG 2000 (ISO/IEC 15444).For lydsekvenser aksepteres følgende formater:MP3 (ISO/IEC 13818-3).PCM-basert Wave (ref. Multimedia Programming Interface and Data Specification 1.0 – IBM Corporation og Microsoft Corporation, 1991).Broadcast WAV som spesifisert av European Broadcast Union og anbefalt av International Telecommunications Union (ITU-R BS.1352-3, Annex 1).FLAC, som spesifisert på xiph.org.Ogg format container med Vorbis audio encoding, som spesifisert på xiph.org.For regneark aksepteres følgende formater:PDF/A – med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.XML, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).For regneark i OOXML eller ODF format bør en PDF/A-versjon leveres som tillegg.For web-sider aksepteres følgende formater:WARC (ISO 28500).HTML (ISO/IEC 15445) basert på tegnsett som spesifisert i [§ 5-11](forskrift/2017-12-19-2286/§5-11).TIFF med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), første ledd.PDF/A med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.For presentasjoner aksepteres følgende formater:PDF/A – med de presiseringer som fremgår av [§ 5-18](forskrift/2017-12-19-2286/§5-18), andre ledd.XML, med de presiseringer som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).For presentasjoner i OOXML eller ODF format bør en PDF/A-versjon leveres som tillegg.For objektbaserte informasjonsmodeller for byggverk (BIM) aksepteres følgende format:IFC – Industry Foundation Classes (ISO 16739).
+
+(2) Pakking av data er tillatt etter følgende standard:TAR – som spesifisert under standarden IEEE 1003.1.
+
+(3) Komprimering av data er tillatt etter følgende standard:ZIP og ZIP64 – så lenge det er i henhold til ISO/IEC 21320-1.
+
+(4) For andre typer formater må det gjøres særskilt avtale med Arkivverket.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-18. Spesifiserte krav til arkivdokumenter i TIFF-format eller PDF/A-format
+
+(1) TIFF:TIFF-dokumenter kan være «single page» eller «multiple page». Ved «single page» må hver side av dokumentet være lagret som en egen fil under en felles katalog.TIFF-dokumenter med egendefinerte innholdselementer («private tags») aksepteres ikke.Tapsfri komprimering iht. CCITT/TSS gruppe 4, LZW eller PackBit skal brukes for dokumenter i svart/hvitt, og LZW eller PackBit for dokumenter med farger/gråtoner.Tapsfri Deflate/LZ76-komprimering generelt og tapsbringende komprimering med JPEG (ISO 10918-1:1994) godtas i TIFF-dokumenter med fotografier eller kart dersom det anvendes følgende endrede komprimeringsverdier som ble fastsatt i TIFF TechNote2 (1995):ved Deflate-komprimering skal komprimeringsverdi 8 brukes i stedet for den opprinnelige komprimeringsverdien 32946 (80b2 HEX) i TIFF versjon 6 (1992),ved JPEG-komprimering (ISO 10918-1:1994) skal komprimeringsverdi 7 brukes i stedet for den opprinnelige komprimeringsverdien 6 i TIFF versjon 6 (1992).Presisering i forhold til georeferering/stedfesting av TIFF (i form av såkalt GeoTIFF eller annet) aksepteres dersom det er kompatibelt med TIFF versjon 6.
+
+(2) PDF/A;Følgende varianter aksepteres:PDF/A-1 (ISO 19005-1), versjon 1a eller 1bPDF/A-2 (ISO 19005-2), versjon 2a, 2b eller 2uI spesielle tilfeller kan følgende godtas etter søknad:PDF/A-3 (ISO 19005-3), versjon 3a, 3b eller 3u.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-19. Spesifiserte krav til arkivdokumenter i XML-format eller JSON-format
+
+(1) Tegnsett i XML-dokumenter skal være UTF-8 eller ISO 8859-1/8859-4.
+
+(2) Når XML-dokumenter har DTD (Document Type Definition), alternativt XML Schema, og malfiler, for eksempel for stiloppsett, skal disse ligge ved som egne filer. Tilhørende XML Schema skal også ligge ved i de tilfeller XML-dokumenter bygger på fastsatte standarder som ISO/IEC 26300:2006 – Open Document Format (ODF), Microsofts og Ecmas Office Open XML-standard – OOXML (ECMA-376 ISO/IEC 29500).
+
+(3) DTD-er, XML Schemas og malfiler som deles av flere dokumenter, kan lagres én gang på overordnet nivå i en hierarkisk filstruktur på vedkommende lagringsenhet, forutsatt at det brukes relative filreferanser. Alle øvrige filer eller objekter som det enkelte XML-dokument refererer til, skal være samlet i en underkatalog, jf. [§ 5-31](forskrift/2017-12-19-2286/§5-31) nr. 1 bokstav b. XML filer skal ikke inneholde binære objekter.
+
+(4) Andre og tredje ledd gjelder ikke for arkivuttrekk i XML-format, jf. [§ 5-13](forskrift/2017-12-19-2286/§5-13).
+
+(5) Tegnsett i JSON-filer skal være UTF-8 eller ISO 8859-1/8859-4.
+
+(6) JSON-filer skal ikke inneholde binære objekter.
+
+(7) For JSON-filer bør det følge med et korresponderende JSON Schema som spesifisert på json-schema.org.
+
+(8) Filer eller objekter som det enkelte JSON-dokument refererer til, skal være samlet i en underkatalog, jf. [§ 5-31](forskrift/2017-12-19-2286/§5-31) nr. 1 bokstav b.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-20. Overgangsregler for andre dokumentformater
+
+(1) Formatene TIFF/IT (ISO 12639) og SGML kan ikke brukes ved arkivering etter 1. januar 2008. Arkivdokumenter som er arkivert i disse formatene før 1. januar 2008, aksepteres likevel ved senere deponering og avlevering.
+
+(2) Arkivdokumenter i PDF-format som er arkivert før 1. januar 2009 er fritatt for krav om å være i henhold til PDF/A-standard.
+
+(3) Alle PDF som er produsert frem til 1. januar 2009 skal skal så langt som mulig ha fonter innbygd.
+
+(4) Arkivdokumentene omtalt i første til tredje ledd skal ikke ha innbygde filer som lyd og video eller funksjoner for fileksekvering. Java Script skal ikke være benyttet, heller ikke Adobe PDF-funksjonen for innbygd skjemahåndtering. Arkivdokumenter med innbygde PDF skjemadata må lagres i TIFF, og eventuelt deretter konverteres til PDF på ny.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### Del V. Krav til arkivuttrekk fra Noark-systemer og andre journal- og arkivsystemer
+
+### § 5-21. Fellesbestemmelser om arkivuttrekk fra Noark-systemer
+
+(1) Arkivuttrekk fra Noark-systemer skal deponeres i Arkivverket som angitt i [§ 5-5](forskrift/2017-12-19-2286/§5-5) femte ledd. Tilknyttede arkivdokumenter kan bare medfølge Noark-systemer som er godkjent av Riksarkivaren for elektronisk arkivering.
+
+(2) Fra Noark-systemer skal journalopplysningene eksporteres som arkivuttrekk fra hele arkivperioder, jf. reglene for periodisering i Noark-standardene. Arkivuttrekket skal omfatte alle mapper/saker som ble avsluttet i perioden med samtlige registreringer/journalposter og eventuelle elektroniske arkivdokumenter som er tilknyttet registreringene/journalpostene.
+
+(3) Sammen med arkivuttrekket skal det elektronisk følge rapporter som angitt i den aktuelle versjonen av Noark-standarden. Alle rapporter skal være i godkjent arkivformat.
+
+(4) Dersom virksomhetsspesifikk informasjon inngår i arkivuttrekket, skal dette kun gjøres etter avtale med Arkivverket.
+
+(5) For arkivuttrekk etter Noark-3 (1994) og Koark (1995) gjelder i tillegg følgende: Arkivuttrekk med alle avsluttede saker fra en journalperiode skal fremstilles etter spesifikasjonene i Noark-3 (Riksarkivaren, 1994), kap. 15.5.1, alternativ 1. Journalsystemets arkivnøkkel skal likevel vedlegges, og lagringsmediet skal følge kravene i [§ 5-29](forskrift/2017-12-19-2286/§5-29). Arkivnøkkeltabellen skal ha navnet ARKIV.DAT, og tas ut med arkivkode på fast 16 posisjoner og gruppetekst (kodeteksten) på fast 255 posisjoner. Det skal ikke brukes postskille.
+
+(6) For arkivuttrekk etter Noark-4 (2002) gjelder i tillegg følgende: Arkivuttrekket og eventuelle tilknyttede arkivdokumenter skal omfatte en eller flere avsluttede hele arkivdeler. Det skal produseres i det avleveringsformat som er spesifisert i Noark versjon 4.1 (Riksarkivaren, 2002).
+
+(7) For arkivuttrekk etter Noark 5 (2010–2016) gjelder i tillegg følgende: Arkivuttrekk etter Noark 5, versjon 1.0 er ikke tillatt.
+
+### § 5-22. Dokumentasjonskrav til uttrekk fra Noark-systemer
+
+(1) Arkivuttrekk fra Noark-systemer er unntatt fra kravene i [§ 5-24](forskrift/2017-12-19-2286/§5-24) om en medfølgende struktur- og innholdsbeskrivelse og kravene i [§ 5-27](forskrift/2017-12-19-2286/§5-27) om dokumentasjon av det opprinnelige systemet. Med Noark-uttrekk skal det bare følge dokumentasjon om arkivskaperen som fastsatt i [§ 5-27](forskrift/2017-12-19-2286/§5-27) nr. 1 c), og dokumentasjon om selve deponeringen som fastsatt i [§ 5-28](forskrift/2017-12-19-2286/§5-28).
+
+(2) For arkivuttrekk basert på Noark 5 skal det likevel inngå en overordnet struktur- og innholdsbeskrivelse beskrevet i Noark 5-standarden som filen arkivuttrekk.xml. Denne filen skal hete addml.xml.
+
+### § 5-23. Uttrekk fra journal- og arkivsystemer som ikke følger Noark
+
+(1) Journal- og arkivsystemer som ikke er godkjent som Noark-systemer, men som likevel skal ivareta journalføringsplikten, skal produsere arkivuttrekk som i størst mulig grad følger spesifikasjonene i gjeldende Noark-standard.
+
+(2) Arkivuttrekk som avviker fra Noark-standarden, skal dokumenteres med en fullstendig struktur- og innholdsbeskrivelse slik det fremgår av kravene i [§ 5-24](forskrift/2017-12-19-2286/§5-24), og med opplysninger om det opprinnelige systemet og bruken av dette slik det fremgår av kravene i [§ 5-26](forskrift/2017-12-19-2286/§5-26) og [§ 5-27](forskrift/2017-12-19-2286/§5-27), med mindre Riksarkivaren har fastsatt noe annet for det enkelte system.
+
+### Del VI. Krav til teknisk dokumentasjon
+
+### § 5-24. Teknisk dokumentasjon av arkivuttrekk
+
+(1) For alle arkivuttrekk skal det medfølge en fullstendig struktur- og innholdsbeskrivelse i elektronisk form. Beskrivelsen skal omfatte tabellene og feltene i uttrekket som innleveres og ikke tabellstrukturen i databasen som uttrekket er eksportert fra. Følgende krav stilles til denne dokumentasjonen:Hver enkelt fil og posttype skal spesifiseres. Det skal gis en kort beskrivelse av innholdet. Relasjoner mellom filer skal angis og primærnøkler, fremmednøkler og kardinalitet skal defineres.Feltnavn i samtlige filer og posttyper skal beskrives. Feltenes datatype skal oppgis. Ved bruk av fast format, jf. [§ 5-12](forskrift/2017-12-19-2286/§5-12), oppgis hvert felts startposisjon og lengde. En utfyllende forklaring av feltinnhold skal gis i de tilfeller dette ikke fremgår av feltnavnet.Fullstendige kodeforklaringer skal gis for felt med kodede verdier. Dersom systemet lagrer kodene i egne filer, skal filer for disse inngå i arkivversjonen.
+
+(2) Struktur- og innholdsbeskrivelsen skal følge de formatkrav m.m. som fremgår av [§ 5-19](forskrift/2017-12-19-2286/§5-19).
+
+(3) Struktur- og innholdsbeskrivelse kreves ikke for arkivuttrekk fra Noark-3- og Noark 4-systemer.
+
+### § 5-25. Formatkrav m.m. til den tekniske dokumentasjonen
+
+(1) Struktur- og innholdsbeskrivelsen som skal følge med arkivuttrekk, skal være i ren tekst i godkjent tegnsett, jf. [§ 5-11](forskrift/2017-12-19-2286/§5-11). Beskrivelsen skal benytte XML-syntaks.
+
+(2) Når XML benyttes i beskrivelsen av arkivuttrekk med tekstfiler i fast eller tegnseparert format, jf. [§ 5-12](forskrift/2017-12-19-2286/§5-12) bokstav a og b, skal beskrivelsen følge reglene i Riksarkivarens beskrivelsesstandard ADDML (Archival Data Description Markup Language).
+
+(3) For arkivuttrekk med tekstfiler i XML-format, jf. [§ 5-12](forskrift/2017-12-19-2286/§5-12) bokstav c, skal tilhørende XML Schema følge med. Dette XML Schema skal igjen innordnes i en overordnet struktur- og innholdsbeskrivelse som følger ADDML.
+
+(4) Dokumentasjonsfilene skal være organisert og navngitt slik det fremgår av [§ 5-31](forskrift/2017-12-19-2286/§5-31).
+
+### § 5-26. Dokumentasjon av systemet som arkivuttrekket er eksportert fra
+
+(1) Det skal gis en oversikt over det opprinnelige systemets overordnede struktur, herunder relasjoner mellom tabeller og primær- og sekundærnøkler i de enkelte tabellene i systemets database. Denne oversikten kan ha form av et ER-diagram. Riksarkivaren kan kreve at utvalgte skjermbilder og utskrifter fra systemet blir dokumentert.
+
+(2) For å beskrive søk, datakombinasjoner og uttrekksmetoder som ble anvendt i det opprinnelige systemet, kan Riksarkivaren kreve at et antall SQL-spørringer fra systemet skal følge med som dokumentasjon. SQL-spørringer skal følge standarden SQL-92 (ISO/IEC 9075:1992) eller SQL-99 (ISO/IEC 9075:1999), og være tilpasset tabelluttrekket. SQL-setningene skal inngå i struktur- og innholdsbeskrivelsen dersom denne er utformet i XML, jf. [§ 5-25](forskrift/2017-12-19-2286/§5-25) nr. 1.
+
+(3) For arkivuttrekk som følger en Noark-standard kreves det ikke dokumentasjon av det opprinnelige systemet, jf. [§ 5-24](forskrift/2017-12-19-2286/§5-24) nr. 3.
+
+### Del VII. Krav til administrativ dokumentasjon
+
+### § 5-27. Opplysninger om opprinnelig systems funksjon og brukssammenheng
+
+(1) Følgende opplysninger skal gis om bruken av systemet som har produsert arkivuttrekket:systemets formål og administrative brukssammenhengsystemets hovedfunksjonernavn på arkivskaperen, eventuelt på de organer som har hatt roller som arkivskapere ved å oppdatere systemet. Når et system har hatt flere arkivskapere, skal også de ulike rolletypene til hver enkelt arkivskaper beskrivessystemets inn- og utdata, herunder datautveksling med andre systemereventuell hjemmel i lov eller forskrift for å opprette systemethåndbok som beskriver bruken av systemet, skal følge som vedlegg når den finnes.
+
+(2) Uttrekk fra Noark-systemer krever bare opplysningene etter første ledd bokstav c, jf. [§ 5-22](forskrift/2017-12-19-2286/§5-22).
+
+(3) Dokumentasjonen skal være i elektronisk form, i ett av formatene som er fastsatt i [§ 5-17](forskrift/2017-12-19-2286/§5-17). Filnavn og filplassering på lagringsmediet skal følge bestemmelsene i [§ 5-31](forskrift/2017-12-19-2286/§5-31).
+
+### § 5-28. Opplysninger om arkivuttrekket
+
+(1) Følgende opplysninger om arkivuttrekket skal ligge ved arkivmaterialet:navn på organet som er ansvarlig for arkivuttrekket,navn og eventuelt versjonsnummer på systemet som arkivuttrekket kommer fra,tidsrommet som arkivuttrekket omfatter,navn på arkivskaper. Dersom arkivuttrekket omfatter flere arkivskapere, skal start- og sluttdato oppgis for hver arkivskaper. Dersom uttrekket kommer fra et Noark-system som har vært delt av flere organer, skal det beskrives hvordan hver arkivskaper identifiseres,antall poster i datauttrekkets viktigste tabeller og annen tallfesting av omfang,antall lagringsenheter som medfølger,navn på den ansvarlige for avleveringen eller deponeringen hos det avleverende eller deponerende organet,navn på eier. Dersom arkivuttrekket har flere eiere, skal alle eiere oppgis.
+
+(2) Dersom deler av materialet er gradert, konsesjonsbelagt, underlagt taushetsplikt eller av andre grunner unntatt fra offentlighet, skal det informeres særskilt om dette.
+
+(3) Likeledes skal åndsverksrettigheter og andre begrensinger i bruk angis.
+
+(4) Ovennevnte opplysninger skal oppgis enten i den vedlagte struktur- og innholdsbeskrivelsen eller i overføringsfilen.
+
+### Del VIII. Krav til lagringsmedium og filorganisering
+
+### § 5-29. Krav til lagringsmedium med tilhørende filsystem
+
+(1) På alle lagringsmedier skal det benyttes et godkjent filsystem som bevarer arkivversjonens opprinnelige filnavn. Med mindre andre typer medier er avtalt med Arkivverket, skal følgende lagringsmedier og filsystemer nyttes:CD-R, med filsystem ISO 9660:1988, Level 1 eller Microsoft Joliet. Maksimal kapasitet skal være 700 MB. Utnyttelse av mulig ekstra lagringskapasitet på mediet («overburn») tillates ikke. CD-R-plater skal ikke pålimes etikett, men merkes med CD-penn. Hver plate skal oppbevares i lukket plastkassett som skal ha pålimt, merket etikett.DVD-R eller DVD+R, med filsystem UDF – Universal Disk Format, versjon 1.02 eller senere. Data skal bare være lagret i ett lag på én side. Versjonsnummer av UDF skal oppgis. Kravene til merking og oppbevaring er som for CD-R-plater, jf. bokstav a.Blu-ray BD-R, med filsystem UDF – Universal Disk Format, versjon 2.6 eller senere. Data skal bare være lagret i ett lag på én side. Versjonsnummer av UDF skal oppgis. Kravene til merking og oppbevaring er som for CD-R-plater, jf. bokstav a.Harddisk med USB-tilkobling. Filsystemet skal være FAT32, NTFS eller UDF, versjon 1.02 eller senere. Versjonsnummer skal oppgis når UDF brukes.Minnepinne med USB-tilkobling. Filsystemet skal være FAT32 eller NTFS.Overføring av en arkivversjon over linje til Arkivverket kan kun gjøres etter avtale med Arkivverket.
+
+(2) En arkivversjon kan maksimum være på 1TB. Avvik fra dette kravet må være avtalt med Arkivverket.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 5-30. Filorganisering og navngiving generelt
+
+(1) Dersom en arkivversjon består av mer enn én lagringsenhet, skal det opprettes en rotkatalog med et entydig navn på hver enhet, f.eks. ARKIV1, ARKIV2 osv.
+
+(2) Dersom en datafil har en referanse til en annen datafil, skal den være navngitt og plassert i en katalogstruktur på en slik måte at de relative referansene blir bevart. Bestemmelsene i [§ 5-31](forskrift/2017-12-19-2286/§5-31) første ledd bokstav b–c og [§ 5-32](forskrift/2017-12-19-2286/§5-32) bokstav b kan fravikes etter avtale med Arkivverket, dersom dette er nødvendig for å bevare de relative referansene til elektroniske dokumenter.
+
+### § 5-31. Organisering av datafiler i avleverings- eller deponeringspakke
+
+(1) Filene som utgjør arkivuttrekket, skal være organisert på følgende måte:Arkivuttrekk skal ligge på første nivå under rotkatalogen på vedkommende lagringsenhet. Filnavn skal være entydige, og ha filendelsen DAT når formatet er fast eller tegnseparert, og XML når formatet er XML. Det skal brukes et lagringsmedium hvor filer ikke må deles.For arkivdokumenter skal det opprettes en katalog med navnet DOKUMENT på første nivå under rotkatalogen på vedkommende lagringsenhet. Dokumentfilene skal samles på andre nivå under rotkatalogen og eventuelt struktureres i underkataloger. Dersom et enkelt arkivdokument består av flere filer, skal disse samles i én katalog med et entydig navn. Filformat for arkivdokumenter angis ved filendelse, f.eks. XML, PDF eller TIF.Elektroniske utskrifter fra datasystemet skal lagres under en katalog med navnet RAPPORT på første nivå under rotkatalogen på vedkommende lagringsenhet. Rapportfilene skal samles på andre nivå under rotkatalogen.
+
+(2) Avleverings- eller deponeringspakken skal inneholde følgende tre kataloger:administrative_metadatadescriptive_metadatacontent.
+
+(3) På avleverings- eller deponeringspakkens rotnivå skal det ligge en fil som følger dias-mets.xsd. Denne filen skal inneholde en oversikt over alle filer i avleverings- eller deponeringspakken med filenes sjekksummer, m.m.
+
+(4) Under administrative_metadata skal det ligge en fil som følger dias-premis.xsd. Denne filen skal inneholde en oversikt over alle graderinger, unntatt offentlighet og andre restriksjoner i materialet, samt viktige hendelser som har skjedd med materialet.
+
+(5) Under administrative_metadata bør det også ligge en kopi av struktur- og innholdsbeskrivelsen.
+
+(6) Selve arkivversjonen som nevnt ovenfor skal legges under katalogen content.
+
+(7) Deretter skal hele avleverings- eller deponeringspakken pakkes som en enkelt TAR-fil. TAR-filen skal navngis som <UUID>.tar.
+
+(8) Deretter skal det lages en overføringsfil med samme navn som TAR-filen og som følger info.xsd. Denne filen skal inneholde opplysninger om avleveringen eller deponeringen som fastsatt i [§ 5-28](forskrift/2017-12-19-2286/§5-28). Dessuten skal den også inneholde sjekksum for TAR-filen.
+
+(9) Alle sjekksummer skal være i henhold til SHA-256.
+
+(10) Overføringsfilen skal overføres for seg via e-post til Arkivverket.
+
+### § 5-32. Organisering av medfølgende dokumentasjonsfiler
+
+Følgende filer med dokumentasjon skal plasseres på første nivå under rotkatalogen på første lagringsenhet:Struktur- og innholdsbeskrivelsen som følger datauttrekket, jf. [§ 5-24](forskrift/2017-12-19-2286/§5-24). Når beskrivelsen bygger på ADDML, skal filen ha navnet addml.xml. Dette gjelder også for struktur- og innholdsbeskrivelsen for Noark-5 som i standarden er navngitt arkivuttrekk.xml. Dessuten skal filen addml.dtd eller addml.xsd finnes i samme katalog. Når arkivuttrekket omfatter filer i XML-format, jf. [§ 5-25](forskrift/2017-12-19-2286/§5-25) tredje ledd, skal medfølgende XML Schema ha filendelsen xsd.System- og bruksdokumentasjon, jf. [§ 5-27](forskrift/2017-12-19-2286/§5-27) og [§ 5-28](forskrift/2017-12-19-2286/§5-28). Det skal opprettes en katalog med navnet SYSDOK på første nivå under rotkatalogen i arkivversjonen, og filene med dokumentasjon skal ligge på andre nivå under rotkatalogen.
+
+## Kapittel 6. Avlevering og overføring av analoge arkiv
+
+> Overskrift endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 6-1. Virkeområde
+
+(1) Bestemmelsene i kapitlet her gjelder ved avlevering av analoge arkiv til arkivdepot jf. [forskrift om offentlege arkiv § 20](forskrift/2017-12-15-2105/§20).
+
+(2) Ved overføring av analoge arkiv til andre offentlige organer enn arkivdepot gjelder bestemmelsene så langt de passer, jf. [forskrift om offentlege arkiv § 21](forskrift/2017-12-15-2105/§21).
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 6-2. Avleveringsliste, tidspunkt for avlevering
+
+(1) Arkiv som ikke lenger er i bruk for administrative formål (eldre arkiv), og arkiv etter organ som er nedlagte eller har avsluttet sin virksomhet (avslutta arkiv), skal avleveres til arkivdepot når de er om lag 25 til 30 år gamle. Riksarkivaren kan fastsette lengre eller kortere avleveringsfrister for statlig arkivmateriale jf. [forskrift om offentlege arkiv § 18](forskrift/2017-12-15-2105/§18) første ledd. Kommuner og fylkeskommuner kan treffe vedtak om lengre avleveringsfrister i henhold til [forskrift om offentlege arkiv § 18](forskrift/2017-12-15-2105/§18) andre ledd.
+
+(2) Før avleveringen av arkivmaterialet til depotet skal organet fylle ut en avleveringsliste med oversikt over alle arkivstykkene og hva de inneholder.
+
+(3) Arkivverket utarbeider mal for avleveringsliste som statlige organer skal bruke. Statlig arkivmateriale kan ikke avleveres før Arkivverket har godkjent avleveringslisten. I avleveringslisten skal det fremgå hvilke deler av arkivet som er unntatt offentlighet, med henvisning til hjemmelen for dette. Det nærmere tidspunktet for avleveringen avklares med Arkivverket etter at avleveringslisten er godkjent.
+
+(4) Arkivdepotet skal kvittere for det mottatte arkivmaterialet.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 6-3. Beskrivelse av arkivet
+
+(1) Organet skal legge ved nødvendig dokumentasjon med beskrivelse av arkivet. Beskrivelsen skal inneholde relevante opplysninger om innhold, en kort historikk om virksomheten (mandat, funksjon, lovhjemmel) til det organet som har skapt arkivet, opplysning om materialets fysiske tilstand og lignende.
+
+(2) Arkivmateriale som inneholder sikkerhetsgraderte opplysninger må merkes, fraktes, og håndteres og beskyttes i tråd med virksomhetsikkerhetsforskriften. Overlevering av arkivmateriale med gradert informasjon må skje i samsvar med sikkerhetslovens krav til beskyttelse av informasjon.
+
+(3) Organet skal legge ved kopi av de arkivnøklene som arkivmaterialet er ordnet etter.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 6-4. Rensing og tilrettelegging av materialet. Skader
+
+(1) Før avlevering til arkivdepot skal arkivmaterialet være renset for binders, tape, plastomslag og tilsvarende, og arkivstykkene være rengjort for støv og smuss.
+
+(2) Før avleveringen skal arkivskaper opplyse arkivdepotet om det er eller har vært skader på materialet.
+
+(3) Dersom arkivmaterialet er skadet som følge av mugg, fukt, skadedyr eller lignende kan arkivdepot kreve at skaden utbedres før avlevering. Før avlevering til Arkivverket skal slike skader være utbedret.
+
+### § 6-5. Merking
+
+(1) Arkivmateriale skal legges i omslag, mapper eller liknende som påføres relevant informasjon som f.eks. saksnummer, arkivkode, emne og årstall.
+
+(2) Arkivmateriale som ikke kan legges i vanlige arkivesker, f.eks. kart, tegninger og foto, skal pakkes inn på annen hensiktsmessig måte. Arkivskaper samrår seg med arkivdepot om hva som er hensiktsmessig.
+
+(3) Arkivesker skal være merket. Statlige organer bruker etiketter i tråd med Arkivverkets standarder.
+
+(4) Ved avlevering til Arkivverket skal både omslag/mapper og esker oppfylle krav i internasjonal standard for papir og langtidslagring av dokumenter ISO 9706 og ISO 16245.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 6-6. Transport. Kostnader
+
+(1) Arkivstykkene skal pakkes i transportemballasje og transporteres i den rekkefølgen som avleveringslisten viser.
+
+(2) Arkivmaterialet skal fraktes på trygg og forsvarlig måte til arkivdepotet.
+
+(3) Arkivskaper dekker alle kostnader knyttet til frakt og overføring av arkivmaterialet frem til plassering i arkivdepotet.
+
+## Kapittel 7. Bevaring og kassasjon
+
+### Del I. Innledende bestemmelser
+
+### § 7-1. Formål
+
+Formålet med bestemmelsene i dette kapittelet er å:sikre at bevaringsverdig arkiv blir tatt vare på for ettertiden, jf. [arkivloven § 1](lov/1992-12-04-126/§1).legge til rette for kassasjon av arkivmateriale uten langvarig bevaringsverdi, for å spare kostnader knyttet til langtidsbevaring, så som oppbevaring, vedlikehold og gjenfinning.sikre at arkiv ikke blir kassert før rettslige og forvaltningsmessige dokumentasjonsbehov er bortfalt.
+
+### § 7-2. Definisjoner
+
+I dette kapitlet blir disse begrepene brukt slik:*Arbeidsprosess:* én avgrenset rekkefølge av aktiviteter som gjentatte ganger utøves i en virksomhet for å oppnå et bestemt resultat i samsvar med fastsatte regler.*Sak:* dokumentasjon skapt som ledd i utførelsen av en enkeltstående oppgave eller arbeidsprosess.*Sakstype:* saker som gjelder en bestemt type oppgave eller arbeidsprosess.*Funksjon:* et ansvarsområde som en virksomhet forvalter for å oppnå bestemte mål, og som består av en gruppe arbeidsprosesser.*Egenforvaltning:* offentlige organers administrative funksjoner knyttet til forvaltning av eget organ.*Egenforvaltningssaker:* saker som gjelder offentlige organers egenforvaltning.*Fagsaker:* saker som gjelder offentlige organers kjernevirksomhet knyttet til samfunnsoppdrag som organene er opprettet for å ivareta.*Merbevaring:* bevaring av arkivmateriale som det i henhold til bevarings- og kassasjonsbestemmelser for fylkeskommunale og kommunale arkiv er tillatt å kassere.*Bevaring:* å ta vare på arkivmateriale for ettertiden.*Kassasjon:* å ta ut og destruere arkivmateriale som ikke skal bevares.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 7-3. Fastsettelse av oppbevaringstid før kassasjon
+
+(1) For arkivmateriale som kan kasseres skal offentlige organer fastsette oppbevaringstid slik at arkivmateriale ikke kasseres før eventuelle dokumentasjonsbehov bortfaller. Oppbevaringstiden angir hvor lenge arkivmaterialet skal bevares før det tidligst kan kasseres.
+
+(2) Ved fastsettelse av oppbevaringstid skal det vurderes hvor lenge det er behov for å oppbevare arkivmaterialet av hensyn til:bestemmelser om tidsbegrenset oppbevaring i annet regelverk.egne administrative og juridiske dokumentasjonsbehov.borgernes dokumentasjonsbehov.offentlige og private virksomheters juridiske dokumentasjonsbehov.
+
+(3) Oppbevaringstiden skal nedfelles skriftlig.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 7-4. Forholdet til annet regelverk
+
+Arkivmateriale om personkontroll og klarering som behandles av klareringsmyndighetene og Nasjonal sikkerhetsmyndighet skal behandles i henhold til instruks om bevaring, kassasjon og avlevering. Instruksen skal godkjennes av Riksarkivaren jf. [klareringsforskriften § 30](forskrift/2018-12-20-2054/§30).
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### Del II. Generelle bevarings- og kassasjonsbestemmelser for egenforvaltningssaker i statlige organer
+
+### § 7-5. Virkeområde
+
+(1) Bestemmelsene i denne delen gjelder for statlige organer og andre virksomheter som skaper statlige arkiver i henhold til [arkivloven § 2](lov/1992-12-04-126/§2) bokstav c.
+
+(2) Bestemmelsene gjelder for alt arkivmateriale som skapes som ledd i statlige organers egenforvaltning. Bestemmelsene gjelder ikke for statlige organers fagsaker. For fagsakene skal statlige organer utarbeide egne spesifiserte kassasjonsregler, jf. [forskrift om offentlege arkiv § 16](forskrift/2017-12-15-2105/§16) annet ledd.
+
+(3) Bestemmelsene gjelder kun de sakstypene som positivt er omtalt her. For sakstyper som kommer til som nye eller som av andre grunner ikke er omtalt i disse bestemmelsene, kan ikke arkivmateriale kasseres uten Riksarkivarens samtykke, jf. [arkivloven § 9](lov/1992-12-04-126/§9).
+
+(4) Arkivmateriale som er underlagt bevaringspåbud skal alltid bevares dersom ikke Riksarkivaren har fastsatt noe annet, jf. [forskrift om offentlege arkiv § 15](forskrift/2017-12-15-2105/§15).
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 7-6. Skille mellom egenforvaltningssaker og fagsaker
+
+(1) Statlige organer skal fastsette og gjennomføre et hensiktsmessig og konsekvent skille mellom egenforvaltningssaker og fagsaker i egen arkivdanning.
+
+(2) Dersom det ikke er mulig å gjennomføre et hensiktsmessig og konsekvent skille mellom egenforvaltningssaker og fagsaker, skal arkivmaterialet behandles som en fagsak. For fagsakene skal statlige organer utarbeide egne spesifiserte bevarings- og kassasjonsbestemmelser, jf. [forskrift om offentlege arkiv § 16](forskrift/2017-12-15-2105/§16) annet ledd.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 7-7. Bevaring og kassasjon tilpasset virksomhetens egenart
+
+(1) Statlige organer skal anvende bestemmelsene på en måte som er tilpasset virksomhetens egenart, slik at formålet med bestemmelsene i størst mulig grad blir oppfylt.
+
+(2) Dersom virksomhetens egenart tilsier at det er behov for å utarbeide spesielle bevarings- og kassasjonsbestemmelser for bestemte sakstyper innen organets egenforvalting, skal statlige organer utarbeide slike bestemmelser. Bestemmelsene skal godkjennes av Riksarkivaren før de tas i bruk.
+
+### § 7-8. Oppbygningen av bevarings- og kassasjonsbestemmelsene
+
+Bestemmelsene er bygget opp slik at hver paragraf angir en bestemt funksjon innen egenforvaltning. For hver enkelt funksjon er det angitt sakstyper som skal bevares og sakstyper som kan kasseres. Sakstypene gjenspeiler arbeidsprosesser innen egenforvaltning. Til bestemte sakstyper angis det også typer av dokumentasjon som kjennetegner den enkelte sakstypen. Dokumenttypene er ment som føringer for hvordan sakstypene skal avgrenses mot hverandre, og ikke som en uttømmende opplisting av all dokumentasjon innen den enkelte sakstypen.
+
+### § 7-9. Organisering og organisasjonsutvikling
+
+(1) Følgende sakstyper skal bevares:Etablering og endring av organets organisasjonsstruktur, som inneholder dokumentasjon om:organets interne organisering, organisasjonskart og planer.utredning og evaluering av organets organisering.Etablering og endring av organets interne ledelses- og styringsstruktur som inneholder dokumentasjon om:instrukser og retningslinjer for myndighets-, oppgave- og ansvarsfordeling i organet.utredning og evaluering av ledelses- og styringsstruktur.Organisering av interne utvalg og deres virksomhet innen egenforvaltning dersom utvalgets virksomhet hører inn under sakstyper som skal bevares i henhold til de øvrige bestemmelsene i denne forskriften.Organisering av prosjekter og deres virksomhet innen egenforvaltning dersom prosjektets virksomhet hører inn under sakstyper som skal bevares i henhold til de øvrige bestemmelsene i denne forskriften.Organisering av organets samarbeid med andre organer innen egenforvaltning dersom samarbeidet hører inn under sakstyper som skal bevares i henhold til de øvrige bestemmelsene i denne forskriften.Organisering av lovpålagte faste utvalg og andre samarbeidsorganer mellom arbeidsgiver og arbeidstakerorganisasjoner samt deres virksomhet, som inneholder dokumentasjon om oppnevning, avtaler, forhandlinger og drøftinger, herunder forhandlingsprotokoller og referater fra drøftinger.Organets organisering av og deltakelse i internasjonalt samarbeid knyttet til egenforvaltning.
+
+(2) Følgende sakstyper kasseres:Interne organisatoriske arbeidsprosesser som ikke medfører endringer av organets organisasjonsstruktur.Organisering av interne utvalg og deres virksomhet innen egenforvaltning dersom utvalgets virksomhet hører inn under sakstyper som kasseres i henhold til de øvrige bestemmelsene i denne forskriften.Organisering av prosjekter og deres virksomhet innen egenforvaltning dersom prosjektets virksomhet hører inn under sakstyper som kasseres i henhold til øvrige bestemmelsene i denne forskriften.Organisering av samarbeid med andre organer innen egenforvaltning dersom samarbeidet hører inn under sakstyper som kasseres i henhold til øvrige bestemmelsene i denne forskriften.
+
+### § 7-10. Virksomhets- og økonomistyring
+
+(1) Følgende sakstyper bevares:Utarbeidelse av organets forslag og innspill til statsbudsjett, som inneholder dokumentasjon om organets innspill til årlig statsbudsjett og bevilgningsendringer i årets statsbudsjett.Overordnet departements styring av underliggende organ, som inneholder dokumentasjon om instrukser fra overordnet departement og styringsdialogen mellom departement og den enkelte virksomheten, strategiske og årlige planer, tildelingsbrev fra overordnet departement, rapporter til overordnet departement, etatsstyringsmøter og departementets evaluering av organets virksomhet.Utarbeidelse av organets interne instrukser og retningslinjer for virksomhets- og økonomistyring, som inneholder dokumentasjon om organets interne instrukser og retningslinjer for virksomhets- og økonomistyring, herunder også internrevisjon, evaluering og andre arbeidsprosesser innen virksomhetsstyring.Organets strategiske planlegging, som inneholder dokumentasjon om strategiske planer og andre strategiske styringsdokumenter.Organets årlige virksomhetsplanlegging og budsjettdisponering, som inneholder dokumentasjon om:organets virksomhetsplan og internbudsjett, interne styringsbrev og andre årlige styringsdokumenter.virksomhetsplaner for administrative enheter i organet og innspill til budsjettfordeling fra administrative enheter i organet.Organets årlige virksomhetsrapportering, som inneholder dokumentasjon om:organets årsrapport med årsregnskap og andre rapporter til overordnet departement.organets saldoliste.interne årsrapporter og andre periodiske virksomhetsrapporter fra administrative enheter i organet.Organets internrevisjon, som inneholder dokumentasjon om internrevisjon, herunder årsplaner for internrevisjon, interne revisjonsrapporter og årsrapporter fra internrevisjon.Ekstern revisjon, som inneholder dokumentasjon om Riksrevisjonens regnskapsrevisjon, forvaltningsrevisjon og selskapsrevisjon samt revisjoner utført av private revisjonsselskaper.Evaluering av organets virksomhets- og økonomistyring, som inneholder evalueringsrapporter og annen dokumentasjon om evaluering av virksomhetsstyringsfunksjon.Organets eierstyring av selskaper og stiftelser, som inneholder dokumentasjon om etablering av selskaper og stiftelser, eierskapsutøvelse og eierstyring.
+
+(2) Følgende sakstyper kasseres:Regnskapsføring, herunder regnskapsmateriale med unntak av organets årsregnskap og saldoliste som skal bevares.
+
+### § 7-11. Personalforvaltning
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets personalforvaltning, som inneholder dokumentasjon om:strategiske personalplaner og annen strategisk styringsdokumentasjon.lokal personalpolitikk, herunder kompetansepolitikk, lønnspolitikk, livsfasepolitikk og annen personalpolitisk dokumentasjon.lokale særavtaler mellom arbeidsgivere og arbeidstakerorganisasjoner.interne reglementer og retningslinjer for personalforvaltning, herunder rekruttering, opplæring og kompetanseutvikling, permisjoner, konflikthåndtering, varsling og andre arbeidsprosesser innen personalforvaltning.evaluering av organets personalforvaltning, herunder rekruttering, opplæring og kompetanseutvikling, permisjoner, konflikthåndtering, varsling og andre arbeidsprosesser innen personalforvaltning.Rekruttering og tilsetting, som inneholder dokumentasjon om:kunngjøring, stillingssøknad med vedlegg til den som blir tilsatt, offentlig søkerliste og utvidet søkerliste.behandling av tilsettingssaker ved organets innstillings- og tilsettingsmyndighet.behandling av tilsettingssaker i overordnet organ ved dissens mellom medlemmene i den tilsettende myndighet eller ved uenighet mellom den innstillende og den tilsettende myndighet i organet.tilsettingsbrev og arbeidsavtaler.Lønnsforhandlinger, som inneholder dokumentasjon om:føringer fra overordnet departement, anbefalinger fra arbeidsgiver samt forhandlinger og drøftinger, herunder forhandlingsprotokoller og referater fra drøftinger.voldgiftsbehandling av tvister.Regulering av arbeidstid, som inneholder dokumentasjon om lokale arbeidstidsordninger, herunder arbeidsvaktplaner.Oppfølging av den enkelte ansatte, som inneholder dokumentasjon om:endringer av stillingsprosent av betydning for den ansattes pensjonsforhold.lønn og godtgjørelser av betydning for den ansattes pensjonsforhold.permisjoner av betydning for den ansattes pensjonsforhold.arbeidsulykker, yrkesskader og yrkessykdommer.ordensstraff.omplassering, beordring, fortrinnsrett dersom saken fører til rettslig prøving.avslutning av arbeidsforhold.
+
+(2) Følgende sakstyper kasseres:Opplæring og kompetanseutvikling innen egenforvaltning, som inneholder dokumentasjon om:opplæring av nyansatte, herunder introduksjonsprogrammer, opplæringsplaner og -tiltak.planlegging og gjennomføring av interne og eksterne kurs og andre kompetansehevende tiltak innen organets egenforvaltning.Innhenting av underlagsmateriale i forbindelse med lønnsforhandlinger, som inneholder dokumentasjon om lønnskrav fra arbeidsgiver og arbeidstakerorganisasjoner, lønnsstatistikker og annet underlagsmateriale.Registrering og kontroll av arbeidstid, som inneholder dokumentasjon om arbeidstidsregistreringer.Planlegging og gjennomføring av velferdstiltak for ansatte.Oppfølging av den enkelte ansatte, som inneholder dokumentasjon uten betydning for den ansattes pensjonsforhold, ordensstraff, arbeidsulykker, yrkesskader og yrkessykdommer.
+
+### § 7-12. Helse, miljø og sikkerhet (HMS)
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets arbeid med helse miljø og sikkerhet (HMS), som inneholder dokumentasjon om:interne instrukser og retningslinjer for organets systematiske helse- miljø og sikkerhetsarbeid.årlige HMS-rapporter, systematiske gjennomganger og evalueringer av organets HMS-arbeid.Arbeidsmiljøundersøkelser, som inneholder dokumentasjon om undersøkelse og evaluering av arbeidsmiljø.Tilsyn fra HMS-myndigheter, som inneholder dokumentasjon om HMS-tilsyn og organets oppfølging av tilsynet.Oppfølging av arbeidsulykker, yrkesskader og yrkessykdommer, som inneholder dokumentasjon om arbeidsgiverens oppfølging av ansatte i forbindelse med arbeidsulykker, yrkesskader og yrkessykdommer.Konflikthåndtering, som inneholder dokumentasjon om partenes syn på konflikten og arbeidsgiverens oppfølging av saken.Varsling av kritikkverdige forhold, som inneholder dokumentasjon om varsler fra arbeidstakere og arbeidsgiverens oppfølging av varslene.
+
+(2) Følgende sakstyper kasseres:HMS-opplæring, som inneholder dokumentasjon om organets opplæringsplaner for helse-, miljø- og sikkerhet, HMS-kurs og andre opplæringstiltak.Registrering og oppfølging av hendelser og avvik, som inneholder dokumentasjon om løpende rutinemessig HMS-oppfølging med unntak av arbeidsulykker og yrkesskader.Gjennomføring av HMS-runder som inneholder dokumentasjon om løpende rutinemessig HMS-oppfølging.Gjennomføring av HMS-revisjoner, som inneholder dokumentasjon om løpende rutinemessig oppfølging og revisjon av organets HMS-system.
+
+### § 7-13. Virksomhetsintern sikkerhet og beredskap
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets arbeid med virksomhetsintern sikkerhet og beredskap, som inneholder dokumentasjon om:virksomhetsinterne sikkerhetsstrategier, sikkerhetspolicy og andre styringsdokumenter.interne instrukser og retningslinjer for organets sikkerhets- og beredskapsarbeid.organisering av organets sikkerhets- og beredskapsarbeid.virksomhetsledelsens gjennomgang og evaluering av organets sikkerhets- og beredskapsarbeid.Risiko- og sårbarhetsanalyser som danner grunnlag for virksomhetsledelsens beslutninger, virksomhetsintern strategi og policy for sikkerhet og beredskap.Rapportering om virksomhetsintern sikkerhet og beredskap som inneholder rapporter til virksomhetsledelse og rapporter til overordnet departement.Virksomhetsintern beredskapsplanlegging som inneholder dokumentasjon om virksomhetsinterne beredskapsplaner.
+
+(2) Følgende sakstyper kasseres:Registrering og oppfølging av hendelser og avvik knyttet til virksomhetsintern sikkerhet og beredskap som inneholder dokumentasjon om meldinger vedrørende hendelser og avvik samt løpende rutinemessige oppfølging av meldingene.Gjennomføring av virksomhetsinterne sikkerhetsrevisjoner som inneholder dokumentasjon om løpende rutinemessige revisjoner av virksomhetens sikkerhets- og beredskapssystem.Gjennomføring av virksomhetsinterne sikkerhetstester som inneholder dokumentasjon om løpende rutinemessige sikkerhetstester knyttet til drift og vedlikehold av det virksomhetsinterne sikkerhets- og beredskapssystemet.Risiko- og sårbarhetsanalyser som inngår i løpende rutinemessig håndtering av operative oppgaver knyttet til virksomhetsintern sikkerhet og beredskap.Virksomhetsinterne beredskapsøvelser.
+
+### § 7-14. Bygg- og eiendomsforvaltning
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets eiendomsfunksjon, som inneholder dokumentasjon om:organets eiendomsstrategier og andre strategiske styringsdokumenter.interne instrukser og retningslinjer for organets eiendomsvirksomhet.utredning og evaluering av organets eiendomsvirksomhet, herunder erverv og avhending, bygging, leie, drift og vedlikehold av bygninger, anlegg og lokaler.Erverv og avhending av eiendom.Planlegging og gjennomføring av byggeprosjekter, herunder dokumentasjon om:oppdrag.rom- og funksjonsanalyse.ferdig forprosjekt.ferdig skisseprosjekt hvis det ikke foreligger ferdig forprosjekt.ferdig detaljprosjekt.kontrakt med antatt tilbud.som bygget dokumentasjon, herunder tegninger og beskrivelser av bygningens oppbygging og kvalitet.rapporter fra uavhengig kontroll.overtagelsesdokumentasjon fra entreprenør til byggherre.sluttrapport.Forvaltning av statens kulturhistoriske eiendommer, som inneholder dokumentasjon om ombygging og renovering av statens kulturhistoriske eiendommer.
+
+(2) Følgende sakstyper kasseres:Leie av eiendommer, bygninger og lokaler som inneholder dokumentasjon om inngåelse og oppfølging av de enkelte leieforholdene.Planlegging og gjennomføring av byggeprosjekter, herunder dokumentasjon om:ikke antatte tilbud.utkast og arbeidsversjoner av teknisk dokumentasjon, arbeidstegninger og lignende.forvaltnings-, drifts- og vedlikeholdsdokumentasjon som bruksanvisninger, HMS-datablader, materialdokumentasjon, vedlikeholdsrutiner og lignende.Drift og vedlikehold av bygninger, anlegg og lokaler som inneholder dokumentasjon om gjennomføring av rutinemessige drifts- og vedlikeholdstiltak.
+
+### § 7-15. Anskaffelser
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets anskaffelsesfunksjon, som inneholder dokumentasjon om:organets innkjøpsstrategi og innkjøpspolicy.interne instrukser og retningslinjer for organets innkjøpsvirksomhet og kontraktoppfølging.evaluering av organets innkjøpsvirksomhet.
+
+(2) Følgende sakstyper kasseres:Anskaffelser av varer og tjenester innen organets egenforvaltning.Oppfølging av leveranser knyttet til anskaffelse av varer og tjenester innen organets egenforvaltning.
+
+### § 7-16. Arkiv
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av arkivfunksjon, som inneholder dokumentasjon om organisering av organets arkivfunksjon, interne instrukser og retningslinjer, klassifikasjonssystemer, bevarings- og kassasjonsplaner, evaluering av organets arkivfunksjon.Innsynsbegjæringer som fører til drøfting og særskilt begrunnelse, samt klager over avslag på innsynsbegjæringer og innsynskravet som var grunnlag for klagen.Overføring av arkiv til andre offentlige organer eller private rettsubjekter.Behandling av saker om tap av arkivmateriale og uhjemlet kassasjon.
+
+(2) Følgende sakstyper kasseres:Drift og vedlikehold av arkivfunksjon, som inneholder dokumentasjon om:gjennomføring av arkivrutiner, opplæring og brukerstøtte, periodisering og bortsetting, oppbevaring av arkiv, deponering og avlevering.innsynsbegjæringer som ikke medfører omfattende drøfting, særskilt begrunnelse eller klage.
+
+### § 7-17. Bibliotek
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets biblioteksfunksjon, som inneholder dokumentasjon om organisering av organets biblioteksfunksjon, interne instrukser og retningslinjer, evaluering av biblioteksfunksjon.
+
+(2) Følgende sakstyper kasseres:Drift og vedlikehold av biblioteksfunksjon, som inneholder dokumentasjon om gjennomføring av bibliotekrutiner, klassifisering og registrering av ny litteratur, anskaffelse av litteratur og tidsskrifter, abonnering, publikumsveiledning, inn- og utlån og utstillinger.
+
+### § 7-18. Virksomhetsintern informasjons- og kommunikasjonsteknologi (IKT)
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets IKT-funksjon, som inneholder dokumentasjon om:organets IKT-strategi, IKT-policy og andre styringsdokumenter.utredning og evaluering av organets IKT-virksomhet.
+
+(2) Følgende sakstyper kasseres:Drift, vedlikehold og brukerstøtte knyttet til IKT innen egenforvaltning.Utvikling av IKT-løsninger innen egenforvaltning.
+
+### § 7-19. Virksomhetsintern kommunikasjon
+
+(1) Følgende sakstyper bevares:Planlegging, styring og evaluering av organets interne kommunikasjonsfunksjon, som inneholder dokumentasjon om:organets strategi for internkommunikasjon, retningslinjer for internkommunikasjon, virksomhetsinterne kommunikasjonsplaner.utredning og evaluering av organets internkommunikasjon.
+
+(2) Følgende sakstyper kasseres:Planlegging og gjennomføring av virksomhetsinterne informasjonstiltak, som inneholder dokumentasjon om informasjonsmøter, undersøkelser av organets internkommunikasjon, interne kommunikasjonskampanjer og andre virksomhetsinterne informasjonstiltak.
+
+### § 7-20. Overgangsordninger
+
+(1) Statlige organer skal ta i bruk gjeldende bevarings- og kassasjonsbestemmelser så snart det er praktisk gjennomførbart ved periodisering av arkivsystemer eller innføring av nye arkivsystemer.
+
+(2) Dersom det er hensiktsmessig kan statlige organer i en overgangsperiode følge de tidligere bevarings- og kassasjonsbestemmelsene, fastsatt av Riksarkivaren 1. desember 1999. Dette gjelder for arkivmateriale skapt frem til iverksettingstidspunktet samt arkivsystemer og arkivperioder etablert før iverksetting av bestemmelsene, selv om disse avsluttes etter iverksettingstidspunktet.
+
+### Del III. Generelle bevarings- og kassasjonsbestemmelser for fylkeskommunale og kommunale arkiv skapt etter 1950
+
+### § 7-21. Virkeområde
+
+(1) Bestemmelsene i denne delen gjelder for kommuner, fylkeskommuner og andre organer som skaper kommunale arkiver i henhold til [arkivloven § 2](lov/1992-12-04-126/§2) bokstav d.
+
+(2) Bestemmelsene tar utgangspunkt i kommunens og fylkeskommunens funksjoner og omfatter alt arkivmateriale som skapes som ledd i utførelsen av kommunale og fylkeskommunale oppgaver.
+
+(3) Forskriften gjelder ikke for andre enn de funksjonene og oppgavene som er konkret beskrevet. For funksjoner og oppgaver som kommer til som nye, eller som av andre grunner ikke er beskrevet i disse bestemmelsene, skal alt arkivmateriale bevares. Kassasjon kan ikke skje før det eventuelt er innhentet tillatelse fra Riksarkivaren, jf. [arkivloven § 9](lov/1992-12-04-126/§9).
+
+(4) I tilfeller der kommuner eller fylkeskommuner utfører funksjoner og oppgaver på vegne av staten gjelder de statlige bestemmelsene for arkivmaterialet.
+
+(5) Bestemmelsene gjelder arkivmateriale som er skapt etter 1950, jf. [forskrift om offentlege arkiv § 15](forskrift/2017-12-15-2105/§15) bokstav a.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 7-22. Kassasjon
+
+(1) Kommunen og fylkeskommunen kan bestemme at materiale som i henhold til denne forskriften ikke skal langtidsbevares, skal kasseres.
+
+(2) Det er kommunens og fylkeskommunens plikt å påse at materiale som skal kasseres, faktisk blir tilintetgjort. Forbudet mot å avhende arkiv og å føre arkiv ut av landet uten Riksarkivarens samtykke, jf. [arkivloven § 9](lov/1992-12-04-126/§9), gjelder også for arkivmateriale som skal kasseres.
+
+### § 7-23. Vurdering av merbevaring
+
+(1) Bestemmelsene i dette kapittelet angir hvilke sakstyper som skal bevares for ettertiden og som derfor ikke kan gjøres til gjenstand for kassasjon. Bestemmelsene er minimumskrav. Det er opp til den enkelte kommune og fylkeskommune å avgjøre om den ønsker å bevare mer dokumentasjon, fra en eller flere sakstyper, enn det denne forskriften pålegger.
+
+(2) I tilfelle av merbevaring skal arkivmaterialet håndteres iht. de bestemmelsene som ellers gjelder for kommunale og fylkeskommunale arkiv.
+
+### § 7-24. Administrasjon og politikk
+
+(1) *Administrativ og politisk organisering*Administrativ organisering, inkludert organisasjonskart og beskrivelser av ansvarsområder og oppgaver.Politiske og administrative prosesser i forbindelse med forvaltningsreform, inkludert endring av kommunegrenser og fylkesgrenser, samt etablering av ny politisk styringsform.Delegering av myndighet til administrasjonssjef og til andre nivåer i kommune- og fylkesadministrasjonen.Opprettelse av, delegering av myndighet til, og valg til formannskap, fylkesutvalg, kommuneråd (byråd), fylkesråd og andre politiske råd, utvalg, komiteer og interkommunale samarbeid.Administrativ og politisk behandling av saker som legges frem for og/eller behandles i formannsskap, fylkesutvalg, kommuneråd (byråd) eller fylkesråd.
+
+(2) *Valg og medbestemmelse*Retningslinjer og oppgaver i forbindelse med valg, folkeavstemninger og andre tiltak for medbestemmelse.Oppnevning av valgstyre, valgmanntall, organisering av forhåndsstemming, valgoppgjør.Folkeavstemninger, innbyggerinitiativ, folkemøter og høringer i spørsmål av betydning for innbyggerne.
+
+(3) *Foretak, selskap og interkommunale samarbeidsordninger*Opprettelse og avvikling av foretak, selskaper og interkommunale samarbeidsordninger.Avtaler om arkivansvar og arkivorganisering når tjenester legges til foretak, selskap og interkommunale samarbeidsorganer som ikke er omfattet av arkivloven.Vedtekter, samarbeidsavtaler, selskapsavtaler og andre avtaler eller vedtak som dokumenterer overføringen av oppgaver og myndighet fra kommunen og fylkeskommunen til foretak, selskap eller interkommunalt samarbeidsorgan.Kommunens og fylkeskommunens kontroll med og revisjon av foretak, selskaper og interkommunale samarbeidsordninger.
+
+(4) *Sikkerhet og beredskap*Fylkeskommunens og fylkeskommunens overordnede oppgaver innen sikkerhet og beredskap i henhold til lovverk som regulerer ulike fagområder.Kommunens rolle i den nasjonale beredskapen og oppgaver i henhold til sivilbeskyttelsesloven, herunder beredskapsplaner og risiko- og sårbarhetsanalyser for kommunen som helhet og deltakelse i regionale og nasjonale beredskapsøvelser.Fylkeskommunens og kommunens ivaretakelse av samfunnssikkerhetsaspektet i kommunal og regional planlegging, herunder risiko- og sårbarhetsanalyser for utbyggingsområder.Etablering og utvikling av kommunens og fylkeskommunens styringssystem for sikkerhet og beredskap, herunder interne instrukser og retningslinjer for sikkerhets- og beredskapsarbeid, organisering av sikkerhetsadministrasjon, virksomhetsledelsens oppfølging og evaluering av sikkerhet og beredskap.Sikkerhetsrapportering, herunder rapportering internt i kommunen og fylkeskommunen samt til regionale og nasjonale tilsynsmyndigheter vedrørende sikkerhet.Sikkerhetsklarering og autorisasjon. Nærmere bestemmelser fastsettes av Nasjonal sikkerhetsmyndighet jf. [§ 7-4](forskrift/2017-12-19-2286/§7-4) i denne forskriften.
+
+(5) *Kommuneadvokat og fylkesadvokat*Registre eller arkiver for presedenssaker.Erstatningssaker på det offentligrettslige området, inkl. saker i forbindelse med billighetserstatning.
+
+(6) *Administrative tjenester**Anskaffelse*AnskaffelsesstrategiAnskaffelsesreglementRetningslinjer og standarderBehovsanalyseAnskaffelsesprotokollAntatte tilbud*Arkiv*Arkivdanning og rutiner, herunder konfigurasjonsdokumenter og klassifikasjonssystemer.Bevarings- og kassasjonsvedtak og -planer og bevarings- og kassasjonslister.*Informasjons- og kommunikasjonsteknologi*Dokumentasjon om strategisk planlegging, styring og utvikling av IKT-området, herunder IKT-strategi, IKT-policy, IKT-plan.Dokumentasjon om utvikling av nye IKT-løsninger*Kommunikasjons- og informasjonsarbeid*Dokumentasjon om planlegging og styring av kommunikasjonsområdet, herunder utarbeidelse av kommunikasjonsstrategier og -planer, utarbeidelse av regler og retningslinjer for kommunikasjon internt og eksternt, medieveiledning, egenproduserte publikasjoner med forarbeider.
+
+### § 7-25. Økonomi, virksomhetsstyring, regnskap og innfordring
+
+(1) *Budsjett og virksomhetsstyring*Saker vedrørende kommunens og fylkeskommunens budsjett- og virksomhetsstyring jf. kommuneloven § 44 – § 48, herunder rammesak, årsbudsjett, økonomiplan, handlingsprogram, handlingsplaner, årsrapportering, tertialrapportering, årsmelding, årsevaluering og andre styringsdokumenter.
+
+(2) *Regnskap og revisjon*Saker vedrørende kommunens og fylkeskommunens årsregnskap jf. kommuneloven § 48.
+
+(3) *Kapitalforvaltning, låneopptak, legatvirksomhet*Saker vedrørende kapitalforvaltning.Saker vedrørende kommunale og fylkeskommunale garantier, utlån og låneopptak.Saker vedrørende legatvirksomheten.
+
+(4) *Kommunal eiendomskatt*Saker vedrørende innføring eller oppheving av kommunal eiendomskattSaker vedrørende fastsettelse av årlige satser for eiendomsskatt.
+
+(5) *Skatteoppkreving, arbeidsgiverkontroll og kommunal innfordring*Saker vedrørende utleggsforretning og lemping.Egeninitierte prosjekter og kursopplegg for å informere og veilede skatteytere og arbeidsgivere.
+
+### § 7-26. Personalforvaltning og folkevalgte
+
+(1) *Ansatte i kommune og fylkeskommune*Planlegging, ledelse, styring og evaluering av organets personalfunksjon, herunder utarbeidelse og fastsettelse av strategiske planer, lokal personalpolitikk, lokale avtaler mellom arbeidsgiver og arbeidstakere, interne instrukser og retningslinjer og andre styringsdokumenter og evalueringer.Behandlingen av saker i administrasjonsutvalget.Kommunens og fylkeskommunens arbeid med rekruttering og tilsetting, herunder kunngjøring, utvidet søkeliste og innstilling, protokoller og møtereferater fra innstillings- og tilsettingsmyndighet, eventuelle klager på tilsetting.Kommunens og fylkeskommunens organisering av arbeidet med helse-, miljø og sikkerhet. Saker som viser utarbeidelse og utvikling av organets instrukser og retningslinjer for HMS-arbeidet, evalueringer.Kommunens og fylkeskommunens håndtering av konflikter og varsling.Kommunens og fylkeskommunens planlegging, ledelse, styring og evaluering av kompetanseutvikling og opplæring, herunder enhetens egne opplæringsplaner, referater fra kompetanseutvalg.Om den enkelte ansatte bevares følgende dokumentasjon:Stillingssøknad, tilsettingsbrev, arbeidsavtale, klage på tilsetting.Kompetanseutvikling med betydning for den ansattes lønns- og ansettelsesforhold.Lønn, godtgjøringer og permisjoner med betydning for den ansattes pensjonsforhold.Oppfølging i forbindelse med sykemelding dersom saken har betydning for den ansattes langvarige tjenesteforhold og pensjonsforhold.Dokumentasjon på og oppfølging av yrkesskader.Omplassering, beordring, fortrinnsrett.Ordensstraff der saken fører til rettslig prøving eller får konsekvenser for den ansattes tilsettingsforhold.Avslutning av arbeidsforhold.
+
+(2) *Folkevalgte*Satser for godtgjøring.Pensjonsordninger.Avtaler med folkevalgte.Forhold som får betydning for folkevalgtes pensjonsrettigheter.Fritak eller suspensjon fra verv.
+
+### § 7-27. Kommunal og regional planlegging, byggesak og oppmåling
+
+(1) *Kommunal og regional planlegging*Saker vedrørende kommunal og regional planlegging jf. plan- og [bygningsloven § 3-3](lov/2008-06-27-71/§3-3) og [§ 3-4](lov/2008-06-27-71/§3-4), herunder regional og kommunal planstrategi, regional plan, kommuneplan, områdeplan og reguleringsplan.
+
+(2) *Byggesaksbehandling*Byggesaker, jf. plan- og [bygningsloven § 20-1](lov/2008-06-27-71/§20-1) og [§ 20-2](lov/2008-06-27-71/§20-2).Saker vedrørende bruksendring, omregulering og dispensasjon fra tekniske krav i plan- og bygningsloven og vedtatte planer.Kommunens planer for tilsyn, kontroll og ulovlighetsoppfølging.Enkeltsaker og klagesaker vedrørende ulovlighetsoppfølging.
+
+(3) *Oppmåling*Saker vedrørende oppmålingsforretninger jf. [matrikkelloven § 33](lov/2005-06-17-101/§33), herunder grensepåvisning, grensejustering, arealoverføring, deling og sammenføying av grunneiendom.
+
+### § 7-28. Opplæring og oppvekst
+
+(1) Tjenestetilbud, planer, rutiner, rapporter og evalueringer, samarbeid mellom enhetene, jf. [opplæringslova kapittel 13](lov/1998-07-17-61/kap13).
+
+(2) *Barnehage*Planer for etablering, drift og tilsyn av barnehager.Retningslinjer for godkjenning og etablering, retningslinjer for tildeling av tilskudd, retningslinjer for inntak og opphold i barnehage.Saker om godkjenning av barnehager, oppfølging av avvik med betydning for barnehagens godkjenning, dispensasjoner fra krav.Årsplaner og årsmeldinger, avviksrapportering og kriseberedskap.Om enkeltindivider bevares følgende dokumentasjon:Register over barnehagebarn.Skademelding.
+
+(3) *Grunnskoleopplæring*Kommunens og skolens retningslinjer og prosedyrer, planer og evalueringer, virksomhetsplaner og tilstandsrapporter.Saker om tilsyn ved hjemmeundervisning.Kriterier for opplæringens organisering, innhold og evaluering, inkludert nasjonale prøver, oppgavetekst lokale eksamener.Saker som er behandlet i skolens øverste samarbeidsorgan, jf. [opplæringslova kapittel 11](lov/1998-07-17-61/kap11).Om alle elever bevares følgende dokumentasjon:Hvilke elever som har gått på hvilken skole, inkludert fravær.Underveisvurdering, inkl. halvårsvurdering med karakter.Sluttvurdering, inkl. standpunktkarakter og eksamenskarakter.Ved fritak for vurdering med karakter skal det bevares annen dokumentasjon av opplæringen.Om enkeltelever bevares følgende dokumentasjon:Saker om rettigheter og plikter knyttet til innhold og organisering av opplæringen, jf. [opplæringslova kapittel 2](lov/1998-07-17-61/kap2) og [opplæringsforskriften kapittel 1](forskrift/2006-06-23-724/kap1).Saker om spesialpedagogisk støtte og spesialundervisning, inkludert utredning, enkeltvedtak og individuell opplæringsplan med vurdering.Saker om fysisk og psykososialt skolemiljø.Skademelding.
+
+(4) *Videregående opplæring*Fylkeskommunens og skolens retningslinjer og prosedyrer, planer og evalueringer, virksomhetsplaner og tilstandsrapporter.Godkjenning av lærebedrifter.Saker om tilsyn ved hjemmeundervisning.Kriterier for opplæringens organisering og innhold.Lokale læreplaner, oppgavetekst lokale eksamener.Saker som er behandlet i skolens øverste samarbeidsorgan, jf. [opplæringslova kapittel 11](lov/1998-07-17-61/kap11).Om alle elever bevares følgende dokumentasjon:Hvilke elever som har gått på hvilken skole, inkludert fravær.Underveisvurdering, inkludert halvårsvurdering med karakter.Sluttvurdering, inkl. standpunktkarakter og eksamenskarakter, karakter til fagprøve, svenneprøve og kompetanseprøve.Ved fritak for vurdering med karakter bevares annen dokumentasjon av opplæringen.Lærekontrakt og opplæringskontrakt.Om enkeltelever bevares følgende dokumentasjon:Saker om rettigheter og plikter knyttet til innhold og organisering av opplæringen, jf. opplæringlova [kapittel 3](forskrift/2017-12-19-2286/kap3), [4](forskrift/2017-12-19-2286/kap4) og 4A og [opplæringsforskriften kapittel 1](forskrift/2006-06-23-724/kap1).Saker om spesialpedagogisk støtte og spesialundervisning, inkludert utredning, enkeltvedtak og individuell opplæringsplan med vurdering.Saker om fysisk og psykososialt skolemiljø.Skademelding.
+
+(5) *Skolefritidsordning*Kommunens vedtekter, planer, meldinger og rapporter.Lokale planer, tilbud og satsningsområder.Skademelding.
+
+(6) *Musikk og kulturskolen*Kommunens planer, meldinger og rapporter.Oversikt over tilbud.
+
+(7) *Pedagogisk psykologisk tjeneste*Årsplan, årsmelding.Systemarbeid, testverktøy, metoder og maler.Om enkeltindivider bevares følgende dokumentasjon:Utredninger og sakkyndige vurderinger nødvendig for at kommune, fylkeskommune eller skole kan fatte vedtak etter [opplæringslova kapittel 4A](lov/1998-07-17-61/kap4a) og 5.
+
+(8) *Oppfølgingstjenesten*Årsplan, årsmelding.Om enkeltindivider bevares følgende dokumentasjon:Oppfølging og status, inkl. avbruddsmelding.
+
+(9) *Barnevern*Prosedyrer, rutiner og saksbehandlingsprosesser for barnevernstjenesten, herunder håndtering av bekymringsmeldinger.Retningslinjer og rutiner for kommunens forebyggende arbeid innen barnevern, inkl. barnevernstjenestens samarbeid med andre sektorer og forvaltningsnivåer.Kommunens oppgaver vedrørende omplassering, etablering og drift av fosterhjem, opplæring og veiledning av fosterhjem.Om enkeltindivider bevares følgende dokumentasjon:Bekymringsmeldinger hos barnevernstjenesten uansett om meldingene fører til sak eller blir henlagt.Saker om forebyggende virksomhet.Samarbeid med andre deler av forvaltningen, inkludert individuell plan og rapporter som danner grunnlag for beslutninger om enkeltbarn.Saker knyttet til særlige tiltak i henhold til barnevernsloven, inkludert undersøkelser av bekymringsmeldinger, utredninger, saksbehandling, tiltak og oppfølging av tiltak.Tilsynssaker der kommunen har medansvar.
+
+(10) *Fagskoler*Fylkeskommunens og skolens retningslinjer og prosedyrer, planer og evalueringer, virksomhetsplaner og tilstandsrapporterTjenestetilbud, planer, rutiner, rapporter og evalueringer, samarbeid mellom enheteneKriterier for opplæringens organisering og innholdLokale læreplaner, oppgavetekst lokale eksamenerSaker som er behandlet i skolens øverste samarbeidsorganOm alle studenter bevares følgende dokumentasjon:Hvilke studenter som har gått på skolen og studentenes fravær herunder avbrudd og årsak til avbruddSluttvurdering, inkl. standpunktkarakter og eksamenskarakterTerminvurdering og karakterer der utdanningen ikke fullføresOm enkeltstudenter bevares følgende dokumentasjon:Saker om rettigheter og plikter knyttet til innhold og organisering av opplæringenSaker om fysisk og psykososialt skolemiljøSkademeldingSaker om spesielle tilpasninger av undervisning eller eksamenssituasjon som følge av sykdom, redusert funksjonsevne eller andre forhold av betydning for studentens opplæringssituasjon og vitnemål.
+
+(11) *Folkehøgskoler*Fylkeskommunens og folkehøgskolenes retningslinjer og prosedyrer, planer og evalueringer, virksomhetsplaner og tilstandsrapporterKriterier for folkehøgskolens opplæring, organisering og innholdOpplæringstilbudet og arbeidet med etablering av tilbud inkludert, linjer, kurs, seminarer herunderInnhold og opplegg i langkursInnhold og opplegg i kortkursAndre faglige oppleggSaker i folkehøgskolens regi vedrørende støtte til prosjekter og arrangementer som har betydning for utviklingen av kunst- og kulturlivet i fylkeskommunen eller regionenFolkehøgskolens egen kunst- og kulturformidling, inkludert oversikter over hvilke kunst- og kulturarrangementer som er blitt avholdt helt eller delvis i regi av folkehøgskolen, herunder program og annen relevant informasjon om arrangementeneSaker som er behandlet i skolens øverste samarbeidsorganOm alle elevene bevares følgende dokumentasjon:Hvilke elever som har gått på skolen og elevenes fravær herunder avbrudd og årsak til avbruddHvilke kurs, linjer og opplegg de gjennomførte, herunder vitnemålsdokumentasjonOm enkeltelever bevares følgende dokumentasjon:Om elevene bodde på internat og tidsromSaker om fysisk og psykososialt skolemiljøSkademelding.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 7-29. Helse og omsorg
+
+(1) *Innledende bestemmelser*Sakstypene som er angitt i denne paragraf skal bevares for ettertiden, med mindre noe annet følger av bokstav b.Spesielt om pasient- og journalopplysningerMed pasient- og journalopplysninger i denne paragraf menes all individbasert dokumentasjon som skapes av kommunale og fylkeskommunale tjenester som yter helsehjelp, og som reguleres av bestemmelsene her.Pasient- og journalopplysninger som ikke skal bevares i henhold til 2. ledd bokstav h og 5. ledd bokstav d, skal ha oppbevaringstid på minst 20 år etter pasientens død.Hvis dødsår er ukjent, og det er uforholdsmessig krevende å fastslå dette, skal pasient- og journalopplysningene ha oppbevaringstid på minst 120 år etter fødsel. Det skal da ikke være gjort innførsler i journalen de siste 10 år.Hvis større serier med pasient- og journalopplysninger er ordnet etter fødselsår, skal disse ha oppbevaringstid på minst 120 år etter fødsel.Hvis også fødselsåret er ukjent, kan kassasjon først skje hvis det ikke er innføringer i journal de siste 60 år, eller når særlige forhold tilsier svært høy sannsynlighet for at pasienten har vært død i minst 20 år.
+
+(2) *Folkehelse, frisklivssentral, helsestasjonstjenester og tannhelsetjeneste*Fylkeskommunens og kommunens planlegging, organisering og evaluering av folkehelsearbeidet, svangerskaps- og barselomsorgstjeneste, helsestasjon for barn, skolehelsetjeneste, tannhelsetjeneste og frisklivssentraler, inkludert saker vedrørende samarbeid og beredskap for disse tjenestene.Kartlegginger av helsetilstand og folkehelseutfordringer.Saker om miljørettet helsevern og smittevern.Saker vedrørende forebyggende barne- og ungdomsarbeid.Planlegging, gjennomføring og evaluering av prosjekter.Tilsyn med egne tjenestesteder, inkludert pålegg og godkjenning.Tjenestestedenes årsrapportering, og lokale forskrifter.Pasient- og journalopplysninger fra helsestasjonstjenester, skolehelsetjenesten og tannhelsetjenesten.Fotografi av tanntekniske gipsmodeller kan erstatte originalen i journal. Virksomheten avgjør da selv hvor lenge de originale modellene skal oppbevares.Individbaserte opplysninger om vaksiner som er meldt til Nasjonalt vaksinasjonsregister (Sysvak) kan kasseres i kommunen og fylkeskommunen.
+
+(3) *Allmennmedisinske tjenester*Planlegging, organisering og evaluering av fastlegeordningen, fengselshelsetjeneste og flyktningehelsetjeneste, inkludert avtaler med privatpraktiserende helsepersonell.Tjenestestedenes årsplanlegging og årsrapportering.
+
+(4) *Akuttmedisinske tjenester*Saker vedrørende planlegging, organisering og evaluering av legevaktordning, kommunal akutt døgnenhet, overgrepsmottak og psykososial beredskap.Rutiner og prosedyrer for prioritering mellom pasienter og oppfølging av pasienter med ulike skader og sykdommer.Rutiner og prosedyrer for samhandling og kommunikasjon mellom de akuttmedisinske tjenester, herunder akuttmedisinsk kommunikasjonssentral, legevaktssentral og sykehus.Dokumentering av rutiner og prosedyrer for medisinsk nødmeldetjeneste, jf. kap. 2 i forskrift om krav til akuttmedisinske tjenester.
+
+(5) *Helse- og omsorgstjenester i hjemmet og på institusjon*Kommunens organisering og planlegging av tjenestene, inkludert og internt og eksternt samarbeid, kompetansekrav og stillingsinstrukser, dokumentasjonsrutiner, tilsyns- og evalueringsaktiviteter, avtaler med eksterne aktører og helseberedskap.Planlegging, gjennomføring og evaluering av faglige prosjekter.Tjenestestedenes årsplanlegging og årsrapportering, samt lokale forskrifter og rutinebeskrivelser.Pasient- og journalopplysninger fra tjenester innen rusomsorg og psykososial omsorg.
+
+(6) *Krisesentre*Saker vedrørende kommunens organisering av krisesentre.
+
+(7) *Skjenkebevilling*Saker om kommunens handlingsplan for alkohol og rus samt lokale forskrifter og retningslinjer for skjenkebevilling og salgsbevilling.Kommunens rutiner for kontroll med skjenke- og serveringssteder samt saker som gjelder inndragning av skjenkebevilling.
+
+> Endret ved [forskrifter 13 des 2019 nr. 1841](forskrift/2019-12-13-1841) (i kraft 1 jan 2020), [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 7-30. Sosial- og velferdstjenester
+
+(1) *Sosialtjenesten (NAV)*Kommunens planer og prosjekter for sosial- og velferdstjenestene, inkludert sosialberedskapsplan.Årsplaner, årsmeldinger, lokale forskrifter, rutinebeskrivelser, samarbeidsavtalen om oppgavefordeling og satser for utbetaling av økonomisk stønad.Om enkeltindivider bevares følgende dokumentasjon:Saker om rettigheter og plikter med hjemmel i helse- og omsorgstjenesteloven med forskrifter og lov om sosiale tjenester med forskrifter som kan danne grunnlag for erstatning.Saker som involverer umyndige barn av sosialklienter.
+
+(2) *Kommunens arbeid med flyktninger og innvandrere*Virksomhetsplaner, rutinebeskriver, årsmeldinger, dokumentasjon av metoder og testverktøy.Saker vedrørende asylmottak, herunder driftsavtale og håndtering av retningslinjer fra Utlendingsdirektoratet.Om enkeltindivider bevares følgende dokumentasjon:Saker knyttet til etablering, kvalifisering og arbeid.Saker knyttet til rettigheter og plikter med hjemmel i introduksjonsloven, inkludert kursbevis.
+
+(3) *Kommunens arbeid med tilskudd til bolig*Individbaserte bostøttesaker bevares for hver 5. årgang (saker som er ferdigstilt 1995, 2000, 2005, osv.). Oppbevaringstid for øvrige årganger skal fastsettes med hensyn til dokumentasjonsbehov og bestemmelser i annet lovverk.Saker som gjelder startlån, tilskudd og grunnlån, samt tilhørende tilleggsmateriale (klagesaker, tilbakekravssaker) bevares for hvert 5 årgang (saker som er ferdigstilt 1995, 2000, 2005, osv.). Oppbevaringstid for øvrige årganger skal fastsettes med hensyn til dokumentasjonsbehov og bestemmelser i annet lovverk.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 7-31. Næring, miljø og samfunnsutvikling
+
+(1) *Landbruk og skogbruk*Kommunens og fylkeskommunens landbruks- og skogbruksstrategier, inkludert kommunens arbeid med miljøregistreringer i skog.Strategier og retningslinjer for bruk av midler til rekruttering, likestilling og kompetanseheving i landbruket samt fylkeskommunens egne prosjekter og tiltak.Saker vedrørende konsesjon eller endret bruk av landbrukseiendom, herunder tillatelse til nydyrking, omdisponering av dyrket og dyrkbar mark, deling av landbrukseiendom og bo- og driveplikt.Saker vedrørende bygging av landbruksvei og skogsbilvei.Saker vedrørende hogst i verneskoger.
+
+(2) *Akvakultur, fiske- og viltforvaltning*Kommunens og fylkeskommunens overordnede planer, prioriteringer og tiltak samt egeninitierte prosjekter innen marinforvaltning, fiskeforvaltning og viltforvaltning, herunder kartlegging av bestandene.Avtalen for samarbeidet og referater fra møter mellom partene i tilfeller der kommunen har overlatt deler av administrasjonen av fiske til en organisasjon.Saker der kommunen eller fylkeskommunen har gitt uttalelser om hensynet til fiskeinteressene og fiskens leveområder, eller viltinteressene og viltets leveområder ved regulering av utbygging eller annen virksomhet etter plan- og bygningsloven i kommune og fylke.Tildeling av tillatelser etter akvakulturloven.Fastsettelse av vald, fellingstillatelser og bestandsplaner.
+
+(3) *Naturforvaltning, miljø og forurensning*Kommunens og fylkeskommunens planer for naturforvaltning, miljø og forurensing, herunder forvaltningsplaner.Lokale forskrifter, rutiner og retningslinjer for utslippsløyver for kloakk, testing og håndtering av lekkasjer fra forurensede søppelfyllinger, skjøtsel og ferdsel i naturvernområder og tillatelser til motorferdsel i utmark og vassdrag.Saker som behandler forholdet mellom natur, miljø og næringsinteresser.Saker som etter naturmangfoldsloven skal registreres i Miljøvedtakregisteret.Saker vedrørende håndtering av forurenset grunn og påviste lekkasjer samt opplysninger om forurenset grunn i matrikkelen, inkl. pålegg om opprydding og oppfølging av pålegg.
+
+(4) *Nærings-, samfunnsutvikling og internasjonalt samarbeid*Fylkeskommunens og kommunens overordnede planer, herunder handlingsprogrammer, regionale planer, handlingsplaner og strategier for lokal og regional utvikling, næringsutvikling, samfunnsutvikling og reiselivsutvikling.Retningslinjer for bruken av midlene ved tildeling av midler til regionsråd og andre samarbeidsorganer.Fylkeskommunens forvaltning av regionale utviklingsmidler.Kommunens og fylkeskommunens egne prosjekter samt deltagelse i samarbeidsprosjekter og EU-finansierte prosjekter.
+
+### § 7-32. Kultur, idrett, friluftsliv og kirke
+
+(1) *Kulturminnevern*Alle saker hvor fylkeskommunen fatter vedtak eller avgir uttalelser med hjemmel i kulturminneloven.Alle saker hvor fylkeskommunen eller kommunen fatter vedtak eller avgir uttalelser som berører kulturminnevern med hjemmel i plan- og bygningsloven.Kommunens og fylkeskommunens planer for kulturminnevern og museer.Retningslinjer og prioriteringer for tildeling av tilskudd til fredede bygninger, anlegg, andre kulturminneformål og museer.Kommunens og fylkeskommunens egne prosjekter for å ivareta, synliggjøre og informere om fornminner, nyere tids kulturminner, fredede og vernede bygg og anlegg, gamle veier og veifar, samt kulturmiljøene i kulturlandskapet.
+
+(2) *Kunst- og kulturformidling*Fylkeskommunens plan som viser hvordan fylkeskommunen koordinerer, administrerer og bidrar til Den kulturelle skolesekken.Kommunens retningslinjer og prioriteringer med hensyn til bruken av midlene fra Den kulturelle skolesekken samt turnéprogram for grunnskolen i det enkelte fylke.Fylkeskommunens retningslinjer og prioriteringer for tildeling av tilskudd til kulturbygg (tippemidler).Kommunens vedtak om etablering av kulturhus, flerbrukslokaler eller spesiallokaler for kunst og kultur.Kommunens og fylkeskommunens prioriteringer og retningslinjer for tildeling av tilskudd, priser og stipender.Oversikter over pris- og stipendmottakere.Oversikter over hvilke foreninger og organisasjoner som har fått tildelt støtte gjennom kommunens og fylkeskommunens tilskuddsordninger.Saker vedrørende støtte til prosjekter og arrangementer som har betydning for utviklingen av kunst- og kulturlivet i kommunen eller regionen.Kommunens egen kunst- og kulturformidling, inkludert oversikter over hvilke kunst- og kulturarrangementer som er blitt avholdt helt eller delvis i regi av kommunen, herunder program og annen relevant informasjon om arrangementene.Prioriteringer med hensyn til kommunens innkjøp av kunst samt forvaltningen av kunstsamlingen.
+
+(3) *Bibliotek*Kommunens og fylkeskommunens reglement for henholdsvis folkebibliotek og fylkesbibliotek.Det enkelte biblioteks årsplaner, langtidsplaner og årsberetninger.Prosjekter og annet formalisert samarbeid for å fremme opplysning, utdanning og annen kulturell virksomhet gjennom informasjonsformidling i kommunen eller fylket.
+
+(4) *Arkivdepot*Kommunens og fylkeskommunens planer for arkivdepot.Årsplaner, langtidsplaner og årsberetninger for det enkelte arkivdepot.Utviklingsarbeid.
+
+(5) *Idrett og friluftsliv*Kommunens og fylkeskommunens overordnede planlegging innen idrett og friluftsliv.Fylkeskommunens og kommunens retningslinjer og prioriteringer for tildeling av tilskudd til idrettsanlegg, idrettsforeninger og idrettstiltak.Fylkeskommunens og kommunens retningslinjer og prioriteringer for tildeling av midler til fysisk tilrettelegging, vedlikehold og skjøtsel av friluftsområder samt friluftstiltak.Oversikter over hvilke foreninger og organisasjoner som har fått tildelt støtte gjennom kommunens og fylkeskommunens tilskuddsordningerOversikter over pris- og stipendmottakere.Saker vedrørende støtte til prosjekter og arrangementer som har betydning for utviklingen av idretts- og friluftslivet i kommunen eller regionen.Kommunale og fylkeskommunale prosjekter innen idrett og friluftsliv.
+
+(6) *Kirke og trossamfunn*Kommunens behandling av kirkens budsjettforslag.Kommunens beregningsnøkkel for tilskudd til andre trossamfunn.
+
+(7) *Kino og ungdomsklubber*Planer og retningslinjer for drift av kino.Planer og retningslinjer for drift av ungdomsklubber.
+
+### § 7-33. Tekniske tjenester, brannvesen og samferdsel
+
+(1) *Eiendomsforvaltning*Kommunens og fylkeskommunens rutiner for salg, kjøp, feste og utleie av eiendom.Saker om bygging, drift og forvaltning av kommunal og fylkeskommunal eiendom som ikke bevares gjennom byggesaken, jf. [§ 7-27](forskrift/2017-12-19-2286/§7-27) andre ledd bokstav b).Saker vedrørende eiendomstransaksjoner og eiendomspolitikk.
+
+(2) *Vann og avløp*Kommunens rutiner og prosedyrer for kontroll med ledningsnett og vannkvalitet samt beredskapsplaner og saker vedrørende håndtering av avvik og utslipp.Utrednings- og prosjekteringsarbeider.Kommunens planer for vedlikehold av ledningsnettet.Dokumentasjon av ledningsnett, herunder årsversjoner, tekniske tegninger og kart.Opplysninger om private vannledninger, inkl. tilkobling til ledningsnettet på den enkelte eiendom.
+
+(3) *Renovasjon og avfall*Saker vedrørende opprettelse eller endring av renovasjons- og avfallshåndteringsordninger og fastsettelse av avgifter.Saker vedrørende opprettelse av kommunale avfallsdeponier.
+
+(4) *Havnevesen*Kommunens planer, prosedyrer og rutiner for tilsyn med kaianlegg og sjøområdene samt beredskapsplaner.Teknisk dokumentasjon av vannledninger og kloakkrør som går ut i sjø samt kaianlegg.Saker vedrørende fastsettelse av havneavgift og havnevederlag.
+
+(5) *Samferdsel*Fylkeskommunens og kommunens overordnede planer og strategier for samferdsel, trafikksikkerhet og transportberedskap.Saker vedrørende utbygging, omgjøring, nedlegging og omdisponering av, samt overføring av vedlikeholdsansvar for fylkesvei og kommunal vei.Saker vedrørende nedlegging av byggeforbud i område for planlagt vei, forlengelse av byggeforbud samt rådighetsbegrensninger for grunn innen byggegrensen.Eiendomsinngrep mot vederlag etter skjønn (ekspropriasjon).De økonomiske rammene for kollektivtilbudet samt saksbehandlingen i forbindelse med fastsettelsen av rutenettet.Skoleskyssordningen: retningslinjer for ordningen, dispensasjonssøknader, klagesaker.Transportordningen for funksjonshemmede: retningslinjer for ordningen, klagesaker.Tildeling av behovsprøvde løyver og retningslinjer for tildeling av alle typer løyver.
+
+(6) *Brann og redning*Saker vedrørende organiseringen av brann- og redningstjenesten i den enkelte kommune.Kommunens planer, prosedyrer og arbeidsinstrukser for tilsyn og håndtering av nødanrop samt risikoanalyser og beredskapsplaner.Planer for og eventuelle evalueringer av interne øvelser og fellesøvelser.Kommunens egenutviklede brannforebyggende prosjekter og opplæringsopplegg.Tilsynsrapporter for særskilte brannobjekter.Statistikk over antall utrykninger og antall ulike typer utrykninger samt rapporter og evalueringer fra brann- og redningsaksjoner, som ikke genereres automatisk fra logg.
+
+### § 7-34. Søknad om å få benytte eldre bestemmelser på eldre materiale
+
+For arkiv som er skapt før 1. februar 2014 kan fylkeskommunen og kommunen søke Riksarkivaren om å få benytte bestemmelser om arkivbegrensning og kassasjon som følger av forskrift [1. desember 1999 nr. 1566](forskrift/1999-12-01-1566) om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver [kapittel IV](forskrift/1999-12-01-1566/kap4) og V, versjon gjeldende per 31. januar 2014. Forutsetning for å få benytte eldre bestemmelser er at rettighetsdokumentasjon som er bestemt bevart i henhold til nye bestemmelser, bevares for alle individer og ikke kun et utvalg.
+
+## Kapittel 8. Konvertering for digital bevaring
+
+### § 8-1. Virkeområde
+
+(1) Bestemmelsene i dette kapitlet gjelder konvertering av arkivmateriale på analoge lagringsmedier til digitale lagringsmedier der originalen på det analoge mediet destrueres etter konverteringen. Med analoge lagringsmedier menes papir, fotografi, lydbånd, video, film og andre medier som ikke er digitale.
+
+(2) Bestemmelsene i dette kapitlet gjelder konvertering av arkiv som skjer i ettertid. Konvertering i løpende arkivdanning reguleres av bestemmelsene i [kapittel 3](forskrift/2017-12-19-2286/kap3).
+
+(3) Konvertering i tråd med bestemmelsene i dette kapitlet er bare tillatt for arkivmateriale som under arkivdanningen er registrert i elektronisk journal eller tilsvarende elektroniske register, og der materialets tilstand ligger til rette for konvertering.
+
+(4) Konvertering i tråd med bestemmelsene i kapitlet her er kun tillatt såframt arkivmaterialet avleveres til en depotordning som følger OAIS-standarden (ISO 14721) og føringene i TRAC/TDR-rammeverket.
+
+> Endret ved forskrift [27 jan 2022 nr. 132](forskrift/2022-01-27-132) (i kraft 1 mars 2022).
+
+### § 8-2. Krav til klargjøring av papirarkiv som skal skannes av Arkivverket
+
+Arkiv som i henhold til avleveringsplan skal konverteres av Arkivverket, skal klargjøres for skanning i henhold til de krav Riksarkivaren fastsetter.
+
+### § 8-3. Formatkrav. Bildekvalitet
+
+(1) Ved konvertering til digitalt lagringsmedium skal bildekvaliteten oppfylle kravene i [§ 5-15](forskrift/2017-12-19-2286/§5-15) for skanning.
+
+(2) For lagringsmedium og -format gjelder [§ 5-11](forskrift/2017-12-19-2286/§5-11) og [§ 5-17](forskrift/2017-12-19-2286/§5-17) til [§ 5-20](forskrift/2017-12-19-2286/§5-20).
+
+### § 8-4. Krav til kvalitetssikring
+
+(1) Konverteringsprosessen skal være gjenstand for løpende kontroll. Krav som blir stilt til ulike deler av prosessen skal beskrives og dokumenteres på en måte som gjør det mulig å kvalitetskontrollere alle ledd i prosessen. Det skal kontrolleres at:det ved klargjøringen er lagt til rette for optimal bildegjengivelse og metadatafangst,skanningen oppfyller formatkravene,skanningen er komplett,lagringen av de digitale bildene er vellykket, ogat metadata er korrekt koblet sammen med bildene.
+
+(2) Prosessen skal dokumenteres med:beskrivelse av produksjonslinjer og av alle ledd i digitaliseringsprosessen,hvilken type utstyr som ble brukt og hvor konverteringen ble utført, ogmed kravspesifikasjon som ble stilt til konverteringen hvis den ble utført av andre enn arkivskaper.
+
+(3) Eksempel på kvalitetskontroll som vil være tilfredsstillende er ISO/TR 13028 Information and documentation – Implementation guidelines for digitization of records.
+
+### § 8-5. Krav til gjenfinnbarhet på samme nivå og intern struktur i arkivet
+
+(1) Den opprinnelige struktur og rekkefølge (indre proveniens) i arkivet skal opprettholdes gjennom tilførsel av tilstrekkelig metadata i konverteringsprosessen.
+
+(2) Gjenfinnbarhet skal sikres gjennom tilførsel av metadata som identifiserer hver enkelt sak, med kobling til det konverterte digitale arkivmaterialet.
+
+### § 8-6. Vilkår for destruksjon av analoge medier etter overføring til digitalt lagringsmedium
+
+(1) Originalmediet kan destrueres etter at arkivversjonen er testet og godkjent av arkivdepotet. For fremstilling, overføring og godkjenning av arkivversjoner gjelder bestemmelsene om dette i [kapittel 5](forskrift/2017-12-19-2286/kap5). Bestemmelsene som gjelder Arkivverkets rolle som arkivdepot, skal anvendes tilsvarende for kommunale og fylkeskommunale arkivdepot så langt de passer.
+
+(2) Organet må selv dokumentere at alle krav er fulgt og at arkivdepotet har godkjent arkivversjonen før destruksjonen.
+
+(3) Arkivskaper har ansvar for å vurdere hvilke konsekvenser destruksjon vil kunne ha for juridiske rettigheter og plikter for organet selv eller for andre, og påse at behov for bevaring av originalmediet blir ivaretatt. Destruksjon må ikke skje dersom lovbestemte formkrav, for eksempel krav om håndskrevet signatur eller andre juridiske hensyn, krever at papirversjonen bevares. Det er ikke adgang til å destruere originaldokumenter som kommer inn under destruksjonsforbudet i [§ 8-7](forskrift/2017-12-19-2286/§8-7).
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 8-7. Forbud mot destruksjon av særskilte dokumenter
+
+(1) Originaldokumenter i arkiv som nevnt i [forskrift om offentlege arkiv § 15](forskrift/2017-12-15-2105/§15) bokstav a (arkivmateriale fra 1950 eller før) kan ikke destrueres selv om kravene i denne delen av forskriften er fulgt ved digitalisering i ettertid.
+
+(2) Det er ikke adgang til å destruere originaldokumentet hvis det har særskilt historisk verdi som gjenstand på grunn av forhold knyttet til innhold, bruk, omstendighetene ved dets tilblivelse eller liknende.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+### § 8-8. Unntaksordning for statlige organer
+
+Riksarkivaren kan etter søknad fra statlig organ gjøre unntak fra:kravet i [§ 8-1](forskrift/2017-12-19-2286/§8-1) tredje ledd om at arkivmateriale må være registrert i elektronisk journal eller tilsvarende elektronisk register som har blitt til under arkivdanningen dersom tilsvarende data kan hentes ut på annen måte.formatkrav, bildekrav og fremgangsmåte ved kvalitetssikring i [§ 8-3](forskrift/2017-12-19-2286/§8-3) og [§ 8-4](forskrift/2017-12-19-2286/§8-4) dersom annen teknologi eller tilnærming gir samme eller bedre kvalitet.
+
+> Tilføyd ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020).
+
+## Kapittel 9. Foreløpig deponering av elektroniske kopier
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere kap 10).
+
+## Kapittel 10. Avleveringsplaner
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere kap 11).
+
+## Kapittel 11. Særregler for offentlige utvalg m.m.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere kap 12).
+
+## Kapittel 12. Klassifikasjon
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere kap 13).
+
+## Kapittel 13. Ikrafttredelse
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere kap 14).
+
+### § 13-1. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. januar 2018. Fra samme tidspunkt blir [forskrift 1. desember 1999 nr. 1566](forskrift/1999-12-01-1566) om utfyllende tekniske og arkivfaglige bestemmelser om behandling av offentlige arkiver opphevet.
+
+> Endret ved [forskrift 26 nov 2019 nr. 1582](forskrift/2019-11-26-1582) (i kraft 1 jan 2020, tidligere § 14-1).

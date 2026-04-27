@@ -1,0 +1,42 @@
+---
+id: "sf-20211207-3419"
+slug: "forskrift-om-overgangsregler-for-det-økonomiske-ansvaret-for-hjelpetiltak-i-senter-for-foreldre-og-barn"
+type: "forskrift"
+ref_id: "forskrift/2021-12-07-3419"
+title: "Forskrift om overgangsregler for det økonomiske ansvaret for hjelpetiltak i senter for foreldre og barn"
+short_title: "Forskrift om overgangsregler for det økonomiske ansvaret for hjelpetiltak i senter for foreldre og barn"
+language: "no"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2022-01-01"
+last_change_in_force: "2023-01-01"
+last_updated: null
+xml_hash: "e94320f807d269fa5aad527fecc75a19e2318fafad13872f916ca7cd9862c76c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler for det økonomiske ansvaret for hjelpetiltak i senter for foreldre og barn
+
+## § 1. Virkeområde
+
+Forskriften gjelder Barne-, ungdoms- og familieetatens og kommunens økonomiske ansvar for hjelpetiltak i senter for foreldre og barn, uten forutgående utredning i samsvar med [barnevernsloven § 16-3](lov/2021-06-18-97/§16-3) fjerde ledd bokstav a.
+
+Forskriftens bestemmelser kommer i tillegg til reglene i [barnevernsloven § 16-5](lov/2021-06-18-97/§16-5) første og tredje ledd.
+
+Forskriften gjelder for tiltak som gjennomføres til og med 31. desember 2023.
+
+> Endret ved [forskrift 15 des 2022 nr. 2258](forskrift/2022-12-15-2258) (i kraft 1 jan 2023).
+
+## § 2. Kommunens og Barne-, ungdoms- og familieetatens økonomiske ansvar
+
+Reglene om Barne-, ungdoms- og familieetatens økonomiske ansvar for tiltak etter loven, jf. [barnevernsloven § 16-5](lov/2021-06-18-97/§16-5) første ledd, og om kommunens økonomiske ansvar ved bruk av institusjoner mv., jf. [barnevernsloven § 16-5](lov/2021-06-18-97/§16-5) tredje ledd, gjelder også for hjelpetiltak som etaten tilbyr i senter for foreldre og barn, jf. [§ 1](forskrift/2021-12-07-3419/§1) første ledd.
+
+> Endret ved [forskrift 15 des 2022 nr. 2258](forskrift/2022-12-15-2258) (i kraft 1 jan 2023).
+
+## § 3. Iverksettelse
+
+Forskriften trer i kraft 1. januar 2022.

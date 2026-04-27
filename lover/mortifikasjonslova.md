@@ -1,0 +1,118 @@
+---
+id: "nl-19591218-001"
+slug: "mortifikasjonslova"
+type: "lov"
+ref_id: "lov/1959-12-18-1"
+title: "Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]"
+short_title: "Mortifikasjonslova"
+language: "nn"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1961-01-01"
+last_change_in_force: "2013-07-01"
+last_updated: "2021-08-27"
+xml_hash: "f3fcb13293dae28567d7e8d7b081bf276ae8d0a8232749b49d9cbf5d7dabb410"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]
+
+## § 1.
+
+Er det grunn til å tru at eit dokument er øydelagt eller bortkome og kan rettshavaren ikkje nytta retten etter dokumentet utan å ha det for hand, kan han krevja at det vert mortifisert i dom så framt han gjer det truleg at retten enno er til.
+
+Er dokumentet eit omsetningsskuldbrev eller anna omsetningspapir og skyldnaren gjer det truleg at skyldnaden er fallen bort eller ikkje er til, kan dokumentet verta mortifisert i dom jamvel etter krav frå skyldnaren, så framt hine vilkåra i fyrste leden er til stades og serlege grunnar gjer det rimeleg.
+
+## § 2.
+
+Er det grunn til å tru at eit pantedokument er øydelagt eller bortkome og kan dokumentet ikkje verta stroke or grunnbok eller register utan dokumentet er for hand, kan det verta mortifisert i dom etter krav frå panteigaren endå om tilfellet ikkje går inn under [§ 1](lov/1959-12-18-1/§1), så framt panteigaren gjer det truleg at heftet er falle bort eller ikkje er til.
+
+## § 3.
+
+Eit dokument som lyder på ihendehavaren, kan ikkje verta mortifisert utan det vert gjort truleg at dokumentet vart øydelagt i ei serskild hending. Ein pengesetel kan ikkje verta mortifisert.
+
+Eit kupongark, med eller utan talong, kan verta mortifisert saman med dokumentet som det høyrer til, så framt det er grunn til å tru at båe vart øydelagde eller kom bort på same tid. Eit kupongark kan ikkje verta mortifisert serskilt, utan det vert gjort truleg at arket vart øydelagt eller kom bort i ei serskild hending. Lause kupongar og talongar kan ikkje verta mortifiserte. Det same gjeld kupongark som ikkje har att minst to kupongar, og om ein kupong med talong.
+
+## § 4.
+
+Krav om mortifikasjon som høyrer under norsk domstol, lyt søkjaren bera fram for Brønnøy tingrett.
+
+> Endra med [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
+
+## § 5.
+
+Når ein søkjar krev å få mortifisert meir enn eit dokument, kan kravsmåla førehavast i ei sak, om reglane i [§ 4](lov/1959-12-18-1/§4) ikkje er til hinder. Det same gjeld når to eller fleire saman krev å få mortifisert kvar sine dokument og dokumenta er utgjevne av same personen eller lyder på pant i same eigedomen eller tingen.
+
+> Endra med [lov 20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
+
+## § 6.
+
+Munnleg kravsmål om mortifikasjon skal domaren skriva ned og skriva under saman med søkjaren. Med kravsmålet skal fylgja ei rettkjend avskrift av dokumentet; let det seg ikkje gjera, skal det greiast ut om alle dei viktigaste kjennemerke på dokumentet og elles gjevast så god opplysning om dokumentet at det ikkje vert forblanda. Dertil må søkjaren lata domaren få opplysningar som gjer det truleg at vilkåra for mortifikasjon ligg føre. Serleg må det gjerast greie for, så nøgje som råd er, kva tid og korleis dokumentet er, eller truleg er, øydelagt eller bortkome.
+
+Domaren kan påleggja søkjaren å få til vegar fleire opplysningar og jamvel kalla inn søkjaren og andre som truleg kan gjeva opplysningar, til å møta i retten og gjeva munnleg utgreiing. Reglane i [tvisteloven](lov/2005-06-17-90) om opptak av prov i rettssak, gjeld då på tilsvarande måte så langt dei høver.
+
+> Endra med [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## § 7.
+
+Held domaren det for truleg at vilkåra for mortifikasjon ligg føre, skal han fremja mortifikasjonssak mot dei som mun ha rett etter dokumentet.
+
+Saka vert sett i gang når domaren, med grunnlag i kravsmålet frå søkjaren, skriv ut ei oppmaning til dei som mun vera rettshavarar, om å melda seg til retten innan to månader. I oppmaninga skal det stå at melder ingen seg, vert det gjeve mortifikasjonsdom. Nøgnare reglar om kva meir det skal stå i ei oppmaning, kan Kongen gjeva. Oppmaninga skal utlysast ein gong i Norsk Lysingsblad. Utlysing i Lysingsbladet kan berre gjerast fyrste virkedag i ein månad. Meiner domaren at det er grunn for det, kan han dessutan kunngjera oppmaninga på annan måte, og likeins setja lenger frist enn lova byd. Fristen skal reknast frå den dagen lysinga stod i Lysingsbladet.
+
+Nektar domaren å fremja mortifikasjonssak, kan avgjerda klagast inn for departementet. [Forvaltningslova §§ 27](lov/1967-02-10/§27)-33 gjeld i slike høve.
+
+> Endra med [lover 19 juni 1969 nr. 54](lov/1969-06-19-54), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)).
+
+## § 8.
+
+Har ingen rettshavar etter dokumentet meldt seg når fristen i [§ 7](lov/1959-12-18-1/§7) andre leden går ut, og er det heller ikkje kome fram noko anna som stengjer for mortifikasjon, gjev retten mortifikasjonsdom utan hovudførehaving.
+
+Melder nokon seg før fristen er ute og gjer motmæle mot at dokumentet vert mortifisert, skal saka overførast til ein annan domstol i samsvar med vernetingsreglane i [tvisteloven §§ 4-4](lov/2005-06-17-90/§4-4), [4-5](lov/2005-06-17-90/§4-5) og [4-7](lov/2005-06-17-90/§4-7) og deretter halde fram etter dei vanlege reglane i tvisteloven.
+
+> Endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
+
+## § 9.
+
+Om mortifikasjonsdom etter [§ 8](lov/1959-12-18-1/§8), fyrste leden, skal det ikkje gjevast tilseiing, men saksøkjaren skal få melding om avgjerda på den måten domaren held tenleg. Domen vert bindande med ein gong og kan ikkje prøvast i anke eller på onnor vis.
+
+## § 10.
+
+Når eit dokument er mortifisert gjeld det ikkje lenger.
+
+## § 11.
+
+Når nokon har fått mortifikasjonsdom etter [§ 1](lov/1959-12-18-1/§1), fyrste leden, kan han gjera gjeldande retten etter dokumentet utan å ha det for hand. I andre tilfelle enn dei som er nemnde i [§ 12](lov/1959-12-18-1/§12), fyrste leden, kan han og krevja at det vert skrive ut eit nytt dokument som skal gjelda i staden for det mortifiserte, så framt han sjølv ber kostnaden med denne åtgjerda.
+
+## § 12.
+
+Er eit tinglyst dokument om pant i fast eigedom mortifisert etter [§ 1](lov/1959-12-18-1/§1), fyrste leden, gjeld ei rettkjend avskrift i staden for dokumentet når domaren gjev påskrift om det på avskrifta. Det same gjeld om andre tinglyste eller registrerte dokument.
+
+Når eit dokument som er nemnt i fyrste leden, er mortifisert etter [§ 1](lov/1959-12-18-1/§1), andre leden, eller [§ 2](lov/1959-12-18-1/§2), skal det strykast i grunnbok eller register.
+
+## § 13.
+
+I serhøve kan domaren fastsetja at avgjerd om å fremja mortifikasjonssak skal ha slik verknad som ein mortifikasjonsdom har etter [§§ 11](lov/1959-12-18-1/§11) og 12. Men då må søkjaren ha gjeve fullgod trygd til dess mortifikasjonsdom er gjeven. Nektar domaren å gjera vedtak etter fyrste punktum eller å godtaka trygda som er bodi, kan avgjerda klagest inn for departementet. [Forvaltningslova §§ 27](lov/1967-02-10/§27)-33 gjeld i slike høve.
+
+Vert dokumentet ikkje mortifisert, hefter trygda for alt tap som reglane i [§ 11](lov/1959-12-18-1/§11) eller [§ 12](lov/1959-12-18-1/§12), fyrste leden, har ført med seg for skyldnaren eller reglane i [§ 12](lov/1959-12-18-1/§12), andre leden for dokumentinnehavaren, når skaden ikkje er sjølvvalda.
+
+Nøgnare reglar om trygdegjeving etter denne paragrafen kan Kongen fastsetja.
+
+> Endra med [lov 19 juni 1969 nr. 54](lov/1969-06-19-54).
+
+## § 14.
+
+[Paragraf 200 i lova om domstolane](lov/1915-08-13-5/§200) gjeld på tilsvarande måte når ein domar har føre kravsmål om mortifikasjon etter denne lova.
+
+> Endra med [lover 9 mars 1962 nr. 1](lov/1962-03-09-1), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+## § 15.
+
+Denne lova tek til å gjelda 1 januar 1961. – – –.
+
+## § 16.
+
+Når denne lova tek til å gjelda, vert etternemnde lover brigda såleis – – –.

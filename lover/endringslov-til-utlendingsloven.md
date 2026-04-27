@@ -1,0 +1,36 @@
+---
+id: "nl-20220325-015"
+slug: "endringslov-til-utlendingsloven"
+type: "lov"
+ref_id: "lov/2022-03-25-15"
+title: "Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)"
+short_title: "Endringslov til utlendingsloven"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "c55f0e8bfcf9005e649a70f70746029eb32dba2e961b0ba7bdd5b17b4019071c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)
+
+## I
+
+Som part i saker etter loven her og forskrifter til loven regnes søkeren eller, i saker som ikke beror på en søknad, den som en avgjørelse i saken retter seg direkte mot.
+
+En part har rett til å la seg bistå av fullmektig i saken. En fullmektig som ikke er advokat, skal legge frem skriftlig fullmakt. Dersom det på grunn av krig, manglende infrastruktur, helsemessige forhold eller tilsvarende grunner er umulig eller uforholdsmessig vanskelig å fremlegge skriftlig fullmakt, kan det legges til grunn at en annen opptrer som fullmektig uten skriftlig fullmakt.
+
+Kongen kan gi forskrift som utfyller reglene eller utvider rettighetene etter første og annet ledd.
+
+Kongen kan gi forskrift om hvem som har rett til å fremme klage, herunder bestemmelser som begrenser klageretten etter [forvaltningsloven § 28](lov/1967-02-10/§28) første ledd om at enkeltvedtak kan påklages av en part eller annen med rettslig klageinteresse. Det kan også fastsettes begrensninger i partsrettighetene til den som blir part gjennom å benytte klageretten. Det må ikke fastsettes strengere begrensninger enn det som er nødvendig.
+
+## II
+
+Loven gjelder fra den tid Kongen bestemmer. Kongen kan fastsette overgangsbestemmelser i forskrift.

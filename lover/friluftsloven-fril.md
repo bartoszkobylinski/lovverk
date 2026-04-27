@@ -1,0 +1,302 @@
+---
+id: "nl-19570628-016"
+slug: "friluftsloven-fril"
+type: "lov"
+ref_id: "lov/1957-06-28-16"
+title: "Lov om friluftslivet (friluftsloven)"
+short_title: "Friluftsloven – fril"
+language: "nb"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "1957-07-01"
+last_change_in_force: "2025-01-01"
+last_updated: "2021-07-01"
+xml_hash: "0d76411177215969a4d808c87d4d2b6b038cfb202f3a98dbbddd0e76f0c4479c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om friluftslivet (friluftsloven)
+
+## Kapitel I. Om ferdsel m.v.
+
+### § 1. (Lovens formål)
+
+Formålet med denne loven er å verne friluftslivets naturgrunnlag og sikre almenhetens rett til ferdsel, opphold m.v. i naturen, slik at muligheten til å utøve friluftsliv som en helsefremmende, trivselskapende og miljøvennlig fritidsaktivitet bevares og fremmes.
+
+> Tilføyd ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 1 a. (Hva som forstås med innmark og utmark.)
+
+Som innmark eller like med innmark reknes i denne lov gårdsplass, hustomt, dyrket mark, engslått og kulturbeite samt liknende område hvor almenhetens ferdsel vil være til utilbørlig fortrengsel for eier eller bruker. Udyrkete, mindre grunnstykker som ligger i dyrket mark eller engslått eller er gjerdet inn sammen med slikt område, reknes også like med innmark. Det samme gjelder område for industrielt eller annet særlig øyemed hvor almenhetens ferdsel vil være til utilbørlig fortrengsel for eier, bruker eller andre.
+
+Med utmark mener denne lov udyrket mark som etter foregående ledd ikke reknes like med innmark.
+
+> Endret ved [lover 21 juni 1996 nr. 37](lov/1996-06-21-37), tidligere § 1, [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 2. (Ferdsel i utmark.)
+
+I utmark kan enhver ferdes til fots hele året, når det skjer hensynsfullt og med tilbørlig varsomhet.
+
+Det samme gjelder ferdsel med ride- eller kløvhest, kjelke, tråsykkel eller liknende på veg eller sti i utmark og over alt i utmark på fjellet, såfremt ikke kommunen med samtykke av eieren eller brukeren har forbudt slik ferdsel på nærmere angitte strekninger.
+
+Om motorferdsel i utmark gjelder også lov om motorferdsel i utmark og vassdrag.
+
+> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2020 nr. 85](lov/2020-06-19-85).
+
+### § 3. (Ferdsel i innmark.)
+
+I innmark kan enhver ferdes til fots i den tid marken er frosset eller snølagt, dog ikke i tidsrommet fra 30. april til 14. oktober. Denne ferdselsrett gjelder likevel ikke på gårdsplass eller hustomt, inngjerdet hage eller park og annet for særskilt øyemed inngjerdet område hvor almenhetens vinterferdsel vil være til utilbørlig fortrengsel for eier eller bruker.
+
+Eier eller bruker kan – uansett inngjerding – forby ferdsel over hage, plantefelt, høstsådd åker og gjenlegg (attlegg) også når marken er frosset eller snølagt, såfremt ferdselen er egnet til å volde nevneverdig skade.
+
+Statsforvalteren kan for det enkelte fylke eller deler av det bestemme at det tidsrom da det etter første ledd skal være ubetinget forbudt å ferdes i innmark, settes kortere eller lengre enn fra 30. april til 14. oktober.
+
+> Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 3 a. (Ferdsel på vei eller sti i innmark)
+
+Ferdsel i innmark som fører til utmark,til fots på vei eller sti,på vei eller opparbeidet sti med ride- eller kløvhest, tråsykkel, kjelke eller liknende, med unntak av organisert aktivitet som sykkelløp og rideklubbaktivitet,er tillatt hele året, hvis ferdselen kan skje uten å passere gjennom gårdsplass eller over hustomt eller uten på annen måte å være til utilbørlig fortrengsel eller ulempe for eier eller bruker.
+
+Kommunen kan, etter samtykke fra eier eller bruker av eiendommen, gi forskrift om å forby ferdsel som er tillatt etter første ledd.
+
+Eier eller bruker kan forby ferdsel som er tillatt etter første ledd, hvis ferdselen er egnet til å volde nevneverdig skade.
+
+> Tilføyd ved [lov 16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), endret ved [lov 19 juni 2020 nr. 85](lov/2020-06-19-85).
+
+### § 4. (Ferdsel med motorvogn og hestekjøretøy.)
+
+Når ikke annet er bestemt, kan eier av privat veg forby ferdsel med hestekjøretøy, motorvogn, (derunder sykkel med hjelpemotor) og parkering av motorvogn på eller langs vegen.
+
+Ved offentlig veg er det tillatt å parkere i utmark, såfremt det ikke volder nevneverdig skade eller ulempe.
+
+### § 5. (Almenhetens høstingsrett)
+
+Under ferdsel i utmark kan allmennheten høste ville nøtter som skal spises på stedet og plukke og ta med seg ville blomster, planter, bær og vill sopp, samt røtter av ville urter, når det skjer hensynsfullt og med tilbørlig varsomhet.
+
+For multer på multebærland i Nordland, Troms og Finnmark gjelder første ledd bare når eier eller bruker ikke har nedlagt uttrykkelig forbud mot plukking. Uavhengig av et slikt uttrykkelig forbud kan allmennheten alltid plukke multer som spises på stedet.
+
+> Opphevet ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37) (ikr. 1 juli 1996), tilføyd igjen ved [lov 16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), endret ved [lov 22 juni 2012 nr. 56](lov/2012-06-22-56) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 587](forskrift/2012-06-22-587)).
+
+### § 6. (Ferdsel på sjøen og i vassdrag.)
+
+På sjøen er ferdsel med båt fri for enhver. Ferdsel på islagt sjø er også fri for enhver.
+
+Om ferdsel på innsjøer og elver (åpent eller islagt vassdrag) gjelder reglene i [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann og [lov 10. juni 1977 nr. 82](lov/1977-06-10-82) om motorferdsel i utmark og vassdrag.
+
+> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+
+### § 7. (Landsetting og fortøyning av båt.)
+
+Under ferdsel har enhver rett til for kortere tid å dra i land båt på strandstrekning i utmark. Det er ikke tillatt å nytte kai eller brygge uten eierens eller brukerens samtykke. Andre fortøyningsgreier (ringer, bolter o.l.) i utmark kan ikke nyttes dersom eieren eller brukeren har forbudt det. Eieren eller brukeren kan likevel ikke motsette seg bruk av slike fortøyningsgreier for kortere tid når bruken kan foregå uten utilbørlig fortrengsel for eier eller bruker.
+
+### § 8. (Bading.)
+
+Enhver har rett til å bade i sjøen eller i vassdrag fra strand i utmark eller fra båt når det skjer i rimelig avstand fra bebodd hus (hytte) og uten utilbørlig fortrengsel eller ulempe for andre.
+
+> Endret ved [lov 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)).
+
+### § 9. (Rasting og telting.)
+
+Plass til rasting, solbad, overnatting eller liknende må ikke tas i innmark uten eierens eller brukerens samtykke.
+
+I utmark må plass som nevnt i foregående ledd ikke tas til utilbørlig fortrengsel eller ulempe for andre. Rasting eller telting må ikke skje når det kan medføre nevneverdig skade på ungskog, eller skogforyngelsesfelt. Telt må ikke settes opp så nær bebodd hus (hytte) at det forstyrrer beboernes fred og i hvert fall ikke nærmere enn 150 meter. Reglene om avstand fra bebyggelse gjelder likevel ikke på område som særskilt er innredet for telting. Departementet kan gi forskrift om å tillate telting nærmere enn 150 meter fra bebodd hus (hytte) i kystnære områder.
+
+Telting eller annet opphold er ikke tillatt i mer enn 2 døgn om gangen uten eierens eller brukerens samtykke. Samtykke til lengre opphold trengs likevel ikke på høgfjellet eller på område fjernt fra bebyggelse, medmindre det må regnes med at oppholdet kan medføre nevneverdig skade eller ulempe.
+
+For tidsrommet umiddelbart før og under villreinjakten kan departementet på nærmere avgrenset høgfjellsområde forby eller regulere teltslåing som kan være til ulempe for villreinjakten.
+
+Telting og ferdsel må skje på eget ansvar for skade som dyr kan påføre personer, telt og andre eiendeler.
+
+> Endret ved [lover 21 juni 1985 nr. 88](lov/1985-06-21-88), [21 juni 1996 nr. 37](lov/1996-06-21-37), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 10. (Friluftsmøte m.v.)
+
+Friluftsmøte, idrettsstevne (f.eks. skirenn eller orienteringsløp) og liknende sammenkomst som kan medføre nevneverdig skade eller ulempe, kan ikke holdes uten samtykke av eier eller bruker av grunn hvor avsperring foretas, samling, start eller innkomst finner sted eller hvor sammenstimling av folk for øvrig må påreknes.
+
+Løype for skirenn, terrengløp eller liknende må legges slik at skade på skogforynging og ungskog og skade på gjerde så vidt mulig unngås.
+
+## Kapitel II. Om ferdselsrettens utøving og innskrenkninger i ferdselsretten m.v.
+
+### § 11. (Ferdselskultur og eierens bortvisingsrett.)
+
+Enhver som ferdes eller oppholder seg på annen manns grunn eller på sjøen utenfor, skal opptre hensynsfullt og varsomt for ikke å volde skade eller ulempe for eier, bruker eller andre, eller påføre miljøet skade. Han plikter å se etter at han ikke etterlater seg stedet i en tilstand som kan virke skjemmende eller føre til skade eller ulempe for noen.
+
+Grunnens eier eller bruker har rett til å vise bort folk som opptrer hensynsløst eller ved utilbørlig atferd utsetter eiendommen eller berettigete interesser for skade eller ulempe.
+
+> Endret ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 12. (Erstatning for skade og ulempe.)
+
+For skade og ulempe som noen volder under ferdsel eller opphold på annen manns grunn, gjelder alminnelige erstatningsregler.
+
+### § 13. (Ulovlige stengsler eller forbudsskilt)
+
+Eier eller bruker av grunn må ikke ved stengsel eller på annen måte vanskeliggjøre ferdsel, opphold, bading eller høsting som er tillatt i denne lov, med mindre det tjener hans berettigete interesser og ikke er til utilbørlig fortrengsel for almenhetens utøvelse av allemannsrett.
+
+Uten særskilt hjemmel er det ikke tillatt å sette opp skilt eller på annen måte kunngjøre forbud mot ferdsel, opphold, bading eller høsting som er tillatt i denne lov.
+
+Stengsel, skilt eller kunngjøring som er i strid med denne paragraf, kan kreves fjernet etter [§ 40](lov/1957-06-28-16/§40).
+
+> Endret ved [lover 21 juni 1996 nr. 37](lov/1996-06-21-37), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 14. (Avgift for adgang til friluftsområde)
+
+Ferdselsrett etter denne lov er ikke til hinder for at eier eller bruker etter løyve av kommunen kan kreve en rimelig avgift for adgangen til badestrand, teltplass eller annet opparbeidet friluftsområde, men avgiften må ikke stå i misforhold til de tiltak eier eller bruker har gjort på området til fordel for friluftsfolket. Det kan settes vilkår for slikt løyve.
+
+> Endret ved [lover 8 mars 1963 nr. 1](lov/1963-03-08-1), [5 juni 1987 nr. 25](lov/1987-06-05-25), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 15. (Regulering av ferdsel på visse friluftsområde)
+
+Til regulering av ferdselen på område hvor utfarten er stor, kan kommunen med samtykke av eieren eller brukeren fastsette atferdsregler som enhver som ferdes på området plikter å følge. Reglene skal særlig ta sikte på å opprettholde ro og orden, verne dyre- og plantelivet og fremme helsetiltak og sanitære forhold.
+
+> Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2020 nr. 85](lov/2020-06-19-85).
+
+### § 16. (Sperring av særlig utsatt område)
+
+Blir en eiendom i særlig grad utsatt for almenhetens ferdsel kan kommunen med samtykke av eieren eller brukeren bestemme hel eller delvis sperring av eiendommen, når ferdselen gjør nevneverdig skade på den eller er til vesentlig hinder for den bruk som eieren eller brukeren gjør eller ønsker å gjøre av den.
+
+Sperring fastsettes for et bestemt tidsrom, ikke over 5 år om gangen.
+
+> Endret ved [lover 8 mars 1963 nr. 1](lov/1963-03-08-1), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2020 nr. 85](lov/2020-06-19-85).
+
+### § 17. (Opphevet)
+
+> Endret ved [lover 19 juni 1969 nr. 54](lov/1969-06-19-54), [11 juni 1993 nr. 85](lov/1993-06-11-85), opphevet ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 18. (Krav om innløsning av særlig utsatt område)
+
+Eier av grunn som nevnt i [§ 16](lov/1957-06-28-16/§16) kan kreve at den kommune hvor eiendommen ligger, innløser det området som i særlig grad er utsatt for almenhetens ferdsel når det ikke blir truffet vedtak om sperring, eller sperring ikke er tilstrekkelig til å beskytte området.
+
+Blir ikke saken ordnet i minnelighet, kan eieren kreve den avgjort ved skjønn etter reglene i skjønnsprosessloven kapittel 2, likevel slik at kommunen skal erstatte eierens skjønnskostnader når ikke skjønnet finner å burde gjøre unntak, fordi erstatningssøkeren har avslått et rimelig forliksbud eller uten rimelig grunn har forlangt skjønn. Skjønnet avgjør om vilkårene for innløsning er til stede, innløsningens omfang og erstatningens størrelse.
+
+> Endret ved [lover 17 des 1982 nr. 88](lov/1982-12-17-88), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 19. (Forholdet til andre lover)
+
+Utøvelse av allemannsretten etter denne lov gjelder med de begrensninger som følger av annen lovgivning eller av forskrifter gitt i medhold av lov.
+
+> Endret ved [lov 16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 20. (Uttalelse om tvilsspørsmål)
+
+Er det tvil eller uenighet omhvorvidt et grunnstykke skal reknes som innmark eller utmark etter denne lov, ellerhvilken avstand raste- eller teltplass m.v. etter [§ 9](lov/1957-06-28-16/§9) skal ha fra et bebodd hus eller hvorvidt det må reknes med at rasting eller telting m.v. etter [§ 9](lov/1957-06-28-16/§9) tredje ledd kan medføre nevneverdig skade eller ulempe, ellerhvorvidt et stengsel, eller annen hindring, et skilt eller en kunngjøring er lovlig (jfr. [§ 13](lov/1957-06-28-16/§13)),kan grunneieren, brukeren, eller et interessert friluftslag kreve uttalelse herom av kommunen.
+
+> Endret ved [lover 13 juni 1980 nr. 41](lov/1980-06-13-41), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+## Kapitel III. Om friluftslivsforvaltningen. Forholdet til forvaltningsloven.
+
+> Overskriften endret ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 21. (Friluftslivsorganene)
+
+I friluftslivsforvaltningen etter denne lov er det følgende organer:DepartementetDirektoratetStatsforvalterenFylkeskommunenKommunen.
+
+> Opphevet ved [lov 8 juni 1990 nr. 16](lov/1990-06-08-16), tilføyd igjen ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37), endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 22. (Friluftslivsorganenes arbeidsoppgaver)
+
+De enkelte organer etter [§ 21](lov/1957-06-28-16/§21) skal utføre de oppgaver som direkte er tillagt dem etter loven, og har ellers et generelt ansvar for å fremme almenhetens friluftsinteresser.
+
+Kommunen, fylkeskommunen og statsforvalteren skal arbeide for å fremme friluftsformål innen sitt område. Departementet kan i forskrift tildele fylkeskommunen ansvaret for nærmere bestemte oppgaver for å fremme og tilrettelegge for friluftslivet.
+
+Kommunen og fylkeskommunen har rett til å opptre, klage og i tilfelle reise søksmål for å ivareta almennhetens interesser i alle saker av interesse for friluftslivet. Statsforvalteren kan opptre, klage og i tilfelle på vegne av staten reise søksmål for å ivareta almennhetens interesser i alle saker av interesse for friluftslivet.
+
+> Endret ved [lover 8 mars 1963 nr. 1](lov/1963-03-08-1), [5 juni 1987 nr. 25](lov/1987-06-05-25), [8 juni 1990 nr. 16](lov/1990-06-08-16), [21 juni 1996 nr. 37](lov/1996-06-21-37), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), [14 juni 2013 nr. 51](lov/2013-06-14-51) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 674](forskrift/2013-06-14-674)), [19 juni 2020 nr. 85](lov/2020-06-19-85), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+
+### § 23. (Forskrifter)
+
+Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av loven.
+
+> Endret ved [lover 5 juni 1987 nr. 25](lov/1987-06-05-25), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 24. (Forholdet til forvaltningsloven, herunder om kunngjøring og klage)
+
+Når ikke annet er bestemt, gjelder [forvaltningsloven](lov/1967-02-10) for behandling av saker etter denne lov.
+
+For behandlingen av saker etter [§§ 14](lov/1957-06-28-16/§14), [18](lov/1957-06-28-16/§18) første ledd, [35](lov/1957-06-28-16/§35) første, annet og tredje ledd og [40](lov/1957-06-28-16/§40) første, annet og tredje ledd gjelder reglene om enkeltvedtak i [forvaltningslovens kapittel IV](lov/1967-02-10/kapiv), V og VI. Kommunens vedtak kan påklages til statsforvalteren. Fylkeskommunens vedtak kan påklages til Miljødirektoratet.
+
+For behandling av saker etter [§§ 2](lov/1957-06-28-16/§2) annet ledd, [3](lov/1957-06-28-16/§3) tredje ledd, [3 a](lov/1957-06-28-16/§3a) annet ledd, [9](lov/1957-06-28-16/§9) fjerde ledd, [15](lov/1957-06-28-16/§15), [16](lov/1957-06-28-16/§16) og [34](lov/1957-06-28-16/§34) gjelder reglene om forskrifter i [forvaltningslovens kapittel VII](lov/1967-02-10/kapvii).
+
+Kommunen sørger for at vedtak etter [§§ 2](lov/1957-06-28-16/§2) annet ledd, [3](lov/1957-06-28-16/§3) tredje ledd, [3 a](lov/1957-06-28-16/§3a) annet ledd, [15](lov/1957-06-28-16/§15) og [16](lov/1957-06-28-16/§16) straks blir kunngjort i en eller flere aviser som er alminnelig lest på stedet, og om nødvendig ved oppslag på eiendommen eller på annen måte.
+
+Kommunens vedtak etter [§§ 2](lov/1957-06-28-16/§2) annet ledd, [3 a](lov/1957-06-28-16/§3a) annet ledd, [15](lov/1957-06-28-16/§15) og [16](lov/1957-06-28-16/§16) kan bringes inn for departementet av eieren eller brukeren av den grunn vedtaket gjelder, av statsforvalteren, av annen kommune som er interessert i at retten til ferdsel ikke innskrenkes på denne måte, av fylkeskommunen eller av et interessert friluftslag. Statsforvalterens vedtak etter [§ 3](lov/1957-06-28-16/§3) tredje ledd kan bringes inn for departementet av eieren eller brukeren av den grunn vedtaket gjelder, av den kommune hvor grunnen ligger, av annen kommune som er interessert i at retten til ferdsel ikke innskrenkes på denne måte, av fylkeskommunen eller av et interessert friluftslag.
+
+> Opphevet ved lov 21 apr 1989 nr. 17 (i kap. IV), tilføyd igjen i dette kap. ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37), endret ved [lover 16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), [14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013), [19 juni 2020 nr. 85](lov/2020-06-19-85), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+## Kapitel IV. (Opphevet ved lov 21 apr 1989 nr. 17.)
+
+> Kapitlet opphevet ved [lov 21 apr 1989 nr. 17](lov/1989-04-21-17).
+
+## Kapitel V. Om tvangsinngrep, skjønn m.v.
+
+> Endret ved [lov 23 okt 1959 nr. 3](lov/1959-10-23-3).
+
+### § 34. (Friluftsmark.)
+
+Med Stortingets samtykke kan Kongen gjøre vedtak om at områder av statens grunn blir lagt ut til friluftsmark.
+
+Kongen gir nærmere regler om almenhetens rett i område som staten har lagt ut som friluftsmark eller på annen måte båndlagt til fordel for friluftslivet.
+
+> Endret ved [lov 23 okt 1959 nr. 3](lov/1959-10-23-3).
+
+### § 35. (Tiltak og inngrepsløyve for å lette ferdsel i utmark)
+
+Kommunen kan varde og merke opp ruter og turstier i utmark, og den kan på bestemte steder bygge klopper eller bruer og sette i verk andre tiltak for å lette ferdselen langs ruter og turstier i utmark.
+
+Kommunen kan gi organisasjoner som har til formål å fremme reise- og friluftsliv, rett til å varde og merke opp ruter og turstier i utmark.
+
+Departementet kan gi regionale organisasjoner som har til formål å fremme reise- og friluftsliv, rett som nevnt i første ledd for ruter og turstier som berører flere kommuner.
+
+Rett til å varde og merke opp ruter og turstier i utmark kan utøves uten forutgående skjønn. Tilsvarende gjelder rett til å bygge klopper eller bruer og sette i verk andre tiltak for å lette ferdselen langs ruter og turstier i utmark dersom kommunen eller departementet i det enkelte tilfelle bestemmer det.
+
+Volder utøvelsen av myndighet skade, kan eieren (eller brukeren) kreve erstatningsspørsmålet avgjort ved skjønn. I saker etter første og annet ledd skal kommunen, og i saker etter tredje ledd skal departementet, erstatte eierens (eller brukerens) skjønnskostnader når ikke skjønnet finner å burde gjøre unntak, fordi erstatningssøkeren har avslått et rimelig forlikstilbud eller uten rimelig grunn har forlangt skjønn. Skjønnet styres av jordskifteretten.
+
+Ved merking av ruter skal eieren (eller brukeren) varsles i god tid før merkingen blir satt i verk. Motsetter han seg merking etter første eller annet ledd, avgjør kommunen om og i tilfelle på hvilken måte merking skal tillates. Tilsvarende avgjør departementet for merking etter tredje ledd.
+
+> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [21 juni 1996 nr. 37](lov/1996-06-21-37), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+
+### § 36. (Opphevet)
+
+> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [18 juni 1965 nr. 5](lov/1965-06-18-5), [17 des 1982 nr. 88](lov/1982-12-17-88), opphevet ved [lov 21 juni 1996 nr. 37](lov/1996-06-21-37).
+
+### § 37. (Opphevet)
+
+> Opphevet ved [lov 23 okt 1959 nr. 3](lov/1959-10-23-3).
+
+### § 38. (Opphevet)
+
+> Endret ved lov 23 okt 1959, opphevet ved [lov 21 apr 1989 nr. 17](lov/1989-04-21-17).
+
+## Kapitel VI. Om reaksjoner ved overtredelse mv.
+
+> Overskriften endret ved [lov 16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 39. (Straff.)
+
+Den som forsettlig eller uaktsomt overtrer regler gitt i eller i medhold av denne lov, straffes med bøter for så vidt ikke forholdet rammes av strengere straffebud.
+
+> Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+### § 40. (Stansing, fjerning av ulovlige byggverk, tvangsmulkt m.v.)
+
+Blir noen bygning, inngjerding eller annet arbeid påbegynt i strid med forbud eller pålegg gitt i medhold av denne lov, kan kommunen kreve arbeidet stanset.
+
+Helt eller delvis oppført byggverk, stengsel eller annen innretning, skilt eller kunngjøring som strider mot forbud eller pålegg gitt i eller i medhold av loven, kan friluftsorganene som nevnt i [§ 21](lov/1957-06-28-16/§21) kreve fjernet på den skyldiges kostnad.
+
+Kommunen eller departementet kan ilegge tvangsmulkt dersom ikke stengsler eller skilt til hinder for lovlig ferdsel, bading, opphold eller høsting fjernes etter pålegg fra friluftsorganene som nevnt i [§ 21](lov/1957-06-28-16/§21). Tvangsmulkten kan fastsettes samtidig med pålegg om fjerning og løper i så fall fra fristoverskridelsen for fjerning. Der tvangsmulkt ikke fastsettes samtidig med pålegg, skal det gis eget forhåndsvarsel om tvangsmulkt. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, som et engangsbeløp eller som en kombinasjon av løpende mulkt og engangsbeløp. Tvangsmulkten ilegges den ansvarlige for overtredelsen, og tilfaller kommunen.
+
+Om nødvendig kan politiets hjelp kreves til gjennomføring av tiltak etter denne paragraf.
+
+> Endret ved [lover 21 juni 1996 nr. 37](lov/1996-06-21-37), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)).
+
+### § 41. (Lovens ikrafttreden og oppheving av andre lover.)
+
+Denne lov trer i kraft 1. juli 1957.
+
+Fra samme tid oppheves følgende lovbestemmelser:[Lov av 16. mai 1860](lov/1860-05-16) om Jords Fredning § 39.Lov av 25. juni 1937 om avståelse av strandstrekninger til ferdsel og badning m.v.Midlertidig lov av 4. juni 1954 om byggeforbud m.v. for strandstrekninger.
+
+Forbud nedlagt etter midlertidig lov av 4. juni 1954 om byggeforbud m.v. for strandstrekninger skal – uansett tidsbegrensing – fortsatt stå ved makt i samsvar med reglene i loven her, likevel ikke utover 10 år reknet fra fylkesutvalgets vedtak om forbudet.

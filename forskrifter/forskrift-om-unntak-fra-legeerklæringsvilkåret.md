@@ -1,0 +1,56 @@
+---
+id: "sf-20051221-1668"
+slug: "forskrift-om-unntak-fra-legeerklæringsvilkåret"
+type: "forskrift"
+ref_id: "forskrift/2005-12-21-1668"
+title: "Forskrift om unntak fra vilkåret om legeerklæring når kiropraktorer og manuellterapeuter dokumenterer arbeidsuførheten med erklæring"
+short_title: "Forskrift om unntak fra legeerklæringsvilkåret"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2006-01-01"
+last_change_in_force: "2023-01-01"
+last_updated: "2006-02-03"
+xml_hash: "6015bbabf8f911099ecd4b189c6688ed236b509decd50424250d25b21dafd315"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om unntak fra vilkåret om legeerklæring når kiropraktorer og manuellterapeuter dokumenterer arbeidsuførheten med erklæring
+
+## § 1. Retten til å dokumentere arbeidsuførhet
+
+Kiropraktor som skal dokumentere arbeidsuførhet må ha autorisasjon etter [helsepersonelloven § 48](lov/1999-07-02-64/§48) eller godkjenning etter tidligere regelverk, jf. [helsepersonelloven § 76](lov/1999-07-02-64/§76) andre ledd. Den som har turnuslisens som kiropraktor, jf. [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell [kapittel 1](forskrift/2000-12-21-1382/kap1) og 6, kan også dokumentere arbeidsuførhet.
+
+Manuellterapeut som skal dokumentere arbeidsuførhet må ha autorisasjon som manuellterapeut etter [helsepersonelloven § 48](lov/1999-07-02-64/§48). I en overgangsperiode fram til 1. januar 2024 kan også fysioterapeut som er registrert i Helsepersonellregisteret med tilleggskompetansen sykmeldings-, rekvisisjons- og henvisningsrett dokumentere arbeidsuførhet. Dette gjelder fysioterapeut som:har bestått eksamen i klinisk masterstudium i manuellterapi for fysioterapeuter ved norsk universitet eller tilsvarende, ellerhadde godkjenning for bruk av takst A8 før 1. juli 2015, har bestått eksamen i differensialdiagnostikk, laboratorieanalyser og utdanning i radiologi tilsvarende norsk masterutdanning, og i tillegg har gjennomgått opplæring i trygdefaglige emner mv.
+
+Kiropraktor og manuellterapeut som skal dokumentere arbeidsuførhet må ha gjennomført opplæring i trygdefaglige emner mv. Helse- og omsorgsdepartementet fastsetter nærmere bestemmelser om omfang av opplæringen.
+
+> Endret ved forskrift [16 des 2022 nr. 2321](forskrift/2022-12-16-2321) (i kraft 1 jan 2023).
+
+## § 2. Erklæring om arbeidsuførhet
+
+Vilkåret i [folketrygdloven § 8-7](lov/1997-02-28-19/§8-7) om legeerklæring for rett til sykepenger gjelder ikke når arbeidsuførhet dokumenteres med erklæring fra kiropraktor eller manuellterapeut. Det gjøres tilsvarende unntak fra vilkåret om erklæring fra lege i § 8-4 tredje ledd bokstav b). Første og andre punktum gjelder bare ved sykdom eller skade som har direkte sammenheng med muskel- og skjelettsystemet. Det er et vilkår for unntak fra kravet om legeerklæring etter [folketrygdloven § 8-7](lov/1997-02-28-19/§8-7) fjerde ledd at kiropraktor eller manuellterapeut dokumenterer at slik sykdom eller skade er til hinder for arbeidsrelaterte aktiviteter. [Folketrygdloven § 8-7](lov/1997-02-28-19/§8-7) annet, tredje og fjerde ledd gjelder tilsvarende for erklæring fra kiropraktor og manuellterapeut.
+
+Erklæring som nevnt i første ledd kan ikke vedvare for en sammenhengende periode ut over tolv uker fra første sykefraværsdag.
+
+Etter samtykke fra medlemmet oversendes kopi av erklæring utstedt i medhold av første ledd til medlemmets lege på samme tid som til Arbeids- og velferdsetaten.
+
+Er medlemmet arbeidsufør ut over ti uker, skal kiropraktoren eller manuellterapeuten etter medlemmets samtykke oversende informasjon om utført behandling til medlemmets lege.
+
+[Folketrygdloven § 21-4](lov/1997-02-28-19/§21-4) andre ledd tredje punktum om opplysningsplikt i legeerklæring om sykefravær der en sykdom eller skade kan ha sammenheng med arbeidssituasjonen, og § 25-7 om utelukkelse fra å utstede legeerklæringer gjelder tilsvarende for kiropraktorer og manuellterapeuter.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [19 des 2008 nr. 1499](forskrift/2008-12-19-1499) (i kraft 1 jan 2009).
+
+## § 3. Utfyllende retningslinjer
+
+Arbeids- og velferdsdirektoratet kan gi nærmere retningslinjer for praktiseringen av forskriften, herunder om hvilke sykdommer og skader som faller inn under [§ 2](forskrift/2005-12-21-1668/§2) første ledd tredje punktum, og om anvendelsen av [§ 2](forskrift/2005-12-21-1668/§2) første ledd ved gjentatt arbeidsuførhet hos et medlem.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2006.

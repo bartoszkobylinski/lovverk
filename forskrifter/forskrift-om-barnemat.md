@@ -1,0 +1,267 @@
+---
+id: "sf-20021018-1185"
+slug: "forskrift-om-barnemat"
+type: "forskrift"
+ref_id: "forskrift/2002-10-18-1185"
+title: "Forskrift om bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn."
+short_title: "Forskrift om barnemat"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2002-10-18"
+last_change_in_force: "2007-10-31"
+last_updated: null
+xml_hash: "9653f143c151ac29992aec2bf7e3b6606cd11baa0944cbf14c7cf17c68600c3e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn.
+
+## Kapittel I. Omfang og definisjoner
+
+### § 1. Omfang
+
+Denne forskriften gir bestemmelser om sammensetning, merking og omsetning av næringsmidler som er beregnet til friske spedbarn og småbarn.1
+
+Forskriften omfatter næringsmidler som dekker spesielle ernæringsmessige behov hos friske spedbarn og småbarn, og som er beregnet tilspedbarn under tilvenning til fast føde eller tilsmåbarn for gradvis tilpasning til en alminnelig kost.
+
+Følgende kategorier næringsmidler omfattes av forskriften:Bearbeidet kornbasert barnemat (kan også baseres på rotfrukter, jf. vedlegg 1), som grupperes i kategorienekornprodukter som skal røres ut med melk eller andre egnede, næringsrike væsker,kornprodukter tilsatt et proteinrikt næringsmiddel, som skal røres ut med vann eller annen proteinfri væske,pasta, som skal spises etter koking i vann eller andre egnede væsker ogkavringer og kjeks, som spises enten direkte eller etter knusing og tilsetning av vann, melk eller andre egnede væsker.Annen barnemat (jf. vedlegg 2).
+
+Forskriften omfatter ikke melk beregnet til småbarn.
+
+Bestemmelser i denne forskriften gjelder i tillegg til bestemmelser i [forskrift 21. desember 1993 nr. 1382](forskrift/1993-12-21-1382) om næringsmidler til bruk ved spesielle ernæringsmessige behov og erstatter disse i de tilfeller hvor bestemmelser i denne forskrift er mer utfyllende.
+
+> Endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+### § 2. Definisjoner
+
+I denne forskriften forstås ved*spedbarn:* barn under 12 måneder.*småbarn:* barn fra 1 inntil 3 år.*rester av plantevernmidler:* rester av plantevernmidler mv. i bearbeidet kornbasert barnemat og annen barnemat, og deres eventuelle giftige omdannelses- eller nedbrytingsprodukter, som definert i [forskrift 21. desember 1993 nr. 1388](forskrift/1993-12-21-1388) om rester av plantevernmidler mv. i næringsmidler og fôrvarer.
+
+> Endret ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+## Kapittel II. Sammensetning
+
+### § 3. Generelt
+
+Bearbeidet kornbasert barnemat og annen barnemat som skal omsettes på det norske markedet må være i samsvar med bestemmelsene gitt i denne forskriften.
+
+Bearbeidet kornbasert barnemat og annen barnemat må ikke inneholde noen stoffer i slike mengder at det oppstår fare for spedbarns og småbarns helse.
+
+> Endret ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+### § 4. Ingredienser
+
+Bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn skal framstilles av ingredienser hvor det ved generelt aksepterte vitenskapelige data er fastslått at de er egnet til å inngå i kosten til spedbarn og småbarn.
+
+### § 5. Sammensetning av bearbeidet kornbasert barnemat
+
+Bearbeidet kornbasert barnemat skal oppfylle kravene til sammensetning som er fastsatt i vedlegg 1.
+
+### § 6. Sammensetning av annen barnemat
+
+Annen barnemat skal oppfylle kravene til sammensetning som er fastsatt i vedlegg 2.
+
+### § 7. Tilsetning av næringsstoffer
+
+Ved tilsetning av næringsstoffer til bearbeidet kornbasert barnemat og annen barnemat er det kun tillatt å bruke de stoffene som er fastsatt i vedlegg 4.
+
+> Endret ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+### § 8. Rester av plantevernmidler mv.
+
+Bearbeidet kornbasert barnemat og annen barnemat skal ikke innholde rester av plantevernmidler som overstiger en grenseverdi på 0,01 mg/kg. Grenseverdien gjelder for hvert enkelt plantevernmiddel, med unntak av de plantevernmidlene hvor det i vedlegg 6 er gitt spesielle grenseverdier. I disse tilfellene gjelder grenseverdiene fastsatt i vedlegg 6.
+
+Analysemetoder som benyttes for å bestemme innholdet av rester av plantevernmidler skal være metoder som er basert på generelt aksepterte og standardiserte metoder.
+
+Plantevernmidler listet opp i vedlegg 7 skal ikke brukes i produksjonen av ingredienser som skal inngå i kornbasert barnemat og annen barnemat. For tilsynsformål gjelder likevel følgende:Det antas at plantevernmidler listet opp i tabell 1 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået, som er analysemetodens kvantifiseringsgrense, skal revurderes dersom det anses nødvendig i lys av ny teknologi.Det antas at plantevernmidler listet opp i tabell 2 i vedlegg 7 ikke er benyttet dersom analyseresultatet for rester av plantevernmidler ikke overstiger 0,003 mg/kg. Dette nivået skal revurderes i lys av nye data omhandlende miljøforurensning.
+
+Bestemmelsene gitt i denne paragrafen gjelder for kornbasert barnemat og annen barnemat som er ferdig til konsum eller tilberedt i henhold til produsentens anvisninger.
+
+> Endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+## Kapittel III. Merking
+
+### § 9. Generelle krav
+
+Bearbeidet kornbasert barnemat og annen barnemat skal merkes etter gjeldende forskrifter om merking av næringsmidler.1
+
+### § 10. Bruksområde
+
+I merkingen av bearbeidet kornbasert barnemat og annen barnemat skal det opplyses om hvilket alderstrinn produktet kan brukes fra. Ved fastsettelse av dette alderstrinnet skal det tas hensyn til produktets sammensetning, konsistens og andre spesielle egenskaper. Anbefalt nedre aldersgrense kan ikke være lavere enn fire måneder.
+
+På produkter som er merket med at de kan brukes fra fire måneders alder, kan det i tillegg opplyses om at produktet kan brukes fra dette alderstrinn dersom ikke annet er anbefalt av uavhengig helsepersonell med ansvar for oppfølging av mor og barn.
+
+### § 11. Informasjon om tilberedning
+
+En anvisning om riktig tilberedning av produktet samt viktigheten av å følge denne anvisningen skal inngå i merkingen når det er nødvendig.
+
+### § 12. Gluteninnhold
+
+Hvis det anbefalte alderstrinn for bruk av produktet er under 6 måneder, skal det opplyses om hvorvidt produktet inneholder, eller ikke inneholder, gluten.
+
+### § 13. Deklarasjon av næringsinnhold
+
+1. Bearbeidet kornbasert barnemat og annen barnemat skal være merket med energiinnholdet uttrykt i kilojoule (kJ) og kilokalorier (kcal) samt innholdet av protein, karbohydrat og fett, uttrykt i tall. Innholdet skal oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
+2. Kategorier av bearbeidet kornbasert barnemat eller annen barnemat hvor det i vedleggene 1 respektive 2 er gitt krav om et bestemt innhold av visse vitaminer og/eller mineraler, skal merkes med det gjennomsnittlige innhold av de vitaminer og/eller mineraler det er gitt krav om i den aktuelle produkttypen, uttrykt i tall. Innholdet skal oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
+3. Bearbeidet kornbasert barnemat og annen barnemat kan i tillegg merkes med innholdet av de næringsstoffene som er angitt i vedlegg 4, uttrykt i tall, når en slik deklarasjon ikke omfattes av [pkt](forskrift/2002-10-18-1185/kap2). 2. Innholdet kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet.
+4. I tillegg til merking i henhold til [pkt. 1](forskrift/2002-10-18-1185/kap1), [2](forskrift/2002-10-18-1185/kap2) og 3, kan innholdet av de vitaminer og mineraler som er angitt i vedlegg 5 også oppgis som en prosentandel av de referanseverdier1 som er fastsatt i vedlegget. Prosentandelen kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet, forutsatt at innholdet av de aktuelle vitaminer/mineraler utgjør minst 15% av referanseverdiene.
+
+> Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+## Kapittel IV. Administrative bestemmelser
+
+### § 14. Tilsyn og vedtak
+
+Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.
+
+> Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+### § 15. Meldeplikt
+
+Av hensyn til en effektiv overvåkning av markedet skal næringsmidler som omfattes av denne forskrift meldes til Mattilsynet når de omsettes på det norske marked. Meldingen skjer ved at produsent/importør oversender følgende informasjon:navn og adresse til melder og produsent,alle inngående ingredienser inkludert den fullstendige kjemiske forbindelsen av tilsatte næringsstoffer,næringsmidlets totale innhold (summen av naturlig forekommende og tilsatt mengde) av alle vitaminer og mineraler som er tilsatt, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet,næringsmidlets innhold av øvrige vitaminer og mineraler som omfattes av vedlegg 4, fastsatt ved analyse av det ferdige produktet ved produksjonstidspunktet eller ved beregning av innholdet ut fra kjente eller faktiske gjennomsnittsverdier for de ingredienser som inngår i produktet ognæringsmidlets bruksområde (aldersangivelse) samt pakningstyper.
+
+Alle endringer i de innmeldte opplysninger samt eventuell tilbaketrekning av produkter fra markedet skal meldes til Mattilsynet.
+
+Mattilsynet kan kreve ytterligere opplysninger og dokumentasjon.
+
+> Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+### § 16. Dispensasjon
+
+Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.
+
+> Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+### § 17. Straff
+
+Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).
+
+> Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+### § 18. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+## Vedlegg 1. Krav til sammensetning av bearbeidet kornbasert barnemat til spedbarn og småbarn
+
+Kravene vedrørende innhold av næringsstoffer gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller rørt ut i henhold til produsentens anvisninger.
+
+Bearbeidet kornbasert barnemat framstilles hovedsakelig på basis av ett eller flere malte kornslag og/eller stivelsesholdige rotfrukter.
+
+Innholdet av korn og/eller rotfrukt skal utgjøre minst 25 % av tørrstoffinnholdet i det bruksklare produktet.
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 2 og nr. 4, skal proteininnholdet ikke overstige 1,3 g/100 kJ (5,5 g/100 kcal).
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal mengden tilsatt protein utgjøre minst 0,48 g/100 kJ (2 g/100 kcal).
+
+For kjeks som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 4, som er framstilt ved tilsetning av et proteinrikt næringsmiddel og presenteres som proteinrike, skal mengden tilsatt protein utgjøre minst 0,36 g/100 kJ (1,5 g/100 kcal).
+
+Det tilsatte proteinet skal ha en kjemisk score som er minst 80% av referanseproteinets (kasein, som definert i vedlegg 3), eller en proteineffektivitetsratio (PER) som er minst 70% av referanseproteinets.
+
+Tilsetning av aminosyrer er bare tillatt i den hensikt å forbedre proteinblandingens næringsverdi, og bare i mengder som er nødvendige for dette formålet.
+
+Hvis sukrose, fruktose, glukose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,8 g/100 kJ (7,5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,9 g/100 kJ (3,75 g/100 kcal).
+
+Hvis sukrose, fruktose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,2 g/100 kJ (5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,6 g/100 kJ (2,5 g/100 kcal).1 Mattilsynet fraråder bruk av honning til spedbarn, jf. [forskrift av 9. juli 2000 nr. 764](forskrift/2000-07-09-764) om advarselsmerking av honning.
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 og nr. 4, skal fettinnholdet ikke overstige 0,8 g/100 kJ (3,3 g/100 kcal).
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal fettinnholdet ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal). Hvis fettinnholdet overstiger 0,8 g/100 kJ (3,3 g/100 kcal) gjelder følgende:Mengden laurinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden myristinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden linolsyre (i form av glyserider = linolater) skal være minst 70 mg/100 kJ (300 mg/100 kcal) og skal ikke overstige 285 mg/100 kJ (1200 mg/100 kcal).
+
+NatriumNatriumsalter kan tilsettes bearbeidet kornbasert barnemat bare dersom det foreligger et teknologisk behov.Natriuminnholdet i bearbeidet kornbasert barnemat skal ikke overstige 25 mg/100 kJ (100 mg/100 kcal).
+
+Kalsium
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal innholdet av kalsium utgjøre minst 20 mg/100 kJ (80 mg/100 kcal).
+
+For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 4, framstilt ved tilsetning av melk (melkekjeks) og presentert som kjeks tilsatt melk, skal innholdet av kalsium utgjøre minst 12 mg/100 kJ (50 mg/100 kcal).
+
+Tiamininnholdet i bearbeidet kornbasert barnemat skal utgjøre minst 25 μg/100 kJ (100 μg/100 kcal).
+
+Produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal ha følgende innhold av vitamin A og vitamin D:*Per 100 kJ**Per 100 kcal**Minimum**Maksimum**Minimum**Maksimum*Vitamin A (μg RE)1144360180Vitamin D (μg)20,250,75131 RE = all-trans-retinolekvivalenter.2 I form av kolekalsiferol, hvor 10 μg = 400 i.e. vitamin D.
+
+For øvrige kategorier av bearbeidet kornbasert barnemat (produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1, nr. 3 og nr. 4) kreves det ikke et bestemt innhold av vitamin A og vitamin D. Dersom vitamin A og/eller vitamin D tilsettes til produkter i disse kategoriene, gjelder de samme grenseverdier som nevnt over.
+
+Ved tilsetting av vitaminer, mineraler og sporstoffer til produkter som er omfattet av dette vedlegget skal følgende maksimumsverdier gjelde:
+
+Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.*Næringsstoff**Maksimum per 100 kcal*Vitamin A (μg RE)180Vitamin E (mg α-TE)13Vitamin D (μg)3Vitamin C (mg)12,5/252Tiamin (mg)0,5Riboflavin (mg)0,4Niacin (mg NE)34,5Vitamin B6 (mg)0,35Folsyre (μg)50Vitamin B12 (μg)0,35Pantotensyre (mg)1,5Biotin (μg)10Kalium (mg)160Kalsium (mg)80/1804 /1005Magnesium (mg)40Jern (mg)3Sink (mg)2Kobber (μg)40Jod (μg)35Mangan (mg)0,6
+
+> Vedlegg 1 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175), [31 okt 2007 nr. 1204](forskrift/2007-10-31-1204).
+
+## Vedlegg 2. Krav til sammensetning av annen barnemat til spedbarn og småbarn
+
+Kravene vedrørende innhold av næringsstoffer gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger.
+
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde er de eneste ingrediensene som nevnes i produktets varebetegnelse, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 40 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1,7 g/100 kJ (7 g/100 kcal).
+
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes først i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 10 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1 g/100 kJ (4 g/100 kcal).
+
+Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes – men ikke først – i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 8 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen,andelen av protein fra de nevnte proteinkildene utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+
+Hvis ost nevnes sammen med andre ingredienser i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalandelen av protein fra meieriprodukter utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+
+Hvis produktet på etiketten betegnes som et måltid, men det ikke nevnes kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde i produktets varebetegnelse, skalproduktets totale proteininnhold fra alle kilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+
+Sauser som presenteres som tilbehør til et måltid omfattes ikke av kravene i punktene 1.1 – 1.4.
+
+I desserter eller andre søte retter hvor meieriprodukter nevnes som den første eller eneste ingrediensen i varebetegnelsen, skal innholdet av melkeprotein være minst 2,2 g/100 kcal. Øvrige desserter eller andre søte retter omfattes ikke av kravene i punktene 1.1 – 1.4.
+
+Tilsetning av aminosyrer er tillatt bare i den hensikt å forbedre de tilstedeværende proteinenes næringsverdi, og bare i mengder som er nødvendige for dette formålet.
+
+Det totale karbohydratinnholdet i frukt- og grønnsaksjuicer og nektar, i retter som bare inneholder frukt samt i desserter og puddinger skal ikke overstige:10 g/100 ml for grønnsaksjuice og drikker basert på grønnsaksjuice.15 g/100 ml for fruktjuice og nektar samt drikker basert på disse.20 g/100 g for retter som bare inneholder frukt.25 g/100 g for desserter og puddinger.5 g/100 g for andre drikker som ikke er basert på melk.
+
+For produkter som det henvises til under pkt. 1.1 i dette vedlegget, hvor kjøtt eller ost er de eneste ingrediensene, eller nevnes først i produktets varebetegnelse, skal produktets totale fettinnhold fra alle kilder ikke overstige 1,4 g/100 kJ (6 g/100 kcal).
+
+For alle andre produkter som omfattes av dette vedlegget, skal produktets totale fettinnhold fra alle kilder ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal).
+
+Det endelige natriuminnholdet i produktet skal enten være maksimum 48 mg/100 kJ (200 mg/100 kcal), eller maksimum 200 mg/100 g.
+
+Hvis ost er den eneste ingrediensen som nevnes i produktets varebetegnelse, skal det endelige natriuminnholdet være maksimum 70 mg/100 kJ (300 mg/100 kcal).
+
+Natriumsalter skal ikke tilsettes barnemat basert på frukt, desserter eller puddinger unntatt når det foreligger et teknologisk behov.
+
+Vitamin C
+
+I fruktjuice, nektar og grønnsaksjuice skal det endelige innholdet av vitamin C være minimum 6 mg/100 kJ (25 mg/100 kcal) eller minimum 25 mg/100 g.
+
+Vitamin A
+
+I grønnsaksjuice skal det endelige innholdet av vitamin A være minimum 25 μg RE/100 kJ (100 μg RE/100 kcal).1
+
+Vitamin A kan ikke tilsettes til andre barnematprodukter som omfattes av dette vedlegget.
+
+Vitamin D
+
+Vitamin D kan ikke tilsettes til barnematprodukter som omfattes av dette vedlegget.
+
+Ved tilsetting av vitaminer, mineraler og sporstoffer til produkter som er omfattet av dette vedlegget skal følgende maksimumsverdier gjelde:
+
+Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.*Næringsstoff**Maksimum per 100 kcal*Vitamin A (μg RE)1802Vitamin E (mg α-TE)3Vitamin C (mg)12,5/253 /1254Tiamin (mg)0,25Riboflavin (mg)0,4Niacin (mg NE)4,5Vitamin B6 (mg)0,35Folsyre (μg)50Vitamin B12 (μg)0,35Pantotensyre (mg)1,5Biotin (μg)10Kalium (mg)160Kalsium (mg)80Magnesium (mg)40Jern (mg)3Sink (mg)2Kobber (μg)40Jod (μg)35Mangan (mg)0,6
+
+> Vedlegg 2 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+## Vedlegg 3. Aminosyresammensetningen i kasein
+
+## Vedlegg 4. Tillatte forbindelser av næringsstoffer
+
+### 1. Vitaminer
+
+### 2. Aminosyrer
+
+### 3. Andre stoffer
+
+### 4. Salter av mineraler og sporstoffer
+
+## Vedlegg 5. Referanseverdier for deklarasjon av næringsinnhold i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn1
+
+## Vedlegg 6. Spesielle maksimumsgrenser for rester av plantevernmidler eller metabolitter i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn
+
+> Vedlegg 6 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
+
+## Vedlegg 7. Plantevernmidler som ikke skal brukes i landbruksprodukter til bruk i produksjonen av bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn
+
+> Vedlegg 7 tilføyd ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).

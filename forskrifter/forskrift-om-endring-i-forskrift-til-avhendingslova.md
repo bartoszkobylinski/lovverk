@@ -1,0 +1,75 @@
+---
+id: "sf-20251216-2614"
+slug: "forskrift-om-endring-i-forskrift-til-avhendingslova"
+type: "forskrift"
+ref_id: "forskrift/2025-12-16-2614"
+title: "Forskrift om endring i forskrift til avhendingslova (tryggere bolighandel)"
+short_title: null
+language: "nb"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2025-12-17"
+last_change_in_force: null
+last_updated: null
+xml_hash: "2263de3e8b49cfd5041b563c5e6dd80d52e9bce914c0c26fe819772caa1c0814"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift til avhendingslova (tryggere bolighandel)
+
+## I
+
+Forskriften gjelder ved forbrukerkjøp av helårs- og fritidsbolig etter [avhendingslova](lov/1992-07-03-93).
+
+1. se etter forhold som kan indikere fuktskade, som for eksempel råte, muggvekst, oppsprekking, svelling og fuktkrevende insekter
+
+For å undersøke om våtrommet har fuktskade skal den bygningssakkyndige bore et hull med diameter på minimum 73 mm fra et tilstøtende rom eller fra undersiden.
+
+Hulltaking kan også unnlates når den bygningssakkyndige vurderer det som unødvendig. I vurderingen av om hulltaking er unødvendig kan det for eksempel legges vekt på om boligen er nylig oppført, eller våtrommet har et system for fuktovervåkning, eller det er dokumentert at våtrommet nylig er renovert i tråd med Byggebransjens våtromsnorm av en håndverker som er sertifisert etter Byggebransjens våtromsnorm, eller våtrommet har annen tilsvarende dokumentasjon på funksjonstesting.
+
+Den bygningssakkyndige skal ved hjelp av et papirark eller en røykampulle undersøke avtrekk, overstrømningsmulighet og tilluft.
+
+I ytterveggens konstruksjoner skal den bygningssakkyndige se etter deformasjoner og forhold som kan indikere fuktskade.
+
+Den bygningssakkyndige skal forklare konsekvens av avvik og feil som er avdekket. Den bygningssakkyndige skal ikke sette tilstandsgrad på rekkverkshøyde og åpninger på balkong, veranda og lignende i tilstandsrapporten.
+
+Hvis innvendig inspeksjon i krypkjelleren er mulig, skal den bygningssakkyndigese etter råteskader og muggvekst på overflaterutføre stikktaking i treverketse etter råteskader på undersiden av bjelkelaget, bunnsvillen og andre skadeutsatte stederse etter delaminering og avskalling ved betong, gassbetong eller lettbetongvurdere luftgjennomstrømning og luftfuktighet, herunder fuktsperre mot grunn, høyde i rommet og ventiler mot yttervegg.
+
+Hvis innvendig inspeksjon ikke er mulig, skal den bygningssakkyndigeundersøke terrengfall og drenering på boligens utsideundersøke om luftgjennomstrømning er mulig mot ventiler.
+
+Hvis krypkjelleren ikke er mulig å undersøke innvendig, skal den bygningssakkyndige opplyse om det i rapporten. Den bygningssakkyndige bør i tilfelle også opplyse om skaderisiko og konsekvens av at krypkjelleren ikke er mulig å undersøke.
+
+Denne paragrafen gjelder ikke der en bygnings krypkjeller er en del av flere boligers fellesareal. Paragrafen gjelder likevel hvis boligeieren har vedlikeholdsplikt for krypkjelleren, eller hvis krypkjelleren har en særlig nær tilknytning til den aktuelle boligen.
+
+Den bygningssakkyndige skal se etter forhold som kan indikere fuktskade, som for eksempel råte, muggvekst, oppsprekking, svelling og fuktkrevende insekter. Som del av undersøkelsen skal den bygningssakkyndige bore et hull med diameter på minimum 73 mm.
+
+Der det er mulig uten å demontere bygningsdeler, skal den bygningssakkyndige undersøke eventuell punktering av diffusjonssperre mot kald sone ved gjennomføring av ventilasjonskanaler, innfelte downlights, høyttalere og lignende.
+
+Den bygningssakkyndige skal forklare konsekvens av avvik og feil som er avdekket. Den bygningssakkyndige skal ikke sette tilstandsgrad på det elektriske anlegget.
+
+Den bygningssakkyndige skal måle boligens bruksareal (BRA), i samsvar med NS 3940:2023 Areal- og volumberegninger av bygninger.
+
+Den bygningssakkyndige skal oppgi boligens totale bruksareal (BRA) i tilstandsrapporten. Det skal også opplyses om fordelingen av boligens BRA mellom kategoriene internt bruksareal (BRA-i), eksternt bruksareal (BRA-e) og innglasset balkong (BRA-b) i tilstandsrapporten.
+
+Det samme gjelder hvis den bygningssakkyndige ser at boligen mangler rømningsvei eller oppdager andre forhold som åpenbart kan påvirke helse, miljø og sikkerhet.
+
+Den bygningssakkyndige skal forklare konsekvens av avvik og feil for forhold nevnt i første og andre ledd, men skal ikke sette tilstandsgrad på forholdene.
+
+Det skal fastsettes en tilstandsgrad for det enkelte rommet eller den enkelte bygningsdelen, jf. [§ 2-23](forskrift/2021-06-08-1850/§2-23), med mindre noe annet går frem av bestemmelsene i denne forskriften.
+
+Hvis det ikke har vært mulig å undersøke bygningsdelen, for eksempel fordi krypkjelleren er uten inspeksjonsmulighet eller taket var tildekt med snø på undersøkelsestidspunktet, skal dette oppgis i tilstandsrapporten.
+
+For valg av tilstandsgrad gjelder de kriteriene som fremgår av NS 3600:2025 Teknisk tilstandsanalyse ved omsetning av bolig.
+
+## II
+
+1. Forskriften [§ 2-23](forskrift/2021-06-08-1850/§2-23) siste ledd trer i kraft 17. desember 2025.
+2. De andre bestemmelsene i forskriften trer i kraft 1. januar 2026.
+
+## III
+
+For valg av tilstandsgrad etter [§ 2-23](forskrift/2021-06-08-1850/§2-23) siste ledd kan den bygningssakkyndige benytte kriteriene i NS 3600:2018 Teknisk tilstandsanalyse ved omsetning av bolig frem til 1. juli 2026.

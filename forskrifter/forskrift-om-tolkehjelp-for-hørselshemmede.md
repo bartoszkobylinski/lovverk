@@ -1,0 +1,70 @@
+---
+id: "sf-19970415-0320"
+slug: "forskrift-om-tolkehjelp-for-hørselshemmede"
+type: "forskrift"
+ref_id: "forskrift/1997-04-15-320"
+title: "Forskrift om stønad til tolkehjelp for hørselshemmede"
+short_title: "Forskrift om tolkehjelp for hørselshemmede"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1997-05-01"
+last_change_in_force: "2026-02-01"
+last_updated: null
+xml_hash: "76d6bc35fdf348547b888d9776b1f87b15fd3ef693004887e0dca99b8a9119b3"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om stønad til tolkehjelp for hørselshemmede
+
+## § 1. Personkrets, formål og omfang
+
+Denne forskriften omfatter medlemmer som er hørselshemmede og som fyller vilkårene i [folketrygdlovens § 10-5](lov/1997-02-28-19/§10-5) og/eller [§ 10-6](lov/1997-02-28-19/§10-6).
+
+En hørselshemmet er en person som er døv eller har så sterkt nedsatt hørsel at vedkommende ikke er i stand til å føre en samtale ved hjelp av et egnet hjelpemiddel.
+
+Utgifter til tolkehjelp, herunder skrivetolking, kan dekkes for at den hørselshemmede skal kunnefungere i dagliglivet,fungere i høvelig arbeid,gjennomføre opplæring for å bedre funksjonsevnen i dagliglivet,gjennomføre utdanning, opplæring eller arbeidstrening med sikte på å skaffe seg eller beholde høvelig arbeid,motta helsetjenester som omfattes av [folketrygdloven kapittel 5](lov/1997-02-28-19/kap5) og poliklinisk undersøkelse og behandling gitt av helseforetak.
+
+Utgifter dekkes i den utstrekning de er nødvendige.
+
+Når det gjelder tolkehjelp til å fungere i høvelig arbeid gjøres det unntak for de brukere som inngår i ordningen tolk på arbeidsplass. Brukere kan med skriftlig fullmakt overføre sin individuelle rett til tolkehjelp etter bokstav b til arbeidsgiver mot at det ansettes tolk på arbeidsplassen. Det er fastsatt en beregningsnøkkel for bruk av stønad til tolkehjelp i disse tilfellene. I disse tilfellene vil også bestemmelsene i [§ 2](forskrift/1997-04-15-320/§2) og [§ 3](forskrift/1997-04-15-320/§3) i denne forskrift falle bort. Brukere som ikke ønsker å overføre tolketimer til arbeidsgiver må selv bestille tolk ved hjelpemiddelsentralen.
+
+Når det gjelder tolkehjelp etter bokstav b og d må bevitnelsen/regningen fra tolken eller tolkens arbeidsgiver være attestert av brukerens arbeidsgiver.
+
+Når det gjelder tolkehjelp etter bokstav e må bevitnelsen fra tolken være attestert av ansvarlig behandler.
+
+> Endret ved [forskrifter 22 april 1999 nr. 532](forskrift/1999-04-22-532), [10 mai 1999 nr. 645](forskrift/1999-05-10-645), [8 mai 2000 nr. 384](forskrift/2000-05-08-384) (i kraft 1 juli 2000), [2 april 2001 nr. 362](forskrift/2001-04-02-362) (i kraft 1 april 2001), [24 juni 2002 nr. 705](forskrift/2002-06-24-705) (i kraft 1 juli 2002), [2 juli 2003 nr. 893](forskrift/2003-07-02-893) (i kraft 1 juli 2003), [9 des 2003 nr. 1462](forskrift/2003-12-09-1462), [22 des 2014 nr. 1886](forskrift/2014-12-22-1886) (i kraft 1 jan 2015).
+
+## § 2. Vederlag
+
+Tolkehjelp som gis av tolker som utfører oppdrag for Arbeids- og velferdsetaten, honoreres etter takster fastsatt av Arbeids- og inkluderingsdepartementet.
+
+> Endret ved [forskrifter 4 jan 2008 nr. 24](forskrift/2008-01-04-24), [19 des 2013 nr. 1645](forskrift/2013-12-19-1645) (i kraft 1 jan 2014), [20 feb 2014 nr. 202](forskrift/2014-02-20-202), [30 jan 2026 nr. 120](forskrift/2026-01-30-120) (i kraft 1 feb 2026).
+
+## § 3. Reise- og oppholdsutgifter til tolk
+
+Ved reiser i utlandet som omfattes av bestemmelsene i § 10-5 og for barn under 18 år etter § 10-6, dekkes reise- og oppholdsutgifter til nødvendig tolkehjelp etter Regulativ for reiser i utlandet for statens regning.
+
+> Endret ved [forskrifter 14 mai 2001 nr. 500](forskrift/2001-05-14-500), [30 april 2003 nr. 551](forskrift/2003-04-30-551), [30 jan 2026 nr. 120](forskrift/2026-01-30-120) (i kraft 1 feb 2026).
+
+## § 4. Oppgjørsform
+
+Dersom arbeidsgiver har ansatt tolk i henhold til [§ 1](forskrift/1997-04-15-320/§1) femte ledd, skal hjelpemiddelsentralen i det fylket der arbeidsstedet ligger foreta forskuddsbetaling til arbeidsgiver. Betalingen kan være kvartalvis, halvårig eller årlig i henhold til antall brukere som har gitt sin fullmakt. Det skal ikke gis forskuddsutbetalinger for kortere tidsrom enn et kvartal, og ikke for lengere tidsrom enn ett år. Hjelpemiddelsentralen som forestår utbetalingene til arbeidsgiver plikter å gi melding om utbetalingen til brukers hjemfylke.
+
+Stønad gis bare for oppdrag utført av tolker som er godkjent av det departementet som til enhver tid har ansvaret for utdanning og godkjenning, eller av den som har fått myndighet til det av vedkommende departement.
+
+> Endret ved [forskrifter 22 april 1999 nr. 532](forskrift/1999-04-22-532), [2 april 2001 nr. 362](forskrift/2001-04-02-362) (i kraft 1 april 2001), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel), [30 jan 2026 nr. 120](forskrift/2026-01-30-120) (i kraft 1 feb 2026).
+
+## § 5. Forholdet til annen lovgivning
+
+Retten til ytelser etter denne forskriften faller bort i den utstrekning ytelsene kommer inn under ansvarsområdet til annen lovgivning, jf. [folketrygdloven § 10-8](lov/1997-02-28-19/§10-8) med tilhørende forskrifter.
+
+> Endret ved [forskrifter 29 mai 2002 nr. 495](forskrift/2002-05-29-495), [30 jan 2026 nr. 120](forskrift/2026-01-30-120) (i kraft 1 feb 2026).
+
+## § 6. Ikrafttredelse
+
+Forskriften trer i kraft den 1. mai 1997.

@@ -1,0 +1,70 @@
+---
+id: "sf-20070629-0742"
+slug: "forskrift-om-genetisk-masseundersøkelse"
+type: "forskrift"
+ref_id: "forskrift/2007-06-29-742"
+title: "Forskrift om genetisk masseundersøkelse av nyfødte"
+short_title: "Forskrift om genetisk masseundersøkelse"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2007-06-29"
+last_change_in_force: "2025-01-07"
+last_updated: "2021-06-14"
+xml_hash: "3694d7e1b9bc02a7c38b9592620eeab793e5fc1f946df6e3377027085d8d7622"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om genetisk masseundersøkelse av nyfødte
+
+## § 1. Formål
+
+Formålet med forskriften er å legge til rette for en faglig forsvarlig gjennomføring av genetisk masseundersøkelse av nyfødte for alvorlig arvelige sykdommer. Formålet er også å legge til rette for overvåking og kvalitetssikring av helsehjelpen som gis for disse sykdommene.
+
+> Endret ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012).
+
+## § 2. Genetisk masseundersøkelse av nyfødte
+
+Alle nyfødte skal tilbys undersøkelse for følgende sykdommer:Fenylketonuri (PKU)Medfødt hypotyreose (CH)Propionsyreemi (PA)Metylmalonsyreemi (MMA)Isolvaleriansyreemi (IVA)Holokarboksylase syntasedefekt (HCS/MCD)Biotinidasedefekt (BIOT)Beta-ketothiolasedefekt (BKT)Glutarsyreuri type 1 (GA1)Mellomkjedet acyl-CoA-dehydrogenasedefekt (MCAD)Langkjedet 3-hydroksyacyl-CoA-dehydrogenasedefekt (LCHAD)Trifunksjonelt proteindefekt (TFP)Meget langkjedet acyl-CoA-dehydrogenasedefekt (VLCAD)Karnitin-transporterdefekt (CTD)Karnitin-palmitoyltransferase I-defekt (CTP IA)Karnitin-palmitoyltransferase II-defekt (CTP II)Karnitin acylkarnitin-translokasedefekt (CACT)Glutarsyreuri type 2 (GA2)Maple Syrup Urine Defekt (MSUD)Homocystinuri/Hypermetioninemi (HCU/MET)Tyrosinemi type 1 (TYR I)Medfødt binyrebarkhyperplasi (CAH)Cystisk fibrose (CF)Alvorlig kombinert immunsvikt (SCID) og andre alvorlige T-celle defekter3-OH 3-metylglutaryl-CoA lyasedefekt (HMG)spinal muskelatrofi (SMA)metakromatisk leukodystrofi (MLD)remetyleringsdefekterdistale ureasyklusdefekterhemoglobinopatien sigdcellesykdommer.
+
+Undersøkelsene kan gjennomføres uten hensyn til [bioteknologilovens](lov/2003-12-05-100) krav om skriftlig samtykke, jf. [§ 5-4](lov/2003-12-05-100/§5-4), genetisk veiledning før, under og etter undersøkelsen, jf. [§ 5-5](lov/2003-12-05-100/§5-5) og godkjenning av virksomheten, jf. [§ 7-1](lov/2003-12-05-100/§7-1).
+
+> Endret ved [forskrifter 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012), [13 okt 2017 nr. 1614](forskrift/2017-10-13-1614) (i kraft 1 jan 2018), [11 juni 2021 nr. 1874](forskrift/2021-06-11-1874) (i kraft 1 sep 2021), [25 juni 2024 nr. 1223](forskrift/2024-06-25-1223) (i kraft 7 jan 2025, se vedtak [6 jan 2025 nr. 2](forskrift/2025-01-06-2)).
+
+## § 3. Oppbevaring og bruk av blodprøvene
+
+Blodprøvene fra masseundersøkelsen lagres i en diagnostisk biobank, jf. [behandlingsbiobankloven § 2](lov/2003-02-21-12/§2) første ledd. Prøvene kan brukes til helsehjelp, kvalitetskontroll og metodeutvikling.
+
+> Tilføyd ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012), endret ved [forskrifter 8 des 2017 nr. 1956](forskrift/2017-12-08-1956) (i kraft 1 jan 2018), [15 juni 2018 nr. 904](forskrift/2018-06-15-904) (i kraft 1 juli 2018).
+
+## § 4. Behandling av helseopplysninger
+
+Etter samtykke kan det behandles helseopplysninger som er relevante og nødvendige for en faglig forsvarlig gjennomføring av masseundersøkelsen og opplysninger som er relevante og nødvendige for å overvåke og kontrollere kvaliteten på helsehjelpen som gis for sykdommene i masseundersøkelsen.
+
+Følgende opplysninger kan behandles:Kontaktopplysninger om mor:fødselsnummernavnadressetelefonnummerOpplysninger om barnet:tidspunkt for fødselgestasjonsalder (varighet av svangerskapet)kjønnfødselsvektfødestedfødselsnummerMedisinske opplysninger:tidspunkt for prøvetakingtilleggsopplysninger for flerfødsler/TPN/Transfundertrekvirentkodemedikamentbruk eller andre forhold som kan påvirke analysenenye prøveranalyseresultathelsehjelp ved positive og falske negative funn.
+
+> Tilføyd ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012).
+
+## § 5. Dataansvarlig
+
+Oslo universitetssykehus HF er dataansvarlig for behandling av helseopplysninger etter denne forskriften.
+
+> Tilføyd ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012), endret ved [forskrift 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018).
+
+## § 6. Forholdet til pasient- og brukerrettighetsloven
+
+Pasient- og brukerrettighetsloven gjelder ved genetisk masseundersøkelse av nyfødte, blant annet kapittel 3 om rett til medvirkning og informasjon og kapittel 4 om samtykke til helsehjelp.
+
+For behandlingen av helseopplysningene gjelder [helseregisterloven § 15](lov/2014-06-20-43/§15) om samtykkekompetanse.
+
+> Tilføyd ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012), endret ved [forskrift 8 des 2017 nr. 1956](forskrift/2017-12-08-1956) (i kraft 1 jan 2018).
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+> Endret ved [forskrift 16 des 2011 nr. 1246](forskrift/2011-12-16-1246) (i kraft 1 jan 2012, tidligere § 3).

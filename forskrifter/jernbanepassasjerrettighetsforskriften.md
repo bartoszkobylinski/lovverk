@@ -1,0 +1,54 @@
+---
+id: "sf-20230511-0692"
+slug: "jernbanepassasjerrettighetsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2023-05-11-692"
+title: "Forskrift om jernbanepassasjerers rettigheter og forpliktelser (jernbanepassasjerrettighetsforskriften)"
+short_title: "Jernbanepassasjerrettighetsforskriften"
+language: "nb"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2023-05-11"
+last_change_in_force: "2025-02-07"
+last_updated: null
+xml_hash: "9527220c5978b5c43463f36d62b63fb61dcd44a151ac9d3e57a8875cb5e995f5"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om jernbanepassasjerers rettigheter og forpliktelser (jernbanepassasjerrettighetsforskriften)
+
+## § 1. Gjennomføring av forordning (EU) 2021/782 i norsk rett
+
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 42h (forordning [(EU) 2021/782](eu/32021r0782) som endret ved forordning [(EU) 2024/949](eu/32024r0949)) om jernbanepassasjerers rettigheter og forpliktelser gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrift [7 feb 2025 nr. 167](forskrift/2025-02-07-167).
+
+## § 2. Virkeområde mv.
+
+Forskriften gjelder for jernbanereiser og jernbanetjenester som utøves på jernbanenettet av jernbaneforetak med lisens etter [jernbaneforskriften kapittel 12](forskrift/2021-06-30-2315/kap12).
+
+Forskriften er ikke til hinder for at jernbaneforetak kan tilby passasjerer kontraktsmessige vilkår som er mer gunstige enn de som er fastsatt i denne forskriften.
+
+## § 3. Rett til å kjøpe billett om bord uten ekstra kostnad
+
+Retten til å kjøpe billett om bord uten ekstra kostnad som følger av forordning [(EU) 2021/782](eu/32021r0782) artikkel 11 nr. 4 fjerde ledd gjelder for alle passasjerer.
+
+## § 4. Håndheving
+
+Statens jernbanetilsyn fører tilsyn med og håndhever denne forskriften, jf. forordning [(EU) 2021/782](eu/32021r0782) artikkel 31 nr. 1, artikkel 32 og artikkel 33.
+
+## § 5. Klager
+
+Klager over påståtte overtredelse av bestemmelser som følger av denne forskriften, jf. forordning [(EU) 2021/782](eu/32021r0782) artikkel 33 nr. 2, følger reglene om klagebehandling i [transportklagenemndforskriften](forskrift/2012-01-20-84).
+
+## § 6. Sanksjoner
+
+Overtredelse av forskriften sanksjoneres etter [jernbaneloven § 11c](lov/1993-06-11-100/§11c), [§ 13](lov/1993-06-11-100/§13) og [§ 22](lov/1993-06-11-100/§22) første ledd.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft straks, med unntak av [§ 3](forskrift/2023-05-11-692/§3), som trer i kraft 1. januar 2024. Fra førstnevnte tidspunkt oppheves [forskrift om gjennomføring av Europaparlaments- og rådsforordning (EF) nr. 1371/2007 av 23. oktober 2007 om jernbanepassasjerers rettigheter og forpliktelser (jernbanepassasjerrettighetsforskriften)](forskrift/2010-09-03-1241).

@@ -1,0 +1,38 @@
+---
+id: "sf-20201214-2753"
+slug: "forskrift-om-opplysningsplikt-til-lønnsstatistikken"
+type: "forskrift"
+ref_id: "forskrift/2020-12-14-2753"
+title: "Forskrift om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)"
+short_title: "Forskrift om opplysningsplikt til lønnsstatistikken"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2021-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "87b5bf275f7ea2f86301eb8127ba203e46ccf256b68ced57e928023c3b35b8d9"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
+
+## § 1. Opplysningsplikt
+
+Arbeidsgivere som i henhold til tariffavtale er omfattet av krav til bruk av lønnstrinn og lønnsansiennitet i sin virksomhet, er underlagt opplysningsplikt i henhold til denne forskriften.
+
+## § 2. Opplysningspliktens omfang
+
+Opplysningsplikten innebærer at arbeidsgiver skal rapportere informasjon om den enkelte ansattes lønnstrinn og lønnsansiennitet til bruk i offisiell lønnsstatistikk.
+
+## § 3. Rapporteringsfrist og leveringsmåte mv.
+
+Opplysningene skal leveres i henhold til reglene i [lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven).](lov/2012-06-22-43)
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2021.

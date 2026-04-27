@@ -1,0 +1,218 @@
+---
+id: "sf-19991221-1396"
+slug: "forskrift-om-utlendingers-fiske-ved-jan-mayen"
+type: "forskrift"
+ref_id: "forskrift/1999-12-21-1396"
+title: "Forskrift om utlendingers fiske og fangst mv. i fiskerisonen ved Jan Mayen"
+short_title: "Forskrift om utlendingers fiske ved Jan Mayen"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1999-12-21"
+last_change_in_force: "2021-01-18"
+last_updated: null
+xml_hash: "1382bc6c8bc6b4ae3696fec7e5e1b9b1f8477109c8445c390a3409ffb217a1e7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om utlendingers fiske og fangst mv. i fiskerisonen ved Jan Mayen
+
+## § 1. Virkeområde
+
+Denne forskrift gjelder i fiskerisonen ved Jan Mayen utenfor 12 nautiske mil fra grunnlinjene for utenlandske fartøy av ethvert slag som skal drive fiske og fangst i ervervsøyemed, herunder omlasting. Forskriften gjelder også for fartøy som bistår fiskeflåten, herunder transportfartøy og lete- og forsøksfartøy. Ved omlasting kommer bestemmelsen til anvendelse uavhengig av hvilket område fisken er fanget i.
+
+> Endret ved [forskrifter 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005), [9 juni 2008 nr. 557](forskrift/2008-06-09-557).
+
+## § 2. Definisjoner
+
+Med utenlandsk fartøy forstås et fartøy som ikke er norsk, jf. [lov av 24. juni 1994 nr. 39](lov/1994-06-24-39) om sjøfarten [§ 1](lov/1994-06-24-39/§1).
+
+> Endret ved [forskrift 9 juni 2008 nr. 557](forskrift/2008-06-09-557).
+
+## § 3. Unntaksbestemmelse
+
+§ 5 første ledd i [lov 17. juni 1966 nr. 19](lov/1966-06-17-19) om forbud mot at utlendinger driver fiske m.v. i Norges territorialfarvann kommer ikke til anvendelse for fartøy med fisketillatelse.
+
+> Endret ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+## § 4. Fisketillatelse
+
+Utenlandsk fiskefartøy kan ikke drive fiske og fangst i fiskerisonen ved Jan Mayen uten tillatelse fra Fiskeridirektoratet.
+
+Tillatelse gis til så mange fartøyer fra hvert land og på slike vilkår at fartøyene ved en beregnet fangstinnsats vil fiske opp vedkommende lands tildelte kvote.
+
+I tillatelsen kan det fastsettes vilkår for fiske, herunder fartøykvote, fangstområder, redskapsbruk, tillatelsens gyldighetstid og hvilke fiskeslag tillatelsen omfatter.
+
+Tillatelsen gjelder for et bestemt fartøy og kan ikke overdras. Om praktiske grunner tilsier det, kan det gis tillatelse til en bestemt gruppe fartøyer.
+
+Tillatelsen skal oppbevares om bord under fiske med mindre annet er fastsatt. Tillatelsen skal på forlangende forevises norske myndigheter.
+
+## § 5. Søknad om fisketillatelse
+
+Søknad om fisketillatelse skal i god tid før fisket påbegynnes innsendes sammen med fiskeplan til Fiskeridirektoratet, Bergen, på den måte som er fastsatt for hvert enkelt land. Gjelder ikke særlige regler, skal søknad sendes for hvert enkelt fartøy.
+
+Søknad om fisketillatelse skal skje på skjema fastsatt av Fiskeridirektoratet.
+
+## § 6. Vilkår for nektelse og tilbaketrekking av fisketillatelse
+
+Selv om vilkårene for øvrig er til stede, kan tillatelse nektes når fartøyets eier, fører eller mannskap har overtrådt bestemmelsene om fiske eller fangst eller vilkår i gitt tillatelse i områder under norsk fiskerijurisdiksjon, eller når fartøyet har vært brukt ved overtredelsen. Det samme gjelder når fartøyet eller fartøyets eier enten har deltatt i uregulert fiske i internasjonalt farvann på en fiskebestand som i farvann under norsk fiskerijurisdiksjon er underlagt reguleringer, eller har deltatt i fiske i strid med reguleringer som er fastsatt av regionale eller subregionale fiskeriforvaltningsorganisasjoner eller -arrangementer.
+
+En gitt tillatelse kan når som helst trekkes tilbake av samme grunner som i foregående ledd.
+
+Tillatelsen bortfaller når vedkommende lands fiskekvote er oppfisket.
+
+## § 7. Begrensninger i klageadgangen
+
+For vedtak i medhold av [§§ 4](forskrift/1999-12-21-1396/§4) og [6](forskrift/1999-12-21-1396/§6) gjelder ikke forvaltningslovens regler om grunngivingsplikt, og vedtak kan ikke påklages.
+
+## § 8. Rapportering
+
+Fartøy som nevnt i [§ 1](forskrift/1999-12-21-1396/§1) skal sende de meldingene som fremgår av bokstavene a-g i denne bestemmelsen. Meldingene skal sendes til Fiskeridirektoratet.
+
+Slike meldinger kan sendes elektronisk via flaggstatens bakkestasjon eller pr. telefaks til Fiskeridirektoratet.
+
+Melding om fiskestart skal sendes tidligst 12 timer og senest 6 timer før inngang til sonen.
+
+Meldingen skal inneholde følgende opplysninger:
+
+Fangstmelding skal sendes ved overgang til fiske i annet ICES-område, og ellers ukentlig, ved utløpet av hver sjuende dag etter fiskestart.
+
+Meldingen skal inneholde følgende opplysninger:
+
+Det er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Russland, Færøyene, Grønland, Island og Storbritannia samt fartøy fra NEAFC-samarbeidsland.
+
+Fartøy som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes sende melding om omlasting. Fartøy som har mottatt fangst skal umiddelbart og senest en time etter den enkelte omlasting er avsluttet sende melding om omlasting.
+
+Meldingen skal inneholde følgende opplysninger:
+
+Fartøy som har mottatt fangst fra annet fartøy skal senest 24 timer før landing finner sted sende melding om havneanløp.
+
+Meldingen skal inneholde følgende opplysninger:
+
+Melding om avslutning av fiske skal sendes tidligst 6 timer og senest 4 timer før fartøyet går ut av sonen.
+
+Meldingen skal inneholde følgende opplysninger:
+
+Dersom elektronisk rapportering skal benyttes plikter fartøyet før fiske kan starte, å forvisse seg om at rapporteringssystemet fungerer tilfredsstillende.
+
+Elektroniske meldinger vil automatisk bli bekreftet med en returmelding med meldingsidentifikasjon RET fra Fiskeridirektoratet. Dersom meldingen er mottatt uten feil, vil returmeldingen angi meldingsstatus ACK, hvis ikke vil meldingsstatus være NAK.
+
+Dersom meldingen ikke bekreftes med returmelding må meldingen sendes på ny, eventuelt pr. telefaks.
+
+Dersom elektronisk rapportering benyttes, skal fartøyets navn og registreringsmerke ikke angis i meldingene.
+
+Fartøy som bistår fiskeflåten skal sende melding om fiskestart og melding om avslutning av fiske til Fiskeridirektoratet i henhold til bokstav a og e.
+
+Fartøy som er gitt tillatelse til å drive fiske og fangst i sonen og som er i gjennomseiling uten å fiske i sonen, er unntatt fra plikten til å sende melding om fiskestart og melding om avslutning av fiske til Fiskeridirektoratet.
+
+> Endret ved [forskrifter 29 juni 2001 nr. 1063](forskrift/2001-06-29-1063) (i kraft 1 juli 2001), [16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005), [9 juni 2008 nr. 557](forskrift/2008-06-09-557), [18 jan 2021 nr. 118](forskrift/2021-01-18-118).
+
+## § 9. Fangstdagbok
+
+Fiskefartøy skal føre fangstdagbok. Fangstdagboken skal være innbundet og ha nummererte sider.
+
+Fangstdagboken skal føres fortløpende og skal inneholde opplysninger om redskapstype og materiale i redskapet. Videre skal fangstdagboken inneholde opplysninger om dato og klokkeslett ved begynnelsen av hvert enkelt hal/drag/kast og posisjon angitt i lengde og bredde (grader og minutter) ved begynnelsen og ved slutten av hvert enkelt hal/drag/kast og varigheten av dette. Fangstdagboken skal også inneholde fangst for de enkelte hal/drag/kast, den totale fangst pr. dag og fra fiskestart, levering av fangst til andre fartøy og mottatt fangst til foredling eller transport, alt angitt i kg rund vekt og spesifisert på fiskearter.
+
+Fangst i det enkelte hal/drag/kast skal være innført i fangstdagboken senest før neste hal/drag/kast tas om bord.
+
+Det er adgang til å korrigere fangstanslagene etter døgnets siste hal/kast. Slik korrigering må foretas før innføring av første hal/kast neste døgn og før eventuell sending av melding om avslutning av fiske.
+
+I fangstdagboken skal på de aktuelle datoer noteres opplysninger om klokkeslett og eventuell radiostasjon for de meldinger som er sendt til Fiskeridirektoratet i medhold av [§ 8](forskrift/1999-12-21-1396/§8).
+
+Fiskefartøy skal ha om bord fangstdagbok/-bøker som dekker de siste 12 måneder, dersom fartøyet i løpet av denne perioden har vært i fiske i område under norsk fiskerijurisdiksjon.
+
+Fangstdagboken skal på forlangende fremvises for norske myndigheter og kan kreves innsendt til Fiskeridirektoratet.
+
+> Endret ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+## § 10. Lasteromstegninger, RSW-tanker, stuing
+
+Fiskeridirektoratet kan ved forskrift gi bestemmelser om at fartøy skal ha om bord tegning/beskrivelse over oppbevaringsrom/binger/RSW-tanker for fisk og fiskeprodukter, samt stuingsplan over den fisk og de fiskeprodukter som er om bord.
+
+Fiskeridirektoratet kan ved forskrift gi bestemmelser om hvorledes de enkelte fiskearter og forskjellige produkter av samme fiskeart skal stues om bord i fartøyet.
+
+## § 11. Kontroll, inspeksjon mv.
+
+Fartøy som fisker i sonen skal føre sitt nasjonale flagg og være merket på synlig måte.
+
+Ansvarshavende plikter å sørge for at fartøyet er utstyrt med leider egnet for å ta om bord inspektør. Fiskeridirektoratet kan gi nærmere forskrifter om leiderens utforming.
+
+> Endret ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+## § 12. Oppbevaring av regelverket om bord
+
+Gjeldende fiskeribestemmelser for fiskerisonen ved Jan Mayen skal oppbevares om bord.
+
+## § 13. Delegasjon
+
+Fiskeridirektoratet kan i forskrifter utfylle den forskrift som her er gitt.
+
+## § 14. Straff og inndragning
+
+Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift er gjenstand for straff og inndragning etter [lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone [§§ 8](lov/1976-12-17-91/§8) og 9. På samme måte straffes medvirkning og forsøk.
+
+## § 15. Ikrafttredelse
+
+Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift av 23. desember 1980 nr. 1](forskrift/1980-12-23-1) om utlendingers fiske og fangst i fiskerisonen ved Jan Mayen.
+
+## Vedlegg 1. Automatisk Returmelding ved elektronisk rapportering
+
+> Vedlegg 1 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+## Vedlegg 2
+
+Elektronisk rapportering på NAF-format skal sendes til Fiskeridirektoratets X.25 nummer 24 22 45 00 883 eller til e-postadressen satrap@fiskeridir.no .
+
+Dersom en ikke benytter elektronisk rapportering skal meldingene utformes som i eksemplene nedenfor:
+
+Manuelle meldinger skal sendes til Fiskeridirektoratets telefaksnr. +4755238276.
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+### 1. Melding om fiskestart
+
+Melding om fiskestart skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+Som over, med unntak av
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+### 2. Fangstmelding
+
+Fangstmelding skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+Som over, med unntak av
+
+NB! Det skal alltid sendes fangstmelding for foregående periode ved kryssing av grensen til nytt ICES-område.
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+### 3. Omlastingsmelding
+
+Omlastingsmelding skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+Som over, men TF erstattes med TT og radiokallesignalet til fartøyet fangst er omlastet *til.*
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+### 4. Melding om havneanløp
+
+Melding om havneanløp skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+Som over, med unntak av KG = 0.
+
+NB! Ved havneanløp regnes fisket som avsluttet og det skal også sendes melding om avslutning av fisket.
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
+
+### 5. Melding om avslutning av fiske
+
+Melding om avslutning av fiske skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+Som over, med unntak av CA = 0
+
+> Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).

@@ -1,0 +1,60 @@
+---
+id: "sf-20051122-1468"
+slug: "forskrift-om-nemninga-eplejuice-eplemost-frå-hardanger"
+type: "forskrift"
+ref_id: "forskrift/2005-11-22-1468"
+title: "Forskrift om vern av Eplejuice frå Hardanger/Eplemost frå Hardanger som geografisk nemning"
+short_title: "Forskrift om nemninga Eplejuice/ Eplemost frå Hardanger"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2005-12-20"
+last_change_in_force: "2024-08-08"
+last_updated: null
+xml_hash: "8ec215dbf260fc9df18f50d12899fc372e3c8ca9e9068ac08c375cb57122338c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om vern av Eplejuice frå Hardanger/Eplemost frå Hardanger som geografisk nemning
+
+## § 1. Beskytta produktnemning
+
+Eplejuice frå Hardanger/Eplemost frå Hardanger.
+
+> Endra ved [forskrift 21 nov 2017 nr. 1804](forskrift/2017-11-21-1804).
+
+## § 2. Rettmessig brukar
+
+TINE SA.
+
+Synnøve Finden AS.
+
+> Endra ved [forskrifter 21 nov 2017 nr. 1804](forskrift/2017-11-21-1804), [16 feb 2018 nr. 232](forskrift/2018-02-16-232).
+
+## § 3. Vilkår for bruk av produktnemninga
+
+1. *Produktbeskriving*Eplejuice frå Hardanger / Eplemost frå Hardanger er laga av eple dyrka og pressa i Hardanger. Samansetjinga kan variere frå ein sort til fleire sortar. Nemninga omfattar både eplejuice som er filtrert og som ikkje er filtrert.Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein lett syrleg og aromatisk eplesmak. Eplejuice frå Hardanger/Eplemost frå Hardanger skal ha ein Brix-verdi på minimum 10.
+2. *Geografisk område*Eplejuice frå Hardanger/Eplemost frå Hardanger skal vere laga av eple som er dyrka og pressa i Hardanger. Hardanger omfattar kommunane Kvam, Ulvik, Eidfjord og Ullensvang og dessutan dei sørlege delane av Voss, tidlegare Granvin kommune.
+3. *Produksjonsmetode*Som råvare til Eplejuice frå Hardanger/Eplemost frå Hardanger skal det brukast godt mogna eple. Epla skal ha ein Brix-verdi ≥ 10, ein diameter ≥ 50 mm og skal vere frie for synleg mugg, gjær og rote. Oppbevaringstida i mottaksbingen før pressing skal maksimum vere på 20 timar. Epla skal lagrast i eigne bingar.Epla skal spylast eller vaskast slik at eventuelle ureinskapar blir fjerna, og dårlege eple skal sorterast ut. Epla skal deretter kvernast til mask. Tillatne hjelpestoff kan tilsetjast før masken blir overført til mesketank. Når det øvste laget sprekk, skal masken pressast slik at eplejuice/eplemost og mask blir separert. Filtrert eplejuice/eplemost kan tilsetjast hjelpestoff for depektinering og klaring.Eplejuice frå Hardanger/Eplemost frå Hardanger skal pasteuriserast før tapping og lagring. Pasteurisering og tapping skal skje same dag. Skjer tapping på ein annan stad enn der epla blei pressa, skal eplejuicen/eplemosten pasteuriserast på nytt før tapping.
+
+> Endra ved forskrifter [21 nov 2017 nr. 1804](forskrift/2017-11-21-1804), [8 aug 2024 nr. 1910](forskrift/2024-08-08-1910).
+
+## § 4. Iverksetjing
+
+Forskrifta blir sett i verk 20. desember 2005.
+
+## Vedlegg: Beskriving av produktet sitt opphav og tilknyting til det geografiske området
+
+Det kan dokumenterast at tradisjonen med pressing av eple til eplejuice/eplemost i Hardanger går tilbake til slutten av 1700-talet. I 1818 skreiv prost Niels Hertzberg om hardangerbonden Knut Jåstad (f. 1744) at «han lærte sine Sambygdinger at gjøre sig nytte av de vilde Skovæplers saft. Han gjorde sig hertil presser med sterke Jernskruer og solgte Saften i Bergen». Vi kan gå ut frå at kunnskapen om pressing av eple til eplejuice/eplemost allereie var kjend i distriktet. I perioden 1890–1920 var det fleire fabrikkar i Hardanger med stort sal av eplesider og eplejuice/eplemost, bl.a. Cideriet og Aga Cideri og saft.
+
+Eplejuice frå Hardanger/Eplemost frå Hardanger er kjenneteikna ved ein lett syrleg og aromatisk eplesmak. Dette er eit resultat av samansetjinga av epleråstoffet, dei spesielle kvalitetane som kjenneteiknar eple dyrka i Hardanger, og dei lange tradisjonane og kunnskapane om produksjon av eplejuice/eplemost i Hardanger.
+
+Eple dyrka i Hardanger har ein frisk og syrleg smak. Dette kjem av dei spesielle vekstvilkåra som klimaet og naturen i Hardanger gir. På grunn av plasseringa ved 60° N er klimaet i Hardanger kjølig og rikt på lys i vekstsesongen. Eit slikt kjølig klima gir eple med høgt innhald av smakskarakteristiske fruktsyrer (0,5–1,0 %), bl.a. spesielt mykje C-vitamin. Samtidig sikrar varme og solrike sommardagar at det blir utvikla nok sukker i epla (11–13 %). Også dei kjølige nettene om hausten er med på å gi auka syre- og sukkerinnhald rett før haustinga. Den gode balansen mellom syre- og sukkerinnhald kjenneteiknar eple dyrka i Hardanger.
+
+I Hardanger er det lange tradisjonar for å presse eple til eplejuice/eplemost. Produksjon av Eplejuice frå Hardanger/Eplemost frå Hardanger byggjer på opparbeidd kunnskap og erfaring om kva for prosessar som gir best aroma, smak og produktutbytte.
+
+> Endra ved [forskrift 21 nov 2017 nr. 1804](forskrift/2017-11-21-1804).

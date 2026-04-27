@@ -1,0 +1,34 @@
+---
+id: "sf-20070702-0839"
+slug: "forskrift-om-ecaa-avtalen"
+type: "forskrift"
+ref_id: "forskrift/2007-07-02-839"
+title: "Forskrift om gjennomføring og håndheving av ECAA-avtalen (European Common Aviation Area) av 9. juni 2006"
+short_title: "Forskrift om ECAA-avtalen"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2007-07-02"
+last_change_in_force: null
+last_updated: null
+xml_hash: "9af28e2ab572acbd0a9c00583eba1bac54b082164da67368c71c409d748457b7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gjennomføring og håndheving av ECAA-avtalen (European Common Aviation Area) av 9. juni 2006
+
+## § 1.
+
+I denne forskrift menes med:*ECAA-avtalen:* Multilateral avtale inngått 9. juni 2006 mellom Det europeiske fellesskap, Det europeiske fellesskaps medlemsstater, Republikken Albania, Bosnia-Hercegovina, Republikken Bulgaria, Republikken Kroatia, Den tidligere jugoslaviske republikken Makedonia, Republikken Island, Republikken Montenegro, Kongeriket Norge, Romania, Republikken Serbia og FNs midlertidige administrasjon i Kosovo, om etablering av et felles europeisk luftfartsmarked.*Nabosubjekt:* Enhver stat og ethvert rettssubjekt med unntak av Norge, Island og Det europeiske felleskap, som har undertegnet ECAA-avtalen eller som har sluttet seg til ECAA-avtalen i henhold til dens artikkel 32, og som ikke er medlem av Det europeiske felleskap.
+
+## § 2.
+
+Borgere og virksomheter hjemmehørende i et nabosubjekt skal her i landet, i forhold til ECAA-avtalen med dens vedlegg og protokoller, behandles etter de samme vilkår som gjelder for nabosubjektets borgere og virksomheter i deres forhold til Det europeiske fellesskap og dets medlemsstater.
+
+## § 3.
+
+Forskriften trer i kraft straks.

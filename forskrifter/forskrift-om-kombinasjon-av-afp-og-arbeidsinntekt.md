@@ -1,0 +1,86 @@
+---
+id: "sf-20101130-1493"
+slug: "forskrift-om-kombinasjon-av-afp-og-arbeidsinntekt"
+type: "forskrift"
+ref_id: "forskrift/2010-11-30-1493"
+title: "Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt)"
+short_title: "Forskrift om kombinasjon av AFP og arbeidsinntekt"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2011-01-01"
+last_change_in_force: "2025-01-01"
+last_updated: null
+xml_hash: "3c38880739dcc19e5f6aa8b0843c0535ae95825c23974d04de9cd7d67d2adc8b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om kombinasjon av avtalefestet pensjon for medlemmer av Statens pensjonskasse og arbeidsinntekt (pensjonsgivende inntekt)
+
+## § 1. Generelle bestemmelser
+
+## § 2. Avkorting av pensjon mot arbeidsinntekt
+
+Dersom pensjonisten har eller venter å få arbeidsinntekt, skal AFP, inkludert eventuelle vedtektsfestede tillegg, reduseres med samme prosentandel som forventet inntekt i kalenderåret utgjør av tidligere inntekt. AFP reduseres bare dersom inntekten overstiger 0,26 ganger folketrygdens grunnbeløp per 1. januar i det enkelte år (toleransebeløpet). Ved inntekt over toleransebeløpet skal hele inntekten tas i betraktning ved fastsetting av pensjonen.
+
+AFP reduseres ikke for arbeidsinntekt når pensjonisten dokumenterer at inntekten, herunder feriepenger og eierinntekt fra aksjeselskap som pensjonisten ikke lenger er aktiv eier i, stammer fra arbeid eller virksomhet før AFP ble tatt ut. AFP reduseres heller ikke ved etterbetalinger av trygdeytelser som gjelder for tidsrom før AFP ble tatt ut.
+
+AFP reduseres ikke når avlønningen skjer etter en særskilt sats for pensjonistavlønning for tjeneste som er nødvendig for å ivareta et ekstraordinært personellbehov i forbindelse med personer fordrevet fra Ukraina. Unntaket gjelder fram til og med 31. desember 2024. Feriepenger av pensjonistlønnen skal heller ikke redusere AFP.
+
+> Endret ved forskrifter [17 mars 2020 nr. 322](forskrift/2020-03-17-322), [17 mars 2020 nr. 322](forskrift/2020-03-17-322) som endret ved forskrift [18 des 2020 nr. 2964](forskrift/2020-12-18-2964) (i kraft 18 des 2020 med virkning fra 1 nov 2020), [18 jan 2022 nr. 80](forskrift/2022-01-18-80) (med virkning fra 1 jan 2022), [8 april 2022 nr. 569](forskrift/2022-04-08-569) (med virkning fra 1 april 2022), [18 jan 2022 nr. 80](forskrift/2022-01-18-80) (i kraft 1 juli 2022), [17 mars 2020 nr. 322](forskrift/2020-03-17-322) (i kraft 1 sep 2022, endringen endret ved forskrifter [27 okt 2020 nr. 2156](forskrift/2020-10-27-2156), [18 des 2020 nr. 2964](forskrift/2020-12-18-2964), [31 mai 2021 nr. 1716](forskrift/2021-05-31-1716), [13 des 2021 nr. 3488](forskrift/2021-12-13-3488) og [13 juni 2022 nr. 1013](forskrift/2022-06-13-1013)), [2 sep 2022 nr. 1537](forskrift/2022-09-02-1537) (med virkning fra 1 sep 2022), [8 des 2022 nr. 2126](forskrift/2022-12-08-2126), [8 juni 2023 nr. 824](forskrift/2023-06-08-824), [19 sep 2023 nr. 1446](forskrift/2023-09-19-1446) (se endringsforskriften for overgangsregler), [21 nov 2023 nr. 1890](forskrift/2023-11-21-1890), [25 april 2024 nr. 687](forskrift/2024-04-25-687) (med virkning fra 1 jan 2024), [8 mai 2024 nr. 751](forskrift/2024-05-08-751), [9 sep 2024 nr. 2091](forskrift/2024-09-09-2091) (i kraft 1 jan 2025).
+
+## § 3. Beregning av tidligere inntekt
+
+Den tidligere inntekten beregnes på grunnlag av de tre beste av de fem inntektsårene som ligger forut for året før pensjoneringsåret. Inntekten divideres med grunnbeløpet for det enkelte år. De forholdstallene som da kommer fram, fastsettes med to desimaler. Tidligere inntekt utgjør gjennomsnittet av disse forholdstallene multiplisert med grunnbeløpet på uttakstidspunktet, avrundet opp til nærmeste 1000 kroner. Tidligere inntekt og forventet arbeidsinntekt reguleres i samsvar med økningen i folketrygdens grunnbeløp, se [folketrygdloven § 1-4](lov/1997-02-28-19/§1-4).
+
+Det skal regnes med pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15), opp til 12 ganger grunnbeløpet. Dersom det for noen av de inntektsårene som nevnt i første ledd er godskrevet pensjonspoeng etter [folketrygdloven § 3-16](lov/1997-02-28-19/§3-16) og [§ 3-17](lov/1997-02-28-19/§3-17), beregnes den pensjonsgivende inntekten for disse årene ut fra de godskrevne poengtallene.
+
+Dersom det for noen av inntektsårene som nevnt i første ledd har vært utbetalt gradert uførepensjon fra Statens pensjonskasse uten at det er innvilget uføretrygd fra folketrygden, skal tidligere inntekt ved uttak av avtalefestet pensjon minst utgjøre det pensjonsgrunnlaget som uførepensjonen er beregnet av, uten begrensning etter [lov om Statens pensjonskasse § 27](lov/1949-07-28-26/§27) fjerde ledd og tilsvarende bestemmelser i de andre lovfestede tjenestepensjonsordningene, og oppregulert i samsvar med folketrygdens grunnbeløp.
+
+Bestemmelsene i denne paragrafen gjelder tilsvarende for begrensningsregelen i [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3](lov/2010-06-25-28/§3) bokstav c.
+
+> Endret ved [forskrifter 11 nov 2011 nr. 1094](forskrift/2011-11-11-1094), [28 april 2015 nr. 422](forskrift/2015-04-28-422) (med virkning fra 1 jan 2015).
+
+## § 4. Endringer i forventet arbeidsinntekt
+
+Ved økning i inntekt skal forventet arbeidsinntekt økes med et beløp svarende til inntektsøkningen i den resterende delen av kalenderåret multiplisert med 12 og dividert med det antall måneder i kalenderåret som eventuell omregning av AFP får virkning for. Ved reduksjon i inntekt legges til grunn ny forventet arbeidsinntekt på årsbasis.
+
+Dersom forventet arbeidsinntekt økes eller reduseres med mer enn toleransebeløpet, skal pensjonen regnes om. Selv om forventet inntekt økes eller reduseres med mindre enn toleransebeløpet, skal pensjonen likevel regnes om dersom endringen innebærer at forventet inntekt blir henholdsvis høyere eller lavere enn toleransebeløpet.
+
+Omregning som følge av endret forventet arbeidsinntekt gis bare virkning for framtidige kalendermåneder.
+
+## § 5. Pensjonistens opplysningsplikt
+
+Pensjonisten skal selv gi opplysninger om forventet arbeidsinntekt etter pensjonering og om endringer i inntekten, og kan også kreve justering av pensjonen på grunn av inntekt.
+
+## § 6. Etteroppgjør
+
+Det foretas et etteroppgjør når skatteligningen for det enkelte år foreligger. Etteroppgjør foretas ikke når forskjellen mellom faktisk og forventet arbeidsinntekt utgjør et lavere beløp enn toleransebeløpet, likevel slik at [§ 4](forskrift/2010-11-30-1493/§4) andre ledd andre punktum gjelder tilsvarende. Med forventet arbeidsinntekt menes gjennomsnittlig forventet arbeidsinntekt i kalenderåret.
+
+Etteroppgjør utsettes ikke som følge av klage over ligningen, men en pensjonist som får medhold i slik klage, kan kreve revisjon av etteroppgjøret.
+
+## § 7. Etteroppgjør for år der AFP er utbetalt for en del av kalenderåret
+
+Toleransebeløpet skal være 0,26 ganger folketrygdens grunnbeløp per 1. januar i det enkelte år også når pensjonisten har mottatt AFP bare en del av året. Forventet arbeidsinntekt ved anvendelsen av [§ 6](forskrift/2010-11-30-1493/§6) skal for slike år settes til summen av forventet arbeidsinntekt på månedsbasis i de enkelte månedene med AFP. For øvrig gjelder følgende regler:Ved etteroppgjør for uttaksåret skal faktisk arbeidsinntekt reduseres med inntekt før uttaket. Fradraget settes til en forholdsmessig del av tidligere inntekt, med mindre pensjonisten godtgjør at den faktiske inntekten før uttaket var høyere.Ved etteroppgjør for det år AFP opphører, legges det til grunn at faktisk inntekt er likt fordelt over hele året, med mindre pensjonisten godtgjør noe annet.Eventuell omregning av pensjonen skjer på grunnlag av forholdet mellom tidligere inntekt og faktisk inntekt i perioden med AFP, omregnet til årsbeløp.
+
+> Endret ved forskrift [9 sep 2024 nr. 2091](forskrift/2024-09-09-2091) (i kraft 1 jan 2025).
+
+## § 8. Etterbetaling og tilbakebetaling
+
+Dersom etteroppgjøret etter [§ 6](forskrift/2010-11-30-1493/§6) og [§ 7](forskrift/2010-11-30-1493/§7) viser at det er utbetalt et for lavt pensjonsbeløp, skal differansen etterbetales som et engangsbeløp.
+
+For mye utbetalt pensjon trekkes i framtidige utbetalinger av AFP og/eller alderspensjon fra folketrygden. Trekket skal normalt fastsettes slik at tilbakebetalingen skjer over 12 kalendermåneder. Dersom dette ville føre til at trekket overstiger 25 prosent av brutto månedlig ytelse, kan tilbakebetaling skje over en lengre periode. Pensjonisten kan kreve at tilbakebetaling skjer over en kortere periode enn nevnt i første til tredje punktum eller som et engangsbeløp.
+
+## § 9. Inntekt i utlandet
+
+Bestemmelsene i forskriften her gjelder tilsvarende for inntekt av samme art i utlandet.
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2011. Fra samme tidspunkt oppheves [forskrift 24. september 1993 nr. 905](forskrift/1993-09-24-905) til lov om avtalefestet pensjon for offentlige tjenestemenn m.fl.
+
+Bestemmelsene i forskriften her gjelder også for avtalefestet pensjon som er tatt ut eller tas ut med virkningstidspunkt før 1. januar 2011.

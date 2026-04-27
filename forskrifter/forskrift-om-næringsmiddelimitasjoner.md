@@ -1,0 +1,58 @@
+---
+id: "sf-19920526-0420"
+slug: "forskrift-om-næringsmiddelimitasjoner"
+type: "forskrift"
+ref_id: "forskrift/1992-05-26-420"
+title: "Forskrift om farlige næringsmiddelimitasjoner."
+short_title: "Forskrift om næringsmiddelimitasjoner"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1992-07-01"
+last_change_in_force: "2003-11-06"
+last_updated: null
+xml_hash: "a19c24111469c50338f5e9983f17b532a126e309a9293d9714296a633c47d414"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om farlige næringsmiddelimitasjoner.
+
+## § 1. Forbud
+
+Det er forbudt å tilvirke for videresalg, innføre for videresalg eller på annen måte omsette farlige næringsmiddelimitasjoner.
+
+## § 2. Dispensasjon
+
+Departementet kan gjøre unntak fra denne forskrift.
+
+> Endret ved [forskrift 6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
+
+## § 3. Definisjon
+
+1. Med næringsmiddelimitasjoner menes produkter som på tross av at de ikke er næringsmidler har en form, lukt, utseende, farge, presentasjonsform, merking, størrelse, volum el. som gjør at de, særlig av barn, kan forveksles med næringsmidler.
+
+2. Med farlige næringsmiddelimitasjoner menes produkter som er nevnt i [§ 3](forskrift/1992-05-26-420/§3), nr. 1 dersom disse utgjør en risiko for helseskade. Det skal særlig vurderes om barn vil kunne foreta en slik forveksling og derved putte dem i munnen, suge på dem, inhalere dem el., og dette kan medføre fare i form av kvelning, forgiftning, perforering eller blokkering av spiserøret osv.
+
+## § 4. Tilsyn
+
+Departementet eller den departementet gir fullmakt, fører tilsyn med at denne forskrift følges.
+
+> Endret ved [forskrift 6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
+
+## § 5. Klage
+
+Enkeltvedtak departementet treffer i medhold av denne forskrift kan påklages Kongen i statsråd.
+
+> Endret ved [forskrift 6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
+
+## § 6. Straff
+
+Overtredelse av denne forskrift, eller vedtak truffet i medhold av forskriften, straffes etter lov om produktkontroll § 12, dersom ikke strengere straffebestemmelser kommer til anvendelse.
+
+## § 7. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. juli 1992 for produsenter og importører og 1. oktober 1992 for detaljister.

@@ -1,0 +1,114 @@
+---
+id: "sf-20210622-2268"
+slug: "forskrift-om-tilskudd-til-avløsning-i-reindrift"
+type: "forskrift"
+ref_id: "forskrift/2021-06-22-2268"
+title: "Forskrift om tilskudd til avløsning ved svangerskap, fødsel, adopsjon og dødsfall"
+short_title: "Forskrift om tilskudd til avløsning i reindrift"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2021-07-01"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "14c72e44c30a48671751c9d771fb67008277ff18eaf61abf27e1172e6becb08a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til avløsning ved svangerskap, fødsel, adopsjon og dødsfall
+
+## § 1. Formål
+
+Formålet med ordningen er å bidra til å finansiere leie av avløsere i reindriften ved svangerskap, fødsel, adopsjon av barn under 15 år og ved siidaandelsleders død, og for å styrke kvinnenes stilling og den familiebaserte reindriften.
+
+> Endret ved forskrift [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022).
+
+## § 2. Grunnvilkår for tilskudd
+
+Tilskudd til avløsning ved svangerskap, fødsel og adopsjon av barn under 15 år kan ytes til leder av siidaandel og ektefelle/samboer dersom:Siidaandelen har rett til tilskudd etter gjeldende [forskrift om tilskudd til siidaandeler og reinlag § 3](forskrift/2019-06-20-865/§3), ogsiidaandelsleder og/eller ektefelle/samboer har vært registrert i en siidaandel driftsåret før fødselen/adopsjonen.
+
+Det gis ikke tilskudd til avløser ved adopsjon av ektefelle/samboers barn.
+
+Tilskudd til avløsning ved siidaandelsleders død kan ytes til gjenlevende ektefelle/samboer, barn eller foreldre etter siidaandelsleder.
+
+Dersom avdøde siidaandelsleder ikke har gjenlevende familie, jf. tredje ledd, kan tilskudd innvilges til andre slektninger av avdøde siidaandelsleder i siidaandelen avdøde tilhørte.
+
+Det kreves at siidaandelen oppfyller vilkårene til tilskudd etter gjeldende [forskrift om tilskudd til siidaandeler og reinlag](forskrift/2019-06-20-865).
+
+> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023).
+
+## § 3. Krav til arbeidsforhold og avløser
+
+Avløsning må ordnes som et arbeidsgiver- og arbeidstakerforhold.
+
+Avløser skal være minst 16 år og kan ikke ha næringsinntekt i siidaandelen eller være ektefelle/samboer til en som har næringsinntekt i siidaandelen.
+
+## § 4. Utgifter som kan bli refundert
+
+Tilskudd til avløsning kan bare ytes til dekning av faktiske utgifter til lønn, feriepenger og arbeidsgiveravgift. Dette forutsetter at utgiftene er i samsvar med beløp som er innrapportert i a-ordningen.
+
+## § 5. Tilskuddsgrunnlag
+
+Tilskudd kan gis til dekning av dokumenterte utgifter til avløsning, inntil 80 000 kroner ved siidaandelsleders død og per barn ved svangerskap/fødsel og adopsjon.
+
+> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [24 juni 2025 nr. 1288](forskrift/2025-06-24-1288) (i kraft 1 juli 2025).
+
+## § 6. Tidsbegrensning
+
+Det kan ytes tilskudd til avløsning innenfor et tidsrom på 24 uker før termindato/adopsjon og inntil tre år etter termindato/adopsjon.
+
+Dersom barnet dør eller foreldrene ikke lenger har omsorg for barnet kan det ytes tilskudd til avløsning innenfor et tidsrom på 24 uker før termindato og inntil seks uker etter dødsfallet eller etter at omsorgen har opphørt, men ikke lengre enn i tre år etter termindato/adopsjon.
+
+Det kan ytes tilskudd til avløsning i forbindelse med siidaandelsleders død inntil 8 uker etter dødsfallet.
+
+> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023), [20 juni 2024 nr. 1067](forskrift/2024-06-20-1067) (i kraft 1 juli 2024).
+
+## § 7. Krav til søknad
+
+Søknaden om avløsertilskudd må være sendt inn senest 12 måneder etter at avløsning har funnet sted.
+
+Søknad om tilskudd til avløsning sendes på særskilt skjema til Landbruksdirektoratet for behandling. Søknader skal behandles etter regelverket som var gjeldende på søknadstidspunktet.
+
+Som vedlegg til søknaden kreves for øvrig den dokumentasjon som Landbruksdirektoratet finner nødvendig av hensyn til forvaltning og kontroll.
+
+> Endret ved forskrift [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023).
+
+## § 8. Opplysningsplikt og kontroll
+
+Mottakere av tilskudd etter denne forskriften plikter å gi alle opplysninger som reindriftsmyndighetene finner nødvendig for å kunne forvalte tilskuddordningene, eller for å kunne oppfylle reindriftsavtalen.
+
+Reindriftsmyndighetene fører tilsyn med at utbetalinger av tilskudd er riktige, og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. For virksomheter som er pålagt revisjonsplikt kan det kreves revidert regnskap over utgiftene.
+
+## § 9. Retting av feilutbetalinger
+
+Reindriftsmyndighetene kan rette feil i utbetalt tilskudd, enten ved etterbetaling eller krav om tilbakebetaling av tilskudd fra tilskuddsmottaker.
+
+## § 10. Avkorting mv.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknaden som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
+
+Dersom tilskuddsmottaker uaktsomt eller forsettlig driver, eller har drevet, sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+
+> Endret ved forskrift [20 juni 2024 nr. 1067](forskrift/2024-06-20-1067) (i kraft 1 juli 2024).
+
+## § 11. Innkreving av tilbakebetalings- eller avkortingsbeløp
+
+Differansen mellom utbetalt beløp og berettiget tilskudd som følge av vedtak om tilbakebetaling etter [§ 9](forskrift/2021-06-22-2268/§9) eller avkorting etter [§ 10](forskrift/2021-06-22-2268/§10), kan kreves tilbakebetalt fra tilskuddsmottakeren eller motregnes i senere tilskuddsutbetalinger.
+
+Krav fra reindriftsmyndighetene kan motregnes i tilskuddsutbetalinger til tilskuddsmottakeren.
+
+Dersom foretaket/tilskuddsmottakeren ikke var i aktsom god tro om utbetalingen, kan renter kreves fra det tidspunkt tilbakebetalingskravet er kommet fram til foretaket/mottaker. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetaling av det urettmessige tilskuddet. Rentefoten skal settes lik den rentefot som til enhver tid er fastsatt av Finansdepartementet i medhold av [§ 3](lov/1976-12-17-100/§3) i [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](lov/1976-12-17-100).
+
+> Endret ved forskrift [20 juni 2024 nr. 1067](forskrift/2024-06-20-1067) (i kraft 1 juli 2024).
+
+## § 12. Klageadgang
+
+Landbruksdirektoratets vedtak kan påklages til Landbruks- og matdepartementet etter [forvaltningslovens](lov/1967-02-10) regler.
+
+## § 13. Ikrafttredelse
+
+Denne forskriften trer i kraft 1. juli 2021. Samtidig oppheves [forskrift 17. juni 2009 nr. 659 om tilskudd til avløsning ved svangerskap/fødsel](forskrift/2009-06-17-659).

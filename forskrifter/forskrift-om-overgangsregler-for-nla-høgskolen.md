@@ -1,0 +1,44 @@
+---
+id: "sf-20121213-1432"
+slug: "forskrift-om-overgangsregler-for-nla-høgskolen"
+type: "forskrift"
+ref_id: "forskrift/2012-12-13-1432"
+title: "Forskrift om overgangsregler for NLA Høgskolen"
+short_title: "Forskrift om overgangsregler for NLA Høgskolen"
+language: "no"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2013-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "9b75a8fe81c7e0c6be31f2d85f30567fdc6684136187376b787ae84a56aac84c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overgangsregler for NLA Høgskolen
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre at gjeldende regelverk for NLA Høgskolen, Mediehøgskolen Gimlekollen og Høgskolen i Staffeldstsgate pr. 31. desember 2012, videreføres så langt det passer ved NLA Høgskolen inntil nytt felles regelverk trer i kraft.
+
+## § 2. Regelverk
+
+Følgende forskrifter, og retningslinjer som følger av disse og andre sentrale forskrifter, skal gjelde ved NLA Høgskolen inntil nye felles forskrifter og retningslinjer trer i kraft:[Forskrift 27. januar 2011 nr. 999](forskrift/2011-01-27-999) om studier ved NLA Høgskolen.[Forskrift 9. desember 2005 nr. 1792](forskrift/2005-12-09-1792) om studier og eksamen ved Mediehøgskolen Gimlekollen.[Forskrift 12. juni 2007 nr. 1106](forskrift/2007-06-12-1106) om bachelorgrad ved Mediehøgskolen Gimlekollen.[Forskrift 10. mars 2006 nr. 338](forskrift/2006-03-10-338) om lokalt opptak og rangering av søkere til videreutdanninger ved Mediehøgskolen Gimlekollen.[Forskrift 15. juni 2011 nr. 1531](forskrift/2011-06-15-1531) om studier og eksamen ved Høgskolen i Staffeldtsgate.
+
+## § 3. Delegering av myndighet
+
+Hvis bestemmelser om delegering av myndighet til interne organer mv. i forskriftene er i strid med nyere delegeringsvedtak, gjelder disse vedtakene foran bestemmelser i forskriftene.
+
+## § 4. Studenter med opptak og studierett ved NLA Høgskolen, Mediehøgskolen Gimlekollen og Høgskolen i Staffeldtsgate
+
+Studenter skal i en overgangsperiode følge regelverket som gjelder ved den høgskolen de er tatt opp på, hvis ikke annet er avtalt.
+
+En student som har fått opptak ved (den fusjonerte) NLA Høgskolen, skal følge det regelverket som gjelder for øvrige studenter på samme studium/emne.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft fra 1. januar 2013.

@@ -1,0 +1,44 @@
+---
+id: "nl-19870612-057"
+slug: "lov-om-forbud-mot-fallskjermhopping"
+type: "lov"
+ref_id: "lov/1987-06-12-57"
+title: "Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder"
+short_title: "Lov om forbud mot fallskjermhopping"
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1987-06-12"
+last_change_in_force: "2015-10-01"
+last_updated: "2021-08-13"
+xml_hash: "d36bd765bb7207133e4212dd50431ca415922736a304e297e6e23838f3f7ecd0"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder
+
+## § 1.
+
+Formålet med denne lov er å begrense fallskjermhopping som medfører stor risiko for ulykker og utsetter redningsmannskapers liv for fare.
+
+## § 2.
+
+Kongen gis fullmakt til ved forskrift å forby fallskjermhopping og ferdsel med fallskjermutstyr innen nærmere avgrensede fjellområder.
+
+## § 3.
+
+Den som overtrer forskrifter gitt i medhold av [§ 2](lov/1987-06-12-57/§2), straffes med bøter.
+
+> Endret ved lover [15 apr 1988 nr. 15](lov/1988-04-15-15), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 4.
+
+[Straffelovens](lov/2005-05-20-28) bestemmelser om inndragning kommer til anvendelse.
+
+## § 5.
+
+Denne lov trer i kraft straks.

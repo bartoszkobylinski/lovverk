@@ -1,0 +1,160 @@
+---
+id: "sf-20171013-1615"
+slug: "forskrift-om-kontroll-av-kjøretøy-langs-veg"
+type: "forskrift"
+ref_id: "forskrift/2017-10-13-1615"
+title: "Forskrift om kontroll av kjøretøy langs veg"
+short_title: "Forskrift om kontroll av kjøretøy langs veg"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2018-10-01"
+last_change_in_force: "2023-01-25"
+last_updated: null
+xml_hash: "3554a9bdeef3d08885b5891d94f870d2b51932b4141926495005b06a4bea22bd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om kontroll av kjøretøy langs veg
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Hva forskriften gjelder
+
+Denne forskriften gjelder for følgende nyttekjøretøy med en konstruksjonshastighet på over 25 km/t:motorvogner med 9 eller flere sitteplasser i tillegg til førersetet, som i hovedsak er konstruert og bygget for transport av personer og deres bagasje, kjøretøygruppene M2 og M3motorvogner med største tillatte totalvekt over 3 500 kg, som i hovedsak er innrettet og konstruert for godstransporttilhengere til bil med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe O3 og O4hjulgående traktor med konstruksjonshastighet over 40 km/t, som brukes på offentlig vei til kommersiell godstransporttilhenger til traktor med største tillate totalvekt over 3 500 kg, som er bygget for gods- eller persontransport, eller for innkvartering av personer, kjøretøygruppe R3 og R4.
+
+Denne forskriften hindrer ikke muligheten for kontroll av andre kjøretøy som ikke er nevnt i første ledd, bokstav a–e.
+
+> Endret ved [forskrift 11 mai 2018 nr. 708](forskrift/2018-05-11-708).
+
+### § 1a. Gjennomføring av EU-rettsakter
+
+EØS-avtalen vedlegg XIII nr. 17hb gjelder som forskrift med de endringer som følger av vedlegg XIII, protokoll 1 og EØS-avtalen ellers.
+
+> Tilføyd ved [forskrift 29 april 2019 nr. 553](forskrift/2019-04-29-553) (i kraft 8 mai 2019).
+
+### § 2. Definisjoner
+
+Definisjonene i vegtrafikkloven, [forskrift 25. januar 1990 nr. 91](forskrift/1990-01-25-91) om krav til kjøretøy, [forskrift 4. oktober 1994 nr. 918](forskrift/1994-10-04-918) om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften), [forskrift 5. juli 2012 nr. 817](forskrift/2012-07-05-817) om godkjenning av bil og tilhenger til bil og [forskrift 1. juni 2016 nr. 561](forskrift/2016-06-01-561) om godkjenning av traktor og tilhenger til traktor gjelder tilsvarende for denne forskrift.
+
+I denne forskriften legges dessuten følgende definisjoner til grunn:*nyttekjøretøy*: motorvogn og dens tilhenger eller semitrailer, som brukes til transport av gods eller passasjerer til kommersielle formål*foretak*: enhver fysisk eller juridisk person som driver vegtransport mot vederlag eller for egen regning*teknisk kontroll av kjøretøy langs veg*: en teknisk kontroll av trafikksikkerheten til et nyttekjøretøy*mobil kontrollenhet*: transportabelt system med kontrollutstyr som er nødvendig for å foreta detaljerte tekniske kontroller, bemannet med kontrollører som er kvalifisert til å utføre slike tekniske kontroller*kontrollstasjon*: fast område der innledende eller detaljerte tekniske kontroller foregår, som også kan utstyres med permanent installert kontrollutstyr*godkjent kontrollorgan*: organ godkjent etter forskrift om periodisk kjøretøykontroll [§ 3](forskrift/2017-10-13-1615/§3)*kontrollseddel*: dokument utstedt av godkjent kontrollorgan etter periodisk kontroll, jf. forskrift om periodisk kjøretøykontroll [§ 19](forskrift/2017-10-13-1615/§19)*kontrollrapport*: dokument som utstedes av kontrolløren ved avsluttet teknisk kontroll langs veg.
+
+## Kapittel 2. Generelle bestemmelser
+
+### § 3. Plikter ved kontroll
+
+Foretak og førere av kjøretøy som kontrolleres, skal bidra til gjennomføringen av kontrollen, og gi kontrollmyndighetene tilgang til kjøretøyet, kjøretøyets deler og relevant dokumentasjon.
+
+Kontrollseddel fra siste periodiske kontroll og kontrollrapport fra siste kontroll langs veg, skal oppbevares eller være tilgjengelig i kjøretøyet, i original, kopi eller elektronisk eksemplar, hvis slik dokumentasjon foreligger.
+
+### § 4. Kontrollmyndighet
+
+Statens vegvesen og politiet har kontrollmyndighet etter denne forskriften.
+
+> Endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+
+### § 5. Kontrollører
+
+Ved utvelgelsen av kontrollobjekter til kontroll langs veg, og ved gjennomføringen av kontrollen skal kontrollmyndighetene ikke forskjellsbehandle på grunn av førerens nasjonalitet, den staten kjøretøyet er registrert i eller tatt i bruk i. Kontrolløren skal heller ikke ha noen interessekonflikt ved gjennomføringen av kontrollen som kan påvirke upartiskheten eller objektiviteten av kontrollørens beslutninger.
+
+De detaljerte tekniske kontrollene, jf. [§ 10](forskrift/2017-10-13-1615/§10), skal kun gjennomføres av kontrollører som oppfyller minimumskrav til opplæring og kompetanse fastsatt av Vegdirektoratet. Kontrollørene må også gjennomgå regelmessig oppfriskningsopplæring med innhold og hyppighet som bestemt av Vegdirektoratet. Kontrollører ansatt per 20. mai 2018, og som har tilstrekkelig kompetanse til å gjennomføre kontroller i henhold til denne forskriften anses å oppfylle kompetansekravene, men må etterleve plikten til oppfriskningsopplæring, jf. forrige punktum.
+
+Kontroll av sikring av last skal utføres av kontrollører som har gjennomgått hensiktsmessig opplæring for formålet.
+
+### § 6. Registrering av opplysninger og risikoklassifiseringssystem
+
+For foretak som benytter kjøretøy som nevnt i [§ 1](forskrift/2017-10-13-1615/§1) første ledd bokstav a til c, skal opplysninger om antall mangler og manglenes alvorlighetsgrad, som beskrevet i vedlegg II og III, føres inn i et system for klassifisering etter risikonivå, for å lage en risikoprofil for foretaket etter vedlegg I.
+
+Opplysningene skal brukes til å klassifisere foretak etter risikonivå, og kan danne grunnlag for målrettet utvelgelse til kontroll av disse foretakene. Foretak med høy risikoklassifisering kan bli kontrollert mer detaljert og hyppigere.
+
+## Kapittel 3. Gjennomføring av kontroll langs veg
+
+### § 7. Systemet for teknisk kontroll langs veg
+
+Systemet for teknisk kontroll langs veg skal omfatte innledende kontroller som nevnt i [§ 9](forskrift/2017-10-13-1615/§9) og detaljerte kontroller som nevnt i [§ 10](forskrift/2017-10-13-1615/§10).
+
+### § 8. Utvelgelse av kjøretøy til teknisk kontroll
+
+Kjøretøy kan velges ut for innledende kontroll basert på:foretakets risikoprofil som nevnt i [§ 6](forskrift/2017-10-13-1615/§6) om risikoklassifiseringssystemetmistanke om at kjøretøyet utgjør en risiko for trafikksikkerheten eller miljøettilfeldig utvelgelse ellerannen måte.
+
+### § 9. Innledende teknisk kontroll
+
+Ved hver innledende kontroll av et kjøretøy:skal kontrolløren kontrollere den siste kontrollseddelen og siste kontrollrapport dersom dette foreligger, jf. [§ 3](forskrift/2017-10-13-1615/§3) annet ledd, og så vidt mulig kontrollere om eventuelle mangler angitt i kontrollrapporten er rettetskal kontrolløren foreta en visuell vurdering av kjøretøyets tekniske standkan kontrolløren foreta tekniske kontroller med hensiktsmessige metoder.
+
+På bakgrunn av dette, kan kontrollmyndigheten beslutte at det skal gjennomføres en detaljert teknisk kontroll, jf. [§ 10](forskrift/2017-10-13-1615/§10), eller gi pålegg om retting av eventuelle mangler, jf. [§ 14](forskrift/2017-10-13-1615/§14).
+
+### § 10. Detaljert teknisk kontroll
+
+Den detaljerte kontrollen skal gjennomføres ved hjelp av en mobil kontrollenhet, en kontrollstasjon eller ved et godkjent kontrollorgan. Den detaljerte kontrollen skal foretas så snart som mulig.
+
+Den detaljerte kontrollen skal omfatte de punktene som anses nødvendige og relevante i vedlegg II. Det skal tas særlig hensyn til sikkerhet på bremser, styring, hjuloppheng, karosseri og skadevirkning. Dersom dokumentasjon som nevnt i [§ 3](forskrift/2017-10-13-1615/§3) annet ledd viser at ett eller flere av punktene i vedlegg II er kontrollert de siste tre månedene uten anmerkninger, kontrolleres ikke disse punktene på nytt, med mindre kontroll er berettiget på grunn av en åpenbar mangel.
+
+Mobile kontrollenheter og kontrollstasjoner skal ha utstyr som er egnet til å gjennomføre en detaljert teknisk kontroll. Dersom kontrollstedet ved den innledende kontroll ikke har tilstrekkelig utstyr til å gjennomføre en detaljert kontroll, skal kjøretøyet henvises til nærmeste tilgjengelige kontrollsted med slikt utstyr.
+
+### § 11. Kontroll av lastsikring
+
+På bakgrunn av metodene for utvelgelse som beskrives i [§ 8](forskrift/2017-10-13-1615/§8), kan kjøretøy velges ut for kontroll av sikring av lasten i samsvar med vedlegg III.
+
+Med forbehold for kravene som får anvendelse på transport av visse kategorier gods, skal kontroll av sikring av last utføres i samsvar med prinsippene og eventuelt standardene fastsatt i avsnitt I i vedlegg III. Den siste versjonen av standardene fastsatt i nr. 5 i avsnitt I i vedlegg III skal brukes.
+
+Framgangsmåtene for oppfølging nevnt i [§ 13](forskrift/2017-10-13-1615/§13) og 15, kan også få anvendelse på vesentlige eller farlige mangler knyttet til sikring av last.
+
+### § 12. Vurdering av mangler ved detaljerte tekniske kontroller
+
+Vedlegg II inneholder en liste over mulige mangler og deres alvorlighetsgrad som skal benyttes ved gjennomføringen av detaljerte tekniske kontroller.
+
+Mangler kategoriseres i en av følgende grupper:mindre mangler: har ikke vesentlig innvirkning på kjøretøyets sikkerhet eller miljøet, samt andre mindre avvik fra kravenevesentlige mangler: kan sette kjøretøyets sikkerhet i fare, påvirke miljøet eller utsette andre trafikanter for fare, samt mer vesentlige avvik fra kravene ellerfarlige mangler: utgjør en direkte og umiddelbar fare for trafikksikkerheten eller miljøet.
+
+Dersom et kjøretøy har mangler som hører inn under flere av gruppene i annet ledd, klassifiseres kjøretøyet i den gruppen som tilsvarer den alvorligste mangelen. Hvis den samlede virkningen av flere mindre mangler, jf. annet ledd bokstav a, medfører en risiko for trafikksikkerheten, kan dette klassifiseres som vesentlige mangler, jf. annet ledd bokstav b.
+
+## Kapittel 4. Oppfølging etter kontroll
+
+### § 13. Kontrollrapport
+
+Når en innledende teknisk kontroll er gjennomført skal kjøretøyets registreringsstat, kjøretøygruppen og resultatet av kontrollen registreres.
+
+Når en detaljert teknisk kontroll eller kontroll av lastsikring er avsluttet, skal kontrollmyndigheten utarbeide en rapport som registreres i samsvar med vedlegg IV. Føreren av kjøretøyet skal ha en kopi av denne rapporten.
+
+### § 14. Pålegg om retting m.m.
+
+Dersom kontrollmyndigheten finner mangler ved et kjøretøy under kontroll, kan kontrollmyndigheten gi pålegg om retting, og beslutte vilkår for bruk av kjøretøyet i et rimelig tidsrom til mangelen rettes.
+
+Bestemmelser om reaksjoner og sanksjoner i [vegtrafikklovens kapittel V](lov/1965-06-18-4/kapv) og tilhørende forskrifter gjelder tilsvarende.
+
+### § 15. Pålegg om etterkontroll ved vesentlige eller farlige mangler
+
+Hvis kjøretøyet er registrert i Norge, kan kontrollmyndigheten beslutte at kjøretøyet skal gjennomgå en full teknisk kontroll innenfor en gitt frist. Dersom kjøretøyet er registrert i en annen EØS-stat, kan kontrollmyndigheten be vedkommende myndighet i den staten om å utføre slik teknisk kontroll. Ved vesentlige eller farlige mangler på kjøretøy registrert i stater utenfor EØS, kan kontrollmyndigheten underrette vedkommende myndighet i den aktuelle staten.
+
+### § 16. Bruksforbud
+
+Dersom vesentlige eller farlige mangler avdekkes, kan kontrollmyndigheten nedlegge forbud mot bruk av kjøretøyet inntil manglene er rettet opp, jf. [vegtrafikkloven § 36](lov/1965-06-18-4/§36).
+
+Kontrollmyndigheten kan likevel tillate bruk av kjøretøy med slike mangler, for å kjøre det til et av de nærmeste verkstedene hvor manglene kan rettes, under forutsetning av at manglene er rettet på en slik måte at kjøretøyet kan nå frem til dette verkstedet uten at det er fare for sikkerheten til fører, passasjerer eller andre trafikanter. Slik tillatelse kan gis på vilkår fastsatt av kontrollmyndigheten.
+
+## Kapittel 5. Sluttbestemmelser
+
+### § 17. Samarbeid og utveksling av opplysninger
+
+Vegdirektoratet er kontaktpunkt etter Europaparlaments- og Rådsdirektiv [2014/47/EU](eu/32014l0047*). Vegdirektoratet skal sikre samordning med kontaktpunkter i andre EØS-stater, jf. annet ledd, ivareta rapporteringsforpliktelsene i direktivet, samt sikre enhver annen utveksling av opplysninger med, og yte bistand til andre EØS-staters kontaktpunkter.
+
+Dersom det ved kontroll av et kjøretøy som ikke er registrert i Norge finnes vesentlige eller farlige mangler, jf. [§ 12](forskrift/2017-10-13-1615/§12), eller slike mangler som fører til en begrensning av eller forbud mot bruk av kjøretøyet, jf. [§ 16](forskrift/2017-10-13-1615/§16), skal Vegdirektoratet uten ugrunnet opphold melde dette til kontaktpunktet i den staten der kjøretøyet er registrert. Ved vesentlige eller farlige mangler kan Vegdirektoratet be vedkommende myndighet i staten der kjøretøyet er registrert om å treffe hensiktsmessige tiltak.
+
+> Endret ved [forskrift 29 april 2019 nr. 553](forskrift/2019-04-29-553) (i kraft 8 mai 2019).
+
+### § 18. Europeisk samarbeid
+
+Norsk kontrollmyndighet skal hvert år delta i europeisk samarbeid om kontroll av nyttekjøretøy langs veg i henhold til denne forskriften.
+
+### § 19. Ikrafttredelse
+
+Forskriften trer i kraft 1. oktober 2018. Samtidig oppheves [forskrift 13. mai 2009 nr. 590](forskrift/2009-05-13-590) om kontroll av kjøretøy langs veg.
+
+> Endret ved [forskrift 11 mai 2018 nr. 708](forskrift/2018-05-11-708).
+
+## Vedlegg
+
+Trykk her for å se vedlegget: [(pdf)](static/SF/sf-20171013-1615-01-01.pdf)

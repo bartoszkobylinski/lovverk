@@ -1,0 +1,66 @@
+---
+id: "sf-20170616-0780"
+slug: "heimevernsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2017-06-16-780"
+title: "Forskrift om råd, utvalg og nemnder i Heimevernet (heimevernsforskriften)"
+short_title: "Heimevernsforskriften"
+language: "no"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "2017-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "c3be265b0bd12795f5709c14d0e7a090db4101bd954a0e87d2cfc50a91da171c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om råd, utvalg og nemnder i Heimevernet (heimevernsforskriften)
+
+## § 1. Hva forskriften gjelder
+
+Forskriften gjelder følgende råd, utvalg og nemnder som er opprettet for å sikre samarbeid mellom Heimevernet og sivilbefolkningen:Landsrådet for Heimevernetdistriktsrådeneområdeutvalgene og innsatsstyrkeutvalgeneheimevernsnemndene.
+
+## § 2. Rådenes, utvalgenes og nemndenes oppgaver og sammensetning
+
+Rådene, utvalgene og nemndene kan gi uttalelser og råd i saker som har betydning for Heimevernet.
+
+Landsrådet for Heimevernet oppnevnes av Forsvarsdepartementet og skal være sammensatt av representanter fra relevantelandsdekkende organisasjoner for arbeidstakernelandsdekkende organisasjoner for arbeidsgiverneberedskapsorganisasjonerfrivillige samarbeidsorganisasjonerorganisasjoner for primærnæringene.
+
+Organisasjonene som er representert i Landsrådet for Heimevernet kan oppnevne hver sin representant til distriktsrådene.
+
+Områdeutvalgenes og innsatsstyrkeutvalgenes medlemmer skal velges av og blant dem som til enhver tid gjør tjeneste i Forsvaret.
+
+Heimevernsnemndene oppnevnes av Heimevernet. Politiet skal stille med representanter. Kommunene gis mulighet til å stille med representanter. Heimevernsnemndene kan uttale seg og gi råd om hvem som er skikket til tjeneste i Heimevernet.
+
+Representanter for Heimevernet skal delta i alle råd, utvalg og nemnder.
+
+Det skal oppnevnes personlige varamedlemmer for alle representantene i alle rådene, utvalgene og nemndene.
+
+## § 3. Heimevernets informasjonsplikt
+
+Heimevernet skal informere rådene og utvalgene om Heimevernets virksomhet.
+
+## § 4. Taushetsplikt og personopplysninger
+
+Forvaltningslovens regler om taushetsplikt gjelder for medlemmene av rådene, utvalgene og nemndene.
+
+[Forsvarsloven § 7](lov/2016-08-12-77/§7) og [vernepliktsforskriften kapittel 3](forskrift/2017-06-16-779/kap3) gjelder for rådenes, utvalgenes og nemndenes behandling av personopplysninger.
+
+## § 5. Godtgjørelse
+
+Medlemmene skal godtgjøres for hvert møte og hver reisedag tilsvarende Heimevernets kursgodtgjørelse til menige.
+
+Hvis et råd, et utvalg eller en nemnd pålegger medlemmer å delta i møter eller å reise utenfor pliktig eller frivillig heimevernstjeneste, skal medlemmene også ha reise- og kostgodtgjørelse på samme vilkår som sivilt tilsatte i Forsvaret.
+
+## § 6. Instruks for råd, utvalg og nemnder
+
+Forsvarsdepartementet kan i instruks gi nærmere regler om rådenes, utvalgenes og nemndenes oppgaver og sammensetning.
+
+## § 7. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2017.

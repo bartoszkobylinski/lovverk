@@ -1,0 +1,320 @@
+---
+id: "nl-19970613-042"
+slug: "kystvaktloven-kystvl"
+type: "lov"
+ref_id: "lov/1997-06-13-42"
+title: "Lov om Kystvakten (kystvaktloven)"
+short_title: "Kystvaktloven – kystvl"
+language: "nb"
+ministry:
+  - "Forsvarsdepartementet"
+date_in_force: "1999-11-05"
+last_change_in_force: "2026-01-01"
+last_updated: "2022-03-31"
+xml_hash: "992b594b5eb14b636eb51d69986237d6d2c104f813b136fd9bfbce12815c47ec"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om Kystvakten (kystvaktloven)
+
+## Kapittel 1. Alminnelige bestemmelser
+
+### § 1. Lovens formål
+
+Formålet med loven er å legge forholdene til rette for at Kystvakten effektivt og best mulig kan bidra til det statlige oppsynet med kysten og havområdene utenfor, samt utføre de øvrige oppgaver som følger av denne lov.
+
+### § 2. Definisjoner
+
+Med «fartøy» menes i denne lov enhver flytende eller flyvende innretning som kan brukes som transportmiddel, fremkomstmiddel, oppholdssted, produksjonssted, lagersted eller til fiske eller fangst, herunder luftputefartøyer og undervannsfartøyer av enhver art, samt utstyr, herunder redskap, som hører til innretningen.
+
+Med «fast innretning» menes i denne lov enhver innretning som ikke er fartøy og som er plassert eller på annen måte befinner seg over, under eller på havoverflaten, samt utstyr som hører til innretningen.
+
+Kongen kan gi nærmere bestemmelser om hva som skal regnes som fartøy eller fast innretning i denne lov, herunder bestemme at loven ikke skal gjelde for visse fartøyer eller faste innretninger.
+
+### § 2 a. Bruk av elektronisk kommunikasjon
+
+Krav i eller i medhold av loven her om at beslutning, rapport eller annet skal være skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon.
+
+Bruk av elektronisk kommunikasjon ved underretning om et vedtak er bare tillatt når den vedtaket retter seg mot uttrykkelig har godtatt dette.
+
+> Tilføyd ved [lov 21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)).
+
+### § 3. Lovens stedlige virkeområde
+
+Denne loven gjelderi indre farvann og på sjøterritoriet, herunder i Svalbards indre farvann og sjøterritorium, samt i den tilstøtende sone etablert med hjemmel i lov om Norges territorialfarvann og tilstøtende sone,i jurisdiksjonsområder etablert i medhold av [lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone,på kontinentalsokkelen, ogutenfor norsk jurisdiksjonsområde med de begrensninger som følger av folkeretten.
+
+Ved kontroll som nevnt i §§ 9-12, 15 og 18, gjelder virkeområdet til vedkommende regelverk i stedet for første ledd bokstav a til c. Kontroll kan likevel ikke skje på land, med mindre dette fremstår som åpenbart nødvendig, eller kontrollen gjelder overholdelse av [grenseloven](lov/2018-04-20-8) for personer som har gått eller skal gå ombord i eller i land fra fartøy.
+
+Kongen kan gi nærmere bestemmelser om lovens stedlige virkeområde.
+
+> Endret ved [lov 27 juni 2003 nr. 57](lov/2003-06-27-57) (ikr. 1 jan 2004 iflg. [res. 27 juni 2003 nr. 798](forskrift/2003-06-27-798)), [20 apr 2018 nr. 8](lov/2018-04-20-8) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638), som endret ved [lov 21 juni 2019 nr. 70](lov/2019-06-21-70)).
+
+### § 4. Folkerettslig begrensning
+
+Loven gjelder med de begrensninger som følger av folkeretten eller overenskomst med fremmed stat.
+
+## Kapittel 2. Kystvaktens organisasjon og personell
+
+### § 5. Kystvaktens organisasjon
+
+Kystvakten er en del av det militære forsvar. I fredstid skal Kystvakten fortrinnsvis utføre de oppgaver som følger av denne lov. Kystvakten skal i fredstid også øves for sine krigsoppgaver.
+
+Kystvaktens fartøyer skal være uniformert etter bestemmelser som gis av Kongen.
+
+I den utstrekning det anses nødvendig for å utføre bestemte kystvaktoppgaver, kan Kongen bestemme at deler av det militære forsvars øvrige materiell- eller personellressurser skal kunne anvendes.
+
+Kongen kan med Stortingets samtykke bestemme at sivile fartøyer varig eller midlertidig skal inngå i Kystvaktens organisasjon.
+
+Øvrige bestemmelser om Kystvaktens organisasjon og størrelse fastsettes av Kongen med Stortingets samtykke.
+
+### § 6. Kystvaktrådet
+
+Kongen oppnevner Kystvaktrådet.
+
+Kystvaktrådet er et samarbeids- og kontaktorgan som skal behandle og gi råd om spørsmål vedrørende Kystvaktens virksomhet i medhold av denne lov.
+
+Rådet skal bestå av representanter for berørte offentlige etater. Kongen gir nærmere bestemmelser om rådets sammensetning og funksjoner.
+
+### § 7. Kystvaktens personell
+
+Vernepliktige i tjeneste og militært tilsatte i Forsvaret kan beordres til å utføre oppgaver som fremgår av denne lov, med mindre annet følger av ansettelsesvilkårene.
+
+Kongen kan med Stortingets samtykke bestemme at andre personer enn de som er nevnt i første ledd, skal inngå i Kystvaktens organisasjon. Kongen kan bestemme hvem som skal regnes som arbeidsgiver i forhold til personer som for et bestemt tidsrom avgis til Kystvakten fra andre statsetater.
+
+> Endret ved [lov 12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)).
+
+## Kapittel 3. Kystvaktens oppgaver
+
+### § 8. Suverenitetshevdelse m.v.
+
+Kystvakten skal hevde norsk suverenitet og norske suverene rettigheter.
+
+### § 9. Fiskerioppsyn, fangstoppsyn, ressurskontroll m.v.
+
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt:[lov av 22. mars 1957 nr. 4](lov/1957-03-22-4) om fangst av isbjørn.lov om matproduksjon og mattrygghet mv. (matloven).– – –[lov av 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone.lov om forvaltning av viltlevande marine ressursar.[lov av 26. mars 1999 nr. 15](lov/1999-03-26-15) om retten til å delta i fiske og fangst (deltakerloven).
+
+Det samme gjelder bestemmelser gitt i medhold av [lov av 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard som regulerer fiske og fangst i Svalbards indre farvann og sjøterritorium.
+
+> Endret ved [lover 26 mars 1999 nr. 15](lov/1999-03-26-15) (ikr. 1 jan 2000 iflg. [res. 19 nov 1999 nr. 1178](forskrift/1999-11-19-1178)), [23 mai 2003 nr. 33](lov/2003-05-23-33) (ikr. 1 juni 2003 iflg. [res. 23 mai 2003 nr. 624](forskrift/2003-05-23-624)), [27 juni 2003 nr. 57](lov/2003-06-27-57) (ikr. 1 jan 2004 iflg. [res. 27 juni 2003 nr. 798](forskrift/2003-06-27-798)), [19 des 2003 nr. 124](lov/2003-12-19-124) (ikr. 1 jan 2004), [6 juni 2008 nr. 37](lov/2008-06-06-37) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355)), [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875)).
+
+### § 10. Tolloppsyn
+
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av [vareførselsloven](lov/2022-03-11-9) blir overholdt.
+
+> Endret ved lover [21 des 2007 nr. 119](lov/2007-12-21-119) (ikr. 1 jan 2009 iflg. [res. 7 nov 2008 nr. 1206](forskrift/2008-11-07-1206)), [11 mars 2022 nr. 9](lov/2022-03-11-9) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574)).
+
+### § 11. Miljøoppsyn m.v.
+
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdtlov om skipssikkerhet (skipssikkerhetsloven) [kapittel 5](lov/2007-02-16-9/kap5).[lov av 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet,[lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven),[lov av 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner,[lov av 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven),[lov av 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt,[lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.](lov/1992-05-15-47),[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
+
+Det samme gjelder bestemmelser gitt i og i medhold av lov om miljøvern på Svalbard (svalbardmiljøloven).
+
+> Endret ved [lover 15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+
+### § 12. Andre oppsynsoppgaver
+
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdt[lov 14. juni 1884 nr. 3](lov/1884-06-14-3) om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet[lov 21. juni 1963 nr. 12](lov/1963-06-21-12) om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomstersjøloven kapittel 6 A. Politiets kompetanse etter [sjøloven § 145](lov/1994-06-24-39/§145) og regler gitt i medhold av den, gjelder tilsvarende for Kystvakten[lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet[småbåtloven kapittel 3](lov/1998-06-26-47/kap3)[skipssikkerhetsloven, med unntak av kapittel 5](lov/2007-02-16-9/kap5)[utlendingsloven](lov/2008-05-15-35)[grenseloven](lov/2018-04-20-8), og[havne- og farvannsloven](lov/2019-06-21-70).
+
+Det samme gjelder bestemmelser gitt i medhold av [lov av 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard som regulerer andre forhold enn de som er nevnt i [§§ 9](lov/1997-06-13-42/§9) andre ledd og [11](lov/1997-06-13-42/§11) andre ledd.
+
+> Endret ved [lover 26 juni 1998 nr. 47](lov/1998-06-26-47) (ikr. 1 jan 1999 iflg. [res. 27 nov 1998 nr. 1094](forskrift/1998-11-27-1094)), [25 juni 2004 nr. 52](lov/2004-06-25-52) (ikr. 1 juli 2005 iflg. [res. 1 juli 2005 nr. 787](forskrift/2005-07-01-787)), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [17 apr 2009 nr. 19](lov/2009-04-17-19) (ikr. 1 jan 2010 iflg. [res. 4 des 2009 nr. 1456](forskrift/2009-12-04-1456)), [19 juni 2009 nr. 41](lov/2009-06-19-41) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [21 juni 2019 nr. 70](lov/2019-06-21-70) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 872](forskrift/2019-06-21-872)).
+
+### § 13. Unntak
+
+Kongen kan fastsette at overholdelsen av bestemmelser gitt i eller i medhold av lov som er nevnt i [§§ 9](lov/1997-06-13-42/§9), [10](lov/1997-06-13-42/§10), [11](lov/1997-06-13-42/§11) eller [12](lov/1997-06-13-42/§12), likevel ikke skal kunne kontrolleres av Kystvakten.
+
+### § 14. Redningsaksjoner
+
+Kystvakten skal delta i og gjennomføre søk og redningsaksjoner ved faresituasjoner og ulykker til sjøs, og skal så langt det er mulig yte bistand til person som er alvorlig syk eller skadet eller av andre årsaker er i åpenbar nød.
+
+### § 15. Kontroll i forbindelse med vitenskapelige undersøkelser m.v.
+
+Kystvakten kan føre kontroll med personer, fartøyer eller faste innretninger som driver vitenskapelige undersøkelser eller annen forskningsvirksomhet.
+
+### § 16. Rapportering om og uskadeliggjøring av drivende gjenstander
+
+Kystvakten skal så langt det er mulig rapportere om og eventuelt uskadeliggjøre drivende gjenstander som representerer en umiddelbar fare for betydelig skade på personer, fartøyer, faste innretninger eller det ytre miljø.
+
+Kongen kan gi nærmere bestemmelser om uskadeliggjøring av drivende gjenstander.
+
+### § 17. Bistand til politiet og andre statsetater
+
+Kystvakten kan yte bistand til politiet, herunder i forbindelse med forebyggelse og bekjempelse av forbrytelser og ulovlige aksjoner mot personer, fartøyer eller faste innretninger.
+
+Kystvakten kan også yte nødvendig bistand, hjelp og beskyttelse til andre statsetater som har behov for fartøyer under utførelsen av sin virksomhet.
+
+Nærmere bestemmelser kan gis av Kongen.
+
+Reglene i første og andre ledd gjør ingen innskrenkning i militære myndigheters plikt til å bistå statsetater i medhold av bestemmelser fastsatt i andre lover.
+
+### § 18. Anløpskontroll
+
+Kystvakten kan føre kontroll med at de til enhver tid gjeldende bestemmelser om fartøyers anløp av og ferdsel i sjøterritoriet og det indre farvann overholdes.
+
+## Kapittel 4. Forholdet til andre kontrollmyndigheter
+
+### § 19. Forholdet til andre kontrollmyndigheter
+
+Bestemmelsene i denne lov gjør ingen innskrenkning i den myndighet som ved lov eller annen bestemmelse er tillagt andre kontrollmyndigheter, politi eller påtalemyndighet.
+
+Med mindre annet er bestemt av Kongen, skal Kystvaktens kontroll i medhold av §§ 10-12, så langt mulig skje etter anmodning fra vedkommende kontrollmyndighet.
+
+Kontroll i Svalbards indre farvann og sjøterritorium skal i alle tilfeller skje i samsvar med direktiver gitt av Sysselmesteren på Svalbard.
+
+> Endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 20. Meddelelse av opplysninger
+
+Kystvaktens tjenestemenn kan uten hinder av taushetsplikt gi vedkommende kontrollmyndighet, politi eller påtalemyndighet opplysninger som har naturlig sammenheng med Kystvaktens oppgaver i medhold av denne lov.
+
+Taushetsplikt som påhviler tjenestemenn i andre kontrollmyndigheter, politi og påtalemyndighet er ikke til hinder for at disse meddeler opplysninger som nevnt i første ledd til Kystvakten.
+
+Kongen kan gi nærmere bestemmelser om utveksling av opplysninger etter første og annet ledd.
+
+## Kapittel 5. Kontroll- og tvangstiltak
+
+### § 21. Politimyndighet og etterforskning
+
+Kystvaktens tjenestemenn har begrenset politimyndighet når det gjelder kontroll med overholdelsen av bestemmelser gitt i eller i medhold av denne lov eller de lovene som det er vist til i [§§ 9](lov/1997-06-13-42/§9) til [12](lov/1997-06-13-42/§12).
+
+Kystvaktens tjenestemenn kan foreta etterforskning ved mistanke om overtredelse av bestemmelser gitt i eller i medhold av denne lov eller de lovene som det er vist til i [§§ 9](lov/1997-06-13-42/§9) til [12](lov/1997-06-13-42/§12), ved andre straffbare handlinger som er begått innenfor Kystvaktens jurisdiksjonsområde, jf. [§ 3](lov/1997-06-13-42/§3), og ellers etter begjæring av vedkommende påtalemyndighet.
+
+Kongen kan gi nærmere bestemmelser om Kystvaktens politimyndighet.
+
+### § 22. Utøvelse av kontroll- og tvangstiltak i Svalbards indre farvann og sjøterritorium
+
+Utøvelse av kontroll- og tvangstiltak i Svalbards indre farvann og sjøterritorium skal bare skje i samsvar med direktiver gitt av Sysselmesteren på Svalbard.
+
+> Endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+
+### § 23. Opprettholdelse av ro og orden i redningsområder
+
+Kystvakten kan treffe de tiltakene som er nødvendige for å opprettholde ro og orden i redningsområder, herunder sikre og skjerme områdene mot uvedkommende.
+
+Kongen kan gi nærmere bestemmelser om de tiltak Kystvakten kan treffe i medhold av første ledd.
+
+### § 24. Opprettholdelse av ro og orden på fiske- og fangstfelter
+
+Kystvakten kan treffe de tiltakene som er nødvendige for å opprettholde ro og orden på fiske- og fangstfelter, herunder sikre og skjerme områdene mot uvedkommende.
+
+Kongen kan gi nærmere bestemmelser om de tiltak som Kystvakten kan treffe i medhold av første ledd.
+
+### § 25. Oppbringelse
+
+Ved skjellig grunn til mistanke om straffbar handling som nevnt i [§ 36](lov/1997-06-13-42/§36) eller overtredelse av bestemmelser som nevnt i [§ 9](lov/1997-06-13-42/§9), kan påtalemyndigheten eller Kystvakten beordre det mistenkte fartøyet til norsk havn.
+
+Om nødvendig kan det settes prisemannskap ombord. Prisemannskapet overtar kommandoen over fartøyet i den utstrekning det er nødvendig for å føre fartøyet til norsk havn.
+
+### § 26. Pågripelse, ransaking og beslag
+
+Ved mistanke som nevnt i [§ 25](lov/1997-06-13-42/§25) første ledd, kan politiet eller Kystvakten foreta ransaking av person, fartøy og fast innretning.
+
+For øvrig kan pågripelse, ransaking og beslag skje etter reglene i [lov av 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker.
+
+### § 27. Alminnelige regler om hvordan kystvakttjenesten skal utøves
+
+Kystvakten kan ta i bruk straffeprosessuelle tvangsmidler og foreta andre fysiske inngrep mot person, fartøy eller fast innretning, i den utstrekning det aktuelle tvangsmiddel eller inngrep fremstår som nødvendig, og står i forhold til situasjonens alvor, tjenestehandlingens formål og omstendighetene forøvrig.
+
+Beslutning om oppbringelse, pågripelse, ransaking og beslag skal være skriftlig og inneholde betegnelse av den mistenkte, en kort beskrivelse av det straffbare forhold og grunnen til inngrepet. Er det fare ved opphold, kan beslutningen gis muntlig, men skal da snarest mulig nedtegnes.
+
+Ved anvendelse av tvangstiltak mot utenlandsk fartøy, skal flaggstaten uten opphold underrettes.
+
+### § 28. Utfyllende bestemmelser
+
+Kongen kan gi nærmere bestemmelser om Kystvaktens bruk av kontroll- og tvangstiltak.
+
+### § 29. Inspeksjonsrett m.v.
+
+Ved utøvelsen av Kystvaktens kontroll i medhold av [§ 9](lov/1997-06-13-42/§9), kan Kystvakten stanse fartøyer og undersøke fartøyer og faste innretninger. Kystvakten skal under sin kontrollvirksomhet gis uhindret adgang til fartøyer og faste innretninger.
+
+Kystvakten kan pålegge ansvarshavende på fartøy å stanse fiske eller fangst og trekke trål eller annet redskap. Under sin kontrollvirksomhet kan Kystvakten selv gjennomføre aktive tiltak for å stanse fiske eller fangst, som trekking eller kutting av redskap og lignende inngrep.
+
+Inspektører kan plasseres om bord for inspeksjonsoppdrag. Nødvendig kost og losji skal gis på fartøyets eller den faste innretningens kostnad. Inspektøren skal uten vederlag gis adgang til å benytte radio eller annet kommunikasjonsutstyr.
+
+Ansvarshavende på fartøy eller fast innretning skal gi nødvendig bistand og opplysninger, herunderlegge frem relevante gjenstander og dokumenter, bl.a. dagbøker,avgi og bekrefte kopi av dokumenter, datautskrifter m.m.,tillate kontroll av ferdsskriver om bord,tillate merknader om overtredelser i skipsdagbok, fangstdagbok, mottaksjournal eller lignende.
+
+Ansvarshavende skal undertegne den rapport inspektøren setter opp, men kan påføre rapporten de merknader vedkommende finner nødvendig.
+
+### § 30. Håndheving ved bevaring og forvaltning av vandrende fiskebestander m.v.
+
+Kongen kan ved forskrift fastsette nærmere bestemmelser om kontroll og håndhevelse i henhold til avtale av 4. desember 1995 om gjennomføring av bestemmelsene i De forente nasjoners [havrettskonvensjon av 10.](traktat/1982-12-10-1) desember 1982 om bevaring og forvaltning av vandrende fiskebestander og langtmigrerende fiskebestander.
+
+### § 31. Visitasjonsrett m.m. ved anløpskontroll
+
+Ved utøvelsen av Kystvaktens kontroll i medhold av [§ 18](lov/1997-06-13-42/§18), kan Kystvaktens tjenestemenn visitere fartøy, herunder dets papirer, last, utstyr og personer om bord.
+
+Føreren av fartøyet skal yte all assistanse for å lette visiteringen, herunder stille fartøyets kommunikasjonsutstyr til rådighet uten vederlag. På oppfordring skal føreren gi opplysninger av interesse for norske myndigheter.
+
+Ved overtredelse av bestemmelser som nevnt i [§ 18](lov/1997-06-13-42/§18), kan Kystvakten gi fartøyet pålegg om å forlate norsk territorialfarvann straks eller innen en nærmere fastsatt og rimelig tidsfrist. Fartøyet kan bringes inn til nærmeste politimyndighet for påtale og straffeforfølging.
+
+Reglene i denne paragraf gjelder ikke for fremmede militære fartøyer eller for andre fartøyer som utelukkende brukes til statsformål av offentligrettslig art og som en fremmed stat eier, nytter eller har befraktet i sin helhet.
+
+### § 32. Tiltak ved kontroll med vitenskapelig undersøkelsesvirksomhet m.v.
+
+Kystvakten kan kreve at vitenskapelige undersøkelser eller annen forskningsvirksomhet suspenderes eller stanses dersom fastsatte vilkår for å utføre slik virksomhet ikke er fulgt.
+
+### § 33. Tiltak ved kontroll med overholdelsen av lover som nevnt i §§ 10-12
+
+Ved utøvelsen av Kystvaktens kontroll i medhold av [§§ 10](lov/1997-06-13-42/§10), [11](lov/1997-06-13-42/§11) eller [12](lov/1997-06-13-42/§12), har Kystvakten, med de begrensninger som følger av [§ 19](lov/1997-06-13-42/§19), samme myndighet som vedkommende kontrollmyndighet til å foreta undersøkelser, gi pålegg og iverksette kontroll- eller tvangstiltak.
+
+### § 34. Funksjonsfordeling mellom Kystvakten og påtalemyndigheten
+
+Kystvakten er ved etterforskning og anvendelse av tvangsmidler underlagt påtalemyndigheten.
+
+Har Kystvakten foretatt oppbringelse, beslag eller pågripelse, skal saken snarest overlates til vedkommende politidistrikt for videre forfølgning.
+
+Påtalemyndigheten kan beslutte fartøy holdt tilbake til sikring av mulig formuesstraff.
+
+Beslutning om tilbakehold etter tredje ledd eller oppbringelse skal snarest mulig bringes inn for retten, som avgjør om det skal foretas hefte i fartøyet etter reglene i [§ 35](lov/1997-06-13-42/§35) eller om fartøyet skal frigis.
+
+### § 35. Hefte
+
+For å sikre betaling av bot, inndragning eller saksomkostninger som antas å ville bli ilagt etter [§ 36](lov/1997-06-13-42/§36) eller lov som omfattes av [§§ 9](lov/1997-06-13-42/§9) til [12](lov/1997-06-13-42/§12), kan retten på begjæring av påtalemyndigheten beslutte hefte i fartøyet for et bestemt beløp, når det er grunn til å frykte at fullbyrdingen ellers ville bli forspilt eller vesentlig vanskeliggjort. Slikt hefte kan tas selv om fartøyet ikke tilhører siktede.
+
+Når det er tatt hefte i et fartøy, må det ikke forlate det sted hvor det ligger. Ligger fartøyet ikke i havn, skal beslutningen om hefte inneholde påbud om å gå til nærmere angitt sted.
+
+Hefte kan avverges ved at det stilles annen tilfredsstillende sikkerhet.
+
+Heftet faller bort når påtalemyndigheten frafaller det, eller når retten ved kjennelse beslutter det, fordi grunnlaget for heftet er falt bort.
+
+For øvrig gjelder bestemmelsene om arrest i [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) og [33](lov/2005-06-17-90/kap33) tilsvarende for hefte etter denne paragraf så langt de passer.
+
+> Endret ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875)).
+
+## Kapittel 6. Straffebestemmelser
+
+### § 36. Straffansvar
+
+Med bøter eller fengsel inntil 6 måneder straffes den som:unnlater å følge ordre gitt av Kystvakten,unnlater å yte pliktig bistand,unnlater å gi pliktige opplysninger,legger frem uriktige dokumenter,gir uriktige opplysninger,på annen måte søker å villede Kystvakten, ellersom ved beskadigelse eller oppgivelse av fartøy, innretning eller redskap forspiller bevis.
+
+Under særdeles skjerpende omstendigheter kan fengsel inntil 2 år anvendes.
+
+Uaktsom overtredelse av første ledd bokstav a til c er også straffbar.
+
+Fengselsstraff får ikke anvendelse når overtredelsen i henhold til folkeretten bare kan straffes med bøter.
+
+Forsøk straffes på samme måte som fullbyrdet overtredelse.
+
+Fører av fartøy kan vedta forelegg på oppdragsgiverens vegne. Oppdragsgiveren kan også ilegges straff, inndragning og saksomkostninger i sak som reises mot fartøyføreren.
+
+Er overtredelsen begått av besetningsmedlem på et fartøy og straffansvaret i den anledning kan gjøres gjeldende mot fartøyføreren, blir den underordnede ikke å straffe.
+
+Bestemmelsen her får ikke anvendelse dersom forholdet rammes av en strengere straffebestemmelse.
+
+> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## Kapittel 7. Ikrafttredelse. Endringer i andre lover
+
+### § 37. Ikrafttredelse
+
+Loven trer i kraft fra den tid1 Kongen bestemmer.
+
+### § 38. Endringer i annen lovgivning
+
+Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+> Endret ved [lov 17 juli 1998 nr. 57](lov/1998-07-17-57).

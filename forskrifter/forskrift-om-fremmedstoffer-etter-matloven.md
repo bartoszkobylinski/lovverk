@@ -1,0 +1,36 @@
+---
+id: "sf-20010328-0357"
+slug: "forskrift-om-fremmedstoffer-etter-matloven"
+type: "forskrift"
+ref_id: "forskrift/2001-03-28-357"
+title: "Forskrift om fortegnelse over fremmedstoffer som omfattes av matloven."
+short_title: "Forskrift om fremmedstoffer etter matloven"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+  - "Landbruks- og matdepartementet"
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2001-03-28"
+last_change_in_force: "2012-05-30"
+last_updated: null
+xml_hash: "ddf68fc12461ab1dec02e805e307e1f758ee5954d73fdd586d54ec8bd200795d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fortegnelse over fremmedstoffer som omfattes av matloven.
+
+## § 1. Fortegnelse over fremmedstoffer
+
+Matloven gjelder for følgende forbudte stoffer:Beta-agonisterResorsylsyre-laktoner (herunder zeranol)Stoffer med androgen, gestagen eller østrogen virkningStilbener, stilbenderivater samt salter og estereTyreostatikaAristolochia spp. og preparater av slikeColchicinDapsonDimetridazolKloramfenikolKloroformKlorpromazinMetronidazolNitrofuraner (herunder furazolidon)RonidazolStoffer med manglende grenseverdi for rester, jf. [forskrift 30. mai 2012 nr. 512](forskrift/2012-05-30-512) om grenseverdier for legemiddelrester i næringsmidler fra dyr, forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EU) nr. 37/2010](eu/32010r0037*).
+
+Matloven gjelder også for stoffene angitt i direktiv [96/23/EF](eu/31996l0023) vedlegg I gruppe B.
+
+> Endret ved [forskrifter 9 jan 2004 nr. 91](forskrift/2004-01-09-91), [30 mai 2012 nr. 514](forskrift/2012-05-30-514).
+
+## § 2. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.

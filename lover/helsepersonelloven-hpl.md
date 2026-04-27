@@ -1,0 +1,960 @@
+---
+id: "nl-19990702-064"
+slug: "helsepersonelloven-hpl"
+type: "lov"
+ref_id: "lov/1999-07-02-64"
+title: "Lov om helsepersonell m.v. (helsepersonelloven)"
+short_title: "Helsepersonelloven – hpl"
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2001-01-01"
+last_change_in_force: "2026-04-15"
+last_updated: "2022-03-25"
+xml_hash: "906605553da33dc046409a962678c3461ab3cca3b1319b30e874d4abcafcdac4"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om helsepersonell m.v. (helsepersonelloven)
+
+## Kapittel 1. Lovens formål, virkeområde og definisjoner
+
+### § 1. Lovens formål
+
+Lovens formål er å bidra til sikkerhet for pasienter og kvalitet i helse- og omsorgstjenesten samt tillit til helsepersonell og helse- og omsorgstjenesten.
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 2. Lovens virkeområde
+
+Loven gjelder helsepersonell og virksomheter som yter helsehjelp i riket.
+
+Kongen gir forskrifter om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold.
+
+I den utstrekning Kongen bestemmer i forskrift, gjelder loven for personer på norske skip i utenriksfart, i norske sivile luftfartøyer i internasjonal trafikk, på installasjoner og fartøy i arbeid på norsk kontinentalsokkel og på norsk redningsansvarsområde.
+
+### § 3. Definisjoner
+
+Med helsepersonell menes i denne lov:personell med autorisasjon etter [§ 48 a](lov/1999-07-02-64/§48a) eller lisens etter [§ 49](lov/1999-07-02-64/§49),personell i helse- og omsorgstjenesten eller i apotek som utfører handlinger som nevnt i tredje ledd,elever og studenter som i forbindelse med helsefaglig opplæring utfører handlinger som nevnt i tredje ledd.
+
+Departementet kan i forskrift bestemme at loven eller enkelte bestemmelser i loven skal gjelde for nærmere angitt personell som ikke omfattes av første ledd, herunder personell som Norge etter folkerettslige regler er forpliktet til å gi rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning.1
+
+Med helsehjelp menes enhver handling som har forebyggende, diagnostisk, behandlende, helsebevarende, rehabiliterende eller pleie- og omsorgsformål og som utføres av helsepersonell.
+
+Med helseinstitusjon menes institusjon som hører under [spesialisthelsetjenesteloven](lov/1999-07-02-61) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30). Departementet kan i forskrift fastsette nærmere bestemmelser om hvilke institusjoner som skal omfattes.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)).
+
+## Kapittel 2. Krav til helsepersonells yrkesutøvelse
+
+### § 4. Forsvarlighet
+
+Helsepersonell skal utføre sitt arbeid i samsvar med de krav til faglig forsvarlighet og omsorgsfull hjelp som kan forventes ut fra helsepersonellets kvalifikasjoner, arbeidets karakter og situasjonen for øvrig.
+
+Helsepersonell skal innrette seg etter sine faglige kvalifikasjoner, og skal innhente bistand eller henvise pasienter videre der dette er nødvendig og mulig. Dersom pasientens behov tilsier det, skal yrkesutøvelsen skje ved samarbeid og samhandling med annet kvalifisert personell. Helsepersonell har plikt til å delta i arbeid med individuell plan når en pasient eller bruker har rett til slik plan etter [pasient- og brukerrettighetsloven § 2-5](lov/1999-07-02-63/§2-5).
+
+Ved samarbeid med annet helsepersonell, skal legen og tannlegen ta beslutninger i henholdsvis medisinske og odontologiske spørsmål som gjelder undersøkelse og behandling av den enkelte pasient.
+
+Departementet kan i forskrift bestemme at visse typer helsehjelp bare kan gis av personell med særskilte kvalifikasjoner.
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 4 a. Kompetansekrav for kosmetiske inngrep, injeksjoner og behandling
+
+Kosmetiske inngrep, injeksjoner og behandling som kan påføre pasienten alvorlig skade, sykdom, komplikasjon eller bivirkning, kan bare utføres av helsepersonell.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hva slags behandling som omfattes av første punktum.
+
+> Tilføyd ved [lov 1 april 2022 nr. 18](lov/2022-04-01-18) (i kraft 1 juli 2022 iflg. [res. 1 april 2022 nr. 518](forskrift/2022-04-01-518)).
+
+### § 4 b. Aldersgrense for kosmetiske inngrep, injeksjoner og behandling uten medisinsk eller odontologisk begrunnelse
+
+Kosmetiske inngrep, injeksjoner eller behandling etter [§ 4 a](lov/1999-07-02-64/§4a), eller som utføres av helsepersonell, uten medisinsk eller odontologisk begrunnelse skal ikke foretas på pasienter under 18 år. For mindre risikofylte former for kosmetisk behandling som ikke kan påføre pasienten alvorlig skade, sykdom, komplikasjoner eller bivirkninger, typisk hudpleie o.l., vil det ikke være 18-årsgrense dersom behandlingen utføres av andre enn helsepersonell.
+
+Med kosmetisk inngrep, injeksjoner eller behandling uten medisinsk eller odontologisk begrunnelse menes inngrep, injeksjon eller behandling hvor kosmetiske eller estetiske hensyn er den avgjørende begrunnelsen for inngrepet, injeksjonen eller behandlingen.
+
+Første ledd gjelder ikke korrektive inngrep eller annen behandling ved misdannelser, skade eller sykdom, eller etter behandling av slike tilstander, samt tannregulering eller annen tannbehandling som er odontologisk begrunnet, men som samtidig har en kosmetisk betydning.
+
+> Tilføyd ved [lov 1 april 2022 nr. 18](lov/2022-04-01-18) (i kraft 1 juli 2022 iflg. [res. 1 april 2022 nr. 518](forskrift/2022-04-01-518)).
+
+### § 5. Bruk av medhjelpere
+
+Helsepersonell kan i sin virksomhet overlate bestemte oppgaver til annet personell hvis det er forsvarlig ut fra oppgavens art, personellets kvalifikasjoner og den oppfølgning som gis. Medhjelpere er underlagt helsepersonells kontroll og tilsyn.
+
+Elever og studenter skal som regel bare gis oppgaver ut fra hensynet til opplæring.
+
+### § 6. Ressursbruk
+
+Helsepersonell skal sørge for at helsehjelpen ikke påfører pasient, helseinstitusjon, trygden eller andre unødvendig tidstap eller utgift.
+
+> Endret ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)).
+
+### § 7. Øyeblikkelig hjelp
+
+Helsepersonell skal straks gi den helsehjelp de evner når det må antas at hjelpen er påtrengende nødvendig. Med de begrensninger som følger av [pasient- og brukerrettighetsloven § 4-9](lov/1999-07-02-63/§4-9), skal nødvendig helsehjelp gis selv om pasienten ikke er i stand til å samtykke, og selv om pasienten motsetter seg helsehjelpen.
+
+Ved tvil om helsehjelpen er påtrengende nødvendig, skal helsepersonell foreta nødvendige undersøkelser.
+
+Plikten gjelder ikke i den grad annet kvalifisert helsepersonell påtar seg ansvaret for å gi helsehjelpen.
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 8. Pliktmessig avhold
+
+Helsepersonell skal ikke innta eller være påvirket av alkohol eller andre rusmidler i arbeidstiden.
+
+Legemidler som er nødvendige på grunn av sykdom, regnes ikke som rusmidler etter første ledd. Helsepersonell som inntar slike legemidler, skal snarest orientere sin arbeidsgiver om dette.
+
+Departementet kan i forskrift gi bestemmelser om:at helsepersonell skal kunne pålegges å avgi utåndingsprøve, blodprøve eller lignende prøve ved mistanke om overtredelse av første ledd,forbud mot inntak av rusmidler i et nærmere bestemt tidsrom før tjenestetiden begynner, ogat helsepersonell skal kunne bli fremstilt for prøvetaking med bistand fra politiet i de tilfellene helsepersonell nekter, eller på annen måte unndrar seg, å avgi prøve.
+
+> Endret ved [lov 4 mai 2012 nr. 23](lov/2012-05-04-23).
+
+### § 9. Forbud mot gaver m.v. i tjenesten
+
+Helsepersonell må verken på egne eller andres vegne motta gave, provisjon, tjeneste eller annen ytelse som er egnet til å påvirke helsepersonells tjenestlige handlinger på en utilbørlig måte.
+
+Helsepersonell må heller ikke motta fra pasient eller bruker gave, provisjon, tjeneste eller annen ytelse som har mer enn en ubetydelig verdi.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke ytelser som er omfattet av første og annet ledd.
+
+> Endret ved [lov 22 juni 2012 nr. 46](lov/2012-06-22-46).
+
+### § 10. Informasjon til pasienter m.v.
+
+Den som yter helse- og omsorgstjenester, skal gi informasjon til den som har krav på det etter reglene i [pasient- og brukerrettighetsloven §§ 3-2](lov/1999-07-02-63/§3-2) til [3-4](lov/1999-07-02-63/§3-4). I helseinstitusjoner skal informasjon etter første punktum gis av den som helseinstitusjonen utpeker.
+
+Departementet kan i forskrift gi nærmere bestemmelser om plikten til informasjon.
+
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2012 nr. 46](lov/2012-06-22-46).
+
+### § 10 a. Helsepersonells plikt til å bidra til å ivareta mindreårige barn som er pårørende til foreldre eller søsken
+
+Helsepersonell skal bidra til å ivareta det behovet for informasjon og nødvendig oppfølging som mindreårige barn kan ha som følge av at barnets forelder eller søsken er pasient med psykisk sykdom, rusmiddelavhengighet eller alvorlig somatisk sykdom eller skade.
+
+Helsepersonell som yter helsehjelp til pasient som nevnt i første ledd, skal søke å avklare om pasienten har mindreårige barn eller mindreårige søsken og vedkommendes informasjons- eller oppfølgingsbehov.
+
+Når det er nødvendig for å ivareta behovet til pasientens mindreårige barn, skal helsepersonellet blant annetsamtale med pasienten om barnets informasjons- eller oppfølgingsbehov og tilby informasjon og veiledning om aktuelle tiltak. Innenfor rammene av taushetsplikten skal helsepersonellet også tilby barnet og andre som har omsorg for barnet, å ta del i en slik samtaleinnhente samtykke til å foreta oppfølging som helsepersonellet anser som hensiktsmessigbidra til at barnet og personer som har omsorg for barnet, i overensstemmelse med reglene om taushetsplikt, gis informasjon om pasientens sykdomstilstand, behandling og mulighet for samvær. Informasjonen skal gis i en form som er tilpasset mottakerens individuelle forutsetninger.
+
+Når det er nødvendig for å ivareta behovet til pasientens mindreårige søsken, skal helsepersonellet blant annet tilby informasjon og veiledning om aktuelle tiltak. Så langt det er mulig, skal det gjøres i samråd med foreldre eller andre som har omsorgen for søskenet. Tredje ledd bokstav b og c gjelder tilsvarende.
+
+Departementet kan i forskrift gi nærmere bestemmelser om innholdet i helsepersonellets plikter etter denne bestemmelsen.
+
+> Tilføyd ved [lov 19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), endret ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)).
+
+### § 10 b. Helsepersonells plikt til å bidra til å ivareta mindreårige barn som er etterlatte etter foreldre eller søsken
+
+Helsepersonell skal bidra til å ivareta det behovet for informasjon og nødvendig oppfølging som mindreårige barn kan ha som følge av at en forelder eller et søsken dør.
+
+Helsepersonell skal, så langt det er mulig i samråd med foreldre eller andre med omsorgen for barnet, søke å avklare barnets informasjons- eller oppfølgingsbehov og tilby informasjon og veiledning om aktuelle tiltak. Når det er nødvendig for å ivareta barnets behov, skal helsepersonell innhente samtykke til å foreta oppfølging som helsepersonellet anser som hensiktsmessig.
+
+Informasjonen skal gis i en form som er tilpasset mottakerens individuelle forutsetninger, og opplysninger om avdøde skal gis innenfor rammene som følger av [§ 24](lov/1999-07-02-64/§24).
+
+Departementet kan i forskrift gi nærmere bestemmelser om innholdet i helsepersonellets plikter etter denne bestemmelsen.
+
+> Tilføyd ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)).
+
+### § 11. Rekvirering av reseptbelagte legemidler
+
+Bare leger og tannleger kan rekvirere reseptbelagte legemidler. Departementet kan i forskrift bestemme at annet helsepersonell med autorisasjon eller lisens kan få begrenset rekvireringsrett.
+
+Departementet kan i forskrift gi nærmere bestemmelser om rekvirering av legemidler, herunder om utforming og utfylling av resept og rekvisisjonsblankett. Det kan også bestemmes at bestemte legemidler eller kategorier av legemidler helt eller delvis kan unntas fra denne retten.
+
+> Endret ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)).
+
+### § 12. Undersøkelser i forbindelse med straffbare forhold
+
+Lege, sykepleier, helsesekretær eller bioingeniør skal etter anmodning fra politiet ta blodprøve eller foreta lignende undersøkelse av personer som er mistenkt for straffbart forhold under påvirkning av alkohol eller annet berusende eller bedøvende middel når dette er hjemlet i lov og kan skje uten fare.
+
+Lege skal etter anmodning fra påtalemyndigheten foreta kroppslig undersøkelse av mistenkte i straffesak når slik undersøkelse er besluttet etter [straffeprosessloven §§ 157](lov/1981-05-22-25/§157) eller [157 a](lov/1981-05-22-25/§157a). Videre skal lege etter anmodning fra kriminalomsorgen foreta kroppslig undersøkelse av en innsatt i fengselsanstalt når slik undersøkelse er besluttet etter reglene i [straffegjennomføringsloven § 29](lov/2001-05-18-21/§29).
+
+Ved anmodning om rusprøve fra politiet, ved vilkår for påtaleunnlatelse, fra kriminalomsorgen, ved vilkår for betinget dom, og fra konfliktrådet, ved gjennomføring av ungdomsstraff og ungdomsoppfølging, skal lege, sykepleier, helsesekretær og bioingeniør ta blodprøve eller lignende rusprøve av personer som var under 18 år på handlingstidspunket. Plikten inntrer når personen møter opp til prøvetaking
+
+Lege, sykepleier, helsesekretær eller bioingeniør har ingen plikt til å foreta undersøkelser etter første til tredje ledd av:ektefelle, samboer, registrert partner, forlovede eller av slektninger i rett opp- eller nedstigende linje, søsken eller like nær besvogrede. Likt med slektskap regnes adoptiv- og fosterforhold.person som helsepersonellet har til behandling.
+
+Departementet kan i forskrift gi nærmere bestemmelser om plikten til å foreta undersøkelser etter denne paragrafen, og herunder fastsette bestemmelser om begrensninger i plikten og om fritak.
+
+> Endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [6 feb 2015 nr. 8](lov/2015-02-06-8) (som etter sin ordlyd endrer tredje ledd, her er endringen innført i fjerde ledd), [19 juni 2015 nr. 60](lov/2015-06-19-60) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 674](forskrift/2015-06-19-674)), [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 12 a. Undersøkelser mv. etter pålegg fra Statens undersøkelseskommisjon for helse- og omsorgstjenesten
+
+Helsepersonell skal medvirke til eller underkaste seg utåndingsprøve, blodprøve og klinisk legeundersøkelse som pålegges av undersøkelseskommisjonen etter [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 9](lov/2017-06-16-56/§9) andre ledd.
+
+> Tilføyd ved [lov 16 juni 2017 nr. 56](lov/2017-06-16-56) (ikr. 1 mai 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)).
+
+### § 13. Markedsføring
+
+Markedsføring av helse- og omsorgstjenester skal være forsvarlig, nøktern og saklig.
+
+Ved markedsføring av virksomhet som yter helse- og omsorgstjenester, gjelder første ledd tilsvarende.
+
+Departementet kan i forskrift gi nærmere bestemmelser om markedsføring av helse- og omsorgstjenester, og kan herunder fastsette forbud mot visse former for markedsføring.
+
+> Endret ved [lov 22 juni 2012 nr. 46](lov/2012-06-22-46).
+
+### § 14. Beordring av helsepersonell til vaktordninger
+
+Departementet kan bestemme at helsepersonell skal delta i vaktordning på det sted der de bor eller arbeider.
+
+Departementet kan gi nærmere forskrifter om gjennomføring m.v. av vaktordninger.
+
+### § 15. Krav til attester, erklæringer o.l.
+
+Den som utsteder attest, erklæring o.l. skal være varsom, nøyaktig og objektiv. Attest, erklæring o.l. skal være korrekt og bare inneholde opplysninger som er nødvendige for formålet. Attest, erklæring o.l. skal inneholde alle opplysninger som helsepersonellet bør forstå er av betydning for mottageren og for formålet med attesten, erklæringen o.l. Helsepersonellet skal gjøre det klart dersom attesten, erklæringen o.l. bare bygger på en begrenset del av de relevante opplysningene helsepersonellet har. Helsepersonell som er inhabil etter [forvaltningsloven § 6](lov/1967-02-10/§6), skal ikke utstede attest, erklæring o.l.
+
+Når helsepersonell forstår at det kan ha særlig betydning hvordan spesielt sensitive faktiske forhold beskrives i en attest, erklæring o.l. til et forsikringsselskap, skal han eller hun ta dette opp med pasienten.
+
+Når det skal utleveres helseopplysninger til et forsikringsselskap, og selskapet kan forstå disse opplysningene som uttrykk for en alvorlig sykdom, skal pasienten orienteres om dette først, dersom det må antas at han eller hun er ukjent med forholdet.
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om utforming av og innhold i attester, erklæringer o.l.
+
+> Endret ved lover [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750)) som endret ved [lov 14 nov 2008 nr. 80](lov/2008-11-14-80).
+
+## Kapittel 3. Krav til organisering av virksomhet
+
+### § 16. Organisering av virksomhet som yter helse- og omsorgstjenester
+
+Virksomhet som yter helse- og omsorgstjenester, skal organiseres slik at helsepersonellet blir i stand til å overholde sine lovpålagte plikter.
+
+Departementet kan i forskrift fastsette nærmere bestemmelser om ordinering av legemidler gjennom virksomhetens prosedyrer som skal kunne erstatte leges eller tannleges individuelle ordinering til enkeltpasienter.
+
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2012 nr. 46](lov/2012-06-22-46).
+
+### § 17. Opplysninger om forhold som kan medføre fare for pasienter eller brukere
+
+Helsepersonell skal av eget tiltak gi tilsynsmyndighetene informasjon om forhold som kan medføre fare for pasienters eller brukeres sikkerhet. Det skal ikke gis informasjon om taushetsbelagte opplysninger.
+
+> Endret ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)).
+
+## Kapittel 4. Særskilte regler i tilknytning til autorisasjon, krav om politiattest m.v.
+
+> Overskriften endret ved [lov 22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)).
+
+### § 18. Melding om helsepersonells virksomhet
+
+Helsepersonell med autorisasjon eller lisens i privat virksomhet skal gi melding til kommune eller regionalt helseforetak når de åpner, overtar eller trer inn i virksomhet som er omfattet av loven. Melding skal også gis ved virksomhetens opphør.
+
+Dersom helsepersonell skal yte tjenester til barn eller personer med utviklingshemning, skal politiattest som nevnt i [§ 20 a](lov/1999-07-02-64/§20a) vedlegges meldingen. Inneholder meldingen en politiattest med merknader, skal den straks oversendes statsforvalteren.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke opplysninger som skal gis etter første ledd, når disse skal gis og hvordan de skal registreres og formidles videre til et sentralt register.
+
+> Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417)), [22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 19. Melding til arbeidsgiver om bierverv og andre engasjement i annen virksomhet
+
+Helsepersonell med autorisasjon eller lisens skal av eget tiltak gi arbeidsgiveren opplysninger om bierverv og engasjement, eierinteresser o.l. i annen virksomhet som vil kunne komme i konflikt med hovedarbeidsgivers interesser.
+
+Arbeidsgiveren kan i tillegg kreve at helsepersonell med autorisasjon eller lisens gir opplysninger om all helsefaglig virksomhet som helsepersonellet utfører som selvstendig næringsdrivende, for andre arbeids- eller oppdragsgivere i Norge eller i utlandet, og om eierinteresser, samarbeidsforhold o.l.
+
+Det skal gis opplysning om virksomhetens navn og arten og omfanget av helsepersonells bierverv eller engasjement.
+
+Denne bestemmelsen begrenser ikke plikten til å opplyse om bierverv som følger av avtale eller andre rettsregler.
+
+### § 20. Plikter etter pasientskadeloven
+
+Den som utenfor den offentlige helse- og omsorgstjenesten yter helsehjelp som nevnt i [pasientskadeloven § 1](lov/2001-06-15-53/§1), skal melde fra og yte tilskudd til Norsk Pasientskadeerstatning etter [pasientskadeloven § 8](lov/2001-06-15-53/§8).
+
+> Endret ved lover [29 juni 2007 nr. 78](lov/2007-06-29-78) (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 20 a. Krav om politiattest
+
+Den som skal yte spesialisthelsetjenester og tannhelsetjenester til barn, skal fremlegge politiattest som nevnt i [politiregisterloven § 39](lov/2010-05-28-16/§39) første ledd ved tilbud om stilling, ved inngåelse av avtale etter [tannhelsetjenesteloven § 4-2](lov/1983-06-03-54/§4-2) første ledd og [spesialisthelsetjenesteloven § 2-1 a](lov/1999-07-02-61/§2-1a) syvende ledd, samt ved melding om åpning, overtagelse og inntreden i privat virksomhet, jf. [§ 18](lov/1999-07-02-64/§18).
+
+Den som skal yte spesialisthelsetjenester og tannhelsetjenester til personer med utviklingshemming skal i tilfeller som nevnt i første ledd fremlegge politiattest som viser om vedkommende er siktet, tiltalt, har vedtatt forelegg eller er dømt for brudd på overtredelse av [straffeloven 1902 §§ 192](lov/1902-05-22-10/§192), [193](lov/1902-05-22-10/§193), [194](lov/1902-05-22-10/§194), [195](lov/1902-05-22-10/§195), [196](lov/1902-05-22-10/§196), [197](lov/1902-05-22-10/§197), [199](lov/1902-05-22-10/§199), [200](lov/1902-05-22-10/§200) annet ledd, [201](lov/1902-05-22-10/§201) første ledd bokstav c, [203](lov/1902-05-22-10/§203) eller [204 a](lov/1902-05-22-10/§204a) og [straffeloven 2005 §§ 291](lov/2005-05-20-28/§291), [293](lov/2005-05-20-28/§293), [294](lov/2005-05-20-28/§294), [295](lov/2005-05-20-28/§295), [296](lov/2005-05-20-28/§296), [299](lov/2005-05-20-28/§299), [301](lov/2005-05-20-28/§301), [302](lov/2005-05-20-28/§302), [303](lov/2005-05-20-28/§303), [304](lov/2005-05-20-28/§304), [305](lov/2005-05-20-28/§305), [309](lov/2005-05-20-28/§309), [310](lov/2005-05-20-28/§310), [311](lov/2005-05-20-28/§311), [312](lov/2005-05-20-28/§312) og [314](lov/2005-05-20-28/§314). Overtredelsen skal anmerkes i samsvar med [politiregisterloven § 41](lov/2010-05-28-16/§41) nr. 1.
+
+Plikten etter første og annet ledd omfatter ikke den som bare sporadisk yter slike tjenester og som i alminnelighet ikke vil være alene med barn eller personer med utviklingshemming.
+
+Politiattest som nevnt i første og annet ledd skal ikke være eldre enn tre måneder.
+
+Den som har vedtatt forelegg eller er dømt for overtredelser av [straffeloven 1902 §§ 192](lov/1902-05-22-10/§192), [193](lov/1902-05-22-10/§193), [194](lov/1902-05-22-10/§194), [195](lov/1902-05-22-10/§195), [196](lov/1902-05-22-10/§196), [197](lov/1902-05-22-10/§197), [199](lov/1902-05-22-10/§199), [200](lov/1902-05-22-10/§200) annet ledd, [201](lov/1902-05-22-10/§201) første ledd bokstav c, [203](lov/1902-05-22-10/§203) eller [204 a](lov/1902-05-22-10/§204a) eller [straffeloven 2005 §§ 291](lov/2005-05-20-28/§291), [293](lov/2005-05-20-28/§293), [294](lov/2005-05-20-28/§294), [295](lov/2005-05-20-28/§295), [296](lov/2005-05-20-28/§296), [299](lov/2005-05-20-28/§299), [301](lov/2005-05-20-28/§301), [302](lov/2005-05-20-28/§302), [303](lov/2005-05-20-28/§303), [304](lov/2005-05-20-28/§304), [305](lov/2005-05-20-28/§305), [309](lov/2005-05-20-28/§309), [310](lov/2005-05-20-28/§310), [311](lov/2005-05-20-28/§311), [312](lov/2005-05-20-28/§312) og [314](lov/2005-05-20-28/§314), er utelukket fra å yte helse- og omsorgstjenester til barn eller personer med utviklingshemming.
+
+Den som yter tjenester etter [helse- og omsorgstjenesteloven](lov/2011-06-24-30) skal fremlegge politiattest som nevnt i [helse- og omsorgstjenesteloven § 5-4](lov/2011-06-24-30/§5-4).
+
+> Tilføyd ved [lov 22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [11 des 2015 nr. 98](lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](forskrift/2015-12-11-1438)), [17 juni 2016 nr. 49](lov/2016-06-17-49) (ikr. 1 jan 2017 iflg. [res. 9 des 2016 nr. 1460](forskrift/2016-12-09-1460)), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)).
+
+## Kapittel 5. Taushetsplikt og opplysningsrett
+
+> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 21. Hovedregel om taushetsplikt
+
+Helsepersonell skal hindre at andre får adgang eller kjennskap til opplysninger om folks legems- eller sykdomsforhold eller andre personlige forhold som de får vite om i egenskap av å være helsepersonell.
+
+> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 21 a. Forbud mot urettmessig tilegnelse av taushetsbelagte opplysninger
+
+Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte opplysninger som nevnt i [§ 21](lov/1999-07-02-64/§21) uten at det er begrunnet i helsehjelp til pasienten, administrasjon av slik hjelp eller har særskilt hjemmel i lov eller forskrift.
+
+> Tilføyd ved [lov 9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 9 mai 2008 iflg. [res. 9 mai 2008 nr. 442](forskrift/2008-05-09-442)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 22. Samtykke til å gi informasjon
+
+Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er ikke til hinder for at opplysninger gjøres kjent for den opplysningene direkte gjelder, eller for andre i den utstrekning den som har krav på taushet samtykker. Et forsikringsselskap kan likevel ikke få adgang eller kjennskap til opplysninger som den opplysningene direkte gjelder, kan nektes innsyn i etter [pasient- og brukerrettighetsloven § 5-1](lov/1999-07-02-63/§5-1) annet ledd.
+
+For personer under 16 år gjelder reglene i [pasient- og brukerrettighetsloven § 4-4](lov/1999-07-02-63/§4-4) tilsvarende for samtykke etter første ledd.
+
+For personer over 16 år som ikke er i stand til å vurdere spørsmålet om samtykke av grunner som nevnt i [pasient- og brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) annet ledd, kan nærmeste pårørende gi samtykke etter første ledd.
+
+> Endret ved lover [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 23. Begrensninger i taushetsplikten
+
+Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er ikke til hinder for:at opplysninger gis den som fra før er kjent med opplysningene,at opplysninger gis når ingen berettiget interesse tilsier hemmelighold,at opplysninger gis videre når behovet for beskyttelse må anses ivaretatt ved at individualiserende kjennetegn er utelatt,at opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre,at opplysninger gis videre når helsepersonell gjennom sin yrkesutøvelse har grunn til å tro at dyr blir utsatt for slik mishandling eller alvorlig svikt vedrørende miljø, tilsyn og stell at det anses rettmessig å gi opplysningene videre til Mattilsynet eller politiet ellerat opplysningene gis videre etter regler fastsatt i lov eller i medhold av lov når det er uttrykkelig fastsatt eller klart forutsatt at taushetsplikt ikke skal gjelde.
+
+> Endret ved [lov 19 juni 2009 nr. 97](lov/2009-06-19-97) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 703](forskrift/2009-06-19-703)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 24. Opplysninger etter en persons død
+
+Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er ikke til hinder for at opplysninger om en avdød person gis videre dersom vektige grunner taler for dette. I vurderingen av om opplysninger skal gis, skal det tas hensyn til avdødes antatte vilje, opplysningenes art og de pårørende og samfunnets interesser.
+
+Nærmeste pårørende har rett til innsyn i journal etter en persons død hvis ikke særlige grunner taler mot det.
+
+> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 25. Opplysninger til samarbeidende personell
+
+Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til samarbeidende personell når dette er nødvendig for å kunne gi forsvarlig helsehjelp.
+
+Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er heller ikke til hinder for at personell som bistår med elektronisk bearbeiding av opplysningene, eller som bistår med service og vedlikehold av utstyr, får tilgang til opplysninger når slik bistand er nødvendig for å oppfylle lovbestemte krav til dokumentasjon.
+
+Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til samarbeidende personell når dette er nødvendig for å ivareta behovene til pasientens mindreårige barn eller mindreårige søsken, jf. [§ 10 a](lov/1999-07-02-64/§10a).
+
+Personell som nevnt i første, andre og tredje ledd har samme taushetsplikt som helsepersonell.
+
+> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 25 a. Opplysninger i helsefaglige arbeidsfellesskap
+
+Helsepersonell kan dele taushetsbelagte opplysninger i helsefaglige arbeidsfellesskap. Formålet skal være å støtte helsepersonell i å treffe beslutninger om helsehjelp til en pasient, å sikre forsvarlig opplæring av helsepersonell eller å gjennomføre helsehjelp i virksomheten. Pasienten kan motsette seg slik deling av opplysninger.
+
+Det kan ikke gjøres oppslag i journaler på grunnlag av først ledd.
+
+> Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 25 b. Opplysninger for å yte helsehjelp til en annen pasient
+
+Lege og tannlege virksomheten utpeker kan etter anmodning og uten hinder av taushetsplikt, tilgjengeliggjøre opplysninger om en pasient til lege eller tannlege for ytelse av helsehjelp til en annen pasient, i en konkret behandlingssituasjon. Det kan bare deles opplysninger som er relevante og nødvendige for ytelse av helsehjelp til den andre pasienten.
+
+Virksomheten skal til enhver tid ha en oppdatert liste over utpekt personell etter første ledd.
+
+Det skal dokumenteres i pasientens journal hvem opplysninger etter første ledd har blitt utlevert til, og hvilke opplysninger som har blitt utlevert.
+
+Pasienten kan motsette seg deling av opplysninger etter første ledd.
+
+> Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 26. Opplysninger til virksomhetens ledelse og til administrative systemer
+
+Den som yter helsehjelp, kan gi opplysninger til virksomhetens ledelse når dette er nødvendig for å kunne gi helsehjelp, eller for internkontroll og kvalitetssikring av tjenesten. Opplysningene skal så langt det er mulig, gis uten individualiserende kjennetegn.
+
+Ved samarbeid om behandlingsrettede helseregistre etter [pasientjournalloven § 9](lov/2014-06-20-42/§9) kan slike opplysninger også gis til ledelsen i samarbeidende virksomhet.
+
+Den som yter helsehjelp, skal uten hinder av taushetsplikten i [§ 21](lov/1999-07-02-64/§21) gi vedkommende virksomhets pasientadministrasjon pasientens personnummer og opplysninger om diagnose, eventuelle hjelpebehov, tjenestetilbud, innskrivnings- og utskrivningsdato samt relevante administrative data.
+
+Reglene om taushetsplikt gjelder tilsvarende for personell i pasientadministrasjonen.
+
+> Endret ved [lov 20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 27. Opplysninger som sakkyndig
+
+Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er ikke til hinder for at helsepersonell som opptrer som sakkyndig gir opplysninger til oppdragsgiver, dersom opplysningene er mottatt under utførelse av oppdraget og har betydning for dette.
+
+Den som opptrer som sakkyndig, skal gjøre pasienten oppmerksom på oppdraget og hva dette innebærer.
+
+> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 28. Opplysninger til arbeidsgiver
+
+Departementet kan gi forskrift om adgangen til å gi opplysninger om en arbeidstakers helseforhold videre til arbeidsgiveren, i den grad opplysningene gjelder arbeidstakerens skikkethet til et bestemt arbeid eller oppdrag.
+
+> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29. Dispensasjon fra taushetsplikt
+
+Departementet kan etter søknad bestemme at opplysninger fra pasientjournaler og andre behandlingsrettede helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21), nåropplysningene skal brukes til et uttrykkelig angitt formål knyttet til statistikk, helseanalyser, forskning, utvikling og bruk av klinisk beslutningsstøtteverktøy, kvalitetsforbedring, planlegging, styring eller beredskap for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, ogbehandlingen av opplysningene er av vesentlig interesse for samfunnet.
+
+Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre direkte personentydige kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
+
+Departementet kan sette som vilkår for tilgjengeliggjøring at mottakeren setter i verk særlige tiltak for å verne den registrertes grunnleggende rettigheter og interesser.
+
+Opplysningene kan bare tilgjengeliggjøres dersom det er ubetenkelig ut fra etiske, medisinske og helsefaglige hensyn. For tilgjengeliggjøring til medisinsk og helsefaglig forskning skal mottakeren ha fått forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. [helseforskningsloven § 33](lov/2008-06-20-44/§33). Dersom tilgjengeliggjøring av opplysninger kan true samfunnets evne til å verne grunnleggende verdier og funksjoner og sette liv og helse i fare, skal opplysningene ikke gjøres tilgjengelig.
+
+Når noen mottar taushetsbelagte opplysninger etter denne paragrafen, gjelder taushetsplikten etter [§ 21](lov/1999-07-02-64/§21) tilsvarende for mottakeren.
+
+Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
+
+Departementet kan gi forskrift om bruk av taushetsbelagte opplysninger i forskning og om helsepersonells adgang til tilgjengeliggjøring og bruk av taushetsbelagte opplysninger til formål som ikke gjelder helsehjelp, og som pasienten samtykker til.
+
+> Endret ved lover [19 juni 2009 nr. 73](lov/2009-06-19-73) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 a. Opplysninger om særreaksjonsdømte utlendinger
+
+Lovbestemt taushetsplikt er ikke til hinder for at det gis nødvendige opplysninger om særreaksjonsdømte utlendinger til utlendingsmyndighetene til bruk i en utvisningssak.
+
+Ved utvisning av en utlending som utholder en strafferettslig særreaksjon, er lovbestemt taushetsplikt ikke til hinder for at det til helse- og omsorgstjenesten i mottakerstaten gis opplysninger som er nødvendige for at mottakerstaten skal kunne vurdere vedkommendes behov for helsemessig oppfølging eller behov for å underlegges en behandling som kan beskytte samfunnet der mot gjentakelsesfare som nevnt i [straffeloven § 62](lov/2005-05-20-28/§62).
+
+> Tilføyd ved [lov 24 apr 2015 nr. 22](lov/2015-04-24-22) (ikr. 1 mai 2015 iflg. [res. 24 apr 2015 nr. 405](forskrift/2015-04-24-405)), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 b. (Opphevet)
+
+> Tilføyd ved [lov 9 apr 2010 nr. 14](lov/2010-04-09-14), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), opphevet ved [lov 4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 c. Opplysninger til bruk i læringsarbeid og kvalitetssikring
+
+Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gjøres tilgjengelige for helsepersonell som tidligere har ytt helsehjelp til pasienten i et konkret behandlingsforløp. Opplysningene må være nødvendige og relevante for helsepersonellets egen læring eller for kvalitetssikring av helsehjelpen. Helsepersonellet må ha autorisasjon eller lisens etter [§§ 48](lov/1999-07-02-64/§48) og [49](lov/1999-07-02-64/§49).
+
+Tilgjengeliggjøring etter første ledd skal dokumenteres. Den dataansvarlige skal minst dokumentere informasjon om:identitet og organisatorisk tilhørighet til den som helseopplysninger har blitt gjort tilgjengelige forat grunnlaget for tilgjengeliggjøringen er læring og kvalitetssikring knyttet til tidligere pasienttidsperioden for tilgjengeliggjøringenhvilke opplysninger som blir tilgjengeliggjort.
+
+> Tilføyd ved [lov 14 juni 2013 nr. 39](lov/2013-06-14-39) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 641](forskrift/2013-06-14-641)), endret ved lover [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. [res. 4 des 2020 nr. 2622](forskrift/2020-12-04-2622)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 d. Opplysninger til klinisk etikkomité
+
+Helsepersonell kan uten hinder av taushetsplikten etter [§ 21](lov/1999-07-02-64/§21) gjøre opplysninger tilgjengelige for en klinisk etikkomité når opplysningene er nødvendige for at komiteen skal kunne bistå helsepersonellet med råd eller drøftelse av etiske utfordringer i et konkret tilfelle, og det ikke er praktisk mulig eller klart uhensiktsmessig å innhente samtykke fra pasienten. Tilgjengeliggjøring etter første punktum kan bare skje dersom pasienten ikke har motsatt seg slik tilgjengeliggjøring, og hensynet til pasientens integritet og velferd er ivaretatt. Det skal ikke gjøres tilgjengelig direkte personidentifiserbare opplysninger som for eksempel navn eller fødselsnummer. Det skal registreres i pasientjournalen hvorfor samtykke ikke er innhentet.
+
+Personidentifikasjon skal ikke skje i større utstrekning enn det som er nødvendig for å ivareta det aktuelle formålet. Reglene om taushetsplikt etter denne loven gjelder tilsvarende for den som mottar opplysningene etter første ledd.
+
+> Tilføyd ved [lov 7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 e. Oppslag i journal for undervisningsformål
+
+For å finne opplysninger som egner seg i undervisning som kan sikre forsvarlig opplæring av helsepersonell eller helsefaglige studenter, kan taushetsbelagte opplysninger om en pasient gjøres tilgjengelige for en lege eller tannlege som arbeider ved en sykehusavdeling eller tannklinikk der pasienten er eller har vært for å få helsehjelp.
+
+Pasienten kan motsette seg tilgjengeliggjøring av opplysninger etter første ledd. Det kan bare tilgjengeliggjøres opplysninger som er relevante og nødvendige for å oppnå formålet.
+
+Tilgjengeliggjøring etter første ledd skal dokumenteres. Den dataansvarlige skal alltid dokumentere informasjon om:identiteten og den organisatoriske tilhørigheten til den som får helseopplysningenegrunnlaget for tilgjengeliggjøringentidsperioden for tilgjengeliggjøringenhvilke opplysninger som blir tilgjengeliggjort.
+
+> Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 29 f. Deltakende observasjon av helsepersonells yrkesutøvelse
+
+> **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+## Kapittel 6. Opplysningsplikt m.v.
+
+### § 30. Opplysningsplikt til Statens helsetilsyn og statsforvalteren
+
+Bestemmelsene i [helsetilsynsloven § 7](lov/2017-12-15-107/§7) om plikt til å gi tilsynsmyndigheten opplysninger og adgang til virksomheten på anmodning og adgang til å gi tilsynsmyndigheten opplysninger av eget tiltak uten hinder av taushetsplikt, gjelder for alt helsepersonell og annet personell som yter helse- og omsorgstjenester.
+
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 30 a. Opplysninger til Statens undersøkelseskommisjon for helse- og omsorgstjenesten
+
+Helsepersonell skal gi undersøkelseskommisjonen adgang til virksomhetens lokaler og opplysninger etter [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 9](lov/2017-06-16-56/§9).
+
+Helsepersonell skal forklare seg for Statens undersøkelseskommisjon for helse- og omsorgstjenesten etter [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 10](lov/2017-06-16-56/§10).
+
+> Tilføyd ved [lov 16 juni 2017 nr. 56](lov/2017-06-16-56) (ikr. 1 mai 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)).
+
+### § 31. Opplysninger til nødetater
+
+Helsepersonell skal varsle politi og brannvesen dersom dette er nødvendig for å avverge alvorlig skade på person eller eiendom.
+
+### § 32. Opplysninger til den kommunale helse- og omsorgstjenesten
+
+Den som yter helsehjelp, skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra den kommunale helse- og omsorgstjenesten, og skal av eget tiltak gi den kommunale helse- og omsorgstjenesten opplysninger om slike forhold etter å ha innhentet samtykke fra pasienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21).
+
+Uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) skal helsepersonell av eget tiltak gi opplysninger til den kommunale helse- og omsorgstjenesten, når det er grunn til å tro at en gravid kvinne misbruker rusmidler på en slik måte at det er overveiende sannsynlig at barnet vil bli født med skade, jf. [helse- og omsorgstjenesteloven § 10-3](lov/2011-06-24-30/§10-3). Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av den kommunale [helse- og omsorgstjenesteloven](lov/2011-06-24-30), skal helsepersonell gi slike opplysninger.
+
+I helseinstitusjoner skal det utpekes en person som skal ha ansvaret for utleveringen av slike opplysninger.
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 33. Opplysningsplikt til barnevernet
+
+Den som yter helsehjelp, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.
+
+Helsepersonell skal uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) melde fra til barnevernstjenesten uten ugrunnet oppholdnår det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.
+
+Helsepersonell plikter også å gi opplysninger etter pålegg i samsvar med [barnevernsloven § 13-4](lov/2021-06-18-97/§13-4).
+
+I helseinstitusjoner skal det utpekes en person som skal ha ansvaret for videreformidling av opplysninger etter annet og tredje ledd. Denne personen skal uten ugrunnet opphold gi melder tilbakemelding på om melding etter annet ledd er videreformidlet. Dersom meldingen ikke er videreformidlet, skal det begrunnes. Melder har fortsatt et ansvar for å melde, dersom melder mener at vilkårene etter annet ledd er oppfylt. Personen som har ansvaret for videreformidling av opplysningene skal også påse at barnevernstjenestens tilbakemeldinger etter [barnevernsloven § 13-3](lov/2021-06-18-97/§13-3), uten ugrunnet opphold videreformidles til melder.
+
+> Endret ved lover [20 apr 2018 nr. 5](lov/2018-04-20-5) (ikr. 1 juli 2018 iflg. [res. 8 juni 2018 nr. 839](forskrift/2018-06-08-839)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 34. Plikt til å gi opplysninger i forbindelse med førerkort og sertifikat
+
+Lege, psykolog eller optiker som finner at en pasient med førerkort for motorvogn eller sertifikat for luftfartøy eller som arbeider som flygeleder, ikke oppfyller de helsemessige kravene som stilles, skal gjøre pasienten oppmerksom på at det er forbudt å føre motorvogn eller luftfartøy eller være i tjeneste som flygeleder så lenge disse kravene ikke er oppfylt. Dersom pasientens helsetilstand antas ikke å være kortvarig, skal helsepersonell som nevnt gi melding til offentlige myndigheter.
+
+Departementet kan i forskrift gi nærmere bestemmelser til gjennomføring og utfylling av første ledd, og kan gi reglene i første ledd tilsvarende anvendelse i forhold til pasienter som har tjeneste utenfor luftfartøy, dersom tjenesten har betydning for luftfartens sikkerhet.
+
+> Endret ved [lov 18 juni 2021 nr. 116](lov/2021-06-18-116) (ikr. 1 april 2022 iflg. [res. 4 mars 2022 nr. 326](forskrift/2022-03-04-326)).
+
+### § 34 a. Adgang til å gi opplysninger i forbindelse med helsesvekkelse av betydning for øvrig trafikksikkerhet
+
+Lege, psykolog eller optiker kan uten hinder av taushetsplikt gi melding til offentlige myndigheter når det er grunn til å tro at en pasient som fører skinnegående kjøretøy eller fartøy på sjøen eller utfører tjeneste som los, har en helsesvekkelse som kan føre til skade på person. Første punktum gjelder kun dersom føreretten forutsetter helseerklæring. Pasienten skal få beskjed om at melding er gitt.
+
+Departementet kan gi forskrift om hvordan meldinger etter første ledd skal gis og behandles av mottakeren. Departementet kan også gi forskrift om at første ledd skal gjelde tilsvarende for andre som utfører tjeneste av betydning for sikkerheten på sjøen eller på skinnegående kjøretøy.
+
+> Tilføyd ved [lov 18 juni 2021 nr. 116](lov/2021-06-18-116) (ikr. 1 april 2022 iflg. [res. 4 mars 2022 nr. 326](forskrift/2022-03-04-326)).
+
+### § 34 b. Adgang til å gi opplysninger i forbindelse med sviktende dyrehold
+
+> **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+## Kapittel 7. Meldeplikt
+
+### § 35. Melding om fødsler
+
+Lege eller jordmor skal gi melding om fødsel til folkeregistermyndigheten. I meldingen skal det opplyses hvem som er far til barnet etter reglene i [barneloven §§ 3](lov/1981-04-08-7/§3) og [4](lov/1981-04-08-7/§4), eller hvem moren har oppgitt som far til barnet i tilfeller der farskapet ikke er klarlagt. Departementet kan i forskrift bestemme at slike meldinger også skal inneholde andre opplysninger.
+
+Dersom farskapet ikke er klarlagt eller foreldrene ikke lever sammen, skal fødselsmeldingen sendes til både folkeregistermyndigheten og bidragsfogden.
+
+Det skal gis fødselsmelding selv om barnet er dødfødt.
+
+Lege eller jordmor skal gi melding om fødsel eller svangerskapsavbrudd etter tolvte uke til Medisinsk fødselsregister i samsvar med forskrift gitt i medhold av [helseregisterloven](lov/2014-06-20-43).
+
+> Endret ved lover [18 mai 2001 nr. 24](lov/2001-05-18-24) (ikr. 1 jan 2002 iflg. [res. 18 mai 2001 nr. 502](forskrift/2001-05-18-502)), [29 juni 2007 nr. 61](lov/2007-06-29-61) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)). **Endres** ved lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 36. Melding om dødsfall
+
+Leger skal gi erklæring om dødsfall som de blir kjent med i sin virksomhet. Departementet gir forskrifter om erklæringene.
+
+Leger som har gitt legeerklæring om dødsfall, eller som har gitt helsehjelp til en person før vedkommende døde, skal gi nødvendige opplysninger om dødsfallet og dødsårsaken etter forskrift fastsatt av departementet.
+
+Er det grunn til å tro at dødsfallet er unaturlig, skal legen underrette politiet i samsvar med forskrift fastsatt av departementet.
+
+Er etterforskning iverksatt for å avklare om døden er voldt ved straffbar handling, skal legen gi retten opplysninger av betydning for saken, dersom retten ber om dette.
+
+> Endret ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 794](forskrift/2019-06-21-794)).
+
+### § 37. Melding til helseregistre m.v.
+
+Kongen kan pålegge helsepersonell med autorisasjon eller lisens å gi opplysninger til helseregistre i samsvar med forskrift gitt i medhold av [helseregisterloven](lov/2014-06-20-43).
+
+> Endret ved [lov 18 mai 2001 nr. 24](lov/2001-05-18-24) (ikr. 1 jan 2002 iflg. [res. 18 mai 2001 nr. 502](forskrift/2001-05-18-502)).
+
+### § 38. (Opphevet)
+
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), opphevet ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)).
+
+### § 38 a. Melding om behov for individuell plan og koordinator
+
+Helsepersonell skal snarest mulig gi melding om pasienters og brukeres behov for individuell plan og koordinator, jf. [pasient- og brukerrettighetsloven § 2-5](lov/1999-07-02-63/§2-5), [helse- og omsorgstjenesteloven §§ 7-1](lov/2011-06-24-30/§7-1) og [7-2](lov/2011-06-24-30/§7-2), samt [spesialisthelsetjenesteloven § 2-5 a](lov/1999-07-02-61/§2-5a). Helsepersonell som yter spesialisthelsetjenester, skal gi melding til koordinerende enhet for habiliterings- og rehabiliteringsvirksomhet i spesialisthelsetjenesten. Annet helsepersonell skal gi melding til koordinerende enhet for habiliterings- og rehabiliteringsvirksomhet i kommunen.
+
+> Tilføyd ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+## Kapittel 8. Dokumentasjonsplikt
+
+### § 39. Plikt til å føre journal
+
+Den som yter helsehjelp, skal nedtegne eller registrere opplysninger som nevnt i [§ 40](lov/1999-07-02-64/§40) i en journal for den enkelte pasient. Plikten til å føre journal gjelder ikke for samarbeidende helsepersonell som gir hjelp etter instruksjon eller rettledning fra annet helsepersonell.
+
+I helseinstitusjoner skal det utpekes en person som skal ha det overordnede ansvaret for den enkelte journal, og herunder ta stilling til hvilke opplysninger som skal stå i pasientjournalen.
+
+Departementet kan i forskrift pålegge helsepersonell som nevnt i første ledd å føre egen journal som pasienten oppbevarer selv (egenjournal).
+
+### § 40. Krav til journalens innhold m.m.
+
+Journalen skal føres i samsvar med god yrkesskikk og skal inneholde relevante og nødvendige opplysninger om pasienten og helsehjelpen, samt de opplysninger som er nødvendige for å oppfylle meldeplikt eller opplysningsplikt fastsatt i lov eller i medhold av lov. Journalen skal være lett å forstå for annet kvalifisert helsepersonell.
+
+Det skal fremgå hvem som har ført opplysningene i journalen.
+
+Departementet kan i forskrift gi nærmere regler om pasientjournalens innhold og ansvar for journalen etter denne bestemmelse, herunder om oppbevaring, overdragelse, opphør, avlevering og tilintetgjøring av journal.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)).
+
+### § 41. Plikt til å gi pasienter innsyn i journal
+
+Den som yter helsehjelp, skal gi innsyn i journalen til den som har krav på det etter reglene i [pasient- og brukerrettighetsloven § 5-1](lov/1999-07-02-63/§5-1).
+
+I helseinstitusjoner skal den som har det overordnede ansvaret for journalen etter [§ 39](lov/1999-07-02-64/§39), sørge for at det gis innsyn etter første ledd.
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 42. Retting av journal
+
+Helsepersonell som nevnt i [§ 39](lov/1999-07-02-64/§39) skal etter krav fra den opplysningen gjelder, eller av eget tiltak, rette uriktige eller ufullstendige opplysninger, jf. [personvernforordningen artikkel 16](lov/2018-06-15-38/gdpr/a16). Opplysningene skal etter krav fra den opplysningen gjelder, eller av eget tiltak, også rettes dersom de er utilbørlige. Retting skal skje ved at journalen føres på nytt, eller ved at en datert rettelse tilføyes i journalen. Retting skal ikke skje ved at opplysninger eller utsagn slettes.
+
+Dersom et krav om retting avslås, skal kravet om retting og begrunnelse for avslaget nedtegnes i journalen. Avslag på krav om retting kan påklages til statsforvalteren, som avgjør om retting kan foretas.
+
+Departementet kan gi forskrift om fremgangsmåten ved retting.
+
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 43. Sletting av journalopplysninger
+
+Etter krav fra den journalopplysningene gjelder, eller av eget tiltak, skal helsepersonell som nevnt i § 39 slette opplysninger eller utsagn i journalen, dersom dette er ubetenkelig ut fra allmenne hensyn, ikke strider mot bestemmelsene gitt i eller i medhold av [arkivlova § 6 bokstav b](lov/2025-06-20-96/§6/bokstav/b), [§ 13](lov/2025-06-20-96/§13) eller [§ 20](lov/2025-06-20-96/§20) og:opplysningene er feilaktige eller misvisende og føles belastende for den de gjelder, elleropplysningene åpenbart ikke er nødvendige for å gi pasienten helsehjelp.
+
+Dersom krav om sletting avslås, skal kravet om sletting og begrunnelse for avslaget nedtegnes i journalen.
+
+Avslag på krav om sletting kan påklages til statsforvalteren. Dersom statsforvalteren mener at sletting kan være i strid med bestemmelsene gitt i eller i medhold av [arkivlova § 6 bokstav b](lov/2025-06-20-96/§6/bokstav/b), [§ 13](lov/2025-06-20-96/§13) eller [§ 20](lov/2025-06-20-96/§20), skal det innhentes uttalelse fra Nasjonalarkivet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om sletting etter denne bestemmelse.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2012 nr. 46](lov/2012-06-22-46), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+
+### § 44. Journal på feil person
+
+Etter krav fra den opplysningene gjelder, eller av eget tiltak, skal helsepersonell som nevnt i [§ 39](lov/1999-07-02-64/§39) slette journal, eller opplysninger eller utsagn i en journal, som er ført på feil person, med mindre allmenne hensyn tilsier at sletting ikke bør foretas. Reglene i [§ 43](lov/1999-07-02-64/§43) annet til fjerde ledd gjelder tilsvarende.
+
+### § 45. Utlevering av og tilgang til journal og journalopplysninger
+
+Med mindre pasienten motsetter seg det, skal helsepersonell som skal yte eller yter helsehjelp til pasient etter denne lov, gis nødvendige og relevante helseopplysninger i den grad dette er nødvendig for å kunne gi helsehjelp til pasienten på forsvarlig måte. Det skal fremgå av journalen at annet helsepersonell er gitt helseopplysninger.
+
+Helseopplysninger som nevnt i første ledd kan gis av den dataansvarlige for opplysningene eller det helsepersonellet som har dokumentert opplysningene, jf. [§ 39](lov/1999-07-02-64/§39).
+
+Departementet kan i forskrift gi nærmere bestemmelser til utfylling av første ledd, og kan herunder bestemme at annet helsepersonell kan gis tilgang til journalen også i de tilfeller som faller utenfor første ledd.
+
+> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 45 a. Epikrise
+
+Pasienten bør gis anledning til å opplyse hvem epikrise skal sendes til. Med mindre pasienten motsetter seg det, skal det ved utskrivning fra helseinstitusjon oversendes epikrise til innleggende eller henvisende helsepersonell, til det helsepersonellet som trenger opplysningene for å kunne gi pasienten forsvarlig oppfølging, og til pasientens faste lege. Det skal også sendes epikrise ved poliklinisk behandling eller behandling hos spesialist.
+
+Dersom det ikke er mulig å sende epikrise samtidig med utskrivning, skal epikrise uansett sendes innen forsvarlig tid etter at helsehjelpen er avsluttet.
+
+Med epikrise menes sammendrag av tilgjengelige journalopplysninger i tilknytning til undersøkelse eller behandling av en pasient som er nødvendige for at videre behandling eller oppfølging av pasienten innenfor helse- og omsorgstjenesten kan skje på en forsvarlig måte. Departementet kan i forskrift gi nærmere bestemmelser om plikten etter første og andre ledd, herunder hvem epikrise skal sendes til, hvilke opplysninger epikrisen skal inneholde, og når epikrisen skal være sendt.
+
+> Tilføyd ved [lov 14 juni 2013 nr. 39](lov/2013-06-14-39) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 641](forskrift/2013-06-14-641)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 46. (Opphevet)
+
+> Endret ved [lov 21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), opphevet ved [lov 19 juni 2015 nr. 60](lov/2015-06-19-60) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 674](forskrift/2015-06-19-674)).
+
+### § 47. Opptegnelser og journal som bevis
+
+I rettssak eller forvaltningssak om helsepersonells yrkesutøvelse, kan opptegnelser, journal og journalmateriale kreves lagt fram som bevis i original eller bekreftet fotokopi eller utskrift.
+
+## Kapittel 9. Vilkår for autorisasjon, lisens og spesialistgodkjenning
+
+### § 48. Autorisasjon
+
+Autorisasjonsordningen etter denne lov omfatter følgende grupper helsepersonell:ambulansearbeiderapotekteknikeraudiografbioingeniørergoterapeutfotterapeutfysioterapeuthelsefagarbeiderhelsesekretærhjelpepleierjordmorkiropraktorklinisk ernæringsfysiologlegemanuellterapeutnaprapatomsorgsarbeideroptikerortopediingeniørortoptistosteopatparamedisinerperfusjonistprovisorfarmasøytpsykologradiografreseptarfarmasøytsykepleiertannhelsesekretærtannlegetannpleiertannteknikervernepleier
+
+Departementet kan i forskrift bestemme at helsepersonellgrupper som ikke omfattes av første ledd, kan gis autorisasjon etter søknad. Ved avgjørelsen skal det legges vekt på hensynet til pasientsikkerhet, innhold og formålet med utdanningen, i hvilken utstrekning yrket utøves selvstendig og hensynet til harmonisering med andre land.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 apr 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)), [27 juni 2008 nr. 64](lov/2008-06-27-64), [14 nov 2008 nr. 80](lov/2008-11-14-80), [19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678) – skulle vært endret ved [lov 19 juni 2015 nr. 61](lov/2015-06-19-61), som endret annet ledd bokstav c, dette leddet ble opphevet av [lov 19 juni 2015 nr. 59](lov/2015-06-19-59)), [25 mars 2022 nr. 14](lov/2022-03-25-14) (i kraft 1 mai 2022 iflg. [res. 25 mars 2022 nr. 467](forskrift/2022-03-25-467), se endringslovens del II for overgangsregler), [25 mars 2022 nr. 14](lov/2022-03-25-14) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2251](forskrift/2022-12-16-2251), se endringslovens del II for overgangsregler).
+
+### § 48 a. Vilkår for autorisasjon etter § 48
+
+Rett til autorisasjon etter søknad har den somhar bestått eksamen i vedkommende fag ved norsk universitet, høgskole eller videregående opplæring,har bestått utenlandsk eksamen som er anerkjent etter avtale om gjensidig godkjenning etter [§ 52](lov/1999-07-02-64/§52),har gjennomført utdanning og bestått utenlandsk eksamen som anerkjennes som jevngod med tilsvarende norsk utdanning og eksamen, ellerhar godtgjort å ha den nødvendige kyndighet ved bestått eksamen i helsefaglig utdanning, og tilleggsutdanning eller yrkeserfaring.
+
+Søkeren må i tilleggvære under 80 år,ikke være uegnet for yrket, ogha gjennomført praktisk tjeneste eller oppfylle tilleggskrav dersom dette er fastsatt i forskrift etter tredje ledd.
+
+Departementet kan i forskrift fastsette krav om praktisk tjeneste og tilleggskrav for autorisasjon for den enkelte helsepersonellgruppe og gjennomføring av slike krav. Departementet kan også bestemme at kravene skal gjelde for dem som allerede har autorisasjon eller offentlig godkjenning når forskriften trer i kraft.
+
+> Tilføyd ved [lov 19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)).
+
+### § 49. Lisens
+
+Helsepersonell som ikke har rett til autorisasjon etter [§ 48 a](lov/1999-07-02-64/§48a), kan gis lisens etter søknad. Lisens kan bare gis til helsepersonell som er skikket ut fra lisensens art og omfang.
+
+Lisens kan også gis til helsepersonell med utenlandsk eksamen som er anerkjent etter avtale om gjensidig godkjenning etter [§ 52](lov/1999-07-02-64/§52).
+
+Lisensen kan begrenses i tid, til en bestemt stilling, til visse typer helsehjelp eller på annen måte.
+
+Departementet kan gi nærmere forskrifter om betingelsene for å få lisens og de vilkår som kan knyttes til den, herunder at kravene skal gjelde for dem som allerede har lisens ved forskriftens ikrafttredelse.
+
+> Endret ved [lov 19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)).
+
+### § 50. Grenselisens
+
+Offentlig ansatt og autorisert helsepersonell i Sverige og Finland i arbeid langs grensen til Norge, kan utøve virksomhet i tilgrensende norske kommuner uten norsk autorisasjon eller lisens etter [§§ 48](lov/1999-07-02-64/§48) og [49](lov/1999-07-02-64/§49).
+
+### § 51. Spesialistutdanning og etterutdanning for spesialister
+
+Departementet kan gi forskrifter om spesialistutdanning for helsepersonell og om etterutdanning for spesialister. Det kan blant annet gis bestemmelser omutdanningens innhold og lengdeutdanningsinstitusjonene, inkludert godkjenning av utdanningsinstitusjonerorganisering av utdanningsstillingergodkjenning av utdanninggodtgjørelse ved vedtak om godkjenningat vilkårene skal gjelde for dem som allerede har spesialistgodkjenning ved forskriftens ikrafttredelse.
+
+> Endret ved lover [19 juni 2015 nr. 60](lov/2015-06-19-60) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 674](forskrift/2015-06-19-674)), [10 juni 2022 nr. 37](lov/2022-06-10-37).
+
+### § 52. Internasjonale avtaler
+
+På grunnlag av folkerettslige regler som Norge er forpliktet av kan autorisasjon, lisens, spesialistgodkjenning og rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, gis til norsk eller utenlandsk statsborger.
+
+Departementet kan i forskrifter gi nærmere bestemmelser til utfylling av første ledd, og kan herunder fastsette særlige vilkår for godkjenning som er nødvendige for å oppfylle internasjonale avtaler.
+
+> Endret ved [lov 9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)).
+
+## Kapittel 10. Tildeling og bortfall av autorisasjon, lisens og spesialistgodkjenning
+
+### § 53. Tildeling av autorisasjon, lisens og spesialistgodkjenning
+
+Helsedirektoratet eller den det bemyndiger gir autorisasjon, lisens og spesialistgodkjenning mot nærmere fastsatt godtgjørelse. Helsedirektoratet eller den det bemyndiger gir også rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, jf. [§ 52](lov/1999-07-02-64/§52) første ledd. Departementet kan i forskrift pålegge den enkelte utdanningsinstitusjon og andre med utdanningsansvar å gi autorisasjon for utdanninger der det ikke kreves praktisk tjeneste, jf. [§ 48 a](lov/1999-07-02-64/§48a) andre ledd bokstav c og [48 a](lov/1999-07-02-64/§48a) tredje ledd.
+
+Helsedirektoratet eller den det bemyndiger kan nekte en søker autorisasjon, lisens, spesialistgodkjenning eller rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, hvis det foreligger omstendigheter som ville gitt grunnlag for tilbakekall etter [§ 57](lov/1999-07-02-64/§57).
+
+Vedtak etter bestemmelsens første og andre ledd er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+Hvis det er grunn til å tro at tilbakekallsgrunn foreligger, kan Helsedirektoratet eller den det bemyndiger pålegge helsepersonell å underkaste seg undersøkelser som omtalt i [§ 60](lov/1999-07-02-64/§60).
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [21 des 2001 nr. 119](lov/2001-12-21-119) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1524](forskrift/2001-12-21-1524)), [28 juni 2002 nr. 62](lov/2002-06-28-62) (ikr. 1 juli 2002 iflg. [res. 28 juni 2002 nr. 638](forskrift/2002-06-28-638)), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [19 juni 2009 nr. 110](lov/2009-06-19-110) (ikr. 1 okt 2011 iflg. [res. 16 sep 2011 nr. 950](forskrift/2011-09-16-950)), [19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)).
+
+### § 54. Bortfall av autorisasjon, lisens og spesialistgodkjenning
+
+Autorisasjon, lisens eller spesialistgodkjenning bortfaller når vedkommende fyller 80 år. Yrkestittelen kan likevel benyttes.
+
+Personer over 80 år kan likevel gis lisens og spesialistgodkjenning på visse vilkår, jf. [§ 49](lov/1999-07-02-64/§49) fjerde ledd og [§ 51](lov/1999-07-02-64/§51).
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)).
+
+## Kapittel 11. Reaksjoner m.v. ved brudd på lovens bestemmelser
+
+> Overskriften endret ved [lov 21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)).
+
+### § 55. (Opphevet)
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), opphevet ved [lov 7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)).
+
+### § 56. Faglig pålegg til helsepersonell
+
+Tilsynsmyndighetene kan gi pålegg til helsepersonell om å gjennomføre tiltak for å heve sin kompetanse. Pålegget kan gis når helsepersonell forsettlig eller uaktsomt overtrer plikter etter denne lov eller bestemmelser gitt i medhold av den, hvis pliktbruddet er egnet til å medføre fare for sikkerheten i helse- og omsorgstjenesten, til å påføre pasienter eller brukere en betydelig belastning eller til i vesentlig grad å svekke tilliten til helsepersonell eller helse- og omsorgstjenesten.
+
+Pålegget må være nødvendig for å forebygge at helsepersonellet foretar nye overtredelser.
+
+Faglig pålegg er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 57. Tilbakekall av autorisasjon, lisens eller spesialistgodkjenning
+
+Statens helsetilsyn kan kalle tilbake autorisasjon, lisens eller spesialistgodkjenning dersom innehaveren er uegnet til å utøve sitt yrke forsvarlig på grunn av alvorlig sinnslidelse, psykisk eller fysisk svekkelse, langt fravær fra yrket, bruk av alkohol, narkotika eller midler med lignende virkning, vesentlig mangel på faglig innsikt, uforsvarlig virksomhet, vesentlige pliktbrudd etter denne lov eller bestemmelser gitt i medhold av den, eller på grunn av atferd som anses uforenlig med yrkesutøvelsen.
+
+Autorisasjon, lisens eller spesialistgodkjenning kan kalles tilbake for alltid dersomvilkårene for tilbakekall etter første ledd er oppfylt, oginnehaveren for fremtiden kan utgjøre en alvorlig fare for pasientsikkerheten eller alvorlig svekke tilliten til helsepersonell eller helse- og omsorgstjenesten.
+
+Autorisasjon, lisens eller spesialistgodkjenning kan kalles tilbake dersom innehaveren til tross for faglig pålegg etter [§ 56](lov/1999-07-02-64/§56) unnlater å innrette seg etter lovbestemte krav, eller ved brudd på vilkårene for en begrenset autorisasjon etter [§ 59](lov/1999-07-02-64/§59).
+
+Autorisasjon, lisens eller spesialistgodkjenning kan kalles tilbake også dersom vilkår fastsatt i forskrift etter [§§ 48 a](lov/1999-07-02-64/§48a), [49](lov/1999-07-02-64/§49) eller [51](lov/1999-07-02-64/§51) ikke er oppfylt.
+
+Autorisasjon, lisens eller spesialistgodkjenning gitt på grunnlag av tilsvarende godkjenning i et annet land, kan kalles tilbake dersom godkjenningen i dette landet mister sin gyldighet.
+
+Tilbakekall er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved lover [19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [21 juni 2024 nr. 44](lov/2024-06-21-44) (i kraft 1 jan 2025 iflg. [res. 21. juni 2024 nr. 1100](forskrift/2024-06-21-1100)).
+
+### § 57 a. Forbud mot å yte helsehjelp for tidligere autorisert helsepersonell mv.
+
+Dersom helsepersonell som ikke lenger har autorisasjon eller lisens er til alvorlig fare for pasientsikkerheten eller alvorlig svekker tilliten til helse- og omsorgstjenesten, kan Statens helsetilsyn gi forbud mot å yte helsehjelp. Forbudet skal fremgå av helsepersonellregisteret.
+
+Dersom helsepersonell ikke etterlever forbud etter første ledd, kan Statens helsetilsyn fastsette tvangsmulkt i samsvar med [helsetilsynsloven § 9](lov/2017-12-15-107/§9).
+
+Forbudet oppheves dersom Statens helsetilsyn innvilger søknad om ny autorisasjon eller lisens etter [§ 62](lov/1999-07-02-64/§62).
+
+Forbud er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+Departementet kan gi forskrift om fastsettelse og beregning av tvangsmulkt.
+
+> Tilføyd ved [lov 21 juni 2024 nr. 44](lov/2024-06-21-44) (i kraft 1 jan 2025 iflg. [res. 21. juni 2024 nr. 1100](forskrift/2024-06-21-1100)).
+
+### § 58. Begrenset suspensjon og full suspensjon av autorisasjon, lisens eller spesialistgodkjenning
+
+Statens helsetilsyn kan gi helsepersonell forbud mot utøvelse av bestemt virksomhet inntil det er tatt endelig beslutning i saken (begrenset suspensjon), dersom det er nødvendig for å stanse virksomhet som kan være til fare for sikkerheten i og tilliten til helse- og omsorgstjenesten.
+
+Hvis det er grunn til å tro at vilkårene for tilbakekall etter [§ 57](lov/1999-07-02-64/§57) er tilstede og helsepersonellet anses å være til fare for sikkerheten i helse- og omsorgstjenesten, kan Statens helsetilsyn midlertidig tilbakekalle en autorisasjon, lisens eller spesialistgodkjenning (full suspensjon) inntil det er tatt endelig beslutning i saken.
+
+Suspensjon etter første og andre ledd kan gjøres gjeldende i seks måneder, og kan forlenges en gang med ytterligere seks måneder.
+
+Suspensjon er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved lover [22 juni 2012 nr. 46](lov/2012-06-22-46), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 58 a. Suspensjon av autorisasjon, lisens eller spesialistgodkjenning ved brudd på opplysningsplikten
+
+Statens helsetilsyn kan suspendere autorisasjon, lisens eller spesialistgodkjenning dersom innehaveren ikke oppfyller pålegg om å gi opplysninger til tilsynsmyndighetene etter [§ 30](lov/1999-07-02-64/§30), jf. [helsetilsynsloven § 7](lov/2017-12-15-107/§7), innen fristen for å oppfylle pålegget. Vedtaket om suspensjon skal oppheves når opplysningene er overlevert til tilsynsmyndigheten.
+
+Suspensjon er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Tilføyd ved [lov 20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 59. Begrensning av autorisasjon
+
+Statens helsetilsyn kan begrense autorisasjonen til å gjelde utøvelse av bestemt virksomhet under bestemte vilkår.
+
+Slik begrensning kan fastsettes i tilfeller der det er nødvendig for å gripe inn i yrkesutøvelse som kan være til fare for sikkerheten i og tilliten til helse- og omsorgstjenesten og faglig pålegg etter [§ 56](lov/1999-07-02-64/§56) ikke fremstår tilstrekkelig.
+
+Statens helsetilsyn kan etter søknad oppheve begrensninger etter første ledd hvis helsepersonellet godtgjør at det ikke lenger er grunnlag for slike begrensninger eller at vilkårene som ble stilt er oppfylt.
+
+Vedtak om begrensning av autorisasjon og avslag på søknad om opphevelse av fastsatte begrensninger er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved lover [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 59 a. (Opphevet)
+
+> Tilføyd ved [lov 9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), opphevet ved [lov 20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 60. Pålegg om sakkyndig undersøkelse
+
+I saker der tilbakekall av autorisasjon, lisens eller spesialistgodkjenning skal vurderes, kan Statens helsetilsyn pålegge helsepersonell å underkaste seg medisinsk eller psykologisk undersøkelse av sakkyndige.
+
+Statens helsetilsyn kan suspendere autorisasjon, lisens eller spesialistgodkjenning så lenge pålegg etter første ledd ikke etterkommes.
+
+### § 61. Frivillig avkall på autorisasjon, lisens eller spesialistgodkjenning
+
+Helsepersonell kan selv gi avkall på autorisasjon, lisens eller spesialistgodkjenning ved skriftlig erklæring til statsforvalteren. Autorisasjons-, lisens- eller spesialistgodkjenningsdokumentet skal så vidt mulig innleveres samtidig.
+
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [22 juni 2012 nr. 46](lov/2012-06-22-46), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 62. Ny autorisasjon eller lisens
+
+Statens helsetilsyn kan gi helsepersonell som har mistet autorisasjon, lisens eller spesialistgodkjenning ved tilbakekall eller frivillig avkall, ny autorisasjon, lisens eller spesialistgodkjenning hvis vedkommende godtgjør at han/hun er skikket. Ny autorisasjon kan begrenses etter [§ 59](lov/1999-07-02-64/§59).
+
+Søknad om ny autorisasjon, lisens eller spesialistgodkjenning kan fremsettes tidligst to år etter vedtak om tilbakekall. Det samme gjelder ved frivillig avkall som er gitt under en pågående tilsynssak. Statens helsetilsyn kan gjøre unntak fra karantenetiden på to år når særlige grunner tilsier det.
+
+Hvis autorisasjon, lisens eller spesialistgodkjenning er tilbakekalt etter [§ 57 andre ledd](lov/1999-07-02-64/§57/ledd/2), kan ny søknad fremsettes tidligst ti år etter vedtak om tilbakekall.
+
+Avslag på søknad om ny autorisasjon, lisens eller spesialistgodkjenning er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved [lover 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)), [21 juni 2024 nr. 44](lov/2024-06-21-44) (i kraft 1 jan 2025 iflg. [res. 21. juni 2024 nr. 1100](forskrift/2024-06-21-1100)).
+
+### § 62 a. Pålegg om innlevering av pasientjournalarkiv
+
+Statens helsetilsyn kan ved tilbakekall og suspensjon av autorisasjon, lisens eller spesialistgodkjenning pålegge helsepersonell å levere inn sitt pasientjournalarkiv til Helsedirektoratet.
+
+Hvis det ved vedtak om tilbakekall av autorisasjon, lisens eller spesialistgodkjenning for alltid etter [§ 57 andre ledd](lov/1999-07-02-64/§57/ledd/2) ikke er aktuelt å overføre pasientjournalarkivet til et bestemt helsepersonell eller til en bestemt virksomhet, skal helsepersonellet straks levere inn sitt pasientjournalarkiv til Helsedirektoratet.
+
+Departementet kan i forskrift gi nærmere bestemmelser om vilkår for å gi pålegg om innlevering, innsyn i og bruk av arkivene og arkivenes depotstatus.
+
+> Tilføyd ved [lov 22 juni 2012 nr. 47](lov/2012-06-22-47) (ikr. 22 juni 2012 iflg. [res. 22 juni 2012 nr. 578](forskrift/2012-06-22-578)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 okt 2021 iflg. [res. 21 juni 2019 nr. 871](forskrift/2019-06-21-871)), [21 juni 2024 nr. 44](lov/2024-06-21-44) (i kraft 1 jan 2025 iflg. [res. 21. juni 2024 nr. 1100](forskrift/2024-06-21-1100)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 63. Tap av retten til å rekvirere legemidler i gruppe A og B
+
+Hvis legers eller tannlegers rekvirering av legemidler i gruppe A og B anses uforsvarlig, kan Statens helsetilsyn helt eller delvis kalle tilbake retten til å rekvirere slike legemidler for en bestemt tid eller for alltid. Det samme gjelder for annet helsepersonell som i forskrift fastsatt i medhold av [§ 11](lov/1999-07-02-64/§11) er gitt begrenset rett til å rekvirere legemidler.
+
+Rett til å rekvirere legemidler i gruppe A og B gitt på grunnlag av tilsvarende godkjenning i et annet land, kan kalles tilbake av Statens helsetilsyn dersom godkjenningen i det andre landet mister sin gyldighet.
+
+Helsepersonell kan selv gi avkall på retten til å rekvirere legemidler som nevnt i første ledd ved skriftlig erklæring til statsforvalteren. Et avkall er bindende i den perioden det er gitt for.
+
+Hvis vilkårene for tilbakekallet fortsatt er oppfylt ved utløpet av fristen etter første ledd, kan Statens helsetilsyn treffe nytt vedtak etter første ledd.
+
+Når leger eller tannleger ikke selv har rett til å rekvirere legemidler i gruppe A og B, skal kommunelegen, avdelingsoverlegen eller fylkestannlegen rekvirere legemidler som er nødvendige i vedkommendes virksomhet. Disse kan også godta at et annet helsepersonell foretar rekvireringen.
+
+Vedtak om tilbakekall av rett til rekvirering er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [22 des 2006 nr. 100](lov/2006-12-22-100) (ikr. 1 jan 2007 iflg. [res. 22 des 2006 nr. 1527](forskrift/2006-12-22-1527)), [22 juni 2012 nr. 46](lov/2012-06-22-46), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+
+### § 64. Suspensjon av rekvireringsrett
+
+Hvis det er grunn til å tro at vilkårene for å kalle tilbake rekvireringsretten er oppfylt og helsepersonell ansees å være til fare for sikkerheten i helse- og omsorgstjenesten, kan Statens helsetilsyn suspendere retten til å rekvirere legemidler som nevnt i [§ 63](lov/1999-07-02-64/§63) inntil saken er avgjort, men ikke utover seks måneder. Hvis helsepersonellet forhaler saken, kan suspensjonen forlenges en gang med ytterligere seks måneder.
+
+Vedtak om suspensjon av rekvireringsrett er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+> Endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 65. Forkortelse av frist for tap av rekvireringsretten
+
+Hvis det finnes forsvarlig, kan Statens helsetilsyn etter søknad gi helsepersonellet tilbake retten til å rekvirere legemidler i gruppe A og B før utløpet av den frist som er fastsatt.
+
+Avslag på slik søknad er enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
+
+### § 65 a. Reaksjoner overfor midlertidige yrkesutøvere
+
+Tilsynsmyndighetene kan ilegge følgende reaksjoner til helsepersonell som utøver yrket midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, jf. [§ 52](lov/1999-07-02-64/§52) første ledd:faglig påleggtilbakekall av retten til å utøve yrket midlertidigsuspensjon av retten til å utøve yrket midlertidigbegrensning av retten til å utøve yrket midlertidighel eller delvis tilbakekall av retten til å rekvirere legemidler i gruppe A og B.suspensjon av retten til å rekvirere legemidler i gruppe A og B.
+
+Reaksjonene ilegges på samme vilkår og etter samme regler som ileggelse av tilsvarende reaksjoner i §§ [56](lov/1999-07-02-64/§56)-[59 a](lov/1999-07-02-64/§59a) og §§ [63](lov/1999-07-02-64/§63)-[64](lov/1999-07-02-64/§64).
+
+> Tilføyd ved [lov 9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), endret ved [lov 20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+### § 66. Informasjon til arbeidsgiver og til andre land
+
+Tilsynsmyndighetene skal varsle arbeidsgiver ved faglig pålegg, tilbakekall, frivillig avkall eller suspensjon av autorisasjon, lisens, spesialistgodkjenning eller rekvireringsrett, begrensning av autorisasjon eller forbud mot å yte helsehjelp. Med arbeidsgiver menes også offentlig myndighet som har driftsavtale med helsepersonellet.
+
+Hvis helsepersonellet driver selvstendig praksis med driftsavtale, skal Statens helsetilsyn gi rett offentlig myndighet et forhåndsvarsel når det foreligger berettiget mistanke om at vilkårene for nevnte vedtak foreligger, og vedtaket vil få betydning for muligheten til å oppfylle driftsavtalen.
+
+Ved tilbakekall, frivillig avkall eller suspensjon av autorisasjon, lisens, spesialistgodkjenning eller rekvireringsrett, ved begrensning av autorisasjon, ved gitt faglig pålegg til helsepersonell og forbud mot å yte helsehjelp, skal Statens helsetilsyn uten hinder av taushetsplikten underrette de landene Norge er folkerettslig forpliktet til å informere.
+
+> Endret ved lover [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [21 juni 2024 nr. 44](lov/2024-06-21-44) (i kraft 1 jan 2025 iflg. [res. 21. juni 2024 nr. 1100](forskrift/2024-06-21-1100)).
+
+### § 67. Straff
+
+Den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel i inntil tre måneder.
+
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)). **Endres** ved [lov 16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. fra den tid Kongen bestemmer). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+
+### § 67 a. (Opphevet)
+
+> Tilføyd ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), endret ved [lov 18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2016), opphevet ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 15 mai 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), tilføyd igjen ved [lov 15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 april 2019 nr. 541](forskrift/2019-04-26-541)), endret ved [lov 18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), opphevet ved [lov 20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
+
+## Kapittel 12. Statens helsepersonellnemnd og Apotekklagenemnda
+
+> Overskriften endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+
+### § 68. Statens helsepersonellnemnd og Apotekklagenemnda
+
+Det opprettes en Statens helsepersonellnemnd (HPN). I saker etter [apotekloven](lov/1963-06-21-17) skal nemnda kalle seg Apotekklagenemnda (AKN).
+
+Statens helsepersonellnemnd er klageorgan for vedtak etter [§§ 53](lov/1999-07-02-64/§53), [56](lov/1999-07-02-64/§56)-[59 a](lov/1999-07-02-64/§59a) og [62](lov/1999-07-02-64/§62)-[65 a](lov/1999-07-02-64/§65a). Apotekklagenemnda er klageorgan for vedtak som fastsatt i medhold av [apotekloven § 9-1](lov/2000-06-02-39/§9-1) første ledd.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)).
+
+### § 69. Organisering av Statens helsepersonellnemnd
+
+Statens helsepersonellnemnd skal være et uavhengig organ med høy helsefaglig og juridisk ekspertise som oppnevnes av departementet for tre år av gangen.
+
+Statens helsepersonellnemnd skal bestå av tre jurister, hvorav en er leder av nemnda, samt tre personer med helsefaglig bakgrunn og en legrepresentant.
+
+Nemndas leder kan bestemme at sekretariatet kan treffe avgjørelser på vegne av nemnda.
+
+Statens helsepersonellnemnd kan oppnevne to sakkyndige for bistand i den enkelte sak.
+
+Departementet kan i forskrift gi nærmere regler om organiseringen av Statens helsepersonellnemnd.
+
+> Endret ved lov [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)).
+
+### § 70. Statens helsepersonellnemnds virksomhet
+
+Departementet kan i forskrift gi nærmere regler om saksbehandlingen i Statens helsepersonellnemnd.
+
+### § 71. Domstolskontroll
+
+Vedtak i Statens helsepersonellnemnd etter [§§ 53](lov/1999-07-02-64/§53), [56](lov/1999-07-02-64/§56) til [59 a](lov/1999-07-02-64/§59a) og [62](lov/1999-07-02-64/§62) til [65 a](lov/1999-07-02-64/§65a) kan bringes inn for retten, som kan prøve alle sider av saken. Søksmål rettes mot staten ved Statens helsepersonellnemnd. I slike saker har staten alminnelig verneting i Bergen. Departementet kan i enkeltsaker overta utøvelsen av statens partsstilling.
+
+Søksmål etter første ledd må reises innen seks måneder fra det tidspunkt vedtak i Statens helsepersonellnemnd har kommet fram til den som har klaget til nemnda. Søksmål kan likevel i alle tilfelle reises når det er gått seks måneder fra klage første gang ble framsatt, og det ikke skyldes forsømmelse fra klagerens side at nemndas avgjørelse ikke foreligger.
+
+Retten kan ved kjennelse beslutte at vedtak etter bestemmelsene i første ledd ikke skal ha virkning før det er truffet endelig vedtak i saken eller før endelig dom foreligger.
+
+Når fristene etter andre ledd er utløpt uten at søksmål er reist, har vedtaket samme virkning som rettskraftig dom.
+
+Bestemmelsen er ikke til hinder for at vedtak kan bringes inn for Sivilombudet.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 15 sep 2016 iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 1 nov 2016 for nytt andre og fjerde ledd iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 juli 2018 iflg. [res. 6 apr 2018 nr. 553](forskrift/2018-04-06-553)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 april 2023 nr. 8](lov/2023-04-28-8).
+
+### § 72. (Opphevet)
+
+> Opphevet ved [lov 21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)).
+
+## Kapittel 13. Forskjellige bestemmelser
+
+### § 73. Erstatning for tap ved suspensjon og tilbakekall
+
+Dersom vedtak om suspensjon eller tilbakekall viser seg å være ugyldig eller blir omgjort av annen grunn, kan det kreves erstatning for lidt tap etter vanlige erstatningsrettslige regler.
+
+### § 74. Bruk av beskyttet tittel
+
+Bare den som har norsk autorisasjon, lisens eller spesialistgodkjenning etter [§ 53](lov/1999-07-02-64/§53), har rett til å benytte slik yrkesbetegnelse som kjennetegner vedkommende gruppe helsepersonell. Dette gjelder også for den som hadde autorisasjon, lisens eller spesialistgodkjenning frem til bortfall på grunn av alder, jf. [§ 54](lov/1999-07-02-64/§54) første ledd.
+
+Personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan benytte den yrkesbetegnelsen de benytter i det landet de er etablert, på en slik måte at tittelen ikke forveksles med tilsvarende norsk tittel. Personell som har rett til å utøve yrke som lege, legespesialist, tannlege, tannlegespesialist, sykepleier, jordmor eller provisorfarmasøyt midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, kan bruke norsk yrkesbetegnelse.
+
+Rett til å bruke norsk tittel har også annet personell som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning, dersom norsk autorisasjonsmyndighet har kontrollert vedkommendes yrkeskvalifikasjoner.
+
+Ingen må uriktig benytte titler eller annonsere virksomhet på en slik måte at det kan gis inntrykk av at vedkommende har autorisasjon, lisens eller spesialistgodkjenning.
+
+Departementet kan i forskrift gi nærmere bestemmelser om hvilke titler som er beskyttet etter denne paragraf.
+
+> Endret ved lover [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762)).
+
+### § 75. Ikrafttredelse
+
+Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+
+### § 76. Overgangsordninger
+
+Forskrifter o.l. gitt med hjemmel i lover som oppheves eller endres når loven her trer i kraft, gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i loven.
+
+Den som ved lovens ikrafttredelse har autorisasjon, offentlig godkjenning som helsepersonell, lisens eller spesialistgodkjenning, beholder sin autorisasjon, godkjenning, lisens eller spesialistgodkjenning etter denne lov.
+
+Personer mellom 75 og 80 år som hadde autorisasjon, lisens eller spesialistgodkjenning som bortfalt da de fylte 75 år, kan gi melding til Helsedirektoratet eller den det bemyndiger om gjenerverv frem til de fyller 80 år. Helsedirektoratet eller den det bemyndiger skal uten godtgjørelse gi slik autorisasjon, lisens eller spesialistgodkjenning. Bestemmelsene i [§ 53](lov/1999-07-02-64/§53) andre, tredje og fjerde ledd og [§ 68](lov/1999-07-02-64/§68) andre ledd første punktum gjelder tilsvarende.
+
+Departementet kan fastsette forskrifter til gjennomføring av loven, herunder overgangsbestemmelser.
+
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [19 juni 2015 nr. 61](lov/2015-06-19-61) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 680](forskrift/2015-06-19-680)).
+
+### § 77. Opphevelse av og endringer i andre lover
+
+Fra den tid loven trer i kraft oppheves følgende lover:
+
+– – –
+
+Fra samme tid gjøres følgende endringer i andre lover: – – –

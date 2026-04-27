@@ -1,0 +1,524 @@
+---
+id: "sf-20190711-1005"
+slug: "fagskoleforskriften"
+type: "forskrift"
+ref_id: "forskrift/2019-07-11-1005"
+title: "Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)"
+short_title: "Fagskoleforskriften"
+language: "no"
+ministry:
+  - "Kunnskapsdepartementet"
+date_in_force: "2019-07-11"
+last_change_in_force: "2025-08-01"
+last_updated: "2019-09-26"
+xml_hash: "040da4f93fc57b66b6b370607f4770445d7da6c84b40a7f0632c908840e2f258"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om høyere yrkesfaglig utdanning (fagskoleforskriften)
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Virkeområde
+
+Forskriften gjelder høyere yrkesfaglig utdanning (fagskoleutdanning) som er omfattet av [lov 8. juni 2018 nr. 28](lov/2018-06-08-28) om høyere yrkesfaglig utdanning (fagskoleloven).
+
+### § 2. Definisjoner
+
+I denne forskriften menes med:*Emne:* De minste resultatbærende enhetene som gir uttelling i form av studiepoeng. Med minste resultatbærende enhet menes alle enheter som gir en selvstendig karakter, og som studenten må bestå for å få godkjent et vitnemålsgivende utdanningstilbud. Enhetene kan variere i omfang og skal fremkomme i vitnemålet. Hva som anvendes som begrep for den minste resultatbærende enheten, varierer fra fagskole til fagskole (modul, fag, emne, enhet, sertifikat).*Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.*Realkompetansevurdering:* En prosess for å vurdere den enkeltes kompetanse opp mot fastsatte kriterier. Vurderingen kan føre til opptak til fagskoleutdanning eller fritak fra deler av en fagskoleutdanning.*GSU-liste:* En oversikt over hvilke videregående utdanninger fra land utenfor Norden som gir generell studiekompetanse, med angivelse av tilleggskrav i norsk og engelsk der det er aktuelt.
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 3. Deltakelse i det samordnede opptaket for fagskoleutdanning
+
+(1) Opptak til fagskoleutdanning ved offentlige fagskoler organiseres gjennom det samordnede opptaket til fagskoleutdanning ved Direktoratet for høyere utdanning og kompetanse. Private fagskoler kan delta i det samordnede opptaket.
+
+(2) Departementet kan unnta enkeltutdanninger ved offentlige fagskoler fra deltakelse i det samordnede opptaket. Unntak kan innvilges dersom utdanningen har oppstartstidspunkt utenom ordinær semesterstart, utdanningen har kort varighet eller andre særlige grunner.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 4. Innhenting av personopplysninger og automatisert saksbehandling
+
+(1) Fagskolene kan innhente opplysninger om navn, fødselsnummer eller d-nummer, statsborgerskap, arbeidserfaring og vitnemål og annen dokumentasjon på oppnådd kompetanse fra andre offentlige myndigheter, fra offentlige systemer for vitnemål og fra statlige, fylkeskommunale og private utdanningsinstitusjoner, når dette er nødvendig for å ivareta søkeren eller studentens rettigheter eller utføre skolens oppgaver.
+
+(2) Fagskolene kan fatte vedtak ved helt eller delvis automatisert saksbehandling i sine systemer. Den personen som vedtaket retter seg mot, kan kreve at vedtaket overprøves manuelt.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 5. Behandling av personopplysninger i det samordnede opptaket
+
+(1) Den nasjonale opptakstjenesten kan innhente opplysninger om navn, fødselsnummer eller d-nummer, arbeidserfaring og vitnemål og annen dokumentasjon på oppnådd kompetanse fra andre offentlige myndigheter, offentlige systemer for vitnemål, statlige, fylkeskommunale og private utdanningsinstitusjoner, når formålet å behandle søknad om opptak til fagskoleutdanning ved fagskoler som deltar i det samordnede opptaket etter [§ 3](forskrift/2019-07-11-1005/§3).
+
+(2) Fagskolene og den nasjonale opptakstjenesten kan fatte vedtak ved helt eller delvis automatisert saksbehandling. Søkeren kan kreve at vedtaket overprøves manuelt.
+
+(3) Direktoratet for høyere utdanning og kompetanse er behandlingsansvarlig for den nasjonale opptakstjenesten.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 6. Falske vitnemål og dokumenter
+
+(1) Et vitnemål eller dokument er falskt dersom det inneholder skriftlig eller digital dokumentasjon som ikke er sannferdig, eller dersom innholdet i et opprinnelig, skriftlig eller digitalt, vitnemål eller dokument er manipulert eller endret.
+
+(2) Med dokument utferdiget av falske utdanningsinstitusjoner menes dokument som er utferdighet av ikke-eksisterende utdanningsinstitusjoner eller av utdanningsinstitusjoner som gir uriktig uttrykk for å ha akkreditering etter [fagskoleloven § 5](lov/2018-06-08-28/§5) eller tilsvarende utenlandsk regelverk.
+
+> Endret ved forskrift [7 juli 2021 nr. 2381](forskrift/2021-07-07-2381) (i kraft 1 aug 2021).
+
+## Kapittel 2. Opptakskrav
+
+### § 7. Kvalifisering for opptak
+
+(1) Opptak til fagskoleutdanning krever enten relevant fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse, jf. Nasjonalt kvalifikasjonsrammeverk for livslang læring nivå 4, eller tilsvarende realkompetanse.
+
+(2) Generell studiekompetanse reguleres av [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 2-1](forskrift/2017-01-06-13/§2-1), samt [§ 2-3](forskrift/2017-01-06-13/§2-3) og [§ 2-4](forskrift/2017-01-06-13/§2-4) om opptak på grunnlag av henholdsvis fullført høyere utdanning og fullført fagskoleutdanning, med mindre noe annet følger av forskriften her.
+
+(3) Realkompetansevurdering kan ikke foretas for opptakskrav fagskolene har fastsatt som gjelder yrkesgodkjenning, autorisasjon eller sertifisering etter annen lovgivning. Det kan heller ikke gis dispensasjon fra slike opptakskrav, jf. [§ 7b](forskrift/2019-07-11-1005/§7b).
+
+(4) Styret selv kan stille spesielle opptakskrav som er relevante for fagskoleutdanningen. Med spesielle opptakskrav menes krav om bestemte fag, fagbrev, svennebrev, karakterer, poeng, opptaksprøver, arbeidserfaringer, autorisasjoner, sertifiseringer eller andre yrkesgodkjenninger.
+
+(5) Styret selv kan i tillegg stille opptakskrav om fullført og bestått fagskoleutdanning til fagskoleutdanninger. Annen fagskoleutdanning kan kun settes som opptakskrav i tilfeller der de enkelte fagskoleutdanningene er selvstendige enheter som bygger på hverandre, og det totale løpet for utdanningene som bygger på hverandre ikke overskrider to år. I særlige tilfeller kan det totale utdanningsløpet være opptil tre år, jf. [§ 42](forskrift/2019-07-11-1005/§42).
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 7a. Dispensasjon
+
+(1) For studieåret 2022–23 kan fagskolene gjøre unntak fra kravene til opptak etter [§ 7](forskrift/2019-07-11-1005/§7) første og andre ledd og fra språkkrav i [§ 9](forskrift/2019-07-11-1005/§9) for søkere med oppholdstillatelse etter [utlendingsloven kapittel 4](lov/2008-05-15-35/kap4).
+
+(2) Fagskolen må vurdere søkerens kvalifikasjoner opp mot det faget søkeren ønsker å studere, og finne fram til egnede fremgangsmåter for slike vurderinger. Søkeren må ha nødvendige faglige forutsetninger for å gjennomføre den aktuelle utdanningen.
+
+> Tilføyd ved forskrift [28 juni 2022 nr. 1235](forskrift/2022-06-28-1235).
+
+### § 7b. Dispensasjon fra det generelle opptakskravet om fullført og bestått videregående opplæring
+
+(1) Fagskolene kan i særskilte tilfeller gjøre unntak fra kravet om bestått fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse. Vilkåret for slik dispensasjon er at søkeren kan dokumentere at det på grunn av varig sykdom, funksjonshemming eller liknende har vært umulig å oppfylle alle kravene som normalt må være oppfylt for å kunne fullføre og bestå videregående opplæring.
+
+(2) Fagskolen må vurdere kvalifikasjonene ut fra utdanningen søkeren ønsker å ta, og finne fram til egnede framgangsmåter for slike vurderinger.
+
+> Tilføyd ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 8. Unntak for kunstfaglige utdanninger
+
+Departementet kan etter søknad fra fagskolen gi kunstfaglige fagskoleutdanninger anledning til å ta opp søkere som er 19 år eller eldre i opptaksåret på grunnlag av realkompetanse og opptaksprøve, jf. [fagskoleloven § 16](lov/2018-06-08-28/§16) andre ledd. Dette kan gjelde for inntil 30 prosent av tilbudene om studieplass. Søknad sendes til departementet eller et underliggende organ oppnevnt av departementet.
+
+### § 9. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
+
+(1) Søkere med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak uten tilleggskrav i norsk.
+
+(2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden må dokumentere kunnskaper i norsk, såfremt den omsøkte fagskoleutdanningen ikke tilbys på et fremmedspråk. For fagskoleutdanninger hvor det kreves generell studiekompetanse, må søkere dokumentere kunnskaper i norsk på minimum nivå B2 i Europarådets referanserammeverk for språk. For andre fagskoleutdanninger fastsetter fagskolen i forskrift om søkere må dokumentere kunnskaper i norsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
+
+(3) Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+
+(4) For fagskoleutdanninger der søkere må dokumentere kunnskaper i norsk på minimum nivå B1, kan disse også dokumenteres med avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B1 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid (integreringsloven) § 37](lov/2020-11-06-127/§37).
+
+(5) Søkere som har utdanning fra International Baccalaureate (IB), og som enten har tatt norsk A eller norsk B på minimum lavere nivå («standard level»), eller som oppfyller kravene i tredje ledd, fyller kravene til generell studiekompetanse dersom de i tillegg oppfyller ett av følgende krav:oppnådd diplom fra International Baccalaureate (IB)oppnådd IB-Certificate med mer enn 20 poeng og bestått i tre fag på lavere nivå («standard level») og tre fag på høyere nivå («higher level»), eller bestått to fag på lavere nivå («standard level») og fire fag på høyere nivå («higher level»). Slike søkere kan ikke ha lavere karakter enn 3. Theory of Knowledge, Creativity, Action and Service og Extended Essay må også være bestått.
+
+(6) Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til fremmedspråklige utdanningsprogram og studenter som deltar i internasjonale utvekslingsprogram.
+
+(7) Fagskolen fastsetter i forskrift om det stilles språkkrav i engelsk, og i så fall om søkere må dokumentere kunnskaper i engelsk på minimum nivå B1 eller B2 i Europarådets referanserammeverk for språk.
+
+> Endret ved forskrifter [15 des 2020 nr. 2912](forskrift/2020-12-15-2912) (i kraft 1 jan 2021), [9 feb 2021 nr. 375](forskrift/2021-02-09-375).
+
+### § 10. Opptak på visse vilkår ved sen fag- eller svenneprøve (betinget opptak)
+
+(1) Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av det påfølgende semesteret.
+
+(2) Søkere som har fått opptak uten bestått fag- eller svenneprøve, kan ikke reservere studieplassen jf. [§ 13](forskrift/2019-07-11-1005/§13).
+
+(3) Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.
+
+(4) Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
+
+(5) Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig legge til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+
+### § 11. Opptak på visse vilkår (betinget opptak)
+
+(1) Søkere som på grunn av spesielle omstendigheter ikke kan avlegge eksamen i videregående opplæring, og som derfor ikke er kvalifisert for opptak til fagskoler som er omfattet av denne forskriften, kan få opptak til fagskoleutdanning dersom følgende vilkår er oppfylt:søkeren består eksamen i ett eller flere fag i videregående opplæring i løpet av første semester etter opptaksøkeren har standpunktkarakteren 2 eller bedre i fagetikke allerede har avsluttende vurdering i faget, ogoppfyller fastsatte karakterkrav når eksamen er avlagt.
+
+(2) Med spesielle omstendigheter menes sykdom, ulykker eller dødsfall i nær familie. Fagskolen kan gi betinget opptak på grunn av andre spesielle omstendigheter.
+
+(3) Søkeren som har fått opptak på visse vilkår, kan ikke få reservert studieplass til senere opptak.
+
+(4) Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene innen den fastsatte fristen, mister studieplassen og studieretten.
+
+(5) Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamen godkjent som bestått uten at opptakskravet er oppfylt.
+
+(6) Den fagskolen som gir et betinget opptak, skal så langt det er mulig og rimelig, legge til rette for at studenten både kan gå opp til utsatt eksamen i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til. Dersom fagskolene ikke finner å kunne legge til rette på denne måten, skal studenten få forlenget opptaket på visse vilkår til neste gang det blir arrangert utsatt eksamen i det aktuelle faget i videregående opplæring.
+
+### § 12. Overgangsregler for opptak
+
+(1) Generell studiekompetanse etter tidligere ordninger reguleres i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 9-1](forskrift/2017-01-06-13/§9-1).
+
+(2) Omregningstabell for søkere med vitnemål fra norsk gymnas med bokstavkarakterer reguleres i [forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning [§ 9-2](forskrift/2017-01-06-13/§9-2).
+
+### § 13. Reservasjon av studieplass
+
+(1) Søkere som har fått opptak ved en fagskole, kan etter søknad få inntil to års utsettelse av studiestart ved sykdom, svangerskap/barsel, verneplikt eller andre tungtveiende grunner.
+
+(2) Søknad med dokumentasjon skal sendes til fagskolen innen tre uker fra tilbudet om studieplass ble mottatt.
+
+## Kapittel 3. Rangering ved opptak
+
+### § 14. Rangering av søkere ved opptak
+
+(1) Rangering av kvalifiserte søkere skjer ved utregning av poeng.
+
+(2) Grunnlaget for rangering er karakterene fra den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng, jf. [§ 15](forskrift/2019-07-11-1005/§15).
+
+(3) Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
+
+(4) Hvis det er ledige studieplasser etter at det ordinære opptaket er gjennomført, kan fagskolene selv tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser behandles i den rekkefølgen de mottas, uavhengig av rangeringsbestemmelsene.
+
+(5) Hvis det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal fagskolen tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan hver fagskole tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 15. Poengberegning ved rangering av søkere
+
+(1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
+
+(2) For fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget, gis søkere følgende ekstra poeng:et fag- eller svennebrev gir 10 poeng. For søkere med to fagbrev, gir det andre fagbrevet 5 poeng. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.hvert fag- eller svennebrev med resultatet meget godt bestått gir ytterligere 5 poeng for det første fag- eller svennebrevet og 2 poeng for det andre.
+
+(3) Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat gir ikke poeng. Det kan gis inntil 10 poeng for relevant yrkespraksis.
+
+### § 16. Karakterforbedringer
+
+Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere karakter(er) i samme fag.
+
+### § 17. Rangering av søkere som ikke kan poengberegnes
+
+(1) Kvalifiserte søkere som ikke kan poengberegnes, må rangeres i forhold til poengberegnede søkere ved hjelp av en individuell skjønnsmessig vurdering. Fagskolen fastsetter selv skjønnskriteriene. For å få tilbud om opptak kreves det likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning.
+
+(2) I vurderingen skal fagskolen legge vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper.
+
+### § 18. Rangering på grunnlag av opptaksprøve
+
+Søkere til fagskoleutdanninger som har opptaksprøve som spesielt opptakskrav, skal rangeres på grunnlag av [§ 14](forskrift/2019-07-11-1005/§14)–§ 17 og opptaksprøven. Fagskolen fastsetter hvor stor vekt opptaksprøven skal tillegges.
+
+## Kapittel 4. Politiattest ved opptak til fagskoleutdanning
+
+### § 19. Informasjon om krav om politiattest
+
+Den enkelte fagskole har plikt til å gi tilstrekkelig og relevant informasjon om studienes innhold, herunder om det er krav om politiattest. Informasjon om krav om politiattest må også fremkomme i brev om tilbud om studieplass.
+
+> Endret ved forskrift [7 juli 2021 nr. 2381](forskrift/2021-07-07-2381) (i kraft 1 aug 2021).
+
+### § 20. Tidspunktet for fremleggelse av politiattest
+
+(1) Alle søkere som får tilbud om plass ved utdanninger med krav om politiattest, jf. [§ 19](forskrift/2019-07-11-1005/§19) første ledd, skal sende politiattest til utdanningsstedet innen fire uker fra tilbudet kommer frem.
+
+(2) Politiattesten må ikke være eldre enn tre måneder på tidspunktet for fremleggelse av attesten, jf. første ledd.
+
+### § 21. Bekreftelse ved opptak
+
+Til utdanninger med krav om politiattest skal søkere, sammen med melding om at de tar imot tilbud om studieplass, bekrefte at de kjenner regelverket om politiattest, og at de innen fristen vil levere attest som er relevant for opptak til vedkommende utdanning, jf. [§ 19](forskrift/2019-07-11-1005/§19).
+
+### § 22. Fornyet vandelskontroll
+
+Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
+
+### § 23. Behandling av politiattest med merknad
+
+(1) Søkeren eller studenten skal bidra til å opplyse saken ved å fremlegge dokumentasjon om forhold som ligger til grunn for merknader på politiattesten. Søker eller student som ikke fremlegger slik dokumentasjon, har ikke rett til å delta i klinisk undervisning eller praksisopplæring ved den aktuelle utdanningen.
+
+(2) Fagskolen skal snarest mulig og senest innen ti dager etter at all dokumentasjon i saken foreligger, fremlegge politiattesten til styret eller den lokale klagenemnda, jf. [fagskoleloven § 12](lov/2018-06-08-28/§12) femte ledd. Med politiattesten skal det følge en oversikt over innhold og veiledning i den kliniske undervisningen eller praksisstudiene og en begrunnet uttalelse om hvorvidt studenten bør utelukkes fra å delta i denne. Studenten skal samtidig få kopi av fagskolens uttalelse til styret eller nemnda med vedlegg, og gis fjorten dagers frist til å uttale seg.
+
+(3) Saken skal behandles snarest mulig, og senest innen fire uker etter at den er mottatt av styret eller den lokale klagenemnda. Studenten har ikke rett til å delta i klinisk undervisning eller praksisstudier før det er fattet vedtak i saken.
+
+(4) Styret eller den lokale klagenemnda skal vurdere om hensynet til pasienter, brukere, barnehagebarn, elever eller andre sårbare grupper skal føre til at studenten utestenges fra klinisk undervisning eller praksisstudier.
+
+(5) Styret eller den lokale klagenemnda kan innkalle studenten til møte dersom det er nødvendig for å få saken tilfredsstillende opplyst.
+
+(6) Nasjonal klagenemnd for fagskoleutdanning er klageinstans.
+
+(7) Politiattesten skal oppbevares i samsvar med [politiregisterforskriften § 37-2](forskrift/2013-09-20-1097/§37-2).
+
+### § 24. (Opphevet)
+
+> Opphevet ved forskrift [7 juli 2021 nr. 2381](forskrift/2021-07-07-2381) (i kraft 1 aug 2021).
+
+### § 25. (Opphevet)
+
+> Opphevet ved forskrift [7 juli 2021 nr. 2381](forskrift/2021-07-07-2381) (i kraft 1 aug 2021).
+
+## Kapittel 5. Skikkethet
+
+### § 26. Formålet med skikkethetsvurdering
+
+En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. En student som i utdanningen eller i fremtidig yrkesutøvelse kan utgjøre fare for liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, er ikke skikket for yrket.
+
+### § 27. Fagskoleutdanninger med skikkethetsvurdering
+
+(1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare, jf. [§ 26](forskrift/2019-07-11-1005/§26). Det skal fremgå av fagskolens forskrift hvilke fagskoleutdanninger dette gjelder.
+
+(2) Ved akkreditering av fagskoleutdanning skal det vurderes om fagskolen skal foreta skikkethetsvurderinger for den aktuelle fagskoleutdanningen.
+
+(3) Fagskolen fastsetter i forskrift om det skal foretas skikkethetsvurdering ved fagskoleutdanninger som allerede er akkrediterte. Departementet kan i særskilte tilfeller avgjøre om det skal foretas skikkethetsvurderinger ved bestemte fagskoleutdanninger.
+
+### § 28. Løpende og særskilt skikkethetsvurdering
+
+(1) Det skal foretas løpende skikkethetsvurdering av alle studenter ved fagskoleutdanninger som omfattes av [§ 27](forskrift/2019-07-11-1005/§27) første ledd, gjennom hele fagskoleutdanningen, jf. [fagskoleloven § 26](lov/2018-06-08-28/§26) første ledd. Den skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.
+
+(2) Hvis det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.
+
+### § 29. Vurderingskriterier
+
+(1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt på en slik måte at studenten utgjør en fare etter § 26:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
+
+(2) Departementet kan fastsette tilleggskriterier for enkeltutdanninger i særskilte tilfeller.
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 30. Informasjon til studentene
+
+Hver fagskole har plikt til å gi tilstrekkelig og relevant informasjon om fagskoleutdanningens innhold, herunder om at studentene vil bli skikkethetsvurdert. Ved studiestart skal fagskolen sørge for at alle studentene får informasjon om reglene for skikkethet.
+
+### § 31. Skikkethetsnemnd
+
+(1) Styret selv skal oppnevne en skikkethetsnemnd. Flere fagskoler kan gå sammen om en felles skikkethetsnemnd. En fagskole eller dens eier kan administrere en slik felles skikkethetsnemnd.
+
+(2) Skikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjonto faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.
+
+(3) Medlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år. Faglig leder eller tilsvarende funksjon er nemndas leder og har dobbeltstemme.
+
+(4) Minst to tredjedeler av nemndas medlemmer skal være til stede ved saksbehandlingen.
+
+### § 32. Skikkethetsansvarlig
+
+(1) Styret oppnevner én eller flere ansatte ved institusjonen som skikkethetsansvarlige for skikkethetsvurderingen. Det kan oppnevnes stedfortreder for skikkethetsansvarlige.
+
+(2) Skikkethetsansvarlige kan være medlem av skikkethetsnemnda.
+
+(3) Skikkethetsansvarlige innstiller til skikkethetsnemnda.
+
+### § 33. Tvilsmelding
+
+(1) Tvil om en students skikkethet meldes skriftlig til skikkethetsansvarlig. Den som leverer tvilsmelding, regnes ikke som part i saken.
+
+(2) Tvilsmeldinger som er åpenbart ugrunnet, skal ikke behandles av skikkethetsansvarlig.
+
+### § 34. Behandling hos skikkethetsansvarlig
+
+(1) Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkommendes skikkethet. Skikkethetsansvarlig skal innkalle studenten til vurderingssamtale og sørge for at saken blir så godt opplyst som mulig. Studenten skal få tilbud om utvidet oppfølging og veiledning med mindre det er åpenbart at slik oppfølging ikke er egnet til å hjelpe studenten. Praksisperioder kan utsettes fra tvilsmelding er mottatt til etter at utvidet veiledning er avsluttet, eller til saken er avgjort.
+
+(2) Fra vurderingssamtalen skal det lages skriftlig referat som inneholder en beskrivelse av saksforholdet og eventuelle planer for utvidet oppfølging og veiledning av studenten.
+
+(3) Hvis utvidet oppfølging og veiledning ikke medfører den nødvendige endring og utvikling hos studenten, skal skikkethetsansvarlig fremme saken for skikkethetsnemnda.
+
+### § 35. Behandling i skikkethetsnemnda
+
+(1) Saker som fremmes for skikkethetsnemnda skal følges av all skriftlig dokumentasjon i saken. Nemnda skal utrede saken ytterligere dersom det er nødvendig.
+
+(2) Studenten skal varsles i god tid om tidspunktet for møtet og gjøres kjent med sakens opplysninger. Studenten skal ha mulighet til å legge frem sine synspunkter for nemnda før møtet.
+
+(3) Nemnda lager en innstilling til styret eller fagskolens klagenemnd med en vurdering av hvorvidt studenten er skikket eller ikke, hvorvidt studenten bør utestenges helt eller delvis fra den aktuelle utdanningen, samt lengden på utestengingsperioden og eventuelle vilkår for at studenten skal få gjenoppta utdanningen. Uenighet i nemnda skal begrunnes og fremgå i innstillingen.
+
+### § 36. Behandling i styret eller institusjonens klagenemnd og utestengingsperiode
+
+(1) På bakgrunn av skikkethetsnemndas innstilling fatter styret selv eller institusjonens klagenemnd vedtak om at en student ikke er skikket. Det skal ikke utstedes vitnemål for den aktuelle utdanningen til en student som er funnet uskikket.
+
+(2) Hvis en student som er funnet uskikket skal utestenges fra utdanningen, skal det fattes særskilt vedtak om dette. Ved kortere utestenging enn fem år kan styret eller institusjonens klagenemnd stille vilkår som må være oppfylt før utdanningen gjenopptas.
+
+(3) Vedtak om utestenging skal opplyse studenten om at han/hun ikke kan søke eller ta imot plass ved lignende utdanninger i utestengingsperioden, og at han/hun må søke nytt opptak dersom utdanningen skal gjenopptas etter utestengingsperioden.
+
+## Kapittel 6. Faglige bestemmelser
+
+### § 37. Godskriving og fritak
+
+(1) Utgangspunktet for vurderinger om godskriving og fritak skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes om godskriving eller fritak for.
+
+(2) Fritak skal bygge på en faglig vurdering fra den enkelte fagskole. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.
+
+### § 38. Tilknytningskrav for utstedelse av vitnemål
+
+For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved fagskolen tilsvarende minste resultatbærende enhet i fagskoleutdanningen studenten ønsker vitnemål eller annen dokumentasjon for. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 39. (Opphevet)
+
+> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 40. Felles vurderingsuttrykk
+
+Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått eller ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.
+
+### § 41. Gradsbetegnelse for fagskoleutdanning
+
+(1) Gradsbetegnelse for fullført fagskoleutdanning av ett til halvannet års varighet (60–90 studiepoeng) skal være «Fagskolegrad».
+
+(2) Gradsbetegnelse for fullført fagskoleutdanning av to års varighet eller mer (minimum 120 studiepoeng) skal være «Høyere fagskolegrad».
+
+### § 42. Vilkår for treårig fagskoleutdanning
+
+(1) Departementet avgjør søknad om unntak for å etablere fagskoleutdanning på mellom 120 og 180 studiepoeng. Det er et vilkår for å få behandlet søknaden at utdanning av et slikt omfang er nødvendig ut fra internasjonale krav til yrkesutøvelse, særlige krav til sertifisering eller autorisasjon eller særlige krav i lov eller i medhold av lov.
+
+(2) Søker må dokumentere at det foreligger krav til autorisasjon eller sertifisering som gjør det nødvendig at fagskoleutdanningen har en varighet som tilsvarer mer enn to år på fulltid. Søker må dokumentere at det er etterspørsel etter denne typen kompetanse.
+
+(3) Etter at departementet har gitt tillatelse til å etablere en fagskoleutdanning på mellom to og tre år fulltid, skal utdanningen akkrediteres i henhold til gjeldende regelverk for akkreditering av fagskoleutdanning, jf. forskrift om tilsyn med kvaliteten i fagskoleutdanningen [kapittel 3](forskrift/2019-07-11-1005/kap3).
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+## Kapittel 7. Nasjonal klagenemnd for høyere yrkesfaglig utdanning
+
+> Overskrift endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 43. Virkeområde
+
+Den nasjonale klagenemndas oppgave er å behandle klager over enkeltvedtak truffet med hjemmel i:[fagskoleloven § 7 tredje ledd](lov/2018-06-08-28/§7/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 16](lov/2018-06-08-28/§16) om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. [§ 7](lov/2018-06-08-28/§7) første ledd eller spesielle opptakskrav jf. [§ 7](lov/2018-06-08-28/§7) femte ledd[fagskoleloven § 16a tredje ledd](lov/2018-06-08-28/§16a/ledd/3) om inndragning, annullering og karantenetid[fagskoleloven § 24](lov/2018-06-08-28/§24) om annullering av eksamen eller prøve[fagskoleloven § 25](lov/2018-06-08-28/§25) om bortvisning og utestenging[fagskoleloven § 26](lov/2018-06-08-28/§26) om vurdering av skikkethet[fagskoleloven § 27](lov/2018-06-08-28/§27) om politiattest.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 44. Klagenemndas oppnevning og sammensetning
+
+(1) Klagenemnda oppnevnes av departementet.
+
+(2) Klagenemnda skal ha sju medlemmer og skal være sammensatt slik:en leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Departementet utpeker leder og nestleder. Nestleder er vara for leder.to medlemmer med to numeriske varamedlemmer som er ansatt ved en fagskole.ett medlem med personlig varamedlem fra forvaltningsområdet for videregående opplæring.to medlemmer med ett varamedlem som representerer studentene. Medlemmene skal oppnevnes i samsvar med forslag fra representative studentorganisasjoner.
+
+(3) Medlemmene oppnevnes for inntil fire år, med unntak av studentrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
+
+(4) Kravene i [likestillings- og diskrimineringsloven § 28 første ledd](lov/2017-06-16-51/§28/ledd/1) skal oppfylles for studentrepresentantene og de øvrige medlemmene hver for seg.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [2 juli 2025 nr. 1463](forskrift/2025-07-02-1463) (i kraft 1 aug 2025).
+
+### § 45. Vedtaksførhet og flertallskrav
+
+(1) Klagenemnda er vedtaksfør når minst fire medlemmer, inkludert lederen eller nestlederen og en studentrepresentant, deltar i behandlingen.
+
+(2) Klagenemndas avgjørelser i saker etter [fagskoleloven § 25](lov/2018-06-08-28/§25) til [§ 27](lov/2018-06-08-28/§27) treffes med to tredels flertall. Klagenemndas avgjørelser i saker etter [fagskoleloven § 16](lov/2018-06-08-28/§16) og [§ 24](lov/2018-06-08-28/§24) treffes med alminnelig flertall.
+
+(3) Ved stemmelikhet har nemndas leder dobbeltstemme. Dersom nemndas leder ikke er til stede, har nestleder dobbeltstemme.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [2 juli 2025 nr. 1463](forskrift/2025-07-02-1463) (i kraft 1 aug 2025).
+
+### § 45a. Delegering i nemnda
+
+Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslutningen om delegering må være enstemmig.
+
+> Tilføyd ved forskrift [2 juli 2025 nr. 1463](forskrift/2025-07-02-1463) (i kraft 1 aug 2025).
+
+## Kapittel 8. Akkreditering og kvalitetssikring
+
+### § 46. Oppnevning av sakkyndige
+
+(1) NOKUT skal oppnevne sakkyndige for å gjennomføre vurdering ved:akkreditering av fagskoleutdanning etter [§ 47](forskrift/2019-07-11-1005/§47) og fagområde etter [§ 48](forskrift/2019-07-11-1005/§48), med mindre kravene i [§ 47](forskrift/2019-07-11-1005/§47) andre ledd og [§ 48](forskrift/2019-07-11-1005/§48) andre ledd er oppfylttilsyn med om vilkårene for akkreditering er oppfylt hvis det skal foretas faglige vurderinger, eller når vurderingen kan medføre tilbaketrekking av akkreditering, jf. [fagskoleloven § 5c](lov/2018-06-08-28/§5c).
+
+(2) De sakkyndige skal avgi rapport med anbefalinger om vedtak til NOKUT.
+
+(3) NOKUT gir forskrift om kriterier for de sakkyndiges kompetanse, oppnevning av sakkyndige og mandat og saksbehandlingsregler for de sakkyndiges arbeid.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 46a. Avvisning og avslag på søknad om akkreditering uten å oppnevne sakkyndige
+
+> **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 47. Akkreditering av fagskoleutdanning
+
+(1) NOKUTs akkrediteringsmyndighet etter [fagskoleloven § 5](lov/2018-06-08-28/§5) første ledd gjelder både nye fagskoleutdanninger og vesentlige endringer i allerede akkrediterte tilbud.
+
+(2) NOKUT kan avvise behandling av søknad uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig behandling. NOKUT kan avslå en søknad uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
+
+(3) NOKUT kan gi akkreditering uten bruk av sakkyndige dersom søknaden gjelder endringer i tidligere akkrediterte utdanningstilbud.
+
+(4) NOKUT skal påse at fagskoleutdanningen er i tråd med de internasjonale standarder, konvensjoner og avtaler som Norge er forpliktet til å følge.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 48. Akkreditering for fagområde
+
+(1) Vilkår for å få behandlet søknad om akkreditering for fagområde:Fagskolens primærvirksomhet skal være utdanning og være tydelig avgrenset fra eventuell annen virksomhetFagskolen må ha uteksaminert kandidater i minst én akkreditert fagskoleutdanning i minst to årFagskolen må dokumentere deltakelse i garanti- eller forsikringsordning som sikrer studenter refusjon av innbetalte skolepenger dersom fagskolen frivillig eller pålagt stanser en fagskoleutdanning og dette medfører at noen studenter ikke får fullført utdanningen etter oppsatt plan. Garanti- eller forsikringsordningen skal dekke innbetalte skolepenger for fagskoleutdanninger som enten blir avbrutt eller ikke starter.
+
+(2) NOKUT kan avvise behandling av søknad uten å oppnevne sakkyndige dersom søknaden har mangler som gjør den uegnet for sakkyndig behandling. NOKUT kan avslå en søknad uten å oppnevne sakkyndige dersom søknaden klart ikke oppfyller vilkårene for akkreditering.
+
+(3) Fagskoler som har akkreditering for fagområde, kan selv akkreditere nye fagskoleutdanninger og foreta vesentlige endringer i fagskoleutdanningene innen det akkrediterte fagområdet.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Endres** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 49. Kvalitetssikring av fagskoleutdanningen
+
+(1) Fagskoler skal ha et tilfredsstillende internt system for kvalitetssikring av utdanningen som bidrar til kvalitetsutvikling, forbedringer og fagskoleutdanningenes yrkesrelevans, gir tilfredsstillende dokumentasjon av kvalitetsarbeidet ved institusjonen og avdekker eventuell sviktende kvalitet i fagskoleutdanningene.
+
+(2) For søkere uten akkreditert fagskoleutdanning skal NOKUT vurdere om systemet for kvalitetssikring av utdanningen er tilfredsstillende.
+
+(3) NOKUT kan gi helt eller delvis unntak fra bestemmelsene om kvalitetssikring i denne paragrafen hvis et system for kvalitetssikring allerede inngår i kravene fra norsk offentlig sertifiserende eller autoriserende myndighet.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 50. (Opphevet)
+
+> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 51. (Opphevet)
+
+> Opphevet ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024). **Tilføyes** ved forskrift [12 juni 2025 nr. 1016](forskrift/2025-06-12-1016) (i kraft 1 aug 2026).
+
+### § 52. Bortfall av akkreditering av fagskoleutdanning
+
+Dersom det ikke har blitt tatt opp studenter og ingen studerer ved utdanningen i løpet av tre sammenhengende år, bortfaller akkrediteringen av fagskoleutdanningen. Dette gjelder ikke dersom fagskolen i løpet av siste tre år har hatt studenter ved samme akkrediterte fagskoleutdanning ved et annet studiested eller gjennom en annen organiseringsform.
+
+> Endret ved forskrift [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733).
+
+### § 53. Tilrettelegging og informasjon
+
+(1) Fagskoler som er omfattet av NOKUTs tilsyns- og kontrollvirksomhet, skal legge forholdene til rette for at NOKUT skal kunne utføre oppgaver som følger av lov og forskrift.
+
+(2) NOKUT kan kreve nødvendige og relevante opplysninger og redegjørelser og foreta undersøkelser for å gjennomføre tilsynsoppgaver som følger av lov og forskrift.
+
+### § 54. NOKUTs myndighet til å fastsette utfyllende bestemmelser
+
+NOKUT kan fastsette utfyllende bestemmelser til denne forskrift omvilkår for akkreditering av fagskoleutdanningvilkår for akkreditering for fagområdevilkår for institusjonsakkrediteringkrav til fagskolenes system for kvalitetssikring av utdanningen og krav til fagskolenes kvalitetsarbeidsaksbehandlingsregler for NOKUTs akkrediteringsarbeid, tilsyn med fagskolenes kvalitetsarbeid og med kvaliteten i fagskoleutdanninger og i akkrediterte fagområder.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+### § 55. Forholdet til forvaltningsloven
+
+NOKUTs enkeltvedtak etter [fagskoleloven § 5](lov/2018-06-08-28/§5) og [§ 5a](lov/2018-06-08-28/§5a) kan bare påklages av den fagskolen vedtaket gjelder. NOKUTs faglige vurderinger i vedtakene kan ikke påklages.
+
+> Endret ved forskrift [23 juni 2024 nr. 1349](forskrift/2024-06-23-1349) (i kraft 1 aug 2024).
+
+## Kapittel 9. Godkjenning av utenlandsk fagskoleutdanning
+
+### § 56. Søkerens plikt til å fremlegge dokumentasjon
+
+(1) Søkere må legge følgende dokumenter ved søknaden:vitnemål eller tilsvarende bevis på fullført fagskoleutdanning eller annen yrkesfaglig utdanning på tilsvarende nivå, og tilhørende karakterutskriftdokumentasjon på fag- eller svennebrev, fullført utdanning eller realkompetanse som ga opptak til utdanningen nevnt i abevis på eventuell navneendringoversettelse til norsk eller engelsk av dokumentene nevnt i a, b og c dersom dokumentene er utferdiget på et annet språk enn norsk, engelsk, finsk, dansk, svensk eller islandsk. Oversettelsen må være utført av statsautorisert translatør eller oversettelsesbyrå.
+
+(2) Søkere som ikke benytter elektronisk ID, må laste opp gyldige identitetsdokumenter.
+
+(3) Ved behov for å opplyse saken ytterligere kan Direktoratet for høyere utdanning og kompetanse kreve dokumentasjon ut over bestemmelsene i første og andre ledd. Dette gjelder tilfeller hvor tilleggsdokumentasjonen ikke er urimelig krevende å oppdrive for søkeren, og denne vil gjøre direktoratets saksbehandling vesentlig enklere.
+
+(4) Direktoratet for høyere utdanning og kompetanse kan kreve originaldokumenter ettersendt for kontroll.
+
+> Endret ved forskrift [16 des 2022 nr. 2323](forskrift/2022-12-16-2323) (i kraft 1 jan 2023).
+
+### § 57. Direktoratet for høyere utdanning og kompetanses saksbehandling
+
+(1) Direktoratet for høyere utdanning og kompetanse vurderer dokumentenes ekthet og kan verifisere dokumenter ved henvendelse til utstederen av disse eller til rett myndighet i opprinnelseslandet.
+
+(2) Direktoratet for høyere utdanning og kompetanse kan avslå en søknad dersom det ikke er mulig å verifisere ektheten av den tilhørende dokumentasjonen, eller dersom direktoratet ikke kan fastslå at dokumentasjonen gir uttrykk for korrekte opplysninger.
+
+(3) Ved generell godkjenning skal Direktoratet for høyere utdanning og kompetanse påse at den aktuelle utdanningen er underlagt tilfredsstillende kvalitetssikring ved lærestedet den er gjennomført. Med tilfredsstillende kvalitetssikring menes en form for offentlig akkreditering, eller kvalitetssikring utført av uavhengige aktører, internasjonale organisasjoner eller lignende.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [16 des 2022 nr. 2323](forskrift/2022-12-16-2323) (i kraft 1 jan 2023).
+
+### § 58. Direktoratet for høyere utdanning og kompetanses godkjenningsvedtak
+
+Direktoratet for høyere utdanning og kompetanses vedtak om generell godkjenning av utenlandsk fagskoleutdanning eller en annen yrkesfaglig utdanning fra utlandet på tilsvarende nivå, skal angi om utdanningen er sidestilt i nivå og omfang med norsk fagskoleutdanning. Vedtaket skal kort beskrive fagområdet for utdanningen, blant annet ved å oppgi hvilket yrke eller hvilken bransje eller sektor utdanningen kvalifiserer for der den er avlagt.
+
+> Endret ved forskrifter [8 sep 2021 nr. 2733](forskrift/2021-09-08-2733), [16 des 2022 nr. 2323](forskrift/2022-12-16-2323) (i kraft 1 jan 2023).
+
+## Kapittel 10. Ikrafttredelse og endringer i andre forskrifter
+
+### § 59. Ikrafttredelse og overgangsbestemmelse
+
+(1) Forskriften trer i kraft straks.
+
+(2) Fra samme tidspunkt oppheves [forskrift 22. november 2018 nr. 1776](forskrift/2018-11-22-1776) om høyere yrkesfaglig utdanning.
+
+(3) Retten til å få utskrevet nytt vitnemål etter [fagskoleloven § 19](lov/2018-06-08-28/§19) jf. [§ 44](lov/2018-06-08-28/§44) fjerde ledd gjelder tilsvarende for tidligere studenter som ønsker vitnemål med gradsbetegnelse etter denne forskriften [§ 41](forskrift/2019-07-11-1005/§41).
+
+### § 60. Endringer i andre forskrifter
+
+Fra den tiden forskriften trer i kraft, gjøres følgende endringer i [forskrift 1. februar 2010 nr. 96](forskrift/2010-02-01-96) om kvalitetssikring og kvalitetsutvikling i høyere utdanning og fagskoleutdanning:– – –

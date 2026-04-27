@@ -1,0 +1,80 @@
+---
+id: "sf-20220617-1045"
+slug: "a-kriminformasjonsforskriften"
+type: "forskrift"
+ref_id: "forskrift/2022-06-17-1045"
+title: "Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)"
+short_title: "A-kriminformasjonsforskriften"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2022-06-20"
+last_change_in_force: null
+last_updated: "2025-01-17"
+xml_hash: "011f913157b7f7926de59039e23d70820ac448892a206c89a3443fa861c93d35"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
+
+## § 1. Formål
+
+Formålet med forskriften er å sikre nødvendig adgang til deling og annen behandling av taushetsbelagte opplysninger for å oppnå et effektivt samarbeid om forebygging og bekjempelse av arbeidslivskriminalitet. Forskriften skal også bidra til ivaretakelse av personvern.
+
+## § 2. Forholdet til personopplysningsloven
+
+[Personopplysningsloven](lov/2018-06-15-38) gjelder for behandlingen av personopplysninger i det tverretatlige samarbeidet mot arbeidslivskriminalitet med utfyllende regler fastsatt i denne forskriften.
+
+## § 3. Deling av taushetsbelagte opplysninger
+
+Når det er nødvendig for å løse oppgaver som er lagt til mottaker- eller avsenderorganet, og som gjelder å forebygge, avdekke, forhindre eller sanksjonere lovbrudd som kan gi dårligere arbeidsvilkår, krenke arbeidstakeres rettigheter, skade konkurransen i næringslivet eller medføre misbruk av skatte-, avgifts- eller velferdsordninger, kan følgende organer dele opplysninger med hverandre uten hinder av taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13):Arbeids- og velferdsetatenArbeidstilsynetDet lokale el-tilsynFiskeridirektoratetFylkeskommuner eller kommuner som inngår i et etablert a-krimsamarbeidKystvaktenMattilsynetSjøfartsdirektoratetStatens vegvesenUtlendingsdirektoratetStatens innkrevingssentral, Innkrevingssentralen for bidrag og tilbakebetalingskrav og øvrige innkrevingsmyndigheter under Skatteetaten når de er underlagt taushetsplikt etter [forvaltningsloven](lov/1967-02-10)Politiet når de utfører forvaltningsoppgaver eller sivile gjøremål.Organene nevnt i første punktum kan på samme vilkår dele slike opplysninger med Skatteetaten, Tolletaten, politiet og medarbeidere i Nasjonalt tverretatlig analyse- og etterretningssenter.
+
+I forbindelse med konkrete saker om forebygging, avdekking, avverging eller sanksjonering av lovbrudd som nevnt i første ledd kan organene nevnt i første ledd første punktum, så langt det er nødvendig, også dele taushetsbelagte opplysninger med enheter og personer i andre fylkeskommuner eller kommuner som er berørt av sakene. De aktuelle fylkeskommunene og kommunene kan på tilsvarende vilkår dele slike opplysninger med de nevnte organene og med hverandre.
+
+Ved vurderingen av hva som er nødvendig etter første ledd, skal det foretas en forholdsmessighetsvurdering, der det blant annet skal legges vekt på formålet med delingen, det aktuelle lovbruddets karakter og alvorlighet, konsekvensene for den enkelte arbeidstaker, arbeidslivet eller velferdssystemet og opplysningenes sensitivitet.
+
+Opplysningene skal deles skriftlig eller gjennom registrering i det felles IKT-systemet, med mindre tidsmessige eller praktiske grunner gjør det nødvendig å dele muntlig. Dersom opplysningene deles utenfor det felles IKT-systemet, skal det nedtegnes hvilke opplysninger som deles, og hvem som mottar opplysningene. Deles opplysninger som ikke er verifiserte, skal dette opplyses til mottakeren og nedtegnes.
+
+## § 4. Bruk og tilgang til et felles IKT-system
+
+Organene nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd kan behandle personopplysninger og opplysninger som omfattes av [forvaltningsloven § 13](lov/1967-02-10/§13) første ledd nr. 2, i et felles IKT-system når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd.
+
+Ansatte i Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten og politiet skal gis tilgang til det felles IKT-systemet dersom de er lokalisert i a-krimsentrene og har tjenstlig behov for slik tilgang. Ansatte i offentlige organer nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd som deltar i et etablert a-krimsamarbeid, kan også gis tilgang til systemet dersom de har tjenstlig behov for det, og det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd.
+
+## § 5. Sammenstilling
+
+Organene nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd kan sammenstille personopplysninger som er delt for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, når dette er nødvendig for åavdekke relevant informasjon om lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første leddutarbeide analyser og rapporter om aktører, miljøer, utviklingstrekk og aktiviteter knyttet til lovbrudd som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, ellerutarbeide evalueringer og beslutningsgrunnlag for styring, prioriteringer, valg av kontrollobjekter og bruk av virkemidler.
+
+Sammenstillingen kan skje gjennom bruk av et felles IKT-system og ved bruk av helautomatiserte analyseverktøy.
+
+## § 6. Opplysninger som kan behandles
+
+Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan blant annet opplysninger om følgende forhold behandles:navn og eventuelle aliasadresse, kjønn, sivil status, fødested og fødselsnummerstatsborgerskap, oppholdsgrunnlag og -statusutlendingsidentifikasjon, identifikasjonsnummer og -kort, misbrukt eller fiktiv identitetandre folkeregistrerte opplysningersignalement og bildeelektronisk kontaktinformasjon og elektroniske profiler på Internettutdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.ansettelsesforhold, yrker og vervoppdrag, kontrakter og avtaleforholdtilknytning til virksomheter eller personer som bistår den registrerte eller utsetter vedkommende for arbeidslivskriminalitet og kontaktpersonerat noen har blitt eller kan bli utsatt for arbeidslivskriminalitetpersoner som gir opplysninger om arbeidslivskriminalitetbevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontrollformuesgoder, herunder fast eiendom og tilknyttede eierforhold, rettigheter og løsøremotorvogn eller annet transportmiddel, identifikasjonsnummer, historikk, bruk og eierforholdvirksomhetsidentifikasjon, herunder navn og organisasjonsnummereierskap, formelle og uformelle roller, tilknytninger til andre fysiske eller juridiske personer eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement, overdragelse og omstruktureringtransaksjoner og betalingsopplysninger, bankkonti, finansielle instrumenter, elektroniske valuta og -penger, andre typer finanskonti og kontodisponentbudsjett- og regnskap, inntekt og formue, skattefastsetting og -beregning, rapporteringspliktig eller innrapportert skatt, gebyr eller avgift og innkrevingstønader, ytelser, trygder, pensjon, arbeidsmarkedstiltak, ytelser etter [forsikringsavtaleloven](lov/1989-06-16-69) og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner, og opplysninger om forhold som ligger til grunn for dissekonkurs- og bobehandlingtidligere kontroller og ilagte administrative sanksjoner.
+
+## § 7. Behandling av særlige kategorier av personopplysninger og opplysninger om straffedommer og lovovertredelser
+
+Når det er nødvendig for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) første ledd, kan behandlingen av opplysninger etter denne forskriften også omfatte følgende opplysninger:fagforeningsmedlemskaphelseforholdpersonopplysninger som nevnt i [personvernforordningen artikkel 10](lov/2018-06-15-38/gdpr/a10).
+
+## § 8. Behandlingsansvar
+
+Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten og Politidirektoratet skal sørge for at det etableres en ordning for ivaretakelse av behandlingsansvaret. Det skal utpekes et kontaktpunkt for de registrerte.
+
+Skattedirektoratet har ansvaret for ivaretakelsen av fellestjenester knyttet til det felles IKT-systemet. Med fellestjenester menes administrative aktiviteter innen drift, forvaltning, vedlikehold, sikring og utvikling av IKT-systemet, herunder lagring av opplysninger, forvaltning av elektronisk tilgang, sikring av opplysninger og oppdateringer.
+
+Skattedirektoratet er behandlingsansvarlig for behandlingen av personopplysninger i det felles IKT-systemet ved utførelse av fellestjenester etter annet ledd.
+
+## § 9. Arkivering og sletting
+
+Opplysningene i det felles IKT-systemet skal arkiveres og avleveres til Arkivverket etter [arkivlova](lov/1992-12-04-126) med forskrifter. Opplysningene skal gjøres utilgjengelig og oppbevares atskilt innen tidsfristene i annet ledd fram til avleveringen til Arkivverket.
+
+Opplysninger som ikke skal arkiveres etter første ledd, skal slettes når de ikke lenger er nødvendige for å løse oppgaver som nevnt i [§ 3](forskrift/2022-06-17-1045/§3) og senest innen tre år. Dersom slike opplysninger fortsatt er nødvendige for formålet med registreringen, kan de behandlingsansvarlige beslutte fortsatt registrering for inntil 3 år av gangen.
+
+## § 10. Ikrafttredelse og endringer i andre forskrifter
+
+Forskriften trer i kraft 20. juni 2022.
+
+Fra samme tid skal [forskrift 23. november 2016 nr. 1360 til skatteforvaltningsloven § 3-3-1](forskrift/2016-11-23-1360/§3-3-1) annet ledd bokstav m lyde: – – –

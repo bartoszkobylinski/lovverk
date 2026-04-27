@@ -1,0 +1,58 @@
+---
+id: "sf-20191209-1698"
+slug: "forskrift-om-aksjeselskapers-og-allmennaksjeselskapers-adgang-til-å-yte-finansiell-bistand-til-ansattes-erverv-av-aksjer"
+type: "forskrift"
+ref_id: "forskrift/2019-12-09-1698"
+title: "Forskrift om aksjeselskapers og allmennaksjeselskapers adgang til å yte finansiell bistand til ansattes erverv av aksjer"
+short_title: "Forskrift om aksjeselskapers og allmennaksjeselskapers adgang til å yte finansiell bistand til ansattes erverv av aksjer"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2020-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "51bdbdfefc488315ef2319a181d114891f67a747a968752edf235b11212367a0"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om aksjeselskapers og allmennaksjeselskapers adgang til å yte finansiell bistand til ansattes erverv av aksjer
+
+## § 1. Forskriftens virkeområde
+
+Denne forskriften gjelder unntak fra [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) og regulerer aksjeselskapers og allmennaksjeselskapers adgang til å yte finansiell bistand til ansattes erverv av aksjer.
+
+## § 2. Adgang til å yte finansiell bistand til ansattes aksjeerverv
+
+Et aksjeselskap eller allmennaksjeselskap kan uten hinder av [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10) yte finansiell bistand til eller for selskapets ansatte eller ansatte i selskapets morselskap i forbindelse med de ansattes erverv av aksjer i selskapet eller selskapets morselskap, dersom kravene i [§ 3](forskrift/2019-12-09-1698/§3) til [§ 5](forskrift/2019-12-09-1698/§5) er oppfylt. Likestilt med aksjer er rett til å erverve aksjer.
+
+Med finansiell bistand menes å stille midler til rådighet, yte lån eller stille sikkerhet.
+
+## § 3. Generell ordning
+
+Tilbudet om finansiell bistand skal gis de ansatte på like vilkår.
+
+Tilbudet må omfatte alle som har vært ansatt i selskapet sammenhengende i minst 12 måneder. Selskapet kan likevel fastsette en lavere grense for ansettelsestid.
+
+## § 4. Den finansielle bistandens størrelse
+
+Den finansielle bistanden skal, på det tidspunktet den ytes, ligge innenfor rammen av de midler som selskapet kan benytte til utdeling av utbytte.
+
+Den finansielle bistanden i forbindelse med ervervet må for den enkelte ansatte ikke overstige 20 prosent av netto utbetalt årslønn etter forskuddstrekk. Beløpet kan likevel ikke overstige folketrygdens grunnbeløp (G).
+
+## § 5. Sikkerhetsstillelse
+
+Betryggende sikkerhet skal stilles fra det tidspunkt den finansielle bistanden ytes.
+
+Dersom sikkerhet stilles i form av trekk i den ansattes lønn, skal trekk skje ved hvert tidspunkt lønn utbetales, og hvert trekk skal være forholdsvis like stort. Trekk i lønn kan skje i inntil 24 måneder. Selskapet skal i avtale med den ansatte sikre seg retten til å gjøre opp det resterende beløpet senest i siste avlønning dersom den ansatte slutter i sin stilling i selskapet før hele beløpet er betalt tilbake, og sikre seg rett til å gjøre trekk i lønnen i oppsigelsesperioden.
+
+## § 6. Ulovlig finansiell bistand
+
+Har selskapet ytt finansiell bistand i strid med reglene i denne forskriften, er disposisjonen ugyldig etter bestemmelsene i [aksjeloven § 8-11](lov/1997-06-13-44/§8-11) og § allmennaksjeloven [§ 8-11](lov/1997-06-13-44/§8-11).
+
+## § 7. Ikrafttredelse. Oppheving av tidligere forskrift
+
+Forskriften trer i kraft 1. januar 2020. Fra samme tidspunkt oppheves [forskrift 30. november 2007 nr. 1336](forskrift/2007-11-30-1336) om unntak fra [aksjeloven § 8-10](lov/1997-06-13-44/§8-10) og [allmennaksjeloven § 8-10](lov/1997-06-13-45/§8-10).

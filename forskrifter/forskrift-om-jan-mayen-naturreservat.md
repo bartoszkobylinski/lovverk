@@ -1,0 +1,157 @@
+---
+id: "sf-20101119-1456"
+slug: "forskrift-om-jan-mayen-naturreservat"
+type: "forskrift"
+ref_id: "forskrift/2010-11-19-1456"
+title: "Forskrift om fredning av Jan Mayen naturreservat"
+short_title: "Forskrift om Jan Mayen naturreservat"
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "2010-11-19"
+last_change_in_force: "2021-11-01"
+last_updated: null
+xml_hash: "58dbced5f7c377193a8bbf82b29a7c142b9d7a310d5023c6b589b14c3797bf8a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om fredning av Jan Mayen naturreservat
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Fredning
+
+Øya Jan Mayen er fredet som naturreservat under betegnelsen Jan Mayen naturreservat.
+
+### § 2. Avgrensning og omfang
+
+Det fredete området omfatter;hele øya, med unntak av et virksomhetsområde på østsiden av øya (Olonkinbyen, den meteorologiske stasjonen og flyplassen), samt et mindre område i Kvalrossbukta på vestsiden av øyatilliggende territorialfarvann med unntak av et marint areal i og 500 meter utenfor Båtvika.
+
+Naturreservatet utgjør ca. 375 km2 landareal og ca. 4315 km2 marint areal.
+
+Grensen for naturreservatet fremgår av vedlagte kart i målestokk 1:330 000 og 1:25 000, datert Klima- og miljødepartementet november 2010. Knekkpunktene for naturreservatet skal koordinatbestemmes.
+
+Fredningsforskriften med kart skal oppbevares hos Statsforvalteren i Nordland, i Direktoratet for naturforvaltning, hos Riksantikvaren og i Klima- og miljødepartementet.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+
+### § 3. Formål
+
+Formålet med fredningen er å bevare en tilnærmet uberørt arktisk øy og tilgrensende sjøområder, inkludert havbunnen, med særegent landskap, aktive vulkansystemer, spesiell flora og fauna og mange kulturminner, herunder spesielt sikre;øyas storslåtte og unike landskapøyas egenartede vulkanske bergarter og landformerøya som et meget viktig leveområde for sjøfuglden nære sammenhengen mellom livet i havet og på landden særegne økologien som utvikles på isolerte øyerdet historiske perspektivet som kulturminner fra alle hovedepokene i Jan Mayens historie representererøya og tilliggende marint areal som et referanseområde for forskning.
+
+## Kapittel II. Fredningsbestemmelser
+
+### § 4. Landskap, naturmiljø, flora, fauna, kulturminner, ferdsel og forurensning
+
+Det må ikke iverksettes virksomhet som kan påvirke landskap, naturmiljø eller kulturminner som f.eks. oppføring av bygninger, anlegg, herunder tankanlegg, og faste innretninger, herunder antenner, hensetting av brakker og lignende, fremføring av ledninger og kabler, uttak, oppfylling, flytting og lagring av masse, fjerning av drivtømmer, planering, anlegg av vei, kai, landingsplass, bruk av fiske- og fangstredskaper som kan skade havbunnen, drenering og annen form for tørrlegging, boring, sprengning eller lignende og uttak av mineraler eller olje.
+
+Ingen må skade, grave ut, flytte, fjerne, forandre, tildekke, skjule eller skjemme fredet løst eller fast kulturminne eller sette i gang tiltak som kan medføre fare for at slikt skjer.
+
+Bestemmelsen i pkt. 1.1 er ikke til hinder for;bruk av tillatte fiske- og fangstredskaper i sjøen med unntak av redskaper som kan gi vesentlig skade på havbunnennødvendig vedlikehold av eksisterende vei mellom Olonkinbyen/Flyplassen og Kvalrossbuktanødvendig vedlikehold av eksisterende vei/kjørespor mellom Trongskarkrysset og Gamle Mettenbruk av drivtømmer til vedlikehold av og brensel til eksisterende hytter på øya og til mindre bål på stedet.
+
+Dyr, planter og andre levende organismer er fredet mot skade, ødeleggelse og forstyrrelse av enhver art som ikke skyldes tillatt ferdsel.
+
+Plante- eller dyrearter, herunder genmodifiserte arter og former, må ikke innføres eller utsettes.
+
+Bestemmelsen i pkt. 2.1 er ikke til hinder for;høsting av viltlevende marine ressurser i henhold til regler gitt av Fiskeri- og kystdepartementet. Unntaket gjelder ikke bruk av redskaper som kan gi vesentlig skade på havbunnen.
+
+I denne forskrift forstås med;
+*Kulturminne:* Alle spor etter menneskelig virksomhet i det fysiske miljøet, herunder transportmidler, byggverk og anlegg av enhver art.
+*Fast kulturminne:* Kulturminne som er fysisk knyttet til grunnen eller til en bestemt lokalitet.
+*Løst kulturminne:* Kulturminne som ikke er fast kulturminne.
+
+Automatisk fredete kulturminner er;faste kulturminner fra 1945 eller tidligere, herunder fly- og båtvrakløse kulturminner fra 1945 eller tidligere, når de kommer for dagen tilfeldig, ved undersøkelse, utgraving eller på annen måteGamle Metten-anlegget med tilhørende inventar og utstyrspor etter menneskegraver av alle slag, herunder kors og andre gravmarkeringer, minnesmerker og bein og skjelettresterhvalbein og skjelettrester på tidligere slakteplasser for hval.
+
+Forvaltningsmyndigheten avgjør i tvilstilfelle hva som er fredet fast og løst kulturminne og kan oppheve fredningen av bestemte kulturminner.
+
+Er det fare for forfall, eller har eier/bruker påført et fredet kulturminne skade, kan forvaltningsmyndigheten pålegge eier eller bruker å gjennomføre tiltak for å motvirke forfall eller gjenopprette skaden. Etterkommes ikke pålegget, kan forvaltningsmyndigheten la arbeidet utføre på eiers eller brukers bekostning. Kravet er tvangsgrunnlag for utlegg.
+
+Fredete løse kulturminner er statens eiendom når det synes klart at det ikke lenger er rimelig mulighet til å finne ut om det er noen eier eller hvem som er eier.
+
+Forvaltningsmyndigheten kan overlate kulturminnet helt eller delvis til finneren.
+
+All ferdsel skal foregå på en måte som ikke skader eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av dyreliv.
+
+Telting og leiropphold er kun tillatt for stasjonens ansatte og deres besøkende.
+
+Ilandsetting av personer fra båt er ikke tillatt innenfor naturreservatet. Stasjonssjefen kan i særlige tilfeller gi tillatelse til ilandsetting innenfor reservatet.
+
+Landing med luftfartøy er forbudt i naturreservatet. I tiden fra og med 1. april til og med 31. august er det, utover det som er nødvendig for atkomst til virksomhetsområdene, forbudt å fly nærmere enn 1 nautisk mil fra konsentrasjoner av fugl og pattedyr. I samme periode er det forbudt å bruke skipsfløyte, løsne skudd eller på annen måte forårsake kraftig støy i eller innen en avstand av 1 nautisk mil fra fuglefjell.
+
+Bruk av motorkjøretøy til lands er kun tillatt med stasjonens transportutstyr i kjørespor og på veier som er avmerket på kartet nedenfor.
+
+Bestemmelsen i 1.1 og 4.5 er ikke til hinder for bruk av alternative spor i forbindelse med nødvendig nyttekjøring, når eksisterende vei eller kjørespor som vist på kart midlertidig er satt ut av drift grunnet spesielle vær- eller vindforhold.
+
+Bestemmelsen i 4.5 er ikke til hinder for ferdsel i terrenget med snøscooter eller bandvogn på frossen og snødekt mark;ved transport av forsyninger til stasjonen, dersom værforholdene medfører at skip må anløpe annet sted ved øya enn i Båtvika,ved inspeksjon og vedlikehold av installasjoner,ved transport i forbindelse med vedlikehold og frakt av brensel og forsyninger til eksisterende veiløse hytter,ved kjøring til hyttene for helgeturer og lignende som rekreasjon for ansatte ved stasjonen.
+
+Forvaltningsmyndigheten kan ved forskrift forby/regulere enhver ferdsel i hele eller deler av naturreservatet, dersom det anses nødvendig for å unngå forstyrrelse av dyrelivet eller slitasje på vegetasjon eller kulturminner.
+
+All forurensning til luft, vann eller grunnen som medfører eller kan medføre skade eller ulempe for miljøet er forbudt med unntak av forurensning som skyldes tillatt motorisert ferdsel og tillatte utslipp fra virksomhetsområdene.
+
+Det er forbudt å etterlate eller tømme avfall.
+
+Stoffer og gjenstander som kan skade planter og dyr, som er skjemmende eller som kan medføre fare for forurensning må ikke lagres eller etterlates.
+
+## Kapittel III. Unntak og dispensasjoner
+
+### § 5. Generelle unntak
+
+Bestemmelsene i [§ 4](forskrift/2010-11-19-1456/§4) er ikke til hinder for;Utrykning for brann-, politi- eller redningstjeneste, militær operativ virksomhet og oppsyn eller tilsyn med verneområdet.Undersøkelser, skjøtsel og vedlikehold av kulturminner.
+
+Forvaltningsmyndigheten har rett til og kan gi andre tillatelse til å søke etter, grave frem, granske og dokumentere fredete kulturminner.
+
+### § 6. Dispensasjoner
+
+Forvaltningsmyndigheten kan gi dispensasjon til;ombygging og mindre tilbygg til eksisterende bygningergjenoppbygging av bygninger som er ødelagt ved brann eller naturkatastrofeuttak av grus fra et område i Trongskaret (Blåsåsen)anlegg langs veien mellom Kvalrossbukta og Båtvika knyttet til aktivitet innenfor virksomhetsområdeneanlegg på sjøbunnen knyttet til aktivitet innenfor virksomhetsområdeneetablering av navigasjonshjelpemidler og romrelatert bakkeinfrastrukturtiltak som ivaretar særskilte behov i forbindelse med rekreasjon hos stasjonens ansatte.tiltak som kan virke inn på fredete kulturminner.
+
+Utover tiltak som nevnt i første ledd kan forvaltningsmyndigheten dispensere fra fredningsbestemmelsene i [§ 4](forskrift/2010-11-19-1456/§4), når vitenskapelige eller særlige grunner for øvrig taler for det.
+
+Viser det seg først når et tiltak er i gang at det kan virke inn på et fredet kulturminne, skal forvaltningsmyndigheten varsles umiddelbart og arbeidet stanses. Forvaltningsmyndigheten avgjør snarest mulig om tiltaket kan fortsette og vilkårene for det.
+
+Kulturminnefunn som kommer frem ved undersøkelser, utgravning eller andre tiltak i naturreservatet, skal dokumenteres og konserveres på tiltakshaverens regning, om ikke annet blir bestemt av forvaltningsmyndigheten.
+
+Dispensasjon som nevnt i første og annet ledd kan bare gis dersom det omsøkte tiltak ikke strider mot fredningsforskriftens formål eller ikke vil påvirke verneverdiene nevneverdig.
+
+I en dispensasjon skal begrunnelsen for vedtaket vise hvordan forvaltningsmyndigheten har vurdert virkningene som dispensasjonen kan få for miljøet, og hvilken vekt det er lagt på dette.
+
+## Kapittel IV. Forvaltning og saksbehandling
+
+### § 7. Forvaltningsplan
+
+Forvaltningsmyndigheten, eller den forvaltningsmyndigheten bestemmer, kan gjennomføre forvaltningstiltak for å fremme formålet med fredningen. Det skal utarbeides en forvaltningsplan med nærmere retningslinjer for gjennomføring av slike tiltak. Forvaltningsplanen skal godkjennes av Direktoratet for naturforvaltning etter samråd med Riksantikvaren.
+
+### § 8. Forvaltningsmyndighet
+
+Klima- og miljødepartementet fastsetter forvaltningsmyndighet etter denne forskrift og utpeker hvem som skal føre tilsyn med naturreservatet.
+
+> Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+### § 9. Saksbehandling
+
+[Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker gjelder for denne forskriften så langt det passer.
+
+## Kapittel V. Håndheving, sanksjoner og ikrafttredelse
+
+### § 10. Stansing, fjerning eller retting av ulovlig utført arbeid
+
+Forvaltningsmyndigheten kan gi den ansvarlige pålegg med frist om retting av forhold som er i strid med denne forskrift eller bestemmelser gitt i medhold av denne, herunder forby fortsatt virksomhet. Overholdes ikke fristen kan det fastsettes tvangsmulkt inntil pålegget er gjennomført.
+
+Etterkommes ikke pålegget, kan forvaltningsmyndigheten la arbeidet utføres på eiers eller brukers bekostning. Kravet er tvangsgrunnlag for utlegg.
+
+### § 11. Straff, erstatning og inndragning
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes med bøter eller med fengsel inntil 1 år. Medvirkning straffes på samme måte.
+
+Den som volder skade på fredete kulturminner ved å overtre bestemmelser i denne forskrift, plikter å betale erstatning etter alminnelige ulovfestede regler for økonomisk tap som følge av skaden.
+
+Eventuell fortjeneste på tiltak som følge av brudd på bestemmelser i denne forskrift skal inndras til fordel for statskassen.
+
+### § 12. Ikrafttredelse
+
+Denne forskrift trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 21. juni 1974 nr. 8792](forskrift/1974-06-21-8792) om fredning av kulturminner på Jan Mayen.
+
+## Vedlegg. Kart

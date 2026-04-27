@@ -1,0 +1,165 @@
+---
+id: "nl-20250620-067"
+slug: "endringslov-til-psykisk-helsevernloven-mv"
+type: "lov"
+ref_id: "lov/2025-06-20-67"
+title: "Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)"
+short_title: "Endringslov til psykisk helsevernloven mv"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2025-09-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "d7676993b540a158bae90afe456b6e45b7c027166bf4c0f0adc83ece928db184"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)
+
+1. [Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)](lov/1999-07-02-61).
+2. [Lov 2. juli 1999 nr. 62 om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)](lov/1999-07-02-62).
+3. [Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)](lov/1999-07-02-63).
+4. [Lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven)](lov/1999-07-02-64).
+5. [Lov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven)](lov/2003-02-21-12).
+6. [Lov 27. juni 2003 nr. 64 om alternativ behandling av sykdom mv.](lov/2003-06-27-64)
+7. [Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)](lov/2011-06-24-30).
+8. [Lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven)](lov/2014-06-20-42).
+9. [Lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven)](lov/2014-06-20-43).
+10. [Lov 7. mai 2015 nr. 25 om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova)](lov/2015-05-07-25).
+
+## I
+
+Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til en avdød pasient eller fra nærmeste pårørende til en pasient over 18 år som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2).
+
+## II
+
+Formålet med loven her er å sikre helsehjelp av god kvalitet for personer med psykiske lidelser og at etablering og gjennomføring av psykisk helsevern skjer på en forsvarlig måte og i samsvar med menneskerettighetene og grunnleggende rettssikkerhetsprinsipper. Loven skal bidra til å fremme tillitsforholdet mellom pasienter, nærmeste pårørende og helse- og omsorgstjenesten. Det er et formål med reglene å forebygge, begrense og fremme riktig bruk av tvang.
+
+Med tvungen observasjon menes slik undersøkelse, pleie og omsorg som nevnt i første ledd, fastsatt på grunnlag av vilkårene nevnt i [§ 3-2](lov/1999-07-02-62/§3-2), med sikte på å klarlegge om vilkårene for tvungent psykisk helsevern foreligger.
+
+Med tvungent psykisk helsevern menes slik undersøkelse, behandling, pleie og omsorg som nevnt i første ledd fastsatt på grunnlag av vilkårene nevnt i [§ 3-3](lov/1999-07-02-62/§3-3).
+
+Psykisk helsevern ytes på bakgrunn av samtykke etter bestemmelsene i [pasient- og brukerrettighetsloven](lov/1999-07-02-63), med mindre annet følger av loven her. Undersøkelse og behandling av pasienter over 18 år som mangler beslutningskompetanse, og som ikke motsetter seg helsehjelpen, kan også skje etter [pasient- og brukerrettighetsloven § 4-6](lov/1999-07-02-63/§4-6).
+
+Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3).
+
+Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3).
+
+Dersom pasienten opptrer truende eller utøver vold, skal den faglig ansvarlige for vedtaket vurdere om pasienten utgjør en nærliggende og alvorlig fare for andres liv eller helse, jf. [§§ 3-2 første ledd nr. 3 andre punktum](lov/1999-07-02-62/§3-2/ledd/1/nummer/3/setning/2) og [3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b) og [nr. 4 andre punktum](lov/1999-07-02-62/§3-3/nummer/4/setning/2). Det samme gjelder dersom pasienten tidligere har opptrådt truende eller utøvd vold.
+
+Den faglig ansvarlige for vedtaket skal i situasjoner som i nevnt fjerde ledd vurdere om det skal gjøres en voldsrisikoutredning og eventuelt utarbeides en risikohåndteringsplan.
+
+Den faglig ansvarlige for vedtaket skal vurdere om det er behov for å innhente opplysninger fra nærmeste pårørende, kommunal helse- og omsorgstjeneste og andre relevante instanser i forbindelse med vurderingen av farevilkåret i [§§ 3-2 første ledd nr. 3 andre punktum](lov/1999-07-02-62/§3-2/ledd/1/nummer/3/setning/2) og [3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b) og [nr. 4 andre punktum](lov/1999-07-02-62/§3-3/nummer/4/setning/2) og vilkåret om manglende beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3).
+
+Den som er under psykisk helsevern etter eget samtykke, eller med grunnlag i beslutning etter [pasient- og brukerrettighetsloven § 4-6](lov/1999-07-02-63/§4-6), kan ikke overføres til tvungen observasjon eller tvungent psykisk helsevern.
+
+Tvungen observasjon eller tvungent psykisk helsevern kan også skje uten døgnopphold i institusjon dersom dette er et bedre alternativ for pasienten. Den faglig ansvarlige skal gjøre vurderingen i samråd med kommunale helse- og omsorgstjenester. Ved vurderingen skal det også tas tilbørlig hensyn til de som er gitt rettigheter som nærmeste pårørende etter [pasient- og brukerrettighetsloven § 1-3 bokstav b](lov/1999-07-02-63/§1-3/bokstav/b), og pårørende som pasienten bor sammen med. Tvungen observasjon og tvungent psykisk helsevern kan bare omfatte pålegg overfor pasienten om frammøte til undersøkelse eller behandling. Pasienten kan om nødvendig avhentes. Dersom det er nødvendig, kan avhentingen gjennomføres med tvang.
+
+Lovens vilkår for tvangsbruk skal være oppfylt hele tiden mens vedtaket gjennomføres. Dersom vilkårene ikke lenger er oppfylt, skal tiltaket avbrytes straks og vedtaket oppheves.
+
+En pasient som er under tvungent psykisk helsevern, kan uten eget samtykke undergis slik undersøkelse og behandling som klart er i overensstemmelse med faglig anerkjent psykiatrisk metode og forsvarlig klinisk praksis. Det er et vilkår at pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Vilkår om manglende beslutningskompetanse gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
+
+Den faglig ansvarlige kan, etter samråd med annet kvalifisert helsepersonell, treffe vedtak om at en pasient som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), kan gis elektrokonvulsiv behandling dersom:unnlatelse av å gjennomføre behandlingen i løpet av få uker vil medføre alvorlig fare for pasientens liv, ogpasienten ikke motsetter seg slik behandling.
+
+Vedtaket skal straks nedtegnes, og det skal opplyses der hvordan vilkårene etter første ledd er vurdert, og om oppfatningen til annet kvalifisert helsepersonell.
+
+Vedtaket kan gjelde for inntil to uker i samme behandlingsserie. Det kan ikke treffes nytt vedtak i samme behandlingsserie.
+
+Pasienten og pasientens nærmeste pårørende kan påklage vedtak etter paragrafen her til kontrollkommisjonen.
+
+Vedtak om behandling med legemidler etter [§ 4-4](lov/1999-07-02-63/§4-4) kan, etter avtale med kommunen, gjennomføres på sykehjem dersom dette er en klart bedre løsning for pasienten enn å bli behandlet i institusjon for psykisk helsevern. Det kan, om nødvendig, brukes tvangsmidler etter [§ 4-8 andre ledd bokstav c](lov/1999-07-02-62/§4-8/ledd/2/bokstav/c) og [d](lov/1999-07-02-62/§4-8/ledd/2/bokstav/d).
+
+Behandling som pasienten motsetter seg, kan ikke gjennomføres på pasientens rom eller i lokaler som pasienten bruker i det daglige, med mindre dette er den klart beste løsningen for pasienten. Det samme gjelder undersøkelser som er nødvendige for å kunne fatte vedtak om og gjennomføre behandlingen.
+
+Kontrollkommisjonen skal prøve alle sider av saken. Ved klage på vedtak etter [§ 3-3 a](lov/1999-07-02-62/§3-3a) om å ikke gjennomføre tvungen observasjon eller tvungent psykisk helsevern og vedtak etter [§ 3-7 andre](lov/1999-07-02-62/§3-7/ledd/2) eller [tredje ledd](lov/1999-07-02-62/§3-7/ledd/3) om opphør av tvungen observasjon eller tvungent psykisk helsevern kan kontrollkommisjonen bare ta stilling til om vedtaket er i samsvar med loven, og ikke selv treffe vedtak om bruk av tvang.
+
+## III
+
+Dersom pasienten ikke har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke sammen med pasienten.
+
+Dersom pasienten har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke når:pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helsehensynet til barn pasienten har omsorgsansvar for, taler for at pårørende skal få medvirke.
+
+Er pasienten eller brukeren over 16 år og ikke kan ivareta sine interesser på grunn av manglende beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2), har både pasienten eller brukeren og dennes nærmeste pårørende rett til informasjon etter reglene i [§ 3-2](lov/1999-07-02-63/§3-2).
+
+Dersom pasienten eller brukeren har beslutningskompetanse, har pasientens eller brukerens nærmeste pårørende rett til informasjon når:pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helsehensynet til barn pasienten eller brukeren har omsorgsansvar for, taler for at pårørende skal få informasjon.
+
+Beslutningskompetansen kan bortfalle dersom det er overveiende sannsynlig at pasienten ikke er i stand til å forstå hva den aktuelle beslutningen gjelder, og konsekvensene av beslutningen.
+
+Den som yter helsehjelp, avgjør om pasienten mangler beslutningskompetanse etter annet ledd. Helsepersonellet skal ut fra pasientens alder, psykiske tilstand, modenhet og erfaringsbakgrunn legge forholdene best mulig til rette for at pasienten selv kan treffe beslutning om helsehjelp, jf. [§ 3-5](lov/1999-07-02-63/§3-5).
+
+Avgjørelse som gjelder manglende beslutningskompetanse, skal være begrunnet og skriftlig, og om mulig straks legges frem for pasienten og dennes nærmeste pårørende. Mangler pasienten nærmeste pårørende, skal avgjørelsen legges frem for annet kvalifisert helsepersonell.
+
+Undersøkelse og behandling av psykiske lidelser hos personer som mangler beslutningskompetanse etter annet ledd og som motsetter seg helsehjelpen, kan bare skje med hjemmel i [psykisk helsevernloven](lov/1999-07-02-62).
+
+Foreldrene eller andre med foreldreansvaret har rett til å samtykke til helsehjelp for pasienter mellom 16 og 18 år som ikke har beslutningskompetanse.
+
+Dersom en pasient over 18 år ikke har beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2), kan den som yter helsehjelp, ta avgjørelse om helsehjelp som er lite inngripende ut fra omfanget og varigheten.
+
+Elektrokonvulsiv behandling kan bare gis dersom vilkårene i [psykisk helsevernloven § 4-4 b](lov/1999-07-02-62/§4-4b) er oppfylt.
+
+Dersom det treffes beslutning om å gi helsehjelp for en psykisk lidelse etter andre ledd til en pasient som har, eller antas å ha, en alvorlig sinnslidelse, skal lederen for kontrollkommisjonen for psykisk helsevern underrettes og motta kopi av de relevante delene av pasientens journal. Kontrollkommisjonens leder skal ved mottak av underretningen så snart som mulig forvisse seg om at riktig framgangsmåte er fulgt, og at beslutningen bygger på en vurdering av vilkårene i andre og tredje ledd.
+
+Når det gis helsehjelp for en alvorlig sinnslidelse etter andre ledd, skal kontrollkommisjonen, hver sjette måned etter at beslutningen er tatt, av eget tiltak vurdere om lovens vilkår er oppfylt. Ansvarlig helsepersonell skal gi kontrollkommisjonen en oppdatert vurdering av pasientens situasjon.
+
+Departementet kan i forskrift fastsette nærmere regler om kontrollkommisjonens virksomhet.
+
+Helse- og omsorgstjenesten kan treffe vedtak om bruk av tekniske innretninger for varsling og lokalisering som ledd i helse- og omsorgstjenester til en pasient eller bruker over 18 år som ikke har beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2). Bruk av medisinsk teknisk utstyr for varsling reguleres av [§ 4-6 første](lov/1999-07-02-63/§4-6/ledd/1) til [tredje ledd](lov/1999-07-02-63/§4-6/ledd/3). Reglene i [§ 4-1](lov/1999-07-02-63/§4-1) til [§ 4-3](lov/1999-07-02-63/§4-3) gjelder tilsvarende for vurdering av brukerens beslutningskompetanse.
+
+Kapitlet kommer til anvendelse når helsepersonell yter helsehjelp til pasienter over 16 år som mangler beslutningskompetanse, jf. [kapittel 4](lov/1999-07-02-63/kap4), og som motsetter seg helsehjelpen.
+
+Undersøkelse og behandling av psykisk lidelse hos personer som mangler beslutningskompetanse, og som motsetter seg helsehjelpen, kan likevel bare skje med hjemmel i psykisk helsevernloven.
+
+I vurderingen av om slik helsehjelp skal gis, skal det blant annet legges vekt på graden av motstand samt om det i nær fremtid kan forventes at pasienten vil kunne gjenvinne sin beslutningskompetanse.
+
+Pasientens eller brukerens representant etter første ledd er den som har fullmakt til å klage på pasientens eller brukerens vegne, eller som har beslutningskompetanse på pasientens eller brukerens vegne etter [kapittel 4](lov/1999-07-02-63/kap4).
+
+Tilsvarende rett gjelder for nærmeste pårørende til en avdød pasient eller bruker og for nærmeste pårørende til en pasient eller bruker over 18 år som mangler beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2).
+
+## IV
+
+For personer over 16 år som mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2), kan nærmeste pårørende gi samtykke etter første ledd.
+
+Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til samarbeidende personell når dette er nødvendig for å kunne gi forsvarlig helsehjelp. Taushetsbelagte opplysninger kan, uavhengig av om pasienten motsetter seg det, gis til samarbeidende personell dersom pasienten utgjør en nærliggende og alvorlig fare for eget liv eller andres liv eller helse, jf. [psykisk helsevernloven § 3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b).
+
+Med mindre pasienten motsetter seg det, skal helsepersonell som skal yte eller yter helsehjelp til pasient etter denne lov, gis nødvendige og relevante helseopplysninger i den grad dette er nødvendig for å kunne gi helsehjelp til pasienten på forsvarlig måte. Helseopplysninger kan, uavhengig av om pasienten motsetter seg det, gis til helsepersonell som skal yte eller yter helsehjelp til pasienten etter denne loven, dersom pasienten utgjør en nærliggende og alvorlig fare for eget liv eller andres liv eller helse, jf. [psykisk helsevernloven § 3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b). Det skal fremgå av journalen at annet helsepersonell er gitt helseopplysninger.
+
+## V
+
+For personer uten beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), gjelder [pasient- og brukerrettighetsloven §§ 4-4](lov/1999-07-02-63/§4-4) til [4-7](lov/1999-07-02-63/§4-7) om samtykke på vegne av andre tilsvarende.
+
+## VI
+
+Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 første](lov/1999-07-02-63/§4-3/ledd/1) og [andre ledd](lov/1999-07-02-63/§4-3/ledd/2).
+
+## VII
+
+Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til en avdød pasient eller bruker eller fra nærmeste pårørende til en pasient eller bruker over 18 år som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2).
+
+## VIII
+
+Reglene om beslutningskompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov/1999-07-02-63/§4-3) til [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
+
+## IX
+
+For personer uten beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), skal nærmeste pårørende etter [pasient- og brukerrettighetsloven § 1-3 bokstav b](lov/1999-07-02-63/§1-3/bokstav/b) gi samtykke.
+
+## X
+
+Uttak frå barn under 12 år og vaksne som ikkje har avgjerdskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), kan berre finne stad dersom:uttaket gjeld fornybart vev, jf. [§ 3 bokstav c](lov/2015-05-07-25/§3/bokstav/c),donasjonen er nødvendig for å redde livet til mottakaren,det ikkje finst ein donor med avgjerdskompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), ogmottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.
+
+Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har avgjerdskompetanse.
+
+Personar som har fylt 18 år, har rett til å samtykke til donasjon. [Pasient- og brukerrettighetsloven § 4-3 andre](lov/1999-07-02-63/§4-3/ledd/2) til [fjerde ledd](lov/1999-07-02-63/§4-3/ledd/4) om bortfall av avgjerdskompetanse gjeld tilsvarande.
+
+For personar som har mista avgjerdskompetansen etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), har næraste pårørande, jf. [§ 3 bokstav d](lov/2015-05-07-25/§3/bokstav/d), rett til å samtykke til donasjon.
+
+For at samtykket skal vere gyldig, må donoren og den som har avgjerdskompetansen, ha fått informasjon om helsetilstanden til donoren og om inngrepet, også om omfanget og konsekvensane av det.
+
+## XI
+
+Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.

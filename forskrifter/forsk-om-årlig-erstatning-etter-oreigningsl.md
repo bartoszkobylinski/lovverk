@@ -1,0 +1,44 @@
+---
+id: "sf-19841207-1957"
+slug: "forsk-om-årlig-erstatning-etter-oreigningsl"
+type: "forskrift"
+ref_id: "forskrift/1984-12-07-1957"
+title: "Forskrift om justering av årlige erstatninger fastsatt i medhold av oreigningsloven."
+short_title: "Forsk. om årlig erstatning etter oreigningsl."
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1985-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "57d9c7cfe3c43acd97f45365be6406d4bcc8794fde4be08269e7c7889b099932"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om justering av årlige erstatninger fastsatt i medhold av oreigningsloven.
+
+## § 1.
+
+Årlige erstatningsbeløp skal justeres automatisk hvert 5. år.
+
+## § 2.
+
+Justeringen skal skje ved å samholde gjennomsnittet for Statistisk sentralbyrås konsumprisindeks for siste kalenderår av forløpne tidsperiode (beregningsåret) med tilsvarende indekstall for det kalenderår da erstatningen forfalt første gang. Senere justeringer skjer med basis i siste beregningsår.
+
+## § 3.
+
+For årlige erstatninger som forfalt første gang før 1. januar 1980 og ikke er justert etter dette, foretas en engangsjustering av det årlige erstatningsbeløpet regnet fra det kalenderåret da erstatningen forfalt første gang, og fram til 1985. Disse justeringene skal gjennomføres med virkning fra og med det regulære forfall i 1985.
+
+Ved engangsjusteringen etter første ledd skal man samholde gjennomsnittet for Statistisk sentralbyrås konsumprisindeks for 1984 med tilsvarende indekstall (før 1960 levekostnadsindeksen) for det kalenderår da erstatningen forfalt første gang. Etter engangsjusteringen skal erstatningen justeres i samsvar med [§§ 1](forskrift/1984-12-07-1957/§1) og 2.
+
+## § 4.
+
+Forfall etter [§§ 1](forskrift/1984-12-07-1957/§1) til [3](forskrift/1984-12-07-1957/§3) er det tidspunkt da vedkommende erstatning er rettskraftig fastsatt. Har tiltredelse skjedd før dette tidspunkt, regnes forfall første gang fra tiltredelsen.
+
+## § 5.
+
+Forskriftene her trer i kraft 1. januar 1985. Fra samme tid oppheves forskrifter om justering av årlige erstatninger gitt ved kgl.res. 2. mai 1980.

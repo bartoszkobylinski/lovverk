@@ -1,0 +1,44 @@
+---
+id: "sf-19990806-0885"
+slug: "forskr-om-klagenemnd-for-erstatning-til-jøder"
+type: "forskrift"
+ref_id: "forskrift/1999-08-06-885"
+title: "Forskrift om en særskilt klagenemnd for behandling av klager over vedtak om erkjentlighetsbeløp til personer som i Norge ble rammet av antijødiske tiltak under den 2. verdenskrig"
+short_title: "Forskr. om klagenemnd for erstatning til jøder"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1999-08-06"
+last_change_in_force: "2009-01-01"
+last_updated: null
+xml_hash: "7dfc5cd67f144133c9a84e986e8b20a40dd7eef9d70d02451a71fafad8342d68"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om en særskilt klagenemnd for behandling av klager over vedtak om erkjentlighetsbeløp til personer som i Norge ble rammet av antijødiske tiltak under den 2. verdenskrig
+
+## § 1.
+
+Klager over Justisdepartementets vedtak om erkjentlighetsbeløp til personer som i Norge ble rammet av antijødiske tiltak under den annen verdenskrig, avgjøres av en særskilt klagenemnd.
+
+Den særskilte klagenemnda etter første ledd består av dem som til enhver tid er medlemmer av Stortingets billighetserstatningsutvalg. Varamedlemmene av Stortingets billighetserstatningsutvalg er varamedlemmer av klagenemnda. Klagenemnda ledes av den som er leder for Stortingets billighetserstatningsutvalg.
+
+Justisdepartementet er sekretariat for klagenemnda.
+
+## § 2.
+
+Klagenemnda treffer sine vedtak i møte. Klagenemnda er vedtaksfør når leder og begge medlemmer er til stede. Nemndas vedtak treffes med simpelt flertall. Klagenemndas vedtak kan ikke påklages.
+
+Sekretariatet foretar den forberedelse av klagesaken som [forvaltningsloven § 33](lov/1967-02-10/§33) ellers legger til underinstansen. Spørsmål om å avvise en klage avgjøres av klagenemnda. Klageren har rett til å se sekretariatets innstilling til klagenemnda.
+
+For øvrig gjelder forvaltningsloven og offentleglova for klagenemndas saksbehandling.
+
+> Endret ved [forskrift 17 okt 2008 nr. 1119](forskrift/2008-10-17-1119) (i kraft 1 jan 2009).
+
+## § 3.
+
+Forskriften trer i kraft straks.

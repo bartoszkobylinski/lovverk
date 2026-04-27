@@ -1,0 +1,72 @@
+---
+id: "sf-19691219-8955"
+slug: "forskrift-om-gjensidig-inspeksjonsrett-m-v"
+type: "forskrift"
+ref_id: "forskrift/1969-12-19-8955"
+title: "Forskrifter om gjensidig inspeksjonsrett for medlemsstatene i Kommisjonen for fisket i det nordøstlige Atlanterhav"
+short_title: "Forskrift om gjensidig inspeksjonsrett m.v."
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1970-01-01"
+last_change_in_force: "2014-01-01"
+last_updated: null
+xml_hash: "dc81483b7f098f2d9893e2c146e3d4fedba2cec216537a76b3fb2529f7050f4c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter om gjensidig inspeksjonsrett for medlemsstatene i Kommisjonen for fisket i det nordøstlige Atlanterhav
+
+## § 1.
+
+For å påse at fiskeriregler, vedtatt på årsmøter i Kommisjonen for fisket i det nordøstlige Atlanterhav, som ble opprettet ved overenskomst av 23. januar 1959, overholdes skal:de under [§ 2](forskrift/1969-12-19-8955/§2) nevnte utenlandske fiskerioppsyn kunne utøve inspeksjon på norske fartøyer som driver fiske eller tilvirkning av fiskevarer utenfor fiskerigrensen.norsk fiskerioppsyn kunne utøve inspeksjon på de under [§ 2](forskrift/1969-12-19-8955/§2) nevnte utenlandske fartøyer som driver slik virksomhet som nevnt under punkt 1 i denne paragraf.
+
+## § 2.
+
+Den oppsynstjeneste som er nevnt i [§ 1](forskrift/1969-12-19-8955/§1) og som er opprettet i henhold til ovennevnte kommisjonsvedtak på årsmøtene 1967 og 1968 med senere endringer, omfatter følgende stater:
+
+Belgia, Danmark, Frankrike, Irland, Island, Nederland, Norge, Polen, Portugal, Russland, Storbritannia, Sverige og Tyskland.
+
+Virkeområdet for overenskomsten omfatter farvannene øst for en linje trukket fra Kap Farvel på Grønland langs meridianen 44° v.l. til 59° n.br. og derfra sørover langs meridianen 42° v.l. til 36° n.br.
+
+> Endret ved [forskrift 3 mars 2005 nr. 196](forskrift/2005-03-03-196).
+
+## § 3.
+
+Norsk fartøy er pliktige til å underkaste seg inspeksjon av inspektør fra fiskerioppsynstjenesten i de under [§ 2](forskrift/1969-12-19-8955/§2) nevnte stater. Inspeksjonen skal utøves i samsvar med de regler som er fastsatt av Kommisjonen for fisket i det nordøstlige Atlanterhav:
+
+## § 4.
+
+Ethvert norsk fartøy som er engasjert i fiske eller tilvirkning av fiskevarer innenfor det under [§ 2](forskrift/1969-12-19-8955/§2) siste ledd nevnte område, må ved signal i samsvar med den internasjonale signalbok for oppsynsskip stoppe og tillate bording med mindre fartøyet har fiskeredskaper i sjøen eller er i ferd med å sette ut eller trekke sine fiskeredskaper. I så fall skal ansvarshavende sørge for at det blir lagt ut en leider og i samsvar med alminnelig god sjømannskap, tillate og muliggjøre at inspektørene kan komme opp ved siden av fartøyet for å borde dette så snart det er praktisk mulig.
+
+## § 5.
+
+Ved bording av fartøyet har samtlige legitimerte inspektører anledning til å komme om bord, og de har rett til å ta med opp til to vitner.
+
+Ansvarshavende er pliktig til å gi inspektørene all nødvendig bistand og opplysninger under utøvelsen av inspeksjonen, samt fremlegge dokumenter, herunder dagbøker, avgi kopier av dokumenter m.v., bekrefte kopier, tillate anmerkninger vedrørende overtredelser i dagboken eller andre relevante gjenstander og dokumenter m.v. som inspektøren finner nødvendig for å konstatere at de gjeldende bestemmelser følges.
+
+Dersom en inspektør finner at overtredelse av gjeldende bestemmelser har funnet sted, skal ansvarshavende på fartøyet la inspektøren nytte radioen og være behjelpelig med at inspektøren kan sende meldinger om overtredelsen. Ansvarshavende er pliktig til å la inspektøren med følge bli ombord i samsvar med avtale med Det norske fiskerioppsyn og inntil fartøyet kan bordes av norske myndigheter eller av noen som representerer norske myndigheter.
+
+Ansvarshavende skal undertegne den rapport inspektøren setter opp, men kan påføre rapporten de anmerkninger han finner nødvendig.
+
+## § 6.
+
+Det er forbudt å hindre inspektører fra de under [§ 2](forskrift/1969-12-19-8955/§2) nevnte land i å foreta inspeksjon av fangst, redskaper og annet utstyr eller å unnlate å etterkomme inspektørens direktiver vedrørende inspeksjonen, herunder krav om at ulovlig brukt utstyr skal fjernes. Motstand mot en inspektør fra hvilket som helst av nevnte stater er å betrakte som motstand mot norsk offentlig tjenestemann og skal behandles som overtredelse av kap. 34 i lov av 22. mai 1902 om alminnelig [borgerlig straffelov.](lov/1902-05-22-10)
+
+Rapport fra autorisert inspektør fra land nevnt under [§ 2](forskrift/1969-12-19-8955/§2) har samme bevisverdi som rapport fra en norsk inspektør.
+
+## § 7.
+
+Fiskeridepartementet fastsetter instruks for de norske inspektører som skal utøve inspeksjon utenfor fiskerigrensen av fiskefartøyer fra de under [§ 2](forskrift/1969-12-19-8955/§2) nevnte stater. Inspeksjonen skal utøves i samsvar med de regler som er fastsatt av Kommisjonen for fisket i det nordøstlige Atlanterhav.
+
+Fiskerioppsynsskip som utøver inspeksjon i henhold til kommisjonens vedtak skal føre et spesielt flagg eller vimpel. Inspektørene skal ved inspeksjon vise et legitimasjonsdokument.
+
+## § 8.
+
+Denne forskrift trer i kraft 1. januar 1970.
+
+> Endret ved [forskrift 15 jan 2002 nr. 150](forskrift/2002-01-15-150).

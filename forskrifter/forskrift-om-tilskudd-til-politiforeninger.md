@@ -1,0 +1,74 @@
+---
+id: "sf-20221220-2360"
+slug: "forskrift-om-tilskudd-til-politiforeninger"
+type: "forskrift"
+ref_id: "forskrift/2022-12-20-2360"
+title: "Forskrift om tilskudd til politiforeninger"
+short_title: null
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2023-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "11f3373508b62aa0b46feb162a88c228131492997fa175471b4dbbdd223ddf3a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til politiforeninger
+
+## § 1. Formål
+
+Tilskudd etter denne forskriften skal støtte drift av landsdekkende lag, selskap og foreninger som ivaretar felles faglige, sosiale, kulturelle og velferdsmessige interesser for politiets tilsatte og pensjonister.
+
+## § 2. Hvem kan få tilskudd
+
+Politirelaterte lag, selskap og foreninger med organisasjonsnummer fra Enhetsregisteret kan få tilskudd. Søkere må kunne dokumentere:at mottakers aktivitet understøtter politiets samfunnsoppdragat mottaker er partipolitisk uavhengigat medlemskap er åpent for ansatte eller pensjonister i politietatenat mottakers tilbud er landsdekkendeat mottakers aktivitet oppfyller formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
+
+## § 3. Kunngjøring og søknadsfrist
+
+Utlysning av tilskudd for det enkelte år skal kunngjøres, og kan skje på [politiet.no](https://politiet.no) eller annen måte som er hensiktsmessig for kunngjøringen.
+
+Kunngjøring skal normalt skje innen utgangen av oktober, etter fremleggelse av budsjettproposisjonen og med forbehold om Stortingets vedtak. Søknadsfrist settes normalt til 1. februar.
+
+Søknad om tilskudd sendes Politidirektoratet. Det kan bare søkes om midler for ett år om gangen.
+
+## § 4. Krav til søknaden
+
+Søknaden skal:angi søkerens navn, adresse, organisasjonsnummer, kontonummer, e-postadresse, telefonnummer og kontaktpersonangi hva tilskuddet skal benyttes til, og begrunne behovet for tilskuddangi beløpet det søkes ominneholde et budsjett for tiltaketoppgi hvilke beløp søkeren har søkt om og/eller mottatt fra andre offentlige myndigheter.
+
+## § 5. Tildelingskriterier
+
+Politidirektoratet avgjør søknaden etter en vurdering av søknadsopplysningene mot følgende kriterier i prioritert rekkefølge:relevans for politiets samfunnsoppdragantall personer tiltaket kommer til godeskjønnsmessig vurdering av tiltakets effekt opp mot formål som nevnt i [§ 1](forskrift/2022-12-20-2360/§1).
+
+Dersom søkeren har mottatt midler fra andre offentlige myndigheter kan Politidirektoratet avkorte tildelt beløp.
+
+## § 6. Beregning av tilskudd
+
+Årlige bevilgninger til tilskudd til politiforeninger i politiet under kapittel 440, post 70 vil bli benyttet til å dekke søknader sendt inn av lag og foreninger som er mottaksberettiget etter [§ 2](forskrift/2022-12-20-2360/§2) og som oppfyller krav til søknaden i [§ 4](forskrift/2022-12-20-2360/§4). Tildelingen av det enkelte beløp vil være basert på rangering av innkomne søknader etter kriteriene i [§ 5](forskrift/2022-12-20-2360/§5).
+
+## § 7. Saksbehandling og klage
+
+Søknader som kommer inn etter søknadsfristen kan avvises. Politidirektoratets vedtak om tilskudd kan påklages til Justis- og beredskapsdepartementet etter reglene i [forvaltningsloven kapittel VI](lov/1967-02-10/kapVI).
+
+## § 8. Utbetaling og tilbakebetaling
+
+Tilskudd utbetales årlig som et forskuddsvis engangstilskudd.
+
+Tilskuddet kan kreves tilbakebetalt helt eller delvis dersom det ikke er brukt i samsvar med kravene i forskriften og tilskuddsvedtaket.
+
+## § 9. Tilskuddsmottakerens plikter
+
+Tilskuddsmottaker skal:benytte tilskuddet i samsvar med forskriftens formål, søknaden og tilskuddsvedtaketbenytte tilskuddet i driftsåret det mottas støtte, med mindre tilskuddsvedtaket fastsetter noe annetlevere rapport og regnskap samt dokumentasjon i form av faktura, kvitteringer eller lignende til Politidirektoratet om hvordan tilskuddet har blitt benyttet iht. frist angitt i tilskuddsbrev.
+
+## § 10. Kontroll av at vilkår og betingelser for tilskudd er oppfylt
+
+Politidirektoratet kan kontrollere at vilkårene for tilskudd og betingelsene i tilskuddsvedtaket er oppfylt, og kan kreve at tilskuddsmottaker fremlegger nødvendige opplysninger og dokumentasjon.
+
+## § 11. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2023.

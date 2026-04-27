@@ -1,0 +1,329 @@
+---
+id: "sf-20140715-0980"
+slug: "forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder"
+type: "forskrift"
+ref_id: "forskrift/2014-07-15-980"
+title: "Forskrift om rapportering, registrering og merking av luftfartshinder"
+short_title: null
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2014-09-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2024-01-09"
+xml_hash: "8ee2945e991021ac376d8e862efe3883c66e041342d0fb3246ec1b5879620966"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om rapportering, registrering og merking av luftfartshinder
+
+## Kapittel I. Forskriftens virkeområde og definisjoner
+
+### § 1. Formål
+
+Forskriften fastsetter minimumskrav til rapportering og merking av luftfartshinder for å redusere faren for luftfartshendelser og -ulykker for ethvert luftfartøy samt mennesker og gods om bord.
+
+### § 2. Luftfartshinder
+
+(1) Som luftfartshinder regnes alle:menneskeskapte objekter, midlertidige eller permanente, med en høyde på 15 meter eller mer over terreng eller vann. I områder for industri, næringsvirksomhet, bymessige eller tettbygde strøk regnes likevel objekter som luftfartshinder kun når de har en høyde på 30 meter eller mer. Dersom det er tvil om et objekt befinner seg innenfor et område for industri og næringsvirksomhet eller i bymessige og tettbygde strøk, kreves rapportering hvis objektet er 15 meter eller høyere.signalførende og strømførende luftspenn, uansett høyde.luftspenn som ikke er omfattet av § 2 første ledd bokstav a eller b, uansett høyde, som krysser eller følger langs offentlig vei nærmere enn 10 meter fra veikanten.taubaner, herunder skitrekk, skitau, stolheiser, svevebaner, zipliner og løypestrenger.endemaster til luftspenn som nevnt i bokstav a til d, uansett høyde.
+
+(2) Den som eier et luftfartshinder er ansvarlig for at forskriftens krav er oppfylt. Der eier av et luftfartshinder og ansvarlig enhet for drift eller innehaver av konsesjon for driften av anlegget er ulike juridiske enheter, har alle et selvstendig ansvar for at forskriftens krav er oppfylt.
+
+(3) Forskriftens kapittel III og IV gjelder likevel ikke for luftfartshinder som er merkepliktig i medhold av[forskrift 6. juli 2006 nr. 968](forskrift/2006-07-06-968) om utforming av store flyplasser (BSL E 3-2),[forskrift 3. desember 2002 nr. 1382](forskrift/2002-12-03-1382) om utforming av små flyplasser (BSL E 3-3),[forskrift 3. desember 2002 nr. 1383](forskrift/2002-12-03-1383) om utforming av sjøflyplasser (BSL E 3-4),[forskrift 29. april 2005 nr. 418](forskrift/2005-04-29-418) om utforming av store helikopterplasser (BSL E 3-5),[forskrift 16. april 2004 nr. 629](forskrift/2004-04-16-629) om utforming av små helikopterplasser (BSL E 3-6),[forskrift 25. august 2015 nr. 1000](forskrift/2015-08-25-1000) sertifisering av flyplasser mv. eller[forskrift 14. mai 2019 nr. 604](forskrift/2019-05-14-604) om luftfart med helikopter – bruk av offshore helikopterdekk.
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 3. Definisjoner
+
+I denne forskrift menes med:*bymessige og tettbygde strøk*: Et sammenhengende bebygd område der husene ligger tettere enn 50 meter, med unntak for åpne områder med areal større enn 4000 kvadratmeter og bredde over 50 meter.*dagslys*: Det tidsrom solen står mindre enn 6° under horisonten*endemaster*: Master som holder kablene på hver side av et luftspenn.*høyde på luftspenn*: Største vertikale avstand mellom luftspennet og terreng eller vann.*høyde på punktobjekt*: Den vertikale avstanden mellom luftfartshinderets høyeste punkt til terreng eller vann.*høyde på vindturbin*: Den vertikale avstanden fra terrenget (middelvannstand for vindturbiner lokalisert til havs) og til toppen av rotorbladet når det står i høyeste posisjon.*lengde på luftspenn*: Den horisontale avstanden mellom endemastene.*luftspenn:* Ledninger, kabler eller vaiere strukket mellom to faste punkter.*midlertidig luftfartshinder*: Et luftfartshinder som innenfor et område med en radius på 50 meter ikke skal stå lengre enn fire uker.*Nasjonalt register over luftfartshindre (NRL)*: Database over innmeldte rapporteringspliktige luftfatshindre.*punktobjekt:* Master, endemaster, tårn, skorsteiner, antenner, brotårn, vindturbiner, tårnkraner og lignende.*RAL*: System for kodifisering av farger: «Reichsausschuß für Lieferbedingungen und Gütesicherung», hvor RAL-fargekodene angir hvilken farge som skal benyttes ved fargemerking av luftfartshinder.*synlighet*: merkingen kan observeres i dagslys uten hjelpemidler som kikkert, kamera eller lignende, ikke medregnet hjelpemiddel som vanlige briller eller kontaktlinser som korrigerer for nedsatt syn.*varsel*: Fellesbetegnelse på innretning, system eller annet som er egnet til, aktivt eller passivt, å gjøre flybesetningen oppmerksom på et luftfartshinder før hinderet utgjør en fare for operasjonen.*vindkraftverk:* Samling av fem eller flere vindturbiner som står så tett, og med en slik formasjon, at det kan være tilstrekkelig å merke et utvalg av vindturbinene som inngår i vindkraftverket.*vindturbin*: Konstruksjon som med tårn, nacelle og rotorblader produserer vindenergi.*NIR:* Near Infrared. Lys med en bølgelengde mellom 760 og 2500 nanometer (nm).
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+## Kapittel II – Rapportering og registrering av luftfartshinder
+
+### § 4. Rapporteringsplikt
+
+(1) Eier av luftfartshinder har ansvar for at de opplysninger om luftfartshinderet som er innrapportert til NRL er korrekte. Hindereier skal senest 30 kalenderdager før etablering, endring, flytting eller fjerning av et luftfartshinder, innrapportere opplysninger om luftfartshinderet til Statens kartverk. Rapportering skal skje i den form og med den fremgangsmåte som Statens kartverk anviser. Ved rapportering skal det inngå opplysninger om eierskap og luftfartshinderets egenskaper, i tillegg til opplysninger om luftfartshinderets posisjon og høyde som angitt i [§ 5](forskrift/2014-07-15-980/§5). Opplysninger om endringer i juridisk eierskap skal innrapporteres fortløpende av den som er eier av luftfartshinderet, før endringen skjer.
+
+(2) Midlertidige luftfartshindre med en høyde under 60 meter er ikke rapporteringspliktige.
+
+(3) Under forflytning er innretninger i petroleumsindustrien ikke rapporteringspliktige.
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+### § 5. Krav til rapporteringsnøyaktighet
+
+(1) Luftfartshinder skal innrapporteres med en absolutt nøyaktighet bedre enn 5 meter i horisontalplanet og vertikalplanet. Hinderets høyde over terreng eller vann skal innrapporteres med en nøyaktighet bedre enn 1 meter. For luftspenn skal høyde over terreng eller vann måles eller beregnes med en nøyaktighet bedre enn 2 meter, jf. [§ 9](forskrift/2014-07-15-980/§9) sjette ledd. For rapporteringspliktige luftfartshinder med en høyde inntil 15 meter er det ikke krav om å oppgi høydeinformasjon ved innrapporteringen.
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+### § 6. Nasjonalt register over luftfartshindre
+
+(1) Statens kartverk fører Nasjonalt register over luftfartshindre. Mottatt rapport om luftfartshinder skal uten ugrunnet opphold innføres i NRL. Statens kartverk skal sende kvittering som bekrefter mottak av rapport.
+
+(2) Når Statens kartverk mottar rapport om luftfartshinder med høyde på 40 meter eller mer, skal kopi av rapporten og kart som viser luftfartshinderets plassering sendes til Luftfartstilsynet som foretar en vurdering av eventuell merkeplikt, jf. [§ 7](forskrift/2014-07-15-980/§7).
+
+## Kapittel III – Merking av luftfartshinder
+
+### § 7. Merkeplikt
+
+(1) Luftfartshinder skal merkes visuelt i henhold til bestemmelsene i dette kapitlet.
+
+(2) Alle luftfartshinder med en høyde på 60 meter eller mer, skal merkes. Midlertidige luftfartshinder med en høyde på 15 meter eller mer, skal merkes. Merking er likevel ikke nødvendig forluftfartshinder som er dekket av eller skjult bak andre permanente luftfartshinder eller terreng, ellerluftspenn hvor mindre enn 100 meter sammenhengende lengde er over merkepliktig høyde.
+
+(3) Luftfartstilsynet kan etter en konkret helhetsvurdering fastsette merkeplikt også for luftfartshinder som ikke er omfattet av den generelle merkeplikten, eller som er særskilt unntatt fra denne. Ved vurderingen skal det særlig legges vekt på om luftfartshinderet kan utgjøre en fare for luftfarten, hinderets nærhet til landingsplass eller ofte brukte flytraseer, samt terrengmessige forhold. På samme måte kan Luftfartstilsynet fastsette at et merkepliktig luftfartshinder skal merkes ut over de minstekrav som forskriften ellers fastsetter.
+
+(4) Luftfartstilsynet kan etter en konkret helhetsvurdering godkjenne annen merking enn det som ellers fremgår av forskriften for ett eller flere konkrete luftfartshinder. Annen merking må:bygge på forskriftens prinsipp om visuell merkingi dagslys være synlig på minst 1500 meters avstand fra alle aktuelle innflygingsvinklerved bruk av lys, benytte minst samme lysintensitet som den i forskriften ellers beskrevne for det aktuelle luftfartshinderetikke redusere den minstesikkerhet som forskriften ellers fastsetter for noen del av luftfartenikke ha negativ innvirkning på flysikkerheten for øvrig, herunder ikke forstyrre luftfartens kommunikasjons-, navigasjons- eller overvåkingsutstyrfor systemer som aktiveres av luftfartøy, ha innebygget system for kontinuerlig visuell merking dersom systemet opphører å virke som det skal.
+
+### § 7a. System for behovsstyrt tenning av hinderlys
+
+(1) System for behovsstyrt tenning av hinderlys krever godkjenning fra Luftfartstilsynet. Eier eller drifter av et luftfartshinder kan søke Luftfartstilsynet om slik godkjenning. For anlegg med konsesjon fra Norges vassdrags- og energidirektorat (NVE) er konsesjonsinnehaver søker av godkjenning.
+
+(2) Godkjenningen gjelder kun for det anlegget som er spesifisert i søknaden. Godkjenningen stiller krav til ytelse for system for behovsstyrt tenning av hinderlys, samt krav til innehaver av godkjenningen.
+
+(3) Krav til ytelse for system for behovsstyrt tenning av hinderlys
+System for behovsstyrt tenning av hinderlys må oppfylle følgende krav til ytelse:Systemet skal kunne detektere sivile transpondere/transmittere som brukes i luftfartøy. Dette omfatter Mode A/C transponder, Mode A/C/S transponder med ADS-B funksjonalitet, Mode A/C/S transponder uten ADS-B funksjonalitet, og ADS-B transmitter.Systemet skal detektere luftfartøyer med transponder slik at hinderlysene tennes på minimum 6000 meters avstand fra nærmeste luftfartshinder.Systemet skal detektere luftfartøyer uten transponder slik at hinderlysene tennes på minimum 1500 meters avstand fra nærmeste luftfartshinder.Systemet skal detektere luftfartøyer fra 100 fot over bakken til 2000 fot over høyeste luftfartshinder i alle sektorer.Hinderlysene skal være tent så lenge luftfartøyet er innenfor områdene som beskrevet i punkt (3) bokstav b, c og d.System for behovsstyrt tenning av hinderlys skal være i samsvar med krav i Konvensjonen om internasjonal luftfart (Chicago-konvensjonen), Vedlegg 10, Volum IV.Systemet skal monitorere ytelse slik at kravene i § 7a (3) bokstav a til e til enhver tid er oppfylt.Ved redusert ytelse eller feiltilstand skal hinderlysene slåes automatisk på.
+
+(4) Krav til innehaver av godkjenning
+Innehaver av godkjenning skal:sikre at system for behovsstyrt tenning av hinderlys driftes og vedlikeholdes slik at ytelseskravene i pkt. (3) bokstav a. til h. til enhver tid er oppfylte.ha program for opplæring-, trening- og kompetanse for driftspersonellet. Programmet skal omfatte oppgaver og ansvar for driftspersonellet.før idriftsettelse samt i hele driftsfasen kunne dokumentere at systemet for behovsstyrt tenning av hinderlys ikke har negativ innvirkning på luftfarten og luftfartens systemer, jf. forordning [(EU) 2017/373](eu/32017r0373) artikkel 3f pkt. 1.sikre at det blir gjennomført testflyging og utarbeidet ytelsesrapporter for systemet i alle sektorer, i samsvar med fastsatte ytelseskrav, i henhold til § 7a (3).sikre at system for behovsstyrte hinderlys har statusmonitorering i samsvar med § 7a (3) bokstav g.har ansvar for at driftsorganisasjon oppfyller krav i § 7a (4) bokstav a og b.skal til enhver tid ha beskrevet korrekte organisasjons- og ansvarsforhold for drift og vedlikehold av system for behovsstyrt tenning av hinderlys, jamfør [§ 4 (1)](forskrift/2014-07-15-980/§4/ledd/1).ha økonomisk evne til å oppfylle kravene i bestemmelsen.dersom ett eller flere av kravene i § 7a ikke er oppfylte, ikke bruke systemet for behovsstyrte lys, og hinderlysene skal slås umiddelbart på.
+
+(5) Endringer i system for behovsstyrt tenning av hinderlys som påvirker ytelseskravene i § 7a (3) bokstav a til h krever ny godkjenning. Luftfartstilsynet skal informeres umiddelbart om endringer i organisasjons- og ansvarsforhold, kontrakter og alle andre forhold som kan ha betydning for godkjenningen.
+
+(6) Hvis innehaver av godkjenningen ikke oppfyller alle kravene i § 7a, kan Luftfartstilsynet begrense eller trekke tilbake godkjenningen.
+
+> Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 8. (Opphevet)
+
+> Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), opphevet ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 9. Merking av luftspenn
+
+(1) Merkepliktige luftspenn med høyde inntil 150 meter skal merkes med markører på luftspennet samt farge på endemastene.
+
+(2) Merkepliktige luftspenn med høyde på 150 meter eller mer skal merkes med markører på luftspennet, samt med farge og lys på endemastene. Endemastene til luftspenn med høyde på 150 meter eller mer skal merkes med mellomintensitets hinderlys type B.
+
+(3) Endemastene og kablene mellom disse danner samlet et luftfartshinder.
+
+(4) Parallelle luftspenn anses som ett luftfartshinder dersom største horisontale avstand mellom spennenes ytterste faseliner er 90 meter eller mindre. Dersom avstanden mellom ytterfasene er over 90 meter skal begge ytterfaseliner, eller de naturlig tilhørende toppliner, merkes.
+
+(5) For luftspenn med to eller flere endemaster skal de ytterste endemastene merkes, men likevel slik at det ikke er mer enn 90 meter mellom hver merkede endemast.
+
+(6) For luftspenn som skal være strømførende skal høyden måles eller beregnes når luftspennet ikke er strømførende. Dersom nederste punkt er saltvann benyttes middelvannstand som utgangspunkt for målingen eller beregningen. Dersom luftspennet krysser regulert vann skal laveste tillatte reguleringsvannstand benyttes som utgangspunkt for målingen eller beregningen.
+
+(7) Luftspenn underlagt krav til linjebefaring etter [forskrift 20. desember 2005 nr. 1626 om elektriske forsyningsanlegg, kapittel 6](forskrift/2005-12-20-1626/kap6). Høyspenningsluftlinjer, som skal befares med bemannet eller ubemannet luftfartøy og som krysser under overliggende luftspenn, skal merkes. Merkingen skal utføres på de tre siste stolper, master eller fagverkskonstruksjoner tilhørende underliggende luftspenn, før kryssende overliggende luftspenn. Merking skal utføres med skilt, maling eller annet materiale med reflekterende overflate. Merkingen skal være godt synlig for luftfartøy ved linjebefaring for å varsle at man ved flyging langs luftspennet nærmer seg kryssende overliggende luftspenn. Merking skal gjøres på hver side av det kryssende overliggende luftspennet, og i samsvar med vedlegg 3. Kravet til merking gjelder også når selve kryssingen under overliggende luftspenn er utført som jordkabel.
+
+> Endret ved forskrifter [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 10. (Opphevet)
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), opphevet ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 11. Merking av broer
+
+Brotårn skal merkes som punktobjekt. Brobanen skal merkes med hinderlys dersom den har en høyde på 60 meter eller mer over vannet og ikke har veibelysning. Stag og kabler skal merkes som angitt i [§ 12](forskrift/2014-07-15-980/§12).
+
+### § 12. Merking av stag, kabler, forankringsanordninger mv.
+
+Stag, kabler og andre forankringsanordninger for luftfartshinder skal merkes med markører eller lavintensitets hinderlys type B dersom de har en horisontal utstrekning på mer enn 90 meter fra luftfartshinderet. Markører eller hinderlys skal plasseres på de ytre festeanordninger og eventuelt på de mellomliggende festeanordninger, slik at det ikke er mer enn 90 meter horisontalt og 75 meter vertikalt mellom markørene eller lysene.
+
+### § 13. Merking av forankrede ballonger, draker og ubemannede luftfartøy
+
+(1) Mellom soloppgang og solnedgang skal forankret ballong ha en farge som gjør den synlig på 1500 meters avstand. Hvis høyden over bakken eller vannet er mer enn 150 meter, skal den i tillegg ha mellomintensitets hinderlys type A. Forankringskabelen skal være merket med vimpler. Den vertikale avstanden mellom vimplene må ikke overstige 45 meter, regnet fra ballongens underkant. Vimpler skal være minst 3 meter lange og ha reflekterende farger som beskrevet i [§ 15](forskrift/2014-07-15-980/§15).
+
+(2) Mellom solnedgang og soloppgang skal forankret ballong være utstyrt med hinderlys på toppen. Hinderlyset skal minimum være mellomintensitets hinderlys type A. På forankringskabelen skal det for hver 45 meter, regnet fra ballongens underkant, være montert grupper av hinderlys som viser ett hvitt og ett rødt lys. Avstanden mellom det hvite og det røde lyset i gruppen skal være 3 meter, med det hvite lyset øverst. Samtlige lys skal minst være lavintensitets hinderlys type A, og skal være synlig i alle retninger.
+
+(3) Luftfartshinder som er forankret med line, herunder forankrede ubemannede luftfartøy, skal merkes på følgende måte:Luftfartshinder med høyde fra 60 til og med 100 meter: Linen og luftfartshinderet skal ha fargemerking samt være merket med lavintensitetslys i toppen.Luftfartshinder med høyde fra 100 meter til og med 150 meter: Linen og luftfartshinderet skal ha fargemerking samt være merket med mellomintensitetslys i toppen.Luftfartshinder med høyde over 150 meter: Linen og luftfartshinderet skal ha fargemerking samt være merket med høyintensitetslys i toppen.
+
+> Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+### § 14. Markører mv.
+
+(1) Markører skal i dagslys være synlige på minst 1500 meters avstand fra alle aktuelle innflygingsvinkler. Markører skal ha en diameter på minst 0,8 meter. Avstanden mellom markører skal ikke overstige 90 meter målt langs kabelen. Markører med minste diameter 0,6 meter kan benyttes dersom avstanden mellom markørene ikke overstiger 70 meter. Markører skal ha reflekterende farger som angitt i [§ 15](forskrift/2014-07-15-980/§15).
+
+(2) Markører på luftspenn kan fordeles på flere parallelle faser av luftspennet, men slik at maksimumsavstanden, jf. første ledd, ikke overskrides. Markører kan også festes ved siden av eller over luftspenn.
+
+> Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+### § 15. Krav til fargemerking
+
+(1) Fargemerking skal i dagslys være synlig på minst 1500 meters avstand fra alle aktuelle innflygingsvinkler. Fargemerking kan utføres med maling, plastfolie, plater eller annet hensiktsmessig materiale. All fargemerking skal ha reflekterende egenskaper og ha tilstrekkelig kontrast mot fargen på luftfartshinderet.
+
+(2) Vindturbiner skal ha lys farge, for eksempel grå, gråhvit eller andre nyanser av hvit. Snøhvit farge skal ikke benyttes. Fargekravet gjelder ikke den nederste tredjedel av tårnet.
+
+(3) Punktobjekter, inkludert vindturbiner, skal merkes med to horisontale fargebånd med reflekterende farge på mellomliggende nivå. Båndene skal plasseres på tvers av hinderets høydeakse. Bredden på båndene skal være3 meter, når hinderet er inntil 40 meter,4 meter, når hinderet er mellom 40 og 50 meter,5 meter, når hinderet er mellom 50 og 60 meter,6 meter, når hinderet er mellom 60 og 200 meter,10 meter, når hinderet er over 200 meter.
+
+(4) For vindkraftverk som består av fem eller flere vindturbiner, kan Luftfartstilsynet godkjenne at kun vindturbinene som utgjør vindkraftverkets perimeter merkes med horisontale fargebånd med reflekterende farge på mellomliggende nivå, dersom den individuelle avstanden mellom merkede vindturbiner ikke er større enn at hensynet til flysikkerheten ivaretas. Luftfartstilsynet kan fastsette at også sentrum eller høyeste vindturbin i vindkraftverket skal merkes med horisontale fargebånd.Ved godkjent perimetermerking med hinderlys etter [§ 16 (3) bokstav f)](forskrift/2014-07-15-980/§16/ledd/3/bokstav/f), er det tilstrekkelig at vindturbiner som utgjør vindkraftverkets perimeter merkes med horisontale fargebånd uten ny godkjenning, når avstandskravene i [§ 16 (3) bokstav d)](forskrift/2014-07-15-980/§16/ledd/3/bokstav/d) og [e)](forskrift/2014-07-15-980/§16/ledd/3/bokstav/e) er oppfylte.
+
+(5) Fagverkkonstruksjoner skal ha fargefelt på hele ytterflaten av rammebenene og traversene. I fagverkskonstruksjoner skal samtlige konstruksjonsdeler ha samme farge i samme horisontale fargefelt.
+
+(6) Vegetasjon rundt fargemerket luftfartshinder skal fjernes eller ryddes slik at merkingen er godt synlig fra alle aktuelle innflygingsretninger.
+
+(7) Fargekoder for merking av luftfartshinder etter bestemmelsen fremgår av vedlegg 1.
+
+> Endret ved forskrifter [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 16. Krav til hinderlys og lystype
+
+(1) Hinderlys skal være lavintensitets-, mellomintensitets- eller høyintensitetslys. Hinderlys skal plasseres slik at de er synlige fra alle aktuelle innflygingsvinkler.
+
+(2) Hinderlys skal plasseres på toppen av luftfartshinderet, slik at lyset viser hinderets høyeste punkt, ikke medregnet lynavleder eller fleksibel antenne med høyde inntil 5 meter. Hinderlys på mast til luftspenn kan likevel plasseres inntil 10 meter vertikalt og 10 meter horisontalt fra toppunktet, men likevel slik at det er synlig fra alle aktuelle innflygingsvinkler. Hinderlys på skorstein som kan medføre korrosjon eller belegg på armaturglassene, kan plasseres inntil 3 meter under toppen.
+
+(3) For merkepliktige vindturbiner gjelder i tillegg følgende særskilte krav til hinderlys:Hinderlys kan være fast eller blinkende. Dersom det benyttes blinkende hinderlys skal disse blinke samtidig.Vindturbiner med høyde inntil 150 meter skal merkes med to mellomintensitets hinderlys type B eller C, plassert på toppen av nacellen.Vindturbiner med høyde fra og med 150 meter og høyere skal merkes med to høyintensitets hinderlys type B plassert på toppen av nacellen, og lavintensitets hinderlys type B på mellomliggende nivå. Den vertikale avstanden mellom lysene skal ikke overstige 75 meter.I vindkraftverk der det er krav om mellomintensitetslys, skal lysene på toppen av hinderet ha maksimum individuell avstand på 900 meter.I vindkraftverk der det er krav om høyintensitetslys, skal lysene på toppen av hinderet ha maksimum individuell avstand på 1500 meter.For vindkraftverk som består av fem eller flere vindturbiner, kan Luftfartstilsynet godkjenne at kun vindturbinene som utgjør vindkraftverkets perimeter merkes, dersom den individuelle avstanden mellom merkede vindturbiner ikke er større enn at hensynet til flysikkerheten ivaretas. Luftfartstilsynet kan fastsette at også sentrum eller høyeste vindturbin i vindkraftverket skal merkes med hinderlys.
+
+(4) For punktobjekter, unntatt vindturbiner, gjelder i tillegg følgende særskilte krav til hinderlys:Punktobjekter over 60 meter og midlertidige luftfartshinder med en høyde på 15 meter eller mer, skal merkes med hinderlys.Punktobjekt med høyde inntil 100 meter skal merkes med lavintensitets hinderlys type B på toppen av hinderet.Punktobjekt med høyde fra og med 100 meter og inntil 150 meter, skal merkes med mellomintensitets hinderlys type C på toppen av hinderet, og lavintensitets hinderlys type B på mellomliggende nivåer.Punktobjekt med høyde fra og med 150 meter og høyere, skal merkes med høyintensitets hinderlys type B på toppen av hinderet, og lavintensitets hinderlys type B på mellomliggende nivåer. Den vertikale avstanden mellom lysene skal ikke overstige 75 meter.Hinderlys på punktobjekt skal på toppen og hvert mellomliggende nivå ha minst1 lysenhet når denne er plassert på toppen av luftfartshinderet, og hinderlyset er synlig fra alle retninger,3 lysenheter når luftfartshinderets diameter er mellom 0,5 og 6 meter,4 lysenheter når luftfartshinderets diameter er mellom 6 og 30 meter, eller dersom hinderet er kvadratisk eller rektangulært,6 lysenheter når luftfartshinderets diameter er mellom 30 og 60 meter, og8 lysenheter når hinderets diameter er større enn 60 meter.Lysenhetene skal være jevnt fordelt rundt luftfartshinderet på en slik måte at de til sammen er synlig rundt horisonten.Flammetårn og lignende kan merkes ved at toppen belyses med lyskastere som konvergerer sine lysstråler på toppen av tårnet når flammen eller pilotflammen er slukket.Mobilkraner skal ha hinderlys montert i bomspiss, i samsvar med [vedlegg 4](forskrift/2014-07-15-980/vedlegg4).Tårnkran skal merkes på ytterpunktene, i samsvar med [vedlegg 4](forskrift/2014-07-15-980/vedlegg4). Tårnkran skal ha hinderlys på utliggerspiss og enden av bakbro. Der tårnkran har en kongetopp, skal denne merkes med hinderlys.
+
+(5) Filter som benyttes for å gi rødt lys, skal være gjennomfarget.
+
+(6) Høyintensitets hinderlys og mellomintensitets hinderlys type A skalvære tent hele døgnet, ellertennes senest når luftfartøy har en avstand på 1500 meter fra hinderet.
+
+(7) Ved nattsenking til 2000 candela for mellomintensitets hinderlys type A, skal lyset være rødt eller hvitt.
+
+(8) Mellomintensitets hinderlys type B og C, og lavintensitets hinderlys, skalvære tent hele døgnet, ellervære utstyrt med styringsautomatikk som tenner lyset når bakgrunnslysstyrken er mindre enn 500 candela per kvadratmeter, ellertennes senest når luftfartøyet har en avstand på 1500 meter fra hinderet.
+
+(9) For hinder som skal merkes med mellomintensitets hinderlys type B og C kan lysintensiteten dempes under gode siktforhold. Ved sikt bedre enn 5 km horisontalt kan lysintensiteten senkes til 600 candela. Ved sikt bedre enn 10 km horisontalt kan lysintensiteten senkes til 200 candela.
+
+(10) Hinderlys som benytter Light Emitting Diodes (LED) skal utstråle lys med en bølgelengde som gjør hinderlysene synlige for piloter som benytter Night Vision Imaging System (NVIS). Luftfartshinder som skal merkes med LED-lys skal ha kontinuerlig NIR belysning på mellomliggende nivå, og skal være synlig med NVIS.
+
+(11) Hinderlys skal være operative minimum 95 % av tiden, regnet som et gjennomsnitt på årsbasis.
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 17. (Opphevet)
+
+> Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), opphevet ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 18. Kontroll og vedlikehold av hindermerking
+
+(1) Hindermerking skal kontrolleres rutinemessig. Det skal utarbeides rutiner og planer for kontroll og vedlikehold av hindermerkingen. Rutiner og vedlikeholdsplaner skal forelegges Luftfartstilsynet på forlangende.
+
+(2) Hindermerking skal vedlikeholdes slik at merkingen til enhver tid oppfyller bestemmelsene i denne forskrift.
+
+(3) Kontroll av hinderlys skal utføresgjennom system for automatisk overvåking, ellerminst hver 14. dag ved lysenheter med to uavhengige lyskilder med automatisk veksling, ellerminst hver 14. dag ved lysenheter som består av Light Emitting Diodes (LED), ellerdaglig for hinderlys som ikke har noen form for overvåking.
+
+(4) Feil på hinderlys skal rettes uten ugrunnet opphold. Dersom feil på hinderlys ikke kan rettes innen 24 timer fra feilen er oppdaget, skal det umiddelbart sendes melding til utpekt yter av luftfartsinformasjonstjenester for kunngjøring på NOTAM. Melding skal sendesved feil på hinderlys plassert på toppen av hinderet,ved feil på hinderlys plassert rundt toppen av hinderet dersom mer enn halvparten av lysene er slukket,ved feil på hinderlys på underliggende nivå dersom mer enn halvparten av lysene er slukket, ognår feilen som var skyld i meldingen er utbedret.
+
+(5) Videre skal det sendes melding til utpekt yter av luftfartsinformasjonstjenester for kunngjøring av NOTAM vedplanlagt utkobling av hinderlys,vedlikeholdsarbeid, bygging, ombygging og strekking av rapporteringspliktige luftspenn dersom rapporteringsplikten i [§ 4 (1)](forskrift/2014-07-15-980/§4/ledd/1) ikke kan overholdes.
+
+> Endret ved forskrifter [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 19. Saksbehandling ved søknad om annen merking av luftfartshinder
+
+(1) Annen merking i medhold av [§ 7](forskrift/2014-07-15-980/§7) fjerde ledd kan godkjennes av Luftfartstilsynet etter søknad fra hindereier.
+
+(2) Det er den samlede konkrete merking av et luftfartshinder som kan godkjennes av Luftfartstilsynet, enten hele merkingen utføres som annen merking eller om det kun er elementer av den forskriftsbestemte merkingen som erstattes av annen merking. Det kan verken generelt eller konkret gis godkjenning for enkeltkomponenter eller elementer av en hindermerking.
+
+(3) Godkjenning kan gis etter at merkingen er utført, og det er dokumentert at merkingen oppfyller kravene i [§ 7](forskrift/2014-07-15-980/§7) fjerde ledd.
+
+### § 20. Krav til dokumentasjon ved søknad om annen merking av luftfartshinder
+
+(1) Det må dokumenteres at annen merking av luftfartshinder er i samsvar med kravene i [§ 7](forskrift/2014-07-15-980/§7) fjerde ledd. Luftfartstilsynet kan kreve teknisk beskrivelse og dokumentasjon, funksjonsbeskrivelse, risikoanalyse etter anerkjent standard eller annen dokumentasjon nødvendig for å sikre at merkingen fungerer hensiktsmessig.
+
+(2) Det skal alltid utarbeides risikoanalyse etter anerkjent standard dersom annen merking kan forstyrre luftfartens kommunikasjons-, navigasjons eller overvåkingsutstyr.
+
+(3) Luftfartstilsynet kan kreve at det utføres kontrollflyging for å verifisere at merkingen fungerer i henhold til dokumentasjonen. Kostnader knyttet til kontrollflyging må dekkes av søker.
+
+## Kapittel IV – Fellesbestemmelser
+
+### § 21. Dispensasjon
+
+(1) Dispensasjon krever grunngitt søknad.
+
+(2) Luftfartstilsynet kan etter en konkret helhetsvurdering gi varig eller midlertidig dispensasjon fra bestemmelser fastsatt i denne forskrift. Det kan settes vilkår for dispensasjonen.
+
+(3) Dispensasjon kan ikke gis dersom hensynene bak bestemmelsen det dispenseres fra blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon være klart større enn ulempene etter en samlet vurdering. Det kan ikke dispenseres fra saksbehandlingsregler.
+
+(4) Ved vurderingen skal det legges særlig vekt på trafikktettheten i området, flygemønster og om annen nærliggende merking kan anses for å gi tilfredsstillende samlet merking.
+
+### § 22. Overtredelsesgebyr
+
+(1) Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6 til den som ikke oppfyller sine pliktertil å rapportere luftfartshinder i medhold av [§ 4](forskrift/2014-07-15-980/§4) og [§ 5](forskrift/2014-07-15-980/§5),til å merke luftfartshinder i medhold av [§ 7](forskrift/2014-07-15-980/§7),til kontroll og vedlikehold i medhold av [§ 18](forskrift/2014-07-15-980/§18) elleri medhold av vedtak gjort med hjemmel i [§ 21](forskrift/2014-07-15-980/§21) eller [§ 7](forskrift/2014-07-15-980/§7) tredje eller fjerde ledd.til å merke luftfartshinder i medhold av [§ 9](forskrift/2014-07-15-980/§9) (7),til å merke luftfartshinder i medhold av [§ 15](forskrift/2014-07-15-980/§15) og [§ 16](forskrift/2014-07-15-980/§16).
+
+(2) Overtredelsesgebyr etter [luftfartsloven § 13a-5](lov/1993-06-11-101/§13a-5) nr. 6 kan også pålegges den som ikke overholder tidsfrister for rapportering og merking av luftfartshinder i medhold av [§ 24](forskrift/2014-07-15-980/§24).
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+### § 23. Ikrafttredelse
+
+(1) Forskriften trer i kraft 1. september 2014.
+
+(2) Fra samme tidspunkt oppheves [forskrift 3. desember 2002 nr. 1384](forskrift/2002-12-03-1384) om merking av luftfartshinder (BSL E 2-2) og [forskrift 14. april 2003 nr. 514](forskrift/2003-04-14-514) om rapportering og registrering av luftfartshindre (BSL E 2-1).
+
+### § 24. Overgangsbestemmelser
+
+(1) For eksisterende luftfartshinder som tidligere ikke er innrapportert til NRL gjelder opprinnelig frist for rapportering i samsvar med [kapittel II](forskrift/2014-07-15-980/kapii) innen 4 måneder fra ikrafttredelsen av forskriften 1. september 2014.
+
+(2) Merkepliktige luftfartshinder som ikke er merket i henhold til [forskrift 3. desember 2002 nr. 1384](forskrift/2002-12-03-1384) om merking av luftfartshinder, skal være merket innen 15. oktober 2015.
+
+(3) Luftfartshinder som er merket og vedlikeholdt i henhold til [forskrift 3. desember 2002 nr 1384](forskrift/2002-12-03-1384) om merking av luftfartshinder, skal være merket i samsvar med denne forskrift senest 15. oktober 2019.
+
+(4) Fristen for lysmerking av spenn med høyde på 150 meter eller mer er likevel 15. oktober 2021 dersom det ikke er tilgang på lavspent strøm i området.
+
+(5) Luftfartshinder oppført før 1. januar 2023 omfattet av § 2 første ledd bokstav b, som inngår i transmisjons- og regionalnettet, skal sammen med tilhørende egne endemaster innrapporteres i perioden 1. januar 2023 til 1. juli 2024.
+
+(6) Luftfartshinder oppført før 1. januar 2023 omfattet av § 2 første ledd bokstav b, som ikke inngår i transmisjons- og regionalnettet, skal sammen med tilhørende egne endemaster innrapporteres i perioden 1. januar 2023 til 1. juli 2025.
+
+(7) Luftfartshinder oppført før 1. januar 2023 omfattet av § 2 første ledd bokstav c, skal sammen med tilhørende egne endemaster innrapporteres i perioden 1. januar 2023 til 1. juli 2025.
+
+(8) Luftfartshinder oppført før 1. januar 2023 omfattet av § 2 første ledd bokstav d, skal sammen med tilhørende egne endemaster innrapporteres i perioden 1. januar 2023 til 1. januar 2025.
+
+(9) Eier av luftfartshinder som tidligere har innrapportert et luftfartshinder, plikter i løpet av perioden 1. januar 2023 til 1. juli 2024 å sørge for at opplysningene er korrekte og i samsvar med nye krav til nøyaktighet.
+
+(10) Luftspenn omfattet av forskriftens § 9 (7) skal merkes innen 31. desember 2025.
+
+(11) Eier av luftfartshinder omfattet av forskriftens § 15 (3) plikter å utføre merking av luftfartshinderet innen 31. desember 2027.
+
+(12) Luftfartshinder omfattet av forskriftens [§ 16 (3)](forskrift/2014-07-15-980/§16/ledd/3) og [§ 16 (4)](forskrift/2014-07-15-980/§16/ledd/4) skal merkes med hinderlys på mellomliggende nivå innen 31. desember 2027.
+
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+## Vedlegg 1. Fargekoder luftfartshinder
+
+> Endret ved forskrifter [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+## Vedlegg 2. Hinderlys luftfartshinder
+
+> Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+## Vedlegg 3. Merking av kryssende luftspenn
+
+> Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+- Det skal brukes fargene *signalrød* og *signalgul*, iht. vedlegg 1 – Preaksepterte fargekoder for fargemerking av luftfartshinder.
+- All fargemerking skal ha *reflekterende* egenskaper, iht § 15 og vedlegg 1.
+
+- Stolpene/mastene med *tre* røde felt får et fargefelt på minimum: 7 felt x 0,20 m = 1,40 meter
+- Stolpene/mastene med *to* røde felt får et fargefelt på minimum: 5 felt x 0,20 m = 1,00 meter.
+- Stolpene/mastene med *ett* rødt felt får et fargefelt på minimum: 3 felt x 0,20 m = 0,60 meter.
+
+- Det skal brukes fargene *signalrød* og *signalgul*, iht. vedlegg 1 – Preaksepterte fargekoder for fargemerking av luftfartshinder.
+- All fargemerking skal ha *reflekterende* egenskaper, iht. § 15 og vedlegg 1.
+
+- Stolpene/mastene med tre røde felt får et fargefelt på minimum: 7 felt x 0,20 m = 1,40 meter
+- Stolpene/mastene med to røde felt får et fargefelt på minimum: 5 felt x 0,20 m = 1,00 meter.
+- Stolpene/mastene med ett rødt felt får et fargefelt på minimum: 3 felt x 0,20 m = 0,60 meter. *Fargemerkingen utføres tilsvarende som for de malte feltene i figur 1 ovenfor.*
+
+1. Varselskiltene kan være enkeltstående skilt, eller en sammenhengende plate med skilt. Skiltene angir en nedtelling før det kryssende luftspennet, slik at skilt på tredje siste stolpe/mast har *tre* røde felt, skilt på nest siste stolpe/mast har *to* røde felt, skilt på siste stolpe/mast før det kryssende luftspennet merkes har *ett* rødt felt.
+2. Varselskiltene skal ha rød og gul reflekterende farge, og være laget i aluminium, eller annet hensiktsmessig solid materiale.
+3. Varselskiltene skal være i fargene *signalrød* og *signalgul*, iht. vedlegg 1 – Preaksepterte fargekoder for fargemerking av luftfartshinder. All fargemerking skal ha reflekterende egenskaper, iht. § 15 og vedlegg 1.
+4. Varselskiltene skal ha en størrelse som gjør disse godt synlig for piloter i luftfartøy ved linjebefaring, og skal ha minimumsmål 315 (L) x 200 (H) millimeter.
+5. Varselskilt som monteres vertikalt, monteres på høyre eller venstre side av stolpen/masten, slik at disse er godt synlige for piloter i luftfartøy som flyr langs luftspennet ved linjebefaring.
+6. For å ivareta krav til helse, miljø og sikkerhet for personell ved klatring i stolper og master, kan varselskiltene monteres direkte med flaten mot stolpen eller masten. Varselskiltene må i så fall monteres med flaten på den siden som vender mot den retningen luftfartøy har ved linjebefaring.
+7. Kravet om merking gjelder selv om selve kryssingen er kabel i jorden.
+8. Figur 2 angir visuelt merking ved bruk av skilt.
+
+## Vedlegg 4. Merking av kraner
+
+> Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+## Vedlegg 5. Merking med hinderlys
+
+> Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+## Vedlegg 6. Merking med farger
+
+> Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).

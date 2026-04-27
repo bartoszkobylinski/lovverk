@@ -1,0 +1,39 @@
+---
+id: "sf-19750307-8626"
+slug: "forskrift-for-norsk-lysingsblad"
+type: "forskrift"
+ref_id: "forskrift/1975-03-07-8626"
+title: "Forskrifter for Norsk Lysingsblad"
+short_title: "Forskrift for Norsk Lysingsblad"
+language: "no"
+ministry:
+  - "Digitaliserings- og forvaltningsdepartementet"
+date_in_force: "1975-03-07"
+last_change_in_force: "1996-11-22"
+last_updated: "2024-01-02"
+xml_hash: "2c1c3d9742dc39dad263f8a60390d81d618c049098f4ce24f17961a9af016d0c"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrifter for Norsk Lysingsblad
+
+## I
+
+1. Norsk Lysingsblad utgis under ledelse av en redaktør. Redaktørstillingen er tillagt Statens informasjonstjeneste.
+2. Forbruker- og administrasjonsdepartementet bestemmer hvorledes det skal forholdes med trykkingen og utgivelsen av bladet.
+3. Norsk Lysingsblad skal vanligvis komme ut med et nummer hver virkedag for så vidt mengden av kunngjøringer gjør dette nødvendig.
+4. Norsk Lysingsblad tilstilles uten betaling de embets- og tjenestemenn som Forbruker- og administrasjonsdepartementet bestemmer.
+5. Forbruker- og administrasjonsdepartementet fastsetter abonnements- og annonseprisene for Norsk Lysingsblad.
+6. Statens postselskaps vanlige satser gjelder for omsendingen av Norsk Lysingsblad.
+
+> Endret ved [forskrift 22 nov 1996 nr. 1082](forskrift/1996-11-22-1082).
+
+## II
+
+1. Alle kunngjøringer fra offentlig myndighet kan tas inn i Norsk Lysingsblad. Når det er tvil, avgjør Forbruker- og administrasjonsdepartementet om en kunngjøring går inn under denne bestemmelse.
+2. I Norsk Lysingsblad kan tas inn kunngjøringer om:Kreditorinnkallinger vedkommende underhåndsordninger i insolvente boer.Uttrekning m.v. av private selskapers ihendehaverobligasjoner.Stipendier og legater.
+3. Når særlige grunner gjør det ønskelig, kan Forbruker- og administrasjonsdepartementet bestemme at også annen kunngjøring skal kunne tas inn i bladet.

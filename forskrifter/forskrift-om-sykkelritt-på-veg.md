@@ -1,0 +1,156 @@
+---
+id: "sf-20160617-0699"
+slug: "forskrift-om-sykkelritt-på-veg"
+type: "forskrift"
+ref_id: "forskrift/2016-06-17-699"
+title: "Forskrift om sykkelritt på veg"
+short_title: "Forskrift om sykkelritt på veg"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2016-06-17"
+last_change_in_force: "2023-10-10"
+last_updated: null
+xml_hash: "166afd67ad3024186b63626cecb934778e1cd7fbcacff3f2af4017093a87b711"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om sykkelritt på veg
+
+## § 1. Formål
+
+Forskriftens formål er å gi god trafikksikkerhet både for syklende som deltar i sykkelritt på veg, samt god trafikksikkerhet og nødvendig framkommelighet for andre trafikanter mens sykkelrittet pågår.
+
+## § 2. Definisjoner
+
+I denne forskrift forstås med:*Sykkelritt:* Ethvert arrangement for syklende på veg som helt eller delvis er åpen for alminnelig ferdsel, hvor deltagerne følger en fastlagt rute, og hvor det skilles mellom deltagerne innbyrdes ved hjelp av tidtaking og/eller annen form for rangering, eller hvor det er fastsatt maksimaltid. I tvilstilfelle avgjør vedtaksmyndigheten etter [§ 4](forskrift/2016-06-17-699/§4) ved enkeltvedtak om denne forskrift kommer til anvendelse.*Løypevakt:* Person med trafikalt grunnkurs og fastsatt opplæring, eller person over 18 år med fastsatt opplæring, og med oppgave å yte service og gi informasjon til rittdeltakere og publikum.*Stasjonær vakt:* Person over 18 år med fastsatt opplæring og kompetansebevis for trafikkregulering, jf. [§ 7](forskrift/2016-06-17-699/§7).*Mobil vakt:* Person over 25 år med fastsatt opplæring og kompetansebevis for trafikkregulering og bruk av motorsykkel i forbindelse med avvikling av sykkelritt, jf. [§ 7](forskrift/2016-06-17-699/§7). Mobil vakt har bare anledning til å regulere trafikk når de står i ro.
+
+> Endret ved [forskrift 24 mai 2017 nr. 642](forskrift/2017-05-24-642).
+
+## § 3. Regler for sykkelritt
+
+Sykkelritt er forbudt uten tillatelse etter [§ 4](forskrift/2016-06-17-699/§4).
+
+Vegtrafikkloven gjelder for deltagere i sykkelritt, vakter, funksjonærer og andre som yter service til deltagere såfremt ikke annet fremkommer i vedtaket, jf. [§ 4](forskrift/2016-06-17-699/§4). I vedtak om tillatelse til sykkelritt kan det gis unntak fra bestemmelser i eller gitt i medhold av [vegtrafikkloven § 4](lov/1965-06-18-4/§4), [§ 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6) i den grad det er forsvarlig og nødvendig. Hver enkelt deltager og andre involverte er i alle tilfeller ansvarlig for at [vegtrafikklovens § 3](lov/1965-06-18-4/§3) overholdes.
+
+Ved sykkelritt skal rittarrangøren stille ledsagerbiler som varsler med blinkende gult lys til alle sider, i det antall Statens vegvesen og/eller politiet finner det nødvendig. Ledsagerbil i front skal være utstyrt med skilt på taket med teksten «SYKKELRITT PÅGÅR». Skilt tildekkes eller demonteres når det ikke er i bruk. For å øke synligheten skal motorsykler som brukes av mobile vakter under avvikling av sykkelritt ha påmontert varsellykt som gir blinkende gult lys til alle sider. Annen form for varsling på kjøretøy er forbudt, herunder bruk av nødsignallys under kjøring.
+
+> Endret ved [forskrifter 24 mai 2017 nr. 642](forskrift/2017-05-24-642), [19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020).
+
+## § 4. Vedtaksmyndighet
+
+Statens vegvesen er vedtaksmyndighet for tillatelse til sykkelritt.
+
+Statens vegvesen innhenter uttalelse fra politiet om sykkelrittet før det fattes vedtak. Politiet beslutter om vakter etter [§ 2](forskrift/2016-06-17-699/§2) bokstav c) og d) kan benyttes til trafikkregulering, herunder antall og plassering. Politiet beslutter også eventuell bruk av polititjenestemenn.
+
+Vegdirektoratet er klageinstans for Statens vegvesens vedtak.
+
+> Endret ved [forskrift 19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020).
+
+## § 5. Søknad mv.
+
+Søknad som nevnt i [§ 4](forskrift/2016-06-17-699/§4), skal fremmes senest 4 måneder før konkurransen. Søknad innkommet etter fristen, behandles bare i den utstrekning saken likevel kan gis en betryggende vurdering.
+
+Søknad om sykkelritt sendes til Statens vegvesen. Gjenpart av søknad sendes til alle berørte politidistrikt.
+
+Søknaden skal inneholde:navn og adresse på rittarrangør samt navn, adresse og mobiltelefonnummer til rittleder og andre nøkkelpersoner som er ansvarlige for vaktholdetopplysning om sykkelrittets art og tidsrom for gjennomføringenbeskrivelse av strekningen og start- og målområde med vedlagt kart og forslag til skiltplanopplysning om beregnet antall startende, startmåte, startmellomrom mellom deltakerne og eventuelle puljestørrelserrisikovurdering for aktuelle faremomenter for ryttere, vakter og andre trafikanterbeskrive ulemper for særskilt berørte i nabolaget langs rittet, samt ulemper for nødetater og kollektivtrafikk i områdetopplysninger om veger eller deler av veger som ønskes stengt og til hvilke tider dette er ønskeligforslag til særskilte trafikkreguleringer og trafikksikkerhetstiltakopplysning om områder som skal reserveres for parkering og publikum og hvordan disse områdene kommer til å avsperres og bevoktesskriftlig tillatelse fra alle vegholdere og eiendomsbesittere om eventuell stenging av vegoversikt over ønsket bruk av godkjente vakter og/eller polititjenestemenn, med plasseringeventuelt begrunnet behov for unntak fra [vegtrafikkloven § 4](lov/1965-06-18-4/§4), [§ 5](lov/1965-06-18-4/§5) og [§ 6](lov/1965-06-18-4/§6).
+
+Statens vegvesen kan kreve nærmere opplysninger og kan sette de vilkår for konkurransen som tjener hensynet til sikkerhet, miljø og trafikkavvikling.
+
+> Endret ved [forskrifter 24 mai 2017 nr. 642](forskrift/2017-05-24-642), [19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020), [19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020).
+
+## § 6. Vakthold
+
+Rittarrangøren skal sette ut vakter i det antall og med den plassering som framgår av vedtaket. Vaktene må ikke være slik antrukket at de kan forveksles med polititjenestemenn, men likevel slik at antrekket skiller dem ut fra andre trafikanter.
+
+Løypevakter skal være antrukket med en CE-godkjent refleksvest som har en annen farge enn synlighetstøyet til stasjonære og mobile vakter.
+
+Stasjonære og mobile vakter skal være antrukket med jakke tilsvarende den som brukes ved trafikkregulering under arbeidsvarsling, i henhold til den til enhver tid gjeldende standard. Jakken skal være merket med teksten «SYKKELRITT» på rygg og front i reflekterende materiale etter samme krav som gjelder for arbeidsvarsling.
+
+Uniformeringen skal tas av i pauser og ellers når vakten ikke utfører oppgaven sin. Mobile vakter kan beholde uniformeringen på under kjøring til og fra poster.
+
+Stasjonære og mobile vakter skal bære synlig eller tilgjengelig kompetansebevis.
+
+Navneliste med opplysninger om stasjonære og mobile vakter skal være mottatt Statens vegvesen senest klokken 10.00 siste virkedag før rittstart.
+
+Vaktene står under rittarrangørens ledelse.
+
+> Endret ved [forskrifter 24 mai 2017 nr. 642](forskrift/2017-05-24-642), [20 aug 2019 nr. 1074](forskrift/2019-08-20-1074), [27 nov 2019 nr. 1583](forskrift/2019-11-27-1583), [20 aug 2019 nr. 1074](forskrift/2019-08-20-1074) (i kraft 1 jan 2020), [19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020).
+
+## § 7. (Opphevet)
+
+> Endret ved [forskrift 24 mai 2017 nr. 642](forskrift/2017-05-24-642), opphevet ved [forskrift 20 aug 2019 nr. 1074](forskrift/2019-08-20-1074).
+
+## § 7a. Opplæring for private vakter
+
+Vakter skal ha opplæring i henhold til læreplan fastsatt av Vegdirektoratet. Opplæringen skal omfatte trafikkforståelse for alle vakter for å ivareta trafikksikkerheten.
+
+Opplæringen skal omfatte trafikkregulering for mobile og stasjonære vakter, og tilegnelse av nødvendige kjøreferdigheter for mobile vakter under sykkelritt. Etter gjennomført opplæring og bestått prøve utsteder Statens vegvesen kompetansebevis som er gyldig i 5 år. For utstedelse av kompetansebevis skal det betales et gebyr etter satsen som fremgår i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 18](forskrift/2023-10-10-1650/kap18).
+
+Kursarrangør som tilbyr opplæring for mobile og stasjonære vakter etter denne forskrift skal være godkjent av Statens vegvesen. Godkjenning gis for 3 år. Kursholder som tilbyr opplæring for mobile vakter, må ha trafikklærerkompetanse for klasse A.
+
+Statens vegvesen fører tilsyn med kursarrangør.
+
+> Tilføyd ved [forskrift 20 aug 2019 nr. 1074](forskrift/2019-08-20-1074), endret ved [forskrifter 19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020), [4 feb 2022 nr. 187](forskrift/2022-02-04-187) (i kraft 1 mars 2022), [10 okt 2023 nr. 1658](forskrift/2023-10-10-1658).
+
+## § 7b. Unntak fra opplæringskrav og prøve for personer i yrker som omfatter trafikkreguleringsoppgaver
+
+Statens vegvesen kan etter søknad gjøre unntak fra krav om opplæring og prøve for den som praktiserer et yrke hvor tilsvarende trafikkreguleringsoppgaver som stasjonær og/eller mobil vakt inngår. Søkerens leder skal skriftlig dokumentere at vedkommende har tilstrekkelig relevant kompetanse.
+
+Søkerens øverste leder eller den han eller hun bemyndiger skal gi en skriftlig anbefaling. Det skal i anbefalingen presiseres om søkeren skal kunne være stasjonær og/eller mobil vakt.
+
+Statens vegvesen utsteder kompetansebevis som er gyldig i 5 år. For utstedelse av kompetansebevis skal det betales et gebyr etter satsen som fremgår i [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 18](forskrift/2023-10-10-1650/kap18).
+
+> Tilføyd ved [forskrift 20 aug 2019 nr. 1074](forskrift/2019-08-20-1074), endret ved forskrift [10 okt 2023 nr. 1658](forskrift/2023-10-10-1658).
+
+## § 7c. Behandling av personopplysninger
+
+Formålet med behandlingen av personopplysninger er å kunne administrere, utstede, kontrollere og inndra kompetansebevis til stasjonære og mobile vakter, jf. [§ 7a](forskrift/2016-06-17-699/§7a).
+
+Opplysningene slettes når de ikke lenger er nødvendig for formålet.
+
+> Tilføyd ved [forskrift 20 aug 2019 nr. 1074](forskrift/2019-08-20-1074).
+
+## § 7d. Elevregister og innmelding av opplæring og prøve
+
+Kursarrangør skal føre manuelt eller elektronisk elevregister over alle sine elever. Registeret skal vise elevens navn, adresse, fødselsnummer, når eleven begynte og når prøven ble bestått.
+
+Registeret skal ajourføres umiddelbart etter at eleven har sluttet.
+
+Kursarrangør melder inn til Statens vegvesen elever som har gjennomført opplæring og bestått prøve.
+
+> Tilføyd ved [forskrift 20 aug 2019 nr. 1074](forskrift/2019-08-20-1074).
+
+## § 8. Vegoppmerking
+
+Oppmerking på eller ved offentlig veg for start, innkomst eller andre formål, kan utføres bare når og på den måte søknadsmyndighetene tillater det. Eventuell oppmerking skal fjernes når konkurransen er avviklet på vedkommende sted. Blir dette ikke etterkommet, kan oppmerkingen fjernes for rittarrangørens regning.
+
+## § 9. Rittarrangørens ansvar
+
+Rittarrangøren skal i god tid og senest to uker før arrangementet bekjentgjøre arrangementet og eventuelle trafikale konsekvenser for eiendomsbesittere og andre særskilt berørte av arrangementet.
+
+Rittarrangøren er ansvarlig for hele arrangementet. Dette innebærer blant annet at rittarrangøren:har ansvar for trafikksikkerhetenskal informere deltakere og vakter om vilkårene for sykkelritteter ansvarlig for at utstyr som brukes under rittet er trafikksikkerti forkant av hvert sykkelritt skal ha gjennomgått med alle vaktene deres oppgaver for ritteter ansvarlig for de private vaktenehar ansvar for at vaktene er egnet.
+
+> Endret ved [forskrift 24 mai 2017 nr. 642](forskrift/2017-05-24-642).
+
+## § 10. Tilbakekall av kompetansebevis
+
+Statens vegvesen kan tilbakekalle kompetansebevis dersom vilkårene for godkjenning ikke lenger er til stede.
+
+Før det fattes vedtak om tilbakekall av godkjenning skal det gis skriftlig advarsel eller pålegg om retting. Skriftlig advarsel eller pålegg om retting kan likevel unnlates når særlig alvorlig forhold gjør seg gjeldende.
+
+> Endret ved [forskrift 19 des 2019 nr. 2048](forskrift/2019-12-19-2048) (i kraft 1 jan 2020).
+
+## § 11. Overgangsbestemmelser
+
+Sykkelritt etter denne forskrift kan gjennomføres i 2017 uten slik opplæring som denne forskrift krever. Rittarrangøren er ansvarlig for at vakter som benyttes har nødvendig kunnskap og ferdigheter.
+
+> Endret ved [forskrift 24 mai 2017 nr. 642](forskrift/2017-05-24-642).
+
+## § 12. Ikrafttreden mv.
+
+Denne forskrift trer i kraft 17. juni 2016. Samtidig oppheves [forskrift 7. april 2011 nr. 396](forskrift/2011-04-07-396) om sykkelritt på veg.

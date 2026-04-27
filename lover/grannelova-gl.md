@@ -1,0 +1,236 @@
+---
+id: "nl-19610616-015"
+slug: "grannelova-gl"
+type: "lov"
+ref_id: "lov/1961-06-16-15"
+title: "Lov om rettshøve mellom grannar (grannelova)"
+short_title: "Grannelova – gl"
+language: "nn"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1962-01-01"
+last_change_in_force: "2016-04-22"
+last_updated: "2021-07-07"
+xml_hash: "4078eee5de8713f37686712b8703d2c0f1e3ee8a003d79f306e0a8d29142ab7b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om rettshøve mellom grannar (grannelova)
+
+## Ålmenne føresegner.
+
+### § 1
+
+Føresegnene i denne lova gjeld berre så langt anna ikkje fylgjer av avtale eller serlege rettshøve.
+
+### § 2
+
+Ingen må ha, gjera eller setja i verk noko som urimeleg eller uturvande er til skade eller ulempe på granneeigedom. Inn under ulempe går òg at noko må reknast for farleg.
+
+I avgjerda om noko er urimeleg eller uturvande, skal det leggjast vekt på kva som er teknisk og økonomisk mogeleg å gjera for å hindra eller avgrensa skaden eller ulempa. Det skal jamvel takast omsyn til naturmangfaldet på staden.
+
+I avgjerda om noko er urimeleg, skal det vidare leggjast vekt på om det er venteleg etter tilhøva på staden og om det er verre enn det som plar fylgja av vanlege bruks- eller driftsmåtar på slike stader.
+
+Jamvel om noko er venteleg eller vanleg etter tredje stykket, kan det reknast som urimeleg så langt som det fører til ei monaleg forverring av brukstilhøva som berre eller i særleg grad råkar ein avgrensa krins av personar.
+
+> Endra med [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)).
+
+### § 3
+
+Er det ikkje nemnande om å gjera for eigaren eller for naturmangfaldet på staden, må eigaren ikkje ha tre som er til skade eller serleg ulempe for grannen, nærare hus, hage, tun eller dyrka jord på granneeigedomen enn tredjeparten av trehøgda. Kongen kan gjeva nærare føresegner om målingsmåten.
+
+Hekk som er lågare enn 2 meter, er ikkje ulovleg etter denne paragrafen. Hekk som lyt reknast for grannegjerde, går ikkje inn under denne lova.
+
+Føresegnene i denne paragrafen gjev ikkje rett til å ha ståande tre som grannen har krav på å få bort etter [§ 10](lov/1961-06-16-15/§10), jfr. [§ 2](lov/1961-06-16-15/§2).
+
+> Endra med [lover 19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+
+### § 4
+
+Ingen må byggja såleis at takdrop eller snøras fell ned på granneeigedom til skade eller ulempe for grannen.
+
+Dør og likeins vindauga eller annan gjennomsynleg opning i vegg mot granne må ikkje vera nærare granneeigedomen enn 1,25 meter. Har veggopning som nemnt serleg heimel, må grannen ikkje byggja nærare opninga enn 1,25 meter.
+
+### § 5
+
+Ingen må setja i verk graving, bygging, sprenging eller liknande, utan å syta for turvande føregjerder mot utrasing, siging, risting, steinsprut, lufttrykk og anna slikt på granneeigedom.
+
+## Grannevarsel og førehandsavgjerder.
+
+### § 6
+
+Når nokon vil gå i gang med planting, graving, bygging, industriverksemd eller anna tiltak som kan verta til skade eller ulempe på granneeigedom, skal han varsla grannen i rimeleg tid føreåt.
+
+Er det ikkje råd å finna den som skal varslast eller er det uvisst kor mange som skal ha varsel, skal det lysast ut i minst eitt blad som er mykje lest på staden. Same varslingsmåten kan nyttast når det av andre grunnar er vanskeleg å få varsla grannen direkte på vanleg måte.
+
+Grannevarsel er ikkje påkrevd når tiltaket har slik oreigningsrett som nemnd i [§ 10](lov/1961-06-16-15/§10) første stykket bokstav (b).
+
+> Endra med [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 7
+
+Spørsmål om korleis eit tiltak bør setjast i verk, så det ikkje kjem i strid med denne lova, kan kvar av grannane få avgjort føreåt med granneskjøn. Vil andre enn den som set tiltaket i verk, krevja slikt skjøn, må det gjerast seinast 4 veker etter at han fekk varsel som nemnt i [§ 6](lov/1961-06-16-15/§6). Kravet om skjøn kan i alle høve avvisast når det ikkje har rimeleg grunn. Når skjøn er kravt, må tiltaket ikkje setjast i verk utan serskilt samtykke av skjønet før endeleg avgjerd ligg føre i skjønssaka.
+
+Finn skjønet at tiltaket kjem i strid med denne lova, set det forbod mot at tiltaket vert fremja når det er fare for at iverksettinga kjem til å valda alvorleg skade på annan manns eigedom. Endå om det ikkje er slik fare, skal det setjast forbod som nemnt, dersom det er klårt at tiltaket kjem i strid med lova.
+
+Skjønet kan taka avgjerd om førehandstrygd for ansvar etter [§ 9](lov/1961-06-16-15/§9). Likeins kan det taka avgjerd om føregjerder etter [§ 5](lov/1961-06-16-15/§5) og om skyldnad for partane etter [§ 13](lov/1961-06-16-15/§13).
+
+Granneskjønn kan ikkje krevjast når tiltaket har slik oreigningsrett som nemnt i [§ 10](lov/1961-06-16-15/§10) første stykket bokstav (b).
+
+> Endra med [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 8
+
+Viser røynsla at vilkår eller pålegg i avgjerd etter [§ 7](lov/1961-06-16-15/§7) fyrste stykket er for strenge eller verkar annleis enn tenkt, kan eit nytt granneskjøn taka dei bort eller lempa på dei for framtida.
+
+## Skadebot.
+
+### § 9
+
+Det økonomiske tapet nokon lid av skade eller ulempe i strid med nokor føresegn i §§ 2-5 er den ansvarlege skyldig til å bøta, anten han sjølv eller nokon han svarar for, har gjort seg skuldig i aktløyse eller ikkje. Det gjeld og skade eller ulempe av tiltak som er fremja i samsvar med avgjerder etter [§ 7](lov/1961-06-16-15/§7), jf. [§ 8](lov/1961-06-16-15/§8), eller av tiltak med slik oreigningsrett som nemnt i [§ 10](lov/1961-06-16-15/§10) første stykket bokstav (b) eller som er lovleg etter [forurensingslova av 13. mars 1981 nr. 6](lov/1981-03-13-6).
+
+Den ansvarlege sitt ansvar kan lempas etter reglane i [skadeerstatningslova § 5-2](lov/1969-06-13-26/§5-2). Oppstår skade eller ulempe på fast eigedom eller ting, skal det ved bruken av [skadeerstatningslova § 5-2](lov/1969-06-13-26/§5-2) takast omsyn til om eigedomen eller tingen tåler særleg lite.
+
+Når skadelidaren etter god granneskikk burde sagt frå tidlegare, kan skadebotkravet falla bort eller skadebota setjast ned.
+
+Denne paragrafen minkar ikkje den retten nokon har til skadebot etter dei elles gjeldande rettsreglane.
+
+> Endra med [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+## Retting.
+
+### § 10
+
+Tilstand eller tilhøve som strider mot nokor føresegn i §§ 2-5, har grannen krav på vert retta. Dette gjeld likevel ikkje:når tiltaket er fremja i samsvar med avgjerd etter [§ 7](lov/1961-06-16-15/§7), jf. [§ 8](lov/1961-06-16-15/§8),når det er gjort vedtak om eller gjeve samtykke til oreigning av grunn til tiltaket, eller når slik oreigningsrett fylgjer direkte av lova, ellerså langt [forurensingslova av 13. mars 1981 nr. 6 § 10](lov/1981-03-13-6/§10) andre stykket gjer unntak frå rettingsskyldnaden.så langt [vannressursloven § 6](lov/2000-11-24-82/§6) tredje ledd gjer unntak frå rettingsskyldnaden.
+
+I tilfelle då rettinga kom til å valde så store utlegg eller tap elles at det klårt stod i mishøve til gagnet, kan det gjerast unntak frå rettingsskyldnaden når det ikkje er noko nemnande å leggja tiltakshavaren til last, på det vilkår at grannen får vederlag som ikkje må setjast mindre enn skaden eller ulempa.
+
+> Endra med [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)).
+
+### § 11
+
+Hus eller anna byggverk som ulovleg står såleis at noko av det er inne på granneeigedom, har grannen krav på vert bortteke eller retta opp. I tilfelle då dette kom til å valda så store utlegg eller tap elles at det klårt stod i mishøve til gagnet, og det ikkje er noko nemnande å leggja eigaren av byggverket til last, kan det gjerast unnatak frå rettingsskyldnaden mot at grannen får vederlag som ikkje må setjast mindre enn skaden eller ulempa.
+
+Var byggverket frå fyrst av sett ulovleg inn på granneeigedom, må vederlaget for rett til å ha det ståande til vanleg ikkje setjast mindre enn vinninga av innpåbygginga.
+
+Vert byggverket retta oppatt eller flytt eller går det til grunne, fell retten over granneeigedomen bort.
+
+### § 12
+
+Tre, greiner, og røter som stikk inn på granneeigedom og er nemnande til skade eller ulempe, har grannen rett til å kutta eller skjera av etter grenselina og eigna til seg. For tre og greiner gjeld dette berre når varsel er gjeve og dei så ikkje er borttekne innan rimeleg tid.
+
+Denne føresegna gjeld ikkje for merketre og heller ikkje der det er skog på begge sider av grenselina.
+
+## Eigedomar og anna som tòler serleg lite.
+
+### § 13
+
+Den som fremjar eit tiltak, er ikkje skyldig til å koste omframrådgjerder som vert turvande av di byggverk eller anna på granneeigedom tòler mindre enn det som elles lyt tòlast i grannehøve. Men når slike rådgjerder høver til å fremjast i samband med tiltaket elles, skal han setja dei i verk, såframt han har visse for at grannen ynskjer det og ber utlegga.
+
+Når ein av partane skjønar at omframrådgjerder er turvande, skal han varsla den andre utan tarvlaus dryging.
+
+## Rett til serlege åtgjerder på granneeigedom.
+
+### § 14
+
+Den som til lovleg bygging, vøling, graving, sprenging eller andre liknande tiltak på eigen grunn eller til tryggingsåtgjerder for sin eigedom, lyt valda skade på eller gjera seg mellombels bruk av granneeigedom, kan få rett til det mot vederlag, om det ikkje verkar urimeleg og vinninga for honom er monaleg større enn den skaden det valdar grannen.
+
+Avgjerda høyrer under granneskjønn. Føresegnene i [§ 16](lov/1961-06-16-15/§16) tredje og fjerde stykket gjeld på tilsvarande måte.
+
+> Endra med [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+### § 15
+
+Er byggverk eller anna til fare for alvorleg skade på granneeigedom, kan grannen få syta for turvande tryggingsrådgjerder på kostnaden til eigaren.
+
+Avgjerda høyrer under granneskjøn.
+
+## Fastsetjing av skadebot og vederlag.
+
+### § 16
+
+Ved skade og ulempe skal erstatningen eller vederlaget som hovudregel setjast til ein sum pengar ein gong for alltid (ein eingongssum).
+
+Ved personskade gjeld [skadeerstatningslova § 3-9](lov/1969-06-13-26/§3-9) om terminvise ytingar. For annan skade, ulempe eller tap kan retten fastsetja at erstatningen eller vederlaget heilt eller delvis skal svarast i terminvise ytingar dersom:det er uvisst kor lenge tidsavgrensa verksemd vil føre til skade, ulempe eller tap, ellerdet er grunn til å rekna med at skaden, ulempa eller tapet innan rimeleg tid vil verta vesentleg redusert.
+
+Retten kan og fastsetja terminvise erstatningar eller vederlag som skal gjelda inntil vidare dersom det er uvisst kva for omfang skaden, ulempa eller tapet vil få, og retten difor gjer vedtak om å venta ei bestemt tid med å fastsetja den endelege erstatningen. Kvar av partane kan likevel krevja at retten med ein gong målar ut erstatning eller vederlag for det tap som let seg gjera å fastslå med det same.
+
+Retten fastset korleis terminvise beløp skal reknast og kor lenge ytingane skal betalast. Kvar av partane kan krevja at terminvis erstatning eller vederlag etter andre stykket i bokstav (a) og (b) skal prøvast på nytt når det er gått minst 5 år sidan siste fastsetjing. Retten kan fastsetja at det skal stillast sikkerhet for terminvis erstatning eller vederlag og kva slag trygd som er naudsynt.
+
+Eigedomen eller tiltaket som det gjeld etter andre stykket bokstav (a) og (b) er dertil pant for erstatningen eller vederlaget. Når avgjerda er endeleg, skal leiaren av retten tinglysa opplysning om erstatningsskyldnaden eller vederlagsskyldnaden og panteretten. Eigaren ber tinglysingskostnaden.
+
+> Endra med [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+
+### § 17. (Oppheva)
+
+> Endra med [lover 8 feb 1980 nr. 2](lov/1980-02-08-2), [3 juni 1983 nr. 51](lov/1983-06-03-51), oppheva med [lov 16 juni 1989 nr. 67](lov/1989-06-16-67).
+
+## Granneskjøn.
+
+### § 18
+
+Granneskjøn er rettsleg skjøn.
+
+> Endra med [lov 26 jan 1973 nr. 3](lov/1973-01-26-3).
+
+## Løyvetvang og føresegner for luftforurensing.
+
+> Endra med lov 31 mai 1974 nr. 18.
+
+### § 19. (Oppheva)
+
+> Endra med [lover 19 juni 1969 nr. 54](lov/1969-06-19-54), 31 mai 1974 nr. 18, [27 mai 1977 nr. 40](lov/1977-05-27-40), oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 20. (Oppheva)
+
+> Oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 21. (Oppheva)
+
+> Endra med [lover 19 juni 1969 nr. 54](lov/1969-06-19-54), 26 jan 1973 nr. 5, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 22. (Oppheva)
+
+> Oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23. (Oppheva)
+
+> Oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 a. (Oppheva)
+
+> Føyd til med lov 2 feb 1973 nr. 5, endra med lov 19 des 1975 nr. 73, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 b. (Oppheva)
+
+> Føyd til med lov 31 mai 1974 nr. 18, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 c. (Oppheva)
+
+> Føyd til med lov 31 mai 1974 nr. 18, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 d. (Oppheva)
+
+> Føyd til med lov 31 mai 1974 nr. 18, endra med lov 19 des 1975 nr. 73, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 e. (Oppheva)
+
+> Føyd til med lov 31 mai 1974 nr. 18, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+### § 23 f. (Oppheva)
+
+> Føyd til med lov 31 mai 1974 nr. 18, oppheva med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+## Ikraftsetjing og overgangsføresegner.
+
+### § 24
+
+1. Denne lova gjeld frå den tid Kongen fastset.1
+2. Frå den tid denne lova tek til å gjelda vert det gjort desse brigde i andre lover:– – –Føresegna i [§ 10](lov/1961-06-16-15/§10), andre stykket fyrste punktum, gjeld på tilsvarande måte for tiltak som er fremja i samsvar med granneskjøn etter [§§ 13](lov/1961-06-16-15/§13) og [14](lov/1961-06-16-15/§14) i grannelova frå 27. mai 1887.
+3. Kongen kan gjeva nærare føresegner til gjennomføring av denne lova.
+
+> Endra med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).

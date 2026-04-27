@@ -1,0 +1,32 @@
+---
+id: "nl-20230602-022"
+slug: "endringslov-til-lov-om-interkommunale-selskaper"
+type: "lov"
+ref_id: "lov/2023-06-02-22"
+title: "Lov om endringar i lov om interkommunale selskaper (møteoffentlegheit, økonomiforvaltning m.m.)"
+short_title: "Endringslov til lov om interkommunale selskaper"
+language: "nn"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2023-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "f31c34a5b95c247c921cb498fa79f15e35b991b26d3faa473db6b6d0a12f5864"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om endringar i lov om interkommunale selskaper (møteoffentlegheit, økonomiforvaltning m.m.)
+
+## I
+
+Selskapet skal ha et representantskap hvor samtlige deltakere er representert med minst én representant. Vedkommende kommunestyre eller fylkesting oppnevner selv sine representanter. Er et interkommunalt selskap deltaker, oppnevner selskapets representantskap dets representanter. – – –. Hvis ikke annet er fastsatt i selskapsavtalen, velger representantskapet selv sin leder og nestleder. – – –
+
+– – –
+
+## II
+
+Lova tek til å gjelde frå den tida1 Kongen bestemmer. Kongen kan setje i kraft dei einskilde føresegnene til ulik tid.

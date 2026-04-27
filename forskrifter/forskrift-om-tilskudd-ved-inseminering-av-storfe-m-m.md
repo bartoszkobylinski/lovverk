@@ -1,0 +1,94 @@
+---
+id: "sf-20150430-0427"
+slug: "forskrift-om-tilskudd-ved-inseminering-av-storfe-m-m"
+type: "forskrift"
+ref_id: "forskrift/2015-04-30-427"
+title: "Forskrift om tilskudd til utjevning av kostnadene ved forsendelse av sæd og inseminering av storfe og svin"
+short_title: "Forskrift om tilskudd ved inseminering av storfe m.m."
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2015-07-01"
+last_change_in_force: "2018-11-01"
+last_updated: null
+xml_hash: "227cd2fae86362ddd37401399a9a50b6c69eaf72c72561a3d29ab4a387b8ba74"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til utjevning av kostnadene ved forsendelse av sæd og inseminering av storfe og svin
+
+## § 1. Formål
+
+Formålet med tilskudd etter denne forskriften er å bidra til at storfe- og svineprodusenters egenandel ved inseminering og forsendelse av sæd kan holdes på samme nivå i hele landet.
+
+## § 2. Definisjoner
+
+I denne forskrift forstås med*semintekniker:* Inseminør godkjent av Mattilsynet i medhold av [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) med tilhørende forskrifter.*godkjent avlsstasjon:* Avlsstasjon som er godkjent i medhold av [matloven og lov 4. desember 1992 nr. 130](lov/1992-12-04-130) om husdyravl (husdyravlsloven), med tilhørende forskrifter.*egenandel:* Det som brukeren selv betaler av kostnader ved inseminering og forsendelse. Produksjonskostnader for sæddoser til utsendelse fra distributør i Norge regnes ikke inn i grunnlaget for egenandelen.*distributør:* Avlslag eller foretak som har som formål å distribuere sæd fra godkjent avlsstasjon i Norge eller sæd fra godkjent utenlandsk avlsorganisasjon/selskap fra importlager i Norge.
+
+## § 3. Grunnvilkår
+
+Tilskudd etter denne forskriften kan gis til distributører av sæd fra godkjent avlsorganisasjon i henhold til husdyravlsloven med tilhørende forskrifter og matloven med tilhørende forskrifter. Tilskuddet skal benyttes til utjevning av produsentenes egenandel ved forsendelse av sæd og inseminering av storfe og svin. Distributørene må ha en landsdekkende distribusjon- og inseminasjonstjeneste.
+
+Insemineringen skal utføres av veterinær, semintekniker, eller eier/røkter med tillatelse fra Mattilsynet for eierinseminasjon.
+
+Distributørene kan ikke bruke tilskuddsmidlene til å godtgjøre reiseutgifter for mer enn 40 km av reiselengden ved inseminasjonsreise gjennomført av veterinær.
+
+> Endret ved [forskrifter 21 des 2017 nr. 2360](forskrift/2017-12-21-2360), [30 jan 2018 nr. 108](forskrift/2018-01-30-108), [7 feb 2018 nr. 160](forskrift/2018-02-07-160) (i kraft 1 nov 2018).
+
+## § 4. Tilskudd
+
+Landbruksdirektoratet fastsetter fordelingen av tilskuddsmidler mellom søkerne.
+
+Tilskuddsmidlene skal fordeles forholdsmessig mellom søkerne på bakgrunn av hvilket tilskuddsbeløp distributørene måtte ha fått dersom de skulle satt produsentenes egenandel i hele landet lik de faktiske inseminasjon- og distribusjonskostnadene i det rimeligste fylket distributøren opererer.
+
+## § 5. Fastsettelse og innkreving av egenandel fra bruker
+
+Distributøren kan fastsette og kreve inn egenandel fra bruker forinseminering gjennomført av veterinær eller semintekniker,sæd som veterinær og semintekniker benytter ved inseminering ogdistribusjon av sæd som benyttes ved eierinseminasjon.
+
+Egenandelen skal holdes på omtrent samme nivå i hele landet. Ved inseminering gjennomført av veterinær eller semintekniker, skal egenandelen settes slik at den gjenspeiler forskjellen i de faktiske kostnadene for de respektive gruppene, likevel slik at egenandelen kan holdes på omtrent samme nivå i hele landet.
+
+Distributøren er ikke forpliktet til å dekke kostnader over kr 900,- for en enkelt inseminering. Brukere i områder hvor en slik kostnad kan påregnes skal i stedet tilbys støtte til alternative løsninger, f.eks. opplæring og autorisasjon for eierinseminasjon, kjøp av avlsdyr, forutsatt at slike alternativer kan anses avlsmessig tilfredsstillende.
+
+Prinsippet om lik egenandel kan fravikes i de tilfeller der det inseminerende personell etter avtale gir kvantumsrabatter ved flere insemineringer i samme besetning til samme tid. Prinsippet om lik egenandel for eierinseminasjon kan likeens fravikes ved bestilling av flere sæddoser. Dette skal ikke føre til økte satser for enkeltinsemineringer.
+
+## § 6. Søknad
+
+Søknad om tilskudd for påfølgende år sendes til Landbruksdirektoratet. Søknadsfristen er 1. oktober.
+
+Vedlagt søknaden skal det følgeregnskap for foregående år som viser kostnadene innenfor hvert enkelt område som betjenes av henholdsvis veterinær, semintekniker eller eier/røkter,dokumentasjon på hvor mye tilskuddsmidler distributøren har brukt på å utjevne produsentenes egenandel i hvert enkelt fylke i forhold til det rimeligste fylket søker opererer i,statistikk som viser antall førstegangsinsemineringer og insemineringer gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser til eierinseminering per fylke,prognose for antall inseminasjoner pr. fylke fordelt gjennomført av veterinær eller semintekniker, samt antall solgte sæddoser for bruk til eierinseminasjon for søknadsåret ogprognose for hvor mye tilskuddsmidler det er behov for dersom egenandelen skal kunne settes lik de faktiske inseminasjon- og distribusjonskostnadene i det rimeligste område distributøren operer.
+
+Regnskap og oppgaver skal være attestert av statsautorisert revisor.
+
+> Endret ved [forskrift 27 aug 2018 nr. 1543](forskrift/2018-08-27-1543).
+
+## § 7. Utbetaling
+
+Innvilget tilskudd utbetales a konto til den distributøren som fremsatte søknaden, fordelt på to terminer pr. år. Utbetalingsdato for første termin er 1. mars, og for andre termin 1. september.
+
+Tilskuddet kan ikke overdras til eie eller pant.
+
+Dersom utbetalt beløp ikke benyttes fullt ut innen budsjettåret (kalenderåret) skal gjenstående sum trekkes fra ved første utbetaling påfølgende år.
+
+## § 8. Kontroll
+
+Landbruksdirektoratet fører kontroll med at bestemmelsene i denne forskriften er oppfylt. Distributørene plikter å åpne for innsyn i virksomheten og å legge fram de dokumenter som Landbruksdirektoratet anser som nødvendig for gjennomføringen av kontrollen.
+
+## § 9. Administrative sanksjoner
+
+Landbruksdirektoratet kan helt eller delvis kreve utbetalt tilskudd tilbakebetalt dersom det viser seg at forskriftens bestemmelser ikke er oppfylt. Det kan kreves forsinkelsesrente i henhold til [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. for det beløp som kreves tilbakebetalt.
+
+## § 10. Dispensasjon
+
+Landbruksdirektoratet kan i særlige tilfeller fravike bestemmelsene i forskriften.
+
+## § 11. Klage
+
+Vedtak etter forskriften kan påklages til Landbruks- og matdepartementet, jf. [forvaltningslovens § 28](lov/1967-02-10/§28). Klagefrist er tre uker. En eventuell klage skal stiles til Landbruks- og matdepartementet, men sendes Landbruksdirektoratet.
+
+## § 12. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. juli 2015. Fra samme dato oppheves [forskrift 13. april 2008 nr. 368](forskrift/2008-04-13-368) om tilskudd til utjevning av kostnadene ved forsendelse av sæd og inseminering på storfe og svin.

@@ -1,0 +1,212 @@
+---
+id: "sf-20111220-1434"
+slug: "forskrift-om-industrivern"
+type: "forskrift"
+ref_id: "forskrift/2011-12-20-1434"
+title: "Forskrift om industrivern"
+short_title: "Forskrift om industrivern"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2012-01-01"
+last_change_in_force: "2020-01-01"
+last_updated: "2012-01-09"
+xml_hash: "193581f4718c49ea0b755794a74ffffd82a0c717a6048d5bc3483c1983121bd0"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om industrivern
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Forskriften skal sikre at virksomheter har et robust industrivern som forsvarlig og effektivt er i stand til å begrense de konsekvenser uønskede hendelser kan få for liv, helse, miljø og materielle verdier og å bidra til rask normalisering.
+
+### § 2. Virkeområde
+
+Forskriften gjelder planlegging, organisering, dimensjonering, vedlikehold og samarbeid om industrivern i virksomheter som er registrert i næringskoder angitt i tabellen og som gjennomsnittlig i året sysselsetter minimum det antall personer som følger av tabellen:*Næringskode**Antall sysselsatte*06Utvinning av råolje og naturgass4007Bryting av metallholdig malm4008Bryting og bergverksdrift ellers4009Tjenester tilknyttet bergverksdrift og utvinning4010Produksjon av nærings- og nytelsesmidler4011Produksjon av drikkevarer4013Produksjon av tekstiler4014Produksjon av klær4015Produksjon av lær og lærvarer4016Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler4017Produksjon av papir og papirvarer4018.11Trykking av aviser4018.12Trykking ellers4018.14Bokbinding og tilknyttede tjenester4019Produksjon av kull- og raffinerte petroleumsprodukter4020Produksjon av kjemikalier og kjemiske produkter4021Produksjon av farmasøytiske råvarer og preparater4022Produksjon av gummi- og plastprodukter4023Produksjon av andre ikke-metallholdige mineralprodukter4024Produksjon av metaller4025Produksjon av metallvarer, unntatt maskiner og utstyr4026Produksjon av datamaskiner og elektroniske og optiske produkter4027Produksjon av elektrisk utstyr4028Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted4029Produksjon av motorvogner og tilhengere4030Produksjon av andre transportmidler4031Produksjon av møbler4032Annen industriproduksjon5033Reparasjon og installasjon av maskiner og utstyr4037Oppsamling og behandling av avløpsvann4038Innsamling, behandling, disponering og gjenvinning av avfall, dersom det foregår sortering eller bearbeiding av avfallet2045.2Vedlikehold og reparasjon av motorvogner4045.310Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler, forutsatt at virksomheten håndterer godset4046Agentur- og engroshandel, unntatt med motorvogner, forutsatt at virksomheten håndterer godset4052.10Lagring4052.211Drift av gods- og transportsentraler, forutsatt at virksomheten håndterer godset4052.223Forsyningsbaser4052.291Spedisjon, forutsatt at virksomheten håndterer godset4077.1Utleie og leasing av motorvogner, forutsatt at virksomheten har eget verksted4077.31Utleie og leasing av landbruksmaskiner og -utstyr, forutsatt at virksomheten har eget verksted4077.32Utleie og leasing av bygge- og anleggsmaskiner og -utstyr, forutsatt at virksomheten har eget verksted4077.39Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted, forutsatt at virksomheten har eget verksted4088.993Arbeidstrening for ordinært arbeidsmarked, forutsatt at arbeidstreningen foregår i virksomheten5088.994Varig tilrettelagt arbeid5096.01Vaskeri- og renserivirksomhet40
+
+Næringslivets sikkerhetsorganisasjon kan pålegge en virksomhet å etablere industrivern dersom virksomheten etter sin registrerte hovedaktivitet faller utenfor første ledd, men likevel driver aktivitet som nevnt der.
+
+Dersom en virksomhet har flere produksjonssteder, og avstanden mellom produksjonsstedene tilsier at det er uhensiktsmessig med et operativt samarbeid om industrivern, regnes hvert produksjonssted som egen virksomhet.
+
+Næringslivets sikkerhetsorganisasjon kan pålegge også andre virksomheter enn dem som omfattes av første ledd å etablere industrivern når dette anses nødvendig ut i fra virksomhetens risiko eller beliggenhet.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 3. Definisjoner
+
+I forskriften menes med*industrivern:* ordning som sikrer at kvalifisert personell i en virksomhet er tilgjengelig for innsats på kort varsel*fagleder industrivern:* den som på virksomhetens vegne har ansvaret for å iverksette forsvarlige og effektive tiltak umiddelbart etter at en hendelse inntreffer*håndtering:* enhver omgang med godset slik som oppbevaring, behandling, lasting og lossing*innsatsperson:* person i industrivernet som skal være i operativ innsats på skadested*innsatspersonell:* fellesbetegnelse på fagleder industrivern og innsatspersoner*sysselsatte:* fast eller midlertidig ansatte og innleide og eventuelt andre som har et avtaleforhold med virksomheten som innebærer tilstedeværelse*uønsket hendelse:* hendelse som avviker fra det normale, og som har medført eller kan medføre tap av liv eller skade på helse, miljø, materielle verdier og kritisk infrastruktur*øvelse:* alle aktiviteter som vedlikeholder eller øker ferdighetene i å kunne håndtere virksomhetens uønskede hendelser.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 4. Meldeplikt
+
+Virksomhet som faller inn under forskriften skal sende melding til Næringslivets sikkerhetsorganisasjon. Meldingen skal inneholde virksomhetens navn og adresse, organisasjonsnummer, næringskode, antall sysselsatte og om virksomheten skal ha forsterket industrivern, og hvilke forsterkninger, i henhold til [kapittel 3](forskrift/2011-12-20-1434/kap3).
+
+## Kapittel 2. Industrivern – grunnleggende krav
+
+### § 5. Tilpasning og dimensjonering av industrivernet
+
+Med bakgrunn i risikovurderinger skal virksomheten utarbeide oversikt over uønskede hendelser med konsekvenser som gjør det nødvendig for industrivernet å iverksette tiltak. Oversikten skal være grunnlag for organisering, bemanning og utrustning av virksomhetens industrivern.
+
+Oversikten over uønskede hendelser skal gjennomgås minimum én gang i året og oppdateres ved endringer som har betydning for organisering og dimensjonering av industrivernet.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 6. Organisering
+
+Virksomheten skal oppnevne industrivernleder som skal ivareta de administrative oppgavene med industrivernet. I de tilfeller der virksomheten har flere produksjonssteder, jf. [§ 2](forskrift/2011-12-20-1434/§2) andre ledd, kan disse ha felles industrivernleder.
+
+Virksomheten plikter å gi industrivernleder myndighet og ressurser til å utføre sine oppgaver på en forsvarlig måte.
+
+Industrivernet skal organiseres med fagleder industrivern og tilstrekkelig antall innsatspersoner for å kunne iverksette forsvarlige og effektive tiltak ved uønskede hendelser.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 7. Beredskapsplan
+
+Virksomheten skal utarbeide en skriftlig beredskapsplan. Beredskapsplanen skal inneholde opplysninger om hvordan industrivernet er organisert, og beskrive:plan for varslinghandling som umiddelbart skal utføres ved alarmtilgjengelige interne og eksterne ressurser.
+
+Beredskapsplanen skal gjennomgås minimum én gang i året. Ved endringer som påvirker virksomhetens risiko eller beredskapsbehov skal beredskapsplanen oppdateres.
+
+Nødvendige opplysninger i beredskapsplanen skal formidles til kommunen og nød- og beredskapsetatene.
+
+> Endret ved [forskrift 22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 8. Personlig verneutstyr
+
+Innsatspersonell skal ha personlig verneutstyr som gir tilstrekkelig vern under øvelser og innsats.
+
+Oversikt over personlig verneutstyr skal dokumenteres skriftlig.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 9. Utstyr
+
+Virksomheten skal ha førstehjelps-, brannvern- og annet beredskapsutstyr for å kunne håndtere uønskede hendelser som fremkommer etter risikovurdering i henhold til [§ 5](forskrift/2011-12-20-1434/§5). Utstyret skal være lett tilgjengelig for innsatspersonellet. Utstyret skal jevnlig kontrolleres og vedlikeholdes.
+
+Oversikt over tilgjengelig utstyr skal dokumenteres skriftlig.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 10. Kvalifikasjoner
+
+Industrivernleder skal ha kvalifikasjoner for å kunne organisere, dimensjonere og drifte industrivernet i virksomheten.
+
+Fagleder industrivern skal ha god kunnskap om virksomheten og beredskapsplanen og ha kvalifikasjoner for å kunne lede egne innsatspersoner og samarbeide med nødetatene.
+
+Innsatspersonene skal ha nødvendig kunnskap om virksomheten og beredskapsplanen og ha kvalifikasjoner for å håndtere virksomhetens uønskede hendelser.
+
+Den enkeltes kvalifikasjoner skal dokumenteres skriftlig.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 11. Samordning av industrivern
+
+Dersom konsekvensene av en uønsket hendelse kan påvirke annen virksomhet som er pliktig til å etablere industrivern etter denne forskriften, skal virksomhetenes industrivern samordnes. Samordningen skal avtales skriftlig og beskrives i virksomhetens beredskapsplan.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 12. Øvelser
+
+Innsatspersonellet skal øves minst hver sjette måned i å håndtere uønskede hendelser, jf. [§ 5](forskrift/2011-12-20-1434/§5).
+
+Det skal utarbeides skriftlig øvelsesplan. Den enkelte øvelse skal planlegges med tema og mål og evalueres. Evalueringen skal dokumenteres skriftlig og skal minst inneholde opplysninger om hvem som deltok og eventuelle forbedringstiltak.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 13. Bistandsplikt
+
+Industrivernpliktige virksomheter plikter etter anmodning å yte bistand til annen virksomhet og nød- og beredskapsetatene, så langt dette er mulig under hensyn til egen beredskap. Virksomhet som yter bistand kan kreve refusjon av påførte utgifter fra den som mottar bistand.
+
+## Kapittel 3. Forsterket industrivern
+
+### § 14. Virksomheter med potensial for hendelser med alvorlige konsekvenser
+
+Industrivernet skal forsterkes dersom uønskede hendelser, i forbindelse med aktiviteten i virksomheten, kan medføre én eller flere av følgende konsekvenser:to eller flere alvorlig skadde personer i samme hendelseeksponering av personer utenfor virksomhetenbetydelige og langvarige miljøskaderbetydelige materielle skader.Slike virksomheter skal i tillegg til kravene i [kapittel 2](forskrift/2011-12-20-1434/kap2), også etterleve kravene i [kapittel 3](forskrift/2011-12-20-1434/kap3).
+
+Næringslivets sikkerhetsorganisasjon kan pålegge virksomhet å etablere industrivern i henhold til [kapittel 3](forskrift/2011-12-20-1434/kap3).
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) som endret ved [forskrift 6 des 2019 nr. 1657](forskrift/2019-12-06-1657) (i kraft 1 jan 2020).
+
+### § 15. Forsterkninger
+
+Virksomhet med potensial for hendelser med alvorlige konsekvenser, jf. [§ 14](forskrift/2011-12-20-1434/§14), skal organisere industrivernet med redningsstab. Redningsstaben skal ha myndighet til å ta avgjørelser på strategisk nivå og evne til å vurdere hendelsens utvikling og de fremtidige behov i samarbeid med ledelsen på skadestedet.
+
+Virksomheten skal med bakgrunn i oversikten etter [§ 5](forskrift/2011-12-20-1434/§5) forsterke industrivernet innenfor ett eller flere av følgende fagområder:førstehjelpbrannvernmiljø- og kjemikalievernkjemikaliedykkingrøykdykking.
+
+Virksomheten skal vurdere behovet for ytterligere forsterkning av industrivernet og gjennomføre nødvendige tiltak.
+
+Når det er behov for bistand til avsperring, sikring av skadested og mottak av nødetatene, skal virksomheten organisere industrivernet med orden og sikring.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 16. Utstyr
+
+Redningsstaben skal disponere tilstrekkelig og tilfredsstillende utstyr og ha tilgang til egnede lokaler.
+
+Orden og sikring skal disponere tilstrekkelig og tilfredsstillende utstyr.
+
+Oversikt over tilgjengelig utstyr skal dokumenteres skriftlig.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+### § 17. Kvalifikasjoner
+
+Personer i redningsstab skal ha nødvendig kunnskap om virksomheten og beredskapsplanen.
+
+Personer i orden og sikring skal ha kvalifikasjoner for å kunne avsperre og bidra til sikring av skadested.
+
+Ved forsterket industrivern etter [§ 15](forskrift/2011-12-20-1434/§15) stilles følgende krav:Innsatspersoner ved forsterket førstehjelp skal ha kvalifikasjoner for å håndtere to eller flere skadde personer i samme hendelse.Innsatspersoner ved forsterket brannvern skal ha kvalifikasjoner for å håndtere brann.Innsatspersoner i miljø- og kjemikalievern skal ha kvalifikasjoner for å håndtere hendelser med kjemikalier som ikke innebærer behov for kjemikalieverndrakt og pusteluft.Kjemikaliedykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med kjemikalier.Røykdykkere skal tilfredsstille gjeldende helsekrav og ha tilfredsstillende kvalifikasjoner for å håndtere uønskede hendelser med brann.
+
+Den enkeltes kvalifikasjoner skal dokumenteres skriftlig.
+
+> Endret ved [forskrifter 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015), [22 mai 2019 nr. 672](forskrift/2019-05-22-672) (i kraft 1 jan 2020).
+
+### § 18. Øvelser
+
+Innsatspersonellet skal øves regelmessig og minimum fire ganger i året. Øvelsene skal planlegges og gjennomføres slik at de dekker variasjoner i tema, årstider, værforhold, tider på døgnet, ulike driftssituasjoner og andre forhold av betydning for håndteringen av uønskede hendelser.
+
+Personer i redningsstab samt orden og sikring skal minimum én gang i året øves i de oppgavene de kan bli stilt overfor.
+
+> Endret ved [forskrift 18 feb 2015 nr. 135](forskrift/2015-02-18-135) (i kraft 1 mars 2015).
+
+## Kapittel 4. Avsluttende bestemmelser
+
+### § 19. Avgift
+
+Industrivernpliktig virksomhet skal betale en årlig avgift til dekning av utgifter som Næringslivets sikkerhetsorganisasjon har med å organisere og føre tilsyn med industrivernet. Avgiften kan differensieres etter virksomhetenes risiko.
+
+### § 20. Rapportering
+
+Virksomheten plikter å rapportere om industriverntiltak når Næringslivets sikkerhetsorganisasjon krever det.
+
+### § 21. Tilsyn
+
+Næringslivets sikkerhetsorganisasjon fører tilsyn med at kravene i forskriften blir oppfylt.
+
+### § 22. Dispensasjon
+
+Næringslivets sikkerhetsorganisasjon kan dispensere fra bestemmelsene i forskriften når det foreligger særlige grunner og forutsatt at det ikke strider mot internasjonale avtaler som Norge har inngått.
+
+### § 23. Klage
+
+Direktoratet for samfunnssikkerhet og beredskap er klageinstans for vedtak fattet av Næringslivets sikkerhetsorganisasjon.
+
+### § 24. Reaksjonsmidler
+
+Ved overtredelse av forskriften eller vedtak truffet i medhold av forskriften gjelder bestemmelsene i [sivilbeskyttelsesloven § 34](lov/2010-06-25-45/§34) – [§ 35](lov/2010-06-25-45/§35).
+
+### § 25. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2012.
+
+Fra samme tid oppheves [forskrift 29. november 1996 nr. 1092](forskrift/1996-11-29-1092) om egenbeskyttelsestiltak ved industrielle bedrifter m.v. og tilhørende retningslinjer.
+
+Ved ikrafttredelse bortfaller vedtak gitt med hjemmel i [forskrift 29. november 1996 nr. 1092](forskrift/1996-11-29-1092) om egenbeskyttelsestiltak ved industrielle bedrifter m.v. og tilhørende retningslinjer.

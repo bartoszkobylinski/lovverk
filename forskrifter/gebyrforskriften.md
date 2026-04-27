@@ -1,0 +1,86 @@
+---
+id: "sf-20161206-1456"
+slug: "gebyrforskriften"
+type: "forskrift"
+ref_id: "forskrift/2016-12-06-1456"
+title: "Forskrift om gebyr for parkeringsvirksomhet og opplæringstilbydere (gebyrforskriften)"
+short_title: "Gebyrforskriften"
+language: "no"
+ministry:
+  - "Samferdselsdepartementet"
+date_in_force: "2017-01-01"
+last_change_in_force: "2023-10-10"
+last_updated: null
+xml_hash: "f5449f7780ab9a81164bee07a0b608d6a0345097decde43c86baab45d83b6fa8"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om gebyr for parkeringsvirksomhet og opplæringstilbydere (gebyrforskriften)
+
+## § 1. Formål
+
+Forskriften fastsetter gebyrer for kostnader Statens vegvesen har med å forvalte [forskrift 18. mars 2016 nr. 260](forskrift/2016-03-18-260) om vilkårsparkering for allmennheten og håndheving av private parkeringsreguleringer (parkeringsforskriften).
+
+## § 2. Virkeområde
+
+Forskriften gjelder for virksomhet som omfattes av [parkeringsforskriften § 3](forskrift/2016-03-18-260/§3) første ledd, jf. [§ 3](forskrift/2016-03-18-260/§3) femte ledd.
+
+Forskriften [§ 6](forskrift/2016-12-06-1456/§6), [§ 7](forskrift/2016-12-06-1456/§7) og [§ 9](forskrift/2016-12-06-1456/§9) gjelder også for tilbydere av opplæringstjenester jf. [parkeringsforskriften § 9](forskrift/2016-03-18-260/§9).
+
+## § 3. Gebyr for drift og vedlikehold parkeringsregister
+
+Virksomhet som nevnt i [§ 2](forskrift/2016-12-06-1456/§2) første ledd skal betale årlig gebyr til dekning av kostnader for drift og vedlikehold av parkeringsregister. Gebyrets størrelse er fastsatt på bakgrunn av antall vilkårsparkeringsplasser som skal legges inn i parkeringsregisteret med en differensiering på betalingsplasser og gratisplasser. Med betalingsplasser menes her at det er knyttet betalingsvilkår til plassen enten umiddelbart, etter et antall timer eller deler av døgnet. Antall plasser i faktureringsperioden er bestemmende for gebyrets størrelse.
+
+Det skal betales årlig gebyr per betalingsplass.
+
+Det skal betales årlig gebyr per gratisplass.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 17](forskrift/2023-10-10-1650/kap17).
+
+> Endret ved [forskrifter 17 des 2018 nr. 2083](forskrift/2018-12-17-2083) (i kraft 1 jan 2019), [14 des 2021 nr. 3543](forskrift/2021-12-14-3543) (i kraft 1 jan 2022), [17 des 2021 nr. 3724](forskrift/2021-12-17-3724) (i kraft 1 jan 2022), [10 okt 2023 nr. 1657](forskrift/2023-10-10-1657).
+
+## § 4. Årsgebyr for tilsyn
+
+Virksomhet som nevnt i [§ 2](forskrift/2016-12-06-1456/§2) første ledd, skal betale årlig tilsynsgebyr til dekning av Statens vegvesens kostnader ved forarbeid, gjennomføring, etterarbeid og eventuell reisevirksomhet i forbindelse med tilsyn av virksomheter.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 17](forskrift/2023-10-10-1650/kap17).
+
+> Endret ved [forskrifter 17 des 2018 nr. 2083](forskrift/2018-12-17-2083) (i kraft 1 jan 2019), [10 des 2019 nr. 1730](forskrift/2019-12-10-1730) (i kraft 1 jan 2020), [21 des 2020 nr. 3077](forskrift/2020-12-21-3077) (i kraft 1 jan 2021), [14 des 2021 nr. 3543](forskrift/2021-12-14-3543) (i kraft 1 jan 2022), [17 des 2021 nr. 3724](forskrift/2021-12-17-3724) (i kraft 1 jan 2022), [20 des 2022 nr. 2391](forskrift/2022-12-20-2391) (i kraft 1 jan 2023), [10 okt 2023 nr. 1657](forskrift/2023-10-10-1657).
+
+## § 5. Gebyr for risikobasert tilsyn
+
+Virksomhet som nevnt i [§ 2](forskrift/2016-12-06-1456/§2) første ledd, skal betale gebyr for kostnader med risikobasert tilsyn. Gebyret skal dekke kostnader til forarbeid, gjennomføring, etterarbeid og reisevirksomhet i forbindelse med tilsyn av virksomheter. Gebyret beregnes ut fra antall dagsverk som er nødvendig for oppfølgingen i den konkrete tilsynssak.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 17](forskrift/2023-10-10-1650/kap17).
+
+> Endret ved [forskrifter 17 des 2018 nr. 2083](forskrift/2018-12-17-2083) (i kraft 1 jan 2019), [10 des 2019 nr. 1730](forskrift/2019-12-10-1730) (i kraft 1 jan 2020), [21 des 2020 nr. 3077](forskrift/2020-12-21-3077) (i kraft 1 jan 2021), [14 des 2021 nr. 3543](forskrift/2021-12-14-3543) (i kraft 1 jan 2022), [17 des 2021 nr. 3724](forskrift/2021-12-17-3724) (i kraft 1 jan 2022), [20 des 2022 nr. 2391](forskrift/2022-12-20-2391) (i kraft 1 jan 2023), [10 okt 2023 nr. 1657](forskrift/2023-10-10-1657).
+
+## § 6. Gebyr for søknad om godkjenning av undervisningsplan
+
+Tilbydere av opplæringstjenester som nevnt i [§ 2](forskrift/2016-12-06-1456/§2) annet ledd skal betale gebyr for søknad om godkjenning av undervisningsplan til Statens vegvesen.
+
+Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 17](forskrift/2023-10-10-1650/kap17).
+
+> Endret ved [forskrifter 17 des 2018 nr. 2083](forskrift/2018-12-17-2083) (i kraft 1 jan 2019), [10 des 2019 nr. 1730](forskrift/2019-12-10-1730) (i kraft 1 jan 2020), [21 des 2020 nr. 3077](forskrift/2020-12-21-3077) (i kraft 1 jan 2021), [14 des 2021 nr. 3543](forskrift/2021-12-14-3543) (i kraft 1 jan 2022), [17 des 2021 nr. 3724](forskrift/2021-12-17-3724) (i kraft 1 jan 2022), [20 des 2022 nr. 2391](forskrift/2022-12-20-2391) (i kraft 1 jan 2023), [10 okt 2023 nr. 1657](forskrift/2023-10-10-1657).
+
+## § 7. Innbetaling av gebyr
+
+Virksomhet som nevnt i [§ 2](forskrift/2016-12-06-1456/§2), er forpliktet til å betale gebyr innen frist fastsatt av Statens vegvesen.
+
+## § 8. Klage og reduksjon av gebyr
+
+Individuelt fastsatte gebyr kan påklages til Vegdirektoratet.
+
+Statens vegvesen kan redusere eller frafalle gebyr dersom det foreligger særlige grunner. Vedtak om endring av gebyr kan påklages til Vegdirektoratet.
+
+## § 9. Overgangsregler
+
+Det skal ikke betales gebyr for gratisplassene som nevnt i [§ 3](forskrift/2016-12-06-1456/§3) tredje ledd i 2017, jf. [parkeringsforskriften § 65](forskrift/2016-03-18-260/§65) tredje ledd.
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2017.

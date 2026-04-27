@@ -1,0 +1,158 @@
+---
+id: "sf-20111216-1349"
+slug: "forskrift-om-egenandel-for-helse-og-omsorgstjenester"
+type: "forskrift"
+ref_id: "forskrift/2011-12-16-1349"
+title: "Forskrift om egenandel for kommunale helse- og omsorgstjenester"
+short_title: "Forskrift om egenandel for helse- og omsorgstjenester"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2012-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "62523ae7166ae95bf92233bf2eaddbaf2a9c1c2a4a84115dcec9434228259aa7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om egenandel for kommunale helse- og omsorgstjenester
+
+## Kapittel 1. Egenandel for kommunale helse- og omsorgstjenester i institusjon mv.
+
+### § 1. Vilkår og definisjoner
+
+Kommunen kan kreve egenandel for opphold i institusjon som nevnt i helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c når kommunen helt eller delvis dekker utgiftene til opphold i slik institusjon, eller har stillet garanti for oppholdet.
+
+Det kan likevel ikke kreves egenandel for:korttidsopphold som primært ytes for å avlaste pårørende i deres omsorgsoppgaverdøgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
+
+I forskriften her menes med*korttidsopphold:* Tidsavgrenset opphold i institusjon gitt som døgnopphold, dagopphold eller nattopphold.*langtidsopphold:* Opphold i institusjon på ubestemt tid eller tidsavgrenset opphold når vedkommende har vært på institusjon i minst 60 døgn pr. kalenderår.
+
+### § 2. Om vedtaket
+
+Den kommunen som har stilt garanti eller dekker oppholdsutgiftene treffer vedtak om egenandel etter denne forskriften.
+
+Det skal underrettes skriftlig om at det kan treffes vedtak om betaling i samsvar med denne forskriften. Slik underretning skal gis før eller senest samtidig med at avtale om flytting til institusjon mv. blir inngått. Underretningen skal gis til beboeren. I de tilfeller hvor beboeren ønsker det eller hvor vedkommende er ute av stand til å motta underretning, skal slik underretning også gis til verge eller nærmeste pårørende.
+
+Når vedtak om betaling er truffet skal kommunen straks gi underretning om dette til beboeren. Det skal videre gis opplysning om klageadgangen.
+
+> Endret ved [forskrift 22 april 2013 nr. 408](forskrift/2013-04-22-408) (i kraft 1 juli 2013).
+
+### § 3. Egenandelens størrelse ved langtidsopphold
+
+Egenandelen må ikke overstige de reelle oppholdsutgifter. Kapitalutgiftene skal ikke tas med i beregningen av oppholdsutgiftene. Kommunen fastsetter oppholdsutgiftene ved den enkelte institusjon.
+
+Av inntekter inntil folketrygdens grunnbeløp, fratrukket et fribeløp på kroner 10 950 pr. år, kan det kreves betalt 75 prosent årlig. Av inntekter utover folketrygdens grunnbeløp betales inntil 85 prosent. Betalingen skal begrenses slik at enhver har i behold til eget bruk minst 25 prosent av folketrygdens grunnbeløp i tillegg til fordelen av fribeløpet. Beboer som, uten selv å ønske det, legges på dobbeltrom skal ved beregningen tilstås et fribeløp på kroner 52 950 pr. år.
+
+Kommunen kan kreve egenandel av barn som har opphold i institusjon. En forutsetning for kommunens egenandelskrav er at barnet har selvstendig inntekt. Foreldrenes inntekts- og formuesforhold skal holdes utenfor egenandelsberegningen.
+
+Som inntekt regnes årets inntekter på grunnlag av pensjon, andre løpende trygdeytelser, arbeidsinntekt, næringsinntekt, leieinntekt, renter og annen avkastning av formue, etter fradrag av skatt og gjeldsrenter. Avkastning av erstatning for fremtidige utgifter regnes ikke som inntekt.
+
+Kommunen kan kreve opplysninger om inntektsforhold som er nødvendig for å kunne fastsette egenandelen.
+
+Dersom beboerens økonomiske situasjon endrer seg vesentlig, eller tidligere vedtak viser seg å bygge på uriktige opplysninger, skal saken tas opp til ny vurdering. Viser skatteoppgjøret for foregående år at det ikke er beregnet riktig egenandel, skal det skje et etteroppgjør.
+
+Arbeids- og velferdsetaten kan holde tilbake utbetaling av trygdeytelser og andre samordnede ytelser som legges til grunn for betaling av egenandel etter denne forskrift, jf. [folketrygdloven § 22-7](lov/1997-02-28-19/§22-7).
+
+> Endret ved [forskrifter 17 des 2012 nr. 1281](forskrift/2012-12-17-1281) (i kraft 1 jan 2013), [12 des 2013 nr. 1448](forskrift/2013-12-12-1448) (i kraft 1 jan 2014), [11 juni 2014 nr. 846](forskrift/2014-06-11-846) (i kraft 1 juli 2014), [17 des 2014 nr. 1705](forskrift/2014-12-17-1705) (i kraft 1 jan 2015), [17 des 2015 nr. 1730](forskrift/2015-12-17-1730) (i kraft 1 jan 2016), [20 des 2016 nr. 1825](forskrift/2016-12-20-1825) (i kraft 1 jan 2017), [20 des 2017 nr. 2259](forskrift/2017-12-20-2259) (i kraft 1 jan 2018), [17 des 2018 nr. 2038](forskrift/2018-12-17-2038) (i kraft 1 jan 2019), [17 des 2019 nr. 1887](forskrift/2019-12-17-1887) (i kraft 1 jan 2020), [18 des 2020 nr. 2987](forskrift/2020-12-18-2987) (i kraft 1 jan 2021), [21 des 2021 nr. 3791](forskrift/2021-12-21-3791) (i kraft 1 jan 2022), [21 des 2022 nr. 2405](forskrift/2022-12-21-2405) (i kraft 1 jan 2023), [19 des 2023 nr. 2194](forskrift/2023-12-19-2194) (i kraft 1 jan 2024), [16 des 2024 nr. 3180](forskrift/2024-12-16-3180) (i kraft 1 jan 2025), [17 des 2025 nr. 2619](forskrift/2025-12-17-2619) (i kraft 1 jan 2026).
+
+### § 4. Egenandelens størrelse ved korttidsopphold
+
+Kommunen kan ta betaling med inntil kroner 205 pr. døgn for korttidsopphold og med inntil kroner 115 for det enkelte dag- eller nattopphold.
+
+> Endret ved [forskrifter 17 des 2012 nr. 1281](forskrift/2012-12-17-1281) (i kraft 1 jan 2013), [12 des 2013 nr. 1448](forskrift/2013-12-12-1448) (i kraft 1 jan 2014), [17 des 2014 nr. 1705](forskrift/2014-12-17-1705) (i kraft 1 jan 2015), [17 des 2015 nr. 1730](forskrift/2015-12-17-1730) (i kraft 1 jan 2016), [20 des 2016 nr. 1825](forskrift/2016-12-20-1825) (i kraft 1 jan 2017), [20 des 2017 nr. 2259](forskrift/2017-12-20-2259) (i kraft 1 jan 2018), [17 des 2018 nr. 2038](forskrift/2018-12-17-2038) (i kraft 1 jan 2019), [17 des 2019 nr. 1887](forskrift/2019-12-17-1887) (i kraft 1 jan 2020), [18 des 2020 nr. 2987](forskrift/2020-12-18-2987) (i kraft 1 jan 2021), [21 des 2021 nr. 3791](forskrift/2021-12-21-3791) (i kraft 1 jan 2022), [21 des 2022 nr. 2405](forskrift/2022-12-21-2405) (i kraft 1 jan 2023), [19 des 2023 nr. 2194](forskrift/2023-12-19-2194) (i kraft 1 jan 2024), [16 des 2024 nr. 3180](forskrift/2024-12-16-3180) (i kraft 1 jan 2025), [17 des 2025 nr. 2619](forskrift/2025-12-17-2619) (i kraft 1 jan 2026).
+
+### § 5. Fradrag i beregningsgrunnlaget
+
+Dersom den som oppholder seg i institusjon mv. har hjemmeboende ektefelle eller mindreårig barn, eller helt eller delvis forsørger barn over 18 år, skal det gjøres fradrag i beregningsgrunnlaget.
+
+Fradraget skal minst tilsvare de brutto pensjonsytelser ektefelle/barn ville fått fra folketrygden dersom institusjonsbeboeren var død. Dersom ektefelle/barn mottar egen arbeidsinntekt eller pensjon fra folketrygden, skal de beregnede brutto pensjonsytelser i forrige punktum reduseres krone for krone mot ektefelle/barns arbeidsinntekter og pensjon fra folketrygden.
+
+I tillegg gjøres det fradrag med et beløp som tilsvarer 50 prosent av beboerens brutto offentlige pensjoner etter samordning og 50 prosent av beboerens brutto private pensjonsytelser.
+
+Fradrag kan også fastsettes på grunnlag av hva som er rimelig ut fra vedkommendes inntekt og forholdene for øvrig.
+
+Dersom det i særlov er gitt bestemmelser om minsteytelse under opphold på institusjon mv. skal disse legges til grunn.
+
+Fradrag skal skje etter at inntekten er fratrukket skatt og gjeldsrenter.
+
+### § 6. Tidsrom for betaling av egenandel
+
+For langtidsopphold kan krav om egenandel først gjøres gjeldende etter en måned regnet fra innflyttingsdato. Ved flytting direkte fra annen institusjon eller privat forpleining skal tiden for opphold i denne institusjon mv. medregnes.
+
+Kommunen har adgang til å ta betaling for korttidsopphold og dag- eller nattopphold fra første dag.
+
+Har beboeren hatt flere korttidsopphold kan kommunen kreve egenandel etter [§ 3](forskrift/2011-12-16-1349/§3) når vedkommende har vært på institusjon i minst 60 døgn pr. kalenderår.
+
+Plikten til å yte egenandel gjelder til og med den dag institusjonsoppholdet opphører.
+
+### § 7. Hvilke tjenester omfattes av egenandelen
+
+Egenandelen skal omfatte kost, losji, medisiner mv. samt helse- og omsorgstjenester som kommunen organiserer etter helse- og omsorgstjenesteloven.
+
+## Kapittel 2. Egenandel for kommunale helse- og omsorgstjenester utenfor institusjon
+
+### § 8. Kommunens adgang til å fastsette egenandel og betalingssatser for praktisk bistand og opplæring
+
+Kommunen kan selv fastsette regler for betaling av egenandel og betalingssatser for praktisk bistand og opplæring etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav b, herunder for brukerstyrt personlig assistanse, som ikke er til personlig stell og egenomsorg.
+
+Med personlig stell og egenomsorg menes hjelp til å stå opp og legge seg, personlig hygiene, toalettbesøk, til å kle av og på seg, hjelp til å spise, nødvendig tilsyn og tilsvarende grunnleggende behov.
+
+Egenandel kan bare kreves av den som mottar tjenesten. Dersom det ytes tjenester i hjemmet på grunn av et mindreårig barns hjelpebehov, anses hjelpen ytt til foreldrene.
+
+### § 9. Beregning av egenandel for praktisk bistand og opplæring
+
+Egenandelen skal ikke overstige kommunens egne utgifter til angjeldende tjeneste (selvkost). Betales tjenestene etter en abonnementsordning kan egenandelen ikke overstige kommunens samlede selvkost for tjenestene til den enkelte i den måneden abonnementet omfatter.
+
+Selvkost beregnes til en gjennomsnittlig timelønn for den tjenesten som utføres, tillagt sosiale utgifter samt administrasjonsutgifter som skal utgjøre 10 prosent av timelønnen og sosiale utgifter. Tidsforbruket rundes av til nærmeste halvtime.
+
+Egenandelen kan ikke settes høyere enn at vedkommende beholder tilstrekkelig til å dekke personlige behov og bære sitt ansvar som forsørger.
+
+Det kan ikke kreves dekning i vedkommendes formue.
+
+### § 10. Samlet inntektsgradert utgiftstak for praktisk bistand og opplæring
+
+Når kommunen bestemmer den maksimale egenandelen en person skal betale pr. år for tjenester som nevnt i [§ 8](forskrift/2011-12-16-1349/§8) skal betalingen beregnes på grunnlag av husstandens samlede skattbare nettoinntekt før særfradrag. Siste tilgjengelige skatteligning pr. 1. januar i det aktuelle året legges til grunn med mindre inntekten er vesentlig endret. Til inntekten legges også hjelpestønad fra folketrygden til hjelp i huset, mens omsorgslønn etter [helse- og omsorgstjenesteloven § 3-6](lov/2011-06-24-30/§3-6) skal trekkes fra inntektsgrunnlaget.
+
+Dersom husstandens samlede skattbare nettoinntekt før særfradrag er under 2 G, skal den samlede egenandelen for tjenester som nevnt i [§ 8](forskrift/2011-12-16-1349/§8) ikke overstige et utgiftstak på kroner 245 pr. måned. Til grunn for fastsetting av utgiftstaket legges G pr. 1. januar i det aktuelle året.
+
+Til husstanden regnes bare ektefeller eller samboere og i tillegg barn under 18 år, dersom hjelpen ytes på grunnlag av barnets omsorgs- eller pleiebehov.
+
+Hvis et av husstandens medlemmer betaler egenandel for langtidsopphold etter [kapittel 1](forskrift/2011-12-16-1349/kap1) eller mottar avkortede trygdeytelser på grunn av opphold utenfor hjemmet, regnes vedkommende ikke som medlem av husstanden etter bestemmelsen i andre ledd.
+
+Kommunen skal minst årlig oppdatere egenandelsvedtaket ut fra nye opplysninger i likning og ny G.
+
+Departementet gir veiledende retningslinjer for beregningen av egenandel for tjenester som nevnt i [§ 1](forskrift/2011-12-16-1349/§1).
+
+> Endret ved [forskrifter 17 des 2012 nr. 1281](forskrift/2012-12-17-1281) (i kraft 1 jan 2013), [12 des 2013 nr. 1448](forskrift/2013-12-12-1448) (i kraft 1 jan 2014), [17 des 2014 nr. 1705](forskrift/2014-12-17-1705) (i kraft 1 jan 2015), [17 des 2015 nr. 1730](forskrift/2015-12-17-1730) (i kraft 1 jan 2016), [20 des 2016 nr. 1825](forskrift/2016-12-20-1825) (i kraft 1 jan 2017), [4 sep 2017 nr. 1345](forskrift/2017-09-04-1345) (i kraft 1 okt 2017), [20 des 2017 nr. 2259](forskrift/2017-12-20-2259) (i kraft 1 jan 2018), [17 des 2018 nr. 2038](forskrift/2018-12-17-2038) (i kraft 1 jan 2019), [17 des 2019 nr. 1887](forskrift/2019-12-17-1887) (i kraft 1 jan 2020), [18 des 2020 nr. 2987](forskrift/2020-12-18-2987) (i kraft 1 jan 2021), [21 des 2021 nr. 3791](forskrift/2021-12-21-3791) (i kraft 1 jan 2022), [21 des 2022 nr. 2405](forskrift/2022-12-21-2405) (i kraft 1 jan 2023), [19 des 2023 nr. 2194](forskrift/2023-12-19-2194) (i kraft 1 jan 2024), [16 des 2024 nr. 3180](forskrift/2024-12-16-3180) (i kraft 1 jan 2025), [17 des 2025 nr. 2619](forskrift/2025-12-17-2619) (i kraft 1 jan 2026).
+
+## Kapittel 3. Egenandel for kommunal legehjelp og fysikalsk behandling
+
+### § 11
+
+Den som har rett til stønad ved helsetjenester etter lov om folketrygd skal betale egenandel for hjelp hos lege eller fysioterapeut ansatt i kommunens helse- og omsorgstjeneste, dersom det ikke i forskrifter etter [folketrygdloven § 5-4](lov/1997-02-28-19/§5-4) og [§ 5-8](lov/1997-02-28-19/§5-8) er bestemt at det skal ytes stønad etter honorartakstene. Det samme gjelder for den som har rett til slik stønad i henhold til gjensidighetsavtale med annet land om sosial trygghet, inngått i medhold av [lov om folketrygd § 1-3](lov/1997-02-28-19/§1-3).
+
+Egenandelen skal i det enkelte tilfelle svare til forskjellen mellom den honorarsats som til enhver tid gjelder etter avtale mellom staten og Den norske legeforening, respektive Norsk Fysioterapeutforbund/Norsk Manuellterapeutforening/Privatpraktiserende Fysioterapeuters Forbund, og folketrygdens refusjonssats.
+
+> Endret ved [forskrift 30 sep 2020 nr. 1927](forskrift/2020-09-30-1927).
+
+### § 12
+
+Den som ikke har rett til stønad ved helsetjenester etter lov om folketrygd eller gjensidighetsavtale skal betale egenandel som i det enkelte tilfelle svarer til honorarsatsene som er nevnt i [§ 11](forskrift/2011-12-16-1349/§11) andre ledd.
+
+## Kapittel 4. Klage og ikrafttreden
+
+### § 13. Klage og omgjøring
+
+Ved klage på vedtak om betaling av egenandel etter kapittel I og II gjelder bestemmelsene i pasient- og [brukerrettighetsloven kapittel 7](lov/1999-07-02-63/kap7).
+
+Helsedirektoratet er overordnet forvaltningsorgan med adgang til å omgjøre vedtak uten klage, jf. [forvaltningsloven § 35](lov/1967-02-10/§35).
+
+> Endret ved [forskrift 17 jan 2013 nr. 61](forskrift/2013-01-17-61).
+
+### § 14. Ikrafttreden
+
+Denne forskriften trer i kraft 1. januar 2012. Fra samme tid oppheves [forskrift 26. april 1995 nr. 392](forskrift/1995-04-26-392) om vederlag for opphold i institusjon m.v.

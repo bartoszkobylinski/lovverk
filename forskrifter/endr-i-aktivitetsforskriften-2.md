@@ -1,0 +1,49 @@
+---
+id: "sf-20251217-2644"
+slug: "endr-i-aktivitetsforskriften-2"
+type: "forskrift"
+ref_id: "forskrift/2025-12-17-2644"
+title: "Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)"
+short_title: "Endr. i aktivitetsforskriften"
+language: "nb"
+ministry:
+  - "Energidepartementet"
+  - "Klima- og miljødepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "6b4ae7bbb16cfba60541c073a61b4ed88d8200f6b9d6b23c2a46d8aa94b75550"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
+
+## I
+
+Tiltaksverdiene og grenseverdiene i [forskrift om tiltaks- og grenseverdier](forskrift/2011-12-06-1358) skal korrigeres med en sikkerhetsfaktor på 0,6 for en arbeidsperiode på 12 timer, og for personer som befinner seg under forhøyet trykk, gjelder en sikkerhetsfaktor på 0,2 med unntak for CO og CO2.
+
+Det skal foreligge kriterier for setting av prioritet. Vedlikeholdsaktiviteter skal gis en prioritet med tilhørende tidsfrister for utføring. Kriteriene skal ta hensyn til klassifiseringen som nevnt i [§ 46](forskrift/2010-04-29-613/§46).
+
+Operatøren skal, i samarbeid med operatører i andre utvinningstillatelser, etablere systemer for å sikre deteksjon og kartlegging av akutt forurensning, jf. denne forskriften [§ 78](forskrift/2010-04-29-613/§78).
+
+Oljeholdig fortrengningsvann kan slippes til sjø dersom oljeinnholdet ikke overstiger 15 mg olje per liter vann som veid gjennomsnitt for en kalendermåned.
+
+Kravet til miljøvurderinger gjelder ikke for kjemikalier som nevnt i [§ 62 sjette ledd bokstav a](forskrift/2010-04-29-613/§62/ledd/6/bokstav/a) til h.
+
+Felttesting av kjemikalier som alternativer til kjemikalier inkludert i tillatelsen etter [forurensningsloven](lov/1981-03-13-6), eller felttesting av kjemikalier innenfor nye bruksområder, er tillatt dersom:antall dager med forbruk ikke overskrider 14 dager,felttestingen ikke omfatter sporstoff,felttestingen ikke omfatter kjemikalier i svart kategori eller antatt svart kategori, gul underkategori 3 eller antatt gul underkategori 3, jf. [§ 63](lov/1981-03-13-6/§63),totalt utslipp av stoff i rød kategori eller antatt rød kategori, gul underkategori 2 eller antatt gul underkategori 2, jf. [§ 63](lov/1981-03-13-6/§63), ikke overstiger 25 kg.
+
+Borekaks, sand og andre faste partikler skal ikke slippes til sjø dersom vedhenget av basevæske i organisk borevæske eller formasjonsolje er mer enn ti gram per kilo tørr masse.
+
+Operatøren må ha tillatelse etter [forurensningsloven kapittel 3](lov/1981-03-13-6/kap3) for utslipp av kaks dersom vedhenget av basevæske i organisk borevæske er lik eller under ti gram per kilo tørr masse.
+
+Alle brønner skal sikres før de forlates slik at brønnintegriteten ivaretas i den tiden de er forlatt.
+
+For havbunnskompletterte brønner skal brønnintegriteten overvåkes dersom brønnene planlegges forlatt i mer enn tolv måneder.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

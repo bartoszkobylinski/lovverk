@@ -1,0 +1,420 @@
+---
+id: "sf-19920730-0592"
+slug: "forskrift-om-registrering-av-skip-i-nis"
+type: "forskrift"
+ref_id: "forskrift/1992-07-30-592"
+title: "Forskrift om registrering av skip i Norsk Internasjonalt Skipsregister (NIS)"
+short_title: "Forskrift om registrering av skip i NIS"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1992-08-01"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "943112324b71998ea2c56349014bf7ea9cdb45919982048f7d8c0e8ac38ef2db"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om registrering av skip i Norsk Internasjonalt Skipsregister (NIS)
+
+## Kapittel 1. Generelle bestemmelser
+
+### § 1. Anvendelse
+
+Forskriften kommer til anvendelse for skip registrert i norsk internasjonalt skipsregister.
+
+### § 2. Forholdet til sjøfartsloven og forskriften om registrering av skip i norsk ordinært skipsregister
+
+Sjølovens regler, herunder reglene om registrering av skip, får anvendelse for skip i norsk internasjonalt skipsregister med mindre annet er bestemt. Følgende bestemmelser får ikke anvendelse for skip registrert i norsk internasjonalt skipsregister:[lov av 24. juni 1994 nr. 39](lov/1994-06-24-39) (sjøloven) [§ 8](lov/1994-06-24-39/§8) tredje ledd, [§ 11](lov/1994-06-24-39/§11) første ledd første og annet punktum og sjette ledd, [§ 12](lov/1994-06-24-39/§12) og [§ 28](lov/1994-06-24-39/§28) første ledd første punktum for så vidt gjelder tredje slettingsalternativ om at et skip ikke lenger er å anse som norsk, [§ 31](forskrift/1992-07-30-592/§31), [§ 32](forskrift/1992-07-30-592/§32) og [§ 33](forskrift/1992-07-30-592/§33).[forskrift av 30. juli 1992 nr. 593](forskrift/1992-07-30-593) om registrering av skip i norsk ordinært skipsregister.[sjølovens § 2](lov/1994-06-24-39/§2) og [§ 3](lov/1994-06-24-39/§3) vil ikke komme til anvendelse for skip registrert i medhold av lov om norsk internasjonalt skipsregister [§ 1](lov/1994-06-24-39/§1) første ledd nr. 2 og 3.frivillig stiftet panterett i skip i norsk internasjonalt skipsregister kan bare få rettsvern ved registrering av retten i samsvar med reglene i sjølovens kapittel 2 og disse forskrifter, jfr. [sjølovens § 41](lov/1994-06-24-39/§41).
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
+
+### § 3. Om boreplattformer, luftputefartøyer mv.
+
+Boreplattformer og andre flyttbare innretninger er å anse som skip i disse forskrifter.
+
+Registrering av luftputefartøyer i norsk internasjonalt skipsregister, foretas etter reglene i sjøloven og disse forskrifter.
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
+
+### § 4. Registreringsmyndighet
+
+Norsk internasjonalt skipsregister føres av den tjenestemann som Nærings- og fiskeridepartementet tilsetter som registerfører for Skipsregistrene, som er et eget forvaltningsorgan direkte underlagt departementet med kontor i Bergen.
+
+> Endret ved [forskrifter 20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [1 jan 2014 nr. 238](forskrift/2014-01-01-238).
+
+### § 5. Registerets innhold
+
+Skipsregisteret er et register for skip og rettigheter i skip, jf. [sjøloven § 13](lov/1994-06-24-39/§13) og [§ 20](lov/1994-06-24-39/§20). Registeret kan føres elektronisk.
+
+Videre registreres hvilket vilkår skipet er registrert etter i lov om norsk internasjonalt skipsregister [§ 1](forskrift/1992-07-30-592/§1).
+
+Foruten de opplysninger som er nevnt i [sjølovens § 13](lov/1994-06-24-39/§13), skal registeret inneholde følgende opplysninger, jfr. lov om norsk internasjonalt skipsregister:for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2a, navn og adresse på eiers hovedkontor.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2b, navn og adresse på bestyrende reder.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 3,eiers navn, med angivelse av firma, selskapsform og registreringsstedadresse for eierens hovedkontordersom eieren er et ansvarlig selskap: navn, adresse og fødselsdato på alle ansvarlige deltakere, og dersom en deltaker er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar, også de opplysninger som skal gis for slike selskaper etter pkt. d) og e) nedenfordersom eieren er et kommandittselskap eller aksjeselskap eller annet selskap med begrenset ansvar: selskapskapital og hvor mye av den som er innbetalt, og er selskapskapitalen ikke fulltegnet, kan bare den tegnede kapital angis som selskapets kapitaldersom eieren er et selskap: navn, adresse og fødselsdato på styremedlemmer og daglig leder, og hvem som er signaturberettigetnavn og adresse på representanten.for skip registrert etter [§ 1](forskrift/1992-07-30-592/§1) første ledd nr. 2 og 3, skal registeret i tillegg inneholde navn og adresse på hovedkontoret til det rederi som forestår driften av skipet.for skip hvor det inngås tariffavtale med utenlandsk fagforening, skal registeret inneholde navn og adresse på den utenlandske avtalepart.
+
+For alle skip, skal registeret inneholde byggeverkstedets navn og adresse, og om mulig byggenummer.
+
+Registeret føres for øvrig på den måte Sjøfartsdirektoratet til enhver tid bestemmer.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [20 des 2018 nr. 2201](forskrift/2018-12-20-2201) (i kraft 1 jan 2019).
+
+### § 6. Dokumentjournalen
+
+Det føres en dokumentjournal for alle dokumenter, herunder meldinger, som mottas til registrering i skipsregisteret.
+
+Føring av dokumentjournalen skjer ved elektronisk databehandling.
+
+> Endret ved [forskrift 13 jan 2016 nr. 33](forskrift/2016-01-13-33) (i kraft 1 feb 2016).
+
+### § 7. Betaling av gebyr
+
+For registrering eller anmerkning i skipsregisteret, og for pantattest som gjelder skipsregisteret, skal det betales gebyr. Det kan også kreves gebyr for andre opplysninger som skal registreres. Gebyr skal betales etterskuddsvis.
+
+Kravet sendes den som har begjært registreringsforretningen. Kravet forfaller til betaling innen 14 dager regnet fra utsendelsen av kravet.
+
+Ved betaling via bank skal forhåndstrykket blankett med kundeidentifikasjon (KID) utstedt av Skipsregistrene, eller den de bemyndiger, benyttes. Ved elektronisk betaling skal kundeidentifikasjon (KID) oppgis sammen med betalingsoppdraget til betalers bank. Betalingsformidlere skal avvise elektroniske betalingsoppdrag for gebyrer der det ikke er oppgitt gyldig kundeidentifikasjon (KID).
+
+Gebyr skal betales i henhold til følgende satser:Nyregistrering og bareboatregistrering kr 4 408Registrering av endring eier kr 2 656Endring av andre juridiske roller kr 1 329Endring av skips navn kr 3 531Endring av hjemsted kr 889Registrering av pant kr 3 101Registrering av flåtepant kr 3 101 pr. skipSamtykke/påtegning av pant kr 2 656Sletting av fartøy/bareboatregistrering kr 2 656Bareboat-utflagging kr 2 656Pantattest/utskrift kr 796Hjemmels- og heftelsesattest kr 796Slettelsesattest kr 796Journalbekreftelse kr 796Kopi av dokument kr 308Skipsliste kr 796.
+
+> Endret ved [forskrifter 16 des 1994 nr. 1118](forskrift/1994-12-16-1118), [18 des 1998 nr. 1209](forskrift/1998-12-18-1209) (i kraft 1 jan 1999), [17 des 1999 nr. 1353](forskrift/1999-12-17-1353) (i kraft 1 jan 2000), [15 feb 2008 nr. 155](forskrift/2008-02-15-155) (i kraft 1 juli 2008), [11 juli 2008 nr. 805](forskrift/2008-07-11-805), [14 des 2009 nr. 1647](forskrift/2009-12-14-1647) (i kraft 1 jan 2010), [28 april 2010 nr. 632](forskrift/2010-04-28-632) (i kraft 1 juli 2010), [22 des 2010 nr. 1845](forskrift/2010-12-22-1845) (i kraft 1 jan 2011), [5 jan 2012 nr. 18](forskrift/2012-01-05-18), [11 jan 2013 nr. 29](forskrift/2013-01-11-29), [19 des 2013 nr. 1615](forskrift/2013-12-19-1615) (i kraft 1 jan 2014), [19 des 2014 nr. 1854](forskrift/2014-12-19-1854) (i kraft 1 jan 2015), [15 des 2015 nr. 1672](forskrift/2015-12-15-1672) (i kraft 1 jan 2016), [20 des 2016 nr. 1730](forskrift/2016-12-20-1730) (i kraft 1 jan 2017), [18 des 2017 nr. 2198](forskrift/2017-12-18-2198) (i kraft 1 jan 2018), [20 des 2018 nr. 2187](forskrift/2018-12-20-2187) (i kraft 1 jan 2019), [20 des 2019 nr. 2092](forskrift/2019-12-20-2092) (i kraft 1 jan 2020), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020), [23 des 2020 nr. 3160](forskrift/2020-12-23-3160) (i kraft 1 jan 2021), [21 des 2021 nr. 3825](forskrift/2021-12-21-3825) (i kraft 1 jan 2022), [20 des 2022 nr. 2451](forskrift/2022-12-20-2451) (i kraft 1 jan 2023), [22 des 2023 nr. 2315](forskrift/2023-12-22-2315) (i kraft 1 jan 2024), [23 des 2024 nr. 3433](forskrift/2024-12-23-3433) (i kraft 1 jan 2025), [15 jan 2025 nr. 40](forskrift/2025-01-15-40), [10 des 2025 nr. 2850](forskrift/2025-12-10-2850) (i kraft 1 jan 2026).
+
+## Kapittel 2. Fremgangsmåte mv. ved registrering
+
+### § 8. Melding om skip til innføring i skipsregisteret
+
+Innføring i registeret skjer etter melding fra skipets eier til registerføreren. Eies skipet av et partrederi, herunder partrederi etter lov om norsk internasjonalt skipsregister [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 2b, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
+
+Eies skipet av eier som nevnt i lov om norsk internasjonalt skipsregister [§ 1](forskrift/1992-07-30-592/§1), første ledd, nr. 3, gis melding av eiers representant i Norge.
+
+Meldingen skal skrives på blankett eller sendes elektronisk i den form og med den fremgangsmåte som er fastsatt av Sjøfartsdirektoratet. Sjøfartsdirektoratet fastsetter hva som er en betryggende metode for å autentisere innsenderen av et elektronisk dokument og sikre meldingens integritet. Sjøfartsdirektoratet kan fastsette standardvilkår for tilgang til systemer for innsending av dokumenter.
+
+Med meldingen skal følge gjenpart av skipets målebrev utstedt eller godkjent av Sjøfartsdirektoratet eller den det bemyndiger og bilbrev (byggebevis), skjøte eller annet hjemmelsdokument som viser eierens adkomst til skipet. Det skal fremlegges erklæring som viser at nasjonalitetsvilkårene er oppfylt, jf. [sjøloven § 1](lov/1994-06-24-39/§1) og [§ 4](lov/1994-06-24-39/§4). Erklæringen skal skrives på blankett eller sendes elektronisk i den form og med den fremgangsmåte som er fastsatt av Sjøfartsdirektoratet.
+
+Valg av hjemsted, jfr. [sjølovens § 8](lov/1994-06-24-39/§8), skjer ved melding etter [sjølovens § 13](lov/1994-06-24-39/§13). For skip registrert etter lov om norsk internasjonalt skipsregister [§ 1](lov/1994-06-24-39/§1), første ledd, nr. 2 og 3, meddeles eiers valg av hjemsted av det rederi som forestår driften av skipet, jfr. lov om norsk internasjonalt skipsregister [§ 1](lov/1994-06-24-39/§1), annet ledd.
+
+Overføres et skip fra utlandet, skal det vedlegges slettingsattest eller en annen attest fra utenlandsk register i samsvar med [sjøloven § 13](lov/1994-06-24-39/§13) tredje ledd tredje punktum. Er målebrevet utstedt av eller på vegne av utenlandsk myndighet, skal det godkjennes av Sjøfartsdirektoratet eller den det bemyndiger om at skipet har gyldig klasse og at det etter endt besiktelse vil være innrettet og utrustet i henhold til skipssikkerhetslovens bestemmelser.
+
+For skip som overføres fra norsk ordinært skipsregister, herunder skipsbyggingsregisteret, vedlegges slettingsattest. Videre vedlegges bekreftet utskrift fra registeret. Alle registrerte heftelser i skip registrert i norsk ordinært skipsregister kan, med rettighetshavernes samtykke, overføres til norsk internasjonalt skipsregister samtidig som skipet registreres i dette register og slettes i det norske ordinære skipsregister.
+
+EØS-avtalens vedlegg XIII (Europaparlaments- og rådsforordning [(EF) nr. 789/2004](eu/32004r0789)) om overføring av lasteskip og passasjerskip mellom registre innen Fellesskapet og om oppheving av rådsforordning [(EØF) nr. 613/91](eu/31991r0613) gjelder som norsk lovgivning, med de presiseringer og begrensninger som følger av protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [3 des 2004 nr. 1543](forskrift/2004-12-03-1543), [23 nov 2007 nr. 1293](forskrift/2007-11-23-1293), [13 jan 2016 nr. 33](forskrift/2016-01-13-33) (i kraft 1 feb 2016), [20 des 2018 nr. 2201](forskrift/2018-12-20-2201) (i kraft 1 jan 2019), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020).
+
+### § 8a. Melding om skip til bareboatregistrering
+
+Skal et skip bareboatregistreres etter [NIS-loven § 14](lov/1987-06-12-48/§14), skal befrakteren gi meldingen. [§ 8](lov/1987-06-12-48/§8) tredje ledd gjelder tilsvarende. Befraktes skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
+
+Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,nasjonalitetserklæring for befrakter,gjenpart av skipets målebrev, jf. [§ 8](forskrift/1992-07-30-592/§8) sjette ledd annet punktum,utskrift fra skipsregisteret i primærstaten som dokumenterer hvem som er skipets eier og alle registrerte rettighetshavere,skriftlig samtykke til bareboatregistrering i norsk skipsregister fra skipets eier og samtlige rettighetshavere, ogattest fra skipsregisteret i primærstaten som viser at skipet midlertidig tillates å bareboatregistrere i skipsregisteret og seile under norsk flagg, og at skipet i certepartiets periode ikke har rett til å føre primærstatens flagg.
+
+[§ 18](forskrift/1992-07-30-592/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene d til f.
+
+En tillatelse til bareboatregistrering kan gis for inntil ti år, men den kan ikke ha lengre varighet enn certepartiet. Tillatelsen kan forlenges for inntil fem år av gangen.
+
+> Tilføyd ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020).
+
+### § 8b. Melding om skip til bareboat-utflagging
+
+Skal et skip bareboat-utflagges etter [NIS-loven § 16](lov/1987-06-12-48/§16), skal eieren gi meldingen. [§ 8](lov/1987-06-12-48/§8) tredje ledd gjelder tilsvarende. Eies skipet av et partrederi, skal meldingen gis av bestyrende reder. I selskaper ellers gis melding av forretningsfører eller av styremedlem som kan tegne selskapets firma.
+
+Med meldingen skal det følgekopi av bareboat-certepartiet som angir eier, befrakter og certepartiets periode,skriftlig samtykke til at skipet kan bareboatregistreres i det utenlandske skipsregisteret fra samtlige rettighetshavere i skipet, ogattest fra det utenlandske skipsregisteret som viser at skipet tillates å bareboatregistreres der.
+
+[§ 18](forskrift/1992-07-30-592/§18) om bekreftelse av underskrift gjelder tilsvarende for dokumenter angitt i annet ledd bokstavene b og c.
+
+En tillatelse til bareboat-utflagging kan gis for inntil ti år, men den kan ikke ha lengre varighet enn certepartiet. Tillatelsen kan forlenges for inntil fem år av gangen.
+
+> Tilføyd ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020).
+
+### § 8c. Nasjonalitetsbevisets innhold
+
+Nasjonalitetsbeviset skal inneholde opplysninger om skipets navn, kjenningssignal, IMO identifikasjonsnummer, byggested og -år, brutto- og nettotonnasje, skipstype, hjemsted, register samt eierens navn og adresse. Bareboatregistreres et skip, skal nasjonalitetsbeviset i tillegg inneholde opplysninger om nasjonalitetsbevisets utløpsdato og befrakterens navn og adresse. Nasjonalitetsbeviset utstedes på formular fastsatt av Skipsregistrene.
+
+> Tilføyd ved [forskrift 3 des 2004 nr. 1543](forskrift/2004-12-03-1543), endret ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020, tidligere § 8a).
+
+### § 8d. Utstedelse av nasjonalitetsbevis
+
+Straks registreringspliktige skip og skip som er bareboatregistrert etter [NIS-loven § 14](lov/1987-06-12-48/§14) er innført i registeret, utstedes det nasjonalitetsbevis til dem.
+
+Ved endring av registrert navn, eier eller hjemsted, skal nytt nasjonalitetsbevis utstedes for ombytting med det gamle. Dette gjelder også ikke-registreringspliktige skip for hvilke det på eiers anmodning er utstedt nasjonalitetsbevis.
+
+Er et nasjonalitetsbevis blitt uleselig eller bortkommet, kan nytt nasjonalitetsbevis utstedes av skipsregisterføreren etter skriftlig anmodning fra rederi/skipsfører. Det nye nasjonalitetsbeviset påstemples «duplikat».
+
+Dersom nasjonalitetsbeviset er bortkommet, må dette bekreftes av rederi/skipsfører samtidig som det anmodes om nytt nasjonalitetsbevis. Dersom nasjonalitetsbeviset er ødelagt, skal det ødelagte dokumentet innsendes sammen med anmodning om utstedelse av nytt dokument. Kommer tapt nasjonalitetsbevis til rette etter at nytt nasjonalitetsbevis er utstedt, skal rederiet/skipsføreren omgående returnere duplikatet til skipsregisterføreren. Kopi av utstedt nasjonalitetsbevis skal lagres elektronisk hos Sjøfartsdirektoratet.
+
+> Tilføyd ved [forskrift 3 des 2004 nr. 1543](forskrift/2004-12-03-1543), endret ved [forskrifter 17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020, tidligere § 8b).
+
+### § 8e. Utlevering og oppbevaring av nasjonalitetsbevis
+
+Nasjonalitetsbeviset skal utleveres til rederen/skipsføreren eller den han har bemyndiget. Dokumentet kan også utleveres gjennom Sjøfartsdirektoratets stasjoner. Befinner skipet seg i utlandet, skal nasjonalitetsbeviset sendes rederen for videresending til skipsfører.
+
+Når nasjonalitetsbeviset er mottatt, skal rederiet sende skipsregisteret en skriftlig bekreftelse om det. Rederiet skal returnere et tidligere nasjonalitetsbevis eller et midlertidig nasjonalitetsbevis som måtte være om bord. Er et skip bareboat-utflagget etter [NIS-loven § 16](lov/1987-06-12-48/§16), skal eieren returnere et tidligere nasjonalitetsbevis eller et midlertidig nasjonalitetsbevis som måtte være om bord.
+
+Registreringspliktige skip, skip som er bareboatregistrert etter [NIS-loven § 14](lov/1987-06-12-48/§14), og skip i utenriksfart, skal oppbevare det originale nasjonalitetsbeviset om bord.
+
+> Tilføyd ved [forskrift 3 des 2004 nr. 1543](forskrift/2004-12-03-1543), endret ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020, tidligere § 8c).
+
+### § 8f. Midlertidig nasjonalitetsbevis
+
+Dersom et skip ved utstedelse av nasjonalitetsbevis befinner seg i utlandet, og endelig nasjonalitetsbevis ikke kan ventes å nå frem før skipets avgang, kan midlertidig nasjonalitetsbevis utstedes av vedkommende utenriksstasjon etter instruks i hvert enkelt tilfelle fra Skipsregistrene.
+
+Midlertidig nasjonalitetsbevis kan også utstedes i tilfeller når vilkår for endelig registrering i skipsregisteret ikke er tilstede, men forventes å finne sted innen rimelig tid.
+
+Dersom et skip ved utstedelse av nasjonalitetsbevis befinner seg i Norge, kan midlertidig nasjonalitetsbevis i ovennevnte tilfeller utstedes av Sjøfartsdirektoratets stasjoner etter instruks i hvert enkelt tilfelle fra Skipsregistrene.
+
+> Tilføyd ved [forskrift 3 des 2004 nr. 1543](forskrift/2004-12-03-1543), endret ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020, tidligere § 8d).
+
+### § 8g. Forbud mot registrering
+
+Skip som er oppført på lister i regionale fiskeriforvaltningsorganisasjoner over fartøy som har tatt del i ulovlig, urapportert eller uregulert fiske, samt fartøy som er underlagt forbud i medhold av [lov om forvaltning av viltlevande marine ressursar § 51](lov/2008-06-06-37/§51) første ledd a og b, og som er oppført på Fiskeridirektoratets liste over slike fartøy, kan ikke registreres i Norsk Internasjonalt Skipsregister.
+
+> Tilføyd ved [forskrift 12 jan 2012 nr. 74](forskrift/2012-01-12-74) (i kraft 1 feb 2012). endret ved [forskrift 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020, tidligere § 8e).
+
+### § 9. Registrering av partrederi
+
+Ethvert selskap som har til formål å drive rederivirksomhet og hvor medlemmene hefter ubegrenset for selskapets forpliktelser, enten solidarisk eller i forhold til sine andeler i selskapet, skal i skipsregisteret innføres som partrederi, jfr. [sjølovens § 101](lov/1994-06-24-39/§101).
+
+Et partrederi kan registreres som eier av flere skip når eier- og partsforholdene er de samme for skipene.
+
+Eierne skal gi partrederiet navn. Navnet skal ikke kunne forveksles med navn på annet partrederi i registeret. Ved melding til registerføreren skal partrederiets navn oppgis.
+
+Partrederiet anmerkes i registeret som hjemmelshaver til skipet.
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
+
+### § 10. Overføring fra det ordinære skipsregisterets skipsbyggingsregister til norsk internasjonalt skipsregister
+
+Når et skip meldes til innføring i norsk internasjonalt skipsregister, skal det opplyses om skipet er innført i skipsbyggingsregisteret, jfr. reglene i [§ 8](forskrift/1992-07-30-592/§8).
+
+Registerføreren skal avslutte registreringen i skipsbyggingsregisteret og overføre de anmerkede rettsstiftelser til norsk internasjonalt skipsregister. I norsk internasjonalt skipsregister anmerkes hvilken dato og klokkeslett innføring i dokumentjournalen fant sted og som prioriteten regnes fra. For så vidt gjelder rettsstiftelser som består i overdragelse av eiendomsrett, medtas dog bare den siste. Heftelser som er slettet overføres ikke. Skipsbyggingsregisteret og norsk internasjonalt skipsregister forsynes med krysshenvisninger.
+
+### § 11. Innføring i dokumentjournalen
+
+Dokumentene registreres i journalen fortløpende etter den dato og det klokkeslett de blir mottatt til registrering. Dokumenter som er mottatt hos registerfører i samme postforsendelse skal anses mottatt samtidig. Dokumenter innkommet med morgenposten skal anses innkommet klokken 10.00. Dokumentjournalnummer, dato og klokkeslett påføres dokumentet.
+
+Dokumentene registreres med løpende nummer for kalenderåret. Det nyttes bare ett nummer i dokumentjournalen selv om dokumentet gjelder flere skip.
+
+Utdraget av dokumentet i journalen skal være kort, men det må tydelig angi hvilket dokument innføringen gjelder, dets datering og klokkeslett og de viktigste rettsstiftelser det inneholder, eventuelt med stikkord. Det må nøyaktig angis hva det stiftes rett i og hva som er betalt i gebyr.
+
+For dokument som er mottatt til registrering, kan rekvirenten forlange at det gis kvittering, med opplysning om dato og klokkeslett for registreringen. Registerføreren kan forlange at rekvirenten leverer inn en ferdig utfylt kvittering for underskrift.
+
+> Endret ved [forskrifter 17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016), [21 des 2023 nr. 2285](forskrift/2023-12-21-2285) (i kraft 1 jan 2024).
+
+### § 12. Foreløpig innføring
+
+Når det blir satt frist for retting etter [sjølovens § 16](lov/1994-06-24-39/§16), annet ledd og når registreringsnekting blir påklaget, skal dokumentet føres foreløpig inn i registeret. Det skal anmerkes at innføringen er foreløpig. I registreringsattester, pantattester og utskrifter skal det gjøres oppmerksom på dokument som bare er foreløpig ført inn i registeret, jfr. reglene i [§ 28](forskrift/1992-07-30-592/§28).
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
+
+### § 13. Retur av åpenbart mangelfullt dokument
+
+Dokument som åpenbart ikke kan registreres, kan returneres til rekvirenten uten at det gis dokumentjournalnummer. Er det et papirdokument som begjæres registrert, skal dokumentet returneres så raskt som mulig etter at dokumentet er kommet inn og bare når det er grunn til å tro at dette ikke vil føre til prioritetstap. Er det et elektronisk dokument som begjæres registrert, skal rekvirenten så raskt som mulig få melding om at dokumentet ikke er innført i dokumentjournalen. Rekvirenten skal samtidig gjøres kjent med grunnen til at dokumentet ikke kan registreres og at det ikke er innført i dokumentjournalen. Likeledes skal han gjøres oppmerksom på at dokumentet vil bli journalført dersom dette kreves. Fremsettes et slikt krav, journalføres dokumentet den dagen kravet kommer inn.
+
+Dersom dokumentet kommer tilbake og det heller ikke nå kan registreres, treffer registerfører beslutning om nekting etter reglene i [§ 21](forskrift/1992-07-30-592/§21).
+
+> Endret ved [forskrift 27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 14. Anmerkning i skipsregisteret
+
+Et dokument anmerkes (ekstraheres) i skipsregisteret ved å innføre dokumentjournalnummer, dato og klokkeslett for mottakelsen, dokumentets betegnelse samt et kort utdrag av de viktigste rettsstiftelsene, herunder alle pengeheftelsene. Tilsvarende gjelder for tvangsforretninger. Melding, målebrev, skipets data og opplysninger om eierforhold mv. anmerkes i samsvar med de til enhver tid gjeldende bestemmelser for føring av registeret.
+
+## Kapittel 3. Krav til dokumenter, bekreftelse av underskrift mv.
+
+### § 15. Opplysningsplikt
+
+Trenger registerføreren ytterligere opplysninger i forbindelse med en registreringsforretning, kan han forlange at rekvirenten fremskaffer disse, med mindre de kan skaffes fra protokoller og dokumenter i registerets arkiv.
+
+### § 16. Klarhet og form
+
+Et dokument til registrering skal ha tydelig skrift. Det skal dessuten være så klart formulert at det er utvilsomt hva rettsstiftelsen omfatter og hvor den skal innføres. Dokumentet bør være kort og så vidt mulig bare inneholde opplysninger som kan registreres, jfr. [sjølovens § 20](lov/1994-06-24-39/§20). Inneholder dokumentet opplysninger som ikke kan registreres, bør disse stå samlet for seg til slutt i dokumentet. Er dokumentet ikke redigert slik, kan det forlanges at rekvirenten erstatter det med et nytt dokument.
+
+Partene skal være entydig identifisert. For personer tildelt norsk fødselsnummer (fødselsdato + personnummer) skal dette oppgis. For personer som ikke er tildelt norsk fødselsnummer, skal det oppgis fødselsår, dato og nasjonalitet.
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909).
+
+### § 17. Dokumenter på fremmed språk
+
+Dokument som forlanges registrert må være skrevet på norsk, dansk, svensk eller engelsk, men dokumentet kan likevel forlanges oversatt til norsk når det er nødvendig for sikkert å kunne avgjøre hvordan dokumentet skal forstås og anmerkes i registeret. Oversettelsen skal være bekreftet av translatør som er autorisert av norsk myndighet. Registerfører kan også godkjenne oversettelse bekreftet av norsk advokat eller norsk utenrikstjenestemann.
+
+Registreringsattest, jfr. reglene i [§ 28](forskrift/1992-07-30-592/§28), påføres originaldokumentet.
+
+Oversettelsen betraktes som hjelpedokument, jfr. reglene i [§ 20](forskrift/1992-07-30-592/§20).
+
+Hjelpedokument på fremmed språk trenger ikke oversettelse hvis registerføreren ikke er i tvil om innholdet.
+
+> Endret ved [forskrift 17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016).
+
+### § 18. Bekreftelse av underskrift
+
+Når det i eller i medhold av sjøloven er krav om underskrifter på dokumentet, skal det ved elektronisk registrering av dokumenter benyttes elektronisk sertifikat, jf. [§ 8](forskrift/1992-07-30-592/§8). Ved bruk av slike elektroniske sertifikater stilles det ikke krav til vitnebekreftelser.
+
+Ved papirbasert registrering hvor en underskrift skal være bekreftet, jf. [sjølovens § 15](lov/1994-06-24-39/§15) annet ledd, kan bekreftelse gis av to myndige vitner bosatt i Norge, eller av norskdommer eller dommerfullmektig,lensmann eller lensmannsbetjent,namsmann eller namsfullmektig godtatt av tingretten,forliksmann,advokat eller autorisert advokatfullmektig,statsautorisert revisor eller registrert revisor,notarius publicus.
+
+Bekreftelsen kan også gis av utenlandsk notarius publicus.
+
+Norsk notarius publicus omfatter også norsk utenrikstjenestemann i utlandet, for så vidt han er kompetent til å utføre notarialforretninger, jf. [lov av 13. februar 2015 nr. 9](lov/2015-02-13-9) om utenrikstjenesten [§ 13](lov/2015-02-13-9/§13). For utenlandsk notarius publicus beror det på vedkommende lands lovgivning hvilke stedlige myndigheter som er tillagt notarialfunksjoner.
+
+I tilfelle underskrift på vegne av utenlandsk selskap, organisasjon eller annen juridisk person, skal notaren også bekrefte at den eller de som underskriver har myndighet til å forplikte vedkommende selskap mv.
+
+Når det gjelder utenlandsk notar, bør hans underskrift i alminnelighet legaliseres av norsk utenrikstjenestemann.
+
+Utstederen kan ikke bekrefte sin egen underskrift. Heller ikke den som erverver en rett ved dokumentet eller dennes ektefelle, foreldre, barn eller søsken eller en ansatt hos erververen kan bekrefte utstederens underskrift. Hvis dokumentet utstedes til norsk bank eller forsikringsselskap kan likevel bankens eller forsikringsselskapets funksjonærer bekrefte utstederens underskrift. Tilsvarende gjelder offentlige tjenestemenn når dokumentet er utstedt til staten eller en kommune.
+
+Finner registerføreren det ubetenkelig, kan han godta et dokument til registrering selv om underskriften ikke er bekreftet på foreskreven måte.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 19. (Opphevet)
+
+> Endret ved [forskrift 13 sep 1996 nr. 909](forskrift/1996-09-13-909), opphevet ved [forskrift 17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016).
+
+### § 20. Hjelpedokument
+
+Et dokument som ikke kan registreres, kan leveres inn som hjelpedokument når det tjener som bevis for et forhold av betydning for registrering eller sletting av et annet dokument (hoveddokument). Når hoveddokumentet utstedes etter fullmakt, skal det leveres hjelpedokument som viser fullmaktsforholdet. Gjelder fullmakten rett til å utstede skjøte eller pantedokument, jfr. [sjølovens § 15](lov/1994-06-24-39/§15), annet ledd, gjelder reglene i [§ 18](lov/1994-06-24-39/§18) om bekreftelse av underskrift tilsvarende for fullmaktsgivende underskrift.
+
+Er hjelpedokumentet en utskrift av offentlig protokoll eller bevitnelse fra offentlig myndighet gitt på grunnlag av opplysninger som fremgår av offentlig protokoll eller dokument, er det ikke nødvendig å oppbevare hjelpedokumentet ved registerførerens kontor. Med mindre annet er bestemt skal andre hjelpedokumenter lagres elektronisk.
+
+Det er tilstrekkelig med ett hjelpedokument selv om registreringen gjelder flere skip.
+
+Sjøfartsdirektoratet avgjør om hjelpedokumenter kan sendes inn elektronisk.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016), [20 des 2018 nr. 2201](forskrift/2018-12-20-2201) (i kraft 1 jan 2019).
+
+## Kapittel 4. Registreringsnekting og klagebehandling. Sletting mv.
+
+### § 21. Registreringsnekting og klagebehandling
+
+Inntil registreringsattesten, jf. [sjølovens § 17](lov/1994-06-24-39/§17), første ledd, er underskrevet, kan et dokument nektes registrert.
+
+Nektes et dokument registrert, skal rekvirenten og andre som saken direkte gjelder straks ha skriftlig underretning om dette i rekommandert brev eller på annen etterviselig måte. I underretningen skal det gis begrunnelse for nektingen. Det skal også gis opplysning om adgangen til å klage til Nærings- og fiskeridepartementet, og om at klage i tilfelle må være kommet inn til registerføreren innen 3 uker fra den dag underretningen er sendt. Har registerføreren fastsatt en lengre frist, skal denne fristen angis i stedet. Videre skal det opplyses at søksmål for å få avgjørelsen prøvet ikke kan reises uten at klageadgangen er benyttet.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [1 jan 2014 nr. 238](forskrift/2014-01-01-238), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 22. Samtykke fra rettighetshaver til visse disposisjoner
+
+Skal en rettighetshaver etter en registrert heftelse gi samtykke til at skip mv. slettes i skipsregisteret etter lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12) tredje ledd, må det legitimeres at den som gir sitt samtykke er rette vedkommende. Er heftelsen en negotiabel pantobligasjon, jfr. [lov av 17. februar 1939 nr. 1](lov/1939-02-17-1) om gjeldsbrev [§ 11](lov/1939-02-17-1/§11), skal denne i alminnelighet fremlegges i original med samtykket påført, og den som gir samtykket må i henhold til obligasjonens tekst eller sammenhengende rekke transportpåtegninger fremtre som rettighetshaver. For obligasjon som er gitt rektaklausul – ikke til ordre – slik at den ikke er negotiabel, er det ikke nødvendig at obligasjonen fremlegges i original. Samtykket kan da gis som løs erklæring.
+
+Reglene i denne paragraf gjelder tilsvarende når en rettsstiftelse i skipet eller annen disposisjon over det trenger samtykke fra rettighetshaver som følge av registrerte innskrenkninger i hjemmelshaverens rådighetsrett.
+
+Påtegning om samtykke til sletting eller andre disposisjoner blir registreringsmessig å behandle som andre påtegninger på tidligere registrert dokument (føring i dokumentjournal, gebyrberegning, anmerkning og gjenpart).
+
+### § 23. Sletting av registrerte dokumenter
+
+Når et dokument slettes, anmerkes i registeret at dokumentet er slettet samt journalnummer, dato og klokkeslett for slettingen. På dokumentet gis attest om sletting etter reglene i [§ 28](forskrift/1992-07-30-592/§28), første ledd. På første side skal dessuten settes et stempel e.l. som tydelig viser at dokumentet er slettet.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016).
+
+### § 24. Vilkår for sletting av skip
+
+Dersom vilkår for sletting etter lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12), første ledd, eller [sjølovens § 28](lov/1994-06-24-39/§28) er til stede, kan registerføreren slette skipet av registeret.
+
+Sletting i medhold av lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12) annet ledd, kan registerføreren kun foreta på begjæring fra departementet.
+
+Dersom et skip registrert i norsk internasjonalt skipsregister blir oppført på liste som nevnt i [§ 8g](forskrift/1992-07-30-592/§8g), kan registerføreren slette skipet fra registeret.
+
+Skipsregistrene og klageinstansen for registreringsvedtak behandler bare saker om registreringsvilkår, og ikke berettigelsen av at skipet er registrert på liste som nevnt i [§ 8g](forskrift/1992-07-30-592/§8g).
+
+Før sletting foretas eller begjæring fremsettes skal rederiet ha fått skriftlig pålegg om å bringe forholdet i orden innen en bestemt frist. Videre skal det opplyses at søksmål for å få avgjørelsen prøvet ikke kan reises uten at klageadgangen er benyttet.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [12 jan 2012 nr. 74](forskrift/2012-01-12-74) (i kraft 1 feb 2012), [13 jan 2016 nr. 33](forskrift/2016-01-13-33) (i kraft 1 feb 2016), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020).
+
+### § 25. Fremgangsmåte ved sletting av skip etter lov om norsk internasjonalt skipsregister § 12 første ledd
+
+Før et skip slettes i registeret i henhold til lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12) første ledd, skal rettighetshaverne gis anledning til å uttale seg innen en bestemt frist. De skal samtidig varsles om at skipet ikke kan slettes uten rettighetshavernes skriftlige samtykke, samt at heftelsene beholder sin prioritet, og at nye rettstiftelser ikke kan registreres.
+
+Dersom det ikke er registrert heftelser i skipet eller rettighetshaverne samtykker til sletting, skal det gjøres anmerkning i registeret om at skipet er slettet med henvisning til lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12) første ledd.
+
+Registerføreren skal uten opphold i rekommandert brev eller på annen etterviselig måte underrette rederen og eventuelle rettighetshavere som har samtykket til slettingen. Underretning gis også Sjøfartsdirektoratet.
+
+Samtykker rettighetshaverne ikke i at skipet slettes, gjør registerføreren anmerkning i registeret om det forhold som skulle ha medført sletting. Registerføreren skal i rekommandert brev eller på annen etterviselig måte underrette rederen og rettighetshaverne om anmerkningen og om at allerede registrerte heftelser beholder sin prioritet, men at nye rettsstiftelser ikke kan registreres (folien lukkes). Underretning gis også Sjøfartsdirektoratet.
+
+Registerføreren kan slette anmerkningen når han finner at vilkårene for registrering igjen er til stede (folien åpnes). Melding om dette skal gis rederen og rettighetshaverne i rekommandert brev eller på annen etterviselig måte.
+
+> Endret ved [forskrifter 26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 26. Fremgangsmåte ved sletting av skip etter lov om norsk internasjonalt skipsregister § 12 annet ledd
+
+Registerføreren skal påse at klagefristen er utløpt, samt at søksmål mot staten ikke er reist, jf. [forvaltningsloven § 27b](lov/1967-02-10/§27b), før han sletter et skip etter begjæring fra departementet.
+
+Rederen og rettighetshavere skal gis underretning om begjæringen. Forskriftens [§ 25](forskrift/1992-07-30-592/§25) gjelder tilsvarende.
+
+Er søksmål mot staten reist innen 6 måneder eller er det gitt oppfriskning mot fristoversittelse, skal sletting ikke foretas. Vedtaket og grunnen til det samt at søksmål er reist, skal anmerkes i registeret og påføres registreringsattest.
+
+Stadfester retten vedtaket, foretar registerføreren sletting hvis vilkårene i lov om norsk internasjonalt skipsregister [§ 12](forskrift/1992-07-30-592/§12) tredje ledd er til stede. Fremgangsmåten i forskriftens [§ 25](forskrift/1992-07-30-592/§25) gjelder tilsvarende.
+
+Kjennes vedtaket ugyldig, skal registerføreren slette anmerkningen om vedtaket og uten opphold underrette rederen og rettighetshavere i rekommandert brev. Underretning gis også Sjøfartsdirektoratet.
+
+> Endret ved [forskrifter 16 jan 2008 nr. 53](forskrift/2008-01-16-53), [27 juni 2008 nr. 781](forskrift/2008-06-27-781) (i kraft 1 juli 2008).
+
+## Kapittel 5. Andre bestemmelser
+
+### § 27. Driftsavbrudd
+
+I forbindelse med større vedlikeholdsarbeider eller systemomlegginger kan Sjøfartsdirektoratet stenge for mottak og registrering av elektroniske og papirbaserte dokumenter i den perioden som anses nødvendig av hensyn til det arbeidet som skal utføres. Papirdokumenter som har kommet inn under stengningen, vil anses mottatt på det tidspunkt stengningen opphører.
+
+Sjøfartsdirektoratet skal varsle brukerne om planlagt stengning, om mulig i god tid.
+
+Ved uforutsett driftsavbrudd kan Sjøfartsdirektoratet stenge for registrering av papirbaserte dokumenter. Elektroniske dokumenter levert under driftsavbrudd, er ikke å anse som mottatt på leveringstidspunktet. Kolliderer rettserverv som er levert under driftsavbrudd, innføres disse i dagboken på samme tidspunkt og er likestilt.
+
+> Opphevet ved [forskrift 17 juni 2016 nr. 749](forskrift/2016-06-17-749) (i kraft 1 juli 2016), tilføyd ved forskrift [21 des 2023 nr. 2285](forskrift/2023-12-21-2285) (i kraft 1 jan 2024).
+
+### § 28. Registreringsattest – anmerkninger – pantattest
+
+Attest om registrering, jfr. [sjølovens § 17](lov/1994-06-24-39/§17), første ledd, gis når dokumentet er endelig anmerket i skipsregisteret. Det skal også attesteres under hvilken dato og hvilket klokkeslett samt under hvilket nummer dokumentet er registerført og hva som er betalt i gebyr for registreringen, eventuelt at registreringen er gebyrfri. Dersom opplysningene i dokumentet om skipets data ikke stemmer med det som står i registeret, gjøres anmerkning om dette i attesten.
+
+For dokumenter som sendes elektronisk til registrering gis registeringsattesten som en kvitteringsmelding tilbake til innsender når dokumentet er endelig registrert i skipsregisteret. Kvitteringsmelding sendes til innsender elektronisk eller per post, eller gjøres tilgjengelig for innsender på annen betryggende måte. For dokumenter som sendes inn på papir til registermyndigheten, skal registreringsattesten påføres originaldokumentet eller gis på annen betryggende måte.
+
+Når heftelser anmerkes på dokument, jfr. [sjølovens § 17](lov/1994-06-24-39/§17), annet ledd, tas med i særskilt pantattest, jfr. [sjølovens § 17](lov/1994-06-24-39/§17), tredje ledd, eller slettelsesattest, jfr. [sjølovens § 28](lov/1994-06-24-39/§28), tredje ledd, skal anmerkningen inneholde navnet på heftelsen eller dokumentet og dato/klokkeslett for registreringen. Videre skal kort nevnes hva heftelsen i hovedtrekk går ut på – herunder dens pålydende beløp, eventuelt verdi – og hvem som er rettighetshaver. Er heftelsen ikke endelig anmerket i registeret, gis opplysning om det.
+
+I tilfelle forhåndsregistrering, jfr. [sjølovens § 14](lov/1994-06-24-39/§14), siste ledd, angis dato og klokkeslettet dokumentet anses journalført, jfr. [sjølovens § 24](lov/1994-06-24-39/§24), fjerde ledd.
+
+Anmerkninger, særskilt pantattest eller slettelsesattest kan gis ved kopi av vedkommende registerblad.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [20 des 2018 nr. 2201](forskrift/2018-12-20-2201) (i kraft 1 jan 2019).
+
+### § 29. Melding om endring. Melding til Sjøfartsdirektoratet
+
+Inntrer det endring i de opplysninger som skipsregisteret inneholder om et skip, jf. [sjølovens § 13](lov/1994-06-24-39/§13), første ledd, skal eieren gi melding til registerføreren, jf. [sjølovens § 13](lov/1994-06-24-39/§13), annet ledd. Det samme gjelder når det skjer endring i det vilkår skipet er registrert etter i [lov 12. juni 1987 nr. 48](lov/1987-06-12-48) om norsk internasjonalt skipsregister [§ 1](lov/1987-06-12-48/§1). Eieren trenger likevel ikke gi melding om ny måling (ommåling) av skip og de endringer i skipets data som fremgår av det nye målebrevet, jf. tredje ledd nedenfor.
+
+Med melding om endring av skipets data skal følge skriftlig bevis for endringen. Endring av skipets navn skjer ved søknad til Skipsregistrene. For endring av hjemsted er det tilstrekkelig med eierens skriftlige erklæring om hvor hjemstedet skal være. Endring av eierforholdet anses meldt samtidig som hjemmelsdokument sendes til registrering. Som hjelpedokument til hjemmelsdokument skal følge erklæring – på blankett fastsatt av Nærings- og fiskeridepartementet – som viser at nasjonalitetsvilkårene er oppfylt, jf. [sjølovens § 1](lov/1994-06-24-39/§1) og [§ 4](lov/1994-06-24-39/§4).
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [23 nov 2007 nr. 1293](forskrift/2007-11-23-1293), [1 jan 2014 nr. 238](forskrift/2014-01-01-238).
+
+### § 30. Ekspedering av dokument, utskrift mv.
+
+Enhver kan kreve bekreftet utskrift av dokument innført i dokumentjournalen og register som føres av registerføreren, herunder pantattest.
+
+Dokumentene ekspederes – og utskriftene gis – i den rekkefølge dokumentene eller kravet er kommet inn. Når rekvirenten gjør det sannsynlig at rask ekspedering er særlig viktig for ham, kan dokument til registrering, utskrift, attest e.l. tas utenfor tur. I slike tilfelle må det alltid undersøkes om det blant dokumentene innført i dokumentjournalen som foreløpig ikke er anmerket i registeret, kan være noe dokument som skal anmerkes som heftelse på det dokument eller i den attest kravet gjelder.
+
+Rekvirerte oppgaver over visse grupper av dokumentjournalførte dokumenter gis i den rekkefølge registerføreren bestemmer.
+
+Registerfører kan tillate at det gis ubekreftede oppgaver eller utskrifter vedrørende registrering, bl.a. ved historiske eller andre vitenskapelige undersøkelser.
+
+### § 31. Ekspedisjonstid – adgang til gjennomsyn av registre mv.
+
+Ekspedisjonstiden på registreringskontoret skal på ordinære kontordager være fra kl. 09:00 til kl. 15:00. Er kontortiden enkelte dager slutt før kl. 15:00, f.eks. julaften og nyttårsaften, skal kontoret holde åpent for ekspedering fra kl. 09:00 til kontortidens slutt. Departementet kan i særlige tilfeller samtykke i at det settes kortere ekspedisjonstid.
+
+Utenfor denne tiden vil det være anledning til å levere dokumenter til registrering alle hverdager, herunder lørdager og alle dager som er norske nasjonale helligdager, i tiden mellom kl. 07:00 og kl. 24:00 dersom dette er nødvendig av hensyn til samtidig sletting eller registrering i utenlandske registre. Tilsvarende gjelder også når hensynet til utenlandske rettighetshavere tilsier det. Innlevering av dokumenter utenfor ekspedisjonstiden må alltid avtales med registerføreren.
+
+Elektroniske dokumenter, jf. [§ 8](forskrift/1992-07-30-592/§8), kan leveres til registrering utenfor ekspedisjonstiden.
+
+I ekspedisjonstiden er det adgang for publikum til å se gjennom registeret.
+
+Det er adgang til å begrense telefonforespørsler til ekspedisjonstiden.
+
+> Endret ved [forskrifter 20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [13 jan 2016 nr. 33](forskrift/2016-01-13-33) (i kraft 1 feb 2016), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 32. Kunngjøring etter sjølovens § 29
+
+Oppfordring til mulige rettighetshavere om å melde seg til registerføreren kunngjøres en gang i Norsk Lysningsblad og minst en riksdekkende avis. Rekvirenten må betale utgiftene ved kunngjøring.
+
+Så fremt den som i registeret er oppført som rettighetshaver har kjent adresse, bør registerføreren også varsle vedkommende i rekommandert brev eller på annen etterviselig måte.
+
+> Endret ved [forskrifter 13 sep 1996 nr. 909](forskrift/1996-09-13-909), [27 juli 2020 nr. 1597](forskrift/2020-07-27-1597) (i kraft 1 aug 2020).
+
+### § 33. Ikrafttredelse
+
+Denne forskrift trer i kraft 1. august 1992, dog med unntak av [§ 8](forskrift/1992-07-30-592/§8) siste ledd som trer i kraft etter nærmere bestemmelse av Nærings- og fiskeridepartementet.
+
+> Endret ved [forskrift 20 des 1996 nr. 1157](forskrift/1996-12-20-1157), [1 jan 2014 nr. 238](forskrift/2014-01-01-238).

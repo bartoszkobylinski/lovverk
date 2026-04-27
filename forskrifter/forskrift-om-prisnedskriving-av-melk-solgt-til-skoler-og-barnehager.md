@@ -1,0 +1,100 @@
+---
+id: "sf-20200622-1399"
+slug: "forskrift-om-prisnedskriving-av-melk-solgt-til-skoler-og-barnehager"
+type: "forskrift"
+ref_id: "forskrift/2020-06-22-1399"
+title: "Forskrift om prisnedskriving av melk solgt til skoler og barnehager"
+short_title: "Forskrift om prisnedskriving av melk solgt til skoler og barnehager"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2020-07-01"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "afc196066ee2a25ad3864d5c2db7087a4e02dbed602fb8dd84acb127773784fd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om prisnedskriving av melk solgt til skoler og barnehager
+
+## § 1. Formål
+
+Formålet med tiltaket i denne forskriften er å øke omsetningen av melk.
+
+## § 2. Virkeområde
+
+Forskriften gjelder norsk egenprodusert helmelk, lettmelk og skummet melk solgt til skoler og barnehager.
+
+Forskriften får ikke anvendelse på produkter omfattet av protokoll 3 til EØS-avtalen.
+
+## § 3. Definisjoner
+
+Markedsregulator i melkesektoren er Tine SA.
+
+## § 4. Grunnvilkår
+
+Prisnedskriving av melk kan gis til meieriselskap som deltar i prisutjevningsordningen for melk, jf. [forskrift 29. juni 2007 nr. 832](forskrift/2007-06-29-832) om prisutjevningsordningen for melk, og som selger melk til barnehager, barneskoler, ungdomsskoler og videregående skoler, enten direkte eller til elever eller foresatte for konsum på skolene.
+
+## § 5. Satser for prisnedskriving
+
+Omsetningsrådet gir prisnedskrivning per liter melk som blir solgt.
+
+Markedsregulator skal fremme forslag til satser for tiltaket. Frist for innsending av forslag til Omsetningsrådet er 15. mars samme år satsene skal gjelde fra.
+
+Satser for prisnedskriving av melk solgt til barnehager, barneskoler, ungdomsskoler og videregående skoler blir vedtatt av Omsetningsrådet for perioden 1. juli–30. juni.
+
+Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2024–30. juni 2025 skal være som følger:Sats for ¼ liters forpakninger er 1,00 kr per liter.Sats for andre forpakninger er 0,00 kr per liter.
+
+Satser for prisnedskriving av melk solgt til skoler og barnehager i perioden 1. juli 2025–30. juni 2026 skal være som følger:Sats for ¼ liters forpakninger er 1,30 kr per liter.Sats for andre forpakninger er 0,00 kr per liter.
+
+> Endret ved forskrifter [16 april 2021 nr. 1195](forskrift/2021-04-16-1195) (i kraft 1 juli 2021), [20 mai 2022 nr. 912](forskrift/2022-05-20-912) (i kraft 1 juli 2022), [20 april 2023 nr. 2508](forskrift/2023-04-20-2508) (i kraft 1 juli 2023), [22 mai 2024 nr. 999](forskrift/2024-05-22-999) (i kraft 1 juli 2024), [23 mai 2025 nr. 952](forskrift/2025-05-23-952) (i kraft 1 juli 2025).
+
+## § 6. Prognoser
+
+For å motta prisnedskriving ved salg av melk til skoler og barnehager må søker innen 1. september foregående år ha sendt prognose for året det søkes om prisnedskriving for.
+
+Prognosene sendes til Omsetningsrådet og skal inneholde oversikt over budsjettert salgskvantum kommende år, spesifisert på forpakningstype og varegruppe (helmelk, lettmelk og skummetmelk).
+
+## § 7. Søknad og frister
+
+Frist for innsending av søknad om prisnedskriving av melk solgt til skoler og barnehager er 15. februar hvert år. Søknaden skal være basert på salg foregående år.
+
+Søknaden skal inneholde dokumentasjon av søkers solgte volum til skoler og barnehager av helmelk, lettmelk og skummetmelk, spesifisert på forpakningsstørrelse. I tillegg skal søker infomere om oppnådde priser på melk innenfor tiltaket.
+
+Søknaden sendes til Omsetningsrådet. Vedlagt søknaden sendes revisorbekreftet årsoppgave, spesifisert per halvår.
+
+## § 8. Vedtak om utbetaling
+
+Utbetaling av prisnedskriving foretas én gang per år etter vedtak av Omsetningsrådet.
+
+## § 9. Administrasjon, dispensasjon og klage
+
+Omsetningsrådet administrerer tiltakene etter denne forskriften.
+
+Omsetningsrådet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften.
+
+Omsetningsrådet kan delegere sin myndighet etter denne forskriften til Landbruksdirektoratet.
+
+Vedtak fattet av Landbruksdirektoratet kan påklages til Omsetningsrådet.
+
+## § 10. Opplysningsplikt og kontroll
+
+Omsetningsrådet kan kreve de opplysninger og den dokumentasjon som er nødvendig for å behandle søknader, utøve kontroll og forvalte tiltaket på en tilfredsstillende måte.
+
+Søker har ansvaret for å tilse at nedskrevet vare er solgt til skoler og barnehager, enten direkte eller til elever eller foresatte for konsum på skolene.
+
+Omsetningsrådet fører kontroll med at bestemmelsene i denne forskriften blir overholdt og kan herunder foreta stedlig kontroll. Virksomheten plikter å yte bistand ved slik kontroll.
+
+## § 11. Tilbakebetaling
+
+Dersom mottaker av prisnedskriving ikke oppfyller vilkår i denne forskriften eller vedtak truffet med hjemmel i denne, kan det feilutbetalte beløpet helt eller delvis kreves tilbakebetalt fra mottaker eller motregnes i senere utbetaling. Det samme gjelder dersom mottaker av andre grunner har mottatt en utbetaling som ikke er berettiget.
+
+For tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m.
+
+## § 12. Ikrafttredelse
+
+Forskriften trer i kraft 1. juli 2020.

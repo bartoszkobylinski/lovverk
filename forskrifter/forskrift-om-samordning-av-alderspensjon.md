@@ -1,0 +1,56 @@
+---
+id: "sf-20151201-1374"
+slug: "forskrift-om-samordning-av-alderspensjon"
+type: "forskrift"
+ref_id: "forskrift/2015-12-01-1374"
+title: "Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler"
+short_title: "Forskrift om samordning av alderspensjon"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2015-12-01"
+last_change_in_force: "2025-02-28"
+last_updated: null
+xml_hash: "1c07a9074193a811100c91f2653abea3b35a945005f097ba96ba15040d002c09"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler
+
+## § 1. Virkeområde
+
+Forskriften gjelder samordning av alderspensjon fra offentlig tjenestepensjonsordning som gis før fylte 67 år med uføretrygd fra folketrygden. Forskriften omfatter tilfeller der:alderspensjonen ved aldersgrensen avløser en uførepensjon fra offentlig tjenestepensjonsordning,uførepensjonen var innvilget med virkningstidspunkt før 1. januar 2015, oguførepensjonen per 31. desember 2014 var samordnet med uførepensjon fra folketrygden.
+
+Forskriften gjelder også samordning av bruttoberegnet enke- og enkemannspensjon som omfattes av [samordningsloven § 3 andre ledd](lov/1957-07-06-26/§3/ledd/2) når slik pensjon ytes i tillegg til ytelsene som nevnt i første ledd og var innvilget med virkningstidspunkt før 1. januar 2015.
+
+Forskriften gjelder for personer som når aldersgrensen for stillingen før år 2025, personer født i perioden 1960 til 1962 som er ufør fra stilling med aldersgrense 65 år, personer født i 1962 som er ufør fra stilling med aldersgrense 63 år og personer født i 1965 som er ufør fra stilling med 60 års aldersgrense.
+
+> Endret ved forskrifter [19 nov 2024 nr. 2787](forskrift/2024-11-19-2787) (i kraft 1 jan 2025), [28 feb 2025 nr. 331](forskrift/2025-02-28-331) (med virkning fra 1 jan 2025).
+
+## § 2. Fastsetting av samordningsfradrag i alderspensjonen
+
+Samordningsfradraget i alderspensjon som nevnt i [§ 1](forskrift/2015-12-01-1374/§1) fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.
+
+Til grunn for samordningen skal leggespensjonsgrunnlag, tjenestetid, pensjonsgrad og deltidsprosent som alderspensjonen er beregnet etter oguførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014.
+
+Samordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.
+
+## § 3. Fastsetting av samordningsfradrag i enke- og enkemannspensjonen
+
+Paragrafen gjelder når det ytes enke- og enkemannspensjon som nevnt i [§ 1](forskrift/2015-12-01-1374/§1) andre ledd og alderspensjon før fylte 67 år når samordningsfradraget i alderspensjonen er fastsatt etter [§ 2](forskrift/2015-12-01-1374/§2).
+
+Dersom enke- og enkemannspensjonen reguleres etter [lov om Statens pensjonskasse § 35](lov/1949-07-28-26/§35) og tilsvarende regler for andre offentlige tjenestepensjonsordninger, skal det fastsettes ny redusert enke- og enkemannspensjon.
+
+Samordningsfradraget i enke- og enkemannspensjonen som nevnt i første og andre ledd fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.
+
+Til grunn for samordningen skal leggesuførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014 ogsamordningsfradraget i alderspensjonen etter [§ 2](forskrift/2015-12-01-1374/§2).
+
+Samordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.
+
+## § 4. Ikrafttredelse
+
+Forskriften trer i kraft straks og gis virkning fra 1. januar 2015.

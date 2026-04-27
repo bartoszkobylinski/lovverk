@@ -1,0 +1,34 @@
+---
+id: "sf-19970218-0234"
+slug: "endr-i-forskr-om-flyttbare-innretninger"
+type: "forskrift"
+ref_id: "forskrift/1997-02-18-234"
+title: "Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr."
+short_title: "Endr. i forskr. om flyttbare innretninger"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "1997-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "0da657891306cae1e204a9b5acbb9bf8898d5fb8dc9cb8c864f3475eaf91c484"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr.
+
+## I
+
+I [forskrift av 10. februar 1994 nr. 123](forskrift/1994-02-10-123) for flyttbare innretninger med produksjonstekniske installasjoner og utstyr gjøres følgende endring:
+
+## II
+
+Endringen trer i kraft 1. juli 1997.
+
+Opphevingen innebærer ingen materiell endring, da kravene i tidligere [§ 10](forskrift/1994-02-10-123/§10) om elektriske anlegg fremkommer av [forskrift av 4. september 1987 nr. 855](forskrift/1987-09-04-855) om anmeldelse av nybygg, besiktelse og sertifisering m.v. av flyttbare innretninger [§ 5](forskrift/1987-09-04-855/§5) nr. 2.4.
+
+Opphevingen vil bli innarbeidet i Sjøfartsdirektoratets forskriftssamling «Regler for flyttbare innretninger».

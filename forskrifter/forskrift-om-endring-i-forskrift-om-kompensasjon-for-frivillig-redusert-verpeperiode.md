@@ -1,0 +1,32 @@
+---
+id: "sf-20251208-2461"
+slug: "forskrift-om-endring-i-forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode"
+type: "forskrift"
+ref_id: "forskrift/2025-12-08-2461"
+title: "Forskrift om endring i forskrift om kompensasjon for frivillig redusert verpeperiode"
+short_title: null
+language: "nb"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "0b73f3389f086d3ab4f63a044273bb199345119a15ebb4a968232e4e796e0cf6"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om kompensasjon for frivillig redusert verpeperiode
+
+## I
+
+Forskriften omfatter produsenter som i perioden som redusert verpeperiode er iverksatt, har høner som skal avlives ved normal alder for avliving. Normal alder for avliving settes til åtte uker før det avløsende innsett er 20 uker, basert på dokumentasjon (leveringsbekreftelse) fra oppdretter. Dersom slik dokumentasjon ikke foreligger, eller nytt innsett ikke er bestilt, settes planlagt alder for avliving til 78 uker. Redusert verpeperiode skal omfatte hele innsettet. Produsenten kan ikke ha nytt innsett i verping før tidligst åtte uker etter planlagt avlivingsuke.
+
+Omsetningsrådet forhåndsfastsetter intervall for kompensasjonssatsen, og Nortura SA fastsetter satsen innenfor dette intervallet. I perioden 1. januar 2026–31. desember 2026 er intervall for kompensasjonssatsen kr 13,00–kr 16,00 per kg egg. Kompensasjonen utmåles ved at tapt eggleveranse i ukene fra slaktetidspunkt frem til normal slaktealder multipliseres med satsen. Grunnlaget for beregningen er dokumentert leveranse til eggpakkeri de siste seks ukene før slakting.
+
+## II
+
+Endringene trer i kraft 1. januar 2026.

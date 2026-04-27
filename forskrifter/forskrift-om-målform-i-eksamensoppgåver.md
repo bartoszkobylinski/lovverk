@@ -1,0 +1,58 @@
+---
+id: "sf-19870707-4148"
+slug: "forskrift-om-målform-i-eksamensoppgåver"
+type: "forskrift"
+ref_id: "forskrift/1987-07-07-4148"
+title: "Forskrift om målform i eksamensoppgåver."
+short_title: "Forskrift om målform i eksamensoppgåver"
+language: "no"
+ministry:
+  - "Kultur- og likestillingsdepartementet"
+date_in_force: "1987-08-01"
+last_change_in_force: null
+last_updated: "2018-11-27"
+xml_hash: "1ac4a644ed768d6d3c7701ec7b16ce8c1ce1c07b66aa58a44ca85f916c52ec2f"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om målform i eksamensoppgåver.
+
+## § 1.
+
+Denne forskrifta gjeld for eksamenar ved statlege lærestader som ikkje kjem inn under grunnskolelova eller lov om vidaregåande opplæring.
+
+## § 2.
+
+Som hovudregel skal eksamensoppgåver i andre fag enn norsk, gitt på norsk mål, liggje føre i begge målformer.
+
+Eksamenskandidater kan få oppgåvene på bokmål eller nynorsk etter ønske.
+
+Lærestadene kan skaffe seg oversikt over målønska til kandidatane, t.d. ved bindande val av målform ved oppmelding til eksamen.
+
+## § 3.
+
+Lærestaden kan gjere unntak frå reglane i [§ 2](forskrift/1987-07-07-4148/§2) første og andre ledd nårdet er klart at alle kandidatanene har ønskt same målformadet gjeld særleg omfattande eksamensoppgåverfagterminologi manglar eller er ukjend for kandidatane i ei målform, og det derfor kan vere fare for mistydinger.
+
+Også elles kan lærestaden gjere unntak i særlge tilfelle, til dømes dersom særleg omfattande eksamensoppgåver må lagast på svært kort tid på grunn av nye reglar eller andre spesielle tilhøve.
+
+## § 4.
+
+Unntak for ein eksamen kan gjelde for eit visst semester, eller for ein periode på inntil fem år. Det kan gjelde ein eller fleire eksamenar ved lærestaden, og heile eksamen eller delar av ein eksamen. Vedlegg til eksamensoppgåver treng ikkje liggje føre i begge målformer.
+
+## § 5.
+
+Vedtak om unntak må gjerast seinast tre månader før vedkommande eksamen.
+
+Eksamenskandidater kan klage på vedtaket til Kultur- og vitenskapsdepartementet.
+
+Klagefrist er tre veker frå vedtaket vart kunngjort.
+
+For slike klager gjeld reglane i [forvaltningslova kap. VI](lov/1967-02-10/kapvi).
+
+## § 6.
+
+Reglane gjeld frå 1. august 1987.

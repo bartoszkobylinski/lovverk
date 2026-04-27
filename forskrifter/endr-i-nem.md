@@ -1,0 +1,38 @@
+---
+id: "sf-20250912-1827"
+slug: "endr-i-nem"
+type: "forskrift"
+ref_id: "forskrift/2025-09-12-1827"
+title: "Forskrift om endring i forskrift om nettregulering og energimarkedet (NEM)"
+short_title: "Endr. i NEM"
+language: "nb"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "ac0655b2e15df5d6a0de72d957a2976d5b014e1bed5b5f82ae8546ccfa9a1a01"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om nettregulering og energimarkedet (NEM)
+
+## I
+
+Nettselskap skal fastsette og tilgjengeliggjøre prinsipper for vurderinger av om en tilknytning eller kapasitetsøkning er driftsmessig forsvarlig. Prinsippene skal være objektive og ikke-diskriminerende.
+
+Nettselskap skal dokumentere vurderinger i enkeltsaker. På forespørsel fra kunde skal nettselskapet uten ugrunnet opphold gi innsyn i vurderingen som gjelder kunden. Kunden har ikke rett til innsyn i informasjon som er underlagt taushetsplikt.
+
+Nettselskap kan i særlige tilfeller nedjustere en kundes maksimalt tillatte effektuttak etter en konkret vurdering.
+
+Nettselskapets kriterier for nedjustering skal være skriftlige og tilgjengelige for kundene.
+
+Nettselskapet skal varsle kunden skriftlig i rimelig tid før nettselskapet treffer endelig beslutning om å nedjustere kundens maksimalt tillatte effektuttak. Varselet skal begrunnes, og inneholde informasjon om at uenighet kan bringes inn for Reguleringsmyndigheten for energi. Kunden har rett til å uttale seg til varselet.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

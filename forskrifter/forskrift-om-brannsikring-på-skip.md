@@ -1,0 +1,1966 @@
+---
+id: "sf-20140701-1099"
+slug: "forskrift-om-brannsikring-på-skip"
+type: "forskrift"
+ref_id: "forskrift/2014-07-01-1099"
+title: "Forskrift om brannsikring på skip"
+short_title: "Forskrift om brannsikring på skip"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2014-09-15"
+last_change_in_force: "2026-01-01"
+last_updated: "2026-01-21"
+xml_hash: "9b5c82ac05f31dd0b272bb00eb59dcf38e89c8551d7ed2c28929f9253d4b5e4d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om brannsikring på skip
+
+## § 1. Virkeområde
+
+Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller merskip som skal ha passasjersertifikatklasse C og D passasjerskip med lengde (L) 24 meter eller mer bygget før 1. mai 2000skip med sikkerhetssertifikat for passasjerskip i utenriksfartlektere.
+
+> Endret ved [forskrifter 19 des 2014 nr. 1853](forskrift/2014-12-19-1853) (i kraft 1 jan 2015), [29 juni 2016 nr. 850](forskrift/2016-06-29-850) (i kraft 1 juli 2016).
+
+## § 2. Brannsikring på skip i utenriksfart
+
+For lasteskip med bruttotonnasje 500 eller mer i utenriksfart og passasjerskip i utenriksfart gjelder som forskrift:Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel II-2, som endret ved MSC.520(106), MSC.532(107) og MSC.550(108).Det internasjonale regelverket for brannsikkerhetssystem (FSS-koden), jf. MSC.98(73), som endret ved MSC.206(81), MSC.217(82) MSC.292(87), MSC.311(88), MSC.327(90), MSC.339(91), MSC.367(93), MSC.403(96), MSC.410(97), MSC.457(101), MSC.484(103) og MSC.555(108).
+
+> Endret ved [forskrifter 7 des 2015 nr. 1628](forskrift/2015-12-07-1628) (i kraft 1 jan 2016), [29 juni 2016 nr. 850](forskrift/2016-06-29-850) (i kraft 1 juli 2016), [27 des 2016 nr. 1884](forskrift/2016-12-27-1884) (i kraft 1 jan 2017), [16 des 2019 nr. 1807](forskrift/2019-12-16-1807) (i kraft 1 jan 2020), [10 okt 2023 nr. 1594](forskrift/2023-10-10-1594) (i kraft 1 jan 2024), [19 des 2025 nr. 2842](forskrift/2025-12-19-2842) (i kraft 1 jan 2026).
+
+## § 3. Brannsikring på skip i innenriksfart og lasteskip med bruttotonnasje under 500 i utenriksfart
+
+[§ 2](forskrift/2014-07-01-1099/§2) gjelder tilsvarende forlasteskip i innenriksfartlasteskip med bruttotonnasje under 500 i utenriksfartpassasjerskip i innenriksfart med største lengde 15 meter eller mer, unntatt MSC.550(108).
+
+[§ 4](forskrift/2014-07-01-1099/§4), [§ 5](forskrift/2014-07-01-1099/§5), [§ 7](forskrift/2014-07-01-1099/§7), [§ 9](forskrift/2014-07-01-1099/§9), [§ 10](forskrift/2014-07-01-1099/§10), [§ 12](forskrift/2014-07-01-1099/§12), [§ 13](forskrift/2014-07-01-1099/§13) og [§ 14](forskrift/2014-07-01-1099/§14) gjelder ikke for hurtiggående fartøy med lengde (L) under 24 meter som skal ha passasjersertifikat. Med hurtiggående fartøy menes et fartøy som kan oppnå en hastighet på 20 knop eller mer.
+
+Hurtiggående fartøy med lengde (L) under 24 meter som skal ha passasjersertifikat, skal oppfylle kravene i vedlegg I til forskriften her.
+
+Hurtiggående passasjerskip i innenriksfart med største lengde under 15 meter skal oppfylle Nordisk båtstandard 1990 for yrkesbåter under 15 meter, avsnitt Y14 og avsnitt Y31.5, eller vedlegg 1 til forskriften her.
+
+Passasjerskip i innenriksfart med største lengde under 15 meter som ikke er hurtiggående, skal oppfylle Nordisk båtstandard 1990 for yrkesbåter under 15 meter, avsnitt Y14 og avsnitt Y31.5, eller § 4, § 8 og § 17 i forskriften her.
+
+Passasjerskip i innenriks fart med største lengde under 15 meter skal oppfylle Nordisk båtstandard 1990 for yrkesbåter under 15 meter avsnitt Y31.7.3 og Y13.6.
+
+> Endret ved [forskrifter 2 feb 2015 nr. 74](forskrift/2015-02-02-74) (i kraft 15 feb 2015), [29 juni 2016 nr. 850](forskrift/2016-06-29-850) (i kraft 1 juli 2016), [19 des 2025 nr. 2842](forskrift/2025-12-19-2842) (i kraft 1 jan 2026).
+
+## § 4. Strukturell brannsikring på passasjerskip i innenriksfart
+
+Kravene til strukturell brannsikring etter [SOLAS](traktat/1974-11-01-1) regel II-2/5.3, 9.2.2 og 11 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for passasjerskip i innenriksfart som harstål eller annet likeverdig materiale i skott og dekk som skiller beboelsesrom og oppholdsrom fra maskin- og lasteromstål eller annet likeverdig materiale i skott og dekk i bysser, malerskap, lamperom, bagasje-, post- og lagerrom som støter opp til innredning og dører til disse rommene, unntatt rundt bysser hvor det ikke tilberedes varm matalle trapper bygget på stålskjelettklasse B-skiller i skott der det ikke er krav om stål eller annet likeverdig materiale etter bokstav a til c ogeksosrør og røykopptak som er arrangert slik at temperaturen ikke fører til fare for antenning.
+
+Et skip etter første ledd bokstav a til e med bruttotonnasje 300 eller mer skal halukket trapperom av klasse A-30 fra det dekket trappen begynner til dekket for innskipning av livbåtenekorridorskott som ikke er brennbart og strekker seg fra dekk til dekk og helt ut til skipssiden ogtakplater av ikke-brennbart materiale i korridor- og trapperom.
+
+Skip etter første ledd bokstav a til e eller andre ledd bokstav a til c bygget 1. juli 2005 eller senere skal ha mønstringsstasjoner, tilhørende innskipningsstasjoner og mellomliggende rømningsveier som er atskilt fra åpent bildekk med et klasse A-30-skille. Et skip med mønstringskapasitet og redningsfarkoster til 100 % av passasjerantallet på hver side kan ha halvparten av kapasiteten atskilt fra åpent bildekk med et klasse A-30-skille. Rømningsveiene skal ha dokumentert kapasitet for rømning mellom mønstringsstasjoner og innskipningsstasjoner.
+
+## § 5. Fastmonterte brannslokkingsanlegg i maskin- og kjelerom på passasjerskip i innenriksfart
+
+Kravene til fastmonterte brannslokkingsanlegg i maskin- og kjelerom etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.4 og 10.5 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke passasjerskip med bruttotonnasje under 300 i innenriksfart.
+
+Kravene til fastmonterte brannslokkingsanlegg i maskin- og kjelerom etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.5.6 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke passasjerskip med bruttotonnasje under 2000 i innenriksfart, som er bygget før 1. august 2000.
+
+## § 6. Roro-skip i innenriksfart med fastmontert skumslokkingsanlegg på bildekket
+
+Roro-skip i innenriksfart som seiler en strekning som er en del av riks- eller fylkesveinettet i Norge, transporterer pakket farlig last og har fastmontert skumslokkingsanlegg på bildekkene, skal i stedet for SOLAS konsolidert utgave 2014 kapittel II-2 regel 19, jf. [§ 3](forskrift/2014-07-01-1099/§3), oppfylle følgende krav:Skumslokkingsanlegget skal ha kapasitet til minst 30 minutters drift og skumdekning på minst 6,5 l/m2 /minutt i oppstillingsområdet for kjøretøy til transport av personer og varer som ikke er pakket farlig last (personbilområde) og 10 l/m2 /minutt i oppstillingsområdet for kjøretøy med pakket farlig last (farlig last-område), hvor personbilområder har minst 15 meters lengde og farlig last-områder har minst 20 meters lengde.Skumslokkingsanlegget skal kunne betjene et oppstillingsområde hvor det brenner og tilliggende oppstillingsområder, eller kun området hvor det brenner når skipet har ekstra beskyttelsesvegg av skum med minst 35 prosent tilleggsdekning foran og bak dette området.Nødvendig mengde skumkonsentrat skal beregnes ut fra den sonekombinasjonen som gir største samtidige behov for skumlegging, jf. bokstav a og b.Skumtanker skal ha nivåalarm eller se-glass.Skumslokkingsanlegget skal ha strømforsyning fra hoved- og nødstrømanlegget, eller fra et eget aggregat for skumslokkingsanlegget.Fastmontert skumleggingsutstyr skal være uavhengig av manuell operasjon.Utløsning av skumslokkingsanlegget skal kunne skje manuelt fra to steder, fra broen eller brannkontrollsentralen og fra et sted nær oppstilte kjøretøy.
+
+> Endret ved [forskrift 6 sep 2017 nr. 1360](forskrift/2017-09-06-1360) (i kraft 15 sep 2017).
+
+## § 7. Brannpumper og brannledninger på passasjerskip i innenriksfart
+
+Kravene til brannpumper etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.2.2 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke passasjerskip i innenriksfart medbruttotonnasje under 50bruttotonnasje 50 eller mer, men under 100 som har brannpumpe som drives av en hovedmotor eller en annen motorbruttotonnasje 100 eller mer, men under 500 som har minst én selvstendig drevet brannpumpe, eller drevet av hovedmotoren hvis propellen kan koples fribruttotonnasje 500 eller mer, men under 1000 som har minst to selvstendig drevne brannpumperbruttotonnasje 1000 eller mer som har brannpumper med kraftkilder og sjøvannsinntak hvorav minst én ikke skal kunne settes ut av drift ved brann i et enkelt rom.
+
+For skip etter første ledd bokstav a til fskal det hvor som helst på skipets brannledning oppnås et trykk på minst 4,0 bar når kombinert strålerør/tåkespreder er i driftskal brannpumpen(e), ved trykket etter bokstav a, levere en vannmengde som ikke er mindre enn 2/3 av den mengden som lensepumpene skal håndtere når de brukes til lensingkan sanitær-, ballast-, alminnelige arbeids- eller andre pumper benyttes som brannpumper. Brukes en sentrifugalpumpe som brannpumpe, skal det være en tilbakeslagsventil ved pumpen.
+
+## § 8. Brannhydranter, slanger og strålerør på passasjerskip i innenriksfart
+
+Kravene til brannhydranter, slanger og strålerør etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.2.1 og 10.2.3 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for passasjerskip i innenriksfart nårbrannslangene lett kan kobles til hydrantenehydrantene alltid er lett tilgjengelige og rørene ikke legges slik at de kan skades av last eller kjøretøydet ved hver hydrant er en slangepost som består av en slange og kombinert strålerør/tåkespreder med koblingsforbindelse til hydranten og to sett koblingsnøkler.
+
+Skip etter første leddmed bruttotonnasje 200 eller mer skal ha tilstrekkelig antall hydranter plassert slik at minst to vannstråler fra ulike hydranter når hvilken som helst del av skipetmed bruttotonnasje under 500 skal ha minst en slangepost i maskin- og kjelerom når det er påbudt med brannpumpemed bruttotonnasje 500 eller mer skal ha minst to slangeposter i maskin- og kjelerom,skal ha slangeposter i samme omfang som etter bokstav b og c i hjelpemaskinerirommet når hjelpemaskineriet er plassert i et eget rom.
+
+## § 9. Røykdykkerutstyr på passasjerskip i innenriksfart
+
+Kravene til røykdykkerutstyr etter SOLAS regel II-2/10.10 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for passasjerskip i innenriksfart medbruttotonnasje 1 000 eller mer som har minst fire sett røykdykkerutstyr og ett sett personlig utstyrbruttotonnasje 500 eller mer, men under 1 000, som har minst to sett røykdykkerutstyr og ett sett personlig utstyrbruttotonnasje 300 eller mer, men under 500, som har minst ett sett røykdykkerutstyrbruttotonnasje under 300.
+
+Kravene til personlig utstyr etter første ledd gjelder ikke passasjerskip i innenriksfart som er bygget før 1. juli 1986.
+
+> Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+## § 10. Strukturell brannsikring på lasteskip med bruttotonnasje under 500
+
+Kravene til strukturell brannsikring etter [SOLAS](traktat/1974-11-01-1) regel II-2/5.3, 9.2.3 og 11 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke lasteskip med bruttotonnasje under 500 som harstål eller annet likeverdig materiale i skottene i byssen, malerskap, lamperom og lagerrom som støter til innredningskott og kledning i korridorer og trappeoppganger under dekk med overflater som har lav flammespredningsevne og som begrenser røykutviklingenikke-brennbart isolasjonsmateriale ogeksosrør og røykopptak arrangert slik at temperaturen ikke fører til fare for antenning.
+
+## § 11. Varslingssystem på lasteskip med bruttotonnasje under 500
+
+Kravene til varslingssystem etter [SOLAS](traktat/1974-11-01-1) regel II-2/7 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for lasteskip med bruttotonnasje under 500 som har et alarmsystem som sikrer at personene ombord blir varslet ved fare.
+
+## § 12. Brannslokkingsarrangementer i maskinrom på lasteskip med bruttotonnasje under 500
+
+Kravene til brannslokkingsarrangementer i maskinrom etter. [SOLAS](traktat/1974-11-01-1) regel II-2/10.5 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke lasteskip med bruttotonnasje 200 eller mer, men under 500, når skipet harnok brannslokkingsapparater til at det ikke er mer enn 10 meter fra et brannslokkingsapparat til noe punkt i maskinrommet, men minst to bærbare brannslokkingsapparateret brannslokkingsapparat ved hver oljefyrt kjeleinstallasjon.
+
+Unntaket etter første ledd gjelder også lasteskip med bruttotonnasje under 200 som har minst to bærbare brannslokkingsapparater i maskinrommet.
+
+> Endret ved [forskrift 19 des 2014 nr. 1853](forskrift/2014-12-19-1853) (i kraft 1 jan 2015).
+
+## § 13. Røykdykkerutstyr på lasteskip med bruttotonnasje under 500
+
+Kravene til røykdykkerutstyr etter SOLAS regel II-2//10.10 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke lasteskip med bruttotonnasje under 500.
+
+> Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+## § 14. Brannpumper og brannledninger på lasteskip med bruttotonnasje under 500
+
+Kravene til brannpumper, brannledninger, brannhydranter og slanger etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.2 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for lasteskip med bruttotonnasje under 500 som har en selvstendig drevet brannpumpe.
+
+For skip etter første leddskal det hvor som helst på skipets brannledning oppnås et trykk på minst 4,0 bar når kombinert strålerør/tåkespreder er i driftskal brannpumpen(e), ved trykket etter bokstav a, levere en vannmengde som beregnes etter Q = (0,15 √ L(B+D) + 2,25)2 m3 /t, hvorL = skipets lengde mellom perpendikulærene i meterB = skipets største bredde på spant i meterD = skipets største dybde i riss til skottdekket midtskips i meterskal brannledningene være motstandsdyktige mot varme og ikke være brennbareskal brannledningene ha diameter som sikrer jevn fordeling og jevnt trykk ved påbudt kapasitet.
+
+> Endret ved [forskrift 19 des 2014 nr. 1853](forskrift/2014-12-19-1853) (i kraft 1 jan 2015).
+
+## § 15. Brannhydranter, slanger og strålerør på lasteskip med bruttotonnasje under 500
+
+Kravene til brannhydranter, slanger og strålerør etter [SOLAS](traktat/1974-11-01-1) regel II-2/10.2 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for lasteskip med bruttotonnasje under 500 nårbrannslangene lett kan kobles til hydrantenehydrantene alltid er lett tilgjengelige og rørene ikke legges slik at de kan skades av dekkslastdet ved hver hydrant er en slangepost som består av en slange og kombinert strålerør/tåkespreder med koblingsforbindelse til hydranten og to sett koblingsnøklerskipet har slangepost etter bokstav c i maskin- og kjelerom.
+
+Skip etter første leddmed bruttotonnasje 200 eller mer skal ha tilstrekkelig antall hydranter plassert slik at minst to vannstråler fra ulike hydranter når en hvilken som helst del av skipet og den ene vannstrålen skal komme fra en enkelt slangelengdemed bruttotonnasje under 200 skal ha tilstrekkelig antall hydranter plassert slik at minst én vannstråle fra en enkelt slangelengde når en hvilken som helst del av skipet.
+
+## § 16. Brannsikring på tankskip med bruttotonnasje under 500
+
+Kravene om brannsikring på tankskip etter [SOLAS](traktat/1974-11-01-1) regel II-2/4.5, 9.2.4, 10.9 og 11.6 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for tankskip med bruttotonnasje under 500 som har transportabelt pulverapparat med minst 10 meter slange, som er klart til umiddelbar bruk og plassert nær tankdekket.
+
+## § 17. Strukturell brannsikring på trefartøy
+
+Kravene til strukturell brannsikring etter [SOLAS](traktat/1974-11-01-1) regel II-2/9 og 11 jf. [§ 3](forskrift/2014-07-01-1099/§3) gjelder ikke for trefartøy som har brannslokkingsanlegg i maskinrommet.
+
+På trefartøy der motoren ikke er i et eget rom, skal brennbart materiale som utsettes for varme fra eksosmanifolder, eksosrør og lignende, isoleres.
+
+Motorkasse skal være isolert innvendig. Isolasjonen skal omgis av galvaniserte stål- eller aluminiumsplater.
+
+## § 18. Brannsikring på lektere
+
+Sjøfartsdirektoratet fastsetter i enkeltvedtak hvilke krav i forskriften en lekter skal oppfylle.
+
+## § 19. Dispensasjon
+
+Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.
+
+Sjøfartsdirektoratet kan unnta et skip i innenriksfart eller et lasteskip med bruttotonnasje under 500 i utenriksfart fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+## § 20. Ikrafttredelse
+
+Forskriften trer i kraft 15. september 2014.
+
+Fra samme tidspunkt oppheves[forskrift 22. juni 1990 nr. 536](forskrift/1990-06-22-536) om sikringstiltak mot brann på skip som omfattes av Sjøsikkerhetskonvensjonen ([SOLAS-74)](traktat/1974-11-01-1)[forskrift 17. juni 1986 nr. 1296](forskrift/1986-06-17-1296) om sikringstiltak mot brann på skip som ikke omfattes av sjøsikkerhetskonvensjonen ([SOLAS-74).](traktat/1974-11-01-1)
+
+## § 21. Endringer i andre forskrifter
+
+Fra 15. september 2014 gjøres følgende endringer i andre forskrifter: ---
+
+## Vedlegg I
+
+Hurtiggående fartøy med lengde (L) under 24 meter som skal ha passasjersertifikat, skal bygges av godkjente materialer og skal ha tilstrekkelig styrke for det fartsområdet fartøyet skal sertifiseres for.
+
+Brannsikre skiller skal ha en isolasjonsverdi som innebærer at i løpet av 30 minutter skal ikke
+
+gjennomsnittstemperaturen på den ikke-utsatte siden stige mer enn 140 °C over den opprinnelige temperaturen
+
+temperaturen på noe enkelt punkt, inklusive en eventuell skjøt, stige mer enn 225 °C over den opprinnelige temperaturen.
+
+Følgende skott og dekk skal være brannsikre
+
+skott og dekk rundt maskinrom, inklusive skipssidene i maskinrom til minst 20 cm under vannlinjen
+
+skott og dekk som skiller kontrollrom fra beboelsesrom
+
+skott og dekk som skiller innskipningsstasjon for livbåter og redningsflåter fra arbeidsrom, beboelsesrom, fellesrom og lasterom.
+
+Når aluminium er tillatt som brannsikkert skille, skal skillet være isolert slik at temperaturen i konstruksjonskjernen ikke stiger med mer enn 200 °C over temperaturen i omgivelsene i løpet av de første 30 minuttene av standard brannprøve.
+
+Aluminium brukt i skott og dekk som omgir maskinrom, skal ha brannisolasjon på maskinromssiden. Isolasjonen skal være beskyttet slik at olje og oljeholdige damper ikke trenger inn i isolasjonen.
+
+Ventilasjonskanaler og rør o.l. til maskinrom skal være utstyrt med spjeld som kan manøvreres fra utsiden av rommet.
+
+Ventilasjonskanaler o.l. til maskinrom skal ikke føres gjennom innredning, og ventilasjonskanaler o.l. til innredning skal ikke føres gjennom maskinrom.
+
+Maskinromsvifter skal kunne stenges fra utsiden av maskinrommet.
+
+Et automatisk brannoppdagelsessystem skal være installert i maskinrom.
+
+Brennoljetanker skal være atskilt fra maskinrom og innredning med kofferdam e.l.
+
+Brennoljetanker skal være utstyrt med hurtigavstengningsventil. Sjøfartsdirektoratet skal akseptere ventilens plassering.
+
+I maskinrom skal det være installert et fastmontert hovedslokkingsanlegg som oppfyller kravene i [SOLAS](traktat/1974-11-01-1) regel II-2/10.5.1.
+
+I maskinrom på skip med bruttotonnasje under 100 skal det finnes minst ett bærbart brannslokkingsapparat.
+
+I maskinrom på skip med bruttotonnasje 100 eller mer, men med bruttotonnasje under 200 skal det finnes minst to bærbare brannslokkingsapparater.
+
+I maskinrom på skip med bruttotonnasje 200 eller mer skal det i tillegg til kravene i 6.3 finnes så mange brannslokkingsapparater at det ikke er mer enn 10 meter fra et brannslokkingsapparat til noe punkt i maskinrommet. Ved hver oljefyrt kjeleinstallasjon i maskinrommet skal det finnes et brannslokkingsapparat.
+
+I innredningen fastsetter Sjøfartsdirektoratet antallet og størrelsen på brannslokkingsapparater.
+
+Vekten av et bærbart brannslokkingsapparat skal ikke være mer enn 23 kg.
+
+Når bærbare brannslokkingsapparater kreves skal
+
+CO2 -apparater minst ha en CO2 -ladning på 5 kg
+
+vannapparater minst ha et innhold på 9 liter
+
+pulverapparater minst ha 6 kg pulver.
+
+Fartøy med bruttotonnasje under 50 kan ha brannslokkingsapparater med mindre innhold enn kravene etter punkt 6.7.
+
+Hvert brannslokkingsapparat skal ha minst én reserveladning. Når apparatene ikke kan lades opp om bord skal antallet apparater økes med 50 prosent.
+
+Sjøfartsdirektoratet kan kreve ytterligere brannslokkingsapparater plassert andre steder enn nevnt ovenfor hvis arrangementet gjør dette nødvendig.
+
+Apparater med slokkemiddel under trykk skal ikke installeres i passasjerenes eller besetningens soverom. Sjøfartsdirektoratet bestemmer om slike apparater kan tillates i den øvrige innredningen.
+
+Apparater som kan bli utsatt for frost, skal være av frostsikker type.
+
+Når det er krav til bærbare brannslokkingsapparater, plasseres de som følger:*Innredning:**Vannapparater*
+*Pulverapparater kan også brukes. Plasseringen skal da være slik at et vannapparat alltid er innen en rimelig rekkevidde fra neste vannapparat. Dette medfører at det totale antall apparater i innredningen i slike tilfelle må økes.*Styrehus og bysse:PulverapparaterMaskin- og kjelerom, rom for hjelpemaskineri:PulverapparaterElektriske apparattavler, generatorer mv. i maskinrom:Pulverapparater
+CO2 -apparaterRom for tauverk, storesrom mv.:Vannapparater
+
+Et håndslokningsapparat som er bestemt til bruk i et spesielt rom, skal være tilgjengelig nær inngangen til dette rommet.
+
+Hurtiggående fartøy skal ha brannpumpe som ikke kan kombineres med en lensepumpe. Skipets hovedmotor kan drive pumpen når propellen raskt kan koples fri fra hovedmotoren. Vann på brannledningen skal kunne settes på fra et sikkert sted utenfor maskinrommet.
+
+Hurtiggående fartøy skal ha nødbrannpumpe som er installert utenfor maskinrommet. Nødbrannpumpen kan være den samme som nødlensepumpen. På fartøy med uavhengige maskinrom, kan nødbrannpumpen plasseres i det ene av disse rommene.
+
+Hurtiggående fartøy skal ha hydranter, brannslanger og strålerør i samsvar med forskriftens [§ 8](forskrift/2014-07-01-1099/§8).
+
+Brannøkser skal være tilgjengelige i et slikt antall og på slike steder i nærheten av utgangene og nødutgangene til dekk som forholdene måtte tilsi.
+
+Hvis brennbare materialer er brukt for å gi fartøyet oppdrift i skadet tilstand, skal slike materialer ikke finnes i rom med rør for brennolje eller mulige antennelseskilder.
+
+> Tilføyd ved [forskrift 2 feb 2015 nr. 74](forskrift/2015-02-02-74) (i kraft 15 feb 2015).
+
+## SOLAS 74
+
+> Endret ved [forskrifter 7 des 2015 nr. 1628](forskrift/2015-12-07-1628) (i kraft 1 jan 2016), [16 des 2019 nr. 1807](forskrift/2019-12-16-1807) (i kraft 1 jan 2020). Ny versjon av teksten lagt inn 10 juni 2021 uten kunngjøring i Norsk Lovtidend. Endret ved forskrifter [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372), [19 des 2025 nr. 2842](forskrift/2025-12-19-2842) (i kraft 1 jan 2026).
+
+Nedenfor gjengis til informasjon Sjøfartsdirektoratets oversettelse av den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) kapittel II-2 om bygging, brannvern, branndeteksjon og brannslokking, tatt inn i konsolidert utgave 2020 med endringer til og med IMO-resolusjon MSC.550(108).
+
+### KAPITTEL II-2
+BYGGING – BRANNVERN, BRANNDETEKSJON OG BRANNSLOKKING
+
+### Del A
+Generelle bestemmelser
+
+### Regel 11 Anvendelse
+
+### 1 Anvendelse
+
+Med mindre annet er uttrykkelig fastsatt, får dette kapittelet anvendelse på skip bygget 1. juli 2012 eller senere.
+
+I dette kapittelet.1 menes med uttrykket «skip bygget» skip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.2 menes med uttrykket «alle skip» skip uansett type bygget før, på eller etter 1. juli 2012, og.3 skal et lasteskip, uansett byggetidspunkt, som bygges om til passasjerskip, behandles som et passasjerskip bygget på den datoen da slik ombygging påbegynnes.
+
+I dette kapittelet menes med utrykket «tilsvarende byggetrinn» det trinnet der.1 bygging som kan identifiseres med et bestemt skip, begynner, og.2 montering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.
+
+### 2 Gjeldende krav til eksisterende skip
+
+Med mindre annet er uttrykkelig fastsatt, skal administrasjonen påse at skip bygget før 1. juli 2012 oppfyller kravene som får anvendelse i henhold til kapittel II-2 i Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, endret ved resolusjon MSC.1(45), MSC.6(48), MSC.13(57), MSC.22(59), MSC.24(60), MSC.27(61), MSC.31(63), MSC.57(67), MSC.99(73), MSC.134(76), MSC.194(80), MSC.201(81), MSC.216(82), MSC.256(84), MSC.269(85) og MSC.291(87).
+
+Skip bygget før 1. juli 2002 skal også være i samsvar med.1 nr. 3, 6.5 og 6.7, avhengig av hva som er aktuelt.2 regel 13 nr. 3.4.2 til nr. 3.4.5, regel 13 nr. 4.3 og del E, unntatt regel 16 nr. 3.2.2 og nr. 3.2.3 i del E, avhengig av hva som er aktuelt, senest på datoen for første tilsyn2 etter 1. juli 2002.3 regel 10 nr. 4.1.3 og nr. 6.4 bare for nye anlegg.4 regel 10 nr. 5.6 senest 1. oktober 2005 for passasjerskip med bruttotonnasje 2000 eller mer.5 regel 5 nr. 3.1.3.2 og 3.4 for passasjerskip senest på datoen for første tilsyn etter 1. juli 2008, og.6 regel 4.5.7.1.
+
+Skip bygget 1. juli 2002 eller senere og før 1. juli 2010 skal være i samsvar med regel 9 nr. 7.1.1, 7.4.4.2, 7.4.4.3 og 7.5.2.1.2, som vedtatt ved resolusjon MSC.99(73).
+
+Følgende skip, med lasterom beregnet på transport av farlig last i emballert form, skal være i samsvar med regel 19 nr. 3, unntatt når de transporterer farlig last angitt som klasse 6.2 og 7 og farlig last i begrensede mengder3 og unntatte mengder4 i samsvar med tabell 19.1 og 19.3, senest på datoen for første fornyelsestilsyn 1. januar 2011 eller senere:.1 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. september 1984 eller senere, men før 1. januar 2011, og.2 lasteskip med bruttotonnasje under 500 bygget 1. februar 1992 eller senere, men før 1. januar 2011og uten hensyn til disse bestemmelsene:.3 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. september 1984 eller senere, men før 1. juli 1986, trenger ikke å være i samsvar med regel 19 nr. 3.3, forutsatt at de er i samsvar med regel 54 nr. 2.3 som vedtatt ved resolusjon MSC.1(XLV).4 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. juli 1986 eller senere, men før 1. februar 1992, trenger ikke å være i samsvar med regel 19 nr. 3.3, forutsatt at de er i samsvar med regel 54 nr. 2.3 som vedtatt ved resolusjon MSC.6(48).5 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. september 1984 eller senere, men før 1. juli 1998, trenger ikke å være i samsvar med regel 19 nr. 3.10.1 og nr. 3.10.2, og.6 lasteskip med bruttotonnasje under 500 bygget 1. februar 1992 eller senere, men før 1. juli 1998, trenger ikke å være i samsvar med regel 19 nr. 3.10.1 og nr. 3.10.2..7 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. februar 1992 eller senere, men før 1. juli 2002, trenger ikke å være i samsvar med regel 19 nr. 3.3, forutsatt at de er i samsvar med regel 54 nr. 2.3 som vedtatt ved resolusjon MSC.13(57), og.8 lasteskip med bruttotonnasje 500 eller mer og passasjerskip bygget 1. september 1984 eller senere, men før 1. juli 2002, trenger ikke å være i samsvar med regel 19 nr. 3.1, nr. 3.5, nr. 3.6, nr. 3.9, forutsatt at de er i samsvar med regel 54 nr. 2.1, nr. 2.5, nr. 2.6, nr. 2.9 som vedtatt ved resolusjon MSC.1(XLV).
+
+Skip bygget før 1. juli 2012 skal også være i samsvar med regel 10 nr. 10.1.2, som vedtatt ved resolusjon MSC.338(91), og regel 4 nr. 2.1.6 til 2.1.8, som vedtatt ved resolusjon MSC.520(106).
+
+Transportskip for kjøretøy bygget før 1. januar 2016, inkludert skip bygget før 1. juli 2012, skal være i samsvar med regel 20-1 nr. 2.2, som vedtatt ved resolusjon MSC.365(93).
+
+Tankskip bygget før 1. januar 2016, inkludert skip bygget før 1. juli 2012, skal være i samsvar med regel 16 nr. 3.3, unntatt regel 16 nr. 3.3.3.
+
+Regel 4 nr. 5.5.1.1 og 5.5.1.3 gjelder for skip bygget 1. januar 2002 eller senere, men før 1. januar 2016, og regel 4 nr. 5.5.2.1 gjelder for alle skip bygget før 1. januar 2016.
+
+Regel 10.5.1.2.2, som endret ved resolusjon MSC.409(97), gjelder for skip bygget før 1. januar 2020, inkludert skip bygget før 1. juli 2012.
+
+Skip bygget før 1. januar 2026 skal oppfylle kravene i regel 10.11.2, som vedtatt ved resolusjon MSC.532(107), senest på datoen for første besiktelse7 1. januar 2026 eller senere.
+
+### 3 Reparasjoner, forandringer, ombygginger og endring av utrustning
+
+Alle skip som gjennomgår reparasjoner, forandringer, ombygginger og endring utrustning i forbindelse med dette, skal fortsatt oppfylle minst de kravene som tidligere gjaldt for disse skipene. Slike skip skal, hvis de ble bygget før 1. juli 2012, som regel oppfylle kravene for skip bygget på eller etter denne datoen i minst samme grad som de gjorde før de gjennomgikk slike reparasjoner, forandringer, ombygginger eller endring utrustning.
+
+Reparasjoner, forandringer og ombygginger som i vesentlig grad endrer et skips dimensjoner eller rom i passasjerinnredningen, eller som i vesentlig grad forlenger et skips levetid samt utrustning i forbindelse med dette, skal oppfylle kravene for skip bygget 1. juli 2012 eller senere i den utstrekning administrasjonen anser dette for rimelig og praktisk mulig.
+
+### 4 Unntak
+
+Administrasjonen kan, hvis den anser at farvannets skjermede karakter og sjøreisens omstendigheter er slik at anvendelsen av ethvert bestemt krav i dette kapittelet anses som urimelig eller unødvendig, unnta8 fra disse kravene hvert enkelt skip eller klasser av skip som har rett til å seile under statens flagg, forutsatt at slike skip i løpet av reisen ikke seiler mer enn 20 nautiske mil fra nærmeste land.
+
+Når det gjelder passasjerskip som anvendes i spesiell fart til transport av et stort antall passasjerer, som for eksempel pilegrimsfart, kan administrasjonen, hvis den er forvisset om at det i praksis er umulig å forlange kravene i dette kapittelet oppfylt, unnta slike skip fra disse kravene, forutsatt at skipene fullt ut er i samsvar med bestemmelsene i.1 reglene i vedlegg til Overenskomst om passasjerskip i spesiell fart, 1971, og.2 reglene i vedlegg til protokollen om krav til rom på passasjerskip i spesiell fart, 1973.
+
+### 5 Gjeldende krav avhengig av skipstype
+
+Med mindre annet er uttrykkelig fastsatt.1 krav som ikke viser til en bestemt skipstype, får anvendelse på skip av alle typer, og.2 krav som viser til «tankskip», får anvendelse på tankskip, med forbehold for kravene fastsatt i nr. 6 nedenfor.
+
+### 6 Anvendelse av krav til tankskip
+
+Krav til tankskip i dette kapittelet får anvendelse på tankskip som transporterer råolje- eller petroleumsprodukter med et flammepunkt på høyst 60 °C (prøve i lukket apparat), som bestemt med et godkjent flammepunktapparat, og et Reid-damptrykk som er under det atmosfæriske trykket, eller andre flytende produkter med tilsvarende brannfare.
+
+Når det er hensikten å transportere annen flytende last enn den nevnt i nr. 6.1, eller flytende gass som medfører økt brannfare, skal det kreves ekstra sikkerhetstiltak, under behørig hensyn til bestemmelsene i IBC-koden, som definert i regel VII/8.1, regelverket for kjemikalier i bulk (BC-koden), IGC-koden, som definert i regel VII/11.1, og regelverket for gasstankskip (GC-koden), avhengig av hva som er aktuelt.
+
+En flytende last med flammepunkt på mindre enn 60 °C som et vanlig skumslokkingsanlegg i samsvar med FSS-koden ikke er virkningsfullt for, anses som en last som medfører økt brannfare i denne sammenheng. Følgende tilleggstiltak kreves:.1 skummet skal være av alkoholbestandig type.2 den typen skumkonsentrater som brukes i kjemikalietankskip, skal vurderes som tilfredsstillende av administrasjonen, under hensyn til retningslinjene som organisasjonen har utarbeidet,9 og.3 skumslokkingsanleggets kapasitet og doseringer skal være i samsvar med kapittel 11 i IBC-koden, men lavere dosering kan godtas på grunnlag av praktiske prøver. For tankskip utstyrt med nøytralgassystem kan en mengde skumkonsentrat tilstrekkelig til 20 minutters skumproduksjon godtas10.
+
+I denne regelen anses en flytende last med absolutt damptrykk større enn 1,013 bar ved 37,8 °C, å være en last som medfører økt brannfare. Skip som transporterer slike stoffer, skal være i samsvar med nr. 15.14 i IBC-koden. Når skip opererer i begrensede områder og i begrensede tidsrom, kan vedkommende administrasjon samtykke i å frafalle kravet om kjølesystemer i samsvar med nr. 15.14.3 i IBC-koden.
+
+Flytende last med flammepunkt på mer enn 60 °C, som ikke er oljeprodukter, eller flytende last underlagt kravene i IBC-koden, anses å utgjøre en liten brannfare og krever ikke beskyttelse med et fastmontert skumslokkingsanlegg.
+
+Tankskip som transporterer petroleumsprodukter med flammepunkt på mer enn 60 °C (prøve i lukket apparat), som bestemt med et godkjent flammepunktapparat, skal oppfylle kravene fastsatt i regel 10 nr. 2.1.4.4 og nr. 10.2.3 og kravene til andre lasteskip enn tankskip, men i stedet for de fastmonterte brannslokkingsanleggene som kreves i regel 10 nr. 7, skal de være utstyrt med et fastmontert skumslokkingsanlegg på dekk som skal være i samsvar med bestemmelsene i FSS-koden.
+
+Kombinasjonsskip bygget før, på eller etter 1. juli 2002, skal ikke transportere annen last enn olje, med mindre alle lasterom er tomme for olje og gjort gassfrie, eller med mindre arrangementene som finnes, i hvert tilfelle er godkjent av administrasjonen, under hensyn til retningslinjene som organisasjonen har utarbeidet.11
+
+Kjemikalietankskip og gasstankskip skal oppfylle kravene til tankskip, unntatt der det finnes alternative og supplerende arrangementer som vurderes som tilfredsstillende av administrasjonen, under behørig hensyn til bestemmelsene i IBC-koden og IGC-koden, avhengig av hva som er aktuelt.
+
+Kravene i regel 4 nr. 5.10.1.1 og nr. 5.10.1.4 og et anlegg for kontinuerlig overvåking av konsentrasjonen av hydrokarbongasser skal være montert på alle tankskip bygget før 1. juli 2002, innen datoen for første planlagte tørrdokksetting etter 1. juli 2002, men ikke senere enn 1. juli 2005. Prøvetakingspunkter eller detektorhoder skal være plassert på hensiktsmessige steder slik at potensielt farlige lekkasjer raskt vil oppdages. Når konsentrasjonen av hydrokarbongasser når et forhåndsbestemt nivå som ikke skal være høyere enn 10 % av den nedre brannfarlige grensen, skal et kontinuerlig lyd- og lysalarmsignal automatisk utløses i pumperommet og lastekontrollrommet for å varsle personalet om den mulige faren. Eksisterende overvåkingssystemer som allerede er montert og som har et forhåndsbestemt nivå på ikke mer enn 30 % av den laveste brannfarlige grensen, kan likevel godtas.
+
+### Regel 2 Brannsikringsmål og funksjonskrav
+
+### 1 Brannsikringsmål
+
+Målene for brannsikring i dette kapittelet er å.1 hindre at brann og eksplosjon oppstår.2 redusere risikoen for tap av liv som følge av brann.3 redusere risikoen for skade som følge av brann på skipet, dets last og miljøet.4 begrense, kontrollere og bekjempe brann og eksplosjon i rommet der den oppstår, og.5 sørge for tilstrekkelige og lett tilgjengelige rømningsveier for passasjerer og besetning.
+
+### 2 Funksjonskrav
+
+For å nå brannsikringsmålene fastsatt i nr. 1 ovenfor, er følgende funksjonskrav innarbeidet i reglene i dette kapittelet der det er aktuelt:.1 oppdeling av skipet i vertikale og horisontale hovedsoner ved brannisolerte og konstruksjonsmessige avgrensninger.2 atskillelse av rom i innredningen fra resten av skipet ved brannisolerte og konstruksjonsmessige avgrensninger.3 begrenset bruk av brennbare materialer.4 deteksjon av enhver brann i sonen der den oppstår.5 begrensning til og slokking av en hvilken som helst brann i rommet der den oppstår.6 beskyttelse av rømningsveier og atkomst for brannslokking.7 lett tilgang til brannslokkingsredskaper.8 størst mulig reduksjon av muligheten for antenning av brannfarlig damp fra lasten.
+
+### 3 Oppnåelse av brannsikringsmålene
+
+Brannsikringsmålene fastsatt i nr. 1 ovenfor, skal oppnås ved å sikre at de forskriftsmessige kravene fastsatt i del B, C, D, E eller G, overholdes eller ved alternative utforminger og arrangementer som er i samsvar med del F. Et skip skal anses å oppfylle funksjonskravene fastsatt i nr. 2, og å oppnå brannsikringsmålene fastsatt i nr. 1, når enten.1 skipets utforminger og arrangementer sett under ett oppfyller de relevante forskriftsmessige kravene i del B, C, D, E eller G.2 skipets utforminger og arrangementer sett under ett er vurdert og godkjent i samsvar med del F, eller.3 én eller flere deler av skipets utforminger og arrangementer er vurdert og godkjent i samsvar med del F, og de øvrige delene av skipet er i samsvar med de aktuelle forskriftsmessige kravene i del B, C, D, E eller G.
+
+### Regel 3 Definisjoner
+
+Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for dette kapittelet:*«Rom i innredningen»* betyr rom som benyttes som fellesrom, korridorer, toaletter, lugarer, kontorer, sykestuer, kinoer, fritidsrom, frisørsalonger, pentrier uten kokeredskaper og lignende rom.*«Skiller i klasse «A»»* betyr de skillene som dannes av skott og dekk og som er i samsvar med følgende kriterier:.1 de er bygget av stål eller annet tilsvarende materiale.2 de er hensiktsmessig avstivet.3 de er isolert med godkjente ikke-brennbare materialer slik at gjennomsnittstemperaturen på den ikke-utsatte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 180 °C over den opprinnelige temperaturen, innenfor det tidsrommet som er oppgitt nedenfor:klasse «A-60» 60 minklasse «A-30» 30 minklasse «A-15» 15 minklasse «A-0» 0 min.4 de er bygget slik at de kan hindre at røyk og flammer trenger gjennom skillet før utgangen av den én-times standard brannprøven, og.5 administrasjonen har krevd en prøve av prototypen av et skott eller dekk i samsvar med FTP-koden for å sikre at det oppfyller ovennevnte krav til brannmotstand og temperaturstigning.*«Atrier»* betyr fellesrom som strekker seg over tre eller flere åpne dekk innenfor én enkelt vertikal hovedsone.*«Skiller i klasse «B»»* betyr de skillene som dannes av skott, dekk, himlinger eller kledninger og som er i samsvar med følgende kriterier:.1 de er bygget av godkjente, ikke-brennbare materialer, og alle materialer som er brukt i byggingen og oppføringen av skiller i klasse «B», er ikke-brennbare, med det unntak at brennbar finer kan tillates, forutsatt at den oppfyller andre aktuelle krav i dette kapittelet.2 de har en slik isolasjonsverdi at gjennomsnittstemperaturen på den ikke-utsatte siden ikke vil stige mer enn 140 °C over den opprinnelige temperaturen, og slik at temperaturen heller ikke på noe som helst punkt, medregnet alle skjøter, vil stige mer enn 225 °C over den opprinnelige temperaturen innenfor det tidsrommet som er oppgitt nedenfor:klasse «B-15» 15 minklasse «B-0» 0 min.3 de er bygget slik at de kan hindre at flammer trenger gjennom skillet før utløpet av den første halvtimen av den standard brannprøven, og.4 administrasjonen har krevd en prøve av prototypen av et skille i samsvar med FTP-koden for å sikre at det oppfyller ovennevnte krav til brannmotstand og temperaturstigning.*«Skottdekk»* betyr det øverste dekket som de vanntette tverrskipsskottene er ført opp til.*«Lasteområde»* betyr den delen av skipet som inneholder lasterom, lastetanker, slopptanker og lastepumperom, herunder pumperom, kofferdammer, ballastrom og tomme rom som grenser til lastetanker, samt dekksområder i hele lengden og bredden av den delen av skipet som ligger over nevnte rom.*«Lasteskip»* betyr et skip som definert i regel I/2 (g).*«Lasterom»* betyr rom som brukes til last, oljelasttanker, tanker for annen flytende last og sjakter til slike rom.*«Sentral kontrollstasjon»* betyr en kontrollstasjon der følgende kontroll- og indikatorfunksjoner er samlet:.1 fastmonterte branndeteksjons- og brannalarmanlegg,.2 automatiske sprinkler-, branndeteksjons- og brannalarmanlegg,.3 indikatorpaneler for branndører,.4 innretning for stenging av branndører,.5 indikatorpaneler for vanntette dører,.6 innretninger for stenging av vanntette dører,.7 ventilasjonsvifter,.8 generalalarmer/brannalarmer,.9 kommunikasjonssystemer, herunder telefoner, og.10 mikrofoner til høyttaleranlegg.*«Skiller i klasse «C»»* betyr skiller som er bygget av godkjente ikke-brennbare materialer. De behøver verken oppfylle krav til at røyk og flammer ikke skal trenge gjennom skillet eller til begrensning i temperaturstigning. Brennbar finer er tillatt, forutsatt at den oppfyller kravene i dette kapittelet.*«Kjemikalietankskip»* betyr et lasteskip som er bygget eller tilpasset, og som brukes til transport i bulk av alle flytende produkter av brannfarlig type som er oppført i kapittel 17 i IBC-koden, som definert i regel VII/8.1.*«Lukkede roro-rom»* betyr roro-rom som verken er et åpent roro-rom eller værdekk.*«Lukkede kjøretøyrom»* betyr kjøretøyrom som verken er et åpent kjøretøyrom eller værdekk.*«Kombinasjonsskip»* betyr et lasteskip som er utformet for å transportere både olje og fast last i bulk.*«Brennbart materiale»* betyr ethvert annet materiale enn et ikke-brennbart materiale*«Gjennomgående himlinger eller kledning i klasse «B»»* betyr de himlingene eller den kledningen i klasse «B» som avsluttes ved et skille i klasse «A» eller «B».*«Kontinuerlig bemannet sentral kontrollstasjon*» betyr en sentral kontrollstasjon som er kontinuerlig bemannet av et ansvarlig besetningsmedlem.*«Kontrollstasjoner»* betyr de rommene der skipets radio eller hovednavigasjonsutstyr eller nødkraftkilde er plassert, eller der brannregistrerings- eller brannkontrollutstyret er samlet. Rom der brannregistrerings- eller brannkontrollutstyret er samlet, betraktes også som en brannkontrollstasjon.*«Råolje»* betyr all olje som forekommer naturlig i jorden, ubehandlet eller behandlet for å gjøre den egnet til transport, og som omfatter råolje der visse destillatbestanddeler kan være fjernet eller tilsatt.*«Farlig last»* betyr lasten nevnt i IMDG-koden, som definert i regel VII/1.1.*«Dødvekt»* betyr forskjellen i tonn mellom et skips deplasement i vann med en egenvekt på 1,025 ved den lastevannlinjen som tilsvarer det fastsatte sommerfribordet, og skipets lettvekt.*«FSS-koden»* betyr Det internasjonale regelverket for brannsikkerhetssystem (Fire Safety Systems Code), som vedtatt av organisasjonens sjøsikkerhetskomité ved resolusjon MSC.98(73), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«FTP-koden»* betyr Det internasjonale regelverket for anvendelse av brannprøvingsmetoder, 2010 (Fire Test Procedures Code), som vedtatt av Sjøsikkerhetskomiteen ved resolusjon MSC.307(88), med eventuelle endringer av organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I,*«Flammepunkt»* betyr temperaturen i grader Celsius (prøve i lukket apparat) der et produkt vil avgi tilstrekkelig brannfarlig damp til å antennes, som bestemt ved et godkjent flammepunktapparat.*«Gasstankskip»* betyr et lasteskip bygget eller tilpasset til og som brukes til transport i bulk av alle flytende gasser eller andre produkter av brannfarlig type som er oppført i kapittel 19 i IGC-koden, som definert i regel VII/11.1.*«Helikopterdekk»* betyr et spesialbygd landingsområde for helikopter, plassert på et skip, herunder alle konstruksjoner, brannslokkingsredskaper og annet utstyr som er nødvendig for sikker bruk av helikoptre.«*Helikopteranlegg*» betyr et helikopterdekk som inkluderer drivstoffyllings- og hangaranlegg.«*Lettvekt*» betyr et skips deplasement i tonn uten last, drivstoff, smøreolje, ballastvann, ferskvann og fødevann i tanker, proviantlager, passasjerer og besetning og deres eiendeler.«*Lav flammespredning*» betyr at den overflaten som er beskrevet slik, vil begrense spredning av flammer tilstrekkelig, som fastsatt i samsvar med FTP-koden.«*Maskinrom*» betyr alle maskinrom av kategori A og andre rom som inneholder framdriftsmaskineri, kjeler, brennoljeenheter, dampmaskiner og forbrenningsmotorer, generatorer og viktig elektrisk maskineri, oljefyllingsstasjoner, kjøle-, stabiliserings-, ventilasjons- og luftkondisjoneringsmaskineri og lignende rom og sjakter til slike rom.«*Maskinrom av kategori A*» betyr rom og trunker til slike rom som inneholder enten.1 forbrenningsmaskineri som brukes til hovedframdrift,.2 forbrenningsmaskineri som brukes til andre formål enn hovedframdrift, når slikt maskineri har en samlet effekt på minst 375 kW, eller.3 enhver oljefyrt kjel eller brennoljeenhet, eller alt oljefyrt utstyr som ikke er kjeler, f.eks. nøytralgassgeneratorer, forbrenningsovner osv.«*Vertikale hovedsoner*» betyr de avdelingene som skrog, overbygning og dekkshus er inndelt i ved skiller i klasse «A», hvis middellengde og -bredde på et hvilket som helst dekk generelt ikke overstiger 40 m.«*Ikke-brennbart materiale*» betyr et materiale som verken brenner eller avgir brannfarlig damp i tilstrekkelig mengde til selvantenning når det oppvarmes til ca. 750 °C, som bestemt i samsvar med FTP-koden.«*Brennoljeenhet*» betyr det utstyret som brukes til behandling av brennolje for bruk i en oljefyrt kjel, eller utstyr som brukes til behandling av oljen for levering i oppvarmet tilstand til en forbrenningsmotor, og omfatter alle oljetrykkpumper, filtre og forvarmere som behandler olje ved et trykk på over 0,18 N/mm2.«*Åpent roro-rom»* betyr et roro-rom som enten er åpent i begge ender eller åpent i én ende og er utstyrt med tilstrekkelig naturlig ventilasjon som er effektiv over hele rommets lengde gjennom permanente åpninger i sider eller dekket over, eller ovenfra, med et samlet areal på minst 10 % av rommets samlede sideareal.«*Åpent kjøretøyrom*» betyr et kjøretøyrom som enten er åpent i begge ender eller åpent i én ende og er utstyrt med tilstrekkelig naturlig ventilasjon som er effektiv over hele rommets lengde gjennom permanente åpninger i sider eller dekket over, eller ovenfra, med et samlet areal på minst 10 % av rommets samlede sideareal.«*Passasjerskip*» betyr et skip som definert i regel I/2 (f).«*Forskriftsmessige krav*» betyr de konstruksjonsegenskapene, dimensjonsbegrensningene eller brannvernsystemene som er fastsatt i del B, C, D, E eller G.«*Fellesrom*» betyr de delene av innredningen som brukes til saler, spiserom, salonger og lignende permanent innelukkede rom.«*Rom som inneholder møbler og inventar med begrenset brannfare*» i henhold til regel 9, betyr de rommene som inneholder møbler og inventar med begrenset brannfare (enten de er lugarer, fellesrom, kontorer eller andre typer innredning) der.1 oppbevaringsmøbler som f.eks. skrivebord, garderobeskap, toalettbord, skatoller, kommoder, er laget utelukkende av godkjente ikke-brennbare materialer, med det unntak at det kan brukes en brennbar finer med tykkelse på høyst 2 mm på arbeidsflaten på slikt inventar.2 frittstående møbler som stoler, sofaer, bord er laget med rammeverk av ikke-brennbare materialer.3 forheng, gardiner og andre opphengte tekstiler har motstandsdyktighet mot flammespredning som ikke er dårligere enn for ull med en vekt på 0,8 kg/m2, som bestemt i samsvar med FTP-koden.4 gulvbelegg har lav flammespredningsevne.5 udekkede overflater på skott, kledninger og himlinger har lav flammespredningsevne.6 polstrede møbler har motstandsdyktighet mot antenning og flammespredning, som bestemt i samsvar med FTP-koden, og.7 sengetøy har motstandsdyktighet mot antenning og flammespredning, som bestemt i samsvar med FTP-koden.«*Roro-rom*» betyr rom som normalt ikke er oppdelt på noen måte, og som normalt strekker seg i en betydelig lengde eller hele lengden av skipet der motorvogner med drivstoff til egen framdrift på tanken og/eller last (emballert eller i bulk, i eller på jernbane- eller veitransportvogner, kjøretøyer (herunder tankbiler eller jernbanetankvogner), tilhengere, containere, paller, avtakbare tanker eller i eller på lignende lasteenheter eller andre beholdere) kan lastes og losses normalt i horisontal retning.«*Roro-passasjerskip*» betyr et passasjerskip med roro-rom eller spesiallasterom.«*Stål eller annet tilsvarende materiale*» betyr ethvert ikke-brennbart materiale som i seg selv eller på grunn av anvendt isolasjon, har tilsvarende egenskaper som stål når det gjelder konstruksjon og brannmotstand, ved utgangen av den fastsatte standard brannprøven det har gjennomgått (f.eks. aluminiumslegering med passende isolasjon).«*Badstue*» betyr et varmt rom med temperaturer som normalt varierer mellom 80 og 120 °C, der varmen produseres av en varm flate (f.eks. en elektrisk varmeovn). Det varme rommet kan også omfatte rommet der ovnen er plassert, og tilstøtende baderom.«*Arbeidsrom*» betyr de rommene som brukes til bysser, pentrier med kokeredskaper, skap, rom til post og oppbevaring av verdisaker, lagerrom, andre verksteder enn de som utgjør en del av maskinrommene, og lignende rom samt trunker til slike rom.«*Spesiallasterom*» betyr de lukkede kjøretøyrommene over og under skottdekket som kjøretøyer kan kjøres inn i og ut av, og som passasjerer har adgang til. Spesiallasterom kan gå over flere enn ett dekk, forutsatt at den samlede frie høyden for kjøretøyer ikke overstiger 10 meter.«*En standard brannprøve*» betyr en prøve der prøvestykker av de aktuelle skottene eller dekkene blir utsatt for temperaturer i en prøveovn som tilsvarer omtrent standard tids-temperaturkurve i samsvar med prøvemetoden fastsatt i FTP-koden.«*Tankskip*» betyr et skip som definert i regel I/2 (h).«*Kjøretøyrom*» betyr lasterom som er beregnet på transport av motorvogner med drivstoff til egen framdrift på tanken.«*Værdekk*» betyr et dekk som er uten beskyttelse mot været ovenfra og fra minst to sider.«*Sikkert område»* i forbindelse med en ulykke betyr med hensyn til beboelighet, ethvert område som ikke er fylt med vann, eller som er utenfor de(n) vertikale hovedsonen(e) der det har oppstått brann, og som derfor kan gi trygg plass til alle personer om bord for å beskytte dem mot farer for liv eller helse og sørge for at de får grunnleggende tjenester.«*Sikkerhetssenter*» betyr en kontrollstasjon som er dedikert til håndtering av nødssituasjoner. Drift, betjening og/eller overvåking av sikkerhetssystemer utgjør en integrert del av sikkerhetssenteret.*«Lugarbalkong»* betyr et åpent dekksområde som kan brukes utelukkende av passasjerene i en enkelt lugar og som har direkte atkomst fra en slik lugar.*«Brannspjeld»* er, med hensyn til gjennomføringen av regel 9 nr. 7 vedtatt ved resolusjon MSC.365(93), med eventuelle endringer, en innretning installert i en ventilasjonskanal, som under normale forhold forblir åpen slik at gjennomstrømning av kanalen tillates, og lukkes ved brann slik at gjennomstrømning av kanalen forhindres for å begrense gjennomtrengning av brann. Følgende begreper kan tilknyttes den ovennevnte definisjonen:.1 *«automatisk brannspjeld»* er et brannspjeld som lukkes av seg selv som en reaksjon på at det utsettes for brannprodukter.2 *«manuelt brannspjeld»* er et brannspjeld som er ment å åpnes eller lukkes av mannskapet for hånd ved selve spjeldet, og.3 *«fjernstyrt brannspjeld»* er et brannspjeld som lukkes av mannskapet ved hjelp av en kontroll plassert på en avstand fra det kontrollerte spjeldet.*«Røykspjeld»* er, med hensyn til gjennomføringen av regel 9 nr. 7 vedtatt ved resolusjon MSC.365(93), med eventuelle endringer, en innretning installert i en ventilasjonskanal, som under normale forhold forblir åpen slik at gjennomstrømning av kanalen tillates, og lukkes ved brann slik at gjennomstrømning av kanalen forhindres for å begrense gjennomtrengning av røyk og varme gasser. Et røykspjeld forventes ikke å bidra til brannmotstanden til et skille i hvilket en ventilasjonskanal er ført gjennom. Følgende begreper kan tilknyttes den ovennevnte definisjonen:.1 *«automatisk røykspjeld»* er et røykspjeld som lukkes av seg selv som en reaksjon på at det utsettes for røyk eller varme gasser.2 *«manuelt røykspjeld»* er et røykspjeld som er ment å åpnes eller lukkes av mannskapet for hånd ved selve spjeldet, og.3 *«fjernstyrt røykspjeld»* er et røykspjeld som lukkes av mannskapet ved hjelp av en kontroll plassert på en avstand fra det kontrollerte spjeldet.*«Transportskip for kjøretøy»* betyr et lasteskip som kun fører last i roro- og kjøretøyrom, og som er utformet for føring av tomme motorkjøretøy uten last, som last.*«Landingsområde for helikopter»* er et område på et skip som er utpekt for landing av helikoptre sporadisk eller i nødssituasjoner, men som ikke er utformet for rutinemessige helikopteroperasjoner.*«Vinsjeområde»* er et område for evakuering med helikopter for å overføre personell og forråd til eller fra skipet mens helikopteret hovrer over dekket.12*«Bekreftet tilfelle (flammepunkt)»* er når en representativ prøve analysert i samsvar med standarder akseptert av organisasjonen* av et kompetent laboratorium** viser at flammepunktet er målt til å være under 60 °C.13*«Representativ prøve»* er en produktprøve som har fysiske eller kjemiske egenskaper som er identiske med gjennomsnittsegenskapene til det totale volumet som prøven tas av.14*«Brennolje»* er definert i regel 1 i vedlegg 1 til den internasjonale konvensjonen om hindring av forurensning fra skip, 1973, som endret ved Protokollen av 1978.
+
+### Del B
+Hindring av brann og eksplosjon15
+
+### Regel 4 Sannsynlighet for antenning
+
+### 1 Formål
+
+Formålet med denne regelen er å hindre antenning av brennbare materialer eller brannfarlige væsker. For dette formålet skal følgende funksjonskrav oppfylles:.1 det skal finnes midler til å kontrollere lekkasje av brannfarlige væsker.2 det skal finnes midler til å begrense oppsamling av brannfarlig damp.3 brennbare materialers antennelighet skal begrenses.4 tennkilder skal begrenses.5 tennkilder skal være atskilt fra brennbare materialer og brannfarlige væsker, og.6 atmosfæren i lastetanker skal holdes utenfor eksplosjonsområdet.
+
+### 2 Arrangementer for brennolje, smøreolje og andre brannfarlige oljer
+
+Følgende begrensninger får anvendelse ved bruk av olje som brensel:.1 med mindre annet er tillatt etter dette nummer, skal brennolje med flammepunkt under 60 °C ikke brukes16.2 i nødgeneratorer kan det brukes brennolje med flammepunkt på minst 43 °C.3 bruk av brennolje med flammepunkt på mindre enn 60 °C, men ikke mindre enn 43 °C, kan tillates (f.eks. til mating av nødbrannpumpens motorer og hjelpemaskinene som ikke er plassert i maskinrommene i kategori A), på følgende vilkår:.3.1 brennoljetanker, unntatt de som er plassert i rom med dobbeltbunn, skal plasseres utenfor maskinrom av kategori A.3.2 det skal være mulig å måle oljetemperatur på innsugingsrøret til brennoljepumpen.3.3 det skal finnes stoppventiler eller -kraner på inntaks- og utløpssiden av brennoljefiltrene, og.3.4 rørskjøter av sveiset konstruksjon eller av sirkelrund kjegletype eller kuleformet rørkopling skal benyttes i så stor grad som mulig.4 på lasteskip som del G i kapittel II-1 ikke får anvendelse på, kan det tillates bruk av brennoljer med lavere flammepunkt enn ellers fastsatt i nr. 2.1.1, for eksempel råolje, gitt at slikt drivstoff ikke er lagret i maskinrom og forutsatt at administrasjonen godkjenner hele installasjonen.5 på skip som del G i kapittel II-1 får anvendelse på, er bruk av brennoljer med lavere flammepunkt enn ellers fastsatt i nr. 2.1.1, tillatt.6 skip som fører brennolje, skal før bunkring motta en erklæring, undertegnet og bekreftet av representanten for brennoljeleverandøren, som bekrefter at brennoljen som leveres, er i samsvar med nr. 2.1 i denne regelen og testmetoden som er brukt for å bestemme flammepunktet. En bunkersleveringsseddel for brennoljen som leveres til skipet, skal inneholde enten flammepunktet spesifisert i samsvar med standarder akseptert av organisasjonen*, eller en erklæring som bekrefter at flammepunktet er målt til å være 70 °C eller høyere**17 kontraherende regjeringer forplikter seg til å sikre at de myndighetene de har utpekt, informerer organisasjonen, for videresending til kontraherende regjeringer og medlemsstater, om alle bekreftede tilfeller (flammepunkt) der brennoljeleverandører ikke har oppfylt kravene fastsatt i nr. 2.1 i denne regelen18 kontraherende regjeringer forplikter seg til å sikre at de myndighetene de har utpekt, iverksetter tiltak, når det er hensiktsmessig, mot brennoljeleverandører som har blitt funnet å levere oljedrivstoff som ikke er i samsvar med nr. 2.1 i denne regelen, og19 brennolje som leveres til og brukes om bord på skip, skal ikke sette skipets sikkerhet i fare, påvirke maskineriets ytelse negativt eller være skadelig for personellet.
+
+På et skip der det brukes brennolje, skal arrangementene for lagring, fordeling og bruk av brennoljen være slik at de ivaretar sikkerheten til skipet og personene om bord og skal minst være i samsvar med følgende bestemmelser:
+
+Så langt det er praktisk mulig, skal ingen del av brennoljesystemet som inneholder oppvarmet olje under trykk som overstiger 0,18 N/mm2, være skjult slik at feil og lekkasjer ikke lett kan oppdages. Maskinrommet skal være tilstrekkelig opplyst der slike deler av brennoljesystemet finnes.
+
+Ventilasjonen av maskinrom skal under vanlige forhold være tilstrekkelig til å hindre oppsamling av oljedamp.
+
+Brennolje, smøreolje og andre brannfarlige oljer skal ikke transporteres i forpiggtanker.
+
+Så langt det er praktisk mulig, skal brennoljetanker være fast innebygd i skroget og skal være plassert utenfor maskinrom av kategori A. Når brennoljetanker, bortsett fra dobbeltbunntanker, nødvendigvis er slik plassert at de grenser til eller ligger inne i maskinrom av kategori A, skal minst én av de vertikale sidene grense opp mot maskinrommet og skal fortrinnsvis ha en felles avgrensning mot dobbeltbunntankene, og det arealet av tankavgrensningen som er felles med maskinrommet, skal være minst mulig20. Når slike tanker er plassert innenfor avgrensningen for maskinrom av kategori A, skal de ikke inneholde brennolje med flammepunkt under 60 °C. Generelt skal bruk av frittstående brennoljetanker unngås. Når slike tanker brukes, er de forbudt i maskinrom av kategori A på passasjerskip. Når de er tillatt, skal de være plassert i et tilstrekkelig stort oljetett spilltrau som har et egnet avløpsrør til en spilloljetank av hensiktsmessig størrelse.
+
+Ingen brennoljetank skal være slik plassert at spill eller lekkasje fra den kan medføre risiko for brann eller eksplosjon ved å komme i berøring med varme flater.
+
+Brennoljeledninger som ved skade kan føre til at olje lekker ut fra en lagertank, bunnfellingstank eller dagtank med en kapasitet på minst 500 liter, og som er plassert over dobbeltbunnen, skal være utstyrt med en kran eller ventil direkte på tanken som skal kunne stenges fra et trygt sted utenfor det aktuelle rommet hvis det oppstår brann i rommet der slike tanker er plassert. I det spesielle tilfellet at dyptanker ligger i sjakter eller rørtunneler eller lignende rom, skal det være montert ventiler på tanken, men betjening i tilfelle av brann kan utføres ved hjelp av en tilleggsventil på røret eller rørene utenfor tunnelen eller lignende rom. Hvis en slik tilleggsventil er montert i maskinrommet, skal den kunne betjenes fra et sted utenfor dette rommet. Innretningene for fjernbetjening av ventilen til nødgeneratorens drivstofftank skal være plassert på et annet sted enn innretningene for fjernbetjening av andre ventiler til tanker som er plassert i maskinrom.
+
+Det skal finnes sikre og effektive midler til å måle brennoljemengden som finnes på alle brennoljetanker.
+
+Der det brukes peilerør, skal de ikke avsluttes i noe rom der det kan forekomme risiko for antenning av spill fra peilerøret. De skal særlig ikke avsluttes i passasjer- eller besetningsrom. Generelt skal de ikke avsluttes i maskinrom. Når administrasjonen mener at de sistnevnte kravene ikke er praktisk gjennomførbare, kan den likevel tillate at peilerør avsluttes i maskinrom, forutsatt at alle de følgende kravene er oppfylt:.1 det finnes en oljestandsmåler som oppfyller kravene i nr. 2.2.3.5.2,.2 peilerørene avsluttes på steder som er langt fra brann- eller eksplosjonsfarer, med mindre det er tatt forholdsregler, f.eks. montering av effektive skjermer, for å hindre at brennoljen kommer i berøring med en tennkilde i tilfelle av spill gjennom avslutningen av peilerørene, og.3 avslutningen av peilerørene er utstyrt med selvlukkende blindingsinnretninger og med en selvlukkende kontrollkran med liten diameter, plassert under blindingsinnretningen for å kontrollere at det ikke finnes brennolje før blindingsinnretningen åpnes. Det skal treffes tiltak for å sikre at eventuelt spill av brennolje gjennom kontrollkranen ikke medfører noen brann- eller eksplosjonsfare.
+
+Andre oljestandsmålere kan brukes i stedet for peilerør, på følgende vilkår:.1 på passasjerskip skal slike målere ikke kreve gjennomføring under toppen av tanken, og svikt i dem eller overfylling av tankene vil ikke føre til utslipp av brensel, og.2 på lasteskip skal svikt i slike målere eller overfylling av tanken ikke føre til utslipp av brensel i rommet. Bruk av sylindriske måleglass er forbudt. Administrasjonen kan tillate bruk av oljestandsmålere med flatt glass og selvlukkende ventiler mellom målerne og brennstofftankene.
+
+Midlene som er beskrevet i nr. 2.2.3.5.2, og som administrasjonen kan godta, skal holdes i god stand for å sikre presis funksjon i drift.
+
+Det skal treffes tiltak for å hindre overtrykk i enhver oljetank eller i enhver del av brennoljesystemet, herunder påfyllingsrørene som betjenes av pumper om bord. Luft- og overløpsrør og overtrykksventiler skal ha avløp til et sted der det ikke er noen brann- eller eksplosjonsfare på grunn av utstrømming av olje og damp, og skal ikke avsluttes i besetningsrom, passasjerrom eller spesiallasterom, lukkede roro-rom, maskinrom eller lignende rom.
+
+Brennoljerør og deres ventiler og overganger skal være av stål eller annet godkjent materiale, men begrenset bruk av fleksible rør skal være tillatt på steder der administrasjonen er forvisset om at de er nødvendige21. Slike fleksible rør og endefester skal være av godkjente materialer som er motstandsdyktige mot brann og av tilstrekkelig styrke, og skal være laget slik at de er vurdert som tilfredsstillende av administrasjonen. For ventiler som er montert på brennoljetanker og som er under statisk trykk, kan stål eller kulegrafittstøpejern godtas. Ventiler av vanlig støpejern kan imidlertid brukes i rørsystemer der konstruksjonstrykket er lavere enn 7 bar og konstruksjonstemperaturen er under 60 °C.
+
+Utvendige brenselhøytrykksledninger mellom brenselhøytrykkspumper og innsprøytingsdyser skal være beskyttet med et mantlet rørsystem som kan holde på brensel ved svikt i en høytrykksledning. Et mantlet rør omfatter et ytterrør som brenselhøytrykksledningen plasseres i, slik at dette danner en permanent enhet. Det mantlede rørsystemet skal inneholde et middel til oppsamling av lekkasjer, og det skal finnes arrangementer til å gi alarm ved feil på brenselledningen.
+
+Brennoljeledninger skal ikke plasseres umiddelbart over eller i nærheten av enheter med høy temperatur, herunder kjeler, damprørledninger, eksosmanifolder, lyddempere eller annet utstyr som skal være isolert i henhold til nr. 2.2.6. Så langt det er praktisk mulig, skal brennoljeledninger være ført langt unna varme flater, elektrisk anlegg og andre tennkilder og skal være skjermet eller på annen måte hensiktsmessig beskyttet for å unngå oljesprut eller oljelekkasje på tennkildene. Antallet skjøter i slike rørsystemer skal være minst mulig.
+
+Komponenter i drivstoffsystemet i en dieselmotor skal være utformet med tanke på det største spisstrykket som vil kunne forekomme under drift, herunder eventuelle høytrykkspulser som oppstår og blir overført tilbake til drivstofftilførsels- og spilledningene som følge av virkningen av drivstoffinnsprøytingspumpene. Koplinger inne i drivstofftilførsels- og spilledningene skal være konstruert med tanke på deres evne til å hindre lekkasje av brennolje under trykk under drift og etter vedlikehold.
+
+I installasjoner med flere motorer som forsynes fra samme drivstoffkilde, skal det finnes midler til å skille drivstofftilførsels- og spilledningene til de enkelte motorene. Midlene som benyttes til slik atskillelse, skal ikke påvirke driften av de andre motorene og skal kunne betjenes fra et sted som ikke gjøres utilgjengelig av brann i en av motorene.
+
+Når administrasjonen tillater at olje og brennbare væsker føres gjennom arbeidsrom og rom i innredningen, skal rørene som fører olje eller brennbare væsker, være av et materiale som er godkjent av administrasjonen under hensyn til brannfaren.
+
+Flater med temperatur på over 220 °C som kan komme i berøring med brennstoff ved svikt i brennstoffsystemet, skal være forsvarlig isolert.
+
+Det skal tas forholdsregler for å hindre at olje som under trykk kan lekke ut av en pumpe, et filter eller en forvarmer, kommer i berøring med varme flater.
+
+Arrangementene for lagring, fordeling og bruk av olje som brukes i trykksmøresystemer, skal være slik at de ivaretar sikkerheten til skipet og personene om bord. Slike arrangementer i maskinrom av kategori A, og når det er praktisk mulig i andre maskinrom, skal minst være i samsvar med bestemmelsene i nr. 2.2.1, 2.2.3.3, 2.2.3.4, 2.2.3.5, 2.2.4, 2.2.5.1, 2.2.5.3 og 2.2.6, med følgende unntak:.1 dette utelukker ikke bruk av seglass for strømning i smøresystemer, forutsatt at de ved prøving har vist seg å ha en passende grad av brannmotstand, og.2 peilerør kan tillates i maskinrom, men kravene i nr. 2.2.3.5.1.1 og 2.2.3.5.1.3 behøver ikke anvendes, forutsatt at peilerørene er utstyrt med passende lukkeinnretninger.
+
+Bestemmelsene i nr. 2.2.3.4 får også anvendelse på smøreoljetanker, bortsett fra tanker med en kapasitet på mindre enn 500 l, lagertanker der ventiler er lukket under normal drift av skipet, eller der det fastslås at utilsiktet betjening av en hurtiglukkende ventil på smøreoljetanken ville være en fare for sikker drift av hovedframdriftsmaskineriet og viktig hjelpemaskineri.
+
+Arrangementer for lagring, fordeling og bruk av andre brannfarlige oljer som brukes under trykk i kraftoverføringssystemer, kontroll- og aktiveringssystemer og oppvarmingssystemer, skal være slik at de ivaretar sikkerheten til skipet og personene om bord. Det skal være montert egnede arrangementer til oppsamling av oljelekkasjer under hydrauliske ventiler og sylindre. På steder der det finnes tennkilder, skal slike arrangementer minst være i samsvar med bestemmelsene i nr. 2.2.3.3, 2.2.3.5, 2.2.5.3 og 2.2.6 og med bestemmelsene i nr. 2.2.4 og 2.2.5.1 når det gjelder styrke og konstruksjon.
+
+I tillegg til kravene i nr. 2.1 til nr. 2.4 skal brennolje- og smøreoljesystemene i periodisk ubemannede maskinrom være i samsvar med følgende bestemmelser:.1 når dagtanker for brennolje fylles automatisk eller ved fjernstyring, skal det finnes midler til å hindre søl fra overløp. Annet utstyr som behandler brannfarlige væsker automatisk, (f.eks. brennoljeseparatorer) som når det er praktisk mulig, skal være installert i et eget rom forbeholdt separatorer og forvarmere, skal ha arrangementer for å hindre søl fra overløp, og.2 når dagtanker for brennolje eller bunnfellingstanker er utstyrt med oppvarmingsarrangementer, skal det finnes en alarm for høy temperatur hvis flammepunktet for brennoljen kan overstiges.
+
+### 3 Arrangementer for gassformig brensel til husholdningsformål
+
+Systemer med gassformig brensel til husholdningsformål skal være godkjent av administrasjonen. Gassflasker skal oppbevares på åpent dekk eller i et godt ventilert rom som har åpning bare til åpent dekk.
+
+### 4 Forskjellig utstyr med tennkilde og antennelighet
+
+Hvis det brukes elektriske radiatorer, skal disse være fastmontert og konstruert slik at brannfaren er redusert mest mulig. Det skal ikke være montert radiatorer med elementet plassert så utildekket at klær, gardiner eller andre lignende materialer kan bli svidd eller antent av varmen fra elementet.
+
+Avfallsbeholdere skal være laget av ikke-brennbare materialer uten åpninger i sider eller bunn.
+
+I rom der inntrenging av oljeprodukter kan forekomme, skal overflaten på isolasjon være ugjennomtrengelig for olje eller oljedamp.
+
+Hvis underste dekkskledninger er brukt i rom i innredningen, arbeidsrom og kontrollstasjoner eller på lugarbalkonger på passasjerskip bygget 1. juli 2008 eller senere, skal de være av godkjent materiale som ikke lett antennes, som bestemt i samsvar med FTP-koden.
+
+### 5 Lasteområder på tankskip
+
+Lastepumperom, lastetanker, slopptanker og kofferdammer skal være plassert forut for maskinrom. Bunkertanker for brennolje behøver likevel ikke ligge forut for maskinrom. Lastetanker og slopptanker skal være atskilt fra maskinrom med kofferdammer, lastepumperom, oljebunkertanker eller ballasttanker. Pumperom som inneholder pumper og tilbehør til ballastering av de rommene som grenser til lastetanker og slopptanker og pumper for overføring av brennolje, skal betraktes som likeverdige med et lastepumperom i henhold til denne regelen, forutsatt at slike pumperom har samme sikkerhetsstandard som den som kreves for lastepumperom. Pumperom som er beregnet utelukkende på ballast eller overføring av brennolje, behøver likevel ikke oppfylle kravene i regel 10 nr. 9. Den nedre delen av pumperommet kan ha utsparinger inn i maskinrom av kategori A for å gi plass til pumper, forutsatt at utsparingens høyde generelt ikke er mer enn en tredel av skipets dybde i riss over kjølen, men når det gjelder skip med en dødvekt på høyst 25 000 tonn, der det kan påvises at dette ikke er praktisk mulig av hensyn til atkomst og tilfredsstillende røropplegg, kan administrasjonen tillate en utsparing med større høyde, men den skal ikke overstige halvparten av skipets dybde i riss over kjølen.
+
+Hovedkontrollstasjoner for last, kontrollstasjoner, rom i innredningen og arbeidsrom (med unntak av atskilte skap med laste- og losseutstyr) skal være plassert aktenfor lastetanker, slopptanker, og rom som skiller laste- eller slopptanker fra maskinrom, men ikke nødvendigvis aktenfor bunkertanker for brennolje og ballasttanker, og skal være slik innrettet at et enkelt brudd i et dekk eller skott ikke kan føre til at gass eller damp fra lastetankene trenger inn i rom i innredningen, hovedkontrollstasjoner for last, kontrollstasjoner eller arbeidsrom. Det behøver ikke tas hensyn til en utsparing som er plassert i samsvar med nr. 5.1.1, når det bestemmes hvor disse rommene skal ligge.
+
+Der det anses som nødvendig, kan administrasjonen likevel tillate hovedkontrollstasjoner for last, kontrollstasjoner, rom i innredningen og arbeidsrom forut for lastetanker, slopptanker og rom som skiller laste- og slopptanker fra maskinrom, men ikke nødvendigvis forut for bunkertanker for brennolje eller ballasttanker. Maskinrom, unntatt i kategori A, kan tillates forut for lastetankene og slopptankene, forutsatt at de er atskilt fra lastetankene og slopptankene med kofferdammer, lastepumperom, bunkertanker for brennolje eller ballasttanker og har minst ett bærbart brannslokkingsapparat. I tilfeller der de inneholder forbrenningsmotorer, skal det finnes ett godkjent skumslokkingsapparat med kapasitet på minst 45 l eller tilsvarende, i tillegg til bærbare brannslokkingsapparater. Hvis det ikke er praktisk mulig å benytte et delvis bærbart brannslokkingsapparat, kan dette apparatet erstattes med to ekstra bærbare brannslokkingsapparater. Rom i innredningen, hovedlastekontrollrom, kontrollstasjoner og arbeidsrom skal være slik innrettet at et enkelt brudd i et dekk eller skott ikke kan føre til at gass eller damp fra lastetankene trenger inn i slike rom. Når det anses nødvendig for skipets sikkerhet eller navigering, kan administrasjonen i tillegg tillate at maskinrom som inneholder forbrenningsmotorer som ikke er hovedframdriftsmaskineri med en effekt på mer enn 375 kW, er plassert forut for lasteområdet, forutsatt at arrangementene er i samsvar med bestemmelsene i dette nummer.
+
+Bare på kombinasjonsskip gjelder følgende:.1 slopptankene skal være omgitt av kofferdammer, unntatt når slopptankenes avgrensninger, der slopp kan transporteres på tørrlastreiser, er en del av skroget, hovedlastedekket, skott i lastepumperom eller bunkertank for brennolje. Disse kofferdammene skal ikke være åpne mot dobbeltbunnrom, rørtunneler, pumperom eller andre innelukkede rom, og de skal heller ikke brukes til last eller ballast og skal ikke være forbundet med rørsystemer som betjener oljelast eller ballast. Det skal finnes midler til å fylle kofferdammene med vann og til å tømme dem. Når en slopptanks avgrensning er en del av skottet til lastepumperommet, skal pumperommet ikke være åpent mot dobbeltbunnrommet, rørtunnelen eller et annet innelukket rom, men åpninger utstyrt med deksler som er boltet gasstett, kan tillates,.2 det skal finnes midler til å stenge av rør som forbinder pumperommet med slopptankene nevnt i nr. 5.1.4.1. Avstengingsmidlene skal bestå av en ventil etterfulgt av en brilleflens eller et tilpasningsstykke med hensiktsmessige blindflenser. Dette arrangementet skal være plassert inntil slopptankene, men der dette er urimelig eller praktisk umulig, kan den være plassert inne i pumperommet rett etter stedet der rørene går gjennom skottet. Det skal være montert et eget, permanent installert pumpe- og rørarrangement med en manifold, utstyrt med en avstengingsventil og en blindflens, til tømming av slopptankenes innhold direkte til åpent dekk for levering til mottaksanlegg i land når skipet går i tørrlastfart. Når overføringssystemet brukes til overføring av slopp i tørrlastfart, skal det ikke ha noen forbindelser til andre systemer. Atskillelse fra andre systemer ved hjelp av fjerning av tilpasningsstykker kan godtas,.3 luker og åpninger til rengjøring av slopptanker skal være tillatt bare på åpent dekk og skal være utstyrt med lukkearrangementer. Unntatt når de består av boltede plater med bolter med vanntett avstand, skal disse lukkearrangementene være utstyrt med låsearrangementer som skipets ansvarlige offiser har tilsyn med, og.4 når det finnes vingtanker til last, skal det være installert lasteoljeledninger under dekk inne i disse tankene. Administrasjonen kan likevel tillate at lasteoljeledninger plasseres i egne kanaler, forutsatt at de kan rengjøres og ventileres tilstrekkelig, og vurderes som tilfredsstillende av administrasjonen. Når det ikke finnes vingtanker til last, skal lasteoljeledninger under dekk være plassert i egne kanaler.
+
+Når det viser seg nødvendig å innrette en navigasjonsstasjon over lasteområdet, skal den brukes bare til navigasjonsformål, og den skal være atskilt fra lastetankdekket ved et åpent rom med en høyde på minst 2 m. Brannsikringskravene til en slik navigasjonsstasjon skal være de samme som for kontrollstasjoner, som fastsatt i regel 9 nr. 2.4.2 og eventuelt andre bestemmelser for tankskip.
+
+Det skal finnes midler til å holde spill på dekk unna rom i innredningen og arbeidsrom. Dette kan oppnås ved å montere en permanent, sammenhengende karm med en høyde på minst 300 mm, som går fra skipsside til skipsside. Det skal tas særlig hensyn til arrangementene forbundet med lasting over akterstevnen.
+
+Med unntak av det som er tillatt etter nr. 5.2.2, skal atkomstdører, luftinntak og åpninger til rom i innredningen, arbeidsrom, kontrollstasjoner og maskinrom ikke vende ut mot lasteområdet. De skal være plassert på tverrskipsskottet som ikke vender mot lasteområdet, eller på utenbordssiden av overbygningen eller dekkshus i en avstand på minst 4 % av skipets lengde, men ikke mindre enn 3 m, fra enden av overbygningen eller dekkshuset som vender mot lasteområdet. Denne avstanden behøver ikke overstige 5 m.
+
+Administrasjonen kan tillate atkomstdører i brannskillene som vender mot lasteområdet eller innenfor 5-metersgrensen fastsatt i nr. 5.2.1, til hovedkontrollstasjoner for last og til de arbeidsrommene som brukes som proviantrom, forrådsrom og skap, forutsatt at de ikke gir atkomst direkte eller indirekte til noe annet rom som inneholder eller betjener innredning, kontrollstasjoner eller arbeidsrom som f.eks. bysser, pentrier eller verksteder, eller lignende rom som inneholder kilder til antenning av damp. Brannskillene til et slikt rom skal være isolert etter klasse «A-60»-standard, med unntak av brannskillet som vender mot lasteområdet. Boltede platedeksler for fjerning av maskineri kan være montert innenfor grensene fastsatt i nr. 5.2.1. Dører og vinduer i styrehus kan være plassert innenfor grensene fastsatt i nr. 5.2.1 forutsatt at de er utformet for å sikre at styrehuset raskt og effektivt kan gjøres gass- og damptett.
+
+Vinduer og lysventiler som vender mot lasteområdet og på sidene av overbygninger og dekkshus innenfor grensene fastsatt i nr. 5.2.1, skal være av fastmontert type (som ikke kan åpnes). Slike vinduer og lysventiler, unntatt vinduer i styrehus, skal være laget etter klasse «A-60»-standard, men klasse «A-0»-standard kan godtas for vinduer og lysventiler utenfor grensen fastsatt i regel 9 nr. 2.4.2.5.
+
+Når det er permanent atkomst fra en rørtunnel til hovedpumperommet, skal det være montert en vanntett dør som oppfyller kravene i regel II-1/13-1.2, samt følgende:.1 i tillegg til å kunne betjenes fra broen skal den vanntette døren kunne stenges manuelt fra utsiden av inngangen til hovedpumperommet, og.2 den vanntette døren skal holdes stengt under skipets normale drift, unntatt når det er nødvendig med atkomst til rørtunnelen.
+
+Permanente, godkjente, gasstette lysarmaturer for belysning i lastepumperom kan tillates i skott og dekk som skiller lastepumperom og andre rom, forutsatt at de har tilstrekkelig styrke og at skottets eller dekkets motstandsevne og gasstetthet opprettholdes.
+
+Arrangementet av ventilasjonsinntak og -utløp og andre åpninger i brannskiller til rom i dekkshus og overbygninger skal være slik at de utfyller bestemmelsene i nr. 5.3 og regel 11 nr. 6. Slike ventilasjonsåpninger, særlig til maskinrom, skal være plassert så langt akterut som praktisk mulig. I denne forbindelse skal det tas særlig hensyn når skipet er utstyrt for lasting eller lossing over akterstevnen. Tennkilder som f.eks. elektrisk utstyr skal være slik innrettet at eksplosjonsfare unngås.
+
+Ventilasjonssystemene for lastetanker skal være helt atskilt fra luftrørene til andre rom i skipet. Arrangementene og plassering av åpninger i lastetankdekk der det kan forekomme utslipp av brannfarlig damp, skal være slik at muligheten for at brannfarlig damp kan komme inn i innelukkede rom som inneholder tennkilder, eller kan samle seg i nærheten av dekksmaskineri og utstyr som kan utgjøre en brann- eller eksplosjonsfare, er redusert mest mulig. I samsvar med dette alminnelige prinsippet får kriteriene i nr. 5.3.2 til 5.3.5 og regel 11 nr. 6 anvendelse.
+
+Ventilasjonsarrangementene i hver lastetank kan være uavhengige eller kombinert med andre lastetanker og kan være innarbeidet i røropplegget til nøytralgassystemet.
+
+Når arrangementene er kombinert med andre lastetanker, skal det være montert enten stoppeventiler eller andre godkjente midler for å skille lastetanker fra hverandre. Når det er montert stoppeventiler, skal de være utstyrt med låsearrangementer som skipets ansvarlige offiser skal ha tilsyn med. Det skal finnes en tydelig, synlig anvisning av driftsstatus for ventilene eller andre godkjente midler. Når tanker er atskilt fra hverandre, skal det påses at de aktuelle ventilene åpnes før lasting eller ballastering eller lossing av disse tankene påbegynnes. Eventuell atskillelse må fortsatt muliggjøre strømninger som forårsakes av temperaturvariasjoner i en lastetank i samsvar med regel 11 nr. 6.1.1. For tankskip bygget 1. januar 2017 eller senere skal enhver isolasjon dessuten fortsatt tillate utlufting av store volumer av gass, luft eller nøytralgassblandinger under lasting og ballastering, eller under lossing i samsvar med regel 11 nr. 6.1.2.
+
+Hvis det er planlagt å laste, ballastere eller losse en lastetank eller gruppe av lastetanker som er atskilt fra et felles ventilasjonssystem, skal denne lastetanken eller gruppen av lastetanker være utstyrt med et middel til overtrykks- eller undertrykksbeskyttelse som fastsatt i regel 11 nr. 6.3.2.
+
+Ventilasjonsarrangementene skal være forbundet med toppen av hver lastetank og skal være selvdrenerende til lastetanker under alle normale trim- og krengingsforhold for skipet. Når det eventuelt ikke er mulig å montere selvdrenerende ledninger, skal det finnes fastmonterte arrangementer for å drenere lufterørene til en lastetank.
+
+Ventilasjonssystemet skal være utstyrt med innretninger for å hindre at flammer trenger gjennom til lastetankene. Utforming, prøving og plassering av disse innretningene skal oppfylle kravene fastsatt av administrasjonen på grunnlag av retningslinjene som organisasjonen har utarbeidet22. Friromsåpninger skal ikke brukes til trykkutjevning. De skal være utstyrt med selvlukkende og tett forseglede deksler. Flammestoppere og skjermer er ikke tillatt i disse åpningene.
+
+Ventilasjonsutløp for lasting, lossing og ballastering fastsatt i regel 11 nr. 6.1.2.1.1 skal muliggjøre fri strømning av dampblandinger eller.1.2 skal muliggjøre regulering av utstrømning av dampblandinger for å oppnå en hastighet på minst 30 m/s,.2 skal være slik innrettet at dampblandinger strømmer vertikalt oppover,.3 når metoden er fri utstrømning av dampblandinger, skal det være slik at utløpet er minst 6 m over lastetankdekket eller forre og aktre gangbro hvis det er plassert 4 m eller mindre fra gangbroen og plassert minst 10 m målt horisontalt fra nærmeste luftinntak og åpninger til innelukkede rom som inneholder en tennkilde, og fra dekksmaskineri, som kan omfatte ankerspill og åpninger i kjettingkasser, samt utstyr som kan utgjøre brann- eller eksplosjonsfare, og.4 når metoden er utstrømning ved høy hastighet, skal utløpet være plassert i en høyde på minst 2 m over lastetankdekket og minst 10 m målt horisontalt fra nærmeste luftinntak og åpninger til innelukkede rom som inneholder en tennkilde og fra dekksmaskineri, som kan omfatte ankerspill og åpninger i kjettingkasser, samt utstyr som kan utgjøre brann- eller eksplosjonsfare. Disse utløpene skal være utstyrt med høyhastighetsinnretninger av godkjent type.
+
+Arrangementene for ventilasjon av damp som fortrenges fra lastetankene under lasting og ballastering, skal oppfylle kravene i nr. 5.3 og regel 11 nr. 6 og skal bestå av enten ett eller flere stigerør i en mast eller et antall høyhastighetsventilasjonsåpninger. Nøytralgassystemets hovedledning kan brukes til slik ventilasjon.
+
+På kombinasjonsskip skal arrangementene for å avstenge slopptanker som inneholder olje eller oljerester fra andre lastetanker, bestå av blindflenser som vil sitte på plass til enhver tid når det transporteres annen last enn flytende last nevnt i regel 1 nr. 6.1.
+
+Lastepumperom skal være mekanisk ventilert, og utløp fra avtrekksvifter skal føres til et sikkert sted på åpent dekk. Ventilasjon av disse rommene skal ha tilstrekkelig kapasitet til å redusere muligheten for oppsamling av brannfarlig damp mest mulig. Antall luftvekslinger skal være minst 20 per time, basert på rommets bruttovolum. Luftkanalene skal være slik innrettet at hele rommet blir effektivt ventilert. Ventilasjonen skal være av sugetypen som bruker vifter av gnistfri type.
+
+På kombinasjonsskip skal lasterom og alle innelukkede rom som grenser til lasterom, kunne ventileres mekanisk. Mekanisk ventilasjon kan utføres med transportable vifter. Et godkjent, fastmontert gassvarslingssystem som kan overvåke brannfarlig damp, skal være montert i lastepumperom, rørtunneler og kofferdammer, som nevnt i nr. 5.1.4, som grenser til slopptanker. Det skal finnes hensiktsmessige arrangementer som muliggjør måling av brannfarlig damp i alle andre rom innenfor lasteområdet. Slike målinger skal kunne foretas fra åpent dekk eller lett tilgjengelige steder.
+
+For tankskip med en dødvekt på 20 000 tonn eller mer, bygget 1. juli 2002 eller senere, men før 1. januar 2016, skal lastetankene beskyttes av et fastmontert nøytralgassystem i samsvar med kravene i FSS-koden, som vedtatt ved resolusjon MSC.98(73), men administrasjonen kan godta andre tilsvarende systemer eller arrangementer, som beskrevet i nr. 5.5.4.
+
+For tankskip med en dødvekt på 8000 tonn eller mer, bygget 1. januar 2016 eller senere, når de fører last beskrevet i regel 1 nr. 6.1 eller 6.2, skal lastetankene beskyttes av et fastmontert nøytralgassystem i samsvar med kravene i FSS-koden, men administrasjonen kan godta andre tilsvarende systemer eller arrangementer, som beskrevet i nr. 5.5.4.
+
+Tankskip som bruker en prosedyre for rengjøring av lastetanker ved hjelp av råoljespyling, skal være utstyrt med et nøytralgassystem som er i samsvar med FSS-koden, og med fastmonterte tankspylemaskiner. Nøytralgassystemer installert på tankskip bygget 1. juli 2002 eller senere, men før 1. januar 2016, skal imidlertid være i samsvar med FSS-koden, som vedtatt ved resolusjon MSC.98(73).
+
+Tankskip som skal være utstyrt med nøytralgassystem, skal oppfylle følgende krav:.1 rom i dobbeltskrog skal være utstyrt med egnede tilkoplinger for tilførsel av nøytralgass.2 når rom i skroget er forbundet med et permanent montert fordelingssystem for nøytralgass, skal det finnes midler til å hindre at hydrokarbongasser fra lastetankene kommer inn i rommene i dobbeltskroget gjennom systemet, og.3 når slike rom ikke er permanent forbundet med et fordelingssystem for nøytralgass, skal det finnes egnede midler til å muliggjøre tilkopling til nøytralgassystemets hovedledning.
+
+Kravene til nøytralgassystem som står i FSS-koden, behøver ikke anvendes på kjemikalietankskip bygget før 1. januar 2016, inkludert skip bygget før 1. juli 2012, og alle gasstankskip.1 når de fører last som beskrevet i regel 1 nr. 6.1, forutsatt at de oppfyller kravene til nøytralgassystemer på kjemikalietankskip fastsatt av administrasjonen, på grunnlag av retningslinjene som organisasjonen har utarbeidet23, eller.2 når de fører annen brannfarlig last enn råolje eller petroleumsprodukter, slik som last oppført i kapittel 17 og 18 i IBC-koden, forutsatt at kapasiteten til tankene som brukes til slik transport, ikke overstiger 3000 m3, og at kapasiteten i de enkelte dysene i tankspylemaskinene ikke overstiger 17,5 m3 per time, og at den samlede kombinerte gjennomstrømningen fra det antallet maskiner i bruk i en lastetank til enhver tid ikke overstiger 110 m3 per time.
+
+Nøytralgassystemet skal kunne nøytralisere, spyle og gjøre tomme tanker gassfrie og opprettholde atmosfæren i lastetanker med det fastsatte oksygeninnholdet.
+
+Tankskip som har et fastmontert nøytralgassystem, skal være utstyrt med et lukket friromssystem.
+
+Administrasjonen kan, etter å ha vurdert skipets innretning og utrustning, godta andre fastmonterte installasjoner, i samsvar med regel I/5 og nr. 5.5.4.3.
+
+For tankskip med en dødvekt på 8000 tonn eller mer, men mindre enn 20 000, bygget 1. januar 2016 eller senere, kan administrasjonen godta, i stedet for fastmonterte installasjoner som kreves etter nr. 5.5.4.1, andre likeverdige beskyttelsesarrangementer eller -midler i samsvar med regel I/5 og nr. 5.5.4.3.
+
+Likeverdige systemer eller arrangementer skal.1 kunne hindre farlig oppsamling av eksplosive blandinger i intakte lastetanker under normal drift på hele ballastreisen og under nødvendige operasjoner i tanken, og.2 være slik utformet at faren for antenning på grunn av statisk elektrisitet produsert av systemet selv, minimeres.
+
+Arrangementer for å spyle lastetanker og/eller gjøre dem gassfrie skal være slik at de minimerer farene forårsaket av spredning av brannfarlig damp i atmosfæren og brannfarlige blandinger i en lastetank.
+
+Framgangsmåten for å spyle lastetanker og/eller gjøre dem gassfrie skal utføres i samsvar med regel 16 nr. 3.2.
+
+Arrangementene for å nøytralisere, spyle og gjøre tomme tanker gassfrie som fastsatt i nr. 5.5.3.1, skal vurderes som tilfredsstillende av administrasjonen og skal være slik at oppsamling av hydrokarbondamp i lommer som dannes av de innvendige konstruksjonsdelene i en tank, minimeres og at.1 på de enkelte lastetankene skal gassutløpsrøret, hvis slikt er montert, være plassert så langt unna nøytralgass-/luftinntaket som praktisk mulig og i samsvar med nr. 5.3 og regel 11 nr. 6. Inntaket til slike utløpsrør kan være plassert enten på dekksnivå eller høyst 1 m over bunnen av tanken.2 tverrsnittsarealet av slike gassutløpsrør nevnt i nr. 5.6.3.1, skal være slik at en utløpshastighet på minst 20 m/s kan opprettholdes når tre tanker samtidig forsynes med nøytralgass. Utløpene deres skal være minst 2 m over dekksnivå, og.3 hvert gassutløp nevnt i nr. 5.6.3.2, skal være utstyrt med hensiktsmessige blindingsarrangementer.
+
+Tankskip skal være utstyrt med minst ett bærbart instrument til måling av oksygen og ett til måling av brannfarlige dampkonsentrasjoner samt et tilstrekkelig sett med reservedeler. Det skal finnes hensiktsmessige midler til kalibrering av slike instrumenter.
+
+Det skal finnes hensiktsmessige bærbare instrumenter til måling av oksygen og konsentrasjoner av brannfarlig damp i rom i dobbeltskrog og dobbeltbunn. Ved valg av disse instrumentene skal det tas behørig hensyn til bruken av dem i kombinasjon med de fastmonterte systemene med gassprøvetakingsledninger nevnt i nr. 5.7.2.2.
+
+Når atmosfæren i rom i dobbeltskroget ikke enkelt kan måles ved hjelp av fleksible slanger til gassprøvetaking, skal slike rom være utstyrt med permanente gassprøvetakingsledninger. Konfigurasjonen av gassprøvetakingsledninger skal være tilpasset utformingen av slike rom.
+
+Byggematerialene og dimensjonene til gassprøvetakingsledninger skal være slik at de hindrer strømningsreduksjon. Når det er brukt plastmaterialer, skal de være elektrisk ledende.
+
+I tillegg til kravene i nr. 5.7.1 og 5.7.2 skal oljetankskip på 20 000 tonn dødvekt eller mer, bygget 1. januar 2012 eller senere, være utstyrt med et fastmontert anlegg for deteksjon av hydrokarbongasser, som er i samsvar med FSS-koden for måling av hydrokarbongasskonsentrasjoner i alle ballasttanker og tomme rom i dobbeltskrog- og dobbeltbunnrom tilstøtende lastetankene, inkludert forpiggtankene og enhver annen tank og ethvert annet rom under skottdekket tilstøtende lastetankene.
+
+Oljetankskip som er utstyrt med konstant operative nøytralgassystemer for slike rom, trenger ikke være utstyrt med fastmonterte anlegg for deteksjon av hydrokarbongasser.
+
+Uten hensyn til ovennevnte krav, trenger lastepumperom som er omfattet av bestemmelsene i nr. 5.10, ikke være i samsvar med kravene i dette punktet.
+
+Rom i dobbeltskrog og dobbeltbunn skal være utstyrt med hensiktsmessige koplinger for lufttilførsel.
+
+Det skal være plassert dryppskåler til oppsamling av lasterester i lasteledninger og -slanger i området med rør- og slangekoplinger under manifoldområdet. Lasteslanger og tankspyleslanger skal ha elektrisk ubrutt forløp i hele lengden, medregnet koplinger og flenser (unntatt landtilkoplinger) og skal være jordet for fjerning av elektrostatisk ladning.
+
+På tankskip.1 skal lastepumper, ballastpumper og strippepumper som er montert i lastepumperom og drives av aksler som går gjennom skottene i pumperom, være utstyrt med temperaturfølere for akselpakkbokser i skott, lagre og pumpehus. Et kontinuerlig lyd- og lysalarmsignal skal automatisk utløses i lastekontrollrommet eller pumpekontrollstasjonen.2 skal belysningen i lastepumperom, unntatt nødbelysning, være sammenkoplet med ventilasjon slik at ventilasjonen skal være i gang når lyset slås på. Svikt i ventilasjonssystemet skal ikke føre til at lyset slukkes.3 skal det være montert et anlegg for kontinuerlig overvåking av konsentrasjonen av hydrokarbongasser. Prøvetakingspunkter eller detektorhoder skal være plassert på hensiktsmessige steder for at potensielt farlige lekkasjer raskt vil oppdages. Når konsentrasjonen av hydrokarbongass når et forhåndsbestemt nivå som ikke skal være høyere enn 10 % av den nedre brannfarlige grensen, skal et kontinuerlig lyd- og lysalarmsignal automatisk utløses i pumperommet, maskinkontrollrommet, lastekontrollrommet og på kommandobroen for å varsle personalet om den mulige faren, og.4 skal alle pumperom være utstyrt med innretninger for overvåking av bunnvannsnivået samt hensiktsmessig plasserte alarmer.
+
+### Regel 5 Risiko for brannutvikling
+
+### 1 Formål
+
+Formålet med denne regelen er å begrense risikoen for brannutvikling i alle rom i skipet. For dette formålet skal følgende funksjonskrav oppfylles:.1 det skal finnes midler til å kontrollere lufttilførselen til rommet.2 det skal finnes midler til å kontrollere brannfarlige væsker i rommet, og.3 bruken av brennbare materialer skal begrenses.
+
+### 2 Kontroll av lufttilførsel og brannfarlige væsker til rommet
+
+Hovedinntakene og -utløpene til alle ventilasjonssystemer skal kunne stenges fra utsiden av rommene som ventileres. Stengemidlene skal være lett tilgjengelige samt tydelig og permanent merket og skal angi om avstengingen er åpen eller lukket.
+
+Mekanisk ventilasjon av rom i innredningen, arbeidsrom, lasterom, kontrollstasjoner og maskinrom skal kunne stoppes fra et lett tilgjengelig sted utenfor rommet som ventileres. Dette stedet skal ikke lett bli isolert i tilfelle av brann i rommene som ventileres.
+
+På passasjerskip som transporter mer enn 36 passasjerer, skal mekanisk ventilasjon, unntatt ventilasjon i maskinrom og lasterom og et eventuelt alternativt system som kan kreves etter regel 8 nr. 2, være utstyrt med betjeningsinnretninger som er gruppert slik at alle vifter kan stoppes fra et hvilken som helst av to atskilte steder som skal ligge så langt fra hverandre som praktisk mulig. Vifter som betjener mekaniske ventilasjonssystemer for lasterom, skal kunne stoppes fra et trygt sted utenfor slike rom.
+
+Det skal finnes betjeningsmidler for å åpne og lukke takvinduer, lukke åpninger i skorsteiner som normalt sørger for avtrekksventilasjon, og lukke ventilasjonsspjeld.
+
+Det skal finnes betjeningsmidler for å stoppe ventilasjonsvifter. Betjeningsinnretningene for den mekaniske ventilasjonen av maskinrom skal være gruppert slik at de kan betjenes fra to steder, med ett av disse plassert utenfor slike rom. Innretningene for å stoppe den mekaniske ventilasjonen av maskinrommene skal være helt atskilt fra midlene tilveiebrakt for å stoppe ventilasjonen av andre rom.
+
+Det skal finnes betjeningsmidler for å stoppe mekaniske vifter og avtrekksvifter, pumper til overføring av brennolje, pumper til brennoljeinstallasjoner, arbeidspumper for smøreolje, sirkulasjonspumper for varm olje og oljeseparatorer. Nr. 2.2.4 og 2.2.5 behøver likevel ikke anvendes på olje-vannsepareringsutstyr.
+
+Betjeningsmidlene som kreves etter nr. 2.2.1 til 2.2.3 og etter regel 4 nr. 2.2.3.4, skal være plassert utenfor det aktuelle rommet slik at de ikke vil bli isolert i tilfelle av brann i rommet de betjener.
+
+På passasjerskip skal betjeningsmidlene som kreves etter nr. 2.2.1 til 2.2.4 og etter regel 8 nr. 3.3 og regel 9 nr. 5.2.3, samt betjeningsmidlene til eventuelt påkrevd brannslokkingsanlegg være plassert på ett betjeningssted eller gruppert på så få steder som mulig, og skal vurderes som tilfredsstillende av administrasjonen. Slike steder skal ha sikker atkomst fra åpent dekk.
+
+Når det gjelder periodisk ubemannede maskinrom, skal administrasjonen ta særlig hensyn til å opprettholde brannmotstanden til maskinrommene, plasseringen og sentraliseringen av betjeningsmidlene til brannslokkingsanlegget, de påkrevde stopparrangementene (f.eks. ventilasjon, brennoljepumper, osv.) og at det kan være påkrevd med ekstra brannslokkingsredskaper og annet brannslokkingsutstyr og pusteapparater.
+
+På passasjerskip skal disse kravene være minst likeverdige med kravene til maskinrom som normalt er bemannet.
+
+### 3 Brannbeskyttende materialer
+
+Isolasjonsmaterialer skal være ikke-brennbare, unntatt i lasterom, postrom, bagasjerom og kjøleavdelinger i arbeidsrom. Dampsperrer og klebemidler som brukes i forbindelse med isolasjon, samt isolasjon av rørarmatur for kjøleanlegg, behøver ikke være av ikke-brennbare materialer, men de skal brukes i så små mengder som mulig og deres udekkede overflater skal ha lav flammespredningsevne.
+
+På passasjerskip, unntatt i lasterom, skal alle kledninger, underlag, trekksperrer og himlinger være av ikke-brennbart materiale, unntatt i postrom, bagasjerom, badstuer eller kjøleavdelinger i arbeidsrom.
+
+På lasteskip skal alle kledninger, himlinger, trekksperrer og deres tilhørende underlag være av ikke-brennbare materialer i følgende rom:.1 i rom i innredningen, arbeidsrom og kontrollstasjoner på skip der metode IC er fastsatt, som nevnt i regel 9 nr. 2.3.1, og.2 i korridorer og trappehus som betjener rom i innredningen, arbeidsrom og kontrollstasjoner på skip der metode IIC og IIIC er fastsatt, som nevnt i regel 9 nr. 2.3.1.
+
+Delskott eller dekk som brukes til å dele opp et rom til nytteformål eller kunstnerisk behandling, skal være av ikke-brennbare materialer.
+
+Kledning, himlinger og delskott eller dekk som brukes til å skjerme eller skille tilstøtende lugarbalkonger, skal være av ikke-brennbare materialer. Lugarbalkonger på passasjerskip bygget før 1. juli 2008, skal oppfylle kravene i dette nummer innen første tilsyn etter 1. juli 2008.
+
+På passasjerskip skal skiller i klasse «A», «B» eller «C» i rom i innredningen, arbeidsrom og lugarbalkonger som er belagt med brennbare materialer, lag, profiler, dekorasjoner og finer, være i samsvar med bestemmelsene i nr. 3.2.2 til 3.2.4 og regel 6. Tradisjonelle trebenker og trekledninger på skott og himlinger er likevel tillatt i badstuer, og for slike materialer behøver det ikke å foretas beregninger som fastsatt i nr. 3.2.2 og 3.2.3. Bestemmelsene i nr. 3.2.3 behøver imidlertid ikke å anvendes på lugarbalkonger.
+
+På lasteskip kan ikke-brennbare skott, himlinger og kledning montert i rom i innredningen og arbeidsrom være belagt med brennbare materialer, lag, kledninger, dekorasjoner og finer, forutsatt at slike rom er avgrenset av ikke-brennbare skott, himlinger og kledning i samsvar med bestemmelsene i nr. 3.2.2 til 3.2.4 og regel 6.
+
+Brennbare materialer som er brukt på overflater og kledning angitt i nr. 3.2.1, skal ha en brennverdi24 på høyst 45 MJ/m2 av arealet for den tykkelsen som brukes. Kravene i dette nummer får ikke anvendelse på flatene på møbler festet til kledning eller skott.
+
+Når det er brukt brennbare materialer i samsvar med nr. 3.2.1, skal de oppfylle følgende krav:.1 det samlede volumet av brennbare lag, profiler, dekorasjoner og finer i arbeidsrom og rom i innredningen skal ikke overstige et volum som tilsvarer 2,5 mm finer på det samlede arealet av vegg- og himlingskledninger. Møbler festet til kledning, skott eller dekk trenger ikke tas med i beregningen av det samlede volumet av brennbare materialer, og.2 når det gjelder skip utstyrt med et automatisk sprinkleranlegg som er i samsvar med bestemmelsene i FSS-koden, kan ovennevnte volum omfatte noe brennbart materiale brukt til oppføring av skiller i klasse «C».
+
+Følgende flater skal ha lav flammespredningsevne i samsvar med FTP-koden:
+
+På passasjerskip:.1 udekkede flater i korridorer og trappehus og på kledninger på skott og himlinger i rom i innredningen, arbeidsrom (unntatt badstuer) og kontrollstasjoner.2 flater og underlag i skjulte eller utilgjengelige rom i innredningen, arbeidsrom og kontrollstasjoner, og.3 udekkede flater på lugarbalkonger, unntatt dekksystemer av naturlig hardt tre.
+
+På lasteskip:.1 udekkede flater i korridorer og trappehus og på himlinger i rom i innredningen, arbeidsrom (unntatt badstuer) og kontrollstasjoner, og.2 flater og underlag i skjulte eller utilgjengelige rom i innredningen, arbeidsrom og kontrollstasjoner.
+
+Møbler i trappehus skal være begrenset til sittemøbler. De skal være fastmontert, begrenset til seks sitteplasser på hvert dekk i hvert trappehus, ha begrenset brannfare bestemt i samsvar med FTP-koden, og skal ikke være en hindring i passasjerenes rømningsvei. Administrasjonen kan tillate ytterligere sittemøbler i hovedresepsjonsområdet i et trappehus hvis de er fastmontert, ikke-brennbare og ikke er en hindring i passasjerenes rømningsvei. Det skal ikke være tillatt med møbler i passasjer- og besetningskorridorer som er rømningsveier i lugarområder. I tillegg kan skap av ikke-brennbart materiale til oppbevaring av ikke-brannfarlig sikkerhetsutstyr fastsatt i disse regler, tillates. Drikkevannsautomater og isbitmaskiner kan tillates i korridorer forutsatt at de er fastmontert og ikke innsnevrer bredden på rømningsveiene. Dette gjelder også for blomster- eller planteoppsatser, statuer eller andre kunstgjenstander som f.eks. malerier og bildetepper i korridorer og trapper.
+
+På passasjerskip skal møbler og inventar på lugarbalkonger være i samsvar med regel 3 nr. 40.1, nr. 40.2, nr. 40.3, nr. 40.6 og nr. 40.7 med mindre slike balkonger er beskyttet av et fastmontert vannforstøvningssystem til brannslokking og et branndeteksjons- og alarmanlegg i samsvar med regel 7 nr. 10 og regel 10 nr. 6.1.3. Passasjerskip bygget før 1. juli 2008, skal oppfylle kravene i dette nummer innen første tilsyn etter 1. juli 2008.
+
+### Regel 6 Risiko for utvikling av røyk og giftighet
+
+### 1 Formål
+
+Formålet med denne regelen er å redusere faren for menneskeliv på grunn av røyk og giftige produkter som utvikles ved brann i rom der personer normalt arbeider eller oppholder seg. For dette formålet skal den mengden røyk og giftige produkter som avgis fra brennbare materialer, også overflatebehandlingsmidler, ved en brann, begrenses.
+
+Maling, lakk og andre overflatebehandlingsmidler som brukes på udekkede innvendige flater, skal ikke kunne skape store mengder røyk og giftige produkter, som bestemt i samsvar med FTP-koden.
+
+På passasjerskip bygget 1. juli 2008 eller senere, skal maling, lakk og andre overflatebehandlingsmidler som brukes på udekkede overflater av lugarbalkonger, unntatt dekksystemer av naturlig hardt tre, ikke kunne skape store mengder røyk og giftige produkter, som bestemt i samsvar med FTP-koden.
+
+Underste dekkskledninger skal, hvis de brukes i rom i innredningen, arbeidsrom og kontrollstasjoner, være av godkjent materiale som ikke vil utgjøre en fare på grunn av røyk, giftighet eller eksplosjon ved høye temperaturer, som bestemt i samsvar med FTP-koden.
+
+På passasjerskip bygget 1. juli 2008 eller senere, skal underste dekkskledninger på lugarbalkonger ikke utgjøre en fare på grunn av røyk, giftighet eller eksplosjon ved høye temperaturer, som bestemt i samsvar med FTP-koden.
+
+### Del C
+Branndempende tiltak
+
+### Regel 7 Deteksjon og alarm
+
+### 1 Formål
+
+Formålet med denne regelen er å oppdage en brann i rommet der den oppstår, og påse at det gis alarm for sikker rømning og brannslokking. For dette formålet skal følgende funksjonskrav oppfylles:.1 fastmonterte branndeteksjons- og brannalarmanlegg skal være egnet til rommets art, risikoen for brannutvikling og risikoen for røyk- og gassutvikling.2 det skal være plassert manuelle brannmeldere på hensiktsmessige steder for å sikre enkel adgang til varsling, og.3 brannpatruljer skal være et effektivt middel til å oppdage og lokalisere brann og varsle kommandobroen og brannlagene.
+
+### 2 Generelle krav
+
+Det skal finnes et fastmontert branndeteksjons- og brannalarmanlegg i samsvar med bestemmelsene i denne regelen.
+
+Et fastmontert branndeteksjons- og brannalarmanlegg og et røykdeteksjonsanlegg med prøvetaking fastsatt i denne regelen og andre regler i denne del, skal være av godkjent type og være i samsvar med FSS-koden.
+
+Når det kreves et fastmontert branndeteksjons- og brannalarmanlegg til beskyttelse av andre rom enn de som er fastsatt i nr. 5.1, skal det i hvert slikt rom være montert minst én detektor som er i samsvar med FSS-koden.
+
+Et fastmontert branndeteksjons- og brannalarmanlegg for passasjerskip skal kunne identifisere hver enkelt detektor og manuell brannmelder ved fjernbetjening og enkeltvis.
+
+### 3 Førstegangsprøving og periodisk prøving
+
+Fastmonterte branndeteksjons- og brannalarmanlegg som kreves i henhold til de aktuelle regler i dette kapittelet, skal funksjonsprøves under forskjellige ventilasjonsforhold etter at de er installert.
+
+Det fastmonterte branndeteksjons- og brannalarmanlegget skal funksjonsprøves periodisk og vurderes som tilfredsstillende av administrasjonen, med utstyr som produserer varmluft ved riktig temperatur, eller røyk- eller aerosolpartikler som har riktig tetthetsområde eller partikkelstørrelse, eller andre forhold som kan forekomme i forbindelse med en begynnende brann som detektoren er utformet for å reagere på.
+
+### 4 Beskyttelse av maskinrom
+
+Et fastmontert branndeteksjons- og brannalarmanlegg skal være installert i.1 periodisk ubemannede maskinrom.2 maskinrom der.2.1 installasjon av automatiske og fjernstyrte systemer og utstyr er godkjent i stedet for kontinuerlig bemanning av rommet, og.2.2 hovedframdriftsmaskineriet og tilhørende maskineri, herunder den elektriske hovedkraftkilden, er utstyrt med varierende grad av automatisk kontroll eller fjernstyring, og er under kontinuerlig bemannet overvåking fra et kontrollrom, og.3 innelukkede rom som inneholder forbrenningsanlegg.
+
+Det fastmonterte branndeteksjons- og brannalarmanlegget som kreves etter nr. 4.1.1, skal være slik utformet, og detektorene slik plassert, at et brannutbrudd raskt oppdages i enhver del av disse rommene og under normale driftsforhold for maskineriet og normal variasjon i ventilasjonen som kreves ut fra den mulige variasjonen i omgivelsestemperatur. Unntatt i rom med begrenset høyde og der slik bruk er særlig hensiktsmessig, skal det ikke være tillatt med deteksjonssystemer som bruker bare varmedetektorer. Deteksjonssystemet skal utløse lyd- og lysalarmer som er klart forskjellige fra alarmene i eventuelle andre anlegg som ikke varsler brann, på tilstrekkelig mange steder til å sikre at alarmene høres og sees på kommandobroen og av en ansvarlig maskinoffiser. Når kommandobroen er ubemannet, skal alarmen lyde på et sted der et ansvarlig besetningsmedlem er på vakt.
+
+### 5 Beskyttelse av rom i innredningen, arbeidsrom og kontrollstasjoner
+
+Det skal være installert røykdetektorer i alle trapper, korridorer og rømningsveier i rom i innredningen, som fastsatt i nr. 5.2, 5.3 og 5.4. Det skal vurderes å installere spesialrøykdetektorer inne i ventilasjonskanaler.
+
+Et fastmontert branndeteksjons- og brannalarmanlegg skal være slik installert og innrettet at det oppdager røyk i arbeidsrom, kontrollstasjoner og rom i innredningen, inkludert korridorer, trapper og rømningsveier i rom i innredningen. Røykdetektorer behøver ikke være installert i private bad og i bysser. Rom som har liten eller ingen brannrisiko, f.eks. tomrom, allment tilgjengelige toaletter, CO2-rom og lignende rom, behøver ikke være utstyrt med fastmonterte branndeteksjons- og brannalarmanlegg. Detektorer installert i lugarer skal, når de aktiveres, også enten kunne avgi en lydalarm eller sørge for at en lydalarm avgis i rommet der de er plassert.
+
+I hver enkelt sone, enten den er vertikal eller horisontal, i alle arbeidsrom og rom i innredningen og, når administrasjonen finner det nødvendig, i kontrollstasjoner, unntatt rom som ikke utgjør en vesentlig brannfare, f.eks. tomrom, sanitærrom, osv., skal det være installert enten.1 et fastmontert branndeteksjons- og brannalarmanlegg som er installert og innrettet slik at det oppdager brann i slike rom og oppdager røyk i korridorer, trapper og rømningsveier i rom i innredningen. Detektorer som er montert i lugarer, skal når de utløses, også kunne gi, eller sørge for at det blir gitt, en lydalarm i rommet der de er plassert, eller.2 et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg av godkjent type som oppfyller de aktuelle kravene i FSS-koden og er slik installert og innrettet at det beskytter slike rom, og i tillegg et fastmontert branndeteksjons- og brannalarmanlegg som er slik installert og innrettet at det oppdager røyk i korridorer, trapper og rømningsveier i rom i innredningen.
+
+Hele den vertikale hovedsonen som rommer atriet, skal være gjennomgående beskyttet med et røykdeteksjonsanlegg.
+
+(Kravene i nr. 5.5 får anvendelse på skip bygget 1. januar 2026 eller senere. Skip bygget før 1. januar 2026 skal følge de tidligere gjeldende kravene i nr. 5.5.)
+
+Rom i innredningen, arbeidsrom og kontrollstasjoner på lasteskip skal være beskyttet med et fastmontert branndeteksjons- og brannalarmanlegg og/eller et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg som beskrevet nedenfor, avhengig av hvilken brannsikringsmetode som er valgt i henhold til regel 9 nr. 2.3.1.
+
+Et fastmontert branndeteksjons- og brannalarmanlegg skal være slik installert og innrettet at det oppdager røyk i alle korridorer, trapper og rømningsveier i rom i innredningen, samt i alle kontrollstasjoner og lastekontrollrom.
+
+Et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg av godkjent type som oppfyller relevante krav i IMOs regelverk for brannvernsystemer (FSS-koden), skal være slik installert og innrettet at det beskytter rom i innredningen, bysser og andre arbeidsrom, unntatt rom som ikke har vesentlig brannrisiko, som tomrom, sanitærrom osv. I tillegg skal et fastmontert branndeteksjons- og brannalarmanlegg være slik installert og innrettet at det oppdager røyk i alle korridorer, trapper og rømningsveier i rom i innredningen, samt i alle kontrollstasjoner og lastekontrollrom.
+
+Et fastmontert branndeteksjons- og brannalarmanlegg skal være slik installert og innrettet at det oppdager brann i alle rom i innredningen og arbeidsrom og oppdager røyk i korridorer, trapper og rømningsveier i rom i innredningen, unntatt rom som ikke har vesentlig brannrisiko, som tomrom, sanitærrom osv. I tillegg skal et fastmontert branndeteksjons- og brannalarmanlegg være slik installert og innrettet at det oppdager røyk i alle korridorer, trapper og rømningsveier i rom i innredningen, samt i alle kontrollstasjoner og lastekontrollrom.
+
+### 6 Beskyttelse av lasterom i passasjerskip
+
+Det skal finnes et fastmontert branndeteksjons- og brannalarmanlegg eller et røykdeteksjonsanlegg med prøvetaking i ethvert lasterom som etter administrasjonens mening ikke er tilgjengelig, unntatt når det til administrasjonens tilfredshet påvises at skipet brukes på reiser av så kort varighet at det ville være urimelig å anvende dette kravet.
+
+### 7 Manuelle brannmeldere
+
+Manuelle brannmeldere som er i samsvar med FSS-koden, skal være installert i alle rom i innredningen, arbeidsrom og kontrollstasjoner. Det skal være plassert én manuell brannmelder ved hver utgang. Manuelle brannmeldere skal være lett tilgjengelige i korridorene på hvert dekk slik at ingen del av korridoren er mer enn 20 m fra en manuell brannmelder.
+
+### 8 Brannpatruljer på passasjerskip
+
+For skip som transporterer mer enn 36 passasjerer, skal det finnes et effektivt patruljesystem slik at brannutbrudd straks kan oppdages. Hvert medlem av brannpatruljen skal være opplært til å kjenne skipets arrangementer samt plassering og betjening av utstyr som vedkommende kan bli nødt til å bruke.
+
+Himlinger og skott skal være slik bygget at brannpatruljene, uten å svekke brannvernets effektivitet, vil kunne oppdage røyk som stammer fra skjulte og utilgjengelige steder, unntatt når det etter administrasjonens mening ikke er noen fare for at brann vil oppstå på slike steder.
+
+Hvert medlem av brannpatruljen skal være utstyrt med et bærbart toveis radiotelefonapparat.
+
+### 9 Brannalarmanlegg på passasjerskip27
+
+Passasjerskip skal til enhver tid i sjøen eller i havn (unntatt når de er ute av drift), være slik bemannet eller utstyrt at enhver brannalarm mottas umiddelbart av et ansvarlig besetningsmedlem.
+
+Kontrollpanelet for fastmonterte branndeteksjons- og brannalarmanlegg skal være utformet etter feilsikkert prinsipp (f.eks. en åpen detektorkrets skal forårsake alarmtilstand).
+
+Passasjerskip som transporterer mer enn 36 passasjerer, skal ha branndeteksjonsalarmene for anleggene som kreves etter nr. 5.2, samlet på en kontinuerlig bemannet kontrollstasjon. I tillegg skal betjeningsinstrumenter for fjernlukking av branndørene og stenging av ventilasjonsviftene være samlet på samme sted. Ventilasjonsviftene skal kunne settes i drift igjen av besetningen på den kontinuerlig bemannede kontrollstasjonen. Kontrollpanelene på den sentrale kontrollstasjonen skal kunne angi om branndører er åpne eller lukket og om detektorer, alarmer og vifter er stengt eller slått av. Kontrollpanelet skal ha kontinuerlig kraftforsyning og skal ha automatisk omkopling til nødkraft i tilfelle normal kraftforsyning svikter. Kontrollpanelet skal forsynes fra den elektriske hovedkraftkilden og den elektriske nødkraftkilden definert i regel II-1/42, med mindre reglene eventuelt tillater andre arrangementer.
+
+Det skal være montert en spesiell alarm som betjenes fra kommandobroen eller brannkontrollstasjonen, for å tilkalle besetningen. Denne alarmen kan være en del av skipets hovedalarmsystem og skal kunne utløses uavhengig av alarmen til passasjerrommene.
+
+### 10 Beskyttelse av lugarbalkonger på passasjerskip
+
+Et fastmontert branndeteksjons- og brannalarmanlegg som er i samsvar med bestemmelsene i FSS-koden, skal være installert på lugarbalkonger på skip som regel 5 nr. 3.4 får anvendelse på, når møbler og inventar på disse balkongene ikke er som definert i regel 3 nr. 40.1, nr. 40.2, nr. 40.3, nr. 40.6 og nr. 40.7.
+
+### Regel 8 Kontroll med røykspredning
+
+### 1 Formål
+
+Formålet med denne regelen er å kontrollere spredningen av røyk for å redusere farene ved røyk mest mulig. For dette formålet skal det finnes midler til å kontrollere røyk i atrier, kontrollstasjoner, maskinrom og skjulte rom.
+
+### 2 Beskyttelse av kontrollstasjoner utenfor maskinrom
+
+Det skal treffes praktisk gjennomførbare tiltak for kontrollstasjoner utenfor maskinrom for å sikre at ventilasjon, sikt og fravær av røyk opprettholdes slik at maskineri og utstyr som finnes der, i tilfelle av brann kan overvåkes og fortsette å fungere effektivt. Det skal finnes alternative og atskilte midler til lufttilførsel, og luftinntak til de to tilførselskildene skal være plassert slik at risikoen for at begge inntakene trekker inn røyk samtidig er redusert mest mulig. Administrasjonen kan etter eget skjønn bestemme om slike krav skal anvendes på kontrollstasjoner som ligger på eller har utgang til åpent dekk, eller der lokale lukkearrangementer ville være like effektive.
+
+Ventilasjonssystemet som betjener sikkerhetssentre kan være avledet fra ventilasjonssystemet som betjener kommandobroen, med mindre det er plassert i en tilstøtende vertikal hovedsone.
+
+### 3 Utslipp av røyk fra maskinrom
+
+Bestemmelsene i dette nummer får anvendelse på maskinrom av kategori A og, når administrasjonen mener det er ønskelig, på andre maskinrom.
+
+Det skal finnes egnede arrangementer for å muliggjøre utslipp av røyk, i tilfelle av brann, fra rommet som skal beskyttes, med forbehold for bestemmelsene i regel 9 nr. 5.2.1. De normale ventilasjonssystemene kan godtas for dette formålet.
+
+Det skal finnes betjeningsmidler for å muliggjøre utslipp av røyk, og slike betjeningsmidler skal være plassert utenfor det aktuelle rommet, slik at de i tilfelle av brann ikke vil bli avskåret fra rommet de betjener.
+
+På passasjerskip skal betjeningsmidlene fastsatt i nr. 3.3, være plassert på ett betjeningssted eller gruppert på så få steder som mulig, og skal vurderes som tilfredsstillende av administrasjonen. Slike steder skal ha sikker atkomst fra åpent dekk.
+
+### 4 Trekksperrer
+
+Luftrom som er innelukket bak himlinger, paneler eller kledning, skal være oppdelt med tettsittende trekksperrer plassert høyst 14 m fra hverandre. I vertikal retning skal slike innelukkede luftrom, herunder de som ligger bak kledning i trapper, sjakter osv., være lukket ved hvert dekk.
+
+### 5 Røykavtrekkssystemer i atrier i passasjerskip
+
+Atrier skal være utstyrt med et røykavtrekkssystem. Røykavtrekkssystemet skal settes i funksjon av det påkrevde røykdeteksjonsanlegget og skal kunne betjenes manuelt. Viftene skal være store nok til at luften i volumet av hele rommet kan skiftes ut på 10 minutter eller mindre.
+
+### Regel 9 Begrensning av brann
+
+### 1 Formål
+
+Formålet med denne regelen er å begrense en brann til rommet der den oppstår. For dette formålet skal følgende funksjonskrav oppfylles:.1 skipet skal være oppdelt med brannisolerte og konstruksjonsmessige avgrensninger.2 brannisolering av avgrensninger skal ta behørig hensyn til brannfaren i rommet og tilstøtende rom, og.3 skillenes brannmotstand skal opprettholdes ved åpninger og gjennomføringer.
+
+### 2 Brannisolerte og konstruksjonsmessige avgrensninger
+
+Skip av alle typer skal være oppdelt i rom med brannisolerte og konstruksjonsmessige skiller, under behørig hensyn til brannfaren i rommet.
+
+På skip som transporterer mer enn 36 passasjerer, skal skroget, overbygningen og dekkshus være oppdelt i vertikale hovedsoner med skiller i klasse «A-60». Det skal være færrest mulig trinn og forsenkninger, men der de er nødvendige, skal de også være skiller i klasse «A-60». Når et rom i kategori (5), (9) eller (10), definert i nr. 2.2.3.2.2, ligger på én side, eller når brennoljetanker ligger på begge sider av skillet, kan standarden reduseres til «A-0».
+
+På skip som transporterer høyst 36 passasjerer, skal skroget, overbygningen og dekkshus i rom i innredningen og arbeidsrom være oppdelt i vertikale hovedsoner med skiller i klasse «A». Disse skillene skal ha isolasjonsverdier i samsvar med tabellene i nr. 2.2.4.
+
+Skott som danner grensene for de vertikale hovedsonene over skottdekket, skal så langt som praktisk mulig være i flukt med vanntette oppdelingsskott plassert umiddelbart under skottdekket. Lengden og bredden av vertikale hovedsoner kan forlenges til høyst 48 m for å få endene av vertikale hovedsoner til å falle sammen med vanntette oppdelingsskott eller for å gjøre plass til et stort fellesrom som strekker seg over hele lengden av den vertikale hovedsonen, forutsatt at det samlede arealet av den vertikale hovedsonen ikke er større enn 1600 m2 på noe dekk. Lengden eller bredden av en vertikal hovedsone er den største avstanden mellom punktene lengst borte på skottene som avgrenser den.
+
+Slike skott skal gå fra dekk til dekk og til hudplatene eller andre avgrensninger.
+
+Når en vertikal hovedsone er oppdelt med horisontale skiller i klasse «A» i horisontale soner for det formål å danne et egnet sperresjikt mellom soner med og uten sprinkleranlegg, skal skillene strekke seg mellom tilstøtende skott i vertikal hovedsone og til hudplatene eller skipets utvendige grenser, og skal være isolert i samsvar med verdiene for brannisolasjon og brannmotstand oppgitt i tabell 9.4.
+
+På skip som er utformet for spesialfart, f.eks. bil- eller jernbaneferger, der skott i vertikale hovedsoner ville være uforenlig med skipets formål, skal det i stedet finnes likeverdige midler til å kontrollere og begrense en brann, og disse skal være særskilt godkjent av administrasjonen. Arbeidsrom og skipets lagerrom skal ikke være plassert på roro-dekk, med mindre de er beskyttet i samsvar med gjeldende regler.
+
+På skip med spesiallasterom skal slike rom likevel være i samsvar med gjeldende bestemmelser i regel 20, og når slikt samsvar vil stride mot andre krav til passasjerskip fastsatt i dette kapittelet, skal kravene i regel 20 få anvendelse.
+
+På skip som transporterer mer enn 36 passasjerer, skal skott som ikke kreves å være skiller i klasse «A», minst være skiller i klasse «B» eller klasse «C», som fastsatt i tabellene i nr. 2.2.3.
+
+På skip som transporterer høyst 36 passasjerer, skal skott i rom i innredningen og arbeidsrom som ikke kreves å være skiller i klasse «A», minst være skiller i klasse «B» eller klasse «C», som fastsatt i tabellene i nr. 2.2.4. I tillegg skal skott i korridorer, der disse ikke kreves å være i klasse «A», være skiller i klasse «B» som skal gå fra dekk til dekk, unntatt.1 når gjennomgående himlinger eller kledninger i klasse «B» er montert på begge sider av skottet, skal den delen av skottet som befinner seg bak den gjennomgående himlingen eller kledningen, være av et materiale som med hensyn til tykkelse og sammensetning oppfyller kravene til bygging av skiller i klasse «B», men skal oppfylle kravene til brannmotstand for klasse «B» bare i den grad administrasjonen mener det er rimelig og praktisk gjennomførbart, og.2 når det gjelder skip som er beskyttet med et automatisk sprinkleranlegg som er i samsvar med bestemmelsene i FSS-koden, kan skott i korridorer avsluttes ved en himling i korridoren, forutsatt at slike skott og himlinger er i klasse «B» i samsvar med nr. 2.2.4. Alle dører og dørkarmer i slike skott skal være av ikke-brennbare materialer og skal ha samme brannmotstand som skottene de er montert i.
+
+Skott som kreves å være skiller i klasse «B», unntatt skott i korridorer som fastsatt i nr. 2.2.2.2, skal gå fra dekk til dekk og til hudplatene eller andre avgrensninger. Når en gjennomgående himling eller kledning i klasse «B» er montert på begge sider av et skott som har minst samme brannmotstand som det tilstøtende skottet, kan skottet likevel avsluttes ved den gjennomgående himlingen eller kledningen.
+
+Brannmotstand i skott og dekk på skip som transporterer mer enn 36 passasjerer
+
+I tillegg til å være i samsvar med de særskilte bestemmelsene for brannmotstand for skott og dekk på passasjerskip skal alle skott og dekk ha en minste brannmotstand som fastsatt i tabell 9.1 og 9.2. Når det på grunn av spesielle konstruksjonsmessige arrangementer på skipet oppstår vanskeligheter med å bestemme minsteverdien for brannmotstand i skiller ut fra tabellene, skal slike verdier bestemmes til administrasjonens tilfredshet.
+
+Følgende krav skal gjelde ved anvendelse av tabellene:.1 Tabell 9.1 får anvendelse på skott som verken grenser til vertikale hovedsoner eller horisontale soner. Tabell 9.2 får anvendelse på dekk som verken danner trinn i vertikale hovedsoner eller avgrenser horisontale soner..2 For å kunne bestemme hvilken brannmotstand som skal anvendes på avgrensninger mellom tilstøtende rom, blir slike rom klassifisert etter sin brannfare, som vist i kategori (1) til (14) nedenfor. Når innholdet og bruken av et rom er slik at det oppstår tvil om hvordan det skal klassifiseres i henhold til denne regelen, eller når det er mulig å plassere et rom i to eller flere klasser, skal det behandles som et rom i den aktuelle kategorien som har de strengeste avgrensningskravene. Mindre, innelukkede rom som ligger inne i et rom, og som har mindre enn 30 % åpninger til dette rommet, betraktes som atskilte rom. Brannmotstanden i avgrensningsskottene og dekkene i slike mindre rom skal være som fastsatt i tabell 9.1 og 9.2. Overskriften for hver kategori er ment å være typisk og ikke innskrenkende. Tallet i parentes foran hver kategori viser til den aktuelle kolonnen eller raden i tabellene.KontrollstasjonerRom som inneholder nødkraft- og nødbelysningskilder.Styrehus og bestikklugar.Rom som inneholder skipets radioutstyr.Brannkontrollstasjoner.Kontrollrom for framdriftsmaskineriet når dette ligger utenfor framdriftsmaskinrommet.Rom som inneholder sentralisert brannalarmutstyr.Rom som inneholder nødstasjoner med sentraliserte høyttaleranlegg og -utstyr.TrapperInnvendige trapper, heiser, helt innelukkede rømningssjakter til bruk i nødssituasjoner og rulletrapper (unntatt de som i sin helhet ligger inne i maskinrom) for passasjerer og besetning, og innbygninger til slike.I denne forbindelse skal en trapp som er innelukket bare på ett nivå, anses som en del av det rommet som den ikke er atskilt fra ved en branndør.KorridorerPassasjer- og besetningskorridorer og vestibyler.Evakueringsstasjoner og utvendige rømningsveierStuingsområde for redningsfarkoster.Åpne plasser på dekk og lukkede promenader som danner innskipings- og utsettingsstasjoner for livbåter og redningsflåter.Mønstringsstasjoner, innvendige og utvendige.Utvendige trapper og åpne dekk som brukes til rømningsveier.Skipssiden til vannlinjen i letteste sjøgående tilstand, overbygnings- og dekkshussider som ligger under og inntil innskipningsområdene for redningsflåter og evakueringssklier.Åpne plasser på dekkÅpne plasser på dekk og lukkede promenader som ligger klar av innskipings- og utsettingssteder for livbåter og redningsflåter. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom (rommet utenfor overbygninger og dekkshus).Rom i innredningen med liten brannfareLugarer som inneholder møbler og inventar med begrenset brannfare.Kontorer og skipsapotek som inneholder møbler og inventar med begrenset brannfare.Fellesrom som inneholder møbler og inventar med begrenset brannfare, og som har et dekksareal på mindre enn 50 m2.Rom i innredningen med moderat brannfareRom som i kategori (6) ovenfor, men som inneholder møbler og inventar med annen brannfare enn begrenset.Fellesrom som inneholder møbler og inventar med begrenset brannfare, og som har et dekksareal på minst 50 m2.Atskilte skap og små lagerrom i innredningen som har et areal på mindre enn 4 m2 (der det ikke oppbevares brannfarlige væsker).Rom til filmfremvisning og oppbevaring av film. Diettkjøkkener (der det ikke finnes åpen ild).Skap for rengjøringsutstyr (der det ikke oppbevares brannfarlige væsker).Laboratorier (der det ikke oppbevares brannfarlige væsker).Apotek.Små tørkerom (som har et dekksareal på 4 m2 eller mindre).Rom til oppbevaring av verdisaker.Operasjonsrom.Rom i innredningen med større brannfareFellesrom som inneholder møbler og inventar med annen brannfare enn begrenset, og som har et dekksareal på minst 50 m2.Frisør- og skjønnhetssalonger.Badstuer.Butikker.Sanitærrom og lignende romFelles sanitæranlegg, dusjer, bad, vannklosetter osv.Små vaskerom.Innendørs svømmebasseng.Atskilte serveringspentrier uten kokeredskaper i rom i innredningen.Private sanitæranlegg skal betraktes som en del av det rommet de tilhører.Tanker, tomrom og hjelpemaskinrom med liten eller ingen brannfare:Vanntanker som utgjør en del av skipets konstruksjon.Tomrom og kofferdammer.Hjelpemaskinrom som ikke inneholder maskineri med trykksmøringsanlegg, og der lagring av brennbare stoffer er forbudt, for eksempelventilasjons- og luftkondisjoneringsromrom for ankerspill, rom for styremaskinrom for stabilisatorutstyrrom for elektriske framdriftsmaskinerrom som inneholder seksjonsfordelingstavler og rent elektrisk utstyr, unntatt oljefylte elektriske transformatorer (over 10 kVA)aksel- og rørtunnelerpumperom og rom for kjølemaskineri (som ikke håndterer eller bruker brannfarlige væsker).Lukkede sjakter til ovennevnte rom.Andre lukkede sjakter, f.eks. rør- og kabelsjakter.Hjelpemaskinrom, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannfare:Oljelasttanker.Lasterom, sjakter og lukeåpninger.Kjølerom.Brennoljetanker (når de er installert i et eget rom som ikke inneholder maskineri).Aksel- og rørtunneler der brennbare stoffer kan lagres.Hjelpemaskinrom som i kategori (10) som inneholder maskineri med trykksmøringsanlegg, eller der lagring av brennbare stoffer er tillatt.Oljefyllingsstasjoner.Rom som inneholder oljefylte elektriske transformatorer (over 10 kVA).Rom som inneholder hjelpegeneratorer som drives med turbin og dampstempelmaskiner, og små forbrenningsmotorer med effekt på inntil 110 kW som driver generatorer, sprinkler-, overrislings- eller brannpumper, lensepumper osv.Lukkede sjakter til ovennevnte rom.Maskinrom og hovedbysserRom for hovedframdriftsmaskineri (unntatt rom for elektrisk framdriftsmaskineri) og kjelerom.Andre hjelpemaskinrom enn de som hører til kategori (10) og (11), og som inneholder forbrenningsmotorer eller andre oljefyrte varme- eller pumpeaggregater.Hovedbysser og tilhørende rom.Sjakter og kapper til rommene nevnt ovenfor.Lagerrom, verksteder, pentrier osv.Hovedpentrier som ikke er forbundet med bysser.Hovedvaskeri.Store tørkerom (med et dekksareal på mer enn 4 m2).Diverse lagerrom.Post- og bagasjerom.Avfallsrom.Verksteder (som ikke er en del av maskinrom, bysser osv.).Skap og lagerrom med et areal på mer enn 4 m2, unntatt de rommene som er innrettet for oppbevaring av brannfarlige væsker.Andre rom der det oppbevares brannfarlige væskerMalingsskap.Lagerrom som inneholder brannfarlige væsker (også fargestoffer, medisiner osv.).Laboratorier (der det oppbevares brannfarlige væsker)..3 Når brannmotstanden for avgrensningen mellom to rom er oppgitt med en enkelt verdi, skal den verdien gjelde i alle tilfeller..4 Uten hensyn til bestemmelsene i nr. 2.2.2 er det ingen særlige krav til materialer eller brannmotstand for avgrensningene når det bare står en strek i tabellene, og.5 For rom i kategori (5) skal administrasjonen bestemme om isolasjonsverdiene i tabell 9.1 skal gjelde for ender på dekkshus og overbygninger samt om isolasjonsverdiene i tabell 9.2 skal gjelde for værdekk. Ikke i noe tilfelle skal kravene til kategori (5) i tabell 9.1 eller 9.2 gjøre det nødvendig med lukking av rom som administrasjonen mener ikke behøver være lukket.
+
+*Tabell 9.1 Skott som avgrenser verken vertikale hovedsoner eller horisontale soner**Rom**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)**(12)**(13)**(14)*Kontrollstasjoner (1)B-0aA-0A-0A-0A-0A-60A-60A-60A-0A-0A-60A-60A-60A-60Trapper (2)A-0aA-0A-0A-0A-0A-15A-15A-0cA-0A-15A-30A-15A-30Korridorer (3)B-15A-60A-0B-15B-15B-15B-15A-0A-15A-30A-0A-30Evakueringsstasjoner og utvendige rømningsveier (4)A-0A-60b dA-60b dA-60b dA-0dA-0A-60bA-60bA-60bA-60bÅpne plasser på dekk (5)A-0A-0A-0A-0A-0A-0A-0A-0A-0Rom i innredningen med liten brannfare (6)B-0B-0B-0CA-0A-0A-30A-0A-30Rom i innredningen med moderat brannfare (7)B-0B-0CA-0A-15A-60A-15A-60Rom i innredningen med større brannfare (8)B-0CA-0A-30A-60A-15A-60Sanitærrom og lignende rom (9)CA-0A-0A-0A-0A-0Tanker, tomrom og hjelpemaskinrom med liten eller ingen brannfare (10)A-0aA-0A-0A-0A-0Hjelpemaskinrom, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannfare (11)A-0aA-0A-0A-15Maskinrom og hovedbysser (12)A-0aA-0A-60Lagerrom, verksteder, pentrier osv. (13)A-0aA-0Andre rom der brannfarlige væsker oppbevares (14)A-30
+
+Se merknader etter tabell 9.2
+
+*Tabell 9.2 Dekk som verken danner trinn i vertikale hovedsoner eller avgrenser horisontale soner**Rom under ↓ Rom over →**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)**(12)**(13)**(14)*Kontrollstasjoner (1)A-30A-30A-15A-0A-0A-0A-15A-30A-0A-0A-0A-60A-0A-60Trapper (2)A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-30A-0A-30Korridorer (3)A-15A-0A-0aA-60A-0A-0A-15A-15A-0A-0A-0A-30A-0A-30Evakueringsstasjoner og utvendige rømningsveier (4)A-0A-0A-0A-0–A-0A-0A-0A-0A-0A-0A-0A-0A-0Åpne plasser på dekk (5)A-0A-0A-0A-0–A-0A-0A-0A-0A-0A-0A-0A-0A-0Rom i innredningen med liten brannfare (6)A-60A-15A-0A-60A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0Rom i innredningen med moderat brannfare (7)A-60A-15A-15A-60A-0A-0A-15A-15A-0A-0A-0A-0A-0A-0Rom i innredningen med større brannfare (8)A-60A-15A-15A-60A-0A-15A-15A-30A-0A-0A-0A-0A-0A-0Sanitærrom og lignende rom (9)A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0Tanker, tomrom og hjelpemaskinrom med liten eller ingen brannfare (10)A-0A-0A-0A-0A-0A-0A-0A-0A-0A-0a/A-0A-0A-0A-0Hjelpemaskinrom, lasterom, oljelasttanker og andre oljetanker og andre lignende rom med moderat brannfare (11)A-60A-60A-60A-60A-0A-0A-15A-30A-0A-0A-0a/A-0A-0A-30Maskinrom og hovedbysser (12)A-60A-60A-60A-60A-0A-60A-60A-60A-0A-0A-30A-30aA-0A-60Lagerrom, verksteder, pentrier osv. (13)A-60A-30A-15A-60A-0A-15A-30A-30A-0A-0A-0A-0A-0A-0Andre rom der brannfarlige væsker oppbevares (14)A-60A-60A-60A-60A-0A-30A-60A-60A-0A-0A-0A-0A-0A-0
+
+*Merknader:* Gjelder for tabell 9.1 og 9.2.a Når tilstøtende rom er i samme tallkategori og benevnelsen «a» forekommer, er det ikke nødvendig å montere et skott eller dekk mellom slike rom hvis administrasjonen mener det er unødvendig. I kategori (12) er det for eksempel ikke nødvendig med et skott mellom en bysse og tilhørende pentrier, forutsatt at pentriskottet og dekkene har samme brannmotstand som bysseavgrensningene. Det kreves likevel et skott mellom en bysse og et maskinrom selv om begge rom er i kategori (12).b Skipssiden til vannlinjen i letteste sjøgående tilstand, overbygnings- og dekkshussider som ligger under og inntil redningsflåter og evakueringssklier, kan reduseres til «A-30».c Når offentlige toaletter i sin helhet er installert inne i trappehuset, kan skottet til det offentlige toalettet i trappehuset ha brannmotstand i klasse «B».d Når rom i kategori (6), (7), (8) og (9) i sin helhet ligger innenfor den ytre omkretsen av mønstringsstasjonen, kan skottene i disse rommene ha brannmotstand i klasse «B-0». Betjeningssteder for lyd-, video- og lysanlegg kan anses som en del av mønstringsstasjonen.
+
+Gjennomgående himlinger eller kledning i klasse «B» i tilknytning til de aktuelle dekkene eller skottene kan godtas som helt eller delvis bidrag til den påkrevde isolasjonen og brannmotstanden for et skille.
+
+Konstruksjon og arrangement av badstuer
+
+Badstuens omkrets skal ha avgrensninger i klasse «A», og badstuen kan omfatte garderober, dusjer og toaletter. Badstuen skal være isolert etter klasse «A-60»-standard mot andre rom, unntatt rom innenfor omkretsen og rom i kategori (5), (9) og (10).
+
+Bad med direkte atkomst til badstuer kan betraktes som en del av badstuene. I slike tilfeller behøver døren mellom badstuen og badet ikke oppfylle kravene til brannsikring.
+
+Tradisjonell trekledning på skott og tak er tillatt i badstuen. Himlingen over ovnen skal være kledd med en ikke-brennbar plate med en luftspalte på minst 30 mm. Avstanden fra de varme flatene til brennbare materialer skal være minst 500 mm, eller de brennbare materialene skal være beskyttet (f.eks. ikke-brennbar plate med en luftspalte på minst 30 mm).
+
+Tradisjonelle trebenker er tillatt i badstuen.
+
+Badstudøren skal åpnes utover ved å skyve den.
+
+Elektriske varmeovner skal være utstyrt med en tidsbryter.
+
+I tillegg til å være i samsvar med de særskilte bestemmelsene om brannmotstand for skott og dekk på passasjerskip skal alle skott og dekk ha en minste brannmotstand som fastsatt i tabell 9.3 og 9.4.
+
+Følgende krav gjelder ved anvendelse av tabellene:.1 Tabell 9.3 og 9.4 får anvendelse på henholdsvis skott og dekk som skiller tilstøtende rom..2 Ved bestemmelse av hvilken brannmotstand som skal anvendes på skiller mellom tilstøtende rom, blir slike rom klassifisert etter sin brannfare som vist i kategori (1) til (11) nedenfor. Når innholdet og bruken av et rom er slik at det oppstår tvil om hvordan det skal klassifiseres i henhold til denne regelen, eller når det er mulig å plassere et rom i to eller flere kategorier, skal det behandles som et rom i den aktuelle kategorien som har de strengeste avgrensningskravene. Mindre, innelukkede rom som ligger inne i et rom, og som har mindre enn 30 % åpninger til dette rommet, betraktes som atskilte rom. Brannmotstanden i avgrensningsskottene og dekkene i slike mindre rom skal være som fastsatt i tabell 9.3 og 9.4. Overskriften for hver kategori er ment å være typisk og ikke innskrenkende. Tallet i parentes foran hver kategori viser til den aktuelle kolonnen eller raden i tabellene.KontrollstasjonerRom som inneholder nødkraft- og nødbelysningskilder.Styrehus og bestikklugar.Rom som inneholder skipets radioutstyr.Brannkontrollstasjoner.Kontrollrom for framdriftsmaskineriet når dette ligger utenfor maskinrommet.Rom som inneholder sentralisert brannalarmutstyr.KorridorerPassasjer- og besetningskorridorer og vestibyler.Rom i innredningenRom som definert i regel 3 nr. 1, unntatt korridorer.TrapperInnvendige trapper, heiser, helt innelukkede rømningssjakter til bruk i nødssituasjoner og rulletrapper (unntatt de som i sin helhet ligger inne i maskinrom) og innbygninger til slike.I denne forbindelse skal en trapp som er innelukket bare på ett nivå, anses som en del av det rommet som den ikke er atskilt fra ved en branndør.Arbeidsrom (liten brannfare)Skap og lagerrom som ikke er innrettet for oppbevaring av brannfarlige væsker, og som har et areal på mindre enn 4 m2, samt tørkerom og vaskerom.Maskinrom av kategori ARom som definert i regel 3 nr. 31.Andre maskinromRom med elektrisk utstyr (rom med automatisk telefonsentral, rom med luftkondisjoneringskanaler).Rom som definert i regel 3 nr. 30, unntatt maskinrom av kategori A.LasteromAlle rom som brukes til last (herunder oljelasttanker) og sjakter og lukeåpninger til slike rom, unntatt spesiallasterom.Arbeidsrom (stor brannfare)Bysser, pentrier med kokeredskaper, malings- og lamperom, skap og lagerrom med areal på minst 4 m2, rom til oppbevaring av brannfarlige væsker, badstuer og andre verksteder enn de som utgjør en del av maskinrommene.Åpne dekkÅpne plasser på dekk og lukkede promenader med liten eller ingen brannfare. Lukkede promenader bør ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom (rommet utenfor overbygninger og dekkshus).SpesiallasteromRom som definert i regel 3 nr. 41 og regel 3 nr. 46..3 Ved bestemmelse av den brannmotstanden som skal anvendes på en avgrensning mellom to rom i en vertikal hovedsone eller horisontal sone som ikke er beskyttet av et automatisk sprinkleranlegg i samsvar med bestemmelsene i FSS-koden, eller mellom slike soner der ingen av dem er beskyttet på denne måten, får den høyeste av de to verdiene angitt i tabellene, anvendelse..4 Ved bestemmelse av den brannmotstanden som skal anvendes på en avgrensning mellom to rom i en vertikal hovedsone eller horisontal sone som er beskyttet av et automatisk sprinkleranlegg i samsvar med bestemmelsene i FSS-koden, eller mellom slike soner der begge er beskyttet på denne måten, får den laveste av de to verdiene angitt i tabellene, anvendelse. Når en sone med sprinkleranlegg støter opp til en sone uten sprinkleranlegg i rom i innredningen og arbeidsrom, får den høyeste av de to verdiene angitt i tabellene, anvendelse på skillet mellom sonene.
+
+Gjennomgående himlinger eller kledning i klasse «B» i tilknytning til de aktuelle dekkene eller skottene kan godtas som helt eller delvis bidrag til den påkrevde isolasjonen og brannmotstanden for et skille.
+
+Utvendige avgrensninger som etter regel 11 nr. 2 skal være av stål eller annet tilsvarende materiale, kan gjennomskjæres for montering av vinduer og lysventiler, forutsatt at det ikke kreves at slike avgrensninger på passasjerskip skal ha brannmotstand i klasse «A». Tilsvarende kan dører i slike avgrensninger som ikke kreves å ha brannmotstand i klasse «A», være laget av materialer som vurderes som tilfredsstillende av administrasjonen.
+
+Badstuer skal være i samsvar med nr. 2.2.3.4.
+
+Trapper skal ligge innenfor trappehus som dannes av skiller i klasse «A», med positive lukkemidler i alle åpninger, med det unntak at.1 en trapp som forbinder bare to dekk, behøver ikke være innelukket, forutsatt at dekkets brannmotstand sikres med forsvarlige skott eller selvlukkende dører i ett mellomdekksrom. Når en trapp er lukket i ett mellomdekksrom, skal trappehuset være beskyttet i samsvar med tabellene for dekk i nr. 2.2.3 eller nr. 2.2.4, og.2 trapper kan være montert åpent i et fellesrom, forutsatt at de i sin helhet ligger inne i fellesrommet.
+
+Heissjakter skal være montert slik at de hindrer at røyk og flammer trenger gjennom fra ett mellomdekk til et annet og skal være utstyrt med lukkemidler slik at det er mulig å kontrollere trekk og røyk. Heismaskineri som er montert i trappehus, skal være plassert i et eget rom, omgitt av avgrensninger av stål, men små passasjer for heiskabler er tillatt. Heiser som har åpning til andre rom enn korridorer, fellesrom, spesiallasterom, trapper og utvendige områder, skal ikke ha åpning til trapper som er en del av rømningsveiene.
+
+På passasjerskip bygget 1. juli 2008 eller senere, skal delskott som ikke er bærende, og som skiller tilstøtende lugarbalkonger, kunne åpnes av besetningen fra hver side av hensyn til brannslokking.*Tabell 9.3 – Brannmotstand for skott som skiller tilstøtende rom**Rom**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)*Kontrollstasjoner (1)A-0cA-0A-60A-0A-15A-60A-15A-60A-60*A-60Korridorer (2)CeB-0eA-0a B-0eB-0eA-60A-0A-0A-15 A-0d*A-30gRom i innredningen (3)CeA-0a B-0eB-0eA-60A-0A-0A-15 A-0d*A-30 A-0dTrapper (4)A-0a B-0eA-0a B-0eA-60A-0A-0A-15 A-0d*A-30gArbeidsrom (liten brannfare) (5)CeA-60A-0A-0A-0*A-0Maskinrom av kategori A (6)*A-0A-0A-60*A-60Andre maskinrom (7)A-0 b/A-0A-0*A-0Lasterom (8)*A-0*A-0Arbeidsrom (stor brannfare) (9)A-0b*A-30Åpne dekk (10)A-0Spesiallasterom og roro-rom (11)A-30g *Tabell 9.4 – Brannmotstand for dekk som skiller tilstøtende rom**Rom under ↓ Rom over**→**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)*Kontrollstasjoner (1)A-0A-0A-60A-0A-0A-60A-0A-0A-0*A-60gKorridorer (2)A-0**A-0*A-60A-0A-0A-0*A-30gRom i innredningen (3)A-60A-0*A-0*A-60A-0A-0A-0*A-30 A-0dTrapper (4)A-0A-0A-0*A-0A-60A-0A-0A-0*A-30gArbeidsrom (liten brannfare) (5)A-15A-0A-0A-0*A-60A-0A-0A-0*A-0Maskinrom av kategori A (6)A-60A-60A-60A-60A-60*A-60fA-30A-60*A-60Andre maskinrom (7)A-15A-0A-0A-0A-0A-0*A-0A-0*A-0Lasterom (8)A-60A-0A-0A-0A-0A-0A-0*A-0*A-0Arbeidsrom (stor brannfare) (9)A-60A-30
+A-0dA-30
+A-0dA-30
+A-0dA-0A-60A-0A-0A-0*A-30Åpne dekk (10)*********–A-0Spesiallasterom og roro-rom (11)A-60A-30gA-30 A-0dA-30gA-0A-60gA-0A-0A-30A-0A-30g
+
+*Merknader:* Gjelder for både tabell 9.3 og 9.4, avhengig av hva som er aktuelt.
+
+Atrier skal ligge innenfor innebygninger som dannes av skiller i klasse «A» med en brannfareklasse som fastsatt i samsvar med tabell 9.2 og 9.4, avhengig av hva som er aktuelt.
+
+Dekk som skiller rom i atrier, skal ha en brannfareklasse som fastsatt i samsvar med tabell 9.2 og 9.4, avhengig av hva som er aktuelt.
+
+Beskyttelsesmetoder i innredningen
+
+Én av følgende beskyttelsesmetoder skal brukes i rom i innredningen, arbeidsrom og kontrollstasjoner:.1 Metode ICInnvendige skilleskott laget av ikke-brennbare skiller i klasse «B» eller «C» generelt uten installasjon av et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg i rom i innredningen og arbeidsrom, unntatt som fastsatt i regel 7 nr. 5.5.1, eller.2 Metode IICAutomatisk sprinkler-, branndeteksjons- og brannalarmanlegg montert i henhold til regel 7 nr. 5.5.2 for deteksjon og slokking av brann i alle rom der brann kan tenkes å oppstå, generelt uten begrensning i type innvendig skilleskott, eller.3 Metode IIICFastmonterte branndeteksjons- og brannalarmanlegg montert i henhold til regel 7 nr. 5.5.3, i rom der brann kan tenkes å oppstå, generelt uten begrensning i type innvendig skilleskott, med det unntak at arealet av rom i innredningen eller rom avgrenset av et skille i klasse «A» eller «B», ikke i noe tilfelle må være mer enn 50 m2. Administrasjonen kan vurdere å øke dette arealet for fellesrom.
+
+Kravene til bruk av ikke-brennbare materialer i bygging og isolasjon av avgrensningsskott i maskinrom, kontrollstasjoner, arbeidsrom osv., og beskyttelse av ovennevnte trappehus og korridorer, vil være felles for alle tre metoder angitt i nr. 2.3.1.1.
+
+Skott som kreves å være skiller i klasse «B», skal gå fra dekk til dekk og til hudplatene eller andre avgrensninger. Når en gjennomgående himling eller kledning i klasse «B» er montert på begge sider av skottet, kan skottet likevel avsluttes ved den gjennomgående himlingen eller kledningen.
+
+Metode IC
+
+Skott som etter denne regelen eller andre regler for lasteskip, ikke kreves å være skiller i klasse «A» eller «B», skal være minst av klasse «C»-konstruksjon.
+
+Metode IIC
+
+Det skal ikke være noen begrensning i konstruksjonen av skott som etter denne regelen eller andre regler for lasteskip, ikke kreves å være skiller i klasse «A» eller «B», unntatt i enkelttilfeller der skott i klasse «C» kreves i henhold til tabell 9.5.
+
+Metode IIIC
+
+Det skal ikke være noen begrensning i konstruksjonen av skott som for lasteskip ikke kreves å være skiller i klasse «A» eller «B», med det unntak at arealet av et rom i innredningen eller rom avgrenset av et sammenhengende skille i klasse «A» eller «B», ikke i noe tilfelle må være mer enn 50 m2, unntatt i enkelttilfeller der skott i klasse «C» kreves i henhold til tabell 9.5. Administrasjonen kan vurdere å øke dette arealet for fellesrom.
+
+I tillegg til å være i samsvar med de særskilte bestemmelsene om brannmotstand for skott og dekk på lasteskip skal skott og dekk ha en minste brannmotstand som fastsatt i tabell 9.5 og 9.6.
+
+Følgende krav skal gjelde ved anvendelse av tabellene:.1 Tabell 9.5 og 9.6 får anvendelse på henholdsvis skott og dekk som skiller tilstøtende rom..2 Ved bestemmelse av hvilken brannmotstand som skal anvendes på skiller mellom tilstøtende rom, blir slike rom klassifisert etter sin brannfare som vist i kategori (1) til (11) nedenfor. Når innholdet og bruken av et rom er slik at det oppstår tvil om hvordan det skal klassifiseres i henhold til denne regelen, eller når det er mulig å plassere et rom i to eller flere kategorier, skal det behandles som et rom i den aktuelle kategorien som har de strengeste avgrensningskravene Mindre, innelukkede rom som ligger inne i et rom, og som har mindre enn 30 % åpninger til dette rommet, betraktes som atskilte rom. Brannmotstanden i avgrensningsskottene og dekkene i slike mindre rom skal være som fastsatt i tabell 9.5 og 9.6. Overskriften for hver kategori er ment å være typisk og ikke innskrenkende. Tallet i parentes foran hver kategori viser til den aktuelle kolonnen eller raden i tabellene.KontrollstasjonerRom som inneholder nødkraft- og nødbelysningskilder.Styrehus og bestikklugar.Rom som inneholder skipets radioutstyr.Brannkontrollstasjoner.Kontrollrom for framdriftsmaskineriet når dette ligger utenfor maskinrommet.Rom som inneholder sentralisert brannalarmutstyr.KorridorerKorridorer og vestibyler.Rom i innredningenRom som definert i regel 3 nr. 1, unntatt korridorer.TrapperInnvendige trapper, heiser, helt innelukkede rømningssjakter til bruk i nødssituasjoner og rulletrapper (unntatt de som i sin helhet ligger inne i maskinrom) og innbygninger til slike. I denne forbindelse skal en trapp som er innelukket bare på ett nivå, anses som en del av det rommet som den ikke er atskilt fra ved en branndør.Arbeidsrom (liten brannfare)Skap og lagerrom som ikke er innrettet for oppbevaring av brannfarlige væsker, og som har et areal på mindre enn 4 m2, samt tørkerom og vaskerom.Maskinrom av kategori ARom som definert i regel 3 nr. 31.Andre maskinromRom med elektrisk utstyr (rom med automatisk telefonsentral, rom med luftkondisjoneringskanaler).Rom som definert i regel 3 nr. 30, unntatt maskinrom av kategori A.LasteromAlle rom som brukes til last (herunder oljelasttanker) og sjakter og lukeåpninger til slike rom.Arbeidsrom (stor brannfare)Bysser, pentrier med kokeredskaper, badstuer, malingsskap og lagerrom med areal på 4 m2 eller mer, rom til oppbevaring av brannfarlige væsker og andre verksteder enn de som utgjør en del av maskinrommene.Åpne dekkÅpne plasser på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger.Luftrom (rommet utenfor overbygninger og dekkshus).Roro-rom og kjøretøyromRoro-rom som definert i regel 3 nr. 41.Kjøretøyrom som definert i regel 3 nr. 49.
+
+Gjennomgående himlinger eller kledning i klasse «B» i tilknytning til de aktuelle dekkene eller skottene kan godtas som helt eller delvis bidrag til den påkrevde isolasjonen og brannmotstanden for et skille.
+
+Utvendige avgrensninger som etter regel 11 nr. 2 skal være av stål eller annet tilsvarende materiale, kan gjennomskjæres for montering av vinduer og lysventiler, forutsatt at det ikke kreves at slike avgrensninger på lasteskip skal ha brannmotstand i klasse «A». Tilsvarende kan dører i slike avgrensninger som ikke kreves å ha brannmotstand i klasse «A», være laget av materialer som vurderes som tilfredsstillende av administrasjonen.
+
+Badstuer skal være i samsvar med nr. 2.2.3.4.
+
+Trapper som går gjennom bare ett enkelt dekk, skal som et minstekrav være beskyttet på ett nivå med minst skiller i klasse «B-0» og selvlukkende dører. Heiser som går gjennom bare ett enkelt dekk, skal være omgitt av skiller i klasse «A-0» med ståldører på begge nivåer. Trapper og heissjakter som går gjennom mer enn ett enkelt dekk, skal være omgitt av minst skiller i klasse «A-0» og være beskyttet med selvlukkende dører på alle nivåer.
+
+På skip som har innredning for 12 personer eller færre, der trapper går gjennom mer enn ett enkelt dekk, og der det finnes minst to rømningsveier direkte til åpent dekk på hvert innredningsplan, kan kravene om «A-0» i nr. 2.3.4.1 reduseres til «B-0».*Tabell 9.5 – Brannmotstand for skott som skiller tilstøtende rom**Rom**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)*Kontrollstasjoner (1)A-0eA-0A-60A-0A-15A-60A-15A-60A-60*A-60Korridorer (2)CB-0B-0 A-0cB-0A-60A-0A-0A-0*A-30Rom i innredningen (3)Ca bB-0 A-0cB-0A-60A-0A-0A-0*A-30Trapper (4)B-0 A-0cB-0 A-0cA-60A-0A-0A-0*A-30Arbeidsrom (liten brannfare) (5)CA-60A-0A-0A-0*A-0Maskinrom av kategori A (6)*A-0A-0gA-60*A-60fAndre maskinrom (7)A-0dA-0A-0*A-0Lasterom (8)*A-0*A-0Arbeidsrom (stor brannfare) (9)A-0d*A-30Åpne dekk (10)–A-0Roro-rom og kjøretøyrom (11)A-30j *Tabell 9.6 – Brannmotstand for dekk som skiller tilstøtende rom**Rom under ↓ Rom over →**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)**(11)*Kontrollstasjoner (1)-0A-0A-0A-0A-0A-60A-0A-0A-0*A-6Korridorer (2)A-0**A0*A-60A-0A-0A-0*A-30Rom i innredningen (3)A-60A-0*A-0*A-60A-0A-0A-0*A-30Trapper (4)A-0A-0A-0*A-0A-60A-0A-0A-0*A-30Arbeidsrom (liten brannfare) (5)A-15A-0A-0A-0*A-60A-0A-0A-0*A-0Maskinrom av kategori A (6)A-60A-60A-60A-60A-60*A-60iA-30A-60*A-60Andre maskinrom (7)A-15A-0A-0A-0A-0A-0*A-0A-0*A-0Lasterom (8)A-60A-0A-0A-0A-0A-0A-0*A-0*A-0Arbeidsrom (stor brannfare) (9)A-60A-0A-0A-0A-0A-60A-0A-0A-0d/*A-30Åpne dekk (10)*********–A-0jRoro-rom og kjøretøyrom (11)A-60A-30A-30A-30A-0A-60A-0A-0A-30A-0jA-30j
+
+*Merknader*: Gjelder for tabell 9.5 og 9.6, avhengig av hva som er aktuelt.
+
+For tankskip skal bare metode IC som definert i nr. 2.3.1.1, brukes.
+
+I stedet for nr. 2.3 og i tillegg til å være i samsvar med de særskilte bestemmelsene om brannmotstand for skott og dekk på tankskip skal alle skott og dekk ha en minste brannmotstand som fastsatt i tabell 9.7 og 9.8.
+
+Følgende krav skal gjelde ved anvendelse av tabellene:.1 Tabell 9.7 og 9.8 får anvendelse på henholdsvis skott og dekk som skiller tilstøtende rom..2 Ved bestemmelse av hvilken brannmotstand som skal anvendes på skiller mellom tilstøtende rom, blir slike rom klassifisert etter sin brannfare som vist i kategori (1) til (10) nedenfor. Når innholdet og bruken av et rom er slik at det oppstår tvil om hvordan det skal klassifiseres i henhold til denne regelen, eller når det er mulig å plassere et rom i to eller flere kategorier, skal det behandles som et rom i den aktuelle kategorien som har de strengeste avgrensningskravene Mindre, innelukkede områder som ligger inne i et rom, og som har mindre enn 30 % åpninger til dette rommet, betraktes som atskilte områder. Brannmotstanden i avgrensningsskottene og dekkene i slike mindre rom skal være som fastsatt i tabell 9.7 og 9.8. Overskriften for hver kategori er ment å være typisk og ikke innskrenkende. Tallet i parentes foran hver kategori viser til den aktuelle kolonnen eller raden i tabellene.KontrollstasjonerRom som inneholder nødkraft- og nødbelysningskilder.Styrehus og bestikklugar.Rom som inneholder skipets radioutstyr.Brannkontrollstasjoner.Kontrollrom for framdriftsmaskineriet når dette ligger utenfor maskinrommet.Rom som inneholder sentralisert brannalarmutstyr.KorridorerKorridorer og vestibyler.Rom i innredningenRom som definert i regel 3 nr. 1, unntatt korridorer.TrapperInnvendige trapper, heiser, helt innelukkede rømningssjakter til bruk i nødssituasjoner og rulletrapper (unntatt de som i sin helhet ligger inne i maskinrom) og innbygninger til slike.I denne forbindelse skal en trapp som er innelukket bare på ett nivå, anses som en del av det rommet som den ikke er atskilt fra ved en branndør.Arbeidsrom (liten brannfare)Skap og lagerrom som ikke er innrettet for oppbevaring av brannfarlige væsker, og som har et areal på mindre enn 4 m2, samt tørkerom og vaskerom.Maskinrom av kategori ARom som definert i regel 3 nr. 31.Andre maskinromRom med elektrisk utstyr (rom med automatisk telefonsentral og rom med luftkondisjoneringskanaler).Rom som definert i regel 3 nr. 30, unntatt maskinrom av kategori A.LastepumperomRom som inneholder lastepumper og innganger og sjakter til slike rom.Arbeidsrom (stor brannfare)Bysser, pentrier med kokeredskaper, badstuer, malingsskap og lagerrom med areal på minst 4 m2, rom til oppbevaring av brannfarlige væsker og andre verksteder enn de som utgjør en del av maskinrommene.Åpne dekkÅpne plasser på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger.Luftrom (rommet utenfor overbygninger og dekkshus).
+
+Gjennomgående himlinger eller kledning i klasse «B» i tilknytning til de aktuelle dekkene eller skottene kan godtas som helt eller delvis bidrag til den påkrevde isolasjonen og brannmotstanden for et skille.
+
+Utvendige avgrensninger som etter regel 11 nr. 2 skal være av stål eller annet tilsvarende materiale, kan gjennomskjæres for montering av vinduer og lysventiler, forutsatt at det ikke kreves at slike avgrensninger på lasteskip skal ha brannmotstand i klasse «A». Tilsvarende kan dører i slike avgrensninger som ikke kreves å ha brannmotstand i klasse «A», være laget av materialer som vurderes som tilfredsstillende av administrasjonen.
+
+Utvendige avgrensninger av overbygninger og dekkshus som omgir innredning, og som omfatter overhengende dekk som bærer slik innredning, skal være laget av stål og være isolert til «A-60»-standard over hele den delen som vender mot lasteområdet og på yttersidene i en avstand av 3 m fra endeavgrensningen som vender mot lasteområdet. Avstanden på 3 m skal måles horisontalt og parallelt med skipets midtlinje fra avgrensningen som vender mot lasteområdet på hvert dekksnivå. Når det gjelder sidene på disse overbygningene og dekkshusene, skal slik isolasjon være ført opp til undersiden av kommandobroens dekk.
+
+Takvinduer i lastepumperom skal være av stål, skal ikke inneholde glass og skal kunne lukkes fra utsiden av pumperommet.
+
+Konstruksjon og arrangement av badstuer skal være i samsvar med nr. 2.2.3.4.*Tabell 9.7 – Brannmotstand for skott som skiller tilstøtende rom**Rom**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)*Kontrollstasjoner (1)A-0cA-0A-60A-0A-15A-60A-15A-60A-60*Korridorer (2)CB-0B-0 A-0aB-0A-60A-0A-60A-0*Rom i innredningen (3)CB-0 A-0aB-0A-60A-0A-60A-0*Trapper (4)B-0 A-0aB-0 A-0aA-60A-0A-60A-0*Arbeidsrom (liten brannfare) (5)CA-60A-0A-60A-0*Maskinrom av kategori A (6)*A-0A-0dA-60*Andre maskinrom (7)A-0bA-0A-0*Lastepumperom (8)*A-60*Arbeidsrom (stor brannfare) (9)A-0b*Åpne dekk (10)– *Tabell 9.8 – Brannmotstand for dekk som skiller tilstøtende rom**Rom under ↓ Rom over →**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)*Kontrollstasjoner (1)A-0A-0A-0A-0A-0A-60A-0–A-0*Korridorer (2)A-0**A-0*A-60A-0–A-0*Rom i innredningen (3)A-60A-0*A-0*A-60A-0–A-0*Trapper (4)A-0A-0A-0*A-0A-60A-0–-0*Arbeidsrom (liten brannfare) (5)A-15A-0A-0A-0*A-60A-0–A-0*Maskinrom av kategori A (6)A-60A-60A-60A-60A-60*A-60eA-0A-60*Andre maskinrom (7)A-15A-0A-0A-0A-0A-0*A-0A-0*Lastepumperom (8)–––––A-0dA-0*–*Arbeidsrom (stor brannfare) (9)A-60A-0A-0A-0A-0A-60A-0–A-0b*Åpne dekk (10)*********–
+
+*Merknader*: Gjelder for tabell 9.7 og 9.8, avhengig av hva som er aktuelt.
+
+### 3 Gjennomføringer i brannsikre skiller og hindring av varmeoverføring
+
+Når det er laget en gjennomføring i skiller i klasse «A», skal slike gjennomføringer prøves i samsvar med FTP-koden, med forbehold for bestemmelsene i nr. 4.1.1.5. Når det gjelder ventilasjonskanaler, får nr. 7.1.2 og 7.3.1 anvendelse. Når en rørgjennomføring er laget av stål eller tilsvarende materiale med en tykkelse på minst 3 mm og en lengde på minst 900 mm (helst 450 mm på hver side av skillet) og ingen åpninger, er prøving likevel ikke nødvendig. Slike gjennomføringer skal være hensiktsmessig isolert ved en forlengelse av isolasjonen på samme nivå i skillet.
+
+Når det er laget en gjennomføring i skiller i klasse «B» for framføring av elektriske ledninger, rør, sjakter, kanaler osv., eller for montering av ventilasjonsutstyr, lysarmatur og lignende innretninger, skal det treffes tiltak for å sikre at brannmotstanden ikke svekkes, med forbehold for bestemmelsene i nr. 7.3.2. Andre rør enn stål- eller kobberrør som er ført gjennom skiller i klasse «B», skal være beskyttet med enten.1 en brannprøvd gjennomføringsinnretning, egnet for brannmotstanden i det skillet som er gjennomskåret og den rørtypen som er brukt, eller.2 en stålhylse med en tykkelse på minst 1,8 mm og en lengde på minst 900 mm for rørdiametre på 150 mm eller mer og minst 600 mm for rørdiametre på mindre enn 150 mm (helst likt fordelt på hver side av skillet). Røret skal koples til endene av hylsen med flenser eller koplinger, eller klaringen mellom hylsen og røret skal ikke være mer enn 2,5 mm eller enhver klaring mellom rør og hylse skal gjøres tett ved hjelp av ikke-brennbart eller annet egnet materiale.
+
+Uisolerte metallrør som er ført gjennom skiller i klasse «A» eller «B», skal være laget av materialer med smeltetemperatur på mer enn 950 °C for skiller i klasse «A-0» og 850 °C for skiller i klasse «B-0».
+
+Ved godkjenning av konstruksjonsmessige brannverndetaljer skal administrasjonen ta hensyn til risikoen for varmeoverføring i skjæringspunkter og endepunkter for påkrevde termiske barrierer. Isolasjonen av et dekk eller skott skal føres forbi gjennomføringen, skjæringspunktet eller endepunktet i en avstand av minst 450 mm når det gjelder stål- og aluminiumkonstruksjoner. Hvis et rom er delt med et dekk eller et skott av klasse «A»-standard med isolasjon av ulike verdier, skal isolasjonen med den høyeste verdien fortsette på dekket eller skottet med isolasjonen med den laveste verdien i en avstand av minst 450 mm.
+
+### 4 Beskyttelse av åpninger i brannsikre skiller
+
+Åpninger i skiller i klasse «A»
+
+Med unntak av luker mellom lasterom, spesiallasterom, lagerrom og bagasjerom, og mellom slike rom og værdekket, skal åpninger være utstyrt med permanent festede lukkemidler som skal være minst like effektive til å motstå brann som skillene de er montert i.
+
+Alle dører og dørkarmer i skiller i klasse «A» og innretningene til å sikre dem når de er lukket, skal være bygget med en motstandsdyktighet mot brann og mot inntrenging av røyk og flammer som er like effektiv som for de skottene som dørene er plassert i, som bestemt i samsvar med FTP-koden. Slike dører og dørkarmer skal være bygget av stål eller annet tilsvarende materiale. Dører som er godkjent uten at karmen er en del av rammen, og som er montert 1. juli 2010 eller senere, skal monteres slik at åpningen under døren ikke er større enn 12 mm. En ikke-brennbar karm skal monteres under døren slik at gulvbelegget ikke stikker ut under døren når den er lukket.
+
+Vanntette dører behøver ikke være isolert.
+
+Hver dør skal kunne åpnes og lukkes fra begge sider av skottet av én enkelt person.
+
+Branndører i skott i vertikale hovedsoner, bysseavgrensninger og trappehus, bortsett fra maskinelt betjente vanntette dører og dører som normalt er låst, skal oppfylle følgende krav:.1 dørene skal være selvlukkende og kunne lukkes med en krengningsvinkel på inntil 3,5° mot lukkeretningen.2 den tilnærmede lukketiden for hengslede branndører skal ikke være mer enn 40 sekunder og ikke mindre enn 10 sekunder fra de begynner å bevege seg med skipet på rett kjøl Den tilnærmede jevne lukkehastigheten for skyvedører skal ikke være mer enn 0,2 m/s og ikke mindre enn 0,1 m/s med skipet på rett kjøl.3 dørene, unntatt dører til rømningssjakter, skal kunne fjernutløses fra kontinuerlig bemannede sentrale kontrollstasjoner, enten samtidig eller i grupper, og skal også kunne fjernutløses enkeltvis fra et sted på begge sider av døren. Utløsningsbryterne skal ha en på/av-funksjon for å hindre at systemet tilbakestilles automatisk.4 kroker som holder dørene åpne, og som ikke kan utløses fra en sentral kontrollstasjon, er forbudt.5 en dør som lukkes med fjernbetjening fra den sentrale kontrollstasjonen, skal kunne åpnes igjen ved hjelp av lokal betjening fra begge sider av døren. Etter å ha vært åpnet lokalt, skal døren lukkes igjen automatisk.6 det må angis om hver dør er lukket på indikatorpanelet for branndører på den kontinuerlig bemannede kontrollstasjonen.7 utløserenheten skal være utformet slik at døren automatisk lukkes i tilfelle av feil i kontrollsystemet eller den sentrale kraftforsyningen.8 det skal finnes lokale energiakkumulatorer for maskinelt betjente dører i umiddelbar nærhet av dørene for å gjøre det mulig å betjene dørene minst ti ganger (helt åpne og helt lukket) etter feil i kontrollsystemet eller den sentrale kraftforsyningen ved bruk av de lokale betjeningsinnretningene.9 feil i kontrollsystemet eller den sentrale kraftforsyningen ved en dør skal ikke hindre at de andre dørene fungerer på en sikker måte.10 fjernutløste skyvedører eller maskinelt betjente dører skal være utstyrt med en alarm som lyder i minst 5 sekunder, men ikke i mer enn 10 sekunder, etter at døren er utløst fra den sentrale kontrollstasjonen og før døren begynner å bevege seg, og fortsetter å lyde til døren er helt lukket.11 en dør som er utformet for å åpne seg igjen ved kontakt med en gjenstand i veien, skal åpne seg igjen, men ikke mer enn 1 m fra kontaktstedet.12 dobbelte pendeldører utstyrt med en smekklås som er nødvendig for brannmotstanden, skal ha en smekklås som virker automatisk ved betjening av dørene når de utløses av systemet.13 dører som gir direkte atkomst til spesiallasterom, og som er maskinelt betjent og lukkes automatisk, behøver ikke være utstyrt med alarmer og fjernutløserenheter som fastsatt i nr. 4.1.1.4.3 og 4.1.1.4.10.14 komponentene i det lokale kontrollsystemet skal være tilgjengelige for vedlikehold og justering.15 maskinelt betjente dører skal være utstyrt med et kontrollsystem av godkjent type som skal kunne fungere i tilfelle av brann og være i samsvar med FTP-koden. Dette systemet skal oppfylle følgende krav:.15.1 kontrollsystemet skal kunne betjene døren ved en temperatur på minst 200 °C i minst 60 minutter, ved normal kraftforsyning.15.2 kraftforsyningen til alle andre dører som ikke er utsatt for brann, skal ikke påvirkes, og.15.3 ved temperaturer på mer enn 200 °C skal kontrollsystemet automatisk isoleres fra kraftforsyningen og skal kunne holde døren lukket inntil minst 945 °C.
+
+På skip som transporterer høyst 36 passasjerer, der et rom er beskyttet med et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg som er i samsvar med bestemmelsene i FSS-koden, eller er utstyrt med en gjennomgående himling i klasse «B», skal åpninger i dekk som ikke danner trinn i vertikale hovedsoner, og som ikke grenser mot horisontale soner, være lukket rimelig tett, og slike dekk skal oppfylle kravene til brannmotstand i klasse «A» så langt administrasjonen mener dette er rimelig og praktisk mulig.
+
+Kravene til brannmotstand i klasse «A» for et skips ytre avgrensninger får ikke anvendelse på skillevegger av glass, vinduer og lysventiler, forutsatt at det ikke finnes noe krav om at slike avgrensninger skal ha brannmotstand i klasse «A» i nr. 4.1.3.3. Kravene til brannmotstand i klasse «A» for skipets ytre avgrensninger får ikke anvendelse på utvendige dører, bortsett fra utvendige dører i overbygning og dekkshus som vender ut mot redningsredskaper, innskipningsstasjoner og utvendige mønstringsstasjoner, utvendige trapper og åpne dekk som benyttes som rømningsveier. Dører i trappehus trenger ikke oppfylle dette kravet.
+
+Bortsett fra når det gjelder vanntette dører, værtette dører (delvis vanntette dører), dører som fører til åpent dekk, og dører som må være rimelig gasstette, skal alle dører i klasse «A» i trappehus, fellesrom og skott i vertikale hovedsoner i rømningsveier være utstyrt med en selvlukkende slangeåpning med materiale, konstruksjon og brannmotstand som er likeverdig med døren den er montert i, og skal ha en fri åpning på 150 mm2 med døren lukket og være innfelt i dørens nedre kant, på motsatt side av dørhengslene, eller når det gjelder skyvedører, nærmest åpningen.
+
+Når det er nødvendig at en ventilasjonskanal går gjennom et skille i en vertikal hovedsone, skal det være montert et feilsikkert brannspjeld med automatisk lukking inntil skillet. Spjeldet skal også kunne lukkes manuelt fra begge sider av skillet. Betjeningsstedet skal være lett tilgjengelig og merket med rød, lysreflekterende farge. Kanalen mellom skillet og spjeldet skal være av stål eller annet tilsvarende materiale og om nødvendig være isolert i samsvar med kravene i nr. 3.1. Spjeldet skal på minst én side av skillet være utstyrt med en synlig indikator som viser om spjeldet er åpent.
+
+Dører og dørkarmer i skiller i klasse «B» og lukkeinnretningene deres skal gi en lukkemetode som er like motstandsdyktig mot brann som skillene, som bestemt i samsvar med FTP-koden, med det unntak at ventilasjonsåpninger kan tillates i den nedre delen av slike dører. Når det er slike åpninger i eller under en dør, skal det samlede nettoarealet av enhver slik åpning eller åpninger ikke være større enn 0,05 m2. Som et alternativ er det tillatt med en ikke-brennbar ventilasjonskanal mellom lugaren og korridoren, plassert under sanitærenheten, når kanalens tverrsnittsareal ikke er større enn 0,05 m2. Alle ventilasjonsåpninger skal være utstyrt med en rist av ikke-brennbart materiale. Dører skal være ikke-brennbare. Dører som er godkjent uten at karmen er en del av rammen, og som er montert 1. juli 2010 eller senere, skal monteres slik at åpningen under døren ikke er større enn 25 mm.
+
+Lugardører i skiller i klasse «B» skal være av selvlukkende type. Kroker som holder dørene åpne, er ikke tillatt.
+
+Kravene til brannmotstand i klasse «B» for et skips ytre avgrensninger får ikke anvendelse på skillevegger av glass, vinduer og lysventiler. Likeledes får kravene til brannmotstand i klasse «B» ikke anvendelse på utvendige dører i overbygninger og dekkshus. For skip som transporterer høyst 36 passasjerer, kan administrasjonen tillate bruk av brennbare materialer i dører som skiller lugarer fra de enkelte innvendige sanitærrom, f.eks. dusjer.
+
+På skip som transporterer høyst 36 passasjerer, der det er montert et automatisk sprinkleranlegg som er i samsvar med bestemmelsene i FSS-koden.1 skal åpninger i dekk som ikke danner trinn i vertikale hovedsoner og ikke avgrenser horisontale soner, være lukket rimelig tett, og slike dekk skal oppfylle kravene til brannmotstand i klasse «B» så langt administrasjonen mener dette er rimelig og praktisk mulig, og.2 skal åpninger i korridorskott av klasse «B»-materialer være beskyttet i samsvar med bestemmelsene i nr. 2.2.2.
+
+Vinduer og lysventiler i skott i rom i innredningen, arbeidsrom og kontrollstasjoner, med unntak av de som er omfattet av bestemmelsene i nr. 4.1.1.6 og 4.1.2.3, skal være laget slik at de oppfyller kravene til brannmotstand for den typen skott de er montert i, som bestemt i samsvar med FTP-koden.
+
+Uten hensyn til kravene i tabell 9.1 og 9.4, skal vinduer og lysventiler i skott som skiller rom i innredningen, arbeidsrom og kontrollstasjoner fra friluft, være laget med rammer av stål eller annet egnet materiale. Glasset skal være montert i metallramme eller -vinkel.
+
+Vinduer som vender mot redningsredskaper, innskipningsstasjoner og mønstringsstasjoner, utvendige trapper og åpne dekk som brukes som rømningsveier, og vinduer under innskipningsområder for redningsflåter og evakueringssklier skal ha brannmotstand som fastsatt i tabell 9.1. Når det finnes automatiske, egne sprinklerhoder for vinduer, kan «A-0»-vinduer godtas som likeverdige. For å bli omfattet av dette nummer må sprinklerhodene enten være.1 egne sprinklerhoder plassert over vinduene og installert i tillegg til de vanlige taksprinklerne, eller.2 vanlige taksprinklerhoder montert slik at vinduet er beskyttet med en gjennomsnittlig dosering på minst 5 liter/m2 per minutt, og det ekstra vindusarealet er tatt med i beregningen av dekningsområdet, eller.3 vanntåkedyser som er prøvd og godkjent i samsvar med retningslinjene godkjent av organisasjonen28.
+
+Vinduer plassert i skipssiden under innskipingsområdene for livbåter, skal ha en brannmotstand som minst tilsvarer klasse «A-0».
+
+Uten hensyn til kravet i nr. 4.1.3.3 skal kravene i nr. 4.1.3.5 og 4.1.3.6 gjelde for skip bygget 1. januar 2020 eller senere.
+
+På skip som transporterer mer enn 36 passasjerer, skal vinduer som vender mot redningsfarkoster, innskipingsstasjoner og mønstringsstasjoner, utvendige trapper og åpne dekk som brukes som rømningsveier, og vinduer under innskipingsområder for redningsflåter og evakueringssklier, ha brannmotstand som fastsatt i tabell 9.1. Dersom det finnes automatiske, egne sprinklerhoder for vinduer, kan «A-0»-vinduer godtas som likeverdige. For å bli omfattet av dette nummeret må sprinklerhodene enten være.1 egne sprinklerhoder plassert over vinduene og installert i tillegg til de vanlige taksprinklerne, eller.2 vanlige taksprinklerhoder montert slik at vinduet er beskyttet med en gjennomsnittlig dosering på minst 5 l/m2 per minutt per kvadratmeter, og det ekstra vindusarealet er tatt med i beregningen av dekningsområdet, eller.3 vanntåkedyser som er prøvd og godkjent i samsvar med retningslinjene godkjent av organisasjonen29, og
+
+Vinduer plassert i skipssiden under innskipingsområdene for livbåter, skal ha en brannmotstand som minst tilsvarer klasse «A-0».
+
+På skip som transporterer høyst 36 passasjerer, skal vinduer som vender mot redningsfarkoster og evakueringssklier, innskipingsområder og vinduer under slike områder, ha en brannmotstand som minst tilsvarer klasse «A-0».
+
+Brannmotstanden i dører skal være likeverdig med brannmotstanden for skillet de er montert i, som bestemt i samsvar med FTP-koden. Dører som er godkjent som klasse «A» uten at karmen er en del av rammen, og som er montert 1. juli 2010 eller senere, skal monteres slik at åpningen under døren ikke er større enn 12 mm, og en ikke-brennbar karm skal monteres under døren slik at gulvbelegget ikke stikker ut under døren når den er lukket. Dører som er godkjent som klasse «B» uten at karmen er en del av rammen, og som er montert 1. juli 2010 eller senere, skal monteres slik at åpningen under døren ikke er større enn 25 mm. Dører og dørkarmer i skiller i klasse «A» skal være av stål. Dører i skiller i klasse «B» skal være ikke-brennbare. Dører montert i avgrensningsskott i maskinrom av kategori A skal være rimelig gasstette og selvlukkende. For skip bygget i samsvar med metode IC kan administrasjonen tillate bruk av brennbare materialer i dører som skiller lugarer fra de enkelte innvendige sanitærrom, f.eks. dusjer.
+
+Dører som kreves å være selvlukkende, skal ikke være utstyrt med kroker som kan holde dem åpne. Arrangementer som holder dem åpne, utstyrt med feilsikringsinnretninger for fjernutløsning, kan likevel brukes.
+
+I korridorskott kan ventilasjonsåpninger tillates i og under dører til lugarer og fellesrom. Ventilasjonsåpninger er også tillatt i dører i klasse «B» som fører til toaletter, kontorer, pentrier, skap og lagerrom. Unntatt som tillatt nedenfor, skal åpningene være montert bare i den nedre halvdelen av en dør. Når en slik åpning er i eller under en dør, skal det samlede nettoarealet av enhver slik åpning eller åpninger ikke være større enn 0,05 m2. Som et alternativ er det tillatt med en ikke-brennbar ventilasjonskanal mellom lugaren og korridoren, plassert under sanitærenheten, når kanalens tverrsnittsareal ikke er større enn 0,05 m2. Ventilasjonsåpninger, unntatt de som er under døren, skal være utstyrt med en rist av ikke-brennbart materiale.
+
+Vanntette dører behøver ikke være isolert.
+
+### 5 Beskyttelse av åpninger i avgrensninger av maskinrom
+
+Bestemmelsene i dette nummer får anvendelse på maskinrom av kategori A og, når administrasjonen mener det er ønskelig, på andre maskinrom.
+
+Antall takvinduer, dører, ventilatorer, åpninger i skorsteiner for avtrekksventilasjon og andre åpninger til maskinrom skal reduseres til det minstemålet som er forenlig med behovet for ventilasjon og riktig og sikker drift av skipet.
+
+Takvinduer skal være av stål og skal ikke inneholde glassfelt.
+
+Det skal finnes betjeningsinnretninger til å lukke maskinelt betjente dører eller aktivere utløsermekanismer på andre dører enn maskinelt betjente vanntette dører. Betjeningsinnretningene skal være plassert utenfor det aktuelle rommet, slik at de ikke vil bli satt ut av drift i tilfelle av brann i rommet de betjener.
+
+På passasjerskip skal betjeningsinnretningene fastsatt i nr. 5.2.3, være plassert på ett betjeningssted eller gruppert på så få steder som mulig, og skal vurderes som tilfredsstillende av administrasjonen. Slike steder skal ha sikker atkomst fra åpent dekk.
+
+På passasjerskip skal andre dører enn maskinelt betjente vanntette dører være slik innrettet at aktiv stenging er sikret i tilfelle av brann i rommet, ved hjelp av mekaniske lukkearrangementer eller selvlukkende dører som kan lukkes mot en helling på 3,5° mot lukkeretningen, og som har et feilsikkert holdearrangement med fjernutløsning. Dører til rømningssjakter behøver ikke være utstyrt med et feilsikkert holdearrangement og fjernutløsning.
+
+Vinduer skal ikke monteres i avgrensninger av maskinrom. Dette utelukker likevel ikke bruk av glass i kontrollrom inne i maskinrom.
+
+### 6 Beskyttelse av avgrensninger av lasterom
+
+På passasjerskip skal det finnes indikatorer på kommandobroen som angir når en branndør som fører til eller fra spesiallasterommene, er lukket.
+
+På tankskip skal det til beskyttelse av lastetanker som transporterer råolje og petroleumsprodukter med flammepunkt på høyst 60 °C, ikke brukes materialer som raskt blir ubrukbare av varme, til ventiler, koplinger, deksler til tankåpninger, rør for ventilasjon av last og lasterøropplegg, for å hindre spredning av brann til lasten.
+
+### 7 Ventilasjonssystemer
+
+(Dette nummer får anvendelse på skip bygget 1. januar 2016 eller senere)
+
+Ventilasjonskanaler, inkludert kanaler med enkle og doble vegger, skal være av stål eller likeverdig materiale, unntatt fleksible belger av kort lengde som ikke overstiger 600 mm og som brukes for å forbinde vifter til ventilasjonskanaler i klimaanleggrom. Med mindre annet er uttrykkelig fastsatt i nr. 7.1.6, skal ethvert annet materiale som brukes i konstruksjonen av kanaler, inkludert isolasjon, også være ikke-brennbart. Korte kanallengder som i alminnelighet ikke er mer enn to meter lange og med ikke mer enn 0,02 m2 i fritt tverrsnittsareal32, behøver likevel ikke være av stål eller likeverdig materiale, forutsatt at følgende vilkår er oppfylt:.1 kanalene skal være laget av ikke-brennbart materiale, som kan kles innvendig og utvendig med membraner med lav flammespredningsevne og, i hvert enkelt tilfelle, en brennverdi33 på høyst 45 MJ/m2 av grunnarealet for tykkelsen som anvendes.2 kanalene brukes bare i enden av ventilasjonsinnretningen, og.3 kanalene er ikke plassert nærmere enn 600 mm, målt i kanalens lengderetning, fra en åpning i et skille i klasse «A» eller «B», herunder en gjennomgående himling i klasse «B».
+
+Følgende arrangementer skal prøves i samsvar med FTP-koden:.1 brannspjeld, herunder relevante betjeningsmidler, men slik prøving er ikke påkrevd for spjeld som er plassert ved kanalens nedre ende i avtrekkskanaler fra komfyrer i byssen, som må være av stål og i stand til å stoppe trekken i kanalen, og.2 kanalgjennomføringer gjennom skiller i klasse «A». Når stålhylser er direkte sammenføyd med ventilasjonskanaler ved hjelp av naglede eller påskrudde flenser eller ved sveising, er slik prøving likevel ikke nødvendig.
+
+Brannspjeld skal være lett tilgjengelige. Når de er plassert bak himlinger eller kledning, skal slike himlinger eller slik kledning være utstyrt med en inspeksjonsluke der brannspjeldets identifikasjonsnummer er markert. Brannspjeldets identifikasjonsnummer skal også være markert på eventuelle fjernstyringsinnretninger.
+
+Ventilasjonskanaler skal være utstyrt med luker for inspeksjon og rengjøring. Lukene skal være plassert nær brannspjeldet.
+
+Hovedinntakene og -utløpene til ventilasjonssystemer skal kunne stenges fra utsiden av rommene som ventileres. Stengemidlene skal være lett tilgjengelige samt tydelig og permanent merket, og skal angi stengeinnretningens betjeningsposisjon.
+
+Brennbare pakninger i flensforbindelser i ventilasjonskanaler er ikke tillatt innenfor 600 mm av åpninger i skiller i klasse «A» eller «B» og i kanaler som skal være av klasse «A»-konstruksjon.
+
+Det skal ikke finnes ventilasjonsåpninger eller ventilasjonskanaler mellom to lukkede rom, med mindre det er tillatt etter nr. 4.1.2.1 og 4.2.3.
+
+Ventilasjonssystemene for maskinrom av kategori A, kjøretøyrom, roro-rom, bysser, spesiallasterom og lasterom skal vanligvis være atskilt fra hverandre og fra ventilasjonssystemene som betjener andre rom. Ventilasjonssystemene for bysser på lasteskip med bruttotonnasje under 4000 og på passasjerskip som fører høyst 36 passasjerer, trenger likevel ikke være helt atskilt fra andre ventilasjonssystemer, men kan betjenes av separate kanaler fra en ventilasjonsenhet som betjener andre rom. I et slikt tilfelle skal det være montert et automatisk brannspjeld i ventilasjonskanalen for byssa nær ventilasjonsenheten.
+
+Kanaler for ventilasjon av maskinrom av kategori A, bysser, kjøretøyrom, roro-rom eller spesiallasterom skal ikke gå gjennom rom i innredningen, arbeidsrom eller kontrollstasjoner med mindre de er i samsvar med nr. 7.2.4.
+
+Kanaler for ventilasjon av rom i innredningen, arbeidsrom eller kontrollstasjoner skal ikke gå gjennom maskinrom av kategori A, bysser, kjøretøyrom, roro-rom eller spesiallasterom med mindre de er i samsvar med nr. 7.2.4.
+
+I tilfellene tillatt etter nr. 7.2.2 og 7.2.3 skal kanalene enten.1.1 være laget av stål med en tykkelse på minst 3 mm for kanaler med et fritt tverrsnittsareal på mindre enn 0,075 m2, minst 4 mm for kanaler med et fritt tverrsnittsareal på mellom 0,075 m2 og 0,45 m2, og minst 5 mm for kanaler med et fritt tverrsnittsareal på mer enn 0,45 m2.1.2 ha hensiktsmessig støtte og avstiving.1.3 være utstyrt med automatiske brannspjeld nær avgrensningene de går gjennom, og.1.4 være isolert etter klasse «A-60»-standard fra avgrensningene til rommene de betjener, til et punkt minst 5 meter fra hvert brannspjeldeller.2.1 være laget av stål i samsvar med nr. 7.2.4.1.1 og 7.2.4.1.2, og.2.2 være isolert etter klasse «A-60»-standard hele veien gjennom rommene de går gjennom, unntatt for kanaler som går gjennom rom i kategori (9) eller (10) som definert i nr. 2.2.3.2.2.
+
+Med hensyn til nr. 7.2.4.1.4 og 7.2.4.2.2 skal kanaler være isolert over hele deres utvendige tverrsnittsareal. Kanaler som er på utsiden av, men tilstøter det spesifiserte rommet, og deler én eller flere overflater med det, skal anses som om de går gjennom det spesifiserte rommet, og skal være isolert over overflaten som de deler med rommet, i en avstand på 450 mm forbi kanalen34.
+
+Når det er nødvendig at en ventilasjonskanal går gjennom et skille i en vertikal hovedsone, skal det være montert et automatisk brannspjeld inntil skillet. Spjeldet skal også kunne lukkes manuelt fra begge sider av skillet. Betjeningsstedet skal være lett tilgjengelig og skal være iøynefallende og tydelig merket. Kanalen mellom skillet og spjeldet skal være laget av stål i samsvar med nr. 7.2.4.1.1 og 7.2.4.1.2 og være isolert til minst samme brannmotstand som skillet som kanalen går gjennom. Spjeldet skal på minst én side av skillet være utstyrt med en synlig indikator som viser spjeldets betjeningsposisjon.
+
+Kanaler som går gjennom skiller i klasse «A», skal oppfylle følgende krav:.1 når en kanal som er belagt med en tynn plate og har et fritt tverrsnittsareal på 0,02 m2 eller mindre, går gjennom skiller i klasse «A», skal åpningen være utstyrt med en stålplatehylse med en tykkelse på minst 3 mm og en lengde på minst 200 mm, helst fordelt med 100 mm på hver side av et skott eller, når det gjelder dekk, lagt i sin helhet på undersiden av dekkene som kanalen går gjennom.2 når ventilasjonskanaler med fritt tverrsnittsareal på mer enn 0,02 m2, men ikke mer enn 0,075 m2, går gjennom skiller i klasse «A», skal åpningene være fôret med stålplatehylser. Kanalene og hylsene skal ha en tykkelse på minst 3 mm og en lengde på minst 900 mm. Når de går gjennom skott, skal denne lengden helst fordeles med 450 mm på hver side av skottet. Disse kanalene, eller hylser som fôrer slike kanaler, skal være utstyrt med brannisolasjon. Isolasjonen skal ha minst samme brannmotstand som skillet som kanalen går gjennom, og.3 automatiske brannspjeld skal være montert i alle kanaler med fritt tverrsnittsareal på mer enn 0,075 m2 som går gjennom skiller i klasse «A». Hvert spjeld skal være montert nær skillet som kanalen går gjennom, og kanalen mellom spjeldet og skillet som den går gjennom, skal være bygget av stål i samsvar med nr. 7.2.4.2.1 og 7.2.4.2.2. Brannspjeldet skal fungere automatisk, men skal også kunne lukkes manuelt fra begge sider av skillet. Spjeldet skal være utstyrt med en synlig indikator som viser spjeldets betjeningsposisjon. Brannspjeld kreves likevel ikke der kanaler går gjennom rom omgitt av skiller i klasse «A», uten å betjene disse rommene, forutsatt at kanalene har samme brannmotstand som skillene de går gjennom. En kanal med tverrsnittsareal på mer enn 0,075 m2 skal ikke deles opp i mindre kanaler ved gjennomføringen i et skille i klasse «A» og deretter kobles sammen igjen til den originale kanalen når de er gjennom skillet, for å unngå å installere spjeldet som kreves etter denne bestemmelsen.
+
+Ventilasjonskanaler med fritt tverrsnittsareal på mer enn 0,02 m2 som går gjennom skott i klasse «B», skal være fôret med stålplatehylser med en lengde på 900 mm, helst fordelt med 450 mm på hver side av skottet, med mindre kanalen er av stål i denne lengden.
+
+Alle brannspjeld skal kunne betjenes manuelt. Spjeldene skal ha en mekanisk innretning for direkte utløsning, eller skal alternativt kunne lukkes elektrisk, hydraulisk eller pneumatisk. Alle spjeldene skal kunne betjenes manuelt fra begge sider av skillet. Automatiske brannspjeld, inkludert de som kan fjernstyres, skal ha en sviktsikringsmekanisme som vil lukke spjeldet i en brann selv ved tap av elektrisk kraft eller av hydraulisk eller pneumatisk trykk. Fjernstyrte brannspjeld skal kunne gjenåpnes manuelt ved brannspjeldet.
+
+I tillegg til kravene i nr. 7.1, 7.2 og 7.3, skal ventilasjonssystemet på et passasjerskip som fører mer enn 36 passasjerer, også oppfylle følgende krav.
+
+Ventilasjonsviftene skal generelt være arrangert slik at kanalene som går til de forskjellige rommene, er innenfor en vertikal hovedsone.
+
+Trappehus skal være betjent av et uavhengig vifte- og kanalsystem (avtrekk og tilførsel) som ikke skal betjene noen andre rom i ventilasjonssystemene.
+
+En kanal, uavhengig av dens tverrsnitt, som betjener mer enn ett rom i innredningen, ett arbeidsrom eller én kontrollstasjon på et mellomdekk, skal utstyres, nær gjennomføringen i hvert dekk av slike rom, med et automatisk brannspjeld som også skal kunne lukkes manuelt fra det beskyttede dekket over spjeldet. Når en vifte betjener mer enn ett rom på et mellomdekk gjennom separate kanaler innenfor en vertikal hovedsone, og hver kanal er dedikert til ett enkelt rom på et mellomdekk, skal hver kanal utstyres med et manuelt betjent brannspjeld plassert nær viften.
+
+Vertikale kanaler skal, om nødvendig, isoleres slik det kreves etter tabell 9.1 og 9.2. Kanaler skal isoleres slik det kreves for dekk mellom rommet de betjener og det aktuelle rommet, etter hva som er relevant.
+
+I tillegg til kravene i nr. 7.1, 7.2 og 7.3, skal avtrekkskanaler fra komfyrer i bysser være bygget i samsvar med nr. 7.2.4.2.1 og 7.2.4.2.2 og være isolert etter klasse «A-60»-standard gjennom alle rom i innredningen, arbeidsrom eller kontrollstasjoner som de går gjennom. De skal også være utstyrt med.1 en fettfanger som lett kan fjernes for rengjøring, med mindre det er installert et alternativt, godkjent fettfjerningssystem.2 et brannspjeld som er automatisk og fjernstyrt, plassert i den nedre enden av kanalen ved overgangsstykket mellom kanalen og damphetten på komfyren i byssa, og i tillegg et fjernstyrt brannspjeld plassert i den øvre enden av kanalen nær kanalens utløp.3 en fastmontert innretning til brannslokking inne i kanalen35.4 fjernstyringsarrangementer til å stoppe avtrekksviftene og tilførselsviftene, til å betjene brannspjeldene nevnt i nr. 7.5.1.1.2 og til å betjene brannslokkingsanlegget, som skal være plassert på et sted utenfor byssa nær inngangen til denne. Når det er installert et system med flere forgreininger, skal det finnes en fjernstyringsinnretning, plassert sammen med ovennevnte betjeningsinnretninger, til å stenge alle forgreiningene som har avtrekk gjennom den samme hovedkanalen, før det slippes et slokkemiddel inn i systemet, og.5 inspeksjons- og rengjøringsluker med egnet plassering, inkludert én luke plassert nær avtrekksviften og én luke montert i den nedre enden der fett samler seg opp.
+
+Avtrekkskanaler fra komfyrer for kokeapparater som er installert på åpne dekk, skal være i samsvar med nr. 7.5.1.1, etter hva som er relevant, når de går gjennom rom i innredningen eller rom som inneholder brennbare materialer.
+
+Når de går gjennom rom i innredningen eller rom som inneholder brennbare materialer, skal avtrekkskanalene fra komfyrer i bysser være laget av skiller i klasse «A». Hver avtrekkskanal skal være utstyrt med.1 en fettfanger som lett kan fjernes for rengjøring.2 et automatisk og fjernstyrt brannspjeld, plassert i den nedre enden av kanalen ved overgangsstykket mellom kanalen og damphetten på komfyren i byssa, og i tillegg et fjernstyrt brannspjeld plassert i den øvre enden av kanalen nær kanalens utløp.3 arrangementer, som kan betjenes fra byssa, til å stoppe avtrekks- og tilførselsviftene, og.4 en fastmontert innretning til brannslokking inne i kanalen36.
+
+Når et ventilasjonsrom kun betjener et slikt tilstøtende maskinrom, og det ikke finnes et brannskille mellom ventilasjonsrommet og maskinrommet, skal innretningen for lukking av ventilasjonskanalen(e) som betjener maskinrommet, være plassert utenfor ventilasjonsrommet og maskinrommet.
+
+Når et ventilasjonsrom betjener et slikt maskinrom i tillegg til andre rom, og er atskilt fra maskinrommet av et skille i klasse «A-0», inkludert gjennomføringer, kan innretningen for lukking av ventilasjonskanalen(e) for maskinrommet være plassert i ventilasjonsrommet.
+
+Avtrekkskanaler fra vaskerier og tørkerom i kategori (13) som definert i nr. 2.2.3.2.2, skal være utstyrt med.1 filtre som lett kan fjernes for rengjøring.2 et brannspjeld som er automatisk og fjernstyrt, plassert i den nedre enden av kanalen.3 fjernstyringsarrangementer til å stoppe avtrekksviftene og tilførselsviftene fra inne i rommet og til å betjene brannspjeldet nevnt i nr. 7.7.2, og.4 inspeksjons- og rengjøringsluker med egnet plassering.
+
+### Regel 10 Brannslokking
+
+### 1 Formål
+
+Formålet med denne regelen er å dempe og raskt slokke en brann i rommet der den oppstår. For dette formålet skal følgende funksjonskrav oppfylles:.1 fastmonterte brannslokkingsanlegg skal være installert, som tar behørig hensyn til risikoen for brannutvikling i de beskyttede rommene, og.2 brannslokkingsredskaper skal være lett tilgjengelige.
+
+Lukeløse containerlasterom37 og stuingsområder for containere på dekk på skip som er utformet for å frakte containere på eller over værdekket og som er bygget 1. januar 2016 eller senere, skal være utstyrt med brannvernsarrangementer med det formål å begrense en brann til rommet eller området der den oppstod, og å kjøle ned tilstøtende områder for å hindre spredning av brann og strukturelle skader.
+
+### 2 Vannforsyningssystemer
+
+Skip skal være utstyrt med brannpumper, brannledninger, hydranter og slanger som oppfyller de aktuelle kravene i denne regelen.
+
+Materialer som lett gjøres ubrukbare av varme, skal ikke brukes til brannledninger og hydranter, med mindre de er tilstrekkelig beskyttet. Rørene og hydrantene skal plasseres slik at brannslangene lett kan koples til dem. Arrangementet av rør og hydranter skal være slik at muligheten for frost unngås. Det skal finnes egnet drenering for røropplegget til brannledningen. Det skal være installert isolasjonsventiler for alle forgreininger til brannledninger på åpent dekk som brukes til andre formål enn brannslokking. På skip som kan transportere dekkslast, skal plasseringen av hydrantene være slik at de alltid er lett tilgjengelige, og rørene skal, så langt det er praktisk mulig, legges slik at risiko for skade forårsaket av slik last, unngås.
+
+Enkel tilgang til vannforsyning
+
+Arrangementene for enkel tilgang til vannforsyning skal være.1 på passasjerskip:.1.1 med bruttotonnasje 1000 eller mer, slik at minst én effektiv vannstråle er umiddelbart tilgjengelig fra enhver hydrant med innendørs plassering, og slik at det sikres kontinuerlig vannutstrømning ved automatisk start av en påkrevd brannpumpe.1.2 med bruttotonnasje under 1000, ved automatisk start av minst én brannpumpe eller ved fjernstart fra kommandobroen av minst én brannpumpe. Hvis pumpen starter automatisk, eller hvis bunnventilen ikke kan åpnes fra stedet som pumpen fjernstartes fra, skal bunnventilen alltid holdes åpen, og.1.3 hvis det er utstyrt med periodisk ubemannede maskinrom i samsvar med regel II 1/54, skal administrasjonen fastsette bestemmelser for fastmonterte brannslokkingsanlegg med vann for slike rom, som er likeverdige med dem som kreves for normalt bemannede maskinrom,.2 på lasteskip:.2.1 vurdert som tilfredsstillende av administrasjonen, og.2.2 med periodisk ubemannet maskinrom eller når det kreves bare én person på vakt, skal det være umiddelbar vannforsyning fra brannledningssystemet ved hensiktsmessig trykk, enten ved fjernstarting av en av hovedbrannpumpene med fjernstarting fra kommandobroen og en eventuell brannkontrollstasjon, eller ved permanent trykksetting i brannledningssystemet med en av hovedbrannpumpene, men administrasjonen kan frafalle dette kravet for lasteskip med bruttotonnasje under 1600 hvis brannpumpens startarrangement i maskinrommet er på et lett tilgjengelig sted.
+
+Diameteren på brannledningen og vannrørene skal være tilstrekkelig for effektiv fordeling av den største påkrevde utstrømningen fra to brannpumper som er i gang samtidig, men når det gjelder lasteskip, bortsett fra skip inkludert i nr. 7.3.2, behøver diameteren bare være tilstrekkelig til utstrømning av 140 m3/t.
+
+Det skal monteres stengeventiler for å skille den delen av brannledningen i maskinrommet som inneholder hovedbrannpumpen eller -pumpene fra resten av brannledningen, på et lett tilgjengelig og forsvarlig sted utenfor maskinrommet. Brannledningen skal være slik innrettet at når stengeventilene stenges, kan alle hydrantene på skipet, unntatt de som er i maskinrommet nevnt ovenfor, forsynes med vann fra en annen brannpumpe eller en nødbrannpumpe. Nødpumpen, dens sjøvannsinntak og suge- og tilførselsrør samt stengeventiler skal være plassert utenfor maskinrommet. Hvis dette arrangementet ikke er mulig, kan sjøkassen plasseres i maskinrommet hvis ventilen er fjernstyrt fra et sted i samme rom som nødpumpen og sugerøret er så kort som praktisk mulig. Korte suge- eller utløpsrørlengder kan gå gjennom maskinrommet, forutsatt at de er innelukket i en solid stålkappe eller er isolert etter klasse «A-60»-standard. Rørene skal ha en solid veggtykkelse, men ikke i noe tilfelle mindre enn 11 mm og skal være sveiset, bortsett fra flensforbindelsen til sjøinntaksventilen.
+
+Det skal monteres en ventil til betjening av hver brannhydrant, slik at en hvilken som helst brannslange kan fjernes mens brannpumpene er i gang.
+
+Det skal finnes overtrykksventiler i tilknytning til brannpumper hvis pumpene kan utvikle et trykk som overstiger konstruksjonstrykket for vannrørene, hydrantene og slangene. Disse ventilene skal være plassert og justert for å unngå for høyt trykk i noen del av brannledningssystemet.
+
+På tankskip skal det være montert stengeventiler i brannledningen i forkant av poopen på et beskyttet sted og på tankdekket med mellomrom på høyst 40 m for å opprettholde brannmotstanden i brannledningssystemet i tilfelle av brann eller eksplosjon.
+
+Antallet og plasseringen av hydrantene skal være slik at minst to vannstråler som ikke kommer fra samme hydrant, og der én av disse skal komme fra en enkelt slangelengde, kan nå en hvilken som helst del av skipet som normalt er tilgjengelig for passasjerer eller besetning når skipet er i fart, og en hvilken som helst del av ethvert lasterom når det er tomt, ethvert roro-rom eller kjøretøyrom, og i sistnevnte tilfelle skal de to vannstrålene nå alle deler av slike rom, hver fra en enkelt slangelengde. Videre skal slike hydranter være plassert nær atkomsten til de beskyttede rommene.
+
+I tillegg til kravene i nr. 2.1.5.1 skal passasjerskip være i samsvar med følgende:.1 i rom i innredningen, arbeidsrom og maskinrom skal antall og plassering av hydranter være slik at kravene i nr. 2.1.5.1 kan oppfylles når alle vanntette dører og alle dører i skott i vertikale hovedsoner er lukket, og.2 når det er atkomst til et maskinrom av kategori A på et lavt nivå fra en tilstøtende akseltunnel, skal to hydranter være plassert utenfor, men nær inngangen til nevnte maskinrom. Når det er slik atkomst fra andre rom, skal det i ett av disse rommene være plassert to hydranter nær inngangen til maskinrommet i kategori A. Disse behøver ikke monteres når tunnelen eller de tilstøtende rommene ikke er en del av rømningsveien.
+
+Når de to pumpene samtidig leverer vann gjennom dysene angitt i nr. 2.3.3, med den vannmengden som er angitt i nr. 2.1.3, gjennom hvilke som helst tilstøtende hydranter, skal følgende minstetrykk opprettholdes ved alle hydranter.1 for passasjerskip medbruttotonnasje 4000 eller mer 0,40 N/mm2bruttotonnasje under 4000 0,30 N/mm2.2 for lasteskip medbruttotonnasje 6000 eller mer 0,27 N/mm2bruttotonnasje under 6000 0,25 N/mm2og.3 det største trykket skal ikke ved noen hydrant være større enn at reell kontroll med en brannslange kan demonstreres.
+
+Skip med bruttotonnasje 500 eller mer skal være utstyrt med minst én internasjonal landtilkopling som er i samsvar med FSS-koden.
+
+Det skal finnes innretninger som gjør det mulig å bruke en slik tilkopling på begge sider av skipet.
+
+Sanitærpumper, ballastpumper, lensepumper eller alminnelige arbeidspumper kan godtas som brannpumper, forutsatt at de normalt ikke brukes til pumping av olje, og hvis de fra tid til annen brukes til overføring eller pumping av brennolje, må egnede omkoplingsarrangementer være montert.
+
+Skip skal være utstyrt med uavhengig drevne brannpumper som følger:.1 på passasjerskip medbruttotonnasje 4000 eller mer minst trebruttotonnasje under 4000 minst to.2 på lasteskip medbruttotonnasje 1000 eller mer minst tobruttotonnasje under 1000 minst to motordrevne pumper, og
+én av disse skal være uavhengig drevet.
+
+Brannpumper
+
+Arrangement av sjøtilkoplinger, brannpumper og deres kraftkilder skal være slik at det sikres:.1 at ikke alle brannpumper på passasjerskip med bruttotonnasje 1000 eller mer vil bli satt ut av funksjon i tilfelle av brann i ett rom, og.2 at det på passasjerskip med bruttotonnasje under 1000 og på lasteskip, hvis en brann i et rom kan sette alle pumper ut av funksjon, skal være et alternativt middel som består av en nødbrannpumpe i samsvar med bestemmelsene i FSS-koden, med kraftkilden og sjøtilkoplingen plassert utenfor rommet der hovedbrannpumpene eller deres kraftkilder er plassert.
+
+Krav til rommet som inneholder nødbrannpumpen
+
+Rommets beliggenhet
+
+Rommet som inneholder nødbrannpumpen, skal ikke grense til maskinrom av kategori A eller de rommene som inneholder hovedbrannpumper. Når dette ikke er praktisk mulig, skal det felles skottet mellom de to rommene være isolert etter en standard for konstruksjonsmessig brannvern som er likeverdig med det som kreves for en kontrollstasjon i regel 9 nr. 2.3.3.
+
+Atkomst til nødbrannpumpen
+
+Ingen direkte atkomst er tillatt mellom maskinrommet og rommet som inneholder nødbrannpumpen og dens kraftkilde. Når dette ikke er praktisk mulig, kan administrasjonen tillate et arrangement der atkomst skjer ved hjelp av en luftsluse med døren til maskinrommet i klasse «A-60»-standard og den andre døren minst av stål, begge rimelig gasstette, selvlukkende og uten arrangementer som holder dem åpne. Alternativt kan atkomsten være gjennom en vanntett dør som kan betjenes fra et rom langt unna maskinrommet og rommet som inneholder nødbrannpumpen, og som sannsynligvis ikke vil bli utilgjengelig i tilfelle av brann i disse rommene. I slike tilfeller skal det finnes en alternativ atkomståpning til rommet som inneholder nødbrannpumpen og dens kraftkilde.
+
+Ventilasjon av rommet med nødbrannpumpen
+
+Ventilasjonsarrangementer til rommet som inneholder den uavhengige kraftkilden til nødbrannpumpen, skal være slik at de så langt som praktisk mulig utelukker muligheten for at røyk fra brann i et maskinrom kan komme inn eller bli trukket inn i dette rommet.
+
+Ekstra pumper til lasteskip
+
+I tillegg skal det på lasteskip der det er montert andre pumper i et maskinrom, f.eks. alminnelige arbeidspumper, lensepumper og ballastpumper, osv., finnes arrangementer for å sikre at minst én av disse pumpene kan levere vann til brannledningen, med kapasitet og trykk som fastsatt i nr. 2.1.6.2 og nr. 2.2.4.2.
+
+Samlet kapasitet for de påkrevde brannpumpene
+
+De påkrevde brannpumpene skal kunne levere en vannmengde til brannslokkingsformål ved det trykket som er fastsatt i nr. 2.1.6, som følger:.1 pumper på passasjerskip: vannmengden er minst to tredeler av den mengden som lensepumpene skal kunne håndtere når de brukes til lensepumping, og.2 pumper på lasteskip, unntatt eventuell nødpumpe: vannmengden er minst fire tredeler av den mengden som hver av de uavhengige lensepumpene av samme dimensjon, i henhold til regel II-1/35-1 skal kunne håndtere på et passasjerskip når den brukes til lensepumping, men ikke på noe lasteskip, bortsett fra skip inkludert i nr. 7.3.2, behøver den samlede påkrevde kapasiteten til brannpumpene overstige 180 m3/t.
+
+Hver brannpumpes kapasitet
+
+Hver av de påkrevde brannpumpene (unntatt eventuell nødpumpe som fastsatt i nr. 2.2.3.1.2 for lasteskip) skal ha en kapasitet på minst 80 % av den samlede påkrevde kapasiteten, dividert med det minste påkrevde antall brannpumper, men ikke i noe tilfelle mindre enn 25 m3/t, og hver slik pumpe skal i alle tilfeller kunne levere minst de to påkrevde vannstrålene. Disse brannpumpene skal kunne forsyne brannledningssystemet under de fastsatte forholdene. Når det er installert flere pumper enn det minste påkrevde antall pumper, skal slike ekstra pumper ha en kapasitet på minst 25 m3/t og skal kunne levere minst de to vannstrålene som kreves etter nr. 2.1.5.1.
+
+Brannslanger skal være av materiale som ikke råtner, godkjent av administrasjonen, og skal ha tilstrekkelig lengde til å kunne sende en vannstråle til ethvert rom der det måtte bli bruk for dem. Hver slange skal være utstyrt med en dyse og de nødvendige koplingene. Slanger som i dette kapittelet er kalt «brannslanger», skal, sammen med nødvendig utstyr og verktøy, holdes klare til bruk på lett synlige steder i nærheten av brannhydrantene eller forbindelsesleddene. I tillegg skal brannslanger i innvendige rom på passasjerskip som transporterer mer enn 36 passasjerer, være permanent tilkoplet hydrantene. Brannslanger skal være minst 10 m lange, men ikke mer enn.1 15 m i maskinrom,.2 20 m i andre rom og på åpent dekk, og.3 25 m på åpent dekk på skip med en største bredde på mer enn 30 m.
+
+Med mindre det finnes én slange og én dyse for hver hydrant på skipet, skal det være fullstendig utbyttbarhet for slangekoplinger og dyser.
+
+Skip skal være utstyrt med brannslanger i et antall og med en diameter som skal være vurdert som tilfredsstillende av administrasjonen.
+
+På passasjerskip skal det finnes minst én brannslange til hver av hydrantene som er fastsatt i nr. 2.1.5, og disse slangene skal brukes bare til brannslokking eller prøving av brannslokkingsapparater ved brannøvelser og tilsyn.
+
+På lasteskip:.1 med bruttotonnasje 1000 eller mer skal antall brannslanger være én for hver 30. meter av skipets lengde samt en reserveslange, men ikke i noe tilfelle færre enn fem i alt. Dette antallet omfatter ikke slanger som kreves i maskin- eller kjelerom. Administrasjonen kan øke antall påkrevde slanger for å sikre at det finnes et tilstrekkelig antall slanger tilgjengelig til enhver tid, under hensyn til skipstypen og den farten skipet går i. Skip som transporterer farlig last i samsvar med regel 19, skal være utstyrt med tre slanger og dyser i tillegg til de som er fastsatt ovenfor, og.2 med bruttotonnasje under 1000 skal antall brannslanger beregnes i samsvar med bestemmelsene i nr. 2.3.2.3.1. Antall slanger skal likevel ikke i noe tilfelle være mindre enn tre.
+
+For dette kapittelets formål skal standard dysestørrelser være 12 mm, 16 mm og 19 mm eller så nær disse målene som mulig. Dyser med større diameter kan tillates etter administrasjonens skjønn.
+
+For rom i innredningen og arbeidsrom er det ikke nødvendig å bruke større dysediameter enn 12 mm.
+
+For maskinrom og utvendige rom skal dysestørrelsen være slik at det oppnås største mulige utstrømning fra to vannstråler ved det trykket som er nevnt i nr. 2.1.6, fra den minste pumpen, forutsatt at det ikke er nødvendig å bruke større dysediameter enn 19 mm.
+
+Dyser skal være av en godkjent kombinert type (dvs. tåkespreder/stråle), med stengeinnretning.
+
+### 3 Bærbare brannslokkingsapparater38
+
+Bærbare brannslokkingsapparater skal oppfylle kravene i FSS-koden.
+
+Rom i innredningen, arbeidsrom og kontrollstasjoner skal være utstyrt med bærbare brannslokkingsapparater av godkjente typer og i tilstrekkelig antall som vurderes som tilfredsstillende av administrasjonen. Skip med bruttotonnasje 1000 eller mer skal ha minst fem bærbare brannslokkings-apparater.
+
+Ett av de bærbare brannslokkingsapparatene som er beregnet på bruk i et bestemt rom, skal oppbevares nær inngangen til dette rommet.
+
+CO2-brannslokkingsapparater skal ikke være plassert i rom i innredningen. I kontrollstasjoner og andre rom som inneholder elektrisk eller elektronisk utstyr eller redskaper som er nødvendige for skipets sikkerhet, skal det finnes brannslokkingsapparater med slokkemidler som verken er elektrisk ledende eller skadelige for utstyret og redskapene.
+
+Brannslokkingsapparater skal plasseres klare til bruk på lett synlige steder som kan nås raskt og enkelt til enhver tid i tilfelle av brann, og på en slik måte at betjeningen av dem ikke påvirkes av været, vibrasjon eller andre ytre faktorer. Bærbare brannslokkingsapparater skal forsynes med innretninger som viser om de er blitt brukt.
+
+Det skal finnes reserveladninger for 100 % av de ti første brannslokkingsapparatene og for 50 % av de resterende brannslokkingsapparatene som kan fylles på nytt om bord. Det kreves ikke mer enn 60 reserveladninger i alt. Det skal finnes instrukser for oppfylling om bord.
+
+For de brannslokkingsapparatene som ikke kan fylles på nytt om bord, skal det i stedet for reserveladninger finnes ekstra bærbare brannslokkingsapparater av samme størrelse, type, kapasitet og antall som fastsatt i ovennevnte nr. 3.3.1.
+
+### 4 Fastmonterte brannslokkingsanlegg
+
+Et fastmontert brannslokkingsanlegg fastsatt i nr. 5 nedenfor, kan være et hvilket som helst av følgende anlegg:.1 et fastmontert brannslokkingsanlegg med gass som er i samsvar med bestemmelsene i FSS-koden.2 et fastmontert brannslokkingsanlegg med høyekspanderende skum som er i samsvar med bestemmelsene i FSS-koden, og.3 et fastmontert vannforstøvningssystem til brannslokking som er i samsvar med bestemmelsene i FSS-koden.
+
+Når det er installert et fastmontert brannslokkingsanlegg som ikke kreves etter dette kapittelet, skal det oppfylle kravene i de relevante reglene i dette kapittelet og FSS-koden.
+
+Brannslokkingsanlegg som bruker halon 1211, 1301, og 2402 og perfluorkarboner, er forbudt.
+
+Generelt skal administrasjonen ikke tillate bruk av vanndamp som brannslokkingsmiddel i fastmonterte brannslokkingsanlegg. Når administrasjonen tillater bruk av vanndamp, skal det brukes bare i begrensede områder og i tillegg til det påkrevde brannslokkingsanlegget og skal oppfylle kravene i FSS-koden.
+
+Innen første planlagte tørrdokksetting etter 1. januar 2010 skal fastmonterte brannslokkingsanlegg med CO2 for beskyttelse av maskinrom og lastepumperom på skip bygget før 1. juli 2002, være i samsvar med bestemmelsene i nr. 2.2.2 i kapittel 5 i FSS-koden.
+
+Når det brukes et fastmontert brannslokkingsanlegg med gass, skal åpninger der luft kan slippe inn i eller der gass kan lekke ut fra et beskyttet rom, kunne lukkes fra utsiden av det beskyttede rommet.
+
+Når brannslokkingsmiddelet oppbevares utenfor et beskyttet rom, skal det oppbevares i et rom som ligger bak det fremre kollisjonsskottet, og som ikke brukes til andre formål. Enhver inngang til et slikt lagerrom skal helst være fra åpent dekk og skal være uavhengig av det beskyttede rommet. Hvis lagerrommet ligger under dekk, skal det ikke ligger mer enn ett dekk under åpent dekk og skal være direkte tilgjengelig med en trapp eller leider fra åpent dekk. Rom som ligger under dekk, eller rom som ikke har atkomst fra åpent dekk, skal være utstyrt med et mekanisk ventilasjonssystem utformet for å trekke ut luft fra lavereliggende deler av rommet og skal dimensjoneres slik at det kan skifte ut luften minst seks ganger per time. Atkomstdører skal åpnes utover, og skott og dekk, herunder dører og andre midler til å lukke åpninger i dem, som danner grenser mellom slike rom og tilstøtende innelukkede rom, skal være gasstette. Med hensyn til anvendelse av tabell 9.1 til 9.8 skal slike lagerrom betraktes som brannkontrollstasjoner
+
+Andre pumper enn de som betjener brannledningen, og som kreves for å skaffe vann til brannslokkingsanlegg fastsatt i dette kapittelet, deres kraftkilder og betjeningsinnretninger, skal være installert utenfor rommet eller rommene som er beskyttet av slike systemer, og skal være slik innrettet at en brann i rommet eller rommene som er beskyttet, ikke vil sette et slikt anlegg ut av funksjon.
+
+### 5 Brannslokkingsarrangementer i maskinrom
+
+Maskinrom av kategori A som inneholder oljefyrte kjeler eller brennoljeenheter, skal være utstyrt med ett av de fastmonterte brannslokkingsanleggene i nr. 4.1. Hvis maskin- og kjelerommene ikke er fullstendig atskilt, eller hvis det kan komme brennolje fra kjelerommet inn i maskinrommet, skal de kombinerte maskin- og kjelerommene i hvert enkelt tilfelle betraktes som ett rom.
+
+I hvert kjelerom eller ved en inngang utenfor kjelerommet skal det være minst én bærbar skumslokker som er i samsvar med bestemmelsene i FSS-koden.
+
+Det skal være minst to bærbare skumslokkingsapparater eller tilsvarende på hver fyrdørk i hvert kjelerom og i hvert rom der en del av brennoljeenheten ligger. I hvert kjelerom skal det være minst ett godkjent skumslokkingsapparat med en kapasitet på minst 135 l eller tilsvarende. Disse apparatene skal være utstyrt med slanger på tromler som er egnet til å nå alle deler av kjelerommet. Når det gjelder hjelpekjeler på mindre enn 175 kW eller kjeler beskyttet med et fastmontert, vannbasert brannslokkingsanlegg til lokal bruk, iht. 5.6, kreves det ikke godkjent skumslokkingsapparat med en kapasitet på minst 135 l.
+
+På hver fyrdørk skal det være en beholder med minst 0,1 m3 sand, sagflis impregnert med soda, eller annet godkjent tørrstoff, sammen med en egnet spade til å spre stoffet. Alternativt kan dette erstattes med et godkjent bærbart brannslokkingsapparat.
+
+Maskinrom av kategori A som inneholder forbrenningsmotorer, skal være utstyrt med ett av de fastmonterte brannslokkingsanleggene i nr. 4.1.
+
+Det skal finnes minst én bærbar skumslokker som er i samsvar med bestemmelsene i FSS-koden.
+
+Det skal i hvert slikt rom finnes godkjente skumslokkingsapparater, hvert med en kapasitet på minst 45 l, eller tilsvarende, i tilstrekkelig antall til at skum eller et tilsvarende middel kan rettes mot enhver del av drivstoff- og smøreoljetrykksystemene, giranlegg og andre brannfarlige objekter. I tillegg skal det finnes et tilstrekkelig antall bærbare skumslokkingsapparater eller tilsvarende som skal være plassert slik at det ikke er nødvendig å gå mer enn ti meter for å komme til et brannslokkingsapparat, og slik at det er minst to slike brannslokkingsapparater i hvert rom. For mindre rom i lasteskip kan administrasjonen vurdere å lempe på dette kravet.
+
+I rom som inneholder dampturbiner eller innkapslede dampmaskiner som brukes til hovedframdrift eller andre formål, og som til sammen har en samlet ytelse på minst 375 kW, skal det finnes ett av de brannslokkingsanleggene som er fastsatt i nr. 4.1, hvis slike rom er periodisk ubemannet.
+
+Det skal finnes godkjente skumslokkingsapparater, hvert med en kapasitet på minst 45 l eller tilsvarende, i tilstrekkelig antall til at skum eller tilsvarende middel kan rettes mot enhver del av trykksmøresystemet, enhver del av kappene som innkapsler trykksmurte deler av turbinene, maskinen eller tilhørende giranlegg, og alle andre brannfarlige objekter. Slike apparater skal likevel ikke kreves hvis det i slike rom finnes beskyttelse som minst er likeverdig med den som kreves etter dette nummer, i form av et fastmontert brannslokkingsanlegg montert i samsvar med nr. 4.1.
+
+Det skal finnes et tilstrekkelig antall bærbare skumslokkingsapparater41 eller tilsvarende som skal være plassert slik at det ikke er nødvendig å gå mer enn ti meter for å komme til et brannslokkingsapparat, og slik at det er minst to slike brannslokkingsapparater i hvert rom, bortsett fra at slike apparater ikke skal kreves i tillegg til apparater som er montert i samsvar med nr. 5.1.2.2.
+
+Når det etter administrasjonens mening finnes en brannfare i et maskinrom som det ikke er fastsatt særskilte bestemmelser om brannslokkingsredskaper for i nr. 5.1, 5.2 og 5.3, skal det i eller i tilknytning til vedkommende rom finnes et antall godkjente bærbare brannslokkingsapparater eller andre brannslokkemidler som administrasjonen anser som tilstrekkelig.
+
+På passasjerskip som transporterer mer enn 36 passasjerer, skal hvert maskinrom av kategori A være utstyrt med minst to hensiktsmessige vanntåkespredere.42
+
+Nr. 5.6 får anvendelse på passasjerskip med bruttotonnasje 500 eller mer og lasteskip med bruttotonnasje 2000 eller mer.
+
+Maskinrom av kategori A med et volum på mer enn 500 m3 skal, i tillegg til det fastmonterte brannslokkingsanlegget fastsatt i nr. 5.1.1, være beskyttet med en godkjent type fastmontert vannbasert eller tilsvarende brannslokkingsanlegg til lokal bruk, på grunnlag av retningslinjene utarbeidet av organisasjonen.43 Når det gjelder periodisk ubemannede maskinrom, skal brannslokkingsanlegget ha både automatiske og manuelle utløsningsmuligheter. Når det gjelder kontinuerlig bemannede maskinrom, kan brannslokkingsanlegget ha bare en manuell utløsningsmulighet.
+
+Fastmonterte lokale brannslokkingsanlegg skal beskytte følgende områder uten at det er nødvendig å slå av motoren, evakuere personale eller stenge av rommene:.1 de brannfarlige delene av forbrenningsmotorer eller, for skip bygget før 1. juli 2014, de brannfarlige delene av forbrenningsmotorer som brukes til skipets hovedframdrift og kraftproduksjon.2 kjelefronter.3 de brannfarlige delene av forbrenningsanlegg, og.4 separatorer for oppvarmet brennolje.
+
+Når et anlegg til lokal bruk utløses, skal det gis en lysalarm og en tydelig lydalarm i det beskyttede rommet og i kontinuerlig bemannede stasjoner. Alarmen skal angi hvilket system som er aktivert. Kravene til systemalarm som er beskrevet i dette nummer, kommer i tillegg til og ikke i stedet for de deteksjons- og brannalarmanleggene som er fastsatt andre steder i dette kapittelet.
+
+### 6 Brannslokkingsarrangementer i kontrollstasjoner, rom i innredningen og arbeidsrom
+
+Passasjerskip som transporterer mer enn 36 passasjerer, skal være utstyrt med et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg av en godkjent type som oppfyller kravene i FSS-koden, i alle kontrollstasjoner, rom i innredningen og arbeidsrom, herunder korridorer og trapper. Som et alternativ kan kontrollstasjoner der vann kan skade viktig utstyr, utstyres med et godkjent fastmontert brannslokkingsanlegg av en annen type. Rom med liten eller ingen brannfare, f.eks. tomrom, fellestoaletter, CO2-rom og lignende rom, behøver ikke være utstyrt med et automatisk sprinkleranlegg.
+
+Når et fastmontert røykdeteksjons- og brannalarmanlegg som er i samsvar med bestemmelsene i FSS-koden, er montert bare i korridorer, trapper og rømningsveier i rom i innredningen på passasjerskip som transporterer høyst 36 passasjerer, skal det være installert et automatisk sprinkleranlegg i samsvar med regel 7 nr. 5.3.2.
+
+Et fastmontert vannforstøvningssystem til brannslokking som er i samsvar med bestemmelsene i FSS-koden, skal være installert på lugarbalkonger på skip som regel 5 nr. 3.4. får anvendelse på, når møbler og inventar på disse balkongene ikke er som definert i regel 3 nr. 40.1, nr. 40.2, nr. 40.3, nr. 40.6 og nr. 40.7.
+
+På lasteskip der metode IIC fastsatt i regel 9 nr. 2.3.1.1.2 brukes, skal det være montert et automatisk sprinkler-, branndeteksjons- og brannalarmanlegg i samsvar med kravene i regel 7 nr. 5.5.2.
+
+Malingsskap skal være beskyttet med.1 et CO2-anlegg, utformet for å gi et minstevolum av fri gass tilsvarende 40 % av bruttovolumet av rommet som beskyttes.2 et pulverslokkingsanlegg, utformet for minst 0,5 kg pulver/m3.3 et vannforstøvningssystem eller sprinkleranlegg, utformet for 5 liter/m2 per minutt. Vannforstøvningssystemer kan være koplet til skipets brannledning, eller.4 et system som gir likeverdig beskyttelse, som bestemt av administrasjonen.
+
+I alle tilfeller skal systemet kunne betjenes fra utsiden av rommet som beskyttes.
+
+Skap for brannfarlige væsker skal beskyttes av et egnet brannslokkingsarrangement, godkjent av administrasjonen.
+
+For skap på et mindre dekksareal enn 4 m2 som ikke gir atkomst til rom i innredningen, kan det i stedet for et fastmontert anlegg godtas et bærbart CO2-apparat, dimensjonert for å gi et minstevolum av fri gass tilsvarende 40 % av rommets bruttovolum. Det skal være montert en utslippsåpning i skapet for å tillate utløp av slokkemidlet uten å måtte gå inn i rommet som beskyttes. Det påkrevde bærbare brannslokkingsapparatet skal oppbevares i nærheten av utslippsåpningen. Som et alternativ kan det benyttes en utløps- eller slangetilkopling for å lette bruken av vann fra brannledningen.
+
+Utstyr til frityrsteking som er installert i innelukkede rom eller på åpent dekk, skal være utstyrt med følgende:.1 et automatisk eller manuelt slokkingsanlegg som er prøvd etter en internasjonal standard som organisasjonen godtar44.2 en hovedtermostat og en reservetermostat med en alarm som varsler operatøren i tilfelle av svikt i en av termostatene.3 arrangementer for automatisk avstenging av elektrisk kraft ved aktivering av slokkingsanlegget.4 en alarm som viser at slokkingsanlegget er aktivert i byssa der utstyret er installert, og.5 innretninger for manuell betjening av slokkingsanlegget, tydelig merket slik at besetningen lett kan bruke det.
+
+### 7 Brannslokkingsarrangementer i lasterom
+
+Med unntak av det som er fastsatt i nr. 7.2, skal lasterom på passasjerskip med bruttotonnasje 1000 eller mer være beskyttet med et fastmontert brannslokkingsanlegg med CO2 eller nøytralgass i samsvar med bestemmelsene i FSS-koden eller med et fastmontert brannslokkingsanlegg med høyekspanderende skum som gir likeverdig beskyttelse.
+
+Når det påvises til administrasjonens tilfredshet at et passasjerskip brukes på reiser av så kort varighet at det ville være urimelig å anvende kravene i nr. 7.1.1, og også på skip med bruttotonnasje under 1000, skal arrangementene i lasterom vurderes som tilfredsstillende av administrasjonen, forutsatt at skipet er utstyrt med lukedeksler av stål og effektive midler til å lukke alle ventilasjonsåpninger og andre åpninger som fører til lasterommene.
+
+Med unntak av roro-rom og kjøretøyrom skal lasterom på lasteskip med bruttotonnasje 2000 eller mer være beskyttet med et fastmontert brannslokkingsanlegg med CO2eller nøytralgass i samsvar med bestemmelsene i FSS-koden eller med et brannslokkingsanlegg som gir likeverdig beskyttelse.
+
+Administrasjonen kan unnta lasterom i et lasteskip for kravene i nr. 7.1.3 og nr. 7.2, hvis rommene er konstruert for og bare beregnet på transport av malm, kull, korn, ubehandlet tømmer, ikke-brennbar last eller last som etter administrasjonens mening utgjør liten brannfare45. Slike unntak kan gis bare hvis skipet er utstyrt med lukedeksler av stål og effektive midler til å lukke ventilasjonsåpninger og andre åpninger som fører til lasterommene. Når det gis slike unntak, skal administrasjonen utstede et dispensasjonssertifikat, uansett når det aktuelle skipet ble bygget, i samsvar med regel I/12(a)(vi), og skal påse at oversikten over den lasten skipet har tillatelse til å transportere, vedlegges dispensasjonssertifikatet.
+
+Et skip som brukes til transport av farlig last i et hvilket som helst lasterom, skal være utstyrt med et fastmontert brannslokkingsanlegg med karbondioksid eller nøytralgass i samsvar med bestemmelsene i FSS-koden eller med et brannslokkingsanlegg som etter administrasjonens mening gir likeverdig beskyttelse for den lasten som transporteres.
+
+Skip skal føre, i tillegg til utstyret og arrangementene som kreves etter nr. 1 og 2, minst ett slokkespyd med vanntåkefunksjon.
+
+Slokkespydet skal bestå av et rør med en gjennomtrengende dyse som er i stand til å penetrere en containervegg og å produsere vanntåke inne i et trangt område (container, osv.) når det er koblet til brannledningen.
+
+Skip som er utformet for å føre fem eller flere lag med containere på eller over værdekket, skal føre, i tillegg til kravene i nr. 7.3.1, flyttbare vannkanoner46 som følger:.1 skip med bredde under 30 m: minst to flyttbare vannkanoner, eller.2 skip med bredde 30 m eller mer: minst fire flyttbare vannkanoner.
+
+De flyttbare vannkanonene, alle nødvendige slanger, tilbehør og nødvendig festeutstyr skal oppbevares klart for bruk på et sted som ligger utenfor lasteromsområdet og som sannsynligvis ikke vil bli avskåret ved brann i lasterommene.
+
+Det skal finnes et tilstrekkelig antall brannhydranter, slik at.1 alle flyttbare vannkanoner kan betjenes samtidig for å skape effektive vannbarrierer forut og akterut for hver containerbås.2 de to vannstrålene som kreves etter nr. 2.1.5.1, kan leveres ved trykket som kreves etter nr. 2.1.6, og.3 hver av de påkrevde flyttbare vannkanonene kan forsynes fra separate hydranter ved trykket som er nødvendig for å nå det øverste laget med containere på dekk.
+
+De flyttbare vannkanonene kan forsynes fra brannledningen, forutsatt at kapasiteten til brannpumpene og brannledningsdiameteren er tilstrekkelig til samtidig å betjene de flyttbare vannkanonene og to vannstråler fra brannslanger ved de påkrevde trykkverdiene. Hvis skipet fører farlig last, skal kapasiteten til brannpumpene og brannledningsdiameteren også være i samsvar med regel 19 nr. 3.1.5, i den grad dette er relevant for lasteområder på dekk.
+
+Den driftsmessige ytelsen til hver flyttbare vannkanon skal testes under førstegangstilsyn om bord på skipet til administrasjonens tilfredshet. Testen skal verifisere at.1 den flyttbare vannkanonen kan festes sikkert til skipskonstruksjonen slik at sikker og effektiv drift sikres, og.2 strålen fra den flyttbare vannkanonen når det øverste laget med containere når alle påkrevde kanoner og vannstråler fra brannslanger betjenes samtidig.
+
+### 8 Beskyttelse av lastetanker
+
+På tankskip med en dødvekt på minst 20 000 tonn skal det finnes et fastmontert skumslokkingsanlegg på dekk i samsvar med kravene i FSS-koden, men i stedet for ovennevnte kan administrasjonen, etter å ha vurdert skipets arrangement og utrustning, godta andre fastmonterte installasjoner hvis disse gir en beskyttelse som er likeverdig med ovennevnte, i samsvar med regel I/5. Alternative faste installasjoner skal være i samsvar med kravene i nr. 8.1.2.
+
+Når administrasjonen godtar en likeverdig fastmontert installasjon i stedet for det fastmonterte skumslokkingsanlegget på dekk, skal installasjonen i samsvar med nr. 8.1.1.1 kunne slokke brann i oljesøl på dekk samt hindre antenning av oljesøl som ennå ikke er antent, og.2 kunne bekjempe brann i tanker som har fått sprekker.
+
+Tankskip med en dødvekt på mindre enn 20 000 tonn skal være utstyrt med et skumslokkingsanlegg på dekk som oppfyller kravene i FSS-koden.
+
+### 9 Beskyttelse av lastepumperom på tankskip
+
+Hvert lastepumperom skal være utstyrt med ett av følgende fastmonterte brannslokkingsanlegg som betjenes fra et lett tilgjengelig sted utenfor pumperommet. Lastepumperom skal være utstyrt med et anlegg som egner seg til maskinrom av kategori A.
+
+Et CO2-anlegg som er i samsvar med bestemmelsene i FSS-koden og med følgende:.1 alarmene som gir et lydsignal om utslipp av slokkemiddel, skal være sikre for bruk i en brannfarlig blanding av damp fra last/luft, og.2 det skal være oppslått et skilt ved betjeningsinnretningene som sier at anlegget på grunn av faren for elektrostatisk antenning skal brukes bare til brannslokking og ikke til nøytraliseringsformål.
+
+Et anlegg med høyekspanderende skum i samsvar med bestemmelsene i FSS-koden, forutsatt at forsyningen av skumkonsentrat er egnet til å slokke brann i den typen last som transporteres.
+
+Et fastmontert vannforstøvningssystem som er i samsvar med bestemmelsene i FSS-koden.
+
+Når slokkemidlet som brukes i anlegget i lastepumperommet, også brukes i anlegg som betjener andre rom, behøver den mengden middel som finnes, eller utstrømningshastigheten ikke være mer enn den største mengden som kreves for det største rommet.
+
+### 10 Røykdykkerutstyr
+
+- .1 Røykdykkerutstyr skal være i samsvar med FSS-koden, og
+- .2 Bærbare pusteapparater med trykkluft, som er en del av røykdykkerutstyret, skal være i samsvar med nr. 2.1.2.2 i kapittel 3 i FSS-koden innen 1. juli 2019.
+
+Skip skal ha minst to sett med røykdykkerutstyr.
+
+I tillegg skal det på passasjerskip finnes.1 for hver 80. meter, eller del av dette, av den samlede lengden av alle passasjerrom og arbeidsrom på dekket som har slike rom eller, hvis det er mer enn ett slikt dekk, på dekket som har den største samlede lengden, to sett med røykdykkerutstyr og i tillegg to sett med personlig utstyr, der hvert sett består av det utstyret som er fastsatt i FSS-koden. På passasjerskip som transporterer mer enn 36 passasjerer, skal det finnes to ekstra sett med røykdykkerutstyr for hver vertikale hovedsone. Det kreves likevel ikke ekstra sett med røykdykkerutstyr for trappehus som danner egne vertikale hovedsoner, og for de vertikale hovedsonene i for- eller akterenden av et skip som ikke inneholder rom i kategori (6), (7), (8) eller (12) definert i regel 9 nr. 2.2.3, og.2 på skip som transporterer mer enn 36 passasjerer, skal det for hvert par med pusteapparater finnes en vanntåkespreder som skal oppbevares i tilknytning til et slikt apparat.
+
+I tillegg skal det på tankskip finnes to sett med røykdykkerutstyr.
+
+Administrasjonen kan kreve ekstra sett med personlig utstyr og pusteapparater, under hensyn til skipsstørrelsen og -typen.
+
+Det skal finnes to reserveladninger for hvert påkrevd pusteapparat. Passasjerskip som transporterer høyst 36 passasjerer, og lasteskip som er utstyrt med hensiktsmessig plasserte midler til full opplading av luftsylindrene, uten forurensning, behøver bare ha én reserveladning for hvert påkrevd apparat. På passasjerskip som transporterer mer enn 36 passasjerer, skal det finnes minst to reserveladninger for hvert pusteapparat.
+
+Passasjerskip som transporterer mer enn 36 passasjerer og er bygget 1. juli 2010 eller senere, skal være utstyrt med hensiktsmessig plasserte midler til full opplading av luftsylindrene, uten forurensning. Midlene til opplading skal være enten.1 luftkompressorer som forsynes fra hoved- og nødtavlen eller er uavhengig drevet, med en kapasitet på minst 60 l/min og høyst 420 l/min per påkrevd pusteapparat, eller.2 bærbare høytrykkslagringssystemer med hensiktsmessig trykk for å lade pusteapparater som brukes om bord, med en kapasitet på minst 1200 l og høyst 50 000 l ekstra luft per påkrevd pusteapparat.
+
+Røykdykkerutstyret og settene med personlig utstyr skal holdes klare til bruk på et lett tilgjengelig sted som er permanent og tydelig merket, og når det finnes mer enn ett sett med røykdykkerutstyr eller mer enn ett sett med personlig utstyr, skal disse oppbevares på steder langt fra hverandre.
+
+På passasjerskip skal minst to sett med røykdykkerutstyr og i tillegg ett sett med personlig utstyr være tilgjengelige på ethvert oppbevaringssted. Minst to sett med røykdykkerutstyr skal oppbevares i hver vertikale hovedsone.
+
+For skip bygget 1. juli 2014 eller senere skal det for brannkommunikasjon finnes minst to bærbare toveis radiotelefonapparater for hvert brannlag om bord. Disse bærbare toveis radiotelefonapparatene skal være av typen eksplosjonssikre eller egensikre. Skip bygget før 1. juli 2014 skal oppfylle kravene i dette nummer senest på datoen for første tilsyn etter 1. juli 2018.
+
+### 1147 Begrensninger for brannslokkemidler
+
+Formålet med dette nummeret er å beskytte personer om bord mot eksponering for farlige stoffer brukt til brannslokking, samt å minimere påvirkningen av brannslokkemidler som anses som skadelige for miljøet.
+
+Denne regelen gjelder for skip bygget 1. januar 2026 eller senere.
+
+De forbudte stoffene i denne regelen skal leveres til egnede landbaserte mottaksanlegg når de fjernes fra skipet.
+
+Bruk eller lagring av slokkemidler som inneholder perfluoroktansulfonsyre (PFOS), skal være forbudt.
+
+### Regel 11 Konstruksjonsmessig sikkerhet
+
+### 1 Formål
+
+Formålet med denne regelen er å opprettholde skipets konstruksjonsmessige sikkerhet og hindre delvis eller helt sammenbrudd i skipets konstruksjoner på grunn av styrkeforringelse som skyldes varme. For dette formålet skal materialer som brukes i skipets konstruksjoner, sørge for at den konstruksjonsmessige sikkerheten ikke svekkes på grunn av brann.
+
+### 2 Materialer i skrog, overbygninger, bærende skott, dekk og dekkshus
+
+Skrog, overbygninger, bærende skott, dekk og dekkshus skal være bygget av stål eller annet tilsvarende materiale. Ved anvendelse av definisjonen av stål eller annet tilsvarende materiale som angitt i regel 3 nr. 43, skal «den fastsatte standard brannprøven» være i samsvar med brannmotstands- og isolasjonsstandardene oppført i tabell 9.1 til 9.4. Når skiller som for eksempel dekk eller sider og ender på dekkshus tillates å ha brannmotstand av type «B-0», skal «den fastsatte standard brannprøven» vare en halv time.
+
+### 3 Konstruksjon av aluminiumslegering
+
+Med mindre annet er fastsatt i nr. 2, får følgende bestemmelser anvendelse i tilfeller der en hvilken som helst del av konstruksjonen består av aluminiumslegering:.1 bortsett fra deler som etter administrasjonens mening ikke er bærende, skal isolasjonen av deler av aluminiumslegering i skiller i klasse «A» eller «B» være slik at temperaturen i konstruksjonskjernen ikke stiger mer enn 200 °C over omgivelsestemperaturen på noe tidspunkt under den fastsatte standard brannprøven, og.2 det skal rettes særlig oppmerksomhet mot isolasjonen av deler av aluminiumslegering i søyler, støtter og andre konstruksjonsdeler som er nødvendige for å bære stuings-, utsettings- og innskipningsområder for livbåter og redningsflåter samt skiller i klasse «A» og «B» for å sikre.2.1 at for slike konstruksjonsdeler som bærer områder med livbåter og redningsflåter og skiller i klasse «A», skal grensen for temperaturstigning som er fastsatt i nr. 3.1, gjelde ved utløpet av én time, og.2.2 og at for slike konstruksjonsdeler som skal bære skiller i klasse «B», skal grensen for temperaturstigning som er fastsatt i nr. 3.1, gjelde ved utløpet av en halv time.
+
+### 4 Maskinrom av kategori A
+
+Topper og kapper i maskinrom av kategori A skal være laget av stål og være isolert som fastsatt i tabell 9.5 og 9.7, avhengig av hva som er aktuelt.
+
+Dørkplatene til normale ferdselsveier i maskinrom av kategori A skal være av stål.
+
+### 5 Materialer i utstyr over bord
+
+Materialer som raskt blir ubrukelige av varme, skal ikke brukes til spygatter, sanitæravløp og andre utløp over bord som er nær vannlinjen og der svikt i materialet i tilfelle av brann vil medføre fare for innstrømming av vann.
+
+### 6 Beskyttelse mot trykk eller vakuum i konstruksjonen av lastetanker på tankskip
+
+Ventilasjonsarrangementene skal være utformet og skal betjenes slik at det sikres at verken trykk eller vakuum i lastetanker overstiger konstruksjonsparameterer, og skal være slik.1 at de små volumene av damp, luft eller nøytralgassblandinger som forårsakes av varmevariasjoner i en lastetank, i alle tilfeller strømmer gjennom trykk/vakuumventiler, og.2 at det sikres utlufting av store volumer av damp, luft eller nøytralgassblandinger under lasting og ballastering, eller under lossing.
+
+Åpninger for trykkavlastning fastsatt i nr. 6.1.1 skal.1 ha så stor høyde som praktisk mulig over lastetankdekket for å oppnå maksimal spredning av brannfarlig damp, men ikke i noe tilfelle mindre enn 2 m over lastetankdekket, og.2 være innrettet i størst mulig avstand, men ikke mindre enn 5 m, fra nærmeste luftinntak og åpninger til innelukkede rom som inneholder en tennkilde, og fra dekksmaskineri og -utstyr som kan utgjøre en brann- eller eksplosjonsfare. Ankerspill og åpninger i kjettingkasser utgjør en brann- eller eksplosjonsfare. For tankskip bygget 1. januar 2017 eller senere skal åpningene være innrettet i samsvar med regel 4 nr. 5.3.4.1.
+
+Det skal treffes tiltak for å beskytte mot at væske stiger opp i ventilasjonssystemet til en høyde som vil overstige lastetankenes konstruksjonshøyde. Dette skal oppnås ved alarmer for høyt nivå eller systemer for overløpskontroll eller andre likeverdige midler, sammen med uavhengige måleinnretninger og framgangsmåter for fylling av lastetanker. I denne regelen betraktes spillventiler ikke som likeverdige med et overløpssystem.
+
+Et sekundært middel til å oppnå full strømningsavlastning for damp, luft eller nøytralgassblandinger for å hindre overtrykk eller undertrykk i tilfelle av svikt i arrangementene i nr. 6.1.2. I tillegg, for tankskip bygget 1. januar 2017 eller senere, skal det sekundære middelet være i stand til å hindre overtrykk eller undertrykk i tilfelle av skade på, eller utilsiktet lukking av, isolasjonsmiddelet som kreves etter regel 4 nr. 5.3.2.2. Alternativt kan det monteres trykkfølere i hver tank som er beskyttet av arrangementet fastsatt i nr. 6.1.2, med et overvåkingssystem i skipets lastekontrollrom eller på stedet som lasteoperasjonene normalt utføres fra. Et slikt overvåkingssystem skal også inneholde en alarm som utløses når det oppstår overtrykk eller undertrykk inne i en tank.
+
+Trykk/vakuum-ventiler som kreves etter nr. 6.1.1, kan være utstyrt med et omløpsarrangement når de er plassert i en ventilasjonsledning eller et stigerør i en mast. Når det finnes et slikt arrangement, skal det finnes hensiktsmessige indikatorer som viser om omløpet er åpent eller lukket.
+
+Det skal finnes én eller flere avbruddsinnretninger for trykk/vakuum for å hindre at lastetankene får.1 et positivt trykk som overstiger lastetankens prøvingstrykk, hvis lasten lastes ved høyeste nominelle kapasitet og alle andre utløp er lukket, og.2 et negativt trykk som overstiger 700 mm vannsøyle hvis lasten losses ved høyeste nominelle kapasitet for lastepumpene og nøytralgassviftene svikter.
+
+Slike innretninger skal være installert på nøytralgassledningen, med mindre de er installert i ventilasjonssystemet fastsatt i regel 4 nr. 5.3.1, eller på enkelte lastetanker. Innretningenes plassering og utformet skal være i samsvar med regel 4 nr. 5.3 og nr. 6.
+
+Ventilasjonsutløp for lasting, lossing og ballastering fastsatt i nr. 6.1.2, skal være utformet på grunnlag av høyeste konstruksjonslastemengde multiplisert med en faktor på minst 1,25 for å ta hensyn til gassdannelse, for derved å hindre at trykket i en lastetank overstiger konstruksjonstrykket. Skipsføreren skal ha opplysninger om største tillatte lastemengde for hver lastetank og, når det gjelder kombinerte ventilasjonssystemer, for hver gruppe av lastetanker.
+
+### Del D
+Rømning
+
+### Regel 12 Varsling av besetning og passasjerer
+
+### 1 Formål
+
+Formålet med denne regelen er å varsle besetning og passasjerer om en brann med henblikk på sikker rømning. For dette formålet skal det finnes et hovedalarmsystem og et høyttaleranlegg.
+
+### 2 Hovedalarmsystem
+
+Et hovedalarmsystem som fastsatt i regel III/6.4.2, skal brukes til å varsle besetning og passasjerer om brann.
+
+### 3 Høyttaleranlegg på passasjerskip
+
+Det skal finnes et høyttaleranlegg eller annet effektivt kommunikasjonssystem som oppfyller kravene i regel III/6.5, i alle rom i innredningen og arbeidsrommene og kontrollstasjonene og på åpne dekk.
+
+### Regel 13 Rømningsveier
+
+### 1 Formål
+
+Formålet med denne regelen er å sørge for rømningsveier slik at personene om bord sikkert og raskt kan rømme til dekket der innskiping i livbåter og redningsflåter foregår. For dette formålet skal følgende funksjonskrav oppfylles:.1 det skal finnes trygge rømningsveier.2 rømningsveiene skal holdes i sikker stand, fri for hindringer, og.3 det skal finnes ytterligere hjelpemidler til rømning etter behov for å sikre tilgjengelighet, tydelig merking og tilfredsstillende utforming med henblikk på nødssituasjoner.
+
+### 2 Generelle krav
+
+Med mindre annet er uttrykkelig fastsatt i denne regelen, skal det finnes minst to rømningsveier, med stor innbyrdes avstand, klare til bruk fra alle rom eller grupper av rom.
+
+Heiser skal ikke betraktes som en del av rømningsveiene i henhold til denne regelen.
+
+### 3 Rømningsveier fra kontrollstasjoner, rom i innredningen og arbeidsrom
+
+Fra alle passasjer- og besetningsrom og fra rom der besetningen vanligvis arbeider, unntatt maskinrom, skal det være montert trapper og leidere for å gi enkel rømningsvei til dekket der innskiping i livbåter og redningsflåter foregår.
+
+Med mindre annet er uttrykkelig fastsatt i denne regelen, skal en korridor, vestibyle, eller del av en korridor som det bare er én rømningsvei fra, være forbudt. Blindkorridorer i arbeidsområder som er nødvendig for skipets praktiske bruk, for eksempel brennoljestasjoner og tverrskips forsyningskorridorer, skal være tillatt, forutsatt at slike blindkorridorer er atskilt fra besetningsinnredningen og ikke er tilgjengelig fra passasjerinnredningen. En del av en korridor som har en dybde som ikke overstiger bredden, anses som en utsparing eller lokal forlengelse og er tillatt.
+
+Alle trapper i rom i innredningen, arbeidsrom og kontrollstasjoner skal ha stålrammekonstruksjon, unntatt der administrasjonen tillater bruk av annet tilsvarende materiale.
+
+Hvis en skipsradiostasjon ikke har direkte atkomst til åpent dekk, skal det være to rømningsveier fra eller atkomster til en slik stasjon, der én av disse kan være en lysventil eller et vindu med tilstrekkelig størrelse eller en annen åpning som vurderes som tilfredsstillende av administrasjonen.
+
+Dører i rømningsveier skal generelt åpnes i samme retning som rømningsretningen, med unntak av at.1 de enkelte lugardørene kan åpnes innover i lugaren for å unngå å skade personer i korridorer når døren åpnes, og.2 dører i vertikale rømningssjakter til bruk i nødstilfeller kan åpnes utover fra sjakten for å gjøre det mulig å bruke sjakten både til rømning og til atkomst.
+
+Under skottdekket skal det fra hver vanntette avdeling eller lignende begrenset rom eller gruppe av rom finnes to rømningsveier, og minst én av dem skal være uavhengig av vanntette dører. I unntakstilfeller kan administrasjonen tillate bare én rømningsvei for besetningsrom der personer bare av og til oppholder seg, hvis den påkrevde rømningsveien er uavhengig av vanntette dører.
+
+Når administrasjonen har gitt tillatelse i henhold til bestemmelsene i nr. 3.2.1.1, skal denne ene rømningsveien gi sikker rømning. Trapper skal likevel ikke være mindre enn 800 mm i fri bredde, med rekkverk på begge sider.
+
+Over skottdekket skal det være minst to rømningsveier fra hver vertikale hovedsone eller lignende begrenset rom eller gruppe av rom, og minst én av dem skal gi atkomst til en trapp som danner en vertikal rømningsvei.
+
+Trappehus i rom i innredningen og arbeidsrom skal ha direkte atkomst fra korridorene og tilstrekkelig areal til å hindre trengsel, under hensyn til det antallet personer som vil kunne bruke dem i et nødstilfelle. Innenfor omkretsen av slike trappehus er det tillatt bare med fellestoaletter, skap av ikke-brennbart materiale til oppbevaring av ikke-farlig sikkerhetsutstyr og åpne informasjonsskranker. Bare korridorer, heiser, fellestoaletter, spesiallasterom og åpne roro-rom som passasjerer kan ha atkomst til, andre rømningstrapper fastsatt i nr. 3.2.4.1 og utvendige områder tillates å ha direkte atkomst til disse trappehusene. Fellesrom kan også ha direkte atkomst til trappehus, unntatt området bak scenen på et teater. Små korridorer eller «vestibyler» som brukes til å skille en innelukket trapp fra bysser eller hovedvaskerier, kan ha direkte atkomst til trappen, forutsatt at de har et minste dekksareal på 4,5 m2, bredde på minst 900 mm og har en brannslangestasjon.
+
+Minst én av rømningsveiene som kreves etter nr. 3.2.1.1 og nr. 3.2.2, skal bestå av en lett tilgjengelig, innelukket trapp som skal gi sammenhengende vern mot brann fra det nivået der trappen begynner, og til vedkommende dekk for innskiping i livbåter og redningsflåter eller til det øverste værdekket hvis innskipingsdekket ikke går til vedkommende vertikale hovedsone. I sistnevnte tilfelle skal det finnes direkte atkomst til innskipingsdekket via utvendige, åpne trapper og ferdselsveier som skal ha nødbelysning i samsvar med regel III/11.5 og sklisikkert belegg på underlaget. Avgrensninger som vender mot utvendige, åpne trapper og ferdselsveier som inngår i en rømningsvei, og avgrensninger i en slik posisjon at svikt i dem under en brann ville hindre rømning til innskipingsdekket, skal ha en brannmotstand, herunder isolasjonsverdier, som er i samsvar med tabell 9.1 til 9.4, avhengig av hva som er aktuelt.
+
+Det skal være sørget for beskyttelse av atkomst fra trappehusene til innskipningsområdene for livbåter og redningsflåter, enten direkte eller gjennom beskyttede innvendige veier som har brannmotstand og isolasjonsverdier for trappehus som fastsatt i tabell 9.1 til 9.4, avhengig av hva som er aktuelt.
+
+Trapper som betjener bare et rom og en balkong i dette rommet, skal ikke betraktes som en av de påkrevde rømningsveiene.
+
+Hvert nivå i et atrium skal ha to rømningsveier, og én av disse skal ha direkte atkomst til en innelukket, vertikal rømningsvei som oppfyller kravene i nr. 3.2.4.1.
+
+Bredde, antall og sammenheng i rømningsveiene skal være i samsvar med kravene i FSS-koden.
+
+I tillegg til nødbelysningen som kreves etter regel II-1/42 og III/11.5, skal rømningsveier, herunder trapper og utganger, være merket med belysning eller selvlysende striper plassert ikke mer enn 300 mm over dekket, langs hele rømningsveien, herunder ved hjørner og i kryss. Merkingen skal gjøre det mulig for passasjerene å identifisere rømningsveiene og hurtig gjenkjenne rømningsutgangene. Hvis det brukes elektrisk belysning, skal den være forsynt fra nødkraftkilden og skal være slik innrettet at svikt i ett enkelt lys eller brudd i en selvlysende stripe ikke vil føre til at merkingen blir uten virkning. I tillegg skal skilt i rømningsveien og merking av steder der brannslokkingsutstyr er plassert, være av selvlysende materiale eller merket med belysning. Administrasjonen skal påse at slik belysning eller slikt selvlysende utstyr evalueres, prøves og anvendes i samsvar med FSS-koden.
+
+På passasjerskip som transporterer mer enn 36 passasjerer, får kravene i nr. 3.2.5.1 også anvendelse på besetningsinnredningen.
+
+I stedet for belysningen for rømningsveier som er fastsatt i nr. 3.2.5.1, kan alternative nødledesystemer godtas hvis de er godkjent av administrasjonen på grunnlag av retningslinjene utarbeidet av organisasjonen48.
+
+Dører til lugarer og private kahytter skal kunne åpnes fra innsiden uten bruk av nøkkel. Det skal heller ikke finnes dører langs en fastsatt rømningsvei som må åpnes med nøkkel ved ferdsel i rømningsretningen.
+
+Rømningsdører fra fellesrom som normalt er lukket med smekklås, skal være utstyrt med en innretning for hurtigutløsning. Denne skal bestå av en smekklåsmekanisme med en innebygd innretning som utløser klinken når den utsettes for en kraft i rømningsretningen. Hurtigutløsningsmekanismer skal være utforming og installert og vurdert som tilfredsstillende av administrasjonen, og særlig.1 bestå av stenger eller paneler der aktiveringsdelen strekker seg over minst halvparten av dørbladets bredde, minst 760 mm og ikke mer enn 1120 mm over dekket,.2 løse ut dørklinken når det anvendes en kraft på høyst 67 N og.3 ikke være utstyrt med noen låseinnretning, justeringsskrue eller annet arrangement som hindrer at klinken utløses når det legges trykk på utløserinnretningen.
+
+Evakueringsanalyse for passasjerskip49
+
+Rømningsveier skal vurderes ved en evakueringsanalyse på et tidlig trinn i konstruksjonsprosessen. Denne analysen gjelder for.1 roro-passasjerskip som er bygd 1. juli 1999 eller senere.2 andre passasjerskip som er bygd 1. januar 2020 og fører mer enn 36 passasjerer.
+
+Analysen skal brukes til å kartlegge og eliminere så langt som praktisk mulig, den trengselen som kan oppstå på grunn av passasjerenes og besetningens normale ferdsel langs rømningsveiene når skipet skal forlates, herunder muligheten for at besetningen kan måtte bevege seg langs disse veiene i motsatt retning av passasjerene. I tillegg skal analysen brukes til å påvise at rømningsarrangementene er tilstrekkelig fleksible til å ta hensyn til at visse rømningsveier, mønstringsstasjoner, innskipningsstasjoner eller redningsfarkoster kanskje ikke kan brukes som følge av en ulykke.
+
+På alle nivåer av innredningen skal det finnes minst to godt atskilte rømningsveier fra hvert begrensede rom eller gruppe av rom.
+
+Under det laveste åpne dekket skal hovedrømningsveien være en trapp og den ekstra rømningsveien kan være en sjakt eller en trapp. v2
+
+Over det laveste åpne dekket skal rømningsveiene være trapper eller dører til et åpent dekk eller en kombinasjon av disse.
+
+Ingen blindkorridorer med en lengde på mer enn 7 m skal godtas.
+
+Bredde, antall og sammenheng i rømningsveiene skal være i samsvar med kravene i FSS-koden.
+
+I unntakstilfeller kan administrasjonen gi dispensasjon fra kravet om to rømningsveier, for besetningsrom der personer bare av og til oppholder seg, hvis den påkrevde rømningsveien er uavhengig av vanntette dører.
+
+Pusteutstyr til nødevakuering skal være i samsvar med FSS-koden. Det skal oppbevares reservepusteutstyr til nødevakuering om bord.
+
+På alle skip skal det finnes minst to pusteapparater til nødevakuering i rom i innredningen.
+
+På passasjerskip skal det finnes minst to pusteapparater til nødevakuering i hver vertikale hovedsone.
+
+På passasjerskip som transporterer mer enn 36 passasjerer, skal det dessuten finnes to pusteapparater til nødevakuering i tillegg til de som kreves etter nr. 3.4.3 ovenfor, i hver vertikale hovedsone.
+
+Nr. 3.4.3 og 3.4.4 får imidlertid ikke anvendelse på trappehus som utgjør egne vertikale hovedsoner, og på de vertikale hovedsonene i for- eller akterenden av et skip som ikke inneholder rom i kategori (6), (7), (8) eller (12) definert i regel 9 nr. 2.2.3.
+
+### 4 Rømningsveier fra maskinrom
+
+Rømningsveier fra hvert maskinrom på passasjerskip skal være i samsvar med følgende bestemmelser.
+
+Når rommet ligger under skottdekket, skal de to rømningsveiene bestå av enten.1 to sett med stålleidere plassert så langt fra hverandre som mulig, som fører til dører i den øvre delen av rommet med tilsvarende avstand, og som gir atkomst til vedkommende dekk for innskiping i livbåter og redningsflåter. En av disse leiderne skal være plassert inne i en beskyttet innebygning som er i samsvar med regel 9 nr. 2.2.3, kategori (2), eller eventuelt regel 9 nr. 2.2.4, kategori (4), fra den nedre delen av rommet den betjener til et sikkert sted utenfor rommet. Selvlukkende branndører med samme standarder for brannmotstand skal monteres i innebygningen. Leideren skal monteres slik at det ikke overføres varme til innebygningen gjennom uisolerte festepunkter. Den beskyttede innebygningen skal ha innvendige minstemål på 800 mm x 800 mm og skal være utstyrt med nødbelysning, eller.2 en stålleider som fører til en dør i den øvre delen av rommet som gir atkomst til innskipingsdekket og i tillegg, i den nedre delen av rommet og på et sted godt atskilt fra nevnte leider, en ståldør som kan åpnes og lukkes fra begge sider, og som gir atkomst til en sikker rømningsvei fra nedre del av rommet til innskipingsdekket.
+
+Når rommet ligger over skottdekket, skal de to rømningsveiene være plassert lengst mulig fra hverandre, og dørene som fører fra disse rømningsveiene, skal være plassert slik at de gir atkomst til vedkommende innskipingsdekk for livbåter og redningsflåter. Når det er nødvendig å bruke leidere i slike rømningsveier, skal de være laget av stål.
+
+På skip med bruttotonnasje under 1000 kan administrasjonen gi dispensasjon fra kravet om to rømningsveier, under behørig hensyn til bredden og beliggenheten av den øvre delen av rommet. På skip med bruttotonnasje 1000 eller mer kan administrasjonen gi dispensasjon fra kravet om rømningsveier fra et slikt rom, herunder et normalt ubemannet hjelpemaskinrom, forutsatt at enten en dør eller en stålleider gir sikker rømningsvei til innskipingsdekket, under behørig hensyn til rommets art og beliggenhet og til om det normalt arbeider personer i rommet. I rom for styremaskin skal det finnes en ekstra rømningsvei når nødstyreplassen er plassert i rommet, med mindre det er direkte atkomst til åpent dekk.
+
+Det skal finnes to rømningsveier fra et maskinkontrollrom som ligger inne i et maskinrom, og minst én av disse skal gi sammenhengende vern mot brann til et sikkert sted utenfor maskinrommet.
+
+For skip bygget 1. januar 2016 eller senere skal alle skråstilte leidere/trapper som er installert for å samsvare med nr. 4.1.1 med åpne trinn i maskinrom, og som inngår i eller gir atkomst til rømningsveier, men som ikke er plassert inne i en beskyttet innebygning, være laget av stål. Slike leidere/trapper skal være utstyrt med stålskjermer festet til undersiden, for på den måten å beskytte rømmende personell fra varme og flammer nedenfra.
+
+På skip bygget 1. januar 2016 eller senere skal det finnes to rømningsveier fra hovedverkstedet inne i et maskinrom. Minst én av disse rømningsveiene skal gi sammenhengende vern mot brann til et trygt sted utenfor maskinrommet.
+
+Rømningsveier fra hvert maskinrom på lasteskip skal være i samsvar med følgende bestemmelser.
+
+Unntatt som fastsatt i nr. 4.2.2, skal det finnes to rømningsveier fra maskinrom av kategori A. Særlig skal én av følgende bestemmelser overholdes:.1 to sett med stålleidere plassert så langt fra hverandre som mulig, som fører til dører i den øvre delen av rommet med tilsvarende avstand, og som gir atkomst til åpent dekk. En av disse leiderne skal være plassert inne i en beskyttet innebygning som er i samsvar med regel 9 nr. 2.3.3, kategori (4), fra den nedre delen av rommet den betjener til et sikkert sted utenfor rommet. Selvlukkende branndører med samme standarder for brannmotstand skal monteres i innebygningen. Leideren skal monteres slik at det ikke overføres varme til innebygningen gjennom uisolerte festepunkter. Innebygningen skal ha innvendige minstemål på 800 mm x 800 mm og skal være utstyrt med nødbelysning eller.2 en stålleider som fører til en dør i den øvre delen av rommet som gir atkomst til åpent dekk og i tillegg, i den nedre delen av rommet og på et sted godt atskilt fra nevnte leider, en ståldør som kan åpnes og lukkes fra begge sider, og som gir atkomst til en sikker rømningsvei fra nedre del av rommet til åpent dekk.
+
+På skip med bruttotonnasje under 1000 kan administrasjonen gi dispensasjon fra kravet om to rømningsveier fastsatt i nr. 4.2.1, under behørig hensyn til dimensjonen og beliggenheten av den øvre delen av rommet. I tillegg behøver rømningsveier fra maskinrom av kategori A ikke oppfylle kravet om innelukket vern mot brann nevnt i nr. 4.2.1.1. I rom for styremaskin skal det finnes en ekstra rømningsvei når nødstyreplassen er plassert i rommet, med mindre det er direkte atkomst til åpent dekk.
+
+Fra andre maskinrom enn maskinrom av kategori A skal det finnes to rømningsveier, men en enkelt rømningsvei kan godtas for rom der personer bare av og til oppholder seg, og for rom der største gangavstand til døren er høyst 5 m.
+
+For skip bygget 1. januar 2016 eller senere skal alle skråstilte leidere/trapper som er installert for å samsvare med nr. 4.2.1 med åpne trinn i maskinrom, og som inngår i eller gir atkomst til rømningsveier, men som ikke er plassert inne i en beskyttet innebygning, være laget av stål. Slike leidere/trapper skal være utstyrt med stålskjermer festet til undersiden, for på den måten å beskytte rømmende personell fra varme og flammer nedenfra.
+
+På skip bygget 1. januar 2016 eller senere skal det finnes to rømningsveier fra maskinkontrollrommet inne i et maskinrom. Minst én av disse rømningsveiene skal gi sammenhengende vern mot brann til et trygt sted utenfor maskinrommet.
+
+På skip bygget 1. januar 2016 eller senere skal det finnes to rømningsveier fra hovedverkstedet inne i et maskinrom. Minst én av disse rømningsveiene skal gi sammenhengende vern mot brann til et trygt sted utenfor maskinrommet.
+
+På alle skip skal det i maskinrom være plassert pusteutstyr til nødevakuering klart til bruk på lett synlige steder som når som helst kan nås raskt og enkelt i tilfelle av brann. Plasseringen av pusteutstyr til nødevakuering skal ta hensyn til konstruksjonen av maskinrommet og antallet personer som normalt arbeider i rommene.51
+
+Antallet og plasseringen av dette utstyret skal være angitt på brannkontrolltegningen som fastsatt i regel 15 nr. 2.4.
+
+Pusteutstyr til nødevakuering skal være i samsvar med FSS-koden.
+
+### 5 Rømningsveier på passasjerskip fra spesiallasterom og åpne roro-rom som passasjerer har adgang til
+
+I spesiallasterom og åpne roro-rom som passasjerer har adgang til, skal antall og plassering av rømningsveier både under og over skottdekket vurderes som tilfredsstillende av administrasjonen, og generelt skal sikkerheten for atkomst til innskipningsdekket minst være likeverdig med den som er fastsatt i nr. 3.2.1.1, nr. 3.2.2, nr. 3.2.4.1 og nr. 3.2.4.2. Slike rom skal være utstyrt med egne gangbaner til rømningsveien med en bredde på minst 600 mm. Parkeringsordningen for kjøretøyene skal være slik at gangbanene er frie til enhver tid.
+
+En av rømningsveiene fra maskinrom der besetningen normalt er i arbeid, skal unngå direkte atkomst til spesiallasterom.
+
+### 6 Rømningsveier fra roro-rom
+
+Det skal finnes minst to rømningsveier fra roro-rom der besetningen normalt er i arbeid. Rømningsveiene skal gi sikker rømning til dekket for innskiping i livbåter og redningsflåter og skal være plassert i for- og akterenden av rommet.
+
+### 7 Tilleggskrav til roro-passasjerskip
+
+Det skal finnes rømningsveier fra alle rom på skipet der personer normalt oppholder seg, til en mønstringsstasjon. Disse rømningsveiene skal være slik innrettet at de gir mest mulig direkte vei til mønstringsstasjonen52, og skal være merket med symboler på grunnlag av retningslinjene som organisasjonen har utarbeidet.53
+
+Rømningsveien fra lugarer til trappehus skal være så direkte som mulig, med et så lite antall retningsendringer som mulig. Det skal ikke være nødvendig å gå fra den ene siden av skipet til den andre for å komme til en rømningsvei. Det skal ikke være nødvendig å gå mer enn to dekk opp eller ned for å komme til en mønstringsstasjon eller åpent dekk fra noe passasjerrom.
+
+Det skal finnes utvendige veier fra åpent dekk, som nevnt i nr. 7.1.2, til innskipningsstasjonene for redningsfarkostene.
+
+Når innelukkede rom grenser til et åpent dekk, skal åpninger fra det innelukkede rommet til det åpne dekket kunne brukes som nødutgang, når det er praktisk mulig.
+
+Rømningsveier skal ikke sperres av møbler og andre hindringer. Med unntak av bord og stoler som kan flyttes for å skaffe åpen plass, skal skap og annet tungt inventar i fellesrom og langs rømningsveier være fastgjort for å hindre at de forskyver seg hvis skipet ruller eller krenger. Gulvbelegg skal også være fastgjort. Når skipet er underveis, skal rømningsveiene holdes fri for hindringer som f.eks. rengjøringstraller, sengetøy, bagasje og kasser med varer.
+
+Dekk skal være løpende nummerert, med tanktopp eller laveste dekk som nummer «1». Numrene skal ha en framtredende plassering på trappeavsatser og foran heiser. Dekk kan også ha navn, men dekknummeret skal alltid stå sammen med navnet.
+
+Enkle tegninger med angivelsen «Du er her» og rømningsveier markert med piler skal være framtredende plassert på innsiden av hver lugardør og i fellesrom. Tegningen skal vise rømningsretningene og skal være korrekt orientert ut fra hvor i skipet den er plassert.
+
+Det skal være montert rekkverk eller andre håndlister i korridorer langs hele rømningsveien, slik at hele veien som fører til mønstrings- og innskipningsstasjoner om mulig er utstyrt med uavbrutte fastholdingsinnretninger. Slike rekkverk skal være montert på begge sider av korridorer i langsskipsretningen på mer enn 1,8 meters bredde og i korridorer i tverrskipsretningen på mer enn én meters bredde. Det skal tas særlig hensyn til behovet for å krysse vestibyler, atrier og andre store, åpne rom langs rømningsveier. Rekkverk og andre håndlister skal ha slik styrke at de kan tåle en fordelt horisontal belastning på 750 N/m som påføres i retning av korridorens eller rommets midtpunkt, og en fordelt vertikal belastning på 750 N/m som påføres nedover. De to belastningene behøver ikke påføres samtidig.
+
+De nederste 0,5 m av skott og andre skillevegger som danner vertikale skiller langs rømningsveier, skal kunne tåle en belastning på 750 N/m for at det skal være mulig å gå på dem når skipet har stor krengningsvinkel.
+
+### Del E
+Driftskrav
+
+### Regel 14 Operativ beredskap og vedlikehold
+
+### 1 Formål
+
+Formålet med denne regelen er å opprettholde og overvåke effektiviteten i brannsikringstiltakene som skipet er utstyrt med. For dette formålet skal følgende funksjonskrav oppfylles:.1 brannvernsystemer og brannslokkingsanlegg og -redskaper skal holdes klare til bruk, og.2 brannvernsystemer og brannslokkingsanlegg og -redskaper skal prøves og kontrolleres forsvarlig.
+
+### 2 Generelle krav
+
+Kravene i nr. 1.1 skal oppfylles til enhver tid mens skipet er i fart. Et skip er ikke i fart når.1 det er inne til reparasjon eller i opplag (enten for anker eller i havn) eller i tørrdokk.2 når rederiet eller rederiets representant har erklært at det ikke er i fart, og.3 når det, for passasjerskips vedkommende, ikke er passasjerer om bord.
+
+Følgende brannvernsystemer skal holdes i god stand for å sikre at de er fullt funksjonsdyktige hvis en brann skulle oppstå.1 konstruksjonsmessig brannvern, herunder brannsikre skiller og beskyttelse av åpninger og gjennomføringer i slike skiller.2 branndeteksjons- og brannalarmanlegg, og.3 rømningssystemer og -redskaper.
+
+Brannslokkingsanlegg og -redskaper skal holdes i god stand og være lett tilgjengelige for umiddelbar bruk. Bærbare brannslokkingsapparater som er tomme, skal umiddelbart fylles på nytt eller erstattes med en tilsvarende enhet.
+
+Vedlikehold, prøving og inspeksjoner skal utføres på grunnlag av retningslinjene utarbeidet av organisasjonen54 og på en måte som tar behørig hensyn til å sikre påliteligheten til brannslokkingsanlegg og -redskaper.
+
+En vedlikeholdsplan skal oppbevares om bord på skipet og skal være tilgjengelig for inspeksjon når administrasjonen måtte kreve det.
+
+Vedlikeholdsplanen skal omfatte minst følgende brannvernsystemer og brannslokkingsanlegg og -redskaper, der følgende er installert:.1 brannledninger, brannpumper og hydranter, herunder slanger, dyser og internasjonale landtilkoplinger.2 fastmonterte branndeteksjons- og brannalarmanlegg.3 fastmonterte brannslokkingsanlegg og andre brannslokkingsredskaper.4 automatiske sprinkler-, branndeteksjons- og brannalarmanlegg.5 ventilasjonssystemer, herunder brann- og røykspjeld, vifter og deres betjeningsinnretninger.6 nødavstenging av brenselstilførsel.7 branndører og deres betjeningsinnretninger.8 hovedalarmsystemer.9 pusteutstyr til nødevakuering.10 bærbare brannslokkingsapparater, herunder reserveladninger, og.11 røykdykkerutstyr.
+
+Vedlikeholdsprogrammet kan være databasert.
+
+### 3 Tilleggskrav til passasjerskip
+
+I tillegg til brannvernsystemene og -redskapene oppført i nr. 2.2.3, skal skip som transporterer mer enn 36 passasjerer, utarbeide en vedlikeholdsplan for lavt plassert belysning og høyttaleranlegg.
+
+### 4 Tilleggskrav til tankskip
+
+I tillegg til brannvernsystemene og -redskapene oppført i nr. 2.2.3, skal tankskip utarbeide en vedlikeholdsplan for.1 nøytralgassystemer.2 skumslokkingsanlegg på dekk.3 brannsikringsarrangementer i lastepumperom, og.4 detektorer for brannfarlig gass.
+
+### Regel 15 Instrukser, opplæring og øvelser om bord
+
+### 1 Formål
+
+Formålet med denne regelen er å redusere konsekvensene av brann ved å fastsette hensiktsmessige instrukser for personene om bord for opplæring og øvelse i riktige framgangsmåter i nødstilfeller. For dette formålet skal besetningen ha den nødvendige kunnskap og ferdighet i å håndtere nødstilfeller med brann, herunder omsorg for passasjerene.
+
+### 2 Generelle krav
+
+Besetningsmedlemmene skal få instrukser om brannsikkerhet om bord på skipet.
+
+Besetningsmedlemmene skal få instrukser om sine fastsatte oppgaver.
+
+Det skal organiseres lag som har ansvar for brannslokking. Disse lagene skal til enhver tid ha anledning til å utføre sine oppgaver mens skipet er i fart.
+
+Besetningsmedlemmene skal være opplært til å kjenne skipets arrangementer samt plassering og betjening av brannslokkingsanlegg og -redskaper som de kan komme til å bruke.
+
+Opplæring i bruk av pusteutstyr til nødevakuering skal anses som en del av opplæringen om bord.
+
+Ytelsen til besetningsmedlemmer som har fått tildelt brannslokkingsoppgaver, skal vurderes periodisk ved at det gjennomføres opplæring og øvelser om bord for å bestemme områder der det er nødvendig med forbedringer, for å sikre at det opprettholdes kompetanse i brannslokking og for å sikre beredskapen til brannslokkingslagene.
+
+Opplæring om bord i bruk av skipets brannslokkingsanlegg og -redskaper skal planlegges og gjennomføres i samsvar med bestemmelsene i regel III/19.4.1.
+
+Brannøvelser skal gjennomføres og registreres i samsvar med bestemmelsene i regel III/19.3 og III/19.5.
+
+Et middel til opplading av pusteapparatsylindre brukt under øvelser skal finnes om bord, eller det skal finnes et egnet antall reservesylindre for å erstatte de som brukes.
+
+Det skal finnes en opplæringshåndbok i alle messer og fritidsrom for besetningen eller i alle mannskapslugarer.
+
+Opplæringshåndboken skal være skrevet på skipets arbeidsspråk.
+
+Opplæringshåndboken, som kan bestå av flere bind, skal inneholde de nødvendige instruksene og opplysningene som framgår av nr. 2.3.4, på en lett forståelig måte og om mulig med illustrasjoner. Slike opplysninger kan gis i form av audiovisuelle hjelpemidler i stedet for en håndbok.
+
+Opplæringshåndboken skal inneholde en detaljert forklaring av følgende:.1 generell brannvernpraksis og sikkerhetstiltak i forbindelse med farene ved røyking, elektriske faremomenter, brannfarlige væsker og lignende vanlige faremomenter om bord på skip.2 generelle instrukser om brannslokking og framgangsmåter ved brannslokking, herunder framgangsmåter for brannvarsling og bruk av manuelle brannmeldere.3 betydningen av skipets forskjellige alarmer.4 betjening og bruk av brannslokkingsanlegg og -redskaper.5 betjening og bruk av branndører.6 betjening og bruk av brann- og røykspjeld, og.7 rømningssystemer og -redskaper.
+
+Til veiledning for skipets offiserer skal det være permanent oppslått generalarrangementstegninger som tydelig viser for hvert dekk kontrollstasjonene, de forskjellige brannsoner omgitt av skiller i klasse «A», soner omgitt av skiller i klasse «B» samt opplysninger om branndeteksjons- og brannalarmanlegget, sprinkleranlegget, brannslokkingsredskapene, atkomstmidler til forskjellige rom, dekk osv., og ventilasjonssystemet, herunder nærmere opplysninger om hvor viftekontrollinnretningene er plassert, plassering av spjeld og identifikasjonsnumre for ventilasjonsviftene som betjener hver sone. Som et alternativ kan ovennevnte opplysninger, etter administrasjonens skjønn, være oppført i et hefte som hver offiser skal ha fått et eksemplar av, og ett eksemplar skal til enhver tid finnes om bord på et tilgjengelig sted. Tegninger og hefter skal holdes à jour ved at enhver forandring noteres på eller i dem så snart som mulig. Beskrivelsene på slike tegninger og i slike hefter skal være på det språket eller de språkene som administrasjonen krever. Hvis språket er verken engelsk eller fransk, skal en oversettelse til ett av disse språkene være tatt med.
+
+En gjenpart av brannkontrolltegninger eller et hefte med slike tegninger skal oppbevares permanent i en tydelig merket, værtett kasse utenfor dekkshuset til hjelp for landbasert brannslokkingsmannskap56.
+
+### 3 Tilleggskrav til passasjerskip
+
+I tillegg til kravet i nr. 2.2.3 skal det holdes brannøvelser i samsvar med bestemmelsene i regel III/30, under behørig hensyn til varsling av passasjerer og passasjerenes ferdsel til mønstringsstasjoner og innskipingsdekk.
+
+På skip som transporterer mer enn 36 passasjerer, skal tegninger og hefter fastsatt i denne regelen gi informasjon om brannvern, branndeteksjon og brannslokking på grunnlag av retningslinjene som organisasjonen har utgitt.57
+
+### Regel 16 Drift
+
+### 1 Formål
+
+Formålet med denne regelen er å gi opplysninger og instrukser om riktig drift av skipet og håndtering av lasten med hensyn til brannvern. For dette formålet skal følgende funksjonskrav oppfylles:.1 det skal finnes driftshåndbøker for brannvern om bord og.2 utslipp av brannfarlige gasser fra ventilasjon av lastetanker skal kontrolleres.
+
+### 2 Driftshåndbøker for brannvern
+
+Den påkrevde driftshåndboken for brannvern skal inneholde nødvendige opplysninger og instrukser om sikker drift av skipet og håndtering av lasten med hensyn til brannvern. Boken skal inneholde opplysninger om besetningens ansvar for skipets generelle brannvern under lasting og lossing og mens skipet er underveis. Nødvendige forholdsregler for brannvern ved håndtering av stykkgods skal være forklart. For skip som transporterer farlig last og brannfarlig last i bulk, skal driftshåndboken for brannvern også vise til de aktuelle instruksene for brannslokking og håndtering av last i nødssituasjoner som finnes i Det internasjonale regelverket for sikker transport til sjøs av fast bulklast (IMSBC-koden), IBC-koden, IGC-koden og IMDG-koden, etter hva som er aktuelt.
+
+Det skal finnes en driftshåndbok for brannvern i alle messer og fritidsrom for besetningen eller i alle mannskapslugarer.
+
+Driftshåndboken for brannvern skal være skrevet på skipets arbeidsspråk.
+
+Driftshåndboken for brannvern kan kombineres med opplæringshåndbøkene som kreves etter regel 15 nr. 2.3.
+
+### 3 Tilleggskrav til tankskip
+
+Driftshåndboken for brannvern nevnt i nr. 2, skal inneholde bestemmelser for å hindre brann i å spre seg til lasteområdet på grunn av antenning av brannfarlig damp, og inneholde framgangsmåter for å rense lastetanker for gass og/eller gjøre dem gassfrie, under hensyn til bestemmelsene i nr. 3.2.
+
+Når skipet er utstyrt med nøytralgassystem, skal lastetankene først renses i samsvar med bestemmelsene i regel 4 nr. 5.6 til konsentrasjonen av hydrokarbondamp i lastetankene er redusert til mindre enn 2 volumprosent. Deretter kan lastetankdekket gjøres gassfritt.
+
+Når skipet ikke er utstyrt med nøytralgassystem, skal operasjonen foregå slik at brannfarlig damp først fjernes gjennom.1 ventilasjonsutløpene som angitt i regel 4 nr. 5.3.4.2 utløp minst 2 m over lastetankdekket, med vertikal utstrømningshastighet på minst 30 m/s som opprettholdes hele tiden mens lastetankene gjøres gassfrie, eller.3 utløp minst 2 m over lastetankdekket, med vertikal utstrømningshastighet på minst 20 m/s og som er beskyttet med hensiktsmessige innretninger for å hindre at flammer trenger gjennom.
+
+Ovennevnte utløp skal være plassert minst 10 m målt horisontalt fra nærmeste luftinntak og åpninger til innelukkede rom som inneholder en tennkilde, og fra dekksmaskineri, som omfatter ankerspill og åpninger i kjettingkasse, og utstyr som kan utgjøre en brann- eller eksplosjonsfare.
+
+Når konsentrasjonen av brannfarlig gass ved utløpet er redusert til 30 % av den nedre brannfarlige grensen, kan arbeidet med å gjøre lastetankdekket gassfritt fortsette.
+
+Nøytralgassystemet for tankskip som er påkrevd i henhold til regel 4 nr. 5.5.1, skal driftes slik at atmosfæren i lastetankene gjøres og holdes ikke-brannfarlig, unntatt når det kreves at slike tanker er gassfrie.
+
+Uten hensyn til ovennevnte krav, kan anvendelsen av nøytralgass på kjemikalietankskip skje etter at lastetanken er blitt lastet, men før lossing startes, og skal anvendes kontinuerlig fram til all brannfarlig damp er fjernet fra lastetanken før den gjøres gassfri. Kun nitrogen aksepteres som nøytralgass under denne bestemmelsen.
+
+Uten hensyn til regel 1 nr. 2.2.2, skal bestemmelsene i dette nummeret kun gjelde for tankskip bygget 1. januar 2016 eller senere. Hvis oksygeninnholdet i nøytralgassen overstiger 5 volumprosent, skal det umiddelbart iverksettes tiltak for å forbedre gasskvaliteten. Med mindre kvaliteten på gassen forbedres, skal alle operasjoner i de lastetankene der nøytralgassen tilføres, stoppes for å unngå at luft suges inn i lastetankene, gassreguleringsventilen, hvis installert, skal lukkes, og gassen som ikke er innenfor spesifikasjonen, skal ventileres til atmosfæren.
+
+Hvis nøytralgassystemet ikke kan tilfredsstille kravet i nr. 16.3.3.1, og det har blitt vurdert at det ikke er praktisk å iverksette en reparasjon, skal lossing og rengjøring av lastetankene som må nøytraliseres, kun gjenopptas når egnede nødprosedyrer er blitt fulgt, idet det tas hensyn til retningslinjer utarbeidet av organisasjonen58.
+
+### Del F
+Alternative utforminger og arrangementer
+
+### Regel 17 Alternative utforminger og arrangementer
+
+### 1 Formål
+
+Formålet med denne regelen er å fastsette metoder for alternative utforminger av og arrangementer for brannvern.
+
+### 2 Generelle bestemmelser
+
+Utforming av og arrangementer for brannvern kan avvike fra de forskriftsmessige kravene som er oppført i del B, C, D, E eller G, forutsatt at utformingen og arrangementene oppfyller brannsikringsmålene og funksjonskravene.
+
+Når utforming av eller arrangementer for brannvern avviker fra de forskriftsmessige kravene i dette kapittelet, skal det foretas en teknisk analyse, evaluering og godkjenning av de alternative utformingene og arrangementene i samsvar med denne regelen.
+
+### 3 Teknisk analyse
+
+Den tekniske analysen skal utarbeides og fremlegges for administrasjonen, på grunnlag av retningslinjene utarbeidet av organisasjonen59, og skal minst omfatte følgende elementer:.1 fastsettelse av den aktuelle skipstypen og rommet (rommene),.2 bestemmelse av forskriftmessige krav som skipet eller rommet (rommene) ikke vil oppfylle,.3 kartlegging av brann- og eksplosjonsfarene på skipet eller i de(t) aktuelle rom,.3.1 bestemmelse av mulige tennkilder,.3.2 kartlegging av risikoen for brannutvikling i hvert aktuelle rom,.3.3 kartlegging av risikoen for utvikling av røyk og utstrømming av giftige stoffer for hvert aktuelle rom,.3.4 kartlegging av risikoen for spredning av brann, røyk eller utstrømming av giftige stoffer fra de(t) aktuelle rom til andre rom,.4 bestemmelse av de påkrevde ytelseskriteriene for brannvern for skipet eller de(t) aktuelle rom som dekkes av de(t) forskriftsmessige krav,.4.1 ytelseskriteriene skal være basert på brannsikringsmålene og på funksjonskravene i dette kapittelet,.4.2 ytelseskriteriene skal gi en sikkerhetsgrad som minst er likeverdig med den som oppnås ved å bruke de forskriftsmessige kravene, og.4.3 ytelseskriteriene skal være kvantifiserbare og målbare,.5 detaljert beskrivelse av de alternative utformingene og arrangementene, herunder en liste med de forutsetningene som er brukt i utformingen og eventuelle foreslåtte driftsmessige begrensninger eller vilkår, og.6 teknisk begrunnelse med påvisning av at alternativ utforming og arrangementer oppfyller de fastsatte ytelseskriteriene for brannvern.
+
+### 4 Evaluering av alternativ utforming og arrangementer
+
+Den tekniske analysen som kreves i nr. 3, skal evalueres og godkjennes av administrasjonen, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.60
+
+En kopi av dokumentasjonen, som er godkjent av administrasjonen og som viser at alternativ utforming og arrangementer er i samsvar med denne regelen, skal oppbevares om bord på skipet.
+
+### 5 Utveksling av opplysninger
+
+Administrasjonen skal oversende organisasjonen relevante opplysninger om alternativ utforming og arrangementer som administrasjonen har godkjent, for distribusjon til alle kontraherende regjeringer.
+
+### 6 Ny evaluering som følge av endrede forhold
+
+Hvis forutsetningene og de driftsmessige begrensningene som ble fastsatt for alternativ utforming og arrangementer, endres, skal den tekniske analysen utføres under de endrede forholdene og skal godkjennes av administrasjonen.
+
+### Del G
+Særlige krav
+
+### Regel 18 Helikopteranlegg
+
+### 1 Formål
+
+Formålet med denne regelen er å fastsette tilleggstiltak for å ivareta brannsikringsmålene i dette kapittelet for skip utstyrt med spesialanlegg for helikoptre. For dette formålet skal følgende funksjonskrav oppfylles:.1 helikopterdekkonstruksjonen må være tilstrekkelig sterk til å beskytte skipet mot de brannfarene som er forbundet med helikopteroperasjoner.2 det skal finnes brannslokkingsredskaper for å gi skipet tilstrekkelig beskyttelse mot de brannfarene som er forbundet med helikopteroperasjoner.3 drivstoffyllings- og hangaranlegg og -operasjoner skal omfatte de nødvendige tiltakene for å beskytte skipet mot de brannfarene som er forbundet med helikopteroperasjoner, og.4 det skal finnes driftshåndbøker, og det skal gis opplæring.
+
+### 2 Anvendelse
+
+I tillegg til å oppfylle kravene i reglene i del B, C, D og E, avhengig av hva som er aktuelt, skal skip utstyrt med helikopterdekk oppfylle kravene i denne regelen.
+
+Når helikoptre lander eller utfører vinsjeoperasjoner bare leilighetsvis eller i nødssituasjoner på skip uten helikopterdekk, kan det brukes brannslokkingsutstyr montert i samsvar med kravene i del C. Dette utstyret skal være lett tilgjengelig og plassert nær landings- eller vinsjeområdene under helikopteroperasjoner.
+
+Uten hensyn til kravene i nr. 2.2 over skal skip som er bygd 1. januar 2020 eller senere og har et landingsområde for helikopter, være utstyrt med brannslokkingsapparater (skumapparat) som er i samsvar med de relevante bestemmelsene i kapittel 17 i FSS-koden.
+
+Uten hensyn til kravene i nr. 2.2 eller 2.3 over skal roro-passasjerskip uten helikopterdekk være i samsvar med regel III/28.
+
+### 3 Konstruksjon
+
+Generelt skal helikopterdekket være laget av stål eller andre tilsvarende materialer. Helikopterdekk skal være isolert etter klasse «A-60»-standard mot eventuelle underliggende dekkshus eller overbygninger.
+
+Hvis administrasjonen tillater konstruksjoner av aluminium eller andre metaller med lavt smeltepunkt som ikke er gjort likeverdige med stål, skal følgende bestemmelser oppfylles:.1 hvis plattformen henger ut over skipssiden, skal plattformen etter hver brann på skipet eller plattformen gjennomgå en konstruksjonsanalyse for å bestemme om den er egnet til videre bruk, og.2 hvis plattformen er plassert over skipets dekkshus eller lignende konstruksjon, skal følgende vilkår oppfylles:.2.1 dekkshusets topp og skott under plattformen skal ikke ha noen åpninger.2.2 vinduer under plattformen skal være utstyrt med stållemmer og.2.3 etter hver brann på plattformen eller i nærheten av denne skal plattformen gjennomgå en konstruksjonsanalyse for å bestemme om den er egnet til videre bruk.
+
+### 4 Rømningsveier
+
+Et helikopterdekk skal være utstyrt med både en hovedrømningsvei og en reserverømningsvei og atkomst for brannslokkings- og redningsmannskap. Disse skal ligge så langt fra hverandre som praktisk mulig og helst på motsatte sider av helikopterdekket.
+
+### 5 Brannslokkingsredskaper
+
+I umiddelbar nærhet av helikopterdekket skal følgende brannslokkingsredskaper finnes og oppbevares nær atkomståpningene til helikopterdekket:.1 minst to pulverapparater med samlet kapasitet på minst 45 kg61.2 CO2-apparater med samlet kapasitet på minst 18 kg eller tilsvarende62.3 et hensiktsmessig skumslokkingsanlegg som består av kanoner eller skumproduserende grenrør som kan levere skum til alle deler av helikopterdekket under alle værforhold som helikoptre kan operere i. Anlegget skal kunne levere en utstrømningsmengde som fastsatt i tabell 18.1 i minst fem minutter*Tabell 18.1 – Utstrømningsmengder for skum**Kategori**Helikoptrets samlede lengde**Utstrømningsmengde for skumløsning (l/min)*H1inntil 15 m250H2fra 15 m og inntil 24 m500H3fra 24 m og inntil 35 m800.4 hovedmiddelet skal være egnet for bruk med saltvann og være i samsvar med ytelsesstandarder som ikke er dårligere enn de som organisasjonen kan godta63.5 minst to dyser av godkjent kombinert type (stråle/tåke) og tilstrekkelige slanger til å nå enhver del av helikopterdekket,.6 i stedet for kravene i nr. 5.1.3 til og med 5.1.5, på skip som er bygd 1. januar 2020 eller senere og har et helikopterdekk, brannslokkingsutstyr (skumapparat) som er i samsvar med bestemmelsene i FSS-koden,.7 i tillegg til kravene i regel 10 nr. 10, to sett med røykdykkerutstyr, og.8 minst følgende utstyr skal oppbevares på en måte som muliggjør umiddelbar bruk og med beskyttelse mot elementene:.1 skiftenøkkel.2 brannteppe.3 boltekuttere, 60 cm.4 gripe- eller redningshake.5 baufil, solid, komplett med 6 reserveblader.6 stige.7 heiseline 5 mm diameter x 15 m lang.8 nebbtenger med avbiter.9 sett med forskjellige skrutrekkere og.10 kniv, komplett med slire og belte.
+
+### 6 Dreneringsanlegg
+
+Dreneringsanlegg på helikopterdekk skal være laget av stål og skal føre direkte over bord, uavhengig av noe annet system, og skal være utformet slik at avløp ikke faller ned på noen del av skipet.
+
+### 7 Drivstoffyllings- og hangaranlegg for helikopter
+
+Når skipet har drivstoffyllings- og hangaranlegg for helikopter, skal følgende krav oppfylles:.1 det skal finnes et eget område for lagring av drivstofftanker, som skal være.1.1 så langt unna som praktisk mulig fra rom i innredningen, rømningsveier og innskipningsstasjoner, og.1.2 atskilt fra områder som inneholder en kilde til antenning av damp.2 området for drivstofflagring skal være utstyrt med arrangementer som sikrer at søl av drivstoff kan samles opp og dreneres til et sikkert sted.3 tanker og tilhørende utstyr skal være beskyttet mot fysisk skade og mot brann i et tilstøtende rom eller område.4 når det brukes transportable tanker til lagring av drivstoff, skal det tas særlig hensyn til.4.1 tankens utforming med henblikk på det tiltenkte formålet.4.2 monterings- og sikringsarrangementer.4.3 jording av elektrisk utstyr og.4.4 framgangsmåter ved inspeksjon.5 drivstoffpumper ved lagertanker skal være utstyrt med innretninger som muliggjør fjernavstenging fra et sikkert sted i tilfelle av brann. Når det er installert et anlegg for drivstoffylling ved naturlig fall, skal det finnes likeverdige avstengingsarrangementer for å stenge drivstoffkilden.6 drivstoffpumpeenheten skal være koplet til én tank om gangen. Røropplegget mellom tanken og pumpeenheten skal være av stål eller annet tilsvarende materiale, så kort som mulig, og beskyttet mot skade.7 elektriske drivstoffpumpeenheter og tilhørende kontrollutstyr skal være av en type som er egnet for plasseringen og mulige farer.8 drivstoffpumpeenheter skal omfatte en innretning som vil hindre dannelse av overtrykk i tilførsels- eller fylleslangen.9 utstyr som brukes ved fylling av drivstoff, skal være jordet.10 skilt med «RØYKING FORBUDT» skal være slått opp på hensiktsmessige steder.11 hangar-, drivstoffyllings- og vedlikeholdsanlegg skal behandles som maskinrom i kategori «A» med hensyn til krav til konstruksjonsmessig brannvern og fastmonterte brannslokkings- og deteksjonsanlegg.12 innelukkede hangaranlegg eller innelukkede rom som inneholder installasjoner for fylling av drivstoff, skal være utstyrt med mekanisk ventilasjon, som fastsatt i regel 20 nr. 3 for lukkede roro-rom på lasteskip. Ventilasjonsvifter skal være av en type som ikke danner gnister, og.13 elektrisk utstyr og ledningsforbindelser i innelukkede hangarrom eller innelukkede rom som inneholder installasjoner for fylling av drivstoff, skal være i samsvar med regel 20 nr. 3.2, 3.3 og 3.4.
+
+### 8 Driftshåndbok og brannslokkingstjeneste
+
+Hvert helikopteranlegg skal ha en driftshåndbok, herunder en beskrivelse og en sjekkliste med sikringstiltak, framgangsmåter og utstyrskrav. Denne håndboken kan være en del av skipets framgangsmåter for håndtering av nødstilfeller.
+
+Framgangsmåtene og forholdsreglene som skal følges ved fylling av drivstoff, skal være i samsvar med anerkjent sikker praksis og skal være inntatt i driftshåndboken.
+
+Brannslokkingsmannskap som består av minst to personer med opplæring i rednings- og brannslokkingsoppgaver og brannslokkingsutstyr, skal være umiddelbart tilgjengelig til enhver tid når det ventes helikopteroperasjoner.
+
+Brannslokkingsmannskap skal være til stede ved fylling av drivstoff. Brannslokkingsmannskapet skal imidlertid ikke delta i fylling av drivstoff.
+
+Det skal holdes oppfriskingskurs om bord, og det skal finnes ekstra forsyning av brannslokkingsmiddel til opplæring og prøving av utstyret.
+
+### Regel 19 Transport av farlig last64
+
+### 1 Formål
+
+Formålet med denne regelen er å fastsette ekstra sikkerhetstiltak for å ivareta brannsikringsmålene i dette kapittelet for skip som transporterer farlig last. For dette formålet skal følgende funksjonskrav oppfylles:.1 det skal finnes brannvernsystemer for å beskytte skipet mot den ekstra brannfaren som er forbundet med transport av farlig last.2 farlig last skal være tilstrekkelig atskilt fra tennkilder, og.3 det skal finnes hensiktsmessig personlig verneutstyr for de farene som er forbundet med transport av farlig last.
+
+### 2 Generelle krav
+
+I tillegg til å oppfylle kravene i reglene i del B, C, D, E og regel 18 og 2065, avhengig av hva som er aktuelt, skal skipstyper og lasterom nevnt i nr. 2.2 som er beregnet på transport av farlig last, oppfylle kravene i denne regelen, avhengig av hva som er aktuelt, unntatt ved transport av farlig last i begrensede mengder66 og unntatte mengder67, med mindre slike krav allerede er oppfylt ved samsvar med kravene andre steder i dette kapittelet. Skipstypene og transportmåtene for farlig last er nevnt i nr. 2.2 og i tabell 19.1. Lasteskip med bruttotonnasje under 500 skal være i samsvar med denne regelen, men administrasjonene kan redusere kravene, og slike reduserte krav skal være innført i godkjenningsbeviset som er nevnt i nr. 4.
+
+Tabell 19.1 og 19.2 benyttes for følgende skipstyper og lasterom:.1 skip og lasterom som ikke er spesifikt utformet for transport av transportcontainere, men beregnet på transport av farlig last i emballert form, herunder last i transportcontainere og transportable tanker.2 spesialbygde containerskip og lasterom beregnet på transport av farlig last i transportcontainere og transportable tanker.3 roro-skip og roro-rom beregnet på transport av farlig last.4 skip og lasterom beregnet på transport av fast, farlig last i bulk, og.5 skip og lasterom beregnet på transport av annen farlig last enn væsker og gasser i bulk i lektere som transporteres med skip.
+
+### 3 Særlige krav
+
+Med mindre annet er fastsatt, skal følgende krav gjelde for anvendelse av tabell 19.1, 19.2 og 19.3 på stuing av farlig last både på dekk og under dekk, når numrene på følgende avsnitt står i første kolonne i tabellene.
+
+Det skal være sørget for innretninger for å sikre umiddelbar tilgang til vannforsyning fra brannledningen ved det påkrevde trykket, enten ved permanent trykksetting eller ved hensiktsmessig plasserte fjernstyringsinnretninger for brannpumpene.
+
+Den vannmengden som leveres, skal kunne forsyne fire dyser med en størrelse og ved et trykk som fastsatt i regel 10 nr. 2, som skal kunne rettes mot enhver del av lasterommet når det er tomt. Denne vannmengden kan påføres ved likeverdige midler som skal vurderes som tilfredsstillende av administrasjonen.
+
+Det skal finnes midler til effektiv nedkjøling av det angitte lasterommet under dekk med minst 5 liter/min per kvadratmeter horisontalt areal av lasterom, enten ved et fastmontert arrangement av overrislingsdyser eller fylling av lasterommet med vann. I små lasterom og i små områder av større lasterom kan slanger brukes for dette formålet etter administrasjonens skjønn. Drenerings- og pumpearrangementene skal likevel være slik at de hindrer dannelse av frie væskeoverflater. Dreneringsanlegget skal være dimensjonert for å fjerne minst 125 % av den kombinerte kapasiteten av både pumpene for vannforstøvningssystemet og det påkrevde antallet dyser for brannslanger. Ventilene i dreneringsanlegget skal kunne betjenes fra utsiden av det beskyttede rommet på et sted i nærheten av betjeningsinnretningene for slokkingsanlegget. Lensebrønner skal ha tilstrekkelig kapasitet og skal være plassert ved skipssiden i en innbyrdes avstand på høyst 40 m i hvert vanntett rom. Hvis dette ikke er mulig, skal det tas hensyn til den negative virkningen på stabiliteten som den ekstra vekten og den frie vannoverflaten utgjør, i den utstrekning administrasjonen mener dette er nødvendig ved godkjenning av stabilitetsopplysningene.68
+
+I stedet for kravene i nr. 3.1.3 kan det anvendes tiltak for å fylle et angitt lasterom under dekk med egnede, spesifiserte midler.
+
+Den samlede påkrevde kapasiteten i vannforsyningen skal oppfylle kravene i nr. 3.1.2 og eventuelt 3.1.3, beregnet samtidig for det største angitte lasterommet. Kapasitetskravene i nr. 3.1.2 skal oppfylles ved den samlede kapasiteten til hovedbrannpumpen(e), ikke medregnet kapasiteten til en eventuell nødbrannpumpe. Hvis det brukes et overrislingsanlegg til å oppfylle kravene i nr. 3.1.3, skal det også tas hensyn til overrislingspumpen i denne samlede kapasitetsberegningen.
+
+Elektrisk utstyr og ledningsforbindelser skal ikke monteres i innelukkede lasterom eller på kjøretøyrom med mindre dette er avgjørende av driftsmessige årsaker etter administrasjonens mening. Hvis det likevel er montert elektrisk utstyr i slike rom, skal det være av sertifisert sikker type69 til bruk i de farlige miljøene det kan utsettes for, med mindre det er mulig å skille ut det elektriske anlegget fullstendig (f.eks. ved å fjerne forbindelser i systemet, med unntak av sikringer). Kabelgjennomføringer i dekk og skott skal være forseglet mot gjennomtrengning av gass eller damp. Gjennomgående kabeltraseer og kabler i lasterommene skal være beskyttet mot skade ved støt. Annet utstyr som kan utgjøre en tennkilde for brannfarlig damp, skal ikke være tillatt.
+
+Roro-rom skal være utstyrt med et fastmontert branndeteksjons- og brannalarmanlegg i samsvar med kravene i FSS-koden. Alle andre typer lasterom skal være utstyrt med enten et fastmontert branndeteksjons- og brannalarmanlegg eller et røykdeteksjonsanlegg med prøvetaking i samsvar med kravene i FSS-koden. Hvis det er montert et røykdeteksjonsanlegg med prøvetaking, skal det tas særlig hensyn til nr. 2.1.3 i kapittel 10 i FSS-koden for å hindre lekkasje av giftig røyk inn i områder der personer oppholder seg.
+
+Det skal finnes tilstrekkelig mekanisk ventilasjon i innelukkede lasterom. Arrangementet skal være slik at luften kan skiftes ut minst seks ganger per time i lasterommet, basert på tomt lasterom, og at damp fjernes fra de øvre eller nedre delene av lasterommet, avhengig av hva som er aktuelt.
+
+Viftene skal være slik at de unngår risikoen for å antenne brannfarlige blandinger av gass og luft. Det skal være montert hensiktsmessig beskyttelsesnetting over inntaks- og utløpsåpninger for ventilasjon.
+
+Det skal finnes naturlig ventilasjon i innelukkede lasterom beregnet på transport av fast, farlig last i bulk, når det ikke er noen bestemmelse om mekanisk ventilasjon.
+
+Når det er hensikten å transportere brannfarlige eller giftige væsker i innelukkede lasterom, skal lensepumpesystemet være utformet for å beskytte mot utilsiktet pumping av slike væsker gjennom røropplegg eller pumper for maskinrom. Når det transporteres store mengder slike væsker, skal det vurderes å skaffe ekstra midler til å drenere slike lasterom.
+
+Hvis lensesystemet er i tillegg til systemet som betjenes av pumpene i maskinrommet, skal kapasiteten i systemet være minst 10 m3/t per lasterom som betjenes. Hvis det ekstra systemet er felles, behøver kapasiteten ikke overstige 25 m3/t. Det ekstra lensesystemet behøver ikke være utstyrt med redundans.
+
+Når det transporteres brannfarlige eller giftige væsker, skal lenseledningene inn i maskinrommet være atskilt enten ved å montere en blindflens eller med en stengt, låsbar ventil.
+
+Innelukkede rom utenfor maskinrom som inneholder lensepumper som betjener lasterom beregnet på transport av brannfarlige eller giftige væsker, bør være utstyrt med egen mekanisk ventilasjon som kan skifte ut luften minst seks ganger per time. Hvis rommet har atkomst fra et annet innelukket rom, skal døren være selvlukkende.
+
+Hvis lensingen av lasterommene er innrettet ved drenering med naturlig fall, skal avløpet føres enten direkte over bord eller til en lukket dreneringstank plassert utenfor maskinrommet. Tanken skal være utstyrt med et lufterør til et sikkert sted på åpent dekk. Drenering fra et lasterom til lensebrønner i et lavereliggende rom er tillatt bare hvis dette rommet oppfyller samme krav som lasterommet ovenfor.
+
+I tillegg til røykdykkerutstyret fastsatt i regel 10 nr. 10, skal det finnes fire sett med fullt vernetøy som er motstandsdyktig mot kjemiske angrep, og som skal velges med hensyn til farene som er forbundet med kjemikaliene som blir transportert, og standardene utarbeidet av organisasjonen etter klasse og fysisk tilstand70. Vernetøyet skal dekke all hud, slik at ingen del av kroppen er ubeskyttet.
+
+Det skal finnes minst to bærbare pusteapparater i tillegg til de som kreves i regel 10. Det skal for hvert påkrevd apparat finnes to reserveladninger som passer til bruk med pusteapparatene. Passasjerskip som transporterer høyst 36 passasjerer, og lasteskip som er utstyrt med hensiktsmessig plasserte midler til full opplading av luftsylindrene, uten forurensning, behøver bare ha én reserveladning for hvert påkrevd apparat.
+
+Det skal finnes bærbare brannslokkingsapparater med en samlet kapasitet på minst 12 kg pulver eller tilsvarende for lasterommene. Disse apparatene skal være i tillegg til eventuelle bærbare brannslokkingsapparater som kreves andre steder i dette kapittelet.
+
+Skott som danner skiller mellom lasterom og maskinrom av kategori A, skal være isolert etter klasse «A-60»-standard, med mindre den farlige lasten oppbevares minst 3 m horisontalt unna slike skott. Andre skiller mellom slike rom skal være isolert etter klasse «A-60»-standard.
+
+Hvert åpne roro-rom som har dekk over, og hvert rom som anses å være et lukket roro-rom som ikke kan avstenges, skal være utstyrt med et godkjent, fastmontert vannforstøvningssystem for manuell betjening som skal beskytte alle deler av ethvert dekk og enhver kjøretøyplattform i rommet, men administrasjonen kan tillate bruk av et annet fastmontert brannslokkingsanlegg som ved fullskalaprøving har vist seg å være like effektivt. Drenerings- og pumpearrangementene skal likevel være slik at de hindrer dannelse av frie væskeoverflater. Dreneringsanlegget skal være dimensjonert for å fjerne minst 125 % av den kombinerte kapasiteten av både pumpene for vannforstøvningssystemet og det påkrevde antallet dyser for brannslanger. Ventilene i dreneringsanlegget skal kunne betjenes fra utsiden av det beskyttede rommet på et sted i nærheten av betjeningsinnretningene for slokkingsanlegget. Lensebrønner skal ha tilstrekkelig kapasitet og skal være plassert ved skipssiden i en innbyrdes avstand på høyst 40 m i hvert vanntett rom. Hvis dette ikke er mulig, skal det tas hensyn til den negative virkningen på stabiliteten som den ekstra vekten og den frie vannoverflaten utgjør, i den utstrekning administrasjonen mener dette er nødvendig ved godkjenning av stabilitetsopplysningene.72
+
+På skip som har roro-rom, skal det være montert et skille mellom et lukket roro-rom og et tilstøtende åpent roro-rom. Skillet skal være slik at det reduserer risikoen for at farlig damp og væske trenger gjennom skillet mellom slike rom mest mulig. Alternativt behøver det ikke monteres et slikt skille hvis roro-rommet anses som et lukket lasterom over hele lengden og fullt ut skal oppfylle de relevante særlige kravene i denne regelen.
+
+På skip som har roro-rom, skal det være montert et skille mellom et lukket roro-rom og det tilstøtende værdekket. Skillet skal være slik at det reduserer risikoen for at farlig damp og væske trenger gjennom skillet mellom slike rom mest mulig. Alternativt behøver det ikke monteres et skille hvis arrangementene i det lukkede roro-rommet er i samsvar med de som kreves for den farlige lasten som transporteres på tilstøtende værdekk.
+
+### 4 Godkjenningsbevis73
+
+Administrasjonen skal utstyre skipet med et hensiktsmessig dokument som bevis for at konstruksjon og utstyr er i samsvar med kravene i denne regelen. Sertifisering for farlig last, unntatt fast, farlig last i bulk, kreves ikke for den lasten som er angitt som klasse 6.2 og 7, og farlig last i begrensede mengder og unntatte mengder.
+
+Der det står X i tabell 19.1, betyr det at dette kravet får anvendelse på alle klasser med farlig last som angitt på den aktuelle linjen i tabell 19.3, unntatt som anført i merknadene.*Regel 19 nr. 2.2**Værdekk*
+*(.1 til og med .5)*.1
+*Ikke spesifikt utformet*.2 *Lasterom for container*.3.4
+*Fast, farlig last i bulk*.5
+*Lektere om bord på skip**Regel 19**Lukkede roro-rom5**Åpne roro-rom*3.1.1XXXXXFor anvendelse av krav i regel 19 på forskjellige klasser av farlig last, se tabell 19.2X3.1.2XXXXX–3.1.3–XXXXX3.1.4–XXXXX3.2–XXXXX43.3–XXX–X43.4.1–XX1X–X43.4.2–XX1X–X43.5–XXX––3.6.1XXXXX–3.6.2XXXXX–3.7XX––X–3.8XXX2XX–3.9–––X3X–3.10.1–––X––3.10.2–––X––
+
+*Merknader*
+
+*Tabell 19.2 – Anvendelse av kravene på forskjellige klasser av farlig last for skip og lasterom som transporterer fast, farlig last i bulk**Klasse**4.1**4.2**4.3 6**5.1**6.1**8**9*Regel 193.1.1XX–X––X3.1.2XX–X––X3.2XX7XX8––X83.4.1–X7X––––3.4.2X9X7XX7 9––X7 93.4.3XXXXXXX3.6XXXXXXX3.8XXXX7––X10
+
+*Merknader*:
+
+*Tabell 19.3 – Anvendelse av kravene på forskjellige klasser av farlig last, unntatt fast, farlig last i bulk**Klasse**1.1 til 1-6**1.4S**2.1**2.2**2.3 Brannfarlig20**2.3 Ikke-brannfarlig**3 FP15 < 23 °C**3 FP15 ≥ 23 °C til ≤ 60 °C**4.1**4.2**4.3 væsker21**4.3 faste stoffer**5.1**5.216**6.1 væsker FP15 < 23 °C**6.1 væsker FP15 ≥ 23 °C til ≤ 60 °C**6.1 væsker**6.1 faste stoffer**8 væsker FP15 < 23 °C**8 væsker FP15 ≥ 23 °C til ≤ 60 °C**8 væsker**8 faste stoffer**9**Regel 19*3.1.1xxxxxxxxxxxxxxxxxxxxxxx3.1.2xxxxxxxxxxxxxxxxxxxxxx–3.1.3x––––––––––––––––––––––3.1.4x––––––––––––––––––––––3.2x–x–x–x–––x18–––x–––x–––x173.3xxxx–xxxxxxxx–xxxxxxxx–3.4.1––x––xx–x11x11xxx11–xx–x11xx––x113.4.2––x–––x–––––––x–––x–––x173.5––––––x–––––––xxx–xx19x19––3.6––xxxxxxxxxxxxxxxxxxxxx143.7––––––xxxxxxx–xx––xx–––3.8x12–xxxxxxxxxxx13xxx––xx–––3.9xxxxxxxxxxxxxxxxxxxxxxx3.10.1xxxxxxxxxxxxxxxxxxxxxxx3.10.2xxxxxxxxxxxxxxxxxxxxxxx
+
+*Merknader*
+
+### Regel 20 Beskyttelse av kjøretøyrom, spesiallasterom, åpne og lukkede roro-rom, samt værdekk beregnet på transport av kjøretøy74
+
+### 1 Formål
+
+Formålet med denne regelen er å fastsette ekstra sikkerhetstiltak for å ivareta brannsikringsmålene i dette kapittelet for skip utstyrt med kjøretøyrom, spesiallasterom og roro-rom. For dette formålet skal følgende funksjonskrav oppfylles:.175 det skal finnes brannvernsystemer som skal gi skipet tilstrekkelig beskyttelse mot de brannfarene som er forbundet med kjøretøyrom, spesiallasterom og roro-lasterom, samt værdekk beregnet på transport av kjøretøy.2 tennkilder skal være atskilt fra kjøretøyrom, spesiallasterom og roro-rom, og.3 kjøretøyrom, spesiallasterom og roro-rom skal være tilstrekkelig ventilert.
+
+### 2 Generelle krav
+
+I tillegg til å oppfylle kravene i reglene i del B, C, D og E, avhengig av hva som er aktuelt, skal kjøretøyrom, spesiallasterom og roro-rom oppfylle kravene i denne regelen.
+
+På alle skip kan kjøretøy med drivstoff i tankene til egen fremdrift transporteres i andre lasterom enn kjøretøyrom, spesiallasterom eller roro-rom, forutsatt at alle følgende vilkår er oppfylt:.1 kjøretøyene skal ikke brukes med egen fremdrift i lasterom.2 lasterom skal være i samsvar med relevante bestemmelser i regel 19, og.3 kjøretøyene skal føres i samsvar med IMDG-koden, som definert i regel VII/1.1.
+
+Passasjerskip bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal også oppfylle kravene i regel 20 nr. 4.1.6, 4.4 og 6.2.3, som vedtatt ved resolusjon MSC.550(108).
+
+Grunnprinsippet som bestemmelsene i denne regelen bygger på, er at inndelingen i vertikale hovedsoner fastsatt i regel 9 nr. 2, kan være praktisk ugjennomførbar på kjøretøyrom på passasjerskip, og at likeverdig beskyttelse derfor må oppnås i slike rom på grunnlag av et konsept med horisontale soner og ved installasjon av et effektivt, fastmontert brannslokkingsanlegg. På grunnlag av dette konseptet kan en horisontal sone i henhold til denne regelen omfatte spesiallasterom på mer enn ett dekk, forutsatt at den samlede frie høyden for kjøretøyer ikke overstiger 10 m.
+
+Grunnprinsippet som bestemmelsene i nr. 2.2.1 bygger på, får også anvendelse på roro-rom.
+
+Kravene til ventilasjonssystemer, åpninger i skiller i klasse «A» og gjennomføringer i skiller i klasse «A» for å opprettholde sikkerheten i vertikale soner i dette kapittelet, skal anvendes på samme måte på dekk og skott som danner avgrensninger som skiller horisontale soner fra hverandre og fra resten av skipet.
+
+### 3 Forholdsregler mot antenning av brannfarlig damp på lukkede kjøretøyrom, i lukkede roro-rom og i spesiallasterom
+
+Det skal finnes et effektivt mekanisk ventilasjonssystem som er tilstrekkelig til å gi minst følgende luftvekslinger:.1 passasjerskip:spesiallasterom 10 luftvekslinger per timelukkede roro-rom og kjøretøyrom unntatt spesiallasterom for skip som transporterer mer enn 36 passasjerer 10 luftvekslinger per timelukkede roro-rom og kjøretøyrom unntatt spesiallasterom for skip som transporterer høyst 36 passasjerer 6 luftvekslinger per time.2 lasteskip: 6 luftvekslinger per time
+
+Administrasjonen kan kreve et større antall luftvekslinger når kjøretøyer kjører om bord og i land.
+
+På passasjerskip skal det mekaniske ventilasjonssystemet være atskilt fra andre ventilasjonssystemer. Det mekaniske ventilasjonssystemet skal opereres slik at det gir minst det antallet luftvekslinger som kreves etter nr. 3.1.1 til enhver tid når det finnes kjøretøy i slike rom, unntatt når det finnes et luftkvalitetskontrollsystem i samsvar med nr. 3.1.2.4. Ventilasjonskanaler som betjener slike lasterom som effektivt kan avstenges, skal være atskilt for hvert slikt rom. Systemet skal kunne betjenes fra et sted utenfor slike rom.
+
+På lasteskip skal ventilasjonsviftene normalt være i gang kontinuerlig og gi minst det antallet luftvekslinger som kreves etter nr. 3.1.1 når det finnes kjøretøy om bord, unntatt når det finnes et luftkvalitetskontrollsystem i samsvar med nr. 3.1.2.4. Når dette ikke er praktisk mulig, skal de være i gang i et begrenset tidsrom hver dag, slik været tillater det, og i alle tilfeller i et rimelig tidsrom før lossing, og etter denne perioden skal roro-rommet eller kjøretøyrommet påvises å være gassfritt. For dette formålet skal det finnes ett eller flere bærbare instrumenter for deteksjon av brennbar gass. Systemet skal være helt atskilt fra andre ventilasjonssystemer. Ventilasjonskanaler som betjener roro-rom eller kjøretøyrom, skal kunne effektivt forsegles for hvert slikt lasterom. Systemet skal kunne betjenes fra et sted utenfor slike rom.
+
+Ventilasjonssystemet skal være slik at det hindrer lagdeling av luft og dannelse av luftlommer.
+
+For alle skip, der det finnes et luftkvalitetskontrollsystem basert på retningslinjene utarbeidet av organisasjonen78, kan ventilasjonssystemet drives med et redusert antall luftvekslinger og/eller en redusert mengde ventilasjon. Denne lempningen får ikke anvendelse på rom der det etter nr. 3.2.2 i denne regelen kreves minst ti luftvekslinger per time og rom som omfattes av regel 19 nr. 3.4.1 og regel 20-1.
+
+Det skal være en indikator på kommandobroen som viser eventuelt bortfall av den påkrevde ventilasjonskapasiteten.
+
+Det skal finnes arrangementer for hurtig nedstenging og effektiv lukking av ventilasjonssystemet fra utsiden av rommet i tilfelle av brann, under hensyn til vær- og sjøforhold.
+
+Ventilasjonskanaler, medregnet spjeld, innenfor en felles horisontal sone skal være laget av stål. På passasjerskip skal ventilasjonskanaler som går gjennom andre horisontale soner eller maskinrom, være stålkanaler i klasse «A-60» laget i samsvar med regel 9 nr. 7.2.4.1.1 og 7.2.4.1.2.
+
+I lasteskip skal permanente åpninger i sidekledningen, enden eller himlingen i lasterommet være slik plassert at en brann i rommet ikke utgjør noen fare for stuingsområder og innskipingstasjoner for redningsfarkoster eller for rom i innredningen, arbeidsrom og kontrollstasjoner i overbygninger og dekkshus over lasterommene.
+
+Unntatt som fastsatt i nr. 3.2.2, skal elektrisk utstyr og ledningsforbindelser være av en type som egner seg til bruk i en eksplosjonsfarlig blanding av bensin og luft80.
+
+Når det gjelder andre rom enn spesiallasterom under skottdekket, og uten hensyn til bestemmelsene i nr. 3.2.1, er elektrisk utstyr av en type som er slik kapslet og beskyttet at det hindrer gnister i å slippe ut, tillatt som et alternativ over en høyde på 450 mm fra dekket og fra hver plattform for kjøretøyer, hvis slik er montert, unntatt plattformer med åpninger av tilstrekkelig størrelse til at bensingass kan trenge nedover, forutsatt at ventilasjonssystemet er utformet og betjent slik at det gir ventilasjon av lasterommene med minst ti luftvekslinger per time når det er kjøretøyer om bord.
+
+Elektrisk utstyr og ledningsforbindelser skal, hvis de er montert i en ventilasjonskanal for eksos, være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra slike eksoskanaler skal være plassert på et sikkert sted, under hensyn til andre mulige tennkilder.
+
+Annet utstyr som kan utgjøre en tennkilde for brannfarlig damp, skal ikke være tillatt.
+
+Spygatt skal ikke føres til maskinrom eller andre rom der det kan finnes tennkilder.
+
+### 4 Deteksjon og alarm
+
+Passasjerskip bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal oppfylle kravene i nr. 4.1.6 senest ved første tilsyn 1. januar 2028 eller senere.81
+
+Kravene i nr. 4.1.1 til 4.1.4 får bare anvendelse på passasjerskip bygget 1. januar 2026 eller senere. Passasjerskip bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal oppfylle kravene i nr. 4.1.6 og de tidligere gjeldende kravene i nr. 4.1. Kravene i nr. 4.1.5 får anvendelse på lasteskip bygget 1. januar 2026 eller senere. Lasteskip bygget før 1. januar 2026 skal oppfylle de tidligere gjeldende kravene i nr. 4.1.
+
+I kjøretøyrom, spesiallasterom og roro-lasterom skal det være installert et fastmontert branndeteksjons- og brannalarmanlegg der hver enhet kan identifiseres enkeltvis. Anlegget skal oppfylle kravene i IMOs regelverk for brannvernsystemer (FSS-koden).
+
+Det fastmonterte branndeteksjons- og brannalarmanlegget skal oppdage røyk og varme i alle kjøretøyrom, spesiallasterom og roro-lasterom. Administrasjonen kan godta lineære varmedetektorer som det påkrevde systemet for varmedeteksjon. Anlegget skal raskt kunne oppdage en begynnende brann. Detektorer skal være slik plassert at det er til administrasjonens tilfredshet, med hensyn til effekten av ventilasjon og andre relevante faktorer. Etter installering skal anlegget prøves under normale ventilasjonsforhold, og det skal ha en samlet reaksjonstid som vurderes som tilfredsstillende av administrasjonen.
+
+Dersom et fastmontert vannbasert sprinkleranlegg brukes i kjøretøyrom, spesiallasterom og roro-lasterom, skal det være installert et branndeteksjons- og brannalarmanlegg som tilsvarer de samme seksjonene som sprinkleranlegget.
+
+Branndeteksjons- og brannalarmanlegget skal være utformet med et systemgrensesnitt som gir en logisk og entydig presentasjon av informasjonen, slik at rask og korrekt forståelse og beslutningstaking muliggjøres. Spesielt skal nummereringen av alarmanleggets seksjoner samsvare med nummereringen av tilsvarende systemer, som et fastmontert vannbasert brannslokkingsanlegg eller videoovervåkingssystem, der dette er tilgjengelig.
+
+Et fastmontert deteksjons- og brannalarmanlegg skal være installert for området på værdekket som er beregnet på transport av kjøretøy. Det fastmonterte branndeteksjonsanlegget skal raskt kunne oppdage en begynnende brann hvor som helst i området. Typen detektorer, avstanden mellom dem og plasseringen skal vurderes som tilfredsstillende av administrasjonen, med hensyn til effekten av værforhold, hindringer forårsaket av last og andre relevante faktorer. Forskjellige innstillinger kan brukes for spesifikke driftssekvenser, som lasting eller lossing og under seilas, for å redusere antallet falske alarmer.
+
+På lasteskip skal kjøretøyrom, spesiallasterom og roro-lasterom være utstyrt med et fastmontert branndeteksjons- og brannalarmanlegg som oppfyller kravene i FSS-koden. Det fastmonterte branndeteksjonsanlegget skal raskt kunne oppdage en begynnende brann. Typen detektorer, avstanden mellom dem og plasseringen av dem skal vurderes som tilfredsstillende av administrasjonen, med hensyn til effekten av ventilasjon og andre relevante faktorer. Etter installering skal anlegget prøves under normale ventilasjonsforhold, og det skal ha en samlet reaksjonstid som vurderes som tilfredsstillende av administrasjonen.
+
+På passasjerskip bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal det være et fastmontert branndeteksjons- og brannalarmanlegg som oppfyller kravene i FSS-koden, installert i spesiallasterom, åpne og lukkede roro-lasterom og kjøretøyrom. Det fastmonterte branndeteksjonsanlegget skal raskt kunne oppdage en begynnende brann. Det fastmonterte branndeteksjons- og brannalarmanlegget skal oppdage røyk og varme i alle kjøretøyrom, spesiallasterom og roro-lasterom. I denne sammenhengen skal varmedetektorer oppfylle kravene til avstand og dekningsområde som gjelder for røykdetektorer. Varmedetektorer kreves bare der det allerede finnes en røykdetektor.
+
+Unntatt i åpne roro-rom, åpne kjøretøyrom og spesiallasterom kan det brukes et røykdeteksjonsanlegg med prøvetaking som oppfyller kravene i FSS-koden, som et alternativ til det fastmonterte branndeteksjons- og brannalarmanlegget fastsatt i nr. 4.1.
+
+Det skal finnes et effektivt brannpatruljeringssystem i spesiallasterom.
+
+Det skal være plassert manuelle brannmeldere med slik innbyrdes avstand at ingen del av rommet er mer enn 20 m fra en manuell brannmelder, og én skal være plassert nær utgangen fra slike rom.
+
+Kravene i nr. 4.4.1 og 4.4.2 skal få anvendelse på skip bygget 1. januar 2026 eller senere. Passasjerskip med kjøretøyrom, spesiallasterom eller roro-lasterom som er bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal oppfylle kravene i nr. 4.4.1 og 4.4.2 senest ved første tilsyn 1. januar 2028 eller senere.
+
+På passasjerskip skal det være et effektivt videoovervåkingssystem i kjøretøyrom, spesiallasterom og roro-lasterom for kontinuerlig overvåking av disse områdene. Systemet skal ha funksjon for umiddelbar avspilling for å muliggjøre rask identifisering av brannens lokalisering, så langt det er praktisk mulig. Kameraer skal være installert slik at hele området dekkes, og høyt nok plassert til å overvåke last og kjøretøy etter lasting.
+
+Videoopptak fra dette overvåkingssystemet skal kunne avspilles på en kontinuerlig bemannet kontrollstasjon eller i sikkerhetssenteret i minst sju dager for installasjoner på roro-passasjerskip bygget 1. januar 2026 eller senere, og i minst 24 timer for eksisterende roro-passasjerskip bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012. Koblingen mellom et videokamera og den seksjonen av det fastmonterte, vannbaserte brannslokkingsanlegget som beskytter området som kameraet dekker, skal tydelig vises i nærheten av skjermen. Mannskapet behøver ikke kontinuerlig å overvåke videoopptakene.
+
+### 585 Konstruksjonsmessig beskyttelse og innretning av åpninger
+
+Dette nummeret får anvendelse på passasjerskip bygget 1. januar 2026 eller senere. Passasjerskip bygget før 1. januar 2026 skal oppfylle de tidligere gjeldende kravene i nr. 5.
+
+På passasjerskip som fører mer enn 36 passasjerer, skal avgrensningsskott og dekk i spesiallasterom og roro-lasterom være isolert etter klasse «A-60»-standard. Dersom et rom i kategori (5), (9) og (10), som definert i regel 9 nr. 2.2.3, befinner seg på den ene siden av skillet, kan imidlertid standarden reduseres til «A-0». Dersom brennoljetanker er plassert under et spesiallasterom, kan brannmotstanden i dekket mellom slike rom reduseres til «A-0»-standard.
+
+Dersom et spesiallasterom eller roro-lasterom er inndelt med mellomdekk, skal brannklassifiseringen av disse dekkene fastsettes basert på kapasiteten og utformingen av det fastmonterte vannbaserte brannslokkingsanlegget. Hvis det fastmonterte vannbaserte brannslokkingsanlegget ikke samtidig kan dekke det relevante området over og under et bestemt dekk, skal dette dekket ha «A-30»-standard, mens eventuelle ramper og dører mellom dekk skal være laget av stål og slik utformet så tett som praktisk mulig.
+
+Åpninger i sidekledningen, i endene eller himlingen i roro-lasterommet skal være slik plassert og innrettet at en brann i roro-lasterommet ikke utgjør noen fare for.1 stuingsområder for redningsfarkoster.2 innskipingsstasjoner og mønstringsstasjoner, inkludert atkomst til slike stasjoner, og.3 rom i innredningen, kontrollstasjoner og arbeidsrom som normalt er i bruk av besetningen, i overbygninger og dekkshus over roro-lasterommet.
+
+Åpninger er ikke tillatt på dekkene direkte under disse områdene og innenfor en sikkerhetsavstand på minimum 6,0 m målt horisontalt.
+
+Dette kravet gjelder ikke for åpninger utstyrt med lukkearrangementer, som ramper og dører. Ramper og dører skal være laget av stål for alle dekk direkte under rom i innredningen, kontrollstasjoner og arbeidsrom som normalt er i bruk av besetningen, og minimum oppfylle «A-0»-standard for alle dekk direkte under redningsfarkoster, innskipingsstasjoner og mønstringsstasjoner,
+
+Åpninger godtas imidlertid i roro-lasterom under rom i innredningen, kontrollstasjoner og arbeidsrom som normalt er i bruk av besetningen, dersom skipets side, inkludert vinduer og dører, har brannmotstand i «A-60»-klasse på avgrensninger innenfor et rektangulært område som strekker seg 6,0 m horisontalt forover og akterover fra åpningene, og minst to dekk vertikalt over dekket der åpningen befinner seg. «A-0»-vinduer som beskyttes av et vannbasert system med en påføringsrate på minst 5,0 liter/min per kvadratmeter, kan aksepteres som likeverdige med «A-60»-vinduer. Ventilasjonsinntak skal være slik utformet at risikoen for forurensning minimeres.86
+
+Åpninger for mekanisk ventilasjon av roro- og spesiallasterom er tillatt under rom i innredningen, arbeidsrom og kontrollstasjoner i overbygninger, dersom åpningen er beskyttet med en lukkemekanisme, med et lukkearrangement som sannsynligvis ikke vil bli utilgjengelig ved en brann i roro-lasterom, og som kan lukkes fra et lett tilgjengelig sted. Lukkeinnretningen skal være laget av stål eller annet brannbestandig materiale. Slike åpninger er ikke tillatt under redningsfarkoster, nødgenerator og luftinntak til maskinrom.
+
+Uansett skal luftinntak som betjener maskineri som brukes til skipets hovedframdrift, kraftproduksjon og nødkraftproduksjon, være slik plassert at risikoen for forurensning fra en brann i roro-lasterommet eller spesiallasterommet minimeres.
+
+Egnede arrangementer skal være på plass slik at en fullt utviklet brann på værdekk som er beregnet på transport av kjøretøy, ikke utgjør noen fare for.1 stuingsområder for redningsfarkoster.2 innskipingsstasjoner og mønstringsstasjoner, inkludert atkomst til disse, og.3 rom i innredningen, kontroll og arbeidsrom som normalt er i bruk av besetningen, i overbygninger og dekkshus som støter til værdekket.
+
+Egnede arrangementer skal sørge for en sikkerhetsavstand på mer enn 6,0 m, målt horisontalt, fra angitte kjørebaner til rom i innredningen, kontrollstasjoner og arbeidsrom som normalt er i bruk av besetningen, i overbygninger og dekkshus som støter til værdekket.
+
+Sikkerhetsdistansen kan reduseres til 3,0 meter dersom avgrensninger, inkludert vinduer og dører, innenfor 6,0 meter har «A-60»-brannmotstand. Som alternativ kan «A-0»-avgrensninger som er beskyttet av et vannbasert system med en påføringsrate på minst 5,0 liter/min per kvadratmeter, aksepteres som likeverdig.
+
+Redningsfarkoster og innskipingsstasjoner, inkludert atkomst til disse, skal være beskyttet med en sikkerhetsavstand på mer enn 12,0 meter. Sikkerhetsavstander skal måles horisontalt.
+
+Uansett skal luftinntak som betjener maskineri som brukes til skipets hovedframdrift, kraftproduksjon og nødkraftproduksjon, være slik plassert at risikoen for forurensning fra en brann på værdekk som er beregnet på transport av kjøretøy, minimeres.
+
+### 6 Brannslokking
+
+(Kravene i nr. 6.1.1 og 6.1.2 skal få anvendelse på skip bygget 1. juli 2014 eller senere. Skip bygget før 1. juli 2014 skal være i samsvar med de tidligere gjeldende kravene i nr. 6.1.1 og 6.1.2. Kravene i nr. 6.2.1 og 6.2.2 skal få anvendelse på skip bygget 1. januar 2026 eller senere. Passasjerskip med kjøretøyrom, spesiallasterom eller roro-lasterom som er bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal oppfylle kravene i nr. 6.2.3 senest ved første tilsyn 1. januar 2028 eller senere.)87
+
+Kjøretøyrom og roro-rom som ikke er spesiallasterom og som kan avstenges fra en posisjon utenfor lasterommene, skal utstyres med ett av følgende fastmonterte brannslokkingsanlegg:.1 et fastmontert brannslokkingsanlegg med gass, som er i samsvar med bestemmelsene i FSS-koden.2 et fastmontert brannslokkingsanlegg med høyekspanderende skum, som er i samsvar med bestemmelsene i FSS-koden, eller.3 et fastmontert vannbasert brannslokkingsanlegg for roro-rom og spesiallasterom, som er i samsvar med bestemmelsene i FSS-koden og nr. 6.1.2.1 til 6.1.2.4.
+
+Kjøretøyrom og roro-rom som ikke kan avstenges, skal utstyres med et fastmontert vannbasert brannslokkingsanlegg for roro-rom og spesiallasterom, som er i samsvar med bestemmelsene i FSS-koden og som skal beskytte alle deler av dekk og kjøretøyplattformer i slike rom. Et slikt vannbasert brannslokkingsanlegg skal ha.1 en trykkmåler på ventilmanifolden.2 tydelig merking på hver manifoldventil, som angir rommene den skal betjene.3 instrukser for vedlikehold og betjening plassert i ventilrommet, og.4 et tilstrekkelig antall dreneringsventiler for å sikre fullstendig drenering av systemet.
+
+Administrasjonen kan tillate bruk av ethvert annet fastmontert brannslokkingsanlegg88 som, ved fullskalaprøving i betingelser som simulerer en flytende bensinbrann på et kjøretøyrom eller i et roro-rom, har vist seg å være like effektivt til å kontrollere branner som kan oppstå i slike rom.
+
+Kravet i dette nummer får anvendelse på skip bygget 1. januar 2010 eller senere. Skip bygget 1. juli 2002 eller senere og før 1. januar 2010, skal være i samsvar med tidligere gjeldende krav i nr. 6.1.4, endret ved resolusjon MSC.99(73). Når det er installert fastmonterte vannforstøvningssystemer, skal følgende arrangementer finnes, i lys av det alvorlige tapet av stabilitet som kan oppstå på grunn av oppsamling av store vannmengder på dekket eller dekkene når det fastmonterte vannforstøvningssystemet er i bruk.1 på passasjerskip:.1.1 i rommene over skottdekket skal det være montert spygatt for å sikre at slikt vann raskt blir tømt direkte over bord, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen89.1.2.1.2.1 på roro-passasjerskip skal avløpsventiler for spygatt, utstyrt med lukkemidler som kan betjenes fra et sted over skottdekket i samsvar med kravene i gjeldende internasjonale konvensjon om lastelinjer, holdes åpne mens skipet er i sjøen.1.2.2 all betjening av ventilene nevnt i nr. 6.1.4.1.2.1, skal noteres i skipsdagboken.1.3 i rommene under skottdekket kan administrasjonen kreve at det monteres pumpe- og dreneringsanlegg i tillegg til kravene i regel II-1/35-1. I slike tilfeller skal dreneringsanlegget være slik dimensjonert at det fjerner minst 125 % av den samlede kapasiteten av både pumpene for vannforstøvningssystemet og det påkrevde antallet dyser for brannslanger, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.90 Ventilene i dreneringsanlegget skal kunne betjenes fra utsiden av det beskyttede rommet på et sted i nærheten av betjeningsinnretningene for slokkingsanlegget. Lensebrønner skal ha tilstrekkelig kapasitet og skal være plassert ved skipssiden i en innbyrdes avstand på høyst 40 m i hvert vanntette rom..2 på lasteskip skal drenerings- og pumpearrangementene være slik at de hindrer dannelse av frie væskeoverflater. I slike tilfeller skal dreneringsanlegget være dimensjonert for å fjerne minst 125 % av den kombinerte kapasiteten av både pumpene for vannforstøvningssystemet og det påkrevde antallet dyser for brannslanger, idet det tas hensyn til retningslinjene vedtatt av organisasjonen.91 Ventilene i dreneringsanlegget skal kunne betjenes fra utsiden av det beskyttede rommet på et sted i nærheten av betjeningsinnretningene for slokkingsanlegget. Lensebrønner skal ha tilstrekkelig kapasitet og skal være plassert ved skipssiden i en innbyrdes avstand på høyst 40 m i hvert vanntette rom. Hvis dette ikke er mulig, skal det tas hensyn til den negative virkningen på stabiliteten som den ekstra vekten og den frie vannoverflaten utgjør, i den utstrekning administrasjonen mener dette er nødvendig ved godkjenning av stabilitetsopplysningene.92 Slike opplysninger skal tas med i stabilitetsopplysningene som skal leveres til skipsføreren som fastsatt i regel II-1/5-1.
+
+På alle skip skal det for lukkede kjøretøyrom og roro-rom og spesiallasterom, der det er installert fastmonterte vannforstøvningssystemer, finnes midler til å hindre tilstopping av dreneringsarrangementer, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.93 Passasjerskip bygget før 1. januar 2010 skal oppfylle kravene i dette nummer innen første tilsyn etter 1. januar 2010.
+
+På passasjerskip skal et fastmontert vannbasert brannslokkingsanlegg med én eller flere vannkanoner være installert for å dekke værdekk beregnet på transport av kjøretøy. Vannkanonene skal oppfylle kravene i FSS-koden.
+
+På passasjerskip skal det være drenering dersom et fastmontert vannbasert brannslokkingsanlegg er installert for å dekke værdekk beregnet på transport av kjøretøy. Anlegget skal være dimensjonert til å kunne fjerne minst 125 % av den samlede kapasiteten til både vannkanon(er) og det påkrevde antallet brannslangestrålerør.
+
+På passasjerskip som er bygget før 1. januar 2026, inkludert de som er bygget før 1. juli 2012, skal det være installert et fastmontert vannbasert brannslokkingsanlegg med én eller flere vannkanoner for å beskytte værdekk beregnet på transport av kjøretøy. Vannkanonene skal være slik plassert at de sikrer uhindret beskyttelse av kjøretøyene i området på værdekket som er beregnet på transport av kjøretøy, så langt det er praktisk mulig. Betjening av vannkanoner skal sikres gjennom sikre atkomstveier eller fjernbetjening som ikke påvirkes av en brann i området som beskyttes av den aktuelle vannkanonen. Hver kanon skal ha en kapasitet på minst 1250 liter/min. Administrasjonen kan tillate lavere gjennomstrømningshastighet når den påkrevde hastigheten ikke er praktisk mulig gitt skipets størrelse og arrangement. Administrasjonen kan også tillate alternative arrangementer for skip som allerede har installert et fastmontert vannbasert brannslokkingsapparat med én eller flere vannkanoner før 1. januar 2026
+
+Bærbare brannslokkingsapparater skal være utplassert på alle dekksnivåer i alle lasterom eller rom der det transporteres kjøretøyer, og ikke mer enn 20 m fra hverandre på begge sider av rommet. Minst ett bærbart brannslokkingsapparat skal være plassert ved hver atkomst til slike rom.
+
+I tillegg til bestemmelsen i nr. 6.2.1, skal det finnes følgende brannslokkingsredskaper på kjøretøyrom, i roro-rom og spesiallasterom beregnet på transport av motorvogner med drivstoff på tankene til egen framdrift:.1 minst tre vanntåkespredere og.2 én bærbar skumspreder som er i samsvar med bestemmelsene i FSS-koden, forutsatt at det finnes minst to slike spredere på skipet til bruk i slike roro-rom.
+
+### 796 Beslutningstaking
+
+(Kravene i nr. 7 får anvendelse på passasjerskip bygget 1. januar 2026 eller senere.)
+
+På passasjerskip skal kjøretøyrom, spesiallasterom og roro-lasterom der det er installert fastmonterte vannforstøvingssystemer, være utstyrt med egnet skilting og merking i himling og skott, samt på vertikale avgrensninger, slik at det er enkelt å identifisere seksjonene i det fastmonterte brannslokkingssystemet. Egnet skilting og merking skal være tilpasset mannskapets vanlige bevegelsesmønstre idet det tas hensyn til hindringer i form av last eller faste installasjoner. Nummerskilt for seksjoner skal være laget av selvlysende materiale.97 Seksjonsnummereringen i rommet skal være lik nummereringen av seksjonsventiler og seksjonsidentifiseringen i sikkerhetssenteret eller den kontinuerlig bemannede kontrollstasjonen.
+
+### Regel 20-1 Krav til transportskip for kjøretøy som fører motorkjøretøy med komprimert hydrogen eller naturgass på tankene til egen framdrift som last
+
+### 1 Formål
+
+Formålet med denne regelen er å fastsette ekstra sikkerhetstiltak for å ivareta brannsikringsmålene i dette kapittelet for transportskip for kjøretøy med kjøretøyrom og roro-rom beregnet på føring av motorkjøretøy med komprimert hydrogen eller komprimert naturgass på tankene til egen framdrift som last.
+
+### 2 Anvendelse
+
+I tillegg til å oppfylle kravene i regel 20, etter hva som er relevant, skal transportskip for kjøretøy som er bygget 1. januar 2016 eller senere og er beregnet på føring av motorkjøretøy med komprimert hydrogen eller komprimert naturgass i tankene til egen fremdrift som last, oppfylle kravene i nr. 3 til 5 i denne regelen.
+
+I tillegg til å oppfylle kravene i regel 20, etter hva som er relevant, skal transportskip for kjøretøy som er bygget før 1. januar 2016, inkludert skip bygget før 1. juli 201298, oppfylle kravene i nummer 5 i denne regelen.
+
+### 3 Krav til rom beregnet på føring av motorkjøretøy med komprimert naturgass på tankene til egen framdrift som last
+
+Alt elektrisk utstyr og ledningsforbindelser skal være av sertifisert sikker type til bruk i en eksplosiv blanding av metan og luft99.
+
+Elektrisk utstyr og ledningsforbindelser, hvis installert i en ventilasjonskanal, skal være av sertifisert sikker type til bruk i eksplosive blandinger av metan og luft.
+
+Viftene skal være slik at muligheten for å antenne blandinger av metan og luft unngås. Det skal være montert hensiktsmessige beskyttelsesnettinger over inntaks- og utløpsåpninger for ventilasjon.
+
+Annet utstyr som kan utgjøre en tennkilde for blandinger av metan og luft, skal ikke være tillatt.
+
+### 4 Krav til rom beregnet på føring av motorkjøretøy med komprimert hydrogen på tankene til egen framdrift som last
+
+Alt elektrisk utstyr og ledningsforbindelser skal være av sertifisert sikker type til bruk i en eksplosiv blanding av hydrogen og luft100.
+
+Elektrisk utstyr og ledningsforbindelser skal, hvis installert i en ventilasjonskanal, være av sertifisert sikker type til bruk i eksplosive blandinger av hydrogen og luft, og utløpet fra enhver avtrekkskanal skal være plassert på et sikkert sted, idet det tas hensyn til andre mulige tennkilder.
+
+Viftene skal være utformet slik at muligheten for å antenne blandinger av hydrogen og luft unngås. Det skal være montert hensiktsmessige beskyttelsesnettinger over inntaks- og utløpsåpninger for ventilasjon.
+
+Annet utstyr som kan utgjøre en tennkilde for blandinger av hydrogen og luft, skal ikke være tillatt.
+
+### 5 Deteksjon
+
+Når et transportskip for kjøretøy fører ett eller flere motorkjøretøy med enten komprimert hydrogen eller komprimert naturgass på tankene til egen framdrift som last, skal det finnes minst to bærbare gassdetektorer. Slike detektorer skal være egnet for deteksjon av gassdrivstoffet og skal være av sertifisert sikker type til bruk i den eksplosive blandingen av gass og luft.
+
+### Regel 21 Ulykkesgrense, sikker retur til havn og sikre områder
+
+### 1 Anvendelse
+
+Passasjerskip bygget 1. juli 2010 eller senere og med lengde, som definert i regel II-1/2.5, 120 m eller mer, eller som har minst tre vertikale hovedsoner, skal være i samsvar med bestemmelsene i denne regelen.
+
+### 2 Formål
+
+Formålet med denne regelen er å fastsette utformingskriterier for sikker retur av et skip til havn ved egen framdrift etter en ulykke som ikke overskrider ulykkesgrensen fastsatt i nr. 3, og også fastsette funksjonskrav og kvalitetsstandarder for sikre områder.
+
+### 3 Ulykkesgrense
+
+Ulykkesgrensen når det gjelder brann, omfatter.1 tap av rommet der brannen oppstod opp til nærmeste avgrensning i klasse «A», som kan være en del av rommet der brannen oppstod, hvis rommet der brannen oppstod er beskyttet av et fastmontert brannslokkingsanlegg, eller.2 tap av rommet der brannen oppstod opp til nærmeste avgrensning i klasse «A», som ikke er en del av rommet der brannen oppstod.
+
+### 4 Sikker retur til havn101
+
+Når brannskade ikke overskrider ulykkesgrensen angitt i nr. 3, skal skipet være i stand til å returnere til havn mens det tilveiebringes et sikkert område som definert i regel 3. For at skipet skal kunne vurderes som å være i stand til å returnere til havn, skal følgende systemer fortsatt være i drift i den delen av skipet som ikke er rammet av brann:.1 framdrift.2 styringssystemer og styringskontrollsystemer.3 navigasjonssystemer.4 systemer for brennoljefylling, -overføring og -service.5 intern kommunikasjon mellom broen, tekniske rom, sikkerhetssenter, brannslokkings- og skadekontrollag og som kreves for underretning og mønstring av passasjerer og besetning.6 ekstern kommunikasjon.7 brannledningssystem.8 fastmonterte brannslokkingsanlegg.9 brann- og røykdeteksjonsanlegg.10 lense- og ballastsystem.11 maskinelt betjente vanntette og delvis vanntette dører.12 systemer beregnet på bistand til «sikre områder» som angitt i nr. 5.1.2.13 vannlekkasjedeteksjonssystemer og.14 andre systemer som administrasjonen har bestemt at er avgjørende i skadekontrollarbeidet.
+
+### 5 Sikre områder
+
+- .1 sikre områder skal generelt være innvendige rom, men administrasjonen kan tillate bruk av utvendige rom som sikre områder, idet det tas hensyn til eventuelle begrensninger på grunn av bruksområdet og relevante forventede miljøforhold
+- .2 de sikre områdene skal sørge for at alle passasjerene og hele besetningen får følgende grunnleggende tjenester102 for å sikre at helsen deres opprettholdes:.1 sanitæranlegg.2 vann.3 mat.4 eget rom til legebehandling.5 ly fra været.6 midler til å hindre varmepåkjenning og hypotermi.7 lys og.8 ventilasjon
+- .3 ventilasjonen skal være slik utformet at risikoen for at røyk og varme gasser kan påvirke bruken av de sikre områdene, reduseres, og
+- .4 det skal være atkomst til redningsredskaper fra alle områder som er utpekt som eller brukes som sikre områder, idet det tas hensyn til at en vertikal hovedsone kanskje ikke er tilgjengelig for innvendig gjennomgang.
+
+Et eget rom til legebehandling skal være i samsvar med en standard som kan godtas av administrasjonen.103
+
+### Regel 22 Utformingskriterier for systemer som fortsatt skal være i drift etter en brann
+
+### 1 Anvendelse
+
+Passasjerskip bygget 1. juli 2010 eller senere og med lengde, som definert i regel II-1/2.2, 120 m eller mer, eller som har minst tre vertikale hovedsoner, skal være i samsvar med bestemmelsene i denne regelen.
+
+### 2 Formål
+
+Formålet med denne regelen er å fastsette utformingskriterier for systemer som fortsatt skal være i drift og benyttes når et skip skal evakueres og forlates på foreskrevet måte, hvis ulykkesgrensen, som definert i regel 21 nr. 3, er overskredet.
+
+### 3 Systemer104
+
+Når en av de vertikale hovedsonene er ubrukelig på grunn av brann, skal følgende systemer være arrangert og atskilt slik at de fortsatt er i drift:.1 brannledning.2 intern kommunikasjon (til hjelp i brannslokking som kreves til varsling og evakuering av passasjerer og besetning).3 eksterne kommunikasjonsmidler.4 lensesystemer til fjerning av vann fra brannslokking.5 belysning langs rømningsveier, på mønstringsstasjoner og innskipningsstasjoner for redningsredskaper, og.6 det skal finnes nødledesystemer for evakuering.
+
+Ovennevnte systemer skal kunne være i drift i minst tre timer, forutsatt at det ikke forekommer skade utenfor den ubrukelige vertikale hovedsonen. Det kreves ikke at disse systemene fortsatt skal kunne være i drift innenfor de ubrukelige vertikale hovedsonene.
+
+Kabler og rør i en trunk som er bygget etter «A-60»-standard skal anses å være intakt og kunne brukes når de går gjennom den ubrukelige vertikale hovedsonen, i henhold til nr. 3.1. En tilsvarende beskyttelsesgrad for kabler og rør kan godkjennes av administrasjonen.
+
+### Regel 23 Sikkerhetssenter på passasjerskip
+
+### 1 Anvendelse
+
+Passasjerskip bygget 1. juli 2010 eller senere skal ha om bord et sikkerhetssenter som er i samsvar med kravene i denne regelen.
+
+### 2 Formål
+
+Formålet med denne regelen er å sørge for et rom som kan brukes til å håndtere nødssituasjoner.
+
+### 3 Plassering og arrangement
+
+Sikkerhetssenteret skal enten være en del av kommandobroen eller plasseres i et eget rom i nærheten av og med direkte atkomst til kommandobroen, slik at nødssituasjoner kan håndteres uten å distrahere vakthavende offiserer fra navigasjonspliktene deres.
+
+### 4 Planløsning og ergonomisk utforming
+
+Sikkerhetssenterets planløsning og ergonomiske utforming skal ta hensyn til retningslinjene utarbeidet av organisasjonen105, etter hva som er relevant.
+
+### 5 Kommunikasjon
+
+Det skal finnes et kommunikasjonssystem mellom sikkerhetssenteret, den sentrale kontrollstasjonen, kommandobroen, maskinkontrollrommet, lagerrom for brannslokkingsanlegg og skap for brannutstyr.
+
+### 6 Kontroll og overvåking av sikkerhetssystemer
+
+Uten hensyn til kravene fastsatt andre steder i konvensjonen, skal sikkerhetssystemene oppført nedenfor fungere for fullt (drift, kontroll, overvåking og alle kombinasjoner av disse, som kreves) fra sikkerhetssenteret:.1 alle mekaniske ventilasjonssystemer.2 branndører.3 hovedalarmsystem.4 høyttalersystem.5 elektrisk drevne nødledesystemer for evakuering.6 vanntette og delvis vanntette dører.7 indikatorer for utvendige porter, lasteporter og andre lukkeredskaper.8 varsling av vannlekkasje fra innvendige/utvendige baugporter, akterporter og eventuelle andre porter i skipssiden.9 fjernsynsovervåkingssystem.10 branndeteksjons- og alarmanlegg.11 fastmontert(e) brannslokkingsanlegg til lokal bruk.12 sprinkleranlegg og tilsvarende systemer.13 vannbaserte anlegg for maskinrom.14 alarm for å tilkalle besetningen.15 røykavtrekkssystem for atrier.16 vannlekkasjedeteksjonssystemer og.17 brannpumper og nødbrannpumper.

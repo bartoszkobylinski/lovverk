@@ -1,0 +1,54 @@
+---
+id: "nl-19970606-032"
+slug: "innførsle-og-utførslereguleringslova"
+type: "lov"
+ref_id: "lov/1997-06-06-32"
+title: "Lov om innførsle- og utførsleregulering"
+short_title: "Innførsle- og utførslereguleringslova"
+language: "nn"
+ministry:
+  - "Utenriksdepartementet"
+date_in_force: "1997-06-06"
+last_change_in_force: "2023-01-01"
+last_updated: "2026-01-16"
+xml_hash: "b8188cda6e7e04cdeaa63b3610b50433c64ffaccff36ed8c3442c3c559164849"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om innførsle- og utførsleregulering
+
+## § 1.
+
+Kongen kan, med dei innskrenkingar som fylgjer av avtale med framand stat eller internasjonal organisasjon, gje føresegn om forbod mot eller krav om serskilt løyve for innførsle eller utførsle av varer, medreikna levande planter og dyr. Det kan fastsetjast serskilde vilkår for slikt løyve.
+
+Føresegnen i fyrste leddet gjeld og for innførsle frå og utførsle til Svalbard, Jan Mayen og land underlagd Noreg. Føresegnen om utførsle gjeld og all levering til utlandet av varer som er vunne ved fiske eller fangst frå norsk farty.
+
+## § 2.
+
+Alle plikter å gje vedkomande departement dei opplysningane dette krev å få for å gjennomføre føresegnene i lova. Vert det kravt, plikter vedkomande å leggja fram rekneskapsmateriale, forretningspapir og andre dokument som departementet meiner har vekt for saka. Trengst det, kan departementet setja politiet til å granska slikt materiale.
+
+Når departementet har fastsett det, kan offentlege styresmakter som fastset eller krev inn skatt, avgift eller tollavgift, få løyve til å gjera seg kjende med dei opplysningar som vert gjevne etter denne lova.
+
+Så langt tenesteskyldnad ikkje er til hinder, skal alle teia med det dei fær kjennskap til i yrket sitt etter denne lova. [Forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 e](lov/1967-02-10/§13e) og [13 g](lov/1967-02-10/§13g) gjeld ikkje her.
+
+> Endra med [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)).
+
+## § 3.
+
+Kongen eller den som har fullmakt frå honom kan gjeva nærare føresegner til utfylling og gjenomføring av lova.
+
+## § 4.
+
+Har nokonført inn eller ut, eller freista føre inn eller ut varer, medreikna levande planter og dyr, i strid med denne lova eller føresegner gjevne med heimel i lova, ellerbrote eller freista bryte vilkår sett med heimel i denne lova, ellerselt innførde varer, medreikna levande dyr og planter, uten å opplysa at vilkår sett etter [§ 1](lov/1997-06-06-32/§1), første leden, la band på råderetten over salsemnet, ellergjeve urett opplysning, munnleg eller skriftleg,i utsegn gjeven til bruk for offentleg styresmakt eller målsmann for styresmakta i innførsle- eller utførslesak eller søknad om innførsle- eller utførsleløyve,i utsegn som skal kunna gjera at ein annan har høve til å gje slik utsegn som nemnt under punkt a,om tilhøve som har noko å segja for retten til å føra inn eller ut varer, ellerbrote eller freista bryte på anna vis føresegn som lova gjev eller som er gjeven med heimel i denne,vert han straffa med bot eller fengsel i opptil 6 månader eller med båe desse straffene dersom åtferda ikkje går inn under strengare straffebod.
+
+Har nokon av aktløyse gjort slike brot som nemnt i første leden, vert han straffa med bot eller fengsel i opp til 3 månader.
+
+> Endra med [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+
+## § 5.
+
+Denne lova tek til å gjelda straks. [Lov av 13. desember 1946 nr. 29](lov/1946-12-13-29) om mellombels innførsleforbod og [lov av 13. desember 1946 nr. 30](lov/1946-12-13-30) om mellombels utførsleforbod fell bort frå same tid. Føresegn gjevne og vedtak gjorde med heimel i nemde lovar skal gjelda til dei vert sette ut av kraft eller avløyste med føresegn eller vedtak som har heimel i denne lova. For straff ved brot på slike føresegner, gjeld [§ 4](lov/1997-06-06-32/§4) tilsvarande.

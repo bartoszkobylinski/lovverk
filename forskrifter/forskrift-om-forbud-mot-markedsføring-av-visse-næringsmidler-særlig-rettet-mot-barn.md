@@ -1,0 +1,123 @@
+---
+id: "sf-20250425-0684"
+slug: "forskrift-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn"
+type: "forskrift"
+ref_id: "forskrift/2025-04-25-684"
+title: "Forskrift om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn"
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2025-04-25"
+last_change_in_force: "2025-08-15"
+last_updated: "2025-05-19"
+xml_hash: "a02747d23532d6fd1c9b1e0cc37e2e8bbcea58f127fd8689c75fa21a4fce0b3a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
+
+## § 1. Formål
+
+Denne forskriften skal fremme helse gjennom forebygging av kostholdsrelaterte helseplager og sykdommer i befolkningen ved å beskytte barn mot helsemessig uønsket markedsføring.
+
+## § 2. Virkeområde
+
+Denne forskriften gjelder enhver som produserer, bearbeider og distribuerer, herunder omsetter eller markedsfører, næringsmidler. Dette omfatter ikke tilbydere av informasjonssamfunnstjenester, videodelingsplattformtjenester og redaktørstyrte medier, herunder tilbydere av fjernsyn og audiovisuelle bestillingstjenester.
+
+Denne forskriften gjelder for Norge, herunder Svalbard.
+
+## § 3. Definisjoner
+
+I denne forskriften menes med*barn:* Personer under 18 år.*markedsføring:* Enhver form for kommunikasjon eller handling i markedsføringsøyemed. Det foreligger markedsføringsøyemed dersom hensiktenmed kommunikasjonen eller handlingen er å fremme omsetning overfor forbrukere.*sponsing:* Enhver form for offentlig eller privat bidrag til et arrangement, en virksomhet eller en person med den hensikt å fremme omsetning av produkter overfor forbrukere.
+
+## § 4. Markedsføringsforbud
+
+Markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) særlig rettet mot barn, er forbudt. Uavhengig av om markedsføringen er særlig rettet mot barn, skal markedsføring av slike produkter ikke forekomme på en måte som oppfordrer voksne til å kjøpe produktet til barn.
+
+Følgende markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) skal alltid anses å være særlig rettet mot barn:reklame på kino i tilknytning til filmer som er særlig rettet mot barn under 13 år, og som starter før kl. 18.30konkurranser med aldersgrense lavere enn 18 årutdeling av smaksprøver og vareprøver til barn.
+
+Ved vurdering av om annen markedsføring av produkter omfattet av [vedlegg I](forskrift/2025-04-25-684/vedleggI) er særlig rettet mot barn, skal det foretas en helhetsvurdering, hvor det blant annet kan legges vekt på:om produktet primært konsumeres av eller særlig kan appellere til barnom markedsføringen har en presentasjonsform, innhold eller utforming som særlig kan appellere til barn, for eksempel på grunn av språk, farger, effekter, bildebruk, bruk av animasjon eller tegnede figurertid og sted for markedsføringenom det medvirker barn eller personer som særlig kan appellere til barnbruk av gaver, leker, kuponger, rabatter, samleobjekter, konkurranser eller spill som særlig kan appellere til barn.
+
+## § 5. Unntak fra markedsføringsforbudet
+
+I den utstrekning et forhold vil rammes av markedsføringsforbudene i [§ 4](forskrift/2025-04-25-684/§4), gjøres følgende unntak:sponsing til ideelle formål, unntatt bidrag med produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI) næringsmiddelkategori 1–5bruk av sponsors navn og varemerker, unntatt varemerker som gjelder for konkrete produkter i [vedlegg I](forskrift/2025-04-25-684/vedleggI)produktets utformingemballasje og innpakningalminnelig oppstilling av produkter på utsalgsstednøkterne produktopplysninger på nettsider og i tilknytning til utsalgssted.
+
+> Endret ved forskrift [15 aug 2025 nr. 1645](forskrift/2025-08-15-1645).
+
+## § 6. Tilsyn og klage
+
+Helsedirektoratet fører tilsyn og kan fatte nødvendige vedtak for å gjennomføre bestemmelsene i denne forskriften, jf. [matloven § 23](lov/2003-12-19-124/§23).
+
+Markedsrådet behandler klager på Helsedirektoratets vedtak etter denne forskriften. Ved behandlingen i Markedsrådet gjelder de saksbehandlingsreglene som er gitt i eller i medhold av [markedsføringsloven](lov/2009-01-09-2) så langt de passer.
+
+## § 7. Retting og tvangsmulkt
+
+Finner Helsedirektoratet at noen av bestemmelsene i [§ 4](forskrift/2025-04-25-684/§4) er overtrådt, kan direktoratet pålegge retting av forholdet. Det skal samtidig settes en frist for rettingen. Helsedirektoratet kan innhente skriftlig bekreftelse fra overtrederen på at det ulovlige forholdet har opphørt.
+
+Samtidig med pålegget om retting kan Helsedirektoratet ilegge tvangsmulkt i samsvar med [matloven § 26](lov/2003-12-19-124/§26).
+
+## § 8. Overgangsbestemmelse
+
+Kravene i forskriftens [§§ 4](forskrift/2025-04-25-684/§4) og [5](forskrift/2025-04-25-684/§5) får ikke anvendelse overfor virksomheter som omfattes av [§ 2 første ledd](forskrift/2025-04-25-684/§2/ledd/1) før 25. oktober 2025.
+
+> **Endres** ved forskrift [15 aug 2025 nr. 1645](forskrift/2025-08-15-1645) (i kraft 1 jan 2027).
+
+## § 9. Ikrafttredelse
+
+Denne forskriften trer i kraft 25. april 2025.
+
+> **Endres** ved forskrift [15 aug 2025 nr. 1645](forskrift/2025-08-15-1645) (i kraft 1 jan 2027).
+
+## Vedlegg I til forskrift om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
+
+Med «sukkerarter» menes definisjonen av sukkerarter i [forskrift 28. november 2014 nr. 1497 om matinformasjon til forbrukerne (matinformasjonsforskriften) § 1](forskrift/2014-11-28-1497/§1), som gjennomfører Europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) om næringsmiddelopplysninger til forbrukerne Vedlegg I Særlige definisjoner nr. 8.
+
+Med «tilsatte sukkerarter» menes definisjonen av tilsatte sukkerarter i [forskrift 18. februar 2015 nr. 139 om frivillig merking av næringsmidler med Nøkkelhullet](forskrift/2015-02-18-139) (nøkkelhullforskriften) [§ 2 bokstav i](forskrift/2015-02-18-139/§2/bokstav/i).
+
+Med «søtstoffer» menes søtstoffene som nevnt i [forskrift 6. juni 2011 nr. 668 om tilsetningsstoffer til næringsmidler § 1](forskrift/2011-06-06-668/§1), som gjennomfører Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) om tilsetningsstoffer i næringsmidler [Vedlegg II](forskrift/2011-06-06-668/KAPITTEL_2-1-1-8) Unionsliste over tilsetningsstoffer som kan brukes i næringsmidler, og vilkårene for bruken av dem [Del B](forskrift/2011-06-06-668/delB) liste 2.*Næringsmiddelkategorier**Produkttyper som inngår i de ulike næringsmiddelkategoriene og eksempler**Produkter som omfattes/grenseverdier
+(angitt per 100 g/100 ml spiseferdig vare)***1. Sjokolade- og sukkervarer, energibarer og søte pålegg og desserter****Sjokolade- og sukkervarer, inkludert**
+– ren sjokolade og andre sjokoladevarer, inkludert mørk og hvit sjokolade og konfekt
+– sukkervarer uten kakao, inkludert gelégodteri, tyggegummi, pastiller, drops, karameller, lakris, marsipangodteri
+**Energibarer, inkludert**
+– nøttebarer, proteinbarer og müslibarer
+**Søte pålegg, inkludert**
+– honning og sjokoladepålegg, søte nøttebaserte pålegg og andre tilsvarende søte pålegg
+– syltetøy, prim og brunost med tilsatte sukkerarter eller søtstoff
+**Søte desserter, inkludert**
+– puddinger, kremdesserter, dessertgelé, kompotter og sjokolademousseAlle produkter omfattes**2. Kaker, kjeks og annet søtt og/eller fett bakverk****Kaker, kjeks og annet søtt og/eller fett bakverk, inkludert**
+– kaker, småkaker, kjeks og bakevarer som boller, muffins, paier, wienerbrød, croissants, smultring, søte vafler og pannekaker
+– tørr kakemiks, melmiks, røre og deiger for slike produkterAlle produkter omfattes**3. Snacks****Popkorn og maiskorn**
+**Saltede nøtter og saltede nøtteblandinger, også med innhold av frukt**
+**Salte kjeks, saltkringler og saltstenger**
+**Annen snacks, inkludert**
+– snacks av ris eller mais
+– snacks fremstilt av deig
+– snacks direkte fremstilt fra potet, grønnsaker, frukt, bær eller korn, som inkluderer chips og lignende produkter, samt tørket frukt og bær
+– ekstrudert snacksAlle produkter omfattes**4. Spise-is****Spise-is, også med innhold av kakao, inkludert**
+– fløte- og melkebasert is og plantebaserte erstatningsprodukter, vannbasert is, fruktis, sorbet og yoghurtisAlle produkter omfattes**5. Brus, energidrikk, saft og lignende****Brus, energidrikk, saft og lignende, inkludert**
+– iste
+– andre lignende søte leskedrikker som f.eks. frukt- og bærdrikker (med og uten kullsyre) såfremt det ikke omfattes av næringsmiddelkategori 6Alle produkter omfattes**6. Juice og lignende****Juice og lignende produkter, inkludert**
+– juice, nektar og lignende produkter inkludert smoothie (fra frukt, bær eller grønnsaker), også rekonstruert fra konsentrat (omfatter smoothier med yoghurt/melk såfremt yoghurt/melk ikke er hovedingrediensen)
+– frukt- og grønnsaksnektar– Tilsatte sukkerarter > 0 g
+– Søtstoff > 0**7. Melk og plantebaserte drikker****Melk og plantebaserte drikker, inkludert**
+– alle typer melk og plantebaserte drikker utenom syrnede varianter, jf. næringsmiddelkategori 9
+– milkshake
+– kaffe og kaffedrikker som inneholder melk eller plantebasert drikke (der melk eller plantebasert drikke er hovedingrediens), iskaffe– Tilsatte sukkerarter > 0 g
+– Søtstoff > 0**8. Frokostblandinger****Frokost- og andre kornblandinger, inkludert**
+– gryn, müsli, tørre grøtblandinger– Sukkerarter > 12,5 g
+– Kostfiber < 6 g**9. Yoghurt og lignende produkter****Yoghurt og produkter av syrnet melk, inkludert**
+– yoghurt, syrnet smaksatt melk og drikkeyoghurt, ostebaserte yoghurtetterligninger
+– omfatter også sammensatte produkter, for eksempel av yoghurt og müsli
+**Syrnede, tyknete plantebaserte produkter og andre yoghurtetterligninger**
+– omfatter også sammensatte produkter, for eksempel av yoghurtetterligninger og müsli.– Fett > 3 g
+– Sukkerarter > 10 g
+– Søtstoff > 0**10. Hurtigmat og sammensatte ferdigretter****Hurtigmat og sammensatte ferdigretter**
+– Hurtigmat: lett tilgjengelige næringsmidler som omsettes ferdig tilberedt, eventuelt oppvarmet og innpakket. Inkluderer bl.a. pizza og pizza-småretter; smørbrød og wraps/rull; hamburgere i brød; retter med pølser; pommes frites; pastaretter, tilberedte salater; ferdigretter sammensatt av en kombinasjon av karbohydrater og enten grønnsaker eller kjøtt/fisk/belgfrukter, eller alle tre kombinert; supper; grøter (ferdig tilberedt). Omfatter enkeltbestanddeler av hurtigmat (f.eks. pommes frites og kylling nuggets) og hvert produkt som inngår i en hurtigmatmeny skal oppfylle kriteriene for den relevante næringsmiddelgruppen i denne tabellen.
+– Sammensatte ferdigretter: sammensatte retter som er spiseklare, fryste, kjølte eller hermetiserte (som f.eks. selges i dagligvarehandelen). Inkluderer bl.a. pizza, pizza-småretter, smørbrød og wraps/rull; tilberedte pastaretter, gryter, supper, grøter og salater; ferdigretter sammensatt av en kombinasjon av karbohydrater og enten grønnsaker eller kjøtt/fisk/belgfrukter, eller alle tre kombinert.– Energi > 950 kJ (225 kcal)
+– Mettede fettsyrer > 4 g
+– Salt > 1 g

@@ -1,0 +1,36 @@
+---
+id: "sf-20111216-1254"
+slug: "forskrift-om-helse-og-omsorgsinstitusjon"
+type: "forskrift"
+ref_id: "forskrift/2011-12-16-1254"
+title: "Forskrift om kommunal helse- og omsorgsinstitusjon"
+short_title: "Forskrift om helse- og omsorgsinstitusjon"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2012-01-01"
+last_change_in_force: "2014-04-01"
+last_updated: null
+xml_hash: "d8ac88aca9c29484e613465d4770645e7bd43a25c45278e2ef045eef97e42620"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om kommunal helse- og omsorgsinstitusjon
+
+## § 1. Institusjon etter helse- og omsorgstjenesteloven og institusjon under den kommunale helse- og omsorgstjenesten etter pasientskadeloven
+
+Som institusjon etter helse- og [omsorgstjenesteloven § 3-2](lov/2011-06-24-30/§3-2) første ledd nr. 6 bokstav c og institusjon under den kommunale helse- og omsorgstjenesten etter [pasientskadeloven § 1](lov/2001-06-15-53/§1) regnes:Institusjon med heldøgns helse- og omsorgstjenester for barn og unge under 18 år som bor utenfor foreldrehjemmet som følge av behov for tjenester (barnebolig), herunder avlastningsboligerInstitusjon med heldøgns helse- og omsorgstjenester for rusmiddelavhengigeAldershjemSykehjemDøgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.
+
+> Endret ved [forskrift 21 mars 2014 nr. 307](forskrift/2014-03-21-307) (i kraft 1 april 2014).
+
+## § 2. Institusjon i den kommunale helse- og omsorgstjenesten etter helsepersonelloven
+
+Som helseinstitusjon i den kommunale helse- og omsorgstjenesten etter [helsepersonelloven § 3](lov/1999-07-02-64/§3), regnes institusjon etter § 1 bokstavene d og e i forskriften her.
+
+## § 3. Ikraftsetting
+
+Forskriften trer i kraft 1. januar 2012.

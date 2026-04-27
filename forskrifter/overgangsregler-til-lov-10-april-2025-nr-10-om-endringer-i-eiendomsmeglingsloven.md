@@ -1,0 +1,30 @@
+---
+id: "sf-20251113-2263"
+slug: "overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven"
+type: "forskrift"
+ref_id: "forskrift/2025-11-13-2263"
+title: "Overgangsregler til lov 10. april 2025 nr. 10 om endringer i eiendomsmeglingsloven (budgivning, egnethetskrav og sanksjoner mv.)"
+short_title: null
+language: "nb"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "2025-11-13"
+last_change_in_force: null
+last_updated: null
+xml_hash: "3531cb92c50344477fad3c76b3b405d21cf24061c81cbe131b9f9c295cd9a913"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Overgangsregler til lov 10. april 2025 nr. 10 om endringer i eiendomsmeglingsloven (budgivning, egnethetskrav og sanksjoner mv.)
+
+## § 1. Eiendomsmeglerfullmektiger og oppgjørsmedhjelpere ansatt før 1. juli 2025
+
+Eiendomsmeglerfullmektiger og oppgjørsmedhjelpere ansatt før 1. juli 2025 skal oppfylle kravene i [eiendomsmeglingsloven § 2-9 første](lov/2007-06-29-73/§2-9/ledd/1) og [tredje ledd](lov/2007-06-29-73/§2-9/ledd/3) innen 1. januar 2027. Innen samme frist skal eiendomsmeglingsforetaket ha sendt melding til Finanstilsynet som nevnt i [eiendomsmeglingsloven § 2-9 femte ledd](lov/2007-06-29-73/§2-9/ledd/5).
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.

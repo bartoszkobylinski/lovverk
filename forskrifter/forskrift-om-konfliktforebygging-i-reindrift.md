@@ -1,0 +1,136 @@
+---
+id: "sf-20080619-0707"
+slug: "forskrift-om-konfliktforebygging-i-reindrift"
+type: "forskrift"
+ref_id: "forskrift/2008-06-19-707"
+title: "Forskrift om tilskudd til konfliktforebyggende tiltak i forholdet mellom reindrift og annen berørt part"
+short_title: "Forskrift om konfliktforebygging i reindrift"
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2008-06-19"
+last_change_in_force: "2025-07-01"
+last_updated: null
+xml_hash: "4282dd8f867ea363b485bee50639a2d4effaefaefee93b64a21e86a5496af8b7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om tilskudd til konfliktforebyggende tiltak i forholdet mellom reindrift og annen berørt part
+
+## § 1. Formål
+
+Formålet med tilskudd til konfliktforebyggende tiltak er å redusere konfliktene mellom reindriften og det øvrige landbruk, samt konflikter knyttet til by og rein.
+
+> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019).
+
+## § 2. Part
+
+Partene etter denne forskriften er reindriften ved reinbeitedistrikt, siida eller reinlag på den ene siden, og enten landbruk og/eller annen berørt part på den andre side.
+
+> Endret ved [forskrifter 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), [24 juni 2025 nr. 1260](forskrift/2025-06-24-1260) (i kraft 1 juli 2025).
+
+## § 3. Vilkår for tilskudd
+
+Der partene er enige om det, kan det gis tilskudd til bygging av gjerder som verner innmarksareal, kulturbeite, plantefelt og bebygde områder mot reinbeiting. Det er et vilkår for tilskudd at gjerdet blir vedlikeholdt og at det areal som skal vernes blir holdt i hevd.
+
+Det kan gis tilskudd til nødvendig vedlikehold av gjerder som får godkjent sluttrapport fra og med 2023. Det kan søkes om tilskudd til vedlikehold tidligst 5 år etter at sluttrapport for gjerdetiltaket er godkjent. Gjerdet må være i bruk, i god stand og det må ha vært gjort løpende vedlikehold på gjerdet. Det kan gis tilskudd til vedlikehold på 10 kroner per løpemeter gjerde.
+
+Under spesielle forhold kan det gis tilskudd også til andre tiltak som vil virke konfliktdempende i forholdet mellom reindrift og annen part. Ved tiltak overfor andre parter enn landbruk, skal den annen parts finansiering være avklart før søknaden fremmes.
+
+Ved særlige tilfeller kan det innvilges tilskudd til bruk av helikopter, såfremt reindriften ønsker det.
+
+Det omsøkte tiltaket må ha et godkjent kostnadsoverslag over 5 000 kroner. Kostnadene skal som hovedregel fordeles likt mellom partene.
+
+Det kan innvilges tilskudd med inntil 90 prosent av godkjent kostnadsoverslag.
+
+Der egen arbeidsinnsats inngår i kostnadsoverslaget er timesatsen 210 kroner.
+
+> Tilføyd ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), endret ved forskrifter [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021), [20 juni 2022 nr. 1092](forskrift/2022-06-20-1092) (i kraft 1 juli 2022), [21 juni 2023 nr. 1012](forskrift/2023-06-21-1012) (i kraft 1 juli 2023).
+
+## § 4. Særlig om gjerdetiltak
+
+For gjerdetiltak med flere involverte interessenter på grunneiersiden, skal det opprettes avtale mellom disse om gjennomføring av byggearbeidet og det framtidige vedlikehold. Avtalen skal fastsette hvor stor andel av eventuelle byggekostnader som påhviler hver av partene, samt hvordan arbeids- og kostnadsmessige sider ved vedlikeholdet skal fordeles. Avtalen kan tinglyses som heftelse på de aktuelle eiendommer.
+
+Dersom søker av tilskudd ikke eier grunnen der anlegget skal oppføres, må det innhentes skriftlig tillatelse fra hjemmelshaver til gjennomføring av tiltaket.
+
+Alt byggearbeid skal skje i henhold til gjeldende lover og forskrifter innen området der anlegget skal føres opp.
+
+For gjerdeanlegg må det videre utarbeides arbeidsbeskrivelse med kartfestet trasévalg, samt kostnadsoverslag og finansieringsplan. Kostnadsoverslaget kan omfatte utgifter til rydding av trevirke i gjerdetraseen, materialutgifter, samt transport- og arbeidsutgifter ved oppføring av gjerdet. Erstatninger og skjønnsutgifter skal ikke inngå i kostnadsoverslaget.
+
+> Endret ved [forskrifter 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019 tidligere § 3), [29 juni 2020 nr. 1424](forskrift/2020-06-29-1424) (i kraft 1 juli 2020).
+
+## § 5. Saksbehandling
+
+For konflikter mellom reindrift og øvrig landbruk sendes søknad med vedlagt dokumentasjon som nevnt i [§ 3](forskrift/2008-06-19-707/§3) parallelt til kommunen og statsforvalteren som regional reindriftsmyndighet (lokale instanser). Disse legger opp til et administrativt samarbeid i saken og sender søknaden, hver for seg eller sammen, med sine uttalelser til Statsforvalteren i Trøndelag. Søknad fra reindriften og annen part enn øvrig landbruk sendes til statsforvalteren som regional reindriftsmyndighet, som oversender søknad med uttalelse videre til Statsforvalteren i Trøndelag for behandling. Uttalelsene skal inneholde forslag til vilkår for å ivareta formålet med ordningen, og også forslag til kostnadsfordeling mellom Landbrukets Utviklingsfond og Reindriftens Utviklingsfond.
+
+De regionale konfliktråd1 kan i samarbeid med partene fremme søknad om tilskudd direkte for Statsforvalteren i Trøndelag.
+
+Ved oversendelse til Statsforvalteren i Trøndelag bør det foreligge forslag om hvem av de to lokale instanser som skal ha det offentlige oppfølgingsansvar for prosjektet, jf. [§ 6](forskrift/2008-06-19-707/§6) og [§ 7](forskrift/2008-06-19-707/§7).
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 4), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021).
+
+## § 6. Innvilgningsmyndighet
+
+Statsforvalteren i Trøndelag avgjør søknader om tilskudd. Statsforvalteren står fritt i å oppnevne lokal oppfølgingsinstans, jf. [§ 4](forskrift/2008-06-19-707/§4).
+
+Ved innvilgning av søknaden skal Statsforvalteren i Trøndelag fastsette kostnadsfordelingen mellom Landbrukets Utviklingsfond og Reindriftens Utviklingsfond, samt de vilkår som er nødvendige for å ivareta formålet med ordningen. Det skal også settes en frist for gjennomføring av arbeidet. For investeringstiltak settes denne normalt til to år.
+
+Søknad om tilskudd kan avslås av Statsforvalteren i Trøndelag dersom arbeidene er påbegynt før søknaden er avgjort.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 5), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 7. Utbetaling
+
+Etter skriftlig begjæring fra søker og på anmodning fra den lokale oppfølgingsinstans, jf. [§ 4](forskrift/2008-06-19-707/§4) og [§ 5](forskrift/2008-06-19-707/§5), kan Statsforvalteren i Trøndelag foreta delutbetalinger av tilskuddet med inntil 80 % av innvilget beløp når minst en tilsvarende del av tiltaket er gjennomført.
+
+Sluttutbetalingen kan foretas når ferdigattest/sluttrapport og attestert regnskapssammendrag over utgiftene er godkjent av Statsforvalteren i Trøndelag. For virksomheter som er pålagt revisjonsplikt kreves revidert regnskap over utgiftene.
+
+Det kan kreves sikkerhet for tilskuddet, og det er ikke anledning til å overdra krav på tilskudd til eie eller pant.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 6), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 8. Kontroll
+
+Statsforvalteren i Trøndelag skal følge opp tiltak som får støtte gjennom den lokale oppfølgingsinstans, jf. [§ 4](forskrift/2008-06-19-707/§4) og [§ 5](forskrift/2008-06-19-707/§5). Denne skal kontrollere at vilkårene for tilskuddet blir overholdt. Mottaker av tilskudd må godta kontroll i samband med dette og er forpliktet til å gi de nødvendige opplysninger.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 7), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 9. Rapportering
+
+Statsforvalteren i Trøndelag skal bekjentgjøre ferdigattest/sluttrapport og regnskapssammendrag for tiltak overfor partene og fylkets landbruks- og/eller reindriftsmyndighet.
+
+Statsforvalteren i Trøndelag rapporterer årlig til Landbruks- og matdepartementet om tiltak som er søkt finansiert over tilskuddsordningen.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 8), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 10. Tilbakebetaling
+
+Dersom det oppstår forhold som er i strid med forutsetningene for tilskuddet, kan Statsforvalteren i Trøndelag bestemme at støtten skal avkortes, eventuelt at tilskuddet skal tilbakebetales helt eller delvis. Statsforvalteren i Trøndelag kan gi pålegg om tilleggsarbeid og utbedringer.
+
+Når krav om tilbakebetaling er framsatt, kan det motregnes i andre investeringstilskudd og i produksjonstillegg som vedkommende har krav på, eller inndrives etter vanlige regler. Krav om tilbakebetaling av tilskudd kan ikke settes fram senere enn 10 år etter utbetaling.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 9), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 11. Dispensasjon
+
+Landbruks- og matdepartementet kan i særlige tilfelle fravike bestemmelsene i forskriften.
+
+> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 10).
+
+## § 12. Klage
+
+Vedtak som er truffet i medhold av forskriften kan påklages til Landbruks- og matdepartementet etter [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven) kapittel VI. Klagen sendes gjennom Statsforvalteren i Trøndelag.
+
+Etter kongelig [resolusjon 15. desember 2006 nr. 1456](forskrift/2006-12-15-1456) er det ikke klagerett på vedtak fattet av Landbruks- og matdepartementet i dispensasjonssaker vedrørende tilskuddsordninger, jf. § 28.
+
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 11), [29 juni 2020 nr. 1424](forskrift/2020-06-29-1424) (i kraft 1 juli 2020), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+## § 13. Ikrafttredelse
+
+Forskriften trer i kraft 19. juni 2008. Samtidig oppheves [forskrift 3. juli 1996 nr. 1467](forskrift/1996-07-03-1467) om tilskudd til konfliktforebyggende tiltak i forholdet mellom reindrift og annen berørt part.
+
+> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 12).

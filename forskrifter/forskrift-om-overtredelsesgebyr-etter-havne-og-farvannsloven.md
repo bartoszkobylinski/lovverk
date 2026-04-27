@@ -1,0 +1,48 @@
+---
+id: "sf-20191211-1869"
+slug: "forskrift-om-overtredelsesgebyr-etter-havne-og-farvannsloven"
+type: "forskrift"
+ref_id: "forskrift/2019-12-11-1869"
+title: "Forskrift om overtredelsesgebyr etter havne- og farvannsloven"
+short_title: "Forskrift om overtredelsesgebyr etter havne- og farvannsloven"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2020-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "810090dee1a4839ff6f7d27143ff577ea78f94bb14d8a17f40951eb3c082af4a"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om overtredelsesgebyr etter havne- og farvannsloven
+
+## § 1. Overtredelsesgebyr mot enkeltpersoner
+
+Ved utmålingen av overtredelsesgebyr etter [§ 50](lov/2019-06-21-70/§50) første og andre ledd mot enkeltpersoner skal det særlig legges vekt påhvor alvorlig overtredelsen er, herunder overtredelsens omfang og virkning, og om det har inntrådt eller har oppstått fare for skade på liv, helse, miljø eller materielle verdiergraden av utvist skyldom vedkommende har hatt eller kunne oppnå noen fordel ved overtredelsenom det foreligger gjentakelsevedkommende sin økonomiske evneallmennpreventive hensyn.
+
+Overtredelsesgebyret for enkeltpersoner som opptrer utenfor næringsvirksomhet skal maksimalt utgjøre 0,2 ganger folketrygdens grunnbeløp (G). Dette gjelder for overtredelse av havne- og farvannsloven [§ 7](lov/2019-06-21-70/§7), [§ 8](lov/2019-06-21-70/§8), [§ 9](lov/2019-06-21-70/§9), [§ 10](lov/2019-06-21-70/§10) første og tredje ledd, [§ 11](lov/2019-06-21-70/§11) andre ledd, [§ 14](lov/2019-06-21-70/§14) første ledd første punktum og [§ 17](lov/2019-06-21-70/§17).
+
+Overtredelsesgebyret for enkeltpersoner som opptrer i næringsvirksomhet skal maksimalt utgjøre 0,6 ganger folketrygdens grunnbeløp (G).
+
+Overtredelsesgebyret skal oppfylles innen fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere.
+
+Dersom overtredelsesgebyret ikke blir betalt innen forfall, påløper forsinkelsesrente etter forsinkelsesrenteloven.
+
+## § 2. Overtredelsesgebyr mot foretak
+
+Ved utmålingen av overtredelsesgebyr etter § 50 tredje ledd mot foretak skal momentene angitt i [forvaltningsloven § 46](lov/1967-02-10/§46) andre ledd legges til grunn. I vurderingen av overtredelsens grovhet skal det legges særlig vekt på om det har inntrådt eller er oppstått fare for skade på liv, helse, miljø eller materielle verdier.
+
+Overtredelsesgebyret skal maksimalt utgjøre 10 ganger folketrygdens grunnbeløp (G).
+
+Overtredelsesgebyret skal oppfylles innen fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere.
+
+Dersom overtredelsesgebyret ikke blir betalt innen forfall, påløper forsinkelsesrente etter forsinkelsesrenteloven.
+
+## § 3. Ikraftsetting
+
+Forskriften trer i kraft 1. januar 2020.

@@ -1,0 +1,405 @@
+---
+id: "sf-20111216-1398"
+slug: "forskrift-om-elsertifikater"
+type: "forskrift"
+ref_id: "forskrift/2011-12-16-1398"
+title: "Forskrift om elsertifikater"
+short_title: "Forskrift om elsertifikater"
+language: "no"
+ministry:
+  - "Energidepartementet"
+date_in_force: "2012-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2023-08-11"
+xml_hash: "5fdecd99d9b79a44c5d466f32f4e08a6b4bc60d0eb402f26f7e305139a1b6bd1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om elsertifikater
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Formål
+
+Forskriften skal bidra til økt produksjon av elektrisk energi fra fornybare energikilder.
+
+### § 2. Virkeområde
+
+Forskriften med tilhørende vedlegg gjelder på norsk territorium.
+
+### § 3. Definisjoner
+
+I forskriften her forstås med:*elsertifikat:* et bevis utstedt av staten for at det er produsert en megawattime (MWh) fornybar elektrisk energi i henhold til lov om elsertifikater og denne forskriften.*elsertifikatberettiget:* innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 i [lov om elsertifikater og](lov/2011-06-24-39/kap2) denne forskriften er oppfylt.*elsertifikatplikt:* plikt til per 1. april hvert år å inneha et visst antall sertifikater for annullering i henhold til lov om elsertifikater og denne forskriften.*fornybarandel:* den delen av innmatet energi i et anlegg som er fornybar energi og dermed grunnlag for tildeling av elsertifikater.*produksjonsanlegg:* en innretning for produksjon av elektrisk energi.*registeransvarlig:* den enhet som er utpekt som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater.*tildelingsfaktor:* den delen av et anleggs totale produksjon av elektrisk energi som kvalifiserer for rett til elsertifikater.*avregningsansvarlig:* den som i henhold til [energiloven § 4-3](lov/1990-06-29-50/§4-3) er utpekt som avregningsansvarlig.*netto produksjon:* med netto produksjon menes brutto produksjon i et kraftverk, referert til generatorklemme eller tilsvarende, minus forbruk i eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi, tap i hovedtransformatoren relatert til produksjonen i kraftverket og energi fra eventuell hjelpegenerator.
+
+Uttrykk som ikke er definert i denne forskriften skal forstås på samme måte som i lov om elsertifikater.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 4. Elsertifikatenes funksjonstid
+
+Elsertifikater kan utstedes for produksjon som skjer til og med 31. desember 2035. Siste annullering av elsertifikater skjer 1. april 2036.
+
+### § 5. Utenlandske elsertifikater
+
+Elsertifikater utstedt i henhold til svensk lov om elsertifikater kan brukes til oppfyllelse av sertifikatplikten i Norge.
+
+## Kapittel 2. Godkjenning av produksjonsanlegg
+
+### § 6. Søknad om godkjenning
+
+Skriftlig søknad om godkjenning av produksjonsanlegg som kvalifiserer for rett til elsertifikater, skal sendes Norges vassdrags- og energidirektorat (NVE) på den måten NVE bestemmer.
+
+Søknaden skal inneholde de opplysninger som fremgår av denne forskriften, herunder dens vedlegg.
+
+Frist for å søke om godkjenning av produksjonsanlegg som kvalifiserer for rett til elsertifikater er 1. april 2016 for produksjonsanlegg satt i drift før 1. januar 2012. For alle andre produksjonsanlegg er fristen 1. april 2022.
+
+> Endret ved [forskrifter 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016), [27 nov 2017 nr. 1835](forskrift/2017-11-27-1835) (i kraft 1 jan 2018).
+
+### § 7. Vedtak om godkjenning
+
+NVE fatter vedtak om godkjenning av produksjonsanlegg for elsertifikatordningen.
+
+NVE fastsetter om hele eller bare deler av produksjonen godkjennes under ordningen. Dette reflekteres i at vedtaket fastsetter en tildelingsfaktor fra 0 til 1.
+
+NVE fastsetter tidspunktet for byggestart for det enkelte produksjonsanlegg. NVE kan i tvilstilfeller avgjøre hvilket tidspunkt som skal anses som byggestart.
+
+NVE kan sette krav til fortløpende rapportering av fornybarandel.
+
+### § 8. Fornybare energikilder
+
+Elsertifikater utstedes for produksjon av elektrisk energi basert på fornybare energikilder. NVE kan i tvilstilfeller avgjøre hva som er fornybare energikilder.
+
+### § 9. Krav til produksjonsanlegget
+
+Anlegg for produksjon av elektrisk energi basert på fornybare kilder må:ha hatt byggestart etter 7. september 2009,være et vannkraftverk som hadde byggestart etter 1. januar 2004, ellervarig øke sin energiproduksjon med byggestart etter 7. september 2009.
+
+Produksjonsanlegget må i tillegg:være i samsvar med gjeldende konsesjon, konsesjonsvilkår eller forutsetninger for fritak for konsesjonsplikt,settes i drift innen 31. desember 2021, ogha betalt tilbake eventuell statlig investeringsstøtte, med renter som fastsatt av NVE, innen 30. april 2012.
+
+I produksjonsanlegg som kvalifiserer for rett til elsertifikater vil det utelukkende tildeles elsertifikater for den delen av produksjonsanlegget som har blitt satt i drift innen 31. desember 2021.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 10. Krav til dokumentasjon av byggestart
+
+Søknad om godkjenning etter [§ 6](forskrift/2011-12-16-1398/§6) skal inneholde dokumentasjon av byggestart ved fremleggelse av minst én av følgende:melding til Arbeidstilsynet om oppstart av anleggsarbeid,godkjent detaljplan fra NVE,kontrakt for leveranse av maskin- og elektroutstyr, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden, ellerkontrakt for hele eller deler av anleggsarbeidet, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden.
+
+For produksjonsanlegg inntil 1 MW kan det alternativt fremlegges dokumentasjon fra nettselskap på når anlegget ble satt i drift, som grunnlag for å fastsette tidspunktet for byggestart.
+
+Dokumentasjonskravene i første og annet ledd gjelder ikke for produksjonsanlegg som bygges i henhold til konsesjon eller fritak for konsesjonsplikt som er gitt etter 1. januar 2012 av NVE, Energidepartementet eller Kongen i statsråd.
+
+NVE kan på forespørsel kreve fremlagt ytterligere dokumentasjon, herunder dokumentasjon som nevnt i første og annet ledd som ikke er fremlagt i søknaden.
+
+> Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
+
+### § 11. Særlige krav for godkjenning av varig økning av produksjonsevnen
+
+Varig økning i produksjonsevne som følge av investeringer i eksisterende produksjonsanlegg gir rett til elsertifikater. Det samme gjelder ved opprustinger, utvidelser og nye produksjonsanlegg til erstatning for eksisterende anlegg.
+
+I vedtaket om godkjenning fastsetter NVE en tildelingsfaktor som representerer økningen i produksjonsevne. Der økningen beregnes ut fra et hydrologisk grunnlag bestemmes dette grunnlaget av NVE.
+
+Utbedring på grunn av elde og slitasje anses som vedlikehold og gir ikke rett til elsertifikater.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 12. Elsertifikatperiode
+
+Elsertifikatperioden gjelder i femten år fra vedtak om godkjenning etter [§ 7](forskrift/2011-12-16-1398/§7) eller fra det tidspunkt som er fastsatt av NVE i vedtaket, men uansett begrenset til 31. desember 2035.
+
+For produksjonsanlegg som ble satt i drift før 1. januar 2012 skal elsertifikatperioden forkortes tilsvarende perioden fra idriftsettelse til 1. januar 2012.
+
+> Endret ved [forskrift 27 nov 2017 nr. 1835](forskrift/2017-11-27-1835) (i kraft 1 jan 2018).
+
+### § 13. Driftsavbrudd
+
+Dersom et produksjonsanlegg er forhindret fra å levere elektrisk energi på grunn av uforutsett driftsavbrudd eller hendinger knyttet til overføring eller distribusjon av elektrisk energi, og produksjonsanlegget dermed blir forhindret fra å motta elsertifikater over en periode lenger enn 30 døgn, kan NVE etter søknad forlenge elsertifikatperioden tilsvarende perioden den elsertifikatberettigede ikke har mottatt elsertifikater. Elsertifikater kan likevel ikke utstedes for produksjon som skjer etter 31. desember 2035.
+
+## Kapittel 3. Måling og rapportering
+
+### § 14. Rapportering ved utstedelse av elsertifikater
+
+Elsertifikatberettigede får utstedt elsertifikater på grunnlag av avregningsdata som sendes inn til den avregningsansvarlige etter [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester. Det må installeres måler for hvert enkelt godkjente produksjonsanlegg for at det skal kunne utstedes sertifikater.
+
+Avregningsansvarlig skal videresende nødvendige data til registeransvarlig.
+
+Elsertifikatberettigede som ønsker å få utstedt elsertifikater på grunnlag av netto produksjon fra målere i nett som ikke omfattes av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester, må selv for egen regning sørge for innrapportering av måledata. Innrapporteringen må foretas av en profesjonell og uavhengig tredjepart som plikter å påse at kravene til målesystem etter [§ 15](forskrift/2011-12-16-1398/§15) er oppfylt, og sørger for at måledata for produksjon reduseres på bakgrunn av beregnet korreksjonsfaktor før innrapportering til registeransvarlig. Måledata skal oversendes i henhold til Ediel.
+
+Nettselskapet skal sende kopi av korreksjonsoppgjør som følge av feil i rapporterte måleverdier for elsertifikatberettigede til registeransvarlig.
+
+> Endret ved forskrifter [17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016), [17 des 2015 nr. 1695](forskrift/2015-12-17-1695) som endret ved vedtak [4 des 2020 nr. 2621](forskrift/2020-12-04-2621) (i kraft 1 jan 2021).
+
+### § 15. Bestemmelser om målesystem
+
+Det skal være timesmåling for hvert enkelt produksjonsanlegg for at det skal kunne utstedes elsertifikater.
+
+Ved validering, estimering og korreksjon av måledata som ligger til grunn for utstedelse av elsertifikater skal profesjonell og uavhengig tredjepart som foretar innrapporteringer etter [§ 14](forskrift/2011-12-16-1398/§14) tredje ledd følge de samme kravene som stilles til et nettselskap etter [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester § 3-10.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 16. Bestemmelser om måledata og korreksjonsfaktor
+
+Elsertifikater utstedes på grunnlag av måledata for netto produksjon. Registeransvarlig skal trekke fra energi brukt til pumping av vann til magasiner.
+
+For produksjonsanlegg som ikke er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester skal måledata som sendes til registeransvarlig være basert på netto produksjon. Dersom måling er etablert for brutto produksjon kan det for produksjonsanlegg som ikke er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester fremlegges, ved søknaden, en beregning av korreksjonsfaktor som tar hensyn til forbruket i anleggets hjelpesystemer og tap i anleggets transformatorer. Beregningen skal foretas av en profesjonell og uavhengig tredjepart. Ved brutto målinger av produksjon der det ikke foreligger en beregning av korreksjonsfaktor skal det trekkes fra 2 prosent før innsending av måledata til registeransvarlig.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 17. Rapportering av beregningsrelevant mengde elektrisk energi
+
+Nettselskapet skal innen midten av hvert kvartal sende melding til registeransvarlig om beregningsrelevant mengde elektrisk energi for hver enkelt elsertifikatpliktig i sitt nettområde. Meldingen skal for hver elsertifikatpliktig inneholde aggregert beregningsrelevant mengde for foregående kalenderår, samt aggregert beregningsrelevant mengde til og med utgangen av foregående kvartal for inneværende år. Meldingen skal oversendes ved hjelp av Ediel-melding i henhold til norsk Ediel-standard.
+
+Elsertifikatpliktige i nett som ikke omfattes av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) må selv innen midten av påfølgende kvartal registrere beregningsrelevant mengde elektrisk energi i foregående kvartal i elsertifikatregisteret. Den elsertifikatpliktige skal kunne dokumentere at oppgitt beregningsrelevant mengde er korrekt.
+
+Nettselskapet skal opplyse elsertifikatpliktige i sitt nett om hvilke målepunkter det leveres eller er uttak av beregningsrelevant mengde elektrisk energi. For målepunkter hvor kun deler av forbruket er beregningsrelevant, skal nettselskapet opplyse om hvilken andel som er beregningsrelevant. Meldingen skal snarest mulig oversendes ved hjelp av Ediel-melding i henhold til norsk Ediel-standard.
+
+Registeransvarlig skal løpende registrere beregningsrelevant mengde elektrisk energi rapportert fra nettselskapene i elsertifikatregisteret for den enkelte elsertifikatpliktige.
+
+## Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv.
+
+### § 18. Elsertifikatpliktige
+
+Elsertifikatpliktige er:enhver som leverer elektrisk energi til sluttbruker,enhver som forbruker elektrisk energi som er egenprodusert, ogenhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.
+
+I tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c) er ikke selgeren elsertifikatpliktig.
+
+### § 19. Beregningsrelevant mengde elektrisk energi
+
+Elsertifikatpliktens omfang tilsvarer den elsertifikatpliktiges beregningsrelevante mengde elektrisk energi i det enkelte år, multiplisert med elsertifikatkvoten (forholdstallet) som er fastsatt for det samme året etter [§ 19a](forskrift/2011-12-16-1398/§19a).
+
+Som beregningsrelevant mengde elektrisk energi anses leveranser som nevnt i Stortingets vedtak om forbruksavgift på elektrisk kraft [§ 1](forskrift/2011-12-16-1398/§1) slik det lyder for budsjetterminen 2011. Kjøp av elektrisk energi for å dekke nettap er ikke beregningsrelevant.
+
+Etter søknad fatter NVE vedtak om at industrielt kraftforbruk hos aktører som driver kraftintensiv industriell virksomhet som faller innenfor Norsk standard for næringsgruppering (SN2007) 17.1, 19.2, 20.1, 24.1 eller 24.4, og som ikke er fritatt etter annet ledd, ikke anses som beregningsrelevant. Aktørene må i tillegg melde fra til nettselskapene hvor de har målepunkter der forbruket ikke er beregningsrelevant.
+
+Aktører har frist til innen utgangen av 31. desember for å søke om unntak fra elsertifikatplikten for inneværende år. For aktører som gis unntak for industrielt kraftforbruk med hjemmel i [§ 19](forskrift/2011-12-16-1398/§19) tredje ledd vil vedtak om unntak gjelde hele året.
+
+> Endret ved [forskrifter 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016), [27 nov 2017 nr. 1835](forskrift/2017-11-27-1835) (i kraft 1 jan 2018).
+
+### § 19a. Årlige elsertifikatkvoter
+
+Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall oppgitt i følgende tabell:*Beregningsår for elsertifikatkvoten**Elsertifikatkvoten*20240,18320250,19020260,17220270,14720280,12520290,10120300,08320310,06620320,04920330,03320340,01620350,008
+
+> Tilføyd ved [forskrift 27 nov 2017 nr. 1835](forskrift/2017-11-27-1835) (i kraft 1 jan 2018), endret ved forskrifter [31 okt 2018 nr. 1637](forskrift/2018-10-31-1637) (i kraft 1 jan 2019), [16 sep 2019 nr. 1287](forskrift/2019-09-16-1287) (i kraft 1 jan 2020), [8 juli 2020 nr. 1526](forskrift/2020-07-08-1526) (i kraft 1 jan 2021), [21 des 2021 nr. 3870](forskrift/2021-12-21-3870) (i kraft 1 jan 2022), [21 des 2022 nr. 2412](forskrift/2022-12-21-2412) (i kraft 1 jan 2023), [20 des 2023 nr. 2231](forskrift/2023-12-20-2231) (i kraft 1 jan 2024), [5 nov 2024 nr. 2660](forskrift/2024-11-05-2660) (i kraft 1 jan 2025), [2 des 2025 nr. 2408](forskrift/2025-12-02-2408) (i kraft 1 jan 2026).
+
+### § 20. Melding om elsertifikatplikt
+
+Den elsertifikatpliktige skal sende melding til NVE på den måten NVE bestemmer innen to uker etter at elsertifikatplikt har inntrådt.
+
+NVE kan etter forutgående varsel fatte vedtak om registrering av aktører som ikke har meldt seg som elsertifikatpliktige.
+
+### § 21. Deklarasjon for oppfyllelse av elsertifikatplikt
+
+Den elsertifikatpliktige skal innen 1. mars hvert år kontrollere beregningsrelevant mengde elektrisk energi for siste kalenderår, samt eventuell korrigering for kalenderåret før, i elsertifikatregisteret. Dersom den elsertifikatpliktige mener at feil beregningsrelevant mengde elektrisk energi er registrert i elsertifikatregisteret, skal denne fremlegge dokumentasjon til registeransvarlig på at beregningsrelevant mengde elektrisk energi avviker fra volumet oppgitt i elsertifikatregisteret.
+
+Den elsertifikatpliktige skal innen 1. mars hvert år angi antall elsertifikater som skal annulleres på egen konto i elsertifikatregisteret.
+
+Ved uenighet mellom registeransvarlig og den elsertifikatpliktige om beregningsrelevant mengde elektrisk energi, kan den elsertifikatpliktige innen 15. mai kreve at NVE fatter vedtak som avgjør om elektrisk energi anses beregningsrelevant.
+
+### § 22. Korrigering av beregningsrelevant mengde elektrisk energi
+
+Dersom nettselskapet etter 1. mars korrigerer den elsertifikatpliktiges beregningsrelevante mengde elektrisk energi for det foregående kalenderåret, skal den registeransvarlige justere for dette i elsertifikatplikten ved neste års annullering. Det skal ikke korrigeres for endringer i beregningsrelevant mengde lenger tid tilbake enn året før det året det annulleres for.
+
+Ved justering etter første ledd skal elsertifikatplikten beregnes på nytt basert på den elsertifikatkvoten som gjaldt det året korreksjonen gjelder. Differansen mellom den opprinnelige elsertifikatplikten og den nye trekkes fra eller legges til elsertifikatplikten for siste kalenderår.
+
+Dersom den elsertifikatpliktige får medhold i klage etter [§ 21](forskrift/2011-12-16-1398/§21) hvor klagen gjelder innrapportert beregningsrelevant mengde elektrisk energi for siste kalenderår, må den elsertifikatpliktige selv kontrollere at nettselskapet inkluderer korrigeringen i den videre rapporteringen til registeransvarlig.
+
+### § 23. (Opphevet)
+
+> Opphevet ved forskrift [22 jan 2021 nr. 179](forskrift/2021-01-22-179) (i kraft 1 feb 2021).
+
+## Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv.
+
+### § 24. Elsertifikatregisteret
+
+Registeransvarlig skal opprette et elsertifikatregister og opprette elsertifikatkonto for elsertifikatpliktige og elsertifikatberettigede eller andre etter skriftlig søknad.
+
+Elsertifikatpliktige skal ha egen elsertifikatkonto.
+
+En kontohaver kan ha flere konti med tilhørende underkonti i elsertifikatregisteret.
+
+Kontohaveren kan ved fullmakt overlate disponeringen av kontoen til andre.
+
+Registeransvarlig skal innhente og registrere opplysninger, herunder:når konto ble opprettetnødvendige opplysninger om kontohaver, som kan omfatte organisasjonsnummer, for- og etternavn, fødselsdato og fødested på personen som skal disponere kontoen, adresse, land, telefonnummer og stilling i virksomhetenkontoens elsertifikatbeholdningbevegelser i kontoenelsertifikatets omsetningspris og dato for kontraktsinngåelseheftelser som hviler på elsertifikatbeholdningennår elsertifikatet ble utstedtnår elsertifikatet ble annullerteventuelle fullmakter og nødvendige opplysninger om disse, som kan omfatte navn på fullmaktsgiver, organisasjonsnummer, eventuelt for- og etternavn på fullmektig, fødselsdato og fødested på fullmektig, adresse, land, telefonnummer og stilling i virksomheten.
+
+Registeransvarlig er ansvarlig for driften av elsertifikatregisteret og for registrering ved utstedelse og annullering av elsertifikater.
+
+Registeransvarlig skal ha hensiktsmessige ordninger for å overvåke at registreringen i elsertifikatregisteret er korrekt, og melde fra til NVE dersom det foreligger grunn til å tro at uriktige eller villedende opplysninger er registrert i elsertifikatregisteret.
+
+### § 25. Utstedelse av elsertifikater
+
+Registeransvarlig skal utstede ett elsertifikat til den elsertifikatberettigede for hver megawattime elektrisk energi produsert i godkjent produksjonsanlegg. Hvert elsertifikat skal ha et identifiseringsnummer og dato for utstedelsen.
+
+Anlegg som er godkjent for elsertifikater tildeles elsertifikater lik produktet av innrapporterte produksjonsdata justert etter [§ 16](forskrift/2011-12-16-1398/§16), tildelingsfaktor og fornybarandel.
+
+Et elsertifikat utstedes til den elsertifikatberettigede ved at elsertifikatet registreres på vedkommendes elsertifikatkonto. Registreringen skal foretas uten ugrunnet opphold.
+
+Etter fullmakt fra elsertifikatberettiget kan elsertifikater utstedes til en annens elsertifikatkonto.
+
+En elsertifikatberettiget som mener å ha fått utstedt et uriktig antall elsertifikater, kan kreve at NVE fatter vedtak om hvor mange elsertifikater den elsertifikatberettigede har krav på. Kravet skal fremsettes overfor registeransvarlig, som oversender saken til NVE for vedtak sammen med den registeransvarliges kommentarer til kravet.
+
+### § 26. Omsetning av elsertifikater
+
+Selgeren av elsertifikater skal registrere antall elsertifikater som overdras fra selger til kjøper, omsetningspris og dato for kontraktsinngåelse i elsertifikatregisteret ved overdragelse fra selger til kjøper. Omsetningsprisen er den prisen som selger og kjøper har avtalt.
+
+Selger, kjøper og andre som har konto i elsertifikatregisteret skal på forespørsel oppgi kontraktsdokumentasjon, annen informasjon knyttet til transaksjoner i elsertifikatregisteret og om partene til registeransvarlig og NVE.
+
+### § 27. Annullering av elsertifikater
+
+Registeransvarlig skal hvert kvartal beregne elsertifikatpliktens omfang per elsertifikatpliktig basert på elsertifikatkvote og beregningsrelevant mengde elektrisk energi og angi dette på den elsertifikatpliktiges konto.
+
+Registeransvarlig skal 1. april annullere det antall elsertifikater som den elsertifikatpliktige har angitt for annullering. Dersom det ikke er angitt hvor mange elsertifikater som skal annulleres, skal registeransvarlig annullere det antallet som er tilstrekkelig for oppfyllelse av sertifikatplikten.
+
+Den elsertifikatpliktige må kontrollere at antall annullerte sertifikater på den elsertifikatpliktiges konto er korrekt, og ved feil melde fra til registeransvarlig innen 15. april.
+
+Registeransvarlig skal innen 15. mai rapportere til NVE antall annullerte sertifikater samt data for beregningsrelevant mengde elektrisk energi.
+
+Ved uenighet mellom registeransvarlig og den elsertifikatpliktige om korrekt antall annullerte elsertifikater, kan den elsertifikatpliktige innen 15. mai kreve at NVE fatter vedtak i saken.
+
+Den elsertifikatpliktige plikter innen utgangen av 31. mars å inneha på sin konto det antall elsertifikater som skal annulleres.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+### § 28. Informasjon og rapportering til NVE
+
+NVE skal ha direkte tilgang til elsertifikatregisteret. NVE kan kreve at det skal utarbeides en funksjon for standardrapporter, og tilgang til denne funksjonen.
+
+Registeransvarlig skal utarbeide kvartalsvise rapporter til NVE med opplysninger om blant annet:elsertifikatpliktiges beregningsrelevante kraftleveranser eller forbruk, samt anskaffelser av elsertifikater,antall utstedte sertifikater totalt og per anlegg med angivelse av tidspunkt for utstedelse,antall omsatte sertifikater, ogregistrerte priser.
+
+### § 29. Prisinformasjon mv.
+
+Registeransvarlig skal fortløpende offentliggjøre informasjon om overdragelse av elsertifikater i elsertifikatmarkedet, herunder tidspunkt for overdragelse, tidspunkt for kontraktsinngåelse, antall overdratte elsertifikater, samt pris på elsertifikatene.
+
+Registeransvarlig skal daglig offentliggjøre volumveid gjennomsnittspris på overdratte elsertifikater i elsertifikatmarkedet siste 12 måneder, samt antall elsertifikater som er utstedt i løpet av samme periode.
+
+## Kapittel 6. Avsluttende bestemmelser
+
+### § 30. Kontroll
+
+NVE fører kontroll med at bestemmelser gitt i eller i medhold av lov om elsertifikater overholdes.
+
+Enhver som omfattes av denne forskriften skal medvirke til gjennomføring av kontroll. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre kontroll.
+
+### § 31. Opplysningsplikt og utlevering av opplysninger
+
+Elsertifikatberettiget har opplysningsplikt overfor NVE, og skal av eget tiltak snarest mulig informere om bl.a. følgende:ombygging av produksjonsanlegg som medfører endring i installert effekt,opphør av timesmåling av produksjon,forandringer som påvirker produksjonsanleggets produksjon av elektrisk energi, sammenliknet med hva som er angitt i søknaden om godkjenning jf. [§ 6](forskrift/2011-12-16-1398/§6),andre vesentlige endringer i produksjonsanlegget som er godkjent jf. [§ 7](forskrift/2011-12-16-1398/§7),opplysninger om ny innehaver av godkjent produksjonsanlegg, herunder den nye innehaverens navn, firma og person- eller organisasjonsnummer,adresseendringer, nye kontaktpersoner eller telefonnummer.
+
+Dersom elektrisitetsproduksjonen legges ned, skal elsertifikatberettiget av eget tiltak informere NVE innen 14 virkedager.
+
+For vurdering av den balanseansvarliges soliditet, skal registeransvarlig på anmodning gi avregningsansvarlig opplysninger om beregningsrelevant leveranse eller forbruk, samt anskaffelse av elsertifikater. Dette gjelder hver enkelt elsertifikatpliktig som også er balanseansvarlig.
+
+### § 32. Pålegg
+
+NVE kan gi de pålegg som er nødvendige for å sikre at bestemmelser eller vedtak fastsatt i eller i medhold av lov om elsertifikater eller denne forskriften blir overholdt.
+
+### § 33. Tvangsmulkt
+
+NVE kan fatte vedtak om tvangsmulkt for å sikre at en plikt som følger av eller i medhold av lov om elsertifikater eller denne forskriften blir oppfylt. Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Tvangsmulkten tilfaller statskassen og er tvangsgrunnlag for utlegg. NVE kan helt eller delvis frafalle påløpt tvangsmulkt.
+
+### § 34. Tilbaketrekking av godkjenning
+
+Dersom godkjenning som elsertifikatberettiget er gitt på grunnlag av uriktige eller villedende opplysninger, eller dersom produksjonsanlegget av andre årsaker ikke lenger oppfyller kravene til godkjenning, kan godkjenningen trekkes tilbake av NVE.
+
+### § 35. Gebyr til NVE
+
+Gebyr for dekning av NVEs kostnader til saksbehandling og tilsyn, kreves inn fra elsertifikatberettigede.
+
+Satsene skal settes slik at de samlede gebyrer over tid ikke overstiger de faktiske utgifter NVE har for saksbehandling og tilsyn etter lov om elsertifikater og denne forskriften.
+
+Gebyret er tvangsgrunnlag for utlegg.
+
+### § 36. Gebyr til registeransvarlig
+
+Enhver som benytter seg av ordningen med elsertifikater etter denne forskriften, kan av registeransvarlig avkreves gebyr for dekning av den registeransvarliges kostnader knyttet til ordningen. De samlede gebyrer skal tilsvare de faktiske kostnader registeransvarlig har ved effektiv utvikling og drift av registeret i ordningens levetid. Gebyrstrukturen til registeransvarlig skal godkjennes av NVE.
+
+### § 37. Avgift for manglende annullering av elsertifikater
+
+NVE kan ilegge den elsertifikatpliktige en avgift for hvert elsertifikat som mangler for å oppfylle elsertifikatplikten.
+
+I tilfeller hvor NVE fatter vedtak etter [§ 27](forskrift/2011-12-16-1398/§27), og den elsertifikatpliktige har annullert for få sertifikater, skal den elsertifikatpliktige gis mulighet til å annullere det nødvendige antallet elsertifikater, dersom disse pr. 1. april var tilgjengelige på en konto tilhørende den elsertifikatpliktige.
+
+Avgift per elsertifikat settes til 150 prosent av volumveid gjennomsnittspris registrert i elsertifikatregistrene i Sverige og Norge i perioden 1. april i foregående kalenderår til 31. mars inneværende kalenderår. Avgiftens størrelse skal offentliggjøres av NVE innen 1. juni.
+
+Endelig vedtak om ileggelse av avgift er tvangsgrunnlag for utlegg.
+
+### § 38. Dispensasjon
+
+NVE kan i særlige tilfeller dispensere fra denne forskriften og vilkår satt i medhold av denne forskriften.
+
+### § 39. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2012.
+
+## Vedlegg 1. Innhold i søknad om godkjenning av produksjonsanlegg som elsertifikatberettiget
+
+Følgende informasjon skal gis i søknad om godkjenning:Type søknad (godkjenning for hele produksjonen, godkjenning for deler av produksjonen og/eller godkjenning av produksjonsanlegg med variabel fornybarandel).Informasjon om innehaver av produksjonsanlegget (navn/firma, organisasjonsnummer, eierskapsstruktur, adresse m.m.).Kontaktperson for søknaden.Informasjon om produksjonsanlegget (navn, type anlegg, årsproduksjon, installert effekt, lokalitet).Dokumentasjon av byggestart og/eller idriftsettelse.P-kode(r) – identifikasjon av produksjonsmåler(e) og eventuelle koder for pumping.Kontoførers medlemsnummer i elsertifikatregisteret.Hvis relevant: Hvilke tiltak som er truffet for varig å øke produksjonen, og hvor stor den varige økningen av totalproduksjonen er etter tiltak.Beskrivelse av målearrangementI forbindelse med søknaden skal det for produksjonsanlegg som ikke er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) vedlegges et enlinjeskjema over det elektriske anlegg. For produksjonsanlegg som er omfattet av [forskrift 11. mars 1999 nr. 301](forskrift/1999-03-11-301) kan det vedlegges enlinjeskjema over det elektriske anlegg:Enlinjeskjemaet over det elektriske anlegg skal vise følgende utstyr og dets plassering:Hvilke(n) måler(e) som danner grunnlaget for innrapporterte produksjonsdata (målernummer/navn)For samtlige målere: type og nøyaktighetsklasseTransformatorenheter på kraftverkslokasjonenEventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energiEventuelle målere for importert energi til kraftverketEventuelt nødstrøms-/reserveaggregaterFor transformatorenhetene skal det oppgis årlige tap eller data som gjør det mulig å beregne disse, dersom måler for produksjonsdata er plassert foran transformatorNår årlig energiforbruk til eget forbruk og hjelpeutstyr ikke er fratrukket måledata skal dette oppgis.
+
+## Vedlegg 2. Varig produksjonsøkning i eksisterende vannkraftanlegg
+
+Tiltak som kan gi varig økt produksjonsevne i eksisterende vannkraftverk grupperes slik:Økt slukeevne, økt magasinvolum, nye overføringer. Disse effektene av tiltak innebærer at kraftstasjonen vil kunne utnytte et større årlig vannvolum.Økt brutto fallhøyde, redusert falltap. Disse effektene kan gi en høyere energiproduksjon fra det samme tilsiget.Økt virkningsgrad på fast utstyr. Med økt virkningsgrad forstås økt virkningsgrad på turbin, generator og/eller stasjonens transformator.
+
+Den økte produksjonsevnen skal dokumenteres i søknaden om godkjenning for å bli elsertifikatberettiget. Søknaden skal inneholde dokumentasjon på investeringer og tiltak og søkers vurdering av økningen i produksjon på grunn av tiltakene.
+
+Tiltak som faller inn under a) eller b), som nevnt innledningsvis i vedlegg 2, skal dokumenteres med målsatte tegninger/bilder.
+
+Tiltak som faller inn under c), som nevnt innledningsvis i vedlegg 2, dokumenteres fortrinnsvis ved virkningsgradsmålinger før og etter investering på det aktuelle produksjonsanlegget. Alternativt kan virkningsgradsmålinger på modeller legges fram som dokumentasjon.
+
+Ved større prosjekter som omfatter flere komponenter skal en samlet vurdering av den økte produksjonsevnen kvalitetssikres av en profesjonell og uavhengig tredjepart.
+
+Søknader som gjelder varig økt produksjonsevne fra eksisterende vannkraftverk skal inneholde følgende informasjon:For følgende punkter skal verdier for produksjonsanlegget både før og etter investering oppgis:Middeltilsig [millioner m3 /år]Middelproduksjon [GWh/år]Midlere brutto fallhøyde [m]Magasinvolum [mill. m3 ]Slukeevne, Qmaks [m3 /s]; Største vannføring gjennom kraftverket ved midlere brutto fallhøydeMaksimal effekt [MW]; Maksimal effekt ved maksimal vannføring, Qmaks, og midlere brutto fallhøydeEnergiekvivalent ved Qmaks [kWh/m3 ]; Spesifikk energiproduksjon ved kraftverkets slukeevneAlder på komponenter som skiftes ut.
+
+Middeltilsig og middelproduksjon, som referert til i bokstavene a) og b) ovenfor, både før og etter investering, skal refereres til det av NVE bestemte hydrologiske grunnlag.
+
+Midlere brutto fallhøyde skal beregnes på følgende måte: $$H_{m,brt} = HRV - \frac 13 \times (HRV - LRV) - UV$$
+der
+*Hm,brt* = Midlere brutto fallhøyde; meter
+HRV = Høyeste regulerte vannstand; meter over havet
+LRV = Laveste regulerte vannstand; meter over havet
+UV = Undervann/høyde for utløp, meter over havet.
+
+Denne definisjonen kan fravikes ved flerårsmagasiner og ved små inntaksmagasiner hvor det bestrebes å holde en høy vannstand.
+
+Dersom undervann (UV) er regulert, beregnes denne som $$UV = HRV - \frac 13 \times (HRV - LRV)$$
+
+Disse effektene innebærer at kraftverket kan utnytte en større del av tilsiget og/eller et større tilsig. Produksjonsøkningen som tilskrives disse effektene beregnes basert på hydrologisk grunnlag fastsatt av NVE.
+
+Disse effektene innebærer at tilsiget gir mer energi ved at det i inntakspunktet har en høyere stillingsenergi. Den høyere energiekvivalenten skal benyttes på årstilsiget, og den årlige produksjonsøkningen skal beregnes ut fra tilsigsserier fastsatt av NVE.
+
+Denne effekten innebærer at energitilsiget øker. Virkningsgradsmålingene skal gjøres i fire driftspunkt, der to av dem skal være ved stasjonens vanligste driftspunkter. Fordelingen av produksjonen over de fire driftspunktene skal også oppgis. Den årlige produksjonsøkningen skal beregnes ut fra tilsigsserier fastsatt av NVE.
+
+Dersom tiltaket som gir produksjonsøkning bare omfatter noen aggregater skal det gis en fordeling av produksjonen på produksjonsanleggets aggregater.
+
+Dersom det ikke er mulig eller faglig forsvarlig å gjennomføre virkningsgradsmålinger, kan søkeren som et alternativ til virkningsgradsmålinger vise til et formelverk som gir standardverdier på gevinsten i form av økt virkningsgrad ved utskifting av turbin. Dette formelverket fastsettes av NVE.
+
+Ny generator gir et fast påslag på ett prosentpoeng. Ny transformator gir et fast påslag på ett prosentpoeng for kraftverk under 10 MW. For større kraftverk må bedret virkningsgrad dokumenteres.
+
+Investeringer i annen type fast utstyr i kraftverket som gir økt virkningsgrad kan også komme i betraktning, dersom NVE finner at det er gitt tilfredsstillende dokumentasjon på dette.
+
+Søknad om godkjenning for elsertifikater er per kraftverk. Investeringer som ikke direkte kan knyttes til ett kraftverk skal i søknaden knyttes til ett eller fordeles på flere. Søkeren skal allokere produksjonsøkningen til spesifiserte kraftverk.
+
+Energi brukt til pumping av vann skal trekkes fra den totale økning i energiproduksjon.
+
+Ombygging til pumpekraftverk må på samme måte som andre investeringer dokumentere netto økt produksjon.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+## Vedlegg 3. Ombygging og oppgradering av eksisterende termiske produksjonsanlegg
+
+Eksisterende termiske produksjonsanlegg som produserer elektrisk energi basert på fornybare energikilder og som oppgraderes, kvalifiserer for rett til elsertifikater for netto økning av produksjon av elektrisk energi basert på fornybare energikilder.
+
+Eksisterende termiske kraftproduksjonsanlegg som bygges om for å erstatte bruk av fossile energikilder med fornybare energikilder kvalifiserer for rett til elsertifikater for hele anleggets produksjon dersom ombyggingen har et vesentlig omfang og fører til varig produksjon av elektrisk energi fra fornybare energikilder.
+
+## Vedlegg 4. Fastsetting av fornybarandel i termiske produksjonsanlegg med blandede energikilder
+
+Innehaver av produksjonsanlegget melder inn fornybarandelen i foregående måned innen den 10. hver måned.
+
+For innmelding av fornybarandel brukes eget skjema som sendes til registeransvarlig, med kopi til NVE. Skjemaet kan fås ved henvendelse til NVE.
+
+Utgangspunktet for fastsetting av fornybarandelen i et termisk produksjonsanlegg med blandede energikilder er energikildenes nedre brennverdi. Leverer anlegget både kraft og varme skal samme fornybarandel anvendes for både kraft- og varmeproduksjon.*Avfall*Fornybarandel og energiinnhold ved forbrenning av avfall kan fastsettes på grunnlag av gjennomsnittsverdier. NVE fastsetter gjennomsnittsverdier som baseres på analyser utført i samarbeid med bransjen for følgende avfallstyper:*Husholdningsavfall:* Restavfall fra husholdninger samlet inn gjennom den kommunale renovasjonsordningen.*Sortert næringsavfall:* Restavfall fra næringer, normalt uten eller med lite våtorganisk avfall, som har gjennomgått en forbehandling i sorteringsanlegg, eller enklere forbehandling, før det leveres som brensel. Bygg- og anleggsavfall (BA) inngår i denne kategorien.*Usortert næringsavfall:* Restavfall fra næringer som normalt er samlet inn via beholder eller containerrenovasjon i forretninger, kontor, privat og offentlig tjenesteytende virksomheter mv. Kategorien inneholder normalt mye våtorganisk avfall på nivå med husholdningsavfall. Avfallet blir levert direkte til forbrenning med energiutnyttelse uten forbehandling eller bare med kverning som forbehandling.*Brennbart restavfall fra gjenvinningsstasjon:* Omfatter både husholdnings- og næringsavfall som leveres på gjenvinningsstasjon og sorteres som brennbart restavfall.For annet næringsavfall, som ikke kan fordeles på de kategoriene som er nevnt ovenfor, må fornybarandelen fastsettes gjennom egne analyser, gjennomført av en profesjonell og uavhengig tredjepart.*Trevirke*For trevirke benyttes standardiserte brennverdier. Benyttes trevirke med varierende grad av fuktighet, må denne dokumenteres. Gjennomsnittsverdi for energiinnhold i anvendt trevirke kan brukes hvis denne er beregnet av en profesjonell og uavhengig tredjepart.
+
+> Endret ved [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695) (i kraft 1 jan 2016).
+
+## Merknader til forskrift om elsertifikater
+
+> Merknadene er midlertidig fjernet idet de skal redigeres i henhold til endringene i [forskrift 17 des 2015 nr. 1695](forskrift/2015-12-17-1695), Lovdatas anm.

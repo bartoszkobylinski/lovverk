@@ -1,0 +1,50 @@
+---
+id: "sf-20250523-0838"
+slug: "forskrift-om-endring-i-forskrift-17-februar-2017-nr-192-om-kompetansekrav-for-leger-i-den-kommunale-helse-og-omsorgstjenesten"
+type: "forskrift"
+ref_id: "forskrift/2025-05-23-838"
+title: "Forskrift om endring i forskrift 17. februar 2017 nr. 192 om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten (forskrift om kompetansekrav for leger)"
+short_title: null
+language: "nb"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "ade59274807f44f0838b0919c3c00f02da8fcb5d24b69d483600b0b1d8f8f13b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift 17. februar 2017 nr. 192 om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten (forskrift om kompetansekrav for leger)
+
+## I
+
+Forskriften gjelder *for lege med* oppgave om å yte helsehjelp etter [helse- og omsorgstjenesteloven](lov/2011-06-24-30).
+
+*Kommunen skal sikre at leger med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) utenfor fastlegeordningen**har relevant spesialistgodkjenning, eller**er under relevant spesialisering i spesialistutdanningens andre eller tredje del, eller**har godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).*
+
+Kommunen skal sikre at lege *med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) innenfor fastlegeordningen*har spesialistgodkjenning i allmennmedisin, ellerer under spesialisering i allmennmedisin, ellerhar godkjenning som allmennlege etter [forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon](forskrift/2005-12-19-1653).
+
+*Lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) på kommunalt organisert legevakt skal i tillegg ha gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.*
+
+*En lege kan ha legevakt uten bakvakt i følgende tilfeller:**Legen oppfyller kompetansekravene i [§ 3 første](forskrift/2017-02-17-192/§3/ledd/1) og [tredje ledd](forskrift/2017-02-17-192/§3/ledd/3), eller**Legen har oppnådd læringsmålene i spesialistutdanningens første del (LIS1) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering eller**Legen har godkjent turnus etter [forskrift 15. juli 1998 nr. 732 forskrift om praktisk tjeneste (turnustjeneste) for å få autorisasjon som lege](forskrift/1998-07-15-732) og har gjennomført kurs i akuttmedisin og volds- og overgrepshåndtering.*
+
+*Kommunen plikter å etablere bakvaktordninger for lege i vakt som ikke oppfyller kravene i [§ 3a](forskrift/2017-02-17-192/§3a), bokstavene a–c.*
+
+*Kompetansekravene i [§ 3 første](forskrift/2017-02-17-192/§3/ledd/1) og [tredje ledd](forskrift/2017-02-17-192/§3/ledd/3) gjelder tilsvarende for lege som skal være bakvakt. Den enkelte kommune må vurdere om bakvakten ved behov skal kunne være tilgjengelig for til stede-veiledning av lege i vakt.*
+
+Kravet om *spesialisering* i [§ 3](forskrift/2017-02-17-192/§3) gjelder ikke for lege med *oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) som tiltrer ett eller flere arbeidsforhold eller avtaleforhold av inntil totalt ett års varighet. Kravet om spesialisering i [§ 3](lov/2011-06-24-30/§3) gjelder heller ikke for ett eller flere arbeidsforhold eller avtaleforhold med varighet inntil totalt 4 måneder per kalenderår. For lege med oppgave å yte helsehjelp i samsvar med [helse- og omsorgstjenesteloven](lov/2011-06-24-30) på kommunalt organisert legevakt gjelder ikke kravet om spesialisering for arbeidsforhold og avtaleforhold med varighet inntil totalt 6 måneder per kalenderår.*
+
+*Varighet av arbeidsforhold eller avtaleforhold beregnes ut fra antall dager i arbeid.*
+
+*For arbeidsforhold eller avtaleforhold inngått før 31. desember 2025 regnes varigheten av unntak etter denne bestemmelsen fra 31. desember 2025.*
+
+Kommune som benytter seg av unntak *etter denne bestemmelsen må innen 31. mars hvert år* frem til og med 2029 rapportere til statsforvalteren om bruken av unntaksbestemmelsen i foregående år.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

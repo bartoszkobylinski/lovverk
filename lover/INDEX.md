@@ -1,0 +1,785 @@
+# Lover
+
+_781 current documents_
+
+- [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
+- [abortloven](abortloven.md) — Lov om abort (abortloven)
+- [adopsjonsloven](adopsjonsloven.md) — Lov om adopsjon (adopsjonsloven)
+- [advokatloven](advokatloven.md) — Lov om advokater og andre som yter rettslig bistand (advokatloven)
+- [afp-tilskottsloven](afp-tilskottsloven.md) — Lov om statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor (AFP-tilskottsloven)
+- [agenturloven-agl](agenturloven-agl.md) — Lov om handelsagenter og handelsreisende (agenturloven)
+- [agnforsyningsloven](agnforsyningsloven.md) — Lov om produksjon, transport og omsetning av agn [agnforsyningsloven]
+- [aif-loven](aif-loven.md) — Lov om forvaltning av alternative investeringsfond
+- [aksjeloven-asl](aksjeloven-asl.md) — Lov om aksjeselskaper (aksjeloven)
+- [akvakulturloven](akvakulturloven.md) — Lov om akvakultur (akvakulturloven)
+- [alkoholloven-alkhl](alkoholloven-alkhl.md) — Lov om omsetning av alkoholholdig drikk m.v. (alkoholloven)
+- [allmennaksjeloven-asal](allmennaksjeloven-asal.md) — Lov om allmennaksjeselskaper (allmennaksjeloven)
+- [allmenngjøringsloven](allmenngjøringsloven.md) — Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)
+- [alternativ-behandlingsloven-albhl](alternativ-behandlingsloven-albhl.md) — Lov om alternativ behandling av sykdom mv.
+- [angrerettloven-angrl](angrerettloven-angrl.md) — Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler (angrerettloven).
+- [anskaffelsesloven](anskaffelsesloven.md) — Lov om offentlige anskaffelser (anskaffelsesloven)
+- [ansvarlighetsloven-riksrl](ansvarlighetsloven-riksrl.md) — Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]
+- [apotekloven-apotl](apotekloven-apotl.md) — Lov om apotek (apotekloven)
+- [apotekpensjonsloven](apotekpensjonsloven.md) — Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven]
+- [arbeidsmarkedsloven](arbeidsmarkedsloven.md) — Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)
+- [arbeidsmiljøloven-aml](arbeidsmiljøloven-aml.md) — Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)
+- [arbeidstakeroppfinnelsesloven](arbeidstakeroppfinnelsesloven.md) — Lov om retten til oppfinnelser som er gjort av arbeidstakere [arbeidstakeroppfinnelsesloven]
+- [arbeidstvistloven-arbtvl](arbeidstvistloven-arbtvl.md) — Lov om arbeidstvister (arbeidstvistloven)
+- [arkivlova](arkivlova.md) — Lov om dokumentasjon og arkiv (arkivlova)
+- [arkivlova-arkl](arkivlova-arkl.md) — Lov om arkiv [arkivlova]
+- [arrestordreloven](arrestordreloven.md) — Lov om pågriping og overlevering til og frå Noreg for straffbare forhold på grunnlag av ein arrestordre (arrestordreloven)
+- [artistskatteloven](artistskatteloven.md) — Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)
+- [arveloven](arveloven.md) — Lov om arv og dødsboskifte (arveloven)
+- [atomenergiloven-atomenl](atomenergiloven-atomenl.md) — Lov om atomenergivirksomhet [atomenergiloven]
+- [auksjonsloven](auksjonsloven.md) — Lov om frivillige auksjoner [auksjonsloven]
+- [avhendingslova-avhl](avhendingslova-avhl.md) — Lov om avhending av fast eigedom (avhendingslova)
+- [avtaleloven-avtl](avtaleloven-avtl.md) — Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]
+- [barnebortføringsloven](barnebortføringsloven.md) — Lov om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m v og om tilbakelevering av barn (barnebortføringsloven)
+- [barnehageloven-bhl](barnehageloven-bhl.md) — Lov om barnehager (barnehageloven)
+- [barnelova](barnelova.md) — Lov om barn og foreldre (barnelova)
+- [barnelova-bl](barnelova-bl.md) — Lov om barn og foreldre (barnelova)
+- [barneombudsloven](barneombudsloven.md) — Lov om barneombud [barneombudsloven]
+- [barnetrygdloven-btrl](barnetrygdloven-btrl.md) — Lov om barnetrygd (barnetrygdloven)
+- [barnevernsloven-bvl](barnevernsloven-bvl.md) — Lov om barnevern (barnevernsloven)
+- [behandlingsbiobankloven-biobl](behandlingsbiobankloven-biobl.md) — Lov om behandlingsbiobanker (behandlingsbiobankloven)
+- [beitelova](beitelova.md) — Lov om ymse beitespørsmål [beitelova]
+- [beredskapsloven-beredskl](beredskapsloven-beredskl.md) — Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsloven]
+- [bergverksordning-for-svalbard](bergverksordning-for-svalbard.md) — Bergverksordning for Svalbard
+- [besøksbidragsloven](besøksbidragsloven.md) — Lov om besøksbidrag (besøksbidragsloven)
+- [betalingssystemloven](betalingssystemloven.md) — Lov om betalingssystemer m.v.
+- [betalingsutjevningsloven](betalingsutjevningsloven.md) — Lov om betalingsutjevning [betalingsutjevningsloven]
+- [bibliotekvederlagsloven](bibliotekvederlagsloven.md) — Lov om bibliotekvederlag
+- [bidragsinnkrevingsloven](bidragsinnkrevingsloven.md) — Lov om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven)
+- [bilandsloven](bilandsloven.md) — Lov om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven)
+- [bilansvarslova-bal](bilansvarslova-bal.md) — Lov om ansvar for skade som motorvogner gjer (bilansvarslova)
+- [bildeprogramloven](bildeprogramloven.md) — Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.
+- [bioteknologiloven-biotl](bioteknologiloven-biotl.md) — Lov om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)
+- [boikottloven-boil](boikottloven-boil.md) — Lov om boikott [boikottloven]
+- [bokføringsloven](bokføringsloven.md) — Lov om bokføring (bokføringsloven)
+- [bokloven](bokloven.md) — Lov om omsetning av bøker (bokloven)
+- [boligsosialloven](boligsosialloven.md) — Lov om kommunenes ansvar på det boligsosiale feltet [boligsosialloven]
+- [brann-og-eksplosjonsvernloven](brann-og-eksplosjonsvernloven.md) — Lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)
+- [brannfarligvareloven-svalbard](brannfarligvareloven-svalbard.md) — Lov om brannfarlige varer samt væsker og gasser under trykk [brannfarligvareloven] [gjelder bare for Svalbard]
+- [bredbåndsutbyggingsloven](bredbåndsutbyggingsloven.md) — Lov om tilrettelegging for utbygging av høyhastighetsnett for elektronisk kommunikasjon (bredbåndsutbyggingsloven)
+- [brexit-loven](brexit-loven.md) — Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union (brexit-loven)
+- [brukerromsloven](brukerromsloven.md) — Lov om ordning med brukerrom for inntak av narkotika (brukerromsloven)
+- [brukthandellova-brhll](brukthandellova-brhll.md) — Lov om handelsverksemd med brukte og kasserte ting (brukthandellova)
+- [burettslagslova-brl](burettslagslova-brl.md) — Lov om burettslag (burettslagslova)
+- [bustadbyggjelagslova-bbl](bustadbyggjelagslova-bbl.md) — Lov om bustadbyggjelag (bustadbyggjelagslova)
+- [bustadoppføringslova-buofl](bustadoppføringslova-buofl.md) — Lov om avtalar med forbrukar om oppføring av ny bustad m.m. (bustadoppføringslova)
+- [bustøttelova](bustøttelova.md) — Lov om bustøtte og kommunale bustadtilskot (bustøttelova)
+- [bygdeallmenningsloven-bgdalml](bygdeallmenningsloven-bgdalml.md) — Lov om bygdeallmenninger
+- [bærekraftige-produkter-loven](bærekraftige-produkter-loven.md) — Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)
+- [containerloven](containerloven.md) — Lov om sikre containere [containerloven]
+- [cotif-loven](cotif-loven.md) — Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven)
+- [dattersamvirkeforetaksloven](dattersamvirkeforetaksloven.md) — Lov om heleide dattersamvirkeforetak
+- [dekningsloven-deknl](dekningsloven-deknl.md) — Lov om fordringshavernes dekningsrett (dekningsloven)
+- [deltakerloven-deltl](deltakerloven-deltl.md) — Lov om retten til å delta i fiske og fangst (deltakerloven)
+- [deponeringslova-depl](deponeringslova-depl.md) — Lov om deponering i gjeldshøve [deponeringslova]
+- [designloven-dsl](designloven-dsl.md) — Lov om beskyttelse av design (designloven)
+- [digitalsikkerhetsloven](digitalsikkerhetsloven.md) — Lov om digital sikkerhet (digitalsikkerhetsloven)
+- [digitalytelsesloven](digitalytelsesloven.md) — Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven)
+- [diskrimineringsombudsloven-diskrol](diskrimineringsombudsloven-diskrol.md) — Lov om Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda (diskrimineringsombudsloven)
+- [dobbeltbeskatningsavtaleloven](dobbeltbeskatningsavtaleloven.md) — Lov om adgang for Kongen til å inngå overenskomster med fremmede stater til forebyggelse av dobbeltbeskatning mv. (dobbeltbeskatningsavtaleloven)
+- [dokumentavgiftsloven-dal](dokumentavgiftsloven-dal.md) — Lov om dokumentavgift (dokumentavgiftsloven)
+- [domstolloven-dl](domstolloven-dl.md) — Lov om domstolene (domstolloven)
+- [dora-loven](dora-loven.md) — Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)
+- [dyrehelsepersonelloven](dyrehelsepersonelloven.md) — Lov om veterinærer og annet dyrehelsepersonell [dyrehelsepersonelloven]
+- [dyrevelferdsloven](dyrevelferdsloven.md) — Lov om dyrevelferd
+- [edelmetalloven](edelmetalloven.md) — Lov om varer av edelt metall mv. [edelmetalloven]
+- [ehandelsloven-e-hl](ehandelsloven-e-hl.md) — Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)
+- [eiendomsmeglingsloven-emgll](eiendomsmeglingsloven-emgll.md) — Lov om eiendomsmegling (eiendomsmeglingsloven)
+- [eierseksjonsloven-eiersl](eierseksjonsloven-eiersl.md) — Lov om eierseksjoner (eierseksjonsloven)
+- [eigedomsskattelova](eigedomsskattelova.md) — Lov om eigedomsskatt til kommunane (eigedomsskattelova)
+- [ekomloven](ekomloven.md) — Lov om elektronisk kommunikasjon (ekomloven)
+- [eksportkontrolloven-ekspktrl](eksportkontrolloven-ekspktrl.md) — Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. [eksportkontrolloven]
+- [ekspropriasjonserstatningslova-orvl](ekspropriasjonserstatningslova-orvl.md) — Lov om vederlag ved oreigning av fast eigedom [ekspropriasjonserstatningslova]
+- [ekteskapsloven-el](ekteskapsloven-el.md) — Lov om ekteskap (ekteskapsloven)
+- [el-tilsynsloven](el-tilsynsloven.md) — Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)
+- [ela-lova](ela-lova.md) — Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)
+- [elsertifikatloven](elsertifikatloven.md) — Lov om elsertifikater
+- [endringer-i-alkoholloven-mv](endringer-i-alkoholloven-mv.md) — Lov om endringer i alkoholloven, atomenergiloven, folkehelseloven, legemiddelloven, lov om medisinsk utstyr og strålevernloven (overtredelsesgebyr mv.)
+- [endringslov-angående-allmenninger-m-v](endringslov-angående-allmenninger-m-v.md) — Lov om opphevelse av og endringer i gjeldende lovgivning om allmenninger m.v.
+- [endringslov-om-datalagringsdirektivet](endringslov-om-datalagringsdirektivet.md) — Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs datalagringsdirektiv i norsk rett)
+- [endringslov-til-aif-loven](endringslov-til-aif-loven.md) — Lov om endringer i AIF-loven
+- [endringslov-til-aksjelovgivningen-mv](endringslov-til-aksjelovgivningen-mv.md) — Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)
+- [endringslov-til-allmenngjøringsloven](endringslov-til-allmenngjøringsloven.md) — Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)
+- [endringslov-til-allmenngjøringsloven-og-petroleumsloven-mv](endringslov-til-allmenngjøringsloven-og-petroleumsloven-mv.md) — Lov om endringer i allmenngjøringsloven og petroleumsloven mv. (allmenngjøringslovens anvendelse på innenriks skipsfart og rettighetshaveres plikt til å sørge for norske lønnsvilkår på skip)
+- [endringslov-til-anskaffelsesloven](endringslov-til-anskaffelsesloven.md) — Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
+- [endringslov-til-arbeidsmiljøloven](endringslov-til-arbeidsmiljøloven.md) — Lov om endringer i arbeidsmiljøloven (krav til det psykososiale arbeidsmiljøet)
+- [endringslov-til-arbeidsmiljøloven-2](endringslov-til-arbeidsmiljøloven-2.md) — Lov om endringer i arbeidsmiljøloven (lovens anvendelse for fornybar energiproduksjon til havs)
+- [endringslov-til-arbeidsmiljøloven-lov-om-aldersgrenser-for-statsansatte-m-fl](endringslov-til-arbeidsmiljøloven-lov-om-aldersgrenser-for-statsansatte-m-fl.md) — Lov om endringer i arbeidsmiljøloven, lov om aldersgrenser for statsansatte m.fl. og lov om Statens pensjonskasse (avvikling av bedriftsinterne aldersgrenser og økning av den alminnelige aldersgrensen i staten)
+- [endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven](endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven.md) — Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlertidig ansettelse mv. og vilkår om aktivitet for stønad til livsopphold)
+- [endringslov-til-barnehageloven](endringslov-til-barnehageloven.md) — Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)
+- [endringslov-til-barnetrygdloven-mv-ukraina](endringslov-til-barnetrygdloven-mv-ukraina.md) — Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
+- [endringslov-til-barnevernl-og-sosialtjenestel](endringslov-til-barnevernl-og-sosialtjenestel.md) — Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.)
+- [endringslov-til-barnevernloven](endringslov-til-barnevernloven.md) — Lov om endringer i barnevernloven
+- [endringslov-til-barnevernloven-mv](endringslov-til-barnevernloven-mv.md) — Lov om endringer i barnevernloven mv. (tverrfaglig helsekartlegging)
+- [endringslov-til-barnevernsloven-mv](endringslov-til-barnevernsloven-mv.md) — Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)
+- [endringslov-til-barnevernsloven-straffeloven-passloven-og-id-kortloven](endringslov-til-barnevernsloven-straffeloven-passloven-og-id-kortloven.md) — Lov om endringer i barnevernsloven, straffeloven, passloven og ID-kortloven (utreiseforbud ved fare for skadelig utenlandsopphold mv.)
+- [endringslov-til-bilansvarslova](endringslov-til-bilansvarslova.md) — Lov om endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett)
+- [endringslov-til-burettslagslova-og-eierseksjonsloven-tilrettelegging-for-boligkjøpsmodeller](endringslov-til-burettslagslova-og-eierseksjonsloven-tilrettelegging-for-boligkjøpsmodeller.md) — Lov om endringer i burettslagslova og eierseksjonsloven (tilrettelegging for boligkjøpsmodeller)
+- [endringslov-til-cotif-lova](endringslov-til-cotif-lova.md) — Lov om endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-lova)
+- [endringslov-til-deltakerloven-og-havressurslova](endringslov-til-deltakerloven-og-havressurslova.md) — Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)
+- [endringslov-til-eigedomsskattelova](endringslov-til-eigedomsskattelova.md) — Lov om endringer i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova)
+- [endringslov-til-eigedomsskattelova-2](endringslov-til-eigedomsskattelova-2.md) — Lov om endringar i eigedomsskattelova
+- [endringslov-til-ekomloven](endringslov-til-ekomloven.md) — Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven)
+- [endringslov-til-energiloven](endringslov-til-energiloven.md) — Lov om endringer i energiloven (tidlig saksavslutning mv.)
+- [endringslov-til-finansforetaksloven](endringslov-til-finansforetaksloven.md) — Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)
+- [endringslov-til-finansforetaksloven-mv](endringslov-til-finansforetaksloven-mv.md) — Lov om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker)
+- [endringslov-til-finansforetaksloven-mv-2](endringslov-til-finansforetaksloven-mv-2.md) — Lov om endringer i finansforetaksloven mv. (verdipapirisering og kreditorhierarki)
+- [endringslov-til-finansmarkedslovgivningen](endringslov-til-finansmarkedslovgivningen.md) — Lov om endringer i finansmarkedslovgivningen (samleproposisjon)
+- [endringslov-til-folkehelseloven-m-m](endringslov-til-folkehelseloven-m-m.md) — Lov om endringer i folkehelseloven m.m. (krav til systematisk og kunnskapsbasert folkehelsearbeid, helsemessig beredskap)
+- [endringslov-til-folketrygdlova-og-enkelte-andre-lover](endringslov-til-folketrygdlova-og-enkelte-andre-lover.md) — Lov om endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2026 m.m.)
+- [endringslov-til-folketrygdloven](endringslov-til-folketrygdloven.md) — Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade)
+- [endringslov-til-folketrygdloven-mv](endringslov-til-folketrygdloven-mv.md) — Lov om endringer i folketrygdloven mv. (arbeidsavklaringspenger og tilleggsstønader til arbeidsrettede tiltak mv.)
+- [endringslov-til-folketrygdloven-ny-alderspensjon](endringslov-til-folketrygdloven-ny-alderspensjon.md) — Lov om endringer i folketrygdloven (ny alderspensjon)
+- [endringslov-til-folketrygdloven-ny-uføretrygd](endringslov-til-folketrygdloven-ny-uføretrygd.md) — Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)
+- [endringslov-til-folketrygdloven-nye-etterlatteytelser](endringslov-til-folketrygdloven-nye-etterlatteytelser.md) — Lov om endringer i folketrygdloven (nye etterlatteytelser)
+- [endringslov-til-folketrygdloven-og-enkelte-andre-lover](endringslov-til-folketrygdloven-og-enkelte-andre-lover.md) — Lov om endringer i folketrygdloven og enkelte andre lover
+- [endringslov-til-forsikringsvirksomhetsloven](endringslov-til-forsikringsvirksomhetsloven.md) — Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring)
+- [endringslov-til-forsvarsloven-mv](endringslov-til-forsvarsloven-mv.md) — Lov om endringer i forsvarsloven mv. (fjerning av plikten til å fratre ved særaldersgrense og innføring av åremål)
+- [endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet](endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet.md) — Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet)
+- [endringslov-til-ftrl-og-div-pensjonslover](endringslov-til-ftrl-og-div-pensjonslover.md) — Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte andre lover (justeringer i reglene om uføretrygd og ny uførepensjonsordning i offentlig tjenestepensjon mv.)
+- [endringslov-til-gjeldsordningsloven-mv](endringslov-til-gjeldsordningsloven-mv.md) — Lov om endringer i gjeldsordningsloven mv. (effektivisering og forenkling av gjeldsordningsprosessen)
+- [endringslov-til-grenseloven-og-utlendingsloven-mv](endringslov-til-grenseloven-og-utlendingsloven-mv.md) — Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)
+- [endringslov-til-havressurslova](endringslov-til-havressurslova.md) — Lov om endringer i havressurslova (hjemmel for Fiskeridirektoratet til å beslaglegge og destruere eller avhende umerket fiskeredskap)
+- [endringslov-til-helseforskningsloven-mv](endringslov-til-helseforskningsloven-mv.md) — Lov om endringer i helseforskningsloven mv. (vilkår for medisinsk og helsefaglig forskning og for bruk av helseopplysninger i forskning)
+- [endringslov-til-helselovgivningen](endringslov-til-helselovgivningen.md) — Lov om endringer i helselovgivningen (tilgjengeliggjøring av helsedata og krav til tekniske og organisatoriske sikkerhetstiltak)
+- [endringslov-til-helsepersonelloven-og-pasientjournalloven-mv](endringslov-til-helsepersonelloven-og-pasientjournalloven-mv.md) — Lov om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)
+- [endringslov-til-helsetilsynsloven-mv](endringslov-til-helsetilsynsloven-mv.md) — Lov om endringer i helsetilsynsloven mv. (ny meldeordning for alvorlige hendelser i helse- og omsorgstjenesten)
+- [endringslov-til-husleieloven](endringslov-til-husleieloven.md) — Lov om endringer i husleieloven (omorganisering av Husleietvistutvalget)
+- [endringslov-til-integreringsloven-mv](endringslov-til-integreringsloven-mv.md) — Lov om endringer i integreringsloven mv. (økt arbeidsretting og formell opplæring i introduksjonsprogrammet)
+- [endringslov-til-klimakvoteloven](endringslov-til-klimakvoteloven.md) — Lov om endringer i klimakvoteloven
+- [endringslov-til-konfliktrådsloven-og-straffeloven-mv](endringslov-til-konfliktrådsloven-og-straffeloven-mv.md) — Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaksjoner for ungdom)
+- [endringslov-til-konfliktrådsloven-straffeloven-mv](endringslov-til-konfliktrådsloven-straffeloven-mv.md) — Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (strafferettslige reaksjoner for ungdom og varetekt med elektronisk kontroll)
+- [endringslov-til-konsesjonsloven](endringslov-til-konsesjonsloven.md) — Lov om endringer i konsesjonsloven (priskontroll på skogeiendommer, konsesjon til selskaper med begrenset ansvar og stiftelser m.m.)
+- [endringslov-til-kringkastingsloven](endringslov-til-kringkastingsloven.md) — Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting
+- [endringslov-til-kringkastingsloven-mv](endringslov-til-kringkastingsloven-mv.md) — Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.)
+- [endringslov-til-krisesenterlova](endringslov-til-krisesenterlova.md) — Lov om endringar i krisesenterlova (tydeleggjering av det kommunale ansvaret og grunnlag for behandling av personopplysningar m.m.)
+- [endringslov-til-lov-om-avgift-på-utslipp-av-co2](endringslov-til-lov-om-avgift-på-utslipp-av-co2.md) — Lov om oppheving av lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
+- [endringslov-til-lov-om-dyrevelferd](endringslov-til-lov-om-dyrevelferd.md) — Lov om endringer i lov om dyrevelferd (fremstilling og fremvisning m.m. av seksuelle overgrep mot dyr)
+- [endringslov-til-lov-om-god-handelsskikk-i-dagligvarekjeden](endringslov-til-lov-om-god-handelsskikk-i-dagligvarekjeden.md) — Lov om endringer i lov om god handelsskikk i dagligvarekjeden (tilsynsmyndighet)
+- [endringslov-til-lov-om-interkommunale-selskaper](endringslov-til-lov-om-interkommunale-selskaper.md) — Lov om endringar i lov om interkommunale selskaper (møteoffentlegheit, økonomiforvaltning m.m.)
+- [endringslov-til-lov-om-statens-pensjonsfond](endringslov-til-lov-om-statens-pensjonsfond.md) — Lov om endringer i lov om Statens pensjonsfond
+- [endringslov-til-lov-om-statens-pensjonskasse-mfl](endringslov-til-lov-om-statens-pensjonskasse-mfl.md) — Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning)
+- [endringslov-til-lov-om-statens-pensjonskasse-mv](endringslov-til-lov-om-statens-pensjonskasse-mv.md) — Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (nye pensjonsregler for personer med særaldersgrense)
+- [endringslov-til-matloven](endringslov-til-matloven.md) — Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)
+- [endringslov-til-menneskerettsloven-mv](endringslov-til-menneskerettsloven-mv.md) — Lov om endringer i menneskerettsloven mv. (inkorporering av FN-konvensjonen om rettighetene til mennesker med nedsatt funksjonsevne)
+- [endringslov-til-merverdiavgiftsloven](endringslov-til-merverdiavgiftsloven.md) — Lov om endringer i merverdiavgiftsloven
+- [endringslov-til-naturmangfoldloven](endringslov-til-naturmangfoldloven.md) — Lov om endringer i naturmangfoldloven (forbud mot næringsmessig uttak av myr)
+- [endringslov-til-naturskadeforsikringslova-m-m](endringslov-til-naturskadeforsikringslova-m-m.md) — Lov om endringar i naturskadeforsikringslova m.m. (ansvarsgrense og tilsyn med Norsk naturskadepool)
+- [endringslov-til-opplæringslova](endringslov-til-opplæringslova.md) — Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning i uken for elever på 1. til 3. trinn)
+- [endringslov-til-partiloven](endringslov-til-partiloven.md) — Lov om endringer i partiloven (innberetning og offentliggjøring av bidrag fra bakenforliggende givere)
+- [endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m](endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m.md) — Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking av rettsstillinga til barn ved yting av helse- og omsorgstenester m.m.)
+- [endringslov-til-pasient-og-brukerrettighetsloven-mv](endringslov-til-pasient-og-brukerrettighetsloven-mv.md) — Lov om endringer i pasient- og brukerrettighetsloven og helse- og omsorgstjenesteloven (rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester – kriterier og ventelister)
+- [endringslov-til-pengespill-og-lotterilover](endringslov-til-pengespill-og-lotterilover.md) — Lov om endringer i pengespill- og lotterilovgivningen
+- [endringslov-til-plan-og-bygningsloven](endringslov-til-plan-og-bygningsloven.md) — Lov om endringer i plan- og bygningsloven (planbestemmelser om borettslag)
+- [endringslov-til-plan-og-bygningsloven-og-matrikkellova](endringslov-til-plan-og-bygningsloven-og-matrikkellova.md) — Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved fortetting og transformasjon, grunneierfinansiering av infrastruktur mv.)
+- [endringslov-til-psykisk-helsevernloven-mv](endringslov-til-psykisk-helsevernloven-mv.md) — Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)
+- [endringslov-til-regnskapsloven-mv](endringslov-til-regnskapsloven-mv.md) — Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)
+- [endringslov-til-reindriftsloven](endringslov-til-reindriftsloven.md) — Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligatorisk individmerking)
+- [endringslov-til-rettshjelpsloven-mv](endringslov-til-rettshjelpsloven-mv.md) — Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)
+- [endringslov-til-sentralbankloven](endringslov-til-sentralbankloven.md) — Lov om endringer i sentralbankloven
+- [endringslov-til-sentralbankloven-m-fl](endringslov-til-sentralbankloven-m-fl.md) — Lov om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven
+- [endringslov-til-sikkerhetsloven](endringslov-til-sikkerhetsloven.md) — Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)
+- [endringslov-til-sikkerhetsloven-2](endringslov-til-sikkerhetsloven-2.md) — Lov om endringer i sikkerhetsloven (opplysningsplikt ved autorisasjon)
+- [endringslov-til-sjøloven](endringslov-til-sjøloven.md) — Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)
+- [endringslov-til-skatte-og-avgiftslovgivningen-mv](endringslov-til-skatte-og-avgiftslovgivningen-mv.md) — Lov om endringer i skatte- og avgiftslovgivningen mv.
+- [endringslov-til-skattebetalingsloven](endringslov-til-skattebetalingsloven.md) — Lov om endringer i skattebetalingsloven
+- [endringslov-til-skattebetalingsloven-2](endringslov-til-skattebetalingsloven-2.md) — Lov om endringer i skattebetalingsloven
+- [endringslov-til-skatteforvaltningsloven](endringslov-til-skatteforvaltningsloven.md) — Lov om endringar i skatteforvaltningsloven
+- [endringslov-til-skatteforvaltningsloven-2](endringslov-til-skatteforvaltningsloven-2.md) — Lov om endringer i skatteforvaltningsloven
+- [endringslov-til-skatteloven](endringslov-til-skatteloven.md) — Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt
+- [endringslov-til-skatteloven-2](endringslov-til-skatteloven-2.md) — Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)
+- [endringslov-til-skatteloven-3](endringslov-til-skatteloven-3.md) — Lov om endringer i skatteloven
+- [endringslov-til-skatteloven-4](endringslov-til-skatteloven-4.md) — Lov om endringer i skatteloven
+- [endringslov-til-skatteloven-5](endringslov-til-skatteloven-5.md) — Lov om endringer i skatteloven
+- [endringslov-til-skipsarbeidsloven-og-nis-loven](endringslov-til-skipsarbeidsloven-og-nis-loven.md) — Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare arbeidsvilkår)
+- [endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven](endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven.md) — Lov om endringer i spesialisthelsetjenesteloven og pasient- og brukerrettighetsloven (lovfesting av systemet for nye metoder m.m.)
+- [endringslov-til-statsansatteloven](endringslov-til-statsansatteloven.md) — Lov om endringer i statsansatteloven (fortrinnsrett og rett til fast ansettelse)
+- [endringslov-til-straffegjennomføringsloven-mv](endringslov-til-straffegjennomføringsloven-mv.md) — Lov om endringar i straffegjennomføringsloven mv.
+- [endringslov-til-straffeloven](endringslov-til-straffeloven.md) — Lov om endringer i straffeloven (samtykke til seksuell omgang m.m.)
+- [endringslov-til-straffeloven-mv](endringslov-til-straffeloven-mv.md) — Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)
+- [endringslov-til-straffeloven-og-legemiddelloven-mv](endringslov-til-straffeloven-og-legemiddelloven-mv.md) — Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
+- [endringslov-til-svalbardskatteloven](endringslov-til-svalbardskatteloven.md) — Lov om endringer i Svalbardskatteloven
+- [endringslov-til-svalbardskatteloven-2](endringslov-til-svalbardskatteloven-2.md) — Lov om endringer i Svalbardskatteloven
+- [endringslov-til-tobakkskadeloven](endringslov-til-tobakkskadeloven.md) — Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)
+- [endringslov-til-tobakksskadeloven](endringslov-til-tobakksskadeloven.md) — Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)
+- [endringslov-til-tobakksskadeloven-2](endringslov-til-tobakksskadeloven-2.md) — Lov om endringer i tobakksskadeloven (strengere regulering av e-sigaretter)
+- [endringslov-til-tobakksskadeloven-strålevernloven-og-atomenergiloven](endringslov-til-tobakksskadeloven-strålevernloven-og-atomenergiloven.md) — Lov om endringer i tobakksskadeloven, strålevernloven og atomenergiloven (utvidelse av røykeforbudene og forbud mot grensekryssende fjernsalg)
+- [endringslov-til-tomtefesteloven](endringslov-til-tomtefesteloven.md) — Lov om endringer i tomtefesteloven (festeavgift ved forlengelse m.m.)
+- [endringslov-til-trossamfunnsloven](endringslov-til-trossamfunnsloven.md) — Lov om endringer i trossamfunnsloven (aktivitets- og antallskrav)
+- [endringslov-til-trygderettsloven-mv](endringslov-til-trygderettsloven-mv.md) — Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjørelse innen seks måneder mv.)
+- [endringslov-til-tvangsfullbyrdelsesloven-mv](endringslov-til-tvangsfullbyrdelsesloven-mv.md) — Lov om endringar i lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse og midlertidig sikring og andre lover
+- [endringslov-til-utlendingsloven](endringslov-til-utlendingsloven.md) — Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)
+- [endringslov-til-utlendingsloven-2](endringslov-til-utlendingsloven-2.md) — Lov om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse mv.)
+- [endringslov-til-utlendingsloven-mv](endringslov-til-utlendingsloven-mv.md) — Lov om endringer i utlendingsloven mv. (familieinnvandring m.m.)
+- [endringslov-til-utleveringsloven-m-m](endringslov-til-utleveringsloven-m-m.md) — Lov om endringer i utleveringsloven m.m
+- [endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon](endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon.md) — Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)
+- [endringslov-til-vegtrafikkloven-opplæring](endringslov-til-vegtrafikkloven-opplæring.md) — Lov om endringer i vegtrafikkloven (opplæring)
+- [endringslov-til-verdipapirhandelloven-mv](endringslov-til-verdipapirhandelloven-mv.md) — Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)
+- [endringslov-til-verdipapirhandelloven-og-pakkereiseloven](endringslov-til-verdipapirhandelloven-og-pakkereiseloven.md) — Lov om endringer i verdipapirhandelloven (forskriftshjemmel om tilbudsprisen ved pliktig tilbud) og lov om endringer i pakkereiseloven (forskriftshjemmel om forlengelse av frist for tilbakebetaling)
+- [endringslov-til-yrkestransportloven-mv](endringslov-til-yrkestransportloven-mv.md) — Lov om endringer i yrkestransportloven mv. (drosjetilbud, internkontroll, kontrollutrustning og tilknytning til sentral)
+- [energiloven-enl](energiloven-enl.md) — Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)
+- [enhetsregisterloven](enhetsregisterloven.md) — Lov om Enhetsregisteret (enhetsregisterloven)
+- [enhetsregisterloven-enhregl](enhetsregisterloven-enhregl.md) — Lov om Enhetsregisteret
+- [eos-kontrolloven](eos-kontrolloven.md) — Lov om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-kontrolloven)
+- [eric-lova](eric-lova.md) — Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)
+- [etterretningstjenesteloven](etterretningstjenesteloven.md) — Lov om Etterretningstjenesten (etterretningstjenesteloven)
+- [eøfg-loven](eøfg-loven.md) — Lov om europeiske økonomiske foretaksgrupper ved gjennomføring av EØS-avtalens vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85) (EØFG-loven)
+- [eøs-arbeidstakarlova](eøs-arbeidstakarlova.md) — Lov om fri rørsle av arbeidstakarar innanfor EØS mv. (EØS-arbeidstakarlova)
+- [eøs-høringsloven](eøs-høringsloven.md) — Lov om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven)
+- [eøs-konkurranseloven](eøs-konkurranseloven.md) — Lov om gjennomføring og kontroll av EØS-avtalens konkurranseregler mv. (EØS-konkurranseloven)
+- [eøs-loven-eøsl](eøs-loven-eøsl.md) — Lov om gjennomføring i norsk rett av hoveddelen i avtale om Det europeiske økonomiske samarbeidsområde (EØS) m.v. (EØS-loven)
+- [eøs-vareloven](eøs-vareloven.md) — Lov om det frie varebytte i EØS (EØS-vareloven)
+- [fagskoleloven](fagskoleloven.md) — Lov om høyere yrkesfaglig utdanning (fagskoleloven)
+- [familievernkontorloven](familievernkontorloven.md) — Lov om familievernkontorer
+- [ferieloven-feriel](ferieloven-feriel.md) — Lov om ferie [ferieloven]
+- [fiendegodsloven](fiendegodsloven.md) — Lov om fiendegods [fiendegodsloven]
+- [film-og-videogramlova-filml](film-og-videogramlova-filml.md) — Lov om film og videogram
+- [finansavtaleloven](finansavtaleloven.md) — Lov om finansavtaler (finansavtaleloven)
+- [finansforetaksloven](finansforetaksloven.md) — Lov om finansforetak og finanskonsern (finansforetaksloven)
+- [finanstilsynsloven](finanstilsynsloven.md) — Lov om Finanstilsynet (finanstilsynsloven)
+- [finnmarksloven](finnmarksloven.md) — Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)
+- [fiskeeksportloven-fiskeekspl](fiskeeksportloven-fiskeekspl.md) — Lov om regulering av eksporten av fisk, fiskevarer og marine produkter (fiskeeksportloven)
+- [fiskerpensjonsloven](fiskerpensjonsloven.md) — Lov om pensjonstrygd for fiskere [fiskerpensjonsloven]
+- [fiskesalslagslova](fiskesalslagslova.md) — Lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)
+- [fjellova-fjell](fjellova-fjell.md) — Lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)
+- [flaggloven](flaggloven.md) — Lov om Norges Flag [flaggloven]
+- [folkebibliotekloven](folkebibliotekloven.md) — Lov om folkebibliotek (folkebibliotekloven)
+- [folkefinansieringsloven](folkefinansieringsloven.md) — Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)
+- [folkehelseloven-fhl](folkehelseloven-fhl.md) — Lov om folkehelsearbeid (folkehelseloven)
+- [folkehøgskoleloven](folkehøgskoleloven.md) — Lov om folkehøgskoler (folkehøgskoleloven)
+- [folkeregisterloven](folkeregisterloven.md) — Lov om folkeregistrering (folkeregisterloven)
+- [folketrygdfondloven](folketrygdfondloven.md) — Lov om Folketrygdfondet
+- [folketrygdloven-ftrl](folketrygdloven-ftrl.md) — Lov om folketrygd (folketrygdloven)
+- [forbrukerkjøpsloven-fkjl](forbrukerkjøpsloven-fkjl.md) — Lov om forbrukerkjøp (forbrukerkjøpsloven)
+- [forbrukerklageloven](forbrukerklageloven.md) — Lov om behandling av forbrukerklager i Forbrukertilsynet og Forbrukerklageutvalget (forbrukerklageloven)
+- [forbrukermerkeloven](forbrukermerkeloven.md) — Lov om merking av forbruksvarer mv. (forbrukermerkeloven)
+- [forbud-paa-vimpel-føring](forbud-paa-vimpel-føring.md) — Forbud paa Vimpel-Føring
+- [foreldelsesloven-fl](foreldelsesloven-fl.md) — Lov om foreldelse av fordringer (foreldelsesloven)
+- [foretaksnavneloven-ftnavnl](foretaksnavneloven-ftnavnl.md) — Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)
+- [foretakspensjonsloven-ftpensjl](foretakspensjonsloven-ftpensjl.md) — Lov om foretakspensjon (foretakspensjonsloven)
+- [foretaksregisterloven](foretaksregisterloven.md) — Lov om Foretaksregisteret (foretaksregisterloven)
+- [foretaksregisterloven-fregl](foretaksregisterloven-fregl.md) — Lov om registrering av foretak (foretaksregisterloven)
+- [forpaktingslova-fpl](forpaktingslova-fpl.md) — Lov om forpakting [forpaktingslova]
+- [forretningshemmelighetsloven](forretningshemmelighetsloven.md) — Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)
+- [forsikringsavtaleloven-fal](forsikringsavtaleloven-fal.md) — Lov om forsikringsavtaler (forsikringsavtaleloven)
+- [forsikringsformidlingsloven](forsikringsformidlingsloven.md) — Lov om forsikringsformidling (forsikringsformidlingsloven)
+- [forsikringslovvalgsloven-intprfal](forsikringslovvalgsloven-intprfal.md) — Lov om lovvalg i forsikring [forsikringslovvalgsloven]
+- [forsikringsvirksomhetsloven-forsvl](forsikringsvirksomhetsloven-forsvl.md) — Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)
+- [forsinkelsesrenteloven-rentel](forsinkelsesrenteloven-rentel.md) — Lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)
+- [forskningsetikkloven](forskningsetikkloven.md) — Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)
+- [forskotteringsloven-forskl](forskotteringsloven-forskl.md) — Lov om bidragsforskott (forskotteringsloven)
+- [forsvarsloven](forsvarsloven.md) — Lov om verneplikt og tjeneste i Forsvaret m.m. (forsvarsloven)
+- [forsvarsombudsloven](forsvarsombudsloven.md) — Lov om Stortingets ombudsnemnd for Forsvaret (forsvarsombudsloven)
+- [forsvarssamarbeidsloven](forsvarssamarbeidsloven.md) — Lov om gjennomføring av tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021 (forsvarssamarbeidsloven) mv.
+- [forsvarsundersøkelsesloven](forsvarsundersøkelsesloven.md) — Lov om undersøkelser av ulykker og hendelser i Forsvaret (forsvarsundersøkelsesloven)
+- [forsøksloven](forsøksloven.md) — Lov om forsøk i offentlig forvaltning (forsøksloven)
+- [forurensningsloven-forurl](forurensningsloven-forurl.md) — Lov om vern mot forurensninger og om avfall (forurensningsloven)
+- [forvaltningsloven](forvaltningsloven.md) — Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven)
+- [forvaltningsloven-fvl](forvaltningsloven-fvl.md) — Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)
+- [friluftsloven-fril](friluftsloven-fril.md) — Lov om friluftslivet (friluftsloven)
+- [frivillighetsregisterloven](frivillighetsregisterloven.md) — Lov om register for frivillig virksomhet
+- [genteknologiloven-gentl](genteknologiloven-gentl.md) — Lov om framstilling og bruk av genmodifiserte organismer m.m. (genteknologiloven)
+- [geodataloven](geodataloven.md) — Lov om infrastruktur for geografisk informasjon (geodataloven)
+- [gjeldsbrevlova-gbl](gjeldsbrevlova-gbl.md) — Lov om gjeldsbrev [gjeldsbrevlova]
+- [gjeldsinformasjonsloven](gjeldsinformasjonsloven.md) — Lov om gjeldsinformasjon ved kredittvurdering av privatpersoner (gjeldsinformasjonsloven)
+- [gjeldsordningsloven-gol](gjeldsordningsloven-gol.md) — Lov om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven)
+- [godkjenningsloven](godkjenningsloven.md) — Lov om godkjenning av klageorganer for forbrukersaker (godkjenningsloven)
+- [godtroervervloven-ekstl](godtroervervloven-ekstl.md) — Lov om godtroerverv av løsøre [godtroervervloven]
+- [grannegjerdelova-ggl](grannegjerdelova-ggl.md) — Lov om grannegjerde [grannegjerdelova]
+- [grannelova-gl](grannelova-gl.md) — Lov om rettshøve mellom grannar (grannelova)
+- [gravplassloven](gravplassloven.md) — Lov om gravplasser, kremasjon og gravferd (gravplassloven)
+- [grenseloven](grenseloven.md) — Lov om grensetilsyn og grensekontroll av personer (grenseloven)
+- [grensereinbeiteloven](grensereinbeiteloven.md) — Lov om svensk reinbeiting i Norge og norsk reinbeiting i Sverige (grensereinbeiteloven)
+- [grunnlova-nynorsk-grl](grunnlova-nynorsk-grl.md) — Kongeriket Noregs grunnlov
+- [grunnloven-bokmål-grl](grunnloven-bokmål-grl.md) — Kongeriket Norges Grunnlov
+- [hanndyrloven](hanndyrloven.md) — Lov om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på beite [hanndyrlova]
+- [havbunnsmineralloven](havbunnsmineralloven.md) — Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven)
+- [havenergilova-havenl](havenergilova-havenl.md) — Lov om fornybar energiproduksjon til havs (havenergilova)
+- [havne-og-farvannsloven](havne-og-farvannsloven.md) — Lov om havner og farvann (havne- og farvannsloven)
+- [havressurslova](havressurslova.md) — Lov om forvaltning av viltlevande marine ressursar (havressurslova)
+- [havvernloven](havvernloven.md) — Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)
+- [helligdagsfredloven](helligdagsfredloven.md) — Lov om helligdager og helligdagsfred
+- [helse-og-omsorgstjenesteloven-hol](helse-og-omsorgstjenesteloven-hol.md) — Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)
+- [helseberedskapsloven-hlsberedskl](helseberedskapsloven-hlsberedskl.md) — Lov om helsemessig og sosial beredskap (helseberedskapsloven)
+- [helseforetaksloven-hfl](helseforetaksloven-hfl.md) — Lov om helseforetak m.m. (helseforetaksloven)
+- [helseforskningsloven-hforsknl](helseforskningsloven-hforsknl.md) — Lov om medisinsk og helsefaglig forskning (helseforskningsloven)
+- [helsepersonelloven-hpl](helsepersonelloven-hpl.md) — Lov om helsepersonell m.v. (helsepersonelloven)
+- [helseregisterloven-hregl](helseregisterloven-hregl.md) — Lov om helseregistre og behandling av helseopplysninger (helseregisterloven)
+- [helsetilsynsloven](helsetilsynsloven.md) — Lov om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)
+- [helsingforsavtalen](helsingforsavtalen.md) — Samarbeidsavtale mellom Norge, Danmark, Finland, Island og Sverige [Helsingforsavtalen]
+- [hendelege-eigedomshøvelova-hendl](hendelege-eigedomshøvelova-hendl.md) — Lov om hendelege eigedomshøve
+- [hevdslova-hevdsl](hevdslova-hevdsl.md) — Lov om hevd [hevdslova]
+- [hittegodslova-hgl](hittegodslova-hgl.md) — Lov om hittegods [hittegodslova]
+- [hundeloven-hul](hundeloven-hul.md) — Lov om forsvarlig hundehold (hundeloven)
+- [husbankloven](husbankloven.md) — Lov om Husbanken
+- [husdyravlsloven-avlsl](husdyravlsloven-avlsl.md) — Lov om husdyravl
+- [husleieloven-husll](husleieloven-husll.md) — Lov om husleieavtaler (husleieloven)
+- [husstandsfellesskapsloven-husfskl](husstandsfellesskapsloven-husfskl.md) — Lov om rett til felles bolig og innbo når husstandsfellesskap opphører [husstandsfellesskapsloven]
+- [hvitvaskingsloven-hvvl](hvitvaskingsloven-hvvl.md) — Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)
+- [håndverkertjenesteloven-hvtjl](håndverkertjenesteloven-hvtjl.md) — Lov om håndverkertjenester m.m for forbrukere [håndverkertjenesteloven]
+- [høyesterettspensjonsloven](høyesterettspensjonsloven.md) — Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensjonsloven]
+- [id-kortloven](id-kortloven.md) — Lov om nasjonalt identitetskort (ID-kortloven)
+- [iks-loven](iks-loven.md) — Lov om interkommunale selskaper (IKS-loven)
+- [inkassoloven-inkl](inkassoloven-inkl.md) — Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)
+- [inndelingslova](inndelingslova.md) — Lov om fastsetjing og endring av kommune- og fylkesgrenser (inndelingslova)
+- [innførsle-og-utførslereguleringslova](innførsle-og-utførslereguleringslova.md) — Lov om innførsle- og utførsleregulering
+- [innkrevingsloven](innkrevingsloven.md) — Lov om innkreving av statlige krav mv. (innkrevingsloven)
+- [innskuddspensjonsloven-innskpensjl](innskuddspensjonsloven-innskpensjl.md) — Lov om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven)
+- [integreringsloven](integreringsloven.md) — Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)
+- [isbjørnloven](isbjørnloven.md) — Lov om fredning og fangst av isbjørn [isbjørnloven]
+- [its-loven](its-loven.md) — Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven)
+- [jan-mayen-skatteloven](jan-mayen-skatteloven.md) — Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skatteloven)
+- [jernbaneansvarsloven-jbansvl](jernbaneansvarsloven-jbansvl.md) — Lov om jernbaneansvar (jernbaneansvarsloven)
+- [jernbaneloven-jbl](jernbaneloven-jbl.md) — Lov om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)
+- [jernbaneundersøkelsesloven](jernbaneundersøkelsesloven.md) — Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehendelser m.m. (jernbaneundersøkelsesloven)
+- [jordlova-jl](jordlova-jl.md) — Lov om jord (jordlova)
+- [jordskiftelova-jskl](jordskiftelova-jskl.md) — Lov om fastsetjing og endring av eigedoms- og rettshøve på fast eigedom m.m. (jordskiftelova)
+- [karanteneloven](karanteneloven.md) — Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og statsansatte (karanteneloven)
+- [kassasystemlova](kassasystemlova.md) — Lov om krav til kassasystem (kassasystemlova)
+- [kjøpsloven-kjl](kjøpsloven-kjl.md) — Lov om kjøp [kjøpsloven]
+- [kjøpslovvalgsloven-intprkjl](kjøpslovvalgsloven-intprkjl.md) — Lov om mellomfolkeleg-privatrettslege reglar for lausøyrekjøp [kjøpslovvalgsloven]
+- [klaseammunisjonsloven](klaseammunisjonsloven.md) — Lov om gjennomføring av Konvensjonen om klaseammunisjon
+- [klimakvoteloven](klimakvoteloven.md) — Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven)
+- [klimaloven](klimaloven.md) — Lov om klimamål (klimaloven)
+- [knockoutloven](knockoutloven.md) — Lov om organisert kampaktivitet som tillater knockout [knockoutloven]
+- [kommisjonsloven-kml](kommisjonsloven-kml.md) — Lov om kommisjon (kommisjonsloven)
+- [kommuneloven](kommuneloven.md) — Lov om kommuner og fylkeskommuner (kommuneloven)
+- [konfliktrådsloven-konfrådl](konfliktrådsloven-konfrådl.md) — Lov om konfliktrådsbehandling (konfliktrådsloven)
+- [konkurranseloven-krrl](konkurranseloven-krrl.md) — Lov om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven)
+- [konkursloven-kkl](konkursloven-kkl.md) — Lov om gjeldsforhandling og konkurs (konkursloven)
+- [konkurslovgivningens-ikrafttredelseslov](konkurslovgivningens-ikrafttredelseslov.md) — Lov om ikrafttredelse av ny gjeldsforhandlings- og konkurslovgivning m m
+- [konsesjonsloven-konsl](konsesjonsloven-konsl.md) — Lov om konsesjon ved erverv av fast eiendom mv. (konsesjonsloven)
+- [kontantstøtteloven](kontantstøtteloven.md) — Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)
+- [konvensjon-1-mars-1954-om-sivilprosess](konvensjon-1-mars-1954-om-sivilprosess.md) — Konvensjon 1 mars 1954 om den sivile prosess
+- [konvensjon-om-forkynnelse-i-utlandet](konvensjon-om-forkynnelse-i-utlandet.md) — Konvensjon om forkynnelse i utlandet av rettslige og utenrettslige dokumenter på sivil- og handelsrettens område
+- [kornforvaltningsloven](kornforvaltningsloven.md) — Lov om kornforvaltning m.v.
+- [koronakommisjonsloven](koronakommisjonsloven.md) — Lov om informasjonstilgang m.m. for den uavhengige kommisjonen som skal gjennomgå og evaluere myndighetenes håndtering av covid-19-pandemien i Norge (Koronakommisjonen)
+- [kosmetikklova](kosmetikklova.md) — Lov om kosmetikk og kroppspleieprodukt m.m. (kosmetikklova)
+- [kraftledningsregisterloven-kregl](kraftledningsregisterloven-kregl.md) — Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]
+- [kredittloven-pkrregll](kredittloven-pkrregll.md) — Lov om adgang til regulering av penge- og kredittforholdene [kredittloven]
+- [kredittopplysningsloven](kredittopplysningsloven.md) — Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)
+- [kretsmønsterloven-kretsml](kretsmønsterloven-kretsml.md) — Lov om vern av kretsmønstre for integrerte kretser [kretsmønsterloven]
+- [krigsskadeerstatningsloven](krigsskadeerstatningsloven.md) — Lov om erstatning for krigsskade på eiendom og interesse [krigsskadeerstatningsloven]
+- [krigsskadestønadsloven](krigsskadestønadsloven.md) — Lov om stønad ved krigsskade på person [krigsskadestønadsloven]
+- [kringkastingsloven-kringkl](kringkastingsloven-kringkl.md) — Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingsloven)
+- [krisesenterlova](krisesenterlova.md) — Lov om kommunale krisesentertilbod (krisesenterlova)
+- [kristendomslærelov-for-vidaregåande-skoler-m-v](kristendomslærelov-for-vidaregåande-skoler-m-v.md) — Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet
+- [kryptoeiendelsloven](kryptoeiendelsloven.md) — Lov om kryptoeiendeler (kryptoeiendelsloven)
+- [kulturlova](kulturlova.md) — Lov om offentlege styresmakters ansvar for kulturverksemd (kulturlova)
+- [kulturminneloven-kulml](kulturminneloven-kulml.md) — Lov om kulturminner [kulturminneloven]
+- [kulturrådsloven](kulturrådsloven.md) — Lov om Kulturrådet (kulturrådsloven)
+- [kunstavgiftsloven](kunstavgiftsloven.md) — Lov om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven)
+- [kystvaktloven-kystvl](kystvaktloven-kystvl.md) — Lov om Kystvakten (kystvaktloven)
+- [lakse-og-innlandsfiskloven-laksfl](lakse-og-innlandsfiskloven-laksfl.md) — Lov om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven)
+- [landslottloven](landslottloven.md) — Lov om landslott [landslottloven]
+- [lappekodisillen](lappekodisillen.md) — Første Codicill og Tillæg til Grendse-Tractaten imellem Kongerigerne Norge og Sverrig Lapperne betreffende (Lappekodisillen)
+- [legemiddelloven](legemiddelloven.md) — Lov om legemidler m.v. (legemiddelloven)
+- [likestillings-og-diskrimineringsloven-ldl](likestillings-og-diskrimineringsloven-ldl.md) — Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)
+- [linjekonferanseloven](linjekonferanseloven.md) — Lov om linjekonferanser m.v. [linjekonferanseloven]
+- [lov-om-1-og-17-mai](lov-om-1-og-17-mai.md) — Lov om 1 og 17 mai som høgtidsdager
+- [lov-om-adgang-til-rekvisisjon-av-skip](lov-om-adgang-til-rekvisisjon-av-skip.md) — Lov om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold
+- [lov-om-adgangen-til-visse-områder](lov-om-adgangen-til-visse-områder.md) — Lov om adgangen til visse områder
+- [lov-om-afp-for-apotekvirksomhet](lov-om-afp-for-apotekvirksomhet.md) — Lov om avtalefestet pensjon for arbeidstakere med rett til medlemskap i Pensjonsordning for apotekvirksomhet mv.
+- [lov-om-afp-for-medlemmer-av-statens-pensjonskasse](lov-om-afp-for-medlemmer-av-statens-pensjonskasse.md) — Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse
+- [lov-om-aldersgrenser-for-statsansatte-m-fl](lov-om-aldersgrenser-for-statsansatte-m-fl.md) — Lov om aldersgrenser for statsansatte m.fl.
+- [lov-om-andre-undersjøiske-naturforekomster](lov-om-andre-undersjøiske-naturforekomster.md) — Lov om vitenskapelig utforskning og undersøkelse etter og utnyttelse av andre undersjøiske naturforekomster enn petroleumsforekomster og mineralforekomster
+- [lov-om-avgift-av-kull-m-v-fra-svalbard](lov-om-avgift-av-kull-m-v-fra-svalbard.md) — Lov om avgift av kull, jordoljer og andre mineraler og bergarter som utføres fra Svalbard
+- [lov-om-avgift-på-forestillinger-m-v](lov-om-avgift-på-forestillinger-m-v.md) — Lov om avgift til statskassen på inngangspenger til forestillinger og framvisninger m.v.
+- [lov-om-avgift-på-utslipp-av-co2](lov-om-avgift-på-utslipp-av-co2.md) — Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
+- [lov-om-avgift-til-det-norske-komponistfond](lov-om-avgift-til-det-norske-komponistfond.md) — Lov om avgift til Det norske komponistfond
+- [lov-om-avgift-til-fond-for-utøvende-kunstnere](lov-om-avgift-til-fond-for-utøvende-kunstnere.md) — Lov om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v.
+- [lov-om-avtale-mellom-norge-og-kina](lov-om-avtale-mellom-norge-og-kina.md) — Lov om inngåelse av avtale mellom Kongeriket Norge og Folkerepublikken Kina vedrørende gjensidig beskyttelse av investeringer
+- [lov-om-baneservice-som-as](lov-om-baneservice-som-as.md) — Lov om omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselskap
+- [lov-om-banetele-as](lov-om-banetele-as.md) — Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap
+- [lov-om-bankenes-sikringsfond](lov-om-bankenes-sikringsfond.md) — Lov om Bankenes sikringsfond
+- [lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv](lov-om-behandling-av-personopplysninger-i-norges-idrettsforbund-mv.md) — Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd for å forebygge, avdekke og reagere mot seksuelle overgrep, trakassering og vold mv. i idretten
+- [lov-om-beredskapslagring-av-petroleumsprodukt](lov-om-beredskapslagring-av-petroleumsprodukt.md) — Lov om beredskapslagring av petroleumsprodukt
+- [lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon](lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md) — Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon
+- [lov-om-brudvigjing-i-utlandet](lov-om-brudvigjing-i-utlandet.md) — Lov om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg
+- [lov-om-det-frie-varebyttet-innan-eøs](lov-om-det-frie-varebyttet-innan-eøs.md) — Lov om handheving av det frie varebyttet innan EØS
+- [lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret](lov-om-digdirs-tilgang-til-opplysninger-i-folkeregisteret.md) — Lov om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret
+- [lov-om-diskriminering-i-internasj-skipsfart](lov-om-diskriminering-i-internasj-skipsfart.md) — Lov om tiltak mot diskriminering i internasjonal skipsfart
+- [lov-om-eksplosive-varer-svalbard](lov-om-eksplosive-varer-svalbard.md) — Lov om eksplosive varer [gjelder bare for Svalbard]
+- [lov-om-eksportavgift-på-fiskevarer-fiskekspal](lov-om-eksportavgift-på-fiskevarer-fiskekspal.md) — Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen
+- [lov-om-elektroniske-tillitstjenester](lov-om-elektroniske-tillitstjenester.md) — Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester)
+- [lov-om-en-overgangsperiode-ved-storbritannias-uttreden-av-eu](lov-om-en-overgangsperiode-ved-storbritannias-uttreden-av-eu.md) — Lov om en overgangsperiode ved Storbritannias uttreden av EU
+- [lov-om-endring-av-juridisk-kjønn](lov-om-endring-av-juridisk-kjønn.md) — Lov om endring av juridisk kjønn
+- [lov-om-europarådsavtale-om-handel-med-narkotika](lov-om-europarådsavtale-om-handel-med-narkotika.md) — Lov om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs
+- [lov-om-europeiske-samarbeidsutvalg-m-v](lov-om-europeiske-samarbeidsutvalg-m-v.md) — Lov om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v.
+- [lov-om-eøs-finanstilsyn](lov-om-eøs-finanstilsyn.md) — Lov om EØS-finanstilsyn
+- [lov-om-finansiell-sikkerhetsstillelse](lov-om-finansiell-sikkerhetsstillelse.md) — Lov om finansiell sikkerhetsstillelse
+- [lov-om-flagging-på-kommunale-bygninger](lov-om-flagging-på-kommunale-bygninger.md) — Lov om flagging på kommunenes offentlige bygninger
+- [lov-om-forbod-mot-samkvem-med-fienden](lov-om-forbod-mot-samkvem-med-fienden.md) — Lov om forbod mot samkvem med personar som har tilhald på fiendeområde o.a
+- [lov-om-forbud-mot-at-redere-gir-opplysninger](lov-om-forbud-mot-at-redere-gir-opplysninger.md) — Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter
+- [lov-om-forbud-mot-fallskjermhopping](lov-om-forbud-mot-fallskjermhopping.md) — Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder
+- [lov-om-forbud-mot-hold-av-pelsdyr](lov-om-forbud-mot-hold-av-pelsdyr.md) — Lov om forbud mot hold av pelsdyr
+- [lov-om-forskningsavgift-i-landbruket](lov-om-forskningsavgift-i-landbruket.md) — Lov om forskningsavgift på landbruksprodukter
+- [lov-om-forskriftshjemmel-personopplysninger](lov-om-forskriftshjemmel-personopplysninger.md) — Lov om forskriftshjemmel for behandling av personopplysninger for frivillige tiltak på barne-, oppvekst- og familieområdet mv.
+- [lov-om-forsvarsviktige-oppfinnelser](lov-om-forsvarsviktige-oppfinnelser.md) — Lov om oppfinnelser av betydning for rikets forsvar
+- [lov-om-forsvunne-personar-fsvl](lov-om-forsvunne-personar-fsvl.md) — Lov om forsvunne personar
+- [lov-om-fristar-og-betalingsutsetjing](lov-om-fristar-og-betalingsutsetjing.md) — Lov om fristar og betalingsutsetjing og ymist anna i serlege tilhøve
+- [lov-om-fullbyrding-av-nordiske-straffedommer](lov-om-fullbyrding-av-nordiske-straffedommer.md) — Lov om fullbyrding av nordiske dommer på straff m.v.
+- [lov-om-garanti-fra-statoil-asa-ved-aksjesalg](lov-om-garanti-fra-statoil-asa-ved-aksjesalg.md) — Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer
+- [lov-om-gjennomføring-av-nordiske-konvensjoner](lov-om-gjennomføring-av-nordiske-konvensjoner.md) — Lov om gjennomføring av nordiske konvensjoner om visse internasjonal-privatrettslige forhold
+- [lov-om-gjennomføring-av-roma-vedtektene](lov-om-gjennomføring-av-roma-vedtektene.md) — Lov om gjennomføring i norsk rett av Den internasjonale straffedomstols vedtekter 17. juli 1998 (Roma-vedtektene)
+- [lov-om-god-handelsskikk-i-dagligvarekjeden](lov-om-god-handelsskikk-i-dagligvarekjeden.md) — Lov om god handelsskikk i dagligvarekjeden
+- [lov-om-granskingskommisjonen-for-scandinavian-star](lov-om-granskingskommisjonen-for-scandinavian-star.md) — Lov om granskingskommisjonen for brannen på Scandinavian Star
+- [lov-om-haagkonvensjonen-1996](lov-om-haagkonvensjonen-1996.md) — Lov om gjennomføring av konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn (lov om Haagkonvensjonen 1996)
+- [lov-om-individuell-pensjonsordning](lov-om-individuell-pensjonsordning.md) — Lov om individuell pensjonsordning
+- [lov-om-informasjon-skjermingsverdige-objekter-og-bunnforhold-mv](lov-om-informasjon-skjermingsverdige-objekter-og-bunnforhold-mv.md) — Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold
+- [lov-om-informasjonstilgang-evaluering-av-etterretningstjenesteloven](lov-om-informasjonstilgang-evaluering-av-etterretningstjenesteloven.md) — Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjenesteloven
+- [lov-om-informasjonstilgang-for-riksrevisjonen](lov-om-informasjonstilgang-for-riksrevisjonen.md) — Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger
+- [lov-om-informasjonstilgang-fornorskingspolitikk](lov-om-informasjonstilgang-fornorskingspolitikk.md) — Lov om informasjonstilgang mv. for Kommisjonen for å granske fornorskingspolitikk og urett overfor samer, kvener og norskfinner
+- [lov-om-informasjonstilgang-gransking-av-utenlandsadopsjoner](lov-om-informasjonstilgang-gransking-av-utenlandsadopsjoner.md) — Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjoner til Norge
+- [lov-om-informasjonstilgang-m-m-for-baneheia-utvalget](lov-om-informasjonstilgang-m-m-for-baneheia-utvalget.md) — Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske straffesaken mot Viggo Kristiansen i Baneheia-saken og foreta en gjennomgang av Kommisjonen for gjenopptakelse av straffesaker (Baneheia-utvalget)
+- [lov-om-informasjonstilgang-m-m-for-barnevoldsutvalget](lov-om-informasjonstilgang-m-m-for-barnevoldsutvalget.md) — Lov om informasjonstilgang m.m. for Barnevoldsutvalget
+- [lov-om-informasjonstilgang-m-m-for-ekstremismekommisjonen](lov-om-informasjonstilgang-m-m-for-ekstremismekommisjonen.md) — Lov om informasjonstilgang m.m. for Ekstremismekommisjonen
+- [lov-om-informasjonstilgang-m-m-for-koronautvalget-mv](lov-om-informasjonstilgang-m-m-for-koronautvalget-mv.md) — Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatningsloven (ny forskriftshjemmel)
+- [lov-om-informasjonstilgang-m-m-for-partnerdrapsutvalget](lov-om-informasjonstilgang-m-m-for-partnerdrapsutvalget.md) — Lov om informasjonstilgang m.m. for Partnerdrapsutvalget
+- [lov-om-informasjonstilgang-mv-for-nav-granskingsutvalget](lov-om-informasjonstilgang-mv-for-nav-granskingsutvalget.md) — Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knyttet til feilaktig praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger ved opphold i et annet EØS-land
+- [lov-om-informasjonstilgang-mv-for-statens-helsetilsyn](lov-om-informasjonstilgang-mv-for-statens-helsetilsyn.md) — Lov om informasjonstilgang mv. for Statens helsetilsyn ved gjennomgang av et utvalg barnevernssaker
+- [lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell](lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell.md) — Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep begått av helsepersonell mot pasienter i perioden 2010 til 2020
+- [lov-om-infrastruktur-for-alternativt-drivstoff](lov-om-infrastruktur-for-alternativt-drivstoff.md) — Lov om infrastruktur for alternativt drivstoff
+- [lov-om-innenlands-transport-i-eøs-avtalen](lov-om-innenlands-transport-i-eøs-avtalen.md) — Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen
+- [lov-om-innovasjon-norge](lov-om-innovasjon-norge.md) — Lov om Innovasjon Norge
+- [lov-om-inspeksjoner-av-styrker-i-europa](lov-om-inspeksjoner-av-styrker-i-europa.md) — Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl
+- [lov-om-internasjonal-sikkerhet-i-mobilt-løsøre](lov-om-internasjonal-sikkerhet-i-mobilt-løsøre.md) — Lov om internasjonale sikkerhetsretter i mobilt løsøre
+- [lov-om-internasjonale-investeringstvistar](lov-om-internasjonale-investeringstvistar.md) — Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar
+- [lov-om-internasjonale-organisasjoner-m-v](lov-om-internasjonale-organisasjoner-m-v.md) — Lov om immunitet og privilegier for internasjonale organisasjoner m.v.
+- [lov-om-jan-mayen](lov-om-jan-mayen.md) — Lov om Jan Mayen
+- [lov-om-kollektiv-forvaltning-av-opphavsrett-mv](lov-om-kollektiv-forvaltning-av-opphavsrett-mv.md) — Lov om kollektiv forvaltning av opphavsrett mv.
+- [lov-om-kommunal-forkjøpsrett-til-leiegårder](lov-om-kommunal-forkjøpsrett-til-leiegårder.md) — Lov om kommunal forkjøpsrett til leiegårder
+- [lov-om-kommunalbanken-as-kombl](lov-om-kommunalbanken-as-kombl.md) — Lov om omdanning av Noregs Kommunalbank til aksjeselskap
+- [lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar](lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar.md) — Lov om kompensasjonsordning for kjemikalieskadde oljepionerar
+- [lov-om-kongens-myndighetsalder](lov-om-kongens-myndighetsalder.md) — Lov om Kongens myndighetsalder
+- [lov-om-konvensjon-om-kjemiske-våpen](lov-om-konvensjon-om-kjemiske-våpen.md) — Lov om gjennomføring av Konvensjonen om forbod mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt øydelegging av dei
+- [lov-om-konvensjonen-mot-antipersonellminer](lov-om-konvensjonen-mot-antipersonellminer.md) — Lov om gjennomføring av Konvensjonen om forbud mot bruk, lagring, produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner
+- [lov-om-kredittvurderingsbyråer](lov-om-kredittvurderingsbyråer.md) — Lov om kredittvurderingsbyråer
+- [lov-om-krigsforbryterdomstol-jugoslavia-m-m](lov-om-krigsforbryterdomstol-jugoslavia-m-m.md) — Lov om gjennomføring i norsk rett av De forente nasjoners sikkerhetsråds vedtak om å opprette internasjonale domstoler for forbrytelser i det tidligere Jugoslavia og Rwanda
+- [lov-om-krigspensjon-for-militærpersoner](lov-om-krigspensjon-for-militærpersoner.md) — Lov om krigspensjonering for militærpersoner
+- [lov-om-krigspensjonering-for-sivile-m-v](lov-om-krigspensjonering-for-sivile-m-v.md) — Lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner
+- [lov-om-kvalitetskontroll-med-landbruksvarer](lov-om-kvalitetskontroll-med-landbruksvarer.md) — Lov om kvalitetskontroll med landbruksvarer m.v.
+- [lov-om-kystverkets-produksjonsvirksomhet](lov-om-kystverkets-produksjonsvirksomhet.md) — Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap
+- [lov-om-ledsagerpensjon-i-utenrikstjenesten](lov-om-ledsagerpensjon-i-utenrikstjenesten.md) — Lov om pensjonsordning for ledsagere i utenrikstjenesten
+- [lov-om-leilendingsgods-tilhørende-stamhus](lov-om-leilendingsgods-tilhørende-stamhus.md) — Lov indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v.
+- [lov-om-lønnsstøtte-økonomiske-tiltak-i-møte-med-pandemien](lov-om-lønnsstøtte-økonomiske-tiltak-i-møte-med-pandemien.md) — Lov om lønnsstøtte (økonomiske tiltak i møte med pandemien)
+- [lov-om-løysingsrettar-løysl](lov-om-løysingsrettar-løysl.md) — Lov om løysingsrettar
+- [lov-om-medisinsk-utstyr](lov-om-medisinsk-utstyr.md) — Lov om medisinsk utstyr
+- [lov-om-medisinsk-utstyr-medutstl](lov-om-medisinsk-utstyr-medutstl.md) — Lov om medisinsk utstyr
+- [lov-om-merkning-på-tunge-kolli](lov-om-merkning-på-tunge-kolli.md) — Lov om merkning av vekten på tunge kolli som fraktes med fartøi
+- [lov-om-midl-kompensasjon-ved-nullsats-for-arbeidsgiveravgift](lov-om-midl-kompensasjon-ved-nullsats-for-arbeidsgiveravgift.md) — Lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)
+- [lov-om-midl-tilskudd-for-innreisekarantene](lov-om-midl-tilskudd-for-innreisekarantene.md) — Lov om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet
+- [lov-om-midl-tilskudd-ved-omsetningsfall-etter-august-2020](lov-om-midl-tilskudd-ved-omsetningsfall-etter-august-2020.md) — Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020
+- [lov-om-midl-tilskuddsordning-ved-omsetningsfall](lov-om-midl-tilskuddsordning-ved-omsetningsfall.md) — Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall
+- [lov-om-målenheter-måling-og-normaltid](lov-om-målenheter-måling-og-normaltid.md) — Lov om målenheter, måling og normaltid
+- [lov-om-møteplikt-til-stortinget](lov-om-møteplikt-til-stortinget.md) — Lov om særlige Straffebestemmelser m.v. for Personer, som i Henhold til Grundlovens § 75 h indkaldes til at møde for Storthinget
+- [lov-om-nordisk-miljøvernkonvensjon](lov-om-nordisk-miljøvernkonvensjon.md) — Lov om gjennomføring i norsk rett av miljøvernkonvensjon mellom Norge, Danmark, Finland og Sverige, undertegnet 19 februar 1974
+- [lov-om-nordisk-vitneplikt](lov-om-nordisk-vitneplikt.md) — Lov om nordisk vitneplikt
+- [lov-om-nordiske-privatrettslige-dommer](lov-om-nordiske-privatrettslige-dommer.md) — Lov om anerkjennelse og fullbyrding av nordiske dommer på privatrettens område
+- [lov-om-norges-kontinentalsokkel](lov-om-norges-kontinentalsokkel.md) — Lov om Norges kontinentalsokkel
+- [lov-om-norges-krigsskaderåd](lov-om-norges-krigsskaderåd.md) — Lov om Norges Krigsskaderåd
+- [lov-om-norgespris-og-strømstønad-til-husholdninger](lov-om-norgespris-og-strømstønad-til-husholdninger.md) — Lov om Norgespris og strømstønad til husholdninger
+- [lov-om-norsk-lovtidend](lov-om-norsk-lovtidend.md) — Lov om Norsk Lovtidend m.v.
+- [lov-om-norsk-lysingsblad](lov-om-norsk-lysingsblad.md) — Lov om Norsk Lysingsblad
+- [lov-om-notarius-publicus](lov-om-notarius-publicus.md) — Lov om notarius publicus
+- [lov-om-nsb-as-og-posten-norge-as](lov-om-nsb-as-og-posten-norge-as.md) — Lov om omdanning av statens jernbanetrafikkselskap (NSB BA) og statens postselskap (Posten Norge BA) til aksjeselskaper
+- [lov-om-nye-veier-as](lov-om-nye-veier-as.md) — Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til et statlig utbyggingsselskap for veg
+- [lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv](lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv.md) — Lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer
+- [lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap](lov-om-omdanning-av-aim-norway-sf-til-aksjeselskap.md) — Lov om omdanning av Aerospace Industrial Maintenance Norway SF til aksjeselskap
+- [lov-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap](lov-om-omdanning-av-opplysningsvesenets-fond-til-aksjeselskap.md) — Lov om omdanning av Opplysningsvesenets fond til aksjeselskap
+- [lov-om-omdanning-til-postbanken-as-postbl](lov-om-omdanning-til-postbanken-as-postbl.md) — Lov om omdanning av Postbanken BA til aksjeselskap
+- [lov-om-omklassifisering-av-veg](lov-om-omklassifisering-av-veg.md) — Lov om overføring av rettigheter og forpliktelser ved omklassifisering av veg etter vegloven § 62 tredje ledd i forbindelse med forvaltningsreformen
+- [lov-om-omordning-af-det-civile-embedsverk](lov-om-omordning-af-det-civile-embedsverk.md) — Lov om delvis Omordning af det civile Embedsværk
+- [lov-om-omorganisering-av-statkraft-sf](lov-om-omorganisering-av-statkraft-sf.md) — Lov om omorganisering av Statkraft SF
+- [lov-om-opph-av-pensjonsordn-for-åremålstilsatte](lov-om-opph-av-pensjonsordn-for-åremålstilsatte.md) — Lov om opphevelse av lov 9. november 1956 om pensjonsordning for åremålstilsatte
+- [lov-om-opphevelse-av-omstillingslova](lov-om-opphevelse-av-omstillingslova.md) — Lov om opphevelse av omstillingslova
+- [lov-om-oppheving-av-ervervsloven-mv](lov-om-oppheving-av-ervervsloven-mv.md) — Lov om oppheving av lov om erverv av næringsverksemd
+- [lov-om-oppløsning-av-stamhuset-ekeberg](lov-om-oppløsning-av-stamhuset-ekeberg.md) — Lov om oppløsning av stamhuset Ekeberg
+- [lov-om-oppskyting-i-verdensrommet](lov-om-oppskyting-i-verdensrommet.md) — Lov om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet
+- [lov-om-overføring-av-ansvar-for-kollektivtransport](lov-om-overføring-av-ansvar-for-kollektivtransport.md) — Lov om overføring av ansvar for kollektivtransport
+- [lov-om-overføring-av-domfelte-domfovfl](lov-om-overføring-av-domfelte-domfovfl.md) — Lov om overføring av domfelte
+- [lov-om-overføring-av-straffeforfølging](lov-om-overføring-av-straffeforfølging.md) — Lov om overføring av straffeforfølging fra eller til annet europeisk land
+- [lov-om-pensjon-for-oppdragstaker-i-barnevernet](lov-om-pensjon-for-oppdragstaker-i-barnevernet.md) — Lov om pensjonsordning for oppdragstaker i beredskapshjem eller spesialisert fosterhjem
+- [lov-om-pensjonering-av-militært-tilsatte](lov-om-pensjonering-av-militært-tilsatte.md) — Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med redusert lønn og tjenesteplikt
+- [lov-om-pensjonsordning-for-sivilombudsmannen](lov-om-pensjonsordning-for-sivilombudsmannen.md) — Lov om pensjonsordning for Stortingets ombudsmann for forvaltningen
+- [lov-om-pensjonsrettigheter-innen-eøs](lov-om-pensjonsrettigheter-innen-eøs.md) — Lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området
+- [lov-om-perlefiskeriet](lov-om-perlefiskeriet.md) — Lov om Perlefiskeriet
+- [lov-om-prisregler-for-jern-og-stål](lov-om-prisregler-for-jern-og-stål.md) — Lov om prisregler for jern og stål
+- [lov-om-prisregulering-ved-fiskeimport-m-v](lov-om-prisregulering-ved-fiskeimport-m-v.md) — Lov om prisregulering ved import av fisk og fiskevarer m.v.
+- [lov-om-register-over-reelle-rettighetshavere](lov-om-register-over-reelle-rettighetshavere.md) — Lov om register over reelle rettighetshavere
+- [lov-om-registrering-av-råoljehandel-råolregl](lov-om-registrering-av-råoljehandel-råolregl.md) — Lov om registrering av import og leveranser av råolje i Det europeiske økonomiske samarbeidsområde
+- [lov-om-registrering-av-verv-og-økonomiske-interesser](lov-om-registrering-av-verv-og-økonomiske-interesser.md) — Lov om registrering av regjeringsmedlemmers, statssekretærers og politiske rådgiveres verv og økonomiske interesser
+- [lov-om-regulering-av-byggje-og-anleggsverksemd](lov-om-regulering-av-byggje-og-anleggsverksemd.md) — Lov om regulering av byggje- og anleggsverksemd
+- [lov-om-reservasjonssystemer-for-flyreiser-mv](lov-om-reservasjonssystemer-for-flyreiser-mv.md) — Lov om reservasjonssystemer for flyreiser mv.
+- [lov-om-rett-til-å-selja-uhenta-ting](lov-om-rett-til-å-selja-uhenta-ting.md) — Lov om rett for handverkarar o.a. til å selja ting som ikkje vert henta
+- [lov-om-rituell-omskjæring-av-gutter](lov-om-rituell-omskjæring-av-gutter.md) — Lov om rituell omskjæring av gutter
+- [lov-om-røros-kobberverks-skogvæsen](lov-om-røros-kobberverks-skogvæsen.md) — Lov om forskjellige forhold vedkommende Røros Kobberverks Skogvæsen
+- [lov-om-røystingsrådgjevarar](lov-om-røystingsrådgjevarar.md) — Lov om røystingsrådgjevarar
+- [lov-om-sjøtransporttjenester](lov-om-sjøtransporttjenester.md) — Lov om fri utveksling av tjenesteytelser innen sjøtransport
+- [lov-om-stans-i-utbetalinger-etter-barnebortføring](lov-om-stans-i-utbetalinger-etter-barnebortføring.md) — Lov om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet
+- [lov-om-statens-fond-i-tromsø](lov-om-statens-fond-i-tromsø.md) — Lov om Statens fond i Tromsø
+- [lov-om-statens-kommisjon-for-partnerdrap](lov-om-statens-kommisjon-for-partnerdrap.md) — Lov om Statens kommisjon for partnerdrap
+- [lov-om-statens-lufthavnselskap](lov-om-statens-lufthavnselskap.md) — Lov om omdanning av Luftfartsverket til aksjeselskap
+- [lov-om-statens-obligasjonsfond](lov-om-statens-obligasjonsfond.md) — Lov om Statens obligasjonsfond
+- [lov-om-statens-oppkrevere-m-v](lov-om-statens-oppkrevere-m-v.md) — Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.
+- [lov-om-statens-premieobligasjonslån](lov-om-statens-premieobligasjonslån.md) — Lov om adgang for staten til utferdigelse av premieobligasjonslån
+- [lov-om-statens-undersøkelseskommisjon-for-helse-og-omsorgstjenesten](lov-om-statens-undersøkelseskommisjon-for-helse-og-omsorgstjenesten.md) — Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten
+- [lov-om-statlig-aksjeselskap-for-vegproduksjon](lov-om-statlig-aksjeselskap-for-vegproduksjon.md) — Lov om omdanning av Statens vegvesens produksjonsvirksomhet til statlig aksjeselskap
+- [lov-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter](lov-om-statlig-garantiordning-for-lån-til-små-og-mellomstore-bedrifter.md) — Lov om statlig garantiordning for lån til små og mellomstore bedrifter
+- [lov-om-statsbidrag-til-skytebaner](lov-om-statsbidrag-til-skytebaner.md) — Lov om statsbidrag til anlegg m.v. av skytebaner
+- [lov-om-straff-for-internerte-militære](lov-om-straff-for-internerte-militære.md) — Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter
+- [lov-om-supplerande-stønad-ved-kort-butid](lov-om-supplerande-stønad-ved-kort-butid.md) — Lov om supplerande stønad til personar med kort butid i Noreg
+- [lov-om-tekniske-kontrollorgan](lov-om-tekniske-kontrollorgan.md) — Lov om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar
+- [lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs](lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs.md) — Lov om tilskudd til sysselsetting av arbeidstakere til sjøs
+- [lov-om-tilskudd-til-virksomheter-med-offentlig-tjenestepensjonsordning](lov-om-tilskudd-til-virksomheter-med-offentlig-tjenestepensjonsordning.md) — Lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsordning
+- [lov-om-tilskudd-ved-avbrutt-permittering](lov-om-tilskudd-ved-avbrutt-permittering.md) — Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbruddet)
+- [lov-om-traktat-mot-kjernefysiske-prøvesprengingar](lov-om-traktat-mot-kjernefysiske-prøvesprengingar.md) — Lov om gjennomføring av Traktat om totalforbod mot kjernefysiske prøvesprengingar
+- [lov-om-ulykkestrygd-på-svalbard](lov-om-ulykkestrygd-på-svalbard.md) — Lov om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard
+- [lov-om-undersjøiske-kabler](lov-om-undersjøiske-kabler.md) — Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet
+- [lov-om-undersøkelsesutvalg-psykiske-lidelser](lov-om-undersøkelsesutvalg-psykiske-lidelser.md) — Lov om utvalg som skal undersøke forhold knyttet til at personer med kjent psykisk lidelse har tatt liv
+- [lov-om-utenlandske-skilsmisser](lov-om-utenlandske-skilsmisser.md) — Lov om anerkjennelse av utenlandske skilsmisser og separasjoner
+- [lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn](lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn.md) — Lov om utleie av små elektriske kjøretøy på offentlig grunn
+- [lov-om-utlevering-mellom-nordiske-land](lov-om-utlevering-mellom-nordiske-land.md) — Lov om utlevering for å få iverksatt vedtak om frihetsinngrep truffet av myndighet i annet nordisk land
+- [lov-om-utprøving-av-selvkjørende-kjøretøy](lov-om-utprøving-av-selvkjørende-kjøretøy.md) — Lov om utprøving av selvkjørende kjøretøy
+- [lov-om-utvalget-for-evaluering-av-eos-utvalget](lov-om-utvalget-for-evaluering-av-eos-utvalget.md) — Lov om utvalget for evaluering av EOS-utvalget
+- [lov-om-utvinning-av-petroleum-under-land](lov-om-utvinning-av-petroleum-under-land.md) — Lov om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde
+- [lov-om-vederlag-for-kunstvisning](lov-om-vederlag-for-kunstvisning.md) — Lov om vederlag for visning av billedkunst og kunsthåndverk m.v.
+- [lov-om-vidners-og-sakkyndiges-godtgjørelse](lov-om-vidners-og-sakkyndiges-godtgjørelse.md) — Lov om vidners og sakkyndiges godtgjørelse m.v.
+- [lov-om-åpenhet-om-eierskap-i-medier](lov-om-åpenhet-om-eierskap-i-medier.md) — Lov om åpenhet om eierskap i medier
+- [lov-til-å-fremja-umsetnaden-av-jordbruksvaror](lov-til-å-fremja-umsetnaden-av-jordbruksvaror.md) — Lov til å fremja umsetnaden av jordbruksvaror
+- [lov-um-prisereglar-og-prisedomstolar](lov-um-prisereglar-og-prisedomstolar.md) — Lov um prisereglar og prisedomstolar
+- [luftfartsloven-luftl](luftfartsloven-luftl.md) — Lov om luftfart (luftfartsloven)
+- [låneformidlingsloven](låneformidlingsloven.md) — Lov om låneformidling (låneformidlingsloven)
+- [lønnsgarantiloven](lønnsgarantiloven.md) — Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]
+- [lønnsnemndloven](lønnsnemndloven.md) — Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven)
+- [markaloven](markaloven.md) — Lov om naturområder i Oslo og nærliggende kommuner (markaloven)
+- [markedsføringsloven-mfl](markedsføringsloven-mfl.md) — Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)
+- [matloven-matl](matloven-matl.md) — Lov om matproduksjon og mattrygghet mv. (matloven)
+- [matrikkellova](matrikkellova.md) — Lov om eigedomsregistrering (matrikkellova)
+- [matsvinnloven](matsvinnloven.md) — Lov om forebygging og reduksjon av matsvinn (matsvinnloven)
+- [medieansvarsloven](medieansvarsloven.md) — Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medier (medieansvarsloven)
+- [mediestøtteloven](mediestøtteloven.md) — Lov om økonomisk støtte til mediene (mediestøtteloven)
+- [menneskerettsloven-mrl](menneskerettsloven-mrl.md) — Lov om styrking av menneskerettighetenes stilling i norsk rett (menneskerettsloven)
+- [merverdiavgiftskompensasjonsloven](merverdiavgiftskompensasjonsloven.md) — Lov om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. (merverdiavgiftskompensasjonsloven)
+- [merverdiavgiftsloven-mval](merverdiavgiftsloven-mval.md) — Lov om merverdiavgift (merverdiavgiftsloven)
+- [mesterbrevloven](mesterbrevloven.md) — Lov om mesterbrev i håndverk og annen næring [mesterbrevloven]
+- [midlertidig-endringslov-til-utlendingsloven](midlertidig-endringslov-til-utlendingsloven.md) — Lov om midlertidige endringer i utlendingsloven (beredskapshjemmel for innkvartering av asylsøkere)
+- [midlertidig-lov-om-tillegg-til-merverdiavgiftsloven](midlertidig-lov-om-tillegg-til-merverdiavgiftsloven.md) — Midlertidig lov om tillegg til merverdiavgiftsloven
+- [militær-straffelov-milstrl](militær-straffelov-milstrl.md) — Militær Straffelov
+- [militærpolitiloven](militærpolitiloven.md) — Lov om militær politimyndighet (militærpolitiloven)
+- [miljøinformasjonsloven-mlinfl](miljøinformasjonsloven-mlinfl.md) — Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven)
+- [mineralloven](mineralloven.md) — Lov om erverv og utvinning av mineralressurser (mineralloven)
+- [mineralloven-2](mineralloven-2.md) — Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)
+- [mortifikasjonslova](mortifikasjonslova.md) — Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]
+- [motorferdselloven](motorferdselloven.md) — Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
+- [motorkjøretøy-og-båtavgiftsloven](motorkjøretøy-og-båtavgiftsloven.md) — Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)
+- [naturgassloven](naturgassloven.md) — Lov om felles regler for det indre marked for naturgass (naturgassloven)
+- [naturmangfoldloven-nml](naturmangfoldloven-nml.md) — Lov om forvaltning av naturens mangfold (naturmangfoldloven)
+- [naturoppsynsloven](naturoppsynsloven.md) — Lov om statlig naturoppsyn (naturoppsynsloven)
+- [naturskadeerstatningsloven](naturskadeerstatningsloven.md) — Lov om erstatning for naturskader (naturskadeerstatningsloven)
+- [naturskadeforsikringsloven-natskforsl](naturskadeforsikringsloven-natskforsl.md) — Lov om naturskadeforsikring
+- [naturskadeloven](naturskadeloven.md) — Lov om sikring mot naturskader
+- [nav-loven](nav-loven.md) — Lov om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) [Nav-loven]
+- [navneloven](navneloven.md) — Lov om personnavn (navneloven)
+- [nim-loven](nim-loven.md) — Lov om Norges institusjon for menneskerettigheter (NIM-loven)
+- [nis-loven-nisl](nis-loven-nisl.md) — Lov om norsk internasjonalt skipsregister [NIS-loven]
+- [nordisk-familierettslig-konvensjon](nordisk-familierettslig-konvensjon.md) — Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål med sluttprotokoll [nordisk familierettslig konvensjon]
+- [nordisk-konkurskonvensjon](nordisk-konkurskonvensjon.md) — Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om konkurs
+- [nordisk-konvensjon-om-arv-og-dødsboskifte](nordisk-konvensjon-om-arv-og-dødsboskifte.md) — Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige om arv og dødsboskifte
+- [nordisk-konvensjon-om-underholdsbidrag](nordisk-konvensjon-om-underholdsbidrag.md) — Konvensjon mellom Norge, Danmark, Finnland, Island og Sverige om inndriving av underholdsbidrag, undertegnet i Oslo den 23 mars 1962
+- [norfundloven](norfundloven.md) — Lov om Statens investeringsfond for næringsvirksomhet i utviklingsland (Norfundloven)
+- [norske-lov-nl](norske-lov-nl.md) — Kong Christian Den Femtis Norske Lov
+- [næringsberedskapsloven](næringsberedskapsloven.md) — Lov om næringsberedskap (næringsberedskapsloven)
+- [obduksjonslova](obduksjonslova.md) — Lov om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslova)
+- [odelslova-odl](odelslova-odl.md) — Lov om odelsretten og åsetesretten (odelslova)
+- [offentleglova-offl](offentleglova-offl.md) — Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)
+- [operapensjonsloven](operapensjonsloven.md) — Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett [operapensjonsloven]
+- [oppgaveregisterloven-oppgregl](oppgaveregisterloven-oppgregl.md) — Lov om Oppgaveregisteret
+- [oppheving-av-arveavgiftsloven](oppheving-av-arveavgiftsloven.md) — Lov om oppheving av lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver (arveavgiftsloven)
+- [opplæringslova](opplæringslova.md) — Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)
+- [oreigningslova-orl](oreigningslova-orl.md) — Lov om oreigning av fast eigedom (oreigningslova)
+- [otp-loven](otp-loven.md) — Lov om obligatorisk tjenestepensjon [OTP-loven]
+- [pakkereiseloven](pakkereiseloven.md) — Lov om pakkereiser og reisegaranti mv. (pakkereiseloven)
+- [panteloven-pantel](panteloven-pantel.md) — Lov om pant (panteloven)
+- [partiloven](partiloven.md) — Lov om visse forhold vedrørende de politiske partiene (partiloven)
+- [pasient-og-brukerrettighetsloven-pbrl](pasient-og-brukerrettighetsloven-pbrl.md) — Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)
+- [pasientjournalloven](pasientjournalloven.md) — Lov om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven)
+- [pasientskadeloven-passkl](pasientskadeloven-passkl.md) — Lov om erstatning ved pasientskader mv. (pasientskadeloven)
+- [passloven-passl](passloven-passl.md) — Lov om pass (passloven)
+- [patentloven-patl](patentloven-patl.md) — Lov om patenter (patentloven)
+- [patentstyrelova](patentstyrelova.md) — Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova)
+- [pengespilloven](pengespilloven.md) — Lov om pengespill (pengespilloven)
+- [pensjonsordning-for-arbeidstakere-til-sjøs-sjømptrl](pensjonsordning-for-arbeidstakere-til-sjøs-sjømptrl.md) — Lov om pensjonsordning for arbeidstakere til sjøs
+- [permitteringslønnsloven](permitteringslønnsloven.md) — Lov om lønnsplikt under permittering (permitteringslønnsloven)
+- [personopplysningsloven](personopplysningsloven.md) — Lov om behandling av personopplysninger (personopplysningsloven)
+- [petroleumsloven-petrl](petroleumsloven-petrl.md) — Lov om petroleumsvirksomhet [petroleumsloven]
+- [petroleumsskatteloven-petrsktl](petroleumsskatteloven-petrsktl.md) — Lov om skattlegging av undersjøiske petroleumsforekomster mv. (petroleumsskatteloven)
+- [plan-og-bygningsloven-pbl](plan-og-bygningsloven-pbl.md) — Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)
+- [planteforedlerloven-plfl](planteforedlerloven-plfl.md) — Lov om planteforedlerrett (planteforedlerloven)
+- [pliktavleveringslova-avlvl](pliktavleveringslova-avlvl.md) — Lov om avleveringsplikt for allment tilgjengelege dokument (pliktavleveringslova)
+- [politiloven-politil](politiloven-politil.md) — Lov om politiet (politiloven)
+- [politiregisterloven](politiregisterloven.md) — Lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)
+- [polititjenestepliktloven](polititjenestepliktloven.md) — Lov om tjenesteplikt i politiet [polititjenestepliktloven]
+- [postloven](postloven.md) — Lov om posttjenester (postloven)
+- [priips-loven](priips-loven.md) — Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven)
+- [pristiltaksloven-pristl](pristiltaksloven-pristl.md) — Lov om pristiltak
+- [privatskolelova-prskol](privatskolelova-prskol.md) — Lov om private skolar med rett til statstilskot (privatskolelova)
+- [produktansvarsloven-prodansvl](produktansvarsloven-prodansvl.md) — Lov om produktansvar [produktansvarsloven]
+- [produktkontrolloven-prodktrl](produktkontrolloven-prodktrl.md) — Lov om kontroll med produkter og forbrukertjenester (produktkontrolloven)
+- [prokuraloven-prokl](prokuraloven-prokl.md) — Lov om prokura [prokuraloven]
+- [prom-ang-territorial-grænse](prom-ang-territorial-grænse.md) — Cancelli-Promemoria
+- [psykisk-helsevernloven-phvl](psykisk-helsevernloven-phvl.md) — Lov om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)
+- [referanseverdiloven](referanseverdiloven.md) — Lov om fastsettelse av finansielle referanseverdier (referanseverdiloven)
+- [regjeringsinstruksen](regjeringsinstruksen.md) — Instruks for Regjeringen
+- [regnskapsførerloven](regnskapsførerloven.md) — Lov om regnskapsførere (regnskapsførerloven)
+- [regnskapsloven-rskl](regnskapsloven-rskl.md) — Lov om årsregnskap m.v. (regnskapsloven)
+- [reindriftsloven](reindriftsloven.md) — Lov om reindrift (reindriftsloven)
+- [rekonstruksjonsloven](rekonstruksjonsloven.md) — Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven)
+- [rekvisisjonsloven](rekvisisjonsloven.md) — Lov om militære rekvisisjoner [rekvisisjonsloven]
+- [representantytelsesloven](representantytelsesloven.md) — Lov om godtgjøring og andre ytelser til stortingsrepresentanter (representantytelsesloven)
+- [res-anggående-jorddelingen-i-finmark-m-v](res-anggående-jorddelingen-i-finmark-m-v.md) — Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Skyldlægning sammesteds
+- [rettergangsordningens-ikrafttrædelseslov](rettergangsordningens-ikrafttrædelseslov.md) — Lov om rettergangsordningens ikrafttræden
+- [rettergangsoverenskomst-med-storbritannia](rettergangsoverenskomst-med-storbritannia.md) — Overenskomst mellem Norge og Storbritannia angående den civile rettergang
+- [rettsgebyrloven](rettsgebyrloven.md) — Lov om rettsgebyr (rettsgebyrloven)
+- [rettshjelploven-rhjl](rettshjelploven-rhjl.md) — Lov om fri rettshjelp [rettshjelploven]
+- [rettsutdragsloven](rettsutdragsloven.md) — Lov om utdrag i sivile saker og straffesaker [rettsutdragsloven]
+- [revisorloven](revisorloven.md) — Lov om revisjon og revisorer (revisorloven)
+- [riksrettsrettergangsloven-riksrgl](riksrettsrettergangsloven-riksrgl.md) — Lov om rettergangsmåten i riksrettssaker [riksrettsrettergangsloven]
+- [riksrevisjonsloven](riksrevisjonsloven.md) — Lov om Riksrevisjonen (riksrevisjonsloven)
+- [riksrevisjonsloven-rrevl](riksrevisjonsloven-rrevl.md) — Lov om Riksrevisjonen
+- [riksteaterlova](riksteaterlova.md) — Lov om Riksteatret [riksteaterlova]
+- [romloven](romloven.md) — Lov om aktiviteter i verdensrommet (romloven)
+- [sameigelova-saml](sameigelova-saml.md) — Lov om sameige [sameigelova]
+- [sameloven-samel](sameloven-samel.md) — Lov om Sametinget og andre samiske rettsforhold (sameloven)
+- [samordningsloven-samordl](samordningsloven-samordl.md) — Lov om samordning av pensjons- og trygdeytelser (samordningsloven)
+- [samvirkelova](samvirkelova.md) — Lov om samvirkeforetak (samvirkelova)
+- [sanksjonsloven](sanksjonsloven.md) — Lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)
+- [sce-loven](sce-loven.md) — Lov om europeiske samvirkeforetak (SCE-loven)
+- [se-loven](se-loven.md) — Lov om europeiske selskaper (SE-loven)
+- [selskapsloven-sel](selskapsloven-sel.md) — Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)
+- [sentralbankloven](sentralbankloven.md) — Lov om Norges Bank og pengevesenet mv. (sentralbankloven)
+- [serveringsloven](serveringsloven.md) — Lov om serveringsvirksomhet (serveringsloven)
+- [servituttlova-servl](servituttlova-servl.md) — Lov um særlege råderettar over framand eigedom [servituttlova]
+- [si-loven](si-loven.md) — Lov om Statens innkrevingssentral (SI-loven)
+- [sikkerhetsloven-sikkl](sikkerhetsloven-sikkl.md) — Lov om nasjonal sikkerhet (sikkerhetsloven)
+- [sis-loven-sisl](sis-loven-sisl.md) — Lov om Schengen informasjonssystem (SIS) [SIS-loven]
+- [sivilbeskyttelsesloven](sivilbeskyttelsesloven.md) — Lov om sivil beskyttelse og beredskap (sivilbeskyttelsesloven)
+- [sivildomsoverenskomst-med-storbritannia](sivildomsoverenskomst-med-storbritannia.md) — Overenskomst mellom Norge og Storbritannia om gjensidig anerkjennelse og fullbyrdelse av dommer i sivile saker
+- [sivilombudsloven](sivilombudsloven.md) — Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven)
+- [sjekkloven-sjl](sjekkloven-sjl.md) — Lov om chekker [sjekkloven]
+- [sjøloven-sjøl](sjøloven-sjøl.md) — Lov om sjøfarten (sjøloven)
+- [sjøtrygdelagloven](sjøtrygdelagloven.md) — Lov om sjøtrygdelag [sjøtrygdelagloven]
+- [skadeserstatningsloven-skl](skadeserstatningsloven-skl.md) — Lov om skadeserstatning (skadeserstatningsloven)
+- [skattebetalingsloven-sktbl](skattebetalingsloven-sktbl.md) — Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)
+- [skatteforvaltningsloven-sktfvl](skatteforvaltningsloven-sktfvl.md) — Lov om skatteforvaltning (skatteforvaltningsloven)
+- [skatteloven-sktl](skatteloven-sktl.md) — Lov om skatt av formue og inntekt (skatteloven)
+- [skipsarbeidsloven](skipsarbeidsloven.md) — Lov om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)
+- [skipssikkerhetsloven](skipssikkerhetsloven.md) — Lov om skipssikkerhet (skipssikkerhetsloven)
+- [skjønnsprosessloven-skjl](skjønnsprosessloven-skjl.md) — Lov om skjønn og ekspropriasjonssaker [skjønnsprosessloven]
+- [skogbrukslova](skogbrukslova.md) — Lov om skogbruk (skogbrukslova)
+- [smittevernloven-smvl](smittevernloven-smvl.md) — Lov om vern mot smittsomme sykdommer [smittevernloven]
+- [småbåtloven-småbåtl](småbåtloven-småbåtl.md) — Lov om fritids- og småbåter (småbåtloven)
+- [sosialtjenesteloven-sotjl](sosialtjenesteloven-sotjl.md) — Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)
+- [spesialisthelsetjenesteloven-sphl](spesialisthelsetjenesteloven-sphl.md) — Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)
+- [språklova](språklova.md) — Lov om språk (språklova)
+- [stadnamnlova-stadnl](stadnamnlova-stadnl.md) — Lov om stadnamn (stadnamnlova)
+- [stamhusloven](stamhusloven.md) — Lov om stamhuset Rosendal og om forandring i arverettsreglene for stamhuset Jarlsberg [stamhusloven]
+- [statens-finansfond-loven](statens-finansfond-loven.md) — Lov om Statens finansfond
+- [statens-pensjonsfond-loven](statens-pensjonsfond-loven.md) — Lov om Statens pensjonsfond
+- [statens-pensjonskasseloven-stpkl](statens-pensjonskasseloven-stpkl.md) — Lov om Statens pensjonskasse
+- [statistikkloven](statistikkloven.md) — Lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven)
+- [statsallmenningsloven-statsalml](statsallmenningsloven-statsalml.md) — Lov om skogsdrift m.v. i statsallmenningene
+- [statsansatteloven](statsansatteloven.md) — Lov om statens ansatte mv. (statsansatteloven)
+- [statsborgerloven](statsborgerloven.md) — Lov om norsk statsborgerskap (statsborgerloven)
+- [statsforetaksloven-statsfol](statsforetaksloven-statsfol.md) — Lov om statsforetak
+- [statsføretakslova](statsføretakslova.md) — Lov om statsføretak (statsføretakslova)
+- [steriliseringsloven-sterill](steriliseringsloven-sterill.md) — Lov om sterilisering [steriliseringsloven]
+- [stiftelsesloven-stiftl](stiftelsesloven-stiftl.md) — Lov om stiftelser (stiftelsesloven)
+- [stortings-og-regjeringspensjonsloven](stortings-og-regjeringspensjonsloven.md) — Lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stortings- og regjeringspensjonsloven)
+- [stortingspensjonsutvalgsloven](stortingspensjonsutvalgsloven.md) — Lov om utvalget for gjennomgang av stortingspensjoner
+- [straffegjennomføringsloven-strgjfl](straffegjennomføringsloven-strgjfl.md) — Lov om gjennomføring av straff mv. (straffegjennomføringsloven)
+- [straffeloven-strl](straffeloven-strl.md) — Lov om straff (straffeloven)
+- [straffelovens-ikraftsettingslov](straffelovens-ikraftsettingslov.md) — Lov om ikraftsetting av straffeloven 2005 (straffelovens ikraftsettingslov)
+- [straffeprosessloven-strpl](straffeprosessloven-strpl.md) — Lov om rettergangsmåten i straffesaker (Straffeprosessloven)
+- [strålevernloven-stvl](strålevernloven-stvl.md) — Lov om strålevern og bruk av stråling [strålevernloven]
+- [studentsamskipnadsloven](studentsamskipnadsloven.md) — Lov om studentsamskipnader (studentsamskipnadsloven)
+- [støtteprosessloven](støtteprosessloven.md) — Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven)
+- [suppleringsskatteloven](suppleringsskatteloven.md) — Lov om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskatteloven)
+- [svalbardloven-svalbl](svalbardloven-svalbl.md) — Lov om Svalbard [Svalbardloven]
+- [svalbardmiljøloven](svalbardmiljøloven.md) — Lov om miljøvern på Svalbard (svalbardmiljøloven)
+- [svalbardskatteloven-svalbsktl](svalbardskatteloven-svalbsktl.md) — Lov om skatt til Svalbard (Svalbardskatteloven)
+- [svalbardtraktaten](svalbardtraktaten.md) — Traktat mellem Norge, Amerikas Forente Stater, Danmark, Frankrike, Italia, Japan, Nederlandene, Storbritannia og Irland og de britiske oversjøiske besiddelser og Sverige angående Spitsbergen [Svalbardtraktaten]
+- [svartebørsloven](svartebørsloven.md) — Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsarrangementer
+- [svine-og-fjørfeproduksjonsloven](svine-og-fjørfeproduksjonsloven.md) — Lov om regulering av svine- og fjørfeproduksjonen
+- [sykepleierpensjonsloven](sykepleierpensjonsloven.md) — Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]
+- [særavgiftsloven](særavgiftsloven.md) — Lov om særavgifter (særavgiftsloven)
+- [tanaloven](tanaloven.md) — Lov om fiskeretten i Tanavassdraget (Tanaloven)
+- [tannhelsetjenesteloven-tannhl](tannhelsetjenesteloven-tannhl.md) — Lov om tannhelsetjenesten (tannhelsetjenesteloven)
+- [taubaneloven](taubaneloven.md) — Lov om taubaner (taubaneloven)
+- [territorialfarvannsloven-terfl](territorialfarvannsloven-terfl.md) — Lov om Norges territorialfarvann og tilstøtende sone [territorialfarvannsloven]
+- [tidspartloven](tidspartloven.md) — Lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)
+- [tilleggslov-om-krigspensjonering](tilleggslov-om-krigspensjonering.md) — Midlertidig lov om tillegg til lover av 13. desember 1946 om 1) Krigspensjonering for hjemmestyrkepersonell og sivilpersoner og 2) Krigspensjonering for militærpersoner
+- [tilleggslov-om-krigspensjonering-2](tilleggslov-om-krigspensjonering-2.md) — Lov om tillegg til 1) lov om krigspensjonering for militærpersoner av 13. desember 1946 og 2) lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner av 13. desember 1946
+- [tilleggslov-om-statens-pensjonskasse](tilleggslov-om-statens-pensjonskasse.md) — Lov om tillegg til lov om Statens pensjonskasse av 28. juli 1949
+- [tilleggslov-til-petroleumsskatteloven](tilleggslov-til-petroleumsskatteloven.md) — Lov om midlertidig tillegg til lov av 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v.
+- [tinglysingsloven-tingl](tinglysingsloven-tingl.md) — Lov om tinglysing [tinglysingsloven]
+- [tivoliloven](tivoliloven.md) — Lov om fornøyelsesinnretninger (tivoliloven)
+- [tjenesteloven](tjenesteloven.md) — Lov om tjenestevirksomhet (tjenesteloven)
+- [tjenestepensjonsloven](tjenestepensjonsloven.md) — Lov om tjenestepensjon (tjenestepensjonsloven)
+- [tjenestetvistloven-tjtvl](tjenestetvistloven-tjtvl.md) — Lov om offentlige tjenestetvister [tjenestetvistloven]
+- [tobakksskadeloven-tobskl](tobakksskadeloven-tobskl.md) — Lov om vern mot tobakksskader (tobakksskadeloven)
+- [tolkeloven](tolkeloven.md) — Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)
+- [tollavgiftsloven-tavl](tollavgiftsloven-tavl.md) — Lov om tollavgift (tollavgiftsloven)
+- [tomtefestelova-tfl](tomtefestelova-tfl.md) — Lov om tomtefeste
+- [transplantasjonslova](transplantasjonslova.md) — Lov om donasjon og transplantasjon av organ, celler og vev (transplantasjonslova)
+- [trollheimenloven](trollheimenloven.md) — Lov om reindrift i kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Sunndal og Surnadal [Trollheimenloven]
+- [trossamfunnsloven](trossamfunnsloven.md) — Lov om tros- og livssynssamfunn (trossamfunnsloven)
+- [trygderettsloven-trrl](trygderettsloven-trrl.md) — Lov om anke til Trygderetten (trygderettsloven)
+- [tvangsfullbyrdelsesloven-tvangsloven](tvangsfullbyrdelsesloven-tvangsloven.md) — Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)
+- [tvisteloven-tvl](tvisteloven-tvl.md) — Lov om mekling og rettergang i sivile tvister (tvisteloven)
+- [universitets-og-høyskoleloven](universitets-og-høyskoleloven.md) — Lov om universiteter og høyskoler (universitets- og høyskoleloven)
+- [utdanningsstøtteloven](utdanningsstøtteloven.md) — Lov om utdanningsstøtte (utdanningsstøtteloven)
+- [utenrikstjenesteloven](utenrikstjenesteloven.md) — Lov om utenrikstjenesten (utenrikstjenesteloven)
+- [utlendingsloven-utlendl](utlendingsloven-utlendl.md) — Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)
+- [utleveringsloven-utlevl](utleveringsloven-utlevl.md) — Lov om utlevering av lovbrytere m.v. [utleveringsloven]
+- [vaktvirksomhetsloven-vaktl](vaktvirksomhetsloven-vaktl.md) — Lov om vaktvirksomhet (vaktvirksomhetsloven)
+- [valgloven](valgloven.md) — Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven)
+- [valutalova-valutal](valutalova-valutal.md) — Lov om valutaregulering [valutalova]
+- [valutaregisterloven-valregl](valutaregisterloven-valregl.md) — Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven)
+- [vannfallrettighetsloven](vannfallrettighetsloven.md) — Lov om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)
+- [vannressursloven-vrl](vannressursloven-vrl.md) — Lov om vassdrag og grunnvann (vannressursloven)
+- [vareførselsloven-vfl](vareførselsloven-vfl.md) — Lov om inn- og utførsel av varer (vareførselsloven)
+- [varekrigsforsikringslova](varekrigsforsikringslova.md) — Lov om statleg varekrigsforsikring
+- [varemerkeloven-vml](varemerkeloven-vml.md) — Lov om beskyttelse av varemerker (varemerkeloven)
+- [vass-og-avløpsanleggslova](vass-og-avløpsanleggslova.md) — Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)
+- [vass-og-avløpsanleggslova-2](vass-og-avløpsanleggslova-2.md) — Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)
+- [vassdragslov-i-h-t-konvensjon-norge-sverige](vassdragslov-i-h-t-konvensjon-norge-sverige.md) — Lov i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrørende vassdragsretten av 11 mai 1929
+- [vassdragsloven-vdrl](vassdragsloven-vdrl.md) — Lov om vassdragene [vassdragsloven]
+- [vassdragsreguleringsloven-vregl](vassdragsreguleringsloven-vregl.md) — Lov om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)
+- [vegfraktloven-vegfrl](vegfraktloven-vegfrl.md) — Lov om vegfraktavtaler [vegfraktloven]
+- [veglova-vegl](veglova-vegl.md) — Lov om vegar (veglova)
+- [vegtrafikkloven-vtrl](vegtrafikkloven-vtrl.md) — Lov om vegtrafikk (vegtrafikkloven)
+- [vekselloven-vl](vekselloven-vl.md) — Lov om veksler [vekselloven]
+- [verdipapirfondloven](verdipapirfondloven.md) — Lov om verdipapirfond (verdipapirfondloven)
+- [verdipapirhandelloven-vphl](verdipapirhandelloven-vphl.md) — Lov om verdipapirhandel (verdipapirhandelloven)
+- [verdipapirsentralloven](verdipapirsentralloven.md) — Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)
+- [vergemålsloven-vgml](vergemålsloven-vgml.md) — Lov om vergemål (vergemålsloven)
+- [viltloven-viltl](viltloven-viltl.md) — Lov om jakt og fangst av vilt (viltloven)
+- [viltressursloven](viltressursloven.md) — Lov om jakt, fangst og felling av vilt mv. (viltressursloven)
+- [vinmonopolloven](vinmonopolloven.md) — Lov om Aktieselskapet Vinmonopolet [vinmonopolloven]
+- [voksenopplæringsloven](voksenopplæringsloven.md) — Lov om voksenopplæring (voksenopplæringsloven)
+- [voldgiftsloven-vogl](voldgiftsloven-vogl.md) — Lov om voldgift
+- [voldserstatningsloven](voldserstatningsloven.md) — Lov om erstatning fra staten til voldsutsatte (voldserstatningsloven)
+- [vrakloven](vrakloven.md) — Lov om Stranding og Vrag [vrakloven]
+- [våpenlova](våpenlova.md) — Lov om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova)
+- [yrkeskvalifikasjonsloven](yrkeskvalifikasjonsloven.md) — Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)
+- [yrkesskadeforsikringsloven-yforsl](yrkesskadeforsikringsloven-yforsl.md) — Lov om yrkesskadeforsikring (yrkesskadeforsikringsloven)
+- [yrkesskadetrygdloven](yrkesskadetrygdloven.md) — Lov om yrkesskadetrygd [yrkesskadetrygdloven]
+- [yrkestransportlova](yrkestransportlova.md) — Lov om yrkestransport med motorvogn og fartøy (yrkestransportlova)
+- [åndsverkloven](åndsverkloven.md) — Lov om opphavsrett til åndsverk mv. (åndsverkloven)
+- [åpenhetsloven](åpenhetsloven.md) — Lov om virksomheters åpenhet og arbeid med grunnleggende menneskerettigheter og anstendige arbeidsforhold (åpenhetsloven)
+- [økonomiske-soneloven-øksonl](økonomiske-soneloven-øksonl.md) — Lov om Norges økonomiske sone [økonomiske soneloven]

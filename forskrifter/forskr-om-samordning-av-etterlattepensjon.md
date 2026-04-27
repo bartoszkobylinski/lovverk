@@ -1,0 +1,36 @@
+---
+id: "sf-20100706-1076"
+slug: "forskr-om-samordning-av-etterlattepensjon"
+type: "forskrift"
+ref_id: "forskrift/2010-07-06-1076"
+title: "Forskrift om samordning av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke"
+short_title: "Forskr. om samordning av etterlattepensjon"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2010-02-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "9cb286a9bbe75f55ccc875f8572e5ab472d8bce03a22c6a205c59c0599d4d57b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om samordning av enke- og enkemannspensjon der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke
+
+## § 1. Anvendelsesområde
+
+Forskriften gjelder samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med pensjon til gjenlevende ektefelle fra folketrygden der en del av pensjonen skal reduseres for gjenlevendes egen ervervsinntekt og en annen del ikke.
+
+## § 2. Pensjonsberegning
+
+Når enke- og enkemannspensjon fra tjenestepensjonsordning skal reduseres for gjenlevendes egen ervervsinntekt for pensjonsgivende tjenestetid før 1994, men ikke for pensjonsgivende tjenestetid etter 1993, skal samordningsreglene for hver av disse beregningsmåtene følges.
+
+I beregningen legges til grunn antall hele år henholdsvis før og fra 1. januar 1994. Dersom samlet pensjonsgivende tjenestetid er avrundet opp ett år i forhold til summen av hele år før 1994 og etter 1993, legges dette ene året til tiden etter 1993 når pensjonen skal beregnes. Dersom samlet pensjonsgivende tjenestetid er avrundet opp to år i forhold til summen av hele år før 1994 og etter 1993, legges det ene året til tiden før 1994 og det andre året til tiden etter 1993 når pensjonen skal beregnes.
+
+## § 3. Ikrafttredelse
+
+Denne forskrift trer i kraft straks og gis virkning fra 1. februar 2010.

@@ -1,0 +1,36 @@
+---
+id: "nl-20040827-070"
+slug: "lov-om-omorganisering-av-statkraft-sf"
+type: "lov"
+ref_id: "lov/2004-08-27-70"
+title: "Lov om omorganisering av Statkraft SF"
+short_title: "Lov om omorganisering av Statkraft SF"
+language: "nb"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2004-09-10"
+last_change_in_force: null
+last_updated: "2021-06-21"
+xml_hash: "5782f39f6fe294aa110c53372aa40aa200c5149719f95242bab9bf58cb5bf66e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om omorganisering av Statkraft SF
+
+## § 1. Formål
+
+Formålet med loven er å regulere enkelte forhold som oppstår ved overføring av Statkraft SFs virksomhet til et underliggende aksjeselskap med datterselskaper.
+
+## § 2. Overføring av eiendeler, forpliktelser mv.
+
+Overføring av forpliktelser fra Statkraft SF til selskaper som nevnt i § 1 i forbindelse med overføring av Statkrafts virksomhet skjer med frigjørende virkning for Statkraft SF. De overførte forpliktelsene kan heller ikke gjøres gjeldende mot staten. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen og kan ikke gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+
+Første ledd gjelder ikke for lån som faller inn under statens ansvar etter avsnitt III nr. 2 i [lov 20. desember 2002 nr. 88](lov/2002-12-20-88) om endringer i [lov 30. august 1991 nr. 71](lov/1991-08-30-71) om statsforetak mv.
+
+## § 3. Ikrafttredelse
+
+Loven gjelder fra den tid Kongen bestemmer.1

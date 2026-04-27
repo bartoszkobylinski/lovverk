@@ -1,0 +1,70 @@
+---
+id: "sf-20241021-2543"
+slug: "forskrift-om-delvis-allmenngjøring-av-tariffavtale-for-overnattings-serverings-og-cateringvirksomheter"
+type: "forskrift"
+ref_id: "forskrift/2024-10-21-2543"
+title: "Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter"
+short_title: null
+language: "nb"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "2024-11-01"
+last_change_in_force: "2025-06-15"
+last_updated: null
+xml_hash: "790338d7e2d225e1bea52a1c3fd0026feaf55736b611f7bf14085c708a518d51"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. Grunnlaget for allmenngjøring
+
+Forskriften er fastsatt på grunnlag av Riksavtalen 2024–2026 mellom NHO og NHO Reiseliv på den ene siden og LO og Fellesforbundet på den annen side.
+
+### § 2. Virkeområde og gjennomføringsansvar
+
+Forskriften gjelder for ansatte innenfor overnattingsvirksomhet, serveringsvirksomhet, cateringvirksomhet og lignende på land, med unntak av ansatte som faller inn under Landforpleiningsavtalen og ansatte som organisasjonsmessig hører inn under avtaleområdet til FLT/LO.
+
+Arbeidsgiver og den som i arbeidsgivers sted leder virksomhet som utfører arbeidsoppdrag som nevnt i første ledd skal sikre at bestemmelsene i forskriften gjennomføres.
+
+Forskriften gjelder ikke lærlinger og personer på arbeidsmarkedstiltak.
+
+## Kapittel II. Lønnsbestemmelser
+
+### § 3. Lønnsbestemmelse
+
+Arbeidstakere som utfører arbeid som nevnt i [§ 2](forskrift/2024-10-21-2543/§2), skal ha en lønn per time på minst:For unge arbeidstakere:Inntil 17 år: kr 142,5817 år: kr 152,0818 år: kr 166,34.Begynnerlønn for arbeidstakere over 20 år / etter 4 md. praksis over 18 år: kr 204,79.
+
+> Endret ved forskrift [28 mai 2025 nr. 905](forskrift/2025-05-28-905) (i kraft 15 juni 2025).
+
+### § 4. Fratrekk i lønn for innkvartering i bedriften
+
+Ved fratrekk i bruttolønnen for innkvartering i bedriften, gjelder følgende satser:For enkeltrom kr 675,67 pr. mdFor dobbeltrom kr 439,46 pr. md.
+
+> Endret ved forskrift [28 mai 2025 nr. 905](forskrift/2025-05-28-905) (i kraft 15 juni 2025).
+
+### § 5. Regulering av lønn mv. i forskriftens virketid
+
+Tariffnemnda kan endre satsene i [§ 3](forskrift/2024-10-21-2543/§3) og [§ 4](forskrift/2024-10-21-2543/§4) som følge av tariffrevisjoner.
+
+## Kapittel III. Fravikelighet m.m.
+
+### § 6. Fravikelighet
+
+Forskriften kommer ikke til anvendelse dersom arbeidstaker samlet sett er omfattet av gunstigere lønns- og arbeidsvilkår i henhold til avtale eller etter det lands rett som ellers gjelder for arbeidsforholdet.
+
+## Kapittel IV. Ikrafttreden m.m.
+
+### § 7. Ikrafttreden og opphør
+
+Forskriften trer i kraft 1. november 2024.
+
+Forskriften gjelder inntil Tariffnemnda treffer nytt vedtak. Forskriften opphører likevel å gjelde dersom partene i tariffavtalen ikke har krevet nytt vedtak innen en måned etter at tariffavtalen er avløst av en ny avtale, jf. [allmenngjøringsloven § 7](lov/1993-06-04-58/§7).
+
+[Forskrift 9. desember 2022 nr. 2156 om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](forskrift/2022-12-09-2156) oppheves samtidig med ikrafttredelse av denne forskrift.

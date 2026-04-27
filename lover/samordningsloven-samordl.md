@@ -1,0 +1,386 @@
+---
+id: "nl-19570706-026"
+slug: "samordningsloven-samordl"
+type: "lov"
+ref_id: "lov/1957-07-06-26"
+title: "Lov om samordning av pensjons- og trygdeytelser (samordningsloven)"
+short_title: "Samordningsloven – samordl"
+language: "nb"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1959-01-01"
+last_change_in_force: "2026-01-01"
+last_updated: "2021-08-23"
+xml_hash: "8b90e4f44241041de5cc77d8407e667742e17d6a50d1cce593433917c52d2a4d"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om samordning av pensjons- og trygdeytelser (samordningsloven)
+
+## Kapitel I. Lovens omfang. Definisjoner.
+
+### § 1
+
+Denne lov gjelder samordning av ytelser som en person kan få samtidig fra to eller flere av følgende pensjonsordninger og trygder:Tjenestepensjonsordning som er fastsatt ved lov eller vedtak av Stortinget, eller som er fastsatt av kommuner og fylkeskommuner for kommunale og fylkeskommunale tillitsmenn, tjenestemenn og arbeidere, herunder pensjonsordning som yter tidsbegrenset avtalefestet pensjon som tas ut mellom 65 og 67 år.Personskadetrygd fastsatt ved lov.Ytelser fra folketrygden.Offentlig pensjonsordning som yter avtalefestet pensjon før fylte 65 år som det kan godskrives pensjonspoeng for etter [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19).Pensjonsordning som yter avtalefestet pensjon i privat sektor etter [AFP-tilskottsloven kapittel 2](lov/2010-02-19-5/kap2), jf. [kapittel 3](lov/2010-02-19-5/kap3).
+
+Kongen kan bestemme at loven helt eller delvis skal gjelde pensjonsordninger for tjenestemenn eller arbeidere i selvstendige statlige eller kommunale foretak og i andre institusjoner av offentlig karakter.
+
+> Endret ved lover 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, 8 juni 1979 nr. 52, [18 apr 1980 nr. 8](lov/1980-04-18-8), [23 des 1988 nr. 110](lov/1988-12-23-110), [26 mai 1989 nr. 24](lov/1989-05-26-24) (ikr. 1 juli 1989), [17 des 1993 nr. 130](lov/1993-12-17-130), [13 juni 1997 nr. 58](lov/1997-06-13-58), [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2000 nr. 124](lov/2000-12-21-124), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)).
+
+### § 2
+
+Loven omfatter også pensjon som helt eller delvis er utløst med kapitalverdien, likevel ikke utløsningsbeløp som etter påbud i lov ytes istedenfor pensjon eller ved bortfall av pensjon.
+
+### § 3
+
+Loven omfatter alderspensjon etter [lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 5](lov/1949-07-28-26/kap5) og [§ 26 h](lov/1949-07-28-26/§26h) og tidligpensjon etter [kapittel 5 b](lov/1949-07-28-26/kap5b). Det samme gjelder tilsvarende pensjoner fra andre tjenestepensjonsordninger.
+
+Loven omfatter enke- og enkemannspensjon etter [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 34](lov/1949-07-28-26/§34) (bruttopensjon). Enke- og enkemannspensjon etter samme lov § 33 (nettopensjon) og barnepensjon omfattes bare av [kapittel II](lov/1957-07-06-26/kapii). Første og andre punktum gjelder tilsvarende for den delen av enke- eller enkemannspensjonen som er beregnet som henholdsvis bruttopensjon og nettopensjon etter [lov om Statens pensjonskasse § 34](lov/1949-07-28-26/§34) fjerde ledd. Første til tredje punktum gjelder tilsvarende for brutto- og nettopensjoner fra andre tjenestepensjonsordninger.
+
+Loven omfatter midlertidig uførepensjon og uførepensjon etter [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 28](lov/1949-07-28-26/§28) andre ledd (bruttopensjon). Midlertidig uførepensjon og uførepensjon etter [samme lov § 28](lov/1957-07-06-26/§28) første ledd (nettopensjon) omfattes bare av [kapittel II](lov/1957-07-06-26/kapii). Det samme gjelder for tilsvarende brutto- og nettopensjoner fra andre tjenestepensjonsordninger.
+
+Loven omfatter ikke menerstatning etter [folketrygdloven § 13-17](lov/1997-02-28-19/§13-17).
+
+Forsørgingstillegg skal regnes som en del av pensjonen ved samordning etter [kapitlene II](lov/1957-07-06-26/kapii) og III og [§§ 16](lov/1957-07-06-26/§16) og [17](lov/1957-07-06-26/§17).
+
+For pensjonist som får folketrygdens ytelse eller personskadetrygd redusert eller stanset på grunn av opphold i institusjon eller under straffegjennomføring, eller formuen satt under forvaltning etter [straffeprosessloven § 220](lov/1981-05-22-25/§220), skal det ved samordningen legges til grunn en uredusert ytelse fra folketrygden eller personskadetrygd.
+
+> Endret ved lover 21 jan 1971 nr. 22, [21 des 1990 nr. 80](lov/1990-12-21-80), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [6 juni 1997 nr. 36](lov/1997-06-06-36), [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [26 mai 2000 nr. 37](lov/2000-05-26-37) (ikr. 1 jan 2001 iflg. [res. 26 mai 2000 nr. 447](forskrift/2000-05-26-447)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [19 juni 2020 nr. 70](lov/2020-06-19-70) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1277](forskrift/2020-06-19-1277)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)).
+
+### § 4
+
+Med tjenestepensjon forstås i denne lov alders-, uføre-, enke-, enkemanns- og barnepensjon som er opptjent i arbeidsforhold eller i et yrke. Herunder går ikke tilleggspensjoner etter loven om folketrygd.
+
+Med pensjon fra personskadetrygd forstås uførepensjon (invalidepensjon, uførestønad), enkepensjon, enkemannspensjon og barnepensjon som ytes i henhold til særlovgivningen om yrkesskadetrygd og krigspensjonering.
+
+Som enkepensjon anses også overgangsstønad til enke.
+
+> Endret ved lover 9 juni 1961 nr. 21, 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 29 jan 1971 nr. 22, [24 mai 1985 nr. 35](lov/1985-05-24-35).
+
+## Kapitel II. Tjenestepensjoner.
+
+### § 5
+
+Pensjoner fra to eller flere tjenestepensjonsordninger samordnes etter reglene i dette kapitel.
+
+### § 6. Pensjonsgivende tjenestetid.
+
+Den som ikke fyller vilkårene om minste pensjonsgivende tjenestetid for rett til pensjon i en pensjonsordning, skal likevel ha rett til alderspensjon i forhold til sin pensjonsgivende tjenestetid i vedkommende pensjonsordning dersomhans pensjonsgivende tjenestetid utgjør minst 1/10 av full pensjonsgivende tjenestetid, oghans samlede pensjonsgivende tjenestetid i pensjonsordninger som går inn under denne lov fyller vilkåret om minste pensjonsgivende tjenestetid i vedkommende pensjonsordning.
+
+Ved sammenlegging av tjenestetid etter reglene i denne paragraf reknes bare med tjenestetid i de pensjonsordninger hvor vedkommende har nådd den fastsatte pensjonsalder for rett til pensjon, eller hvor vedkommende oppebærer alderspensjon fra lavere alder. Teller samme tidsrom som pensjonsgivende tjenestetid i flere pensjonsordninger, skal tidsrommet ved berekningen etter denne paragraf bare tas med som tjenestetid i en pensjonsordning.
+
+Denne paragrafen gjelder ikke for pensjonstrygden for sjømenn og pensjonstrygden for fiskere, se likevel [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonstrygd for sjømenn [§ 4](lov/1948-12-03-7/§4) nr. 1 andre ledd bokstav a og [lov 28. juni 1957 nr. 12](lov/1957-06-28-12) om pensjonstrygd for fiskere [§ 6](lov/1957-06-28-12/§6) nr. 1 andre ledd.
+
+> Endret ved lover 17 juni 1966 nr. 17, [16 juni 2000 nr. 44](lov/2000-06-16-44) (ikr. 1 jan 2001), [1 mars 2002 nr. 3](lov/2002-03-01-3).
+
+### § 7. Alderspensjoner.
+
+1. Alderspensjon kan ikke være større enn at den sammen med tidligere opptjent alderspensjon i annen pensjonsordning utgjør pensjon for full tjenestetid i den pensjonsordning vedkommende sist ble innlemmet i.Er den tidligere opptjente pensjon større enn den ville vært om opptjeningen hadde skjedd i den sistnevnte pensjonsordning, skal det ved anvendelsen av bestemmelsen i første ledd ses bort fra den overskytende del av tidligere opptjent pensjon. Den samlede pensjon kan ikke overstige den pensjon som en tjenestemann med samme bruttolønn og samlet tjenestetid ville fått i Statens pensjonskasse eller i annen pensjonsordning som vedkommende har vært omfattet av og som har høyere pensjoner enn Statens pensjonskasse.
+
+2. For den som har to eller flere pensjonsgivende stillinger samtidig, skal den samlede pensjon fra disse ikke overstige høyeste pensjon i Statens pensjonskasse. Går en av stillingene inn under en pensjonsordning med høyere pensjon enn nevnt, skal den samlede pensjon ikke overstige høyeste pensjon som kan oppnås i slik pensjonsordning. Pensjonene avkortes forholdsmessig.
+
+3. Departementet gir nærmere regler om gjennomføring av bestemmelsene under nr. 1 og 2 for de tilfelle hvor tjenstepensjon utbetales i samsvar med de særlige garantiregler som gjelder for alderspensjon som tas ut mellom 65 og 67 år.
+
+> Endret ved lover 17 juni 1966 nr. 17, [23 des 1988 nr. 110](lov/1988-12-23-110), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).
+
+### § 8. (Opphevet)
+
+> Opphevet ved lov [24 mai 1985 nr. 35](lov/1985-05-24-35).
+
+### § 9. Uførepensjoner.
+
+Uførepensjoner fra to eller flere tjenestepensjonsordninger der alle pensjonene enten er bruttopensjoner eller nettopensjoner, se [§ 3](lov/1957-07-06-26/§3) tredje ledd, samordnes etter tilsvarende regler som gjelder for to eller flere alderspensjoner etter [§ 7](lov/1957-07-06-26/§7). Departementet kan fastsette nærmere forskrifter.
+
+> Endret ved lover 8 juni 1979 nr. 52, [24 mai 1985 nr. 35](lov/1985-05-24-35), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 des 2021 nr. 146](lov/2021-12-17-146).
+
+### § 10. Uførepensjon – alderspensjon.
+
+Uførepensjon som omfattes av [§ 3](lov/1957-07-06-26/§3) tredje ledd første og tredje punktum og alderspensjon, skal samordnes etter tilsvarende regler som gjelder for to eller flere alderspensjoner etter [§ 7](lov/1957-07-06-26/§7). Departementet kan fastsette nærmere forskrifter.
+
+> Endret ved lover 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 29 mars 1968 nr. 1, 8 juni 1979 nr. 52, [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 juni 2020 nr. 70](lov/2020-06-19-70) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1277](forskrift/2020-06-19-1277)).
+
+### § 11. Enkepensjoner.
+
+Enkepensjoner samordnes ved at bestemmelsene i §§ 6-8 gis tilsvarende anvendelse.
+
+### § 12. Barnepensjoner.
+
+Barnepensjoner samordnes ved at bestemmelsene i §§ 6-8 gis tilsvarende anvendelse.
+
+## Kapitel III. Pensjoner fra personskadetrygder.
+
+### § 13
+
+Pensjoner fra to eller flere personskadetrygder samordnes etter reglene i dette kapitel.
+
+### § 14. Enkepensjon – uførepensjon.
+
+Enkepensjonen og uførepensjonen skal sammenlagt ikke overstige den høyeste av pensjonene når uførepensjonen regnes etter hel arbeidsuførhet, med tillegg av et beløp som svarer til 1/4 av folketrygdens grunnbeløp, eller – dersom pensjonisten ikke har uførepensjon for hel arbeidsuførhet – med en forholdsmessig del av tillegg som nevnt beregnet etter uførhetsgraden.
+
+Hvis pensjonene sammenlagt overstiger det som etter første ledd kan ytes, skal enkepensjonen settes ned med den overskytende del.
+
+> Endret ved lover 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 29 mars 1968 nr. 1.
+
+### § 15. Barnepensjoner.
+
+Flere barnepensjoner til samme barn samordnes ved at bare den høyeste av pensjonene ytes.
+
+## Kapitel IV. Pensjoner fra tjenestepensjonsordning, personskadetrygd, alderspensjon (grunnpensjon) og uføretrygd fra folketrygden
+
+> Kapitteloverskriften endret ved lover 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, 8 juni 1979 nr. 52, [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
+
+### § 16. Tjenestepensjonering – personskadetrygd.
+
+1. Uførepensjon fra tjenestepensjonsordning som omfattes av [§ 3](lov/1957-07-06-26/§3) tredje ledd første og tredje punktum og personskadetrygd, samordnes etter reglene i denne paragraf. Overstiger pensjonene sammenlagt det som kan ytes etter disse regler, skal tjenestepensjonen settes ned med den overskytende del.
+
+2. Uførepensjoner for samme trygdetilfelle skal sammenlagt ikke overstige den høyeste av pensjonene, med tillegg av et beløp som svarer til 1/4 av folketrygdens grunnbeløp, eller – dersom pensjonisten ikke har uførepensjon fra personskadetrygd for hel arbeidsuførhet – med en forholdsmessig del av tillegg som nevnt beregnet etter uførhetsgraden.
+
+3. Uførepensjoner for forskjellige trygdetilfelle skal sammenlagt ikke overstige den høyeste av pensjonene, regnet etter full tjenestetid og hel arbeidsuførhet, med tillegg av et beløp som svarer til 1/4 av folketrygdens grunnbeløp, eller – dersom pensjonisten ikke har uførepensjon fra personskadetrygd for hel arbeidsuførhet – med en forholdsmessig del av tillegg som nevnt beregnet etter uførhetsgraden.Departementet gir nærmere regler om gjennomføringen av bestemmelsene under nr. 1, 2 og 3 for de tilfelle hvor tjenestepensjonen utbetales i samsvar med de særlige garantiregler som gjelder for alderspensjon som tas ut mellom 65 og 67 år.
+
+> Endret ved lover 17 juni 1906 nr. 17, 16 des 1966 nr. 7, 29 mars 1968 nr. 1, [23 des 1988 nr. 110](lov/1988-12-23-110), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 des 2021 nr. 146](lov/2021-12-17-146).
+
+### § 17
+
+Samordning avalderspensjon fra tjenestepensjonsordning og uførepensjon fra personskadetrygd,uførepensjon som omfattes av [§ 3](lov/1957-07-06-26/§3) tredje ledd første og tredje punktum eller alderspensjon fra tjenestepensjonsordning og enkepensjon fra personskadetrygd, ellerenkepensjon fra tjenestepensjonsordning og uførepensjon fra personskadetrygdskal skje ved at reglene i [§ 16](lov/1957-07-06-26/§16), nr. 3, jfr. nr. 1, anvendes tilsvarende.
+
+> Endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [17 des 2021 nr. 146](lov/2021-12-17-146).
+
+### § 18
+
+1. Enkepensjoner fra tjenestepensjonsordning og etter [lov av 12 desember 1958 nr. 10](lov/1958-12-12-10) om yrkesskadetrygd samordnes ved at tjenestepensjonen settes ned, slik at summen av pensjonene ikke overstiger den høyeste av dem når tjenestepensjonen regnes etter full tjenestetid.
+
+2. Enkepensjoner fra tjenestepensjonsordning og fra krigspensjoneringen samordnes ved at tjenestepensjonen settes ned med så stor forholdsmessig del som krigspensjonen utgjør av full krigspensjon.Overstiger summen av pensjonene ikke den høyeste av dem tillagt 1/4 av folketrygdens grunnbeløp, utbetales likevel begge pensjoner fullt ut. Er summen av pensjonene større, utbetales krigspensjonen og minst så stor del av tjenestepensjonen at det samlede utbetalte beløp svarer til den største av pensjonene tillagt 1/4 av folketrygdens grunnbeløp.
+
+3. Barnepensjon fra personskadetrygd (jfr. [§ 4 annet ledd](lov/1957-07-06-26/§4/ledd/2)) samordnes ved at regelen i nr. 1 anvendes tilsvarende.
+
+> Endret ved lover 29 mars 1968 nr. 1, 29 jan 1971 nr. 22, [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+
+### § 19. Tjenestepensjonering – alderspensjon eller uføretrygd fra folketrygden.
+
+Alderspensjon og enke- og enkemannspensjon fra tjenestepensjonsordning samordnes med alderspensjon fra folketrygden etter følgende regler, jf. også [§ 24](lov/1957-07-06-26/§24):Er tjenestepensjonen beregnet for full pensjonsgivende tjenestetid, settes tjenestepensjonen ned med et beløp som svarer til 3/4 av folketrygdens grunnbeløp.Er tjenestepensjonen ikke beregnet for full pensjonsgivende tjenestetid, skal fradraget være en forholdsmessig del av nevnte beløp. Det samme gjelder når tjenestepensjonen er beregnet etter en stillingsandel som er lavere enn 100 prosent.Er alderspensjonen fra folketrygden eller tjenestepensjonen gradert, skal fradraget settes ned forholdsmessig. Hvis begge ytelsene er graderte, benyttes den laveste graden.Departementet kan bestemme at reglene i nr. 1 skal gjelde tilsvarende, i tilfelle med nødvendige tillempninger, når pensjonisten etter utenlandsk lov har rett til pensjon som svarer til alderspensjon etter loven om folketrygd.Reglene i nr. 1 og 2 skal gjelde tilsvarende når det foreligger rett til avtalefestet pensjon som omfattes av [lovens § 1](lov/1957-07-06-26/§1) nr. 1 første ledd bokstav d.
+
+Bestemmelsene i første ledd nr. 1 og 3 gjelder tilsvarende når tjenestepensjonen er en alderspensjon som gis før fylte 67 år, eller en enke- og enkemannspensjon, og ytelsen fra folketrygden er uføretrygd eller arbeidsavklaringspenger. Er ytelsen fra folketrygden eller tjenestepensjonen gradert, skal fradraget settes ned forholdsmessig. Hvis begge ytelsene er graderte, benyttes den laveste graden. Dersom det ytes uføretrygd eller arbeidsavklaringspenger samtidig med tidligpensjon etter [lov om Statens pensjonskasse § 26 o](lov/1949-07-28-26/§26o) og [§ 26 p](lov/1949-07-28-26/§26p) eller tilsvarende pensjon, skal tidligpensjonen ikke samordnes etter paragrafen her.
+
+Tjenestepensjon settes ned med ventetillegg fra folketrygden. Fradraget begrenses til et beregnet ventetillegg av det samordningsfradrag som gjøres etter bestemmelsene i første ledd nr. 1.
+
+> Endret ved lover 19 des 1958 nr. 4, 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 15 des 1967 nr. 8, 15 des 1972 nr. 86, 8 juni 1973 nr. 54, 8 juni 1979 nr. 52, [24 mai 1985 nr. 35](lov/1985-05-24-35), [23 des 1988 nr. 110](lov/1988-12-23-110), [21 des 1990 nr. 80](lov/1990-12-21-80), [16 juni 1994 nr. 22](lov/1994-06-16-22), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)).
+
+### § 20. Personskadetrygd – alderspensjon eller uføretrygd fra folketrygden.
+
+Pensjon fra personskadetrygd samordnes med alderspensjon fra folketrygden ved at pensjonen fra personskadetrygd settes ned med et beløp som svarer til 3/4 av folketrygdens grunnbeløp.
+
+Er uførepensjonen ikke beregnet for hel arbeidsuførhet, skal fradraget være en forholdsmessig del av nevnte beløp.
+
+Bestemmelsene i første og annet ledd gjelder tilsvarende for samordning av pensjon fra personskadetrygd med uføretrygd eller arbeidsavklaringspenger etter loven om folketrygd. Er ytelsen fra folketrygden ikke beregnet for hel uførhet, skal fradragsbeløpet nedsettes forholdsmessig.
+
+Er alderspensjonen fra folketrygden gradert, skal fradragsbeløpet i personskadetrygden etter bestemmelsene i første ledd settes ned forholdsmessig.
+
+Reglene i første og fjerde ledd skal gjelde tilsvarende når det foreligger rett til avtalefestet pensjon som omfattes av lovens [§ 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).
+
+> Endret ved lover 19 des 1958 nr. 4, 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 15 des 1967 nr. 8, 8 juni 1973 nr. 54, 8 juni 1979 nr. 52, [24 mai 1985 nr. 35](lov/1985-05-24-35), [23 des 1988 nr. 110](lov/1988-12-23-110), [21 des 1990 nr. 80](lov/1990-12-21-80), [16 juni 1994 nr. 22](lov/1994-06-16-22), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)).
+
+### § 21. Tjenestepensjon – personskadetrygd – pensjon fra folketrygden.
+
+Ytes det samtidig pensjon fra tjenestepensjonsordning, personskadetrygd og alderspensjon fra folketrygden, skal samordning foretas i samsvar med bestemmelsene i §§ 16-19.
+
+Hvis det beløp tjenestepensjonen blir satt ned med etter [§ 19](lov/1957-07-06-26/§19), nr. 1, er mindre enn det beløp pensjonen fra personskadetrygden ville blitt satt ned med etter [§ 20](lov/1957-07-06-26/§20), skal sistnevnte pensjon settes ned med den resterende del.
+
+Bestemmelsen i første og annet ledd gjelder tilsvarende for samordning av pensjoner fra tjenestepensjonsordning, personskadetrygd og uføretrygd eller arbeidsavklaringspenger etter loven om folketrygd.
+
+Bestemmelsene kommer også til anvendelse ved pensjoner samordnet etter [§ 22](lov/1957-07-06-26/§22).
+
+Reglene i første og annet ledd skal gjelde tilsvarende for samordning av pensjoner fra tjenestepensjonsordning og personskadetrygd med avtalefestet pensjon som omfattes av lovens [§ 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).
+
+> Endret ved lover 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, [24 mai 1985 nr. 35](lov/1985-05-24-35), [23 des 1988 nr. 110](lov/1988-12-23-110), [16 juni 1994 nr. 22](lov/1994-06-16-22), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)).
+
+## Kapitel V. Barnepensjon eller pensjon til enke eller enkemann fra tjenestepensjonsordning, personskadetrygd og barnepensjon, enkepensjon eller enkemannspensjon (grunnpensjoner) fra folketrygden.
+
+> Overskriften endret ved lov 8 juni 1979 nr. 52.
+
+### § 22
+
+1. Barnepensjon fra personskadetrygd skal settes ned med barnepensjon fra folketrygden. Blir barnet tilstått uføretrygd fra folketrygden, skal barnepensjonen fra personskadetrygd settes ned med det beløp barnepensjonen fra folketrygden har eller ville ha utgjort om uføretrygd ikke var tilstått.
+
+2. Pensjon som enke har rett til fra tjenestepensjonsordning eller etter [lov av 12. desember 1958 nr. 10](lov/1958-12-12-10) om yrkesskadetrygd, skal settes ned med et beløp som svarer til 3/4 av folketrygdens grunnbeløp når det ytes pensjon til gjenlevende ektefelle fra folketrygden. For uførepensjon fra tjenestepensjonsordning gjelder bestemmelsen her pensjon som omfattes av [§ 3](lov/1957-07-06-26/§3) tredje ledd første og tredje punktum. Er pensjonen fra tjenestepensjonsordning eller fra yrkesskadetrygden tatt ut gradert eller ikke beregnet for full tjenestetid, skal fradragsbeløpet avkortes forholdsmessig. Fradragsbeløpet skal også avkortes dersom tjenestepensjonen er beregnet etter en stillingsandel som er lavere enn 100 prosent. I tilfeller der pensjonen fra folketrygden til gjenlevende ektefelle er redusert for arbeidsinntekt, skal samordningsfradraget i tjenestepensjonen og personskadetrygden reduseres etter samme prosentsats (grad) som folketrygdpensjonen er redusert med, likevel slik at dersom tjenestepensjonen eller personskadetrygden også er gradert, benyttes den laveste av gradene.Pensjon som enke har rett til fra krigspensjoneringen skal settes ned med et beløp som svarer til 3/4 av enkepensjon fra folketrygden. Bestemmelsen i første ledd tredje og femte punktum gjelder tilsvarende.Departementet gir bestemmelser om hvordan fradraget skal beregnes hvis flere pensjoner skal samordnes med enkepensjon fra folketrygden.
+
+3. Bestemmelsene i nr. 2 gjelder tilsvarende for samordning med pensjon eller overgangsstønad til tidligere familiepleier etter [folketrygdloven § 16-7](lov/1997-02-28-19/§16-7) slik paragrafen lød før 1. januar 2024, og overgangsstønad etter [folketrygdloven § 15-7](lov/1997-02-28-19/§15-7). Det samme gjelder pensjon til samboer på grunnlag av [folketrygdloven § 1-5](lov/1997-02-28-19/§1-5).
+
+4. Bestemmelsene i nr. 2 gjelder tilsvarende for samordning av alderspensjon fra tjenestepensjonsordning før fylte 67 år med omstillingsstønad fra folketrygden. Dette gjelder likevel ikke dersom omstillingsstønaden ytes samtidig med tidligpensjon etter [lov om Statens pensjonskasse § 26 o](lov/1949-07-28-26/§26o) eller [§ 26 p](lov/1949-07-28-26/§26p) eller tilsvarende pensjon. Oppsatt brutto alderspensjon for dem som er født etter 1962, skal ikke samordnes med gjenlevendeytelse eller omstillingsstønad fra folketrygden.
+
+5. Bestemmelsene i nr. 2 gjelder tilsvarende for samordning av uførepensjon etter [§ 3](lov/1957-07-06-26/§3) tredje ledd første og tredje punktum med omstillingsstønad fra folketrygden. Dersom utbetalingsgraden for uførepensjonen er lavere enn uføregraden, er det utbetalingsgraden som inngår i beregningen.
+
+> Endret ved lover 22 jan 1960 nr. 4, 17 juni 1966 nr. 17, 16 des 1966 nr. 7, 29 mars 1968 nr. 1, 29 jan 1971 nr. 22, 17 mars 1972 nr. 7, 6 juni 1975 nr. 33, [18 des 1992 nr. 143](lov/1992-12-18-143), [17 des 1993 nr. 130](lov/1993-12-17-130), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [17 des 2021 nr. 146](lov/2021-12-17-146), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)).
+
+## Kapittel VI. Tjenestepensjon og tilleggspensjon fra folketrygden.
+
+> Tilføyd ved lov 8 juni 1979 nr. 52.
+
+### § 23
+
+1. Tjenestepensjon samordnes med tilleggspensjon fra folketrygden etter følgende regler, jf. også [§ 24](lov/1957-07-06-26/§24):I alderspensjon som er regnet etter full tjenestetid, gjøres fradrag for hele tilleggspensjonen, dog med slik begrensning som måtte følge av nr. 2.Har vedkommende ikke full tjenestetid, skal det gjøres fradrag i tjenestepensjon med et beløp som svarer til så stor brøkdel av tilleggspensjonen fra folketrygden som den brøkdel tjenestepensjonen er beregnet etter.Er alderspensjonen fra folketrygden eller tjenestepensjonen gradert, skal fradraget settes ned forholdsmessig. Hvis begge ytelsene er graderte, benyttes den laveste graden.I enkepensjon (enkemannspensjon) skal det etter tilsvarende regler som nevnt i bokstav a gjøres fradrag for tilleggspensjon fra folketrygden.Bestemmelsene i første ledd gjelder tilsvarende for særtillegg fra folketrygden, for tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd, for tillegg fastsatt etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden, for ventetillegg fra folketrygden for tilleggspensjon og for den delen av arbeidsavklaringspengene og overgangsstønad etter [folketrygdloven kapittel 11](lov/1997-02-28-19/kap11) og [15](lov/1997-02-28-19/kap15) som overstiger folketrygdens grunnbeløp. Dersom arbeidsavklaringspengene eller overgangsstønaden er gradert eller redusert for inntekt, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp.Bestemmelsene i første ledd gjelder tilsvarende for samordning av alderspensjon fra tjenestepensjonsordning som gis før fylte 67 år og den delen av uføretrygd etter [folketrygdloven kapittel 12](lov/1997-02-28-19/kap12) som overstiger folketrygdens grunnbeløp. Dersom uføretrygden er gradert, eller redusert for trygdetid, skal det ved samordningen legges til grunn et forholdsmessig redusert grunnbeløp. Gjenlevendetillegg etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) skal ikke inngå i samordningen.Dersom det ytes uføretrygd eller arbeidsavklaringspenger samtidig med tidligpensjon etter [lov om Statens pensjonskasse § 26 o](lov/1949-07-28-26/§26o) og [§ 26 p](lov/1949-07-28-26/§26p) eller tilsvarende pensjon, skal tidligpensjonen ikke samordnes med uføretrygd eller arbeidsavklaringspenger.
+
+2. Ved anvendelsen av bestemmelsene under nr. 1 skal det ikke tas omsyn til den del av tilleggspensjonen fra folketrygden som måtte overstige en antatt tilleggspensjon fra folketrygden beregnet slik at sluttpoengtallet settes lik det poengtall som svarer til vedkommendes pensjonsgivende inntekt i pensjonsordningen.Er tilleggspensjonen fra folketrygden opptjent av to personer, jf. [folketrygdloven § 19-16](lov/1997-02-28-19/§19-16), skal fradraget i gjenlevendes tjenestepensjon være 55 prosent av avdødes egenopptjente tilleggspensjon, dersom det er avdøde som har tjent opp tjenestepensjonen. Dersom det er gjenlevende som har tjent opp tjenestepensjonen, skal fradraget være begrenset til gjenlevendes egenopptjente tilleggspensjon. Har medlemmet av tjenestepensjonsordningen ikke tjent opp rett til tilleggspensjon, gjøres ikke noe fradrag. Bestemmelsen i første ledd gjelder tilsvarende.For fraskilte skal bestemmelsene i annet ledd gjelde tilsvarende selv om fraskilte ikke har rett til tilleggspensjon etter avdøde.Ved samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning hvor det ikke skal foretas reduksjon på grunn av gjenlevendes egen ervervsinntekt, skal den tilleggspensjon fra folketrygden som enken eller enkemannen har opptjent, i sin helhet betraktes som en fridel og holdes utenfor samordningen. Departementet fastsetter nærmere forskrifter for slikt samordningsfritak.Økt tilleggspensjon fra folketrygden kan holdes utenfor samordningennår økningen skyldes at det er godskrevet pensjonspoeng etter [folketrygdloven § 3-16](lov/1997-02-28-19/§3-16) for omsorgsarbeid etter helt avsluttet yrkesaktivitetnår økningen skyldes poengopptjening i folketrygden etter uttak av hel tjenestepensjon for årene da pensjonisten fylte 67 til 75 år.
+
+3. Departementet kan gi nærmere regler om gjennomføring av bestemmelsene under nr. 1 og 2, herunder gi spesielle regler om gjennomføring av bestemmelsene for tidsrommet 1. januar 1967 til 31. desember 1972.Reglene i nr. 1, 2 og 3 skal gjelde tilsvarende når det foreligger rett til avtalefestet pensjon som omfattes av lovens [§ 1 første ledd bokstav d](lov/1957-07-06-26/§1/ledd/1/bokstav/d).
+
+> Tilføyd ved lov 8 juni 1979 nr. 52, endret ved lover [23 des 1988 nr. 110](lov/1988-12-23-110), [16 juni 1989 nr. 89](lov/1989-06-16-89), [15 des 1989 nr. 90](lov/1989-12-15-90), [5 juni 1992 nr. 53](lov/1992-06-05-53), [17 des 1993 nr. 130](lov/1993-12-17-130), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [27 nov 1998 nr. 69](lov/1998-11-27-69), [30 apr 1999 nr. 26](lov/1999-04-30-26) (ikr. 1 mai 1999, slik at bestemmelsen i femte ledd bokstav a gjelder også for pensjon som er innvilget før 1 mai 1999, men får virkning for pensjonsutbetalinger tidligst fra mai 1999, og bestemmelsen i femte ledd bokstav b gis virkning for pensjoner som blir utbetalt tidligst fra mai 1999), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [15 jan 2010 nr. 1](lov/2010-01-15-1) (ikr. 1 feb 2010 iflg. [res. 15 jan 2010 nr. 54](forskrift/2010-01-15-54), se overgangsbestemmelser i endringslovens X), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011, men endringen i nr. 2 femte ledd bokstav b ikr. 1 jan 2010), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103), [15 des 2017 nr. 104](lov/2017-12-15-104), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)).
+
+### § 23 a. Samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden til gjenlevende ektefelle
+
+I enke- eller enkemannspensjon fra tjenestepensjonsordning hvor det skal foretas reduksjon på grunn av den gjenlevendes egen arbeidsinntekt, skal det gjøres fradrag med 50 prosent av den avdødes uføretrygd, det vil si den delen av avdødes uføretrygd som er lagt til grunn ved anvendelsen av [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18). Samordningsfradraget skal likevel ikke være lavere enn differansen mellom avdødes minsteytelse, beregnet etter [folketrygdloven § 12-13](lov/1997-02-28-19/§12-13) andre ledd beregnet med gjenlevendes sivilstand, og 50 prosent av gjenlevendes egen uføretrygd. Er uføretrygden fra folketrygden gradert, skal fradraget settes ned forholdsmessig. Det samme gjelder hvis enke- eller enkemannspensjonen er redusert for inntekt. Er begge ytelsene gradert eller redusert for inntekt, benyttes den laveste graden. Fradraget skal også settes ned forholdsmessig dersom enke- eller enkemannspensjonen ikke er beregnet for full pensjonsgivende tjenestetid.
+
+For fraskilte skal bestemmelsene i første ledd gjelde tilsvarende selv om den fraskilte ikke fyller vilkårene for rett til gjenlevendetillegg etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) første ledd.
+
+I enke- eller enkemannspensjon fra tjenestepensjonsordning hvor det ikke skal foretas reduksjon på grunn av gjenlevendes egen ervervsinntekt, skal det gjøres fradrag med gjenlevendetillegg etter [folketrygdloven § 12-18](lov/1997-02-28-19/§12-18) første ledd, det vil si at den uføretrygden som enken eller enkemannen har opptjent, i sin helhet betraktes som en fridel og holdes utenfor samordningen. Fradraget skal settes ned forholdsmessig dersom enke- eller enkemannspensjonen ikke er beregnet for full pensjonsgivende tjenestetid.
+
+Det skal ikke gjøres fradrag etter § 19 i loven her ved samordning etter første og andre ledd.
+
+> Tilføyd ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799), som endret ved lov [19 des 2014 nr. 73](lov/2014-12-19-73)), endret ved lov [15 des 2017 nr. 104](lov/2017-12-15-104).
+
+## Kapittel VII. Samordning med pensjon fra folketrygden og avtalefestet pensjon i privat sektor fra 1. januar 2011
+
+> Kapitlet tilføyd ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).
+
+### § 24. Supplerende bestemmelser om samordning av tjenestepensjon og personskadetrygd med alderspensjon etter folketrygdloven kapittel 19
+
+1. Alderspensjon fra tjenestepensjonsordning samordnes med alderspensjon etter [folketrygdloven kapittel 19](lov/1997-02-28-19/kap19) ved at det tas utgangspunkt i basispensjonen. Samordningsfradrag for grunnpensjon, tilleggspensjon, særtillegg og ventetillegg beregnes etter reglene i [§§ 19](lov/1957-07-06-26/§19) og [23](lov/1957-07-06-26/§23). Basispensjonstillegg etter [folketrygdloven § 19-9](lov/1997-02-28-19/§19-9) tredje ledd, tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter § 5-4 andre ledd og § 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden samordnes som særtillegg, jf. § 23. Samordningsfradragene divideres med det aktuelle forholdstallet som er fastsatt etter [folketrygdloven § 19-7](lov/1997-02-28-19/§19-7), med unntak av samordningsfradrag for tillegg etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) femte ledd, [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og § 20-19 andre ledd, og tillegg beregnet etter §§ 5-4 andre ledd og 5-8 andre ledd i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810) om alderspensjon i folketrygden.Samordningen foretas tidligst fra måneden etter pensjonisten fyller 67 år. Dersom tjenestepensjonen tas ut før eller ved 67 år, legges forholdstallet ved 67 år til grunn. Dette gjelder også dersom det er tatt ut hel eller delvis alderspensjon fra folketrygden før 67 år.Dersom tjenestepensjonen tas ut etter fylte 67 år, benyttes forholdstallet på uttakstidspunktet. Dette gjelder også dersom det er tatt ut hel eller delvis alderspensjon fra folketrygden på et tidligere tidspunkt.
+
+2. Enke- og enkemannspensjon fra tjenestepensjonsordning samordnes med alderspensjon etter [folketrygdloven kapittel 19](lov/1997-02-28-19/kap19) fra 67 år. Samordningsfradragene divideres ikke med forholdstall. Dersom det er tatt ut alderspensjon fra folketrygden før 67 år, samordnes enke- og enkemannspensjonen med den pensjonen eller overgangsstønaden etter [folketrygdloven kapittel 17](lov/1997-02-28-19/kap17) slik det lød før 1. januar 2024, som enken eller enkemannen ville hatt rett til dersom vedkommende ikke hadde tatt ut alderspensjon.
+
+3. Ved samordning av pensjon fra personskadetrygd med alderspensjon etter [folketrygdloven kapittel 19](lov/1997-02-28-19/kap19) beregnes samordningsfradrag for grunnpensjonen etter reglene i § 20, mens samordningsfradrag for tilleggspensjon, særtillegg og ventetillegg beregnes etter særlovgivningen om yrkesskadetrygd og krigspensjonering. For øvrig gjelder bestemmelsene i paragrafen her så langt de passer.
+
+4. Samordningsfradrag for alderspensjon fra folketrygden reguleres etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) annet, fjerde og sjuende ledd.
+
+> Tilføyd ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), endret ved lover [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [20 april 2012 nr. 16](lov/2012-04-20-16) (ikr. 1 juli 2012), [14 juni 2013 nr. 33](lov/2013-06-14-33) (ikr. 14 juni 2013), [14 juni 2013 nr. 33](lov/2013-06-14-33) (ikr. 1 okt 2013 iflg. [res. 13 sep 2013 nr. 1077](forskrift/2013-09-13-1077)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [18 des 2015 nr. 103](lov/2015-12-18-103), [17 juni 2016 nr. 25](lov/2016-06-17-25), [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)).
+
+### § 24 a. Samordning av alderspensjon fra tjenestepensjonsordning med alderspensjon etter folketrygdloven kapittel 20 for medlemmer født i 1954 eller senere som ikke er omfattet av påslagspensjon mv. fra tjenestepensjonsordningen
+
+1. Alderspensjon fra tjenestepensjonsordning samordnes med alderspensjon etter [folketrygdloven kapittel 20](lov/1997-02-28-19/kap20) ved at det fastsettes en samordningsbeholdning som danner grunnlaget for beregning av samordningsfradraget. Det er pensjonsbeholdningen etter [folketrygdloven § 20-4](lov/1997-02-28-19/§20-4), garantipensjonsbeholdningen etter [folketrygdloven § 20-11](lov/1997-02-28-19/§20-11) og garanti for opptjente rettigheter etter [folketrygdloven § 20-20](lov/1997-02-28-19/§20-20) som danner grunnlag for samordningsbeholdningen.
+2. Samordningen foretas tidligst fra måneden etter at pensjonisten fyller 67 år. Dersom tjenestepensjonen tas ut før eller ved fylte 67 år, og alderspensjon fra folketrygden tas ut ved fylte 67 år, tas det utgangspunkt i beholdningene etter [folketrygdloven §§ 20-4](lov/1997-02-28-19/§20-4), [20-11](lov/1997-02-28-19/§20-11) og [20-20](lov/1997-02-28-19/§20-20) ved fylte 67 år. Er det tatt ut hel eller delvis alderspensjon fra folketrygden før fylte 67 år, tas det utgangspunkt i beholdningene som pensjonisten ville hatt rett til dersom alderspensjonen var tatt ut ved fylte 67 år.Dersom tjenestepensjonen tas ut etter fylte 67 år, og alderspensjon fra folketrygden tas ut fra samme tidspunkt, tas det utgangspunkt i beholdningene på uttakstidspunktet. Er det tatt ut hel eller delvis alderspensjon fra folketrygden på et tidligere tidspunkt, tas det utgangspunkt i beholdningene som pensjonisten ville hatt rett til dersom alderspensjonen var tatt ut samtidig med tjenestepensjonen.Samordningsbeholdningen er 98 prosent av beholdningene etter første eller andre ledd.
+3. Samordningsfradraget fastsettes ved å dividere samordningsbeholdningen med et delingstall fastsatt etter [folketrygdloven § 20-13](lov/1997-02-28-19/§20-13). Dersom tjenestepensjonen tas ut før eller ved fylte 67 år, legges delingstallet ved fylte 67 år til grunn. Dersom tjenestepensjonen tas ut etter fylte 67 år, benyttes delingstallet på uttakstidspunktet.
+4. Tillegg til alderspensjon etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) femte ledd eller [folketrygdloven § 19-15](lov/1997-02-28-19/§19-15) andre ledd og [§ 20-19](lov/1997-02-28-19/§20-19) andre ledd skal gå til fradrag i alderspensjon fra tjenestepensjonsordning.
+5. Det gis et tillegg til tjenestepensjonen som tilsvarer 2,5 ganger folketrygdens grunnbeløp, dividert med delingstall fastsatt etter [folketrygdloven § 20-13](lov/1997-02-28-19/§20-13). Dersom tjenestepensjonen tas ut før eller ved fylte 67 år, legges delingstallet ved fylte 67 år til grunn. Dersom tjenestepensjonen tas ut etter fylte 67 år, benyttes delingstallet på uttakstidspunktet.
+6. Samordningsfradraget etter nr. 3, fradrag etter nr. 4 og tillegg etter nr. 5 skal begrenses forholdsmessig hvis pensjonisten ikke har full tjenestetid i tjenestepensjonsordningen.
+7. Er alderspensjonen fra folketrygden gradert, skal det ved beregningen etter nr. 2 og 3 legges til grunn en ugradert alderspensjon. Er tjenestepensjonen gradert, skal samordningsfradraget etter nr. 3, fradrag etter nr. 4 og tillegg etter nr. 5 settes ned forholdsmessig ut fra graden i tjenestepensjonen.
+8. Samordningsfradraget etter nr. 3 skal reguleres etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) annet, fjerde og sjuende ledd. Tillegg i tjenestepensjonen etter nr. 5 skal reguleres på samme måte.
+9. Når opptjeningen i folketrygden for årene til og med det året tjenestepensjonen ble tatt ut, senere legges til utbetalt alderspensjon fra folketrygden, skal det foretas en ny samordningsberegning fra samme tidspunkt som folketrygden omregnes, se [folketrygdloven § 20-16](lov/1997-02-28-19/§20-16) og [§ 20-17](lov/1997-02-28-19/§20-17).
+10. Dersom pensjonisten har tatt ut hel tjenestepensjon ved fylte 67 år eller senere, skal opptjening i folketrygden for årene fra og med året etter det året tjenestepensjonen ble tatt ut, holdes utenfor samordningen.
+11. Departementet kan gi forskrift om gjennomføringen av denne paragrafen, blant annet regler om beregningen av samordningsfradraget etter nr. 9.
+
+> Tilføyd ved lov [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)), endret ved lover [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+
+### § 24 b. Særskilte bestemmelser om samordningen for personer som får samordningsfradraget beregnet etter både § 24 og § 24 a
+
+Det beregnes samordningsfradrag både etter [§ 24](lov/1957-07-06-26/§24) og [§ 24 a](lov/1957-07-06-26/§24a). Personer som er født i 1954, får 9/10 av samordningsfradraget etter [§ 24](lov/1957-07-06-26/§24) og 1/10 etter [§ 24 a](lov/1957-07-06-26/§24a). Andelen beregnet etter [§ 24 a](lov/1957-07-06-26/§24a) reduseres med 1/10 for hvert senere årskull, slik at personer født i 1962 får 1/10 av samordningsfradraget beregnet etter [§ 24](lov/1957-07-06-26/§24) og 9/10 beregnet etter [§ 24 a](lov/1957-07-06-26/§24a).
+
+Personer som er født i 1954, får 1/10 av tillegget etter [§ 24 a](lov/1957-07-06-26/§24a) nr. 5. Andelen økes med 1/10 for hvert senere årskull, slik at personer født i 1962 får 9/10 av tillegget.
+
+Fradragene etter første ledd begrenses til en tilsvarende andel av tjenestepensjonen etter levealdersjustering.
+
+> Tilføyd ved lov [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)), endret ved lov [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)).
+
+### § 24 c. Samordning av oppsatt alderspensjon fra tjenestepensjonsordning med alderspensjon fra folketrygden for medlemmer født i 1963 eller senere som er omfattet av påslagspensjon mv. fra tjenestepensjonsordningen
+
+1. Ved uttak av oppsatt alderspensjon før fylte 67 år skal det gjøres en foreløpig samordning med alderspensjon fra folketrygden. Det fastsettes da en foreløpig samordningsbeholdning med utgangspunkt i pensjonsbeholdningen etter [folketrygdloven § 20-4](lov/1997-02-28-19/§20-4), garantipensjonsbeholdningen etter [folketrygdloven § 20-11](lov/1997-02-28-19/§20-11) og garanti for opptjente rettigheter etter [folketrygdloven § 20-20](lov/1997-02-28-19/§20-20). Er alderspensjonen fra folketrygden tatt ut samtidig som tjenestepensjonen, tas det utgangspunkt i beholdningene på uttakstidspunktet. Er alderspensjonen fra folketrygden tatt ut på et tidligere tidspunkt enn tjenestepensjonen, tas det utgangspunkt i beholdningene som pensjonisten ville hatt rett til dersom pensjonene var tatt ut samtidig. I beholdningene inngår også en forskuttert opptjening basert på 5 ganger folketrygdens grunnbeløp årlig fram til 67 år. Den foreløpige samordningsbeholdningen er 98 prosent av beholdningene. Samordningsfradraget fastsettes ved å dividere den foreløpige samordningsbeholdningen med delingstallet på uttakstidspunktet for tjenestepensjonen. Delingstallet fastsettes etter [folketrygdloven § 20-13](lov/1997-02-28-19/§20-13).
+2. Når oppsatt alderspensjon er tatt ut før fylte 67 år, skal det foretas ny samordning fra måneden etter fylte 67 år. Det tas da utgangspunkt i beholdningene etter [folketrygdloven §§ 20-4](lov/1997-02-28-19/§20-4), [20-11](lov/1997-02-28-19/§20-11) og [20-20](lov/1997-02-28-19/§20-20) slik de ville ha vært ved uttak ved 67 år. Samordningsbeholdningen er 98 prosent av beholdningene. Samordningsfradraget skal likevel beregnes med delingstallet på uttakstidspunktet for tjenestepensjonen, og det skal tas hensyn til regulering fra uttakstidspunktet fram til 67 år.
+3. Ved den nye samordningen ved 67 år skal det foretas et samordningsoppgjør. Samordningsoppgjøret settes lik endring i månedlig utbetaling av oppsatt alderspensjon, multiplisert med antall måneder med mottak av slik alderspensjon. Dersom månedlig pensjon økes, skal det utbetales et engangsbeløp. Dersom månedlig pensjon reduseres, skal det innkreves et engangsbeløp.
+4. Ved uttak av oppsatt alderspensjon ved eller etter fylte 67 år tas det utgangspunkt i beholdningene etter [folketrygdloven §§ 20-4](lov/1997-02-28-19/§20-4), [20-11](lov/1997-02-28-19/§20-11) og [20-20](lov/1997-02-28-19/§20-20) som pensjonisten ville hatt rett til dersom alderspensjonen fra folketrygden og tjenestepensjonen var tatt ut samtidig, men likevel bare opptjening til og med året pensjonisten fyller 67 år. Samordningsfradraget fastsettes ved å dividere samordningsbeholdningen med delingstallet på uttakstidspunktet. Delingstallet fastsettes etter [folketrygdloven § 20-13](lov/1997-02-28-19/§20-13).
+5. Det samordnes ikke med alderspensjon fra folketrygden som er opptjent fra og med året etter fylte 67 år. Når opptjeningen i folketrygden for årene til og med det året pensjonisten fyller 67 år senere legges til utbetalt alderspensjon fra folketrygden, skal det foretas en ny samordningsberegning fra samme tidspunkt som folketrygden omregnes, se [folketrygdloven § 20-16](lov/1997-02-28-19/§20-16) og [§ 20-17](lov/1997-02-28-19/§20-17).
+6. Tillegg til alderspensjon etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) femte ledd skal gå til fradrag i alderspensjon fra tjenestepensjonsordning.
+7. Det gis et tillegg til tjenestepensjonen som tilsvarer 2,5 ganger folketrygdens grunnbeløp, dividert med delingstallet på uttakstidspunktet fastsatt etter [folketrygdloven § 20-13](lov/1997-02-28-19/§20-13).
+8. Samordningsfradrag etter bestemmelsen her og tillegg etter nr. 7 skal begrenses forholdsmessig hvis pensjonisten ikke har full tjenestetid i tjenestepensjonsordningen.
+9. Er alderspensjonen fra folketrygden gradert, skal det ved beregningen av samordningsfradraget legges til grunn en ugradert alderspensjon.
+10. Samordningsfradrag etter nr. 1 til nr. 4 skal reguleres etter [folketrygdloven § 20-18](lov/1997-02-28-19/§20-18) andre, fjerde og sjuende ledd. Tillegg etter nr. 7 skal reguleres på samme måte.
+11. Departementet kan gi forskrift om gjennomføringen av denne paragrafen.
+
+> Tilføyd ved lov [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), endret ved lover [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+
+### § 24 d. Samordning når deler av folketrygdytelsen ikke reguleres årlig
+
+Når det ytes brutto tjenestepensjon som samordnes med alderspensjon eller uføretrygd fra folketrygden til en gjenlevende ektefelle, og deler av folketrygdytelsen ikke blir regulert årlig med virkning fra 1. mai, skal likevel samordningsfradraget for denne delen av folketrygdytelsen reguleres.
+
+> Tilføyd ved lov [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)).
+
+### § 25. Samordning med avtalefestet pensjon i privat sektor
+
+Ytes det samtidig alderspensjon fra tjenestepensjonsordning og avtalefestet pensjon etter [AFP-tilskottsloven kapittel 2](lov/2010-02-19-5/kap2), skal 15 prosent av den avtalefestede pensjonen for årskullene til og med 1962-kullet gå til fradrag i tjenestepensjonen fra og med måneden etter pensjonisten fyller 67 år. Det samme gjelder kompensasjonstillegg etter [AFP-tilskottsloven kapittel 3](lov/2010-02-19-5/kap3).
+
+Fradragene etter første ledd begrenses forholdsmessig hvis pensjonisten ikke har full tjenestetid i tjenestepensjonsordningen. Dersom det er tatt ut avtalefestet pensjon før fylte 67 år, foretas samordningen som om det var tatt ut avtalefestet pensjon ved 67 år.
+
+Samordningsfradrag for avtalefestet pensjon etter [AFP-tilskottsloven kapittel 2](lov/2010-02-19-5/kap2) reguleres etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) annet og sjuende ledd. Samordningsfradrag for kompensasjonstillegg etter [AFP-tilskottsloven § 3](lov/2010-02-19-5/§3) reguleres ikke.
+
+> Tilføyd ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), endret ved lov [15 juni 2018 nr. 30](lov/2018-06-15-30) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2051](forskrift/2018-12-20-2051)).
+
+## Kapitel VIII. Forskjellige bestemmelser.
+
+> Kapitlet endret ved lover 8 juni 1979 nr. 52 (tidligere kapittel VI med §§ 23–27), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere kapittel VII).
+
+### § 26
+
+Den som krever en pensjons- eller trygdeytelse som omhandles i denne loven, plikter å gi pensjons- eller trygdeordningen opplysninger om han eller hun mottar eller har rett til andre pensjons- og trygdeytelser som omfattes av loven.
+
+Den som mottar en ytelse, plikter å underrette pensjons- eller trygdeordningen om forhold som etter denne loven kan føre til at ytelsen skal endres eller falle bort. Det samme gjelder når endring eller bortfall av ytelser skjer etter særskilte bestemmelser for pensjons- og trygdeordninger som omfattes av denne loven.
+
+Den som unnlater å gi opplysninger etter første og andre ledd, eller som gir uriktige opplysninger, straffes med bøter.
+
+> Endret ved lover 8 juni 1979 nr. 52 (tidligere § 23), [23 juni 2000 nr. 55](lov/2000-06-23-55), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 24), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+
+### § 27
+
+1. Pensjons- eller trygdeordninger som foretar beregning og utbetaling av ytelser som omfattes av denne loven, skal bistå hverandre med opplysninger om at ytelser er innvilget, endret eller opphørt. Dette gjelder også saker der det ikke skal foretas samordning etter bestemmelsene i loven her. Der ytelsene skal samordnes, skal det utveksles opplysninger som er nødvendig for å foreta samordningen.
+
+2. Nødvendige opplysninger kan utveksles mellom ordningene uten hinder av taushetsplikt. Svikt ved utveksling av opplysninger skal ikke gi grunnlag for erstatning etter lov [13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [kapittel 2](lov/1969-06-13-26/kap2). Departementet gir forskrift om registrering og utveksling av opplysninger (meldesystem).
+
+> Endret ved lover 8 juni 1979 nr. 52 (tidligere § 24), [23 juni 2000 nr. 55](lov/2000-06-23-55), [21 des 2000 nr. 124](lov/2000-12-21-124) (ikr. 1 jan 2001), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 25), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)).
+
+### § 28
+
+1. Dersom en ytelse fra en pensjons- eller trygdeordning som omfattes av denne loven settes ned eller faller bort med tilbakevirkning, og en ytelse fra en annen ordning er innvilget eller forhøyet med virkning for samme tidsrom, kan beløp som er utbetalt for mye, trekkes i den sistnevnte ytelsen. Dette gjelder både når endringen skjer etter bestemmelser i denne loven og etter særskilte bestemmelser om samordning og tilpassing av ytelser som er fastsatt for pensjons- eller trygdeordningene.
+
+2. Departementet gir forskrift om gjennomføring av bestemmelsen her, herunder om frist for å fremme refusjonskrav.
+
+> Opphevet ved lov [16 mai 1986 nr. 21](lov/1986-05-16-21), tilføyd igjen ved lov [23 juni 2000 nr. 55](lov/2000-06-23-55), endret ved lov [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 26).
+
+### § 29
+
+1. Er det utbetalt et for høyt beløp fordi det ikke er foretatt samordning eller tilpassing av ytelser, eller fordi samordningen eller tilpassingen er feil, skal den pensjons- eller trygdeordning som har lidt tapet, kreve beløpet tilbakebetalt såfremt vilkårene i nr. 2-4 er oppfylt. Dette gjelder også der det skulle skjedd samordning eller tilpassing med tilbakevirkning fordi en ytelse fra en annen pensjons- og trygdeordning er innvilget eller forhøyet med tilbakevirkning.
+
+2. Dersom en ytelse er mottatt i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. En ytelse kan også kreves tilbake når mottakeren av ytelsen eller noen som har handlet på mottakerens vegne, uaktsomt har gitt feilaktige eller mangelfulle opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra pensjons- og trygdeordningens side og mottakeren burde ha forstått dette. Beløpet kan dekkes ved trekk i framtidige ytelser fra pensjons- og trygdeordningen.
+
+3. I andre tilfeller enn nevnt i nr. 2, kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner, skal det blant annet legges vekt på hvor lang tid det er gått siden den feilaktige utbetalingen fant sted, og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette nummeret er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.
+
+4. Skyldes feilutbetalingen at mottakeren ikke har gitt pensjons- og trygdeordningen melding som nevnt i bokstav a-c om en ytelse fra en annen ordning, skal det som er utbetalt for mye avregnes ved trekk i framtidig ytelse. Det er et vilkår at pensjons- og trygdeordningen har informert om meldeplikten etter [§ 26](lov/1957-07-06-26/§26). Avregningsordningen gjelder når mottakeren ikke har gitt melding om aten ytelse er innvilget eller opphørt,en ytelse har fått endret uføregrad,en ytelse er blitt endret pga. inntekt.Trekket kan foretas i mottakerens ytelser fra samme pensjons- og trygdeordning uansett pensjonsart. Det kan trekkes opp til et beløp på 10 pst. av samlet månedlig utbetaling av ytelser som omfattes av denne loven.
+
+5. Trekk etter nr. 2 og nr. 4 avbryter foreldelse etter [lov 18. mai 1979 nr. 18](lov/1979-05-18-18) om foreldelse av fordringer. Dersom slikt trekk opphører, varer virkningen av avbrutt foreldelse i ett år etter at trekket opphørte.
+
+> Tilføyd ved lov [23 juni 2000 nr. 55](lov/2000-06-23-55), endret ved lover [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 26a), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)).
+
+### § 30
+
+Departementet gir nærmere forskrifter til gjennomføring av loven. Når særlige grunner taler for det, kan departementet fravike lovens bestemmelser til fordel for enkelte pensjonister eller grupper av pensjonister.
+
+> Endret ved lover 8 juni 1979 nr. 52 (tidligere § 26), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 27).
+
+### § 31
+
+1. Departementet gir nærmere regler om samordning for de tilfelle hvor pensjonisten ikke har grunnpensjon for full trygdetid etter bestemmelsene i loven om folketrygd.
+
+2. Departementet kan gi nærmere regler om begrensning av det samlede fradrag som kan gjøres for tilleggspensjon etter lov om folketrygd når en person har rett til to eller flere tjenestepensjoner eller trygder.
+
+3. Departementet gir forskrifter om redusert samordningsfradrag for grunnpensjon fra folketrygden i tjenestepensjon og yrkesskadetrygdpensjon for deltidsansatte i forhold til arbeidstiden.
+
+> Tilføyd ved lov 17 juni 1966 nr. 17, endret ved lover 8 juni 1979 nr. 52, [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 28).
+
+### § 32
+
+Denne lov trer i kraft 1. januar 1959.
+
+Ved gjennomføringen av bestemmelsene i denne lov skal pensjons- eller trygdeytelser til person som før lovens ikrafttreden oppebar slik ytelse, ikke settes ned mer enn at summen av ytelsene blir den samme som den var ved lovens ikrafttreden.
+
+Dersom særlige grunner taler for det, kan departementet fastsette at lovens bestemmelser i en overgangstid heller ikke skal gjøres gjeldende – eller bare gjøres delvis gjeldende – for visse personer eller persongrupper som først får pensjon etter lovens ikrafttreden.
+
+> Endret ved lover 8 juni 1979 nr. 52 (tidligere § 27), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011, tidligere § 29).

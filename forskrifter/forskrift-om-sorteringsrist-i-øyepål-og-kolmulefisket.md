@@ -1,0 +1,106 @@
+---
+id: "sf-20090430-0471"
+slug: "forskrift-om-sorteringsrist-i-øyepål-og-kolmulefisket"
+type: "forskrift"
+ref_id: "forskrift/2009-04-30-471"
+title: "Forskrift om utforming og innmontering av sorteringsrist i fisket etter kolmule og øyepål med småmasket trål"
+short_title: "Forskrift om sorteringsrist i øyepål- og kolmulefisket"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2009-04-30"
+last_change_in_force: "2022-11-01"
+last_updated: null
+xml_hash: "ad1d32b270790021f1cc3b905aa2b14234fade5697f85bf168106bbdaadc76ce"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om utforming og innmontering av sorteringsrist i fisket etter kolmule og øyepål med småmasket trål
+
+## § 1. Virkeområde
+
+Denne forskriften gjelder for norske og utenlandske fartøy som fisker etter kolmule og øyepål i farvann under norsk fiskerijurisdiksjon.
+
+> Tilføyd ved [forskrift 6 feb 2015 nr. 109](forskrift/2015-02-06-109).
+
+## § 2. Påbud om bruk av sorteringsrist
+
+I fisket etter kolmule og øyepål skal det benyttes sorteringsrist.
+
+Sorteringsristen skal oppfylle vilkårene i [§ 4](forskrift/2009-04-30-471/§4) – § 8.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 1).
+
+## § 3. Unntak
+
+Fartøy som er egnet, bemannet og utstyrt for produksjon av fisk til konsum, er unntatt fra påbudet i [§ 2](forskrift/2009-04-30-471/§2) under forutsetning av at konsumfisken tas vare på og at den landes og omsettes til konsum.
+
+Fiskeridirektoratet kan kreve kontroll av at fartøy oppfyller vilkårene nevnt i første ledd.
+
+Ved landing av fangst i utlandet skal det for norske fartøy som nevnt i første ledd sendes melding om dette senest 24 timer før ankomst leveringssted. Meldingen skal sendes per e-post til [fmc@fiskeridir.no](mailto:fmc@fiskeridir.no) E-postens emnefelt skal være «Industririst». Innholdet i e-posten skal angis med elementene: Radiokallesignal (RC), tidspunkt for landing i UTC (TI), havn (PO) og landingsanlegg (LS).
+
+> Tilføyd ved [forskrift 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010), endret ved [forskrifter 31 jan 2013 nr. 124](forskrift/2013-01-31-124), [28 mars 2014 nr. 353](forskrift/2014-03-28-353), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 2), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022).
+
+## § 4. Spileavstand
+
+Sorteringsristens spileavstand skal ikke overstige 40 mm.
+
+Uten hinder av første ledd kan det ved fiske etter kolmule i Norges økonomiske sone nord for 62° N benyttes sorteringsrist med største spileavstand på 55 mm.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 2), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 3), [17 april 2015 nr. 385](forskrift/2015-04-17-385), [30 mars 2016 nr. 332](forskrift/2016-03-30-332), [22 des 2016 nr. 1864](forskrift/2016-12-22-1864) (i kraft 1 jan 2017).
+
+## § 5. Montering
+
+Sorteringsristen(e) skal monteres tverrveien i trålen på en slik måte at tre av sidene av risten(e) er festet til trålen. Det vil si at overpanelet og sidepaneler er sydd fast i rammeverket på risten(e). Underkant av risten(e) skal festes til en ledetunnel/ledepanel for utsortering av fisk. Sorteringsristen(e) monteres i forkant av fiskeposen eller i fiskeposens forlengelse.
+
+Helningsvinkelen på sorteringsristen skal ikke overstige 50°.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 3), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 4).
+
+## § 6. Fiskeutslipp
+
+I trålens underpanel skal det være et rektangulært fiskeutslipp for å lede bort utsortert fisk.
+
+Fiskeutslippets åpning skal være i bakkant av sorteringsristens nedre del. Fiskeutslippets bredde skal være lik sorteringsristens bredde, og starte en meter bak ristens nedre og bakre kant. Fiskeutslippets forkant skjæres maskerett tvers over underpanelet. Sidene i fiskeutslippet skjæres maskerett bakover ca. 60 cm langs underleis på begge sider og deretter maskerett tvers over underpanelet (slik at fiskeutslippet får en rektangulær form).
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 4), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 5).
+
+## § 7. Ledetunnel
+
+Det skal benyttes ledetunnel fra ristens nedre del og bakover til bakkant av fiskeutslippet.
+
+Ledetunnelen skal være sydd fast i nedre og bakre kant av sorteringsrist, bakover langs leisene og langs fiskeutslippets bakre kant.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 5), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 6), [19 mai 2017 nr. 632](forskrift/2017-05-19-632).
+
+## § 8. Spesifikasjoner
+
+Det kan benyttes to typer sorteringsrister:«Flexipanel», som er bygd opp av plastrør og bundet sammen av spektra tauRister av stål eller plast.
+
+Største tillatte dimensjoner (lengde x bredde) på «Flexipanel» er 360 cm x 180 cm.
+
+Ved bruk av rister av stål eller plast skal ristenes totale lengde ikke overstige 360 cm. Ristenes lengde kan fordeles på opp til seks like lange rister. En rist av stål eller plast skal ha en bredde på maksimum 180 cm og minimum 130 cm.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 6), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 7), [19 mai 2017 nr. 632](forskrift/2017-05-19-632).
+
+## § 9. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til [havressurslova § 59](lov/2008-06-06-37/§59) og [forskrift 20. desember 2011 nr. 1437](forskrift/2011-12-20-1437) om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.
+
+> Tilføyd ved [forskrift 26 okt 2017 nr. 1687](forskrift/2017-10-26-1687).
+
+## § 10. Straff
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i denne forskriften straffes etter [lov 6. juni 2008 nr. 37](lov/2008-06-06-37) om forvaltning av viltlevande marine ressursar [§ 61](lov/2008-06-06-37/§61) og [§ 64](lov/2008-06-06-37/§64) og [lov 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone [§ 8](lov/1976-12-17-91/§8). På samme måte straffes medvirkning og forsøk.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 7), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 8), [26 okt 2017 nr. 1687](forskrift/2017-10-26-1687) (tidligere § 9).
+
+## § 11. Ikrafttredelse
+
+Denne forskriften trer i kraft straks.
+
+> Endret ved [forskrifter 7 april 2010 nr. 515](forskrift/2010-04-07-515) (i kraft 1 mai 2010, tidligere § 8), [6 feb 2015 nr. 109](forskrift/2015-02-06-109) (tidligere § 9), [26 okt 2017 nr. 1687](forskrift/2017-10-26-1687) (tidligere § 10).

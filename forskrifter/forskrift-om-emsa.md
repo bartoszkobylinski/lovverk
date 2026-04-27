@@ -1,0 +1,34 @@
+---
+id: "sf-20110311-0271"
+slug: "forskrift-om-emsa"
+type: "forskrift"
+ref_id: "forskrift/2011-03-11-271"
+title: "Forskrift om det europeiske sjøsikkerhetsbyrået EMSA (European Maritime Safety Agency)"
+short_title: "Forskrift om EMSA"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2011-03-11"
+last_change_in_force: "2024-01-26"
+last_updated: null
+xml_hash: "6549cbe4a39ff8ba689448b6e660e08c53afab25b6cbae116a5f2b16cd696e65"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om det europeiske sjøsikkerhetsbyrået EMSA (European Maritime Safety Agency)
+
+## § 1. Det europeiske sjøsikkerhetsbyrået EMSA
+
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 56o (forordning [(EF) nr. 1406/2002](eu/32002r1406), som endret ved forordning [(EF) nr. 1644/2003](eu/32003r1644), forordning [(EF) nr. 724/2004](eu/32004r0724), forordning [(EF) nr. 1891/2006](eu/32006r1891) som rettet til forordning [(EF) nr. 2038/2006](eu/32006r2038), forordning [(EU) nr. 100/2013](eu/32013r0100) og forordning [(EU) nr. 2016/1625](eu/32016r1625)) om opprettelse av et europeisk sjøsikkerhetsbyrå gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrift [26 jan 2024 nr. 120](forskrift/2024-01-26-120).
+
+## § 2. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+## Forordninger

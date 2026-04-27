@@ -1,0 +1,44 @@
+---
+id: "sf-20161111-1308"
+slug: "forskrift-om-unntak-fra-bioteknologiloven-for-farmakogenetiske-undersøkelser"
+type: "forskrift"
+ref_id: "forskrift/2016-11-11-1308"
+title: "Forskrift om unntak fra bioteknologiloven for farmakogenetiske undersøkelser"
+short_title: "Forskrift om unntak fra bioteknologiloven for farmakogenetiske undersøkelser"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2017-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "e1ce942881586f8e1fd049db8d82227de5d14aa5cedc8f7b502d20c56f13174e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om unntak fra bioteknologiloven for farmakogenetiske undersøkelser
+
+## § 1. Formål
+
+Formålet med forskriften er å legge til rette for bruk av farmakogenetiske undersøkelser.
+
+## § 2. Definisjon av farmakogenetiske undersøkelser
+
+Med farmakogenetiske undersøkelser menes i denne forskrift genetiske tester som foretas for å undersøke forventet respons eller for å forklare respons hos pasienter på relevante legemiddel.
+
+## § 3. Farmakogenetiske undersøkelser og unntak fra bioteknologiloven
+
+Bioteknologilovens krav om skriftlig samtykke, jf. § 5-4, genetisk veiledning, jf. § 5-5, godkjenning av virksomheten, jf. § 7-1, og rapportering, jf. § 7-2, gjelder ikke for farmakogenetiske undersøkelser.
+
+Unntakene i første ledd gjelder ikke for tester som også er tatt i bruk i klinisk praksis for å predikere fremtidig sykdom.
+
+## § 4. Forholdet til pasient- og brukerrettighetsloven
+
+Pasient- og brukerrettighetsloven gjelder ved farmakogenetiske undersøkelser, blant annet kapittel 3 om rett til medvirkning og informasjon og kapittel 4 om samtykke til helsehjelp.
+
+## § 5. Ikrafttredelse
+
+Forskriften trer i kraft 1. januar 2017.

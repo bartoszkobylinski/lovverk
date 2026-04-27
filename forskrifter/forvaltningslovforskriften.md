@@ -1,0 +1,350 @@
+---
+id: "sf-20061215-1456"
+slug: "forvaltningslovforskriften"
+type: "forskrift"
+ref_id: "forskrift/2006-12-15-1456"
+title: "Forskrift til forvaltningsloven (forvaltningslovforskriften)"
+short_title: "Forvaltningslovforskriften"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2007-01-01"
+last_change_in_force: "2025-11-14"
+last_updated: "2021-10-18"
+xml_hash: "bcac7efd3eaa82ee0046938a6c3ceb827de04de6832b9df8d60ee1a51a32d6cd"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift til forvaltningsloven (forvaltningslovforskriften)
+
+## Kapittel 1. Innledende bestemmelser
+
+### § 1. Virkeområde
+
+Forskriften gir bestemmelser som utfyller, presiserer og gjør unntak fra forvaltningsloven, når ikke annet følger av ellers gjeldende bestemmelser.
+
+## Kapittel 2. Veiledningsplikten etter forvaltningsloven § 11
+
+### § 2. Skriftlig eller muntlig veiledning
+
+Forvaltningsorganet avgjør selv om veiledningen til parter og andre skal gis skriftlig eller muntlig. Det skal legges vekt på ønsket og behovet til den som skal få veiledning.
+
+### § 3. Bistand til utfylling
+
+Bare når det er særskilt bestemt, har forvaltningsorganet plikt til å sette opp søknader, brev eller tilsvarende. Organet bør imidlertid hjelpe til med å fylle ut skjemaer og utarbeide klager og andre dokumenter når det synes å være behov for slik hjelp.
+
+### § 4. Bistand ved henvendelse til feil organ
+
+Skriftlig henvendelse som er kommet til urette myndighet, bør i alminnelighet oversendes rett myndighet direkte, samtidig som avsenderen underrettes om oversendingen.
+
+Gjelder henvendelsen veiledning eller bistand i sak som hører under overordnet eller underordnet organ eller sideordnet organ i annet distrikt, bør organet selv gi veiledning eller bistand dersom det er mest praktisk for vedkommende som har henvendt seg
+
+### § 5. Krav til offentlige skjemaer
+
+Søknadsskjemaer o.l. som det offentlige utarbeider til bruk for parter og andre i forvaltningssaker, skal gi nødvendig veiledning om utfyllingen og om dokumentasjon som bør være vedlagt.
+
+Dersom det er praktisk mulig, bør søknadsskjemaer o.l. også gi veiledning om de regler som gjelder på vedkommende saksområde.
+
+### § 6. Veiledning til parter med motstridende interesser
+
+Er det to eller flere parter med motstridende interesser i en sak, må veiledning eller bistand gis på en måte som ikke kan gi grunn til å trekke forvaltningens objektivitet i tvil.
+
+### § 7. Gebyr eller annet vederlag
+
+Det kan ikke kreves gebyr eller annet vederlag for veiledning eller bistand som gis i medhold av forvaltningsloven [§ 11](forskrift/2006-12-15-1456/§11) eller forskriften her.
+
+## Kapittel 3. Taushetsplikt og Rådet for taushetsplikt og forskning
+
+### § 8. Myndighet til å gi forskerinnsyn
+
+Myndighet etter [forvaltningsloven § 13d](lov/1967-02-10/§13d) første ledd utøves av det enkelte departement. Når departementet finner det forsvarlig, kan myndigheten delegeres til direktorat eller annet sentralt, direkte underordnet forvaltningsorgan for så vidt gjelder opplysninger i saker på vedkommende underordnede organs ansvarsområde. For øvrig kan myndigheten bare delegeres fraKulturdepartementet til RiksarkivarenJustis- og beredskapsdepartementet til kriminalomsorgsregionene og DomstoladministrasjonenHelse- og omsorgsdepartementet til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
+
+For opplysninger som befinner seg i kommunale arkiver, kan departementet, når det finner det forsvarlig og etter samtykke fra Kulturdepartementet, delegere myndigheten til Riksarkivaren.
+
+Når ikke annet følger av eller i medhold av lov, er departementet klageinstans for vedtak truffet på grunnlag av myndighet delegert fra departementet etter bestemmelsen her.
+
+> Endret ved [forskrifter 29 mai 2009 nr. 578](forskrift/2009-05-29-578), [26 juni 2009 nr. 868](forskrift/2009-06-26-868) (i kraft 1 juli 2009), [21 aug 2009 nr. 1098](forskrift/2009-08-21-1098), [24 juni 2011 nr. 627](forskrift/2011-06-24-627), [4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 9. Rådet for taushetsplikt og forskning
+
+Før det blir truffet vedtak om å gi opplysninger undergitt taushetsplikt til bruk for forskning eller å avslå en begjæring om å få slike opplysninger, skal saken forelegges for Rådet for taushetsplikt og forskning. Bare Kongen kan frita for taushetsplikt i strid med Rådets uttalelse.
+
+Dersom departementet eller et annet organ med myndighet som nevnt i [§ 8](forskrift/2006-12-15-1456/§8) finner det klart at søknaden bør innvilges eller avslås, behøver saken ikke forelegges for Rådet. Ved avgjørelsen av om en sak ikke skal forelegges for Rådet, skal det særlig legges vekt på om de opplysninger det søkes om tilgang til, må anses som følsomme. Ellers bør det legges vekt på om den materialet skal stilles til rådighet for, har betryggende faglig kompetanse eller er undergitt forsvarlig faglig veiledning.
+
+Saken skal i alle tilfelle forelegges Rådet dersom forskeren skal ta direkte kontakt med de personene opplysningene angår. Første punktum gjelder ikke for saker som behandles av den regionale komiteen for medisinsk og helsefaglig forskningsetikk i medhold av [§ 8](forskrift/2006-12-15-1456/§8) første ledd bokstav c.
+
+Saker om innsyn i etterretnings-, overvåkings- og sikkerhetstjenestens arkiver og registre forelegges ikke for Rådet.
+
+> Endret ved [forskrift 24 juni 2011 nr. 627](forskrift/2011-06-24-627).
+
+### § 10. Bortfall av taushetsplikt i barnevern- og adopsjonssaker
+
+I barnevernsaker og adopsjonssaker faller taushetsplikten bort etter 100 år.
+
+### § 11. Forlenget taushetsplikt i arkivverket
+
+Når hensynet til personvern tilsier det, kan Riksarkivaren i det enkelte tilfelle bestemme at taushetsplikten for opplysninger i saker som oppbevares i arkivverket, skal gjelde ut over 60 år eller ut over den frist som ellers gjelder for bortfall av taushetsplikt.
+
+## Kapittel 4. Partsinnsyn
+
+### § 12. Organinterne dokumenter i barnevernsaker
+
+Dokumenter som en barneverntjeneste i saker etter [lov 18. juni 2021 nr. 97 om barnevern](lov/2021-06-18-97) innhenter fra en annen barneverntjeneste, skal anses som utarbeidet av tjenesten selv etter [forvaltningsloven § 18a](lov/1967-02-10/§18a), jf. likevel loven [§ 18c](lov/1967-02-10/§18c). Tilsvarende gjelder for saker etter eldre lovgivning om barnevern.
+
+> Endret ved [forskrifter 4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 13. Unntak etter pristiltaksloven
+
+I saker etter [lov 11. juni 1993 nr. 66](lov/1993-06-11-66) om pristiltak [§ 1](lov/1993-06-11-66/§1) har en part ikke krav på å gjøre seg kjent med bearbeidelse av faktum etter [forvaltningsloven § 18c](lov/1967-02-10/§18c) når saken gjelder en hel bransje eller en vesentlig del av en bransje. Det samme gjelder innstillingen fra Konkurransetilsynet til departementet i slike saker.
+
+> Endret ved [forskrift 4 april 2014 nr. 392](forskrift/2014-04-04-392).
+
+### § 13a. Organinterne dokumenter i statlige og statlig tilknyttede organer
+
+Unntaket i [forvaltningsloven § 18a](lov/1967-02-10/§18a) første ledd om organinterne dokumenter gjelder ikke for dokumenter fra administrasjonen til styret i foretak etter helseforetaksloven og fra administrasjonen til kollegial enhet ved universiteter og høyskoler.
+
+> Tilføyd ved [forskrift 17 okt 2008 nr. 1119](forskrift/2008-10-17-1119) (i kraft 1 jan 2009).
+
+## Kapittel 5. Partsinnsyn i saker om tilsetting i den offentlige forvaltning
+
+### § 14. Generelt unntak for saker om tilsetting
+
+Saker om tilsetting i den offentlige forvaltning er unntatt fra reglene om dokumentinnsyn i [forvaltningsloven § 18](lov/1967-02-10/§18). En part har med de begrensninger som følger av [forvaltningsloven § 19](lov/1967-02-10/§19) rett til å gjøre seg kjent med dokumenter i saker om tilsetting etter § 15 til § 19 i forskriften her.
+
+Dersom opplysninger som en part har krav på etter forskriften her er tatt inn i et annet dokument som parten har adgang til, kan forvaltningen vise til dette. Faktiske opplysninger betyr i § 15 til § 19 i forskriften her også sammendrag eller annen bearbeidelse av faktum.
+
+Retten til å gjøre seg kjent med sakens dokumenter gjelder også etter at det er truffet vedtak om tilsetting i saken.
+
+Første ledd gjelder tilsvarende for avgjørelser om oppnevning til offentlige verv som er enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2).
+
+> Endret ved forskrift [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 15. Utvidet søkerliste
+
+En part i en sak om tilsetting har rett til å gjøre seg kjent med samtlige øvrige søkeres navn og alder og fullstendige opplysninger om deres utdanning og praksis i offentlig og privat virksomhet. Slike opplysninger kan forvaltningsorganet sammenfatte i en egen liste (utvidet søkerliste).
+
+### § 16. Partens rett til opplysninger om seg selv
+
+En part i en sak om tilsetting har rett til å gjøre seg kjent med de deler av et dokument som inneholder opplysninger (faktiske opplysninger og vurderinger) om parten selv. Dette gjelder likevel ikke vurderinger som er gjort eller gitt av:tilsettingsorganet eller innstillingsmyndigheten eller noen som forbereder saken for disse eller uttaler seg i egenskap av særlig rådgiver eller sakkyndig for dem,partens nåværende eller tidligere arbeidsgiver eller overordnet eller noen som har handlet på vegne av disse,partens nåværende eller tidligere oppdragsgiver eller i særlige tilfeller person som parten har hatt nær yrkesmessig kontakt med.
+
+### § 17. Partens rett til å gjøre seg kjent med opplysninger som gjelder andre søkere
+
+En part i en sak om tilsetting har rett til å gjøre seg kjent med søknadene fra søkere som er innstilt til eller tilsatt i stillingen, og vedlegg til disse søknadene.
+
+En part har også rett til å gjøre seg kjent med deler av dokumenter som inneholder faktiske opplysninger om søkere som er blitt innstilt, og om den søker som er tilsatt i stillingen. Slike opplysninger kan likevel holdes tilbake dersom de er uten betydning for avgjørelsen.
+
+### § 18. Intervjuer e.l.
+
+En part i en sak om tilsetting har rett til å gjøre seg kjent med skriftlig referat som gjengir hva parten selv har sagt i intervju eller annen samtale med tjenestemann som deltar i forberedelsen av tilsettingssaken, dersom slikt referat er ført.
+
+Dersom skriftlig referat som gjengir hva en søker som er innstilt til eller tilsatt i stillingen har sagt i intervju eller annen samtale, inneholder nye opplysninger eller anførsler av betydning for saken, har parten også rett til å gjøre seg kjent med disse.
+
+En part har ikke krav på å gjøre seg kjent med de vurderinger som er kommet fram i forbindelse med intervjuet eller samtalen.
+
+### § 19. Innstillingen
+
+En part i en sak om tilsetting har rett til å gjøre seg kjent med hvem som er innstilt til stillingen og den rekkefølgen de er innstilt i. Dette gjelder innstillinger som skal gis i medhold av lov, reglement eller avtale med tjenestemannsorganisasjoner.
+
+En part har også rett til å gjøre seg kjent med om det foreligger dissens blant medlemmene av vedkommende innstillingsmyndighet, og i tilfelle hvor mange stemmer hver av de innstilte søkerne har fått.
+
+En part har ikke krav på å få gjøre seg kjent med dokument som inneholder den begrunnelse som innstillingsmyndigheten har gitt for innstillingen. Dette gjelder likevel ikke deler som inneholder nye faktiske opplysninger eller anførsler av betydning for saken.
+
+## Kapittel 6. Begrunnelse for enkeltvedtak og avgjørelser som ikke er enkeltvedtak
+
+> Endret ved forskrift [18 juni 2021 nr. 2010](forskrift/2021-06-18-2010) (i kraft 1 juli 2021).
+
+### § 20. Bedømmelse av eksamen og lignende prestasjoner
+
+Ved bedømmelse av prøve, eksamen eller andre prestasjoner ved skole eller annen undervisningsinstitusjon eller ved særlige prøveorgan kan begrunnelse bare kreves etter de særskilte forskrifter som er eller blir fastsatt.
+
+### § 21. Andre unntak fra begrunnelsesplikten
+
+Begrunnelsesplikten etter [forvaltningsloven § 24 første](lov/1967-02-10/§24/ledd/1) og [annet ledd](lov/1967-02-10/§24/ledd/2) gjelder ikke for:vedtak i sak om benådning av lovbrytere, herunder Justis- og beredskapsdepartementets avslag på benådningssøknaderpåbud som gis av politiet for å opprettholde ro og ordenvedtak om forflytting og opprykk i høyere grad i samsvar med gjeldende befalsordningvedtak om forflytting av flyttepliktige i utenrikstjenesten, jf. [lov 13. februar 2015 nr. 9 om utenrikstjenesten § 7](lov/2015-02-13-9/§7)vedtak i sak om opptak til arbeidsmarkedsopplæring etter [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 7](forskrift/2015-12-11-1598/kap7)vedtak fattet av Gassnova om tildeling av økonomisk støtteavgjørelser om oppnevning til offentlige verv som er enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2).
+
+> Endret ved [forskrifter 18 jan 2007 nr. 53](forskrift/2007-01-18-53), [4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 21 a. Avgjørelser som ikke er enkeltvedtak
+
+Eksportfinansiering Norges avgjørelser om hvorvidt det skal gis lån eller garantier regnes ikke som enkeltvedtak.
+
+> Tilføyd ved forskrift [18 juni 2021 nr. 2010](forskrift/2021-06-18-2010) (i kraft 1 juli 2021).
+
+## Kapittel 7. Avgjørelser som ikke kan påklages til Kongen
+
+### § 22. Saker som gjelder flere departementer
+
+Det er ikke klagerett til Kongen over:vedtak om å avvise en sak, jf. [forvaltningsloven § 2](lov/1967-02-10/§2) tredje ledd, når avvisningen er begrunnet med forvaltningslovens regler eller andre regler om saksbehandlingen.vedtak i medhold av [lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom [§ 25](lov/1959-10-23-3/§25) (saker om samtykke til å iverksette ekspropriasjonsinngrep før skjønn er holdt m.m.).
+
+### § 23. Kommunal- og distriktsdepartementet
+
+Det er ikke klagerett til Kongen over vedtak om fordeling av midler under statsbudsjettet kapittel 561 post 72 Samisk språk, informasjon m.m. og kapittel 567 post 70 Tilskudd til nasjonale minoriteter. En part kan i stedet kreve at vedtaket behandles på nytt i departementet. Reglene om klage i [forvaltningsloven § 29](lov/1967-02-10/§29) til [§ 32](lov/1967-02-10/§32), [§ 33](lov/1967-02-10/§33) første og tredje ledd og [§ 34](lov/1967-02-10/§34) gjelder tilsvarende ved krav om fornyet behandling. Vedtak som følge av fornyet behandling kan ikke kreves behandlet på nytt.
+
+> Endret ved [forskrifter 12 sep 2008 nr. 1009](forskrift/2008-09-12-1009), [4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 24. Arbeids- og inkluderingsdepartementet
+
+Det er ikke klagerett til Kongen over vedtak i medhold av [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens Pensjonskasse.
+
+> Endret ved [forskrifter 4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 25. Finansdepartementet
+
+Det er ikke klagerett til Kongen over vedtak i medhold av [lov 19. mai 1933 nr. 11](lov/1933-05-19-11) om særavgifter og [lov 19. juni 2009 nr. 58](lov/2009-06-19-58) om merverdiavgift.
+
+> Endret ved [forskrifter 24 juni 2011 nr. 627](forskrift/2011-06-24-627), [4 april 2014 nr. 392](forskrift/2014-04-04-392).
+
+### § 26. Justis- og beredskapsdepartementet
+
+Det er ikke klagerett til Kongen overvedtak i medhold av [vegtrafikkloven 18. juni 1965 nr. 4 § 39](lov/1965-06-18-4/§39) annet ledd første og annet punktum, jf. [§ 34](lov/1965-06-18-4/§34) og [§ 33](lov/1965-06-18-4/§33) nr. 4vedtak i medhold av [lov 13. juni 1975 nr. 39](lov/1975-06-13-39) om utlevering av lovbrytere m.v. [§ 25](lov/1975-06-13-39/§25).
+
+> Endret ved [forskrift 4 april 2014 nr. 392](forskrift/2014-04-04-392).
+
+### § 27. Kultur- og likestillingsdepartementet
+
+I følgende saker er det ikke klagerett til Kongen:saker om fordeling av midler i medhold av [lov 14. desember 1956 nr. 4](lov/1956-12-14-4) om avgift på offentlig framføring av utøvende kunstneres prestasjoner, med forskrifter, for så vidt gjelder skjønnsutøvelsensaker om fordeling av midler i medhold av [lov 9. april 1965 nr. 1](lov/1965-04-09-1) om avgift til Det norske komponistfond, med forskrifter, for så vidt gjelder skjønnsutøvelsen.
+
+> Endret ved [forskrifter 4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 28. Landbruks- og matdepartementet
+
+Det er ikke klagerett til Kongen over vedtak i dispensasjonssaker i henhold til støtteordninger som Landbruks- og matdepartementet administrerer.
+
+### § 29. (Opphevet)
+
+> Endret ved [forskrift 4 april 2014 nr. 392](forskrift/2014-04-04-392), opphevet ved forskrift [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+## Kapittel 8. Andre begrensninger og avvik fra lovens klageregler
+
+### § 30. Vedtak som ikke kan påklages etter forvaltningsloven § 28 første ledd
+
+Klageretten etter [forvaltningsloven § 28 første ledd](lov/1967-02-10/§28/ledd/1) gjelder ikke for:påbud som treffes av politiet for å opprettholde ro og ordenvedtak om forflytting og opprykk i høyere grad i samsvar med gjeldende befalsordningvedtak om forflytting av flyttepliktige i utenrikstjenesten, jf. [lov 13. februar 2015 nr. 9 om utenrikstjenesten § 7](lov/2015-02-13-9/§7)vedtak fattet av Gassnova i saker om tildeling av økonomisk støtte for så vidt gjelder skjønnsutøvelsenavgjørelser om oppnevning til offentlige verv som er enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2).
+
+> Endret ved [forskrifter 18 jan 2007 nr. 53](forskrift/2007-01-18-53), [4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 31. Klageinstans
+
+Arbeids- og velferdsdirektoratet er klageinstans i saker etter [barneloven § 4](lov/1981-04-08-7/§4) femte ledd og [barneloven § 81](lov/1981-04-08-7/§81) annet ledd. Direktoratet kan legge dette til et særskilt utpekt organ etter arbeids- og [velferdsforvaltningsloven § 5](lov/2006-06-16-20/§5).
+
+> Opphevet ved [forskrift 4 april 2014 nr. 392](forskrift/2014-04-04-392), tilføyd igjen ved [forskrift 1 mars 2019 nr. 164](forskrift/2019-03-01-164) (i kraft 1 april 2019).
+
+### § 32. Bedømmelse av eksamen og lignende prestasjoner
+
+Bedømmelse av prøve, eksamen eller andre prestasjoner ved skole eller annen undervisningsinstitusjon eller ved særlige prøveorgan kan bare påklages etter de særskilte forskrifter som er eller blir fastsatt.
+
+### § 33. Arbeidsmarkedsopplæring
+
+Det er ikke klagerett i saker som gjelder opptak til arbeidsmarkedsopplæring etter [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 7](forskrift/2015-12-11-1598/kap7).
+
+> Endret ved [forskrifter 4 april 2014 nr. 392](forskrift/2014-04-04-392), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+### § 34. Vedtak om sakskostnader etter forvaltningsloven § 36
+
+Vedtak om sakskostnader etter [forvaltningsloven § 36](lov/1967-02-10/§36) kan ikke påklages til Kongen.
+
+Vedtak om sakskostnader som treffes av kommunalt eller fylkeskommunalt organ som nevnt i loven [§ 28](forskrift/2006-12-15-1456/§28) annet ledd, kan påklages til statsforvalteren.
+
+Vedtak om sakskostnader som treffes av Utlendingsnemnda kan ikke påklages.
+
+> Endret ved forskrifter [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021), [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+## Kapittel 9. Beregning av saksbehandlingsfrister
+
+### § 35. Virkeområdet og forholdet til forsvarlig saksbehandling
+
+Bestemmelsene i dette kapitlet gjelder beregning av saksbehandlingsfrister som er fastsatt i eller i medhold av lov, så langt ikke annet er særskilt bestemt.
+
+Bestemmelsene i dette kapitlet gir ikke grunnlag for å gjøre unntak fra de alminnelige reglene om forsvarlig saksbehandling i forvaltningsloven mv.
+
+### § 36. Fristens utgangspunkt
+
+I sak som tas til behandling etter søknad, klage eller annen særskilt henvendelse, er fristens utgangspunkt den dagen henvendelsen kommer inn til forvaltningsorganet. Dersom flere henvendelser må vurderes samlet, er fristens utgangspunkt den dagen alle henvendelsene er kommet inn.
+
+I sak som tas til behandling ved utlysing, er fristens utgangspunkt den dagen fristen for å søke løper ut.
+
+I sak som tas til behandling av eget tiltak, er fristens utgangspunkt den dagen forhåndsvarsel sendes parten etter [forvaltningsloven § 16](lov/1967-02-10/§16). Dersom forhåndsvarsel ikke blir gitt eller blir gitt for sent, begynner fristen å løpe når saken tas opp til behandling.
+
+### § 37. Utsettelse av saksbehandlingen etter forespørsel
+
+Dersom en part ber om at behandlingen av saken utsettes, avbrytes fristen den dagen forespørselen kommer inn til organet.
+
+Dersom organet treffer beslutning om å utsette behandlingen av saken, fortsetter fristen å løpe den dagen forvaltningsorganet skal fortsette behandlingen av saken.
+
+Dersom forespørselen om utsettelse blir avslått, fortsetter fristen å løpe fra tidspunktet for avslaget.
+
+### § 38. Forsinkelse som skyldes en parts forhold
+
+Dersom saksbehandlingen blir forsinket på grunn av en parts forhold, f.eks. ved at en part gir feilaktige opplysninger eller ikke gir nødvendige opplysninger innen en rimelig frist fastsatt av organet, løper ikke fristen så lenge forsinkelsen varer. Dette gjelder selv om parten ikke kan klandres for forholdet. Fristen løper for andre parter i samme sak dersom forholdet ikke forsinker deres del av saken.
+
+Dersom det oppstår forsinkelse som nevnt i første ledd, skal partene varsles i den grad dette følger av reglene om foreløpig svar i [forvaltningsloven § 11a](lov/1967-02-10/§11a).
+
+### § 39. Forsinkelse som skyldes særegne forhold
+
+Dersom saksbehandlingen blir forsinket på grunn av særegne forhold som forvaltningsorganet ikke kan klandres for, løper ikke fristen så lenge forsinkelsen varer. Dette gjelder bl.a. forsinkelse som skyldesat en offentlig eller privat instans ikke har gitt opplysninger innen en rimelig frist fastsatt av organet, og fristoverskridelsen er vesentligat sakens særegne karakter gjør det nødvendig å innhente tilleggsopplysningerat det på et sent stadium i saksbehandlingen oppstår et uventet behov for å innhente opplysningerat en betydelig og uventet økning i saksmengden inntrer bråttat vesentlige endringer i bemanningen gjør det uforholdsmessig vanskelig å oppfylle fristen.
+
+Dersom det særegne forholdet bare forsinker saken for enkelte av partene i saken, løper fristen for de øvrige partene.
+
+Dersom det oppstår forsinkelse som nevnt i første ledd, skal partene varsles i den grad dette følger av reglene om foreløpig svar i [forvaltningsloven § 11a](lov/1967-02-10/§11a).
+
+### § 40. Fristavbrudd
+
+Fristen avbrytes når underretning om vedtaket er sendt eller gitt til parten, eller vedtaket er kunngjort, jf. [forvaltningsloven § 27](lov/1967-02-10/§27). Dersom det er flere parter i saken, avbrytes fristen når slik underretning er sendt eller gitt til alle partene som organet er kjent med på tidspunktet for underretningen.
+
+Dersom det ikke er nødvendig å gi underretning, avbrytes fristen når vedtaket treffes.
+
+Dersom saken henlegges uten at det treffes vedtak, avbrytes fristen når saken henlegges.
+
+### § 41. Fristforlengelse på grunn av lørdager og helligdager mv.
+
+Dersom saksbehandlingsfristen løper ut på en lørdag, helligdag eller dag som etter lovgivningen er likestilt med helligdag, forlenges fristen til nærmeste virkedag.
+
+### § 42. Særregler i forskrift om saksbehandlingsfrist
+
+Reglene i dette kapitlet bør ikke fravikes i forskrift om saksbehandlingsfrist etter [forvaltningsloven § 11b](lov/1967-02-10/§11b) første punktum, med mindre det foreligger et særlig behov for dette.
+
+## Kapittel 10. Kunngjøring av forskrifter
+
+### § 43. Kunngjøring av forskrifter
+
+Kunngjøring av følgende vedtak foretas ikke i Norsk Lovtidend, men på annen måte:vedtak etter vegtrafikklovgivningen om oppsetting av trafikkregulerende skilt, derunder vedtak om fartsgrense og vedtak om at et område skal anses som tettbygd strøk, og vedtak om oppsetting av lyssignal og oppmerking.vedtak etter [forskrift 18. mars 2016 nr. 260 om vilkårsparkering for allmennheten og håndheving av private parkeringsreguleringer](forskrift/2016-03-18-260).
+
+Kunngjøring av vedtak som nevnt i første ledd skjer ved oppsetting av trafikkskilt på vedkommende sted eller på annen måte som klart angir hva vedtaket går ut på.
+
+> Endret ved forskrift [14 nov 2025 nr. 2280](forskrift/2025-11-14-2280).
+
+## Kapittel 11. Delegering av myndighet
+
+### § 44. Delegering til departementene
+
+Kongens myndighet etter [forvaltningsloven § 9](lov/1967-02-10/§9) annet ledd delegeres til det enkelte departement, som kan delegere myndigheten videre.
+
+### § 45. Delegering til Justis- og beredskapsdepartementet
+
+Kongens myndighet etter [forvaltningsloven § 4](lov/1967-02-10/§4) tredje ledd, [§ 5](lov/1967-02-10/§5) første ledd første og annet punktum, [§ 6](lov/1967-02-10/§6) femte ledd, [§ 11](lov/1967-02-10/§11) femte ledd, [§ 13](lov/1967-02-10/§13) annet ledd annet punktum og [§ 13c](lov/1967-02-10/§13c) tredje ledd første punktum delegeres til Justis- og beredskapsdepartementet. Det samme gjelder for Kongens myndighet etter [forvaltningsloven § 38](lov/1967-02-10/§38) tredje ledd annet punktum og [§ 38](lov/1967-02-10/§38) fjerde ledd. Myndighet etter [§ 11](lov/1967-02-10/§11) femte ledd kan delegeres videre til andre departementer.
+
+Saker om bruk av Kongens myndighet etter [forvaltningsloven § 2](lov/1967-02-10/§2) annet ledd tredje punktum, [§ 3](lov/1967-02-10/§3) annet ledd første punktum, [§ 5](lov/1967-02-10/§5) første ledd tredje punktum og annet ledd, [§ 19](lov/1967-02-10/§19) tredje ledd, [§ 24](lov/1967-02-10/§24) fjerde ledd, [§ 28](lov/1967-02-10/§28) tredje ledd første punktum og fjerde ledd og [§ 36](lov/1967-02-10/§36) tredje ledd fjerde og femte punktum fremmes for Kongen av Justis- og beredskapsdepartementet eller av vedkommende departement med Justis- og beredskapsdepartementets samtykke.
+
+> Endret ved [forskrifter 29 mai 2009 nr. 578](forskrift/2009-05-29-578), [24 juni 2011 nr. 627](forskrift/2011-06-24-627), [4 april 2014 nr. 392](forskrift/2014-04-04-392).
+
+## Kapittel 12. Sluttbestemmelser
+
+### § 46. Ikraftsetting
+
+Forskriften trer i kraft 1. januar 2007.
+
+### § 47. Justis- og beredskapsdepartementets kompetanse til å endre forskriften
+
+Justis- og beredskapsdepartementet kan vedta endringer i denne forskriften i samsvar med departementets kompetanse etter [§ 45](forskrift/2006-12-15-1456/§45) første ledd.
+
+> Endret ved [forskrift 4 april 2014 nr. 392](forskrift/2014-04-04-392).
+
+### § 48. Endringer i andre forskrifter
+
+Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter:
+
+### § 49. Opphevelse av eldre forskrifter
+
+Fra den tid forskriften trer i kraft oppheves:[vedtak 16. desember 1977 nr. 9](forskrift/1977-12-16-9) om ikrafttredelse av endringer av forvaltningsloven. Delegering av myndighet avsnitt I, II og III.[forskrift 16. desember 1977 nr. 11](forskrift/1977-12-16-11) om bortfall av taushetsplikt etter forvaltningslovens § 13 i barnesaker[forskrift 16. desember 1977 nr. 12](forskrift/1977-12-16-12) om forvaltningslovens anvendelse på eldre forskrifter og saker og på saker som ved lovens ikrafttredelse er under behandling i administrasjonen[forskrift 16. desember 1977 nr. 13](forskrift/1977-12-16-13) om regulering av partenes rett til å se saksdokumenter[forskrift 16. desember 1977 nr. 14](forskrift/1977-12-16-14) om unntak fra plikten til å grunngi enkeltvedtak[forskrift 16. desember 1977 nr. 15](forskrift/1977-12-16-15) om unntak fra og særregler om retten til å påklage enkeltvedtak[forskrift 16. desember 1977 nr. 16](forskrift/1977-12-16-16) om retten til å klage over sakskostnader etter [forvaltningslovens § 36](lov/1967-02-10/§36)[forskrift 16. desember 1977 nr. 17](forskrift/1977-12-16-17) om forvaltningsorganenes vegledningsplikt[forskrift 8. januar 1980 nr. 9](forskrift/1980-01-08-9) om taushetspliktens bortfall i adopsjonssaker[forskrift 21. november 1980 nr. 13](forskrift/1980-11-21-13) om partsoffentlighet i saker om tilsetting i den offentlige forvaltning[forskrift 8. september 2000 nr. 899](forskrift/2000-09-08-899) om beregning av saksbehandlingsfrister.

@@ -1,0 +1,134 @@
+---
+id: "sf-19970325-0268"
+slug: "forskrift-om-tvister-i-arbeidsgiverperioden"
+type: "forskrift"
+ref_id: "forskrift/1997-03-25-268"
+title: "Forskrift om behandling av tvister i arbeidsgiverperioden"
+short_title: "Forskrift om tvister i arbeidsgiverperioden"
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+date_in_force: "1997-05-01"
+last_change_in_force: "2006-07-01"
+last_updated: null
+xml_hash: "058d0de5364e09c4d0d2aff160af26b69084c07a14d70ffcd0c3c07851e16067"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om behandling av tvister i arbeidsgiverperioden
+
+## I. Saklig myndighetsområde
+
+### § 1
+
+Ankenemnda for sykepenger i arbeidsgiverperioden, jf. [folketrygdloven § 21-13](lov/1997-02-28-19/§21-13), avgjør alle tvister om rettigheter og plikter etter bestemmelsene om arbeidsgiverperiode i [folketrygdloven kapittel 8](lov/1997-02-28-19/kap8) og 9, med de unntak og presiseringer som er gitt i denne forskriften.
+
+Ankenemnda kan bringe spørsmål av prinsipiell art som gjelder fortolkning av bestemmelser i folketrygdloven eller forskrifter fastsatt i medhold av denne, inn for Arbeids- og velferdsdirektoratet til uttalelse.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 2
+
+Nemndas myndighet er begrenset til å gjelde spørsmål om rettigheter og plikter som arbeidsgiveren har i arbeidsgiverperioden og ved arbeidstakerens fravær på grunn av barns eller barnepassers sykdom. Nemnda kan ikke avgjøre om et medlem har rett til sykepenger fra trygden i de første to uker i en fraværsperiode eller om han har krav på forskott.
+
+### § 3
+
+Nemnda kan ikke avgjøre, heller ikke prejudisielt, om en skade eller sykdom kan godkjennes som yrkesskade, jf [folketrygdloven § 8-55](lov/1997-02-28-19/§8-55) bokstav a. Trygderetten er ankeinstans i slike spørsmål.
+
+### § 4
+
+Nemnda kan ikke overprøve om en arbeidstaker lider av langvarig eller kronisk sykdom som medfører risiko for særlig stort sykefravær, jf [folketrygdloven § 8-20](lov/1997-02-28-19/§8-20). Ankeinstans for dette spørsmål er det organ som Arbeids- og velferdsdirektoratet bestemmer.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+## II. Organisasjon
+
+### § 5
+
+Lederen skal sørge for forsvarlig gjennomføring av nemndas oppgaver og føre tilsyn med sekretariatet.
+
+### § 6
+
+Arbeids- og velferdsdirektoratet, eller den enhet i Arbeids- og velferdsetaten som Arbeids- og velferdsdirektoratet bestemmer, fungerer som sekretariat for nemnda. Sekretariatet forbereder sakene og innkaller i samråd med lederen til møte så ofte det finnes nødvendig. Nemnda kan fastsette nærmere instruks for hvordan sakene skal behandles og framlegges for nemnda.
+
+> Endret ved [forskrifter 28 mai 2003 nr. 659](forskrift/2003-05-28-659), [30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 7
+
+Forvaltningslovens bestemmelser om ugildhet og taushetsplikt gjelder tilsvarende for nemndas medlemmer, jf [folketrygdloven § 21-1](lov/1997-02-28-19/§21-1).
+
+## III. Anke og saksforberedelse
+
+### § 8
+
+En anke skal behandles etter bestemmelsene i [folketrygdloven § 21-12](lov/1997-02-28-19/§21-12), dersom både arbeidsgiveren og Arbeids- og velferdsetaten helt har avslått å utbetale sykepenger i arbeidsgiverperioden.
+
+Vedtak om rettigheter og plikter i arbeidsgiverperioden som ikke går inn under første ledd, kan ankes inn for Ankenemnda.
+
+En anke skal behandles av Ankenemnda uten hensyn til bestemmelsene i første ledd, dersom retten til sykepenger i arbeidsgiverperioden beror på om arbeidsuførhet anses dokumentert i samsvar med reglene i [folketrygdloven § 8-7](lov/1997-02-28-19/§8-7), jf [§ 8-18](lov/1997-02-28-19/§8-18) tredje ledd.
+
+Fristen for anke er tre uker fra det tidspunkt melding om vedtaket er mottatt. Nemnda kan i særlige tilfeller forlenge fristen eller se bort fra at den er oversittet.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 9
+
+Anke til Ankenemnda skal settes fram skriftlig eller muntlig for det felles lokale kontoret i arbeids- og velferdsforvaltningen, med mindre Arbeids- og velferdsdirektoratet bestemmer noe annet. Det felles lokale kontoret eller vedkommende annen institusjon som mottar muntlig anke, skal sørge for å sette den opp skriftlig og underskrive den sammen med den ankende part.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 10
+
+Arbeids- og velferdsetaten skal innhente mulige merknader fra motparten, gi en kort redegjørelse for saken og snarest sende den til Ankenemndas sekretariat. Arbeids- og velferdsetaten plikter eventuelt å bistå med innhenting av ytterligere opplysninger i saken. Nemnda skal påse at de forhold som har betydning for behandlingen av vedkommende sak blir klarlagt så godt som mulig før vedtak fattes.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 11
+
+Dersom en arbeidsgiver har påanket Arbeids- og velferdsetatens vedtak om å kreve refusjon, har anken oppsettende virkning. Inndriving som nevnt i [folketrygdloven § 8-22](lov/1997-02-28-19/§8-22) andre ledd kan da først skje fire uker etter at arbeidsgiveren er underrettet om nemndas vedtak.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+## IV. Ankebehandling
+
+### § 12
+
+Nemnda behandler tvisten på grunnlag av den skriftlige framstilling som partene har gitt og sakens øvrige opplysninger. Til bruk for nemnda skal sekretariatet gi en kort framstilling av saken med innstilling og begrunnelse.
+
+### § 13
+
+Nemnda er bare vedtaksfør når alle tre medlemmer eller deres vararepresentanter er tilstede. Nemndas vedtak gjøres med flertall og skal begrunnes. Det skal føres møtebok.
+
+## V. Forskjellige bestemmelser
+
+### § 14
+
+Nemndas vedtak kan ikke bringes inn for Trygderetten eller annet forvaltningsorgan. Søksmål for domstolene må i tilfelle reises mot den som var ankemotpart ved ankens behandling for Ankenemnda. Dersom ankemotparten var Arbeids- og velferdsetaten, må søksmål i tilfelle reises mot Arbeids- og velferdsdirektoratet.
+
+> Endret ved [forskrift 30 juni 2006 nr. 790](forskrift/2006-06-30-790) (i kraft 1 juli 2006, se endringsforskriften for overgangsregel).
+
+### § 15
+
+Nemnda kan bestemme at den ankende part helt eller delvis skal få dekket nødvendige utgifter i anledning ankesaken.
+
+Nemnda kan oppnevne prosessfullmektig for den ankende part, dersom den finner det nødvendig. Nemnda fastsetter og utreder prosessfullmektigens godtgjørelse i disse tilfellene.
+
+### § 16
+
+Nemnda kan bestemme at den ankende part helt eller delvis skal bære de utgiftene anken har medført for nemnda og motparten, dersom vedkommende åpenbart uten grunn har satt fram eller opprettholdt anke.
+
+### § 17
+
+Behandlingen for nemnda er gebyrfri. Utgiftene ved nemndas virksomhet dekkes av folketrygden.
+
+### § 18
+
+Forvaltningslovens bestemmelser om partsoffentlighet gjelder tilsvarende for ankebehandlingen, jf [folketrygdloven § 21-1](lov/1997-02-28-19/§21-1).
+
+### § 19
+
+Forskriften trer i kraft den 1. mai 1997.

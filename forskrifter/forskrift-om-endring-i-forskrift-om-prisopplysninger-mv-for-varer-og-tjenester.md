@@ -1,0 +1,32 @@
+---
+id: "sf-20251105-2212"
+slug: "forskrift-om-endring-i-forskrift-om-prisopplysninger-mv-for-varer-og-tjenester"
+type: "forskrift"
+ref_id: "forskrift/2025-11-05-2212"
+title: "Forskrift om endring i forskrift om prisopplysninger mv. for varer og tjenester"
+short_title: null
+language: "nb"
+ministry:
+  - "Barne- og familiedepartementet"
+date_in_force: "2026-01-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "23ec1dd629baf14b8108dbb9f0228efae447fbe40f3ff176a5b257b7157fafed"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om endring i forskrift om prisopplysninger mv. for varer og tjenester
+
+## I
+
+[§ 11 første ledd annet punktum](forskrift/2012-11-14-1066/§11/ledd/1/setning/2) gjelder for all prisopplysning for en tjeneste. [Kapittel 3](forskrift/2012-11-14-1066/kap3) for øvrig gjelder ikke der det i lov eller forskrift er fastsatt regler om prisopplysning for en tjeneste. [Lov 29. juni 2007 nr. 73 om eiendomsmegling](lov/2007-06-29-73) og [lov 19. juni 2009 nr. 103 om tjenestevirksomhet](lov/2009-06-19-103) anses ikke å ha regler om prisopplysning for en tjeneste og forskriften gjelder. [Lov 18. desember 2020 nr. 146 om finansavtaler](lov/2020-12-18-146) anses å ha regler om prisopplysning for en tjeneste og forskriften gjelder ikke. [§ 14](forskrift/2012-11-14-1066/§14) gjelder likevel for banktjenester. [Lov 25. november 2011 nr. 44 om verdipapirfond](lov/2011-11-25-44) anses å ha bestemmelser om prisopplysning for en tjeneste og forskriften gjelder ikke. [§ 14](forskrift/2012-11-14-1066/§14) gjelder likevel for verdipapirfondstjenester. [Lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon](lov/2005-12-21-124) har bestemmelser om pristariffer og forskriften gjelder ikke. [§ 14](forskrift/2012-11-14-1066/§14) gjelder likevel for tjenester knyttet til pensjonsprodukter.
+
+Næringsdrivende skal registrere prisopplysninger for følgende tjenester i følgende prisportaler:for tannhelsetjenester registreres prisopplysninger i prisportal for tannhelsetjenesterfor banktjenester registreres prisopplysninger i Finansportalenfor tjenester knyttet til verdipapirfond registreres prisopplysninger i Finansportalenfor tjenester knyttet til pensjonsprodukter registreres prisopplysninger i Finansportalen. Med pensjonsprodukt menes produkt som kommer til utbetaling ved oppnåelse av fastsatt alder.
+
+## II
+
+Forskriften trer i kraft 1. januar 2026.

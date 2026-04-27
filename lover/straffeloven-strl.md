@@ -1,0 +1,3090 @@
+---
+id: "nl-20050520-028"
+slug: "straffeloven-strl"
+type: "lov"
+ref_id: "lov/2005-05-20-28"
+title: "Lov om straff (straffeloven)"
+short_title: "Straffeloven – strl."
+language: "nb"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2015-10-01"
+last_change_in_force: "2026-04-15"
+last_updated: "2023-01-12"
+xml_hash: "83a75880eec4c3f9082179aa30a4a2bdd6195f9ebf402157936eb61a7b658588"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-lover"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Lov om straff (straffeloven)
+
+## Første del. Alminnelige bestemmelser
+
+### Kapittel 1. Straffelovgivningens virkeområde
+
+### § 1. Virkeområdet for de alminnelige bestemmelsene
+
+Bestemmelsene i første del gjelder for alle straffbare handlinger når ikke annet er bestemt i eller i medhold av lov eller følger av tolking.
+
+### § 2. Folkerettslige begrensninger
+
+Straffelovgivningen gjelder med de begrensninger som følger av overenskomster med fremmede stater eller av folkeretten for øvrig.
+
+### § 3. Straffelovgivningens virkeområde i tid
+
+Straffelovgivningen på handlingstidspunktet anvendes. Likevel anvendes lovgivningen på tidspunktet for avgjørelsen når dette fører til et gunstigere resultat for den siktede og lovendringen skyldes et endret syn på hvilke handlinger som bør straffes, eller på bruken av strafferettslige reaksjoner.
+
+Når et sammenhengende straffbart forhold fortsetter etter at en lovendring i skjerpende retning har trådt i kraft, anvendes handlingstidspunktets lov på de deler av forholdet som faller på hver sin side av tidspunktet for ikrafttredelsen.
+
+Er noen siktet, jf. [straffeprosessloven § 82](lov/1981-05-22-25/§82), tas det ikke hensyn til at påtalen ville ha vært foreldet etter en nyere lov, eller at den ikke lenger er ubetinget.
+
+Er fullbyrdingen av en reaksjon begynt, tas det ikke hensyn til at adgangen til å fullbyrde ville ha vært foreldet etter en nyere lov.
+
+Ved domfellelse etter gjenåpning anvendes samme lovgivning som ved den opprinnelige avgjørelsen.
+
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 4](lov/2008-03-07-4), [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 4. Straffelovgivningens anvendelse på handlinger i Norge og på norske jurisdiksjonsområder mv.
+
+Straffelovgivningen gjelder for handlinger foretatt i Norge, herunder på Svalbard, Jan Mayen og i de norske bilandene, jf. [lov 27. februar 1930 nr. 3](lov/1930-02-27-3).
+
+Straffelovgivningen gjelder også for handlinger foretattpå innretninger på norsk kontinentalsokkel for undersøkelse etter eller utnytting eller lagring av undersjøiske naturforekomster og på rørledninger og andre faste transportanlegg tilknyttet slike innretninger også når de ligger utenfor norsk kontinentalsokkel,i jurisdiksjonsområde etablert i medhold av [lov 17. desember 1976 nr. 91](lov/1976-12-17-91) om Norges økonomiske sone, på handlinger som krenker interesser som den norske jurisdiksjon skal ivareta, ogpå norsk fartøy, herunder luftfartøy, og boreplattform eller liknende flyttbar innretning. Oppholder fartøyet eller innretningen seg på eller over en annen stats territorium, gjelder straffelovgivningen bare en handling foretatt av en person som følger med fartøyet eller innretningen.
+
+### § 5. Straffelovgivningens anvendelse på handlinger i utlandet
+
+Utenfor virkeområdet etter [§ 4](lov/2005-05-20-28/§4) gjelder straffelovgivningen for handlinger foretattav en norsk statsborger,av en person med bosted i Norge, ellerpå vegne av et foretak registrert i Norge,når handlingene:er straffbare også etter loven i landet der de er foretatt,anses som krigsforbrytelse, folkemord eller forbrytelse mot menneskeheten,anses som brudd på krigens folkerett,anses som barneekteskap eller tvangsekteskap,anses som kjønnslemlestelse,er rettet mot den norske stat eller norsk statsmyndighet, eller rammes av [§§ 120 a](lov/2005-05-20-28/§120a) eller [127](lov/2005-05-20-28/§127) jf. [120 a](lov/2005-05-20-28/§120a),er foretatt utenfor området for noen stats høyhetsrett og kan straffes med fengsel,anses som omsorgsunndragelse,rammes av [§§ 257](lov/2005-05-20-28/§257), [270](lov/2005-05-20-28/§270), [291](lov/2005-05-20-28/§291)–[296](lov/2005-05-20-28/§296), [299](lov/2005-05-20-28/§299)–[306](lov/2005-05-20-28/§306) eller [§§ 309](lov/2005-05-20-28/§309)–[316](lov/2005-05-20-28/§316),anses som terror- eller terrorrelatert handling etter [straffeloven kapittel 18](lov/2005-05-20-28/kap18), eller rammes av [§§ 145](lov/2005-05-20-28/§145) eller [146](lov/2005-05-20-28/§146),anses som oppfordring til en straffbar handling etter [straffeloven § 183](lov/2005-05-20-28/§183) eller innebærer fremsettelse av en hatefull ytring etter [straffeloven § 185](lov/2005-05-20-28/§185),anses som korrupsjon eller påvirkningshandel etter [§§ 387](lov/2005-05-20-28/§387) til [389](lov/2005-05-20-28/§389), ellerrammes av [sanksjonsloven § 4](lov/2021-04-16-18/§4).
+
+Første ledd gjelder tilsvarende for handlinger foretattav en person som etter handlingstidspunktet er blitt norsk statsborger eller har fått bosted i Norge,av en person som er eller etter handlingen er blitt statsborger i eller bosatt i et annet nordisk land, og som oppholder seg i Norge, ellerpå vegne av et utenlandsk foretak som etter handlingstidspunktet har overført sin samlede virksomhet til et foretak registrert i Norge.
+
+Første ledd nr. 1, 2, 3, 6, 7, 8, 10 med unntak av [§ 145](lov/2005-05-20-28/§145), 11 og 12 gjelder tilsvarende for handlinger foretatt av andre personer enn dem som omfattes av første og annet ledd, når personen oppholder seg i Norge, og handlingen har en lengstestraff på fengsel i mer enn 1 år.
+
+For handlinger som nevnt i første ledd nr. 2 gjelder annet og tredje ledd bare dersom handlingen etter folkeretten anses som folkemord, forbrytelse mot menneskeheten eller krigsforbrytelse.
+
+Straffelovgivningen gjelder også for handlinger som er foretatt i utlandet av andre personer enn dem som omfattes av første til fjerde ledd, dersom handlingen har en lengstestraff på fengsel i 6 år eller mer og er rettet mot noen som er norsk statsborger eller er bosatt i Norge, eller har en lengstestraff på fengsel i 3 år eller mer og er foretatt på vegne av et foretak som nevnt i første ledd bokstav c eller annet ledd bokstav c.
+
+Ved strafforfølgning etter denne paragraf kan straffen ikke overstige høyeste lovbestemte straff for tilsvarende handling i det landet der den er foretatt.
+
+Påtale etter denne paragraf reises bare når allmenne hensyn tilsier det.
+
+> Endret ved lover [21 des 2005 nr. 131](lov/2005-12-21-131), [7 mars 2008 nr. 4](lov/2008-03-07-4), [19 juni 2009 nr. 74](lov/2009-06-19-74), [19 juni 2015 nr. 65](lov/2015-06-19-65), [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)), [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)), [16 april 2021 nr. 18](lov/2021-04-16-18) (ikr. 16 april 2021 iflg. [res. 16 april 2021 nr. 1182](forskrift/2021-04-16-1182)), [20 des 2023 nr. 113](lov/2023-12-20-113) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2130](forskrift/2023-12-20-2130)).
+
+### § 6. Særlig folkerettslig grunnlag til å strafforfølge
+
+Utenfor virkeområdet etter [§§ 4](lov/2005-05-20-28/§4) og [5](lov/2005-05-20-28/§5) gjelder straffelovgivningen også for handlinger som Norge etter overenskomster med fremmede stater eller etter folkeretten for øvrig har rett eller plikt til å strafforfølge.
+
+[§ 5](lov/2005-05-20-28/§5) syvende ledd gjelder tilsvarende.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 7. Handling som anses foretatt på flere steder
+
+Når straffbarheten av en handling avhenger eller påvirkes av en inntrådt eller tilsiktet virkning, anses handlingen foretatt også der virkningen er inntrådt eller tilsiktet fremkalt.
+
+### § 8. Adgangen til å strafforfølge forhold som er pådømt i utlandet
+
+Når det i utlandet er avsagt endelig dom som går inn under[lov 25. mars 1977 nr. 22](lov/1977-03-25-22) om overføring av straffeforfølging fra eller til annet europeisk land,[lov 20. juli 1991 nr. 67](lov/1991-07-20-67) om overføring av domfelte, ellerinternasjonal avtale innenfor Schengensamarbeidet,kan ikke straffesak reises eller straffedom avsies i Norge for samme straffbare forhold, nårvedkommende ble frifunnet eller funnet skyldig uten at det ble fastsatt noen reaksjon, ellerden idømte reaksjonen er helt fullbyrdet, er under fullbyrding eller er bortfalt etter domslandets regler.
+
+Dersom strafforfølgningen i domslandet ikke har skjedd etter krav fra norske myndigheter, kan forfølgning i Norge skje for saker som nevnt i første ledd bokstav a og b, nårhandlingen er foretatt i et område som nevnt i [§ 4](lov/2005-05-20-28/§4), jf. [§ 7](lov/2005-05-20-28/§7),lovbryteren på handlingstidspunktet hadde bosted i Norge eller var norsk statsborger, og allmenne hensyn tilsier forfølgning,handlingen var rettet mot en person med norsk offentlig verv, eller mot en offentlig institusjon eller annet som er av offentlig karakter i Norge, eller lovbryteren selv hadde norsk offentlig verv, ellerNorge har folkerettslig rett eller plikt til strafforfølgning.
+
+Dersom strafforfølgningen i domslandet ikke har skjedd etter krav fra norske myndigheter, kan forfølgning i Norge skje for saker som nevnt i første ledd bokstav c, nårhandlingen helt eller delvis ble foretatt i Norge. Ble handlingen bare delvis foretatt i Norge, gjelder unntaket likevel ikke dersom handlingen delvis ble foretatt på territoriet til den konvensjonspart som avsa dommen,handlingen er straffbar i Norge som krigsforbrytelse, folkemord, lovbrudd mot statens selvstendighet og sikkerhet, lovbrudd mot statsforfatningen og det politiske system, eller som kapring, sabotasje mot infrastrukturen, grovt narkotikalovbrudd, ulovlig befatning med plutonium og uran, eller grov brannstiftelse eller annen særlig farlig ødeleggelse, ellerhandlingen ble foretatt av en norsk tjenestemann og var et brudd på vedkommendes tjenesteplikter.
+
+### Kapittel 2. Legaldefinisjoner mv.
+
+### § 9. De nærmeste
+
+Med de nærmeste menesektefelle,slektninger i direkte linje og søsken, og deres ektefeller,ektefellens slektninger i direkte linje og søsken, og deres ektefeller,stesøsken og deres ektefeller,fosterforeldre og deres foreldre, fosterbarn og fostersøsken, ogforlovede.
+
+Det som er bestemt om ektefeller, gjelder også fraskilte. Besvogrede regnes likevel bare som de nærmeste for forhold som har skjedd før oppløsningen av ekteskapet. Det som er bestemt om besvogrede i annet punktum, gjelder også for forlovede etter at forlovelsen er hevet.
+
+Svogerskap anses fortsatt å bestå når ekteskapet som begrunnet det, er opphørt ved død.
+
+Likestilt med ekteskap er registrert partnerskap og andre tilfeller når to personer bor fast sammen under ekteskapsliknende forhold.
+
+> Endret ved lov [27 juni 2008 nr. 53](lov/2008-06-27-53) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 745](forskrift/2008-06-27-745)).
+
+### § 10. Offentlig sted og offentlig handling
+
+Med offentlig sted menes et sted bestemt for alminnelig ferdsel eller et sted der allmennheten ferdes.
+
+En handling er offentlig når den er foretatt i nærvær av et større antall personer, eller når den lett kunne iakttas og er iakttatt fra et offentlig sted. Består handlingen i fremsettelse av en ytring, er handlingen også offentlig når ytringen er fremsatt på en måte som gjør den egnet til å nå et større antall personer.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 11. Betydelig skade på kropp eller helse
+
+Med betydelig skade på kropp eller helse menes tap eller vesentlig svekkelse av en sans, et viktig organ eller en viktig kroppsdel, vesentlig vansirethet, livsfarlig eller langvarig sykdom, eller alvorlig psykisk skade.
+
+Betydelig skade er det også når et foster dør eller skades som følge av en straffbar handling.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 12. Gjenstand
+
+Med gjenstand menes også elektrisk energi eller annen energi.
+
+### § 13. Beregning av lovbestemte frister
+
+[Domstolloven § 148](lov/1915-08-13-5/§148) annet ledd og [§ 149](lov/1915-08-13-5/§149) første ledd får anvendelse ved beregning av lovbestemte frister.
+
+### Kapittel 3. Grunnvilkår for straffansvar
+
+### § 14. Krav om lovhjemmel
+
+Strafferettslige reaksjoner, jf. §§ 29 og 30, kan bare ilegges med hjemmel i lov.
+
+### § 15. Medvirkning
+
+Et straffebud rammer også den som medvirker til overtredelsen, når ikke annet er bestemt.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 16. Forsøk
+
+Den som har forsett om å fullbyrde et lovbrudd som kan medføre fengsel i 1 år eller mer, og som foretar noe som leder direkte mot utføringen, straffes for forsøk, når ikke annet er bestemt.
+
+Den som frivillig avstår fra å fullbyrde lovbruddet eller avverger at det blir fullbyrdet, straffes likevel ikke for forsøk.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 17. Nødrett
+
+En handling som ellers ville være straffbar, er lovlig nården blir foretatt for å redde liv, helse, eiendom eller en annen interesse fra en fare for skade som ikke kan avverges på annen rimelig måte, ogdenne skaderisikoen er langt større enn skaderisikoen ved handlingen.
+
+### § 18. Nødverge
+
+En handling som ellers ville være straffbar, er lovlig når denblir foretatt for å avverge et ulovlig angrep,ikke går lenger enn nødvendig, ogikke går åpenbart ut over hva som er forsvarlig under hensyn til hvor farlig angrepet er, hva slags interesse som angrepet krenker, og angriperens skyld.
+
+Regelen i første ledd gjelder tilsvarende for den som iverksetter en lovlig pågripelse eller søker å hindre at noen unndrar seg varetektsfengsling eller gjennomføring av frihetsstraff.
+
+Utøving av offentlig myndighet kan bare møtes med nødverge når myndighetsutøvingen er ulovlig, og den som gjennomfører den, opptrer forsettlig eller grovt uaktsomt.
+
+### § 19. Selvtekt
+
+En handling som ellers ville være straffbar, er lovlig når den som har retten, handler for å gjenopprette en ulovlig endret tilstand, og det ville være urimelig å måtte vente på myndighetenes bistand. Makt mot en person kan bare brukes når rettskrenkelsen er åpenbar, og må ikke gå lenger enn forsvarlig.
+
+### § 20. Skyldevne
+
+Den som på handlingstidspunktet er under 15 år, er ikke strafferettslig ansvarlig.
+
+Det samme gjelder den som på handlingstidspunktet er utilregnelig på grunn avsterkt avvikende sinnstilstandsterk bevissthetsforstyrrelse ellerhøygradig psykisk utviklingshemming.
+
+Ved utilregnelighetsvurderingen etter annet ledd skal det legges vekt på graden av svikt i virkelighetsforståelse og funksjonsevne.
+
+Den som forbigående er utilregnelig som følge av selvforskyldt rus, fritas ikke for straff, med mindre særlige grunner tilsier det. Den som har en vedvarende tilstand som nevnt i annet ledd bokstav a og som selvforskyldt fremkaller en utilregnelighetstilstand, kan straffes dersom særlige grunner tilsier det.
+
+> Endret ved lov [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### § 21. Skyldkravet
+
+Straffelovgivningen rammer bare forsettlige lovbrudd med mindre annet er bestemt.
+
+### § 22. Forsett
+
+Forsett foreligger når noen begår en handling som dekker gjerningsbeskrivelsen i et straffebudmed hensikt,med bevissthet om at handlingen sikkert eller mest sannsynlig dekker gjerningsbeskrivelsen, ellerholder det for mulig at handlingen dekker gjerningsbeskrivelsen, og velger å handle selv om det skulle være tilfellet.
+
+Forsett foreligger selv om lovbryteren ikke er kjent med at handlingen er ulovlig, jf. [§ 26](lov/2005-05-20-28/§26).
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 23. Uaktsomhet
+
+Den som handler i strid med kravet til forsvarlig opptreden på et område, og som ut fra sine personlige forutsetninger kan bebreides, er uaktsom.
+
+Uaktsomheten er grov dersom handlingen er svært klanderverdig og det er grunnlag for sterk bebreidelse.
+
+### § 24. Uforsettlig følge
+
+En uforsettlig følge inngår i vurderingen av om et lovbrudd er grovt dersom lovbryteren har opptrådt uaktsomt med hensyn til følgen eller unnlatt etter evne å avverge følgen etter å ha blitt oppmerksom på at den kunne inntre.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 25. Faktisk uvitenhet
+
+Enhver skal bedømmes etter sin oppfatning av den faktiske situasjonen på handlingstidspunktet.
+
+Er uvitenheten uaktsom, straffes handlingen når uaktsomt lovbrudd er straffbart.
+
+Det ses bort fra uvitenhet som følge av selvforskyldt rus. I slike tilfeller bedømmes lovbryteren som om denne hadde vært edru. Tilsvarende gjelder dersom vedkommende var i en selvforskyldt utilregnelighetstilstand.
+
+> Endret ved lov [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### § 26. Rettsuvitenhet
+
+Den som på handlingstidspunktet på grunn av uvitenhet om rettsregler er ukjent med at handlingen er ulovlig, straffes når uvitenheten er uaktsom.
+
+### Kapittel 4. Foretaksstraff
+
+### § 27. Straff for foretak
+
+Når et straffebud er overtrådt av noen som har handlet på vegne av et foretak, kan foretaket straffes. Det gjelder selv om ingen enkeltperson har utvist skyld eller har skyldevne etter [§ 20](lov/2005-05-20-28/§20).
+
+Med foretak menes selskap, samvirkeforetak, forening eller annen sammenslutning, enkeltpersonforetak, stiftelse, bo eller offentlig virksomhet.
+
+Straffen er bot. Foretaket kan også fradømmes retten til å utøve virksomheten eller forbys å utøve den i visse former, jf. [§ 56](lov/2005-05-20-28/§56), og ilegges inndragning, jf. [kapittel 13](lov/2005-05-20-28/kap13).
+
+> Endret ved lover [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 28. Momenter ved avgjørelsen om et foretak skal ilegges straff
+
+Ved avgjørelsen om et foretak skal straffes etter [§ 27](lov/2005-05-20-28/§27), og ved utmålingen av straffen, skal det blant annet tas hensyn tilstraffens preventive virkning,lovbruddets grovhet, og om noen som handler på vegne av foretaket, har utvist skyld,om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget lovbruddet,om lovbruddet er begått for å fremme foretakets interesser,om foretaket har hatt eller kunne ha oppnådd noen fordel ved lovbruddet,foretakets økonomiske evne,om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt straff, ogom overenskomst med fremmed stat forutsetter bruk av foretaksstraff.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 5. Oversikt over de strafferettslige reaksjonene
+
+### § 29. Straffene
+
+Straffene erfengsel, jf. [kapittel 6](lov/2005-05-20-28/kap6),forvaring, jf. [kapittel 7](lov/2005-05-20-28/kap7),samfunnsstraff, jf. [kapittel 8](lov/2005-05-20-28/kap8),ungdomsstraff, jf. [kapittel 8 a](lov/2005-05-20-28/kap8a),bot, jf. [kapittel 9](lov/2005-05-20-28/kap9), ogrettighetstap, jf. [kapittel 10](lov/2005-05-20-28/kap10) eller [statsborgerloven § 26 a](lov/2005-06-10-51/§26a).
+
+Når det ved fastsetting av straff er aktuelt å ilegge flere strafferettslige reaksjoner, jf. første ledd og [§ 30](lov/2005-05-20-28/§30), skal den samlede reaksjonen stå i et rimelig forhold til lovbruddet.
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [25 mai 2018 nr. 19](lov/2018-05-25-19) (ikr. 1 jan 2019 iflg. [res. 25 mai 2018 nr. 759](forskrift/2018-05-25-759)).
+
+### § 30. Andre strafferettslige reaksjoner
+
+Andre strafferettslige reaksjoner erstraffutmålingsutsettelse, jf. [§ 60](lov/2005-05-20-28/§60),straffutmålingsfrafall, jf. [§ 61](lov/2005-05-20-28/§61),overføring til tvungent psykisk helsevern, jf. [§ 62](lov/2005-05-20-28/§62),overføring til tvungen omsorg, jf. [§ 63](lov/2005-05-20-28/§63),inndragning, jf. [kapittel 13](lov/2005-05-20-28/kap13),påtaleunnlatelse, jf. [straffeprosessloven §§ 69](lov/1981-05-22-25/§69) og [70](lov/1981-05-22-25/§70),overføring av saken til mekling i konfliktråd, oppfølging i konfliktråd eller til ungdomsoppfølging i konfliktråd, jf. [straffeprosessloven § 71 a](lov/1981-05-22-25/§71a) første og annet ledd, ogtap av retten til å føre motorvogn mv., jf. [vegtrafikkloven § 24 a](lov/1965-06-18-4/§24a) annet ledd, [§ 33](lov/1965-06-18-4/§33) nr. 1 og 2, jf. nr. 6, og [§ 35](lov/1965-06-18-4/§35) første ledd og tap av retten til å drive persontransport mot vederlag (kjøreseddel), jf. [yrkestransportloven § 37 f](lov/2002-06-21-45/§37f) annet ledd.
+
+> Endret ved lover [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)).
+
+### Kapittel 6. Fengselsstraff
+
+### § 31. Fastsetting av fengselsstraff
+
+Fengselsstraff kan idømmes når dette er bestemt i straffebudet.
+
+Minstestraffen er 14 dager når ikke annet er bestemt i loven.
+
+Fengselsstraff idømmes for en fastsatt tid. Fengselsstraff til og med 120 dager fastsettes i dager. Fengselsstraff over 4 måneder fastsettes i måneder og år.
+
+### § 32. Forening av fengselsstraff med andre straffer
+
+Sammen med fengselsstraff kan det idømmessamfunnsstraff på vilkår som angitt i [§ 51 bokstav a](lov/2005-05-20-28/§51/bokstav/a),bot, jf. [§ 54 første punktum bokstav a](lov/2005-05-20-28/§54/setning/1/bokstav/a), jf. annet punktum,rettighetstap, jf. [§ 59 bokstav a](lov/2005-05-20-28/§59/bokstav/a), ellerungdomsstraff, jf. [§ 52 a fjerde ledd](lov/2005-05-20-28/§52a/ledd/4).
+
+Adgangen etter første ledd til å ilegge andre straffer sammen med fengselsstraff er uten betydning for bestemmelser som tillegger strafferammen rettslig virkning.
+
+> Endret ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 33. Begrenset bruk av fengselsstraff overfor unge lovbrytere
+
+Den som var under 18 år på handlingstidspunktet, kan bare idømmes ubetinget fengselsstraff når det er særlig påkrevd. Fengselsstraffen kan ikke overstige 15 år selv om straffebudet gir adgang til å idømme strengere straff.
+
+### § 34. Fullbyrdingsutsettelse (betinget fengsel)
+
+I dom på fengselsstraff kan retten bestemme at fullbyrdingen helt eller delvis utsettes i en prøvetid. Utsettes fullbyrdingen av deler av straffen (dels betinget, dels ubetinget fengsel), kan den ubetingede delen ikke settes lavere enn 14 dager.
+
+Prøvetiden skal i alminnelighet være 2 år. Når vilkårene for straffskjerpelse ved gjentakelse er oppfylt, og i andre særlige tilfeller, kan det settes en lengre prøvetid, men ikke over 5 år. Prøvetiden regnes fra den dagen endelig dom er avsagt.
+
+Fullbyrdingsutsettelse gis på det grunnvilkår at den domfelte ikke begår en ny straffbar handling i prøvetiden. I tillegg kan retten fastsette særvilkår etter [§§ 35](lov/2005-05-20-28/§35) til [37](lov/2005-05-20-28/§37). Den siktede skal så vidt mulig få uttale seg om særvilkår før de fastsettes.
+
+### § 35. Særvilkår om erstatning og oppreisning
+
+Som særvilkår for fullbyrdingsutsettelse skal retten pålegge den domfelte å yte slik erstatning og oppreisning som den fornærmede eller en annen skadelidt har rett til og gjør krav på, og som den domfelte har evne til å betale. Er tapet tilstrekkelig klargjort, kan retten også av eget tiltak sette vilkår om erstatning.
+
+### § 36. Særvilkår om meldeplikt
+
+Som særvilkår for fullbyrdingsutsettelse kan retten pålegge den domfelte å melde seg for politiet til bestemte tider. Perioden for meldeplikten er 1 år når ikke retten bestemmer noe annet. Meldeplikten løper fra den dag dommen er rettskraftig. Gjelder dommen en straffbar handling som den domfelte har tilstått, kan det bestemmes i dommen at meldeplikten skal settes i verk straks.
+
+### § 37. Andre særvilkår
+
+Som særvilkår for fullbyrdingsutsettelse kan retten pålegge den domfelte åoverholde bestemmelser om bosted, oppholdssted, arbeid eller opplæring,unngå kontakt med bestemte personer,tåle innskrenkninger i rådigheten over inntekt og formue og oppfylle økonomiske forpliktelser, som å betale pliktige underholdsbidrag,avstå fra å bruke alkohol eller andre berusende eller bedøvende midler og avgi nødvendige rusprøver,gjennomgå behandling for å motvirke misbruk av alkohol eller andre berusende eller bedøvende midler, om nødvendig i institusjon,gjennomføre narkotikaprogram med domstolskontroll, jf. [§ 38](lov/2005-05-20-28/§38), eller program mot ruspåvirket kjøring for personer som er dømt for overtredelse av [vegtrafikkloven § 31](lov/1965-06-18-4/§31), jf. [§ 22](lov/1965-06-18-4/§22) første ledd, og som har problem med alkohol eller annet berusende eller bedøvende middel, forutsatt at domfelte har samtykket til å gjennomføre programmene,gjennomgå psykiatrisk behandling, om nødvendig i institusjon,ta opphold i hjem eller institusjon for inntil 1 år,møte til mekling i konfliktrådet og oppfylle eventuelle avtaler som inngås i meklingsmøte, eller gjennomføre oppfølging i konfliktråd med varighet på inntil ett år, forutsatt at saken egner seg for slik behandling og at det foreligger samtykke både fra fornærmede, domfelte og deres eventuelle verger,møte hos rådgivende enhet for russaker etter innkalling, forutsatt at domfellelsen gjelder bruk, erverv, besittelse eller oppbevaring av narkotika til domfeltes egen bruk etter [§ 231](lov/2005-05-20-28/§231) eller [legemiddelloven § 31](lov/1992-12-04-132/§31), jf. [§ 24](lov/1992-12-04-132/§24) første ledd, elleroppfylle andre særvilkår som retten finner hensiktsmessig.
+
+[Straffeprosessloven § 461](lov/1981-05-22-25/§461) gjelder tilsvarende for særvilkårene nevnt i bokstav f.
+
+Når en domfelt som var under 18 år på handlingstidspunktet, skal avgi rusprøve etter bokstav d, gjelder [helsepersonelloven § 12](lov/1999-07-02-64/§12) tredje ledd.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [24 juni 2011 nr. 34](lov/2011-06-24-34), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [19 juni 2015 nr. 65](lov/2015-06-19-65), [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 38. Forskrift om særvilkår m.m.
+
+Kongen kan gi forskrift om gjennomføringen av særvilkår for fullbyrdingsutsettelse. Kongen gir nærmere bestemmelser om narkotikaprogram med domstolskontroll, herunder hvem det skal gjelde for, innholdet i og gjennomføringen av det. Kriminalomsorgen har ansvaret for å følge opp domfelte som gjennomfører narkotikaprogram med domstolskontroll, som gjennomfører program mot ruspåvirket kjøring eller som er under 18 år og pålagt vilkår om avholdenhet etter [§ 37](lov/2005-05-20-28/§37) bokstav d. [Straffegjennomføringsloven § 56](lov/2001-05-18-21/§56) gjelder tilsvarende ved vilkår om narkotikaprogram med domstolskontroll, vilkår om program mot ruspåvirket kjøring og vilkår om avholdenhet som nevnt i tredje punktum.
+
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [16 des 2016 nr. 98](lov/2016-12-16-98) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1604](forskrift/2016-12-16-1604)).
+
+### § 39. Brudd på vilkår for fullbyrdingsutsettelse mv.
+
+Når den domfeltes forhold gir grunn til det, kan tingretten ved kjennelse i prøvetiden oppheve eller endre fastsatte særvilkår og sette nye særvilkår. Finner retten det påkrevd, kan den også forlenge prøvetiden, men ikke til mer enn 5 år i alt. Ved vilkår om narkotikaprogram og program mot ruspåvirket kjøring, kan kriminalomsorgen bringe saken inn for retten med begjæring om slik kjennelse. Den domfelte skal så vidt mulig få uttale seg om særvilkår og forlengelse av prøvetiden.
+
+Når den domfelte alvorlig eller gjentatt bryter fastsatte særvilkår, kan tingretten ved dom bestemme at straff helt eller delvis skal fullbyrdes, eller sette en ny prøvetid og nye særvilkår. Påtalemyndighetens begjæring om slik dom må være brakt inn for retten innen 3 måneder etter utløpet av prøvetiden. Ved vilkår om narkotikaprogram og program mot ruspåvirket kjøring, kan kriminalomsorgen bringe saken inn for retten med begjæring om slik dom. Første ledd fjerde punktum gjelder tilsvarende. Ved delvis fullbyrding av dommen gjelder ikke [§ 31](lov/2005-05-20-28/§31) annet ledd. Reglene om varsling i [straffeprosessloven § 243](lov/1981-05-22-25/§243) gjelder tilsvarende for rettsmøter om omgjøring. Kriminalomsorgen skal varsles etter samme regler som påtalemyndigheten.
+
+Begår den domfelte en straffbar handling i prøvetiden, og tiltale blir reist eller saken begjært pådømt ved tilståelsesdom innen 6 måneder etter utløpet av prøvetiden, kan retten avsi en samlet dom for begge handlingene eller særskilt dom for den nye handlingen. Blir det avsagt særskilt dom for den nye handlingen, kan retten i dommen også endre den tidligere betingede dommen som bestemt i første ledd.
+
+> Endret ved lover [20 juni 2008 nr. 47](lov/2008-06-20-47) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1124](forskrift/2008-10-17-1124)), [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### Kapittel 7. Forvaring
+
+### § 40. Vilkår for å idømme forvaring
+
+Når fengselsstraff ikke anses tilstrekkelig til å verne andres liv, helse eller frihet, kan forvaring i anstalt under kriminalomsorgen idømmes når lovbryteren finnes skyldig i å ha begått eller forsøkt å begå et voldslovbrudd, et seksuallovbrudd, en frihetsberøvelse, en ildspåsettelse eller et annet lovbrudd som krenket andres liv, helse eller frihet, eller utsatte disse rettsgodene for fare og vilkårene i annet eller tredje ledd er oppfylt. Er siktede under 18 år, kan forvaring ikke idømmes, med mindre det foreligger helt ekstraordinære omstendigheter.
+
+Var lovbruddet av alvorlig art, må det være en nærliggende fare for at lovbryteren på nytt vil begå et alvorlig lovbrudd som nevnt i første ledd.
+
+Var lovbruddet av mindre alvorlig art, målovbryteren tidligere ha begått eller forsøkt å begå et alvorlig lovbrudd som nevnt i første ledd,det må antas å være en nær sammenheng mellom det tidligere og det nå begåtte lovbruddet, ogfaren for tilbakefall til et nytt alvorlig lovbrudd som nevnt i første ledd, må være særlig nærliggende.
+
+Ved vurderingen av faren for tilbakefall etter annet og tredje ledd skal det legges vekt på det begåtte lovbruddet sammenholdt særlig med lovbryterens atferd og sosiale og personlige funksjonsevne. For saker som nevnt i annet ledd skal det særlig legges vekt på om lovbryteren tidligere har begått eller forsøkt å begå et alvorlig lovbrudd som nevnt i første ledd.
+
+Før dom på forvaring avsies, skal det foretas personundersøkelse av den siktede. Retten kan bestemme at den siktede skal underkastes rettspsykiatrisk undersøkelse i stedet for eller i tillegg til personundersøkelsen.
+
+> Endret ved lov [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)).
+
+### § 41. Forening av forvaring med andre straffer
+
+Sammen med forvaring kan det idømmes rettighetstap, jf. [§ 59](lov/2005-05-20-28/§59) bokstav d.
+
+### § 42. Bortfall av idømt fengselsstraff og samfunnsstraff
+
+Tidligere idømt fengselsstraff og samfunnsstraff faller bort når forvaring idømmes.
+
+### § 43. Varigheten av forvaringen
+
+I dom på forvaring fastsettes en tidsramme som vanligvis ikke bør overstige 15 år, og som ikke kan overstige 21 år. For lovbrudd som har en strafferamme på fengsel i inntil 30 år, kan retten fastsette en tidsramme som ikke kan overstige 30 år. Var den domfelte under 18 år på handlingstidspunktet, bør tidsrammen vanligvis ikke overstige 10 år, og den kan ikke overstige 15 år. Etter begjæring fra påtalemyndigheten kan retten ved dom forlenge den fastsatte rammen med inntil 5 år om gangen. Sak om forlengelse reises ved tingretten senest 3 måneder før utløpet av forvaringstiden.
+
+Retten bør også fastsette en minstetid for forvaringen som ikke må overstige 10 år. I de tilfeller hvor retten fastsetter en tidsramme som overstiger 15 år, kan retten likevel fastsette en minstetid som ikke kan overstige 14 år. I tilfeller der retten fastsetter en tidsramme som overstiger 21 år, kan retten fastsette en minstetid som ikke kan overstige 20 år.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 44. Prøveløslatelse
+
+Den domfelte kan løslates på prøve før utløpet av forvaringstiden. Er det fastsatt minstetid, kan den domfelte ikke løslates på prøve før minstetiden er utløpt. Prøvetiden skal være fra 1 til 5 år.
+
+Når den domfelte eller kriminalomsorgen begjærer løslatelse på prøve, fremmer påtalemyndigheten saken for tingretten, som avgjør den ved dom. Når påtalemyndigheten samtykker i prøveløslatelse, kan slik løslatelse besluttes av kriminalomsorgen.
+
+Behandlingen av en sak om prøveløslatelse skal påskyndes.
+
+Den domfelte kan ikke begjære prøveløslatelse før 1 år etter at forvaringsdommen eller en dom som nekter prøveløslatelse, er endelig.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 45. Vilkår ved prøveløslatelse
+
+Retten kan sette følgende vilkår ved prøveløslatelse:vilkår som ved betinget dom, jf. [§§ 35-37](lov/2005-05-20-28/§35),vilkår om at den prøveløslatte skal følges opp av kriminalomsorgen, ellervilkår om at den prøveløslatte skal ha opphold i institusjon eller kommunal boenhet ut over ettårsfristen i [§ 37](lov/2005-05-20-28/§37) bokstav h. Slikt vilkår kan bare settes dersom særlige grunner tilsier det og institusjonen eller kommunen har samtykket. Retten kan bestemme at den prøveløslatte skal kunne holdes tilbake i institusjonen eller den kommunale boenheten mot sin vilje og hentes tilbake ved unnvikelse, om nødvendig med tvang og med bistand fra offentlig myndighet.
+
+Kriminalomsorgen kan ved prøveløslatelse sette vilkår som nevnt i første ledd bokstav a og b, unntatt slike vilkår som nevnt i [§ 37](lov/2005-05-20-28/§37) bokstav k (andre særvilkår som retten finner hensiktsmessig).
+
+Når det er fastsatt vilkår om at den prøveløslatte skal følges opp av kriminalomsorgen, kan tiltak etter [straffegjennomføringsloven § 56](lov/2001-05-18-21/§56) iverksettes.
+
+Den domfelte skal få uttale seg om vilkårene. Det samme gjelder kriminalomsorgen når vilkårene fastsettes av retten.
+
+Om endring av fastsatte vilkår og forlengelse av prøvetid gjelder [§ 39](lov/2005-05-20-28/§39) første ledd tilsvarende.
+
+Den prøveløslatte kan begjære at tingretten treffer kjennelse om at vilkår som nevnt i første ledd bokstav c skal oppheves eller endres, jf. [§ 39](lov/2005-05-20-28/§39) første ledd. Slik begjæring kan tidligst fremmes 1 år etter at dommen om prøveløslatelse eller tingrettens siste kjennelse er endelig.
+
+Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatte å få kjennskap til tidspunktet for prøveløslatelsen, skal kriminalomsorgen varsle fornærmede eller dennes etterlatte på forhånd. Varselet skal også omfatte vilkår fastsatt med hjemmel i lov eller forskrift, når vilkårene direkte gjelder fornærmede eller dennes etterlatte.
+
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [16 des 2016 nr. 98](lov/2016-12-16-98) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1604](forskrift/2016-12-16-1604)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 46. Brudd på vilkår for forvaring mv.
+
+Etter begjæring kan tingretten ved dom bestemme at den prøveløslatte skal gjeninnsettes i forvaring, eller sette en ny prøvetid og nye vilkår dersomden prøveløslatte i prøvetiden alvorlig eller gjentatt bryter fastsatte vilkår,den prøveløslatte begår en ny straffbar handling i prøvetiden, ellersærlige grunner ikke lenger tilsier prøveløslatelse i medhold av [§ 45](lov/2005-05-20-28/§45) første ledd bokstav c.
+
+Påtalemyndighetens begjæring om slik dom må være brakt inn for retten innen 3 måneder etter at prøvetiden gikk ut. Er den prøveløslatte blitt fulgt opp av kriminalomsorgen, skal kriminalomsorgen gi uttalelse før det blir avsagt dom. Den domfelte skal så vidt mulig få uttale seg.
+
+I saker etter første ledd bokstav b kan retten avsi samlet dom for begge handlingene eller særskilt dom for den nye handlingen.
+
+Dersom institusjonen eller kommunen trekker tilbake sitt samtykke etter [§ 45](lov/2005-05-20-28/§45) første ledd bokstav c, gjeninnsettes den løslatte.
+
+### § 47. Forskrift om forvaring og prøveløslatelse fra forvaring
+
+Kongen kan gi forskrift om gjennomføringen av forvaring og prøveløslatelse fra forvaring.
+
+### Kapittel 8. Samfunnsstraff
+
+### § 48. Vilkår for å idømme samfunnsstraff
+
+Samfunnsstraff kan idømmes i stedet for fengselsstraff nårdet ellers ikke ville ha blitt idømt strengere straff enn fengsel i 1 år,hensynet til straffens formål ikke taler mot en reaksjon i frihet, oglovbryteren samtykker og har bosted i Norge, Danmark, Finland, Island eller Sverige.
+
+Første ledd bokstav a kan fravikes når den straff som ellers ville ha blitt idømt, helt eller delvis ville ha vært betinget, når lovbryteren er under 18 år, og ellers når sterke grunner taler for at samfunnsstraff idømmes.
+
+> Endret ved lover [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [1 juni 2018 nr. 25](lov/2018-06-01-25) (ikr. 1 juni 2018 iflg. [res. 1 juni 2018 nr. 790](forskrift/2018-06-01-790)).
+
+### § 49. Timetall, subsidiær fengselsstraff og gjennomføringstid
+
+I dom på samfunnsstraff skal retten fastsetteen samfunnsstraff fra 30 til 420 timer,en subsidiær fengselsstraff, som skal svare til den fengselsstraff som ville ha blitt idømt uten samfunnsstraff, ogen gjennomføringstid, som normalt skal svare til den subsidiære fengselsstraffen. Er den subsidiære fengselsstraffen kortere enn 120 dager, kan det likevel fastsettes en gjennomføringstid på inntil 120 dager.
+
+Ved fastsetting av gjennomføringstid og subsidiær fengselsstraff, gjelder [§ 31](lov/2005-05-20-28/§31) tredje ledd annet og tredje punktum tilsvarende.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 50. Adgang til å fastsette vilkår
+
+I dom på samfunnsstraff kan retten bestemme at den domfelte i gjennomføringstidenskal overholde bestemmelser gitt av kriminalomsorgen om bosted, oppholdssted, arbeid, opplæring eller behandling, ellerforbys kontakt med bestemte personer.
+
+### § 51. Forening av samfunnsstraff med andre straffer
+
+Sammen med samfunnsstraff kan det idømmesubetinget fengselsstraff på inntil 60 dager når særlige grunner tilsier det, jf. [§ 32](lov/2005-05-20-28/§32) første ledd bokstav a,bot, jf. [§ 54](lov/2005-05-20-28/§54) første punktum bokstav b, jf. annet punktum, ellerrettighetstap, jf. [§ 59](lov/2005-05-20-28/§59) bokstav a.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 52. Brudd på vilkår for samfunnsstraff
+
+Etter begjæring kan tingretten ved dom bestemme at hele eller deler av den subsidiære fengselsstraffen skal fullbyrdes når den domfeltebryter bestemmelser gitt i eller i medhold av [straffegjennomføringsloven § 54](lov/2001-05-18-21/§54) første og annet ledd, [§ 55](lov/2001-05-18-21/§55) eller [§ 58](lov/2001-05-18-21/§58) første ledd bokstav a til d, ellerbegår en ny straffbar handling før utløpet av gjennomføringstiden.
+
+Ved omgjøringen skal retten ta hensyn til samfunnsstraff som allerede er gjennomført. Dersom den subsidiære fengselsstraffen ikke skal fullbyrdes i sin helhet, kan retten forlenge gjennomføringstiden med inntil 6 måneder.
+
+Ved omgjøring etter første ledd bokstav b kan retten avsi samlet dom for begge handlingene eller særskilt dom for den nye handlingen.
+
+Begjæring etter første ledd bokstav a fremmes av kriminalomsorgen eller påtalemyndigheten. Begjæring etter første ledd bokstav b fremmes av påtalemyndigheten. Begjæringen må være brakt inn for retten innen 3 måneder etter utløpet av gjennomføringstiden.
+
+Reglene om varsling i [straffeprosessloven § 243](lov/1981-05-22-25/§243) gjelder tilsvarende for rettsmøter om omgjøring. Kriminalomsorgen skal varsles etter de samme regler som påtalemyndigheten.
+
+### Kapitel 8 a. Ungdomsstraff
+
+> Kapitlet tilføyd ved lov [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)).
+
+### § 52 a. Vilkår for å idømme ungdomsstraff
+
+Ungdomsstraff etter [konfliktrådsloven kapittel IV](lov/2014-06-20-49/kapIV) kan idømmes i stedet for fengselsstraff nårlovbryteren var under 18 år på handlingstidspunktet,ungdomsstraff anses som en egnet reaksjon,lovbryteren har bosted i Norge, oghensynet til straffens formål ikke med tyngde taler mot en reaksjon i frihet.
+
+Ungdomsstraff etter første ledd kan idømmes når det skal utmåles en felles straff for flere lovbrudd og lovbryteren var over 18 år på handlingstidspunktet for ett eller flere av lovbruddene. Det er en forutsetning for slik pådømmelse at lovbruddene i hovedsak ble begått før lovbryteren fylte 18 år, og at de lovbruddene som ble begått etter fylte 18 år, vurderes som mindre alvorlige. Vilkårene i første ledd bokstav b til d gjelder tilsvarende.
+
+Lovbryteren har rett til å medvirke i vurderingen av om ungdomsstraff er en egnet reaksjon.
+
+Dersom hensynet til straffens formål med tyngde taler mot at hele reaksjonen gjennomføres i frihet, kan ungdomsstraff idømmes sammen med en ubetinget fengselsstraff, når fengselsstraff er særlig påkrevd.
+
+> Tilføyd ved lov [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), endret ved lover [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
+
+### § 52 b. Gjennomføringstid, vilkår og subsidiær fengselsstraff
+
+I dom på ungdomsstraff skal retten fastsette:En gjennomføringstid på mellom 120 dager og to år. Dersom den fengselsstraff som ville ha blitt idømt uten ungdomsstraff er klart lengre enn to år, kan en gjennomføringstid på inntil tre år fastsettes.En subsidiær fengselsstraff, som skal svare til den fengselsstraff som ville ha blitt idømt uten ungdomsstraff. Ved fastsetting av subsidiær fengselsstraff gjelder [§ 31](lov/2005-05-20-28/§31) tilsvarende.
+
+Retten kan igangsette ungdomsstraff ved å fastsette særvilkår etter [§ 37 første ledd bokstav a](lov/2005-05-20-28/§37/ledd/1/bokstav/a), [b](lov/2005-05-20-28/§37/ledd/1/bokstav/b) og [d](lov/2005-05-20-28/§37/ledd/1/bokstav/d). Vilkårene løper fra det tidspunktet retten fastsetter og gjelder frem til det avholdes ungdomsplanmøte etter [konfliktrådsloven § 24](lov/2014-06-20-49/§24).
+
+Når en dom på ungdomsstraff blir lest opp eller forkynt for den domfelte, skal han gjøres nærmere kjent med hva dommen går ut på, og med følgene av brudd på bestemmelsene gitt i eller i medhold av [konfliktrådsloven § 31](lov/2014-06-20-49/§31), og av at det begås en ny straffbar handling før utløpet av gjennomføringstiden.
+
+> Tilføyd ved lov [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), endret ved lover [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
+
+### § 52 c. Brudd på vilkår for ungdomsstraff
+
+Etter begjæring kan tingretten ved dom bestemme at hele eller deler av den subsidiære fengselsstraffen skal fullbyrdes eller omgjøres til samfunnsstraff eller betinget fengsel når den domfelte harbrutt bestemmelser gitt i eller i medhold av [konfliktrådsloven § 31](lov/2014-06-20-49/§31), ellerbegått en ny straffbar handling før utløpet av gjennomføringstiden.
+
+Ved omgjøringen skal retten ta hensyn til ungdomsstraff som allerede er gjennomført. Dersom bruddet eller den straffbare handlingen ble begått mens domfelte var i prøvetid, kan retten ved omgjøringen også se hen til gjenstående reststraff.
+
+Ved omgjøring etter første ledd bokstav b kan retten avsi samlet dom for begge handlinger eller særskilt dom for den nye handlingen.
+
+Dersom elektronisk kontroll anses nødvendig for å sikre at domfelte overholder vilkår om oppholdssted eller vilkår om å unngå kontakt med bestemte personer, kan retten, etter begjæring, istedenfor omgjøring etter første ledd bokstav a ved dom fastsette at straffegjennomføringen skal fortsette med slike vilkår. Domfelte har rett til å medvirke ved fastsetting av vilkår etter første punktum.
+
+Vilkår etter fjerde ledd fastsettes for en bestemt tid inntil 6 måneder og kan prøves på nytt etter 3 måneder. Vilkårene kan forlenges med 6 måneder inntil gjennomføringstidens utløp. Etter begjæring fra kriminalomsorgen eller påtalemyndigheten kan retten beslutte at vilkår etter fjerde ledd skal lempes eller opphøre. Rettens avgjørelse om forlengelse, lemping eller opphør treffes ved kjennelse. Kongen kan i forskrift gi nærmere regler om gjennomføringen av elektronisk kontroll, herunder om saksbehandlingen og behandling av personopplysninger ved slik kontroll.
+
+Begjæring etter første ledd bokstav a og fjerde og femte ledd fremmes av kriminalomsorgen eller påtalemyndigheten. Begjæring etter første ledd bokstav b fremmes av påtalemyndigheten. Begjæringen etter første ledd bokstav a og b må være brakt inn for retten innen 3 måneder etter utløpet av gjennomføringstiden. Begjæring etter fjerde og femte ledd må være brakt inn for retten før utløpet av gjennomføringstiden.
+
+Reglene om forsvarer og om pågripelse og varetektsfengsel i [straffeprosessloven § 96 tredje ledd](lov/1981-05-22-25/§96/ledd/3) og [§ 99 første ledd tredje punktum](lov/1981-05-22-25/§99/ledd/1/setning/3) og [kapittel 14](lov/1981-05-22-25/kap14) gjelder tilsvarende. Reglene om varsling i [straffeprosessloven § 243](lov/1981-05-22-25/§243) gjelder tilsvarende for rettsmøter om omgjøring. Kriminalomsorgen skal varsles etter de samme regler som påtalemyndigheten.
+
+> Tilføyd ved lov [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), endret ved lover [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
+
+### § 52 d. Forening av ungdomsstraff med andre straffer
+
+Sammen med ungdomsstraff kan det idømmesubetinget fengselsstraff, jf. [§ 52 a fjerde ledd](lov/2005-05-20-28/§52a/ledd/4), jf. [§ 32 bokstav d](lov/2005-05-20-28/§32/bokstav/d), ellerrettighetstap, jf. [§ 59 bokstav e](lov/2005-05-20-28/§59/bokstav/e).
+
+> Tilføyd ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)), endret ved lov [29 nov 2024 nr. 73](lov/2024-11-29-73) (i kraft 1 des 2024 iflg. [res. 29 nov 2024 nr. 2890](forskrift/2024-11-29-2890)).
+
+### Kapittel 9. Bot
+
+### § 53. Ilegging av bot
+
+Bot kan ilegges som eneste straff når dette er bestemt i straffebudet.
+
+Ved utmåling av bot skal det ved siden av slike forhold som i alminnelighet tillegges vekt ved straffutmålingen, legges vekt på lovbryterens inntekt, formue, forsørgelsesbyrde, gjeldsbyrde og andre forhold som påvirker den økonomiske evnen. Ved utmåling av bot overfor et foretak gjelder [§ 28](lov/2005-05-20-28/§28).
+
+Boten tilfaller staten når ikke annet er bestemt.
+
+Dersom lovbryteren var under 18 år på handlingstidspunktet, kan retten bestemme at fullbyrdingen av straffen utsettes i en prøvetid (betinget bot). Det samme gjelder når en lovbryter har ervervet, besittet eller oppbevart narkotika til egen bruk etter [§ 231](lov/2005-05-20-28/§231) eller [legemiddelloven § 31](lov/1992-12-04-132/§31), jf. [§ 24](lov/1992-12-04-132/§24) første ledd. Prøvetiden skal i alminnelighet være to år. Fullbyrdingsutsettelse gis på det grunnvilkår at den domfelte ikke begår en ny straffbar handling i prøvetiden. I tillegg kan retten fastsette særvilkår som nevnt i [§ 36](lov/2005-05-20-28/§36) og [§ 37 bokstav a](lov/2005-05-20-28/§37/bokstav/a) til [h](lov/2005-05-20-28/§37/bokstav/h) og [j](lov/2005-05-20-28/§37/bokstav/j). Den siktede skal få uttale seg om særvilkår før de fastsettes. [§ 39](lov/2005-05-20-28/§39) gjelder tilsvarende så langt den passer. Ved forelegg gjelder reglene om betinget bot tilsvarende så langt de passer.
+
+> Endret ved lover [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 54. Forening av bot med andre straffer
+
+Bot kan ilegges sammen medfengselsstraff, jf. [§ 32](lov/2005-05-20-28/§32) bokstav b,samfunnsstraff, jf. [§ 51](lov/2005-05-20-28/§51) bokstav b, ellerrettighetstap, jf. [§ 59](lov/2005-05-20-28/§59) bokstav c.Dette gjelder selv om bot ikke er fastsatt som straff for lovbruddet.
+
+### § 55. Subsidiær fengselsstraff
+
+Når bot ilegges, fastsettes en subsidiær fengselsstraff fra 1 til 120 dager. Den subsidiære straffen kan fullbyrdes når vilkårene i [straffeprosessloven § 456](lov/1981-05-22-25/§456) annet ledd første punktum er oppfylt.
+
+Subsidiær fengselsstraff faller bort ved full betaling av boten. Betales en del av boten, nedsettes fengselsstraffen forholdsmessig, regnet i hele dager.
+
+Er bot ilagt et foretak etter [§ 27](lov/2005-05-20-28/§27) eller lovbryter som var under 18 år på handlingstidspunktet, fastsettes ikke fengselsstraff etter første ledd.
+
+> Endret ved lover [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### Kapittel 10. Rettighetstap
+
+### § 56. Tap av retten til å ha en stilling eller utøve en virksomhet eller aktivitet
+
+Den som har begått en straffbar handling som viser at vedkommende er uskikket til eller kan misbruke en stilling, virksomhet eller aktivitet, kan, når allmenne hensyn tilsier det,fratas stillingen, ellerfratas retten til for fremtiden å ha en stilling eller utøve en virksomhet eller aktivitet.
+
+Rettighetstapet kan begrenses til forbud mot å utøve visse funksjoner som ligger til stillingen eller virksomheten, eller til påbud om å utøve virksomheten eller aktiviteten på bestemte vilkår.
+
+Den som er fratatt retten til å utøve en virksomhet, kan heller ikke forestå slik virksomhet for andre eller la andre forestå slik virksomhet for seg.
+
+Den skyldige kan pålegges å gi fra seg et dokument eller en annen gjenstand som har tjent som bevis for den tapte rettigheten.
+
+Rettighetstap etter bestemmelsen her kan ilegges som eneste straff hvis det ikke er fastsatt en minstestraff på fengsel i 1 år eller mer for handlingen.
+
+### § 57. Forbud mot kontakt
+
+Den som har begått en straffbar handling, kan ilegges kontaktforbud når det er grunn til å tro at vedkommende ellers vilbegå en straffbar handling overfor en annen person,forfølge en annen person, ellerpå annet vis krenke en annens fred.
+
+Kontaktforbudet kan gå ut på at den forbudet retter seg mot, forbyså oppholde seg i bestemte områder,å forfølge, besøke eller på annet vis kontakte en annen person.
+
+Er det nærliggende fare for en handling som nevnt i første ledd bokstav a, kan den skyldige forbys å oppholde seg i sitt eget hjem.
+
+Kontaktforbudet kan begrenses på nærmere angitte vilkår.
+
+Dersom det anses nødvendig for at kontaktforbudet skal bli overholdt, kan retten bestemme at den kontaktforbudet retter seg mot, skal ilegges elektronisk kontroll i hele eller deler av perioden kontaktforbudet gjelder for. Slik kontroll kan bare omfatte registrering av opplysninger om at den domfelte beveger seg innenfor områder omfattet av kontaktforbudet, opplysninger om at den domfelte beveger seg i nærheten av fornærmede, og opplysninger om uteblitte signaler fra kontrollutstyret. Domfelte plikter å yte den bistand og å følge de instruksjoner som gis av politiet, som er nødvendig for å gjennomføre kontrollen, herunder å vedlikeholde og sørge for signaler fra kontrollutstyret. Utenfor områder omfattet av forbudet kan handlinger som ellers ville utløst alarmen, bare foretas med bistand fra politiet. Opphold innenfor forbudssonen kan bare skje etter tillatelse fra politiet. Kongen kan i forskrift gi nærmere regler om gjennomføringen av elektronisk kontroll, herunder om saksbehandlingen og behandling av personopplysninger i forbindelse med slik kontroll.
+
+Rettighetstap etter bestemmelsen her kan ilegges som eneste straff hvis det ikke er fastsatt en minstestraff på fengsel i 1 år eller mer for handlingen.
+
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
+
+### § 58. Varigheten av rettighetstapet
+
+Et rettighetstap trer i kraft den dag dommen eller forelegget er endelig.
+
+Rettighetstap etter [§ 56](lov/2005-05-20-28/§56) første ledd bokstav b og [§ 57](lov/2005-05-20-28/§57) ilegges for en bestemt tid inntil 5 år, eller når særlige grunner tilsier det, på ubestemt tid. Elektronisk kontroll kan likevel ikke ilegges på ubestemt tid. Verv som medlem av kommunestyre, fylkesting eller Stortinget kan bare fratas for valgperioden. Forbud mot opphold i eget hjem, jf. [§ 57](lov/2005-05-20-28/§57) tredje ledd, kan bare ilegges for en bestemt tid inntil 1 år.
+
+Rettighetstap som nevnt i annet ledd kan etter 3 år prøves på ny av tingretten. Påbud om elektronisk kontroll kan etter 6 måneder prøves på ny av tingretten. Begjæringen fremsettes for påtalemyndigheten, som forbereder saken for retten. [Straffeprosessloven § 222 a](lov/1981-05-22-25/§222a) åttende ledd annet og tredje punktum gjelder tilsvarende ved fornyet prøving av kontaktforbud og påbud om elektronisk kontroll. Rettens avgjørelse treffes ved kjennelse. Opprettholdes rettighetstapet helt eller delvis, kan saken ikke prøves på ny før etter 3 år. Opprettholdes et påbud om elektronisk kontroll, kan påbudet ikke prøves på ny før etter 6 måneder.
+
+Fristen for rettighetstapet og for adgangen til å begjære ny prøving etter tredje ledd løper ikke i den tiden lovbryteren soner frihetsstraff eller unndrar seg fullbyrdingen av slik straff.
+
+Tingretten i den rettskrets et kontaktforbud gjelder, kan på begjæring fra påtalemyndigheten og av hensyn til den eller de personene som skal beskyttes av forbudet, endre innholdet i kontaktforbudet, jf. [§ 57](lov/2005-05-20-28/§57) annet ledd. Tredje ledd tredje og femte punktum og [straffeprosessloven § 222 a](lov/1981-05-22-25/§222a) åttende ledd annet og tredje punktum gjelder tilsvarende.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 59. Forening av rettighetstap med andre straffer
+
+Rettighetstap kan ilegges sammen medfengselsstraff, jf. [§ 32](lov/2005-05-20-28/§32) første ledd bokstav c,samfunnsstraff, jf. [§ 51](lov/2005-05-20-28/§51) bokstav c,bot, jf. [§ 54 første punktum bokstav c](lov/2005-05-20-28/§54/setning/1/bokstav/c), jf. annet punktum,forvaring, jf. [§ 41](lov/2005-05-20-28/§41), ellerungdomsstraff, jf. [§ 52 d bokstav b](lov/2005-05-20-28/§52/bokstav/b).
+
+> Endret ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### Kapittel 11. Straffutmålingsutsettelse og straffutmålingsfrafall
+
+### § 60. Straffutmålingsutsettelse
+
+Selv om straffeskyld anses bevist, kan retten utsette å utmåle straff i en prøvetid.
+
+Når en lovbryter har begått flere lovbrudd og det skal idømmes en felles straff, jf. [§ 79](lov/2005-05-20-28/§79) bokstav a, kan straffutmålingsutsettelse kombineres meddelvis ubetinget fengsel som ikke kan settes lavere enn 14 dager, ellerbot, selv om bot ikke er fastsatt som straff for lovbruddene.
+
+Reglene i [§ 34](lov/2005-05-20-28/§34) annet og tredje ledd og [§§ 35](lov/2005-05-20-28/§35) til [39](lov/2005-05-20-28/§39) gjelder tilsvarende så langt de passer. [§ 39](lov/2005-05-20-28/§39) annet ledd femte punktum får likevel ikke anvendelse.
+
+> Endret ved lov [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)).
+
+### § 61. Straffutmålingsfrafall
+
+Selv om straffeskyld anses bevist, kan retten, når helt særlige grunner tilsier det, frafalle å utmåle straff.
+
+Ved avgjørelsen om det foreligger helt særlige grunner skal det spesielt legges vekt på om utmåling av straff vil virke som en urimelig tilleggsbelastning for lovbryteren, og heller ikke hensynet til straffens formål og virkninger for øvrig tilsier at det utmåles en reaksjon.
+
+[§ 60](lov/2005-05-20-28/§60) annet ledd gjelder tilsvarende.
+
+### Kapittel 12. Overføring til tvungent psykisk helsevern og tvungen omsorg
+
+### § 62. Vilkår for å idømme overføring til tvungent psykisk helsevern
+
+En lovbryter som er utilregnelig etter [§ 20](lov/2005-05-20-28/§20) annet til fjerde ledd kan ved dom overføres til tvungent psykisk helsevern når denne har begått eller forsøkt å begå et lovbrudd som krenker andres liv, helse eller frihet eller kunne utsette disse rettsgodene for fare, særreaksjonen er nødvendig for å verne samfunnet, og faren for en ny og alvorlig integritetskrenkelse er nærliggende.
+
+Overføring til tvungent psykisk helsevern kan også idømmes en lovbryter som er utilregnelig etter [§ 20](lov/2005-05-20-28/§20) annet til fjerde ledd når denne har begått gjentatte lovbrudd av samfunnsskadelig eller særlig plagsom art, særreaksjonen er nødvendig for å verne samfunnet mot slike lovbrudd, faren for nye lovbrudd av samme art er særlig nærliggende, og andre tiltak har vist seg åpenbart uhensiktsmessige.
+
+Ved vurderingen av gjentakelsesfaren skal det legges vekt på det begåtte lovbruddet sammenholdt særlig med lovbryterens øvrige adferd, sykdomshistorie, aktuelle psykiske tilstand og forhold til rusmidler.
+
+Overføring til tvungent psykisk helsevern kan idømmes også når utilregnelighetstilstanden har medført at lovbryteren var i faktisk villfarelse, jf. [§ 25](lov/2005-05-20-28/§25), eller at lovbryteren ellers var i en tilstand som ikke er forenlig med å ha forsett.
+
+> Endret ved lover [29 apr 2016 nr. 7](lov/2016-04-29-7) (ikr. 1 okt 2016 iflg. [res. 9 sep 2016 nr. 1045](forskrift/2016-09-09-1045)), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### § 63. Vilkår for å idømme tvungen omsorg for psykisk utviklingshemmede i høy grad mv.
+
+På vilkår som nevnt i [§ 62](lov/2005-05-20-28/§62) kan den som er utilregnelig etter [§ 20](lov/2005-05-20-28/§20) annet til fjerde ledd, idømmes tvungen omsorg.
+
+Tvungen omsorg skal utholdes i en fagenhet innenfor spesialisthelsetjenesten som er innrettet for formålet. Når hensynet til den domfelte tilsier det og sikkerhetshensyn ikke taler imot, kan fagenheten etter nærmere forskrift som Kongen gir, inngå avtale om gjennomføring av omsorgen utenfor fagenheten.
+
+Den domfelte kan holdes tilbake mot sin vilje og hentes tilbake ved unnvikelse, om nødvendig med tvang og med bistand fra offentlig myndighet. Fagenheten har det overordnede ansvar for gjennomføringen av tvungen omsorg, også når særreaksjonen gjennomføres utenfor fagenheten.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### § 64. Nærmere regler om gjennomføringen av tvungen omsorg
+
+Ved gjennomføring av dom på tvungen omsorg gjelder følgende bestemmelser i [psykisk helsevernloven](lov/1999-07-02-62) tilsvarende så langt de passer:[kapittel 1](lov/1999-07-02-62/kap1), [kapittel 4](lov/1999-07-02-62/kap4) med unntak av [§§ 4-5](lov/1999-07-02-62/§4-5) annet ledd, [4-9](lov/1999-07-02-62/§4-9) og [4-10](lov/1999-07-02-62/§4-10), og [kapittel 6](lov/1999-07-02-62/kap6) med forskrifter når særreaksjonen gjennomføres i fagenheten. Bestemmelsen i [§ 4-4](lov/1999-07-02-62/§4-4) annet ledd annet punktum gjelder likevel bare i den utstrekning det er fastsatt i forskrift gitt av Kongen;[kapittel 1](lov/1999-07-02-62/kap1) og [kapittel 6](lov/1999-07-02-62/kap6) når særreaksjonen gjennomføres utenfor fagenheten.
+
+Kongen kan gi forskrift om at [helse- og omsorgstjenesteloven kapittel 9](lov/2011-06-24-30/kap9) skal gjelde tilsvarende. Kongen kan gi særlige regler om saksbehandlingen.
+
+Kongen gir forskrift med nærmere bestemmelser om gjennomføringen av tvungen omsorg, herunder bestemmelser om hvilke vedtak som kan overprøves etter reglene i [tvisteloven kapittel 36](lov/2005-06-17-90/kap36).
+
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
+
+### § 65. Opphør av reaksjonene
+
+Tvungent psykisk helsevern etter [§ 62](lov/2005-05-20-28/§62) og tvungen omsorg etter [§ 63](lov/2005-05-20-28/§63) kan bare opprettholdes når vilkåret om gjentakelsesfare i [§ 62](lov/2005-05-20-28/§62) fortsatt er oppfylt.
+
+Den domfelte, hans nærmeste pårørende og den faglig ansvarlige ved den institusjon som har behandlingsansvaret for den domfelte, kan begjære opphør av reaksjonen. Hvem som er den domfeltes nærmeste pårørende, avgjøres etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3/ledd/1/bokstav/b) første ledd bokstav b. Påtalemyndigheten fremmer saken for tingretten, som treffer avgjørelsen ved dom. Behandlingen av saken skal påskyndes.
+
+Opphør av reaksjonen kan ikke begjæres før 1 år etter at overføringsdommen eller en dom som nekter opphør, er endelig. Ved særreaksjon idømt på grunnlag av lovbrudd som nevnt i [§ 62](lov/2005-05-20-28/§62) annet ledd, kan det ikke begjæres opphør før seks måneder etter at overføringsdommen eller dom som nekter opphør er endelig.
+
+Påtalemyndigheten kan til enhver tid beslutte opphør av reaksjonen. Senest 3 år etter siste rettskraftige dom skal påtalemyndigheten enten beslutte opphør av reaksjonen eller bringe saken inn for tingretten, som avgjør ved dom om reaksjonen skal opprettholdes. Særreaksjon idømt på grunnlag av lovbrudd som nevnt i [§ 62](lov/2005-05-20-28/§62) annet ledd skal senest opphøre tre år etter overføringsdommen.
+
+Dersom en person som er idømt en særreaksjon, utvises og forlater riket, opphører særreaksjonen midlertidig. Vender vedkommende tilbake til riket, skal påtalemyndigheten avgjøre om reaksjonen skal opprettholdes eller opphøre. Dersom påtalemyndigheten beslutter opprettholdelse og det er gått mer enn tre år siden siste rettskraftige dom, skal påtalemyndigheten bringe saken inn for tingretten, jf. fjerde ledd.
+
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 juni 2015 nr. 65](lov/2015-06-19-65), [29 apr 2016 nr. 7](lov/2016-04-29-7) (ikr. 1 okt 2016 iflg. [res. 9 sep 2016 nr. 1045](forskrift/2016-09-09-1045)), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### Kapittel 13. Inndragning
+
+### § 66. Forening av inndragning med straff og andre strafferettslige reaksjoner
+
+Inndragning etter dette kapittel kan ilegges alene eller sammen med straff eller andre strafferettslige reaksjoner.
+
+### § 67. Inndragning av utbytte
+
+Utbytte av en straffbar handling skal inndras. Istedenfor utbyttet kan hele eller deler av utbyttets verdi inndras. Inndragning foretas selv om lovbryteren manglet skyldevne etter [§ 20](lov/2005-05-20-28/§20), eller ikke utviste skyld. Ansvaret etter bestemmelsen her kan reduseres eller falle bort i den grad inndragning vil være klart urimelig.
+
+Som utbytte regnes også formuesgode som trer istedenfor utbytte, avkastning og andre fordeler av utbytte. Utgifter kommer ikke til fradrag. Kan størrelsen av utbyttet ikke godtgjøres, fastsettes beløpet skjønnsmessig.
+
+Retten – eller påtalemyndigheten i forelegg om inndragning – kan fastsette at inndragningsbeløpet skal reduseres med et beløp som tilsvarer erstatning som lovbryteren eller en ansvarlig for skaden har betalt til skadelidte, og som helt eller delvis svarer til utbyttet. Det samme gjelder når lovbryteren har oppfylt en forpliktelse som den strafferettslige forfølgning gjelder.
+
+Ved verdiinndragning, jf. første ledd annet punktum, kan det bestemmes at formuesgodet hefter til sikkerhet for inndragningsbeløpet.
+
+> Endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 68. Utvidet inndragning
+
+Med utvidet inndragning menes inndragning av utbytte fra straffbare handlinger uten at det påvises hvilken straffbar handling utbyttet stammer fra.
+
+Utvidet inndragning kan foretas når lovbryteren finnes skyldig i straffbar handling som etter sin art kan gi betydelig utbytte, og lovbryteren har foretatten eller flere straffbare handlinger som samlet kan medføre straff av fengsel i 6 år eller mer,minst én straffbar handling som kan medføre straff av fengsel i 2 år eller mer, og lovbryteren de siste 5 år før handlingen ble begått, er ilagt straff for en handling av en slik art at den kan gi betydelig utbytte, ellerforsøk på handling som nevnt i bokstav a eller b.Forhøyelse av strafferammen etter [§ 79](lov/2005-05-20-28/§79) bokstav b og c kommer ikke i betraktning.
+
+Ved vurderingen av om det skal foretas utvidet inndragning, skal det særlig legges vekt på sannsynligheten for at lovbryterens formue er ervervet ved straffbar virksomhet.
+
+Ved utvidet inndragning kan ett, flere eller samtlige av lovbryterens formuesgoder inndras hvis lovbryteren ikke sannsynliggjør at formuesgodene er ervervet på lovlig måte. I stedet for inndragning av formuesgodet kan hele eller deler av verdien av formuesgodet inndras. Ved slik verdiinndragning kan det bestemmes at formuesgodet hefter til sikkerhet for inndragningsbeløpet.
+
+Ved utvidet inndragning overfor lovbryteren kan også verdien av alle formuesgoder som tilhører lovbryterens nåværende eller tidligere ektefelle, inndras hvis ikkede er ervervet før ekteskapet ble inngått eller etter at ekteskapet ble oppløst,de er ervervet minst 5 år før den straffbare handlingen som gir grunnlag for utvidet inndragning, ellerlovbryteren sannsynliggjør at formuesgodene er ervervet på annen måte enn ved straffbare handlinger som lovbryteren selv har begått.Når to personer bor fast sammen under ekteskapsliknende forhold, likestilles det med ekteskap.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)).
+
+### § 69. Inndragning av produktet av, gjenstanden for og redskapet til en straffbar handling
+
+Ting somer frembrakt ved,har vært gjenstand for, ellerhar vært brukt eller bestemt til bruk veden straffbar handling, kan inndras. Istedenfor tingen kan hele eller deler av tingens verdi inndras. [§ 67](lov/2005-05-20-28/§67) første ledd tredje punktum og fjerde ledd gjelder tilsvarende.
+
+Som ting regnes også rettigheter, fordringer og elektronisk lagret informasjon.
+
+Ved avgjørelsen av om inndragning skal foretas, og hvilket omfang inndragningen skal ha, skal det særlig legges vekt på om inndragning er påkrevd av hensyn til en effektiv håndheving av straffebudet, og om den er forholdsmessig. Når forholdsmessigheten vurderes, skal det blant annet legges vekt på andre reaksjoner som ilegges, og konsekvensene for den som inndragningen rettes mot.
+
+### § 70. Forebyggende inndragning
+
+En ting kan inndras når det på grunn av tingens art og forholdene for øvrig er en nærliggende fare for at den vil bli gjort til gjenstand for eller brukt ved en straffbar handling. Er tingen egnet til bruk ved kroppskrenkelser, er det tilstrekkelig at det er fare for slik bruk. Inndragning av en informasjonsbærer, jf. [§ 76](lov/2005-05-20-28/§76), kan bare foretas når det er fare for uopprettelig skade.
+
+Istedenfor å inndra tingen kan det påbys tiltak for å forebygge at tingen blir brukt til lovovertredelser.
+
+[§ 69](lov/2005-05-20-28/§69) annet ledd gjelder tilsvarende.
+
+Inndragning etter første ledd kan foretas uansett hvem som er eier.
+
+> Endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 71. Hvem inndragning kan skje overfor
+
+Inndragning av utbytte etter [§ 67](lov/2005-05-20-28/§67) foretas overfor den utbyttet er tilfalt direkte ved handlingen. Det skal legges til grunn at utbyttet er tilfalt lovbryteren, med mindre lovbryteren sannsynliggjør at det er tilfalt en annen.
+
+Utvidet inndragning etter [§ 68](lov/2005-05-20-28/§68) foretas overfor lovbryteren.
+
+Inndragning etter [§ 69](lov/2005-05-20-28/§69) foretas overfor lovbryteren eller den lovbryteren handlet på vegne av. Inndragning som nevnt i [§ 69](lov/2005-05-20-28/§69) første ledd bokstav c eller av beløp som helt eller delvis svarer til dens verdi, kan alternativt foretas overfor en eier som har eller burde ha forstått at tingen skulle brukes ved en straffbar handling.
+
+Inndragning etter [§ 70](lov/2005-05-20-28/§70) foretas overfor den som besitter eller eier gjenstanden.
+
+### § 72. Forholdet til erververe
+
+Er utbytte, jf. [§ 67](lov/2005-05-20-28/§67), eller ting som nevnt i [§ 69](lov/2005-05-20-28/§69), etter handlingstidspunktet overdratt fra noen som det kan foretas inndragning overfor, kan det overdratte eller verdien av det inndras overfor mottakeren dersom overdragelsen har skjedd som gave eller mottakeren forstod eller burde ha forstått sammenhengen mellom det overdratte og en straffbar handling.
+
+Kan det foretas utvidet inndragning etter [§ 68](lov/2005-05-20-28/§68), og lovbryteren har overdratt et formuesgode til en av sine nærmeste, kan formuesgodet eller verdien av det inndras overfor mottakeren hvis påtalemyndigheten sannsynliggjør at det er ervervet ved at lovbryteren har begått et lovbrudd. Dette gjelder likevel ikke for formuesgoder som ble overdratt mer enn 5 år før den handling som danner grunnlag for inndragningen, ble begått, eller formuesgoder som er mottatt til vanlig underhold fra en som plikter å yte slikt underhold.
+
+Er det ved inndragning overfor lovbryteren regnet med formue som tilhører noen som nevnt i [§ 68](lov/2005-05-20-28/§68) femte ledd, og som innfrir sitt ansvar etter paragrafen her, reduseres lovbryterens ansvar tilsvarende. Har lovbryteren innfridd sitt ansvar etter [§ 68](lov/2005-05-20-28/§68) fjerde ledd, fører ytterligere innfrielse fra lovbryteren til at mottakerens ansvar reduseres tilsvarende.
+
+Annet ledd gjelder tilsvarende ved overdragelse til et foretak dersom lovbryterenalene eller sammen med noen som er nevnt i annet ledd, eier en vesentlig del av foretaket,oppebærer en betydelig del av foretakets inntekt, elleri kraft av sin stilling som leder har vesentlig innflytelse over det.
+
+Tilsvarende gjelder for rettighet som etter handlingstidspunktet er stiftet i tingen av noen som det kan foretas inndragning overfor når rettigheten ikke er stiftet ved utleggspant, arrest eller legalpant.
+
+> Endret ved lov [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)).
+
+### § 73. Forholdet til rettighetshavere
+
+En rettighet som er rettsgyldig sikret i et formuesgode som inndras, kan helt eller delvis besluttes bortfalt overfor en rettighetshaversom selv har foretatt den straffbare handlingen,som lovbryteren har handlet på vegne av, ellersom da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller at den kunne inndras.
+
+[§ 67](lov/2005-05-20-28/§67) første ledd tredje punktum gjelder tilsvarende.
+
+### § 74. Fellesregler om inndragning av utbytte og ting som ikke tilhører lovbryteren
+
+Kreves inndragning av utbytte, jf. [§§ 67](lov/2005-05-20-28/§67) og [68](lov/2005-05-20-28/§68), eller ting, jf. [§§ 69](lov/2005-05-20-28/§69) og [70](lov/2005-05-20-28/§70), som ikke tilhører lovbryteren, reises kravet mot eieren eller rettighetshaveren. Det samme gjelder når det kreves inndragning av verdien av ting som er beslaglagt, eller som mot sikkerhetsstillelse er fritatt for beslag.
+
+Er eieren eller rettighetshaveren ukjent eller uten kjent oppholdssted i Norge, kan inndragning av beslaglagt utbytte eller ting foretas i sak mot lovbryteren eller den som var besitter ved beslaget, såfremt det finnes rimelig av hensyn til eieren. Det samme gjelder når det kreves inndragning av verdien av en ting som er beslaglagt, eller som mot sikkerhetsstillelse er fritatt for beslag. Eieren skal så vidt mulig gis varsel om saken.
+
+Har verken lovbryteren eller besitteren kjent oppholdssted i Norge, kan tingretten beslutte inndragning på de vilkår som er nevnt i annet ledd, uten at noen er gjort til saksøkt.
+
+Disse regler gjelder tilsvarende ved inndragning av rettigheter etter [§ 72](lov/2005-05-20-28/§72) femte ledd og [§ 73](lov/2005-05-20-28/§73).
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)).
+
+### § 75. Hvem inndragning kan skje til fordel for
+
+Inndragning skjer til fordel for statskassen når ikke annet er bestemt.
+
+I dommen eller ved en senere kjennelse av den tingretten som avgjorde spørsmålet om inndragning, kan retten bestemme at det inndratte skal anvendes til dekning av erstatningskrav fra den skadelidte.
+
+Departementet kan bestemme at det inndratte skal deles mellom den norske stat og en eller flere andre stater. Ved avgjørelsen skal det blant annet legges vekt på hvilke utgifter som har påløpt i statene, og i hvilke land skadevirkninger har oppstått og utbytte er oppnådd. Deling etter leddet her kan ikke føre til at dekning av den skadelidtes erstatningskrav etter annet ledd reduseres.
+
+### § 76. Særregler for inndragning av en informasjonsbærer
+
+Med informasjonsbærer menes i denne bestemmelse trykt skrift eller annet som formidler en skriftlig, visuell, auditiv eller elektronisk lagret informasjon.
+
+Ved inndragning av en informasjonsbærer skal det angis hvilke deler av innholdet som begrunner inndragningen. Den som må tåle inndragningen, kan mot å dekke utgiftene kreve å få en kopi av den del av innholdet som ikke omfattes av inndragningen.
+
+Dersom lovbryteren ikke er rettighetshaver til en informasjonsbærer på et datasystem som kreves inndratt, rettes kravet mot tilbyderen av datasystemet. Tilbyderen kan pålegges å stenge lovbryterens tilgang til informasjonsbæreren og slette innhold som tilhører lovbryteren. Er lovbryteren rettighetshaver til informasjonsbæreren, kan tilbyderen pålegges å stenge tilgangen til informasjonsbæreren og slette innholdet.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 14. Fellesregler for reaksjonsfastsettelsen
+
+### § 77. Skjerpende omstendigheter
+
+Ved straffutmålingen skal det i skjerpende retning især tas i betraktning at lovbruddet:er begått med midler eller metoder som er særlig farlige eller har stort skadepotensial,har satt menneskers liv eller helse i fare eller voldt velferdstap,er tilsiktet et vesentlig mer alvorlig resultat eller det lett kunne ha blitt følgen,er begått på en særlig hensynsløs måte,er ledd i en planlagt eller organisert virksomhet,er begått av flere i fellesskap,er forøvet ved at lovbryteren har utnyttet eller forledet unge personer, personer i en meget vanskelig livssituasjon, som er psykisk utviklingshemmet eller står i et avhengighetsforhold til lovbryteren,har rammet personer som er forsvarsløse eller særlig utsatt for lovbrudd,har sin bakgrunn i andres religion eller livssyn, hudfarge, nasjonale eller etniske opprinnelse, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk, funksjonsevne eller andre forhold som støter an mot grupper med et særskilt behov for vern,er begått i offentlig tjeneste eller er forøvet ved brudd på en særlig tillit,er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger eller andre handlinger som er av betydning for saken,er begått i nærvær av barn under 15 år.
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), [19 juni 2009 nr. 74](lov/2009-06-19-74), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 78. Formildende omstendigheter
+
+Ved straffutmålingen skal det i formildende retning især tas i betraktning at:det foreligger en situasjon eller tilstand som nevnt i [§ 80 bokstav b](lov/2005-05-20-28/§80/bokstav/b), [c](lov/2005-05-20-28/§80/bokstav/c), [d](lov/2005-05-20-28/§80/bokstav/d), [e](lov/2005-05-20-28/§80/bokstav/e), [h](lov/2005-05-20-28/§80/bokstav/h) eller [i](lov/2005-05-20-28/§80/bokstav/i),lovbryteren har forebygget, gjenopprettet eller begrenset skaden eller velferdstapet voldt ved lovbruddet, eller søkt å gjøre det,lovbruddet i betydelig grad er foranlediget av den skadelidtes forhold,lovbryteren på handlingstidspunktet har redusert virkelighetsforståelse på grunn av avvikende sinnstilstand, lettere psykisk utviklingshemming, bevissthetsforstyrrelse eller en sterk sinnsbevegelse,det har gått lang tid siden lovbruddet, eller saksbehandlingen har tatt lengre tid enn rimelig ut fra lovbruddets art, uten at lovbryteren kan lastes for dette,lovbryteren har avgitt en uforbeholden tilståelse, eller i vesentlig grad bidratt til oppklaring av andre lovbrudd,lovbryteren selv er hardt rammet av lovbruddet, eller straffreaksjonen vil bli en sterk belastning på grunn av høy alder, sykdom eller andre omstendigheter,det er gode utsikter til rehabilitering,lovbryteren var under 18 år på handlingstidspunktet.
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), [19 juni 2009 nr. 74](lov/2009-06-19-74), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 79. Fastsetting av straff ut over lengstestraffen (flere lovbrudd, gjentakelse, organisert kriminalitet)
+
+Foreligger en eller flere av situasjonene i bokstav a til c, kan fengselsstraffen forhøyes inntil det dobbelte, men ikke i noe tilfelle med mer enn 6 år og aldri ut over 21 år, og for personer som var under 18 år på handlingstidspunktet, ikke ut over 15 år:når en lovbryter ved én eller flere handlinger har begått flere lovbrudd, og det skal idømmes en felles straff. Forhøyelse av fengselsstraffen regnes av lengstestraffen i det strengeste straffebudet. Straffen etter denne bokstav kan aldri bli lenger enn summen av lengstestraffene. Forhøyelse av lengstestraffen etter denne bokstav får bare betydning i forhold til lovbestemmelser som har bestemt at den forhøyde lengstestraff skal tillegges rettslig virkning.når en tidligere domfelt person på ny har begått en straffbar handling av samme art som han tidligere er dømt for her i riket eller i utlandet, hvis ikke straffebudet selv bestemmer noe annet. Forhøyelse av lengstestraffen etter denne bokstav får bare betydning i forhold til lovbestemmelser som har bestemt at den forhøyde lengstestraffen skal tillegges rettslig virkning.Første ledd i denne bokstav gjelder bare når den domfelte hadde fylt 18 år på tidspunktet for den tidligere straffbare handlingen, og har begått den nye handlingen etter at straffen for den tidligere handlingen helt eller delvis er fullbyrdet. Har den nye straffbare handlingen en strafferamme på mer enn 1 år, gjelder første ledd ikke hvis den nye handlingen er begått senere enn 6 år etter at fullbyrdelsen av den tidligere straffen er avsluttet, når ikke annet er bestemt. Har den nye straffbare handlingen en strafferamme på 1 år eller mindre, kan det ikke ha gått mer enn 2 år fra fullbyrdingen er avsluttet.når en straffbar handling er utøvet som ledd i aktivitetene til en organisert kriminell gruppe.Med organisert kriminell gruppe menes et samarbeid mellom tre eller flere personer som har som et hovedformål å begå en handling som kan straffes med fengsel i minst 3 år, eller som går ut på at en ikke ubetydelig del av aktivitetene består i å begå slike handlinger.Forhøyelse av lengstestraffen etter denne bokstav får anvendelse i forhold til lovbestemmelser som tillegger strafferammen rettslig virkning, når ikke annet er bestemt.
+
+> Endret ved lover [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)).
+
+### § 80. Fastsetting av straff under minstestraffen eller til en mildere straffart
+
+Straffen kan settes under minstestraffen i straffebudet eller til en mildere straffart når lovbryterenuten å vite at han er mistenkt i vesentlig grad har forebygget eller gjenopprettet skaden ved lovbruddet, ellerhar avlagt en uforbeholden tilståelse,dømmes for forsøk,har handlet på grunn av avhengighetsforhold til en annen deltaker, ellerhar deltatt bare i liten grad,har overskredet grensene fornødrett (jf. [§ 17](lov/2005-05-20-28/§17)),nødverge (jf. [§ 18](lov/2005-05-20-28/§18)), ellerselvtekt (jf. [§ 19](lov/2005-05-20-28/§19)),har handlet i berettiget harme, under tvang eller under overhengende fare,på handlingstidspunktet har en betydelig svekket virkelighetsforståelse på grunn av sterkt avvikende sinnstilstand, psykisk utviklingshemming eller bevissthetsforstyrrelse, men ikke er utilregnelig etter [§ 20](lov/2005-05-20-28/§20) annet ledd,har handlet under selvforskyldt rus eller i en selvforskyldt utilregnelighetstilstand etter [§ 20](lov/2005-05-20-28/§20) fjerde ledd, og det foreligger særdeles formildende omstendigheter,på handlingstidspunktet er under 18 år, ellerhar handlet i uaktsom rettsuvitenhet ved overtredelser av straffebud som krever forsett eller grov uaktsomhet.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)).
+
+### § 81. Forhold som kan føre til straffritak
+
+Retten kan frifinne den somuten å vite at han er mistenkt, i vesentlig grad har forebygget eller gjenopprettet skaden ved et lovbrudd som kan straffes med bot, ellerhar overskredet grensene fornødrett (jf. [§ 17](lov/2005-05-20-28/§17)),nødverge (jf. [§ 18](lov/2005-05-20-28/§18)), ellerselvtekt (jf. [§ 19](lov/2005-05-20-28/§19)),og særlige grunner tilsier frifinnelse.
+
+### § 82. Etterskuddsdom
+
+Ved domfellelse for forhold begått før dommen i en annen sak avsies det tilleggsdom for disse forholdene når alle forholdene kunne vært pådømt samtidig. [§ 31](lov/2005-05-20-28/§31) annet ledd og tredje ledd annet og tredje punktum gjelder ikke.
+
+Ved straffutmålingen gjelder [§ 79](lov/2005-05-20-28/§79) tilsvarende. Det skal tas hensyn til hva en passende straff ville vært ved samtidig pådømmelse, og den samlede straffen må ikke være strengere enn om alle forholdene hadde vært pådømt samtidig.
+
+Ved domfellelse for forhold begått dels før og dels etter dommen i en annen sak avsies det i alminnelighet fellesdom for alle forholdene. Annet ledd annet punktum gjelder tilsvarende for de forholdene som ble begått forut for den første dommen.
+
+Når det er grunn til det, kan det også ellers avsies fellesdom. Annet ledd gjelder tilsvarende.
+
+Avsies det fellesdom som omfatter en tidligere dom på straff som er helt eller delvis fullbyrdet, gis det fradrag for utholdt straff.
+
+Det skal gå frem av dommen om den er en tilleggsdom eller en fellesdom.
+
+### § 83. Varetektsfradrag
+
+Den tiden den siktede har vært berøvet friheten i anledning av saken, kommer til fradrag i straffen etter reglene i denne paragraf. Dette gjelder også frihetsberøvelse i utlandet eller i anledning av forhold i saken som den siktede frifinnes for, eller som er henlagt.
+
+Det gis 1 dag fradrag for antallet påbegynte døgn frihetsberøvelsen har vart utover 4 timer regnet fra tidspunktet for pågripelsen. Ved frihetsberøvelse i fullstendig isolasjon utover 4 timer skal det gis ytterligere fradrag som svarer til 1 dag for hvert påbegynte tidsrom av 2 døgn som den dømte har vært underlagt fullstendig isolasjon. Varetektsfradraget fastsettes i dommen eller i forelegget. Selv om frihetsberøvelsen har vart noe kortere enn den fastsatte straffen, kan straffen anses utholdt i sin helhet.
+
+Ved idømming av delvis betinget fengselsstraff gis varetektsfradraget først i den ubetingede delen av straffen.
+
+Ved idømming av fengselsstraff og bot gis varetektsfradraget først i fengselsstraffen.
+
+Ved idømming av forvaring gis varetektsfradraget fullt ut både i minstetiden og i tidsrammen.
+
+Ved ilegging av bot gis varetektsfradraget i den subsidiære fengselsstraffen samtidig som boten reduseres forholdsmessig.
+
+Ved idømming av samfunnsstraff gis varetektsfradraget i den subsidiære fengselsstraffen samtidig som antallet timer samfunnsstraff og gjennomføringstiden reduseres forholdsmessig. Er samfunnsstraff idømt sammen med ubetinget fengselsstraff, gjøres fradraget først i fengselsstraffen.
+
+Ved idømming av ungdomsstraff gis varetektsfradraget i den subsidiære fengselsstraffen. Er ungdomsstraff idømt sammen med ubetinget fengselsstraff, gjøres fradraget først i fengselsstraffen.
+
+Ved straffutmålingsutsettelse skal det i dommen anmerkes hvorvidt den siktede har vært undergitt frihetsberøvelse i anledning av saken og eventuelt hvor lenge.
+
+> Endret ved lover [20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 84. Fradrag for fullbyrdet strafferettslig reaksjon ilagt i utlandet
+
+Fullbyrdet strafferettslig reaksjon ilagt i utlandet for en handling som også blir pådømt i Norge, skal så vidt mulig trekkes fra i den norske dommen.
+
+### Kapittel 15. Foreldelse mv.
+
+### § 85. Opphør av straffansvar ved foreldelse
+
+En handling kan ikke straffes når foreldelse er inntrådt etter [§§ 86](lov/2005-05-20-28/§86) til [89](lov/2005-05-20-28/§89).
+
+### § 86. Foreldelsesfristen
+
+Fristen for foreldelse av straffansvar er2 år når den høyeste lovbestemte straffen er bot eller fengsel inntil 1 år,5 år når den høyeste lovbestemte straffen er fengsel inntil 3 år,10 år når den høyeste lovbestemte straffen er fengsel inntil 10 år,15 år når den høyeste lovbestemte straffen er fengsel inntil 15 år,25 år når den høyeste lovbestemte straffen er fengsel inntil 21 år.
+
+Ved beregningen av fristen er det uten betydning at en annen straff kan idømmes ved siden av bot eller fengselsstraff.
+
+Har noen i samme handling begått flere lovbrudd som etter første ledd skulle foreldes til forskjellig tid, gjelder den lengste fristen for alle lovbruddene.
+
+### § 87. Utgangspunktet for foreldelsesfristen
+
+Fristen for foreldelse av straffansvar regnes fra den dag det straffbare forholdet opphørte. Ved overtredelse av [§§ 253](lov/2005-05-20-28/§253), [257](lov/2005-05-20-28/§257), [270](lov/2005-05-20-28/§270), [282](lov/2005-05-20-28/§282), [284](lov/2005-05-20-28/§284), [299](lov/2005-05-20-28/§299), [302](lov/2005-05-20-28/§302) eller [304](lov/2005-05-20-28/§304) skal fristen likevel regnes fra den dag den fornærmede fyller 18 år. Tilsvarende gjelder ved brudd på plikten etter [§ 196](lov/2005-05-20-28/§196) til å avverge lovbrudd som nevnt i §[§ 282](lov/2005-05-20-28/§282), [284](lov/2005-05-20-28/§284), [299](lov/2005-05-20-28/§299) eller [303](lov/2005-05-20-28/§303).
+
+Når straffbarheten avhenger eller påvirkes av en inntrådt virkning, regnes fristen først fra den dag virkningen inntrådte.
+
+Er den straffbare handlingen forøvd på et norsk skip utenfor riket, regnes fristen fra den dag skipet kom til norsk havn. Utgangspunktet for fristen kan likevel ikke forskyves med mer enn 1 år etter dette leddet.
+
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [19 juni 2015 nr. 65](lov/2015-06-19-65), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592), se lovens del V nr. 3), [20 des 2023 nr. 113](lov/2023-12-20-113) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2130](forskrift/2023-12-20-2130)).
+
+### § 88. Avbrytelse av foreldelsesfristen
+
+Fristen etter [§ 86](lov/2005-05-20-28/§86) avbrytes ved at den mistenkte får stilling som siktet, jf. [straffeprosessloven § 82](lov/1981-05-22-25/§82). Skjer siktelsen ved utferdigelse av utenrettslig erklæring eller av forelegg, avbrytes fristen når den siktede meddeles siktelsen. For slik meddelelse gjelder [domstolloven § 146](lov/1915-08-13-5/§146) annet ledd tilsvarende.
+
+Fristavbrytelsen taper sin virkning når forfølgningen innstilles uten at beslutningen omgjøres av overordnet påtalemyndighet innen fristen i [straffeprosessloven § 75](lov/1981-05-22-25/§75) annet ledd. Det samme gjelder når forfølgningen blir stanset på ubestemt tid. Ved beregningen av om foreldelse er inntrådt, skal forfølgningstiden regnes med. Dette gjelder likevel ikke dersom forfølgningen er stanset fordi den siktede har unndratt seg forfølgningen.
+
+### § 89. Foreldelse av straffansvar for foretak
+
+Fristen for foreldelse av straffansvaret for foretak beregnes ut fra strafferammen for enkeltpersoner i det straffebud som er overtrådt.
+
+Avbrytes fristen overfor noen som har handlet på vegne av et foretak, gjelder avbrytelsen også overfor foretaket.
+
+### § 90. Suspensjon av foreldelse under konkurs og gjeldsforhandling
+
+Foreldelsesfristen for overtredelse av [§§ 392](lov/2005-05-20-28/§392) til [394](lov/2005-05-20-28/§394) og kapittel [31](lov/2005-05-20-28/§31) om kreditorvern løper ikke under konkurs eller gjeldsforhandling etter loven. Fristen kan likevel ikke forlenges med mer enn 5 år etter denne paragraf.
+
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 91. Straffansvar som ikke foreldes
+
+Straffansvaret for folkemord, forbrytelser mot menneskeheten, krigsforbrytelser og terrorhandlinger foreldes ikke dersom handlingene kan straffes med fengsel i 15 år eller mer. Straffansvaret for fullbyrdede overtredelser av [§§ 275](lov/2005-05-20-28/§275), [291 andre ledd](lov/2005-05-20-28/§291/ledd/2), [293](lov/2005-05-20-28/§293), [299](lov/2005-05-20-28/§299) og [302](lov/2005-05-20-28/§302) foreldes ikke. Straffansvaret for overtredelser av [§§ 175](lov/2005-05-20-28/§175), [175 b](lov/2005-05-20-28/§175b) og [355 a](lov/2005-05-20-28/§355a) foreldes heller ikke såfremt en dødsfølge inngår i vurderingen av om lovbruddet er grovt.
+
+Har noen i samme handling begått flere lovbrudd hvorav ett ikke foreldes etter første ledd, foreldes ingen av lovbruddene.
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), [19 juni 2015 nr. 65](lov/2015-06-19-65), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592), se lovens del V nr. 3), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)), [10 april 2026 nr. 13](lov/2026-04-10-13) (i kraft 10 april 2026 iflg. [res. 10 april 2026 nr. 567](forskrift/2026-04-10-567), se vedtaket for overgangsbestemmelse).
+
+### § 92. Foreldelsesfristen for inndragningsansvar
+
+For foreldelse av inndragningsansvar gjelder foreldelsesfristene i [§ 86](lov/2005-05-20-28/§86), men fristen skal ikke være kortere enn 5 år. For inndragning etter [§§ 67](lov/2005-05-20-28/§67) og [68](lov/2005-05-20-28/§68) skal fristen ikke være kortere enn 10 år.
+
+### § 93. Foreldelsesfristen for idømt frihetsstraff, samfunnsstraff og ungdomsstraff
+
+Idømt fengselsstraff faller bort ved foreldelse etter følgende frister:5 år for fengsel inntil 1 år,10 år for fengsel i mer enn 1 år og inntil 4 år,15 år for fengsel i mer enn 4 år og inntil 8 år,20 år for fengsel i mer enn 8 år og inntil 20 år,30 år for fengsel i mer enn 20 år.
+
+Er fullbyrding av fengselsstraff delvis utsatt etter [§ 34](lov/2005-05-20-28/§34) første ledd første punktum, regnes fristen særskilt for den betingede og den ubetingede delen av straffen.
+
+Idømt forvaring foreldes etter reglene i første ledd på grunnlag av den fastsatte lengstetiden som forvaringen ikke må overstige, jf. [§ 43](lov/2005-05-20-28/§43) første ledd første og annet punktum.
+
+Idømt samfunnsstraff foreldes etter reglene i første ledd på grunnlag av den subsidiære fengselsstraffen som er fastsatt, jf. [§ 49](lov/2005-05-20-28/§49) første ledd bokstav b.
+
+Ved løslatelse på prøve fra frihetsstraff beregnes fristen for reststraffen på grunnlag av den gjenstående straffetiden. Tilsvarende gjelder når fullbyrdingen avbrytes på annen måte og ved avbrutt samfunnsstraff.
+
+Idømt ungdomsstraff foreldes etter reglene i første ledd på grunnlag av den subsidiære fengselsstraffen som er fastsatt, jf. [§ 52 b første ledd bokstav b](lov/2005-05-20-28/§52b/ledd/1/bokstav/b). Reglene i femte ledd gjelder tilsvarende så langt de passer.
+
+> Endret ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 94. Utgangspunktet for foreldelsesfristen etter § 93
+
+Foreldelsesfristen for idømt frihetsstraff regnes fra den dag dommen er endelig.
+
+Det løper ingen foreldelsesfrist så lenge fullbyrdingen ikke kan settes i verk fordi den domfelte utholder annen frihetsberøvelse i medhold av dom eller samfunnsstraff.
+
+Er det truffet avgjørelse om gjeninnsetting på reststraff etter en prøveløslatelse, regnes foreldelsesfristen for reststraffen fra den dag avgjørelsen om gjeninnsetting er endelig. Avbrytes fullbyrdingen på annen måte enn ved prøveløslatelse, regnes fristen fra avbrytelsen.
+
+Foreldelsesfristen for samfunnsstraff regnes fra den dag dommen er endelig. Annet ledd og tredje ledd annet punktum gjelder tilsvarende. Det samme gjelder [§ 97](lov/2005-05-20-28/§97) tredje ledd.
+
+Er det ved betinget dom eller benådning gitt utsettelse med fullbyrdingen av straffen, løper ingen foreldelsesfrist i prøvetiden.
+
+### § 95. Avbrytelse av foreldelsesfristen etter § 93
+
+Fristen etter [§ 93](lov/2005-05-20-28/§93) avbrytes ved at fullbyrding av straffen blir påbegynt, eller ved at den domfelte blir pågrepet for å sikre fullbyrdingen.
+
+### § 96. Idømt straff som ikke foreldes
+
+Idømt straff for overtredelser som nevnt i [§ 91](lov/2005-05-20-28/§91), foreldes ikke.
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592), se lovens del V nr. 3).
+
+### § 97. Foreldelse av ilagt bot
+
+Ilagt bot faller bort 10 år etter at forelegget eller dommen ble endelig.
+
+Foreldelse av boten er uten betydning for utleggspant eller annen sikkerhet som er stiftet innen fristens utløp.
+
+Fengselsstraff idømt etter [§ 55](lov/2005-05-20-28/§55) faller bort når ikke fullbyrding av straffen er påbegynt innen 5 år etter at dommen er endelig. Det løper ingen foreldelsesfrist så lenge fullbyrdingen ikke kan settes i verk fordi den domfelte utholder annen frihetsberøvelse i medhold av dom eller samfunnsstraff.
+
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 98. Foreldelse av idømt særreaksjon for utilregnelige
+
+Idømt særreaksjon for utilregnelige, jf. [§§ 62](lov/2005-05-20-28/§62) og [63](lov/2005-05-20-28/§63), faller bort ved foreldelse etter 20 år. Reglene i [§§ 94](lov/2005-05-20-28/§94) og [95](lov/2005-05-20-28/§95) gjelder tilsvarende så langt de passer.
+
+### § 99. Foreldelse av ilagt inndragning
+
+Ilagt inndragning faller bort 5 år etter at forelegget eller dommen ble endelig. For inndragning av utbytte, herunder inndragning etter [§ 68](lov/2005-05-20-28/§68), er fristen likevel 10 år.
+
+Foreldelse av inndragningen er uten betydning for utleggspant eller annen sikkerhet som er stiftet innen fristens utløp. Et inndragningskrav som er besluttet dekket ved utleggstrekk før foreldelse inntrer, kan delta i trekket i ytterligere to år.
+
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 100. Bortfall av straff- og inndragningsansvar mv. ved den skyldiges eller ansvarliges død
+
+Straffansvar faller bort ved den skyldiges død.
+
+Inndragningsansvar faller bort ved den ansvarliges død. Gjelder det inndragning av utbytte, herunder inndragning etter [§ 68](lov/2005-05-20-28/§68) og [§ 72](lov/2005-05-20-28/§72) annet ledd, kan sak likevel fremmes, og ilagt inndragning kan fullbyrdes dersom det blir besluttet ved kjennelse av den retten som har pådømt saken i første instans, eller av den tingrett som saken hører under etter [straffeprosessloven § 12](lov/1981-05-22-25/§12) når inndragningen er vedtatt ved forelegg. Retten kan beslutte inndragning av et beløp istedenfor en ting.
+
+## Annen del. De straffbare handlingene
+
+> Overskriften endret ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### Kapittel 16. Folkemord, forbrytelse mot menneskeheten og krigsforbrytelse
+
+> Kapitlet tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), og satt ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225).
+
+### § 101. Folkemord
+
+For folkemord straffes den som i hensikt helt eller delvis å ødelegge en nasjonal, etnisk, rasemessig eller religiøs gruppedreper ett eller flere medlemmer av gruppen,forårsaker betydelig skade på kropp eller helse til ett eller flere medlemmer av gruppen,utsetter ett eller flere medlemmer av gruppen for levevilkår som tar sikte på å fysisk ødelegge gruppen, helt eller delvis,iverksetter tiltak overfor ett eller flere medlemmer av gruppen som tar sikte på å forhindre fødsler innenfor gruppen, ellermed makt overfører ett eller flere barn fra gruppen til en annen gruppe.
+
+Til straff for medvirkning er forsett om hovedforøverens ødeleggelseshensikt tilstrekkelig.
+
+Straffen for folkemord er fengsel inntil 30 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 102. Forbrytelse mot menneskeheten
+
+For forbrytelse mot menneskeheten straffes den som, som ledd i et utbredt eller systematisk angrep rettet mot en sivilbefolkning,dreper en person,utrydder en befolkning helt eller delvis, herunder utsetter den eller deler av den for levekår som tar sikte på å utrydde befolkningen helt eller delvis,gjør en person til slave,deporterer eller tvangsflytter en befolkning i strid med folkeretten,fengsler eller på annen alvorlig måte berøver en person friheten i strid med grunnleggende folkerettslige regler,torturerer en person i vedkommendes varetekt eller kontroll ved å forårsake alvorlig psykisk eller fysisk smerte,utsetter en person for voldtekt, seksuelt slaveri eller tvungen prostitusjon, tvungent svangerskap, tvangssterilisering eller annen tilsvarende grov seksuell vold,utsetter en identifiserbar gruppe for forfølgelse ved å berøve ett eller flere medlemmer av gruppen grunnleggende menneskerettigheter på politisk, rasemessig, nasjonalt, etnisk, kulturelt, religiøst, kjønnsbasert eller annet folkerettsstridig grunnlag,på vegne av, eller med samtykke, støtte eller tillatelse av en stat eller en politisk organisasjon bidrar til at en person forsvinner ufrivillig, med det forsett å unndra vedkommende fra lovens beskyttelse for et lengre tidsrom,innenfor rammen av et institusjonalisert regime basert på én rasemessig gruppes systematiske undertrykking og dominans over en eller flere andre rasemessige grupper begår en apartheidforbrytelse ved å foreta umenneskelige handlinger av samme eller liknende art som de som er omfattet av paragrafen her i den hensikt å opprettholde regimet, ellerbegår en annen umenneskelig handling av liknende art som forårsaker store lidelser eller alvorlig skade på kropp eller helse.
+
+Straffen for forbrytelse mot menneskeheten er fengsel inntil 30 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 103. Krigsforbrytelse mot person
+
+For krigsforbrytelse straffes den som i forbindelse med en væpnet konfliktdreper en beskyttet person,påfører en beskyttet person stor lidelse eller betydelig skade på kropp eller helse, særlig ved tortur eller annen grusom eller umenneskelig behandling,gjør en beskyttet person til slave,utsetter en beskyttet person for voldtekt, seksuelt slaveri, tvungen prostitusjon, tvungent svangerskap, tvungen sterilisering eller annen tilsvarende grov seksuell vold,tar en beskyttet person som gissel,utskriver eller verver barn under 18 år til væpnede styrker eller bruker dem aktivt til å delta i fiendtlighetene,utsetter en beskyttet person for et medisinsk eller vitenskapelig eksperiment som ikke skjer i personens interesse og som medfører alvorlig fare for personens liv eller helse,i strid med folkeretten deporterer eller tvangsflytter en beskyttet person fra et område hvor personen lovlig oppholder seg eller ulovlig sperrer inne en beskyttet person,ilegger eller iverksetter en straff mot en beskyttet person uten at personen først har fått en rettferdig rettergang i samsvar med folkeretten,grovt krenker en beskyttet persons verdighet ved ydmykende eller nedverdigende behandling, ellerskader en stridende som har overgitt seg eller er kampudyktig.
+
+Ved internasjonal væpnet konflikt straffes også den somoverfører en del av sin egen sivilbefolkning til et okkupert område,tvinger en av motpartens borgere til å delta i stridshandlinger mot eget land, ellertvinger en beskyttet person til å tjenestegjøre i en fiendtlig makts væpnede styrker.
+
+En beskyttet person er en person som ikke, eller ikke lenger, tar aktiv del i fiendtlighetene, eller som for øvrig er beskyttet etter folkeretten.
+
+Straffen for krigsforbrytelse mot person er fengsel inntil 15 år, men inntil 30 år i de tilfellene som er nevnt i første ledd bokstav a til e eller for øvrig hvis forbrytelsen er grov. Ved avgjørelsen av om forbrytelsen er grov, skal det blant annet legges vekt på dens skadepotensial og skadevirkninger, og på om den er begått som ledd i en plan eller målsetting om eller som ledd i en omfattende utøvelse av slike forbrytelser.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 104. Krigsforbrytelse mot eiendom og sivile rettigheter
+
+For krigsforbrytelse dømmes den som i forbindelse med en væpnet konfliktplyndrer,i stor målestokk ødelegger, beslaglegger eller konfiskerer eiendom uten at det er strengt nødvendig av hensyn til krigføringen, ellererklærer motpartens borgeres sivile rettigheter, eller deres mulighet for å få disse prøvd for domstolene, opphevet eller midlertidig satt ut av kraft.
+
+Krigsforbrytelse mot eiendom eller sivile rettigheter straffes med fengsel inntil 10 år, men inntil 30 år når forbrytelsen er grov, jf. [§ 103](lov/2005-05-20-28/§103) fjerde ledd annet punktum.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### § 105. Krigsforbrytelse mot humanitære innsatser eller kjennemerker
+
+For krigsforbrytelse straffes den som i forbindelse med en væpnet konfliktretter et angrep mot personell, anlegg, materiell, enheter eller kjøretøy som er involvert i humanitært hjelpearbeid eller fredsbevarende operasjoner i samsvar med [FN-pakten,](traktat/1945-06-26-1) så langt disse har krav på folkerettslig beskyttelse for sivile personer eller eiendom,retter et angrep mot personell, bygninger, materiell, sanitetsenheter eller transporter som etter folkeretten har rett til å benytte et av Genèvekonvensjonenes og tilleggsprotokollenes særskilt beskyttede kjennemerker eller en annen identifikasjonsmetode som viser at de er beskyttet etter Genèvekonvensjonene, ellermisbruker parlamentærflagg, fiendens eller De forente nasjoners flagg, militære kjennetegn eller uniformer eller misbruker de særskilt beskyttede kjennemerker som nevnt i bokstav b, slik at noen dør eller påføres betydelig skade.
+
+Straff for krigsforbrytelse mot humanitære innsatser eller kjennemerker er fengsel inntil 10 år, men inntil 30 år i de tilfellene som er nevnt i bokstav c og for øvrig når forbrytelsen er grov, jf. [§ 103](lov/2005-05-20-28/§103) fjerde ledd annet punktum.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### § 106. Krigsforbrytelse gjennom anvendelse av forbudte stridsmetoder
+
+For krigsforbrytelse straffes den som i forbindelse med en væpnet konfliktretter et angrep mot sivilbefolkningen som sådan eller sivile enkeltpersoner som ikke deltar i fiendtlighetene,benytter utsulting av sivile som stridsmetode ved å frata, unndra eller nekte dem tilgang til mat eller gjenstander som er uunnværlige for at de skal overleve, eller i strid med folkeretten forhindrer hjelpeforsyninger,iverksetter et angrep med kunnskap om at et slikt angrep vil forårsake tap av sivile personers liv, skade på sivile personer, skade på sivile gjenstander eller skade på naturmiljøet, som vil være for omfattende i forhold til den forventede konkrete og umiddelbare samlede militære fordel,anvender en beskyttet persons tilstedeværelse for å oppnå at visse steder, områder eller væpnede styrker ikke kan gjøres til gjenstand for militære operasjoner,retter et angrep mot byer, steder, bosettinger eller bygninger som ikke forsvares og som ikke utgjør militære mål, eller mot demilitariserte soner,retter et angrep mot bygninger som er viet til religion, utdanning, kunst, vitenskap eller velgjørende formål, mot historiske minnesmerker, kulturminner, sykehus og samlingssteder for syke og sårede eller mot annen sivil gjenstand som ikke utgjør militære mål,ved å forlede noen til å tro at de har rett til beskyttelse eller plikt til å gi beskyttelse i henhold til folkeretten og med den hensikt å svikte denne tilliten, dreper eller sårer noen som tilhører motpartens borgere eller væpnede styrker, ellererklærer eller truer med at det ikke vil bli vist nåde.
+
+Straffen for krigsforbrytelse ved anvendelse av forbudte stridsmetoder er fengsel inntil 15 år, men inntil 30 år der forbrytelsen omfatter forsettlig drap av en sivil eller annen beskyttet person eller for øvrig hvis forbrytelsen er grov, jf. [§ 103](lov/2005-05-20-28/§103) fjerde ledd annet punktum.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### § 107. Krigsforbrytelse gjennom anvendelse av forbudte stridsmidler
+
+For krigsforbrytelse straffes den som i forbindelse med en væpnet konfliktbruker gift eller giftige våpen,bruker biologiske eller kjemiske våpen,bruker kuler som lett utvider seg eller blir flate i den menneskelige kroppen, ellerbruker et annet stridsmiddel som er i strid med folkeretten.
+
+Straffen for krigsforbrytelse ved anvendelse av forbudte stridsmidler er fengsel inntil 15 år, men inntil 30 år der forbrytelsen omfatter forsettlig drap av en sivil eller annen beskyttet person eller for øvrig hvis forbrytelsen er grov, jf. [§ 103](lov/2005-05-20-28/§103) fjerde ledd annet punktum.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 108. Forbund om og tilskynding til folkemord, forbrytelse mot menneskeheten og krigsforbrytelse
+
+Med fengsel inntil 10 år straffes den som inngår forbund med noen om å begå lovbrudd som nevnt i [§§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107). Det samme gjelder den som direkte og offentlig tilskynder noen til å begå et slikt lovbrudd.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### § 109. Overordnedes ansvar
+
+For krenkelse av overordnedes ansvar straffes en militær eller sivil leder eller en som faktisk opptrer som det, dersom personer under vedkommendes effektive myndighet og kontroll begår en forbrytelse som nevnt i [§§ 101](lov/2005-05-20-28/§101) til [107](lov/2005-05-20-28/§107), når forbrytelsen er et resultat av at lederen ikke har utøvd forsvarlig kontroll over dem, og lederenvisste eller burde ha visst at de underordnede hadde påbegynt en slik forbrytelse eller at den var umiddelbart forestående, ogunnlot å iverksette nødvendige og rimelige tiltak som sto i vedkommendes makt for å hindre eller stanse forbrytelsen, eller å rapportere forholdet til en kompetent myndighet for strafforfølgning.
+
+Straffen er fengsel inntil 10 år, men inntil 30 år der forbrytelsen er grov. Ved vurderingen av om forbrytelsen er grov, skal det legges vekt på hvor alvorlige og omfattende forbrytelser de underordnede har begått og i hvilken grad den overordnede er å bebreide.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### § 110. Minstestraff
+
+Straff som utmåles etter bestemmelsene i dette kapitlet kan ikke settes under minstestraffen som er bestemt i straffebud som i mangel av [kapittel 16](lov/2005-05-20-28/kap16) ville ha rammet handlingen det domfelles for.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)).
+
+### Kapittel 17. Vern av Norges selvstendighet og andre grunnleggende nasjonale interesser
+
+> Kapitlet tilføyd lov ved [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 111. Krenkelse av Norges selvstendighet og fred
+
+Med fengsel inntil 15 år straffes den som ved bruk av makt, trusler eller på annen rettsstridig måte volder fare for at Norge eller en del av Norgeinnlemmes i en annen stat,blir underlagt en fremmed stats herredømme,eller en stat som Norge er alliert eller i kampfellesskap med, blir påført krig eller fiendtligheter,påføres vesentlige begrensninger i sin selvbestemmelsesrett, ellerløsrives.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 112. Grov krenkelse av Norges selvstendighet og fred
+
+Grov krenkelse av Norges selvstendighet og fred straffes med fengsel inntil 21 år. Ved avgjørelsen av om krenkelsen er grov, skal det særlig legges vekt på omden har hatt særlig alvorlige virkninger for Norge,den er gjennomført ved en organisert væpnet aksjon, under utnyttelse av frykt for inngrep av en fremmed stat, eller ved trussel om dette,gjerningspersonen er et medlem av regjeringen, Stortinget eller Høyesterett eller tilhører landets øverste sivile eller militære ledelse,handlingen har medført tap eller fare for tap av menneskeliv.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 113. Krenkelse av Norges statsforfatning
+
+Den som ved bruk av makt, trusler eller på annen rettsstridig måte volder fare for at Norges statsforfatning forandres, straffes med fengsel inntil 15 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 114. Grov krenkelse av Norges statsforfatning
+
+Grov krenkelse av Norges statsforfatning straffes med fengsel inntil 21 år. Ved avgjørelsen av om krenkelsen er grov, skal det særlig legges vekt på forhold som nevnt i [§ 112](lov/2005-05-20-28/§112) bokstav a til d.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 115. Angrep på de høyeste statsorganenes virksomhet
+
+Med fengsel inntil 10 år straffes den som ved bruk av makt, trusler eller på annen rettsstridig måte volder fare for at Kongen, Regenten, regjeringen, Stortinget, Høyesterett eller Riksretten, eller et medlem av disse institusjonene, hindres eller påvirkes i sin virksomhet.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 116. Grovt angrep på de høyeste statsorganenes virksomhet
+
+Grovt angrep på de høyeste statsorganenes virksomhet straffes med fengsel inntil 21 år. Ved avgjørelsen av om angrepet er grovt, skal det særlig legges vekt på forhold som nevnt i [§ 112](lov/2005-05-20-28/§112) bokstav a til d.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 117. Inngrep overfor viktige samfunnsinstitusjoner
+
+Med fengsel inntil 6 år straffes den som ved bruk av makt, vold eller trusler, eller på annen ulovlig og organisert måte, griper inn i virksomheten til viktige samfunnsinstitusjoner som for eksempel en offentlig myndighet, et politisk parti eller et medieforetak, og derved setter betydelige samfunnsinteresser i fare.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 118. Grovt inngrep overfor viktige samfunnsinstitusjoner
+
+Grovt inngrep overfor viktige samfunnsinstitusjoner straffes med fengsel inntil 15 år. Ved avgjørelsen av om inngrepet er grovt, skal det særlig legges vekt på forhold som nevnt i [§ 112](lov/2005-05-20-28/§112) bokstav a til d.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 119. Landssvik
+
+Med fengsel inntil 10 år straffes den som i krig, under okkupasjon eller en internasjonal væpnet konflikt på norsk territorium, eller ved overhengende fare for dette, yter fienden eller okkupasjonsmakten bistand mot Norge eller skader den norske forsvarsevnen.
+
+På samme måte straffes den som skader forsvarsevnen til en stat som Norge er alliert eller i kampfellesskap med.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 120. Grovt landssvik
+
+Grovt landssvik straffes med fengsel inntil 21 år. Ved avgjørelsen av om landssviket er grovt, skal det særlig legges vekt på forhold som nevnt i [§ 112](lov/2005-05-20-28/§112) bokstav a, c og d.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 120 a. Angrep på norske og allierte styrker
+
+Med fengsel inntil 10 år straffes den som rettsstridig bærer våpen eller deltar i militær operasjon mot norske militære styrker. På samme måte straffes den som foretar slik handling mot militære styrker som deltar i en internasjonal operasjon sammen med norske styrker.
+
+> Tilføyd ved lov [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)).
+
+### § 120 b. Grovt angrep på norske og allierte styrker
+
+Grovt angrep på norske og allierte styrker straffes med fengsel inntil 15 år. Ved avgjørelsen av om angrepet er grovt, skal det særlig legges vekt på om det har hatt særlig alvorlige virkninger for norske eller allierte styrker, om det er gjennomført ved en organisert væpnet aksjon og om det har medført tap eller fare for tap av menneskeliv.
+
+> Tilføyd ved lov [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)).
+
+### § 121. Etterretningsvirksomhet mot statshemmeligheter
+
+Med bot eller fengsel inntil 3 år straffes den som til fordel for en fremmed stat, terrororganisasjon eller uten aktverdig grunn samler inn eller setter seg i besittelse av en hemmelig opplysning som, om den blir kjent for en slik stat, terrororganisasjon eller for øvrig avsløres, kan skade grunnleggende nasjonale interesser som gjelderforsvars-, sikkerhets- og beredskapsmessige forhold,de øverste statsorganenes virksomhet, sikkerhet eller handlefrihet,forholdet til andre stater,sikkerhetsopplegg for fremmede staters representasjon og ved større nasjonale og internasjonale arrangementer,samfunnets infrastruktur, så som mat-, vann- og energiforsyning, samferdsel og telekommunikasjon, helseberedskap eller bank- og pengevesen, ellernorske naturressurser.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 122. Grov etterretningsvirksomhet mot statshemmeligheter
+
+Grov etterretningsvirksomhet mot statshemmeligheter straffes med fengsel inntil 10 år. Ved avgjørelsen av om etterretningsvirksomheten er grov, skal det særlig legges vekt på omgjerningspersonen er et medlem av regjeringen, Stortinget eller Høyesterett eller tilhører landets øverste sivile eller militære ledelse,gjerningspersonen hadde til hensikt å avsløre opplysningen til en fremmed stat eller terrororganisasjon,en avsløring ville ha voldt betydelig skade.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 123. Avsløring av statshemmeligheter
+
+Med bot eller fengsel inntil 3 år straffes den som uten aktverdig grunn offentliggjør, overleverer eller på annen måte avslører en hemmelig opplysning som kan skade grunnleggende nasjonale interesser som nevnt i [§ 121](lov/2005-05-20-28/§121). Den som avslører en slik opplysning til en fremmed stat eller terrororganisasjon, anses ikke for å ha en aktverdig grunn.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 124. Grov avsløring av statshemmeligheter
+
+Grov avsløring av en statshemmelighet straffes med fengsel inntil 15 år. Ved avgjørelsen av om avsløringen er grov, skal det særlig legges vekt på omgjerningspersonen er et medlem av regjeringen, Stortinget eller Høyesterett eller tilhører landets øverste sivile eller militære ledelse,hemmeligheten er betrodd gjerningspersonen i tjeneste eller arbeid,hemmeligheten er avslørt til en fremmed stat eller en terrororganisasjon,betydelig skade er voldt.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 125. Uaktsom avsløring av statshemmeligheter
+
+Den som uaktsomt avslører en statshemmelighet, straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 126. Annen ulovlig etterretning
+
+Med bot eller fengsel inntil 3 år straffes den som på norsk område til fordel for en fremmed stat eller terrororganisasjoninnsamler opplysninger om personlige forhold, når meddelelse av disse kan volde fare for noens liv, helse, frihet eller eiendom, ellerinnsamler opplysninger som kan skade andre staters sikkerhetsinteresser.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 127. Forbund om krenkelse av Norges selvstendighet og forfatning mv.
+
+Med fengsel inntil 6 år straffes den som inngår forbund med noen om å begå lovbrudd som nevnt i [§§ 111-120 a](lov/2005-05-20-28/§111), [§ 123](lov/2005-05-20-28/§123) eller [§ 124](lov/2005-05-20-28/§124).
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)).
+
+### § 128. Ulovlig militær virksomhet
+
+Med bot eller fengsel inntil 3 år straffes den som danner en privat organisasjon av militær karakter her i riket, eller deltar i, rekrutterer medlemmer eller yter økonomisk eller annen materiell støtte til en slik organisasjon. På samme måte straffes den som her i riket rekrutterer noen til militær virksomhet for en fremmed stat.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 129. Straff for deltakelse mv. i voldelig sammenslutning med politiske mål
+
+Med fengsel inntil 6 år straffes den som danner, deltar i, rekrutterer medlemmer eller yter økonomisk eller annen materiell støtte til en sammenslutning som har til formål ved grovt skadeverk, sabotasje, vold eller tvang eller trusler om dette å begå en handling som nevnt i [§§ 111-120](lov/2005-05-20-28/§111) eller på annen måte forstyrre samfunnsordenen eller oppnå innflytelse i offentlige anliggender, når sammenslutningen har tatt skritt for å realisere formålet med ulovlige midler.
+
+Medvirkning straffes ikke.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 130. Påvirkning fra fremmed etterretning
+
+Med bot eller fengsel inntil 3 år straffes den som på vegne av eller etter avtale med en fremmed etterretningsaktør bidrar i virksomhet som har til formål å påvirke beslutninger eller den allmenne meningsdannelsen, når virksomheten kan skade betydelige samfunnsinteresser.
+
+> Tilføyd ved lov [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)).
+
+### § 130 a. Grov påvirkning fra fremmed etterretning
+
+Grov overtredelse av [§ 130](lov/2005-05-20-28/§130) straffes med fengsel inntil 10 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt påovertredelsens karakter og omfang,om gjerningspersonen i kraft av sin stilling nyter en særlig tillit,om overtredelsen av andre grunner er særlig samfunnsskadelig, ogom gjerningspersonen har skaffet seg selv eller andre en betydelig vinning.
+
+> Tilføyd ved lov [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)).
+
+### Kapittel 18. Terrorhandlinger og terrorrelaterte handlinger
+
+> Kapitlet tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 131. Terrorhandlinger
+
+En straffbar handling som nevnt i [§§ 138](lov/2005-05-20-28/§138) til [141](lov/2005-05-20-28/§141), [§ 142](lov/2005-05-20-28/§142) første ledd, [§§ 143-144](lov/2005-05-20-28/§143), [192](lov/2005-05-20-28/§192), [238](lov/2005-05-20-28/§238), [239](lov/2005-05-20-28/§239), [240](lov/2005-05-20-28/§240), [255](lov/2005-05-20-28/§255), [257](lov/2005-05-20-28/§257), [274](lov/2005-05-20-28/§274), [275](lov/2005-05-20-28/§275) og [355](lov/2005-05-20-28/§355), anses som terrorhandling og straffes med fengsel inntil 21 år dersom den er begått med terrorhensikt som nevnt i annet ledd.
+
+Terrorhensikt foreligger dersom en handling som nevnt i første ledd begås i den hensiktå forstyrre alvorlig en funksjon av grunnleggende betydning i samfunnet, som for eksempel lovgivende, utøvende eller dømmende myndighet, energiforsyning, sikker forsyning av mat eller vann, bank- og pengevesen eller helseberedskap og smittevern,å skape alvorlig frykt i en befolkning, ellerurettmessig å tvinge offentlige myndigheter eller en mellomstatlig organisasjon til å gjøre, tåle eller unnlate noe av vesentlig betydning for landet eller organisasjonen, eller for et annet land eller en mellomstatlig organisasjon.
+
+Den som har forsett om å fullbyrde et lovbrudd som nevnt i første ledd eller [§ 132](lov/2005-05-20-28/§132), og foretar handlinger som legger til rette for og peker mot gjennomføringen, straffes for forsøk. Forsøket straffes mildere enn fullbyrdet overtredelse. [§ 16](lov/2005-05-20-28/§16) annet ledd gjelder tilsvarende.
+
+Straffen kan ikke settes under minstestraffen i bestemmelsene som er nevnt i første ledd.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)).
+
+### § 132. Grove terrorhandlinger
+
+Grov overtredelse av [§ 131](lov/2005-05-20-28/§131) straffes med fengsel inntil 30 år. Ved avgjørelsen av om terrorhandlingen er grov, skal det særlig legges vekt på om denhar medført tap av flere menneskeliv eller svært omfattende ødeleggelse av eiendom eller miljø, eller særlig nærliggende fare for det,er utført med særlig skadelige midler,er begått av en person som i kraft av sin stilling nyter en særlig tillit som kan utnyttes til å gjennomføre en terrorhandling.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 133. Terrorforbund
+
+Med fengsel inntil 10 år straffes den som planlegger eller forbereder en terrorhandling ved å inngå forbund med noen om å begå en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [138](lov/2005-05-20-28/§138), [139](lov/2005-05-20-28/§139), [141](lov/2005-05-20-28/§141), [141 a](lov/2005-05-20-28/§141a), [142](lov/2005-05-20-28/§142), [143](lov/2005-05-20-28/§143) eller [144](lov/2005-05-20-28/§144).
+
+Med fengsel inntil 3 år straffes den som inngår forbund med noen om å begå en straffbar handling som nevnt i [§§ 137](lov/2005-05-20-28/§137) eller [140](lov/2005-05-20-28/§140).
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 134. Terrortrusler
+
+Den som truer med å begå en handling som nevnt i [§ 131](lov/2005-05-20-28/§131) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144), straffes med fengsel inntil 10 år.
+
+Dersom trusselen leder til en følge som nevnt i [§ 131](lov/2005-05-20-28/§131) annet ledd, straffes handlingen med fengsel inntil 21 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 135. Terrorfinansiering
+
+Med fengsel inntil 10 år straffes den som rettsstridig yter, mottar, sender, fremskaffer eller samler inn penger eller andre formuesgoder med hensikt eller viten om at midlene helt eller delvis skal brukestil å utføre en handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [136 b](lov/2005-05-20-28/§136b) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144),av en person eller gruppe som har til formål å begå handlinger som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [136 b](lov/2005-05-20-28/§136b) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144), når personen eller gruppen har tatt skritt for å realisere formålet med ulovlige midler,av et foretak som noen som nevnt i bokstav b eier eller har kontroll over, ellerav et foretak eller en person som handler på vegne av eller på instruks fra noen som nevnt i bokstav b.
+
+På samme måte straffes den som stiller banktjenester eller andre finansielle tjenester til rådighet for personer eller foretak som nevnt i første ledd bokstav b, c eller d.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 136. Oppfordring, rekruttering og opplæring til terrorhandlinger
+
+Med fengsel inntil 6 år straffes den somoffentlig oppfordrer noen til å iverksette en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144),rekrutterer noen til å begå en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144),gir opplæring i metoder eller teknikker som er særlig egnet til å utføre eller bidra til utførelsen av en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144), med forsett om at ferdighetene skal brukes til dette, ellerlar seg lære opp i metoder eller teknikker som er særlig egnet til å utføre eller bidra til utførelsen av en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144), med forsett om å bruke ferdighetene til dette eller med forsett om at opplæringen gis med dette for øyet.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 136 a. Straff for deltakelse mv. i en terrororganisasjon
+
+Med fengsel inntil 6 år straffes den som danner, deltar i, rekrutterer medlemmer eller yter økonomisk eller annen materiell støtte til en terrororganisasjon, når organisasjonen har tatt skritt for å realisere formålet med ulovlige midler.
+
+Medvirkning straffes ikke.
+
+> Tilføyd ved lov [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 136 b. Reise med terrorformål
+
+Med fengsel inntil 6 år straffes den som reiser til et annet land med forsett om å begå, planlegge eller forberede en handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135), [136](lov/2005-05-20-28/§136) eller [§§ 137](lov/2005-05-20-28/§137) til [144](lov/2005-05-20-28/§144).
+
+> Tilføyd ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 137. Medvirkning til unndragning fra straff for terrorhandlinger
+
+Med fengsel inntil 6 år straffes den som transporterer, skjuler eller på annen måte medvirker til at noen som har begått en straffbar handling som nevnt i [§§ 131](lov/2005-05-20-28/§131), [134](lov/2005-05-20-28/§134), [135](lov/2005-05-20-28/§135) eller [§§ 138](lov/2005-05-20-28/§138) til [144](lov/2005-05-20-28/§144), unndrar seg strafforfølgningen eller en idømt straff.
+
+Den som har gitt bistand som nevnt i første ledd til en av sine nærmeste, straffes ikke.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 138. Terrorbombing
+
+Med fengsel inntil 21 år straffes den som sender inn, anbringer, avfyrer eller detonerer et sprenglegeme eller en annen potensielt dødbringende anordning på, i eller mot et offentlig sted, et statlig eller offentlig anlegg, et offentlig infrastrukturanlegg eller et offentlig transportsystem, med forsett om å volde tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 139. Kapring av luftfartøy og skip mv.
+
+Den som ved vold, trusler, teknologi eller på annen ulovlig måte tiltvinger seg kontroll over et luftfartøy i tjeneste eller et skip, eller på annen måte oppnår kontroll over eller griper inn i en flygning eller seilas, straffes med fengsel inntil 21 år. På samme måte straffes den som med slike midler tiltvinger seg kontroll over innretninger eller anlegg på kontinentalsokkelen.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 140. Forstyrrelse av den sikre drift av luftfartøy og skip mv.
+
+Med fengsel inntil 6 år straffes den som ved vold, materiell ødeleggelse, meddelelse av feilaktig informasjon eller på annen måte forstyrrer den sikre drift av luftfartøy, flyplass, skip eller innretninger eller anlegg på kontinentalsokkelen, og derved volder fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 141. Bruk og utslipp av farlig stoff i tilknytning til luftfartøy og skip mv.
+
+Med fengsel inntil 15 år straffes den som volder fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø ved åbruke mot eller på et luftfartøy, et skip eller innretninger eller anlegg på kontinentalsokkelen et eksplosivt eller radioaktivt materiale, biologisk eller kjemisk våpen, ellerslippe ut fra et luftfartøy, et skip eller innretninger eller anlegg på kontinentalsokkelen et eksplosivt eller radioaktivt materiale, biologisk eller kjemisk våpen, olje, flytende naturgass eller annet giftig eller farlig stoff.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 141 a. Farefull bruk av luftfartøy og skip
+
+Med fengsel inntil 15 år straffes den som fører eller bruker et luftfartøy eller skip med forsett om derved å volde tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø.
+
+> Tilføyd ved lov [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+
+### § 142. Ulovlig befatning med farlig materiale mv.
+
+Med fengsel inntil 21 år straffes den som med forsett om derved å volde fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø ulovligbruker eksplosivt eller radioaktivt materiale, biologiske eller kjemiske våpen eller en kjernefysisk eller radioaktiv anordning, ellerbruker eller skader et nukleært anlegg eller forstyrrer driften av et nukleært anlegg slik at det kan oppstå stråling eller utslipp av radioaktiv materiale.
+
+På samme måte straffes den som med forsett om at noen derved skal tvinges til å gjøre, tåle eller unnlate noe, ulovligbruker eksplosivt eller radioaktivt materiale, biologiske eller kjemiske våpen eller en kjernefysisk eller radioaktiv anordning, ellerbruker eller skader et nukleært anlegg eller forstyrrer driften av et nukleært anlegg slik at det kan oppstå stråling eller utslipp av radioaktivt materiale.
+
+Med fengsel inntil 15 år straffes den som ulovlig mottar, besitter, sprer, transporterer eller på annen måte har ulovlig befatning medet eksplosivt eller radioaktivt materiale eller en kjernefysisk eller radioaktiv anordning, når materialet eller anordningen skal brukes for å tvinge noen til å gjøre, tåle eller unnlate noe eller brukes til en handling som volder fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø, elleret radioaktivt, biologisk eller kjemisk våpen, eller utstyr eller komponenter spesielt konstruert eller forberedt for fremstilling, bruk, produksjon eller levering av kjernefysisk materiale, når utstyret eller komponentene skal brukes i ulovlig kjernefysisk virksomhet.
+
+Med fengsel inntil 10 år straffes den somved trusler, vold, tyveri, underslag, bedrageri eller på annen ulovlig måte søker å sette seg i besittelse av radioaktivt materiale, kjemiske eller biologiske våpen, en kjernefysisk eller radioaktiv anordning, eller et nukleært anlegg, ellerulovlig bringer, sender eller forflytter radioaktivt materiale inn i eller ut av en stat.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [22 juni 2012 nr. 49](lov/2012-06-22-49).
+
+### § 143. Gisseltaking i terrorøyemed
+
+Med fengsel inntil 12 år straffes den som berøver noen friheten og som truer med å drepe eller skade gisselet eller med å fortsette å holde gisselet frihetsberøvet, med forsett om å tvinge en annen til å gjøre, tåle eller unnlate noe.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 144. Angrep på en internasjonalt beskyttet person
+
+Med fengsel inntil 21 år straffes den som begår drap på et statsoverhode, en regjeringssjef, en utenriksminister eller en annen internasjonalt beskyttet person når personen befinner seg utenfor sitt hjemland.
+
+Med fengsel inntil 15 år straffes den som berøver en slik person friheten eller skader ham på kroppen, eller begår et voldelig angrep på hans tjenestested, bolig eller transportmiddel, der angrepet volder fare for død eller betydelig skade på kropp.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 145. Deltakelse i militær virksomhet i væpnet konflikt i utlandet
+
+Den som på rettsstridig måte deltar i militær virksomhet i en væpnet konflikt i utlandet, straffes med fengsel inntil 6 år, med mindre vedkommende deltar på vegne av en statlig styrke.
+
+Den som har forsett om å fullbyrde et lovbrudd som nevnt i første ledd, og påbegynner sin reise til området eller foretar andre handlinger som legger til rette for og peker mot gjennomføringen, straffes for forsøk. Forsøket straffes mildere enn fullbyrdet overtredelse. [§ 16](lov/2005-05-20-28/§16) annet ledd gjelder tilsvarende.
+
+> Tilføyd ved lov [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)).
+
+### § 146. Rekruttering til militær virksomhet
+
+Den som rekrutterer noen til å delta i ulovlig militær virksomhet, jf. [§ 145](lov/2005-05-20-28/§145), straffes med fengsel inntil 3 år.
+
+> Tilføyd ved lov [17 juni 2016 nr. 52](lov/2016-06-17-52) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 670](forskrift/2016-06-17-670)).
+
+### Kapittel 19. Vern av offentlig myndighet og tilliten til den
+
+> Kapitlet tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 151. Stemmekjøp og utilbørlig stemmepåvirkning
+
+Med bot eller fengsel inntil 2 år straffes den som ved et offentlig valgved trussel eller andre ulovlige midler søker å påvirke noens avgivelse av stemme,ved å gi et gode eller inngå avtale om det søker å oppnå at noen forplikter seg til å stemme på en bestemt måte eller unnlate å stemme,opptrer slik at noen utilsiktet unnlater å stemme, eller stemmer annerledes enn tilsiktet.
+
+Med offentlig valg menes folkeavstemning, valg etter [valgloven](lov/2023-06-16-62) og valg etter [sameloven kapittel 2](lov/1987-06-12-56/kap2).
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [16 juni 2023 nr. 62](lov/2023-06-16-62) (i kraft 1 mai 2024 iflg. [res. 22 mars 2024 nr. 553](forskrift/2024-03-22-553)).
+
+### § 152. Stemmesalg
+
+Den som i et offentlig valg på grunn av et mottatt gode eller avtale om dette gir løfte om å stemme på en bestemt måte, eller om å unnlate å stemme, straffes med bot eller fengsel inntil 6 måneder.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 153. Uberettiget valgdeltakelse
+
+Den som i et offentlig valg stemmer uten å ha rett til det, avgir stemme i en annens navn eller stemmer mer enn én gang, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 154. Etterfølgende påvirkning av valgresultatet
+
+Den som i et offentlig valg teller stemmer feil, fjerner eller endrer avgitte stemmer, legger til stemmer som ikke er avgitt, eller på annen måte påvirker resultatet av opptellingen, straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 155. Vold, trusler, skadeverk eller annen rettsstridig adferd mot offentlig tjenesteperson
+
+Den som ved vold, trusler, skadeverk eller annen rettsstridig adferd påvirker en offentlig tjenesteperson til å foreta eller unnlate å foreta en tjenestehandling eller hindrer en slik handling, eller søker å oppnå dette, straffes med bot eller fengsel inntil 3 år.
+
+På samme måte straffes den som ved vold, trusler, skadeverk eller annen rettsstridig adferd overfor en offentlig tjenesteperson eller noen av hans eller hennes nærmeste, gjengjelder en tjenestehandling.
+
+Med offentlig tjenesteperson menes enhver som utøver offentlig myndighet på vegne av stat eller kommune, eller som har slik kompetanse i kraft av sin stilling. Som offentlig tjenesteperson anses også militære vakter, enhver som pliktmessig eller etter oppfordring yter bistand til offentlig tjenesteperson, eller sikrer dennes arbeidsplass.
+
+Første ledd gjelder også for lovbrudd mot Den internasjonale straffedomstols tjenestepersoner.
+
+Dersom det gjelder gjensidig, kan Kongen bestemme at første og annet ledd også skal anvendes på lovbrudd mot tjenestepersoner i et annet lands offentlige myndighet og i mellomstatlige organisasjoner som Norge er eller blir medlem av.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 155 a. Grov vold, grove trusler eller grovt skadeverk mot offentlig tjenesteperson
+
+Grov vold, grove trusler eller grovt skadeverk mot offentlig tjenesteperson straffes med fengsel inntil 6 år. Ved avgjørelsen av om handlingen er grov, skal det særlig legges vekt på om denvar egnet til å fremkalle frykt for tap av liv eller alvorlig skade,er begått i aktivitetene til en organisert kriminell gruppe, ellerav andre grunner er særlig samfunnsskadelig.
+
+> Tilføyd ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 155 b. Minstestraff for bruk av skytevåpen mv. mot politiet
+
+Straffen er fengsel fra 1 inntil 10 år dersom handlingen som nevnt i [§ 155](lov/2005-05-20-28/§155) består av å avfyre skytevåpen eller bruke sprengstoff eller annet redskap som er egnet til å volde fare for betydelig skade på kropp, og den offentlige tjenestepersonen er polititjenesteperson eller annen offentlig tjenesteperson som utøver politimyndighet.
+
+> Tilføyd ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 155 c. Grovt uaktsom vold mv. mot offentlig tjenestemann
+
+Grovt uaktsom overtredelse av [§ 155](lov/2005-05-20-28/§155) straffes med fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 156. Hindring av offentlig tjenestemann
+
+Den som hindrer en offentlig tjenestemann i å utføre en tjenestehandling, for eksempel ved å nekte adgang til steder hvor han har berettiget tilgang, straffes med bot eller fengsel inntil 6 måneder.
+
+Den som ved skjellsord eller annen utilbørlig atferd forulemper en offentlig tjenestemann under eller på grunn av utføringen av tjenesten, straffes med bot.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [25 juni 2010 nr. 46](lov/2010-06-25-46).
+
+### § 156 a. Vern av tjenestevåpen
+
+Den som setter seg eller andre i besittelse av et tjenestevåpen eller på annen måte forårsaker at en offentlig tjenesteperson mister kontroll over et tjenestevåpen, straffes med fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 157. Motarbeiding av rettsvesenet
+
+Med fengsel inntil 6 år straffes den som ved vold, trusler, skadeverk eller annen rettsstridig atferd overfor en aktør i rettsvesenet eller noen av hans nærmesteopptrer slik at det er egnet til å påvirke aktøren til å foreta eller unnlate en handling, et arbeid eller en tjeneste i forbindelse med en straffesak eller en sivil sak, ellergjengjelder en handling, et arbeid eller en tjeneste som aktøren har utført i forbindelse med en straffesak eller en sivil sak.
+
+Med aktør i rettsvesenet menes den somer fornærmet i en straffesak, har anmeldt et straffbart forhold eller anlagt søksmål i en sivil sak,har avgitt forklaring for politiet, påtalemyndigheten, domstolen, kriminalomsorgen eller Gjenopptakelseskommisjonen,arbeider eller utfører tjeneste for et organ som nevnt i bokstav b,er fast eller oppnevnt forsvarer, bistandsadvokat eller prosessfullmektig, ellervurderer å foreta en slik handling eller å påta seg et slikt arbeid eller en slik tjeneste.
+
+Første ledd gjelder tilsvarende overfor tjenestemenn i Den internasjonale straffedomstolen.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 158. Grov motarbeiding av rettsvesenet
+
+Grov motarbeiding av rettsvesenet straffes med fengsel inntil 10 år. Ved avgjørelsen av om motarbeidingen er grov, skal det særlig legges vekt på om overtredelsen har voldt fare for noens liv eller helse, er begått ved flere anledninger, av flere i fellesskap eller har et systematisk eller organisert preg.
+
+Er lovbruddet begått som ledd i aktivitetene til en organisert kriminell gruppe, eller handlingen gjennomføres ved trusler om eller bruk av våpen, er straffen fengsel i minst 1 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 159. Grovt uaktsom motarbeiding av rettsvesenet
+
+Grovt uaktsom motarbeiding av rettsvesenet straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 160. Bevispåvirkning og unndragning fra strafforfølgning mv.
+
+Den som motarbeider en offentlig undersøkelse av et lovbrudd ved å bidra til at gjenstander som kan ha betydning som bevis tilintetgjøres, fjernes, ødelegges, endres, plantes eller fabrikkeres, eller på annen måte utsletter sporene etter handlingen, straffes med bot eller fengsel inntil 2 år.
+
+På samme måte straffes den som medvirker til at noen unndras fra strafforfølgning ved flukt, for eksempel ved å holde ham skjult eller ved å utgi ham for å være en annen person.
+
+Straff etter første ledd kommer ikke til anvendelse på den som søker å unndra seg selv fra strafforfølgning. Straff etter annet ledd kommer ikke til anvendelse på den som har unndratt noen av sine nærmeste fra strafforfølgning.
+
+Med bot eller fengsel inntil 6 måneder straffes den som ulovlig setter seg i forbindelse med noen som er undergitt varetektsfengsling eller ulovlig skaffer ham gjenstander.
+
+Første til fjerde ledd gjelder tilsvarende for strafforfølgning i en sak som hører under Den internasjonale straffedomstolen.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 161. Unndragning fra idømt straff mv.
+
+Den som medvirker til at noen som er idømt frihetsstraff eller en særreaksjon, unndrar seg gjennomføringen av reaksjonen, straffes med bot eller fengsel inntil 3 år.
+
+Den som unndrar seg gjennomføringen av idømt frihetsstraff, straffes med bot eller fengsel inntil 6 måneder. På samme måte straffes den som ulovlig setter seg i forbindelse med noen som er innsatt i fengsel eller ulovlig skaffer ham gjenstander.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+
+### § 162. Brudd på identifikasjonsplikten
+
+Den som ikke oppgir sitt navn, fødselsdato, fødselsår, stilling eller bopel til et stevnevitne, en polititjenestemann eller annen offentlig myndighet som ber om opplysningen som ledd i tjenesteutøvelsen, straffes med bot. På samme måte straffes den som oppgir uriktige slike opplysninger om seg selv eller andre.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 163. Brudd på meldeplikt ved dødsfall
+
+Den som finner et lik og unnlater straks å underrette den avdødes nærmeste eller politiet, straffes med bot.
+
+Er det grunn til mistanke om at døden er voldt ved en straffbar handling, skal politiet straks underrettes. Den som ikke underretter politiet, straffes med bot.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 164. Ulovlig myndighetsutøving
+
+Den som uhjemlet utøver offentlig myndighet, eller som foretar handlinger som bare kan utøves av offentlige tjenestemenn, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 165. Misbruk av offentlig uniform, kjennetegn eller tittel mv.
+
+Med bot eller fengsel inntil 6 måneder straffes den somved uhjemlet bruk av uniform eller på annen måte offentlig utgir seg for å ha offentlig myndighet på en slik måte at det er egnet til å skape uleilighet for noen eller svekke tilliten til den offentlige myndigheten,uhjemlet bruker et norsk eller utenlandsk offentlig våpen, merke eller segl eller noe som lett kan forveksles med slike, elleruhjemlet offentlig eller i rettsstridig øyemed bruker norsk eller utenlandsk offentlig tittel.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 166. Misbruk av internasjonalt kjennetegn
+
+Med bot eller fengsel inntil 6 måneder straffes den som uhjemlet og rettsstridigoffentlig bruker en anerkjent eller i innland eller utland alminnelig brukt betegnelse på en internasjonal organisasjon, eller et merke eller segl som nyttes av en internasjonal organisasjon som Norge er medlem av eller ved mellomfolkelig overenskomst har forpliktet seg til å verne mot slik bruk,bruker et kjennetegn eller en betegnelse som ved mellomfolkelig overenskomst som Norge er bundet av, er bestemt til bruk i samband med hjelp til sårede og syke eller vern av kulturverdier i krig, elleruhjemlet bruker en betegnelse, merke, segl eller kjennetegn som lett kan forveksles med noe som nevnt i bokstav a og b.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 167. Ulovlig yrkes- eller virksomhetsutøvelse
+
+Den som utøver et yrke eller en virksomhet uten å ha en nødvendig offentlig tillatelse eller autorisasjon, eller uriktig utgir seg for å ha dette, straffes med bot eller fengsel inntil 6 måneder.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 168. Brudd på oppholds- og kontaktforbud eller beslutning om båndlegging
+
+Med bot eller fengsel inntil 1 år straffes den somved dom er forvist til eller fra bestemte deler av riket og som rettsstridig igjen oppholder seg på et sted der dette er forbudt for vedkommende, eller som på annen måte bryter kontaktforbud i medhold av [straffeloven § 57](lov/2005-05-20-28/§57),krenker forbud etter [straffeprosessloven §§ 222 a](lov/1981-05-22-25/§222a) eller [222 b](lov/1981-05-22-25/§222b),forsettlig eller grovt uaktsomt hindrer at elektronisk kontroll i medhold av [straffeloven § 57](lov/2005-05-20-28/§57) eller [straffeprosessloven § 222 g](lov/1981-05-22-25/§222g) kan iverksettes eller hindrer pågående kontroll, elleropptrer i strid med informasjonsplikten etter [politiloven § 17 k](lov/1995-08-04-53/§17k) første ledd eller forbudet etter [politiloven § 17 k](lov/1995-08-04-53/§17k) annet ledd.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
+
+### § 169. Hindring av tvangsfullbyrding
+
+Med bot eller fengsel inntil 6 måneder straffes den somulovlig tilintetgjør, skader, skjuler, bortfører eller avhender gods som det er tatt utlegg, hefte, arrest eller beslag i,bryter eller skader et segl som er anbrakt av offentlig myndighet, ellerhindrer fullbyrdingen av en fravikelsesforretning for fast eiendom eller skip.
+
+Hvis forholdet ikke rammes av en strengere straffebestemmelse, straffes på samme måte den som tross pålegg fra en alminnelig eller særskilt namsmyndighet forsettlig eller uaktsomt unnlater å foreta utleggstrekk eller å betale beløp som er trukket slik det er bestemt.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+
+### § 170. Krenking av rettsavgjørelse
+
+Med bot eller fengsel inntil 6 måneder straffes den somopptrer i strid med forbud som er fastsatt av en domstol,utøver en rett som ved endelig dom er frakjent vedkommende, ellertrykker opp, frembyr for salg eller utleie eller søker alminnelig utbredt innholdet av en informasjonsbærer som nevnt i [§ 76](lov/2005-05-20-28/§76) når den er beslaglagt eller inndratt fordi den strider mot [§ 185](lov/2005-05-20-28/§185) eller [§ 267](lov/2005-05-20-28/§267), eller som på annen måte er erklært beslaglagt eller inndratt for mindre enn 15 år siden.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 171. Tjenestefeil
+
+Med bot eller fengsel inntil 2 år straffes den som utøver eller bistår ved utøving av offentlig myndighet, og grovt bryter sin tjenesteplikt.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 172. Grovt uaktsom tjenestefeil
+
+Med bot eller fengsel inntil 1 år straffes grovt uaktsom tjenestefeil.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 173. Misbruk av offentlig myndighet
+
+Med fengsel inntil 6 år straffes den som ved utøving av offentlig myndighetmot bedre vitende grovt bryter sin tjenesteplikt,bryter sin tjenesteplikt med forsett om å oppnå vinning for seg eller andre,bryter sin tjenesteplikt med alvorlig ulempe, skade eller urettmessig frihetsberøvelse som følge, ellerpå andre måter misbruker offentlig myndighet.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 174. Tortur
+
+Med fengsel inntil 15 år straffes en offentlig tjenestemann som påfører en annen person skade eller alvorlig fysisk eller psykisk smerte,med forsett om å oppnå opplysninger eller en tilståelse,med forsett om å avstraffe, true, eller tvinge noen, ellerpå grunn av personens religion eller livssyn, hudfarge, nasjonale eller etniske opprinnelse, seksuelle orientering, kjønn, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne.
+
+Med offentlig tjenestemann menes i denne bestemmelsen enhveri statlig eller kommunal tjeneste, ellersom er engasjert av stat eller kommune for å utføre tjeneste eller arbeid.
+
+Det regnes også som tortur at handlinger som nevnt i første ledd begås av noen som handler etter oppfordring eller med uttrykkelig eller underforstått samtykke fra en offentlig tjenestemann.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 175. Grov tortur
+
+Grov tortur straffes med fengsel inntil 21 år.
+
+Ved avgjørelsen av om torturen er grov, skal det særlig legges vekt på om den har ført til tap eller fare for tap av menneskeliv.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 175 a. Tvungen forsvinning
+
+Den som på vegne av en stat eller med statens tillatelse, støtte eller samtykke bidrar til en tvungen forsvinning, straffes med fengsel inntil 15 år. Med tvungen forsvinning menes en pågripelse, fengsling, bortføring eller annen frihetsberøvelse, når frihetsberøvelsen nektes vedgått, det forties hva som har skjedd med den frihetsberøvede eller det forties hvor den frihetsberøvede befinner seg, slik at den frihetsberøvede unndras fra lovens beskyttelse.
+
+På samme måte straffes en leder somforsettlig eller uaktsomt overser opplysninger om at personer under lederens effektive myndighet og kontroll begår eller forbereder en straffbar tvungen forsvinning, ogunnlater å iverksette nødvendige og rimelige tiltak for å hindre eller stanse en straffbar tvungen forsvinning, eller å rapportere forholdet til kompetente myndigheter.
+
+> Tilføyd ved lov [7 juni 2019 nr. 19](lov/2019-06-07-19) (ikr. 7 juni 2019 iflg. [res. 7 juni 2019 nr. 705](forskrift/2019-06-07-705)).
+
+### § 175 b. Grov tvungen forsvinning
+
+Grov tvungen forsvinning straffes med fengsel inntil 21 år.
+
+Ved avgjørelsen av om en tvungen forsvinning er grov, skal det særlig legges vekt påom den fornærmede som følge av forsvinningen dør eller får betydelig skade på kropp eller helse,om den fornærmede var syk eller såret, gravid, mindreårig, hadde nedsatt funksjonsevne eller på annen måte var særlig sårbar, ellerom den fornærmede ble utsatt for kroppskrenkelse begått av flere i fellesskap eller voldtekt.
+
+> Tilføyd ved lov [7 juni 2019 nr. 19](lov/2019-06-07-19) (ikr. 7 juni 2019 iflg. [res. 7 juni 2019 nr. 705](forskrift/2019-06-07-705)).
+
+### § 176. Overtredelse av forbud mot ferdsel
+
+Den som tar seg inn på et område der myndighetene har forbudt ferdsel, straffes med bot.
+
+> Tilføyd ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### Kapittel 20. Vern av den offentlige ro, orden og sikkerhet
+
+> Kapitlet tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 181. Ordensforstyrrelse
+
+Med bot eller fengsel inntil 6 måneder straffes den som ved slagsmål, støy eller annen utilbørlig atferd forstyrrerden alminnelige fred og orden,lovlig ferdsel,omgivelsenes nattero, elleromgivelsene på et sted hvor han uberettiget forblir tross pålegg om å fjerne seg.
+
+På samme måte straffes den som i selvforskyldt rus forulemper eller volder fare for andre.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 182. Opptøyer
+
+Med bot eller fengsel inntil 1 år straffes den som deltar i omfattende ordensforstyrrelser med forsett om å øve eller true med vold mot person eller skadeverk på eiendom, og som ikke etterkommer pålegg fra en offentlig myndighet om å fjerne seg fra et område.
+
+Med bot eller fengsel inntil 3 år straffes den som har fremkalt eller ledet omfattende ordensforstyrrelser med forsett om å øve eller true med vold på person eller skadeverk på eiendom. Begår noen under opptøyene en straffbar handling som omfattes av forsettet, eller en straffbar handling mot en offentlig myndighet, gjelder i stedet maksimumsstraffen i dette straffebudet hvis det kan medføre en strengere straff enn bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 183. Oppfordring til en straffbar handling
+
+Den som offentlig oppfordrer noen til å iverksette en straffbar handling, straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 184. Krenkelse av representasjonen til en fremmed stat eller mellomstatlig organisasjon
+
+Med bot eller fengsel inntil 1 år straffes den som her i riket krenker representasjonen til en fremmed stat eller mellomstatlig organisasjon ved åøve vold mot, opptre truende overfor eller rettsstridig fornærme en representant for staten eller organisasjonen eller et familiemedlem som tilhører representantens husstand, ellertrenge seg inn i, gjøre skade på eller tilsmusse et område, en bygning eller et rom som brukes av en slik representant.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 185. Hatefulle ytringer
+
+Med bot eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomt offentlig setter frem en diskriminerende eller hatefull ytring. Som ytring regnes også bruk av symboler. Den som i andres nærvær forsettlig eller grovt uaktsomt fremsetter en slik ytring overfor en som rammes av denne, jf. annet ledd, straffes med bot eller fengsel inntil 1 år.
+
+Med diskriminerende eller hatefull ytring menes det å true eller forhåne noen, eller fremme hat, forfølgelse eller ringeakt overfor noen på grunn av dereshudfarge eller nasjonale eller etniske opprinnelse,religion eller livssyn,seksuelle orientering,kjønnsidentitet eller kjønnsuttrykk, ellernedsatte funksjonsevne.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 186. Diskriminering
+
+Med bot eller fengsel inntil 6 måneder straffes den som i ervervsmessig eller liknende virksomhet nekter en person varer eller tjenester på grunn av personenshudfarge eller nasjonale eller etniske opprinnelse,religion eller livssyn,seksuelle orientering,kjønnsidentitet eller kjønnsuttrykk, ellernedsatte funksjonsevne, såfremt nektelsen ikke skyldes manglende fysisk tilrettelegging.
+
+På samme måte straffes den som av en slik grunn nekter en person adgang til en offentlig forestilling, oppvisning eller annen sammenkomst på de vilkår som gjelder for andre.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 187. Falsk alarm
+
+Med bot eller fengsel inntil 6 måneder straffes den som ved en uriktig melding, et ugrunnet rop om hjelp, misbruk av nødsignal eller liknende forsettlig eller grovt uaktsomt volderutrykning av politi, brannvesen, ambulanse, lege eller forsvaret,utrykning som skjer etter anmodning fra en hovedredningssentral eller lokal redningssentral,sammenstimling av eller skrekk blant et større antall mennesker.
+
+På samme måte straffes den som gir falske opplysninger som er skikket til å fremkalle frykt for noens liv eller helse eller forstyrre den alminnelige ro og orden.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 188. Uforsiktig omgang med skytevåpen eller eksplosiver
+
+Med bot eller fengsel inntil 1 år straffes den som fremstiller, tilvirker, bruker, behandler eller oppbevarer skytevåpen, ammunisjon, sprengstoff eller et annet eksplosjonsfarlig stoff på en uforsiktig måte som er egnet til å volde fare for andres liv eller helse.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 189. Ulovlig bevæpning på offentlig sted
+
+Med bot eller fengsel inntil 1 år straffes den som på et offentlig sted forsettlig eller grovt uaktsomt har medskytevåpen,luft- og fjærvåpen,våpenetterligninger som lett kan forveksles med skytevåpen, ellerskytevåpen som er deaktivert etter [våpenlova 20. april 2018 nr. 7 § 27](lov/2018-04-20-7/§27).
+
+På samme måte straffes den som på et offentlig sted bærer kniv eller lignende skarpt redskap som er egnet til å påføre noen en kroppskrenkelse.
+
+Forbudet i første og annet ledd gjelder ikke skytevåpen, kniv eller annet redskap som brukes til, bæres eller medbringes i forbindelse med arbeid, friluftsliv eller et annet aktverdig formål.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [7 mai 2021 nr. 33](lov/2021-05-07-33) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415)).
+
+### § 189 a. Grov ulovlig bevæpning med skytevåpen på offentlig sted
+
+Grov ulovlig bevæpning med skytevåpen på offentlig sted straffes med bot eller fengsel inntil 3 år.
+
+Ved avgjørelsen av om bevæpningen er grov, skal det særlig legges vekt påhvilken type våpen overtredelsen gjelder,om våpenet er ladd eller lett kan lades, ogom bevæpningen av andre grunner er særlig farlig eller samfunnsskadelig.
+
+> Tilføyd ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 190. Ulovlig befatning med skytevåpen, våpendeler, eksplosiver og utgangsstoffer for eksplosiver
+
+Med bot eller fengsel inntil 2 år straffes den som forsettlig eller grovt uaktsomt, og gjentatt eller på graverende måte, overtrer bestemmelsene om ulovlig innføring, utførsel, avhendelse, erverv eller besittelse av skytevåpen, våpendeler eller ammunisjon gitt i eller i medhold av [våpenloven](lov/2018-04-20-7), eller tilsvarende pålegg fastsatt i medhold av [våpenloven](lov/2018-04-20-7).
+
+På samme måte straffes den som forsettlig eller grovt uaktsomt, og gjentatt eller på en graverende måte, overtrer bestemmelsene i brann- og [eksplosjonsvernloven §§ 5](lov/2002-06-14-20/§5), [19](lov/2002-06-14-20/§19), [20](lov/2002-06-14-20/§20) eller [20 a](lov/2002-06-14-20/§20a) eller bestemmelser gitt i medhold av disse.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [29 mai 2015 nr. 36](lov/2015-05-29-36) (ikr. 29 mai 2015 iflg. [res. 29 mai 2015 nr. 553](forskrift/2015-05-29-553)), [21 juni 2017 nr. 94](lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](forskrift/2018-04-27-642)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 191. Grov ulovlig befatning med skytevåpen, våpendeler, eksplosiver og utgangsstoffer for eksplosiver
+
+Grov ulovlig befatning med skytevåpen, våpendeler, ammunisjon, eksplosiver eller utgangsstoffer for eksplosiver, straffes med bot eller fengsel inntil 6 år.
+
+Ved avgjørelsen av om befatningen er grov, skal det særlig legges vekt påhvilken type og hvor stort omfang overtredelsen gjelder, ogom den av andre grunner er særlig farlig eller samfunnsskadelig.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)), [29 mai 2015 nr. 36](lov/2015-05-29-36) (ikr. 29 mai 2015 iflg. [res. 29 mai 2015 nr. 553](forskrift/2015-05-29-553)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 191 a. Befatning med skytevåpen eller eksplosiver i den hensikt å begå en straffbar handling
+
+Med fengsel inntil 6 år straffes den som i hensikt å begå en straffbar handling, anskaffer, tilvirker eller oppbevarerskytevåpen, våpendeler, ammunisjon eller sprengstoff, ellerbestanddeler, utstyr eller andre gjenstander som alene eller samlet er av vesentlig betydning for å tilvirke eller anvende gjenstander som nevnt i bokstav a.
+
+> Tilføyd ved lov [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 191 b. Befatning med skytevåpen mv. i den hensikt å begå en grov straffbar handling
+
+Grov overtredelse av [§ 191 a](lov/2005-05-20-28/§191a) straffes med fengsel inntil 10 år.
+
+Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den straffbare handling nevnt i [§ 191 a](lov/2005-05-20-28/§191a) som befatningen tok sikte påville volde fare for betydelig skade på kropp, eiendom eller miljø, ogville være særlig farlig eller samfunnsskadelig.
+
+Når den straffbare handling som nevnt i [§ 191 a](lov/2005-05-20-28/§191a) kan straffes med fengsel i 10 år eller mer, skal overtredelsen alltid anses som grov.
+
+> Tilføyd ved lov [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 192. Anslag mot infrastrukturen
+
+Med fengsel inntil 10 år straffes den som volder omfattende forstyrrelse i den offentlige forvaltning eller i samfunnslivet for øvrig ved å ødelegge, skade eller sette ut av virksomheten informasjonssamling, elleret anlegg for energiforsyning, kringkasting, elektronisk kommunikasjon eller samferdsel.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 193. Forbund om anslag mot infrastrukturen
+
+Med fengsel inntil 6 år straffes den som inngår forbund med noen om å begå en straffbar handling som nevnt i [§ 192](lov/2005-05-20-28/§192).
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 194. Forstyrrelse av den sikre drift av jernbane og buss
+
+Med fengsel inntil 6 år straffes den som ved vold, materiell ødeleggelse, meddelelse av feilaktig informasjon eller på annen måte forstyrrer den sikre drift av jernbane eller buss, og herved volder fare for tap av menneskeliv eller betydelig skade på kropp, eiendom eller miljø.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 195. Likskjending
+
+Med bot eller fengsel inntil 2 år straffes den sommishandler et lik,uberettiget fjerner et lik fra en annens varetekt, elleruten hjemmel graver opp eller borttar et begravd lik.
+
+Den som borttar et lik eller en gjenstand fra et lik, en grav eller et gravminne med forsett om vinning, straffes etter [kapittel 27](lov/2005-05-20-28/kap27) uten hensyn til om liket eller gjenstanden er i noens eie.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 196. Plikt til å avverge et straffbart forhold
+
+Med bot eller fengsel inntil 1 år straffes den som unnlater gjennom anmeldelse eller på annen måte å søke å avverge et lovbrudd eller følgene av det, på et tidspunkt da dette fortsatt er mulig, og det fremstår som sikkert eller mest sannsynlig at lovbruddet er eller vil bli begått. Avvergingsplikten gjelder uten hensyn til taushetsplikt og gjelder lovbrudd som nevnt i[§ 111](lov/2005-05-20-28/§111) (krenkelse av Norges selvstendighet og fred), [§ 113](lov/2005-05-20-28/§113) (krenkelse av Norges statsforfatning), [§ 115](lov/2005-05-20-28/§115) (angrep på de høyeste statsorganenes virksomhet), [§ 117](lov/2005-05-20-28/§117) (inngrep overfor viktige samfunnsinstitusjoner), [§ 119](lov/2005-05-20-28/§119) (landssvik), [§ 121](lov/2005-05-20-28/§121) (etterretningsvirksomhet mot statshemmeligheter), [§ 123](lov/2005-05-20-28/§123) (avsløring av statshemmeligheter), [§ 128](lov/2005-05-20-28/§128) (ulovlig militær virksomhet), [§ 129](lov/2005-05-20-28/§129) (straff for deltakelse mv. i voldelig sammenslutning med politiske mål), [§ 131](lov/2005-05-20-28/§131) (terrorhandlinger), [§ 133](lov/2005-05-20-28/§133) (terrorforbund), [§ 138](lov/2005-05-20-28/§138) (terrorbombing), [§ 139](lov/2005-05-20-28/§139) (kapring av luftfartøy og skip mv.), [§ 140](lov/2005-05-20-28/§140) (forstyrrelse av den sikre drift av luftfartøy og skip mv.), [§ 141](lov/2005-05-20-28/§141) (bruk og utslipp av farlig stoff i tilknytning til luftfartøy og skip mv.), [§ 142](lov/2005-05-20-28/§142) (ulovlig befatning med farlig materiale mv.), [§ 143](lov/2005-05-20-28/§143) (gisseltaking i terrorøyemed), [§ 144](lov/2005-05-20-28/§144) (angrep på en internasjonalt beskyttet person), [§ 192](lov/2005-05-20-28/§192) (anslag mot infrastrukturen), [§ 193](lov/2005-05-20-28/§193) (forbund om anslag mot infrastrukturen), [§ 194](lov/2005-05-20-28/§194) (forstyrrelse av den sikre drift av jernbane og buss), [§ 223](lov/2005-05-20-28/§223) (grov uriktig anklage), [§ 238](lov/2005-05-20-28/§238) (allmennfarlig smittespredning), [§ 239](lov/2005-05-20-28/§239) (allmennfarlig forgiftning), [§ 240](lov/2005-05-20-28/§240) (alvorlig miljøkriminalitet), [§ 253](lov/2005-05-20-28/§253) (tvangsekteskap), [§ 255](lov/2005-05-20-28/§255) (grov frihetsberøvelse), [§ 256](lov/2005-05-20-28/§256) (forbund om grov frihetsberøvelse), [§ 258](lov/2005-05-20-28/§258) (grov menneskehandel), [§ 259](lov/2005-05-20-28/§259) (slaveri), [§ 262 annet ledd](lov/2005-05-20-28/§262/ledd/2) (ekteskap med noen under 16 år), [§ 274](lov/2005-05-20-28/§274) (grov kroppsskade), [§ 275](lov/2005-05-20-28/§275) (drap), [§ 279](lov/2005-05-20-28/§279) (forbund om drap eller å volde betydelig skade på kropp eller helse), [§ 282](lov/2005-05-20-28/§282) (mishandling i nære relasjoner), [§ 283](lov/2005-05-20-28/§283) (grov mishandling i nære relasjoner), [§ 284](lov/2005-05-20-28/§284) (kjønnslemlestelse), [§ 288](lov/2005-05-20-28/§288) (hensettelse i hjelpeløs tilstand mv.), [§ 291](lov/2005-05-20-28/§291) (voldtekt), [§ 295](lov/2005-05-20-28/§295) (misbruk av overmaktsforhold og lignende), [§ 299](lov/2005-05-20-28/§299) (voldtekt av barn under 14 år), [§ 303](lov/2005-05-20-28/§303) (grov seksuell omgang mv. med barn mellom 14 og 16 år), [§ 312](lov/2005-05-20-28/§312) (incest), [§ 314](lov/2005-05-20-28/§314) (seksuell omgang mellom andre nærstående), [§ 327](lov/2005-05-20-28/§327) (ran), [§ 329](lov/2005-05-20-28/§329) (forbund om ran), [§ 355](lov/2005-05-20-28/§355) (fremkalling av fare for allmennheten) og [§ 357](lov/2005-05-20-28/§357) (forbund om fremkalling av fare for allmennheten),[militær straffelov §§ 50](lov/1902-05-22-13/§50), [52](lov/1902-05-22-13/§52) eller [96](lov/1902-05-22-13/§96), eller[sikkerhetsloven § 7-5](lov/2018-06-01-24/§7-5), jf. [§ 11-4](lov/2018-06-01-24/§11-4) fjerde ledd.
+
+Ved overtredelse av §[§ 312](lov/2005-05-20-28/§312) eller [314](lov/2005-05-20-28/§314) gjelder avvergingsplikten bare når den fornærmede er under 16 år. Ved overtredelse av §[§ 299](lov/2005-05-20-28/§299) eller [303](lov/2005-05-20-28/§303) gjelder avvergingsplikten ikke dersom vilkårene i [§ 308](lov/2005-05-20-28/§308) er oppfylt.
+
+Brudd på avvergingsplikten straffes ikke nårhandlingen det er tale om å avverge ikke har kommet så langt som til straffbart forsøk, jf. [§ 16](lov/2005-05-20-28/§16), ellerplikten ikke kunne oppfylles uten å utsette ham selv, hans nærmeste eller noen uskyldig for siktelse eller tiltale eller fare for liv, helse eller velferd.
+
+Tredje ledd bokstav b gjelder ikke dersom fornærmede er mindreårig og den som unnlater å avverge er barnets forelder, steforelder, fosterforelder eller en annen som har daglig omsorg for barnet.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [19 juni 2015 nr. 65](lov/2015-06-19-65), [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)), [21 juni 2019 nr. 52](lov/2019-06-21-52) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1548](forskrift/2019-11-22-1548)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)), [5 mars 2021 nr. 6](lov/2021-03-05-6), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 197. Unnlatt varsling om funn av bortkommet barn mv.
+
+Med bot eller fengsel inntil 6 måneder straffes den som etter å ha funnet et bortkommet eller forlatt barn, eller tatt til seg et barn som har gått seg vill, unnlater snarest mulig å varsle barnets foresatte eller politiet.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+
+### § 198. Forbund om alvorlig organisert kriminalitet
+
+Den som inngår forbund med noen om å begå en handling som kan straffes med fengsel i minst 3 år, og som skal begås som ledd i aktivitetene til en organisert kriminell gruppe, straffes med fengsel inntil 3 år, med mindre forholdet går inn under en strengere straffebestemmelse. Forhøyelse av maksimumsstraffen ved gjentakelse eller sammenstøt av lovbrudd kommer ikke i betraktning.
+
+Med organisert kriminell gruppe menes et samarbeid mellom tre eller flere personer som har som et hovedformål å begå en handling som kan straffes med fengsel i minst 3 år, eller som går ut på at en ikke ubetydelig del av aktivitetene består i å begå slike handlinger.
+
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [21 juni 2013 nr. 85](lov/2013-06-21-85) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 687](forskrift/2013-06-21-687)).
+
+### § 199. Straff for deltakelse mv. i en forbudt kriminell sammenslutning
+
+Med fengsel inntil 3 år straffes den som deltar i, rekrutterer medlemmer til eller på annen måte viderefører aktiviteten til en kriminell sammenslutning som er forbudt etter [straffeprosessloven § 222 e](lov/1981-05-22-25/§222e).
+
+Medvirkning straffes ikke.
+
+> Tilføyd ved lov [18 juni 2021 nr. 128](lov/2021-06-18-128) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1963](forskrift/2021-06-18-1963)).
+
+### Kapittel 21. Vern av informasjon og informasjonsutveksling
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 201. Uberettiget befatning med tilgangsdata, dataprogram mv.
+
+Med bot eller fengsel inntil 1 år straffes den som med forsett om å begå en straffbar handling uberettiget fremstiller, anskaffer, besitter eller gjør tilgjengelig for en annenpassord eller andre opplysninger som kan gi tilgang til databasert informasjon eller datasystem, ellerdataprogram eller annet som er særlig egnet som middel til å begå straffbare handlinger som retter seg mot databasert informasjon eller datasystem. På samme måte straffes den som uten forsett om å begå en straffbar handling besitter et selvspredende dataprogram, og besittelsen skyldes uberettiget fremstilling eller anskaffelse av programmet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 202. Identitetskrenkelse
+
+Med bot eller fengsel inntil 2 år straffes den som uberettiget setter seg i besittelse av en annens identitetsbevis, eller opptrer med en annens identitet eller med en identitet som er lett å forveksle med en annens identitet, med forsett om åoppnå en uberettiget vinning for seg eller en annen, ellerpåføre en annen tap eller ulempe.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 203. Uberettiget tilgang til fjernsynssignaler mv.
+
+Den som med forsett om tap for den berettigete, eller vinning for seg selv eller en annen, fremstiller, innfører, distribuerer, selger, markedsfører, leier ut eller på annen måte utbrer, besitter, installerer, bruker, vedlikeholder eller skifter ut dekodingsinnretning, og ved det skaffer seg selv eller en annen uberettiget tilgang til en vernet formidlingstjeneste, straffes med bot eller fengsel inntil 1 år.
+
+Ved grov overtredelse av første ledd er straffen bot eller fengsel inntil tre år. Ved vurderingen av om overtredelsen er grov, skal det særlig legges vekt på den skade som er påført den berettigede, den vinning som overtrederen har oppnådd, og omfanget av overtredelsen for øvrig.
+
+Med dekodingsinnretning menes teknisk utstyr eller programvare som er utformet eller tilpasset, alene eller sammen med andre hjelpemidler, for å gi tilgang til en vernet formidlingstjeneste.
+
+Med vernet formidlingstjeneste menesfjernsyns- og radiosignaler, og tjenester som teleformidles elektronisk på forespørsel fra den enkelte tjenestemottaker, når tilgang er avhengig av tillatelse fra tjenesteyter og ytes mot betaling, ellerselve tilgangskontrollen til tjenestene nevnt i bokstav a, når den må regnes som en egen tjeneste.
+
+Som fornærmet regnes også den som yter tilgangskontroll, når denne må regnes som en egen tjeneste.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [31 mai 2013 nr. 25](lov/2013-05-31-25) (ikr. 1 juli 2013 iflg. [res. 31 mai 2013 nr. 543](forskrift/2013-05-31-543)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+
+### § 204. Innbrudd i datasystem
+
+Med bot eller fengsel inntil 2 år straffes den som ved å bryte en beskyttelse eller ved annen uberettiget fremgangsmåte skaffer seg tilgang til datasystem eller del av det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 205. Krenkelse av retten til privat kommunikasjon
+
+Med bot eller fengsel inntil 2 år straffes den som uberettigetog ved bruk av teknisk hjelpemiddel hemmelig avlytter eller gjør hemmelig opptak av telefonsamtale eller annen kommunikasjon mellom andre, eller av forhandlinger i lukket møte som han ikke selv deltar i, eller som han uberettiget har skaffet seg tilgang til,bryter en beskyttelse eller på annen uberettiget måte skaffer seg tilgang til informasjon som overføres ved elektroniske eller andre tekniske hjelpemidler,åpner brev eller annen lukket skriftlig meddelelse som er adressert til en annen, eller på annen måte skaffer seg uberettiget tilgang til innholdet, ellerhindrer eller forsinker adressatens mottak av en meddelelse ved å skjule, endre, forvanske, ødelegge eller holde meddelelsen tilbake.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 206. Fare for driftshindring
+
+Med bot eller fengsel inntil 2 år straffes den som ved å overføre, skade, slette, forringe, endre, tilføye eller fjerne informasjon uberettiget volder fare for avbrudd eller vesentlig hindring av driften av et datasystem.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 207. (Opphevet)
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), opphevet ved lov [27 mars 2020 nr. 15](lov/2020-03-27-15) (ikr. 1 jan 2021 iflg. res. [11 des 2020 nr. 2721](forskrift/2020-12-11-2721), for overgangsbestemmelser se dens punkt 5).
+
+### § 208. (Opphevet)
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), opphevet ved lov [27 mars 2020 nr. 15](lov/2020-03-27-15) (ikr. 1 jan 2021 iflg. res. [11 des 2020 nr. 2721](forskrift/2020-12-11-2721), for overgangsbestemmelser se dens punkt 5).
+
+### § 209. Brudd på taushetsplikt
+
+Med bot eller fengsel inntil 1 år straffes den som krenker taushetsplikt som han eller hun har i henhold til lovbestemmelse eller forskrift, eller utnytter en opplysning han eller hun har taushetsplikt om med forsett om å skaffe seg eller andre en uberettiget vinning.
+
+Første ledd gjelder tilsvarende ved brudd på taushetsplikt som følger av gyldig instruks for tjeneste eller arbeid for statlig eller kommunalt organ.
+
+For den som arbeider eller utfører tjeneste for et statlig eller kommunalt organ, rammer første og annet ledd også brudd på taushetsplikt etter at tjenesten eller arbeidet er avsluttet.
+
+Grovt uaktsom overtredelse straffes på samme måte.
+
+Medvirkning er ikke straffbar.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 210. Grovt brudd på taushetsplikt
+
+Grovt brudd på taushetsplikt straffes med fengsel inntil 3 år.
+
+Ved avgjørelsen av om taushetsbruddet er grovt skal det særlig legges vekt på om gjerningspersonen har hatt forsett om uberettiget vinning og om handlingen har ført til tap eller fare for tap for noen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 211. Brudd på taushetsplikt for enkelte yrkesgrupper
+
+Med bot eller fengsel inntil 1 år straffes prester i Den norske kirke, prester eller forstandere i registrerte trossamfunn, forsvarere i straffesaker, meklingsmenn i ekteskapssaker, og disses hjelpere, som uberettiget røper eller unnlater å hindre at andre får adgang eller kjennskap til hemmeligheter som er betrodd dem eller deres foresatte i anledning av stillingen eller oppdraget.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)), [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
+
+### Kapittel 22. Uriktig forklaring og anklage
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 221. Uriktig forklaring
+
+Med bot eller fengsel inntil 2 år straffes den som skriftlig eller muntlig gir uriktig opplysning tilretten,notarius publicus, jf. [lov 26. april 2002 nr. 12](lov/2002-04-26-12),offentlig myndighet under forklaringsplikt,offentlig myndighet når forklaringen er bestemt til å avgi bevis,EFTA-domstolen, ellerDen internasjonale straffedomstolen.
+
+Straff etter første ledd kommer ikke til anvendelse mot en mistenkt som forklarer seg uriktig om det forhold mistanken mot ham gjelder. Det samme gjelder den som ikke kunne fortelle sannheten uten å utsette seg selv eller noen av sine nærmeste for straff eller fare for vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art, med mindre vedkommende hadde plikt til å forklare seg.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 222. Uriktig anklage
+
+Med bot eller fengsel inntil 3 år straffes den som ved å gi uriktig opplysning til retten, politiet eller annen offentlig myndighet, ved å fabrikere bevis eller ved annen atferd skaper et uriktig grunnlag for straffansvar, og derved pådrar noen en siktelse eller domfellelse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 223. Grov uriktig anklage
+
+Grov uriktig anklage straffes med fengsel inntil 10 år. Ved avgjørelsen av om anklagen er grov skal det legges vekt påhvilke følger anklagen har eller kunne ha fått,anklagens art og innhold, ogde øvrige omstendighetene ved overtredelsen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 224. Vilkårlig anklage
+
+Med bot eller fengsel inntil 1 år straffes den som ved å gi uriktig opplysning til retten, påtalemyndigheten eller annen offentlig myndighet anklager noen for en straffbar handling uten at det er rimelig grunn til mistanke.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 225. Anklage om oppdiktet straffbar handling
+
+Med bot eller fengsel inntil 1 år straffes den somfor retten, påtalemyndigheten eller en annen offentlig myndighet anmelder en straffbar handling som ikke er begått, ellerforetar noe for å vekke mistanke om at en straffbar handling er begått, uten at den er det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 226. Plikt til å opplyse om uriktig tiltale eller domfellelse
+
+Med bot eller fengsel inntil 1 år straffes den som unnlater å opplyse om omstendigheter som godtgjør at en som er tiltalt eller domfelt for en straffbar handling som kan medføre fengsel i mer enn 1 år, er uskyldig. Opplysningsplikten gjelder uten hensyn til taushetsplikt.
+
+Straff etter første ledd kommer ikke til anvendelse på den som ikke kunne fortelle sannheten uten å utsette seg selv eller noen av sine nærmeste eller noen uskyldige for straff, fare for vesentlig tap av sosialt omdømme eller vesentlig velferdstap av annen art.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### Kapittel 23. Vern av folkehelsen og det ytre miljø
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 231. Narkotikaovertredelse
+
+Med bot eller fengsel inntil 2 år straffes den som ulovlig tilvirker, innfører, utfører, erverver, oppbevarer, sender eller overdrar stoff som etter regler med hjemmel i [legemiddelloven § 22](lov/1992-12-04-132/§22) er å anse som narkotika.
+
+Uaktsom narkotikaovertredelse straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+
+### § 232. Grov narkotikaovertredelse
+
+Grov narkotikaovertredelse straffes med fengsel inntil 10 år. Ved avgjørelsen av om overtredelsen er grov skal det særlig legges vekt påhva slags stoff den gjelder,mengden, ogovertredelsens karakter.
+
+Overtredelser som omfatter en meget betydelig mengde, straffes med fengsel fra 3 år inntil 15 år. Under særdeles skjerpende omstendigheter kan fengsel inntil 21 år idømmes.
+
+Uaktsom grov narkotikaovertredelse straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 233. Grov overtredelse av alkoholloven
+
+Med fengsel inntil 6 år straffes overtredelse av [alkoholloven §§ 2-1](lov/1989-06-02-27/§2-1), [3-1](lov/1989-06-02-27/§3-1), [3-1b](lov/1989-06-02-27/§3-1b), [8-1](lov/1989-06-02-27/§8-1), [8-2](lov/1989-06-02-27/§8-2) og [8-3](lov/1989-06-02-27/§8-3) som gjelder en meget betydelig mengde.
+
+Uaktsom grov overtredelse av alkoholloven straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [17 juni 2016 nr. 51](lov/2016-06-17-51) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 708](forskrift/2016-06-17-708)).
+
+### § 234. Dopingovertredelse
+
+Med bot eller fengsel inntil 2 år straffes den som ulovlig tilvirker, innfører, utfører, oppbevarer, sender eller overdrar stoff som etter regler fastsatt av Kongen er å anse som dopingmiddel.
+
+Medvirkning til bruk av dopingmiddel som nevnt i første ledd, straffes tilsvarende.
+
+Uaktsom dopingovertredelse straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 235. Grov dopingovertredelse
+
+Grov dopingovertredelse straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov skal det særlig legges vekt påhva slags stoff den gjelder,mengden, ogovertredelsens karakter.
+
+Uaktsom grov dopingovertredelse straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 236. Ulovlig utbredelse mv. av grove voldsskildringer
+
+Med bot eller fengsel inntil 1 år straffes den som forsettlig eller grovt uaktsomt utgir eller frembyr til salg eller leie eller på annen måte søker å utbre film, videogram eller lignende, der grove voldsskildringer på utilbørlig måte er brukt som underholdning.
+
+På samme måte straffes den som gjør bruk av grove voldsskildringer ved offentlig fremvisning, herunder i fjernsynssending eller i formidling av slik sending her i riket. Straffansvaret omfatter likevel ikke den som bare har deltatt i den tekniske virksomhet i tilknytning til sendingen eller formidlingen.
+
+Bestemmelsen gjelder ikke for fremvisning av film eller videogram til personer over 18 åri regi av en ikke-kommersiell filmklubb, ellernår fremvisningen skjer utenfor næring og etter tillatelse fra stedlig politi.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [22 juni 2022 nr. 83](lov/2022-06-22-83) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1141](forskrift/2022-06-22-1141)).
+
+### § 237. Smitteoverføring
+
+Med bot eller fengsel inntil 3 år straffes den som overfører en smittsom sykdom som medfører betydelig skade på kropp eller helse for en annen person. På samme måte straffes den som utsetter en annen person for slik smittefare.
+
+Første ledd kommer ikke til anvendelse ved smitte som overføres ved seksuell omgang når den som er blitt smittet eller utsatt for smittefare på forhånd har samtykket.
+
+Første ledd kommer heller ikke til anvendelse når forsvarlige smitteverntiltak er iakttatt.
+
+Grovt uaktsom overtredelse straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)).
+
+### § 237 a. Grov smitteoverføring
+
+Grov smitteoverføring straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om smittenhar ført til tap av liver overført til to eller flere personerer overført ved særlig hensynsløs atferd
+
+> Tilføyd ved lov [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)).
+
+### § 238. Allmennfarlig smittespredning
+
+Med fengsel inntil 15 år straffes den som sprer smittestoffer eller smittestoffprodukter gjennom luft, vann, næringsmidler eller andre gjenstander bestemt for alminnelig bruk eller salg, og derved volder allmenn fare for liv eller helse.
+
+Uaktsom overtredelse straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)).
+
+### § 239. Allmennfarlig forgiftning
+
+Med fengsel inntil 15 år straffes den som tilsetter gift eller stoffer med tilsvarende virkning i næringsmidler eller andre gjenstander bestemt for alminnelig bruk eller salg, eller ved salg eller annen utbredelse av slike gjenstander volder allmenn fare for liv eller helse. På samme måte straffes den som ellers forårsaker forgiftning som medfører fare som nevnt.
+
+Uaktsom overtredelse straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 240. Alvorlig miljøkriminalitet
+
+Med fengsel inntil 15 år straffes den som forsettlig eller grovt uaktsomtforurenser luft, vann eller grunn slik at livsmiljøet i et område blir betydelig skadet eller trues av slik skade, ellerlagrer, etterlater eller tømmer avfall eller andre stoffer med nærliggende fare for følge som nevnt i bokstav a.
+
+Med fengsel inntil 6 år straffes den som forsettlig eller grovt uaktsomtminsker en naturlig bestand av fredede organismer som nasjonalt eller internasjonalt er truet av utryddelse, ellerpåfører betydelig skade på område som er vernet ved vedtak med hjemmel i [naturmangfoldloven kapittel V](lov/2009-06-19-100/kapV) eller eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77), [svalbardmiljøloven kapittel III](lov/2001-06-15-79/kapIII), [lov om Jan Mayen § 2](lov/1930-02-27-2/§2), [bilandsloven § 2](lov/1930-02-27-3/§2) og [havvernloven §§ 7](lov/2025-06-10-33/§7) eller [15](lov/2025-06-10-33/§15).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [28 mars 2014 nr. 9](lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](forskrift/2014-03-28-371)), [19 juni 2015 nr. 65](lov/2015-06-19-65), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)).
+
+### § 241. Forbund om allmennfarlig smittespredning, allmennfarlig forgiftning eller alvorlig miljøkriminalitet
+
+Med fengsel inntil 6 år straffes den som inngår forbund med noen om å begå en straffbar handling som nevnt i [§ 238](lov/2005-05-20-28/§238) første ledd, [§ 239](lov/2005-05-20-28/§239) første ledd eller [§ 240](lov/2005-05-20-28/§240) første ledd.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [21 juni 2017 nr. 90](lov/2017-06-21-90) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 821](forskrift/2017-06-21-821)).
+
+### § 242. Kulturminnekriminalitet
+
+Med fengsel inntil 6 år straffes den som forsettlig eller grovt uaktsomt volder betydelig skade på kulturminner eller kulturmiljøer av særlig nasjonal eller internasjonal betydning.
+
+Med fengsel inntil 2 år straffes den som i en væpnet konflikt forsettlig eller grovt uaktsomt bruker et kulturminne eller et kulturmiljø av særlig nasjonal eller internasjonal betydning til støtte for militære handlinger og ved det skaper fare for at kulturminnet eller kulturmiljøet skades. Straff kommer likevel ikke til anvendelse dersom det var tvingende militært nødvendig å handle på denne måten.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 24. Vern av den personlige frihet og fred
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 251. Tvang
+
+Med bot eller fengsel inntil 2 år straffes den som ved straffbar eller annen urettmessig atferd eller ved å true med slik atferd tvinger noen til å gjøre, tåle eller unnlate noe.
+
+Den som ved å true med anklage eller anmeldelse for en straffbar handling eller med å sette frem en skadelig opplysning eller krenkende beskyldning rettsstridig tvinger noen til å gjøre, tåle eller unnlate noe, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 252. Grov tvang
+
+Grov tvang straffes med fengsel inntil 6 år. Ved avgjørelsen av om tvangen er grov skal det særlig legges vekt på om den er begått mot en forsvarsløs person, om den er utøvd av flere i fellesskap, og om den har karakter av mishandling.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 253. Tvangsekteskap
+
+Med fengsel inntil 6 år straffes den som ved vold, frihetsberøvelse, annen straffbar eller urettmessig atferd eller utilbørlig press tvinger noentil å inngå ekteskapinn i en ekteskapslignende forbindelse. I vurderingen av om det foreligger en ekteskapslignende forbindelse skal det legges vekt på om forbindelsen er varig, oppleves som bindende og etablerer rettigheter og plikter mellom partene av rettslig, religiøs, sosial eller kulturell karakter.
+
+På samme måte straffes den som ved å forlede eller på annen måte medvirker til at en person reiser til et annet land enn der personen er bosatt, med forsett om at personen der vil bli utsatt for en handling som nevnt i første ledd.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)), [5 mars 2021 nr. 6](lov/2021-03-05-6) (ikr. 1 april 2021 iflg. res. [5 mars 2021 nr. 606](forskrift/2021-03-05-606)).
+
+### § 254. Frihetsberøvelse
+
+Den som ved innesperring, bortføring eller på annen måte rettsstridig fratar noen friheten, straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 255. Grov frihetsberøvelse
+
+Grov frihetsberøvelse straffes med fengsel inntil 10 år. Ved avgjørelsen av om frihetsberøvelsen er grov skal det særlig legges vekt på dens varighet, om den har voldt ualminnelige lidelser, død eller hatt betydelig skade på kropp eller helse til følge.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 256. Forbund om grov frihetsberøvelse
+
+Den som inngår forbund med noen om å begå en handling som nevnt i [§ 255](lov/2005-05-20-28/§255) straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 257. Menneskehandel
+
+Den som ved vold, trusler, misbruk av sårbar situasjon eller annen utilbørlig atferd tvinger, utnytter eller forleder en person tilprostitusjon eller andre seksuelle ytelser,tvangsarbeid eller tvangstjenester, herunder tigging,krigstjeneste i fremmed land, ellerå samtykke i fjerning av et av vedkommendes indre organer,straffes for menneskehandel med fengsel inntil 6 år.
+
+På samme måte straffes den somlegger forholdene til rette for slik tvang, utnyttelse eller forledelse som nevnt i første ledd ved å anskaffe, transportere eller motta personen,på annen måte medvirker til tvangen, utnyttelsen eller forledelsen, ellergir betaling eller annen fordel for å få samtykke til en slik handlemåte fra en person som har myndighet over den fornærmede, eller som mottar slik betaling eller fordel.
+
+Den som begår en handling som nevnt i første eller annet ledd mot en person som er under 18 år, straffes uavhengig av om vold, trusler, misbruk av sårbar situasjon eller annen utilbørlig atferd er anvendt. Den som var uvitende om at fornærmede var under 18 år, straffes hvis han på noe punkt kan klandres for sin uvitenhet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 258. Grov menneskehandel
+
+Grov menneskehandel straffes med fengsel inntil 10 år. Ved avgjørelsen av om overtredelsen er grov skal det særlig legges vekt på om den som ble utsatt for handlingen var under 18 år, om det ble brukt grov vold eller tvang og om handlingen har medført betydelig utbytte. Den som var uvitende om at fornærmede var under 18 år, straffes hvis han på noe punkt kan klandres for sin uvitenhet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 259. Slaveri
+
+Den som bringer en annen inn i slaveri, straffes med fengsel inntil 21 år. På samme måte straffes den som driver med slavehandel eller transport av slaver eller personer bestemt for slavehandel.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 260. Forbund om slaveri
+
+Den som inngår forbund med noen om å begå en handling som nevnt i [§ 259](lov/2005-05-20-28/§259), straffes med fengsel inntil 10 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 260 a. Utleie av lokaler til ulovlig utnyttelse av noens arbeidskraft
+
+Den som leier ut lokaler som skal brukes til graverende eller gjentatt ulovlig utnyttelse av noens arbeidskraft, straffes med bot eller fengsel inntil 3 år. Den som grovt kan bebreides for ikke å ha forstått at lokalene skulle brukes på nevnte måte, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 261. Omsorgsunndragelse
+
+Den som alvorlig eller gjentatte ganger unndrar en mindreårig eller holder denne unndratt fra noen som i henhold til lov, avtale eller rettsavgjørelse skal ha den mindreårige boende fast hos seg, eller som urettmessig unndrar den mindreårige fra noen som har omsorgen etter [barnevernsloven](lov/2021-06-18-97), straffes med bot eller fengsel inntil 2 år. På samme måte straffes den som tar en mindreårig ut av landet eller holder tilbake en mindreårig i utlandet og ved det ulovlig unndrar den mindreårige fra noen som i henhold til lov, avtale eller rettsavgjørelse har foreldreansvar. Tilsvarende gjelder der det er fattet vedtak om omsorgsovertakelse, flytteforbud, utreiseforbud eller institusjonsplassering etter [barnevernsloven §§ 5-1](lov/2021-06-18-97/§5-1), [4-3](lov/2021-06-18-97/§4-3), [5-13](lov/2021-06-18-97/§5-13), [6-2](lov/2021-06-18-97/§6-2) eller [6-6](lov/2021-06-18-97/§6-6) eller der en begjæring om slike tiltak er sendt barneverns- og helsenemnda etter [barnevernsloven § 14-9](lov/2021-06-18-97/§14-9), eller der det i en akuttsituasjon er iverksatt midlertidig vedtak etter [barnevernsloven §§ 4-2](lov/2021-06-18-97/§4-2), [4-4](lov/2021-06-18-97/§4-4) og [4-5](lov/2021-06-18-97/§4-5) eller er fattet akuttvedtak etter [barnevernsloven § 4-6](lov/2021-06-18-97/§4-6).
+
+Grov omsorgsunndragelse straffes med fengsel inntil 6 år. Ved avgjørelsen av om omsorgsunndragelsen er grov skal det særlig legges vekt på hvilken belastning den har påført barnet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [11 mai 2012 nr. 26](lov/2012-05-11-26), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [18 des 2015 nr. 126](lov/2015-12-18-126) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1625](forskrift/2015-12-18-1625)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 15 april 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)).
+
+### § 262. Brudd på ekteskapsloven mv.
+
+Den som inngår et ekteskap til tross for at han allerede er gift, straffes med bot eller fengsel inntil 1 år.
+
+Den som inngår ekteskap med noen under 16 år, straffes med fengsel inntil 3 år. På samme måte straffes den som etablerer en ekteskapslignende forbindelse som nevnt i [§ 253](lov/2005-05-20-28/§253), med noen som er under 16 år. Den som var uvitende om at fornærmede var under 16 år, kan likevel straffes hvis vedkommende på noe punkt kan klandres for sin uvitenhet. Straff kan bortfalle dersom ektefellene er omtrent jevnbyrdige i alder og utvikling.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [20 des 2018 nr. 114](lov/2018-12-20-114), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 263. Trusler
+
+Den som i ord eller handling truer med straffbar atferd under slike omstendigheter at trusselen er egnet til å fremkalle alvorlig frykt, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 264. Grove trusler
+
+Grove trusler straffes med fengsel inntil 3 år. Ved avgjørelsen av om trusselen er grov skal det særlig legges vekt på om den er rettet mot en forsvarsløs person, om den er fremsatt uprovosert eller av flere i fellesskap og om den er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 265. Særskilt vern for enkelte yrkesgrupper
+
+Med bot eller fengsel inntil 2 år straffes den som ved trusler søker å påvirke yrkesutøvelsen til en person fra en særlig utsatt yrkesgruppe.
+
+Som særskilt utsatt yrkesgruppe forståshelsepersonell som yter medisinsk begrunnet helsehjelp, og brann- og redningspersonell som yter innsats i oppdrag,personer som forestår allment tilgjengelig persontransport, som for eksempel jernbane, tunnelbane, trikk, buss, fly, drosje eller ferge, ogpersoner som har ansvar for opplæring i grunnskole eller videregående skole.
+
+Den som hindrer yrkesutøvelsen til en person som nevnt i annet ledd, straffes med bot eller fengsel inntil 6 måneder.
+
+Med bot straffes den som ved skjellsord eller annen grovt krenkende ordbruk eller atferd forulemper en person som nevnt i annet ledd under dennes yrkesutøvelse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 266. Hensynsløs atferd
+
+Den som ved skremmende eller plagsom opptreden eller annen hensynsløs atferd forfølger en person eller på annen måte krenker en annens fred, straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)).
+
+### § 266 a. Alvorlig personforfølgelse
+
+Den som gjentatte ganger truer, følger etter, iakttar, kontakter eller gjennom andre sammenlignbare handlinger forfølger en annen på en måte som er egnet til å fremkalle frykt eller engstelse, straffes med fengsel inntil 4 år.
+
+> Tilføyd ved lov [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)).
+
+### § 267. Krenkelse av privatlivets fred
+
+Den som gjennom offentlig meddelelse krenker privatlivets fred, straffes med bot eller fengsel inntil 1 år.
+
+Straff etter første ledd kommer ikke til anvendelse på den som bare har deltatt ved teknisk bistand eller distribusjon av et blad eller tidsskrift produsert i riket. Tilsvarende gjelder for kringkastingssendinger.
+
+Straff etter første ledd kan bortfalle dersom meddelelsen var fremkalt av den fornærmede selv ved utilbørlig atferd, eller meddelelsen er blitt gjengjeldt ved en krenkelse av privatlivets fred eller en kroppskrenkelse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 267 a. Deling av krenkende bilder mv.
+
+Med bot eller fengsel inntil 1 år straffes den som uberettiget gjør tilgjengelig for en annen bilde, film eller lydopptak av krenkende eller åpenbart privat karakter, for eksempel av noens seksualliv eller intime kroppsdeler, noen som utsettes for vold eller andre ydmykelser, eller noen som befinner seg i en svært sårbar eller utsatt situasjon.
+
+Grovt uaktsom overtredelse straffes med bot eller fengsel inntil 6 måneder.
+
+> Tilføyd ved lov [11 juni 2021 nr. 74](lov/2021-06-11-74) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1865](forskrift/2021-06-11-1865)).
+
+### § 267 b. Grov deling av krenkende bilder mv.
+
+Grov overtredelse av [§ 267 a](lov/2005-05-20-28/§267a) første ledd straffes med fengsel inntil 2 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på karakteren og omfanget av materialet som er tilgjengeliggjort, om overtredelsen har et systematisk eller organisert preg, om den er motivert av hevn eller innebærer et tillitsbrudd, og om den har hatt til følge særlig store påkjenninger for fornærmede.
+
+> Tilføyd ved lov [11 juni 2021 nr. 74](lov/2021-06-11-74) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1865](forskrift/2021-06-11-1865)).
+
+### § 268. Uberettiget adgang eller opphold
+
+Den som uberettiget skaffer seg adgang til en annens hus eller et annet sted som ikke er fritt tilgjengelig, eller som uberettiget forblir på et slikt sted, straffes med bot eller fengsel inntil 2 år.
+
+Den som uberettiget oppholder seg på fremmed grunn til tross for oppfordring om å forlate stedet, straffes med bot.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 269. (Opphevet)
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), opphevet ved lov [29 mai 2020 nr. 59](lov/2020-05-29-59) (ikr. 1 juli 2020 iflg. [res. 29 mai 2020 nr. 1107](forskrift/2020-05-29-1107)).
+
+### § 270. Konverteringsterapi
+
+Med bot eller fengsel inntil 3 år straffes den som krenker en annen ved å anvende psykoterapeutisk, medisinsk, alternativmedisinsk eller religiøst baserte metoder eller lignende systematiske fremgangsmåter i den hensikt å påvirke vedkommende til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet.
+
+På samme måte straffes den som utsetter en person under 18 år for metoder eller fremgangsmåter som nevnt i første ledd, i den hensikt å påvirke vedkommende til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet. Uvitenhet om barnets riktige alder fører ikke til straffrihet hvis gjerningspersonen kan klandres for sin uvitenhet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), opphevet ved lov [29 mai 2020 nr. 59](lov/2020-05-29-59) (ikr. 1 juli 2020 iflg. [res. 29 mai 2020 nr. 1107](forskrift/2020-05-29-1107)), tilføyd ved lov [20 des 2023 nr. 113](lov/2023-12-20-113) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2130](forskrift/2023-12-20-2130)).
+
+### § 270 a. Grov konverteringsterapi
+
+Grov overtredelse av [§ 270](lov/2005-05-20-28/§270) straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den har medført betydelig skade på kropp eller helse, dens varighet og om den er utført av et større antall personer.
+
+> Tilføyd ved lov [20 des 2023 nr. 113](lov/2023-12-20-113) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2130](forskrift/2023-12-20-2130)).
+
+### § 270 b. Markedsføring av konverteringsterapi
+
+Med bot eller fengsel inntil 6 måneder straffes den som markedsfører konkrete tilbud om å utsette andre for psykoterapeutisk, medisinsk, alternativmedisinsk eller religiøst baserte metoder eller lignende systematiske fremgangsmåter som anvendes i den hensikt å påvirke noen til å endre, fornekte eller undertrykke sin seksuelle orientering eller kjønnsidentitet.
+
+> Tilføyd ved lov [20 des 2023 nr. 113](lov/2023-12-20-113) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2130](forskrift/2023-12-20-2130)).
+
+### Kapittel 25. Voldslovbrudd mv.
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 271. Kroppskrenkelse
+
+Med bot eller fengsel inntil 1 år straffes den som øver vold mot en annen person eller på annen måte krenker ham fysisk.
+
+En kroppskrenkelse kan gjøres straffri dersomden er gjengjeldt med en kroppskrenkelse eller kroppsskade, ellerden gjengjelder en forutgående kroppskrenkelse, kroppsskade eller særlig provoserende ytring.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 272. Grov kroppskrenkelse
+
+Grov kroppskrenkelse straffes med fengsel inntil 6 år. Ved avgjørelsen av om kroppskrenkelsen er grov skal det særlig legges vekt på om den har hatt til følge sterk smerte, skade eller død, og for øvrig om denhar skjedd uten foranledning og har karakter av overfall,er begått mot en forsvarsløs person,har karakter av mishandling,er begått av flere i fellesskap,er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne, ellerer forøvd ved bruk av kniv eller annet særlig farlig redskap.
+
+§ 271 annet ledd gjelder på tilsvarende måte.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [25 juni 2010 nr. 46](lov/2010-06-25-46), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 273. Kroppsskade
+
+Med fengsel inntil 6 år straffes den som skader en annens kropp eller helse, gjør en annen fysisk maktesløs eller fremkaller bevisstløshet eller liknende tilstand hos en annen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 274. Grov kroppsskade
+
+Grov kroppsskade straffes med fengsel inntil 10 år. Ved avgjørelsen av om kroppsskaden er grov skal det særlig legges vekt på om den har hatt til følge uhelbredelig lyte eller skade, sykdom eller arbeidsudyktighet av noen varighet eller sterk smerte, betydelig skade eller død, og for øvrig om denhar skjedd uten foranledning og har karakter av overfall,er begått mot en forsvarsløs person,har karakter av mishandling,er begått av flere i fellesskap,er motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne, ellerer forøvd ved bruk av kniv eller annet særlig farlig redskap.
+
+Den som volder betydelig skade på en annens kropp eller helse, straffes med fengsel inntil 15 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [25 juni 2010 nr. 46](lov/2010-06-25-46), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 275. Drap
+
+Den som dreper en annen, straffes med fengsel fra 8 inntil 21 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 276. Samtykke fra den fornærmede
+
+Straff etter [§§ 271](lov/2005-05-20-28/§271), [272](lov/2005-05-20-28/§272), [273](lov/2005-05-20-28/§273) og [274](lov/2005-05-20-28/§274) første ledd kommer ikke til anvendelse når den handlingen er rettet mot, har samtykket.
+
+Dersom noen med eget samtykke er drept eller påført betydelig skade på kropp eller helse, kan straffen for gjerningspersonen settes under minstestraffen eller til en mildere straffart enn den som følger av [§§ 275](lov/2005-05-20-28/§275) eller 274 annet ledd.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 277. Medvirkning til selvmord og til selvpåført betydelig skade på kropp eller helse
+
+Den som medvirker til at noen påfører seg selv betydelig skade på kropp eller helse, straffes med fengsel inntil 15 år, jf. [§ 274](lov/2005-05-20-28/§274) annet ledd.
+
+Den som medvirker til at noen tar sitt eget liv, straffes med fengsel fra 8 inntil 21 år, jf. [§ 275](lov/2005-05-20-28/§275).
+
+Straffen etter første og annet ledd kan, dersom særlige grunner gjør seg gjeldende, likevel settes under minstestraffen eller til en mildere straffart enn det som følger av [§ 274](lov/2005-05-20-28/§274) annet ledd og [§ 275](lov/2005-05-20-28/§275).
+
+Straff kommer ikke til anvendelse når døden eller betydelig skade på kropp eller helse ikke er inntrådt.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 278. Medlidenhetsdrap
+
+Dersom noen av medlidenhet dreper en person som er dødssyk, eller som av andre grunner er nær ved å dø, kan straffen settes under minstestraffen eller til en mildere straffart enn det som følger av [§ 275](lov/2005-05-20-28/§275).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 279. Forbund om drap eller å volde betydelig skade på kropp eller helse
+
+Med fengsel inntil 10 år straffes den som inngår forbund med noen om å begå et lovbrudd som nevnt i [§ 274](lov/2005-05-20-28/§274) annet ledd eller [§ 275](lov/2005-05-20-28/§275).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 280. Uaktsom forvoldelse av betydelig skade på kropp eller helse
+
+Med fengsel inntil 3 år straffes den som uaktsomt volder betydelig skade på en annens kropp eller helse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 281. Uaktsom forvoldelse av død
+
+Med fengsel inntil 6 år straffes den som uaktsomt forvolder en annens død.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 282. Mishandling i nære relasjoner
+
+Med fengsel inntil 6 år straffes den som ved trusler, tvang, frihetsberøvelse, vold eller andre krenkelser, alvorlig eller gjentatt mishandlersin nåværende eller tidligere ektefelle eller samboer,sin eller nåværende eller tidligere ektefelles eller samboers slektning i rett nedstigende linje,sin slektning i rett oppstigende linje,noen i sin husstand, ellernoen i sin omsorg.
+
+Når noen kjennes skyldig i en straffbar handling etter [§ 282](lov/2005-05-20-28/§282) første ledd bokstav b, skal retten vurdere om kontaktforbud etter [§ 57](lov/2005-05-20-28/§57) skal idømmes.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [25 juni 2010 nr. 46](lov/2010-06-25-46), [24 juni 2011 nr. 32](lov/2011-06-24-32), [20 apr 2018 nr. 6](lov/2018-04-20-6) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 600](forskrift/2018-04-20-600)).
+
+### § 283. Grov mishandling i nære relasjoner
+
+Grov mishandling i nære relasjoner straffes med fengsel inntil 15 år. Ved avgjørelsen av om mishandlingen er grov skal det særlig legges vekt på om den har hatt til følge betydelig skade eller død, og for øvrigdens varighet,om den er utført på en særlig smertefull måte, eller har hatt til følge betydelig smerte, ellerom den er begått mot en forsvarsløs person.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 284. Kjønnslemlestelse
+
+Med fengsel inntil 6 år straffes den som utfører et inngrep i en kvinnes kjønnsorgan som skader kjønnsorganet eller påfører det varige forandringer. Rekonstruksjon av kjønnslemlestelse straffes på samme måte.
+
+Samtykke fritar ikke for straff.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 285. Grov kjønnslemlestelse
+
+Grov kjønnslemlestelse straffes med fengsel inntil 15 år.
+
+Ved avgjørelsen av om kjønnslemlestelsen er grov skal det særlig legges vekt på om inngrepet har hatt til følgesykdom eller arbeidsudyktighet av noen varighet, jf. [§ 274](lov/2005-05-20-28/§274),en uhelbredelig lyte, feil eller skade, ellerdød eller betydelig skade på kropp eller helse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 286. Vold mot særskilt utsatte yrkesgrupper
+
+Den som ved vold søker å påvirke yrkesutøvelsen til en person fra en særskilt utsatt yrkesgruppe, straffes med bot eller fengsel inntil 3 år.
+
+Med særskilt utsatt yrkesgruppe forståshelsepersonell som yter medisinsk begrunnet helsehjelp, og brann- og redningspersonell som yter innsats i oppdrag,personer som forestår allment tilgjengelig persontransport, som for eksempel jernbane, tunnelbane, trikk, buss, fly, drosje eller ferge, ogpersoner som har ansvar for opplæring i grunnskole eller videregående skole.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 287. Forsømmelse av hjelpeplikt
+
+Med bot eller fengsel inntil 6 måneder straffes den som unnlateretter evne å hjelpe en person som er i åpenbar fare for å miste livet eller bli påført betydelig skade på kropp eller helse, ellerved anmeldelse eller på annen måte etter evne å avverge brann, oversvømmelse, sprengning eller lignende ulykke som medfører fare for menneskeliv eller betydelig skade på kropp eller helse.
+
+Brudd på hjelpeplikten etter første ledd straffes ikke når plikten ikke kunne oppfylles uten å utsette seg selv eller andre for særlig fare eller oppofrelse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 288. Hensettelse i hjelpeløs tilstand mv.
+
+Med fengsel inntil 3 år straffes den som hensetter en annen i hjelpeløs tilstand med fare for liv, kropp eller helse. På samme måte straffes den som unnlater å gi hjelp til noen i hjelpeløs tilstand som vedkommende har en plikt til å dra omsorg for.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 26. Seksuallovbrudd
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 291. Voldtekt
+
+Med fengsel inntil 6 år straffes den som har seksuell omgang med noen som verken i ord eller handling har samtykket til det.
+
+Straffen er fengsel inntil 10 år for den somskaffer seg seksuell omgang ved vold eller truende atferd,har seksuell omgang med noen som i ord eller handling gir uttrykk for ikke å ville det,har seksuell omgang med noen som er ute av stand til å motsette seg handlingen, ellerved vold eller truende atferd får noen til å ha seksuell omgang med en annen, eller til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 292. (Opphevet)
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65), opphevet ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 293. Grov voldtekt
+
+Grov overtredelse av [§ 291 andre ledd](lov/2005-05-20-28/§291/ledd/2) straffes med fengsel inntil 21 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den er begått av flere i fellesskap, om den er begått på en særlig smertefull eller særlig krenkende måte, eller om den fornærmede som følge av handlingen dør eller får betydelig skade på kropp eller helse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)), [10 april 2026 nr. 13](lov/2026-04-10-13) (i kraft 10 april 2026 iflg. [res. 10 april 2026 nr. 567](forskrift/2026-04-10-567)).
+
+### § 294. Grovt uaktsom voldtekt
+
+Grovt uaktsom overtredelse av [§ 291 andre ledd](lov/2005-05-20-28/§291/ledd/2) straffes med fengsel inntil 6 år. Foreligger omstendigheter som nevnt i [§ 293](lov/2005-05-20-28/§293), er straffen fengsel inntil 10 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)), [10 april 2026 nr. 13](lov/2026-04-10-13) (i kraft 10 april 2026 iflg. [res. 10 april 2026 nr. 567](forskrift/2026-04-10-567)).
+
+### § 295. Misbruk av overmaktsforhold og lignende
+
+Med fengsel inntil 6 år straffes den som skaffer seg eller en annen seksuell omgang, eller får noen til å utføre handlinger som svarer til seksuell omgang med seg selv vedmisbruk av stilling, avhengighetsforhold eller tillitsforhold, ellerå utnytte noens psykiske lidelse eller psykiske utviklingshemming dersom forholdet ikke rammes av [§ 291](lov/2005-05-20-28/§291), ellerå utnytte en person under 18 år i en særlig sårbar situasjon.
+
+På samme måte straffes den som ved forhold som nevnt i første ledd bokstav a til c får noen til å ha seksuell omgang med hverandre.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 296. Seksuell omgang med innsatte mv. i institusjon
+
+Med fengsel inntil 6 år straffes den somhar seksuell omgang med noen som er innsatt eller plassert i anstalt eller institusjon under kriminalomsorgen eller politiet eller i institusjon under barnevernet, og som der står under vedkommendes myndighet eller oppsikt,får noen som han står i et forhold til som nevnt i bokstav a til å utføre handlinger som svarer til seksuell omgang med seg selv eller til å ha seksuell omgang med hverandre, ellerskaffer en annen seksuell omgang med noen som han står i et forhold til som nevnt i bokstav a.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [17 juni 2016 nr. 53](lov/2016-06-17-53) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 669](forskrift/2016-06-17-669)).
+
+### § 297. Seksuell handling uten samtykke
+
+Med bot eller fengsel inntil 1 år straffes den som foretar seksuell handling med noen som ikke har samtykket i det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 298. Seksuelt krenkende atferd offentlig eller uten samtykke
+
+Med bot eller fengsel inntil 1 år straffes den som i ord eller handling utviser seksuelt krenkende eller annen uanstendig atferdpå offentlig sted, elleri nærvær av eller overfor noen som ikke har samtykket i det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 299. Voldtekt av barn under 14 år
+
+Med fengsel inntil 10 år straffes den somhar seksuell omgang med barn under 14 år,får et barn under 14 år til å utføre handlinger som svarer til seksuell omgang med seg selv, ellerforetar kvalifisert seksuell handling med barn under 14 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 300. Voldtekt til samleie av barn under 14 år
+
+Straffen er fengsel inntil 15 år dersom voldtekten som nevnt i [§ 299](lov/2005-05-20-28/§299) omfattet:innføring av penis i skjede- eller endetarmsåpning,innføring av penis i fornærmedes munn,innføring av gjenstander i skjede- eller endetarmsåpning, ellerinnføring av penis inn i og mellom de store og små kjønnslepper.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 301. Grov voldtekt av barn under 14 år
+
+Grov voldtekt av barn under 14 år straffes med fengsel inntil 21 år. Det samme gjelder dersom den skyldige tidligere er straffet for handlinger som nevnt i [§§ 291](lov/2005-05-20-28/§291), [294](lov/2005-05-20-28/§294) eller [299](lov/2005-05-20-28/§299).
+
+Ved avgjørelsen av om voldtekten er grov skal det særlig legges vekt påom den er begått av flere i fellesskap,om den er begått på en særlig smertefull eller særlig krenkende måte,den fornærmedes alder på handlingstidspunktet,om det har skjedd gjentatte overgrep, ellerom den fornærmede som følge av handlingen dør eller får betydelig skade på kropp eller helse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65), [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 302. Seksuell omgang med barn mellom 14 og 16 år
+
+Den som har seksuell omgang med barn mellom 14 og 16 år, straffes med fengsel inntil 6 år, hvis ikke forholdet også rammes av andre bestemmelser. På samme måte straffes den som får et barn mellom 14 og 16 år til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 303. Grov seksuell omgang mv. med barn mellom 14 og 16 år
+
+Grov overtredelse av [§ 302](lov/2005-05-20-28/§302) straffes med fengsel inntil 15 år. Det samme gjelder dersom den skyldige tidligere er straffet for handlinger som nevnt i [§§ 291](lov/2005-05-20-28/§291), [299](lov/2005-05-20-28/§299) eller [302](lov/2005-05-20-28/§302).
+
+Ved avgjørelsen av om overtredelsen av [§ 302](lov/2005-05-20-28/§302) er grov skal det særlig legges vekt på omhandlingen er begått av flere i fellesskap,handlingen er begått på en særlig smertefull eller særlig krenkende måte, ellerden fornærmede som følge av handlingen dør eller får betydelig skade på kropp eller helse.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 juni 2025 nr. 86](lov/2025-06-20-86) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1123](forskrift/2025-06-20-1123)).
+
+### § 304. Seksuell handling med barn under 16 år
+
+Den som foretar seksuell handling med barn under 16 år, straffes med fengsel inntil 3 år, hvis forholdet ikke rammes av [§ 299](lov/2005-05-20-28/§299).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 305. Seksuelt krenkende atferd mv. overfor barn under 16 år
+
+Med bot eller fengsel inntil 2 år straffes den somi ord eller handling utviser seksuelt krenkende eller annen uanstendig atferd i nærvær av eller overfor barn under 16 år.tvinger eller forleder et barn under 16 år til å utvise seksuelt krenkende eller annen uanstendig atferd, med mindre forholdet rammes av strengere bestemmelser.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 306. Avtale om møte for å begå seksuelt overgrep
+
+Med bot eller fengsel inntil 1 år straffes den som har avtalt et møte med et barn under 16 år, og som med forsett om å begå en handling med barnet som nevnt i [§§ 299-304](lov/2005-05-20-28/§299), [§ 305](lov/2005-05-20-28/§305) bokstav b eller [§ 311](lov/2005-05-20-28/§311) første ledd bokstav a, har kommet frem til møtestedet eller et sted hvor møtestedet kan iakttas.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 307. Krav til aktsomhet om barnets alder
+
+For bestemmelsene i [§§ 299-306](lov/2005-05-20-28/§299) fører uvitenhet om barnets riktige alder ikke til straffrihet hvis tiltalte på noe punkt kan klandres for sin uvitenhet. For bestemmelsene i [§ 295](lov/2005-05-20-28/§295) bokstav c og [§§ 309](lov/2005-05-20-28/§309) og [310](lov/2005-05-20-28/§310) fører uvitenhet om barnets riktige alder ikke til straffrihet hvis tiltalte kan klandres for sin uvitenhet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 308. Mulighet for straffbortfall
+
+Straff etter bestemmelsene i [§§ 299-304](lov/2005-05-20-28/§299), [§ 305](lov/2005-05-20-28/§305) bokstav b annet alternativ og [§ 306](lov/2005-05-20-28/§306) kan falle bort eller settes under minstestraffen i [§ 300](lov/2005-05-20-28/§300) dersom de involverte er omtrent jevnbyrdige i alder og utvikling.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 309. Kjøp av seksuelle tjenester fra mindreårige
+
+Med bot eller fengsel inntil 2 år straffes den somskaffer seg eller en annen seksuell omgang eller handling med en person under 18 år ved å yte eller avtale vederlag,oppnår seksuell omgang eller handling med en person under 18 år ved at slikt vederlag er avtalt eller ytet av en annen, ellerpå den måten som beskrevet i bokstav a eller b får en person under 18 år til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+Er den seksuelle omgang eller handling skjedd på en særlig krenkende måte, uten at forholdet straffes etter strengere bestemmelser, er straffen fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 310. Fremvisning av seksuelle overgrep mot barn eller fremvisning som seksualiserer barn
+
+Med bot eller fengsel inntil 3 år straffes den som overværer en fremvisning av seksuelle overgrep mot barn eller fremvisning som seksualiserer barn. Med barn menes person under 18 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 311. Fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn
+
+Med bot eller fengsel inntil 3 år straffes den somproduserer fremstilling av seksuelle overgrep mot barn eller fremstilling som seksualiserer barn,utgir, tilbyr, selger, overlater til en annen, gjør tilgjengelig eller på annen måte søker å utbre fremstillinger som nevnt i bokstav a,anskaffer, innfører eller besitter fremstillinger som nevnt i bokstav a, eller forsettlig skaffer seg tilgang til slikt materiale,holder offentlig foredrag eller istandbringer offentlig forestilling eller utstilling av fremstillinger som nevnt i bokstav a, ellerforleder noen under 18 år til å la seg avbilde som ledd i kommersiell fremstilling av rørlige eller urørlige bilder med seksuelt innhold.
+
+Med barn menes i denne paragrafen personer som er eller fremstår som under 18 år.
+
+Den som uaktsomt foretar handling som nevnt i første ledd, straffes med bot eller fengsel inntil 6 måneder. På samme måte straffes den innehaver eller overordnede som forsettlig eller uaktsomt unnlater å hindre at det i en virksomhet blir foretatt handling som nevnt i første ledd.
+
+Straffen kan falle bort for den som tar og besitter et bilde av en person mellom 16 og 18 år, dersom denne har gitt sitt samtykke og de to er omtrent jevnbyrdige i alder og utvikling.
+
+Bestemmelsen rammer ikke fremstillinger som må anses forsvarlige ut fra et kunstnerisk, vitenskapelig, informativt eller lignende formål.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [22 juni 2022 nr. 83](lov/2022-06-22-83) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1141](forskrift/2022-06-22-1141)).
+
+### § 312. Incest
+
+Med fengsel inntil 6 år straffes den som har seksuell omgang med slektning i nedstigende linje eller får vedkommende til å utføre handlinger som svarer til seksuell omgang med seg selv. Som slektning i nedstigende linje regnes biologiske og adopterte etterkommere.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 313. Søskenincest
+
+Med fengsel inntil 1 år straffes den som har seksuell omgang med bror eller søster eller får vedkommende til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 314. Seksuell omgang mellom andre nærstående
+
+Med fengsel inntil 6 år straffes den somhar seksuell omgang med fosterbarn eller stebarn, eller en person under 18 år som står under hans omsorg, myndighet eller oppsikt, ellerfår en person nevnt i bokstav a til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 315. Hallikvirksomhet og formidling av prostitusjon
+
+Med bot eller fengsel inntil 6 år straffes den somfremmer andres prostitusjon, ellerleier ut lokaler og forstår at lokalene skal brukes til prostitusjon eller utviser grov uaktsomhet i så måte.
+
+Den som i offentlig kunngjøring utvetydig tilbyr, formidler eller etterspør prostitusjon straffes med bot eller fengsel inntil 6 måneder.
+
+Med prostitusjon menes i denne paragraf at en person mottar vederlag for å ha seksuell omgang eller foreta seksuell handling med en annen eller for å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 316. Kjøp av seksuelle tjenester fra voksne
+
+Med bot eller fengsel inntil 1 år straffes den somskaffer seg eller en annen seksuell omgang eller handling ved å yte eller avtale vederlag,oppnår seksuell omgang eller handling ved at slikt vederlag er avtalt eller ytet av en annen, ellerpå den måten som beskrevet i bokstav a eller b får noen til å utføre handlinger som svarer til seksuell omgang med seg selv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 317. Pornografi
+
+Med bot eller fengsel inntil 3 år straffes den somutgir, selger eller på annen måte søker å utbre pornografi,innfører pornografi med sikte på utbredelse,overlater pornografi til personer under 18 år, ellerholder offentlig foredrag eller istandbringer offentlig forestilling eller utstilling med pornografisk innhold.
+
+Med pornografi menes i denne paragrafen kjønnslige skildringer som virker støtende eller på annen måte er egnet til å virke menneskelig nedverdigende eller forrående, herunder kjønnslige skildringer hvor det gjøres bruk av lik, dyr, vold og tvang. Som pornografi regnes ikke kjønnslige skildringer som må anses forsvarlige ut fra et kunstnerisk, vitenskapelig, informativt eller lignende formål.
+
+Den som uaktsomt foretar handling som nevnt i første ledd, straffes med bot eller fengsel inntil 6 måneder. På samme måte straffes den innehaver eller overordnede som forsettlig eller uaktsomt unnlater å hindre at det i en virksomhet blir foretatt handling som nevnt i første ledd.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [22 juni 2022 nr. 83](lov/2022-06-22-83) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1141](forskrift/2022-06-22-1141)).
+
+### § 318. Utstillingsforbud
+
+Med bot eller fengsel inntil 6 måneder straffes den som i ervervsøyemed stiller ut bilder av eksplisitt seksualisert karakter, herunder bilder av kjønnsorganer, på en lett synlig måte påoffentlig sted,et sted som lett kan iakttas fra offentlig sted, ellerutsalgssted.Bokstav c gjelder ikke for spesialforretninger.
+
+Den som uaktsomt foretar slik handling som nevnt i første ledd, straffes med bot.
+
+Straffansvaret omfatter ikke ekspeditør, betjent eller annen lignende underordnet når overtredelsen vesentlig har vært foranlediget av dennes avhengige stilling til den ervervsdrivende.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 319. Plikt til å vurdere rettighetstap og kontaktforbud
+
+Når noen kjennes skyldig i en straffbar handling etter [§§ 299](lov/2005-05-20-28/§299), [302](lov/2005-05-20-28/§302), [304](lov/2005-05-20-28/§304) eller [305](lov/2005-05-20-28/§305), skal retten vurdere om rettighetstap etter [§ 56](lov/2005-05-20-28/§56) og kontaktforbud etter [§ 57](lov/2005-05-20-28/§57) skal idømmes.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 apr 2018 nr. 6](lov/2018-04-20-6) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 600](forskrift/2018-04-20-600)).
+
+### § 320. Forholdet til erstatningsansvar for ærekrenkelser
+
+Den som beskylder noen for å ha overtrådt bestemmelser i dette kapitlet kan ikke gjøres rettslig ansvarlig for beskyldningen etter [skadeserstatningsloven § 3-6 a](lov/1969-06-13-26/§3-6a) dersom beskyldningene er fremsatti en anmeldelse, ellerav den som hevder å være fornærmet i en fortrolig samtale med en person som det er naturlig å betro seg til, for å bearbeide konsekvensene av handlingen.
+
+Anmelderen eller den som hevder å være fornærmet, kan likevel gjøres rettslig ansvarlig dersom det var grovt uaktsomt å legge til grunn at opplysningene var sanne.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 27. Vinningslovbrudd og liknende krenkelser av eiendomsretten
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 321. Tyveri
+
+For tyveri straffes den som tar en gjenstand som tilhører en annen, med forsett om å skaffe seg eller andre en uberettiget vinning ved å selge, forbruke eller på annen måte tilegne seg den.
+
+Straffen for tyveri er bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 322. Grovt tyveri
+
+Grovt tyveri straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om tyveriet er grovt skal det særlig legges vekt på omdet gjaldt en betydelig verdi,gjerningspersonen har tatt seg inn i bolig eller fritidshus,det har et profesjonelt preg, ellerdet av andre grunner er av en særlig farlig eller samfunnsskadelig art.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 323. Mindre tyveri
+
+Med bot straffes den som gjør seg skyldig i tyveri når straffskylden er liten fordi det gjelder en ubetydelig verdi og forholdene for øvrig tilsier det.
+
+Tilegnelse av naturprodukter, herunder stein, kvister, vekster mv., av liten eller ingen økonomisk verdi under utøvelse av lovlig allemannsrett, straffes likevel ikke.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 324. Underslag
+
+For underslag straffes den som med forsett om en uberettiget vinning for seg selv eller andre rettsstridigselger, forbruker eller på annen måte tilegner seg en løsøregjenstand eller pengefordring som han besitter, men som tilhører en annen, ellerforføyer over penger han har innfordret for en annen, eller som på annen måte er betrodd ham.
+
+En handling som går inn under [§§ 385](lov/2005-05-20-28/§385) eller [386](lov/2005-05-20-28/§386), straffes ikke etter paragrafen her.
+
+Straffen for underslag er bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 325. Grovt underslag
+
+Grovt underslag straffes med fengsel inntil 6 år. Ved avgjørelsen av om underslaget er grovt skal det særlig legges vekt på omverdien av det underslåtte er betydelig,underslaget har pågått over lengre tid,det er begått ved brudd på en særlig tillit som følger med en stilling, et verv eller oppdrag, ellerdet er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 326. Mindre underslag
+
+Med bot straffes den som gjør seg skyldig i underslag når straffskylden er liten fordi det gjaldt en ubetydelig verdi og omstendighetene for øvrig tilsier det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 327. Ran
+
+For ran straffes den som med forsett om å skaffe seg eller andre en uberettiget vinning øver vold mot en person, setter ham ute av stand til forsvar eller ved trusler fremkaller alvorlig frykt for vold mot noen, og dervedbemektiger seg en gjenstand som tilhører en annen, ellertvinger noen til å handle slik at det medfører tap eller fare for tap for ham eller den han handler for.
+
+Straffen for ran er fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 328. Grovt ran
+
+Grovt ran straffes med fengsel inntil 15 år. Ved avgjørelsen av om ranet er grovt skal det særlig legges vekt på omdet er brukt grov vold,det er truet med skytevåpen eller annet særlig farlig redskap,ranet er nøye planlagt, foretatt overfor en forsvarsløs person, ellerdet gjaldt en betydelig verdi.
+
+Straffen for grovt ran er fengsel inntil 21 år dersom ranet har hatt til følge død eller betydelig skade på kropp eller helse, og lovbryteren har utvist uaktsomhet med hensyn til følgen eller kunne ha innsett muligheten for den.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 329. Forbund om ran
+
+Med bot eller fengsel inntil 3 år straffes den som inngår forbund med noen om å begå ran.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 330. Utpressing
+
+For utpressing straffes den som med forsett om å skaffe seg eller andre en uberettiget vinning tvinger noen til å handle slik at det medfører tap eller fare for tap for ham eller den han handler for, vedannen ulovlig atferd enn den som rammes av [§ 327](lov/2005-05-20-28/§327) første ledd, ellerutilbørlig å true med anklage eller anmeldelse for noe straffbart, eller med å sette frem en skadelig opplysning.
+
+Straffen for utpressing er bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 331. Grov utpressing
+
+Grov utpressing straffes med fengsel inntil 6 år. Ved avgjørelsen av om utpressingen er grov skal det særlig legges vekt på om dengjaldt en betydelig verdi,var nøye planlagt,var foretatt overfor en forsvarsløs person,har medført særlig store påkjenninger,har pågått over lengre tid, ellerav andre grunner er av en særlig farlig eller samfunnsskadelig art.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 332. Heleri
+
+For heleri straffes den som mottar eller skaffer seg eller andre del i utbytte av en straffbar handling. Likestilt med utbytte er en gjenstand, fordring eller tjeneste som trer istedenfor det. Heleri straffes selv om ingen kan straffes for handlingen som utbyttet stammer fra på grunn av manglende skyldevne etter [§ 20](lov/2005-05-20-28/§20).
+
+Første ledd anvendes ikke på den som mottar utbyttet til vanlig underhold av seg eller andre fra en som plikter å yte slikt underhold, eller den som mottar utbytte som normalt vederlag for vanlige forbruksvarer, bruksting eller tjenester.
+
+Straffen for heleri er bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 333. Grovt heleri
+
+Grovt heleri straffes med fengsel inntil 6 år. Ved avgjørelsen av om heleriet er grovt skal det særlig legges vekt på hva slags handling utbyttet stammer fra, om fordelen gjerningspersonen har skaffet seg er betydelig, og om den skyldige har drevet heleri regelmessig. Gjelder heleriet utbytte av narkotikalovbrudd, skal det også legges vekt på arten og mengden av det stoffet utbyttet knytter seg til.
+
+Dersom utbyttet stammer fra grovt ran, grov menneskehandel eller særlig grov narkotikaovertredelse, er straffen fengsel inntil 15 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 334. Mindre heleri
+
+Med bot straffes den som gjør seg skyldig i heleri når straffskylden er liten fordi handlingen som utbyttet stammer fra, størrelsen på utbyttet eller omstendighetene for øvrig tilsier det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 335. Uaktsomt heleri
+
+Uaktsomt heleri som nevnt i [§§ 332](lov/2005-05-20-28/§332) og [333](lov/2005-05-20-28/§333) straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 336. Forbund om heleri
+
+Den som inngår forbund med noen om å begå heleri som nevnt i [§ 332](lov/2005-05-20-28/§332), straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 337. Hvitvasking
+
+For hvitvasking straffes den somyter bistand til å sikre utbyttet av en straffbar handling for en annen ved for eksempel å innkreve, oppbevare, skjule, transportere, sende, overføre, konvertere, avhende, pantsette eller investere det, ellergjennom konvertering eller overføring av formuesgoder eller på annen måte skjuler eller tilslører hvor utbyttet av en straffbar handling han selv har begått, befinner seg, stammer fra, hvem som har rådigheten over det, dets bevegelser, eller rettigheter som er knyttet til det.
+
+Likestilt med utbyttet er gjenstand, fordring eller tjeneste som trer i stedet for det.
+
+Hvitvasking straffes selv om ingen kan straffes for handlingen som utbyttet stammer fra på grunn av manglende skyldevne etter [§ 20](lov/2005-05-20-28/§20).
+
+Straffen for hvitvasking er bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 338. Grov hvitvasking
+
+Grov hvitvasking straffes med fengsel inntil 6 år. Ved avgjørelsen av om hvitvaskingen er grov skal det særlig legges vekt på hva slags handling utbyttet stammer fra, om utbyttet hvitvaskeren har hatt befatning med er av betydelig verdi, og om lovbryteren har drevet hvitvasking regelmessig. Gjelder det utbytte av narkotikalovbrudd, skal det også legges vekt på art og mengde av det stoffet utbyttet knytter seg til.
+
+Dersom utbyttet stammer fra grovt ran, grov menneskehandel eller særlig grov narkotikaovertredelse, er straffen fengsel inntil 15 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 339. Mindre hvitvasking
+
+Med bot straffes den som gjør seg skyldig i hvitvasking når straffskylden er liten fordi handlingen som utbyttet stammer fra, verdien av det utbyttet hvitvaskeren har hatt befatning med og omstendighetene for øvrig tilsier det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 340. Uaktsom hvitvasking
+
+Uaktsom hvitvasking som nevnt i [§§ 337](lov/2005-05-20-28/§337) og [338](lov/2005-05-20-28/§338) straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 341. Forbund om hvitvasking
+
+Den som inngår forbund med noen om å begå hvitvasking som nevnt i [§ 337](lov/2005-05-20-28/§337) eller [§ 338](lov/2005-05-20-28/§338), straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 342. Brukstyveri av motorvogn mv.
+
+For brukstyveri av motorvogn straffes den som uten å ha rett til det tar en motorvogn og bruker eller forføyer over den. Den som tilhører husstanden til eller er i tjeneste hos den som har rett til bilen, straffes likevel ikke for slikt brukstyveri.
+
+Med motorvogn menes kjøretøy som blir drevet frem med motor.
+
+Straffen for brukstyveri av motorvogn er bot eller fengsel inntil 2 år.
+
+På samme måte straffes brukstyveri av fartøy som har motor til fremdrift, og av luftfartøy.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 343. Ulovlig bruk av løsøre mv.
+
+Med bot straffes den som ulovlig bruker eller forføyer over en løsøregjenstand som tilhører en annen, slik at den berettigede påføres tap eller ulempe.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 344. Grov ulovlig bruk av løsøre
+
+Med bot eller fengsel inntil 2 år straffes den som ulovlig bruker eller forføyer over en løsøregjenstand som tilhører en annen, og ved det skaffer seg eller andre en betydelig vinning eller påfører den berettigede et betydelig tap.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 345. Besittelseskrenkelse
+
+Den som urettmessig setter seg eller andre i besittelse av en løsøregjenstand, straffes med bot.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 346. Ulovlig bruk mv. av fast eiendom
+
+Med bot straffes den som bruker eller rår over fast eiendom i strid med rettighetene til eieren eller en annen som rettmessig rår over eiendommen, slik at den berettigede påføres tap eller ulempe, eller i strid med dennes uttrykkelige forbud.
+
+Straff etter første ledd anvendes likevel ikke på den som er part i en avtale med den berettigede om bruken av eller rådigheten over eiendommen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 28. Skadeverk og fremkalling av fare for allmennheten
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 351. Skadeverk
+
+Med bot eller fengsel inntil 1 år straffes den som skader, ødelegger, gjør ubrukelig eller forspiller en gjenstand som helt eller delvis tilhører en annen.
+
+For skadeverk straffes også den som uberettiget endrer, gjør tilføyelser til, ødelegger, sletter eller skjuler andres data.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 352. Grovt skadeverk
+
+Grovt skadeverk straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om skadeverket er grovt skal det særlig legges vekt påskadeverkets art og objekt, for eksempel om det er rettet mot gjenstander til alminnelig nytte eller pryd, eller som har historisk, nasjonal eller religiøs verdi,om skaden er av et stort omfang,om det var motivert av fornærmedes hudfarge, nasjonale eller etniske opprinnelse, religion, livssyn, seksuelle orientering, kjønnsidentitet eller kjønnsuttrykk eller nedsatte funksjonsevne, ogom det er begått ved flere anledninger, av flere i fellesskap eller har et systematisk eller organisert preg.
+
+Skadeverk som innebærer ødeleggelse av gjenstand som har en betydelig historisk, nasjonal eller religiøs verdi, eller som innebærer en svært omfattende ødeleggelse av eiendom, regnes som særlig grovt skadeverk. Det samme gjelder skadeverk som har til følge slik ødeleggelse, tap av menneskeliv eller betydelig skade på kropp eller helse, eller nærliggende fare for slike følger. Særlig grovt skadeverk straffes med fengsel inntil 15 år.
+
+Skadeverk som nevnt i første ledd og som er forøvd ved grov uaktsomhet, straffes med bot eller fengsel inntil 1 år. Grovt uaktsomt skadeverk som nevnt i annet ledd straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 353. Mindre skadeverk
+
+Mindre skadeverk straffes med bot. Ved avgjørelsen av om skadeverket er mindre, skal det særlig legges vekt på dets art og objekt, skadeomfanget og hvilke følger det har hatt eller lovbryteren burde ha skjønt at det kunne ha fått.
+
+For mindre skadeverk straffes også den som tilsmusser en gjenstand som tilhører en annen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 354. Forledelse til formuestap
+
+Med bot eller fengsel inntil 1 år straffes den som ved å fremkalle eller styrke en villfarelse forleder noen til å gjøre eller unnlate noe som fører til formuestap for noen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 355. Fremkalling av fare for allmennheten
+
+Med fengsel fra 2 år inntil 15 år straffes den som forårsaker brann, oversvømmelse, sprengning, sammenstyrtning, sjøskade, jernbaneulykke, luftfartsulykke eller lignende ulykke, som lett kan medføre tap av menneskeliv.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 355 a. Grov fremkalling av fare for allmennheten
+
+Grov fremkalling av fare for allmennheten straffes med fengsel inntil 21 år. Ved avgjørelsen av om overtredelsen er grov skal det særlig legges vekt på om den har hatt til følge tap av menneskeliv.
+
+> Tilføyd ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 356. Uaktsom fremkalling av fare for allmennheten
+
+Uaktsom fremkalling av fare for allmennheten straffes med bot eller fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 357. Forbund om fremkalling av fare for allmennheten
+
+Den som inngår forbund om å begå en handling som nevnt i [§ 355](lov/2005-05-20-28/§355), straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 358. Straff for å hindre forebygging av allmennfarlig ulykke eller avverging av følgene av den
+
+Den som ved å skade eller fjerne redskaper eller på annen måte søker å hindre noen i å forebygge eller avverge en ulykke som nevnt i [§ 355](lov/2005-05-20-28/§355) eller følgene av den, straffes med fengsel inntil 6 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### Kapittel 29. Vern av tilliten til penger og visse dokumenter
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 361. Dokumentfalsk
+
+Med bot eller fengsel inntil 2 år straffes den somettergjør eller forfalsker et dokument, eller anskaffer et ettergjort eller forfalsket dokument med forsett om å bruke det eller la det fremstå som ekte eller uforfalsket,rettsstridig bruker et dokument som nevnt i bokstav a og lar det fremstå som ekte eller uforfalsket, ellerutsteder et dokument og uriktig tillegger seg en stilling som er av vesentlig betydning for dokumentets bevisverdi, og lar dokumentet fremstå som riktig.
+
+Med dokument menes i dette kapittel en informasjonsbærer som gjelder et rettsforhold eller ellers egner seg som bevis for et rettsforhold.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+
+### § 362. Mindre dokumentfalsk
+
+Når straffverdigheten er liten, straffes dokumentfalsk med bot. Ved denne avgjørelsen skal det særlig legges vekt påhvilken verdi handlingen gjelder,om den har hatt til følge skade eller uleilighet for noen,i hvilken utstrekning den er resultat av planlegging.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 363. Dokumentødeleggelse mv.
+
+Med bot eller fengsel inntil 2 år straffes den som uberettiget ødelegger eller unndrar et dokument eller en del av det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 364. Borttaking av grensemerke mv.
+
+Med bot eller fengsel inntil 1 år straffes den som uberettigetfjerner, flytter eller ødelegger grensemerke eller merke for grunneiendom eller grunnrettighet, ellersetter opp slike falske merker.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 365. Uriktig erklæring bestemt til bruk som bevis
+
+Med bot eller fengsel inntil 2 år straffes den somi et dokument utstedt som ledd i forvaltningens virksomhet, i rettspleie eller i en helseattest gir en uriktig erklæring som er bestemt til å brukes som bevis,bruker som riktig en slik erklæring, ellerforsettlig eller grovt uaktsomt utferdiger uriktig dokument som er egnet som bevis for å oppnå skatte- eller avgiftsmessige fordeler.
+
+Adgangen til å reise straffesak eller avsi straffedom etter første ledd bokstav c faller bort etter 10 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 366. Misbruk av identitetsbevis
+
+Med bot eller fengsel inntil 6 måneder straffes den som med forsett om å oppnå en fordel for seg eller andre bruker et vitnemål, pass eller liknende identitetsbevis til å utgi seg for å være den som identitetsbeviset er utferdiget til. På samme måte straffes den som overlater et identitetsbevis til en annen, selv om han eller hun vet eller bør forstå at det vil bli brukt ulovlig.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [19 juni 2020 nr. 81](lov/2020-06-19-81) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1252](forskrift/2020-06-19-1252)).
+
+### § 367. Pengefalsk
+
+Med bot eller fengsel inntil 3 år straffes den som forfalsker eller ettergjør penger eller innfører, anskaffer eller mottar slike penger med forsett om utgivelse.
+
+På samme måte straffes den som utgir forfalskede eller ettergjorte penger som ekte eller uforfalsket. Den som uaktsomt medvirker til slik utgivelse, straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 368. Grov pengefalsk
+
+Grov pengefalsk straffes med bot eller fengsel inntil 10 år. Ved avgjørelsen av om pengefalsken er grov skal det særlig legges vekt på om den gjelder et betydelig beløp, og om den er systematisk utført.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 369. Forberedelse til pengefalsk
+
+Med bot eller fengsel inntil 2 år straffes den som til forberedelse av pengefalsk fremstiller eller skaffer til veie utstyr og annet som er bestemt for forfalsking av penger.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 370. Forberedelse av dokumentfalsk
+
+Den, som til forberedelse av dokumentfalsk tilvirker, erverver, innfører, utfører, overdrar, besitter eller oppbevarer falsk segl, stempel eller merke eller andre gjenstander, som tilkjennegir seg som bestemte til å benyttes til ettergjørelse eller forfalskning, eller i slik hensikt tilvender seg et ekte segl, stempel eller merke, straffes med bot eller med fengsel inntil 3 år.
+
+> Tilføyd ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### Kapittel 30. Bedrageri, skattesvik og liknende økonomisk kriminalitet
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 371. Bedrageri
+
+Med bot eller fengsel inntil 2 år straffes den som med forsett om å skaffe seg eller andre en uberettiget vinningfremkaller, styrker eller utnytter en villfarelse og derved rettsstridig forleder noen til å gjøre eller unnlate noe som volder tap eller fare for tap for noen, ellerbruker uriktig eller ufullstendig opplysning, endrer data eller datasystem, disponerer over et kredittkort eller debetkort som tilhører en annen, eller på annen måte uberettiget påvirker resultatet av en automatisert databehandling, og derved volder tap eller fare for tap for noen.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 372. Grovt bedrageri
+
+Grovt bedrageri straffes med fengsel inntil 6 år. Ved avgjørelsen av om bedrageriet er grovt skal det særlig legges vekt på omdet har hatt til følge en betydelig økonomisk skade,det er voldt velferdstap eller fare for liv eller helse,det er begått ved flere anledninger eller over lengre tid,det er begått av flere i fellesskap eller har et systematisk eller organisert preg,lovbryteren har foregitt eller misbrukt stilling, verv eller oppdrag,det er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon, ellerlovbryteren har forledet allmennheten eller en større krets av personer.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 373. Mindre bedrageri
+
+Bedrageri straffes med bot når straffskylden er liten fordi det gjaldt en ubetydelig verdi og forholdene for øvrig tilsier det.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 374. Grovt uaktsomt bedrageri
+
+Grovt uaktsomt bedrageri som nevnt i §[§ 371](lov/2005-05-20-28/§371) og [372](lov/2005-05-20-28/§372) straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
+
+### § 375. Forsikringsbedrageri
+
+Med bot eller fengsel inntil 2 år straffes den somved inngåelsen av en forsikringsavtale fortier eller gir uriktig opplysning om en omstendighet som er av betydning for forsikringsgiveren, eller utviser grov uaktsomhet med hensyn til denne betydningen, elleri den hensikt å få utbetalt en forsikringssum til seg eller andre, skader eller ødelegger en forsikret gjenstand eller på annen måte fremkaller et forsikringstilfelle.
+
+På samme måte straffes den som med forsett om å få utbetalt en forsikringssum til seg eller andreuriktig oppgir eller gir det utseendet av at et forsikringstilfelle er inntrådt,gir en skadeoppgave som står i påtakelig misforhold til skaden, eller på annen måte gir uriktig eller ufullstendig opplysning, elleroppgir til erstatning en gjenstand som ikke er forsikret, ikke er til eller ikke er skadet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 376. Grovt forsikringsbedrageri
+
+Grovt forsikringsbedrageri straffes med fengsel inntil 6 år. Ved avgjørelsen av om forsikringsbedrageriet er grovt skal det særlig legges vekt på om dethar hatt til følge en betydelig økonomisk skade,har voldt fare for liv eller helse,er begått ved flere anledninger eller over lengre tid, ellerer begått av flere i fellesskap eller har et planlagt eller organisert preg.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 377. Bedrageriliknende handlinger
+
+Med bot straffes den som uten å oppgi navn og adresse forlater et overnattingssted, serveringssted eller annet sted der en ytelse er mottatt, uten å betale på stedet som forutsatt. Straff etter paragrafen her kommer ikke til anvendelse dersom forholdet går inn under [§ 373](lov/2005-05-20-28/§373).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 378. Skattesvik
+
+Med bot eller fengsel inntil 2 år straffes den som gir uriktig eller ufullstendig opplysning til en offentlig myndighet, eller unnlater å gi pliktig opplysning, når han forstår eller bør forstå at det kan føre til skattemessige fordeler.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 379. Grovt skattesvik
+
+Grovt skattesvik straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om skattesviket er grovt skal det særlig legges vekt på om dethar ledet til eller kunne ha ledet til unndragelse av et betydelig beløp,er utført på en måte som i særlig grad har gjort det vanskelig å oppdage,er begått ved flere anledninger eller over lengre tid,er begått av flere i fellesskap eller har et planmessig eller organisert preg,er utført ved å misbruke stilling eller tillitsforhold, ellerforeligger medvirkning under utøvelse av næring.
+
+Ved avgjørelsen av om skattesviket er grovt kan flere overtredelser ses i sammenheng.
+
+Denne paragrafen kommer til anvendelse også om det foreligger uvitenhet med hensyn til de momenter som gjør handlingen grov, når uvitenheten er grovt uaktsom.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 380. Grovt uaktsomt skattesvik
+
+Med bot eller fengsel inntil 1 år straffes den som grovt uaktsomt gir uriktig eller ufullstendig opplysning til en offentlig myndighet, eller unnlater å gi pliktig opplysning, når han bør forstå at det kan føre til skattemessige fordeler. Dersom et grovt uaktsomt skattesvik må anses som grovt, jf. [§ 379](lov/2005-05-20-28/§379) første ledd, kan fengsel inntil 6 år anvendes.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 381. Foreldelse av skattesvik
+
+Fristen for foreldelse av straffansvar etter [§§ 378](lov/2005-05-20-28/§378) til [380](lov/2005-05-20-28/§380) er 10 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 382. Villedende og uriktig selskapsinformasjon
+
+Med bot eller fengsel inntil 2 år straffes den som i oppfordring til å delta i stiftelse eller utvidelse av aksjeselskap, allmennaksjeselskap eller annet selskap med økonomisk formål, eller i oppfordring til å overta lån til slikt selskap, gir villedende eller uriktig opplysning av betydning for bedømmelsen av selskapet.
+
+På samme måte som etter første ledd straffes tillitsmann eller funksjonær i selskap som nevnt, såfremt han offentliggjør villedende eller uriktig opplysning av betydning for bedømmelsen av selskapet, eller gir slik opplysning til en selskapsdeltaker eller selskapets fordringshaver, noen av dets organer eller til en offentlig myndighet. Likestilt med tillitsmann og funksjonær etter første punktum, er andre som på grunn av oppdrag for selskapet har kjennskap til dets forhold.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 383. Grov villedende og uriktig selskapsinformasjon
+
+Grove overtredelser av [§ 382](lov/2005-05-20-28/§382) straffes med fengsel inntil 6 år. Ved avgjørelsen av om lovbruddet er grovt skal det særlig legges vekt pålovbruddets omfang,hvilke følger lovbruddet har hatt,om lovbruddet/handlingen retter seg mot allmennheten eller en større krets av personer,om lovbruddet er begått ved flere anledninger eller over lengre tid,om lovbruddet er begått av flere i fellesskap eller har et systematisk preg,om lovbryteren har foregitt eller misbrukt stilling, verv eller oppdrag, ellerom det er ført eller utarbeidet uriktige regnskaper eller uriktig regnskapsdokumentasjon.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 384. Grovt uaktsom villedende og uriktig selskapsinformasjon
+
+Grovt uaktsom villedende eller uriktig selskapsinformasjon straffes med bot eller fengsel inntil ett år. Er det grovt uaktsomme lovbruddet grovt, jf. [§ 383](lov/2005-05-20-28/§383) annet punktum, kan fengsel inntil 2 år anvendes.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 385. Svikaktig dobbeltsalg mv.
+
+Med bot eller fengsel inntil 2 år straffes den som påfører eller utsetter den berettigede for tap ved å disponere over etformuesgode som en annen har fått, eller mot helt eller delvis betalt vederlag er tilsagt, eiendomsrett eller bruksrett til, ellergjeldsbrev som helt eller delvis er innfridd.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 386. Krenkelse av sikkerhetsrett
+
+Med bot eller fengsel inntil 2 år straffes den som uberettiget disponerer over et formuesgode som han eier eller besitter, og som en annen har sikkerhet i, og ved det påfører eller utsetter den sikrede for tap.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 387. Korrupsjon
+
+Med bot eller fengsel inntil 3 år straffes den somfor seg eller andre krever, mottar eller aksepterer et tilbud om en utilbørlig fordel i anledning av utøvelsen av stilling, verv eller utføringen av oppdrag, ellergir eller tilbyr noen en utilbørlig fordel i anledning av utøvelsen av stilling, verv eller utføringen av oppdrag.
+
+Med stilling, verv eller oppdrag i første ledd menes også stilling, verv eller oppdrag i utlandet.1
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 388. Grov korrupsjon
+
+Grov korrupsjon straffes med fengsel inntil 10 år. Ved avgjørelsen av om korrupsjonen er grov skal det særlig legges vekt på om handlingener forøvd av eller overfor en offentlig tjenestemann eller noen annen ved brudd på den særlige tillit som følger med hans stilling, verv eller oppdrag,om den har eller kunne ha hatt til følge betydelig økonomisk fordel,om det forelå risiko for betydelig skade av økonomisk eller annen art, ogom det er registrert uriktige regnskapsopplysninger, utarbeidet uriktig regnskapsdokumentasjon eller uriktig årsregnskap.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 389. Påvirkningshandel
+
+Med bot eller fengsel inntil 3 år straffes den somfor seg eller andre krever, mottar eller aksepterer et tilbud om en utilbørlig fordel for å påvirke utøvelsen av en annens stilling, verv eller utføring av oppdrag, ellergir eller tilbyr noen en utilbørlig fordel for å påvirke utøvelsen av en annens stilling, verv eller utføring av oppdrag.
+
+Med stilling, verv eller oppdrag i første ledd menes også stilling, verv eller oppdrag i utlandet.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 390. Økonomisk utroskap
+
+Den som handler mot en annens interesser som han styrer eller har tilsyn med, med forsett om å oppnå en uberettiget vinning for seg eller andre eller om å skade, straffes med bot eller fengsel inntil 2 år.
+
+Straff for utroskap anvendes ikke på handling som faller inn under [§ 324](lov/2005-05-20-28/§324), jf. [§ 325](lov/2005-05-20-28/§325), eller [§ 387](lov/2005-05-20-28/§387), jf. [§ 388](lov/2005-05-20-28/§388).
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 391. Grov økonomisk utroskap
+
+Grov økonomisk utroskap straffes med fengsel inntil 6 år.
+
+Ved avgjørelsen av om den økonomiske utroskapen er grov skal det særlig legges vekt på momentene som er nevnt i [§ 388](lov/2005-05-20-28/§388) annet punktum.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 392. Regnskapsovertredelse
+
+Med bot eller fengsel inntil 2 år straffes den som overtrer bestemmelser om bokføring og dokumentasjon av regnskapsopplysninger, årsregnskap, årsberetning eller regnskapsoppbevaring som er fastsatt i lov eller forskrift i medhold av lov.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 393. Grov regnskapsovertredelse
+
+Grov regnskapsovertredelse straffes med fengsel inntil 6 år. Ved avgjørelsen av om regnskapsovertredelsen er grov skal det særlig legges vekt på omdet er brukt uriktig eller villedende informasjon eller et uriktig dokument,den er begått over lang tid,den er begått av noen ved brudd på den særlige tillit som følger med hans stilling eller virksomhet,den har gitt betydelig økonomisk fordel,det forelå risiko for betydelig skade av økonomisk eller annen art, ellerden har gjort det vanskelig å kontrollere virksomheten.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 394. Uaktsom regnskapsovertredelse
+
+Uaktsom regnskapsovertredelse straffes med bot eller fengsel inntil 1 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 395. Lønnstyveri
+
+Den som utilbørlig og med forsett om en uberettiget vinning for seg selv eller andre misligholder plikt til å yte lønn, feriepenger eller annen godtgjøring som arbeidstaker har rett til etter avtale eller bestemmelse i lov eller forskrift, straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)).
+
+### § 396. Grovt lønnstyveri
+
+Grovt lønnstyveri straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om tyveriet er grovt, skal det særlig legges vekt på om overtredelsen gjelder en betydelig verdi, har et systematisk eller organisert preg eller av andre grunner er særlig krenkende eller samfunnsskadelig.
+
+> Tilføyd ved lov [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)).
+
+### Kapittel 31. Kreditorvern
+
+> Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 401. Uforsvarlige økonomiske disposisjoner
+
+Med bot eller fengsel inntil 2 år straffes en skyldner som forsettlig eller grovt uaktsomt påfører fordringshaverne betydelig tap vedpengespill eller annen risikopreget aktivitet,annen lettsindig atferd,overdrevent forbruk, ellergrovt uordentlig forretningsførsel.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 402. Kreditorbegunstigelse
+
+Med bot eller fengsel inntil 2 år straffes en skyldner som forsettlig eller grovt uaktsomt gir en fordringshaver oppgjør eller sikkerhet, når skyldneren er eller blir eller står i påtakelig fare for å bli insolvent og av den grunn forringer fordringshavernes dekningsutsikt i betydelig grad.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 403. Hindring av dekning til en enkeltforfølgende kreditor
+
+Med bot eller fengsel inntil 2 år straffes en skyldner som under en tvangsfullbyrdelse eller midlertidig sikring forsettlig eller grovt uaktsomt foretar en handling som er egnet til å hindre at et formuesgode tjener til dekning for en eller flere fordringshavere.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 404. Formuesforringelse ved insolvensfare
+
+Med bot eller fengsel inntil 2 år straffes en skyldner som foretar en uforsvarlig handling somer egnet til å hindre at et formuesgode tjener til dekning for en eller flere fordringshavere, oggjør at skyldneren er, blir, eller står i påtakelig fare for å bli insolvent.
+
+Det fritar ikke for straff at insolvens etter første ledd bokstav b ikke lar seg fastslå, dersom årsaken er at skyldneren forsettlig eller grovt uaktsomt har overtrådt regnskapsbestemmelser i lov eller forskrift.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 405. Grov formuesforringelse
+
+Grov formuesforringelse straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om formuesforringelsen er grov skal det særlig legges vekt på om den innebærer en betydelig svekkelse av fordringshavernes utsikt til å få dekning, om den var planlagt og om den gjaldt et betydelig beløp.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 406. Grovt uaktsom formuesforringelse ved insolvens mv.
+
+Grovt uaktsom formuesforringelse straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 407. Unnlatelse av å begjære gjeldsforhandling eller oppbud
+
+Med bot eller fengsel inntil 2 år straffes en insolvent skyldner som forsettlig eller grovt uaktsomt unnlater å begjære åpning av gjeldsforhandling etter konkursloven eller konkurs, dersomunnlatelsen medfører at en disposisjon eller et utlegg ikke kan omstøtes, og dette forringer fordringshavernes dekningsutsikt betydelig, ellerskyldnerens næringsvirksomhet klart går med tap, og skyldneren må innse at han ikke vil kunne gi fordringshaverne oppgjør innen rimelig tid.
+
+Unnlatelse av å begjære gjeldsforhandling eller konkurs er likevel straffri dersom skyldneren har opptrådt i forståelse med fordringshavere som representerer en vesentlig del av fordringsmassen med hensyn til beløp og antall.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 408. Boforringelse under fellesforfølgning
+
+Med bot eller fengsel inntil 2 år straffes en skyldner som under konkurs eller gjeldsforhandling etter lovenopptrer på en måte som er egnet til å hindre at et formuesgode tjener til dekning eller utnyttelse for fordringshaverne, elleruriktig oppgir eller vedkjenner seg forpliktelser.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 409. Grov boforringelse under fellesforfølgning
+
+Grov boforringelse straffes med bot eller fengsel inntil 6 år. Ved avgjørelsen av om boforringelsen er grov skal det særlig legges vekt på om den betydelig svekker fordringshavernes utsikt til å få dekning.
+
+Grovt uaktsom boforringelse straffes med bot eller fengsel inntil 2 år.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+### § 410. Straffansvar for andre enn skyldneren. Medvirkning
+
+Den som til fordel for eller på vegne av skyldneren foretar en handling som nevnt i [§§ 401](lov/2005-05-20-28/§401) til [409](lov/2005-05-20-28/§409), straffes som der bestemt.
+
+En fordringshaver som har medvirket til overtredelse av en bestemmelse i dette kapitlet ved å motta eller kreve oppfyllelse av skyldneren, straffes bare når fordringshaveren har brukt utilbørlige midler for å oppnå dette.
+
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+## Tredje del. Sluttbestemmelser
+
+### § 411. Ikraftsetting
+
+Loven trer i kraft 1. oktober 2015. Fra samme tid oppheves [straffeloven 22. mai 1902 nr. 10](lov/1902-05-22-10). Forskrifter gitt i medhold av straffeloven 1902 gjelder også etter at loven her har trådt i kraft.
+
+[Kapittel](lov/2005-05-20-28/kap16) 16 kan settes i kraft fra den tid Kongen bestemmer.1 Fra samme tid som [kapittel 16](lov/2005-05-20-28/kap16) settes i kraft, gjelder første del i straffeloven 2005 for bestemmelsene i [kapittel 16](lov/2005-05-20-28/kap16). Alminnelig del i straffeloven 1902 gjelder ikke for [kapittel 16](lov/2005-05-20-28/kap16). Fra den tid [kapittel 16](lov/2005-05-20-28/kap16) tar til å gjelde,1 gjøres følgende endringer i andre lover: – – –
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), tidligere § 101, [19 juni 2009 nr. 74](lov/2009-06-19-74), tidligere § 401, [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+### § 412. (Opphevet)
+
+> Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), tidligere § 102, [19 juni 2009 nr. 74](lov/2009-06-19-74), tidligere § 402, [7 mai 2010 nr. 15](lov/2010-05-07-15) (ikr. 11 juni 2010 iflg. [res. 7 mai 2010 nr. 653](forskrift/2010-05-07-653)), [16 sep 2011 nr. 41](lov/2011-09-16-41) (ikr. 1 jan 2012 iflg. [res. 16 sep 2011 nr. 949](forskrift/2011-09-16-949)), opphevet ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65).

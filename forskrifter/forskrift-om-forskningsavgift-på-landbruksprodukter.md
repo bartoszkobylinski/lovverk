@@ -1,0 +1,212 @@
+---
+id: "sf-20121220-1417"
+slug: "forskrift-om-forskningsavgift-på-landbruksprodukter"
+type: "forskrift"
+ref_id: "forskrift/2012-12-20-1417"
+title: "Forskrift om forskningsavgift på landbruksprodukter"
+short_title: null
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2012-12-20"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "6df080a1a3dfd407c6dd8ac673c8fab50c7c1499a114860de3d0a021dca20eb0"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om forskningsavgift på landbruksprodukter
+
+## § 1. Formål
+
+Formålet med denne forskriften er gjennom innkreving av forskningsavgift å sikre økonomisk grunnlag for forskning knyttet til landbruksprodukter som nyttes til ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler og fôrkorn til husdyr.
+
+## § 2. Definisjoner
+
+Med landbruksprodukt menes i denne forskrift fôrkorn til husdyr og følgende nærings- og nytelsesmidler: enhver råvare, halvfabrikata eller ferdigvare av animalsk eller vegetabilsk opprinnelse, herunder kjøtt, egg, melk, korn, grønnsaker, honning, urter, røtter, poteter, frukt, bær, bønner, frø og nøtter. Fisk og andre akvatiske organismer anses ikke som et landbruksprodukt.
+
+Med ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler menes i denne forskrift forretningsmessig virksomhet på området fra lagring, klassifisering, sortering, oppdeling, pakking av ubehandlede produkter via framstilling av halvfabrikata til produksjon av konserver og ferdigretter.
+
+## § 3. Innkreving og administrasjon
+
+Landbruksdirektoratet krever inn avgiften på norskprodusert kjøtt, egg, melk, korn, norskproduserte vegetabilier og honning. Tollregionene er avgiftsmyndighet for avgiften på importerte landbruksprodukter, jf. [lov 21. desember 2007 nr. 119 om toll og vareførsel (tolloven) § 1-5 første ledd bokstav b](lov/2007-12-21-119/§1-5/ledd/1/bokstav/b). Innkrevingsmyndigheten krever inn avgiften på importerte landbruksprodukter etter [innkrevingsloven](lov/2025-04-25-12). Forskningsavgiften er tvangsgrunnlag for utlegg.
+
+Avgiftsmidlene skal tilfalle et fond, Fondet for forskningsavgift på landbruksprodukter. Styret for dette fondet (styret) har ansvaret for forvaltning av fondsmidlene innenfor budsjett fastsatt av Landbruks- og matdepartementet.
+
+Oppgavene med å forberede sakene for styret, følge opp vedtakene og administrere avgiftsmidlene, legges til Landbruksdirektoratet.
+
+> Endret ved [forskrifter 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [17 des 2015 nr. 1719](forskrift/2015-12-17-1719) (i kraft 1 jan 2016), [30 juni 2025 nr. 1368](forskrift/2025-06-30-1368) (i kraft 1 jan 2026).
+
+## § 4. Landbruksprodukter som er avgiftspliktige
+
+Det skal betales forskningsavgift for ethvert norskprodusert og importert landbruksprodukt som nyttes til ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler. Importerte ferdigvarer og halvfabrikata framstilt av slike produkter er omfattet av avgiftsplikten.
+
+Avgiftsplikten omfatter også fôrkorn til husdyr.
+
+Landbruksdirektoratet avgjør i tvilstilfeller om et landbruksprodukt omfattes av bestemmelsen i første ledd.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 5. Plikt til å betale avgift
+
+Enhver som bruker norskproduserte og importerte landbruksprodukter til ervervsmessig bearbeiding eller framstilling av nærings- og nytelsesmidler og fôrkorn til husdyr, plikter å betale forskningsavgift i henhold til andre ledd. Importør av ferdigvare og halvfabrikata framstilt av slike produkter plikter også å betale forskningsavgift.
+
+Ved omsetning av avgiftspliktig landbruksprodukt svares avgiften av den som første gang mottar produktene fra produsent. Ved direktesalg fra produsent til forbruker eller detaljist svares avgiften av produsent. Ved import svares avgiften av importør.
+
+## § 6. Fritak fra avgiftsplikten
+
+De landbruksprodukter som er angitt i vedlegg til denne forskrift, skal være fritatt fra plikten til å betale forskningsavgift.
+
+Landbruksprodukter som innføres tollfritt i henhold til [tolloven § 5-1](lov/2007-12-21-119/§5-1) til [§ 5-9](lov/2007-12-21-119/§5-9) og [§ 6-2](lov/2007-12-21-119/§6-2) første ledd bokstav e, er også fritatt for forskningsavgift.
+
+Innkrevingsmyndigheten kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da forskriften ble vedtatt, og når avgiften det enkelte tilfellet får en utilsiktet og klart urimelig virkning.
+
+Importerte og norskproduserte landbruksprodukter som ikke kommer fram til bestemmelsesstedet, samt for manko som oppstår ved lagring på tollager, og i de tilfeller sendingens verdi er under kr 200,-, skal være fritatt fra avgiftsplikten.
+
+## § 7. Avgiftens størrelse og beregningsgrunnlag
+
+Forskningsavgiften utgjør 0,35 % av avgiftsgrunnlaget. På importerte halvfabrikata og ferdigvarer utgjør avgiften 0,25 % av avgiftsgrunnlaget. Landbruksdirektoratet kan omregne avgiften til en øresats.
+
+For norskproduserte landbruksprodukter legges brutto fakturabeløp eksklusive merverdiavgift til grunn for avgiftsberegningen. For produkter av egen produksjon og kontraktsproduksjon beregnes avgiften av det beløp som må betales for tilsvarende produkter ved ordinært innkjøp.
+
+Ved import legges tollverdien for produktene (råvare, halvfabrikata, ferdigvare) til grunn for avgiftsberegningen.
+
+Dersom produsenten eller importøren godtgjør at den anvendte avgiftssats på et konkret landbruksprodukt innebærer en høyere avgiftssats på produktets råvarer enn 0,35 % av tollverdien på råvaren, skal avgiftssatsen settes ned til 0,35 % av denne verdien.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 8. Innbetaling
+
+Avgiftspliktige skal avgi oppgaver over avgiftsgrunnlaget til Landbruksdirektoratet. Oppgavene skal være attestert av den avgiftspliktiges revisor. Landbruksdirektoratet kan fastsette nærmere bestemmelser om oppgaver de avgiftspliktige skal avgi.
+
+For norskproduserte landbruksprodukter plikter de avgiftspliktige å innbetale avgiften innen frist fastsatt av Landbruksdirektoratet. For importerte produkter skal avgiften innbetales etter samme bestemmelser som gjelder for innbetaling av toll.
+
+Landbruksdirektoratet kan fastsette andre betalingsordninger dersom dette anses praktisk. Er oppgave ikke kommet i rett tid, kan Landbruksdirektoratet fastsette avgiftsgrunnlaget ved skjønn eller lage retningslinjer for beregning av dette.
+
+Ved forsinket betaling av avgiften skal det betales rente i samsvar med [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om rente ved forsinket betaling m.m.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 9. Etterberegning og tilbakebetaling av avgift
+
+Tollmyndighetene kan fatte vedtak om endring av avgift på samme vilkår som gjelder for toll, jf. [tolloven § 12-10](lov/2007-12-21-119/§12-10) til [§ 12-12](lov/2007-12-21-119/§12-12).
+
+Innbetalt avgift på importerte produkter som ikke er et landbruksprodukt, også bearbeidede, skal tilbakebetales fra fondet.
+
+> Endret ved [forskrift 17 des 2015 nr. 1719](forskrift/2015-12-17-1719) (i kraft 1 jan 2016).
+
+## § 10. Kontroll, regnskap og revisjon
+
+Enhver som framstiller, lagrer eller transporterer landbruksprodukt etter denne forskrift, plikter ved kontroll å legge frem alle opplysninger som er nødvendige for gjennomføring av denne.
+
+Ansvar for kontroll av innkreving av avgift tilligger innkrevingsmyndigheten.
+
+Departementet kan gi nærmere regler om regnskapsføring og revisjon.
+
+Utgiftene i forbindelse administrasjon av avgiftsmidlene skal dekkes av de avgiftene som blir pålagt med hjemmel i lov om forskningsavgift på landbruksprodukter.
+
+## § 11. Klage
+
+Vedtak som fattes av Landbruksdirektoratet i medhold av bestemmelsene i denne forskrift, kan påklages til Landbruks- og matdepartementet etter bestemmelsene i forvaltningsloven.
+
+Vedtak om forskningsavgift på importerte landbruksprodukt kan påklages til Toll- og avgiftsdirektoratet.
+
+> Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
+
+## § 12. Ikrafttredelse
+
+Denne forskrift trer i kraft straks.
+
+Fra samme tidsrom oppheves [forskrift 6. april 2001 nr. 410](forskrift/2001-04-06-410) om forskningsavgift på landbruksprodukter.
+
+## Vedlegg
+
+Kokosnøtter, paranøtter og akajounøtter (cashewnøtter), friske eller tørkede, med eller uten skall.
+
+Andre nøtter, friske eller tørkede, med eller uten skall.
+
+Bananer, herunder kokebananer (pisanger), friske eller tørkede.
+
+Dadler, fikener, ananas, avocadopærer, guavaer, mangoer og mangostan, friske eller tørkede.
+
+Sitrusfrukter, friske eller tørkede.
+
+Vindruer, friske eller tørkede.
+
+Meloner (herunder vannmeloner) og papaya, friske.
+
+Aprikoser.
+
+Ferskener.
+
+Nektariner.
+
+Kiwi.
+
+Skall av sitrusfrukter eller meloner (herunder vannmeloner), friske, fryste, tørkede eller midlertidig konserverte i saltlake, i svovelsyrlingvann eller i andre konserverende oppløsninger.
+
+Kaffe, også brent eller koffeinfri; skall og hinner av kaffe; kaffeerstatninger med innhold av kaffe, uansett blandingsforhold.
+
+Te, også tilsatt smaksstoffer.
+
+Maté.
+
+Pepper av slekten *Piper*; tørkede, knuste eller malte frukter av slektene *Capsicum* eller *Pimenta*.
+
+Vanilje.
+
+Kanel og kanelblomster.
+
+Kryddernellik (hele frukter, tørkede blomster og stilker).
+
+Muskat, muskatblomme og kardemomme.
+
+Anis, stjerneanis, fennikel, koriander, spisskommen, karve, einebær.
+
+Ingefær, safran, gurkemeie (kurkuma), timian, laurbærblad, karri og andre krydderier.
+
+Humle, frisk eller tørket, også malt, pulverisert eller i form av pelleter; lupulin.
+
+Rør- og betesukker samt kjemisk ren sakkarose, i fast form.
+
+Annet sukker, herunder kjemisk ren laktose, maltose, glukose og fruktose, i fast form; sirup og andre sukkeroppløsninger uten tilsetning av smaks- eller fargestoffer; kunsthonning, også blandet med naturlig honning; karamell.
+
+Melasse fremstilt ved utvinning eller raffinering av sukker.
+
+Sukkervarer (herunder hvit sjokolade), uten innhold av kakao.
+
+Kakaobønner, hele eller knuste, også brente.
+
+Kakaoskall og annet kakaoavfall.
+
+Kakaomasse, også avfettet.
+
+Kakaosmør, -fett, -olje.
+
+Kakaopulver, uten tilsetning av sukker eller annet søtningsstoff.
+
+Sjokolade og andre næringsmidler som inneholder kakao.
+
+Vann, herunder mineralvann og karbonisert vann, tilsatt sukker, andre søtningsstoffer eller smaksstoffer, og andre alkoholfrie drikkevarer, unntatt frukt- og grønnsaksafter som hører under tolltariffens posisjon 20.09.
+
+Øl framstilt av malt.
+
+Vin av friske druer, herunder vin tilsatt alkohol; druemost, unntatt den under tolltariffens posisjon 20.09.
+
+Vermut og annen vin av friske druer, tilsatt aromatiske planter eller smaksstoffer.
+
+Andre gjærede drikkevarer (f.eks. eplevin (sider), pærevin og mjød); blandinger av gjærede drikkevarer og blandinger av gjærede drikkevarer og alkoholfrie drikkevarer, ikke nevnt eller innbefattet annet sted.
+
+Udenaturert etylalkohol med alkoholstyrke minst 80 vol.-%; etylalkohol og brennevin, denaturert, uansett styrke.
+
+Eddik samt eddikerstatninger framstilt av eddiksyre.
+
+Tobakk, ubearbeidd; avfall av tobakk.
+
+Sigarer, cerutter, sigarilloer og sigaretter av tobakk eller tobakkerstatninger.
+
+Annen bearbeidd tobakk samt andre varer fremstilt av tobakkerstatninger; «homogenisert» eller «rekonstituert» tobakk; tobakkekstrakter og tobakkessenser.

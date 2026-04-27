@@ -1,0 +1,124 @@
+---
+id: "sf-20000512-0433"
+slug: "forskrift-om-nukleært-materiale-m-m"
+type: "forskrift"
+ref_id: "forskrift/2000-05-12-433"
+title: "Forskrift om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer."
+short_title: "Forskrift om nukleært materiale m.m."
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "2000-05-12"
+last_change_in_force: "2026-01-01"
+last_updated: null
+xml_hash: "7fd6bcf920799b4b82efcadeb1404cd0b200dec5deb3f8d5bc20c6f65882c980"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer.
+
+## Kapittel I. Innledende bestemmelser
+
+### § 1. (virkeområde)
+
+Denne forskrift regulerer besittelse, omsetning og transport av nukleært materiale og flerbruksvarer. Radioaktivt avfall omfattes ikke av denne forskrift.
+
+### § 2. (definisjoner)
+
+I denne forskrift menes med*nukleært materiale:* plutonium, anriket uran, naturlig uran, utarmet uran, isotopen uran-233, thorium, samt ethvert materiale som inneholder ett eller flere av disse stoffer. Plutonium med mer enn 80% plutonium-238 regnes også som nukleært materiale dersom det ikke er innoperert i pasienter som ledd i medisinsk behandling. Malmer regnes ikke som nukleært materiale.*flerbruksvarer:* utstyr og ikke-nukleært materiale til bruk ved fremstilling, behandling og bruk av nukleært materiale, slik dette defineres i vedlegg II til Tilleggsprotokollen til Norges avtale om sikkerhetskontroll med Det internasjonale atomenergibyrået, IAEA.*anriket uran:* uran der innholdet av isotopen uran-235 er høyere enn i naturlig uran.*naturlig uran:* uran der innholdet av isotopen uran-235 er slik uran finnes i naturen (ca. 0,72%).*utarmet uran:* uran der innholdet av isotopen uran-235 er mindre enn i naturlig uran.*besitte:* fremstille, eie, lagre, behandle eller for øvrig inneha eller anbringe.*omsette:* importere, selge, donere, kjøpe eller eksportere.*sikkerhetskontroll:* den kontroll og de pålegg som fremmede stater eller internasjonale organisasjoner har avtalemessig rett til for å sikre at nukleært materiale og flerbruksvarer under norsk jurisdiksjon bare brukes til fredelige og ikke-eksplosive formål.*intern sikkerhetskontroll:* de tiltak og den kontroll som foretas fra norsk side for å muliggjøre og lette sikkerhetskontrollen.*kontrollorgan:* Direktoratet for strålevern og atomsikkerhet eller den institusjon som Direktoratet utpeker til å gjennomføre intern sikkerhetskontroll.*innehaver:* en fysisk eller juridisk person som besitter eller omsetter nukleært materiale og flerbruksvarer.*ikke-nukleære formål:* bruk i virksomhet som ikke omfattes av atomenergiloven.
+
+> Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+## Kapittel II. Løyve
+
+### § 3. (om løyve for besittelse, omsetning og transport av nukleært materiale)
+
+1. Uten løyve av Helse- og omsorgsdepartementet må ingen besitte, omsette eller transportere nukleært materiale. Dette gjelder likevel ikke for besittelse, omsetning eller transport av naturlig uran, utarmet uran eller thorium for ikke-nukleære formål. Løyve trengs ikke i den utstrekning virksomhet er omfattet av konsesjon etter [atomenergiloven § 4](lov/1972-05-12-28/§4). Løyve gis på de vilkår som finnes påkrevet av hensyn til sikkerheten og andre allmenne hensyn.
+2. Med grunnlag i kontrollorganets uttalelse innstiller Direktoratet for strålevern og atomsikkerhet overfor Helse- og omsorgsdepartementet om hvorvidt løyve skal gis eller ikke.
+3. Søknad om løyve til å besitte, omsette eller transportere nukleært materiale sendes Direktoratet for strålevern og atomsikkerhet.
+4. Avsender og mottaker av nukleært materiale skal ved omsetning og transport av materialet omgående gi kontrollorganet skriftlig melding om type materiale, formål, avsenders og mottakers navn og adresse, mottaks- og avsendelsesdato og nøyaktig vekt av materialet.
+
+> Endret ved [forskrifter 21 des 2001 nr. 1484](forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [18 feb 2005 nr. 167](forskrift/2005-02-18-167), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+## Kapittel III. Meldeplikt
+
+### § 4. (meldeplikt for naturlig uran, utarmet uran og thorium)
+
+For å besitte eller omsette naturlig uran, utarmet uran eller thorium for ikke-nukleære formål gjelder meldeplikt. Melding skal omgående gis av avsender og mottaker til kontrollorganet ved omsetning av materialet, samt ved enhver kryssing av landegrenser. Meldingen skal inneholde opplysninger om type materiale, formål, avsenders- og mottagers navn og adresse, mottaks- og avsendelsesdato og vekt i gram. Balansevekter i fly og fastmontert ballast i fartøyer er unntatt fra meldeplikt.
+
+### § 5. (meldeplikt for flerbruksvarer)
+
+For å besitte eller omsette flerbruksvarer gjelder meldeplikt. Melding skal omgående gis av avsender og mottaker til kontrollorganet ved omsetning av varene, samt ved enhver kryssing av landegrenser. Meldingen skal inneholde opplysninger om type varer, formål, avsenders- og mottakers navn og adresse og mottaks- og avsendelsesdato.
+
+## Kapittel IV. Kontroll med beholdning av nukleært materiale og flerbruksvarer
+
+### § 6. (regnskapsplikt)
+
+Innehaveren skal føre regnskap med beholdningen av nukleært materiale. Vedkommende skal hvert år ved en gitt dato foreta en opptelling av beholdningen. For hver type materiale skal det for hvert oppbevarings- og brukssted angis elementvekter i gram. For uran-233, uran-235 og plutonium skal vektene oppgis i tidels gram. Etter opptelling skal beholdningsoppgave samt materialbalanse omgående sendes kontrollorganet. Regnskapene skal oppbevares etter regnskapslovens bestemmelser for alminnelige regnskaper.
+
+### § 7. ( meldeplikt ved tap av nukleært materiale og flerbruksvarer)
+
+Kontrollorganet skal omgående underrettes ved tap av nukleært materiale og flerbruksvarer som ikke skyldes normale driftsforhold.
+
+## Kapittel V. Inspeksjon og sikkerhetskontroll
+
+### § 8. (inspeksjonsadgang)
+
+1. Inspektører fra kontrollorganet skal, alene eller i følge med utenlandske inspektører,1 ha adgang til de steder der det nukleære materiale eller flerbruksvarer blir oppbevart eller brukt, eller har blitt oppbevart eller brukt. Inspektørene har rett til alle opplysninger som finnes nødvendige for effektiv kontroll. De skal også kunne gjennomføre nødvendige kontrolltiltak, herunder målinger og prøvetaking. Inspektørene er underlagt taushetsplikt i medhold av [atomenergiloven § 53](lov/1972-05-12-28/§53).
+2. Kontrollorganet plikter å stille inspektører til rådighet for å ledsage utenlandske inspektører, slik at disse ikke blir forsinket eller på annen måte hemmet i utøvelsen av sine funksjoner.
+
+### § 9. (omkostninger ved sikkerhetskontroll)
+
+Det er innehaveren som skal bære eventuelle ekstra kostnader internt i virksomheten som følger av den interne sikkerhetskontrollen. Særlige kontrolltiltak som vil føre til store ekstraomkostninger for innehaveren, for eksempel grunnet midlertidig produksjonsstopp, skal ikke gjennomføres før Direktoratet for strålevern og atomsikkerhet har godkjent tiltaket.
+
+> Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+### § 10. (kontaktperson)
+
+Innehaveren skal utpeke en ansvarshavende person for nukleært materiale og flerbruksvarer. Denne skal være kontrollorganets kontaktperson hos innehaveren.
+
+## Kapittel VI. Eksport av nukleært materiale og flerbruksvarer
+
+### § 11. (melding til kontrollorganet)
+
+Eksport er ikke tillatt uten at dette er særskilt angitt i løyvet.1 Innehaveren skal omgående gi melding til kontrollorganet2 etter avsendelse av materialet.
+
+### § 12. (tillatelse fra Utenriksdepartementet)
+
+Nukleært materiale og flerbruksvarer skal ikke eksporteres uten tillatelse fra Utenriksdepartementet.1 Ved utførsel av nukleært materiale og flerbruksvarer vil den innvilgede utførselstillatelsen stille vilkår om at eksportøren rapporterer til Utenriksdepartementet på fastlagt skjema med beskrivelse av den utførte varen, vekt/kvantitet, navn og adresse på sluttbruker og tidspunkt for utførselen. Gyldig utførselstillatelse fra Utenriksdepartementet må fremlegges for Tollvesenet ved utførselen.
+
+## Kapittel VII. Administrative bestemmelser
+
+### § 13. (behandling av søknader om løyve)
+
+1. Direktoratet for strålevern og atomsikkerhet innhenter kontrollorganets uttalelse om søknader om løyve til å besitte, omsette og transportere nukleært materiale.
+2. Med grunnlag i kontrollorganets uttalelse innstiller Direktoratet for strålevern og atomsikkerhet overfor Helse– og omsorgsdepartementet om hvorvidt løyve skal gis eller ikke.
+3. Departementets avgjørelse meddeles kontrollorganet slik at dette kan iverksette de nødvendige tiltak for å effektuere sikkerhetskontrollen.
+
+> Endret ved [forskrifter 21 des 2001 nr. 1484](forskrift/2001-12-21-1484) (i kraft 1 jan 2002), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+### § 14. (innhold i søknad om løyve)
+
+Søknader om løyve til å besitte, omsette og transportere nukleært materiale skal inneholde dokumenterte opplysninger om eierforhold, ansvarsforhold, mengde og type materiale, eventuelle tiltak for fysisk beskyttelse1 samt hensikt med besittelsen eller omsetningen av nukleært materiale. Søker må akseptere de betingelser som stilles fra kontrollorganet for gjennomføringen av intern sikkerhetskontroll.2
+
+### § 15. (innhold i søknad om løyve for transittransport)
+
+Søknader om løyve for transittransport av nukleært materiale må inneholde dokumenterte opplysninger om avsender, mottaker, fraktfører, fartøyflagg, mengde og type materiale og eventuelle tiltak for fysisk beskyttelse av materialet.1 Ansvarsforsikring i henhold til [atomenergiloven § 35](lov/1972-05-12-28/§35) skal også dokumenteres der det er nødvendig.
+
+### § 15a. Overtredelsesgebyr
+
+Direktoratet for strålevern og atomsikkerhet kan ilegge den som forsettlig eller uaktsomt overtrer bestemmelsene i [§§ 3](forskrift/2000-05-12-433/§3) til [8](forskrift/2000-05-12-433/§8) og [§§ 10](forskrift/2000-05-12-433/§10) til [12](forskrift/2000-05-12-433/§12) i denne forskriften, overtredelsesgebyr. Nærmere regler om ileggelse og utmåling av overtredelsesgebyr følger av [forskrift 2. november 2025 nr. 2168 om ileggelse og utmåling av overtredelsesgebyr etter atomenergiloven](forskrift/2025-11-02-2168).
+
+> Tilføyd ved forskrift [21 nov 2025 nr. 2306](forskrift/2025-11-21-2306) (i kraft 1 jan 2026).
+
+### § 16. (straff)
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser i forskriften, straffes med bøter eller fengsel inntil 1 år eller begge deler. Medvirkning straffes på samme måte.
+
+### § 17. (ikrafttredelse)
+
+Forskriften trer i kraft umiddelbart.

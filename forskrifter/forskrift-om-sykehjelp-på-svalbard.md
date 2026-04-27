@@ -1,0 +1,42 @@
+---
+id: "sf-19810306-8867"
+slug: "forskrift-om-sykehjelp-på-svalbard"
+type: "forskrift"
+ref_id: "forskrift/1981-03-06-8867"
+title: "Forskrift om arbeidsgivers plikt til å yte sykehjelp m.v. etter bergverksordningen for Svalbard til arbeidstakere som er trygdet etter folketrygdloven med rett til ytelser etter lovens kap. 2 og 3."
+short_title: "Forskrift om sykehjelp på Svalbard"
+language: "no"
+ministry:
+  - "Helse- og omsorgsdepartementet"
+date_in_force: "1981-03-06"
+last_change_in_force: null
+last_updated: null
+xml_hash: "589c4b928611a21afd1160f019d716d76fa561da136fcfafab64c01706313d78"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+status: "current"
+---
+
+# Forskrift om arbeidsgivers plikt til å yte sykehjelp m.v. etter bergverksordningen for Svalbard til arbeidstakere som er trygdet etter folketrygdloven med rett til ytelser etter lovens kap. 2 og 3.
+
+## § 1.
+
+Arbeidsgivers plikt til å yte sykehjelp m.v. etter Bergverksordningen § 31 nr. 1 og 2 med utfyllende forskrifter fastsatt ved kgl.resolusjoner av 5. juli 1928 og 11. oktober 1929 faller bort for arbeidstakere som er trygdet etter folketrygdloven med rett til ytelser etter lovens kap. 2 og 3. Arbeidsgiveren har likevel de plikter som framgår av [§§ 2](forskrift/1981-03-06-8867/§2) og [3](forskrift/1981-03-06-8867/§3) nedenfor.
+
+## § 2.
+
+Dersom en arbeidstaker blir syk eller skadd på Svalbard slik at han ikke kan gjenoppta sitt arbeid der, skal arbeidsgiveren dekke utgiftene ved hjemreise dersom utgiftene ikke dekkes av folketrygden. Det samme gjelder ved arbeidsuførhet som antas å vare mer enn 2 måneder. Arbeidsgiveren kan kreve at det legges fram skriftlig dokumentasjon (legeerklæring) om arbeidsuførhetens varighet.
+
+Arbeidsgiveren kan avslå å dekke utgiftene eller kreve utgiftene tilbakebetalt, dersom arbeidstakeren har påført seg skaden eller sykdommen med forsett.
+
+Tilbakebetaling kan ikke kreves på grunn av at sykefraværet blir av kortere varighet enn opprinnelig antatt.
+
+## § 3.
+
+Arbeidsgiver skal sørge for at det er tilfredsstillende muligheter for syketransport (inkludert ambulanseberedskap) for arbeidstakere som blir syke eller skadde i virksomheten. Folketrygden yter godtgjørelse for utførte syketransporter etter bestemmelsene i [folketrygdlovens § 2-6](lov/1966-06-17-12/§2-6).
+
+## § 4.
+
+Disse forskrifter trer i kraft straks og gis virkning fra 1. januar 1981.
