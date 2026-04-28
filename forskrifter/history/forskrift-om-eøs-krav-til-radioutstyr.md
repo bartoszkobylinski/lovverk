@@ -1,6 +1,11 @@
 # forskrift-om-eøs-krav-til-radioutstyr — Change history
 
-_2 events; doc_id `sf-20160415-0377`._
+_3 events; doc_id `sf-20160415-0377`._
+
+## 2026-04-28 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-eøs-krav-til-radioutstyr`
+Commit: `4c25b02`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20160415-0377.md` → `"forskrifter/forskrift-om-e\303\270s-krav-til-radioutstyr.md"`.

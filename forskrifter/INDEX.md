@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3741 current documents_
+_3742 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1477,6 +1477,7 @@ _3741 current documents_
 - [forskrift-om-kapasitetsjusteringer-for-tillatelser-til-akvakultur-med-matfisk-i-sjø-i-2020](forskrift-om-kapasitetsjusteringer-for-tillatelser-til-akvakultur-med-matfisk-i-sjø-i-2020.md) — Forskrift om kapasitetsjusteringer for tillatelser til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2020
 - [forskrift-om-kapasitetsøkning-for-tillatelser-til-akvakultur-2017-2018](forskrift-om-kapasitetsøkning-for-tillatelser-til-akvakultur-2017-2018.md) — Forskrift om kapasitetsøkning for tillatelser til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2017–2018
 - [forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven](forskrift-om-kapitaliseringsrente-etter-skadeserstatningsloven.md) — Forskrift om kapitaliseringsrente etter skadeserstatningsloven
+- [forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026](forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026.md) — Forskrift om kartleggingsfisket etter torsk i fiskerisonen ved Jan Mayen i 2026
 - [forskrift-om-kaseiner-og-kaseinater](forskrift-om-kaseiner-og-kaseinater.md) — Forskrift om kaseiner og kaseinater
 - [forskrift-om-kirkegårder-i-longyearbyen-mv](forskrift-om-kirkegårder-i-longyearbyen-mv.md) — Forskrift om kirkegårder i Longyearbyen og askespredning på Svalbard
 - [forskrift-om-kjemiske-desinfeksjonsmidler](forskrift-om-kjemiske-desinfeksjonsmidler.md) — Forskrifter om kjemiske desinfeksjonsmidler til teknisk bruk i helse- og sykepleie.

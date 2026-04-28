@@ -33266,15 +33266,15 @@
     },
     "sf-20160415-0377": {
       "doc_type": "forskrift",
-      "last_changed": "2026-04-27",
-      "last_seen": "2026-04-27T06:49:01.472929Z",
+      "last_changed": "2026-04-28",
+      "last_seen": "2026-04-28T06:27:32.414393Z",
       "markdown_path": "forskrifter/forskrift-om-eøs-krav-til-radioutstyr.md",
       "slug": "forskrift-om-eøs-krav-til-radioutstyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om EØS-krav til radioutstyr",
-      "total_changes": 2,
-      "xml_hash": "d49192d1d7b21ea239f044e02a15a4ea22fda966b7ddd75b0599fa3b810c4450"
+      "total_changes": 3,
+      "xml_hash": "2c1698230f78e32849339803c28674c6d368d2192e485e3f308498f2a945f5d1"
     },
     "sf-20160415-0378": {
       "doc_type": "forskrift",
@@ -54263,8 +54263,20 @@
       "title": "Forskrift om endring i forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport og forskrift om krav til nullutslipp av klimagasser ved offentlig anskaffelse av sjøtransport",
       "total_changes": 2,
       "xml_hash": "a7f54ff23304f498f04b8672895a3352ac0f82725f717ddca7d95431d27e8f03"
+    },
+    "sf-20260423-0639": {
+      "doc_type": "forskrift",
+      "last_changed": "2026-04-28",
+      "last_seen": "2026-04-28T06:27:32.414393Z",
+      "markdown_path": "forskrifter/forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026.md",
+      "slug": "forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om kartleggingsfisket etter torsk i fiskerisonen ved Jan Mayen i 2026",
+      "total_changes": 1,
+      "xml_hash": "b32cb97c0917233fb616c64e25cf1c3562c4946a38fa22d462a436665022cb7d"
     }
   },
-  "generated_at": "2026-04-27T10:03:51.443612Z",
+  "generated_at": "2026-04-28T06:27:32.414393Z",
   "version": 1
 }

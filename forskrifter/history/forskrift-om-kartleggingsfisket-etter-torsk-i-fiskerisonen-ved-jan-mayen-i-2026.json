@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260423-0639",
+  "events": [
+    {
+      "commit": "c72f189",
+      "date": "2026-04-28",
+      "from_path": null,
+      "lines_added": 60,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-kartleggingsfisket-etter-torsk-i-fiskerisonen-ved-jan-mayen-i-2026"
+}

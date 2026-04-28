@@ -2,6 +2,16 @@
   "doc_id": "sf-20160415-0377",
   "events": [
     {
+      "commit": "4c25b02",
+      "date": "2026-04-28",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-eøs-krav-til-radioutstyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20160415-0377.md",
