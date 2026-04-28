@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2016-06-13"
-last_change_in_force: "2025-08-26"
+last_change_in_force: "2026-04-28"
 last_updated: "2024-01-04"
-xml_hash: "d49192d1d7b21ea239f044e02a15a4ea22fda966b7ddd75b0599fa3b810c4450"
+xml_hash: "2c1698230f78e32849339803c28674c6d368d2192e485e3f308498f2a945f5d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-28T06:27:32.414393+00:00"
 status: "current"
 ---
 
@@ -516,7 +516,7 @@ Bærbare navigasjonssystemer.
 
 Ørepropper.
 
-Bærbare datamaskiner.]1
+Bærbare datamaskiner.
 
 I den grad de kan lades med kabel, skal de kategorier eller klasser av radioutstyr som er nevnt i nr. 1 i denne delen,
 
