@@ -2,6 +2,16 @@
   "doc_id": "sf-20220406-0633",
   "events": [
     {
+      "commit": "c0351b3",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 13,
+      "lines_removed": 7,
+      "subject": "update(forskrift): dyreimportforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20220406-0633.md",

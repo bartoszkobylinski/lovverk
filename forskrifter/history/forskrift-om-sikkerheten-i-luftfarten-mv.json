@@ -2,6 +2,16 @@
   "doc_id": "sf-20110301-0214",
   "events": [
     {
+      "commit": "c35a859",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-sikkerheten-i-luftfarten-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20110301-0214.md",

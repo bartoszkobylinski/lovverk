@@ -1,6 +1,11 @@
 # forskrift-om-sikkerheten-i-luftfarten-mv — Change history
 
-_2 events; doc_id `sf-20110301-0214`._
+_3 events; doc_id `sf-20110301-0214`._
+
+## 2026-04-29 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-sikkerheten-i-luftfarten-mv`
+Commit: `c35a859`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20110301-0214.md` → `forskrifter/forskrift-om-sikkerheten-i-luftfarten-mv.md`.

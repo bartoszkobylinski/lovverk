@@ -1,6 +1,11 @@
 # forskrift-om-utdanningsstøtte — Change history
 
-_2 events; doc_id `sf-20200415-0798`._
+_3 events; doc_id `sf-20200415-0798`._
+
+## 2026-04-29 — Content updated
+Lines: +118 -110.
+Subject: `update(forskrift): forskrift-om-utdanningsstøtte`
+Commit: `072b50c`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20200415-0798.md` → `"forskrifter/forskrift-om-utdanningsst\303\270tte.md"`.

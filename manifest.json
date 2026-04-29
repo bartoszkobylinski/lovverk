@@ -27386,15 +27386,15 @@
     },
     "sf-20110301-0214": {
       "doc_type": "forskrift",
-      "last_changed": "2026-04-27",
-      "last_seen": "2026-04-27T06:49:01.472929Z",
+      "last_changed": "2026-04-29",
+      "last_seen": "2026-04-29T06:21:54.162913Z",
       "markdown_path": "forskrifter/forskrift-om-sikkerheten-i-luftfarten-mv.md",
       "slug": "forskrift-om-sikkerheten-i-luftfarten-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forebyggelse av anslag mot sikkerheten i luftfarten mv.",
-      "total_changes": 2,
-      "xml_hash": "5cf37156353c05a61d4f78205059207fe9421730a497c880ceb5b9a67f0e842b"
+      "total_changes": 3,
+      "xml_hash": "245ce3039ac2c607b1efe9098ccdb59d7c145639bb0e1370e33fd297dfd51688"
     },
     "sf-20110304-0251": {
       "doc_type": "forskrift",
@@ -38594,15 +38594,15 @@
     },
     "sf-20200415-0798": {
       "doc_type": "forskrift",
-      "last_changed": "2026-04-27",
-      "last_seen": "2026-04-27T06:49:01.472929Z",
+      "last_changed": "2026-04-29",
+      "last_seen": "2026-04-29T06:21:54.162913Z",
       "markdown_path": "forskrifter/forskrift-om-utdanningsstøtte.md",
       "slug": "forskrift-om-utdanningsstøtte",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utdanningsstøtte",
-      "total_changes": 2,
-      "xml_hash": "aad1356f6e19137f6143e53fe327c86475621befde98cabeb563626d1e037800"
+      "total_changes": 3,
+      "xml_hash": "5a566487b962d1b40f3bcaf13b78a64594272aa17396ec13787a607b6e6d7717"
     },
     "sf-20200417-0810": {
       "doc_type": "forskrift",
@@ -42506,15 +42506,15 @@
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
-      "last_changed": "2026-04-27",
-      "last_seen": "2026-04-27T06:49:01.472929Z",
+      "last_changed": "2026-04-29",
+      "last_seen": "2026-04-29T06:21:54.162913Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 2,
-      "xml_hash": "3bdab3a1d260293301c37cebe62bececf1b22ee31223e32774a3deaa19e2d05d"
+      "total_changes": 3,
+      "xml_hash": "24c8e3959d8917ac7faa44e8563786fb19af0d3434990612926cf42236c8de17"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -54277,6 +54277,6 @@
       "xml_hash": "b32cb97c0917233fb616c64e25cf1c3562c4946a38fa22d462a436665022cb7d"
     }
   },
-  "generated_at": "2026-04-28T06:27:32.414393Z",
+  "generated_at": "2026-04-29T06:21:54.162913Z",
   "version": 1
 }
