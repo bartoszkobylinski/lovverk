@@ -15,8 +15,9 @@ xml_hash: "42a3cc5205e6a9ae433c455a5ab90cd4eda24e2e5bc2cc0b92cbbbcb0c93719b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år

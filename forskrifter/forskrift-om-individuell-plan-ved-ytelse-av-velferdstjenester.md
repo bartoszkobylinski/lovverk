@@ -16,8 +16,9 @@ xml_hash: "afa2b0d93cff9cd9b4b4658b8ee5a9314bbde2574e493c1d53755091c8798085"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om individuell plan ved ytelse av velferdstjenester

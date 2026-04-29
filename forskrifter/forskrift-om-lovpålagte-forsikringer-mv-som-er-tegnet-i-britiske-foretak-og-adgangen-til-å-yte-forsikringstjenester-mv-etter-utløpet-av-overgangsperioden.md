@@ -15,8 +15,9 @@ xml_hash: "cb007bf173f6893e2e3fbe40396d67ffe5887af7a4afdbc66b14dbb6a0be283c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lovpålagte forsikringer mv. som er tegnet i britiske foretak og adgangen til å yte forsikringstjenester mv. etter utløpet av overgangsperioden

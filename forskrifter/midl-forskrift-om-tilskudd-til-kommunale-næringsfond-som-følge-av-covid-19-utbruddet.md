@@ -15,8 +15,9 @@ xml_hash: "2ab6fe70f4eec8bb7a174b722c6355cf23760526a5c749a77962fa93cc20d4a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om tilskudd til kommunale næringsfond som følge av covid-19-utbruddet

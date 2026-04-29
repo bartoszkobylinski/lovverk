@@ -15,8 +15,9 @@ xml_hash: "936667a2d1109bece33e78e83af4ea7312e085b6cdbdf36319799b7108160c88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Norsk overvåkingssystem for antibiotikabruk og helsetjenesteassosierte infeksjoner (NOIS-registerforskriften)

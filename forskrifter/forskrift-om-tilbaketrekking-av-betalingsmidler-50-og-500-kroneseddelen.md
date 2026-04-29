@@ -15,8 +15,9 @@ xml_hash: "4121f82aa61e6aeb6a4f324edc8164f1bb7ad154bac1706873873cedbdaadc84"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilbaketrekking av betalingsmidler 50- og 500-kroneseddelen

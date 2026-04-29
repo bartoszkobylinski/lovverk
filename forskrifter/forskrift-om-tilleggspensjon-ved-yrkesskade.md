@@ -15,8 +15,9 @@ xml_hash: "6878662a31af918960378925a85df1847e2badd31ec2de6d6c12fba50879b045"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beregning av tilleggspensjon ved yrkesskade.

@@ -15,8 +15,9 @@ xml_hash: "207859e0a9c6956f21744682122175e8e2e8cf4ae31cd231e1cfa2c27d2f7fcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra notifikasjonsplikt for offentlig støtte

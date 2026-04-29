@@ -15,8 +15,9 @@ xml_hash: "ee3471a26c7e8382dafb305eb68b5850cad04a3f605fc62765ea7a5a51870b2f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vederlag for legehjelp og fysikalsk behandling ved kommunens helsetjeneste.

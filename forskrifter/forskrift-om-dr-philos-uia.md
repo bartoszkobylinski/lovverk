@@ -15,8 +15,9 @@ xml_hash: "1bfe6de4ef5539929f6a860c423c6c207457b2e5df6e135a06e81de0f66070a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om graden doctor philosophiae (dr.philos.) ved Universitetet i Agder

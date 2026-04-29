@@ -15,8 +15,9 @@ xml_hash: "24b572ec7fa3df5f73e09c9ddf02216c66536c04e18e8eb5d9c3c8524b75d5aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier, eksamen og klagebehandling for Kunstskolen i Stavanger

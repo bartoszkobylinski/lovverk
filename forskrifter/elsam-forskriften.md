@@ -15,8 +15,9 @@ xml_hash: "fe50ee5fc02de33024124c6202a823b57d35cd5df70118d46a7cd65a94efbc90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elektronisk kommunikasjon med domstolene

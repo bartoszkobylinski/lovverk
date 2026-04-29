@@ -15,8 +15,9 @@ xml_hash: "0efbb90fd2c91cbf076fd342273d3786be9b5b640e741411b670c32103c2083b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om alternativ behandling av sykdom mv.

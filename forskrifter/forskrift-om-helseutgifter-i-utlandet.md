@@ -15,8 +15,9 @@ xml_hash: "8a47fcae0e6140bd8640a193ed63bbe9f98a42acd24f9e1ebcb9ca47f0c4e4fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til dekning av utgifter til helsetjenester i utlandet.

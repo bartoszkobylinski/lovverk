@@ -15,8 +15,9 @@ xml_hash: "b6c8aa7284c1550d23be93f9ec78b649642b6e69e6c08f817e3bfe1c154d362c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2019/777 om de felles spesifikasjonene for registeret over jernbaneinfrastruktur og oppheving av beslutning 2014/880/EU (RINF-forskriften)

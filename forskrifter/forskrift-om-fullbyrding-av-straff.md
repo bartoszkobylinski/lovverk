@@ -15,8 +15,9 @@ xml_hash: "d91a97d0dd978aaf25181e686aac44d9524efdfd08db609e4b24ab037fcc286f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innkalling og utsettelse ved fullbyrding av straff

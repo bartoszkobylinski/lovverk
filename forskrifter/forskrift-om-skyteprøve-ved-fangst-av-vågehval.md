@@ -15,8 +15,9 @@ xml_hash: "bb31363193a15fc0d2cfb0b41cf14d05b1f13d587910e2cb8e63bbbf44c7453c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skyteprøve ved fangst av vågehval

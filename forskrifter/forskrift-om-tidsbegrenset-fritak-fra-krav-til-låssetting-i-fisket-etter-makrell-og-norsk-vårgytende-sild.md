@@ -15,8 +15,9 @@ xml_hash: "1ff99c76a7b1cb11bc5c154dc89dd5e4bf8a1205044ae2960dc5b083f5ec3428"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tidsbegrenset fritak fra krav til låssetting i fisket etter makrell og norsk vårgytende sild

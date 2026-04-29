@@ -15,8 +15,9 @@ xml_hash: "bc30eeb074512fb9d2ee7ad4205c0f41020aef982520c373e1da67e5512988ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til rammeplan for videreutdanning i helsefremmende og forebyggende arbeid.

@@ -15,8 +15,9 @@ xml_hash: "0ca2f52a03362d747c412c90e0d227258c4c90ccbc74ee7f95f57a29b698707a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Konvensjon mellom Norge, Danmark, Finnland, Island og Sverige om inndriving av underholdsbidrag, undertegnet i Oslo den 23 mars 1962

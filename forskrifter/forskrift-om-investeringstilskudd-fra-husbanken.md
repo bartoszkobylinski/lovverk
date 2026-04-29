@@ -15,8 +15,9 @@ xml_hash: "b6c5a4e6fa00298491253cec77e475bff2b857e358854f59da1204890e973081"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om investeringstilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken

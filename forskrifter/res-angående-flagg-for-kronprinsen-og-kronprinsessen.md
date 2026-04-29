@@ -15,8 +15,9 @@ xml_hash: "4411ae080d0054432451ee88677b47f59a4b535ed4b7ce2528b863d8edae6cd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Res. angående flagg for Kronprinsen og Kronprinsessen

@@ -17,8 +17,9 @@ xml_hash: "28a202bb5dc35d199ecc1d2f2a1d16a5a4b981c8ffa489c1b21d688cd8c330d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om næringsmiddelhygiene (næringsmiddelhygieneforskriften)

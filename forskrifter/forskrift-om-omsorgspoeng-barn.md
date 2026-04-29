@@ -15,8 +15,9 @@ xml_hash: "b826e623a142f50d313de9d186c76b27ad4839a4105891f4393a3fb9946af83b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godskriving av pensjonspoeng (omsorgspoeng) for personer som har omsorg for små barn

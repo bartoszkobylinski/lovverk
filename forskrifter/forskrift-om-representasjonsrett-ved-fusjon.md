@@ -15,8 +15,9 @@ xml_hash: "5e40986caf1907445c378bad37113d95beee301643aa377f3ba7a893cabfabee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidstakernes rett til representasjon ved fusjon over landegrensene av selskaper med begrenset ansvar

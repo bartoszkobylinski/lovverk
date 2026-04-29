@@ -15,8 +15,9 @@ xml_hash: "956796bdf8b62b4aa69ac2489a9f0b2c74beeb0246b7e906eb7a0ee8c437e813"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen

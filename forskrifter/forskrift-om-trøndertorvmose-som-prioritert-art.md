@@ -15,8 +15,9 @@ xml_hash: "807d0caecac05c3a3748e6b64a9f7b5c07f4b8f4b4cd008bef492df8f7999157"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trøndertorvmose (Sphagnum troendelagicum) som prioritert art

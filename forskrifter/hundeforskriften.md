@@ -15,8 +15,9 @@ xml_hash: "6e6cb8ed33fa1586d32a868e1809f405a1adaa2ff18df50ea0591b9b173fe1af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hunder

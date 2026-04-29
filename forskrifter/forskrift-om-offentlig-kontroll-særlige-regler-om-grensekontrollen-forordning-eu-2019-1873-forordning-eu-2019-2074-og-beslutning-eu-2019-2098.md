@@ -17,8 +17,9 @@ xml_hash: "3925fcda47a73458e0b6c754750f7b77b153d7fbd5fe94ef7a7a24457b56fb8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – særlige regler om grensekontrollen, forordning (EU) 2019/1873, forordning (EU) 2019/2074 og beslutning (EU) 2019/2098

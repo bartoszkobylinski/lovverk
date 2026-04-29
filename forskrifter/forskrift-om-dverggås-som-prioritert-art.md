@@ -15,8 +15,9 @@ xml_hash: "5ad68d84a817b77c8ff62efce9e6527fc16462e5b4838b2b36c1c9344040982c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om dverggås (Anser erythropus) som prioritert art

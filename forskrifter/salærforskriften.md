@@ -15,8 +15,9 @@ xml_hash: "c910503dbf01e693b79f99f79cdbdc821427a1e95d2743a8222e87e55c8f225e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om salær fra det offentlige til advokater m.v.

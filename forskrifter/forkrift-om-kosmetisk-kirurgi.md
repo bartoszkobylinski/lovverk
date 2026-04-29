@@ -15,8 +15,9 @@ xml_hash: "80b54b7eec48a7274c106a468494c86a9586340cec4e6eb54060f547301f0069"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tillatelse til å utføre kosmetisk kirurgiske inngrep.

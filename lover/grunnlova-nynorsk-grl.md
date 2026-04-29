@@ -15,8 +15,9 @@ xml_hash: "9ff6b5a30c9cd1805689550a63412e760ba6723ef021f489fb8ae366ad93581f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kongeriket Noregs grunnlov

@@ -15,8 +15,9 @@ xml_hash: "7d7521592c6a8125308fa5fc54c77799b1968905673a65525214efb93e5cad39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensjonsloven]

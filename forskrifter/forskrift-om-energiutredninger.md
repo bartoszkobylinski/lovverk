@@ -15,8 +15,9 @@ xml_hash: "12c4e51e0276c21053b7638733e0d4e91fe5d388a8b1dbd21adc1ae60e8d264d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om energiutredninger

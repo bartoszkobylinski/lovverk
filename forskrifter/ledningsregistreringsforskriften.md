@@ -15,8 +15,9 @@ xml_hash: "e8c190e1a88974e1bb48507465e358dd5b840ed938be0952fd66a6a31e69cbef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innmåling, dokumentasjon og utlevering av geografisk informasjon om ledninger og annen infrastruktur i grunnen, sjø og vassdrag (ledningsregistreringsforskriften)

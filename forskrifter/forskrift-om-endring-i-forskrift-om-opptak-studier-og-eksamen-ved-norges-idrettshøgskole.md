@@ -15,8 +15,9 @@ xml_hash: "def1ca904583fec57bdec422abbb22f7fad0c053490330387bb821f318b438e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om opptak, studier og eksamen ved Norges idrettshøgskole

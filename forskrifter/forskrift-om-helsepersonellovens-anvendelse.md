@@ -15,8 +15,9 @@ xml_hash: "e77e6defcd1978d012e8b56051e894ef44db795b6b0409691643b68520e47757"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om helsepersonellovens anvendelse for personell som yter tjenester etter lov om kommunale helse- og omsorgstjenester

@@ -15,8 +15,9 @@ xml_hash: "75b7cc3896bf38f76483af65685a282f56da161c4c9d50c0f74e6269e22dd90f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 21. juni 2019 nr. 41 om endringer i verdipapirhandelloven mv. (prospekt, markedsmisbruk, tilsyn og sanksjoner)

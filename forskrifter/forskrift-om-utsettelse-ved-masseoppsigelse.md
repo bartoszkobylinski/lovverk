@@ -15,8 +15,9 @@ xml_hash: "68c9a0323c06f04455b197ca94f6f5c6837717856aaa9175db08f8ff29201eda"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hvordan retten til utsettelse av oppsigelser ved masseoppsigelser skal nyttes og Arbeids- og velferdsetaten rolle ved slik utsettelse.

@@ -15,8 +15,9 @@ xml_hash: "246fc76ca7e36d9a9c116a9f3662382a65d450455236280c32b2a91ff5dd9386"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring av rettskriving og læreboknormal

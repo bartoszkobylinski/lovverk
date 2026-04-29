@@ -15,8 +15,9 @@ xml_hash: "faec4028e5e8057ddcf4466b29f76de2cc11cb604b6c59308e2350e19e63a2d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til slepebåt for flyttbare innretninger som er underveis i territorialfarvannet

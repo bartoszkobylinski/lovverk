@@ -15,8 +15,14 @@ xml_hash: "bdfbdc6f7c6a8fce35a0a22dc1b0966823e265dbf82d577cdc90c251ffa3acdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0138"
+  - "32013L0036"
+  - "32015L0849"
+  - "32009L0065"
+  - "32014L0065"
 ---
 
 # Lov om Finanstilsynet (finanstilsynsloven)

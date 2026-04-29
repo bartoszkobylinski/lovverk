@@ -15,8 +15,9 @@ xml_hash: "0647496f358e18087d2670a9aab6724b5138bfbd20bfaee5003a95893328a4b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fangst av pelssel og sjøelefanter på Bouvetøya og Peter I.'s øy.

@@ -15,8 +15,9 @@ xml_hash: "2c5d25aed037604e748f3d1bbe1fbb066604a7b015656dc148759060cf87475c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om flymaskinistsertifikat (BSL C 5-1a).

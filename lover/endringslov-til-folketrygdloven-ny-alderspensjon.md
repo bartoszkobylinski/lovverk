@@ -15,8 +15,9 @@ xml_hash: "df4768736264c8a8aea583af24871f507b25963b89be79d74b3ccc66c339b090"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i folketrygdloven (ny alderspensjon)

@@ -15,8 +15,9 @@ xml_hash: "b9dc13858e90171c4931b6f930ecd28bc1436a28f3adfd220b0490905b517839"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser til lov 15. april 2016 nr. 2 om endringer i konkurranseloven

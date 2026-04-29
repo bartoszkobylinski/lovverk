@@ -15,8 +15,9 @@ xml_hash: "30572b82d30ba3294e200d4ce2ef8849f5caab504895dd18b9e74768479fb4ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven

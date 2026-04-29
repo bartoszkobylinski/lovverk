@@ -15,8 +15,9 @@ xml_hash: "0338b195ae3b0ca4cc2b84ea8219f40996bd7b7b97159a4319ac34e8eabb1430"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven)

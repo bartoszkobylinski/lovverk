@@ -15,8 +15,9 @@ xml_hash: "074531ed27492f085ef7a680f4055d176b2659ae53dcf8653030f0e9acef8b7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tidsfrist for krav om lovlighetskontroll.

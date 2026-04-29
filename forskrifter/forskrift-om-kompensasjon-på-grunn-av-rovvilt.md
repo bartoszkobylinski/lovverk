@@ -15,8 +15,9 @@ xml_hash: "1a5372e289790dfd8a88de2cb56c1ea8d8da61e7e035d235d7b3a67885e1432c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompensasjon ved restriksjoner i bruk av utmarksbeite på grunn av rovvilt

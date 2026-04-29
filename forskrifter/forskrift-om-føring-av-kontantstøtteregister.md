@@ -15,8 +15,9 @@ xml_hash: "f75ed922d62567185cb17adf1548efea4cb62a0a20d18cbbd4f3968cce8b8358"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte.

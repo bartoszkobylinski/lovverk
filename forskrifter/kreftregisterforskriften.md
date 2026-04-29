@@ -15,8 +15,9 @@ xml_hash: "5b066d0b52a4153bad40b851740b815e6fd986e706dea23337d9ba788b03e305"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innsamling og behandling av helseopplysninger i Kreftregisteret (Kreftregisterforskriften)

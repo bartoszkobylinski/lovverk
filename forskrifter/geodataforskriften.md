@@ -15,8 +15,9 @@ xml_hash: "4921529b4963c3209187ad48124e9ddbc6162418f209f7e0e1badd8cc0f76b90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om infrastruktur for geografisk informasjon (geodataforskriften)

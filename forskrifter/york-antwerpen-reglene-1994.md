@@ -15,8 +15,9 @@ xml_hash: "412fe1acf7cba5c4a56be7a1ced8e1ded32f152ca6a957dd6659a12dc679528c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av York-Antwerpen reglene 1994.

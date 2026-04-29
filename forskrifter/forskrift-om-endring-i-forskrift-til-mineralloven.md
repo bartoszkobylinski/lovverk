@@ -15,8 +15,9 @@ xml_hash: "666e32a967ef0bcd47b4851826d96496a9b96b39cd61024f67575a5d35739a2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift til mineralloven

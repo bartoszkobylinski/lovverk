@@ -15,8 +15,9 @@ xml_hash: "5b1556ef80a83bb612cc76b2def10b6d837f2abd80e8d90dc655fbcb351d94e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeid på kjøretøy (verkstedforskriften)

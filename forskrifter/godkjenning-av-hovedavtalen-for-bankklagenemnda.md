@@ -15,8 +15,9 @@ xml_hash: "898b9cb7fc9962f77bacb6cd0031b703cd62f7f67518a3324b5320fc6c7179a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Godkjenning av hovedavtalen for Bankklagenemnda.

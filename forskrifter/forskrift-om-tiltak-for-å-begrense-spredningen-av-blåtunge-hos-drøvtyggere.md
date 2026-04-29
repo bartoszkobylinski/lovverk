@@ -15,8 +15,9 @@ xml_hash: "29bcdb723e322df8cc5d928ea293f4f8a2dca33e828258b0d66663fdd2280963"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tiltak for å begrense spredningen av blåtunge hos drøvtyggere

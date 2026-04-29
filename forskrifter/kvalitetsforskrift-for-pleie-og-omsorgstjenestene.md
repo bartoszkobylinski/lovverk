@@ -15,8 +15,9 @@ xml_hash: "7f3d7769fc8f83d96d7ec08626643bf02d42467c02e669bc6426e82f68ff5aeb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvalitet i pleie- og omsorgstjenestene for tjenesteyting etter lov av 19. november 1982 nr. 66 om helsetjenesten i kommunene og etter lov av 13. desember 1991 nr. 81 om sosiale tjenester m.v.

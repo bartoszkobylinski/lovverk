@@ -15,8 +15,9 @@ xml_hash: "45c4457309915458a0d2696426ede01f2f9cda1ee642e3911b6bdb0f8a30223a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av lov 17. april 2009 nr. 19 om havner og farvann for elver og innsjøer som ikke er farbare med fartøy fra sjøen

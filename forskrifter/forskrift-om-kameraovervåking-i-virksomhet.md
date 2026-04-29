@@ -15,8 +15,9 @@ xml_hash: "fded735c26f7e758a5d6e6a1e9437fdf0bd6e13e59daad85033d87570a05d1ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kameraovervåking i virksomhet

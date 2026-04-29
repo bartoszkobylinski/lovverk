@@ -15,8 +15,9 @@ xml_hash: "52efe2a1413cc64e1f1684c5d6046390e6d2265f27f0948599a354917876d49b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om reaksjoner, sanksjoner med mer ved overtredelse av akvakulturloven

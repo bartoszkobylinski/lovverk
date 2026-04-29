@@ -15,8 +15,9 @@ xml_hash: "2abf3c1811c4084106966007da7ac9614773fe8d361ebe8a76afc97c95e430dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 18. desember 2020 nr. 146 om finansavtaler

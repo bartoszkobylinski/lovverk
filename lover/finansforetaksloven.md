@@ -15,8 +15,16 @@ xml_hash: "aa3b62f3ea09a45208f2f86a08edfbc48c3896800b3e57116611152566869bab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0138"
+  - "32013L0036"
+  - "32009L0110"
+  - "32015L2366"
+  - "32014L0059"
+  - "32017R2402"
+  - "32016L2341"
 ---
 
 # Lov om finansforetak og finanskonsern (finansforetaksloven)

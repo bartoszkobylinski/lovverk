@@ -15,8 +15,9 @@ xml_hash: "3dcfe22cbbff10e1fea649c5475ef5981520c7c50d76f7c95f30f9f93c53cbca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Klagenemnda for miljøinformasjon

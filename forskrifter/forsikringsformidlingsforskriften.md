@@ -15,8 +15,9 @@ xml_hash: "76cba002e11f5d03dd5cb82823db5db93d1a592759e1ea0f2214bcefd1a0f3e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forsikringsformidling (forsikringsformidlingsforskriften)

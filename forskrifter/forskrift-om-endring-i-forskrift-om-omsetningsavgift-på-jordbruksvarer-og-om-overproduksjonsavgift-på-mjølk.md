@@ -15,8 +15,9 @@ xml_hash: "5a15ba02cce6d315f5a385fe62d1479e5e0d59ae391a513fc96d7ce2c203a38c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk

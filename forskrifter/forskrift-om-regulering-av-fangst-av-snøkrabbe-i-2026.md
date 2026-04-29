@@ -15,8 +15,9 @@ xml_hash: "6cbe8b716b54f29d95a712fde4ac718998fe54beac356c382309f70f9b306ae0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fangst av snøkrabbe i 2026

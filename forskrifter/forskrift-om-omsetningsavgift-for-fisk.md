@@ -15,8 +15,9 @@ xml_hash: "87e5e846d2ad492e4b6cb5b42250dffffb0ea35ed76fe230b122f6be487ab62b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beregning og innbetaling av avgift på omsetning av fisk til pensjonstrygden for fiskere

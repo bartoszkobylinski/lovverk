@@ -15,8 +15,16 @@ xml_hash: "d5e91e25c81883d7e1d71aeea0d7f564d1bbf331cb5a01d6b44a6a2ad5cd1265"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32002D0676"
+  - "32002L0077"
+  - "32022R0612"
+  - "32018R1971"
+  - "32018L1972"
+  - "32002L0058"
+  - "32015R2120"
 ---
 
 # Lov om elektronisk kommunikasjon (ekomloven)

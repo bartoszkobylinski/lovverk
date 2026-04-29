@@ -16,8 +16,9 @@ xml_hash: "902b3ca571305bd6ebbad727af7b14486a6c8da7f582c98fada0efb3962c1614"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til tiltak i Utvalgte kulturlandskap i jordbruket og verdensarvområdene Vegaøyan, Vestnorsk fjordlandskap og Røros bergstad og Circumferensen (forskrift om tilskudd til tiltak i Utvalgte kulturlandskap i jordbruket og verdensarvområder)

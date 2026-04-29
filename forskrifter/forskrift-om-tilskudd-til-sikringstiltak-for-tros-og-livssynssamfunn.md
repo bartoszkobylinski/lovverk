@@ -15,8 +15,9 @@ xml_hash: "65dd4c4b87a57f32f28f043653f63a416c92ff774254c55c4fad660c27a16db2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til sikringstiltak for tros- og livssynssamfunn

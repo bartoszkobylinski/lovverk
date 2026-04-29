@@ -15,8 +15,9 @@ xml_hash: "7476166ccdc14fb28862b7e7454ba874cd9568ae19d3a2c2c0c87ab7811ec14b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsreglar ved ikraftsetjing av lov 2. juli 2004 nr. 63 om endringer i lov 20. desember 1996 nr. 106 om tomtefeste mv.

@@ -15,8 +15,9 @@ xml_hash: "ce6a4daf0c4274b80a1d7b11abbc19def6506b039ad3f9249b119206e58029f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter kveite nord for 62° N i 2025

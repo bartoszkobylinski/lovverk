@@ -15,8 +15,9 @@ xml_hash: "6cb1f1558a482f35a25f77a90f03175bef381c08fb2b173d220c2c863fce48b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift til merverdiavgiftsloven

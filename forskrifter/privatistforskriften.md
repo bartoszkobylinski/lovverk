@@ -15,8 +15,9 @@ xml_hash: "4573e5c77bc9cc15a2c4229a29d0964ec05f8f5bf7d72e8eb27c6fc192371084"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rett til eksamen som privatist ved Universitetet i Stavanger (privatistforskriften)

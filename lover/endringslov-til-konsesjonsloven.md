@@ -15,8 +15,9 @@ xml_hash: "4b96fcab4160c28564037d65abede0ec5a6f4e978475e453cbacf30820d4a52d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i konsesjonsloven (priskontroll på skogeiendommer, konsesjon til selskaper med begrenset ansvar og stiftelser m.m.)

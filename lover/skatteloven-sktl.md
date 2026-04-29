@@ -15,8 +15,9 @@ xml_hash: "a2895955323746e1385171f00906f417e178d488006a90c1562e52c04091c22a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om skatt av formue og inntekt (skatteloven)

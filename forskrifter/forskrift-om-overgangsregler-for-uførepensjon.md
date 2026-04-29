@@ -15,8 +15,9 @@ xml_hash: "e4c9aa1d525e09b7ecf64f7b397009b2b294ccdd3d73b40952ea2c42c334be2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for uførepensjon fra lovfestet offentlig tjenestepensjonsordning som er innvilget med virkningstidspunkt før 1. januar 2015

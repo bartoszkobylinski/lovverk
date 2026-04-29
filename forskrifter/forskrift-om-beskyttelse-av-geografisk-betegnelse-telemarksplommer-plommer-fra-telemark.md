@@ -15,8 +15,9 @@ xml_hash: "c48d92eae5fb270c3f700fde4e13ed04854cc1b9c43c379b0c90807aa4dc67dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av Telemarksplommer/Plommer fra Telemark som geografisk betegnelse

@@ -15,8 +15,9 @@ xml_hash: "01a712f31cf49cb30a33853a7ac6981af6879dd041d3eaf8a8a92da48f26cb2a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring og håndheving av EFTA-konvensjonen av 21. juni 2001, på luftfartens område.

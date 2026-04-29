@@ -15,8 +15,9 @@ xml_hash: "f7af959ca9fcde2d90eb7c872ab2b1054d692010b146c7132e2f87e6c502e7f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rett til å arbeide som dyrehelsepersonell eller seminpersonell etter EØS-avtalen mv.

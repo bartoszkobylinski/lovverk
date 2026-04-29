@@ -15,8 +15,9 @@ xml_hash: "4fad72341fde603da369d9baa77a534c1f252c826ab6141533bf23264dd259a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser (høstingsforskriften)

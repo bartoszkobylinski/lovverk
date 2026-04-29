@@ -15,8 +15,9 @@ xml_hash: "af0e3b23a0fd32ab17ba11cd8076f84723aebd27bedc150b14e38d6fe49a1753"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om tilskudd til kornkjøpere – tilbud om utsatt leveranse av korn til markedsregulator mot kompensasjon

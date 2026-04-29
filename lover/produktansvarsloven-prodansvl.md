@@ -15,8 +15,10 @@ xml_hash: "576f7653d13d86c014412cfdb2ca9cdf9280f7d217dfbc0b3a7af0849f172a77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31985L0374"
 ---
 
 # Lov om produktansvar [produktansvarsloven]

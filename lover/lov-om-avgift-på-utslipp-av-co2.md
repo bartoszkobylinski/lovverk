@@ -15,8 +15,9 @@ xml_hash: "b149021b9aaf93f87d3a6fc79d7507b4ffdcd43afba691967172716bca5a83ad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen

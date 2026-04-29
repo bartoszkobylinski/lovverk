@@ -15,8 +15,9 @@ xml_hash: "5fda30c15f5c895ed9bd23e2b4ff86766928f81fac7e4da3e59b911c837a756c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om område med forbud mot oppankring og fiske på Nornefeltet.

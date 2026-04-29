@@ -15,8 +15,9 @@ xml_hash: "f0e20bb5ea8954f9c67446f0b2357ebcb65d12e4a66a2f540b71ff4be4565606"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvalitet og sikkerhet for humane organer beregnet for transplantasjon (forskrift om humane organer til transplantasjon)

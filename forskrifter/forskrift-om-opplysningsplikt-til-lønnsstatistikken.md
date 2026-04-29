@@ -15,8 +15,9 @@ xml_hash: "87b5bf275f7ea2f86301eb8127ba203e46ccf256b68ced57e928023c3b35b8d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)

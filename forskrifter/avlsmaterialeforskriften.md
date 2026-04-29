@@ -15,8 +15,9 @@ xml_hash: "ffec3508810ddb3fb23b32e944bdd862feb30c73ef56910cebee0a0c4132cfaa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift som utfyller dyrehelseforskriften med bestemmelser om avlsmateriale fra holdte landdyr (avlsmaterialeforskriften)

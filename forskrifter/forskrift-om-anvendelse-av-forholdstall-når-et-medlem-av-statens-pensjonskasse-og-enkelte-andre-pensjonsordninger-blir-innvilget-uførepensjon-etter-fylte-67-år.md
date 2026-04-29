@@ -15,8 +15,9 @@ xml_hash: "2b9a77945fc3077f5bd7d9d5917d4a8f6253225568be7c3347ff603840aec0d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av forholdstall når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger blir innvilget uførepensjon etter fylte 67 år

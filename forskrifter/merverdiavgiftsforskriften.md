@@ -15,8 +15,9 @@ xml_hash: "4120292467239c6c1aa771b6cf4fd114f0c2386d490c60db91c258b6bcaef2c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til merverdiavgiftsloven (merverdiavgiftsforskriften)

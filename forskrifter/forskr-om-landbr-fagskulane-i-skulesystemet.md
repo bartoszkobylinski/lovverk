@@ -15,8 +15,9 @@ xml_hash: "76c41bb52af2a1c694c9f997e6f1d67964b95479498fd9ffbbc58a0103b5fea2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring av landbruksfagskulane sin struktur og plass i skulesystemet – unntak frå lov om fagskulane i landbruket.

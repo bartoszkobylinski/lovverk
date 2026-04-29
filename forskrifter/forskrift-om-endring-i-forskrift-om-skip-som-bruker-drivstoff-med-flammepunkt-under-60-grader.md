@@ -15,8 +15,9 @@ xml_hash: "7409ac66783fec00b1dacc632bdb15208276033cca7e323c74b68e9dee51ddae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om skip som bruker drivstoff med flammepunkt under 60 grader

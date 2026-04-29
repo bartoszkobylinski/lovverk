@@ -15,8 +15,9 @@ xml_hash: "be3a33d7dfa89f0b07b11cca722ed7d1053eb8976203c490ec970bb16891746f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stopp i fangst av snøkrabbe i 2025

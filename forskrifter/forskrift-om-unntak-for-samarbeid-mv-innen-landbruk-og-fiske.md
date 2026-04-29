@@ -15,8 +15,9 @@ xml_hash: "5a96659dba46e9ea90a728d3effad17144cb56b405bb95980d68648049c82559"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak for samarbeid mv. innen landbruk og fiske.

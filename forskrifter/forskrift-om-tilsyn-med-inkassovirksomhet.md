@@ -15,8 +15,9 @@ xml_hash: "46354db258c9291a584ad9daba58139b504fcfb3d8722961689291672643ff20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om plikt for innehavere av inkassobevillinger til å holde tilsynsmyndigheten for inkassovirksomhet orientert om den inkassovirksomheten som drives i medhold av bevillingen

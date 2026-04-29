@@ -15,8 +15,9 @@ xml_hash: "b529a16d7e2ffa91c776e61c434383be570bdb82e46855e7a9e852b61b86cbb9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)

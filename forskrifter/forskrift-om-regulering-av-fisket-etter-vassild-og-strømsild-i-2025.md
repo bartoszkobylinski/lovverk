@@ -15,8 +15,9 @@ xml_hash: "01efff4a078ee5de647620296e954b269e0b2ef79fad3f26fe3bb714b417b5a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter vassild og strømsild i 2025

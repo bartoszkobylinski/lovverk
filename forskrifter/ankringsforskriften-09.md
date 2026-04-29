@@ -15,8 +15,9 @@ xml_hash: "c0613df090628ae43b32a58e2e618ab70c15712dae4bb5cdc4478cd0c57ff5e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om posisjonerings- og ankringssystemer på flyttbare innretninger (ankringsforskriften 09)

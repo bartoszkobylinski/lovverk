@@ -15,8 +15,9 @@ xml_hash: "05dd51a44aa0894122afdb8f8c381b0821e780de289dba17a0d79204cd48ef88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om legers og veterinæreres levering av legemidler m.v. mot betaling

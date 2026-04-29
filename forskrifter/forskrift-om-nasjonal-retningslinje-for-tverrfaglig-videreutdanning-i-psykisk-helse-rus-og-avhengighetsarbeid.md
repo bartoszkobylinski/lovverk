@@ -15,8 +15,9 @@ xml_hash: "155a59fd7e32f0d1a458a9ee9c00c237aa53f88b8b902ae6424307460f23bfff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for tverrfaglig videreutdanning i psykisk helse-, rus- og avhengighetsarbeid

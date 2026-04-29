@@ -15,8 +15,9 @@ xml_hash: "35dad370bce256351c5650926cff4f6b9990528c9c5568e52b35eb0872877d30"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om omforente områder etter lov om gjennomføring av tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021

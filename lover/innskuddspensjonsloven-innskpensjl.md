@@ -15,8 +15,9 @@ xml_hash: "f67adc9916bb41f325d153d412a0d60127411460fe5b4494a5c15b5a7b6d0439"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven)

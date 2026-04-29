@@ -15,8 +15,9 @@ xml_hash: "edc8f7d86e3d1b75aa611686284bb35d616da914f4bd1fd9b1af0f67382899d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter hyse i fiskevernsonen ved Svalbard i 2026

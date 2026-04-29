@@ -15,8 +15,9 @@ xml_hash: "b674d6a908c152ce1b0195be2a44b064cad33a65e5a241db6689ed88681a7c98"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høyere yrkesfaglig utdanning ved Norges Fagakademi

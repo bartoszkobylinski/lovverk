@@ -15,8 +15,9 @@ xml_hash: "47018f147dca9b1a05bbf6cc0b0f45958f809c1a32d85faa9ca6d65dcc09d8f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ettergjeving.

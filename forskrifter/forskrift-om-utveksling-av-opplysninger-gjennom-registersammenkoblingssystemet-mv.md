@@ -15,8 +15,9 @@ xml_hash: "a9f9565c0bc2c92fae9fa21402751d96db10b55792b538a2660bc105fa298194"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utveksling av opplysninger gjennom registersammenkoblingssystemet (BRIS) mv.

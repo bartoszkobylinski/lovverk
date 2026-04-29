@@ -15,8 +15,9 @@ xml_hash: "62c0da78fabc2cc67501e12af5a9b9a5f799a2b298dcecd79ee7f96b59b1297c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kvalitetsnorm for villrein (*Rangifer tarandus*)

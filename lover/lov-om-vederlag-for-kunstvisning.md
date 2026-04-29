@@ -15,8 +15,9 @@ xml_hash: "4120640cd4acf3d15204b9be6b2e1d7fa87f0156dd58f88edeb9d89b9d846993"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om vederlag for visning av billedkunst og kunsthåndverk m.v.

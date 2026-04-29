@@ -15,8 +15,9 @@ xml_hash: "ff66230d3b482c6a2f287c748779f1bb10b0618b6db11418d2ab43eb2ccca4bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om videreføring av beregning av krav til stabil finansiering (NSFR) i forordning (EU) 575/2013 (CRR)

@@ -15,8 +15,9 @@ xml_hash: "6c65e92a7645ac1f292f611977be5eab24106d594ff8dc5bac95aff32b05cec2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avskrivning av statens krav etter lønnsgarantiordningen

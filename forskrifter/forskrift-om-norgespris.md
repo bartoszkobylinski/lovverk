@@ -15,8 +15,9 @@ xml_hash: "b67405dc600e7eb19c7cd35311ba1f1a0dc4b8f68aa7b01963d5f7bf6a4f07e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Norgespris

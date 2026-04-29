@@ -15,8 +15,9 @@ xml_hash: "428a96f59123b5ca1d7901a8cd553e027db13a94f5b934b54ff38d39af3a8ec6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om godtroerverv av løsøre [godtroervervloven]

@@ -15,8 +15,9 @@ xml_hash: "20d6c623fe6082dedb7fdbe4f11bdedf658daa4c6f571bec44c0f48ad8e64426"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om vernepliktige sivilarbeidere.

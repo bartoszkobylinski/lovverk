@@ -15,8 +15,9 @@ xml_hash: "78f2777096c0ac9cd370b62ee4e89d74e0eb9f210fb167171848dbc4e3a75c2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innleie fra bemanningsforetak

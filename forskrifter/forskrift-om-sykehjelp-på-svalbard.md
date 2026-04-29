@@ -15,8 +15,9 @@ xml_hash: "589c4b928611a21afd1160f019d716d76fa561da136fcfafab64c01706313d78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidsgivers plikt til å yte sykehjelp m.v. etter bergverksordningen for Svalbard til arbeidstakere som er trygdet etter folketrygdloven med rett til ytelser etter lovens kap. 2 og 3.

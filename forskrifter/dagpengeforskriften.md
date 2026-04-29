@@ -15,8 +15,9 @@ xml_hash: "933ac4b5dff2888795caefb7af4a6a22556df2040bb3d603d10acce625e3a006"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om dagpenger under arbeidsløshet

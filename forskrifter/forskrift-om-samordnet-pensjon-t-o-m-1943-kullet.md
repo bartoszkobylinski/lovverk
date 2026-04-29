@@ -15,8 +15,9 @@ xml_hash: "93304632541b86106d84c880c57edda27db9f0ed5828da1ba722dce7ae4c7a1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet

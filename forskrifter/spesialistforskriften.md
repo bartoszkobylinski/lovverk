@@ -15,8 +15,9 @@ xml_hash: "7bfb86417b2f9840e0291deba0263e242437363869223e9d5b9fe35d137279ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)

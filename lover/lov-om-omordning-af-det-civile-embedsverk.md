@@ -15,8 +15,9 @@ xml_hash: "51fdaf399713ec4a9fecb08f8e10de4c26a8dd3d07c2831188454cbb329d26a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om delvis Omordning af det civile Embedsværk

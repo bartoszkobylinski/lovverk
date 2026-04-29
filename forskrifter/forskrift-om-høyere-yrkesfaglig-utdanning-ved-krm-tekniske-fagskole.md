@@ -15,8 +15,9 @@ xml_hash: "d17aaf1fcebbd703febfc67eebd68178f5e6344a3b1e5a0e5b99d61672f2c88f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høyere yrkesfaglig utdanning ved KRM Tekniske Fagskole

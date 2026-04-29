@@ -15,8 +15,9 @@ xml_hash: "c34de57d931284e916df5af60693f8c2e5fe5a91c462d3abd258b1d517c12d5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om åpenhet om eierskap i medier

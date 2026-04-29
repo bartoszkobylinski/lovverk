@@ -15,8 +15,9 @@ xml_hash: "b0facc2bae10462e816b47ca24dc1e240e4e71b8edc7993c774af02b1c4fb254"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig lov om tillegg til merverdiavgiftsloven

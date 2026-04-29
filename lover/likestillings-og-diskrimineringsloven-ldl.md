@@ -15,8 +15,16 @@ xml_hash: "b3a1a07f7d996d4d8c3c98d3a4f66d8297253754fd4f36c81b905e1a6654703b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31992L0085"
+  - "31979L0007"
+  - "32010L0041"
+  - "32006L0054"
+  - "32004L0113"
+  - "32010L0018"
+  - "32016L2102"
 ---
 
 # Lov om likestilling og forbud mot diskriminering (likestillings- og diskrimineringsloven)

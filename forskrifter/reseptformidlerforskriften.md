@@ -15,8 +15,9 @@ xml_hash: "88083590ac30e4122033b67106fb9e35ad88d555cd67c03578277ce0d373a3d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)

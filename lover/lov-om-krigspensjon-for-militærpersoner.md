@@ -15,8 +15,9 @@ xml_hash: "bf09c1030a5dee3f7c9eb3fda04fd2f1c4e0c2864efde74e5c96c37afa315d37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om krigspensjonering for militærpersoner

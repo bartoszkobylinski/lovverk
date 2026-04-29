@@ -15,8 +15,9 @@ xml_hash: "af4c3f4fbbaf1297fa92c2e9626c2232c775d65fc9a7268a1f73760313f70624"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, disiplinære sanksjoner, klagebestemmelser og eksamen ved fagskolen Norsk Fjellfagskole AS

@@ -15,8 +15,9 @@ xml_hash: "106f5592d2d65f4964309ffdcdde9853601bdedf1fe44631d55d6e6bd724ba5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Kommisjonens gjennomføringsforordning (EU) 2021/1042 om regler for anvendelsen av Europaparlaments- og Rådsdirektiv (EU) 2017/1132 for det som angår tekniske spesifikasjoner og fremgangsmåte for registersammenkoblingssystemet og om opphevelse av Kommisjonens gjennomføringsforordning (EU) 2020/2244

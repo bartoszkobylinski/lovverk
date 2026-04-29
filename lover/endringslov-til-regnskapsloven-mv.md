@@ -15,8 +15,10 @@ xml_hash: "8d56d8027a66ea5a6b9b4f2a6331d07e92efb5fac03b955cd417fc6fadefdf40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32022L2464"
 ---
 
 # Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)

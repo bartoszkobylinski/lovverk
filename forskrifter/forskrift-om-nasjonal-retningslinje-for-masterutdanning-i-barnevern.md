@@ -15,8 +15,9 @@ xml_hash: "50bfe16cc745e9010e11d9413bb8b49128889ded4d45fdbc2c5e33c87762f501"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for masterutdanning i barnevern

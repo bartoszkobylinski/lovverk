@@ -15,8 +15,9 @@ xml_hash: "b5b0115426afe5b563b6a01fe080105812d95c2dd48582e5dbb6ce0dbdda8917"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om priskompensasjon ved innenlands produksjon av skilleprodukter av egg

@@ -15,8 +15,9 @@ xml_hash: "e8d79e466c20c1040c9b357c7041f306dfc439a8f7f29b542a7de56e2bc3a7c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 11. april 2014 nr. 12 om endringer i finansieringsvirksomhetsloven og eiendomsmeglingsloven mv. (klagenemndbehandling, oppgjør av eiendomshandler mv.)

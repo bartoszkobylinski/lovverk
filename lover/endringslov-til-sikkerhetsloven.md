@@ -15,8 +15,9 @@ xml_hash: "5a1c6b2118eb3c87fe1fa0edb0265f51de36b854568fd04ae609ad649c7379bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)

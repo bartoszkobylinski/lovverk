@@ -15,8 +15,9 @@ xml_hash: "5d9f08fa6c952cdce515df18e3bb4f685a82148d6a605492bbfc1051431c031c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om definisjon og bruk av kompatible tekniske spesifikasjonar og vedtekne Eurocontrol-standardar for innkjøp av utstyr og system til styring av lufttrafikken og framgangsmåtar, arbeidsreglar og bruk av ressursar i lufttrafikken.

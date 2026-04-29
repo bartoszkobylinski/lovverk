@@ -15,8 +15,9 @@ xml_hash: "984f583839abeebc49cc85a8c2125d857f4faf32ab7ce44c6bde36fad16dc400"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør

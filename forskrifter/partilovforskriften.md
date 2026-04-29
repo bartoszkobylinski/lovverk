@@ -15,8 +15,9 @@ xml_hash: "bd2cf032b9a05030ba4772d6308d0b7a5bd1d1e201acb8c6cf8b1b6311987523"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om visse forhold vedrørende de politiske partiene (partilovforskriften)

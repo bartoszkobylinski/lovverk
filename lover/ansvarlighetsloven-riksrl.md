@@ -15,8 +15,9 @@ xml_hash: "5c61e6ec5a7ba2d65475c75e1f7ddfdc0b49688c670024cebc36b38773944cab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]

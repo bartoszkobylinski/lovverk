@@ -15,8 +15,9 @@ xml_hash: "a108fc45aa91bd5cb34f2fe48568ac4483726eed4dc3bc19a0f0e5e64888c2ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til automatiske gravimetriske fyllemaskiner

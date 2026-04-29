@@ -15,8 +15,9 @@ xml_hash: "d2085b5f0c275dd17e1b1db279f700080d2c31d24a048bb95339678b0a40d998"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om arbeidsmarkedstjenester (arbeidsmarkedsloven)

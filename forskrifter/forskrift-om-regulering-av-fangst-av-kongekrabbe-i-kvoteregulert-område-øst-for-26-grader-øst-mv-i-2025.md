@@ -15,8 +15,9 @@ xml_hash: "e793e27c7ffce330a8bfca991d2a8e701662ec1483729d695f4c2870a3a5c6e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fangst av kongekrabbe i kvoteregulert område øst for 26 grader øst mv. i 2025

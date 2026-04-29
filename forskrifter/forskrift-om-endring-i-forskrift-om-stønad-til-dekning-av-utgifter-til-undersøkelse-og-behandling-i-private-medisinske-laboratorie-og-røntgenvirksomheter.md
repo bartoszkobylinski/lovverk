@@ -15,8 +15,9 @@ xml_hash: "132999ee6c9a66a3f0c9b93009eeb4bce109d30f96f694a78da33f65aedb35fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling i private medisinske laboratorie og røntgenvirksomheter

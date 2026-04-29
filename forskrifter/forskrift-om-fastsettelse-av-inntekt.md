@@ -15,8 +15,9 @@ xml_hash: "8c54e057fac2ea8646eb3d9f4694efe33e1d38230fc6a2643de9c42f6f0c45db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Arbeids- og velferdsetatens kompetanse til å fastsette pensjonsgivende inntekt

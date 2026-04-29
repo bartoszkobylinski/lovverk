@@ -15,8 +15,9 @@ xml_hash: "3d6376122d86af3964ef7a2c8e9a0e8b23e5f4b11c7cc5ac6d5ef07ef6e59d71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kjøttråvarer og kjøttprodukter.

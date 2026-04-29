@@ -15,8 +15,9 @@ xml_hash: "d4fe735ef3a705b5d4d061527b1c588076f9651961857e3fd2007553831bae8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rød skogfrue (Cephalanthera rubra) som prioritert art

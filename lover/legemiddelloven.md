@@ -15,8 +15,10 @@ xml_hash: "cb00137f109a4518084195f0642861ebce33eaac688af340b96b4cc4ebb08a3a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019R0006"
 ---
 
 # Lov om legemidler m.v. (legemiddelloven)

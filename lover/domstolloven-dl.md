@@ -15,8 +15,9 @@ xml_hash: "ccb1bd44415522e3db45df43b2f3371d994625acf14b10459b13fefeece45a6b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om domstolene (domstolloven)

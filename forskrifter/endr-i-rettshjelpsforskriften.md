@@ -15,8 +15,9 @@ xml_hash: "0338266b79f9fc0dee665522a13988cf2711c7e5557b8cb5956f0dabc7d0d580"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i rettshjelpsforskriften

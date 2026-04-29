@@ -15,8 +15,9 @@ xml_hash: "3a80b6259c9539608d2b4cb809c74222f8d84f513348c2f21721790a60bbd2db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering av fartøy som skal delta i fiske etter reker i fiskevernsonen ved Svalbard, i Svalbards territorialfarvann og indre farvann.

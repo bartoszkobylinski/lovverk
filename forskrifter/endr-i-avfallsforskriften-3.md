@@ -15,8 +15,9 @@ xml_hash: "b05013862ebe38b7b32e250f978ed5022bdba1f6d606d57759d5644f8e9faf92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift endring i forskrift om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 1, 4, 5, 6, 7, 7A og 14

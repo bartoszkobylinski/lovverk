@@ -15,8 +15,9 @@ xml_hash: "e316c6a727ed6b8a57f9ee943036c8d117c15c4057113b7458ddac8ed9727959"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunale og fylkeskommunale viltfond og fellingsavgift for elg og hjort

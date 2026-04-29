@@ -15,8 +15,9 @@ xml_hash: "e6a2b22cd57775b37f2bb7aeabbfbd2c3dc006ea879e1ec01f2bff49df77e811"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Søndre Østfold tingrett

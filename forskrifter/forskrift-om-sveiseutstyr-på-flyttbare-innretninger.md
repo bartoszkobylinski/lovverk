@@ -15,8 +15,9 @@ xml_hash: "43e1b2489172945eb6a2a3a788c6bbc87936c84b018874fe90d46e235c66c1d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sveiseutstyr mv. for sveisegassene acetylen og oksygen på flyttbare innretninger

@@ -15,8 +15,9 @@ xml_hash: "db656d96d73cb93e0289263fc574e95e5ba26ea7b2a6c28668c61dd4eae7eca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til studentboliger

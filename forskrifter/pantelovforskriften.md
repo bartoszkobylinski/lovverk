@@ -15,8 +15,9 @@ xml_hash: "826c280b8e2c7239624d6f8d4a6bb2eb2a86972516f6e9749b71687cf85a7200"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om pant (pantelovforskriften).

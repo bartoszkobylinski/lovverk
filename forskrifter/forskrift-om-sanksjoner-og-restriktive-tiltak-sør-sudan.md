@@ -15,8 +15,9 @@ xml_hash: "807f1e19f57738777330db078b6795ed1a63e5bb377528dd20348399a2650421"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sanksjoner og restriktive tiltak i lys av situasjonen i Sør-Sudan

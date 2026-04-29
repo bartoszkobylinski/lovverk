@@ -15,8 +15,9 @@ xml_hash: "7407c7c56ec39d7a49eabb26df1a00e2b2268262f4b479e814bdb4616a57b3ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om insentivordning for ny dramatikk

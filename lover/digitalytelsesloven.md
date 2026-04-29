@@ -15,8 +15,10 @@ xml_hash: "02b7fde152a33283eee921052376f257e77b394e191ac02529d95edea1c5a2f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019L0770"
 ---
 
 # Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven)

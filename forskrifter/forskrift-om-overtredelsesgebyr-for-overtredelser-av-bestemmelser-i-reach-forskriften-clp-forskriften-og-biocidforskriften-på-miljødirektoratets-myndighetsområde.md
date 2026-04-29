@@ -15,8 +15,9 @@ xml_hash: "e08f3428d28fabca2ac8302017bd94e8e33185d827e3f78f482373bf6171b77a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overtredelsesgebyr for overtredelser av bestemmelser i REACH-forskriften, CLP-forskriften og biocidforskriften på Miljødirektoratets myndighetsområde

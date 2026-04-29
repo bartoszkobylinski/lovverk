@@ -15,8 +15,9 @@ xml_hash: "0ef6fc83de4482213f468bde984c0b74034a03760fe5a70084d4fd495c979f4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) nr. 1305/2014 om den tekniske spesifikasjonen for samtrafikkevnen med hensyn til delsystemet «Telematikkprogrammer for godstrafikk» i Den europeiske unions jernbanesystem, og om oppheving av forordning (EF) nr. 62/2006, og gjennomføring av forordning (EU) 2018/278 og forordning (EU) 2019/778 (TSI TAF-forskriften)

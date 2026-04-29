@@ -15,8 +15,9 @@ xml_hash: "af80b18329fb9a0f089b967bfd6fdc4bcd6bcb17259d60b15b80a00646d5f031"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om utbetaling av ytelser etter lov om yrkesskadetrygd under opphold i helseinstitusjon m.v.

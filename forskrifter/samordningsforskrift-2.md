@@ -15,8 +15,9 @@ xml_hash: "e2b3a054db8c400d8f6f404a66e84d6a36cc405ac94a30c0dc7be26e43a5436f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordningslovens omfang (samordningsforskrift 2)

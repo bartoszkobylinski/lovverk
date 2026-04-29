@@ -15,8 +15,9 @@ xml_hash: "72b6650cdc4a0885d6e408f38bd56524f97691b9d1e8174a7a6fe0f264d6da92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fosterhjem

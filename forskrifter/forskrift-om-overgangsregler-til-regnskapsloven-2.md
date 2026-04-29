@@ -15,8 +15,9 @@ xml_hash: "c1cdea349e7314e08038b5139e222d5e23268f91170c0ed831e4a0ba530c9540"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 19. april 2013 nr. 15 om endringer i regnskapsloven og enkelte andre lover

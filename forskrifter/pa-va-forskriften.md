@@ -15,8 +15,9 @@ xml_hash: "9d6854936cc9f670c26c95bb98e3ef039b1d07cabe2b420ecc46912e4f480e00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2018/545 av 4. april 2018 om praktiske ordninger for tillatelsesprosessen for jernbanekjøretøy og kjøretøytyper i henhold til direktiv (EU) 2016/797, og gjennomføring av forordning (EU) 2020/781 (PA VA-forskriften)

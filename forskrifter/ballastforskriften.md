@@ -15,8 +15,9 @@ xml_hash: "6e9279c969ad40e2f3a2c14d396f688a5023acf5a39ee2d94af1166fa2981d02"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ballastsystem på flyttbare innretninger (ballastforskriften)

@@ -15,8 +15,9 @@ xml_hash: "975874c107baadc81b8addc4243e7250cdc457f44ad171adce0ceb1e6731b0be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om utfylling av regnskapsloven

@@ -15,8 +15,9 @@ xml_hash: "787dd56385f4cfac1f7b6671e2751b560e3b28e425c2765e79a8bf25e0bf6670"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om grensetilsyn og grensekontroll av personer (grenseloven)

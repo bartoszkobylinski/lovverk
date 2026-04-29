@@ -16,8 +16,9 @@ xml_hash: "b6df3bbad2be6aa8ef8cbde8dd811bf576b5d062877194d800e94b015e3514f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer (teknisk og operasjonell forskrift)

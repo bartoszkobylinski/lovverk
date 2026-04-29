@@ -15,8 +15,9 @@ xml_hash: "ebde9ca403d1f08300f0e615517d16b8cbf537474155e7870dd793846e175e4b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til Nasjonale turiststier

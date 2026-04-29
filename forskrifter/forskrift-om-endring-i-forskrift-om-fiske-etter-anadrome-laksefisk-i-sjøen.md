@@ -15,8 +15,9 @@ xml_hash: "cd5a255b75bfe7ebc656c2a307209aa7b0284915b3aadd87b3c3586a594dce57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen

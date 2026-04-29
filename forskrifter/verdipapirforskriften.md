@@ -15,8 +15,9 @@ xml_hash: "9f0f11698743ff5a5587d66f6370bdd7fc7500b45083f1c7d480adb130bea227"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til verdipapirhandelloven (verdipapirforskriften)

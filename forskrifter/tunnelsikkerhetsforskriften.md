@@ -15,8 +15,9 @@ xml_hash: "acf0151e9e61e08a1773b0b0606e259267710723f489ebb79d64948724bda394"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om minimum sikkerhetskrav til visse vegtunneler (tunnelsikkerhetsforskriften)

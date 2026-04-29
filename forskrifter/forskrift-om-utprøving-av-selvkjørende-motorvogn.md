@@ -15,8 +15,9 @@ xml_hash: "f0d5ab1a971ed9f68522afd42deb2f5cbafe1330e870bd71c966ff7ef1505063"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utprøving av selvkjørende motorvogn

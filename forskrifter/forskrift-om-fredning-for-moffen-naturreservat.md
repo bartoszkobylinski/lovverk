@@ -15,8 +15,9 @@ xml_hash: "1b9e71888464a35885812e136c0ab2fb2a4fbc37f00f3114eacb438c73a6bbfc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fredning for Moffen naturreservat på Svalbard

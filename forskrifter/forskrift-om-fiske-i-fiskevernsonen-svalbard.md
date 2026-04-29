@@ -15,8 +15,9 @@ xml_hash: "74583a90e7cd00801d67d8ff8639644fbb7d219e1a44bffb1481cb09f75ae210"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i fiskevernsonen ved Svalbard

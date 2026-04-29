@@ -17,8 +17,9 @@ xml_hash: "e6ceb41254665a4cb822451f8c9e53cea36eca2ccb330b913ff257e7eb0a42a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra kravene om kontroll av økologiske produkter ved en grensekontrollstasjon

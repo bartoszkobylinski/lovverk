@@ -15,8 +15,9 @@ xml_hash: "e0a5a9812d4f3747b4bfded41982d12229eb8d93ba505822db30b8b5b68e0296"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av kommisjonsforordning (EU) nr. 1300/2014 av 18. november 2014 om de tekniske spesifikasjonene for samtrafikkevne med hensyn til tilgjengelighet til Unionens jernbanesystem for funksjonshemmede og bevegelseshemmede personer (TSI PRM-forskriften)

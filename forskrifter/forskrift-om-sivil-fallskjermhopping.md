@@ -15,8 +15,9 @@ xml_hash: "0a4e1627b0005617f56da935fc09a1fe9d86766c8690ada7b4cce51a1d5d0d77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sivil fallskjermhopping (BSL D 4-2).

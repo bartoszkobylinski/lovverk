@@ -15,8 +15,9 @@ xml_hash: "6ace720452386a49268eeb452193386a56d4ec74ec1b2ca95b58aa0c2c0e3df5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om passasjerskip i norsk internasjonalt skipsregister (NIS)

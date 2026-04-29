@@ -15,8 +15,9 @@ xml_hash: "d1277ea58aa11c623110663490e7729f35b9c2b0ec921596b1ebcce31a4c57c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordningsgaranti ved innføring av etterlattereformen i folketrygden fra 1. januar 2024

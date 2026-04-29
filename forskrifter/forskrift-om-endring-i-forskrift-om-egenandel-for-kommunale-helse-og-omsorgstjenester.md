@@ -15,8 +15,9 @@ xml_hash: "d22d7ff5f5e2f3672978c2bca8468c8a38cce50d8cfe711bb4b387ac7e8bb4a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om egenandel for kommunale helse- og omsorgstjenester

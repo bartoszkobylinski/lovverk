@@ -15,8 +15,9 @@ xml_hash: "3b7be898e22d79a0db4b5180b4479e760f480c4b709b4eb321ea3277fe85261b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Lovdatas lov- og forskriftsdatabaser.

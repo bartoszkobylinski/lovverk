@@ -15,8 +15,9 @@ xml_hash: "c6d9d4abdd89d3aa908529adceb45af0648d6d4e8a22de213170d085614ff20e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rammer for delegering mellom stat og kommune om oppgaveutførelsen i de felles lokale kontorene i arbeids- og velferdsforvaltningen.

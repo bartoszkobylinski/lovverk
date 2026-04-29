@@ -15,8 +15,9 @@ xml_hash: "c18e209d53e3622c0ab8fde57c73bf78eca8294b985e4920101138816149fb4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om risikoanalyse for flyttbare innretninger

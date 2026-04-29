@@ -15,8 +15,9 @@ xml_hash: "07abe9fa042e1fef784cf638b5e27e47c3bb40d39ca1a526fbf38e9cb17dc7a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bruk av elektrisk strøm ved trening av hund

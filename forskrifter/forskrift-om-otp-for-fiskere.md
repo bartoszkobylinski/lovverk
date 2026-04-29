@@ -15,8 +15,9 @@ xml_hash: "5ed9c78e7e8f4d84b82e08ba60baa3d9c5104c1071c4cbe75406417c39eb7d50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av godtgjørelse til fiskere i forhold til lov om obligatorisk tjenestepensjon.

@@ -15,8 +15,9 @@ xml_hash: "8e140b278e775c6ee261bc542d1940e2d9c44960139b4a9fd54e2181f3e6e5ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om spesialtransport på riks-, fylkes- og kommunale veger (veglister spesialtransport)

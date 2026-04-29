@@ -15,8 +15,9 @@ xml_hash: "e4f5ed0d99fb0768436515147f3004693992d6eee98c0174e568d5b8381e2cac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontroll av rutegående roro- og hurtiggående passasjerskip

@@ -16,8 +16,9 @@ xml_hash: "c22f948970cc361cde0ed3b797cc89e1db7e38c65d5dac7a658bc32e6b50a3c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav for å beskytte fiske-, dyre- og plantehelse i forbindelse med militærøvelse Cold Response 2026 (Cold Response-soneforskrift)

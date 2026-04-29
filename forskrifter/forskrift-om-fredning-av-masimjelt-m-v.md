@@ -15,8 +15,9 @@ xml_hash: "3406addfa09982c6a50a9e63e97f82250f57ee4b6b02b99befcb4ca4dd7d3b25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fredning av Masimjelt (Oxytropis deflexa) og Purpurkarse (Braya purpurascens). Delegering av myndighet.

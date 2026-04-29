@@ -15,8 +15,9 @@ xml_hash: "e16c2a7d65e8953e4e10f8b89416d34696f490c177a58e60f5009600bd5e00b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring i norsk rett av EØS-avtalens vedlegg IV som retter seg mot private rettssubjekter (rådsdirektiv 76/491/EØF og 90/377/EØF) med hjemmel i lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 57 annet punktum.

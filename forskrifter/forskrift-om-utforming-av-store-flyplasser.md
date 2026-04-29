@@ -15,8 +15,9 @@ xml_hash: "cfe0b3a2e631c52033c6e3077afd2849e9003d03c4680c6e3fc8f1a0d8ecb87b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utforming av store flyplasser (BSL E 3-2)

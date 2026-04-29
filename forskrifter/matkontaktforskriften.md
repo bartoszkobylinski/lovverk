@@ -15,8 +15,9 @@ xml_hash: "3efbab7388a3fc16687ee9afde4aad05f3bb59a71300568ae9760cb71af38aae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften)

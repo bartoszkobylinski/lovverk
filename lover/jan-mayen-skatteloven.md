@@ -15,8 +15,9 @@ xml_hash: "14312cfdd3085a071577c58ecba6422d2383550bd15238d5ee629b6f7c74fdf4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skatteloven)

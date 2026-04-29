@@ -15,8 +15,9 @@ xml_hash: "ec318be69c08da8b3e9ae55db9299a88376d4bb4886e69314b39f43c56e7799b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei

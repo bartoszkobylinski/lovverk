@@ -15,8 +15,9 @@ xml_hash: "c71dff5ccab621b6bd8898abe363b51e6c0560854776dba73889d741540d7362"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om lønnsplikt under permittering (permitteringslønnsloven)

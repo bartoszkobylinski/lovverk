@@ -15,8 +15,9 @@ xml_hash: "a82d65dff9b4897c4e7c0e781c96ea756d802909a960a69345f493bc57c415f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikkerhetslovens anvendelse for Svalbard og Jan Mayen

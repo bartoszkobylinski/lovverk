@@ -15,8 +15,9 @@ xml_hash: "f5bbd509d2eff87c453b621b23ea8e88fd4cf929e57e0cf628f75a402f85ee91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om parkeringstillatelse for forflytningshemmede

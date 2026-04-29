@@ -15,8 +15,9 @@ xml_hash: "c2d00ba5242d3ec69265186b1eeaf82949d4e4f7a87e5ffd729bd40a7602fa22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av brosme og lange nord for 62° N i 2026

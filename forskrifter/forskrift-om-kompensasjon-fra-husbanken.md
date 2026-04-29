@@ -15,8 +15,9 @@ xml_hash: "e8f2cc099c0e1f7e2c16e69e863b09dab03347855a493a6699544eeceba2f244"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompensasjon for utgifter til investering i skole- og svømmeanlegg fra Husbanken

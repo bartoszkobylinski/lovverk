@@ -15,8 +15,9 @@ xml_hash: "2a1d5bcef482a7d566a7141e599809e0bace3e16db85fe95d45e4a09d0075ab5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fordeling av begrensede trafikkrettigheter på luftfartens område

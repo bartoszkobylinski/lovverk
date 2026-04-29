@@ -15,8 +15,9 @@ xml_hash: "a00f20ce172adbbeef952a59d6acbff09e806a2d0a20f93f99d738171daa23e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om mellombels område med forbod mot oppankring og fiske på Njordfeltet.

@@ -15,8 +15,9 @@ xml_hash: "9f9f407454cc04f1890b01f4d46b3a763db0222826e604974ae0ecd2fa5387d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om sterilisering [steriliseringsloven]

@@ -15,8 +15,9 @@ xml_hash: "d0922050df2d5229ba317b7892922ace6ea0543534d5efde3f12c5d27c4a56a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til forebyggende tiltak mot rovviltskader og konfliktdempende tiltak (FKT-forskriften)

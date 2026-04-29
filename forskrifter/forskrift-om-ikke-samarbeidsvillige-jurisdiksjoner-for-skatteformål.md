@@ -15,8 +15,9 @@ xml_hash: "c645ca8d389eb5f20a339b2ed469f2f4292c9cdeca91a5b35d7b113d6c5cb21f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ikke-samarbeidsvillige jurisdiksjoner for skatteformål

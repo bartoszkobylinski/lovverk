@@ -15,8 +15,9 @@ xml_hash: "6d5691839f16dac83b6180aabf8d4d51063797da1d80f2d596954e80e098e562"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak til Universitetet i Bergen

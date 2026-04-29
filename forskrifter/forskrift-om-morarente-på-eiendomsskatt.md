@@ -15,8 +15,9 @@ xml_hash: "29ad9486fc0965f69c65d6ff5f3d25a9ffe5dfb660311201c702ac09f9f521b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rentegodtgjersle når eigedomsskatt vert innbetalt for seint eller betalt attende

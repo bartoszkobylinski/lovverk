@@ -15,8 +15,9 @@ xml_hash: "89e111e7c78e319fa652e5c6ea99b2027f86b3ad2af779691d69caf7d64be0bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av produktbetegnelsen Ringerikserter som Beskyttet opprinnelsesbetegnelse

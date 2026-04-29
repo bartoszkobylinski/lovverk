@@ -15,8 +15,9 @@ xml_hash: "29cfc96224623a0aec3b9792433a9ac2eb7fadc1623af607a7c6d2ffa5cc4e24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utfasing av særfradraget for store sykdomsutgifter

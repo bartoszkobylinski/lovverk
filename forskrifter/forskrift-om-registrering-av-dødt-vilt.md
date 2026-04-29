@@ -15,8 +15,9 @@ xml_hash: "384afbfa353a034d8d2ecdb12671e73a69b578d77a34c4a2b176a2e93fcab832"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering og merking av eldre preparater av dødt vilt.

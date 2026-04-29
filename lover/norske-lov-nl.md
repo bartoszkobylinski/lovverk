@@ -15,8 +15,9 @@ xml_hash: "f0091c85fe047bb33c76b3d993013917c2dce7a707d2a99c2402d2917d1578ab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kong Christian Den Femtis Norske Lov

@@ -15,8 +15,9 @@ xml_hash: "cb92420e7a8cf2cf326570bb2f746cc66cb4d001654d7a600e9c9d8f84598edf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av normrentesats for inntektsåret 2013 til bruk ved anvendelse av forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen

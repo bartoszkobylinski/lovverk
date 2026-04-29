@@ -15,8 +15,9 @@ xml_hash: "f5449f7780ab9a81164bee07a0b608d6a0345097decde43c86baab45d83b6fa8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr for parkeringsvirksomhet og opplæringstilbydere (gebyrforskriften)

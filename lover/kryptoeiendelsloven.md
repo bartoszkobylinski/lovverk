@@ -15,8 +15,10 @@ xml_hash: "880f1118521045bb24d80fdf5246ccdba3e000a945e8ac729f0febe193114219"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32023R1114"
 ---
 
 # Lov om kryptoeiendeler (kryptoeiendelsloven)

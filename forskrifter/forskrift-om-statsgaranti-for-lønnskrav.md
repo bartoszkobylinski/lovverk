@@ -15,8 +15,9 @@ xml_hash: "01bd015b32745243e3554394f86db956644c0d6ccf798722bfd69cdca919c6ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om statsgaranti for lønnskrav ved konkurs m.v.

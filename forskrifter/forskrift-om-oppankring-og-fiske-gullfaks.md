@@ -15,8 +15,9 @@ xml_hash: "2c23bb022f55b1681673ebd289cc587679e715fb98c65ca11af0656fdcaefa0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot oppankring og fiske med visse redskaper i Gullfaksområdet, rundt havbunnsbrønn A-9H, mellom Gullfaks A plattformen og havbunnsbrønn A-9H, samt mellom Gullfaks B plattformen og lastebøye SPM 1 og havbunnsbrønn A3-H.

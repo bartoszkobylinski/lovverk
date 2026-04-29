@@ -15,8 +15,9 @@ xml_hash: "ed7e3376450ad129ad2d206f8745b0f6a3fae9bcbe6e6fd4dacd707bf87645ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov av 16. mars 2001 nr. 8 om endringer i inkassoloven.

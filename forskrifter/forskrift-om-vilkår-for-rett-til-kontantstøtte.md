@@ -15,8 +15,9 @@ xml_hash: "ec07dba034dda5a9db23a8d0f59766bb31da276b3e30858c120699239b6e9caa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vilkår for rett til kontantstøtte til småbarnsforeldre – forholdet til forsøk med tildeling av øremerkede tilskudd som rammetilskudd i 20 kommuner, 2000–2003.

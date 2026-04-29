@@ -15,8 +15,9 @@ xml_hash: "038a8afcbe168a52076b82204bb66663753c3db25a7cd589655a4052af461fe5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – referansesentre for dyrevelferd forordning (EU) 2018/329, forordning (EU) 2019/1685, beslutning (EU) 2021/755 og beslutning (EU) 2024/266

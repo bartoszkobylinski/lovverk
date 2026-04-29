@@ -15,8 +15,9 @@ xml_hash: "305a3a3f06612e12ee25925d59dca907c022187ce974961029a812af5b9b551c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd for levering av husdyrgjødsel til biogassanlegg

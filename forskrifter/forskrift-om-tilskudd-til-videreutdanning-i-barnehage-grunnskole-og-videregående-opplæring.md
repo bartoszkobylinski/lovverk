@@ -15,8 +15,9 @@ xml_hash: "2e51abafbfd653b5b0a39d59931f591f6c203c357e533687e785c39dc8eaf84e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til videreutdanning i barnehage, grunnskole og videregående opplæring

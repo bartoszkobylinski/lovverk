@@ -15,8 +15,14 @@ xml_hash: "e687b0fe020525bc107036cfb952db2f3a1e8bb1aef7a6625cd1ee0c33b8d14e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32011L0061"
+  - "32013R0345"
+  - "32013R0346"
+  - "32015R0760"
+  - "32015R2365"
 ---
 
 # Lov om forvaltning av alternative investeringsfond

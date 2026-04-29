@@ -15,8 +15,9 @@ xml_hash: "073697db6684761bca1516593a3206fa3bf49e0555ad30a1068cf082045af982"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring i norsk rett av EØS-avtalen vedlegg XIII nr. 4a (forordning (EF) nr. 1370/2007) om offentlig persontransport med jernbane og på vei og om oppheving av rådsforordning (EØF) nr. 1191/69 og nr. 1107/70

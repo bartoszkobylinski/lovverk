@@ -15,8 +15,9 @@ xml_hash: "b092e1055a556d132dd4e38514aca88ef9ef1171a87b0654a46d81a3708f4a81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for vigsel ved sjømannsprest utsendt av Den norske Sjømannsmisjon.

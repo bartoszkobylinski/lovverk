@@ -16,8 +16,9 @@ xml_hash: "dd5847ee2b138ab734406be1cd6b2e99c54d5a2c85db6a4db48f53bb4e28bf9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om produksjon, omsetning og import av gjødselvarer av organisk opphav og visse uorganiske gjødselvarer (gjødselvareforskriften)

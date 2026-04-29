@@ -15,8 +15,9 @@ xml_hash: "8c323ca7b8beddb29217021affd61cffec883b8be66d46885d4ba371d14af348"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om rettergangsmåten i straffesaker (Straffeprosessloven)

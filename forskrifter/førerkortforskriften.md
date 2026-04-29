@@ -15,8 +15,9 @@ xml_hash: "953afe6e80902eb798e61841de38fb0f87e5b3de1e94c3ae0b86e502c5bcaae4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om førerkort m.m. (førerkortforskriften)

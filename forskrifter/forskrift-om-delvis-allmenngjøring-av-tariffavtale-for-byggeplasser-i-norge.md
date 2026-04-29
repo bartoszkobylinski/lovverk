@@ -15,8 +15,9 @@ xml_hash: "f8e7abcd4e313e6287fb0d12e7664615fdf795f288a246babea82006bf00c571"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge

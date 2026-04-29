@@ -15,8 +15,9 @@ xml_hash: "488d47c2f0086bf1dca7ddbee00ea933652a8c7d4b74d01b1fc207f1e54c70d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om godkjenning av vedtekter for klagenemnd for inkassotenester mellom Forbrukarrådet og Norske Inkassobyråers Forening.

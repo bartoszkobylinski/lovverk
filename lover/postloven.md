@@ -15,8 +15,12 @@ xml_hash: "fa4a4a09f1627e810ecf01a7e33230f429f47ee4f8f9c17662933ec7954df591"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31997L0067"
+  - "32002L0039"
+  - "32008L0006"
 ---
 
 # Lov om posttjenester (postloven)

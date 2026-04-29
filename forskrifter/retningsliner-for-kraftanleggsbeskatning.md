@@ -15,8 +15,9 @@ xml_hash: "05de40a310111811e613f4d37f1cc3e3ebd291b559380084bcdc467352b6c048"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Retningsliner om grunnlag for og berekning av kommunefordelingsnøklar for grunnlaget for eigedomsskatt for kraftanlegg etter eigedomsskattelova § 8 A-1 første og tredje leden.

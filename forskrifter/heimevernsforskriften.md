@@ -15,8 +15,9 @@ xml_hash: "c3be265b0bd12795f5709c14d0e7a090db4101bd954a0e87d2cfc50a91da171c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om råd, utvalg og nemnder i Heimevernet (heimevernsforskriften)

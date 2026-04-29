@@ -15,8 +15,9 @@ xml_hash: "43d2b5627f951d81e5888bd460419f9907186d082f9b53a618e088ffaf24be80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig parkeringsgebyr

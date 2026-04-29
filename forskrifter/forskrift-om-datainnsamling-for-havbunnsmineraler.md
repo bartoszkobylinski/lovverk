@@ -15,8 +15,9 @@ xml_hash: "cbf0b73c4b5020bae53df3db4417a0b4807b685d94341a7e6de3069704d5212f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om datainnsamling og dokumentasjon i mineralvirksomhet på kontinentalsokkelen (forskrift om datainnsamling for havbunnsmineraler)

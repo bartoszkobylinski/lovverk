@@ -15,8 +15,9 @@ xml_hash: "563b7688ff92ec0b816bfa9ca8b9fd2160c552bf5bc689967bd087a56fbfad63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordning av alderspensjoner fra tjenestepensjonsordning etter samordningsloven § 7 når en eller flere av alderspensjonene er levealdersjustert

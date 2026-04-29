@@ -15,8 +15,9 @@ xml_hash: "3a90e3ec9d444d9b7623dc61af0f51401b74a1a115b19dad188c2569fc03e7df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for radiografutdanning

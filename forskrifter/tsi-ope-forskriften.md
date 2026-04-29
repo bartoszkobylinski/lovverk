@@ -15,8 +15,9 @@ xml_hash: "1b227d50196a0f232de1bc7cb4e3a6f9f6a803fc02cc66c391dc3386d85910bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2019/773 om tekniske spesifikasjoner for samtrafikk for drift og trafikkstyring i det europeiske jernbanesystemet (TSI OPE-forskriften)

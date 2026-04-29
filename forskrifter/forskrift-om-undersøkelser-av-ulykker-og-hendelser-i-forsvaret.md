@@ -15,8 +15,9 @@ xml_hash: "1428366ae2fd0d7fe8b27b03224c9592ac3d848acb2cc90f536b999770095707"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om undersøkelser av ulykker og hendelser i Forsvaret

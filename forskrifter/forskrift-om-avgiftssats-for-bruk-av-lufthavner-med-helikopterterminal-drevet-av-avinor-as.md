@@ -15,8 +15,9 @@ xml_hash: "81110e48637bbc3f4af5d143476eb9ad4e5e90567277fafa0dfaf4c71346d1c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avgiftssats for bruk av lufthavner med helikopterterminal drevet av Avinor AS

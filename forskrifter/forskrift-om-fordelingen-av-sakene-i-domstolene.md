@@ -15,8 +15,9 @@ xml_hash: "bbcb980b94a709ecb7be11e07b85eeb5f71601e8aba3c52e65be1f1dc5dc66d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fordelingen av sakene i domstolene

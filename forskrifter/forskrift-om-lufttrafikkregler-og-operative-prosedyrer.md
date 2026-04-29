@@ -15,8 +15,9 @@ xml_hash: "7c6edb508df52c9d83db458685921a91883c30478e13797b2a4a06462d8378a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lufttrafikkregler og operative prosedyrer

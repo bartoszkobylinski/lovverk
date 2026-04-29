@@ -15,8 +15,9 @@ xml_hash: "c242bf5edca63755e00916a1f54d29199085f479d59b39bc1fd8e37ab096314a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om visse aspekter ved flysikkerheten i forbindelse med Storbritannias uttreden fra EU

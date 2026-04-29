@@ -17,8 +17,9 @@ xml_hash: "ea452a37626e1557ee2e8e6917c38a4290a7d1d021d3b0416d3ab9019025bf08"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om betaling av gebyrer for særskilte ytelser fra Mattilsynet

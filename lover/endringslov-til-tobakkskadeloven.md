@@ -15,8 +15,10 @@ xml_hash: "0d0a7c114edc220ff993fbaf849b9330c07f79314afb673ccd52e235822c010d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014L0040"
 ---
 
 # Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)

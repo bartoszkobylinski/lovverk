@@ -15,8 +15,9 @@ xml_hash: "33abd87d95ab4194ef00c6dd786c4f27fd452899db7065ea58ea56597db73bd5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompensasjon for utgifter til renter til investeringer for istandsetting av kirker og kirkeinventar fra Husbanken

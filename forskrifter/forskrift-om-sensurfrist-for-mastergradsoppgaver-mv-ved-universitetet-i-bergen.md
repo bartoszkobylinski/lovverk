@@ -15,8 +15,9 @@ xml_hash: "1107b060e38a2b859daf48c080d50d73439181689190e3baf011a53f9c9d8ff9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sensurfrist for mastergradsoppgaver mv. ved Universitetet i Bergen (UiB)

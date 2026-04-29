@@ -15,8 +15,9 @@ xml_hash: "659f6d29d0a80ba713b46b14c92dcb27b6bf46a972ddd6ad442f2662b6131fcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)

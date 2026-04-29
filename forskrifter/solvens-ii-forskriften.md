@@ -15,8 +15,9 @@ xml_hash: "58f1c405ccc5d490b0a79081fcb2ad5e2d9425500b439e1762351e7b4bc57e78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til finansforetaksloven om gjennomføring av Solvens II-direktivet (Solvens II-forskriften)

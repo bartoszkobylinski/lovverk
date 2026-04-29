@@ -15,8 +15,9 @@ xml_hash: "1b2f1ed8e75fb244c21882a8a412f082a21beedfacc5a55810236b3c62cfc9e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krystallglass

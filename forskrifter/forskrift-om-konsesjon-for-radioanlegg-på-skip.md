@@ -15,8 +15,9 @@ xml_hash: "7bddb4e9b4fd0daccc3194616b1f698d0bffb97fe2f0b01a2f69067459294fb7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om konsesjon til å opprette og drive radioanlegg om bord i norske skip

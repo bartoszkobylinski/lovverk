@@ -15,8 +15,9 @@ xml_hash: "91e509fa93c37cdebe3837905ce3c2fd005eb9d4c4de97126c14575e86a500fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avgifter til folketrygden for året 2025 for misjonærer mv. som er opptatt i folketrygden i medhold av folketrygdloven § 2-8

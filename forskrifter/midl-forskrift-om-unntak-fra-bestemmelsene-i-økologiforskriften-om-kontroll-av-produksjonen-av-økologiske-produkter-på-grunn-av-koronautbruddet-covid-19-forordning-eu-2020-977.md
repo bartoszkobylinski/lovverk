@@ -16,8 +16,9 @@ xml_hash: "18c6c9b0df821d2892031d91a549bf236e9bbf676f45aa34f4417dae6a80996e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om unntak fra bestemmelsene i økologiforskriften om kontroll av produksjonen av økologiske produkter på grunn av koronautbruddet (covid-19), forordning (EU) 2020/977

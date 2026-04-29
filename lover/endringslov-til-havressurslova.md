@@ -15,8 +15,9 @@ xml_hash: "2988ac9140795f05ee706750860a0d713449865dd4f5c94cb26b504ba92653a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i havressurslova (hjemmel for Fiskeridirektoratet til å beslaglegge og destruere eller avhende umerket fiskeredskap)

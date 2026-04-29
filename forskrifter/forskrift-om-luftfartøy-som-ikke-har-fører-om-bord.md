@@ -15,8 +15,9 @@ xml_hash: "ade086fa7898ad3ca392a75d5c201bdcc9b8491698f0ca09d536f1f3204f2191"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om luftfartøy som ikke har fører om bord mv.

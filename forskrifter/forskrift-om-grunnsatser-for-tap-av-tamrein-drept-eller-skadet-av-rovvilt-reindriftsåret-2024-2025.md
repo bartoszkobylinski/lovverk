@@ -15,8 +15,9 @@ xml_hash: "c77c060471a732eb9dbc59484ef72b722540d6b8a298b3e23a4d4f5f30415216"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om grunnsatser for tap av tamrein drept eller skadet av rovvilt reindriftsåret 2024–2025

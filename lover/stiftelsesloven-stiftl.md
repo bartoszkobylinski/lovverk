@@ -15,8 +15,9 @@ xml_hash: "ee665c06cec5477fa537b47c56d4e63a98a9c582793e054938cd97edb1d30ca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om stiftelser (stiftelsesloven)

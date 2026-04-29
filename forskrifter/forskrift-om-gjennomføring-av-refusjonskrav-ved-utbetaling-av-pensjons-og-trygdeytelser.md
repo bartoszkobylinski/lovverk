@@ -15,8 +15,9 @@ xml_hash: "67f2d558bdd513301b8a477d577072fe5cb5ff487af80dbbe3274b04d04c2bfa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av refusjonskrav ved utbetaling av pensjons- og trygdeytelser med tilbakevirkning

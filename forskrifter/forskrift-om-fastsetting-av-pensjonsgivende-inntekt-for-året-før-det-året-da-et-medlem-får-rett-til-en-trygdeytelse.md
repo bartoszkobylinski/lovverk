@@ -15,8 +15,9 @@ xml_hash: "a228570d0e472c0e5e1916ab57c8f6992c710e2e4a2f4d048c94a56af61b0d32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsetting av pensjonsgivende inntekt for året før det året da et medlem får rett til en trygdeytelse

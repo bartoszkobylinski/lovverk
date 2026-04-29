@@ -15,8 +15,9 @@ xml_hash: "b64361feb0c928b0c9aa6120dec63b5995391662860f9f5f04f80746f1216c73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om merking av dekk vedrørende drivstoffeffektivitet m.m. (dekkmerkeforskriften)

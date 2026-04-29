@@ -15,8 +15,9 @@ xml_hash: "e356132cc87880afd39f54789c9d9f411e0a4cc6f59d3d1d8261ce8ae97a2bab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for bruk av motorkjøretøyer i utmark og på islagte vassdrag

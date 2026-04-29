@@ -15,8 +15,9 @@ xml_hash: "5b329bab76aabd0585bbacc966c750902be9c08577e74e3d57f07e1819374219"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tillatelse til bruk av beltebil.

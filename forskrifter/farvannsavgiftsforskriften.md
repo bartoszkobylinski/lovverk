@@ -15,8 +15,9 @@ xml_hash: "f64dd00a1d8829323046f3aa498c8bad4135b1e89fa340c74c6326b00ceb4875"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunenes beregning og innkreving av farvannsavgift (farvannsavgiftsforskriften)

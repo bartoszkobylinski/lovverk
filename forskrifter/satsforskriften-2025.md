@@ -15,8 +15,9 @@ xml_hash: "d4c730c8a685f553d7e389ee87b5ffd6bbd90e344c29da24fcd11fdc3fbb0aae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2025

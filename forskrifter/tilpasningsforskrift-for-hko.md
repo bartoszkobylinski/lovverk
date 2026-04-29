@@ -15,8 +15,9 @@ xml_hash: "397920e4d01b26dd11d5555f1c9bee8d4c1cfa8f0f6ff168c4aeab776379dda6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilpasning til universitets- og høyskoleloven for Høgskolen for kriminalomsorg (HKO) (tilpasningsforskrift for HKO)

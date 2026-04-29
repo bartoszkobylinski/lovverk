@@ -15,8 +15,9 @@ xml_hash: "90e7acb8cd1576fd6d8142b9fdf6e3d320055e9f06e3878f1081617d31a493a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for jordmorutdanning

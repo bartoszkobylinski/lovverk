@@ -15,8 +15,9 @@ xml_hash: "27671fb382b58b1f4819b61ca0502c9d7592fa4bec4c2a8e1e449f08c033e3a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kongeriket Norges Grunnlov

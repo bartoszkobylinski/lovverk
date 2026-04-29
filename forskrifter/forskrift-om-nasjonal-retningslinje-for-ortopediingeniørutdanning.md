@@ -15,8 +15,9 @@ xml_hash: "48004960f4ac40b80b3bd0d281b2516ccc712101606a853d4f6d83bb06d8d49f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for ortopediingeniørutdanning

@@ -15,8 +15,9 @@ xml_hash: "74423484d670a631a9de213a62f5d5a2187af270559c1457f4197d60cc94ddfd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til fellesanlegg for frukt

@@ -15,8 +15,9 @@ xml_hash: "7ef7315295ec79d4b821bbe1cc56e26e46fc47d5eb819f9da7dc8569928718b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av bilaterale trygdeavtaler

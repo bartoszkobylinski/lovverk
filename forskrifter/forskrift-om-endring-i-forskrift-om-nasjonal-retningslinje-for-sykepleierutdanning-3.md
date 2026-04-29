@@ -15,8 +15,9 @@ xml_hash: "5b0ead23c5bf9145ca3246a60f7a494ccd6be6a04a4f91315329d0cc2d1626ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning

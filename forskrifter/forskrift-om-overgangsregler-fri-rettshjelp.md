@@ -15,8 +15,9 @@ xml_hash: "139eefd4308679c9149e0098459cab3d09d09898d7addf065977bc2d1236e660"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler om betaling av egenandeler i saker om fri rettshjelp.

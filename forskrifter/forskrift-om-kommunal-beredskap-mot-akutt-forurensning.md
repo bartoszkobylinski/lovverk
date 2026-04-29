@@ -15,8 +15,9 @@ xml_hash: "ef0497671ebfc264230d6f2273de2dfcf1772b81fba026ad6db8a3d77bcf4f3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunal beredskap mot akutt forurensning

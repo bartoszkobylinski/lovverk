@@ -15,8 +15,9 @@ xml_hash: "aa24a872bcc52b0c41f88765ba516d8ff417b6b69adf8c851a8cd3de877ad176"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til frivillige barne- og ungdomsorganisasjoner

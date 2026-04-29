@@ -15,8 +15,9 @@ xml_hash: "e8924f3ec4b92d61e11c716b4df4cb9af192e652389e68754a87e720eddce58e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for sykepleierutdanning

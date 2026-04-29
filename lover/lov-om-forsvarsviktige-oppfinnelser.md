@@ -15,8 +15,9 @@ xml_hash: "1cb581db6bee9d2f5748ee81701ae53530ab008fe3d3c356d8bee4001ffb976a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om oppfinnelser av betydning for rikets forsvar

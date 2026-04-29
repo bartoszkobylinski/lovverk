@@ -15,8 +15,9 @@ xml_hash: "66075e60ae49f0fdd4bfaa08c9483ea0ba8d5599416d6a04272b031a0b9de40a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til informasjonstiltak ved valg til Stortinget, Sametinget, fylkesting og kommunestyrer

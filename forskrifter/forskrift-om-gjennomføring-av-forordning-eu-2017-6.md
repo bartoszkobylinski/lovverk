@@ -15,8 +15,9 @@ xml_hash: "1d2c5c502e4db727dca4450df73b6e13b3fb8a07b591831b8e35aae1d3be8623"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2017/6 om gjennomføringsplanen for det europeiske systemet for styring av jernbanetrafikk (ERTMS)

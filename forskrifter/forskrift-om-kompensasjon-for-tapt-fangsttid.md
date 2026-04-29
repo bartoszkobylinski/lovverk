@@ -15,8 +15,9 @@ xml_hash: "2ee09928fd7f122420a069c9eaa616953ed70a13cfb803e5aaff001ebfddde87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompensasjon til fiskere for tapt fangsttid ved lokalisering, opptak og ilandbringelse av skrap som ikke stammer fra petroleumsvirksomhet

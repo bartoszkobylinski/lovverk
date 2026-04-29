@@ -15,8 +15,9 @@ xml_hash: "883f780aa70a86f8026dd0bf18ef7f9d2a27fbdfc7240fae5c3676bf78c476a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til folketrygdloven § 25-10 om arbeidsgivers og oppdragsgivers opplysningsplikt om arbeidsforhold og inntekt

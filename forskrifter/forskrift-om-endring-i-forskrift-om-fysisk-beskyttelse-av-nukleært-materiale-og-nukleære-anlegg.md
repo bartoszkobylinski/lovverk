@@ -15,8 +15,9 @@ xml_hash: "9781f6be07483f2169152963a2d857fb514a2e0186459aec1c9fc6c9fc1fea90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om fysisk beskyttelse av nukleært materiale og nukleære anlegg

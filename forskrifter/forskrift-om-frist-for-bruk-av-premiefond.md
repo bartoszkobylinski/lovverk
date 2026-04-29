@@ -15,8 +15,9 @@ xml_hash: "b70cdf0d76eaf06503fa00fee56db8bf95e576ca518d4528799c9dbb0931196a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om frist for anvendelse av midler avsatt til premiefond til folketrygda.

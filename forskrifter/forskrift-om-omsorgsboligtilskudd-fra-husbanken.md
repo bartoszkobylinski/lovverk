@@ -15,8 +15,9 @@ xml_hash: "aba8e80d9f241fc5e8aa7c56ef115d980862862739441a3bf82cb836e5277fbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken

@@ -15,8 +15,9 @@ xml_hash: "b5231133102eaf70e17c673b1d9061cddeb55ead71bf54d20f10059af2dfca44"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyrer og øvrige vederlag for forvaltningstjenester og tillatelser etter telegrafloven som angår konsesjon m.m. samt kontroll av aeromobilt utstyr og skipsradioutstyr.

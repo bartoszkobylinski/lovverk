@@ -15,8 +15,9 @@ xml_hash: "24e0dd9c386c63669ec175a9e61d3acd5aefde637bfd642125e18fb197c85d42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak for små mengder atomsubstans og visse typer atomsubstans fra bestemmelsene i lov om atomenergivirksomhet

@@ -15,8 +15,9 @@ xml_hash: "f8dff8e5b0218f56221f5bf8ce37b9a98910390b3418099e8765f1378dcb226b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til a-opplysningsloven § 12a om tilpasset innføring av a-ordningen

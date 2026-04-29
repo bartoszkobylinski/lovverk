@@ -17,8 +17,9 @@ xml_hash: "37cce496d899270c63ad3e0d70a99f0ec0686844502d4aa4171c3b41e5e8aec4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – grensekontrollstasjoner – forordning (EU) 2019/1012, forordning (EU) 2019/1014 og forordning (EU) 2019/1081

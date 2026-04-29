@@ -15,8 +15,9 @@ xml_hash: "cfa92e1e6e9fcb83790b7c09e6a2796cf319791f22b864e8ab115ba80307f2f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til selskapslovens regler om de ansattes rett til representasjon i styrende organer

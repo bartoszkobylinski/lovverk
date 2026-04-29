@@ -15,8 +15,9 @@ xml_hash: "bd4d8e9a574da4e14281cd85beb1315829e4afb8535498158ccd5fdc9ec2fecf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer

@@ -15,8 +15,9 @@ xml_hash: "14c8aa07ae8738e56cd01ce953603aa66a3e0c14ae9d03d80adfc7d0b35607e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om livsoppholdssatser ved utleggstrekk og gjeldsordning

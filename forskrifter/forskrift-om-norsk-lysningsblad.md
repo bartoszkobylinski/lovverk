@@ -15,8 +15,9 @@ xml_hash: "faca3e3b751aeba4a15431888f61a6d8cb0ef8b0e172f648846c73e220b1b3d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Norsk Lysningsblad

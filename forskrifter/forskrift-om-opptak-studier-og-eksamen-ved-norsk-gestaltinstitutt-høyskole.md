@@ -15,8 +15,9 @@ xml_hash: "1d379c2b2182803a68788d7141fecbb40077a850cba5538e223970846445323c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved Norsk Gestaltinstitutt Høyskole

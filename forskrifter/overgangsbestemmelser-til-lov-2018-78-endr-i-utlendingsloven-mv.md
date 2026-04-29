@@ -15,8 +15,9 @@ xml_hash: "2ced0d47af7a9640237d04412060eb6d1de2236501a03eb8ccdc90e2f4f33422"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsbestemmelser til lov 22. juni 2018 nr. 78 om endringer i utlendingsloven mv. (utvisning på grunnlag av eksklusjon fra flyktningstatus mv.)

@@ -15,8 +15,9 @@ xml_hash: "26717a21eec6c4a54f54f63be7977d3b605ea0fecfcdd5bbfec3974874b0713d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om dispensasjon fra krav om at dagsprøvekjennemerke kun kan brukes på uregistrert kjøretøy i forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-19 (1) for kjøretøy der kjennemerker er bestilt for levering per post

@@ -15,8 +15,12 @@ xml_hash: "48f285aa3bef5bfc9941fbb9f919eae18eba81be8060d666d149231903435f48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32004R0883"
+  - "32009R0987"
+  - "32019L1158"
 ---
 
 # Lov om folketrygd (folketrygdloven)

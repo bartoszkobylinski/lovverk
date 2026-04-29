@@ -15,8 +15,9 @@ xml_hash: "78043cc29a4e32130ef986ddb9e4212b46a6dadf2edbab794176d28a82c104c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Gudbrandsdal tingrett

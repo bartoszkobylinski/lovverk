@@ -15,8 +15,9 @@ xml_hash: "5cd442547ec07778d443c6a6116651badb67fac59ffacd2933e5fe306333cab0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Instruks om prøvetakingsmetoder og analysemetoder for offentlig temperaturkontroll av dypfryste næringsmidler.

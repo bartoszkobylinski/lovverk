@@ -15,8 +15,9 @@ xml_hash: "db5d57cd720fff261f0e04a8469c3ba5f2728e99e70d0802b875cdfac31b1a05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om garanti for arbeidsvederlag og hjemreise for arbeidstakere på flyttbare innretninger registrert i norsk internasjonalt skipsregister

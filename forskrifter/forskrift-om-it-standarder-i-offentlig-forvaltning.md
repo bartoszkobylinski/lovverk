@@ -15,8 +15,9 @@ xml_hash: "8f53625615df85f7afdf42c0ff1e521c2e27e5e3a2a4faeb4536d6c4839d848b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om IT-standarder i offentlig forvaltning

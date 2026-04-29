@@ -15,8 +15,9 @@ xml_hash: "4ee2eb19a0209e0e3d095acc4299db5ac88e617f3145c9f3ac20d00b7fc91628"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hvilke helseopplysninger som kan behandles i et behandlingsrettet helseregister med tolkede genetiske varianter

@@ -15,8 +15,9 @@ xml_hash: "5ab048d9e8487f97f750e3fcfe61becbdd8e4c84b66b2bff41f22e6be6f68d55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om internasjonale sikkerhetsretter i mobilt løsøre

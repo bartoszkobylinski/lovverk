@@ -15,8 +15,9 @@ xml_hash: "d6d06c0d8ea6e6d21192828df217de817570ddebcca431951104269b07298ee8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anke til Trygderetten for medlemmer av kommunale pensjonsordninger og enkelte andre ordninger

@@ -15,8 +15,9 @@ xml_hash: "0ea8eaac8909cea04e45571486b60ac3021035409da71a99ac5fc8cd5d151fe0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fangstdokumentasjon for makrellstørje (Thunnus thynnus), storøyet tunfisk (bigeye tuna/Thunnus obesus) og sverdfisk (Xiphias gladius)

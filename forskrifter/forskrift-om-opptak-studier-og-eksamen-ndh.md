@@ -15,8 +15,9 @@ xml_hash: "3f3f8c3887c65789b6099aa5b32891ae653f9b419527d4e11d0a943c7ccecb2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved Norges Dansehøyskole, NDH (tidligere Den norske balletthøyskole, DNBH)

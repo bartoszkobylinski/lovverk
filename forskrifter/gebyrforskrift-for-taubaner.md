@@ -15,8 +15,9 @@ xml_hash: "3921cce073ad521c5eaeec5cd2abd6b01de74acf1eff111af5dbd264b7ff05a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Gebyrforskrift for taubaner

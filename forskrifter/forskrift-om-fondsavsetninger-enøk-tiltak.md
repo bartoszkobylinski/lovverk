@@ -15,8 +15,9 @@ xml_hash: "7aa89a4c71213d0e5add8738c6d884c53366c5447c36bfbfd2b7651f9281f5c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om skattefrie fondsavsetninger til energiøkonomisering.

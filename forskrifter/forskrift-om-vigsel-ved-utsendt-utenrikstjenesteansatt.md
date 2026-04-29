@@ -15,8 +15,9 @@ xml_hash: "948152ce31e9cbdde717fe42046366cd554b61acf1d544d7a6c4dc39d862978e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vigsel ved utsendt utenrikstjenesteansatt

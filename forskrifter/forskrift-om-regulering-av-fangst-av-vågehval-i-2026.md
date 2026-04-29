@@ -15,8 +15,9 @@ xml_hash: "54ab4de2a18be7fcb29a8e82b5fc2dfc5a88273f80eff0fd8986af90c833ac82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fangst av vågehval i 2026

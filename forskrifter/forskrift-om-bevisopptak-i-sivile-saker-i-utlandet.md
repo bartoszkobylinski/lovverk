@@ -15,8 +15,9 @@ xml_hash: "bb7e747282f74f77e3c97c3c137c4f16c93839b7b65f9102019a59d9e706df87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bevisopptak i sivile saker i utlandet

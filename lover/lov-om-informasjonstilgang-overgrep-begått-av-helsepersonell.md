@@ -15,8 +15,9 @@ xml_hash: "e351921f42eaa63443e9c2e320dbeb5bb815a9b38868dc31173344eb393f0ae9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep begått av helsepersonell mot pasienter i perioden 2010 til 2020

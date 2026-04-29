@@ -15,8 +15,9 @@ xml_hash: "929bc4694273bf20c3d167ca5f35359b6481feaae244d7c467f60c0ca472722f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet

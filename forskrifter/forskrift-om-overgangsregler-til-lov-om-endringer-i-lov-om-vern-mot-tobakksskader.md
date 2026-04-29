@@ -15,8 +15,9 @@ xml_hash: "a398f02bd6b1fbb320d730ce6772fe486e7edb63e2330a169bcff0fe1b1ea882"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 10. februar 2017 nr. 5 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader

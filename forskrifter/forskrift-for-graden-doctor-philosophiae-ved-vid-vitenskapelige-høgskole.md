@@ -15,8 +15,9 @@ xml_hash: "21fc2f774042e62fbd7f7d31c7cca5091bf0ed4483bf435c6607e4876be60d49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for graden doctor philosophiae (dr.philos.) ved VID vitenskapelige høgskole

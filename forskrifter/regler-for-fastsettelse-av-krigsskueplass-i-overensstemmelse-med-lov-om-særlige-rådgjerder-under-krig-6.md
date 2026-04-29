@@ -15,8 +15,9 @@ xml_hash: "3b49ae42777f857b22366b57be1a076d4376d53d87ad7e4b74416d6e428e8e8f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Regler for fastsettelse av krigsskueplass i overensstemmelse med lov om særlige rådgjerder under krig § 6

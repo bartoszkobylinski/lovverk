@@ -15,8 +15,9 @@ xml_hash: "0203e5a470517c449d8e92cfbe0042e77e8f18091c9bffb86b7231e9fe4df1ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hvilke kostnader som skal inn i et borettslags driftsbudsjett

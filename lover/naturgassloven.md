@@ -15,8 +15,12 @@ xml_hash: "059565adbc4be6cf95a41c069f687759ee65e8629bea4bb7d0958d1d7a4f7730"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0073"
+  - "32009R0715"
+  - "32009R0713"
 ---
 
 # Lov om felles regler for det indre marked for naturgass (naturgassloven)

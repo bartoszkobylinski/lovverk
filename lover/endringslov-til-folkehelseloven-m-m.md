@@ -15,8 +15,9 @@ xml_hash: "6db68dffe7ef6c3cde5c3003f51676c8c84a2f8dc4d87ff51840cfcdec28a1e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i folkehelseloven m.m. (krav til systematisk og kunnskapsbasert folkehelsearbeid, helsemessig beredskap)

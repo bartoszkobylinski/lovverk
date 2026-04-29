@@ -15,8 +15,9 @@ xml_hash: "daa49c8235bb217d98992035553db9a5b62dbb67636aa1710bd09e412694f85c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsarrangementer

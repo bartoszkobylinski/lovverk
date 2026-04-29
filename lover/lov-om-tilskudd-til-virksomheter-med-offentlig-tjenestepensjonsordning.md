@@ -15,8 +15,9 @@ xml_hash: "a5168a340c998bfc0bf04b8f432ceada8bbf4270ae2e83a183345773ca88c607"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsordning

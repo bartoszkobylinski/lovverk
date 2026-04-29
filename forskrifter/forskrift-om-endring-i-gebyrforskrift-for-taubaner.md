@@ -15,8 +15,9 @@ xml_hash: "730b594ffe4c425c7bad3a9845806097a843a366f7c32b2e9f1064ce183ec304"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i gebyrforskrift for taubaner

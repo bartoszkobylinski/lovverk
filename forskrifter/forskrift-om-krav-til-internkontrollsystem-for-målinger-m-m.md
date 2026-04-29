@@ -15,8 +15,9 @@ xml_hash: "cba151a0e68ccdc5f9504348bf3724d3af6a94f4a2d12625a9539691762f55cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til internkontrollsystem for måleredskaper og målinger

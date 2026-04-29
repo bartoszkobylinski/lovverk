@@ -15,8 +15,9 @@ xml_hash: "5aded0ad1b837e68f0dbe5644147594188be8c61a7bed56f5eb3c2b386068158"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til gjennomføring av den alminnelige utførselsregulering.

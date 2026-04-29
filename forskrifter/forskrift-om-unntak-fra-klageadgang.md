@@ -15,8 +15,9 @@ xml_hash: "d85e310f99721b6292d3c9ca3e02abfc2001b1ad45a6561021518d463f5c55ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra klageadgangen i saker avgjort av Norges Eksportråd.

@@ -15,8 +15,9 @@ xml_hash: "a7ebc5e7a082c25b9991022b6673898b0335a1fd0b72dd62dfcdff722d4ec97f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om tilskudd til kraftfôrprodusenter – kompensasjon for økt bruk av norsk bygg

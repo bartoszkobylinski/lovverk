@@ -15,8 +15,9 @@ xml_hash: "162abafbc8b2d8b51c12b2160020a8bc15e40ac842c1c8c8d6e956059a9250ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om reinmerker

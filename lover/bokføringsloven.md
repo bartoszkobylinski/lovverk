@@ -15,8 +15,9 @@ xml_hash: "93cb7be846cb88b57286205d93c802ccabb174cf09d36f8c0a3d27bc3413fb1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om bokføring (bokføringsloven)

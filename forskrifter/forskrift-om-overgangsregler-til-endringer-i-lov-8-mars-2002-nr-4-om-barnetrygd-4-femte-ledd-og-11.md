@@ -15,8 +15,9 @@ xml_hash: "fe97a975d741f4c67636e619f2dcc858a60245f1791911d058d4857f3b90d8dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til endringer i lov 8. mars 2002 nr. 4 om barnetrygd (barnetrygdloven) § 4 femte ledd og § 11

@@ -15,8 +15,9 @@ xml_hash: "2c362708b26938a154f81cac5b486c26455e04f389e5c6f020d60ede2b1a0fdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om unntak fra autorisasjonsplikten etter regnskapsførerloven for revisorer som utarbeider årsregnskap for andre enn egne revisjonsklienter

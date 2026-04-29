@@ -15,8 +15,9 @@ xml_hash: "227cd2fae86362ddd37401399a9a50b6c69eaf72c72561a3d29ab4a387b8ba74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til utjevning av kostnadene ved forsendelse av sæd og inseminering av storfe og svin

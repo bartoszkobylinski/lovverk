@@ -15,8 +15,9 @@ xml_hash: "57b5649763b716f04e09d5055527708b4c7ec73148587a990e026104ebc6f22f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om saksbehandlingsfrister ved erverv av betydelig eierandel i verdipapirregistre

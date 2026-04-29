@@ -15,8 +15,9 @@ xml_hash: "0ff1f7fc30cc4980125c1854bdce501869a855c00ff9890859ebc2560ca0dd1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om strømnettselskapenes inntekter (nettinntektsforskriften)

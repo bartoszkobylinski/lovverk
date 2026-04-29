@@ -15,8 +15,9 @@ xml_hash: "befd0436aafc69542b3767901bd7a6d43f372f72b5b3e06791aba69e905b082e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om takseringsregler til bruk ved beskatningen av utenlandske artister for inntektsåret 2025 som skattlegges etter lov 13. desember 1996 nr. 87 om skatt på honorar til utenlandske artister

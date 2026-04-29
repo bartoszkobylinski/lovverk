@@ -15,8 +15,9 @@ xml_hash: "b84681b479041b40941d8f179805b7fd9213c8c7a746ed7b71f6ff8257c1a3e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fangstbasert akvakultur

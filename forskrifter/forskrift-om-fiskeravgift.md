@@ -15,8 +15,9 @@ xml_hash: "48255053ef2770a84b368d3e6464b343a470df1e5674406f1afd18e7caf313a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiskeravgift

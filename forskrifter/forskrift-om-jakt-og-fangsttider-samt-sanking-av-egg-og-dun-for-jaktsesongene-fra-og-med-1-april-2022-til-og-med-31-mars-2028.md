@@ -15,8 +15,9 @@ xml_hash: "dc181f93e3f032d5043c1896703625d1032dfe5de3446fb23b5db1a52ee295cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra og med 1. april 2022 til og med 31. mars 2028

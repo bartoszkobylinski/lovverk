@@ -15,8 +15,9 @@ xml_hash: "0b8e80d9be91ce0f278db87f82d8eb6f56a223d739bb951f2c069ccde0c3a180"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket for fartøy som fører færøysk flagg i Norges økonomiske sone og i fiskerisonen ved Jan Mayen i 2025

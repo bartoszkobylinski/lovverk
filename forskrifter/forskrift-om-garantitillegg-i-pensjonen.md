@@ -15,8 +15,9 @@ xml_hash: "2d72cea34a89ea22c2530aa3a3c4320b80f8f59a751a6e20a03313f217649383"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven

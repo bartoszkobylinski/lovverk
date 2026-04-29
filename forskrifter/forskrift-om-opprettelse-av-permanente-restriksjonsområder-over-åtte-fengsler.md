@@ -15,8 +15,9 @@ xml_hash: "beef7acc1926c819a0ea302429057802ab4fcfe0de01e8ea66c98aa02c08dd7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opprettelse av permanente restriksjonsområder over åtte fengsler

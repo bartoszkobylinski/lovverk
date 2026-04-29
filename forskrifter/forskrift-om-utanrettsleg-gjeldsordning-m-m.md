@@ -15,8 +15,9 @@ xml_hash: "d2690b592c368cba0bac90b78d2e51b64a26ccc81e0a4dddb85498a3d7fabf49"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utanrettslege gjeldsordningar og ettergiving av fordringar som er uråd å drive inn.

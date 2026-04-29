@@ -15,8 +15,9 @@ xml_hash: "90434f17dabee6e77f06a387931b4719e97f615cec836f7aa907f6e3b8483120"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om innføring av matrikkelsystem

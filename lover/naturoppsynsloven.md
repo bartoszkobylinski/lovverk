@@ -15,8 +15,9 @@ xml_hash: "37dc1231ab97a4992a0e07242e0840d8965d463acda1e04ac76a7e54fbfe3b10"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om statlig naturoppsyn (naturoppsynsloven)

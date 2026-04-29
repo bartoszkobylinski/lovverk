@@ -15,8 +15,9 @@ xml_hash: "38cf803f92b79962a7514c506882e9eca48d85c75aaecca9c9c1c6423ae89031"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om melding om reindrift

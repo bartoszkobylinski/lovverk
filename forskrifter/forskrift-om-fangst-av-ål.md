@@ -15,8 +15,9 @@ xml_hash: "ea03370133711dc452d2899f0dce9c19415564cf760eddb7b7b2fb4f556d5214"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fangst av ål

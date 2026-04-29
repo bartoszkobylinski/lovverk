@@ -15,8 +15,9 @@ xml_hash: "5585d8349e0a5ac7f1ccfab3d5fa60abc9817803062728c49fffe287cb4b4a1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til gjennomføring av Haag-konvensjonen 2. juni 1978 om anerkjennelse og fullbyrding av avgjørelser om underholdsbidrag

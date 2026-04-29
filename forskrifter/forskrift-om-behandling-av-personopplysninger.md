@@ -15,8 +15,9 @@ xml_hash: "847272341428ad0034fedee3289058ec3b9ccea342e468f22ec73cda5b309bcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av personopplysninger

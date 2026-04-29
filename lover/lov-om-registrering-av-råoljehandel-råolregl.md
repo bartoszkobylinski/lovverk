@@ -15,8 +15,10 @@ xml_hash: "04531a94e740ff389d9511d9514cdd4bdba9adacfc58ce1e9fa6659e5358784a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31995R2964"
 ---
 
 # Lov om registrering av import og leveranser av råolje i Det europeiske økonomiske samarbeidsområde

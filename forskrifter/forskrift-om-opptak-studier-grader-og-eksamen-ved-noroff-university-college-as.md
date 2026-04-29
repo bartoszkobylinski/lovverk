@@ -15,8 +15,9 @@ xml_hash: "0d479cc4adb9dd18b67428ae7648c97ae76e7f1fb074b42748e2ba7461c4883d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier, grader og eksamen ved Noroff University College AS

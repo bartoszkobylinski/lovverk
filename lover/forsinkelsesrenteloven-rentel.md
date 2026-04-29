@@ -15,8 +15,10 @@ xml_hash: "03d3ddfa83e4d28e93662f13cf9728e688f88e12a4acbd855c786dc5e076ab28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32011L0007"
 ---
 
 # Lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)

@@ -15,8 +15,9 @@ xml_hash: "9b10b617919f33b028b2a832c6bff121105a4cc6d5915ed22c00b0aea9739b3f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidsgivers innsyn i e-postkasse og annet elektronisk lagret materiale

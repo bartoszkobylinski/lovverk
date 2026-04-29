@@ -15,8 +15,9 @@ xml_hash: "7dfc5cd67f144133c9a84e986e8b20a40dd7eef9d70d02451a71fafad8342d68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om en særskilt klagenemnd for behandling av klager over vedtak om erkjentlighetsbeløp til personer som i Norge ble rammet av antijødiske tiltak under den 2. verdenskrig

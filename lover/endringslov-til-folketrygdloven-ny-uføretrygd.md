@@ -15,8 +15,9 @@ xml_hash: "0cd6e8a0ac522c140bfc2345ab7899f35cd89074c471f03dbb05c085ce1b0488"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)

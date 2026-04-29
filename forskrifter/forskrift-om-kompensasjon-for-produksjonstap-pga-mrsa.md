@@ -15,8 +15,9 @@ xml_hash: "434e5ddfe643661913587e0fef4f6cebb5c5c3b60172cb9105cff93c382f34d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompensasjon for produksjonstap etter pålegg om nedslakting av svinebesetninger grunnet påvisning av antibiotikaresistente bakterier (MRSA)

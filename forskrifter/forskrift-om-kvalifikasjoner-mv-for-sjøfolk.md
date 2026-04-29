@@ -15,8 +15,9 @@ xml_hash: "637f4b0543c8e108da9bc056c16f8c11b2d853a3ec4bf1182663b3253da8f802"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvalifikasjoner og sertifikater for sjøfolk

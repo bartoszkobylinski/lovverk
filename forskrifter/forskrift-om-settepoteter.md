@@ -15,8 +15,9 @@ xml_hash: "bbaa5f4329a5d3625f24219f0f987c2c279f4e18106ac0a3b5ce4caeb68e042d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om settepoteter

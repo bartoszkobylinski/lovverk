@@ -15,8 +15,9 @@ xml_hash: "dfae22d6996f672d9203463d4e3e3013b296e58ce45a72a00ccffda4f17a4e33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til leider på fartøy som er underlagt havressurslovgivningen

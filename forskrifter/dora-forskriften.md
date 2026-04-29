@@ -15,8 +15,9 @@ xml_hash: "77b0c67ec53f538d6c49701ea70f424faf2f5f63d3e9080350d159f99aba16fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om digital operasjonell motstandsdyktighet i finanssektoren (DORA-forskriften)

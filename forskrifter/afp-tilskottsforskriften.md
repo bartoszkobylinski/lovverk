@@ -15,8 +15,9 @@ xml_hash: "2787e02faf2905f9fa36be25843bb5981bb4a1097819f05f73a67a0120a5b5ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vilkår for statstilskott til arbeidstakere som tar ut avtalefestet pensjon i privat sektor – ny ordning (AFP-tilskottsforskriften)

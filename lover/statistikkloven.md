@@ -15,8 +15,9 @@ xml_hash: "92a8e3bb7b21ab9177972c9874ea706bd2ee1ea736985968dd85c8d5fb4e681f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven)

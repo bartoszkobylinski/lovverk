@@ -15,8 +15,9 @@ xml_hash: "902a7c35465b421f20fb89044df935039b3d1d8242da11f021e25ab67bcf4c14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Norges Flag [flaggloven]

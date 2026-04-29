@@ -15,8 +15,9 @@ xml_hash: "fe70368f6352a0aaf880ec85e19f5c14a74fa0be89aabfe9b594254b9e68c361"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om merverdiavgiftskompensasjon for frivillige organisasjoner

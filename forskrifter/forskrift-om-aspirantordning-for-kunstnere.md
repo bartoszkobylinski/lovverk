@@ -15,8 +15,9 @@ xml_hash: "58fd750c292b7837da2a8000d4934c31c6edc1ec211a209a9faf1a98af398b2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om aspirantordning for kunstnere i etableringsfasen

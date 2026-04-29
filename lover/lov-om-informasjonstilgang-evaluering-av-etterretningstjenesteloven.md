@@ -15,8 +15,9 @@ xml_hash: "2a767eb769feb91d70346b95713f80d3f0b0e65aaa61fbb52fa0de255ef5893d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for Utvalget for evaluering av etterretningstjenesteloven

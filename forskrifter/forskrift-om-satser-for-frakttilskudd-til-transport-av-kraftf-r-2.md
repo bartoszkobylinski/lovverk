@@ -15,8 +15,9 @@ xml_hash: "f13bffe6ab49d38f99cbffe004bbcc4a40b2f64ab58143c924ecb08d689bbe37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om satser for frakttilskudd til transport av kraftfôr

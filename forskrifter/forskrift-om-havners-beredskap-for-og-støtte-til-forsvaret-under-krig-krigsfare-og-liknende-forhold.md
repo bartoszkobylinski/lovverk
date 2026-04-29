@@ -15,8 +15,9 @@ xml_hash: "882881ce32d6dd41f365aae5d089b19039d9a970011404672ea021a22867fe7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om havners beredskap for og støtte til Forsvaret under krig, krigsfare og liknende forhold (havneberedskapsforskriften)

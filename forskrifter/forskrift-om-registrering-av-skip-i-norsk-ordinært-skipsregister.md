@@ -15,8 +15,9 @@ xml_hash: "1dccbe7d5cea91e0ca18f81ea5b9f78bd08c5229b8bc4000bcbbb30521c772c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering av skip i norsk ordinært skipsregister

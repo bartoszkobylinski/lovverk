@@ -15,8 +15,9 @@ xml_hash: "a13d56dfbba26559429f8ddb80acc2986946ca62a51a0617f3dda684656b1661"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studier og eksamen ved Universitetet i Stavanger

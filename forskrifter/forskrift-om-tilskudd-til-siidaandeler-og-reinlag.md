@@ -15,8 +15,9 @@ xml_hash: "138782540f2709da26574a3c08bd59c8e17fe18335c5c7c19c8267714b9e0c41"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til siidaandeler og reinlag

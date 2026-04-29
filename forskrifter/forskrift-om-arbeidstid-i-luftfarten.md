@@ -15,8 +15,9 @@ xml_hash: "3418dbe5c14ee337ec0edb3b56f27601d56c64291cbd38db2ad4b2e45fe4021d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidstid med mer for besetningsmedlemmer i sivile luftfartøyer (BSL D 2-4)

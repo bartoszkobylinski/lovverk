@@ -15,8 +15,9 @@ xml_hash: "28b3fa1788f8aecc90071c0c15e765981c8a9a327d15313e04f2e44d6849c9d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv.

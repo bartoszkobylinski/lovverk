@@ -15,8 +15,9 @@ xml_hash: "4517353ef9eb6376322abed2f01d22c14bad05f4c2f5e25aceb229de6cab9504"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyrer for utstedelse av radiooperatørsertifikater.

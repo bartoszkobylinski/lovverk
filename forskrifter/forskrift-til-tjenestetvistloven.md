@@ -15,8 +15,9 @@ xml_hash: "e281c3100e3c2372dca0cfa3231c680b1443e3db54ad136ef00ea52101c2c74a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov av 18. juli 1958 nr. 2 om offentlige tjenestetvister.

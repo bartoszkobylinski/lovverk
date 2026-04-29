@@ -15,8 +15,14 @@ xml_hash: "918ba4fa2208a58da828b925c8ea965d69a598f7d02d2aae95b548b0de8db9d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009R1221"
+  - "32010L0075"
+  - "32004L0035"
+  - "32008L0098"
+  - "32018L0851"
 ---
 
 # Lov om vern mot forurensninger og om avfall (forurensningsloven)

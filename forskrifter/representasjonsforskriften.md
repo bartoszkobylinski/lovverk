@@ -15,8 +15,9 @@ xml_hash: "5ab90cd5b878a9b8c087aacd5f62d926f9219495a24911950bc303e5890461ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om de ansattes rett til representasjon i aksjeselskapers og allmennaksjeselskapers styre og bedriftsforsamling mv. (representasjonsforskriften)

@@ -15,8 +15,9 @@ xml_hash: "f0f453394ce91b358ce00c871abd7821e2c1ba0cbbaf4122d1a540d3c8473525"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Mellombels forskrift om sensurfristar ved Norges Handelshøyskole (NHH)

@@ -15,8 +15,9 @@ xml_hash: "6da67e60afe7caceb80925ef7a7a1b8763492a9610c81745cc35e24cf4b74011"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot høsting av haneskjell og sjøpølse

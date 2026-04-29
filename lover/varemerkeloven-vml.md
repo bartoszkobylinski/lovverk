@@ -15,8 +15,10 @@ xml_hash: "4a37196138d301c2651638e13f40ebbb46cd4800079e9e1ea0c130011b411101"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32015L2436"
 ---
 
 # Lov om beskyttelse av varemerker (varemerkeloven)

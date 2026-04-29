@@ -15,8 +15,9 @@ xml_hash: "15edc0955708f24265476c2c7f2fc8f7e8a5ff07254cc9c4bffff00afd2748b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om sikring mot naturskader

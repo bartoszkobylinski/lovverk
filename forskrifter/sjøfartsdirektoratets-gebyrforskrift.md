@@ -15,8 +15,9 @@ xml_hash: "4e71ca14a38e7512e8bae777d3b267ec0afe01b2606075c47022e39e19282371"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppkreving av gebyr til statskassen for besiktelser, sertifikatutstedelse mv. som foretas i henhold til skipssikkerhetsloven mv. (Sjøfartsdirektoratets gebyrforskrift)

@@ -15,8 +15,9 @@ xml_hash: "528ee021cee89b68319d727385bfb220c6a27788f5b4537e7b57e0c106c85bae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om jakt, fangst og felling av vilt mv. (viltressursloven)

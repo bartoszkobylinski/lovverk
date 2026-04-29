@@ -15,8 +15,9 @@ xml_hash: "212eb739fae008a51ae97da6ed08f8de72f442cf74ac8b650873d900bfd85b1c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til tiltak mot marin forsøpling

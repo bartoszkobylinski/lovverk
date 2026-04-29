@@ -15,8 +15,9 @@ xml_hash: "8c62eb8248147f8ac097c6507af3eb0da1b5acd5eaab26c758e3d1d90b0935b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om politiattest i henhold til arbeidsmarkedsloven

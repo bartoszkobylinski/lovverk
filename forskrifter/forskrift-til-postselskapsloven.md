@@ -15,8 +15,9 @@ xml_hash: "04ad92ca01340688ecd62dc759e82fe1d75eac74eec7184c088fe2da0e61b895"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til postselskapslovens bestemmelser om de tilsattes rett til representasjon i selskapets styre og bedriftsforsamling mv.

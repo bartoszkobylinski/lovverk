@@ -15,8 +15,11 @@ xml_hash: "1a3a1c825c01174854a6102af318c67536720e0af849cc928ffd1315dd2cfff3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32015*1535"
+  - "32000L0031"
 ---
 
 # Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)

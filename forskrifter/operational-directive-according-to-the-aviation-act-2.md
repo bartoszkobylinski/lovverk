@@ -15,8 +15,9 @@ xml_hash: "6f178a04c3acc75134b2bf4e04f8150842e382c74c7ca8654755bb75036962cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Operational Directive requiring the use of pressurized aircraft for air operators conducting scheduled passenger flights over mountainous areas in Norway

@@ -15,8 +15,9 @@ xml_hash: "50235ff8d69988b17054996dd962b1a1c302bf1f9596ae26cf2728bef45b7f1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ikke-kommersiell forflytning av kjæledyr (kjæledyrforskriften)

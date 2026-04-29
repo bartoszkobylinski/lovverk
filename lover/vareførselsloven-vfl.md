@@ -15,8 +15,9 @@ xml_hash: "df7a63b55718b1c78267aeb52993cb8da7870d5495316501be548fd1a411dcf5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om inn- og utførsel av varer (vareførselsloven)

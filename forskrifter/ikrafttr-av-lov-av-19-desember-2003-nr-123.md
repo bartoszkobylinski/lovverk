@@ -15,8 +15,9 @@ xml_hash: "db1c4d67a4038a7df1f54c31f0937e83760a8287f86687c92672eba251f9bdf5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Ikrafttredelse av lov av 19. desember 2003 nr. 123 om endringer i legemiddelloven (refusjonskontrakter m.m.).

@@ -15,8 +15,9 @@ xml_hash: "45ad8c9d9e465a1df2991b59c6b9a769562204f5ac8b0cfe5eac558350289ed8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2016/545 om framgangsmåter og kriterier med hensyn til rammeavtaler for tildeling av jernbaneinfrastrukturkapasitet

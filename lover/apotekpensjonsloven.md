@@ -15,8 +15,9 @@ xml_hash: "8279b209ebf4a1507ab1326ca59dafb4034cbbb723dba6fa43be43835a0a3457"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven]

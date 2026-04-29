@@ -15,8 +15,9 @@ xml_hash: "264875450d23b8e2abe2682591b810d66eda8aa4cf3bde096755d818a49db348"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastlegeordning i kommunene

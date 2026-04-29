@@ -15,8 +15,9 @@ xml_hash: "2126999453a0bfaa7f8ab109a259f5af160f385832f387e7461986933142d70b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Stortingets ombudsnemnd for Forsvaret (forsvarsombudsloven)

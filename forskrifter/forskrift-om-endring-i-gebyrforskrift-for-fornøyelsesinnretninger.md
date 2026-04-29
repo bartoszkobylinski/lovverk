@@ -15,8 +15,9 @@ xml_hash: "14318c3e69a09471ea58f5b8e745fd2e20e24747621568780111d56eeb03b9c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i gebyrforskrift for fornøyelsesinnretninger

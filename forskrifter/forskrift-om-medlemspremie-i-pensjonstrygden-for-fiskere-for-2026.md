@@ -15,8 +15,9 @@ xml_hash: "4786fa8334b87c35d1d3661249d9454bfb994a6b66e8dbaba12fcd8818153a25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om medlemspremie i pensjonstrygden for fiskere for 2026

@@ -15,8 +15,10 @@ xml_hash: "b29ba32abf0e0c7e1f293ee4eb7274787ab7b8d4cb3ea1aac249b2390c0f4296"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019R1149"
 ---
 
 # Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)

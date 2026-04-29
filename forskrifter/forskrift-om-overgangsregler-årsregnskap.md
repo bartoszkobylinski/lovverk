@@ -15,8 +15,9 @@ xml_hash: "39a73ea3db84ef349824812be29d44d79434e0ad06a2f768793f60f178880076"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til forskrift om årsregnskap m.m. for forsikringsselskaper og til lov om årsregnskap m.v. (regnskapsloven).

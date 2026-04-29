@@ -15,8 +15,9 @@ xml_hash: "4d4efc8f1891f0b7875b97592ec6de20e9771ec95183cc095fcaa63da78e363d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Gebyrforskrift for fornøyelsesinnretninger

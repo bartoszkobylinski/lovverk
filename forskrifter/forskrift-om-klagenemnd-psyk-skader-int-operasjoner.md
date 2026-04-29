@@ -15,8 +15,9 @@ xml_hash: "f94fa77a9b303bba2dc27a3114980433415916212c291dd8e476626c8592bfbe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner

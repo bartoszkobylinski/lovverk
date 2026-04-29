@@ -15,8 +15,9 @@ xml_hash: "bf2f25e77e4485acf8b70b89fd9dca91d3ee257e51ba082fc07d44bb2f9098a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utpeking av Kystverket som klageinstans etter lov 21. juni 2019 nr. 70 § 4

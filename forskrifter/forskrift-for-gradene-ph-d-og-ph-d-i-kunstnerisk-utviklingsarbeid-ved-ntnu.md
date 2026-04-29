@@ -15,8 +15,9 @@ xml_hash: "02b3488a94f9c173da35365e71b151526f90a80c5a991e534101c731d2fe7504"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for gradene philosophiae doctor (ph.d.) og philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Norges teknisk–naturvitenskapelig universitet (NTNU)

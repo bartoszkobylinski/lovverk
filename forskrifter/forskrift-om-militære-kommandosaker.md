@@ -15,8 +15,9 @@ xml_hash: "78a59076c18daa70cdfa5e0518a8fac66e8c125b2bf50856ec71a63ea890bb31"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter vedr. egentlige militære kommandosaker (jfr. Grunnlovens §§ 28 og 31).

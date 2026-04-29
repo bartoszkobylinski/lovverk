@@ -15,8 +15,10 @@ xml_hash: "b9c9d8aee13c0af27ebd9b9e78922bdf2ded21f63c0e2f90a8404edf1bb2893a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32017L0828"
 ---
 
 # Lov om røystingsrådgjevarar

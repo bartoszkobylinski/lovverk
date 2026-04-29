@@ -15,8 +15,9 @@ xml_hash: "02e1cbb432d38c93ad9c7482d00267fe03757a2b248ca947a783a51c71f0d94c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tillitstjenester for elektroniske transaksjoner

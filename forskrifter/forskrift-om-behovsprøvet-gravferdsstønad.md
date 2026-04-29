@@ -15,8 +15,9 @@ xml_hash: "ced4bf59e7606b16ade71dd92f7cd7488ed0158df2136eff1a573798a3c824c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behovsprøvet gravferdsstønad

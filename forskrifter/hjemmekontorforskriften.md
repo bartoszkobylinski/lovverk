@@ -15,8 +15,9 @@ xml_hash: "adba3b636a72cc52a0912635a8038ba2abb759ce0e644871d4cdee61f88ca112"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeid som utføres i arbeidstakers hjem

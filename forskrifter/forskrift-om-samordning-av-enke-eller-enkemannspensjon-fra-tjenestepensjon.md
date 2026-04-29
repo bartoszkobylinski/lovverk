@@ -15,8 +15,9 @@ xml_hash: "eead84f435be65237e3070f73de185426f8cfd8e52989bd7caa8743c8c619689"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordning av enke- eller enkemannspensjon fra tjenestepensjonsordning med tilleggspensjon fra folketrygden

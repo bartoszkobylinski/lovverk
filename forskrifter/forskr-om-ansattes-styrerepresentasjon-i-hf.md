@@ -15,8 +15,9 @@ xml_hash: "4bcc28d3f2f096a31680564688fb1a6629d7d525a7d4a8527004fca142d7458e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til helseforetakslovens bestemmelser om de ansattes rett til representasjon i regionale helseforetaks og helseforetaks styrer.

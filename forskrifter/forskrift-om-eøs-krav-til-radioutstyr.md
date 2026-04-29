@@ -15,8 +15,9 @@ xml_hash: "2c1698230f78e32849339803c28674c6d368d2192e485e3f308498f2a945f5d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-28T06:27:32.414393+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om EØS-krav til radioutstyr

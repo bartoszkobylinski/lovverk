@@ -15,8 +15,9 @@ xml_hash: "f183a8b70de165c59be0f8b558cfe5a1aff95bd5759541b9732cb76b2afa7211"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om U-space og krav til en integrert digital luftfartspublikasjon for brukere av luftrommet

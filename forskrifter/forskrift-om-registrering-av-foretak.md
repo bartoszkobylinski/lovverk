@@ -15,8 +15,9 @@ xml_hash: "559d6e9bce336c405c7334fb5933c0134fffbee58b577c82c4d4d7b9d1d5c570"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering av foretak

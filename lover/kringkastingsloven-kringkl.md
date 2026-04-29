@@ -15,8 +15,12 @@ xml_hash: "5b29ec77263f82660c08841a552b84de349629d7131170f30e5f53c9aa5344f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32002L0022"
+  - "32010L0013"
+  - "32017R2394"
 ---
 
 # Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingsloven)

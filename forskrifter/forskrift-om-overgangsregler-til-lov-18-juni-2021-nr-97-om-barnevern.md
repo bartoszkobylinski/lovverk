@@ -15,8 +15,9 @@ xml_hash: "d51be6f76d46cba9734541e41c9b06f47ae09f1f6cbcdca82549583330822f7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven)

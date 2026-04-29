@@ -15,8 +15,9 @@ xml_hash: "dfcf42d906be6de37efd28a91b16bf1730fb96b4a54ed68634f0c97fa7754d3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidstid i institusjoner som har medleverordninger

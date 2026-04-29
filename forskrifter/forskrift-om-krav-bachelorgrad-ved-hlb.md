@@ -15,8 +15,9 @@ xml_hash: "538a0244527f5e8e1e9c3c01150036b2a0f8c0f3ce9031c324f65a68fcf744ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til bachelorgrad ved Høgskulen for landbruk og bygdenæringar

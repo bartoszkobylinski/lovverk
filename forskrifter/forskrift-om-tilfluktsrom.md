@@ -15,8 +15,9 @@ xml_hash: "2acd4b7fa7d878a26f639d5d78dfe95f4ad7f17dca953ac213a3085db8a060af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilfluktsrom

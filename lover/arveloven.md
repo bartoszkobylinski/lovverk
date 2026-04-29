@@ -15,8 +15,9 @@ xml_hash: "858eb5e8ad82a03a46d0502d2fbf82936bb13e6215fde8334621106d65ccd4a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om arv og dødsboskifte (arveloven)

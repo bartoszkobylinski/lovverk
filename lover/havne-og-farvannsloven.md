@@ -15,8 +15,9 @@ xml_hash: "2fd6c2b871268d5bb62ba8d15e9f27f181dd3f5fa952aeebb71bf31bf9a04faa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om havner og farvann (havne- og farvannsloven)

@@ -15,8 +15,9 @@ xml_hash: "f09e61ea171e6463191006ba87ed821c4739d3eef6b00a6187ca56b253d29e2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om dokumentavgift (dokumentavgiftsloven)

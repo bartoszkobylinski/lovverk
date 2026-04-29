@@ -15,8 +15,9 @@ xml_hash: "b7dfb204e40bbe9bfa61b69f8598c9d8bfe39f1f1b27a707fe76361c98c0ddd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Riksrevisjonen

@@ -15,8 +15,9 @@ xml_hash: "4f68c3b300f258fd3845e232d23b61e3c03c84c0b1d336b6a4e613f18690ca99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om barn og foreldre (barnelova)

@@ -15,8 +15,9 @@ xml_hash: "3557d6658c07ee10d593abb9c4ef560ca2a4008300fd3aad429d2ba2ddd3b8d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig kompensasjonsordning i forbindelse med avlysning eller stenging av kulturarrangementer planlagt avholdt i oktober til desember 2020 som følge av covid-19-utbruddet

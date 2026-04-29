@@ -15,8 +15,9 @@ xml_hash: "0a9ab25d17c3364e61e3631ce155bc032227b35e31a21e54a50a670fbbe815ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot vilkår om sosial infrastruktur i utbyggingsavtaler.

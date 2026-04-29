@@ -15,8 +15,9 @@ xml_hash: "8cde1045d334290da7ae629d5226b809be432abf9682793a978ac2988407034a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Agder tingrett

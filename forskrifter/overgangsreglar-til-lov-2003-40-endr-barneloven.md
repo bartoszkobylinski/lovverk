@@ -15,8 +15,9 @@ xml_hash: "4f5d05b9d51eeea1e2a7e24854cc1cd97f9dc3705d3fac0373eafa3b91c1666f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsreglar til lov 20. juni 2003 nr. 40 om endringer i barneloven mv. (Nye saksbehandlingsregler i barnefordelingssaker for domstolene mv.).

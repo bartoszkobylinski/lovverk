@@ -15,8 +15,9 @@ xml_hash: "d3af824dac13b39a7d13ad5cd3077bd3bf07ebe29408d6279120873fc9844003"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Arbeids- og velferdsetatens tilgang til opplysninger fra Innkrevingssentralen for bidrag og tilbakebetalingskrav

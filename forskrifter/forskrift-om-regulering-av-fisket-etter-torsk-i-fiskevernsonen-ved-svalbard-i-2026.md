@@ -15,8 +15,9 @@ xml_hash: "a38f20e97a48d53547b511de4702eaf2dee5f4a78e32bd20ac893b03187d8e05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter torsk i fiskevernsonen ved Svalbard i 2026

@@ -15,8 +15,9 @@ xml_hash: "95ac5a442b6af53ade19b9af1714254c22f47dd5d07513dddedb3c5534c2ad56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om registrering av regjeringsmedlemmers, statssekretærers og politiske rådgiveres verv og økonomiske interesser

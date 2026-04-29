@@ -15,8 +15,9 @@ xml_hash: "c2031e1ec3029ec3cc14e3e239a4ade2f951c93656aa43ad3e913bc0b8fe5a69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om miljøvern på Svalbard (svalbardmiljøloven)

@@ -15,8 +15,9 @@ xml_hash: "320106021300dc85b64bdf6a1c8399a03896c87d3c74cfa6b92ecfbaae5f2ea5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om standard opplysningsskjemaer etter lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv.

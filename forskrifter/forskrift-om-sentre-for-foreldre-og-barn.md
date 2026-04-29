@@ -15,8 +15,9 @@ xml_hash: "4de6d6d6649aea03005331369da0186282984e8a3309c6ab28eb9556e55836c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sentre for foreldre og barn

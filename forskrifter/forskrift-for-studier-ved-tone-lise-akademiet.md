@@ -15,8 +15,9 @@ xml_hash: "aa940a46ececc9a43bcc9c4527e09b15f43b49ce6326f1c8f9d0bcb9d594028b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for fagskolestudier ved Fagskolen TLA AS

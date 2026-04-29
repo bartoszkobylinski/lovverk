@@ -15,8 +15,9 @@ xml_hash: "c9ca35613310ad0af7a52c5e8cba74f2b9b1db002ccce3d8607a404f0464b3e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse av utleggstrekk og fordeling av trekkbeløp

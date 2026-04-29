@@ -15,8 +15,9 @@ xml_hash: "57c49c50f1151fe5df7fa854ce1b402f51b1545edbe7f324d8d18fbaa4bc7e44"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om barnevernslovens anvendelse på Svalbard

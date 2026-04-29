@@ -15,8 +15,9 @@ xml_hash: "d9efa38bd4a2bc52051c2a07a2666a4d042df8272dc8ac45986a25c0f9f6094a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser i anledning ikrafttredelse av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet (konkurranseloven) og lov 11. juni 1993 nr. 66 om pristiltak.

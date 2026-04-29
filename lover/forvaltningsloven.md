@@ -15,8 +15,9 @@ xml_hash: "6f332ece85ff40350da613185f533fc54a729129a59fb2c7c02424cca708dc9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven)

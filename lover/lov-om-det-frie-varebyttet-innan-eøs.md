@@ -15,8 +15,10 @@ xml_hash: "b20fb7dacbafe23277a573c61315d2fcb6f9c031f1532aed69534c07b3926c69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31998R2679"
 ---
 
 # Lov om handheving av det frie varebyttet innan EØS

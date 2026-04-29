@@ -15,8 +15,9 @@ xml_hash: "1d50dcccea9e1cf0c69544faac4ca8b88564e4316320c9de5e1b5523e2b28887"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om arbeidstvister (arbeidstvistloven)

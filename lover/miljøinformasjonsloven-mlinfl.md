@@ -15,8 +15,10 @@ xml_hash: "4f249d6f0cefb4d11b529a9d06e4d09cab0b8dc55ff9f46653a2ec13ed725708"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32003L0004"
 ---
 
 # Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven)

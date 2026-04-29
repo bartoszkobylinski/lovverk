@@ -17,8 +17,9 @@ xml_hash: "cd8ae126c8e3cd0ecb4fa03d0101b44ca3ae595847e21f8789afca19587cb7c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om deklarering av kjemikalier til produktregisteret (deklareringsforskriften)

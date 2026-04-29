@@ -15,8 +15,13 @@ xml_hash: "d85d06ac2fb1fc2abc2ca0ce4cb913575709b96e5e0e357cdf957f7b2c27e6e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014L0024"
+  - "32014L0025"
+  - "31989L0665"
+  - "32014L0023"
 ---
 
 # Lov om offentlige anskaffelser (anskaffelsesloven)

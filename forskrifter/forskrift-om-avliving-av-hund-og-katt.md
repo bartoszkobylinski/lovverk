@@ -15,8 +15,9 @@ xml_hash: "9d2a50da110e0ca53da0b03c0eff1229483b4912870d3e351588e6a4335f4159"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avliving av hund og katt

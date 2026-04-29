@@ -15,8 +15,9 @@ xml_hash: "8c5a7c7a2d1072546db15051d21ad808ecac1ce9d6e98308bb955d0c0e5ddfed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsordning for autorisasjon av hjelpepleiere og bioingeniører

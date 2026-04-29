@@ -15,8 +15,9 @@ xml_hash: "cf7a037b5f385818b0b43ebcbbb9951e2d78f8a14d44d9a720021d6375ae1db8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for samordning av enkelte pensjoner fra tjenestepensjonsordning og personskadetrygd når ny uføretrygd i folketrygden trer i kraft 1. januar 2015

@@ -15,8 +15,9 @@ xml_hash: "7414580784c8b370d283ee6117db84d08aa653ddb9f22e1aa08398d3ba4c9872"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om veksler [vekselloven]

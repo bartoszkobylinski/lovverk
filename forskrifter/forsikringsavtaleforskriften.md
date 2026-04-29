@@ -15,8 +15,9 @@ xml_hash: "96a56503ab643119a449d40243df6d57c7baa65737c4800e87da80659c6bd960"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forsikringsavtaler (forsikringsavtaleforskriften)

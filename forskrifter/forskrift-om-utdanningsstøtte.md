@@ -15,8 +15,9 @@ xml_hash: "5a566487b962d1b40f3bcaf13b78a64594272aa17396ec13787a607b6e6d7717"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T06:21:54.162913+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utdanningsstøtte

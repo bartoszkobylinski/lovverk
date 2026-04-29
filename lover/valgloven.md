@@ -15,8 +15,9 @@ xml_hash: "19e57291ea0035efb93bed2da63629accf15aa3471433ee1a80718b544d5a8af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven)

@@ -15,8 +15,9 @@ xml_hash: "baac4d0b4c9d160dbf2e5d91849dfc23a2ecb845e3f949bdd16caf53a2c4f922"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 22. juni 2018 nr. 77 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader

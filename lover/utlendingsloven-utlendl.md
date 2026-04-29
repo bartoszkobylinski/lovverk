@@ -15,8 +15,10 @@ xml_hash: "d6e219918c177d34fadf64ab0690cb963144b0183c45b8adb3e46099b748cffb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32004L0038"
 ---
 
 # Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)

@@ -15,8 +15,9 @@ xml_hash: "d5b35594a9902e35acb0177257940dc720276fa2641201a9bbe9aaf5b671890f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang til å drive fiske og fangst i farvann underlagt annen stats fiskerijurisdiksjon

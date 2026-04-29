@@ -15,8 +15,9 @@ xml_hash: "108e9e71d72330b39b2cae6adbe1c9b82b3176d30faca88d46fbf86d21a0fcd2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om fredning for sibirstjerne Aster sibiricus

@@ -15,8 +15,9 @@ xml_hash: "adc337c52ca7eadd4c46347035d51e2d29875af33418a64e4bee3078a3ae6aee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler

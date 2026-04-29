@@ -15,8 +15,9 @@ xml_hash: "3d71c52af61157ab1d8d560f646bb751b57c9efe0b225390a5268a86863d40f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Cancelli-Promemoria

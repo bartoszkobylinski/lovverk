@@ -15,8 +15,9 @@ xml_hash: "213ddc25c101335c543bd5db471b807017a9fb6ba1624390cfdf45e95b6a4c75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for opptak, studier og eksamen ved Imageakademiet

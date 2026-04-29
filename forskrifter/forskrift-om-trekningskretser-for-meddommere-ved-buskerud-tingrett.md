@@ -15,8 +15,9 @@ xml_hash: "220f00834e76200b5c41828c60bca7b7888b180d20c62013a190c1737779d20d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Buskerud tingrett

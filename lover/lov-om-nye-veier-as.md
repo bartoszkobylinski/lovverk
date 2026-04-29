@@ -15,8 +15,9 @@ xml_hash: "b09a1f66663d7e71db44547d3810efa7a621e13f386102910fc233af427ae4d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om overføring av offentlige og private rettsforhold fra Statens vegvesen til et statlig utbyggingsselskap for veg

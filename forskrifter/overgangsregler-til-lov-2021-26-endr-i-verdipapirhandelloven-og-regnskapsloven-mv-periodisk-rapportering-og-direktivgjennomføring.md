@@ -15,8 +15,9 @@ xml_hash: "3d04e7b91f6fa465be00b4a4da7e6901b4d92e14890fd60dfbfb34dc0fd7d76b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 30. april 2021 nr. 26 om endringer i verdipapirhandelloven og regnskapsloven mv. (periodisk rapportering og direktivgjennomføring)

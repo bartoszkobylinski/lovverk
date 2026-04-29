@@ -15,8 +15,9 @@ xml_hash: "59d3eaa3fef2fd2094d88b7ee04d034daefbfac71e227b71ca391b6caf0f5517"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om Haagkonvensjonen 1996 om sentralmyndigheten mv.

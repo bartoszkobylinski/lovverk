@@ -15,8 +15,9 @@ xml_hash: "7229eac4c1a8a0e04eee1f4d90e67c346d334333244881a43d6efab25a0cd924"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for definisjon av begrepet olje og oljeholdig blanding i lov om vern mot oljeskader.

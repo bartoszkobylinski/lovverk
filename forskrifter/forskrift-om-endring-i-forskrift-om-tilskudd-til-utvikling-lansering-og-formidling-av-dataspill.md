@@ -15,8 +15,9 @@ xml_hash: "f238b3a7077c6f69036d0039cecabd5d74ac0478c7743c09ec8565d7a357ac17"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om tilskudd til utvikling, lansering og formidling av dataspill

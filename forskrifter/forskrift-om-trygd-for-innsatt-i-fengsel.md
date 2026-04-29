@@ -15,8 +15,9 @@ xml_hash: "c112aa9118976c3c0bf7eb793f9c420c95864ff5ca213a916d82f838578efdbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Regler om trygd for personer innsatt i fengselsvesenets anstalter.

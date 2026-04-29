@@ -15,8 +15,9 @@ xml_hash: "3bbe7166d7fc42bf5bfd51b250f6b5e8e5e1ad2556c65c746805228564152eef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)

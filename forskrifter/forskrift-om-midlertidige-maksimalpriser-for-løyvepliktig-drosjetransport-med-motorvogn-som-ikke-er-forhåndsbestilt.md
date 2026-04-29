@@ -15,8 +15,9 @@ xml_hash: "1ef1d265549df0b8bf3ea954e8fea871bc61c773e397460f95ff350c05c95a5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidige maksimalpriser for løyvepliktig drosjetransport med motorvogn som ikke er forhåndsbestilt

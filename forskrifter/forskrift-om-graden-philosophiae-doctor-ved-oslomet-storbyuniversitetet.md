@@ -15,8 +15,9 @@ xml_hash: "31ab3edcb406c1cfd9f7b04a8fd46a357418bb5f02842e2f904df3034975730c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om graden philosophiae doctor (ph.d.) ved OsloMet – storbyuniversitetet

@@ -15,8 +15,9 @@ xml_hash: "3b8e1a071d651b2c6469bb023c77b9ab954c522cc5758ca4e5c3329a1b5128fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fellesansvar for utfisking mv. av rømt oppdrettsfisk

@@ -15,8 +15,9 @@ xml_hash: "2b8d7584209e71a86d884eb63c38bd4b546deeaf8a5580374c8dfeb635b5b82b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hvilke fag som er lagt under lov om mesterbrev i håndverk og annen næring

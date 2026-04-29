@@ -15,8 +15,9 @@ xml_hash: "69a6d4ffeaf4a07613b4391e05a14ff242c81d7b86487e7b231db56c19d1fd92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting

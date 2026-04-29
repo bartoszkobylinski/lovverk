@@ -15,8 +15,9 @@ xml_hash: "e0bb1ea92a28577f8ffcfafd5cdd382b72b22ab2ee296433c25e4601c419b9bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godtgjering til andre som gjer teneste etter barnelova § 61 første ledd.

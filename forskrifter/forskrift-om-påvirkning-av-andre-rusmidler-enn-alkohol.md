@@ -15,8 +15,9 @@ xml_hash: "b6687b313e55990019d6a6a6c8181fa5e37af9c3dd7dedd5185ff980f030daef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om faste grenser for påvirkning av andre berusende eller bedøvende middel enn alkohol m.m.

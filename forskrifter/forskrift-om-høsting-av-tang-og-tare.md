@@ -15,8 +15,9 @@ xml_hash: "1956d9a60457fa1b97a85f1bad64565ecc30b76cd70e7658712ff8a79ab475b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høsting av tang og tare

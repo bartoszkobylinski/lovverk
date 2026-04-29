@@ -15,8 +15,9 @@ xml_hash: "6b77c649e697b08d2e366128a49ea40ab936a469849d6c1243b36839df3175b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ny mat

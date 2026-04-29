@@ -15,8 +15,9 @@ xml_hash: "ba8450052c53055a8ca76a0610bc1ed0c5c3427b4351e3e7a5bc6dd8f5018062"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann

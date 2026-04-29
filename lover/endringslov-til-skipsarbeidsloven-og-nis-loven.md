@@ -15,8 +15,10 @@ xml_hash: "52f2a2a22efdd02597f8f2d82c303ba6c00fbcecd3d8e9004e3b3f1fbc4fa3ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019L1152"
 ---
 
 # Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare arbeidsvilkår)

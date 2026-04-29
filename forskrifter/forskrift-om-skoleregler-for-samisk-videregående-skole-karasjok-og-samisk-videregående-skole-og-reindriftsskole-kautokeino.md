@@ -15,8 +15,9 @@ xml_hash: "d6f6b9eb1b74898e5342f7b60b58c2427b0cafbf0f8205d2884e998a89cd4396"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skoleregler for Samisk videregående skole, Karasjok og Samisk videregående skole og reindriftsskole, Kautokeino

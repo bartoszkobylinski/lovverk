@@ -15,8 +15,9 @@ xml_hash: "14cc51c077463cb22bdfead5b2dc105005f4df5b9ebdb38f2e6cc74e89c23b8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om postforkynning

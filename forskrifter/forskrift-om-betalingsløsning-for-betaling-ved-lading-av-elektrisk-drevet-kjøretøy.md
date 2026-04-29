@@ -15,8 +15,9 @@ xml_hash: "21bf583cca568259d2b4a677a0c3c46c7491d57ba58e78e4a7c88d4eb81f6add"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om betalingsløsning for betaling ved lading av elektrisk drevet kjøretøy

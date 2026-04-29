@@ -15,8 +15,9 @@ xml_hash: "19149ea9d91218d57d34bbad013f6c875e669db484bf6fdfccad2c1d757e0f59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)

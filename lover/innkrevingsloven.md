@@ -15,8 +15,9 @@ xml_hash: "17804fd74d48da0915f9472766cc2c7542f10478c3f4a6b83c573a266fd42d6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om innkreving av statlige krav mv. (innkrevingsloven)

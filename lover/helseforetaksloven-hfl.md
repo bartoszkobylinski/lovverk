@@ -15,8 +15,9 @@ xml_hash: "9722a1577cdc3477cc8f9b9daa75a4eb0e0b4ceee289e9f2c621471b75050b73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om helseforetak m.m. (helseforetaksloven)

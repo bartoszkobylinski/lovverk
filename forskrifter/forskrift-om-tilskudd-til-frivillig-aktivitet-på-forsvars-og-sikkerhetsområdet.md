@@ -15,8 +15,9 @@ xml_hash: "2b9126a2fbc290dcd5cefd510c54c5f8185f162d226eb69a7902f6e26058b521"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet

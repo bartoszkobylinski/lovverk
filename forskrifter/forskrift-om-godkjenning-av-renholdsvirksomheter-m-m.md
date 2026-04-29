@@ -15,8 +15,9 @@ xml_hash: "4ff72b9be16c36743ac3ac27d6d9dc5ea464e3a493b05b42bd9fe90476352f98"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester

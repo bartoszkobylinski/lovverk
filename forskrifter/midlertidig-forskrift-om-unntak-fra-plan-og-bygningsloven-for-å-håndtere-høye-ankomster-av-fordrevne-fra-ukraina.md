@@ -15,8 +15,9 @@ xml_hash: "9c39ef34b5c7c9bdb97a5411c60f1fa13b3db9088e7704db72f2aabeca1e8b74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne fra Ukraina

@@ -15,8 +15,9 @@ xml_hash: "d656b1c4933b9c8e5239aff48169e0b01d8c487f4976dff2806df8d44cc97383"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pasientskadelovens virkeområde og om tilskuddsplikt for den som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten

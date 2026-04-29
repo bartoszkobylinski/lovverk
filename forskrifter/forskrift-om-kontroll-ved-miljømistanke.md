@@ -15,8 +15,9 @@ xml_hash: "6afc467afdd1ac7ec0949402007a5b5124976f6772e66736d3406de4c38f529e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om undersøkelse, stansing og bording av utenlandsk skip ved mistanke om miljøovertredelse

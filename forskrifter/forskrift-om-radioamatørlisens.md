@@ -15,8 +15,9 @@ xml_hash: "714e40a2aca4bf96956b7a13e682e02953a614e702b62ed2e264d0c650b2d6cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om radioamatørlisens

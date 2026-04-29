@@ -15,8 +15,9 @@ xml_hash: "252e2ca720678ba7b19fae64a16afd587610b5c7e1f20e74e57f08573e8a4090"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samarbeid om produksjon og omsetning av visse hagebruks-, gartneri- og fjørfekjøttprodukter mv.

@@ -15,8 +15,9 @@ xml_hash: "0d71a38970478d195c1c019aff1ecca7b2c0d0216d561316d6355acec8879f0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vareførselskontroll på Svalbard

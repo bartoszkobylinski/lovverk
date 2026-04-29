@@ -15,8 +15,9 @@ xml_hash: "b8dd35d92c9bd3b178fb60bb8c945780a69f5130247b076c13e8ffe9ead678e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om støyrelaterte driftsbegrensninger ved norske flyplasser

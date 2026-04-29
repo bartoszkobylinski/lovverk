@@ -15,8 +15,9 @@ xml_hash: "6e2c5e353267f230ae95323fea06f0232e48cfa7e9d3758fbf24d0ca8518ce17"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos logoped og audiopedagog

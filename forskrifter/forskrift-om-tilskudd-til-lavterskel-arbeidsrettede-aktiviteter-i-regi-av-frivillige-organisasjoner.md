@@ -15,8 +15,9 @@ xml_hash: "3f8e12e89691ced8207680ee20972cd28136574309146db8b1563664f1859c6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til lavterskel arbeidsrettede aktiviteter i regi av frivillige organisasjoner

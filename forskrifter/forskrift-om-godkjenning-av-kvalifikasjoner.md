@@ -15,8 +15,9 @@ xml_hash: "325786c9476c948e1a88dc61546142825bf8ebdbfe08c1fae37314c990f42bff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godkjenning av yrkeskvalifikasjoner for styrer og pedagogisk leder i barnehage fra annen stat

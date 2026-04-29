@@ -15,8 +15,9 @@ xml_hash: "f523c750ea788a4d9ac33b33ebd7089bd53c1ee5ea0d5fd656279e16da34dddf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikkerhet på jernbanenettet (sikkerhetsforskriften)

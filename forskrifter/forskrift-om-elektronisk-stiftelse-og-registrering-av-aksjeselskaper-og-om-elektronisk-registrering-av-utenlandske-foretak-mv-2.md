@@ -15,8 +15,9 @@ xml_hash: "dcd10039080de48909e5e3e0d61c06a4d9216c3777b6d41e6b73177bf9885e55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elektronisk stiftelse og registrering av aksjeselskaper og om elektronisk registrering av utenlandske foretak mv.

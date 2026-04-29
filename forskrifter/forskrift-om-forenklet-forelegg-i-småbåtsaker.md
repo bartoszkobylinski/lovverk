@@ -15,8 +15,9 @@ xml_hash: "314dfc1312ed32f10efa7fe8e1f69d4162fad70c7284ede844f11f88a53f17d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forenklet forelegg i fritids- og småbåtsaker

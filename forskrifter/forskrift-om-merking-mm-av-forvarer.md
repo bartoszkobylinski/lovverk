@@ -16,8 +16,9 @@ xml_hash: "2e24a215e16fefca30ab131e7618c8f78b1f06d96a244333fa651b06406c23f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om merking og omsetning av fôrvarer

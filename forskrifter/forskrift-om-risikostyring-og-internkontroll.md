@@ -15,8 +15,9 @@ xml_hash: "84390cf39b66683b319d46b5efec1acd3a842f5b725b05e3b5f8d2f77c5db5a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om risikostyring og internkontroll

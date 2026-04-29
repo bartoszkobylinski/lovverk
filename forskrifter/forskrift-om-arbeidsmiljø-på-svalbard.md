@@ -15,8 +15,9 @@ xml_hash: "1235a6c5b9ff00d6be0c995ff2582d1810847f70a3627b0c0820bcf7ab2f14a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter (midl.) om arbeidervern og arbeidsmiljø for Svalbard (særregler). Del. av fullmakt.

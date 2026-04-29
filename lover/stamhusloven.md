@@ -15,8 +15,9 @@ xml_hash: "cd2fde5a2ccca5e5952acb4aef2fa8fa1f46fa56cc716b05b4088b46cfb2ef33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om stamhuset Rosendal og om forandring i arverettsreglene for stamhuset Jarlsberg [stamhusloven]

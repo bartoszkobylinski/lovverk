@@ -15,8 +15,9 @@ xml_hash: "e7e74d1aee689aa68594a7497b0d5797795e3ea5b0b2d03eebf619ef1fbfe0e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 19. juni 2009 nr. 60 om endringer i revisorloven og enkelte andre lover (gjennomføring av revisjonsdirektivet)

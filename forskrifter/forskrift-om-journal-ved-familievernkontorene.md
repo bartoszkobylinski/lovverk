@@ -15,8 +15,9 @@ xml_hash: "c01f069bf3f0580c007347347b228f3b91c536f9ba676cb6bc15321a23e98f6e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om føring av klientjournal og meklingsprotokoll ved familievernkontorene mv.

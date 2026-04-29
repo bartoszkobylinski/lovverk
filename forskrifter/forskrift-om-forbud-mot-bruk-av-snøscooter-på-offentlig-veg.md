@@ -15,8 +15,9 @@ xml_hash: "badea9d80caed331e5c66b83e2cba70423df244548d56bb5be94b3ab5b437702"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot bruk av beltemotorsykkel (snøscooter) på offentlig veg.

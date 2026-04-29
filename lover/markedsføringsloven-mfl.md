@@ -15,8 +15,18 @@ xml_hash: "0c50f3efeb9f89ddfc7b38126618ad469913450343cbb6563ae9e0c6e7d69bdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32002L0065"
+  - "31998L0006"
+  - "32006L0114"
+  - "32009L0022"
+  - "32017R2394"
+  - "32005L0029"
+  - "32019L2161"
+  - "32011L0083"
+  - "32019L0771"
 ---
 
 # Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)

@@ -15,8 +15,9 @@ xml_hash: "7f3b561b93a7b623516b8bca4823ab6d5157a832b959f58ae04c5c821339dbe4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om serveringsvirksomhet (serveringsloven)

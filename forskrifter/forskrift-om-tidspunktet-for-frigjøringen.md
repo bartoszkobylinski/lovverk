@@ -15,8 +15,9 @@ xml_hash: "0b901b329d59e38661cca8c2e763f37174f2bcf752c4d72f0603c721c8e1488c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om det nøyaktige tidspunkt for frigjøringen av Norge.

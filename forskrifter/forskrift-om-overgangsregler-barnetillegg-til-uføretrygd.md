@@ -15,8 +15,9 @@ xml_hash: "7dd813c1b333add29676eb8bf4cf1be064db9d0917a7ebbb88b6d9ce5e7bd5c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for personer som har rett til barnetillegg til uføretrygd per 31. desember 2015

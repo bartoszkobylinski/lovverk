@@ -15,8 +15,9 @@ xml_hash: "f2016b2ed923e6032c5475cf2be0f1a7ba048e9ac2bfc3f2dc9da5a398117615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innsamling og behandling av helseopplysninger i Norsk overvåkningssystem for resistens hos bakterier, sopp og virus (Resistensregisterforskriften)

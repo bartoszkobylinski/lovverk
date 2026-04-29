@@ -15,8 +15,9 @@ xml_hash: "55d76b89cd46d6ec64a1c122f266f6cb32e895585587e522afd0bdeb230dda75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om tekniske og operasjonelle forhold på landanlegg i petroleumsvirksomheten med mer

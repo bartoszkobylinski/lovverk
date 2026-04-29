@@ -15,8 +15,9 @@ xml_hash: "6a2ba7478d064656e14f3a3c04ffe53067293777049b421a9e14059c25a6453a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forenklet oppgjør for arbeidsgiveravgift fra statens forvaltningsvirksomhet

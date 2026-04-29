@@ -15,8 +15,9 @@ xml_hash: "3646cc3027837f7cadadb463abfb3ea22018fe2b0516bbd7b77204a11edb8b78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser ved ikrafttreden av lov om miljøvern på Svalbard (svalbardmiljøloven).

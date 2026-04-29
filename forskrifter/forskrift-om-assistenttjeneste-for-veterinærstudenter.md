@@ -15,8 +15,9 @@ xml_hash: "17bf7f8d66666829bc74d6c57d259f6ce4d25fba52c9556c2b324fb117f40d0c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang for viderekomne veterinærstudenter til å utføre kortvarig assistenttjeneste

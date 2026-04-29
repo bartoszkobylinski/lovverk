@@ -15,8 +15,9 @@ xml_hash: "70595cd1b9034eae0d8f119e433334cb10c8834aa357a6079e2223316e79f3a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved Fagskolen Viken

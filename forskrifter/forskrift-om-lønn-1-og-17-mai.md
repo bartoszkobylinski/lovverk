@@ -15,8 +15,9 @@ xml_hash: "10969ce9aba19db479c08428f1f5e9b3d838356d3d06d917059820e40520a58a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lønn 1. og 17. mai.

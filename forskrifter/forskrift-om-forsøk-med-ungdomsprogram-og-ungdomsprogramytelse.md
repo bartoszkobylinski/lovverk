@@ -15,8 +15,9 @@ xml_hash: "35dc3fd80f8fea4fa83e5b1d9c26300bc88b1deec7ba2dad5695620871a1f723"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse

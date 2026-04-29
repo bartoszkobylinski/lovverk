@@ -15,8 +15,13 @@ xml_hash: "82fb01e512dfb370a2a15be4fc7a6be0eb1f3ae164929dd10d85d4ca40334a91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32005L0036"
+  - "31977L0249"
+  - "31998L0005"
+  - "32006L0123"
 ---
 
 # Lov om advokater og andre som yter rettslig bistand (advokatloven)

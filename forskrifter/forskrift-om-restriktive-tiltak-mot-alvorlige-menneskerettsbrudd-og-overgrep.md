@@ -15,8 +15,9 @@ xml_hash: "d678dfaf15acc3d5c7f9ea2ed19758a219ffef0301bf40fb3b447b2d2c9dd90f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om restriktive tiltak mot alvorlige menneskerettsbrudd og -overgrep

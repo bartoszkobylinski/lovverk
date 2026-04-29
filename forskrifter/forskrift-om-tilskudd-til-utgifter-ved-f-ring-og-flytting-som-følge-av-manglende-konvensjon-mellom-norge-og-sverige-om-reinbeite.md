@@ -15,8 +15,9 @@ xml_hash: "d841feab80f7ea2a0f06622f7edf7f539faf9f285a8df1d599d07200181849e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til utgifter ved fôring og flytting som følge av manglende konvensjon mellom Norge og Sverige om reinbeite

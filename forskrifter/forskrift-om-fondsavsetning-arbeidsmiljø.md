@@ -15,8 +15,9 @@ xml_hash: "90e8f6e0f2e10684abf3c883524fc3ff9e6b12b7f1f00a2f10524711178b8bfe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skattefrie fondsavsetninger til bedring av arbeidsmiljø.

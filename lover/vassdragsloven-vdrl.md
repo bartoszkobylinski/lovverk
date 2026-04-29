@@ -15,8 +15,9 @@ xml_hash: "2fc8cc079b7237fa3e6e99e9467e9ad82be9fb5032c35e9111e0feaa26f5a9de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om vassdragene [vassdragsloven]

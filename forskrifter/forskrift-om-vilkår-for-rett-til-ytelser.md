@@ -15,8 +15,9 @@ xml_hash: "f1a0520892d54ff5553fe218b75218b4b508c0014032a8aa7c58d2b28648baea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vilkår for rett til ytelser etter lov om Statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter folketrygdloven

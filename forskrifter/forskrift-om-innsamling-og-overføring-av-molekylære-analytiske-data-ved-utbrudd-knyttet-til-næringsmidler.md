@@ -17,8 +17,9 @@ xml_hash: "54d10b298cf2c6d1446bf6a68927ff632bb50894cdd6da472e730ba740f304a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innsamling og overføring av molekylære analytiske data ved utbrudd knyttet til næringsmidler

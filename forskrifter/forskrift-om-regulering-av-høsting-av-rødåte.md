@@ -15,8 +15,9 @@ xml_hash: "153386a0df0158a980bf4fd91f57c9448cad2a95b155c74b1b4ae808bc985a5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av høsting av rødåte

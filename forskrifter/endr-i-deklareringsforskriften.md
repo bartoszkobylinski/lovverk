@@ -15,8 +15,9 @@ xml_hash: "314230dc7be767a4db544f0602d8adf9c5a56c310719ca248f280df8cb0f7cbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om deklarering av kjemikalier til produktregisteret (endring av gebyrsats)

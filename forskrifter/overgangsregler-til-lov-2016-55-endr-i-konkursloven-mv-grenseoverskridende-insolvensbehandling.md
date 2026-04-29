@@ -15,8 +15,9 @@ xml_hash: "3ad51d012f008eb8fb3fac66565cc875df8e003bd286f9be685a055de41d7838"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 17. juni 2016 nr. 55 om endringer i konkursloven mv. (grenseoverskridende insolvensbehandling)

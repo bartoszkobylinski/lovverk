@@ -15,8 +15,9 @@ xml_hash: "0482fa6ff7b3d0c9493dc3b802e830f817e207a53a728eca092e86786952024f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i helselovgivningen (tilgjengeliggjøring av helsedata og krav til tekniske og organisatoriske sikkerhetstiltak)

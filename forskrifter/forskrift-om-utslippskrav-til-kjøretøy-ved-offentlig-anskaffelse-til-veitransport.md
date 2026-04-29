@@ -15,8 +15,9 @@ xml_hash: "5943a3ad222eaf452bccd2012ab2ec4eb1fa9d3f8e5e128395d94e3eb01aac1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport

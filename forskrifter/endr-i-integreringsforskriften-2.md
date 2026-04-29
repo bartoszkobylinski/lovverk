@@ -15,8 +15,9 @@ xml_hash: "dab0502b02664e1075a55e6a664fc469bbef320c01d0ce30ccda7dc976f31884"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i integreringsforskriften (økt arbeidsretting og formell opplæring i introduksjonsprogrammet mv.)

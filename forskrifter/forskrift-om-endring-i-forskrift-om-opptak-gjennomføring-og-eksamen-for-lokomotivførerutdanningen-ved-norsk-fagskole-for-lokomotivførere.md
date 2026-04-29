@@ -15,8 +15,9 @@ xml_hash: "c9a56a006f3b2effa26419804b31ca9e20fbe1579eb8385c7e64c83ae7f9cf0a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om opptak, gjennomføring og eksamen for Lokomotivførerutdanningen ved Norsk fagskole for lokomotivførere

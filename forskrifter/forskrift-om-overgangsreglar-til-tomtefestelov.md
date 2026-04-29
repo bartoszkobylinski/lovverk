@@ -15,8 +15,9 @@ xml_hash: "ffa4f10a9f82b44aaea0f501d47b67afa4b3eca15763aad4d0d4f8e862a6f82a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsreglar ved ikraftsetjing av lov 30. juni 2006 nr. 52 om endringar i lov 20. desember 1996 nr. 106 om tomtefeste mv.

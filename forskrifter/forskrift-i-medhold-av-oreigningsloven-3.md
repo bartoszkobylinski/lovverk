@@ -15,8 +15,9 @@ xml_hash: "b9172316fd30eda07c994b5a9b436875335d6318dc705a1c0e65605cf8241a3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift i medhold av oreigningslovens § 3 om rett til å foreta eiendomsinngrep.

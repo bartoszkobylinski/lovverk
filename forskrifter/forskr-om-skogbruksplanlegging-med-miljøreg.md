@@ -15,8 +15,9 @@ xml_hash: "ccac239bbe722e8e4722308a42acb25c129bf4b04961a294d8919b4cecc54fdd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til skogbruksplanlegging med miljøregistreringer

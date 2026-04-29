@@ -15,8 +15,9 @@ xml_hash: "bd44193b7a9c62e58c535c5b58a06417cd3356bce6279bee85ca5c6b27e8f92e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forbud paa Vimpel-Føring

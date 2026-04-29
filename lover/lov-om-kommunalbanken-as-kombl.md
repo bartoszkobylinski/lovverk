@@ -15,8 +15,9 @@ xml_hash: "de0a9dc2fabe0f082228415b8f5d8489bfd3076954a17fa847b25daa635672f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om omdanning av Noregs Kommunalbank til aksjeselskap

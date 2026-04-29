@@ -15,8 +15,9 @@ xml_hash: "e54ab3a8024a94d06d4224dd9c96e90d60f2620e6e69169c6a542bd76c729f0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fiske med bunnredskap i områder utenfor nasjonal jurisdiksjon i det nordvestlige Atlanterhav (NAFO)

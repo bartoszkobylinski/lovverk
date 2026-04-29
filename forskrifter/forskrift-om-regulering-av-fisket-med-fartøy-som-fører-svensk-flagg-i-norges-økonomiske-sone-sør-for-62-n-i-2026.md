@@ -15,8 +15,9 @@ xml_hash: "0689d57f59152b13d94da405d5397ab64a794676624e9cb8b166810ddd3b479b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket med fartøy som fører svensk flagg i Norges økonomiske sone sør for 62° N i 2026

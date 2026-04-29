@@ -15,8 +15,9 @@ xml_hash: "0f0f848672184d6d173751a3b3c1a80fcfdff991b8f866a1afd0b3a515a82ed9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for bachelorstudiet Bevegelige bilder ved Nordland kunst- og filmfagskole

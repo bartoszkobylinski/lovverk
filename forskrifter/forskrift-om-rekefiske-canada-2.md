@@ -15,8 +15,9 @@ xml_hash: "827e606057b6801230ef65f8f8cc3c41bbe60ed501c8735cb636878070353295"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter reker med fartøy fra Canada i Svalbards territorialfarvann og indre farvann.

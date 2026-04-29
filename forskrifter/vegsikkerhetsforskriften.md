@@ -15,8 +15,9 @@ xml_hash: "a8ed1a0c560f9f4e4e52213b06f5d211e7c47a6866e0f178cdcfd47891e7622b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikkerhetsforvaltning av veginfrastrukturen (vegsikkerhetsforskriften)

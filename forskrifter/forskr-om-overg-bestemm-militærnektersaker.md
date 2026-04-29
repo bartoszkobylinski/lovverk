@@ -15,8 +15,9 @@ xml_hash: "f08162643b520fa4b923440f72c3840a2586d0a846b44f5fda0ffc52bf916bde"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser for gjennomføring av lov av 18. februar 1999 nr. 7 om endringer i lov av 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner.

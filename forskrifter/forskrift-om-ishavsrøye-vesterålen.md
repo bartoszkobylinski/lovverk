@@ -15,8 +15,9 @@ xml_hash: "33b1f68e8e7048da992c4a47103872319afab87ca9871f98683ae0dd97de3610"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av produktbetegnelsen Ishavsrøye Vesterålen som beskyttet geografisk betegnelse.

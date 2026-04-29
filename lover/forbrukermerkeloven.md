@@ -15,8 +15,13 @@ xml_hash: "0c5e60b0b61e017fc603891ebfa5e7c9ddbdd52d815e2989afadc965c44a6905"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32017R1369"
+  - "32010R0066*"
+  - "32013R0782"
+  - "32017R1941"
 ---
 
 # Lov om merking av forbruksvarer mv. (forbrukermerkeloven)

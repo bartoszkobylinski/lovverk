@@ -16,8 +16,9 @@ xml_hash: "268cb88e93b52ebc358d2918dac06662ba0b984b9fd5ff25b79a7a2cacb06fcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bruk av visse legemidler til dyr av hestefamilien

@@ -15,8 +15,9 @@ xml_hash: "517319b4461a285c831fa9bd3bdf3a1a0c84f414ed7fcbc7fc7084d2832286d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om taksering av formues-, inntekts- og fradragsposter mv. som må fastsettes ved skjønn til bruk ved fastsettingen for 2024

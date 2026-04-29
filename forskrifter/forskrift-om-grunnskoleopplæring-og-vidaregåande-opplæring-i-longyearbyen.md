@@ -15,8 +15,9 @@ xml_hash: "b3e03eaa8661b615ad9cb34ab1801cd18735047d7121b394662f344166048645"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om grunnskoleopplæring og vidaregåande opplæring i Longyearbyen

@@ -15,8 +15,9 @@ xml_hash: "4c1844d77739d7a71ec28c089657844e08e81f1a72176725667e914358fa5a69"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opprettelse av fiskerisone ved Jan Mayen. Delegering av fullmakt.

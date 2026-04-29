@@ -15,8 +15,9 @@ xml_hash: "912f72bf9d5c8d0f8273d5e7e47c4741a02bd09f2dbac542d9e293e36dc461d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i spesialisthelsetjenesteloven og pasient- og brukerrettighetsloven (lovfesting av systemet for nye metoder m.m.)

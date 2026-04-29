@@ -15,8 +15,9 @@ xml_hash: "c195a4207ea1a7bb15a39dfed640b6ed7a69b6934131ea7666a89768b2be6d16"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av personopplysninger i programmet Sammen på vei

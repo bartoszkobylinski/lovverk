@@ -15,8 +15,9 @@ xml_hash: "ddadaa781e934e7a2162829f96d1a533bb64f52df7e412a1afb3beb8adf12cba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak i samordningsberegningen for inntekt som stammer fra tjeneste i forbindelse med covid-19

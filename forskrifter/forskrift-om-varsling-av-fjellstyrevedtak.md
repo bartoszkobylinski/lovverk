@@ -15,8 +15,9 @@ xml_hash: "7b5063f43171ae52b63b105f48e63cb4233af6c9ef25a5a5cb95a9ef70f0893a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om førehandsvarsling og om fjellstyrevedtak.

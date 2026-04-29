@@ -15,8 +15,9 @@ xml_hash: "1c09ebba4887a566ef7feff5890797450ffe65013b424e51b6e41ff45083d79b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om meniges æresord til fienden.

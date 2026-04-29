@@ -15,8 +15,9 @@ xml_hash: "47ad8d17fcc4ca20230eddccf68527b0c6da9233037d717bc7938f498d338db3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for sivil transportberedskap

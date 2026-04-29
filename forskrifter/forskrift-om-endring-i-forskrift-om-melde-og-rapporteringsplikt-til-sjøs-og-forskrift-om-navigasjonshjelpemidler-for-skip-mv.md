@@ -16,8 +16,9 @@ xml_hash: "6f19c01a99ba8a0fd2f455e56422be6cad108c2c01ecd8d0cf3fbefa6238f5f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om melde- og rapporteringsplikt til sjøs og forskrift om navigasjonshjelpemidler for skip mv.

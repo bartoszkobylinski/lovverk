@@ -15,8 +15,9 @@ xml_hash: "68032c79b7f7b2aa2cda69da195ef97bc4bc5bd3309779712839944f779c0675"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rammeplan for yrkesfaglærerutdanning for trinn 8–13

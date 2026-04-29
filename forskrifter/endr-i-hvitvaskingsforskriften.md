@@ -15,8 +15,9 @@ xml_hash: "9cad201260ccf73731020cc6f7ea7497a030806c030a000287d8197cec70813e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om tiltak mot hvitvasking og terrorfinansiering (gjennomføring av forordninger (EU) 2025/1393, 2026/46 og 2026/83 om oppdatering av listen over høyrisikoland)

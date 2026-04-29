@@ -15,8 +15,9 @@ xml_hash: "90498b377dfc0979e8a07c08f704aa5b5e564a3195e07d9892f032688806327a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter tobis i 2026

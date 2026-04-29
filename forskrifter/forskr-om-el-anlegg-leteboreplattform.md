@@ -15,8 +15,9 @@ xml_hash: "5e27853a825ed20ceff201be13fa0dc47a8d24c64f640e6df8299fa6a608fe9c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift for elektriske anlegg på innretninger som anvendes til undersøkelse og leteboring i petroleumsvirksomheten.

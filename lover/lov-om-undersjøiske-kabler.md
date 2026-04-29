@@ -15,8 +15,9 @@ xml_hash: "f252ab9a2882017a02e766251df35b38fdc2d8eaf15b7c6b316ed172a02e5e6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet

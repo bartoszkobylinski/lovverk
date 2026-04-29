@@ -15,8 +15,9 @@ xml_hash: "aa25c924170569483186bfadc5da116f8e643ffe1a72b2c3fc59d1a78ab4ef51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utøvelse av fangst av vågehval

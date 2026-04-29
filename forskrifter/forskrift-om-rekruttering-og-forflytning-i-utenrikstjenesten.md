@@ -15,8 +15,9 @@ xml_hash: "694e0979c17e6f3c24a815d6b9649ff5d01a92451428b9f4691765eba4fa71cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rekruttering og forflytning i utenrikstjenesten

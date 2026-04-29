@@ -15,8 +15,9 @@ xml_hash: "ad4b8ccd51c14c1cf7439b0d5c4db81081b8090c164c8df1ce009dd12fb9b7e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 29. juni 2007 nr. 80 om endringar i lov 15. desember 1967 nr. 9 om patenter m.m. (gjennomføring av Den europeiske patentkonvensjonen)

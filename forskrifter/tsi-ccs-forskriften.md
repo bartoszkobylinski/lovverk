@@ -15,8 +15,9 @@ xml_hash: "cba12605b2b9cc9ff963a4d14010d85d92f1dbff3557b3d03f9d1e14ca3dfae4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2023/1695 om tekniske spesifikasjoner for samtrafikk for styring, kontroll og signal på jernbanenettet (TSI CCS-forskriften)

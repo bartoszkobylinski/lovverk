@@ -15,8 +15,9 @@ xml_hash: "5ddccaeba99e8b90bb2bb265ba51bf21bf2c19e2691b4b3ef2fbd3fb4ff8260a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fallskjermhopping m.v. i Trolltindene.

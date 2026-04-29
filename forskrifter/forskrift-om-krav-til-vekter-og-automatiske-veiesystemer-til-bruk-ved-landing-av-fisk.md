@@ -15,8 +15,9 @@ xml_hash: "bc5dd0250c74ecdd2a85ede66963f7ba9d12a3a4b172e6807181b7267b9bef54"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av fisk

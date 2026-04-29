@@ -15,8 +15,9 @@ xml_hash: "8f61bbc2c0bf56dc3565633a7ae8c2344e80e86b5a8b8604f5368b8349379059"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til integreringsarbeid i regi av frivillige organisasjoner

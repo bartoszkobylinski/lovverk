@@ -15,8 +15,9 @@ xml_hash: "b66fed20fa85598dd5193b6e38f32b9797429179105e55bbf154628d12f87ee4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sveising, sveiseutstyr, varmt arbeid og oppbevaring av gassflasker på skip

@@ -15,8 +15,9 @@ xml_hash: "83bdf1f993634248ffde710580e064c60b635f4782e12439309c9eb80773e9f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Samarbeidsavtale mellom Norge, Danmark, Finland, Island og Sverige [Helsingforsavtalen]

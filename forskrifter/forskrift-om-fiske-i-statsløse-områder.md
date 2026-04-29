@@ -15,8 +15,9 @@ xml_hash: "401031b8faaa95a3cfe2a6b31b754eceaf58b57e1cbe53a6da39cb08c950b921"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon.

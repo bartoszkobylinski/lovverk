@@ -15,8 +15,9 @@ xml_hash: "c4821fa3a8e28e5979de7f85d22339daf7a6b47bf23fcb7850e365703d7a8005"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompetansetilskudd til bærekraftig bolig- og byggkvalitet fra Husbanken

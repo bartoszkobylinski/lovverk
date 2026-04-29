@@ -15,8 +15,9 @@ xml_hash: "245ce3039ac2c607b1efe9098ccdb59d7c145639bb0e1370e33fd297dfd51688"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T06:21:54.162913+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forebyggelse av anslag mot sikkerheten i luftfarten mv.

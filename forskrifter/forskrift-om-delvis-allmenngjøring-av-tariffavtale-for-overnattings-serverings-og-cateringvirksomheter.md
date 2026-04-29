@@ -15,8 +15,9 @@ xml_hash: "790338d7e2d225e1bea52a1c3fd0026feaf55736b611f7bf14085c708a518d51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter

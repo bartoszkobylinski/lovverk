@@ -15,8 +15,9 @@ xml_hash: "3c371a409885da9ac6da833c818653e83dd2a21b79cdfc44f55f16225fa478ab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Finnmarkskommisjonen og Utmarksdomstolen for Finnmark

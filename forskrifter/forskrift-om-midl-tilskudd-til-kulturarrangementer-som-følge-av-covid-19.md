@@ -15,8 +15,9 @@ xml_hash: "d0e11a2dfecb569d43e1705471f1dc652ea864fc0e2b16657781b182fc11b846"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig tilskudd til kulturarrangementer som følge av covid-19

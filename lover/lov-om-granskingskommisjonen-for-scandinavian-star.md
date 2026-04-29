@@ -15,8 +15,9 @@ xml_hash: "6427f94d54d7d37a80e0e8143257a5729a38c3fb6675c15320059e1dd7b40df7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om granskingskommisjonen for brannen på Scandinavian Star

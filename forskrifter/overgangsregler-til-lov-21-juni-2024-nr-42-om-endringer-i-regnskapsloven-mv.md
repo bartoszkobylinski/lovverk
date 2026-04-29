@@ -15,8 +15,9 @@ xml_hash: "17f12230bf282f6ccf2639badb9db0d4d316cb393a20c1b7da31ae21cd704ba8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 21. juni 2024 nr. 42 om endringer i regnskapsloven mv. (bærekraftsrapportering)

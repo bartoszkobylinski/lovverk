@@ -15,8 +15,9 @@ xml_hash: "b32cb97c0917233fb616c64e25cf1c3562c4946a38fa22d462a436665022cb7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-28T06:27:32.414393+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kartleggingsfisket etter torsk i fiskerisonen ved Jan Mayen i 2026

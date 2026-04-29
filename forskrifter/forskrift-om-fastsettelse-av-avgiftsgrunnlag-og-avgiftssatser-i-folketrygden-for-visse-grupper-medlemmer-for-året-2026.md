@@ -15,8 +15,9 @@ xml_hash: "6f1d9fe475c4d82027a2150661b7df165554756daeb37c999a1e478c78e708e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse av avgiftsgrunnlag og avgiftssatser i folketrygden for visse grupper medlemmer for året 2026

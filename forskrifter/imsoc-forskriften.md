@@ -17,8 +17,9 @@ xml_hash: "38ad1be0b05cdc28dbc3451eaedfc99f0f292071bd5d35fee4bf3d0889b34cb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – IMSOC – forordning (EU) 2019/1715

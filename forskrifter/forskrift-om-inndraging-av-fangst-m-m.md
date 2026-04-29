@@ -15,8 +15,9 @@ xml_hash: "a32ad7b05e4c434118b5f36b46aefc94932983430a956f618f75d9cb7b90dc1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om inndraging av fangst og bruk av inndregne midlar

@@ -15,8 +15,9 @@ xml_hash: "5cefbbd5abaff1e3d43182476f7f7d267b09dd2f4c941a74ee6faa3c12889ee4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til motorkjøretøy eller annet transportmiddel

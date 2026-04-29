@@ -15,8 +15,9 @@ xml_hash: "880b187478c9d41e0cdb81845931be4752f56286be00aeb059aa877d29fc0923"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter for gjennomføring av Gatt-avtalen om offentlige innkjøp.

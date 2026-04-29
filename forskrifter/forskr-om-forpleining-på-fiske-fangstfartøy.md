@@ -15,8 +15,9 @@ xml_hash: "e8f183257508b167ff8622f180aedca5c26d930318b92518eb263ea4749c68e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om plassering m.v. av innredning og om forpleiningstjenesten for besetningen på fiske- og fangstfartøy

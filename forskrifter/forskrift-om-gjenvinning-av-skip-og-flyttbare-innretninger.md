@@ -15,8 +15,9 @@ xml_hash: "a1058cb5190c7d5908bf419b7d68143cb96289522cee5e546e28ed335e6f5372"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjenvinning av skip og flyttbare innretninger

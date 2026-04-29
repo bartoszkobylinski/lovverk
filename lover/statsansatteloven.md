@@ -15,8 +15,9 @@ xml_hash: "7528888335162efec68280f92932ea6a44016b57e66769840d28a13e307a7823"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om statens ansatte mv. (statsansatteloven)

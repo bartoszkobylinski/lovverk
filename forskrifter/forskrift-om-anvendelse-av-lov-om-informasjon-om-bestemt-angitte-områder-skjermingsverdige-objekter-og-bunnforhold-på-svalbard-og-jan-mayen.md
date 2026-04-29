@@ -15,8 +15,9 @@ xml_hash: "e77c5fde0c1fd014aa6cf3ed04c5b3abf1fa6270e7a490fc02170ff255516e47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen

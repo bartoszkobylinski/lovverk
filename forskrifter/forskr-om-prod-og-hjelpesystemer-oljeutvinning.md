@@ -15,8 +15,9 @@ xml_hash: "d4c489b0a7857b8683c0a741a72632429722343e94234954ba3eaf717abe7a99"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for produksjons- og hjelpesystemer på produksjonsanlegg m.v. for utvinning av petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet.

@@ -17,8 +17,9 @@ xml_hash: "3e77d9a2c8f9536f8045cdb7b8d1a0f918ad7ee2305a7e1e195d1d9ffb24799b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – importkontroll av ikke animalske produkter – forordning (EU) 2019/1793

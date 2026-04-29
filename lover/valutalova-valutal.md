@@ -15,8 +15,9 @@ xml_hash: "707e8bf31ee0100fe6ff1ad08a44e4c2f1f0f7dc87b0d6ce2cf07c66e1255df4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om valutaregulering [valutalova]

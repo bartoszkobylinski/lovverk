@@ -15,8 +15,9 @@ xml_hash: "8cd9f7a7e6b65c60dc3ff00df8b126f58917dc83219f25bc891de4493c923fdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elektroniske skjema for kunngjøringer om offentlige anskaffelser (eForms)

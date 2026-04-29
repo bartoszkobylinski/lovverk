@@ -15,8 +15,9 @@ xml_hash: "83f638a529629430b200bec5d576e29c7c7bed754b73ca64cc5d86fd256f5ebf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til genressurstiltak – husdyr, planter og skogtrær

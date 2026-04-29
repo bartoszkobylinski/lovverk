@@ -15,8 +15,10 @@ xml_hash: "0881a71de7924969d1f85865ff403c958cf7b33dd28af5769c0bb4cb05e0698f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31998L0026"
 ---
 
 # Lov om betalingssystemer m.v.

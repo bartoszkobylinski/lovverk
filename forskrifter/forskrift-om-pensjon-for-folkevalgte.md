@@ -15,8 +15,9 @@ xml_hash: "ded11a0297f22985b3d52bc7769a502cde37f01333aed4f6cb675adbed9c9eff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pensjonsordninger for folkevalgte i kommune eller fylkeskommune

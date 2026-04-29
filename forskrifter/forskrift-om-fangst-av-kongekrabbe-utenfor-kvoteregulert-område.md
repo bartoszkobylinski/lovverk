@@ -15,8 +15,9 @@ xml_hash: "eea01ba030f0ee59b7b69a66465365e9a5859ca0e59e37748ff29c62b95dceb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fangst av kongekrabbe utenfor kvoteregulert område

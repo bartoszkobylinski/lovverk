@@ -15,8 +15,9 @@ xml_hash: "341451e8b563f7db66529261f9bf8e525039b4919b7b110b262338975ff11d67"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om dispensasjon fra konkurranseloven § 3-1 og § 3-2 for drosjesentraler.

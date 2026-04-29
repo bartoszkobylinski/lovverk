@@ -15,8 +15,9 @@ xml_hash: "06fca7e4121a752b6a58b3b6e9cdffc642f638871a02d212f127a62a572cac81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pasienters betaling for opphold i opptreningsinstitusjoner og andre private rehabiliteringsinstitusjoner

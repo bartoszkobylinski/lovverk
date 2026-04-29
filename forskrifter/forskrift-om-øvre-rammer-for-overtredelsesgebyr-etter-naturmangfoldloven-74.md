@@ -15,8 +15,9 @@ xml_hash: "5abe9e27bedc4fb25f18e1247da68d65b5a4485a9a102f4a093605b18f411f39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om øvre rammer for overtredelsesgebyr etter naturmangfoldloven § 74

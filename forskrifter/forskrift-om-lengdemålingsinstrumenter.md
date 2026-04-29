@@ -15,8 +15,9 @@ xml_hash: "73e1dcbeb60d9f1e054c50d699524681f5bcc744d937fd97dbc7482e95643122"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til lengdemålingsinstrumenter

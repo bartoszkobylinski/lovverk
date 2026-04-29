@@ -15,8 +15,9 @@ xml_hash: "629e181b04f01be080f2321679801fff19a4e08ddb8e003b4a72af00ce6ce61f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til utdanning, etterutdanning og godkjenning av trafikklærere (trafikklærerforskriften)

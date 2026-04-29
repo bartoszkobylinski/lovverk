@@ -15,8 +15,9 @@ xml_hash: "439d23d32da7b5b5604d414ed2bf70c8575879d8302d36893ad8d8cad2f5b102"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 17. juni 2022 nr. 57 om erstatning fra staten til voldsutsatte (voldserstatningsloven)

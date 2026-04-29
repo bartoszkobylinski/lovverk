@@ -15,8 +15,9 @@ xml_hash: "b30029e9d6801f4d1f16544b4ec366d4e6e3f9176f1cfe9b05dbc783d876e098"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lokale opptak til Universitetet i Oslo

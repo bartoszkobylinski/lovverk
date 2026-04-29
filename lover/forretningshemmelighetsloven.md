@@ -15,8 +15,10 @@ xml_hash: "a61bf6a30f2de6e31e3575b492e88efbf66f0576bc2cbfb7650c4757a5f4be5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32016L0943"
 ---
 
 # Lov om vern av forretningshemmeligheter (forretningshemmelighetsloven)

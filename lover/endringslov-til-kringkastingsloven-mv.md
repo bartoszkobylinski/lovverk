@@ -15,8 +15,10 @@ xml_hash: "9598495b8fdcad273ac1397edc1c7cb7a69e1735617457abfdc9baf4a8adca39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32018L1808"
 ---
 
 # Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.)

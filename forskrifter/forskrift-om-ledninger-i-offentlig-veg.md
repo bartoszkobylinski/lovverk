@@ -15,8 +15,9 @@ xml_hash: "cea3be49483e730c9f7f3e8697ff49cb4d391788041701a78837ab5bd6b64f07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om saksbehandling og ansvar ved legging og flytting av ledninger over, under og langs offentlig veg

@@ -15,8 +15,9 @@ xml_hash: "1a6ff3c99b2e79f0b2d62cedc82772d55997e1b953f05c23e10d3af00f62bfa7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til tvisteloven (tvistelovforskriften)

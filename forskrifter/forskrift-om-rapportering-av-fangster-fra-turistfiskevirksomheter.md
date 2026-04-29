@@ -15,8 +15,9 @@ xml_hash: "51a2964af436cb4477599fe669da5d8d07e29a7c7bb16bd03034f0a1f10cd9a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rapportering av fangster fra turistfiskevirksomheter

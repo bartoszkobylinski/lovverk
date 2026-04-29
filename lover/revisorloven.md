@@ -15,8 +15,12 @@ xml_hash: "5c4c7fb184aa3ebcdd10a969d99326cd267865d83771ea6c79d65b85ae42cfcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32006L0043"
+  - "32014L0056"
+  - "32014R0537"
 ---
 
 # Lov om revisjon og revisorer (revisorloven)

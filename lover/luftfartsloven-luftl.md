@@ -15,8 +15,14 @@ xml_hash: "4b2b5247886bfb613965eca0e71282f376ba5a89b915fddc77507a2fa07b2a05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32010R0996"
+  - "32014R0376"
+  - "31997R2027"
+  - "32002R0889"
+  - "32018R1139"
 ---
 
 # Lov om luftfart (luftfartsloven)

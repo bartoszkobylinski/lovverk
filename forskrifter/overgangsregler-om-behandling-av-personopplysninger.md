@@ -15,8 +15,9 @@ xml_hash: "2877d0146047522c5b456858f1b87536b3eb2659c194fab091f68b8248f72582"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler om behandling av personopplysninger

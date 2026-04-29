@@ -15,8 +15,9 @@ xml_hash: "f18c3450116db4162f549de896bbf50e3946f5ee1d747faf12c01abc6468b6b3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kredittvurderingsbyråer

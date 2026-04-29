@@ -15,8 +15,9 @@ xml_hash: "434b0a49e93d438a383004674bf2edcdc55f9c372899673b924b9efc94b0b0e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til tiltak for å ivareta natur

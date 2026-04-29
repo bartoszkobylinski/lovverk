@@ -16,8 +16,9 @@ xml_hash: "c9f2a74e5007c7cfa83befc10d82c91b2c16b47681ea7afc74411b4b3e18ed3f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter røye på Svalbard i 2025

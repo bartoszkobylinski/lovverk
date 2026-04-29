@@ -15,8 +15,9 @@ xml_hash: "c6c9db10fd30e63c30eec3b25d4be1ff11fe70db87bbb22d283e8c339e57ced7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om konstruksjon og utrustning av boligkvarteret på flyttbare innretninger

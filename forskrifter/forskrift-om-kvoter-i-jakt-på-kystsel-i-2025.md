@@ -15,8 +15,9 @@ xml_hash: "010448a67dcbe3505bf16973409198698e4969ad2d5b138f063d562048a7e065"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvoter i jakt på kystsel i 2025

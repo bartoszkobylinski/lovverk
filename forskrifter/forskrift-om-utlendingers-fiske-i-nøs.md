@@ -15,8 +15,9 @@ xml_hash: "902e98c5cd58afac32f8a7181923e37da322aa7e50b890fb9b86e49155bf817f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til eller annen bruk av norsk havn

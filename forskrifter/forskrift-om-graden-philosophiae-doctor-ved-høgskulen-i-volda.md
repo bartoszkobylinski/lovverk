@@ -15,8 +15,9 @@ xml_hash: "d40b1864adc84b3d9b976b729d64fbb5d46c9c1a061bb3a4bdfce3b24600a7b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om graden philosophiae doctor (ph.d.) ved Høgskulen i Volda

@@ -15,8 +15,9 @@ xml_hash: "789d0c584e6e9aa16c66a759696c8e63a28d4bbc38c3fd072059b6a052f8abca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020

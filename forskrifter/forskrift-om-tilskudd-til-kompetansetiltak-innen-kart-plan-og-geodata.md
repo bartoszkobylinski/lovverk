@@ -15,8 +15,9 @@ xml_hash: "74797521e2c0570d6505f4d71d6297bb9111f833ae766f6a697d85f014b1382f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til kompetansetiltak innen kart, plan og geodata

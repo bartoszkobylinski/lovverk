@@ -15,8 +15,9 @@ xml_hash: "e03a0bc69d30c1796bc9a7a9930244e70849412745288997fe71637bb6a9bb47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om takseringsregler til bruk ved beskatning ved trekk i lønn mv. (lønnstrekkordningen) av personer som skattlegges på Svalbard i inntektsåret 2025 etter lov 29. november 1996 nr. 68 om skatt til Svalbard

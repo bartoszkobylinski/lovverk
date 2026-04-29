@@ -15,8 +15,9 @@ xml_hash: "1ef588d3fd36e8428b9f14e4a7276f555b33af1feddc2c0217cd779ece4ae498"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til utfylling og gjennomføring mv. av suppleringsskatteloven av 12. januar 2024 nr. 1

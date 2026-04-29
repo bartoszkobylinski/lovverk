@@ -15,8 +15,9 @@ xml_hash: "c5c466228efe66e40891e49be9f51a23c5b77413465dc591336243ca16f63684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)

@@ -15,8 +15,9 @@ xml_hash: "97107fdfe73693daf778e3eca572bc7c237f2b495466b10b8abe2a4fc1e21b0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift i medhold av oreigningslovens § 29

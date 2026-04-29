@@ -15,8 +15,9 @@ xml_hash: "4ecef0b1f5f9b144541fd459704ab007656af05750b54fe81705dff36f807ea9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om statsføretak (statsføretakslova)

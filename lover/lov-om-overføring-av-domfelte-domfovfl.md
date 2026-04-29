@@ -15,8 +15,9 @@ xml_hash: "4ab14159f83e1a69dabf491e1ad3f2ece6df3ff862aac1e527dcee83b0af8774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om overføring av domfelte

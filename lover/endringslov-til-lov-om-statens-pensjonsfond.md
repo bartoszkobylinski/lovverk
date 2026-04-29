@@ -15,8 +15,9 @@ xml_hash: "520309bd802ddf1a3fa3ec37805de107b8bcb143d64a1e77bb54fe9fc074c31d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i lov om Statens pensjonsfond

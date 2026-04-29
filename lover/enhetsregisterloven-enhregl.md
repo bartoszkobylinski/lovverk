@@ -15,8 +15,10 @@ xml_hash: "dd9e353f4e524fdc27e32bb328d70f03af3c7e30b287873b308a29bb223eddc4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32017L1132"
 ---
 
 # Lov om Enhetsregisteret

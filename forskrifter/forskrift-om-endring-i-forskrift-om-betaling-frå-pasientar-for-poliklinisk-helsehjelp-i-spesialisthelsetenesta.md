@@ -15,8 +15,9 @@ xml_hash: "79b720bb1c8788709d2d0713e9e074a7d245d7d8e8c074a88c152f4913b55dc8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta

@@ -15,8 +15,9 @@ xml_hash: "41ba0a078e3b68e145734d5c722eb12c242db6ff49a2fdf5f16bc7e09a0be167"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om markedsføring av alternativ behandling av sykdom

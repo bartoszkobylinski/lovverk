@@ -15,8 +15,9 @@ xml_hash: "b50403ca0160b0b95d9a14f7a5bc916c1f07ec3f4210a5b2fd4b68f0263d0452"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forenklet anvendelse av internasjonale regnskapsstandarder

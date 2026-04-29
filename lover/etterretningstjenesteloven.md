@@ -15,8 +15,9 @@ xml_hash: "b2d0b168f97854db5b85977bf268455734e4732ddef8592455fb6a23a54029de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Etterretningstjenesten (etterretningstjenesteloven)

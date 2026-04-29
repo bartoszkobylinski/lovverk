@@ -15,8 +15,9 @@ xml_hash: "a341fe22c3b5c9bee0bdbd30347cc5dae5e1ba10471aa4d1ac05cfbc7bd7fe5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stedlig virkeområde for lov om elektronisk kommunikasjon vedrørende Svalbard, Jan Mayen, Bouvetøya og Antarktis

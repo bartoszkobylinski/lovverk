@@ -15,8 +15,9 @@ xml_hash: "b41b5e840cbedefea5a5041e0d6dfa2642183daf0467cd3ea3cd4173095c699b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsordning for krav til kjønnssammensetning i styret i foretak

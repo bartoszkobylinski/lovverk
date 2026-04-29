@@ -15,8 +15,9 @@ xml_hash: "0540f25bd0f2995127f4967b29b2d81e8be2c4dea58566552b2aa073ce060d3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pedagogisk bemanning og dispensasjon i barnehager

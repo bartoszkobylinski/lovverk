@@ -15,8 +15,9 @@ xml_hash: "2e613b2eb25f297cb6a1b0e46edd06cf40f9dd8916554c5ffe940ba47b15ecaa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om merking av rein utenfor det samiske reinbeiteområdet

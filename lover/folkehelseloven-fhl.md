@@ -15,8 +15,9 @@ xml_hash: "c4f89ffdc23999c47128de556f821d7a9f7e8f201a1e6c8ebd22c10d5983c2ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om folkehelsearbeid (folkehelseloven)

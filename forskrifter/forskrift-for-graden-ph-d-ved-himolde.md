@@ -15,8 +15,9 @@ xml_hash: "5896a4b1f57caa1e73bd9736a89f41dc740a3e746579466901ae79e3b61351d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for graden philosophiae doctor (ph.d.) ved Høgskolen i Molde, Vitenskapelig høgskole i logistikk

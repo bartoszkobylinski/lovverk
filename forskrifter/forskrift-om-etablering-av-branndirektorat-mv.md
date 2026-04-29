@@ -15,8 +15,9 @@ xml_hash: "4d573ccaf6113d4885dbf937a4f2845e176c2bdbe7e31ee11ae2f08699f2ab25"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om etablering av Direktoratet for brann og eksplosjonsvern og Statens bygningstekniske etat. Nedleggelse av Statens branninspeksjon og Statens sprengstoffinspeksjon.

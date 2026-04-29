@@ -15,8 +15,9 @@ xml_hash: "7336623eea5651620b2d15ac3b1974850c970582676a27d344b990cf51403c28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ekstrautbetaling av produksjonstilskudd i 2022

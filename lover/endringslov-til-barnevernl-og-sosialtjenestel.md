@@ -15,8 +15,9 @@ xml_hash: "86997bd1603d9688ed699baf1be9a3fedb8acc597fa73b11cc9caaaff59b28d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.)

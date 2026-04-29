@@ -15,8 +15,9 @@ xml_hash: "1e8c6a6a8f3efad415511ec53c042a065ebc26963b7d91b0c2aa456806169d1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ordning med brukerrom for inntak av narkotika (brukerromsforskriften)

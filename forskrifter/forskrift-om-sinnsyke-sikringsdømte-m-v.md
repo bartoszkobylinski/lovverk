@@ -15,8 +15,9 @@ xml_hash: "4093e2eb279ed6c7f3de62a0303f41a45cd8c3306dd17d7618f6da47d44bd11f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sinnsyke sikrings- eller forvaringsdømte

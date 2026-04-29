@@ -15,8 +15,9 @@ xml_hash: "ab10f98b64cd1189b2112dcfb4fe54a5cce1b57963066473313abb2d642fbc92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av saker for Konkurranseklagenemnda

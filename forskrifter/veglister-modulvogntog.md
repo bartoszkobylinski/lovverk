@@ -15,8 +15,9 @@ xml_hash: "53b1e33369565380c50bd1e9803586f50785761f947e2b032d2ca65cf04645ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om modulvogntog på riks-, fylkes- og kommunale veger (veglister modulvogntog)

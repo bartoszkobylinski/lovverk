@@ -15,8 +15,9 @@ xml_hash: "f743101e9a6a86d905619ebd6f455ecd09397d9b55e227e87878ac4c340f21a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om register over reelle rettighetshavere

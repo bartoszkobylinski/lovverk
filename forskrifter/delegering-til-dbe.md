@@ -15,8 +15,9 @@ xml_hash: "3616a6210fc9d4be79cac188e3ac6ee0bc45e49e6d9712298d0f44a1f8f140c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Delegering av myndighet til Direktoratet for brann- og elsikkerhet etter lov om tilsyn med elektriske anlegg og utstyr § 2 og lov om brannfarlige varer samt væsker og gasser under trykk § 37 tredje ledd.

@@ -15,8 +15,9 @@ xml_hash: "cb7c1477e8ee6e2a2cbfc2571e17d904d09f57bacc49ac9b96d6d25c1d5ce5c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om inntak til videregående opplæring i Longyearbyen, Longyearbyen lokalstyre

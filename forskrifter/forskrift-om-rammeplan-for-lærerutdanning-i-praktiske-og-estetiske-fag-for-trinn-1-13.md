@@ -15,8 +15,9 @@ xml_hash: "26129ae3a2aad8a6c4b938d84e8077abcddaa3bdb4365d1be80f9050d013f613"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rammeplan for lærerutdanning i praktiske og estetiske fag for trinn 1–13

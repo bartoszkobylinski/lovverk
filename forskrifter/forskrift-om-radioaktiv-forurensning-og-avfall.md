@@ -15,8 +15,9 @@ xml_hash: "18468fc487eb83edfff7c2ee9865f0ff7b6a111a08f97e31c24ca9cde9c7ecb9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall

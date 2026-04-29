@@ -15,8 +15,9 @@ xml_hash: "08f9abf54c57e9db8110aad8f81a17a99d4d1c86ac6122f89bafdfb8529faff6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunikasjonskontroll, romavlytting og dataavlesing (kommunikasjonskontrollforskriften)

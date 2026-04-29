@@ -15,8 +15,9 @@ xml_hash: "f4b8c4420341be92b15450433f555721bbf82e7eba3109a0e07aaf258e58008e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til minstealder og båtførerbevis mv. for fører av fritidsbåt

@@ -15,8 +15,9 @@ xml_hash: "3554a9bdeef3d08885b5891d94f870d2b51932b4141926495005b06a4bea22bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontroll av kjøretøy langs veg

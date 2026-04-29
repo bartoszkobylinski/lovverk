@@ -15,8 +15,9 @@ xml_hash: "3208a06d1bb3b7bc4b1ea198fb2f66ab64d600275d8a8e8fc68f5bfbb13833bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om planter og tiltak mot planteskadegjørere

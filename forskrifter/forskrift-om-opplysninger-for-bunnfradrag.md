@@ -15,8 +15,9 @@ xml_hash: "da9f68f1fd126046ec451e652266806f486a6672962ed40f22dc512f8fb6039b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innhenting av opplysninger ved fastsettelse av bunnfradrag.

@@ -15,8 +15,17 @@ xml_hash: "82aa87ff55567dc16c964647ae7e2384127cea09f7e26f46dd7a16c4ae2faf20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014R0596"
+  - "32017R1129"
+  - "32012R0236"
+  - "32014L0065"
+  - "32014R0600"
+  - "32012R0648"
+  - "32015R2365"
+  - "32022R0858"
 ---
 
 # Lov om verdipapirhandel (verdipapirhandelloven)

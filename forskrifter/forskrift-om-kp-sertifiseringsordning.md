@@ -15,8 +15,9 @@ xml_hash: "3e0f1255d7d4fd29d12cb39d884ef994132fceebad0c75d4cfd8c2f9ce844dcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av Kimberley-prosessens sertifiseringsordning for handel med uslepne diamanter.

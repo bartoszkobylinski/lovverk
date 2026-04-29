@@ -15,8 +15,9 @@ xml_hash: "9929faffda4c3c369446cbb95aaf3a64533c9cd6ab8b88a367f8058d779531a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fiske i gyteområder for torsk i Norges økonomiske sone sør for 62° i 2025

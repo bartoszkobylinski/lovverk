@@ -15,8 +15,9 @@ xml_hash: "691a5a6e3b1598380de6c4b371a1f08f6002a4f7ab5af6130fe47e70d8d86e7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)

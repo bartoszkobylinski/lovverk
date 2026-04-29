@@ -15,8 +15,9 @@ xml_hash: "14435a636e7c41ae81873b621e38eb96d1760b92414469b0a6e5158db173c6fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om manntal for fiskarar og fangstmenn

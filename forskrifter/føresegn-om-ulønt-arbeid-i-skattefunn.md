@@ -15,8 +15,9 @@ xml_hash: "9dc1770d7f88f400ee6614f39bc6b68014f56fc36cc324d5dafa4c8bcd6e6626"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Føresegn om kompensasjon for ulønt arbeidsinnsats i Skattefunn-godkjende forskings- og utviklingsprosjekt for inntektsåra 2002, 2003 og 2004.

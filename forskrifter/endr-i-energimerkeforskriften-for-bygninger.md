@@ -15,8 +15,9 @@ xml_hash: "358fa4b0b7251945f18aeeb0321b7ff1aa5ce19ef6b8063e5bfa6c42ab2ff03f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om energimerking av bygninger og energivurdering av varme- og klimaanlegg (energimerkeforskriften for bygninger)

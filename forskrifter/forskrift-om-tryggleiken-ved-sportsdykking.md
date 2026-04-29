@@ -15,8 +15,9 @@ xml_hash: "078aa3140af12b3f22904dcf6b44ffa25a8d67dab6c162220306fc3fc035695e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tryggleiken ved sportsdykking.

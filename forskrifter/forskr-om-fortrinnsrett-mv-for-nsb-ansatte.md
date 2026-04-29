@@ -15,8 +15,9 @@ xml_hash: "867db10cb37d041d6112e326c61401a021bec70bb4141b1a82aeda1cf275317d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fortrinnsrett og ventelønn for ansatte i Norges Statsbaner BA.

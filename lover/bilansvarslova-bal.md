@@ -15,8 +15,10 @@ xml_hash: "f128f8ed06889ceda50a10dc8ea7f2b369a728457e95dac2b46998900b3f0b80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0103"
 ---
 
 # Lov om ansvar for skade som motorvogner gjer (bilansvarslova)

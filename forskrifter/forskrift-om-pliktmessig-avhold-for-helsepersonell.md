@@ -15,8 +15,9 @@ xml_hash: "adce916dc2e46b353c624eaf2ef8cf411cd1dcd3d14a573c432feee2cccc0216"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pliktmessig avhold for helsepersonell

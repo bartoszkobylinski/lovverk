@@ -15,8 +15,10 @@ xml_hash: "c699ba6c301040838ba8b176decc5fdcdd60e1d5db29f5aade38b1c441a2546b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32016L0798"
 ---
 
 # Lov om varsling, rapportering og undersøkelse av jernbaneulykker og jernbanehendelser m.m. (jernbaneundersøkelsesloven)

@@ -15,8 +15,9 @@ xml_hash: "f78264ee6cc7b4b82c02d506a2dfd6a6b31dee3badd8e6b4572e58e3b8d9e451"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om statlig garantiordning for lån til små og mellomstore bedrifter

@@ -15,8 +15,9 @@ xml_hash: "1a58bd44d05f8d7d488a66f8d5b06bceb1e53f9dae5c4eaf4ecc86c1c3e85d37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om graden doctor philosophiae (dr.philos.) ved Norges Handelshøyskole

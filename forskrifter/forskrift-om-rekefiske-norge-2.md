@@ -15,8 +15,9 @@ xml_hash: "de3e25515da819b2c37cb18c60bc0ca4fc6839d8970721a814223511a6f3dd92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter reker med fartøy fra Norge i Svalbards territorialfarvann og indre farvann.

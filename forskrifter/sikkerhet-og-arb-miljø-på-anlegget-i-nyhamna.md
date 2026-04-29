@@ -15,8 +15,9 @@ xml_hash: "b01e48b41a3a36da6b94f79f3a3459c8bc88abd95ef211405ef267108487d1ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om at midlertidig forskrift av 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal gjelde for det planlagte fremtidige integrerte landanlegget i Nyhamna.

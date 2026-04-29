@@ -15,8 +15,9 @@ xml_hash: "d0d0af9f720b21a7b100c6af66b436018ed0624368ecf606d82468d75608a32b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fredning av Sassen-Bünsow Land nasjonalpark på Svalbard

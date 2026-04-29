@@ -15,8 +15,9 @@ xml_hash: "b0f3fed6bb55e17a83d5ef81c034f065b24a28a8596003a9cff5c4459719c472"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier, eksamen og klagebehandling for Fabrikken Asker Kunstfagskole

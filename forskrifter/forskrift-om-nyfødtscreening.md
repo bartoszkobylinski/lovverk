@@ -15,8 +15,9 @@ xml_hash: "728fa098d4dc9dce7cc4f8b6604b78a52f85da09396fb14047c719d192c41e2f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nyfødtscreening

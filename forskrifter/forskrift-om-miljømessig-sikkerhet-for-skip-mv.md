@@ -16,8 +16,9 @@ xml_hash: "24c5d0770711bb22f228d0efc8f1479b75f76113ea5d4e8fe98be7fe2c61149b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om miljømessig sikkerhet for skip og flyttbare innretninger

@@ -15,8 +15,9 @@ xml_hash: "564665381ee770a7fe17e6a5f72502bc9ba778928bf2aa9b954ca565dc560813"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i trafikkopplæringsforskriften

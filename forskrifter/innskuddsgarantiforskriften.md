@@ -15,8 +15,9 @@ xml_hash: "be28ad71dfdb9cc6655a16680e52fe08e586eb42545a0204d52587432b91f5a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til rapportering av opplysninger om innskytere og innskudd til Bankenes sikringsfond (innskuddsgarantiforskriften)

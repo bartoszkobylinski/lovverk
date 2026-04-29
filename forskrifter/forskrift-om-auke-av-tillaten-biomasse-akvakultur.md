@@ -15,8 +15,9 @@ xml_hash: "45a89caadaf5e85ac0a908a834d010b2e06ce67da083d599cc7229c208f75548"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om auke av maksimalt tillaten biomasse for løyve til akvakultur med laks, aure og regnbogeaure i 2015

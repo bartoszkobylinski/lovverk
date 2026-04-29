@@ -15,8 +15,9 @@ xml_hash: "1a99b3b799e56525070674160ca371db2c0d0001732cea09178a50c6179bb6f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til åndsverkloven

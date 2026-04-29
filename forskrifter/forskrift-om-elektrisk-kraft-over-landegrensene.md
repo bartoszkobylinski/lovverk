@@ -15,8 +15,9 @@ xml_hash: "eac8c74227ffb83f28b11b1258befe683da0aec72c3d62377335f17f931f7c5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vilkår for tilgang til nett for utveksling av elektrisk kraft over landegrensene

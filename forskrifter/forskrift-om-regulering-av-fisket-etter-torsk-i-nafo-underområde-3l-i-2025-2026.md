@@ -15,8 +15,9 @@ xml_hash: "413d40aedf269ef91fbc5371829b302d56d628fdd9cb488503afa0b06426d73a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter torsk i NAFO-underområde 3L i 2025–2026

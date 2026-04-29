@@ -15,8 +15,9 @@ xml_hash: "4d8f8dc13c9fa47df93e1b096ac239603020c5b100219fc4ae64326cd4127e09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vurdering av den praksis som godkjennes ved søknad om mesterbrev.

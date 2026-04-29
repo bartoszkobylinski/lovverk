@@ -15,8 +15,9 @@ xml_hash: "dfe299d5b9f484550d69cb3410b92fcf5008267db37d8e23b8dfbd34478e1982"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)

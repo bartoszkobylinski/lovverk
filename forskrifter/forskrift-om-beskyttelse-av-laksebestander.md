@@ -15,8 +15,9 @@ xml_hash: "cd329dfac94023505f5973c6049d531891215d65cf0fc3368ef12206c9107dbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilte krav til akvakulturrelatert virksomhet i eller ved nasjonale laksevassdrag og nasjonale laksefjorder

@@ -15,8 +15,9 @@ xml_hash: "f3fcb13293dae28567d7e8d7b081bf276ae8d0a8232749b49d9cbf5d7dabb410"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]

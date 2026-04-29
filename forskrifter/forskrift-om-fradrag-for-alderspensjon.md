@@ -15,8 +15,9 @@ xml_hash: "c4f28f30bdc142b96f845e63daa4be1efdf962f10a0271a094844820d314d6c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om begrensning av fradrag for alderspensjon fra folketrygden i pensjon fra personskadetrygd, når økt opptjening i folketrygden ellers fører til lavere samlet pensjon

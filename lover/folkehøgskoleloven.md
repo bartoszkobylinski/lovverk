@@ -15,8 +15,9 @@ xml_hash: "568e31c56b81e26d68e4c02896df57270b29cc4ea64dd7930182a1c0f2664c80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om folkehøgskoler (folkehøgskoleloven)

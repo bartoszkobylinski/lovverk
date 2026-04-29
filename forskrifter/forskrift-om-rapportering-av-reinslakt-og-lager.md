@@ -15,8 +15,9 @@ xml_hash: "a17405c4c24ebd838bd5171518c6217ecd9b5835ad0575f81eec3cd2771fe578"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rapportering av slaktet rein og lagerbeholdning

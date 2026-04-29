@@ -15,8 +15,9 @@ xml_hash: "9faefa9c95a9210ad1a556d826144a33af65e05c2193bb5dc178ced74ee75179"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om avgift på omsetning av billedkunst

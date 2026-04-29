@@ -15,8 +15,9 @@ xml_hash: "ddd33b12c15837635f4433de000d4c3af2a813d27bbeb15736e50354c577b8ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak og annen bruk av informasjon om bestemt angitte bunnforhold

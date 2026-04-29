@@ -15,8 +15,9 @@ xml_hash: "085c3dadfa434c48e4af537c61d598222714854296619a611a973dd967f5e6a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)

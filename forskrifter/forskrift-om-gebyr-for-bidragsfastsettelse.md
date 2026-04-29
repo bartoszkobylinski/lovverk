@@ -15,8 +15,9 @@ xml_hash: "cf754a6c4d7255776f2ef2b8217010dbff9ba94973998663a93eb82363421641"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr for offentlig fastsettelse av barnebidrag

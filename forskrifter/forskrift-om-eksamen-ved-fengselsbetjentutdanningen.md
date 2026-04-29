@@ -15,8 +15,9 @@ xml_hash: "dd9ec9b4db7874c5ee45a75f8890a9d5847524e0e165e111eae5aa498f818402"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om eksamen ved fengselsbetjentutdanningen

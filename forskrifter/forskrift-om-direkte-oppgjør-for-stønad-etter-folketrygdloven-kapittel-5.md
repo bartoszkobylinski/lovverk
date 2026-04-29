@@ -15,8 +15,9 @@ xml_hash: "9691c8c29a6d18886c22791695da31c971d294536cf464143eeece546db798c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om direkte oppgjør for stønad etter folketrygdloven kapittel 5

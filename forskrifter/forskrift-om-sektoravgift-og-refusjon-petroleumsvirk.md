@@ -16,8 +16,9 @@ xml_hash: "a5e76343ad7c96cc615eff5b5113b53f8a40ef06ff37248fecf3182c5254e294"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sektoravgift og refusjon av utgifter for tilsyn med ressursforvaltningen i petroleumsvirksomheten og virksomhet etter CO2-lagringsforskriften

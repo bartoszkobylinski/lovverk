@@ -15,8 +15,9 @@ xml_hash: "9fae62ade7416b9ac4f792c8aa99b67f6302da6856b9c9fef83840117b7b9f3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg

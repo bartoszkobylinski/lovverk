@@ -15,8 +15,9 @@ xml_hash: "27b103cc95c5d665c6fbf0cedd01568787246fa5817aded788a216a9da733873"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til gjennomføring av Haag-konvensjonen 15. april 1958 om anerkjennelse og fullbyrding av avgjørelser om underholdsbidrag til barn

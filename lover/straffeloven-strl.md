@@ -15,8 +15,9 @@ xml_hash: "83a75880eec4c3f9082179aa30a4a2bdd6195f9ebf402157936eb61a7b658588"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om straff (straffeloven)

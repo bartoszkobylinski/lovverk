@@ -15,8 +15,9 @@ xml_hash: "65b40241abb6aac27f6df2d23d3cf47f47680012f5ca9af74cb32ba3677ba8e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bemyndigelse av funksjonærer etter tvangsfullbyrdelsesloven.

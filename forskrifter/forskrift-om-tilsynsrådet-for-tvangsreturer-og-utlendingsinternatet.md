@@ -15,8 +15,9 @@ xml_hash: "90ff1f82fec028cfcbc18fb5f3d3f261f3defd039118440bed3ae4c065064da2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilsynsrådet for tvangsreturer og utlendingsinternatet

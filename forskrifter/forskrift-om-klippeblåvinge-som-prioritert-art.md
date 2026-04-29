@@ -15,8 +15,9 @@ xml_hash: "f52f7661a70d1504d165cc2a06cf5cb077d4fad67824be794263d24430d885e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om klippeblåvinge (Scolitantides orion) som prioritert art

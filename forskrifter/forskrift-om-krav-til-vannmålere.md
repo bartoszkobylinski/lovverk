@@ -15,8 +15,9 @@ xml_hash: "4f8f6f0a4deb5bd391974df727c52ee27e09d47207e6913778d0dc6b280dc5d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til vannmålere

@@ -15,8 +15,9 @@ xml_hash: "f57c8f70f572e95b442e1594a914fa58547b5612b0dba38314956dad0f1c4591"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2024 gjennom auksjon (auksjonsforskriften 2024)

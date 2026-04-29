@@ -15,8 +15,9 @@ xml_hash: "f73b07622570736bda8dc3b981ef89747b09d7e00591ade55c443fecc998c894"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fisket etter lodde i Barentshavet i 2025

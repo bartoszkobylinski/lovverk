@@ -15,8 +15,9 @@ xml_hash: "d756ec08ca251ba1336663eadb5264050d2c2b7cfd2dd019d7f2cf0607382e26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om utbetaling av ytelser etter lovene om krigspensjonering under opphold i helseinstitusjoner m.v.

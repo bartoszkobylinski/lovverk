@@ -15,8 +15,9 @@ xml_hash: "afc8908591dd4a9dba8a983f64f700ac952e8b1086ec4d0c34f6d34a13a21a4d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kosmetikk og kroppspleieprodukter

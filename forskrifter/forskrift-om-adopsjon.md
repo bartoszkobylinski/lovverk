@@ -15,8 +15,9 @@ xml_hash: "f15ca21bb833dc0baafa2df369206b504270eca83aaeb3e3ed8d8fd8352a5a1c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adopsjon

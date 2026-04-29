@@ -15,8 +15,9 @@ xml_hash: "8bce25ffb79569d4cf79b630c7a85707db5aa1266d8d6a1680f6aa39b747d271"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om laste- og losseinnretninger på skip

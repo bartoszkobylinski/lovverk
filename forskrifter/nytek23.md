@@ -15,8 +15,9 @@ xml_hash: "c40c6afc3934cd6e11b9709c98205636aaa7efeca970f826f8b0ad2b1fd11c3a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til teknisk standard for akvakulturanlegg for fisk i sjø, innsjø og vassdrag (NYTEK23)

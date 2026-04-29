@@ -15,8 +15,9 @@ xml_hash: "0fdd51d4072bdf97bf276f806c56be5a336d14ce96ae5385f76cad7f39fd1858"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høsting av hummer

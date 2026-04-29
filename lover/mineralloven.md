@@ -15,8 +15,9 @@ xml_hash: "a93989d34664dc6976b1f3da320e7cfa4be3425d0f2aeb214c86985c5605bee9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om erverv og utvinning av mineralressurser (mineralloven)

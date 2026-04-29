@@ -15,8 +15,9 @@ xml_hash: "f87766e9dce56be96a356f74e6c27a79090803fe60eb97458bc23ca00483938a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter for Statens barne- og ungdomsråd.

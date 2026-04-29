@@ -15,8 +15,9 @@ xml_hash: "a1a700220b320a2c56c623924cea1a3159509b4d58d899e635a93aff02ca07f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om besiktelse, bygging og utrustning av passasjerskip i innenriksfart

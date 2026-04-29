@@ -15,8 +15,9 @@ xml_hash: "2217e24e18767d5b13e864e672bd57f26c2a30c9f3d597225d6516f2d8e3968e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI

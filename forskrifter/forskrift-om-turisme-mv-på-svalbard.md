@@ -15,8 +15,9 @@ xml_hash: "b38e40af0e8baac7e18dd5f3191ea2f7ce3086cf73edb2bd96841864e4761d2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om turisme, feltopplegg og annen reisevirksomhet på Svalbard

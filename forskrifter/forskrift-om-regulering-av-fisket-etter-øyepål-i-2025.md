@@ -15,8 +15,9 @@ xml_hash: "32f00014a73c1907b60ce0d0f17c4d055ff9633d29eb7973b543e79aa515191b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter øyepål i 2025

@@ -15,8 +15,9 @@ xml_hash: "e3e9e41722bb59fb953a8af8ee7e4f39f5ec3918b254de0d8ddd5934cb20042e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften)

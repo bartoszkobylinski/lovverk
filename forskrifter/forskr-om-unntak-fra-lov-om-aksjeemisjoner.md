@@ -15,8 +15,9 @@ xml_hash: "97efe7b724072d8ee7833547d7e4ec62d6deecc67f1031e1bda103d4a4608cd6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra lov av 5. april 1974 nr. 11 om aksjeemisjoner.

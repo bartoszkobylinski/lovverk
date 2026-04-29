@@ -15,8 +15,9 @@ xml_hash: "56b6122c5f56d6373b0b2a44e4b7698907d2cecfe2c9ad847c85c2a730db1d18"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av svine- og fjørfeproduksjonen

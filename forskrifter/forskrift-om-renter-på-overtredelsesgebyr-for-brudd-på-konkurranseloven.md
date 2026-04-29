@@ -15,8 +15,9 @@ xml_hash: "1af6069a9b5803848dc2ad989cc409d82a6df115f076008a236cdf1daafc7552"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om renter på overtredelsesgebyr for brudd på konkurranseloven

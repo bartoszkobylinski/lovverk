@@ -15,8 +15,9 @@ xml_hash: "f73311df3a877cf1c52cedb307cbcac2e3e334bf5f027889d6093dc0de7c7638"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om frivillige auksjoner [auksjonsloven]

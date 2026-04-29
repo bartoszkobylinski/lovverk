@@ -15,8 +15,9 @@ xml_hash: "783faf00e997d4e7842eee684ea0d1c6fdadd5cc6b23867ddf105cb5fa2c16ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om oppheving av lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver (arveavgiftsloven)

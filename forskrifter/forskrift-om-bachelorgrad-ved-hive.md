@@ -15,8 +15,9 @@ xml_hash: "b788c70272d94d89a8670aa160efc84fd9fbd930efca73676e61f90fe091212e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til bachelorgrad ved Høgskolen i Vestfold

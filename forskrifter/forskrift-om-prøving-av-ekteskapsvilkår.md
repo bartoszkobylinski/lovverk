@@ -15,8 +15,9 @@ xml_hash: "e340e08bcb7ba524af9cc8ee7f2d3a150446ab941017fe915347c97e00d2cd45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om når en utenlandsk statsborger skal anses å være fast bosatt i Norge i forbindelse med prøving av ekteskapsvilkår

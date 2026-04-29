@@ -15,8 +15,9 @@ xml_hash: "ad2ec657a0f76e894806fb51ebca2e8cef0e3ce734b38782e7c7df858363f163"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studiene ved Musikkteaterhøyskolen

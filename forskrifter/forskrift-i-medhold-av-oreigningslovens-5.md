@@ -15,8 +15,9 @@ xml_hash: "071fbe55994e74aaa3b4d8419769410e1e26d8a6e5af1923cb787892ad684355"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift i medhold av oreigningslovens § 5 om rett til å gjøre vedtak om eller gi samtykke til eiendomsinngrep

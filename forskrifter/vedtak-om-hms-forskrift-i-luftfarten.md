@@ -15,8 +15,9 @@ xml_hash: "fde2e40929becc278f5cea5d931e62c2fe5bfc65bf2c1f9081983784143540fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om at forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter gjøres gjeldende for luftfart som omfattes av arbeidsmiljøloven.

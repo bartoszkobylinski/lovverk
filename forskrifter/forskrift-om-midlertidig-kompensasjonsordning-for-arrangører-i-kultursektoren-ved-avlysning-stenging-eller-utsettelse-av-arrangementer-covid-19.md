@@ -15,8 +15,9 @@ xml_hash: "c51aa29261e9af4dd5e6628d80e1b4c5c4021b88cd15ee43d942620f1b5b2cf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig kompensasjonsordning for arrangører i kultursektoren ved avlysning, stenging eller utsettelse av arrangementer som følge av covid-19-utbruddet

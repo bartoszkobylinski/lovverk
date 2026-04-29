@@ -15,8 +15,9 @@ xml_hash: "1362b64eb91a3f24ab91b7c655ad23c091f9cf2f879c386417a3698d089e75b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om helseundersøkelse av loser og losaspiranter

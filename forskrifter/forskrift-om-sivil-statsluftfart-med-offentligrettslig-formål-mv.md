@@ -15,8 +15,9 @@ xml_hash: "c5134a82f83f652d9a8e562a1804979862c31f35ee3b0dda2de2cb24df491c34"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sivil statsluftfart med offentligrettslig formål mv.

@@ -15,8 +15,9 @@ xml_hash: "452305ff086fc3d6dfbff980ed268e71f06e517060e8e8d0b330eac58984bc8d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket i det nordvestlige Atlanterhav (NAFO-området)

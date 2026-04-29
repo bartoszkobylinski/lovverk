@@ -15,8 +15,9 @@ xml_hash: "f57d9e8f003ee46bb4646718fffbc4eadd1ab0fdd1dce9f5d3bd634db14e8e10"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak frå lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova) § 10 tredje ledd om tidspunkt for ikrafttredelse av fjellstyrevedtak fatta med heimel i fjellova § 23 tredje ledd

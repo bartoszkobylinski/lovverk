@@ -15,8 +15,9 @@ xml_hash: "5464aabb65c94c80f6ddfb9d28ed61059669f2a323b5463054129452349f298b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om evakuerings- og redningsredskaper på flyttbare innretninger

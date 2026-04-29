@@ -15,8 +15,9 @@ xml_hash: "545bfd44d769603eca9a101aa7d1b3a8d733bc50e535fa99d42c07ba54af3405"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om etablering og gjennomføring av Det felles europeiske luftrom

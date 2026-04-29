@@ -15,8 +15,9 @@ xml_hash: "1b05bc4d37020fd4027adf07ac67cf2fd66bbc09d7118058f10ecb3f58453ced"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om mesterbrev i håndverk og annen næring [mesterbrevloven]

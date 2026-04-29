@@ -15,8 +15,9 @@ xml_hash: "14edb6f1f1382faa66be783ec897c04c23dda8a8b15f93b62e992d8be820d144"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om standardisert erstatning etter lov om yrkesskadeforsikring

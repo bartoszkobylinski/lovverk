@@ -15,8 +15,10 @@ xml_hash: "2f4e5daa5ed836b546abaa622adbfe7299106a6a6a0558e39cc1931d001805ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32020R1503"
 ---
 
 # Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)

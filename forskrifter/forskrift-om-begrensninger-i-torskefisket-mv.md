@@ -15,8 +15,9 @@ xml_hash: "615f355cadb37b05d94a8c4b99ed3b87b56d59588e3f5a5ac6cd8fc9961c7d2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om begrensninger i fisket etter torsk, rognkjeks, makrell, kveite og kongekrabbe med fartøy som ikke er innført i register over merkepliktige norske fiskefartøy (merkeregisteret) eller fra land

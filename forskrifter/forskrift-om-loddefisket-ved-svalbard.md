@@ -15,8 +15,9 @@ xml_hash: "6771da5d83d9c27069163cd14d11efc0b7f1707bb3142fbad0b6a79c89d44edf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot å fiske lodde i Svalbards territorialfarvann

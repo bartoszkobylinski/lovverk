@@ -15,8 +15,9 @@ xml_hash: "1033a8d516bd8de599483ff765d6202f65e707ca2c4151f99b604cea2cd97912"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot å bruke levende dyr som lotterigevinster

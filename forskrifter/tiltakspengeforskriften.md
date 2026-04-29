@@ -15,8 +15,9 @@ xml_hash: "20e0a7eac80af92e78fad3fde24ea0b9acb4d15eec06015f4f88ecd634fd9826"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tiltakspenger mv. (tiltakspengeforskriften)

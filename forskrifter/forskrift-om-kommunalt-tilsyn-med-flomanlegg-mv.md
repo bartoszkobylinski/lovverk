@@ -15,8 +15,9 @@ xml_hash: "c760f2792a5e5d1c9038327bb4e6d1c8f7154a81562d9834f745e5046252ee4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunalt tilsyn med anlegg for sikring mot flom, erosjon og skred og anlegg for å bedre vassdragsmiljøet.

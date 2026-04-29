@@ -15,8 +15,11 @@ xml_hash: "314ecd4eaf1bbff8c2d9d53e13a816d618e8d83630d6f4a1b8c4b7cb3e070c51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019R0515"
+  - "32008R0765"
 ---
 
 # Lov om det frie varebytte i EØS (EØS-vareloven)

@@ -15,8 +15,9 @@ xml_hash: "0a2792b062e662171362d05d5e84899576c629a964a8b9060bf7c2bb9ae8ba24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utvidet sensurfrist for fjernundervisningsemner ved Høgskolen i Sør-Trøndelag.

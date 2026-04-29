@@ -15,8 +15,9 @@ xml_hash: "8e3cfc088b2887bfd9ebd65cefd56280b7a1c36b6fb92b2b45ee0a797c61a21b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter reker med fartøy fra Island i Svalbards territorialfarvann og indre farvann.

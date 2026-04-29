@@ -15,8 +15,9 @@ xml_hash: "4ffc870fff1dfe1d2faa91f90d3c8153d1f7d85573048afb631d96452cb6fe3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade)

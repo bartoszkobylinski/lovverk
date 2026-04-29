@@ -15,8 +15,9 @@ xml_hash: "8ec215dbf260fc9df18f50d12899fc372e3c8ca9e9068ac08c375cb57122338c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om vern av Eplejuice frå Hardanger/Eplemost frå Hardanger som geografisk nemning

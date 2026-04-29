@@ -15,8 +15,9 @@ xml_hash: "f34a30ad0d5e38b238ff6e5cca06e535c7b934b7c6d45bf15868ead76079a42a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om atomenergivirksomhet [atomenergiloven]

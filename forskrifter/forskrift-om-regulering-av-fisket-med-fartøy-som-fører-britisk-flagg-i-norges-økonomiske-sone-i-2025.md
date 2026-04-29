@@ -15,8 +15,9 @@ xml_hash: "b17c7b334aa9ee042c541e2c156a58277c72db786dc25541c25446388c110eea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket med fartøy som fører britisk flagg i Norges økonomiske sone i 2025

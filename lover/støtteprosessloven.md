@@ -15,8 +15,9 @@ xml_hash: "0f968e01daf77b737198a0056ba55c4f1a287cc12d93997645e4ae422083cd28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven)

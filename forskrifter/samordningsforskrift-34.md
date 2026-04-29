@@ -15,8 +15,9 @@ xml_hash: "1679932148a5d2851ec435f6d0230a4e0086a8f61a0ba04f29eb59d7bcbbfd72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om personskadetrygd – garantiregler (samordningsforskrift 34)

@@ -15,8 +15,9 @@ xml_hash: "649b862bfd90bf7365b4f440a2d2913801759dce9c8f313a22068680fdd9f33f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om yrkessykdommer og infeksjonssykdommer som likestilles med yrkesskade.

@@ -15,8 +15,9 @@ xml_hash: "106f0cb07ad53f563d56a0be7c9019af14bcfd4168b64db5fafec8822ad9b02e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om provisorfarmasøyters og reseptarfarmasøyters rett til rekvirering av oseltamivir og zanamivir

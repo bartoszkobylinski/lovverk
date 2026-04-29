@@ -15,8 +15,9 @@ xml_hash: "67d34bfeded75210ad3c43fe035c1411fbb85b780004f76e9db7b589824d09f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot omlasting av og ilandføring i norsk havn av pelagisk snabeluer (*Sebastes mentella*) fra Irmingerhavet og tilstøtende områder

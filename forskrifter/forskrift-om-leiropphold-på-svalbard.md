@@ -15,8 +15,9 @@ xml_hash: "93180fdb82f20388ac98495956190845e6c4b0116cdf6d495435d55907d1f301"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om leiropphold på Svalbard

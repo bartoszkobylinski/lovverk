@@ -15,8 +15,9 @@ xml_hash: "3cd1797f240fb9e87395e12d63f964087c37c9ee7d7643183e342b99f95b20eb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om strukturkvoteordning mv. for havfiskeflåten

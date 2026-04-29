@@ -15,8 +15,9 @@ xml_hash: "e659dff906c85cb50af4b4fc945fad7281c91146fd8c85158f8db6d8bdcdbaad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter norsk vårgytende sild (nvg) i 2025

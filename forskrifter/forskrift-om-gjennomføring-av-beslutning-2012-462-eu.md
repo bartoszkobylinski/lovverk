@@ -15,8 +15,9 @@ xml_hash: "69b9340765f21e21e3ca5457004fd1ab1250d4655d6243d113d065221498e909"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av kommisjonsbeslutning 2012/462/EU om endring av vedtak 2002/731/EF, 2002/732/EF, 2002/733/EF, 2002/735/EF og 2006/66/EF og om oppheving av vedtak 2002/730/EF om tekniske spesifikasjoner for samtrafikkevne

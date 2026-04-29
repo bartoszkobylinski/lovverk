@@ -15,8 +15,9 @@ xml_hash: "7c9ed32dffbea82d6911be5995c4103c5047b851c09a5b68ddb6c4d94c73876e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utfylling og gjennomføring av overgangsregel i lov 21. juni 2013 nr. 66 om endringar i lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v.

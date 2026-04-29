@@ -15,8 +15,9 @@ xml_hash: "a6fdb8e2616ed09f47d73333dffe584435667f4da804b67e961ed406c4205ec3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020 for tilskuddsperioder til og med februar 2021

@@ -15,8 +15,9 @@ xml_hash: "331f64d188c523722f5bc8da5d0e86c73257fd8f77b043d41f0b1ded360c369b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)

@@ -15,8 +15,11 @@ xml_hash: "07b8ddb60a5808b967ac92e27978bff4b2bc5eba00b018fbc7e63b750b0dcc7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32006L0123"
+  - "32018R0302*"
 ---
 
 # Lov om tjenestevirksomhet (tjenesteloven)

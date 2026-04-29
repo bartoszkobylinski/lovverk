@@ -15,8 +15,9 @@ xml_hash: "149e02d0caa7cd8371bc3098baf82b5144d1e8ef9e3f16f8e723b672bd81d8f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skattefrie fondsavsetninger m.v.

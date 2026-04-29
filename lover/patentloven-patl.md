@@ -15,8 +15,13 @@ xml_hash: "012e1ca8571ffe8a2c0ea62c1425293a5edb9cd62f699f1ffde55fbe039e8b31"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009R0469"
+  - "32019R0933"
+  - "31996R1610"
+  - "31998L0044"
 ---
 
 # Lov om patenter (patentloven)

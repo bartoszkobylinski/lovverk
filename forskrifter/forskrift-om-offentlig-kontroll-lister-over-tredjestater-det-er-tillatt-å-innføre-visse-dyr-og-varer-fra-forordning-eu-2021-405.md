@@ -17,8 +17,9 @@ xml_hash: "cef303aefebd1e13279655697edf7ee77a6bf92abc10896d44bd57a16181b682"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – lister over tredjestater det er tillatt å innføre visse dyr og varer fra forordning (EU) 2021/405

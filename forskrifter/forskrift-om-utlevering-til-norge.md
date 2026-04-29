@@ -15,8 +15,9 @@ xml_hash: "275048ea113223f5aaeb5d2bd81f716c72043ea3f7fbfe5e3279bd00913bbaf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utlevering for å få iverksatt vedtak om frihetsinngrep i annet nordisk land.

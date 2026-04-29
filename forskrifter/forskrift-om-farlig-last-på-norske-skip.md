@@ -15,8 +15,9 @@ xml_hash: "7527129f537be8c22f9a2f95db9a2e745c9ac0619ea185bfb836e38e7cc249ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om farlig last på norske skip

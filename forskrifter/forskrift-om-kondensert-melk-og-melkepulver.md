@@ -15,8 +15,9 @@ xml_hash: "2f8daaa0817e5a58d5afc1a1016fae3f7a12e94e9c9e673972a1bd7b796c415d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kondensert melk og melkepulver

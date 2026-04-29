@@ -15,8 +15,9 @@ xml_hash: "02aa431fd7dd602b77fb41827fc34a73b4b2bc214d0ab8c4d92fd9e4d894f564"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten

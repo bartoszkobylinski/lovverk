@@ -15,8 +15,12 @@ xml_hash: "60a20f5bfd7aeb59f82707458f43c26efda8378b0ed88c15d6a9d331478a1c08"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0125"
+  - "32005L0032"
+  - "32019R1020"
 ---
 
 # Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)

@@ -15,8 +15,9 @@ xml_hash: "00ea83c1d0ef3f06f86d13f78ebcda0746c50189f9c594259b0a05a1bde64dd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om medlemskap i trygden under fengselsopphold mv.

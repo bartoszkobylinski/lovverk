@@ -15,8 +15,9 @@ xml_hash: "bddb2052f1103012b1ff9ff6d6307b7ea032321843fede385aba5e4e46c30e80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om barn mellom 12 og 16 år sin rett til selv å samtykke til deltakelse i medisinsk og helsefaglig forskning

@@ -15,8 +15,9 @@ xml_hash: "5b7f24cb2d8da64fea57102347fc4122b478dd005d369824b142038b3faa1a1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidsmiljølovens anvendelse for personer som ikke er arbeidstakere.

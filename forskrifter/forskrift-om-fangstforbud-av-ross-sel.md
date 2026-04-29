@@ -15,8 +15,9 @@ xml_hash: "31e85c0c367f19f19646b1de26fb3367f7944d25fabd06a332ddbf31b95d1662"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fangst av Ross-sel.

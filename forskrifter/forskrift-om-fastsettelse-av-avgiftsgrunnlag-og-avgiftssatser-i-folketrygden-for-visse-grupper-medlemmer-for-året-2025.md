@@ -15,8 +15,9 @@ xml_hash: "e9194ffd010b1172a90f76e1a8217a0e0339d38f721c4104085d8d39116aaf6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse av avgiftsgrunnlag og avgiftssatser i folketrygden for visse grupper medlemmer for året 2025

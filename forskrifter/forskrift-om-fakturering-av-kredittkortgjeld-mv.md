@@ -15,8 +15,9 @@ xml_hash: "14497b3762a0531f32d17c8c6b9b3204dea7909e0282a1b5b0519aa0f9e34cdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fakturering av kredittkortgjeld mv.

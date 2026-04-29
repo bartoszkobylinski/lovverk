@@ -15,8 +15,9 @@ xml_hash: "8a9d5eaa1469dd7aa024b1e92373e9461983f75d0bc66e8ff229b347bbfeede3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig lov om tillegg til lover av 13. desember 1946 om 1) Krigspensjonering for hjemmestyrkepersonell og sivilpersoner og 2) Krigspensjonering for militærpersoner

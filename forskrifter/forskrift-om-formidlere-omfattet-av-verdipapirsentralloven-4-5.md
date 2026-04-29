@@ -15,8 +15,9 @@ xml_hash: "d716ee093069e7dc961c7c59d4212949d51dc34a49215ee4c79c2b54ec951576"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om formidlere omfattet av verdipapirsentralloven § 4-5

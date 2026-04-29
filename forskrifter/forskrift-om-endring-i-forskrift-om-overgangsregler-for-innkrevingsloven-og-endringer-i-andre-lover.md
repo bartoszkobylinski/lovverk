@@ -15,8 +15,9 @@ xml_hash: "689f7ba6aa624d11b4eda35b26f19c7baba7826dcf1aef861dc5531e1475dfbc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om overgangsregler for innkrevingsloven og endringer i andre lover

@@ -15,8 +15,9 @@ xml_hash: "8a7de038646ad956d0bc92153e9a049194cab7f5ca676d429498f7728bfa12e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om kjemiske desinfeksjonsmidler til teknisk bruk i helse- og sykepleie.

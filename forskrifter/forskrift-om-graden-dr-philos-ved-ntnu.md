@@ -15,8 +15,9 @@ xml_hash: "d8304f1b68245134f15d631076e4108485cc7cfc138e30816e852d59cea69d2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for graden doctor philosophiae (dr.philos.) ved Norges teknisk-naturvitenskapelige universitet (NTNU)

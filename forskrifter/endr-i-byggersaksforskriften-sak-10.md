@@ -15,8 +15,9 @@ xml_hash: "24a95f55d67489fd088c66d30310cec10a53498f99f5d579b284885c0b5dc774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om byggesak (byggesaksforskriften)

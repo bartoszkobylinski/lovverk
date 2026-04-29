@@ -15,8 +15,9 @@ xml_hash: "dd9a1abe75bb294d3199018f8c54f21ffa885737883444bd831b0ce1d802ba6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket med fartøy som fører russisk flagg i Norges økonomiske sone og fiskerisonen ved Jan Mayen i 2025

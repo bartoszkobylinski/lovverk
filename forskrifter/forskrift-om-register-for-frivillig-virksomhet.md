@@ -15,8 +15,9 @@ xml_hash: "1e7ddf9392a64dbf5fd54dece9e284b47e51319f813010f4a8b3b134998b17dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om register for frivillig virksomhet

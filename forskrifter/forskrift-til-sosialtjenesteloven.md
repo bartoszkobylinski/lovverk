@@ -15,8 +15,9 @@ xml_hash: "45a7a963ad19fa0b5d3552ee8dde44d29e549ac8a7b8216622d7a48ee6903319"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om sosiale tjenester m.v.

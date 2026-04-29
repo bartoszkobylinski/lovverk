@@ -15,8 +15,9 @@ xml_hash: "de8ec727d30fac891af87b9b3b643f6c9f3e154c1fefa9f5bca697aed0a7ab3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig tilskudd til kulturarrangementer første halvår 2021 som følge av covid-19

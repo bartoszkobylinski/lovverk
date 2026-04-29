@@ -15,8 +15,9 @@ xml_hash: "0db2fa67f16876f1780d17f21e29f3d6dc2657954b1502d1ddf1d8257dd8243f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overenskomst mellem Norge og Storbritannia angående den civile rettergang

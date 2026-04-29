@@ -15,8 +15,9 @@ xml_hash: "16337f4a555f99facddacf6bd07923cc5f5d705e539d1a6d3fa182f04f5e140c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift fastsatt av Skattedirektoratet til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14

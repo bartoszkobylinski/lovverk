@@ -15,8 +15,9 @@ xml_hash: "d7c2abd034b3b04bc18e1b174b3b60ad7f71d2902212a2dfc7a6e408318333d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fangstdokument som skal benyttes ved fiske og overføring av patagonisk tannfisk (Dissostichus spp.).

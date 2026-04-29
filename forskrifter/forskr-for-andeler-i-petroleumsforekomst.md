@@ -15,8 +15,9 @@ xml_hash: "86172f327b71a1035644b69b885f0d6e2a635c8d02b9f6f64251c4c8235515d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for skattemessig behandling av deltakere i samordning og omfordeling av andeler i petroleumsforekomst.

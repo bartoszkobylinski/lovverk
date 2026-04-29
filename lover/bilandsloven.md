@@ -15,8 +15,9 @@ xml_hash: "29a231dd109365647c31ec4f427e4ad4a93a84633999a5165ce9c21cf0e20a53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. (bilandsloven)

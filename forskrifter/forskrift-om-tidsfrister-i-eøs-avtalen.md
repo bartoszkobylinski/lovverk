@@ -15,8 +15,9 @@ xml_hash: "46ad721143e09af22a033c305626a613371f51805d258d30ff15fd891eeabdb3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av EØS-avtalen vedlegg XVI punkt 6 (Rfo EØF/Euratom nr. 1182/71) om fastsettelse av regler for frister, datoer og tidspunkter

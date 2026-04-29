@@ -15,8 +15,9 @@ xml_hash: "2db4345f7971aaead1d27ae21f1fc288be299ed8d9eb68857c09f71cda6f7689"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i skattebetalingsloven

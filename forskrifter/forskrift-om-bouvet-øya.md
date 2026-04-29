@@ -15,8 +15,9 @@ xml_hash: "4f36b3749dc584b34d1062b7eb49428a10fa851ae6b5eb771fd231efa62350e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Bouvet-øya.

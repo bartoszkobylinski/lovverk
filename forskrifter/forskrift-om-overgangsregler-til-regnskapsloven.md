@@ -15,8 +15,9 @@ xml_hash: "4866f7312da7241d2b8aa2afe02c5ba78a7e5db25bff633328529cd21d989cc8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til regler om ettergivelse og tvangsinnkreving av forsinkelsesgebyr i lov om årsregnskap m.v. (regnskapsloven).

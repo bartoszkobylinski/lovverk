@@ -15,8 +15,9 @@ xml_hash: "65ff0bfd91e872f151889a7566ef6ed8ed10e69216ba6506d6195af41756c607"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om arbeidsgivers innrapportering av ansettelses- og inntektsforhold med mer (a-opplysningsforskriften)

@@ -15,8 +15,9 @@ xml_hash: "cf7df8c1b0bb14e5a56dabf742708ea21ae25657ff0750dc1a879a8d6540cb71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av EØS-rettsakter om europeisk statistikk

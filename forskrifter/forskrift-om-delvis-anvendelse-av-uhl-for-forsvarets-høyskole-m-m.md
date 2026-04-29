@@ -15,8 +15,9 @@ xml_hash: "473d2a5ce67ca0db53b581b9e8ba65d1ba87dc1037d022ef8823b97538b5e85b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis anvendelse av universitets- og høyskoleloven for Forsvarets høgskole og om nemnder

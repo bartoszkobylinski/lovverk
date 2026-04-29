@@ -15,8 +15,9 @@ xml_hash: "2dc3f13ef87ad46675bd3554b35b267dc8d9664a88e2f86c1e8071579bf91907"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om fordringshavernes dekningsrett (dekningsloven)

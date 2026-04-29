@@ -15,8 +15,11 @@ xml_hash: "13fb1132286e0bc08120398730986a15941ec709321209bad8abbe8949f1ab26"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014R0909"
+  - "32017L0828"
 ---
 
 # Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)

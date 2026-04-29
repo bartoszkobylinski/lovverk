@@ -15,8 +15,9 @@ xml_hash: "69362ac28d42b9f21a7ef5df89639528b901156ffdd2f00e045bf14e4fd30c94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for private tjenestepensjonsordninger etter skatteloven § 6-46, jf. tidligere forskrift av 28. juni 1968 nr. 3 om private tjenestepensjonsordninger i henhold til skatteloven § 44 første ledd, bokstav k, tidligere forskrift av 27. oktober 1969 nr. 9451 om private tjenestepensjonsordninger og tidligere forskrift av 9. mars 1994 nr. 166 om overføring av avkastning på pensjonskassers innskudd.

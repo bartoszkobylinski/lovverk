@@ -15,8 +15,9 @@ xml_hash: "1875ac8b585cc5c69324f54a2e2e2c9c52a3aaa45cb70079861c5098ef912b63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)

@@ -15,8 +15,9 @@ xml_hash: "46976ab4ae0c51be330cd9b4c08d296b4d4f3c29ad08fe65fc26109ffc8dec73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for integrert ph.d.-utdanning ved Universitetet i Agder (UiA)

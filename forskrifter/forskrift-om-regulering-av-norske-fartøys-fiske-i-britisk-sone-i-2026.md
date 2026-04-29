@@ -15,8 +15,9 @@ xml_hash: "ab050f433b1722f69bf738e80cc9e1da6327df51384aace2af3c88a08eb3fd10"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av norske fartøys fiske i britisk sone i 2026

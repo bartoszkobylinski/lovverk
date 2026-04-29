@@ -15,8 +15,9 @@ xml_hash: "3a1c29a8785086312bb52f6916dbfa5c68241c8673968176e7ef351edf9ecf08"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om avgiftssatser for bruk av lufthavner drevet av Avinor AS

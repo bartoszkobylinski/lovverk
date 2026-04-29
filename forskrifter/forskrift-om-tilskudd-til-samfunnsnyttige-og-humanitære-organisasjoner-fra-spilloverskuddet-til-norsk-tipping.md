@@ -15,8 +15,9 @@ xml_hash: "881bfa4876e607343ae4d6bf6270a3e5ffa9c25419543890ec8e0b7f681ddae0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til samfunnsnyttige og humanitære organisasjoner fra spilloverskuddet til Norsk Tipping

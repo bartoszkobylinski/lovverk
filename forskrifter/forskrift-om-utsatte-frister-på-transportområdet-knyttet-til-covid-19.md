@@ -16,8 +16,9 @@ xml_hash: "e14b6c9aeb2eea213edfc5ee6db2f18583d0c193e075f5dee40e825126bdadb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utsatte frister på transportområdet knyttet til covid-19

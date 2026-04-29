@@ -15,8 +15,9 @@ xml_hash: "b3436a73a176ed6f0fd0137ef28d2acc247311b157ed33058faa48202054535a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av kommisjonsforordning (EU) nr. 1303/2014 av 18. november 2014 om den tekniske spesifikasjonen for samtrafikkevne som gjelder sikkerhet i jernbanetunneler i Den europeiske unions jernbanesystem (TSI SRT-forskriften)

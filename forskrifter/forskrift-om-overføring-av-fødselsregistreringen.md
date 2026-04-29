@@ -15,8 +15,9 @@ xml_hash: "1414fe04261e3fa80cd52788f97c2cdf92af0fa4d5d802a246f808b00cee6276"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overføring av fødselsregistreringen til folkeregistrerene.

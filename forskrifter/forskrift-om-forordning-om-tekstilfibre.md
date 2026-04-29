@@ -15,8 +15,9 @@ xml_hash: "b1c0da953dd40f67c31e0061e543f8c48cf237f01193038e8fe2a0a48952126f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innlemmelse av forordning (EU) nr. 1007/2011 om tekstilfibernavn og tilknyttet etikettering av tekstilprodukters fibersammensetning

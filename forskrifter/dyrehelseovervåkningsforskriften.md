@@ -16,8 +16,9 @@ xml_hash: "93f1b4fbc5e357dcf6d174a0e3c6c7f320f303a2fb5635680c48a536baeb2d6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift som utfyller dyrehelseforskriften med bestemmelser om melding, rapportering, overvåkning, utryddelsesprogram og sykdomsfri status for bestemte dyresykdommer (dyrehelseovervåkningsforskriften)

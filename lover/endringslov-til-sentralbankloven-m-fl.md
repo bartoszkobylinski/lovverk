@@ -15,8 +15,9 @@ xml_hash: "3eac94d578d0edb1b78c00fed3c8bf2bb770c48aeef6b306c8c9c735c6e7dc0b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i sentralbankloven og finansieringsvirksomhetsloven og om opphevelse av valutareguleringsloven og penge- og kredittreguleringsloven

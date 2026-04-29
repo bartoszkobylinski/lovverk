@@ -15,8 +15,9 @@ xml_hash: "a7381d343fd41b884d8c0e0ab249d87098051bca2f96eaee36709218b825cfe4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om systemansvaret i kraftsystemet

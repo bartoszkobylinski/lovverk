@@ -15,8 +15,9 @@ xml_hash: "8fce24931ada2d2a1f9e04d59ad50717bb9c4f0fca69a86ffbcf5f77199661d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union (brexit-loven)

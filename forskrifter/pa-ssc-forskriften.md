@@ -15,8 +15,9 @@ xml_hash: "275ab3b752dc3c5cf9fe33be47c4bd982b5002529592dee817cf91a6abc6126c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) 2018/763 om praktiske ordninger for utstedelse av felles sikkerhetssertifikater til jernbaneforetak (PA SSC-forskriften)

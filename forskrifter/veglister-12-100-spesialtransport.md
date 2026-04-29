@@ -15,8 +15,9 @@ xml_hash: "9a44413d8554bf3f98b566f51059a5d8ba9c785899463b5d56ffde01aa704bde"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om 12/100 for spesialtransport på riks-, fylkes- og kommunale veger (veglister 12/100 spesialtransport)

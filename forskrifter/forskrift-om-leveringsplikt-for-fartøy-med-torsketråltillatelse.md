@@ -15,8 +15,9 @@ xml_hash: "90daa9f510ba3601d4db6ec0f1b7027bc7d37c528bcc41a91de3dc6e76a39622"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om leveringsplikt for fartøy med torsketråltillatelse

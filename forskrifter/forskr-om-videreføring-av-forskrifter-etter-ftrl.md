@@ -15,8 +15,9 @@ xml_hash: "2b6180000cb517222c03b3c47af1f7fe2125b690f25334965cea5234efcf7603"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd

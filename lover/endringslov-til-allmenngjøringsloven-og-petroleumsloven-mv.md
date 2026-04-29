@@ -15,8 +15,9 @@ xml_hash: "5ff2092a1cf8740a1d646d4150ea622d03510324d4979de5ef6b3470820566c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i allmenngjøringsloven og petroleumsloven mv. (allmenngjøringslovens anvendelse på innenriks skipsfart og rettighetshaveres plikt til å sørge for norske lønnsvilkår på skip)

@@ -15,8 +15,9 @@ xml_hash: "f8e93900006674fbeebcd5d39c57e6e21a54a92d69029ec30e9019a04df5947c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om utvidelse av det geografiske virkeområdet for lov om arkiv til også å omfatte Svalbard, Jan Mayen og de norske biland i Antarktis.

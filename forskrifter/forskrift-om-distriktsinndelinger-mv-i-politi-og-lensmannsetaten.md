@@ -15,8 +15,9 @@ xml_hash: "c1aa117ce8a8ac1d97da9f8bf800c96d66fd5800b58d4a912ab79755894b8a3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsetting av inndeling i politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten

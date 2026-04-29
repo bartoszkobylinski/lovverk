@@ -15,8 +15,9 @@ xml_hash: "e2aba207c2f4f7873f1cca0827253657279b3d7825ef50bc21291612acec7efe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer

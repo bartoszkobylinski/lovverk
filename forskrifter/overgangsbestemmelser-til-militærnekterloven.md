@@ -15,8 +15,9 @@ xml_hash: "7a3afa166aece841337d49f9264f76ee26bcdc442e6a5f49c7da697a4c22cd22"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsbestemmelser for gjennomføring av lov 20. april 2012 nr. 19 om endringer i lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner

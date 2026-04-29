@@ -15,8 +15,9 @@ xml_hash: "616807e4bd14877ef240b61c8ff469871d5c61be90c4c7e2001b5d7d1e19f7d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av Fenalår fra Norge som geografisk betegnelse

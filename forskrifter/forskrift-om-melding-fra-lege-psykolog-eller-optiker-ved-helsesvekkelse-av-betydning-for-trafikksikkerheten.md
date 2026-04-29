@@ -15,8 +15,9 @@ xml_hash: "d378d9d5936a979856e10210448b8558abcccdfd0b616188eed45596b03f7d3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om melding fra lege, psykolog eller optiker ved helsesvekkelse av betydning for trafikksikkerheten

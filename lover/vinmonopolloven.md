@@ -15,8 +15,9 @@ xml_hash: "817a78e7bab3fecb9732140d2004752a5d02a7616f621b9d2791269f620378da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Aktieselskapet Vinmonopolet [vinmonopolloven]

@@ -15,8 +15,9 @@ xml_hash: "16bd907dce8b7896c473beecfff90595446893a1caa07e7f67ccdb0dff6f4b43"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om saksbehandlingen for statsforvalteren ved separasjon og skilsmisse m.v.

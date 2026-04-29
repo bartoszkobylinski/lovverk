@@ -15,8 +15,9 @@ xml_hash: "dc73da63bd6568d8f737d8650321ce61f1ec8489068d23564ddc22e266e84d2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for tverrfaglig videreutdanning i psykososialt arbeid med barn og unge

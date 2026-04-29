@@ -15,8 +15,9 @@ xml_hash: "6b3e0ae49898dc3984020c2d4e90a2d7250d966acee6b303deb5cab16ba290a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hvem som kan få rett til å foreta eiendomsinngrep etter lov om oreigning av fast eigedom.

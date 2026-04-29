@@ -15,8 +15,9 @@ xml_hash: "7a1b57a486f6564210579c9f1637bcd22fd0252a9191df67779c5cf7a079402c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse av rente på statens grunnkjøpsobligasjoner

@@ -15,8 +15,9 @@ xml_hash: "49fe9f08447b65dc5dda179223ffddaf59787c9ca8653d6e902ee4f38e5cee5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om burettslag (burettslagslova)

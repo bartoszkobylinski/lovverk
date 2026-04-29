@@ -17,8 +17,9 @@ xml_hash: "93433cb35f6316544128039c5327351ff1611baeb2291664bfd3a493d2a66142"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilte beskyttelsestiltak ved import av ris og risprodukter fra Kina

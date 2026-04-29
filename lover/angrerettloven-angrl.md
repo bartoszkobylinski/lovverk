@@ -15,8 +15,15 @@ xml_hash: "4bce1e0ac8d3b98925f6b493ffbfa0b23f3a6dc166bb4ebd6f805ff55377652d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31993L0013"
+  - "32011L0083"
+  - "32019*2161"
+  - "31999L0044"
+  - "32019L2161"
+  - "32002L0065"
 ---
 
 # Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler (angrerettloven).

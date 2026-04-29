@@ -15,8 +15,9 @@ xml_hash: "03f15430ab3965242a3f7d3052a3da9a34f7b9f08ce0a1c544e06d23659ef644"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om billettering ved jernbanetransport

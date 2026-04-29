@@ -15,8 +15,9 @@ xml_hash: "65e012a0c6dc6ece619156bd105147b45fd46b6c882497f9f18cab704db4d991"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om gebyr til Brønnøysundregistrene

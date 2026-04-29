@@ -15,8 +15,9 @@ xml_hash: "bb3931fc292c8c15460dcdeb529e79fbbb95a9cbfe03b165af93a3d57634f64b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lossing, lasting, lagring og transport innen kommunens sjøområde og havner innenfor samme område av farlige stoffer og varer

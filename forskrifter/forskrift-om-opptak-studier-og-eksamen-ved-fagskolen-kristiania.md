@@ -15,8 +15,9 @@ xml_hash: "48bb83f3c93dfc7c28218b3cb75d5f1604f1a0cd4dfbc603f745951aa8c25ec7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved Fagskolen Kristiania

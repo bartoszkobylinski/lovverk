@@ -15,8 +15,9 @@ xml_hash: "79e9e970a1f91e16b2bc5db4198bef1cdbb64bcf23ea03db5cb7504ac3edaeae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om bruk av kjøretøy og forskrift om godkjenning av bil og tilhenger til bil

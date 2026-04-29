@@ -15,8 +15,9 @@ xml_hash: "4db3a78854588a1d755c69564c3342a2756a011d8a56d73e465c7abee4fafca5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser til lov 12. april 2024 nr. 17 om endringer i foretakslovgivningen mv. (utlevering av fødsels- og d-nummer, registrering av enkeltpersonforetak, krav til foretaksnavn, retningslinjer for godtgjørelse mv.)

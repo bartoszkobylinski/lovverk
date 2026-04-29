@@ -15,8 +15,9 @@ xml_hash: "0087296ce13e8accb72e75e8c648b63d5e33c13283c72aa64da631dde6b90f31"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde

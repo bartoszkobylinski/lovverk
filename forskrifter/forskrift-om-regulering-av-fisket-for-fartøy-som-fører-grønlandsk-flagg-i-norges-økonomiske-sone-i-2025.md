@@ -15,8 +15,9 @@ xml_hash: "8851981b26f6cb972ad96a151533fa083de74382bcba195ce629c97fa586be7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket for fartøy som fører grønlandsk flagg i Norges økonomiske sone i 2025

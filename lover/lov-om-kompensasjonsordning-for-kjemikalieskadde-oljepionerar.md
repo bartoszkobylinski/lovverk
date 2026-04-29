@@ -15,8 +15,9 @@ xml_hash: "8f7c45ee7d84b6adf925bc7b3694ecbd093012d4facf47769866b03205d3145b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kompensasjonsordning for kjemikalieskadde oljepionerar

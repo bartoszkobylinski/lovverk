@@ -15,8 +15,9 @@ xml_hash: "432dd0a65fc840cea0f13469e4b88d7d1c972f53e2287d932b6b9dea43c15d4f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kommunenes ansvar på det boligsosiale feltet [boligsosialloven]

@@ -15,8 +15,11 @@ xml_hash: "d8f89deb62d20a031c5468511a4611620949c8a6494c12005daa3c6e667e3e54"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32015L0849"
+  - "32023R1113"
 ---
 
 # Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)

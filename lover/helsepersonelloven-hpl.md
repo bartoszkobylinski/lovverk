@@ -15,8 +15,9 @@ xml_hash: "906605553da33dc046409a962678c3461ab3cca3b1319b30e874d4abcafcdac4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om helsepersonell m.v. (helsepersonelloven)

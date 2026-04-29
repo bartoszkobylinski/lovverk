@@ -15,8 +15,9 @@ xml_hash: "ea068fb094ddd3e6630960fd6ffacd7ddf1ce8fe2493548aa3e289b407bc805b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tvisteløsningsnemnd etter arbeidsmiljøloven

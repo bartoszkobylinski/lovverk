@@ -15,8 +15,9 @@ xml_hash: "ccb605df1343ed6865097c3e3e2b527f314c51dbdd2f62464677c71f0eb67b00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om statens overtagelse av krigsrisikoen for fiskeflåten.

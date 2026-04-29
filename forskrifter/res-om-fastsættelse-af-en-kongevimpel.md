@@ -15,8 +15,9 @@ xml_hash: "1935a0a8fe7fcd79a18aa3ccc77d9302e8d97b233143e2f73ed4a3b104791df5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Res. om fastsættelse af en kongevimpel.

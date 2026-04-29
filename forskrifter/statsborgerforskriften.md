@@ -15,8 +15,9 @@ xml_hash: "e13385fb7f90831019ed0155119ae8b6f22bd5e309fa8575d3268e083df6f7f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om erverv og tap av norsk statsborgerskap (statsborgerforskriften)

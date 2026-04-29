@@ -15,8 +15,9 @@ xml_hash: "69174b53b2d1fc4baa9c8ed3dd634a5f183ba9b10cfc76f35c9ddecfca42d252"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utsetting av utenlandske treslag til skogbruksformål

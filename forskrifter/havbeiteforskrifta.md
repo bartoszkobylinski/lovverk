@@ -15,8 +15,9 @@ xml_hash: "0a824f6fb67d48aaa90b0fa2c693f87b8506266d742f03832ab1a1641553389f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tildeling og drift ved havbeiteverksemd (havbeiteforskrifta)

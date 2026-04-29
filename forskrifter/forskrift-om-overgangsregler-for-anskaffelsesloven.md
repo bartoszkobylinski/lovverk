@@ -15,8 +15,9 @@ xml_hash: "b860502901eeb9a5cc908b16d61e9ac6c924bff7729ed6dcf44d9c80a61f0c7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven)

@@ -15,8 +15,9 @@ xml_hash: "dced6225a5aac2f3a2d139f2a63fdc898323730eccbed7907e867ad09c35b2fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Statens innkrevingssentral (SI-loven)

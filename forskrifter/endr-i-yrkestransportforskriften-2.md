@@ -15,8 +15,9 @@ xml_hash: "9c9ed7eaf3233ca49c0f378c48bb7afe5628a946ad73f6cab4aa803b7a7d99d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)

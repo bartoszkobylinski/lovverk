@@ -15,8 +15,9 @@ xml_hash: "5e7b1f5d3d33d1f9e65a1769c1f94910a4301ebbb24f9d98c42d5b62f78012c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stopp i fisket etter snabeluer (*S. mentella*) nord for 62° N i 2025

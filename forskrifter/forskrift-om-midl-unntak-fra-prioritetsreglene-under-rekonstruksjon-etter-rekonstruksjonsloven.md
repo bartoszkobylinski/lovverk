@@ -15,8 +15,9 @@ xml_hash: "92d80cb3d99a78fe991651aa9d74b48a2b3a56af43085bfd91c49544778780ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig unntak fra prioritetsreglene under rekonstruksjon etter midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19

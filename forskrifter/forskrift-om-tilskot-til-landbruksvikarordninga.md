@@ -15,8 +15,9 @@ xml_hash: "029fa3a9bfb075238492a480e7a2b23a059f22c19eba283e8626d029adc658f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskot til landbruksvikarordninga

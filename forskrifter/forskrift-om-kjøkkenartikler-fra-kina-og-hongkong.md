@@ -15,8 +15,9 @@ xml_hash: "b992aaf4698bcf292d5f2cc1c6bb0edcd0a80d610ad483303df34bd7d247d396"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontroll av kjøkkenartikler i plast importert fra Kina og Hongkong

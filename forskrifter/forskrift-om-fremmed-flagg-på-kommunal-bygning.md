@@ -15,8 +15,9 @@ xml_hash: "05e1225032fbaad6fff95fac6e823cfbc5b8562bc01f3f60e478ae2be4973410"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang til i særlige tilfelle å benytte fremmed lands flagg ved siden av det norske flagg på kommunale offentlige bygninger.

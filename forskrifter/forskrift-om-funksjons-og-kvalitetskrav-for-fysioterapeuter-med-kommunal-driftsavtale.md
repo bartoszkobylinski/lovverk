@@ -15,8 +15,9 @@ xml_hash: "97ab9571a18c6bfc277d0d5778d8b83287ede5a25906b3d6e3bb8fd14ba127db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om funksjons- og kvalitetskrav for fysioterapeuter med kommunal driftsavtale

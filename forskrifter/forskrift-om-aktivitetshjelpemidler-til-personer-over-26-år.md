@@ -15,8 +15,9 @@ xml_hash: "be2639b2eb41b03afb439214761235f22f1ae3d3a86a0315cbff0b4031f96e06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om aktivitetshjelpemidler til personer over 26 år

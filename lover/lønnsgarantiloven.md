@@ -15,8 +15,10 @@ xml_hash: "b75236f6f39168e3c002ac359af38a5fa6be507e52291892c8b19bb1ad14bfc5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32008L0094"
 ---
 
 # Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]

@@ -15,8 +15,9 @@ xml_hash: "510c8055c0cb9b3e13312b80b34d3f862a1ad04e95ad8f3c9aac0108044a31eb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til automatisk identifikasjonssystem (AIS) for utenlandske fiskefartøy som lander fangst i norsk havn eller opererer i norsk territorialfarvann

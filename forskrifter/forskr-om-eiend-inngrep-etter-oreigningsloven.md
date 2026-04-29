@@ -15,8 +15,9 @@ xml_hash: "8bee7554c927420dde6b09f01e40afc5fd03a708c958263d2dfcd247584232fc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rett til å foreta eiendomsinngrep etter oreigningsloven.

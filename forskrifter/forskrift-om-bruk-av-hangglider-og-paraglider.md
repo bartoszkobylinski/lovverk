@@ -15,8 +15,9 @@ xml_hash: "d291e7380fa05ecfcaed977c9c5822a89248cb143204f881b6e2af220556d3f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bruk av hangglider og paraglider

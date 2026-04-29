@@ -15,8 +15,14 @@ xml_hash: "f31251a63074fa8db8666bef92587dfb2b374dbf45781d648ac3281c316c4e68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32015L1535"
+  - "32012R1025"
+  - "32001L0095"
+  - "32014L0065"
+  - "32006L0123"
 ---
 
 # Lov om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven)

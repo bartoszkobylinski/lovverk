@@ -15,8 +15,9 @@ xml_hash: "1b6bdf2820ce69747fa56c5b0b92e41f3e4b2d70e00595ef967a7dbcee907ba4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger

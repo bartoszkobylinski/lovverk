@@ -15,8 +15,9 @@ xml_hash: "919462e53643b4282945386007d1b3db3344728a7713d575ba3988f42eff253b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift 25. juni 1971 nr. 9 om tillatelse for utenlandske fiskefartøy til fiske i vitenskapelig øyemed i samarbeid med norske myndigheter

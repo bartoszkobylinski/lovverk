@@ -15,8 +15,9 @@ xml_hash: "5b9aee1c2d5f1c966f04cb66590f1803ce50212b95cf2755a759f66403f6f2c3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bygging, utrustning og tilsyn av mindre lasteskip

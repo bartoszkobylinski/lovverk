@@ -15,8 +15,9 @@ xml_hash: "6a38bb0c1140798cc4f059fd3a862b0450d760dbb3e2e242f4d1adf3c77c9c06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard

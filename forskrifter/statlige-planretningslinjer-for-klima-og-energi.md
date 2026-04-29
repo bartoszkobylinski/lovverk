@@ -15,8 +15,9 @@ xml_hash: "898e090879f2660351546e210250799d21b7993d39a0a8ffa56f4dfc02de19ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Statlige planretningslinjer for klima og energi

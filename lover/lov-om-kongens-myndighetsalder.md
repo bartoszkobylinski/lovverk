@@ -15,8 +15,9 @@ xml_hash: "a74886cfd45e7a2ab6cf1fa48dd336cf921f88a06a580e825e73208b9cad2e0d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Kongens myndighetsalder

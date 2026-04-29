@@ -15,8 +15,9 @@ xml_hash: "dad9a73f1b62782d099e703e07d06821faf48060798b46e2c8e64b0fc3a47ab5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av lov om oppdrett av fisk, skalldyr mv. i Norges økonomiske sone.

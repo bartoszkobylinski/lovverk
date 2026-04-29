@@ -15,8 +15,9 @@ xml_hash: "0f74d2210b84faf2a8ee9677e95d3fa8da822f6ba93c277bdd8dd8ff6ed95a5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak til studier og emner ved Universitetet i Agder

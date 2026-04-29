@@ -15,8 +15,9 @@ xml_hash: "2ba70ca2a74d77e3be54f4d2784c8a5cbc61a024a461b6711b92b6609fa1ae1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om matproduksjon og mattrygghet mv. (matloven)

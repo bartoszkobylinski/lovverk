@@ -15,8 +15,9 @@ xml_hash: "3241725b43c8b0946889a2c707e0eeaedf89dc23b62b320290ff4a24d0d96633"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godskriving av pensjonspoeng for mottakere av avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år

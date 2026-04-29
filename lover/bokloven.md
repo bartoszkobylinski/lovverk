@@ -15,8 +15,9 @@ xml_hash: "adfa086c1512d3086c9e57897844a1b92fbc990e00c6922f106c1638787d8d47"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om omsetning av bøker (bokloven)

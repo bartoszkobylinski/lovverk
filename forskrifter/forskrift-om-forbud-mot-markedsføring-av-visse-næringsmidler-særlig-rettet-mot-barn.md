@@ -15,8 +15,9 @@ xml_hash: "a02747d23532d6fd1c9b1e0cc37e2e8bbcea58f127fd8689c75fa21a4fce0b3a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn

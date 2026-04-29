@@ -15,8 +15,9 @@ xml_hash: "bb74bd87b10c366a8f21e714b9b9c1087c46c6115b617e8ca248f384aaf1fb64"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av opplysningsplikt etter § 5-3 i sentralbankloven

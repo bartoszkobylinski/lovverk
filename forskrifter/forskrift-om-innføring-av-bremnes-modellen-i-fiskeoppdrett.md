@@ -15,8 +15,9 @@ xml_hash: "43c3ceec3099baf1c2fef01c7cdf950772a565f5bcf5312cc028454e46adea2a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innføring av Bremnes-modellen som prøveordning i norsk lakse- og ørretoppdrett

@@ -15,8 +15,9 @@ xml_hash: "b978c2f7f73472ada3d594a7d79a3b068486c7cfb4dc30e8617b271a63463cd9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høyere yrkesfaglig utdanning for Fagskolen i Agder (Forskrift for Fagskolen i Agder)

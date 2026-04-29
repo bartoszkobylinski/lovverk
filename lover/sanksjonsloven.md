@@ -15,8 +15,9 @@ xml_hash: "4804c377abdd112f94d2096c409af44b65f4908c480e99a25c015ed1a37039a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om gjennomføring av internasjonale sanksjoner (sanksjonsloven)

@@ -15,8 +15,9 @@ xml_hash: "26e9a6b88dc2e121f704432a3992bebd7d77998e9c6b50e6eab9d014fe667744"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring i norsk rett av EØS-avtalen vedlegg IV nr. 47 (forordning (EF) nr. 713/2009 om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter)

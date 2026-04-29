@@ -15,8 +15,9 @@ xml_hash: "4f505dc8fb0c0b697dbd1f677abea473947d23fca259632c4fcdc56c41f66925"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om frivillig yrkesskadetrygd for elever som ikke er obligatorisk yrkesskadedekket.

@@ -15,8 +15,9 @@ xml_hash: "b6185692241d99324025dd47f5140a8e98265342f254a6cebcd2a85191937a3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om kontroll av utenlandsk registrerte kjøretøyers transport i Norge.

@@ -15,8 +15,9 @@ xml_hash: "14591acbb79c786aa240e0ab2dc1a4e90b9c6285609d4ecf4d6ba9704518cc31"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra arbeidsmiljøloven for visse typer arbeid og arbeidstakergrupper.

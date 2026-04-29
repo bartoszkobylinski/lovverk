@@ -15,8 +15,9 @@ xml_hash: "56534e2d08a4172b10dd2e24bb6a4fd9cd03db5b3089ef8ba8df4d7a90477f05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)

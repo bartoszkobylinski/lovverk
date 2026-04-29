@@ -15,8 +15,9 @@ xml_hash: "996f41305999b15d8fcc9567e1fdae861040ee567765f9879f4384d2b9f7ed74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innførsel, transport og annen håndtering av materiale som er smittefarlig for mennesker.

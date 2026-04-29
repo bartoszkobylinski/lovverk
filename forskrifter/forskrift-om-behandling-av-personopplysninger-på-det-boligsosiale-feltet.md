@@ -15,8 +15,9 @@ xml_hash: "82f65dce8adc78b041fe5075130f84270c8fbff96750c54090141a3411b1500a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av personopplysninger på det boligsosiale feltet

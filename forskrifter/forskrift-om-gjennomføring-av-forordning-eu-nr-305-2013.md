@@ -15,8 +15,9 @@ xml_hash: "7296487b0be6b73336025c36cfa6aad04c7b56d70dc4f3eeea9f4243045f5073"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av Kommisjonsdelegert forordning (EU) nr. 305/2013 om utfylling av europaparlaments- og rådsdirektiv 2010/40/EU med hensyn til harmonisert tilgjengeliggjøring av en samvirkende eCall-tjeneste på EU-plan

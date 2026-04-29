@@ -15,8 +15,9 @@ xml_hash: "814c7b56c5b4074f3a5b68b27ac39854476137916f57afedfcb787877cdc8d97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om oreigning av fast eigedom (oreigningslova)

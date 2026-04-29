@@ -15,8 +15,9 @@ xml_hash: "81438ba058b9e71db4285e9c75ba7b1f41b4a2786894b679bb581223bf68c26f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 29. juni 2007 nr. 73 om eiendomsmegling

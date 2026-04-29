@@ -15,8 +15,9 @@ xml_hash: "1a4a0e254f5aabaf3b20d7af7fa6c05e98339bce0890d5c436d47463990405c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunalt pasient- og brukerregister (KPR)

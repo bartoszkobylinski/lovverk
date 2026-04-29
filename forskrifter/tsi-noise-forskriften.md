@@ -15,8 +15,9 @@ xml_hash: "7d8556b5b3ca1edb303c1749789970994e04b7cf1875bbaf3ca0d1b29b9bd709"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av den tekniske spesifikasjonen for samtrafikkevne som gjelder for delsystemet «rullende materiell – støy» (TSI NOISE-forskriften)

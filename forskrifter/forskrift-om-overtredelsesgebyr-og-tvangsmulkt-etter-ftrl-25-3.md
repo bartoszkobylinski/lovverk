@@ -15,8 +15,9 @@ xml_hash: "0c8279b565f538af66c4cf90d704f32be1e5ab8a2ff10c22bb58ee622b821a2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overtredelsesgebyr og tvangsmulkt etter folketrygdloven § 25-3 ved brudd på opplysningsplikten til Arbeidsgiver- og arbeidstakerregisteret mv.

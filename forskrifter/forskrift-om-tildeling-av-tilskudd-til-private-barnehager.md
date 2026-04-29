@@ -15,8 +15,9 @@ xml_hash: "5c3dda8bf87463a62f6e48fae2d2b52746da1716532240e04fe1df81b85c10d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tildeling av tilskudd til private barnehager

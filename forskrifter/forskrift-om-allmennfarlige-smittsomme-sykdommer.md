@@ -15,8 +15,9 @@ xml_hash: "7e132ada57d78f128c82a0ca432972c36f0d028bd2d2a61499667d2844136807"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om allmennfarlige smittsomme sykdommer

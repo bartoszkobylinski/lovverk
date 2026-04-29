@@ -15,8 +15,9 @@ xml_hash: "52d13a519124cbc6a4491cf648352c8415b1d2bb9b391496342a0431cd965784"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)

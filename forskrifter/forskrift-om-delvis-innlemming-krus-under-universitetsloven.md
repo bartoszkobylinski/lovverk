@@ -15,8 +15,9 @@ xml_hash: "b40d61e171fa431a1755fe3209be976ae8384ac9e1ebbdc1d01d05860af894ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler

@@ -15,8 +15,9 @@ xml_hash: "7b7c0db895fb4e87a06f56520ab99e6589b2f81d7e736c775c295e33b1513388"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppgaveplikt og om redskaper som er tillatt benyttet ved fiske etter anadrome laksefisk.

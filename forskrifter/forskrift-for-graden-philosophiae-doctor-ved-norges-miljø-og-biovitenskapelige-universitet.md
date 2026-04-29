@@ -15,8 +15,9 @@ xml_hash: "9ddcde60d5c1dd36122f8ba24e6e98253c78f6eea1ab2c9cd832e6ca4a24460a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitet

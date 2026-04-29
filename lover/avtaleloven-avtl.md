@@ -15,8 +15,10 @@ xml_hash: "75a011c05f7dc42198ee0bd1709147b9c57f7f0004e426c406d57f088c779720"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31993L0013"
 ---
 
 # Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]

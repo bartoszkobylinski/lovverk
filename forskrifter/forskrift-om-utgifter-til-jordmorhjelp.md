@@ -15,8 +15,9 @@ xml_hash: "f344d2f065d3129a15b9175e54f4351438b4691657ca95c484245ab13715046e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til dekning av utgifter til jordmorhjelp

@@ -15,8 +15,9 @@ xml_hash: "5165f63ec73a2670240f3846b99c08e3a58d0ed4bbb09de493730b3e0dd8010e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Statens fond i Tromsø

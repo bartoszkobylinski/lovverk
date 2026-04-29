@@ -15,8 +15,9 @@ xml_hash: "9664d89a6e2619b666959decb8030634f6df579be3f14085477f0274bbf3139c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Folketrygdfondet

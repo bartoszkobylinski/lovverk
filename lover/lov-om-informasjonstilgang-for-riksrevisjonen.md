@@ -15,8 +15,9 @@ xml_hash: "0dc70109b877206b8f6770838536b30c81615b5c652a7b5ab5be97d8ba0ac6b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger

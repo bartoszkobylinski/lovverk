@@ -15,8 +15,9 @@ xml_hash: "d335af054248535ca6b00d77c096884791b58607946e184e492fe3ff5a03a815"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for meklingsnemnda for arbeidstakeroppfinnelser

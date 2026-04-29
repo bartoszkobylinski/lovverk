@@ -15,8 +15,9 @@ xml_hash: "6238e27a80d6704ded0ede8978feb50b2fe7c8940f31653df0b0e3dc8d29b494"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av normrentesats for inntektsåret 2015 i henhold til forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen

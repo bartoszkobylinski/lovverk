@@ -15,8 +15,9 @@ xml_hash: "8c2aadd2f6d7f17dc7ea17d6f59cfbbca90136fed7199e6a5bbaf1b8feb00998"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)

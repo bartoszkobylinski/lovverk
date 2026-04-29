@@ -15,8 +15,9 @@ xml_hash: "c28006718427ad9cdd9af0ca71b52e032bdfa91ca091c99e9b2162e0e5c2dc87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til prisnedskrivning av frukt og grønnsaker i grunnskolen

@@ -15,8 +15,9 @@ xml_hash: "cfa6fae7b65049b1cb6292d712ff88c8e0b59e3fd1c23473a3f506df9be7878e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift til gjennomføring av konvensjonen av 23. mars 1962 mellom Norge, Danmark, Finland, Island og Sverige om inndriving av underholdsbidrag

@@ -15,8 +15,9 @@ xml_hash: "2dd870e9eb2c5bba413a968fbcb70dae89e36fccef082c00c3205cbfde6e34b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høyere yrkesfaglig utdanning ved Fagskolen Tirna

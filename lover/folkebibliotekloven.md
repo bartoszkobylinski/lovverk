@@ -15,8 +15,9 @@ xml_hash: "5decd32d5c65abc46b9d219b3142d5717c33cbabb3bb98f2d91bac44d59789f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om folkebibliotek (folkebibliotekloven)

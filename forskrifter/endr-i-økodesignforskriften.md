@@ -16,8 +16,9 @@ xml_hash: "77dfe69be1ce52bb02cf3d492b48b05d3f00a0262c07bc20c1aae1059be59203"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om miljøvennlig utforming av energirelaterte produkter

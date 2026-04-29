@@ -15,8 +15,9 @@ xml_hash: "ef488f2c348e315142a8b72803ef40ac250c1e5b50f5b93e324e31f1936e2b7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)

@@ -15,8 +15,9 @@ xml_hash: "e8f913846760c32090f6f8678f83cc3b1c0ee1eb6b1a4467c6ea068b62574256"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)

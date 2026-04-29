@@ -15,8 +15,9 @@ xml_hash: "857206e3d60d4eef6a61b2818d17aabad7545d67e25eca1a8fc4f47422003fcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fagskoleutdanning ved fagskolen AOF Norge

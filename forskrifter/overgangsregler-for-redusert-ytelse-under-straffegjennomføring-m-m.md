@@ -15,8 +15,9 @@ xml_hash: "f489fb2e8de15964ef5b9fabdb2161c318cb05279ae7d811c4677626b7518686"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for beregning av redusert ytelse under opphold i institusjon og under straffegjennomføring

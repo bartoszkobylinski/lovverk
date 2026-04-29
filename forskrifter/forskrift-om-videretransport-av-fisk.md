@@ -15,8 +15,9 @@ xml_hash: "b7cc04b732ef6f8b3488708e002429d3e2a821388c6a5738f37508e0ebf77ec9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om videretransport av fisk

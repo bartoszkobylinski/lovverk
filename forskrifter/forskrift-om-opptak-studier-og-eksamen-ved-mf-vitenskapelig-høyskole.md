@@ -15,8 +15,9 @@ xml_hash: "a27f9816453cf9df85b8d5e525c1e16be51645e7c287afeeb578e70eb4e1c857"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved MF vitenskapelig høyskole

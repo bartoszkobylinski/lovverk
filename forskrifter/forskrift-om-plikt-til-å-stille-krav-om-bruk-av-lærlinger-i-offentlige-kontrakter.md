@@ -15,8 +15,9 @@ xml_hash: "12509b0e20cb6efc67df218c6387d2915a06dc65974e58d163684fc4703d97ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om plikt til å stille krav om bruk av lærlinger i offentlige kontrakter

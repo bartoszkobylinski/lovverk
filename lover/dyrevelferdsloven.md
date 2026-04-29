@@ -15,8 +15,9 @@ xml_hash: "a490b66ff248125b5f27868bb3f130d690f450fb7d198bf5916982c38050f3ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om dyrevelferd

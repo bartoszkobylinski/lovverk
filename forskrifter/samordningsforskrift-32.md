@@ -15,8 +15,9 @@ xml_hash: "b49d722032b898f26774a712fa42218f3456aaa7d1d04fd22563d75e7d371af3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om uførepensjon som også inneholder etterlattefordeler (samordningsforskrift 32)

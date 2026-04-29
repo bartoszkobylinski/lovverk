@@ -15,8 +15,9 @@ xml_hash: "6069d57622c9479a7c284d70d0ccf60ca41226c8b51882c163a21d0b16dcd4d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling

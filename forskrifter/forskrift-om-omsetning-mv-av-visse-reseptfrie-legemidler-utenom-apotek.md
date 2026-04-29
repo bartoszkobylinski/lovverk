@@ -15,8 +15,9 @@ xml_hash: "2cc5001141a4335cdbb9c15d6d772eec8a4cc7df1dbbe8a5eeb1fe3289ae5e40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek

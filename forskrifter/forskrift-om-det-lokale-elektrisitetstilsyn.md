@@ -15,8 +15,9 @@ xml_hash: "028f9add49a28655c5e77a570e6443a13dd473971d5e636a081c55203036cbf5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om det lokale elektrisitetstilsyn og sakkyndige som utfører oppgaver for netteier

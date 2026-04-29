@@ -15,8 +15,9 @@ xml_hash: "d2667b4efc5bbf7c55ce09cc06cb5e515b2a9b2a8b76959e507d785212779729"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fredning av Indre Wijdefjorden nasjonalpark på Svalbard

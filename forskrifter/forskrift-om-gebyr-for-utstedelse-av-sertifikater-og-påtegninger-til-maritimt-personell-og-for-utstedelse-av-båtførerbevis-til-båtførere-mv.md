@@ -15,8 +15,9 @@ xml_hash: "791bb8b09c2bae8f29dbd69c129958560d40516011a2eaaf48020d90f0a9f26a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr for utstedelse av sertifikater og påtegninger til maritimt personell og for utstedelse av båtførerbevis til båtførere mv.

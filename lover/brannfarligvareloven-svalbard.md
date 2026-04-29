@@ -15,8 +15,9 @@ xml_hash: "103081fe5923899d2a457d5cabe906d7dbe464d254f65e308ca5da2d8870a955"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om brannfarlige varer samt væsker og gasser under trykk [brannfarligvareloven] [gjelder bare for Svalbard]

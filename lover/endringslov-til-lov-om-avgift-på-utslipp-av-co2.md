@@ -15,8 +15,9 @@ xml_hash: "d30b16ee6ab9f948566c2ad2bb2f71d57f705be3037f0a88c5b5b767e1418875"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om oppheving av lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen

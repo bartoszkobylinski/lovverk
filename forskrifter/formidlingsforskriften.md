@@ -15,8 +15,9 @@ xml_hash: "5a8a29e3ced13a315050f33537f437c9fdbc086ef00128be06c79a01450c29b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om formidling av pristilskudd i landbrukssektoren

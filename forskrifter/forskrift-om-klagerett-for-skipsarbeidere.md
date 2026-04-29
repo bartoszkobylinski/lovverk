@@ -15,8 +15,9 @@ xml_hash: "7c72585164f907391c8189cf65f969b83353014296b0165cf26337d75485952c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om klagerett for den som har sitt arbeid på skip

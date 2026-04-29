@@ -15,8 +15,9 @@ xml_hash: "d65ae08ac27163df4829fbaa2fd417664ed3185360a123a11bd34b8b81ea6f73"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om meldermyndighet og samsvarsvurderingsorganer for jernbanen

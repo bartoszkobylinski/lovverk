@@ -15,8 +15,9 @@ xml_hash: "270643da19fba3e9344597b77ac6c2365f4c533dc2751b41742dd67d2959e588"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for fastsettelse av høyeste pensjon i Statens pensjonskasse ved samordning av tjenestepensjoner

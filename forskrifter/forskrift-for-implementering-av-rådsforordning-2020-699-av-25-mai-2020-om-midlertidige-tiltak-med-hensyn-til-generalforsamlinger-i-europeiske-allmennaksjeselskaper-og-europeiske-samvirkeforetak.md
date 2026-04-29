@@ -15,8 +15,9 @@ xml_hash: "c8bf4a93b46f188129f3c3418b11e4e50d4e515ae27fc3607bebc8919d4f2d74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for implementering av rådsforordning (EU) 2020/699 av 25. mai 2020 om midlertidige tiltak med hensyn til generalforsamlinger i europeiske allmennaksjeselskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak)

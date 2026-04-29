@@ -15,8 +15,9 @@ xml_hash: "e59a79bd4ac4cbf4c1c4b0be58fac7d75b46152ccf3cc164f7447f30fbe5cb1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om skattlegging av undersjøiske petroleumsforekomster mv. (petroleumsskatteloven)

@@ -15,8 +15,9 @@ xml_hash: "d1b0e297d85100aba460be987bb6c4be607c3d2e7811401e302cc21c9cae4dff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Jan Mayen

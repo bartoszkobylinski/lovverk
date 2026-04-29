@@ -15,8 +15,9 @@ xml_hash: "0c71f217ee4c3f7c4ee95fe854e2ee182089c754ad77cd01b425cc3c3cf38eb1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tømmertransport på riks-, fylkes- og kommunale veger (veglister tømmertransport)

@@ -15,8 +15,9 @@ xml_hash: "a780335a6f60582f2e600cb35d78faa967e0fc0547599cf04dcddb2fe05975cb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Mellombels forskrift om handtering av enkelte innsynskrav som blir fremja overfor kommisjonen som skal gå gjennom og trekkje lærdom frå styresmaktene si handtering av covid-19-utbrotet i Noreg (Koronakommisjonen)

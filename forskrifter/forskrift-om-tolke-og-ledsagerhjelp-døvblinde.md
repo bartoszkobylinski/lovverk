@@ -15,8 +15,9 @@ xml_hash: "31e8cbd5eebdc0a210b82e9288cc39100cf00f36446a7137e903548ff827224d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til tolke- og ledsagerhjelp for døvblinde

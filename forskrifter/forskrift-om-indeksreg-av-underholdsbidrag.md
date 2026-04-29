@@ -15,8 +15,9 @@ xml_hash: "786d1f1cfe5c7fa3d0260030f6ea578ac96635b41186886234b9fb930c0e18dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om indeksregulering av underholdsbidrag til barn.

@@ -15,8 +15,9 @@ xml_hash: "7b46dec145f7c4e3a8bc2cb47ab6ecb13967cdf3d36aa0c1275a909b580b9d9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stenging av område i Barentshavet for fiske med torsketrål og snurrevad.

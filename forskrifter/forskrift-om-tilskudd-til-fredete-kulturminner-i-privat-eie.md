@@ -15,8 +15,9 @@ xml_hash: "ffc7113c79b48ad75548301526d734c15278dda517ca49e9444400653418c6ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til fredete kulturminner i privat eie

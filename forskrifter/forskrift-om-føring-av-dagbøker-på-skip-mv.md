@@ -15,8 +15,9 @@ xml_hash: "41c7af19eb163b8030def47e3c1905a6884af093c4c2428e0dd24d0fe4a9c11f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innretning og føring av dagbøker på skip og flyttbare innretninger

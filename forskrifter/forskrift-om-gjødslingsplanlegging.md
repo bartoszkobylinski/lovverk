@@ -15,8 +15,9 @@ xml_hash: "94298c7bc1c029985762b0fd91354b4d313f2de968d160d554b955405c16628b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjødslingsplanlegging

@@ -15,8 +15,9 @@ xml_hash: "6238b4beb61c89320697715a4f524fb9a0df16a59cc8b81a10b5c268b659a7df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)

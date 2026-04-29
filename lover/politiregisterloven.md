@@ -15,8 +15,10 @@ xml_hash: "0c023b4e6de1f22514f38197d756c1d6c87faff53b8258454e7cc91b8bcdd2aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32016L0680"
 ---
 
 # Lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)

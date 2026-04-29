@@ -15,8 +15,9 @@ xml_hash: "28b0c6c30eec11ee0e0ff569f3c1c1274ef0c210312caa9d212ada278a7329f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)

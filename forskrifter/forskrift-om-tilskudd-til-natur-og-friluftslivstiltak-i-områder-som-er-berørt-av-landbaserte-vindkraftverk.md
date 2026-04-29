@@ -15,8 +15,9 @@ xml_hash: "64b70c6a313eeb7221b32de30ca560f957f9fbcbe435a6a5d53ae369886821f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til natur- og friluftslivstiltak i områder som er berørt av landbaserte vindkraftverk

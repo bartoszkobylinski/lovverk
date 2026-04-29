@@ -15,8 +15,9 @@ xml_hash: "994428f394a0225cea0ea44bd15199bc6f60dac72027150f25d40a39fce36fd4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om militær politimyndighet (militærpolitiloven)

@@ -15,8 +15,9 @@ xml_hash: "2c4ca5a7caca664ee343c6952bcbe4a11a11608a0b0f6faef16a882d131a6f4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om skatt på honorar til utenlandske artister mv (artistskatteloven)

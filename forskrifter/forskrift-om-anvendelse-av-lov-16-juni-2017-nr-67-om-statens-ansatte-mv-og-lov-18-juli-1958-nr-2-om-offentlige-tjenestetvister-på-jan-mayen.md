@@ -15,8 +15,9 @@ xml_hash: "83496acb3300c493f500b3715395ea189bcc2ff65983f7f6e028d5e9114dc457"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av lov 16. juni 2017 nr. 67 om statens ansatte mv. (statsansatteloven) og lov 18. juli 1958 nr. 2 om offentlige tjenestetvister på Jan Mayen

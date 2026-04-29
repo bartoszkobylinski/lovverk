@@ -15,8 +15,9 @@ xml_hash: "18d1e95885cc8991000ac3b6c01382e2bbfa614713292c9a23a564511e1a19c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om prioritet i mobilnett

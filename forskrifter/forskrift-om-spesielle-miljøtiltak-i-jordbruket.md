@@ -15,8 +15,9 @@ xml_hash: "6c5a0ff9f64e1cc7aad3b5d8bf78e67a3b240b0eeb9f08f600b6886ea084253b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til spesielle miljøtiltak i jordbruket

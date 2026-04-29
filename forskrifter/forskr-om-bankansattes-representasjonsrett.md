@@ -15,8 +15,9 @@ xml_hash: "8051d66b270c77db6042d331a7bc62f047a8264b5486e53a72169b4724e932c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om de ansattes rett til representasjon i sparebankenes og forretningsbankenes styrende organer.

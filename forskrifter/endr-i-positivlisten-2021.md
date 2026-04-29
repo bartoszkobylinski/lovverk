@@ -17,8 +17,9 @@ xml_hash: "b7d04e45a23488b023dead038156db13d8e126a1c8a8e67e7aedf872fa4ab1fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om offentlig kontroll – positivlisten 2021 – forordning (EU) 2021/630 og forordning (EU) 2021/632 (positivlisten 2021)

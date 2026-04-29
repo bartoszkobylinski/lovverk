@@ -15,8 +15,9 @@ xml_hash: "e0227c1357bb071b6f93a042e184a8fe490da6a53445fb70992c0fa135db7311"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til utfylling og gjennomføring mv. av regnskapsloven av 17. juli 1998 nr. 56

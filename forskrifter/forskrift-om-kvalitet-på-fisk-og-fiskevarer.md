@@ -15,8 +15,9 @@ xml_hash: "25b8c61d09c4e8511645f4acb7d053c8c834b00bcca9b4345bb3302609ebe3c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvalitet på fisk og fiskevarer

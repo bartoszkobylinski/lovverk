@@ -15,8 +15,9 @@ xml_hash: "9c07289038f5b5cc7046135224cf80fdedf4d07d396a95cc18ccce98bd2c36bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold

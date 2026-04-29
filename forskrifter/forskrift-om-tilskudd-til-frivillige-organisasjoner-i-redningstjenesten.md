@@ -15,8 +15,9 @@ xml_hash: "2db61347dbc6f13746883de9da8ff310e9b8cccadbb3bfdb0c8e3c70b1bca32c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til frivillige organisasjoner i redningstjenesten

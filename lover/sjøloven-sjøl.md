@@ -15,8 +15,11 @@ xml_hash: "9a7e389f93e88dd095ced863f4d3abf788254d1bc85ef4a6b6373b8ff8e2a4b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009R0392"
+  - "32010R1177"
 ---
 
 # Lov om sjøfarten (sjøloven)

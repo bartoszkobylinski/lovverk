@@ -15,8 +15,9 @@ xml_hash: "69c76c1be636cfcc78f5d617e6194b5fc407433d48791554282e521b7dee7dd6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for optikerutdanning

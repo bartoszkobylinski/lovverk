@@ -15,8 +15,9 @@ xml_hash: "93752eeaa1bd591690d1904100b4c8cfdd7d4f936065f4212e036f521377f359"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om materiale og dokumentasjon ved undersøkelse etter og utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 (Forskrift om dokumentasjon ved lagring av CO2 på sokkelen)

@@ -15,8 +15,9 @@ xml_hash: "551a8912d8576a7ed2d9ad5c9a35afe44a6421f0376b44320e26832e45b016c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om utlendingers adgang til riket og deres opphold her (elektronisk registering og utstedelse av registreringsbevis)

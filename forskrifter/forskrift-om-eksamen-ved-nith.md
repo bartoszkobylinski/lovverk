@@ -15,8 +15,9 @@ xml_hash: "ba43bc2c06c4738cb1afc6acb304805d9b412b55c05cc4a23d3b30ec4a56091c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om eksamen ved Norges Informasjonsteknologiske Høgskole

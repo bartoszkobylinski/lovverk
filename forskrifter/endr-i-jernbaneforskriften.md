@@ -15,8 +15,9 @@ xml_hash: "9d10ded902c695fb0ab0ca27cb1251bfce273fdd1e5b5f5e11f6b52673eff856"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om jernbanevirksomhet, serviceanlegg, avgifter og fordeling av infrastrukturkapasitet mv. (jernbaneforskriften)

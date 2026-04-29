@@ -15,8 +15,9 @@ xml_hash: "0844994109f8ce652a8e219c5aeba4519dcb3b43d15e99823424362d56e3fed7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gravferdsstønad og stønad til båretransport for person som er pliktig medlem etter § 2-5 i lov om folketrygd og som dør utenfor Norge og om stønad til båretransport når et medlem dør i et av de nordiske land.

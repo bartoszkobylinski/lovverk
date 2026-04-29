@@ -15,8 +15,10 @@ xml_hash: "5a6cf64dfebea7f277637565b8988e20c6400e86be35826ebe87f23f1b3c13bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32010L0013"
 ---
 
 # Lov om beskyttelse av mindreårige mot skadelige bildeprogram mv.

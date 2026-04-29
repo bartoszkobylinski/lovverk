@@ -15,8 +15,9 @@ xml_hash: "5209c69a288ba86175a3a0139ae35c0ddf04982af36e7d47d2d5503f30587dcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om fredning og fangst av isbjørn [isbjørnloven]

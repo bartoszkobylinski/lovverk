@@ -15,8 +15,9 @@ xml_hash: "7b4e9fef88d3d90efcc81f9d55ce3624b3b57c09477a801bb32c8e3ca63029d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata

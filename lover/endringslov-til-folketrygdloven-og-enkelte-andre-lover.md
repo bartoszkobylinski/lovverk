@@ -15,8 +15,9 @@ xml_hash: "080ce7a65ed9ccc3a4a278de3e07f012c0cf85209f9f6c50d412df900f3188bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i folketrygdloven og enkelte andre lover

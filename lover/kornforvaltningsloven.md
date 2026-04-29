@@ -15,8 +15,9 @@ xml_hash: "e476c81b0bbabbc3f7e6896d63f1b60a2a2c46829a75a3ef6a7bed4d1da17542"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kornforvaltning m.v.

@@ -15,8 +15,9 @@ xml_hash: "0cbf6594d2e01147a520260e0a192757df231c5d9c2f31e83342e5fc73b03cc7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilbakebetaling av utdanningslån 2021

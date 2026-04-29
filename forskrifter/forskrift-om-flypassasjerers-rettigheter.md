@@ -15,8 +15,9 @@ xml_hash: "72c3aa9297b8ef13e6ab5dd2f22d2aa75538e71428123400607411ebace1c92d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om flypassasjerers rettigheter ved nektet ombordstigning og innstilt eller vesentlig forsinket flyging

@@ -15,8 +15,9 @@ xml_hash: "36c4489f1aae40bd9c491ff2c25d62962a2293767f9478701afd7af4dbb52bd0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om konsesjon for landingsplasser (BSL E 1-1).

@@ -15,8 +15,9 @@ xml_hash: "63729275a70f4718d4b1acc99fa6ec1f3af13bff17c900a47883edc9abef8ddd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak til mesterutdanningen

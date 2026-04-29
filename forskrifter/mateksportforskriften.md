@@ -17,8 +17,9 @@ xml_hash: "2e575af3b64b30b63de3a3e966d6e2f0010603463a439122b31688917799337d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om eksport av næringsmidler, animaliebiprodukter, fôrvarer, levende dyr og avlsprodukter til land utenfor EØS (mateksportforskriften)

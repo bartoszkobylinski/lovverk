@@ -15,8 +15,9 @@ xml_hash: "d9bcae2d407d83859593d4f810b7c410ffff8a9c94bdb2e1f4915e7051f9e3a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering og melding av vigsel

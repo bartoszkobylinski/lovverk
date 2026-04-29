@@ -15,8 +15,9 @@ xml_hash: "3096f286806c9626bd930b8fbef4dba5876b56333c6a99f490fb507fe548f051"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift for regulering av naturinngrep på Svalbard og Jan Mayen.

@@ -15,8 +15,9 @@ xml_hash: "1720dc371e32418a03d0cffa9ece8dec793a04185a3b2629e59fb1abbf944750"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift som utfyller dyrehelseforskriften med bestemmelser om krav til biosikkerhet ved godkjenning av akvakulturanlegg og forflytninger av akvatiske dyr mv. (akvabiosikkerhetsforskriften)

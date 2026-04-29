@@ -15,8 +15,9 @@ xml_hash: "1b4f95d5a0b18726f48ea51d288bf388375b468f4934bc90be8a03ad170f40b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fruktjuice og lignende produkter (juiceforskriften)

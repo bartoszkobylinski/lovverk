@@ -15,8 +15,9 @@ xml_hash: "d3565914cfe55dabba382aee44a3f3ec46e7f1cd94bd130d2d76c910122e5122"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om prøvetaking og analyse for offentlig kontroll av visse forurensende stoffer i næringsmidler

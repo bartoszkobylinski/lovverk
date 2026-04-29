@@ -15,8 +15,9 @@ xml_hash: "060d77a0d6d13ff228a88a28cf6c84e05e8e0da02e581dabed221355ac956959"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for interkommunale selskaper (budsjett- og regnskapsforskriften for IKS)

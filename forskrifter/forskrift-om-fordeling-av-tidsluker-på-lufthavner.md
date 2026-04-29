@@ -15,8 +15,9 @@ xml_hash: "35b70567913f62ae354f1bb752a95ae11776aff39ae402aa0cb68913678cd19f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fordeling av tidsluker (slots) på lufthavner

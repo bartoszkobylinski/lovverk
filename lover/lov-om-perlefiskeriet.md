@@ -15,8 +15,9 @@ xml_hash: "887c8db821ce3801b9b9a7bc073fe7442bfece9b29eb8bf7cdb922c90378d9b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Perlefiskeriet

@@ -15,8 +15,9 @@ xml_hash: "83ccdd4be3434f1a06ef36580d9115e2eb20da4b71969db93d5ba3fe333b16c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser til lov om endringer i forbrukerkjøpsloven (lovregulering av strømavtaler).

@@ -15,8 +15,9 @@ xml_hash: "948f50845193a2826d53e729da433586dd0dbfc77f8082b20364dc53fd1615da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ansvar for spesialpedagogisk hjelp for barn under opplæringspliktig alder

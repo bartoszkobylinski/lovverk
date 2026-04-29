@@ -15,8 +15,9 @@ xml_hash: "36dd06f86bcb77aad2309016a715a1740be05735330710bf07eb24b4452b0bcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift til lov om petroleumsvirksomhet.

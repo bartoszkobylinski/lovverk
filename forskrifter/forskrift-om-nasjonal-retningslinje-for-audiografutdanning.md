@@ -15,8 +15,9 @@ xml_hash: "f960505f1287bd942c39a5780785ebcdc87a8c6cd91481430146d11ba1e55bbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for audiografutdanning

@@ -15,8 +15,9 @@ xml_hash: "0eb4199c5c376e7546802bf2658b714293f44b8d928ac63ec4fce0a883bf317a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig kompensasjonsordning for frivillighets- og idrettssektoren som følge av covid-19-utbruddet

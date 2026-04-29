@@ -15,8 +15,9 @@ xml_hash: "67288c748dc14c91bad2299f3e5d3ac00843bca6ecd88ddc45fad2a73d760744"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om landslott [landslottloven]

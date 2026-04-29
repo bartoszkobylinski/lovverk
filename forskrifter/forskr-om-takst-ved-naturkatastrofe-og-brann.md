@@ -15,8 +15,9 @@ xml_hash: "1bb27af7e956d5ca5e5a9285f09f84aff45882724f8105470148a4c2c053fada"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilt takst på ikke forsikret bygg eller anlegg som blir skadet ved brann eller naturkatastrofe.

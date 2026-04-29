@@ -15,8 +15,9 @@ xml_hash: "448c33cf7b33ed12a4438e85a444b1863de039306ffd23ff88ac77be53b5afc9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om vassdrag og grunnvann (vannressursloven)

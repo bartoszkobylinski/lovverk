@@ -15,8 +15,9 @@ xml_hash: "f21a9d10e796910a69c6830d3422780359961f93a0692fe239234f7e9f0264b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kirkeordning for Den norske kirke

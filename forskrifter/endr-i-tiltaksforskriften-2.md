@@ -15,8 +15,9 @@ xml_hash: "c335a82defbac07756204653bcad3b3149b7bd0a0d7cf13cf0beaf54ee4172c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om arbeidsmarkedstiltak (tiltaksforskriften)

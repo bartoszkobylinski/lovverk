@@ -15,8 +15,9 @@ xml_hash: "52ad966d1eebf31fd3946be1e70171e7bd44c45b590d3f6b695db17e7701bb79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om flytting av det sentrale ektepaktregister fra Oslo byskriverembete, gamle byområde, til landsregisteret for rettigheter i løsøre (løsøreregisteret) ved Brønnøy sorenskriverembete.

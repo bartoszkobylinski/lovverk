@@ -15,8 +15,9 @@ xml_hash: "6d413f5d33a0c8fc03f3a815d0f9f6aa4dd75538732b4c5f7b0f2c222fbb2ad7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av rekefisket i Svalbards territorialfarvann og indre farvann.

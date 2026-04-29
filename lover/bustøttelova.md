@@ -15,8 +15,9 @@ xml_hash: "d0596f2f3fc5db930ce9a5ee1482231f53c2d3beb2ead8900591b1737bef87dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om bustøtte og kommunale bustadtilskot (bustøttelova)

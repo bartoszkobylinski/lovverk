@@ -15,8 +15,9 @@ xml_hash: "46efe8700e6e3db3b75e653f966956785296529268e2caca96e3bca4d8f9d9e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om restriktive tiltak mot personer som anses ansvarlige for underslag av offentlige midler, samt personer som anses å ha deltatt i menneskerettighetsbrudd i Ukraina

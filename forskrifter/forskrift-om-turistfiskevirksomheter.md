@@ -15,8 +15,9 @@ xml_hash: "c58101ad3ff6c52e0e98c5785e5658bcc74d8feeec48adc64365b6590139d896"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om turistfiskevirksomheter

@@ -15,8 +15,9 @@ xml_hash: "00803033df97abc1c0d4429bab3aad3c7f0083350982ac6e7f9623add4f43d57"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EU) nr. 1025/2012 av 25. oktober 2012 om europeisk standardisering

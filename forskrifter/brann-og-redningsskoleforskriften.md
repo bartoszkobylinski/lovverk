@@ -15,8 +15,9 @@ xml_hash: "98442b4535d6716166e30e7127eb33afd552835b8e35c1f9ed7edcf41b519bd6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak, studier og eksamen ved fagskolestudiet Brann, redning og samfunnssikkerhet ved Brann- og redningsskolen (brann- og redningsskoleforskriften)

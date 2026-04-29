@@ -15,8 +15,13 @@ xml_hash: "5b239e9c00899964328625b63e816be3622029a8e0b8f46cf3c3fb352ebee1fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32017L0828"
+  - "32018R1212"
+  - "22020D0235"
+  - "22020D0236"
 ---
 
 # Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)

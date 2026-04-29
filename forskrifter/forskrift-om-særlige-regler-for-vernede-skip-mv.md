@@ -15,8 +15,9 @@ xml_hash: "27f955e2a14fef6a772fe7caaad386a1ad304244c75a8889a656d37349b3471e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særlige regler for skip som er vernet eller fredet og fører flere enn 12 passasjerer

@@ -15,8 +15,9 @@ xml_hash: "696ee6f209c1dd99b0a6f2389f3cf9e4ede83ba0e33ba8c663fd9133cdd1e68c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om årsregnskap og årsberetning for borettslag

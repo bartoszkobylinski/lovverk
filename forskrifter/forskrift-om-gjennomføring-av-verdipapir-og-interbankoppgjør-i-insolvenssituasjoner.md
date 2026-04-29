@@ -15,8 +15,9 @@ xml_hash: "acb1cd54d0822d79458ccae93c3fcea9bf63b89068ff021a8764fed41660c179"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av verdipapir- og interbankoppgjør i insolvenssituasjoner

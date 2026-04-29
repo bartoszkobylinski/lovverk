@@ -17,8 +17,9 @@ xml_hash: "3e018d26f9871434a18cda701262c763c6d912250ed2ab1cc01b7ac918752ff6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilte beskyttelsestiltak rettet mot import av muslinger fra Tyrkia

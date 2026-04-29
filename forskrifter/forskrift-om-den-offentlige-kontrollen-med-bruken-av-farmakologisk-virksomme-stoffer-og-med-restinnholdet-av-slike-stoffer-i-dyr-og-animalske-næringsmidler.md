@@ -17,8 +17,9 @@ xml_hash: "1d443605d476fb8c914586ab3434b64fc7efd6d79f89cadde2a03db456eaca77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om den offentlige kontrollen med bruken av farmakologisk virksomme stoffer og med restinnholdet av slike stoffer i dyr og animalske næringsmidler

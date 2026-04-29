@@ -15,8 +15,9 @@ xml_hash: "65d7bc5c6c8f6a9d7de5255c1abffd8ea42ed40445ed0dc022e507b5384ab558"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap

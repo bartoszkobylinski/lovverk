@@ -15,8 +15,9 @@ xml_hash: "79bd1f091f2d9fcaf8270d3dc154f5ec12c94ba6d0665b6c232de6a728e84779"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler mv. til lov 25. juni 2010 nr. 33 om endringer i regnskapsloven og enkelte andre lover

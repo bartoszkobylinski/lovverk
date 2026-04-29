@@ -15,8 +15,9 @@ xml_hash: "b9a4d26b6d8f9392595d853e33564817cab3c089826c7ccbe0b1d555add84e41"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om egenandelstak

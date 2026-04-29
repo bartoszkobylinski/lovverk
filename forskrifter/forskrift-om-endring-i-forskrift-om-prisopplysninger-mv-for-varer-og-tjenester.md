@@ -15,8 +15,9 @@ xml_hash: "23ec1dd629baf14b8108dbb9f0228efae447fbe40f3ff176a5b257b7157fafed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om prisopplysninger mv. for varer og tjenester

@@ -15,8 +15,9 @@ xml_hash: "ecdefa7d791315412582603f2b9fed4036e46e760f4240bc9ce8e2a0787e59a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Gebyr- og fakturasatser for Longyearbyen lokalstyre 2026

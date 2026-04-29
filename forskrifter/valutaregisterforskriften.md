@@ -15,8 +15,9 @@ xml_hash: "35c25fd4e8887e3809b0744e57f737229e8cd1093e4aca4ebb52db661e6d0c77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterforskriften)

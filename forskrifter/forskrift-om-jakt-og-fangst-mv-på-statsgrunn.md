@@ -16,8 +16,9 @@ xml_hash: "f3d54159615c7a0c99b317a9407de069546ae2872d374b39b206f52050d1de4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om jakt, felling, fangst og fiske på statsgrunn utenfor statsallmenning

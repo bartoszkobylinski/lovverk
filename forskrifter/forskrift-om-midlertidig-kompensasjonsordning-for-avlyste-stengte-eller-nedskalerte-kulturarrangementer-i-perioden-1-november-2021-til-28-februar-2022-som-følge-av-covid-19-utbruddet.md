@@ -15,8 +15,9 @@ xml_hash: "9095a860c9667bc2588f4a4dd4e057dc1a83981c5c905479de1b46923eefa1ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig kompensasjonsordning for avlyste, stengte eller nedskalerte kulturarrangementer i perioden 1. november 2021 til 28. februar 2022 som følge av covid-19-utbruddet

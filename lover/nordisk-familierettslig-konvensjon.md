@@ -15,8 +15,9 @@ xml_hash: "70485345772523c9b55603c7ed135e3de335b5e4914398c3498de975e4e274f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Konvensjon mellem Norge, Danmark, Finnland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål med sluttprotokoll [nordisk familierettslig konvensjon]

@@ -15,8 +15,9 @@ xml_hash: "e126a3f475bdfdf9309d94edc89a6129f79969efe99499e9e07286cd47bd1d8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om iverksettelse av forbud mot lysfiske i Skagerrak uten observatør om bord

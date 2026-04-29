@@ -15,8 +15,9 @@ xml_hash: "8857448166144e606ade1b4e2a25a4946a27cb4681cbc4ee87bd93c2805a0cdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om at midlertidig forskrift 19. desember 2003 nr. 1595 om sikkerhet og arbeidsmiljø for enkelte petroleumsanlegg på land og tilknyttede rørledningssystemer skal gjelde for de planlagte gasskraftverkene i Hammerfest, Skogn og Grenland.

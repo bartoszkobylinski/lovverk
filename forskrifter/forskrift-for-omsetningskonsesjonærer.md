@@ -15,8 +15,9 @@ xml_hash: "475791ce5821ab4ebb8c95ec6e3a86238163075d66d167b6a30092008420c2c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tariffer og rapporteringsplikt for omsetningskonsesjonærer (forskrift for omsetningskonsesjonærer)

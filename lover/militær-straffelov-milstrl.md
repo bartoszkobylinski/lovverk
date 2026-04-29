@@ -15,8 +15,9 @@ xml_hash: "be5d8070c0b3d452af66502838a7a123c529c152497eb7e2b45b398d77f56ca6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Militær Straffelov

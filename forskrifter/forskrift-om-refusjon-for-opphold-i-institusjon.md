@@ -15,8 +15,9 @@ xml_hash: "94087eab4e67ae3f1a3e4beab115d75b2d03a963bb2128f5a084ab234ccb1254"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Barne-, ungdoms- og familieetatens rett til å kreve egenbetaling fra kommunen for opphold på institusjon

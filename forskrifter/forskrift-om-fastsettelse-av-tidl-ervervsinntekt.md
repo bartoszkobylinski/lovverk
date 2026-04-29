@@ -15,8 +15,9 @@ xml_hash: "450c5a69765f070859bdccb0e121341c1786b6abe41ade4dc1d690d2fc6e10fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse av tidligere ervervsinntekt som nevnt i § 7-10 nr. 1 i lov om folketrygd av 17. juni 1966.

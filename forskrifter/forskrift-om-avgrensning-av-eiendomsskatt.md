@@ -15,8 +15,9 @@ xml_hash: "10f92b5e337eec5b757de8166e5e86869fc08195a74db3116a7cde9c04072c0c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avgrensning av eiendomsskatt på statlige eiendommer

@@ -15,8 +15,9 @@ xml_hash: "76ed23e0bcbfdfe35cc289aa7cd7d84c0525974d6ea665077adcb70796de17c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)

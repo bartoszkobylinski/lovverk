@@ -15,8 +15,9 @@ xml_hash: "f314589573fc17cb9b03386705f006b0aa59d0f7525c373f1c9102d6a7d34ae8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om infisert sone for høypatogen aviær influensa og Newcastlesyke

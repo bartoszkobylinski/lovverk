@@ -15,8 +15,9 @@ xml_hash: "9719470142d3439f2cee0044e115fece215f80a21efcea8101a3436ab8200983"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om medisinske krav for seilflygere, mikroflygere, førere av friballong og kabinbesetningsmedlemmer (BSL C 1-3)

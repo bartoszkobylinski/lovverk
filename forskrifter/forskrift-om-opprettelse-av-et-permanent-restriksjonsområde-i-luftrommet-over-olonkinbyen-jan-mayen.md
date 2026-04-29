@@ -15,8 +15,9 @@ xml_hash: "5c36bbcf99e241711470ce138b909f036f105cd8b426a31f85a4560edec7dbab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opprettelse av et permanent restriksjonsområde i luftrommet over Olonkinbyen, Jan Mayen

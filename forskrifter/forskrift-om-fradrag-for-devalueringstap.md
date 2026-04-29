@@ -15,8 +15,9 @@ xml_hash: "deba4040654e939326a5a20ea230d0b915a3f3f1e4f3d3eab6eb8a7a0b89133f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av lov av 16. juni 1972 om fradrag ved inntektsligningen til dekning av devalueringstap på fraktkontrakter.

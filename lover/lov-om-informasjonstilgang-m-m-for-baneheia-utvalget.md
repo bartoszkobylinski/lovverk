@@ -15,8 +15,9 @@ xml_hash: "7e8df5b39a0fbb148f4b46e4d4413649d5e91797d0394f5fa9bb8935ccb06a83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for det uavhengige utvalget som skal granske straffesaken mot Viggo Kristiansen i Baneheia-saken og foreta en gjennomgang av Kommisjonen for gjenopptakelse av straffesaker (Baneheia-utvalget)

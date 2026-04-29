@@ -15,8 +15,9 @@ xml_hash: "4db81483e28c63bc85487ae9e9d843d39cb06ba6a45beb5ca24876f15222e8d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til dekning av skolepenger til elever ved utenlandske eller internasjonale videregående skoler.

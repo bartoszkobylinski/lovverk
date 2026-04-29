@@ -15,8 +15,9 @@ xml_hash: "a22d2046cc2f2878cd8280541b38b632b9b56d06d3c2880c24c9cf3250ca0147"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avgifter til folketrygden for året 2026 for misjonærer mv. som er medlem i folketrygden i medhold av folketrygdloven § 2-8

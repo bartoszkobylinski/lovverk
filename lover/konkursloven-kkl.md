@@ -15,8 +15,9 @@ xml_hash: "fafc8a3e146b7a9f6411dce8d8f0b1bfda8a464711d3c7f64a5d0abd33ccd3af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om gjeldsforhandling og konkurs (konkursloven)

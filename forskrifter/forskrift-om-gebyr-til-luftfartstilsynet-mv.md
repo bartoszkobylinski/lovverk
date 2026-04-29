@@ -15,8 +15,9 @@ xml_hash: "6c992db0fa24959c62e663552926476d7406b8da2c5f9f917e810f9b4cf7b320"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr til Luftfartstilsynet mv.

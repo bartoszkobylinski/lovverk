@@ -15,8 +15,9 @@ xml_hash: "cf668c1a813d44269d64a17ada877c851dcf74690186213d9e1a9731d16a5924"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om omsetning og midlertidig hold av dyr

@@ -15,8 +15,11 @@ xml_hash: "6d1307d405ee01a4a4fcabe49bcddc016a295e8f6eb843257c667a7dd5a19890"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32005L0036"
+  - "32013L0055"
 ---
 
 # Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)

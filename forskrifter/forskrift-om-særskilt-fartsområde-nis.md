@@ -15,8 +15,9 @@ xml_hash: "0fca97a441923d62d116120ad8a9970d6c2efe0d5a057d400f0e72fcb10bae8e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilt fartsområde for fartøyer og flyttbare innretninger i petroleumsvirksomhet registrert i norsk internasjonalt skipsregister

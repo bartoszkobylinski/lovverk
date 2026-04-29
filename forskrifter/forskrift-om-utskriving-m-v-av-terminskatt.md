@@ -15,8 +15,9 @@ xml_hash: "283e83081d95c4c2b0b4e08eb48c751a86580f9cfe307dbd7822ee35f9515a56"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utskriving, betaling og avregning av terminskatt m.v.

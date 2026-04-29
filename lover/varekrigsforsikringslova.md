@@ -15,8 +15,9 @@ xml_hash: "f8e9ad123a2a248cad2a15124ab02af0117fbee490b504a788a1df21abf3069c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om statleg varekrigsforsikring

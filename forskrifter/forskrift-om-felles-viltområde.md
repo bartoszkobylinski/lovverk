@@ -15,8 +15,9 @@ xml_hash: "954c7be90a1de4dce09e0ede69059604da16a1171afc80109b7675d77f6d88e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføringen av bestemmelsene om sammenslåing av eiendommer til felles viltområde i viltlovens § 37

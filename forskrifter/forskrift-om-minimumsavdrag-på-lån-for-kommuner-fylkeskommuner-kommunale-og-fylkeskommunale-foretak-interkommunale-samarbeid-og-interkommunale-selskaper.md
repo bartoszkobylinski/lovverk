@@ -15,8 +15,9 @@ xml_hash: "41d3ed5dc51372b6347e545abea505aa6868c66dc7063544163d60b29406c839"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om minimumsavdrag på lån for kommuner, fylkeskommuner, kommunale og fylkeskommunale foretak, interkommunale samarbeid og interkommunale selskaper

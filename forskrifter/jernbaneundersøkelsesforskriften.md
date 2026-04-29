@@ -15,8 +15,9 @@ xml_hash: "2aa18e4cfd926253cda2010cd8b088fa5404ad9bbdf3de7670faa5dd9206a21f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlige undersøkelser av jernbaneulykker og alvorlige jernbanehendelser m.m. (jernbaneundersøkelsesforskriften).

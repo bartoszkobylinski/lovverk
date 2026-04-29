@@ -15,8 +15,9 @@ xml_hash: "8faaf1a5dd420265c105e2884830b96b616c4900f8104dfbe22fcca439575d72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om anvendelse av lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold for Svalbard

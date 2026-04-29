@@ -15,8 +15,9 @@ xml_hash: "fd64ef348ac978e29794464c5b26e5a14c97ac79c4717a136dc7dab55c6a84a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om det generelle samordningssystemet (samordningsforskrift 1)

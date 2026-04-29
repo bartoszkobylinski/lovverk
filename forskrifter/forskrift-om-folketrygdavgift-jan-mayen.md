@@ -15,8 +15,9 @@ xml_hash: "d593d40e5f4abd1884317c9052ab9dd30bdd614d9f30c65efc022f8c69068938"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsettelse og innkreving av avgifter til folketrygden for personer som har lønn som er skattepliktig etter lov om skattlegging av personer på Jan Mayen.

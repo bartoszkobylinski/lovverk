@@ -15,8 +15,18 @@ xml_hash: "7e4b3ecaddbac791c849c1a4b6b6b9634039033ac25c72ed8659c347142827e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32010L0031"
+  - "32009R0714"
+  - "32009L0072"
+  - "32009R0713"
+  - "32013R0543"
+  - "32015R1222"
+  - "32016R1719"
+  - "32017R1485"
+  - "32017R2195"
 ---
 
 # Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)

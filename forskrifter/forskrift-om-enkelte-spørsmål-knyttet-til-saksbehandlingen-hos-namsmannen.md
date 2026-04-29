@@ -15,8 +15,9 @@ xml_hash: "cd26db07fa75b58f103f126c2fa685ec92bdf1c0975ccab2b8fed3d66d7be088"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om enkelte spørsmål knyttet til saksbehandlingen hos namsmannen

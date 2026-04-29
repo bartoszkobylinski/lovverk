@@ -15,8 +15,9 @@ xml_hash: "4bdaa6db23671195c5412110d388b2cfcc3590efa32095f2cb4861ceb00454b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kompetansekrav for bruk av særlige undersøkelses- og behandlingsmetoder.

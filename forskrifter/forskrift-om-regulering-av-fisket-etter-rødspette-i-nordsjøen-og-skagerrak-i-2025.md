@@ -15,8 +15,9 @@ xml_hash: "cdc37a6b519f7e5393e39d181d6c481e9f4a0134b8c6f6d233877504dd30ed7e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter rødspette i Nordsjøen og Skagerrak i 2025

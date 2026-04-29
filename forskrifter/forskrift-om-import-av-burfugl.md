@@ -15,8 +15,9 @@ xml_hash: "9c59ec2eb23e6250787ce05edcebf1409986b67b3dfe2365144d117e892603f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særskilte beskyttelsestiltak i forbindelse med aviær influensa ved import av burfugl i privat eie fra visse tredjeland

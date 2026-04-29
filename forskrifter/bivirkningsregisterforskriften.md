@@ -15,8 +15,9 @@ xml_hash: "3af33d50446c2921fbc22b699f22ff769cd518fddcbf3383a76b026395027e75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om system for rapportering av bivirkninger av legemidler (bivirkningsregisterforskriften)

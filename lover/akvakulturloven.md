@@ -15,8 +15,9 @@ xml_hash: "35c74be3e62f17bb8407d6bc7cc423ff969d315ddb3c59ff221a3ba0ebef6a75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om akvakultur (akvakulturloven)

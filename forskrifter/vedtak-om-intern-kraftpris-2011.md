@@ -15,8 +15,9 @@ xml_hash: "dfe97307062140fcf08beea79a7f847085262a3f8a2192aeb3a30da088dd3dde"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om pris på kraft ved interne leveranser etter skatteloven § 18-3 andre ledd bokstav a nr. 3 for inntektsåret 2011

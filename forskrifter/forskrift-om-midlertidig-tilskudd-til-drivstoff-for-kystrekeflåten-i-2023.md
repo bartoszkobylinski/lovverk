@@ -15,8 +15,9 @@ xml_hash: "7f22325333425ead824da7b8a90a7af48ad2b23410c0688cdf69685d0b447419"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig tilskudd til drivstoff for kystrekeflåten i 2023

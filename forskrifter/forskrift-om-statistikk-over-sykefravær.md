@@ -15,8 +15,9 @@ xml_hash: "16e6a58ad1c173ab415a26403870bee19462ca9885f77e3229143fa129ca1aab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom.

@@ -15,8 +15,9 @@ xml_hash: "b503c474aeae5e4c591ed72b7db8a0e590cebacb29c2728662d34b002218bb30"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registrering av luftfartøy m.m.

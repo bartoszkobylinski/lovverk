@@ -15,8 +15,9 @@ xml_hash: "4cce01183af246784a12b7761075897d8377a64764de43be13e4ecabd3a2ee87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særavgifter

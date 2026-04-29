@@ -15,8 +15,9 @@ xml_hash: "07c03ca641c93718c0aa255e875624249a274bde2eca320585bd7eaa9ad72e1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om fritids- og småbåter (småbåtloven)

@@ -15,8 +15,9 @@ xml_hash: "00ca71251fe55957ca9242e369c53553b413d1fce97c0d55c3631e826600462d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sammenlignende reklame

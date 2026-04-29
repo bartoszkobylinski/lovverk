@@ -15,8 +15,9 @@ xml_hash: "76bac0e23f8f0d4257d44f2a58b10cb3c4436474e6787184dc51cdda2a488a88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i lov om dyrevelferd (fremstilling og fremvisning m.m. av seksuelle overgrep mot dyr)

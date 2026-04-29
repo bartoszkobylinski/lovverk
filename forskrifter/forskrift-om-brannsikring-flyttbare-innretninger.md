@@ -15,8 +15,9 @@ xml_hash: "111879c9ea43d51e08819515a3039fe606c06e7ff817d47599358e52dcd9cceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikringstiltak mot brann og eksplosjon på flyttbare innretninger

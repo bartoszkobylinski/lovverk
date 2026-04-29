@@ -15,8 +15,9 @@ xml_hash: "be27438e4d4bc1b3b63dbd4da8e3b67127bb7a7e11bb8b9623cffdb445486c90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om utlendingers adgang til Jan Mayen

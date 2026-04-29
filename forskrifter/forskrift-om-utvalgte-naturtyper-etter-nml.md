@@ -15,8 +15,9 @@ xml_hash: "58dc4e14598ee114327b3f6e7c43fa5478c567d4bf3d1a8c46fc7bab90f943fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utvalgte naturtyper etter naturmangfoldloven

@@ -15,8 +15,9 @@ xml_hash: "a6e9465c97fc23ec3646bd39158fa29d0fe5bc17b25af3f1be64a1e7179b02b5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven kapittel 4 fra 1. januar 2023

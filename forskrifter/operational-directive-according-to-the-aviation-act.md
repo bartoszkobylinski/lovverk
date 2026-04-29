@@ -15,8 +15,9 @@ xml_hash: "5aa9ea793931712df583ac68e10183921047c1eb49acbe26475d84e1e31c3407"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Operational directive – operation to and from airfields north of 65° latitude – Compass system limitations due to magnetic inclination/dip

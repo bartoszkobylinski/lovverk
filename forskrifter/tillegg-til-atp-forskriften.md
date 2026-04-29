@@ -15,8 +15,9 @@ xml_hash: "c1a282b7212c13f79c959f069346dfef7ae0840131d5bed2fca36068a63c3df8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Tillegg til forskrifter om internasjonal transport av lett bedervelige næringsmidler

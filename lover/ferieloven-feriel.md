@@ -15,8 +15,9 @@ xml_hash: "f673220e9458427de5187d5f55844a1a5773f3fe86670373dcf6af69fce7c2fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om ferie [ferieloven]

@@ -15,8 +15,15 @@ xml_hash: "fbd198b87d580aef8c73f01c17fa7f230f3d6b385cf30c6c32adaf0f167267f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019R0817"
+  - "32019R0818"
+  - "32021R1133"
+  - "32021R1134"
+  - "32021R1150"
+  - "32021R1151"
 ---
 
 # Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)

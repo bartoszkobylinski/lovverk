@@ -15,8 +15,9 @@ xml_hash: "26b6065b14e4c6236df6dc8e1b51acd88d114d6e94b5db49d19aee0bba95d275"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov om finansieringsvirksomhet.

@@ -15,8 +15,9 @@ xml_hash: "742a5723a420166aff424afad256f5a4643e9d547bb22a22eb65d83d68c435b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av De Forente Nasjoners Sikkerhetsråds resolusjoner om sanksjoner mot Irak

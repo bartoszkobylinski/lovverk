@@ -15,8 +15,9 @@ xml_hash: "e5c4feae5b10ddb39d48c43c59b150d2208a096b78e62850a5c6f561dc2cb77d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om transport av gods i luftfartøy (BSL D 1-7).

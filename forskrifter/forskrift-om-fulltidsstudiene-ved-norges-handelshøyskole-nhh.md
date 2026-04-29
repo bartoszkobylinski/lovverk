@@ -15,8 +15,9 @@ xml_hash: "8338615945a49961f95ebc69a7e0d6f86f438a319b660a9fc608940d13ad02e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fulltidsstudiene ved Norges Handelshøyskole, NHH

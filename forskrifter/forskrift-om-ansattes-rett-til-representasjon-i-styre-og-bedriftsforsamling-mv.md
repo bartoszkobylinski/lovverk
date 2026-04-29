@@ -15,8 +15,9 @@ xml_hash: "bf27a6a24167ad8d5a0f3c5957fd663830c4b0bad54dce4f3567471cc47d73fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til statsforetakslovens regler om de ansattes rett til representasjon i styre og bedriftsforsamling mv.

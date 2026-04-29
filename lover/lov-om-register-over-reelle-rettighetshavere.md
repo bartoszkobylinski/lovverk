@@ -15,8 +15,11 @@ xml_hash: "086914490df4798b02672b8e12c6fe46253f3efad5f599841318358677c50799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32015L0849"
+  - "32018L0843"
 ---
 
 # Lov om register over reelle rettighetshavere

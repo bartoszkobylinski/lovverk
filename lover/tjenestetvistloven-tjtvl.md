@@ -15,8 +15,9 @@ xml_hash: "80a0f7331628759e92816375033993be58f22e761ef0e0f92cde69589c6206f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om offentlige tjenestetvister [tjenestetvistloven]

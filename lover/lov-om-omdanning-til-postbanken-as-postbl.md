@@ -15,8 +15,9 @@ xml_hash: "f4f73e51ae93c71ca7f6feb39a43eaf4b75056b460fd3c5b6c16cda5349b8747"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om omdanning av Postbanken BA til aksjeselskap

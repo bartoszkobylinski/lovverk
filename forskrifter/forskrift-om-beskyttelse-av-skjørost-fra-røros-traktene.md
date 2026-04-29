@@ -15,8 +15,9 @@ xml_hash: "467464aeac68834d6e1c227b0377181f855e2f3c2e00397a5cf8fe1d9e4690a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av Skjørost fra Røros-traktene som geografisk betegnelse

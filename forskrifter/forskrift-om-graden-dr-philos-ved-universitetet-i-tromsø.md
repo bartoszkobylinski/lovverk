@@ -15,8 +15,9 @@ xml_hash: "ea88a70e91efb8f4f724e19785b3e5f735bc3a427eaeea00b5305c328c9a25c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om graden doctor philosophiae (dr.philos.) ved Universitetet i Tromsø – Noregs arktiske universitet (UiT)

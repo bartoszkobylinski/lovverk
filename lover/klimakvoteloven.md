@@ -15,8 +15,12 @@ xml_hash: "35b21a47e8f6cb273389c8c19060731c42ee3e86d63bf6512c12b97f0ff95245"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32003L0087"
+  - "32023L0959"
+  - "32015R0757"
 ---
 
 # Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven)

@@ -15,8 +15,9 @@ xml_hash: "c23605b6cabab9d6bcf52670ba619251d71a780960f9a14cf3d841ff556cf598"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonale tekniske krav m.m. for jernbaneinfrastruktur på det nasjonale jernbanenettet (jernbaneinfrastrukturforskriften)

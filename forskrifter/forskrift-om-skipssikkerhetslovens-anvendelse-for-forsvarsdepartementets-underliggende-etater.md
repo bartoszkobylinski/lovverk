@@ -15,8 +15,9 @@ xml_hash: "bcab961d09fe1e4ff13a8eafa9af03b1dfac6a542f8391e8a2e3434c94bbe644"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skipssikkerhetslovens anvendelse for Forsvarsdepartementets underliggende etater

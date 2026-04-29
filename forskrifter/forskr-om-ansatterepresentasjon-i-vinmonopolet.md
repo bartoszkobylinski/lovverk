@@ -15,8 +15,9 @@ xml_hash: "c3122b6f858e66a8bb1e2380f028ac3ea5ca705c2bb13f34aaa1aa73301a7a8b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ansattes rett til representasjon i AS Vinmonopolets styre og bedriftsforsamling.

@@ -15,8 +15,9 @@ xml_hash: "26519362b7aac778b0276a6117ceaccb9d6fdf3367e889e7cd6a46661fc6c9e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om jord (jordlova)

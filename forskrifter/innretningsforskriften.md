@@ -17,8 +17,9 @@ xml_hash: "8f9964749ce74726a39ab6e44c5e746b085861e4abbb64b0f9ec1486ac27ef71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utforming og utrustning av innretninger med mer i petroleumsvirksomheten (innretningsforskriften)

@@ -15,8 +15,12 @@ xml_hash: "af75de747620bbe6f14a1e96311cb33b631f43b7bd33644f46e0c06a6134d97c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32018R1860"
+  - "32018R1861"
+  - "32018R1862"
 ---
 
 # Lov om Schengen informasjonssystem (SIS) [SIS-loven]

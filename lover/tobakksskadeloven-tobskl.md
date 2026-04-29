@@ -15,8 +15,13 @@ xml_hash: "aca8ac8dc5a86b08152c15691641597043e2653b4f0b9e283e8a2e04ba437b74"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014L0040"
+  - "32003L0033"
+  - "32010L0013"
+  - "32017R2394"
 ---
 
 # Lov om vern mot tobakksskader (tobakksskadeloven)

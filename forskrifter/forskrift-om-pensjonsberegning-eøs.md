@@ -15,8 +15,9 @@ xml_hash: "3f99b39aed0744d18a4a9a63a9f405a914aa8c54e9f575d54434b9a6fa1f604e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen.

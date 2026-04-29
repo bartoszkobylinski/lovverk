@@ -16,8 +16,9 @@ xml_hash: "76bf9665b9cd5a486be4ee7092b5ddc00a54b140ac3a7261b8b79ac53ed58f9c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om medisinfôr (medisinfôrforskriften)

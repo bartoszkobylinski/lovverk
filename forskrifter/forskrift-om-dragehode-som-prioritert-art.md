@@ -15,8 +15,9 @@ xml_hash: "e62a69a9179fcee7b1faed48f3c5f9a1acb76483ac5d336c2afd05695b2959a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om dragehode (Dracocephalum ruyschiana) som prioritert art

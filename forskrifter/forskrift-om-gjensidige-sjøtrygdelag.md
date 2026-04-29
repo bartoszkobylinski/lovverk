@@ -15,8 +15,9 @@ xml_hash: "aba2313f3f41e3c645afd68487f7e1faf5adf0e0511abeefbbc011c4a30b4f88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om stiftelse og organisasjon av gjensidige sjøtrygdelag.

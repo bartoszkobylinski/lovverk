@@ -15,8 +15,9 @@ xml_hash: "cde9ccb7d5e159e8ce683bec27a261aeb4e96985ca48651d314e5e110d499ca1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for anestesisykepleierutdanning

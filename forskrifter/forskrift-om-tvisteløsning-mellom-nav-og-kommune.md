@@ -15,8 +15,9 @@ xml_hash: "c8ee4eb3963983813ef6421a4eacdc537bd80630f30e2025c3b1da96a1f64aff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om løsning av tvister mellom Arbeids- og velferdsetaten og kommunene etter arbeids- og velferdsforvaltningsloven

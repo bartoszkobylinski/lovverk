@@ -15,8 +15,9 @@ xml_hash: "e1ef2bff12b10d5e0e5b979afa8c52992ad2cbcc3df44fb984536e2da53bd17d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om omsetning av tømmer og treprodukter med opprinnelse i Norge

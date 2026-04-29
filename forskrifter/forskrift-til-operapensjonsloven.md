@@ -15,8 +15,9 @@ xml_hash: "45bb4a46f046a8933a781ddaad186edfe50dad42bf5bba1d45666cea0c092d54"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utbetaling og beregning av oppsatt alderspensjon fra pensjonsordningen for ballettdansere, sangsolister og korsangere ved Den Norske Opera A/S.

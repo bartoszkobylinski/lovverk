@@ -15,8 +15,11 @@ xml_hash: "8103a8eea8a6221834beb8149614866ba1a8409772f9d464f4f4481a80aae403"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31994L0022"
+  - "32009L0073"
 ---
 
 # Lov om petroleumsvirksomhet [petroleumsloven]

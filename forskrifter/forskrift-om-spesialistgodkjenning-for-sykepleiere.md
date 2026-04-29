@@ -15,8 +15,9 @@ xml_hash: "6d8da8e1383c04f04bec596c68e9d019e83d23c41bbc66d39be9453944ab7bee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om spesialistgodkjenning for sykepleiere

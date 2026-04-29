@@ -15,8 +15,9 @@ xml_hash: "178022be633b83a30f1a7ada1b2615015490ecfe4f8eda4d869e13b8b34e4df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til tiltak for å gi barn og unge økt forståelse for bruk av utmarksressursene

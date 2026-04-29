@@ -15,8 +15,9 @@ xml_hash: "d6932e07e3d8ccc03b2a3556743a09f3a7a9173bd7b768ecb7b412208d07258f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig bruk av utenlandsregistrert motorvogn i Norge

@@ -15,8 +15,9 @@ xml_hash: "47ee5fae74d36c6ea63b06e38af7eeda386f86ccd40d8b45595ff5f00b4f6f1f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjonsinnretninger, forsikringsselskaper og andre finansinstitusjoner

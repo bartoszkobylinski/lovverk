@@ -15,8 +15,9 @@ xml_hash: "7fc9a585fc9c7f2c2baa07c531bb0d0fc156f9e6db6f9fd675201c3c3ff14621"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner

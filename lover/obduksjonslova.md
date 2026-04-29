@@ -15,8 +15,9 @@ xml_hash: "ed62a6105d557bd457f3f97045d6dcd0be0f848de88841a9ffe20b16b1b3deab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslova)

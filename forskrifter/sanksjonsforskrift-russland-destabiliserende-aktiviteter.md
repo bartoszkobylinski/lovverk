@@ -15,8 +15,9 @@ xml_hash: "3bd8adb78a73c073d393f6b060f63fdda50da14d46b0b06e2c97d9ba113aa20b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om restriktive tiltak i lys av Russlands destabiliserende aktiviteter

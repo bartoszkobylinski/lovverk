@@ -15,8 +15,9 @@ xml_hash: "cd588d35bdfffc11ac8bf1ab78d3506e485e5fc3dec397f78fc81facee221005"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsreglar ved iverksetjing av lov 19. juni 2009 nr. 76 om endring i tomtefestelova

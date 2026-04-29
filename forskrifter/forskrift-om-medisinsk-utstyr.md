@@ -15,8 +15,9 @@ xml_hash: "3edf61ba94878dc0fee16c60c07ef675f5f00e59ff6f4baf414b1ca74dd72f6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om medisinsk utstyr

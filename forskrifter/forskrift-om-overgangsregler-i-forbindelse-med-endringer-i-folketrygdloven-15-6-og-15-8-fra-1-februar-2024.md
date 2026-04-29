@@ -15,8 +15,9 @@ xml_hash: "49f44be99006434168978fe37fb8bf2fb5f0c80597d45569e3c51c3564b3be39"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler i forbindelse med endringer i folketrygdloven § 15-6 og § 15-8 fra 1. februar 2024

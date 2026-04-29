@@ -15,8 +15,9 @@ xml_hash: "f54a499c18ea685c04e08e7ba537d7580c93b3413962d613e959bb39ba783849"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsbestemmelser for delt ikrafttredelse 1. mars 2023 av lov 12. juni 2020 nr. 67 om endringer i varemerkeloven og tolloven mv. (gjennomføring av nytt varemerkedirektiv mv.)

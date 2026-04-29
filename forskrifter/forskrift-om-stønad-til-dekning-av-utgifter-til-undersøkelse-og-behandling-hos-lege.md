@@ -15,8 +15,9 @@ xml_hash: "b8cf153739243bc713c6c59f79ec5807d0900d69dcc5f4e59fa76076f663f9f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege

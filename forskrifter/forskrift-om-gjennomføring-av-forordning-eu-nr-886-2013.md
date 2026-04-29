@@ -15,8 +15,9 @@ xml_hash: "0560f839812c8aff559a3b4c07059b7d636dc34c6b5ab854612ef3a974782860"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av Kommisjonsdelegert forordning (EU) nr. 886/2013 om utfylling av europaparlaments- og rådsdirektiv 2010/40/EU med hensyn til data og framgangsmåter for vederlagsfri framskaffelse av et minimum av generell sikkerhetsrelevant trafikkinformasjon for brukerne, dersom dette er mulig

@@ -15,8 +15,9 @@ xml_hash: "2a28689970ae8586c30d8e8147546a930f709044d41a282023ef9b863f6cab75"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonalitets- og registreringsmerking av luftfartøy (BSL A 1-8).

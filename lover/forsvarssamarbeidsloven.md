@@ -15,8 +15,9 @@ xml_hash: "2e02c3644403fdf78f4caa27ae836f1485a03b59943eade4037a6bfd9cba84f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om gjennomføring av tilleggsavtale mellom Norge og USA om forsvarssamarbeid av 16. april 2021 (forsvarssamarbeidsloven) mv.

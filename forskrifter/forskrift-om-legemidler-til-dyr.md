@@ -17,8 +17,9 @@ xml_hash: "6f9e6bee3da202769abfa21b99a8014a2a919c53106166a109e8dca4369b5ec1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om legemidler til dyr

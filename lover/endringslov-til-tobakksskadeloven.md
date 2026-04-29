@@ -15,8 +15,10 @@ xml_hash: "fabac991261b3ce6562d392d35d9e48f027503e5ceaecd8f368d204ab226b4e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014L0040"
 ---
 
 # Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)

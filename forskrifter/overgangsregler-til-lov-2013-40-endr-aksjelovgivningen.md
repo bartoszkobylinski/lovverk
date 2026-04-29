@@ -15,8 +15,9 @@ xml_hash: "3726827b9aed3b8e26e535bb51d998f21a3c7694cd543e106bfbfedaad384073"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 14. juni 2013 nr. 40 om endringer i aksjelovgivningen mv. (forenklinger)

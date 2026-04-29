@@ -15,8 +15,9 @@ xml_hash: "7ff88c5fc1fa35515f8ea2f4bf2a69bb2d70e45c783564b606834cce7def65e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for tannteknikerutdanning

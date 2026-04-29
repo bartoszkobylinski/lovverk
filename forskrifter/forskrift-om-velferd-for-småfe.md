@@ -15,8 +15,9 @@ xml_hash: "33fe4ef108a943e0958fed1628c02b87b11b2c24166974b6afed0d00839476ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om velferd for småfe

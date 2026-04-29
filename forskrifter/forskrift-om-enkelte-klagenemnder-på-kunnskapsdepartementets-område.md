@@ -15,8 +15,9 @@ xml_hash: "06e851d4fc7ada1a72e6fdc9e4e40febe891177a5d211219ea61ebe26c3c65a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om enkelte klagenemnder på Kunnskapsdepartementets område

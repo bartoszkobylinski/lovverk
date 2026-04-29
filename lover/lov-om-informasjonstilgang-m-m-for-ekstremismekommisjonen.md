@@ -15,8 +15,9 @@ xml_hash: "981ce898793d7dd78149b69c0687fb1b3d00c5dcede490c7e465b88b2fe50811"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for Ekstremismekommisjonen

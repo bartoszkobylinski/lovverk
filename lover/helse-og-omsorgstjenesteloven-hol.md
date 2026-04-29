@@ -15,8 +15,9 @@ xml_hash: "25fa9ea2e3fb70e71df74973a2206cbdf0bee351296ab9196c9bc1ec003b1ad2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)

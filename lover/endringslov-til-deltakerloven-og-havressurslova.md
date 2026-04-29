@@ -15,8 +15,9 @@ xml_hash: "6ede1618ca8ea5005be2c6b84725136e53e62704e9fc5ad2d82119040ac102f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)

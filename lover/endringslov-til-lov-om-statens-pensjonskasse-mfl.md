@@ -15,8 +15,9 @@ xml_hash: "85ccca8632b169ae501458b038910cdf27f6ed8bf7d247813bb495cd8a551497"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning)

@@ -15,8 +15,9 @@ xml_hash: "2c3446ef064596f460acf6be893ae7019ef455ff0337e954481cbaf1b141bc90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner

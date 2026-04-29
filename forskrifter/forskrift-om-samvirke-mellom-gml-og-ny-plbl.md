@@ -15,8 +15,9 @@ xml_hash: "8d3cd31b8113b5abd7578c681ebb21c645ff9b55a4b68914ed73b9f439429060"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samvirke mellom bestemmelsen i plan- og bygningsloven 14. juni 1985 nr. 77 og bestemmelsene i plan- og bygningsloven 27. juni 2008 nr. 71

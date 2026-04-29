@@ -15,8 +15,9 @@ xml_hash: "1a6590e1b892e86aff980da4db44a81263cfbc5a5a4a52cf45de88f322a4af36"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter reker med fartøy fra Canada i fiskevernsonen ved Svalbard.

@@ -15,8 +15,9 @@ xml_hash: "39310606e17bb6cfb6b29fa0ffddf7ffbbbf6c1a592664400d5a83e6159066ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak til studier ved Høgskolen i Østfold

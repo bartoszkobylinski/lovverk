@@ -15,8 +15,9 @@ xml_hash: "e20b91ed7880e0e866f01d80061322c2d11e177b794c1745d07aeca9971e4ca7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om overføring av ansvar for kollektivtransport

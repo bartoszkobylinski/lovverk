@@ -15,8 +15,9 @@ xml_hash: "97f648d3f877c0ed66ebe76a2ea2f596108bdee8ec4f07a15ac5b798c9eb3bb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rentesats etter ekteskapsloven

@@ -15,8 +15,9 @@ xml_hash: "666212843879085beebeea15969107eabfb27d322366747b42cb57c9c8b9b10e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om redusert samordningsfradrag når pensjon til gjenlevende ektefelle fra folketrygden er redusert for arbeidsinntekt (samordningsforskrift 20)

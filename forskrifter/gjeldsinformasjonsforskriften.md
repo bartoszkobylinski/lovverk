@@ -15,8 +15,9 @@ xml_hash: "4974d750d0811642408a0a253efcec3ed26ed62171688544b24e99715414519b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om virksomhet etter gjeldsinformasjonsloven (gjeldsinformasjonsforskriften)

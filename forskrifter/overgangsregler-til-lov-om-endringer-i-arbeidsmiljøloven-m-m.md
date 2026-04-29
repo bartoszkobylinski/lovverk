@@ -15,8 +15,9 @@ xml_hash: "0ad9e0bc9c2c9b9ee1b5539c9a44aad9af8fb374e4a481d76cc5c6dd5a1a65ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov om endringer i arbeidsmiljøloven m.m. (inn- og utleie fra bemanningsforetak)

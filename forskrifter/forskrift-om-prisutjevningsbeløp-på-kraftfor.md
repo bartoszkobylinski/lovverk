@@ -15,8 +15,9 @@ xml_hash: "d662ac4e69f6047e89dbe99e08d58934b35b442f75eaf2ca49e4de36172aed18"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om prisutjevningsbeløp på kraftfôr og råvarer til kraftfôr

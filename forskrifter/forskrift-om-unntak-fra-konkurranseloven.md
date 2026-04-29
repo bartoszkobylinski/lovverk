@@ -15,8 +15,9 @@ xml_hash: "aa897ff8c2a1c256e51273741508ecb14d88bcd2ec090e9efde7113573d4a8c2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis unntak fra gjennomføringsforbudet i konkurranseloven § 19 første ledd for visse typer erverv av verdipapirer

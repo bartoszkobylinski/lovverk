@@ -15,8 +15,9 @@ xml_hash: "ab9e201ecbc1f388496d0670f670acd144d2ce794866b1f685d128bfa050c51a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang mv. for utvalget for ekstern gransking av saken knyttet til feilaktig praktisering av adgangen til å motta sykepenger, arbeidsavklaringspenger og pleiepenger ved opphold i et annet EØS-land

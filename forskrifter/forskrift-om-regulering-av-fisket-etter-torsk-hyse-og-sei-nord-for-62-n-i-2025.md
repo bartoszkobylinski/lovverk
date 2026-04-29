@@ -15,8 +15,9 @@ xml_hash: "024a4ac5539d8eab3b4014c61366503b60ac10d354414c2763b63897481ac7f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62° N i 2025

@@ -15,8 +15,9 @@ xml_hash: "bf5e3e679ee8db1902dd29576d9b3900fa38aaa7446ab1f8a8820fc571c12e4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av straffesaker når norske skip deltar i en Frontex-operasjon

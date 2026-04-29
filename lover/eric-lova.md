@@ -15,8 +15,11 @@ xml_hash: "5189d6e928cdd5011eeb09e63cdad09957574fb6573506a96f1fc0b24a0162ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009R0723"
+  - "32013R1261"
 ---
 
 # Lov om konsortium for europeisk forskingsinfrastruktur (ERIC-lova)

@@ -15,8 +15,9 @@ xml_hash: "7aabc34f149cdca21e89ca4c36b1b2b54a213a7c52ea9c2779f5af9074b8d3cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bachelorgrad ved Samisk høgskole

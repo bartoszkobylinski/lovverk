@@ -15,8 +15,9 @@ xml_hash: "8c2f10742d672d00b2438fafd538855bedf42dfc46b709fe624a0d0a499ec776"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om årsregnskap m.m. for verdipapirforetak, forvaltningsselskap og AIF-forvaltere med tillatelse

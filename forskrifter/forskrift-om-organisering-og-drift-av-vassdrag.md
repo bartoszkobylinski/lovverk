@@ -15,8 +15,9 @@ xml_hash: "4310b07dd68f367dc2251128462c22edfb6f1e831b7c41046d5b2875ba58d71e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av flertallsvedtak vedrørende organisering og drift av vassdrag etter lov om laksefisk og innlandsfisk § 25.

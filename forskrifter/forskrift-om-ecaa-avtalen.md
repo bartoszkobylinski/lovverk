@@ -15,8 +15,9 @@ xml_hash: "9af28e2ab572acbd0a9c00583eba1bac54b082164da67368c71c409d748457b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring og håndheving av ECAA-avtalen (European Common Aviation Area) av 9. juni 2006

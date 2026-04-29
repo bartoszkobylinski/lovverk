@@ -15,8 +15,9 @@ xml_hash: "a7370524376c6bfbe49a48e53dda29c6c89d2570c66c5790d29b7e6f81d3be5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot å fiske makrellstørje i 2026

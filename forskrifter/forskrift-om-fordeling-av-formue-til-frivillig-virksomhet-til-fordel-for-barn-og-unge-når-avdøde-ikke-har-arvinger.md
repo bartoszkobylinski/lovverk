@@ -15,8 +15,9 @@ xml_hash: "27817a45addb59fdad021157e7456e6ab3a658a60a90d70586517d158b7ff5e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fordeling av formue til frivillig virksomhet til fordel for barn og unge når avdøde ikke har arvinger

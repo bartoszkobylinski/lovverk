@@ -15,8 +15,9 @@ xml_hash: "2cc602a8313985a76ad5967d6f96d4b477e81c56c77984a6b933b3868619d4f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i enkelte forskrifter som følge av endring i forskrift om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav

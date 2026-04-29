@@ -15,8 +15,9 @@ xml_hash: "13e41fe840df88a5458a691e5d722e257bdb068d43cc26fed8c233d16e61d62d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaksjoner for ungdom)

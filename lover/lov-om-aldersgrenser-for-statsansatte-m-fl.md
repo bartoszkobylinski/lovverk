@@ -15,8 +15,9 @@ xml_hash: "49b31f9d9e0e57b0c8d970c6fa31ca020d2df11585f7b316dabde4da07132611"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om aldersgrenser for statsansatte m.fl.

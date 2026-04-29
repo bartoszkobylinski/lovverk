@@ -15,8 +15,9 @@ xml_hash: "fe4fe328e07def3870f9c5b489666fdf0149ab04275c8e55ec330f9354cc7fdd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)

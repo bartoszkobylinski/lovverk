@@ -15,8 +15,9 @@ xml_hash: "c5e9a6f2f35edf26d000b94942e1f6052fbc3a607140e2a3730b336b856e2c52"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om særlige Straffebestemmelser m.v. for Personer, som i Henhold til Grundlovens § 75 h indkaldes til at møde for Storthinget

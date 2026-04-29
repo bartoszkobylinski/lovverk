@@ -15,8 +15,9 @@ xml_hash: "85297b6cc11c7a57fa146960680753a32d5ec889a0fb8d9b000ff595a067472f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak og eksamen ved Eccera IT Academy

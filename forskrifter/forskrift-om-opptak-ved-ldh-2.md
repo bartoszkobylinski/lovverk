@@ -15,8 +15,9 @@ xml_hash: "6fcee3b9efa5a39cf4e8bf30b558188d694ce5d34d5ebe673cc70d8cb4ee6441"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om opptak ved Lovisenberg diakonale høgskole

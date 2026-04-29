@@ -15,8 +15,9 @@ xml_hash: "92563df8a3109cc6b31189ebe5c3f63585d838f068c3cd1203f37189b2b5a48f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medier (medieansvarsloven)

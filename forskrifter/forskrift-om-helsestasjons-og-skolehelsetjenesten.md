@@ -15,8 +15,9 @@ xml_hash: "ff05d181414d0041f1ade92fb8b0c3c85bc228a4c8049db5fc5d67d0e6bdabe7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunens helsefremmende og forebyggende arbeid i helsestasjons- og skolehelsetjenesten

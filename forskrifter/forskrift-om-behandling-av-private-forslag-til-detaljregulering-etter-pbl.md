@@ -15,8 +15,9 @@ xml_hash: "80d16e27d5d183f507c054c4c3a8148c87a8e92d80a000b932ee0909b0fab2c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av private forslag til detaljregulering etter plan- og bygningsloven

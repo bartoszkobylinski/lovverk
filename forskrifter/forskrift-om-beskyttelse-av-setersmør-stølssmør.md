@@ -15,8 +15,9 @@ xml_hash: "0339ecdda3b605de6597d793e8fd01257c16d2b61e00fec743b31f09f81b7047"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av Setersmør/Stølssmør som betegnelse for tradisjonelt særpreg

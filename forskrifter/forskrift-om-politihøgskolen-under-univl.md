@@ -15,8 +15,9 @@ xml_hash: "9c0bf4656505ece032ce3ae8e73a68aff44cffab2932e3b094a3bb833e2b957c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis innlemming av Politihøgskolen under lov 1. april 2005 nr. 15 om universiteter og høyskoler.

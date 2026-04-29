@@ -15,8 +15,9 @@ xml_hash: "ef1323618ab947d7e76be0d54e145e3eaa8b904ef6d1bb399d0ee847f6fd64bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for graden philosophiae doctor (ph.d.) ved Nord universitet

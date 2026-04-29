@@ -15,8 +15,9 @@ xml_hash: "957942cd7c33242f8f2f24ed8f329c226d4325c2a6ca2326341ecfdcfcd22684"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om overføring av straffeforfølging fra eller til annet europeisk land

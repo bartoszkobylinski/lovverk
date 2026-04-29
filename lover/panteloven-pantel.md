@@ -15,8 +15,9 @@ xml_hash: "37cc369ec87fc8f3aec9a8773fa5ccda63a6680d5d82e9cac819400be69706ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om pant (panteloven)

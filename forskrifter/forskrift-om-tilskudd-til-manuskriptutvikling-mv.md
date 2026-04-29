@@ -15,8 +15,9 @@ xml_hash: "0340522b916b0c983b9ce479c895f784b4f720399fc64c32015e920eacc41302"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om søknad, utbetaling og kontroll av tilskudd til manuskriptutvikling og utdanningsrettede tiltak

@@ -15,8 +15,9 @@ xml_hash: "b3c51756aa6620a937b03de605a6083abe58e01354d998594df3269b827e0f86"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til kollektiv kompetanseutvikling i videregående opplæring

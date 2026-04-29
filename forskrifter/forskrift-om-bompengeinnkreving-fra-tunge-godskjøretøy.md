@@ -15,8 +15,9 @@ xml_hash: "28c2177668f8fe45b6a5a0164980c6a03d398a021181a610c9a662bd0a07f361"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innkreving av bompenger fra tunge godskjøretøy med tillatt totalvekt over 3 500 kg

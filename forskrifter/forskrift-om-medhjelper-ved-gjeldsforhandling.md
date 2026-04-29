@@ -15,8 +15,9 @@ xml_hash: "c03bc6b657dcc82b1a625676001453afe9f209efe9a7e89b3a57fd87fee4d02f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppnevnelse av og godtgjørelse til medhjelper under gjeldsforhandling

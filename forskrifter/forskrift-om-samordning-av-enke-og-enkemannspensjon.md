@@ -15,8 +15,9 @@ xml_hash: "5e53682b644799eed59c87adba8eba810f1ecd2b7302b7bd6a73b5cc61426a85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden når det også ytes uførepensjon eller alderspensjon fra tjenestepensjonsordningen

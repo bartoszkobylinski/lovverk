@@ -15,8 +15,9 @@ xml_hash: "6e5ec9271574261e8c438c65ad4c4467db719164c0071cea40f48bed4812a4a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)

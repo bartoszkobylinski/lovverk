@@ -15,8 +15,9 @@ xml_hash: "97da82e0d4cec261a5e7c75db6d8c101bba147e11d9fa7a4fb5b2e8b07d68e0a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forsterkning av gaver til forskning (gaveforsterkningsforskriften)

@@ -15,8 +15,9 @@ xml_hash: "61dedd32331754c5abbb73c73f6029c79a96120b369f9ff89d669594b2533f81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter hestmakrell i 2026

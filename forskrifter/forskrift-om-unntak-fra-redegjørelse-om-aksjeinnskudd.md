@@ -15,8 +15,9 @@ xml_hash: "1800de76fe51020ac29d45d67782ec7562e4ba394717241b3cefa81f1dc2bbed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra kravet til redegjørelse om aksjeinnskudd med andre eiendeler enn penger

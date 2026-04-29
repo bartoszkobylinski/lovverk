@@ -15,8 +15,9 @@ xml_hash: "7257b13b5e7d1c98442babc07b55257ceb118bdea40554d7c04af439e09ae3f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. (merverdiavgiftskompensasjonsloven)

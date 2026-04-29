@@ -15,8 +15,9 @@ xml_hash: "6897453d80801278cca0bc3c8050d22cd5914cbbc217b96e1a4b237114970e4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om stønad til arbeids- og utdanningsreiser

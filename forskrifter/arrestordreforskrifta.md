@@ -15,8 +15,9 @@ xml_hash: "0e62d08d42dace24d51c2af98fd42ce7b5ad6e3ad4fe6d7ca100b87dc38f981b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til arrestordreloven (arrestordreforskrifta)

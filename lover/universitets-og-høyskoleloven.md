@@ -15,8 +15,9 @@ xml_hash: "3a2aded0eb412b13015bf99c2bbce1939f188a2ba1745449a0c545b99ba3bbcf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om universiteter og høyskoler (universitets- og høyskoleloven)

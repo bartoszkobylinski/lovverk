@@ -15,8 +15,9 @@ xml_hash: "f17182284cdc9e19cf1401978eb398029cb5e83bf24573e571acaf415f17af40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av pelagisk fisk

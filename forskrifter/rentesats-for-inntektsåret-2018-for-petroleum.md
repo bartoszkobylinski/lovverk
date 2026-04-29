@@ -15,8 +15,9 @@ xml_hash: "e02373c2c5f1e765b327a143030a1a192d212d71d4184cb854aa474909efabf5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av rentesats for inntektsåret 2018 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum

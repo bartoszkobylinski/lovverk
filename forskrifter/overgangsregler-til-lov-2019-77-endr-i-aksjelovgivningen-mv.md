@@ -15,8 +15,9 @@ xml_hash: "ff670a6a95d48e24e7769c9c30a531a4e8810822d3cd378219878c78c6930d3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 6. desember 2019 nr. 77 om endringer i aksjelovgivningen mv. (langsiktig eierskap i noterte selskaper mv.)

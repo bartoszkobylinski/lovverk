@@ -15,8 +15,9 @@ xml_hash: "e115f313d77434c9af2fea8193737188770b3841a30fe7035c241586658ee767"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godkjenning av traktor og tilhenger til traktor (traktorforskriften)

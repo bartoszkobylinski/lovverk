@@ -15,8 +15,9 @@ xml_hash: "47914e4d3ddd1d46c76b2f23a9a093d0c0c39bf30a2f1896f6d4261bf80cae72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring av juridisk kjønn for norske statsborgere bosatt i utlandet

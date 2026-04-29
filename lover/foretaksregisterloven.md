@@ -15,8 +15,9 @@ xml_hash: "07cf701dd06a6083bb751e2563c270ec0c5d2bb5b59f60fb829d04f1cc0031e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Foretaksregisteret (foretaksregisterloven)

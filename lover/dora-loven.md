@@ -15,8 +15,11 @@ xml_hash: "bba6c0aeb799a6d4edd0f59dd0a7cb01a596735452de72d626b57707ffac0d19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32022R2554"
+  - "32022L2556"
 ---
 
 # Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)

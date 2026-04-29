@@ -15,8 +15,9 @@ xml_hash: "c491a1ad6dbbf08c873b02e673a08f1803709e6bd925d5551666f64d6dbe39e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser til lov 15. desember 2006 nr. 88 om endringer i aksjelovgivningen mv.

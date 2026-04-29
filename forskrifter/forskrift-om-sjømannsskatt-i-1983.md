@@ -15,8 +15,9 @@ xml_hash: "604fac99bcbfa47b5cf35e664201a60c1ca7024302119a2fc52a8bbf225b582e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fradrag i inntekt om bord ved beregning av sjømannsskatt fra og med trekkåret 1983.

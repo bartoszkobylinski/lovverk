@@ -15,8 +15,9 @@ xml_hash: "95a9d82850b3771dbfe595d360d7a1020ad238856bfd696fd1ade43ac5b86fef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)

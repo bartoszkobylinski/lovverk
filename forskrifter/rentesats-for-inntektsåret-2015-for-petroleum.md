@@ -15,8 +15,9 @@ xml_hash: "ea118d59772ad5e5c10fc5a2d970a8312883b5984e65a2248ae59ebbf3ce7d88"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av rentesats for inntektsåret 2015 til bruk ved fremføring av underskudd og friinntekt

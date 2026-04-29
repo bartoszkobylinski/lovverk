@@ -15,8 +15,9 @@ xml_hash: "058213fb8ed690a6e0e73a6ea11c80d0b21a0fc961c2816da26f181d188a2ada"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppheving av forskrift om valutaregulering. Delegering av myndighet til Norges Bank.

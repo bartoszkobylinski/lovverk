@@ -15,8 +15,9 @@ xml_hash: "d79f8677e2304c5e6f0846cb57473ed42dce44f56a16b017b17a587b41fe08d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om yrkesskadetrygd for lotter og flysøstre.

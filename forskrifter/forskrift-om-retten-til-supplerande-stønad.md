@@ -15,8 +15,9 @@ xml_hash: "5350070239bdcae672a2ed3546be66930dee3c454c3488af6471aa20c4f7794e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontroll med retten til supplerande stønad.

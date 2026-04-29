@@ -15,8 +15,9 @@ xml_hash: "144b917e06adff9720e62b094e00f4e980ad37a26e59b133c1a21f8f46624f59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 29. juni 2007 nr. 74 om regulerte markeder (børsloven) og lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven)

@@ -15,8 +15,9 @@ xml_hash: "4ea7e5c8bb657f9ee47800963e27c6eab97bb05d3783c424a05a340533545ef3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppjustering av driftsavtale for fysioterapeuter

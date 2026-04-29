@@ -15,8 +15,9 @@ xml_hash: "91beff8425d0ae25fb39d87b51da67622a8641d932f9c654bf3250522ff66a94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i tobakksskadeloven, strålevernloven og atomenergiloven (utvidelse av røykeforbudene og forbud mot grensekryssende fjernsalg)

@@ -15,8 +15,9 @@ xml_hash: "7f8df3f2eff76aff5de28040e1c0a921c0c50d97717de0a187de55a90c97bcec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontrollutvalg og revisjon

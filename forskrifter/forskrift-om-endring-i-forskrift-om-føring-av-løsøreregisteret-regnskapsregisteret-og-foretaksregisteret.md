@@ -15,8 +15,9 @@ xml_hash: "124ebe25f7b5b5d3e06a9170a47edad483c32920b6f98d228e08192476167b21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om føring av løsøreregisteret, regnskapsregisteret og foretaksregisteret

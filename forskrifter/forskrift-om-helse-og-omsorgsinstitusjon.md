@@ -15,8 +15,9 @@ xml_hash: "d8ac88aca9c29484e613465d4770645e7bd43a25c45278e2ef045eef97e42620"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunal helse- og omsorgsinstitusjon

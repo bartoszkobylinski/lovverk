@@ -15,8 +15,9 @@ xml_hash: "34e9951dc8cd90e1d900a06137d3f4ff9e4f5c528205b377e9b5c17fe1178753"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonalparkene Sør-Spitsbergen, Forlandet og Nordvest-Spitsbergen, om naturreservatene Nordaust-Svalbard og Søraust-Svalbard, og om naturreservatene for fugl på Svalbard

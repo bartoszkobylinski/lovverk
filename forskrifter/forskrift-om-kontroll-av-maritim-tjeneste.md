@@ -15,8 +15,9 @@ xml_hash: "b7e3f5bfe6b2c9f63b39575f4279ebe11a5d883f0841821708d9066dd1bca5c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kontroll av maritim tjeneste

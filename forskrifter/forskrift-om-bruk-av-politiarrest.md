@@ -15,8 +15,9 @@ xml_hash: "65035657144c002c53ec36f4de0e87f92b6a6a1cdf39ac88f58b2d419a7a0ae3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om bruk av politiarrest

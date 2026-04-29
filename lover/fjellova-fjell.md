@@ -15,8 +15,9 @@ xml_hash: "ce8e5fd5ef24174df64e62d3042ca46ba0ee96e07066acd852edaef352988a92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova)

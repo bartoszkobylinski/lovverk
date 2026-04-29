@@ -15,8 +15,9 @@ xml_hash: "bbc338c45d2e0f0cd45dfc39ebe3bc26c1a77cb117d9c4e6b74742d350b1a28d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om grannegjerde [grannegjerdelova]

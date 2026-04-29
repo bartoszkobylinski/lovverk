@@ -15,8 +15,9 @@ xml_hash: "0b2164a30013afba0e33873de4ea104763dcfec34b44808f05a694e41e6bad80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om foreldrebetaling i barnehager

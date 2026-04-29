@@ -15,8 +15,9 @@ xml_hash: "8e7498691874ef008f7b056d58eefe6aa63966e9286f70757f442b6071b73eab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Konvensjon om forkynnelse i utlandet av rettslige og utenrettslige dokumenter på sivil- og handelsrettens område

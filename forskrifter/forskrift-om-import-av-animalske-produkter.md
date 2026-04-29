@@ -17,8 +17,9 @@ xml_hash: "c1b23e11f0fa53772ef0b6762fdb87048376a36da051bb1b780303a4d7fa1130"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av forordning (EF) nr. 745/2004 om fastsettelse av tiltak med hensyn til import av produkter av animalsk opprinnelse beregnet på eget forbruk.

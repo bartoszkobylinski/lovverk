@@ -15,8 +15,9 @@ xml_hash: "e5557724457c8c3b805e147ad9698d7429106fd19efcf612d0810a9c4760f51b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om markedsregulering til å fremme omsetningen av jordbruksvarer

@@ -15,8 +15,9 @@ xml_hash: "6631cbd64051c64bc7af43e1adfaa84a19a3ead3db96a217e7d6d2775946cd95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godtgjørelse fra det offentlige til særskilte advokater i saker etter etterretningstjenesteloven

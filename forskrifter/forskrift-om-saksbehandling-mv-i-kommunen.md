@@ -15,8 +15,9 @@ xml_hash: "551bd5b566cd45bf0b4c125603c7d6708e8ed8c8dad8fa633cb4c33c0896512c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om saksbehandling mv. i kommunen i saker etter konsesjonsloven, jordloven, odelsloven og skogbruksloven

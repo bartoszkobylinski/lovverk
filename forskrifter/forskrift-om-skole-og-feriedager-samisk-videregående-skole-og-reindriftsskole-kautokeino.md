@@ -15,8 +15,9 @@ xml_hash: "247efdb62013673d5f6d884bf05ceb4f9f6a895f1a432db3b11a4bc971376d30"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole og reindriftsskole, Kautokeino

@@ -15,8 +15,9 @@ xml_hash: "6990decb36555fdfcd8cb265a228bd3171e75d8dd5384e594dcbe133d94335ab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om inngrep på åpent hav og i Norges økonomiske sone i tilfelle av havforurensning eller fare for forurensning av olje eller andre stoffer som følge av en sjøulykke

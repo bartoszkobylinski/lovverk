@@ -16,8 +16,9 @@ xml_hash: "59c11ef00edbe1582930f0354ad28fc31e846048bbaff9dca9111ff9c4ad6520"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)

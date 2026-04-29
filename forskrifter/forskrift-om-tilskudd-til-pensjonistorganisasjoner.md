@@ -15,8 +15,9 @@ xml_hash: "aeb541e9ebdb4141465310a04e16e1e282f6e282367ed2dd7a63ce6110b1c6f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til pensjonistenes organisasjoner

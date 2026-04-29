@@ -15,8 +15,9 @@ xml_hash: "4ceae28902783fcf5672b455748702658faef02861b4650b616f43bf05f6cf2a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester

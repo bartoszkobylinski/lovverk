@@ -15,8 +15,9 @@ xml_hash: "7a4a00740a0e906c528d9c23bcd9ede0b73c18653ff600e2d7d0a89d33348dba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til anadrome laksefisk

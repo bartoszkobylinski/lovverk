@@ -15,8 +15,9 @@ xml_hash: "9d5795a25e65b8a3445e37eb58887f8bf87963c36c60ecab4b7ce4111f0fc8d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om etablering og drift av kultiveringsanlegg for fisk og kreps

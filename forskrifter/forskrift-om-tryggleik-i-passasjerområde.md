@@ -15,8 +15,9 @@ xml_hash: "5c6c31043015ebd982463fd5045cafd21e0f9d2530d1dd13ed75f7d5382b0909"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tryggleik i passasjerområde

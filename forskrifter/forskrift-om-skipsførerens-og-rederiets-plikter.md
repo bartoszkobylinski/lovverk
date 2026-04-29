@@ -15,8 +15,9 @@ xml_hash: "31b133f69bfe99005892d639b7c9581b61ff8b8112006c0a8d267fb3103583d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om skipsførerens og rederiets plikter i tilfelle straffbare handlinger av alvorlig art begås om bord og melding om savnede personer

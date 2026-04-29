@@ -15,8 +15,9 @@ xml_hash: "01e35c56d4017aef4622dbcbbdaaf33c5f25524fbd47113a26fc22a99b8dfb5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for veterinærer som etter søknad har oppgavefritak for 1.–5. termin

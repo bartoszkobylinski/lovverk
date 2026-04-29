@@ -15,8 +15,9 @@ xml_hash: "f7360df1dfd9145ae727728800003fec66a7c3ed34a76301f67bfadbafc3c899"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til godkjenning av utstyr til bruk i flysikringstjenestene, og krav til utviklere og produsenter av slikt utstyr

@@ -15,8 +15,9 @@ xml_hash: "6c3baf5fb96d4511db13653aa03e6655b033c452c51bf61fd6a24af38d76c147"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studier og eksamener ved Universitetet i Oslo

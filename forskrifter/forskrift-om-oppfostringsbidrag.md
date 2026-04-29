@@ -15,8 +15,9 @@ xml_hash: "9838f655f8b809a304c36ba0d23692082e96c2c3f0283ad780347fb13f1df746"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fastsetting og endring av oppfostringsbidrag etter lov om barnevern (barnevernsloven).

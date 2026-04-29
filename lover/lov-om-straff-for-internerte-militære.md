@@ -15,8 +15,9 @@ xml_hash: "c67d99069dd512a03179c32cc0281cdf2eedb4b9dc2c1b7c993085c2bc2bf32f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om straffebestemmelser for utenlandske militærpersoner som er internert her i riket under krig mellem fremmede magter

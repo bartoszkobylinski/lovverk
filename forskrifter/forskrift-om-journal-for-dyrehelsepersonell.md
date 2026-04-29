@@ -15,8 +15,9 @@ xml_hash: "6bc14f2db26ec2cb2e9b50f05a3e9d3f45d9211c19472921a3399924367452ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om journal for dyrehelsepersonell.

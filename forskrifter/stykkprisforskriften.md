@@ -15,8 +15,9 @@ xml_hash: "ca2921c8700ad54ff8e93e447071db9504b22e502a7b19ed2b0c2869029cc826"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om salær fra det offentlige til advokater m.fl. etter faste satser (stykkprissatser) ved fri rettshjelp og i straffesaker

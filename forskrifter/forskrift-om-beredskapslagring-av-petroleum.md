@@ -15,8 +15,9 @@ xml_hash: "cb5bf257b0226d61a2a0dc7b7f3bec6eb043f0aa3968acc14c3cde007983d93a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beredskapslagring av petroleumsprodukt.

@@ -15,8 +15,9 @@ xml_hash: "67f0247c2b8f99354f673354ad3ca1756f971e7ff86726b9c46fbed7dbfa18c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt

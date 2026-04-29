@@ -15,8 +15,9 @@ xml_hash: "e3bca54ec253f5634aa5fdc307f09e72880805e482f3d9e5c91060117acec5fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til fartøy som skal fiske og føre fangsten levende

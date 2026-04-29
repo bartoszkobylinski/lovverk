@@ -15,8 +15,9 @@ xml_hash: "437351f7858b0ff8742bb4553aab706458b78f9d490e3bedbf0a02fa6bea98b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om utlendingers adgang til riket og deres opphold her (opphold for britiske borgere og deres familiemedlemmer)

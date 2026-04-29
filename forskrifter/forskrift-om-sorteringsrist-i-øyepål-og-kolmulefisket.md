@@ -15,8 +15,9 @@ xml_hash: "ad1d32b270790021f1cc3b905aa2b14234fade5697f85bf168106bbdaadc76ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utforming og innmontering av sorteringsrist i fisket etter kolmule og øyepål med småmasket trål

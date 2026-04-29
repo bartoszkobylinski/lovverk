@@ -15,8 +15,9 @@ xml_hash: "72b312207f7d488a1680f77908de0afd7966f451f1a666e9723b90ce71dc6a27"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om oppbevaring ved domstolene av dokumenter i saker med anonym vitneførsel.

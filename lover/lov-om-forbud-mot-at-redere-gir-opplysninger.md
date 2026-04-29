@@ -15,8 +15,9 @@ xml_hash: "6fba2e6c229e55adfbceaab6fa467c7663faf6b309722ed748d0b889ad6e7ea7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter

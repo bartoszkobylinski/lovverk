@@ -15,8 +15,9 @@ xml_hash: "0956070052d074d6156fcb4f3a4c8b4a7968ab84fde33f09b9bb17a24f137f58"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om 12/65 for mobilkran, betongpumpebil og liftbil på riks-, fylkes- og kommunale veger (veglister 12/65 mobilkran m.m.)

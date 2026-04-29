@@ -15,8 +15,9 @@ xml_hash: "1ec152f541d48fabdb985e98ac36539e4cd549ab9c48fd6efe5ae37445c4c05f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om tilskudd ved avbrutt permittering (økonomiske tiltak i møte med virusutbruddet)

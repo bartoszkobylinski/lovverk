@@ -15,8 +15,9 @@ xml_hash: "ddc1512c237419d7dc7fcdc8b82a28a02bdb269f95d64ed266a0ae495ae42306"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene

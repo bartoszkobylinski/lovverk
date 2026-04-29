@@ -15,8 +15,9 @@ xml_hash: "00eddfa6dc02e103253ce8a12387e9d0d2e63d6a2e0cc25ae595187c6d32a660"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om sjømannspensjonering

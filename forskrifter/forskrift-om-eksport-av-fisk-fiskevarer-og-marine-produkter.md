@@ -15,8 +15,9 @@ xml_hash: "2581011df97ee523847246f6880df3fd4b5f2d1872c40c88376fe270a03732e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter

@@ -17,8 +17,9 @@ xml_hash: "89876a50cf72d9427dd00a114b7c998bfc4d1f421030f15e0ec28db5d4a3caa3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tekniske tilpasninger og overgangsordninger på matområdet i forbindelse med innlemmelsen av Kroatia i EØS-avtalen

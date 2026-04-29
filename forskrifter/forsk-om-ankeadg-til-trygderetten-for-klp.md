@@ -15,8 +15,9 @@ xml_hash: "5171c4aa8e9b1ec7a757f0f7c340429931b20453ab2c51d3782e4c7784e57485"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om ankeadgang til Trygderetten for medlemmer av Kommunal Landspensjonskasse.

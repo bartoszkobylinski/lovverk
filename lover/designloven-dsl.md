@@ -15,8 +15,10 @@ xml_hash: "72425323ad83a708dc87fd02236cb96c281f125b0ff2022cb2900621ae1d814b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31998L0071"
 ---
 
 # Lov om beskyttelse av design (designloven)

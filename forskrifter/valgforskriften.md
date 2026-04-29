@@ -15,8 +15,9 @@ xml_hash: "a9cb912bc2e1961b4b12c486573408b8a50a37d1aaa1431b9063ff8663f951c0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om valg til Stortinget, fylkesting og kommunestyrer (valgforskriften)

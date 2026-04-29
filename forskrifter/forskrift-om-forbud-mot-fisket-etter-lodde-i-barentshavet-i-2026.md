@@ -15,8 +15,9 @@ xml_hash: "999cd8e69786c251f19cf7b443692e3dc536bd5afe462829df09354466c2bdf1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot fisket etter lodde i Barentshavet i 2026

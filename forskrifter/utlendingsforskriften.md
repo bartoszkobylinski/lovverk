@@ -16,8 +16,9 @@ xml_hash: "d86b5a934ef9ba15b3b8000e6f0fdc0ba98c7bef77b3eb454648de894d29360e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)

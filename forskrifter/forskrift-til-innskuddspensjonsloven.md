@@ -15,8 +15,9 @@ xml_hash: "61db73aa7857c2222c9488b3529c3d34d049c1fd27517c624c505a1c8fffa1cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til lov av 24. november 2000 nr. 81 om innskuddspensjon i arbeidsforhold (innskuddspensjonsloven)

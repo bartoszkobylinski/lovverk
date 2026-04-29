@@ -16,8 +16,9 @@ xml_hash: "d2e5f67f5353495c1a0a4163227941cdf3814823d44d5add57ae3d7ccbf1393d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om de ansattes rett til representasjon i styret i statsforetak mv.

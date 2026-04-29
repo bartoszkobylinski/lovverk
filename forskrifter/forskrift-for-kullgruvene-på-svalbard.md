@@ -15,8 +15,9 @@ xml_hash: "28e5628cbf02b15a444f6325523edaf4658220d859a39a2485001e5437dfdde9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for kullgruvene på Svalbard

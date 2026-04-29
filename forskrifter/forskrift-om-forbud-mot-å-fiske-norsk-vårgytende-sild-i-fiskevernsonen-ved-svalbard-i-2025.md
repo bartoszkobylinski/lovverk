@@ -15,8 +15,9 @@ xml_hash: "a0600093a93e703bd27c26763f8ea69b85eb347f689b0a760f4985d1bde90972"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot å fiske norsk vårgytende sild i fiskevernsonen ved Svalbard i 2025

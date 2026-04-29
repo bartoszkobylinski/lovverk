@@ -15,8 +15,10 @@ xml_hash: "8f391db1761e2b49017777a84636399a7ff4a45a836d37bf4dea57e35a008fd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "31993L0068"
 ---
 
 # Lov om medisinsk utstyr

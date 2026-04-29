@@ -15,8 +15,9 @@ xml_hash: "6b040c0be8c1a827de407c156ed2457f1160c398ab973721672d65818c3de4e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om pensjonsordning for arbeidstakere til sjøs

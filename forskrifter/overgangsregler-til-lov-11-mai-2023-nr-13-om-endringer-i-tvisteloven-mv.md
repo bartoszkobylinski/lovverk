@@ -15,8 +15,9 @@ xml_hash: "7d1badef80e9b2a083a4bc275d6ede67ba51938fa8c4f30d4e4932411b3ac815"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)

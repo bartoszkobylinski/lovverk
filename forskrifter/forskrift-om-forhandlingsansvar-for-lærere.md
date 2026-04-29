@@ -15,8 +15,9 @@ xml_hash: "a1607fa1a21a48246a4e950359c0be9f2e872bc55d7b4fee4a1f7e078522f01f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overføring av forhandlingsansvaret for undervisningspersonale til kommuner og fylkeskommuner.

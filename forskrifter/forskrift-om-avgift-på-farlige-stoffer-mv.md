@@ -15,8 +15,9 @@ xml_hash: "aaae3f7c159fe5ba7fc48a8988f42a3fa9584972f05910f4c4878755da2bf538"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om avgift på enkelte farlige stoffer, anlegg og innretninger som omfattes av lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver

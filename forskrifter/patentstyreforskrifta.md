@@ -15,8 +15,9 @@ xml_hash: "14840fdcdaf6833965eeeb74584fa849e6861ed23e09732f001ea265ad572486"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift til patentstyrelova (patentstyreforskrifta)

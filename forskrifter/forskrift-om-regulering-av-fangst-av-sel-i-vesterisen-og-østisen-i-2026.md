@@ -15,8 +15,9 @@ xml_hash: "37c3d702c9abb15af6beddfe3a64ef514a6922da4d0c9486660d3277b3d19d59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fangst av sel i Vesterisen og Østisen i 2026

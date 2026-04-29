@@ -15,8 +15,9 @@ xml_hash: "85f5af3fa9ff0f46cf4073f03d66864f525dedd1fe6aaa7adf02dc712106e62a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utvidelse av oppdrettslovens virkeområde.

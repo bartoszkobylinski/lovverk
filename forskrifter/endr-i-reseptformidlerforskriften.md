@@ -15,8 +15,9 @@ xml_hash: "ee22b1a2e028ea59662f7ad8c93063e4e4c3e1f5ba2f42a70f6818b1cd55cc15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)

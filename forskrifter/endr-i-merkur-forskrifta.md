@@ -15,8 +15,9 @@ xml_hash: "ce1d07c421197c8bc6d88665a0b3d11aade7df453adda295c4867a06caba2bcc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om tilskot frå Merkur-programmet (Merkur-forskrifta)

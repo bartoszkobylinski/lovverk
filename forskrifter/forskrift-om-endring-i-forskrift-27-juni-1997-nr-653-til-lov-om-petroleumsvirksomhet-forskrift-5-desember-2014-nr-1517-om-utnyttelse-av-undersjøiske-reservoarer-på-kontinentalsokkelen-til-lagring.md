@@ -15,8 +15,9 @@ xml_hash: "40e3181db63ac09cffd3d8ff458b1c4033af5780ce0aea119e18b5209e47af4e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift 27. juni 1997 nr. 653 til lov om petroleumsvirksomhet, forskrift 5. desember 2014 nr. 1517 om utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 og om transport av CO2 på kontinentalsokkelen og forskrift 12. juni 2020 nr. 1192 til havenergilova

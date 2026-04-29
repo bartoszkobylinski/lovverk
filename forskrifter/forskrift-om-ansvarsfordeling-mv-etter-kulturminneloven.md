@@ -15,8 +15,9 @@ xml_hash: "4a80c19b8a0bbc5aa34643223cc87a77d8c87f97c0f62ff7ca65a9416451073c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om faglig ansvarsfordeling mv. etter kulturminneloven.

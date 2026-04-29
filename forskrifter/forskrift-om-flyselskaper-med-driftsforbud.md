@@ -15,8 +15,9 @@ xml_hash: "fab3b7fb51c42c19949f8f3dea60b473d8b13607f0ff6ec393bdbd2a1600d3be"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om flyselskaper som er underlagt driftsforbud og om plikt til å informere passasjerene om identiteten til det flyselskap som skal utføre en flyreise

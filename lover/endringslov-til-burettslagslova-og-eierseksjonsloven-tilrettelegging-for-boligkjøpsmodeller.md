@@ -15,8 +15,9 @@ xml_hash: "5f9edfeb4952c910ad86e6b7303a58d87586c986c960e752748689e392d21eaa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i burettslagslova og eierseksjonsloven (tilrettelegging for boligkjøpsmodeller)

@@ -15,8 +15,9 @@ xml_hash: "9090a8f9e8145676e9208811c9644460199b23379c6e4667b5185a5715a4de55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om universell utforming av lufthavner, og om funksjonshemmedes og bevegelseshemmedes rettigheter ved lufttransport

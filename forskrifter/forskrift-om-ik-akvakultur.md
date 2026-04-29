@@ -15,8 +15,9 @@ xml_hash: "67ee109cb791304850785b3bdff400e6ec9c950f617b56b1ab52a57c001b8fdb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om internkontroll for å oppfylle akvakulturlovgivningen (IK-Akvakultur)

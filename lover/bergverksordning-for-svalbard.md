@@ -15,8 +15,9 @@ xml_hash: "fa8fe23b9e32f2a202e56008127ca07ecbd9b89555c034f6ccbe7475a951a09d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Bergverksordning for Svalbard

@@ -15,8 +15,9 @@ xml_hash: "ec114c1f75e9a1409cf2c9e108951dfadb5b91f587a984b1b6a3f88fd19798b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fiske etter reker med fartøy fra Island i fiskevernsonen ved Svalbard.

@@ -15,8 +15,9 @@ xml_hash: "c8b9c5144dde598baeb0692712e7b5c47fd74fad0dae23c91718fde1df5222cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forskottserstatning ved skade på fiskeredskaper forårsaket av utenlandske trålere eller marinefartøy fra Nato land.

@@ -15,8 +15,9 @@ xml_hash: "28a65742b12fe3ecc802bf7096e2e64d2f7463d6f3e2d8bc3f953d3e7c1bd312"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Bestemmelser om klarering av adgang til og opphold på norsk territorium under fredsforhold for militære og sivile statsfartøyer mv. iht. avtale 11. desember 2008 nr. 36 mellom regjeringene i den euroarktiske Barentsregionen om samarbeid innen forebygging, beredskap og innsats rettet mot krisesituasjoner (heretter «avtalen»)

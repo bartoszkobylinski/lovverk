@@ -15,8 +15,9 @@ xml_hash: "0260cb15ad0f7c25bf0a4d0861526be2933de671fa3b215a8eecae883aa9f8f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fotografering, filmopptak og opptak for radio eller fjernsyn under hovedforhandling i straffesak

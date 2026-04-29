@@ -15,8 +15,9 @@ xml_hash: "e2542e430ea4c7ee432eecdbdb4749d0e5c855327aeb69642e2a32a035c5c66a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.

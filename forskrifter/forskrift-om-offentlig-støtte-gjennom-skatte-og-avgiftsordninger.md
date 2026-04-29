@@ -15,8 +15,9 @@ xml_hash: "ce676d8c1cf0a388389a9c45a77ccb5f6044fc2940a72cb815cf37521d3ec644"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig støtte gjennom skatte- og avgiftsordninger

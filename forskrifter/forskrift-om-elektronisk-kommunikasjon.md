@@ -15,8 +15,9 @@ xml_hash: "503f81030e76653712db39c92457041dd67a999f653e3f557f39c6dd3408a2a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elektronisk kommunikasjon med namsmannen og Statens innkrevingssentral i saker etter tvangsfullbyrdelsesloven og i saker for forliksrådet

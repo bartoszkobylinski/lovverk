@@ -15,8 +15,9 @@ xml_hash: "d199a822eb20d4c1a23398f8b35919cf46be1b8d804169e0df94a7aa07f82dd7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang til å delta i kystfartøygruppens fiske og enkelte andre fiskerier i 2025

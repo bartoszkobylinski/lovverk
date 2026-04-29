@@ -16,8 +16,9 @@ xml_hash: "ce9a69d2552224f6ed49c3466ba9f71dc98a42801db44210eeb454c0d613561c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av opprinnelsesbetegnelser, geografiske betegnelser og betegnelser for tradisjonelt særpreg på næringsmidler

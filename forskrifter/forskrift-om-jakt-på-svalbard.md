@@ -15,8 +15,9 @@ xml_hash: "041bea72a3e8ffc3e454ea589542392bd4202dbbf4fc3755dd425708e0d1022a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lokal regulering av jakt på svalbardrype og svalbardrein på Svalbard

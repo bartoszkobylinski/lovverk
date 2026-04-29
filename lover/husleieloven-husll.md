@@ -15,8 +15,9 @@ xml_hash: "38924a95d01aa3445cca1f0d0343ea427384e0c32bd5ea826664765b1898b558"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om husleieavtaler (husleieloven)

@@ -15,8 +15,9 @@ xml_hash: "f9f84cbf901b7c7a36b05a982574a9421dcd3296beaab3131bb275d13c8461f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om flytelefonistsertifikat (flytelefonistforskriften) BSL C 5-2a

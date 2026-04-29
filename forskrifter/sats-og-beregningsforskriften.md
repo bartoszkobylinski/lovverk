@@ -15,8 +15,9 @@ xml_hash: "6a6a3700d59b716edbb83dcbe97290f2ea11ca2f99d904f7c942d133b84f94da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om satser for og beregning av tilskudd ved produksjonssvikt i plante- og honningproduksjon (sats- og beregningsforskriften)

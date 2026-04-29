@@ -16,8 +16,9 @@ xml_hash: "fa11044827b595eb16704d36726d75fd2dfc21c018a6d66d8b0b0bb49743a358"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utvidet stønad til helsetjenester under opphold i utlandet

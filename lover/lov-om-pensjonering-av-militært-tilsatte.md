@@ -15,8 +15,9 @@ xml_hash: "634c64b6d512fc5a09d1ee21ff026e5fc7150eb9ff324c333931e654bfe8ac9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med redusert lønn og tjenesteplikt

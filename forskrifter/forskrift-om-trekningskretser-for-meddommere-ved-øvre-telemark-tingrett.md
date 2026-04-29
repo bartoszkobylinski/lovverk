@@ -15,8 +15,9 @@ xml_hash: "36bf50bc743a1a51897c53890e47f1741834d85ee71ddb7985d36a84d5349615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Øvre Telemark tingrett

@@ -15,8 +15,9 @@ xml_hash: "23e7f8c77d2526f08d98aac3bc019a8394a5d59c6af50861591f08e0942f180a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i enkelte forskrifter som følge av ikraftsetting av lov om innkreving av statlige krav mv. (innkrevingsloven)

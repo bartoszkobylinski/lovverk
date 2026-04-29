@@ -15,8 +15,9 @@ xml_hash: "7ac3c9d37f39f4e2600d891a5719caf83b17764bf989f3bf7da8f9f61f060f4c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om omsetning av alkoholholdig drikk mv.

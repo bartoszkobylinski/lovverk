@@ -15,8 +15,9 @@ xml_hash: "1d36ec93d742f5b99af4a8203898e24401a7e5b0b7e363ce04709e3d0a1e79a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.

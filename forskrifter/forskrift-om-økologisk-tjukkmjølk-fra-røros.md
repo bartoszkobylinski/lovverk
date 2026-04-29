@@ -15,8 +15,9 @@ xml_hash: "93e31d3063cb24dbd1c761e16249d5be24a45c6d356dde4e1462bc3d71291264"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av produktbetegnelsen Økologisk Tjukkmjølk fra Røros som Beskyttet geografisk betegnelse.

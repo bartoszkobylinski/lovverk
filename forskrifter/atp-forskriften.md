@@ -15,8 +15,9 @@ xml_hash: "80dcd38ac67d82dab74ad19cf394d8f4a257d39de07775b9d8f426935e3e577e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om internasjonal transport av lett bedervelige næringsmidler.

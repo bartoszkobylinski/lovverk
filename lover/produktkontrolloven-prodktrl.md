@@ -15,8 +15,10 @@ xml_hash: "268e38cb0bec16f23962e2151e4776655d22af443d246f39065e6d3395f2b12f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32001L0095"
 ---
 
 # Lov om kontroll med produkter og forbrukertjenester (produktkontrolloven)

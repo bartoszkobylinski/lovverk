@@ -15,8 +15,21 @@ xml_hash: "07e36db755f62bca9783155c6dcbd07feadfbc20601802200b6c9599dde87d23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32009L0024"
+  - "31993L0083"
+  - "31996L0009"
+  - "32001L0084"
+  - "32001L0029*"
+  - "32006L0116"
+  - "32006L0115"
+  - "32012L0028"
+  - "32014L0026"
+  - "32017R1128"
+  - "32017L1564"
+  - "32010L0013"
 ---
 
 # Lov om opphavsrett til åndsverk mv. (åndsverkloven)

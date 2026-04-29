@@ -15,8 +15,9 @@ xml_hash: "0cbf9ee2971e857389845f02fc75d9f03725de8d28c5ed9cec20bc21593f268e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studier ved NLA Høgskolen

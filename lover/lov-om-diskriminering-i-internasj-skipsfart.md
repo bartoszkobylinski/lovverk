@@ -15,8 +15,9 @@ xml_hash: "ad2afbaffb55b92633b5906b000a47f6244754517d0089f6d07ab661501dfb4e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om tiltak mot diskriminering i internasjonal skipsfart

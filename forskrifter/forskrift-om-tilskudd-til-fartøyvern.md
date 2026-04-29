@@ -15,8 +15,9 @@ xml_hash: "0c239ae860ae0dee212620b8b52d657cf4f446e8bed51d126e931ed37f0562fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til fartøyvern

@@ -15,8 +15,9 @@ xml_hash: "180e161fcbe1cf1a780f89b7c46c9f1a06c13b6f9403ed223f231f38185e6f12"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra medlemskap i folketrygden for person som er omfattet av eller mottar ytelser etter utenlandsk trygdelovgivning mv og vedkommendes familiemedlemmer

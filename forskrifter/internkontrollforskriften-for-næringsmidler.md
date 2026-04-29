@@ -17,8 +17,9 @@ xml_hash: "df5037951a6822c30cb3e68eb7211e5d23079228b69897f2f3f07833652721c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om internkontroll for å oppfylle næringsmiddellovgivningen

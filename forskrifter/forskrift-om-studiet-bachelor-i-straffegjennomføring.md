@@ -15,8 +15,9 @@ xml_hash: "3d4f66399b4f7c8c4739d8437aefcbfd2e41628e7db44b00bc14313a81c9369c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om studiet bachelor i straffegjennomføring

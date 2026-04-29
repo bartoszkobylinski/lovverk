@@ -15,8 +15,16 @@ xml_hash: "d20c8755af0f9fee7081ba5984ab08e186bac15d504cf453bcfdca0a97887781"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32010L0040"
+  - "32013R0885"
+  - "32013R0886"
+  - "32013R0305"
+  - "32015R0962"
+  - "32017R1926"
+  - "32022R0670"
 ---
 
 # Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven)

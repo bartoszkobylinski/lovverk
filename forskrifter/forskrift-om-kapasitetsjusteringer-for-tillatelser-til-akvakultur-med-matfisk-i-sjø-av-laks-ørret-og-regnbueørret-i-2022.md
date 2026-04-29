@@ -15,8 +15,9 @@ xml_hash: "879cd3212cfe56b443ce656e4039587db72d7df635445da7df1455c257b3160c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kapasitetsjusteringer for tillatelser til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2022

@@ -17,8 +17,9 @@ xml_hash: "9a712bcf8624648cca209f4d615ea72ad25d17303cef498cb4f697c82163e56b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)

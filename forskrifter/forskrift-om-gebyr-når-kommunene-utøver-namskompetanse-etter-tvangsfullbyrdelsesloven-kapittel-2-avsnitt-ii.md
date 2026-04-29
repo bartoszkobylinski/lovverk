@@ -15,8 +15,9 @@ xml_hash: "07091b6ec9e89c06c438b9c4b4a0a8601592832bed14910bb41bfdd03fcd95db"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gebyr når kommunene utøver namskompetanse etter tvangsfullbyrdelsesloven kapittel 2 avsnitt II

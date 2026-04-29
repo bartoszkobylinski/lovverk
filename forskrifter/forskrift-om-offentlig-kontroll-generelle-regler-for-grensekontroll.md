@@ -17,8 +17,9 @@ xml_hash: "a4c82b664ecdd41e5449c7d97ae693641320872ecfe86ee9d4673e55094c776c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om offentlig kontroll – generelle regler for grensekontroll forordning (EU) 2019/2123, forordning (EU) 2019/2126, forordning (EU) 2019/2129 og forordning (EU) 2019/2130

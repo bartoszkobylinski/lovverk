@@ -15,8 +15,9 @@ xml_hash: "50b81dddc16b5c1914a30a89ba6dcabffb95d798ecb36050fed4ce38904743d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om masterstudiene ved Arkitektur- og designhøgskolen i Oslo

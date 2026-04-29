@@ -15,8 +15,9 @@ xml_hash: "56cc567d5252c365820f04b1265bd32e6167cc91784e0ee40c8735db21e5476b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til etablering og drift av produsentsammenslutninger for potet- og grønnsaksprodusenter.

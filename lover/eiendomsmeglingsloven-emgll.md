@@ -15,8 +15,9 @@ xml_hash: "e5891d50b4fd2bc74903dcc9b0bf8af8409e76f38768fa5aeac0c95e573c42a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om eiendomsmegling (eiendomsmeglingsloven)

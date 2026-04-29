@@ -15,8 +15,9 @@ xml_hash: "ef6731c35f864d205d14c4fe2af6e68aadb2b7e1f777d21b47f231627d125537"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om grader, opptak, studier og eksamen ved VID vitenskapelige høgskole

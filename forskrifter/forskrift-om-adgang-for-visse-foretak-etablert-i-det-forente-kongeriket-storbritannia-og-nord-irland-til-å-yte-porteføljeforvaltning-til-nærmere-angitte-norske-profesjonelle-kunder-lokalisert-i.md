@@ -15,8 +15,9 @@ xml_hash: "3a386a73a10924e6dcaa7ae017ad1662a16b4d0b4fafe26f698aaf12392d4f65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang for visse foretak etablert i Det Forente Kongeriket Storbritannia og Nord-Irland til å yte porteføljeforvaltning til nærmere angitte norske profesjonelle kunder lokalisert i Norge

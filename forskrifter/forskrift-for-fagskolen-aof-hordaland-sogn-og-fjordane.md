@@ -15,8 +15,9 @@ xml_hash: "58c2a7baa11b6c17a4c467d7ec6ba14c692338d4811a4cbfd1d41e49ca069fdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift for Fagskolen AOF Hordaland – Sogn og Fjordane

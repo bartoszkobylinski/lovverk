@@ -15,8 +15,9 @@ xml_hash: "7a31d479f50088d9d74c4e2e8fd80e1238530d91c0ace49f98def95ecd56d08d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til sertifisert settepotetavl

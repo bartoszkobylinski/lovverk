@@ -15,8 +15,9 @@ xml_hash: "71321211e77abb109b1a7f8d8888d403c91bb83d878b74ed2d53c208d3e109c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om virksomheten i Norsk rikskringkasting under beredskap og i krig.

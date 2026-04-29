@@ -15,8 +15,9 @@ xml_hash: "139b03805e146796bf3859e4a39140d9eecaa82a338be6ca1f684ae97cc50591"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)

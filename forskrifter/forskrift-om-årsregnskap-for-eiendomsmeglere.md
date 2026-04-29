@@ -15,8 +15,9 @@ xml_hash: "d767c81f4195e5467a403cae30201440a47324bee04282a928ae7d9d1e10b7af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om årsregnskap m.m. for eiendomsmeglere.

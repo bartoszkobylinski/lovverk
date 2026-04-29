@@ -15,8 +15,9 @@ xml_hash: "496e66ff8a6397d65ad6625476ab17d786e8b3e0d3a880d19b5501d754e3810d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til ytelsesbasert navigasjon for ytere av lufttrafikkstyrings-/flysikringstjenester (ATM/ANS) og flyplassoperatører

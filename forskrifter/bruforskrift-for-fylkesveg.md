@@ -15,8 +15,9 @@ xml_hash: "e7c7987a1fd7b634ada96882447d3dd85be4b1a915ece46edf6ede3eb8eea06c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om standarder, fravik, kontroll, godkjenning m.m. ved prosjektering, bygging og forvaltning av bru, ferjekai og annen bærende konstruksjon på fylkesveg (bruforskrift for fylkesveg)

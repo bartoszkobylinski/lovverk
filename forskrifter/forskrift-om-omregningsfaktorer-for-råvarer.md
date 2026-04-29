@@ -15,8 +15,9 @@ xml_hash: "a7ee4c1622bdcdffb519d7621a0f87d9944561ceaa840bcf14efb1ebfbb608e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om omregningsfaktorer for råvarer til matmel og kraftfôrproduksjon ved fastsettelse av tollavgiftssatser og prisutjevningsbeløp

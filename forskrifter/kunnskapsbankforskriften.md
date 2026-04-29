@@ -15,8 +15,9 @@ xml_hash: "8f95b662f363bc24cd50a1316dda27a889cf6e111a7fb6fa44f8ff7adf119b62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av opplysninger om natur- og vannskader i Kunnskapsbanken (kunnskapsbankforskriften)

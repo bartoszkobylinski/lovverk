@@ -15,8 +15,9 @@ xml_hash: "7059fb685b7c361a28603bbd5b9fd5d35b89f6fe142e2c3de0fd52f0a4bc52f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om pass og nasjonalt ID-kort (pass- og ID-kortforskriften)

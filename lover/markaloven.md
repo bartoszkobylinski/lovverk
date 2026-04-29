@@ -15,8 +15,9 @@ xml_hash: "865a037745d212173949644a9762c2e228c12a6c841c53b7a69c5ba42891697c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om naturområder i Oslo og nærliggende kommuner (markaloven)

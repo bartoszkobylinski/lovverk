@@ -15,8 +15,9 @@ xml_hash: "31327771944d87a459c3aaa55106535c5f618b348ac2bd9b5ca4185e1b03e368"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift 29. juni 1990 nr. 492 om forenklet forelegg i vegtrafikksaker

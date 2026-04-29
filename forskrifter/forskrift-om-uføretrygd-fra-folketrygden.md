@@ -15,8 +15,9 @@ xml_hash: "f253f917471a6ad452a85ead58d10fb4603c1d76e78b4dd8d0f16a4d68798d33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om uføretrygd fra folketrygden

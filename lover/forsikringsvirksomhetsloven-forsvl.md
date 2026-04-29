@@ -15,8 +15,11 @@ xml_hash: "53c48ae4fa0562822c32f702d6e17c10fcf319077565f3cd3526104d1edffb72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32016L2341"
+  - "32003L0041"
 ---
 
 # Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)

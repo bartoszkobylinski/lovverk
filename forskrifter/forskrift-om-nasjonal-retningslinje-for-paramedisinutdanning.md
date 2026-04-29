@@ -15,8 +15,9 @@ xml_hash: "aa7fb7af06c857bd78686bed3483c190a2e51a90cd9b928c8292427b592df80c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om nasjonal retningslinje for paramedisinutdanning

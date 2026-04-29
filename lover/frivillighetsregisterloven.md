@@ -15,8 +15,9 @@ xml_hash: "9db8276572e48330dae1027c49864730ae059dc042909d313c868e9c29e106bf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om register for frivillig virksomhet

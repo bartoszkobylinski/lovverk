@@ -15,8 +15,9 @@ xml_hash: "9722d9c5783bde595c6dd09ab16621984c1ce049bac7ff10092987dcf4d3d65c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Schengen informasjonssystem (SIS-forskriften)

@@ -15,8 +15,9 @@ xml_hash: "12e546d71bb6577d383a79f51f562bb183ffd5b6111dfd462d9cae1fcccdbd9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilskudd til produsenter og slakterier som gjennomfører tiltak om økt slakting av kalv av storfe i 2025

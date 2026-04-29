@@ -15,8 +15,9 @@ xml_hash: "36a3d1c5fcfcf43ecefdb2af5aef9d0fa8e73225626fcf7beaa9ba0252b5c5fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser for gjennomføring av lov om endringar i partiloven

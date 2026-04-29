@@ -15,8 +15,9 @@ xml_hash: "9451351e79eb5c26f6d4f28349c5c9bd7492a565921a760f8bc0132e7c19bf27"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overenskomst mellom Norge og Storbritannia om gjensidig anerkjennelse og fullbyrdelse av dommer i sivile saker

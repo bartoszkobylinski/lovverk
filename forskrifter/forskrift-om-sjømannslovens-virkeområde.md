@@ -15,8 +15,9 @@ xml_hash: "250032b31d8463fc0d9660b1b5ffaa45f29fd531e46cfd2a0b9428b96b5c64b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sjømannslovens virkeområde

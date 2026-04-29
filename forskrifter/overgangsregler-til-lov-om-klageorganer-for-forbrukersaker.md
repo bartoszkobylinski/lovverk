@@ -15,8 +15,9 @@ xml_hash: "0c9dd4a17f59feab131b857b627434c391695f46056d633f969b9b6cf624bb28"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsregler til lov om klageorganer for forbrukersaker (gjennomføring av direktiv 2013/11/EU og forordning (EU) nr. 524/2013)

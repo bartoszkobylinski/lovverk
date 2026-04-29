@@ -15,8 +15,9 @@ xml_hash: "e9054a86cdf580a37e1f36fb39dab67ead77152c4b382f92fb5925fbcc380ae9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av fisket etter snabeluer (*S. mentella*) nord for 62° N i 2025

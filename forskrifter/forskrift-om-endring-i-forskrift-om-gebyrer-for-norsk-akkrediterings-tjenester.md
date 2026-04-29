@@ -15,8 +15,9 @@ xml_hash: "097562a28d6f179500539d7170c4a14602eb64c3baf59c77cb0a52ab9f7d8c37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om gebyrer for Norsk akkrediterings tjenester

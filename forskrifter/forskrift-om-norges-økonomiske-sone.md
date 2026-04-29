@@ -15,8 +15,9 @@ xml_hash: "b2c05ae33552dc189dfddd990edeb9d5ced3ec17874d26cc363c3ffc0946f101"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om iverksettelse av Norges økonomiske sone. Delegering av fullmakt.

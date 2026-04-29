@@ -15,8 +15,9 @@ xml_hash: "157827650c964b509b4b306d84a7b147bde2add9de10a5a656dbf92668ae616c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om lån til omsorgsboliger, sykehjemsplasser og lokaler for omsorgstiltak fra Husbanken

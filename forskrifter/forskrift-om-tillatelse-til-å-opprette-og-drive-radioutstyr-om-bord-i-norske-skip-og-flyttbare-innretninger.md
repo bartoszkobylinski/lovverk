@@ -15,8 +15,9 @@ xml_hash: "585898a10898e1fe915b4b2c4a27486b4b505979a3ff88487e2128b9879a40bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tillatelse til å opprette og drive radioutstyr om bord i norske skip og flyttbare innretninger

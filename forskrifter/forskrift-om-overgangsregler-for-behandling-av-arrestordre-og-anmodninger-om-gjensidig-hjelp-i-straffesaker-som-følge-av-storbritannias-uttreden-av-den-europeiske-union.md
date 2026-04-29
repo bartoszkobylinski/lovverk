@@ -15,8 +15,9 @@ xml_hash: "ec7530cfd8a393ef91a050822923d94d0f1f70f514a5a6ddf221462afc01ed90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for behandling av arrestordre og anmodninger om gjensidig hjelp i straffesaker som følge av Storbritannias uttreden av Den europeiske union

@@ -15,8 +15,9 @@ xml_hash: "e0a7acef9abf9869bd98dd3e769983492c72335b5bda69730fd538bc073ae0e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til kjøretøy.

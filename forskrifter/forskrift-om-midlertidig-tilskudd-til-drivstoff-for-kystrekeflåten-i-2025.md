@@ -15,8 +15,9 @@ xml_hash: "67aa80dc25c6d8b5c1856c9458f595c6b1e5d1383fb7a38faec96629c57180ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om midlertidig tilskudd til drivstoff for kystrekeflåten i 2025

@@ -15,8 +15,9 @@ xml_hash: "921d28e92e330b506e80923390d55614e3eee763156d7581f25f7cfff40398c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om godkjenning og registrering av utrykningskjøretøy

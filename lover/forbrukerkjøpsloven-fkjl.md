@@ -15,8 +15,10 @@ xml_hash: "37da48d846ced3ae8668096951ba88a1fba1f5d2245ee1aa2650d45c3775d9a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32019L0771"
 ---
 
 # Lov om forbrukerkjøp (forbrukerkjøpsloven)

@@ -15,8 +15,9 @@ xml_hash: "6342464ddf478c3ef76b565b0cae0802ae132e673a04d52401469f5389067374"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om elsikkerhet i elektronisk kommunikasjonsnett

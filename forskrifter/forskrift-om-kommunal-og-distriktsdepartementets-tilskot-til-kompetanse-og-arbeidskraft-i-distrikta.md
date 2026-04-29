@@ -15,8 +15,9 @@ xml_hash: "83ad335788bd958d77171ce1d2c5e6ef96197066f6264b0b01c8f0a9ebe1e0a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Kommunal- og distriktsdepartementets tilskot til kompetanse og arbeidskraft i distrikta

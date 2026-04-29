@@ -15,8 +15,9 @@ xml_hash: "04b58bf10c0e52dac9c278b5583e9acfbba404d1a1e5f0af0b9d4ce1dd439a50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om finansforetak og finanskonsern (finansforetaksforskriften)

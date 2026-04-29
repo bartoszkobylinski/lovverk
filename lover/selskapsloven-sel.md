@@ -15,8 +15,9 @@ xml_hash: "df620094db7445121c53fa0950e7a6c3ab2b3117e1dd97bc855b0b6ede6fb34e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)

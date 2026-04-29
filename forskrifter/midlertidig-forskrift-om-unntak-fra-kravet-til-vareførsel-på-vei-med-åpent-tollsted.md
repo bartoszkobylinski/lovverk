@@ -15,8 +15,9 @@ xml_hash: "221bd306f9b693a3c344f6da12d1c4e890405bc62fa035e79b9c1a5c3acaa8c7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om unntak fra kravet til vareførsel på vei med åpent tollsted

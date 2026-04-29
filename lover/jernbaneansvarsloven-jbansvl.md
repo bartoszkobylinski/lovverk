@@ -15,8 +15,9 @@ xml_hash: "63d4b54c827d863d3c1b69c21c5e025a20b45097f23bc07b5a54c10f39ce2679"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om jernbaneansvar (jernbaneansvarsloven)

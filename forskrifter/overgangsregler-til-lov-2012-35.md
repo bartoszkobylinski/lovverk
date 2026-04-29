@@ -15,8 +15,9 @@ xml_hash: "e5c6d8476b9a204175b5ac74706f60d402848989a2dce919b7d727016b7f24aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 22. juni 2012 nr. 35 om endringer i bokføringsloven, verdipapirhandelloven, eiendomsmeglingsloven m.m.

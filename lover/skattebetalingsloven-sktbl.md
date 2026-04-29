@@ -15,8 +15,9 @@ xml_hash: "ea67dba1bd0ab162e30ff2753da46fb4456436905a46fe9b57a72996e61c1370"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)

@@ -15,8 +15,9 @@ xml_hash: "84a7f58f0e4154769781660c7e02c131bd8d9707a3d24aabb7452e12a2d058a0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til lov 3. mai 2019 nr. 14 om endringer i innskuddspensjonsloven mv. (egen pensjonskonto)

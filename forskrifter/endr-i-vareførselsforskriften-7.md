@@ -15,8 +15,9 @@ xml_hash: "4a70b2a6acef3c49e78a825a85c684706b6d26a4d3ba99ca6014da451b6d6632"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)

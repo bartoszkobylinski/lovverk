@@ -15,8 +15,9 @@ xml_hash: "a956d09b4797cf9a7143e6c789b3d19c5d5f34c9184fe4296b4009cb4e0a202c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om i hvilke tilfelle vilkåret i forskotteringsloven om bosted og opphold i riket skal anses oppfyllt og om i hvilke tilfelle bidragsforskott kan utbetales i utlandet.

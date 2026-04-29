@@ -15,8 +15,9 @@ xml_hash: "cae586b93b86ec928b2b71aa691db8e9631a9471de7d71787a00483f23c81d77"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om inngåelse av avtale mellom Kongeriket Norge og Folkerepublikken Kina vedrørende gjensidig beskyttelse av investeringer

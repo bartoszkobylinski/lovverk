@@ -15,8 +15,9 @@ xml_hash: "1576436b7a7b28e4795b18e9ab06a9e958e2f50a2c6688b85bafb52e0d418605"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om administrative nedsettelser av tollavgiftssatser for landbruksvarer

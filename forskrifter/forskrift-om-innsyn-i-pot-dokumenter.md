@@ -15,8 +15,9 @@ xml_hash: "2d9ac18cdf1513797ecd68cb53d9d4778be408237557c34af2e4060c34e5517f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om å innhente samtykke til eller uttalelse om innsyn i dokumenter innhentet fra utenlandsk organ.

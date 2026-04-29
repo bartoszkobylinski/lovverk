@@ -15,8 +15,9 @@ xml_hash: "07bf51826dfd2ad85d186be370732aa1dc90a4c70ce50a080e9dc3ea5f9040f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tillatelse til akvakultur for laks, ørret og regnbueørret (laksetildelingsforskriften)

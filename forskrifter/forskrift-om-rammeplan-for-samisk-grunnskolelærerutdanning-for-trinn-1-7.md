@@ -15,8 +15,9 @@ xml_hash: "8bd0dd5f83b1e3fce67a2a4342969ee177e9c0b42d8f03b5227baf76fac07d97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rammeplan for samisk grunnskolelærerutdanning for trinn 1–7

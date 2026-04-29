@@ -15,8 +15,9 @@ xml_hash: "c7060b24176671bafb57c1503a514e89c32affb35101ac5d61eff467b022d577"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rekneskapsføring av pensjonsutgifter for Den norske kyrkja (rettssubjektet Den norske kyrkja)

@@ -15,8 +15,9 @@ xml_hash: "97c52deec7584bbd9d6b02bc4d1483a0331fc3354a52fe13cb8e15b4ef98ba68"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om bruk av kjøretøy

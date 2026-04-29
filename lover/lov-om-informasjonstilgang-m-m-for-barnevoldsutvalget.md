@@ -15,8 +15,9 @@ xml_hash: "32aa7d3f675ccd9223acb931b3d4559e66eb01b62b9e0b0a6bbd8e257953dba2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for Barnevoldsutvalget

@@ -15,8 +15,9 @@ xml_hash: "c3f1df0e378f632dc18c127809947939ca780757ccc694e1ad0bd41307807430"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om plikt for fiske- og fangstfartøy til å lytte på radio (kanal 16) og besvare anrop

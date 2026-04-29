@@ -15,8 +15,9 @@ xml_hash: "1e4a79dfc9eda1eb8dee895aeb6dc6b0bde5d4655462414c66e5a632be9a6897"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter vedrørende sivilprosesskonvensjonen av 30. januar 1931 mellom Norge og Storbritannia.

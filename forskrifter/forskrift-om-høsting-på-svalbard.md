@@ -15,8 +15,9 @@ xml_hash: "af7509960d5e8a26b459ae05e9d7560a37e952d2bae50726d533e7acbd8bce45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om høsting på Svalbard

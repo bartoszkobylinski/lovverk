@@ -17,8 +17,9 @@ xml_hash: "9ce2ea56712078e6ce37c9ea1a106f3b79a0bf782b32471c004a9209eb48847d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring av forskrift om betaling av gebyr for særskilte ytelser fra Mattilsynet

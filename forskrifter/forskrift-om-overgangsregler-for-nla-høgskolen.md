@@ -15,8 +15,9 @@ xml_hash: "9b75a8fe81c7e0c6be31f2d85f30567fdc6684136187376b787ae84a56aac84c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler for NLA Høgskolen

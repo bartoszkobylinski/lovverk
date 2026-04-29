@@ -15,8 +15,9 @@ xml_hash: "b5b6d4c6fd566c46d9a2d6bcbc5d5da8d5ff71d77bec708090042aea1b570e7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser etter naturmangfoldloven § 77 i forbindelse med erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven

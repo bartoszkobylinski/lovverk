@@ -15,8 +15,9 @@ xml_hash: "16fd5c01b355ee6a2639b1567b3d49de97293cad0f2b702cf2af46fb5323ce42"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa

@@ -15,8 +15,9 @@ xml_hash: "74bfb345567aa4683c98b31e6b80832cd71742d730397bc8788f09f9a77acd53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om gjennomføring av kommisjonsforordning (EU) nr. 1301/2014 av 18. november 2014 om de tekniske spesifikasjonene for samtrafikkevne som gjelder for delsystemet «energi» i den europeiske unions jernbanesystem (TSI ENE-forskriften)

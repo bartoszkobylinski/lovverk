@@ -15,8 +15,9 @@ xml_hash: "e102ddbe33b0804b1ef29510582cad3ce7306dcb047289ae92ee2717a4d0c392"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kvalifikasjonskrav for ansatte i folkebibliotek

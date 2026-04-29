@@ -15,8 +15,9 @@ xml_hash: "4c710c62b200ee410e229c784837cb10ed1675d7ec3c11bfffbf3be4b652d33b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om kommunal betaling for utskrivingsklare pasienter

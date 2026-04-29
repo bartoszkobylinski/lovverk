@@ -15,8 +15,9 @@ xml_hash: "3830852d69a97bad05ead49b6b8a99a595a4d0c4212a2b9f2a05eb9ece2133cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om beskyttelse av produktbetegnelsen Fjellmandel fra Oppdal som Beskyttet geografisk betegnelse.

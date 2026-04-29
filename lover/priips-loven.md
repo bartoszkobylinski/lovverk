@@ -15,8 +15,13 @@ xml_hash: "a046aa16279cdd0ddba1808ea77fc815c0243d4c6c62134c7d82775a46a32e07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis:
+  - "32014R1286"
+  - "32016R2340"
+  - "32019R1156"
+  - "32021R2259"
 ---
 
 # Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven)

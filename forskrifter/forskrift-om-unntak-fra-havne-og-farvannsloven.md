@@ -15,8 +15,9 @@ xml_hash: "50638d6d292f63784e2946616c79a52a2ce4867b7a0ca40869b294e504b30016"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra lov om havner og farvann for sjø- og landområder samt arbeid, anlegg og tiltak knyttet til forsvarsmessige formål

@@ -15,8 +15,9 @@ xml_hash: "f9140bc397b73c3dead9c6616c8f6e43930ffa8462102010c2507116a610e8c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om forbud mot å stille ut hunder som har fått øre og/eller hale kupert

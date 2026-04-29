@@ -15,8 +15,9 @@ xml_hash: "b02fb3cdfc41f579475ac8bf551ac9d601bc9105b210d7d9a4e40cf587c06c79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om militære rekvisisjoner [rekvisisjonsloven]

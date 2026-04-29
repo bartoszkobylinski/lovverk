@@ -15,8 +15,9 @@ xml_hash: "db89ba6cdd1e52ff664496f6324b3730d56aaab5c679c48a83a49a20b668e9e9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til føring av atskilte regnskaper mv.

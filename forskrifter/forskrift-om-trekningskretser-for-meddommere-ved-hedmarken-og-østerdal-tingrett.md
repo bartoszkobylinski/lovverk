@@ -15,8 +15,9 @@ xml_hash: "2028c47b696ec509fcce8de87c49f136387c83e532a34ebd43e0c1e39cca6b7e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om trekningskretser for meddommere ved Hedmarken og Østerdal tingrett

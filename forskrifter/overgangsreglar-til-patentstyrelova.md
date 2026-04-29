@@ -15,8 +15,9 @@ xml_hash: "82882dec51e7a2e020f1bf7714a7e50e6b76cd1306d37be606c0fd82218b6473"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Overgangsreglar til lov 22. juni 2012 nr. 58 om Patentstyret og Klagenemnda for industrielle rettar

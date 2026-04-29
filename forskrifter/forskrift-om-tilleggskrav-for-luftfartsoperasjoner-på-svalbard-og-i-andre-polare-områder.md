@@ -15,8 +15,9 @@ xml_hash: "bda0f91e6efb8dcfdd00b5d83e923c2a3021a51240ee65def3c361a4a03b204d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om tilleggskrav for luftfartsoperasjoner på Svalbard og i andre polare områder

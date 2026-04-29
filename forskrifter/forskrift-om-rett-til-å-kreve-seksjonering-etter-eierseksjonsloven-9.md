@@ -15,8 +15,9 @@ xml_hash: "d110c202d352c52e2cf11864c4ade393abc299e40d380de6eea493619476202e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om rett til å kreve seksjonering etter eierseksjonsloven § 9

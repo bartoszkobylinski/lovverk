@@ -16,8 +16,9 @@ xml_hash: "528a3519f5125271b05b9b08df7f6252aaee297e2633deeb9514e9e8e8553350"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om støtte som følge av ekstraordinære utgifter til elektrisk kraft for jordbruksforetak, veksthus og vanningslag

@@ -15,8 +15,9 @@ xml_hash: "6cd5e44fc2d8b4b8a1d3e4539430b96b94dc5709a8436fa520aad9ecdc809749"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring

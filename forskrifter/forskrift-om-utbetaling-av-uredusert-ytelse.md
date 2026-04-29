@@ -15,8 +15,9 @@ xml_hash: "00afe5a04a1b2a9a3c4f52593afe0e1cc4d48a377bb46b3fbd6fb434a2d596ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om adgang til å utbetale uredusert ytelse for visse persongrupper i institusjon

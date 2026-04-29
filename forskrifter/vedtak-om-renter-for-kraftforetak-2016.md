@@ -15,8 +15,9 @@ xml_hash: "51877c6748206f734ae266fb7ad6c1bdfb6e3e6e7a852144bce1ba3416068de4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Vedtak om fastsettelse av renter for beskatning av kraftforetak for inntektsåret 2016

@@ -15,8 +15,9 @@ xml_hash: "0b6163265dfa92f5acfcc2cb2cbabd5d097afd334b0f1796e1d005ef4768d870"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om behandling av personopplysninger i Lånekassen

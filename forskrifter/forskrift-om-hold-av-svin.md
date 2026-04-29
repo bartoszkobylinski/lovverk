@@ -15,8 +15,9 @@ xml_hash: "1e7593f322c1677130c037d0d3a087fa7bff472d13ad8a58612858fa24ce279d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om hold av svin

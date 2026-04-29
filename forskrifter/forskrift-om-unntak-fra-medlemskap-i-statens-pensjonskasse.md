@@ -15,8 +15,9 @@ xml_hash: "5846ab7a5ae2788f1b7c9b644c182a82a04bb50b9a92ff6509ff85f411b92774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om unntak fra medlemskap i Statens pensjonskasse

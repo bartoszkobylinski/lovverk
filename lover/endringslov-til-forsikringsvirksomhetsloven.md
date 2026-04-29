@@ -15,8 +15,9 @@ xml_hash: "9d7a29590bbb0faa961906b289aad4174f37e2a4c720aa4fca2320c97526e888"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring)

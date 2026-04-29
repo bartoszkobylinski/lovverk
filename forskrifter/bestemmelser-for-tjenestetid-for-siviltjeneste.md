@@ -15,8 +15,9 @@ xml_hash: "6d2ee861f7dab35e376bb2d8ff5ffd79e7e6ac8ed9b43c88b3155c46b0a102ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Bestemmelser for gjennomføring av nye tjenestetidsbestemmelser for mannskap som er fritatt for militærtjeneste etter lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner.

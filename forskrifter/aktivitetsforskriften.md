@@ -17,8 +17,9 @@ xml_hash: "3ea468a01bafbe13c7b40a2252a2e058b15845a406f1b9f8f5acd3170d973cce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)

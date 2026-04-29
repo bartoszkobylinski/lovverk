@@ -15,8 +15,9 @@ xml_hash: "836730d2ec07008293760c46b432fe57924a5d602e69fb3755c7e249d25e3e70"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om ikraftsetting av lov 27. juni 2008 nr. 63 om endringer i lov 12. juni 1981 nr. 52 om verdipapirfond mv. (regler om spesialfond) og lov 11. desember 2009 nr. 120 om endringer i lov 12. juni 1981 nr. 52 om verdipapirfond, og endringer i enkelte forskrifter til lov 12. juni 1981 nr. 52 om verdipapirfond

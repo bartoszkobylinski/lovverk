@@ -15,8 +15,9 @@ xml_hash: "2c2f92262d89cfc5cb220686858e29db2441cc81e619db2dd33a7f4fbb05d72b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om omdanning av Statens vegvesens produksjonsvirksomhet til statlig aksjeselskap

@@ -15,8 +15,9 @@ xml_hash: "23fea835fc3d707ad497025d3a151eef255ae5c14089fd372e9babfb604ae034"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om innskrenkning av COTIF-lovens virkeområde.

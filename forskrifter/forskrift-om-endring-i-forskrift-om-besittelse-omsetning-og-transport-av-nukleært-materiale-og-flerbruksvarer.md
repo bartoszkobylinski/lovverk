@@ -15,8 +15,9 @@ xml_hash: "a3ca3c7059d7db4e66fa39982198199fc1e3e48c1e1eddcf17583ae00a818add"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer

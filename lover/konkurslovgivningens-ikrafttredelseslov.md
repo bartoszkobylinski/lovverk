@@ -15,8 +15,9 @@ xml_hash: "cfdd248d8b7121708390e66600d409df2f6de04f55e1f9849fdbd3bdb37f86fd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om ikrafttredelse av ny gjeldsforhandlings- og konkurslovgivning m m

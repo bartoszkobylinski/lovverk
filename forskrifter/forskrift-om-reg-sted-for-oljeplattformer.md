@@ -15,8 +15,9 @@ xml_hash: "1798d2a1808a24386a4243e4f7abc0f1d159a3219238c750566567874c6efaba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om registreringssted for innføring i skipsregisteret av faste innretninger for undersøkelse etter og utnytting m m av undersjøiske naturforekomster.

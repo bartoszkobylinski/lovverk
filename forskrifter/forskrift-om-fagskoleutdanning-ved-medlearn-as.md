@@ -15,8 +15,9 @@ xml_hash: "9d9b80cdf1629587ea32687504fe5af73033d0d7d7653c31020f7f2c91814aa5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fagskoleutdanning ved Medlearn AS

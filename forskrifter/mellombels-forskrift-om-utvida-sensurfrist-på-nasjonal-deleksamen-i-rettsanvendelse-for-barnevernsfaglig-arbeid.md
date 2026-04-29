@@ -15,8 +15,9 @@ xml_hash: "786db1888cd2e37a3929108de082eb44f65031db57b6b84792d24db9038e22f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Mellombels forskrift om utvida sensurfrist på nasjonal deleksamen i rettsanvendelse for barnevernsfaglig arbeid

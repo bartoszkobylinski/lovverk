@@ -17,8 +17,9 @@ xml_hash: "928539ba6d06e3ed3e642431a6721e0e0aba12a098e5a6dcc8720798c2771ebb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om helsesertifikater – akvatiske dyr og visse animalske produkter derav – forordning (EU) 2020/2236 (akvakulturhelsesertifikatforskriften)

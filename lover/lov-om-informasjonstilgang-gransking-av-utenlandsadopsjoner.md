@@ -15,8 +15,9 @@ xml_hash: "91b532d376d696964e2e94e1456d8b6bdf4be9641fc2dfb314906d1f37542be9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om informasjonstilgang m.m. for utvalget som skal granske utenlandsadopsjoner til Norge

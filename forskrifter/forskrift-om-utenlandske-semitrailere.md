@@ -15,8 +15,9 @@ xml_hash: "a39cfc3e562660afc9541f507e9051efdfcae22eab4e75e4c847ea2612e252de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrifter om trekking av uregistrerte belgiske, britiske og nederlandske semitrailere i internasjonal trafikk i Norge med norsk trekkvogn.

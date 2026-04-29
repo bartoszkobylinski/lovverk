@@ -15,8 +15,9 @@ xml_hash: "f879aa84639f3f5c90d494733fc64be087b2f4d5e0c01565cb56b51e2388d4bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overføring av fullmakter til Forbruker- og administrasjonsdepartementet vedrørende Norsk lysingsblad.

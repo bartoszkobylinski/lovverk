@@ -15,8 +15,9 @@ xml_hash: "b71b5939b6a550ad111a839f0c5658c8dab3ed43d9873947760b9fa027520ae8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om erstatning fra staten til voldsutsatte (voldserstatningsloven)

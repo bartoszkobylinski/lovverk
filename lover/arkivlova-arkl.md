@@ -15,8 +15,9 @@ xml_hash: "c1ff38d55a035e42cf8db279e29d47dfe5b57cd2ba8890e68cce6f831c77d6bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om arkiv [arkivlova]

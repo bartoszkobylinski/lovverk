@@ -15,8 +15,9 @@ xml_hash: "68abf89f8ff2069d5ff6ada394b29eb7fe87d683ea5f34da51bd4871cab3c2b4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)

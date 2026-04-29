@@ -15,8 +15,9 @@ xml_hash: "96949b20bf1e6ad4e723b7334774f2fa09bce88a0b1870d3f4a8037dcf229ee9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Statens pensjonskasse

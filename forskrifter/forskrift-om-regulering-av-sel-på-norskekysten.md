@@ -15,8 +15,9 @@ xml_hash: "ee475d2b8bc97f61262cf3db3435fc00e1d378eefc36cbae3563f20add0838d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regulering av sel på norskekysten

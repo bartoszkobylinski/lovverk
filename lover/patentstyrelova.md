@@ -15,8 +15,9 @@ xml_hash: "eb29d3d9c4f4c7397f41c4a295e9e997e18d1b99617bf1669d11e908af3d1ca6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova)

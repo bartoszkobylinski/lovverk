@@ -15,8 +15,9 @@ xml_hash: "90233b9fd62d69df6c9dfa663234a08f018cdb04db1b961009986db1fa395e63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Lov om avgift på offentlig framføring av utøvende kunstneres prestasjoner m.v.

@@ -15,8 +15,9 @@ xml_hash: "570ae4415bddd56f9eeb19bea97545811b881af663bb3f36c7e9183fec54e949"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om administrative ordninger på arbeidsmiljølovens område (forskrift om administrative ordninger)

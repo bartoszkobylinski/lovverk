@@ -15,8 +15,9 @@ xml_hash: "efee32b848d514a91ee333b46d85ac8deabe8f20ad3e7e05660ea277fdf8302f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Kunngjøring av rentesats for inntektsåret 2016 til bruk ved fremføring av underskudd og friinntekt etter forskrift 30. april 1993 nr. 316 om skattlegging av inntekt vunnet ved utvinning og rørledningstransport av petroleum

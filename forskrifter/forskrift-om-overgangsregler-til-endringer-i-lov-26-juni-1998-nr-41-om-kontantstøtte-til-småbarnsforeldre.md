@@ -15,8 +15,9 @@ xml_hash: "109ea9a72a5649a1042f5aa8f47ece7495228f8cef511ae1a0fa1f078d1bd118"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsregler til endringer i lov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldre (kontantstøtteloven)

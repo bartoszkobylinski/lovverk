@@ -15,8 +15,9 @@ xml_hash: "6c16f5e886649cf0c5c0487aeaaceaafb8b13665a55f4aa292b7125822febf43"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om overgangsbestemmelser til lov av 10. januar 2003 nr. 1 om endringer i lov om frivillig og tvungen gjeldsordning for privatpersoner mv. (gjeldsordningsloven)

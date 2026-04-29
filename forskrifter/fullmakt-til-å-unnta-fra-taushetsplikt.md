@@ -15,8 +15,9 @@ xml_hash: "5725beb4c606bda55c3bd030c1ae083be190da1f5d5db1d92abe3b3d41165b5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Fullmakt til å gjøre unntak fra tvistemålslovens og straffeprosesslovens bestemmelser om taushetsplikt for lover under Konkurransetilsynet.

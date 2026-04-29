@@ -15,8 +15,9 @@ xml_hash: "944620510cfd43a37ee935e1fd2e18a9337f1e9d5dab2565989f5ac497366e8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om sikring av havner

@@ -15,8 +15,9 @@ xml_hash: "c7c2e756f5b675c31473e727711154f63941dec1331b0373e03dcee279b29b4b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om endring i forskrift om fastsettelse av tariffer mv. for bestemte innretninger

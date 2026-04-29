@@ -15,8 +15,9 @@ xml_hash: "8651f24470b6864ec6e9359ef6912c446b1c262f6743b6c680f34b9db869a12c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om regler for utdanningsstøtte for 2019–2020 som følge av utbruddet av koronavirus (covid-19)

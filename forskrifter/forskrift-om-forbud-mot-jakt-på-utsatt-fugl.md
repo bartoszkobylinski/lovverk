@@ -15,8 +15,9 @@ xml_hash: "81649ea471f952280fa2d879ddd7bf5ac2661abe5f6698d2eed0d4db9bbcab90"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Midlertidig forskrift om forbud mot jakt på utsatt fugl

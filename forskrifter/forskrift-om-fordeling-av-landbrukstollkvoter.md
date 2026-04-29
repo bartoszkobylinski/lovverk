@@ -15,8 +15,9 @@ xml_hash: "dd11ff8773a84d38ae842c9909194063311914f392cdbe5297929b969bbd1250"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om fordeling av tollkvoter for landbruksvarer

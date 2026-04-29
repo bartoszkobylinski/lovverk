@@ -15,8 +15,9 @@ xml_hash: "65eab401b7d7a1b638dc1fb9f5674420c6d5427aab57f113ba4e797d868697f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-27T06:49:01.472929+00:00"
+retrieved_at: "2026-04-29T11:20:30.048320+00:00"
 status: "current"
+eu_basis: []
 ---
 
 # Forskrift om krav til ikke-automatiske vekter
