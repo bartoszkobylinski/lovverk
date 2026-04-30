@@ -1,6 +1,16 @@
 # endringslov-til-helsetilsynsloven-mv — Change history
 
-_2 events; doc_id `nl-20250620-074`._
+_4 events; doc_id `nl-20250620-074`._
+
+## 2026-04-30 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): endringslov-til-helsetilsynsloven-mv`
+Commit: `4091051`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20250620-074.md` → `lover/endringslov-til-helsetilsynsloven-mv.md`.

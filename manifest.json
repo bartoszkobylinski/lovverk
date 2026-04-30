@@ -2506,15 +2506,15 @@
     "nl-19830603-054": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/tannhelsetjenesteloven-tannhl.md",
       "slug": "tannhelsetjenesteloven-tannhl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tannhelsetjenesten (tannhelsetjenesteloven)",
-      "total_changes": null,
-      "xml_hash": "5ac0415de2351f4f8e350622d677981fe82db1939ffa5a12e0fbde8ef8556527"
+      "total_changes": 4,
+      "xml_hash": "aa73e18aa7a07b741e6b7d8663c12e2953749cfd7a32cf2a4198564796feb2b0"
     },
     "nl-19831223-076": {
       "doc_type": "lov",
@@ -4135,15 +4135,15 @@
     "nl-19990702-061": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/spesialisthelsetjenesteloven-sphl.md",
       "slug": "spesialisthelsetjenesteloven-sphl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)",
-      "total_changes": null,
-      "xml_hash": "c22bb7db66439eff3521803dba36d3cf634a07a2d34a7ff33ae17ef183301bdb"
+      "total_changes": 4,
+      "xml_hash": "d931d7e6d74d4e70e14d9c321d2b3e106ae219c97a73f1e2ce811451e7888411"
     },
     "nl-19990702-062": {
       "doc_type": "lov",
@@ -4161,15 +4161,15 @@
     "nl-19990702-063": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/pasient-og-brukerrettighetsloven-pbrl.md",
       "slug": "pasient-og-brukerrettighetsloven-pbrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)",
-      "total_changes": null,
-      "xml_hash": "6238b4beb61c89320697715a4f524fb9a0df16a59cc8b81a10b5c268b659a7df"
+      "total_changes": 4,
+      "xml_hash": "ef6bbc36ac246ccc38591fde77142cc2f59fae1d015d269c99b3c400211a90bb"
     },
     "nl-19990702-064": {
       "doc_type": "lov",
@@ -6289,15 +6289,15 @@
     "nl-20110624-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/helse-og-omsorgstjenesteloven-hol.md",
       "slug": "helse-og-omsorgstjenesteloven-hol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)",
-      "total_changes": null,
-      "xml_hash": "25fa9ea2e3fb70e71df74973a2206cbdf0bee351296ab9196c9bc1ec003b1ad2"
+      "total_changes": 4,
+      "xml_hash": "f67b6557ba525cfba0593de3ef373c27fa78f1a21d2c09b0d3a7b289a024e699"
     },
     "nl-20110624-039": {
       "doc_type": "lov",
@@ -7519,15 +7519,15 @@
     "nl-20170616-056": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/lov-om-statens-undersøkelseskommisjon-for-helse-og-omsorgstjenesten.md",
       "slug": "lov-om-statens-undersøkelseskommisjon-for-helse-og-omsorgstjenesten",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten",
-      "total_changes": null,
-      "xml_hash": "ffe567476ec22ede8657472cb823193158a997f69c3a9f14297ab8aa219befb8"
+      "total_changes": 4,
+      "xml_hash": "cda604b4cec7b851ff0304f4415360e5867d0791f67a54c17bd1844f76d19f9a"
     },
     "nl-20170616-060": {
       "doc_type": "lov",
@@ -7613,15 +7613,15 @@
     "nl-20171215-107": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/helsetilsynsloven.md",
       "slug": "helsetilsynsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven)",
-      "total_changes": null,
-      "xml_hash": "b529a16d7e2ffa91c776e61c434383be570bdb82e46855e7a9e852b61b86cbb9"
+      "total_changes": 4,
+      "xml_hash": "e332c557989c0ff9742cc854147e2ab07f106c06996d9f9f263591796876e426"
     },
     "nl-20171215-112": {
       "doc_type": "lov",
@@ -8180,15 +8180,15 @@
     "nl-20200417-029": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/lov-om-god-handelsskikk-i-dagligvarekjeden.md",
       "slug": "lov-om-god-handelsskikk-i-dagligvarekjeden",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om god handelsskikk i dagligvarekjeden",
-      "total_changes": null,
-      "xml_hash": "3f059ac59941e681924c881d2a9958e400032265d61a329459c2bd776d0ef85c"
+      "total_changes": 4,
+      "xml_hash": "56864a3b21ac219d308da64e2e6ef1ec1cb74e08b702862f212475435a4839e9"
     },
     "nl-20200424-031": {
       "doc_type": "lov",
@@ -9968,15 +9968,15 @@
     "nl-20250620-074": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "lover/endringslov-til-helsetilsynsloven-mv.md",
       "slug": "endringslov-til-helsetilsynsloven-mv",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i helsetilsynsloven mv. (ny meldeordning for alvorlige hendelser i helse- og omsorgstjenesten)",
-      "total_changes": null,
-      "xml_hash": "70f08945ece81cfee4d9a093f2e0f97e4ea3ccc234910226cccf8dd900bc076c"
+      "total_changes": 4,
+      "xml_hash": "d447c2739917fd5cbccfafabbf1aa20f84c50df535f149a227f17b01d8de2d50"
     },
     "nl-20250620-075": {
       "doc_type": "lov",
@@ -24953,15 +24953,15 @@
     "sf-20051220-1798": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "forskrifter/forskrift-om-studier-og-eksamener-ved-uio.md",
       "slug": "forskrift-om-studier-og-eksamener-ved-uio",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studier og eksamener ved Universitetet i Oslo",
-      "total_changes": null,
-      "xml_hash": "6c3baf5fb96d4511db13653aa03e6655b033c452c51bf61fd6a24af38d76c147"
+      "total_changes": 4,
+      "xml_hash": "67a0504503629e95fb40ebe17137efea171d30741ff50adec29706c114d54a1d"
     },
     "sf-20051221-1656": {
       "doc_type": "forskrift",
@@ -46507,15 +46507,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-04-30",
+      "last_seen": "2026-04-30T06:25:40.160175Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": null,
-      "xml_hash": "24c8e3959d8917ac7faa44e8563786fb19af0d3434990612926cf42236c8de17"
+      "total_changes": 5,
+      "xml_hash": "2690d73c4e6ce5d1788fb032d0a000822dfc407b2f6ed2c302ec4dbd1322964d"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -59258,6 +59258,6 @@
       "xml_hash": "b32cb97c0917233fb616c64e25cf1c3562c4946a38fa22d462a436665022cb7d"
     }
   },
-  "generated_at": "2026-04-29T11:20:30.048320Z",
+  "generated_at": "2026-04-30T06:25:40.160175Z",
   "version": 1
 }

@@ -1,6 +1,16 @@
 # forskrift-om-studier-og-eksamener-ved-uio — Change history
 
-_2 events; doc_id `sf-20051220-1798`._
+_4 events; doc_id `sf-20051220-1798`._
+
+## 2026-04-30 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-studier-og-eksamener-ved-uio`
+Commit: `52c98d3`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20051220-1798.md` → `forskrifter/forskrift-om-studier-og-eksamener-ved-uio.md`.

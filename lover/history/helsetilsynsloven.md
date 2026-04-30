@@ -1,6 +1,16 @@
 # helsetilsynsloven — Change history
 
-_2 events; doc_id `nl-20171215-107`._
+_4 events; doc_id `nl-20171215-107`._
+
+## 2026-04-30 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): helsetilsynsloven`
+Commit: `87268bf`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20171215-107.md` → `lover/helsetilsynsloven.md`.

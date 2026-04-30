@@ -1,6 +1,16 @@
 # pasient-og-brukerrettighetsloven-pbrl — Change history
 
-_2 events; doc_id `nl-19990702-063`._
+_4 events; doc_id `nl-19990702-063`._
+
+## 2026-04-30 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): pasient-og-brukerrettighetsloven-pbrl`
+Commit: `9c9aa81`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990702-063.md` → `lover/pasient-og-brukerrettighetsloven-pbrl.md`.

@@ -1,6 +1,16 @@
 # dyreimportforskriften — Change history
 
-_3 events; doc_id `sf-20220406-0633`._
+_5 events; doc_id `sf-20220406-0633`._
+
+## 2026-04-30 — Content updated
+Lines: +14 -74.
+Subject: `update(forskrift): dyreimportforskriften`
+Commit: `8e32186`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-29 — Content updated
 Lines: +13 -7.
