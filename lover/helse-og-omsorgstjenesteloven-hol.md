@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2025-09-01"
 last_updated: "2021-07-01"
-xml_hash: "25fa9ea2e3fb70e71df74973a2206cbdf0bee351296ab9196c9bc1ec003b1ad2"
+xml_hash: "f67b6557ba525cfba0593de3ef373c27fa78f1a21d2c09b0d3a7b289a024e699"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -666,7 +666,7 @@ Statsforvalteren skal føre tilsyn med lovligheten av kommunens oppfyllelse av p
 
 Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
 
-> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 12-4. Særlige bestemmelser ved opphold i institusjon
 
