@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1984-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2021-07-01"
-xml_hash: "5ac0415de2351f4f8e350622d677981fe82db1939ffa5a12e0fbde8ef8556527"
+xml_hash: "aa73e18aa7a07b741e6b7d8663c12e2953749cfd7a32cf2a4198564796feb2b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,7 +110,7 @@ Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten ett
 
 Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen, eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
 
-> Tilføyd ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (i kraft 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (i kraft 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 1-8. Folkerettslige forpliktelser om trygdekoordinering
 
