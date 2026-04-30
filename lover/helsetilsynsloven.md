@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-07-01"
 last_change_in_force: "2025-06-20"
 last_updated: "2021-07-01"
-xml_hash: "b529a16d7e2ffa91c776e61c434383be570bdb82e46855e7a9e852b61b86cbb9"
+xml_hash: "e332c557989c0ff9742cc854147e2ab07f106c06996d9f9f263591796876e426"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Lovens formål er å etablere et statlig tilsyn som bidrar til å styrke sikkerheten og kvaliteten i helse- og omsorgstjenesten og befolkningens tillit til helsepersonell og helse- og omsorgstjenesten.
 
-> **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ## § 2. Lovens virkeområde
 
@@ -58,7 +58,7 @@ Statsforvalteren skal holde Statens helsetilsyn orientert om forholdene i helse-
 
 Departementet kan i forskrift fastsette nærmere bestemmelser om tilsynsmyndighetenes saksbehandling.
 
-> Endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. res. [28 april 2023 nr. 613](forskrift/2023-04-28-613)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. res. [28 april 2023 nr. 613](forskrift/2023-04-28-613)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ## § 5. Plikt til å opprette internkontrollsystem og tilsyn med at det føres internkontroll
 
@@ -80,7 +80,7 @@ Når Statens helsetilsyn mottar varsel etter første eller andre ledd, skal tils
 
 Departementet kan i forskrift gi nærmere bestemmelser om varsling som nevnt i første ledd, herunder om innholdet i varslene.
 
-> Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ## § 7. Plikt til å gi opplysninger til tilsynsmyndigheten mv.
 
