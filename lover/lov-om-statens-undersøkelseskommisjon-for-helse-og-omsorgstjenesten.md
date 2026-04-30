@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-06-15"
 last_change_in_force: "2021-07-01"
 last_updated: "2022-03-23"
-xml_hash: "ffe567476ec22ede8657472cb823193158a997f69c3a9f14297ab8aa219befb8"
+xml_hash: "cda604b4cec7b851ff0304f4415360e5867d0791f67a54c17bd1844f76d19f9a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Pasienter, brukere eller nærmeste pårørende kan varsle undersøkelseskommisjo
 
 Når undersøkelseskommisjonen har mottatt varsel etter første eller andre ledd skal den uten ugrunnet opphold avgjøre om det skal iverksettes undersøkelse.
 
-> Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ## § 8. Underretning og adgang til å uttale seg
 
