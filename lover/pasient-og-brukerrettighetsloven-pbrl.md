@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-31"
-xml_hash: "6238b4beb61c89320697715a4f524fb9a0df16a59cc8b81a10b5c268b659a7df"
+xml_hash: "ef6bbc36ac246ccc38591fde77142cc2f59fae1d015d269c99b3c400211a90bb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -284,7 +284,7 @@ Dersom det etter at behandlingen er avsluttet, oppdages at pasienten kan ha blit
 
 Brukere skal ha den informasjon som er nødvendig for å få tilstrekkelig innsikt i tjenestetilbudet og for å kunne ivareta sine rettigheter.
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 948](forskrift/2018-06-22-948)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 948](forskrift/2018-06-22-948)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 3-3. Informasjon til pasientens eller brukerens nærmeste pårørende
 
@@ -634,7 +634,7 @@ Pasienten, brukeren, eller andre som har rett til det, kan be tilsynsmyndigheten
 
 Tilsynsmyndigheten kan eventuelt ilegge en administrativ reaksjon etter [helsepersonelloven kapittel 11](lov/1999-07-02-64/kap11) og gi pålegg til virksomhet etter [helsetilsynsloven § 8](lov/2017-12-15-107/§8) og [spesialisthelsetjenesteloven § 7-1](lov/1999-07-02-61/§7-1).
 
-> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. [res. 28 april 2023 nr. 613](forskrift/2023-04-28-613)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. [res. 28 april 2023 nr. 613](forskrift/2023-04-28-613)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-4 a. Saksbehandling ved anmodning om tilsyn
 
@@ -652,7 +652,7 @@ Reglene om klage i dette kapitlet kommer ikke til anvendelse på anmodninger om 
 
 Departementet kan i forskrift fastsette nærmere bestemmelser om Statens helsetilsyn og statsforvalterens saksbehandling, herunder fastsette regler om frist for fremsettelse av anmodning etter paragrafen her.
 
-> Tilføyd ved lov [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-5. Frist for klage
 
@@ -666,7 +666,7 @@ En pasient, bruker eller nærmeste pårørende kan varsle Statens helsetilsyn og
 
 Departementet kan gi forskrift om varsling etter første ledd, også om innholdet i varslene.
 
-> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 april 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 april 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-7. Forvaltningslovens anvendelse
 
