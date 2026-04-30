@@ -1,6 +1,6 @@
 # lovverk
 
-Versioned Markdown corpus of current Norwegian law, auto-updated from Lovdata's public-data API.
+lovverk is a Git-versioned Markdown corpus of current Norwegian laws and central regulations, generated from Lovdata's public API. It is intended for AI/RAG, legal research, change tracking, and local MCP-based access from assistants such as Claude. It is not an official legal source and does not replace Lovdata.
 
 ## What this is
 
@@ -10,17 +10,21 @@ Versioned Markdown corpus of current Norwegian law, auto-updated from Lovdata's 
 
 ## Status
 
-Bootstrapping. Corpus not yet populated.
+**Production.** Auto-synced daily at 04:00 UTC by the [`lovspor`](https://github.com/bartoszkobylinski/lovspor) engine. The corpus mirrors **781 lover** + **3 741 sentrale forskrifter** = **4 522 acts** total, with per-act change history under `<dataset>/history/<slug>.json` and EU/EEA cross-references in each act's frontmatter `eu_basis` field.
 
-## Structure (planned)
+## Structure
 
 ```
 lovverk/
-├── lover/              # current Norwegian laws
-│   └── <id>.md
-├── forskrifter/        # current central regulations
-│   └── <id>.md
-└── manifest.json       # SHA256 of source XML per document
+├── lover/                          # current Norwegian laws (781 acts)
+│   ├── INDEX.md                    # generated index of all current acts in this dataset
+│   ├── <slug>.md                   # one Markdown file per act, named after Lovdata's kortform
+│   └── history/<slug>.json         # per-act change history (date, commit, type, lines added/removed)
+├── forskrifter/                    # current central regulations (3 741 acts)
+│   ├── INDEX.md
+│   ├── <slug>.md
+│   └── history/<slug>.json
+└── manifest.json                   # SHA256 of normalized source XML per document
 ```
 
 ## How updates work
