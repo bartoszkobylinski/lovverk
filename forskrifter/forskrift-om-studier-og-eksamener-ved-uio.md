@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-03-11"
+last_change_in_force: "2026-04-24"
 last_updated: "2007-05-08"
-xml_hash: "6c3baf5fb96d4511db13653aa03e6655b033c452c51bf61fd6a24af38d76c147"
+xml_hash: "67a0504503629e95fb40ebe17137efea171d30741ff50adec29706c114d54a1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-04-30T06:25:40.160175+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -502,13 +502,13 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 (2) En programstudent kan beholde studieretten til studieprogrammet ved forsinkelser i studieløpet dersom programstudenten har bestått emner med minst:30 studiepoeng etter 1 år i et ett- eller flerårig studieprogram60 studiepoeng etter 2 år i et ett- eller flerårig studieprogram90 studiepoeng etter 3 år i et flerårig studieprogram120 studiepoeng etter 4 år i et flerårig studieprogram150 studiepoeng etter 5 år i et flerårig studieprogram180 studiepoeng etter 6 år i et flerårig studieprogram.For fem- og seksårige studieprogram og for studieprogram som inneholder emner større enn 30 studiepoeng gjelder bestemmelsen tilsvarende. Innvilgede permisjoner og andre godkjente forlengelser av studietiden skal tas hensyn til ved beregning av forsinkelse, jf. [§ 7-2](forskrift/2005-12-20-1798/§7-2).
 
-(3) For medisinstudiet gjelder følgende bestemmelse i stedet for bestemmelsene i tredje ledd:En programstudent som blir mer enn fire semester forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.
+(3) For medisinstudiet gjelder følgende bestemmelse i stedet for bestemmelsene i andre ledd:En programstudent tatt opp til medisinutdanning med to årlige opptak som blir mer enn fire semester forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.En programstudent tatt opp til medisinutdanning med ett årlig opptak som blir mer enn fire år forsinket totalt i medisinstudiet, mister ordinært studieretten til studieprogrammet.
 
 (4) En programstudent som mister studieretten til studieprogrammet og ønsker ny studierett til det samme eller et annet studieprogram, må søke på ny på fastsatt måte.
 
 (5) En programstudent som har oppnådd graden master eller tilsvarende høyere grad ved Universitetet i Oslo, kan ordinært ikke få opptak til et masterprogram eller en masterstudieretning innenfor det samme fagområdet (disiplinen) på nytt.
 
-> Endret ved [forskrifter 19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [24 juni 2014 nr. 1060](forskrift/2014-06-24-1060) (i kraft 1 aug 2014), [2 mai 2017 nr. 611](forskrift/2017-05-02-611) (i kraft 1 aug 2017), [10 juli 2019 nr. 998](forskrift/2019-07-10-998), [30 juni 2020 nr. 1942](forskrift/2020-06-30-1942) (i kraft 1 okt 2020).
+> Endret ved [forskrifter 19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [24 juni 2014 nr. 1060](forskrift/2014-06-24-1060) (i kraft 1 aug 2014), [2 mai 2017 nr. 611](forskrift/2017-05-02-611) (i kraft 1 aug 2017), [10 juli 2019 nr. 998](forskrift/2019-07-10-998), [30 juni 2020 nr. 1942](forskrift/2020-06-30-1942) (i kraft 1 okt 2020), [24 april 2026 nr. 656](forskrift/2026-04-24-656).
 
 ### § 7-4. Krav til en enkeltemnestudent
 
