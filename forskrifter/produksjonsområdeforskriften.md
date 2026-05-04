@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-01-16"
-last_change_in_force: "2025-10-10"
+last_change_in_force: "2026-04-26"
 last_updated: "2021-03-30"
-xml_hash: "bd95a7d1eed7b6279bee50d3ad231a2975cebb2af709c5a9cc50b14cc4ee4667"
+xml_hash: "24ea1092689412471f7d7799d6525c1d227b7ce0bd5fa55210d29bc744b9ad44"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -180,11 +180,11 @@ Dokumentasjon av verifikasjon som nevnt i første ledd bokstav e må sendes inn 
 
 ### § 16. Sammenheng med vekst uavhengig av miljøstatus
 
-Produksjon etter [§ 15](forskrift/2017-01-16-61/§15) gir ikke grunnlag for kapasitetsøkning uavhengig av miljøstatus og beregning av tilbud om økt kapasitet etter [§§ 12](forskrift/2017-01-16-61/§12), [12a](forskrift/2017-01-16-61/§12a), [12b](forskrift/2017-01-16-61/§12b) og [13](forskrift/2017-01-16-61/§13).
+Produksjon etter dette kapittelet gir ikke grunnlag for kapasitetsøkning uavhengig av miljøstatus og beregning av tilbud om økt kapasitet etter [§§ 12](lov/2005-06-17-79/§12), [12a](forskrift/2017-01-16-61/§12a), [12b](forskrift/2017-01-16-61/§12b) og [13](forskrift/2017-01-16-61/§13).
 
-Produksjon etter § 15 gir ikke grunnlag for unntak fra nedjustering etter § 9 tredje ledd.
+Produksjon etter dette kapittelet gir ikke grunnlag for unntak fra nedjustering etter [§ 9 tredje ledd](lov/2005-06-17-79/§9/ledd/3).
 
-> Tilføyd ved forskrift [10 okt 2025 nr. 2019](forskrift/2025-10-10-2019).
+> Tilføyd ved forskrift [10 okt 2025 nr. 2019](forskrift/2025-10-10-2019), endret ved forskrift [26 april 2026 nr. 689](forskrift/2026-04-26-689).
 
 ## Kapittel 5. Avsluttende bestemmelser
 

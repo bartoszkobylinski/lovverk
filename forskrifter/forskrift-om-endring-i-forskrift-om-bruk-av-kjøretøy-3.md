@@ -1,8 +1,8 @@
 ---
-id: "sf-20260121-0091"
+id: "sf-20260320-0442"
 slug: "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3"
 type: "forskrift"
-ref_id: "forskrift/2026-01-21-91"
+ref_id: "forskrift/2026-03-20-442"
 title: "Forskrift om endring i forskrift om bruk av kjøretøy"
 short_title: null
 language: "nb"
@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "2d56cd7eb93d6e919b9cd20f5c44fa0ee191b09858c8b9880a916fec53603fe3"
+xml_hash: "3af004b75cb5e5370195549e2ea774fcf1102e698a4ba8bc497fe35433f01e3d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,16 +24,14 @@ eu_basis: []
 
 ## I
 
-- På veger som i vegliste for tømmertransport er angitt som Bk10/56, er største tillatte totalvekter som for Bk10/50 i [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3).
+Transportforetaket skal sørge for at fører kan gjennomføre transporten i henhold til [§§ 3-2](forskrift/1990-01-25-92/§3-2) og [3-3](forskrift/1990-01-25-92/§3-3). Med transportforetak menes her det foretaket som har disposisjonsrett over kjøretøyet og som har påtatt seg å utføre transporten. Bestemmelsen gjelder transport av gods med kjøretøy over 3500 kg.
 
-På veger som i vegliste for tømmertransport er angitt som Bk10/56, er største tillatte totalvekter som for Bk10/50 i [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3).
+Ved gods med høy transportrisiko skal transportforetaket sørge for at dokumentasjon om hvordan lasten forskriftsmessig skal sikres er tilgjengelig for fører. Dokumentasjonen skal inneholde en beskrivelse av hvordan godset skal sikres og hva slags sikringsutstyr som skal benyttes. Dokumentasjonsplikten inntrer ved følgende transporter:transport av gods med høyde-/breddeforhold over 3transport med betongelementer, stålcoiler og annet stålmateriale, kabeltromler, pappkomprimatorer, stående papirruller, krokløftcontainer og lignendetransporter som skjer i henhold til [§§ 5-7](forskrift/1990-01-25-92/§5-7) til [5-10](forskrift/1990-01-25-92/§5-10).
 
-[Tabell]
+Dokumentasjon med veiledning bør være tilgjengelig for føreren samtidig med transportordren og skal senest være tilgjengelig i forkant av lasting. Dokumentasjonen skal medbringes under transporten og kunne forevises ved kontroll. Statens vegvesen kan fastsette nærmere krav til utforming og innhold av dokumentasjonen.
 
-1. Dispensasjon med tidsbegrensning kan gis for følgende aksellaster3:
-
-For veger angitt som Bk10/42 i vegliste for spesialtransport, kan det gis dispensasjon for totalvekt som for BkT8/40.
+I tillegg til bestemmelsene i foregående paragraf [§§ 3-2](forskrift/1990-01-25-92/§3-2) og [3-2a](forskrift/1990-01-25-92/§3-2) gjelder følgende for motorvogn eller tilhenger, med unntak av transport av gods med motorsykkel, moped, beltekjøretøy eller innvendig i personbil.
 
 ## II
 
-Denne forskrift trer i kraft 1. juni 2026.
+Forskriften trer i kraft 1. juni 2026.

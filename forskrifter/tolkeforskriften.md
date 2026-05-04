@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2022-01-01"
+last_change_in_force: "2026-04-28"
 last_updated: "2024-10-15"
-xml_hash: "a8705f78af60739d4fbb6235fb74fa1d425332ce0cac6e384a94aaeb8751c96b"
+xml_hash: "d05c7d062690a0fc7c778cf545a1a3b52c24ab38d2634ac15065aae73394680b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,23 +94,31 @@ Tolken plikter å oppgi korrekte opplysninger til Integrerings- og mangfoldsdire
 
 ### § 15. Sletting av opplysninger
 
-Integrerings- og mangfoldsdirektoratet skal slette opplysninger om den enkelte tolk dersom de ikke lenger er nødvendige å ha registeret.
+Integrerings- og mangfoldsdirektoratet skal slette opplysninger om den enkelte tolk dersom de ikke lenger er nødvendige å ha i registeret.
+
+> Endret ved forskrift [28 april 2026 nr. 676](forskrift/2026-04-28-676).
 
 ## Kapittel 4. Statsautorisasjonsordningen for tolker
 
-### § 16. Gjennomføring av statsautorisasjonsprøven
+### § 16. Gjennomføring av statsautorisasjonsprøve i tolking
 
-OsloMet – storbyuniversitetet er administrativ myndighet for gjennomføringen av tolkeprøven. OsloMet – storbyuniversitetet skal oppnevne en prøvenemnd sammensatt av en leder, tre sensorer og to personer som spiller rollen som tolkebrukere ved gjennomføring av prøven. Prøvenemnda skal utarbeide oppgaver og sensorveiledninger, gjennomføre prøven og evaluere kandidatenes prestasjoner. Sensorene avgjør om prøven er bestått.
+OsloMet – storbyuniversitetet er administrativ myndighet for gjennomføringen av statsautorisasjonsprøven i tolking. For gjennomføringen av statsautorisasjonsprøven i tolking i samiske språk er Samisk høgskole / Sámi allaskuvla administrativ myndighet.
 
-### § 17. Oppmelding til statsautorisasjonsprøven
+De administrative myndighetene skal oppnevne en prøvenemnd sammensatt av en leder, tre sensorer og to personer som spiller rollen som tolkebrukere ved gjennomføring av prøven. Prøvenemnda skal utarbeide oppgaver og sensorveiledninger, gjennomføre prøven og evaluere kandidatenes prestasjoner. Sensorene avgjør om prøven er bestått.
+
+> Endret ved forskrift [28 april 2026 nr. 676](forskrift/2026-04-28-676).
+
+### § 17. Oppmelding til statsautorisasjonsprøve i tolking
 
 For å melde seg opp til prøven må kandidaten dokumentere norskkunnskaper tilsvarende kravet for generell studiekompetanse. Kandidaten må være myndig etter norsk lov og kunne dokumentere sin identitet.
 
 Kandidaten betaler fastsatt oppmeldingsgebyr.
 
+> Endret ved forskrift [28 april 2026 nr. 676](forskrift/2026-04-28-676).
+
 ### § 18. Statsautorisasjonsprøve i tolking
 
-Statsautorisasjonsprøven i tolking avgjør om kandidaten fyller de faglige kravene for å få bevilling som statsautorisert tolk. Prøven holdes minst én gang i året. Integrerings- og mangfoldsdirektoratet bestemmer hvilke språk prøven skal omfatte i samarbeid med OsloMet – storbyuniversitetet.
+Statsautorisasjonsprøven i tolking avgjør om kandidaten fyller de faglige kravene for å få bevilling som statsautorisert tolk. Prøven holdes minst én gang i året. Integrerings- og mangfoldsdirektoratet bestemmer hvilke språk prøven skal omfatte i samarbeid med den administrative myndigheten for gjennomføring av statsautorisasjonsprøven etter [§ 16](forskrift/2021-09-13-2744/§16).
 
 Prøven består av en silingstest og en muntlig prøve i tolking. Personer som har oppnådd bachelorgrad i tolking i offentlig sektor ved et norsk universitet eller en norsk høyskole, kan fritas fra silingstesten.
 
@@ -118,17 +126,21 @@ I silingstesten testes kandidatene i allmennspråk, terminologi og samfunnsforho
 
 I den muntlige prøven testes kandidatene i praktiske ferdigheter i å tolke, inkludert adekvat språkbruk, sentrale samfunnsforhold på begge språkområder og god tolkeskikk. Den muntlige prøven skal inneholde dialoger og monologer på norsk og tolkespråket. Kandidatene skal også eksamineres i tolketeknikk og tolkeetikk.
 
+> Endret ved forskrift [28 april 2026 nr. 676](forskrift/2026-04-28-676).
+
 ### § 19. Bedømmelse, begrunnelse og klage
 
 Statsautorisasjonsprøven bedømmes med betegnelsene bestått og ikke bestått.
 
 Reglene om klage og rett til begrunnelse i [universitets- og høyskoleloven § 5-3](lov/2005-04-01-15/§5-3) gjelder tilsvarende.
 
-Kandidaten kan klage på formelle feil, jf. [universitets- og høyskoleloven § 5-2](lov/2005-04-01-15/§5-2). Slik klage behandles av klagenemnda ved OsloMet – storbyuniversitetet.
+Kandidaten kan klage på formelle feil, jf. [universitets- og høyskoleloven § 5-2](lov/2005-04-01-15/§5-2). Slik klage behandles av klagenemnda ved den administrative myndigheten for gjennomføring av statsautorisasjonsprøven hvor prøven er avholdt etter [§ 16](forskrift/2021-09-13-2744/§16).
 
 En person kan gå opp til prøven tre ganger i samme tolkespråk.
 
 Utfallet av prøven formidles til Integrerings- og mangfoldsdirektoratet som deretter kan gi bevilling som statsautorisert tolk etter [tolkeloven § 18](lov/2021-06-11-79/§18).
+
+> Endret ved forskrift [28 april 2026 nr. 676](forskrift/2026-04-28-676).
 
 ## Kapittel 5. Administrative bestemmelser
 

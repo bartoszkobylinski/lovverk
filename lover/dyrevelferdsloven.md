@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2021-07-01"
+last_change_in_force: "2026-05-01"
 last_updated: "2022-03-28"
-xml_hash: "a490b66ff248125b5f27868bb3f130d690f450fb7d198bf5916982c38050f3ae"
+xml_hash: "092263a5afb4e9584d073624200a6666832e3e181e8009fe5c8917e04b37653e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -132,7 +132,11 @@ Det er forbudt å:utøve vold mot dyr,hensette dyr i hjelpeløs tilstand,ha seks
 
 ### § 14 a. Fremstilling og fremvisning m.m. av seksuelle overgrep mot dyr
 
-> **Tilføyes** ved lov [13 mars 2026 nr. 9](lov/2026-03-13-9) (i kraft fra den tid Kongen bestemmer).
+Det er forbudt å:produsere fremstillinger av seksuell omgang med dyr eller seksuelle handlinger med dyr,tilby, overlate til en annen, gjøre tilgjengelig eller på annen måte søke å utbre fremstillinger som nevnt i bokstav a,anskaffe, innføre eller besitte slike fremstillinger som nevnt i bokstav a, eller skaffe seg tilgang til slikt materiale, ellerovervære en fremvisning av seksuell omgang med dyr eller seksuelle handlinger med dyr.
+
+Bestemmelsen rammer ikke fremvisninger eller fremstillinger som må anses forsvarlige ut fra et kunstnerisk, vitenskapelig, informativt eller lignende formål.
+
+> Tilføyd ved lov [13 mars 2026 nr. 9](lov/2026-03-13-9) (i kraft 1 mai 2026 iflg. [res. 27 mars 2026 nr. 682](forskrift/2026-03-27-682)).
 
 ### § 15. Bygninger, gjerder og andre mindre innretninger
 

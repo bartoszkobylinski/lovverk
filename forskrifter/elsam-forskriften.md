@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2016-10-28"
-last_change_in_force: "2024-01-01"
+last_change_in_force: "2026-05-01"
 last_updated: "2016-11-29"
-xml_hash: "fe50ee5fc02de33024124c6202a823b57d35cd5df70118d46a7cd65a94efbc90"
+xml_hash: "f54663d7ee925b9d9402445df17f84b351ae3f6f63b56d709a606fe7b323614b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,13 @@ Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsfo
 
 ## § 3b. Obligatorisk bruk av nettportalen for rettsoppnevnte sakkyndige og tolker
 
-> **Tilføyes** ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
+Rettsoppnevnte sakkyndige og tolker plikter å registrere seg som bruker i nettportalen etter oppnevning fra en av domstolene som omfattes av forskriften. Rettsoppnevnte sakkyndige og tolker skal sende inn salærkrav knyttet til oppdrag i domstolene i nettportalen.
+
+I saker hvor det gjelder plikt som nevnt i første ledd, kan domstolen, om bruk av nettportalen medfører uforholdsmessige merkostnader eller ulemper for den salærberettigede, beslutte at salærkravet ikke må sendes inn gjennom nettportalen.
+
+Dersom kommunikasjonen i nettportalen hindres eller vanskeliggjøres av driftsforstyrrelser eller annen teknisk ustabilitet, kan Domstoladministrasjonen for et avgrenset tidsrom beslutte at en bestemt del av eller alle salærkrav til én eller flere domstoler ikke skal behandles i nettportalen.
+
+> Tilføyd ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
 
 ## § 4. Portalmedhjelper
 
@@ -98,11 +104,9 @@ Kommunikasjon gjennom en løsning for systemintegrasjon oppfyller krav om obliga
 
 Såfremt den tekniske løsningen åpner for det, kan bruker sende inn elektronisk i portalenethvert dokument som skal sendes retten i sivil sak, sak som er reist for jordskifteretten eller straffesakarbeidsoppgave etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. [§ 5](forskrift/1997-12-03-1441/§5) og andre dokumenter som skal sendes retten i tilknytning til salærkravet, herunder senere merknader, redegjørelse og vedlegg til disse.
 
-Arbeidsoppgave skal leveres på nettportalen på elektronisk skjema fastsatt av Justis- og beredskapsdepartementet.
-
 Retten kan i den enkelte sak pålegge bruker å ettersende papirkopi av dokumenter som er innsendt elektronisk.
 
-> Endret ved [forskrift 14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019). **Endres** ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
+> Endret ved forskrifter [14 des 2018 nr. 1923](forskrift/2018-12-14-1923) (i kraft 1 jan 2019), [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026, se endringsforskriften for overgangsregel).
 
 ## § 7. Bekreftelse på at dokument er mottatt
 

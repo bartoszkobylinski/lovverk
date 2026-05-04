@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-04-01"
+last_change_in_force: "2026-05-04"
 last_updated: "2022-10-20"
-xml_hash: "d86b5a934ef9ba15b3b8000e6f0fdc0ba98c7bef77b3eb454648de894d29360e"
+xml_hash: "4547f1f7153c7be91f6ee75788aec6c15d7b178439e6bab59bcdc139678d394b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1187,7 +1187,7 @@ En utlending som får oppholdstillatelse etter lovens § 34, kan få registrerin
 
 Lovens § 34 gis straks anvendelse overforukrainske statsborgere bosatt i Ukraina før 24. februar 2022ukrainske statsborgere med lovlig opphold i Norge før 24. februar 2022, eller som har reist til Norge senere på grunnlag av en gitt oppholdstillatelse. Det er et vilkår at det tidligere oppholdsgrunnlaget er bortfalt eller vil bortfalle ikke senere enn to måneder etter fremsettelse av søknad om beskyttelsetredjelandsborgere og statsløse som har fått internasjonal beskyttelse eller tilsvarende nasjonal beskyttelse i Ukraina før 24. februar 2022nære familiemedlemmer av personer som nevnt i bokstav a, b og c som ektefelle, samboer, barn under 18 år og andre familiemedlemmer som var del av hovedpersonens husstand før 24. februar 2022.
 
-Første ledd gjelder ikke dersom det er indikasjoner på at søkeren er omfattet av [utlendingsloven § 31](lov/2008-05-15-35/§31), eller at saken berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn som nevnt i [utlendingsloven § 126](lov/2008-05-15-35/§126). Første ledd gjelder heller ikke dersom søkeren tidligere har hatt midlertidig kollektiv beskyttelse etter første ledd, men tillatelsen er opphørt, tilbakekalt eller ikke forlenget.
+Første ledd gjelder ikke dersomdet er indikasjoner på at søkeren er omfattet av [utlendingsloven § 31](lov/2008-05-15-35/§31), eller at saken berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn som nevnt i [utlendingsloven § 126](lov/2008-05-15-35/§126)søkeren tidligere har hatt midlertidig kollektiv beskyttelse etter første ledd, men tillatelsen er opphørt, tilbakekalt eller ikke forlengetsøkeren er mann mellom 18 og 60 år, med mindre søkeren har foreldreansvar eller er verge, eller annet nært familiemedlem, for medfølgende barn eller barn i Norge og skal utøve omsorgen alene, er dokumentert fritatt fra eller åpenbart ute av stand til militærtjeneste i Ukraina, eller tilbys medisinsk evakuering til Norge via EUs ordning for sivil beredskap (UCPM) eller er medfølgende pårørende til søkere som tilbys slik evakuering.
 
 Første ledd bokstav a, b og c gjelder ikke dersom søkeren har hatt fast bosted i et område av Ukraina som utlendingsmyndighetene legger til grunn at er trygt, med mindre søkeren tilbys medisinsk evakuering til Norge via EUs ordning for sivil beredskap (UCPM) eller er medfølgende pårørende til søkere som tilbys slik evakuering.
 
@@ -1201,7 +1201,7 @@ Retten til forlengelse etter femte ledd gjelder ikke for utlendinger med opphold
 
 Retten til forlengelse etter femte ledd gjelder ikke dersom ordningen med midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina avvikles før utløpet av tillatelsen.
 
-> Tilføyd ved forskrift [11 mars 2022 nr. 361](forskrift/2022-03-11-361), endret ved forskrifter [29 april 2022 nr. 644](forskrift/2022-04-29-644), [23 jan 2023 nr. 73](forskrift/2023-01-23-73), [16 feb 2024 nr. 279](forskrift/2024-02-16-279) (i kraft 1 mars 2024), [31 mai 2024 nr. 880](forskrift/2024-05-31-880) (i kraft 1 juli 2024), [27 sep 2024 nr. 2306](forskrift/2024-09-27-2306), [11 feb 2025 nr. 176](forskrift/2025-02-11-176), [2 mars 2026 nr. 312](forskrift/2026-03-02-312). **Endres** ved forskrift [27 mars 2026 nr. 497](forskrift/2026-03-27-497) (i kraft 4 mai 2026 iflg. vedtak [17 april 2026 nr. 600](forskrift/2026-04-17-600)).
+> Tilføyd ved forskrift [11 mars 2022 nr. 361](forskrift/2022-03-11-361), endret ved forskrifter [29 april 2022 nr. 644](forskrift/2022-04-29-644), [23 jan 2023 nr. 73](forskrift/2023-01-23-73), [16 feb 2024 nr. 279](forskrift/2024-02-16-279) (i kraft 1 mars 2024), [31 mai 2024 nr. 880](forskrift/2024-05-31-880) (i kraft 1 juli 2024), [27 sep 2024 nr. 2306](forskrift/2024-09-27-2306), [11 feb 2025 nr. 176](forskrift/2025-02-11-176), [2 mars 2026 nr. 312](forskrift/2026-03-02-312), [27 mars 2026 nr. 497](forskrift/2026-03-27-497) (i kraft 4 mai 2026 iflg. vedtak [17 april 2026 nr. 600](forskrift/2026-04-17-600), se endringsforskriften for overgangsregel).
 
 ### Lovens § 35. Overføring av utlendinger etter anmodning fra internasjonale organisasjoner mv. (overføringsflyktninger)
 
@@ -1509,25 +1509,27 @@ Når søkeren ikke fyller vilkårene for å søke fra riket, avslås søknaden p
 
 Utlendingsdirektoratet gir nærmere retningslinjer om hvordan en søknad om oppholdstillatelse skal fremmes. Utlendingsdirektoratet kan herunder kreve at søknaden skal fremmes på fastsatt skjema, eller kan gi adgang til å fremme søknaden elektronisk. Den myndigheten som mottar søknaden, skal påse at den er riktig utfylt og at de nødvendige vedleggene følger søknaden.
 
-Søkeren må dokumentere sin identitet ved pass eller annet legitimasjonsdokument utstedt av offentlig myndighet, og skal pålegges å dokumentere andre opplysninger som er gitt når dette anses nødvendig. I forbindelse med at det fremmes søknad om oppholdstillatelse eller visum kan det stilles krav om at det skal tas ansiktsfoto og fingeravtrykk, jf. [lovens § 100](lov/2008-05-15-35/§100) og [forskriftens § 3-4](forskrift/2009-10-15-1286/§3-4) og [§ 18-1](forskrift/2009-10-15-1286/§18-1). Det skal gjøres påtegning om hvordan søkerens identitet er bekreftet, jf. også [lovens § 100](lov/2008-05-15-35/§100) og forskriftens [§ 18-1](forskrift/2009-10-15-1286/§18-1).
+Søkeren må dokumentere sin identitet ved pass eller annet legitimasjonsdokument utstedt av offentlig myndighet, og skal pålegges å dokumentere andre opplysninger som er gitt når dette anses nødvendig. I forbindelse med at det fremmes søknad om oppholdstillatelse kan det stilles krav om at det skal tas ansiktsfoto og fingeravtrykk, jf. [lovens § 100](lov/2008-05-15-35/§100) og [forskriftens § 18-1](forskrift/2009-10-15-1286/§18-1). Det skal gjøres påtegning om hvordan søkerens identitet er bekreftet, jf. også [lovens § 100](lov/2008-05-15-35/§100) og [forskriftens § 18-1](forskrift/2009-10-15-1286/§18-1).
 
 Når søkeren oppholder seg utenfor riket, skal søknaden fremmes gjennom norsk utenriksstasjon i det landet søkeren er borger av, eller gjennom norsk utenriksstasjon i det landet der søkeren har hatt oppholdstillatelse i de siste seks månedene. Utenriksstasjonen skal innhente opplysninger om søkerens grunnlag for oppholdet i vedkommende land. Etter nærmere retningslinjer som gis av Utlendingsdirektoratet, kan en utlending som har oppholdt seg lovlig på Svalbard i seks måneder, fremme søknad om oppholdstillatelse gjennom Sysselmesteren på Svalbard. Det kan kreves personlig fremmøte.
 
 Norsk utenriksstasjon kan, etter fullmakt fra Utlendingsdirektoratet, inngå avtale med ekstern tjenesteyter, som på vegne av utenriksstasjonen kan utføre oppgaver med å motta søknad om oppholdstillatelse, herunder oppta ansiktsfoto, fingeravtrykk og signatur, håndheve de krav som stilles til legitimasjonskontroll og gi generell praktisk veiledning om hvordan søknaden skal fremmes og hvilke dokumenter som skal legges ved søknaden. Ekstern tjenesteyter kan ikke gis kompetanse til å avgjøre søknad om oppholdstillatelse. Opplysningene skal overføres mellom den eksterne tjenesteyteren og norsk utenriksstasjon på en sikker måte. Ekstern tjenesteyter kan kreve et servicehonorar for de utførte tjenestene. Avtale om tjenesteutsetting skal ikke være til hinder for muligheten for å levere inn søknad direkte til utenriksstasjonen.
 
-Søknad fra riket skal fremmes ved personlig fremmøte hos politiet i det distriktet der søkeren har sitt faste opphold. Utlendingsdirektoratet gir i samarbeid med Arbeidstilsynet, politiet og Skatteetaten, nærmere retningslinjer om når slik melding også kan gis via et Servicesenter for utenlandske arbeidstakere. Søknad fra riket som fremmes av referanseperson, fremmes gjennom politiet i det distriktet der referansepersonen har sitt bosted. Søknad om tillatelse til sjøfolk, jf. [§ 6-6](forskrift/2009-10-15-1286/§6-6), fremmes gjennom politiet i det distriktet hvor sjøfartøyet først anløper. Når arbeids- eller oppdragsgiver fremmer søknaden, gjelder også bestemmelsene i [§ 10-3](forskrift/2009-10-15-1286/§10-3).
+Søknad fra riket fremmes elektronisk til utlendingsforvaltningen eller ved personlig fremmøte hos politiet i det distriktet der søkeren har sitt faste opphold. Utlendingsdirektoratet gir retningslinjer for når søknad må fremmes ved personlig fremmøte. Utlendingsdirektoratet gir i samarbeid med Arbeidstilsynet, politiet og Skatteetaten, nærmere retningslinjer om når slik søknad også kan fremmes via et Servicesenter for utenlandske arbeidstakere. Søknad fra riket som fremmes av referanseperson ved personlig fremmøte, fremmes gjennom politiet i det distriktet der referansepersonen har sitt bosted. Søknad om tillatelse til sjøfolk, jf. [§ 6-6](forskrift/2009-10-15-1286/§6-6), som fremmes ved personlig fremmøte, fremmes gjennom politiet i det distriktet hvor sjøfartøyet først anløper. Når arbeids- eller oppdragsgiver fremmer søknaden, gjelder også bestemmelsene i [§ 10-3](forskrift/2009-10-15-1286/§10-3).
 
 Bestemmelsene i første til femte ledd gjelder også når søkeren er under 18 år. En person over 18 år kan søke på vegne av slik søker som ikke kan fylle ut og underskrive søknaden selv. Denne personen må møte sammen med søkeren ved innlevering av søknaden.
 
-Dersom sterke rimelighetsgrunner tilsier det, kan Utlendingsdirektoratet i enkelttilfeller og for grupper av søkere samtykke i at søknaden fremmes på annen måte. Det kan herunder fastsettes at en referanseperson kan søke på vegne av søkeren. Referansepersonen må da møte personlig ved innlevering av søknaden.
+Dersom sterke rimelighetsgrunner tilsier det, kan Utlendingsdirektoratet i enkelttilfeller og for grupper av søkere samtykke i at søknaden fremmes på annen måte. Det kan herunder fastsettes at en referanseperson kan søke på vegne av søkeren.
 
-En referanseperson som omfattes av intervjuordningen, jf. [lovens § 56](lov/2008-05-15-35/§56) fjerde ledd, og ønsker å foreta forhåndsintervju etter bestemmelsen i lovens § 56 fjerde ledd bokstav a, kan også søke på vegne av søkeren og fremme søknaden fra riket, forutsatt at referansepersonen har skriftlig fullmakt.
+En referanseperson som omfattes av intervjuordningen, jf. [lovens § 56 fjerde ledd](lov/2008-05-15-35/§56/ledd/4), og ønsker å foreta forhåndsintervju etter bestemmelsen i [lovens § 56 fjerde ledd bokstav a](lov/2008-05-15-35/§56/ledd/4/bokstav/a), kan også søke på vegne av søkeren og fremme søknaden fra riket, forutsatt at referansepersonen har skriftlig fullmakt.
 
-Når en søknad ikke er fremsatt i samsvar med kravene i første til femte ledd, kan søknaden avslås på dette grunnlaget. Det samme gjelder når gebyr ikke er betalt, jf. [lovens § 89](lov/2008-05-15-35/§89) og forskriftens [§ 10-6](forskrift/2009-10-15-1286/§10-6) første ledd annet punktum.
+Når en søknad ikke er fremsatt i samsvar med kravene i første til femte ledd, kan søknaden avslås på dette grunnlaget. Det samme gjelder når gebyr ikke er betalt, jf. [lovens § 89](lov/2008-05-15-35/§89) og [forskriftens § 10-6 første ledd annet punktum](forskrift/2009-10-15-1286/§10-6/ledd/1/setning/2).
 
-Utlendingsdirektoratet kan fastsette at søknader som ikke er riktig fremsatt, i stedet skal kunne avvises i nærmere bestemte tilfeller, og at avgjørelse om dette skal kunne treffes av det organ som mottar søknaden. Det samme gjelder når gebyr ikke er betalt, jf. [lovens § 89](lov/2008-05-15-35/§89) og forskriftens [§ 10-6](forskrift/2009-10-15-1286/§10-6) første ledd annet punktum.
+Utlendingsdirektoratet kan fastsette at søknader som ikke er riktig fremsatt, i stedet skal kunne avvises i nærmere bestemte tilfeller, og at avgjørelse om dette skal kunne treffes av det organ som mottar søknaden. Det samme gjelder når gebyr ikke er betalt, jf. [lovens § 89](lov/2008-05-15-35/§89) og [forskriftens § 10-6 første ledd annet punktum](forskrift/2009-10-15-1286/§10-6/ledd/1/setning/2).
 
-> Endret ved [forskrifter 17 des 2009 nr. 1655](forskrift/2009-12-17-1655), [31 aug 2012 nr. 848](forskrift/2012-08-31-848) (i kraft 3 sep 2012), [26 juni 2013 nr. 793](forskrift/2013-06-26-793), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [4 des 2014 nr. 1698](forskrift/2014-12-04-1698) (i kraft 1 jan 2015), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [11 juni 2021 nr. 1926](forskrift/2021-06-11-1926) (i kraft 1 juli 2021), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022). **Endres** ved forskrift [11 mars 2026 nr. 380](forskrift/2026-03-11-380) (i kraft 1 mai 2026).
+Bestemmelsene i denne paragrafen gjelder også for søknad om oppholdstillatelse på nytt faktisk eller rettslig grunnlag og om permanent oppholdstillatelse. For søknader på nytt grunnlag gjelder [§ 10-1](forskrift/2009-10-15-1286/§10-1) med mindre søkeren har hatt lovlig opphold i medhold av tidligere tillatelse minst de siste ni månedene. Søknad om permanent oppholdstillatelse kan unntaksvis fremsettes fra utlandet. Utlendingsdirektoratet kan gi retningslinjer for når søknad om permanent oppholdstillatelse kan fremmes fra utlandet.
+
+> Endret ved forskrifter [17 des 2009 nr. 1655](forskrift/2009-12-17-1655), [31 aug 2012 nr. 848](forskrift/2012-08-31-848) (i kraft 3 sep 2012), [26 juni 2013 nr. 793](forskrift/2013-06-26-793), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [4 des 2014 nr. 1698](forskrift/2014-12-04-1698) (i kraft 1 jan 2015), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [11 juni 2021 nr. 1926](forskrift/2021-06-11-1926) (i kraft 1 juli 2021), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [11 mars 2026 nr. 380](forskrift/2026-03-11-380) (i kraft 1 mai 2026).
 
 ### § 10-3. Søknad som fremmes av arbeids- eller oppdragsgivere
 
@@ -1557,7 +1559,7 @@ Politiet registrerer bekreftelsen på tidlig arbeidsstart i Datasystemet for utl
 
 [Forvaltningsloven kapittel IV](lov/1967-02-10/kapiv) til VI gjelder ikke for politiets beslutning om ikke å utstede en bekreftelse etter første eller annet ledd.
 
-> Endret ved [forskrifter 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [14 mars 2016 nr. 256](forskrift/2016-03-14-256) (i kraft 1 mai 2016 og gjelder for søknader som mottas etter 1 mai 2016).
+> Endret ved forskrifter [4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [14 mars 2016 nr. 256](forskrift/2016-03-14-256) (i kraft 1 mai 2016 og gjelder for søknader som mottas etter 1 mai 2016).
 
 ### § 10-5. Unntak fra kravet om intervju av referanseperson i Norge
 
@@ -1577,9 +1579,9 @@ Det kan kreves at søkeren eller andre som søker på vegne av søkeren, jf. [§
 
 Ved innvilgelse av søknaden skal utlendingen gjøres kjent med plikten til å melde seg for politiet innen en uke etter innreise for opptak av biometri til oppholdskort, jf. lovens § 100a.
 
-Politiet utsteder oppholdskort, jf. lovens § 64a.
+Politiet, Utlendingsdirektoratet og Utlendingsnemnda kan utstede oppholdskort, jf. [lovens § 64a](lov/2008-05-15-35/§64a).
 
-> Endret ved [forskrift 4 des 2014 nr. 1698](forskrift/2014-12-04-1698) (i kraft 1 jan 2015). **Endres** ved forskrift [11 mars 2026 nr. 380](forskrift/2026-03-11-380) (i kraft 1 mai 2026).
+> Endret ved forskrifter [4 des 2014 nr. 1698](forskrift/2014-12-04-1698) (i kraft 1 jan 2015), [11 mars 2026 nr. 380](forskrift/2026-03-11-380) (i kraft 1 mai 2026).
 
 ### Lovens § 58. Krav til underhold og bolig
 
@@ -3391,9 +3393,9 @@ Varig oppholdsrett som nevnt i lovens § 115 og § 116, bortfaller ved sammenhen
 
 ### § 19-22. Registreringsbevis for EØS-borgere
 
-Registrering og utstedelse av registreringsbevis etter lovens § 117 skjer ved personlig fremmøte hos politiet i oppholdsdistriktet eller ved et Servicesenter for utenlandske arbeidstakere. Registrering kan gjøres elektronisk med etterfølgende fremmøte hos politiet for utstedelse av registreringsbevis.
+Registrering og utstedelse av registreringsbevis etter [lovens § 117](lov/2008-05-15-35/§117) skjer hos politiet i oppholdsdistriktet eller ved et Servicesenter for utenlandske arbeidstakere. Registrering og utstedelse av registreringsbevis kan gjøres elektronisk. Utlendingsdirektoratet gir nærmere retningslinjer.
 
-Politiet utsteder straks et registreringsbevis med opplysninger om den registrertes navn, adresse og dato for registrering. Registreringsbeviset utstedes vederlagsfritt og skal ikke fornyes.
+Registeringsbevis med opplysninger om den registrertes navn, adresse og dato for registrering utstedes straks og vederlagsfritt. Registreringsbeviset skal ikke fornyes.
 
 Avgjørelse om ikke å utstede registreringsbevis kan ikke påklages.
 
@@ -3403,7 +3405,7 @@ Arbeidssøkende som får arbeid og som har oppholdt seg i riket i minst tre mån
 
 Politiet skal gjøre EØS-borgeren kjent med plikten til å fremstille seg til tuberkuloseundersøkelse etter [lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer (smittevernloven)](lov/1994-08-05-55). Politiet skal gi vedkommende helsemyndighet melding om utlendingens kontaktopplysninger og, hvis kjent, hvilket språk utlendingen kan kommunisere forsvarlig på.
 
-> Endret ved [forskrifter 19 mai 2011 nr. 583](forskrift/2011-05-19-583), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024). **Endres** ved forskrift [9 mars 2026 nr. 377](forskrift/2026-03-09-377) (i kraft 1 mai 2026).
+> Endret ved forskrifter [19 mai 2011 nr. 583](forskrift/2011-05-19-583), [29 april 2022 nr. 668](forskrift/2022-04-29-668) (i kraft 1 mai 2022), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024), [9 mars 2026 nr. 377](forskrift/2026-03-09-377) (i kraft 1 mai 2026).
 
 ### Lovens § 118. Oppholdskort for utlendinger med oppholdsrett etter lovens § 114 som ikke er EØS-borgere
 

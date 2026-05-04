@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-06-23"
-last_change_in_force: "2025-11-06"
+last_change_in_force: "2026-05-01"
 last_updated: null
-xml_hash: "f314589573fc17cb9b03386705f006b0aa59d0f7525c373f1c9102d6a7d34ae8"
+xml_hash: "4279787ee736c69099d73d56dd41dc4e10f23f73e9e7a1d8d08f1bd093c1c295"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,9 +142,9 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg 1
 
-Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:RandabergSandnes (unntatt område som tidligere utgjorde Forsand kommune)SolaStavangerKleppTimeHå.
+Følgende kommuner inngår i infisert sone for høypatogen aviær influensa:Ingen.
 
-> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215).
+> Endret ved forskrifter [29 aug 2022 nr. 1507](forskrift/2022-08-29-1507), [22 okt 2022 nr. 1780](forskrift/2022-10-22-1780), [21 des 2022 nr. 2378](forskrift/2022-12-21-2378), [31 mai 2023 nr. 762](forskrift/2023-05-31-762), [6 nov 2025 nr. 2215](forskrift/2025-11-06-2215), [30 april 2026 nr. 685](forskrift/2026-04-30-685) (i kraft 1 mai 2026).
 
 ## Vedlegg 2
 

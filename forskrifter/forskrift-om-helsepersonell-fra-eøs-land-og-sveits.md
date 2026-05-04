@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2008-11-01"
-last_change_in_force: "2025-09-11"
+last_change_in_force: "2026-05-01"
 last_updated: "2022-04-22"
-xml_hash: "13b4622f5e3751d5d716be7eb8f9663ab64728d2b322f9ce0e436b354697a938"
+xml_hash: "ba9b59b31186acf04d1b4796e5ec95038cb52bf70b4fd6d94584effaf0903028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,15 +192,17 @@ Søker som skal drive selvstendig virksomhet skal legge frem informasjon om fors
 
 Helsedirektoratet kan kontrollere tjenesteyterens yrkeskvalifikasjoner før tjenesten ytes første gang dersom dette anses nødvendig for å unngå alvorlig skade på pasienters helse og kontrollen ikke går ut over det som er nødvendig for formålet. Dette gjelder likevel ikke yrkeskvalifikasjonene til lege, tannlege, sykepleier, jordmor eller provisorfarmasøyt som godkjennes etter [kapittel 2](forskrift/2008-10-08-1130/kap2).
 
-Helsedirektoratet skal informere tjenesteyter om yrkeskvalifikasjonene vil bli kontrollert eller ikke innen en måned etter å ha mottatt nødvendig dokumentasjon og i alle fall ikke senere enn to måneder etter. Blir beslutningen fattet senere enn en måned etter, skal tjenesteyter underrettes om årsaken til dette og når beslutningen vil foreligge.
+Helsedirektoratet skal beslutte og informere tjenesteyter om yrkeskvalifikasjonene vil bli kontrollert eller ikke innen en måned etter å ha mottatt nødvendig dokumentasjon og i alle fall ikke senere enn to måneder etter. Blir beslutningen fattet senere enn en måned etter, skal tjenesteyter underrettes om årsaken til dette og når beslutningen vil foreligge.
 
-Tjenesteyter som ikke har mottatt beslutning om kontroll av yrkeskvalifikasjoner innen to måneder etter at Helsedirektoratet mottok nødvendig dokumentasjon, har rett til å utøve yrket.
+Tjenesteyter som ikke har mottatt informasjon om beslutning om kontroll av yrkeskvalifikasjoner innen to måneder etter at Helsedirektoratet mottok nødvendig dokumentasjon, har rett til å utøve yrket.
 
 Dersom tjenesteyterens kvalifikasjoner kontrolleres, skal tjenesteyter underrettes om resultatet av kontrollen. Tjenesteyter har rett til å utøve yrket senest tre måneder etter at Helsedirektoratet mottok nødvendig dokumentasjon og senest en måned etter at Helsedirektoratet besluttet å kontrollere kvalifikasjonene.
 
-Dersom det foreligger en vesentlig forskjell mellom tjenesteyters yrkeskvalifikasjoner og de krav som stilles i norsk utdanning, og denne forskjellen kan være til skade for pasientsikkerheten, skal tjenesteyter tilbys å dokumentere sine kunnskaper ved en egnethetsprøve. Egnethetsprøven må bestås før midlertidig tjeneste kan utøves.
+Dersom det foreligger en vesentlig forskjell mellom tjenesteyters yrkeskvalifikasjoner og de krav som stilles i norsk utdanning, og denne forskjellen kan være til skade for pasientsikkerheten, skal tjenesteyter tilbys å dokumentere sine kunnskaper ved en egnethetsprøve. Tilbudt egnethetsprøve må bestås før midlertidig tjeneste kan utøves.
 
-> Endret ved [forskrift 9 des 2019 nr. 1718](forskrift/2019-12-09-1718).
+Tjenesteyter som ikke har fått tilbud om en egnethetsprøve innen en måned etter at Helsedirektoratet besluttet at tjenesteyter må gjennomføre en egnethetsprøve, har rett til å utøve yrket.
+
+> Endret ved [forskrifter 9 des 2019 nr. 1718](forskrift/2019-12-09-1718), [30 april 2026 nr. 691](forskrift/2026-04-30-691) (i kraft 1 mai 2026).
 
 ### § 19. Informasjon til pasienter
 

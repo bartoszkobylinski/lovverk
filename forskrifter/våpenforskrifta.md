@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2021-06-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-04-29"
 last_updated: null
-xml_hash: "765af18f32f76044e6f2ea8dac3a18018708bedb5695f466ae024a48ea561dbf"
+xml_hash: "7b8f12ba9dc7aa84f482147e27f9ddec1420fe39ecc48d45b6e987f2eccfe601"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -979,8 +979,9 @@ Internkontroll og informasjonstryggleik utførast i samsvar med personvernforord
 15. Søknader om oppbevaring hos andre etter [forskrift 25. juni 2009 nr. 904 om skytevåpen, våpendeler og ammunisjon mv. § 81](forskrift/2009-06-25-904/§81), som ikkje er ferdig handsama før ikraftsetjing av forskrifta, skal ikkje handsamast etter ikraftsetjing, men reknast som ei melding etter [§ 6-2](forskrift/2021-05-07-1452/§6-2) første ledd i denne forskrifta.
 16. Føresegnene om krav til løyve for mellombels innførsel etter [§ 10-14](forskrift/2021-05-07-1452/§10-14) tek til å gjelde tre månader etter ikraftsetjing av denne forskrifta.
 17. Åtgangen til å kunne destruere skytevåpen, våpendelar og ammunisjon som er innlevert ved tilbakekall gjeld også for gjenstandar som er innlevert før ikraftsetjing av denne forskrifta. Fristen etter [våpenlova § 31](lov/2018-04-20-7/§31) femte ledd for at politiet skal kunne destruere skytevåpen, våpendelar eller ammunisjon, som er innlevert ved tilbakekall før ikraftsetjing av denne forskrifta, tek til å gjelde frå ikraftsetjing av denne forskrifta.
+18. Næringsdrivande med løyve etter [lov 9. juni 1961 nr. 1 om skytevåpen og ammunisjon mv](lov/1961-06-09-1). må innan 1. juni 2028 oppfylle krava i [§ 6-5](forskrift/2021-05-07-1452/§6-5) til tryggleik for oppbevaring av skytevåpen, våpendelar og ammunisjon.
 
-> Endra ved forskrift [8 sep 2021 nr. 2720](forskrift/2021-09-08-2720).
+> Endra ved forskrifter [8 sep 2021 nr. 2720](forskrift/2021-09-08-2720), [29 april 2026 nr. 684](forskrift/2026-04-29-684).
 
 ### § 14-2. Ikraftsetjing
 

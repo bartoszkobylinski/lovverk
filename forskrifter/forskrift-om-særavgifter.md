@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2002-01-01"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-05-01"
 last_updated: "2023-08-03"
-xml_hash: "4cce01183af246784a12b7761075897d8377a64764de43be13e4ecabd3a2ee87"
+xml_hash: "65455350b377e0a66be7972e41076dbbf14e7368d6f7470f399134a566894194"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -418,9 +418,13 @@ De enkelte returselskap skal gi skattemyndighetene melding om endringer i medlem
 
 ### § 3-6-1. Saklig virkeområde
 
-Avgiftsplikten omfatter:*Mineralolje.* Som mineralolje anses oljer med mineralsk opphav hvor mindre enn 90 volumprosent destillerer over ved minst 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter ikke oljer som det skal betales avgift av etter Stortingets vedtak om avgift på smøreolje mv.*Bensin.* Som bensin anses oljer med mineralsk opphav hvor mindre enn 10 volumprosent destillerer over ved 20 °C og hvor mer enn 90 volumprosent destillerer over ved mindre enn 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter også blandinger dersom bensin er hovedbestanddel og blandingen kan benyttes som motordrivstoff. Avgiftsplikten omfatter ikke white spirit, kristall (krystallolje) og dilutin.*Naturgass.* Som naturgass anses også blandinger dersom naturgass er hovedbestanddel. Blandinger hvor andelen naturgass er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.*LPG.* Som LPG anses også blandinger dersom LPG er hovedbestanddel. Blandinger hvor andelen LPG er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.
+(1) Avgiftsplikten omfatter:*Mineralolje.* Som mineralolje anses oljer med mineralsk opphav hvor mindre enn 90 volumprosent destillerer over ved minst 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter ikke oljer som det skal betales avgift av etter Stortingets vedtak om avgift på smøreolje mv.*Bensin.* Som bensin anses oljer med mineralsk opphav hvor mindre enn 10 volumprosent destillerer over ved 20 °C og hvor mer enn 90 volumprosent destillerer over ved mindre enn 210 °C (ASTM D 86-metoden). Avgiftsplikten omfatter også blandinger dersom bensin er hovedbestanddel og blandingen kan benyttes som motordrivstoff. Avgiftsplikten omfatter ikke white spirit, kristall (krystallolje) og dilutin.*Naturgass.* Som naturgass anses også blandinger dersom naturgass er hovedbestanddel. Blandinger hvor andelen naturgass er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.*LPG.* Som LPG anses også blandinger dersom LPG er hovedbestanddel. Blandinger hvor andelen LPG er mindre enn 50 volumprosent omfattes ikke av avgiftsplikten.
 
-> Endret ved [forskrifter 13 des 2002 nr. 1639](forskrift/2002-12-13-1639) (i kraft 1 jan 2003), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013).
+(2) Som autodiesel anses mineralolje som det skal betales veibrukavgift for etter bestemmelsene i [kap. 3-11](forskrift/2001-12-11-1451/KAPITTEL_3-11).
+
+(3) Som anleggsdiesel anses mineralolje som er merket og som er fritatt for veibruksavgift etter bestemmelsene i [kap. 3-11](forskrift/2001-12-11-1451/KAPITTEL_3-11), unntatt mineralolje til sjøfart.
+
+> Endret ved [forskrifter 13 des 2002 nr. 1639](forskrift/2002-12-13-1639) (i kraft 1 jan 2003), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
 ### § 3-6-2. Avgiftsgrunnlag og -beregning
 
@@ -1682,27 +1686,27 @@ Avgiftsplikten oppstår når kraft produseres i landbaserte vindkraftverk.
 
 > Endret ved [forskrifter 15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [9 des 2016 nr. 1542](forskrift/2016-12-09-1542) (i kraft 1 jan 2017), opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023).
 
-### Kap. 4-3. Skip i innenriks kvotepliktig sjøfart
+### Kap. 4-3. Skip i innenriks kvotepliktig og innenriks ikke-kvotepliktig sjøfart
 
-> Endret ved forskrift [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), kapitlet opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026).
+> Endret ved forskrift [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), kapitlet opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), overskrift endret ved forskrift [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
-### § 4-3-1. Skip i innenriks kvotepliktig sjøfart – saklig virkeområde
+### § 4-3-1. Skip i innenriks kvotepliktig og innenriks ikke-kvotepliktig sjøfart – saklig virkeområde
 
-(1) Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart.
+(1) Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart. Registrerte virksomheter kan levere avgiftsbelagt mineralolje med redusert CO2-avgift til skip i innenriks ikke-kvotepliktig sjøfart.
 
-(2) Med innenriks kvotepliktig sjøfart menes fart i norsk territorialfarvann som er kvotepliktig etter [klimakvoteloven](lov/2004-12-17-99) eller tilsvarende regelverk i annet EØS-land.
+(2) Med innenriks sjøfart menes fart i norsk territorialfarvann. Med kvotepliktig menes kvotepliktig etter [klimakvoteloven](lov/2004-12-17-99) eller tilsvarende regelverk i annet EØS-land.
 
 (3) For avgiftsbelagte produkter som er levert fra ikke registrerte virksomheter gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen som skal betales etter Stortingets avgiftsvedtak § 1.
 
-> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026).
+> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
 ### § 4-3-2. Vilkår for fritak
 
-(1) Ved levering skal det avgis erklæring til den registrerte virksomheten om at produktene er til bruk i innenriks kvotepliktig sjøfart. Slik erklæring skal avgis av den som om bord er ansvarlig for bunkringen eller av rederiet. Med rederi menes det selskapet som står ansvarlig for driften av fartøyet.
+(1) Ved levering skal det avgis erklæring til den registrerte virksomheten om at produktene er til bruk i innenriks kvotepliktig sjøfart eller innenriks ikke-kvotepliktig sjøfart. Slik erklæring skal avgis av den som om bord er ansvarlig for bunkringen eller av rederiet. Med rederi menes det selskapet som står ansvarlig for driften av fartøyet.
 
-(2) Erklæringen skal inneholde opplysninger om fartøyets navn, nasjonalitet og registrering, navnet på skipsoperatøren etter [klimakvoteloven § 2a tredje ledd](lov/2004-12-17-99/§2a/ledd/3) eller tilsvarende regelverk i annet EØS-land, samt levert mengde mineralolje, naturgass eller LPG og bunkringsdato.
+(2) Erklæringen skal inneholde opplysninger om fartøyets navn, nasjonalitet og registering, mengde og bunkringsdato. For innenriks kvotepliktig sjøfart skal erklæringen også inneholde navnet på skipsoperatøren etter [klimakvoteloven § 2a tredje ledd](lov/2004-12-17-99/§2a/ledd/3) eller tilsvarende regelverk i annet EØS-land.
 
-(3) Generelle erklæringer om at fartøyet utelukkende benyttes i innenriks kvotepliktig sjøfart kan gis av rederiet. Erklæringen er gyldig for inntil ett år.
+(3) Generelle erklæringer om at fartøyet utelukkende benyttes i innenriks kvotepliktig sjøfart kan gis av rederiet. Erklæringen er gyldig for inntil ett år. Tilsvarende kan det gis generelle erklæringer om at fartøyet utelukkende benyttes i innenriks ikke-kvotepliktig sjøfart.
 
 (4) Den som avgir erklæring etter denne bestemmelse, er ansvarlig for at opplysningene er riktige og fullstendige.
 
@@ -1710,7 +1714,7 @@ Avgiftsplikten oppstår når kraft produseres i landbaserte vindkraftverk.
 
 (6) Skattekontoret kan kreve fremleggelse av kopi av dekksdagbok mv. som dokumentasjon for at vilkårene for redusert sats er oppfylt.
 
-> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), opphevet ved forskrift [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026).
+> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), opphevet ved forskrift [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
 ### § 4-3-3. Fremgangsmåten for refusjon
 
@@ -1736,17 +1740,19 @@ Søknad om refusjon sendes til skattekontoret.
 
 > Endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [23 juni 2025 nr. 1192](forskrift/2025-06-23-1192) (i kraft 1 juli 2025), [12 aug 2025 nr. 1622](forskrift/2025-08-12-1622).
 
-### § 4-4-2. Fartøy som driver fiske og fangst i fjerne farvann – saklig virkeområde
+### § 4-4-2. Fartøy som driver fiske og fangst i nære og fjerne farvann – saklig virkeområde
 
 (1) Registrerte virksomheter kan levere avgiftsbelagte produkter uten svovelavgift på mineralolje og avgift på smøreolje mv. til fartøy som driver fiske og fangst i fjerne farvann.
 
-(2) Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgiftssats på mineralolje, naturgass og LPG til fartøy som driver fiske og fangst i fjerne farvann og fartøy som driver fiske og fangst i både nære og fjerne farvann.
+(2) Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgiftssats på mineralolje, naturgass og LPG til fartøy som driver fiske og fangst i fjerne farvann og fartøy som driver fiske og fangst i både nære og fjerne farvann. Registrerte virksomheter kan levere avgiftsbelagt mineralolje med redusert CO2-avgiftssats til fartøy som driver fiske og fangst i nære farvann.
 
-(3) For avgiftsbelagte produkter levert fra ikke registrerte virksomheter gis det refusjon for tilsvarende innbetalt svovelavgift på mineralolje og avgift på smøreolje mv. Det gis refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass og LPG og den reduserte satsen som skal betales etter Stortingets vedtak om CO2-avgift på mineralske produkter § 1 bokstav a fjerde og femte strekpunkt, bokstav c fjerde og femte strekpunkt og bokstav d fjerde og femte strekpunkt.
+(3) For avgiftsbelagte produkter levert fra ikke registrerte virksomheter gis det refusjon for tilsvarende innbetalt svovelavgift på mineralolje og avgift på smøreolje mv. Det gis refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass og LPG og den reduserte satsen som skal betales etter Stortingets vedtak om CO2-avgift på mineralske produkter § 1 bokstav a andre, tredje og femte strekpunkt, bokstav c tredje og fjerde strekpunkt og bokstav d tredje og fjerde strekpunkt.
 
 (4) Med fjerne farvann menes havområder hvor avstanden til norskekysten (grunnlinjen) er 250 nautiske mil eller mer.
 
-> Endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
+(5) Med nære farvann menes havområder hvor avstanden til norskekysten (grunnlinjen) er mindre enn 250 nautiske mil.
+
+> Endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
 ### § 4-4-3. Innretninger på kontinentalsokkelen mv. – saklig virkeområde
 
@@ -1764,9 +1770,9 @@ Søknad om refusjon sendes til skattekontoret.
 
 (1) Ved levering skal det avgis erklæring til den registrerte virksomheten om at produktene er til bruk som nevnt i [§ 4-4-1](forskrift/2001-12-11-1451/§4-4-1), [§ 4-4-2](forskrift/2001-12-11-1451/§4-4-2) og [§ 4-4-3](forskrift/2001-12-11-1451/§4-4-3). Slik erklæring skal avgis av den som om bord er ansvarlig for bunkringen eller av rederiet.
 
-(2) Erklæringen skal inneholde opplysninger om fartøyets navn, nasjonalitet, bestemmelsessted, mengde og bunkringsdato. For skip som nevnt i [§ 4-4-1](forskrift/2001-12-11-1451/§4-4-1) tredje ledd bokstav a og b skal første utenlandske havn angis. For fartøyer som driver fiske og fangst kun i fjerne farvann og bestemmelsesstedet ligger dels innenfor og dels utenfor 250-milsgrensen, må det presiseres at bestemmelsesstedet ligger utenfor grensen. For fartøy som driver fiske og fangst i både nære og fjerne farvann, må det presiseres at fisket skjer begge steder.
+(2) Erklæringen skal inneholde opplysninger om fartøyets navn, nasjonalitet, bestemmelsessted, mengde og bunkringsdato. For skip som nevnt i [§ 4-4-1](forskrift/2001-12-11-1451/§4-4-1) tredje ledd bokstav a og b skal første utenlandske havn angis. For fartøyer som driver fiske og fangst kun i fjerne farvann og bestemmelsesstedet ligger dels innenfor og dels utenfor 250-milsgrensen, må det presiseres at bestemmelsesstedet ligger utenfor grensen. For fartøy som driver fiske og fangst i både nære og fjerne farvann, må det presiseres at fisket skjer begge steder. For fartøy som driver fiske i nære farvann må det presiseres at fiske skjer i nære farvann.
 
-(3) Generelle erklæringer om at fartøyet utelukkende benyttes i utenriks fart, fiske og fangst i fjerne farvann eller innretning på kontinentalsokkelen mv. kan gis av rederiet. Tilsvarende gjelder for fartøy som utelukkende brukes til kombinert fiske og fangst både i nære og fjerne farvann. Erklæringen er gyldig for inntil ett år.
+(3) Generelle erklæringer om at fartøyet utelukkende benyttes i utenriks fart, fiske og fangst i fjerne farvann eller innretning på kontinentalsokkelen mv. kan gis av rederiet. Tilsvarende gjelder for fartøy som utelukkende brukes til fiske og fangst i nære farvann eller utelukkende brukes til kombinert fiske og fangst både i nære og fjerne farvann. Erklæringen er gyldig for inntil ett år.
 
 (4) Den som avgir erklæring etter denne bestemmelse, er ansvarlig for at opplysningene er riktige og fullstendige.
 
@@ -1774,7 +1780,7 @@ Søknad om refusjon sendes til skattekontoret.
 
 (6) Skattekontoret kan kreve fremleggelse av kopi av dekksdagbok mv. som dokumentasjon for at vilkårene for fritak eller redusert sats er oppfylt.
 
-> Endret ved [forskrifter 18 feb 2004 nr. 411](forskrift/2004-02-18-411), [10 des 2007 nr. 1396](forskrift/2007-12-10-1396) (i kraft 1 jan 2008), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [9 des 2016 nr. 1542](forskrift/2016-12-09-1542) (i kraft 1 jan 2017), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 18 feb 2004 nr. 411](forskrift/2004-02-18-411), [10 des 2007 nr. 1396](forskrift/2007-12-10-1396) (i kraft 1 jan 2008), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [9 des 2016 nr. 1542](forskrift/2016-12-09-1542) (i kraft 1 jan 2017), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
 
 ### § 4-4-5. Fremgangsmåten for refusjon
 

@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1998-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-05-01"
 last_updated: "2022-07-04"
-xml_hash: "c910503dbf01e693b79f99f79cdbdc821427a1e95d2743a8222e87e55c8f225e"
+xml_hash: "868aa31b47ab11ed1da98a8de7e3d9e999487ac5eff30ff04395fba9a57eaa58"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Salær til sakkyndig som gjør tjeneste for påtalemyndigheten fastsettes av ved
 
 Arbeidsoppgave skal leveres den salærfastsettende myndighet snarest og senest innen 3 måneder etter avsluttet arbeid. Arbeidsoppgave innlevert etter fristen skal ikke honoreres med mindre forsinkelsen er å anse som unnskyldelig. I de tilfeller hvor kravet ikke dekkes av det offentlige, kan vedkommende heller ikke kreve salær av klienten.
 
-Arbeidsoppgaven skal gis på skjema fastsatt av Justisdepartementet. Oppgaven skal gi så utførlige opplysninger om det arbeidet som er utført utenfor rettsmøter at salærfastsettende myndighet kan bedømme den tid som er medgått til arbeidet. Kun faktisk medgått tid skal faktureres.
+Arbeidsoppgaven skal leveres elektronisk dersom det stilles krav om dette i [forskrift om elektronisk kommunikasjon med domstolene](forskrift/2016-10-28-1258) eller i [rettshjelpsforskriften](forskrift/2025-09-26-1961). Oppgaven skal gi så utførlige opplysninger om det arbeidet som er utført utenfor rettsmøter at salærfastsettende myndighet kan bedømme den tid som er medgått til arbeidet. Timelister skal vedlegges i saker som godtgjøres etter medgått tid. Kun faktisk medgått tid skal faktureres.
 
 Den salærfastsettende myndighet kan kreve fremlagt slik dokumentasjon fra den salærberettigede som er nødvendig for å vurdere sakens omfang. I arbeidsoppgaven skal det redegjøres for hvorvidt salær for utført arbeid i samme sak tidligere er fastsatt og anvist av samme eller annen salærfastsettende myndighet. Kopi av eventuelt tidligere anvist arbeidsoppgave i saken skal vedlegges.
 
@@ -78,7 +78,7 @@ I de tilfeller hvor advokaten eller den sakkyndige bruker tolk, er vedkommende a
 
 Legitimerte utlegg som er nødvendig for å utføre oppdrag som aktor, forsvarer, prosessfullmektig, advokat eller sakkyndig på tilfredsstillende måte, skal tas med i den salærberettigedes arbeidsoppgave.
 
-> Endret ved [forskrift 7 jan 2009 nr. 51](forskrift/2009-01-07-51) (i kraft 1 feb 2009). **Endres** ved forskrift [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026).
+> Endret ved forskrifter [7 jan 2009 nr. 51](forskrift/2009-01-07-51) (i kraft 1 feb 2009), [26 mars 2026 nr. 495](forskrift/2026-03-26-495) (i kraft 1 mai 2026).
 
 ## § 6. Salærfastsetting og utbetaling
 

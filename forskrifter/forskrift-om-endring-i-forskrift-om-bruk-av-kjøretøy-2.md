@@ -1,21 +1,21 @@
 ---
-id: "sf-20260121-0071"
+id: "sf-20260121-0091"
 slug: "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2"
 type: "forskrift"
-ref_id: "forskrift/2026-01-21-71"
+ref_id: "forskrift/2026-01-21-91"
 title: "Forskrift om endring i forskrift om bruk av kjøretøy"
 short_title: null
 language: "nb"
 ministry:
   - "Samferdselsdepartementet"
-date_in_force: "2026-02-01"
+date_in_force: "2026-06-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "97c52deec7584bbd9d6b02bc4d1483a0331fc3354a52fe13cb8e15b4ef98ba68"
+xml_hash: "2d56cd7eb93d6e919b9cd20f5c44fa0ee191b09858c8b9880a916fec53603fe3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,18 +24,16 @@ eu_basis: []
 
 ## I
 
-1. Tillatt totalvekt for vogntog særlig innrettet for transport av tømmer.
+- På veger som i vegliste for tømmertransport er angitt som Bk10/56, er største tillatte totalvekter som for Bk10/50 i [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3).
 
-- For tømmervogntog med lengde over 19,50 meter og totalvekt over 50 tonn, kan tømmeret maksimalt stikke ut 1,00 meter bak vogntoget.
+På veger som i vegliste for tømmertransport er angitt som Bk10/56, er største tillatte totalvekter som for Bk10/50 i [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3).
 
-1. I tillegg til de vekter som følger av [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3), gjelder følgende for vogntog med tillatt totalvekt over 50 tonn etter denne paragraf:Tillatt totalvekt for vogntog som angitt i denne paragraf nr. 1, 2, 7 og 10.*Minsteavstand**Avstand fra første til siste aksel i meter**Totalvekt i tonn*3,00–3,69 mMindre enn 16,00Som for Bk10/5016,00 eller større50Vogntog bestående av lastebil med slepvogn og modulvogntog bestående av motorvogn med dolly og semitrailer, og øvrige modulvogntog uavhengig av minsteavstander15,60 eller mindre5015,61–16,005116,01–16,205216,21–16,605316,61–17,005417,01–17,405517,41–17,805617,81–18,205718,21–18,605818,61–18,995919,00 eller større60
+[Tabell]
 
-1. Tillatt totalvekt på Bk10 for enkeltkjøretøy som inngår i vogntog som angitt i nr. 1, 2 og 7
+1. Dispensasjon med tidsbegrensning kan gis for følgende aksellaster3:
 
-1. Tillatt totalvekt på BkT8 for enkeltkjøretøy som inngår i vogntog som angitt i nr. 1, 2 og 7
-
-1. Særlige bestemmelse om totalvekt over 50 tonn for vogntog med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4)På veg som i vegliste for tømmertransport er angitt som Bk10/60 med tillatt vogntoglengde 19,50, 22,00 eller 24,00 meter, tillates totalvekt over 50 tonn for vogntog bestående av motorvogn N2 N3 og slepvogn O3 og O4 med lengder i henhold til [§ 5-4 nr. 4](forskrift/1990-01-25-92/§5-4/nummer/4).Totalvekt som angitt i nr. 3 bokstav a tillates inntil følgende grenser:Vogntog med 6 aksler, 54 tonnVogntog med 7 aksler, 55 tonnFor vogntog hvor motorvognen er et biogassdrevet kjøretøy, tillates totalvekt som angitt i nr. 3 bokstav a inntil følgende grenser:Vogntog med 6 aksler, 55 tonnVogntog med 7 aksler, 56 tonnFor vogntog med 6 eller 7 aksler hvor motorvognen er et nullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l), tillates totalvekt som angitt i nr. 3 bokstav a inntil 56 tonnTillatt totalvekt for motorvogn som inngår i vogntog med tillatt totalvekt over 50 tonn:Biogassdrevet motorvogn med 3 aksler, 27 tonnNullutslippskjøretøy som definert i [§ 5-2 bokstav l](forskrift/1990-01-25-92/§5-2/bokstav/l) med 3 aksler, 28 tonnVogntoget skal i alle henseender samsvare med tillatte kjøretøy- og vogntoglengder i [§ 5-4 nr. 4 bokstav a](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/a) tabell 4, sporingskrav i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 1 første ledd og lastlengder i [§ 5-4 nr. 4 bokstav b](forskrift/1990-01-25-92/§5-4/nummer/4/bokstav/b) pkt. 4 og 5.
+For veger angitt som Bk10/42 i vegliste for spesialtransport, kan det gis dispensasjon for totalvekt som for BkT8/40.
 
 ## II
 
-Denne forskrift trer i kraft 1. februar 2026.
+Denne forskrift trer i kraft 1. juni 2026.

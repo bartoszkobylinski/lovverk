@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-05-01"
 last_updated: "2017-03-13"
-xml_hash: "59d1799ca5023fccd83d950da83c3936e7eafee9270037dd203c887c4122caf6"
+xml_hash: "717cdb40e6a82ca0331de704bc640946cfc3be3daf9b47bb9f75365acd795be4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-04T10:13:30.563489+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -462,109 +462,45 @@ Når godkjenningen av en faglig leder tilbakekalles etter tredje ledd, skal tilb
 
 > Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
 
-### § 6-8. Spesielle krav til trafikklærer – tunge klasser, klasse T og klasse BE
+### § 6-8. (Opphevet)
 
-For godkjenning som trafikklærer i klassene C1, C1E, C, CE, D1, D1E, D og DE kreves i tillegg til grunnutdanning for trafikklærere jf. [§ 6-2](forskrift/2004-10-01-1339/§6-2), utdanning for opplæring på tunge kjøretøy fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen.
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-For å kunne undervise i klasse T kreves godkjenning som trafikklærer og spesialutdanning godkjent av Statens vegvesen.
+### § 6-9. (Opphevet)
 
-For godkjenning som trafikklærer klasse BE kreves godkjenning som trafikklærer jf. [§ 6-2](forskrift/2004-10-01-1339/§6-2), og spesialutdanning fra Nord universitet eller tilsvarende utdanning godkjent av Statens vegvesen.
+> Endret ved forskrifter [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-Trafikklærer som er godkjent i klasse BE før 15. mars 2025, må kun gjennomføre etterutdanning i henhold til [trafikklærerforskriften](forskrift/2024-10-15-2556) for å oppfylle vilkårene om spesialutdanning i tredje ledd. Lærer som ikke har gjennomført kurs i sikring av last jf. [§ 6-10](forskrift/2004-10-01-1339/§6-10), må likevel gjennomføre dette før regodkjenning gis.
+### § 6-10. (Opphevet)
 
-> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-### § 6-9. Krav til undervisningspersonell – kurs i ulykkesberedskap
+### § 6-11. (Opphevet)
 
-Undervisningspersonell på kurs i ulykkesberedskap skal være godkjent trafikklærer for tunge klasser og ha spesialutdanning i brannberedskap, skadestedsledelse og førstehjelp fra Nord universitet eller tilsvarende. Minst en dag av spesialutdanningen skal være undervisningsmetodikk. For undervisningspersonell som ikke er godkjent trafikklærer for tunge klasser skal disse ha spesialutdanning og erfaring i brannberedskap, skadestedsledelse eller førstehjelp, avhengig av hvilket emne vedkommende skal undervise i, og være under oppsyn av godkjent trafikklærer for tunge klasser. Tilstedeværende trafikklærer er ansvarlig for opplæringen, jf. [§ 6-1 første ledd](forskrift/2004-10-01-1339/§6-1/ledd/1).
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-> Endret ved forskrifter [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+### § 6-12. (Opphevet)
 
-### § 6-10. Krav til undervisningspersonell – kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T
+> Endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-Undervisningspersonell på kurs i sikring og merking av last for klassene B kode 96, BE, D1E, DE og T skal være trafikklærer og ha gjennomført kurs i sikring av last for klassene C1 og C.
+### § 6-13. (Opphevet)
 
-> Endret ved forskrift [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-### § 6-11. Krav til undervisningspersonell – kurs i sikring av last for klassene C1 og C
+### § 6-14. (Opphevet)
 
-Undervisningspersonell på kurs i sikring av last skal være godkjent trafikklærer for tunge klasser og ha spesialutdanning i emnet fra Nord universitet eller tilsvarende. Minst en dag av spesialutdanningen skal være undervisningsmetodikk.
+> Endret ved forskrifter [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [6 aug 2012 nr. 796](forskrift/2012-08-06-796) (i kraft 1 sep 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-13), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-Personer som har en spesialutdanning i undervisning i lastsikring før 1. januar 2005, kan undervise på kurs i sikring av last, forutsatt at de har gjennomført en dag opplæring i undervisningsmetodikk ved Nord universitet eller tilsvarende.
+### § 6-15. (Opphevet)
 
-I tillegg skal en person som har førerett i klasse C og enten kranførerbevis eller truckførerbevis, assistere ved demonstrasjonene og ved de praktiske øvelsene.
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft straks og 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-14), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+### § 6-16. (Opphevet)
 
-### § 6-12. Krav til undervisningspersonell – sikkerhetskurs på bane for klassene C, D og CE
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-15), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
-Undervisningspersonell ved sikkerhetskurs på bane skal være godkjent trafikklærer for tunge klasser.
+### § 6-17. (Opphevet)
 
-På hvert kurs skal det være minst en lærer som har gjennomgått spesialutdanning som instruktør for tunge kjøretøy ved glattkjøringsbaner, eller som har undervist på minst 15 obligatoriske kurs på bane tidligere.
-
-En lærer kan undervise inntil 9 timer på banen per dag.
-
-> Endret ved forskrift [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
-
-### § 6-13. Krav til undervisningspersonell – Sikkerhetskurs klasse T 141 og klasse T 148
-
-Undervisningspersonell på sikkerhetskurs klasse T kode 141 og klasse T kode 148 skal, i tillegg til å oppfylle kravene i [§ 6-8](forskrift/2004-10-01-1339/§6-8) andre ledd, ha spesialutdanning godkjent av Statens vegvesen.
-
-> Tilføyd ved forskrift [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014), endret ved forskrifter [2 des 2016 nr. 1444](forskrift/2016-12-02-1444) (i kraft 1 jan 2017), [7 des 2022 nr. 2225](forskrift/2022-12-07-2225). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
-
-### § 6-14. Godkjenning av faglige ledere
-
-Faglig leder av en trafikkskole skal ha godkjenning som trafikklærer, ha minst tre års lærerpraksis som hovedyrke ved en trafikkskole etter grunnutdanning for trafikklærere, og ha gjennomgått faglig lederkurs ved Nord universitet eller ha annen tilsvarende lederutdanning.
-
-Godkjenning som faglig leder gis av Statens vegvesen.
-
-Statens vegvesen kan også godkjenne faglig leder på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. yrkeskvalifikasjonsloven og [forskrift 22. desember 2017 nr. 2384](forskrift/2017-12-22-2384) om godkjenning av yrkeskvalifikasjoner.
-
-Statens vegvesen kan i tillegg godkjenne utdanning og praksis fra øvrige land. Godkjenning forutsetter bestått egnethetsprøve. Det kan også settes vilkår om gjennomføring av prøveperiode.
-
-Statens vegvesen registrerer godkjenningen i Trafikkskole, sensor og kursarrangørregisteret (TSK-registeret).
-
-> Endret ved forskrifter [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [6 aug 2012 nr. 796](forskrift/2012-08-06-796) (i kraft 1 sep 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-13), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
-
-### § 6-15. Faglig leders plikter
-
-Den faglige lederen er ansvarlig for at trafikkskolen drives i samsvar med gjeldende regelverk og plikter blant annet å:samordne virksomheten ved skolensørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsoppleggetveilede og kontrollere alle lærere som faglig leder er ansvarlig for, i alle trinn og kurs som den enkelte læreren gir undervisning isørge for at undervisningspersonellet gjennomgår nødvendig faglig utviklingforeta evaluering av undervisningensørge for at bare kvalifisert undervisningspersonell gir undervisningdelta i praktisk og teoretisk trafikkopplæringvære trafikkskolens kontaktperson i forhold til Statens vegvesengi Statens vegvesen nødvendige opplysninger om trafikkskolens driftpåse at trafikkskolen ikke driver undervisning i andre klasser enn de den faglige lederen eller faglig medansvarlige etter fjerde ledd har formell kompetanse for å undervise isørge for innmelding av obligatorisk opplæring i tråd med [§ 7-6](forskrift/2004-10-01-1339/§7-6) og [§ 29-2](forskrift/2004-10-01-1339/§29-2)faglig leder må ved behov fremlegge legeattest som viser at fastsatte helsekrav er oppfylt for vedkommende selv og for trafikklærerne.
-
-Faglig leder skal utarbeide en årlig plan der omfang og innhold i veiledningen og kontrollen som kreves etter første ledd bokstav c, fastlegges og beskrives. Gjennomført veiledning og kontroll skal dokumenteres skriftlig.
-
-Trafikkskolen kan gi undervisning i klasse S selv om den faglige lederen ikke har spesialutdanning i klasse S. Trafikkskolen kan gi undervisning i tunge klasser selv om ikke faglig leder har undervisningskompetanse til å undervise på kurs som nevnt i [§ 6-9](forskrift/2004-10-01-1339/§6-9) til [§ 6-12](forskrift/2004-10-01-1339/§6-12).
-
-Trafikkskolen kan gi undervisning i klassene AM146, A1, A2, A og T selv om faglig leder ikke har undervisningskompetanse i vedkommende klasse, forutsatt at en annen trafikklærer ved trafikkskolen er faglig medansvarlig for opplæringen i vedkommende klasse. Den faglig medansvarlige må ha undervisningsrett og minst 3 års undervisningspraksis i vedkommende klasse. Faglig leder har likevel hovedansvaret.
-
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft straks og 1 juli 2006), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-14), [28 feb 2017 nr. 232](forskrift/2017-02-28-232), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
-
-### § 6-16. Reaksjoner overfor faglig leder
-
-Statens vegvesen kan gi pålegg når faglig leder ikke oppfyller forskriftens krav.
-
-Statens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i forskriften.
-
-Statens vegvesen skal tilbakekalle godkjenningen som faglig leder når den faglige lederen ikke lenger oppfyller vilkårene for å være godkjent som faglig leder. Ny godkjenning kan ikke gis før vilkårene igjen er oppfylt.
-
-Statens vegvesen kan tilbakekalle godkjenningen som faglig leder helt eller delvis når vedkommendehar gjort vesentlig brudd på forskrift om trafikkopplæring ellerpå tross av skriftlig advarsel eller pålegg bryter forskriften.
-
-Ved vurderingen av vedtak etter første, andre og fjerde ledd, skal det tas hensyn til i hvilken grad den faglige lederen kan bebreides for overtredelsen. Dersom faglig leder unndrar seg tilsyn, eller ikke gir relevante opplysninger om opplæringen eller trafikkskolens drift som Statens vegvesen ber om, anses dette som vesentlig brudd på forskriften, med mindre den faglige lederen i svært liten grad kan lastes for forholdet.
-
-Når godkjenningen av en faglig leder tilbakekalles etter tredje ledd, skal tilbakekallingen første gang normalt gjelde fra tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid. Dersom godkjenningen tilbakekalles, skal Statens vegvesen registrere tilbakekallingen i IMI (Internal Market Information System) innen tre dager, jf. [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20). Det samme gjelder når det foreligger en rettskraftig dom knyttet til falsk dokumentasjon, jf. [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20). Dersom vedtaket eller dom opphører, skal varslingen i IMI slettes i løpet av tre dager, jf. [forskrift om godkjenning av yrkeskvalifikasjoner § 7-1](forskrift/2017-12-22-2384/§7-1).
-
-> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [26 aug 2014 nr. 1115](forskrift/2014-08-26-1115) (i kraft 1 sep 2014, tidligere § 6-15), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
-
-### § 6-17. Godkjenningsgebyr for trafikklærere og faglige ledere
-
-For førstegangsbehandling av søknad om godkjenning som trafikklærer eller faglig leder, skal det betales et gebyr.
-
-For utvidelse av godkjenningen som trafikklærer, skal det betales et gebyr.
-
-For behandling av søknad om godkjenning som trafikklærer eller faglig leder på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. [yrkeskvalifikasjonsloven](lov/2017-06-16-69) og [forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner](forskrift/2017-12-22-2384), skal det betales et gebyr. Ved gjennomføring av prøveperiode for trafikklærer og faglig leder, skal det før oppstart betales et gebyr.
-
-Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 10](forskrift/2023-10-10-1650/kap10).
-
-> Tilføyd ved forskrift [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), endret ved forskrift [10 okt 2023 nr. 1659](forskrift/2023-10-10-1659). **Oppheves** ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
+> Tilføyd ved forskrift [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), endret ved forskrift [10 okt 2023 nr. 1659](forskrift/2023-10-10-1659), opphevet ved forskrift [20 april 2026 nr. 621](forskrift/2026-04-20-621) (i kraft 1 mai 2026).
 
 ## Kapittel 7. Generelt om trafikkopplæringens innhold
 
