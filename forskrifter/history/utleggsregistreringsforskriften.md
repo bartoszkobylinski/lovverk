@@ -1,6 +1,16 @@
 # utleggsregistreringsforskriften — Change history
 
-_2 events; doc_id `sf-20080219-0158`._
+_4 events; doc_id `sf-20250808-1616`._
+
+## 2026-05-04 — Content updated
+Lines: +0 -119.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20080219-0158.md` → `forskrifter/utleggsregistreringsforskriften.md`.

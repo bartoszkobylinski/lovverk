@@ -5995,14 +5995,14 @@
     "nl-20090619-097": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "lover/dyrevelferdsloven.md",
       "slug": "dyrevelferdsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om dyrevelferd",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "092263a5afb4e9584d073624200a6666832e3e181e8009fe5c8917e04b37653e"
     },
     "nl-20090619-100": {
@@ -9185,14 +9185,14 @@
     "nl-20240308-009": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "lover/universitets-og-høyskoleloven.md",
       "slug": "universitets-og-høyskoleloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om universiteter og høyskoler (universitets- og høyskoleloven)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "32c6a39308d674cebeee6366b7d80d37b4a8b7acbf65eefd9a109b6876b305fc"
     },
     "nl-20240412-016": {
@@ -9596,14 +9596,14 @@
     "nl-20250606-026": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "lover/vass-og-avløpsanleggslova.md",
       "slug": "vass-og-avløpsanleggslova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanleggslova)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "d03033278c14896b4c5224952d53ae86e5c2eb08bcc9f809215f0b0d894cacf0"
     },
     "nl-20250606-027": {
@@ -18560,14 +18560,14 @@
     "sf-19971203-1441": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/salærforskriften.md",
       "slug": "salærforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om salær fra det offentlige til advokater m.v.",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "868aa31b47ab11ed1da98a8de7e3d9e999487ac5eff30ff04395fba9a57eaa58"
     },
     "sf-19971215-1305": {
@@ -20926,14 +20926,14 @@
     "sf-20011211-1451": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-særavgifter.md",
       "slug": "forskrift-om-særavgifter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om særavgifter",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "65455350b377e0a66be7972e41076dbbf14e7368d6f7470f399134a566894194"
     },
     "sf-20011212-1494": {
@@ -23630,14 +23630,14 @@
     "sf-20041001-1339": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/trafikkopplæringsforskriften.md",
       "slug": "trafikkopplæringsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om trafikkopplæring og førerprøve m.m. (trafikkopplæringsforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "717cdb40e6a82ca0331de704bc640946cfc3be3daf9b47bb9f75365acd795be4"
     },
     "sf-20041001-1340": {
@@ -26308,14 +26308,14 @@
     "sf-20070628-0814": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/blåreseptforskriften.md",
       "slug": "blåreseptforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "75bda4c0845899010e78c8c6df8322c8e044d1d939ea37700eda2bb98116dd5c"
     },
     "sf-20070629-0742": {
@@ -27569,14 +27569,14 @@
     "sf-20081008-1130": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-helsepersonell-fra-eøs-land-og-sveits.md",
       "slug": "forskrift-om-helsepersonell-fra-eøs-land-og-sveits",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "ba9b59b31186acf04d1b4796e5ec95038cb52bf70b4fd6d94584effaf0903028"
     },
     "sf-20081010-1100": {
@@ -28609,14 +28609,14 @@
     "sf-20091015-1286": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "slug": "utlendingsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "4547f1f7153c7be91f6ee75788aec6c15d7b178439e6bab59bcdc139678d394b"
     },
     "sf-20091016-1280": {
@@ -37111,14 +37111,14 @@
     "sf-20161028-1258": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/elsam-forskriften.md",
       "slug": "elsam-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om elektronisk kommunikasjon med domstolene",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "f54663d7ee925b9d9402445df17f84b351ae3f6f63b56d709a606fe7b323614b"
     },
     "sf-20161031-1264": {
@@ -37540,14 +37540,14 @@
     "sf-20170116-0061": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/produksjonsområdeforskriften.md",
       "slug": "produksjonsområdeforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret (produksjonsområdeforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "24ea1092689412471f7d7799d6525c1d227b7ce0bd5fa55210d29bc744b9ad44"
     },
     "sf-20170117-0041": {
@@ -44092,14 +44092,14 @@
     "sf-20210315-1008": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett.md",
       "slug": "forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om trekningskretser for meddommere ved Buskerud tingrett",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "fea98448ec375347f8937d9c527bc89a001b81a87a3299f09af1f81b850abd4f"
     },
     "sf-20210315-1010": {
@@ -44300,14 +44300,14 @@
     "sf-20210507-1452": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/våpenforskrifta.md",
       "slug": "våpenforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om våpen, skytevåpen, våpendelar og ammunisjon (våpenforskrifta)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "7b8f12ba9dc7aa84f482147e27f9ddec1420fe39ecc48d45b6e987f2eccfe601"
     },
     "sf-20210509-1476": {
@@ -45340,14 +45340,14 @@
     "sf-20210913-2744": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/tolkeforskriften.md",
       "slug": "tolkeforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til tolkeloven (tolkeforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "d05c7d062690a0fc7c778cf545a1a3b52c24ab38d2634ac15065aae73394680b"
     },
     "sf-20210915-2755": {
@@ -46991,14 +46991,14 @@
     "sf-20220623-1161": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke.md",
       "slug": "forskrift-om-infisert-sone-for-høypatogen-aviær-influensa-og-newcastlesyke",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om infisert sone for høypatogen aviær influensa og Newcastlesyke",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "4279787ee736c69099d73d56dd41dc4e10f23f73e9e7a1d8d08f1bd093c1c295"
     },
     "sf-20220626-1193": {
@@ -48876,79 +48876,79 @@
     "sf-20231024-1694": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-normaltransport.md",
       "slug": "veglister-normaltransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om normaltransport på riks-, fylkes- og kommunale veger (veglister normaltransport)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "411d02562e8b70783dd2b3e14640dfac6133db792dce686026744f92e9bb6ede"
     },
     "sf-20231024-1695": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-tømmertransport.md",
       "slug": "veglister-tømmertransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tømmertransport på riks-, fylkes- og kommunale veger (veglister tømmertransport)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "3bb3d7a3b20cbf9b1fc9030e99f5b219fa1c8842a3f4871b86e52ee94434274c"
     },
     "sf-20231024-1696": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-modulvogntog.md",
       "slug": "veglister-modulvogntog",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om modulvogntog på riks-, fylkes- og kommunale veger (veglister modulvogntog)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "3c99b8eb412390f903e6534be55fd897de249e8ea9ec304447118beb3a4624ea"
     },
     "sf-20231024-1697": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-spesialtransport.md",
       "slug": "veglister-spesialtransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om spesialtransport på riks-, fylkes- og kommunale veger (veglister spesialtransport)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "12f2b63da5af5eed46bc4f974ea3fbc7283a669f53c78f61fda16f7ec4a9dc16"
     },
     "sf-20231024-1698": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-12-100-spesialtransport.md",
       "slug": "veglister-12-100-spesialtransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/100 for spesialtransport på riks-, fylkes- og kommunale veger (veglister 12/100 spesialtransport)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "58e74ddc32cf3a09c0dc250b6092afa52acc790dbafe59d75268063ff01d8ba2"
     },
     "sf-20231024-1699": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/veglister-12-65-mobilkran-m-m.md",
       "slug": "veglister-12-65-mobilkran-m-m",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/65 for mobilkran, betongpumpebil og liftbil på riks-, fylkes- og kommunale veger (veglister 12/65 mobilkran m.m.)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "6906427a0db737857b813221b0c7154e28b2aa4583c1613f58cbfd4da386fc62"
     },
     "sf-20231024-1932": {
@@ -54583,27 +54583,27 @@
     "sf-20250806-1612": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-elektronisk-stiftelse-og-registrering-av-aksjeselskaper-og-om-elektronisk-registrering-av-utenlandske-foretak-mv.md",
       "slug": "forskrift-om-elektronisk-stiftelse-og-registrering-av-aksjeselskaper-og-om-elektronisk-registrering-av-utenlandske-foretak-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om elektronisk stiftelse og registrering av aksjeselskaper og om elektronisk registrering av utenlandske foretak mv.",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "dcd10039080de48909e5e3e0d61c06a4d9216c3777b6d41e6b73177bf9885e55"
     },
     "sf-20250806-1613": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-utveksling-av-opplysninger-gjennom-registersammenkoblingssystemet-mv.md",
       "slug": "forskrift-om-utveksling-av-opplysninger-gjennom-registersammenkoblingssystemet-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utveksling av opplysninger gjennom registersammenkoblingssystemet (BRIS) mv.",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "7d6e2082d073ee054ce2b2ea8c6a1251bf7a98bcc952af2157dfe5f7c55f529c"
     },
     "sf-20250806-1614": {
@@ -54674,14 +54674,14 @@
     "sf-20250808-1616": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/utleggsregistreringsforskriften.md",
       "slug": "utleggsregistreringsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om registrering av beslutninger om utlegg i Løsøreregisteret (utleggsregistreringsforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "2a0811af8a26d83d6778ce2bea53612f4e2b5c6b45f318dd672508a3f6b44f55"
     },
     "sf-20250811-1618": {
@@ -54908,92 +54908,92 @@
     "sf-20250904-1828": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for barnevernspedagogutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "0fe9d229ffd4a368986cda8c26bf052007744aa2d56bbb69abdc7eb47397e0fe"
     },
     "sf-20250905-1829": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-jordmorutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-jordmorutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for jordmorutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "75207fefad5b55c527945d255229cb19cc404ddb61726914660c6924525aac8f"
     },
     "sf-20250905-1830": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for operasjonssykepleierutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "c313f8b0d895f4c31975a8820ba02f44fe50aac8d64247f581aba07d54f5bda0"
     },
     "sf-20250905-1831": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-kreftsykepleierutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-kreftsykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for kreftsykepleierutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "e49425d32b4be74e1c1b7d98f677fb178ab532d23e78737af66a8f487070f142"
     },
     "sf-20250905-1832": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-barnesykepleierutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-barnesykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for barnesykepleierutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "f017e7aad490c55241dac7afc69ba50bd45a9b367788770ae8620416fc5325a8"
     },
     "sf-20250905-1833": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-anestesisykepleierutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-anestesisykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for anestesisykepleierutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "22eb8dbc136b5ebf16e2cab9e8ee1db81e2778d64166ac4481c1e86d041ed027"
     },
     "sf-20250905-1834": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-retningslinje-for-intensivsykepleierutdanning.md",
       "slug": "forskrift-om-nasjonal-retningslinje-for-intensivsykepleierutdanning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal retningslinje for intensivsykepleierutdanning",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "ea5bbaca93d93511748f27bfeb64e00a496d8a3c42a42cce7e4aa5ce17225255"
     },
     "sf-20250907-1787": {
@@ -56130,14 +56130,14 @@
     "sf-20251130-2373": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-integreringsarbeid-i-regi-av-frivillige-organisasjoner.md",
       "slug": "forskrift-om-tilskudd-til-integreringsarbeid-i-regi-av-frivillige-organisasjoner",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til integreringsarbeid i regi av frivillige organisasjoner",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "e92652d27ecbb80597beeceeb8519f94a703b63954d9fd24a69e89554e88dd8a"
     },
     "sf-20251201-2374": {
@@ -56182,14 +56182,14 @@
     "sf-20251201-2991": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as.md",
       "slug": "forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, disiplinære sanksjoner, klagebestemmelser og eksamen ved fagskolen Gokstad Akademiet AS",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "22ce376ca7c26c7810cc6cf96e5b609f05589e5e3abf4374c3d21938e1b4d426"
     },
     "sf-20251202-2405": {
@@ -56676,14 +56676,14 @@
     "sf-20251212-2507": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-norsk-farmakop.md",
       "slug": "forskrift-om-norsk-farmakop",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om norsk farmakopé",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "f28894770e6a82011d6475c97fd24dff1d3aaa2be2ed1f372e01525c374beb09"
     },
     "sf-20251212-2508": {
@@ -56741,14 +56741,14 @@
     "sf-20251212-2584": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r.md",
       "slug": "forskrift-om-satser-for-frakttilskudd-til-transport-av-kraftf-r",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om satser for frakttilskudd til transport av kraftfôr",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "f13bffe6ab49d38f99cbffe004bbcc4a40b2f64ab58143c924ecb08d689bbe37"
     },
     "sf-20251212-2609": {
@@ -56858,14 +56858,14 @@
     "sf-20251215-2610": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-til-studier-ved-høgskolen-i-østfold.md",
       "slug": "forskrift-om-opptak-til-studier-ved-høgskolen-i-østfold",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak til studier ved Høgskolen i Østfold",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "f179b6037d78f172010eba6f5912f621f7a52351d4b309d2f8c6feeecdcfff0a"
     },
     "sf-20251215-2611": {
@@ -57040,27 +57040,27 @@
     "sf-20251216-2962": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-ved-ldh.md",
       "slug": "forskrift-om-opptak-ved-ldh",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak ved Lovisenberg diakonale høgskole",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "6fcee3b9efa5a39cf4e8bf30b558188d694ce5d34d5ebe673cc70d8cb4ee6441"
     },
     "sf-20251216-3020": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-høyere-yrkesfaglig-utdanning-ved-nordland-fagskole.md",
       "slug": "forskrift-om-høyere-yrkesfaglig-utdanning-ved-nordland-fagskole",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om høyere yrkesfaglig utdanning ved Nordland fagskole",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "c955dca085ec378302c18e94dd3f3e3f2ecb0fce30e68eb6b04dd6c5811adca4"
     },
     "sf-20251217-2619": {
@@ -57339,14 +57339,14 @@
     "sf-20251218-2658": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader.md",
       "slug": "forskrift-om-forsinkelsesrente-og-kompensasjon-for-inndrivelseskostnader",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsinkelsesrente og kompensasjon for inndrivelseskostnader",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "601712729a4588c9d4a3075af7614af71f2e7f76a4d0486bad726c46a4591ada"
     },
     "sf-20251218-2659": {
@@ -57456,14 +57456,14 @@
     "sf-20251218-2918": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/endr-i-tiltaksforskriften.md",
       "slug": "endr-i-tiltaksforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om arbeidsmarkedstiltak (tiltaksforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "c335a82defbac07756204653bcad3b3149b7bd0a0d7cf13cf0beaf54ee4172c9"
     },
     "sf-20251218-2985": {
@@ -57807,14 +57807,14 @@
     "sf-20251219-2889": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fiske-i-oslofjorden.md",
       "slug": "forskrift-om-regulering-av-fiske-i-oslofjorden",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fiske i Oslofjorden",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "a170d2510ac639f05bba78bc6d9176b53b697bb5ad34a9ed499ea518535574fe"
     },
     "sf-20251219-2890": {
@@ -58158,27 +58158,27 @@
     "sf-20260121-0071": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "97c52deec7584bbd9d6b02bc4d1483a0331fc3354a52fe13cb8e15b4ef98ba68"
     },
     "sf-20260121-0091": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "2d56cd7eb93d6e919b9cd20f5c44fa0ee191b09858c8b9880a916fec53603fe3"
     },
     "sf-20260123-0081": {
@@ -58262,14 +58262,14 @@
     "sf-20260128-0125": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-gebyr-til-luftfartstilsynet-mv.md",
       "slug": "forskrift-om-gebyr-til-luftfartstilsynet-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gebyr til Luftfartstilsynet mv.",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "2de2080995e2fc1737c38d4c50977f434278f9b30eb3b0718114ccafb2028d92"
     },
     "sf-20260128-0149": {
@@ -58288,14 +58288,14 @@
     "sf-20260129-0108": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/endr-i-yrkestransportforskriften.md",
       "slug": "endr-i-yrkestransportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "b756b895adc5eb62cacf80c8a3a0345af17a112635d91eae92442abb4729944c"
     },
     "sf-20260129-0110": {
@@ -58561,14 +58561,14 @@
     "sf-20260218-0235": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/endr-i-opplæringsforskrifta-og-privatskoleforskrifta.md",
       "slug": "endr-i-opplæringsforskrifta-og-privatskoleforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) og forskrift til privatskolelova (privatskoleforskrifta)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "456021affd74c1054ddf8b8103153b039c466fdbc8a3bc53c98a7976ebe568e8"
     },
     "sf-20260223-0262": {
@@ -58613,14 +58613,14 @@
     "sf-20260226-0296": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/endr-i-vareførselsforskriften-5.md",
       "slug": "endr-i-vareførselsforskriften-5",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "4a70b2a6acef3c49e78a825a85c684706b6d26a4d3ba99ca6014da451b6d6632"
     },
     "sf-20260227-0298": {
@@ -58886,14 +58886,14 @@
     "sf-20260320-0442": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "3af004b75cb5e5370195549e2ea774fcf1102e698a4ba8bc497fe35433f01e3d"
     },
     "sf-20260320-0443": {
@@ -58990,14 +58990,14 @@
     "sf-20260326-0506": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-boligtiltak.md",
       "slug": "forskrift-om-tilskudd-til-boligtiltak",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til boligtiltak",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "3de923217d90ee3044552b80ab9de8d9c3a0c866a381c344f188813241271a5c"
     },
     "sf-20260326-0554": {
@@ -59016,14 +59016,14 @@
     "sf-20260327-0497": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/endr-i-utlendingsforskriften-2.md",
       "slug": "endr-i-utlendingsforskriften-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endringer i utlendingsforskriften (avgrensning av personkretsen som omfattes av ordningen med midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina)",
-      "total_changes": null,
+      "total_changes": 4,
       "xml_hash": "dbcbe2578210b8f4f4a42b28196b7b17227cf8b8f14aaddf7f80581a3b405869"
     },
     "sf-20260327-0501": {
@@ -59250,27 +59250,27 @@
     "sf-20260428-0690": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett.md",
       "slug": "forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om trekningskretser for meddommere ved Buskerud tingrett",
-      "total_changes": null,
+      "total_changes": 1,
       "xml_hash": "8abd3774c888f4d7ae35d42e15efb320b7fe909a7b0e592c67a9f2dd0ab3321f"
     },
     "sf-20260429-0683": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
+      "last_changed": "2026-05-04",
       "last_seen": "2026-05-04T10:13:30.563489Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-investeringer-i-setrer-med-melkeproduksjon.md",
       "slug": "forskrift-om-tilskudd-til-investeringer-i-setrer-med-melkeproduksjon",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til investeringer i setrer med melkeproduksjon",
-      "total_changes": null,
+      "total_changes": 1,
       "xml_hash": "a726bc4dd7aee80c81a048f690cae949722895c1a6a1a7e12b4270d525dd8f9e"
     }
   },

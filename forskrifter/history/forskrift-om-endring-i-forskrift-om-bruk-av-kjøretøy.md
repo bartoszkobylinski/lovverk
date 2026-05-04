@@ -1,6 +1,16 @@
 # forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy — Change history
 
-_2 events; doc_id `sf-20251216-2616`._
+_4 events; doc_id `sf-20260121-0071`._
+
+## 2026-05-04 — Content updated
+Lines: +0 -45.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251216-2616.md` → `"forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kj\303\270ret\303\270y.md"`.

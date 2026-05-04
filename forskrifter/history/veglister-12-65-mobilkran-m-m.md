@@ -1,6 +1,16 @@
 # veglister-12-65-mobilkran-m-m — Change history
 
-_2 events; doc_id `sf-20231024-1699`._
+_4 events; doc_id `sf-20231024-1699`._
+
+## 2026-05-04 — Content updated
+Lines: +5 -5.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20231024-1699.md` → `forskrifter/veglister-12-65-mobilkran-m-m.md`.

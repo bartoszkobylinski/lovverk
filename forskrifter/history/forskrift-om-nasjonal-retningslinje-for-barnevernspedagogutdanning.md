@@ -1,6 +1,16 @@
 # forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning — Change history
 
-_2 events; doc_id `sf-20250704-1464`._
+_4 events; doc_id `sf-20250904-1828`._
+
+## 2026-05-04 — Content updated
+Lines: +0 -135.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250704-1464.md` → `forskrifter/forskrift-om-nasjonal-retningslinje-for-barnevernspedagogutdanning.md`.
