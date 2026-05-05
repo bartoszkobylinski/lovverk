@@ -2,6 +2,16 @@
   "doc_id": "sf-20260428-0690",
   "events": [
     {
+      "commit": "d51ab95",
+      "date": "2026-05-05",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,
