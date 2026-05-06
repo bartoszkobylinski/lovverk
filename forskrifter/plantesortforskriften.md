@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "1999-10-01"
-last_change_in_force: "2025-10-24"
+last_change_in_force: "2026-04-30"
 last_updated: "2026-03-20"
-xml_hash: "6d63ab79e635652068f6add9a3004da833aaa3fa5bfc284c03e5b284709bba0d"
+xml_hash: "a85a8ccc9a2f7381aaaf46318b5043f8ac481f27e444443bf2c8f09be03c776e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-06T06:27:51.077504+00:00"
 status: "current"
 eu_basis: []
 ---
