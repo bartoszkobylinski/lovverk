@@ -18677,15 +18677,15 @@
     "sf-19991001-1069": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-06",
+      "last_seen": "2026-05-06T06:27:51.077504Z",
       "markdown_path": "forskrifter/plantesortforskriften.md",
       "slug": "plantesortforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om prøving og godkjenning av plantesorter",
-      "total_changes": null,
-      "xml_hash": "6d63ab79e635652068f6add9a3004da833aaa3fa5bfc284c03e5b284709bba0d"
+      "total_changes": 4,
+      "xml_hash": "a85a8ccc9a2f7381aaaf46318b5043f8ac481f27e444443bf2c8f09be03c776e"
     },
     "sf-19991014-1084": {
       "doc_type": "forskrift",
@@ -30922,13 +30922,13 @@
     },
     "sf-20121001-0954": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/tsi-tap-forskriften.md",
       "slug": "tsi-tap-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)",
       "total_changes": null,
       "xml_hash": "c81579a68ce80761cc71a91d817d18385d48ac1ae562797e11c41f4476afdc09"
@@ -36019,15 +36019,15 @@
     "sf-20160914-1064": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-06",
+      "last_seen": "2026-05-06T06:27:51.077504Z",
       "markdown_path": "forskrifter/animaliebiproduktforskriften.md",
       "slug": "animaliebiproduktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)",
-      "total_changes": null,
-      "xml_hash": "809ad57f8314b7d626951e83e142b6b6a676d9753b857a8fd731b3ed80820978"
+      "total_changes": 4,
+      "xml_hash": "06d719671c557ab0435552f5674333aad2368add7c08cfe7dc3e924f16704e05"
     },
     "sf-20160915-1066": {
       "doc_type": "forskrift",
@@ -40490,13 +40490,13 @@
     },
     "sf-20191218-2175": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering.md",
       "slug": "forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering",
       "total_changes": null,
       "xml_hash": "eb8e5e9d4be85d5e224e841cf1fd8890a0ae22cac219f1a919b259218febb85c"
@@ -44065,13 +44065,13 @@
     },
     "sf-20210908-2715": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/tsi-taf-forskriften.md",
       "slug": "tsi-taf-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om gjennomføring av forordning (EU) nr. 1305/2014 om den tekniske spesifikasjonen for samtrafikkevnen med hensyn til delsystemet «Telematikkprogrammer for godstrafikk» i Den europeiske unions jernbanesystem, og om oppheving av forordning (EF) nr. 62/2006, og gjennomføring av forordning (EU) 2018/278 og forordning (EU) 2019/778 (TSI TAF-forskriften)",
       "total_changes": null,
       "xml_hash": "0ef6fc83de4482213f468bde984c0b74034a03760fe5a70084d4fd495c979f4c"
@@ -46588,15 +46588,15 @@
     "sf-20221220-2354": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-06",
+      "last_seen": "2026-05-06T06:27:51.077504Z",
       "markdown_path": "forskrifter/forskrift-til-lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-og-et-rammeverk-for-bærekraftige-investeringer.md",
       "slug": "forskrift-til-lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-og-et-rammeverk-for-bærekraftige-investeringer",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til lov om offentliggjøring av bærekraftsinformasjon i finanssektoren og et rammeverk for bærekraftige investeringer",
-      "total_changes": null,
-      "xml_hash": "4b82600de01cde726a68870421443e5a7bee9f2cb19bcbbd59fe6c715944322b"
+      "total_changes": 4,
+      "xml_hash": "bc17174de9def78ffccd391be4ad01260341844e0be124156290513b6ed7e61e"
     },
     "sf-20221220-2357": {
       "doc_type": "forskrift",
@@ -54216,19 +54216,6 @@
       "total_changes": 4,
       "xml_hash": "3de923217d90ee3044552b80ab9de8d9c3a0c866a381c344f188813241271a5c"
     },
-    "sf-20260327-0497": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-04T10:13:30.563489Z",
-      "markdown_path": "forskrifter/endr-i-utlendingsforskriften-2.md",
-      "slug": "endr-i-utlendingsforskriften-2",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endringer i utlendingsforskriften (avgrensning av personkretsen som omfattes av ordningen med midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina)",
-      "total_changes": null,
-      "xml_hash": "dbcbe2578210b8f4f4a42b28196b7b17227cf8b8f14aaddf7f80581a3b405869"
-    },
     "sf-20260327-0501": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54297,15 +54284,15 @@
     "sf-20260413-0592": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-06",
+      "last_seen": "2026-05-06T06:27:51.077504Z",
       "markdown_path": "forskrifter/forskrift-om-delvis-allmenngjøring-av-biloverenskomsten.md",
       "slug": "forskrift-om-delvis-allmenngjøring-av-biloverenskomsten",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om delvis allmenngjøring av biloverenskomsten",
-      "total_changes": null,
-      "xml_hash": "7b63030a8468fe2dcb6457429644499a4d58f187519bcde153ad7155537887df"
+      "total_changes": 4,
+      "xml_hash": "52ecf49e38a840bc50bb2c36dce798a58e9738be7ba8d2a67fa105b818f9829f"
     },
     "sf-20260414-0617": {
       "doc_type": "forskrift",
@@ -54423,8 +54410,21 @@
       "title": "Forskrift om tilskudd til investeringer i setrer med melkeproduksjon",
       "total_changes": 1,
       "xml_hash": "a726bc4dd7aee80c81a048f690cae949722895c1a6a1a7e12b4270d525dd8f9e"
+    },
+    "sf-20260504-0697": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-06",
+      "last_seen": "2026-05-06T06:27:51.077504Z",
+      "markdown_path": "forskrifter/tsi-tel-forskriften.md",
+      "slug": "tsi-tel-forskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om telematikkapplikasjoner for jernbanetransport i EØS (TSI TEL-forskriften)",
+      "total_changes": 1,
+      "xml_hash": "5b5b9b6df294dff7432a16f0f6e995c18a6c865c6fd8498f96161cf7472c177a"
     }
   },
-  "generated_at": "2026-05-05T14:43:11.406810Z",
+  "generated_at": "2026-05-06T06:27:51.077504Z",
   "version": 1
 }

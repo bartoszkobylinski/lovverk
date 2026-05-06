@@ -2,6 +2,26 @@
   "doc_id": "sf-20221220-2354",
   "events": [
     {
+      "commit": "ba0a1ce",
+      "date": "2026-05-06",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-til-lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-og-et-rammeverk-for-bærekraftige-investeringer",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20221220-2354.md",

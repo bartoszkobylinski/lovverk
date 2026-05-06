@@ -1,6 +1,16 @@
 # animaliebiproduktforskriften — Change history
 
-_2 events; doc_id `sf-20160914-1064`._
+_4 events; doc_id `sf-20160914-1064`._
+
+## 2026-05-06 — Content updated
+Lines: +8 -8.
+Subject: `update(forskrift): animaliebiproduktforskriften`
+Commit: `594f83b`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20160914-1064.md` → `forskrifter/animaliebiproduktforskriften.md`.

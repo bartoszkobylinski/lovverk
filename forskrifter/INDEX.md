@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3415 current documents_
+_3413 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1266,7 +1266,6 @@ _3415 current documents_
 - [forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart](forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart.md) — Forskrift om kjøring på lukket bane eller annet avsperret område og om annen bruk av gokart
 - [forskrift-om-kjøttkontrollgebyr](forskrift-om-kjøttkontrollgebyr.md) — Forskrift om gebyr til dekning av utgifter ved kjøttkontroll
 - [forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv](forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv.md) — Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.
-- [forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering](forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering.md) — Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering
 - [forskrift-om-klagenemnd-for-husbanken](forskrift-om-klagenemnd-for-husbanken.md) — Forskrift om klagenemnd for Husbanken
 - [forskrift-om-klagenemnd-for-offentlige-anskaffelser](forskrift-om-klagenemnd-for-offentlige-anskaffelser.md) — Forskrift om klagenemnd for offentlige anskaffelser
 - [forskrift-om-klagenemnd-psyk-skader-int-operasjoner](forskrift-om-klagenemnd-psyk-skader-int-operasjoner.md) — Forskrift om klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner
@@ -3320,8 +3319,7 @@ _3415 current documents_
 - [tsi-ope-forskriften](tsi-ope-forskriften.md) — Forskrift om gjennomføring av forordning (EU) 2019/773 om tekniske spesifikasjoner for samtrafikk for drift og trafikkstyring i det europeiske jernbanesystemet (TSI OPE-forskriften)
 - [tsi-prm-forskriften](tsi-prm-forskriften.md) — Forskrift om gjennomføring av kommisjonsforordning (EU) nr. 1300/2014 av 18. november 2014 om de tekniske spesifikasjonene for samtrafikkevne med hensyn til tilgjengelighet til Unionens jernbanesystem for funksjonshemmede og bevegelseshemmede personer (TSI PRM-forskriften)
 - [tsi-srt-forskriften](tsi-srt-forskriften.md) — Forskrift om gjennomføring av kommisjonsforordning (EU) nr. 1303/2014 av 18. november 2014 om den tekniske spesifikasjonen for samtrafikkevne som gjelder sikkerhet i jernbanetunneler i Den europeiske unions jernbanesystem (TSI SRT-forskriften)
-- [tsi-taf-forskriften](tsi-taf-forskriften.md) — Forskrift om gjennomføring av forordning (EU) nr. 1305/2014 om den tekniske spesifikasjonen for samtrafikkevnen med hensyn til delsystemet «Telematikkprogrammer for godstrafikk» i Den europeiske unions jernbanesystem, og om oppheving av forordning (EF) nr. 62/2006, og gjennomføring av forordning (EU) 2018/278 og forordning (EU) 2019/778 (TSI TAF-forskriften)
-- [tsi-tap-forskriften](tsi-tap-forskriften.md) — Forskrift om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)
+- [tsi-tel-forskriften](tsi-tel-forskriften.md) — Forskrift om telematikkapplikasjoner for jernbanetransport i EØS (TSI TEL-forskriften)
 - [tsi-wag-forskriften](tsi-wag-forskriften.md) — Forskrift om gjennomføring av TSI-rullende materiell – godsvogner på det nasjonale jernbanenettet (TSI WAG-forskriften)
 - [tsjernobylforskriften](tsjernobylforskriften.md) — Forskrift om særlige importbetingelser for næringsmidler og fôrvarer som følge av ulykken ved atomkraftverket i Tsjernobyl
 - [tuberkuloseforskriften](tuberkuloseforskriften.md) — Forskrift om tuberkulosekontroll
