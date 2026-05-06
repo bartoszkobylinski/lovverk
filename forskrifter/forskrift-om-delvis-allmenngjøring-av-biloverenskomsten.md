@@ -8,14 +8,14 @@ short_title: null
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: "2026-09-01"
-last_change_in_force: null
+date_in_force: "2026-06-15"
+last_change_in_force: "2026-05-01"
 last_updated: null
-xml_hash: "7b63030a8468fe2dcb6457429644499a4d58f187519bcde153ad7155537887df"
+xml_hash: "52ecf49e38a840bc50bb2c36dce798a58e9738be7ba8d2a67fa105b818f9829f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-06T06:27:51.077504+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,4 +55,6 @@ Forskriften gjelder ikke dersom arbeidstaker samlet sett har gunstigere lønns- 
 
 ## § 6. Ikrafttreden
 
-Forskriften trer i kraft 1. september 2026.
+Forskriften trer i kraft 15. juni 2026.
+
+> Endret ved forskrift [24 april 2026 nr. 693](forskrift/2026-04-24-693) (i kraft 1 mai 2026).
