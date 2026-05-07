@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-01-01"
 last_change_in_force: "2025-01-22"
 last_updated: "2024-04-10"
-xml_hash: "139b03805e146796bf3859e4a39140d9eecaa82a338be6ca1f684ae97cc50591"
+xml_hash: "55cafc621c08666bfbf0a09192d26fb400a9caa396705c6cf556dae615d8c31b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-07T06:32:55.817317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -208,7 +208,7 @@ KBO-enheter skal planlegge for og etablere en organisasjon med nødvendig person
 
 Reparasjonsberedskapen skal dimensjoneres etter stedlige forhold og anleggenes tilstand og klasse. Så langt som det er samfunnsmessig rasjonelt, skal hensynet til liv og helse og annen samfunnskritisk virksomhet prioriteres ved gjenoppretting av funksjon.
 
-> Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019).
+> Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019). **Endres** ved forskrift [4 mai 2026 nr. 717](forskrift/2026-05-04-717) (i kraft 1 juli 2026).
 
 ### § 4-2. Kompetanse og personell
 
