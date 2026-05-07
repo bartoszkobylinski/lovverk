@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-04-30"
 last_updated: null
-xml_hash: "816d3c4fce70457d357d8e9313ecd9a16e874a4d46e1d229a463f6b8d0187352"
+xml_hash: "ed8ade46f6d0566e3644dee2e72bf731ed5dbef7a8d1af42eeabbeb62cbc1819"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-07T06:32:55.817317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,6 +27,8 @@ eu_basis: []
 Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-974/§1-2) inngår vare-, tjeneste- eller bygge- og anleggskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
 
 Dersom klima- og miljøhensyn ikke brukes som tildelingskriterium etter anskaffelsesloven § 5b kan oppdragsgiveren også velge tilbud på grunnlag av den laveste prisen eller den laveste kostnaden.
+
+> Endret ved forskrift [30 april 2026 nr. 713](forskrift/2026-04-30-713).
 
 ## II
 
