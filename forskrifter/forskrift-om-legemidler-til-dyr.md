@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-09-16"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-05-01"
 last_updated: "2025-01-02"
-xml_hash: "6f9e6bee3da202769abfa21b99a8014a2a919c53106166a109e8dca4369b5ec1"
+xml_hash: "e74359d503683d5e3a7d3f084bd499ad8e90e6961a1cba99453e710a1e9439e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-07T06:32:55.817317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,9 @@ Forordning om legemidler til dyr, jf. [legemiddelloven § 2b](lov/1992-12-04-132
 
 ### § 1-3. Endringer som ikke krever forhåndsvurdering
 
-[EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b (forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som endret ved [(EU) 2023/997](eu/32023r0997) og forordning [(EU) 2024/916](eu/32024r0916)), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2021/17](eu/32021r0017) om opprettelse av liste over endringer som ikke krever vurdering i samsvar med forordning [(EU) 2019/6](eu/32019r0006), som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/997](eu/32023r0997)forordning [(EU) 2024/916](eu/32024r0916)forordning [(EU) 2025/163](eu/32025r0163)
 
-> Endret ved forskrifter [30 april 2024 nr. 714](forskrift/2024-04-30-714), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1-2), [21 jan 2025 nr. 53](forskrift/2025-01-21-53).
+> Endret ved forskrifter [30 april 2024 nr. 714](forskrift/2024-04-30-714), [20 des 2024 nr. 3418](forskrift/2024-12-20-3418) (tidligere § 1-2), [21 jan 2025 nr. 53](forskrift/2025-01-21-53), [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026).
 
 ### § 1-4. Innsamling av opplysninger om salgsvolum for og bruk av antimikrobielle legemidler på dyr.
 
@@ -121,6 +121,12 @@ Forordning om legemidler til dyr, jf. [legemiddelloven § 2b](lov/1992-12-04-132
 Forordning [(EU) 2024/1159](eu/32024r1159) om utfylling av europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) ved å fastsette regler for egnede tiltak for å sikre effektiv og sikker bruk av legemidler til dyr som er godkjent og forskrevet for peroral tilførsel via andre tilførselsveier enn medisinfôr, og som gis av dyreholderen til dyr bestemt til næringsmiddelproduksjon, som inntatt i [EØS-avtalens vedlegg II](avtale/avt-1992-05-02-1-v2) del II kap. XIII nr. 22p, gjelder som lov. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
 > Tilføyd ved forskrift [9 des 2025 nr. 2502](forskrift/2025-12-09-2502).
+
+### § 1-17. God tilvirkningspraksis for virksomme stoffer i legemidler til dyr
+
+Forordning [(EU) 2025/2154](eu/32025r2154) om god tilvirkningspraksis for virksomme stoffer i legemidler til dyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22q, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026).
 
 ## Kapittel II. Utfyllende nasjonale bestemmelser om myndigheter
 
