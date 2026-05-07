@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-04-21"
 last_updated: "2022-03-24"
-xml_hash: "c2c95aa2d9a5a44acf28d6ca322faac6a95248ef9d43373d879e494c93f877f3"
+xml_hash: "43be7befb814c47e9ee24c798271a4e9d5f8391d920bb36e4b53529733199369"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-07T06:32:55.817317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -934,7 +934,7 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (6) [Personopplysningsloven](lov/2018-06-15-38) gjelder for behandlingen av opplysningene hvis ikke annet er bestemt.
 
-> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024).
+> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026, endring endret ved forskrift [30 april 2026 nr. 713](forskrift/2026-04-30-713)).
 
 ### Kapittel 20. Frister
 
