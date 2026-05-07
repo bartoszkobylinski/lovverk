@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3413 current documents_
+_3415 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -130,6 +130,7 @@ _3413 current documents_
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
 - [endr-i-førerkortforskriften-og-trafikkopplæringsforskriften](endr-i-førerkortforskriften-og-trafikkopplæringsforskriften.md) — Forskrift om endring i førerkortforskriften og trafikkopplæringsforskriften
+- [endr-i-kraftberedskapsforskriften](endr-i-kraftberedskapsforskriften.md) — Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
 - [endr-i-næringsmiddelhygieneforskriften](endr-i-næringsmiddelhygieneforskriften.md) — Forskrift om endring i forskrift om næringsmiddelhygiene
@@ -1228,6 +1229,7 @@ _3413 current documents_
 - [forskrift-om-internasjonale-regnskapsstandarder](forskrift-om-internasjonale-regnskapsstandarder.md) — Forskrift om gjennomføring av EØS-regler om vedtatte internasjonale regnskapsstandarder
 - [forskrift-om-internasjonalt-straffesakssamarbeid](forskrift-om-internasjonalt-straffesakssamarbeid.md) — Forskrift om internasjonalt samarbeid i straffesaker
 - [forskrift-om-internatpasienters-betaling](forskrift-om-internatpasienters-betaling.md) — Forskrift om internatpasienters betaling for opphold i spesialsykehjem
+- [forskrift-om-internkontroll-i-drosjenæringen](forskrift-om-internkontroll-i-drosjenæringen.md) — Forskrift om internkontroll i drosjenæringen
 - [forskrift-om-internrevisjon-i-nav](forskrift-om-internrevisjon-i-nav.md) — Forskrift om internrevisjon i Arbeids- og velferdsetaten.
 - [forskrift-om-investeringstilskudd-fra-husbanken](forskrift-om-investeringstilskudd-fra-husbanken.md) — Forskrift om investeringstilskudd til omsorgsboliger og sykehjemsplasser fra Husbanken
 - [forskrift-om-iplos-registeret](forskrift-om-iplos-registeret.md) — Forskrift om pseudonymt register for individbasert helse- og omsorgsstatistikk

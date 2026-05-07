@@ -1,6 +1,16 @@
 # forskrift-om-plantevernmidler — Change history
 
-_2 events; doc_id `sf-20150506-0455`._
+_4 events; doc_id `sf-20150506-0455`._
+
+## 2026-05-07 — Content updated
+Lines: +14 -8.
+Subject: `update(forskrift): forskrift-om-plantevernmidler`
+Commit: `09e2e1c`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20150506-0455.md` → `forskrifter/forskrift-om-plantevernmidler.md`.

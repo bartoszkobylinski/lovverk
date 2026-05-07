@@ -1,6 +1,16 @@
 # økologiforskriften — Change history
 
-_2 events; doc_id `sf-20220611-1171`._
+_4 events; doc_id `sf-20220611-1171`._
+
+## 2026-05-07 — Content updated
+Lines: +13 -12.
+Subject: `update(forskrift): økologiforskriften`
+Commit: `80bda50`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220611-1171.md` → `"forskrifter/\303\270kologiforskriften.md"`.

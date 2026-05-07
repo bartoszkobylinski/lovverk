@@ -1,6 +1,16 @@
 # kryptoeiendelsforskriften — Change history
 
-_2 events; doc_id `sf-20250625-1311`._
+_4 events; doc_id `sf-20250625-1311`._
+
+## 2026-05-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): kryptoeiendelsforskriften`
+Commit: `144f226`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250625-1311.md` → `forskrifter/kryptoeiendelsforskriften.md`.

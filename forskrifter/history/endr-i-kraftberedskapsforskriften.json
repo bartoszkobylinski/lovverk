@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260504-0717",
+  "events": [
+    {
+      "commit": "e9a5aa4",
+      "date": "2026-05-07",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-kraftberedskapsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-kraftberedskapsforskriften"
+}

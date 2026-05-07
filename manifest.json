@@ -30920,19 +30920,6 @@
       "total_changes": null,
       "xml_hash": "e16540614fcfa7ef28753ee2904c2f7627643947ce02875566d9a7f5fe0c39f1"
     },
-    "sf-20121001-0954": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/tsi-tap-forskriften.md",
-      "slug": "tsi-tap-forskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)",
-      "total_changes": null,
-      "xml_hash": "c81579a68ce80761cc71a91d817d18385d48ac1ae562797e11c41f4476afdc09"
-    },
     "sf-20121003-0935": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -31170,15 +31157,15 @@
     "sf-20121207-1157": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/kraftberedskapsforskriften.md",
       "slug": "kraftberedskapsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)",
-      "total_changes": null,
-      "xml_hash": "139b03805e146796bf3859e4a39140d9eecaa82a338be6ca1f684ae97cc50591"
+      "total_changes": 4,
+      "xml_hash": "55cafc621c08666bfbf0a09192d26fb400a9caa396705c6cf556dae615d8c31b"
     },
     "sf-20121213-1432": {
       "doc_type": "forskrift",
@@ -33965,15 +33952,15 @@
     "sf-20150506-0455": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/forskrift-om-plantevernmidler.md",
       "slug": "forskrift-om-plantevernmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om plantevernmidler",
-      "total_changes": null,
-      "xml_hash": "4fbce4fd39bf75f979fb89f75f7a7fa7a81c921f81bc91a0b773d729dbfaa3a8"
+      "total_changes": 4,
+      "xml_hash": "04d1a5e2cd619754b50c3b9d6fa56e432dc31bee3d63540e88b98f20dc2184ef"
     },
     "sf-20150507-0488": {
       "doc_type": "forskrift",
@@ -35915,15 +35902,15 @@
     "sf-20160812-0974": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/anskaffelsesforskriften-foa.md",
       "slug": "anskaffelsesforskriften-foa",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlige anskaffelser (anskaffelsesforskriften)",
-      "total_changes": null,
-      "xml_hash": "c2c95aa2d9a5a44acf28d6ca322faac6a95248ef9d43373d879e494c93f877f3"
+      "total_changes": 4,
+      "xml_hash": "43be7befb814c47e9ee24c798271a4e9d5f8391d920bb36e4b53529733199369"
     },
     "sf-20160812-0975": {
       "doc_type": "forskrift",
@@ -40488,19 +40475,6 @@
       "total_changes": null,
       "xml_hash": "31f455b86c5cd457af5ea8ac90bea7245ade22d2b42ae75a985766f8aebde482"
     },
-    "sf-20191218-2175": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering.md",
-      "slug": "forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering",
-      "total_changes": null,
-      "xml_hash": "eb8e5e9d4be85d5e224e841cf1fd8890a0ae22cac219f1a919b259218febb85c"
-    },
     "sf-20191219-2112": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -44063,19 +44037,6 @@
       "total_changes": null,
       "xml_hash": "1b227d50196a0f232de1bc7cb4e3a6f9f6a803fc02cc66c391dc3386d85910bc"
     },
-    "sf-20210908-2715": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/tsi-taf-forskriften.md",
-      "slug": "tsi-taf-forskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om gjennomføring av forordning (EU) nr. 1305/2014 om den tekniske spesifikasjonen for samtrafikkevnen med hensyn til delsystemet «Telematikkprogrammer for godstrafikk» i Den europeiske unions jernbanesystem, og om oppheving av forordning (EF) nr. 62/2006, og gjennomføring av forordning (EU) 2018/278 og forordning (EU) 2019/778 (TSI TAF-forskriften)",
-      "total_changes": null,
-      "xml_hash": "0ef6fc83de4482213f468bde984c0b74034a03760fe5a70084d4fd495c979f4c"
-    },
     "sf-20210908-2716": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -45561,15 +45522,15 @@
     "sf-20220611-1171": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/økologiforskriften.md",
       "slug": "økologiforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)",
-      "total_changes": null,
-      "xml_hash": "b49852e16aef154a0a3a217d162af50b6a9a9c806988ccb648213bae1abb2679"
+      "total_changes": 4,
+      "xml_hash": "bc851855252528d0420626a0832f77da6063a6a06611851bd664d4407114f29b"
     },
     "sf-20220613-1005": {
       "doc_type": "forskrift",
@@ -46042,15 +46003,15 @@
     "sf-20220908-1573": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/forskrift-om-legemidler-til-dyr.md",
       "slug": "forskrift-om-legemidler-til-dyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om legemidler til dyr",
-      "total_changes": null,
-      "xml_hash": "6f9e6bee3da202769abfa21b99a8014a2a919c53106166a109e8dca4369b5ec1"
+      "total_changes": 4,
+      "xml_hash": "e74359d503683d5e3a7d3f084bd499ad8e90e6961a1cba99453e710a1e9439e5"
     },
     "sf-20220909-1552": {
       "doc_type": "forskrift",
@@ -51138,15 +51099,15 @@
     "sf-20250625-1311": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/kryptoeiendelsforskriften.md",
       "slug": "kryptoeiendelsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til lov om kryptoeiendeler (kryptoeiendelsforskriften)",
-      "total_changes": null,
-      "xml_hash": "9e64dace1dc558c8cb1c1d4f46cee8f7c5e40a1ab6fcfdf1e1c812cbd26e814e"
+      "total_changes": 4,
+      "xml_hash": "6f4433bc388ecf94dee43fd17d0cac809643872bedf2acd8a73e86b0712dc11f"
     },
     "sf-20250626-1539": {
       "doc_type": "forskrift",
@@ -54297,15 +54258,15 @@
     "sf-20260414-0617": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
       "markdown_path": "forskrifter/endr-i-anskaffelsesforskriften-mfl.md",
       "slug": "endr-i-anskaffelsesforskriften-mfl",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrifter til anskaffelsesloven",
-      "total_changes": null,
-      "xml_hash": "816d3c4fce70457d357d8e9313ecd9a16e874a4d46e1d229a463f6b8d0187352"
+      "total_changes": 4,
+      "xml_hash": "ed8ade46f6d0566e3644dee2e72bf731ed5dbef7a8d1af42eeabbeb62cbc1819"
     },
     "sf-20260415-0596": {
       "doc_type": "forskrift",
@@ -54423,8 +54384,34 @@
       "title": "Forskrift om telematikkapplikasjoner for jernbanetransport i EØS (TSI TEL-forskriften)",
       "total_changes": 1,
       "xml_hash": "5b5b9b6df294dff7432a16f0f6e995c18a6c865c6fd8498f96161cf7472c177a"
+    },
+    "sf-20260504-0715": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
+      "markdown_path": "forskrifter/forskrift-om-internkontroll-i-drosjenæringen.md",
+      "slug": "forskrift-om-internkontroll-i-drosjenæringen",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om internkontroll i drosjenæringen",
+      "total_changes": 1,
+      "xml_hash": "647213302d186b59014b5ef39a1f326f3fd4c0faed983224e89865c8eda63483"
+    },
+    "sf-20260504-0717": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-07",
+      "last_seen": "2026-05-07T06:32:55.817317Z",
+      "markdown_path": "forskrifter/endr-i-kraftberedskapsforskriften.md",
+      "slug": "endr-i-kraftberedskapsforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)",
+      "total_changes": 1,
+      "xml_hash": "a56e16492e1eda289ed75e4d83ba56e625ae4c2b93e906f910b94eed400eaf5a"
     }
   },
-  "generated_at": "2026-05-06T06:27:51.077504Z",
+  "generated_at": "2026-05-07T06:32:55.817317Z",
   "version": 1
 }
