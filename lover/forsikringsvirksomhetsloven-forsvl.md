@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-05"
-xml_hash: "53c48ae4fa0562822c32f702d6e17c10fcf319077565f3cd3526104d1edffb72"
+xml_hash: "38aa3a895d6abc859369650e6bf5c153459a97aaa38dd861d829a697d0e5bd62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis:
   - "32016L2341"
@@ -294,7 +294,7 @@ Finanstilsynet kan, i samsvar med bestemmelsene i denne paragrafen, treffe avgj�
 
 Kongen kan gi forskrift til utfylling av reglene i paragrafen her.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-7).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-7). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 3-12. Forvaltning av porteføljene
 
@@ -318,7 +318,7 @@ Eiendelene skal verdsettes i samsvar med de regler som er gitt i årsregnskapsfo
 
 Kongen kan i forskrift gi nærmere regler om verdivurdering av eiendeler.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-9), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-9), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 3-14. Overskudd på risikoresultat
 
@@ -378,7 +378,11 @@ Dersom avkastningen tilordnet en kontrakt etter [§ 3-13](lov/2005-06-10-44/§3-
 
 Midler som er avsatt til bufferfond, kan i et senere år tilordnes kontrakten som overskudd.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-17), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-17), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
+
+### § 3-19 a. Betinget egenkapitalbidrag for kontraktsfastsatte forpliktelser
+
+> **Tilføyes** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 3-20. Premie- og innskuddsfond mv.
 
@@ -754,7 +758,7 @@ Det nye regelverket kan ikke inneholde bestemmelser som innebærer reduksjon av 
 
 Bestemmelsene i paragrafen her er ikke til hinder for at regelverket for pensjonsordningen endres etter ellers gjeldende regler med virkning for opptjening av pensjon ved tjenestetid etter flyttingen, og heller ikke for at pensjonsordningens midler etter flyttingen forvaltes helt eller delvis som egen investeringsportefølje etter ellers gjeldende regler.
 
-> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-3).
+> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-3). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 6-4. Medlemmenes uttalerett mv.
 
@@ -796,7 +800,7 @@ Ved flytting overføres den forsikringskapital som er knyttet til pensjonsordnin
 
 Forvaltes pensjonsordningens midler i egen eller egne investeringsporteføljer, legges markedsverdien av porteføljen ved utløpet av oppsigelsesfristen til grunn ved verdiberegningen. Dette gjelder også avkastnings- og verdisikringsgarantier knyttet til porteføljene. [Foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1) fjerde ledd gjelder tilsvarende.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-7), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-7), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 6-8. Premiereserve for uføreytelser
 
@@ -830,7 +834,7 @@ Er overført premiereserve knyttet til medlemmenes og pensjonistenes rett til op
 
 Pensjonskapital og innskuddsfond i pensjonsordning med innskuddspensjon skal etter overføringen forvaltes i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag dette i tilfelle bygger på.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-10), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-10), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 6-11. Flytting av pensjonsrettigheter utgått fra kollektive pensjonsordninger
 
@@ -854,7 +858,7 @@ Bestemmelsene om formkrav til oppsigelse i [§ 6-5](lov/2005-06-10-44/§6-5) fø
 
 Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7), [6-8](lov/2005-06-10-44/§6-8), [6-9](lov/2005-06-10-44/§6-9) og [6-10](lov/2005-06-10-44/§6-10) første, annet, fjerde og femte ledd tilsvarende. Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved overført bufferfond.
 
-> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)). [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-13), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)). [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-13), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 6-14. Flytting av individuelle pensjonsavtaler
 
@@ -870,7 +874,7 @@ Person som er oppnevnt som begunstiget under pensjonsavtalen, skal underrettes o
 
 For individuelle pensjonsavtaler kan avgivende pensjonsinnretning ta forbehold om at det skal beregnes et fradrag i premiereserven (seleksjonsfradrag). Slikt fradrag kan bare kreves dersom den pensjonsinnretningen kontrakten flyttes til, legger til grunn ny helseprøving av forsikrede. Departementet kan gi nærmere regler.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-14), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-14), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ## Kapittel 7. Skadeforsikring
 
