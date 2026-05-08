@@ -10,13 +10,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-04-28"
-last_change_in_force: "2025-10-27"
+last_change_in_force: "2026-05-04"
 last_updated: "2022-08-11"
-xml_hash: "93f1b4fbc5e357dcf6d174a0e3c6c7f320f303a2fb5635680c48a536baeb2d6a"
+xml_hash: "a291953a75622859e90bd509e07c9bcbf88d65cc60982dd30bbf5da3fabf5e79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,13 +59,13 @@ Forskriften gjelder for norsk land- og sjøterritorium, på norske luft- og sjø
 
 ### § 6. Godkjent sykdomsfri status og utryddelsesprogram i EØS-stater
 
-[EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I del 1.1 nr. 13r (forordning [(EU) 2021/620](eu/32021r0620) sist endret ved forordning [(EU) 2025/1401](eu/32025r1401))) med utfyllende bestemmelser til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) om godkjent sykdomsfri status og ikke-vaksinerende status for visse medlemsland, eller soner eller segmenter av disse, for visse listeførte sykdommer, og godkjente utryddelsesprogrammer for disse listeførte sykdommene, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I del 1.1 nr. 13r (forordning [(EU) 2021/620](eu/32021r0620) sist endret ved forordning [(EU) 2026/293](eu/32026r0293))) med utfyllende bestemmelser til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) om godkjent sykdomsfri status og ikke-vaksinerende status for visse medlemsland, eller soner eller segmenter av disse, for visse listeførte sykdommer, og godkjente utryddelsesprogrammer for disse listeførte sykdommene, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
 
 Norges sykdomsfrie statuser for sykdommer hos landdyr fremgår av forskriftens vedlegg 1.
 
 Norges sykdomsfrie statuser for sykdommer hos akvatiske dyr fremgår av forskriftens vedlegg 2.
 
-> Endret ved forskrifter [14 juni 2022 nr. 1054](forskrift/2022-06-14-1054), [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [21 mars 2023 nr. 406](forskrift/2023-03-21-406), [26 sep 2023 nr. 1517](forskrift/2023-09-26-1517), [30 okt 2023 nr. 1731](forskrift/2023-10-30-1731), [11 des 2023 nr. 1992](forskrift/2023-12-11-1992), [8 juli 2024 nr. 1722](forskrift/2024-07-08-1722), [28 okt 2024 nr. 2599](forskrift/2024-10-28-2599), [10 feb 2025 nr. 169](forskrift/2025-02-10-169), [17 mars 2025 nr. 468](forskrift/2025-03-17-468), [16 juni 2025 nr. 1046](forskrift/2025-06-16-1046), [27 okt 2025 nr. 2132](forskrift/2025-10-27-2132).
+> Endret ved forskrifter [14 juni 2022 nr. 1054](forskrift/2022-06-14-1054), [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [21 mars 2023 nr. 406](forskrift/2023-03-21-406), [26 sep 2023 nr. 1517](forskrift/2023-09-26-1517), [30 okt 2023 nr. 1731](forskrift/2023-10-30-1731), [11 des 2023 nr. 1992](forskrift/2023-12-11-1992), [8 juli 2024 nr. 1722](forskrift/2024-07-08-1722), [28 okt 2024 nr. 2599](forskrift/2024-10-28-2599), [10 feb 2025 nr. 169](forskrift/2025-02-10-169), [17 mars 2025 nr. 468](forskrift/2025-03-17-468), [16 juni 2025 nr. 1046](forskrift/2025-06-16-1046), [27 okt 2025 nr. 2132](forskrift/2025-10-27-2132), [4 mai 2026 nr. 740](forskrift/2026-05-04-740).
 
 ### § 7. Godkjenning av nasjonale tiltak for visse akvatiske sykdommer
 
@@ -975,8 +975,7 @@ INFEKSIØS BOVIN RHINOTRAKEITT/INFEKSIØS PUSTULØS VULVOVAGINITT
 Status som fri for IBR/IPV for et anlegg der det holdes storfe, kan bare opprettholdes dersomkravene i avsnitt 1 nr. 1 bokstav a), b) og e) fortsatt er oppfylt,serologisk testing for påvisning av antistoffer mot helvirus av BoHV-1 eller, om nødvendig, antistoffer mot BoHV-1-gE, er utført, idet det tas hensyn til tidligere vaksinasjoner med en DIVA-vaksine, med negativt resultat,på blodprøver, melkeprøver eller kjøttsaftprøver tatt hvert år fra alt storfe som er eldre enn 24 måneder, ellernår det gjelder et anlegg der minst 30 % av storfeet er hunndyr i laktasjon, minst én gang i året påmelkeprøver i bulk tatt ved minst tre anledninger med minst tre måneders mellomrom fra hunndyr av storfe i laktasjon, som representerer alle epidemiologiske enheter i anlegget, ogblodprøver tatt fra alle avlshanndyr av storfe som er eldre enn 24 måneder, ellernår det gjelder et anlegg der under 5 % av det holdte storfeet er hanndyr og minst 95 % av hunndyrene som er eldre enn 24 måneder, er beregnet på eller brukes til melkeproduksjon, minst én gang i året på melkeprøver i bulk tatt ved minst seks anledninger og med minst to måneders mellomrom fra hunndyr av storfe i laktasjon, som representerer alle epidemiologiske enheter i anlegget, ellerforutsatt at status som fri for IBR/IPV har vært opprettholdt i de tre siste sammenhengende årene, én gang i året på blodprøver eller melkeprøver tatt fra et antall storfe som minst gjør det mulig med et konfidensnivå på 95 % å påvise seropositive dyr med en målprevalens på 10 %, ellerdersom anlegget ligger i en medlemsstat eller sone som er fri for IBR/IPV, på prøver som er tatt i samsvar med kapittel 2 avsnitt 2 nr. 1 bokstav b) eller kapittel 2 avsnitt 2 nr. 3, dersom det er relevant,bare storfe som ikke er vaksinert mot infeksjon med IBR/IPV, tas inn i anlegget dersom det ligger i en medlemsstat eller sonesom er fri for IBR/IPV, ellerder det er forbud mot vaksinasjon som del av utryddelsesstrategien i henhold til et godkjent utryddelsesprogram,alt storfe som tas inn, oppfyller kravene i avsnitt 1 nr. 1 bokstav d) ii) eller kommer fra anlegg som er frie for IBR/IPV, og har testet negativt på en serologisk test for påvisning av antistoffer mot helvirus av BoHV-1 eller, om nødvendig, antistoffer mot BoHV-1-gE, på en prøve som er tatt i opprinnelsesanlegget i løpet av de siste 15 dagene før avsendelse, dersomanlegget ligger i en medlemsstat eller sone som er fri for IBR/IPV, og opprinnelsesanleggene ikke ligger i en medlemsstat eller sone som er fri for IBR/IPV, elleranlegget ligger i en medlemsstat eller sone som omfattes av et godkjent utryddelsesprogram, og opprinnelsesanlegget ligger i en medlemsstat eller sone som verken er fri for IBR/IPV eller omfattes av et godkjent utryddelsesprogram.
 
 - Status som fri for IBR/IPV for et anlegg der det holdes storfe, skal suspenderes dersomett eller flere av kravene i avsnitt 2 ikke er oppfylt,det er mistanke om et tilfelle av IBR/IPV hos et storfe som holdes i anlegget.
-- Status som fri for IBR/IPV kan bare gjeninnføres dersom
-►**M1**kravene i avsnitt 1 nr. 1 bokstav c) og d) og i avsnitt 2 nr. 1 bokstav b), c) og d) og, dersom det er relevant, i avsnitt 2 nr. 2 er oppfylt,
+- Status som fri for IBR/IPV kan bare gjeninnføres dersom►**M1**kravene i avsnitt 1 nr. 1 bokstav c) og d) og i avsnitt 2 nr. 1 bokstav b), c) og d) og, dersom det er relevant, i avsnitt 2 nr. 2 er oppfylt,
 ◄**M1**
 - resultatene av ytterligere undersøkelser dokumenterer at det ikke forekommer IBR/IPV, og statusen for alle mistenkte tilfeller er blitt fastslått.
 
@@ -1718,9 +1717,9 @@ Opplysninger som skal inngå i programmer for utryddelse av kategori B- og C-syk
 
 ### Konsolidert forordning (EU) 2021/620 om godkjent sykdomsfri status og utryddelsesprogram i EU-stater
 
-> Endret ved forskrifter [14 juni 2022 nr. 1054](forskrift/2022-06-14-1054), [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [21 mars 2023 nr. 406](forskrift/2023-03-21-406), [26 sep 2023 nr. 1517](forskrift/2023-09-26-1517), [30 okt 2023 nr. 1731](forskrift/2023-10-30-1731), [11 des 2023 nr. 1992](forskrift/2023-12-11-1992), [8 juli 2024 nr. 1722](forskrift/2024-07-08-1722), [28 okt 2024 nr. 2599](forskrift/2024-10-28-2599), [10 feb 2025 nr. 169](forskrift/2025-02-10-169), [17 mars 2025 nr. 468](forskrift/2025-03-17-468), [16 juni 2025 nr. 1046](forskrift/2025-06-16-1046), [27 okt 2025 nr. 2132](forskrift/2025-10-27-2132).
+> Endret ved forskrifter [14 juni 2022 nr. 1054](forskrift/2022-06-14-1054), [11 juli 2022 nr. 1361](forskrift/2022-07-11-1361), [21 mars 2023 nr. 406](forskrift/2023-03-21-406), [26 sep 2023 nr. 1517](forskrift/2023-09-26-1517), [30 okt 2023 nr. 1731](forskrift/2023-10-30-1731), [11 des 2023 nr. 1992](forskrift/2023-12-11-1992), [8 juli 2024 nr. 1722](forskrift/2024-07-08-1722), [28 okt 2024 nr. 2599](forskrift/2024-10-28-2599), [10 feb 2025 nr. 169](forskrift/2025-02-10-169), [17 mars 2025 nr. 468](forskrift/2025-03-17-468), [16 juni 2025 nr. 1046](forskrift/2025-06-16-1046), [27 okt 2025 nr. 2132](forskrift/2025-10-27-2132), [4 mai 2026 nr. 740](forskrift/2026-05-04-740).
 
-Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/620](eu/32021r0620). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2021/1008](eu/32021r1008), forordning [(EU) 2021/1911](eu/32021r1911), forordning [(EU) 2022/214](eu/32022r0214), forordning [(EU) 2023/150](eu/32023r0150), forordning [(EU) 2023/1071](eu/32023r1071), forordning [(EU) 2023/2057](eu/32023r2057) forordning [(EU) 2023/2618](eu/32023r2618), forordning [(EU) 2024/566](eu/32024r0566), forordning [(EU) 2024/1332](eu/32024r1332), forordning [(EU) 2024/2032](eu/32024r2032), forordning [(EU) 2024/2692](eu/32024r2692), forordning [(EU) 2025/330](eu/32025r0330) og forordning [(EU) 2025/1401](eu/32025r1401). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/620](eu/32021r0620). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2021/1008](eu/32021r1008), forordning [(EU) 2021/1911](eu/32021r1911), forordning [(EU) 2022/214](eu/32022r0214), forordning [(EU) 2023/150](eu/32023r0150), forordning [(EU) 2023/1071](eu/32023r1071), forordning [(EU) 2023/2057](eu/32023r2057) forordning [(EU) 2023/2618](eu/32023r2618), forordning [(EU) 2024/566](eu/32024r0566), forordning [(EU) 2024/1332](eu/32024r1332), forordning [(EU) 2024/2032](eu/32024r2032), forordning [(EU) 2024/2692](eu/32024r2692), forordning [(EU) 2025/330](eu/32025r0330), forordning [(EU) 2025/1401](eu/32025r1401) og forordning [(EU) 2026/293](eu/32026r0293). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
 
 - ►**M1** Forordning [(EU) 2021/1008](eu/32021r1008) av 21. juni 2021
 - ►**M2** Forordning [(EU) 2021/1911](eu/32021r1911) av 27. oktober 2021
@@ -1736,6 +1735,7 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/620
 - ►**M12** Forordning [(EU) 2024/2692](eu/32024r2692) av 17. oktober 2024
 - ►**M13** Forordning [(EU) 2025/330](eu/32025r0330) av 19. februar 2025
 - ►**M14** Forordning [(EU) 2025/1401](eu/32025r1401) av 14. juli 2025
+- ►**M15** Forordning [(EU) 2026/293](eu/32026r0293) av 9. februar 2026
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/620
 av 15. april 2021
