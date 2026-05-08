@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-12-10"
 last_change_in_force: "2010-09-03"
 last_updated: "2021-08-26"
-xml_hash: "d0c7401c9a9038092dc80be7efd621ff0e14553999e30c6bf87276af5202f6d3"
+xml_hash: "a92253cd4567901587e313a0a69f12039d1ed2db80371ff149f9c0efb8c3e53f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Dommer, fraværsdommer og rettsforlik, som er avsagt av en kompetent domstol i e
 
 Bestemmelsen i første ledd kommer ikke til anvendelse på avgjørelser som bare har foreløpig tvangskraft, eller på dommer som pålegger saksøkeren å betale en skadeserstatning utover saksomkostningene fordi dennes søksmål avvises.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ## § 5. Fremgangsmåte ved regress
 
