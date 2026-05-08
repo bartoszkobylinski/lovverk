@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2025-09-24"
-xml_hash: "44bafa1b28bfdc62fcffb4fa4b8417df8ca4801ee63fd9c5bc321235e2a12c3f"
+xml_hash: "3338f7b99881b1128edc1cb03010903968d8e6a1621f6ab7f0547a1695f8f630"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1864,7 +1864,7 @@ En part eller et vitne kan nekte å gi tilgang til bevis som ikke kan gjøres ti
 
 (4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten eller bevisopptak, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
 
-> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)).
+> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### Kapittel 24. Vitnebevis
 
@@ -1878,7 +1878,7 @@ En part eller et vitne kan nekte å gi tilgang til bevis som ikke kan gjøres ti
 
 (4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten eller bevisopptak, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
 
-> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)).
+> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 24-2. Møteplikt for vitner som er berøvet friheten
 
