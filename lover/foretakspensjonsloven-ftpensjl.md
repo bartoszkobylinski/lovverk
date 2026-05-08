@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2024-01-01"
 last_updated: "2023-07-01"
-xml_hash: "6fe70993b4943ab138f67f05b1d0ea2475601c819cfc13d4090eefeecc0ebfe1"
+xml_hash: "beb5adaa4e32916180ac52c831e2ce44684f1bb5f280eaf38a02704c48732d2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -386,7 +386,7 @@ Opptjent pensjon for arbeidstaker i deltidsstilling skal utgjøre en forholdsmes
 
 (7) Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av fripolisen i en egen investeringsportefølje ikke vil være i fripoliseinnehaverens interesse. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til fripolisen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift.
 
-> Tilføyd ved [lov 14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 sep 2014 iflg. [vedtak 27 juni 2014 nr. 884](forskrift/2014-06-27-884)), endret ved lover [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
+> Tilføyd ved [lov 14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 sep 2014 iflg. [vedtak 27 juni 2014 nr. 884](forskrift/2014-06-27-884)), endret ved lover [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 4-7 b. Investeringsvalg knyttet til utstedte fripoliser
 
@@ -486,7 +486,7 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 
 (4) Kongen kan i særlige tilfelle gjøre unntak fra første og annet ledd.
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1230](forskrift/2012-12-14-1230)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1230](forskrift/2012-12-14-1230)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft fra den tid departementet bestemmer).
 
 ### § 5-2. Alderspensjonens størrelse
 
