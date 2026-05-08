@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-06-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-10-25"
-xml_hash: "0c50f3efeb9f89ddfc7b38126618ad469913450343cbb6563ae9e0c6e7d69bdb"
+xml_hash: "a7643e07f2293673c6054c26a83c38cf9473d015cfd1bc4c72b262d368a2933a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis:
   - "32002L0065"
@@ -455,7 +455,7 @@ Retten treffer pålegg etter [§ 43](lov/2009-01-09-2/§43) som midlertidig forf
 
 Begjæring om midlertidig forføyning settes frem skriftlig for Oslo byfogdembete. Begjæringen må angi alle partene. I begjæringen skal det redegjøres for de grunner den bygger på. Dokumenter som påberopes og som saksøkeren er i besittelse av, skal følge med begjæringen.
 
-> Tilføyd ved lov [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res. 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)).
+> Tilføyd ved lov [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res. 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 43 b. Rettens avgjørelse mv.
 
