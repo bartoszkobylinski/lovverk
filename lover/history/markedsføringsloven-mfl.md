@@ -1,6 +1,16 @@
 # markedsføringsloven-mfl — Change history
 
-_2 events; doc_id `nl-20090109-002`._
+_4 events; doc_id `nl-20090109-002`._
+
+## 2026-05-08 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): markedsføringsloven-mfl`
+Commit: `1f21ed4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +11 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20090109-002.md` → `"lover/markedsf\303\270ringsloven-mfl.md"`.

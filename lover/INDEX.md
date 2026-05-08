@@ -1,6 +1,6 @@
 # Lover
 
-_736 current documents_
+_738 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -113,6 +113,7 @@ _736 current documents_
 - [endringslov-til-bilansvarslova](endringslov-til-bilansvarslova.md) — Lov om endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett)
 - [endringslov-til-cotif-lova](endringslov-til-cotif-lova.md) — Lov om endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-lova)
 - [endringslov-til-deltakerloven-og-havressurslova](endringslov-til-deltakerloven-og-havressurslova.md) — Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)
+- [endringslov-til-domstolloven-mv](endringslov-til-domstolloven-mv.md) — Lov om endringer i domstolloven mv. (saksfordeling m.m.)
 - [endringslov-til-eigedomsskattelova](endringslov-til-eigedomsskattelova.md) — Lov om endringer i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova)
 - [endringslov-til-ekomloven](endringslov-til-ekomloven.md) — Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven)
 - [endringslov-til-finansforetaksloven](endringslov-til-finansforetaksloven.md) — Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)
@@ -126,6 +127,7 @@ _736 current documents_
 - [endringslov-til-folketrygdloven-ny-uføretrygd](endringslov-til-folketrygdloven-ny-uføretrygd.md) — Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)
 - [endringslov-til-folketrygdloven-nye-etterlatteytelser](endringslov-til-folketrygdloven-nye-etterlatteytelser.md) — Lov om endringer i folketrygdloven (nye etterlatteytelser)
 - [endringslov-til-folketrygdloven-og-enkelte-andre-lover](endringslov-til-folketrygdloven-og-enkelte-andre-lover.md) — Lov om endringer i folketrygdloven og enkelte andre lover
+- [endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven](endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven.md) — Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)
 - [endringslov-til-forsikringsvirksomhetsloven](endringslov-til-forsikringsvirksomhetsloven.md) — Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring)
 - [endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet](endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet.md) — Lov om endringer i forsvarsloven mv. (militær disiplinærmyndighet)
 - [endringslov-til-ftrl-og-div-pensjonslover](endringslov-til-ftrl-og-div-pensjonslover.md) — Lov om endringer i lov om Statens pensjonskasse, folketrygdloven og i enkelte andre lover (justeringer i reglene om uføretrygd og ny uførepensjonsordning i offentlig tjenestepensjon mv.)

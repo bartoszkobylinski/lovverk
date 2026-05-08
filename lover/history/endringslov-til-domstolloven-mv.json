@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260507-017",
+  "events": [
+    {
+      "commit": "ec4d104",
+      "date": "2026-05-08",
+      "from_path": null,
+      "lines_added": 84,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-domstolloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-domstolloven-mv"
+}

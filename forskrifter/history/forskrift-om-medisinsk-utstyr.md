@@ -1,6 +1,16 @@
 # forskrift-om-medisinsk-utstyr — Change history
 
-_2 events; doc_id `sf-20210509-1476`._
+_4 events; doc_id `sf-20210509-1476`._
+
+## 2026-05-08 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-medisinsk-utstyr`
+Commit: `6be3a30`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20210509-1476.md` → `forskrifter/forskrift-om-medisinsk-utstyr.md`.

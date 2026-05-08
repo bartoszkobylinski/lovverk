@@ -1,6 +1,16 @@
 # produktansvarsloven-prodansvl — Change history
 
-_2 events; doc_id `nl-19881223-104`._
+_4 events; doc_id `nl-19881223-104`._
+
+## 2026-05-08 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): produktansvarsloven-prodansvl`
+Commit: `2830d0a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19881223-104.md` → `lover/produktansvarsloven-prodansvl.md`.

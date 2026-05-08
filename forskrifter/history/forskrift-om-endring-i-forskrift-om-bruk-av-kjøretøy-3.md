@@ -1,6 +1,11 @@
 # forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3 — Change history
 
-_4 events; doc_id `sf-20260320-0442`._
+_5 events; doc_id `sf-20260320-0442`._
+
+## 2026-05-08 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3`
+Commit: `d04ee24`.
 
 ## 2026-05-04 — Content updated
 Lines: +9 -11.

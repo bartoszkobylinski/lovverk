@@ -1,6 +1,16 @@
 # dyrehelseovervåkningsforskriften — Change history
 
-_2 events; doc_id `sf-20220406-0632`._
+_4 events; doc_id `sf-20220406-0632`._
+
+## 2026-05-08 — Content updated
+Lines: +9 -9.
+Subject: `update(forskrift): dyrehelseovervåkningsforskriften`
+Commit: `154a35b`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220406-0632.md` → `"forskrifter/dyrehelseoverv\303\245kningsforskriften.md"`.

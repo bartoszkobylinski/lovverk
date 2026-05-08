@@ -224,15 +224,15 @@
     "nl-19150813-005": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/domstolloven-dl.md",
       "slug": "domstolloven-dl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om domstolene (domstolloven)",
-      "total_changes": null,
-      "xml_hash": "ccb1bd44415522e3db45df43b2f3371d994625acf14b10459b13fefeece45a6b"
+      "total_changes": 4,
+      "xml_hash": "fd64125d5dfac0f31cbff2e59af5e0d9c730c5f629d3ab71c1d0c23f82a11052"
     },
     "nl-19160317-000": {
       "doc_type": "lov",
@@ -1370,15 +1370,15 @@
     "nl-19591218-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/mortifikasjonslova.md",
       "slug": "mortifikasjonslova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]",
-      "total_changes": null,
-      "xml_hash": "f3fcb13293dae28567d7e8d7b081bf276ae8d0a8232749b49d9cbf5d7dabb410"
+      "total_changes": 4,
+      "xml_hash": "f4f4aa3d44107292928621628942107bf53bb33b27ed9f0be0db7eb2d5580307"
     },
     "nl-19610203-000": {
       "doc_type": "lov",
@@ -2384,15 +2384,15 @@
     "nl-19810522-025": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/straffeprosessloven-strpl.md",
       "slug": "straffeprosessloven-strpl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettergangsmåten i straffesaker (Straffeprosessloven)",
-      "total_changes": null,
-      "xml_hash": "8c323ca7b8beddb29217021affd61cffec883b8be66d46885d4ba371d14af348"
+      "total_changes": 4,
+      "xml_hash": "1b0af567c012510ecb10d2cb69046d232f6bfd736813f77ddb44feeef148bb36"
     },
     "nl-19810529-038": {
       "doc_type": "lov",
@@ -2807,15 +2807,15 @@
       "eu_basis": [
         "31985L0374"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/produktansvarsloven-prodansvl.md",
       "slug": "produktansvarsloven-prodansvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om produktansvar [produktansvarsloven]",
-      "total_changes": null,
-      "xml_hash": "576f7653d13d86c014412cfdb2ca9cdf9280f7d217dfbc0b3a7af0849f172a77"
+      "total_changes": 4,
+      "xml_hash": "77b44141fba743bc3bfec21bd4014b0ed20efe6e25836d47fa0d127e4a3ba8ca"
     },
     "nl-19890217-002": {
       "doc_type": "lov",
@@ -4175,15 +4175,15 @@
         "32009L0138",
         "32003L0041"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/foretakspensjonsloven-ftpensjl.md",
       "slug": "foretakspensjonsloven-ftpensjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om foretakspensjon (foretakspensjonsloven)",
-      "total_changes": null,
-      "xml_hash": "6fe70993b4943ab138f67f05b1d0ea2475601c819cfc13d4090eefeecc0ebfe1"
+      "total_changes": 4,
+      "xml_hash": "beb5adaa4e32916180ac52c831e2ce44684f1bb5f280eaf38a02704c48732d2b"
     },
     "nl-20000512-036": {
       "doc_type": "lov",
@@ -4987,15 +4987,15 @@
     "nl-20041210-082": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/cotif-loven.md",
       "slug": "cotif-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven)",
-      "total_changes": null,
-      "xml_hash": "d0c7401c9a9038092dc80be7efd621ff0e14553999e30c6bf87276af5202f6d3"
+      "total_changes": 4,
+      "xml_hash": "a92253cd4567901587e313a0a69f12039d1ed2db80371ff149f9c0efb8c3e53f"
     },
     "nl-20041217-090": {
       "doc_type": "lov",
@@ -5107,15 +5107,15 @@
     "nl-20050429-021": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/lov-om-supplerande-stønad-ved-kort-butid.md",
       "slug": "lov-om-supplerande-stønad-ved-kort-butid",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om supplerande stønad til personar med kort butid i Noreg",
-      "total_changes": null,
-      "xml_hash": "ec3de7d4f5478132cb10705073468cc521ca06679e000b476f6d4c7d4aaaf1b5"
+      "total_changes": 4,
+      "xml_hash": "a2cf03a92e9f4ad2ac96c86fb910c63ef27057c04fd584483bccbd8179af760c"
     },
     "nl-20050520-028": {
       "doc_type": "lov",
@@ -5177,15 +5177,15 @@
         "32016L2341",
         "32003L0041"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/forsikringsvirksomhetsloven-forsvl.md",
       "slug": "forsikringsvirksomhetsloven-forsvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)",
-      "total_changes": null,
-      "xml_hash": "53c48ae4fa0562822c32f702d6e17c10fcf319077565f3cd3526104d1edffb72"
+      "total_changes": 4,
+      "xml_hash": "38aa3a895d6abc859369650e6bf5c153459a97aaa38dd861d829a697d0e5bd62"
     },
     "nl-20050610-051": {
       "doc_type": "lov",
@@ -5268,15 +5268,15 @@
     "nl-20050617-090": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/tvisteloven-tvl.md",
       "slug": "tvisteloven-tvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mekling og rettergang i sivile tvister (tvisteloven)",
-      "total_changes": null,
-      "xml_hash": "44bafa1b28bfdc62fcffb4fa4b8417df8ca4801ee63fd9c5bc321235e2a12c3f"
+      "total_changes": 4,
+      "xml_hash": "3338f7b99881b1128edc1cb03010903968d8e6a1621f6ab7f0547a1695f8f630"
     },
     "nl-20050617-098": {
       "doc_type": "lov",
@@ -5761,15 +5761,15 @@
         "32011L0083",
         "32019L0771"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "lover/markedsføringsloven-mfl.md",
       "slug": "markedsføringsloven-mfl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)",
-      "total_changes": null,
-      "xml_hash": "0c50f3efeb9f89ddfc7b38126618ad469913450343cbb6563ae9e0c6e7d69bdb"
+      "total_changes": 4,
+      "xml_hash": "a7643e07f2293673c6054c26a83c38cf9473d015cfd1bc4c72b262d368a2933a"
     },
     "nl-20090306-012": {
       "doc_type": "lov",
@@ -10015,6 +10015,32 @@
       "title": "Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare arbeidsvilkår)",
       "total_changes": null,
       "xml_hash": "52f2a2a22efdd02597f8f2d82c303ba6c00fbcecd3d8e9004e3b3f1fbc4fa3ba"
+    },
+    "nl-20260507-016": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "markdown_path": "lover/endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven.md",
+      "slug": "endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)",
+      "total_changes": 1,
+      "xml_hash": "329ecd85602392f3717c1bb0ddd4028a86fff6a5562cca3168f902c443eb8c19"
+    },
+    "nl-20260507-017": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "markdown_path": "lover/endringslov-til-domstolloven-mv.md",
+      "slug": "endringslov-til-domstolloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i domstolloven mv. (saksfordeling m.m.)",
+      "total_changes": 1,
+      "xml_hash": "ac6fe66ed3dc5bc9449560f22225896a2cc64c6b1b946d447dcd25e9d730eee5"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -14686,15 +14712,15 @@
     "sf-19900125-0092": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-bruk-av-kjøretøy.md",
       "slug": "forskrift-om-bruk-av-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bruk av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "5076d85f3253407bbc11ba348f9b96573faf8c4808bfeaeefaea0db93c5f0d1a"
+      "total_changes": 4,
+      "xml_hash": "cbe6441a69598b3bf62993b143a64aa006acd19c1a75730e152035ae5accdbf0"
     },
     "sf-19900126-0068": {
       "doc_type": "forskrift",
@@ -15856,15 +15882,15 @@
     "sf-19931221-1381": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/matkontaktforskriften.md",
       "slug": "matkontaktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften)",
-      "total_changes": null,
-      "xml_hash": "3efbab7388a3fc16687ee9afde4aad05f3bb59a71300568ae9760cb71af38aae"
+      "total_changes": 4,
+      "xml_hash": "df695c2392923a7134a4574acbff59e6f6024520c5cedc51c52e82469c96e422"
     },
     "sf-19931221-1384": {
       "doc_type": "forskrift",
@@ -28063,15 +28089,15 @@
     "sf-20091218-1839": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/legemiddelforskriften.md",
       "slug": "legemiddelforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om legemidler til mennesker (legemiddelforskriften)",
-      "total_changes": null,
-      "xml_hash": "ee0d846374cb47d131b6477ce1ea39af8a1b8b7f8937f918df0dff3bf819245c"
+      "total_changes": 4,
+      "xml_hash": "c2576b52f6a019b777b5bc20f5f6a310bd4d06f9e02523ef1c409d025d870bf6"
     },
     "sf-20091221-1738": {
       "doc_type": "forskrift",
@@ -29636,15 +29662,15 @@
     "sf-20110606-0669": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/aromaforskriften.md",
       "slug": "aromaforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om aroma og næringsmiddelingredienser med aromagivende egenskaper til anvendelse i og på næringsmidler (aromaforskriften)",
-      "total_changes": null,
-      "xml_hash": "02a6647a637e2ed362d838f903ad9f0b350c706eef7a8e86fd19a004241c6541"
+      "total_changes": 4,
+      "xml_hash": "80dd8f3b7699a5bc2aa77122c4f9cacf424e2e327fddfc9c2819a47d80fa9c29"
     },
     "sf-20110621-0617": {
       "doc_type": "forskrift",
@@ -37267,15 +37293,15 @@
     "sf-20170725-1215": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-ny-mat.md",
       "slug": "forskrift-om-ny-mat",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om ny mat",
-      "total_changes": null,
-      "xml_hash": "6b77c649e697b08d2e366128a49ea40ab936a469849d6c1243b36839df3175b8"
+      "total_changes": 4,
+      "xml_hash": "3d8c3531501fc154c1cd618349270aa8732bc6401b5a7ed9981e246d8bc8f6e3"
     },
     "sf-20170801-1230": {
       "doc_type": "forskrift",
@@ -38333,15 +38359,15 @@
     "sf-20180601-1546": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md",
       "slug": "forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Handelshøyskolen BI",
-      "total_changes": null,
-      "xml_hash": "68659d080a27dc591a102f81cdb15cf2916b721208549c8d04fda3e898ee4720"
+      "total_changes": 4,
+      "xml_hash": "71273dacce419d0f002c601e8758e7ffa7bbecd252462d98138800a5512b5295"
     },
     "sf-20180607-0836": {
       "doc_type": "forskrift",
@@ -43104,15 +43130,15 @@
     "sf-20210509-1476": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-medisinsk-utstyr.md",
       "slug": "forskrift-om-medisinsk-utstyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om medisinsk utstyr",
-      "total_changes": null,
-      "xml_hash": "3edf61ba94878dc0fee16c60c07ef675f5f00e59ff6f4baf414b1ca74dd72f6c"
+      "total_changes": 4,
+      "xml_hash": "9f58885ba77b1e0562cebdac1ff44bab7044ec2df58bb9705e0b0464f0b090d6"
     },
     "sf-20210511-1456": {
       "doc_type": "forskrift",
@@ -45171,15 +45197,15 @@
     "sf-20220406-0632": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/dyrehelseovervåkningsforskriften.md",
       "slug": "dyrehelseovervåkningsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om melding, rapportering, overvåkning, utryddelsesprogram og sykdomsfri status for bestemte dyresykdommer (dyrehelseovervåkningsforskriften)",
-      "total_changes": null,
-      "xml_hash": "93f1b4fbc5e357dcf6d174a0e3c6c7f320f303a2fb5635680c48a536baeb2d6a"
+      "total_changes": 4,
+      "xml_hash": "a291953a75622859e90bd509e07c9bcbf88d65cc60982dd30bbf5da3fabf5e79"
     },
     "sf-20220406-0633": {
       "doc_type": "forskrift",
@@ -54102,15 +54128,15 @@
     "sf-20260320-0442": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": 4,
-      "xml_hash": "3af004b75cb5e5370195549e2ea774fcf1102e698a4ba8bc497fe35433f01e3d"
+      "total_changes": 5,
+      "xml_hash": "f18ff8e86132f998a73425c52bdc9d7d76a098a0c3759ff32cc4e5ddfa90e6b3"
     },
     "sf-20260320-0443": {
       "doc_type": "forskrift",
@@ -54359,6 +54385,19 @@
       "total_changes": 2,
       "xml_hash": "93ffb01d3e7a4ae28ffe71113dd51ddd67509b85b273475470462a1cfc402a05"
     },
+    "sf-20260428-0737": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI",
+      "total_changes": 5,
+      "xml_hash": "2ff52d0a99cb935ddae990330f14446b4ccf9e9e669e84ce67bc6c39604fb877"
+    },
     "sf-20260429-0683": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54410,8 +54449,21 @@
       "title": "Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)",
       "total_changes": 1,
       "xml_hash": "a56e16492e1eda289ed75e4d83ba56e625ae4c2b93e906f910b94eed400eaf5a"
+    },
+    "sf-20260505-0742": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-08",
+      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy",
+      "total_changes": 1,
+      "xml_hash": "f5fd6f6b9164dac29e7fe50fd14b6f2795e8d33ab906fc8bd44cb09ca73c4980"
     }
   },
-  "generated_at": "2026-05-07T06:32:55.817317Z",
+  "generated_at": "2026-05-08T05:54:50.775222Z",
   "version": 1
 }

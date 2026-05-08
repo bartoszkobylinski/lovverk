@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260507-016",
+  "events": [
+    {
+      "commit": "aafde48",
+      "date": "2026-05-08",
+      "from_path": null,
+      "lines_added": 65,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven"
+}

@@ -1,6 +1,16 @@
 # forsikringsvirksomhetsloven-forsvl — Change history
 
-_2 events; doc_id `nl-20050610-044`._
+_4 events; doc_id `nl-20050610-044`._
+
+## 2026-05-08 — Content updated
+Lines: +14 -10.
+Subject: `update(lov): forsikringsvirksomhetsloven-forsvl`
+Commit: `682dc4c`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20050610-044.md` → `lover/forsikringsvirksomhetsloven-forsvl.md`.

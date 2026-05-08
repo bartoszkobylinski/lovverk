@@ -2,6 +2,16 @@
   "doc_id": "sf-20260320-0442",
   "events": [
     {
+      "commit": "d04ee24",
+      "date": "2026-05-08",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

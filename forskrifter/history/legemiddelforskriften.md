@@ -1,6 +1,16 @@
 # legemiddelforskriften — Change history
 
-_2 events; doc_id `sf-20091218-1839`._
+_4 events; doc_id `sf-20091218-1839`._
+
+## 2026-05-08 — Content updated
+Lines: +17 -11.
+Subject: `update(forskrift): legemiddelforskriften`
+Commit: `6077004`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20091218-1839.md` → `forskrifter/legemiddelforskriften.md`.

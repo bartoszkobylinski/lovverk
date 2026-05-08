@@ -2,6 +2,26 @@
   "doc_id": "nl-20050429-021",
   "events": [
     {
+      "commit": "75db4c5",
+      "date": "2026-05-08",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(lov): lov-om-supplerande-stønad-ved-kort-butid",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-20050429-021.md",
