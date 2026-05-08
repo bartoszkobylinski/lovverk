@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-25"
-xml_hash: "8c323ca7b8beddb29217021affd61cffec883b8be66d46885d4ba371d14af348"
+xml_hash: "1b0af567c012510ecb10d2cb69046d232f6bfd736813f77ddb44feeef148bb36"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -4000,7 +4000,7 @@ Det som er gjengitt i rettsboken av forklaringer avgitt av vitner eller sakkyndi
 
 Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 23](lov/1981-05-22-25/§23) i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
 
-> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Tilføyd ved lov [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 332
 
