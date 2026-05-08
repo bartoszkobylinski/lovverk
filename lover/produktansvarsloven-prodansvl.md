@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1989-01-01"
 last_change_in_force: "2022-07-01"
 last_updated: "2022-04-25"
-xml_hash: "576f7653d13d86c014412cfdb2ca9cdf9280f7d217dfbc0b3a7af0849f172a77"
+xml_hash: "77b44141fba743bc3bfec21bd4014b0ed20efe6e25836d47fa0d127e4a3ba8ca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis:
   - "31985L0374"
@@ -175,7 +175,7 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 (2) Dersom det er grunn til å rekne med at nedsetting kan bli nødvendig, skal Legemiddelforsikringen straks gi departementet skriftlig melding om det og snarest mulig nærmere opplysninger om skadenes størrelse og omfang. Departementet kan i et slikt tilfelle treffe bestemmelse om skademeldinger, meldefrister, foreløpige utbetalinger og det endelige oppgjør.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 3-8. (personlig ansvar og regress)
 
