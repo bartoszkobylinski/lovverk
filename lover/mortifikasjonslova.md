@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1961-01-01"
 last_change_in_force: "2013-07-01"
 last_updated: "2021-08-27"
-xml_hash: "f3fcb13293dae28567d7e8d7b081bf276ae8d0a8232749b49d9cbf5d7dabb410"
+xml_hash: "f4f4aa3d44107292928621628942107bf53bb33b27ed9f0be0db7eb2d5580307"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Eit kupongark, med eller utan talong, kan verta mortifisert saman med dokumentet
 
 Krav om mortifikasjon som høyrer under norsk domstol, lyt søkjaren bera fram for Brønnøy tingrett.
 
-> Endra med [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
+> Endra med [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ## § 5.
 
