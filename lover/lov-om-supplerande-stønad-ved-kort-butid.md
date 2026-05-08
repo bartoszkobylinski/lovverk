@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-05-07"
 last_updated: "2022-03-28"
-xml_hash: "ec3de7d4f5478132cb10705073468cc521ca06679e000b476f6d4c7d4aaaf1b5"
+xml_hash: "a2cf03a92e9f4ad2ac96c86fb910c63ef27057c04fd584483bccbd8179af760c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,7 +114,9 @@ Ved endring i garantipensjonsnivå og grunnbeløpet skal supplerande stønad reg
 
 Frådrag i stønaden etter [§ 6](lov/2005-04-29-21/§6) på grunn av alderspensjon eller uføretrygd frå folketrygda, eller andre ytingar som er direkte knytte til grunnbeløpet eller blir regulerte etter tilsvarande reglar som for alderspensjon frå folketrygda, skal regulerast i tråd med endringa i desse ytingane.
 
-> Endra med lover [22 des 2006 nr. 94](lov/2006-12-22-94) (ikr. 1 jan 2007), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 jan 2011), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. [res. 18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for bestemmingar sjå loven del V), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021).
+Retten til stønad fell bort dersom inntektsgrunnlaget etter [§ 6](lov/2005-04-29-21/§6) i løpet av stønadsperioden tilsvarar eller er høgare enn full supplerande stønad etter [§ 5](lov/2005-04-29-21/§5). Det same gjeld dersom stønadstakaren eller ektemaken får formue over grensa nemnd i [§ 8 første ledd](lov/2005-04-29-21/§8/ledd/1).
+
+> Endra med lover [22 des 2006 nr. 94](lov/2006-12-22-94) (ikr. 1 jan 2007), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 jan 2011), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. [res. 18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for bestemmingar sjå loven del V), [18 des 2020 nr. 138](lov/2020-12-18-138) (ikr. 1 jan 2021), [7 mai 2026 nr. 15](lov/2026-05-07-15).
 
 ### § 11. Stønadsperiode og utbetaling
 
