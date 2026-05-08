@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-08-01"
 last_change_in_force: "2026-04-01"
 last_updated: "2021-06-29"
-xml_hash: "68659d080a27dc591a102f81cdb15cf2916b721208549c8d04fda3e898ee4720"
+xml_hash: "71273dacce419d0f002c601e8758e7ffa7bbecd252462d98138800a5512b5295"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -200,7 +200,7 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 
 (3) For opptak til Master of Business Administration-studier gjelder følgende regler i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4):Det kreves fullført bachelorgrad eller tilsvarende fra en akkreditert/godkjent utdanningsinstitusjon. Kvalifikasjoner avlagt ved utenlandske studiesteder vurderes etter de alminnelige regler som gjelder for opptak til norske universiteter og høyskoler. Søkere må i tillegg dokumentere betydelig relevant arbeidserfaring.I særskilte tilfeller kan søkere som i noen grad ikke møter de formelle kravene i [§ 2-6](forskrift/2018-06-01-1546/§2-6) (3) bokstav a bli gitt en vurdering mht. opptak på bakgrunn av søkerens eksepsjonelle arbeidserfaring. Slik vurdering er individuell og vil kun bli gitt til søkere med omfattende ledererfaring ervervet over en betydelig periode. Det kan gis uttelling for tunge styreverv eller akademiske publikasjoner. Søkeren vil bli vurdert av MBA opptakskomité.Søkere til studiet kan i enkelte tilfeller bli pålagt å fullføre og bestå en skriftlig opptakstest.Søkere plikter å vedlegge to anbefalingsbrev, hvorav ett skal være fra nåværende arbeidsgiver, om mulig.Alle kvalifiserte søkere vil bli intervjuet som en del av opptaksprosessen.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025).
+> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [11 mars 2025 nr. 420](forskrift/2025-03-11-420) (i kraft 15 april 2025). **Endres** ved [forskrift 28 april 2026 nr. 737](forskrift/2026-04-28-737) (i kraft 1 sep 2026).
 
 ### § 2-7. Opptakskrav til ph.d.-studier
 
