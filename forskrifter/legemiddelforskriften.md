@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2010-01-12"
-last_change_in_force: "2026-03-27"
+last_change_in_force: "2026-05-01"
 last_updated: "2024-10-21"
-xml_hash: "ee0d846374cb47d131b6477ce1ea39af8a1b8b7f8937f918df0dff3bf819245c"
+xml_hash: "c2576b52f6a019b777b5bc20f5f6a310bd4d06f9e02523ef1c409d025d870bf6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1193,11 +1193,11 @@ Innehaveren skal sende søknad om endring av markedsføringstillatelsen i overen
 
 > Tilføyd ved [forskrift 21 nov 2013 nr. 1745](forskrift/2013-11-21-1745), endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016), opphevet ved [forskrift 15 feb 2019 nr. 115](forskrift/2019-02-15-115) (i kraft 1 jan 2020).
 
-### § 10-12
+### § 10-12. Gjennomføring av forordning om utførelse av legemiddelovervåkningsaktiviteter
 
-EØS-avtalen vedlegg II, kapittel XIII, nr. 15zq (forordning [(EU) nr. 520/2012](eu/32012r0520) om utførelse av legemiddelovervåkningsaktiviteter fastsatt i forordning [(EF) nr. 726/2004](eu/32004r0726) og direktiv [2001/83/EF](eu/32001l0083), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) nr. 520/2012](eu/32012r0520) om utførelse av legemiddelovervåkningsaktiviteter, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 15zq, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2025/1466](eu/32025r1466).
 
-> Tilføyd ved [forskrift 17 feb 2015 nr. 159](forskrift/2015-02-17-159) (i kraft 27 feb 2015).
+> Tilføyd ved [forskrift 17 feb 2015 nr. 159](forskrift/2015-02-17-159) (i kraft 27 feb 2015), endret ved forskrift [28 april 2026 nr. 736](forskrift/2026-04-28-736) (i kraft 1 mai 2026).
 
 ## Kapittel 10a. (Opphevet)
 
@@ -1585,15 +1585,21 @@ Alvorlighet skal måles ved hvor mange gode leveår pasienter i den aktuelle gru
 
 ### § 14-3a. Gjennomføring av forordninger om medisinske metodevurderinger
 
-Forordning [(EU) 2021/2282](eu/32021r2282) om medisinske metodevurderinger, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2021/2282](eu/32021r2282) om medisinske metodevurderinger, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordning [(EU) 2024/1381](eu/32024r1381) om prosedyrene for felles kliniske vurderinger av legemidler, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23a, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2024/1381](eu/32024r1381) om prosedyrene for felles kliniske vurderinger av legemidler, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23a, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordning [(EU) 2024/2699](eu/32024r2699) om samarbeid ved utveksling av informasjon med EMA, jf. [vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23c, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2024/2699](eu/32024r2699) om samarbeid ved utveksling av informasjon med EMA, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23c, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-Forordning [(EU) 2025/117](eu/32025r0117) om prosedyrene for felles vitenskapelige samråd for medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2024/2745](eu/32024r2745) om håndtering av interessekonflikter, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23d, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [23 mars 2026 nr. 471](forskrift/2026-03-23-471), endret ved forskrift [27 mars 2026 nr. 510](forskrift/2026-03-27-510).
+Forordning [(EU) 2024/3169](eu/32024r3169) om felles vitenskapelige konsultasjoner for legemidler, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23e, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordning [(EU) 2025/117](eu/32025r0117) om prosedyrene for felles vitenskapelige samråd for medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23b, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordning [(EU) 2025/2086](eu/32025r2086) om prosedyrene for felles kliniske vurderinger for medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23f, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [23 mars 2026 nr. 471](forskrift/2026-03-23-471), endret ved forskrifter [27 mars 2026 nr. 510](forskrift/2026-03-27-510), [28 april 2026 nr. 736](forskrift/2026-04-28-736) (i kraft 1 mai 2026).
 
 ### § 14-4. Innhenting av opplysninger fra legemidlets rettighetshaver
 
