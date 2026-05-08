@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-25"
-xml_hash: "ccb1bd44415522e3db45df43b2f3371d994625acf14b10459b13fefeece45a6b"
+xml_hash: "fd64125d5dfac0f31cbff2e59af5e0d9c730c5f629d3ab71c1d0c23f82a11052"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,13 +44,13 @@ For de domstoler som er nevnt under nr. 1-4, gjelder denne lov om ikke annet er 
 
 Høyesterett har sitt sete i rikets hovedstad når ikke særlige forhold er til hinder. Retten skal ha en formann og så mange andre dommere som til enhver tid er bestemt.
 
-> Endret ved lov 9 juni 1939 nr. 9.
+> Endret ved lov 9 juni 1939 nr. 9. **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 4
 
 Når saksmengden gjør det påkrevd, kan Høyesterett, for saker som skal avgjøres av fem dommere, deles i flere avdelinger etter bestemmelse av Kongen. For saker som skal avgjøres av tre dommere, kan Høyesterett nedsette ett eller flere utvalg, som betegnes som Høyesteretts ankeutvalg. Høyesteretts domstolleder leder behandlingen i avdelinger og utvalg og behandlingen av saker i storkammer eller plenum, som hun eller han er med i. Ellers ledes behandlingen av eldste dommer som er med.
 
-> Endret ved lover 9 juni 1939 nr. 9, [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 9 juni 1939 nr. 9, [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 5
 
@@ -74,7 +74,7 @@ Avgjørelse om at Høyesterett skal ha en annen sammensetning enn den som følge
 
 Når det er truffet avgjørelse om at Høyesterett skal settes i storkammer, kan Høyesteretts domstolleder i stedet bestemme at avgjørelsen skal treffes av Høyesterett i plenum. Det skal gjøres hvis minst seks av Høyesteretts dommere krever det. Vedtak etter første punktum og krav etter annet punktum må i tilfelle settes fram før ankeforhandlingen eller den avsluttende skriftlige behandlingen i den forsterkede rett påbegynnes.
 
-> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 7
 
@@ -90,7 +90,7 @@ Høyesteretts domstolleder leder rettens forretninger, fastsetter tiden for dens
 
 Har domstollederen forfall, gjør eldste dommer tjeneste så lenge ingen annen er oppnevnt.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [8 juni 1984 nr. 60](lov/1984-06-08-60), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [8 juni 1984 nr. 60](lov/1984-06-08-60), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 9
 
@@ -118,7 +118,7 @@ Hvor saksmengden gjør det påkrevet, kan lagmannsretten etter bestemmelse av do
 
 Kongen kan gi nærmere regler om fordelingen av sakene i lagmannsrettene.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 12
 
@@ -182,7 +182,7 @@ Hvor saksmengden gjør det påkrevet, kan tingrettene etter bestemmelse av domst
 
 Kongen kan gi nærmere regler om fordelingen av sakene i tingrettene, herunder om fordelingen mellom rettsstedene.
 
-> Endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)).
+> Endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 20
 
@@ -190,7 +190,7 @@ Kongen kan bestemme, at en eller flere av tingrettenes forretningsgrener skal st
 
 Domstoladministrasjonen kan oppnevne en særskilt dommer til en eller flere bestemte straffesaker eller til å styre skjønn, ekspropriasjonssaker eller saker som reises under ett etter [tvisteloven § 4-5](lov/2005-06-17-90/§4-5) første ledd, når det er påkrevet fordi saken er vidløftig eller fordi forretningene bør ledes av samme dommer i flere domssokn. For skjønn, ekspropriasjonssaker og saker etter [tvisteloven § 4-5](lov/2005-06-17-90/§4-5) første ledd kan domstoladministrasjonen oppnevne et varamedlem som skal følge forhandlingene og tre inn i retten om lederen får forfall.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 20 juni 1952 nr. 3, [14 juni 1985 nr. 71](lov/1985-06-14-71), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [21 des 2007 nr. 127](lov/2007-12-21-127).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 20 juni 1952 nr. 3, [14 juni 1985 nr. 71](lov/1985-06-14-71), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 21
 
@@ -232,7 +232,7 @@ Når det er hensiktsmessig, kan rett settes på andre steder.
 
 Dersom ikke staten stiller rettslokale til rådighet for jordskifteretten, skal vedkommende kommune eller kommuner skaffe rettslokale. Andre til fjerde ledd gjelder tilsvarende for lokaler jordskifteretten bruker til rettsmøter.
 
-> Endret ved lover [18 des 1959 nr. 11](lov/1959-12-18-11), [3 juni 1983 nr. 43](lov/1983-06-03-43), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)).
+> Endret ved lover [18 des 1959 nr. 11](lov/1959-12-18-11), [3 juni 1983 nr. 43](lov/1983-06-03-43), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 26. (Opphevet)
 
@@ -340,7 +340,7 @@ Domstoladministrasjonen fremmer forslag til budsjett for domstolene for departem
 
 Domstoladministrasjonen fastsetter antall faste dommerstillinger for den enkelte domstol. I tillegg kan det opprettes faste dommerstillinger felles for flere domstoler. Domstoladministrasjonen gir nærmere bestemmelser om organiseringen av disse dommernes tjenester. For Høyesterett fastsetter Kongen antall dommerstillinger.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 33 d
 
