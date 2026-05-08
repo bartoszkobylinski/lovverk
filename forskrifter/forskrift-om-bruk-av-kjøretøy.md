@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1990-04-01"
 last_change_in_force: "2026-03-01"
 last_updated: "2023-08-11"
-xml_hash: "5076d85f3253407bbc11ba348f9b96573faf8c4808bfeaeefaea0db93c5f0d1a"
+xml_hash: "cbe6441a69598b3bf62993b143a64aa006acd19c1a75730e152035ae5accdbf0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -579,7 +579,7 @@ Statens vegvesen kan i løpet av rettighetsperioden etter søknad tildele nytt p
 
 ### § 3-2a. Transportforetakets veilednings- og dokumentasjonsplikt ved sikring og plassering av gods
 
-> **Tilføyes** ved forskrift [20 mars 2026 nr. 442](forskrift/2026-03-20-442) (i kraft 1 juni 2026).
+> **Tilføyes** ved forskrift [20 mars 2026 nr. 442](forskrift/2026-03-20-442) (i kraft 1 juni 2026). **Endres** ved forskrift [5 mai 2026 nr. 742](forskrift/2026-05-05-742) (i kraft 1 juni 2026).
 
 ### § 3-3. Nærmere om sikring av gods
 
@@ -598,7 +598,7 @@ EUMOS 40511 Stolper – støtter
 EUMOS 40509 Transportemballasje
 Siste versjon av standardene skal benyttes.Lastsikringsutstyr som ikke oppfyller disse standardene kan godtas hvis det kan dokumenteres at det tåler de krefter som beskrives i nr. 3.Kjøretøykomponenter som benyttes til lastsikring skal ikke belastes med større krefter enn de er beregnet/dokumentert/konstruert for.Hvis det er mulig på grunn av godsets beskaffenhet og dimensjoner, skal surring på kjøretøy med åpent godsrom anbringes innenfor sidelemmer eller lignende. Er dette ikke mulig, må alle deler av surringen være festet slik at løse ender ikke kan skade annen trafikant.Plater skal ikke stikke utenfor lastbærerens sider i bredderetningen.Godsbærer skal være festet til kjøretøyet på en slik måte at den ved full belastning kan tåle det som kreves etter nr. 2 eller 3.Anordning som begrenser godsrom, skal være påsatt og forsvarlig sikret under kjøring.Bestemmelsene i denne paragraf gjelder ikke utenfor veg som er åpen for alminnelig ferdsel dersom godset likevel er forsvarlig sikret.
 
-> Endret ved forskrifter [9 sep 1998 nr. 932](forskrift/1998-09-09-932) (i kraft 1 okt 1998), [14 des 2017 nr. 2193](forskrift/2017-12-14-2193) (i kraft 1 jan 2018). **Endres** ved forskrift [20 mars 2026 nr. 442](forskrift/2026-03-20-442) (i kraft 1 juni 2026).
+> Endret ved forskrifter [9 sep 1998 nr. 932](forskrift/1998-09-09-932) (i kraft 1 okt 1998), [14 des 2017 nr. 2193](forskrift/2017-12-14-2193) (i kraft 1 jan 2018). **Endres** ved forskrift [20 mars 2026 nr. 442](forskrift/2026-03-20-442) (i kraft 1 juni 2026). **Endres** ved forskrift [5 mai 2026 nr. 742](forskrift/2026-05-05-742) (i kraft 1 juni 2026).
 
 ### § 3-4. Utstikkende gods, merking m.m.
 
