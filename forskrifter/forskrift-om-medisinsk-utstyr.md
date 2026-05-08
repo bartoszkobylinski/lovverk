@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2021-05-26"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-05-01"
 last_updated: "2022-06-16"
-xml_hash: "3edf61ba94878dc0fee16c60c07ef675f5f00e59ff6f4baf414b1ca74dd72f6c"
+xml_hash: "9f58885ba77b1e0562cebdac1ff44bab7044ec2df58bb9705e0b0464f0b090d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-08T05:54:50.775222+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,9 +82,9 @@ Forordning [(EU) 2021/2226](eu/32021r2226) om elektroniske bruksanvisninger for 
 
 ### § 1h. Metodevurdering av medisinsk utstyr
 
-Legemiddelforskriften § 14-3a første, tredje og fjerde ledd gjelder for medisinsk utstyr etter forskriften her.
+[Legemiddelforskriften § 14-3a første](forskrift/2009-12-18-1839/§14-3a/ledd/1), [tredje](forskrift/2009-12-18-1839/§14-3a/ledd/3), [fjerde](forskrift/2009-12-18-1839/§14-3a/ledd/4), [sjette](forskrift/2009-12-18-1839/§14-3a/ledd/6) og [syvende ledd](forskrift/2009-12-18-1839/§14-3a/ledd/7) gjelder for medisinsk utstyr etter forskriften her.
 
-> Tilføyd ved forskrift [17 jan 2025 nr. 61](forskrift/2025-01-17-61), endret ved forskrifter [29 aug 2025 nr. 1908](forskrift/2025-08-29-1908) (i kraft 20 sep 2025), [23 mars 2026 nr. 471](forskrift/2026-03-23-471).
+> Tilføyd ved forskrift [17 jan 2025 nr. 61](forskrift/2025-01-17-61), endret ved forskrifter [29 aug 2025 nr. 1908](forskrift/2025-08-29-1908) (i kraft 20 sep 2025), [23 mars 2026 nr. 471](forskrift/2026-03-23-471), [28 april 2026 nr. 736](forskrift/2026-04-28-736) (i kraft 1 mai 2026).
 
 ## Kapittel II. Utfyllende nasjonale bestemmelser om myndigheter
 
