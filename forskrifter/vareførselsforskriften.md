@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-03-23"
 last_updated: "2024-07-30"
-xml_hash: "38d18136221ed3626c653a1228f54fc43fb9bade3d12519b3cf4a328db447fbc"
+xml_hash: "ee1e529988993c32f48a3e9dffb22c4d9b1439d114bb79e3f1dc116b61bc3edb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2174,6 +2174,8 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 
 (3) Omfatter én og samme overtredelse flere varetyper som nevnt i første ledd, legges bøtebeløpene sammen til en felles bot. Forenklet forelegg kan ikke utferdiges dersom bøtebeløpene til sammen overstiger 20 000 norske kroner.
 
+> **Endres** ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
+
 ### § 12-11-2. Inndragning
 
 (1) Forelegget skal omfatte inndragning av de varer som er innført eller forsøkt innført ulovlig.
@@ -2183,6 +2185,8 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 ### § 12-11-3. Subsidiær fengselsstraff
 
 Forelegget skal omfatte subsidiær fengselsstraff. Den subsidiære fengselsstraffen fastsettes på følgende måte:ved bot til og med 400 kr: 1 dags fengselved bot til og med 1 500 kr: 2 dager fengselved bot til og med 3 000 kr: 3 dager fengselved bot til og med 8 000 kr: 4 dager fengselved bot til og med 14 000 kr: 6 dager fengselved bot til og med 20 000 kr: 9 dager fengsel.
+
+> **Endres** ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
 
 ### § 12-11-4. Utferdigelse av forelegg
 
