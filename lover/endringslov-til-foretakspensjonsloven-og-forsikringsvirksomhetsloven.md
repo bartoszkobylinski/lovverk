@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "329ecd85602392f3717c1bb0ddd4028a86fff6a5562cca3168f902c443eb8c19"
+xml_hash: "bcae2341d2c8c2d3f3600deafdccb9a6afe1d00638029c758f18e9f7c732a27f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -35,9 +35,9 @@ Midlene knyttet til fripolisen skal på uttakstidspunktet fortsatt forvaltes som
 
 ## II
 
-Eiendeler som motsvarer betinget egenkapitalbidrag etter § 3-19 a for å dekke årlig krav til tilførsel til premiereserven, kan inngå i selskapsporteføljen.
+Eiendeler som motsvarer betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a) for å dekke årlig krav til tilførsel til premiereserven, kan inngå i selskapsporteføljen.
 
-Avkastning tilordnet en kontrakt skal etter fradrag for tilordning i samsvar med beregningsgrunnlaget for kontrakten, reduksjon av betinget egenkapitalbidrag etter § 3-19 a og i tilfelle avsetning til bufferfond etter [§ 3-19](lov/2005-06-10-44/§3-19), tilordnes kontrakten som overskudd på avkastningsresultatet.
+Avkastning tilordnet en kontrakt skal etter fradrag for tilordning i samsvar med beregningsgrunnlaget for kontrakten, reduksjon av betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a) og i tilfelle avsetning til bufferfond etter [§ 3-19](lov/2005-06-10-44/§3-19), tilordnes kontrakten som overskudd på avkastningsresultatet.
 
 For kontrakter etter [§ 3-16](lov/2005-06-10-44/§3-16) skal gjenværende bufferfond ved rettighetshavers død, når det ikke er etterlatte med krav på etterlattepensjon knyttet til kontrakten, fordeles til bufferfond tilordnet de øvrige kontraktene etter [§ 3-16](lov/2005-06-10-44/§3-16). Beløpet fordeles i henhold til beregningsgrunnlaget som følge av at foretakets forpliktelse overfor forsikrede som er død i løpet av året, er bortfalt, jf. [§ 3-9 tredje ledd](lov/2005-06-10-44/§3-9/ledd/3).
 
@@ -47,9 +47,9 @@ For kontrakter som har fått tilført betinget egenkapitalbidrag, skal foretaket
 
 Ved gjenkjøp eller opphør av kontrakten skal egenkapitalbidraget anses som tilført med endelig virkning.
 
-Retten til opptjent pensjon og pensjonsytelser etter bestemmelsen her kan sikres ved betinget egenkapitalbidrag etter § 3-19 a.
+Retten til opptjent pensjon og pensjonsytelser etter bestemmelsen her kan sikres ved betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a).
 
-Betingede egenkapitalbidrag i samsvar med § 3-19 a omfattes ikke.
+Betingede egenkapitalbidrag i samsvar med [§ 3-19 a](lov/2005-06-10-44/§3-19a) omfattes ikke.
 
 Markedsverdien av midlene ved utløpet av oppsigelsesfristen skal legges til grunn ved verdiberegningen.
 
