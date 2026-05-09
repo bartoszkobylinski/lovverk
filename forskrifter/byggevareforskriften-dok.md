@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2014-01-01"
-last_change_in_force: "2026-03-24"
+last_change_in_force: "2026-05-06"
 last_updated: "2022-04-06"
-xml_hash: "402f7ba8dccc4a941ed5e2a1a240dcb4b762411afa8bfca505af57db595df17c"
+xml_hash: "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -236,7 +236,7 @@ Fra samme tidspunkt gjøres følgende endring i [forskrift 26. mars 2010 nr. 488
 
 ## Vedlegg II. Liste over publiserte harmoniserte standarder og europeiske tekniske bedømmelsesdokumenter
 
-> Tilføyd ved forskrift [8 feb 2021 nr. 348](forskrift/2021-02-08-348), endret ved forskrifter [26 april 2021 nr. 1274](forskrift/2021-04-26-1274), [14 des 2021 nr. 3536](forskrift/2021-12-14-3536), [2 mai 2022 nr. 787](forskrift/2022-05-02-787), [16 des 2022 nr. 2283](forskrift/2022-12-16-2283), [21 juni 2023 nr. 1006](forskrift/2023-06-21-1006), [30 okt 2023 nr. 1733](forskrift/2023-10-30-1733), [18 juni 2024 nr. 1049](forskrift/2024-06-18-1049), [10 des 2024 nr. 3067](forskrift/2024-12-10-3067), [22 sep 2025 nr. 1901](forskrift/2025-09-22-1901), [8 des 2025 nr. 2452](forskrift/2025-12-08-2452), [24 mars 2026 nr. 467](forskrift/2026-03-24-467).
+> Tilføyd ved forskrift [8 feb 2021 nr. 348](forskrift/2021-02-08-348), endret ved forskrifter [26 april 2021 nr. 1274](forskrift/2021-04-26-1274), [14 des 2021 nr. 3536](forskrift/2021-12-14-3536), [2 mai 2022 nr. 787](forskrift/2022-05-02-787), [16 des 2022 nr. 2283](forskrift/2022-12-16-2283), [21 juni 2023 nr. 1006](forskrift/2023-06-21-1006), [30 okt 2023 nr. 1733](forskrift/2023-10-30-1733), [18 juni 2024 nr. 1049](forskrift/2024-06-18-1049), [10 des 2024 nr. 3067](forskrift/2024-12-10-3067), [22 sep 2025 nr. 1901](forskrift/2025-09-22-1901), [8 des 2025 nr. 2452](forskrift/2025-12-08-2452), [24 mars 2026 nr. 467](forskrift/2026-03-24-467), [6 mai 2026 nr. 750](forskrift/2026-05-06-750).
 
 ## Forordninger
 
