@@ -4175,15 +4175,15 @@
         "32009L0138",
         "32003L0041"
       ],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "lover/foretakspensjonsloven-ftpensjl.md",
       "slug": "foretakspensjonsloven-ftpensjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om foretakspensjon (foretakspensjonsloven)",
-      "total_changes": 4,
-      "xml_hash": "beb5adaa4e32916180ac52c831e2ce44684f1bb5f280eaf38a02704c48732d2b"
+      "total_changes": 5,
+      "xml_hash": "e9c5eaa31dc73ba4043ccda8ab4aefbaea21825795741bf17e4c6c4ae8d80419"
     },
     "nl-20000512-036": {
       "doc_type": "lov",
@@ -5177,15 +5177,15 @@
         "32016L2341",
         "32003L0041"
       ],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "lover/forsikringsvirksomhetsloven-forsvl.md",
       "slug": "forsikringsvirksomhetsloven-forsvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)",
-      "total_changes": 4,
-      "xml_hash": "38aa3a895d6abc859369650e6bf5c153459a97aaa38dd861d829a697d0e5bd62"
+      "total_changes": 5,
+      "xml_hash": "f78ac4fc4dc9f3249fdc1ef7c52d9327ee24310553cdaf22270abb047dc61b83"
     },
     "nl-20050610-051": {
       "doc_type": "lov",
@@ -10019,15 +10019,15 @@
     "nl-20260507-016": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "lover/endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven.md",
       "slug": "endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)",
-      "total_changes": 1,
-      "xml_hash": "329ecd85602392f3717c1bb0ddd4028a86fff6a5562cca3168f902c443eb8c19"
+      "total_changes": 2,
+      "xml_hash": "bcae2341d2c8c2d3f3600deafdccb9a6afe1d00638029c758f18e9f7c732a27f"
     },
     "nl-20260507-017": {
       "doc_type": "lov",
@@ -22356,15 +22356,15 @@
     "sf-20040128-0221": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-gebyr-i-matforvaltningen.md",
       "slug": "forskrift-om-gebyr-i-matforvaltningen",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gebyr i matforvaltningen",
-      "total_changes": null,
-      "xml_hash": "f78967b6bd99cc68bf1553e88f20efcafb49dc9e46f98020a89c298661459842"
+      "total_changes": 4,
+      "xml_hash": "d7bc5f262be2b0a4d1756ecd8d4afffe3ec5abc6e7daaf2ebf561c211b3fb441"
     },
     "sf-20040128-0424": {
       "doc_type": "forskrift",
@@ -22447,15 +22447,15 @@
     "sf-20040213-0406": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-gebyrer-til-mattilsynet.md",
       "slug": "forskrift-om-gebyrer-til-mattilsynet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om betaling av gebyrer for særskilte ytelser fra Mattilsynet",
-      "total_changes": null,
-      "xml_hash": "ea452a37626e1557ee2e8e6917c38a4290a7d1d021d3b0416d3ab9019025bf08"
+      "total_changes": 4,
+      "xml_hash": "0daf0ed23563232663cee7da313f5ee5936485778a1c7c9de0f1885119db6f36"
     },
     "sf-20040216-0426": {
       "doc_type": "forskrift",
@@ -24267,15 +24267,15 @@
     "sf-20051227-1726": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-kjøttkontrollgebyr.md",
       "slug": "forskrift-om-kjøttkontrollgebyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gebyr til dekning av utgifter ved kjøttkontroll",
-      "total_changes": null,
-      "xml_hash": "b705149f181d28e1528a4f20be43e5a9b6dfcd7bd7cb6d20bb1fa4245e47b5a7"
+      "total_changes": 4,
+      "xml_hash": "2982048463520c2d519b639da5e9118b803712aa55cd508ab77804177661df83"
     },
     "sf-20051228-1706": {
       "doc_type": "forskrift",
@@ -25528,15 +25528,15 @@
     "sf-20070628-0814": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/blåreseptforskriften.md",
       "slug": "blåreseptforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
-      "total_changes": 4,
-      "xml_hash": "75bda4c0845899010e78c8c6df8322c8e044d1d939ea37700eda2bb98116dd5c"
+      "total_changes": 5,
+      "xml_hash": "9ee4324af0f5b28a4c0d3d462328d876c01930dd2b01803997018021a413ecbc"
     },
     "sf-20070629-0742": {
       "doc_type": "forskrift",
@@ -27049,15 +27049,15 @@
     "sf-20081222-1624": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/animaliehygieneforskriften.md",
       "slug": "animaliehygieneforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)",
-      "total_changes": null,
-      "xml_hash": "9a712bcf8624648cca209f4d615ea72ad25d17303cef498cb4f697c82163e56b"
+      "total_changes": 4,
+      "xml_hash": "287bda441e6c365fe8ea2288681359b09eaca823ce1116c1edc490290a7fe902"
     },
     "sf-20081231-1587": {
       "doc_type": "forskrift",
@@ -28323,15 +28323,15 @@
     "sf-20100226-0247": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-vitamintilsetning-mv-til-næringsmidler.md",
       "slug": "forskrift-om-vitamintilsetning-mv-til-næringsmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler",
-      "total_changes": null,
-      "xml_hash": "adc337c52ca7eadd4c46347035d51e2d29875af33418a64e4bee3078a3ae6aee"
+      "total_changes": 4,
+      "xml_hash": "b6afa2d86439b6b29ac57d03d7d248b9b5634ebe2d0a5f33e524af787789beb5"
     },
     "sf-20100226-0252": {
       "doc_type": "forskrift",
@@ -28349,15 +28349,15 @@
     "sf-20100303-0307": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll.md",
       "slug": "forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om betaling av gebyr for veterinær grensekontroll",
-      "total_changes": null,
-      "xml_hash": "fde1136a8c3b9d22a6791a5ac75fe9ac179a3572bd5ff3052bb10b947a534151"
+      "total_changes": 4,
+      "xml_hash": "1879de8e10267d09a74b7260986bafce689536fdab9f63790745e137c52b9019"
     },
     "sf-20100312-0390": {
       "doc_type": "forskrift",
@@ -29649,15 +29649,15 @@
     "sf-20110606-0668": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-tilsetningsstoffer-til-næringsmidler.md",
       "slug": "forskrift-om-tilsetningsstoffer-til-næringsmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetningsstoffer til næringsmidler",
-      "total_changes": null,
-      "xml_hash": "1a5d13485f5038b5d062ac68240a8094b4d2bf7321e0ac398e2c9e755c31df81"
+      "total_changes": 4,
+      "xml_hash": "d2b72c689f39deab2bda93bd75805e5ab0cf9eb00429b260af34f6215a8000fc"
     },
     "sf-20110606-0669": {
       "doc_type": "forskrift",
@@ -30403,15 +30403,15 @@
     "sf-20120112-0035": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-tiltak-ved-risimport-fra-kina.md",
       "slug": "forskrift-om-tiltak-ved-risimport-fra-kina",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om særskilte beskyttelsestiltak ved import av ris og risprodukter fra Kina",
-      "total_changes": null,
-      "xml_hash": "93433cb35f6316544128039c5327351ff1611baeb2291664bfd3a493d2a66142"
+      "total_changes": 4,
+      "xml_hash": "45e298f98a423cf0061dca98374c7d06b3138770691d5edce5ddc12ab2d6845d"
     },
     "sf-20120116-0054": {
       "doc_type": "forskrift",
@@ -32249,15 +32249,15 @@
     "sf-20131217-1579": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/byggevareforskriften-dok.md",
       "slug": "byggevareforskriften-dok",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om omsetning og dokumentasjon av produkter til byggverk",
-      "total_changes": null,
-      "xml_hash": "402f7ba8dccc4a941ed5e2a1a240dcb4b762411afa8bfca505af57db595df17c"
+      "total_changes": 4,
+      "xml_hash": "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
     },
     "sf-20131217-1592": {
       "doc_type": "forskrift",
@@ -36734,15 +36734,15 @@
     "sf-20170403-0426": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv.md",
       "slug": "forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg",
-      "total_changes": null,
-      "xml_hash": "9fae62ade7416b9ac4f792c8aa99b67f6302da6856b9c9fef83840117b7b9f3c"
+      "total_changes": 4,
+      "xml_hash": "d04decb2cf49ed2291a17a80dd6d686cb6d3e9eaddb9906079aaa931b818abad"
     },
     "sf-20170404-0427": {
       "doc_type": "forskrift",
@@ -40959,28 +40959,28 @@
     "sf-20200309-0717": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter.md",
       "slug": "forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlig kontroll – importkontroll av ikke animalske produkter – forordning (EU) 2019/1793",
-      "total_changes": null,
-      "xml_hash": "3e77d9a2c8f9536f8045cdb7b8d1a0f918ad7ee2305a7e1e195d1d9ffb24799b"
+      "total_changes": 4,
+      "xml_hash": "30225f2ae73efa0969792e7267dea39ba93439424e6b943b21c0d3234d99c38d"
     },
     "sf-20200309-0720": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627.md",
       "slug": "forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlig kontroll – animalsk produksjon, forordning (EU) 2019/624 og forordning (EU) 2019/627",
-      "total_changes": null,
-      "xml_hash": "c256cc3807e50f325b7143b4d474ee36c5f8adbf8768c49c5249da7ceca12ceb"
+      "total_changes": 4,
+      "xml_hash": "7bff5a9dbb72c8257e4d6289e37a10ecba766d6ad9eb15cecf464f90af442eeb"
     },
     "sf-20200319-0351": {
       "doc_type": "forskrift",
@@ -41583,15 +41583,15 @@
     "sf-20200824-1675": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/tsjernobylforskriften.md",
       "slug": "tsjernobylforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om særlige importbetingelser for næringsmidler og fôrvarer som følge av ulykken ved atomkraftverket i Tsjernobyl",
-      "total_changes": null,
-      "xml_hash": "9a7e6a983c7c28b95c4f76adb380ff0a9f107b01cac29415b63302557cc4679c"
+      "total_changes": 4,
+      "xml_hash": "7b516c47ed608fbf8462c8f840ff2fc4fd3263f4e0651ce04e128e94c52c8cb7"
     },
     "sf-20200915-1794": {
       "doc_type": "forskrift",
@@ -45548,15 +45548,15 @@
     "sf-20220611-1171": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-07",
-      "last_seen": "2026-05-07T06:32:55.817317Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/økologiforskriften.md",
       "slug": "økologiforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)",
-      "total_changes": 4,
-      "xml_hash": "bc851855252528d0420626a0832f77da6063a6a06611851bd664d4407114f29b"
+      "total_changes": 5,
+      "xml_hash": "b3df8494d48cf080bde4c5349124c8533325fb55f3c07fa88e14018e5d6a14bd"
     },
     "sf-20220613-1005": {
       "doc_type": "forskrift",
@@ -46016,15 +46016,15 @@
     "sf-20220907-1558": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr.md",
       "slug": "forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlig kontroll – opprettelse av den europeiske unions referanselaboratorier for mat, fôr og levende dyr",
-      "total_changes": null,
-      "xml_hash": "143305aa109a50f69f015e0e5a07b7a6c1d11c12dcebb8d1e4cba3b20eb07f4c"
+      "total_changes": 4,
+      "xml_hash": "2219044ad6fdf2e1b4bc6f7a30d852246df8faed4a4d80b0433b22fccc36f9de"
     },
     "sf-20220908-1573": {
       "doc_type": "forskrift",
@@ -46224,15 +46224,15 @@
     "sf-20221027-1901": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
       "markdown_path": "forskrifter/vareførselsforskriften.md",
       "slug": "vareførselsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om inn- og utførsel av varer (vareførselsforskriften)",
-      "total_changes": null,
-      "xml_hash": "38d18136221ed3626c653a1228f54fc43fb9bade3d12519b3cf4a328db447fbc"
+      "total_changes": 4,
+      "xml_hash": "ee1e529988993c32f48a3e9dffb22c4d9b1439d114bb79e3f1dc116b61bc3edb"
     },
     "sf-20221027-1938": {
       "doc_type": "forskrift",
@@ -54372,6 +54372,19 @@
       "total_changes": null,
       "xml_hash": "b32cb97c0917233fb616c64e25cf1c3562c4946a38fa22d462a436665022cb7d"
     },
+    "sf-20260427-0745": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
+      "markdown_path": "forskrifter/forskrift-om-gebyr-til-mattilsynet.md",
+      "slug": "forskrift-om-gebyr-til-mattilsynet",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om gebyr til Mattilsynet",
+      "total_changes": 1,
+      "xml_hash": "38d8ae87940eb5edf9b847647770a040d779f085f0cf6e0a741aa936e2ceb924"
+    },
     "sf-20260428-0690": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54410,6 +54423,19 @@
       "title": "Forskrift om tilskudd til investeringer i setrer med melkeproduksjon",
       "total_changes": 1,
       "xml_hash": "a726bc4dd7aee80c81a048f690cae949722895c1a6a1a7e12b4270d525dd8f9e"
+    },
+    "sf-20260429-0746": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
+      "markdown_path": "forskrifter/endr-i-blåreseptforskriften.md",
+      "slug": "endr-i-blåreseptforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
+      "total_changes": 5,
+      "xml_hash": "3797ad3909656703935b04f7e2d607b689b9f155e02bdcdc56f87cc41556ebf1"
     },
     "sf-20260504-0697": {
       "doc_type": "forskrift",
@@ -54462,8 +54488,21 @@
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy",
       "total_changes": 1,
       "xml_hash": "f5fd6f6b9164dac29e7fe50fd14b6f2795e8d33ab906fc8bd44cb09ca73c4980"
+    },
+    "sf-20260505-0749": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-09",
+      "last_seen": "2026-05-09T06:13:15.984558Z",
+      "markdown_path": "forskrifter/endr-i-vareførselsforskriften-6.md",
+      "slug": "endr-i-vareførselsforskriften-6",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)",
+      "total_changes": 5,
+      "xml_hash": "dd949985a320ab5b1e72d424f22c72372b0ac28a27c8d4f3bf879e0ddd4eba5a"
     }
   },
-  "generated_at": "2026-05-08T05:54:50.775222Z",
+  "generated_at": "2026-05-09T06:13:15.984558Z",
   "version": 1
 }

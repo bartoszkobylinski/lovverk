@@ -2,6 +2,16 @@
   "doc_id": "nl-20260507-016",
   "events": [
     {
+      "commit": "3d688ac",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "aafde48",
       "date": "2026-05-08",
       "from_path": null,

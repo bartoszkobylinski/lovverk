@@ -1,6 +1,36 @@
 {
-  "doc_id": "sf-20250402-0577",
+  "doc_id": "sf-20260429-0746",
   "events": [
+    {
+      "commit": "ac8ef91",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 29,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-blåreseptforskriften",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 39,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

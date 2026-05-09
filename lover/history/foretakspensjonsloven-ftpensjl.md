@@ -1,6 +1,11 @@
 # foretakspensjonsloven-ftpensjl — Change history
 
-_4 events; doc_id `nl-20000324-016`._
+_5 events; doc_id `nl-20000324-016`._
+
+## 2026-05-09 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): foretakspensjonsloven-ftpensjl`
+Commit: `3ff65e8`.
 
 ## 2026-05-08 — Content updated
 Lines: +4 -4.

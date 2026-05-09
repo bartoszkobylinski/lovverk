@@ -2,6 +2,16 @@
   "doc_id": "nl-20050610-044",
   "events": [
     {
+      "commit": "2b97372",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 11,
+      "subject": "update(lov): forsikringsvirksomhetsloven-forsvl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "682dc4c",
       "date": "2026-05-08",
       "from_path": null,

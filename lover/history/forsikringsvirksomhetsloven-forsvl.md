@@ -1,6 +1,11 @@
 # forsikringsvirksomhetsloven-forsvl — Change history
 
-_4 events; doc_id `nl-20050610-044`._
+_5 events; doc_id `nl-20050610-044`._
+
+## 2026-05-09 — Content updated
+Lines: +11 -11.
+Subject: `update(lov): forsikringsvirksomhetsloven-forsvl`
+Commit: `2b97372`.
 
 ## 2026-05-08 — Content updated
 Lines: +14 -10.

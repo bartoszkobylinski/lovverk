@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3417 current documents_
+_3420 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -115,6 +115,7 @@ _3417 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
 - [endr-i-anskaffelsesforskriften-mfl](endr-i-anskaffelsesforskriften-mfl.md) — Forskrift om endring i forskrifter til anskaffelsesloven
+- [endr-i-blåreseptforskriften](endr-i-blåreseptforskriften.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-eksplosivforskriften](endr-i-eksplosivforskriften.md) — Forskrift om endring i forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-fagskoleforskriften](endr-i-fagskoleforskriften.md) — Forskrift om endring i forskrift om høyere yrkesfaglig utdanning
@@ -149,6 +150,7 @@ _3417 current documents_
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-4](endr-i-vareførselsforskriften-4.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-5](endr-i-vareførselsforskriften-5.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-vareførselsforskriften-6](endr-i-vareførselsforskriften-6.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-yrkestransportforskriften-overgangsbestemmelser](endr-i-yrkestransportforskriften-overgangsbestemmelser.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-økodesignforskriften](endr-i-økodesignforskriften.md) — Forskrift om endring i forskrift om miljøvennlig utforming av energirelaterte produkter
@@ -1004,6 +1006,7 @@ _3417 current documents_
 - [forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet](forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet.md) — Forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet
 - [forskrift-om-gebyr-til-brønnøysundregistrene](forskrift-om-gebyr-til-brønnøysundregistrene.md) — Forskrift om gebyr til Brønnøysundregistrene
 - [forskrift-om-gebyr-til-luftfartstilsynet-mv](forskrift-om-gebyr-til-luftfartstilsynet-mv.md) — Forskrift om gebyr til Luftfartstilsynet mv.
+- [forskrift-om-gebyr-til-mattilsynet](forskrift-om-gebyr-til-mattilsynet.md) — Forskrift om gebyr til Mattilsynet
 - [forskrift-om-gebyr-ved-behandling-av-søknad-om-autorisasjon-lisens-spesialistgodkjenning-og-godkjenning-av-etterutdanning-for-spesialister](forskrift-om-gebyr-ved-behandling-av-søknad-om-autorisasjon-lisens-spesialistgodkjenning-og-godkjenning-av-etterutdanning-for-spesialister.md) — Forskrift om gebyr ved behandling av søknad om autorisasjon, lisens, spesialistgodkjenning og godkjenning av etterutdanning for spesialister
 - [forskrift-om-gebyr-ved-norges-utenriksstasjoner](forskrift-om-gebyr-ved-norges-utenriksstasjoner.md) — Forskrift om gebyr ved Norges utenriksstasjoner
 - [forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv](forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv.md) — Forskrift om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg

@@ -2,6 +2,16 @@
   "doc_id": "nl-20000324-016",
   "events": [
     {
+      "commit": "3ff65e8",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): foretakspensjonsloven-ftpensjl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c017397",
       "date": "2026-05-08",
       "from_path": null,

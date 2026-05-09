@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260427-0745",
+  "events": [
+    {
+      "commit": "98b05fa",
+      "date": "2026-05-09",
+      "from_path": null,
+      "lines_added": 319,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-gebyr-til-mattilsynet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-gebyr-til-mattilsynet"
+}
