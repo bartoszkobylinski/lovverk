@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2022-06-25"
 last_change_in_force: "2026-05-04"
 last_updated: null
-xml_hash: "bc851855252528d0420626a0832f77da6063a6a06611851bd664d4407114f29b"
+xml_hash: "b3df8494d48cf080bde4c5349124c8533325fb55f3c07fa88e14018e5d6a14bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-07T06:32:55.817317+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -161,19 +161,21 @@ Virksomheter som har fått utstedt et økologisertifikat og dermed er omfattet a
 
 Virksomheter som er unntatt fra plikten til å inneha et økologisertifikat, jf. [§ 6](forskrift/2022-06-11-1171/§6), plikter ikke å betale gebyrer.
 
+> **Endres** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+
 ## § 21. Årlig gebyr for virksomheter som driver med akvakulturproduksjon
 
 Virksomheter som driver med primærproduksjon av akvakulturprodukter betaler et grunngebyr på kr 3 850 per år. I tillegg betaler de følgende gebyrer:kr 1 270 per time for gjennomføring av inspeksjonkr 1 270 per time for saksbehandlinganalysegebyr til selvkost for analyser av produkter eller i produksjonengebyr tilsvarende statens satser for utgifter til reise, diett og overnatting i forbindelse med inspeksjon.
 
 Virksomheter som driver med både primærproduksjon og foredling av akvakulturprodukter skal kun betale gebyrer etter denne paragrafen.
 
-> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 22. Årlig gebyr for virksomheter som driver med primærproduksjon av landbruksprodukter
 
 Virksomheter som driver med primærproduksjon av landbruksprodukter betaler et grunngebyr på kr 2 195 per år. I tillegg betaler de følgende gebyrer:kr 910 per år om virksomheten har husdyr eller driver parallellproduksjonkr 9,40 per dekar karensareal eller økologisk areal per årkr 985 ved utmelding av kontrollforordningen etter inspeksjonsbesøket. Gebyr etter a) eller b) betales ikke i slike tilfeller.
 
-> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 23. Årlig gebyr for virksomheter som driver med annet enn primærproduksjon
 
@@ -181,7 +183,7 @@ Virksomheter som driver med produksjon, omsetning, eksport eller import av næri
 
 Virksomheter som kun driver med foredling og ikke primærproduksjon av akvakulturprodukter betaler gebyr etter denne paragrafen.
 
-> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 24. Halvt gebyr, tilleggsgebyr, rente ved forsinket betaling m.m.
 
@@ -191,7 +193,7 @@ Virksomhetene som driver primærproduksjon, jf. [§ 21](forskrift/2022-06-11-117
 
 For gebyr som ikke betales i rett tid betales rente i samsvar med [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m](lov/1976-12-17-100). Det kan også pålegges purregebyr. Gebyr er tvangsgrunnlag for utlegg.
 
-> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+> Endret ved forskrifter [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 25. Tilsyn og vedtak
 
