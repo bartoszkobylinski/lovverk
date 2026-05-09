@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-09-07"
-last_change_in_force: "2023-06-08"
+last_change_in_force: "2026-05-07"
 last_updated: null
-xml_hash: "143305aa109a50f69f015e0e5a07b7a6c1d11c12dcebb8d1e4cba3b20eb07f4c"
+xml_hash: "2219044ad6fdf2e1b4bc6f7a30d852246df8faed4a4d80b0433b22fccc36f9de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,19 @@ eu_basis: []
 
 Kommisjonen utpeker EU-referanselaboratorier ved hjelp av gjennomføringsrettsakter i henhold til [forskrift 3. mars 2020 nr. 704 om offentlig kontroll for å sikre etterlevelse av regelverket for mat, fôr, plantevernmidler, dyrehelse og dyrevelferd](forskrift/2020-03-03-704) (kontrollforskriften), artikkel 93. Kommisjonen offentliggjør og ajourfører listen over EU-referanselaboratoriene (forordning [(EU) nr. 2017/625](eu/32017r0625), artikkel 94). I denne forskriften gjennomføres EUs rettsakter om opprettelse av referanselaboratorier i norsk rett.
 
-## § 2. EU-referanselaboratorier
+## § 2. Opprettelse og utpeking av EUs referanselaboratorium for Rift Valley Fever
 
-[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 3.1 nr. 51 (Kommisjonsforordning (EU) [EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 3.1 nr. 51 (Kommisjonsforordning [(EU) 2021/2156](eu/32021r2156) av 17. september 2021) og del 3.2 nr. 52 (Kommisjonens gjennomføringsforordning [(EU) 2022/2304](eu/32022r2304) av 24. november 2022) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) ved å opprette og utpeke den europeiske unions referanselaboratorium for Rift Valley Fever gjelder som forskrift med tilpasninger som følger av vedlegg I kapittel I del 3.1 nr. 51 og del 3.2. nr. 52 og protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2021/2156](eu/32021r2156) om opprettelse av EUs referanselaboratorium for Rift Valley Fever, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 3.1 nr. 51, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [3 okt 2022 nr. 1702](forskrift/2022-10-03-1702), [8 juni 2023 nr. 840](forskrift/2023-06-08-840).
+Forordning [(EU) 2022/2304](eu/32022r2304) om utpeking av EUs referanselaboratorium for Rift Valley Fever, som inntatt i [EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 3.2. nr. 52, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrifter [3 okt 2022 nr. 1702](forskrift/2022-10-03-1702), [8 juni 2023 nr. 840](forskrift/2023-06-08-840), [7 mai 2026 nr. 751](forskrift/2026-05-07-751).
+
+## § 2a. Opprettelse og utpeking av EUs referanselaboratorium for næringsmiddelforbedringsmidler
+
+Forordning [(EU) 2024/1004](eu/32024r1004) om opprettelse av EUs referanselaboratorium for næringsmiddelforbedringsmidler, som inntatt i [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164zj, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [7 mai 2026 nr. 751](forskrift/2026-05-07-751).
 
 ## § 3. Ikrafttredelse
 
@@ -106,3 +114,32 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 Utferdiget i Brussel 24. november 2022.
 
 *For Kommisjonen*Ursula von der Leyen*President*
+
+### Forordning [(EU) 2024/1004](eu/32024r1004)
+
+> Tilføyd ved forskrift [7 mai 2026 nr. 751](forskrift/2026-05-07-751).
+
+Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) 2024/1004](eu/32024r1004).
+
+### DELEGERT KOMMISJONSFORORDNING (EU) 2024/1004
+av 22. januar 2024
+om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) ved å opprette Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler
+
+1. Med næringsmiddelforbedringsmidler menes tilsetningsstoffer, enzymer og aromaer i næringsmidler, som er stoffer som med hensikt tilsettes i næringsmidler med et teknologisk eller organoleptisk formål. Bruk av næringsmiddelforbedringsmidler er underlagt en felles framgangsmåte for godkjenning i Unionen, fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1331/2008](eu/32008r1331)2.
+2. I henhold til forordning [(EU) 2017/625](eu/32017r0625) skal det gjennomføres offentlig kontroll for å verifisere at reglene overholdes på området næringsmidler og næringsmiddeltrygghet.
+3. Kommisjonsrekommandasjon [(EU) 2023/965](eu/32023h0965)3 inneholder krav til overvåking av inntak av tilsetningsstoffer og aromaer i næringsmidler som er godkjent i henhold til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333)4 og [(EF) nr. 1334/2008](eu/32008r1334)5, nærmere bestemt om innsamling av data om forekomst og innhold av tilsetningsstoffer og aromaer i næringsmidler.
+4. I henhold til artikkel 92 i forordning [(EU) 2017/625](eu/32017r0625) skal det opprettes et EU-referanselaboratorium når det er et erkjent behov for å fremme en ensartet praksis i forbindelse med utvikling eller bruk av de analyse-, undersøkelses- eller diagnostiseringsmetodene som brukes av de offisielle laboratoriene utpekt i samsvar med artikkel 37 nr. 1 i den nevnte forordningen. Dette er tilfellet dersom virkningen av offentlig kontroll avhenger av kvaliteten, ensartetheten og påliteligheten ved disse metodene og resultatene.
+5. Det er nødvendig å opprette et referanselaboratorium for næringsmiddelforbedringsmidler for å kunne gjennomføre effektiv offentlig kontroll i Unionen. Opprettelsen av et referanselaboratorium er særlig nødvendig for å sikre et visst harmoniseringsnivå med hensyn til prøvetakingskriterier og analysemetoder som brukes til innsamling av data om tilsetningsstoffer og aromaer i næringsmidler, og for å støtte offisielle laboratorier på området næringsmiddelenzymer.
+6. Det bør derfor ved denne forordningen opprettes et EU-referanselaboratorium for næringsmiddelforbedringsmidler.
+
+### Artikkel 1
+
+Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler opprettes herved.
+
+### Artikkel 2
+
+Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 22. januar 2024.
