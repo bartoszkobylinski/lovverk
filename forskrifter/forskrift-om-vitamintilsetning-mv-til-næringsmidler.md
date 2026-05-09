@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-03-01"
 last_change_in_force: "2026-03-23"
 last_updated: "2022-01-06"
-xml_hash: "adc337c52ca7eadd4c46347035d51e2d29875af33418a64e4bee3078a3ae6aee"
+xml_hash: "b6afa2d86439b6b29ac57d03d7d248b9b5634ebe2d0a5f33e524af787789beb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -188,7 +188,7 @@ Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av 
 
 Virksomhetene skal betale gebyr etter [forskrift 13. februar 2004 nr. 406](forskrift/2004-02-13-406) om betaling av gebyrer for særskilte ytelser fra Mattilsynet, for Mattilsynets behandling av:meldinger etter [§ 4](forskrift/2010-02-26-247/§4) om tilsetning av vitaminer eller mineraler til næringsmidler, unntatt kosttilskudd ogmeldinger etter [§ 9](forskrift/2010-02-26-247/§9) og søknader etter [§ 10](forskrift/2010-02-26-247/§10) om tillatelse til tilsetning av «andre stoffer» til næringsmidler, herunder kosttilskudd.
 
-> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020).
+> Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020). **Endres** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ### § 16. Mattilsynets fastsettelse av forskrifter om endringer i vedleggene 1–5
 
