@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2012-01-12"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-01-06"
-xml_hash: "93433cb35f6316544128039c5327351ff1611baeb2291664bfd3a493d2a66142"
+xml_hash: "45e298f98a423cf0061dca98374c7d06b3138770691d5edce5ddc12ab2d6845d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -104,11 +104,13 @@ Driftsansvarlig for fôr- eller næringsmiddelforetaket eller dennes representan
 
 Betalingen skal foretas før fortolling, transittering eller innlegging på tollager eller som følge av vedtak om avvisning eller destruksjon. Alternativt kan driftsansvarlig for fôr- eller næringsmiddelforetaket eller dennes representant stille sikkerhet for betaling av gebyret.
 
+> **Endres** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+
 ## § 11. Gebyrets størrelse
 
 For import av forsendelser av fôrvarer og næringsmidler omfattet av [§ 2](forskrift/2012-01-12-35/§2), skal det betales:kr 1 850 per forsendelse for dokumentkontroll,kr 925,00 per time eller kr 462,50 per påbegynt halvtime når det gjennomføres identitetskontroll og fysisk kontroll av forsendelsen, ogkostnadene for analyseprøvene for forsendelsen.
 
-> Endret ved [forskrifter 18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020), [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 12. Tilsyn og vedtak
 
