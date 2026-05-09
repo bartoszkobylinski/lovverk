@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2010-03-01"
 last_change_in_force: "2026-01-14"
 last_updated: "2024-07-11"
-xml_hash: "9a712bcf8624648cca209f4d615ea72ad25d17303cef498cb4f697c82163e56b"
+xml_hash: "287bda441e6c365fe8ea2288681359b09eaca823ce1116c1edc490290a7fe902"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-09T06:13:15.984558+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -298,7 +298,7 @@ For gebyr som ikke betales i rett tid, skal det betales rente i samsvar med [lov
 
 Gebyret er tvangsgrunnlag for utlegg.
 
-> Tilføyd ved [forskrift 26 mars 2010 nr. 463](forskrift/2010-03-26-463), endret ved [forskrifter 17 des 2010 nr. 1852](forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [20 des 2017 nr. 2349](forskrift/2017-12-20-2349) (tidligere § 23a), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020).
+> Tilføyd ved [forskrift 26 mars 2010 nr. 463](forskrift/2010-03-26-463), endret ved [forskrifter 17 des 2010 nr. 1852](forskrift/2010-12-17-1852), [19 des 2011 nr. 1417](forskrift/2011-12-19-1417) (i kraft 1 jan 2012), [18 des 2012 nr. 1327](forskrift/2012-12-18-1327) (i kraft 1 jan 2013), [19 des 2013 nr. 1639](forskrift/2013-12-19-1639) (i kraft 1 jan 2014), [22 des 2014 nr. 1900](forskrift/2014-12-22-1900) (i kraft 1 jan 2015), [28 des 2015 nr. 1845](forskrift/2015-12-28-1845) (i kraft 1 jan 2016), [22 des 2016 nr. 1876](forskrift/2016-12-22-1876) (i kraft 1 jan 2017), [20 des 2017 nr. 2349](forskrift/2017-12-20-2349) (tidligere § 23a), [18 des 2017 nr. 2232](forskrift/2017-12-18-2232) (i kraft 1 jan 2018), [12 des 2018 nr. 2027](forskrift/2018-12-12-2027) (i kraft 1 jan 2019), [19 des 2019 nr. 2078](forskrift/2019-12-19-2078) (i kraft 1 jan 2020). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ### § 28. Dispensasjon
 
