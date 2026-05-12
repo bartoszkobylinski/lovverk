@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2013-12-01"
 last_change_in_force: "2022-12-05"
 last_updated: "2021-12-20"
-xml_hash: "c949c62f3ae084d6099dd6976700cee69c7d69594a6d522f270aa21c5c19db7b"
+xml_hash: "b8dd753470cb3c879e118acc1897e13668a19468da927a5c60d35c9cb0c67eff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-12T06:34:52.336636+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -348,7 +348,7 @@ Leketøy skal være i samsvar med alle relevante tiltak vedtatt i henhold til ka
 
 ### VII. Tillegg A – Liste over tillatt bruk av CMR-stoffer
 
-> Endret ved forskrift [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485).
+> Endret ved forskrift [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485). **Endres** ved forskrift [7 mai 2026 nr. 763](forskrift/2026-05-07-763) (i kraft 29 aug 2026).
 
 ### VIII. Tillegg B – Klassifisering av stoffer og stoffblandinger
 
