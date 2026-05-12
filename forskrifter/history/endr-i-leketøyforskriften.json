@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260507-0763",
+  "events": [
+    {
+      "commit": "998f2fb",
+      "date": "2026-05-12",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-leketøyforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-leketøyforskriften"
+}

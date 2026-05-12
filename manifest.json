@@ -23331,15 +23331,15 @@
     "sf-20050412-0319": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-12",
+      "last_seen": "2026-05-12T06:34:52.336636Z",
       "markdown_path": "forskrifter/forskrift-om-tilsetningsstoffer-i-forvarer.md",
       "slug": "forskrift-om-tilsetningsstoffer-i-forvarer",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetningsstoffer til bruk i fôrvarer",
-      "total_changes": null,
-      "xml_hash": "8f0f9829c9a0aa6727c084079e1cce8b6f3f92e1fbffc88d874bb63b30d143c1"
+      "total_changes": 4,
+      "xml_hash": "4310e340a6c089390f4641c754c70588067496731ce4a32451da71a6b6c4959a"
     },
     "sf-20050429-0418": {
       "doc_type": "forskrift",
@@ -32145,15 +32145,15 @@
     "sf-20131118-1403": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-12",
+      "last_seen": "2026-05-12T06:34:52.336636Z",
       "markdown_path": "forskrifter/leketøyforskriften.md",
       "slug": "leketøyforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om sikkerhet ved leketøy (leketøyforskriften)",
-      "total_changes": null,
-      "xml_hash": "c949c62f3ae084d6099dd6976700cee69c7d69594a6d522f270aa21c5c19db7b"
+      "total_changes": 4,
+      "xml_hash": "b8dd753470cb3c879e118acc1897e13668a19468da927a5c60d35c9cb0c67eff"
     },
     "sf-20131122-1404": {
       "doc_type": "forskrift",
@@ -54476,6 +54476,19 @@
       "total_changes": 1,
       "xml_hash": "a56e16492e1eda289ed75e4d83ba56e625ae4c2b93e906f910b94eed400eaf5a"
     },
+    "sf-20260504-0762": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-12",
+      "last_seen": "2026-05-12T06:34:52.336636Z",
+      "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026.md",
+      "slug": "forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om regulering av fisket etter kveite nord for 62° N i 2026",
+      "total_changes": 1,
+      "xml_hash": "230ae8604dac36d5207aa7c384593a782616d0373a2cd16da27ac98f66d3b865"
+    },
     "sf-20260505-0742": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54501,8 +54514,21 @@
       "title": "Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)",
       "total_changes": 5,
       "xml_hash": "dd949985a320ab5b1e72d424f22c72372b0ac28a27c8d4f3bf879e0ddd4eba5a"
+    },
+    "sf-20260507-0763": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-12",
+      "last_seen": "2026-05-12T06:34:52.336636Z",
+      "markdown_path": "forskrifter/endr-i-leketøyforskriften.md",
+      "slug": "endr-i-leketøyforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)",
+      "total_changes": 1,
+      "xml_hash": "5e9988c7c96027f497da347a25245e11edd9f2e53a1bf10ea540dd0ad3c30a67"
     }
   },
-  "generated_at": "2026-05-09T06:13:15.984558Z",
+  "generated_at": "2026-05-12T06:34:52.336636Z",
   "version": 1
 }

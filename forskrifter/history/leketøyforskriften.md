@@ -1,6 +1,16 @@
 # leketøyforskriften — Change history
 
-_2 events; doc_id `sf-20131118-1403`._
+_4 events; doc_id `sf-20131118-1403`._
+
+## 2026-05-12 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): leketøyforskriften`
+Commit: `41069c1`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20131118-1403.md` → `"forskrifter/leket\303\270yforskriften.md"`.

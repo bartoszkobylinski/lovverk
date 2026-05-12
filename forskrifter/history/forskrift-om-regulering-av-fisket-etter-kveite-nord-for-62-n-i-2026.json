@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260504-0762",
+  "events": [
+    {
+      "commit": "65952a7",
+      "date": "2026-05-12",
+      "from_path": null,
+      "lines_added": 65,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026"
+}

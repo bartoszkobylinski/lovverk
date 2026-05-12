@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3420 current documents_
+_3422 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -133,6 +133,7 @@ _3420 current documents_
 - [endr-i-førerkortforskriften-og-trafikkopplæringsforskriften](endr-i-førerkortforskriften-og-trafikkopplæringsforskriften.md) — Forskrift om endring i førerkortforskriften og trafikkopplæringsforskriften
 - [endr-i-kraftberedskapsforskriften](endr-i-kraftberedskapsforskriften.md) — Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
+- [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
 - [endr-i-næringsmiddelhygieneforskriften](endr-i-næringsmiddelhygieneforskriften.md) — Forskrift om endring i forskrift om næringsmiddelhygiene
 - [endr-i-opplæringsforskrifta](endr-i-opplæringsforskrifta.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa
@@ -2043,6 +2044,7 @@ _3420 current documents_
 - [forskrift-om-regulering-av-fisket-etter-hyse-i-fiskevernsonen-ved-svalbard-i-2026](forskrift-om-regulering-av-fisket-etter-hyse-i-fiskevernsonen-ved-svalbard-i-2026.md) — Forskrift om regulering av fisket etter hyse i fiskevernsonen ved Svalbard i 2026
 - [forskrift-om-regulering-av-fisket-etter-hyse-i-nordsjøen-og-skagerrak-i-2026](forskrift-om-regulering-av-fisket-etter-hyse-i-nordsjøen-og-skagerrak-i-2026.md) — Forskrift om regulering av fisket etter hyse i Nordsjøen og Skagerrak i 2026
 - [forskrift-om-regulering-av-fisket-etter-kolmule-i-2026](forskrift-om-regulering-av-fisket-etter-kolmule-i-2026.md) — Forskrift om regulering av fisket etter kolmule i 2026
+- [forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026](forskrift-om-regulering-av-fisket-etter-kveite-nord-for-62-n-i-2026.md) — Forskrift om regulering av fisket etter kveite nord for 62° N i 2026
 - [forskrift-om-regulering-av-fisket-etter-leppefisk-i-2026](forskrift-om-regulering-av-fisket-etter-leppefisk-i-2026.md) — Forskrift om regulering av fisket etter leppefisk i 2026
 - [forskrift-om-regulering-av-fisket-etter-makrell-i-2026](forskrift-om-regulering-av-fisket-etter-makrell-i-2026.md) — Forskrift om regulering av fisket etter makrell i 2026
 - [forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026](forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026.md) — Forskrift om regulering av fisket etter makrellstørje (Thunnus thynnus) i 2026
