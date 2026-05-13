@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260507-0766",
+  "events": [
+    {
+      "commit": "1bbd2de",
+      "date": "2026-05-13",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør"
+}

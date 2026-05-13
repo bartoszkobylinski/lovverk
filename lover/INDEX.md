@@ -1,6 +1,6 @@
 # Lover
 
-_738 current documents_
+_739 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -170,6 +170,7 @@ _738 current documents_
 - [endringslov-til-skipsarbeidsloven-og-nis-loven](endringslov-til-skipsarbeidsloven-og-nis-loven.md) — Lov om endringer i skipsarbeidsloven og NIS-loven (tydelige og mer forutsigbare arbeidsvilkår)
 - [endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven](endringslov-til-spesialisthelsetjenesteloven-og-pasient-og-brukerrettighetsloven.md) — Lov om endringer i spesialisthelsetjenesteloven og pasient- og brukerrettighetsloven (lovfesting av systemet for nye metoder m.m.)
 - [endringslov-til-straffegjennomføringsloven-mv](endringslov-til-straffegjennomføringsloven-mv.md) — Lov om endringar i straffegjennomføringsloven mv.
+- [endringslov-til-straffegjennomføringsloven-mv-2](endringslov-til-straffegjennomføringsloven-mv-2.md) — Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)
 - [endringslov-til-straffeloven-mv](endringslov-til-straffeloven-mv.md) — Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)
 - [endringslov-til-straffeloven-og-legemiddelloven-mv](endringslov-til-straffeloven-og-legemiddelloven-mv.md) — Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
 - [endringslov-til-tobakkskadeloven](endringslov-til-tobakkskadeloven.md) — Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)

@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260512-018",
+  "events": [
+    {
+      "commit": "3ed0fd3",
+      "date": "2026-05-13",
+      "from_path": null,
+      "lines_added": 149,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-straffegjennomføringsloven-mv-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-straffegjennomføringsloven-mv-2"
+}

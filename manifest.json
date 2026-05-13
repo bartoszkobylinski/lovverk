@@ -2326,15 +2326,15 @@
     "nl-19800613-035": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "lover/rettshjelploven-rhjl.md",
       "slug": "rettshjelploven-rhjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fri rettshjelp [rettshjelploven]",
-      "total_changes": null,
-      "xml_hash": "9cb8084aaa228ce6ffae5ce33ab6da73a8548e0d07e289fc07582d815613d9b5"
+      "total_changes": 4,
+      "xml_hash": "50ccb9cfa4196988590175985a35a6ab015ae755c111b6de298f37bd779e275b"
     },
     "nl-19810306-005": {
       "doc_type": "lov",
@@ -4279,15 +4279,15 @@
     "nl-20010518-021": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "lover/straffegjennomføringsloven-strgjfl.md",
       "slug": "straffegjennomføringsloven-strgjfl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjennomføring av straff mv. (straffegjennomføringsloven)",
-      "total_changes": null,
-      "xml_hash": "fad3df63dcc21224317bd75c05805db02a9e1a0710732e2bee9583fd82793a38"
+      "total_changes": 4,
+      "xml_hash": "0e334a35a9c90e39bd5ad69d4eedbe57973148b3ebdf6eb4dc32244499298c78"
     },
     "nl-20010518-022": {
       "doc_type": "lov",
@@ -6177,15 +6177,15 @@
     "nl-20110624-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-04-30",
-      "last_seen": "2026-04-30T06:25:40.160175Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "lover/helse-og-omsorgstjenesteloven-hol.md",
       "slug": "helse-og-omsorgstjenesteloven-hol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)",
-      "total_changes": 4,
-      "xml_hash": "f67b6557ba525cfba0593de3ef373c27fa78f1a21d2c09b0d3a7b289a024e699"
+      "total_changes": 5,
+      "xml_hash": "7164ef846dc37d384e28ec742f74c2fe1eb01ca08f6704695a15436268c9beed"
     },
     "nl-20110624-039": {
       "doc_type": "lov",
@@ -10041,6 +10041,19 @@
       "title": "Lov om endringer i domstolloven mv. (saksfordeling m.m.)",
       "total_changes": 1,
       "xml_hash": "ac6fe66ed3dc5bc9449560f22225896a2cc64c6b1b946d447dcd25e9d730eee5"
+    },
+    "nl-20260512-018": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "markdown_path": "lover/endringslov-til-straffegjennomføringsloven-mv-2.md",
+      "slug": "endringslov-til-straffegjennomføringsloven-mv-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)",
+      "total_changes": 1,
+      "xml_hash": "fccc5e90e6907015dec222e1afe9131e6b264a9950fd5cad26354ffc43ae6f9d"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -18092,15 +18105,15 @@
     "sf-19980618-0590": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "forskrifter/forskrift-om-trygderefusjon-for-leger-m-v.md",
       "slug": "forskrift-om-trygderefusjon-for-leger-m-v",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rett til trygderefusjon for leger, spesialister i klinisk psykologi og fysioterapeuter",
-      "total_changes": null,
-      "xml_hash": "f17426b083da9a69f7c00b92c60beb1b08d8f900c5ebe244f89499bbe3c4874f"
+      "total_changes": 4,
+      "xml_hash": "0ade40aea06ca66f1952a10544dc3307a8f91327f19be0e5adc298ab00a0343e"
     },
     "sf-19980818-0818": {
       "doc_type": "forskrift",
@@ -25632,15 +25645,15 @@
     "sf-20070629-0904": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "forskrifter/forskrift-om-melkeprisutjevningssatser-mv.md",
       "slug": "forskrift-om-melkeprisutjevningssatser-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør",
-      "total_changes": null,
-      "xml_hash": "892a7db431be7af20c36b0a52de5e0c4f2884aa4ae952b3addcc7cb1526120fd"
+      "total_changes": 4,
+      "xml_hash": "ea6e180fe5832dabd08bfcc1298ca83690d8e3659820252a2b01c4396ee0d018"
     },
     "sf-20070702-0839": {
       "doc_type": "forskrift",
@@ -33055,15 +33068,15 @@
     "sf-20140822-1097": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "forskrifter/crr-crd-forskriften.md",
       "slug": "crr-crd-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kapitalkrav og gjennomføring av CRR/CRD-regelverket (CRR/CRD-forskriften)",
-      "total_changes": null,
-      "xml_hash": "dcc05a11647442705e48b13eab2843b8326fabe0fbb081fb02ad56a848617af5"
+      "total_changes": 4,
+      "xml_hash": "af78faad83835d1b01e973b18c6d264d14a509691b777541b0a504fd6ef16352"
     },
     "sf-20140822-1121": {
       "doc_type": "forskrift",
@@ -46705,15 +46718,15 @@
     "sf-20221221-2468": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md",
       "slug": "forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til reinbeitedistrikter og reinlag",
-      "total_changes": null,
-      "xml_hash": "f344c1e03744e02bef9ac5249d0ec85282273e67142f97c720208b98a2ef322b"
+      "total_changes": 4,
+      "xml_hash": "dc75d54bc9a93936fddd669a80dc7a55085f732a903c5c4bb5c03d8b145bc99c"
     },
     "sf-20221222-2474": {
       "doc_type": "forskrift",
@@ -54527,8 +54540,34 @@
       "title": "Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)",
       "total_changes": 1,
       "xml_hash": "5e9988c7c96027f497da347a25245e11edd9f2e53a1bf10ea540dd0ad3c30a67"
+    },
+    "sf-20260507-0766": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør",
+      "total_changes": 1,
+      "xml_hash": "750aed0c3c7b56b81ca02a3c8606d4494ed4684934b06140282e452414acf0fa"
+    },
+    "sf-20260508-0769": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-13",
+      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "markdown_path": "forskrifter/midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16.md",
+      "slug": "midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Midlertidig forskrift om tilskudd til reinbeitedistrikt 16 og reinbeitedistrikter som tidligere har vært del av reinbeitedistrikt 16",
+      "total_changes": 1,
+      "xml_hash": "9310eea47126f31abdeb9b1aecc1f99ab93a15bbe3d098d557aa124d8e21e7f3"
     }
   },
-  "generated_at": "2026-05-12T06:34:52.336636Z",
+  "generated_at": "2026-05-13T06:46:02.636283Z",
   "version": 1
 }

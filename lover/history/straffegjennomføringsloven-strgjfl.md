@@ -1,6 +1,16 @@
 # straffegjennomføringsloven-strgjfl — Change history
 
-_2 events; doc_id `nl-20010518-021`._
+_4 events; doc_id `nl-20010518-021`._
+
+## 2026-05-13 — Content updated
+Lines: +54 -10.
+Subject: `update(lov): straffegjennomføringsloven-strgjfl`
+Commit: `079c38d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20010518-021.md` → `"lover/straffegjennomf\303\270ringsloven-strgjfl.md"`.

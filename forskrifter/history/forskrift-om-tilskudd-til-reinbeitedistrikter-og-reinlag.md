@@ -1,6 +1,16 @@
 # forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag — Change history
 
-_2 events; doc_id `sf-20221221-2468`._
+_4 events; doc_id `sf-20221221-2468`._
+
+## 2026-05-13 — Content updated
+Lines: +9 -3.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag`
+Commit: `8549a48`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20221221-2468.md` → `forskrifter/forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md`.
