@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-12-21"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-05-08"
 last_updated: null
-xml_hash: "f344c1e03744e02bef9ac5249d0ec85282273e67142f97c720208b98a2ef322b"
+xml_hash: "dc75d54bc9a93936fddd669a80dc7a55085f732a903c5c4bb5c03d8b145bc99c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-13T06:46:02.636283+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -87,6 +87,12 @@ Landbruksdirektoratets vedtak etter denne forskrift kan påklages til Landbruks-
 ### § 1-9. Fellesbestemmelser
 
 Bestemmelsene i [kapittel 1](forskrift/2022-12-21-2468/kap1) gjelder for alle tilskuddsordninger etter denne forskriften, med mindre annet er særskilt bestemt.
+
+### § 1-10. Unntak for tilskuddsåret 2025/2026 for reinbeitedistrikt 16 og reinbeitedistrikter som tidligere har vært del av reinbeitedistrikt 16
+
+For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](forskrift/2022-12-21-2468/kap2) og [kapittel 3](forskrift/2022-12-21-2468/kap3) ikke innvilges til følgende reinbeitedistrikt:Reinbeitedistrikt 16,Jáhkenjárga,Láhtin,MarBolon,Máhkarávju,Njeaiddán,Rávdol,Skáiddeduottar,Skuohtanjárga, ogVuorji.
+
+> Tilføyd ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768). **Oppheves** ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768) (i kraft 1 april 2027).
 
 ## Kapittel 2. Distriktstilskudd
 
