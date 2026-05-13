@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2025-09-01"
 last_updated: "2021-07-01"
-xml_hash: "f67b6557ba525cfba0593de3ef373c27fa78f1a21d2c09b0d3a7b289a024e699"
+xml_hash: "7164ef846dc37d384e28ec742f74c2fe1eb01ca08f6704695a15436268c9beed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-30T06:25:40.160175+00:00"
+retrieved_at: "2026-05-13T06:46:02.636283+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -149,6 +149,8 @@ Kommunen skal ha tilbud om personlig assistanse etter [§ 3-2](lov/2011-06-24-30
 ### § 3-9. Helse- og omsorgstjenester for innsatte i fengsler i kriminalomsorgen
 
 I de kommunene hvor det ligger fengsler i kriminalomsorgen skal kommunen ha tilbud om helse- og omsorgstjenester for de innsatte.
+
+> **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-9 a. Helse- og omsorgstjenester for internerte på utlendingsinternat
 
