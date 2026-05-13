@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-03-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2021-08-05"
-xml_hash: "fad3df63dcc21224317bd75c05805db02a9e1a0710732e2bee9583fd82793a38"
+xml_hash: "0e334a35a9c90e39bd5ad69d4eedbe57973148b3ebdf6eb4dc32244499298c78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-13T06:46:02.636283+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Det skal gis tilbud om gjenopprettende prosess under straffegjennomføringen.
 
 Ved varetektsfengsling skal kriminalomsorgen legge forholdene til rette for å avhjelpe negative virkninger av isolasjon.
 
-> Endret ved [lov 20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)).
+> Endret ved [lov 20 juni 2014 nr. 49](lov/2014-06-20-49) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795)). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3. Innhold
 
@@ -61,6 +61,8 @@ Ved gjennomføringen av fengselsstraff og forvaring skal det så vidt mulig skje
 ### § 4. Forvaltningssamarbeid
 
 Kriminalomsorgen skal gjennom samarbeid med andre offentlige etater legge til rette for at domfelte og innsatte i varetekt får de tjenester som lovgivningen gir dem krav på. Samarbeidet skal bidra til en samordnet innsats for å dekke domfelte og innsattes behov og fremme deres tilpasning til samfunnet.
+
+> **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 1 A. Behandling av personopplysninger i kriminalomsorgen
 
@@ -174,13 +176,13 @@ Regionalt nivå treffer avgjørelse i alle saker etter [§ 11](lov/2001-05-18-21
 
 I saker der domfelte er under 18 år, skal det sendes kopi av alle avgjørelser truffet av lokalt nivå til regionalt nivå.
 
-> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 aug 2008 iflg. [res. 13 juni 2008 nr. 586](forskrift/2008-06-13-586)), [24 juni 2011 nr. 34](lov/2011-06-24-34), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
+> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 aug 2008 iflg. [res. 13 juni 2008 nr. 586](forskrift/2008-06-13-586)), [24 juni 2011 nr. 34](lov/2011-06-24-34), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7. Saksbehandlingsregler
 
 Forvaltningsloven gjelder med følgende unntak:Domfelte, innsatte eller tilsatte i kriminalomsorgen kan ikke være fullmektig for en person som er under straffegjennomføring eller innsatt etter denne loven.Saksbehandlingen kan være muntlig når tidsmessige grunner gjør det nødvendig. Det gjelder også for vedtaket og underretningen om vedtaket til domfelte eller innsatte.En part har ikke krav på innsyn i et dokument som inneholder opplysninger som det av hensyn til en annen person må anses utilrådelig at parten får kjennskap til. Parten har heller ikke krav på å gjøre seg kjent med opplysninger i et dokument dersom innsyn er utilrådelig på grunn av sikkerhetsmessige hensyn, eller av hensyn til etterforskning av straffbare forhold.Det kan gjøres unntak fra plikten til å begrunne vedtak etter [forvaltningsloven § 24](lov/1967-02-10/§24) hvis begrunnelsen vil røpe opplysning som er unntatt fra adgangen til innsyn etter bokstav c.Klagefristen i saker etter denne loven er 7 dager. Dette gjelder ikke saker om reaksjon på brudd etter [§ 40](lov/2001-05-18-21/§40) første til og med sjette ledd og [§ 58](lov/2001-05-18-21/§58) første ledd. I slike saker er klagefristen 48 timer.Beslutning om å fremme sak for retten etter [§ 44](lov/2001-05-18-21/§44) annet ledd, [§ 58](lov/2001-05-18-21/§58) annet ledd eller [straffeloven § 39](lov/2005-05-20-28/§39) første og annet ledd kan ikke påklages. Det samme gjelder beslutning om innsettelse i fengsel etter [§ 11](lov/2001-05-18-21/§11).Kriminalomsorgsdirektoratet og regionalt nivå kan, selv om fristene i [forvaltningsloven § 35](lov/1967-02-10/§35) tredje ledd er overskredet, av eget tiltak omgjøre et vedtak som er fattet av underordnet instans til skade for domfelte eller innsatte hvis særlige grunner tilsier det.Enhver som er tilsatt i eller utfører tjeneste eller arbeid for kriminalomsorgen, har taushetsplikt om det vedkommende i forbindelse med tjenesten får vite om forhold av betydning for sikkerheten i fengslene og i forbindelse med gjennomføringen av straff utenfor fengslene.Taushetsplikt er ikke til hinder for at kriminalomsorgen gir opplysninger som nevnt i [§ 16](lov/2001-05-18-21/§16) sjette ledd, [§ 16](lov/2001-05-18-21/§16) a tredje ledd jf. [§ 16](lov/2001-05-18-21/§16) sjette ledd, [§ 20](lov/2001-05-18-21/§20) annet ledd, [§ 36](lov/2001-05-18-21/§36) tredje ledd, [§ 40](lov/2001-05-18-21/§40) siste ledd, [§ 42](lov/2001-05-18-21/§42) sjette og syvende ledd og [straffeloven § 45](lov/2005-05-20-28/§45) sjette ledd, til den fornærmede i straffesaken eller dennes etterlatte.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [17 des 2010 nr. 85](lov/2010-12-17-85) (ikr. 17 des 2010 iflg. [res. 17 des 2010 nr. 1668](forskrift/2010-12-17-1668)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [28 feb 2014 nr. 3](lov/2014-02-28-3), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [17 des 2010 nr. 85](lov/2010-12-17-85) (ikr. 17 des 2010 iflg. [res. 17 des 2010 nr. 1668](forskrift/2010-12-17-1668)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [28 feb 2014 nr. 3](lov/2014-02-28-3), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7 a. Opplysningsplikt overfor kriminalomsorgen
 
@@ -404,7 +406,7 @@ Så langt det er praktisk mulig skal innsatte ha adgang til fellesskap under arb
 
 Fellesskapet for innsatte som gjennomfører straff i avdeling som nevnt i [§ 10](lov/2001-05-18-21/§10) annet ledd, kan helt eller delvis begrenses av hensyn til ro, orden og sikkerhet, eller dersom hensynet til innsatte selv eller andre innsatte tilsier det, og det ikke fremstår som et uforholdsmessig inngrep.
 
-> Endret ved lover [11 juni 2021 nr. 71](lov/2021-06-11-71), [11 juni 2021 nr. 71](lov/2021-06-11-71) (i kraft 1 des 2021), [17 des 2021 nr. 149](lov/2021-12-17-149), [17 des 2021 nr. 149](lov/2021-12-17-149) (i kraft 1 juli 2023, endring endret ved lov [17 juni 2022 nr. 62](lov/2022-06-17-62)).
+> Endret ved lover [11 juni 2021 nr. 71](lov/2021-06-11-71), [11 juni 2021 nr. 71](lov/2021-06-11-71) (i kraft 1 des 2021), [17 des 2021 nr. 149](lov/2021-12-17-149), [17 des 2021 nr. 149](lov/2021-12-17-149) (i kraft 1 juli 2023, endring endret ved lov [17 juni 2022 nr. 62](lov/2022-06-17-62)). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 18. Arbeid, opplæring, program eller andre tiltak
 
@@ -433,6 +435,8 @@ Kriminalomsorgen skal legge forholdene til rette for at de innsatte skal få til
 ### § 22. Lufting
 
 Innsatte skal så langt det er mulig få oppholde seg i friluft hver dag.
+
+> **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 23. Religion og livssyn
 
@@ -608,7 +612,27 @@ Kriminalomsorgen kan beslutte at innsatte under 18 år skal utelukkes helt eller
 
 [§ 17](lov/2001-05-18-21/§17) annet ledd skal anvendes ved utelukkelse fra fellesskapet i avdelinger som nevnt i [§ 10](lov/2001-05-18-21/§10) annet ledd.
 
-> Endret ved [lover 14 juni 2013 nr. 44](lov/2013-06-14-44), [28 feb 2014 nr. 3](lov/2014-02-28-3), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233), med unntak av femte ledd siste setning) som endret ved [lov 28 feb 2014 nr. 3](lov/2014-02-28-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer, femte ledd siste punktum).
+> Endret ved [lover 14 juni 2013 nr. 44](lov/2013-06-14-44), [28 feb 2014 nr. 3](lov/2014-02-28-3), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233), med unntak av femte ledd siste setning) som endret ved [lov 28 feb 2014 nr. 3](lov/2014-02-28-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer, femte ledd siste punktum). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 37 a. Utelukkelse på grunn av forhold ved den innsatte
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 37 b. Utelukkelse på grunn av forhold ved fengselet
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 37 c. Særregler om utelukkelse av innsatte under 18 år
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 37 d. Innsatte som selv velger å avstå fra fellesskapet
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 37 e. Tilsyn og oppfølging fra kriminalomsorgen
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 38. Bruk av tvangsmidler i fengsel
 
@@ -624,13 +648,33 @@ Bruk av sikkerhetsseng som overstiger 24 timer, skal meldes til regionalt nivå 
 
 Bruk av sikkerhetscelle som overstiger 3 døgn, skal meldes til regionalt nivå som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til Kriminalomsorgsdirektoratet når bruk av sikkerhetscelle overstiger 6 døgn. For innsatte under 18 år skal bruk av sikkerhetscelle som overstiger 24 timer, meldes til regionalt nivå, som tar stilling til om tiltaket skal opprettholdes. Tiltaket skal meldes til direktoratet når bruk av sikkerhetscelle overstiger 3 døgn.
 
-> Endret ved [lover 28 feb 2014 nr. 3](lov/2014-02-28-3), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233)) som endret ved [lov 28 feb 2014 nr. 3](lov/2014-02-28-3), [26 mars 2021 nr. 15](lov/2021-03-26-15) (ikr. 1 apr 2021 iflg. [res. 26 mars 2021 nr. 968](forskrift/2021-03-26-968)).
+> Endret ved [lover 28 feb 2014 nr. 3](lov/2014-02-28-3), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233)) som endret ved [lov 28 feb 2014 nr. 3](lov/2014-02-28-3), [26 mars 2021 nr. 15](lov/2021-03-26-15) (ikr. 1 apr 2021 iflg. [res. 26 mars 2021 nr. 968](forskrift/2021-03-26-968)). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 38 a. Bruk av håndjern, transportjern, ledsagerbelte, strips eller spyttbeskytter
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 38 b. Bruk av skjold, kølle eller gass
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 38 c. Bruk av sikkerhetscelle
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 38 d. Bruk av sikkerhetsseng
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+### § 38 e. Særregler for bruk av tvangsmidler overfor innsatte under 18 år
+
+> **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 39. Umiddelbar utelukkelse som følge av brudd ved gjennomføring av fengselsstraff og forvaring
 
 Dersom det er sannsynlig at en innsatt har begått handling som kan føre til reaksjon etter [§ 40](lov/2001-05-18-21/§40) annet ledd bokstavene c, d og e, kan kriminalomsorgen helt eller delvis utelukke den innsatte fra fellesskapet i inntil 24 timer. Umiddelbar utelukkelse fra fellesskapet kan ikke benyttes på innsatte under 18 år.
 
-> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)).
+> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)). **Oppheves** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 40. Reaksjon på brudd ved gjennomføring av fengselsstraff og forvaring
 
@@ -652,7 +696,7 @@ Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatt
 
 [Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.]1
 
-> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1139](forskrift/2007-10-12-1139)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)) **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer).
+> Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1139](forskrift/2007-10-12-1139)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)) **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
 ### § 41. Forberedelse til løslatelse
 
