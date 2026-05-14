@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "2d56cd7eb93d6e919b9cd20f5c44fa0ee191b09858c8b9880a916fec53603fe3"
+xml_hash: "87461603e3f69ac746b20822310b2ad802e9ecb46f1462afaa5c6ef30ef20edb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-04T10:13:30.563489+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,6 +23,8 @@ eu_basis: []
 # Forskrift om endring i forskrift om bruk av kjøretøy
 
 ## I
+
+> **Endres** ved forskrift [7 mai 2026 nr. 774](forskrift/2026-05-07-774) (i kraft 1 juni 2026).
 
 - På veger som i vegliste for tømmertransport er angitt som Bk10/56, er største tillatte totalvekter som for Bk10/50 i [§ 5-4 nr. 2](forskrift/1990-01-25-92/§5-4/nummer/2) og [3](forskrift/1990-01-25-92/§5-4/nummer/3).
 
