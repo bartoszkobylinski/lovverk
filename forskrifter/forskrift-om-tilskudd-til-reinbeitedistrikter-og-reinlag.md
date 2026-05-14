@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-12-21"
 last_change_in_force: "2026-05-08"
 last_updated: null
-xml_hash: "dc75d54bc9a93936fddd669a80dc7a55085f732a903c5c4bb5c03d8b145bc99c"
+xml_hash: "f09cf3a2a5da6ffaa56dcac167e4eaf5a4141f69c6b68777c751f5b97e218ed3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-13T06:46:02.636283+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,7 @@ Bestemmelsene i [kapittel 1](forskrift/2022-12-21-2468/kap1) gjelder for alle ti
 
 For tilskuddsåret 2025/2026 kan tilskudd etter [kapittel 2](forskrift/2022-12-21-2468/kap2) og [kapittel 3](forskrift/2022-12-21-2468/kap3) ikke innvilges til følgende reinbeitedistrikt:Reinbeitedistrikt 16,Jáhkenjárga,Láhtin,MarBolon,Máhkarávju,Njeaiddán,Rávdol,Skáiddeduottar,Skuohtanjárga, ogVuorji.
 
-> Tilføyd ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768). **Oppheves** ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768) (i kraft 1 april 2027).
+> Tilføyd ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768). **Oppheves** ved forskrift [8 mai 2026 nr. 768](forskrift/2026-05-08-768) (i kraft 31 mars 2027).
 
 ## Kapittel 2. Distriktstilskudd
 
