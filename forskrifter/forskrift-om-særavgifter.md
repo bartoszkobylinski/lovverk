@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-01-01"
 last_change_in_force: "2026-05-01"
 last_updated: "2023-08-03"
-xml_hash: "65455350b377e0a66be7972e41076dbbf14e7368d6f7470f399134a566894194"
+xml_hash: "cb758b7b3de658b2125c1d23afda6117404d5ef4deb8377f555046872ae3efb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-04T10:13:30.563489+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -476,9 +476,13 @@ Det gis fritak for avgift ved utførsel dersom det utføres over 4 000 liter mi
 
 > Tilføyd ved [forskrift 25 aug 2008 nr. 945](forskrift/2008-08-25-945) (i kraft 1 sep 2008), endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [7 april 2020 nr. 763](forskrift/2020-04-07-763) (i kraft 1 april 2020), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [12 jan 2024 nr. 63](forskrift/2024-01-12-63) (i kraft 1 jan 2024), [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [3 mars 2026 nr. 321](forskrift/2026-03-03-321) (i kraft 1 mars 2026).
 
-### § 3-6-7. (Opphevet)
+### § 3-6-7. Redusert sats for anleggsdiesel
 
-> Tilføyd ved [forskrift 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), endret ved [forskrift 28 nov 2013 nr. 1371](forskrift/2013-11-28-1371) (i kraft 1 jan 2014), opphevet ved [forskrift 20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018).
+(1) For anleggsdiesel gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje og den reduserte satsen som skal betales etter [Stortingets vedtak § 1 første ledd bokstav a](forskrift/2025-12-18-2763/§1/bokstav/a) syvende strekpunkt.
+
+(2) Søknad om refusjon sendes til skattekontoret.
+
+> Tilføyd ved [forskrift 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), endret ved [forskrift 28 nov 2013 nr. 1371](forskrift/2013-11-28-1371) (i kraft 1 jan 2014), opphevet ved [forskrift 20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), tilføyd ved forskrift [13 mai 2026 nr. 795](forskrift/2026-05-13-795) (i kraft 1 mai 2026).
 
 ### § 3-6-8. Fritak for gass brukt i visse kraftintensive prosesser
 
