@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "fccc5e90e6907015dec222e1afe9131e6b264a9950fd5cad26354ffc43ae6f9d"
+xml_hash: "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-13T06:46:02.636283+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Innsatte i fengsel har rett til helsehjelp fra den kommunale helse- og omsorgstj
 
 Regionalt nivå treffer avgjørelse i alle saker etter [§ 11](lov/2001-05-18-21/§11), § 37 a annet ledd annet punktum, § 38 c femte ledd tredje punktum, § 38 d femte ledd tredje punktum, [§ 44 annet ledd](lov/2001-05-18-21/§44/ledd/2) og [§ 58 annet ledd](lov/2001-05-18-21/§58/ledd/2).
 
-Ved beslutning om utelukkelse fra fellesskapet etter [§§ 37](lov/2001-05-18-21/§37), 37 a eller 37 b, og ved beslutning om sikkerhetscelle etter § 38 c eller sikkerhetsseng etter § 38 d, løper klagefristen først fra det tidspunktet utelukkelsen eller tvangsmiddelbruken opphører.
+Ved beslutning om utelukkelse fra fellesskapet etter [§§ 37](lov/2001-05-18-21/§37), [37 a](lov/2001-05-18-21/§37a) eller [37 b](lov/2001-05-18-21/§37b), og ved beslutning om sikkerhetscelle etter [§ 38 c](lov/2001-05-18-21/§38c) eller sikkerhetsseng etter [§ 38 d](lov/2001-05-18-21/§38d), løper klagefristen først fra det tidspunktet utelukkelsen eller tvangsmiddelbruken opphører.
 
 Kriminalomsorgen skal sikre at innsatte daglig har tilgang til fellesskap under arbeid, opplæring, program eller andre tiltak og i fritiden. Tilbudt tid utenfor cellen skal normalt tilsvare åtte timer eller mer per dag og aldri mindre enn fire timer per dag. Bestemmelsene i første og annet punktum gjelder bare så langt ikke annet er bestemt i medhold av lov, eller dersom den innsatte selv velger å avstå fra fellesskap.
 
@@ -86,7 +86,7 @@ Den kommunale helse- og omsorgstjenesten skal uten ugrunnet opphold varsles om i
 
 For innsatte som har vært utelukket i mer enn syv dager, eller som selv velger å avstå fra fellesskapet i mer enn syv dager, skal det utarbeides en plan for tilbakeføring til fellesskapet.
 
-Kriminalomsorgen kan benytte tvangsmidlene nevnt i §§ 38 a til 38 d når vilkårene er oppfylt og Kriminalomsorgsdirektoratet har godkjent tvangsmiddelet til bruk i kriminalomsorgen.
+Kriminalomsorgen kan benytte tvangsmidlene nevnt i [§§ 38 a](lov/2001-05-18-21/§38a) til [38 d](lov/2001-05-18-21/§38d) når vilkårene er oppfylt og Kriminalomsorgsdirektoratet har godkjent tvangsmiddelet til bruk i kriminalomsorgen.
 
 Et tvangsmiddel kan bare brukes når mindre inngripende tiltak forgjeves har vært forsøkt eller åpenbart vil være utilstrekkelige. Tvangsmiddelet kan bare brukes når behovet klart overstiger de negative konsekvensene som tvangsbruken kan innebære for den innsatte.
 
@@ -124,7 +124,7 @@ Beslutning om bruk av sikkerhetsseng skal følge reglene som gjelder for enkeltv
 
 Regionalt nivå skal umiddelbart gis melding om bruk av sikkerhetsseng. Kriminalomsorgsdirektoratet skal gis melding om bruk som overstiger 72 timer.
 
-Tvangsmidler kan bare brukes overfor innsatte under 18 år når vilkårene i [§§ 38](lov/2001-05-18-21/§38) til 38 c er oppfylt og bruken er tvingende nødvendig for å oppnå formålet.
+Tvangsmidler kan bare brukes overfor innsatte under 18 år når vilkårene i [§§ 38](lov/2001-05-18-21/§38) til [38 c](lov/2001-05-18-21/§38c) er oppfylt og bruken er tvingende nødvendig for å oppnå formålet.
 
 Før beslutning om bruk av et tvangsmiddel overfor en innsatt under 18 år treffes, skal kriminalomsorgen så vidt mulig innhente informasjon fra tverretatlig team og den kommunale helse- og omsorgstjenesten. Det skal fremgå av beslutningen at hensynet til barnets beste har vært et grunnleggende hensyn, og hvordan dette hensynet er avveid mot øvrige hensyn.
 
@@ -140,9 +140,9 @@ Innsatte i sikkerhetsseng skal ha tilsyn av helsepersonell snarest mulig etter a
 
 ## III
 
-for innsatte som er eller har vært utelukket fra fellesskapet etter [straffegjennomføringsloven §§ 37](lov/2001-05-18-21/§37), 37 a eller 37 b i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.
+for innsatte som er eller har vært utelukket fra fellesskapet etter [straffegjennomføringsloven §§ 37](lov/2001-05-18-21/§37), [37 a](lov/2001-05-18-21/§37a) eller [37 b](lov/2001-05-18-21/§37b) i mer enn ett sammenhengende døgn, og som vurderer å klage eller som klager på vedtaket. For innsatte under 18 år er det ikke et vilkår at utelukkelsen overskrider ett døgn.
 
-for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter straffegjennomføringsloven § 38 c eller § 38 d, og som vurderer å klage eller som klager på vedtaket.
+for innsatte som er eller har vært plassert i sikkerhetscelle eller sikkerhetsseng etter [straffegjennomføringsloven § 38 c](lov/2001-05-18-21/§38c) eller [§ 38 d](lov/2001-05-18-21/§38d), og som vurderer å klage eller som klager på vedtaket.
 
 ## IV
 
