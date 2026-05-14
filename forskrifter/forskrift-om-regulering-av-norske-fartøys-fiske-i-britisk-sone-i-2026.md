@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-05-11"
 last_updated: null
-xml_hash: "ab050f433b1722f69bf738e80cc9e1da6327df51384aace2af3c88a08eb3fd10"
+xml_hash: "f02fbefe8b97e0f0cf28b56e0064fe77a627e7adc49f0324694779a119d02d2c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,11 @@ Adgangen nevnt i første ledd inkluderer uunngåelig bifangst av sjøkreps i et 
 
 Innenfor adgangen gitt i [§ 2 første ledd](forskrift/2025-12-19-2742/§2/ledd/1) kan norske fartøy totalt ikke fiske mer enn:1 000 tonn hvitting5 000 tonn lange600 tonn blåkveite1 500 tonn brosme2 000 tonn lysing1 000 tonn annen bunnfisk.
 
+Fra og med onsdag 13. mai klokken 00:01 er det forbudt å fiske og lande blålange. Uten hinder av forbudet er det tillatt å ha inntil 10 % bifangst av blålange i vekt i de enkelte fangster og ved landing.
+
 Norske fartøy kan fiske torsk, hyse, sei og rødspette i britisk sone i Nordsjøen på de vilkår som er fastsatt i reguleringsforskriftene for disse artene i 2026.
+
+> Endret ved forskrift [11 mai 2026 nr. 777](forskrift/2026-05-11-777).
 
 ## § 4. Kvoter i britisk sone i ICES' statistikkområder 6.a., 5.b. og 2.a.
 
