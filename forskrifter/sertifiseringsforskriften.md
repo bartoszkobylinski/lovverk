@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2013-03-04"
-last_change_in_force: "2025-10-24"
+last_change_in_force: "2026-05-11"
 last_updated: null
-xml_hash: "e3e9e41722bb59fb953a8af8ee7e4f39f5ec3918b254de0d8ddd5934cb20042e"
+xml_hash: "91d9abeac6ff7849b0a83110c7e790cbbda159fee04ee705d4bb28647590ce0e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66p (forordning [(EU) nr. 748/2012](eu/32012r0748)) av 3. august 2012 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver som endret vedforordning [(EU) nr. 7/2013](eu/32013r0007),forordning [(EU) nr. 69/2014](eu/32014r0069),forordning [(EU) 2015/1039](eu/32015r1039),forordning [(EU) 2016/5](eu/32016r0005),forordning [(EU) 2019/897](eu/32019r0897),forordning [(EU) 2021/699](eu/32021r0699),forordning [(EU) 2020/570](eu/32020r0570),forordning [(EU) 2021/1088](eu/32021r1088),forordning [(EU) 2022/201](eu/32022r0201),forordning [(EU) 2022/203](eu/32022r0203),forordning [(EU) 2022/1358](eu/32022r1358),forordning [(EU) 2022/1361](eu/32022r1361),forordning [(EU) 2022/1253](eu/32022r1253),forordning [(EU) 2023/1028](eu/32023r1028),forordning [(EU) 2024/1108](eu/32024r1108),forordning [(EU) 2024/1110](eu/32024r1110),forordning [(EU) 2022/1645](eu/32022r1645),forordning [(EU) 2023/203](eu/32023r0203)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66p (forordning [(EU) nr. 748/2012](eu/32012r0748)) av 3. august 2012 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver som endret vedforordning [(EU) nr. 7/2013](eu/32013r0007),forordning [(EU) nr. 69/2014](eu/32014r0069),forordning [(EU) 2015/1039](eu/32015r1039),forordning [(EU) 2016/5](eu/32016r0005),forordning [(EU) 2019/897](eu/32019r0897),forordning [(EU) 2021/699](eu/32021r0699),forordning [(EU) 2020/570](eu/32020r0570),forordning [(EU) 2021/1088](eu/32021r1088),forordning [(EU) 2022/201](eu/32022r0201),forordning [(EU) 2022/203](eu/32022r0203),forordning [(EU) 2022/1358](eu/32022r1358),forordning [(EU) 2022/1361](eu/32022r1361),forordning [(EU) 2022/1253](eu/32022r1253),forordning [(EU) 2023/1028](eu/32023r1028),forordning [(EU) 2024/1108](eu/32024r1108),forordning [(EU) 2024/1110](eu/32024r1110),forordning [(EU) 2022/1645](eu/32022r1645),forordning [(EU) 2023/203](eu/32023r0203),forordning [(EU) 2025/1065](eu/32025r1065),forordning [(EU) 2026/100](eu/32026r0100),forordning [(EU) 2026/56](eu/32026r0056)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 18 juli 2013 nr. 922](forskrift/2013-07-18-922), [29 sep 2014 nr. 1297](forskrift/2014-09-29-1297), [4 nov 2015 nr. 1279](forskrift/2015-11-04-1279), [29 mars 2016 nr. 325](forskrift/2016-03-29-325), [17 sep 2024 nr. 2204](forskrift/2024-09-17-2204), [22 jan 2025 nr. 59](forskrift/2025-01-22-59), [26 mai 2025 nr. 864](forskrift/2025-05-26-864), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093).
+> Endret ved [forskrifter 18 juli 2013 nr. 922](forskrift/2013-07-18-922), [29 sep 2014 nr. 1297](forskrift/2014-09-29-1297), [4 nov 2015 nr. 1279](forskrift/2015-11-04-1279), [29 mars 2016 nr. 325](forskrift/2016-03-29-325), [17 sep 2024 nr. 2204](forskrift/2024-09-17-2204), [22 jan 2025 nr. 59](forskrift/2025-01-22-59), [26 mai 2025 nr. 864](forskrift/2025-05-26-864), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [11 mai 2026 nr. 779](forskrift/2026-05-11-779).
 
 ## § 2. Geografisk virkeområde
 
