@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260507-0774",
+  "events": [
+    {
+      "commit": "55e9e00",
+      "date": "2026-05-14",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy"
+}

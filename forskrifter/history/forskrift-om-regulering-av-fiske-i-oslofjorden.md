@@ -1,6 +1,11 @@
 # forskrift-om-regulering-av-fiske-i-oslofjorden — Change history
 
-_4 events; doc_id `sf-20251219-2889`._
+_5 events; doc_id `sf-20251219-2889`._
+
+## 2026-05-14 — Content updated
+Lines: +149 -0.
+Subject: `update(forskrift): forskrift-om-regulering-av-fiske-i-oslofjorden`
+Commit: `ceb4b6e`.
 
 ## 2026-05-04 — Content updated
 Lines: +0 -79.

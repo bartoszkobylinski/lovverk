@@ -10045,15 +10045,15 @@
     "nl-20260512-018": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-13",
-      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "lover/endringslov-til-straffegjennomføringsloven-mv-2.md",
       "slug": "endringslov-til-straffegjennomføringsloven-mv-2",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)",
-      "total_changes": 1,
-      "xml_hash": "fccc5e90e6907015dec222e1afe9131e6b264a9950fd5cad26354ffc43ae6f9d"
+      "total_changes": 2,
+      "xml_hash": "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -14725,15 +14725,15 @@
     "sf-19900125-0092": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-bruk-av-kjøretøy.md",
       "slug": "forskrift-om-bruk-av-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bruk av kjøretøy",
-      "total_changes": 4,
-      "xml_hash": "cbe6441a69598b3bf62993b143a64aa006acd19c1a75730e152035ae5accdbf0"
+      "total_changes": 5,
+      "xml_hash": "caff8c1a474ce81082b57d3e636fb32653d87cfbf07a7814cace7e543fddb7e7"
     },
     "sf-19900126-0068": {
       "doc_type": "forskrift",
@@ -20211,15 +20211,15 @@
     "sf-20011211-1451": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-særavgifter.md",
       "slug": "forskrift-om-særavgifter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om særavgifter",
-      "total_changes": 4,
-      "xml_hash": "65455350b377e0a66be7972e41076dbbf14e7368d6f7470f399134a566894194"
+      "total_changes": 5,
+      "xml_hash": "cb758b7b3de658b2125c1d23afda6117404d5ef4deb8377f555046872ae3efb2"
     },
     "sf-20011212-1494": {
       "doc_type": "forskrift",
@@ -31482,15 +31482,15 @@
     "sf-20130304-0252": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/sertifiseringsforskriften.md",
       "slug": "sertifiseringsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften)",
-      "total_changes": null,
-      "xml_hash": "e3e9e41722bb59fb953a8af8ee7e4f39f5ec3918b254de0d8ddd5934cb20042e"
+      "total_changes": 4,
+      "xml_hash": "91d9abeac6ff7849b0a83110c7e790cbbda159fee04ee705d4bb28647590ce0e"
     },
     "sf-20130308-0258": {
       "doc_type": "forskrift",
@@ -34004,15 +34004,15 @@
     "sf-20150507-0488": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/vedlikeholdsforskriften.md",
       "slug": "vedlikeholdsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kontinuerlig luftdyktighet mv. (vedlikeholdsforskriften)",
-      "total_changes": null,
-      "xml_hash": "b5c61c128c791941058af33c84822be47917e55963140a397d3092b227f833c9"
+      "total_changes": 4,
+      "xml_hash": "adb86262f8ea44c4499483cb6c9828e6c82f5163d89b7d6feb006cfd8b2350e0"
     },
     "sf-20150507-0540": {
       "doc_type": "forskrift",
@@ -42922,15 +42922,15 @@
     "sf-20210315-1008": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett.md",
       "slug": "forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om trekningskretser for meddommere ved Buskerud tingrett",
-      "total_changes": 4,
-      "xml_hash": "fea98448ec375347f8937d9c527bc89a001b81a87a3299f09af1f81b850abd4f"
+      "total_changes": 5,
+      "xml_hash": "220f00834e76200b5c41828c60bca7b7888b180d20c62013a190c1737779d20d"
     },
     "sf-20210315-1010": {
       "doc_type": "forskrift",
@@ -46718,15 +46718,15 @@
     "sf-20221221-2468": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-13",
-      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag.md",
       "slug": "forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilskudd til reinbeitedistrikter og reinlag",
-      "total_changes": 4,
-      "xml_hash": "dc75d54bc9a93936fddd669a80dc7a55085f732a903c5c4bb5c03d8b145bc99c"
+      "total_changes": 5,
+      "xml_hash": "f09cf3a2a5da6ffaa56dcac167e4eaf5a4141f69c6b68777c751f5b97e218ed3"
     },
     "sf-20221222-2474": {
       "doc_type": "forskrift",
@@ -49123,15 +49123,15 @@
     "sf-20240910-2145": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-reserverte-områder-for-fleksibel-bruk-av-luftrommet.md",
       "slug": "forskrift-om-reserverte-områder-for-fleksibel-bruk-av-luftrommet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om reserverte områder for fleksibel bruk av luftrommet",
-      "total_changes": null,
-      "xml_hash": "b5a039adeb12c2d7811f607dc561031c9bff5130e5e20a9bb2a12abf5a7b03d8"
+      "total_changes": 4,
+      "xml_hash": "5cbaf8e58bbd7adfc385ed2ffb22dc181d25c4ac70f6c5ec10b1fc439599eee1"
     },
     "sf-20240913-2149": {
       "doc_type": "forskrift",
@@ -49981,15 +49981,15 @@
     "sf-20241218-3315": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart.md",
       "slug": "forskrift-om-opprettelse-av-et-harmonisert-europeisk-rapporteringssystem-for-sjøfart",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opprettelse av et harmonisert europeisk rapporteringssystem for sjøfart",
-      "total_changes": null,
-      "xml_hash": "7319f179c40c114faf2bc0c7533de0e88d9ea3a63ea1a022ee458c97f217baa8"
+      "total_changes": 4,
+      "xml_hash": "a8c44d8f5c53c7c94920a308eddc006aaf450b662a20a8f8782da1b502622e0a"
     },
     "sf-20241218-3383": {
       "doc_type": "forskrift",
@@ -53153,15 +53153,15 @@
     "sf-20251219-2742": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026.md",
       "slug": "forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av norske fartøys fiske i britisk sone i 2026",
-      "total_changes": null,
-      "xml_hash": "ab050f433b1722f69bf738e80cc9e1da6327df51384aace2af3c88a08eb3fd10"
+      "total_changes": 4,
+      "xml_hash": "f02fbefe8b97e0f0cf28b56e0064fe77a627e7adc49f0324694779a119d02d2c"
     },
     "sf-20251219-2744": {
       "doc_type": "forskrift",
@@ -53387,15 +53387,15 @@
     "sf-20251219-2889": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fiske-i-oslofjorden.md",
       "slug": "forskrift-om-regulering-av-fiske-i-oslofjorden",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fiske i Oslofjorden",
-      "total_changes": 4,
-      "xml_hash": "a170d2510ac639f05bba78bc6d9176b53b697bb5ad34a9ed499ea518535574fe"
+      "total_changes": 5,
+      "xml_hash": "06138fb280e45e6696fdfb05de18eb2f78c1ed9c7f59985163d67bdeed2193ac"
     },
     "sf-20251219-2890": {
       "doc_type": "forskrift",
@@ -53712,15 +53712,15 @@
     "sf-20260121-0091": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": 4,
-      "xml_hash": "2d56cd7eb93d6e919b9cd20f5c44fa0ee191b09858c8b9880a916fec53603fe3"
+      "total_changes": 5,
+      "xml_hash": "87461603e3f69ac746b20822310b2ad802e9ecb46f1462afaa5c6ef30ef20edb"
     },
     "sf-20260123-0081": {
       "doc_type": "forskrift",
@@ -54400,15 +54400,15 @@
     },
     "sf-20260428-0690": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-05",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-05T14:43:11.406810Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett.md",
       "slug": "forskrift-om-endring-i-forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om trekningskretser for meddommere ved Buskerud tingrett",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "93ffb01d3e7a4ae28ffe71113dd51ddd67509b85b273475470462a1cfc402a05"
     },
     "sf-20260428-0737": {
@@ -54554,20 +54554,59 @@
       "total_changes": 1,
       "xml_hash": "750aed0c3c7b56b81ca02a3c8606d4494ed4684934b06140282e452414acf0fa"
     },
+    "sf-20260507-0774": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om endring i forskrift om bruk av kjøretøy",
+      "total_changes": 1,
+      "xml_hash": "0c2df1ccd900d5e402c702e081151999b1e7cb34f3a351816511b134d5b00070"
+    },
     "sf-20260508-0769": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-13",
-      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
       "markdown_path": "forskrifter/midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16.md",
       "slug": "midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Midlertidig forskrift om tilskudd til reinbeitedistrikt 16 og reinbeitedistrikter som tidligere har vært del av reinbeitedistrikt 16",
+      "total_changes": 2,
+      "xml_hash": "d98e65cb57e9a74a9bd2623f12936047bb2c55083b4de32726260f94835ab824"
+    },
+    "sf-20260512-0780": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
+      "markdown_path": "forskrifter/forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden.md",
+      "slug": "forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om midlertidig tilskudd for fiskerinæringen i Oslofjorden",
       "total_changes": 1,
-      "xml_hash": "9310eea47126f31abdeb9b1aecc1f99ab93a15bbe3d098d557aa124d8e21e7f3"
+      "xml_hash": "cc73bf83e63ae7836d5603c654d7429a08dc11d475d54e3d0e50c6b8e9500c2c"
+    },
+    "sf-20260512-0793": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-14",
+      "last_seen": "2026-05-14T06:44:22.849555Z",
+      "markdown_path": "forskrifter/forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet.md",
+      "slug": "forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om krav til klimagassintensitet for skip som brukes i forbindelse med petroleumsvirksomhet",
+      "total_changes": 1,
+      "xml_hash": "f57c7fe008d1a3031b212aa087d860459c6f0f3bc32fd80d0b03af5ffaa93dbd"
     }
   },
-  "generated_at": "2026-05-13T06:46:02.636283Z",
+  "generated_at": "2026-05-14T06:44:22.849555Z",
   "version": 1
 }

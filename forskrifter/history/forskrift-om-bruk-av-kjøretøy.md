@@ -1,6 +1,11 @@
 # forskrift-om-bruk-av-kjøretøy — Change history
 
-_4 events; doc_id `sf-19900125-0092`._
+_5 events; doc_id `sf-19900125-0092`._
+
+## 2026-05-14 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-bruk-av-kjøretøy`
+Commit: `394bb1b`.
 
 ## 2026-05-08 — Content updated
 Lines: +4 -4.

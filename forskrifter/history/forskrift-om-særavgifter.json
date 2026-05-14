@@ -2,6 +2,16 @@
   "doc_id": "sf-20011211-1451",
   "events": [
     {
+      "commit": "6192c85",
+      "date": "2026-05-14",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-særavgifter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

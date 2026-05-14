@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2889",
   "events": [
     {
+      "commit": "ceb4b6e",
+      "date": "2026-05-14",
+      "from_path": null,
+      "lines_added": 149,
+      "lines_removed": 0,
+      "subject": "update(forskrift): forskrift-om-regulering-av-fiske-i-oslofjorden",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

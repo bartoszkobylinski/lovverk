@@ -1,6 +1,11 @@
 # forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett — Change history
 
-_4 events; doc_id `sf-20210315-1008`._
+_5 events; doc_id `sf-20210315-1008`._
+
+## 2026-05-14 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-trekningskretser-for-meddommere-ved-buskerud-tingrett`
+Commit: `3b834cd`.
 
 ## 2026-05-04 — Content updated
 Lines: +3 -3.

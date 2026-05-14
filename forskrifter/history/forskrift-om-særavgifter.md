@@ -1,6 +1,11 @@
 # forskrift-om-særavgifter — Change history
 
-_4 events; doc_id `sf-20011211-1451`._
+_5 events; doc_id `sf-20011211-1451`._
+
+## 2026-05-14 — Content updated
+Lines: +8 -4.
+Subject: `update(forskrift): forskrift-om-særavgifter`
+Commit: `6192c85`.
 
 ## 2026-05-04 — Content updated
 Lines: +28 -22.

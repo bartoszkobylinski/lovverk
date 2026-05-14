@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260512-0793",
+  "events": [
+    {
+      "commit": "373c54f",
+      "date": "2026-05-14",
+      "from_path": null,
+      "lines_added": 152,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet"
+}
