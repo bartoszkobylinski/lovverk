@@ -9,22 +9,24 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2025-08-15"
-last_change_in_force: null
+last_change_in_force: "2026-05-11"
 last_updated: null
-xml_hash: "7319f179c40c114faf2bc0c7533de0e88d9ea3a63ea1a022ee458c97f217baa8"
+xml_hash: "a8c44d8f5c53c7c94920a308eddc006aaf450b662a20a8f8782da1b502622e0a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om opprettelse av et harmonisert europeisk rapporteringssystem for sjøfart
 
-## § 1. Gjennomføring av forordning (EU) 2019/1239, forordning (EU) 2023/204 og forordning (EU) 2023/205 i norsk rett
+## § 1. Gjennomføring av forordninger i norsk rett
 
-Følgende forordninger inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) gjelder som forskrift med tilpasningene som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig:forordning [(EU) 2019/1239](eu/32019r1239) om opprettelse av et harmonisert europeisk rapporteringssystem for sjøfart, jf. vedlegg XIII nr. 56la, med endringene som følger av:forordning [(EU) 2023/205](eu/32023r0205)forordning [(EU) 2023/204](eu/32023r0204) om fastsettelse av tekniske spesifikasjoner, standarder og prosedyrer for det harmoniserte europeiske rapporteringssystemet for sjøfart, jf. vedlegg XIII nr. 56labforordning [(EU) 2023/205](eu/32023r0205) om opprettelse av et datasett for det harmoniserte europeiske rapporteringssystemet for sjøfart, jf. vedlegg XIII nr. 56lab og nr. 56 laa.
+Følgende forordninger inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) gjelder som forskrift med tilpasningene som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig:forordning [(EU) 2019/1239](eu/32019r1239) om opprettelse av et harmonisert europeisk rapporteringssystem for sjøfart, jf. vedlegg XIII nr. 56la, med endringene som følger av:forordning [(EU) 2023/205](eu/32023r0205)forordning [(EU) 2023/204](eu/32023r0204) om fastsettelse av tekniske spesifikasjoner, standarder og prosedyrer for det harmoniserte europeiske rapporteringssystemet for sjøfart, jf. vedlegg XIII nr. 56labforordning [(EU) 2023/205](eu/32023r0205) om opprettelse av et datasett for det harmoniserte europeiske rapporteringssystemet for sjøfart, jf. vedlegg XIII nr. 56lab og nr. 56 laa.forordning [(EU) 2023/2790](eu/32023r2790) om fastsettelse av funksjonelle og tekniske spesifikasjoner for rapporteringsmodul, jf. vedlegg XIII nr. 56lac.
+
+> Endret ved forskrift [11 mai 2026 nr. 792](forskrift/2026-05-11-792).
 
 ## § 2. Nasjonal koordinator for det harmoniserte europeiske rapporteringssystemet for sjøfart
 
