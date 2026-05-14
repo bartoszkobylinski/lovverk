@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-05-08"
 last_change_in_force: null
 last_updated: null
-xml_hash: "9310eea47126f31abdeb9b1aecc1f99ab93a15bbe3d098d557aa124d8e21e7f3"
+xml_hash: "d98e65cb57e9a74a9bd2623f12936047bb2c55083b4de32726260f94835ab824"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-13T06:46:02.636283+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med forskriften er å legge til rette for distriktstilskudd for tilskuddsåret 2025/2026 til de nyopprettede reinbeitedistriktene etter deling av reinbeitedistrikt 16, på grunnlag av at distriktene ikke kan innvilges tilskudd etter [forskrift om tilskudd til reinbeitedistrikter og reinlag](forskrift/2022-12-21-2468), jf. forskrift om tilskudd til reinbeitedistrikter og reinlag § 1-10.
+Formålet med forskriften er å legge til rette for distriktstilskudd for tilskuddsåret 2025/2026 til de nyopprettede reinbeitedistriktene etter deling av reinbeitedistrikt 16, på grunnlag av at distriktene ikke kan innvilges tilskudd etter [forskrift om tilskudd til reinbeitedistrikter og reinlag](forskrift/2022-12-21-2468), jf. [forskrift om tilskudd til reinbeitedistrikter og reinlag § 1-10](forskrift/2022-12-21-2468/§1-10).
 
 Tilskudd til beredskapfond skal legge til rette for reinbeitedistriktenes nødvendige tiltak i forbindelse med beitekriser.
 
