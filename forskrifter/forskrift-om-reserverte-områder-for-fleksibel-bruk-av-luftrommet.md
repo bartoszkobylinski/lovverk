@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2024-09-10"
-last_change_in_force: "2025-06-12"
+last_change_in_force: "2026-05-14"
 last_updated: null
-xml_hash: "b5a039adeb12c2d7811f607dc561031c9bff5130e5e20a9bb2a12abf5a7b03d8"
+xml_hash: "5cbaf8e58bbd7adfc385ed2ffb22dc181d25c4ac70f6c5ec10b1fc439599eee1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-14T06:44:22.849555+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,9 @@ De reserverte områdenes horisontale utstrekning er begrenset av rette linjer me
 
 De reserverte områdenes vertikale utstrekning går fra bakken eller vannet og opp til flygenivå 660.
 
-De reserverte områdene skal bare aktiveres og brukes i samsvar med «Procedure on Use of AMC Manageable Areas, Edition 8.0, 12.06.2025» med tilhørende vedlegg 1 til 4.
+De reserverte områdene skal bare aktiveres og brukes i samsvar med «Procedure on Use of AMC Manageable Areas, Edition 9.0, 14.05.2026» med tilhørende vedlegg 1 til 4.
 
-> Endret ved forskrift [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025).
+> Endret ved forskrifter [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025), [11 mai 2026 nr. 775](forskrift/2026-05-11-775) (i kraft 14 mai 2026).
 
 ## § 3. Luftromsrestriksjoner
 
@@ -60,10 +60,10 @@ Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter [luftfartsloven 
 
 Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 4. november 2021 nr. 3149 om opprettelse av reserverte områder for fleksibel bruk av luftrommet i Sør-Norge](forskrift/2021-11-04-3149).
 
-## Vedlegg 1. FUA-koordinater
+## Vedlegg 1 til forskrift om reserverte områder for fleksibel bruk av luftrommet – FUA-koordinater
 
-> Endret ved forskrift [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025).
+> Endret ved forskrifter [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025), [11 mai 2026 nr. 775](forskrift/2026-05-11-775) (i kraft 14 mai 2026).
 
-## Procedure on Use of AMC Manageable areas. Edition 8.0
+## Procedure on Use of AMC Manageable areas. Edition 9.0
 
-> Endret ved forskrift [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025).
+> Endret ved forskrifter [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025), [11 mai 2026 nr. 775](forskrift/2026-05-11-775) (i kraft 14 mai 2026).
