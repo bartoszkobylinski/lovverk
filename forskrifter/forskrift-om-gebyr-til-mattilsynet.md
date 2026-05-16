@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2026-05-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "38d8ae87940eb5edf9b847647770a040d779f085f0cf6e0a741aa936e2ceb924"
+xml_hash: "0d238f30cec515a26a42d4e9bc5389a312a5d7993cef4b064a51865d3f4a9847"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-05-16T06:19:44.356932+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -283,24 +283,6 @@ Denne forskriften trer i kraft 15. mai 2026.
 Samtidig oppheves følgende forskrifter:[forskrift 27. desember 2005 nr. 1726 om gebyr til dekning av utgifter ved kjøttkontroll](forskrift/2005-12-27-1726),[forskrift 3. april 2017 nr. 426 om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg](forskrift/2017-04-03-426),[forskrift 3. mars 2010 nr. 307 om betaling av gebyr for veterinær grensekontroll](forskrift/2010-03-03-307),[forskrift 13. februar 2004 nr. 406 om betaling av gebyrer for særskilte ytelser fra Mattilsynet](forskrift/2004-02-13-406) og[forskrift 28. januar 2004 nr. 221 om gebyr i matforvaltningen](forskrift/2004-01-28-221).
 
 ### § 8-5. Endringer i andre forskrifter
-
-Virksomheter og virksomhetsgrupper som er omfattet av registrerings- og kontrollordningen skal betale årlig gebyr for tilsyn og kontroll, jf. [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet, kapittel III](forskrift/2026-04-27-745/kapIII).
-
-Det skal betales et gebyr for behandling av søknad etter [§ 5](forskrift/2022-06-11-1171/§5) om innmelding i registrerings- og kontrollordningen for økologisk produksjon, jf. [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel II](forskrift/2026-04-27-745/kapII), [vedlegg 1](forskrift/2026-04-27-745/vedlegg1) del D.
-
-Det skal betales gebyr for offentlig kontroll ved import som omfattes av denne forskriften § 2.
-
-Gebyret fastsettes i henhold til [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel V](forskrift/2026-04-27-745/kapV).
-
-Det skal betales gebyr for offentlig kontroll ved import som omfattes av denne forskriften.
-
-Gebyret fastsettes i henhold til [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel V](forskrift/2026-04-27-745/kapV).
-
-Det skal betales gebyr for offentlig kontroll ved import som omfattes av denne forskriften § 2.
-
-Gebyret fastsettes i henhold til [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel V](forskrift/2026-04-27-745/kapV).
-
-Virksomhetene skal betale gebyr etter [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel II](forskrift/2026-04-27-745/kapII), [vedlegg 1](forskrift/2026-04-27-745/vedlegg1) del B, for Mattilsynets behandling av:meldinger etter [§ 4](forskrift/2010-02-26-247/§4) om tilsetning av vitaminer eller mineraler til næringsmidler, unntatt kosttilskudd ogmeldinger etter [§ 9](forskrift/2010-02-26-247/§9) og søknader etter [§ 10](forskrift/2010-02-26-247/§10) om tillatelse til tilsetning av «andre stoffer» til næringsmidler, herunder kosttilskudd
 
 ## Vedlegg 1
 
