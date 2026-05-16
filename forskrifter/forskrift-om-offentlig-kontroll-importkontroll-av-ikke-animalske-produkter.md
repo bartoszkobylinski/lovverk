@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2020-04-07"
-last_change_in_force: "2026-02-26"
+last_change_in_force: "2026-05-15"
 last_updated: "2025-01-29"
-xml_hash: "30225f2ae73efa0969792e7267dea39ba93439424e6b943b21c0d3234d99c38d"
+xml_hash: "2b35d409e7bf78c79437b5664507b8dda538b37a3483f42f157ee4fd1921e890"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-05-16T06:19:44.356932+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,21 +44,17 @@ Ved konflikt mellom forordningens bestemmelser og denne bestemmelse, går alltid
 
 > Endret ved [forskrifter 20 mai 2020 nr. 1075](forskrift/2020-05-20-1075) (i kraft 27 mai 2020), [26 okt 2020 nr. 2152](forskrift/2020-10-26-2152), [30 april 2021 nr. 1475](forskrift/2021-04-30-1475) (i kraft 5 mai 2021), [8 nov 2021 nr. 3215](forskrift/2021-11-08-3215) (i kraft 23 nov 2021), [4 jan 2022 nr. 12](forskrift/2022-01-04-12) (i kraft 6 jan 2022), [30 juni 2022 nr. 1389](forskrift/2022-06-30-1389) (i kraft 3 juli 2022), [3 feb 2023 nr. 162](forskrift/2023-02-03-162) (i kraft 16 feb 2023), [23 juni 2023 nr. 1304](forskrift/2023-06-23-1304) (i kraft 27 juni 2023), [26 jan 2024 nr. 132](forskrift/2024-01-26-132) (i kraft 6 feb 2024), [24 juni 2024 nr. 1312](forskrift/2024-06-24-1312) (i kraft 2 juli 2024), [6 jan 2025 nr. 11](forskrift/2025-01-06-11) (i kraft 8 jan 2025), [1 aug 2025 nr. 1593](forskrift/2025-08-01-1593) (i kraft 12 aug 2025), [26 feb 2026 nr. 295](forskrift/2026-02-26-295).
 
-## § 3. Plikt til å betale gebyr
+## § 3. Gebyr
 
-Driftsansvarlig for næringsmiddel- eller fôrforetaket eller dennes representant skal betale gebyr for offentlig kontroll ved import av forsendelser med fôrvarer og næringsmidler som omfattes av denne forskriften [§ 2](forskrift/2020-03-09-717/§2). Gebyr skal også betales dersom tilsyn og kontroll har resultert i avvisning eller destruksjon av varepartiet.
+Det skal betales gebyr for offentlig kontroll ved import som omfattes av denne forskriften § 2.
 
-Betalingen skal foretas før fortolling, transittering eller innleggelse på tollager eller som følge av vedtak om avvisning eller destruksjon. Alternativt kan driftsansvarlig for næringsmiddel- eller fôrforetaket eller dennes representant stille sikkerhet for betaling av gebyret.
+Gebyret fastsettes i henhold til [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel V](forskrift/2026-04-27-745/kapV).
 
-> **Endres** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+> Endret ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
-## § 4. Gebyr
+## § 4. (Opphevet)
 
-Driftsansvarlig for fôr- eller næringsmiddelforetaket eller dennes representant skal betale gebyr for den offentlige kontrollen ved import av forsendelser av fôrvarer og næringsmidler.
-
-For import av forsendelser av fôrvarer og næringsmidler skal det betales:kr 1 850 per forsendelse for dokumentkontroll,kr 925,00 per time eller kr 462,50 per påbegynt halvtime når det gjennomføres identitetskontroll og fysisk kontroll av forsendelsen, ogkostnadene for analyseprøvene for forsendelsen.
-
-> Endret ved forskrifter [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+> Endret ved forskrifter [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026), opphevet ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 5. Tilsyn og vedtak
 
