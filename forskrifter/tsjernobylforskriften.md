@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2020-08-24"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-05-15"
 last_updated: null
-xml_hash: "7b516c47ed608fbf8462c8f840ff2fc4fd3263f4e0651ce04e128e94c52c8cb7"
+xml_hash: "a097ecc25cd77fb365ce4044c4091ac93ac9f22e02eb3d4f4d23856ba7b6bebd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-05-16T06:19:44.356932+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,21 +38,17 @@ Forskriften omfatter ikke forsendelser med bruttovekt på under 10 kg for ferskv
 
 > Endret ved forskrift [6 feb 2024 nr. 208](forskrift/2024-02-06-208).
 
-## § 3. Plikt til å betale gebyr
+## § 3. Gebyr
 
-Driftsansvarlig for næringsmiddel- eller fôrforetaket eller dennes representant skal betale gebyr for offentlig kontroll ved import av forsendelser med fôrvarer og næringsmidler som omfattes av denne forskriften [§ 2](forskrift/2020-08-24-1675/§2). Gebyr skal også betales dersom tilsyn og kontroll har resultert i avvisning eller destruksjon av varepartiet.
+Det skal betales gebyr for offentlig kontroll ved import som omfattes av denne forskriften § 2.
 
-Betalingen skal foretas før fortolling, transittering eller innleggelse på tollager eller som følge av vedtak om avvisning eller destruksjon. Alternativt kan driftsansvarlig for næringsmiddel- eller fôrforetaket eller dennes representant stille sikkerhet for betaling av gebyret.
+Gebyret fastsettes i henhold til [forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel V](forskrift/2026-04-27-745/kapV).
 
-> **Endres** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+> Endret ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
-## § 4. Gebyr
+## § 4. (Opphevet)
 
-Driftsansvarlig for fôr- eller næringsmiddelforetaket eller dennes representant skal betale gebyr for den offentlige kontrollen ved import av forsendelser av fôrvarer og næringsmidler.
-
-For import av forsendelser av fôrvarer og næringsmidler skal det betales:kr 1 850 per forsendelse for dokumentkontroll,kr 925,00 per time eller kr 462,50 per påbegynt halvtime når det gjennomføres identitetskontroll og fysisk kontroll av forsendelsen, ogkostnadene for analyseprøvene for forsendelsen.
-
-> Endret ved forskrifter [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026). **Oppheves** ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
+> Endret ved forskrifter [23 des 2020 nr. 3173](forskrift/2020-12-23-3173) (i kraft 1 jan 2021), [21 des 2021 nr. 3934](forskrift/2021-12-21-3934) (i kraft 1 jan 2022), [20 des 2022 nr. 2372](forskrift/2022-12-20-2372) (i kraft 1 jan 2023), [18 des 2023 nr. 2174](forskrift/2023-12-18-2174) (i kraft 1 jan 2024), [19 des 2024 nr. 3318](forskrift/2024-12-19-3318) (i kraft 1 jan 2025), [19 des 2025 nr. 2824](forskrift/2025-12-19-2824) (i kraft 1 jan 2026), opphevet ved forskrift [27 april 2026 nr. 745](forskrift/2026-04-27-745) (i kraft 15 mai 2026).
 
 ## § 5. Tilsyn og vedtak
 
