@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-05-12"
 last_change_in_force: null
 last_updated: null
-xml_hash: "cc73bf83e63ae7836d5603c654d7429a08dc11d475d54e3d0e50c6b8e9500c2c"
+xml_hash: "5b63c7c871a8afafff85ef4fd108ffcc4bd77d20e75467ae1d80d2d855874aa3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-14T06:44:22.849555+00:00"
+retrieved_at: "2026-05-16T06:19:44.356932+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,7 @@ Garantikassen for fiskere kan i særlige tilfeller dispensere fra vilkårene i [
 
 Tilskudd tildeles når alle søknader er mottatt i henhold til søknadsfristen og behandlet. Tilskuddet er en engangsutbetaling. Midlene på ordningen fordeles likt mellom fartøyene som kvalifiserer for tilskudd. Mottaker av tilskudd kan motta inntil 3,5 millioner kroner.
 
-Tilskuddsmottaker må innen tre uker fra underretning om tilskuddet er mottatt, bekrefte aksept av tilskuddet. Aksept av tilskudd innebærer at en eller flere medeiere i fartøyet ikke lenger kan delta i fiske etter reker og kreps med trål i Oslofjorden i henhold til forskrift 19. desember 2025 nr. 2889 om regulering av fiske i Oslofjorden § 8a. Tilskudd skal ikke utbetales før de aktuelle medeierne har bekreftet skriftlig at de er orientert om dette fiskeforbudet.
+Tilskuddsmottaker må innen tre uker fra underretning om tilskuddet er mottatt, bekrefte aksept av tilskuddet. Aksept av tilskudd innebærer at en eller flere medeiere i fartøyet ikke lenger kan delta i fiske etter reker og kreps med trål i Oslofjorden i henhold til [forskrift 19. desember 2025 nr. 2889 om regulering av fiske i Oslofjorden § 8a](forskrift/2025-12-19-2889/§8a). Tilskudd skal ikke utbetales før de aktuelle medeierne har bekreftet skriftlig at de er orientert om dette fiskeforbudet.
 
 En del av midlene vil bli reservert inntil eventuelle klager er behandlet. Når fristen for klage er utløpt og eventuelle klager er behandlet, foretar Garantikassen et sluttoppgjør.
 
