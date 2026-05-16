@@ -1,6 +1,11 @@
 # forskrift-om-tiltak-ved-risimport-fra-kina — Change history
 
-_4 events; doc_id `sf-20120112-0035`._
+_5 events; doc_id `sf-20120112-0035`._
+
+## 2026-05-16 — Content updated
+Lines: +9 -11.
+Subject: `update(forskrift): forskrift-om-tiltak-ved-risimport-fra-kina`
+Commit: `42c245d`.
 
 ## 2026-05-09 — Content updated
 Lines: +5 -3.

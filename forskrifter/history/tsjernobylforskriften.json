@@ -2,6 +2,16 @@
   "doc_id": "sf-20200824-1675",
   "events": [
     {
+      "commit": "dbf075a",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 13,
+      "subject": "update(forskrift): tsjernobylforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2418d8f",
       "date": "2026-05-09",
       "from_path": null,

@@ -1,6 +1,11 @@
 # forskrift-om-vitamintilsetning-mv-til-næringsmidler — Change history
 
-_4 events; doc_id `sf-20100226-0247`._
+_5 events; doc_id `sf-20100226-0247`._
+
+## 2026-05-16 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-vitamintilsetning-mv-til-næringsmidler`
+Commit: `af5e874`.
 
 ## 2026-05-09 — Content updated
 Lines: +3 -3.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20100226-0247",
   "events": [
     {
+      "commit": "af5e874",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-vitamintilsetning-mv-til-næringsmidler",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "41d46d9",
       "date": "2026-05-09",
       "from_path": null,

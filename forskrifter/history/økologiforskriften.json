@@ -2,6 +2,16 @@
   "doc_id": "sf-20220611-1171",
   "events": [
     {
+      "commit": "66b5751",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 15,
+      "lines_removed": 33,
+      "subject": "update(forskrift): økologiforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e57c716",
       "date": "2026-05-09",
       "from_path": null,

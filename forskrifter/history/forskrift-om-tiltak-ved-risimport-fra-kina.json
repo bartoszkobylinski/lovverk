@@ -2,6 +2,16 @@
   "doc_id": "sf-20120112-0035",
   "events": [
     {
+      "commit": "42c245d",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 11,
+      "subject": "update(forskrift): forskrift-om-tiltak-ved-risimport-fra-kina",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6b7b6a7",
       "date": "2026-05-09",
       "from_path": null,

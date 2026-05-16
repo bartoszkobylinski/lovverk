@@ -2,6 +2,16 @@
   "doc_id": "sf-20260427-0745",
   "events": [
     {
+      "commit": "1122b69",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 20,
+      "subject": "update(forskrift): forskrift-om-gebyr-til-mattilsynet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "98b05fa",
       "date": "2026-05-09",
       "from_path": null,

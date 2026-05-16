@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3426 current documents_
+_3421 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -516,7 +516,6 @@ _3426 current documents_
 - [forskrift-om-beskyttelsestollavgift-landbruksvarer](forskrift-om-beskyttelsestollavgift-landbruksvarer.md) — Forskrift om økning i tollavgift – beskyttelsestollavgift – på landbruksvarer
 - [forskrift-om-bestemmelser-til-luftfartsloven](forskrift-om-bestemmelser-til-luftfartsloven.md) — Forskrift om gjennomføringsbestemmelser til luftfartsloven.
 - [forskrift-om-betaling-av-bompenger-på-offentlig-veg](forskrift-om-betaling-av-bompenger-på-offentlig-veg.md) — Forskrift om betaling av bompenger på offentlig veg
-- [forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll](forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll.md) — Forskrift om betaling av gebyr for veterinær grensekontroll
 - [forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta](forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta.md) — Forskrift om betaling frå pasientar for poliklinisk helsehjelp i spesialisthelsetenesta
 - [forskrift-om-betalinger-mv-til-patentstyret-og-kfir](forskrift-om-betalinger-mv-til-patentstyret-og-kfir.md) — Forskrift om betalinger mv. til Patentstyret og Klagenemnda for industrielle rettigheter
 - [forskrift-om-betalingsløsning-for-betaling-ved-lading-av-elektrisk-drevet-kjøretøy](forskrift-om-betalingsløsning-for-betaling-ved-lading-av-elektrisk-drevet-kjøretøy.md) — Forskrift om betalingsløsning for betaling ved lading av elektrisk drevet kjøretøy
@@ -1003,7 +1002,6 @@ _3426 current documents_
 - [forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv](forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv.md) — Forskrift om gebyr for utstedelse av sertifikater og påtegninger til maritimt personell og for utstedelse av båtførerbevis til båtførere mv.
 - [forskrift-om-gebyr-for-visse-overtredelser-av-vegtrafikklovgivningen](forskrift-om-gebyr-for-visse-overtredelser-av-vegtrafikklovgivningen.md) — Forskrift om gebyr for visse overtredelser av vegtrafikklovgivningen
 - [forskrift-om-gebyr-for-visse-overtredelser-av-yrkestransportregelverket](forskrift-om-gebyr-for-visse-overtredelser-av-yrkestransportregelverket.md) — Forskrift om gebyr for visse overtredelser av yrkestransportregelverket
-- [forskrift-om-gebyr-i-matforvaltningen](forskrift-om-gebyr-i-matforvaltningen.md) — Forskrift om gebyr i matforvaltningen
 - [forskrift-om-gebyr-når-kommunene-utøver-namskompetanse-etter-tvangsfullbyrdelsesloven-kapittel-2-avsnitt-ii](forskrift-om-gebyr-når-kommunene-utøver-namskompetanse-etter-tvangsfullbyrdelsesloven-kapittel-2-avsnitt-ii.md) — Forskrift om gebyr når kommunene utøver namskompetanse etter tvangsfullbyrdelsesloven kapittel 2 avsnitt II
 - [forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet](forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet.md) — Forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet
 - [forskrift-om-gebyr-til-brønnøysundregistrene](forskrift-om-gebyr-til-brønnøysundregistrene.md) — Forskrift om gebyr til Brønnøysundregistrene
@@ -1011,11 +1009,9 @@ _3426 current documents_
 - [forskrift-om-gebyr-til-mattilsynet](forskrift-om-gebyr-til-mattilsynet.md) — Forskrift om gebyr til Mattilsynet
 - [forskrift-om-gebyr-ved-behandling-av-søknad-om-autorisasjon-lisens-spesialistgodkjenning-og-godkjenning-av-etterutdanning-for-spesialister](forskrift-om-gebyr-ved-behandling-av-søknad-om-autorisasjon-lisens-spesialistgodkjenning-og-godkjenning-av-etterutdanning-for-spesialister.md) — Forskrift om gebyr ved behandling av søknad om autorisasjon, lisens, spesialistgodkjenning og godkjenning av etterutdanning for spesialister
 - [forskrift-om-gebyr-ved-norges-utenriksstasjoner](forskrift-om-gebyr-ved-norges-utenriksstasjoner.md) — Forskrift om gebyr ved Norges utenriksstasjoner
-- [forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv](forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv.md) — Forskrift om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg
 - [forskrift-om-gebyrer-akvakulturvirksomhet](forskrift-om-gebyrer-akvakulturvirksomhet.md) — Forskrift om gebyr og avgift i forbindelse med akvakulturvirksomhet
 - [forskrift-om-gebyrer-for-norsk-akkrediterings-tjenester](forskrift-om-gebyrer-for-norsk-akkrediterings-tjenester.md) — Forskrift om gebyrer for Norsk akkrediterings tjenester
 - [forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio](forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio.md) — Forskrift om gebyrer for utstedelse av radiooperatørsertifikat og lisenser til skipsradio
-- [forskrift-om-gebyrer-til-mattilsynet](forskrift-om-gebyrer-til-mattilsynet.md) — Forskrift om betaling av gebyrer for særskilte ytelser fra Mattilsynet
 - [forskrift-om-gebyrinnkreving-ved-petroleumstilsyn](forskrift-om-gebyrinnkreving-ved-petroleumstilsyn.md) — Forskrift om adgang til å kreve gebyr og sektoravgift for tilsyn og annen oppfølging med arbeidsmiljø og sikkerhet i petroleumsvirksomheten
 - [forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning](forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning.md) — Forskrift om generell godkjenning av utenlandsk høyere utdanning
 - [forskrift-om-genetisk-masseundersøkelse](forskrift-om-genetisk-masseundersøkelse.md) — Forskrift om genetisk masseundersøkelse av nyfødte
@@ -1273,7 +1269,6 @@ _3426 current documents_
 - [forskrift-om-kjøretøykrav-for-jernbanenettet](forskrift-om-kjøretøykrav-for-jernbanenettet.md) — Forskrift om referansedokument for krav til kjøretøy på det nasjonale jernbanenettet
 - [forskrift-om-kjøring-med-motorvogn-i-terreng-mv](forskrift-om-kjøring-med-motorvogn-i-terreng-mv.md) — Forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel.
 - [forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart](forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart.md) — Forskrift om kjøring på lukket bane eller annet avsperret område og om annen bruk av gokart
-- [forskrift-om-kjøttkontrollgebyr](forskrift-om-kjøttkontrollgebyr.md) — Forskrift om gebyr til dekning av utgifter ved kjøttkontroll
 - [forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv](forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv.md) — Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.
 - [forskrift-om-klagenemnd-for-husbanken](forskrift-om-klagenemnd-for-husbanken.md) — Forskrift om klagenemnd for Husbanken
 - [forskrift-om-klagenemnd-for-offentlige-anskaffelser](forskrift-om-klagenemnd-for-offentlige-anskaffelser.md) — Forskrift om klagenemnd for offentlige anskaffelser

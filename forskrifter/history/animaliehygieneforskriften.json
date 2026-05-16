@@ -2,6 +2,16 @@
   "doc_id": "sf-20081222-1624",
   "events": [
     {
+      "commit": "a2fa82e",
+      "date": "2026-05-16",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 13,
+      "subject": "update(forskrift): animaliehygieneforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "adf6298",
       "date": "2026-05-09",
       "from_path": null,

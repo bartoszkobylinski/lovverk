@@ -1,6 +1,11 @@
 # animaliehygieneforskriften — Change history
 
-_4 events; doc_id `sf-20081222-1624`._
+_5 events; doc_id `sf-20081222-1624`._
+
+## 2026-05-16 — Content updated
+Lines: +5 -13.
+Subject: `update(forskrift): animaliehygieneforskriften`
+Commit: `a2fa82e`.
 
 ## 2026-05-09 — Content updated
 Lines: +3 -3.

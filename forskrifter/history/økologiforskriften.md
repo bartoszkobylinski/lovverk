@@ -1,6 +1,11 @@
 # økologiforskriften — Change history
 
-_5 events; doc_id `sf-20220611-1171`._
+_6 events; doc_id `sf-20220611-1171`._
+
+## 2026-05-16 — Content updated
+Lines: +15 -33.
+Subject: `update(forskrift): økologiforskriften`
+Commit: `66b5751`.
 
 ## 2026-05-09 — Content updated
 Lines: +8 -6.
