@@ -1,6 +1,16 @@
 # plantevernmiddelrestforskriften — Change history
 
-_2 events; doc_id `sf-20090818-1117`._
+_4 events; doc_id `sf-20090818-1117`._
+
+## 2026-05-19 — Content updated
+Lines: +9 -9.
+Subject: `update(forskrift): plantevernmiddelrestforskriften`
+Commit: `08282ea`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20090818-1117.md` → `forskrifter/plantevernmiddelrestforskriften.md`.

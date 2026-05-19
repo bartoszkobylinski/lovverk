@@ -1,6 +1,16 @@
 # forskrift-om-periodisk-kjøretøykontroll-pkk — Change history
 
-_2 events; doc_id `sf-20090513-0591`._
+_4 events; doc_id `sf-20090513-0591`._
+
+## 2026-05-19 — Content updated
+Lines: +8 -20.
+Subject: `update(forskrift): forskrift-om-periodisk-kjøretøykontroll-pkk`
+Commit: `ccb4da7`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20090513-0591.md` → `"forskrifter/forskrift-om-periodisk-kj\303\270ret\303\270ykontroll-pkk.md"`.

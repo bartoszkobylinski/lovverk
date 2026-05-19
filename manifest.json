@@ -22366,19 +22366,6 @@
       "total_changes": null,
       "xml_hash": "953afe6e80902eb798e61841de38fb0f87e5b3de1e94c3ae0b86e502c5bcaae4"
     },
-    "sf-20040128-0221": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/forskrift-om-gebyr-i-matforvaltningen.md",
-      "slug": "forskrift-om-gebyr-i-matforvaltningen",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om gebyr i matforvaltningen",
-      "total_changes": null,
-      "xml_hash": "d7bc5f262be2b0a4d1756ecd8d4afffe3ec5abc6e7daaf2ebf561c211b3fb441"
-    },
     "sf-20040128-0424": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -22456,19 +22443,6 @@
       "title": "Forskrift om beskyttelse av produktbetegnelsen Økologisk Tjukkmjølk fra Røros som Beskyttet geografisk betegnelse.",
       "total_changes": null,
       "xml_hash": "93e31d3063cb24dbd1c761e16249d5be24a45c6d356dde4e1462bc3d71291264"
-    },
-    "sf-20040213-0406": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/forskrift-om-gebyrer-til-mattilsynet.md",
-      "slug": "forskrift-om-gebyrer-til-mattilsynet",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om betaling av gebyrer for særskilte ytelser fra Mattilsynet",
-      "total_changes": null,
-      "xml_hash": "0daf0ed23563232663cee7da313f5ee5936485778a1c7c9de0f1885119db6f36"
     },
     "sf-20040216-0426": {
       "doc_type": "forskrift",
@@ -22759,15 +22733,15 @@
     "sf-20040601-0922": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/produktforskriften.md",
       "slug": "produktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
-      "total_changes": null,
-      "xml_hash": "9881661cd1eb50687737de88ef7574b165a14de8088c2a66e4b93dbf7a094924"
+      "total_changes": 4,
+      "xml_hash": "1e5e98146dca20b44ba86739caf86f66b2c4dab64057233d53e63ac0b19efe03"
     },
     "sf-20040601-0930": {
       "doc_type": "forskrift",
@@ -24277,19 +24251,6 @@
       "total_changes": null,
       "xml_hash": "0445f2e32b20d84f2ae7e8b02669253bac6f945cd3f72a0d14c3c3ed9dd2cd0f"
     },
-    "sf-20051227-1726": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/forskrift-om-kjøttkontrollgebyr.md",
-      "slug": "forskrift-om-kjøttkontrollgebyr",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om gebyr til dekning av utgifter ved kjøttkontroll",
-      "total_changes": null,
-      "xml_hash": "2982048463520c2d519b639da5e9118b803712aa55cd508ab77804177661df83"
-    },
     "sf-20051228-1706": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -25229,15 +25190,15 @@
     "sf-20070209-0149": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/forskrift-om-sanksjoner-og-tiltak-mot-iran.md",
       "slug": "forskrift-om-sanksjoner-og-tiltak-mot-iran",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om sanksjoner og tiltak mot Iran",
-      "total_changes": null,
-      "xml_hash": "5b50a6b7b0ff7d1085b473e052bb14a4496cf8fb414ca32c9e47355e652e0fa8"
+      "total_changes": 4,
+      "xml_hash": "3098fabbe7cef4e5409475d9ee30e48aeff2ac16c33f6c59efbf95d2b9565b90"
     },
     "sf-20070209-0151": {
       "doc_type": "forskrift",
@@ -27309,15 +27270,15 @@
     "sf-20090513-0591": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/forskrift-om-periodisk-kjøretøykontroll-pkk.md",
       "slug": "forskrift-om-periodisk-kjøretøykontroll-pkk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om periodisk kontroll av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "1f8c1193545eee76ca63fdd11ee0944bbd54d3bf4dbe5c612bddf42aa79d102d"
+      "total_changes": 4,
+      "xml_hash": "fd01545ada6bb25b116c6faf08f0876e8c2c0a3ae2450be3c82d25ae8ca4baa9"
     },
     "sf-20090520-0534": {
       "doc_type": "forskrift",
@@ -27686,15 +27647,15 @@
     "sf-20090818-1117": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/plantevernmiddelrestforskriften.md",
       "slug": "plantevernmiddelrestforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer",
-      "total_changes": null,
-      "xml_hash": "19881ab053f4f426b0acb60fc4b4557a5341d525ea931b6f21515fa4d7c35224"
+      "total_changes": 4,
+      "xml_hash": "dc57a11cd08bb04a36e261f5ba83fe1109a4dadbd9af7d35282aa945d0f41021"
     },
     "sf-20090821-1148": {
       "doc_type": "forskrift",
@@ -27803,15 +27764,15 @@
     "sf-20091015-1286": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "slug": "utlendingsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 4,
-      "xml_hash": "4547f1f7153c7be91f6ee75788aec6c15d7b178439e6bab59bcdc139678d394b"
+      "total_changes": 5,
+      "xml_hash": "f73f79362918acb8d5bdb9bb361e10ddadce38863ea1d0d18862ceda039e4bce"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -28358,19 +28319,6 @@
       "title": "Forskrift om begrensninger i fisket etter torsk, rognkjeks, makrell, kveite og kongekrabbe med fartøy som ikke er innført i register over merkepliktige norske fiskefartøy (merkeregisteret) eller fra land",
       "total_changes": null,
       "xml_hash": "615f355cadb37b05d94a8c4b99ed3b87b56d59588e3f5a5ac6cd8fc9961c7d2d"
-    },
-    "sf-20100303-0307": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll.md",
-      "slug": "forskrift-om-betaling-av-gebyr-for-veterinær-grensekontroll",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om betaling av gebyr for veterinær grensekontroll",
-      "total_changes": null,
-      "xml_hash": "1879de8e10267d09a74b7260986bafce689536fdab9f63790745e137c52b9019"
     },
     "sf-20100312-0390": {
       "doc_type": "forskrift",
@@ -36743,19 +36691,6 @@
       "title": "Forskrift om overgangsregler til lov 10. februar 2017 nr. 5 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader",
       "total_changes": null,
       "xml_hash": "a398f02bd6b1fbb320d730ce6772fe486e7edb63e2330a169bcff0fe1b1ea882"
-    },
-    "sf-20170403-0426": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv.md",
-      "slug": "forskrift-om-gebyr-ved-tilsyn-og-kontroll-med-fiskehelse-mv",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om gebyr til dekning av utgifter ved tilsyn og kontroll med fiskehelse og fiskevelferd i akvakulturanlegg",
-      "total_changes": null,
-      "xml_hash": "d04decb2cf49ed2291a17a80dd6d686cb6d3e9eaddb9906079aaa931b818abad"
     },
     "sf-20170404-0427": {
       "doc_type": "forskrift",
@@ -45223,15 +45158,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-04-30",
-      "last_seen": "2026-04-30T06:25:40.160175Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 5,
-      "xml_hash": "2690d73c4e6ce5d1788fb032d0a000822dfc407b2f6ed2c302ec4dbd1322964d"
+      "total_changes": 6,
+      "xml_hash": "53886b0846dd2356c0791d91aa6d8bfd35a5857e58c5ee92ffcc4e936643dc76"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -45587,15 +45522,15 @@
     "sf-20220616-1029": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m.md",
       "slug": "forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.",
-      "total_changes": null,
-      "xml_hash": "7f54da4b88a7f3823d13038cae132c3ad6620dd049877e82a25a453e0d64e0af"
+      "total_changes": 4,
+      "xml_hash": "dfb0dfe238f15fd155e607edc51e1593a668c5cc166f2ec8f375bec4cdf70edc"
     },
     "sf-20220617-1045": {
       "doc_type": "forskrift",
@@ -49097,15 +49032,15 @@
     "sf-20240902-2076": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet.md",
       "slug": "forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om krav til og bruk av utstyr i luftfartøyer i Det felles europeiske luftrommet",
-      "total_changes": null,
-      "xml_hash": "696688a4bef55079801765d968c73442ea155f4f1369f6744c8b573b7eed9657"
+      "total_changes": 4,
+      "xml_hash": "0d83d3685063e34df6b7f3e8fb7ce317d30fac52ab2ca0b24c4cc7c951a4ab5a"
     },
     "sf-20240905-2677": {
       "doc_type": "forskrift",
@@ -54180,15 +54115,15 @@
     "sf-20260323-0454": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
       "markdown_path": "forskrifter/finansieringsforskriften.md",
       "slug": "finansieringsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om finansiering av private barnehager (finansieringsforskriften)",
-      "total_changes": null,
-      "xml_hash": "31061c60de31ea9566afbab003ed6adaa4925a9dbf879cd78786a0b88db44d55"
+      "total_changes": 4,
+      "xml_hash": "4a0bd6db48720d503dec405b68113055e9aac60e93929721181a9b74a9403117"
     },
     "sf-20260323-0465": {
       "doc_type": "forskrift",
@@ -54592,8 +54527,21 @@
       "title": "Forskrift om krav til klimagassintensitet for skip som brukes i forbindelse med petroleumsvirksomhet",
       "total_changes": 1,
       "xml_hash": "f57c7fe008d1a3031b212aa087d860459c6f0f3bc32fd80d0b03af5ffaa93dbd"
+    },
+    "sf-20260512-0810": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-19",
+      "last_seen": "2026-05-19T07:43:04.082586Z",
+      "markdown_path": "forskrifter/endr-i-produktforskriften-2.md",
+      "slug": "endr-i-produktforskriften-2",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
+      "total_changes": 5,
+      "xml_hash": "e61cd96e87368355de5a24e02d103f4c9f13aa9c5385e4ff344cfc5c886a383f"
     }
   },
-  "generated_at": "2026-05-16T06:19:44.356932Z",
+  "generated_at": "2026-05-19T07:43:04.082586Z",
   "version": 1
 }

@@ -1,6 +1,16 @@
 # forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet — Change history
 
-_2 events; doc_id `sf-20240902-2076`._
+_4 events; doc_id `sf-20240902-2076`._
+
+## 2026-05-19 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfartøyer-i-det-felles-europeiske-luftrommet`
+Commit: `d6221e8`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20240902-2076.md` → `"forskrifter/forskrift-om-krav-til-og-bruk-av-utstyr-i-luftfart\303\270yer-i-det-felles-europeiske-luftrommet.md"`.

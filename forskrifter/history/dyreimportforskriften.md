@@ -1,6 +1,11 @@
 # dyreimportforskriften — Change history
 
-_5 events; doc_id `sf-20220406-0633`._
+_6 events; doc_id `sf-20220406-0633`._
+
+## 2026-05-19 — Content updated
+Lines: +13 -7.
+Subject: `update(forskrift): dyreimportforskriften`
+Commit: `771a527`.
 
 ## 2026-04-30 — Content updated
 Lines: +14 -74.

@@ -1,6 +1,36 @@
 {
-  "doc_id": "sf-20251211-2608",
+  "doc_id": "sf-20260512-0810",
   "events": [
+    {
+      "commit": "a1880b9",
+      "date": "2026-05-19",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-produktforskriften-2",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 59,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",
