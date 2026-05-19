@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2009-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-05-13"
 last_updated: "2022-02-01"
-xml_hash: "1f8c1193545eee76ca63fdd11ee0944bbd54d3bf4dbe5c612bddf42aa79d102d"
+xml_hash: "fd01545ada6bb25b116c6faf08f0876e8c2c0a3ae2450be3c82d25ae8ca4baa9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-19T07:43:04.082586+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ Kjøretøy som nevnt i [§ 4](forskrift/2009-05-13-591/§4) første ledd bokstav
 
 Kjøretøy som nevnt i [§ 4](forskrift/2009-05-13-591/§4) første ledd bokstav d, e og g skal kontrolleres og godkjennes senest 4 år etter førstegangsregistrering, og deretter senest 2 år etter siste periodiske kontroll.
 
-Bevaringsverdige kjøretøy, jf. [kjøretøyforskriften § 1-9](forskrift/1994-10-04-918/§1-9), som nevnt i [§ 4](forskrift/2009-05-13-591/§4) første ledd bokstav a, b, eller d, som er kontrollert og godkjent når kjøretøyet er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), skal kontrolleres og godkjennes senest 5 år etter siste periodiske kontroll frem til det er 50 år. Kjøretøy som kontrolleres og godkjennes når det er 50 år eller eldre (regnet fra 1. januar i fabrikasjonsåret) gis deretter fritak for kontroll.
+Bevaringsverdige kjøretøy, jf. [kjøretøyforskriften § 1-9](forskrift/1994-10-04-918/§1-9) og [bilforskriften § 6-8](forskrift/2022-06-28-1233/§6-8), som nevnt i [§ 4 første ledd bokstav a](forskrift/2009-05-13-591/§4/ledd/1/bokstav/a), [b](forskrift/2009-05-13-591/§4/ledd/1/bokstav/b), eller [d](forskrift/2009-05-13-591/§4/ledd/1/bokstav/d), som er kontrollert og godkjent når kjøretøyet er 30 år eller eldre (regnet fra 1. januar i fabrikasjonsåret), skal kontrolleres og godkjennes senest 5 år etter siste periodiske kontroll frem til det er 50 år. Kjøretøy som kontrolleres og godkjennes når det er 50 år eller eldre (regnet fra 1. januar i fabrikasjonsåret) gis deretter fritak for kontroll.
 
 For kjøretøy som importeres og registreres i Norge, skal kjøretøyet anses kontrollert og godkjent som om den periodiske kontrollen er gjennomført av godkjent kontrollorgan i Norge, når det fremlegges en godkjent kontrollattest av kjøretøyet fra annen EØS-stat. Dersom et kjøretøy ikke kan fremlegge en godkjent kontrollattest fra annen EØS-stat ved import og registrering i Norge, skal kjøretøyet kontrolleres og godkjennes senest 12 måneder etter registreringen i Norge. Deretter skal det kontrolleres og godkjennes etter gjeldende krav stilt i denne bestemmelsen.
 
@@ -84,7 +84,7 @@ For omregistrering som fører til at kjøretøyet ikke lenger er omfattet av kra
 
 Med periodisk kontroll i første til og med femte ledd menes ikke etterkontroll.
 
-> Endret ved [forskrifter 9 des 2013 nr. 1421](forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [3 sep 2014 nr. 1146](forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [11 april 2016 nr. 368](forskrift/2016-04-11-368) (i kraft 1 okt 2016), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022), [11 mars 2022 nr. 371](forskrift/2022-03-11-371).
+> Endret ved [forskrifter 9 des 2013 nr. 1421](forskrift/2013-12-09-1421) (i kraft 1 jan 2014), [3 sep 2014 nr. 1146](forskrift/2014-09-03-1146) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [11 april 2016 nr. 368](forskrift/2016-04-11-368) (i kraft 1 okt 2016), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022), [11 mars 2022 nr. 371](forskrift/2022-03-11-371), [13 mai 2026 nr. 811](forskrift/2026-05-13-811).
 
 ### § 6. (Opphevet).
 
@@ -172,7 +172,7 @@ Krav til teknisk leder kan også anses oppfylt på bakgrunn av tilsvarende yrkes
 
 ### § 12. Krav til kontrollører
 
-Kontrollør for periodisk kontroll av kjøretøy skal være godkjent av Statens vegvesen. For å få godkjenning som kontrollør må vedkommendeha fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.ha gjennomført grunnopplæring i periodisk kontroll av kjøretøy tilpasset den kjøretøykategorien vedkommende skal godkjennes for, jf. [forskrift 22. mai 2018 nr. 741](forskrift/2018-05-22-741) om opplæring i periodisk kontroll av kjøretøy [§ 5](forskrift/2018-05-22-741/§5).godtgjøre med ordinær politiattest at vandelen er slik at vedkommende anses skikket som kontrollør. Om kontrolløren anses skikket beror på en skjønnsmessig vurdering av om godkjenning ivaretar tilliten til kontrollordningen. Straff for uriktig forklaring til offentlig myndighet, dokumentfalsk, vinningslovbrudd, eller økonomisk kriminalitet vil særlig kunne medføre at kontrolløren ikke anses skikket.
+Kontrollør for periodisk kontroll av kjøretøy skal være godkjent av Statens vegvesen. For å få godkjenning som kontrollør må vedkommendeha fagbrev tilpasset den kjøretøykategorien vedkommende skal godkjennes for.ha gjennomført grunnopplæring i periodisk kontroll av kjøretøy tilpasset den kjøretøykategorien vedkommende skal godkjennes for, jf. [forskrift 22. mai 2018 nr. 741 om opplæring i periodisk kontroll av kjøretøy § 5](forskrift/2018-05-22-741/§5).godtgjøre med ordinær politiattest at vandelen er slik at vedkommende anses skikket som kontrollør. Politiattesten som fremlegges kan ikke være eldre enn 3 måneder. Om kontrolløren anses skikket beror på en skjønnsmessig vurdering av om godkjenning ivaretar tilliten til kontrollordningen. Straff for uriktig forklaring til offentlig myndighet, dokumentfalsk, vinningslovbrudd, eller økonomisk kriminalitet vil særlig kunne medføre at kontrolløren ikke anses skikket.
 
 Kontrollører som selv skal prøvekjøre kjøretøyene de kontrollerer må ha førerett for dette, jf. [forskrift 19. januar 2004 nr. 298](forskrift/2004-01-19-298) om førerkort m.m. Unntak i [førerkortforskriften § 12-2](forskrift/2004-01-19-298/§12-2) første ledd gjelder.
 
@@ -190,7 +190,7 @@ Krav til kontrollør etter første ledd bokstav a, kan også anses oppfylt på b
 
 Statens vegvesen registrerer opplysninger, herunder personopplysninger og vandel, om kontrollører i elektroniske registre i forbindelse med søknader, gjennomført opplæring, godkjenninger, tilsyn og reaksjoner.
 
-> Endret ved [forskrifter 1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 1 des 2012), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022).
+> Endret ved [forskrifter 1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 1 des 2012), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [10 okt 2018 nr. 1568](forskrift/2018-10-10-1568) (i kraft 15 okt 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022), [13 mai 2026 nr. 811](forskrift/2026-05-13-811).
 
 ### § 12a. Gebyr for godkjenning
 
@@ -416,12 +416,6 @@ Til denne forskriften hører også Kontrollinstruks for periodisk kontroll av kj
 
 ### § 31. Overgangsregler
 
-Kravet om fagbrev for kontrollør, jf. [§ 12](forskrift/2009-05-13-591/§12) første ledd bokstav a, gjelder ikke for de som er tilsatt i kontrollorgan før 1. oktober 2018 og som har utført kontroller før denne dato.
-
-Kravet om vandel for kontrollører, jf. [§ 12](forskrift/2009-05-13-591/§12) første ledd bokstav c, gjelder også for personer som er tilsatt i kontrollorgan og har utført periodiske kontroller før 1. oktober 2018. Disse må legge frem ordinær politiattest, jf. [vegtrafikkloven § 19a](lov/1965-06-18-4/§19a), senest 1. oktober 2021. Lovbrudd oppgitt i politiattest som har dato før 1. oktober 2018 skal ikke ha betydning for godkjenningen.
-
-Teknisk leder og kontrollør som er tilsatt som teknisk leder og kontrollør i et kontrollorgan før 1. oktober 2018 og har utført periodiske kontroller før denne dato, og som skal tildeles personlig godkjenning, er unntatt fra kravet om at det skal betales gebyr ved første gangs behandling av søknad om godkjenning, jf. [§ 12a](forskrift/2009-05-13-591/§12a) annet og tredje ledd.
-
 For kjøretøy der siste resultat av periodisk kontroll eller etterkontroll er innrapportert før 8. februar 2019, men som ikke er kontrollert og godkjent etter denne datoen, trer forskriftens [§ 5](forskrift/2009-05-13-591/§5) første, annet, tredje og fjerde ledd, [§ 22](forskrift/2009-05-13-591/§22) annet ledd i kraft ved første innrapporterte kontroll.
 
 For kjøretøy registrert første gang i Norge før 8. februar 2019 trer forskriftens [§ 5](forskrift/2009-05-13-591/§5) første, annet, tredje og fjerde ledd, [§ 22](forskrift/2009-05-13-591/§22) annet ledd i kraft ved første innrapporterte kontroll.
@@ -432,13 +426,7 @@ Krav til periodisk kontroll av traktor, jf. [§ 4](forskrift/2009-05-13-591/§4)
 
 Krav til periodisk kontroll av mobilkraner, jf. [§ 4](forskrift/2009-05-13-591/§4) første ledd bokstav f, trer i kraft 1. februar 2022. Første frist for godkjent periodisk kontroll etter ikrafttredelse, jf. [§ 5](forskrift/2009-05-13-591/§5), kan ikke bli tidligere enn 1. januar 2023.
 
-Kravet om slitasjetester i [§ 8](forskrift/2009-05-13-591/§8) bokstav l gjeldende for kontrollorgan som kontrollerer kjøretøy med tillatt totalvekt 3501 kg til 7500 kg trer i kraft 20. mai 2023.
-
-Kravene til bremseprøver i [§ 8](forskrift/2009-05-13-591/§8) annet ledd bokstav a siste punktum trer i kraft 1. oktober 2023.
-
-Kontrollorgan godkjent før 1. februar 2022 må innen 1. februar 2024 ha etablert et kvalitetsstyringssystem i samsvar med [§ 13](forskrift/2009-05-13-591/§13), [§ 14](forskrift/2009-05-13-591/§14) og [§ 15](forskrift/2009-05-13-591/§15).
-
-> Endret ved [forskrifter 21 juni 2011 nr. 621](forskrift/2011-06-21-621) (i kraft 1 juli 2011), [1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 1 des 2012), [29 okt 2013 nr. 1272](forskrift/2013-10-29-1272) (i kraft 31 des 2013), [2 des 2014 nr. 1502](forskrift/2014-12-02-1502), [15 des 2014 nr. 1614](forskrift/2014-12-15-1614), [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [3 mai 2021 nr. 1380](forskrift/2021-05-03-1380), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022), [26 sep 2022 nr. 1682](forskrift/2022-09-26-1682).
+> Endret ved [forskrifter 21 juni 2011 nr. 621](forskrift/2011-06-21-621) (i kraft 1 juli 2011), [1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 1 des 2012), [29 okt 2013 nr. 1272](forskrift/2013-10-29-1272) (i kraft 31 des 2013), [2 des 2014 nr. 1502](forskrift/2014-12-02-1502), [15 des 2014 nr. 1614](forskrift/2014-12-15-1614), [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 15 des 2014 nr. 1614](forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) (i kraft 1 okt 2018), [3 mai 2021 nr. 1380](forskrift/2021-05-03-1380), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 feb 2022), [26 sep 2022 nr. 1682](forskrift/2022-09-26-1682), [13 mai 2026 nr. 811](forskrift/2026-05-13-811).
 
 ### § 32. Ikrafttredelse
 
