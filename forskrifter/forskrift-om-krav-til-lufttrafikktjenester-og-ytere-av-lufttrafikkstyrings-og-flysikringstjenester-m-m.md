@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2022-09-01"
-last_change_in_force: "2025-12-04"
+last_change_in_force: "2026-05-14"
 last_updated: null
-xml_hash: "7f54da4b88a7f3823d13038cae132c3ad6620dd049877e82a25a453e0d64e0af"
+xml_hash: "dfb0dfe238f15fd155e607edc51e1593a668c5cc166f2ec8f375bec4cdf70edc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-19T07:43:04.082586+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,11 @@ Forskriften gjelder i Norge, herunder på Svalbard. I tillegg gjelder forskrifte
 
 Forskriften gjelder for flyværtjenester med de tilpasninger som følger av [forskrift 23. februar 2021 nr. 526 om flyværtjeneste på norsk kontinentalsokkel](forskrift/2021-02-23-526).
 
-### § 1-3. Gjennomføring av kommisjonens gjennomføringsforordning (EU) 2017/373
+### § 1-3. Gjennomføring av forordning (EU) 2017/373
 
-Forordning [(EU) 2017/373](eu/32017r0373) om fastsettelse av felles krav til ytere av lufttrafikkstyrings- og flysikringstjenester og andre nettverksfunksjoner for lufttrafikkstyring samt tilsyn med disse, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66xg, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2020/469](eu/32020r0469)forordning [(EU) 2020/1177](eu/32020r1177)forordning [(EU) 2021/665](eu/32021r0665)forordning [(EU) 2021/1338](eu/32021r1338)forordning [(EU) 2022/938](eu/32022r0938)forordning [(EU) 2024/403](eu/32024r0403)forordning [(EU) 2024/1111](eu/32024r1111)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2023/1771](eu/32023r1771).
+Forordning [(EU) 2017/373](eu/32017r0373) om fastsettelse av felles krav til ytere av lufttrafikkstyrings- og flysikringstjenester og andre nettverksfunksjoner for lufttrafikkstyring samt tilsyn med disse, som inntatt i [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66xg, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2020/469](eu/32020r0469)forordning [(EU) 2020/1177](eu/32020r1177)forordning [(EU) 2021/665](eu/32021r0665)forordning [(EU) 2021/1338](eu/32021r1338)forordning [(EU) 2022/938](eu/32022r0938)forordning [(EU) 2024/403](eu/32024r0403)forordning [(EU) 2024/1111](eu/32024r1111)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2023/1771](eu/32023r1771)forordning [(EU) 2025/343](eu/32025r0343).
 
-> Endret ved forskrifter [2 sep 2024 nr. 2063](forskrift/2024-09-02-2063), [2 nov 2024 nr. 2655](forskrift/2024-11-02-2655), [8 nov 2024 nr. 2713](forskrift/2024-11-08-2713), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [20 juni 2025 nr. 1185](forskrift/2025-06-20-1185), [18 sep 2025 nr. 1872](forskrift/2025-09-18-1872), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [4 des 2025 nr. 2417](forskrift/2025-12-04-2417).
+> Endret ved forskrifter [2 sep 2024 nr. 2063](forskrift/2024-09-02-2063), [2 nov 2024 nr. 2655](forskrift/2024-11-02-2655), [8 nov 2024 nr. 2713](forskrift/2024-11-08-2713), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [20 juni 2025 nr. 1185](forskrift/2025-06-20-1185), [18 sep 2025 nr. 1872](forskrift/2025-09-18-1872), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [4 des 2025 nr. 2417](forskrift/2025-12-04-2417), [14 mai 2026 nr. 814](forskrift/2026-05-14-814).
 
 ### § 1-3a. Opphevet
 
