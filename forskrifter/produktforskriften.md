@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2026-03-23"
 last_updated: "2022-11-14"
-xml_hash: "9881661cd1eb50687737de88ef7574b165a14de8088c2a66e4b93dbf7a094924"
+xml_hash: "1e5e98146dca20b44ba86739caf86f66b2c4dab64057233d53e63ac0b19efe03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-19T07:43:04.082586+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -673,7 +673,7 @@ Miljødirektoratet kan ved overtredelse av bestemmelser i dette kapitlet ilegge 
 ### Vedlegg 1
 Bruksområder som er unntatt fra forbudet i § 2a-3
 
-> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424).
+> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424). **Endres** ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 2
 Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for medisinsk utstyr og overvåkings- og kontrollinstrumenter
@@ -691,7 +691,7 @@ Unntak gitt for spesifikke bruksområder:i produktkategori 1–7, 10 har en gyld
 
 Søknader om tildeling, fornyelse eller tilbakekalling av et unntak skal sendes til Kommisjonen. Kommisjonen skal gjøre søknadene offentlig tilgjengelig. Søknader om fornyelse av et unntak skal sendes inn senest 18 måneder før utløpet av unntaket.
 
-> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 16 jan 2017 nr. 39](forskrift/2017-01-16-39), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795).
+> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 16 jan 2017 nr. 39](forskrift/2017-01-16-39), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795). **Endres** ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 4. EU-samsvarserklæring
 
