@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2024-09-02"
-last_change_in_force: "2025-06-20"
+last_change_in_force: "2026-05-14"
 last_updated: "2025-09-04"
-xml_hash: "696688a4bef55079801765d968c73442ea155f4f1369f6744c8b573b7eed9657"
+xml_hash: "0d83d3685063e34df6b7f3e8fb7ce317d30fac52ab2ca0b24c4cc7c951a4ab5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-19T07:43:04.082586+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,11 @@ Formålet med forskriften er å sikre ensartede krav til utstyr i luftfartøyer 
 
 ## § 2. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-[EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66sa (forordning [(EU) nr. 1332/2011](eu/32011r1332) av 16. desember 2011 om krav til anti-kollisjonssystem i luftfartøy, endret ved forordning [(EU) 2016/583](eu/32016r0583)) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) nr. 1332/2011](eu/32011r1332) om krav til anti-kollisjonssystem i luftfartøy, som inntatt i [EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66sa, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning [(EU) 2016/583](eu/32016r0583) og forordning [(EU) 2025/343](eu/32025r0343).
 
-[EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66wp (forordning [(EU) 2023/1770](eu/32023r1770) av 12. september 2023 om fastsettelse av bestemmelser om luftfartøyutstyr som kreves ved bruk av Det felles europeiske luftrom, og driftsregler knyttet til bruken av Det felles europeiske luftrom, og om oppheving av forordning [(EF) nr. 29/2009](eu/32009r0029) og gjennomføringsforordning [(EU) nr. 1206/2011](eu/32011r1206), [(EU) nr. 1207/2011](eu/32011r1207) og [(EU) nr. 1079/2012)](eu/32012r1079) gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2023/1770](eu/32023r1770) om fastsettelse av bestemmelser om luftfartøyutstyr som kreves ved bruk av Det felles europeiske luftrom og driftsregler knyttet til bruken av Det felles europeiske luftrom, som inntatt i [EØS-avtalen vedlegg XIII kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66wp, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrift [20 juni 2025 nr. 1186](forskrift/2025-06-20-1186).
+> Endret ved forskrifter [20 juni 2025 nr. 1186](forskrift/2025-06-20-1186), [14 mai 2026 nr. 813](forskrift/2026-05-14-813).
 
 ## § 2a. (Opphevet)
 
