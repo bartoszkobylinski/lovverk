@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: null
-last_change_in_force: null
+last_change_in_force: "2026-05-13"
 last_updated: null
-xml_hash: "31061c60de31ea9566afbab003ed6adaa4925a9dbf879cd78786a0b88db44d55"
+xml_hash: "4a0bd6db48720d503dec405b68113055e9aac60e93929721181a9b74a9403117"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-19T07:43:04.082586+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -205,6 +205,14 @@ Det første året tilskuddet beregnes etter denne forskriften, skal en reduksjon
 Kommunen skal gjøre fratrekk for det barnehagen er kompensert med gjennom overgangsordningen etter første ledd ved beregning av ytterligere tilskudd etter [§§ 9](forskrift/2026-03-23-454/§9), [11](forskrift/2026-03-23-454/§11), [15](forskrift/2026-03-23-454/§15) eller [16](forskrift/2026-03-23-454/§16) i samme tilskuddsår. Barnehagens samlede tilskudd skal ikke overstige det barnehagen totalt sett har krav på i tilskuddsåret.
 
 > **Oppheves** ved forskrift [23 mars 2026 nr. 454](forskrift/2026-03-23-454) (i kraft 1 jan 2030, se § 25 andre ledd).
+
+### § 27. Overgangsregler
+
+For tilskuddsåret 2027 skal forskrift etter [§ 1 første ledd](forskrift/2026-03-23-454/§1/ledd/1) fastsettes innen 30. november 2026.
+
+Søknader om ekstra pensjonstilskudd som gjelder dekning av pensjonsutgifter for tidligere tilskuddsår enn 2026, skal behandles etter [forskrift 9. oktober 2015 nr. 1166 om tildeling av tilskudd til private barnehager § 4a](forskrift/2015-10-09-1166/§4a) slik den lød i det aktuelle tilskuddsåret.
+
+> Tilføyd ved forskrift [13 mai 2026 nr. 812](forskrift/2026-05-13-812).
 
 ## Vedlegg 1: Liste over private barnehager som omfattes av [§ 16](forskrift/2026-03-23-454/§16) om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
 
