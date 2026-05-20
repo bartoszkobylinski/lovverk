@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-04-13"
+last_change_in_force: "2026-05-18"
 last_updated: null
-xml_hash: "7011423b0ec6ca236b53627a5d9e046c791d9aa01a7ca61b0fdeeb21b02a61fb"
+xml_hash: "6e6d0c90656eb1e3d98816315b7c77c040ee28bf885a6d50bf080d7b4618836d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1079,6 +1079,26 @@ Elevar som avbryt den vidaregåande opplæringa, skal få tilbod om å kjøpe PC
 ### § 16-1. Søknadsfrist
 
 Fristen for å søkje om godkjenning av skole eller driftsendringar etter [privatskolelova](lov/2003-07-04-84) er 1. februar i kalenderåret før det året verksemda eller endringane skal ta til. Oppstart skal normalt skje i haustsemesteret. Utdanningsdirektoratet kan i særlege tilfelle fastsetje andre fristar.
+
+### Kapittel 16A. Lovbrotsgebyr
+
+> Tilføyd ved forskrift [18 mai 2026 nr. 830](forskrift/2026-05-18-830).
+
+### § 16A-1. Lovbrotsgebyr
+
+Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:[§§ 1-1](forskrift/2024-06-03-901/§1-1) til [1-3](forskrift/2024-06-03-901/§1-3) om innhaldet i grunnskoleopplæringa[§ 3-2](forskrift/2024-06-03-901/§3-2) og [§§ 3-10](forskrift/2024-06-03-901/§3-10) til [3-13](forskrift/2024-06-03-901/§3-13) om inntak til vidaregåande opplæring[§ 4-1](forskrift/2024-06-03-901/§4-1) og [§ 4-4](forskrift/2024-06-03-901/§4-4) om innhaldet i den vidaregående opplæringa[§ 6-9](forskrift/2024-06-03-901/§6-9), [§ 6-11](forskrift/2024-06-03-901/§6-11), [§ 6-16](forskrift/2024-06-03-901/§6-16), [§ 6-17](forskrift/2024-06-03-901/§6-17), [§ 6-27](forskrift/2024-06-03-901/§6-27) og [§§ 6-41](forskrift/2024-06-03-901/§6-41) til [6-51](forskrift/2024-06-03-901/§6-51) om individuell vurdering[§§ 9-1](forskrift/2024-06-03-901/§9-1) og [9-2](forskrift/2024-06-03-901/§9-2) om tilleggskompetanse[§§ 10-1](forskrift/2024-06-03-901/§10-1) til [10-4](forskrift/2024-06-03-901/§10-4) om politiattest og yrkesforbod[§ 11-1](forskrift/2024-06-03-901/§11-1) om krav til dokumentasjon av den nedsette funksjonsevna og lærevanskane til eleven[§ 14-2](forskrift/2024-06-03-901/§14-2) om styrt tilgang til personopplysningar.
+
+Ved vurderinga av ilegging og utmåling av lovbrotsgebyr kan det også leggjast vekt på om det er oppdaga forhold i strid med andre lover og forskrifter, dersom forholdet svekkjer tilliten til skolen.
+
+Lovbrotsgebyret skal ikkje vere høgare enn tre gonger grunnbeløpet i folketrygda (3 G).
+
+> Tilføyd ved forskrift [18 mai 2026 nr. 830](forskrift/2026-05-18-830).
+
+### § 16A-2. Øvre ramme for lovbrotsgebyr etter privatskolelova § 7-2c
+
+Lovbrotsgebyr etter [privatskolelova § 7-2c](lov/2003-07-04-84/§7-2c) skal ikkje vere høgare enn tre gonger grunnbeløpet i folketrygda (3 G).
+
+> Tilføyd ved forskrift [18 mai 2026 nr. 830](forskrift/2026-05-18-830).
 
 ## Femte delen – sluttreglar
 
