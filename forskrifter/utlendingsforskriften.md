@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-05-04"
+last_change_in_force: "2026-05-18"
 last_updated: "2022-10-20"
-xml_hash: "f73f79362918acb8d5bdb9bb361e10ddadce38863ea1d0d18862ceda039e4bce"
+xml_hash: "198e52ec5f23668fb4bafe0f2119bf15540eacd456a333ad4c803e95c3c38a5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-19T07:43:04.082586+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2627,11 +2627,11 @@ Politiet skal etter anmodning fra norsk utenriksstasjon, Utlendingsdirektoratet,
 
 Vandelsopplysninger i henhold til første ledd omfatter opplysninger om hvorvidt utlendingen har vært ilagt straff eller andre strafferettslige reaksjoner eller andre tiltak som følge av lovbrudd, eller er under straffeforfølgning, jf. også [politiregisterloven § 36](lov/2010-05-28-16/§36) første ledd nr. 1. I sak etter første ledd bokstav m, kan det også innhentes opplysninger om identitet.
 
-Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren er under etterforskning for et straffbart forhold som kan få betydning for søknaden, i sak om berostilling etter lovens § 62 tredje ledd og sak om utvisning etter lovens § 122. Politiets plikt til å utlevere opplysninger etter leddet her gjelder bare der etterforskningshensyn ikke taler mot.
+Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda gi opplysninger om søkeren er under etterforskning for et straffbart forhold som kan få betydning for søknaden, i sak om berostilling etter lovens [§ 62 femte ledd](lov/2008-05-15-35/§62/ledd/5) og sak om utvisning etter lovens [§ 122](lov/2008-05-15-35/§122). Politiets plikt til å utlevere opplysninger etter leddet her gjelder bare der etterforskningshensyn ikke taler mot.
 
 Politiet skal etter anmodning fra Utlendingsdirektoratet eller Utlendingsnemnda i sak om oppholdstillatelse etter lovens § 38, jf. forskriftens [§ 8-3](forskrift/2009-10-15-1286/§8-3) og [§ 8-4](forskrift/2009-10-15-1286/§8-4), gi opplysninger knyttet til straffesak der utlendingen har avgitt forklaring for retten eller for politiet, herunder om anmeldelse, etterforskningsskritt, henleggelse, rettsavgjørelser, samt vurdering av utlendingens samarbeid med politiet, troverdighet og sikkerhetssituasjon. Opplysningene må være nødvendige for avgjørelse av saken. Politiets plikt til å utlevere opplysninger etter leddet her gjelder bare der etterforskningshensyn ikke taler mot.
 
-> Tilføyd ved forskrift [22 juni 2012 nr. 636](forskrift/2012-06-22-636) (i kraft 23 juni 2012), endret ved forskrifter [4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [26 juni 2018 nr. 1077](forskrift/2018-06-26-1077) (i kraft 20 juli 2018, tidligere § 17-7f), [28 feb 2020 nr. 212](forskrift/2020-02-28-212) (i kraft 5 mars 2020, tidligere § 17-7h), [5 juni 2020 nr. 1137](forskrift/2020-06-05-1137), [12 jan 2021 nr. 67](forskrift/2021-01-12-67).
+> Tilføyd ved forskrift [22 juni 2012 nr. 636](forskrift/2012-06-22-636) (i kraft 23 juni 2012), endret ved forskrifter [4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [26 juni 2018 nr. 1077](forskrift/2018-06-26-1077) (i kraft 20 juli 2018, tidligere § 17-7f), [28 feb 2020 nr. 212](forskrift/2020-02-28-212) (i kraft 5 mars 2020, tidligere § 17-7h), [5 juni 2020 nr. 1137](forskrift/2020-06-05-1137), [12 jan 2021 nr. 67](forskrift/2021-01-12-67), [18 mai 2026 nr. 829](forskrift/2026-05-18-829).
 
 ### § 17-7j. Folkeregistermyndigheten
 
@@ -3561,7 +3561,7 @@ En utlending som har oppholdstillatelse etter første ledd har etter søknad ret
 
 ### § 19-35. Permanent oppholdstillatelse til britiske borgere og deres familiemedlemmer
 
-Britiske borgere og deres familiemedlemmer med varig oppholdsrett i Norge ved utløpet av 31. desember 2020 og utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), som fyller vilkårene for varig oppholdsrett, jf. lovens [§ 115](lov/2008-05-15-35/§115) eller [§ 116](lov/2008-05-15-35/§116), har rett til permanent oppholdstillatelse, jf. lovens [§ 62](lov/2008-05-15-35/§62). Varig oppholdsrett gitt til slik utlending før utløpet av overgangsperioden skal ikke anses bortfalt ved opphold utenfor riket på inntil fem påfølgende år. Vilkårene i lovens [§ 62 første](lov/2008-05-15-35/§62/ledd/1), [femte](lov/2008-05-15-35/§62/ledd/5) og [syvende ledd](lov/2008-05-15-35/§62/ledd/7) gjelder ikke for permanent oppholdstillatelse etter første punktum. Ved beregning av oppholdstid etter lovens [§ 115](lov/2008-05-15-35/§115) og [§ 116](lov/2008-05-15-35/§116) skal lovlig opphold både før og etter 31. desember 2020 tas med i beregningen, herunder oppholdstid under behandling av søknad og klage, jf. [§ 19-33 sjette ledd](forskrift/2009-10-15-1286/§19-33/ledd/6). Utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33) som får rett til permanent oppholdstillatelse etter bestemmelsen her, kan få dette stadfestet etter søknad.
+Britiske borgere og deres familiemedlemmer med varig oppholdsrett i Norge ved utløpet av 31. desember 2020 og utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), som fyller vilkårene for varig oppholdsrett, jf. lovens [§ 115](lov/2008-05-15-35/§115) eller [§ 116](lov/2008-05-15-35/§116), har rett til permanent oppholdstillatelse, jf. lovens [§ 62](lov/2008-05-15-35/§62). Varig oppholdsrett gitt til slik utlending før utløpet av overgangsperioden skal ikke anses bortfalt ved opphold utenfor riket på inntil fem påfølgende år. Vilkårene i lovens [§ 62 første](lov/2008-05-15-35/§62/ledd/1), [sjette](lov/2008-05-15-35/§62/ledd/6) og [åttende ledd](lov/2008-05-15-35/§62/ledd/8) gjelder ikke for permanent oppholdstillatelse etter første punktum. Ved beregning av oppholdstid etter lovens [§ 115](lov/2008-05-15-35/§115) og [§ 116](lov/2008-05-15-35/§116) skal lovlig opphold både før og etter 31. desember 2020 tas med i beregningen, herunder oppholdstid under behandling av søknad og klage, jf. [§ 19-33 sjette ledd](forskrift/2009-10-15-1286/§19-33/ledd/6). Utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33) som får rett til permanent oppholdstillatelse etter bestemmelsen her, kan få dette stadfestet etter søknad.
 
 Britiske borgere og deres familiemedlemmer med varig oppholdsrett ved utløpet av 31. desember 2020 må søke om permanent oppholdstillatelse og oppholdskort innen 31. desember 2021. Britiske borgere og deres familiemedlemmer som har permanent oppholdstillatelse eller bosettingstillatelse i Norge ved utløpet av 31. desember 2020 må bestille oppholdskort innen 31. desember 2021, jf. lovens § 64a. Det gjøres unntak fra fristen dersom det foreligger rimelige grunner til at fristen ikke er overholdt.
 
@@ -3573,7 +3573,7 @@ Ved søknad om permanent oppholdstillatelse etter første og annet ledd, og ved 
 
 Permanent oppholdstillatelse for utlending som nevnt i første og annet ledd bortfaller hvis utlendingen oppholder seg utenfor riket i mer enn fem påfølgende år.
 
-> Tilføyd ved forskrift [9 des 2020 nr. 2665](forskrift/2020-12-09-2665) (i kraft 1 jan 2021), endret ved forskrifter [12 jan 2021 nr. 67](forskrift/2021-01-12-67), [4 mars 2021 nr. 594](forskrift/2021-03-04-594) (i kraft 15 mars 2021), [9 des 2021 nr. 3438](forskrift/2021-12-09-3438), [17 nov 2025 nr. 2276](forskrift/2025-11-17-2276) (i kraft 15 des 2025).
+> Tilføyd ved forskrift [9 des 2020 nr. 2665](forskrift/2020-12-09-2665) (i kraft 1 jan 2021), endret ved forskrifter [12 jan 2021 nr. 67](forskrift/2021-01-12-67), [4 mars 2021 nr. 594](forskrift/2021-03-04-594) (i kraft 15 mars 2021), [9 des 2021 nr. 3438](forskrift/2021-12-09-3438), [17 nov 2025 nr. 2276](forskrift/2025-11-17-2276) (i kraft 15 des 2025), [18 mai 2026 nr. 829](forskrift/2026-05-18-829).
 
 ### § 19-36. Utvisning
 
