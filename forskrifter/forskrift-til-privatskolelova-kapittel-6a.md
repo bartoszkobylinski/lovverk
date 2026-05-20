@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2021-01-01"
-last_change_in_force: "2026-04-13"
+last_change_in_force: "2026-05-18"
 last_updated: "2022-07-14"
-xml_hash: "99c74b5906d64438dc7f0da585a1067fd14bef1d42b8fc54e914d3d386f4562e"
+xml_hash: "e42048fad5cd802d9ffaf61296bb4b6180f021ef43d8d1574c6967b5b17986dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -278,10 +278,28 @@ Utdanningsdirektoratet kan etter søknad godkjenne at eiendeler og midler overf�
 
 > Endret ved forskrift [29 juni 2022 nr. 1236](forskrift/2022-06-29-1236).
 
-## Kapittel 10. Ikrafttredelse og oppheving
+## Kapittel 10. Overtredelsesgebyr
 
-### § 10-1. Ikrafttredelse og oppheving
+> Tilføyd ved forskrift [18 mai 2026 nr. 832](forskrift/2026-05-18-832).
+
+### § 10-1. Overtredelsesgebyr
+
+Departementet kan ilegge skoler godkjent etter [privatskoleloven](lov/2003-07-04-84) overtredelsesgebyr dersom skolen eller noen som opptrer på vegne av skolen, fortsettlig eller uaktsomt bryter bestemmelser i:[kapittel 3](forskrift/2020-11-23-2476/kap3) om oppstart[kapittel 4](forskrift/2020-11-23-2476/kap4) om inntak[§ 5-4](forskrift/2020-11-23-2476/§5-4) om rapportering av elevtall[kapittel 6](forskrift/2020-11-23-2476/kap6) om statstilskudd og skolepenger[kapittel 8](forskrift/2020-11-23-2476/kap8) om regnskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2020-11-23-2476/§8-4) om særskilte erklæringer fra revisor[kapittel 9](forskrift/2020-11-23-2476/kap9) om nedleggelse av skoledriften.
+
+Ved vurderingen av ileggelse og utmåling av overtredelsesgebyr kan det også legges vekt på om det er oppdaget forhold i strid med andre lover og forskrifter, dersom forholdet svekker tilliten til skolen.
+
+Overtredelsesgebyret skal ikke overstige tre ganger folketrygdens grunnbeløp (3 G).
+
+> Tilføyd ved forskrift [18 mai 2026 nr. 832](forskrift/2026-05-18-832).
+
+## Kapittel 11. Ikrafttredelse og oppheving
+
+> Endret ved forskrift [18 mai 2026 nr. 832](forskrift/2026-05-18-832) (tidligere kapittel 10).
+
+### § 11-1. Ikrafttredelse og oppheving
 
 Denne forskriften trer i kraft 1. januar 2021. Bestemmelsen i [§ 4-1](forskrift/2020-11-23-2476/§4-1) første ledd gjelder for inntak av elever fra og med skoleåret 2019–2020.
 
 [Forskrift 1. september 2018 nr. 1294 til voksenopplæringsloven kapittel 4](forskrift/2018-09-01-1294) blir opphevet samtidig som denne forskriften trer i kraft.
+
+> Endret ved forskrift [18 mai 2026 nr. 832](forskrift/2026-05-18-832) (tidligere § 10-1).
