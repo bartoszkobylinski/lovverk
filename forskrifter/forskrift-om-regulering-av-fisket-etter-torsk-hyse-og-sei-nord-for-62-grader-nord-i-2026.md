@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-04-16"
+last_change_in_force: "2026-05-13"
 last_updated: null
-xml_hash: "374b1d014b4d4e99b3e9f0f517f3e0a676559f5480a39aa64ab99d65652ca2a5"
+xml_hash: "051dfb4513f1889d475640fc66429795593835d0e2eb06fc946fa5a86b8e613f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,19 +30,19 @@ Det er forbudt for norske fartøy å fiske og lande torsk, hyse og sei nord for 
 
 ### § 2. Totalkvote
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2826/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:139 827 tonn torsk i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen,76 345 tonn hyse i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen, og150 770 tonn sei i Norges territorialfarvann og Norges økonomiske sone nord for 62° N.
+Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2826/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:139 827 tonn torsk i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen,78 289 tonn hyse i området nord for 62° N, med unntak av i fiskerisonen ved Jan Mayen, og150 770 tonn sei i Norges territorialfarvann og Norges økonomiske sone nord for 62° N.
 
 Av kvantaene i første ledd avsettes 880 tonn torsk, 319 tonn hyse og 156 tonn sei til forsknings- og undervisningskvoter, 7 000 tonn torsk, 300 tonn hyse og 2 000 tonn sei til dekning av fangst innenfor ungdoms- og rekreasjonsfiske (fritids- og turistfiske), 3 000 tonn torsk til kystfiskeordningen, 350 tonn sei til agnformål, 500 tonn torsk til dekning av kvotebonus ved levendelagring, 2 543 tonn torsk, 953 tonn hyse og 1 397 tonn sei til rekrutteringskvoter for fartøy i lukket gruppe og 450 tonn torsk, 50 tonn hyse og 255 tonn sei til rekrutteringskvoter i åpen gruppe.
 
-> Endret ved forskrift [4 mars 2026 nr. 334](forskrift/2026-03-04-334).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 3. Gruppekvoter for trålfartøy
 
-Fartøy med tråltillatelse kan fiske og lande inntil 32 535 tonn torsk, 28 395 tonn hyse og 54 246 tonn sei, hvorav 500 tonn sei avsettes til dekning av bifangst i fisket for fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse.
+Fartøy med tråltillatelse kan fiske og lande inntil 32 535 tonn torsk, 29 415 tonn hyse og 54 246 tonn sei, hvorav 500 tonn sei avsettes til dekning av bifangst i fisket for fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse.
 
-Kvantaene i første ledd fordeles som følger:Fartøy med torsketråltillatelse kan fiske og lande inntil 31 785 tonn torsk, 27 645 tonn hyse og 43 397 tonn sei, ogFartøy med seitråltillatelse kan fiske og lande inntil 750 tonn torsk, 750 tonn hyse og 10 349 tonn sei.
+Kvantaene i første ledd fordeles som følger:Fartøy med torsketråltillatelse kan fiske og lande inntil 31 785 tonn torsk, 28 665 tonn hyse og 43 397 tonn sei, ogFartøy med seitråltillatelse kan fiske og lande inntil 750 tonn torsk, 750 tonn hyse og 10 349 tonn sei.
 
-> Endret ved forskrift [4 mars 2026 nr. 334](forskrift/2026-03-04-334).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 4. Gruppekvote for notfartøy
 
@@ -52,13 +52,13 @@ Notfartøy kan fiske og lande inntil 36 653 tonn sei.
 
 ### § 5. Gruppekvoter for fartøy som fisker med konvensjonelle redskap
 
-Fartøy med adgang til å fiske med konvensjonelle redskap kan fiske og lande inntil 92 919 tonn torsk, 46 328 tonn hyse og 55 713 tonn sei.
+Fartøy med adgang til å fiske med konvensjonelle redskap kan fiske og lande inntil 92 919 tonn torsk, 47 252 tonn hyse og 55 713 tonn sei.
 
-Kvantaene i første ledd fordeles som følger:Konvensjonelle havfiskefartøy kan fiske og lande inntil 10 717 tonn torsk, 8 339 tonn hyse og 6 128 tonn sei, hvorav 500 tonn sei avsettes til bifangst.Fartøy i lukket gruppe kan fiske og lande inntil 72 945 tonn torsk, 34 283 tonn hyse og 41 785 tonn sei. Av gruppekvoten av torsk avsettes 7 085 tonn til ferskfiskordningen.Fartøy i åpen gruppe kan fiske og lande inntil 9 257 tonn torsk, 3 706 tonn hyse og 7 800 tonn sei. Av gruppekvoten av torsk avsettes 865 tonn til ferskfiskordningen.
+Kvantaene i første ledd fordeles som følger:Konvensjonelle havfiskefartøy kan fiske og lande inntil 10 717 tonn torsk, 8 647 tonn hyse og 6 128 tonn sei, hvorav 500 tonn sei avsettes til bifangst.Fartøy i lukket gruppe kan fiske og lande inntil 72 945 tonn torsk, 34 837 tonn hyse og 41 785 tonn sei. Av gruppekvoten av torsk avsettes 7 085 tonn til ferskfiskordningen.Fartøy i åpen gruppe kan fiske og lande inntil 9 257 tonn torsk, 3 768 tonn hyse og 7 800 tonn sei. Av gruppekvoten av torsk avsettes 865 tonn til ferskfiskordningen.
 
-Utover avsetninger til ferskfiskordningen fordeles kvantaene av torsk, hyse og sei nevnt i annet ledd bokstav b som følger:Fartøy med hjemmelslengde under 11 meter kan fiske og lande inntil 19 164 tonn torsk, 9 425 tonn hyse og 11 476 tonn sei. Gruppekvotene inkluderer 835 tonn torsk, 306 tonn hyse og 435 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 11 meter til og med 14,99 meter kan fiske og lande inntil 19 036 tonn torsk, 9 801 tonn hyse og 11 835 tonn sei. Gruppekvotene inkluderer 1 708 tonn torsk, 647 tonn hyse og 962 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 15 meter til og med 20,99 meter kan fiske og lande inntil 17 407 tonn torsk, 9 599 tonn hyse og 10 473 tonn sei.Fartøy med hjemmelslengde fra og med 21 meter til og med 27,99 meter kan fiske og lande inntil 12 796 tonn torsk, 6 411 tonn hyse og 9 398 tonn sei.
+Utover avsetninger til ferskfiskordningen fordeles kvantaene av torsk, hyse og sei nevnt i annet ledd bokstav b som følger:Fartøy med hjemmelslengde under 11 meter kan fiske og lande inntil 19 164 tonn torsk, 9 573 tonn hyse og 11 476 tonn sei. Gruppekvotene inkluderer 835 tonn torsk, 306 tonn hyse og 435 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 11 meter til og med 14,99 meter kan fiske og lande inntil 19 036 tonn torsk, 9 948 tonn hyse og 11 835 tonn sei. Gruppekvotene inkluderer 1 708 tonn torsk, 647 tonn hyse og 962 tonn sei til rekrutteringskvoter.Fartøy med hjemmelslengde fra og med 15 meter til og med 20,99 meter kan fiske og lande inntil 17 407 tonn torsk, 9 754 tonn hyse og 10 473 tonn sei.Fartøy med hjemmelslengde fra og med 21 meter til og med 27,99 meter kan fiske og lande inntil 12 796 tonn torsk, 6 515 tonn hyse og 9 398 tonn sei.
 
-> Endret ved forskrift [4 mars 2026 nr. 334](forskrift/2026-03-04-334).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 6. Kvotefleksibilitet på gruppenivå fra 2026 til 2027
 
@@ -96,9 +96,9 @@ Fangst landet på overført kvote fra 2025 skal ikke regnes med ved vurderingen 
 
 Fartøy med torsketråltillatelse og med kvotefaktor 1,00 kan fiske og lande en fartøykvote på 372 tonn torsk.
 
-Fartøy med torsketråltillatelse og med kvotefaktor 1,00 kan fiske og lande en fartøykvote på 320 tonn hyse.
+Fartøy med torsketråltillatelse og med kvotefaktor 1,00 kan fiske og lande en fartøykvote på 332 tonn hyse.
 
-> Endret ved forskrifter [6 feb 2026 nr. 169](forskrift/2026-02-06-169), [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [18 mars 2026 nr. 428](forskrift/2026-03-18-428).
+> Endret ved forskrifter [6 feb 2026 nr. 169](forskrift/2026-02-06-169), [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [18 mars 2026 nr. 428](forskrift/2026-03-18-428), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 8. Kvoter i fisket etter sei for fartøy med torsketråltillatelse
 
@@ -154,11 +154,11 @@ Ved utskiftning eller ombygging til mindre fartøy etter 18. desember 2002, skal
 
 Konvensjonelle havfiskefartøy som har kvotefaktor 1,0 kan fiske og lande en fartøykvote på 118 tonn torsk.
 
-Konvensjonelle havfiskefartøy som har kvotefaktor 1,0 kan fiske og lande en fartøykvote på 104 tonn hyse
+Konvensjonelle havfiskefartøy som har kvotefaktor 1,0 kan fiske og lande en fartøykvote på 107 tonn hyse.
 
 Konvensjonelle havfiskefartøy med adgang til å delta i fisket etter sei med garn, og som har kvotefaktor 1,0, kan fiske og lande en fartøykvote på 272 tonn sei.
 
-> Endret ved forskrifter [6 feb 2026 nr. 169](forskrift/2026-02-06-169), [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [18 mars 2026 nr. 428](forskrift/2026-03-18-428).
+> Endret ved forskrifter [6 feb 2026 nr. 169](forskrift/2026-02-06-169), [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [18 mars 2026 nr. 428](forskrift/2026-03-18-428), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 14. Bifangst
 
@@ -202,17 +202,11 @@ Tillegg etter første ledd kan ikke gis for fangst som kvotebelastes i henhold t
 
 ### § 18. Kvoter ved fiske etter hyse
 
-Kvoteenhet etter hjemmelslengde og største lengde er som følger:*Hjemmelslengde**Største lengde**Kvoteenhet (garantert kvote)**Kvoteenhet (maksimalkvote)*Under 11 mUnder 11 m4,065285,3689På eller over 11 m44,717011–14,99 mUnder 11 m4,033528,2344På eller over 11 m16,134015–20,99 mUnder 11 m3,829411,4883På eller over 11 m7,658821–27,99 mUnder 11 m3,697211,0916På eller over 11 m7,3944
+Kvoteenhet etter hjemmelslengde og største lengde er som følger:*Hjemmels­lengde**Største lengde**Kvoteenhet (garantert kvote)**Kvoteenhet (maksimalkvote)*Under 11 mUnder 11 m4,123186,5858På eller over 11 m45,354511–14,99 mUnder 11 m4,088328,6182På eller over 11 m16,353215–20,99 mUnder 11 m3,890311,6708På eller over 11 m7,780621–27,99 mUnder 11 m3,756311,2688På eller over 11 m7,5125
 
-Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):*Hjemmels­lengde**Kvote­faktor**Maksimalkvote største lengde under 11 m**Maksimalkvote største lengde over 11 m**Herav garantert kvote*Under 7 meter1,3075111,62058,4685,3157–7,91,5293130,55568,3866,2178–8,91,8211155,46581,4347,4039–9,92,2530192,336100,7479,15910–10,92,4047205,287107,5319,77611–11,93,073586,77849,58812,39712–12,93,6451102,91758,81014,70213–13,94,4216124,84171,33817,83414–14,95,0363142,19781,25520,31415–20,99,1056104,60769,73834,86921–27,98,621995,63163,75431,877
+Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):*Hjemmels­lengde**Kvotefaktor**Maksimalkvote største lengde under 11 m**Maksimalkvote største lengde over 11 m**Herav garantert kvote*Under 7 meter1,3075113,21159,3015,3917–7,91,5293132,41669,3616,3068–8,91,8211157,68182,5957,5099–9,92,2530195,078102,1849,28910–10,92,4047208,213109,0649,91511–11,93,073587,95850,26212,56512–12,93,6451104,31659,60914,90213–13,94,4216126,53872,30818,07714–14,95,0363144,13082,36020,59015–20,99,1056106,27070,84735,42321–27,98,621997,15864,77232,386
 
-Fartøy som har fisket maksimalkvoten kan ha inntil 30 % bifangst av hyse i de enkelte fangster og ved landing.
-
-Dersom fisket blir stoppet, kan det enkelte fartøy fortsette fisket innenfor de garanterte kvotene. Fartøy som har fisket den garanterte kvoten kan ha inntil 30 % bifangst av hyse i de enkelte fangster og ved landing.
-
-Når et fartøy gis tillatelse til å fiske flere kvoter av hyse i medhold av [forskrift 7. november 2003 nr. 1309 om spesielle kvoteordninger for kystfiskeflåten](forskrift/2003-11-07-1309), skal overførte kvoter beregnes ved bruk av samme kvoteenhet som ved beregning av mottakende fartøys grunnkvote.
-
-> Endret ved forskrift [4 mars 2026 nr. 334](forskrift/2026-03-04-334).
+> Endret ved forskrifter [4 mars 2026 nr. 334](forskrift/2026-03-04-334), [13 mai 2026 nr. 828](forskrift/2026-05-13-828).
 
 ### § 19. Kvoter ved fiske etter sei
 
