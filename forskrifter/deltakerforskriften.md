@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2025-12-23"
+last_change_in_force: "2026-05-04"
 last_updated: null
-xml_hash: "7b820d8e496ceca19cb47c222a0c05f9c9567aeedb4f55804df62ed985e66d20"
+xml_hash: "6022d825dbd8d2efad1be1c635962399c74043fd709f20b5d52c71fe593de0d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 ### § 1. (virkeområde)
 
-Forskriften inneholder bestemmelser om begrensninger i adgangen til å delta i følgende fiskerier:fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy,fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter torsk for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap i Nordsjøen sør for 62 grader nord,fisket etter makrell for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter sild for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordsjøen sør for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not nord for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not eller konvensjonelle redskap sør for 62 grader nord,fisket etter reker med trål i Nordsjøen og Skagerrak sør for 62 grader nord,fisket etter norsk vårgytende sild for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter rognkjeks for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordland, Troms og Finnmark,fisket etter blåkveite for fartøy under 28 meter største lengde som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter brisling for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter lange og brosme for fartøy som har mindre enn 500 m3 lasteromsvolum,fangst av kongekrabbe innenfor kvoteregulert område,fisket etter reker i Grønlands økonomiske sone, ogfisket etter leppefisk.
+Forskriften inneholder bestemmelser om begrensninger i adgangen til å delta i følgende fiskerier:fisket etter torsk, hyse og sei mv. for konvensjonelle havfiskefartøy,fisket etter torsk, hyse og sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter torsk for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med konvensjonelle redskap i Nordsjøen sør for 62 grader nord,fisket etter makrell for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter sild for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordsjøen sør for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not nord for 62 grader nord,fisket etter sei for fartøy som har mindre enn 500 m3 lasteromsvolum som fisker med not eller konvensjonelle redskap sør for 62 grader nord,fisket etter reker med trål i Nordsjøen og Skagerrak sør for 62 grader nord,fisket etter norsk vårgytende sild for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter rognkjeks for fartøy som har mindre enn 500 m3 lasteromsvolum i Nordland, Troms og Finnmark,fisket etter blåkveite for fartøy under 28 meter største lengde som fisker med konvensjonelle redskap nord for 62 grader nord,fisket etter brisling for fartøy som har mindre enn 500 m3 lasteromsvolum,fisket etter lange og brosme for fartøy som har mindre enn 500 m3 lasteromsvolum,fangst av kongekrabbe innenfor kvoteregulert område,fisket etter reker i Grønlands økonomiske sone, ogfisket etter leppefisk.fisket etter kveite nord for 62 grader nord.
+
+> Endret ved forskrift [4 mai 2026 nr. 825](forskrift/2026-05-04-825).
 
 ### § 2. (definisjoner)
 
@@ -273,6 +275,16 @@ For å kunne delta i lukket gruppe i fisket etter leppefisk må følgende vilkå
 ### § 42. (vilkår for å delta i åpen gruppe)
 
 For å kunne delta i åpen gruppe i fisket etter leppefisk må følgende vilkår være oppfylt:fartøyet må ha største lengde under 11 meter og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for fiske etter leppefisk.det må foreligge leveringsavtale med godkjent kjøper før fartøyet starter opp fisket etter leppefisk. Leveringsavtalen skal fremvises i forbindelse med kontroll og ellers på forespørsel fra Fiskeridirektoratet, Kystvakten eller fiskesalgslagene.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom.eier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+
+### XVII. Fisket etter kveite nord for 62 grader nord
+
+> Tilføyd ved forskrift [4 mai 2026 nr. 825](forskrift/2026-05-04-825).
+
+### § 42a. (vilkår for å delta i åpen gruppe)
+
+For å delta i kystfartøygruppens fiske etter kveite nord for 62 grader nord må følgende vilkår være oppfylt:fartøyet må være under 15 meter største lengde, fiske med konvensjonelle redskaper og være registrert i merkeregisteret.eier av fartøyet og høvedsmann må være ført i fiskermanntallet.fartøyet må være egnet, bemannet og utstyrt for å drive fiske etter kveite.én enkeltperson må direkte eller indirekte gjennom foretak inneha mer enn 50 prosent av eierandelene i fartøyet. Fartøyet kan likevel delta uten én enkeltperson som majoritetseier dersom fartøyet deltok med samme eierkonstellasjon i fisket etter kveite nord for 62 grader nord i 2025.under utøvelse av fangst må eier selv være høvedsmann om bord i fartøyet. Dersom ingen fysisk enkeltperson direkte eller indirekte innehar mer enn 50 prosent av eierandelene i fiskefartøyet, er det et krav at den aktive fiskeren med størst eierandel står om bord som høvedsmann. Dersom ingen aktiv fisker alene har størst eierandel, er det en av de aktive fiskerne med størst eierandel som må stå om bord som høvedsmann. Fiskeridirektoratet kan dispensere fra kravet om at eier må stå om bord som høvedsmann dersomeier har tillitsverv i fiskeriorganisasjon eller offentlig verv, og vervet medfører at eier ikke kan være høvedsmann om bord i fartøyet under utøvelse av fangst, ellereier er gravid eller har født barn for mindre enn to år siden, eller er i foreldrepermisjon, eller har omsorg for barn med langvarig sykdom, ellereier er forhindret fra å være høvedsmann om bord i fartøyet under utøvelse av fangst på grunn av sykdom eller skade som vil kreve langvarig rehabilitering. Det er en forutsetning at vedkommende har stått i manntallet i minst ett år før første dag for utbetaling av sykepenger, og at vedkommende oppfylte vilkårene for å delta i åpen gruppe i dette fisket med det samme fartøyet eller fartøyet som det kommer til erstatning for, da sykdommen eller skaden inntraff, ellereier er i vernepliktig førstegangstjeneste med minst ett års forutgående aktivitet i åpen gruppe, ellereier har gjennomført skole med studieretning fiske og fangst og skal videreutdanne seg innen fiskerifag, styrmannsskole eller liknende, og har eid og drevet fartøyet i minst 2 år og har vært ført i fiskermanntallet i minst 2 år.
+
+> Tilføyd ved forskrift [4 mai 2026 nr. 825](forskrift/2026-05-04-825).
 
 ## Kapittel 3. Utskifting og salg av fartøy mv. i lukket gruppe
 
