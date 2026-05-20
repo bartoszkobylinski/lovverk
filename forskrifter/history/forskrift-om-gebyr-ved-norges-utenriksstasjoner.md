@@ -1,6 +1,16 @@
 # forskrift-om-gebyr-ved-norges-utenriksstasjoner — Change history
 
-_2 events; doc_id `sf-20140620-0780`._
+_4 events; doc_id `sf-20140620-0780`._
+
+## 2026-05-20 — Content updated
+Lines: +66 -2.
+Subject: `update(forskrift): forskrift-om-gebyr-ved-norges-utenriksstasjoner`
+Commit: `4ace8bd`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20140620-0780.md` → `forskrifter/forskrift-om-gebyr-ved-norges-utenriksstasjoner.md`.

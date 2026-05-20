@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260513-0827",
+  "events": [
+    {
+      "commit": "a9bf8dc",
+      "date": "2026-05-20",
+      "from_path": null,
+      "lines_added": 97,
+      "lines_removed": 0,
+      "subject": "add(forskrift): sjøfartskortforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "sjøfartskortforskriften"
+}

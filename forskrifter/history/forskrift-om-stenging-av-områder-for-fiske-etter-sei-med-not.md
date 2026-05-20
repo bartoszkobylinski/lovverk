@@ -1,6 +1,16 @@
 # forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not — Change history
 
-_2 events; doc_id `sf-20260409-0579`._
+_4 events; doc_id `sf-20260409-0579`._
+
+## 2026-05-20 — Content updated
+Lines: +18 -12.
+Subject: `update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not`
+Commit: `b194fa2`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20260409-0579.md` → `"forskrifter/forskrift-om-stenging-av-omr\303\245der-for-fiske-etter-sei-med-not.md"`.

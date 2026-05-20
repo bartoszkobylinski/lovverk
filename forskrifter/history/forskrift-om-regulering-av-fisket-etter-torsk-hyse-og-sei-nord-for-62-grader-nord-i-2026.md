@@ -1,6 +1,16 @@
 # forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026 — Change history
 
-_2 events; doc_id `sf-20251219-2826`._
+_4 events; doc_id `sf-20251219-2826`._
+
+## 2026-05-20 — Content updated
+Lines: +19 -25.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026`
+Commit: `00e8a6a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251219-2826.md` → `forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md`.

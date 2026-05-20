@@ -14399,13 +14399,13 @@
     },
     "sf-19881125-0940": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/forskrift-om-kontroll-av-maritim-tjeneste.md",
       "slug": "forskrift-om-kontroll-av-maritim-tjeneste",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om kontroll av maritim tjeneste",
       "total_changes": null,
       "xml_hash": "b7e3f5bfe6b2c9f63b39575f4279ebe11a5d883f0841821708d9066dd1bca5c7"
@@ -27764,15 +27764,15 @@
     "sf-20091015-1286": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-19",
-      "last_seen": "2026-05-19T07:43:04.082586Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "slug": "utlendingsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 5,
-      "xml_hash": "f73f79362918acb8d5bdb9bb361e10ddadce38863ea1d0d18862ceda039e4bce"
+      "total_changes": 6,
+      "xml_hash": "198e52ec5f23668fb4bafe0f2119bf15540eacd456a333ad4c803e95c3c38a5c"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -30325,15 +30325,15 @@
     "sf-20111222-1523": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/forskrift-om-kvalifikasjoner-mv-for-sjøfolk.md",
       "slug": "forskrift-om-kvalifikasjoner-mv-for-sjøfolk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kvalifikasjoner og sertifikater for sjøfolk",
-      "total_changes": null,
-      "xml_hash": "637f4b0543c8e108da9bc056c16f8c11b2d853a3ec4bf1182663b3253da8f802"
+      "total_changes": 4,
+      "xml_hash": "b6e7b4637bfb1aecf869716030542c843b956c95a3dc1c3dd26da05171baa881"
     },
     "sf-20111223-1502": {
       "doc_type": "forskrift",
@@ -32704,15 +32704,15 @@
     "sf-20140620-0780": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/forskrift-om-gebyr-ved-norges-utenriksstasjoner.md",
       "slug": "forskrift-om-gebyr-ved-norges-utenriksstasjoner",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gebyr ved Norges utenriksstasjoner",
-      "total_changes": null,
-      "xml_hash": "73ba3a3f78fe6094e330c5b668b5003bbac125ee70f9647dbf272c26de4d6b5f"
+      "total_changes": 4,
+      "xml_hash": "df84bb33f5e8c7ee81898a48a39abe59eeffc7e932761375a89259853cd17c55"
     },
     "sf-20140624-0857": {
       "doc_type": "forskrift",
@@ -38658,15 +38658,15 @@
     "sf-20180901-1295": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/økonomiforskrift-til-privatskolelova.md",
       "slug": "økonomiforskrift-til-privatskolelova",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Økonomiforskrift til privatskolelova",
-      "total_changes": null,
-      "xml_hash": "d587e4f295c9e9c6ca9afd650afa4a57203d292c0c6dc286defc9d75f3d6c530"
+      "total_changes": 4,
+      "xml_hash": "52646f09125c019feaaf2185883f309133459c08801dd493d710a3aa836aa8dc"
     },
     "sf-20180905-1320": {
       "doc_type": "forskrift",
@@ -41830,15 +41830,15 @@
     "sf-20201123-2476": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/forskrift-til-privatskolelova-kapittel-6a.md",
       "slug": "forskrift-til-privatskolelova-kapittel-6a",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til privatskolelova kapittel 6A",
-      "total_changes": null,
-      "xml_hash": "99c74b5906d64438dc7f0da585a1067fd14bef1d42b8fc54e914d3d386f4562e"
+      "total_changes": 4,
+      "xml_hash": "e42048fad5cd802d9ffaf61296bb4b6180f021ef43d8d1574c6967b5b17986dc"
     },
     "sf-20201126-2480": {
       "doc_type": "forskrift",
@@ -48525,15 +48525,15 @@
     "sf-20240603-0901": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/privatskoleforskrifta.md",
       "slug": "privatskoleforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til privatskolelova (privatskoleforskrifta)",
-      "total_changes": null,
-      "xml_hash": "7011423b0ec6ca236b53627a5d9e046c791d9aa01a7ca61b0fdeeb21b02a61fb"
+      "total_changes": 4,
+      "xml_hash": "6e6d0c90656eb1e3d98816315b7c77c040ee28bf885a6d50bf080d7b4618836d"
     },
     "sf-20240604-1483": {
       "doc_type": "forskrift",
@@ -53192,15 +53192,15 @@
     "sf-20251219-2811": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/deltakerforskriften.md",
       "slug": "deltakerforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om adgang til å delta i kystfartøygruppens fiske og enkelte andre fiskerier i 2026",
-      "total_changes": null,
-      "xml_hash": "7b820d8e496ceca19cb47c222a0c05f9c9567aeedb4f55804df62ed985e66d20"
+      "total_changes": 4,
+      "xml_hash": "6022d825dbd8d2efad1be1c635962399c74043fd709f20b5d52c71fe593de0d0"
     },
     "sf-20251219-2813": {
       "doc_type": "forskrift",
@@ -53244,15 +53244,15 @@
     "sf-20251219-2826": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026",
-      "total_changes": null,
-      "xml_hash": "374b1d014b4d4e99b3e9f0f517f3e0a676559f5480a39aa64ab99d65652ca2a5"
+      "total_changes": 4,
+      "xml_hash": "051dfb4513f1889d475640fc66429795593835d0e2eb06fc946fa5a86b8e613f"
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
@@ -54206,15 +54206,15 @@
     "sf-20260409-0579": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "slug": "forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": null,
-      "xml_hash": "abcda142e099eaa966c09b1ba18f391294a35f1a3e99632abfd0ee92965cc23e"
+      "total_changes": 4,
+      "xml_hash": "edd90d48efcde6e38e9e773f9a75c60a4db4b7e4a0c9cd8b42aa6c43ff000234"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -54540,8 +54540,21 @@
       "title": "Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
       "total_changes": 5,
       "xml_hash": "e61cd96e87368355de5a24e02d103f4c9f13aa9c5385e4ff344cfc5c886a383f"
+    },
+    "sf-20260513-0827": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-20",
+      "last_seen": "2026-05-20T07:40:56.944763Z",
+      "markdown_path": "forskrifter/sjøfartskortforskriften.md",
+      "slug": "sjøfartskortforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger (sjøfartskortforskriften)",
+      "total_changes": 1,
+      "xml_hash": "7e767a0944fb63f61f3342ab8fd5c58a1880c5e2da37a9eb5682549b78bab63f"
     }
   },
-  "generated_at": "2026-05-19T07:43:04.082586Z",
+  "generated_at": "2026-05-20T07:40:56.944763Z",
   "version": 1
 }

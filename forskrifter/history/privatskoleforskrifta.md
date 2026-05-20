@@ -1,6 +1,16 @@
 # privatskoleforskrifta — Change history
 
-_2 events; doc_id `sf-20240603-0901`._
+_4 events; doc_id `sf-20240603-0901`._
+
+## 2026-05-20 — Content updated
+Lines: +23 -3.
+Subject: `update(forskrift): privatskoleforskrifta`
+Commit: `5ef4dc4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20240603-0901.md` → `forskrifter/privatskoleforskrifta.md`.

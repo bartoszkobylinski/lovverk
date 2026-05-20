@@ -1329,7 +1329,6 @@ _3422 current documents_
 - [forskrift-om-kontroll-av-dykkesystem](forskrift-om-kontroll-av-dykkesystem.md) — Forskrift om kontroll av dykkesystem m.m. på norske skip i sjøen.
 - [forskrift-om-kontroll-av-gassvernmateriell](forskrift-om-kontroll-av-gassvernmateriell.md) — Forskrifter for teknisk kontroll av gassvernmateriell.
 - [forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om kontroll av kjøretøy langs veg
-- [forskrift-om-kontroll-av-maritim-tjeneste](forskrift-om-kontroll-av-maritim-tjeneste.md) — Forskrift om kontroll av maritim tjeneste
 - [forskrift-om-kontroll-av-reisende-til-og-fra-svalbard](forskrift-om-kontroll-av-reisende-til-og-fra-svalbard.md) — Forskrift om kontroll av reisende til og fra Svalbard
 - [forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip](forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip.md) — Forskrift om kontroll av rutegående roro- og hurtiggående passasjerskip
 - [forskrift-om-kontroll-av-salmonella-mv](forskrift-om-kontroll-av-salmonella-mv.md) — Forskrift om kontroll av Salmonella og andre matbårne zoonotiske smittestoffer
@@ -3267,6 +3266,7 @@ _3422 current documents_
 - [sivilforsvarsforskriften](sivilforsvarsforskriften.md) — Forskrift om sivilforsvar (sivilforsvarsforskriften)
 - [sjøfartsdirektoratets-gebyrforskrift](sjøfartsdirektoratets-gebyrforskrift.md) — Forskrift om oppkreving av gebyr til statskassen for besiktelser, sertifikatutstedelse mv. som foretas i henhold til skipssikkerhetsloven mv. (Sjøfartsdirektoratets gebyrforskrift)
 - [sjøfartsdirektoratets-gebyrtariff](sjøfartsdirektoratets-gebyrtariff.md) — Forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet (Sjøfartsdirektoratets gebyrtariff)
+- [sjøfartskortforskriften](sjøfartskortforskriften.md) — Forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger (sjøfartskortforskriften)
 - [sjøpattedyrforskriften](sjøpattedyrforskriften.md) — Forskrift om særlige hygieneregler for næringsmidler fra sjøpattedyr
 - [sjøtrafikkforskriften](sjøtrafikkforskriften.md) — Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften)
 - [sjøveisreglene](sjøveisreglene.md) — Forskrift om forebygging av sammenstøt på sjøen (Sjøveisreglene)
