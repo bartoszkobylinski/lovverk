@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: null
+last_change_in_force: "2026-05-13"
 last_updated: null
-xml_hash: "abcda142e099eaa966c09b1ba18f391294a35f1a3e99632abfd0ee92965cc23e"
+xml_hash: "edd90d48efcde6e38e9e773f9a75c60a4db4b7e4a0c9cd8b42aa6c43ff000234"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -131,28 +131,34 @@ Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område ved Gallusgrunnen i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 28,7 minutter   Øst 007 grader 41,3 minutterNord 63 grader 30,5 minutter   Øst 007 grader 38,4 minutterNord 63 grader 34,5 minutter   Øst 007 grader 47,3 minutterNord 63 grader 33,3 minutter   Øst 007 grader 50,5 minutter.Herfra videre til posisjon 1.
 
-## § 28. Hauskallen i Møre og Romsdal
-
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Hauskallen i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 15,1 minutter   Øst 007 grader 33,4 minutterNord 63 grader 15,5 minutter   Øst 007 grader 33,4 minutterNord 63 grader 15,5 minutter   Øst 007 grader 34,9 minutterNord 63 grader 15,1 minutter   Øst 007 grader 34,9 minutter.Herfra videre til posisjon 1.
-
-## § 29. Havfluna i Møre og Romsdal
+## § 28. Havfluna i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Havfluna i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 51,00 minutter   Øst 006 grader 16,50 minutterNord 62 grader 52,20 minutter   Øst 006 grader 17,00 minutterNord 62 grader 52,20 minutter   Øst 006 grader 20,00 minutterNord 62 grader 51,00 minutter   Øst 006 grader 19,50 minutter.Herfra videre til posisjon 1.
 
-## § 30. Lauvneset i Møre og Romsdal
+> Endret ved forskrift [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 29).
+
+## § 29. Lauvneset i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Lauvneset i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 58,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 39,0 minutterNord 62 grader 58,0 minutter   Øst 006 grader 39,0 minutter.Herfra videre til posisjon 1.
 
-## § 31. Ona og Klakken i Møre og Romsdal
+> Endret ved forskrift [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 30).
+
+## § 30. Ona og Klakken i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ona og Klakken i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 56,30 minutter   Øst 006 grader 41,30 minutterNord 62 grader 57,10 minutter   Øst 006 grader 42,40 minutterNord 62 grader 56,80 minutter   Øst 006 grader 43,60 minutterNord 62 grader 55,80 minutter   Øst 006 grader 44,50 minutterNord 62 grader 55,40 minutter   Øst 006 grader 43,80 minutter.Herfra videre til posisjon 1.
 
-## § 32. Straff
+> Endret ved forskrift [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 31).
+
+## § 31. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-## § 33. Ikrafttredelse
+> Endret ved forskrift [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32).
+
+## § 32. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
+
+> Endret ved forskrift [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33).
