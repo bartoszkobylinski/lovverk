@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2018-09-01"
-last_change_in_force: "2026-02-03"
+last_change_in_force: "2026-05-18"
 last_updated: "2022-04-26"
-xml_hash: "d587e4f295c9e9c6ca9afd650afa4a57203d292c0c6dc286defc9d75f3d6c530"
+xml_hash: "52646f09125c019feaaf2185883f309133459c08801dd493d710a3aa836aa8dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-20T07:40:56.944763+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -304,10 +304,28 @@ Når skoledrifta blir lagd ned, kan Utdanningsdirektoratet etter søknad godkjen
 
 ## Del 5. Diverse
 
-### Kapittel 10. Ikraftsetjing og oppheving
+### Kapittel 10. Lovbrotsgebyr
 
-### § 10-1. Ikraftsetjing og oppheving
+> Tilføyd ved forskrift [18 mai 2026 nr. 831](forskrift/2026-05-18-831).
+
+### § 10-1. Lovbrotsgebyr
+
+Departementet kan ileggje skolar godkjende etter [privatskolelova](lov/2003-07-04-84) lovbrotsgebyr dersom skolen eller nokon som opptrer på vegner av skolen, forsettleg eller aktlaust bryt føresegner i:[kapittel 3](forskrift/2018-09-01-1295/kap3) om oppstart[§§ 4-6](forskrift/2018-09-01-1295/§4-6) og [4-7](forskrift/2018-09-01-1295/§4-7) om rapportering av elevtal for grunnskolane og vidaregåande skolar[kapittel 5](forskrift/2018-09-01-1295/kap5) om skolepengar[kapittel 6](forskrift/2018-09-01-1295/kap6) om bruk av statstilskot m.m.[kapittel 8](forskrift/2018-09-01-1295/kap8) om rekneskap, revisjon og dokumentasjon, med unntak av [§ 8-4](forskrift/2018-09-01-1295/§8-4) om særskilde fråsegner frå revisor[kapittel 9](forskrift/2018-09-01-1295/kap9) om krav ved nedlegging av skoledrifta.
+
+Ved vurderinga av ilegging og utmåling av lovbrotsgebyr kan det også leggjast vekt på om det er oppdaga forhold i strid med andre lover og forskrifter, dersom forholdet svekkjer tilliten til skolen.
+
+Lovbrotsgebyret skal ikkje vere høgare enn tre gonger grunnbeløpet i folketrygda (3 G).
+
+> Tilføyd ved forskrift [18 mai 2026 nr. 831](forskrift/2026-05-18-831).
+
+### Kapittel 11. Ikraftsetjing og oppheving
+
+> Endra ved forskrift [18 mai 2026 nr. 831](forskrift/2026-05-18-831) (tidlegare kapittel 10).
+
+### § 11-1. Ikraftsetjing og oppheving
 
 Denne forskrifta tek til å gjelde straks.
 
 [Forskrift 19. desember 2006 nr. 1503](forskrift/2006-12-19-1503) om budsjett, rekneskap, kontroll og revisjon for skolar med rett til statstilskot etter [friskolelova](lov/2003-07-04-84) blir oppheva når denne forskrifta tek til å gjelde.
+
+> Endra ved forskrift [18 mai 2026 nr. 831](forskrift/2026-05-18-831) (tidlegare § 10-1).
