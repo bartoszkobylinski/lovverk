@@ -1,6 +1,16 @@
 # forskrift-om-lagring-og-bruk-av-gjødsel-mv — Change history
 
-_2 events; doc_id `sf-20250129-0115`._
+_4 events; doc_id `sf-20250129-0115`._
+
+## 2026-05-21 — Content updated
+Lines: +23 -11.
+Subject: `update(forskrift): forskrift-om-lagring-og-bruk-av-gjødsel-mv`
+Commit: `d415c20`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250129-0115.md` → `"forskrifter/forskrift-om-lagring-og-bruk-av-gj\303\270dsel-mv.md"`.

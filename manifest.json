@@ -14397,19 +14397,6 @@
       "total_changes": null,
       "xml_hash": "f386ddd6d263ecd484f3dbf3a996b4873d168cdcbf2e32282c927c41895dfacd"
     },
-    "sf-19881125-0940": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/forskrift-om-kontroll-av-maritim-tjeneste.md",
-      "slug": "forskrift-om-kontroll-av-maritim-tjeneste",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om kontroll av maritim tjeneste",
-      "total_changes": null,
-      "xml_hash": "b7e3f5bfe6b2c9f63b39575f4279ebe11a5d883f0841821708d9066dd1bca5c7"
-    },
     "sf-19881202-0998": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -31378,15 +31365,15 @@
     "sf-20130214-0199": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-21",
+      "last_seen": "2026-05-21T07:46:41.614504Z",
       "markdown_path": "forskrifter/narkotikaforskriften.md",
       "slug": "narkotikaforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om narkotika (narkotikaforskriften)",
-      "total_changes": null,
-      "xml_hash": "cee85fccdd3e96451002257e6cfabc85287818ec7d48b99393ca6cb594f22e51"
+      "total_changes": 4,
+      "xml_hash": "7fea8e5a7afb6b1c0994a49ddd3bca263b41f0a0d1a74084742ed5d2d97a110b"
     },
     "sf-20130215-0201": {
       "doc_type": "forskrift",
@@ -44677,15 +44664,15 @@
     "sf-20211223-3910": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-21",
+      "last_seen": "2026-05-21T07:46:41.614504Z",
       "markdown_path": "forskrifter/høstingsforskriften.md",
       "slug": "høstingsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gjennomføring av fiske, fangst og høsting av viltlevende marine ressurser (høstingsforskriften)",
-      "total_changes": null,
-      "xml_hash": "4fad72341fde603da369d9baa77a534c1f252c826ab6141533bf23264dd259a9"
+      "total_changes": 4,
+      "xml_hash": "b8230f5ffef971b1328e44c41f79d58604672c9b27c027dec0fcda4796cc2d48"
     },
     "sf-20220104-0010": {
       "doc_type": "forskrift",
@@ -50176,15 +50163,15 @@
     "sf-20250129-0115": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-21",
+      "last_seen": "2026-05-21T07:46:41.614504Z",
       "markdown_path": "forskrifter/forskrift-om-lagring-og-bruk-av-gjødsel-mv.md",
       "slug": "forskrift-om-lagring-og-bruk-av-gjødsel-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om lagring og bruk av gjødsel mv.",
-      "total_changes": null,
-      "xml_hash": "61c1e1d264d07941693c7af9ae9ba53a485a64c7d9d43ea9e1aac237f4c2add7"
+      "total_changes": 4,
+      "xml_hash": "70beb88d34e2faf51fab7d5a6199d88f08b72cdd4252f668e8d4b4126ec83375"
     },
     "sf-20250129-0116": {
       "doc_type": "forskrift",
@@ -51125,15 +51112,15 @@
     "sf-20250627-1361": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-21",
+      "last_seen": "2026-05-21T07:46:41.614504Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter reker i Nordsjøen og Skagerrak i 2025–2026",
-      "total_changes": null,
-      "xml_hash": "fec41d9f6f25fe7944ee296e586f7e8f482d370b2100441bff484adb5b2f6a28"
+      "total_changes": 4,
+      "xml_hash": "7c1c225dedfd87b1f443b7e647820bedd9c1478fe0565e887794de47da2f468b"
     },
     "sf-20250630-1375": {
       "doc_type": "forskrift",
@@ -54555,6 +54542,6 @@
       "xml_hash": "7e767a0944fb63f61f3342ab8fd5c58a1880c5e2da37a9eb5682549b78bab63f"
     }
   },
-  "generated_at": "2026-05-20T07:40:56.944763Z",
+  "generated_at": "2026-05-21T07:46:41.614504Z",
   "version": 1
 }
