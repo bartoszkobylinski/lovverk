@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2025-07-01"
-last_change_in_force: "2025-10-24"
+last_change_in_force: "2026-05-13"
 last_updated: null
-xml_hash: "fec41d9f6f25fe7944ee296e586f7e8f482d370b2100441bff484adb5b2f6a28"
+xml_hash: "7c1c225dedfd87b1f443b7e647820bedd9c1478fe0565e887794de47da2f468b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-21T07:46:41.614504+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,21 +28,25 @@ Det er forbudt for norske fartøy å fiske og lande reker i følgende områder f
 
 ## § 2. Totalkvoter
 
-Uten hinder av forbudet i [§ 1](forskrift/2025-06-27-1361/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:1 030 tonn reker i Nordsjøen.1 308 tonn reker i Skagerrak.
+Uten hinder av forbudet i [§ 1](forskrift/2025-06-27-1361/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil:1 055 tonn reker i Nordsjøen.1 308 tonn reker i Skagerrak.
+
+> Endret ved forskrift [13 mai 2026 nr. 835](forskrift/2026-05-13-835).
 
 ## § 3. Periodisering
 
-Den samlede kvoten på 2 338 tonn reker som kan fiskes i Nordsjøen og Skagerrak periodiseres som følger:*Periode:**Periodekvote:*1. juli–31. oktober779 tonn1. november–28. februar779 tonn1. mars–30. juni780 tonn
+Den samlede kvoten på 2 363 tonn reker som kan fiskes i Nordsjøen og Skagerrak periodiseres som følger:*Periode:**Periodekvote:*1. juli–31. oktober779 tonn1. november–28. februar779 tonn1. mars–30. juni805 tonn
+
+> Endret ved forskrift [13 mai 2026 nr. 835](forskrift/2026-05-13-835).
 
 ## § 4. Maksimalkvoter
 
-Fartøy med adgang til å delta i fisket kan fiske og lande til sammen følgende kvanta reker i følgende perioder i Nordsjøen og Skagerrak:*Periode:**Maksimalkvote:*1. juli–31. oktober7 tonn1. november–28. februar5,50 tonn1. mars–30. juni5,50 tonn
+Fartøy med adgang til å delta i fisket kan fiske og lande til sammen følgende kvanta reker i følgende perioder i Nordsjøen og Skagerrak:*Periode:**Periodekvote:*1. juli–31. oktober7 tonn1. november–28. februar5,50 tonn1. mars–30. juni6,50 tonn
 
 Fartøy under 20 meter største lengde kan fortsette fisket innenfor et garantert kvantum på 3 tonn i hver av de tre periodene selv om periodekvotene er oppfisket.
 
 Fartøy kan overfiske maksimalkvoten i første og andre periode med inntil 15 %. Overfisket kvantum vil bli belastet påfølgende periode.
 
-> Endret ved forskrift [24 okt 2025 nr. 2094](forskrift/2025-10-24-2094).
+> Endret ved forskrifter [24 okt 2025 nr. 2094](forskrift/2025-10-24-2094), [13 mai 2026 nr. 835](forskrift/2026-05-13-835).
 
 ## § 5. Kvoteutnyttelse
 
