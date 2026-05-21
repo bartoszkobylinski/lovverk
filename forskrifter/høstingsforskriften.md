@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-05-18"
 last_updated: "2024-01-16"
-xml_hash: "4fad72341fde603da369d9baa77a534c1f252c826ab6141533bf23264dd259a9"
+xml_hash: "b8230f5ffef971b1328e44c41f79d58604672c9b27c027dec0fcda4796cc2d48"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-21T07:46:41.614504+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -468,13 +468,11 @@ Fiskeridirektoratet kan fastsette nærmere regler om prøvetaking og beregning a
 
 ### § 43. Bifangst ved fiske med reketrål
 
-Ved fiske etter reker med trål sør for 62° N er det tillatt å ha fisk som bifangst. Bifangsten av torsk og hyse ved høsting utenfor 4 nautiske mil fra grunnlinjene kan til sammen ikke overstige 15 % i vekt i de enkelte fangster og ved landing.
+Ved fiske etter reker med trål sør for 62° N er det tillatt å ha fisk som bifangst, med følgende begrensninger:Det er forbudt å ha kveite som bifangst.Ved høsting utenfor 4 nautiske mil fra grunnlinjene kan samlet bifangst av torsk og hyse ikke overstige 15 % i vekt i de enkelte fangster og ved landing.Det er tillatt å ha inntil 5 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing.
 
-Det er likevel forbudt for norske fartøy å ha mer enn:15 % bifangst av breiflabb i vekt i de enkelte fangster og ved landing, og10 % bifangst av torsk i vekt i de enkelte fangster og ved landing, men mindre annet er bestemt i årlig reguleringsforskrift for torsk i Nordsjøen og Skagerrak.
+Uavhengig av første ledd er det for norske fartøy forbudt å ha mer enn:15 % bifangst av breiflabb i vekt i de enkelte fangster og ved landing, og10 % bifangst av torsk i vekt i de enkelte fangster og ved landing, med mindre annet er fastsatt i årlig reguleringsforskrift for torsk i Nordsjøen og Skagerrak.
 
-Ved fiske etter reker med trål sør for 62° N er det tillatt å ha inntil 5 % samlet bifangst av vassild og strømsild i vekt i de enkelte fangster og ved landing.
-
-> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025).
+> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025), [18 mai 2026 nr. 837](forskrift/2026-05-18-837).
 
 ### § 44. Bifangst ved fiske med andre konvensjonelle redskap enn snurrevad
 
@@ -486,13 +484,13 @@ Ved fiske med garn er det uten hinder av [§ 21](forskrift/2021-12-23-3910/§21)
 
 Ved fiske med garn eller liner nord for 62° N er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite, regnet i rund vekt per uke basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00.00 til søndag klokken 24.00. For fartøy som ikke lander flere fangster per uke beregnes bifangsten i vekt i de enkelte fangster og ved landing. Det er likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite i rund vekt basert på summen av all fangst fisket i perioden fra og med 20. desember til og med 20. april.
 
-Ved fiske med garn eller liner sør for 62° er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite, regnet i rund vekt per uke basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00.00 til søndag klokken 24.00. For fartøy som ikke lander flere fangster per uke beregnes bifangsten i vekt i de enkelte fangster og ved landing. Det er likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite i rund vekt basert på summen av all fangst fisket per år.
+Ved fiske med garn eller liner sør for 62° N gjelder følgende bestemmelser om bifangst av kveite, regnet i rundt vekt:I perioden fra og med 20. desember til og med 20. april er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 1 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing. Uavhengig av første setning er det likevel ikke tillatt å ha mer enn 0,5 % bifangst av kveite basert på summen av all fangst fisket i hele perioden.I perioden fra og med 21. april til og med 19. desember er det uten hinder av [§ 39](forskrift/2021-12-23-3910/§39) tillatt å ha inntil 2,5 % bifangst av kveite per uke, basert på summen av all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere fangster per uke skal bifangsten beregnes i vekt i de enkelte fangster og ved landing.
 
 Bestemmelsene i fjerde og femte ledd tillater kun bifangst av kveite som ikke er levedyktig når den kommer om bord. All levedyktig fangst av kveite i fredningstiden skal straks slippes på sjøen.
 
 Ved fiske etter reker med teiner i Fiskevernsonen ved Svalbard og Svalbards territorialfarvann er det forbudt å ha bifangst av snøkrabbe. All bifangst skal gjenutsettes.
 
-> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [24 mai 2023 nr. 726](forskrift/2023-05-24-726) (i kraft 1 juni 2023), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025), [25 mars 2025 nr. 525](forskrift/2025-03-25-525), [12 juni 2025 nr. 1040](forskrift/2025-06-12-1040), [22 des 2025 nr. 2946](forskrift/2025-12-22-2946) (i kraft 1 jan 2026).
+> Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [24 mai 2023 nr. 726](forskrift/2023-05-24-726) (i kraft 1 juni 2023), [20 des 2024 nr. 3496](forskrift/2024-12-20-3496) (i kraft 1 jan 2025), [25 mars 2025 nr. 525](forskrift/2025-03-25-525), [12 juni 2025 nr. 1040](forskrift/2025-06-12-1040), [22 des 2025 nr. 2946](forskrift/2025-12-22-2946) (i kraft 1 jan 2026), [18 mai 2026 nr. 837](forskrift/2026-05-18-837).
 
 ### § 45. Stenging av områder for å begrense bifangst
 
