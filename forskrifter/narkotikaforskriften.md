@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-02-14"
 last_change_in_force: "2026-01-01"
 last_updated: "2024-11-05"
-xml_hash: "cee85fccdd3e96451002257e6cfabc85287818ec7d48b99393ca6cb594f22e51"
+xml_hash: "7fea8e5a7afb6b1c0994a49ddd3bca263b41f0a0d1a74084742ed5d2d97a110b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-21T07:46:41.614504+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Med blandinger menes oppløsninger, fortynninger, ekstrakter, konsentrater, tink
 
 Narkotikalisten fastsettes av departementet. Narkotikalisten, og de bestemmelser i denne som er fastsatt for de enkelte stoffer, grupper av stoffer, droger, planter, sopper eller blandinger, gjelder som en del av denne forskrift.
 
-I narkotikalisten oppføres de stoffer, planter og droger som kommer inn under Den alminnelige [narkotikakonvensjon 30. mars 1961](traktat/1961-03-30-1) eller Konvensjon om psykotrope stoffer 21. februar 1971. Andre stoffer, grupper av stoffer, droger, planter og sopper kan oppføres dersom de har, eller antas å ha, lignende effekt som de stoffer, planter og droger som kommer inn under konvensjonene.
+I narkotikalisten oppføres de stoffer, planter og droger som kommer inn under [Den alminnelige narkotikakonvensjon 30. mars 1961](traktat/1961-03-30-1) eller [Konvensjon om psykotrope stoffer 21. februar 1971](traktat/1971-02-21-1). Andre stoffer, grupper av stoffer, droger, planter og sopper kan oppføres dersom de har, eller antas å ha, lignende effekt som de stoffer, planter og droger som kommer inn under konvensjonene.
 
 ## § 5. Forbudt narkotika, særlige kontrolltiltak
 
