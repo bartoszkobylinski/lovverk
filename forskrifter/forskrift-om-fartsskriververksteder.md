@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-01-25"
-xml_hash: "22631b435499bd64193c8839864cec07214b34b58634ba7b1c5ae72f17010430"
+xml_hash: "d8f9b23acca15138baa2c86065c801a2794cb5c33ab8f9d31b953bf106f5d89f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-22T07:41:20.624788+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Godkjent fartsskriververksted har krav på å få utstedt godkjenningsskilt og g
 
 Statens vegvesen registrerer opplysninger om verksted i sitt elektroniske register.
 
-> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 4).
+> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 4). **Endres** ved forskrift [13 mai 2026 nr. 854](forskrift/2026-05-13-854) (i kraft 8 juni 2026).
 
 ### § 4. Krav til lokaler
 
@@ -200,7 +200,7 @@ Ved avvikling av virksomhet skal godkjenningsskiltet leveres til Statens vegvese
 
 I de tilfeller hvor det er gjennomført kontroll av kjøretøy langs veg, og kontrollmyndigheten beslutter at ytterligere kontroll skal gjøres ved fartsskriververksted, plikter fartsskriververkstedet å stille lokaler, utstyr og personell til disposisjon for å bistå kontrollmyndigheten. Fartsskriververkstedet kan fakturere kontrollmyndigheten som rekvirerte bistand vanlig timesats for arbeidet.
 
-> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 21).
+> Endret ved [forskrifter 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 21). **Endres** ved forskrift [13 mai 2026 nr. 854](forskrift/2026-05-13-854) (i kraft 8 juni 2026).
 
 ## Kapittel 4. Krav til gjennomføring av arbeid og kontroll med fartsskriver
 
@@ -272,7 +272,7 @@ Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra en til sek
 
 Ved tilbakekall av godkjenning skal både skilt og godkjenningsdokument som nevnt i [§ 4](forskrift/2018-09-26-1467/§4) annet ledd leveres til Statens vegvesen.
 
-> Endret ved forskrifter [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [17 mars 2020 nr. 440](forskrift/2020-03-17-440) (i kraft 1 mai 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 29), [17 des 2025 nr. 2716](forskrift/2025-12-17-2716) (i kraft 1 jan 2026).
+> Endret ved forskrifter [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [17 mars 2020 nr. 440](forskrift/2020-03-17-440) (i kraft 1 mai 2020), [22 des 2023 nr. 2339](forskrift/2023-12-22-2339) (i kraft 5 jan 2024, tidligere § 29), [17 des 2025 nr. 2716](forskrift/2025-12-17-2716) (i kraft 1 jan 2026). **Endres** ved forskrift [13 mai 2026 nr. 854](forskrift/2026-05-13-854) (i kraft 8 juni 2026).
 
 ## Kapittel 6. Avsluttende bestemmelser
 
