@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-11-01"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "5b1556ef80a83bb612cc76b2def10b6d837f2abd80e8d90dc655fbcb351d94e3"
+xml_hash: "1d2c2b3417e2e0b75f42fe751017276e1e37b3227372e1316565c1882935eb05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-22T07:41:20.624788+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,6 +142,8 @@ Virksomhet og teknisk leder som oppfyller vilkårene i denne forskriften har kra
 
 Statens vegvesen registrerer og offentliggjør opplysninger om godkjente virksomheter i sitt elektroniske register.
 
+> **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+
 ## Kapittel 4 – Kjøretøyverkstedets plikter
 
 ### § 14. Plikter som kjøretøyverksteddriften medfører
@@ -156,7 +158,11 @@ For reparasjoner utført før 1. april 2023 skal dokumentasjon oppbevares av vir
 
 Reparasjoner utført fra og med 1. april 2023 skal dokumenteres og rapporteres i Statens vegvesens elektroniske register før kjøretøyet tas i bruk.
 
-> Endret ved forskrift [13 juni 2023 nr. 844](forskrift/2023-06-13-844).
+> Endret ved forskrift [13 juni 2023 nr. 844](forskrift/2023-06-13-844). **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+
+### § 14a. Krav til reparasjon av omfattende skader
+
+> **Tilføyes** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ### § 15. Plikt til å opprette kvalitetsstyringssystem
 
@@ -208,7 +214,7 @@ Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra 1 til 6 m�
 
 Ved tilbakekall av en godkjenning skal Statens vegvesen tilbakekalle både skiltet og godkjenningsdokumentet som nevnt i [§ 13](forskrift/2020-10-28-2170/§13).
 
-> Endret ved forskrifter [24 nov 2020 nr. 2448](forskrift/2020-11-24-2448), [17 des 2025 nr. 2717](forskrift/2025-12-17-2717) (i kraft 1 jan 2026).
+> Endret ved forskrifter [24 nov 2020 nr. 2448](forskrift/2020-11-24-2448), [17 des 2025 nr. 2717](forskrift/2025-12-17-2717) (i kraft 1 jan 2026). **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ## Kapittel 6 – Avsluttende bestemmelser
 
