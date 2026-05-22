@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-01-01"
 last_change_in_force: "2026-03-10"
 last_updated: "2025-02-14"
-xml_hash: "14886d06820bd53b8d2ffd68ca857ca86409b0eb1fa154c06ac39261a4482354"
+xml_hash: "bdc3468133a0e687ac0d5335d404a9b101b03e88f773c89a2780b6eed3df64b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-22T07:41:20.624788+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -905,7 +905,7 @@ Ny to- og trehjulet motorvogn som er dokumentert EF-typegodkjent i samsvar med f
 
 1. Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet. Det samme gjelder andre endringer av kjøretøyet som har betydning for trafikksikkerheten, eksempelvis i bærende konstruksjoner, styring, forstilling, bremser o.l., eller dersom kjøretøyet blir utstyrt med trekkdel for tilhenger (gjelder ikke for biler med tillatt totalvekt ikke over 3.500 kg), tipp, kran e.l. Godkjent kjøretøy skal også fremstilles for ny godkjenning dersom det er påført omfattende skader ved kollisjon, utforkjøring e.l. Det vises for øvrig til [kap. 7](forskrift/1994-10-04-918/kap7).
 
-> Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224) (tidligere § 6-7), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019) (tidligere § 6-8).
+> Endret ved [forskrifter 14 feb 2007 nr. 224](forskrift/2007-02-14-224) (tidligere § 6-7), [12 okt 2011 nr. 1019](forskrift/2011-10-12-1019) (tidligere § 6-8). **Endres** ved forskrift [13 mai 2026 nr. 855](forskrift/2026-05-13-855) (i kraft 8 juni 2026).
 
 ### § 6-10. Ansvar for at godkjenningsplikten er oppfylt
 
@@ -1113,7 +1113,7 @@ Ved konvertering av kjøretøy til batterielektrisk drift, skal det dokumenteres
 
 Som kompetent, uavhengig laboratorium i denne sammenheng anses laboratorium som har sertifisering etter ECE 100.
 
-> Endret ved [forskrifter 6 des 2006 nr. 1371](forskrift/2006-12-06-1371) (i kraft 1 jan 2007), [17 april 2007 nr. 419](forskrift/2007-04-17-419), [10 juli 2013 nr. 893](forskrift/2013-07-10-893), [9 des 2013 nr. 1431](forskrift/2013-12-09-1431) (i kraft 1 jan 2014), [23 des 2015 nr. 1844](forskrift/2015-12-23-1844) (i kraft 1 jan 2016), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+> Endret ved [forskrifter 6 des 2006 nr. 1371](forskrift/2006-12-06-1371) (i kraft 1 jan 2007), [17 april 2007 nr. 419](forskrift/2007-04-17-419), [10 juli 2013 nr. 893](forskrift/2013-07-10-893), [9 des 2013 nr. 1431](forskrift/2013-12-09-1431) (i kraft 1 jan 2014), [23 des 2015 nr. 1844](forskrift/2015-12-23-1844) (i kraft 1 jan 2016), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Endres** ved forskrift [13 mai 2026 nr. 855](forskrift/2026-05-13-855) (i kraft 8 juni 2026).
 
 ## Kap. 8. Spesielle kjøretøy
 
