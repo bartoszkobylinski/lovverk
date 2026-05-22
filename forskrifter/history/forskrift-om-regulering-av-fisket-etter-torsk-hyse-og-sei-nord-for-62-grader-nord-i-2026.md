@@ -1,6 +1,11 @@
 # forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026 — Change history
 
-_4 events; doc_id `sf-20251219-2826`._
+_5 events; doc_id `sf-20251219-2826`._
+
+## 2026-05-22 — Content updated
+Lines: +12 -6.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026`
+Commit: `0d37e66`.
 
 ## 2026-05-20 — Content updated
 Lines: +19 -25.

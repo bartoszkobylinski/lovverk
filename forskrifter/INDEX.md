@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3422 current documents_
+_3426 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -115,6 +115,7 @@ _3422 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
 - [endr-i-anskaffelsesforskriften-mfl](endr-i-anskaffelsesforskriften-mfl.md) — Forskrift om endring i forskrifter til anskaffelsesloven
+- [endr-i-bilforskriften](endr-i-bilforskriften.md) — Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)
 - [endr-i-blåreseptforskriften](endr-i-blåreseptforskriften.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-eksplosivforskriften](endr-i-eksplosivforskriften.md) — Forskrift om endring i forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
@@ -131,6 +132,7 @@ _3422 current documents_
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
 - [endr-i-førerkortforskriften-og-trafikkopplæringsforskriften](endr-i-førerkortforskriften-og-trafikkopplæringsforskriften.md) — Forskrift om endring i førerkortforskriften og trafikkopplæringsforskriften
+- [endr-i-kjøretøyforskriften](endr-i-kjøretøyforskriften.md) — Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
 - [endr-i-kraftberedskapsforskriften](endr-i-kraftberedskapsforskriften.md) — Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
@@ -153,6 +155,7 @@ _3422 current documents_
 - [endr-i-vareførselsforskriften-4](endr-i-vareførselsforskriften-4.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-5](endr-i-vareførselsforskriften-5.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-6](endr-i-vareførselsforskriften-6.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
+- [endr-i-verkstedforskriften](endr-i-verkstedforskriften.md) — Forskrift om endring i forskrift om arbeid på kjøretøy (verkstedforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-yrkestransportforskriften-overgangsbestemmelser](endr-i-yrkestransportforskriften-overgangsbestemmelser.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-økodesignforskriften](endr-i-økodesignforskriften.md) — Forskrift om endring i forskrift om miljøvennlig utforming av energirelaterte produkter
@@ -698,6 +701,7 @@ _3422 current documents_
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om endring i forskrift om bruk av kjøretøy
+- [forskrift-om-endring-i-forskrift-om-fartsskriververksteder](forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md) — Forskrift om endring i forskrift om fartsskriververksteder
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)

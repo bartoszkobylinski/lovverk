@@ -1,6 +1,16 @@
 # verkstedforskriften — Change history
 
-_2 events; doc_id `sf-20201028-2170`._
+_4 events; doc_id `sf-20201028-2170`._
+
+## 2026-05-22 — Content updated
+Lines: +10 -4.
+Subject: `update(forskrift): verkstedforskriften`
+Commit: `bf2a54e`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20201028-2170.md` → `forskrifter/verkstedforskriften.md`.

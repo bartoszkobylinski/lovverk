@@ -16064,15 +16064,15 @@
     "sf-19941004-0918": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/kjøretøyforskriften.md",
       "slug": "kjøretøyforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": null,
-      "xml_hash": "14886d06820bd53b8d2ffd68ca857ca86409b0eb1fa154c06ac39261a4482354"
+      "total_changes": 4,
+      "xml_hash": "bdc3468133a0e687ac0d5335d404a9b101b03e88f773c89a2780b6eed3df64b6"
     },
     "sf-19941110-1001": {
       "doc_type": "forskrift",
@@ -38723,15 +38723,15 @@
     "sf-20180926-1467": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/forskrift-om-fartsskriververksteder.md",
       "slug": "forskrift-om-fartsskriververksteder",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fartsskriververksteder",
-      "total_changes": null,
-      "xml_hash": "22631b435499bd64193c8839864cec07214b34b58634ba7b1c5ae72f17010430"
+      "total_changes": 4,
+      "xml_hash": "d8f9b23acca15138baa2c86065c801a2794cb5c33ab8f9d31b953bf106f5d89f"
     },
     "sf-20180928-1471": {
       "doc_type": "forskrift",
@@ -41726,15 +41726,15 @@
     "sf-20201028-2170": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/verkstedforskriften.md",
       "slug": "verkstedforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om arbeid på kjøretøy (verkstedforskriften)",
-      "total_changes": null,
-      "xml_hash": "5b1556ef80a83bb612cc76b2def10b6d837f2abd80e8d90dc655fbcb351d94e3"
+      "total_changes": 4,
+      "xml_hash": "1d2c2b3417e2e0b75f42fe751017276e1e37b3227372e1316565c1882935eb05"
     },
     "sf-20201104-2245": {
       "doc_type": "forskrift",
@@ -45691,15 +45691,15 @@
     "sf-20220628-1233": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/bilforskriften.md",
       "slug": "bilforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
-      "total_changes": null,
-      "xml_hash": "1875ac8b585cc5c69324f54a2e2e2c9c52a3aaa45cb70079861c5098ef912b63"
+      "total_changes": 4,
+      "xml_hash": "e8331a9e4ef4e737b7195ffcbec8203d858f9e2860b3b0da954e8919d82a40af"
     },
     "sf-20220629-1237": {
       "doc_type": "forskrift",
@@ -53231,15 +53231,15 @@
     "sf-20251219-2826": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-20",
-      "last_seen": "2026-05-20T07:40:56.944763Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026",
-      "total_changes": 4,
-      "xml_hash": "051dfb4513f1889d475640fc66429795593835d0e2eb06fc946fa5a86b8e613f"
+      "total_changes": 5,
+      "xml_hash": "3c2b9d237ababc33ad538d1a7ea3a968cdfdee4b4e450c6fb1a5badc063fd723"
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
@@ -54193,15 +54193,15 @@
     "sf-20260409-0579": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-20",
-      "last_seen": "2026-05-20T07:40:56.944763Z",
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "slug": "forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 4,
-      "xml_hash": "edd90d48efcde6e38e9e773f9a75c60a4db4b7e4a0c9cd8b42aa6c43ff000234"
+      "total_changes": 5,
+      "xml_hash": "64256cbe88aa0308c6761ea112073bfde9e5ced97da6c07c27910bfb78d4e96f"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -54540,8 +54540,60 @@
       "title": "Forskrift om sjøfartskort og andre identitetsbevis på skip og flyttbare innretninger (sjøfartskortforskriften)",
       "total_changes": 1,
       "xml_hash": "7e767a0944fb63f61f3342ab8fd5c58a1880c5e2da37a9eb5682549b78bab63f"
+    },
+    "sf-20260513-0853": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "markdown_path": "forskrifter/endr-i-bilforskriften.md",
+      "slug": "endr-i-bilforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
+      "total_changes": 5,
+      "xml_hash": "e6cbf814397a37765b3bc4517a9e9b0c71e24e76936b917fe774c8b345aec4b8"
+    },
+    "sf-20260513-0854": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fartsskriververksteder",
+      "total_changes": 1,
+      "xml_hash": "ca83bd844cd5355f0d848cba80bb6a521e1cef857f44b4a78d1a15b8cb274c95"
+    },
+    "sf-20260513-0855": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "markdown_path": "forskrifter/endr-i-kjøretøyforskriften.md",
+      "slug": "endr-i-kjøretøyforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
+      "total_changes": 1,
+      "xml_hash": "4765ca2a952b0346ffbaaf84612e42596d1e55fbe712a5569ae6f81427ce4153"
+    },
+    "sf-20260513-0856": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-22",
+      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "markdown_path": "forskrifter/endr-i-verkstedforskriften.md",
+      "slug": "endr-i-verkstedforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om arbeid på kjøretøy (verkstedforskriften)",
+      "total_changes": 1,
+      "xml_hash": "3b1c4675ba383b1b4e2a56c8e84252948774c51e0bfab0a004b148b3374693d0"
     }
   },
-  "generated_at": "2026-05-21T07:46:41.614504Z",
+  "generated_at": "2026-05-22T07:41:20.624788Z",
   "version": 1
 }
