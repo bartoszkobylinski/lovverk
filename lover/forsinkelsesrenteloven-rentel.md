@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1978-01-01"
 last_change_in_force: "2013-03-16"
 last_updated: "2023-06-29"
-xml_hash: "03d3ddfa83e4d28e93662f13cf9728e688f88e12a4acbd855c786dc5e076ab28"
+xml_hash: "07f66813cc3ec4ad417b73415e9d6d7a84a14161ca541d9df93793c74dad3854"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-23T06:31:59.201228+00:00"
 status: "current"
 eu_basis:
   - "32011L0007"
@@ -81,7 +81,7 @@ Departementet kan i forskrift gi regler om forholdet til inkassoloven, herunder 
 
 Er skyldneren skyldner i egenskap av forbruker, gjelder i tillegg til [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) følgende regler:Forsinkelsesrenten kan lempes dersom skyldneren har hatt rimelig grunn for sin betalingsvegring.Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn de erstatningsbeløp som kan kreves i medhold av [inkassoloven §§ 17](lov/1988-05-13-26/§17) til [20](lov/1988-05-13-26/§20).Reglene i paragrafen her og i [§§ 2](lov/1976-12-17-100/§2) og [3](lov/1976-12-17-100/§3) kan ikke fravikes ved avtale til skade for skyldneren.Bestemmelsene i [§§ 2 a](lov/1976-12-17-100/§2a), [2 b](lov/1976-12-17-100/§2b), [3 a](lov/1976-12-17-100/§3a) og [4 a](lov/1976-12-17-100/§4a) gjelder ikke når skylderen er en forbruker.
 
-> Endret ved [lover 12 juni 1981 nr. 67](lov/1981-06-12-67), [13 mai 1988 nr. 26](lov/1988-05-13-26), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 jan 1994), [15 feb 2013 nr. 8](lov/2013-02-15-8) (ikr. 16 mars 2013 iflg. [res. 15 feb 2013 nr. 173](forskrift/2013-02-15-173)).
+> Endret ved [lover 12 juni 1981 nr. 67](lov/1981-06-12-67), [13 mai 1988 nr. 26](lov/1988-05-13-26), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 jan 1994), [15 feb 2013 nr. 8](lov/2013-02-15-8) (ikr. 16 mars 2013 iflg. [res. 15 feb 2013 nr. 173](forskrift/2013-02-15-173)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
 ## § 4 a. Anvendelse av [avtaleloven § 36](lov/1918-05-31-4/§36) mv.
 
