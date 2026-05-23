@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2025-09-24"
-xml_hash: "3338f7b99881b1128edc1cb03010903968d8e6a1621f6ab7f0547a1695f8f630"
+xml_hash: "a8c6ef517d49cd31b56ed52fc4e42c46461c5d8c90c2bc67a0611c34e21d9cb9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-05-23T06:31:59.201228+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -334,6 +334,8 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (5) Hvis forliksrådet ikke har adgang til å behandle saken, avvises klagen. Feil som kan avhjelpes, skal klageren først gis adgang til å rette etter [§ 16-5](lov/2005-06-17-90/§16-5). En klage som er inngitt til feil forliksråd etter reglene i [kapittel 4](lov/2005-06-17-90/kap4), henvises til rett forliksråd etter [§ 4-7](lov/2005-06-17-90/§4-7).
 
+> **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
+
 ### § 6-4. Tilsvar
 
 (1) Hvis forliksrådet fremmer saken, forkynnes klagen for klagemotparten med pålegg om å inngi tilsvar innen en frist som normalt settes til to uker. Tilsvaret inngis skriftlig eller muntlig etter reglene i [kapittel 12](lov/2005-06-17-90/kap12). Forliksrådet skal gi nødvendig veiledning om hva tilsvaret må inneholde og konsekvensene av at tilsvar ikke inngis innen fristen, eller er mangelfullt.
@@ -378,7 +380,7 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (6) Ved hvert forliksråd skal det være et utvalg av faste møtefullmektiger. Medlemmene av utvalget oppnevnes av kommunen for inntil fire år av gangen. Kongen gir forskrift om antall møtefullmektiger, deres kvalifikasjoner og godtgjøring mv.
 
-> Endret ved lov [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
+> Endret ved lov [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-8. Sakens behandling i møte
 
