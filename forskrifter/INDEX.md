@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3426 current documents_
+_3427 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1100,7 +1100,7 @@ _3426 current documents_
 - [forskrift-om-grenselengdegebyr](forskrift-om-grenselengdegebyr.md) — Forskrift om grenselengdegebyr
 - [forskrift-om-grenser-for-krigshavnsområder](forskrift-om-grenser-for-krigshavnsområder.md) — Forskrift om grenser for krigshavnsområder
 - [forskrift-om-grenseverdier-i-f-r](forskrift-om-grenseverdier-i-f-r.md) — Forskrift om grenseverdier for koksidiostatika eller histomonostatika i næringsmidler som følge av uunngåelig krysskontaminering med slike stoffer i fôr
-- [forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til](forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til.md) — Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2025 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14
+- [forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til](forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til.md) — Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14
 - [forskrift-om-grunnlinjen-ved-bouvetøya](forskrift-om-grunnlinjen-ved-bouvetøya.md) — Forskrift om grunnlinjen for sjøterritoriet ved Bouvetøya.
 - [forskrift-om-grunnsatser-for-tap-av-tamrein-drept-eller-skadet-av-rovvilt-reindriftsåret-2024-2025](forskrift-om-grunnsatser-for-tap-av-tamrein-drept-eller-skadet-av-rovvilt-reindriftsåret-2024-2025.md) — Forskrift om grunnsatser for tap av tamrein drept eller skadet av rovvilt reindriftsåret 2024–2025
 - [forskrift-om-grunnskoleopplæring-og-vidaregåande-opplæring-i-longyearbyen](forskrift-om-grunnskoleopplæring-og-vidaregåande-opplæring-i-longyearbyen.md) — Forskrift om grunnskoleopplæring og vidaregåande opplæring i Longyearbyen
@@ -2787,6 +2787,7 @@ _3426 current documents_
 - [forskrift-om-utøvelse-av-jakt-felling-og-fangst](forskrift-om-utøvelse-av-jakt-felling-og-fangst.md) — Forskrift om utøvelse av jakt, felling og fangst
 - [forskrift-om-utøvelse-av-myndighet-i-havområdene](forskrift-om-utøvelse-av-myndighet-i-havområdene.md) — Forskrift om politidistrikt, namsmannsdistrikt, lagdømme og domssogn for utøvelse av politimyndighet, namsmannsmyndighet og domsmyndighet på kontinentalsokkelen og i norsk økonomisk sone, samt politimyndighet i havområdet utenfor Svalbards territorialfarvann.
 - [forskrift-om-utøvelse-av-selfangst](forskrift-om-utøvelse-av-selfangst.md) — Forskrift om utøvelse av selfangst
+- [forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk](forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk.md) — Forskrift om utøving av fiske etter anadrome laksefisk
 - [forskrift-om-vakthold-på-norske-skip](forskrift-om-vakthold-på-norske-skip.md) — Forskrift om vakthold for dekksavdelingen og maskinavdelingen på norske fiske- og fangstfartøy
 - [forskrift-om-vakthold-på-passasjer-og-lasteskip](forskrift-om-vakthold-på-passasjer-og-lasteskip.md) — Forskrift om vakthold på passasjer- og lasteskip
 - [forskrift-om-valg-av-utleggsgjenstand](forskrift-om-valg-av-utleggsgjenstand.md) — Forskrift om valg av utleggsgjenstand

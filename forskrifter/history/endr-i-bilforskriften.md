@@ -1,6 +1,11 @@
 # endr-i-bilforskriften — Change history
 
-_5 events; doc_id `sf-20260513-0853`._
+_6 events; doc_id `sf-20260513-0853`._
+
+## 2026-05-23 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): endr-i-bilforskriften`
+Commit: `dc08b83`.
 
 ## 2026-05-22 — Added to corpus
 Lines: +31 -0.

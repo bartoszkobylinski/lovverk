@@ -1,6 +1,11 @@
 # tvisteloven-tvl — Change history
 
-_4 events; doc_id `nl-20050617-090`._
+_5 events; doc_id `nl-20050617-090`._
+
+## 2026-05-23 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): tvisteloven-tvl`
+Commit: `d51fa19`.
 
 ## 2026-05-08 — Content updated
 Lines: +4 -4.

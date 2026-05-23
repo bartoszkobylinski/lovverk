@@ -2170,15 +2170,15 @@
       "eu_basis": [
         "32011L0007"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/forsinkelsesrenteloven-rentel.md",
       "slug": "forsinkelsesrenteloven-rentel",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)",
-      "total_changes": null,
-      "xml_hash": "03d3ddfa83e4d28e93662f13cf9728e688f88e12a4acbd855c786dc5e076ab28"
+      "total_changes": 4,
+      "xml_hash": "07f66813cc3ec4ad417b73415e9d6d7a84a14161ca541d9df93793c74dad3854"
     },
     "nl-19770325-022": {
       "doc_type": "lov",
@@ -2532,15 +2532,15 @@
     "nl-19840608-058": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/konkursloven-kkl.md",
       "slug": "konkursloven-kkl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsforhandling og konkurs (konkursloven)",
-      "total_changes": null,
-      "xml_hash": "fafc8a3e146b7a9f6411dce8d8f0b1bfda8a464711d3c7f64a5d0abd33ccd3af"
+      "total_changes": 4,
+      "xml_hash": "377a3c6853549572d9523857cb1fb778b82fc0930fe89c8452b5d07128169761"
     },
     "nl-19840608-059": {
       "doc_type": "lov",
@@ -2766,15 +2766,15 @@
     "nl-19880513-026": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/inkassoloven-inkl.md",
       "slug": "inkassoloven-inkl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)",
-      "total_changes": null,
-      "xml_hash": "bef6548f1f391872868fdb408a8e25ce15f26bfe80dae2f84c264ec94c8bbbc8"
+      "total_changes": 4,
+      "xml_hash": "5c5a903bec88ba4ace7ab8d039ac477ff5f16db1efcfe6d6ed399bd192ff3a96"
     },
     "nl-19880513-027": {
       "doc_type": "lov",
@@ -3110,15 +3110,15 @@
     "nl-19920626-086": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/tvangsfullbyrdelsesloven-tvangsloven.md",
       "slug": "tvangsfullbyrdelsesloven-tvangsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)",
-      "total_changes": null,
-      "xml_hash": "74325e49640a42a5ac77c119a6002f6bd55414191b8ae04e05ab15783b4b06cb"
+      "total_changes": 4,
+      "xml_hash": "9c46fc97e5cb3d3fc96d530742b461dac7a7bbc47283d0907b1e5a9063b1149a"
     },
     "nl-19920626-087": {
       "doc_type": "lov",
@@ -3704,15 +3704,15 @@
         "32009R0987",
         "32019L1158"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/folketrygdloven-ftrl.md",
       "slug": "folketrygdloven-ftrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folketrygd (folketrygdloven)",
-      "total_changes": null,
-      "xml_hash": "48f285aa3bef5bfc9941fbb9f919eae18eba81be8060d666d149231903435f48"
+      "total_changes": 4,
+      "xml_hash": "f9de8508391fb37ba1cdbd892cac36246b65a09df1033a0dcf29016e16610041"
     },
     "nl-19970509-026": {
       "doc_type": "lov",
@@ -5268,15 +5268,15 @@
     "nl-20050617-090": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "lover/tvisteloven-tvl.md",
       "slug": "tvisteloven-tvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mekling og rettergang i sivile tvister (tvisteloven)",
-      "total_changes": 4,
-      "xml_hash": "3338f7b99881b1128edc1cb03010903968d8e6a1621f6ab7f0547a1695f8f630"
+      "total_changes": 5,
+      "xml_hash": "a8c6ef517d49cd31b56ed52fc4e42c46461c5d8c90c2bc67a0611c34e21d9cb9"
     },
     "nl-20050617-098": {
       "doc_type": "lov",
@@ -10054,6 +10054,21 @@
       "title": "Lov om endringer i straffegjennomføringsloven mv. (isolasjon i fengsel)",
       "total_changes": 2,
       "xml_hash": "ca2501940a141c2efd01ea7a95674ef62e99bda1d827e27df452527f67809b71"
+    },
+    "nl-20260522-019": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32021L2167"
+      ],
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "markdown_path": "lover/inkassoloven.md",
+      "slug": "inkassoloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)",
+      "total_changes": 1,
+      "xml_hash": "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -21277,15 +21292,15 @@
     "sf-20030225-0256": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/forskrift-om-redskaper-mv-ved-laksefiske.md",
       "slug": "forskrift-om-redskaper-mv-ved-laksefiske",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om oppgaveplikt og om redskaper som er tillatt benyttet ved fiske etter anadrome laksefisk.",
-      "total_changes": null,
-      "xml_hash": "7b7c0db895fb4e87a06f56520ab99e6589b2f81d7e736c775c295e33b1513388"
+      "total_changes": 4,
+      "xml_hash": "3f9dabbb4eda8fba630fc90f5e9aba3410717ef38517c85a48ad5dd66250f9f0"
     },
     "sf-20030307-0287": {
       "doc_type": "forskrift",
@@ -50682,13 +50697,13 @@
     },
     "sf-20250523-0837": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til.md",
       "slug": "forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2025 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14",
       "total_changes": null,
       "xml_hash": "7a19ed929fb05e43a59ea49f4878b2ba403522ff3223baab11ba0cfa6bbb0ebd"
@@ -54544,15 +54559,15 @@
     "sf-20260513-0853": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-bilforskriften.md",
       "slug": "endr-i-bilforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
-      "total_changes": 5,
-      "xml_hash": "e6cbf814397a37765b3bc4517a9e9b0c71e24e76936b917fe774c8b345aec4b8"
+      "total_changes": 6,
+      "xml_hash": "20c72e506ace774bc2e9d974275d0ec60420a37e91977862cabbcc1ed0ba3c9f"
     },
     "sf-20260513-0854": {
       "doc_type": "forskrift",
@@ -54570,30 +54585,56 @@
     "sf-20260513-0855": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-kjøretøyforskriften.md",
       "slug": "endr-i-kjøretøyforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": 1,
-      "xml_hash": "4765ca2a952b0346ffbaaf84612e42596d1e55fbe712a5569ae6f81427ce4153"
+      "total_changes": 2,
+      "xml_hash": "538f228428420685d422da3b14e8be8218a0f3a683878a032299f72136dafe4b"
     },
     "sf-20260513-0856": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-verkstedforskriften.md",
       "slug": "endr-i-verkstedforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om arbeid på kjøretøy (verkstedforskriften)",
+      "total_changes": 2,
+      "xml_hash": "d4541271747f89c5777a4a9379631f0fb9453f7fe9a4fb8c57990dc1ca4fb59d"
+    },
+    "sf-20260518-0859": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "markdown_path": "forskrifter/forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk.md",
+      "slug": "forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om utøving av fiske etter anadrome laksefisk",
       "total_changes": 1,
-      "xml_hash": "3b1c4675ba383b1b4e2a56c8e84252948774c51e0bfab0a004b148b3374693d0"
+      "xml_hash": "5e7865c619b2a8fd49f4e6a6cf44d0cafb7401a0c673717b94ffde181e044db2"
+    },
+    "sf-20260522-0869": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-23",
+      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "markdown_path": "forskrifter/forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til.md",
+      "slug": "forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om grunnbeløp, reguleringsfaktorer, satser for minste pensjonsnivå og satser for garantipensjon i folketrygden fra 1. mai 2026 og virknings-tidspunkt for regulering av kravet til minsteinntekt for rett til ytelser etter folketrygdloven kapitlene 4, 8, 9 og 14",
+      "total_changes": 4,
+      "xml_hash": "b7f34bb6581a2212b016b0bf4337bdb257c9317f68ba70029b61554b75bdd107"
     }
   },
-  "generated_at": "2026-05-22T07:41:20.624788Z",
+  "generated_at": "2026-05-23T06:31:59.201228Z",
   "version": 1
 }

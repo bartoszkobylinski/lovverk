@@ -1,6 +1,6 @@
 # Lover
 
-_739 current documents_
+_740 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -288,6 +288,7 @@ _739 current documents_
 - [høyesterettspensjonsloven](høyesterettspensjonsloven.md) — Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensjonsloven]
 - [id-kortloven](id-kortloven.md) — Lov om nasjonalt identitetskort (ID-kortloven)
 - [iks-loven](iks-loven.md) — Lov om interkommunale selskaper (IKS-loven)
+- [inkassoloven](inkassoloven.md) — Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)
 - [inkassoloven-inkl](inkassoloven-inkl.md) — Lov om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)
 - [inndelingslova](inndelingslova.md) — Lov om fastsetjing og endring av kommune- og fylkesgrenser (inndelingslova)
 - [innførsle-og-utførslereguleringslova](innførsle-og-utførslereguleringslova.md) — Lov om innførsle- og utførsleregulering

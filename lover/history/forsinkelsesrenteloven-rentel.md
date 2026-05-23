@@ -1,6 +1,16 @@
 # forsinkelsesrenteloven-rentel — Change history
 
-_2 events; doc_id `nl-19761217-100`._
+_4 events; doc_id `nl-19761217-100`._
+
+## 2026-05-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): forsinkelsesrenteloven-rentel`
+Commit: `d753357`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19761217-100.md` → `lover/forsinkelsesrenteloven-rentel.md`.

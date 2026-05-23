@@ -1,6 +1,16 @@
 # tvangsfullbyrdelsesloven-tvangsloven — Change history
 
-_2 events; doc_id `nl-19920626-086`._
+_4 events; doc_id `nl-19920626-086`._
+
+## 2026-05-23 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): tvangsfullbyrdelsesloven-tvangsloven`
+Commit: `933a63c`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19920626-086.md` → `lover/tvangsfullbyrdelsesloven-tvangsloven.md`.

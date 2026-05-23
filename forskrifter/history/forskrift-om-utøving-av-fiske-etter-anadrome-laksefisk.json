@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260518-0859",
+  "events": [
+    {
+      "commit": "0e667d2",
+      "date": "2026-05-23",
+      "from_path": null,
+      "lines_added": 195,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk"
+}

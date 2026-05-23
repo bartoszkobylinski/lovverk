@@ -2,6 +2,16 @@
   "doc_id": "sf-20260513-0856",
   "events": [
     {
+      "commit": "98317c1",
+      "date": "2026-05-23",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): endr-i-verkstedforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d6c3c1",
       "date": "2026-05-22",
       "from_path": null,
