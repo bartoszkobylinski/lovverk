@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2022-04-22"
-xml_hash: "fafc8a3e146b7a9f6411dce8d8f0b1bfda8a464711d3c7f64a5d0abd33ccd3af"
+xml_hash: "377a3c6853549572d9523857cb1fb778b82fc0930fe89c8452b5d07128169761"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-23T06:31:59.201228+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1486,7 +1486,7 @@ Forkynnelse for en fordringshaver kan under konkurs skje overfor den som har anm
 
 Skiftesamlingene er rettsmøter.
 
-> Endret ved [lover 4 juli 1991 nr. 44](lov/1991-07-04-44), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 4 juli 1991 nr. 44](lov/1991-07-04-44), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
 ### § 150. Tingrettens avgjørelser.
 
