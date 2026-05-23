@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-12-05"
-xml_hash: "74325e49640a42a5ac77c119a6002f6bd55414191b8ae04e05ab15783b4b06cb"
+xml_hash: "9c46fc97e5cb3d3fc96d530742b461dac7a7bbc47283d0907b1e5a9063b1149a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-23T06:31:59.201228+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -462,7 +462,7 @@ Om partsevne, prosessdyktighet og stedfortredere gjelder [tvisteloven kapittel 2
 
 Om prosessfullmektig gjelder [tvisteloven kapittel 3](lov/2005-06-17-90/kap3) tilsvarende. Dessuten kan en inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassatoren har for parten. Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse. For prosessfullmektig etter tredje punktum gjelder [tvisteloven § 12-1](lov/2005-06-17-90/§12-1) på tilsvarende måte som for advokater.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2025 nr. 78](lov/2025-06-20-78) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1106](forskrift/2025-06-20-1106)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2025 nr. 78](lov/2025-06-20-78) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1106](forskrift/2025-06-20-1106)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-2. Begjæring om tvangsfullbyrdelse
 
@@ -662,7 +662,7 @@ Om rettsbøker for tingrettens rettsmøter gjelder [tvisteloven kapittel 13](lov
 
 Inkassobevillingshaver hos en inkassator som driver inkassovirksomhet i medhold av inkassobevilling etter inkassoloven, kan være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassatoren har for parten. Videre kan en jurist være prosessfullmektig under tvangsfullbyrdelse. For prosessfullmektig etter annet punktum gjelder [tvisteloven § 12-1](lov/2005-06-17-90/§12-1) på tilsvarende måte som for advokater. Reglene i første til tredje punktum gjelder ikke ved behandling av tvister ved allmennprosess.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2025 nr. 78](lov/2025-06-20-78) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1106](forskrift/2025-06-20-1106)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2025 nr. 78](lov/2025-06-20-78) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1106](forskrift/2025-06-20-1106)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-3. Tingrettens avgjørelser
 
