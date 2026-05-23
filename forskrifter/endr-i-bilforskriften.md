@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-08"
 last_change_in_force: null
 last_updated: null
-xml_hash: "e6cbf814397a37765b3bc4517a9e9b0c71e24e76936b917fe774c8b345aec4b8"
+xml_hash: "20c72e506ace774bc2e9d974275d0ec60420a37e91977862cabbcc1ed0ba3c9f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-22T07:41:20.624788+00:00"
+retrieved_at: "2026-05-23T06:31:59.201228+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,7 +24,7 @@ eu_basis: []
 
 ## I
 
-For bil og tilhenger til bil som er reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, skal det foreligge dokumentasjon for arbeidet i henhold til verkstedforskriften § 14a.
+For bil og tilhenger til bil som er reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, skal det foreligge dokumentasjon for arbeidet i henhold til [verkstedforskriften § 14a](forskrift/2020-10-28-2170/§14a).
 
 ## II
 
