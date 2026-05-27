@@ -1,6 +1,16 @@
 # forskr-om-eiend-inngrep-etter-oreigningsloven — Change history
 
-_2 events; doc_id `sf-19830708-1250`._
+_4 events; doc_id `sf-19830708-1250`._
+
+## 2026-05-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskr-om-eiend-inngrep-etter-oreigningsloven`
+Commit: `44fb5a5`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19830708-1250.md` → `forskrifter/forskr-om-eiend-inngrep-etter-oreigningsloven.md`.

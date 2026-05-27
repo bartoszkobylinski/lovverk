@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260522-0870",
+  "events": [
+    {
+      "commit": "ed6bb6b",
+      "date": "2026-05-27",
+      "from_path": null,
+      "lines_added": 89,
+      "lines_removed": 0,
+      "subject": "add(forskrift): oreigningsforskrifta",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "oreigningsforskrifta"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260522-0871",
+  "events": [
+    {
+      "commit": "aca325b",
+      "date": "2026-05-27",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa"
+}

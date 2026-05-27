@@ -1,6 +1,16 @@
 # forskrift-om-rett-til-å-foreta-eiendomsinngrep — Change history
 
-_2 events; doc_id `sf-19890714-0565`._
+_4 events; doc_id `sf-19890714-0565`._
+
+## 2026-05-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-rett-til-å-foreta-eiendomsinngrep`
+Commit: `cb0dfe5`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19890714-0565.md` → `"forskrifter/forskrift-om-rett-til-\303\245-foreta-eiendomsinngrep.md"`.

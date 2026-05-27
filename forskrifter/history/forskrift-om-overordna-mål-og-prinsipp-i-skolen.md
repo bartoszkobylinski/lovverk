@@ -1,6 +1,16 @@
 # forskrift-om-overordna-mål-og-prinsipp-i-skolen — Change history
 
-_2 events; doc_id `sf-20170901-1332`._
+_4 events; doc_id `sf-20170901-1332`._
+
+## 2026-05-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-overordna-mål-og-prinsipp-i-skolen`
+Commit: `7a79b91`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20170901-1332.md` → `"forskrifter/forskrift-om-overordna-m\303\245l-og-prinsipp-i-skolen.md"`.

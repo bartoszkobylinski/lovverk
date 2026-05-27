@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3427 current documents_
+_3429 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1877,6 +1877,7 @@ _3427 current documents_
 - [forskrift-om-overgangsregler-til-verdipapirsentralloven](forskrift-om-overgangsregler-til-verdipapirsentralloven.md) — Forskrift om overgangsregler til lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)
 - [forskrift-om-overgangsregler-årsregnskap](forskrift-om-overgangsregler-årsregnskap.md) — Forskrift om overgangsregler til forskrift om årsregnskap m.m. for forsikringsselskaper og til lov om årsregnskap m.v. (regnskapsloven).
 - [forskrift-om-overlastgebyr](forskrift-om-overlastgebyr.md) — Forskrift om gebyr for overlasting
+- [forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa](forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa.md) — Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa
 - [forskrift-om-overordna-mål-og-prinsipp-i-skolen](forskrift-om-overordna-mål-og-prinsipp-i-skolen.md) — Forskrift om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa
 - [forskrift-om-oversikt-over-folkehelsen](forskrift-om-oversikt-over-folkehelsen.md) — Forskrift om oversikt over folkehelsen
 - [forskrift-om-overskudd-fra-nordpolet-as](forskrift-om-overskudd-fra-nordpolet-as.md) — Forskrift om overskuddsutdeling fra Nordpolet AS
@@ -3105,6 +3106,7 @@ _3427 current documents_
 - [opptaksforskrift-for-fagskolen-rogaland](opptaksforskrift-for-fagskolen-rogaland.md) — Forskrift om opptak til høyere yrkesfaglig utdanning ved Fagskolen Rogaland (opptaksforskrift for Fagskolen Rogaland)
 - [opptaksforskrift-for-fagskulen-vestland](opptaksforskrift-for-fagskulen-vestland.md) — Forskrift om opptak ved Fagskulen Vestland
 - [opptaksforskrifta](opptaksforskrifta.md) — Forskrift om opptak til høgare utdanning (opptaksforskrifta)
+- [oreigningsforskrifta](oreigningsforskrifta.md) — Forskrift til oreigningslova (oreigningsforskrifta)
 - [overføring-av-landtransportansvar-farlig-gods](overføring-av-landtransportansvar-farlig-gods.md) — Overføring av ansvar for landtransport av farlig gods fra Samferdselsdepartementet til Kommunal- og arbeidsdepartementet.
 - [overgangsbest-til-lov-2006-88-endr-aksjelovgivn](overgangsbest-til-lov-2006-88-endr-aksjelovgivn.md) — Forskrift om overgangsbestemmelser til lov 15. desember 2006 nr. 88 om endringer i aksjelovgivningen mv.
 - [overgangsbestemmelser-etter-naturmangfoldloven](overgangsbestemmelser-etter-naturmangfoldloven.md) — Forskrift om overgangsbestemmelser etter naturmangfoldloven § 77 i forbindelse med erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven

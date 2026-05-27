@@ -1,6 +1,16 @@
 # forsk-om-årlig-erstatning-etter-oreigningsl — Change history
 
-_2 events; doc_id `sf-19841207-1957`._
+_4 events; doc_id `sf-19841207-1957`._
+
+## 2026-05-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forsk-om-årlig-erstatning-etter-oreigningsl`
+Commit: `4ea4144`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19841207-1957.md` → `"forskrifter/forsk-om-\303\245rlig-erstatning-etter-oreigningsl.md"`.
