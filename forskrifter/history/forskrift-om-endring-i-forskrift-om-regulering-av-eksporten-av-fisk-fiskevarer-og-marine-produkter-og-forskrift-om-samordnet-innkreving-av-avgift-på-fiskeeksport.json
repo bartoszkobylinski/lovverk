@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260227-0890",
+  "events": [
+    {
+      "commit": "b9a3d10",
+      "date": "2026-05-28",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport"
+}

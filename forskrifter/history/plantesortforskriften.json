@@ -2,6 +2,16 @@
   "doc_id": "sf-19991001-1069",
   "events": [
     {
+      "commit": "6bbd2c2",
+      "date": "2026-05-28",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): plantesortforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "95f9fcd",
       "date": "2026-05-06",
       "from_path": null,

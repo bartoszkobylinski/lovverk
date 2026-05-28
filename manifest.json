@@ -14974,15 +14974,15 @@
     "sf-19910322-0157": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-28",
+      "last_seen": "2026-05-28T07:54:49.739061Z",
       "markdown_path": "forskrifter/forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter.md",
       "slug": "forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter",
-      "total_changes": null,
-      "xml_hash": "2581011df97ee523847246f6880df3fd4b5f2d1872c40c88376fe270a03732e2"
+      "total_changes": 4,
+      "xml_hash": "e8c1b957373152c4bef148b5ce925ee779892e44eac189e0d958d778b2302c0f"
     },
     "sf-19910510-0300": {
       "doc_type": "forskrift",
@@ -18718,15 +18718,15 @@
     "sf-19991001-1069": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-06",
-      "last_seen": "2026-05-06T06:27:51.077504Z",
+      "last_changed": "2026-05-28",
+      "last_seen": "2026-05-28T07:54:49.739061Z",
       "markdown_path": "forskrifter/plantesortforskriften.md",
       "slug": "plantesortforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om prøving og godkjenning av plantesorter",
-      "total_changes": 4,
-      "xml_hash": "a85a8ccc9a2f7381aaaf46318b5043f8ac481f27e444443bf2c8f09be03c776e"
+      "total_changes": 5,
+      "xml_hash": "d31f275dae52a6ca1bce29c6ba58abcbe63706ca885b6213751e157e7355cc53"
     },
     "sf-19991014-1084": {
       "doc_type": "forskrift",
@@ -19446,15 +19446,15 @@
     "sf-20001213-1253": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-28",
+      "last_seen": "2026-05-28T07:54:49.739061Z",
       "markdown_path": "forskrifter/forskrift-om-innkreving-av-fiskeeksportavgift.md",
       "slug": "forskrift-om-innkreving-av-fiskeeksportavgift",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om samordnet innkreving av avgift på fiskeeksport",
-      "total_changes": null,
-      "xml_hash": "aca5aec1d2e10b51b9bfd097f90c0490021dcffc27373233f3b0f2eb8a6c247d"
+      "total_changes": 4,
+      "xml_hash": "243aff48f2c74e7c9288dc5ecc5e4a2e60b4bc4e6dea01545dc5ae8ca5b378e5"
     },
     "sf-20001215-1268": {
       "doc_type": "forskrift",
@@ -53932,6 +53932,19 @@
       "total_changes": null,
       "xml_hash": "d6d06c0d8ea6e6d21192828df217de817570ddebcca431951104269b07298ee8"
     },
+    "sf-20260227-0890": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-28",
+      "last_seen": "2026-05-28T07:54:49.739061Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter og forskrift om samordnet innkreving av avgift på fiskeeksport",
+      "total_changes": 1,
+      "xml_hash": "39df9a864f0f549f758f11c2768dd20ccfbfd8fc6c101a6e9214c40ab8562266"
+    },
     "sf-20260305-0340": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54648,6 +54661,6 @@
       "xml_hash": "5b4b505de202bb34e978109ec6730175dcb935229af712caffd6ed7f02545138"
     }
   },
-  "generated_at": "2026-05-27T07:59:51.015213Z",
+  "generated_at": "2026-05-28T07:54:49.739061Z",
   "version": 1
 }

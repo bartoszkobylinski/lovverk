@@ -1,6 +1,11 @@
 # plantesortforskriften — Change history
 
-_4 events; doc_id `sf-19991001-1069`._
+_5 events; doc_id `sf-19991001-1069`._
+
+## 2026-05-28 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): plantesortforskriften`
+Commit: `6bbd2c2`.
 
 ## 2026-05-06 — Content updated
 Lines: +3 -3.
