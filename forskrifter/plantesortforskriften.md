@@ -5,17 +5,17 @@ type: "forskrift"
 ref_id: "forskrift/1999-10-01-1069"
 title: "Forskrift om prøving og godkjenning av plantesorter"
 short_title: "Plantesortforskriften"
-language: "no"
+language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "1999-10-01"
-last_change_in_force: "2026-04-30"
+last_change_in_force: "2026-05-08"
 last_updated: "2026-03-20"
-xml_hash: "a85a8ccc9a2f7381aaaf46318b5043f8ac481f27e444443bf2c8f09be03c776e"
+xml_hash: "d31f275dae52a6ca1bce29c6ba58abcbe63706ca885b6213751e157e7355cc53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-06T06:27:51.077504+00:00"
+retrieved_at: "2026-05-28T07:54:49.739061+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,15 +76,15 @@ En sort kan ikke godkjennes som bevaringsverdig sort eller tradisjonssort hvis d
 
 ## § 4b. Godkjenning av økologiske plantesorter
 
-En sort kan godkjennes som økologisk sort når følgende krav er oppfylt:den tilhører en art som er listet i vedlegget del A,den har fått godkjent nyhetsprøving,det er gjennomført verdiprøving med det resultat at sorten anses å ha en tilfredsstillende dyrkings- og bruksverdi i Norge ogden er vurdert å være spesielt godt egnet for økologisk landbruk eller økologisk mat- eller fôrproduksjon.
+En sort kan godkjennes som økologisk sort egnet til økologisk produksjon når følgende krav er oppfylt:den er et resultat av økologisk planteforedling jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), forordning [(EU) 2018/848](eu/32018r0848) artikkel 3 punkt 19den har fått godkjent nyhetsprøving,det er gjennomført verdiprøving med det resultat at sorten anses å ha en tilfredsstillende dyrkings- og bruksverdi i Norge ogden er vurdert å være spesielt godt egnet for økologisk landbruk eller økologisk mat- eller fôrproduksjon.
 
-Nyhetsprøven skal gjennomføres i samsvar med tekniske retningslinjer som angitt i [§ 4 andre ledd](forskrift/1999-10-01-1069/§4/ledd/2), men de kjennetegnene som står oppført i vedlegget del B, kan vurderes mindre strengt enn for konvensjonelle sorter når det gjelder krav til ensartethet. For disse kjennetegnene skal graden av ensartethet være tilsvarende som for sammenlignbare sorter allment kjent i EØS-området.
+Nyhetsprøven skal gjennomføres i samsvar med tekniske retningslinjer som angitt i [§ 4 andre ledd](forskrift/1999-10-01-1069/§4/ledd/2). For artene listet i vedlegget del A, kan de kjennetegnene som står oppført i vedlegget del B vurderes mindre strengt enn for konvensjonelle sorter når det gjelder krav til ensartethet. For disse kjennetegnene skal graden av ensartethet være tilsvarende som for sammenlignbare sorter allment kjent i EØS-området.
 
 En økologisk sort skal anses for å ha tilfredsstillende dyrkings- og bruksverdi når den, sammenlignet med andre godkjente økologiske sorter, har egenskaper som sett under ett, klart forbedrer enten dyrkingen av sorten eller utnyttelsen av avlingen eller produkter av den, i hvert fall når det gjelder produksjonen i en landsdel. Særlige gunstige egenskaper kan veie opp for enkelte andre ugunstige egenskaper, og egenskaper som er særlig fordelaktige i økologisk landbruk, mat- eller fôrproduksjon skal vektlegges.
 
 Unntaket fra kravet om verdiprøving i [§ 4 femte ledd](forskrift/1999-10-01-1069/§4/ledd/5) gjelder tilsvarende for økologiske plantesorter.
 
-> Tilføyd ved forskrift [5 mars 2025 nr. 395](forskrift/2025-03-05-395).
+> Tilføyd ved forskrift [5 mars 2025 nr. 395](forskrift/2025-03-05-395), endret ved forskrift [8 mai 2026 nr. 891](forskrift/2026-05-08-891).
 
 ## § 4c. Oppføring av plantesorter på offisiell norsk sortsliste
 
