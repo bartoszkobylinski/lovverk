@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-05-20"
+last_change_in_force: "2026-05-26"
 last_updated: null
-xml_hash: "1e2a756fc1304d1dbc717694f6d6b3b13d09a8560d7449a9ed79470562582421"
+xml_hash: "4f8c23de7a9d62493c3aa9e6ad2c35dedce5ee495d6c6818176421dbfcd4601d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-27T07:59:51.015213+00:00"
+retrieved_at: "2026-05-29T07:52:43.488317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -113,52 +113,40 @@ Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40
 
 > Endret ved forskrift [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 23).
 
-## § 23. Kleivklakken i Møre og Romsdal
-
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Kleivklakken i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 07,500 minutter   Øst 007 grader 07,000 minutterNord 63 grader 09,000 minutter   Øst 007 grader 07,000 minutterNord 63 grader 09,000 minutter   Øst 007 grader 13,000 minutterNord 63 grader 07,500 minutter   Øst 007 grader 13,000 minutter.Herfra videre til posisjon 1.
-
-> Endret ved forskrift [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 24).
-
-## § 24. Hansgrunna i Møre og Romsdal
-
-Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Hansgrunna i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 11,500 minutter   Øst 007 grader 01,000 minutterNord 63 grader 12,500 minutter   Øst 007 grader 01,000 minutterNord 63 grader 12,500 minutter   Øst 007 grader 04,500 minutterNord 63 grader 11,500 minutter   Øst 007 grader 04,500 minutter.Herfra videre til posisjon 1.
-
-> Endret ved forskrift [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 25).
-
-## § 25. Flåskallen i Møre og Romsdal
+## § 23. Flåskallen i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Flåskallen i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 32,4 minutter   Øst 005 grader 32,0 minutterNord 62 grader 33,0 minutter   Øst 005 grader 32,0 minutterNord 62 grader 33,2 minutter   Øst 005 grader 36,5 minutterNord 62 grader 32,5 minutter   Øst 005 grader 36,4 minutter.Herfra videre til posisjon 1.
 
-> Endret ved forskrift [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 26).
+> Endret ved forskrifter [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 26), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 25).
 
-## § 26. Havfluna i Møre og Romsdal
+## § 24. Havfluna i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Havfluna i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 51,00 minutter   Øst 006 grader 16,50 minutterNord 62 grader 52,20 minutter   Øst 006 grader 17,00 minutterNord 62 grader 52,20 minutter   Øst 006 grader 20,00 minutterNord 62 grader 51,00 minutter   Øst 006 grader 19,50 minutter.Herfra videre til posisjon 1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 29), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 28), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 27).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 29), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 28), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 27), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 26).
 
-## § 27. Lauvneset i Møre og Romsdal
+## § 25. Lauvneset i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Lauvneset i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 58,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 27,0 minutterNord 63 grader 01,0 minutter   Øst 006 grader 39,0 minutterNord 62 grader 58,0 minutter   Øst 006 grader 39,0 minutter.Herfra videre til posisjon 1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 30), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 29), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 28).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 30), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 29), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 28), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 27).
 
-## § 28. Ona og Klakken i Møre og Romsdal
+## § 26. Ona og Klakken i Møre og Romsdal
 
 Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40 cm, jf. [høstingsforskriften § 47](forskrift/2021-12-23-3910/§47) nr. 20 bokstav c, er det forbudt å fiske etter sei med not i et område på Ona og Klakken i Møre og Romsdal avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 56,30 minutter   Øst 006 grader 41,30 minutterNord 62 grader 57,10 minutter   Øst 006 grader 42,40 minutterNord 62 grader 56,80 minutter   Øst 006 grader 43,60 minutterNord 62 grader 55,80 minutter   Øst 006 grader 44,50 minutterNord 62 grader 55,40 minutter   Øst 006 grader 43,80 minutter.Herfra videre til posisjon 1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 31), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 30), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 29).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 31), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 30), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 29), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 28).
 
-## § 29. Straff
+## § 27. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29).
 
-## § 30. Ikrafttredelse
+## § 28. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30).
