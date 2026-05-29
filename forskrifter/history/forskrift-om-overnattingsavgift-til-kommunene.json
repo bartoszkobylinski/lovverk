@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260522-0895",
+  "events": [
+    {
+      "commit": "4bc4003",
+      "date": "2026-05-29",
+      "from_path": null,
+      "lines_added": 45,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-overnattingsavgift-til-kommunene",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-overnattingsavgift-til-kommunene"
+}

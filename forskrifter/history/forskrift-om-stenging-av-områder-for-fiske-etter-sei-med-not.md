@@ -1,6 +1,11 @@
 # forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not — Change history
 
-_6 events; doc_id `sf-20260409-0579`._
+_7 events; doc_id `sf-20260409-0579`._
+
+## 2026-05-29 — Content updated
+Lines: +15 -27.
+Subject: `update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not`
+Commit: `2dab85c`.
 
 ## 2026-05-27 — Content updated
 Lines: +25 -21.

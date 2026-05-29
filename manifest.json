@@ -13323,15 +13323,15 @@
     "sf-19840319-2319": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling.md",
-      "slug": "forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling",
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "markdown_path": "forskrifter/forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag.md",
+      "slug": "forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling",
-      "total_changes": null,
-      "xml_hash": "6069d57622c9479a7c284d70d0ccf60ca41226c8b51882c163a21d0b16dcd4d7"
+      "title": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
+      "total_changes": 1,
+      "xml_hash": "1a6965102a3c0b498a43f3c18566c26bfdddf3974036c9b41ee45b66ae46e844"
     },
     "sf-19840330-0819": {
       "doc_type": "forskrift",
@@ -31380,15 +31380,15 @@
     "sf-20130214-0199": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-21",
-      "last_seen": "2026-05-21T07:46:41.614504Z",
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
       "markdown_path": "forskrifter/narkotikaforskriften.md",
       "slug": "narkotikaforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om narkotika (narkotikaforskriften)",
-      "total_changes": 4,
-      "xml_hash": "7fea8e5a7afb6b1c0994a49ddd3bca263b41f0a0d1a74084742ed5d2d97a110b"
+      "total_changes": 5,
+      "xml_hash": "6b4d8255880d7dad534867e82201414cbdf4277f062a1b1da35e42c4ace4dfa4"
     },
     "sf-20130215-0201": {
       "doc_type": "forskrift",
@@ -37932,15 +37932,15 @@
     "sf-20171220-2306": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling.md",
-      "slug": "pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling",
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "markdown_path": "forskrifter/pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag.md",
+      "slug": "pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
-      "title": "Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling",
-      "total_changes": null,
-      "xml_hash": "4f90ad51d7806db692751bad9978c2309242e551b2e634203711eea5962c0554"
+      "title": "Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
+      "total_changes": 4,
+      "xml_hash": "dc2a5cec3171cca948f09421f0a0dccb824e5fc15a9e15e5ffb96a9aa42ebf5a"
     },
     "sf-20171220-2308": {
       "doc_type": "forskrift",
@@ -41078,15 +41078,15 @@
     "sf-20200415-0798": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
       "markdown_path": "forskrifter/forskrift-om-utdanningsstøtte.md",
       "slug": "forskrift-om-utdanningsstøtte",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utdanningsstøtte",
-      "total_changes": null,
-      "xml_hash": "5a566487b962d1b40f3bcaf13b78a64594272aa17396ec13787a607b6e6d7717"
+      "total_changes": 5,
+      "xml_hash": "540d615272f0347d42e110c2d4490de256b68e35f5343da607070a953a10c077"
     },
     "sf-20200417-0810": {
       "doc_type": "forskrift",
@@ -54208,15 +54208,15 @@
     "sf-20260409-0579": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-27",
-      "last_seen": "2026-05-27T07:59:51.015213Z",
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "slug": "forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 6,
-      "xml_hash": "1e2a756fc1304d1dbc717694f6d6b3b13d09a8560d7449a9ed79470562582421"
+      "total_changes": 7,
+      "xml_hash": "4f8c23de7a9d62493c3aa9e6ad2c35dedce5ee495d6c6818176421dbfcd4601d"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -54659,8 +54659,34 @@
       "title": "Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa",
       "total_changes": 1,
       "xml_hash": "5b4b505de202bb34e978109ec6730175dcb935229af712caffd6ed7f02545138"
+    },
+    "sf-20260522-0895": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "markdown_path": "forskrifter/forskrift-om-overnattingsavgift-til-kommunene.md",
+      "slug": "forskrift-om-overnattingsavgift-til-kommunene",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om overnattingsavgift til kommunene",
+      "total_changes": 1,
+      "xml_hash": "f1909f702113e98fc7ba038a118d4fc7ce0f37e7579c3270a0114636bbf151fe"
+    },
+    "sf-20260526-0897": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-29",
+      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "markdown_path": "forskrifter/forskrift-om-statens-kunstnarstipend.md",
+      "slug": "forskrift-om-statens-kunstnarstipend",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om Statens kunstnarstipend",
+      "total_changes": 1,
+      "xml_hash": "e1e27598e29a3c4c0baa1508b66b3ad1a15510cdb5eb950c1e9fda0a91b22ca3"
     }
   },
-  "generated_at": "2026-05-28T07:54:49.739061Z",
+  "generated_at": "2026-05-29T07:52:43.488317Z",
   "version": 1
 }

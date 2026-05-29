@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3430 current documents_
+_3432 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1878,6 +1878,7 @@ _3430 current documents_
 - [forskrift-om-overgangsregler-til-verdipapirsentralloven](forskrift-om-overgangsregler-til-verdipapirsentralloven.md) — Forskrift om overgangsregler til lov 15. mars 2019 nr. 6 om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)
 - [forskrift-om-overgangsregler-årsregnskap](forskrift-om-overgangsregler-årsregnskap.md) — Forskrift om overgangsregler til forskrift om årsregnskap m.m. for forsikringsselskaper og til lov om årsregnskap m.v. (regnskapsloven).
 - [forskrift-om-overlastgebyr](forskrift-om-overlastgebyr.md) — Forskrift om gebyr for overlasting
+- [forskrift-om-overnattingsavgift-til-kommunene](forskrift-om-overnattingsavgift-til-kommunene.md) — Forskrift om overnattingsavgift til kommunene
 - [forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa](forskrift-om-overordna-mål-og-prinsipp-for-grunnskoleopplæringa-og-den-vidaregåande-opplæringa.md) — Forskrift om overordna mål og prinsipp for grunnskoleopplæringa og den vidaregåande opplæringa
 - [forskrift-om-overordna-mål-og-prinsipp-i-skolen](forskrift-om-overordna-mål-og-prinsipp-i-skolen.md) — Forskrift om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa
 - [forskrift-om-oversikt-over-folkehelsen](forskrift-om-oversikt-over-folkehelsen.md) — Forskrift om oversikt over folkehelsen
@@ -1909,7 +1910,7 @@ _3430 current documents_
 - [forskrift-om-pensjon-for-sametingsrepresentanter](forskrift-om-pensjon-for-sametingsrepresentanter.md) — Forskrift om pensjonsordning for sametingsrepresentanter
 - [forskrift-om-pensjonsberegning-eøs](forskrift-om-pensjonsberegning-eøs.md) — Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen.
 - [forskrift-om-pensjonsforetak](forskrift-om-pensjonsforetak.md) — Forskrift om pensjonsforetak
-- [forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling](forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling.md) — Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling
+- [forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag](forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag.md) — Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag
 - [forskrift-om-pensjonsordning-for-stortingsrepresentanter-og-regjeringsmedlemmer](forskrift-om-pensjonsordning-for-stortingsrepresentanter-og-regjeringsmedlemmer.md) — Forskrift om særskilte delingstall i pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer
 - [forskrift-om-periodisk-kjøretøykontroll-pkk](forskrift-om-periodisk-kjøretøykontroll-pkk.md) — Forskrift om periodisk kontroll av kjøretøy
 - [forskrift-om-personlig-verneutstyr-pvu](forskrift-om-personlig-verneutstyr-pvu.md) — Forskrift om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU)
@@ -2311,6 +2312,7 @@ _3430 current documents_
 - [forskrift-om-statens-finansfond](forskrift-om-statens-finansfond.md) — Forskrift om Statens finansfond
 - [forskrift-om-statens-helsepersonellnemnd](forskrift-om-statens-helsepersonellnemnd.md) — Forskrift om Statens helsepersonellnemnd – organisering og saksbehandling.
 - [forskrift-om-statens-kunsterstipend-m-m](forskrift-om-statens-kunsterstipend-m-m.md) — Forskrift om statens stipend og garantiinntekter for kunstnere
+- [forskrift-om-statens-kunstnarstipend](forskrift-om-statens-kunstnarstipend.md) — Forskrift om Statens kunstnarstipend
 - [forskrift-om-statistikk-over-sykefravær](forskrift-om-statistikk-over-sykefravær.md) — Forskrift om føring av statistikk over sykefravær og fravær ved barns sykdom.
 - [forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-statsbidrag-til-skytebaner](forskrift-om-statsbidrag-til-skytebaner.md) — Forskrifter for ytelse av statsbidrag til skytebaner.
@@ -3163,7 +3165,7 @@ _3430 current documents_
 - [patentstyreforskrifta](patentstyreforskrifta.md) — Forskrift til patentstyrelova (patentstyreforskrifta)
 - [pelsdyrforskriften](pelsdyrforskriften.md) — Forskrift om hold av pelsdyr
 - [pengespillforskriften](pengespillforskriften.md) — Forskrift om pengespill (pengespillforskriften)
-- [pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling](pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling.md) — Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling
+- [pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag](pensjonsgrunnlag-i-pensjonsordning-for-apotekvirksomhet-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag.md) — Forskrift om pensjonsgrunnlag i pensjonsordning for apotekvirksomhet ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag
 - [plantesortforskriften](plantesortforskriften.md) — Forskrift om prøving og godkjenning av plantesorter
 - [plantevernmiddelrestforskriften](plantevernmiddelrestforskriften.md) — Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
 - [poliklinikkforskriften](poliklinikkforskriften.md) — Forskrift om godtgjørelse for å yte poliklinisk helsehjelp i spesialisthelsetjenesten (poliklinikkforskriften)

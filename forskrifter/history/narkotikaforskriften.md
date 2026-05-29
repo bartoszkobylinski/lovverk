@@ -1,6 +1,11 @@
 # narkotikaforskriften — Change history
 
-_4 events; doc_id `sf-20130214-0199`._
+_5 events; doc_id `sf-20130214-0199`._
+
+## 2026-05-29 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): narkotikaforskriften`
+Commit: `38a2ae4`.
 
 ## 2026-05-21 — Content updated
 Lines: +3 -3.

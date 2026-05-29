@@ -1,6 +1,16 @@
 # forskrift-om-utdanningsstøtte — Change history
 
-_3 events; doc_id `sf-20200415-0798`._
+_5 events; doc_id `sf-20200415-0798`._
+
+## 2026-05-29 — Content updated
+Lines: +47 -47.
+Subject: `update(forskrift): forskrift-om-utdanningsstøtte`
+Commit: `e634003`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-29 — Content updated
 Lines: +118 -110.
