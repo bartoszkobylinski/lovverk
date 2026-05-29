@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-02-14"
 last_change_in_force: "2026-01-01"
 last_updated: "2024-11-05"
-xml_hash: "7fea8e5a7afb6b1c0994a49ddd3bca263b41f0a0d1a74084742ed5d2d97a110b"
+xml_hash: "6b4d8255880d7dad534867e82201414cbdf4277f062a1b1da35e42c4ace4dfa4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-21T07:46:41.614504+00:00"
+retrieved_at: "2026-05-29T07:52:43.488317+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -232,7 +232,7 @@ I følgende forskrifter skal uttrykkene «narkotika m.v.», «narkotika mv.» og
 
 ## Narkotikalisten
 
-> Endret ved [forskrifter 2 des 2013 nr. 1462](forskrift/2013-12-02-1462), [16 des 2013 nr. 1557](forskrift/2013-12-16-1557), [3 april 2014 nr. 390](forskrift/2014-04-03-390), [26 juni 2014 nr. 880](forskrift/2014-06-26-880), [3 okt 2014 nr. 1284](forskrift/2014-10-03-1284), [19 des 2014 nr. 1837](forskrift/2014-12-19-1837), [28 sep 2015 nr. 1154](forskrift/2015-09-28-1154) (i kraft 1 jan 2016), [4 juli 2016 nr. 875](forskrift/2016-07-04-875), [16 juni 2017 nr. 819](forskrift/2017-06-16-819), [9 nov 2017 nr. 1745](forskrift/2017-11-09-1745), [22 juni 2018 nr. 955](forskrift/2018-06-22-955), [22 mai 2020 nr. 1041](forskrift/2020-05-22-1041), [4 juni 2020 nr. 1128](forskrift/2020-06-04-1128), [9 juli 2020 nr. 1538](forskrift/2020-07-09-1538) (i kraft 1 sep 2020), [5 juli 2021 nr. 2354](forskrift/2021-07-05-2354), [11 jan 2023 nr. 27](forskrift/2023-01-11-27), [3 mai 2023 nr. 652](forskrift/2023-05-03-652), [11 sep 2023 nr. 1409](forskrift/2023-09-11-1409), [11 des 2023 nr. 2000](forskrift/2023-12-11-2000), [29 feb 2024 nr. 357](forskrift/2024-02-29-357), [26 sep 2024 nr. 2301](forskrift/2024-09-26-2301), [15 okt 2024 nr. 2520](forskrift/2024-10-15-2520), 31 okt 2024 (tabellene alfabetisert uten kunngjøring av endring i Norsk Lovtidend), [26 aug 2025 nr. 1715](forskrift/2025-08-26-1715) (i kraft 1 sep 2025), [19 des 2025 nr. 2928](forskrift/2025-12-19-2928) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 2 des 2013 nr. 1462](forskrift/2013-12-02-1462), [16 des 2013 nr. 1557](forskrift/2013-12-16-1557), [3 april 2014 nr. 390](forskrift/2014-04-03-390), [26 juni 2014 nr. 880](forskrift/2014-06-26-880), [3 okt 2014 nr. 1284](forskrift/2014-10-03-1284), [19 des 2014 nr. 1837](forskrift/2014-12-19-1837), [28 sep 2015 nr. 1154](forskrift/2015-09-28-1154) (i kraft 1 jan 2016), [4 juli 2016 nr. 875](forskrift/2016-07-04-875), [16 juni 2017 nr. 819](forskrift/2017-06-16-819), [9 nov 2017 nr. 1745](forskrift/2017-11-09-1745), [22 juni 2018 nr. 955](forskrift/2018-06-22-955), [22 mai 2020 nr. 1041](forskrift/2020-05-22-1041), [4 juni 2020 nr. 1128](forskrift/2020-06-04-1128), [9 juli 2020 nr. 1538](forskrift/2020-07-09-1538) (i kraft 1 sep 2020), [5 juli 2021 nr. 2354](forskrift/2021-07-05-2354), [11 jan 2023 nr. 27](forskrift/2023-01-11-27), [3 mai 2023 nr. 652](forskrift/2023-05-03-652), [11 sep 2023 nr. 1409](forskrift/2023-09-11-1409), [11 des 2023 nr. 2000](forskrift/2023-12-11-2000), [29 feb 2024 nr. 357](forskrift/2024-02-29-357), [26 sep 2024 nr. 2301](forskrift/2024-09-26-2301), [15 okt 2024 nr. 2520](forskrift/2024-10-15-2520), 31 okt 2024 (tabellene alfabetisert uten kunngjøring av endring i Norsk Lovtidend), [26 aug 2025 nr. 1715](forskrift/2025-08-26-1715) (i kraft 1 sep 2025), [19 des 2025 nr. 2928](forskrift/2025-12-19-2928) (i kraft 1 jan 2026). **Endres** ved forskrift [15 mai 2026 nr. 892](forskrift/2026-05-15-892) (i kraft 1 juni 2026).
 
 ### Kjemiske betegnelser
 
