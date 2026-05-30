@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2018-08-01"
-last_change_in_force: "2026-04-01"
+last_change_in_force: "2026-05-27"
 last_updated: "2021-06-29"
-xml_hash: "71273dacce419d0f002c601e8758e7ffa7bbecd252462d98138800a5512b5295"
+xml_hash: "b11f9075e1d9ca7f8334275c75566fc26a930c7315a91fc5aa88c8cfda4e0d45"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,9 +148,9 @@ Utdanning der en virksomhet inngår avtale med Handelshøyskolen BI om å avhold
 
 (2) Enhver student som følger et program, enkeltkurs eller ikke-studiepoenggivende kurs er forpliktet til å betale studieavgift for den normerte studietiden slik den fremgår av den enkelte studiekontrakt. Frist for å melde seg av slik utdanning fremgår av studiekontrakten dersom ikke annen informasjon er gitt, ellers gjelder [§ 3-5](forskrift/2018-06-01-1546/§3-5).
 
-(3) (Opphevet.)
+(3) (Opphevet)
 
-(4) (Opphevet.)
+(4) (Opphevet)
 
 (5) Bestemmelsen i denne paragrafen gjelder ikke opptak til virksomhetsinterne kurs.
 
@@ -178,19 +178,19 @@ Opptakskravene i dette kapittel er fastsatt med hjemmel i [universitets- og høy
 
 (1) Opptak gis til kvalifiserte søkere. På noen studier må søkere i tillegg til kvalifikasjonskravene oppnå minimum en fastsatt poengsum. Opptakskravene er fastsatt med hjemmel i forskrift om opptak til høyere utdanning kapittel 7.
 
-(2) Søkere til Bachelor of Data Science for Business og det femårige integrerte masterstudium; bachelor i økonomi og ledelse / master i økonomi og ledelse (siviløkonomstudiet), må i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4) ha dokumenterte kunnskaper i matematikk R1 eller matematikk S1 + S2 (tidl. 2MX, 2MY eller 3MZ).
+(2) Søkere til Bachelor i datavitenskap og økonomi og det femårige integrerte masterstudium; bachelor i økonomi og ledelse / master i økonomi og ledelse (siviløkonomstudiet), må i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4) ha dokumenterte kunnskaper i matematikk R1 eller matematikk S1 + S2 (tidl. 2MX, 2MY eller 3MZ).
 
-(3) (Opphevet.)
+(3) (Opphevet)
 
 (4) Søkere til engelskspråklige bachelorstudier må, i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4), dokumentere minimum karakteren 4,0 i fellesfaget engelsk (140 timer).
 
-(5) (Opphevet.)
+(5) (Opphevet)
 
-(6) Søkere til programmet Leadership in Action i graden Bachelor of Management må, i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4), ha dokumenterte kunnskaper på minst 90 studiepoeng fra høyskole eller universitet. Søkeren må være minst 25 år i opptaksåret og kunne dokumentere minimum fire års yrkeserfaring.
+(6) Søkere til programmet Leadership in Action i graden Bachelor i ledelse må, i tillegg til bestemmelsene i [§ 2-4](forskrift/2018-06-01-1546/§2-4), ha dokumenterte kunnskaper på minst 90 studiepoeng fra høyskole eller universitet. Søkeren må være minst 25 år i opptaksåret og kunne dokumentere minimum fire års yrkeserfaring.
 
 (7) For de fleste studiene på bachelornivå ved Handelshøyskolen BI er det adgang til å søke om direkte opptak til henholdsvis andre og tredje studieår, forutsatt at man har dekket de nødvendige fagområdene, og i tillegg har forpliktet seg til å ta nødvendige kurs som mangler, se for øvrig forskriften [§ 2-3](forskrift/2018-06-01-1546/§2-3) og [§ 4-8](forskrift/2018-06-01-1546/§4-8). Konkrete krav til fagsammensetning utarbeides for hver student. Når antallet ledige plasser er begrenset, konkurrerer søkerne på grunnlag av angitt poengkrav. Innenfor de rammer som trekkes opp av lov og forskrifter gjeldende for universiteter og høyskoler, avgjør Handelshøyskolen BI om søkeren tilfredsstiller minimumskrav til studiepoeng innenfor fagområdene i de ulike studier.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [23 jan 2024 nr. 205](forskrift/2024-01-23-205) (i kraft 1 mars 2024).
+> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [23 jan 2024 nr. 205](forskrift/2024-01-23-205) (i kraft 1 mars 2024), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 2-6. Spesifikke opptakskrav til studier på masternivå
 
@@ -276,15 +276,15 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 11-1](lov/2024-03-08-
 
 (3) Studenter som har meldt seg ut av et studium/program eller er blitt meldt ut av Handelshøyskolen BI, må søke om opptak på nytt dersom de senere ønsker studieplass. Handelshøyskolen BI vurderer da ut fra gjeldende regelverk og studieplaner om tidligere avlagte eksamener kan inngå i grad/tittel.
 
-(4)Det gis anledning til å søke om ett års permisjon i løpet av normert studietid. Søknad om permisjon skal sendes skriftlig til den studieenheten studenten tilhører. Søknadsfristen er 15. august for permisjoner som skal starte i høstsemesteret og 15. januar for permisjoner som skal starte i vårsemesteret. Permisjonen gis kun for et helt år. Adgang til å søke om permisjon gjelder ikke for studietilbud innen etter- og videreutdanning (deltid) som er av to semesters varighet eller kortere. Permisjon kan innvilges tidligst etter ett semester som aktiv student.Studenter på Executive MBA og Executive Master of Management in Energy er unntatt fra søknadsfristen i bokstav a. Studenter på disse programmene kan gis permisjon inntil ett år og må avslutte studiet sammen med det etterfølgende kullet.Unntak fra søknadsfrist og permisjonsoppstart er permisjoner som skyldes foreldrepermisjon, avtjening av førstegangstjeneste eller force majeure. Slik permisjon må dokumenteres med legeerklæring eller annen relevant dokumentasjon. Studenten blir ikke belastet med studieavgift i permisjonstiden.Studenter på femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom) kan bli gitt inntil to års permisjon fra studiene mellom bachelornivå og masternivå av programmet, i tillegg til annen permisjon gitt i punkt (4) bokstav a og c over. Studenter som har lengre opphold mellom bachelornivå og masternivå på studiet, mister studieretten etter [§ 3-2](forskrift/2018-06-01-1546/§3-2), og samtidig retten til automatisk å komme inn på masternivå, og må søke om opptak til masternivå på de vilkår som fremkommer under forskriften [§ 2-4](forskrift/2018-06-01-1546/§2-4) og [§ 2-6](forskrift/2018-06-01-1546/§2-6) (1).For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.
+(4)Det gis anledning til å søke om ett års permisjon i løpet av normert studietid. Søknad om permisjon skal sendes skriftlig til den studieenheten studenten tilhører. Søknadsfristen er 15. august for permisjoner som skal starte i høstsemesteret og 15. januar for permisjoner som skal starte i vårsemesteret. Permisjonen gis kun for et helt år. Adgang til å søke om permisjon gjelder ikke for studietilbud innen etter- og videreutdanning (deltid) som er av to semesters varighet eller kortere. Permisjon kan innvilges tidligst etter ett semester som aktiv student.Studenter på Master of Business Administration og Master of Management in Energy er unntatt fra søknadsfristen i bokstav a. Studenter på disse programmene kan gis permisjon inntil ett år og må avslutte studiet sammen med det etterfølgende kullet.Unntak fra søknadsfrist og permisjonsoppstart er permisjoner som skyldes foreldrepermisjon, avtjening av førstegangstjeneste eller force majeure. Slik permisjon må dokumenteres med legeerklæring eller annen relevant dokumentasjon. Studenten blir ikke belastet med studieavgift i permisjonstiden.Studenter på femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom) kan bli gitt inntil to års permisjon fra studiene mellom bachelornivå og masternivå av programmet, i tillegg til annen permisjon gitt i punkt (4) bokstav a og c over. Studenter som har lengre opphold mellom bachelornivå og masternivå på studiet, mister studieretten etter [§ 3-2](forskrift/2018-06-01-1546/§3-2), og samtidig retten til automatisk å komme inn på masternivå, og må søke om opptak til masternivå på de vilkår som fremkommer under forskriften [§ 2-4](forskrift/2018-06-01-1546/§2-4) og [§ 2-6](forskrift/2018-06-01-1546/§2-6) (1).For studenter på ph.d.-studiet vises det til egen forskrift om ph.d. ved Handelshøyskolen BI.
 
 (5) En student som søker foreldrepermisjon har i permisjonstiden fortsatt status som student ved Handelshøyskolen BI, og har rett til å gjenoppta sine studier på tilsvarende nivå som før permisjonen.
 
-> Endret ved [forskrifter 9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025).
+> Endret ved [forskrifter 9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 3-6. Forlenget studietid (fullføringsfrister)
 
-(1) Fullføringsfristen er to år utover normert studietid, eller slik denne er angitt i kontrakten, for studenter på bachelorstudiene, toårige masterstudier, femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom), Executive Master of Management og Master of Business Administration. For studenter på enkeltkurs er fullføringsfristen to år utover normert studietid, gitt at eksamen arrangeres. For studenter med ettårig kontrakt i master i regnskap og revisjon, er likevel fullføringsfristen ett år utover normert studietid, eller slik denne er angitt i kontrakten. Unntak kan forekomme for virksomhetsinterne kurs og programmer. For studenter på ph.d.-studiet vises det til egen [forskrift om ph.d. ved Handelshøyskolen BI](forskrift/2015-06-11-924).
+(1) Fullføringsfristen er to år utover normert studietid, eller slik denne er angitt i kontrakten, for studenter på bachelorstudiene, toårige masterstudier, femårig integrert studium i bachelor og master i økonomi og ledelse (siviløkonom), Master of Management og Master of Business Administration. For studenter på enkeltkurs er fullføringsfristen to år utover normert studietid, gitt at eksamen arrangeres. For studenter med ettårig kontrakt i master i regnskap og revisjon, er likevel fullføringsfristen ett år utover normert studietid, eller slik denne er angitt i kontrakten. Unntak kan forekomme for virksomhetsinterne kurs og programmer. For studenter på ph.d.-studiet vises det til egen [forskrift om ph.d. ved Handelshøyskolen BI](forskrift/2015-06-11-924).
 
 (2) (Opphevet)
 
@@ -292,7 +292,7 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 11-1](lov/2024-03-08-
 
 (4) I tidsbegrensingen gjelder ikke utsatt studiestart eller opphold i studiet som skyldes tvungen midlertidig permisjon eller utestengelse, opphold på grunnlag av foreldrepermisjon, avtjening av førstegangstjeneste eller dokumentert langvarig sykdom.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [24 okt 2023 nr. 1720](forskrift/2023-10-24-1720) (i kraft 1 nov 2023), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025).
+> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [24 okt 2023 nr. 1720](forskrift/2023-10-24-1720) (i kraft 1 nov 2023), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ## Kapittel 4 – Grader og vitnemål
 
@@ -320,13 +320,13 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven kapittel 3](lov/2024-03-
 
 ### § 4-4. Særskilte krav til innhold og sammensetning for enkelte bachelorgrader
 
-(1) (Opphevet.)
+(1) (Opphevet)
 
-(2) (Opphevet.)
+(2) (Opphevet)
 
-(3)For graden Bachelor of Management stilles følgende krav til fagsammensetning:60 valgfrie studiepoeng30 studiepoeng kjernefagTo fordypninger á 30 studiepoeng30 studiepoeng avsluttende program Leadership in ActionMinimum 30 studiepoeng fordypning og det avsluttende programmet Leadership in Action må tas ved Handelshøyskolen BI.Fagsammensetning i Bachelor of Management-graden gjelder innenfor til enhver tid gjeldende studiemodell.
+(3)For graden Bachelor i ledelse stilles følgende krav til fagsammensetning:60 valgfrie studiepoeng30 studiepoeng kjernefagTo fordypninger à 30 studiepoeng30 studiepoeng avsluttende program Leadership in Action.Minimum 30 studiepoeng fordypning og det avsluttende programmet Leadership in Action må tas ved Handelshøyskolen BI.Fagsammensetning i Bachelor i ledelse-graden gjelder innenfor til enhver tid gjeldende studiemodell.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 okt 2023 nr. 1720](forskrift/2023-10-24-1720) (i kraft 1 nov 2023), [23 jan 2024 nr. 205](forskrift/2024-01-23-205) (i kraft 1 mars 2024).
+> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 okt 2023 nr. 1720](forskrift/2023-10-24-1720) (i kraft 1 nov 2023), [23 jan 2024 nr. 205](forskrift/2024-01-23-205) (i kraft 1 mars 2024), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 4-5. Særskilte krav til innhold og sammensetning av graden master
 
@@ -336,13 +336,13 @@ Krav til omfang fastsettes med hjemmel i [forskrift 1. desember 2005 nr. 1392](f
 
 ### § 4-6. Særskilte krav til innhold og sammensetning for enkelte mastergrader
 
-(1) Disiplinbasert master er et toårig heltidsstudium som består av totalt 90 studiepoengs kurs, og masteroppgave på 30 studiepoeng. Til sammen utgjør graden master 120 studiepoeng.Mastergraden tildeles etter fullført og bestått nødvendig kombinasjon av kurs og masteroppgave av totalt 120 studiepoengs omfang. Studenter som har fullført hele masterstudiet vil få tittelen master i det studiet de har gjennomført. Se BIs studentportal for studieplan for hver spesialisering.Graden kan tildeles med «Honours» til studenter som har oppnådd fremragende resultater. Se BIs studentportal for ytterligere informasjon.Studenter som får opptak til et masterstudium som en del av en «double degree»-avtale med en samarbeidsinstitusjon gir overføring av studiepoeng mellom institusjonene og den avtale som foreligger. Se BIs studentportal for ytterligere informasjon.Studenter som har fullført master i økonomi og ledelse kan ha rett til å bruke tittelen «Siviløkonom». Retten til å bruke denne tittelen vil bli tildelt dersom kandidaten kan dokumentere følgende:En fullført mastergrad i økonomi og ledelse, tilsvarende en Master of Science in BusinessEn fullført bachelorgrad som tilfredsstiller kravene til fagområder og studiepoeng fastsatt av Universitets- og høgskolerådet (UHR). Dette inkluderer følgende fagområder:Bedriftsøkonomiske fagAdministrative fagSamfunnsøkonomiske fagMetodefag (inkludert matematikk og økonometri)Etikk, samfunnsansvar og bærekraft.
+(1) Disiplinbasert master er et toårig heltidsstudium som består av totalt 90 studiepoengs kurs, og masteroppgave på 30 studiepoeng. Til sammen utgjør graden master 120 studiepoeng.Mastergraden tildeles etter fullført og bestått nødvendig kombinasjon av kurs og masteroppgave av totalt 120 studiepoengs omfang. Studenter som har fullført hele masterstudiet vil få tittelen master i det studiet de har gjennomført. Se BIs studentportal for studieplan for hver spesialisering.Graden kan tildeles med «Honours» til studenter som har oppnådd fremragende resultater. Se BIs studentportal for ytterligere informasjon.Studenter som får opptak til et masterstudium som en del av en «double degree»-avtale med en samarbeidsinstitusjon gir overføring av studiepoeng mellom institusjonene og den avtale som foreligger. Se BIs studentportal for ytterligere informasjon.Studenter som har fullført master i økonomi og ledelse kan ha rett til å bruke tittelen «Siviløkonom». Retten til å bruke denne tittelen vil bli tildelt dersom kandidaten kan dokumentere følgende:En fullført mastergrad i økonomi og ledelseEn fullført bachelorgrad som tilfredsstiller kravene til fagområder og studiepoeng fastsatt av Universitets- og høgskolerådet (UHR). Dette inkluderer følgende fagområder:Bedriftsøkonomiske fagAdministrative fagSamfunnsøkonomiske fagMetodefag (inkludert matematikk og økonometri)Etikk, samfunnsansvar og bærekraft.
 
-(2) Executive Master of Management er et 90 studiepoengs studium. Normert studietid for hele graden Executive Master of Management er tre år på deltid.Graden Executive Master of Management oppnås når studenten har bestått Master of Management kurs og/eller programmer på til sammen 90 studiepoeng.Studenter som har bestått Executive Master of Management kurs og/eller programmer på totalt 90 studiepoeng tilfredsstiller kravet til selvstendig arbeid i høyere grad, ref. [forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.(Opphevet.)Kombinasjonen av programmer og enkeltkurs en kandidat ønsker å sette sammen, skal ikke ha faglig overlapping med hverandre og skal forhåndsgodkjennes av Handelshøyskolen BI. I graden Master of Management skal ikke andelen enkeltkurs uten selvstendig arbeid overskride 30 studiepoeng for at kravet til selvstendig arbeid skal oppfylles, jf. [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392).
+(2) Master of Management er et 90 studiepoengs studium. Normert studietid for hele graden Master of Management er tre år på deltid.Graden Master of Management oppnås når studenten har bestått Master of Management kurs og/eller programmer på til sammen 90 studiepoeng.Studenter som har bestått Master of Management kurs og/eller programmer på totalt 90 studiepoeng tilfredsstiller kravet til selvstendig arbeid i høyere grad.(Opphevet)Kombinasjonen av programmer og enkeltkurs en kandidat ønsker å sette sammen, skal ikke ha faglig overlapping med hverandre og skal forhåndsgodkjennes av Handelshøyskolen BI. I graden Master of Management skal ikke andelen enkeltkurs uten selvstendig arbeid overskride 30 studiepoeng for at kravet til selvstendig arbeid skal oppfylles, jf. [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392).
 
-(3)Master of Business Administration er et 90 studiepoengsstudium. Normert studietid er 11 måneder heltid.(Opphevet.)Graden Master of Business Administration tildeles etter fullført og bestått nødvendig kombinasjon av kurs, seminarer og consultancy project av totalt 90 studiepoengs omfang.Studenter som avlegger graden Master of Business Administration ved Fudan University i Kina vil bli tildelt graden etter at den nødvendige kombinasjon av kurs og masteroppgave er fullført og bestått der dette er et krav.
+(3)Master of Business Administration er et 90 studiepoengsstudium. Normert studietid er 11 måneder heltid.(Opphevet)Graden Master of Business Administration tildeles etter fullført og bestått nødvendig kombinasjon av kurs, seminarer og consultancy project av totalt 90 studiepoengs omfang.Studenter som avlegger graden Master of Business Administration ved Fudan University i Kina vil bli tildelt graden etter at den nødvendige kombinasjon av kurs og masteroppgave er fullført og bestått der dette er et krav.
 
-> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 jan 2023 nr. 244](forskrift/2023-01-24-244) (i kraft 1 mars 2023), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025).
+> Endret ved [forskrifter 18 juni 2019 nr. 971](forskrift/2019-06-18-971) (i kraft 10 aug 2019), [9 juni 2020 nr. 1536](forskrift/2020-06-09-1536) (i kraft 10 aug 2020), [8 juni 2021 nr. 2168](forskrift/2021-06-08-2168) (i kraft 10 aug 2021), [7 juni 2022 nr. 1216](forskrift/2022-06-07-1216) (i kraft 10 aug 2022), [24 jan 2023 nr. 244](forskrift/2023-01-24-244) (i kraft 1 mars 2023), [21 jan 2025 nr. 76](forskrift/2025-01-21-76) (i kraft 1 feb 2025), [27 mai 2026 nr. 909](forskrift/2026-05-27-909), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 4-7. Krav til innhold og sammensetning av graden ph.d.
 
@@ -454,15 +454,15 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (1)Kandidaten kan gjennomføre tre eksamensforsøk i samme kurs. Studenter ved Master of Business Administration har tre forsøk på å bestå et kurs, men kan ikke avlegge kontinuasjonseksamen for å forbedre karakteren hvis kurset er bestått. For informasjon om kontinuasjonseksamen henvises det til den enkelte kursbeskrivelse.I særlige tilfeller kan kandidaten søke om et fjerde og siste eksamensforsøk. Det gis normalt ikke ytterligere forsøk. Studenter ved Master of Business Administration kan ikke søke om fjerde gangs eksamensforsøk. Begrunnet søknad sendes studieenheten for vedtak. Søknaden må fremmes innen fristen for oppmelding til eksamen i aktuelt semester. Vedtak om å avvise eller avslå søknad om fjerde gangs eksamensforsøk kan påklages til den enhet som har truffet det påklagde vedtak. Fristen for å klage er tre uker fra det tidspunkt vedtaket er gjort kjent for søker. Dersom klagen ikke tas til følge fullt ut i vedtaksenheten, skal vedtaksenheten oversende saken til nemnd for studentsaker ved Handelshøyskolen BI.
 
-(2)For bachelorstudiet avholdes kontinuasjonseksamen normalt ved neste ordinære gjennomføring av kurset. Når et kurs utgår uten å bli erstattet, avholdes normalt ytterligere to eksamener i opprinnelig kurs.For Bachelor of Management, toårig master, Executive Master of Management og ph.d.-studiet vil kontinuasjonseksamen normalt finne sted neste gang kurset blir gjennomført. Når et kurs utgår, kontinueres det i erstatningskurs.For Master of Business Administration-studiet kontinuerer kandidaten når kurset arrangeres ifm. ny gjennomføring av studiet. Når et kurs utgår kontinueres det i erstatningskurs. I noen tilfeller kan kursansvarlig, etter samråd med associate dean, gi tillatelse til at kandidaten leverer ytterligere kursarbeider for kunne å fullføre et påbegynt kurs.For ph.d.-studiet; se egen forskrift om ph.d. ved Handelshøyskolen BI.
+(2)For bachelorstudiet avholdes kontinuasjonseksamen normalt ved neste ordinære gjennomføring av kurset. Når et kurs utgår uten å bli erstattet, avholdes normalt ytterligere to eksamener i opprinnelig kurs.For Bachelor i ledelse, toårig master, Master of Management og ph.d.-studiet vil kontinuasjonseksamen normalt finne sted neste gang kurset blir gjennomført. Når et kurs utgår, kontinueres det i erstatningskurs.For Master of Business Administration-studiet kontinuerer kandidaten når kurset arrangeres ifm. ny gjennomføring av studiet. Når et kurs utgår kontinueres det i erstatningskurs. I noen tilfeller kan kursansvarlig, etter samråd med associate dean, gi tillatelse til at kandidaten leverer ytterligere kursarbeider for kunne å fullføre et påbegynt kurs.For ph.d.-studiet; se egen forskrift om ph.d. ved Handelshøyskolen BI.
 
-(3) (Opphevet.)
+(3) (Opphevet)
 
 (4)For masteroppgaver har kandidater som får karakteren A–E (Bestått) mulighet til å kontinuere ved å skrive en helt ny oppgave. En oppgave som har fått et bestått eksamensresultat, kan ikke leveres på nytt i bearbeidet form.Kandidater som får karakteren F (Ikke bestått) på oppgaven har to valg:Skrive en ny masteroppgaveSøke om å bearbeide tidligere innlevert masteroppgave og oppnå maksimum karakteren EStudenter på master i regnskap og revisjon har tilsvarende rettighet dersom de oppnår karakteren D eller dårligere på sin masteroppgave. En bearbeidet masteroppgave fra kandidater på dette studiet, kan ikke oppnå bedre karakter enn C.Søknad om kontinuasjon av masteroppgave sendes til aktuell studieadministrasjon, som videresender denne til associate dean for studiet for vedtak. Se for øvrig studiumspesifikk informasjon på BIs studentportal.
 
 (5) Det vil bli fakturert en kontinuasjonsavgift etter gjeldende satser.
 
-> Endret ved [forskrifter 11 juni 2020 nr. 1537](forskrift/2020-06-11-1537) (i kraft 10 aug 2020), [20 okt 2022 nr. 1945](forskrift/2022-10-20-1945), [8 juni 2023 nr. 964](forskrift/2023-06-08-964) (i kraft 10 aug 2023).
+> Endret ved [forskrifter 11 juni 2020 nr. 1537](forskrift/2020-06-11-1537) (i kraft 10 aug 2020), [20 okt 2022 nr. 1945](forskrift/2022-10-20-1945), [8 juni 2023 nr. 964](forskrift/2023-06-08-964) (i kraft 10 aug 2023), [27 mai 2026 nr. 909](forskrift/2026-05-27-909).
 
 ### § 5-8. Tilrettelegging
 
@@ -486,7 +486,7 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (3) Direktør for studiekvalitet vedtar nærmere betingelser for skriftlig skoleeksamen. Det er ikke tillatt å medbringe eller ha tilgjengelig hjelpemidler som ikke er godkjent inn i eksamenslokalet i eksamenstiden. Kandidatene kan heller ikke låne hjelpemidler eller annet utstyr under eksamen. Den enkelte kandidat er selv ansvarlig for å ha satt seg inn i hva som er lovlige hjelpemidler for den aktuelle eksamen og retningslinjer for bruk av disse. Mobiltelefoner, armbåndsur eller andre former for klokker, eller andre kommunikasjonsverktøy, tillates ikke.
 
-(4) (Opphevet.)
+(4) (Opphevet)
 
 (5) Det er kandidatens ansvar å gjøre seg kjent med informasjon som gjelder for eksamen. Dette gjelder også informasjon som blir utdelt sammen med eksamensoppgaven, på oppgavens forside eller i eksamensverktøyet. Kandidaten er også ansvarlig for å kontrollere at eksamensoppgaven som utdeles stemmer overens med eksamenspåmeldingen. Kandidaten skal kun benytte de kladdeark og innføringsark som utdeles av eksamensvaktene. Ved digital eksamen medbringer studentene egen bærbar PC eller Mac med et oppdatert operativsystem. For utfylling av innføringsark henvises det til BIs studentportal og den informasjon som gis i eksamenslokalet. Innlevert kladd godtas ikke som besvarelse.
 
@@ -508,7 +508,7 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (3) Besvarelsen leveres gjennom Handelshøyskolen BIs digitale eksamensløsning.
 
-(4) (Opphevet.)
+(4) (Opphevet)
 
 (5) Innlevering av besvarelsen gjøres innen den oppgitte innleveringsfristen. Besvarelser som forsøkes innlevert etter fristen, vil bli avvist.
 
@@ -564,7 +564,7 @@ All vurdering baseres på gjeldende pensum slik dette til enhver tid er fastsatt
 
 (1)Kandidaten har rett til å få en begrunnelse for karakterfastsettingen av sine prestasjoner i samsvar med [universitets- og høyskoleloven § 11-8](lov/2024-03-08-9/§11-8). Lovbestemmelsen fastsetter tidsfrister og regler for begrunnelsens form og innhold. Kursansvarlig bestemmer om begrunnelsen gis muntlig eller skriftlig.Krav om begrunnelse må fremsettes innen en uke fra karakter er gjort tilgjengelig på BIs studentportal. Ved muntlig eksamen må krav om begrunnelse fremsettes umiddelbart etter at karakter er meddelt.Begrunnelse gis muntlig eller skriftlig av en av sensorene. For de enkelte studier kan det fastsettes at muntlig begrunnelse gis til fastsatte tider, hvor sensor skal være tilgjengelig for kandidatene.I begrunnelsen for karakterfastsettingen skal det gjøres rede for de prinsipper som er lagt til grunn for bedømmelsen generelt, og for bedømmelsen av kandidatens prestasjon individuelt.
 
-(2)En kandidat kan klage skriftlig på karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort, eller – dersom det er bedt om begrunnelse – fra det tidspunkt begrunnelse er gitt. Dersom kandidaten har fremsatt klage på formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14), løper klagefristen etter denne paragraf først fra det tidspunkt endelig avgjørelse av klagen over formelle feil foreligger.Skriftlig klage sendes den aktuelle studieenhet. Rett til individuell klage ved gruppebesvarelse reguleres av [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10). En eventuell endring av karakter etter klage vil kun gjelde for den som har klaget.(Opphevet.)Resultater av muntlige eksamener og klassepresentasjoner kan ikke påklages.Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal det foretas ytterligere en vurdering før endelig karakter fastsettes.Karakter som fastsettes ved klagesensur kan ikke påklages til ny vurdering, men kan være gjenstand for klage over formelle feil, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14).
+(2)En kandidat kan klage skriftlig på karakteren for sine egne prestasjoner innen tre uker etter at eksamensresultatet er kunngjort, eller – dersom det er bedt om begrunnelse – fra det tidspunkt begrunnelse er gitt. Dersom kandidaten har fremsatt klage på formelle feil ved eksamen, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14), løper klagefristen etter denne paragraf først fra det tidspunkt endelig avgjørelse av klagen over formelle feil foreligger.Skriftlig klage sendes den aktuelle studieenhet. Rett til individuell klage ved gruppebesvarelse reguleres av [universitets- og høyskoleloven § 11-10](lov/2024-03-08-9/§11-10). En eventuell endring av karakter etter klage vil kun gjelde for den som har klaget.(Opphevet)Resultater av muntlige eksamener og klassepresentasjoner kan ikke påklages.Ny karakterfastsetting kan skje til gunst eller ugunst for klager, eller opprinnelig karakter opprettholdes. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal det foretas ytterligere en vurdering før endelig karakter fastsettes.Karakter som fastsettes ved klagesensur kan ikke påklages til ny vurdering, men kan være gjenstand for klage over formelle feil, jf. [§ 5-14](forskrift/2018-06-01-1546/§5-14).
 
 (3) For strukturert test, se [§ 5-12](forskrift/2018-06-01-1546/§5-12).
 
