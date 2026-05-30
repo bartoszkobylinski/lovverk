@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-04-15"
 last_change_in_force: "2026-04-24"
 last_updated: null
-xml_hash: "540d615272f0347d42e110c2d4490de256b68e35f5343da607070a953a10c077"
+xml_hash: "e0a9e5bbecff0919800c0ce517327c0cad722865378501577d928d8e6c183f04"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-29T07:52:43.488317+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ Forskriftens del 3 gjelder alle andre søkere.
 
 Departementet kan ved krig eller andre alvorlige hendelser gjøre tidsavgrensede unntak fra forskriftens bestemmelser om rett til lån og stipend til utdanning i utlandet. Hendelsene må ha ført til at det er umulig eller uforholdsmessig vanskelig å gjennomføre en utdanning, eller at det ikke er formålstjenlig at studenter får lån og stipend til utdanning i bestemte land.
 
-> Endret ved forskrifter [23 juni 2022 nr. 1160](forskrift/2022-06-23-1160), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025).
+> Endret ved forskrifter [23 juni 2022 nr. 1160](forskrift/2022-06-23-1160), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 2. Definisjoner
 
@@ -48,7 +48,7 @@ En søker regnes som ikke å bo sammen med foreldrene når søkeren oppfyller et
 
 En søker som på grunn av krig eller andre alvorlige hendelser som fører til at det er umulig eller uforholdsmessig vanskelig for søkeren å gjennomføre utdanning i utlandet ved å oppholde seg ved studiestedet, og som midlertidig flytter til foreldrehjemmet og fortsetter utdanningen med nettbaserte løsninger, kan regnes som ikke å bo med foreldrene. Unntak kan gis for inntil ett studieår av gangen.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 4. Ektefeller
 
@@ -58,7 +58,7 @@ Regler om ektefeller gjelder også samboere med felles barn. Separerte likestill
 
 Satsene for studieåret 2026–2027 gjelder for perioden 16. august 2026 til 15. august 2027. Gyldighetsperioden for satsene kan avvike for utdanninger i utlandet.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### Kapittel 2. Krav til statsborgerskapet og tilknytningen til Norge
 
@@ -132,7 +132,7 @@ En søker som har fylt 65 år før 1. januar 2027, har ikke rett til lån og sti
 
 En søker som er over 50 år når utdanningen avsluttes, kan ikke ha høyere gjeld enn 500 000 kr ved avsluttet utdanning da gjelden skal være betalt tilbake før søkeren fyller 70 år. Gjeldsgrensen på 500 000 kr blir redusert med 5 prosent for hvert år søkeren er eldre enn 50 år.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 18. Unntak fra retten til lån og stipend når utgifter til livsopphold og bolig dekkes av det offentlige
 
@@ -188,7 +188,7 @@ Det kan gjøres unntak fra kravet i bokstav c for utdanning som har sammenheng m
 
 Det kan gjøres unntak fra kravet i bokstav a for søkere i utdanning i utlandet ved krig eller andre alvorlige hendelser som har ført til at det er umulig eller uforholdsmessig vanskelig for søkeren å gjennomføre stedbasert utdanning. Unntak kan gis for inntil ett studieår av gangen.
 
-> Endret ved forskrifter [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 26. Utdanning i Norden
 
@@ -292,7 +292,7 @@ Utstyrsstipend og lån til skolepenger til utdanning som bare foregår på nett 
 
 En søker som er helt studieufør på grunn av sykdom hos egne barn under 12 år, har også rett til sykestipend. Som barn under 12 år regnes også barn som fyller 12 år i løpet av 2026. Vilkårene i [§ 38](forskrift/2020-04-15-798/§38) første ledd bokstav b, andre og tredje ledd og [§ 40](forskrift/2020-04-15-798/§40) gjelder også ved barns sykdom.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 40. Beregning av sykestipendet
 
@@ -312,7 +312,7 @@ Søkeren har normalt ikke rett til språkstipend mer enn 1 gang til språkkurs i
 
 Søkere som får stipend til språkkurs fra andre, får redusert språkstipend.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### Kapittel 6. Søknadsfrister og bortfall av vedtak om lån og stipend
 
@@ -326,7 +326,7 @@ Dette gjelder likevel ikkefor utdanning som starter før 1. november 2026 og som
 
 En søker som etter at perioden med lån og stipend er avsluttet, melder endringer eller sender inn opplysninger som Lånekassen har bedt om, har ikke rett til å få behandlet søknaden på nytt. Søkeren har heller ikke rett til å få utbetalt lån og stipend. Det gjøres unntak hvis opplysningene ikke har vært tilgjengelige tidligere.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 43. Søknadsfrister for foreldrestipend og sykestipend
 
@@ -374,7 +374,7 @@ Det gjøres unntak fra kravet om 3 måneder i andre og tredje ledd hvis søkeren
 
 En søker som må avbryte utdanning i utlandet på grunn av krig eller andre alvorlige hendelser som førte til at det ble umulig eller uforholdsmessig vanskelig for søkeren å fortsette utdanningen, kan beholde retten til lån og stipend for studieåret.
 
-> Endret ved forskrifter [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ## Del 2. Videregående opplæring for søkere under 21 år som ikke har oppnådd studie- eller yrkeskompetanse og forberedende opplæring for voksne for søkere under 21 år
 
@@ -414,7 +414,7 @@ Søkere som tar forberedende opplæring for voksne, har rett til stipend etter l
 
 Søkere som bytter utdanningsprogram eller programområde i studieåret, får beholde det stipendet de allerede har fått. Søkere som begynner på et nytt utdanningsprogram eller programområde med høyere sats, har rett til differansen mellom satsene.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 51. Borteboerstipend
 
@@ -424,7 +424,7 @@ Hvem som regnes som ikke å bo sammen med foreldrene, reguleres i [§ 3](forskri
 
 Søkere som bor sammen med foreldrene, har rett til stipendet hvis deer giftforsørger barn og bor sammen med barnet.En separert søker regnes ikke som gift i denne bestemmelsen.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555) (med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555) (med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 52. Unntak fra retten til borteboerstipend ved offentlige stønader som er ment å dekke boutgifter
 
@@ -434,7 +434,7 @@ En søker som mottar overgangsstønad, uføretrygd, arbeidsavklaringspenger, kom
 
 For lærlinger, praksisbrevkandidater, lærekandidater og kandidater for fagbrev på jobb blir borteboerstipendet i studieåret 2026–2027 redusert dersom brutto månedslønn er høyere enn 18 677 kr i den perioden søkeren får lån og stipend. 60 prosent av bruttoinntekten over denne grensen trekkes fra stipendet. Dersom inntekten varierer, blir gjennomsnittlig månedsinntekt per semester lagt til grunn.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 54. Inntektsavhengig stipend
 
@@ -446,7 +446,7 @@ Inntekten til forsørgeren økes med 61 359 kr for studieåret 2026–2027 ders
 
 Stipendet blir redusert hvis søkeren får lønn som lærling, praksisbrevkandidat, lærekandidat eller kandidat for fagbrev på jobb eller trygde- og pensjonsytelser i den perioden søkeren får lån og stipend. 60 prosent av bruttobeløpet trekkes fra stipendet. Dersom inntekten varierer, blir gjennomsnittlig månedsinntekt per semester lagt til grunn.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 55. Unntak fra vilkår om behovsprøving av inntektsavhengig stipend mot forsørgerinntekt
 
@@ -462,7 +462,7 @@ Når Lånekassen ser bort fra inntekten til en av forsørgerne, gjelder inntekts
 
 Hvis forsørgernes personinntekt og netto positiv kapitalinntekt er lavere i studieåret enn i skattleggingsperioden 2024, tar Lånekassen hensyn til det. Inntekten beregnes med utgangspunkt i skattereglene.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 57. Unntak fra vilkår om behovsprøving av inntektsavhengig stipend mot søkerens trygde- og pensjonsytelser
 
@@ -472,7 +472,7 @@ Lånekassen ser bort fra søkerens barnepensjon og grunnstønad i behovsprøving
 
 En søker som har barn som er født i 2011 eller senere, og som bor sammen med barnet minst 40 prosent, har rett til barnestipend. Søkeren har på samme vilkår også rett til barnestipend for ektefelles barn. Søkere som har 1 barn, har i studieåret 2026–2027 rett til inntil 2 340 kr per måned. For barn nummer 2 har søkere rett til inntil 2 131 kr. For hvert barn flere enn 2 har søkeren rett til inntil 1 385 kr per måned.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 59. Reduksjon av barnestipend
 
@@ -482,7 +482,7 @@ Barnestipendet til søkere som er gift, blir i studieåret 2026–2027 redusert 
 
 Lånekassen ser bort fra søkerens barnepensjon og grunnstønad ved behovsprøving mot trygde- og pensjonsytelser.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 60. Rekkefølgen inntektsavhengig stipend og barnestipend reduseres i
 
@@ -514,7 +514,7 @@ Søkere som tar et nettstudium ved et norsk lærested, har rett til stipend til 
 
 Søkere som får støtte til reiser fra andre, har ikke rett til stipend til reiser.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 64. Stipend til reiser i Norden
 
@@ -528,7 +528,7 @@ Søkeren skal selv dekke en egenandel som i studieåret 2026–2027 er 1 472 kr
 
 Søkere som får støtte til reiser fra andre, har ikke rett til stipend til reiser.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 65. Lån og stipend til reiser i land utenfor Norden
 
@@ -542,7 +542,7 @@ Søkere som har bostedsadresse i Folkeregisteret i Norge, har også rett til sti
 
 Søkere som får støtte til reiser fra andre eller som bor sammen med en av eller begge foreldrene i utlandet, har ikke rett til lån og stipend til reiser.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 66. Stipend til skolepenger til videregående opplæring ved utenlandske eller internasjonale skoler
 
@@ -556,7 +556,7 @@ Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har r
 
 Hvis søkeren får støtte til skolepenger fra andre, og den samlede støtten til skolepenger er høyere enn det beløpet som søkeren skal betale, blir stipendet redusert.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 67. Lån til søkere som er 18 år eller eldre
 
@@ -564,7 +564,7 @@ En søker som er 18 år eller eldre, har i studieåret 2026–2027 rett til å l
 
 Lånet kan tas opp fra måneden etter at søkeren har fylt 18 år.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 67a. (Opphevet)
 
@@ -582,7 +582,7 @@ Lånet kan tas opp fra måneden etter at søkeren har fylt 18 år.
 
 Søkeren kan maksimalt få lån på til sammen 243 480 kr etter [§ 68](forskrift/2020-04-15-798/§68), [§ 95](forskrift/2020-04-15-798/§95) og [§ 96](forskrift/2020-04-15-798/§96).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 69. Lån til skolepenger
 
@@ -590,7 +590,7 @@ En søker som betaler skolepenger til lærestedet, har i studieåret 2026–2027
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ## Del 3. Universitets- og høyskoleutdanning, fagskoleutdanning, folkehøgskoleutdanning, videregående opplæring og forberedende opplæring for voksne for søkere som ikke er omfattet av [del 2](forskrift/2020-04-15-798/del2), og andre utdanninger
 
@@ -608,7 +608,7 @@ Lån og stipend kan gis utover grensene i første ledd når søkeren oppfyller e
 
 En søker som tok gradsutdanning i utlandet og som måtte avbryte utdanningen eller ble forhindret fra å avlegge studiepoeng på grunn av krig eller andre alvorlige hendelser som førte til at det var umulig eller uforholdsmessig vanskelig å gjennomføre utdanningen, kan få utvidet antall studiepoeng søkeren kan få lån og stipend til, med inntil 30 studiepoeng. Dersom søkeren skulle ha tatt eksamen for hele studieåret i vårsemesteret, utvides grensen med inntil 60 studiepoeng.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [23 juni 2021 nr. 2175](forskrift/2021-06-23-2175), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [23 juni 2021 nr. 2175](forskrift/2021-06-23-2175), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 70a. Antall studiepoeng med lån og stipend ved forsinkelse i utdanning i utlandet i 2020 eller våren 2021 på grunn av utbruddet av covid-19
 
@@ -646,7 +646,7 @@ Søkere som tar utdanning som varer i mindre enn 1 studieår, eller har fleksibe
 
 Perioden med lån og stipend etter første og fjerde ledd kan utvides når søkeren oppfyller ett av følgende vilkår:Søkeren tar feltarbeid som av naturgitte årsaker må foregå utenfor perioden med lån og stipend.Søkeren tar en utdanning hvor det er en særlig grunn til at en del av utdanningen må foregå utenfor perioden med lån og stipend.Søkeren tar studiepoeng som inngår i søkerens utdanning, og som fører til at søkeren sparer inn på normert studietid.Søkeren tar forkurs eller sommerkurs ved universiteter og høyskoler i Norge.Utdanningen om sommeren må vare i minst 2 uker.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 73. Lån og stipend i 12 måneder for søkere med nedsatt funksjonsevne
 
@@ -666,7 +666,7 @@ Søkere med nedsatt funksjonsevne som ikke bor sammen med foreldrene og som har 
 
 Søkere som har rett til lån og stipend til forsinkelse utover 60 studiepoeng etter [§ 71](forskrift/2020-04-15-798/§71) andre ledd bokstav c, og som ikke mottar trygde- og pensjonsytelser som er ment å dekke livsopphold, har rett til å få basislånet utbetalt som stipend. Stipendet blir ikke behovsprøvd.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 74a. (Opphevet)
 
@@ -716,7 +716,7 @@ Disse utdanningene bestått i Norge regnes som grader eller likestilt med grader
 
 Disse gradene bestått i utlandet gir også rett til omgjøring: bachelorgrad, mastergrad og ph.d.-grad som kan gis generell godkjenning av Direktoratet for høyere utdanning og kompetanse som likestilt med en akkreditert norsk grad på tilsvarende nivå.
 
-> Endret ved forskrifter [16 des 2022 nr. 2323](forskrift/2022-12-16-2323) (i kraft 1 jan 2023), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [16 des 2022 nr. 2323](forskrift/2022-12-16-2323) (i kraft 1 jan 2023), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 79. Unntak fra vilkåret om studiepoeng eller grad
 
@@ -750,7 +750,7 @@ En søker som har barn som er født i 2011 eller senere, og som bor sammen med b
 
 Stipendet behovsprøves etter reglene i [kapittel 12](forskrift/2020-04-15-798/kap12).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [23 juni 2021 nr. 2175](forskrift/2021-06-23-2175), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [23 juni 2021 nr. 2175](forskrift/2021-06-23-2175), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 83. Tilleggsstipend ved nedsatt funksjonsevne
 
@@ -766,7 +766,7 @@ Søkere som er helt studieuføre på søknadstidspunktet og som har rett til syk
 
 Stipendet behovsprøves etter reglene i [kapittel 12](forskrift/2020-04-15-798/kap12).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 84. Flyktningstipend
 
@@ -794,7 +794,7 @@ Søkere som tar yrkessjåførutdanning i Norge, har, i tillegg til beløpet i f�
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats. Dette gjelder likevel ikke for søkere som tar yrkessjåførutdanning etter tredje ledd.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 87. Dekning av skolepenger i Norden
 
@@ -802,7 +802,7 @@ En søker som tar en utdanning i et annet nordisk land enn Norge, og som betaler
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 88. Dekning av skolepenger i land utenfor Norden
 
@@ -816,7 +816,7 @@ Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 89. Dekning av skolepenger i universitets- og høyskoleutdanning ved utvalgte læresteder i land utenfor Norden
 
@@ -834,7 +834,7 @@ Søkere som er forsinket i utdanningen, har ikke rett til stipend til dekning av
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 89a. Dekning av skolepenger til nettstudier i EØS-land
 
@@ -842,7 +842,7 @@ En søker som tar en utdanning som bare foregår på nett ved et lærested i et 
 
 Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
-> Tilføyd ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), endret ved forskrifter [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Tilføyd ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), endret ved forskrifter [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 90. Beregning av lån og stipend til skolepenger
 
@@ -858,7 +858,7 @@ Søkeren kan få utbetalt et lavere beløp dersom den norske kronen har styrket 
 
 Søkeren kan få utbetalt et høyere beløp dersom den norske kronen har svekket seg med mer enn 1 prosent på utbetalingstidspunktet, sammenliknet med valutakursen som Lånekassen har fastsatt for studieåret.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 92. Lån og stipend til reiser i land utenfor Norden
 
@@ -872,13 +872,13 @@ Søkere som tar kurs som varer i mindre enn 4 uker ved de norske studiesentrene 
 
 Søkere som får støtte til reiser fra andre eller som bor sammen med en av eller begge foreldrene i utlandet, har ikke rett til lån og stipend til reiser.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 93. Tilleggslån til forkurs eller sommerkurs i Norge
 
 En søker som sommeren 2027 tar forkurs eller sommerkurs ved universiteter eller høyskoler i Norge, har rett til et lån på inntil 5 830 kr per måned i studieåret 2026–2027, i tillegg til basislån.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 94. Tilleggsstipend til spesielt tilrettelagt ingeniør- og økonomiutdanning i Frankrike og Tyskland
 
@@ -886,13 +886,13 @@ En søker som tar en mastergradsutdanning i ingeniør- eller økonomifag som er 
 
 Utdanningen skal være tilrettelagt av Direktoratet for høyere utdanning og kompetanse (HK-dir).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 94a. Rekrutteringsstipend til gradsutdanning eller utvekslingsopphold i utvalgte land
 
 En søker som i Brasil, Russland, India, Kina, Sør-Afrika, Japan eller Sør-Korea tar en gradsutdanning eller et utvekslingsopphold som er en godkjent del av en universitets- og høyskoleutdanning som søkeren har begynt på i Norge, har, i tillegg til basislånet, rett til et stipend i inntil 10 måneder. For studieåret 2026–2027 er stipendet på inntil 4 493 kr per måned.
 
-> Tilføyd ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), endret ved forskrifter [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Tilføyd ved forskrift [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), endret ved forskrifter [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 95. Tilleggslån til søkere som er 30 år eller eldre
 
@@ -904,7 +904,7 @@ Dersom søkeren har permisjon fra utdanningen på grunn av fødsel eller adopsjo
 
 Søkeren kan maksimalt få lån på til sammen 243 480 kr etter [§ 68](forskrift/2020-04-15-798/§68), [§ 95](forskrift/2020-04-15-798/§95) og [§ 96](forskrift/2020-04-15-798/§96).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 96. Tilleggslån til søkere som er 18 år eller eldre med barn under 16 år
 
@@ -918,7 +918,7 @@ Lånet kan tas opp fra og med måneden etter at søkeren har fylt 18 år.
 
 Søkeren kan maksimalt få lån på til sammen 243 480 kr etter [§ 68](forskrift/2020-04-15-798/§68), [§ 95](forskrift/2020-04-15-798/§95) og [§ 96](forskrift/2020-04-15-798/§96).
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### Kapittel 12. Behovsprøving av stipend
 
@@ -942,7 +942,7 @@ Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19) som behovsprøv
 
 Følgende inntekter regnes ikke med:renteinntekter fra Boligsparing for ungdombarnepensjonavkastning av barns formue dersom formuen forvaltes av statsforvalterenerstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelleskattefrie inntekter.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 99. Behovsprøving mot trygde- eller pensjonsytelser
 
@@ -956,7 +956,7 @@ Barnepensjon og skattefrie ytelser regnes ikke med.
 
 En etterbetalt trygde- eller pensjonsytelse som er opptjent i en tidligere periode enn året den ble skattlagt, behovsprøves både for alle opptjeningsårene søkeren har fått stipend og for det året ytelsen ble skattlagt.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [7 april 2022 nr. 555](forskrift/2022-04-07-555), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 100. Behovsprøving mot formue
 
@@ -966,13 +966,13 @@ Gifte søkere som har formue over grensene i tabellen under, får stipendet redu
 
 Følgende regnes ikke som formue:barns formue dersom formuen forvaltes av statsforvalterenerstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelleformuesverdien av trygdefinansiert bil. Dersom formuesverdien av bilen er høyere enn tilskuddet til innkjøp av bilen fra folketrygden, skal differansen mellom disse beløpene regnes som en del av formuen.
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 101. Behovsprøving av barnestipend mot ektefelles person- og kapitalinntekt
 
 Barnestipendet blir redusert dersom søkeren har en ektefelle med brutto person- og kapitalinntekt over grensene i tabellen under i den perioden søkeren får barnestipend. Renteinntekter fra Boligsparing for ungdom regnes ikke med. Stipendet blir redusert med 5 prosent per måned av den delen av ektefellens brutto person- og kapitalinntekt som overstiger grensene.*Kalenderår**Person- og kapitalinntekt til søkerens ektefelle*2026529 861 kr2027548 406 kr
 
-> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
+> Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ## Del 4. Avsluttende bestemmelser
 
