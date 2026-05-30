@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2003-07-01"
-last_change_in_force: "2022-05-01"
+last_change_in_force: "2026-05-27"
 last_updated: "2021-11-01"
-xml_hash: "9a4fa551fce76a34e9311c28db726be8803fb460df79bf30590b58817daf41d4"
+xml_hash: "213714692b107da55f31abb9d6e3f9e907ebbbc93f4b326e8a531616f82b8dcd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,9 +148,9 @@ Med *kjøletårn* menes innretning som benyttes til å fjerne overskuddsvarme fr
 
 Med *luftskrubber* menes innretning som bruker væske for å fjerne uønskede stoffer fra luft- eller gassblandinger på en måte som gjør at det dannes aerosoler. Eksempler på slike innretninger er scrubber, våtvasker, vasketårn og gassvasker.
 
-Med *akkreditert inspeksjonsorgan* menes inspeksjonsorgan som er akkreditert av Norsk akkreditering eller annet anerkjent akkrediteringsorgan som har undertegnet de relevante multilaterale avtaler for gjensidig internasjonal anerkjennelse, og som er etablert i et EU-/EØS-land. Inspeksjonsorganet skal være akkreditert etter NS-EN ISO/IEC 17020 Samsvarsvurdering – krav til drift av ulike typer inspeksjonsorganer. Inspeksjonsorganet må tilfredsstille standardens krav til uavhengighetstype A, B eller C.
+Med *akkreditert inspeksjonsorgan* menes inspeksjonsorgan som er akkreditert av Norsk akkreditering eller annet anerkjent akkrediteringsorgan som har undertegnet de relevante multilaterale avtaler for gjensidig internasjonal anerkjennelse. Akkrediteringsorganet må være etablert i et EU-/EØS-land eller Det forente kongerike Storbritannia og Nord-Irland. Inspeksjonsorganet skal være akkreditert etter NS-EN ISO/IEC 17020 Samsvarsvurdering – krav til drift av ulike typer inspeksjonsorganer. Inspeksjonsorganet må tilfredsstille standardens krav til uavhengighetstype A, B eller C.
 
-> Tilføyd ved [forskrift 7 des 2007 nr. 1372](forskrift/2007-12-07-1372) (i kraft 1 jan 2008), endret ved [forskrift 13 des 2013 nr. 1471](forskrift/2013-12-13-1471) (i kraft 1 jan 2014).
+> Tilføyd ved [forskrift 7 des 2007 nr. 1372](forskrift/2007-12-07-1372) (i kraft 1 jan 2008), endret ved forskrifter [13 des 2013 nr. 1471](forskrift/2013-12-13-1471) (i kraft 1 jan 2014), [27 mai 2026 nr. 910](forskrift/2026-05-27-910).
 
 ### § 11e. Utbrudd
 
