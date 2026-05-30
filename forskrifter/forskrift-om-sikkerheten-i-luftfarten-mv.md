@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2011-03-01"
-last_change_in_force: "2026-04-24"
+last_change_in_force: "2026-05-27"
 last_updated: "2019-03-01"
-xml_hash: "245ce3039ac2c607b1efe9098ccdb59d7c145639bb0e1370e33fd297dfd51688"
+xml_hash: "188066bbbfa9d68a24dc33b79e26ccc23fbbdb25c0e239a26e7cf56f4e461d2d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -390,7 +390,9 @@ Ved rettskraftig dom for flykapring eller andre straffbare forhold som innebære
 
 Luftfartstilsynet kan på ethvert tidspunkt foreta ny bakgrunnssjekk. Ny vurdering skal gjøres etter reglene i [§ 47](forskrift/2011-03-01-214/§47).
 
-Blir en person med godkjent vandel siktet eller tiltalt for straffbart forhold som kan gi grunnlag for avslag etter reglene i [§ 47](forskrift/2011-03-01-214/§47), kan Luftfartstilsynet vedta midlertidig tilbakekall av id-kortet inntil saken er rettskraftig avgjort eller henlagt.
+Blir en person med godkjent vandel siktet eller tiltalt for straffbart forhold som kan gi grunnlag for avslag etter reglene i [§ 47](forskrift/2011-03-01-214/§47), kan Luftfartstilsynet vedta midlertidig tilbakekall av bakgrunnssjekken inntil saken er rettskraftig avgjort eller henlagt.
+
+> Endret ved forskrift [27 mai 2026 nr. 912](forskrift/2026-05-27-912).
 
 ### § 52. Varslingsplikt
 
