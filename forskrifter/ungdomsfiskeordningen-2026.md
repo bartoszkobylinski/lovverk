@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-17"
-last_change_in_force: null
+last_change_in_force: "2026-05-27"
 last_updated: null
-xml_hash: "0d16e3eaff487997322a288994a2fbaa2483ea022aa4b044af4de8cc01fa6623"
+xml_hash: "9cfaf852b194dd1ac0f14b70f1c0cfddaa94749e2e9c0ca4a5ca02723e43b215"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -65,6 +65,10 @@ Når ungdomsfisket arrangeres i regi av en kommune, kan Fiskeridirektoratet ogs�
 Dersom det nyttes merkeregistrert fartøy i et ungdomsfiske arrangert i regi av en kommune, kan Fiskeridirektoratet gi tillatelse til at det fiskes for mer enn 50 000 kroner per fartøy, men ikke per person.
 
 Merkeregistrerte fartøy som har fått tillatelse etter andre ledd skal, uavhengig av lengde, følge kravene til posisjonsrapporteringsutstyr og posisjonsrapportering, jf. [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy (ERS-forskriften)](forskrift/2009-12-21-1743).
+
+Kommuner som arrangerer ungdomsfiske skal sende melding til Fiskeridirektoratet før fisket tar til. Påmelding og søknad om dispensasjon skal skje ved innsending av skjema tilgjengelig på Fiskeridirektoratets nettside.
+
+> Endret ved forskrift [27 mai 2026 nr. 908](forskrift/2026-05-27-908).
 
 ## § 6. Fangst
 
