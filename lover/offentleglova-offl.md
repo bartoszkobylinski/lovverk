@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-01-01"
 last_change_in_force: "2025-06-20"
 last_updated: "2022-03-28"
-xml_hash: "48a27e3a4ec66721732e9db800259f7e38319ef3e35ced450285efa71e91c790"
+xml_hash: "69523525394690fbaa3fa08f766949d9150b1c13c4325b1d9f8e68f65286cc82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-05-30T06:43:29.855289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Lova gjeld for Svalbard dersom ikkje anna blir fastsett av Kongen.
 
 Føresegnene i [§ 6](lov/2006-05-19-16/§6), [§ 7](lov/2006-05-19-16/§7) andre ledd, [§ 8](lov/2006-05-19-16/§8) tredje ledd andre punktum og fjerde og femte ledd og [§ 30](lov/2006-05-19-16/§30) første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)).
+> Endra med lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Vert endra** ved lov [29 mai 2026 nr. 20](lov/2026-05-29-20) (i kraft 1 juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920)).
 
 ## Kapittel 2. Hovudreglane om innsyn
 
