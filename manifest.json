@@ -2836,15 +2836,15 @@
         "32017R2394",
         "32010L0013"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "lover/alkoholloven-alkhl.md",
       "slug": "alkoholloven-alkhl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om omsetning av alkoholholdig drikk m.v. (alkoholloven)",
-      "total_changes": null,
-      "xml_hash": "00cb4d39c47fe6966890fb4893b685109829e976d8138c0acff0de93e7789ebc"
+      "total_changes": 4,
+      "xml_hash": "9ef625cbcb492d644da49b2e144f5c2c98b943c2551ca1c5ab7b23afadbab55a"
     },
     "nl-19890609-032": {
       "doc_type": "lov",
@@ -5372,15 +5372,15 @@
     "nl-20060519-016": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "lover/offentleglova-offl.md",
       "slug": "offentleglova-offl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
-      "total_changes": null,
-      "xml_hash": "48a27e3a4ec66721732e9db800259f7e38319ef3e35ced450285efa71e91c790"
+      "total_changes": 4,
+      "xml_hash": "69523525394690fbaa3fa08f766949d9150b1c13c4325b1d9f8e68f65286cc82"
     },
     "nl-20060616-020": {
       "doc_type": "lov",
@@ -9791,28 +9791,28 @@
     "nl-20250620-105": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "lover/enhetsregisterloven.md",
       "slug": "enhetsregisterloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Enhetsregisteret (enhetsregisterloven)",
-      "total_changes": null,
-      "xml_hash": "81009cb2598113594f2bb08ff9d925aafb4fa07f958161f700006d2015a67281"
+      "total_changes": 4,
+      "xml_hash": "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
     },
     "nl-20250620-106": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "lover/foretaksregisterloven.md",
       "slug": "foretaksregisterloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Foretaksregisteret (foretaksregisterloven)",
-      "total_changes": null,
-      "xml_hash": "07cf701dd06a6083bb751e2563c270ec0c5d2bb5b59f60fb829d04f1cc0031e2"
+      "total_changes": 4,
+      "xml_hash": "91c3a555b9f8df11259e336d1b9c0d696a482a06fcd8990c0f732c8c180407b5"
     },
     "nl-20250620-107": {
       "doc_type": "lov",
@@ -10069,6 +10069,32 @@
       "title": "Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)",
       "total_changes": 1,
       "xml_hash": "eeb304949512ca3aba36441833b31efebd59d9d0122c1bdcdb645e4f47ae891e"
+    },
+    "nl-20260529-020": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "markdown_path": "lover/barnevoldsundersøkelsesloven.md",
+      "slug": "barnevoldsundersøkelsesloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)",
+      "total_changes": 1,
+      "xml_hash": "88b47e7b685611bb6c307ff6c9928963424fb00ca8453dfd1fb6a29993acb8c5"
+    },
+    "nl-20260529-021": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "markdown_path": "lover/endringslov-til-alkoholloven.md",
+      "slug": "endringslov-til-alkoholloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)",
+      "total_changes": 1,
+      "xml_hash": "cf295938fedaf6a8d585e8bfd2a4b8466a884b3ee0fe2457ef6e6255b2200431"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -13323,15 +13349,15 @@
     "sf-19840319-2319": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-29",
-      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag.md",
       "slug": "forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling og ved delt pensjonsgrunnlag",
-      "total_changes": 1,
-      "xml_hash": "1a6965102a3c0b498a43f3c18566c26bfdddf3974036c9b41ee45b66ae46e844"
+      "total_changes": 2,
+      "xml_hash": "2092ea5a67ce7e0bf906a2806ebfce24b39f82108c994e7664dc130305fac7d6"
     },
     "sf-19840330-0819": {
       "doc_type": "forskrift",
@@ -18146,15 +18172,15 @@
     "sf-19980916-0936": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-statens-kunsterstipend-m-m.md",
       "slug": "forskrift-om-statens-kunsterstipend-m-m",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om statens stipend og garantiinntekter for kunstnere",
-      "total_changes": null,
-      "xml_hash": "9690988ce59cf0412250b172c7d6f4da0634443cddd429f91d8ea28f76347296"
+      "total_changes": 4,
+      "xml_hash": "65b7ad5496f3f5235522e54ff4087c80d14999c1d432ba9e99e19178957a9f49"
     },
     "sf-19980917-0982": {
       "doc_type": "forskrift",
@@ -21422,15 +21448,15 @@
     "sf-20030425-0486": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-miljørettet-helsevern.md",
       "slug": "forskrift-om-miljørettet-helsevern",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om miljørettet helsevern",
-      "total_changes": null,
-      "xml_hash": "9a4fa551fce76a34e9311c28db726be8803fb460df79bf30590b58817daf41d4"
+      "total_changes": 4,
+      "xml_hash": "213714692b107da55f31abb9d6e3f9e907ebbbc93f4b326e8a531616f82b8dcd"
     },
     "sf-20030425-0614": {
       "doc_type": "forskrift",
@@ -29222,15 +29248,15 @@
     "sf-20110301-0214": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-sikkerheten-i-luftfarten-mv.md",
       "slug": "forskrift-om-sikkerheten-i-luftfarten-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forebyggelse av anslag mot sikkerheten i luftfarten mv.",
-      "total_changes": null,
-      "xml_hash": "245ce3039ac2c607b1efe9098ccdb59d7c145639bb0e1370e33fd297dfd51688"
+      "total_changes": 5,
+      "xml_hash": "188066bbbfa9d68a24dc33b79e26ccc23fbbdb25c0e239a26e7cf56f4e461d2d"
     },
     "sf-20110304-0251": {
       "doc_type": "forskrift",
@@ -38309,15 +38335,15 @@
     "sf-20180601-1546": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md",
       "slug": "forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Handelshøyskolen BI",
-      "total_changes": 4,
-      "xml_hash": "71273dacce419d0f002c601e8758e7ffa7bbecd252462d98138800a5512b5295"
+      "total_changes": 5,
+      "xml_hash": "b11f9075e1d9ca7f8334275c75566fc26a930c7315a91fc5aa88c8cfda4e0d45"
     },
     "sf-20180607-0836": {
       "doc_type": "forskrift",
@@ -40844,15 +40870,15 @@
     "sf-20200309-0709": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-offentlig-kontroll-grensekontrollstasjoner-forordning-eu-2019-1012-forordning-eu-2019-1014-og-forordning-eu-2019-1081.md",
       "slug": "forskrift-om-offentlig-kontroll-grensekontrollstasjoner-forordning-eu-2019-1012-forordning-eu-2019-1014-og-forordning-eu-2019-1081",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om offentlig kontroll – grensekontrollstasjoner – forordning (EU) 2019/1012, forordning (EU) 2019/1014 og forordning (EU) 2019/1081",
-      "total_changes": null,
-      "xml_hash": "37cce496d899270c63ad3e0d70a99f0ec0686844502d4aa4171c3b41e5e8aec4"
+      "total_changes": 4,
+      "xml_hash": "b5f79cfd1d98d6bba354260ac706896ef4196094a6824da8a1db9366f86deabe"
     },
     "sf-20200309-0710": {
       "doc_type": "forskrift",
@@ -41078,15 +41104,15 @@
     "sf-20200415-0798": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-29",
-      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-utdanningsstøtte.md",
       "slug": "forskrift-om-utdanningsstøtte",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utdanningsstøtte",
-      "total_changes": 5,
-      "xml_hash": "540d615272f0347d42e110c2d4490de256b68e35f5343da607070a953a10c077"
+      "total_changes": 6,
+      "xml_hash": "e0a9e5bbecff0919800c0ce517327c0cad722865378501577d928d8e6c183f04"
     },
     "sf-20200417-0810": {
       "doc_type": "forskrift",
@@ -43067,15 +43093,15 @@
     "sf-20210507-1452": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/våpenforskrifta.md",
       "slug": "våpenforskrifta",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om våpen, skytevåpen, våpendelar og ammunisjon (våpenforskrifta)",
-      "total_changes": 4,
-      "xml_hash": "7b8f12ba9dc7aa84f482147e27f9ddec1420fe39ecc48d45b6e987f2eccfe601"
+      "total_changes": 5,
+      "xml_hash": "088513b0b72c843e0b0e1e8f6940dc8603db6904f1e2778ce529c46d3655e343"
     },
     "sf-20210509-1476": {
       "doc_type": "forskrift",
@@ -53246,15 +53272,15 @@
     "sf-20251219-2828": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": null,
-      "xml_hash": "8caacca21db0dbbf9b1d6d4b0143fcff84f4b034a7769119b3ff105c39efb479"
+      "total_changes": 4,
+      "xml_hash": "173658c356a98e004f85b670da0a6ff2d7f72706995d16f8dfb4a5eaf6c822f0"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -54273,15 +54299,15 @@
     "sf-20260417-0614": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
       "markdown_path": "forskrifter/ungdomsfiskeordningen-2026.md",
       "slug": "ungdomsfiskeordningen-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av ungdoms rett til å delta i fisket i 2026 (ungdomsfiskeordningen)",
-      "total_changes": null,
-      "xml_hash": "0d16e3eaff487997322a288994a2fbaa2483ea022aa4b044af4de8cc01fa6623"
+      "total_changes": 4,
+      "xml_hash": "9cfaf852b194dd1ac0f14b70f1c0cfddaa94749e2e9c0ca4a5ca02723e43b215"
     },
     "sf-20260417-0615": {
       "doc_type": "forskrift",
@@ -54685,8 +54711,21 @@
       "title": "Forskrift om Statens kunstnarstipend",
       "total_changes": 1,
       "xml_hash": "e1e27598e29a3c4c0baa1508b66b3ad1a15510cdb5eb950c1e9fda0a91b22ca3"
+    },
+    "sf-20260526-0906": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-05-30",
+      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om statens stipend og garantiinntekter for kunstnere",
+      "total_changes": 1,
+      "xml_hash": "e49bef25677d8f97858175b32ad778775fef1c1ffdcf15066e9c88266517dc84"
     }
   },
-  "generated_at": "2026-05-29T07:52:43.488317Z",
+  "generated_at": "2026-05-30T06:43:29.855289Z",
   "version": 1
 }

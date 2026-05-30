@@ -2,6 +2,26 @@
   "doc_id": "sf-20110301-0214",
   "events": [
     {
+      "commit": "786a232",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-sikkerheten-i-luftfarten-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "c35a859",
       "date": "2026-04-29",
       "from_path": null,

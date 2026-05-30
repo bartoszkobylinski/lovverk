@@ -1,6 +1,6 @@
 # Lover
 
-_740 current documents_
+_742 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -40,6 +40,7 @@ _740 current documents_
 - [barneombudsloven](barneombudsloven.md) — Lov om barneombud [barneombudsloven]
 - [barnetrygdloven-btrl](barnetrygdloven-btrl.md) — Lov om barnetrygd (barnetrygdloven)
 - [barnevernsloven-bvl](barnevernsloven-bvl.md) — Lov om barnevern (barnevernsloven)
+- [barnevoldsundersøkelsesloven](barnevoldsundersøkelsesloven.md) — Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)
 - [behandlingsbiobankloven-biobl](behandlingsbiobankloven-biobl.md) — Lov om behandlingsbiobanker (behandlingsbiobankloven)
 - [beitelova](beitelova.md) — Lov om ymse beitespørsmål [beitelova]
 - [beredskapsloven-beredskl](beredskapsloven-beredskl.md) — Lov om særlige rådgjerder under krig, krigsfare og liknende forhold [beredskapsloven]
@@ -101,6 +102,7 @@ _740 current documents_
 - [endringslov-angående-allmenninger-m-v](endringslov-angående-allmenninger-m-v.md) — Lov om opphevelse av og endringer i gjeldende lovgivning om allmenninger m.v.
 - [endringslov-om-datalagringsdirektivet](endringslov-om-datalagringsdirektivet.md) — Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs datalagringsdirektiv i norsk rett)
 - [endringslov-til-aksjelovgivningen-mv](endringslov-til-aksjelovgivningen-mv.md) — Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)
+- [endringslov-til-alkoholloven](endringslov-til-alkoholloven.md) — Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 - [endringslov-til-allmenngjøringsloven](endringslov-til-allmenngjøringsloven.md) — Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)
 - [endringslov-til-anskaffelsesloven](endringslov-til-anskaffelsesloven.md) — Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
 - [endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven](endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven.md) — Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlertidig ansettelse mv. og vilkår om aktivitet for stønad til livsopphold)

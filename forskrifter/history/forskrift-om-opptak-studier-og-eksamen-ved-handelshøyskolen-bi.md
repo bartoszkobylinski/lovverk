@@ -1,6 +1,11 @@
 # forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi — Change history
 
-_4 events; doc_id `sf-20180601-1546`._
+_5 events; doc_id `sf-20180601-1546`._
+
+## 2026-05-30 — Content updated
+Lines: +28 -28.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi`
+Commit: `6083350`.
 
 ## 2026-05-08 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,16 @@
 # forskrift-om-sikkerheten-i-luftfarten-mv — Change history
 
-_3 events; doc_id `sf-20110301-0214`._
+_5 events; doc_id `sf-20110301-0214`._
+
+## 2026-05-30 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-sikkerheten-i-luftfarten-mv`
+Commit: `786a232`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-29 — Content updated
 Lines: +6 -4.

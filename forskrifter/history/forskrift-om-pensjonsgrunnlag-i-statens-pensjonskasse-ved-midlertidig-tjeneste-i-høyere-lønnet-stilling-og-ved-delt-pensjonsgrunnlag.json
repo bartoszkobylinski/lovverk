@@ -2,6 +2,16 @@
   "doc_id": "sf-19840319-2319",
   "events": [
     {
+      "commit": "273a853",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-pensjonsgrunnlag-i-statens-pensjonskasse-ved-midlertidig-tjeneste-i-høyere-lønnet-stilling-og-ved-delt-pensjonsgrunnlag",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d28f93a",
       "date": "2026-05-29",
       "from_path": null,

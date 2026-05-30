@@ -1,6 +1,16 @@
 # alkoholloven-alkhl — Change history
 
-_2 events; doc_id `nl-19890602-027`._
+_4 events; doc_id `nl-19890602-027`._
+
+## 2026-05-30 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): alkoholloven-alkhl`
+Commit: `9f5af61`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19890602-027.md` → `lover/alkoholloven-alkhl.md`.

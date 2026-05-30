@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3432 current documents_
+_3433 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -716,6 +716,7 @@ _3432 current documents_
 - [forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport](forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport.md) — Forskrift om endring i forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter og forskrift om samordnet innkreving av avgift på fiskeeksport
 - [forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia](forskrift-om-endring-i-forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md) — Forskrift om endring i forskrift om sanksjoner i lys av situasjonen i Somalia
 - [forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør](forskrift-om-endring-i-forskrift-om-satser-i-prisutjevningsordningen-for-melk-og-satser-for-produksjonsfløte-og-tilvirkningsverdi-på-smør.md) — Forskrift om endring i forskrift om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør
+- [forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere](forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere.md) — Forskrift om endring i forskrift om statens stipend og garantiinntekter for kunstnere
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6

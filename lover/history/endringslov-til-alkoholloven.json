@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260529-021",
+  "events": [
+    {
+      "commit": "3139e34",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-alkoholloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-alkoholloven"
+}

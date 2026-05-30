@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260526-0906",
+  "events": [
+    {
+      "commit": "e84cf44",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-statens-stipend-og-garantiinntekter-for-kunstnere"
+}

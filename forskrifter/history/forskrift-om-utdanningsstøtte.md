@@ -1,6 +1,11 @@
 # forskrift-om-utdanningsstøtte — Change history
 
-_5 events; doc_id `sf-20200415-0798`._
+_6 events; doc_id `sf-20200415-0798`._
+
+## 2026-05-30 — Content updated
+Lines: +47 -47.
+Subject: `update(forskrift): forskrift-om-utdanningsstøtte`
+Commit: `9a62444`.
 
 ## 2026-05-29 — Content updated
 Lines: +47 -47.

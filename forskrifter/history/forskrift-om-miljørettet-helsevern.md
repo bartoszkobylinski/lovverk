@@ -1,6 +1,16 @@
 # forskrift-om-miljørettet-helsevern — Change history
 
-_2 events; doc_id `sf-20030425-0486`._
+_4 events; doc_id `sf-20030425-0486`._
+
+## 2026-05-30 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-miljørettet-helsevern`
+Commit: `5f56f81`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20030425-0486.md` → `"forskrifter/forskrift-om-milj\303\270rettet-helsevern.md"`.

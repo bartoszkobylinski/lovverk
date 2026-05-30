@@ -1,6 +1,11 @@
 # våpenforskrifta — Change history
 
-_4 events; doc_id `sf-20210507-1452`._
+_5 events; doc_id `sf-20210507-1452`._
+
+## 2026-05-30 — Content updated
+Lines: +15 -7.
+Subject: `update(forskrift): våpenforskrifta`
+Commit: `d7a889e`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -4.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20200415-0798",
   "events": [
     {
+      "commit": "9a62444",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 47,
+      "lines_removed": 47,
+      "subject": "update(forskrift): forskrift-om-utdanningsstøtte",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e634003",
       "date": "2026-05-29",
       "from_path": null,

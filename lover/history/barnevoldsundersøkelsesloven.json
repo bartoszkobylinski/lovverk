@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260529-020",
+  "events": [
+    {
+      "commit": "42f9e17",
+      "date": "2026-05-30",
+      "from_path": null,
+      "lines_added": 159,
+      "lines_removed": 0,
+      "subject": "add(lov): barnevoldsundersøkelsesloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "barnevoldsundersøkelsesloven"
+}
