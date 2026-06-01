@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2022-07-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-03-24"
-xml_hash: "c46c2600690f021ee08597a83e497f43d3ca78d3aaccbef0df0f008cd2b78b31"
+xml_hash: "3140d8b4172897b2e1fddbe7006b1881c7c415e6af54c3de75b0353382b38560"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,11 +56,11 @@ Uttak av organ, celler og vev kan berre finne stad dersom inngrepet ikkje fører
 
 Uttak av organ, celler og vev frå personar mellom 12 og 18 år kan berre finne stad når det ligg føre særlege grunnar. I vurderinga av om det ligg føre særlege grunnar skal det mellom anna leggjast vekt på om:transplantasjon er nødvendig for å redde livet til mottakaren,det finst nokon annan aktuell donor,donoren har sterk tilknyting til mottakar,uttaket inneber eit stort inngrep,uttaket berre gjeld fornybart vev, jf. [§ 3](lov/2015-05-07-25/§3) bokstav c, og omdonoren er moden nok til å skjønne kva inngrepet inneber.
 
-Uttak frå barn under 12 år og vaksne som ikkje har samtykkekompetanse, kan berre finne stad dersom:uttaket gjeld fornybart vev, jf. [§ 3](lov/2015-05-07-25/§3) bokstav c,donasjonen er nødvendig for å redde livet til mottakaren,det ikkje finst ein donor med samtykkekompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), ogmottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.
+Uttak frå barn under 12 år og vaksne som ikkje har avgjerdskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), kan berre finne stad dersom:uttaket gjeld fornybart vev, jf. [§ 3 bokstav c](lov/2015-05-07-25/§3/bokstav/c),donasjonen er nødvendig for å redde livet til mottakaren,det ikkje finst ein donor med avgjerdskompetanse som deler mange nok av dei viktigaste vevstypane (er vevsforlikeleg), ogmottakaren er søsken, barn eller forelder, eller i særlege tilfelle på annan måte i nær familie med donoren.
 
-Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har samtykkekompetanse.
+Uttak kan aldri gjennomførast i strid med viljen til ein donor som ikkje har avgjerdskompetanse.
 
-> **Vert endra** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endra ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 6. Hovudregel om samtykke
 
@@ -70,21 +70,21 @@ Samtykke kan trekkjast tilbake.
 
 Departementet kan gi forskrift om krav til samtykket.
 
-### § 7. Kven som har rett til å samtykke (samtykkekompetanse) til donasjon frå ein levande donor
+### § 7. Kven som har rett til å samtykke til donasjon frå ein levande donor
 
-Personar som har fylt 18 år, har rett til å samtykke til donasjon. [Pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) andre til fjerde ledd om heilt eller delvis bortfall av samtykkekompetanse gjeld tilsvarande.
+Personar som har fylt 18 år, har rett til å samtykke til donasjon. [Pasient- og brukerrettighetsloven § 4-3 andre](lov/1999-07-02-63/§4-3/ledd/2) til [fjerde ledd](lov/1999-07-02-63/§4-3/ledd/4) om bortfall av avgjerdskompetanse gjeld tilsvarande.
 
 For personar som ikkje har fylt 18 år, har foreldra, eller andre med foreldreansvaret etter barnelova, rett til å samtykke til donasjon. Donasjon kan ikkje finne stad dersom foreldra er usamde.
 
-For personar som har mista samtykkekompetansen etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) andre ledd, har næraste pårørande, jf. § 3 bokstav d, rett til å samtykke til donasjon.
+For personar som har mista avgjerdskompetansen etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), har næraste pårørande, jf. [§ 3 bokstav d](lov/2015-05-07-25/§3/bokstav/d), rett til å samtykke til donasjon.
 
 For personar som er fråtatt den rettslege handleevna etter [vergemålsloven § 22](lov/2010-03-26-9/§22) tredje ledd, gjeld [pasient- og brukerrettighetsloven § 4-7](lov/1999-07-02-63/§4-7) tilsvarande.
 
 Samtykke etter andre til fjerde ledd må godkjennast av statsforvaltaren.
 
-For at samtykket skal vere gyldig, må donoren og den som har samtykkekompetansen ha fått informasjon om helsetilstanden til donoren og om inngrepet, under dette om omfanget og konsekvensane av det. Informasjonen skal vere tilpassa dei individuelle føresetnadene til mottakaren, som alder, kor moden donoren er, erfaring og kultur- og språkbakgrunn. Den som gir informasjonen skal forsikre seg om at donoren og den som har rett til å samtykke har forstått informasjonen.
+For at samtykket skal vere gyldig, må donoren og den som har avgjerdskompetansen, ha fått informasjon om helsetilstanden til donoren og om inngrepet, også om omfanget og konsekvensane av det. Informasjonen skal vere tilpassa dei individuelle føresetnadene til mottakaren, som alder, kor moden donoren er, erfaring og kultur- og språkbakgrunn. Den som gir informasjonen skal forsikre seg om at donoren og den som har rett til å samtykke har forstått informasjonen.
 
-> Endra ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)). **Vert endra** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endra ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 8. Habilitet ved vurderinga av om ein levande donor er eigna
 
