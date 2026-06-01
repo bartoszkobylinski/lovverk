@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-03-24"
-xml_hash: "9f8d014442fb2fc017ab390cddeb572bc0a034828dad50fedfe6022f528bc036"
+xml_hash: "8c20704a55e9ae1f4b242f004840f3a73febacab1d54621b243d91f4ea00b907"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,13 +144,13 @@ Rett til å samtykke til behandling av helseopplysninger harmyndige personer, og
 
 For samtykke til behandling av opplysninger som gjelder personer under 16 år, gjelder [pasient- og brukerrettighetsloven § 4-4](lov/1999-07-02-63/§4-4) tilsvarende. Dersom barn mellom 12 og 16 år, av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.
 
-For personer uten samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) andre ledd, skal nærmeste pårørende etter [pasient- og brukerrettighetsloven § 1-3](lov/1999-07-02-63/§1-3) bokstav b gi samtykke.
+For personer uten beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre ledd](lov/1999-07-02-63/§4-3/ledd/2), skal nærmeste pårørende etter [pasient- og brukerrettighetsloven § 1-3 bokstav b](lov/1999-07-02-63/§1-3/bokstav/b) gi samtykke.
 
 For personer som er fratatt rettslig handleevne på det personlige området, gjelder [pasient- og brukerrettighetsloven § 4-7](lov/1999-07-02-63/§4-7) tilsvarende.
 
 Departementet kan i forskrift bestemme at barn mellom 12 og 16 år kan samtykke til behandling av helseopplysninger for nærmere bestemte spesielle formål.
 
-> **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 16. Plikt til å innrapportere data til statistikk
 
