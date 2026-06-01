@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-03-01"
-last_change_in_force: "2025-10-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2024-01-09"
-xml_hash: "953afe6e80902eb798e61841de38fb0f87e5b3de1e94c3ae0b86e502c5bcaae4"
+xml_hash: "b2edf963af1075891dae18819f1fdcab4638ccab71604953ef5f5eea94040686"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,7 +142,7 @@ Fast bopel regnes normalt fra det tidspunkt personen får, eller skulle ha fått
 
 Førerett kan i Norge erverves i følgende internasjonale klasser og med følgende krav om minstealder m.m.:Klasse AM – moped – 16 årKlasse A – Motorsykkel, direkte erverv – 24 årKlasse A – motorsykkel, etappevis erverv – 20 år forutsatt minst 2 års kjøreerfaring med klasse A2, ellers kreves det minst 2 års kjøreerfaring med klasse A2 før fylte 24 år. Minstealderen er likevel 21 år for trehjuls motorsykkel med en effekt på over 15 kWKlasse A2 – mellomtung motorsykkel – 18 årKlasse A1 – lett motorsykkel – 16 årKlasse B – personbil, varebil – 18 årKlasse C – lastebil – 21 årKlasse C1 – lett lastebil – 18 årKlasse D – buss – 24 årKlasse D1 – minibuss – 21 årKlasse BE – tilhenger til klasse B – 18 årKlasse CE – tilhenger til klasse C – 21 årKlasse C1E – tilhenger til klasse C1 – 18 årKlasse DE – tilhenger til klasse D – 24 årKlasse D1E – tilhenger til klasse D1 -21 år.
 
-Minstealderen for utstedelse av førerkort i klassene C, CE, D, DE, D1 og D1E kan være lavere for person som har påbegynt eller fullført godkjent opplæring etter yrkessjåførforskriften av 16. april 2008 nr. 362.
+Unntak fra alderskravene nevnt i første ledd følger av [kapittel 12](forskrift/2004-01-19-298/kap12).
 
 Førerett i klasse AM kan for kjøring i Norge være begrenset ved påføring av de nasjonale kodene 145, 146 og 147.
 
@@ -152,7 +152,7 @@ Førerett i Norge kan erverves i følgende nasjonale klasser og med følgende kr
 
 Nasjonale førerettigheter er gyldige for kjøring i utlandet i den grad disse aksepteres av vedkommende myndigheter.
 
-> Endret ved [forskrifter 5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [26 aug 2014 nr. 1116](forskrift/2014-08-26-1116) (i kraft 1 sep 2014), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [18 des 2024 nr. 3272](forskrift/2024-12-18-3272) (i kraft 1 jan 2025). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Endret ved [forskrifter 5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [26 aug 2014 nr. 1116](forskrift/2014-08-26-1116) (i kraft 1 sep 2014), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [18 des 2024 nr. 3272](forskrift/2024-12-18-3272) (i kraft 1 jan 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 3-2. Førerett i klasse A
 
@@ -754,15 +754,15 @@ Motorvogn som på grunn av vekt eller dimensjoner ikke tillates brukt på offent
 
 > Tilføyd ved [forskrift 16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), endret ved [forskrifter 21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 1 juli 2012), [16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018).
 
-### § 12-7. Unntak fra alderskrav for lærlinger i kran- og løfteoperasjonsfaget
+### § 12-7. Unntak fra alderskrav for lærlinger og fagarbeidere i kran- og løfteoperasjonsfaget
 
 Lærling som har inngått lærekontrakt med godkjent lærebedrift og bestått førerprøve i klasse B, kan fra fylte 18 år avlegge førerprøve i klasse C. Etter bestått førerprøve i klasse C kan lærlingen få utstedt førerkort i klasse C1.
 
-Lærlingen kan med førerkort i klasse C1 føre mobilkran med ubegrenset tillatt totalvekt under oppdrag for godkjent lærebedrift. Lærekontrakt og dokumentasjon på at lærebedriften er godkjent etter opplæringslova må medbringes under kjøring.
+Lærlingen kan med førerkort i klasse C1 føre mobilkran med ubegrenset tillatt totalvekt under oppdrag for godkjent lærebedrift. Gyldig lærekontrakt og dokumentasjon på at lærebedriften er godkjent etter [opplæringslova](lov/2023-06-09-30) må medbringes under kjøring.
 
-Førerkort i klasse C kan utstedes ved fylte 21 år.
+Unntaket gjelder også for personer som har fullført læretiden i kran- og løfteoperasjonsfaget, bestått fagprøven og har gyldig arbeidskontrakt som kranfører. Gyldig arbeidskontrakt og dokumentasjon på fagbrev må medbringes under kjøring.
 
-> Tilføyd ved [forskrift 16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Tilføyd ved [forskrift 16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), endret ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 12-8. Særregler for kjøring på lukkede bedriftsområder
 
@@ -782,11 +782,37 @@ For tidsubegrensede dispensasjonsvedtak fattet etter tidligere bestemmelse i [f�
 
 ### § 12-9. Unntak fra førerett i klasse C for lærlinger og fagarbeidere i tunnel
 
-> **Tilføyes** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+Lærlinger i fjell- og bergverksfaget eller veg- og anleggsfaget med gyldig lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30), som har førerett i klasse B, kan føre motorvogn som betinger førerett i klasse C. Kjøringen må være knyttet til en arbeidsoperasjon i lærebedriften, med en hastighet på maksimalt 20 km/t. Lærlingen må ha fullført trinn 3 i henhold til [trafikkopplæringsforskriften kapittel 19](forskrift/2004-10-01-1339/kap19) for klasse C. Arbeidsområdet i tunnelen må være fysisk avsperret for alminnelig trafikk. Helsekravene for klasse C må være oppfylt, jf. vedlegg 1.
+
+Gyldig lærekontrakt, dokumentasjon på at lærebedriften er godkjent etter [opplæringslova](lov/2023-06-09-30), førerett i klasse B og bevis på fullført opplæring trinn 3 etter [trafikkopplæringsforskriften kapittel 19](forskrift/2004-10-01-1339/kap19) må medbringes under kjøring.
+
+Første ledd gjelder også for fagarbeidere i fjell- og bergverksfaget eller veg- og anleggsfaget. Hastighetsbegrensningen gjelder ikke. Fagarbeideren må ha fullført trinn 4, med unntak av sikkerhetskurs på bane, jf. [trafikkopplæringsforskriften kapittel 19](forskrift/2004-10-01-1339/kap19).
+
+Gyldig arbeidskontrakt, dokumentasjon på fagbrev, førerett i klasse B og bevis på fullført opplæring trinn 4 etter [trafikkopplæringsforskriften kapittel 19](forskrift/2004-10-01-1339/kap19) må medbringes under kjøring.
+
+Unntaket etter første og fjerde ledd gjelder for personer som har startet læreperioden før fylte 21 år. Førerett i klasse C må være ervervet senest når vedkommende er 21 år og 6 måneder.
+
+> Tilføyd ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 12-10. Særregler for lærlinger og andre som har fullført godkjent opplæring etter yrkessjåførforskriften § 8 og § 9
 
-> **Tilføyes** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+Minstealder for utstedelse av førerkort i klasse C og CE ved bestått teoriprøve etter fullstendig grunnutdanning for yrkessjåførkompetanse godstransport er 18 år.
+
+Minstealder for utstedelse av førerkort i klasse C og CE for lærlinger i yrkessjåførfaget er 18 år. Dette må dokumenteres med gyldig lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30).
+
+Minstealder for utstedelse av førerkort i klasse D1, D1E, D og DE for lærlinger i yrkessjåførfaget er 18 år. Dette må dokumenteres med gyldig lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30). Vedkommende kan utføre persontransport i rute oppad begrenset til 50 km rutelengde eller uten passasjerer i klasse D eller DE.
+
+Minstealder for utstedelse av førerkort i klasse D1, D1E, D og DE med bestått fagprøve og bestått teoriprøve etter fullstendig grunnutdanning for yrkessjåførkompetanse innen persontransport er fylte 20 år.
+
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter fullstendig komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 21 år.
+
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 21 år. Vedkommende kan utføre persontransport i rute oppad begrenset til 50 km rutelengde.
+
+Minstealder for utstedelse av førerkort i klasse D og DE ved bestått teoriprøve etter komprimert grunnutdanning for yrkessjåførkompetanse persontransport er 23 år.
+
+Kjøring med førerkort i klassene nevnt over før oppnådd ordinær minstealder etter [§ 3-1](forskrift/2004-01-19-298/§3-1), er bare gyldig etter fullført yrkessjåførkompetanse eller med gyldig lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30). Dette må medbringes under kjøring.
+
+> Tilføyd ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ## Kap. 13. Utstedelse av internasjonalt førerkort m.m.
 
