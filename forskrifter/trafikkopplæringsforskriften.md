@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2017-03-13"
-xml_hash: "717cdb40e6a82ca0331de704bc640946cfc3be3daf9b47bb9f75365acd795be4"
+xml_hash: "088541b347dcd085483aee3d36945645839434e7b9ce472a43168df08914a562"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-04T10:13:30.563489+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,13 +36,15 @@ I denne forskriften forstås med:*Trafikkopplæring:* praktisk og teoretisk oppl
 
 Med mindre annet fremgår av denne forskriften, gjelder definisjonene og bestemmelsene i [førerkortforskriften](forskrift/2004-01-19-298).
 
-> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
+> Endret ved forskrifter [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 juni 2022 nr. 1185](forskrift/2022-06-20-1185) (i kraft 1 aug 2022), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [25 feb 2026 nr. 278](forskrift/2026-02-25-278) (i kraft 1 mars 2026).
 
 ## Kapittel 2. Øvingskjøring
 
 ### § 2-1. Krav til elev under øvingskjøring
 
-Øvingskjøring må ikke finne sted tidligere enn to år før det tidspunkt eleven etter sin alder kan få førerett for den aktuelle kjøretøygruppe etter [førerkortforskriften](forskrift/2004-01-19-298) eller yrkessjåførforskriften [16. april 2008 nr. 362](forskrift/2008-04-16-362) jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd. Likevel må øvingskjøring ikke finne sted før fylte 15 år. Øvingskjøring i klassene AM 146 og S innenfor det offentlige skoleverk kan finne sted fra 10. klassetrinn, selv om eleven ikke har fylt 15 år. Lærling i kran- og løfteoperasjonsfaget, som har inngått lærekontrakt med lærebedrift som er godkjent etter opplæringslova, kan øvingskjøre til førerkort klasse C fra fylte 18 år.
+Øvingskjøring må ikke finne sted tidligere enn to år før det tidspunkt eleven etter sin alder kan få førerett for den aktuelle kjøretøygruppe etter [førerkortforskriften](forskrift/2004-01-19-298) eller yrkessjåførforskriften [16. april 2008 nr. 362](forskrift/2008-04-16-362) jf. [vegtrafikkloven § 26](lov/1965-06-18-4/§26) annet ledd. Likevel må øvingskjøring ikke finne sted før fylte 15 år. Øvingskjøring i klassene AM 146 og S innenfor det offentlige skoleverk kan finne sted fra 10. klassetrinn, selv om eleven ikke har fylt 15 år.
+
+Lærlinger i kran- og løfteoperasjonsfaget, veg- og anleggsfaget og fjell- og bergverksfaget som har gyldig lærekontrakt med lærebedrift etter [opplæringslova](lov/2023-06-09-30) og bestått førerprøve i klasse B, kan øvingskjøre i klasse C fra fylte 18 år.
 
 Personer som skal øvingskjøre må ha fullført trafikalt grunnkurs ved godkjent opplæringsinstitusjon før øvingskjøringen kan starte. Trafikalt grunnkurs avsluttet i perioden 16. mars–31. oktober gir rett til å øvingskjøre mellom 16. mars og 31. oktober, selv om opplæring i kjøring i mørket ikke er fullført jf. [§ 8-1](forskrift/2004-10-01-1339/§8-1) femte ledd.
 
@@ -58,7 +60,7 @@ Person som har tapt føreretten kan, etter at tapsperioden er over, øvingskjør
 
 Person som har kjøreforbud for førerkortfritt kjøretøy, må ikke øvingskjøre med slikt kjøretøy eller med førerkortpliktig kjøretøy i denne perioden, uten politiets samtykke.
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [25 juni 2012 nr. 642](forskrift/2012-06-25-642) (i kraft 1 juli 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [15 des 2009 nr. 1541](forskrift/2009-12-15-1541) (i kraft 1 jan 2010), [25 juni 2012 nr. 642](forskrift/2012-06-25-642) (i kraft 1 juli 2012), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 16 mars 2013), [17 des 2013 nr. 1580](forskrift/2013-12-17-1580) (i kraft 1 jan 2014), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 2-2. Øvingskjøring på veg eller andre områder som ikke er avsperret
 
@@ -2080,7 +2082,15 @@ Opplæring om kjøring i mørket må gjennomføres før praktisk førerprøve (t
 
 Dersom dokumentasjon for gjennomført opplæring om kjøring i mørket ikke er fremlagt tidligere, må denne fremlegges før praktisk prøve ved utvidelse til klassene BE, C1, C1E, C, CE, D1, D1E, D og DE dersom praktisk prøve avlegges i perioden fra og med 1. november til og med 15. mars, jf. [førerkortforskriften](forskrift/2004-01-19-298).
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [7 mars 2017 nr. 288](forskrift/2017-03-07-288), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+Lærling i kran- og løfteoperasjonsfaget som har inngått lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30) og har bestått førerprøve i klasse B, kan avlegge teoretisk og praktisk prøve i klasse C fra fylte 18 år. Gyldig lærekontrakt må fremvises før prøven. Øvrige vilkår for å avlegge førerprøven må være oppfylt for den aktuelle førerkortklassen.
+
+Lærlinger i yrkessjåførfaget som har inngått lærekontrakt med godkjent lærebedrift etter [opplæringslova](lov/2023-06-09-30) og har bestått førerprøve i klasse B, kan avlegge teoretisk og praktisk prøve i klassene C, CE, D1 og D fra fylte 18 år. Gyldig lærekontrakt må fremvises før prøven. Øvrige vilkår for å avlegge førerprøven må være oppfylt for den aktuelle førerkortklassen.
+
+Personer som har gjennomført opplæring i modul 1 i grunnutdanningen etter [yrkessjåførforskriften](forskrift/2008-04-16-362) og har bestått førerprøve i klasse B, kan avlegge teoretisk og praktisk prøve i klassene C, og CE fra fylte 18 år. Opplæringen i modul 1 må fremgå av Trafikkskole-, sensor og kursarrangørregisteret (TSK-registeret). Øvrige vilkår for å avlegge førerprøven må være oppfylt for den aktuelle førerkortklassen.
+
+Personer som har gjennomført opplæring i modul 1 i grunnutdanningen etter [yrkessjåførforskriften](forskrift/2008-04-16-362) og har bestått førerprøve i klasse B, kan avlegge teoretisk prøve i klasse D fra fylte 20 år og 6 måneder. Opplæringen i modul 1 må fremgå av Trafikkskole-, sensor og kursarrangørregisteret (TSK-registeret). Praktisk prøve kan avlegges fra fylte 21 år. Øvrige vilkår for å avlegge førerprøven må være oppfylt for den aktuelle førerkortklassen.
+
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [19 mars 2015 nr. 270](forskrift/2015-03-19-270) (i kraft 23 mars 2015), [14 april 2016 nr. 376](forskrift/2016-04-14-376), [7 mars 2017 nr. 288](forskrift/2017-03-07-288), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [6 des 2019 nr. 1654](forskrift/2019-12-06-1654), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [20 juni 2024 nr. 1186](forskrift/2024-06-20-1186), [3 mars 2025 nr. 335](forskrift/2025-03-03-335) (i kraft 15 mars 2025), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 29-3. Søknad om førerkort, utstedelse og utvidelse
 
@@ -2098,7 +2108,7 @@ Dersom kandidaten har behov for spesiell tilrettelegging av førerprøven, skal 
 
 ### § 29-5. Teoretisk prøve
 
-Den teoretiske prøven kan avlegges inntil seks måneder før fastsatt minstealder for førerkortklassen. Teoretisk prøve for klassene AM og S kan likevel ikke avlegges før fylte 16 år, jf. [§ 29-2](forskrift/2004-10-01-1339/§29-2) første ledd. Lærling i kran- og løfteoperasjonsfaget, som har inngått lærekontrakt med lærebedrift som er godkjent etter opplæringslova og bestått førerprøve i klasse B, kan avlegge teoretisk førerprøve i klasse C fra fylte 18 år.
+Den teoretiske prøven kan avlegges inntil seks måneder før fastsatt minstealder for førerkortklassen. Teoretisk prøve for klassene AM og S kan likevel ikke avlegges før fylte 16 år, jf. [§ 29-2 første ledd](lov/2023-06-09-30/§29-2/ledd/1).
 
 Dersom 85 % av oppgavene til den teoretiske prøven er riktig besvart, skal prøven vurderes som bestått.
 
@@ -2108,7 +2118,7 @@ Kandidaten kan bare bruke hjelpemidler godkjent av Statens vegvesen.
 
 Kandidaten skal la seg avbilde før kandidaten avlegger teoretisk prøve. Dette gjelder ikke for kandidater som allerede ligger inne i systemet med et akseptabelt bilde. Statens vegvesen kan kreve nytt bilde av kandidaten dersom det er nødvendig for å sikre tilstrekkelig identifikasjon.
 
-> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 1 juli 2013), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020). **Endres** ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
+> Endret ved forskrifter [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [19 des 2008 nr. 1488](forskrift/2008-12-19-1488) (i kraft 1 jan 2009), [29 mai 2009 nr. 593](forskrift/2009-05-29-593) (i kraft 1 juli 2009), [20 des 2012 nr. 1413](forskrift/2012-12-20-1413) (i kraft 19 jan 2013), [12 mars 2013 nr. 272](forskrift/2013-03-12-272) (i kraft 1 juli 2013), [16 aug 2018 nr. 1245](forskrift/2018-08-16-1245) (i kraft 1 sep 2018), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
 ### § 29-6. Praktisk prøve
 
