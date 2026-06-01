@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "395166ee8960ca48606ccf75ae2fb14a207e8261fca49b0298c37e95b2df6bef"
+xml_hash: "44ad3d3025ed261e1b5dfaec21616b5a12677a0c9230f66b62eaa6ef88d406c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -97,14 +97,6 @@ Dersom forskningsdeltakeren har fått avslag på krav om sletting av helseopplys
 Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad, eventuelt forskningsprotokoll, og sluttmelding, jf. [§ 9 andre ledd andre punktum](lov/2008-06-20-44/§9/ledd/2/setning/2), [§§ 10](lov/2008-06-20-44/§10), [11](lov/2008-06-20-44/§11) og [12](lov/2008-06-20-44/§12).
 
 ## II
-
-opplysningene skal brukes til et uttrykkelig angitt formål knyttet til statistikk, helseanalyser, forskning, utvikling og bruk av beslutningsstøtteverktøy, kvalitetsforbedring, planlegging, styring eller beredskap for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,
-
-det er umulig eller vanskelig å innhente samtykke fra et tilstrekkelig utvalg av de registrerte,
-
-Departementet kan etter søknad bestemme at lovbestemt taushetsplikt ikke skal være til hinder for deltakende observasjon av helsepersonells yrkesutøvelse. Vilkårene i [§ 29](lov/1999-07-02-64/§29) gjelder tilsvarende.
-
-Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
 
 ## III
 
