@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2003-07-01"
-last_change_in_force: "2022-06-10"
+last_change_in_force: "2026-06-01"
 last_updated: "2021-08-26"
-xml_hash: "543d60617dabe15c162edb8932837f0eb2078b63a2d6b7aa542acb6efff75eae"
+xml_hash: "af0d6be0b8af9659c941c2e52ff06e720b5f3bbcfab07d9d9a60f31964169128"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -130,9 +130,9 @@ Departementet kan i forskrift gjøre unntak fra krav om godkjenning fra departem
 
 Samtykke til helsehjelp etter [pasient- og brukerrettighetsloven §§ 4-1](lov/1999-07-02-63/§4-1) og [4-2](lov/1999-07-02-63/§4-2) omfatter også innhenting, oppbevaring og behandling av humant biologisk materiale, herunder bruk av materialet til forebygging, kvalitetskontroll og metodeutvikling.
 
-For personer uten samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), gjelder [pasient- og brukerrettighetsloven §§ 4-4](lov/1999-07-02-63/§4-4) til [4-7](lov/1999-07-02-63/§4-7) om samtykke på vegne av andre tilsvarende.
+For personer uten beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), gjelder [pasient- og brukerrettighetsloven §§ 4-4](lov/1999-07-02-63/§4-4) til [4-7](lov/1999-07-02-63/§4-7) om samtykke på vegne av andre tilsvarende.
 
-> Endret ved [lover 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2018 nr. 76](lov/2018-06-22-76). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 12. (Opphevet)
 
