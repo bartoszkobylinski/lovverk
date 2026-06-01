@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-03-25"
-xml_hash: "906605553da33dc046409a962678c3461ab3cca3b1319b30e874d4abcafcdac4"
+xml_hash: "8e8ccb8b0fb35e334d634db6e1c50e1b04facb2c2d8623bea531abf1d88a4617"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -212,7 +212,7 @@ Når det skal utleveres helseopplysninger til et forsikringsselskap, og selskape
 
 Departementet kan i forskrift fastsette nærmere bestemmelser om utforming av og innhold i attester, erklæringer o.l.
 
-> Endret ved lover [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750)) som endret ved [lov 14 nov 2008 nr. 80](lov/2008-11-14-80).
+> Endret ved lover [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750), endring endret ved [lov 14 nov 2008 nr. 80](lov/2008-11-14-80)).
 
 ## Kapittel 3. Krav til organisering av virksomhet
 
@@ -298,9 +298,9 @@ Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er ikke til hinder for at op
 
 For personer under 16 år gjelder reglene i [pasient- og brukerrettighetsloven § 4-4](lov/1999-07-02-63/§4-4) tilsvarende for samtykke etter første ledd.
 
-For personer over 16 år som ikke er i stand til å vurdere spørsmålet om samtykke av grunner som nevnt i [pasient- og brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) annet ledd, kan nærmeste pårørende gi samtykke etter første ledd.
+For personer over 16 år som mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2), kan nærmeste pårørende gi samtykke etter første ledd.
 
-> Endret ved lover [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [27 juni 2008 nr. 65](lov/2008-06-27-65) (ikr. 1 jan 2009 iflg. [res. 27 juni 2008 nr. 750](forskrift/2008-06-27-750)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 23. Begrensninger i taushetsplikten
 
@@ -318,7 +318,7 @@ Nærmeste pårørende har rett til innsyn i journal etter en persons død hvis i
 
 ### § 25. Opplysninger til samarbeidende personell
 
-Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til samarbeidende personell når dette er nødvendig for å kunne gi forsvarlig helsehjelp.
+Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til samarbeidende personell når dette er nødvendig for å kunne gi forsvarlig helsehjelp. Taushetsbelagte opplysninger kan, uavhengig av om pasienten motsetter seg det, gis til samarbeidende personell dersom pasienten utgjør en nærliggende og alvorlig fare for eget liv eller andres liv eller helse, jf. [psykisk helsevernloven § 3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b).
 
 Taushetsplikt etter [§ 21](lov/1999-07-02-64/§21) er heller ikke til hinder for at personell som bistår med elektronisk bearbeiding av opplysningene, eller som bistår med service og vedlikehold av utstyr, får tilgang til opplysninger når slik bistand er nødvendig for å oppfylle lovbestemte krav til dokumentasjon.
 
@@ -326,7 +326,7 @@ Med mindre pasienten motsetter seg det, kan taushetsbelagte opplysninger gis til
 
 Personell som nevnt i første, andre og tredje ledd har samme taushetsplikt som helsepersonell.
 
-> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 25 a. Opplysninger i helsefaglige arbeidsfellesskap
 
@@ -376,7 +376,7 @@ Departementet kan gi forskrift om adgangen til å gi opplysninger om en arbeidst
 
 ### § 29. Dispensasjon fra taushetsplikt
 
-Departementet kan etter søknad bestemme at opplysninger fra pasientjournaler og andre behandlingsrettede helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21), nåropplysningene skal brukes til et uttrykkelig angitt formål knyttet til statistikk, helseanalyser, forskning, utvikling og bruk av klinisk beslutningsstøtteverktøy, kvalitetsforbedring, planlegging, styring eller beredskap for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, ogbehandlingen av opplysningene er av vesentlig interesse for samfunnet.
+Departementet kan etter søknad bestemme at opplysninger fra pasientjournaler og andre behandlingsrettede helseregistre skal tilgjengeliggjøres uten hinder av taushetsplikt etter [§ 21](lov/1999-07-02-64/§21), nåropplysningene skal brukes til et uttrykkelig angitt formål knyttet til statistikk, helseanalyser, forskning, utvikling og bruk av beslutningsstøtteverktøy, kvalitetsforbedring, planlegging, styring eller beredskap for å fremme helse, forebygge sykdom og skade eller gi bedre helse- og omsorgstjenester,det er umulig eller vanskelig å innhente samtykke fra et tilstrekkelig utvalg av de registrerte,mottakeren har gjort rede for hvilke egnede tekniske og organisatoriske tiltak som skal settes i verk for å ivareta informasjonssikkerheten, ogbehandlingen av opplysningene er av vesentlig interesse for samfunnet.
 
 Det skal ikke tilgjengeliggjøres flere opplysninger enn det som er nødvendig for formålet. Opplysningene skal tilgjengeliggjøres uten navn, fødselsnummer eller andre direkte personentydige kjennetegn med mindre slike opplysninger av særlige grunner er nødvendige.
 
@@ -390,7 +390,7 @@ Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan e
 
 Departementet kan gi forskrift om bruk av taushetsbelagte opplysninger i forskning og om helsepersonells adgang til tilgjengeliggjøring og bruk av taushetsbelagte opplysninger til formål som ikke gjelder helsehjelp, og som pasienten samtykker til.
 
-> Endret ved lover [19 juni 2009 nr. 73](lov/2009-06-19-73) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)). **Endres** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2009 nr. 73](lov/2009-06-19-73) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 29 a. Opplysninger om særreaksjonsdømte utlendinger
 
@@ -400,9 +400,13 @@ Ved utvisning av en utlending som utholder en strafferettslig særreaksjon, er l
 
 > Tilføyd ved [lov 24 apr 2015 nr. 22](lov/2015-04-24-22) (ikr. 1 mai 2015 iflg. [res. 24 apr 2015 nr. 405](forskrift/2015-04-24-405)), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
-### § 29 b. (Opphevet)
+### § 29 b. Deltakende observasjon
 
-> Tilføyd ved [lov 9 apr 2010 nr. 14](lov/2010-04-09-14), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), opphevet ved [lov 4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)). **Tilføyes** ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+Departementet kan etter søknad bestemme at lovbestemt taushetsplikt ikke skal være til hinder for deltakende observasjon av helsepersonells yrkesutøvelse. Vilkårene i [§ 29](lov/1999-07-02-64/§29) gjelder tilsvarende.
+
+Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
+
+> Tilføyd ved lov [9 apr 2010 nr. 14](lov/2010-04-09-14), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), opphevet ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), tilføyd ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 29 c. Opplysninger til bruk i læringsarbeid og kvalitetssikring
 
@@ -429,10 +433,6 @@ Pasienten kan motsette seg tilgjengeliggjøring av opplysninger etter første le
 Tilgjengeliggjøring etter første ledd skal dokumenteres. Den dataansvarlige skal alltid dokumentere informasjon om:identiteten og den organisatoriske tilhørigheten til den som får helseopplysningenegrunnlaget for tilgjengeliggjøringentidsperioden for tilgjengeliggjøringenhvilke opplysninger som blir tilgjengeliggjort.
 
 > Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
-
-### § 29 f. Deltakende observasjon av helsepersonells yrkesutøvelse
-
-> **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ## Kapittel 6. Opplysningsplikt m.v.
 
@@ -594,13 +594,13 @@ Etter krav fra den opplysningene gjelder, eller av eget tiltak, skal helseperson
 
 ### § 45. Utlevering av og tilgang til journal og journalopplysninger
 
-Med mindre pasienten motsetter seg det, skal helsepersonell som skal yte eller yter helsehjelp til pasient etter denne lov, gis nødvendige og relevante helseopplysninger i den grad dette er nødvendig for å kunne gi helsehjelp til pasienten på forsvarlig måte. Det skal fremgå av journalen at annet helsepersonell er gitt helseopplysninger.
+Med mindre pasienten motsetter seg det, skal helsepersonell som skal yte eller yter helsehjelp til pasient etter denne lov, gis nødvendige og relevante helseopplysninger i den grad dette er nødvendig for å kunne gi helsehjelp til pasienten på forsvarlig måte. Helseopplysninger kan, uavhengig av om pasienten motsetter seg det, gis til helsepersonell som skal yte eller yter helsehjelp til pasienten etter denne loven, dersom pasienten utgjør en nærliggende og alvorlig fare for eget liv eller andres liv eller helse, jf. [psykisk helsevernloven § 3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b). Det skal fremgå av journalen at annet helsepersonell er gitt helseopplysninger.
 
 Helseopplysninger som nevnt i første ledd kan gis av den dataansvarlige for opplysningene eller det helsepersonellet som har dokumentert opplysningene, jf. [§ 39](lov/1999-07-02-64/§39).
 
 Departementet kan i forskrift gi nærmere bestemmelser til utfylling av første ledd, og kan herunder bestemme at annet helsepersonell kan gis tilgang til journalen også i de tilfeller som faller utenfor første ledd.
 
-> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 45 a. Epikrise
 
@@ -910,7 +910,7 @@ Når fristene etter andre ledd er utløpt uten at søksmål er reist, har vedtak
 
 Bestemmelsen er ikke til hinder for at vedtak kan bringes inn for Sivilombudet.
 
-> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 15 sep 2016 iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 1 nov 2016 for nytt andre og fjerde ledd iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 juli 2018 iflg. [res. 6 apr 2018 nr. 553](forskrift/2018-04-06-553)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 april 2023 nr. 8](lov/2023-04-28-8).
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [9 mai 2008 nr. 34](lov/2008-05-09-34) (ikr. 1 nov 2008 iflg. [res. 24 okt 2008 nr. 1143](forskrift/2008-10-24-1143)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 15 sep 2016 iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [11 des 2015 nr. 97](lov/2015-12-11-97) (ikr. 1 nov 2016 for nytt andre og fjerde ledd iflg. [res. 17 juni 2016 nr. 727](forskrift/2016-06-17-727)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 juli 2018 iflg. [res. 6 apr 2018 nr. 553](forskrift/2018-04-06-553)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 april 2023 nr. 8](lov/2023-04-28-8).
 
 ### § 72. (Opphevet)
 
@@ -954,8 +954,6 @@ Departementet kan fastsette forskrifter til gjennomføring av loven, herunder ov
 
 ### § 77. Opphevelse av og endringer i andre lover
 
-Fra den tid loven trer i kraft oppheves følgende lover:
-
-– – –
+Fra den tid loven trer i kraft oppheves følgende lover: – – –
 
 Fra samme tid gjøres følgende endringer i andre lover: – – –
