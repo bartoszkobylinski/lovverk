@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-01-01"
-last_change_in_force: "2022-07-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2021-08-26"
-xml_hash: "0efbb90fd2c91cbf076fd342273d3786be9b5b640e741411b670c32103c2083b"
+xml_hash: "ca606527fe97f97b01a1d78761b91bbd3f3e26d004c842b34df34b45390fa1a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,11 +68,11 @@ Behandling av andre alvorlige sykdommer og lidelser enn dem som omfattes av [§ 
 
 Andre enn helsepersonell kan likevel utøve behandling som utelukkende har til hensikt å lindre eller dempe symptomer på eller følger av sykdommen eller lidelsen eller bivirkninger av gitt behandling, eller som har som formål å styrke kroppens immunforsvar eller evne til selvhelbredelse.
 
-Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) første og andre ledd. Det samme gjelder for andre pasienter dersom helse- og omsorgstjenesten ikke har helbredende eller lindrende behandling å tilby pasienten. Samtykkebestemmelsene i [pasient- og brukerrettighetsloven §§ 4-4](lov/1999-07-02-63/§4-4), [4-5](lov/1999-07-02-63/§4-5) og [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende så langt de passer.
+Bestemmelsen i første ledd gjelder ikke dersom behandlingen skjer i samarbeid eller samforståelse med pasientens lege, og pasienten har beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 første](lov/1999-07-02-63/§4-3/ledd/1) og [andre ledd](lov/1999-07-02-63/§4-3/ledd/2). Det samme gjelder for andre pasienter dersom helse- og omsorgstjenesten ikke har helbredende eller lindrende behandling å tilby pasienten. Samtykkebestemmelsene i [pasient- og brukerrettighetsloven §§ 4-4](lov/1999-07-02-63/§4-4), [4-5](lov/1999-07-02-63/§4-5) og [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende så langt de passer.
 
 Departementet kan ved forskrift gi nærmere bestemmelser om hvilke sykdommer og lidelser som omfattes av første ledd, og om behandling etter andre og tredje ledd.
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [22 juni 2018 nr. 76](lov/2018-06-22-76). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ## § 8. Beskyttet tittel og markedsføring
 
