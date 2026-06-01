@@ -5,17 +5,17 @@ type: "forskrift"
 ref_id: "forskrift/2000-12-13-1253"
 title: "Forskrift om samordnet innkreving av avgift på fiskeeksport"
 short_title: "Forskrift om innkreving av fiskeeksportavgift"
-language: "no"
+language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-01-01"
-xml_hash: "243aff48f2c74e7c9288dc5ecc5e4a2e60b4bc4e6dea01545dc5ae8ca5b378e5"
+xml_hash: "1ad8386bf79108d0ed5563fe4e74fe5588291d2ad67f6361d7266f57bcb7d37b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-28T07:54:49.739061+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,11 +30,11 @@ Forskriften har til formål å samordne innkrevingen av avgifter på eksport av 
 
 ## § 2. Eksportavgift
 
-Det skal svares eksportavgift beregnet av fob-verdien av eksportert fisk, fiskevarer og marine produkter.Avgiftssatsen skal utgjøre 1,05 pst. av avgiftsgrunnlaget for fisk, krepsdyr, bløtdyr og makroalger som hører under tolltariffens posisjoner 03.01 til 03.08, 12.12, 16.05 og 20.08, med unntak av produkter nevnt i bokstav b, c og d.Avgiftssatsen skal utgjøre 0,6 pst. av avgiftsgrunnlaget for laks og ørret som hører under tolltariffens posisjoner 03.01 til 03.05, med unntak av varer som omfattes av bokstav d.Avgiftssatsen skal utgjøre 0,8 pst. av avgiftsgrunnlaget for sild, vassild, makrell, lodde, kolmule, taggmakrell (hestemakrell), øyepål og brisling, som hører under tolltariffens posisjoner 03.01 til 03.05, med unntak av varer som omfattes av bokstav d.Avgiftssatsen skal utgjøre 0,3 pst. av avgiftsgrunnlaget for varer som omfattes av tolltariffens posisjon 03.09, 15.04 og 16.04, underposisjon 0511.91 samt varenummer 12.12.2110, 12.12.2910, 12.12.2990, 15.16.1012, 15.16.1020, 16.03.0020, 23.01.2010 og 23.01.2090.
+Det skal svares eksportavgift beregnet av fob-verdien av eksportert fisk, fiskevarer og marine produkter.Avgiftssatsen skal utgjøre 1,05 pst. av avgiftsgrunnlaget for fisk, krepsdyr, bløtdyr og makroalger som hører under tolltariffens posisjoner 03.01 til 03.08, 12.12, 16.05 og 20.08, med unntak av produkter nevnt i bokstav b, c, d og e.Avgiftssatsen skal utgjøre 0,7 pst. av avgiftsgrunnlaget for saltfisk, klippfisk og tørrfisk som hører under tolltariffens posisjon 03.05.Avgiftssatsen skal utgjøre 0,6 pst. av avgiftsgrunnlaget for laks og ørret som hører under tolltariffens posisjoner 03.01 til 03.05.Avgiftssatsen skal utgjøre 0,6 pst. av avgiftsgrunnlaget for sild, vassild, makrell, lodde, kolmule, taggmakrell (hestemakrell), øyepål og brisling, som hører under tolltariffens posisjoner 03.01 til 03.05.Avgiftssatsen skal utgjøre 0,3 pst. av avgiftsgrunnlaget for varer som omfattes av tolltariffens posisjon 03.09, 15.04 og 16.04, underposisjon 0511.91 samt varenummer 12.12.2110, 12.12.2910, 12.12.2990, 15.16.1012, 15.16.1020, 16.03.0020, 23.01.2010 og 23.01.2090.
 
 Det svares ikke eksportavgift for følgende forsendelser:Varer hvor eksportavgiften for en sending er mindre enn 100 kroner.Fisk, fiskevarer og marine produkter til Verdens matvareprogram.Fisk, fiskevarer og marine produkter kanalisert via hjelpeorganisasjoner.Varer som Mattilsynet ikke godkjenner for import og som derfor sendes ut av Norge.Utenlandsfanget fisk og utenlandske fiskevarer og marine produkter som i henhold til gjeldende regelverk ikke har vært tollbehandlet inn i Norge og som transporteres direkte til utlandet eller fra tollager til utlandet.Utenlandsfanget fisk og utenlandske fiskevarer og marine produkter som returneres som følge av reklamasjon.
 
-> Endret ved [forskrifter 27 feb 2003 nr. 236](forskrift/2003-02-27-236) (i kraft 1 mars 2003), [5 nov 2003 nr. 1306](forskrift/2003-11-05-1306) (i kraft 1 jan 2004), [19 aug 2005 nr. 906](forskrift/2005-08-19-906) (i kraft 1 sep 2005), [19 jan 2010 nr. 43](forskrift/2010-01-19-43) (i kraft 1 april 2010, se endringsforskriften for overgangsbestemmelser), [8 juni 2010 nr. 790](forskrift/2010-06-08-790), [25 juli 2013 nr. 929](forskrift/2013-07-25-929), [10 nov 2014 nr. 1418](forskrift/2014-11-10-1418), [1 juni 2015 nr. 579](forskrift/2015-06-01-579) (i kraft 1 jan 2016), [2 des 2015 nr. 1384](forskrift/2015-12-02-1384) (i kraft 1 jan 2016), [20 jan 2016 nr. 52](forskrift/2016-01-20-52) (i kraft 1 feb 2016), [16 des 2016 nr. 1639](forskrift/2016-12-16-1639) (i kraft 1 jan 2017), [29 nov 2019 nr. 1614](forskrift/2019-11-29-1614) (i kraft 1 jan 2020), [23 des 2021 nr. 3912](forskrift/2021-12-23-3912) (i kraft 1 jan 2022), [31 jan 2023 nr. 124](forskrift/2023-01-31-124) (i kraft 1 feb 2023), [16 juni 2023 nr. 940](forskrift/2023-06-16-940) (i kraft 1 juli 2023). **Endres** ved forskrift [27 feb 2026 nr. 890](forskrift/2026-02-27-890) (i kraft 1 juni 2026).
+> Endret ved forskrifter [27 feb 2003 nr. 236](forskrift/2003-02-27-236) (i kraft 1 mars 2003), [5 nov 2003 nr. 1306](forskrift/2003-11-05-1306) (i kraft 1 jan 2004), [19 aug 2005 nr. 906](forskrift/2005-08-19-906) (i kraft 1 sep 2005), [19 jan 2010 nr. 43](forskrift/2010-01-19-43) (i kraft 1 april 2010, se endringsforskriften for overgangsbestemmelser), [8 juni 2010 nr. 790](forskrift/2010-06-08-790), [25 juli 2013 nr. 929](forskrift/2013-07-25-929), [10 nov 2014 nr. 1418](forskrift/2014-11-10-1418), [1 juni 2015 nr. 579](forskrift/2015-06-01-579) (i kraft 1 jan 2016), [2 des 2015 nr. 1384](forskrift/2015-12-02-1384) (i kraft 1 jan 2016), [20 jan 2016 nr. 52](forskrift/2016-01-20-52) (i kraft 1 feb 2016), [16 des 2016 nr. 1639](forskrift/2016-12-16-1639) (i kraft 1 jan 2017), [29 nov 2019 nr. 1614](forskrift/2019-11-29-1614) (i kraft 1 jan 2020), [23 des 2021 nr. 3912](forskrift/2021-12-23-3912) (i kraft 1 jan 2022), [31 jan 2023 nr. 124](forskrift/2023-01-31-124) (i kraft 1 feb 2023), [16 juni 2023 nr. 940](forskrift/2023-06-16-940) (i kraft 1 juli 2023), [27 feb 2026 nr. 890](forskrift/2026-02-27-890) (i kraft 1 juni 2026).
 
 ## § 3. Fastsettelse og innkreving mv.
 
