@@ -1,6 +1,11 @@
 # forskrift-om-innkreving-av-fiskeeksportavgift — Change history
 
-_4 events; doc_id `sf-20001213-1253`._
+_5 events; doc_id `sf-20001213-1253`._
+
+## 2026-06-01 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-innkreving-av-fiskeeksportavgift`
+Commit: `498716c`.
 
 ## 2026-05-28 — Content updated
 Lines: +3 -3.

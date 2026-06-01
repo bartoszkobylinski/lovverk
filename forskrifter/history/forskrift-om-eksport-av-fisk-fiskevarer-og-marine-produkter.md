@@ -1,6 +1,11 @@
 # forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter — Change history
 
-_4 events; doc_id `sf-19910322-0157`._
+_5 events; doc_id `sf-19910322-0157`._
+
+## 2026-06-01 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter`
+Commit: `f5ff86f`.
 
 ## 2026-05-28 — Content updated
 Lines: +3 -3.

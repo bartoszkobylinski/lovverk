@@ -1,6 +1,11 @@
 # trafikkopplæringsforskriften — Change history
 
-_4 events; doc_id `sf-20041001-1339`._
+_5 events; doc_id `sf-20041001-1339`._
+
+## 2026-06-01 — Content updated
+Lines: +19 -9.
+Subject: `update(forskrift): trafikkopplæringsforskriften`
+Commit: `45c2cf2`.
 
 ## 2026-05-04 — Content updated
 Lines: +23 -87.

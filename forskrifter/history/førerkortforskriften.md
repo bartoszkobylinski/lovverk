@@ -1,6 +1,16 @@
 # førerkortforskriften — Change history
 
-_2 events; doc_id `sf-20040119-0298`._
+_4 events; doc_id `sf-20040119-0298`._
+
+## 2026-06-01 — Content updated
+Lines: +37 -11.
+Subject: `update(forskrift): førerkortforskriften`
+Commit: `cc805ae`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20040119-0298.md` → `"forskrifter/f\303\270rerkortforskriften.md"`.

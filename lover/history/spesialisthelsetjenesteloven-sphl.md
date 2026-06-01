@@ -1,6 +1,11 @@
 # spesialisthelsetjenesteloven-sphl — Change history
 
-_4 events; doc_id `nl-19990702-061`._
+_5 events; doc_id `nl-19990702-061`._
+
+## 2026-06-01 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): spesialisthelsetjenesteloven-sphl`
+Commit: `6b99cbd`.
 
 ## 2026-04-30 — Content updated
 Lines: +3 -3.

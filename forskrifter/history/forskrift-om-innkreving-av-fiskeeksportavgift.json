@@ -2,6 +2,16 @@
   "doc_id": "sf-20001213-1253",
   "events": [
     {
+      "commit": "498716c",
+      "date": "2026-06-01",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-innkreving-av-fiskeeksportavgift",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c4adc32",
       "date": "2026-05-28",
       "from_path": null,

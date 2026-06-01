@@ -1,6 +1,16 @@
 # psykisk-helsevernloven-phvl — Change history
 
-_2 events; doc_id `nl-19990702-062`._
+_4 events; doc_id `nl-19990702-062`._
+
+## 2026-06-01 — Content updated
+Lines: +47 -27.
+Subject: `update(lov): psykisk-helsevernloven-phvl`
+Commit: `ae7f52d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990702-062.md` → `lover/psykisk-helsevernloven-phvl.md`.

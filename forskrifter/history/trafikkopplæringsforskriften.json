@@ -2,6 +2,16 @@
   "doc_id": "sf-20041001-1339",
   "events": [
     {
+      "commit": "45c2cf2",
+      "date": "2026-06-01",
+      "from_path": null,
+      "lines_added": 19,
+      "lines_removed": 9,
+      "subject": "update(forskrift): trafikkopplæringsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

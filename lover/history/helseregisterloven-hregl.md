@@ -1,6 +1,16 @@
 # helseregisterloven-hregl — Change history
 
-_2 events; doc_id `nl-20140620-043`._
+_4 events; doc_id `nl-20140620-043`._
+
+## 2026-06-01 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): helseregisterloven-hregl`
+Commit: `b3fdb0b`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20140620-043.md` → `lover/helseregisterloven-hregl.md`.

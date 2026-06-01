@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3433 current documents_
+_3421 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -116,7 +116,6 @@ _3433 current documents_
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
 - [endr-i-anskaffelsesforskriften-mfl](endr-i-anskaffelsesforskriften-mfl.md) — Forskrift om endring i forskrifter til anskaffelsesloven
 - [endr-i-bilforskriften](endr-i-bilforskriften.md) — Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)
-- [endr-i-blåreseptforskriften](endr-i-blåreseptforskriften.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-eksplosivforskriften](endr-i-eksplosivforskriften.md) — Forskrift om endring i forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-fagskoleforskriften](endr-i-fagskoleforskriften.md) — Forskrift om endring i forskrift om høyere yrkesfaglig utdanning
@@ -131,7 +130,6 @@ _3433 current documents_
 - [endr-i-forskrifter-om-arbeidervern-mm](endr-i-forskrifter-om-arbeidervern-mm.md) — Forskrift om endring i forskrift om arbeidervern og arbeidsmiljø i petroleumsvirksomheten og i visse andre forskrifter.
 - [endr-i-forsvarstilsatteforskriften](endr-i-forsvarstilsatteforskriften.md) — Forskrift om endring i forskrift om tjeneste for militært tilsatte og for sivilt tilsatte i Forsvarsdepartementet og underliggende etater
 - [endr-i-fsfin-forskrift-til-skatteloven](endr-i-fsfin-forskrift-til-skatteloven.md) — Forskrift om endring i forskrift til utfylling og gjennomføring mv. av skatteloven av 26. mars 1999 nr. 14
-- [endr-i-førerkortforskriften-og-trafikkopplæringsforskriften](endr-i-førerkortforskriften-og-trafikkopplæringsforskriften.md) — Forskrift om endring i førerkortforskriften og trafikkopplæringsforskriften
 - [endr-i-kjøretøyforskriften](endr-i-kjøretøyforskriften.md) — Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)
 - [endr-i-kraftberedskapsforskriften](endr-i-kraftberedskapsforskriften.md) — Forskrift om endring i forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
@@ -203,7 +201,6 @@ _3433 current documents_
 - [forsk-om-trygd-for-arbeidsterapibehandling](forsk-om-trygd-for-arbeidsterapibehandling.md) — Forskrift om yrkesskadetrygd for personer som under opphold på sykehus eller liknende får arbeidsterapeutisk behandling.
 - [forsk-om-undersk-og-fradrag-i-toppskattegr-l](forsk-om-undersk-og-fradrag-i-toppskattegr-l.md) — Forskrift om beregning av underskudd og gjennomføring av fradrag i toppskattegrunnlaget.
 - [forsk-om-yrkesskadetrygd-for-forgiftninger](forsk-om-yrkesskadetrygd-for-forgiftninger.md) — Forskrifter om forgiftninger som skal likestilles med yrkesskade i h.t. lov om yrkesskadetrygd.
-- [forsk-om-årlig-erstatning-etter-oreigningsl](forsk-om-årlig-erstatning-etter-oreigningsl.md) — Forskrift om justering av årlige erstatninger fastsatt i medhold av oreigningsloven.
 - [forskningsetikkforskriften](forskningsetikkforskriften.md) — Forskrift om forskningsetiske komiteer og utvalg (forskningsetikkforskriften)
 - [forskr-ang-beskyttelse-av-kulturverdier](forskr-ang-beskyttelse-av-kulturverdier.md) — Erklæring angående beskyttelse av kulturverdier i tilfelle av væpnet konflikt.
 - [forskr-fangstdokumentasjon-for-makrellstørje-mv](forskr-fangstdokumentasjon-for-makrellstørje-mv.md) — Forskrift om fangstdokumentasjon for makrellstørje (Thunnus thynnus), storøyet tunfisk (bigeye tuna/Thunnus obesus) og sverdfisk (Xiphias gladius)
@@ -221,7 +218,6 @@ _3433 current documents_
 - [forskr-om-bidragsforskott-bosted-og-opphold](forskr-om-bidragsforskott-bosted-og-opphold.md) — Forskrift om i hvilke tilfelle vilkåret i forskotteringsloven om bosted og opphold i riket skal anses oppfyllt og om i hvilke tilfelle bidragsforskott kan utbetales i utlandet.
 - [forskr-om-det-norske-komponistfond](forskr-om-det-norske-komponistfond.md) — Forskrifter om opplysningsplikt og om betaling av avgifter til Det norske komponistfond.
 - [forskr-om-dokumentasjon-ved-tannfiskhandel](forskr-om-dokumentasjon-ved-tannfiskhandel.md) — Forskrift om fangstdokumentasjon ved import, eksport og re-eksport av patagonisk tannfisk (Dissostichus spp.).
-- [forskr-om-eiend-inngrep-etter-oreigningsloven](forskr-om-eiend-inngrep-etter-oreigningsloven.md) — Forskrift om rett til å foreta eiendomsinngrep etter oreigningsloven.
 - [forskr-om-el-anlegg-leteboreplattform](forskr-om-el-anlegg-leteboreplattform.md) — Midlertidig forskrift for elektriske anlegg på innretninger som anvendes til undersøkelse og leteboring i petroleumsvirksomheten.
 - [forskr-om-energimerking-av-kombi-vaskemaskiner](forskr-om-energimerking-av-kombi-vaskemaskiner.md) — Forskrift om gjennomføringsreglar for rådsdirektiv 92/75/EØF med omsyn til energimerking av kombinerte hushaldsvaskemaskiner og tørketromlar.
 - [forskr-om-erstatning-for-tapte-eiendeler](forskr-om-erstatning-for-tapte-eiendeler.md) — Forskrift om erstatning for tapte eiendeler
@@ -343,9 +339,6 @@ _3433 current documents_
 - [forskrift-for-studier-ved-tone-lise-akademiet](forskrift-for-studier-ved-tone-lise-akademiet.md) — Forskrift for fagskolestudier ved Fagskolen TLA AS
 - [forskrift-for-sykehjem-m-v](forskrift-for-sykehjem-m-v.md) — Forskrift for sykehjem og boform for heldøgns omsorg og pleie
 - [forskrift-for-vigsel-ved-sjømannsprest](forskrift-for-vigsel-ved-sjømannsprest.md) — Forskrift for vigsel ved sjømannsprest utsendt av Den norske Sjømannsmisjon.
-- [forskrift-i-medhold-av-oreigningsloven-3](forskrift-i-medhold-av-oreigningsloven-3.md) — Forskrift i medhold av oreigningslovens § 3 om rett til å foreta eiendomsinngrep.
-- [forskrift-i-medhold-av-oreigningslovens-29](forskrift-i-medhold-av-oreigningslovens-29.md) — Forskrift i medhold av oreigningslovens § 29
-- [forskrift-i-medhold-av-oreigningslovens-5](forskrift-i-medhold-av-oreigningslovens-5.md) — Forskrift i medhold av oreigningslovens § 5 om rett til å gjøre vedtak om eller gi samtykke til eiendomsinngrep
 - [forskrift-om-aa-registeret](forskrift-om-aa-registeret.md) — Forskrift om Arbeidsgiver- og arbeidstakerregisteret
 - [forskrift-om-adgang-for-visse-foretak-etablert-i-det-forente-kongeriket-storbritannia-og-nord-irland-til-å-yte-porteføljeforvaltning-til-nærmere-angitte-norske-profesjonelle-kunder-lokalisert-i](forskrift-om-adgang-for-visse-foretak-etablert-i-det-forente-kongeriket-storbritannia-og-nord-irland-til-å-yte-porteføljeforvaltning-til-nærmere-angitte-norske-profesjonelle-kunder-lokalisert-i.md) — Forskrift om adgang for visse foretak etablert i Det Forente Kongeriket Storbritannia og Nord-Irland til å yte porteføljeforvaltning til nærmere angitte norske profesjonelle kunder lokalisert i Norge
 - [forskrift-om-adgang-til-lån-og-innskudd-i-norges-bank](forskrift-om-adgang-til-lån-og-innskudd-i-norges-bank.md) — Forskrift om adgang til lån og innskudd i Norges Bank
@@ -696,11 +689,8 @@ _3433 current documents_
 - [forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen](forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen.md) — Forskrift om endring i ERS-forskriften og opphevelse av forskrift om kystfiskeappen
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
-- [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2.md) — Forskrift om endring i forskrift om bruk av kjøretøy
-- [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3.md) — Forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
-- [forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-fartsskriververksteder](forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md) — Forskrift om endring i forskrift om fartsskriververksteder
 - [forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen](forskrift-om-endring-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-sjøen.md) — Forskrift om endring i forskrift om fiske etter anadrome laksefisk i sjøen
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
@@ -1021,7 +1011,6 @@ _3433 current documents_
 - [forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio](forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio.md) — Forskrift om gebyrer for utstedelse av radiooperatørsertifikat og lisenser til skipsradio
 - [forskrift-om-gebyrinnkreving-ved-petroleumstilsyn](forskrift-om-gebyrinnkreving-ved-petroleumstilsyn.md) — Forskrift om adgang til å kreve gebyr og sektoravgift for tilsyn og annen oppfølging med arbeidsmiljø og sikkerhet i petroleumsvirksomheten
 - [forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning](forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning.md) — Forskrift om generell godkjenning av utenlandsk høyere utdanning
-- [forskrift-om-genetisk-masseundersøkelse](forskrift-om-genetisk-masseundersøkelse.md) — Forskrift om genetisk masseundersøkelse av nyfødte
 - [forskrift-om-genmodifiserte-mikroorganismer-gmo](forskrift-om-genmodifiserte-mikroorganismer-gmo.md) — Forskrift om innesluttet bruk av genmodifiserte mikroorganismer.
 - [forskrift-om-genmodifiserte-næringsmidler](forskrift-om-genmodifiserte-næringsmidler.md) — Forskrift om forbud mot visse genmodifiserte næringsmidler og næringsmiddelingredienser.
 - [forskrift-om-genmodifiserte-planter-gmo](forskrift-om-genmodifiserte-planter-gmo.md) — Forskrift om innesluttet bruk av genmodifiserte planter (planteforskriften)
@@ -2139,7 +2128,6 @@ _3433 current documents_
 - [forskrift-om-restriktive-tiltak-venezuela](forskrift-om-restriktive-tiltak-venezuela.md) — Forskrift om restriktive tiltak vedrørende situasjonen i Venezuela
 - [forskrift-om-retningslinjer-og-rapport-om-godtgjørelse-for-ledende-personer](forskrift-om-retningslinjer-og-rapport-om-godtgjørelse-for-ledende-personer.md) — Forskrift om retningslinjer og rapport om godtgjørelse for ledende personer
 - [forskrift-om-rett-til-opplæring-i-samisk](forskrift-om-rett-til-opplæring-i-samisk.md) — Forskrift om rett til opplæring i samisk
-- [forskrift-om-rett-til-å-foreta-eiendomsinngrep](forskrift-om-rett-til-å-foreta-eiendomsinngrep.md) — Forskrift om hvem som kan få rett til å foreta eiendomsinngrep etter lov om oreigning av fast eigedom.
 - [forskrift-om-rett-til-å-kreve-seksjonering-etter-eierseksjonsloven-9](forskrift-om-rett-til-å-kreve-seksjonering-etter-eierseksjonsloven-9.md) — Forskrift om rett til å kreve seksjonering etter eierseksjonsloven § 9
 - [forskrift-om-retten-til-supplerande-stønad](forskrift-om-retten-til-supplerande-stønad.md) — Forskrift om kontroll med retten til supplerande stønad.
 - [forskrift-om-rettigheter-og-tvang-i-rusinstitusjon](forskrift-om-rettigheter-og-tvang-i-rusinstitusjon.md) — Forskrift om rettigheter og bruk av tvang under opphold i institusjon for behandling, omsorg og rehabilitering av personer med rusmiddelproblemer

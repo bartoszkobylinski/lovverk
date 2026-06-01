@@ -1,6 +1,6 @@
 # Lover
 
-_742 current documents_
+_741 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -156,7 +156,6 @@ _742 current documents_
 - [endringslov-til-pengespill-og-lotterilover](endringslov-til-pengespill-og-lotterilover.md) — Lov om endringer i pengespill- og lotterilovgivningen
 - [endringslov-til-plan-og-bygningsloven](endringslov-til-plan-og-bygningsloven.md) — Lov om endringer i plan- og bygningsloven (planbestemmelser om borettslag)
 - [endringslov-til-plan-og-bygningsloven-og-matrikkellova](endringslov-til-plan-og-bygningsloven-og-matrikkellova.md) — Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved fortetting og transformasjon, grunneierfinansiering av infrastruktur mv.)
-- [endringslov-til-psykisk-helsevernloven-mv](endringslov-til-psykisk-helsevernloven-mv.md) — Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)
 - [endringslov-til-regnskapsloven-mv](endringslov-til-regnskapsloven-mv.md) — Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)
 - [endringslov-til-reindriftsloven](endringslov-til-reindriftsloven.md) — Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligatorisk individmerking)
 - [endringslov-til-rettshjelpsloven-mv](endringslov-til-rettshjelpsloven-mv.md) — Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)

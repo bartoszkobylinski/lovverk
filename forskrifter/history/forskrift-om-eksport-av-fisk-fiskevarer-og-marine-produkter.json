@@ -2,6 +2,16 @@
   "doc_id": "sf-19910322-0157",
   "events": [
     {
+      "commit": "f5ff86f",
+      "date": "2026-06-01",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(forskrift): forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b5618c4",
       "date": "2026-05-28",
       "from_path": null,
