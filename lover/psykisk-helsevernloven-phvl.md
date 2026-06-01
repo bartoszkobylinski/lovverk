@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2022-12-20"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-03-31"
-xml_hash: "68abf89f8ff2069d5ff6ada394b29eb7fe87d683ea5f34da51bd4871cab3c2b4"
+xml_hash: "7c27d3a15f444699e3b6c35fabcff4d09b2a70d8e746f98bafb4dc199fb97901"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål
 
-Formålet med loven her er å sikre at etablering og gjennomføring av psykisk helsevern skjer på en forsvarlig måte og i samsvar med menneskerettighetene og grunnleggende rettssikkerhetsprinsipper. Det er et formål med reglene å forebygge og begrense bruk av tvang.
+Formålet med loven her er å sikre helsehjelp av god kvalitet for personer med psykiske lidelser og at etablering og gjennomføring av psykisk helsevern skjer på en forsvarlig måte og i samsvar med menneskerettighetene og grunnleggende rettssikkerhetsprinsipper. Loven skal bidra til å fremme tillitsforholdet mellom pasienter, nærmeste pårørende og helse- og omsorgstjenesten. Det er et formål med reglene å forebygge, begrense og fremme riktig bruk av tvang.
 
 Helsehjelpen skal tilrettelegges med respekt for den enkeltes fysiske og psykiske integritet og så langt som mulig være i overensstemmelse med pasientens behov og selvbestemmelsesrett og respekten for menneskeverdet.
 
-> Endret ved [lov 10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 1-1 a. Virkeområde
 
@@ -44,11 +44,11 @@ Dersom en institusjon i det psykiske helsevernet er ansvarlig for et opphold som
 
 Med psykisk helsevern menes spesialisthelsetjenestens undersøkelse og behandling av mennesker på grunn av psykisk lidelse, samt den pleie og omsorg dette krever.
 
-Med tvungen observasjon menes slik undersøkelse, pleie og omsorg som nevnt i første ledd, med sikte på å klarlegge om vilkårene for tvungent psykisk helsevern foreligger uten at det er gitt samtykke etter bestemmelsene i [pasient- og brukerrettighetsloven kapittel 4](lov/1999-07-02-63/kap4).
+Med tvungen observasjon menes slik undersøkelse, pleie og omsorg som nevnt i første ledd, fastsatt på grunnlag av vilkårene nevnt i [§ 3-2](lov/1999-07-02-62/§3-2), med sikte på å klarlegge om vilkårene for tvungent psykisk helsevern foreligger.
 
-Med tvungent psykisk helsevern menes slik undersøkelse, behandling, pleie og omsorg som nevnt i første ledd uten at det er gitt samtykke etter bestemmelsene i [pasient- og brukerrettighetsloven kapittel 4](lov/1999-07-02-63/kap4).
+Med tvungent psykisk helsevern menes slik undersøkelse, behandling, pleie og omsorg som nevnt i første ledd fastsatt på grunnlag av vilkårene nevnt i [§ 3-3](lov/1999-07-02-62/§3-3).
 
-> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)). [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)). [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 1-3. Offentlig myndighet
 
@@ -98,11 +98,11 @@ Bestemmelser i eller i medhold av loven her som krever eller forutsetter skriftl
 
 ### § 2-1. Hovedregelen om samtykke
 
-Psykisk helsevern ytes på bakgrunn av samtykke etter bestemmelsene i [pasient- og brukerrettighetsloven](lov/1999-07-02-63), med mindre annet følger av loven her.
+Psykisk helsevern ytes på bakgrunn av samtykke etter bestemmelsene i [pasient- og brukerrettighetsloven](lov/1999-07-02-63), med mindre annet følger av loven her. Undersøkelse og behandling av pasienter over 18 år som mangler beslutningskompetanse, og som ikke motsetter seg helsehjelpen, kan også skje etter [pasient- og brukerrettighetsloven § 4-6](lov/1999-07-02-63/§4-6).
 
 Ved undersøkelse eller behandling med opphold i institusjon for barn som har fylt 12 år og ikke selv er enig i tiltaket, skal spørsmålet om etablering av psykisk helsevern bringes inn for kontrollkommisjonen.
 
-> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 2-2. Samtykke til å være undergitt reglene om tvungent psykisk helsevern i § 3-5
 
@@ -138,17 +138,17 @@ Kongen gir forskrifter om delegering av kommunelegens myndighet.
 
 ### § 3-2. Vilkår for vedtak om tvungen observasjon
 
-På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungen observasjon er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten mangler samtykkekompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Det er overveiende sannsynlig at pasienten fyller vilkårene for tvungent psykisk helsevern etter [§ 3-3](lov/1999-07-02-62/§3-3) nr. 3.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungen observasjon bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
+På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungen observasjon er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Det er overveiende sannsynlig at pasienten fyller vilkårene for tvungent psykisk helsevern etter [§ 3-3](lov/1999-07-02-62/§3-3) nr. 3.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungen observasjon bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
 
 Tvungen observasjon kan ikke vare ut over 10 dager fra undersøkelsens begynnelse uten pasientens samtykke. Dersom pasientens tilstand tilsier at det er strengt nødvendig, kan fristen forlenges inntil 10 dager etter samtykke fra kontrollkommisjonens leder. Overføring til tvungent psykisk helsevern kan skje før eller ved utløpet av denne fristen, dersom vilkårene for slikt vern er til stede.
 
-> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-3. Vilkår for vedtak om tvungent psykisk helsevern
 
-På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1) og eventuell tvungen observasjon etter [§ 3-2](lov/1999-07-02-62/§3-2), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungent psykisk helsevern er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten har en alvorlig sinnslidelse og etablering av tvungent psykisk helsevern er nødvendig for å hindre at vedkommende på grunn av sinnslidelsen entenfår sin utsikt til helbredelse eller vesentlig bedring i betydelig grad redusert, eller det er stor sannsynlighet for at vedkommende i meget nær framtid får sin tilstand vesentlig forverret, ellerutgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.Pasienten mangler samtykkekompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungent psykisk helsevern bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
+På bakgrunn av opplysninger fra legeundersøkelsen etter [§ 3-1](lov/1999-07-02-62/§3-1) og eventuell tvungen observasjon etter [§ 3-2](lov/1999-07-02-62/§3-2), foretar den faglig ansvarlige en vurdering av om de følgende vilkårene for tvungent psykisk helsevern er oppfylt:Frivillig psykisk helsevern har vært forsøkt, uten at dette har ført fram, eller det er åpenbart formålsløst å forsøke dette.Pasienten er undersøkt av to leger, hvorav en skal være uavhengig av den ansvarlige institusjon, jf. [§ 3-1](lov/1999-07-02-62/§3-1).Pasienten har en alvorlig sinnslidelse og etablering av tvungent psykisk helsevern er nødvendig for å hindre at vedkommende på grunn av sinnslidelsen entenfår sin utsikt til helbredelse eller vesentlig bedring i betydelig grad redusert, eller det er stor sannsynlighet for at vedkommende i meget nær framtid får sin tilstand vesentlig forverret, ellerutgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse.Pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Dette vilkåret gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.Institusjonen er faglig og materielt i stand til å tilby pasienten tilfredsstillende behandling og omsorg og er godkjent i henhold til [§ 3-5](lov/1999-07-02-62/§3-5).Pasienten er gitt anledning til å uttale seg, jf. [§ 3-9](lov/1999-07-02-62/§3-9).Selv om lovens vilkår ellers er oppfylt, kan tvungent psykisk helsevern bare finne sted hvor dette etter en helhetsvurdering framtrer som den klart beste løsning for vedkommende, med mindre han eller hun utgjør en nærliggende og alvorlig fare for andres liv eller helse. Ved vurderingen skal det legges særlig vekt på hvor stor belastning det tvangsmessige inngrepet vil medføre for vedkommende.
 
-> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-3 a. Vedtak om tvungen observasjon eller tvungent psykisk helsevern
 
@@ -158,19 +158,25 @@ Vedtaket skal treffes snarest og senest innen 24 timer etter at pasienten er kom
 
 I vedtaket skal det opplyses om:hvordan vilkårene for vedtaket, jf. [§§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3), er vurdert,vedtaket innebærer en overføring fra frivillig vern, jf. [§ 3-4](lov/1999-07-02-62/§3-4),hvordan fordelene og ulempene ved tvangsinngrepet, herunder forventet behandlingsmessig effekt og risiko for varig skade som følge av tvangsinngrepet, er vurdert,pasientens holdning til og erfaringer med bruk av tvang ogpasientens syn på frivillige tiltak.
 
+Dersom pasienten opptrer truende eller utøver vold, skal den faglig ansvarlige for vedtaket vurdere om pasienten utgjør en nærliggende og alvorlig fare for andres liv eller helse, jf. [§§ 3-2 første ledd nr. 3 andre punktum](lov/1999-07-02-62/§3-2/ledd/1/nummer/3/setning/2) og [3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b) og [nr. 4 andre punktum](lov/1999-07-02-62/§3-3/nummer/4/setning/2). Det samme gjelder dersom pasienten tidligere har opptrådt truende eller utøvd vold.
+
+Den faglig ansvarlige for vedtaket skal i situasjoner som i nevnt fjerde ledd vurdere om det skal gjøres en voldsrisikoutredning og eventuelt utarbeides en risikohåndteringsplan.
+
+Den faglig ansvarlige for vedtaket skal vurdere om det er behov for å innhente opplysninger fra nærmeste pårørende, kommunal helse- og omsorgstjeneste og andre relevante instanser i forbindelse med vurderingen av farevilkåret i [§§ 3-2 første ledd nr. 3 andre punktum](lov/1999-07-02-62/§3-2/ledd/1/nummer/3/setning/2) og [3-3 nr. 3 bokstav b](lov/1999-07-02-62/§3-3/nummer/3/bokstav/b) og [nr. 4 andre punktum](lov/1999-07-02-62/§3-3/nummer/4/setning/2) og vilkåret om manglende beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3).
+
 Pasienten, samt hans eller hennes nærmeste pårørende og eventuelt den myndighet som har framsatt begjæring etter [§ 3-6](lov/1999-07-02-62/§3-6), kan påklage vedtak etter paragrafen her til kontrollkommisjonen. Pasienten kan påklage vedtaket i inntil 3 måneder etter at observasjonen eller vernet er opphørt.
 
 Kongen i statsråd gir forskrifter om vedtak og klage etter paragrafen her.
 
-> Tilføyd ved [lov 10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Tilføyd ved lov [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), endret ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-4. Forbud mot overføring fra frivillig til tvungent psykisk helsevern
 
-Den som er under psykisk helsevern etter eget samtykke, kan ikke overføres til tvungen observasjon eller tvungent psykisk helsevern mens det frivillige vernet pågår.
+Den som er under psykisk helsevern etter eget samtykke, eller med grunnlag i beslutning etter [pasient- og brukerrettighetsloven § 4-6](lov/1999-07-02-63/§4-6), kan ikke overføres til tvungen observasjon eller tvungent psykisk helsevern.
 
 Forbudet i første ledd gjelder likevel ikke hvor utskrivning innebærer at pasienten utgjør en nærliggende og alvorlig fare for eget eller andres liv eller helse. I forbindelse med kontroll etter [§ 3-8](lov/1999-07-02-62/§3-8) første ledd skal kontrollkommisjonen ved skriftlig redegjørelse gjøres særskilt oppmerksom på at det er truffet en beslutning om overføring.
 
-> Endret ved [lov 30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-5. Hva tvungen observasjon og tvungent psykisk helsevern kan omfatte
 
@@ -178,13 +184,13 @@ Tvungen observasjon eller tvungent psykisk helsevern kan gis ved døgnopphold i 
 
 Dersom det er nødvendig av hensyn til forsvarlig helsehjelp, kan tvungent psykisk helsevern gis ved midlertidig døgnopphold i institusjon som ikke er godkjent etter første ledd. Den godkjente institusjonen skal i slike tilfeller være ansvarlig for det tvungne vernet.
 
-Tvungen observasjon eller tvungent psykisk helsevern kan også skje uten døgnopphold i institusjon hvor dette er et bedre alternativ for pasienten. Ved vurderingen skal det også tas tilbørlig hensyn til pårørende som pasienten bor sammen med. Tvungen observasjon og tvungent psykisk helsevern kan da bare omfatte pålegg overfor pasienten om frammøte til undersøkelse (tvungen observasjon) eller behandling (tvungent psykisk helsevern). Pasienten kan om nødvendig avhentes. Dersom det er nødvendig kan avhentingen gjennomføres med tvang.
+Tvungen observasjon eller tvungent psykisk helsevern kan også skje uten døgnopphold i institusjon dersom dette er et bedre alternativ for pasienten. Den faglig ansvarlige skal gjøre vurderingen i samråd med kommunale helse- og omsorgstjenester. Ved vurderingen skal det også tas tilbørlig hensyn til de som er gitt rettigheter som nærmeste pårørende etter [pasient- og brukerrettighetsloven § 1-3 bokstav b](lov/1999-07-02-63/§1-3/bokstav/b), og pårørende som pasienten bor sammen med. Tvungen observasjon og tvungent psykisk helsevern kan bare omfatte pålegg overfor pasienten om frammøte til undersøkelse eller behandling. Pasienten kan om nødvendig avhentes. Dersom det er nødvendig, kan avhentingen gjennomføres med tvang.
 
 Tvungent psykisk helsevern uten døgnopphold kan bare skje under ansvar av en institusjon som er godkjent for den aktuelle behandlingsformen.
 
 Kongen i statsråd gir forskrifter om tvungen observasjon og tvungent psykisk helsevern med og uten døgnopphold i institusjon.
 
-> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-6. Varslings- og bistandsplikt for offentlig myndighet
 
@@ -266,7 +272,9 @@ Kongen kan gi nærmere forskrifter om husordensreglement for institusjoner for p
 
 ### § 4-2 a. Løpende vurdering av om lovens vilkår er oppfylt
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+Lovens vilkår for tvangsbruk skal være oppfylt hele tiden mens vedtaket gjennomføres. Dersom vilkårene ikke lenger er oppfylt, skal tiltaket avbrytes straks og vedtaket oppheves.
+
+> Tilføyd ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 4-3. Skjerming
 
@@ -282,7 +290,7 @@ Kongen kan gi nærmere forskrifter om vilkårene for skjerming og gjennomføring
 
 ### § 4-4. Vilkår for vedtak om undersøkelse og behandling uten eget samtykke
 
-Pasient som er under tvungent psykisk helsevern, kan uten eget samtykke undergis slik undersøkelse og behandling som klart er i overensstemmelse med faglig anerkjent psykiatrisk metode og forsvarlig klinisk praksis. Det er et vilkår at pasienten mangler samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Vilkår om manglende samtykkekompetanse gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
+En pasient som er under tvungent psykisk helsevern, kan uten eget samtykke undergis slik undersøkelse og behandling som klart er i overensstemmelse med faglig anerkjent psykiatrisk metode og forsvarlig klinisk praksis. Det er et vilkår at pasienten mangler beslutningskompetanse, jf. [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3). Vilkår om manglende beslutningskompetanse gjelder ikke ved nærliggende og alvorlig fare for eget liv eller andres liv eller helse.
 
 Det kan ikke gjennomføres undersøkelse og behandling som innebærer et alvorlig inngrep, likevel med følgende unntak:Pasienten kan behandles med legemidler. Slik legemiddelbehandling kan bare gjennomføres med preparater som er registrert her i landet og med vanlig brukte doser. Legemiddelbehandling kan bare gjennomføres med legemidler som har en gunstig virkning som klart oppveier ulempene ved eventuelle bivirkninger.Som ledd i behandling av pasient med alvorlig spiseforstyrrelse, kan det gis ernæring såfremt dette fremstår som et strengt nødvendig behandlingsalternativ.
 
@@ -294,7 +302,7 @@ Vedtak om legemiddelbehandling uten eget samtykke kan ikke fattes før pasienten
 
 Kongen i statsråd gir forskrifter om undersøkelse og behandling uten eget samtykke.
 
-> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [10 feb 2017 nr. 6](lov/2017-02-10-6) (ikr. 1 sep 2017 iflg. [res. 10 feb 2017 nr. 146](forskrift/2017-02-10-146)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 4-4 a. Vedtak om undersøkelse og behandling uten eget samtykke
 
@@ -310,7 +318,15 @@ Kongen i statsråd gir forskrifter om vedtak og klage etter paragrafen her.
 
 ### § 4-4 b. Elektrokonvulsiv behandling uten eget samtykke
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+Den faglig ansvarlige kan, etter samråd med annet kvalifisert helsepersonell, treffe vedtak om at en pasient som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3), kan gis elektrokonvulsiv behandling dersom:unnlatelse av å gjennomføre behandlingen i løpet av få uker vil medføre alvorlig fare for pasientens liv, ogpasienten ikke motsetter seg slik behandling.
+
+Vedtaket skal straks nedtegnes, og det skal opplyses der hvordan vilkårene etter første ledd er vurdert, og om oppfatningen til annet kvalifisert helsepersonell.
+
+Vedtaket kan gjelde for inntil to uker i samme behandlingsserie. Det kan ikke treffes nytt vedtak i samme behandlingsserie.
+
+Pasienten og pasientens nærmeste pårørende kan påklage vedtak etter paragrafen her til kontrollkommisjonen.
+
+> Tilføyd ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 4-5. Forbindelse med omverdenen
 
@@ -380,7 +396,11 @@ Kongen i statsråd gir nærmere forskrifter om bruk av tvangsmiddel.
 
 ### § 4-8 a. Legemiddelbehandling uten eget samtykke på sykehjem
 
-> **Tilføyes** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+Vedtak om behandling med legemidler etter [§ 4-4](lov/1999-07-02-63/§4-4) kan, etter avtale med kommunen, gjennomføres på sykehjem dersom dette er en klart bedre løsning for pasienten enn å bli behandlet i institusjon for psykisk helsevern. Det kan, om nødvendig, brukes tvangsmidler etter [§ 4-8 andre ledd bokstav c](lov/1999-07-02-62/§4-8/ledd/2/bokstav/c) og [d](lov/1999-07-02-62/§4-8/ledd/2/bokstav/d).
+
+Behandling som pasienten motsetter seg, kan ikke gjennomføres på pasientens rom eller i lokaler som pasienten bruker i det daglige, med mindre dette er den klart beste løsningen for pasienten. Det samme gjelder undersøkelser som er nødvendige for å kunne fatte vedtak om og gjennomføre behandlingen.
+
+> Tilføyd ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 4-9. Kontrollundersøkelser
 
@@ -746,7 +766,7 @@ Kontrollkommisjonen kan begjære bevisopptak ved tingretten, hvis et vitne ikke 
 
 Advokater har rett til å bli kjent med alle opplysninger i saken og til å være til stede under parts- og vitneavhør. I den utstrekning kontrollkommisjonen finner det tilrådelig, gjelder dette også pasienten selv eller den som handler på hans eller hennes vegne.
 
-Kontrollkommisjonen skal prøve alle sider av saken.
+Kontrollkommisjonen skal prøve alle sider av saken. Ved klage på vedtak etter [§ 3-3 a](lov/1999-07-02-62/§3-3a) om å ikke gjennomføre tvungen observasjon eller tvungent psykisk helsevern og vedtak etter [§ 3-7 andre](lov/1999-07-02-62/§3-7/ledd/2) eller [tredje ledd](lov/1999-07-02-62/§3-7/ledd/3) om opphør av tvungen observasjon eller tvungent psykisk helsevern kan kontrollkommisjonen bare ta stilling til om vedtaket er i samsvar med loven, og ikke selv treffe vedtak om bruk av tvang.
 
 Kommisjonen skal om mulig treffe sitt vedtak innen to uker etter at saken ble brakt inn for den. Kan denne frist ikke overholdes, skal grunnen til dette opplyses i vedtaket.
 
@@ -758,7 +778,7 @@ For utskrifter og attester som gis av kontrollkommisjonen eller av tingretten, b
 
 Ved underretning om vedtaket skal kontrollkommisjonen gjøre pasienten, eller den som handler på hans eller hennes vegne, kjent med reglene om domstolprøving, jf. § 7-1 i loven her.
 
-> Endret ved [lov 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 6-5. Forskrifter om saksbehandlingen
 
@@ -770,7 +790,7 @@ Kongen kan gi forskrifter om den nærmere saksbehandlingen i kontrollkommisjonen
 
 Kontrollkommisjonens vedtak i sak om tvungen observasjon, etablering eller opprettholdelse av tvungent psykisk helsevern etter [§§ 3-2](lov/1999-07-02-62/§3-2), [3-3](lov/1999-07-02-62/§3-3) og [3-7](lov/1999-07-02-62/§3-7), kan av pasienten eller vedkommendes nærmeste pårørende bringes inn for tingretten etter reglene i [tvisteloven kapittel 36](lov/2005-06-17-90/kap36). Det samme gjelder kontrollkommisjonens vedtak om overføring til døgnopphold i institusjon, jf. [§§ 4-10](lov/1999-07-02-62/§4-10) og [5-4](lov/1999-07-02-62/§5-4).
 
-> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)).
+> Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)).
 
 ## Kapittel 8. Forskjellige bestemmelser
 
