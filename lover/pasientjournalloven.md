@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-06-01"
 last_updated: "2021-11-17"
-xml_hash: "40e51fb22986e9ae9ae19e4f14b710ea326fef513fce7d6cfedc055969ec6823"
+xml_hash: "099000b9bb74d6600011e2ca3dfac7b5b19c2b18382df0fd8ec3c58bc46b88a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -184,9 +184,9 @@ Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke ell
 
 Pasienten eller brukeren kan motsette seg athelseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov/2014-06-20-42/§8) til [10](lov/2014-06-20-42/§10) gjøres tilgjengelige for helsepersonell etter [§ 19](lov/2014-06-20-42/§19), jf. [helsepersonelloven §§ 25](lov/1999-07-02-64/§25) og [45](lov/1999-07-02-64/§45) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3),opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov/2014-06-20-42/§11), oghelseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov/2014-06-20-42/§13).helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov/2014-06-20-42/§9a).
 
-Reglene om samtykkekompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov/1999-07-02-63/§4-3) til [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
+Reglene om beslutningskompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov/1999-07-02-63/§4-3) til [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
 
-> Endret ved lov [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 18. Informasjon og innsyn
 
