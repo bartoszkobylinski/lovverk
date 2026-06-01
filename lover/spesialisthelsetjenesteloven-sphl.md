@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-01"
 last_updated: "2022-03-31"
-xml_hash: "d931d7e6d74d4e70e14d9c321d2b3e106ae219c97a73f1e2ce811451e7888411"
+xml_hash: "99c578cf266e8a5399110ca9d1898c2eb35c30f9482ebe3a0806030ee75f9ccd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-30T06:25:40.160175+00:00"
+retrieved_at: "2026-06-01T09:23:05.781615+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper 
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at spesialisthelsetjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-5](lov/1999-07-02-61/§2-5) om individuell plan[§ 2-5 a](lov/1999-07-02-61/§2-5a) om koordinator[§ 2-5 c](lov/1999-07-02-61/§2-5c) om kontaktlege.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endra med lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
 
 ### § 2-6. Utskrivningsklare pasienter
 
@@ -326,13 +326,13 @@ Helseinstitusjoner som omfattes av loven her, har plikt til å gi videre den inf
 
 Helseinstitusjoner som omfattes av loven her, har plikt til å sørge for at det gis slik informasjon som pasienten har rett til å motta etter [pasient- og brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2). Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter [pasient- og brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) tredje ledd.
 
-Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til avdød pasient eller fra nærmeste pårørende til pasient over 18 år uten samtykkekompetanse.
+Virksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Bestemmelsen gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til en avdød pasient eller fra nærmeste pårørende til en pasient over 18 år som mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2).
 
 Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i [pasient- og brukerrettighetsloven kapittel 3](lov/1999-07-02-63/kap3).
 
 Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første til fjerde ledd.
 
-> Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 2-8), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](forskrift/2020-12-04-2622)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)). **Endres** ved lov [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+> Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 2-8), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](forskrift/2020-12-04-2622)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
 
 ### § 3-12. Henvisning fra den kommunale helse- og omsorgstjenesten og sosialtjenesten
 
