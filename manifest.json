@@ -9567,19 +9567,6 @@
       "total_changes": null,
       "xml_hash": "2a767eb769feb91d70346b95713f80d3f0b0e65aaa61fbb52fa0de255ef5893d"
     },
-    "nl-20250620-067": {
-      "doc_type": "lov",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "lover/endringslov-til-psykisk-helsevernloven-mv.md",
-      "slug": "endringslov-til-psykisk-helsevernloven-mv",
-      "source_dataset": "gjeldende-lover",
-      "status": "removed",
-      "title": "Lov om endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)",
-      "total_changes": null,
-      "xml_hash": "d7676993b540a158bae90afe456b6e45b7c027166bf4c0f0adc83ece928db184"
-    },
     "nl-20250620-071": {
       "doc_type": "lov",
       "eu_basis": [],
@@ -10784,45 +10771,6 @@
       "title": "Forskrifter om yrkessykdommer og infeksjonssykdommer som likestilles med yrkesskade.",
       "total_changes": null,
       "xml_hash": "649b862bfd90bf7365b4f440a2d2913801759dce9c8f313a22068680fdd9f33f"
-    },
-    "sf-19600602-0001": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forskrift-i-medhold-av-oreigningslovens-5.md",
-      "slug": "forskrift-i-medhold-av-oreigningslovens-5",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift i medhold av oreigningslovens § 5 om rett til å gjøre vedtak om eller gi samtykke til eiendomsinngrep",
-      "total_changes": null,
-      "xml_hash": "3076d4d5b85f97d7c7b9dcb9f0a9084c736fde059815eb2d3a6e5ef485a06a51"
-    },
-    "sf-19600602-0002": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forskrift-i-medhold-av-oreigningsloven-3.md",
-      "slug": "forskrift-i-medhold-av-oreigningsloven-3",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift i medhold av oreigningslovens § 3 om rett til å foreta eiendomsinngrep.",
-      "total_changes": null,
-      "xml_hash": "b0a8dde6d4a9126656a3f2e3b96ba5ea54eaaea573422aafc126be95a09a4c20"
-    },
-    "sf-19600602-0004": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forskrift-i-medhold-av-oreigningslovens-29.md",
-      "slug": "forskrift-i-medhold-av-oreigningslovens-29",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift i medhold av oreigningslovens § 29",
-      "total_changes": null,
-      "xml_hash": "f37481139462c482f067252bf9227e0951dccd7267a555884cd64a4dc0aff2c0"
     },
     "sf-19600819-0002": {
       "doc_type": "forskrift",
@@ -13190,19 +13138,6 @@
       "total_changes": null,
       "xml_hash": "7b5063f43171ae52b63b105f48e63cb4233af6c9ef25a5a5cb95a9ef70f0893a"
     },
-    "sf-19830708-1250": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forskr-om-eiend-inngrep-etter-oreigningsloven.md",
-      "slug": "forskr-om-eiend-inngrep-etter-oreigningsloven",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om rett til å foreta eiendomsinngrep etter oreigningsloven.",
-      "total_changes": null,
-      "xml_hash": "04d8b2e75529cf4656750856e9e966d98fb219bfaa431d0fbc8eabbd4101696a"
-    },
     "sf-19830708-1252": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -13527,19 +13462,6 @@
       "title": "Forskrift om fysisk beskyttelse av nukleært materiale og nukleære anlegg",
       "total_changes": null,
       "xml_hash": "7d2c7411fb8a13af38ebc6d39c370154ac898e66f9cdd928cad304d6426f4b5e"
-    },
-    "sf-19841207-1957": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forsk-om-årlig-erstatning-etter-oreigningsl.md",
-      "slug": "forsk-om-årlig-erstatning-etter-oreigningsl",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om justering av årlige erstatninger fastsatt i medhold av oreigningsloven.",
-      "total_changes": null,
-      "xml_hash": "87e7c15073242fcffe838fb783feb5e7d789b0a647be1156f22882106cedfe1d"
     },
     "sf-19841207-1958": {
       "doc_type": "forskrift",
@@ -14581,19 +14503,6 @@
       "total_changes": null,
       "xml_hash": "7c88f3dbe0234b9195a6937f8100c9b80174ee4d6d06933bcca2c7a4b486e6b6"
     },
-    "sf-19890714-0565": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-27T07:59:51.015213Z",
-      "markdown_path": "forskrifter/forskrift-om-rett-til-å-foreta-eiendomsinngrep.md",
-      "slug": "forskrift-om-rett-til-å-foreta-eiendomsinngrep",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om hvem som kan få rett til å foreta eiendomsinngrep etter lov om oreigning av fast eigedom.",
-      "total_changes": null,
-      "xml_hash": "4da2d2dc761eeb7dda7fe57a7eb222f1fba97d8f0b57b4ccf78d1bb2ff385568"
-    },
     "sf-19890811-0802": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -14753,15 +14662,15 @@
     "sf-19900125-0092": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/forskrift-om-bruk-av-kjøretøy.md",
       "slug": "forskrift-om-bruk-av-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bruk av kjøretøy",
-      "total_changes": 6,
-      "xml_hash": "451b907bb8055ac5c9ea6497ac4cdacc99f9059a5d91b5f26fbdd869d91da05b"
+      "total_changes": 7,
+      "xml_hash": "8325fc110558ec92b16d235a56e1a094dcb881b79a00868ee260ae51fbf2d135"
     },
     "sf-19900126-0068": {
       "doc_type": "forskrift",
@@ -22384,15 +22293,15 @@
     "sf-20040119-0298": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/førerkortforskriften.md",
       "slug": "førerkortforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om førerkort m.m. (førerkortforskriften)",
-      "total_changes": 4,
-      "xml_hash": "b2edf963af1075891dae18819f1fdcab4638ccab71604953ef5f5eea94040686"
+      "total_changes": 5,
+      "xml_hash": "ff3bc5cdea709d7621880c4a7d0e7dea69344c4b1f398b2b8a2c1e6c1fdc3b00"
     },
     "sf-20040128-0424": {
       "doc_type": "forskrift",
@@ -23307,15 +23216,15 @@
     "sf-20050318-0242": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/rovviltforskriften.md",
       "slug": "rovviltforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forvaltning av rovvilt",
-      "total_changes": null,
-      "xml_hash": "8a47e795215ea4273e53fc6344ceb17136b8c657700bbf53f0fdade012febffe"
+      "total_changes": 4,
+      "xml_hash": "564b974e3bb940db7dfd2a79a7b83537be42bdb085ee1e04aeacdebdaea6a8a1"
     },
     "sf-20050321-0247": {
       "doc_type": "forskrift",
@@ -25539,19 +25448,6 @@
       "title": "Forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
       "total_changes": 6,
       "xml_hash": "085ddd3aafc2ea292d6af0489c9aa7c94062c8ffe01abb0995196356af766900"
-    },
-    "sf-20070629-0742": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/forskrift-om-genetisk-masseundersøkelse.md",
-      "slug": "forskrift-om-genetisk-masseundersøkelse",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om genetisk masseundersøkelse av nyfødte",
-      "total_changes": null,
-      "xml_hash": "3694d7e1b9bc02a7c38b9592620eeab793e5fc1f946df6e3377027085d8d7622"
     },
     "sf-20070629-0743": {
       "doc_type": "forskrift",
@@ -30183,13 +30079,13 @@
     },
     "sf-20111216-1258": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/psykisk-helsevernforskriften.md",
       "slug": "psykisk-helsevernforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)",
       "total_changes": null,
       "xml_hash": "085c3dadfa434c48e4af537c61d598222714854296619a611a973dd967f5e6a3"
@@ -31094,15 +30990,15 @@
     "sf-20121129-1283": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/forskrift-om-bustøtte.md",
       "slug": "forskrift-om-bustøtte",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bustøtte",
-      "total_changes": null,
-      "xml_hash": "9a0babfc28bd2abbd9be64aae04ddb9c07d34b0ea43d20156f2df77bee576cf4"
+      "total_changes": 4,
+      "xml_hash": "2ebf0a2706ba8a3e703c22b3d3b2c47471a1ba737daeba0ea7fb635a4978a4d6"
     },
     "sf-20121130-1114": {
       "doc_type": "forskrift",
@@ -33031,15 +32927,15 @@
     "sf-20140815-1076": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/sanksjonsforskrift-ukraina-territoriell-integritet-mv.md",
       "slug": "sanksjonsforskrift-ukraina-territoriell-integritet-mv",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet",
-      "total_changes": null,
-      "xml_hash": "48e2a0a88ccaebab22833d495b95dcb2c6941dba7d3f04a64e8909316b0922fe"
+      "total_changes": 4,
+      "xml_hash": "01378d8bc65063b8d1378e4c00a9c3bc8d726066f94c93ee13986b84ef116643"
     },
     "sf-20140822-1097": {
       "doc_type": "forskrift",
@@ -36957,15 +36853,15 @@
     "sf-20170524-2480": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
       "markdown_path": "forskrifter/forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten.md",
       "slug": "forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fastsetting av inndeling i politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten",
-      "total_changes": null,
-      "xml_hash": "c1aa117ce8a8ac1d97da9f8bf800c96d66fd5800b58d4a912ab79755894b8a3b"
+      "total_changes": 4,
+      "xml_hash": "4745878f03636ab7b12cd1846b2a16f57b1169bffbc35caeca5397f12aa45875"
     },
     "sf-20170612-0734": {
       "doc_type": "forskrift",
@@ -53659,19 +53555,6 @@
       "total_changes": 4,
       "xml_hash": "97c52deec7584bbd9d6b02bc4d1483a0331fc3354a52fe13cb8e15b4ef98ba68"
     },
-    "sf-20260121-0091": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-14T06:44:22.849555Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-2",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "87461603e3f69ac746b20822310b2ad802e9ecb46f1462afaa5c6ef30ef20edb"
-    },
     "sf-20260123-0081": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -53960,15 +53843,15 @@
     },
     "sf-20260227-0890": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-28",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-28T07:54:49.739061Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport.md",
       "slug": "forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter og forskrift om samordnet innkreving av avgift på fiskeeksport",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "39df9a864f0f549f758f11c2768dd20ccfbfd8fc6c101a6e9214c40ab8562266"
     },
     "sf-20260305-0340": {
@@ -54100,19 +53983,6 @@
       "title": "Forskrift om innsamling og overføring av molekylære analytiske data ved utbrudd knyttet til næringsmidler",
       "total_changes": null,
       "xml_hash": "54d10b298cf2c6d1446bf6a68927ff632bb50894cdd6da472e730ba740f304a0"
-    },
-    "sf-20260320-0442": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-08T05:54:50.775222Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-3",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "f18ff8e86132f998a73425c52bdc9d7d76a098a0c3759ff32cc4e5ddfa90e6b3"
     },
     "sf-20260320-0443": {
       "doc_type": "forskrift",
@@ -54270,19 +54140,6 @@
       "total_changes": 4,
       "xml_hash": "ed8ade46f6d0566e3644dee2e72bf731ed5dbef7a8d1af42eeabbeb62cbc1819"
     },
-    "sf-20260415-0596": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/endr-i-førerkortforskriften-og-trafikkopplæringsforskriften.md",
-      "slug": "endr-i-førerkortforskriften-og-trafikkopplæringsforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i førerkortforskriften og trafikkopplæringsforskriften",
-      "total_changes": null,
-      "xml_hash": "fc8766b725f5e5213721c7fdb53a9b149767df1c42d5547a25ae0b718fdcf062"
-    },
     "sf-20260417-0602": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54387,19 +54244,6 @@
       "total_changes": 1,
       "xml_hash": "a726bc4dd7aee80c81a048f690cae949722895c1a6a1a7e12b4270d525dd8f9e"
     },
-    "sf-20260429-0746": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-09T06:13:15.984558Z",
-      "markdown_path": "forskrifter/endr-i-blåreseptforskriften.md",
-      "slug": "endr-i-blåreseptforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
-      "total_changes": null,
-      "xml_hash": "3797ad3909656703935b04f7e2d607b689b9f155e02bdcdc56f87cc41556ebf1"
-    },
     "sf-20260504-0697": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54454,15 +54298,15 @@
     },
     "sf-20260505-0742": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-08",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-08T05:54:50.775222Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
       "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "f5fd6f6b9164dac29e7fe50fd14b6f2795e8d33ab906fc8bd44cb09ca73c4980"
     },
     "sf-20260505-0749": {
@@ -54503,19 +54347,6 @@
       "title": "Forskrift om endring i forskrift om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør",
       "total_changes": 1,
       "xml_hash": "750aed0c3c7b56b81ca02a3c8606d4494ed4684934b06140282e452414acf0fa"
-    },
-    "sf-20260507-0774": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-14T06:44:22.849555Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "0c2df1ccd900d5e402c702e081151999b1e7cb34f3a351816511b134d5b00070"
     },
     "sf-20260508-0769": {
       "doc_type": "forskrift",
@@ -54724,8 +54555,21 @@
       "title": "Forskrift om endring i forskrift om statens stipend og garantiinntekter for kunstnere",
       "total_changes": 1,
       "xml_hash": "e49bef25677d8f97858175b32ad778775fef1c1ffdcf15066e9c88266517dc84"
+    },
+    "sf-20260529-0941": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-02",
+      "last_seen": "2026-06-02T08:26:01.859598Z",
+      "markdown_path": "forskrifter/psykisk-helsevernforskriften.md",
+      "slug": "psykisk-helsevernforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)",
+      "total_changes": 4,
+      "xml_hash": "568ad5309d341af11dab751a69fe80c6587af0f9ffa82abbdcdda45d4c1fbfad"
     }
   },
-  "generated_at": "2026-06-01T09:23:05.781615Z",
+  "generated_at": "2026-06-02T08:26:01.859598Z",
   "version": 1
 }

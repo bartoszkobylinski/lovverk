@@ -1,6 +1,16 @@
 # psykisk-helsevernforskriften — Change history
 
-_2 events; doc_id `sf-20111216-1258`._
+_4 events; doc_id `sf-20260529-0941`._
+
+## 2026-06-02 — Added to corpus
+Lines: +225 -359.
+Subject: `add(forskrift): psykisk-helsevernforskriften`
+Commit: `b2087ef`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20111216-1258.md` → `forskrifter/psykisk-helsevernforskriften.md`.
