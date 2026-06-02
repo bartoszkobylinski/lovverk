@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-03-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2024-01-09"
-xml_hash: "b2edf963af1075891dae18819f1fdcab4638ccab71604953ef5f5eea94040686"
+xml_hash: "ff3bc5cdea709d7621880c4a7d0e7dea69344c4b1f398b2b8a2c1e6c1fdc3b00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-01T09:23:05.781615+00:00"
+retrieved_at: "2026-06-02T08:26:01.859598+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -761,6 +761,8 @@ Lærling som har inngått lærekontrakt med godkjent lærebedrift og bestått f�
 Lærlingen kan med førerkort i klasse C1 føre mobilkran med ubegrenset tillatt totalvekt under oppdrag for godkjent lærebedrift. Gyldig lærekontrakt og dokumentasjon på at lærebedriften er godkjent etter [opplæringslova](lov/2023-06-09-30) må medbringes under kjøring.
 
 Unntaket gjelder også for personer som har fullført læretiden i kran- og løfteoperasjonsfaget, bestått fagprøven og har gyldig arbeidskontrakt som kranfører. Gyldig arbeidskontrakt og dokumentasjon på fagbrev må medbringes under kjøring.
+
+Førerkort i klasse C kan utstedes ved fylte 21 år.
 
 > Tilføyd ved [forskrift 16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), endret ved forskrift [15 april 2026 nr. 596](forskrift/2026-04-15-596) (i kraft 1 juni 2026).
 
