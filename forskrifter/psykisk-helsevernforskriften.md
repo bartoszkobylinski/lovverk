@@ -1,603 +1,469 @@
 ---
-id: "sf-20111216-1258"
+id: "sf-20260529-0941"
 slug: "psykisk-helsevernforskriften"
 type: "forskrift"
-ref_id: "forskrift/2011-12-16-1258"
+ref_id: "forskrift/2026-05-29-941"
 title: "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)"
 short_title: "Psykisk helsevernforskriften"
-language: "no"
+language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
-date_in_force: "2012-01-01"
-last_change_in_force: "2021-11-01"
-last_updated: "2021-10-18"
-xml_hash: "085c3dadfa434c48e4af537c61d598222714854296619a611a973dd967f5e6a3"
+date_in_force: "2026-06-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "568ad5309d341af11dab751a69fe80c6587af0f9ffa82abbdcdda45d4c1fbfad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-02T08:26:01.859598+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)
 
-## Kapittel 1. Øyeblikkelig hjelp, godkjenning av institusjoner og faglig ansvarlig
+## Kapittel 1. Krav til institusjonene
 
-### § 1. Plikt til å yte øyeblikkelig hjelp
+### § 1. Godkjenning av institusjoner
 
-Institusjon eller avdeling som er utpekt til å gi øyeblikkelig hjelp i psykisk helsevern etter [spesialisthelsetjenesteloven § 3-1](lov/1999-07-02-61/§3-1) andre ledd, skal straks motta pasienter for undersøkelse og om nødvendig behandling dersom pasientens tilstand anses å være livstruende eller meget alvorlig, eller pasienten på grunn av sin sinnstilstand anses å være til vesentlig fare for andre.
+Institusjoner og avdelinger som skal være ansvarlig for eller kunne bruke tvungen observasjon eller tvungent psykisk helsevern med og uten døgnopphold etter lov om psykisk helsevern, skal ha godkjenning av Helsedirektoratet.
 
-Tilstander som utløser plikt til å yte øyeblikkelig hjelp omfatter blant annet:psykotiske tilstander preget av svær uro eller voldsomhet som medfører betydelig fare for pasientens eller andres liv eller helsepsykotiske og andre tilstander preget av svær angst eller depresjon der det er betydelig fare for at pasienten kan søke å ta sitt eget liv eller skade seg selv eller andredeliriøse tilstander der avrusing ikke er en hovedsakpsykiske tilstander hos barn og ungdom som omsorgspersonene ikke kan mestre, og der hjelp fra det psykiske helsevernet er påtrengende nødvendig.
+Godkjenning gis til institusjoner someies av eller utfører tjenester etter avtale med regionalt helseforetak ogoppfyller kravene i [§§ 2](forskrift/2026-05-29-941/§2) og [3](forskrift/2026-05-29-941/§3).
 
-### § 2. Godkjenning av institusjoner
-
-Institusjoner som skal være ansvarlig for eller kunne anvende tvungen observasjon eller tvungent psykisk helsevern med og uten døgnopphold, skal ha godkjenning av Helsedirektoratet. Med institusjoner menes også avdelinger ved institusjoner i de tilfeller det vil være aktuelt med egen godkjenning av slike avdelinger.
-
-Godkjenning gis til institusjoner someies av eller utfører tjenester etter avtale med regionalt helseforetak ogoppfyller kravene i [§ 3](forskrift/2011-12-16-1258/§3) og [§ 4](forskrift/2011-12-16-1258/§4).
-
-Dersom det er nødvendig for å ivareta et forsvarlig tilbud til pasientene, kan institusjoner som ikke oppfyller kravene i [§ 2](forskrift/2011-12-16-1258/§2) til [§ 4](forskrift/2011-12-16-1258/§4), likevel gis midlertidig godkjenning. Slik godkjenning kan gis for inntil ett år.
+Dersom det er nødvendig for å ivareta et forsvarlig tilbud til pasientene, kan institusjoner som ikke oppfyller kravene i [§§ 2](forskrift/2026-05-29-941/§2) og [3](forskrift/2026-05-29-941/§3), gis midlertidig godkjenning i inntil ett år.
 
 Helsedirektoratets vedtak kan påklages til departementet.
 
-### § 3. Materielle krav
+### § 2. Krav til lokaler og materiell
 
-Institusjonen skal være fysisk utformet og materielt utstyrt på en slik måte at kravet til forsvarlig helsehjelp kan ivaretas, jf. [spesialisthelsetjenesteloven § 2-2](lov/1999-07-02-61/§2-2).
+Institusjonen eller avdelingen skal være fysisk utformet og materielt utstyrt på en slik måte at kravet til forsvarlig helsehjelp, jf. [spesialisthelsetjenesteloven § 2-2](lov/1999-07-02-61/§2-2), kan ivaretas.
 
-Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal i tilleggså langt det er mulig gi tilbud om eneromha tilstrekkelige og oversiktlige fellesarealerha lokaler som er egnet til fritidsaktiviteter og opplæringsformålha tilgang på egnede utearealer som skal være i rimelig nærhet av institusjonenvære fysisk utformet og materielt utstyrt slik at bruk av tvang i størst mulig grad unngåsvære materielt utrustet slik at anvendelse av tvang er forsvarligsørge for at rom som tenkes brukt til isolasjon er egnet til formåletha tilfredsstillende skjermingsmuligheter.
+Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal i tilleggså langt det er mulig gi tilbud om eneromha tilstrekkelige og oversiktlige fellesarealerha lokaler som er egnet til fritidsaktiviteter og opplæringsformålha tilgang på egnede utearealer i rimelig nærhet av institusjonenvære fysisk utformet og materielt utstyrt slik at bruk av tvang i størst mulig grad unngåsvære materielt utstyrt slik at bruk av tvang er forsvarligsørge for at rom som tenkes brukt til isolasjon er egnet til formåletha tilfredsstillende skjermingsmuligheter.
 
-### § 4. Krav til bemanning
+### § 3. Krav til personell og kompetanse
 
-Institusjonen skal ha tilsatt personell med tilstrekkelig nivå og bredde i kompetansen til at institusjonen til enhver tid kan tilby diagnostisk kompetanse og de mest sentrale anerkjente behandlingsformer for institusjonens pasientgruppe. Dette skal omfattelege som er spesialist i psykiatripsykolog som er spesialist i klinisk psykologikvalifisert personell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til at medisinsk eller psykologisk behandling og observasjon kan gjennomføres forsvarlig.
+Institusjonen skal ha tilsatt personell med tilstrekkelig nivå og bredde i kompetansen til at institusjonen til enhver tid kan tilby diagnostikk og de mest sentrale anerkjente behandlingsformene for institusjonens pasientgruppe, inkludertlege som er spesialist i psykiatripsykolog som er spesialist i psykologiannet helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til at observasjon og behandling kan gjennomføres forsvarlig.
 
-Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal alltidkunne tilkalle lege som er spesialist i psykiatriha kvalifisert personell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til stede.
+Institusjoner som skal ha ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal alltidkunne tilkalle lege som er spesialist i psykiatriha helsepersonell med tilstrekkelig medisinsk-, psykolog- eller sykepleiefaglig kompetanse til stede.
 
-Institusjoner som skal ha ansvar for tvungent psykisk helsevern med døgnopphold av en viss varighet skal i tilleggha tilgang på kvalifisert personell for å kunne gi et godt tilbud om miljø- og fritidsaktiviteterha tilgang på kvalifisert personell for å sikre tilbud om nødvendig opplæring.
+I psykisk helsevern for barn og ungdom skal legen være spesialist i barne- og ungdomspsykiatri og psykologen være spesialist i barne- og ungdomspsykologi.
 
-I psykisk helsevern for barn og ungdom skal legen være spesialist i barne- og ungdomspsykiatri og psykologen være spesialist i klinisk psykologi med fordypningsområde i klinisk barne- og ungdomspsykologi.
+Institusjoner som skal ha ansvar for tvungent psykisk helsevern med døgnopphold skal i tilleggha tilgang på kvalifisert personell for å kunne gi et godt tilbud om miljø- og fritidsaktiviteterha tilgang på kvalifisert personell for å sikre tilbud om nødvendig opplæring.
 
-Institusjoner som har ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal ha nok personell og faglig kompetanse til i størst mulig grad å kunne forhindre bruk av tvang. Dersom tvang likevel benyttes, skal institusjonen ha tilstrekkelig personell til at tvangen blir forsvarlig.
+Institusjoner som har ansvar for tvungen observasjon eller tvungent psykisk helsevern med døgnopphold skal ha nok personell og faglig kompetanse til å i størst mulig grad forebygge bruk av tvang. Dersom det likevel brukes tvang, skal institusjonen ha tilstrekkelig personell til at tvangen kan gjennomføres på en forsvarlig måte.
 
-### § 5. Faglig ansvarlig
+### § 4. Faglig ansvarlig
 
-Den enkelte institusjon skal sørge for en forsvarlig organisering av vedtakskompetent personell og utpeke en eller flere faglig ansvarlige. Faglig ansvarlig for vedtak etter forskriften skal ha tilfredsstillende kunnskaper i helse- og omsorgslovgivningen, med særlig vekt på psykisk helsevernloven.
+Institusjonen skal sørge for en forsvarlig organisering av vedtakskompetent personell og utpeke en eller flere faglig ansvarlige. Faglig ansvarlig for vedtak, jf. [psykisk helsevernloven § 1-4](lov/1999-07-02-62/§1-4), skal ha tilfredsstillende kunnskaper i helse- og omsorgslovgivningen, med særlig vekt på [psykisk helsevernloven](lov/1999-07-02-62).
 
-Lege som skal være faglig ansvarlig etter psykisk [helsevernloven § 1-4](lov/1999-07-02-62/§1-4), skal være spesialist i psykiatri eller barne- og ungdomspsykiatri.
+Lege som skal være faglig ansvarlig for vedtak, skal være spesialist i psykiatri eller barne- og ungdomspsykiatri.
 
-Psykolog som skal være faglig ansvarlig etter psykisk [helsevernloven § 1-4](lov/1999-07-02-62/§1-4), skal være spesialist i klinisk psykologi med fordypningsområde i klinisk voksenpsykologi eller barne- og ungdomspsykologi. Psykologen skal ha minst 2 års relevant praksis fra institusjon eller avdeling som er godkjent for å ha ansvar for tvungen observasjon eller tvungent psykisk helsevern. Nedre grense for godkjenning av et arbeidsforhold er 6 måneder. Praksisen skal dokumenteres.
+Psykolog som skal være faglig ansvarlig for vedtak skal være spesialist i psykologi med fordypningsområde i voksenpsykologi eller spesialist i barne- og ungdomspsykologi. Psykologen skal ha minst 2 års dokumentert relevant praksis fra institusjon eller avdeling som er godkjent for å ha ansvar for tvungen observasjon eller tvungent psykisk helsevern. Nedre grense for godkjenning av et arbeidsforhold er 6 måneder.
 
-Psykolog kan ikke ha det faglige ansvaret for vedtak etter psykisk [helsevernloven § 4-4](lov/1999-07-02-62/§4-4) andre ledd bokstav a og [§ 4-8](lov/1999-07-02-62/§4-8) andre ledd bokstav c om bruk av legemidler.
+Psykolog kan ikke ha det faglige ansvaret for vedtak om bruk av legemidler og elektrokonvulsiv behandling etter [psykisk helsevernloven § 4-4 andre ledd bokstav a](lov/1999-07-02-62/§4-4/ledd/2/bokstav/a), [§ 4-8 andre ledd bokstav c](lov/1999-07-02-62/§4-8/ledd/2/bokstav/c), og [§ 4-4 b](lov/1999-07-02-62/§4-4b).
 
-Helsedirektoratet kan dispensere fra andre og tredje ledd når særlige hensyn tilsier det. Helsedirektoratet kan delegere myndigheten til statsforvalteren.
+Helsedirektoratet kan gi dispensasjon fra andre og tredje ledd når særlige hensyn tilsier det. Helsedirektoratet kan delegere myndigheten til statsforvalteren.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+### § 5. Informasjon til kontrollkommisjonen om tvangsbruk under gjennomføring av psykisk helsevern
 
-### § 6. Veiledningsplikt
+Institusjonen skal sørge for at vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A) registreres i elektronisk pasientjournal på en måte som gir kontrollkommisjonen en samlet oversikt over vedtak som er gjort for den enkelte pasient og for en bestemt periode.
 
-Den som treffer vedtak etter psykisk helsevernloven plikter å sørge for at pasienten og hans eller hennes nærmeste pårørende får nødvendig informasjon om sine rettigheter, herunder rettigheter etter psykisk helsevernloven, pasient- og brukerrettighetsloven, forvaltningsloven og denne forskriften. Veiledningsplikten gjelder tilsvarende overfor offentlige myndigheter der disse har rettigheter etter psykisk helsevernloven.
+Det samme gjelder for informasjon om gjennomføringen av følgende tiltak:skjerming, jf. [psykisk helsevernloven § 4-3](lov/1999-07-02-62/§4-3)behandling uten eget samtykke med legemiddel i form av depot, jf. [psykisk helsevernloven § 4-4a nr. 4](lov/1999-07-02-62/§4-4a/nummer/4)mekaniske tvangsmidler med hjemmel i [psykisk helsevernloven § 4-8 andre ledd bokstav a](lov/1999-07-02-62/§4-8/ledd/2/bokstav/a).
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+Institusjonen skal sørge for at kontrollkommisjonen så snart som mulig får melding om vedtak om tvangsmidler. Kontrollkommisjonen skal også få informasjon ved langvarig bruk av tvangsmidler og skjerming.
 
-## Kapittel 2. Etablering og opphør av tvungent psykisk helsevern m.m.
+### § 6. Rett til kontaktperson
 
-### § 7. Begjæring om tvungen legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern
+Pasienter som er under tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon, skal ha en kontaktperson blant institusjonens behandlingspersonell på dagtid. Institusjonen må sørge for at pasienten og pasientens pårørende vet hvem de kan kontakte utenom åpningstiden.
 
-Offentlig myndighet som etter psykisk [helsevernloven § 3-6](lov/1999-07-02-62/§3-6) kan begjære tvungen legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern, erkommunelegen eller dennes stedfortrederden kommunale helse- og omsorgstjenestensosialtjenesten der den på forhånd har hatt kontakt med pasientenpolitiet dersom pasienten allerede er i politiets varetekt, eller det dreier seg om å avverge vesentlig fare for pasientens eller andres liv eller helse, eller når politiets bistand er nødvendig for å få han eller henne under tvungen observasjon eller tvungent psykisk helsevernansvarlig fengselsmyndighet når pasienten er innsatt i anstalt under kriminalomsorgen.
+### § 7. Samarbeid med den kommunale helse- og omsorgstjenesten og sosialtjenesten
 
-Den som fremsetter begjæringen skal ha kjennskap til saken og pasientens situasjon.
+Den ansvarlige institusjonen skal etablere et samarbeid med den kommunale helse- og omsorgstjenesten og sosialtjenesten om oppfølging av pasienter som er under tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon.
 
-Begjæring om tvungen observasjon eller tvungent psykisk helsevern skalvære skriftlig, datert og adressert til institusjoneninneholde pasientens navn, fødselsdato og adresseangi hvem som har fremsatt begjæringen og hvilket forhold vedkommende har til pasientenmottas av institusjonen senest samtidig med pasienten.
+Organiseringen og gjennomføring av samarbeidet skal nedfelles i pasientens behandlingsplan og individuelle plan.
 
-### § 8. Uttalelse etter legeundersøkelse
+### § 8. Samarbeid med pasientens pårørende
 
-Legens skriftlige uttalelse etter psykisk [helsevernloven § 3-1](lov/1999-07-02-62/§3-1) skal gi opplysninger omhvem som har begjært legeundersøkelsentidspunkt og sted for undersøkelsenpasientens syn på tilbud om psykisk helsevernrelevante pasientopplysninger som legen har mottatt fra andrede observasjoner av medisinsk eller annen art som er gjort, herunder om det antas å foreligge en alvorlig sinnslidelsehvilket grunnlag som anses å være til stede for å etablere tvungen observasjon eller tvungent psykisk helsevern, jf. psykisk [helsevernloven § 3-2](lov/1999-07-02-62/§3-2) og [§ 3-3](lov/1999-07-02-62/§3-3).
+Institusjonen skal ta initiativ til å samarbeide med pasientens pårørende.
 
-Opplysninger fra legeundersøkelsen skal legges ved i lukket konvolutt, eller sendes direkte fra den lege som har foretatt undersøkelsen.
+## Kapittel 2. Tvungent psykisk helsevern mv.
 
-### § 9. Tvungen legeundersøkelse. Delegering.
+### § 9. Begjæring om tvungen legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern
 
-Det skal fremgå av kommunelegens vedtak om tvungen legeundersøkelse etter psykisk [helsevernloven § 3-1](lov/1999-07-02-62/§3-1) andre ledd hvem som har fremsatt begjæring om undersøkelsen og hvem som har gitt uttalelse i saken.
+Offentlig myndighet som etter [psykisk helsevernloven § 3-6](lov/1999-07-02-62/§3-6) kan begjære legeundersøkelse, tvungen observasjon eller tvungent psykisk helsevern, erkommuneoverlegen eller dennes stedfortrederden kommunale helse- og omsorgstjenestensosialtjenestenpolitiet dersom pasienten allerede er i politiets varetekt, ved avverging av vesentlig fare for pasientens eller andres liv eller helse, eller når politiets bistand er nødvendig for å få pasienten under tvungen observasjon eller tvungent psykisk helsevernansvarlig fengselsmyndighet når pasienten er innsatt i fengsel.
 
-Kommunelegen kan, i sitt fravær, delegere sin myndighet til å treffe vedtak om tvungen legeundersøkelse til kommunalt ansatt lege eller klinisk psykolog. Delegering kan også skje til lege eller klinisk psykolog som den aktuelle kommune har avtale med.
+Den som fremsetter begjæringen, må ha kjennskap til saken og pasientens situasjon.
 
-Selve undersøkelsen bør gjennomføres av en annen lege enn den som fattet vedtaket.
+Begjæring om tvungen observasjon eller tvungent psykisk helsevern skal mottas av institusjonen senest samtidig med pasienten ogvære skriftlig, datert og adressert til institusjoneninneholde pasientens navn, fødselsdato og adresseangi hvem som har satt fram kravet og hvilket forhold vedkommende har til pasienten.
 
-### § 10. Tvungen observasjon eller tvungent psykisk helsevern. Underretning
+### § 10. Uttalelse etter legeundersøkelse
 
-Den faglig ansvarlige for vedtak skal påse at skriftlig uttalelse fra lege foreligger, jf. [§ 8](forskrift/2011-12-16-1258/§8). Legeuttalelsen skal ikke være eldre enn 10 dager. Ved øyeblikkelig hjelp kan pasienten mottas på grunnlag av muntlig uttalelse fra lege. En skriftlig uttalelse skal likevel foreligge innen 24 timer etter pasientens ankomst til institusjonen.
+Legen skal i sin skriftlige uttalelse etter [psykisk helsevernloven § 3-1](lov/1999-07-02-62/§3-1) gi opplysninger omundersøkelsen skjer etter vedtak om tvungen legeundersøkelsetidspunkt og sted for undersøkelsenpasientens syn på tilbud om psykisk helsevernrelevante opplysninger som legen har mottatt fra andreobservasjoner av medisinsk eller annen art inkludert om det antas å foreligge en alvorlig sinnslidelsehvilket grunnlag det anses å være for å etablere tvungen observasjon eller tvungent psykisk helsevern, jf. [psykisk helsevernloven §§ 3-2](lov/1999-07-02-62/§3-2) og [3-3](lov/1999-07-02-62/§3-3)det foreligger en begjæring om tvungent psykisk helsevern.
 
-Vedtak om tvungen observasjon eller tvungent psykisk helsevern skal treffes snarest og senest innen 24 timer etter at pasienten er kommet til institusjonen, jf. psykisk [helsevernloven § 3-3a](lov/1999-07-02-62/§3-3a).
+Opplysninger fra legeundersøkelsen skal sendes til aktuell psykisk helseverninstitusjon.
 
-Den underretning om vedtaket som skal gis etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27), skal gis både til pasienten og hans eller hennes nærmeste pårørende. Dersom offentlig myndighet har framsatt begjæring etter [§ 7](forskrift/2011-12-16-1258/§7), skal også denne underrettes om vedtaket. I tillegg til veiledningen som skal gis etter reglene i [forvaltningsloven § 17](lov/1967-02-10/§17) tredje og fjerde ledd, skal underretningen om vedtaket opplyse om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter psykisk [helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
+### § 11. Tvungen legeundersøkelse. Delegering
 
-Gjenpart av vedtak om tvungen observasjon eller tvungent psykisk helsevern og de dokumenter vedtaket bygger på, skal sendes kontrollkommisjonen.
+Det skal gå fram av kommuneoverlegens vedtak om tvungen legeundersøkelse etter [psykisk helsevernloven § 3-1 andre ledd](lov/1999-07-02-62/§3-1/ledd/2) hvem som har satt fram begjæring om undersøkelsen og hvem som har uttalt seg i saken.
 
-> Endret ved [forskrifter 26 okt 2012 nr. 998](forskrift/2012-10-26-998), [11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+Kommuneoverlegen kan delegere sin myndighet til å gjøre vedtak om tvungen legeundersøkelse til kommunalt ansatt lege eller psykolog. Delegering kan også skje til lege eller psykolog som kommunen har avtale med.
 
-### § 11. Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon
+### § 12. Vedtak om tvungen observasjon og tvungent psykisk helsevern
 
-Den faglig ansvarlige skal vurdere om pasienten behøver døgnkontinuerlig omsorg og behandling, eller om det er bedre for pasienten å bo i egen bolig eller har opphold i annen institusjon, for eksempel i den kommunale helse- og omsorgstjenesten eller spesialisthelsetjenesten, under gjennomføringen av tvungen observasjon eller tvungent psykisk helsevern. I vurderingen skal det legges vekt på om det kan etableres et samarbeid med det lokale behandlingsapparatet som gjør det forsvarlig at pasienten ikke har opphold i godkjent institusjon. Det skal legges særlig vekt på pasientens eget ønske. Det skal også tas hensyn til pasientens sykdom, bo- og familiesituasjon, sosiale situasjon og individuelle behov samt pasientens pårørende og deres situasjon.
+Det skal gjøres vedtak om å etablere eller ikke etablere tvungen observasjon eller tvungent psykisk helsevern.
 
-I tillegg til vurderingen etter første ledd, må pasienten entenha en kjent sykdomshistorie og det på bakgrunn av pasientens symptomer og tidligere kunnskap om pasientens sykdomsforløp, er utvilsomt hvilken behandling pasienten trenger, ellerha vært observert i institusjon med døgnopphold og observasjonen har klargjort pasientens diagnose og hva slags behandlingsopplegg som må anses nødvendig.
+Den faglig ansvarlige for vedtaket skal forsikre seg om at det foreligger en skriftlig uttalelse fra en uavhengig lege og at den ikke er eldre enn 10 dager.
 
-Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke omfatte tvangstiltak på pasientens bopel.
+### § 13. Melding om vedtak om tvungen observasjon og tvungent psykisk helsevern
 
-Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke etableres eller gjennomføres dersom pasienten er bostedsløs.
+Melding om vedtak om å etablere eller ikke etablere tvungen observasjon og tvungent psykisk helsevern skal gis til pasienten og pasientens nærmeste pårørende etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27). Det skal i tillegg opplyses om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter [psykisk helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
 
-### § 12. Vedtak om overføringer, jf. psykisk helsevernloven § 4-10 og § 5-4
+Offentlig myndighet som har satt fram begjæring om observasjon eller tvungent psykisk helsevern etter [psykisk helsevernloven § 3-6](lov/1999-07-02-62/§3-6), skal gis melding om vedtaket.
 
-Ved overføring til annen døgninstitusjon eller annen form for tvungent psykisk helsevern i eller under ansvar av institusjon som nevnt i psykisk [helsevernloven § 3-5](lov/1999-07-02-62/§3-5), skal det treffes særskilt vedtak. Statsforvalteren avgjør i tvilstilfeller om en overføring omfattes av bestemmelsen her.
+### § 14. Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon
 
-Den underretning om vedtaket som skal gis etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27), skal straks gis både til pasienten, hans eller hennes nærmeste pårørende og påtalemyndigheten. I tillegg til veiledningen som skal gis etter reglene i [forvaltningsloven § 17](lov/1967-02-10/§17) tredje og fjerde ledd, skal underretningen om vedtaket opplyse om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter psykisk [helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
+Den faglig ansvarlige skal vurdere om pasienten trenger døgnkontinuerlig omsorg og behandling, eller om det er bedre for pasienten å bo et annet sted enn på en institusjon som er godkjent for tvungent vern med døgnopphold. Det skal legges særlig vekt på pasientens eget ønske. Det skal også tas hensyn til pasientens sykdom, bo- og familiesituasjon, sosiale situasjon og andre individuelle behov. Ved vurderingen skal det også tas hensyn til pårørende, jf. [psykisk helsevernloven § 3-5 tredje ledd](lov/1999-07-02-62/§3-5/ledd/3).
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+Tvungen observasjon og tvungent psykisk helsevern kan bare gjennomføres uten døgnopphold i institusjon når pasientenhar en kjent sykdomshistorie og det på bakgrunn av pasientens symptomer og tidligere sykdomsforløp, er utvilsomt hvilken behandling pasienten trenger, ellerhar vært observert i institusjon med døgnopphold og observasjonen har klargjort pasientens diagnose og hva slags behandlingsopplegg som anses nødvendig.
 
-### § 13. Kontrollundersøkelser
+Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke omfatte tvangstiltak der pasienten bor. Dette gjelder likevel ikke ved gjennomføring av legemiddelbehandling uten eget samtykke i sykehjem, jf. [psykisk helsevernloven § 4-8a første ledd](lov/1999-07-02-62/§4-8a/ledd/1).
 
-Undersøkelse etter psykisk [helsevernloven § 4-9](lov/1999-07-02-62/§4-9) skal gjennomføres av den faglig ansvarlige. Undersøkelsen skal omfatte en redegjørelse for pasientens individuelle plan. Dersom det ikke er utarbeidet individuell plan for pasienten, skal årsaken til dette oppgis.
+Tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon kan ikke etableres eller gjennomføres dersom pasienten mangler et sted å bo.
 
-Resultatet av kontrollundersøkelsen skal inntas i pasientens journal og sendes kontrollkommisjonen i kopi.
+### § 15. Melding om vedtak om overføring etter psykisk helsevernloven § 4-10 og § 5-4
 
-### § 14. Begjæring om forlengelse av tvungent psykisk helsevern
+Pasienten og pasientens nærmeste pårørende skal straks få melding om vedtak om overføring etter [psykisk helsevernloven §§ 4-10](lov/1999-07-02-62/§4-10) og [5-4](lov/1999-07-02-62/§5-4) etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27). Tilsvarende skal melding om vedtak om overføring etter [psykisk helsevernloven § 5-4](lov/1999-07-02-62/§5-4) straks gis til påtalemyndigheten.
 
-Begjæring om samtykke til forlengelse av tvungent psykisk helsevern skal være mottatt av kontrollkommisjonen senest 4 uker før det tvungne vernet opphører, jf. psykisk [helsevernloven § 3-8](lov/1999-07-02-62/§3-8) tredje ledd.
+Det skal i tillegg opplyses om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter [psykisk helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
 
-## Kapittel 3. Skjerming, undersøkelse og behandling uten eget samtykke og tvangsmidler
+### § 16. Faglig ansvarliges kontrollundersøkelse
 
-### I. Innledende bestemmelse
+Den faglig ansvarlige skal, i forbindelse med kontrollundersøkelse etter [psykisk helsevernloven § 4-9](lov/1999-07-02-62/§4-9), gjøre rede for hvordan pasientens individuelle plan følges opp. Dersom det ikke er utarbeidet en individuell plan for pasienten, skal årsaken til dette oppgis. Kontrollkommisjonen skal informeres om resultatet av kontrollundersøkelsen.
 
-### § 15. Vern om personlig integritet. Pasientens rett til medvirkning
+### § 17. Krav om forlengelse av tvungent psykisk helsevern
 
-Restriksjoner og tvang skal ikke være mer omfattende eller inngripende enn det som er strengt nødvendig for å ivareta de hensyn som ligger til grunn for tiltaket. Tiltaket kan bare iverksettes dersom det gir en så gunstig virkning at den klart oppveier ulempene med tiltaket, jf. psykisk [helsevernloven § 4-2](lov/1999-07-02-62/§4-2).
+Faglig ansvarliges anmodning om kontrollkommisjonens samtykke til forlengelse av tvungent psykisk helsevern, jf. [psykisk helsevernloven § 3-8 tredje ledd](lov/1999-07-02-62/§3-8/ledd/3) skal fremmes senest 4 uker før det tvungne vernet opphører.
 
-Før det iverksettes tiltak etter dette kapittelet, skal pasienten gis så stor innflytelse som mulig. Pasienten har rett til å medvirke ved valg mellom ulike tilgjengelige og forsvarlige behandlingsmetoder, jf. pasient- og [brukerrettighetsloven § 3-1](lov/1999-07-02-63/§3-1). Forsøk på å etablere frivillig samarbeid med pasienten skal fortsette også etter at tiltaket er iverksatt.
+## Kapittel 3. Tvang under gjennomføring av psykisk helsevern
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+### § 18. Henting av pasient under tvungent psykisk helsevern uten døgnopphold som ikke møter opp
 
-### II. Skjerming
+En pasient under tvungent psykisk helsevern uten døgnopphold i institusjon som ikke møter til undersøkelse eller behandling, jf. [psykisk helsevernloven §§ 3-5](lov/1999-07-02-62/§3-5) og [4-4](lov/1999-07-02-62/§4-4), kan om nødvendig hentes av institusjonens personell. Hentingen skal skje på en mest mulig skånsom måte. Det skal legges særlig vekt på å ivareta barn pasienten har omsorgsansvar for. Henting kan skje med bistand fra den kommunale helse- og omsorgstjenesten. Dersom det er behov for bruk av fysisk makt, skal det bes om bistand fra politiet.
 
-### § 16. Vilkår for skjerming
+Dersom pasienten etter en henting fortsatt lar være å møte til undersøkelse eller behandling, skal det vurderes om tvungen observasjon eller tvungent psykisk helsevern i form av døgnopphold er det beste for pasienten.
 
-Skjerming skal være begrunnet i behandlingsmessige hensyn eller i hensyn til andre pasienter, jf. psykisk [helsevernloven § 4-3](lov/1999-07-02-62/§4-3). Behandlingsmessige hensyn vil blant annet kunne foreligge dersom det er nødvendig å begrense pasientens sanseinntrykk, eller i situasjoner der pasienten utviser tiltagende uro eller angst og skjerming vurderes å kunne motvirke forverring av pasientens tilstand. Det er ikke tilstrekkelig at pasienten lider av en uro som må anses vanlig ved etablering av tvungen observasjon eller tvungent psykisk helsevern.
+### § 19. Vilkår for skjerming
 
-Hensynet til andre pasienter kan danne grunnlag for skjerming når pasientens oppførsel er svært forstyrrende, plagsom eller uheldig for andre pasienter. Det kreves ikke at pasienten utgjør en fare for andre pasienter.
+Skjerming etter [psykisk helsevernloven § 4-3](lov/1999-07-02-62/§4-3) kan iverksettes av behandlingsmessige hensyn når det er nødvendig å begrense pasientens sanseinntrykk, eller pasienten har tiltagende uro eller angst. Skjermingen må vurderes som nødvendig for å motvirke forverring av pasientens tilstand. Det er ikke tilstrekkelig at pasienten lider av en uro som må anses vanlig ved etablering av tvungen observasjon eller tvungent psykisk helsevern.
 
-Ved skjerming av hensyn til pasienten selv, må det vurderes om tiltaket vil ha en gunstig behandlingseffekt. Ved skjerming av hensyn til andre, må medpasientenes behov vurderes opp mot de uheldige konsekvenser skjerming kan få for pasienten.
+Skjerming kan også iverksettes når pasientens oppførsel er svært forstyrrende, plagsom eller uheldig for andre pasienter. Det kreves ikke at pasienten utgjør en fare for andre pasienter. Medpasientenes behov må vurderes opp mot konsekvensene skjerming kan få for pasienten.
 
-### § 17. Vedtak om skjerming som opprettholdes utover 12 timer
+### § 20. Skjerming som opprettholdes utover 12 timer
 
-Ved vurderingen av om skjermingen innebærer en betydelig endring av pasientens omgivelser eller bevegelsesfrihet, jf. psykisk [helsevernloven § 4-3](lov/1999-07-02-62/§4-3) andre ledd andre punktum, må det foretas en sammenligning av pasientens situasjon under skjerming og uten slikt tiltak. Sentrale momenter i vurderingen vil være hvilke restriksjoner pasienten blir underlagt, for eksempel om det settes strenge begrensinger for tilgang til bestemte ting eller utgangsmuligheter, og hvordan lokalet som skjermingen gjennomføres i, er innredet.
+Ved vurderingen av om skjermingen innebærer en betydelig endring etter [psykisk helsevernloven § 4-3 andre ledd](lov/1999-07-02-62/§4-3/ledd/2), skal det blant annet legges vekt på hvilke restriksjoner pasienten blir underlagt, for eksempel om det settes strenge begrensinger for tilgang til bestemte gjenstander eller utgangsmuligheter, og hvordan lokalet som skjermingen gjennomføres i, er innredet.
 
-### § 18. Gjennomføring av skjerming
+### § 21. Gjennomføring av skjerming
 
-Skjerming kan innebære at pasienten henvises til opphold på sitt eget rom eller i lokaler som er atskilt fra fellesareal og pasientrom i avdelingen (skjermet enhet). Det er ikke adgang til å låse eller på annen måte stenge døren til rommet der pasienten befinner seg. Pasienten kan fysisk ledes dit skjermingen skal gjennomføres.
+Skjerming kan gjennomføres ved at pasienten skal oppholde seg på sitt eget rom eller i lokaler som er atskilt fra fellesareal og pasientrom i avdelingen (skjermet enhet). Pasienten kan fysisk ledes dit skjermingen skal gjennomføres. Det er ikke adgang til å låse eller på annen måte stenge døren til rommet der pasienten er.
 
-Pasienten kan holdes tilbake dersom han eller hun forsøker å forlate stedet der skjermingen blir gjennomført. En pasient som er under frivillig psykisk helsevern, kan ikke holdes tilbake eller på annen måte forhindres i å forlate institusjonen dersom han eller hun ønsker dette. Pasienten skal informeres om sin rett til å skrive seg ut fra institusjonen.
+Pasienter kan holdes tilbake dersom de forsøker å forlate stedet der skjermingen blir gjennomført. Pasienter som er under frivillig psykisk helsevern, kan ikke holdes tilbake eller på annen måte hindres i å forlate institusjonen dersom de ønsker dette. Pasienten skal informeres om sin rett til å skrive seg ut fra institusjonen.
 
-Helsepersonell skal være til stede i den utstrekning det er nødvendig. Dersom pasienten gir uttrykk for å ville være alene, skal helsepersonellet forlate rommet dersom tilstedeværelse ikke vurderes som nødvendig.
+Helsepersonell skal være til stede i den utstrekning det er nødvendig. Dersom pasienten gir uttrykk for å ville være alene, og det ikke vurderes som nødvendig at personellet er til stede, skal personellet forlate rommet.
 
-Innskrenkninger i pasientens forbindelse med omverdenen forutsetter at det treffes eget vedtak om dette, jf. psykisk [helsevernloven § 4-5](lov/1999-07-02-62/§4-5).
+Det må gjøres særskilt vedtak om innskrenkninger i pasientens forbindelse med omverdenen etter [psykisk helsevernloven § 4-5](lov/1999-07-02-62/§4-5).
 
-### III. Undersøkelse og behandling uten eget samtykke
+### § 22. Observasjon og undersøkelse før vedtak om behandling uten eget samtykke
 
-### § 19. Vurdering av alternative tiltak
+Observasjon i minst fem døgn før det gjøres vedtak om legemiddelbehandling, jf. [psykisk helsevernloven § 4-4 femte ledd](lov/1999-07-02-62/§4-4/ledd/5), skal skje i godkjent institusjon. Dette gjelder likevel ikke dersom observasjon av hensyn til forsvarlig helsehjelp bør skje i en annen institusjon, jf. [loven § 3-5](lov/1999-07-02-62/§3-5) eller det er en klart bedre løsning for pasienten å bli observert i sykehjem, jf. [loven § 4-8a](lov/1999-07-02-62/§4-8a).
 
-Før vedtak kan treffes etter psykisk [helsevernloven § 4-4a](lov/1999-07-02-62/§4-4a), skal det alltid vurderes om det kan tilbys andre frivillige tiltak som alternativ til behandling uten eget samtykke.
+Institusjonen skal i hele observasjonsperioden prøve å få til et samarbeid med pasienten.
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+Før det gjøres vedtak om behandling med legemidler uten eget samtykke etter [§ 4-4 andre ledd bokstav a](lov/1999-07-02-62/§4-4/ledd/2/bokstav/a), skal den faglig ansvarlige for vedtaket personlig ha undersøkt pasienten i løpet av de siste 48 timene.
 
-### § 20. Nærmere om undersøkelsen
+Før det gjøres vedtak om ernæringstilførsel, jf. [§ 4-4 andre ledd bokstav b](lov/1999-07-02-62/§4-4/ledd/2/bokstav/b) uten eget samtykke, skal lege personlig ha undersøkt pasienten. Undersøkelsen må gjennomføres i direkte tilknytning til at vedtaket skal gjøres.
 
-Før det treffes vedtak om behandling med legemidler uten eget samtykke, skal den faglig ansvarlige for vedtaket personlig ha undersøkt pasienten i løpet av de siste 48 timer.
+Undersøkelse etter tredje og fjerde ledd skal skje i godkjent institusjon, med mindre det av hensyn til forsvarlig helsehjelp bør skje i annen institusjon, jf. [loven § 3-5 andre ledd](lov/1999-07-02-62/§3-5/ledd/2) eller i sykehjem, jf. [loven § 4-8a](lov/1999-07-02-62/§4-8a).
 
-Vedtak om legemiddelbehandling uten eget samtykke kan ikke fattes før pasienten er observert og forsøkt hjulpet i minst fem døgn fra etableringen av vernet. Dette gjelder ikke hvis pasienten ved utsettelse vil lide vesentlig helseskade, eller hvis pasienten gjennom tidligere behandlingsopphold er godt kjent av institusjonen som vedtar behandlingen.
+### § 23. Vedtak om behandling uten eget samtykke
 
-Før det treffes vedtak om ernæringstilførsel uten eget samtykke, skal pasienten undersøkes av lege. Legeundersøkelsen må foretas i direkte tilknytning til at vedtaket skal fattes.
+Når behandling uten eget samtykke etter [psykisk helsevernloven § 4-4](lov/1999-07-02-62/§4-4) omfatter flere behandlingsformer, kan det gjøres et fellesvedtak. Det skal likevel alltid gjøres et eget vedtak om behandling med legemidler.
 
-Institusjonen skal gjennom hele undersøkelsesperioden søke å få pasientens tillit slik at behandling kan gjennomføres med pasientens samtykke.
+Vedtaket skal angi planlagt begynnelse og varighet av behandlingen. Vedtaket kan gjelde for inntil 3 uker. Vedtak om behandling med legemidler kan gjelde for inntil 3 måneder.
 
-Undersøkelsen skal alltid skje ved observasjon i godkjent institusjon, med mindre det av hensyn til forsvarlig helsehjelp bør skje i annen institusjon, jf. psykisk [helsevernloven § 3-5](lov/1999-07-02-62/§3-5) andre ledd. Ved vedtak om behandling med legemidler uten eget samtykke skal undersøkelsen skje ved døgnopphold, med mindre den ansvarlige institusjon har inngående kjennskap til og erfaring med pasienten og pasientens situasjon og til pasientens tidligere erfaringer med tilsvarende eller liknende medikasjon og virkningen av denne på pasienten.
+Behandlingen kan tidligst iverksettes 48 timer etter at pasienten har fått melding om vedtaket. Dette gjelder likevel ikke hvis pasienten vil lide vesentlig helseskade ved slik utsettelse. Begrunnelsen for umiddelbar iverksettelse skal gå fram av vedtaket.
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+### § 24. Gjennomføring av legemiddelbehandling uten eget samtykke
 
-### § 21. Vedtak om behandling uten eget samtykke
+Injeksjon skal bare gis når det ikke er mulig å få pasienten til å ta legemiddelet gjennom munnen. Depotinjeksjoner skal ikke gis ved behandling av akutte sinnslidelser.
 
-Når behandling uten eget samtykke omfatter flere behandlingsformer, kan det treffes et helhetlig vedtak som inneholder de behandlingselementer som er aktuelle for den enkelte pasient. Behandling med legemidler skal likevel alltid vedtas særskilt.
+Dersom pasienten ønsker det, kan den praktiske gjennomføringen av behandling med legemidler etter avtale med institusjonen som har truffet vedtaket og under forutsetning av faglig forsvarlig tilsyn og veiledning, overlates til helsepersonell utenfor det psykiske helsevernet.
 
-Vedtaket skal angi planlagt begynnelse og varighet av behandlingen. Den planlagte varigheten kan maksimalt settes til 3 uker. Ved vedtak om behandling med legemidler kan varigheten maksimalt settes til 3 måneder. Av vedtaket skal det også fremgå at kravene til tilstrekkelig undersøkelse etter [§ 20](forskrift/2011-12-16-1258/§20) er oppfylt.
+Pasienten skal ikke tilføres legemidler uten å bli informert. Informasjon til pasienten kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten, jf. [pasient- og brukerrettighetsloven § 3-2 tredje ledd](lov/1999-07-02-63/§3-2/ledd/3).
 
-Behandlingen kan tidligst iverksettes 48 timer etter at pasienten er underrettet om vedtaket. Unntak fra dette kan bare skje hvis den faglig ansvarlige for vedtaket av tungtveiende behandlingsmessige grunner finner at behandlingen ikke kan utsettes.
+### § 25. Gjennomføring av behandling med ernæringstilførsel uten eget samtykke
 
-Begrunnelsen for slik umiddelbar iverksettelse skal fremgå av vedtaket.
+Dersom det er nødvendig for å kunne gi forsvarlig helsehjelp, jf. [spesialisthelsetjenesteloven § 2-2](lov/1999-07-02-61/§2-2), kan ernæringstilførsel gis ved midlertidig døgnopphold i institusjon som ikke er godkjent for bruk av tvang. I slike tilfeller er den godkjente institusjonen ansvarlig for det tvungne vernet.
 
-### § 22. Gjennomføring av behandling med legemidler
+Dersom pasienten ønsker det, kan den praktiske gjennomføringen av behandling med ernæringstilførsel etter avtale med institusjonen som har truffet vedtaket og under forutsetning av faglig forsvarlig tilsyn og veiledning, overlates til helsepersonell utenfor det psykiske helsevernet.
 
-Behandling ved injeksjon skal bare gis når det ikke er mulig å få pasienten til å ta legemiddel gjennom munnen. Depotinjeksjoner skal ikke gis ved behandling av akutte sinnslidelser.
+Pasienten skal ikke tilføres ernæring uten å bli informert. Pasienten skal informeres om den faktiske doseringen. Informasjon til pasienten kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten, jf. [pasient- og brukerrettighetsloven § 3-2 tredje ledd](lov/1999-07-02-63/§3-2/ledd/3).
 
-Under forutsetning av faglig forsvarlig tilsyn og veiledning, kan den praktiske gjennomføringen av behandling med legemidler etter avtale med den ansvarlige institusjon som har truffet vedtaket, overlates til helsepersonell utenfor det psykiske helsevernet. Dette kan bare skje hvis pasienten ønsker det.
+### § 26. Hvilke institusjoner som kan bruke tvangsmidler
 
-Pasienten skal ikke tilføres legemidler uten å bli informert, jf. pasient- og [brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2). Herunder skal det opplyses om den faktiske dosering og mulige bivirkninger. Informasjon kan unnlates overfor pasienter som på grunn av langt fremskreden sløvhet ikke er i stand til å forstå omstendighetene knyttet til bruken av legemidlene.
+Tvangsmidler, jf. [psykisk helsevernloven § 4-8](lov/1999-07-02-62/§4-8), kan bare brukes i institusjon for døgnopphold som er godkjent for å ha ansvar for pasienter under tvungen observasjon eller tvungent psykisk helsevern.
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+I akutte situasjoner kan tvangsmidler likevel brukes for pasienter som er under psykisk helsevern i andre institusjoner i psykisk helsevern enn de som er nevnt i første ledd. Det skal da straks vurderes om pasienten bør overføres til en godkjent institusjon. Dersom det viser seg nødvendig å bruke tvangsmidler gjentatte ganger, skal den som har ansvaret for det tvungne vernet så snart som mulig søke om overføring til, eller innleggelse av pasienten i, en institusjon som er bedre egnet til å ivareta pasienten.
 
-### § 23. Gjennomføring av behandling med ernæringstilførsel
+Tvangsmidler kan også brukes i sykehjem, jf. [psykisk helsevernloven § 4-8a](lov/1999-07-02-62/§4-8a).
 
-Dersom det er nødvendig av hensyn til forsvarlig helsehjelp, jf. [spesialisthelsetjenesteloven § 2-2](lov/1999-07-02-61/§2-2), kan ernæringstilførsel gis ved midlertidig døgnopphold i institusjon som ikke er godkjent for bruk av tvang. I slike tilfeller er den godkjente institusjonen ansvarlig for det tvungne vernet.
+### § 27. Vedtak om bruk av tvangsmidler
 
-Pasienten skal ikke tilføres ernæring uten å bli informert, jf. pasient- og [brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2). Herunder skal det opplyses om den faktiske dosering. Informasjon til pasienten kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten, jf. pasient- og [brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2) tredje ledd.
+Vedtak om bruk av tvangsmidler skal gjøres av faglig ansvarlig.
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+I akutte nødsituasjoner kan ansvarshavende i avdelingen gjøre vedtak om bruk av mekaniske tvangsmidler, isolering eller kortvarig fastholding. Den faglig ansvarlige for vedtak skal så snart som mulig orienteres om vedtaket og ta stilling til om bruken av tvangsmidler skal opprettholdes.
 
-### IV. Tvangsmidler
+Vedtak om enkeltstående bruk av korttidsvirkende legemidler i beroligende eller bedøvende hensikt, jf. [psykisk helsevernloven § 4-8 andre ledd bokstav c](lov/1999-07-02-62/§4-8/ledd/2/bokstav/c), skal gjøres av lege.
 
-### § 24. Hvilke institusjoner som kan anvende tvangsmidler
+Vedtak om isolering, jf. [loven § 4-8 andre ledd bokstav b](lov/1999-07-02-62/§4-8/ledd/2/bokstav/b), kan ha en varighet på inntil 2 timer.
 
-Tvangsmidler som nevnt i psykisk [helsevernloven § 4-8](lov/1999-07-02-62/§4-8), kan bare anvendes i institusjon som er godkjent for å ha ansvar for pasienter under tvungen observasjon eller tvungent psykisk helsevern med døgnopphold.
+### § 28. Bruk av tvangsmidler
 
-I akutte situasjoner kan likevel tvangsmidler anvendes overfor pasienter som er under psykisk helsevern i andre institusjoner enn de som er nevnt i første ledd. Det skal i slike situasjoner straks vurderes om pasienten bør ha opphold i godkjent institusjon. Viser det seg nødvendig å bruke tvangsmidler gjentatte ganger, skal den som har ansvaret for vernet snarest mulig søke om overføring eller innleggelse av pasienten ved en institusjon der tilstanden kan vurderes og behandles mer effektivt og om mulig uten tvangsmidler.
+Bruk av tvangsmidler skal være så kortvarig som mulig og gjennomføres på en mest mulig skånsom og omsorgsfull måte. Behovet for tvangsmidlet skal vurderes fortløpende. Bruken av tvangsmidlet skal straks avbrytes dersom den ikke lenger er absolutt nødvendig og forholdsmessig.
 
-### § 25. Avgjørelse om bruk av tvangsmidler
+Vedtak om mekaniske tvangsmidler, jf. [psykisk helsevernloven § 4-8 andre ledd bokstav a](lov/1999-07-02-62/§4-8/ledd/2/bokstav/a), kan ha varighet på inntil 8 timer. Det skal fortløpende sørges for at pasienten så langt det er mulig løses helt eller delvis fra tvangsmidlet eller overføres til transportbelter.
 
-Det er ikke tillatt å bruke tvangsmidler i behandlingsøyemed.
+### § 29. Informasjon til pasienten og nærmeste pårørende om vedtak om bruk av tvang under gjennomføringen av psykisk helsevern
 
-Dersom en akutt nødsituasjon gjør at umiddelbar kontakt med den faglig ansvarlige ikke er mulig, kan ansvarshavende ved avdelingen fatte vedtak om bruk av mekaniske tvangsmidler, isolering eller kortvarig fastholding. I slike tilfeller skal den faglig ansvarlige så snart som mulig underrettes. Dersom situasjonen gjør fortsatt bruk av tvangsmidler nødvendig, skal den faglig ansvarlige ta standpunkt til om bruken av tvangsmidler skal opprettholdes.
+Melding om vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A) skal gis til pasienten etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27). Det skal i tillegg opplyses om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter [psykisk helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
 
-### § 26. Gjennomføring av bruk av tvangsmidler
+Pasientens nærmeste pårørende skal få informasjon om at det er gjort vedtak etter [loven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A) og om klageadgang og klagefrist. Pasientens nærmeste pårørende kan be om å få begrunnelsen for vedtaket.
 
-Bruken av tvangsmidler skal gjøres så kortvarig som mulig og gjennomføres på en mest mulig skånsom og omsorgsfull måte. Isolering skal maksimalt benyttes i inntil to timer av gangen. Ved sammenhengende bruk av mekaniske tvangsmidler ut over åtte timer, skal det så langt det er mulig ut fra pasientens tilstand og forholdene for øvrig, sørges for at pasienten gis friere forpleining i kortere eller lengre tid. Kan dette ikke gjøres, skal årsaken til dette nedtegnes.
+## Kapittel 4. Kontroll og klage
 
-Pasienten skal ha kontinuerlig tilsyn. Ved fastspenning i seng eller stol skal personellet oppholde seg i samme rom som pasienten, med mindre pasienten ønsker å være alene og dette er faglig forsvarlig.
+### § 30. Klage på vedtak om bruk av tvang i psykisk helsevern
 
-Bruken av tvangsmidler skal vurderes fortløpende, og straks avbrytes dersom den viser seg ikke å ha de forutsatte virkninger eller har uforutsette negative konsekvenser.
+Klage på vedtak etter [psykisk helsevernloven](lov/1999-07-02-62) kan settes frem skriftlig eller muntlig for den faglig ansvarlige for vedtaket, annet helsepersonell, eller direkte til statsforvalteren eller kontrollkommisjonen.
 
-### V. Generelle bestemmelser
+Den som mottar en muntlig klage, skal sørge for at den blir skrevet ned og formidlet til riktig instans.
 
-### § 27. Vedtakskompetanse. Underretning m.m.
+Dersom ikke annet følger av lov, skal vedtaket iverksettes selv om det er påklaget.
 
-Vedtak etter dette kapittelet treffes av den faglig ansvarlige, med mindre annet er særskilt bestemt, jf. andre ledd i paragrafen her og [§ 25](forskrift/2011-12-16-1258/§25) andre ledd. For vedtak om behandling med legemidler uten eget samtykke, jf. psykisk [helsevernloven § 4-4a](lov/1999-07-02-62/§4-4a), kreves det at den faglig ansvarlige er lege med spesialistutdanning som nevnt i denne forskrift § 5 andre ledd.
-
-Vedtak om enkeltstående bruk av korttidsvirkende legemidler i beroligende eller bedøvende hensikt, jf. psykisk [helsevernloven § 4-8](lov/1999-07-02-62/§4-8) andre ledd bokstav c, treffes av lege.
-
-Den underretning om vedtaket som skal gis etter reglene i [forvaltningsloven § 27](lov/1967-02-10/§27), skal gis både til pasienten og hans eller hennes nærmeste pårørende, med mindre pasienten motsetter seg dette. I tillegg til veiledningen som skal gis etter reglene i [forvaltningsloven § 17](lov/1967-02-10/§17) tredje og fjerde ledd, skal underretningen om vedtaket opplyse om pasientens rett til å la seg bistå av advokat eller annen fullmektig etter psykisk [helsevernloven § 1-7](lov/1999-07-02-62/§1-7).
-
-Det må fortløpende vurderes om vedtaket skal opprettholdes. I vurderingen skal det tas hensyn til pasientens syn på saken og eventuelle negative konsekvenser tiltaket kan ha for han eller henne. Dersom det foretas vesentlige endringer i innholdet i behandlingsopplegget, skal det treffes nytt vedtak.
-
-> Endret ved [forskrifter 26 okt 2012 nr. 998](forskrift/2012-10-26-998), [11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
-
-### § 28. Klage
-
-Klage på vedtak etter dette kapittelet kan fremsettes skriftlig eller muntlig for den faglig ansvarlige for vedtaket eller annet helsepersonell, eller direkte til statsforvalteren eller kontrollkommisjonen. Muntlig klage skrives ned av den som mottar den. Dersom det etter forholdene er grunn til det, kan den som tar imot en muntlig klage be om at pasienten gir skriftlig uttrykk for at han eller hun vil klage. Helsepersonellet skal bistå med nedtegning av klage og straks oversende klagen til statsforvalteren eller kontrollkommisjonen.
+Vedtak om behandling med legemidler skal likevel ikke iverksettes før klagesaken er avgjort hvis klage fremmes innen 48 timer etter at pasienten har fått melding om vedtaket. Dette gjelder likevel ikke hvis pasienten vil lide vesentlig helseskade ved utsettelse.
 
 Klageinstansen skal behandle klagen selv om tiltaket har opphørt, med mindre klageren skriftlig har gitt uttrykk for at klagen trekkes tilbake.
 
-Klage har ikke oppsettende virkning. Klage på vedtak om behandling med legemidler som blir inngitt innen 48 timer etter at pasienten har fått underretning om vedtaket, har likevel oppsettende virkning inntil klagesaken er avgjort. Dette gjelder likevel ikke hvis pasienten ved utsettelse vil lide alvorlig helseskade.
+### § 31. Statsforvalterens klagebehandling
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+Statsforvalteren skal uten ugrunnet opphold gjøre vedtak i sak om klage på vedtak om undersøkelse og behandling uten eget samtykke. Dersom det anses nødvendig, skal det engasjeres sakkyndig hjelp. Det skal tas personlig kontakt med pasienten, med mindre dette er åpenbart unødvendig. Dersom klagen tas til følge, skal det gjøres vedtak om at iverksatt behandling skal opphøre straks.
 
-### § 29. Klagebehandling
+Melding om vedtaket skal snarest mulig gis pasienten og den faglig ansvarlige for vedtaket. Dersom klageren er en annen enn pasienten, skal denne også gis melding om vedtaket.
 
-Kontrollkommisjonens behandling av klage reguleres i [kapittel 7](forskrift/2011-12-16-1258/kap7).
+### § 32. Kontrollkommisjonens ansvarsområde
 
-For statsforvalterens behandling av klage gjelder reglene i forvaltningsloven med de tilføyelser som følger av neste ledd.
+Helsedirektoratet fastsetter ansvarsområdet til den enkelte kontrollkommisjon, blant annet den enkelte kommisjonens ansvar for å kontrollere beslutninger etter [pasient- og brukerrettighetsloven § 4-6 femte](lov/1999-07-02-63/§4-6/ledd/5) og [sjette ledd](lov/1999-07-02-63/§4-6/ledd/6).
 
-Statsforvalteren skal treffe avgjørelser uten ugrunnet opphold. Dersom det anses påkrevet, skal det engasjeres sakkyndig hjelp. Det skal tas personlig kontakt med pasienten, med mindre dette er åpenbart unødvendig. Dersom klagen tas til følge, skal det treffes vedtak om øyeblikkelig opphør av eventuell iverksatt behandling. Underretning om avgjørelsen skal sendes til klageren med gjenpart til den faglig ansvarlige for vedtaket.
+### § 33. Taushetsplikt
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-### § 30. Registrering av vedtak om skjerming, behandling uten eget samtykke og bruk av tvangsmidler
-
-Opplysninger om vedtak om skjerming, behandling uten eget samtykke og bruk av tvangsmidler, skal føres inn i protokoller godkjent av Helsedirektoratet. Ved legemiddelbehandling skal det gis en nøyaktig oppregning over den medisinering som er foretatt.
-
-Statsforvalteren og kontrollkommisjonen skal på forespørsel forelegges protokollene.
-
-Bruk av skjerming eller tvangsmidler over lengre tid skal uoppfordret meldes til kontrollkommisjonen.
-
-I tilfeller som nevnt i [§ 24](forskrift/2011-12-16-1258/§24) andre ledd, skal tvangsmiddelets art, begrunnelse for bruken, tidspunktet for iverksettelse og opphør samt navn på den som har truffet vedtaket, nedtegnes. Melding om tvangsmiddelbruken skal snarest sendes til kontrollkommisjonen.
-
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-## Kapittel 5. Gjennomføring av tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon
-
-### § 31. Kontaktperson
-
-Pasienter som er under tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon, skal ha en kontaktperson blant institusjonens behandlingspersonell på dagtid. Institusjonen må påse at pasienten og hans eller hennes pårørende vet hvem de kan kontakte utenom institusjonens åpningstid.
-
-### § 32. Samarbeid med den kommunale helse- og omsorgstjenesten og sosialtjenesten
-
-Den ansvarlige institusjon skal etablere et samarbeid med den kommunale helse- og omsorgstjenesten og sosialtjenesten om å lage et opplegg for vernet for pasienter som er under tvungen observasjon eller tvungent psykisk helsevern uten døgnopphold i institusjon. Et slikt samarbeid skal nedfelles i pasientens individuelle plan.
-
-### § 33. Samarbeid med pasientens pårørende
-
-Under forutsetning av at pasienten ikke motsetter seg det, skal den ansvarlige institusjon søke å etablere et samarbeid med pasientens pårørende.
-
-### § 34. Henting
-
-Dersom pasienten ikke møter til undersøkelse eller behandling, kan institusjonens personell om nødvendig hente vedkommende. Hentingen skal skje på en mest mulig skånsom måte for pasienten. Henting kan eventuelt skje med bistand fra den kommunale helse- og omsorgstjenesten eller sosialtjenesten. Dersom det er behov for bruk av fysisk makt, skal det benyttes bistand fra politiet.
-
-Dersom pasienten etter en henting likevel ikke møter til undersøkelse eller behandling, skal det på nytt vurderes om tvungen observasjon eller tvungent psykisk helsevern i form av døgnopphold er det beste for pasienten.
-
-## Kapittel 6. Pasienter i privat forpleining
-
-### § 35. Virkeområde
-
-Dette kapittelet omfatter forpleining av pasienter i privat forpleining i det psykiske helsevernet i henhold til forpleiningskontrakter inngått før 1. januar 2001.
-
-### § 36. Krav til privat forpleining
-
-Pasient i privat forpleining skal tilbysnødvendig pleie og omsorg,undersøkelse og behandling i samsvar med pasientens behov,enerom av tilfredsstillende størrelse med tilgang til stue, kjøkken, bad og toalett,et tilrettelagt aktivitetstilbud.
-
-### § 37. Forpleiningskontrakt
-
-Ved privat forpleining skal det foreligge en forpleiningskontrakt mellom det regionale helseforetaket og forpleieren. Statsforvalteren, kontrollkommisjonen og kommunelegen i den kommunen der forpleiningsstedet ligger skal ha gjenpart av kontrakten.
-
-Det regionale helseforetaket kan heve kontrakten med øyeblikkelig virkning dersom forpleieren åpenbart setter seg ut over bestemmelser i kontrakten eller denne forskriften. For øvrig kan begge parter si opp kontrakten med én måneds varsel.
-
-Dersom pasientens tilstand forverres vesentlig og ikke lenger er i samsvar med forutsetningene for forpleiningsforholdet, kan forpleieren kreve pasienten snarest mulig overført til annen omsorg. Kravet fremsettes overfor vedkommende regionale helseforetak.
-
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-### § 38. Forpleierens plikter
-
-Forpleieren skal holde øye med pasientens allmenntilstand, og plikter å varsle den kommunale helse- og omsorgstjenesten ved behov for legetilsyn eller sykepleie for somatisk sykdom.
-
-Forpleieren skal føre tilsyn med pasientens personlige eiendeler.
-
-Helsedirektoratet kan gi nærmere retningslinjer for forpleierens regnskap over pasientens personlige andel av folketrygdens ytelser.
-
-Pasienten må ikke settes til arbeid som medfører risiko for at han eller hun kan komme til skade. Pasienten skal ha godtgjørelse for produktivt arbeid.
-
-Dersom pasienten blir borte fra forpleiningsstedet, skal forpleieren straks varsle den institusjon eller lege som har ansvaret for pasienten. Dersom pasienten ikke kommer til rette innen rimelig tid, skal hans eller hennes verdisaker og effekter oversendes institusjonen eller den institusjonen bestemmer.
-
-Ved pasientens død skal forpleieren straks melde fra til den institusjon eller lege som har ansvaret for pasienten som sender melding til det regionale helseforetaket. Forpleieren melder fra til tingretten eller lensmannen i lensmannsdistrikt. Forpleieren plikter å ta vare på pasientens eiendeler til boet er registrert og tingretten har truffet avgjørelse om disponeringen.
-
-### § 39. Taushetsplikt
-
-Forpleieren, hans eller hennes husstand og andre personer i forpleierens tjeneste har taushetsplikt i henhold til [helsepersonelloven kapittel 5](lov/1999-07-02-64/kap5).
-
-### § 40. Forbud mot restriktive tiltak
-
-Bruk av tvangsmidler eller andre restriktive tiltak er ikke tillatt.
-
-Forpleieren skal straks varsle den institusjon eller lege som har ansvaret for pasienten dersom det oppstår vansker i tilknytning til oppholdet eller betydelige forandringer i pasientens tilstand.
-
-### § 41. Faglig oppfølging
-
-Pasienter i privat forpleining og forpleiningsstedet skal være under nærmere faglig oppfølging av den institusjon som det regionale helseforetaket peker ut. Personell fra institusjonen skal besøke forpleiningsstedet så ofte det er nødvendig for å sørge for at pasienten får tilfredsstillende behandling, omsorg og pleie, og for å påse at forpleiningsstedet oppfyller kravet til forsvarlig tjeneste. Rapport fra hvert besøk med vurdering av pasienten og forpleiningsstedet nedtegnes i pasientens journal.
-
-Institusjonen skal gi forpleiningsstedet nødvendig opplæring og veiledning slik at kravet til forsvarlig tjeneste kan oppfylles.
-
-For pasienter som per 1. januar 2001 står under tilsyn av offentlig lege, gjelder første og andre ledd tilsvarende for hans eller hennes leges oppfølging av pasienten frem til oppfølgingsansvaret er overført til en institusjon under det psykiske helsevernet.
-
-### § 42. Innberetninger
-
-Oversikt over pasienter i privat forpleining skal inngå i institusjonens statistikk.
-
-Institusjonen eller den lege som har ansvaret for pasienten, skal hvert år sende
-
-Statsforvalteren en oversikt over pasienter under privat forpleining og redegjøre for pasientenes tilstand, behandling og forpleining.
-
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-## Kapittel 7. Kontrollkommisjonens virksomhet
-
-### I. Generelle bestemmelser
-
-### § 43. Kontrollkommisjonens ansvarsområde
-
-Helsedirektoratet fastsetter ansvarsområdet til den enkelte kontrollkommisjon.
-
-### § 44. Taushetsplikt
-
-Kontrollkommisjonens medlemmer har taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13) til [§ 13e](lov/1967-02-10/§13e). Taushetsplikten gjelder også pasientens fødselssted, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.
+Kontrollkommisjonens medlemmer har taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13) til [§ 13e](lov/1967-02-10/§13e). Taushetsplikten gjelder også fødselsnummer eller nummer med tilsvarende funksjon, statsborgerskap, bosted, postadresse, e-postadresse, telefonnummer, sivilstand, yrke, arbeidsgiver og arbeidssted.
 
 Brudd på taushetsplikten straffes etter [straffeloven § 209](lov/2005-05-20-28/§209) og [§ 210](lov/2005-05-20-28/§210).
 
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
+### § 34. Kontrollkommisjonens møter
 
-### § 45. Møter
+I saker om tvungen observasjon, etablering, opprettholdelse eller opphør av tvungent psykisk helsevern og overføring av en pasient til opphold i eller tiltak under ansvar av institusjon som nevnt i [psykisk helsevernloven § 3-5](lov/1999-07-02-62/§3-5), skal det holdes fysiske møter. I særlige tilfeller kan møtet gjennomføres som fjernmøte der deltakerne kan se og kommunisere med hverandre.
 
-Kontrollkommisjonens leder skal beramme tid og sted for møter. Et medlem som ikke kan møte, skal straks melde dette til kontrollkommisjonens leder, som innkaller varamedlemmet.
+Når kontrollkommisjonen avgjør klager på vedtak om gjennomføring av psykisk helsevern etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A), gjennomfører tremånederskontroller, jf. [psykisk helsevernloven § 3-8 andre ledd](lov/1999-07-02-62/§3-8/ledd/2), samtykker til forlengelse av tvungent psykisk helsevern, jf. [psykisk helsevernloven § 3-8 tredje ledd](lov/1999-07-02-62/§3-8/ledd/3) og gjennomfører kontroller etter [pasient- og brukerrettighetsloven § 4-6 sjette ledd](lov/1999-07-02-63/§4-6/ledd/6), kan møter gjennomføres som fjernmøte der deltakerne kan se og kommunisere med hverandre.
 
-Møtene skal holdes for lukkede dører. Kontrollkommisjonen kan likevel gi adgang for andre enn dem som er berørt av saken, dersom særlige grunner taler for det.
+Kontrollkommisjonens leder skal fastsette tid og sted for møter. Et medlem som ikke kan møte, skal straks melde dette til kontrollkommisjonens leder, som innkaller varamedlemmet.
 
-### § 46. Protokoll
+Møtene skal holdes for lukkede dører. Kontrollkommisjonen kan likevel gi andre enn dem som er berørt av saken adgang dersom særlige grunner taler for det.
+
+### § 35. Møteprotokoll
 
 Kontrollkommisjonen skal føre protokoll over sin virksomhet.
 
-Protokollen skal blant annet inneholde opplysninger om tid og sted for kontrollkommisjonens møter, kontrollkommisjonens sammensetning og hvilke saker som er behandlet. Dersom det er behandlet klagesak, skal det fremgå hvem som er varslet, hvem av de varslede som har møtt og avgitt forklaring eller uttalelse, og hvilke dokumenter som har vært fremlagt.
+Protokollen skal blant annet inneholde opplysninger om tid og sted for kontrollkommisjonens møter, kontrollkommisjonens sammensetning og hvilke saker som er behandlet. Når kontrollkommisjonen har behandlet en klagesak, skal det fremgå hvem som er varslet, hvem av de varslede som har møtt og avgitt forklaring eller gitt uttalelse, og hvilke dokumenter som har vært fremlagt.
 
-Avgjørelser som treffes i kontrollkommisjonens møter skal protokolleres. I protokollen skal det også redegjøres for kontrollkommisjonens kontroll med pasienters opphold ved institusjonen.
+Avgjørelser som tas i kontrollkommisjonens møter, skal skrives ned i møteprotokollen. I protokollen skal det også gjøres rede for kontrollkommisjonens kontroll med pasienters opphold ved institusjonen.
 
-### § 47. Rapportering
+### § 36. Rapportering
 
-Kontrollkommisjonen skal innen 1. april hvert år gi Helsedirektoratet en rapport med oversikt over foregående års møte- og tilsynsvirksomhet og de saker som er behandlet.
+Kontrollkommisjonen skal hvert år innen 1. april gi Helsedirektoratet en rapport med oversikt over foregående års møter og institusjonsbesøk og sakene som er behandlet.
 
-Helsedirektoratet utferdiger nærmere retningslinjer om hva rapporten skal inneholde.
+Helsedirektoratet kan gi nærmere retningslinjer om hva rapporten skal inneholde.
 
-### § 48. Kontrollkommisjonens tilgang på opplysninger
+### § 37. Kontrollkommisjonens tilgang på opplysninger
 
-På forespørsel fra kontrollkommisjonen, skal helsepersonell gi opplysninger og fremlegge dokumenter som kontrollkommisjonen vurderer som nødvendig for utøvelsen av sin virksomhet, herunderdokumenter utarbeidet i forbindelse med vedtak om tvungen observasjon og tvungent psykisk helsevernoppgave over pasienter som er overført til opphold i eller til andre tiltak under ansvar av institusjon som nevnt i psykisk [helsevernloven § 3-5](lov/1999-07-02-62/§3-5), jf. loven [§ 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4)pasientjournalindividuell plan, jf. psykisk [helsevernloven § 4-1](lov/1999-07-02-62/§4-1)protokoll for bruk av skjerming, jf. psykisk [helsevernloven § 4-3](lov/1999-07-02-62/§4-3)protokoll for behandling uten eget samtykke, jf. psykisk [helsevernloven § 4-4](lov/1999-07-02-62/§4-4)protokoll for bruk av tvangsmidler, jf. psykisk [helsevernloven § 4-8](lov/1999-07-02-62/§4-8).
+Helsepersonell i spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten skal på forespørsel fra kontrollkommisjonen, gi opplysninger og fremlegge dokumenter som kontrollkommisjonen vurderer som nødvendige for utøvelsen av sin virksomhet, inkludertdokumenter utarbeidet i forbindelse med vedtak om tvungen observasjon og tvungent psykisk helsevernoversikt over pasienter som er overført til opphold i eller til andre tiltak under ansvar av institusjon som nevnt i [psykisk helsevernloven § 3-5](lov/1999-07-02-62/§3-5), jf. [loven § 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4)pasientjournalindividuell plan, jf. [psykisk helsevernloven § 4-1](lov/1999-07-02-62/§4-1)vedtak etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [kapittel 4A](lov/1999-07-02-62/kap4A)ansvarlig helsepersonells beslutning om helsehjelp etter [pasient- og brukerrettighetsloven § 4-6 andre ledd](lov/1999-07-02-63/§4-6/ledd/2), jf. [femte ledd](lov/1999-07-02-63/§4-6/ledd/5)oversikt over vedtak om tvungent vern og om gjennomføring av tvang, jf. [§ 5](forskrift/2026-05-29-941/§5).
 
-### § 49. Meddelelser til pasienten
+## Kapittel 5. Saksbehandling m.v.
 
-Meddelelser til pasienten skal skje i lukket brev til han eller henne personlig.
+### § 38. Redegjørelse fra den faglig ansvarlige m.v.
 
-Meddelelsen kan sendes ved bruk av elektronisk kommunikasjon såfremt pasienten samtykker til det, og det er benyttet en betryggende metode for å sikre konfidensialitet.
+I klagesaker etter [psykisk helsevernloven kapittel 3](lov/1999-07-02-62/kap3) og klage på overføringsvedtak etter [psykisk helsevernloven § 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4), skal den faglig ansvarlige på eget initiativ gi kontrollkommisjonen en skriftlig redegjørelse.
 
-### § 50. Kontroll med pasienter i privat forpleining
+I saker etter [psykisk helsevernloven § 2-1 andre ledd](lov/1999-07-02-62/§2-1/ledd/2) skal ansvarlig behandler på eget initiativ gi kontrollkommisjonen en skriftlig redegjørelse.
 
-Kontrollkommisjonen skal treffe de avgjørelser og føre den kontroll med pasienter i privat forpleining som følger av psykisk helsevernloven og denne forskriften.
+I andre klagesaker etter [psykisk helsevernloven](lov/1999-07-02-62) kan kontrollkommisjonen be om at den faglig ansvarlige for vedtak gir en skriftlig redegjørelse innen en frist fastsatt av kontrollkommisjonen.
 
-Kontrollkommisjonens besøk skal vanligvis være uanmeldt, og bør skje til ulike tider på dagen. Finner kontrollkommisjonen at behandling og forpleining ikke er tilfredsstillende, eller at pasientens tilstand krever forandring i forpleiningen, skal det meldes fra til den institusjon eller lege som har ansvaret for pasienten, som straks skal ta de nødvendige skritt for å rette på forholdet eller få pasienten overført til institusjonen eller annet egnet sted. Underretning skal samtidig sendes statsforvalteren.
+Redegjørelsen skal inneholdeopplysninger om avgjørelsen som er påklaget, inkludert vurdering av om lovens vilkår er oppfyltinformasjon om hvilke opplysninger avgjørelsen er bygget på.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+Kontrollkommisjonen skal, så snart som mulig, gjøre redegjørelsen kjent for pasienten og eventuelt den som handler på vegne av pasienten.
 
-### II. Saksbehandlingsregler i klagesaker
+### § 39. Informasjon til pasienten
 
-### § 51. Virkeområde
+Kontrollkommisjonen skal informere pasienten eller den som handler på vegne av pasienten omnavnet på kontrollkommisjonens medlemmerat pasienten og/eller den som handler på vegne av pasienten, har rett til å være til stede og at pasienten har anledning til å uttale seg før kontrollkommisjonen avgjør sakentidspunktet for møtet i kontrollkommisjonen ogat pasienten eller den som handler på vegne av pasienten, snarest mulig må gi beskjed dersom de mener at noen av kontrollkommisjonens medlemmer er inhabile.
 
-Dette avsnittet gjelder for alle klagesaker. Ved behandling av klage i sak om tvungen observasjon, etablering, opprettholdelse eller opphør av tvungent psykisk helsevern, samt sak om overføring, kommer også bestemmelsene i psykisk [helsevernloven § 6-4](lov/1999-07-02-62/§6-4) til anvendelse.
+### § 40. Kontrollkommisjonens ansvar for opplysning av saken
 
-### § 52. Redegjørelse fra den faglig ansvarlige for vedtak
+Kontrollkommisjonens leder skal sørge for at saken blir så godt opplyst som mulig.
 
-Kontrollkommisjonen kan be om at den faglig ansvarlige for vedtak gir en skriftlig redegjørelse innen en frist fastsatt av kontrollkommisjonen. I klagesaker etter psykisk [helsevernloven kapittel 3](lov/1999-07-02-62/kap3) og klage på overføringsvedtak etter [§ 4-10](lov/1999-07-02-62/§4-10) og [§ 5-4](lov/1999-07-02-62/§5-4), skal den faglig ansvarlige på eget initiativ gi skriftlig redegjørelse.
+Kontrollkommisjonens leder skal sørge for at vitner og sakkyndige som skal forklare seg for kontrollkommisjonen, blir innkalt.
 
-Redegjørelsen skal inneholde opplysninger om den avgjørelse som er påklaget, herunder den faglig ansvarliges vurdering av lovens vilkår. Det skal også redegjøres for de opplysninger som den faglig ansvarlige har bygget sin avgjørelse på.
+Kontrollkommisjonen kan avvise krav fra pasienten eller den som handler på vegne av pasienten, om å få innhentet opplysninger eller avhørt vitner, dersom opplysningene synes å være uten betydning for saken. Avgjørelsen skal begrunnes.
 
-Når redegjørelsen er kommet inn til kontrollkommisjonen, skal den snarest gjøres kjent for pasienten og den som eventuelt handler på pasientens vegne.
+Forklaringer som gis til lederen alene skal skrives ned. Kontrollkommisjonen avgjør i hvert enkelt tilfelle i hvilken utstrekning forklaringer for kontrollkommisjonen skal skrives ned.
 
-### § 53. Informasjon til pasienten
+[Forvaltningsloven § 17](lov/1967-02-10/§17) gjelder tilsvarende.
 
-Kontrollkommisjonen skal underrette pasienten eller den som handler på hans eller hennes vegne omnavnet på kontrollkommisjonens medlemmerat pasienten og/eller den som handler på hans eller hennes vegne, har rett til å være til stede, jf. [§ 56](forskrift/2011-12-16-1258/§56)tidspunktet for berammelse og at pasienten har anledning til å uttale seg før kontrollkommisjonen avgjør sakenat pasienten eller den som handler på hans eller hennes vegne, må gi beskjed snarest mulig dersom det vil anføres at noen av kontrollkommisjonens medlemmer er inhabile.
+### § 41. Kontrollkommisjonens vedtak i klagesak
 
-### § 54. Sakens opplysning
+Når kontrollkommisjonens leder finner at sak om klage på vedtak etter [psykisk helsevernloven](lov/1999-07-02-62) er tilstrekkelig forberedt, tas saken opp til avgjørelse.
 
-Kontrollkommisjonens leder skal påse at saken blir så godt opplyst som mulig.
+Vedtak skal gjøres i møte av fulltallig kommisjon. Før det gjøres vedtak, skal kontrollkommisjonen diskutere saken og stemme over resultatet. Ved stemmelikhet har kontrollkommisjonens leder dobbeltstemme.
 
-Skal vitner eller sakkyndige forklare seg for kontrollkommisjonen, sørger lederen for at de blir innkalt. Begjæring fra pasienten eller den som handler på hans eller hennes vegne, om å få innhentet opplysninger eller avhørt vitner, kan avvises av kontrollkommisjonen dersom opplysningene synes å være uten betydning for saken.
+Vedtaket skal inneholdeopplysning om kontrollkommisjonens sammensetning og tid og sted for det avsluttende møteten kort fremstilling av hva saken gjelder, avgjørelsesgrunnene og avgjørelsenomtale av de faktiske forhold som har vært avgjørende for vedtaket og de hensyn det er lagt vekt på ved skjønnsutøvelseopplysning om eventuell dissensgrunner for de forskjellige standpunkter dersom vedtaket ikke er enstemmig.
 
-Kontrollkommisjonens avgjørelse skal begrunnes.
+Kontrollkommisjonen skal om mulig gjøre sitt vedtak innen 2 uker etter at saken ble brakt inn for den. Dersom fristen ikke kan overholdes, skal grunnen til dette gå fram av vedtaket.
 
-Forklaringer som avgis til lederen alene skal skrives ned. For øvrig avgjør kontrollkommisjonen i hvert enkelt tilfelle i hvilken utstrekning protokollering av forklaringer skal finne sted.
+Vedtaket skal underskrives av kontrollkommisjonens medlemmer eller av kontrollkommisjonens leder etter fullmakt. Dersom kontrollkommisjonens leder har fått fullmakt, skal det gå fram av vedtaket.
 
-I saker etter psykisk [helsevernloven § 6-4](lov/1999-07-02-62/§6-4) skal det holdes møter. [Forvaltningsloven § 17](lov/1967-02-10/§17) gjelder tilsvarende.
+Melding om vedtaket skal snarest mulig gis til pasienten og den faglig ansvarlige for vedtaket. Dersom klageren er en annen enn pasienten, skal også denne gis melding om vedtaket.
 
-### § 55. Kontrollkommisjonens vedtak
+### § 42. Pasientens rett til å være til stede i møte
 
-Når kontrollkommisjonens leder finner at saken er tilstrekkelig forberedt, tas saken opp til avgjørelse.
+Pasienten og den som handler på vegne av pasienten, har rett til å være til stede i møter der det skal opptas forklaringer eller gis muntlige redegjørelser til bruk i saken.
 
-Vedtaket treffes av fulltallig kommisjon. Før vedtak treffes, holder kontrollkommisjonen rådslagning og stemmegivning. Når stemmene står likt, gjør lederens stemme utslaget.
+Dersom sterke grunner taler for det, kan kontrollkommisjonen bestemme at pasienten skal forlate møtet. Pasienten skal gjøres kjent med det som er opplyst under fraværet. Informasjon kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten selv. Informasjon kan også unnlates dersom det er klart utilrådelig av hensyn til personer som står pasienten nær, jf. [pasient- og brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2).
 
-Vedtaket skal inneholdeopplysning om kontrollkommisjonens sammensetning samt tid og sted for det avsluttende møteten kort fremstilling av hva saken gjelder, avgjørelsesgrunnene og slutningende faktiske forhold som har vært avgjørende for vedtaket samt de hensyn som er lagt vekt på ved en eventuell skjønnsutøvelseopplysning om vedtaket er enstemmiggrunner for de forskjellige standpunkter dersom vedtaket ikke er enstemmig.
+### § 43. Dokumentkontroll av vedtak om tvungen observasjon og tvunget psykisk helsevern
 
-Kontrollkommisjonen skal om mulig treffe sitt vedtak innen 2 uker etter at saken ble brakt inn for den. Dersom fristen ikke kan overholdes, skal grunnen til dette fremgå av vedtaket.
+Dokumentkontroll av vedtak om tvungen observasjon eller tvungent psykisk helsevern, jf. [psykisk helsevernloven § 3-8 første ledd](lov/1999-07-02-62/§3-8/ledd/1) kan gjøres av ett kommisjonsmedlem.
 
-Vedtaket skal underskrives av kontrollkommisjonens medlemmer eller av kontrollkommisjonens leder etter fullmakt. Dersom det foreligger slik fullmakt, skal det fremgå av vedtaket.
-
-Kopi av vedtaket skal snarest mulig sendes pasienten, den som handler på pasientens vegne og den faglig ansvarlige for vedtaket. Dersom klageren er en annen enn pasienten eller den som handler på hans eller hennes vegne, skal også denne underrettes om vedtaket.
-
-### § 56. Pasientens rett til å være til stede
-
-Pasienten og den som handler på hans eller hennes vegne, har rett til å være til stede i møter der det skal opptas forklaringer eller gis muntlige redegjørelser til bruk i saken.
-
-Dersom sterke grunner taler for det, kan kontrollkommisjonen bestemme at pasienten skal forlate møtet. Når pasienten kommer tilbake til møtelokalet skal han eller hun gjøres kjent med det som er opplyst under hans eller hennes fravær. Informasjon kan unnlates dersom det er påtrengende nødvendig for å hindre fare for liv eller alvorlig helseskade for pasienten selv. Informasjon kan også unnlates dersom det er klart utilrådelig av hensyn til personer som står pasienten nær, jf. pasient- og [brukerrettighetsloven § 3-2](lov/1999-07-02-63/§3-2).
-
-> Endret ved [forskrift 11 mai 2017 nr. 562](forskrift/2017-05-11-562) (i kraft 1 sep 2017).
-
-### III. Etterprøving av vedtak uten klage
-
-### § 57. Dokumentkontroll
-
-Når noen er undergitt tvungen observasjon eller tvungent psykisk helsevern, skal kontrollkommisjonen snarest mulig forvisse seg om at riktig fremgangsmåte er fulgt og at vedtaket bygger på en vurdering av vilkårene i psykisk [helsevernloven § 3-2](lov/1999-07-02-62/§3-2) eller [§ 3-3](lov/1999-07-02-62/§3-3), jf. loven [§ 3-8](lov/1999-07-02-62/§3-8) første ledd.
-
-Dersom kontrollkommisjonen på bakgrunn av de fremlagte dokumenter finner at vedtaket lider av alvorlige formelle eller materielle feil, kan vedtaket kjennes ugyldig.
+Dersom kontrollkommisjonen på bakgrunn av de fremlagte dokumentene finner at vedtaket lider av alvorlige formelle eller materielle feil, kan kontrollkommisjonen kjenne vedtaket ugyldig. Vedtaket gjøres av fulltallig kommisjon.
 
 Resultatet av dokumentkontrollen skal protokolleres.
 
-### § 58. Etterprøving etter 3 måneder
+### § 44. Kontroll av vedtak om tvungent psykisk helsevern etter 3 måneder
 
-Dersom det ikke klages over etableringen av tvungent psykisk helsevern, skal likevel kontrollkommisjonen, når det er gått 3 måneder etter vedtaket, av eget tiltak vurdere om det er behov for tvungent vern, jf. psykisk [helsevernloven § 3-8](lov/1999-07-02-62/§3-8) andre ledd.
+Kontrollkommisjonens vurdering av om vilkårene for vedtak om etablering av tvungent psykisk helsevern som ikke påklages innen 3 måneder er oppfylt, jf. [psykisk helsevernloven § 3-8 andre ledd](lov/1999-07-02-62/§3-8/ledd/2), skal baseres på en oppdatert vurdering fra den faglig ansvarlige for vedtaket. Kontrollkommisjonen skal særlig vurdere om vernet fortsatt er hensiktsmessig og forvisse seg om at pasienten har fått en individuell plan eller at årsaken til at pasienten ikke har fått en individuell plan er tilstrekkelig dokumentert.
 
-Kontrollkommisjonen skal vurdere om vilkårene for tvungent psykisk helsevern fremdeles er til stede. Hensiktsmessigheten av vernet skal særlig vurderes. Kontrollkommisjonen skal samtidig kontrollere at pasienten har fått individuell plan.
+Kontrollkommisjonen kan prøve alle sider av saken.
 
-Kontrollkommisjonen skal påse at saken er så godt opplyst som mulig, og kan prøve alle sider av saken. Pasienten har rett til å uttale seg, jf. psykisk [helsevernloven § 3-9](lov/1999-07-02-62/§3-9). Vedtaket treffes av fulltallig kommisjon.
+Vedtaket gjøres av fulltallig kommisjon.
 
-Kopi av vedtaket sendes pasienten, den som handler på pasientens vegne og den faglig ansvarlige for vedtaket snarest mulig.
+Dersom kontrollkommisjonen finner at lovens vilkår ikke lenger er oppfylt, skal den gjøre vedtak om opphør av tvungent psykisk helsevern.
 
-### § 59. Samtykke til forlengelse av tvungent psykisk helsevern
+Melding om vedtaket skal snarest mulig gis til pasienten og den faglig ansvarlige for vedtaket.
 
-Dersom tvungent psykisk helsevern skal ha varighet utover 1 år, må kontrollkommisjonen samtykke til dette, jf. psykisk [helsevernloven § 3-8](lov/1999-07-02-62/§3-8) tredje ledd.
+### § 45. Årsforlengelse av tvungent psykisk helsevern
 
-Saksbehandlingen ved forlengelse vil være tilsvarende den etterprøving som følger av [§ 58](forskrift/2011-12-16-1258/§58).
+Kontrollkommisjonens vurdering av om vilkårene for forlengelse av vedtak om tvungent psykisk helsevern er oppfylt, jf. [psykisk helsevernloven § 3-8 tredje ledd](lov/1999-07-02-62/§3-8/ledd/3) skal baseres på en oppdatert vurdering fra den faglig ansvarlige for vedtaket. Kontrollkommisjonen skal særlig vurdere om vernet fortsatt er hensiktsmessig og kontrollere at pasienten har fått en individuell plan eller at årsaken til at pasienten ikke har fått en individuell plan er tilstrekkelig dokumentert.
 
-### § 60. Psykisk helsevern for barn under 16 år
+Kontrollkommisjonen kan prøve alle sider av saken.
 
-Psykisk helsevern for barn under 16 år som ikke er enig i tiltaket, kan iverksettes selv om kontrollkommisjonen ikke har behandlet saken etter psykisk [helsevernloven § 2-1](lov/1999-07-02-62/§2-1) andre ledd og [§ 2-2](lov/1999-07-02-62/§2-2) fjerde ledd.
+Vedtaket gjøres av fulltallig kommisjon.
 
-Barnet kan når som helst be om at det psykiske helsevernet skal opphøre. Dersom det besluttes at vernet skal opprettholdes, kan spørsmålet bringes inn for kontrollkommisjonen til etterprøving. Kontrollkommisjonen skal snarest mulig ta saken til behandling.
+Dersom kontrollkommisjonen finner at lovens vilkår er oppfylt skal den samtykke til forlenging av vedtaket.
 
-### IV. Kontroll med pasientens opphold ved institusjonen
+Melding om vedtaket skal snarest mulig sendes pasienten og den faglig ansvarlige for vedtaket.
 
-### § 62. Besøk
+### § 46. Prøving av psykisk helsevern for barn under 16 år
 
-Kontrollkommisjonen skal minst 1 gang per måned besøke institusjoner eller avdelinger som er godkjent for å ha ansvar for pasienter under tvungent psykisk helsevern med døgnopphold. I andre institusjoner og steder med privat forpleining skal besøk skje minst 4 ganger i året. Besøket kan skje ved ett eller flere av kontrollkommisjonens medlemmer. Noen av besøkene bør skje uanmeldt.
+Psykisk helsevern for barn under 16 år som ikke er enig i tiltaket, kan iverksettes selv om kontrollkommisjonen ikke har behandlet saken etter [psykisk helsevernloven § 2-1 andre ledd](lov/1999-07-02-62/§2-1/ledd/2) og [§ 2-2 fjerde ledd](lov/1999-07-02-62/§2-2/ledd/4).
 
-Helsedirektoratet kan gi dispensasjon fra første ledd.
+Barnet kan når som helst be om at det psykiske helsevernet skal opphøre. Dersom det besluttes at vernet skal opprettholdes, kan barnet bringe spørsmålet inn for kontrollkommisjonen til etterprøving. Kontrollkommisjonen skal snarest mulig behandle saken.
 
-### § 63. Om kontrollen
+### § 47. Dokumentkontroll av vedtak om gjennomføring av psykisk helsevern
 
-Kontrollkommisjonen skal føre kontroll med bruken av restriktive tiltak.
+Kontrollkommisjonen skal kontrollere alle vedtak om gjennomføring av psykisk helsevern som institusjonen har gjort etter [psykisk helsevernloven kapittel 4](lov/1999-07-02-62/kap4) og [4A](lov/1999-07-02-62/kap4A) og gjennomføringen av skjerming, behandling uten eget samtykke og tvangsmidler. Kontrollkommisjonen skal forvisse seg om at riktig framgangsmåte er fulgt og at vedtaket bygger på en vurdering av lovens vilkår. Kontrollen kan gjøres av ett kommisjonsmedlem. Dersom kontrollkommisjonen på bakgrunn av de fremlagte dokumentene finner at et vedtak lider av alvorlige formelle eller materielle feil, kan kontrollkommisjonen kjenne vedtaket ugyldig.
 
-Kontrollkommisjonen skal under sine besøk gjennomgå protokollene om bruk av skjerming, behandling uten eget samtykke og tvangsmidler. Kontrollkommisjonen skal undersøke om det er husordensreglement ved institusjonen og påse at dette er i overensstemmelse med gjeldende lovgivning.
+### § 48. Dokumentkontroll av beslutning om helsehjelp for alvorlig sinnslidelse som pasienten ikke motsetter seg
 
-Kontrollkommisjonen skal under sine besøk gi pasientene anledning til å fremsette klager over vedtak etter psykisk helsevernloven, og ellers ta opp forhold av betydning for pasientens opphold ved institusjonen eller forpleiningsstedet. Pasienter som er innlagt i institusjonen uten eget samtykke etter siste besøk, skal få tilbud om samtale med kontrollkommisjonen. For øvrig kan kontrollkommisjonens medlemmer så vidt mulig bistå pasientene med råd og hjelp.
+Den som er ansvarlig for helsehjelpen skal informere kontrollkommisjonens leder om beslutninger om helsehjelp for en alvorlig sinnslidelse etter [pasient- og brukerrettighetsloven § 4-6](lov/1999-07-02-63/§4-6) og legge fram relevante deler av pasientens journal. Det skal gjøres rede for hvordan vilkårene i [pasient- og brukerrettighetsloven § 4-6 andre ledd](lov/1999-07-02-63/§4-6/ledd/2) er oppfylt.
 
-Kontrollkommisjonen skal varsle statsforvalteren om alvorlige forhold ved institusjonen. Ellers kan kontrollkommisjonen ta forholdet opp med institusjonens ledelse eller den faglig ansvarlige for vedtak.
+Dersom kontrollkommisjonens leder på bakgrunn av de fremlagte dokumentene finner at beslutningen lider av alvorlige formelle eller materielle feil, kan lederen kjenne beslutningen om å gi helsehjelp ugyldig.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+### § 49. Kontroll av beslutning om helsehjelp for alvorlig sinnslidelse som pasienten ikke motsetter seg, etter 6 måneder
 
-### V. Godtgjøring m.m.
+Ved kontroll etter [pasient- og brukerrettighetsloven § 4-6 sjette ledd](lov/1999-07-02-63/§4-6/ledd/6), kan kontrollkommisjonen prøve alle sider av saken.
 
-### § 64. Omfang
+Vedtaket gjøres av fulltallig kommisjon.
 
-Godtgjøring gis for faktisk medgått tid til møteforberedelse, arbeid i møter, klagebehandling, tilsynsreiser m.m. Det skal være den samme godtgjøring for arbeid i og utenfor møter. Det gis godtgjøring for hver påbegynte halvtime. Godtgjøring for forberedende arbeid og reisefravær avrundes under ett oppover til nærmeste halvtime.
+Melding om vedtaket skal snarest mulig gis til pasienten og den som er ansvarlig for helsehjelpen.
 
-### § 65. Satser
+Dersom kontrollkommisjonen finner at lovens vilkår ikke lenger er oppfylt, skal den oppheve beslutningen.
 
-Kontrollkommisjonens medlemmer får godtgjøring per time. Satsen beregnes i prosent av den til enhver tid gjeldende salærsatsen fastsatt av Justisdepartementet etter [forskrift 3. desember 1997 nr. 1441](forskrift/1997-12-03-1441) om salær fra det offentlige til advokater m.v. [§ 2](forskrift/1997-12-03-1441/§2).
+### § 50. Kontrollkommisjonens adgang til helseinstitusjoner
+
+Kontrollkommisjonen skal gis adgang til institusjoner i spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten som gjennomfører avgjørelser etter [psykisk helsevernloven](lov/1999-07-02-62) og [pasient- og brukerrettighetsloven § 4-6 femte](lov/1999-07-02-63/§4-6/ledd/5) og [sjette ledd](lov/1999-07-02-63/§4-6/ledd/6).
+
+### § 51. Besøk og velferdskontroll
+
+Kontrollkommisjonen skal minst 1 gang hver måned besøke institusjoner og avdelinger som er godkjent for å ha ansvar for pasienter under tvungent psykisk helsevern med døgnopphold og institusjoner eller avdelinger i psykisk helsevern der barn under 16 år er innlagt med døgnopphold. I andre institusjoner skal besøk skje minst 4 ganger i året.
+
+Besøket kan skje ved ett eller flere av kontrollkommisjonens medlemmer. Helsedirektoratet kan gi dispensasjon fra første ledd.
+
+Kontrollkommisjonen skal undersøke om det er husordensregler ved institusjonen og påse at husordensreglene er i overensstemmelse med regelverket.
+
+Kontrollkommisjonen skal under sine besøk gi pasientene anledning til å sette fram klager over vedtak etter [psykisk helsevernloven](lov/1999-07-02-62), og ellers ta opp forhold som har betydning for pasientenes opphold ved institusjonen. Pasienter som er blitt innlagt i institusjonen uten eget samtykke etter kommisjonens forrige besøk, skal gis tilbud om samtale med kontrollkommisjonen.
+
+Kontrollkommisjonen kan ta forhold opp med den faglig ansvarlige for vedtak eller institusjonens ledelse. Kontrollkommisjonen skal varsle statsforvalteren om alvorlige forhold ved institusjonen.
+
+## Kapittel 6. Godtgjøring til kontrollkommisjonens medlemmer
+
+### § 52. Godtgjøring. Omfang
+
+Godtgjøring gis for faktisk medgått tid til møteforberedelse, arbeid i møter, klagebehandling, reiser m.m. Godtgjøringen skal være den samme for arbeid i og utenfor møter. Det gis godtgjøring for hver påbegynt halvtime. Godtgjøring for forberedende arbeid og reisefravær avrundes under ett oppover til nærmeste halvtime.
+
+### § 53. Godtgjøring. Satser
+
+Kontrollkommisjonens medlemmer får godtgjøring per time. Satsen beregnes i prosent av den til enhver tid gjeldende salærsatsen fastsatt av Justis- og beredskapsdepartementet etter [forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. § 2](forskrift/1997-12-03-1441/§2).
 
 Det skal ikke utbetales feriegodtgjøring i tillegg til godtgjøringssatsene. Annet fravær som for eksempel sykdom, godtgjøres heller ikke.
 
-Eventuelle vikarer under ferie- eller sykefravær for kommisjonens leder eller øvrige medlemmer gis godtgjøring tilsvarende for leder og øvrige medlemmer.
+Leder og varaleder:jurist som er i dommerembete eller som er ansatt i annen stilling, godtgjøres per time med 75 prosent av salærsatsenadvokat som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
 
-Godtgjøringssatsene reguleres uten særlig varsel i samsvar med de reguleringer som til enhver tid fastsettes av Justisdepartementet.
+Lege og varamedlem for lege:lege i lønnet stilling godtgjøres per time med 75 prosent av salærsatsenlege som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av salærsatsen.
 
-Leder og varaleder:jurist som er i dommerembete eller som er ansatt i annen stilling, godtgjøres per time med 75 prosent av den til enhver tid gjeldende salærsatsenadvokat som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av den til enhver tid gjeldende salærsatsen.
+Øvrige medlemmer:øvrige medlemmer og varamedlemmer godtgjøres per time med 37,5 prosent av salærsatsenmedlem og varamedlem som er selvstendig næringsdrivende som hovedstilling, godtgjøres per time med 50 prosent av salærsatsen.
 
-Lege og varamedlem for lege:lege i lønnet stilling godtgjøres per time med 75 prosent av den til enhver tid gjeldende salærsatsenlege som er selvstendig næringsdrivende godtgjøres per time med 100 prosent av den til enhver tid gjeldende salærsatsen.
+Merkantilt personell som bistår kommisjonen godtgjøres per time med 25 prosent av salærsatsen.
 
-Øvrige medlemmer:øvrige medlemmer og varamedlemmer godtgjøres per time med 37,5 prosent av den til enhver tid gjeldende salærsatsenmedlem og varamedlem som er selvstendig næringsdrivende som hovedstilling, godtgjøres per time med 50 prosent av den til enhver tid gjeldende salærsatsen.
+### § 54. Godtgjøring. Beregning av timeantall som det skal gis arbeidsgodtgjøring for
 
-Sekretærhjelp:Sekretærer som bistår kommisjonen godtgjøres per time med 25 prosent av den til enhver tid gjeldende salærsatsen.
+I tidsrommet kl. 0800–1600 på hverdager (mandag til fredag) gis godtgjøring for reisetid og annet fravær. Til andre tider gis godtgjøring for reisetid.
 
-### § 66. Beregning av timeantall som det skal gis arbeidsgodtgjøring for
+Finner statsforvalteren at det er brukt lengre tid enn det som er rimelig og nødvendig, skal salæret settes ned. Før dette skjer skal den som har innlevert arbeidsoppgaven, gis mulighet til å uttale seg. Hvilken tidsbruk som er rimelig og nødvendig må avgjøres etter et konkret skjønn. Dersom det finnes nødvendig, kan statsforvalteren innhente sakens dokumenter for vurdering av saksforberedelsens omfang. Settes salæret ned, skal dette begrunnes.
 
-I tidsrommet kl. 0800-1600 på hverdager (mandag til fredag) gis godtgjøring for reisetid og annet fravær. Til andre tider gis godtgjøring for reisetid.
+### § 55. Godtgjøring. Tapt arbeidsfortjeneste
 
-Finner statsforvalteren at det er benyttet lengre tid enn hva som er rimelig og nødvendig, skal salæret settes ned. Før dette skjer skal vedkommende som har innlevert arbeidsoppgaven, gis mulighet til å uttale seg. Hvilket tidsforbruk som er rimelig og nødvendig må avgjøres etter et konkret skjønn. Dersom det finnes nødvendig, kan statsforvalteren innhente sakens dokumenter for vurdering av saksforberedelsens omfang. Settes salæret ned, skal dette begrunnes.
+Dersom deltagelse i kommisjonen medfører tapt arbeidsinntekt, kan statsforvalteren i det enkelte tilfelle samtykke til at det gis erstatning i tillegg til godtgjøringen. Tapt arbeidsinntekt kan dekkes med inntil det beløp som til enhver tid er bestemt i [Statens personalhåndbok](litteratur/sph) og kongelig resolusjon om styrer, råd og utvalg m.v.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+### § 56. Reisegodtgjøring
 
-### § 67. Tapt arbeidsfortjeneste
-
-Dersom deltagelse i kommisjonen medfører tapt arbeidsinntekt, kan statsforvalteren i det enkelte tilfelle samtykke til at det gis erstatning i tillegg til godtgjøringen. Tap i arbeidsinntekt kan dekkes med inntil det beløp som til enhver tid er bestemt i Statens personalhåndbok og kongelig resolusjon om styrer, råd og utvalg m.v.
-
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-### § 68. Reisegodtgjøring
-
-For reiser i kontrollkommisjonens tjeneste gjelder særavtale for reiser innenlands for statens regning.
+For reiser i kontrollkommisjonens tjeneste gjelder særavtale om dekning av utgifter til reise og kost innenlands.
 
 Søknader om å benytte eget transportmiddel sendes til og avgjøres av statsforvalteren.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
-
-### § 69. Regnskapsrapport og årsregnskap
+### § 57. Regnskapsrapport og årsregnskap
 
 Statsforvalteren skal innen 10. september hvert år sende regnskapsrapport for kommisjonens samlede utgifter per 31. august til Helsedirektoratet.
 
 Statsforvalteren skal innen 10. januar det påfølgende året sende avsluttet årsregnskap for kommisjonens samlede utgifter til Helsedirektoratet.
 
-> Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
+## Kapittel 7. Iverksetting m.v.
 
-## Kapittel 8. Sluttbestemmelser
+### § 58. Ikrafttredelse og endringer i andre forskrifter
 
-### § 70. Overgangsbestemmelse
-
-Endringen i vilkåret for midlertidig godkjenning etter [§ 2](forskrift/2011-12-16-1258/§2) tredje ledd gjøres gjeldende for nye søknader. Eksisterende midlertidige godkjenninger gjelder ut den fastsatte tidsfristen.
-
-### § 71. Ikrafttredelse
-
-Forskriften trer i kraft 1. januar 2012.
-
-Fra samme tidspunkt oppheves:[Forskrift 1. desember 2000 nr. 1219](forskrift/2000-12-01-1219) om den faglig ansvarlige for vedtak i det psykiske helsevernet[Forskrift 3. november 2000 nr. 1098](forskrift/2000-11-03-1098) om godkjenning av institusjoner som skal ha ansvar for tvungent psykisk helsevern[Forskrift 24. november 2000 nr. 1172](forskrift/2000-11-24-1172) om undersøkelse og behandling uten eget samtykke[Forskrift 24. november 2000 nr. 1173](forskrift/2000-11-24-1173) om bruk av tvangsmidler for å avverge skade i institusjoner for døgnopphold innenfor det psykiske helsevernet[Forskrift 24. november 2000 nr. 1174](forskrift/2000-11-24-1174) om tvungent psykisk helsevern uten døgnopphold i institusjon[Forskrift 21. desember 2000 nr. 1409](forskrift/2000-12-21-1409) om øyeblikkelig hjelp i det psykiske helsevernet[Forskrift 21. desember 2000 nr. 1408](forskrift/2000-12-21-1408) om kontrollkommisjonens virksomhet[Forskrift 21. desember 2000 nr. 1407](forskrift/2000-12-21-1407) om pasienter i privat forpleining i det psykiske helsevernet[Forskrift 13. september 2004 nr. 1260](forskrift/2004-09-13-1260) om godtgjøring m.m. til kontrollkommisjonene i det psykiske helsevernet[Forskrift 15. desember 2006 nr. 1423](forskrift/2006-12-15-1423) om bruk av skjerming i institusjoner i det psykiske helsevernet[Forskrift 15. desember 2006 nr. 1424](forskrift/2006-12-15-1424) om etablering av tvungent psykisk helsevern mv.
+Forskriften trer i kraft 1. juni 2026. Fra samme tidspunkt oppheves [forskrift 16. desember 2011 nr. 1258 om etablering og gjennomføring av psykisk helsevern m.m.](forskrift/2011-12-16-1258)
