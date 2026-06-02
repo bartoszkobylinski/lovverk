@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2017-05-24"
-last_change_in_force: "2023-01-01"
+last_change_in_force: "2025-12-01"
 last_updated: "2021-10-21"
-xml_hash: "c1aa117ce8a8ac1d97da9f8bf800c96d66fd5800b58d4a912ab79755894b8a3b"
+xml_hash: "4745878f03636ab7b12cd1846b2a16f57b1169bffbc35caeca5397f12aa45875"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-02T08:26:01.859598+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -175,39 +175,32 @@ Politistasjonsdistriktet ivaretar politimessige og sivilrettslige gjøremål for
 
 1. Nordfjord politistasjonsdistrikt med tjenestestedene Måløy politistasjon, Stad politistasjon og Stryn politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for områdene Måløy, Vågsvåg, Husevågøy og Raudeberg i Kinn kommune, og kommunene Stad og Stryn.
-Politistasjonsdistriktet ivaretar sivilrettslige gjøremål for kommunene Kinn, Stad og Stryn.
 2. Sunnfjord politistasjonsdistrikt med tjenestestedene Florø politistasjon, Bremanger politistasjon, Førde politistasjon, Gloppen politistasjon, Fjaler politistasjon og Høyanger politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for områdene Florø, Skorpa, Hovden, Stavøya, Svanøy, Brandsøy, Tansøy, Norddal, Stavang og Eikefjord i Kinn kommune, områdene Balestrand, Sværen og Vetlefjorden i Sogndal kommune, og kommunene Bremanger, Sunnfjord, Gloppen, Fjaler, Høyanger, Hyllestad og Askvoll.
-Politistasjonsdistriktet ivaretar sivilrettslige gjøremål for kommunene Bremanger, Sunnfjord, Gloppen, Fjaler, Høyanger, Hyllestad og Askvoll.
-Sivilrettslige gjøremål for Kinn kommune ivaretas av Nordfjord politistasjonsdistrikt.
-Sivilrettslige gjøremål for Sogndal kommune ivaretas av Sogn politistasjonsdistrikt.
 3. Sogn politistasjonsdistrikt med tjenestestedene Sogndal politistasjon, Vik politistasjon, Lærdal politistasjon, Årdal politistasjon og Aurland politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for områdene Sogndalsfjøra, Kaupanger, Fjærland, Leikanger, Slinde og Fardal i Sogndal kommune, og kommunene Vik, Lærdal, Årdal, Luster og Aurland.
-Politistasjonsdistriktet ivaretar sivilrettslige gjøremål for kommunene Sogndal, Vik, Lærdal, Årdal, Luster og Aurland.
 4. Nordhordland politistasjonsdistrikt med tjenestestedene Masfjorden politistasjon og Nordhordland politistasjon (Knarvik).
-Politistasjonsdistriktet ivaretar politimessige og sivilrettslige gjøremål for kommunene Gulen, Masfjorden, Solund, Austrheim, Fedje, Alver og Modalen.
+Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Gulen, Masfjorden, Solund, Austrheim, Fedje, Alver og Modalen.
 5. Kvam, Samnanger og Tysnes politistasjonsdistrikt med tjenestestedene Kvam politistasjon, Fusa politistasjon og Tysnes politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for områdene Holmefjord, Eikelandsosen, Strandvik, Nordtveitgrend og Yddal i Bjørnafjorden kommune, og kommunene Kvam, Samnanger og Tysnes.
-Politistasjonsdistriktet ivaretar sivilrettslige gjøremål for kommunene Kvam, Samnanger og Tysnes.
 6. Bjørnafjorden og Austevoll politistasjonsdistrikt med tjenestestedene Bjørnafjorden politistasjon og Austevoll politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for områdene Osøyro, Syfteland, Hagavik og Halhjem i Bjørnafjorden kommune, og Austevoll kommune.
-Politistasjonsdistriktet ivaretar sivilrettslige gjøremål for kommunene Bjørnafjorden og Austevoll.
 7. Voss politistasjonsdistrikt med tjenestestedene Voss politistasjon og Osterøy politistasjon.
-Politistasjonsdistriktet ivaretar politimessige og sivilrettslige gjøremål for kommunene Osterøy, Voss herad, Vaksdal, Ulvik og Eidfjord.
+Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Osterøy, Voss herad, Vaksdal, Ulvik og Eidfjord.
 8. Hardanger politistasjonsdistrikt med tjenestested Hardanger politistasjon.
-Politistasjonsdistriktet ivaretar politimessige og sivilrettslige gjøremål for Ullensvang kommune.
+Politistasjonsdistriktet ivaretar politimessige gjøremål for Ullensvang kommune.
 9. Askøy og Øygarden politistasjonsdistrikt med tjenestestedene Askøy politistasjon og Øygarden politistasjon.
 Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Askøy og Øygarden.
-Sivilrettslige gjøremål ivaretas av namsfogden i Bergen.
 10. Kvinnherad politistasjonsdistrikt, med tjenestested Kvinnherad politistasjon.
-Politistasjonsdistriktet dekker politimessige og sivilrettslige gjøremål for Kvinnherad kommune.
+Politistasjonsdistriktet dekker politimessige gjøremål for Kvinnherad kommune.
 11. Bergen Sør politistasjonsdistrikt med tjenestestedene Bergen Sør politistasjon og Bergen lufthavn Flesland politistasjon.
 12. Bergen Nord politistasjonsdistrikt, med tjenestested Bergen Nord politistasjon.
 13. Bergen Sentrum politistasjonsdistrikt med tjenestested Bergen Sentrum politistasjon.
 14. Bergen Vest politistasjonsdistrikt med tjenestested Bergen Vest politistasjon.
-Politistasjonsdistriktene i Bergen, k–n over, ivaretar politimessige gjøremål i Bergen kommune innenfor hver politistasjons geografiske område. Sivilrettslige gjøremål ivaretas av Namsfogden i Bergen.
+Politistasjonsdistriktene i Bergen, k–n over, ivaretar politimessige gjøremål i Bergen kommune innenfor hver politistasjons geografiske område.
+15. Namsfogden i Vest ivaretar sivilrettslige gjøremål for kommunene Kinn, Stad, Stryn, Bremanger, Sunnfjord, Gloppen, Fjaler, Høyanger, Hyllestad, Askvoll, Sogndal, Vik, Lærdal, Årdal, Luster, Aurland, Gulen, Masfjorden, Solund, Austrheim, Fedje, Alver, Bergen, Modalen, Kvam, Samnanger, Tysnes, Bjørnafjorden, Austevoll, Ullensvang, Osterøy, Voss herad, Vaksdal, Ulvik, Eidfjord, Askøy, Øygarden, Kvinnherad.
 
-> Endret ved [forskrifter 4 mars 2019 nr. 1348](forskrift/2019-03-04-1348) (i kraft 1 jan 2020), [27 mars 2019 nr. 1349](forskrift/2019-03-27-1349) (i kraft 1 jan 2020), [25 juni 2019 nr. 1351](forskrift/2019-06-25-1351) (i kraft 1 jan 2020), [27 aug 2019 nr. 1352](forskrift/2019-08-27-1352) (i kraft 1 jan 2020), [19 nov 2019 nr. 1536](forskrift/2019-11-19-1536) (i kraft 1 jan 2020), [26 mars 2020 nr. 513](forskrift/2020-03-26-513) (i kraft 1 juni 2020 jf. [vedtak 7 mai 2020 nr. 961](forskrift/2020-05-07-961)), [25 nov 2020 nr. 2462](forskrift/2020-11-25-2462), [28 april 2021 nr. 3066](forskrift/2021-04-28-3066), [21 jan 2022 nr. 110](forskrift/2022-01-21-110).
+> Endret ved [forskrifter 4 mars 2019 nr. 1348](forskrift/2019-03-04-1348) (i kraft 1 jan 2020), [27 mars 2019 nr. 1349](forskrift/2019-03-27-1349) (i kraft 1 jan 2020), [25 juni 2019 nr. 1351](forskrift/2019-06-25-1351) (i kraft 1 jan 2020), [27 aug 2019 nr. 1352](forskrift/2019-08-27-1352) (i kraft 1 jan 2020), [19 nov 2019 nr. 1536](forskrift/2019-11-19-1536) (i kraft 1 jan 2020), [26 mars 2020 nr. 513](forskrift/2020-03-26-513) (i kraft 1 juni 2020 jf. [vedtak 7 mai 2020 nr. 961](forskrift/2020-05-07-961)), [25 nov 2020 nr. 2462](forskrift/2020-11-25-2462), [28 april 2021 nr. 3066](forskrift/2021-04-28-3066), [21 jan 2022 nr. 110](forskrift/2022-01-21-110), [29 okt 2025 nr. 3079](forskrift/2025-10-29-3079) (i kraft 1 des 2025).
 
 ### 8. Møre og Romsdal politidistrikt
 
