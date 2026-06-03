@@ -30077,19 +30077,6 @@
       "total_changes": null,
       "xml_hash": "9ec835d3b47a051cceef6450bfa7f52dda8887ba6603688731ea83e2043b54f2"
     },
-    "sf-20111216-1258": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/psykisk-helsevernforskriften.md",
-      "slug": "psykisk-helsevernforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)",
-      "total_changes": null,
-      "xml_hash": "085c3dadfa434c48e4af537c61d598222714854296619a611a973dd967f5e6a3"
-    },
     "sf-20111216-1348": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -47422,80 +47409,80 @@
     "sf-20231024-1694": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-normaltransport.md",
       "slug": "veglister-normaltransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om normaltransport på riks-, fylkes- og kommunale veger (veglister normaltransport)",
-      "total_changes": 4,
-      "xml_hash": "411d02562e8b70783dd2b3e14640dfac6133db792dce686026744f92e9bb6ede"
+      "total_changes": 5,
+      "xml_hash": "139261f35709628bd8d4ac04d057c64103680833421abd51619b282e5dc01e57"
     },
     "sf-20231024-1695": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-tømmertransport.md",
       "slug": "veglister-tømmertransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tømmertransport på riks-, fylkes- og kommunale veger (veglister tømmertransport)",
-      "total_changes": 4,
-      "xml_hash": "3bb3d7a3b20cbf9b1fc9030e99f5b219fa1c8842a3f4871b86e52ee94434274c"
+      "total_changes": 5,
+      "xml_hash": "b09d6b5d403e009faf3c4f1270a14d5de6c50e9b5b213c4f4c03f856ba50529d"
     },
     "sf-20231024-1696": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-modulvogntog.md",
       "slug": "veglister-modulvogntog",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om modulvogntog på riks-, fylkes- og kommunale veger (veglister modulvogntog)",
-      "total_changes": 4,
-      "xml_hash": "3c99b8eb412390f903e6534be55fd897de249e8ea9ec304447118beb3a4624ea"
+      "total_changes": 5,
+      "xml_hash": "d3427f9f3ec1b241c16c2714262e232c8f804d58b26b715d9b5d66c1199ed9d1"
     },
     "sf-20231024-1697": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-spesialtransport.md",
       "slug": "veglister-spesialtransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om spesialtransport på riks-, fylkes- og kommunale veger (veglister spesialtransport)",
-      "total_changes": 4,
-      "xml_hash": "12f2b63da5af5eed46bc4f974ea3fbc7283a669f53c78f61fda16f7ec4a9dc16"
+      "total_changes": 5,
+      "xml_hash": "ba30f274833be27700a2a8805985d6ce598639da96c7fafa3c35fb1add268dcc"
     },
     "sf-20231024-1698": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-12-100-spesialtransport.md",
       "slug": "veglister-12-100-spesialtransport",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/100 for spesialtransport på riks-, fylkes- og kommunale veger (veglister 12/100 spesialtransport)",
-      "total_changes": 4,
-      "xml_hash": "58e74ddc32cf3a09c0dc250b6092afa52acc790dbafe59d75268063ff01d8ba2"
+      "total_changes": 5,
+      "xml_hash": "aca1003467aaa3687a6d120fa30dc4fcbbba074f2d94246ddcf748b86d40bdd6"
     },
     "sf-20231024-1699": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-03",
+      "last_seen": "2026-06-03T08:52:12.701711Z",
       "markdown_path": "forskrifter/veglister-12-65-mobilkran-m-m.md",
       "slug": "veglister-12-65-mobilkran-m-m",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om 12/65 for mobilkran, betongpumpebil og liftbil på riks-, fylkes- og kommunale veger (veglister 12/65 mobilkran m.m.)",
-      "total_changes": 4,
-      "xml_hash": "6906427a0db737857b813221b0c7154e28b2aa4583c1613f58cbfd4da386fc62"
+      "total_changes": 5,
+      "xml_hash": "96ced73d76f4e7f4da3b756e1348d3b87143356ae42981acdf684ac14e96b6e1"
     },
     "sf-20231027-1706": {
       "doc_type": "forskrift",
@@ -53841,19 +53828,6 @@
       "total_changes": null,
       "xml_hash": "d6d06c0d8ea6e6d21192828df217de817570ddebcca431951104269b07298ee8"
     },
-    "sf-20260227-0890": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-28T07:54:49.739061Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-regulering-av-eksporten-av-fisk-fiskevarer-og-marine-produkter-og-forskrift-om-samordnet-innkreving-av-avgift-på-fiskeeksport",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter og forskrift om samordnet innkreving av avgift på fiskeeksport",
-      "total_changes": null,
-      "xml_hash": "39df9a864f0f549f758f11c2768dd20ccfbfd8fc6c101a6e9214c40ab8562266"
-    },
     "sf-20260305-0340": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54296,19 +54270,6 @@
       "total_changes": 1,
       "xml_hash": "230ae8604dac36d5207aa7c384593a782616d0373a2cd16da27ac98f66d3b865"
     },
-    "sf-20260505-0742": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-08T05:54:50.775222Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy-og-opphevelse-av-forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om bruk av kjøretøy og opphevelse av forskrift om endring i forskrift om bruk av kjøretøy",
-      "total_changes": null,
-      "xml_hash": "f5fd6f6b9164dac29e7fe50fd14b6f2795e8d33ab906fc8bd44cb09ca73c4980"
-    },
     "sf-20260505-0749": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54570,6 +54531,6 @@
       "xml_hash": "568ad5309d341af11dab751a69fe80c6587af0f9ffa82abbdcdda45d4c1fbfad"
     }
   },
-  "generated_at": "2026-06-02T08:26:01.859598Z",
+  "generated_at": "2026-06-03T08:52:12.701711Z",
   "version": 1
 }

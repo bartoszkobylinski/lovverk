@@ -2,6 +2,16 @@
   "doc_id": "sf-20231024-1694",
   "events": [
     {
+      "commit": "738659e",
+      "date": "2026-06-03",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): veglister-normaltransport",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5511aa4",
       "date": "2026-05-04",
       "from_path": null,

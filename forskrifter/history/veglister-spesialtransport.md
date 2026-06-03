@@ -1,6 +1,11 @@
 # veglister-spesialtransport — Change history
 
-_4 events; doc_id `sf-20231024-1697`._
+_5 events; doc_id `sf-20231024-1697`._
+
+## 2026-06-03 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): veglister-spesialtransport`
+Commit: `2b50978`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -5.

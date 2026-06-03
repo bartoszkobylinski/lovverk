@@ -1,6 +1,11 @@
 # veglister-12-65-mobilkran-m-m — Change history
 
-_4 events; doc_id `sf-20231024-1699`._
+_5 events; doc_id `sf-20231024-1699`._
+
+## 2026-06-03 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): veglister-12-65-mobilkran-m-m`
+Commit: `17abdd4`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -5.

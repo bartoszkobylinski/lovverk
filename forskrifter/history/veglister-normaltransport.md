@@ -1,6 +1,11 @@
 # veglister-normaltransport — Change history
 
-_4 events; doc_id `sf-20231024-1694`._
+_5 events; doc_id `sf-20231024-1694`._
+
+## 2026-06-03 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): veglister-normaltransport`
+Commit: `738659e`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -5.

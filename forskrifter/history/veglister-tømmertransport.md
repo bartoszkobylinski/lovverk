@@ -1,6 +1,11 @@
 # veglister-tømmertransport — Change history
 
-_4 events; doc_id `sf-20231024-1695`._
+_5 events; doc_id `sf-20231024-1695`._
+
+## 2026-06-03 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): veglister-tømmertransport`
+Commit: `d9f56fb`.
 
 ## 2026-05-04 — Content updated
 Lines: +5 -5.
