@@ -7,15 +7,15 @@ title: "Forskrift om IT-standarder i offentlig forvaltning"
 short_title: "Forskrift om IT-standarder i offentlig forvaltning"
 language: "no"
 ministry:
-  - "Kommunal- og distriktsdepartementet"
+  - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2013-04-05"
 last_change_in_force: "2021-10-08"
-last_updated: null
-xml_hash: "8f53625615df85f7afdf42c0ff1e521c2e27e5e3a2a4faeb4536d6c4839d848b"
+last_updated: "2026-06-03"
+xml_hash: "d56f3a928c9a9fe5f14c2a05ddf0bfc12ff2416f3febf9acd0c8133efdb59af2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-04T08:17:55.401096+00:00"
 status: "current"
 eu_basis: []
 ---
