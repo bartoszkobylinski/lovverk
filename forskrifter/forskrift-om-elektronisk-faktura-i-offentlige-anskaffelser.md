@@ -7,15 +7,15 @@ title: "Forskrift om elektronisk faktura i offentlige anskaffelser"
 short_title: "Forskrift om elektronisk faktura i offentlige anskaffelser"
 language: "no"
 ministry:
-  - "Kommunal- og distriktsdepartementet"
+  - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2019-04-02"
 last_change_in_force: "2020-10-16"
-last_updated: null
-xml_hash: "531fa349e0220ea81474e7eb8953ce383a83ba9a5d679eb9f6c9c55688188286"
+last_updated: "2026-06-03"
+xml_hash: "306cb625305d3489ed41ea37164bdb672e59faf0fdf8649eaa4deef30328bf3a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-04T08:17:55.401096+00:00"
 status: "current"
 eu_basis: []
 ---
