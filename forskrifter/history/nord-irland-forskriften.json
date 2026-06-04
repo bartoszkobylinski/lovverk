@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260521-0960",
+  "events": [
+    {
+      "commit": "bfe4350",
+      "date": "2026-06-04",
+      "from_path": null,
+      "lines_added": 433,
+      "lines_removed": 0,
+      "subject": "add(forskrift): nord-irland-forskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "nord-irland-forskriften"
+}

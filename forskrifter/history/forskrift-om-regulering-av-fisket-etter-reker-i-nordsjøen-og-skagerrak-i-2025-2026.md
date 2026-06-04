@@ -1,6 +1,11 @@
 # forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026 — Change history
 
-_4 events; doc_id `sf-20250627-1361`._
+_5 events; doc_id `sf-20250627-1361`._
+
+## 2026-06-04 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026`
+Commit: `cb2cfd7`.
 
 ## 2026-05-21 — Content updated
 Lines: +11 -7.

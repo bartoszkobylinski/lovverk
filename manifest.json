@@ -31393,15 +31393,15 @@
     "sf-20130405-0959": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-04",
+      "last_seen": "2026-06-04T08:17:55.401096Z",
       "markdown_path": "forskrifter/forskrift-om-it-standarder-i-offentlig-forvaltning.md",
       "slug": "forskrift-om-it-standarder-i-offentlig-forvaltning",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om IT-standarder i offentlig forvaltning",
-      "total_changes": null,
-      "xml_hash": "8f53625615df85f7afdf42c0ff1e521c2e27e5e3a2a4faeb4536d6c4839d848b"
+      "total_changes": 4,
+      "xml_hash": "d56f3a928c9a9fe5f14c2a05ddf0bfc12ff2416f3febf9acd0c8133efdb59af2"
     },
     "sf-20130408-0391": {
       "doc_type": "forskrift",
@@ -39323,15 +39323,15 @@
     "sf-20190401-0444": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-04",
+      "last_seen": "2026-06-04T08:17:55.401096Z",
       "markdown_path": "forskrifter/forskrift-om-elektronisk-faktura-i-offentlige-anskaffelser.md",
       "slug": "forskrift-om-elektronisk-faktura-i-offentlige-anskaffelser",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om elektronisk faktura i offentlige anskaffelser",
-      "total_changes": null,
-      "xml_hash": "531fa349e0220ea81474e7eb8953ce383a83ba9a5d679eb9f6c9c55688188286"
+      "total_changes": 4,
+      "xml_hash": "306cb625305d3489ed41ea37164bdb672e59faf0fdf8649eaa4deef30328bf3a"
     },
     "sf-20190408-0468": {
       "doc_type": "forskrift",
@@ -51023,15 +51023,15 @@
     "sf-20250627-1361": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-21",
-      "last_seen": "2026-05-21T07:46:41.614504Z",
+      "last_changed": "2026-06-04",
+      "last_seen": "2026-06-04T08:17:55.401096Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter reker i Nordsjøen og Skagerrak i 2025–2026",
-      "total_changes": 4,
-      "xml_hash": "7c1c225dedfd87b1f443b7e647820bedd9c1478fe0565e887794de47da2f468b"
+      "total_changes": 5,
+      "xml_hash": "0ae02b56d03fb4c91ea7d38fd624f96e9d53f0a37473fceb9ebb4944000df0f6"
     },
     "sf-20250630-1375": {
       "doc_type": "forskrift",
@@ -54439,6 +54439,19 @@
       "total_changes": 1,
       "xml_hash": "5e7865c619b2a8fd49f4e6a6cf44d0cafb7401a0c673717b94ffde181e044db2"
     },
+    "sf-20260521-0960": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-04",
+      "last_seen": "2026-06-04T08:17:55.401096Z",
+      "markdown_path": "forskrifter/nord-irland-forskriften.md",
+      "slug": "nord-irland-forskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om offentlig kontroll – særlige regler om forsendelser av varer mellom Nord-Irland og Storbritannia, og ikke-kommersiell forflytning av visse kjæledyr til Nord-Irland – forordning (EU) 2023/1231 (Nord-Irland-forskriften)",
+      "total_changes": 1,
+      "xml_hash": "495ccd8fcaa8cbf9da3d49b963220d48afa532806fded190ac42a0b317d00c78"
+    },
     "sf-20260522-0869": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54531,6 +54544,6 @@
       "xml_hash": "568ad5309d341af11dab751a69fe80c6587af0f9ffa82abbdcdda45d4c1fbfad"
     }
   },
-  "generated_at": "2026-06-03T08:52:12.701711Z",
+  "generated_at": "2026-06-04T08:17:55.401096Z",
   "version": 1
 }

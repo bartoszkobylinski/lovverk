@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3419 current documents_
+_3420 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -3068,6 +3068,7 @@ _3419 current documents_
 - [nem](nem.md) — Forskrift om nettregulering og energimarkedet (NEM)
 - [nettinntektsforskriften](nettinntektsforskriften.md) — Forskrift om strømnettselskapenes inntekter (nettinntektsforskriften)
 - [nois-registerforskriften](nois-registerforskriften.md) — Forskrift om Norsk overvåkingssystem for antibiotikabruk og helsetjenesteassosierte infeksjoner (NOIS-registerforskriften)
+- [nord-irland-forskriften](nord-irland-forskriften.md) — Forskrift om offentlig kontroll – særlige regler om forsendelser av varer mellom Nord-Irland og Storbritannia, og ikke-kommersiell forflytning av visse kjæledyr til Nord-Irland – forordning (EU) 2023/1231 (Nord-Irland-forskriften)
 - [nordisk-overenskomst-om-førerkort-m-m](nordisk-overenskomst-om-førerkort-m-m.md) — Overenskomst 1985 mellom Danmark, Finland, Norge og Sverige om gjensidig godkjennelse av førerkort og registrering av kjøretøyer.
 - [normrentesats-for-inntektsåret-2012](normrentesats-for-inntektsåret-2012.md) — Kunngjøring av normrentesats for inntektsåret 2012 til bruk ved anvendelse av forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen
 - [normrentesats-for-inntektsåret-2013](normrentesats-for-inntektsåret-2013.md) — Kunngjøring av normrentesats for inntektsåret 2013 til bruk ved anvendelse av forskrift 18. august 1998 nr. 819 om skattemessig behandling av leie av flyttbar produksjonsinnretning på kontinentalsokkelen
