@@ -54542,8 +54542,21 @@
       "title": "Forskrift om etablering og gjennomføring av psykisk helsevern m.m. (psykisk helsevernforskriften)",
       "total_changes": 4,
       "xml_hash": "568ad5309d341af11dab751a69fe80c6587af0f9ffa82abbdcdda45d4c1fbfad"
+    },
+    "sf-20260602-0977": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-05",
+      "last_seen": "2026-06-05T08:04:06.514386Z",
+      "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026.md",
+      "slug": "forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om regulering av fisket etter lodde ved Island, Grønland og Jan Mayen i 2026",
+      "total_changes": 1,
+      "xml_hash": "df3094f93f1d4e65c29959213e0a2c4e09d3d7eaed070cfe9a76c64b4e05e256"
     }
   },
-  "generated_at": "2026-06-04T08:17:55.401096Z",
+  "generated_at": "2026-06-05T08:04:06.514386Z",
   "version": 1
 }

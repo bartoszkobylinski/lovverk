@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260602-0977",
+  "events": [
+    {
+      "commit": "e901082",
+      "date": "2026-06-05",
+      "from_path": null,
+      "lines_added": 95,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-regulering-av-fisket-etter-lodde-ved-island-grønland-og-jan-mayen-i-2026"
+}
