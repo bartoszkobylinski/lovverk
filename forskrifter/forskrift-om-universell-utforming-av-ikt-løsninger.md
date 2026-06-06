@@ -7,15 +7,15 @@ title: "Forskrift om universell utforming av informasjons- og kommunikasjonstekn
 short_title: "Forskrift om universell utforming av IKT-løsninger"
 language: "no"
 ministry:
-  - "Kommunal- og distriktsdepartementet"
+  - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2013-07-01"
 last_change_in_force: "2023-02-01"
-last_updated: "2019-10-10"
-xml_hash: "d93ead1db244071dc30d4e8808f17e8054ee6389517b8759262a58c7a784cd08"
+last_updated: "2026-06-05"
+xml_hash: "69a69fc000d869601c8fcd28e86aa823b6ef430664b7b81c9c90152181926000"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-06T06:50:21.095245+00:00"
 status: "current"
 eu_basis: []
 ---
