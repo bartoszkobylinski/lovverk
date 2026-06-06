@@ -4062,15 +4062,15 @@
     "nl-19990702-062": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-06",
+      "last_seen": "2026-06-06T06:50:21.095245Z",
       "markdown_path": "lover/psykisk-helsevernloven-phvl.md",
       "slug": "psykisk-helsevernloven-phvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven)",
-      "total_changes": 4,
-      "xml_hash": "7c27d3a15f444699e3b6c35fabcff4d09b2a70d8e746f98bafb4dc199fb97901"
+      "total_changes": 5,
+      "xml_hash": "5280d637bd0e8a70728309c1a117f99826a94f0a9b3f741570bda41e25391cff"
     },
     "nl-19990702-063": {
       "doc_type": "lov",
@@ -31653,15 +31653,15 @@
     "sf-20130621-0732": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-06",
+      "last_seen": "2026-06-06T06:50:21.095245Z",
       "markdown_path": "forskrifter/forskrift-om-universell-utforming-av-ikt-løsninger.md",
       "slug": "forskrift-om-universell-utforming-av-ikt-løsninger",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om universell utforming av informasjons- og kommunikasjonsteknologiske (IKT)-løsninger",
-      "total_changes": null,
-      "xml_hash": "d93ead1db244071dc30d4e8808f17e8054ee6389517b8759262a58c7a784cd08"
+      "total_changes": 4,
+      "xml_hash": "69a69fc000d869601c8fcd28e86aa823b6ef430664b7b81c9c90152181926000"
     },
     "sf-20130624-0754": {
       "doc_type": "forskrift",
@@ -45069,15 +45069,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-27",
-      "last_seen": "2026-05-27T07:59:51.015213Z",
+      "last_changed": "2026-06-06",
+      "last_seen": "2026-06-06T06:50:21.095245Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 7,
-      "xml_hash": "481007606145c2c69af07393af509822c98f63ccf6aa4bf14f52032e01a1181f"
+      "total_changes": 8,
+      "xml_hash": "eb70c736ed3f13b7d4fe3501e999a03571f750e3acac89577c05e9124e65abe6"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -54557,6 +54557,6 @@
       "xml_hash": "df3094f93f1d4e65c29959213e0a2c4e09d3d7eaed070cfe9a76c64b4e05e256"
     }
   },
-  "generated_at": "2026-06-05T08:04:06.514386Z",
+  "generated_at": "2026-06-06T06:50:21.095245Z",
   "version": 1
 }

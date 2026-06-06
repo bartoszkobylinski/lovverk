@@ -1,6 +1,11 @@
 # psykisk-helsevernloven-phvl — Change history
 
-_4 events; doc_id `nl-19990702-062`._
+_5 events; doc_id `nl-19990702-062`._
+
+## 2026-06-06 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): psykisk-helsevernloven-phvl`
+Commit: `71018ce`.
 
 ## 2026-06-01 — Content updated
 Lines: +47 -27.
