@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2022-03-31"
-xml_hash: "7c27d3a15f444699e3b6c35fabcff4d09b2a70d8e746f98bafb4dc199fb97901"
+xml_hash: "5280d637bd0e8a70728309c1a117f99826a94f0a9b3f741570bda41e25391cff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-01T09:23:05.781615+00:00"
+retrieved_at: "2026-06-06T06:50:21.095245+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ Ved etablering og gjennomføring av psykisk helsevern gjelder [pasient- og bruke
 
 ### § 1-6. Forholdet til forvaltningsloven
 
-For behandlingen av saker etter loven her gjelder [forvaltningsloven. Forvaltningsloven § 12](lov/1967-02-10/§12) gjelder likevel bare der dette er uttrykkelig nevnt.
+For behandlingen av saker etter loven her gjelder [forvaltningsloven](lov/1967-02-10). [Forvaltningsloven § 12](lov/1967-02-10/§12) gjelder likevel bare der dette er uttrykkelig nevnt.
 
 ### § 1-7. Rett til å bruke advokat eller annen fullmektig
 
