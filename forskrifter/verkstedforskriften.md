@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2020-11-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-08"
 last_updated: null
-xml_hash: "1d2c2b3417e2e0b75f42fe751017276e1e37b3227372e1316565c1882935eb05"
+xml_hash: "ebe491dcc73a3c13a6269306eaaab042c548a8c6f40ad971af08485b9e97a075"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-22T07:41:20.624788+00:00"
+retrieved_at: "2026-06-08T08:51:39.537351+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,33 +136,37 @@ Gebyrsatsene fremgår av [forskrift om gebyr på tjenester utført av Statens ve
 
 ### § 13. Dokumentasjon på godkjenning
 
-Verksted som oppfyller vilkårene i denne forskriften har krav på å få utstedt godkjenningsskilt. Skiltet skal være plassert godt synlig for publikum. Ved avvikling av virksomhet skal godkjenningsskiltet leveres til Statens vegvesen.
+Virksomhet og teknisk leder som oppfyller vilkårene i denne forskriften har krav på å få et godkjenningsbevis. Godkjenningsbeviset for verkstedet skal være plassert synlig og tilgjengelig for kunder.
 
-Virksomhet og teknisk leder som oppfyller vilkårene i denne forskriften har krav på å få utstedt godkjenningsdokument. Det vil av godkjenningsdokumentet fremgå hvem godkjenningen gjelder for, hvilke verkstedkategorier godkjenningen gjelder for, navn på myndigheten som har utstedt beviset og dato for utstedelse.
+Ved avvikling av virksomhet mister virksomheten retten til å benytte godkjenningsskilt og godkjenningsbevis med Statens vegvesens etatslogo.
 
 Statens vegvesen registrerer og offentliggjør opplysninger om godkjente virksomheter i sitt elektroniske register.
 
-> **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+> Endret ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ## Kapittel 4 – Kjøretøyverkstedets plikter
 
-### § 14. Plikter som kjøretøyverksteddriften medfører
+### § 14. Plikter for virksomheter godkjent etter denne forskriften
 
-Ved endring av forhold som kan ha betydning for godkjenningen, herunder opphør, flytting, endring av organisasjonsnummer, bytte av teknisk leder og/eller stedfortreder, utstyr, skal det straks gis skriftlig melding til Statens vegvesen.
+Ved endringer av forhold som kan ha betydning for godkjenningen, herunder opphør, flytting, endring av organisasjonsnummer, bytte av teknisk leder, stedfortreder, faglig ansvarlig eller utstyr, skal det straks gis skriftlig melding til Statens vegvesen.
 
-Når arbeid på kjøretøy vil medføre at det innpregede understellsnummeret blir skadet eller fjernet, skal Statens vegvesen ha melding før slikt arbeid blir satt i gang. Det samme gjelder dersom det viser seg at understellsnummer allerede er skadet eller fjernet før reparasjon av kjøretøyet blir påbegynt ved kjøretøyverkstedet.
+Når arbeid på kjøretøy vil medføre at det innpregede understellsnummeret blir skadet eller fjernet, kan verkstedet søke Statens vegvesen om å fravike kravet om forhåndskontroll av kjøretøyet før reparasjonen blir satt i gang. Det samme gjelder dersom det viser seg at understellsnummer allerede er skadet eller fjernet før reparasjon av kjøretøyet blir påbegynt ved kjøretøyverkstedet.
 
-Når kjøretøy blir reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, jf. bestemmelser i [forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)](forskrift/1994-10-04-918), skal det dokumenteres at reparasjonen er utført i henhold til kjøretøyprodusentens anvisninger der disse foreligger, og etter faglig anerkjente reparasjonsmetoder før kjøretøyet tas i bruk. Statens vegvesen kan i retningslinjer til forskriften fastsette nærmere krav til hva dokumentasjonen skal inneholde og hvordan den skal gjøres tilgjengelig for tilsynsmyndigheten.
-
-For reparasjoner utført før 1. april 2023 skal dokumentasjon oppbevares av virksomheten i minst 5 år etter reparasjonen og gjøres tilgjengelig for Statens vegvesen ved tilsyn.
-
-Reparasjoner utført fra og med 1. april 2023 skal dokumenteres og rapporteres i Statens vegvesens elektroniske register før kjøretøyet tas i bruk.
-
-> Endret ved forskrift [13 juni 2023 nr. 844](forskrift/2023-06-13-844). **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+> Endret ved forskrifter [13 juni 2023 nr. 844](forskrift/2023-06-13-844), [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ### § 14a. Krav til reparasjon av omfattende skader
 
-> **Tilføyes** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+Når kjøretøy blir reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, jf. bestemmelser i [bilforskriften](forskrift/2022-06-28-1233), [motorsykkelforskriften](forskrift/2016-06-01-560), [traktorforskriften](forskrift/2016-06-01-561) og [kjøretøyforskriften](forskrift/1994-10-04-918), skal det dokumenteres at reparasjonen er utført i henhold til kjøretøyprodusentens anvisninger der disse foreligger, og etter faglig anerkjente reparasjonsmetoder før kjøretøyet tas i bruk.
+
+Dokumentasjonen skal som minimum inneholde:Målebrev / nødvendig oppmåling der dette er nødvendig for skaden/reparasjonen.Hjulstillingskontroll/4-hjulsmåling der dette er nødvendig for skaden/reparasjonen.Bilder før, under og etter reparasjon.Egenerklæring om at reparasjonen er utført i henhold til fabrikantens anvisninger der disse foreligger og etter anerkjente reparasjonsmetoder.Reparasjonsanvisning som er brukt for reparasjonen.
+
+Statens vegvesen kan i retningslinjer til forskriften fastsette nærmere krav til dokumentasjonen.
+
+For reparasjoner av omfattende skader utført før 1. april 2023 skal dokumentasjon oppbevares av virksomheten i minst 5 år etter reparasjonen og gjøres tilgjengelig for Statens vegvesen ved tilsyn.
+
+Reparasjoner av omfattende skader utført fra og med 1. april 2023 skal dokumenteres og rapporteres i Statens vegvesens elektroniske register før kjøretøyet tas i bruk.
+
+> Tilføyd ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ### § 15. Plikt til å opprette kvalitetsstyringssystem
 
@@ -212,9 +216,9 @@ I vurderingen av om en godkjenning skal tilbakekalles skal det tas hensyn til i 
 
 Første gangs tilbakekalling av godkjenningen skal normalt gjelde fra 1 til 6 måneder, annen gangs tilbakekalling fra 6 til 12 måneder og tredje gangs tilbakekalling for minst 12 måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.
 
-Ved tilbakekall av en godkjenning skal Statens vegvesen tilbakekalle både skiltet og godkjenningsdokumentet som nevnt i [§ 13](forskrift/2020-10-28-2170/§13).
+Ved tilbakekall av en godkjenning mister virksomheten retten til å benytte godkjenningsskilt og godkjenningsbevis med Statens vegvesens etatslogo.
 
-> Endret ved forskrifter [24 nov 2020 nr. 2448](forskrift/2020-11-24-2448), [17 des 2025 nr. 2717](forskrift/2025-12-17-2717) (i kraft 1 jan 2026). **Endres** ved forskrift [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
+> Endret ved forskrifter [24 nov 2020 nr. 2448](forskrift/2020-11-24-2448), [17 des 2025 nr. 2717](forskrift/2025-12-17-2717) (i kraft 1 jan 2026), [13 mai 2026 nr. 856](forskrift/2026-05-13-856) (i kraft 8 juni 2026).
 
 ## Kapittel 6 – Avsluttende bestemmelser
 
