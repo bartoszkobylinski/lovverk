@@ -1,6 +1,11 @@
 # bilforskriften — Change history
 
-_4 events; doc_id `sf-20220628-1233`._
+_5 events; doc_id `sf-20220628-1233`._
+
+## 2026-06-08 — Content updated
+Lines: +7 -9.
+Subject: `update(forskrift): bilforskriften`
+Commit: `2c8c253`.
 
 ## 2026-05-22 — Content updated
 Lines: +6 -2.

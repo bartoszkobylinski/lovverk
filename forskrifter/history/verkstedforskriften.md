@@ -1,6 +1,11 @@
 # verkstedforskriften — Change history
 
-_4 events; doc_id `sf-20201028-2170`._
+_5 events; doc_id `sf-20201028-2170`._
+
+## 2026-06-08 — Content updated
+Lines: +21 -17.
+Subject: `update(forskrift): verkstedforskriften`
+Commit: `3a8e1e2`.
 
 ## 2026-05-22 — Content updated
 Lines: +10 -4.

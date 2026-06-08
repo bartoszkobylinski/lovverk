@@ -1,6 +1,11 @@
 # forskrift-om-fartsskriververksteder — Change history
 
-_4 events; doc_id `sf-20180926-1467`._
+_5 events; doc_id `sf-20180926-1467`._
+
+## 2026-06-08 — Content updated
+Lines: +9 -9.
+Subject: `update(forskrift): forskrift-om-fartsskriververksteder`
+Commit: `9955f67`.
 
 ## 2026-05-22 — Content updated
 Lines: +5 -5.

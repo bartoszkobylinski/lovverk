@@ -2,6 +2,16 @@
   "doc_id": "sf-20201028-2170",
   "events": [
     {
+      "commit": "3a8e1e2",
+      "date": "2026-06-08",
+      "from_path": null,
+      "lines_added": 21,
+      "lines_removed": 17,
+      "subject": "update(forskrift): verkstedforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "bf2a54e",
       "date": "2026-05-22",
       "from_path": null,

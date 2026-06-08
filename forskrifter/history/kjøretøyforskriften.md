@@ -1,6 +1,11 @@
 # kjøretøyforskriften — Change history
 
-_4 events; doc_id `sf-19941004-0918`._
+_5 events; doc_id `sf-19941004-0918`._
+
+## 2026-06-08 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): kjøretøyforskriften`
+Commit: `94ed641`.
 
 ## 2026-05-22 — Content updated
 Lines: +4 -4.

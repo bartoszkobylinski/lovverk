@@ -2,6 +2,16 @@
   "doc_id": "sf-20220628-1233",
   "events": [
     {
+      "commit": "2c8c253",
+      "date": "2026-06-08",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 9,
+      "subject": "update(forskrift): bilforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "565602a",
       "date": "2026-05-22",
       "from_path": null,

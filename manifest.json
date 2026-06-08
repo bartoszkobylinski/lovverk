@@ -16014,15 +16014,15 @@
     "sf-19941004-0918": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-06-08",
+      "last_seen": "2026-06-08T08:51:39.537351Z",
       "markdown_path": "forskrifter/kjøretøyforskriften.md",
       "slug": "kjøretøyforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": 4,
-      "xml_hash": "bdc3468133a0e687ac0d5335d404a9b101b03e88f773c89a2780b6eed3df64b6"
+      "total_changes": 5,
+      "xml_hash": "6026627b47e8b185490c55ea161309c9fc55ae75ab7318e7dec4bd0dce3712ea"
     },
     "sf-19941110-1001": {
       "doc_type": "forskrift",
@@ -38647,15 +38647,15 @@
     "sf-20180926-1467": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-06-08",
+      "last_seen": "2026-06-08T08:51:39.537351Z",
       "markdown_path": "forskrifter/forskrift-om-fartsskriververksteder.md",
       "slug": "forskrift-om-fartsskriververksteder",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fartsskriververksteder",
-      "total_changes": 4,
-      "xml_hash": "d8f9b23acca15138baa2c86065c801a2794cb5c33ab8f9d31b953bf106f5d89f"
+      "total_changes": 5,
+      "xml_hash": "0bf2a539bb100c45b83233d70578f44a07d6d64968282f4fcb9c88d836ea025a"
     },
     "sf-20180928-1471": {
       "doc_type": "forskrift",
@@ -41650,15 +41650,15 @@
     "sf-20201028-2170": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-06-08",
+      "last_seen": "2026-06-08T08:51:39.537351Z",
       "markdown_path": "forskrifter/verkstedforskriften.md",
       "slug": "verkstedforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om arbeid på kjøretøy (verkstedforskriften)",
-      "total_changes": 4,
-      "xml_hash": "1d2c2b3417e2e0b75f42fe751017276e1e37b3227372e1316565c1882935eb05"
+      "total_changes": 5,
+      "xml_hash": "ebe491dcc73a3c13a6269306eaaab042c548a8c6f40ad971af08485b9e97a075"
     },
     "sf-20201104-2245": {
       "doc_type": "forskrift",
@@ -45615,15 +45615,15 @@
     "sf-20220628-1233": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-06-08",
+      "last_seen": "2026-06-08T08:51:39.537351Z",
       "markdown_path": "forskrifter/bilforskriften.md",
       "slug": "bilforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
-      "total_changes": 4,
-      "xml_hash": "e8331a9e4ef4e737b7195ffcbec8203d858f9e2860b3b0da954e8919d82a40af"
+      "total_changes": 5,
+      "xml_hash": "917b867e548b6c99d4ed32538dff9bd21b2140ce65859d8a163984962aa37dd8"
     },
     "sf-20220629-1237": {
       "doc_type": "forskrift",
@@ -54376,54 +54376,54 @@
     },
     "sf-20260513-0853": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-23",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-bilforskriften.md",
       "slug": "endr-i-bilforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
-      "total_changes": 6,
+      "total_changes": null,
       "xml_hash": "20c72e506ace774bc2e9d974275d0ec60420a37e91977862cabbcc1ed0ba3c9f"
     },
     "sf-20260513-0854": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-22",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-22T07:41:20.624788Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
       "slug": "forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om fartsskriververksteder",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "ca83bd844cd5355f0d848cba80bb6a521e1cef857f44b4a78d1a15b8cb274c95"
     },
     "sf-20260513-0855": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-23",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-kjøretøyforskriften.md",
       "slug": "endr-i-kjøretøyforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "538f228428420685d422da3b14e8be8218a0f3a683878a032299f72136dafe4b"
     },
     "sf-20260513-0856": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-05-23",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-05-23T06:31:59.201228Z",
       "markdown_path": "forskrifter/endr-i-verkstedforskriften.md",
       "slug": "endr-i-verkstedforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om arbeid på kjøretøy (verkstedforskriften)",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "d4541271747f89c5777a4a9379631f0fb9453f7fe9a4fb8c57990dc1ca4fb59d"
     },
     "sf-20260518-0859": {
@@ -54557,6 +54557,6 @@
       "xml_hash": "df3094f93f1d4e65c29959213e0a2c4e09d3d7eaed070cfe9a76c64b4e05e256"
     }
   },
-  "generated_at": "2026-06-06T06:50:21.095245Z",
+  "generated_at": "2026-06-08T08:51:39.537351Z",
   "version": 1
 }
