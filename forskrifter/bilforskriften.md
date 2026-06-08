@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2022-10-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-06-08"
 last_updated: "2024-02-12"
-xml_hash: "e8331a9e4ef4e737b7195ffcbec8203d858f9e2860b3b0da954e8919d82a40af"
+xml_hash: "917b867e548b6c99d4ed32538dff9bd21b2140ce65859d8a163984962aa37dd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-22T07:41:20.624788+00:00"
+retrieved_at: "2026-06-08T08:51:39.537351+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,11 +110,9 @@ Ny bil og tilhenger til bil som er EU-typegodkjent eller EU-enkeltgodkjent i ann
 
 ### § 2-6. Fremstilling for ny godkjenning
 
-(1) Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet, eller følger av de enkelte bestemmelser i denne forskrift. Det samme gjelder andre endringer av kjøretøyet som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
+Godkjent kjøretøy skal fremstilles til ny godkjenning dersom det foretas endring av kjøretøyet som gjør at det ikke lenger er i samsvar med opplysninger i vognkortet, eller følger av de enkelte bestemmelser i denne forskrift. Det samme gjelder andre endringer av kjøretøyet som har betydning for kjøretøyets miljø-, trafikksikkerhets- eller brannsikkerhetsegenskaper.
 
-(2) Godkjent kjøretøy skal også fremstilles for ny godkjenning før det tas i bruk dersom det er påført omfattende skader ved kollisjon, utforkjøring e.l. Det vises for øvrig til [kapittel 7](forskrift/2022-06-28-1233/kap7).
-
-> **Endres** ved forskrift [13 mai 2026 nr. 853](forskrift/2026-05-13-853) (i kraft 8 juni 2026).
+> Endret ved forskrift [13 mai 2026 nr. 853](forskrift/2026-05-13-853) (i kraft 8 juni 2026).
 
 ### § 2-7. Understellsnummer
 
@@ -414,11 +412,11 @@ Følgende definisjoner gjelder:*Understell*: Den komplette enhet bestående av r
 
 ### § 7-4. Reparasjon av kjøretøy
 
-(1) For bil og tilhenger til bil som er reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, skal det dokumenteres at reparasjonen er utført i henhold til kjøretøyprodusentens anvisninger der disse foreligger, og etter faglig anerkjente reparasjonsmetoder. Med «omfattende skade» menes skade eller deformasjon på kjøretøyets struktur eller bærende elementer av et slikt omfang at kjøretøyet må målrettes.
+(1) For bil og tilhenger til bil som er reparert etter omfattende skade i forbindelse med kollisjon, utforkjøring eller lignende, skal det foreligge dokumentasjon for arbeidet i henhold til [verkstedforskriften § 14a](forskrift/2020-10-28-2170/§14a). Med «omfattende skade» menes skade eller deformasjon på kjøretøyets struktur eller bærende elementer av et slikt omfang at kjøretøyet må målrettes.
 
 (2) Bil og tilhenger til bil anses som reparert bl.a. når:karosseri til kjøretøy med ramme (ikke selvbærende karosseri) blir skiftet ut med karosseri av samme type og det ikke foretas omfattende utskifting av deler og komponenter for øvrig.ramme skiftes ut med ramme av samme type uten at det foretas omfattende utskifting av deler og komponenter for øvrig.en forpart og en bakpart fra to kjøretøy med selvbærende karosseri av identisk type sammenføyes, og det ikke foretas omfattende utskiftning av deler og komponenter for øvrig.
 
-> **Endres** ved forskrift [13 mai 2026 nr. 853](forskrift/2026-05-13-853) (i kraft 8 juni 2026).
+> Endret ved forskrift [13 mai 2026 nr. 853](forskrift/2026-05-13-853) (i kraft 8 juni 2026).
 
 ### § 7-5. Ombygging av kjøretøy
 
