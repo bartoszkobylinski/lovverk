@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1999-01-01"
-last_change_in_force: "2024-09-17"
+last_change_in_force: "2026-06-03"
 last_updated: null
-xml_hash: "77c8b4ba91c66376673898ce652b8dfacdffd235e43ddaf617b0585ff3636156"
+xml_hash: "8fc33501bae85bd80439d3e7f110ba2ff8dfa417e20319b28c71dda460b81340"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-09T07:43:36.516087+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -181,6 +181,10 @@ Tiden for skjenking av brennevin kan ikke fastsettes utover den tid det kan skje
 Konsum av utskjenket alkoholholdig drikk må opphøre senest 30 minutter etter skjenketidens utløp.
 
 På overnattingssteder kan det skjenkes øl og vin til overnattingsgjester uten hensyn til begrensningene i denne paragraf.
+
+Bevillingsmyndigheten kan for perioden 11. juni til 19. juli 2026 fastsette skjenketider for vin og øl som avviker fra fjerde ledd. Avvikende skjenketider kan bare fastsettes for skjenkesteder som viser direktesendte kamper i fotball-VM for herrer 2026 for stedets gjester.
+
+> Endret ved forskrift [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008). **Endres** ved forskrift [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008) (i kraft 20 juli 2026).
 
 ### § 3-4. Inndragning av skjenkebevillinger
 
