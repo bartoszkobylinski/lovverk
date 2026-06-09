@@ -1,6 +1,11 @@
 # enhetsregisterloven — Change history
 
-_4 events; doc_id `nl-20250620-105`._
+_5 events; doc_id `nl-20250620-105`._
+
+## 2026-06-09 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): enhetsregisterloven`
+Commit: `459e023`.
 
 ## 2026-05-30 — Content updated
 Lines: +3 -3.

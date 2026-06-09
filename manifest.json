@@ -9778,28 +9778,28 @@
     "nl-20250620-105": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "lover/enhetsregisterloven.md",
       "slug": "enhetsregisterloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Enhetsregisteret (enhetsregisterloven)",
-      "total_changes": 4,
-      "xml_hash": "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
+      "total_changes": 5,
+      "xml_hash": "fb9e07515816a9fd94e8cad8824afddb93c2804881c17eab3186f2cc904d76e1"
     },
     "nl-20250620-106": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "lover/foretaksregisterloven.md",
       "slug": "foretaksregisterloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Foretaksregisteret (foretaksregisterloven)",
-      "total_changes": 4,
-      "xml_hash": "91c3a555b9f8df11259e336d1b9c0d696a482a06fcd8990c0f732c8c180407b5"
+      "total_changes": 5,
+      "xml_hash": "4352d4fb6aebb91595d72ffd3de492f82b6e04a3f392239cd4e6762d1660712e"
     },
     "nl-20250620-107": {
       "doc_type": "lov",
@@ -18185,15 +18185,15 @@
     "sf-19981211-1300": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "forskrifter/forskrift-om-alkoholordningen-for-svalbard.md",
       "slug": "forskrift-om-alkoholordningen-for-svalbard",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om alkoholordningen for Svalbard",
-      "total_changes": null,
-      "xml_hash": "77c8b4ba91c66376673898ce652b8dfacdffd235e43ddaf617b0585ff3636156"
+      "total_changes": 4,
+      "xml_hash": "8fc33501bae85bd80439d3e7f110ba2ff8dfa417e20319b28c71dda460b81340"
     },
     "sf-19981211-1390": {
       "doc_type": "forskrift",
@@ -19875,15 +19875,15 @@
     "sf-20010615-0634": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "forskrifter/forskrift-om-forenklet-forelegg-i-småbåtsaker.md",
       "slug": "forskrift-om-forenklet-forelegg-i-småbåtsaker",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forenklet forelegg i fritids- og småbåtsaker",
-      "total_changes": null,
-      "xml_hash": "314dfc1312ed32f10efa7fe8e1f69d4162fad70c7284ede844f11f88a53f17d1"
+      "total_changes": 4,
+      "xml_hash": "70cbb67e6944e72c6571c0edb3d2b00eaa60954df291784462c668fec308dc9a"
     },
     "sf-20010622-0704": {
       "doc_type": "forskrift",
@@ -21110,15 +21110,15 @@
     "sf-20030115-0123": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "forskrifter/forskrift-om-fastsetjing-av-fostringstilskot.md",
       "slug": "forskrift-om-fastsetjing-av-fostringstilskot",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fastsetjing og endring av fostringstilskot",
-      "total_changes": null,
-      "xml_hash": "a5b72f6592059db1be1b7aa9c5bd87ab8c1dd1fc74c8265a060e101e7816760b"
+      "total_changes": 4,
+      "xml_hash": "c081263355f4bdc4d83f9cdac97501b21f48f98016c7b8aad33437e754e5e9bf"
     },
     "sf-20030130-0085": {
       "doc_type": "forskrift",
@@ -53142,15 +53142,15 @@
     "sf-20251219-2826": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-22",
-      "last_seen": "2026-05-22T07:41:20.624788Z",
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-torsk-hyse-og-sei-nord-for-62-grader-nord-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk, hyse og sei nord for 62 grader nord i 2026",
-      "total_changes": 5,
-      "xml_hash": "3c2b9d237ababc33ad538d1a7ea3a968cdfdee4b4e450c6fb1a5badc063fd723"
+      "total_changes": 6,
+      "xml_hash": "1672acfb364f707b2b3858c37d41cdef59c765e53d715c97901a682bf2ea7661"
     },
     "sf-20251219-2828": {
       "doc_type": "forskrift",
@@ -54374,58 +54374,6 @@
       "total_changes": 1,
       "xml_hash": "7e767a0944fb63f61f3342ab8fd5c58a1880c5e2da37a9eb5682549b78bab63f"
     },
-    "sf-20260513-0853": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-23T06:31:59.201228Z",
-      "markdown_path": "forskrifter/endr-i-bilforskriften.md",
-      "slug": "endr-i-bilforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil (bilforskriften)",
-      "total_changes": null,
-      "xml_hash": "20c72e506ace774bc2e9d974275d0ec60420a37e91977862cabbcc1ed0ba3c9f"
-    },
-    "sf-20260513-0854": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-22T07:41:20.624788Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fartsskriververksteder.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-fartsskriververksteder",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om fartsskriververksteder",
-      "total_changes": null,
-      "xml_hash": "ca83bd844cd5355f0d848cba80bb6a521e1cef857f44b4a78d1a15b8cb274c95"
-    },
-    "sf-20260513-0855": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-23T06:31:59.201228Z",
-      "markdown_path": "forskrifter/endr-i-kjøretøyforskriften.md",
-      "slug": "endr-i-kjøretøyforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)",
-      "total_changes": null,
-      "xml_hash": "538f228428420685d422da3b14e8be8218a0f3a683878a032299f72136dafe4b"
-    },
-    "sf-20260513-0856": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-05-23T06:31:59.201228Z",
-      "markdown_path": "forskrifter/endr-i-verkstedforskriften.md",
-      "slug": "endr-i-verkstedforskriften",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om arbeid på kjøretøy (verkstedforskriften)",
-      "total_changes": null,
-      "xml_hash": "d4541271747f89c5777a4a9379631f0fb9453f7fe9a4fb8c57990dc1ca4fb59d"
-    },
     "sf-20260518-0859": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54555,8 +54503,21 @@
       "title": "Forskrift om regulering av fisket etter lodde ved Island, Grønland og Jan Mayen i 2026",
       "total_changes": 1,
       "xml_hash": "df3094f93f1d4e65c29959213e0a2c4e09d3d7eaed070cfe9a76c64b4e05e256"
+    },
+    "sf-20260605-1011": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-09",
+      "last_seen": "2026-06-09T07:43:36.516087Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fastsetjing og endring av fostringstilskot",
+      "total_changes": 1,
+      "xml_hash": "580cfea667ddd9e729e95084c8aef999e8d3f37a90e002ad499975012e080130"
     }
   },
-  "generated_at": "2026-06-08T08:51:39.537351Z",
+  "generated_at": "2026-06-09T07:43:36.516087Z",
   "version": 1
 }

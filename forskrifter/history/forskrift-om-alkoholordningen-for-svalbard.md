@@ -1,6 +1,16 @@
 # forskrift-om-alkoholordningen-for-svalbard — Change history
 
-_2 events; doc_id `sf-19981211-1300`._
+_4 events; doc_id `sf-19981211-1300`._
+
+## 2026-06-09 — Content updated
+Lines: +7 -3.
+Subject: `update(forskrift): forskrift-om-alkoholordningen-for-svalbard`
+Commit: `d244ebd`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19981211-1300.md` → `forskrifter/forskrift-om-alkoholordningen-for-svalbard.md`.

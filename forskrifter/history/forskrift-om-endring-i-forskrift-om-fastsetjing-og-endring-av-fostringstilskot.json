@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260605-1011",
+  "events": [
+    {
+      "commit": "2d0670f",
+      "date": "2026-06-09",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-fastsetjing-og-endring-av-fostringstilskot"
+}

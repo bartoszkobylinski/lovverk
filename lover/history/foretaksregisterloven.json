@@ -2,6 +2,16 @@
   "doc_id": "nl-20250620-106",
   "events": [
     {
+      "commit": "53a694a",
+      "date": "2026-06-09",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): foretaksregisterloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "cb70f93",
       "date": "2026-05-30",
       "from_path": null,
