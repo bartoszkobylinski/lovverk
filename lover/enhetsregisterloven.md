@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "05aa4cfe0ae88ad54f74345c006c54976d333300f436d3724771e831353a01db"
+xml_hash: "fb9e07515816a9fd94e8cad8824afddb93c2804881c17eab3186f2cc904d76e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-06-09T07:43:36.516087+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -262,7 +262,7 @@ Når meldte opplysninger er kontrollert og funnet i orden, skal registerføreren
 
 (1) Registerføreren skal straks sende underretning om vedtaket til innsenderen av meldingen og enheten.
 
-(2) Når det blir registrert endringer i styret eller av hvem som er daglig leder, skal registerføreren straks sende underretning om vedtaket til den som ikke lenger er registrert som styremedlem, varamedlem eller daglig leder som følge av registreringen.
+(2) Når det blir registrert endringer i styret eller av hvem som er daglig leder, skal registerføreren straks sende underretning om vedtaket til den som ikke lenger er registrert som styremedlem, varamedlem eller daglig leder som følge av registreringen.1
 
 (3) Når det blir registrert opplysninger om en enhet, skal registerføreren straks sende en oversikt over det som er registrert, til innsenderen av meldingen og enheten eller angi hvor oversikten er tilgjengelig. Dette gjelder tilsvarende for dem som skal motta underretning om vedtaket etter andre ledd.
 
