@@ -1,6 +1,11 @@
 # forskrift-om-plantevernmidler — Change history
 
-_4 events; doc_id `sf-20150506-0455`._
+_5 events; doc_id `sf-20150506-0455`._
+
+## 2026-06-10 — Content updated
+Lines: +15 -10.
+Subject: `update(forskrift): forskrift-om-plantevernmidler`
+Commit: `5f7247b`.
 
 ## 2026-05-07 — Content updated
 Lines: +14 -8.

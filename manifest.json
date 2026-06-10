@@ -21162,15 +21162,15 @@
     "sf-20030206-0125": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/forskrift-om-inntektsprøving-av-forskott.md",
       "slug": "forskrift-om-inntektsprøving-av-forskott",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om gjennomføringen av bestemmelsene om inntektsprøving av forskott",
-      "total_changes": null,
-      "xml_hash": "d92e676ed4f0e321a4f08e8bf8791ab178189807298de74147d8fc436492012f"
+      "total_changes": 4,
+      "xml_hash": "fc959fb48ed27adb45e42d7b1c18c49302055cc1b22c3493d9f4c1d1881eb73d"
     },
     "sf-20030206-0139": {
       "doc_type": "forskrift",
@@ -29911,28 +29911,28 @@
     "sf-20111206-1357": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/forskrift-om-utførelse-av-arbeid.md",
       "slug": "forskrift-om-utførelse-av-arbeid",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid)",
-      "total_changes": null,
-      "xml_hash": "832ec48a7416698443420aea69a0aed6110ed32d6164d9b5e458b896f6edf551"
+      "total_changes": 4,
+      "xml_hash": "846b05e9469852e343dee4f00e58c16a0bb3714cd2a97dccf9c348f7656b2fbb"
     },
     "sf-20111206-1358": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/forskrift-om-tiltaks-og-grenseverdier.md",
       "slug": "forskrift-om-tiltaks-og-grenseverdier",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier)",
-      "total_changes": null,
-      "xml_hash": "8da9474df16ccdd84bf4c2839b8c436bd4007862498ddc52429254333882b621"
+      "total_changes": 4,
+      "xml_hash": "04ae707dd9e9743cfea5ccbc337255009896047693da5bb8adb059a8020d7836"
     },
     "sf-20111206-1359": {
       "doc_type": "forskrift",
@@ -33850,15 +33850,15 @@
     "sf-20150506-0455": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-07",
-      "last_seen": "2026-05-07T06:32:55.817317Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/forskrift-om-plantevernmidler.md",
       "slug": "forskrift-om-plantevernmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om plantevernmidler",
-      "total_changes": 4,
-      "xml_hash": "04d1a5e2cd619754b50c3b9d6fa56e432dc31bee3d63540e88b98f20dc2184ef"
+      "total_changes": 5,
+      "xml_hash": "a02dc2f303577660dc913dc4c2fa9256b7136ebc99d2efda0b90e9fe303eebd2"
     },
     "sf-20150507-0488": {
       "doc_type": "forskrift",
@@ -40298,15 +40298,15 @@
     "sf-20191218-1989": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/referanseverdiforskriften.md",
       "slug": "referanseverdiforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til referanseverdiloven (referanseverdiforskriften)",
-      "total_changes": null,
-      "xml_hash": "24b6f4d98f658a82473936480aa0c0566badac2686aada37fdfe62402c068c1f"
+      "total_changes": 4,
+      "xml_hash": "045c2a6c8ef8849ec9e95e98ed818b27c4d94e6c13f6312f944b06d5fc2454cf"
     },
     "sf-20191218-1991": {
       "doc_type": "forskrift",
@@ -53376,15 +53376,15 @@
     "sf-20260105-0013": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-med-fartøy-som-fører-svensk-flagg-i-norges-økonomiske-sone-sør-for-62-n-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-med-fartøy-som-fører-svensk-flagg-i-norges-økonomiske-sone-sør-for-62-n-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket med fartøy som fører svensk flagg i Norges økonomiske sone sør for 62° N i 2026",
-      "total_changes": null,
-      "xml_hash": "0689d57f59152b13d94da405d5397ab64a794676624e9cb8b166810ddd3b479b"
+      "total_changes": 4,
+      "xml_hash": "a384c883436c821aeb88c1628e08402f61ec530b5782b0e89eb106e92f8670f4"
     },
     "sf-20260107-0012": {
       "doc_type": "forskrift",
@@ -54516,8 +54516,21 @@
       "title": "Forskrift om endring i forskrift om fastsetjing og endring av fostringstilskot",
       "total_changes": 1,
       "xml_hash": "580cfea667ddd9e729e95084c8aef999e8d3f37a90e002ad499975012e080130"
+    },
+    "sf-20260605-1018": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-10",
+      "last_seen": "2026-06-10T08:04:37.174276Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om gjennomføring av bestemmelsene om inntektsprøving av forskott",
+      "total_changes": 1,
+      "xml_hash": "2e001001eef409cea0b8d7f52280c17e88be1a000a8eda3e64fa1e4e7fc317fc"
     }
   },
-  "generated_at": "2026-06-09T07:43:36.516087Z",
+  "generated_at": "2026-06-10T08:04:37.174276Z",
   "version": 1
 }

@@ -1,6 +1,16 @@
 # forskrift-om-regulering-av-fisket-med-fartøy-som-fører-svensk-flagg-i-norges-økonomiske-sone-sør-for-62-n-i-2026 — Change history
 
-_2 events; doc_id `sf-20260105-0013`._
+_4 events; doc_id `sf-20260105-0013`._
+
+## 2026-06-10 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-med-fartøy-som-fører-svensk-flagg-i-norges-økonomiske-sone-sør-for-62-n-i-2026`
+Commit: `3ea406f`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20260105-0013.md` → `"forskrifter/forskrift-om-regulering-av-fisket-med-fart\303\270y-som-f\303\270rer-svensk-flagg-i-norges-\303\270konomiske-sone-s\303\270r-for-62-n-i-2026.md"`.

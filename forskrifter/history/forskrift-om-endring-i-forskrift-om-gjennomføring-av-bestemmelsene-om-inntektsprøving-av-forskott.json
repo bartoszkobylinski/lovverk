@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260605-1018",
+  "events": [
+    {
+      "commit": "bc70e74",
+      "date": "2026-06-10",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-gjennomføring-av-bestemmelsene-om-inntektsprøving-av-forskott"
+}
