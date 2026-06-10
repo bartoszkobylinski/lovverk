@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2013-01-01"
-last_change_in_force: "2026-04-10"
+last_change_in_force: "2026-06-05"
 last_updated: "2023-08-11"
-xml_hash: "8da9474df16ccdd84bf4c2839b8c436bd4007862498ddc52429254333882b621"
+xml_hash: "04ae707dd9e9743cfea5ccbc337255009896047693da5bb8adb059a8020d7836"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-10T08:04:37.174276+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -242,11 +242,11 @@ Hver av følgende tre generelle regler bør anvendes på alle gjentatte eksponer
 
 ## Vedlegg 5: Nedre tiltaksverdier for elektromagnetisk felt
 
-> Vedlegg 5 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrift 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017).
+> Vedlegg 5 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrifter 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017), [5 juni 2026 nr. 1019](forskrift/2026-06-05-1019).
 
 ## Vedlegg 6: Øvre tiltaksverdier for elektromagnetisk felt
 
-> Vedlegg 6 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrifter 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017), [20 des 2017 nr. 2353](forskrift/2017-12-20-2353) (i kraft 1 jan 2018).
+> Vedlegg 6 tilføyd ved [forskrift 21 juni 2016 nr. 760](forskrift/2016-06-21-760) (i kraft 1 juli 2016), endret ved [forskrifter 22 des 2016 nr. 1860](forskrift/2016-12-22-1860) (i kraft 1 jan 2017), [20 des 2017 nr. 2353](forskrift/2017-12-20-2353) (i kraft 1 jan 2018), [5 juni 2026 nr. 1019](forskrift/2026-06-05-1019).
 
 ## Vedlegg 7: Grenseverdier for elektromagnetisk felt
 
