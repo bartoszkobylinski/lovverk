@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-05"
-last_change_in_force: null
+last_change_in_force: "2026-06-04"
 last_updated: null
-xml_hash: "0689d57f59152b13d94da405d5397ab64a794676624e9cb8b166810ddd3b479b"
+xml_hash: "a384c883436c821aeb88c1628e08402f61ec530b5782b0e89eb106e92f8670f4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-10T08:04:37.174276+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,9 @@ Det er forbudt å drive fiske og fangst med fartøy som fører svensk flagg i No
 
 ## § 2. Kvoter
 
-Uten hinder av forbudet i [§ 1](forskrift/2026-01-05-13/§1) har fartøy som fører svensk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene og vest for en rett linje gjennom Lindesnes fyr og Hanstholmen fyr:382 tonn torsk707 tonn hyse880 tonn sei190 tonn lyr og hvitting242 tonn makrell, herunder bifangst. Denne kvoten kan også fiskes i Norges økonomiske sone nord for 62° N.800 tonn industrifisk, hvorav maksimalt 400 tonn hestmakrell846 tonn sild123 tonn rekerAndre arter i tradisjonelt omfang.
+Uten hinder av forbudet i [§ 1](forskrift/2026-01-05-13/§1) har fartøy som fører svensk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene og vest for en rett linje gjennom Lindesnes fyr og Hanstholmen fyr:382 tonn torsk707 tonn hyse880 tonn sei190 tonn lyr og hvitting242 tonn makrell, herunder bifangst. Denne kvoten kan også fiskes i Norges økonomiske sone nord for 62° N.800 tonn industrifisk, hvorav maksimalt 400 tonn hestmakrell. Det er ikke tillatt å fiske tobis og øyepål.846 tonn sild123 tonn rekerAndre arter i tradisjonelt omfang.
+
+> Endret ved forskrift [4 juni 2026 nr. 1017](forskrift/2026-06-04-1017).
 
 ## § 3. Bifangst
 
