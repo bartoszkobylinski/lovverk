@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2019-12-20"
-last_change_in_force: "2026-03-24"
+last_change_in_force: "2026-06-08"
 last_updated: null
-xml_hash: "24b6f4d98f658a82473936480aa0c0566badac2686aada37fdfe62402c068c1f"
+xml_hash: "045c2a6c8ef8849ec9e95e98ed818b27c4d94e6c13f6312f944b06d5fc2454cf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-10T08:04:37.174276+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,9 +84,9 @@ Følgende forordninger gjelder som forskrift med de tilpasninger som følger av 
 
 ## § 11. Likeverdighetsvurderinger
 
-Følgende beslutninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:EØS-avtalen vedlegg IX beslutning (EU) [2019/1274](eu/32019d1274) (om likeverdigheten av de rettslige og tilsynsmessige rammene som gjelder for referanseverdier i Australia i henhold til europaparlaments- og rådsforordning [(EU) 2016/1011](eu/32016r1011)).EØS-avtalen vedlegg IX beslutning (EU) [2019/1275](eu/32019d1275) (om likeverdigheten av de rettslige og tilsynsmessige rammene som gjelder for referanseverdier i Singapore i henhold til europaparlaments- og rådsforordning [(EU) 2016/1011](eu/32016r1011)).
+Følgende beslutninger gjelder som forskrift med de tilpasninger som følger av EØS-avtalen vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig:[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) beslutning (EU) [2019/1274](eu/32019d1274) (om likeverdigheten av de rettslige og tilsynsmessige rammene som gjelder for referanseverdier i Australia i henhold til europaparlaments- og rådsforordning [(EU) 2016/1011](eu/32016r1011)).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) beslutning (EU) [2019/1275](eu/32019d1275) (om likeverdigheten av de rettslige og tilsynsmessige rammene som gjelder for referanseverdier i Singapore i henhold til europaparlaments- og rådsforordning [(EU) 2016/1011](eu/32016r1011)).[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) beslutning [(EU) 2025/2197](eu/32025d2197) (om likeverdigheten av de rettslige og tilsynsmessige rammene som gjelder for referanseverdier i New Zealand i samsvar med europaparlaments- og rådsforordning [(EU) 2016/1011](eu/32016r1011)).
 
-> Tilføyd ved [forskrift 17 feb 2020 nr. 152](forskrift/2020-02-17-152), endret ved forskrift [27 des 2022 nr. 2506](forskrift/2022-12-27-2506) (i kraft 1 jan 2023, tidligere § 10).
+> Tilføyd ved [forskrift 17 feb 2020 nr. 152](forskrift/2020-02-17-152), endret ved forskrifter [27 des 2022 nr. 2506](forskrift/2022-12-27-2506) (i kraft 1 jan 2023, tidligere § 10), [8 juni 2026 nr. 1021](forskrift/2026-06-08-1021).
 
 ## § 12. Utpekte erstatningsreferanseverdier
 
