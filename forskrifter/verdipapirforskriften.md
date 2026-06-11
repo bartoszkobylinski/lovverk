@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2007-11-01"
-last_change_in_force: "2025-09-23"
+last_change_in_force: "2026-06-08"
 last_updated: "2024-11-06"
-xml_hash: "9f0f11698743ff5a5587d66f6370bdd7fc7500b45083f1c7d480adb130bea227"
+xml_hash: "ae33e14f790db8577a75d1e01a89ee9d47aaecde87d52e227b4c24c859d14671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-11T05:13:32.337092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -346,9 +346,9 @@ Bestemmelsene i kapittelet her gjelder tilsvarende for egenkapitalbevis.
 
 ### § 5-13. Elektronisk rapporteringsformat
 
-[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2019/815](eu/32019r0815) om utfylling av rapporteringsdirektivet med hensyn til tekniske reguleringsstandarder for spesifisering av et felles elektronisk rapporteringsformat som endret ved forordning [(EU) 2019/2100](eu/32019r2100), [(EU) 2020/1989](eu/32020r1989), [(EU) 2022/352](eu/32022r0352), [(EU) 2022/2553](eu/32022r2553) og [(EU) 2025/19](eu/32025r0019) gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) forordning [(EU) 2019/815](eu/32019r0815) om utfylling av rapporteringsdirektivet med hensyn til tekniske reguleringsstandarder for spesifisering av et felles elektronisk rapporteringsformat som endret ved forordning [(EU) 2019/2100](eu/32019r2100), [(EU) 2020/1989](eu/32020r1989), [(EU) 2022/352](eu/32022r0352), [(EU) 2022/2553](eu/32022r2553), [(EU) 2025/19](eu/32025r0019) og [(EU) 2026/283](eu/32026r0283) gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [31 aug 2022 nr. 1515](forskrift/2022-08-31-1515) (i kraft 1 sep 2022 og får anvendelse på årsrapporter som inneholder årsregnskap for regnskapsår som begynner 1. januar 2022 eller seinere. Tidligere anvendelse er tillatt.), endret ved forskrifter [29 mars 2023 nr. 439](forskrift/2023-03-29-439), [23 sep 2025 nr. 1913](forskrift/2025-09-23-1913).
+> Tilføyd ved forskrift [31 aug 2022 nr. 1515](forskrift/2022-08-31-1515) (i kraft 1 sep 2022 og får anvendelse på årsrapporter som inneholder årsregnskap for regnskapsår som begynner 1. januar 2022 eller seinere), endret ved forskrifter [29 mars 2023 nr. 439](forskrift/2023-03-29-439), [23 sep 2025 nr. 1913](forskrift/2025-09-23-1913), [8 juni 2026 nr. 1028](forskrift/2026-06-08-1028).
 
 ### § 5-14. Gjennomføring av kommisjonsforordning (EU) 2016/1437
 
