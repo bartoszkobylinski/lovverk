@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-09-16"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-06-06"
 last_updated: "2025-01-02"
-xml_hash: "e74359d503683d5e3a7d3f084bd499ad8e90e6961a1cba99453e710a1e9439e5"
+xml_hash: "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-07T06:32:55.817317+00:00"
+retrieved_at: "2026-06-11T05:13:32.337092+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -127,6 +127,12 @@ Forordning [(EU) 2024/1159](eu/32024r1159) om utfylling av europaparlaments- og 
 Forordning [(EU) 2025/2154](eu/32025r2154) om god tilvirkningspraksis for virksomme stoffer i legemidler til dyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22q, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
 > Tilføyd ved forskrift [27 april 2026 nr. 712](forskrift/2026-04-27-712) (i kraft 1 mai 2026).
+
+### § 1-18. God tilvirkningspraksis for legemidler til dyr
+
+Forordning [(EU) 2025/2091](eu/32025r2091) om god tilvirkningspraksis for legemidler til dyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 22r, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [3 juni 2026 nr. 1023](forskrift/2026-06-03-1023) (i kraft 6 juni 2026).
 
 ## Kapittel II. Utfyllende nasjonale bestemmelser om myndigheter
 
