@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260609-1029",
+  "events": [
+    {
+      "commit": "abe308f",
+      "date": "2026-06-11",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2"
+}

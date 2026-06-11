@@ -1,6 +1,16 @@
 # verdipapirforskriften — Change history
 
-_2 events; doc_id `sf-20070629-0876`._
+_4 events; doc_id `sf-20070629-0876`._
+
+## 2026-06-11 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): verdipapirforskriften`
+Commit: `e79f0d6`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20070629-0876.md` → `forskrifter/verdipapirforskriften.md`.

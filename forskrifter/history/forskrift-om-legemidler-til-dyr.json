@@ -2,6 +2,16 @@
   "doc_id": "sf-20220908-1573",
   "events": [
     {
+      "commit": "89f0196",
+      "date": "2026-06-11",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-legemidler-til-dyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "acf9680",
       "date": "2026-05-07",
       "from_path": null,

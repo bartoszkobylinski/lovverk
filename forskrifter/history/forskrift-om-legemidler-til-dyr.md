@@ -1,6 +1,11 @@
 # forskrift-om-legemidler-til-dyr — Change history
 
-_4 events; doc_id `sf-20220908-1573`._
+_5 events; doc_id `sf-20220908-1573`._
+
+## 2026-06-11 — Content updated
+Lines: +9 -3.
+Subject: `update(forskrift): forskrift-om-legemidler-til-dyr`
+Commit: `89f0196`.
 
 ## 2026-05-07 — Content updated
 Lines: +11 -5.

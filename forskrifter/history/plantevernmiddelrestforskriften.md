@@ -1,6 +1,11 @@
 # plantevernmiddelrestforskriften — Change history
 
-_4 events; doc_id `sf-20090818-1117`._
+_5 events; doc_id `sf-20090818-1117`._
+
+## 2026-06-11 — Content updated
+Lines: +9 -9.
+Subject: `update(forskrift): plantevernmiddelrestforskriften`
+Commit: `baa4a9c`.
 
 ## 2026-05-19 — Content updated
 Lines: +9 -9.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260605-1024",
+  "events": [
+    {
+      "commit": "a1f1a5e",
+      "date": "2026-06-11",
+      "from_path": null,
+      "lines_added": 423,
+      "lines_removed": 0,
+      "subject": "add(forskrift): anleggsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "anleggsforskriften"
+}

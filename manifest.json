@@ -25517,15 +25517,15 @@
     "sf-20070629-0876": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/verdipapirforskriften.md",
       "slug": "verdipapirforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til verdipapirhandelloven (verdipapirforskriften)",
-      "total_changes": null,
-      "xml_hash": "9f0f11698743ff5a5587d66f6370bdd7fc7500b45083f1c7d480adb130bea227"
+      "total_changes": 4,
+      "xml_hash": "ae33e14f790db8577a75d1e01a89ee9d47aaecde87d52e227b4c24c859d14671"
     },
     "sf-20070629-0904": {
       "doc_type": "forskrift",
@@ -27571,15 +27571,15 @@
     "sf-20090818-1117": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-19",
-      "last_seen": "2026-05-19T07:43:04.082586Z",
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/plantevernmiddelrestforskriften.md",
       "slug": "plantevernmiddelrestforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rester av plantevernmidler i næringsmidler og fôrvarer",
-      "total_changes": 4,
-      "xml_hash": "dc57a11cd08bb04a36e261f5ba83fe1109a4dadbd9af7d35282aa945d0f41021"
+      "total_changes": 5,
+      "xml_hash": "e75ebebf12060fd17c22b0e34767f4096bcbdfa34e250410c0739c946be8a7d9"
     },
     "sf-20090821-1148": {
       "doc_type": "forskrift",
@@ -30743,15 +30743,15 @@
     "sf-20120808-0797": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/geodataforskriften.md",
       "slug": "geodataforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om infrastruktur for geografisk informasjon (geodataforskriften)",
-      "total_changes": null,
-      "xml_hash": "4921529b4963c3209187ad48124e9ddbc6162418f209f7e0e1badd8cc0f76b90"
+      "total_changes": 4,
+      "xml_hash": "d81769d338243a02bf846fd86d87144accd460cd945d7815f0e9fb9011bc3bc2"
     },
     "sf-20120816-0820": {
       "doc_type": "forskrift",
@@ -39063,15 +39063,15 @@
     "sf-20181228-2247": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md",
       "slug": "forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
-      "total_changes": null,
-      "xml_hash": "38fc3db4604d373eaeb48c1a739c25b13f8f8a053eaaa2d8abef7959e5ec24ce"
+      "total_changes": 4,
+      "xml_hash": "f9476c1856db722e8dc2c2eb56e9557cdaef2e17d0778c356c01467d3c413829"
     },
     "sf-20190111-0018": {
       "doc_type": "forskrift",
@@ -45888,15 +45888,15 @@
     "sf-20220908-1573": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-07",
-      "last_seen": "2026-05-07T06:32:55.817317Z",
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/forskrift-om-legemidler-til-dyr.md",
       "slug": "forskrift-om-legemidler-til-dyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om legemidler til dyr",
-      "total_changes": 4,
-      "xml_hash": "e74359d503683d5e3a7d3f084bd499ad8e90e6961a1cba99453e710a1e9439e5"
+      "total_changes": 5,
+      "xml_hash": "0db5acf29e2c53adb39d38c7dc3b0920919ea329cad8cd2ee8cbd6341b678e97"
     },
     "sf-20220909-1552": {
       "doc_type": "forskrift",
@@ -54529,8 +54529,60 @@
       "title": "Forskrift om endring i forskrift om gjennomføring av bestemmelsene om inntektsprøving av forskott",
       "total_changes": 1,
       "xml_hash": "2e001001eef409cea0b8d7f52280c17e88be1a000a8eda3e64fa1e4e7fc317fc"
+    },
+    "sf-20260605-1024": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
+      "markdown_path": "forskrifter/anleggsforskriften.md",
+      "slug": "anleggsforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet fra spilloverskuddet til Norsk Tipping (anleggsforskriften)",
+      "total_changes": 1,
+      "xml_hash": "b6f3558ab27c6a02283e7c8dbf225873ac4e3e37f5e0ec066b930f321f628013"
+    },
+    "sf-20260608-1026": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
+      "total_changes": 1,
+      "xml_hash": "023838e030dc636bace63981325ccb78093dc77ac32cf2241634f9bca6dd5d9b"
+    },
+    "sf-20260608-1027": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
+      "total_changes": 2,
+      "xml_hash": "f597db1642622e7288a765b19ceacf3ad9e694dc948374c8a7ec03002eb50b55"
+    },
+    "sf-20260609-1029": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-11",
+      "last_seen": "2026-06-11T05:13:32.337092Z",
+      "markdown_path": "forskrifter/forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2.md",
+      "slug": "forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok",
+      "total_changes": 1,
+      "xml_hash": "a16c4fdeb92975a509083948b8a1b508702ab93808ecda1562aa03c5d497e2f6"
     }
   },
-  "generated_at": "2026-06-10T08:04:37.174276Z",
+  "generated_at": "2026-06-11T05:13:32.337092Z",
   "version": 1
 }

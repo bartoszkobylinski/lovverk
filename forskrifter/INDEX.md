@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3419 current documents_
+_3423 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -23,6 +23,7 @@ _3419 current documents_
 - [animaliebiproduktforskriften](animaliebiproduktforskriften.md) — Forskrift om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)
 - [animaliehygieneforskriften](animaliehygieneforskriften.md) — Forskrift om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)
 - [ankringsforskriften-09](ankringsforskriften-09.md) — Forskrift om posisjonerings- og ankringssystemer på flyttbare innretninger (ankringsforskriften 09)
+- [anleggsforskriften](anleggsforskriften.md) — Forskrift om tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet fra spilloverskuddet til Norsk Tipping (anleggsforskriften)
 - [anløpsforskriften](anløpsforskriften.md) — Forskrift om fremmede fartøyers anløp til og ferdsel i norsk territorialfarvann (anløpsforskriften)
 - [anskaffelsesforskriften-foa](anskaffelsesforskriften-foa.md) — Forskrift om offentlige anskaffelser (anskaffelsesforskriften)
 - [apotekforskriften](apotekforskriften.md) — Forskrift om apotek (apotekforskriften)
@@ -693,6 +694,8 @@ _3419 current documents_
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
+- [forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy](forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md) — Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)
+- [forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2](forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2.md) — Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
@@ -2265,6 +2268,7 @@ _3419 current documents_
 - [forskrift-om-skogfond-o-a](forskrift-om-skogfond-o-a.md) — Forskrift om skogfond o.a.
 - [forskrift-om-skogfrø-og-skogplanter](forskrift-om-skogfrø-og-skogplanter.md) — Forskrift om skogfrø og skogplanter.
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok](forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok.md) — Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole, Karasjok
+- [forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2](forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino](forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino.md) — Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole og reindriftsskole, Kautokeino
 - [forskrift-om-skolepenger-i-utlandet](forskrift-om-skolepenger-i-utlandet.md) — Forskrift om tilskudd til dekning av skolepenger til elever ved utenlandske eller internasjonale videregående skoler.
 - [forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino](forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino.md) — Forskrift om skoleregler for Samisk videregående skole, Karasjok og Samisk videregående skole og reindriftsskole, Kautokeino

@@ -1,6 +1,16 @@
 # forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy — Change history
 
-_2 events; doc_id `sf-20181228-2247`._
+_4 events; doc_id `sf-20181228-2247`._
+
+## 2026-06-11 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy`
+Commit: `0632d4a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20181228-2247.md` → `"forskrifter/forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kj\303\270ret\303\270y.md"`.
