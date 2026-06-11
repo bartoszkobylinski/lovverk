@@ -10,12 +10,12 @@ ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2012-08-08"
 last_change_in_force: "2024-12-12"
-last_updated: "2021-01-15"
-xml_hash: "4921529b4963c3209187ad48124e9ddbc6162418f209f7e0e1badd8cc0f76b90"
+last_updated: "2026-06-10"
+xml_hash: "d81769d338243a02bf846fd86d87144accd460cd945d7815f0e9fb9011bc3bc2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-11T05:13:32.337092+00:00"
 status: "current"
 eu_basis: []
 ---
