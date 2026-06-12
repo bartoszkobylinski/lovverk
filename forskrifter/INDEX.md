@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3423 current documents_
+_3424 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1018,6 +1018,7 @@ _3423 current documents_
 - [forskrift-om-gjennomføring-av-bilaterale-trygdeavtaler](forskrift-om-gjennomføring-av-bilaterale-trygdeavtaler.md) — Forskrift om gjennomføring av bilaterale trygdeavtaler
 - [forskrift-om-gjennomføring-av-efta-konvensjon](forskrift-om-gjennomføring-av-efta-konvensjon.md) — Forskrift om gjennomføring og håndheving av EFTA-konvensjonen av 21. juni 2001, på luftfartens område.
 - [forskrift-om-gjennomføring-av-eøs-rettsakter-om-europeisk-statistikk](forskrift-om-gjennomføring-av-eøs-rettsakter-om-europeisk-statistikk.md) — Forskrift om gjennomføring av EØS-rettsakter om europeisk statistikk
+- [forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156](forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156.md) — Forskrift om gjennomføring av forordning (EU) 2020/2155 og forordning (EU) 2020/2156
 - [forskrift-om-gjennomføring-av-forordning-ef-nr-713-2009](forskrift-om-gjennomføring-av-forordning-ef-nr-713-2009.md) — Forskrift om gjennomføring i norsk rett av EØS-avtalen vedlegg IV nr. 47 (forordning (EF) nr. 713/2009 om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter)
 - [forskrift-om-gjennomføring-av-forordning-eu-2015-10-om-kriterier-for-søkere-av-jernbaneinfrastrukturkapasitet](forskrift-om-gjennomføring-av-forordning-eu-2015-10-om-kriterier-for-søkere-av-jernbaneinfrastrukturkapasitet.md) — Forskrift om gjennomføring av forordning (EU) 2015/10 om kriterier for søkere av jernbaneinfrastrukturkapasitet
 - [forskrift-om-gjennomføring-av-forordning-eu-2015-1100-om-medlemsstatenes-rapporteringsplikt-innenfor-rammen-av-overvåking-av-jernbanemarkedet](forskrift-om-gjennomføring-av-forordning-eu-2015-1100-om-medlemsstatenes-rapporteringsplikt-innenfor-rammen-av-overvåking-av-jernbanemarkedet.md) — Forskrift om gjennomføring av forordning (EU) 2015/1100 om medlemsstatenes rapporteringsplikt innenfor rammen av overvåking av jernbanemarkedet

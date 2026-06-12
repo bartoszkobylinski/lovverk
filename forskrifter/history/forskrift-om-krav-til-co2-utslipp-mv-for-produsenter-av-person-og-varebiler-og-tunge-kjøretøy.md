@@ -1,6 +1,11 @@
 # forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy — Change history
 
-_4 events; doc_id `sf-20181228-2247`._
+_5 events; doc_id `sf-20181228-2247`._
+
+## 2026-06-12 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy`
+Commit: `2a4e53e`.
 
 ## 2026-06-11 — Content updated
 Lines: +3 -3.

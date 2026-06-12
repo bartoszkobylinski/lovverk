@@ -34357,15 +34357,15 @@
     "sf-20150703-0871": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-12",
+      "last_seen": "2026-06-12T08:22:38.160531Z",
       "markdown_path": "forskrifter/forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler.md",
       "slug": "forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om prøvetaking og analyse for offentlig kontroll av visse forurensende stoffer i næringsmidler",
-      "total_changes": null,
-      "xml_hash": "d3565914cfe55dabba382aee44a3f3ec46e7f1cd94bd130d2d76c910122e5122"
+      "total_changes": 4,
+      "xml_hash": "e2b82a533560922e370c9778f042e8d9b07ede0d922472121b7dc6197d293048"
     },
     "sf-20150706-0874": {
       "doc_type": "forskrift",
@@ -39063,15 +39063,15 @@
     "sf-20181228-2247": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-11",
-      "last_seen": "2026-06-11T05:13:32.337092Z",
+      "last_changed": "2026-06-12",
+      "last_seen": "2026-06-12T08:22:38.160531Z",
       "markdown_path": "forskrifter/forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md",
       "slug": "forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
-      "total_changes": 4,
-      "xml_hash": "f9476c1856db722e8dc2c2eb56e9557cdaef2e17d0778c356c01467d3c413829"
+      "total_changes": 5,
+      "xml_hash": "1a8599e741d4be4db03e17ea4292f2724ebce9de3dff101efaf0447bec592704"
     },
     "sf-20190111-0018": {
       "doc_type": "forskrift",
@@ -43015,15 +43015,15 @@
     "sf-20210511-1458": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-12",
+      "last_seen": "2026-06-12T08:22:38.160531Z",
       "markdown_path": "forskrifter/forskrift-om-restriktive-tiltak-mot-alvorlige-menneskerettsbrudd-og-overgrep.md",
       "slug": "forskrift-om-restriktive-tiltak-mot-alvorlige-menneskerettsbrudd-og-overgrep",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om restriktive tiltak mot alvorlige menneskerettsbrudd og -overgrep",
-      "total_changes": null,
-      "xml_hash": "d678dfaf15acc3d5c7f9ea2ed19758a219ffef0301bf40fb3b447b2d2c9dd90f"
+      "total_changes": 4,
+      "xml_hash": "157a848f86626317cd0dd0707b5e37cf8089f17079a2f0242d4d935b4dcb9e5f"
     },
     "sf-20210511-1459": {
       "doc_type": "forskrift",
@@ -54581,8 +54581,21 @@
       "title": "Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok",
       "total_changes": 1,
       "xml_hash": "a16c4fdeb92975a509083948b8a1b508702ab93808ecda1562aa03c5d497e2f6"
+    },
+    "sf-20260609-1032": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-12",
+      "last_seen": "2026-06-12T08:22:38.160531Z",
+      "markdown_path": "forskrifter/forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156.md",
+      "slug": "forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om gjennomføring av forordning (EU) 2020/2155 og forordning (EU) 2020/2156",
+      "total_changes": 1,
+      "xml_hash": "6b833debd4bc175642eeed274e3a103a2a801f0d8062988267bf76207387eca4"
     }
   },
-  "generated_at": "2026-06-11T05:13:32.337092Z",
+  "generated_at": "2026-06-12T08:22:38.160531Z",
   "version": 1
 }

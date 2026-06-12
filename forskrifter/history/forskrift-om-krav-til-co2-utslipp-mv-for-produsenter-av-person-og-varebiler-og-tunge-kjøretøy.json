@@ -2,6 +2,16 @@
   "doc_id": "sf-20181228-2247",
   "events": [
     {
+      "commit": "2a4e53e",
+      "date": "2026-06-12",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0632d4a",
       "date": "2026-06-11",
       "from_path": null,

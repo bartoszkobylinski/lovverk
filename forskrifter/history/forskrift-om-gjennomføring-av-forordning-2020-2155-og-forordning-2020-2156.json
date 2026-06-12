@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260609-1032",
+  "events": [
+    {
+      "commit": "06809bb",
+      "date": "2026-06-12",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156"
+}
