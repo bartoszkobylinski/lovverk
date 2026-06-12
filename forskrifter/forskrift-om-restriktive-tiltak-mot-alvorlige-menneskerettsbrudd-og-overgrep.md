@@ -10,12 +10,12 @@ ministry:
   - "Utenriksdepartementet"
 date_in_force: "2021-05-11"
 last_change_in_force: "2025-01-01"
-last_updated: "2022-11-21"
-xml_hash: "d678dfaf15acc3d5c7f9ea2ed19758a219ffef0301bf40fb3b447b2d2c9dd90f"
+last_updated: "2026-06-11"
+xml_hash: "157a848f86626317cd0dd0707b5e37cf8089f17079a2f0242d4d935b4dcb9e5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-12T08:22:38.160531+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -205,7 +205,7 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 ### VEDLEGG I
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 3
 
-EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). 1
+EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en).
 
 Listeførte med programkode («programme») HR- HUMAN RIGHTS er listeført under denne forskriften.
 
