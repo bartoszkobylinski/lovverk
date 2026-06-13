@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-17"
-last_change_in_force: "2026-05-27"
+last_change_in_force: "2026-06-10"
 last_updated: null
-xml_hash: "9cfaf852b194dd1ac0f14b70f1c0cfddaa94749e2e9c0ca4a5ca02723e43b215"
+xml_hash: "449731123c04b58bfa8dd5788e2da47e7bca429cc746e5f1141f38f58af9499c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,13 +74,15 @@ Kommuner som arrangerer ungdomsfiske skal sende melding til Fiskeridirektoratet 
 
 Innenfor ungdomsfiskeordningen kan det per fartøy og per person fiskes og landes et kvantum som tilsvarer inntil 600 kg utilvirket rognkjeksrogn.
 
-Innenfor ungdomsfiskeordningen kan deltakere påmeldt etter [§ 2 femte ledd](forskrift/2016-05-02-457/§2/ledd/5) fiske og lande et kvantum kongekrabbe som vil bli fastsatt etter at påmeldingsfristen er utløpt.
+Innenfor ungdomsfiskeordningen kan deltakere påmeldt etter [§ 2 femte ledd](forskrift/2026-04-17-614/§2/ledd/5) fiske og lande inntil 25 kilo kongekrabbe.
 
 Innenfor ungdomsfiskeordningen kan det per person og per fartøy ikke omsettes fangst for mer enn 50 000 kroner.
 
 Begrensninger i kvoteutnyttelse fastsatt i reguleringene av de fiskerier som omfattes av ungdomsfiskeordningen gjelder ikke for fiske etter denne forskrift.
 
 Begrensninger for fangst av torsk [(§ 2)](forskrift/2010-02-26-252/§2), rognkjeks [(§ 4)](forskrift/2010-02-26-252/§4) og kongekrabbe [(§ 6)](forskrift/2010-02-26-252/§6) i [forskrift 26. februar 2010 nr. 252 om begrensninger i fisket etter torsk, rognkjeks, makrell og kongekrabbe med fartøy som ikke er innført i register over merkepliktige norske fiskefartøy (merkeregisteret) eller fra land](forskrift/2010-02-26-252) gjelder ikke for fiske etter denne forskrift.
+
+> Endret ved forskrift [10 juni 2026 nr. 1048](forskrift/2026-06-10-1048).
 
 ## § 7. Blåkveite
 
