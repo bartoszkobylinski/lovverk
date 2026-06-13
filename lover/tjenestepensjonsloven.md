@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-01-01"
 last_change_in_force: "2022-04-01"
 last_updated: "2023-06-29"
-xml_hash: "f770209db34107a10c003e389d01fef250a5b1a7b3c9fafe0c26c1a8041f2874"
+xml_hash: "3d7b79304fbd40c7f65a2aec88b8b63532e146e99ee3eaeae0395390c50fbefa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -717,7 +717,7 @@ Bestemmelsene i [foretakspensjonsloven kapittel 14](lov/2000-03-24-16/kap14) om 
 
 (4) Barnetillegg etter [§ 8-6](lov/2013-12-13-106/§8-6) tredje ledd reduseres på tilsvarende måte som uførepensjonen etter første og tredje ledd.
 
-> Tilføyd ved [lov 22 mai 2015 nr. 31](lov/2015-05-22-31) (ikr. 1 jan 2016 iflg. [forskr. 15 des 2015 nr. 1480](forskrift/2015-12-15-1480)).
+> Tilføyd ved [lov 22 mai 2015 nr. 31](lov/2015-05-22-31) (ikr. 1 jan 2016 iflg. [forskr. 15 des 2015 nr. 1480](forskrift/2015-12-15-1480)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-10. Oppregulering av uførepensjon under utbetaling
 
