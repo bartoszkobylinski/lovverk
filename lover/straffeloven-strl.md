@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2026-04-15"
 last_updated: "2023-01-12"
-xml_hash: "83a75880eec4c3f9082179aa30a4a2bdd6195f9ebf402157936eb61a7b658588"
+xml_hash: "23956bfe117b1876ffe8258c122a7513b594a32c01b5be77f63fcaaf1db5c630"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -656,7 +656,11 @@ Ved utvidet inndragning kan ett, flere eller samtlige av lovbryterens formuesgod
 
 Ved utvidet inndragning overfor lovbryteren kan også verdien av alle formuesgoder som tilhører lovbryterens nåværende eller tidligere ektefelle, inndras hvis ikkede er ervervet før ekteskapet ble inngått eller etter at ekteskapet ble oppløst,de er ervervet minst 5 år før den straffbare handlingen som gir grunnlag for utvidet inndragning, ellerlovbryteren sannsynliggjør at formuesgodene er ervervet på annen måte enn ved straffbare handlinger som lovbryteren selv har begått.Når to personer bor fast sammen under ekteskapsliknende forhold, likestilles det med ekteskap.
 
-> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)).
+> Endret ved lover [19 juni 2009 nr. 74](lov/2009-06-19-74), [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)). **Endres** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
+
+### § 68 a. Selvstendig inndragning
+
+> **Tilføyes** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
 
 ### § 69. Inndragning av produktet av, gjenstanden for og redskapet til en straffbar handling
 
@@ -700,13 +704,15 @@ Annet ledd gjelder tilsvarende ved overdragelse til et foretak dersom lovbrytere
 
 Tilsvarende gjelder for rettighet som etter handlingstidspunktet er stiftet i tingen av noen som det kan foretas inndragning overfor når rettigheten ikke er stiftet ved utleggspant, arrest eller legalpant.
 
-> Endret ved lov [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)).
+> Endret ved lov [8 april 2022 nr. 22](lov/2022-04-08-22) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 547](forskrift/2022-04-08-547)). **Endres** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
 
 ### § 73. Forholdet til rettighetshavere
 
 En rettighet som er rettsgyldig sikret i et formuesgode som inndras, kan helt eller delvis besluttes bortfalt overfor en rettighetshaversom selv har foretatt den straffbare handlingen,som lovbryteren har handlet på vegne av, ellersom da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller at den kunne inndras.
 
 [§ 67](lov/2005-05-20-28/§67) første ledd tredje punktum gjelder tilsvarende.
+
+> **Endres** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
 
 ### § 74. Fellesregler om inndragning av utbytte og ting som ikke tilhører lovbryteren
 
@@ -862,6 +868,8 @@ Har noen i samme handling begått flere lovbrudd hvorav ett ikke foreldes etter 
 
 For foreldelse av inndragningsansvar gjelder foreldelsesfristene i [§ 86](lov/2005-05-20-28/§86), men fristen skal ikke være kortere enn 5 år. For inndragning etter [§§ 67](lov/2005-05-20-28/§67) og [68](lov/2005-05-20-28/§68) skal fristen ikke være kortere enn 10 år.
 
+> **Endres** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
+
 ### § 93. Foreldelsesfristen for idømt frihetsstraff, samfunnsstraff og ungdomsstraff
 
 Idømt fengselsstraff faller bort ved foreldelse etter følgende frister:5 år for fengsel inntil 1 år,10 år for fengsel i mer enn 1 år og inntil 4 år,15 år for fengsel i mer enn 4 år og inntil 8 år,20 år for fengsel i mer enn 8 år og inntil 20 år,30 år for fengsel i mer enn 20 år.
@@ -927,6 +935,8 @@ Foreldelse av inndragningen er uten betydning for utleggspant eller annen sikker
 Straffansvar faller bort ved den skyldiges død.
 
 Inndragningsansvar faller bort ved den ansvarliges død. Gjelder det inndragning av utbytte, herunder inndragning etter [§ 68](lov/2005-05-20-28/§68) og [§ 72](lov/2005-05-20-28/§72) annet ledd, kan sak likevel fremmes, og ilagt inndragning kan fullbyrdes dersom det blir besluttet ved kjennelse av den retten som har pådømt saken i første instans, eller av den tingrett som saken hører under etter [straffeprosessloven § 12](lov/1981-05-22-25/§12) når inndragningen er vedtatt ved forelegg. Retten kan beslutte inndragning av et beløp istedenfor en ting.
+
+> **Endres** ved lov [12 juni 2026 nr. 28](lov/2026-06-12-28) (i kraft fra den tid Kongen bestemmer).
 
 ## Annen del. De straffbare handlingene
 
