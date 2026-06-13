@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2003-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-01-10"
-xml_hash: "78324b57ff475abe4d225704b05bd6e7c42ec566e4fc4f4b2b480869af025b0b"
+xml_hash: "68e6edcc2fcc49a651862e324e01d54458ce169e8198dfa9917ad72db0346baf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -572,7 +572,7 @@ Politiet kan krevje at personar med mellombels kollektivt vern kjem til intervju
 
 Kjøresetel utferda med grunnlag i dette unntaket gjeld til innehavaren har budd fire år i Noreg, med mindre anna er bestemt om føresetnader som gjeld alder i [§ 37 a tredje ledd](lov/2002-06-21-45/§37/ledd/3). Politiet skal påføre kjøresetelen merknad om kva for periode han gjeld for.
 
-> Tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert oppheva** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert oppheva** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert tilføyd** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft frå den tid Kongen fastset). **Vert oppheva** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ## Kap. 8. Kontroll, sanksjonar mv.
 
