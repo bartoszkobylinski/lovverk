@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1975-08-01"
-last_change_in_force: "2019-11-01"
+last_change_in_force: "2026-06-12"
 last_updated: "2022-04-25"
-xml_hash: "dec26bd43f84a741acaa4e74f719c76a6e2078d7ebb2120d0bb8cd82a6d314df"
+xml_hash: "f29f7b0ac82d8bdd329b26d08c0d0186c7fdc92c2da6817644848ca15cf7fe7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,9 @@ Norsk statsborger kan ikke utleveres.
 
 1. Utlevering kan bare skje når handlingen, eller en tilsvarende handling, etter norsk lov kan medføre fengsel i mer enn 1 år. Når den som begjæres utlevert er straffedømt for handlingen, kan utlevering bare skje når dommen går ut på frihetsstraff eller anbringelse i anstalt i et tidsrom av minst 4 måneder, eller når det med heimel i dommen er truffet eller kan treffes bestemmelse om slik anbringelse.
 2. Kongen kan inngå overenskomst med fremmed stat om utlevering for handlinger selv om den frihetsberøvelse som er ilagt eller som kan ilegges, er av kortere varighet enn fastsatt i første ledd.
-3. Utlevering til rettsforfølgning eller fullbyrding av dom for flere handlinger kan finne sted selv om vilkårene i første ledd bare er oppfylt med hensyn til en av handlingene, forutsatt at de øvrige handlinger kan medføre fengselsstraff eller anbringelse i anstalt så vel etter norsk som etter vedkommende fremmede stats lov.
+3. Utlevering til rettsforfølgning eller fullbyrding av dom for flere handlinger kan finne sted selv om vilkårene i første ledd bare er oppfylt for en av handlingene, forutsatt at de øvrige handlingene er straffbare etter norsk og vedkommende fremmede stats lov.
+
+> Endret ved lov [12 juni 2026 nr. 30](lov/2026-06-12-30) (i kraft 12 juni 2026 iflg. [res. 12 juni 2026 nr. 1056](forskrift/2026-06-12-1056)).
 
 ### § 4
 
@@ -71,9 +73,9 @@ Forbudet mot utlevering etter dette ledd gjelder dog ikke når handlingen helt e
 
 ### § 9
 
-Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller fullbyrding av straffen er foreldet etter norsk lov. Utlevering kan likevel skje dersom siktelsen, tiltalen eller domfellelsen gjelder folkemord, forbrytelse mot menneskeheten eller krigsforbrytelse og har en strafferamme på 15 år eller mer. Med hensyn til avbrytelse av foreldelsesfristen er det den anmodende stats bestemmelser som kommer til anvendelse dersom utleveringsbegjæringen er fremmet av en stat som deltar i Schengensamarbeidet.
+Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller fullbyrding av straffen er foreldet etter norsk lov. Utlevering kan likevel skje dersom siktelsen, tiltalen eller domfellelsen gjelder folkemord, forbrytelse mot menneskeheten eller krigsforbrytelse og har en strafferamme på 15 år eller mer. Første punktum gjelder ikke ved utlevering til en stat som deltar i Schengen-samarbeidet, med mindre forholdet er begått helt eller delvis i Norge, under dette på Svalbard, Jan Mayen og i de norske bilandene, eller i andre områder underlagt norsk jurisdiksjon.
 
-> Endret ved [lover 16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1348](forskrift/2000-12-21-1348)), [20 mai 2005 nr. 28](lov/2005-05-20-28) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), [19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)).
+> Endret ved lover [16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1348](forskrift/2000-12-21-1348)), [20 mai 2005 nr. 28](lov/2005-05-20-28) (ikr. 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225)), [19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)), [12 juni 2026 nr. 30](lov/2026-06-12-30) (i kraft 12 juni 2026 iflg. [res. 12 juni 2026 nr. 1056](forskrift/2026-06-12-1056)).
 
 ### § 10
 
@@ -101,9 +103,11 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 
 1. Begjæring om utlevering må settes fram på diplomatisk veg, når ikke annet følger av overenskomst med vedkommende stat.
 2. Begjæringen skal inneholde opplysninger om vedkommende persons statsborgerforhold, hans oppholdssted her i riket dersom det er kjent, og om arten av og tiden og stedet for den straffbare handling. Signalement skal om mulig oppgis. Med begjæringen skal videre følge avskrift av de straffebestemmelser som anses å ramme handlingen. Er det uforholdsmessig vanskelig å skaffe avskrift, kan en redegjøring for vedkommende straffebestemmelser tre isteden.
-3. Ved begjæring om utlevering til rettsforfølgning skal vedlegges original eller bekreftet avskrift av pågripelsesbeslutning eller annen beslutning som er utferdiget i samsvar med vedkommende stats lovgivning og som forutsetter at det er skjellig grunn til mistanke mot vedkommende for den straffbare handling.
-4. Ved begjæring om utlevering til fullbyrding av dom skal den fellende dom vedlegges i original eller bekreftet avskrift.
+3. Ved begjæring om utlevering til rettsforfølgning skal vedlegges original eller kopi av pågripelsesbeslutning eller annen beslutning som er utferdiget i samsvar med vedkommende stats lovgivning og som forutsetter at det er skjellig grunn til mistanke mot vedkommende for den straffbare handling.
+4. Ved begjæring om utlevering til fullbyrding av dom skal den fellende dom vedlegges i original eller kopi.
 5. Når ikke annet er bestemt i overenskomst med fremmed stat, skal det i tilfelle vedlegges slike ytterligere bevis for vedkommende persons skyld som viser at det er skjellig grunn til mistanke mot ham.
+
+> Endret ved lov [12 juni 2026 nr. 30](lov/2026-06-12-30) (i kraft 12 juni 2026 iflg. [res. 12 juni 2026 nr. 1056](forskrift/2026-06-12-1056)).
 
 ### § 14
 
@@ -131,7 +135,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 2. Kjennelse kan avsis straks når den som er begjært utlevert, i rettsmøte samtykker i utlevering. Ellers avsis kjennelse når påtalemyndighetens undersøkelse er avsluttet. Retten kan dog beslutte at det skal innhentes nye bevis, og at behandlingen skal utsettes.
 3. Kjennelsen kan ankes i samsvar med reglene i [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26). Fristen for å anke kjennelsen er 3 dager. Anke har alltid oppsettende virkning.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 17a
 
@@ -155,7 +159,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 1. Når endelig vedtak om utlevering foreligger, skal den settes i verk så snart råd er.
 2. Er vedkommende ikke på forhånd fengslet, kan han pågripes og settes i varetektsfengsel etter reglene i [straffeprosessloven §§ 175](lov/1981-05-22-25/§175) flg. eller underkastes forholdsregler som nevnt i [straffeprosessloven § 188](lov/1981-05-22-25/§188) inntil utleveringen kan settes i verk. Beslutning om bruk av tvangsmiddel skal dog ikke gjelde for lengre tid enn 4 uker fra endelig vedtak om utlevering er truffet. Etter begjæring fra departementet kan retten, når særlige grunner foreligger, beslutte at tvangsmidler skal nyttes en bestemt tid utover den fastsatte frist. Kjennelse om bruk av tvangsmidler kan ankes etter [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26).
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## Kap. III. Andre bestemmelser i samband med utlevering.
 
@@ -164,7 +168,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 1. Når en person i fremmed stat er siktet, tiltalt eller domfelt for en straffbar handling som kan begrunne utlevering etter denne lov, kan tvangsmidler etter [straffeprosessloven](lov/1981-05-22-25) kapitler [14](lov/1981-05-22-25/kap14), [15](lov/1981-05-22-25/kap15), [15 a](lov/1981-05-22-25/kap15a), [16](lov/1981-05-22-25/kap16), [16 a](lov/1981-05-22-25/kap16a), [16 b](lov/1981-05-22-25/kap16b) og [16 d](lov/1981-05-22-25/kap16d), samt båndlegging etter [politiloven § 17 g](lov/1995-08-04-53/§17g), anvendes overfor ham i samme utstrekning som i saker angående lovbrudd av tilsvarende art som forfølges her i riket, såframt kompetent myndighet i den fremmede stat ber om det før utleveringsbegjæring er framsatt. Det samme gjelder når vedkommende i den fremmede stat er etterlyst for lovbruddet. Om oppnevning av forsvarer gjelder [straffeprosessloven §§ 96](lov/1981-05-22-25/§96) flg. tilsvarende. Rettens kjennelse om bruk av tvangsmidler kan ankes etter reglene i [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26). [Straffeprosessloven § 186](lov/1981-05-22-25/§186) første ledd gjelder tilsvarende.
 2. Om beslutning om bruk av tvangsmidler etter første ledd skal det uten opphold gis underretning til departementet. Departementet kan bestemme at bruken av tvangsmidler skal opphøre dersom det antar at det ikke er grunn til utlevering. Dersom slik beslutning ikke treffes uten opphold, skal departementet straks sørge for at den fremmede stat blir underrettet om beslutningen om bruk av tvangsmiddel, og om at beslutningen vil bli opphevd dersom begjæring om utlevering ikke mottas så snart som mulig. Er begjæring om utlevering ikke mottatt innen 4 uker etter at underretning ble sendt, kan tvangsmiddel ikke lenger nyttes. I særlige tilfelle kan retten forlenge denne frist.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
 
 ### § 21
 
@@ -206,6 +210,12 @@ Departementet kan samtykke i at en person som utleveres fra en fremmed stat til 
 2. Kongen kan gi nærmere forskrifter om rettsanmodninger etter denne bestemmelsen.
 
 > Tilføyd ved [lov 22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
+
+### § 23 c
+
+En anmodning om rettslig bistand fra Den europeiske påtalemyndighet skal behandles på tilsvarende måte som anmodninger fra stater i Den europeiske union.
+
+> Tilføyd ved lov [12 juni 2026 nr. 30](lov/2026-06-12-30) (i kraft 12 juni 2026 iflg. [res. 12 juni 2026 nr. 1056](forskrift/2026-06-12-1056)).
 
 ### § 24
 
