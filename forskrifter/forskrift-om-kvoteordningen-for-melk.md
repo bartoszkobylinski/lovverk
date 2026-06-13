@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2012-01-01"
-last_change_in_force: "2026-03-10"
+last_change_in_force: "2026-06-10"
 last_updated: "2012-02-07"
-xml_hash: "caa29492d5b83a922dffee46423728621cf123983896c56ce37626f029fa6d85"
+xml_hash: "33be8043c822b9dc5c2af8bf3ed0c36b153c5cb64551294a849b40c7d20f62a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -86,7 +86,7 @@ Dersom flere foretak leverer melk til samme foredlingsforetak, settes produksjon
 
 ## § 6a. Rekrutteringskvote Troms og Finnmark
 
-Innenfor rammer fastsatt i jordbruksavtalen kan Landbruksdirektoratet etter søknad gi tilsagn om kjøp av kumelkkvote til enhver som er i prosess med å etablere seg som kumelkprodusent i Troms eller Finnmark, og som ikke har disponert grunnkvote i løpet av de siste tre kvoteårene. Tilsagnshaver kan realisere tilsagnet innen tre år dersom vedkommende har finansering til å etablere seg som kumelkprodusent, og er eier av landbrukseiendom som det ikke ligger kvote til.
+Innenfor rammer fastsatt i jordbruksavtalen kan Landbruksdirektoratet etter søknad gi tilsagn om kjøp av kumelkkvote til enhver som er i prosess med å etablere seg som kumelkprodusent i Troms eller Finnmark, og som ikke har disponert grunnkvote i løpet av de siste tre kvoteårene. Tilsagnshaver kan realisere tilsagnet innen tre år dersom vedkommende har finansering til å etablere seg som kumelkprodusent, og er eier av landbrukseiendom som det ikke lå kvote til på tilsagnstidspunktet.
 
 Tilsagn om kjøp av kvote skjer etter søknadsfrist 1. mai. Dersom ikke hele den tilgjengelige kvotemengden er fordelt, kan det gjennomføres ny fordeling med søknadsfrist 1. oktober. Søknaden skal leveres på skjema fastsatt av Landbruksdirektoratet.
 
@@ -94,7 +94,7 @@ Ved etterspørselsoverskudd, fordeles tilgjengelig kvotemengde etter loddtreknin
 
 Kjøpt kvote skal tilligge søkers landbrukseiendom, og produseres på denne eiendommen i en periode på ti år regnet fra det kvoteåret kvoten tas i bruk. Kjøpt kvote kan selges tilbake til staten for kr 1,00 per liter innen ti år fra kjøpstidspunktet.
 
-> Tilføyd ved forskrift [26 juni 2020 nr. 1405](forskrift/2020-06-26-1405), endret ved forskrift [31 mai 2021 nr. 1726](forskrift/2021-05-31-1726), opphevet ved forskrift [21 des 2023 nr. 2333](forskrift/2023-12-21-2333) (i kraft 1 jan 2024), tilføyd ved forskrift [10 mars 2026 nr. 370](forskrift/2026-03-10-370).
+> Tilføyd ved forskrift [26 juni 2020 nr. 1405](forskrift/2020-06-26-1405), endret ved forskrift [31 mai 2021 nr. 1726](forskrift/2021-05-31-1726), opphevet ved forskrift [21 des 2023 nr. 2333](forskrift/2023-12-21-2333) (i kraft 1 jan 2024), tilføyd ved forskrift [10 mars 2026 nr. 370](forskrift/2026-03-10-370), endret ved forskrift [10 juni 2026 nr. 1047](forskrift/2026-06-10-1047).
 
 ## § 7. Leveranse som utløser overproduksjonsavgift
 
