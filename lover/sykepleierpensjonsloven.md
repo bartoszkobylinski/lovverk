@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1962-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-01"
-xml_hash: "e0afd76caa26fcf164f3963ac2649ede9083f1e56e45a8ed27446f7bffa8ab70"
+xml_hash: "709d6a8a2c1062256ec9f70e2a9738d1b59cabf352400f2b3d4f95f575eec61b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Ved fastsetting av alders-, ektefelle- og barnepensjon får pensjonist med midle
 
 Departementet gir forskrifter om medlemskap og opptjening når medlemmet har midlertidig uførepensjon og uførepensjon.
 
-> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)).
+> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 3. Aldersgrenser.
 
@@ -502,7 +502,7 @@ Barnetillegg etter [§ 14](lov/1962-06-22-12/§14) reduseres i samme forhold som
 
 Departementet kan gi forskrift med nærmere regler om reduksjon av pensjon på grunn av inntekt.
 
-> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+> Endret ved lover 16 juni 1971 nr. 62, [11 juni 1982 nr. 56](lov/1982-06-11-56), [24 mai 1985 nr. 35](lov/1985-05-24-35), [16 juni 1995 nr. 32](lov/1995-06-16-32), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
 
 ### § 16
 
@@ -702,7 +702,7 @@ Premien for frivillig medlemskap fastsettes i samsvar med reglene i [§ 31](lov/
 
 Et medlem som ved permisjon uten lønn eller med delvis lønn betaler frivillig premie til pensjonsordningen, skal innbetale slik premie direkte til pensjonsordningen innen de frister styret fastsetter. Etter forfall kan det kreves renter etter en rentesats som fastsettes av styret. Hvis premien ikke blir betalt, blir tiden ikke registrert som pensjonsgivende. Varsel om dette må gis i samsvar med [forsikringsavtalelovens §§ 14-1](lov/1989-06-16-69/§14-1) og [14-2](lov/1989-06-16-69/§14-2).
 
-> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)).
+> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft fra den tid Kongen bestemmer).
 
 ### § 31
 
