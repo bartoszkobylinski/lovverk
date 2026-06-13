@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2022-05-01"
-last_change_in_force: "2025-10-12"
+last_change_in_force: "2026-06-12"
 last_updated: "2021-08-25"
-xml_hash: "787dd56385f4cfac1f7b6671e2751b560e3b28e425c2765e79a8bf25e0bf6670"
+xml_hash: "eff0ca29664b777d16cd956f394e71d7f66f17aa25dfcbcb62f53cdb1a9e7481"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,13 @@ Loven skal sikre at grensetilsyn og grensekontroll av personer utføres i samsva
 
 ### § 2. Lovens saklige virkeområde og forholdet til andre regler
 
-Loven gir regler om rettslige og fysiske forhold i tilknytning til riksgrensen og om grensepassering og grensekontroll av personer. Regler om utlendingers adgang til riket og deres opphold her følger av [utlendingsloven](lov/2008-05-15-35).
+Loven gir regler om rettslige og fysiske forhold i tilknytning til riksgrensen og om grensepassering og grensekontroll av personer. Loven gir også regler om gjennomføring av screening etter forordning [(EU) 2024/1356](eu/32024r1356). Regler om utlendingers adgang til riket og deres opphold her følger av [utlendingsloven](lov/2008-05-15-35).
 
 Loven gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med annen stat.
 
 Loven gjelder ikke militære oppgaver, herunder for å hevde suverenitet og suverene rettigheter, kontroll av vareførselen etter [tolloven](lov/2007-12-21-119), eller annen kontrollvirksomhet på eller ved grensen etter annen lov.
+
+> Endret ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
 
 ### § 3. Lovens stedlige virkeområde
 
@@ -51,6 +53,10 @@ Loven gjelder på annen stats jurisdiksjonsområde når det følger av avtale me
 Politiet har ansvar for utøvelsen av grenseovervåking og inn- og utreisekontroll av personer etter loven. Myndighetsutøvelse på vegne av politiet og bistand til politiets grensekontroll etter [§§ 6](lov/2018-04-20-8/§6) og [7](lov/2018-04-20-8/§7) utføres under politiets ansvar og ledelse.
 
 Politiet skal samarbeide med andre myndigheter som er tillagt oppgaver som berører politiets oppgaver etter loven.
+
+Politiet er screeningmyndighet etter forordning [(EU) 2024/1356](eu/32024r1356). Departementet kan gi forskrift om at også andre myndigheter skal utøve myndighet etter forordningen.
+
+> Endret ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
 
 ### § 5. Ansvar for særlige tilsynsfunksjoner
 
@@ -72,11 +78,11 @@ Kongen gir forskrift om Tolletatens bistand til politiets inn- og utreisekontrol
 
 ### § 8. Gjennomføring av EU-rettsakter og bistand fra europeiske grensekontrollteam
 
-Følgende rettsakter gjelder som lov:Forordning [(EU) 2016/399](eu/32016r0399) om bevegelsen av personer over grenser (grenseforordningen), som endret ved:forordning [(EU) 2017/458](eu/32017r0458),forordning [(EU) 2017/2225](eu/32017r2225),forordning [(EU) 2018/1240](eu/32018r1240),forordning [(EU) 2019/817](eu/32019r0817),forordning [(EU) 2021/1134](eu/32021r1134), ogforordning [(EU) 2024/1717](eu/32024r1717).Forordning [(EU) 2017/2226](eu/32017r2226) om etableringen av inn- og utreisesystemet (EES-forordningen)1, som endret ved forordning [(EU) 2018/1240](eu/32018r1240), forordning [(EU) 2019/817](eu/32019r0817), forordning [(EU) 2021/1134](eu/32021r1134) og forordning [(EU) 2021/1152](eu/32021r1152)Rådsdirektiv [2004/82/EF](eu/32004l0082) om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)Forordning [(EU) 2019/817](eu/32019r0817) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret ved forordning [(EU) 2021/1134](eu/32021r1134) og forordning [(EU) 2021/1152](eu/32021r1152)Forordning [(EU) 2019/818](eu/32019r0818) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret ved forordning [(EU) 2021/1133](eu/32021r1133) og forordning [(EU) 2021/1150](eu/32021r1150).
+Følgende rettsakter gjelder som lov:Forordning [(EU) 2016/399](eu/32016r0399) om bevegelsen av personer over grenser (grenseforordningen), som endret vedforordning [(EU) 2017/458](eu/32017r0458)forordning [(EU) 2017/2225](eu/32017r2225)forordning [(EU) 2018/1240](eu/32018r1240)forordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2024/1717](eu/32024r1717)Forordning [(EU) 2017/2226](eu/32017r2226) om etableringen av inn- og utreisesystemet (EES-forordningen), som endret vedforordning [(EU) 2018/1240](eu/32018r1240)forordning [(EU) 2019/817](eu/32019r0817)forordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)forordning [(EU) 2024/1356](eu/32024r1356)Rådsdirektiv [2004/82/EF](eu/32004l0082) om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)Forordning [(EU) 2019/817](eu/32019r0817) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret vedforordning [(EU) 2021/1134](eu/32021r1134)forordning [(EU) 2021/1152](eu/32021r1152)forordning [(EU) 2024/1356](eu/32024r1356)Forordning [(EU) 2019/818](eu/32019r0818) om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret vedforordning [(EU) 2021/1133](eu/32021r1133)forordning [(EU) 2021/1150](eu/32021r1150)forordning [(EU) 2024/1358](eu/32024r1358)Forordning [(EU) 2024/1356](eu/32024r1356) om innføring av screening av tredjelandsborgere ved de ytre grensene (screeningforordningen).
 
 Europeiske grensekontrollteam kan etter anmodning bistå politiet med gjennomføring av grensekontroll. [Politiloven § 20 a](lov/1995-08-04-53/§20a) annet og tredje ledd får tilsvarende anvendelse for utenlandske tjenestemenn som deltar under utførelsen av slike bistandsoppgaver.
 
-> Endret ved lover [29 april 2022 nr. 26](lov/2022-04-29-26), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876), endring endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85)).
+> Endret ved lover [29 april 2022 nr. 26](lov/2022-04-29-26), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876), endring endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85)), [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
 
 ## Kapittel 2. Riksgrensen og grensenære områder
 
@@ -219,6 +225,38 @@ Det skal settes opp synlig varsel om grenseovervåking langs landegrensen og ved
 Reglene om taushetsplikt og informasjonsutveksling i [forvaltningsloven §§ 13](lov/1967-02-10/§13) til [13 f](lov/1967-02-10/§13f) gjelder når politiet og myndighet med særlige tilsynsfunksjoner utfører oppgaver etter denne loven. Det samme gjelder for andre som utfører oppgaver etter loven.
 
 For behandling av opplysninger som reguleres av [politiregisterloven](lov/2010-05-28-16) gjelder taushetspliktbestemmelsene i [politiregisterloven kapittel V](lov/2010-05-28-16/kap5) og [VI](lov/2010-05-28-16/kap6).
+
+## Kapittel 5A. Screening
+
+> Kapittel tilføyd ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
+
+### § 24 a. Behandling av personopplysninger for gjennomføring av screening
+
+Screeningmyndigheten kan behandle personopplysninger, herunder særlige kategorier av personopplysninger, som er nødvendige for gjennomføring av oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [§ 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6).
+
+Screeningmyndigheten skal uten hinder av taushetsplikt utlevere til utlendingsmyndighetene opplysninger som er nødvendige for utførelsen av deres oppgaver.
+
+> Tilføyd ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
+
+### § 24 b. Utlendingens plikt til å være tilgjengelig
+
+Utlendinger som gjennomgår screening etter forordning [(EU) 2024/1356](eu/32024r1356), jf. [§ 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6), skal være tilgjengelige for screeningmyndigheten på det stedet screeningmyndigheten gir anvisning på, frem til screeningen er avsluttet.
+
+> Tilføyd ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
+
+### § 24 c. Utlendingens opplysningsplikt. Bruk av tvang
+
+Utlendinger som gjennomgår screening, plikter å oppgi personopplysninger, herunder avgi biometriske opplysninger, i henhold til forordning [(EU) 2024/1356](eu/32024r1356) artikkel 9 nr. 2, jf. [§ 8 første ledd nr. 6](lov/2018-04-20-8/§8/ledd/1/nummer/6). Biometriske opplysninger som allerede er innhentet etter [utlendingsloven § 100](lov/2008-05-15-35/§100), kan gjenbrukes for gjennomføring av screening.
+
+Politimesteren eller den politimesteren gir fullmakt, kan beslutte at biometriske opplysninger skal innhentes med tvang. Den politimesteren gir fullmakt, må være jurist.
+
+Tvang kan bare brukes når det er nødvendig og forholdsmessig.
+
+[Forvaltningslovens](lov/1967-02-10) regler om enkeltvedtak gjelder ikke for beslutninger om bruk av tvang etter bestemmelsen her.
+
+Utlendingen kan kreve spørsmålet om rettmessigheten av tvangsinngrepet brakt inn for retten. Screeningmyndigheten sørger for at utlendingen blir gjort kjent med denne retten. Ved slik domstolsbehandling gjelder bestemmelsene i [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26) tilsvarende så langt de passer.
+
+> Tilføyd ved lov [12 juni 2026 nr. 31](lov/2026-06-12-31) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1058](forskrift/2026-06-12-1058)).
 
 ## Kapittel 6. Forskrifter, straff og ikrafttredelse mv.
 
