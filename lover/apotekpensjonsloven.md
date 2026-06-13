@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1953-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2025-10-15"
-xml_hash: "8279b209ebf4a1507ab1326ca59dafb4034cbbb723dba6fa43be43835a0a3457"
+xml_hash: "45d71220c278a870865cc4ecd8b2dd497f488c7916dddbda174ba24e3a63fcb4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -236,7 +236,7 @@ Barnetillegg etter [§ 11 a](lov/1953-06-26-11/§11a) reduseres i samme forhold 
 
 Departementet kan gi forskrift med nærmere regler om reduksjon av pensjon på grunn av inntekt.
 
-> Tilføyd ved lov 23 mai 1958 nr. 6, endret ved lover 29 jan 1971 nr. 16, [8 juni 1984 nr. 54](lov/1984-06-08-54), [12 juni 1987 nr. 46](lov/1987-06-12-46), [26 mai 2000 nr. 37](lov/2000-05-26-37), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+> Tilføyd ved lov 23 mai 1958 nr. 6, endret ved lover 29 jan 1971 nr. 16, [8 juni 1984 nr. 54](lov/1984-06-08-54), [12 juni 1987 nr. 46](lov/1987-06-12-46), [26 mai 2000 nr. 37](lov/2000-05-26-37), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
 
 ### § 13
 
