@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-10"
-xml_hash: "e55ce7eaa7b190aaf61c35b00a2d367541f14f553935c77d641572e2b00b2c2e"
+xml_hash: "bd6d5e1eb30eb36bac542adc1e55cafd5006187c38b72395df37da1f6a6695e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -216,7 +216,7 @@ Kommunen skal i kontrakten forplikte seg til å tilby introduksjonsprogram og op
 
 Deltageren skal i kontrakten forplikte seg til å følge opp målene og elementene som er fastsatt i integreringsplanen, jf. [§ 15](lov/2020-11-06-127/§15).
 
-> Endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)).
+> Endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Endres** ved lov [12 juni 2026 nr. 23](lov/2026-06-12-23) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17. Fravær og permisjoner
 
@@ -407,13 +407,13 @@ Departementet kan gi forskrift om prøver i norsk og samfunnskunnskap og om reak
 ## Kapittel 6A Midlertidige regler for personer som har fått oppholdstillatelse etter utlendingsloven § 34
 
 > Kapitlet tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). Kapittelet **oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
-Se [forskrift 10 juni 2022 nr. 995](forskrift/2022-06-10-995) (i kraft 16 juni 2022) og [forskrift 25 juni 2024 nr. 1217](forskrift/2024-06-25-1217) (i kraft 1 juli 2024) for overgangsregler om integreringsloven kapittel 6A.
+Se [forskrift 10 juni 2022 nr. 995](forskrift/2022-06-10-995) (i kraft 16 juni 2022) og [forskrift 25 juni 2024 nr. 1217](forskrift/2024-06-25-1217) (i kraft 1 juli 2024) for overgangsregler om integreringsloven kapittel 6A. Kapittelet **tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). Kapittelet **oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 a. Unntak fra plikt til å delta i opplæring i mottak
 
 Asylsøkere som er i målgruppen for ordningen med kollektiv beskyttelse, har ikke plikt til å delta i opplæring i mottak etter [§ 5](lov/2020-11-06-127/§5) i loven her.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 b. Kompetansekartlegging og karriereveiledning
 
@@ -423,13 +423,13 @@ Personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008
 
 Personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34), har rett, men ikke plikt, til å gjennomføre karriereveiledning etter [§ 11](lov/2020-11-06-127/§11) i loven her. [§ 11](lov/2020-11-06-127/§11) fjerde ledd gjelder ikke.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (se endringslovens [del II](lov/2023-06-02-17/kapII) for overgangsregel), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (se endringslovens [del II](lov/2023-06-02-17/kapII) for overgangsregel), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 c. Introduksjonsprogram
 
 Bestemmelsene i § 14 a første ledd bokstav c om at introduksjonsprogrammet skal inneholde opplæring i samfunnskunnskap, gjelder ikke for personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34).
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (se endringsloven for overgangsregel), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (se endringsloven for overgangsregel), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 d. Opplæring i norsk
 
@@ -439,7 +439,7 @@ Retten til opplæring i norsk gjelder i ett år fra oppstartstidspunktet. For ø
 
 Kommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide en norskplan. Norskplanen skal inneholde deltagerens norskmål, omfanget av opplæringen og klagemuligheter. [§ 34](lov/2020-11-06-127/§34) gjelder ikke.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 e. Forskriftshjemmel
 
@@ -447,13 +447,13 @@ Når det er nødvendig for å tilpasse integreringstiltak til personer som er in
 
 Dersom kapasitetshensyn i kommunen eller fylkeskommunen gjør det nødvendig, kan en midlertidig forskrift etter første ledd også fravike kravene som følger av bestemmelsene som nevnt i første ledd bokstav a til h, for andre enn personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34).
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), endret ved lov [20 juni 2025 nr. 35](lov/2025-06-20-35) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1102](forskrift/2025-06-20-1102)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 37 f. Behandling av kompetanseopplysninger
 
 Departementet kan gi midlertidig forskrift om innhenting og utlevering av kompetanseopplysninger, uten hinder av taushetsplikt, fra Integrerings- og mangfoldsdirektoratets registre for å legge til rette for at personer som er innvilget midlertidig kollektiv beskyttelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34), kan sysselsettes i det statlige, kommunale eller fylkeskommunale tjenestetilbudet. Med kompetanseopplysninger menes opplysninger som er innhentet ved kompetansekartlegging eller karriereveiledning etter [§ 37 b](lov/2020-11-06-127/§37b), eller opplysninger om den enkeltes kompetanse som er innhentet før bosetting, inkludert personopplysninger som nevnt i [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9).
 
-> Tilføyd ved lov [9 juni 2023 nr. 25](lov/2023-06-09-25), opphevet ved lov [9 juni 2023 nr. 25](lov/2023-06-09-25) (i kraft 1 juli 2024), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [9 juni 2023 nr. 25](lov/2023-06-09-25), opphevet ved lov [9 juni 2023 nr. 25](lov/2023-06-09-25) (i kraft 1 juli 2024), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ## Kapittel 7 Forskjellige bestemmelser
 
