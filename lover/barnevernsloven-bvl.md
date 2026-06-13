@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-01-23"
 last_updated: "2026-02-16"
-xml_hash: "d4f33cacf3a002acfeaa18442c23f2d4aa4e92d1670fb7304d7cc753df914372"
+xml_hash: "39730415f8caf97f8d7af76ecfa2dc1896340ed22230c4a45125ce7cf6aec945"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,7 +142,7 @@ Dersom barnevernstjenesten henlegger en sak etter en undersøkelse fordi foreldr
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at barnevernstjenesten skal kunne gjennomføre sine oppgaver på en formålstjenlig og forsvarlig måte, kan departementet gi midlertidig forskrift om unntak fra fristene i [§ 2-1 første ledd](lov/2021-06-18-97/§2-1/ledd/1) og [§ 2-2 annet ledd](lov/2021-06-18-97/§2-2/ledd/2).
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ## Kapittel 3. Hjelpetiltak
 
@@ -168,7 +168,7 @@ Barnevernstjenesten kan samtykke til at et barn som har sitt vanlige bosted i en
 
 Når det som følge av krigen i Ukraina er nødvendig å evakuere barn som er under omsorg av ukrainske myndigheter, kan barnevernstjenesten samtykke til at barn gis opphold i et fosterhjem eller en institusjon i Norge etter en anmodning fra ukrainske myndigheter, dersomtiltaket er forsvarlig og til barnets bestedet er inngått en avtale med kompetente ukrainske myndighetervilkår etter artikkel 33 i konvensjon 19. oktober 1996 om jurisdiksjon, lovvalg, anerkjennelse, fullbyrdelse og samarbeid vedrørende foreldremyndighet og tiltak for beskyttelse av barn er oppfylt.1
 
-> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 3-4. Pålegg om hjelpetiltak
 
@@ -938,7 +938,7 @@ Når det som følge av et høyt antall ankomster til Norge av personer fordrevet
 
 Barne-, ungdoms- og familieetaten har ansvaret for godkjenning, opplæring og oppfølging av det familiebaserte botilbudet og for oppfølgingen av barnet. Ansvaret for oppfølging tilsvarer oppfølgingsplikten etter [§ 9-6](lov/2021-06-18-97/§9-6) med forskrift og plikten til å fatte oppfølgingsvedtak etter [§ 11-3](lov/2021-06-18-97/§11-3). Barne-, ungdoms- og familieetaten er også ansvarlig for utgifter forbundet med det familiebaserte botilbudet.
 
-> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 11-2. Omsorgsansvar for barnet
 
@@ -954,7 +954,7 @@ Omsorgssenteret og barne-, ungdoms- og familieetaten skal følge barnets utvikli
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at Barne-, ungdoms- og familieetaten eller omsorgssenteret skal kunne gjennomføre og prioritere sine oppgaver på en formålstjenlig og forsvarlig måte, kan fristene etter første ledd forlenges. Fristen for omsorgssenteret til å sende forslag til oppfølgingsvedtak kan utvides til fem uker etter barnets ankomst til senteret. Fristen for Barne-, ungdoms- og familieetaten til å treffe vedtak kan utvides til ti uker etter barnets ankomst til senteret. Barne-, ungdoms- og familieetaten skal orientere statsforvalteren dersom unntaksadgangen tas i bruk. Beslutningen skal begrunnes og dokumenteres.
 
-> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 11-4. Kartlegging som grunnlag for bosetting
 
@@ -1084,7 +1084,7 @@ Det kan innhentes nye eller oppdaterte opplysninger etter at politiattest er uts
 
 Departementet kan gi forskrift til denne bestemmelsen.
 
-> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [17 juni 2022 nr. 45](lov/2022-06-17-45), [16 juni 2023 nr. 42](lov/2023-06-16-42) (i kraft 1 sep 2023 iflg. [res. 16 juni 2023 nr. 899](forskrift/2023-06-16-899)), [16 juni 2023 nr. 41](lov/2023-06-16-41) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 928](forskrift/2023-06-16-928)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), gjelder åttende ledd). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), gjelder andre ledd).
+> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [17 juni 2022 nr. 45](lov/2022-06-17-45), [16 juni 2023 nr. 42](lov/2023-06-16-42) (i kraft 1 sep 2023 iflg. [res. 16 juni 2023 nr. 899](forskrift/2023-06-16-899)), [16 juni 2023 nr. 41](lov/2023-06-16-41) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 928](forskrift/2023-06-16-928)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), gjelder åttende ledd). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), gjelder andre ledd). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ## Kapittel 13. Taushetsplikt, opplysningsplikt og adgang til å gi opplysninger
 
@@ -1638,7 +1638,7 @@ Statsforvalteren skal også føre tilsyn med lovligheten av andre statlige tjene
 
 Departementet kan gi forskrift om gjennomføringen av tilsynet.
 
-> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 17-4. Tilsynsmyndighetenes tilgang til opplysninger
 
