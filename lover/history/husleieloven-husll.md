@@ -1,6 +1,16 @@
 # husleieloven-husll — Change history
 
-_2 events; doc_id `nl-19990326-017`._
+_4 events; doc_id `nl-19990326-017`._
+
+## 2026-06-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): husleieloven-husll`
+Commit: `8d636ea`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990326-017.md` → `lover/husleieloven-husll.md`.

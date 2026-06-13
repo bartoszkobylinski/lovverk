@@ -1,6 +1,11 @@
 # ungdomsfiskeordningen-2026 — Change history
 
-_4 events; doc_id `sf-20260417-0614`._
+_5 events; doc_id `sf-20260417-0614`._
+
+## 2026-06-13 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): ungdomsfiskeordningen-2026`
+Commit: `b5536d0`.
 
 ## 2026-05-30 — Content updated
 Lines: +7 -3.

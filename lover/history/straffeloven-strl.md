@@ -1,6 +1,16 @@
 # straffeloven-strl — Change history
 
-_2 events; doc_id `nl-20050520-028`._
+_4 events; doc_id `nl-20050520-028`._
+
+## 2026-06-13 — Content updated
+Lines: +14 -4.
+Subject: `update(lov): straffeloven-strl`
+Commit: `a078006`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20050520-028.md` → `lover/straffeloven-strl.md`.

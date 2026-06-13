@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260612-026",
+  "events": [
+    {
+      "commit": "4830db8",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-lov-om-pensjonsordning-for-sykepleiere",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-lov-om-pensjonsordning-for-sykepleiere"
+}

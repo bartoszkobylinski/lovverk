@@ -2,6 +2,26 @@
   "doc_id": "nl-19990326-017",
   "events": [
     {
+      "commit": "8d636ea",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): husleieloven-husll",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-19990326-017.md",

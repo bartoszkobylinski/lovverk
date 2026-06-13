@@ -2,6 +2,26 @@
   "doc_id": "nl-20080515-035",
   "events": [
     {
+      "commit": "f31983a",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 87,
+      "lines_removed": 71,
+      "subject": "update(lov): utlendingsloven-utlendl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-20080515-035.md",

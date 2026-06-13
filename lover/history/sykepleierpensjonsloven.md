@@ -1,6 +1,16 @@
 # sykepleierpensjonsloven — Change history
 
-_2 events; doc_id `nl-19620622-012`._
+_4 events; doc_id `nl-19620622-012`._
+
+## 2026-06-13 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): sykepleierpensjonsloven`
+Commit: `728048a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19620622-012.md` → `lover/sykepleierpensjonsloven.md`.

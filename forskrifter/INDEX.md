@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3424 current documents_
+_3422 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -694,8 +694,6 @@ _3424 current documents_
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
-- [forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy](forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md) — Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)
-- [forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2](forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2.md) — Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning

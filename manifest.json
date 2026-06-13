@@ -967,15 +967,15 @@
     "nl-19490728-026": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/statens-pensjonskasseloven-stpkl.md",
       "slug": "statens-pensjonskasseloven-stpkl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Statens pensjonskasse",
-      "total_changes": null,
-      "xml_hash": "96949b20bf1e6ad4e723b7334774f2fa09bce88a0b1870d3f4a8037dcf229ee9"
+      "total_changes": 4,
+      "xml_hash": "8d53e843a3024d8cdd72c98af30fee658e24c34c22d2cc22f70cf7d2ed806886"
     },
     "nl-19500714-010": {
       "doc_type": "lov",
@@ -1136,15 +1136,15 @@
     "nl-19530626-011": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/apotekpensjonsloven.md",
       "slug": "apotekpensjonsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pensjonsordning for apotekvirksomhet mv. [apotekpensjonsloven]",
-      "total_changes": null,
-      "xml_hash": "8279b209ebf4a1507ab1326ca59dafb4034cbbb723dba6fa43be43835a0a3457"
+      "total_changes": 4,
+      "xml_hash": "45d71220c278a870865cc4ecd8b2dd497f488c7916dddbda174ba24e3a63fcb4"
     },
     "nl-19530703-002": {
       "doc_type": "lov",
@@ -1476,15 +1476,15 @@
     "nl-19620622-012": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/sykepleierpensjonsloven.md",
       "slug": "sykepleierpensjonsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]",
-      "total_changes": null,
-      "xml_hash": "e0afd76caa26fcf164f3963ac2649ede9083f1e56e45a8ed27446f7bffa8ab70"
+      "total_changes": 4,
+      "xml_hash": "709d6a8a2c1062256ec9f70e2a9738d1b59cabf352400f2b3d4f95f575eec61b"
     },
     "nl-19630621-012": {
       "doc_type": "lov",
@@ -2101,15 +2101,15 @@
     "nl-19750613-039": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/utleveringsloven-utlevl.md",
       "slug": "utleveringsloven-utlevl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlevering av lovbrytere m.v. [utleveringsloven]",
-      "total_changes": null,
-      "xml_hash": "dec26bd43f84a741acaa4e74f719c76a6e2078d7ebb2120d0bb8cd82a6d314df"
+      "total_changes": 4,
+      "xml_hash": "f29f7b0ac82d8bdd329b26d08c0d0186c7fdc92c2da6817644848ca15cf7fe7f"
     },
     "nl-19751212-059": {
       "doc_type": "lov",
@@ -2384,15 +2384,15 @@
     "nl-19810522-025": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/straffeprosessloven-strpl.md",
       "slug": "straffeprosessloven-strpl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettergangsmåten i straffesaker (Straffeprosessloven)",
-      "total_changes": 4,
-      "xml_hash": "1b0af567c012510ecb10d2cb69046d232f6bfd736813f77ddb44feeef148bb36"
+      "total_changes": 5,
+      "xml_hash": "952b56f6ff0de2ce18f5cc18a50dd8e49d38072a9aafdf79432f3432ebefd955"
     },
     "nl-19810529-038": {
       "doc_type": "lov",
@@ -3704,15 +3704,15 @@
         "32009R0987",
         "32019L1158"
       ],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/folketrygdloven-ftrl.md",
       "slug": "folketrygdloven-ftrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folketrygd (folketrygdloven)",
-      "total_changes": 4,
-      "xml_hash": "f9de8508391fb37ba1cdbd892cac36246b65a09df1033a0dcf29016e16610041"
+      "total_changes": 5,
+      "xml_hash": "258cce5da6f85be1ae5d6072fde3a42be5854c8f308cfa1a86a6cfba1ad7ab40"
     },
     "nl-19970509-026": {
       "doc_type": "lov",
@@ -3982,15 +3982,15 @@
     "nl-19990326-017": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/husleieloven-husll.md",
       "slug": "husleieloven-husll",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om husleieavtaler (husleieloven)",
-      "total_changes": null,
-      "xml_hash": "38924a95d01aa3445cca1f0d0343ea427384e0c32bd5ea826664765b1898b558"
+      "total_changes": 4,
+      "xml_hash": "3172290b67fc13875dea928840626f214d582aa3b437c1b93dd936aae3af31af"
     },
     "nl-19990521-030": {
       "doc_type": "lov",
@@ -4049,15 +4049,15 @@
     "nl-19990702-061": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/spesialisthelsetjenesteloven-sphl.md",
       "slug": "spesialisthelsetjenesteloven-sphl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)",
-      "total_changes": 5,
-      "xml_hash": "99c578cf266e8a5399110ca9d1898c2eb35c30f9482ebe3a0806030ee75f9ccd"
+      "total_changes": 6,
+      "xml_hash": "98f4294e02a4b38951b692494e48ba2b6404eb3b0718f1bfaaf14082525edb43"
     },
     "nl-19990702-062": {
       "doc_type": "lov",
@@ -4075,15 +4075,15 @@
     "nl-19990702-063": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/pasient-og-brukerrettighetsloven-pbrl.md",
       "slug": "pasient-og-brukerrettighetsloven-pbrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)",
-      "total_changes": 5,
-      "xml_hash": "577433a2dfa0d48f974cf578f6d1389f14945cb9c984c57c60fb3e271e417c7b"
+      "total_changes": 6,
+      "xml_hash": "05e2e88282600155fcbd245c8d985feca52468b1159ff9ee2a4b9d9f717ea891"
     },
     "nl-19990702-064": {
       "doc_type": "lov",
@@ -4105,15 +4105,15 @@
         "32018R1861",
         "32018R1862"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/sis-loven-sisl.md",
       "slug": "sis-loven-sisl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Schengen informasjonssystem (SIS) [SIS-loven]",
-      "total_changes": null,
-      "xml_hash": "af75de747620bbe6f14a1e96311cb33b631f43b7bd33644f46e0c06a6134d97c"
+      "total_changes": 4,
+      "xml_hash": "5200cb54fa801a817ce27245363099956e8e76e0c22518ca63c5ff132d2b67b6"
     },
     "nl-19990716-068": {
       "doc_type": "lov",
@@ -4532,15 +4532,15 @@
     "nl-20020621-045": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/yrkestransportlova.md",
       "slug": "yrkestransportlova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om yrkestransport med motorvogn og fartøy (yrkestransportlova)",
-      "total_changes": null,
-      "xml_hash": "78324b57ff475abe4d225704b05bd6e7c42ec566e4fc4f4b2b480869af025b0b"
+      "total_changes": 4,
+      "xml_hash": "68e6edcc2fcc49a651862e324e01d54458ce169e8198dfa9917ad72db0346baf"
     },
     "nl-20020628-061": {
       "doc_type": "lov",
@@ -5120,15 +5120,15 @@
     "nl-20050520-028": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/straffeloven-strl.md",
       "slug": "straffeloven-strl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om straff (straffeloven)",
-      "total_changes": null,
-      "xml_hash": "83a75880eec4c3f9082179aa30a4a2bdd6195f9ebf402157936eb61a7b658588"
+      "total_changes": 4,
+      "xml_hash": "23956bfe117b1876ffe8258c122a7513b594a32c01b5be77f63fcaaf1db5c630"
     },
     "nl-20050527-031": {
       "doc_type": "lov",
@@ -5216,15 +5216,15 @@
     "nl-20050617-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/barnehageloven-bhl.md",
       "slug": "barnehageloven-bhl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnehager (barnehageloven)",
-      "total_changes": null,
-      "xml_hash": "ac0c5b685164b5396eb46e97e60882b55762ff2c42b03b3ca7c3df09df58546e"
+      "total_changes": 4,
+      "xml_hash": "19fe0c9161f65764c29bafeaa4fb467ad49ff888cc2755556367d6a0988c79a6"
     },
     "nl-20050617-067": {
       "doc_type": "lov",
@@ -5660,15 +5660,15 @@
       "eu_basis": [
         "32004L0038"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/utlendingsloven-utlendl.md",
       "slug": "utlendingsloven-utlendl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
-      "total_changes": null,
-      "xml_hash": "d6e219918c177d34fadf64ab0690cb963144b0183c45b8adb3e46099b748cffb"
+      "total_changes": 4,
+      "xml_hash": "9d2362cdcc73e916404acc131c3f5b9b0febcb79a07d776da7a7035bfff7ef98"
     },
     "nl-20080606-037": {
       "doc_type": "lov",
@@ -5712,15 +5712,15 @@
     "nl-20080627-071": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/plan-og-bygningsloven-pbl.md",
       "slug": "plan-og-bygningsloven-pbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)",
-      "total_changes": null,
-      "xml_hash": "ef488f2c348e315142a8b72803ef40ac250c1e5b50f5b93e324e31f1936e2b7c"
+      "total_changes": 4,
+      "xml_hash": "6a8db3a320d521fd7aa184e9732d9dd4443d6ac2edab579555ade234f3ac0340"
     },
     "nl-20081017-079": {
       "doc_type": "lov",
@@ -6177,15 +6177,15 @@
     "nl-20110624-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/helse-og-omsorgstjenesteloven-hol.md",
       "slug": "helse-og-omsorgstjenesteloven-hol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)",
-      "total_changes": 6,
-      "xml_hash": "83332af3a88fca83d375faf1c2cfb64fb3df90c695225c99e871e600656b5bc6"
+      "total_changes": 7,
+      "xml_hash": "971ab761e88879e8b7f7514bff10140279f6290e71177ce0d018a56cbdf61798"
     },
     "nl-20110624-039": {
       "doc_type": "lov",
@@ -6520,15 +6520,15 @@
         "32006L0054",
         "32003L0041"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/tjenestepensjonsloven.md",
       "slug": "tjenestepensjonsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tjenestepensjon (tjenestepensjonsloven)",
-      "total_changes": null,
-      "xml_hash": "f770209db34107a10c003e389d01fef250a5b1a7b3c9fafe0c26c1a8041f2874"
+      "total_changes": 4,
+      "xml_hash": "3d7b79304fbd40c7f65a2aec88b8b63532e146e99ee3eaeae0395390c50fbefa"
     },
     "nl-20131213-110": {
       "doc_type": "lov",
@@ -7568,15 +7568,15 @@
     "nl-20180420-008": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/grenseloven.md",
       "slug": "grenseloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grensetilsyn og grensekontroll av personer (grenseloven)",
-      "total_changes": null,
-      "xml_hash": "787dd56385f4cfac1f7b6671e2751b560e3b28e425c2765e79a8bf25e0bf6670"
+      "total_changes": 4,
+      "xml_hash": "eff0ca29664b777d16cd956f394e71d7f66f17aa25dfcbcb62f53cdb1a9e7481"
     },
     "nl-20180601-023": {
       "doc_type": "lov",
@@ -8216,15 +8216,15 @@
     "nl-20201106-127": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/integreringsloven.md",
       "slug": "integreringsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)",
-      "total_changes": null,
-      "xml_hash": "e55ce7eaa7b190aaf61c35b00a2d367541f14f553935c77d641572e2b00b2c2e"
+      "total_changes": 4,
+      "xml_hash": "bd6d5e1eb30eb36bac542adc1e55cafd5006187c38b72395df37da1f6a6695e4"
     },
     "nl-20201120-128": {
       "doc_type": "lov",
@@ -8451,15 +8451,15 @@
     "nl-20210618-097": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/barnevernsloven-bvl.md",
       "slug": "barnevernsloven-bvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnevern (barnevernsloven)",
-      "total_changes": null,
-      "xml_hash": "d4f33cacf3a002acfeaa18442c23f2d4aa4e92d1670fb7304d7cc753df914372"
+      "total_changes": 4,
+      "xml_hash": "39730415f8caf97f8d7af76ecfa2dc1896340ed22230c4a45125ce7cf6aec945"
     },
     "nl-20210618-099": {
       "doc_type": "lov",
@@ -8871,15 +8871,15 @@
     "nl-20230609-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/opplæringslova.md",
       "slug": "opplæringslova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)",
-      "total_changes": null,
-      "xml_hash": "32ae0d5942710b7d7cb3e42e683f5558f64e919e79c1cc209160e0290ad900f7"
+      "total_changes": 4,
+      "xml_hash": "a304fe461d71486d17c0bb956a6bdf0e01f275b0e98e186a6213c74286c2ddae"
     },
     "nl-20230616-062": {
       "doc_type": "lov",
@@ -9140,15 +9140,15 @@
         "32021R1150",
         "32021R1151"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "lover/endringslov-til-grenseloven-og-utlendingsloven-mv.md",
       "slug": "endringslov-til-grenseloven-og-utlendingsloven-mv",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i grenseloven og utlendingsloven mv. (interoperabilitet og visuminformasjonssystemet mv.)",
-      "total_changes": null,
-      "xml_hash": "fbd198b87d580aef8c73f01c17fa7f230f3d6b385cf30c6c32adaf0f167267f0"
+      "total_changes": 4,
+      "xml_hash": "918b0c10f5959cf5b0019c20f76e026459fcd356eabf04db1f5de2a6c606ce15"
     },
     "nl-20240621-050": {
       "doc_type": "lov",
@@ -10082,6 +10082,110 @@
       "title": "Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)",
       "total_changes": 1,
       "xml_hash": "cf295938fedaf6a8d585e8bfd2a4b8466a884b3ee0fe2457ef6e6255b2200431"
+    },
+    "nl-20260612-022": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina.md",
+      "slug": "midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)",
+      "total_changes": 1,
+      "xml_hash": "132e49b16dc6fb25b53b90494ab351e51b83f4a224e61018ff35a02acfbd6098"
+    },
+    "nl-20260612-023": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-integreringsloven.md",
+      "slug": "endringslov-til-integreringsloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i integreringsloven (integreringserklæring)",
+      "total_changes": 1,
+      "xml_hash": "9665c9ff96b445313a39ae7c15d9611b22e1f811b930c749b36e6881611202b1"
+    },
+    "nl-20260612-024": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-folketrygdloven-mv-2.md",
+      "slug": "endringslov-til-folketrygdloven-mv-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)",
+      "total_changes": 1,
+      "xml_hash": "84b6ae2a8c517863a20fbd9ff8a6b92bde04f8c2f822be179deb475332b50735"
+    },
+    "nl-20260612-025": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold.md",
+      "slug": "lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
+      "total_changes": 1,
+      "xml_hash": "866dc6a22adf14ac6bb01e319a5c6a3c7850f5fab0fe595bdc76b856302d634e"
+    },
+    "nl-20260612-026": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-lov-om-pensjonsordning-for-sykepleiere.md",
+      "slug": "endringslov-til-lov-om-pensjonsordning-for-sykepleiere",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)",
+      "total_changes": 1,
+      "xml_hash": "60117e71db322e60dcdbe0091b440ad3aaafbcbf420ded26067aa312fc1244eb"
+    },
+    "nl-20260612-027": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-folketrygdloven-2.md",
+      "slug": "endringslov-til-folketrygdloven-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)",
+      "total_changes": 1,
+      "xml_hash": "58e9cce2163f753d7de24881cbb8bf80151c97a86498d7e5f28c810415a184a2"
+    },
+    "nl-20260612-028": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-straffeloven.md",
+      "slug": "endringslov-til-straffeloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i straffeloven (selvstendig inndragning m.m.)",
+      "total_changes": 5,
+      "xml_hash": "a7ff44bf48e89c816ab901e64e7e416d4e0e158d439baa73473aab33ea4fd7ed"
+    },
+    "nl-20260612-032": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "markdown_path": "lover/endringslov-til-utlendingsloven-mv-2.md",
+      "slug": "endringslov-til-utlendingsloven-mv-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)",
+      "total_changes": 1,
+      "xml_hash": "237a0c9deefc76ff0b8f0e0798a1335bee86b2ad0361c6a3872d09c6af3a31a6"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -30249,15 +30353,15 @@
     "sf-20111223-1502": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "forskrifter/forskrift-om-kvoteordningen-for-melk.md",
       "slug": "forskrift-om-kvoteordningen-for-melk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kvoteordningen for melk",
-      "total_changes": null,
-      "xml_hash": "caa29492d5b83a922dffee46423728621cf123983896c56ce37626f029fa6d85"
+      "total_changes": 4,
+      "xml_hash": "33be8043c822b9dc5c2af8bf3ed0c36b153c5cb64551294a849b40c7d20f62a6"
     },
     "sf-20120103-0008": {
       "doc_type": "forskrift",
@@ -54130,15 +54234,15 @@
     "sf-20260417-0614": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-13",
+      "last_seen": "2026-06-13T07:43:12.899363Z",
       "markdown_path": "forskrifter/ungdomsfiskeordningen-2026.md",
       "slug": "ungdomsfiskeordningen-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av ungdoms rett til å delta i fisket i 2026 (ungdomsfiskeordningen)",
-      "total_changes": 4,
-      "xml_hash": "9cfaf852b194dd1ac0f14b70f1c0cfddaa94749e2e9c0ca4a5ca02723e43b215"
+      "total_changes": 5,
+      "xml_hash": "449731123c04b58bfa8dd5788e2da47e7bca429cc746e5f1141f38f58af9499c"
     },
     "sf-20260417-0615": {
       "doc_type": "forskrift",
@@ -54545,28 +54649,28 @@
     },
     "sf-20260608-1026": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-06-11",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy.md",
       "slug": "forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "023838e030dc636bace63981325ccb78093dc77ac32cf2241634f9bca6dd5d9b"
     },
     "sf-20260608-1027": {
       "doc_type": "forskrift",
-      "eu_basis": [],
-      "last_changed": "2026-06-11",
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-06-11T05:13:32.337092Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2.md",
       "slug": "forskrift-om-endring-i-forskrift-om-krav-til-co2-utslipp-mv-for-produsenter-av-person-og-varebiler-og-tunge-kjøretøy-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift om krav til CO2-utslipp mv. for produsenter av person- og varebiler og tunge kjøretøy (M, N og O)",
-      "total_changes": 2,
+      "total_changes": null,
       "xml_hash": "f597db1642622e7288a765b19ceacf3ad9e694dc948374c8a7ec03002eb50b55"
     },
     "sf-20260609-1029": {
@@ -54596,6 +54700,6 @@
       "xml_hash": "6b833debd4bc175642eeed274e3a103a2a801f0d8062988267bf76207387eca4"
     }
   },
-  "generated_at": "2026-06-12T08:22:38.160531Z",
+  "generated_at": "2026-06-13T07:43:12.899363Z",
   "version": 1
 }

@@ -1,6 +1,36 @@
 {
-  "doc_id": "nl-20250620-086",
+  "doc_id": "nl-20260612-028",
   "events": [
+    {
+      "commit": "f3f1814",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 55,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-straffeloven",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 32,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

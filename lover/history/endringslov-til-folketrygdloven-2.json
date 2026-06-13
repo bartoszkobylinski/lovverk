@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260612-027",
+  "events": [
+    {
+      "commit": "dc22d74",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 89,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-folketrygdloven-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-folketrygdloven-2"
+}

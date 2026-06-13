@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260612-023",
+  "events": [
+    {
+      "commit": "fe1ce41",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-integreringsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-integreringsloven"
+}

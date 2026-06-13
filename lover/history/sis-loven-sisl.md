@@ -1,6 +1,16 @@
 # sis-loven-sisl — Change history
 
-_2 events; doc_id `nl-19990716-066`._
+_4 events; doc_id `nl-19990716-066`._
+
+## 2026-06-13 — Content updated
+Lines: +10 -10.
+Subject: `update(lov): sis-loven-sisl`
+Commit: `371e278`.
+
+## 2026-04-29 — Filename renamed
+Lines: +5 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990716-066.md` → `lover/sis-loven-sisl.md`.

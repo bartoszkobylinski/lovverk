@@ -2,6 +2,16 @@
   "doc_id": "nl-19990702-063",
   "events": [
     {
+      "commit": "f15b45a",
+      "date": "2026-06-13",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): pasient-og-brukerrettighetsloven-pbrl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b949fa8",
       "date": "2026-06-01",
       "from_path": null,

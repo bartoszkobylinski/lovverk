@@ -1,6 +1,11 @@
 # helse-og-omsorgstjenesteloven-hol — Change history
 
-_6 events; doc_id `nl-20110624-030`._
+_7 events; doc_id `nl-20110624-030`._
+
+## 2026-06-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): helse-og-omsorgstjenesteloven-hol`
+Commit: `06e361b`.
 
 ## 2026-06-01 — Content updated
 Lines: +12 -12.

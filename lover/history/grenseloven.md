@@ -1,6 +1,16 @@
 # grenseloven — Change history
 
-_2 events; doc_id `nl-20180420-008`._
+_4 events; doc_id `nl-20180420-008`._
+
+## 2026-06-13 — Content updated
+Lines: +44 -6.
+Subject: `update(lov): grenseloven`
+Commit: `dad9419`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20180420-008.md` → `lover/grenseloven.md`.

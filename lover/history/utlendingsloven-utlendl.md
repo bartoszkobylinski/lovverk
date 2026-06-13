@@ -1,6 +1,16 @@
 # utlendingsloven-utlendl — Change history
 
-_2 events; doc_id `nl-20080515-035`._
+_4 events; doc_id `nl-20080515-035`._
+
+## 2026-06-13 — Content updated
+Lines: +87 -71.
+Subject: `update(lov): utlendingsloven-utlendl`
+Commit: `f31983a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20080515-035.md` → `lover/utlendingsloven-utlendl.md`.

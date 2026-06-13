@@ -1,6 +1,16 @@
 # apotekpensjonsloven — Change history
 
-_2 events; doc_id `nl-19530626-011`._
+_4 events; doc_id `nl-19530626-011`._
+
+## 2026-06-13 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): apotekpensjonsloven`
+Commit: `732cd64`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19530626-011.md` → `lover/apotekpensjonsloven.md`.
