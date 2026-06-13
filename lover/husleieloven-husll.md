@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-01"
-xml_hash: "38924a95d01aa3445cca1f0d0343ea427384e0c32bd5ea826664765b1898b558"
+xml_hash: "3172290b67fc13875dea928840626f214d582aa3b437c1b93dd936aae3af31af"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -522,7 +522,7 @@ Er tidsbestemt leieavtale for bolig inngått i strid med bestemmelsene i denne p
 
 For bygning hvor det er gitt unntak for tidsbestemt bruksendring fra fritidsbolig til bolig etter [plan- og bygningsloven §§ 20-9](lov/2008-06-27-71/§20-9) og [20-10](lov/2008-06-27-71/§20-10), kan det inngås tidsbestemt leieavtale med minstetid på ned til ett år.
 
-> Tilføyd ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (endringslov til lov [10 juni 2022 nr. 35](lov/2022-06-10-35)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, midlertidig lov endret ved [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026).
+> Tilføyd ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17) (endringslov til lov [10 juni 2022 nr. 35](lov/2022-06-10-35)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, midlertidig lov endret ved [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 9-4. Leierens oppsigelse av tidsubestemt leieavtale
 
