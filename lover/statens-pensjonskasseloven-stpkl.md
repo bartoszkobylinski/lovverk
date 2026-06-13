@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1949-08-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-05"
-xml_hash: "96949b20bf1e6ad4e723b7334774f2fa09bce88a0b1870d3f4a8037dcf229ee9"
+xml_hash: "8d53e843a3024d8cdd72c98af30fee658e24c34c22d2cc22f70cf7d2ed806886"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-13T07:43:12.899363+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -638,7 +638,7 @@ Barnetillegg etter [§ 28 a](lov/1949-07-28-26/§28a) reduseres i samme forhold 
 
 Departementet kan gi forskrift med nærmere regler om reduksjon av pensjon på grunn av inntekt.
 
-> Endret ved lover [26 mai 2000 nr. 37](lov/2000-05-26-37), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)).
+> Endret ved lover [26 mai 2000 nr. 37](lov/2000-05-26-37), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [7 mars 2014 nr. 5](lov/2014-03-07-5) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798)), [16 juni 2023 nr. 35](lov/2023-06-16-35) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 904](forskrift/2023-06-16-904)), [20 des 2024 nr. 81](lov/2024-12-20-81) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3298](forskrift/2024-12-20-3298)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
 
 ### § 30
 
