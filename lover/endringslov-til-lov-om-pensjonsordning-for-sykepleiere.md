@@ -8,14 +8,14 @@ short_title: "Endringslov til lov om pensjonsordning for sykepleiere"
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "60117e71db322e60dcdbe0091b440ad3aaafbcbf420ded26067aa312fc1244eb"
+xml_hash: "73cdf795acb5812ca561ffc29ca2580d0784dd5f65fcc62aae4f60cdfebe3421"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,4 +34,4 @@ Styret kan fastsette særskilte regler for fastsettelse av frivillig premie, nå
 
 ## II
 
-Loven trer i kraft fra den tid Kongen bestemmer.
+Loven trer i kraft fra den tid1 Kongen bestemmer.
