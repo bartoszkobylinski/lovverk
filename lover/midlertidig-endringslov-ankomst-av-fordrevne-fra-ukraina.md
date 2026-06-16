@@ -8,14 +8,14 @@ short_title: "Midlertidig endringslov, ankomst av fordrevne fra Ukraina"
 language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "132e49b16dc6fb25b53b90494ab351e51b83f4a224e61018ff35a02acfbd6098"
+xml_hash: "3837195f4b998a86d5f4f1d3428a25a45bd5876827987bc0a53e4ab5e03cea6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -139,6 +139,6 @@ Kravet til samtykke gjeld likevel ikkje dersom opplæring gjennom eit særskilt 
 
 ## XI
 
-1. Loven trer i kraft fra den tiden Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Del I til X i loven oppheves 1. juli 2028.
 3. Kongen kan gi nærmere overgangsregler.
