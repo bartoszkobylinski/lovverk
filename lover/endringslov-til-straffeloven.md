@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "a7ff44bf48e89c816ab901e64e7e416d4e0e158d439baa73473aab33ea4fd7ed"
+xml_hash: "90e198a2d94eb06b60fb618d7c0e8505eeedf180a28aa82d803601a5c522132b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, a
 
 som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
 
-For selvstendig inndragning etter § 68 a gjelder det ingen foreldelsesfrist.
+For selvstendig inndragning etter [§ 68 a](lov/2005-05-20-28/§68a) gjelder det ingen foreldelsesfrist.
 
 Sak om inndragning av utbytte, herunder inndragning etter [§ 68](lov/2005-05-20-28/§68) og [§ 72 annet ledd](lov/2005-05-20-28/§72/ledd/2), kan fremmes selv om den ansvarlige er død. For øvrig faller inndragningsansvar bort ved den ansvarliges død.
 
