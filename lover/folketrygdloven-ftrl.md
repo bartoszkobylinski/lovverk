@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1997-05-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-09"
-xml_hash: "258cce5da6f85be1ae5d6072fde3a42be5854c8f308cfa1a86a6cfba1ad7ab40"
+xml_hash: "8727219a0714c4c9a020e32cb3f7b69230ab485a87f6b6e82d8db4da642a6a33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -2115,7 +2115,7 @@ Stønaden ytes i forbindelse med tiltak som er nødvendige og hensiktsmessige fo
 
 Det ytes ikke stønad etter denne paragrafen til en person som mottar uføretrygd eller avtalefestet pensjon som det godskrives pensjonspoeng for, se [§ 3-19](lov/1997-02-28-19/§3-19) sjette ledd. Til en person som mottar uføretrygd, kan det likevel ytes stønad dersom det er sannsynlig at stønaden vil føre til at uføretrygden faller bort eller blir redusert.
 
-> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [13 juni 1997 nr. 60](lov/1997-06-13-60) (ikr. 1 okt 1997), [19 juni 1997 nr. 86](lov/1997-06-19-86) (ikr. 1 okt 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
 
 ### § 10-6. Stønad til bedring av funksjonsevnen i dagliglivet
 
@@ -2751,7 +2751,7 @@ Når en mottaker av uføretrygd får økonomiske ytelser som ikke er pensjonsgiv
 
 Departementet kan i forskrift gi nærmere regler om reduksjon av uføretrygd på grunn av inntekt og om etteroppgjør.
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
 
 ### § 12-15. Barnetillegg
 
