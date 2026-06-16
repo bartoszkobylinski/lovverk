@@ -8,14 +8,14 @@ short_title: "Endringslov til folketrygdloven mv."
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2026-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "84b6ae2a8c517863a20fbd9ff8a6b92bde04f8c2f822be179deb475332b50735"
+xml_hash: "36678eb9af38695095769a297ea94f085e22079c140ea46c8f8ab8e5b64e3cf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,6 +60,6 @@ Mottar medlemmet uføretrygd fra folketrygden, tillegges inntekt etter uførhet,
 
 ## VI
 
-Loven trer i kraft fra den tid Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+Loven trer i kraft fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
 Departementet kan gi forskrift om nærmere overgangsregler.
