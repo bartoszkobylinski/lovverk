@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1962-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-01"
-xml_hash: "709d6a8a2c1062256ec9f70e2a9738d1b59cabf352400f2b3d4f95f575eec61b"
+xml_hash: "8247758616abcfe0bcedc71d4f8e83ef247c17138dfca7a602fece065c67ebeb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Ved fastsetting av alders-, ektefelle- og barnepensjon får pensjonist med midle
 
 Departementet gir forskrifter om medlemskap og opptjening når medlemmet har midlertidig uførepensjon og uførepensjon.
 
-> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
 
 ## Kapittel 3. Aldersgrenser.
 
@@ -702,7 +702,7 @@ Premien for frivillig medlemskap fastsettes i samsvar med reglene i [§ 31](lov/
 
 Et medlem som ved permisjon uten lønn eller med delvis lønn betaler frivillig premie til pensjonsordningen, skal innbetale slik premie direkte til pensjonsordningen innen de frister styret fastsetter. Etter forfall kan det kreves renter etter en rentesats som fastsettes av styret. Hvis premien ikke blir betalt, blir tiden ikke registrert som pensjonsgivende. Varsel om dette må gis i samsvar med [forsikringsavtalelovens §§ 14-1](lov/1989-06-16-69/§14-1) og [14-2](lov/1989-06-16-69/§14-2).
 
-> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
 
 ### § 31
 
