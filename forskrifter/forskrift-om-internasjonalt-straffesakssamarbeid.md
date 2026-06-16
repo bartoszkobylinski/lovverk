@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "3601197f86cb81c65f34fb4ab6bc459e4338de7e6e3d971b9e949cfcafd7c437"
+xml_hash: "7d54859675f06aa02e2182caa0429366a826d16bbae2bd2a538b69fc693320e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,6 +55,8 @@ I den utstrekning det følger av overenskomst med fremmed stat eller det for øv
 Den myndighet som mottar anmodningen til behandling foretar rimelige undersøkelser for å sikre at dokumentene er fremsendt av kompetent myndighet i den anmodende stat, samt at det mottatte dokumentet tilsvarer det fremsendte dokumentet. Dersom det er nødvendig kan den myndighet som har saken til behandling be Justis- og beredskapsdepartementet om bistand til å få bekreftet anmodningens ekthet.
 
 For anmodninger om forkynning av dokumenter gjelder [forskrift 12. september 1969 nr. 5](forskrift/1969-09-12-5) om forkynnelse av utenlandske dokumenter i Norge.
+
+> **Endres** ved forskrift [12 juni 2026 nr. 1057](forskrift/2026-06-12-1057) (i kraft 1 juli 2026).
 
 ### § 5. Frister
 
@@ -97,6 +99,8 @@ I andre tilfeller eller dersom særlige grunner taler for det, oversendes anmodn
 Rettsanmodninger kan fremsendes ved bruk av telefaks, e-post eller andre elektroniske kommunikasjonsmidler i den utstrekning det følger av overenskomst med fremmed stat eller for øvrig godtas av anmodede myndighet. Elektronisk fremsendelse kan bare skje såfremt det er i samsvar med gjeldende regler og retningslinjer for håndtering av opplysninger som er underlagt taushetsplikt eller krav til sikring etter reglene om behandling av personopplysninger eller tilsvarende regler.
 
 Anmodningen skal i tillegg fremsendes per post, med mindre det følger av avtale at dette ikke er påkrevd. Den myndighet som har utferdiget anmodningen skal på begjæring fra anmodede myndighet kunne legge frem en utskrift eller original av rettsanmodningen.
+
+> **Endres** ved forskrift [12 juni 2026 nr. 1057](forskrift/2026-06-12-1057) (i kraft 1 juli 2026).
 
 ### § 12. Kompetanse til å utferdige rettsanmodninger
 
