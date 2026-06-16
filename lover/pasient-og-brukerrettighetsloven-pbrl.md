@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2022-03-31"
-xml_hash: "05e2e88282600155fcbd245c8d985feca52468b1159ff9ee2a4b9d9f717ea891"
+xml_hash: "a4a2335596d376184d80047277c10f1f8449948375f29ed285920884ab793e38"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -204,7 +204,7 @@ Familier som har eller venter barn med alvorlig sykdom, skade eller nedsatt funk
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3) om fastsettelse av tidsfrist for når pasienten senest skal få nødvendig helsehjelp[§ 2-2 b første ledd](lov/1999-07-02-63/§2-2b/ledd/1) om rett til nødvendig helsehjelp uten opphold ved brudd på tidsfrist fastsatt etter [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3)[§ 2-2 a andre ledd bokstav a](lov/1999-07-02-63/§2-2a/ledd/2/bokstav/a) om informasjon om rett til nødvendig helsehjelp[§ 2-2 a andre ledd bokstav b](lov/1999-07-02-63/§2-2a/ledd/2/bokstav/b) om informasjon om tidspunkt for oppstart av helsehjelpen[§ 2-2 b første ledd](lov/1999-07-02-63/§2-2b/ledd/1) om plikt til å kontakte HELFO[§ 2-3](lov/1999-07-02-63/§2-3) om rett til fornyet vurdering[§ 2-4](lov/1999-07-02-63/§2-4) om rett til valg av behandlingssted[§ 2-5](lov/1999-07-02-63/§2-5) om rett til individuell plan[§ 2-5 a](lov/1999-07-02-63/§2-5a) om rett til kontaktlege[§ 2-5 b](lov/1999-07-02-63/§2-5b) om rett til koordinator[§ 2-5 c](lov/1999-07-02-63/§2-5c) om rett til barnekoordinator.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lover [2 juni 2023 nr. 17](lov/2023-06-02-17), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lover [2 juni 2023 nr. 17](lov/2023-06-02-17), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 2-6. Dekning av utgifter til pasientreiser
 
