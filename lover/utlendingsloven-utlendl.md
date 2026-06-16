@@ -10,12 +10,12 @@ ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-06-12"
-last_updated: "2025-01-09"
-xml_hash: "9d2362cdcc73e916404acc131c3f5b9b0febcb79a07d776da7a7035bfff7ef98"
+last_updated: "2026-06-15"
+xml_hash: "eef8f431d9e6357d68833c724672a691d0099a5982a44a6c2bc22c29dc854248"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -369,7 +369,7 @@ I tilfeller som nevnt i første ledd bokstav b, c og d skal søknaden om opphold
 
 Adgangen til å nekte realitetsbehandling etter første ledd gjelder likevel ikke dersom [§ 73](lov/2008-05-15-35/§73) er til hinder for det.
 
-Forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) om håndtering av krise- og force majeure-situasjoner innenfor asyl- og migrasjonsområdet artikkel 12 og 13, samt artikkel 1 til 6 i den utstrekning de gjelder for artikkel 12 og 13, gjelder som lov. Kongen kan i forskrift gi regler om definisjoner og gjennomføring av bestemmelsen.
+Forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) om håndtering av krise- og force majeure-situasjoner innenfor asyl- og migrasjonsområdet artikkel 12 og 13, samt artikkel 1 til 6 i den utstrekning de gjelder for artikkel 12 og 13, gjelder som lov. Kongen kan i forskrift gi regler om definisjoner og gjennomføring av bestemmelsen.2
 
 I en krisesituasjon med ekstraordinært høye ankomster av asylsøkere kan Kongen i statsråd beslutte at søknader om beskyttelse, jf. [§ 28](lov/2008-05-15-35/§28), skal kunne nektes realitetsbehandlet dersom søkeren ankommer direkte fra en nordisk stat. Kongen i statsråd kan beslutte at myndighet til å nekte realitetsbehandling, og myndighet til å bortvise i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller legges til polititjenestemann. Kongen i statsråd kan beslutte at nektelse av realitetsbehandling, og bortvisning i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller ikke anses som enkeltvedtak. Bestemmelsene i første til tredje punktum gjelder uten hensyn til hva som ellers ville fulgt av fjerde ledd. Det gjelder ikke plikt til forhåndsvarsling etter [forvaltningsloven § 37](lov/1967-02-10/§37) før Kongen i statsråd fatter beslutninger som nevnt i første til tredje punktum.
 
@@ -1447,7 +1447,7 @@ Kongen kan gi nærmere regler i forskrift.
 
 ### § 101. Systemet Eurodac
 
-Forordning [(EU) 2024/1358](eu/32024r1358) (Eurodac-forordningen) gjelder som lov, med unntak av artikkel 8 til 11 og kapittel VII og VIII, og gjelder med de begrensninger som følger av Norges tilknytningsavtale til Dublin-samarbeidet.
+Forordning [(EU) 2024/1358](eu/32024r1358) (Eurodac-forordningen) gjelder som lov, med unntak av artikkel 8 til 11 og kapittel VII og VIII, og gjelder med de begrensninger som følger av Norges tilknytningsavtale til Dublin-samarbeidet.1
 
 Kongen kan gi forskrift om behandling av opplysninger i Eurodac, herunder om behandlingsansvar, klageadgang og fremgangsmåte for klagebehandling.
 
