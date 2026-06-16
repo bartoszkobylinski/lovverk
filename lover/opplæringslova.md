@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2025-03-04"
-xml_hash: "a304fe461d71486d17c0bb956a6bdf0e01f275b0e98e186a6213c74286c2ddae"
+xml_hash: "0fe7633a7e52784e9c9ecd42e757ab8a561439c48a0456989478e7ccca81e712"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,7 +98,7 @@ Barn har rett til offentleg grunnskoleopplæring frå det året dei fyller seks 
 
 Retten til grunnskoleopplæring gjeld dersom barnet truleg skal vere i Noreg i meir enn tre månader i samanheng. Retten skal oppfyllast så raskt som mogleg og seinast innan tre månader etter at barnet er komme til Noreg. Dersom det er nødvendig fordi det kjem svært mange fordrivne barn frå Ukraina, kan departementet gi forskrift om mellombels forlenging av tremånadersfristen. Barn som kjem til Noreg, skal plasserast på det trinnet som passar med alderen. Kommunen kan gjere unntak der ei konkret vurdering viser at barnet bør plasserast på eit lågare trinn.
 
-> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft frå den tid Kongen fastset). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 2-2. Plikt til grunnskoleopplæring
 
@@ -196,7 +196,7 @@ Kommunen kan gi elevar som har budd kort tid i Noreg og har fått vedtak om sær
 
 Kommunen kan gjere vedtak om innføringsopplæring for ein elev for opp til eitt år om gongen, i til saman opp til to år. I vedtaket kan det gjerast unntak frå læreplanar i fag, jf. [§ 1-4](lov/2023-06-09-30/§1-4) andre ledd, og fag- og timefordelinga, jf. [§ 1-6](lov/2023-06-09-30/§1-6) første og andre ledd.
 
-> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft frå den tid Kongen fastset). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### Kapittel 4 Skyss, leksehjelp, skolefritidsordninga, skoletur og overgang frå barnehage til skole
 
@@ -366,7 +366,7 @@ Fylkeskommunen kan gi elevar som har budd kort tid i Noreg og har fått vedtak o
 
 Fylkeskommunen kan gjere vedtak om innføringsopplæring for ein elev for opp til eitt år om gongen, i til saman opp til to år. I vedtaket kan det gjerast unntak frå læreplanar i fag, jf. [§ 1-4](lov/2023-06-09-30/§1-4) andre ledd, og fag- og timefordelinga, jf. [§ 1-6](lov/2023-06-09-30/§1-6) fjerde ledd.
 
-> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft frå den tid Kongen fastset). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Endra ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert endra** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Vert endra** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### Kapittel 7 Opplæring i bedrift
 
