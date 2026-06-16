@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-07-01"
 last_change_in_force: "2026-01-17"
 last_updated: "2025-03-18"
-xml_hash: "6a8db3a320d521fd7aa184e9732d9dd4443d6ac2edab579555ade234f3ac0340"
+xml_hash: "aecd68e9feacc526a73500eebd93ba38da8472e68490475678d6ac5ff99530bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1609,7 +1609,7 @@ Ved tidsbestemt bruksendring eller plassering av midlertidige bygninger skal det
 
 Departementet kan gi midlertidig forskrift om krav til innhold i og behandling av anmodninger om unntak, nabovarsling, tiltakshavers ansvar, tekniske krav til tiltaket, ansvar og ferdigstillelse.
 
-> Tilføyd ved [lov 26 mai 2020 nr. 50](lov/2020-05-26-50), opphevet ved [lov 26 mai 2020 nr. 50](lov/2020-05-26-50) (ikr. 1 jan 2021), tilføyd ved lov [18 des 2020 nr. 151](lov/2020-12-18-151) (ikr. 1 jan 2021), opphevet ved lov [18 des 2020 nr. 151](lov/2020-12-18-151) (ikr. 1 juni 2021), tilføyd ved lov [28 mai 2021 nr. 48](lov/2021-05-28-48) (ikr. 1 juni 2021), opphevet ved lov [28 mai 2021 nr. 48](lov/2021-05-28-48) (ikr. 1 des 2021), tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved [lov 26 mai 2020 nr. 50](lov/2020-05-26-50), opphevet ved [lov 26 mai 2020 nr. 50](lov/2020-05-26-50) (ikr. 1 jan 2021), tilføyd ved lov [18 des 2020 nr. 151](lov/2020-12-18-151) (ikr. 1 jan 2021), opphevet ved lov [18 des 2020 nr. 151](lov/2020-12-18-151) (ikr. 1 juni 2021), tilføyd ved lov [28 mai 2021 nr. 48](lov/2021-05-28-48) (ikr. 1 juni 2021), opphevet ved lov [28 mai 2021 nr. 48](lov/2021-05-28-48) (ikr. 1 des 2021), tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 20-10. Saksbehandling etter § 20-9
 
@@ -1621,7 +1621,7 @@ Ved avslag på anmodning om unntak skal kommunen samtidig orientere om andre alt
 
 Kommunens vedtak etter første ledd kan påklages av en part eller andre med rettslig klageinteresse i saken. Klagefristen er syv virkedager fra kommunen har fattet vedtak. En klagesak skal forberedes av kommunen og sendes klageinstansen innen syv virkedager etter at klagen er mottatt. Dersom kommunen ikke overholder fristen, kan klagen tas under behandling av klageinstansen. Klageinstansen skal avgjøre saken innen syv virkedager. Fristene kan ikke forlenges.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### Kapittel 21. Krav til innhold og behandling av søknader
 
