@@ -8,14 +8,14 @@ short_title: null
 language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "866dc6a22adf14ac6bb01e319a5c6a3c7850f5fab0fe595bdc76b856302d634e"
+xml_hash: "f21325d9e38396fb3a9ee9138f982efce9a0ccd53a74a54c1ba43d4f4bceba51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,4 +62,4 @@ Departementet kan gi forskrift om deling av personopplysninger etter denne loven
 
 ## § 6. Ikrafttredelse
 
-Loven trer i kraft fra det tidspunktet Kongen bestemmer.
+Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
