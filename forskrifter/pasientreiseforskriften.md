@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-10-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2020-12-28"
-xml_hash: "7876db66e6c52b9aaf924d03fe59f52be9caa7ac0761b10868dc911edb7401ec"
+xml_hash: "915d3b5ccbe3d1b2e0cf50873d7e03edfe007e78e7c2c8e5cfe1755aac8ef1b1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,7 +128,7 @@ Velger en pasient å overnatte i nærheten av behandlingsstedet i stedet for å 
 
 Utgifter til overnatting som er nødvendig av behandlingsmessige grunner, dekkes ikke etter forskriften her.
 
-> Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [19 des 2016 nr. 1749](forskrift/2016-12-19-1749) (i kraft 1 jan 2017), [19 des 2017 nr. 2255](forskrift/2017-12-19-2255) (i kraft 1 jan 2018), [15 des 2018 nr. 2035](forskrift/2018-12-15-2035) (i kraft 1 jan 2019), [9 des 2019 nr. 1706](forskrift/2019-12-09-1706) (i kraft 1 jan 2020), [17 des 2020 nr. 2959](forskrift/2020-12-17-2959) (i kraft 1 jan 2021), [16 des 2021 nr. 3664](forskrift/2021-12-16-3664) (i kraft 1 jan 2022), [15 des 2022 nr. 2233](forskrift/2022-12-15-2233) (i kraft 1 jan 2023), [19 des 2023 nr. 2234](forskrift/2023-12-19-2234) (i kraft 1 jan 2024), [16 des 2024 nr. 3144](forskrift/2024-12-16-3144) (i kraft 1 jan 2025), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025), [15 des 2025 nr. 2590](forskrift/2025-12-15-2590) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 12 sep 2016 nr. 1056](forskrift/2016-09-12-1056) (i kraft 1 okt 2016), [19 des 2016 nr. 1749](forskrift/2016-12-19-1749) (i kraft 1 jan 2017), [19 des 2017 nr. 2255](forskrift/2017-12-19-2255) (i kraft 1 jan 2018), [15 des 2018 nr. 2035](forskrift/2018-12-15-2035) (i kraft 1 jan 2019), [9 des 2019 nr. 1706](forskrift/2019-12-09-1706) (i kraft 1 jan 2020), [17 des 2020 nr. 2959](forskrift/2020-12-17-2959) (i kraft 1 jan 2021), [16 des 2021 nr. 3664](forskrift/2021-12-16-3664) (i kraft 1 jan 2022), [15 des 2022 nr. 2233](forskrift/2022-12-15-2233) (i kraft 1 jan 2023), [19 des 2023 nr. 2234](forskrift/2023-12-19-2234) (i kraft 1 jan 2024), [16 des 2024 nr. 3144](forskrift/2024-12-16-3144) (i kraft 1 jan 2025), [22 jan 2025 nr. 96](forskrift/2025-01-22-96) (i kraft 3 mars 2025), [15 des 2025 nr. 2590](forskrift/2025-12-15-2590) (i kraft 1 jan 2026). **Endres** ved forskrift [9 juni 2026 nr. 1053](forskrift/2026-06-09-1053) (i kraft 1 jan 2027).
 
 ### § 13. Rett til reisestønad ved permisjon
 
