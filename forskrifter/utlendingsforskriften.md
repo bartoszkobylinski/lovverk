@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-05-18"
+last_change_in_force: "2026-06-12"
 last_updated: "2022-10-20"
-xml_hash: "198e52ec5f23668fb4bafe0f2119bf15540eacd456a333ad4c803e95c3c38a5c"
+xml_hash: "6a7fc5f7955d6877f82f5b901154b96d61779d55025867cd8ffc7374f14e33c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-20T07:40:56.944763+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -109,13 +109,13 @@ Ektefelle eller samboer, jf. lovens § 40 til § 41, og barn, jf. lovens § 42 f
 
 ### § 1-5A. Oppholdskort for personell ved utenlandsk representasjon i Norge
 
-Personer som er unntatt fra kravet til oppholdstillatelse etter [§ 1-4](forskrift/2009-10-15-1286/§1-4) første og tredje ledd eller [§ 1-5](forskrift/2009-10-15-1286/§1-5) første ledd, kan utstedes oppholdskort (Residence Card Foreign Missions) med biometrisk personinformasjon, jf. lovens § 64a, § 100a og § 100b.
+Personer som er unntatt fra kravet til oppholdstillatelse etter [§ 1-4](forskrift/2009-10-15-1286/§1-4) første og tredje ledd eller [§ 1-5](forskrift/2009-10-15-1286/§1-5) første ledd, kan utstedes oppholdskort (Residence Card Foreign Missions) med biometriske opplysninger, jf. lovens § 64a, § 100a og § 100b.
 
 Reglene i forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge fram oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv. og [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort gjelder ikke for personell ved utenlandsk representasjon som nevnt i første ledd.
 
 Utenriksdepartementet kan utarbeide nærmere retningslinjer om utstedelse, oppbevaring og innlevering av oppholdskort til personer som nevnt i første ledd. Utenriksdepartementet kan også gjøre unntak fra kravet om fingeravtrykk for personer omfattet av [§ 1-4](forskrift/2009-10-15-1286/§1-4) første ledd og [§ 1-5](forskrift/2009-10-15-1286/§1-5) første ledd når dette er begrunnet i diplomatiske eller konsulære rettigheter eller privilegier som følger av folkeretten eller vertslandsavtaler.
 
-> Tilføyd ved [forskrift 4 des 2013 nr. 1407](forskrift/2013-12-04-1407), endret ved forskrift [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
+> Tilføyd ved [forskrift 4 des 2013 nr. 1407](forskrift/2013-12-04-1407), endret ved forskrifter [2 juni 2025 nr. 907](forskrift/2025-06-02-907), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 1-6. Unntak fra kravet om oppholdstillatelse for militærpersonell mv.
 
@@ -1169,13 +1169,19 @@ Flyktningens ektefelle eller samboer og barn som fyller vilkårene for å ha ret
 
 > Endret ved [forskrift 8 april 2010 nr. 496](forskrift/2010-04-08-496) som endret ved [forskrift 30 mars 2011 nr. 340](forskrift/2011-03-30-340) (i kraft 1 mai 2011), opphevet ved [forskrift 17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014).
 
-### § 7-4. Adgang til realitetsbehandling av saker etter Dublin III-forordningen
+### § 7-4. Adgang til realitetsbehandling av saker etter forordning om asyl- og migrasjonshåndtering
 
-Selv om en søknad om oppholdstillatelse kan nektes realitetsbehandlet etter lovens § 32 første ledd bokstav b fordi søkeren kan kreves mottatt av et annet land som deltar i Dublin-samarbeidet, skal søknaden om oppholdstillatelse etter lovens § 28 likevel tas til realitetsbehandling dersom utlendingen har en tilknytning til riket som gjør at Norge er nærmest til å realitetsbehandle den, jf. lovens § 32 annet ledd. Når tilknytningen er familiemedlemmer i riket, skal definisjonen av familiemedlemmer i Dublin III-forordningens artikkel 2 bokstav g, legges til grunn.
+Selv om en søknad om oppholdstillatelse kan nektes realitetsbehandlet etter lovens [§ 32](lov/2008-05-15-35/§32) første ledd bokstav b fordi søkeren kan kreves mottatt av et annet land i henhold til forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering, skal søknaden om oppholdstillatelse etter lovens [§ 28](lov/2008-05-15-35/§28) likevel tas til realitetsbehandling dersom utlendingen har en tilknytning til riket som gjør at Norge er nærmest til å realitetsbehandle den, jf. lovens [§ 32](lov/2008-05-15-35/§32) annet ledd. Når tilknytningen er familiemedlemmer i riket, skal definisjonen av familiemedlemmer i forordning [(EU) 2024/1351](eu/32024r1351) artikkel 2 nr. 8, legges til grunn.
 
 I andre tilfeller enn nevnt i første ledd, skal adgangen til å ta en søknad om beskyttelse til realitetsbehandling bare benyttes dersom det foreligger særlige grunner. Helsemessige forhold skal som hovedregel ikke anses som slik grunn.
 
-> Endret ved [forskrifter 17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014).
+> Endret ved forskrifter [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [21 mars 2014 nr. 328](forskrift/2014-03-21-328) (i kraft 31 mars 2014), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
+
+### § 7-4a. Behandling av saker etter forordningen om asyl- og migrasjonshåndtering og kriseforordningen
+
+Ved anvendelsen av lovens [§ 32](lov/2008-05-15-35/§32) første ledd bokstav b og fjerde ledd skal definisjonene i forordning [(EU) 2024/1351](eu/32024r1351) artikkel 2 legges til grunn i den utstrekning de gjelder for anvendelsen av forordningens del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) artikkel 12 og 13.
+
+> Tilføyd ved forskrift [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### Lovens § 34. Kollektiv beskyttelse i en massefluktsituasjon
 
@@ -2045,13 +2051,13 @@ Søknad om beskyttelse omfatter også søknad om reisebevis eller utlendingspass
 
 For øvrig fremmes søknad om reisebevis eller utlendingspass gjennom politiet i det distriktet der søkeren har sitt faste opphold.
 
-Søknaden skal fremmes på fastsatt skjema eller i henhold til retningslinjer fastsatt av Utlendingsdirektoratet. Det skal opptas ansiktsfoto, fingeravtrykk og signatur av søkeren. Biometrisk personinformasjon opptatt etter annet punktum skal lagres i utlendingsregisteret. Ansiktsfoto, fingeravtrykk og signatur som allerede er opptatt og lagret i utlendingsregisteret, kan benyttes til utstedelse av reisebevis eller utlendingspass ved samtidig søknad om dette. Det skal ikke tas fingeravtrykk av barn under 12 år, og barn under 10 år skal ikke avgi signatur. Utlendingsdirektoratet kan gi nærmere retningslinjer for opptak av ansiktsfoto, fingeravtrykk og signatur. Pass eller annet reisedokument søkeren er i besittelse av, må innleveres sammen med søknaden, jf. lovens [§ 64 tredje ledd](lov/2008-05-15-35/§64/ledd/3).
+Søknaden skal fremmes på fastsatt skjema eller i henhold til retningslinjer fastsatt av Utlendingsdirektoratet. Det skal opptas ansiktsfoto, fingeravtrykk og signatur av søkeren. Biometriske opplysninger opptatt etter annet punktum skal lagres i utlendingsregisteret. Ansiktsfoto, fingeravtrykk og signatur som allerede er opptatt og lagret i utlendingsregisteret, kan benyttes til utstedelse av reisebevis eller utlendingspass ved samtidig søknad om dette. Det skal ikke tas fingeravtrykk av barn under 12 år, og barn under 10 år skal ikke avgi signatur. Utlendingsdirektoratet kan gi nærmere retningslinjer for opptak av ansiktsfoto, fingeravtrykk og signatur. Pass eller annet reisedokument søkeren er i besittelse av, må innleveres sammen med søknaden, jf. lovens [§ 64 tredje ledd](lov/2008-05-15-35/§64/ledd/3).
 
 Politiet skal om nødvendig forlange fremlagt de legitimasjonspapirene søkeren har eller kan skaffe, og eventuell dokumentasjon av søkerens status som flyktning.
 
 Søknad om reisebevis for flyktningsjømann, jf. [§ 12-1](forskrift/2009-10-15-1286/§12-1) tredje ledd, sendes direkte til Utlendingsdirektoratet eller gjennom norsk utenriksstasjon.
 
-> Endret ved forskrift [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
+> Endret ved forskrifter [2 juni 2025 nr. 907](forskrift/2025-06-02-907), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 12-12. Om utstedelse av reisebevis og utlendingspass
 
@@ -2079,9 +2085,9 @@ Når reisebevis eller utlendingspass er tapt eller på annen måte kommet bort, 
 
 ### § 12-14. Grenseboerbevis
 
-Utlending som innvilges grenseboerbevis, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) bokstav m, skal få sin tillatelse dokumentert ved at det utstedes standardisert oppholdskort med biometrisk personinformasjon, jf. lovens § 64 a, § 100 a og § 100 b.
+Utlending som innvilges grenseboerbevis, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) bokstav m, skal få sin tillatelse dokumentert ved at det utstedes standardisert oppholdskort med biometriske opplysninger, jf. lovens § 64 a, § 100 a og § 100 b.
 
-> Tilføyd ved [forskrift 11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), endret ved [forskrift 20 des 2012 nr. 1392](forskrift/2012-12-20-1392).
+> Tilføyd ved [forskrift 11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), endret ved forskrifter [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 12-15. (Opphevet)
 
@@ -3031,7 +3037,7 @@ I tillegg til dekning som omtalt i første ledd, dekkes nødvendige utgifter til
 
 ### § 18-1. Opptak og lagring av ansiktsfoto og fingeravtrykk, jf. lovens § 100
 
-Det skal opptas og lagres biometrisk personinformasjon i form av ansiktsfoto og fingeravtrykk avutlending som søker beskyttelse eller omfattes av [lovens § 35](lov/2008-05-15-35/§35)utlending som søker oppholdstillatelse, så langt det er mulig. I tilfeller der det skal innhentes fingeravtrykk og ansiktsfoto, men dette ikke er mulig å gjøre før innreise til Norge av organisatoriske årsaker, skal innhenting skje etter innreise til Norgeutlending som får oppholdstillatelse og som ikke allerede er registrert med fingeravtrykk eller ansiktsfotoutlending som søker Schengenvisum, jf. lovens [§ 10](lov/2008-05-15-35/§10) eller visum av humanitære grunner, jf. lovens [§ 11](lov/2008-05-15-35/§11), med mindre unntak følger av visumforordningen. I tillegg til at ansiktsfoto og fingeravtrykk skal lagres i VIS, jf. lovens [§ 102 b](lov/2008-05-15-35/§102b) første ledd bokstav b og c, skal opplysningene så langt det er mulig også registreres i utlendingsregisteretutlending som søker innreisevisum, jf. lovens [§ 12](lov/2008-05-15-35/§12)utlending som ikke kan dokumentere sin identitet eller som det er grunn til å mistenke for å oppgi uriktige opplysningerutlending som oppholder seg ulovlig i Norgeutlending som er bortvist etter å ha blitt ilagt straff eller strafferettslig reaksjon, jf. [straffeloven § 30](lov/2005-05-20-28/§30)utlending som er utvist.
+Det skal opptas og lagres biometriske opplysninger i form av ansiktsfoto og fingeravtrykk avutlending som søker beskyttelse eller omfattes av [lovens § 35](lov/2008-05-15-35/§35)utlending som søker oppholdstillatelse, så langt det er mulig. I tilfeller der det skal innhentes fingeravtrykk og ansiktsfoto, men dette ikke er mulig å gjøre før innreise til Norge av organisatoriske årsaker, skal innhenting skje etter innreise til Norgeutlending som får oppholdstillatelse og som ikke allerede er registrert med fingeravtrykk eller ansiktsfotoutlending som søker Schengenvisum, jf. lovens [§ 10](lov/2008-05-15-35/§10) eller visum av humanitære grunner, jf. lovens [§ 11](lov/2008-05-15-35/§11), med mindre unntak følger av visumforordningen. I tillegg til at ansiktsfoto og fingeravtrykk skal lagres i VIS, jf. lovens [§ 102 b](lov/2008-05-15-35/§102b) første ledd bokstav b og c, skal opplysningene så langt det er mulig også registreres i utlendingsregisteretutlending som søker innreisevisum, jf. lovens [§ 12](lov/2008-05-15-35/§12)utlending som ikke kan dokumentere sin identitet eller som det er grunn til å mistenke for å oppgi uriktige opplysningerutlending som oppholder seg ulovlig i Norgeutlending som er bortvist etter å ha blitt ilagt straff eller strafferettslig reaksjon, jf. [straffeloven § 30](lov/2005-05-20-28/§30)utlending som er utvist.
 
 Det skal ikke opptas fingeravtrykk etter første ledd av barn under seks år. I tilfeller som faller inn under første ledd bokstav d, skal det ikke opptas fingeravtrykk av barn under tolv år, jf. visumforordningen artikkel 13 nr. 7 bokstav a.
 
@@ -3047,9 +3053,9 @@ Utlendingsdirektoratet kan fastsette når fingeravtrykk og ansiktsfoto for øvri
 
 En utlending som oppholder seg i Norge og som blir innkalt til kontroll eller opptak av ansiktsfoto eller fingeravtrykk etter bestemmelsene ovenfor eller etter andre bestemmelser i loven eller forskriften, har plikt til å møte og medvirke til dette.
 
-For behandling av fingeravtrykk i henhold til Dublin-samarbeidet, jf. [lovens § 32](lov/2008-05-15-35/§32) fjerde ledd, gjelder reglene i [§ 18-5](forskrift/2009-10-15-1286/§18-5) til [§ 18-11](forskrift/2009-10-15-1286/§18-11).
+For behandling av fingeravtrykk og ansiktsfoto i henhold til Eurodac-forordningen, jf. lovens [§ 101](lov/2008-05-15-35/§101), gjelder reglene i [§ 18-5](forskrift/2009-10-15-1286/§18-5) til [§ 18-7](forskrift/2009-10-15-1286/§18-7).
 
-> Endret ved [forskrifter 17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021).
+> Endret ved forskrifter [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 18-2. Registrering av ansiktsfoto og fingeravtrykk i utlendingsregisteret
 
@@ -3087,37 +3093,43 @@ Sletting skal skje i samsvar med [arkivloven](lov/1992-12-04-126).
 
 > Endret ved forskrifter [9 des 2010 nr. 1644](forskrift/2010-12-09-1644) (i kraft 1 jan 2011), [20 des 2013 nr. 1683](forskrift/2013-12-20-1683) (i kraft 1 jan 2014), [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [25 april 2025 nr. 699](forskrift/2025-04-25-699) (i kraft 2 juni 2025), [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
 
-### Lovens § 100a. Innhenting og lagring av biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) i standardisert oppholdskort, innsyn, retting og sletting
+### Lovens § 100a. Innhenting og lagring av biometriske opplysninger (ansiktsfoto og fingeravtrykk) i standardisert oppholdskort, innsyn, retting og sletting
 
-> Tilføyd ved [forskrift 11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 20 mai 2012).
+> Tilføyd ved forskrift [11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 20 mai 2012), endret ved forskrift [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 18-4a. Standardisert oppholdskort, grenseboerbevis mv.
 
-Utlendingsdirektoratet har behandleransvar for behandling av personinformasjon i standardisert oppholdskort og andre kort som dokumenterer andre typer tillatelser eller rettigheter enn oppholdstillatelse, for eksempel grenseboerbevis utstedt til beboere i det russiske grenseområdet.
+Utlendingsdirektoratet har behandleransvar for behandling av biometriske opplysninger i standardisert oppholdskort og andre kort som dokumenterer andre typer tillatelser eller rettigheter enn oppholdstillatelse, for eksempel grenseboerbevis utstedt til beboere i det russiske grenseområdet.
 
 Opptak av biometri til bruk i grenseboerbevis kan skje i forbindelse med at det fremmes søknad om grenseboerbevis.
 
-Utlendingsdirektoratet kan gi nærmere retningslinjer om innhenting og lagring av personinformasjon i standardisert oppholdskort og andre kort som nevnt i første ledd.
+Utlendingsdirektoratet kan gi nærmere retningslinjer om innhenting og lagring av biometriske opplysninger i standardisert oppholdskort og andre kort som nevnt i første ledd.
 
-> Tilføyd ved [forskrift 11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 20 mai 2012), endret ved [forskrift 29 mai 2012 nr. 467](forskrift/2012-05-29-467).
+> Tilføyd ved forskrift [11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 20 mai 2012), endret ved forskrifter [29 mai 2012 nr. 467](forskrift/2012-05-29-467), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
-### Lovens § 101. Behandling av fingeravtrykk. Europaparlaments- og rådsforordning (EU) nr. 603/2013 (Eurodac-forordningen)
+### Lovens § 101. Europaparlaments- og rådsforordning [(EU) 2024/1358](eu/32024r1358) (Eurodac-forordningen 2024)
 
-> Endret ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015).
+> Endret ved forskrifter [30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 18-5. Behandlingsansvarlig mv.
 
-Utlendingsdirektoratet er behandlingsansvarlig i Norge for behandlingen av personopplysninger i Eurodac. Kripos er databehandler. Kripos er likevel behandlingsansvarlig for behandlingen av personopplysninger som skal brukes for å forebygge, oppdage og etterforske i samsvar med [Eurodac-forordningen](traktat/2013-06-26-20) artikkel 1 nr. 2. Behandling av personopplysningene skal reguleres i en skriftlig databehandleravtale, jf. [personvernforordningen artikkel 28](lov/2018-06-15-38/gdpr/a28) nr. 3.
+Utlendingsdirektoratet, Utlendingsnemnda og politiet er hver for seg behandlingsansvarlig for behandling av personopplysninger i Eurodac for egne formål.
 
-> Endret ved forskrifter [30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015), [3 juni 2022 nr. 970](forskrift/2022-06-03-970) (i kraft 1 juli 2022).
+Utlendingsdirektoratet er behandlingsansvarlig for den nasjonale Eurodac-løsningen.
 
-### § 18-6. (Opphevet)
+> Endret ved forskrifter [30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015), [3 juni 2022 nr. 970](forskrift/2022-06-03-970) (i kraft 1 juli 2022), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
-> Opphevet ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015).
+### § 18-6. Kontrollmyndighet ved søk i Eurodac for rettshåndhevelsesformål
 
-### § 18-7. (Opphevet)
+Den kontrollerende myndighet etter Eurodac-forordningen artikkel 6 nr. 1 ligger til Kripos.
 
-> Opphevet ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015).
+> Opphevet ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015), tilføyd ved forskrift [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
+
+### § 18-7. Den registrertes klageadgang etter Eurodac-forordningen
+
+Den registrerte kan påklage avgjørelse om innsyn, retting, sletting eller erstatning. Klage fremsettes for den behandlingsansvarlige, jf. [§ 18-5](forskrift/2009-10-15-1286/§18-5), som forbereder og oversender klagen til departementet for avgjørelse.
+
+> Opphevet ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015), tilføyd ved forskrift [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 18-8. (Opphevet)
 
@@ -3131,9 +3143,9 @@ Utlendingsdirektoratet er behandlingsansvarlig i Norge for behandlingen av perso
 
 > Opphevet ved [forskrift 30 juni 2015 nr. 813](forskrift/2015-06-30-813) (i kraft 20 juli 2015).
 
-### § 18-11. Klageadgang
+### § 18-11. (Opphevet)
 
-Den registrerte kan påklage avgjørelse om innsyn, retting, sletting eller erstatning. Klage fremsettes for Utlendingsdirektoratet, som oversender klagen til departementet for avgjørelse.
+> Opphevet ved forskrift [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### Lovens § 105. Meldeplikt og bestemt oppholdssted
 
@@ -3419,13 +3431,13 @@ Avgjørelse om ikke å utstede oppholdskort regnes som enkeltvedtak.
 
 Utlendingsdirektoratet kan gi retningslinjer om hvordan og når fornyelse av kortet skal skje.
 
-Oppholdskort med biometrisk personinformasjon, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt og er gyldig i fem år eller kortere når EØS-borgerens oppholdsperiode er kortere. Oppholdskortets gyldighet blir ikke påvirket av kortvarige opphold utenfor riket på inntil seks måneder i året, eller av fravær utenfor riket som skyldes forhold som nevnt i [§ 19-17](forskrift/2009-10-15-1286/§19-17) annet ledd. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
+Oppholdskort med biometriske opplysninger, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt og er gyldig i fem år eller kortere når EØS-borgerens oppholdsperiode er kortere. Oppholdskortets gyldighet blir ikke påvirket av kortvarige opphold utenfor riket på inntil seks måneder i året, eller av fravær utenfor riket som skyldes forhold som nevnt i [§ 19-17](forskrift/2009-10-15-1286/§19-17) annet ledd. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
 
 Familiemedlemmer skal søke oppholdskort straks referansepersonens arbeidsforhold er påbegynt, jf. [§ 19-22](forskrift/2009-10-15-1286/§19-22) femte ledd.
 
 Bestemmelsene i [§ 19-22](forskrift/2009-10-15-1286/§19-22) sjette ledd gjelder tilsvarende.
 
-> Endret ved [forskrifter 19 mai 2011 nr. 583](forskrift/2011-05-19-583), [15 mai 2012 nr. 432](forskrift/2012-05-15-432) (i kraft 20 mai 2012), [11 juli 2012 nr. 742](forskrift/2012-07-11-742) (i kraft 1 aug 2012), [20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [30 april 2018 nr. 667](forskrift/2018-04-30-667), [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
+> Endret ved [forskrifter 19 mai 2011 nr. 583](forskrift/2011-05-19-583), [15 mai 2012 nr. 432](forskrift/2012-05-15-432) (i kraft 20 mai 2012), [11 juli 2012 nr. 742](forskrift/2012-07-11-742) (i kraft 1 aug 2012), [20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [30 april 2018 nr. 667](forskrift/2018-04-30-667), [2 juni 2025 nr. 907](forskrift/2025-06-02-907), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 19-24. Oppholdskort for tjenesteytere og etablerere som ikke er EØS-borgere
 
@@ -3435,13 +3447,13 @@ Når det ikke er tvil om at vilkårene er oppfylt, kan politiet innvilge søknad
 
 Avgjørelse om ikke å utstede oppholdskort regnes som enkeltvedtak.
 
-Oppholdskort med biometrisk personinformasjon, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt og er gyldig i den tiden tjenesteytingen eller etableringen etter [§ 19-16](forskrift/2009-10-15-1286/§19-16) første ledd er dokumentert å ville vare, inntil ett år av gangen. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
+Oppholdskort med biometriske opplysninger, jf. lovens § 64a, § 100a og § 100b skal som hovedregel utstedes vederlagsfritt og er gyldig i den tiden tjenesteytingen eller etableringen etter [§ 19-16](forskrift/2009-10-15-1286/§19-16) første ledd er dokumentert å ville vare, inntil ett år av gangen. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
 
 Utlendingsdirektoratet kan gi nærmere retningslinjer om hvordan og når fornyelse av kortet skal skje.
 
 Bestemmelsene i [§ 19-22](forskrift/2009-10-15-1286/§19-22) sjette ledd gjelder tilsvarende.
 
-> Endret ved [forskrifter 19 mai 2011 nr. 583](forskrift/2011-05-19-583), [20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [30 april 2018 nr. 667](forskrift/2018-04-30-667), [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
+> Endret ved forskrifter [19 mai 2011 nr. 583](forskrift/2011-05-19-583), [20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [30 april 2018 nr. 667](forskrift/2018-04-30-667), [2 juni 2025 nr. 907](forskrift/2025-06-02-907), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### Lovens § 119. Oppholdsbevis og oppholdskort for utlendinger med varig oppholdsrett etter lovens § 115 og § 116
 
@@ -3461,11 +3473,11 @@ Utlendingsdirektoratet kan gi nærmere retningslinjer, herunder om krav til doku
 
 Søknad om varig oppholdskort etter lovens § 119 fremmes for politiet i det distriktet søkeren har sitt faste opphold eller ved et Servicesenter for utenlandske arbeidstakere. Søknaden fremmes i henhold til retningslinjer gitt av Utlendingsdirektoratet.
 
-Søknad om varig oppholdskort fremmes innen utløpet av oppholdskortets varighet. Varig oppholdskort med biometrisk personinformasjon, jf. lovens [§ 64a](lov/2008-05-15-35/§64a), [§ 100a](lov/2008-05-15-35/§100a) og [§ 100b](lov/2008-05-15-35/§100b) skal som hovedregel utstedes vederlagsfritt innen seks måneder etter at fullstendig søknad er levert. Varig oppholdskort er gyldig for 10 år. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
+Søknad om varig oppholdskort fremmes innen utløpet av oppholdskortets varighet. Varig oppholdskort med biometriske opplysninger, jf. lovens [§ 64a](lov/2008-05-15-35/§64a), [§ 100a](lov/2008-05-15-35/§100a) og [§ 100b](lov/2008-05-15-35/§100b) skal som hovedregel utstedes vederlagsfritt innen seks måneder etter at fullstendig søknad er levert. Varig oppholdskort er gyldig for 10 år. Forskriftens [§ 12-16](forskrift/2009-10-15-1286/§12-16) om plikt til å legge frem oppholdskort, [§ 12-17](forskrift/2009-10-15-1286/§12-17) om plikt til å ta vare på oppholdskort, melding ved tap av kort mv., [§ 12-18](forskrift/2009-10-15-1286/§12-18) om plikt til å skaffe nytt oppholdskort og [§ 17-11a](forskrift/2009-10-15-1286/§17-11a) om gebyr gjelder tilsvarende.
 
 Fornyelse av varig oppholdskort skjer uten søknad.
 
-> Endret ved [forskrifter 20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [2 juni 2025 nr. 907](forskrift/2025-06-02-907).
+> Endret ved forskrifter [20 mars 2014 nr. 327](forskrift/2014-03-20-327) (i kraft 31 mars 2014), [2 juni 2025 nr. 907](forskrift/2025-06-02-907), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ### Lovens § 120, § 121 og § 122. Krav til vandel mv. Tilbakekall av oppholdsdokumenter
 
@@ -3587,9 +3599,9 @@ Ved utvisning av utlending som nevnt i første eller annet ledd på grunn av ila
 
 ### § 19-37. Bestemmelser i utlendingsloven og utlendingsforskriften
 
-Bestemmelser i [utlendingsloven](lov/2008-05-15-35) eller i forskrift til loven som regulerer forhold for personer som er omfattet av lovens kapittel 13, gjelder tilsvarende for utlendinger som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), [§ 19-34](forskrift/2009-10-15-1286/§19-34) og [§ 19-35](forskrift/2009-10-15-1286/§19-35), med mindre annet er særskilt bestemt. Bestemmelsene i lovens kapittel 7 gjelder likevel, med mindre annet er særskilt bestemt. Utlendingsdirektoratet kan gi nærmere retningslinjer om behandling av saker etter [§ 19-33](forskrift/2009-10-15-1286/§19-33) til [§ 19-35](forskrift/2009-10-15-1286/§19-35), herunder om meldeplikt og registrering for arbeidssøkere. Utlendingsdirektoratet kan gi retningslinjer om unntak fra kravet om opptak av biometrisk personinformasjon ved søknad om oppholdstillatelse, jf. [§ 18-1](forskrift/2009-10-15-1286/§18-1) første ledd bokstav b, for utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), [§ 19-34](forskrift/2009-10-15-1286/§19-34) og [§ 19-35](forskrift/2009-10-15-1286/§19-35).
+Bestemmelser i [utlendingsloven](lov/2008-05-15-35) eller i forskrift til loven som regulerer forhold for personer som er omfattet av lovens kapittel 13, gjelder tilsvarende for utlendinger som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), [§ 19-34](forskrift/2009-10-15-1286/§19-34) og [§ 19-35](forskrift/2009-10-15-1286/§19-35), med mindre annet er særskilt bestemt. Bestemmelsene i lovens kapittel 7 gjelder likevel, med mindre annet er særskilt bestemt. Utlendingsdirektoratet kan gi nærmere retningslinjer om behandling av saker etter [§ 19-33](forskrift/2009-10-15-1286/§19-33) til [§ 19-35](forskrift/2009-10-15-1286/§19-35), herunder om meldeplikt og registrering for arbeidssøkere. Utlendingsdirektoratet kan gi retningslinjer om unntak fra kravet om opptak av biometriske opplysninger ved søknad om oppholdstillatelse, jf. [§ 18-1](forskrift/2009-10-15-1286/§18-1) første ledd bokstav b, for utlending som nevnt i [§ 19-33](forskrift/2009-10-15-1286/§19-33), [§ 19-34](forskrift/2009-10-15-1286/§19-34) og [§ 19-35](forskrift/2009-10-15-1286/§19-35).
 
-> Tilføyd ved forskrift [9 des 2020 nr. 2665](forskrift/2020-12-09-2665) (i kraft 1 jan 2021), endret ved forskrift [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021).
+> Tilføyd ved forskrift [9 des 2020 nr. 2665](forskrift/2020-12-09-2665) (i kraft 1 jan 2021), endret ved forskrifter [11 mars 2021 nr. 736](forskrift/2021-03-11-736) (i kraft 15 april 2021), [12 juni 2026 nr. 1060](forskrift/2026-06-12-1060) (i kraft 12 juni 2026 kl. 15.00).
 
 ## Kapittel 19A. Særskilte regler for saker som berører grunnleggende nasjonale interesser eller utenrikspolitiske hensyn
 
