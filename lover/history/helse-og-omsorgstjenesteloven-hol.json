@@ -2,6 +2,16 @@
   "doc_id": "nl-20110624-030",
   "events": [
     {
+      "commit": "be90385",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): helse-og-omsorgstjenesteloven-hol",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "06e361b",
       "date": "2026-06-13",
       "from_path": null,

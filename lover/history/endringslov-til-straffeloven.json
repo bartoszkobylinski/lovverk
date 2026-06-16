@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-028",
   "events": [
     {
+      "commit": "9059bde",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): endringslov-til-straffeloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f3f1814",
       "date": "2026-06-13",
       "from_path": null,

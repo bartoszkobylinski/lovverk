@@ -1,6 +1,21 @@
 # endr-i-pasientreiseforskriften — Change history
 
-_2 events; doc_id `sf-20251215-2590`._
+_5 events; doc_id `sf-20260609-1053`._
+
+## 2026-06-16 — Added to corpus
+Lines: +31 -0.
+Subject: `add(forskrift): endr-i-pasientreiseforskriften`
+Commit: `d5d4763`.
+
+## 2026-05-04 — Content updated
+Lines: +0 -41.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251215-2590.md` → `forskrifter/endr-i-pasientreiseforskriften.md`.

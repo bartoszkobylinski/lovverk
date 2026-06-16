@@ -1,6 +1,11 @@
 # endringslov-til-straffeloven — Change history
 
-_5 events; doc_id `nl-20260612-028`._
+_6 events; doc_id `nl-20260612-028`._
+
+## 2026-06-16 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): endringslov-til-straffeloven`
+Commit: `9059bde`.
 
 ## 2026-06-13 — Added to corpus
 Lines: +55 -0.

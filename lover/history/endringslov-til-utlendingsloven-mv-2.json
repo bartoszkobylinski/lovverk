@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-032",
   "events": [
     {
+      "commit": "80012c1",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): endringslov-til-utlendingsloven-mv-2",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e129add",
       "date": "2026-06-13",
       "from_path": null,

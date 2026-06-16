@@ -1,6 +1,11 @@
 # yrkestransportlova — Change history
 
-_4 events; doc_id `nl-20020621-045`._
+_5 events; doc_id `nl-20020621-045`._
+
+## 2026-06-16 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): yrkestransportlova`
+Commit: `fb290f0`.
 
 ## 2026-06-13 — Content updated
 Lines: +3 -3.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260612-1055",
+  "events": [
+    {
+      "commit": "f63bc2d",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 44,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-økt-tollavgift-på-landbruksvarer-og-kunstgjødsel-fra-russland-og-belarus",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-økt-tollavgift-på-landbruksvarer-og-kunstgjødsel-fra-russland-og-belarus"
+}

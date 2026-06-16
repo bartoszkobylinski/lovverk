@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-025",
   "events": [
     {
+      "commit": "826a844",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4ad34f5",
       "date": "2026-06-13",
       "from_path": null,

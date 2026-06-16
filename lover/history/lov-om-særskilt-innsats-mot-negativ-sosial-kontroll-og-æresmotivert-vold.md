@@ -1,6 +1,11 @@
 # lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold — Change history
 
-_1 events; doc_id `nl-20260612-025`._
+_2 events; doc_id `nl-20260612-025`._
+
+## 2026-06-16 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold`
+Commit: `826a844`.
 
 ## 2026-06-13 — Added to corpus
 Lines: +65 -0.

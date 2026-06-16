@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-024",
   "events": [
     {
+      "commit": "fa164a8",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-folketrygdloven-mv-2",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8a7104e",
       "date": "2026-06-13",
       "from_path": null,

@@ -2,6 +2,16 @@
   "doc_id": "nl-19990326-017",
   "events": [
     {
+      "commit": "7d512ef",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): husleieloven-husll",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8d636ea",
       "date": "2026-06-13",
       "from_path": null,

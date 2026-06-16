@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-022",
   "events": [
     {
+      "commit": "8a82648",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5ee01b1",
       "date": "2026-06-13",
       "from_path": null,

@@ -1,6 +1,11 @@
 # sykepleierpensjonsloven — Change history
 
-_4 events; doc_id `nl-19620622-012`._
+_5 events; doc_id `nl-19620622-012`._
+
+## 2026-06-16 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): sykepleierpensjonsloven`
+Commit: `5fddb1c`.
 
 ## 2026-06-13 — Content updated
 Lines: +5 -5.

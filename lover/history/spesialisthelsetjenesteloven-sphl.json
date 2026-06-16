@@ -2,6 +2,16 @@
   "doc_id": "nl-19990702-061",
   "events": [
     {
+      "commit": "80f472b",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): spesialisthelsetjenesteloven-sphl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "806a99d",
       "date": "2026-06-13",
       "from_path": null,

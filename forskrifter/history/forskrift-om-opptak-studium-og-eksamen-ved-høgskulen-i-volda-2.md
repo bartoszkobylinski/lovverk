@@ -1,11 +1,11 @@
-# forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda — Change history
+# forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2 — Change history
 
-_4 events; doc_id `sf-20250703-1481`._
+_4 events; doc_id `sf-20260610-1052`._
 
-## 2026-06-16 — Content updated
-Lines: +2 -2.
-Subject: `update(forskrift): forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda`
-Commit: `723d989`.
+## 2026-06-16 — Added to corpus
+Lines: +119 -118.
+Subject: `add(forskrift): forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2`
+Commit: `a243e41`.
 
 ## 2026-04-29 — Filename renamed
 Lines: +2 -1.

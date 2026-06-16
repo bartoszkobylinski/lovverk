@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3422 current documents_
+_3428 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -138,6 +138,7 @@ _3422 current documents_
 - [endr-i-opplæringsforskrifta](endr-i-opplæringsforskrifta.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa
 - [endr-i-opplæringsforskrifta-2](endr-i-opplæringsforskrifta-2.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa
 - [endr-i-opplæringsforskrifta-og-privatskoleforskrifta](endr-i-opplæringsforskrifta-og-privatskoleforskrifta.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta) og forskrift til privatskolelova (privatskoleforskrifta)
+- [endr-i-pasientreiseforskriften](endr-i-pasientreiseforskriften.md) — Forskrift om endring i forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)
 - [endr-i-personopplysningsforskriften](endr-i-personopplysningsforskriften.md) — Forskrift om endringer i personopplysningsforskriften
 - [endr-i-produktforskriften](endr-i-produktforskriften.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (forbud mot visse kvikksølvtilsatte produkter)
 - [endr-i-produktforskriften-2](endr-i-produktforskriften-2.md) — Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)
@@ -694,6 +695,7 @@ _3422 current documents_
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
+- [forskrift-om-endring-i-forskrift-om-internasjonalt-samarbeid-i-straffesaker](forskrift-om-endring-i-forskrift-om-internasjonalt-samarbeid-i-straffesaker.md) — Forskrift om endring i forskrift om internasjonalt samarbeid i straffesaker
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
@@ -1788,6 +1790,7 @@ _3422 current documents_
 - [forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet](forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md) — Forskrift om opptak, studier og eksamen ved Universitetet i Innlandet
 - [forskrift-om-opptak-studier-og-vurdering-ved-forsvarets-høgskole](forskrift-om-opptak-studier-og-vurdering-ved-forsvarets-høgskole.md) — Forskrift om opptak, studier og vurdering ved Forsvarets høgskole
 - [forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda](forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda.md) — Forskrift om opptak, studium og eksamen ved Høgskulen i Volda
+- [forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2](forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2.md) — Forskrift om opptak, studium og eksamen ved Høgskulen i Volda
 - [forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland](forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland.md) — Forskrift om opptak, studium og eksamen ved Skrivekunstakademiet i Hordaland
 - [forskrift-om-opptak-til-bachelorutdanningen-ved-politihøgskolen](forskrift-om-opptak-til-bachelorutdanningen-ved-politihøgskolen.md) — Forskrift om opptak til bachelorutdanningen ved Politihøgskolen
 - [forskrift-om-opptak-til-høgare-utdanning](forskrift-om-opptak-til-høgare-utdanning.md) — Forskrift om opptak til høgare utdanning
@@ -2269,6 +2272,7 @@ _3422 current documents_
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok](forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok.md) — Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole, Karasjok
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2](forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole, Karasjok
 - [forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino](forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino.md) — Forskrift om skole- og feriedager (skoleruta) (2025–2026), Samisk videregående skole og reindriftsskole, Kautokeino
+- [forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2](forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2.md) — Forskrift om skole- og feriedager (skoleruta) (2026–2027), Samisk videregående skole og reindriftsskole, Kautokeino
 - [forskrift-om-skolepenger-i-utlandet](forskrift-om-skolepenger-i-utlandet.md) — Forskrift om tilskudd til dekning av skolepenger til elever ved utenlandske eller internasjonale videregående skoler.
 - [forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino](forskrift-om-skoleregler-for-samisk-videregående-skole-karasjok-og-samisk-videregående-skole-og-reindriftsskole-kautokeino.md) — Forskrift om skoleregler for Samisk videregående skole, Karasjok og Samisk videregående skole og reindriftsskole, Kautokeino
 - [forskrift-om-skredmjelt-som-prioritert-art](forskrift-om-skredmjelt-som-prioritert-art.md) — Forskrift om skredmjelt (Oxytropis campestris ssp. scotica) som prioritert art
@@ -2862,6 +2866,7 @@ _3422 current documents_
 - [forskrift-om-økonomiforvaltningen-i-sokn-i-den-norske-kirke](forskrift-om-økonomiforvaltningen-i-sokn-i-den-norske-kirke.md) — Forskrift om økonomiforvaltningen i sokn i Den norske kirke
 - [forskrift-om-økt-beregningsgrunnlag-for-uføretrygdede](forskrift-om-økt-beregningsgrunnlag-for-uføretrygdede.md) — Forskrift om økt beregningsgrunnlag for gifte og samboende uføretrygdede som mottar en uføretrygd omregnet fra uførepensjon
 - [forskrift-om-økt-tilleggspensjon-omsorgspoeng](forskrift-om-økt-tilleggspensjon-omsorgspoeng.md) — Forskrift om når økt tilleggspensjon på grunn av omsorgspoeng etter folketrygdloven § 3-16 og pensjonspoeng for årene da pensjonisten fylte 67–75 år, skal holdes utenfor samordningen
+- [forskrift-om-økt-tollavgift-på-landbruksvarer-og-kunstgjødsel-fra-russland-og-belarus](forskrift-om-økt-tollavgift-på-landbruksvarer-og-kunstgjødsel-fra-russland-og-belarus.md) — Forskrift om økt tollavgift på landbruksvarer og kunstgjødsel fra Russland og Belarus
 - [forskrift-om-øvre-rammer-for-overtredelsesgebyr-etter-naturmangfoldloven-74](forskrift-om-øvre-rammer-for-overtredelsesgebyr-etter-naturmangfoldloven-74.md) — Forskrift om øvre rammer for overtredelsesgebyr etter naturmangfoldloven § 74
 - [forskrift-om-øyeblikkelig-hjelp-døgntilbud](forskrift-om-øyeblikkelig-hjelp-døgntilbud.md) — Forskrift om kommunenes plikt til å sørge for øyeblikkelig hjelp døgntilbud
 - [forskrift-til-artistsskatteloven](forskrift-til-artistsskatteloven.md) — Forskrift til utfylling og gjennomføring av reglene i lov om skatt på honorar til utenlandske artister mv
@@ -3122,6 +3127,7 @@ _3422 current documents_
 - [overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven](overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven.md) — Overgangsregler til lov 10. april 2025 nr. 10 om endringer i eiendomsmeglingsloven (budgivning, egnethetskrav og sanksjoner mv.)
 - [overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv](overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv.md) — Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)
 - [overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv-2](overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv-2.md) — Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)
+- [overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii](overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii.md) — Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)
 - [overgangsregler-til-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte](overgangsregler-til-lov-17-juni-2022-nr-57-om-erstatning-fra-staten-til-voldsutsatte.md) — Overgangsregler til lov 17. juni 2022 nr. 57 om erstatning fra staten til voldsutsatte (voldserstatningsloven)
 - [overgangsregler-til-lov-18-desember-2020-nr-146-om-finansavtaler](overgangsregler-til-lov-18-desember-2020-nr-146-om-finansavtaler.md) — Overgangsregler til lov 18. desember 2020 nr. 146 om finansavtaler
 - [overgangsregler-til-lov-18-februar-2022-nr-5-om-endringer-i-forsikringsavtaleloven-mv](overgangsregler-til-lov-18-februar-2022-nr-5-om-endringer-i-forsikringsavtaleloven-mv.md) — Overgangsregler til lov 18. februar 2022 nr. 5 om endringer i forsikringsavtaleloven mv. (forsikringsdistribusjon mv.)

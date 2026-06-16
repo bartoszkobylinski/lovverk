@@ -1,6 +1,11 @@
 # barnevernsloven-bvl — Change history
 
-_4 events; doc_id `nl-20210618-097`._
+_5 events; doc_id `nl-20210618-097`._
+
+## 2026-06-16 — Content updated
+Lines: +8 -8.
+Subject: `update(lov): barnevernsloven-bvl`
+Commit: `16e79ca`.
 
 ## 2026-06-13 — Content updated
 Lines: +8 -8.

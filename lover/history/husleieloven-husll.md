@@ -1,6 +1,11 @@
 # husleieloven-husll — Change history
 
-_4 events; doc_id `nl-19990326-017`._
+_5 events; doc_id `nl-19990326-017`._
+
+## 2026-06-16 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): husleieloven-husll`
+Commit: `7d512ef`.
 
 ## 2026-06-13 — Content updated
 Lines: +3 -3.

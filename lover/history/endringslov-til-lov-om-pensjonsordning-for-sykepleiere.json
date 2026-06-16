@@ -2,6 +2,16 @@
   "doc_id": "nl-20260612-026",
   "events": [
     {
+      "commit": "32121f9",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-lov-om-pensjonsordning-for-sykepleiere",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4830db8",
       "date": "2026-06-13",
       "from_path": null,

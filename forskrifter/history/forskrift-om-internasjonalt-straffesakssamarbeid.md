@@ -1,6 +1,16 @@
 # forskrift-om-internasjonalt-straffesakssamarbeid — Change history
 
-_2 events; doc_id `sf-20121214-1227`._
+_4 events; doc_id `sf-20121214-1227`._
+
+## 2026-06-16 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): forskrift-om-internasjonalt-straffesakssamarbeid`
+Commit: `7e7ab26`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20121214-1227.md` → `forskrifter/forskrift-om-internasjonalt-straffesakssamarbeid.md`.

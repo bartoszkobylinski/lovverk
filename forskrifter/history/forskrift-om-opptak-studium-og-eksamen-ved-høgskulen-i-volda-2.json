@@ -1,15 +1,15 @@
 {
-  "doc_id": "sf-20250703-1481",
+  "doc_id": "sf-20260610-1052",
   "events": [
     {
-      "commit": "723d989",
+      "commit": "a243e41",
       "date": "2026-06-16",
       "from_path": null,
-      "lines_added": 2,
-      "lines_removed": 2,
-      "subject": "update(forskrift): forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda",
+      "lines_added": 119,
+      "lines_removed": 118,
+      "subject": "add(forskrift): forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2",
       "to_path": null,
-      "type": "updated"
+      "type": "added"
     },
     {
       "commit": "3d499af",
@@ -43,5 +43,5 @@
     }
   ],
   "schema_version": 1,
-  "slug": "forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda"
+  "slug": "forskrift-om-opptak-studium-og-eksamen-ved-høgskulen-i-volda-2"
 }

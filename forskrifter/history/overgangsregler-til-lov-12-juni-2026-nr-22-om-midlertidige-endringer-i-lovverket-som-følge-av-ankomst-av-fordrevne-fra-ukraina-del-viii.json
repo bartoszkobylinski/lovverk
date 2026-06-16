@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260612-1077",
+  "events": [
+    {
+      "commit": "0601ba9",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 29,
+      "lines_removed": 0,
+      "subject": "add(forskrift): overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii"
+}

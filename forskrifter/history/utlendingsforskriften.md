@@ -1,6 +1,11 @@
 # utlendingsforskriften — Change history
 
-_6 events; doc_id `sf-20091015-1286`._
+_7 events; doc_id `sf-20091015-1286`._
+
+## 2026-06-16 — Content updated
+Lines: +50 -38.
+Subject: `update(forskrift): utlendingsforskriften`
+Commit: `fcfa228`.
 
 ## 2026-05-20 — Content updated
 Lines: +7 -7.

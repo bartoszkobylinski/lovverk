@@ -2,6 +2,16 @@
   "doc_id": "nl-20020621-045",
   "events": [
     {
+      "commit": "fb290f0",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): yrkestransportlova",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c356d3f",
       "date": "2026-06-13",
       "from_path": null,

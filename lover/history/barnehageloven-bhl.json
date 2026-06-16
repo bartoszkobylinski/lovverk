@@ -2,6 +2,16 @@
   "doc_id": "nl-20050617-064",
   "events": [
     {
+      "commit": "5f7d8ce",
+      "date": "2026-06-16",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): barnehageloven-bhl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "eeef6d3",
       "date": "2026-06-13",
       "from_path": null,
