@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2022-05-01"
-last_change_in_force: "2025-10-12"
+last_change_in_force: "2026-06-12"
 last_updated: null
-xml_hash: "185d72ec6588d83d352f4a0e8300dbabea864313eb98c09c6247726e0d919592"
+xml_hash: "2292e7f8d32966887cd7e79fcb4b90977f19144c9a2464b5d4dc8aab11e50896"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-16T09:23:10.172217+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,12 @@ For oppgaver ved den norsk-russiske grensen som nevnt i [§ 2-1](forskrift/2022-
 ### § 1-5. Bistand fra Tolletaten
 
 Når Tolletaten utfører tollkontroll på ytre Schengen-grense, kan etaten bistå i samsvar med [grenseloven § 7](lov/2018-04-20-8/§7). Det samme gjelder på indre Schengen-grense når grensekontroll er midlertidig gjeninnført etter [grenseloven § 14](lov/2018-04-20-8/§14).
+
+### § 1-6. Utlendingsdirektoratet som screeningmyndighet
+
+Utlendingsdirektoratet er screeningmyndighet etter forordning [(EU) 2024/1356](eu/32024r1356) med ansvar for å tilby innledende helsesjekk som nevnt i artikkel 12 til utlendinger som gjennomgår screening og som søker om beskyttelse, jf. [utlendingsloven kapittel 4](lov/2008-05-15-35/kap4).
+
+> Tilføyd ved forskrift [12 juni 2026 nr. 1061](forskrift/2026-06-12-1061) (i kraft 12 juni 2026 kl. 15.00).
 
 ## Kapittel 2. Særlige forhold ved den norsk-russiske grensen
 
@@ -212,11 +218,11 @@ Grensekontrollmyndigheten i det enkelte politidistrikt kan i enkelttilfeller bes
 
 ### § 5-1. Formål. Regler som gjelder for behandlingen av personopplysninger
 
-Formålet med grense- og territorialkontrollregisteret er åbidra til at grensekontroll og alminnelig utlendingskontroll utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring, forhindre overtredelse av bestemmelsene om utlendingers opphold i riket og bekjempe trusler mot folkehelsenbidra til effektiv oppgaveløsning ved grensekontroll og alminnelig utlendingskontrollsikre notoritet om vesentlige forhold ved grensekontroll.
+Formålet med grense- og territorialkontrollregisteret er åbidra til at grensekontroll, screening og alminnelig utlendingskontroll utøves i samsvar med nasjonale behov og internasjonale forpliktelser, herunder bidra til å opprettholde ro og orden, forebygge og bekjempe grensekryssende kriminalitet og ulovlig innvandring, forhindre overtredelse av bestemmelsene om utlendingers opphold i riket og bekjempe trusler mot folkehelsenbidra til effektiv oppgaveløsning ved grensekontroll, screening og alminnelig utlendingskontrollsikre notoritet om vesentlige forhold ved grensekontroll, screening og alminnelig utlendingskontroll.
 
 For behandling av personopplysninger gjelder reglene i [personopplysningsloven](lov/2018-06-15-38), med mindre noe annet følger av rettsaktene gjennomført i [grenseloven § 8](lov/2018-04-20-8/§8).
 
-> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755), endret ved forskrift [9 sep 2025 nr. 1810](forskrift/2025-09-09-1810) (i kraft 12 okt 2025).
+> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755), endret ved forskrifter [9 sep 2025 nr. 1810](forskrift/2025-09-09-1810) (i kraft 12 okt 2025), [12 juni 2026 nr. 1061](forskrift/2026-06-12-1061) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 5-2. Behandlingsansvar
 
@@ -226,11 +232,13 @@ Politidirektoratet er behandlingsansvarlig for grense- og territorialkontrollreg
 
 ### § 5-3. Opplysninger som kan registreres
 
-I grense- og territorialkontrollregisteret kan det registreres opplysninger som er nødvendige til formål som nevnt i [§ 5-1](forskrift/2022-04-29-665/§5-1), herundernavn, fødselsdato, fødested, personnummer, D-nummer, kjønn, statsborgerskap, adresse, aliasnavn, kontaktinformasjonoptiske og elektroniske kopier av opplysninger fra reise- og ID-dokumenter, med unntak av fingeravtrykkvisumopplysninger, herunder visumnummer og tillatelseroppholdsstatus, herunder type tillatelse og gyldighetstid, kortnummer, DUF-nummerinn- og utreiseinformasjon, herunder reiserute, delegasjonsnummer, oppholdssted i Schengen, politidistrikt ved oppholdssted, reisens formål og planlagt hjemreisedatotransportmiddel, kjøretøygruppe, registreringsnummer, merke, type og fargetransportselskapnavn, firma, adresse og telefonnummer for garantist eller referanseopplysninger om registreringen, herunder hvem som har registrert opplysningene og i hvilket politidistrikt, grensepasseringstidspunktopplysninger om kontrollen, kontrolltype, kontrolltidspunkt og kontrollstedopplysninger som antas relevante for gjennomføring av inn- og utreisekontroll, herunder om godtgjøring av midler til oppholdet, gjenstander, pengesedler, yrke, arbeidsgiveropplysninger som antas å være relevante for gjennomføring av alminnelig utlendingskontrolltiltaksbeskrivelse.
+I grense- og territorialkontrollregisteret kan det registreres opplysninger som er nødvendige til formål som nevnt i [§ 5-1](forskrift/2022-04-29-665/§5-1), herundernavn, fødselsdato, fødested, personnummer, D-nummer, kjønn, statsborgerskap, adresse, aliasnavn, kontaktinformasjonoptiske og elektroniske kopier av opplysninger fra reise- og ID-dokumenter, med unntak av fingeravtrykkvisumopplysninger, herunder visumnummer og tillatelseroppholdsstatus, herunder type tillatelse og gyldighetstid, kortnummer, DUF-nummerinn- og utreiseinformasjon, herunder reiserute, delegasjonsnummer, oppholdssted i Schengen, politidistrikt ved oppholdssted, reisens formål og planlagt hjemreisedatotransportmiddel, kjøretøygruppe, registreringsnummer, merke, type og fargetransportselskapnavn, firma, adresse og telefonnummer for garantist eller referanseopplysninger om registreringen, herunder hvem som har registrert opplysningene og i hvilket politidistrikt, grensepasseringstidspunktopplysninger om kontrollen, kontrolltype, kontrolltidspunkt og kontrollstedopplysninger som antas relevante for gjennomføring av inn- og utreisekontroll, herunder om godtgjøring av midler til oppholdet, gjenstander, pengesedler, yrke, arbeidsgiveropplysninger som antas å være relevante for gjennomføring av alminnelig utlendingskontrolltiltaksbeskrivelseopplysninger som innhentes for gjennomføring av oppgaver etter forordning [(EU) 2024/1356](eu/32024r1356), herunder biometriske opplysninger, helseopplysninger og opplysninger fra gjennomført sikkerhets- og sårbarhetssjekk om personer som gjennomgår screening.
 
 Det kan registreres biometriske opplysninger fra det sentrale inn- og utreisesystemet (EES) til de formål som nevnt i EES-forordningen artikkel 26 og 27 på vilkår som nevnt i artikkel 28.
 
-> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755).
+Opplysninger som nevnt i første ledd nr. 14 skal tilintetgjøres når screeningen er avsluttet, med mindre opplysningene inngår i opplysningskategoriene i første ledd nr. 1 til 12.
+
+> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755), endret ved forskrift [12 juni 2026 nr. 1061](forskrift/2026-06-12-1061) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 5-4. Tilgang (adgang til direkte søk)
 
@@ -244,9 +252,9 @@ Tilgang kan også gis til ansatte med ansvar for drift, utvikling og administras
 
 ### § 5-5. Utlevering
 
-Opplysninger fra registeret kan utleveres dersom det er adgang til det etter reglene om taushetsplikt i [politiloven § 24](lov/1995-08-04-53/§24), jf. [forvaltningsloven § 13](lov/1967-02-10/§13) til [§ 13g](lov/1967-02-10/§13g). Utlevering etter [politiloven § 24 fjerde ledd](lov/1995-08-04-53/§24/ledd/4) kan, etter beslutning fra behandlingsansvarlig, skje i form av adgang til direkte søk.
+Opplysninger fra registeret kan utleveres dersom det er adgang til det etter reglene om taushetsplikt i [politiloven § 24](lov/1995-08-04-53/§24), jf. [forvaltningsloven § 13](lov/1967-02-10/§13) til [§ 13g](lov/1967-02-10/§13g). Utlevering etter [politiloven § 24 fjerde ledd](lov/1995-08-04-53/§24/ledd/4) kan, etter beslutning fra behandlingsansvarlig, skje i form av adgang til direkte søk. For utlevering av biometriske opplysninger gjelder [utlendingsloven § 100 annet ledd](lov/2008-05-15-35/§100/ledd/2) tilsvarende.
 
-> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755).
+> Tilføyd ved forskrift [1 nov 2023 nr. 1755](forskrift/2023-11-01-1755), endret ved forskrift [12 juni 2026 nr. 1061](forskrift/2026-06-12-1061) (i kraft 12 juni 2026 kl. 15.00).
 
 ### § 5-6. Innsyn, retting, sletting og begrensing av behandling
 
