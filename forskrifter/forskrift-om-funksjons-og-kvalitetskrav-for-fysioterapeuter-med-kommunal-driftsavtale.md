@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: null
-xml_hash: "97ab9571a18c6bfc277d0d5778d8b83287ede5a25906b3d6e3bb8fd14ba127db"
+xml_hash: "fa711567d32ee7ab1ff50aab30c8e14f3169e4b0b19b66a03ebe2999bf056a65"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -101,6 +101,8 @@ Fysioterapeutens elektroniske pasientjournalsystem skal oppfylle krav til journa
 Med mindre det er åpenbart unødvendig skal fysioterapeuten, etter samtykke fra pasienten, oversende epikrise, jf. [helsepersonelloven § 45a](lov/1999-07-02-64/§45a) tredje ledd, til fastlege og eventuelt annen henvisende instans etter avsluttet behandling.
 
 Med mindre pasienten motsetter seg det skal fysioterapeuten sende epikrise til fastlegen når det er nødvendig for å kunne gi pasienten forsvarlig oppfølging.
+
+> **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ### § 11. Forløpsperspektiv og brukerinvolvering
 
