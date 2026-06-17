@@ -1,6 +1,16 @@
 # overgangsregler-om-integreringsloven-kapittel-6a — Change history
 
-_2 events; doc_id `sf-20220610-0995`._
+_4 events; doc_id `sf-20220610-0995`._
+
+## 2026-06-17 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): overgangsregler-om-integreringsloven-kapittel-6a`
+Commit: `788355b`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220610-0995.md` → `forskrifter/overgangsregler-om-integreringsloven-kapittel-6a.md`.

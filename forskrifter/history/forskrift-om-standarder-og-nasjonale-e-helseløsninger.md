@@ -1,6 +1,16 @@
 # forskrift-om-standarder-og-nasjonale-e-helseløsninger — Change history
 
-_2 events; doc_id `sf-20150701-0853`._
+_4 events; doc_id `sf-20150701-0853`._
+
+## 2026-06-17 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-standarder-og-nasjonale-e-helseløsninger`
+Commit: `060be48`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20150701-0853.md` → `"forskrifter/forskrift-om-standarder-og-nasjonale-e-helsel\303\270sninger.md"`.

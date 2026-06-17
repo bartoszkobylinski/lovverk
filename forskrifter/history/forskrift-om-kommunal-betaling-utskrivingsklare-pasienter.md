@@ -1,6 +1,16 @@
 # forskrift-om-kommunal-betaling-utskrivingsklare-pasienter — Change history
 
-_2 events; doc_id `sf-20111118-1115`._
+_4 events; doc_id `sf-20111118-1115`._
+
+## 2026-06-17 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-kommunal-betaling-utskrivingsklare-pasienter`
+Commit: `08d544f`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20111118-1115.md` → `forskrifter/forskrift-om-kommunal-betaling-utskrivingsklare-pasienter.md`.

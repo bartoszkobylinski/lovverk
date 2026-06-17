@@ -29950,15 +29950,15 @@
     "sf-20111118-1115": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-kommunal-betaling-utskrivingsklare-pasienter.md",
       "slug": "forskrift-om-kommunal-betaling-utskrivingsklare-pasienter",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kommunal betaling for utskrivingsklare pasienter",
-      "total_changes": null,
-      "xml_hash": "4c710c62b200ee410e229c784837cb10ed1675d7ec3c11bfffbf3be4b652d33b"
+      "total_changes": 4,
+      "xml_hash": "6986ccca8141e3b6e284b7179b6a989e2ba43f5755df9798d8b7d98fc700ad59"
     },
     "sf-20111124-1134": {
       "doc_type": "forskrift",
@@ -34279,15 +34279,15 @@
     "sf-20150622-0747": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-helselovgivning-for-svalbard-og-jan-mayen.md",
       "slug": "forskrift-om-helselovgivning-for-svalbard-og-jan-mayen",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen",
-      "total_changes": null,
-      "xml_hash": "3f9a70ee83f257c66bc0edd0d39cc00304c7369db74245aaa96f9a725504361e"
+      "total_changes": 4,
+      "xml_hash": "9543c38329fcebe0752c12a27658cf94ea8d071f07f2473b1c3f819db89712f6"
     },
     "sf-20150622-0752": {
       "doc_type": "forskrift",
@@ -34409,15 +34409,15 @@
     "sf-20150701-0853": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-standarder-og-nasjonale-e-helseløsninger.md",
       "slug": "forskrift-om-standarder-og-nasjonale-e-helseløsninger",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om standarder og nasjonale e-helseløsninger",
-      "total_changes": null,
-      "xml_hash": "0ac05f9ee2ac7ff0b8ee94ecedfa128308c118ddc9f848234d8879f80feb7b9c"
+      "total_changes": 4,
+      "xml_hash": "23b059993f63bc4be3cb2151283d09dd9815e7a5e8dad660b4c2ce2e5e1f443a"
     },
     "sf-20150702-0867": {
       "doc_type": "forskrift",
@@ -37399,15 +37399,15 @@
     "sf-20170901-1334": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-funksjons-og-kvalitetskrav-for-fysioterapeuter-med-kommunal-driftsavtale.md",
       "slug": "forskrift-om-funksjons-og-kvalitetskrav-for-fysioterapeuter-med-kommunal-driftsavtale",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om funksjons- og kvalitetskrav for fysioterapeuter med kommunal driftsavtale",
-      "total_changes": null,
-      "xml_hash": "97ab9571a18c6bfc277d0d5778d8b83287ede5a25906b3d6e3bb8fd14ba127db"
+      "total_changes": 4,
+      "xml_hash": "fa711567d32ee7ab1ff50aab30c8e14f3169e4b0b19b66a03ebe2999bf056a65"
     },
     "sf-20170901-1416": {
       "doc_type": "forskrift",
@@ -45173,15 +45173,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 9,
-      "xml_hash": "b26ff06e2361972b315acb5dbd93d9ab5650413f25fad2ec024dc6ca9025d04f"
+      "total_changes": 10,
+      "xml_hash": "ff715865b77d48024d77eaf774cf71c80fd9ef82432c15c823e1a6ef8e3f96d8"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -45498,15 +45498,15 @@
     "sf-20220610-0995": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/overgangsregler-om-integreringsloven-kapittel-6a.md",
       "slug": "overgangsregler-om-integreringsloven-kapittel-6a",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Overgangsregler om integreringsloven kapittel 6A",
-      "total_changes": null,
-      "xml_hash": "ea4d4449c11d95f02c1a27e385108989f050be1086a0bd64eed1e4f86756e770"
+      "total_changes": 4,
+      "xml_hash": "5586fdaacb5ed661246b2081a86753cf2595a0440020b6a385426a820a31aadd"
     },
     "sf-20220611-1171": {
       "doc_type": "forskrift",
@@ -46798,15 +46798,15 @@
     "sf-20230111-0048": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata.md",
       "slug": "forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata",
-      "total_changes": null,
-      "xml_hash": "7b4e9fef88d3d90efcc81f9d55ce3624b3b57c09477a801bb32c8e3ca63029d3"
+      "total_changes": 4,
+      "xml_hash": "d0b4d268630b67c9514fbb016efd080e99407981758bfaafa3d1c981785c0e00"
     },
     "sf-20230127-0105": {
       "doc_type": "forskrift",
@@ -52583,15 +52583,15 @@
     "sf-20251202-2405": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/fastlegeforskriften.md",
       "slug": "fastlegeforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fastlegeordning i kommunene (fastlegeforskriften)",
-      "total_changes": null,
-      "xml_hash": "23433d82434a3fe48778da40d8a0db83d7a2f38a3ac54303fab3aeedd86220cc"
+      "total_changes": 4,
+      "xml_hash": "56e90aaef9cdcf44a12d5821345dcd97f628555def2c360e21d9c003aee047b6"
     },
     "sf-20251205-2419": {
       "doc_type": "forskrift",
@@ -53441,15 +53441,15 @@
     "sf-20251229-2899": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fiske-i-grønlands-økonomiske-sone-i-2026.md",
       "slug": "forskrift-om-regulering-av-fiske-i-grønlands-økonomiske-sone-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fiske i Grønlands økonomiske sone i 2026",
-      "total_changes": null,
-      "xml_hash": "a68d08f1b36a0c7f387d18134c19ebf2228b024a4955e14eecaf04ec71c9f193"
+      "total_changes": 4,
+      "xml_hash": "466cf815101278ef5b44947ed7bf95dc2b8ef15db51804349e87cb5371350d1e"
     },
     "sf-20260105-0004": {
       "doc_type": "forskrift",
@@ -54750,8 +54750,21 @@
       "title": "Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)",
       "total_changes": 1,
       "xml_hash": "eb29e6e71cc35b61799c17fc3739cddc7edc7a707bb56e4b6dbfff4d040d524e"
+    },
+    "sf-20260615-1084": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-17",
+      "last_seen": "2026-06-17T09:00:33.393426Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og.md",
+      "slug": "forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrifter hjemlet i helsepersonelloven og pasientjournalloven mv. som en følge av ikraftsetting av lov 23. januar 2026 nr. 1 om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)",
+      "total_changes": 1,
+      "xml_hash": "ea92f99b28315b617c9cb5075e973f043766e8d2613c7a45ee5be66e8c783b9e"
     }
   },
-  "generated_at": "2026-06-16T09:23:10.172217Z",
+  "generated_at": "2026-06-17T09:00:33.393426Z",
   "version": 1
 }

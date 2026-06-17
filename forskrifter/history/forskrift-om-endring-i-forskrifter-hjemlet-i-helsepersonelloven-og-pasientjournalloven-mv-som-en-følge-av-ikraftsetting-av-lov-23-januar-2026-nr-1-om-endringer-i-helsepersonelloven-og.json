@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260615-1084",
+  "events": [
+    {
+      "commit": "345752d",
+      "date": "2026-06-17",
+      "from_path": null,
+      "lines_added": 55,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og"
+}

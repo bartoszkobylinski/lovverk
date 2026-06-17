@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3428 current documents_
+_3429 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -710,6 +710,7 @@ _3428 current documents_
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av](forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av.md) — Forskrift om endring i forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport og forskrift om krav til nullutslipp av klimagasser ved offentlig anskaffelse av sjøtransport
+- [forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og](forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og.md) — Forskrift om endring i forskrifter hjemlet i helsepersonelloven og pasientjournalloven mv. som en følge av ikraftsetting av lov 23. januar 2026 nr. 1 om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
 - [forskrift-om-energiklagenemnda](forskrift-om-energiklagenemnda.md) — Forskrift om Energiklagenemnda

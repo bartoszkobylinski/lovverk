@@ -1,6 +1,16 @@
 # forskrift-om-helselovgivning-for-svalbard-og-jan-mayen — Change history
 
-_2 events; doc_id `sf-20150622-0747`._
+_4 events; doc_id `sf-20150622-0747`._
+
+## 2026-06-17 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-helselovgivning-for-svalbard-og-jan-mayen`
+Commit: `42f496a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20150622-0747.md` → `forskrifter/forskrift-om-helselovgivning-for-svalbard-og-jan-mayen.md`.
