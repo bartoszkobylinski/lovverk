@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: "2025-12-22"
 last_updated: null
-xml_hash: "23433d82434a3fe48778da40d8a0db83d7a2f38a3ac54303fab3aeedd86220cc"
+xml_hash: "56e90aaef9cdcf44a12d5821345dcd97f628555def2c360e21d9c003aee047b6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -219,6 +219,8 @@ Fastlegen skal ut fra en medisinsk vurdering prioritere når hjemmebesøk skal f
 Blir en person som står på fastleges liste inntatt i en helse- og omsorgsinstitusjon eller annen institusjon med organisert legetjeneste, overføres ansvaret for å tilby og yte oppgaver etter [§ 21](forskrift/2025-12-02-2405/§21) til institusjonen. Vedkommende blir likevel stående på fastlegens liste, og fastlegen skal tilrettelegge allmennlegetilbudet ved utskrivning.
 
 Ved behov for oppfølging etter utskrivning plikter institusjonen å orientere fastlegen før utskrivning skjer. Institusjonen skal gi fastlegen epikrise ved utskrivning, jf. [helsepersonelloven § 45a](lov/1999-07-02-64/§45a).
+
+> **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ### § 30. Henvisningspraksis
 
