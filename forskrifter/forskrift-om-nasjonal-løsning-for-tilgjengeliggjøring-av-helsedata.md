@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-11"
 last_change_in_force: "2024-01-01"
 last_updated: null
-xml_hash: "7b4e9fef88d3d90efcc81f9d55ce3624b3b57c09477a801bb32c8e3ca63029d3"
+xml_hash: "d0b4d268630b67c9514fbb016efd080e99407981758bfaafa3d1c981785c0e00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Folkehelseinstituttet kan fatte vedtak etter [helseregisterloven § 19e](lov/201
 
 Søknader etter første ledd fra Folkehelseinstituttet, behandles av Helsedirektoratet.
 
-> Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ## § 8. Betaling for tilgjengeliggjøring av opplysninger
 
