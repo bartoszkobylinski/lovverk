@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-02-18"
+last_change_in_force: "2026-06-12"
 last_updated: null
-xml_hash: "a68d08f1b36a0c7f387d18134c19ebf2228b024a4955e14eecaf04ec71c9f193"
+xml_hash: "466cf815101278ef5b44947ed7bf95dc2b8ef15db51804349e87cb5371350d1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,15 +58,15 @@ Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy til
 
 Fartøy med adgang til å delta i gruppen for konvensjonelle havfiskefartøy tildeles fartøykvote på 215 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
 
-Fartøy med torsketråltillatelse tildeles fartøykvote på 235 tonn blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+Fartøy med torsketråltillatelse tildeles fartøykvote på 235 tonn blåkveite i ICES' statistikkområde 5a og 14 (Øst-Grønland). Fartøykvotene oppheves fra og med 12. juni 2026 for fartøy med torsketråltillatelse.
 
 Fartøy med torsketråltillatelse tildeles fartøykvote på 437,5 tonn blåkveite i NAFO-område 1 (Vest-Grønland).
 
-Fartøy med torsketråltillatelse som deltar i fisket etter blåkveite i ICES’ statistikkområde 5a og 14 (Øst-Grønland), tildeles fartøykvote på 650 tonn bunnlevende uer i ICES’ statistikkområde 5a og 14 (Øst-Grønland).
+Fartøy med torsketråltillatelse som deltar i fisket etter blåkveite i ICES' statistikkområde 5a og 14 (Øst-Grønland), tildeles fartøykvote på 650 tonn bunnlevende uer i ICES' statistikkområde 5a og 14 (Øst-Grønland). Fartøykvotene oppheves fra og med 12. juni 2026 for fartøy med torsketråltillatelse.
 
 Fartøy som har adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone tildeles fartøykvote på 500 tonn reker i ICES’ statistikkområde 5a og 14. Fartøykvotene oppheves fra og med 20. februar 2026 for fartøy med adgang til å delta i lukket gruppe i fisket etter reker i Grønlands økonomiske sone.
 
-> Tilføyd ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73), endret ved forskrift [18 feb 2026 nr. 234](forskrift/2026-02-18-234).
+> Tilføyd ved forskrift [22 jan 2026 nr. 73](forskrift/2026-01-22-73), endret ved forskrifter [18 feb 2026 nr. 234](forskrift/2026-02-18-234), [12 juni 2026 nr. 1083](forskrift/2026-06-12-1083).
 
 ## § 5. Bifangst
 
