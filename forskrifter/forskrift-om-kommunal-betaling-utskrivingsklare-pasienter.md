@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2019-01-01"
 last_updated: "2018-11-12"
-xml_hash: "4c710c62b200ee410e229c784837cb10ed1675d7ec3c11bfffbf3be4b652d33b"
+xml_hash: "6986ccca8141e3b6e284b7179b6a989e2ba43f5755df9798d8b7d98fc700ad59"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -92,7 +92,7 @@ Helseinstitusjon omfattet av spesialisthelsetjenesteloven kan overføre utskrivn
 
 Ved utskrivning fra helseinstitusjon omfattet av spesialisthelsetjenesteloven skal epikrise eller tilsvarende informasjon sendes det helsepersonell som trenger opplysningene for å kunne gi pasienten forsvarlig oppfølging, jf. [helsepersonelloven § 45a](lov/1999-07-02-64/§45a) og [forskrift om pasientjournal § 9](forskrift/2019-03-01-168/§9).
 
-> Endret ved [forskrift 22 des 2016 nr. 1871](forskrift/2016-12-22-1871) (i kraft 1 jan 2017).
+> Endret ved [forskrift 22 des 2016 nr. 1871](forskrift/2016-12-22-1871) (i kraft 1 jan 2017). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ### § 13. Betaling for utskrivningsklare pasienter i døgnopphold i helseinstitusjon omfattet av spesialisthelsetjenesteloven i påvente av kommunalt tilbud
 
