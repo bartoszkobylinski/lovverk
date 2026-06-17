@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-09-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-01"
-xml_hash: "0ac05f9ee2ac7ff0b8ee94ecedfa128308c118ddc9f848234d8879f80feb7b9c"
+xml_hash: "23b059993f63bc4be3cb2151283d09dd9815e7a5e8dad660b4c2ce2e5e1f443a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Ved sending og mottak av meldinger som denne bestemmelsen omfatter, skal virksom
 
 Er det i enkelttilfeller ikke mulig å sende melding som angitt i første ledd, skal opplysningene sendes på annen forsvarlig måte.
 
-> Endret ved [forskrifter 4 sep 2017 nr. 1345](forskrift/2017-09-04-1345) (i kraft 1 okt 2017), [18 juni 2021 nr. 2023](forskrift/2021-06-18-2023) (i kraft 1 juli 2021), [18 juni 2021 nr. 2023](forskrift/2021-06-18-2023) (i kraft 1 juli 2022), [2 des 2022 nr. 2070](forskrift/2022-12-02-2070) (i kraft 1 jan 2023), [2 des 2022 nr. 2070](forskrift/2022-12-02-2070) (i kraft 1 jan 2024), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [10 des 2024 nr. 3173](forskrift/2024-12-10-3173) (i kraft 1 jan 2025).
+> Endret ved [forskrifter 4 sep 2017 nr. 1345](forskrift/2017-09-04-1345) (i kraft 1 okt 2017), [18 juni 2021 nr. 2023](forskrift/2021-06-18-2023) (i kraft 1 juli 2021), [18 juni 2021 nr. 2023](forskrift/2021-06-18-2023) (i kraft 1 juli 2022), [2 des 2022 nr. 2070](forskrift/2022-12-02-2070) (i kraft 1 jan 2023), [2 des 2022 nr. 2070](forskrift/2022-12-02-2070) (i kraft 1 jan 2024), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [10 des 2024 nr. 3173](forskrift/2024-12-10-3173) (i kraft 1 jan 2025). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ### § 7. Katalog over standarder
 
