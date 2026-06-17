@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2025-06-01"
 last_updated: "2021-09-27"
-xml_hash: "3f9a70ee83f257c66bc0edd0d39cc00304c7369db74245aaa96f9a725504361e"
+xml_hash: "9543c38329fcebe0752c12a27658cf94ea8d071f07f2473b1c3f819db89712f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-17T09:00:33.393426+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Helsepersonell som har utenlandsk godkjenning, og som yter helsetjenester på ve
 
 Helsepersonellovens bestemmelser om helsepersonell med autorisasjon eller lisens gjelder også for helsepersonell som utøver yrket uten norsk autorisasjon eller lisens etter ellevte og tolvte ledd eller [§ 23](forskrift/2015-06-22-747/§23) første ledd. [Helsepersonelloven § 65 a](lov/1999-07-02-64/§65a) gjelder tilsvarende for slikt helsepersonell.
 
-> Endret ved [forskrifter 1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [21 juni 2019 nr. 795](forskrift/2019-06-21-795) (i kraft 1 okt 2019), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [4 mars 2022 nr. 325](forskrift/2022-03-04-325) (i kraft 1 april 2022), [28 okt 2022 nr. 1809](forskrift/2022-10-28-1809).
+> Endret ved [forskrifter 1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [21 juni 2019 nr. 795](forskrift/2019-06-21-795) (i kraft 1 okt 2019), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821), [4 mars 2022 nr. 325](forskrift/2022-03-04-325) (i kraft 1 april 2022), [28 okt 2022 nr. 1809](forskrift/2022-10-28-1809). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ## § 5. Lov om alternativ behandling av sykdom mv. – anvendelse for Svalbard
 
@@ -282,7 +282,7 @@ Myndigheten etter [helsepersonelloven § 29](lov/1999-07-02-64/§29) har for Jan
 
 [Helsepersonelloven § 7](lov/1999-07-02-64/§7), [§ 10](lov/1999-07-02-64/§10), [§ 22](lov/1999-07-02-64/§22) og [§ 41](lov/1999-07-02-64/§41) skal anvendes som om bestemmelsene i pasient- og brukerrettighetsloven som det henvises til, gjelder.
 
-> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
+> Endret ved forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ## § 20. Lov om alternativ behandling av sykdom mv. – anvendelse for Jan Mayen
 
