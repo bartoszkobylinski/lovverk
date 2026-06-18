@@ -1,6 +1,16 @@
 {
-  "doc_id": "sf-20260327-0497",
+  "doc_id": "sf-20260615-1087",
   "events": [
+    {
+      "commit": "ca084df",
+      "date": "2026-06-18",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-utlendingsforskriften-2",
+      "to_path": null,
+      "type": "added"
+    },
     {
       "commit": "5511aa4",
       "date": "2026-05-04",

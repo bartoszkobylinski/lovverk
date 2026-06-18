@@ -27792,15 +27792,15 @@
     "sf-20091015-1286": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
       "markdown_path": "forskrifter/utlendingsforskriften.md",
       "slug": "utlendingsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
-      "total_changes": 7,
-      "xml_hash": "6a7fc5f7955d6877f82f5b901154b96d61779d55025867cd8ffc7374f14e33c8"
+      "total_changes": 8,
+      "xml_hash": "01b8cfbb9bb3d774781862a8463b32e3e380ef4be0e558020c0ee4612597d905"
     },
     "sf-20091016-1280": {
       "doc_type": "forskrift",
@@ -37061,15 +37061,15 @@
     "sf-20170619-0840": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
       "markdown_path": "forskrifter/byggteknisk-forskrift-tek17.md",
       "slug": "byggteknisk-forskrift-tek17",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
-      "total_changes": null,
-      "xml_hash": "85786ed7210a31887779a3a506b6905c0b2b20d700c04f16528579414f80de2a"
+      "total_changes": 4,
+      "xml_hash": "20d4abd35e75f5eb94e364a53e3d79d8375b220ce6ee3ceeaf28320daae2e44a"
     },
     "sf-20170619-0941": {
       "doc_type": "forskrift",
@@ -51127,15 +51127,15 @@
     "sf-20250627-1361": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-04",
-      "last_seen": "2026-06-04T08:17:55.401096Z",
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2025-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter reker i Nordsjøen og Skagerrak i 2025–2026",
-      "total_changes": 5,
-      "xml_hash": "0ae02b56d03fb4c91ea7d38fd624f96e9d53f0a37473fceb9ebb4944000df0f6"
+      "total_changes": 6,
+      "xml_hash": "f055453f5f25c575a218de2f90eaf662e9359d779411bdf37375bbe3a3df9558"
     },
     "sf-20250630-1375": {
       "doc_type": "forskrift",
@@ -53220,15 +53220,15 @@
     "sf-20251219-2821": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-27",
-      "last_seen": "2026-05-27T07:59:51.015213Z",
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-makrell-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-makrell-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter makrell i 2026",
-      "total_changes": 4,
-      "xml_hash": "388809b60324d7e657d2e8bf6bb731696563950ff7e8bd9850a3145373baef51"
+      "total_changes": 5,
+      "xml_hash": "715abcfda15337478fd0ec7d73244bedf393d16efc889b06492c9d80c147ff7f"
     },
     "sf-20251219-2822": {
       "doc_type": "forskrift",
@@ -54751,6 +54751,19 @@
       "total_changes": 1,
       "xml_hash": "eb29e6e71cc35b61799c17fc3739cddc7edc7a707bb56e4b6dbfff4d040d524e"
     },
+    "sf-20260612-1085": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
+      "markdown_path": "forskrifter/endr-i-byggteknisk-forskrift-tek17.md",
+      "slug": "endr-i-byggteknisk-forskrift-tek17",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
+      "total_changes": 1,
+      "xml_hash": "ee363a7110ddbadd8076d759c1805b94c3113369492f61c55a3cd52fad553d0a"
+    },
     "sf-20260615-1084": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54763,8 +54776,21 @@
       "title": "Forskrift om endring i forskrifter hjemlet i helsepersonelloven og pasientjournalloven mv. som en følge av ikraftsetting av lov 23. januar 2026 nr. 1 om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)",
       "total_changes": 1,
       "xml_hash": "ea92f99b28315b617c9cb5075e973f043766e8d2613c7a45ee5be66e8c783b9e"
+    },
+    "sf-20260615-1087": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-18",
+      "last_seen": "2026-06-18T08:43:09.372724Z",
+      "markdown_path": "forskrifter/endr-i-utlendingsforskriften-2.md",
+      "slug": "endr-i-utlendingsforskriften-2",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)",
+      "total_changes": 5,
+      "xml_hash": "a12ca39b77c3d5acf764683a5c7c1ab31c9e511c3f8a09c5d6311aee77b5628f"
     }
   },
-  "generated_at": "2026-06-17T09:00:33.393426Z",
+  "generated_at": "2026-06-18T08:43:09.372724Z",
   "version": 1
 }

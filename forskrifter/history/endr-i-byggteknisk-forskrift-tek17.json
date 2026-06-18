@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260612-1085",
+  "events": [
+    {
+      "commit": "444431f",
+      "date": "2026-06-18",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-byggteknisk-forskrift-tek17",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-byggteknisk-forskrift-tek17"
+}

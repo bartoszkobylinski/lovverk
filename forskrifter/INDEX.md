@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3429 current documents_
+_3431 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -116,6 +116,7 @@ _3429 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
 - [endr-i-anskaffelsesforskriften-mfl](endr-i-anskaffelsesforskriften-mfl.md) — Forskrift om endring i forskrifter til anskaffelsesloven
+- [endr-i-byggteknisk-forskrift-tek17](endr-i-byggteknisk-forskrift-tek17.md) — Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)
 - [endr-i-eksplosivforskriften](endr-i-eksplosivforskriften.md) — Forskrift om endring i forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
 - [endr-i-fagskoleforskriften](endr-i-fagskoleforskriften.md) — Forskrift om endring i forskrift om høyere yrkesfaglig utdanning
@@ -147,6 +148,7 @@ _3429 current documents_
 - [endr-i-taubaneforskriften](endr-i-taubaneforskriften.md) — Forskrift om endring i forskrift om taubaner (taubaneforskriften)
 - [endr-i-tiltaksforskriften](endr-i-tiltaksforskriften.md) — Forskrift om endring i forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
 - [endr-i-utlendingsforskriften](endr-i-utlendingsforskriften.md) — Forskrift om endringer i utlendingsforskriften (avvikling av au pair-ordningen)
+- [endr-i-utlendingsforskriften-2](endr-i-utlendingsforskriften-2.md) — Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)
 - [endr-i-vareførselsforskriften](endr-i-vareførselsforskriften.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-2](endr-i-vareførselsforskriften-2.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-vareførselsforskriften-3](endr-i-vareførselsforskriften-3.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)

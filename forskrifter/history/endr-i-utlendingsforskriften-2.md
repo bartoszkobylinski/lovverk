@@ -1,6 +1,11 @@
 # endr-i-utlendingsforskriften-2 — Change history
 
-_4 events; doc_id `sf-20260327-0497`._
+_5 events; doc_id `sf-20260615-1087`._
+
+## 2026-06-18 — Added to corpus
+Lines: +39 -0.
+Subject: `add(forskrift): endr-i-utlendingsforskriften-2`
+Commit: `ca084df`.
 
 ## 2026-05-04 — Content updated
 Lines: +0 -35.
