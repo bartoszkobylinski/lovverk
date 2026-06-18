@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-07-01"
 last_change_in_force: "2025-08-15"
 last_updated: "2017-08-30"
-xml_hash: "85786ed7210a31887779a3a506b6905c0b2b20d700c04f16528579414f80de2a"
+xml_hash: "20d4abd35e75f5eb94e364a53e3d79d8375b220ce6ee3ceeaf28320daae2e44a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-18T08:43:09.372724+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1101,6 +1101,8 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (3) Når feil på installasjonen kan medføre fare for personsikkerhet, skal løfteinnretningen settes ut av drift.
 
+> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+
 ### § 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll
 
 (1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordninglandsdekkende heiskontrollordning med bemyndigelse fra departementetlandsdekkende heiskontrollordning som utfører sikkerhetskontroll på midlertidig grunnlagDirektoratet for byggkvalitet.
@@ -1111,7 +1113,7 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (4) Godkjenning av sikkerhetskontrollør gis for 2 år og ved fornyelse vurderes blant annet følgendeom søker har arbeidet som sikkerhetskontrollørom søker kan dokumentere oppdatert kunnskap om løfteinnretning og tilhørende regelverk.
 
-> Endret ved [forskrift 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164).
+> Endret ved [forskrift 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164). **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for heis for personer med yrkeskvalifikasjoner fra annen EØS-stat
 
@@ -1135,11 +1137,15 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (10) Direktoratet for byggkvalitet skal behandle søknader så raskt som mulig. Innen en måned etter at søknad er mottatt, skal mottaket av søknaden bekreftes og informere søkeren om eventuelle manglende dokumenter. Vedtak skal fattes senest innen fire måneder etter at all nødvendig dokumentasjon er lagt frem. Selv om en person oppfyller de kvalifikasjonskrav som er oppstilt for godkjenning som periodisk sikkerhetskontrollør for heis, kan Direktoratet for byggkvalitet på bakgrunn av manglende dokumentasjon avslå søknad om godkjenning. Avslag på søknad kan påklages av parter eller annen med rettslig klageinteresse.
 
+> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+
 ### § 16-4. Midlertidig utøvelse av sikkerhetskontroll
 
 (1) Periodisk sikkerhetskontroll av heis kan utføres på midlertidig og tilfeldig grunnlag av personer som er lovlig etablert i en annen EØS-stat med sikte på å drive slik virksomhet der, jf. artikkel 5. Tjenesteytelsens midlertidige karakter skal vurderes fra sak til sak på bakgrunn av ytelsens varighet, hyppighet, regelmessighet og kontinuitet. Ved førstegangs ytelse av tjenesten, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal tjenesteyteren underrette Direktoratet for byggkvalitet ved innsendelse av forhåndsmelding som ledsages av følgende dokumenter:bevis på tjenesteyterens nasjonalitetbevis på at vedkommende er lovlig etablert i en annen EØS-stat med det formål å utøve den aktuelle virksomheten, og at det på tidspunktet for innsendelsen ikke er forbudt for vedkommende å praktisere, heller ikke midlertidigyrkeskvalifikasjonerdersom yrket ikke er lovregulert i det land tjenesteyter har etablert sin virksomhet, bevis på å ha utøvd den aktuelle virksomheten i minst to av de siste ti årene.
 
 (2) Underretning til Direktoratet for byggkvalitet skal skje for hvert år tjenesteyter ønsker å utøve yrket. Direktoratet for byggkvalitet kan kontrollere tjenesteyterens yrkeskvalifikasjoner før tjenesten ytes for første gang for å unngå alvorlig skade på tjenestemottakernes helse eller sikkerhet på grunn av manglende faglige kvalifikasjoner. Kontrollen skal ikke gå ut over det som er nødvendig for formålet. Direktoratet for byggkvalitet skal informere tjenesteyter om yrkeskvalifikasjonene vil bli kontrollert eller ikke, innen en måned etter å ha mottatt nødvendig dokumentasjon eller om resultatet av en slik kontroll. Der det foreligger vansker som vil føre til forsinkelse, skal tjenesteyter underrettes om grunnen til dette og om tidsplanen for en beslutning. Beslutningen må ikke være truffet innen to måneder etter mottak av fullstendig dokumentasjon. Tjenesteyter som ikke har mottatt beslutning om kontroll av yrkeskvalifikasjoner innen denne frist, har rett til å utøve yrket.
+
+> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-5. Språkkrav
 
@@ -1149,11 +1155,15 @@ Direktoratet for byggkvalitet kan kreve at person som gis godkjenning som sikker
 
 Det skal føres register over installerte løfteinnretninger og ulykker med løfteinnretninger. Eier av løfteinnretning skal melde installasjonen til kommunen og det organ som fører registeret. Registerførende organ utpekes av Direktoratet for byggkvalitet.
 
+> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+
 ### § 16-7. Administrativt samarbeid
 
 (1) Direktoratet for byggkvalitet skal så vidt mulig underrette kompetent myndighet i annen EØS-stat hvor søker utøver virksomhet som omhandlet i forskriften, dersom yrkesutøveren her i landet gis administrative reaksjoner, ilegges strafferettslige sanksjoner eller det oppstår andre alvorlige omstendigheter som kan få konsekvenser for utøvelse av yrket. Har kompetent myndighet i en annen EØS-stat bedt om opplysninger, skal opplysningene gis så snart som mulig og senest innen to måneder etter at forespørselen ble mottatt.
 
 (2) Vedkommende myndigheter i vertsstater og hjemstater skal samarbeide nært og gi hverandre gjensidig bistand for å tilrettelegge anvendelsen av direktiv [2005/36/EF](eu/32005l0036). Opplysninger som utveksles skal behandles fortrolig.
+
+> **Oppheves** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-8. Prisregulering
 
