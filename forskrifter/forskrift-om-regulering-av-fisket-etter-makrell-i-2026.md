@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-05-13"
+last_change_in_force: "2026-06-16"
 last_updated: null
-xml_hash: "388809b60324d7e657d2e8bf6bb731696563950ff7e8bd9850a3145373baef51"
+xml_hash: "715abcfda15337478fd0ec7d73244bedf393d16efc889b06492c9d80c147ff7f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-27T07:59:51.015213+00:00"
+retrieved_at: "2026-06-18T08:43:09.372724+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -161,6 +161,10 @@ Fartøy som har rekrutteringskvotebonus tildelt i medhold av [forskrift om tilde
 ### § 18. Kvote for ikke-merkeregistrert fartøy som fisker makrell med landnot
 
 Den som fisker makrell med landnot fra fartøy som ikke er merkeregistrert, jf. [forskrift 10. februar 2011 nr. 593 om fiske med landnot ved fiske med fartøy som ikke er merkeregistrert](forskrift/2011-02-10-593), kan fiske og lande inntil 15 tonn makrell. Garantert kvantum er 5 tonn.
+
+Fisket på maksimalkvoten stoppes med virkning fra den 16. juni 2026 kl. 12.00. Siste frist for innmelding av fangst er 16. juni 2026 kl. 16.00. Det enkelte fartøy kan fortsette fisket innenfor den garanterte kvoten på 5 tonn.
+
+> Endret ved forskrift [16 juni 2026 nr. 1088](forskrift/2026-06-16-1088).
 
 ### § 19. Beregning av kvote ved utskifting og ombygging
 
