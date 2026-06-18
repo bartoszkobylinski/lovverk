@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2022-10-20"
-xml_hash: "6a7fc5f7955d6877f82f5b901154b96d61779d55025867cd8ffc7374f14e33c8"
+xml_hash: "01b8cfbb9bb3d774781862a8463b32e3e380ef4be0e558020c0ee4612597d905"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-18T08:43:09.372724+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -671,13 +671,15 @@ Regler om meldeplikt for utlendinger som er unntatt fra kravet om oppholdstillat
 
 Når utlendingen skal oppholde seg i riket ut over tre måneder, skal politiet gjøre vedkommende kjent med plikten til å fremstille seg til tuberkuloseundersøkelse etter [lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer (smittevernloven)](lov/1994-08-05-55). Politiet skal gi vedkommende helsemyndighet melding om kontaktopplysninger til utlendinger som skal oppholde seg i riket utover tre måneder og, hvis kjent, hvilket språk utlendingen kan kommunisere forsvarlig på.
 
-> Endret ved [forskrifter 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024).
+> Endret ved [forskrifter 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024). **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
 
 ### § 4-23. Melding til myndighetene ved skifte av bopel
 
 En utlending som har plikt til å melde fra til politiet etter lovens § 19 annet ledd om skifte av bopel, skal gi skriftlig melding til politiet i det tidligere eller det nye oppholdsdistriktet senest innen en uke etter flytting.
 
 En utlending som har permanent oppholdstillatelse, skal gi skriftlig melding til politiet ved flytting ut av eller inn i riket senest innen en uke etter flytting.
+
+> **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft fra den tid departementet bestemmer).
 
 ### Lovens § 20. Plikt i andre tilfeller til å gi melding til myndighetene
 
@@ -1231,6 +1233,8 @@ Utlendinger som er innvilget innreisetillatelse til Norge, skal få informasjon 
 
 Utlendingen skal gjøres kjent med plikten til å melde seg for politiet senest innen en uke etter innreisen og plikten til å fremstille seg til tuberkuloseundersøkelse, jf. [§ 4-22](forskrift/2009-10-15-1286/§4-22) femte ledd.
 
+> **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
+
 ### § 7-9. Virkning av vedtak om overføring av flyktninger mv. etter lovens § 35
 
 Oppholdstillatelse som gis etter lovens § 35 tredje ledd, gjelder for inntil ett år om gangen, og kan fornyes. Tillatelsen bortfaller når utlendingen får oppholdstillatelse etter lovens § 28 eller § 38. For øvrig gjelder lovens § 60 tredje ledd tilsvarende.
@@ -1385,7 +1389,7 @@ Perioder hvor referansepersonen mottar sykepenger, uførepensjon eller alderspen
 
 Det gjøres unntak fra fireårskravet når referansepersonen har fylt 67 år.
 
-> Tilføyd ved [forskrift 8 des 2009 nr. 1484](forskrift/2009-12-08-1484) (i kraft 1 jan 2010), endret ved forskrifter [8 juni 2012 nr. 503](forskrift/2012-06-08-503) (i kraft 23 juni 2012), [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021).
+> Tilføyd ved [forskrift 8 des 2009 nr. 1484](forskrift/2009-12-08-1484) (i kraft 1 jan 2010), endret ved forskrifter [8 juni 2012 nr. 503](forskrift/2012-06-08-503) (i kraft 23 juni 2012), [18 nov 2020 nr. 2402](forskrift/2020-11-18-2402) (i kraft 1 jan 2021). **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 sep 2026)
 
 ### § 9-1a. Krav om dokumentasjon for at tidligere ekteskap er oppløst som vilkår for oppholdstillatelse til ny ektefelle eller samboer
 
@@ -1905,7 +1909,7 @@ Ved avgjørelsen av hvor lenge utlendingen skal gis adgang til å oppholde seg u
 
 Dersom en søknad etter tredje ledd er fremmet tidligere enn seks måneder før utløpet av toårsfristen, bortfaller ikke permanent oppholdstillatelse dersom utlendingen returnerer til Norge innen to uker etter at Utlendingsdirektoratets avslag på søknaden er meddelt utlendingen.
 
-> Endret ved forskrifter [8 mars 2019 nr. 200](forskrift/2019-03-08-200) (i kraft 1 april 2019), [12 jan 2021 nr. 67](forskrift/2021-01-12-67), [26 juni 2025 nr. 1327](forskrift/2025-06-26-1327) (i kraft 1 sep 2025).
+> Endret ved forskrifter [8 mars 2019 nr. 200](forskrift/2019-03-08-200) (i kraft 1 april 2019), [12 jan 2021 nr. 67](forskrift/2021-01-12-67), [26 juni 2025 nr. 1327](forskrift/2025-06-26-1327) (i kraft 1 sep 2025). **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft fra den tid departementet bestemmer).
 
 ### § 11-9. Ferdigheter i norsk muntlig for rett til permanent oppholdstillatelse
 
