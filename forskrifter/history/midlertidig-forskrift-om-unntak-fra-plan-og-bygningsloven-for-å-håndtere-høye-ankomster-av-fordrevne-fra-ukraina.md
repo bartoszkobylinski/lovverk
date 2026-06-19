@@ -1,6 +1,16 @@
 # midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina — Change history
 
-_2 events; doc_id `sf-20220608-0991`._
+_4 events; doc_id `sf-20220608-0991`._
+
+## 2026-06-19 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina`
+Commit: `f9e0704`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220608-0991.md` → `"forskrifter/midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-\303\245-h\303\245ndtere-h\303\270ye-ankomster-av-fordrevne-fra-ukraina.md"`.

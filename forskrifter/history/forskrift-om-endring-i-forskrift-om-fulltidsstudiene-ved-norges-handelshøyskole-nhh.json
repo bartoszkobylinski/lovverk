@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260616-1096",
+  "events": [
+    {
+      "commit": "87ee404",
+      "date": "2026-06-19",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh"
+}

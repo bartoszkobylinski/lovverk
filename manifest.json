@@ -18471,15 +18471,15 @@
     "sf-19990311-0302": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/forskrift-for-omsetningskonsesjonærer.md",
       "slug": "forskrift-for-omsetningskonsesjonærer",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tariffer og rapporteringsplikt for omsetningskonsesjonærer (forskrift for omsetningskonsesjonærer)",
-      "total_changes": null,
-      "xml_hash": "475791ce5821ab4ebb8c95ec6e3a86238163075d66d167b6a30092008420c2c2"
+      "total_changes": 4,
+      "xml_hash": "e6a777b2fd29d23233f02ed4118441b7e000790f132588cd9b378e21cb6c98c4"
     },
     "sf-19990326-0376": {
       "doc_type": "forskrift",
@@ -23359,15 +23359,15 @@
     "sf-20050412-0319": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-12",
-      "last_seen": "2026-05-12T06:34:52.336636Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/forskrift-om-tilsetningsstoffer-i-forvarer.md",
       "slug": "forskrift-om-tilsetningsstoffer-i-forvarer",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tilsetningsstoffer til bruk i fôrvarer",
-      "total_changes": 4,
-      "xml_hash": "4310e340a6c089390f4641c754c70588067496731ce4a32451da71a6b6c4959a"
+      "total_changes": 5,
+      "xml_hash": "b2b7fe0796367c351d967d9bed617f5799d1335f1132acf3e2af3bfb1faf978a"
     },
     "sf-20050429-0418": {
       "doc_type": "forskrift",
@@ -34513,15 +34513,15 @@
     "sf-20150825-0999": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/solvens-ii-forskriften.md",
       "slug": "solvens-ii-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til finansforetaksloven om gjennomføring av Solvens II-direktivet (Solvens II-forskriften)",
-      "total_changes": null,
-      "xml_hash": "58f1c405ccc5d490b0a79081fcb2ad5e2d9425500b439e1762351e7b4bc57e78"
+      "total_changes": 4,
+      "xml_hash": "1da156cdbaebd8f1c20a4322645d9b249ee2933c0c2af9c44830b6335011dbb2"
     },
     "sf-20150825-1000": {
       "doc_type": "forskrift",
@@ -45485,15 +45485,15 @@
     "sf-20220608-0991": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina.md",
       "slug": "midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Midlertidig forskrift om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne fra Ukraina",
-      "total_changes": null,
-      "xml_hash": "9c39ef34b5c7c9bdb97a5411c60f1fa13b3db9088e7704db72f2aabeca1e8b74"
+      "total_changes": 4,
+      "xml_hash": "8e210465cf08edda291171b28d5ec764f35edc249add10abd39f1bf19d5a63e1"
     },
     "sf-20220610-0995": {
       "doc_type": "forskrift",
@@ -48709,28 +48709,28 @@
     "sf-20240618-1057": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive.md",
       "slug": "forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)",
-      "total_changes": null,
-      "xml_hash": "19ff57dd3503139f9b857d0e4a82ba98904ea1f07d32fc92504e435b9128ee25"
+      "total_changes": 4,
+      "xml_hash": "f60d7bc253fa625770a76a46d4b95afcf25f27d5f4d4cfa9afb308b203b45001"
     },
     "sf-20240618-1108": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh.md",
       "slug": "forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om fulltidsstudiene ved Norges Handelshøyskole, NHH",
-      "total_changes": null,
-      "xml_hash": "8338615945a49961f95ebc69a7e0d6f86f438a319b660a9fc608940d13ad02e5"
+      "total_changes": 4,
+      "xml_hash": "61fc5491aa0d41088f2c939ef686e58446373deb0ad2237055a238cf65176bf2"
     },
     "sf-20240619-1059": {
       "doc_type": "forskrift",
@@ -53259,15 +53259,15 @@
     "sf-20251219-2828": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
-      "total_changes": 4,
-      "xml_hash": "173658c356a98e004f85b670da0a6ff2d7f72706995d16f8dfb4a5eaf6c822f0"
+      "total_changes": 5,
+      "xml_hash": "e638f8f2a445225a92a468d5ce42a4c2143722dd4f5abb992c11336c44d2d67d"
     },
     "sf-20251219-2829": {
       "doc_type": "forskrift",
@@ -54764,6 +54764,19 @@
       "total_changes": 1,
       "xml_hash": "ee363a7110ddbadd8076d759c1805b94c3113369492f61c55a3cd52fad553d0a"
     },
+    "sf-20260612-1092": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
+      "markdown_path": "forskrifter/forskrift-til-mineralloven-2.md",
+      "slug": "forskrift-til-mineralloven-2",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift til mineralloven",
+      "total_changes": 1,
+      "xml_hash": "8cb37f5af095869e8f8c934d45dafe4b0f3021818e0ac4bb9d9d27e843ef1a73"
+    },
     "sf-20260615-1084": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -54789,8 +54802,47 @@
       "title": "Forskrift om endring i utlendingsforskriften (forenkling av fireårskravet og melding om adresseendring mv.)",
       "total_changes": 5,
       "xml_hash": "a12ca39b77c3d5acf764683a5c7c1ab31c9e511c3f8a09c5d6311aee77b5628f"
+    },
+    "sf-20260615-1099": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina.md",
+      "slug": "forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i midlertidig forskrift om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne fra Ukraina",
+      "total_changes": 1,
+      "xml_hash": "0505ca68bb6c837f898130747d4bd21d00f755b7fc00f0ca9565d22f729fb203"
+    },
+    "sf-20260616-1096": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om fulltidsstudiene ved Norges Handelshøyskole, NHH",
+      "total_changes": 1,
+      "xml_hash": "73292cd75eef73cb277cce90030b4fa4d262c4b8b129f5e7c1669f5559fd395a"
+    },
+    "sf-20260616-1097": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-19",
+      "last_seen": "2026-06-19T09:04:23.952275Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)",
+      "total_changes": 1,
+      "xml_hash": "00a688c5cbac93e67c49728d7f242cf30d64b3f90739562724111d01ddc67c69"
     }
   },
-  "generated_at": "2026-06-18T08:43:09.372724Z",
+  "generated_at": "2026-06-19T09:04:23.952275Z",
   "version": 1
 }

@@ -1,6 +1,11 @@
 # forskrift-om-tilsetningsstoffer-i-forvarer — Change history
 
-_4 events; doc_id `sf-20050412-0319`._
+_5 events; doc_id `sf-20050412-0319`._
+
+## 2026-06-19 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-tilsetningsstoffer-i-forvarer`
+Commit: `06833ac`.
 
 ## 2026-05-12 — Content updated
 Lines: +6 -6.
