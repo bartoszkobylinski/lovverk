@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2025-08-01"
 last_updated: null
-xml_hash: "8338615945a49961f95ebc69a7e0d6f86f438a319b660a9fc608940d13ad02e5"
+xml_hash: "61fc5491aa0d41088f2c939ef686e58446373deb0ad2237055a238cf65176bf2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-19T09:04:23.952275+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,7 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (6) Tildelt studieplass kan reserveres i inntil to år som følge av førstegangstjeneste, svangerskap, fødsel, adopsjon og andre tungtveiende grunner. Søker må takke ja til tilbudet og søke Studieadministrativ avdeling om reservert studieplass innen gitte frister.
 
-> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025).
+> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025). **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 2-3. Rett til direkte overgang til masterstudiet
 
@@ -130,7 +130,7 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (2) Vedtak om tap av studierett etter bokstavene a) til e) fattes av Prorektor for utdanning. Vedtak om tap av studierett etter bokstav f) fattes av Klagenemnda etter innstilling fra Studieadministrativ avdeling.
 
-> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025).
+> Endret ved forskrift [17 juni 2025 nr. 1065](forskrift/2025-06-17-1065) (i kraft 1 aug 2025). **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 2-9. Poststudierett
 
@@ -188,6 +188,8 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (5) Student som vender tilbake etter permisjon må forholde seg til den studieplanen som gjelder på tidspunktet for retur.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+
 ## Kapittel 4. Vurdering (eksamen) og obligatorisk aktivitet (arbeidskrav)
 
 ### § 4-1. Prinsipper for vurdering
@@ -242,6 +244,8 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 
 (3) Student som har levert besvarelse kan ikke unndra seg sensur.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
+
 ### § 4-8. Antall forsøk
 
 (1) Under forutsetning av at det gjennomføres vurdering, har en student to forsøk på å gjennomføre vurdering i samme emne. Student på masterstudiet i regnskap og revisjon har tre forsøk på å gjennomføre vurdering i samme emne. Beste resultat gjelder.
@@ -265,6 +269,8 @@ Antall studieplasser fastsettes av styret i medhold av [lov om universiteter og 
 (1) Styret ved NHH har i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, hjemmel for å gjøre unntak fra den ordinære sensurfristen på 15 virkedager i to tilfeller. Dette gjeldergenerelt tidsavgrenset unntak fastsatt i midlertidig forskriftunntak for avhandlinger og tilsvarende større skriftlige arbeidet fastsatt i forskrift
 
 (2) Med hjemmel i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, fastsettes en særskilt sensurfrist på seks uker på masteroppgave, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum 10 studiepoeng.
+
+> **Endres** ved forskrift [16 juni 2026 nr. 1096](forskrift/2026-06-16-1096) (i kraft 1 aug 2026).
 
 ### § 4-10. Plagiatkontroll
 
