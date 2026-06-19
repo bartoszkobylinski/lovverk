@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Energidepartementet"
 date_in_force: "1999-04-01"
-last_change_in_force: "2025-02-01"
+last_change_in_force: "2026-06-15"
 last_updated: "2023-08-11"
-xml_hash: "475791ce5821ab4ebb8c95ec6e3a86238163075d66d167b6a30092008420c2c2"
+xml_hash: "e6a777b2fd29d23233f02ed4118441b7e000790f132588cd9b378e21cb6c98c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-19T09:04:23.952275+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -487,11 +487,11 @@ Tariffene for lavspent uttak i distribusjonsnettet skal bestå av et fastledd og
 
 Fastleddet skal utformes slik at kunden dekker en rimelig andel av de faste kostnadene i nettet. Fastleddet skal differensieres på grunnlag av kundens etterspørsel etter effekt. Ved bruk av effektledd trenger ikke fastleddet differensieres.
 
-Energileddet skal dekke marginale tapskostnader. Energileddet kan i tillegg dekke en andel av nettselskapets øvrige kostnader. Energileddet kan ha et påslag når nettet er høyt belastet. Inntektene fra energileddet kan maksimalt utgjøre 50 prosent av nettselskapets inntekter fra hver kundegruppe. Inntektene fra energileddet kan likevel overstige 50 prosent fram til 1. juli 2026.
+Energileddet skal dekke marginale tapskostnader. Energileddet kan i tillegg dekke en andel av nettselskapets øvrige kostnader. Energileddet kan ha et påslag når nettet er høyt belastet. Inntektene fra energileddet kan maksimalt utgjøre 50 prosent av nettselskapets inntekter fra hver kundegruppe. Inntektene fra energileddet kan likevel overstige 50 prosent fram til 31. desember 2026.
 
 Effektleddet skal baseres på kundens effektuttak i definerte perioder. En periode kan maksimalt gjelde én måned. Effektleddet skal tidsdifferensieres.
 
-> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 12-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 13-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrifter [21 des 2021 nr. 3750](forskrift/2021-12-21-3750) og [10 mai 2022 nr. 825](forskrift/2022-05-10-825)), [2 mai 2024 nr. 716](forskrift/2024-05-02-716).
+> Endret ved [forskrifter 15 des 1999 nr. 1286](forskrift/1999-12-15-1286) (i kraft 1 jan 2000, tidligere § 12-2), [13 des 2000 nr. 1255](forskrift/2000-12-13-1255) (i kraft 1 jan 2001, tidligere § 13-2), [17 des 2001 nr. 1486](forskrift/2001-12-17-1486) (i kraft 1 jan 2002), [10 juni 2021 nr. 1904](forskrift/2021-06-10-1904) (i kraft 1 juli 2022, endringen endret ved forskrifter [21 des 2021 nr. 3750](forskrift/2021-12-21-3750) og [10 mai 2022 nr. 825](forskrift/2022-05-10-825)), [2 mai 2024 nr. 716](forskrift/2024-05-02-716), [15 juni 2026 nr. 1094](forskrift/2026-06-15-1094).
 
 ### § 14-3. Fellesmåling av sluttkunder
 
