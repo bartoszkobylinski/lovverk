@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: null
 last_updated: "2024-08-20"
-xml_hash: "19ff57dd3503139f9b857d0e4a82ba98904ea1f07d32fc92504e435b9128ee25"
+xml_hash: "f60d7bc253fa625770a76a46d4b95afcf25f27d5f4d4cfa9afb308b203b45001"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-19T09:04:23.952275+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,6 +36,8 @@ eu_basis: []
 
 (1) I denne forskrift menes med:*Videreutdanning* gir ny formell kompetanse på universitets- og høyskolenivå og er studiepoengsgivende.*Studieprogram* er et studieløp bestående av emner med definert innhold og et samlet læringsutbytte i henhold til studieplan som fører frem til en grad.*Emne* kan inngå i et studieprogram, eller tilbys som et frittstående studium med eget opptak.*Emneplan* er en plan for en emne som angir omfang og nivå, opptakskrav, læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer. Emne kan inngår i én eller flere studieplaner.*Studieplan* er en plan for et studieprogram som angir omfang og nivå, opptakskrav, det totale læringsutbytte, faginnhold, læringsaktiviteter, arbeidskrav og vurderingsformer.*Vurdering* er bedømmelse av studentens oppnådde læringsutbytte. Vurderingsform kan variere i innhold og struktur.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
+
 ### § 1-3. Utfyllende bestemmelser
 
 Direktør NHHE kan fastsette utfyllende bestemmelser innenfor rammene av denne forskriften.
@@ -52,6 +54,8 @@ En student har etter [universitets- og høyskoleloven §§ 11-9](lov/2024-03-08-
 
 NHH har etter [universitets- og høyskoleloven § 14-1](lov/2024-03-08-9/§14-1) opprettet en klagenemnd. Styret har fastsatt et reglement for klagenemnden hvor nemndens arbeidsoppgaver er angitt.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
+
 ### § 1-7. Bærbar datamaskin
 
 Studenter ved NHHE må ha tilgang til egen bærbar datamaskin for bruk i undervisning og vurdering. Det stilles krav til utstyr og programvare, og studenten er selv ansvarlig for å laste ned nødvendig programvare for gjennomføring av et studium og vurderinger.
@@ -65,6 +69,8 @@ Studenter ved NHHE må ha tilgang til egen bærbar datamaskin for bruk i undervi
 (2) Presiseringer av opptakskriteriene, herunder krav til omfang av yrkeserfaring og andre føringer reguleres av studieplan eller emneplan for hvert enkelt studium.
 
 (3) I tillegg henvises til Retningslinjer for realkompetansevurdering for studier ved etter- og videreutdanningen.
+
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
 
 ### § 2-2. Studierett
 
@@ -84,6 +90,8 @@ Studieretten opphører når studenten:har oppnådd studiets kvalifikasjonselv me
 
 (2) Vedtak om tap av studierett etter bokstavene a) til d) fattes av NHHE. Vedtak om tap av studierett etter bokstav e) fattes av Klagenemnda etter innstilling fra NHHE.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
+
 ## Kapittel 3. Studieplan, utdanningsplan, fritak og permisjon
 
 ### § 3-1. Studieplan og emneplan
@@ -101,6 +109,8 @@ Etter [universitets- og høyskoleloven § 11-3](lov/2024-03-08-9/§11-3) skal de
 (1) En student med studierett kan søke om å få innpasset tidligere utdanning, jf. [universitets- og høyskoleloven § 9-1](lov/2024-03-08-9/§9-1). Søknad må fremmes overfor NHHE. Det omsøkte emne må minst ha samme omfang målt i studiepoeng, minst være på samme nivå (bachelor/master) og ha tilsvarende innhold og læringsutbytte som emne det søkes fritak for.
 
 (2) Et vilkår for utstedelse av graden er at minimum 60 studiepoeng som danner grunnlag for graden er bestått ved NHHE, jf. universitets- og høyskoleforskriften.
+
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
 
 ### § 3-4. Permisjon
 
@@ -150,6 +160,8 @@ Eventuelle vilkår for gjennomføring av vurdering vil fremgå av studiets studi
 
 (5) Student som har levert besvarelse kan ikke unndra seg sensur.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
+
 ### § 4-6. Antall forsøk
 
 (1) Under forutsetning av at det gjennomføres vurdering, har en student to forsøk på å gjennomføre vurderingen tilknyttet et emne i et studium.
@@ -164,6 +176,8 @@ Eventuelle vilkår for gjennomføring av vurdering vil fremgå av studiets studi
 
 (2) Med hjemmel i [universitets- og høyskoleloven § 11-7](lov/2024-03-08-9/§11-7), fjerde ledd, fastsettes en særskilt sensurfrist på seks uker på masteroppgaver, avhandlinger eller lignende skriftlige arbeider med et omfang på minimum ti studiepoeng.
 
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
+
 ### § 4-8. Plagiatkontroll
 
 NHHE kan gjennomføre plagiatkontroll både av innleverte arbeider underveis i emner og arbeider innlevert som ledd i en vurderingsordning, herunder det selvstendige arbeidet i et masterprogram. Videre kan NHHE lagre og bruke slike arbeider i forbindelse med fremtidig plagiatkontroll av tilsvarende arbeider.
@@ -177,6 +191,8 @@ NHHE kan gjennomføre plagiatkontroll både av innleverte arbeider underveis i e
 (2) Som fusk regnes eksempelvis:å ha ulovlige hjelpemidler tilgjengelig under vurderingå presentere andres arbeid som sitt egetå presentere eget tidligere arbeid, som har gitt uttelling i form av studiepoeng eller rett til å gjennomføre vurdering, som noe nytt (selvplagiat)å sitere kilder eller på annen måte benytte kilder i skriftlige arbeider uten tilstrekkelige kildehenvisningerå ha skaffet seg adgang til vurdering ved å ha fusket på prøve eller lignende som er vilkår for å gjennomføre vurderingpå uriktig grunnlag ha fått godkjenning for deltakelse i obligatorisk undervisning eller andre obligatoriske aktiviteterureglementert samarbeid mellom studenter eller grupper av kandidatermanipulering av en besvarelse etter at den er leverturedelige handlinger eller forhold som tar sikte på å gi eller kan gi studenten et uberettiget fortrinn i tilknytning til oppfyllelse av vilkår for vurderinghandlinger som på andre måter kan bidra til at studentens kunnskaper og ferdigheter ikke blir prøvet og vurdert på en upartisk og faglig betryggende måte (jf. [§ 4-1](forskrift/2024-06-18-1057/§4-1)).
 
 (3) Forsøk på og medvirkning til fusk kan sanksjoneres på samme måte som fusk.
+
+> **Endres** ved forskrift [16 juni 2026 nr. 1097](forskrift/2026-06-16-1097) (i kraft 1 aug 2026).
 
 ### § 5-2. Skyldkrav og sanksjoner
 
