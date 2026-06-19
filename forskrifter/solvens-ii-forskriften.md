@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2025-11-12"
+last_change_in_force: "2026-06-16"
 last_updated: "2022-04-06"
-xml_hash: "58f1c405ccc5d490b0a79081fcb2ad5e2d9425500b439e1762351e7b4bc57e78"
+xml_hash: "1da156cdbaebd8f1c20a4322645d9b249ee2933c0c2af9c44830b6335011dbb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-19T09:04:23.952275+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -406,7 +406,9 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (5) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1ae (delegert kommisjonsbeslutning [(EU) 2024/1763](eu/32024d1763) om forlengelse av bestemmelsen om at den solvensordningen som gjelder i De forente stater for foretak som har sitt hovedkontor i det tredjelandet, er midlertidig ekvivalent med den ordningen som er fastsatt i avdeling I kapittel VI i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138)) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (i kraft 6 des 2018, endringen endret ved forskrift [6 des 2018 nr. 1816](forskrift/2018-12-06-1816)), endret ved forskrift [30 juni 2025 nr. 1374](forskrift/2025-06-30-1374).
+(6) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1af (delegert kommisjonsbeslutning [(EU) 2025/2654](eu/32025d2654) om forlengelse av bestemmelsen om at solvensordningene som gjelder i Brasil, Japan og Mexico for foretak som har sitt hovedkontor i disse tredjelandene, er midlertidig ekvivalent med den ordningen som er fastsatt i avdeling I kapittel VI i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138)) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (i kraft 6 des 2018, endringen endret ved forskrift [6 des 2018 nr. 1816](forskrift/2018-12-06-1816)), endret ved forskrifter [30 juni 2025 nr. 1374](forskrift/2025-06-30-1374), [16 juni 2026 nr. 1095](forskrift/2026-06-16-1095).
 
 ### § 53b. Gjennomføring av forordninger om tekniske opplysninger til bruk ved beregning av forsikringstekniske avsetninger og basiskapital
 
@@ -488,7 +490,11 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 (39) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1zzi (Kommisjonens gjennomføringsforordning [(EU) 2025/1794](eu/32025r1794) om fastsettelse av tekniske opplysninger til bruk ved beregning av forsikringstekniske avsetninger og basiskapital for rapportering med referansedatoer fra 30. juni 2025 til 29. september 2025 i samsvar med europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138)) gjelder som forskrift med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (gjelder femte og sjette ledd), endret ved forskrifter [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (i kraft 6 des 2018, endringen endret ved forskrift [6 des 2018 nr. 1816](forskrift/2018-12-06-1816)), [6 des 2018 nr. 1816](forskrift/2018-12-06-1816), [12 feb 2019 nr. 96](forskrift/2019-02-12-96), [21 mai 2019 nr. 644](forskrift/2019-05-21-644), [6 aug 2019 nr. 1046](forskrift/2019-08-06-1046), [28 okt 2019 nr. 1436](forskrift/2019-10-28-1436), [5 mars 2020 nr. 235](forskrift/2020-03-05-235), [6 juli 2020 nr. 1518](forskrift/2020-07-06-1518), [18 des 2020 nr. 2967](forskrift/2020-12-18-2967), [25 mars 2021 nr. 1018](forskrift/2021-03-25-1018), [29 juni 2021 nr. 2286](forskrift/2021-06-29-2286), [21 des 2021 nr. 3822](forskrift/2021-12-21-3822), [23 aug 2022 nr. 1472](forskrift/2022-08-23-1472), [3 feb 2023 nr. 140](forskrift/2023-02-03-140), [10 okt 2023 nr. 1597](forskrift/2023-10-10-1597), [16 nov 2023 nr. 1849](forskrift/2023-11-16-1849), [19 april 2024 nr. 651](forskrift/2024-04-19-651), [30 okt 2024 nr. 2591](forskrift/2024-10-30-2591), [6 nov 2024 nr. 2664](forskrift/2024-11-06-2664), [10 jan 2025 nr. 21](forskrift/2025-01-10-21), [30 juni 2025 nr. 1374](forskrift/2025-06-30-1374), [12 nov 2025 nr. 2262](forskrift/2025-11-12-2262).
+(40) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1zzj (Kommisjonens gjennomføringsforordning [(EU) 2025/2312](eu/32025r2312) om fastsettelse av tekniske opplysninger til bruk ved beregning av forsikringstekniske avsetninger og basiskapital for rapportering med referansedatoer fra 30. september 2025 til 30. desember 2025 i samsvar med europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138)) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+(41) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1zzk (Kommisjonens gjennomføringsforordning [(EU) 2026/349](eu/32026r0349) om fastsettelse av tekniske opplysninger til bruk ved beregning av forsikringstekniske avsetninger og basiskapital for rapportering med referansedatoer fra 31. desember 2025 til 30. mars 2026 i samsvar med europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138)) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (gjelder femte og sjette ledd), endret ved forskrifter [29 okt 2018 nr. 1628](forskrift/2018-10-29-1628) (i kraft 6 des 2018, endringen endret ved forskrift [6 des 2018 nr. 1816](forskrift/2018-12-06-1816)), [6 des 2018 nr. 1816](forskrift/2018-12-06-1816), [12 feb 2019 nr. 96](forskrift/2019-02-12-96), [21 mai 2019 nr. 644](forskrift/2019-05-21-644), [6 aug 2019 nr. 1046](forskrift/2019-08-06-1046), [28 okt 2019 nr. 1436](forskrift/2019-10-28-1436), [5 mars 2020 nr. 235](forskrift/2020-03-05-235), [6 juli 2020 nr. 1518](forskrift/2020-07-06-1518), [18 des 2020 nr. 2967](forskrift/2020-12-18-2967), [25 mars 2021 nr. 1018](forskrift/2021-03-25-1018), [29 juni 2021 nr. 2286](forskrift/2021-06-29-2286), [21 des 2021 nr. 3822](forskrift/2021-12-21-3822), [23 aug 2022 nr. 1472](forskrift/2022-08-23-1472), [3 feb 2023 nr. 140](forskrift/2023-02-03-140), [10 okt 2023 nr. 1597](forskrift/2023-10-10-1597), [16 nov 2023 nr. 1849](forskrift/2023-11-16-1849), [19 april 2024 nr. 651](forskrift/2024-04-19-651), [30 okt 2024 nr. 2591](forskrift/2024-10-30-2591), [6 nov 2024 nr. 2664](forskrift/2024-11-06-2664), [10 jan 2025 nr. 21](forskrift/2025-01-10-21), [30 juni 2025 nr. 1374](forskrift/2025-06-30-1374), [12 nov 2025 nr. 2262](forskrift/2025-11-12-2262), [16 juni 2026 nr. 1095](forskrift/2026-06-16-1095).
 
 ### § 53c. Gjennomføring av andre forordninger
 
