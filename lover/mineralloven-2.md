@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "f5f8189fc8c7dd1a0803d755bfa4be481a64195420fc97e0278110c51359f21b"
+xml_hash: "f35dd5c6c2e692dfa6c84327a24f0bb2d5333b45c442b3126831da18020361b8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -215,6 +215,8 @@ Dersom andre undersøkelser planlegges ved eventuell forlengelse av undersøkels
 I områder der tiltakshaver har tillatelse til prøveuttak etter [§ 4-13](lov/2025-06-20-107/§4-13), gjelder ikke krav om undersøkelsesplan.
 
 Dersom det foretas vesentlige endringer i undersøkelsesplanen, skal revidert undersøkelsesplan sendes til direktoratet for godkjenning.
+
+> **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 4-7. Varslings- og meldeplikt før oppstart av undersøkelser av statens mineraler, industrimineraler og lette metaller
 
