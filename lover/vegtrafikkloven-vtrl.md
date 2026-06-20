@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1965-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-02"
-xml_hash: "41cc2310e001cd8c6bc70cc1530bfb11aef836eeeb5055b847b0054041e2fb8a"
+xml_hash: "14240f3e270debc100c837114a388e4a908a4d4329f83d1d0664492e3021a1c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32019R0621"
@@ -519,7 +519,7 @@ Politimann som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utfe
 
 Kongen gir nærmere regler om bruk av forenklet forelegg og fastsetter bøtesatser og subsidiær fengselsstraff for de forskjellige lovbrudd som ordningen skal omfatte.
 
-> Tilføyd ved [lov 21 juni 1968 nr. 5](lov/1968-06-21-5), endret ved lover [8 juni 1979 nr. 38](lov/1979-06-08-38), [24 juni 1988 nr. 66](lov/1988-06-24-66), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Tilføyd ved [lov 21 juni 1968 nr. 5](lov/1968-06-21-5), endret ved lover [8 juni 1979 nr. 38](lov/1979-06-08-38), [24 juni 1988 nr. 66](lov/1988-06-24-66), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 32. Overtredelse av vegtrafikkbestemmelser i utlandet
 
@@ -539,7 +539,7 @@ Departementet kan gi forskrift om at virksomhet og fører som på fremmed stats 
 
 5. Når tap av førerett er rettskraftig avgjort, eller det er truffet vedtak om midlertidig tilbakekall av retten til å føre motorvogn og midlertidig beslag av førerkort, plikter rettighetshaveren straks å levere førerkortet til politiet. Når tap av førerett er fastsatt i beslutning om overføring til konfliktrådet, plikter rettighetshaveren å levere førerkortet til politiet straks saken er overført til konfliktrådet.
 
-> Endret ved lover [21 juni 1968 nr. 5](lov/1968-06-21-5), [10 apr 1981 nr. 8](lov/1981-04-10-8), [4 juli 1991 nr. 49](lov/1991-07-04-49), [23 juni 1995 nr. 40](lov/1995-06-23-40) (ikr. 1 okt 1995), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [21 juni 2002 nr. 40](lov/2002-06-21-40), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [18 juni 2004 nr. 40](lov/2004-06-18-40), [21 juni 2013 nr. 103](lov/2013-06-21-103), [17 des 2010 nr. 91](lov/2010-12-17-91) (ikr. 31 mars 2017 iflg. [res. 31 mars 2017 nr. 421](forskrift/2017-03-31-421), endring endret ved [lov 25 nov 2011 nr. 45](lov/2011-11-25-45)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+> Endret ved lover [21 juni 1968 nr. 5](lov/1968-06-21-5), [10 apr 1981 nr. 8](lov/1981-04-10-8), [4 juli 1991 nr. 49](lov/1991-07-04-49), [23 juni 1995 nr. 40](lov/1995-06-23-40) (ikr. 1 okt 1995), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [21 juni 2002 nr. 40](lov/2002-06-21-40), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [4 juli 2003 nr. 77](lov/2003-07-04-77) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1614](forskrift/2003-12-19-1614)), [18 juni 2004 nr. 40](lov/2004-06-18-40), [21 juni 2013 nr. 103](lov/2013-06-21-103), [17 des 2010 nr. 91](lov/2010-12-17-91) (ikr. 31 mars 2017 iflg. [res. 31 mars 2017 nr. 421](forskrift/2017-03-31-421), endring endret ved [lov 25 nov 2011 nr. 45](lov/2011-11-25-45)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 34. Tilbakekall av retten til å føre motorvogn mv. på grunn av særlige forhold
 
