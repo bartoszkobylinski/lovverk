@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-04-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-04"
-xml_hash: "4b2b5247886bfb613965eca0e71282f376ba5a89b915fddc77507a2fa07b2a05"
+xml_hash: "a218f2020b8e74b95013312511b76c3857e3ddd3a5f0d9f5d5d255d206fabe09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32010R0996"
@@ -357,6 +357,8 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en frivillig stiftet rett skal ha rettsvern ved tvangsakkord, må retten være dagbokført senest dagen før åpningen av forhandling om tvangsakkord. Unntaket i første ledds annet punktum gjelder tilsvarende.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 3-32. Prioritet i tilfelle av registreringsfeil m.v.
 
 Blir et dokument innført på uriktig måte i luftfartøyregisteret, kan det likevel gjøres gjeldende i samsvar med sitt innhold overfor et senere registrert rettserverv.
@@ -405,7 +407,7 @@ Heftelse som registreringsmyndigheten finner er åpenbart opphørt, skal den sle
 
 I tilfelle av uriktig slettelse gjelder [§ 3-32](lov/1993-06-11-101/§3-32) tilsvarende.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### 4. Forskjellige bestemmelser
 
@@ -525,7 +527,7 @@ Har et luftfartøy som er registrert i utlandet, her i riket voldt skade på per
 
 Særskilt tvangssalg av reservedeler til et utenlandsk luftfartøy kan gjennomføres etter begjæring fra en utleggshaver selv om foranstående heftelser som hviler på både reservedelene og luftfartøyet, ikke får full dekning, når kjøpesummen er minst to tredeler av reservedelenes verdi som fastsatt av namsmannen og to rettsvitner med særlige forutsetninger for å ta del i verdsettelsen. Namsmannen kan til fordel for saksøkeren bestemme at de foranstående rettighetshavernes andel av kjøpesummen skal begrenses til to tredeler av kjøpesummen etter fradrag for omkostningene.
 
-> Tilføyd ved [lov 11 mars 1994 nr. 3](lov/1994-03-11-3).
+> Tilføyd ved [lov 11 mars 1994 nr. 3](lov/1994-03-11-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### G. Internasjonale sikkerhetsretter i luftfartøysløsøre
 
@@ -2189,7 +2191,7 @@ Finner politiet at fører av luftfartøy med skjellig grunn er mistenkt for et s
 
 Når tap av førerrett er rettskraftig avgjort eller det er truffet vedtak om midlertidig tilbakekall av retten til å føre luftfartøy og midlertidig beslag av sertifikat, plikter rettighetshaveren straks å levere sertifikatet til politiet.
 
-> Endret ved [lov 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)), opphevet ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), tilføyd ved lov [25 juni 2024 nr. 70](lov/2024-06-25-70) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1243](forskrift/2024-06-25-1243)).
+> Endret ved [lov 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)), opphevet ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), tilføyd ved lov [25 juni 2024 nr. 70](lov/2024-06-25-70) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1243](forskrift/2024-06-25-1243)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 14-33. Andre enn eier eller bruker som straffebudene er rettet mot
 
