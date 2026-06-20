@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1928-06-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-26"
-xml_hash: "4114dfbe46e43df3b90672570b5cc40f2c061f7ff39d856b7b2a65f6b6a3adf7"
+xml_hash: "c27b7d3f58cd530611b5ce5e175bc9c9fe01abd9dc080f6f0d85a7cc36531064"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -147,6 +147,8 @@ Foranstående bestemmelser kommer ikke til anvendelse, når et ledningsanlegg so
 – – –
 
 Av dokumenter vedkommende overdragelse av registrert kraftledning svares ikke stempelavgift.
+
+> **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 > Endret ved lov 4 feb 1938.
 
