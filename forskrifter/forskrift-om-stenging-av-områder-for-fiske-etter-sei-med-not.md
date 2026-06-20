@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-05-26"
+last_change_in_force: "2026-06-18"
 last_updated: null
-xml_hash: "4f8c23de7a9d62493c3aa9e6ad2c35dedce5ee495d6c6818176421dbfcd4601d"
+xml_hash: "94b683600fae5d216d1056c72c95fc131b2015b08f4f85feca091f867fad5ffd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-29T07:52:43.488317+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -137,16 +137,22 @@ Når gjeldende minstemål for sei i området mellom 66° 33′ N og 62° N er 40
 
 > Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 31), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 30), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 29), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 28).
 
-## § 27. Straff
+## § 27. Kleivklakken i Møre og Romsdal
+
+Det er forbudt å fiske etter sei med not i et område på Kleivklakken i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 7,500 minutter. Øst 007 grader 7,000 minutterNord 63 grader 9,000 minutter. Øst 007 grader 7,000 minutterNord 63 grader 9,000 minutter. Øst 007 grader 13,000 minutterNord 63 grader 7,500 minutter. Øst 007 grader 13,000 minutter.Herfra videre til posisjon 1.
+
+> Tilføyd ved forskrift [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115).
+
+## § 28. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27).
 
-## § 28. Ikrafttredelse
+## § 29. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28).
