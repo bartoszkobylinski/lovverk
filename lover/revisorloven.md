@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2025-04-01"
 last_updated: "2024-12-02"
-xml_hash: "5c4c7fb184aa3ebcdd10a969d99326cd267865d83771ea6c79d65b85ae42cfcd"
+xml_hash: "41ceb3a3bc8ac0e7f7aa32cd543e90573df5b033ec37ada3729679221a577f89"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32006L0043"
@@ -677,7 +677,7 @@ Finanstilsynet har overordnet ansvar for tilsyn med fastsetting av standarder om
 
 (5) Departementet kan i forskrift gi nærmere bestemmelser om kvalifisert skyldkrav for å ilegge overtredelsesgebyr.
 
-> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
+> Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-6. Momenter ved vedtak om overtredelsesgebyr
 
