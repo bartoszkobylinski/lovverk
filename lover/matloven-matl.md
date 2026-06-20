@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-01-01"
 last_change_in_force: "2024-12-20"
 last_updated: "2021-08-24"
-xml_hash: "2ba70ca2a74d77e3be54f4d2784c8a5cbc61a024a461b6711b92b6609fa1ae1b"
+xml_hash: "4e9a3f914bd6707795525cb1d07a5753d6a180fbdff833ce17a47591d0395615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -292,7 +292,7 @@ Politimann som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utfe
 
 Kongen gir nærmere regler om bruk av forenklet forelegg etter denne paragrafen og fastsetter bøtesatser og subsidiær fengselsstraff for de overtredelser som ordningen skal omfatte.
 
-> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kapittel VI. Andre bestemmelser
 
