@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-11-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2023-02-02"
-xml_hash: "82aa87ff55567dc16c964647ae7e2384127cea09f7e26f46dd7a16c4ae2faf20"
+xml_hash: "3ef2ac40e4f344e183820918f44328ff543ef487d6846b428649cb99ceb54046"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -516,7 +516,7 @@ Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](
 
 (7) Departementet kan i forskrift fastsette nærmere regler om informasjon til aksjeeier.
 
-> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
+> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-10. Informasjon til långivere mv.
 
@@ -3134,7 +3134,7 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 15-8), [21 juni 2019 nr. 41](lov/2019-06-21-41)(ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 15-8), [21 juni 2019 nr. 41](lov/2019-06-21-41)(ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19-9. Midlertidig forbud mot medlemskap på regulert marked mv.
 
@@ -3362,7 +3362,7 @@ Finanstilsynet fører tilsyn med filialer av foretak med hovedsete utenfor EØS 
 
 (3) Departementet kan i forskrift fastsette bestemmelser om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
 
-> Tilføyd ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)).
+> Tilføyd ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 21-10. Beregning av samlet årsomsetning ved ileggelse av overtredelsesgebyr
 
