@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2020-05-11"
-last_change_in_force: "2025-06-20"
+last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "9464c19bc779ec38dbbb7130f192ae7ba06f9fd5340327680a2827b734cd7f91"
+xml_hash: "41f9547d59d5c52853b93c426e583c0d21d0051d79c1a396574f56c3d91fb3cc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -496,9 +496,7 @@ Når denne loven får anvendelse, skal omtale i andre lover og forskrifter av gj
 
 (1) Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de ulike bestemmelsene til forskjellig tid.
 
-(2) Loven oppheves 1. juli 2026. Fra samme tid oppheves endringene i [§ 66](lov/2020-05-07-38/§66).
-
-> Endret ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79).
+> Endret ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79), [19 juni 2026 nr. 48](lov/2026-06-19-48).
 
 ### § 65. Overgangsregler
 
