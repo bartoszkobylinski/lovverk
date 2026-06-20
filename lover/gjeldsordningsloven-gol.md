@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-04"
-xml_hash: "0338b195ae3b0ca4cc2b84ea8219f40996bd7b7b97159a4319ac34e8eabb1430"
+xml_hash: "970bc05e61796c46b4dfe203f1cc103605aa148cb254c06716fa84f02967b4f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,7 @@ Skyldneren skal avgi skriftlig erklæring om at namsmyndighetene kan innhente op
 
 To eller flere personer som bor sammen og har felles husholdning, kan søke om å åpne gjeldsforhandling sammen dersom de i det vesentlige er ansvarlig for hverandres gjeld.
 
-> Endret ved lover [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 okt 2017 iflg. [res. 22 sep 2017 nr. 1440](forskrift/2017-09-22-1440)), [21 juni 2019 nr. 29](lov/2019-06-21-29) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 809](forskrift/2019-06-21-809)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft fra den tid Kongen bestemmer, gjelder § 2-1 første ledd annet punktum).
+> Endret ved lover [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 okt 2017 iflg. [res. 22 sep 2017 nr. 1440](forskrift/2017-09-22-1440)), [21 juni 2019 nr. 29](lov/2019-06-21-29) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 809](forskrift/2019-06-21-809)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft fra den tid Kongen bestemmer, gjelder § 2-1 første ledd annet punktum). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-2. Namsmannens veiledningsplikt
 
@@ -86,7 +86,7 @@ Namsmannen skal sørge for at skyldneren får den veiledning denne trenger for �
 
 Namsmannen skal forsikre seg om at skyldneren har forstått hvordan den foreslåtte gjeldsordningen skal gjennomføres. Dersom forslaget ikke er utformet som nevnt i [§ 4-2](lov/1992-07-17-99/§4-2) tredje ledd første punktum, skal namsmannen sørge for nødvendig oppfølging og kontroll av gjeldsordningens gjennomføring.
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-3. Namsmannens undersøkelsesplikt
 
@@ -98,13 +98,13 @@ Namsmannen skal innhente opplysninger om registrerte heftelser i skyldnerens eie
 
 Namsmannen kan innhente opplysninger fra tredjepersoner. [Tvangsfullbyrdelsesloven § 5-7](lov/1992-06-26-86/§5-7) gjelder tilsvarende.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-4. Medhjelper
 
 Til å yte skyldneren veiledning som nevnt i [§ 2-2](lov/1992-07-17-99/§2-2) og [§ 6-1](lov/1992-07-17-99/§6-1) fjerde ledd tredje punktum og for øvrig bistå namsmannen kan namsmannen oppnevne en medhjelper i samsvar med forskrift gitt av Kongen. Medhjelperens godtgjørelse for arbeid og utgifter fastsettes av namsmannen i samsvar med forskriften.
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-5. Salg og verdsetting av skyldnerens eiendeler
 
@@ -112,19 +112,19 @@ Dersom namsmannen finner det åpenbart at skyldneren ved en gjeldsordning må se
 
 Dersom namsmannen finner det nødvendig for å sikre at gjeldsforhandlingen kan gjennomføres på fire måneder, skal namsmannen før gjeldsforhandling åpnes sørge for verdsetting av eiendeler etter [§ 4-7](lov/1992-07-17-99/§4-7).
 
-> Endret ved lov [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+> Endret ved lov [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-6. Namsmannens myndighet til å avslå søknader
 
 Namsmannen skal avslå søknaden om gjeldsforhandling dersom:det finnes klart at vilkårene for gjeldsordning etter [§§ 1-2](lov/1992-07-17-99/§1-2) til [1-4](lov/1992-07-17-99/§1-4) ikke er oppfylt,skyldneren ikke medvirker etter evne til sakens opplysning, ellerskyldneren ikke innen rimelig tid selger eller medvirker til salg av eiendeler som namsmannen etter [§ 2-5](lov/1992-07-17-99/§2-5) første ledd har pålagt skyldneren å selge før gjeldsforhandling åpnes.
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-7. Oversendelse av saken til retten
 
 Dersom namsmannen ikke selv skal avgjøre spørsmålet om åpning av gjeldsforhandling, sender namsmannen saken til retten for slik avgjørelse. Saken skal da være tilstrekkelig opplyst og forberedt slik at gjeldsforhandling kan gjennomføres innen fire måneder. Saken sendes til tingretten for den kommunen der skyldneren bor. For skyldnere som ikke er bosatt i Norge, jf. [§ 1-4](lov/1992-07-17-99/§1-4) fjerde ledd, og skyldnere med adressesperre i Folkeregisteret, jf. [folkeregisterloven § 10-4](lov/2016-12-09-88/§10-4), sendes saken til tingretten for den kommunen der namsmannen har kontor.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)), [21 juni 2019 nr. 29](lov/2019-06-21-29) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 809](forskrift/2019-06-21-809)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)), [21 juni 2019 nr. 29](lov/2019-06-21-29) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 809](forskrift/2019-06-21-809)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kap 3. Åpning av gjeldsforhandling
 
@@ -138,7 +138,9 @@ Avgjørelse av om gjeldsforhandling skal åpnes, treffes av retten ved kjennelse
 
 Namsmannens avgjørelse om å åpne gjeldsforhandlinger kan påklages av fordringshaverne innen en uke etter at namsmannen har sendt varsel om åpning av gjeldsforhandling, jf. [§ 3-2](lov/1992-07-17-99/§3-2) annet ledd. Namsmyndighetens avgjørelse om å åpne gjeldsforhandling på vilkår kan også påklages eller ankes av skyldneren. Tingrettens avgjørelse om å åpne gjeldsforhandling uten vilkår er endelig.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov
+
+> **Endres** ved lov
 
 ### § 3-2. Oppfordring om å melde krav m.m.
 
@@ -156,7 +158,7 @@ Krav som nevnt i tredje ledd faller likevel ikke bort dersom skyldneren forsettl
 
 En fordring som er bortfalt etter tredje ledd, kan gjøres gjeldende uavkortet dersom gjeldsordningen senere blir opphevet.
 
-> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)).
+> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-3. Sikring av skyldnerens eiendeler og lønnstrekk
 
@@ -164,7 +166,7 @@ Dersom skyldneren har eiendeler som etter [§ 4-6](lov/1992-07-17-99/§4-6) skal
 
 Namsmannen skal beslutte sikringstrekk i lønn og andre ytelser som nevnt i [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) og fastsetter sikringstrekkets størrelse. Namsmannen gir Innkrevingsmyndigheten beskjed om sikringstrekket, om krav som er besluttet dekket ved utleggstrekk som etter [§ 3-4 femte ledd](lov/1992-07-17-99/§3-4/ledd/5) skal gå foran sikringen, og om hvem som er trekkpliktig. Sikringstrekket gjennomføres på samme måte som utleggstrekk. Innkrevingsmyndigheten utbetaler til namsmannen det som er igjen av trekket etter at bedre prioriterte krav er dekket.
 
-> Endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-4. Betalingsutsettelse i en gjeldsforhandlingsperiode
 
@@ -180,7 +182,7 @@ Utleggstrekk blir avløst av sikringstrekk. I sikringstrekket har bidragsforplik
 
 Bestemmelsene i denne paragraf gjelder selv om skyldneren ikke er bosatt i Norge.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640), se lovens del IV), [18 des 2020 nr. 146](lov/2020-12-18-146) (i kraft 1 jan 2023 iflg. [res. 2 sep 2022 nr. 1528](forskrift/2022-09-02-1528)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640), se lovens del IV), [18 des 2020 nr. 146](lov/2020-12-18-146) (i kraft 1 jan 2023 iflg. [res. 2 sep 2022 nr. 1528](forskrift/2022-09-02-1528)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-5. Skyldnerens plikter i gjeldsforhandlingsperioden
 
@@ -188,13 +190,13 @@ Skyldneren plikter i gjeldsforhandlingsperioden:å avsette lønn og andre inntek
 
 Samtykke etter første ledd bokstav d skal bare gis til refinansiering, boligformål eller til strengt nødvendige varer og tjenester og bare dersom låneopptaket fremstår som forsvarlig med hensyn til gjeldsordningen og skyldnerens økonomiske stilling. Gjeld stiftet i gjeldsforhandlingsperioden etter bestemmelsen her omfattes ikke av gjeldsordningen. Beslutning som tillater gjeldsstiftelse, kan ikke påklages.
 
-> Endret ved lov [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640), se lovens del IV).
+> Endret ved lov [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640), se lovens del IV). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-6. Bortfall av utleggspant
 
 [Lov 8. juni 1984 nr. 59](lov/1984-06-08-59) om fordringshavernes dekningsrett [§ 5-8](lov/1984-06-08-59/§5-8) gjelder tilsvarende ved gjeldsforhandling etter loven her. Som fristdag regnes dagen for åpning av gjeldsforhandling. Namsmannen skal sørge for sletting av utlegget i offentlige registre etter at gjeldsordning er vedtatt eller rettskraftig stadfestet. Utlegg som er sikret etter håndpantregelen, skal under gjeldsforhandlingsperioden sikres etter [§ 3-3](lov/1992-07-17-99/§3-3) første ledd.
 
-> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-7. Namsmyndighetens heving av saken i gjeldsforhandlingsperioden
 
@@ -204,7 +206,7 @@ Dersom retten har åpnet gjeldsforhandlingen, sender namsmannen saken over til r
 
 Skyldneren skal gis anledning til å uttale seg før det treffes avgjørelse om heving. Klage og anke etter denne paragraf har oppsettende virkning. Dersom en beslutning om å heve saken blir omgjort, kan gjeldsforhandlingsperioden om nødvendig forlenges med den tid saken er blitt forsinket på grunn av hevingssaken.
 
-> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kap 4. Frivillig gjeldsordning
 
@@ -214,7 +216,7 @@ Skyldneren, eller den som bistår denne, skal snarest mulig etter utløpet av fr
 
 Forslaget legges frem for namsmannen, som skal påse at det ikke er i strid med [§§ 4-2](lov/1992-07-17-99/§4-2) til [4-10](lov/1992-07-17-99/§4-10).
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 4-2. Hva en frivillig gjeldsordning kan gå ut på
 
@@ -266,7 +268,7 @@ Dersom panteheftelser eller andre begrensede rettigheter i eiendelene hindrer fr
 
 Namsmannen kan underrette panthaverne om at et formuesgode vil bli solgt ved frivillig salg med den virkning at udekkede panteheftelser faller bort dersom ingen panthavere motsetter seg det innen en frist på minst en uke som namsmannen fastsetter. Når salget er gjennomført, fastsetter retten ved kjennelse hvilke panteheftelser som er falt bort som udekkede.
 
-> Endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved lov [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 4-7. Verdsetting av eiendeler som skal beholdes
 
@@ -278,7 +280,7 @@ Om gjennomføringen av verdsettingen gjelder for øvrig [tvangsfullbyrdelseslove
 
 Om adgangen til å angripe verdsettingen gjelder [tvangsfullbyrdelsesloven § 9-12](lov/1992-06-26-86/§9-12) første, andre og fjerde ledd. Rettens verdsetting kan bare angripes når angrepet gjelder saksbehandlingen eller rettsanvendelsen.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 4-8. Fordelingen mellom fordringshaverne
 
@@ -304,7 +306,7 @@ Dersom skyldneren ved åpning av gjeldsforhandling er forpliktet etter et kausjo
 
 Dersom namsmannen av eget tiltak eller etter begjæring fra en fordringshaver finner det nødvendig, innkalles det til møte mellom skyldneren og fordringshaverne.
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), tidligere § 4-10.
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15), tidligere § 4-10). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 4-12. Vedtakelse av frivillig gjeldsordning
 
@@ -316,7 +318,7 @@ En offentlig myndighet eller oppkrever av offentlige krav kan for andre offentli
 
 Et forslag til gjeldsordning er vedtatt når det er godtatt av samtlige fordringshavere som berøres. Fordringshavere som har krav på annet enn bøter og som er varslet etter første ledd, anses for å ha godtatt forslaget dersom de ikke innen fristen i første ledd har motsatt seg det.
 
-> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), tidligere § 4-11, [26 mars 2004 nr. 16](lov/2004-03-26-16), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)).
+> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), tidligere § 4-11, [26 mars 2004 nr. 16](lov/2004-03-26-16), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 14 mai 2014 nr. 640](forskrift/2014-05-14-640)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kap 5. Tvungen gjeldsordning
 
@@ -332,7 +334,7 @@ Namsmannen skal etter begjæring fra skyldneren beslutte nødvendig forlengelse 
 
 Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av tvungen gjeldsordning eller dersom en kjennelse om tvungen gjeldsordning blir opphevet av ankeinstansen, skal gjeldsforhandlingsperioden anses å løpe inntil rettskraftig avgjørelse foreligger i saken. En gjeldsforhandlingsperiode kan likevel ikke overstige ett år.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-2. Særlige regler om innholdet av en tvungen gjeldsordning
 
@@ -380,7 +382,7 @@ Namsmannen skal sørge for at skyldneren får nødvendig veiledning for å komme
 
 Begjæring om tvungen endring fremsettes for retten. Med begjæringen skal følge et forslag til tvungen endring som ikke er i strid med loven. Forslaget kan ikke stadfestes dersom det vil virke støtende.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 6-2. Omgjøring og opphevelse av en gjeldsordning på begjæring av en fordringshaver
 
@@ -402,7 +404,7 @@ Før retten prøver en begjæring etter [§§ 6-1](lov/1992-07-17-99/§6-1) elle
 
 Dersom det inntreffer omstendigheter som skyldneren forstår eller må forstå kan gi fordringshaverne rett til omgjøring etter [§ 6-2](lov/1992-07-17-99/§6-2), skal skyldneren innen rimelig tid på betryggende måte opplyse fordringshaverne og namsmannen om dette.
 
-> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)).
+> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 6-5. Frister for fremsettelse av begjæringer etter § 6-1 og § 6-2
 
@@ -422,7 +424,7 @@ Namsmannen sørger for registreringer og meldinger etter paragrafen her.
 
 Kongen kan gi forskrifter om registrering av gjeldsordning eller gjeldsforhandlinger.
 
-> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)).
+> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 juni 2024 nr. 56](lov/2024-06-25-56) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2455](forskrift/2024-10-11-2455)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-2. Sletting av panteheftelser ved gjennomført gjeldsordning
 
@@ -430,7 +432,7 @@ Når gjeldsordningen er gjennomført, bortfaller panteheftelser som nevnt i [§ 
 
 Dersom slike heftelser er registrert i et rettsvernregister, sørger namsmannen for avlysning. Dersom slike heftelser er sikret ved håndpant, gir namsmannen melding til den som besitter pantet om bortfallet.
 
-> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)).
+> Endret ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-3. Fordeling av midler som er sikret etter § 3-3 når gjeldsordning ikke kommer i stand
 
@@ -438,7 +440,7 @@ Dersom gjeldsordning ikke kommer i stand, fordeler namsmannen de midler som er t
 
 Videre opphører sikring etter [§ 3-3](lov/1992-07-17-99/§3-3) første ledd å gjelde. Namsmannen sørger for at sikringstiltakene oppheves.
 
-> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lover [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-4. Skyldnerens ansvar for omkostninger
 
