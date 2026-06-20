@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-09-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2021-08-25"
-xml_hash: "865a037745d212173949644a9762c2e228c12a6c841c53b7a69c5ba42891697c"
+xml_hash: "016739cd40b7f9dcf616675878178b724bee985870d71d41fa6859e40e8497a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -152,7 +152,7 @@ Departementet kan gi forskrift om adgang til bruk av elsykler i utmark i Marka o
 
 Denne loven innskrenker ikke grunneiers eller rettighetshavers adgang til å forby eller begrense motorferdsel på sin eiendom.
 
-> Endret ved [lover 10 apr 2019 nr. 12](lov/2019-04-10-12), [6 juni 2025 nr. 25](lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](forskrift/2025-06-06-945)).
+> Endret ved [lover 10 apr 2019 nr. 12](lov/2019-04-10-12), [6 juni 2025 nr. 25](lov/2025-06-06-25) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 945](forskrift/2025-06-06-945)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11. Særskilt vern av friluftslivsområder
 
