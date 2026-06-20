@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2020-01-01"
 last_updated: "2021-08-26"
-xml_hash: "7c9956e1e1e41d53856f269b9de4e3a4d35a6ea65577ae43e73ecbc66bb9fd4a"
+xml_hash: "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32002L0047"
@@ -76,6 +76,8 @@ Avtale om finansiell sikkerhetsstillelse kan inngås, finansiell sikkerhet kan s
 En sikkerhetsstillelse kan ikke omstøtes alene på det grunnlag at den er stilt for en finansiell forpliktelse som allerede er pådratt.
 
 Med felles gjeldsforfølgning menes gjeldsforhandling etter [konkursloven](lov/1984-06-08-58), konkurs og offentlig administrasjon.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ## § 6. Sluttavregning
 
