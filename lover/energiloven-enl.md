@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1991-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2024-01-01"
-xml_hash: "7e4b3ecaddbac791c849c1a4b6b6b9634039033ac25c72ed8659c347142827e3"
+xml_hash: "0c02816f5ae21c909cbeba38d5fa3b679bd4019897674fe48842c147e1c3ddf2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32010L0031"
@@ -123,7 +123,7 @@ Behandlingen av en søknad etter denne loven kan utsettes i påvente av en energ
 
 [Behandlingen av en søknad etter denne lov kan utsettes i påvente av en energiplan etter [§ 7-1](lov/1990-06-29-50/§7-1).]1
 
-> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-2), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-1).
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-2), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-1). **Endres** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ### § 2-3. (Mangelfull melding eller søknad)
 
@@ -256,6 +256,10 @@ Ekspropriasjon kan først skje ved utløpet av perioden konsesjon er gitt for, o
 Departementet kan gi forskrifter om utpeking av konsesjonær etter [§§ 3-1](lov/1990-06-29-50/§3-1) og [3-2](lov/1990-06-29-50/§3-2) som koordinerende operatør av distribusjonssystem. Departementet kan gi forskrifter om operatørens oppgaver og myndighet overfor aktører som helt eller delvis eier eller er tilknyttet nett.
 
 > Tilføyd ved [lov 27 mai 2016 nr. 18](lov/2016-05-27-18) (ikr. 1 juli 2016 iflg. [res. 27 mai 2016 nr. 527](forskrift/2016-05-27-527)).
+
+### § 3-8. (Vedtak om prioritering av uttakskunde av hensyn til nasjonale sikkerhetsinteresser)
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ## Kap. 4. Omsetning av elektrisk energi
 
@@ -589,7 +593,7 @@ En tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utn
 
 Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av første ledd.
 
-> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)). **Endres** ved lov [19 juni 2026 nr. 38](lov/2026-06-19-38) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7-3. (Innholdet i kost-nytteanalyser)
 
@@ -597,7 +601,7 @@ En kost-nytteanalyse for anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) sk
 
 Departementet kan gi forskrift om nærmere definisjon av tiltakene i første ledd og innholdet i og gjennomføringen av en kost-nytteanalyse.
 
-> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)). **Endres** ved lov [19 juni 2026 nr. 38](lov/2026-06-19-38) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7-4. (Godkjenning og oppfølging av kost-nytteanalyser)
 
@@ -605,7 +609,7 @@ En kost-nytteanalyse etter [§ 7-2](lov/1990-06-29-50/§7-2) og [§ 7-3](lov/199
 
 Departementet kan i enkeltvedtak fastsette at et anlegg ikke kan bygges eller oppgraderes uten at overskuddsvarmen utnyttes, dersom kost-nytteanalysen viser at fordelene ved dette er større enn kostnadene. Dette gjelder ikke anlegg som nevnt i [§ 7-2](lov/1990-06-29-50/§7-2) første ledd bokstav e og f.
 
-> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)).
+> Tilføyd ved lov [16 juni 2023 nr. 69](lov/2023-06-16-69) (i kraft 1 april 2025 iflg. [res. 25 okt 2024 nr. 2598](forskrift/2024-10-25-2598)). **Endres** ved lov [19 juni 2026 nr. 38](lov/2026-06-19-38) (i kraft fra den tid Kongen bestemmer).
 
 ## Kap. 8. Energitilstand i bygninger og energikartlegging i store foretak
 
@@ -649,7 +653,7 @@ Eieren av varme- eller klimaanlegg i en bygning skal sørge for dokumenterbare s
 
 Departementet kan gi forskrift om energivurdering av varme- og klimaanlegg, kvalifikasjonskrav for den som utfører energivurdering, dokumentasjonskrav og liknende, og hvilke bygninger og anlegg som omfattes av kravene i første ledd.
 
-> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret ved lov [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)).
+> Tilføyd ved [lov 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), endret ved lov [16 juni 2023 nr. 70](lov/2023-06-16-70) (i kraft 1 mars 2024 iflg. [res. 16 feb 2024 nr. 281](forskrift/2024-02-16-281)). **Endres** ved lov [19 juni 2026 nr. 38](lov/2026-06-19-38) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-5. (Energikartlegging i store foretak)
 
