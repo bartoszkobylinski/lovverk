@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1940-01-01"
 last_change_in_force: "2013-07-01"
 last_updated: "2021-07-01"
-xml_hash: "bc14869170b37f38e1419c26db04ac3f6a64ed69c7d913ff0e8ee88885fe8719"
+xml_hash: "1ff06c65e6d0ec31a994796945f5e830772823446e5a38f656f38d19aed973c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -130,7 +130,7 @@ Same regelen gjeld faste tidvisse summar som blir betala etter gjeldsbrevet og i
 
 Utgjevaren kann likeins gjera gjeldande at gjeldsbrevet er falskt eller forfalska, underskrive på hans vegner utan fullmakt eller ugildt på grunn av grov tvang (§ 28 i avtalelova), manglande rettsleg handleevne eller sinnssjukdom, at gjeldsbrevet er sagt maktlaust, eller at kravet er bortfalle eller brigda etter reglane om deponering, forelding, preklusjon eller tvangsakkord.
 
-> Endret ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Endret ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 18
 
