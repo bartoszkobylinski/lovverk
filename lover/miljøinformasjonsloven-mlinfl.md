@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-01-01"
 last_change_in_force: "2009-01-01"
 last_updated: "2021-08-25"
-xml_hash: "4f249d6f0cefb4d11b529a9d06e4d09cab0b8dc55ff9f46653a2ec13ed725708"
+xml_hash: "5bc94cd46b2066ed70cba12aab0e70ba51fda87861b2298d49ec18f84c79aace"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32003L0004"
@@ -63,7 +63,7 @@ Denne loven har til formål å sikre allmennheten tilgang til miljøinformasjon 
 
 Det er ikke adgang til å ta betaling for den miljøinformasjon som noen har rett til å få utlevert etter loven her, med mindre annet er bestemt i forskrift fastsatt i medhold av denne loven eller [offentleglova § 8](lov/2006-05-19-16/§8).
 
-> Endret ved [lov 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
+> Endret ved [lov 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)). **Endres** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7. Forskrifter til loven
 
@@ -117,7 +117,7 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 (5) Informasjonssøkeren kan innen tre uker fra vedtaket ble mottatt, kreve å få en nærmere begrunnelse for de vurderingene som ligger til grunn for avslaget. Begrunnelsen skal gis snarest mulig og senest innen ti virkedager etter at kravet om nærmere begrunnelse er mottatt. Begrunnelsen skal gis skriftlig dersom informasjonssøkeren ber om det.
 
-> Endret ved [lov 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
+> Endret ved [lov 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)). **Endres** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14. Identifikasjon av opplysninger som det er av konkurransemessig betydning å hemmeligholde og særskilte regler om saksbehandling
 
