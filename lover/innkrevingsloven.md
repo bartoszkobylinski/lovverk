@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: "2025-12-22"
 last_updated: "2025-10-02"
-xml_hash: "17804fd74d48da0915f9472766cc2c7542f10478c3f4a6b83c573a266fd42d6f"
+xml_hash: "39c53a8dd3b2c5739ec0a83992666d3bea3001e1d4ce7df3908fa438699d7f35"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -285,6 +285,8 @@ Utleggstrekk kan besluttes for uforfalte bidragsforpliktelser når skyldneren ha
 ### § 28. Innledning
 
 Innkrevingsmyndigheten gjennomfører utleggstrekk etablert av alminnelig namsmann, og utleggstrekk etablert av den selv etter bestemmelsene i kapittelet her.
+
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 29. Innbetaling og utbetaling av trekk
 
