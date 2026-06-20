@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "f30e216cbc8f7de9d3d76a531894cffc0b877268d12905907307be0ae13eba70"
+xml_hash: "9f92e14484bd06af56632927da277e5f721f8046bbf5ffb8c7a7bca40af8080d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32016R1011"
@@ -107,7 +107,7 @@ Ved pålegg etter [§§ 7](lov/2015-12-04-95/§7) og [8](lov/2015-12-04-95/§8) 
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Tilføyd ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)).
+> Tilføyd ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## § 11. Administrativ inndragning
 
@@ -151,7 +151,7 @@ Ved pålegg etter [§§ 7](lov/2015-12-04-95/§7) og [8](lov/2015-12-04-95/§8) 
 
 (7) Departementet kan i forskrift gi nærmere bestemmelser om kvalifisert skyldkrav for å ilegge overtredelsesgebyr. Departementet kan i forskrift gi nærmere regler om renter ved forsinket betaling av overtredelsesgebyr.
 
-> Tilføyd ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)).
+> Tilføyd ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## § 13. Momenter ved ileggelse av overtredelsesgebyr
 
