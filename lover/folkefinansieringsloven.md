@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "2f4e5daa5ed836b546abaa622adbfe7299106a6a6a0558e39cc1931d001805ca"
+xml_hash: "06dc8903ad5cc3c4f27fca064a8c0695a1075e77cc89d36d437720a84860b254"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32020R1503"
@@ -41,6 +41,8 @@ eu_basis:
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her. Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført i første ledd til gjennomføring av Norges forpliktelser etter [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
 (4) Departementet kan i forskrift gi nærmere regler om ikke-samarbeidsvillige jurisdiksjoner som nevnt i [folkefinansieringsforordningen](eu/32020r1503) artikkel 5.
+
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1-2. Virkeområde
 
@@ -128,6 +130,8 @@ Dersom det er rimelig grunn til å anta at bestemmelser gitt i eller i medhold a
 
 (2) Departementet kan i forskrift gi nærmere regler om forbud mot å ha ledelsesfunksjon.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 2-9. Tvangsmulkt
 
 (1) Ved pålegg etter loven her kan Finanstilsynet fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av fristen som er satt for oppfyllelse av pålegget, og frem til pålegget er oppfylt.
@@ -165,6 +169,8 @@ Dersom det er rimelig grunn til å anta at bestemmelser gitt i eller i medhold a
 (2) [Forvaltningsloven § 46 første ledd](lov/1967-02-10/§46/ledd/1) gjelder for foretak.
 
 (3) Departementet kan i forskrift gi regler om kvalifisert skyldkrav som vilkår for å ilegge overtredelsesgebyr.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-3. Foreldelse mv.
 
