@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1918-07-03"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-06-15"
-xml_hash: "75a011c05f7dc42198ee0bd1709147b9c57f7f0004e426c406d57f088c779720"
+xml_hash: "b12f1aadc813125c7d7256d010f9dc6d77b4a87227b87a5ded8f1eb7ca190a5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "31993L0013"
@@ -163,7 +163,7 @@ Kommer fullmaktsgiveren under konkurs, blir en rettshandel, som fullmektigen der
 
 Reglene i første ledd gjelder tilsvarende når det er nedlagt rådighetsforbud overfor fullmaktsgiveren etter [§ 75 i lov om gjeldsforhandling og konkurs](lov/1984-06-08-58/§75).
 
-> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60).
+> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 24
 
@@ -275,7 +275,7 @@ Bestemmelsene i dette kapitlet gjelder for avtaler som inngås mellom en næring
 
 Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet. Med næringsdrivende menes en fysisk eller juridisk person som handler, herunder ved fullmektig, som ledd i næringsvirksomhet.
 
-> Tilføyd ved [lov 20 juni 2014 nr. 27](lov/2014-06-20-27) (ikr. 20 juni 2014 iflg. [res. 20 juni 2014 nr. 776](forskrift/2014-06-20-776)).
+> Tilføyd ved [lov 20 juni 2014 nr. 27](lov/2014-06-20-27) (ikr. 20 juni 2014 iflg. [res. 20 juni 2014 nr. 776](forskrift/2014-06-20-776)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 38 b. Informasjonskrav i forbrukeravtaler
 
@@ -285,7 +285,7 @@ Bestemmelsene i første ledd gjelder ikkeavtaler om dagligdagse transaksjoner so
 
 Første ledd gjelder heller ikke avtaler om fjernsalg og avtaler inngått utenom faste forretningslokaler. For slike avtaler gjelder [angrerettloven](lov/2014-06-20-27).
 
-> Tilføyd ved [lov 20 juni 2014 nr. 27](lov/2014-06-20-27) (ikr. 20 juni 2014 iflg. [res. 20 juni 2014 nr. 776](forskrift/2014-06-20-776)), endret ved [lov 15 juni 2018 nr. 32](lov/2018-06-15-32) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885)), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Tilføyd ved [lov 20 juni 2014 nr. 27](lov/2014-06-20-27) (ikr. 20 juni 2014 iflg. [res. 20 juni 2014 nr. 776](forskrift/2014-06-20-776)), endret ved [lov 15 juni 2018 nr. 32](lov/2018-06-15-32) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885)), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 38 c. Tilsyn
 
@@ -295,7 +295,7 @@ Ved forsettlig eller uaktsom overtredelse av [§ 38 b](lov/1918-05-31-4/§38b) s
 
 Departementet kan i forskrift gi nærmere regler om utmåling av overtredelsesgebyr.
 
-> Tilføyd ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Tilføyd ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer, blir § 38 d).
 
 ## 5te kapitel. Slutningsbestemmelser.
 
