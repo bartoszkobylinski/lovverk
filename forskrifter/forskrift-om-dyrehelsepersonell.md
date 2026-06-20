@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2009-01-19"
-last_change_in_force: "2026-02-19"
+last_change_in_force: "2026-06-17"
 last_updated: "2022-04-01"
-xml_hash: "f7af959ca9fcde2d90eb7c872ab2b1054d692010b146c7132e2f87e6c502e7f3"
+xml_hash: "695a5b85d5c71002779364e53fadd6ce07ff5e908473153f1228127829a66089"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -266,46 +266,14 @@ Det studieprogrammet som skal føre frem til et kvalifikasjonsbevis for veterin�
 
 - Fysikk
 - Kjemi
-- Zoologi
+- Dyre- og cellebiologi
 - Plantebiologi
-- Biomatematikk
+- Biomatematikk.
 
-- Anatomi (herunder histologi og embryologi)
-- Fysiologi
-- Biokjemi
-- Genetikk
-- Farmakologi
-- Farmasi
-- Toksikologi
-- Mikrobiologi
-- Immunologi
-- Epidemiologi
-- Deontologi (yrkesetikk)
-
-- Obstetrikk
-- Patologi (herunder patologisk anatomi)
-- Parasittologi
-- Klinisk medisin og kirurgi (herunder anestesiologi)
-- Kliniske undervisning om ulike husdyr, fjørfe og andre dyrearter
-- Forebyggende medisin
-- Radiologi
-- Forplantning og forplantningslidelser
-- Offentlig veterinærmedisin og offentlig helse
-- Lovgivning og rettsmedisin for veterinærer
-- Terapi
-- Propedeutikk
-
-- Animalsk produksjon
-- Animalsk ernæring
-- Agronomi
-- Landbruksøkonomi
-- Dyrehold
-- Veterinærhygiene
-- Dyreetologi og dyrevern
-
-- Inspeksjon og kontroll av dyrefôr eller næringsmidler av animalsk opprinnelse
-- Næringsmiddelhygiene og -teknologi
-- Praktisk arbeid (herunder praktisk arbeid på steder der det skjer slakting og behandling av næringsmidler).
+1. *Grunnleggende vitenskaper*Anatomi (herunder histologi og embryologi)FysiologiBiokjemiGenetikk og molekylær genetikkFarmasi, farmakologi og farmakoterapi (inkludert antimikrobiell resistens)ToksikologiMikrobiologiImmunologiEpidemiologiYrkesetikk
+2. *Kliniske vitenskaper*ObstetrikkPatologi (herunder patologisk anatomi)ParasittologiKlinisk medisin og kirurgi (herunder anestesiologi)Kliniske undervisning om ulike husdyr, fjørfe og andre dyrearterForebyggende medisinBildediagnostikkForplantning og forplantningslidelserOffentlig veterinærmedisin og offentlig helseLovgivning og rettsmedisin for veterinærerTerapiPropedeutikk
+3. *Husdyrproduksjon*HusdyrproduksjonAnimalsk ernæringAgronomiLandbruksøkonomiHusdyrhold og forvaltning av besetningshelseVeterinærhygieneDyrevelferd, -etologi og -vern
+4. *Næringsmiddelhygiene*Inspeksjon og kontroll av dyrefôr eller næringsmidler av animalsk opprinnelseNæringsmiddelhygiene, -teknologi og -mikrobiologiPraktisk arbeid (herunder praktisk arbeid på steder der det skjer slakting og behandling av næringsmidler).
 
 Praktisk utdanning kan skje i form av en opplæringsperiode, forutsatt at slik opplæring skjer på heltid og under direkte kontroll av vedkommende myndighet, og ikke overstiger seks måneder innenfor den samlede utdanningsperioden på fem år studier.
 
@@ -374,7 +342,7 @@ Surgery (B.V.M., B.V.S.)91. University of Bristol
 6. University of London
 7. University of Nottingham21.12.1980ÍslandDiplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedleggDe kompetente myndigheterBevis på fullført praktisk tjeneste utstedt av de kompetente myndighete r1.1.1994LiechtensteinDiplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedleggDe kompetente myndigheterBevis på fullført praktisk tjeneste utstedt av de kompetente myndigheter1.5.1995
 
-> Endret ved forskrifter [8 des 2014 nr. 1548](forskrift/2014-12-08-1548), [9 mars 2023 nr. 329](forskrift/2023-03-09-329), [9 des 2025 nr. 2484](forskrift/2025-12-09-2484), [19 feb 2026 nr. 260](forskrift/2026-02-19-260).
+> Endret ved forskrifter [8 des 2014 nr. 1548](forskrift/2014-12-08-1548), [9 mars 2023 nr. 329](forskrift/2023-03-09-329), [9 des 2025 nr. 2484](forskrift/2025-12-09-2484), [19 feb 2026 nr. 260](forskrift/2026-02-19-260), [17 juni 2026 nr. 1111](forskrift/2026-06-17-1111).
 
 ## Vedlegg III. Vilkår for autorisering av søkere med utdanning som veterinær fra det tidligere Øst-Tyskland, det tidligere Tsjekkoslovakia, det tidligere Sovjetunionen og det tidligere Jugoslavia
 
