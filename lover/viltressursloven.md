@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2026-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-19"
 last_updated: "2025-08-12"
-xml_hash: "528ee021cee89b68319d727385bfb220c6a27788f5b4537e7b57e0c106c85bae"
+xml_hash: "be9a5b1ee5ad70a81283a10ceb3716f79df48114599ac33afdeed1efb360a2a3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -206,9 +206,11 @@ Kongen kan gi forskrift om hvilke skytevåpen og våpendeler og hva slags ammuni
 
 Bruk av feller til fangst av vilt er forbudt, med mindre annet følger av eller i medhold av lov.
 
-Kongen kan gi forskrift om bruk av feller, hvilke arter det tillates fangst av ved bruk av feller, tillatte feller, krav om merking av feller, krav om tilsyn, håndtering av fanget vilt, fjerning av ulovlige feller, typegodkjenning av feller og organisering av en godkjenningsordning, inkludert fastsetting av gebyr for godkjenning.
+Kongen kan gi forskrift om bruk av feller, hvilke arter det tillates fangst av ved bruk av feller, tillatte feller, krav om merking av feller med jegernummer og telefonnummer til viltmyndigheten, krav om tilsyn, håndtering av fanget vilt, fjerning av ulovlige feller, typegodkjenning av feller og organisering av en godkjenningsordning, inkludert fastsetting av gebyr for godkjenning.
 
 Kongen kan gi forskrift om skytevåpen og ammunisjon eller andre metoder som kan brukes ved avliving av levende fanget vilt.
+
+> Endret ved lov [19 juni 2026 nr. 61](lov/2026-06-19-61).
 
 ### § 26. Bruk av synlig lys og særskilte siktemidler
 
@@ -232,7 +234,11 @@ Det er forbudt under jakt å løsne skudd på eller over offentlig vei eller jer
 
 Under jakt er det forbudt å brukeluftfartøy eller motorkjøretøy til forfølgning av vilt eller til avledning av viltets oppmerksomhet fra jegerenluftfartøy eller motorkjøretøy utenfor vei til lokalisering av viltfartøy med motor innen en avstand av to kilometer fra land, også holmer og skjær.
 
+Forbudet i første ledd bokstav a og b gjelder ikke bruk av drone ved ettersøk etter [§ 22](lov/2025-06-20-102/§22) av storvilt med jakttid. Jegeren har bevisbyrden for at bruken er lovlig, og skal snarest varsle grunneieren, politiet og kommunen om bruken av drone under ettersøket. Ved ettersøk av gaupe skal også statsforvalteren varsles før det benyttes drone.
+
 Forbudet i første ledd bokstav c gjelder ikke ved ettersøk etter [§ 22](lov/2025-06-20-102/§22) av fugl i sjø, forutsatt at fartøyets hastighet ikke overstiger 5 knop. Jegeren har bevisbyrden for at bruken er lovlig, og skal snarest varsle politiet og kommunen om bruken av fartøy med motor under ettersøket.
+
+> Endret ved lov [19 juni 2026 nr. 61](lov/2026-06-19-61).
 
 ### § 30. Bruk av åte til jakt og fangst mv.
 
