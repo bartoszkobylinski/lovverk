@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-11-25"
 last_change_in_force: "2025-01-01"
 last_updated: "2026-04-17"
-xml_hash: "78d06f96bc3ce76e3364dd7f89e09333289b6e9d67faf2bad9f01c521b32972f"
+xml_hash: "66dfc8ebe0f7e0474ca3664e6488214868c985ff1eabde4ff7989db5c281d784"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,7 +146,7 @@ Fast eiendom som Finnmarkseiendommen eier og begrensede rettigheter som Finnmark
 
 Det kan ikke åpnes konkurs eller gjeldsforhandling hos Finnmarkseiendommen.
 
-> Endret ved [lov 27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)).
+> Endret ved [lov 27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 15. Utdeling av overskudd
 
@@ -418,7 +418,7 @@ Rettskraftige dommer fra utmarksdomstolen samt erklæringer og avtaler som er av
 
 For rettigheter som er fastlått i en rettskraftig dom fra utmarksdomstolen eller i en erklæring eller avtale i samsvar med Finnmarkskommisjonens konklusjoner, er offentligrettslige begrensninger i adgangen til å stifte eller overdra slike rettigheter ikke til hinder for at rettigheten tinglyses. Det betales ikke gebyr eller dokumentavgift ved tinglysingen.
 
-> Endret ved [lov 21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Endret ved [lov 21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 46. Forholdet til annen lovgivning
 
