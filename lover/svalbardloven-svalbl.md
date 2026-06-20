@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1925-08-14"
 last_change_in_force: "2023-08-25"
 last_updated: "2022-04-28"
-xml_hash: "3b3d16dfaf2f5f17786940cdeec2c817a7e7a3bb24f6f314c93a5b1118b0a24e"
+xml_hash: "1bce3a9bc4579fc4aff068d18675aad1393641e3ad382c095661d6331dbfaa51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ Sysselmesteren har samme myndighet som en statsforvalter. Sysselmesteren er ogs�
 
 På Svalbard er sysselmesteren namsmann og hovedstevnevitne. Veksel- og sjekkprotester tas opp av Sysselmesteren.
 
-> Endret ved [lover 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)),[7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+> Endret ved [lover 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)),[7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 6
 
