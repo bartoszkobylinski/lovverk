@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2000-04-14"
 last_change_in_force: "2023-01-01"
 last_updated: "2021-08-24"
-xml_hash: "0881a71de7924969d1f85865ff403c958cf7b33dd28af5769c0bb4cb05e0698f"
+xml_hash: "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "31998L0026"
@@ -67,7 +67,7 @@ Med EØS menes Det europeiske økonomiske samarbeidsområdet.
 
 Med samvirkende system menes to eller flere system der operatørene har gjort avtale med hverandre om utføring av oppdrag på tvers av systemene. En ordning som er innført mellom samvirkende systemer, utgjør ikke et system.
 
-> Endret ved [lover 18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)), [20 des 2018 nr. 103](lov/2018-12-20-103) (ikr. 1 jan 2019).
+> Endret ved [lover 18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)), [20 des 2018 nr. 103](lov/2018-12-20-103) (ikr. 1 jan 2019). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 2. Interbanksystemer
 
