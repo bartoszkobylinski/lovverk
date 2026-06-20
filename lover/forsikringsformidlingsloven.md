@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-06-01"
-xml_hash: "26726bf5d764bc56c027b372def2e53e322464410bdce3c2530f8d547630be81"
+xml_hash: "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32016L0097"
@@ -232,6 +232,8 @@ Kravene i første ledd skal dokumenteres gjennom foreleggelse av ordinær politi
 
 Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om begrenset politiattest.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ## Kapittel 7. Forsikringer
 
 ### § 7-1. Forsikringsplikt
@@ -411,6 +413,18 @@ Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet
 Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet, har taushetsplikt overfor uvedkommende om opplysninger som omhandler sanksjoner og andre tiltak som knytter seg til overtredelse av regler i loven her, eller forskrifter i medhold av loven, dersom offentliggjøring av opplysningene kan skape alvorlig uro på finansmarkedene eller påføre de berørte parter uforholdsmessig stor skade. [Forvaltningsloven § 13](lov/1967-02-10/§13) og §[§ 13 b](lov/1967-02-10/§13b) til [13 e](lov/1967-02-10/§13e) gjelder ikke for opplysninger som nevnt i første punktum.
 
 Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.
+
+### § 10-6. Forbud mot å ha ledelsesfunksjon
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 10-7. Overtredelsesgebyr
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 10-8. Momenter ved ileggelse og utmåling av overtredelsesgebyr
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 11. Ikrafttredelsesregler og overgangsregler. Endringer i andre lover
 
