@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-01-01"
 last_change_in_force: "2025-06-20"
 last_updated: "2022-03-28"
-xml_hash: "69523525394690fbaa3fa08f766949d9150b1c13c4325b1d9f8e68f65286cc82"
+xml_hash: "e5eff449c19c4f5a63c53682c776057b1a4d26246e95fdd351796937b304b91f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Lova gjeld for Svalbard dersom ikkje anna blir fastsett av Kongen.
 
 Føresegnene i [§ 6](lov/2006-05-19-16/§6), [§ 7](lov/2006-05-19-16/§7) andre ledd, [§ 8](lov/2006-05-19-16/§8) tredje ledd andre punktum og fjerde og femte ledd og [§ 30](lov/2006-05-19-16/§30) første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Vert endra** ved lov [29 mai 2026 nr. 20](lov/2026-05-29-20) (i kraft 1 juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920)).
+> Endra med lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Vert endra** ved lov [29 mai 2026 nr. 20](lov/2026-05-29-20) (i kraft 1 juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ## Kapittel 2. Hovudreglane om innsyn
 
@@ -82,7 +82,7 @@ Forbodet i første ledd er ikkje til hinder for at det kan gjerast avtalar om ei
 
 Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i paragrafen her berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)).
+> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 7. Bruk av offentleg informasjon
 
@@ -90,7 +90,7 @@ Informasjon som det er gitt tilgang til etter lova her eller anna lovgiving som 
 
 I verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor, skal eventuelle standardlisensar om bruk av offentleg informasjon vere tilgjengelege i digitalt format, og dei må kunne behandlast elektronisk. Kongen kan i forskrift fastsetje at det same skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)).
+> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 8. Hovudregel om gratis innsyn
 
@@ -106,7 +106,7 @@ Verksemder som til vanleg krev betaling for informasjon, skal på førehand offe
 
 Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i tredje ledd andre punktum og i fjerde og femte ledd berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)).
+> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 9. Rett til å krevje innsyn i ei samanstilling frå databasar
 
@@ -272,7 +272,7 @@ Når verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003
 
 Dersom verksemder som nemnde i andre ledd gjer dokument med tilhøyrande metadata allment tilgjengelege, skal tilgjengeleggjeringa skje i alle eksisterande format og språkversjonar, så langt slik tilgjengeleggjering er i samsvar med lova her og tilhøyrande forskrift. Plikta omfattar maskinleselege format. Plikta etter første punktum omfattar ikkje format som berre blir brukte til lagring eller annan intern bruk, eller som elles er ueigna for tilgjengeleggjering.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)).
+> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 31. Avslag og grunngiving
 
