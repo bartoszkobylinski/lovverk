@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1969-07-01"
 last_change_in_force: "2022-07-01"
 last_updated: "2022-04-26"
-xml_hash: "1a31984301ef4b71405c0887edcd0c85663823647dbdac8dc7f0053b5b4249b5"
+xml_hash: "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,7 +148,7 @@ Har skadelidte fått varig og betydelig skade av medisinsk art, svares særskilt
 
 12. Dersom retten av særlige grunner fastsetter erstatning etter denne bestemmelsen til terminbeløp, jf. [§ 3-9](lov/1969-06-13-26/§3-9), skal terminbeløpet fastsettes til et antall G og slik at det tas hensyn til den skadelidtes skattesituasjon.
 
-> Tilføyd ved lov [18 des 1987 nr. 96](lov/1987-12-18-96), endret ved lover [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [18 des 2015 nr. 124](lov/2015-12-18-124) (ikr. 1 mars 2018 iflg. [res. 16 feb 2018 nr. 235](forskrift/2018-02-16-235)).
+> Tilføyd ved lov [18 des 1987 nr. 96](lov/1987-12-18-96), endret ved lover [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [18 des 2015 nr. 124](lov/2015-12-18-124) (ikr. 1 mars 2018 iflg. [res. 16 feb 2018 nr. 235](forskrift/2018-02-16-235)). **Endres** ved lov [19 juni 2026 nr. 47](lov/2026-06-19-47) (i kraft fra den tid Kongen bestemmer, se endringsloven [del II](lov/2026-06-19-47/kapII) for overgangsregler).
 
 ### § 3-3. (erstatning for visse personlige krenkelser m.m.)
 
