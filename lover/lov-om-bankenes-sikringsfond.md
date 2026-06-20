@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2023-06-01"
 last_updated: "2021-06-21"
-xml_hash: "a4e423cd3379100f1f72f6dbeb3c223e331165e580ec3816ab13a5ea33c03de2"
+xml_hash: "a3b0bf698ac20cf584eda581da83b1af6749af3386e58d83cddd3d3be1f7e54c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,6 +36,8 @@ eu_basis: []
 
 (6) Konkurs eller akkordforhandlinger kan ikke åpnes i Bankenes sikringsfond.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ## § 2. Oppgaver
 
 (1) Bankenes sikringsfond skal utføre forvaltningsoppgaver og administrative gjøremål som gjelder innskuddsgarantiordningen og innskuddsgarantifondet i samsvar med bestemmelsene i [finansforetaksloven kapittel 19](lov/2015-04-10-17/kap19).
@@ -43,6 +45,8 @@ eu_basis: []
 (2) Bankenes sikringsfond skal forvalte midlene i krisetiltaksfondet og kan utføre andre administrative gjøremål som gjelder krisetiltaksfondet i samsvar med bestemmelsene i [finansforetaksloven § 20-56](lov/2015-04-10-17/§20-56). Det samme gjelder for midlene i Verdipapirforetakenes sikringsfond så langt det passer. Krisetiltaksfondet og Verdipapirforetakenes sikringsfond skal belastes kostnader som gjelder gjøremål for fondene.
 
 (3) Bankenes sikringsfond skal yte bistand til Finanstilsynet etter [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) tredje ledd.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## § 3. Styret
 
