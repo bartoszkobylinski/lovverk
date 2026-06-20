@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-07-01"
 last_change_in_force: null
 last_updated: "2023-06-15"
-xml_hash: "fd289649b9910dcab4873a81e63fd50642f3a3bb37c58205f30677d38cd1deff"
+xml_hash: "f775908dcd122a4da43d6a0c818480e1007c28f302b9e7f28d46a84a1f1e4810"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -167,6 +167,8 @@ Departementet kan i forskrift gi regler om etablering av filial av låneformidli
 
 (3) Departementet kan i forskrift fastsette nærmere krav til daglig leder og krav til styrets sammensetning, herunder krav til antall styremedlemmer, for låneformidlingsforetak.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 5-3. Melding om skifte av styret og ledelsen
 
 (1) Låneformidlingsforetak skal gi Finanstilsynet melding ved endring av styrets sammensetning og ved skifte av daglig leder eller andre faktiske ledere. Meldinger om andre endringer enn endringer i styrets sammensetning skal så vidt mulig gis på forhånd.
@@ -308,6 +310,14 @@ Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår
 (1) Den som forsettlig eller uaktsomt overtrer [§ 2-1](lov/2022-12-16-91/§2-1), [§ 3-1](lov/2022-12-16-91/§3-1), [§ 3-2](lov/2022-12-16-91/§3-2), [§ 4-1](lov/2022-12-16-91/§4-1), [§ 4-2](lov/2022-12-16-91/§4-2), [§ 6-1](lov/2022-12-16-91/§6-1), [§ 7-1](lov/2022-12-16-91/§7-1) og [§§ 7-6](lov/2022-12-16-91/§7-6) til [7-8](lov/2022-12-16-91/§7-8), straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel i inntil ett år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
 
 (2) Første ledd gjelder tilsvarende for overtredelser av bestemmelser gitt i medhold av bestemmelsene angitt i første ledd og for pålegg gitt med hjemmel i [§ 9-3](lov/2022-12-16-91/§9-3) for overtredelser av bestemmelser gitt i medhold av disse bestemmelsene.
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 10. Ikrafttredelsesregler og overgangsregler. Endringer i andre lover
 
