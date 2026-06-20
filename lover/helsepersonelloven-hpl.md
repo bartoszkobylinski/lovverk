@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2022-03-25"
-xml_hash: "8e8ccb8b0fb35e334d634db6e1c50e1b04facb2c2d8623bea531abf1d88a4617"
+xml_hash: "0b8b1f1423d4ec2c0477a298abe9866747eaf9b9c3912e5148fae82e1bd45054"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-01T09:23:05.781615+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -130,7 +130,7 @@ Den som yter helse- og omsorgstjenester, skal gi informasjon til den som har kra
 
 Departementet kan i forskrift gi nærmere bestemmelser om plikten til informasjon.
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2012 nr. 46](lov/2012-06-22-46).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [22 juni 2012 nr. 46](lov/2012-06-22-46). **Endres** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ### § 10 a. Helsepersonells plikt til å bidra til å ivareta mindreårige barn som er pårørende til foreldre eller søsken
 
