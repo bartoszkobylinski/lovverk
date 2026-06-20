@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-06-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-10-25"
-xml_hash: "a7643e07f2293673c6054c26a83c38cf9473d015cfd1bc4c72b262d368a2933a"
+xml_hash: "a8d2c5f79d4659420b5ccfa6e432b927856795ebb0320db02a8dbb54bb5a5d51"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32002L0065"
@@ -67,6 +67,8 @@ Kongen kan ved forskrift bestemme om og i hvilken utstrekning loven skal gjelde 
 
 I denne lov menes med*forbruker:* en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,*næringsdrivende:* en fysisk eller juridisk person som utøver næringsvirksomhet, og enhver som handler i vedkommendes navn eller på vedkommendes vegne,*ytelse:* vare, tjeneste, fast eiendom, rettigheter og forpliktelser,*handelspraksis:* enhver handling, utelatelse, atferd eller framstilling, kommersiell kommunikasjon, herunder reklame og markedsføring, fra en næringsdrivendes side, som er direkte knyttet til å fremme salget av, selge eller levere en ytelse til forbrukerne,*garanti:* enhver forpliktelse som den næringsdrivende har påtatt seg overfor forbrukeren i forbindelse med omsetning av varer, tjenester eller andre ytelser som gir forbrukeren rettigheter i tillegg til rettighetene forbrukeren ellers har.
 
+> **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
+
 ## Kapittel 2. Handelspraksis overfor forbrukere
 
 ### § 6. Urimelig handelspraksis
@@ -89,7 +91,7 @@ En handelspraksis er også villedende dersom:markedsføringen av en ytelse, heru
 
 Praksisen anses likevel bare som villedende dersom den er egnet til å påvirke forbrukerne til å treffe en økonomisk beslutning som de ellers ikke ville ha truffet.
 
-> Endret ved lover [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)), [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)).
+> Endret ved lover [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)), [14 juni 2024 nr. 32](lov/2024-06-14-32) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 956](forskrift/2024-06-14-956)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8. Villedende utelatelser
 
@@ -105,7 +107,7 @@ Dersom forbrukere i et nettbasert grensesnitt gis mulighet til å søke etter yt
 
 Når en næringsdrivende gir forbrukere tilgang til forbrukeromtaler av ytelser, anses opplysninger om hvorvidt og hvordan den næringsdrivende sikrer at de publiserte omtalene stammer fra forbrukere som faktisk har brukt eller kjøpt ytelsene, som vesentlige.
 
-> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9. Aggressiv handelspraksis
 
