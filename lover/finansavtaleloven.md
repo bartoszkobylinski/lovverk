@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2022-02-24"
-xml_hash: "37377a8e4fee1eae0915349af2a7321df6264ac7d9dedc74035cd09a8cb70bb1"
+xml_hash: "bcadf63ccfbb35c363edbad2dd0ac95a4f84a54247e210fcdad35ad149a64f14"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -729,6 +729,8 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 (5) Krav om heving skal meddeles kunden i et skriftlig dokument som skal inneholde opplysninger om hvilke forhold kravet om heving bygger på, opplysninger om hvilke krav tjenesteyteren gjør gjeldende etter [§ 3-52](lov/2020-12-18-146/§3-52), og opplysninger om klagebehandling etter [§ 3-53](lov/2020-12-18-146/§3-53) tredje ledd tredje og fjerde punktum. Tjenesteyteren skal samtidig opplyse forbrukeren om hvordan heving eventuelt kan unngås etter fjerde ledd.
 
 (6) Reglene om reklamasjon i [§ 3-47](lov/2020-12-18-146/§3-47) første ledd første punktum og annet ledd gjelder tilsvarende for tjenesteyterens hevingskrav.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-52. Virkningen av at tjenesteyteren hever avtalen
 
@@ -1474,6 +1476,8 @@ En samskyldner kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilk
 
 (4) Blir kredittyteren kjent med at kredittkunden er død, at det er åpnet gjeldsforhandling eller konkurs i kredittkundens bo, eller at kredittkunden har søkt om gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), skal kausjonisten varsles uten ugrunnet opphold.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 6-4. Kausjonistens rett til opplysninger
 
 Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket aktuelt beløp kausjonisten hefter forhvilken rente og andre kredittkostnader som gjelder i kredittforholdetresultatet av eventuelle undersøkelser som kredittyteren har foretatt av kredittkundens evne til å oppfylle forpliktelsene etter kredittavtalen eller av verdien av de sikkerheter som er stilt for kredittyterens krav, og som skal utnyttes før kausjonsansvaret.
@@ -1522,6 +1526,8 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket
 
 (4) Kredittyteren kan hindre at kausjonisten trer inn i kredittavtalen ved å frita kausjonisten for kausjonsansvaret i samme utstrekning som innfrielsen ville ha fritatt kausjonisten for videre ansvar.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
 ### § 6-10. Kausjonens forfall mv.
 
 (1) Kredittyteren kan ikke rette krav mot kausjonisten før det er tatt rettslige skritt mot kredittkunden for å få tvangsgrunnlag.
@@ -1537,6 +1543,8 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket
 (6) Når vilkårene i første til femte ledd er oppfylt, kan kredittyteren sende skriftlig påkrav til kausjonisten. Kausjonsansvaret forfaller til betaling 14 dager etter at påkravet er kommet frem.
 
 (7) Forfallsreglene i [panteloven § 1-9](lov/1980-02-08-2/§1-9) og [sjøloven § 44](lov/1994-06-24-39/§44) gjelder ikke for realkausjon som omfattes av kapitlet her.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-11. Renter ved forsinket betaling
 
