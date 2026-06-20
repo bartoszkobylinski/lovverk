@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "bba6c0aeb799a6d4edd0f59dd0a7cb01a596735452de72d626b57707ffac0d19"
+xml_hash: "4b5c9bcffb3af0e732665b378e5489adbbee040a05348c1d5620fafc1d30e82a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32022R2554"
@@ -40,6 +40,8 @@ eu_basis:
 
 (2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.
 
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+
 ## § 3. Tilsyn mv.
 
 (1) Finanstilsynet er nasjonal tilsynsmyndighet etter DORA-forordningen og fører tilsyn med overholdelse av bestemmelser gitt i eller i medhold av denne loven.
@@ -49,6 +51,8 @@ eu_basis:
 (3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.
 
 (4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorgan i henhold til DORA-forordningen artikkel 26.
+
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## § 4. Overtredelsesgebyr
 
