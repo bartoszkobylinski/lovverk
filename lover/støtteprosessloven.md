@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-06-22"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "0f968e01daf77b737198a0056ba55c4f1a287cc12d93997645e4ae422083cd28"
+xml_hash: "d5cb9919a11b2ed5d0871bce3c7f9dd24ad7f2e580edbab81b87a7cc237d7496"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,6 +56,8 @@ Første ledd gjelder ikke offentlig støtte som:var iverksatt før [EØS-avtalen
 
 Departementet kan gi forskrift om hvilke støttetiltak som omfattes av meldeplikten etter første ledd, fristen for å sende melding og hvilke opplysninger som kan kreves fremlagt.
 
+> **Endres** ved lov [19 juni 2026 nr. 62](lov/2026-06-19-62) (i kraft fra den tid Kongen bestemmer).
+
 ## § 5. Iverksettelsesforbudet
 
 Offentlig støtte som er omfattet av meldeplikten etter [§ 4](lov/2022-03-04-7/§4) første ledd, kan først settes i verk når ESA har fattet vedtak, eller anses for å ha fattet vedtak, om godkjenning av støtten.
@@ -65,6 +67,10 @@ Offentlig støtte som er omfattet av meldeplikten etter [§ 4](lov/2022-03-04-7/
 Støttegiveren skal sende en forenklet melding til ESA om offentlig støtte tildelt i henhold til gruppeunntaksforordningen i [EØS-avtalen vedlegg XV](avtale/avt-1992-05-02-1-v15) nr. 1j (forordning [(EU) nr. 651/2014](eu/32014r0651)). Støttegiveren sender meldingen til departementet, som videresender til ESA.
 
 Departementet kan gi forskrift om hvilke støttetiltak som omfattes av plikten til å sende forenklet melding, fristen for å sende melding og hvilke opplysninger som skal omfattes av meldingen.
+
+## § 6 a. Prosedyreregler for offentlig støtte
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 62](lov/2026-06-19-62) (i kraft fra den tid Kongen bestemmer).
 
 ## § 7. Registreringsplikt
 
