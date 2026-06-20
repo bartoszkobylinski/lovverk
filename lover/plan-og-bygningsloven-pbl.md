@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-07-01"
 last_change_in_force: "2026-01-17"
 last_updated: "2025-03-18"
-xml_hash: "aecd68e9feacc526a73500eebd93ba38da8472e68490475678d6ac5ff99530bc"
+xml_hash: "2239bb86af47fd7d0218914000caf83f178bc758849710986b056f342e98e028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -605,7 +605,7 @@ ferdsel, farleder, fiske, akvakultur, drikkevann, natur- og friluftsområder hve
 
 I områder hvor arealplanen bare angir hovedformål for arealbruk, skal det i nødvendig utstrekning gis bestemmelser som klargjør vilkårene for bruk og vern av arealene, jf. [§§ 11-9](lov/2008-06-27-71/§11-9) til [11-11](lov/2008-06-27-71/§11-11).
 
-> Endret ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
+> Endret ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-8. Hensynssoner
 
@@ -635,7 +635,7 @@ Innspill i samarbeids- og medvirkningsprosessen skal dokumenteres, behandles og 
 
 Kommunen kan uavhengig av arealformål vedta bestemmelser til kommuneplanens arealdel om:krav om reguleringsplan for visse arealer eller for visse tiltak, herunder at det skal foreligge områderegulering før detaljregulering kan vedtas,innholdet i utbyggingsavtaler, jf. [§ 17-2](lov/2008-06-27-71/§17-2),krav til nærmere angitte løsninger for vannforsyning, avløp, avrenning, avfallssystem, veg og annen transport i forbindelse med nye bygge- og anleggstiltak, herunder forbud mot eller påbud om slike løsninger, og krav til det enkelte anlegg, jf. [§ 18-1](lov/2008-06-27-71/§18-1). Det kan også gis bestemmelse om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse, jf. [§ 27-5](lov/2008-06-27-71/§27-5),rekkefølgekrav for å sikre etablering av samfunnsservice, teknisk infrastruktur, grønnstruktur før områder tas i bruk og tidspunkt for når områder kan tas i bruk til bygge- og anleggsformål, herunder rekkefølgen på utbyggingen,tomtestørrelse, byggegrenser, utbyggingsvolum og funksjonskrav, herunder om universell utforming, leke-, ute- og oppholdsplasser, skilt og reklame, parkering, frikjøp av parkeringsplasser etter [§ 28-7](lov/2008-06-27-71/§28-7) og oppdeling av boenheter til hybler,miljøkvalitet, estetikk, natur, landskap og grønnstruktur, herunder om midlertidige og flyttbare konstruksjoner og anlegg,hensyn som skal tas til bevaring av eksisterende bygninger og annet kulturmiljø,forhold som skal avklares og belyses i videre reguleringsarbeid, herunder bestemmelser om miljøoppfølging og -overvåking.
 
-> Endret ved [lover 8 mars 2019 nr. 5](lov/2019-03-08-5) (ikr. 8 mars 2019 iflg. [res. 8 mars 2019 nr. 195](forskrift/2019-03-08-195)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
+> Endret ved [lover 8 mars 2019 nr. 5](lov/2019-03-08-5) (ikr. 8 mars 2019 iflg. [res. 8 mars 2019 nr. 195](forskrift/2019-03-08-195)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-10. Bestemmelser til arealformål etter § 11-7 nr. 1, 2, 3 og 4
 
@@ -767,7 +767,7 @@ herunder områder for ferdsel, farleder, fiske, akvakultur, drikkevann, natur- o
 
 Kongen fastsetter ytterligere underdeling i forskrift.
 
-> Endret ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
+> Endret ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12-6. Hensynssoner i reguleringsplan
 
@@ -781,7 +781,7 @@ I en detaljregulering kan det ikke fastsettes hensynssoner hvor gjeldende regule
 
 I reguleringsplan kan det i nødvendig utstrekning gis bestemmelser til arealformål og hensynssoner om følgende forhold:grad av utnytting, utforming, herunder estetiske krav, eiendomsinndeling og bruk av arealer, bygninger og anlegg i planområdet,vilkår for eller forbud mot former for bruk av arealer, bygninger og anlegg i planområdet, som oppdeling av boenheter til hybler og byggegrenser, for å fremme eller sikre formålet med planen, avveie interesser og ivareta ulike hensyn i eller utenfor planområdet,grenseverdier for tillatt forurensning og andre krav til miljøkvalitet i planområdet, samt tiltak og krav til ny og pågående virksomhet i eller av hensyn til forhold utenfor planområdet for å forebygge eller begrense forurensning,funksjons- og kvalitetskrav til bygninger, anlegg og utearealer, herunder krav for å sikre hensynet til helse, miljø, sikkerhet, universell utforming og barns særlige behov for leke- og uteoppholdsareal,antallet boliger i et område, største og minste boligstørrelse, og nærmere krav til tilgjengelighet og boligens utforming der det er hensiktsmessig for spesielle behov,bestemmelser for å sikre verneverdier i bygninger, andre kulturminner, og kulturmiljøer, herunder vern av fasade, materialbruk og interiør, samt sikre naturtyper og annen verdifull natur,trafikkregulerende tiltak og parkeringsbestemmelser for bil og sykkelparkering, herunder øvre og nedre grense for parkeringsdekning,krav om tilrettelegging for forsyning av vannbåren varme til ny bebyggelse og at det er tilknytningsplikt etter [§ 27-5](lov/2008-06-27-71/§27-5),retningslinjer for særlige drifts- og skjøtselstiltak innenfor arealformålene nr. 3, 5 og 6 i [§ 12-5](lov/2008-06-27-71/§12-5),krav om særskilt rekkefølge for gjennomføring av tiltak etter planen, og at utbygging av et område ikke kan finne sted før tekniske anlegg og samfunnstjenester som energiforsyning, transport og vegnett, sosiale tjenester, helse- og omsorgstjenester, barnehager, friområder, skoler mv. er tilstrekkelig etablert,krav om detaljregulering for deler av planområdet eller bestemte typer av tiltak, og retningslinjer for slik plan,krav om nærmere undersøkelser før gjennomføring av planen, samt undersøkelser med sikte på å overvåke og klargjøre virkninger for miljø, helse, sikkerhet, tilgjengelighet for alle, og andre samfunnsinteresser, ved gjennomføring av planen og enkelttiltak i denne,krav om fordeling av planskapt netto verdiøkning ved ulike felles tiltak innenfor en nærmere bestemt del av planområdet i henhold til [jordskifteloven § 3-30](lov/2013-06-21-100/§3-30),hvilke arealer som skal være til offentlige formål eller fellesareal.
 
-> Endret ved [lover 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 des 2014 nr. 91](lov/2014-12-19-91) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1727](forskrift/2014-12-19-1727)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [6 mars 2026 nr. 7](lov/2026-03-06-7) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 346](forskrift/2026-03-06-346)).
+> Endret ved [lover 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 des 2014 nr. 91](lov/2014-12-19-91) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1727](forskrift/2014-12-19-1727)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)). **Endres** ved lov [6 mars 2026 nr. 7](lov/2026-03-06-7) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 346](forskrift/2026-03-06-346)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12-8. Oppstart av reguleringsplanarbeid
 
@@ -1195,7 +1195,7 @@ Ekspropriasjon av enkelte tomter (bebygde eller ubebygde) bør i alminnelighet i
 
 Ekspropriasjon i medhold av denne paragrafen kan ikke foretas når det gjelder grunn som i planen er satt av til landbruk etter [§ 12-5](lov/2008-06-27-71/§12-5) nr. 5.
 
-> Tilføyd ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27), endret ved [lov 28 apr 2017 nr. 20](lov/2017-04-28-20) (ikr. 1 juli 2017 iflg. [res. 28 apr 2017 nr. 501](forskrift/2017-04-28-501)).
+> Tilføyd ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27), endret ved [lov 28 apr 2017 nr. 20](lov/2017-04-28-20) (ikr. 1 juli 2017 iflg. [res. 28 apr 2017 nr. 501](forskrift/2017-04-28-501)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 16-3. Ekspropriasjon uavhengig av reguleringsplan
 
