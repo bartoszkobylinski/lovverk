@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2024-01-01"
-xml_hash: "b50a0096c53efef953dce034baa73e22f23142a2155f2dffd404e5e4bf8edd6c"
+xml_hash: "57c9b1e404d3dfbf02090a13fd4a45be1ceb3759f54f1c00f58717147fbd0cec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -402,6 +402,8 @@ Departementet skal gi en panthaver et skriftlig varsel om tilbakekall eller oppg
 
 En panterett som nevnt i første ledd kan ikke overdras eller pantsettes uten departementets samtykke. Den kan heller ikke uten et slikt samtykke være gjenstand for utlegg, arrest eller gjeldsforhandling eller inngå i panthaverens konkursbo.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ## Kapittel 8. Særlige regler om erstatning til norske fiskere
 
 ### § 8-1. Saklig virkeområde og definisjoner
@@ -517,6 +519,8 @@ En endring eller et tilbakekall av en tillatelse etter første ledd kan gjøres 
 Ved avgjørelser etter paragrafen her skal det tas hensyn til det økonomiske tapet og de ulempene som det må påregnes at en endring eller et tilbakekall vil påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet for øvrig vil medføre.
 
 Departementet kan gi forskrift om endringer og tilbakekall av tillatelser.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-10. Følgene av tilbakekall, oppgivelse av rettigheter eller bortfall av andre grunner
 
