@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-01-01"
 last_change_in_force: "2025-05-01"
 last_updated: "2023-02-16"
-xml_hash: "cb00137f109a4518084195f0642861ebce33eaac688af340b96b4cc4ebb08a3a"
+xml_hash: "ffe667dcf973808999308c34304bcf051b5243e62a3a091fb37dd65c6e2c034b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32019R0006"
@@ -159,7 +159,7 @@ Departementet kan gi forskrift om sektoravgift på salg av legemidler fra inneha
 
 Departementet kan gi forskrift om gebyr for myndighetenes arbeid med å utstede sertifikater for legemidler.
 
-> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)).
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11
 
@@ -245,7 +245,7 @@ Departementet kan pålegge grossister og andre som driver grossistvirksomhet, å
 
 Grossister og andre som driver grossistvirksomhet, plikter å gi departementet elektronisk tilgang til opplysninger om lagerstatus ved fare for tilgangen til legemidler i Norge. Departementet kan gi forskrift om gjennomføringen av første punktum.
 
-> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)).
+> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft fra den tid Kongen bestemmer).
 
 ### § 15
 
