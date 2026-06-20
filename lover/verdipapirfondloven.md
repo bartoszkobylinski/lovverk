@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2025-01-09"
-xml_hash: "3ecd770cefc7514a18e45a0a5da1ccc33438a3d4a6e546870dd963377230a4e6"
+xml_hash: "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009L0065"
@@ -1083,7 +1083,7 @@ Departementet kan i forskrift gi regler om bruk av teknikker for porteføljeforv
 
 (4) Dersom tillatelsen til et forvaltningsselskap som driver virksomhet i en annen EØS-stat bortfaller eller blir kalt tilbake, skal tilsynsmyndighetene i vertsstaten underrettes.
 
-> Endret ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+> Endret ved lov [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-5 a. Oppnevning av administrator
 
@@ -1123,7 +1123,7 @@ Departementet kan i forskrift gi regler om bruk av teknikker for porteføljeforv
 
 (10) Departementet kan fastsette forskrift om renter ved forsinket betaling av overtredelsesgebyr.
 
-> Tilføyd ved lov [16 des 2016 nr. 90](lov/2016-12-16-90) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2043](forskrift/2017-12-15-2043)), endret ved lover [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), unntatt første ledd nr. 2), [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 feb 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd nr. 2), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 okt 2024 iflg. [res. 9 aug 2024 nr. 1913](forskrift/2024-08-09-1913), gjelder første ledd nr. 3).
+> Tilføyd ved lov [16 des 2016 nr. 90](lov/2016-12-16-90) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2043](forskrift/2017-12-15-2043)), endret ved lover [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), unntatt første ledd nr. 2), [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 feb 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd nr. 2), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 okt 2024 iflg. [res. 9 aug 2024 nr. 1913](forskrift/2024-08-09-1913), gjelder første ledd nr. 3). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-6 a. Momenter ved ileggelse av overtredelsesgebyr
 
