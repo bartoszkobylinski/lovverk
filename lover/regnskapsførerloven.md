@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "1d39fd2d08b222020116e2e4bfd88c98588619ad00cd3945ebd7c5ec67a749a6"
+xml_hash: "6ae412f17d08de74cb750da26eed71c85fe2af7fe5f3d153b5b8d9f91687e069"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,6 +68,8 @@ Finanstilsynet gir godkjenning som statsautorisert regnskapsfører til person so
 
 Tittelen statsautorisert regnskapsfører kan bare benyttes av person som har godkjenning etter første ledd.
 
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+
 ### § 2-4. Deponering
 
 Finanstilsynet skal gi godkjenningen som statsautorisert regnskapsfører tilbake til den som frivillig har sagt fra seg godkjenningen, hvis vedkommende oppfyller kravene til skikkethet i [§ 3-3](lov/2022-12-16-90/§3-3) og etterutdanning i [§ 3-4](lov/2022-12-16-90/§3-4).
@@ -111,6 +113,8 @@ Søker med bachelorgrad som nevnt i [§ 3-1](lov/2022-12-16-90/§3-1) skal ha mi
 For revisorer som er godkjent etter [revisorloven](lov/2020-11-20-128), likestilles revisjonspraksis med praksis fra et regnskapsforetak etter første ledd. Dette gjelder ikke for godkjente revisorer som har deponert sin godkjenning etter [revisorloven § 3-8](lov/2020-11-20-128/§3-8).
 
 Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon.
+
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-3. Vilkår om å være skikket
 
