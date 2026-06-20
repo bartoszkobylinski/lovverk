@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-19"
 last_updated: "2022-03-28"
-xml_hash: "5768d8118ed38fce275efcbea4ef1e8c5fd43ef226794e1e8ad5ac4db0e0544a"
+xml_hash: "06750723a9ca412a681d2e92122be44cad848d0cc54ff9e4ed4dc9df0ff5b746"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -136,11 +136,11 @@ Hver private barnehage skal være et selvstendig rettssubjekt.
 
 Kommunale og private barnehager skal være registrert med eget organisasjonsnummer i Enhetsregisteret.
 
-Første ledd gjelder ikke for åpne barnehager og ikke for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern eierordinære barnehager med til sammen færre enn tretti barn, ellerfamiliebarnehager med til sammen færre enn ti barn.
+Første ledd gjelder ikke for åpne barnehager og ikke for barnehageeiere som alene, sammen med nærstående eller selskap i samme konsern eierordinære barnehager med til sammen færre enn tretti barn, ellerfamiliebarnehager med til sammen inntil ti barn.
 
 Departementet kan gi forskrift om unntak fra kravet i første ledd i særlige tilfeller.
 
-> Tilføyd ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 jan 2023 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)), endret ved lov [14 juni 2024 nr. 35](lov/2024-06-14-35) (i kraft 14 juni 2024 iflg. [res. 14 juni 2024 nr. 958](forskrift/2024-06-14-958)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 jan 2023 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)), endret ved lover [14 juni 2024 nr. 35](lov/2024-06-14-35) (i kraft 14 juni 2024 iflg. [res. 14 juni 2024 nr. 958](forskrift/2024-06-14-958)), [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 19 juni 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 7 b. Krav til samlet barnehageanlegg
 
@@ -234,7 +234,7 @@ Private barnehager som har fått vedtak om godkjenning av barnehagedriften etter
 
 ### § 14 b. Midlertidig godkjenning i en situasjon med svært mange fordrevne
 
-> **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Tilføyes** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 15. Familiebarnehager
 
@@ -346,11 +346,11 @@ Departementet kan gi forskrift om regnskap, revisjon, rapportering og dokumentas
 
 Barnehagen skal ikke drive eller eie annen virksomhet i samme rettssubjekt som barnehagen.
 
-Barnehagen kan likevel drive eller eie tilleggsvirksomhet som er nært knyttet til barnehagevirksomheten og utgjør en mindre del av den totale virksomheten. Departementet kan gi forskrift om hvilken tilleggsvirksomhet som er tillatt og krav til regnskap, revisjon, rapportering og dokumentasjon.
+Barnehagen kan likevel drive eller eie tilleggsvirksomhet som er nært knyttet til barnehagevirksomheten og utgjør en mindre del av den totale virksomheten. Forbudet i første ledd er heller ikke til hinder for at elever som går første trinn i en skole godkjent etter [privatskolelova § 2-1](lov/2003-07-04-84/§2-1), mottar opplæring etter [privatskolelova](lov/2003-07-04-84) i en barnehage dersom dette er i tråd med skolens godkjente læreplan etter [privatskolelova § 2-3 første ledd](lov/2003-07-04-84/§2-3/ledd/1). Departementet kan gi forskrift om hvilken tilleggsvirksomhet som er tillatt etter første punktum og krav til regnskap, revisjon, rapportering og dokumentasjon for tilleggsvirksomhet etter første og andre punktum.
 
 Første og andre ledd gjelder ikke for barnehager som er unntatt fra kravet om å være et selvstendig rettssubjekt etter [§ 7 a tredje ledd](lov/2005-06-17-64/§7a/ledd/3) eller forskrift gitt i medhold av [§ 7 a fjerde ledd](lov/2005-06-17-64/§7a/ledd/4).
 
-> Tilføyd ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 jan 2023 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)), endret ved lov [14 juni 2024 nr. 35](lov/2024-06-14-35) (i kraft 14 juni 2024 iflg. [res. 14 juni 2024 nr. 958](forskrift/2024-06-14-958)).
+> Tilføyd ved lov [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 jan 2023 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)), endret ved lover [14 juni 2024 nr. 35](lov/2024-06-14-35) (i kraft 14 juni 2024 iflg. [res. 14 juni 2024 nr. 958](forskrift/2024-06-14-958)), [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 19 juni 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 23 b. Låneopptak i private barnehager
 
@@ -378,7 +378,7 @@ Barnehagen skal ha en daglig leder som har utdanning som barnehagelærer eller a
 
 Departementet kan gi forskrift om pedagogisk bemanning og dispensasjon og forskrift om godkjenning av yrkeskvalifikasjoner fra utlandet.
 
-> Endret ved lover [8 aug 2008 nr. 73](lov/2008-08-08-73) (ikr. 1 jan 2009 iflg. [res. 26 sep 2008 nr. 1048](forskrift/2008-09-26-1048)), [17 juni 2016 nr. 66](lov/2016-06-17-66) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 674](forskrift/2016-06-17-674)), [21 juni 2017 nr. 98](lov/2017-06-21-98) (ikr. 1 aug 2017 iflg. [res. 21 juni 2017 nr. 832](forskrift/2017-06-21-832)), [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17).
+> Endret ved lover [8 aug 2008 nr. 73](lov/2008-08-08-73) (ikr. 1 jan 2009 iflg. [res. 26 sep 2008 nr. 1048](forskrift/2008-09-26-1048)), [17 juni 2016 nr. 66](lov/2016-06-17-66) (ikr. 1 aug 2016 iflg. [res. 17 juni 2016 nr. 674](forskrift/2016-06-17-674)), [21 juni 2017 nr. 98](lov/2017-06-21-98) (ikr. 1 aug 2017 iflg. [res. 21 juni 2017 nr. 832](forskrift/2017-06-21-832)), [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17). **Endres** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 25. Pedagogisk bemanning
 
@@ -386,7 +386,7 @@ Pedagogiske ledere må ha utdanning som barnehagelærer. Likeverdig med barnehag
 
 Departementet kan gi forskrift om pedagogisk bemanning og dispensasjon, forskrift om godkjenning av yrkeskvalifikasjoner fra utlandet og forskrift om unntak fra utdanningskravet for personale som arbeider i barnehagen på nattid.
 
-> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17 a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [8 juni 2018 nr. 29](lov/2018-06-08-29) (ikr. 1 aug 2018 iflg. [res. 8 juni 2018 nr. 827](forskrift/2018-06-08-827)), endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 17 a). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Endres** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 26. Grunnbemanning
 
