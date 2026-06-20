@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-07-01"
 last_change_in_force: null
 last_updated: "2025-01-06"
-xml_hash: "60a20f5bfd7aeb59f82707458f43c26efda8378b0ed88c15d6a9d331478a1c08"
+xml_hash: "25336bfe1d0a5cdfc6b8d431480b77db9462a572ce707d05a1c52cf70c801999"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009L0125"
@@ -40,6 +40,10 @@ Kongen kan gi forskrift for å gjennomføre rettsakter som er vedtatt i medhold 
 ## § 4. Bærekraftige produkter og verdikjeder
 
 Kongen kan gi forskrift for å gjennomføre EØS-rettslige forpliktelser om krav til bærekraft i hele verdikjeden for batterier, kjøretøy, emballasje, plast, elektriske og elektroniske produkter og tekstiler, blant annet omplikter og ansvar for bærekraft i verdikjeden hos markedsaktøreraktsomhetskrav og aktsomhetserklæringer om bærekraft, inkludert sosial bærekraftbærekraftskrav til produktets egenskaper, herunder krav til design og utforming av produkter, slik som holdbarhet og kvalitet, innhold av kjemiske stoffer som gir grunn til bekymring, innhold av materialgjenvunnet råvare, klima- og miljøfotavtrykk, energibruk og energieffektivitet, reparerbarhet, fradelbarhet, ombrukbarhet eller gjenvinnbarhetytelses- og funksjonskrav for produkterdokumentasjon av bærekraftsaspekter ved produktertilgjengeliggjøring av informasjon til markedet og brukere om bærekraftsaspekterrestriksjoner på og forbud mot innførsel, utførsel, omsetning og bruk av produkterforbruksreduksjon og tiltak for å fremme bærekraftige forbruksmønstreutvidet produsentansvar, inkludert registre over produsenterforebygging av at avfall oppstår, håndtering av avfall, bindende mål for gjenvinning av avfall inkludert mål for forberedelse til ombruk og materialgjenvinning, og avfallsplanergrønne offentlige anskaffelserrapporterings- og kontrollprosedyrer.
+
+## § 4 a. Bærekraftskrav for brensler
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 55](lov/2026-06-19-55) (i kraft 1 jan 2027 iflg. [res. 19 juni 2026 nr. 1150](forskrift/2026-06-19-1150)).
 
 ## § 5. Tilsynsmyndighet
 
@@ -68,6 +72,8 @@ Kongen kan gi forskrift om opplysningsplikt, undersøkelsesplikt og kostnadsdekn
 Tilsynsmyndigheten kan fatte enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11), blant annetforby produksjon, innførsel, omsetning, eksport, bruk eller annen behandling av produkterpålegge tilbakekall eller tilbaketrekking av produkterpålegge gjennomføring av tiltak for å bringe et produkt eller et tilfelle i samsvar med bestemmelser gitt i medhold av denne loven.
 
 Kongen kan gi forskrifter som er nødvendige for å gjennomføre bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
+
+> **Endres** ved lov [19 juni 2026 nr. 55](lov/2026-06-19-55) (i kraft 1 jan 2027 iflg. [res. 19 juni 2026 nr. 1150](forskrift/2026-06-19-1150)).
 
 ## § 8. Midlertidig forbud
 
@@ -117,9 +123,13 @@ Foretak kan ilegges overtredelsesgebyr dersom overtredelsen ble begått av noen 
 
 Adgangen til å ilegge overtredelsesgebyr foreldes 2 år etter at overtredelsen er opphørt. Fristen avbrytes ved at tilsynsmyndigheten gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.
 
+> **Endres** ved lov [19 juni 2026 nr. 55](lov/2026-06-19-55) (i kraft 1 jan 2027 iflg. [res. 19 juni 2026 nr. 1150](forskrift/2026-06-19-1150)).
+
 ## § 15. Straff
 
 I forskrift etter [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11) kan det bestemmes at forsettlig eller uaktsom overtredelse av forskriften straffes med bøter.
+
+> **Endres** ved lov [19 juni 2026 nr. 55](lov/2026-06-19-55) (i kraft 1 jan 2027 iflg. [res. 19 juni 2026 nr. 1150](forskrift/2026-06-19-1150)).
 
 ## § 16. Ikrafttredelse
 
