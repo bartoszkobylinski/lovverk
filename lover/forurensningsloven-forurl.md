@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "1983-10-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-19"
 last_updated: "2023-01-10"
-xml_hash: "918ba4fa2208a58da828b925c8ea965d69a598f7d02d2aae95b548b0de8db9d1"
+xml_hash: "ec5c71366aef0b3b7f0393c3f108a1049c81493c6ce7dd688e91de8f52846a00"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009R1221"
@@ -47,13 +47,13 @@ Gjennomføringen av loven skal skje etter disse retningslinjer:Det skal arbeides
 
 Loven gjelder forurensninger og avfall i det ytre miljø. For utslipp av genmodifiserte mikroorganismer og deponering av slike som avfall i miljøet gjelder [genteknologiloven](lov/1993-04-02-38).
 
-Med de begrensninger som følger av folkeretten gjelder lovenfor forurensningskilder og avfall og kilder for avfall som befinner seg her i riket,for forurensninger som truer med å inntreffe her i riket,for forurensningskilder som befinner seg i eller forurensning som truer med å inntreffe i Norges økonomiske sone dersom forurensningskilden er norsk fartøy eller innretning, eller forøvrig i den utstrekning Kongen bestemmer. Lovens anvendelse for undersøkelse etter, utvinning og utnytting av undersjøiske naturforekomster på den norske del av kontinentalsokkelen, herunder avslutning av slik virksomhet, er regulert i [§ 4](lov/1981-03-13-6/§4).
+Med de begrensninger som følger av folkeretten gjelder lovenfor forurensningskilder og avfall og kilder for avfall som befinner seg her i riket,for forurensninger som truer med å inntreffe her i riket,for forurensningskilder som befinner seg i eller forurensning som truer med å inntreffe i Norges økonomiske sone dersom forurensningskilden er norsk fartøy eller innretning, eller forøvrig i den utstrekning Kongen bestemmer,for undersøkelse etter og utvinning og utnytting av undersjøiske naturforekomster på den norske del av kontinentalsokkelen, herunder avslutning av slik virksomhet, jf. [§ 4](lov/1981-03-13-6/§4). For annen aktivitet på kontinentalsokkelen og utenfor norske jurisdiksjonsområder gjelder loven i den utstrekning Kongen bestemmer.
 
 Loven gjelder ikke for Svalbard. For Jan Mayen og bilandene gjelder loven i den utstrekning Kongen bestemmer. Forurensningsmyndigheten kan for disse områder fastsette de endringer i loven som de stedlige forhold tilsier.
 
 Om erstatningsansvar for forurensningsskade gjelder særlige regler, jf. [§ 53](lov/1981-03-13-6/§53).
 
-> Endret ved [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [2 apr 1993 nr. 38](lov/1993-04-02-38), [11 juni 1993 nr. 107](lov/1993-06-11-107), [21 juni 1996 nr. 36](lov/1996-06-21-36), [15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)).
+> Endret ved [lover 16 juni 1989 nr. 67](lov/1989-06-16-67), [2 apr 1993 nr. 38](lov/1993-04-02-38), [11 juni 1993 nr. 107](lov/1993-06-11-107), [21 juni 1996 nr. 36](lov/1996-06-21-36), [15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 4. (lovens anvendelse for virksomhet på kontinentalsokkelen)
 
@@ -69,13 +69,13 @@ Forurensningsmyndigheten kan ved forskrift eller enkeltvedtak fastsette hva som 
 
 For forurensning fra veger, jernbane o.l., havner og flyplasser gjelder loven her så langt forurensningsmyndigheten bestemmer.
 
-For forurensning fra det enkelte transportmiddel gjelder det som er fastsatt i eller i medhold av [produktkontrolloven](lov/1976-06-11-79), [vegtrafikkloven](lov/1965-06-18-4), [skipssikkerhetsloven](lov/2007-02-16-9), [havne- og farvannsloven](lov/2019-06-21-70), [luftfartsloven](lov/1993-06-11-101) og [jernbaneloven](lov/1993-06-11-100) i stedet for bestemmelsene i denne loven.
+For forurensning fra det enkelte transportmiddel gjelder det som er fastsatt i eller i medhold av [produktkontrolloven](lov/1976-06-11-79), [vegtrafikkloven](lov/1965-06-18-4), [skipssikkerhetsloven](lov/2007-02-16-9), [havne- og farvannsloven](lov/2019-06-21-70), [luftfartsloven](lov/1993-06-11-101) og [jernbaneloven](lov/1993-06-11-100) i stedet for bestemmelsene i denne loven. Loven gjelder likevel for klimagassutslipp fra aktiviteten transport av klimagasser som er omfattet av [klimakvoteloven § 3](lov/2004-12-17-99/§3).
 
 Uansett bestemmelsen i annet ledd gjelder [lovens § 7](lov/1981-03-13-6/§7) annet og fjerde ledd, [kap. 6](lov/1981-03-13-6/kap6) og [§§ 74-77](lov/1981-03-13-6/§74) tilsvarende dersom ikke forurensningen må anses for tillatt i medhold av annen lovgivning. For gjennomføring av og ved overtredelse av disse bestemmelsene gjelder reglene i [kap. 7](lov/1981-03-13-6/kap7), [§ 74](lov/1981-03-13-6/§74) og i [kap. 10](lov/1981-03-13-6/kap10).
 
 Begrensninger i lovens anvendelse som følge av paragrafen her gjelder bare så langt ikke annet følger av [kap. 8](lov/1981-03-13-6/kap8).
 
-> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [11 juni 1993 nr. 100](lov/1993-06-11-100), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [18 des 2020 nr. 159](lov/2020-12-18-159) (ikr. 1 jan 2021).
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [11 juni 1993 nr. 100](lov/1993-06-11-100), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [18 des 2020 nr. 159](lov/2020-12-18-159) (ikr. 1 jan 2021), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ## Kap. 2. Alminnelige bestemmelser om forurensninger.
 
@@ -135,7 +135,7 @@ For andre skader eller ulemper enn det som skyldes forurensning gjelder [grannel
 
 Forurensningsmyndigheten kan etter søknad gi tillatelse til virksomhet som kan medføre forurensning. Forurensningsmyndigheten kan i særlige tilfeller gi tillatelse uten at det foreligger søknad, og i slik tillatelse gi pålegg som trer i stedet for vilkår etter [§ 16](lov/1981-03-13-6/§16).
 
-Kvotepliktig etter [klimakvoteloven § 4](lov/2004-12-17-99/§4) skal etter søknad innvilges tillatelse til kvotepliktige utslipp av klimagasser så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte. Kongen kan i utslippstillatelsen sette vilkår i medhold av [§ 16](lov/1981-03-13-6/§16). Det skal ikke settes noen utslippsgrenseverdi i tillatelsen. Tillatelsen gjelder så langt det innleveres kvoter i henhold til plikten i [klimakvoteloven § 13](lov/2004-12-17-99/§13).
+En operatør som omfattes av [klimakvoteloven § 4 a](lov/2004-12-17-99/§4a), skal etter søknad innvilges tillatelse etter denne loven så fremt han godtgjør at han er i stand til å overvåke og rapportere utslippene på en tilfredsstillende måte. Kongen kan i tillatelsen sette vilkår i medhold av [§ 16](lov/1981-03-13-6/§16). Det skal ikke settes noen utslippsgrenseverdi i tillatelsen. Utslippene er lovlige etter denne loven så langt det innleveres kvoter i henhold til plikten i [klimakvoteloven § 4](lov/2004-12-17-99/§4).
 
 Forurensningsmyndigheten kan gi forskrifter om at den som vil drive visse slag virksomheter som etter sin art kan medføre forurensninger, må søke om tillatelse etter denne paragraf.
 
@@ -143,7 +143,7 @@ Forurensningsspørsmål skal om mulig søkes løst for større områder under et
 
 Når forurensningsmyndigheten avgjør om tillatelse skal gis og fastsetter vilkårene etter [§ 16](lov/1981-03-13-6/§16), skal det legges vekt på de forurensningsmessige ulemper ved tiltaket sammenholdt med de fordeler og ulemper som tiltaket for øvrig vil medføre.
 
-> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [14 juni 1985 nr. 77](lov/1985-06-14-77), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)).
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [14 juni 1985 nr. 77](lov/1985-06-14-77), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 12. (innhold av søknad)
 
@@ -201,7 +201,7 @@ Pålegg etter første og annet ledd kan gis også etter at tillatelse til forure
 
 Forurensningsmyndigheten kan oppheve eller endre vilkårene i tillatelse etter loven her eller etter forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig kalle tillatelsen tilbake dersomdet viser seg at skaden eller ulempen ved forurensningen blir vesentlig større eller annerledes enn ventet da tillatelse ble gitt,skaden eller ulempen kan reduseres uten urimelig kostnad for forurenseren,ny teknologi gjør det mulig å minske forurensningene i vesentlig grad,vilkårene i tillatelsen er unødvendige for å motvirke forurensninger,de fordeler forurenseren eller andre får av at vilkår blir lempet på eller opphevet, er vesentlig større enn de skader eller ulemper det vil føre til for miljøet, ellerdet forøvrig følger av ellers gjeldende omgjøringsregler.
 
-Tillatelse gitt i medhold av [§ 11](lov/1981-03-13-6/§11) annet ledd tilbakekalles eller endres dersom kvoteplikten etter [klimakvoteloven § 4](lov/2004-12-17-99/§4) opphører.
+Tillatelse gitt i medhold av [§ 11 annet ledd](lov/1981-03-13-6/§11/ledd/2) kan tilbakekalles eller endres dersom operatørens aktiviteter helt eller delvis ikke lenger omfattes av [klimakvoteloven § 3](lov/2004-12-17-99/§3).
 
 Tillatelse kan i alle tilfeller tilbakekalles eller endres når det har gått 10 år etter at den ble gitt.
 
@@ -209,7 +209,7 @@ Tillatelse kan endres når dette er påkrevet etter regler som gjennomfører dir
 
 Ved avgjørelser etter første og tredje ledd skal det tas hensyn til kostnadene en endring eller omgjøring vil påføre forurenseren og de fordeler og ulemper endring eller omgjøring for øvrig vil medføre.
 
-> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [16 juni 2023 nr. 61](lov/2023-06-16-61) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 954](forskrift/2023-06-16-954)).
+> Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [17 des 2004 nr. 99](lov/2004-12-17-99) (ikr. 1 jan 2005), [16 juni 2023 nr. 61](lov/2023-06-16-61) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 954](forskrift/2023-06-16-954)), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 19. (meldeplikt ved utskiftning av utstyr eller økning av forurensningene)
 
