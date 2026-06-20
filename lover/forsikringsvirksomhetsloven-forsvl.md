@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-05"
-xml_hash: "f78ac4fc4dc9f3249fdc1ef7c52d9327ee24310553cdaf22270abb047dc61b83"
+xml_hash: "994fd90a2c30c0f8113d47df34c4d81fe2c2d6472c70bfcf12544fd7e5298e02"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32016L2341"
@@ -1014,7 +1014,7 @@ Finanstilsynet avgjør i tvilstilfelle om et foretak faller inn under første le
 
 ## Kapittel 9. Straffebestemmelser
 
-> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)).
+> Overskriften endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)). Kapittelet **endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-1. Straffeansvar
 
@@ -1022,7 +1022,7 @@ Tillits- eller tjenestemenn i institusjoner som er underlagt denne lov og som fo
 
 Hvis et pålegg av tilsynet ikke blir etterkommet, kan vedkommende departement bestemme at de personer og/eller den institusjon, institusjonens morselskap eller morselskapet i det konsern institusjonen er en del av, som skal oppfylle pålegget, skal betale en daglig løpende mulkt til forholdet er rettet. Pålegg om mulkt er tvangsgrunnlag for utlegg.
 
-> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 16-1).
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 16-1). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 9-4).
 
 ## Kapittel 10. Ikrafttredelses- og overgangsregler
 
