@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1968-01-01"
 last_change_in_force: "2024-05-24"
 last_updated: "2025-01-08"
-xml_hash: "012e1ca8571ffe8a2c0ea62c1425293a5edb9cd62f699f1ffde55fbe039e8b31"
+xml_hash: "53048c1c81bee9b4862f1f16f74555569a7a6c03582e1e1e2e49556247c2e7fb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009R0469"
@@ -570,7 +570,7 @@ Søksmål som gjelder et patent, en patentsøknad eller et supplerende beskyttel
 
 Partene kan påklage Patentstyrets nektelse av å foreta anmerkning etter paragrafen her til Klagenemnden. Klagen må være innkommet til Patentstyret innen to måneder fra den dagen melding om nektelsen ble sendt vedkommende part. Det skal betales fastsatt gebyr, ellers opptas ikke klagen til behandling. Er vilkårene for å behandle klagen oppfylt, kan Patentstyret endre avgjørelsen hvis det finner at klagen er begrunnet. Blir det ikke truffet slik avgjørelse, skal saken sendes til Klagenemnden. Klagenemndens leder kan alltid avgjøre klager etter leddet her alene.
 
-> Endret ved lover [8 feb 1980 nr. 2](lov/1980-02-08-2), [26 juni 1992 nr. 86](lov/1992-06-26-86), [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 jan 1997 iflg. [res. 20 des 1996 nr. 1153](forskrift/1996-12-20-1153)), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se dens VII), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+> Endret ved lover [8 feb 1980 nr. 2](lov/1980-02-08-2), [26 juni 1992 nr. 86](lov/1992-06-26-86), [22 des 1995 nr. 82](lov/1995-12-22-82) (ikr. 1 jan 1997 iflg. [res. 20 des 1996 nr. 1153](forskrift/1996-12-20-1153)), [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se dens VII), [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 44 a
 
