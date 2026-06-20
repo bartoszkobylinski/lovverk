@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-08"
-xml_hash: "4731e8e5a8948e368db0bb1514c99554f02db2d3974480cfe0594a929a362f4f"
+xml_hash: "e14fb95ad90675b7243f10846516263ee86c9819cba64bc86b576bab4864637b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -296,7 +296,7 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (8) Når hensynet til helse, miljø og sikkerhet tilsier det, kan departementet i forskrift gi bestemmelser om at virksomheter som tilbyr renholdstjenester eller tjenester i forbindelse med vedlikehold og reparasjon av motorvogn, må godkjennes av Arbeidstilsynet, og om det nærmere innholdet i en slik godkjenningsordning. Når det stilles krav om slik godkjenning, vil det være ulovlig å benytte tjenester fra virksomheter uten godkjenning.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 2 9 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 2 9 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)). **Endres** ved lov [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139)).
 
 ### § 4-2. Krav til tilrettelegging, medvirkning og utvikling
 
@@ -1076,7 +1076,7 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten. 
 
 (8) Sjette ledd gjelder ikke ved konkurs, offentlig skifte av insolvent dødsbo eller ved overdragelse av virksomhet etter at det er åpnet gjeldsforhandlinger.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-3. Fortrinnsrett for deltidsansatte
 
