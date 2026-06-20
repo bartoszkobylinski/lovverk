@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "880f1118521045bb24d80fdf5246ccdba3e000a945e8ac729f0febe193114219"
+xml_hash: "ed724ed428cbb322bddce1e029fc17097974fbb4c2e1f57aa7a778b96c4befbe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32023R1114"
@@ -102,6 +102,8 @@ Finanstilsynet fører tilsyn med foretak som har tillatelse til å drive virksom
 (1) Dersom styremedlemmer, andre tillitsvalgte, oppdragstakere eller ansatte i en kryptoeiendelstjenesteyter har overtrådt eller medvirket til overtredelse av bestemmelser gitt i eller i medhold av loven her, kan Finanstilsynet fatte vedtak om at vedkommende ikke kan ha ledelsesfunksjon i en kryptoeiendelstjenesteyter dersom overtredelsen eller medvirkningen til denne medfører at vedkommende må anses uskikket til å ha slik ledelsesfunksjon.
 
 (2) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## § 11. Administrativ inndragning
 
