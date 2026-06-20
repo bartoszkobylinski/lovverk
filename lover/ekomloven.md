@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2025-12-19"
 last_updated: null
-xml_hash: "d5e91e25c81883d7e1d71aeea0d7f564d1bbf331cb5a01d6b44a6a2ad5cd1265"
+xml_hash: "6a77414d3177102a9c59180acb3118d794d57935505b0b3af7ccf1c69ec4fc6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32002D0676"
@@ -166,6 +166,8 @@ Når det som følge av konkursåpning hos en tilbyder oppstår fare for driftsst
 Etter påleggets utløp er pålagt drift etter tredje ledd uten innvirkning på boets rett til å velge om det vil tre inn i skyldneres avtaler etter [dekningsloven § 7-3](lov/1984-06-08-59/§7-3), og uten innvirkning på boets ansvar etter [dekningsloven § 7-4](lov/1984-06-08-59/§7-4). Avtalefestet oppsigelsestid og frister for oppsigelse i [dekningsloven § 7-6 første ledd](lov/1984-06-08-59/§7-6/ledd/1) er ikke til hinder for at pålegg om å tre inn i løpende avtale gis for en periode som angitt i fjerde ledd i bestemmelsen her.
 
 Departementet kan fatte enkeltvedtak om innholdet i planene etter første ledd, herunder pålegge tilbyder å utarbeide en ny plan, og kan i særlige tilfeller unnta tilbyder fra plikten til å utarbeide planer. Departementet kan gi forskrift om planer etter første ledd, om innholdet i planene, om unntak fra plikten til å utarbeide planer, og om sikring av fortsatt levering i situasjoner etter tredje ledd.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 3. Sikkerhet og kommunikasjonsvern
 
