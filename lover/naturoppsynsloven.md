@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1996-06-21"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-01"
-xml_hash: "37dc1231ab97a4992a0e07242e0840d8965d463acda1e04ac76a7e54fbfe3b10"
+xml_hash: "d5bc12609f5f349630a42625b405977c6ec238ae094caff1646e4e65d3dcc784"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Departementet kan pålegge oppsynet andre oppgaver.
 
 På Finnmarkseiendommens grunn skal oppsynet føre den ytterligere kontroll som departementet og Finnmarkseiendommen avtaler.
 
-> Endret ved lover [17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [5 juni 2009 nr. 35](lov/2009-06-05-35) (ikr. 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](forskrift/2009-06-05-618)), [17 sep 2010 nr. 57](lov/2010-09-17-57), [14 juni 2013 nr. 49](lov/2013-06-14-49), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lover [17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [5 juni 2009 nr. 35](lov/2009-06-05-35) (ikr. 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](forskrift/2009-06-05-618)), [17 sep 2010 nr. 57](lov/2010-09-17-57), [14 juni 2013 nr. 49](lov/2013-06-14-49), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ## § 3. Oppsynets fullmakter
 
