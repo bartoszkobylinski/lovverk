@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1997-05-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-09"
-xml_hash: "8727219a0714c4c9a020e32cb3f7b69230ab485a87f6b6e82d8db4da642a6a33"
+xml_hash: "3a311077a4fd8f31587149b5df276d3e3472c4ee3821e424e412617461ece73d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -4663,7 +4663,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om behandling av opplysni
 
 Innkrevingsmyndigheten eller den Helsedirektoratet bestemmer, opptrer på vegne av staten ved tvangsforretning for namsmannen og annen rettslig inndriving og sikring av krav som skriver seg fra direktoratets forvaltning av [kapittel 5](lov/1997-02-28-19/kap5) samt forhandlinger etter [gjeldsordningsloven](lov/1992-07-17-99).
 
-> Tilføyd ved lov [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), endret ved lover [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 juni 2009 nr. 66](lov/2009-06-19-66) (ikr. 19 juni 2009 iflg. [res. 19 juni 2009 nr. 838](forskrift/2009-06-19-838)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [lov 18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Tilføyd ved lov [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), endret ved lover [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 juni 2009 nr. 66](lov/2009-06-19-66) (ikr. 19 juni 2009 iflg. [res. 19 juni 2009 nr. 838](forskrift/2009-06-19-838)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [lov 18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 21-11 b. Saksbehandling m.m. i saker etter kapittel 21, 22 og 25 med tilknytning til ytelser etter kapittel 5 Stønad ved helsetjenester
 
@@ -4831,7 +4831,7 @@ Når det er utbetalt stønad etter [lov 29. april 2005 nr. 21](lov/2005-04-29-21
 
 ### § 22-9. (Opphevet)
 
-> Endret ved lov [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), opphevet ved lov [15 juni 2001 nr. 37](lov/2001-06-15-37) (ikr. 1 okt 2003 iflg. [res. 31 jan 2003 nr. 78](forskrift/2003-01-31-78)).
+> Endret ved lov [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), opphevet ved lov [15 juni 2001 nr. 37](lov/2001-06-15-37) (ikr. 1 okt 2003 iflg. [res. 31 jan 2003 nr. 78](forskrift/2003-01-31-78)). **Tilføyes** ved lov [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft fra den tid Kongen bestemmer).
 
 ### § 22-10. Utbetalingsterminer
 
