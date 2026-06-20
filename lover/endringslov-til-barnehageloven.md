@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "6e5ec9271574261e8c438c65ad4c4467db719164c0071cea40f48bed4812a4a2"
+xml_hash: "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,9 +64,7 @@ Kommunen avgjør søknader om godkjenning av barnehagedriften og endringer av dr
 
 Kommunen kan ved godkjenningen av barnehagedriften sette krav om antall barn, barnas alder og oppholdstid begrunnet i barnehagens egnethet ut fra formål og innhold, jf. [§§ 1](lov/2005-06-17-64/§1), [1 a](lov/2005-06-17-64/§1a) og [2](lov/2005-06-17-64/§2).
 
-Departementet kan gi forskrift om midlertidig godkjenning ved etablering av barnehager og barnehageplasser som opprettes for å dekke et midlertidig behov som følge av at det kommer svært mange fordrevne barn under opplæringspliktig alder fra Ukraina.
-
-Departementet kan gi forskrift om unntak fra kravene til organisering i [§ 7 a](lov/2005-06-17-64/§7a) for ordinære barnehager som har fått midlertidig godkjenning etter forskrift med hjemmel i første ledd.
+> Opphevet ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59).
 
 Kommunen kan godkjenne etablering av private familiebarnehager og endringer ved godkjente familiebarnehager. Reglene i [§§ 14](lov/2005-06-17-64/§14) og [19](lov/2005-06-17-64/§19) gjelder tilsvarende.
 
