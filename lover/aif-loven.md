@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2026-04-01"
 last_updated: "2022-03-24"
-xml_hash: "e687b0fe020525bc107036cfb952db2f3a1e8bb1aef7a6625cd1ee0c33b8d14e"
+xml_hash: "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32011L0061"
@@ -701,7 +701,7 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 (4) Dersom tillatelsen til en forvalter som driver virksomhet i en annen EØS-stat, bortfaller eller blir kalt tilbake, skal Finanstilsynet underrette tilsynsmyndighetene i vertsstaten.
 
-> Endret ved [lover 21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802)), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)).
+> Endret ved [lover 21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802)), [20 des 2024 nr. 93](lov/2024-12-20-93) (i kraft 1 jan 2025 iflg. [res. 20 des 2024 nr. 3303](forskrift/2024-12-20-3303)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-4 a. Oppnevning av administrator
 
@@ -751,7 +751,7 @@ Finanstilsynet fører tilsyn med overholdelse av denne lovs bestemmelser etter r
 
 (10) Departementet kan fastsette forskrift om renter ved forsinket betaling av overtredelsesgebyr.
 
-> Tilføyd ved lov [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), endret ved lover [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd bokstav d), [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 feb 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd bokstav e), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214), gjelder første ledd ny bokstav g), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 okt 2024 iflg. [res. 9 aug 2024 nr. 1913](forskrift/2024-08-09-1913)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 april 2025 iflg. [res. 21 mars 2025 nr. 481](forskrift/2025-03-21-481), gjelder første ledd bokstav f).
+> Tilføyd ved lov [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), endret ved lover [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd bokstav d), [18 juni 2021 nr. 101](lov/2021-06-18-101) (i kraft 1 feb 2023 iflg. [res. 16 des 2022 nr. 2265](forskrift/2022-12-16-2265), gjelder første ledd bokstav e), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214), gjelder første ledd ny bokstav g), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 okt 2024 iflg. [res. 9 aug 2024 nr. 1913](forskrift/2024-08-09-1913)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 april 2025 iflg. [res. 21 mars 2025 nr. 481](forskrift/2025-03-21-481), gjelder første ledd bokstav f). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-7. Momenter ved ileggelse av overtredelsesgebyr
 
