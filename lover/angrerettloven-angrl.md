@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-06-20"
 last_change_in_force: "2023-10-01"
 last_updated: "2023-06-15"
-xml_hash: "4bce1e0ac8d3b98925f6b493ffbfa0b23f3a6dc166bb4ebd6f805ff55377652d"
+xml_hash: "6df16f7a1beb2c8712ba68ac27cac2da22fa831063fab660d736f04ff04b6238"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "31993L0013"
@@ -44,7 +44,7 @@ Loven gjelder for Svalbard og Jan Mayen. Departementet kan likevel i forskrift b
 
 Loven gjelder ikke for:avtaler om salg av varer og tjenester fra salgsautomater og automatiserte forretningslokaler,avtaler om salg eller oppføring av fast eiendom og avtaler som gjelder rettigheter i fast eiendom, med unntak av utleie. Som salg av fast eiendom regnes også salg av adkomstdokumenter med tilknyttet leierett eller borett i bolig,avtaler som omfattes av [lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)](lov/2012-05-25-27),avtaler om pakkereiser, jf. [pakkereiseloven § 6](lov/2018-06-15-32/§6),avtaler om persontransporttjenester. Kravene i [§ 16](lov/2014-06-20-27/§16) får likevel anvendelse,avtaler som omfattes av [finansavtaleloven](lov/1999-06-25-46) og [forsikringsavtaleloven](lov/1989-06-16-69),avtaler om salg av varer og tjenester utenom faste forretningslokaler når den samlede kontraktssummen, inkludert frakt- og tilleggskostnader som forbrukeren skal betale, er 300 kr eller mindre,avtaler som er inngått med ekomtilbyder gjennom offentlig tilgjengelige betalingstelefoner for bruk av disse, eller som er inngått for bruk av én enkelt telefon-, Internett- eller telefaksforbindelse opprettet av en forbruker,avtaler om pengespill.avtaler om salg av varer som selges på tvangsauksjon eller på annen måte tvangsmessig i henhold til lov.
 
-> Endret ved lover [15 juni 2018 nr. 32](lov/2018-06-15-32) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885)), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), [16 juni 2023 nr. 39](lov/2023-06-16-39), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Endret ved lover [15 juni 2018 nr. 32](lov/2018-06-15-32) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885)), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), [16 juni 2023 nr. 39](lov/2023-06-16-39), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3. Ufravikelighet
 
@@ -58,7 +58,7 @@ Loven medfører ingen begrensninger i opplysningsplikt eller krav til avtalen so
 
 I loven menes med:*forbruker*: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,*fjernsalg*: avtale inngått ved organisert ordning for salg eller tjenesteyting uten at den næringsdrivende og forbrukeren er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler,*faste forretningslokaler*: sted for detaljsalg der den næringsdrivende utøver sin faste virksomhet, eller flyttbare forretningslokaler for detaljsalg der den næringsdrivende vanligvis utøver sin virksomhet,*avtale inngått utenom faste forretningslokaler*: avtale der forbrukeren inngår avtale eller fremsetter tilbud i nærvær av den næringsdrivende på annet sted enn dennes faste forretningslokaler, samt avtale inngått i den næringsdrivendes faste forretningslokaler eller gjennom et fjernkommunikasjonsmiddel umiddelbart etter en personlig og individuelt rettet henvendelse til forbrukeren i en situasjon som omfattes av første alternativ,*finansiell tjeneste*: banktjeneste, kredittjeneste, forsikringstjeneste, individuell pensjonstjeneste, investeringstjeneste, eller betalingstjeneste,*varig medium*: enhver innretning som gjør forbrukeren eller den næringsdrivende i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelige i uendret form,*tilknyttet avtale*: avtale der forbrukeren mottar varer eller tjenester i forbindelse med en fjernsalgsavtale eller en avtale inngått utenom faste forretningslokaler, og der varene leveres eller tjenestene ytes av den næringsdrivende eller en tredjeperson på grunnlag av en ordning mellom en tredjeperson og den næringsdrivende,*offentlig auksjon*: salgsmetode der varer eller tjenester tilbys av den næringsdrivende til forbrukere, der forbrukeren er personlig til stede eller har mulighet til å være til stede, ved en åpen, konkurransebasert budprosedyre som ledes av en auksjonarius, og der budgiveren som får tilslaget, må kjøpe varene eller tjenestene,*digitalt innhold*: data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn,*digital tjeneste*: tjeneste som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data,*nettbasert markedsplass*: enhver tjeneste som bruker programvare, herunder et nettsted eller en applikasjon, som drives av eller på vegne av en næringsdrivende, og som gir forbrukere mulighet til å inngå fjernsalgsavtaler med andre næringsdrivende eller forbrukere,*tilbyder av en nettbasert markedsplass*: enhver næringsdrivende som stiller til rådighet en nettbasert markedsplass for forbrukerne,*kompatibilitet*: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med maskinvare eller programvare som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med, uten at det digitale innholdet eller den digitale tjenesten må konverteres,*funksjonalitet*: evnen digitalt innhold eller digitale tjenester har til å fungere med hensyn til formålet,*samvirkingsevne*: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med annen maskinvare eller programvare enn den som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med.
 
-> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6. Fristberegning
 
@@ -86,7 +86,7 @@ Ved offentlige auksjoner er det tilstrekkelig at opplysningene i første ledd bo
 
 Departementet kan i forskrift gi nærmere bestemmelser om standardisert angreskjema, samt om hvordan opplysningsplikten skal oppfylles, herunder at opplysninger om angreretten skal gis ved bruk av et standardisert skjema for opplysninger om angrerett.
 
-> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+> Endret ved lov [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9. Virkningen av brudd på visse opplysningsplikter
 
@@ -158,6 +158,8 @@ Den næringsdrivende skal påse at forbrukeren uttrykkelig erkjenner at bestilli
 
 Overholder ikke den næringsdrivende bestemmelsen i annet ledd, blir forbrukeren ikke bundet av avtalen eller bestillingen.
 
+> **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
+
 ### § 17. Leveringsbegrensninger og betalingsmidler
 
 Nettsteder for elektronisk handel skal klart og tydelig og senest på det tidspunktet bestillingsprosessen begynner, opplyse om eventuelle leveringsbegrensninger. Det skal også opplyses om hvilke betalingsmidler som aksepteres.
@@ -187,6 +189,12 @@ Meldingen kan fremsettes ved bruk av utfylt angreskjema eller ved fremsettelse a
 Dersom den næringsdrivende gir forbrukeren adgang til å gi melding etter annet ledd elektronisk, skal den næringsdrivende umiddelbart bekrefte på et varig medium at meldingen er mottatt.
 
 Bevisbyrden for at melding er gitt, påhviler forbrukeren.
+
+> **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
+
+### § 20 a. Elektronisk angrefunksjon for avtaler inngått ved hjelp av et nettbasert grensesnitt
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
 ### § 21. Angrefristen
 
