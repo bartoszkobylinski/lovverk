@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-25"
-xml_hash: "fd64125d5dfac0f31cbff2e59af5e0d9c730c5f629d3ab71c1d0c23f82a11052"
+xml_hash: "f4fd016dc9da37531d493568a04e4cbcf137dcea9505fa7d624fa3aac9052f1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -260,7 +260,7 @@ Den alminnelige namsmannen er sekretariat for forliksrådene i sitt distrikt. Ko
 
 Kommuner som har samme sekretariat for forliksrådet og dessuten ligger i samme domssogn, kan med tilslutning av minst 2/3 av hver av kommunestyrenes medlemmer beslutte å ha felles forliksråd dersom kommunene samtidig er enige om hvor mange medlemmer og varamedlemmer hver kommune skal velge, og om hvordan det skal sikres at det blant både medlemmene og varamedlemmene er både kvinner og menn. Felles forliksråd kan opprettes uavhengig av funksjonsperioden etter [§ 57](lov/1915-08-13-5/§57).
 
-> Endret ved lover [17 des 1982 nr. 86](lov/1982-12-17-86), [27 juni 1986 nr. 48](lov/1986-06-27-48), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563).
+> Endret ved lover [17 des 1982 nr. 86](lov/1982-12-17-86), [27 juni 1986 nr. 48](lov/1986-06-27-48), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 28
 
@@ -728,7 +728,7 @@ Ved Høyesterett kan det ansettes et eller flere stevnevitner til å utføre for
 
 Stevnevitner skal avgi forsikring til vedkommende rett om at de samvittighetsfullt vil oppfylle sine plikter som stevnevitne. Kongen fastsetter hvordan forsikringen skal lyde.
 
-> Endret ved lover 14 aug 1918 nr. 4 § 84, [18 juni 1965 nr. 5](lov/1965-06-18-5), 2 mars 1973 nr. 12, [17 des 1982 nr. 86](lov/1982-12-17-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563).
+> Endret ved lover 14 aug 1918 nr. 4 § 84, [18 juni 1965 nr. 5](lov/1965-06-18-5), 2 mars 1973 nr. 12, [17 des 1982 nr. 86](lov/1982-12-17-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 63a
 
@@ -814,7 +814,7 @@ Den som velges, må ha tilstrekkelige norskkunnskaper, og for øvrig være perso
 
 I tillegg må vedkommendevære over 21 år og under 70 år, ved valgperiodens start,ikke være fradømt stemmeretten i offentlige anliggender,ikke være under offentlig gjeldsforhandling eller konkursbehandling eller i konkurskarantene,stå innført i folkeregisteret som bosatt i kommunen på valgdagen, ogvære statsborger i Norge eller et annet nordisk land, eller ha stått innført i folkeregisteret som bosatt i riket de tre siste år før valgdagen.
 
-> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [22 mai 1981 nr. 27](lov/1981-05-22-27), [23 juni 1995 nr. 34](lov/1995-06-23-34), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)).
+> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [22 mai 1981 nr. 27](lov/1981-05-22-27), [23 juni 1995 nr. 34](lov/1995-06-23-34), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 71
 
@@ -1680,7 +1680,7 @@ Notarius og stevnevitne plikter å gi bevitnelse om noen krever det.
 
 Det skrift som skal forkynnes kan overgis i lukket omslag. Omslaget må være forsynt med en bevitnelse, som angir, hvem som lar forkynningen utføre, og det, som ellers er nødvendig for å betegne skriftet, hvis ikke forkynningen foregår postalt etter [§ 163 a](lov/1915-08-13-5/§163a) eller gjennom rekommandert brev etter [§ 178](lov/1915-08-13-5/§178). Bevitnelsen gis av en offentlig tjenestemann eller en advokat, og omslaget lukkes med hans segl. [§ 162](lov/1915-08-13-5/§162) andet led faar anvendelse.
 
-> Endret ved lover [14 feb 1969 nr. 9](lov/1969-02-14-9), [7 juni 1985 nr. 56](lov/1985-06-07-56), [9 jan 1998 nr. 5](lov/1998-01-09-5).
+> Endret ved lover [14 feb 1969 nr. 9](lov/1969-02-14-9), [7 juni 1985 nr. 56](lov/1985-06-07-56), [9 jan 1998 nr. 5](lov/1998-01-09-5). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 163 a
 
@@ -2072,7 +2072,7 @@ Spørsmål om ansvar i anledning av en sak om tvangsfullbyrdelse eller midlertid
 
 Spørsmål om ansvar i anledning av etterforskning kan bringes inn for tingretten på stedet for den påklagede handling, såfremt det ikke er noen annen rett som spørsmålet kan bringes inn for etter foranstående regler.
 
-> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 214
 
