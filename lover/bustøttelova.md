@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-26"
-xml_hash: "d0596f2f3fc5db930ce9a5ee1482231f53c2d3beb2ead8900591b1737bef87dc"
+xml_hash: "134f35dd2874ba29f0130af1df3922351662a50ac3bac774e4125455ac617398"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,7 @@ Husbanken og kommunane kan utan hinder av teieplikt påleggje offentlege styresm
 
 Når allmenne interesser tilseier det, kan departementet med forskrift eller i enkelttilfelle samtykkje i at opplysningane i bustøtteregisteret kan bli brukte av andre offentlege styresmakter.
 
-> Endra ved [lover 19 juni 2015 nr. 69](lov/2015-06-19-69) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 665](forskrift/2015-06-19-665)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [4 des 2020 nr. 137](lov/2020-12-04-137) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2591](forskrift/2020-12-04-2591)).
+> Endra ved [lover 19 juni 2015 nr. 69](lov/2015-06-19-69) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 665](forskrift/2015-06-19-665)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [4 des 2020 nr. 137](lov/2020-12-04-137) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2591](forskrift/2020-12-04-2591)). **Vert endra** ved lov [19 juni 2026 nr. 56](lov/2026-06-19-56) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1134](forskrift/2026-06-19-1134)).
 
 ### § 8 a. Masseinnhenting av opplysningar for kontrollføremål
 
@@ -115,6 +115,14 @@ Kommunen, Husbanken eller særskilt utpeika einingar kan påleggje alle som kan 
 Informasjonsplikta i [personvernforordninga artikkel 14](lov/2018-06-15-38/gdpr/a14) gjeld for opplysningar som er henta inn etter paragrafen her, men den registrerte har først krav på informasjon når kontrollen er ferdig utført. Den som blir pålagd å gje opplysningar eller innsyn i dokument m.m. i medhald av paragrafen her, skal gjere det utan hinder av teieplikt. Helseopplysningar som ligg under teieplikt i helsepersonelloven, kan ikkje hentast inn etter denne føresegna. Den som blir pålagd å gje opplysningar eller innsyn i dokument, pliktar å gjere dette utan godtgjering. Reglane om bevisfritak i [tvisteloven §§ 22-8](lov/2005-06-17-90/§22-8) og [22-9](lov/2005-06-17-90/§22-9) gjeld tilsvarande.
 
 > Tilføyd ved [lov 19 juni 2015 nr. 69](lov/2015-06-19-69) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 665](forskrift/2015-06-19-665)), endra ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+
+### § 8 d. Handsaming av personopplysningar for forsking, statistikk og analysar
+
+> **Vert tilføyd** ved lov [19 juni 2026 nr. 56](lov/2026-06-19-56) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1134](forskrift/2026-06-19-1134)).
+
+### § 8 e. Handsaming av personopplysningar for test, drift og utvikling
+
+> **Vert tilføyd** ved lov [19 juni 2026 nr. 56](lov/2026-06-19-56) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1134](forskrift/2026-06-19-1134)).
 
 ### § 9. Overføring av krav på bustøtte
 
