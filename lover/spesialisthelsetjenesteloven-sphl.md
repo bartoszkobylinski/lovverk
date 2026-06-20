@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2022-03-31"
-xml_hash: "96804b01f843ece48e67cfd8c5cc1291e5480a843e80e3473ece229bb52fc11c"
+xml_hash: "5265f01e3f272cc09b19750ba3fda63eea5a473276076d0d21e5980b116faa5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -333,6 +333,10 @@ Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og bl
 Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første til fjerde ledd.
 
 > Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 2-8), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](forskrift/2020-12-04-2622)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+
+### § 3-11 a. Om medvirkning
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ### § 3-12. Henvisning fra den kommunale helse- og omsorgstjenesten og sosialtjenesten
 
