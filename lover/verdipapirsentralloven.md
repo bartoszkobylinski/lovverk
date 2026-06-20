@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "13fb1132286e0bc08120398730986a15941ec709321209bad8abbe8949f1ab26"
+xml_hash: "6137a50951df0ab413c38460a279b53115b4d1ea85a5dd0ed57954e551082a7a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32014R0909"
@@ -220,6 +220,8 @@ Verdipapirsentralen kan kalle tilbake en kontoførers tillatelse etter [§ 6-2](
 
 Beslutninger om tilbakekall etter første ledd skal behandles etter reglene om behandling av klager fastsatt i medhold av verdipapirsentralforordningen artikkel 32 nr. 2.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 6-7. Avvikling av ordningen med kontoførere
 
 Dersom en verdipapirsentral beslutter helt eller delvis å avvikle ordningen med kontoførere, skal den sende skriftlig melding til Finanstilsynet og de berørte kontoførerne senest tolv måneder før endringen trer i kraft.
@@ -294,7 +296,7 @@ Dersom noen med hjemmel i selskapslovgivning eller tilsvarende lovgivning i en a
 
 Departementet kan i forskrift gi nærmere regler om rett til innsyn, herunder utvide retten til innsyn etter bestemmelsen her og gi regler om en verdipapirsentrals adgang til å gi opplysninger til en annen verdipapirsentral som den har opprettet en forbindelse til etter verdipapirsentralforordningen artikkel 48.
 
-> Endret ved lov [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)).
+> Endret ved lov [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-4. Opplysninger til bruk for forskning
 
@@ -382,6 +384,8 @@ Meldingen skal inneholde alle relevante opplysninger om verdipapirsentralens øk
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i verdipapirsentraler med tillatelse etter denne lov.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 10-4. Krisehåndtering
 
 For verdipapirsentraler med tillatelse til å yte tilknyttede banktjenester etter verdipapirsentralforordningen artikkel 54 nr. 2 gjelder reglene i [finansforetaksloven kapittel 20](lov/2015-04-10-17/kap20) med tilhørende forskrifter.
@@ -440,6 +444,8 @@ Departementet kan i forskrift gi nærmere regler om tvangssalg av finansielle in
 
 Dersom et styremedlem, en daglig leder eller en faktisk leder i en verdipapirsentral eller i en kredittinstitusjon som er utpekt etter verdipapirsentralforordningen artikkel 54, har overtrådt en bestemmelse som nevnt i verdipapirsentralforordningen artikkel 63 nr. 1 og overtredelsen medfører at vedkommende anses uskikket til å ha ledelsesfunksjon i foretaket, kan Finanstilsynet forby vedkommende å ha slike ledelsesfunksjoner. Tilsvarende gjelder overfor andre fysiske personer som kan holdes ansvarlig for overtredelsen.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 11-9. Overtredelsesgebyr
 
 Ved overtredelse av bestemmelse som nevnt i verdipapirsentralforordningen artikkel 63 nr. 1 kan Finanstilsynet ilegge overtredelsesgebyr. Tilsvarende gjelder ved overtredelse av plikten til å underrette verdipapirsentralen eller vedkommende myndigheter om erverv eller avhendelse av aksjer etter verdipapirsentralforordningen artikkel 27 nr. 7 annet avsnitt. Finanstilsynet kan også ilegge overtredelsesgebyr ved overtredelse av [§ 2-1](lov/2019-03-15-6/§2-1), [§ 3-2](lov/2019-03-15-6/§3-2) første ledd, [§ 3-3](lov/2019-03-15-6/§3-3) annet ledd, [§ 4-1](lov/2019-03-15-6/§4-1), [§ 4-2](lov/2019-03-15-6/§4-2), [§ 4-3](lov/2019-03-15-6/§4-3) første og annet ledd, [§ 4-4](lov/2019-03-15-6/§4-4) første til femte ledd, § 4-5, [kapittel 5](lov/2019-03-15-6/kap5), [kapittel 6](lov/2019-03-15-6/kap6), [§ 10-1](lov/2019-03-15-6/§10-1) første ledd, [§ 10-2](lov/2019-03-15-6/§10-2) eller §[§ 11-3](lov/2019-03-15-6/§11-3) til [11-5](lov/2019-03-15-6/§11-5) eller forskrifter gitt i medhold av disse bestemmelsene.
@@ -456,7 +462,7 @@ Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelse
 
 Departementet kan i forskrift gi nærmere regler om utmåling av overtredelsesgebyr.
 
-> Endret ved lov [11 juni 2021 nr. 84](lov/2021-06-11-84) (i kraft 1 juli 2023 iflg. [res. 2 sep 2022 nr. 1527](forskrift/2022-09-02-1527)).
+> Endret ved lov [11 juni 2021 nr. 84](lov/2021-06-11-84) (i kraft 1 juli 2023 iflg. [res. 2 sep 2022 nr. 1527](forskrift/2022-09-02-1527)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-10. Vurderingsmomenter for forbud mot å ha ledelsesfunksjon og vedtak om overtredelsesgebyr
 
