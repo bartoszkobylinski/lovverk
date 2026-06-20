@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "4ecef0b1f5f9b144541fd459704ab007656af05750b54fe81705dff36f807ea9"
+xml_hash: "7e003ac50b2156e0a6c33ce7d2dcf535a11a1a29e89af7db03d0ed61de8bc5e1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -363,6 +363,8 @@ Føretaksmøtet fastset godtgjersle til styremedlemer, varamedlemer og observat�
 (1) Krav om gjeldsforhandling eller konkursforhandling for føretaket kan berre setjast fram av styret.
 
 (2) Under konkurshandsaming representerer styret føretaket som konkursskuldnar.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-17. Sakshandsaminga til styret
 
