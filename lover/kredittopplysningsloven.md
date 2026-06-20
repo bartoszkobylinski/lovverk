@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-07-01"
 last_change_in_force: null
 last_updated: "2021-08-25"
-xml_hash: "691a5a6e3b1598380de6c4b371a1f08f6002a4f7ab5af6130fe47e70d8d86e7d"
+xml_hash: "bcf87bcba8fc52b05fb51a3347a1eb067aa6d23cb889a40490a95f110e13ef20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -69,6 +69,8 @@ Første ledd gjelder likevel ikke opplysninger om overtredelser av [straffeloven
 Kredittopplysninger kan innhentes fra følgende kilder:offentlig tilgjengelige kilder,inkassoforetak,Statens kartverk og virksomheter som videreformidler eiendomsopplysninger fra Statens kartverk i henhold til [forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen](forskrift/2013-12-18-1599),Folkeregisteret,Skattedirektoratet,gjeldsinformasjonsforetak,den registrerte selv,register over kredittsperrer, jf. [§ 16](lov/2019-12-20-109/§16).
 
 Opplysninger om konkurs, akkord og gjeldsforhandlinger kan bare hentes fra Brønnøysundregistrene og Norsk lysingsblad.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10. Inkassoopplysninger
 
