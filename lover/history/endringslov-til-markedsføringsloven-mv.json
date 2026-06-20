@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-034",
+  "events": [
+    {
+      "commit": "2690c0c",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 159,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-markedsføringsloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-markedsføringsloven-mv"
+}

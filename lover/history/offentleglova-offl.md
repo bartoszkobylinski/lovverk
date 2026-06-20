@@ -1,6 +1,11 @@
 # offentleglova-offl — Change history
 
-_4 events; doc_id `nl-20060519-016`._
+_5 events; doc_id `nl-20060519-016`._
+
+## 2026-06-20 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): offentleglova-offl`
+Commit: `2319227`.
 
 ## 2026-05-30 — Content updated
 Lines: +3 -3.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-047",
+  "events": [
+    {
+      "commit": "8665f78",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-skadeserstatningsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-skadeserstatningsloven"
+}

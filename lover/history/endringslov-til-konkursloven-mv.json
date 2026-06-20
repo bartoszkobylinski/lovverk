@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-048",
+  "events": [
+    {
+      "commit": "9e0025a",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 812,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-konkursloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-konkursloven-mv"
+}

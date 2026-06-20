@@ -2,6 +2,16 @@
   "doc_id": "nl-20210618-097",
   "events": [
     {
+      "commit": "00ce377",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 22,
+      "subject": "update(lov): barnevernsloven-bvl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "16e79ca",
       "date": "2026-06-16",
       "from_path": null,

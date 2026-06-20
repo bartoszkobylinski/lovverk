@@ -1,6 +1,16 @@
 # finansforetaksloven — Change history
 
-_2 events; doc_id `nl-20150410-017`._
+_4 events; doc_id `nl-20150410-017`._
+
+## 2026-06-20 — Content updated
+Lines: +133 -43.
+Subject: `update(lov): finansforetaksloven`
+Commit: `77a7772`.
+
+## 2026-04-29 — Filename renamed
+Lines: +9 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20150410-017.md` → `lover/finansforetaksloven.md`.

@@ -1,6 +1,11 @@
 # animaliebiproduktforskriften — Change history
 
-_4 events; doc_id `sf-20160914-1064`._
+_5 events; doc_id `sf-20160914-1064`._
+
+## 2026-06-20 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): animaliebiproduktforskriften`
+Commit: `28969eb`.
 
 ## 2026-05-06 — Content updated
 Lines: +8 -8.

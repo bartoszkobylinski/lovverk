@@ -1,6 +1,16 @@
 # svalbardloven-svalbl — Change history
 
-_2 events; doc_id `nl-19250717-011`._
+_4 events; doc_id `nl-19250717-011`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): svalbardloven-svalbl`
+Commit: `6203c1d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19250717-011.md` → `lover/svalbardloven-svalbl.md`.

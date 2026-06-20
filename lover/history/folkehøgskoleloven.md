@@ -1,6 +1,16 @@
 # folkehøgskoleloven — Change history
 
-_2 events; doc_id `nl-20250620-099`._
+_4 events; doc_id `nl-20250620-099`._
+
+## 2026-06-20 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): folkehøgskoleloven`
+Commit: `773e059`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20250620-099.md` → `"lover/folkeh\303\270gskoleloven.md"`.

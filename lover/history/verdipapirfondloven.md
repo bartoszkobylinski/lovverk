@@ -1,6 +1,16 @@
 # verdipapirfondloven — Change history
 
-_2 events; doc_id `nl-20111125-044`._
+_4 events; doc_id `nl-20111125-044`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): verdipapirfondloven`
+Commit: `3275dc3`.
+
+## 2026-04-29 — Filename renamed
+Lines: +5 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20111125-044.md` → `lover/verdipapirfondloven.md`.

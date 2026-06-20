@@ -1,6 +1,6 @@
 # Lover
 
-_749 current documents_
+_777 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -70,8 +70,10 @@ _749 current documents_
 - [bustøttelova](bustøttelova.md) — Lov om bustøtte og kommunale bustadtilskot (bustøttelova)
 - [bygdeallmenningsloven-bgdalml](bygdeallmenningsloven-bgdalml.md) — Lov om bygdeallmenninger
 - [bærekraftige-produkter-loven](bærekraftige-produkter-loven.md) — Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)
+- [cbam-loven](cbam-loven.md) — Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven)
 - [containerloven](containerloven.md) — Lov om sikre containere [containerloven]
 - [cotif-loven](cotif-loven.md) — Lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-loven)
+- [dataforvaltningsloven](dataforvaltningsloven.md) — Lov om datadeling og dataforvaltning (dataforvaltningsloven)
 - [dattersamvirkeforetaksloven](dattersamvirkeforetaksloven.md) — Lov om heleide dattersamvirkeforetak
 - [dekningsloven-deknl](dekningsloven-deknl.md) — Lov om fordringshavernes dekningsrett (dekningsloven)
 - [deltakerloven-deltl](deltakerloven-deltl.md) — Lov om retten til å delta i fiske og fangst (deltakerloven)
@@ -105,22 +107,32 @@ _749 current documents_
 - [endringslov-til-alkoholloven](endringslov-til-alkoholloven.md) — Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 - [endringslov-til-allmenngjøringsloven](endringslov-til-allmenngjøringsloven.md) — Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)
 - [endringslov-til-anskaffelsesloven](endringslov-til-anskaffelsesloven.md) — Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
+- [endringslov-til-apotekloven-legemiddelloven-mv](endringslov-til-apotekloven-legemiddelloven-mv.md) — Lov om endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860)
+- [endringslov-til-arbeidsmiljøloven-og-folketrygdloven](endringslov-til-arbeidsmiljøloven-og-folketrygdloven.md) — Lov om endringer i arbeidsmiljøloven og folketrygdloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort og trekk av fagforeningskontingent i ytelser)
 - [endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven](endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven.md) — Lov om endringer i arbeidsmiljøloven og sosialtjenesteloven (adgang til midlertidig ansettelse mv. og vilkår om aktivitet for stønad til livsopphold)
 - [endringslov-til-barnehageloven](endringslov-til-barnehageloven.md) — Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)
 - [endringslov-til-barnetrygdloven-mv-ukraina](endringslov-til-barnetrygdloven-mv-ukraina.md) — Lov om endringer i barnetrygdloven og midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
 - [endringslov-til-barnevernl-og-sosialtjenestel](endringslov-til-barnevernl-og-sosialtjenestel.md) — Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.)
 - [endringslov-til-barnevernloven](endringslov-til-barnevernloven.md) — Lov om endringer i barnevernloven
 - [endringslov-til-barnevernloven-mv](endringslov-til-barnevernloven-mv.md) — Lov om endringer i barnevernloven mv. (tverrfaglig helsekartlegging)
+- [endringslov-til-barnevernsloven](endringslov-til-barnevernsloven.md) — Lov om endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)
 - [endringslov-til-barnevernsloven-mv](endringslov-til-barnevernsloven-mv.md) — Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)
 - [endringslov-til-bilansvarslova](endringslov-til-bilansvarslova.md) — Lov om endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett)
+- [endringslov-til-bokføringsloven-mv](endringslov-til-bokføringsloven-mv.md) — Lov om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)
+- [endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven](endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven.md) — Lov om endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)
+- [endringslov-til-bustøttelova](endringslov-til-bustøttelova.md) — Lov om endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)
+- [endringslov-til-bærekraftige-produkter-loven](endringslov-til-bærekraftige-produkter-loven.md) — Lov om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv)
 - [endringslov-til-cotif-lova](endringslov-til-cotif-lova.md) — Lov om endringar i lov om Overenskomst om internasjonal jernbanetrafikk (COTIF-lova)
 - [endringslov-til-deltakerloven-og-havressurslova](endringslov-til-deltakerloven-og-havressurslova.md) — Lov om endringar i deltakerloven og havressurslova (endringar i kvotesystemet)
 - [endringslov-til-domstolloven-mv](endringslov-til-domstolloven-mv.md) — Lov om endringer i domstolloven mv. (saksfordeling m.m.)
 - [endringslov-til-eigedomsskattelova](endringslov-til-eigedomsskattelova.md) — Lov om endringer i lov 6. juni 1975 nr. 29 om eigedomsskatt til kommunane (eigedomsskattelova)
 - [endringslov-til-ekomloven](endringslov-til-ekomloven.md) — Lov om endringer i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven)
+- [endringslov-til-energiloven](endringslov-til-energiloven.md) — Lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)
+- [endringslov-til-energiloven-mv](endringslov-til-energiloven-mv.md) — Lov om endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)
 - [endringslov-til-finansforetaksloven](endringslov-til-finansforetaksloven.md) — Lov om endringer i finansforetaksloven (utvidelse av garantiordningen for skadeforsikring)
 - [endringslov-til-finansforetaksloven-mv](endringslov-til-finansforetaksloven-mv.md) — Lov om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker)
 - [endringslov-til-finansforetaksloven-mv-2](endringslov-til-finansforetaksloven-mv-2.md) — Lov om endringer i finansforetaksloven mv. (verdipapirisering og kreditorhierarki)
+- [endringslov-til-finansforetaksloven-mv-3](endringslov-til-finansforetaksloven-mv-3.md) — Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)
 - [endringslov-til-finansmarkedslovgivningen](endringslov-til-finansmarkedslovgivningen.md) — Lov om endringer i finansmarkedslovgivningen (samleproposisjon)
 - [endringslov-til-folketrygdlova-og-enkelte-andre-lover](endringslov-til-folketrygdlova-og-enkelte-andre-lover.md) — Lov om endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2026 m.m.)
 - [endringslov-til-folketrygdloven](endringslov-til-folketrygdloven.md) — Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade)
@@ -145,6 +157,7 @@ _749 current documents_
 - [endringslov-til-klimakvoteloven](endringslov-til-klimakvoteloven.md) — Lov om endringer i klimakvoteloven
 - [endringslov-til-konfliktrådsloven-og-straffeloven-mv](endringslov-til-konfliktrådsloven-og-straffeloven-mv.md) — Lov om endringer i konfliktrådsloven og straffeloven mv. (strafferettslige reaksjoner for ungdom)
 - [endringslov-til-konfliktrådsloven-straffeloven-mv](endringslov-til-konfliktrådsloven-straffeloven-mv.md) — Lov om endringer i konfliktrådsloven, straffeloven og straffeprosessloven mv. (strafferettslige reaksjoner for ungdom og varetekt med elektronisk kontroll)
+- [endringslov-til-konkursloven-mv](endringslov-til-konkursloven-mv.md) — Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)
 - [endringslov-til-kringkastingsloven](endringslov-til-kringkastingsloven.md) — Lov om endringar i lov 4. desember 1992 nr. 127 om kringkasting
 - [endringslov-til-kringkastingsloven-mv](endringslov-til-kringkastingsloven-mv.md) — Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.)
 - [endringslov-til-lov-om-avgift-på-utslipp-av-co2](endringslov-til-lov-om-avgift-på-utslipp-av-co2.md) — Lov om oppheving av lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
@@ -152,14 +165,20 @@ _749 current documents_
 - [endringslov-til-lov-om-pensjonsordning-for-sykepleiere](endringslov-til-lov-om-pensjonsordning-for-sykepleiere.md) — Lov om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)
 - [endringslov-til-lov-om-statens-pensjonsfond](endringslov-til-lov-om-statens-pensjonsfond.md) — Lov om endringer i lov om Statens pensjonsfond
 - [endringslov-til-lov-om-statens-pensjonskasse-mfl](endringslov-til-lov-om-statens-pensjonskasse-mfl.md) — Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning)
+- [endringslov-til-markedsføringsloven-mv](endringslov-til-markedsføringsloven-mv.md) — Lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)
 - [endringslov-til-matloven](endringslov-til-matloven.md) — Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)
 - [endringslov-til-merverdiavgiftsloven](endringslov-til-merverdiavgiftsloven.md) — Lov om endringer i merverdiavgiftsloven
 - [endringslov-til-opplæringslova](endringslov-til-opplæringslova.md) — Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning i uken for elever på 1. til 3. trinn)
+- [endringslov-til-opplæringslova-og-barnehageloven-mv](endringslov-til-opplæringslova-og-barnehageloven-mv.md) — Lov om endringer i opplæringslova og barnehageloven mv.
 - [endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m](endringslov-til-pasient-og-brukarrettslova-helsepersonellova-m-m.md) — Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking av rettsstillinga til barn ved yting av helse- og omsorgstenester m.m.)
 - [endringslov-til-pasient-og-brukerrettighetsloven-mv](endringslov-til-pasient-og-brukerrettighetsloven-mv.md) — Lov om endringer i pasient- og brukerrettighetsloven og helse- og omsorgstjenesteloven (rett til opphold i sykehjem eller tilsvarende bolig særskilt tilrettelagt for heldøgns tjenester – kriterier og ventelister)
+- [endringslov-til-pasient-og-brukerrettighetsloven-mv-2](endringslov-til-pasient-og-brukerrettighetsloven-mv-2.md) — Lov om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)
 - [endringslov-til-pengespill-og-lotterilover](endringslov-til-pengespill-og-lotterilover.md) — Lov om endringer i pengespill- og lotterilovgivningen
 - [endringslov-til-plan-og-bygningsloven](endringslov-til-plan-og-bygningsloven.md) — Lov om endringer i plan- og bygningsloven (planbestemmelser om borettslag)
 - [endringslov-til-plan-og-bygningsloven-og-matrikkellova](endringslov-til-plan-og-bygningsloven-og-matrikkellova.md) — Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved fortetting og transformasjon, grunneierfinansiering av infrastruktur mv.)
+- [endringslov-til-politiloven](endringslov-til-politiloven.md) — Lov om endringer i politiloven (generell bevæpning av politiet)
+- [endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m](endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md) — Lov om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)
+- [endringslov-til-politiregisterloven-og-grenseloven-mv](endringslov-til-politiregisterloven-og-grenseloven-mv.md) — Lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)
 - [endringslov-til-regnskapsloven-mv](endringslov-til-regnskapsloven-mv.md) — Lov om endringer i regnskapsloven mv. (bærekraftsrapportering)
 - [endringslov-til-reindriftsloven](endringslov-til-reindriftsloven.md) — Lov om endringer i reindriftsloven (tilgjengeliggjøring av reintall og obligatorisk individmerking)
 - [endringslov-til-rettshjelpsloven-mv](endringslov-til-rettshjelpsloven-mv.md) — Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)
@@ -167,6 +186,7 @@ _749 current documents_
 - [endringslov-til-sikkerhetsloven](endringslov-til-sikkerhetsloven.md) — Lov om endringer i sikkerhetsloven (eierskapskontroll og lovens virkeområde)
 - [endringslov-til-sikkerhetsloven-2](endringslov-til-sikkerhetsloven-2.md) — Lov om endringer i sikkerhetsloven (opplysningsplikt ved autorisasjon)
 - [endringslov-til-sjøloven](endringslov-til-sjøloven.md) — Lov om endringer i sjøloven (erstatningsansvar ved transport av farlig gods m.m.)
+- [endringslov-til-skadeserstatningsloven](endringslov-til-skadeserstatningsloven.md) — Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)
 - [endringslov-til-skatte-og-avgiftslovgivningen-mv](endringslov-til-skatte-og-avgiftslovgivningen-mv.md) — Lov om endringer i skatte- og avgiftslovgivningen mv.
 - [endringslov-til-skatteloven](endringslov-til-skatteloven.md) — Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt
 - [endringslov-til-skatteloven-2](endringslov-til-skatteloven-2.md) — Lov om endringer i lov 26. mars 1999 nr. 14 om skatt av formue og inntekt (skatteloven)
@@ -179,16 +199,21 @@ _749 current documents_
 - [endringslov-til-straffeloven](endringslov-til-straffeloven.md) — Lov om endringer i straffeloven (selvstendig inndragning m.m.)
 - [endringslov-til-straffeloven-mv](endringslov-til-straffeloven-mv.md) — Lov om endringer i straffeloven, straffeprosessloven, straffegjennomføringsloven, konfliktrådsloven m.fl. (barn og straff)
 - [endringslov-til-straffeloven-og-legemiddelloven-mv](endringslov-til-straffeloven-og-legemiddelloven-mv.md) — Lov om endringer i straffeloven og legemiddelloven mv. (befatning med mindre mengder narkotika til egen bruk)
+- [endringslov-til-straffeprosessloven-mv](endringslov-til-straffeprosessloven-mv.md) — Lov om endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)
+- [endringslov-til-støtteprosessloven](endringslov-til-støtteprosessloven.md) — Lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)
 - [endringslov-til-tobakkskadeloven](endringslov-til-tobakkskadeloven.md) — Lov om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)
 - [endringslov-til-tobakksskadeloven](endringslov-til-tobakksskadeloven.md) — Lov om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)
 - [endringslov-til-tobakksskadeloven-2](endringslov-til-tobakksskadeloven-2.md) — Lov om endringer i tobakksskadeloven (strengere regulering av e-sigaretter)
 - [endringslov-til-tomtefesteloven](endringslov-til-tomtefesteloven.md) — Lov om endringer i tomtefesteloven (festeavgift ved forlengelse m.m.)
 - [endringslov-til-trygderettsloven-mv](endringslov-til-trygderettsloven-mv.md) — Lov om endringer i trygderettsloven mv. (ankeerklæring til Trygderetten, avgjørelse innen seks måneder mv.)
+- [endringslov-til-universitets-og-høyskoleloven-mv](endringslov-til-universitets-og-høyskoleloven-mv.md) — Lov om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)
 - [endringslov-til-utlendingsloven](endringslov-til-utlendingsloven.md) — Lov om endringer i utlendingsloven (partsbegrepet mv. i utlendingssaker)
 - [endringslov-til-utlendingsloven-2](endringslov-til-utlendingsloven-2.md) — Lov om endringer i utlendingsloven (visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse mv.)
+- [endringslov-til-utlendingsloven-3](endringslov-til-utlendingsloven-3.md) — Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)
 - [endringslov-til-utlendingsloven-mv](endringslov-til-utlendingsloven-mv.md) — Lov om endringer i utlendingsloven mv. (familieinnvandring m.m.)
 - [endringslov-til-utlendingsloven-mv-2](endringslov-til-utlendingsloven-mv-2.md) — Lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)
 - [endringslov-til-utleveringsloven-m-m](endringslov-til-utleveringsloven-m-m.md) — Lov om endringer i utleveringsloven m.m
+- [endringslov-til-valgloven](endringslov-til-valgloven.md) — Lov om endringer i valgloven (endringer i valgdistriktene)
 - [endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon](endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon.md) — Lov om endringer i veglova mv. (overføring av fylkesveiadministrasjon)
 - [endringslov-til-vegtrafikkloven-opplæring](endringslov-til-vegtrafikkloven-opplæring.md) — Lov om endringer i vegtrafikkloven (opplæring)
 - [endringslov-til-verdipapirhandelloven-mv](endringslov-til-verdipapirhandelloven-mv.md) — Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)
@@ -414,6 +439,7 @@ _749 current documents_
 - [lov-om-informasjonstilgang-mv-for-statens-helsetilsyn](lov-om-informasjonstilgang-mv-for-statens-helsetilsyn.md) — Lov om informasjonstilgang mv. for Statens helsetilsyn ved gjennomgang av et utvalg barnevernssaker
 - [lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell](lov-om-informasjonstilgang-overgrep-begått-av-helsepersonell.md) — Lov om informasjonstilgang m.m. for utvalg som skal undersøke saker om overgrep begått av helsepersonell mot pasienter i perioden 2010 til 2020
 - [lov-om-infrastruktur-for-alternativt-drivstoff](lov-om-infrastruktur-for-alternativt-drivstoff.md) — Lov om infrastruktur for alternativt drivstoff
+- [lov-om-infrastruktur-for-alternativt-drivstoff-2](lov-om-infrastruktur-for-alternativt-drivstoff-2.md) — Lov om infrastruktur for alternativt drivstoff
 - [lov-om-innenlands-transport-i-eøs-avtalen](lov-om-innenlands-transport-i-eøs-avtalen.md) — Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen
 - [lov-om-innovasjon-norge](lov-om-innovasjon-norge.md) — Lov om Innovasjon Norge
 - [lov-om-inspeksjoner-av-styrker-i-europa](lov-om-inspeksjoner-av-styrker-i-europa.md) — Lov om inspeksjoner i samsvar med Avtalen om konvensjonelle styrker i Europa (CFE-avtalen) og om immunitet og privilegier for inspektørene m.fl
@@ -548,6 +574,7 @@ _749 current documents_
 - [mineralloven-2](mineralloven-2.md) — Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)
 - [mortifikasjonslova](mortifikasjonslova.md) — Lov om mortifikasjon av skuldbrev m.v. [mortifikasjonslova]
 - [motorferdselloven](motorferdselloven.md) — Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
+- [motorferdselloven-2](motorferdselloven-2.md) — Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
 - [motorkjøretøy-og-båtavgiftsloven](motorkjøretøy-og-båtavgiftsloven.md) — Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)
 - [naturgassloven](naturgassloven.md) — Lov om felles regler for det indre marked for naturgass (naturgassloven)
 - [naturmangfoldloven-nml](naturmangfoldloven-nml.md) — Lov om forvaltning av naturens mangfold (naturmangfoldloven)
@@ -686,6 +713,7 @@ _749 current documents_
 - [svine-og-fjørfeproduksjonsloven](svine-og-fjørfeproduksjonsloven.md) — Lov om regulering av svine- og fjørfeproduksjonen
 - [sykepleierpensjonsloven](sykepleierpensjonsloven.md) — Lov om pensjonsordning for sykepleiere [sykepleierpensjonsloven]
 - [særavgiftsloven](særavgiftsloven.md) — Lov om særavgifter (særavgiftsloven)
+- [særavgiftsloven-2](særavgiftsloven-2.md) — Lov om særavgifter (særavgiftsloven)
 - [tanaloven](tanaloven.md) — Lov om fiskeretten i Tanavassdraget (Tanaloven)
 - [tannhelsetjenesteloven-tannhl](tannhelsetjenesteloven-tannhl.md) — Lov om tannhelsetjenesten (tannhelsetjenesteloven)
 - [taubaneloven](taubaneloven.md) — Lov om taubaner (taubaneloven)

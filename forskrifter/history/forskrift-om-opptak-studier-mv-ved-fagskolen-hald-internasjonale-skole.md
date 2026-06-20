@@ -1,6 +1,16 @@
 # forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole — Change history
 
-_2 events; doc_id `sf-20191220-2136`._
+_4 events; doc_id `sf-20191220-2136`._
+
+## 2026-06-20 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole`
+Commit: `a74f8df`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20191220-2136.md` → `forskrifter/forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole.md`.

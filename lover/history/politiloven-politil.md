@@ -1,6 +1,16 @@
 # politiloven-politil — Change history
 
-_2 events; doc_id `nl-19950804-053`._
+_4 events; doc_id `nl-19950804-053`._
+
+## 2026-06-20 — Content updated
+Lines: +18 -14.
+Subject: `update(lov): politiloven-politil`
+Commit: `15f7e9d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19950804-053.md` → `lover/politiloven-politil.md`.

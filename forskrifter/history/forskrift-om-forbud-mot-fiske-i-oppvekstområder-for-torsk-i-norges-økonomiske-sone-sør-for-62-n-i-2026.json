@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260617-1112",
+  "events": [
+    {
+      "commit": "9605985",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 66,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026"
+}

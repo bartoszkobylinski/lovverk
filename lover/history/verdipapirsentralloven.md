@@ -1,6 +1,16 @@
 # verdipapirsentralloven — Change history
 
-_2 events; doc_id `nl-20190315-006`._
+_4 events; doc_id `nl-20190315-006`._
+
+## 2026-06-20 — Content updated
+Lines: +10 -4.
+Subject: `update(lov): verdipapirsentralloven`
+Commit: `2b20ce0`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20190315-006.md` → `lover/verdipapirsentralloven.md`.

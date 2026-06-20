@@ -1,6 +1,11 @@
 # markedsføringsloven-mfl — Change history
 
-_4 events; doc_id `nl-20090109-002`._
+_5 events; doc_id `nl-20090109-002`._
+
+## 2026-06-20 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): markedsføringsloven-mfl`
+Commit: `f16c09b`.
 
 ## 2026-05-08 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,16 @@
 # endringslov-til-verdipapirhandelloven-mv — Change history
 
-_2 events; doc_id `nl-20260206-003`._
+_4 events; doc_id `nl-20260206-003`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): endringslov-til-verdipapirhandelloven-mv`
+Commit: `4fb5a3f`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20260206-003.md` → `lover/endringslov-til-verdipapirhandelloven-mv.md`.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-059",
+  "events": [
+    {
+      "commit": "44e8429",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 62,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-opplæringslova-og-barnehageloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-opplæringslova-og-barnehageloven-mv"
+}

@@ -1,6 +1,11 @@
 # pasient-og-brukerrettighetsloven-pbrl — Change history
 
-_7 events; doc_id `nl-19990702-063`._
+_8 events; doc_id `nl-19990702-063`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): pasient-og-brukerrettighetsloven-pbrl`
+Commit: `92016af`.
 
 ## 2026-06-16 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,16 @@
 # nettinntektsforskriften — Change history
 
-_2 events; doc_id `sf-20250114-0050`._
+_4 events; doc_id `sf-20250114-0050`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -2.
+Subject: `update(forskrift): nettinntektsforskriften`
+Commit: `8648c97`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250114-0050.md` → `forskrifter/nettinntektsforskriften.md`.

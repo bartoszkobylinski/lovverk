@@ -1,6 +1,16 @@
 # hvitvaskingsloven-hvvl — Change history
 
-_2 events; doc_id `nl-20180601-023`._
+_4 events; doc_id `nl-20180601-023`._
+
+## 2026-06-20 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): hvitvaskingsloven-hvvl`
+Commit: `b0c74b5`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20180601-023.md` → `lover/hvitvaskingsloven-hvvl.md`.

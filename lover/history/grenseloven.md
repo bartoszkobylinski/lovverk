@@ -1,6 +1,11 @@
 # grenseloven — Change history
 
-_4 events; doc_id `nl-20180420-008`._
+_5 events; doc_id `nl-20180420-008`._
+
+## 2026-06-20 — Content updated
+Lines: +8 -4.
+Subject: `update(lov): grenseloven`
+Commit: `237c275`.
 
 ## 2026-06-13 — Content updated
 Lines: +44 -6.

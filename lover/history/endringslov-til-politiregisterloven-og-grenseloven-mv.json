@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-046",
+  "events": [
+    {
+      "commit": "2b326a2",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 82,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-politiregisterloven-og-grenseloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-politiregisterloven-og-grenseloven-mv"
+}

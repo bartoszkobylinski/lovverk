@@ -2,6 +2,26 @@
   "doc_id": "nl-19390217-001",
   "events": [
     {
+      "commit": "3010bf6",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): gjeldsbrevlova-gbl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-19390217-001.md",

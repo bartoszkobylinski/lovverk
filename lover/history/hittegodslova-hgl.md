@@ -1,6 +1,16 @@
 # hittegodslova-hgl — Change history
 
-_2 events; doc_id `nl-19530529-003`._
+_4 events; doc_id `nl-19530529-003`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): hittegodslova-hgl`
+Commit: `6b65351`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19530529-003.md` → `lover/hittegodslova-hgl.md`.

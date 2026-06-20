@@ -1,6 +1,16 @@
 # verdipapirhandelloven-vphl — Change history
 
-_2 events; doc_id `nl-20070629-075`._
+_4 events; doc_id `nl-20070629-075`._
+
+## 2026-06-20 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): verdipapirhandelloven-vphl`
+Commit: `d13f182`.
+
+## 2026-04-29 — Filename renamed
+Lines: +10 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20070629-075.md` → `lover/verdipapirhandelloven-vphl.md`.

@@ -1,6 +1,16 @@
 # varemerkeloven-vml — Change history
 
-_2 events; doc_id `nl-20100326-008`._
+_4 events; doc_id `nl-20100326-008`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): varemerkeloven-vml`
+Commit: `57902d5`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20100326-008.md` → `lover/varemerkeloven-vml.md`.

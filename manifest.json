@@ -133,15 +133,15 @@
     "nl-18930720-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/vrakloven.md",
       "slug": "vrakloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Stranding og Vrag [vrakloven]",
-      "total_changes": null,
-      "xml_hash": "a7d176d0ab58a90fca5fe2317a4a2d22bd2f37f3f1b763693d5eafebcb603eb1"
+      "total_changes": 4,
+      "xml_hash": "30017b3fc433bf74c04b4719ccc73b9ee3f2d6ddd6d74977071ca26056b2de3d"
     },
     "nl-18940721-005": {
       "doc_type": "lov",
@@ -224,15 +224,15 @@
     "nl-19150813-005": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/domstolloven-dl.md",
       "slug": "domstolloven-dl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om domstolene (domstolloven)",
-      "total_changes": 4,
-      "xml_hash": "fd64125d5dfac0f31cbff2e59af5e0d9c730c5f629d3ab71c1d0c23f82a11052"
+      "total_changes": 5,
+      "xml_hash": "f4fd016dc9da37531d493568a04e4cbcf137dcea9505fa7d624fa3aac9052f1b"
     },
     "nl-19160317-000": {
       "doc_type": "lov",
@@ -250,41 +250,41 @@
     "nl-19160630-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/kommisjonsloven-kml.md",
       "slug": "kommisjonsloven-kml",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommisjon (kommisjonsloven)",
-      "total_changes": null,
-      "xml_hash": "e0efaab6d92608d7aaa3d211470ec794816d753a792b729d385ec20a33c45c4c"
+      "total_changes": 4,
+      "xml_hash": "07a9b11eaf09b1535e9ff25ea53ed563e07beddeec5e093518760723b1e99b5e"
     },
     "nl-19160721-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-vidners-og-sakkyndiges-godtgjørelse.md",
       "slug": "lov-om-vidners-og-sakkyndiges-godtgjørelse",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om vidners og sakkyndiges godtgjørelse m.v.",
-      "total_changes": null,
-      "xml_hash": "9a1e0c99ba206efc61e8dd07fc48051ba5b38a5b90ebbb92d517f54ebfbbca18"
+      "total_changes": 4,
+      "xml_hash": "ff957c4b74d4d9e7309fe5473d948b46ec0b07b595b72a9ef77b13e2547da080"
     },
     "nl-19170601-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/skjønnsprosessloven-skjl.md",
       "slug": "skjønnsprosessloven-skjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skjønn og ekspropriasjonssaker [skjønnsprosessloven]",
-      "total_changes": null,
-      "xml_hash": "7193a9954ff349eb3cf7757dc64c02e49389cf6098a6d1a97d4bf27b027510f4"
+      "total_changes": 4,
+      "xml_hash": "9bf260574342257fd7eee57bb183d9a9317e0bfd5b5325ae4fa599f95560304b"
     },
     "nl-19171214-016": {
       "doc_type": "lov",
@@ -317,15 +317,15 @@
       "eu_basis": [
         "31993L0013"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/avtaleloven-avtl.md",
       "slug": "avtaleloven-avtl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]",
-      "total_changes": null,
-      "xml_hash": "75a011c05f7dc42198ee0bd1709147b9c57f7f0004e426c406d57f088c779720"
+      "total_changes": 4,
+      "xml_hash": "b12f1aadc813125c7d7256d010f9dc6d77b4a87227b87a5ded8f1eb7ca190a5e"
     },
     "nl-19180814-002": {
       "doc_type": "lov",
@@ -421,15 +421,15 @@
     "nl-19250717-011": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/svalbardloven-svalbl.md",
       "slug": "svalbardloven-svalbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Svalbard [Svalbardloven]",
-      "total_changes": null,
-      "xml_hash": "3b3d16dfaf2f5f17786940cdeec2c817a7e7a3bb24f6f314c93a5b1118b0a24e"
+      "total_changes": 4,
+      "xml_hash": "1bce3a9bc4579fc4aff068d18675aad1393641e3ad382c095661d6331dbfaa51"
     },
     "nl-19250807-000": {
       "doc_type": "lov",
@@ -447,15 +447,15 @@
     "nl-19270701-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/kraftledningsregisterloven-kregl.md",
       "slug": "kraftledningsregisterloven-kregl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om registrering av elektriske kraftledninger [kraftledningsregisterloven]",
-      "total_changes": null,
-      "xml_hash": "4114dfbe46e43df3b90672570b5cc40f2c061f7ff39d856b7b2a65f6b6a3adf7"
+      "total_changes": 4,
+      "xml_hash": "c27b7d3f58cd530611b5ce5e175bc9c9fe01abd9dc080f6f0d85a7cc36531064"
     },
     "nl-19270704-011": {
       "doc_type": "lov",
@@ -512,15 +512,15 @@
     "nl-19300314-000": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/landslottloven.md",
       "slug": "landslottloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om landslott [landslottloven]",
-      "total_changes": null,
-      "xml_hash": "67288c748dc14c91bad2299f3e5d3ac00843bca6ecd88ddc45fad2a73d760744"
+      "total_changes": 4,
+      "xml_hash": "9d834354be970ad195c866e096f2a91b3c9084c99b942a592e8d0084ecb8bf60"
     },
     "nl-19310130-000": {
       "doc_type": "lov",
@@ -616,15 +616,15 @@
     "nl-19320527-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/vekselloven-vl.md",
       "slug": "vekselloven-vl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om veksler [vekselloven]",
-      "total_changes": null,
-      "xml_hash": "7414580784c8b370d283ee6117db84d08aa653ddb9f22e1aa08398d3ba4c9872"
+      "total_changes": 4,
+      "xml_hash": "2705fbc6578452240148e29468393da94e6eb9e86c6fea75e547af2c726aba1b"
     },
     "nl-19320527-003": {
       "doc_type": "lov",
@@ -655,15 +655,15 @@
     "nl-19330519-011": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/særavgiftsloven.md",
       "slug": "særavgiftsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om særavgifter (særavgiftsloven)",
-      "total_changes": null,
-      "xml_hash": "1d4b0ebcad8aa05b00dfc5bbde417d52dc1302ccc2bc91fc0754f1ae013ff227"
+      "total_changes": 4,
+      "xml_hash": "45470c9076c0375e54e63e5e147253ed08d6e43f759f08c03b49106bcbd7fafa"
     },
     "nl-19330629-002": {
       "doc_type": "lov",
@@ -720,15 +720,15 @@
     "nl-19350607-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/tinglysingsloven-tingl.md",
       "slug": "tinglysingsloven-tingl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tinglysing [tinglysingsloven]",
-      "total_changes": null,
-      "xml_hash": "a116eab5a79e1a61d14dd119c64a73cf052c810046b0af72e81279479ca3f180"
+      "total_changes": 4,
+      "xml_hash": "4183a947cfe6af597b5b62158299ee080e9d126846966f4ee7d2433406da6e66"
     },
     "nl-19360710-006": {
       "doc_type": "lov",
@@ -746,15 +746,15 @@
     "nl-19390217-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/gjeldsbrevlova-gbl.md",
       "slug": "gjeldsbrevlova-gbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsbrev [gjeldsbrevlova]",
-      "total_changes": null,
-      "xml_hash": "bc14869170b37f38e1419c26db04ac3f6a64ed69c7d913ff0e8ee88885fe8719"
+      "total_changes": 4,
+      "xml_hash": "1ff06c65e6d0ec31a994796945f5e830772823446e5a38f656f38d19aed973c9"
     },
     "nl-19390217-002": {
       "doc_type": "lov",
@@ -1110,15 +1110,15 @@
     "nl-19530529-003": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/hittegodslova-hgl.md",
       "slug": "hittegodslova-hgl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om hittegods [hittegodslova]",
-      "total_changes": null,
-      "xml_hash": "1f4291d643c757b437107d869b42e831e8d30c04f2f1272eadc6962c877f75a7"
+      "total_changes": 4,
+      "xml_hash": "5b8509f7440a36c7fd282f3226bc908106a8d0f15c7ac238516c2ef2f1b40d01"
     },
     "nl-19530626-008": {
       "doc_type": "lov",
@@ -1279,15 +1279,15 @@
     "nl-19570628-016": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/friluftsloven-fril.md",
       "slug": "friluftsloven-fril",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om friluftslivet (friluftsloven)",
-      "total_changes": null,
-      "xml_hash": "0d76411177215969a4d808c87d4d2b6b038cfb202f3a98dbbddd0e76f0c4479c"
+      "total_changes": 4,
+      "xml_hash": "a2fea2d657cfeb13e19a4cbb2a410414265c6d3b1284b772071b8a9e82c2633a"
     },
     "nl-19570706-026": {
       "doc_type": "lov",
@@ -1344,15 +1344,15 @@
     "nl-19590619-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/motorkjøretøy-og-båtavgiftsloven.md",
       "slug": "motorkjøretøy-og-båtavgiftsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)",
-      "total_changes": null,
-      "xml_hash": "331f64d188c523722f5bc8da5d0e86c73257fd8f77b043d41f0b1ded360c369b"
+      "total_changes": 4,
+      "xml_hash": "1cf024725c96ffba1e9bebd85c921acb3c5c85ff8103fe52fdcdc7bb4ab5e739"
     },
     "nl-19591023-003": {
       "doc_type": "lov",
@@ -1398,15 +1398,15 @@
     "nl-19610505-000": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/grannegjerdelova-ggl.md",
       "slug": "grannegjerdelova-ggl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grannegjerde [grannegjerdelova]",
-      "total_changes": null,
-      "xml_hash": "bbc338c45d2e0f0cd45dfc39ebe3bc26c1a77cb117d9c4e6b74742d350b1a28d"
+      "total_changes": 4,
+      "xml_hash": "6806a11c8b9ed3850c9f2cda438bb09da26d7263b33c90801930d2736443c624"
     },
     "nl-19610612-000": {
       "doc_type": "lov",
@@ -1502,15 +1502,15 @@
     "nl-19630621-023": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/veglova-vegl.md",
       "slug": "veglova-vegl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om vegar (veglova)",
-      "total_changes": null,
-      "xml_hash": "46e3324231d3971833ad547c662c3a42fc585a3c23b112f4a04330be85cb43bb"
+      "total_changes": 4,
+      "xml_hash": "7ba3671112a82f3ab3c42a9a3253a0c0dbe3784f525564264649ed3b2d503ccd"
     },
     "nl-19631115-000": {
       "doc_type": "lov",
@@ -1569,15 +1569,15 @@
       "eu_basis": [
         "32019R0621"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/vegtrafikkloven-vtrl.md",
       "slug": "vegtrafikkloven-vtrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om vegtrafikk (vegtrafikkloven)",
-      "total_changes": null,
-      "xml_hash": "41cc2310e001cd8c6bc70cc1530bfb11aef836eeeb5055b847b0054041e2fb8a"
+      "total_changes": 4,
+      "xml_hash": "14240f3e270debc100c837114a388e4a908a4d4329f83d1d0664492e3021a1c9"
     },
     "nl-19650618-006": {
       "doc_type": "lov",
@@ -1686,15 +1686,15 @@
     "nl-19670608-003": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-internasjonale-investeringstvistar.md",
       "slug": "lov-om-internasjonale-investeringstvistar",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar",
-      "total_changes": null,
-      "xml_hash": "6e4834b062943b892432b0bced542010acb707e5009d06c442f126d5bf7e8619"
+      "total_changes": 4,
+      "xml_hash": "d7840c8659624c69898d6858907b8cbcd77937abe8f4821f2697642ba8bcca9e"
     },
     "nl-19670616-003": {
       "doc_type": "lov",
@@ -1730,15 +1730,15 @@
         "31996R1610",
         "31998L0044"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/patentloven-patl.md",
       "slug": "patentloven-patl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om patenter (patentloven)",
-      "total_changes": null,
-      "xml_hash": "012e1ca8571ffe8a2c0ea62c1425293a5edb9cd62f699f1ffde55fbe039e8b31"
+      "total_changes": 4,
+      "xml_hash": "53048c1c81bee9b4862f1f16f74555569a7a6c03582e1e1e2e49556247c2e7fb"
     },
     "nl-19680322-002": {
       "doc_type": "lov",
@@ -1782,15 +1782,15 @@
     "nl-19690613-026": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/skadeserstatningsloven-skl.md",
       "slug": "skadeserstatningsloven-skl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skadeserstatning (skadeserstatningsloven)",
-      "total_changes": null,
-      "xml_hash": "1a31984301ef4b71405c0887edcd0c85663823647dbdac8dc7f0053b5b4249b5"
+      "total_changes": 4,
+      "xml_hash": "2b00d25597bf7e4617e0d67f9094da79de2c1fa280a4aaa078594b3719e9d4df"
     },
     "nl-19690613-038": {
       "doc_type": "lov",
@@ -2101,28 +2101,28 @@
     "nl-19750613-039": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-13",
-      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/utleveringsloven-utlevl.md",
       "slug": "utleveringsloven-utlevl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlevering av lovbrytere m.v. [utleveringsloven]",
-      "total_changes": 4,
-      "xml_hash": "f29f7b0ac82d8bdd329b26d08c0d0186c7fdc92c2da6817644848ca15cf7fe7f"
+      "total_changes": 5,
+      "xml_hash": "77713cc7ec95402792790562a0299ca77e4073595bb1b462f81ab62d6cc66574"
     },
     "nl-19751212-059": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/dokumentavgiftsloven-dal.md",
       "slug": "dokumentavgiftsloven-dal",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om dokumentavgift (dokumentavgiftsloven)",
-      "total_changes": null,
-      "xml_hash": "f09e61ea171e6463191006ba87ed821c4739d3eef6b00a6187ca56b253d29e2b"
+      "total_changes": 4,
+      "xml_hash": "8b9e5618fbee4bd98d8f1ed495844e49581be287dbbb796fff9f1d2cd967a9b9"
     },
     "nl-19760409-021": {
       "doc_type": "lov",
@@ -2248,15 +2248,15 @@
     "nl-19770610-082": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/motorferdselloven.md",
       "slug": "motorferdselloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om motorferdsel i utmark og vassdrag (motorferdselloven)",
-      "total_changes": null,
-      "xml_hash": "9f375c1f297ff29b35e4dc04f5ca7b3fd538f7ba5cbe2283aebfa2d540517d03"
+      "total_changes": 4,
+      "xml_hash": "c68ff05da5c500505088e41e1b3c21dc909e14083e527e859fc15c6208999498"
     },
     "nl-19780602-037": {
       "doc_type": "lov",
@@ -2300,28 +2300,28 @@
     "nl-19790518-018": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/foreldelsesloven-fl.md",
       "slug": "foreldelsesloven-fl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om foreldelse av fordringer (foreldelsesloven)",
-      "total_changes": null,
-      "xml_hash": "aab86ae647efae7617c117853dea963bc599eeedb53cecfd1aaa08c6ecc51484"
+      "total_changes": 4,
+      "xml_hash": "f59e4d8cf675ac7dbc1e7ee3c37320fc35fdec761c3a7eb3bb70c5551e50e857"
     },
     "nl-19800208-002": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/panteloven-pantel.md",
       "slug": "panteloven-pantel",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pant (panteloven)",
-      "total_changes": null,
-      "xml_hash": "37cc369ec87fc8f3aec9a8773fa5ccda63a6680d5d82e9cac819400be69706ed"
+      "total_changes": 4,
+      "xml_hash": "3c9407a8082040d7da4edf4fd8e3ab88b01ce1db3a6e795080f69897d640d682"
     },
     "nl-19800613-035": {
       "doc_type": "lov",
@@ -2358,15 +2358,15 @@
         "32008L0098",
         "32018L0851"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/forurensningsloven-forurl.md",
       "slug": "forurensningsloven-forurl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om vern mot forurensninger og om avfall (forurensningsloven)",
-      "total_changes": null,
-      "xml_hash": "918ba4fa2208a58da828b925c8ea965d69a598f7d02d2aae95b548b0de8db9d1"
+      "total_changes": 4,
+      "xml_hash": "ec5c71366aef0b3b7f0393c3f108a1049c81493c6ce7dd688e91de8f52846a00"
     },
     "nl-19810408-007": {
       "doc_type": "lov",
@@ -2384,15 +2384,15 @@
     "nl-19810522-025": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-13",
-      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/straffeprosessloven-strpl.md",
       "slug": "straffeprosessloven-strpl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettergangsmåten i straffesaker (Straffeprosessloven)",
-      "total_changes": 5,
-      "xml_hash": "952b56f6ff0de2ce18f5cc18a50dd8e49d38072a9aafdf79432f3432ebefd955"
+      "total_changes": 6,
+      "xml_hash": "af941722b2880b44d691cd3da9a5389d5e6a5e73245b2692e579494917d5a690"
     },
     "nl-19810529-038": {
       "doc_type": "lov",
@@ -2467,15 +2467,15 @@
     "nl-19821217-086": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/rettsgebyrloven.md",
       "slug": "rettsgebyrloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettsgebyr (rettsgebyrloven)",
-      "total_changes": null,
-      "xml_hash": "f35af62b8cb2ac76580e54f568c885ca61dd775677ebc6daf159d4dfb403dd8c"
+      "total_changes": 4,
+      "xml_hash": "cc280657e0807af156be8e93cc41835a6cf5274c687cfaa19acb6cd5d042695d"
     },
     "nl-19830603-054": {
       "doc_type": "lov",
@@ -2532,28 +2532,28 @@
     "nl-19840608-058": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/konkursloven-kkl.md",
       "slug": "konkursloven-kkl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om gjeldsforhandling og konkurs (konkursloven)",
-      "total_changes": 4,
-      "xml_hash": "377a3c6853549572d9523857cb1fb778b82fc0930fe89c8452b5d07128169761"
+      "total_changes": 5,
+      "xml_hash": "d0bb0d3664d116d18682627203212ea633b7a043c91031332ac735b8883c089b"
     },
     "nl-19840608-059": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/dekningsloven-deknl.md",
       "slug": "dekningsloven-deknl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fordringshavernes dekningsrett (dekningsloven)",
-      "total_changes": null,
-      "xml_hash": "2dc3f13ef87ad46675bd3554b35b267dc8d9664a88e2f86c1e8071579bf91907"
+      "total_changes": 4,
+      "xml_hash": "a2243e6270d806f54e6c0a19aa95580bfdec3599ce3699a82f50b2a458d462e2"
     },
     "nl-19840608-060": {
       "doc_type": "lov",
@@ -2597,15 +2597,15 @@
     "nl-19850621-079": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/foretaksnavneloven-ftnavnl.md",
       "slug": "foretaksnavneloven-ftnavnl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)",
-      "total_changes": null,
-      "xml_hash": "f558b577cec612a438eab9d3277a337acaea69de9d697fd2fde86f28793c19ab"
+      "total_changes": 4,
+      "xml_hash": "d277547a17423b45ce02841adf330cc88b4cb3ce816861480e678a3324ad9d98"
     },
     "nl-19850621-080": {
       "doc_type": "lov",
@@ -2623,15 +2623,15 @@
     "nl-19850621-083": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/selskapsloven-sel.md",
       "slug": "selskapsloven-sel",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)",
-      "total_changes": null,
-      "xml_hash": "df620094db7445121c53fa0950e7a6c3ab2b3117e1dd97bc855b0b6ede6fb34e"
+      "total_changes": 4,
+      "xml_hash": "1d0d6007dfde1849d3a44f14acd52456848dfe89323a7c403f2c49d8467156f3"
     },
     "nl-19851220-108": {
       "doc_type": "lov",
@@ -2888,15 +2888,15 @@
     "nl-19890616-069": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/forsikringsavtaleloven-fal.md",
       "slug": "forsikringsavtaleloven-fal",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsavtaler (forsikringsavtaleloven)",
-      "total_changes": null,
-      "xml_hash": "1123587c08fd5ed67d6f243c048aff1657707f1dc4a132f074fb7b25fbf9423f"
+      "total_changes": 4,
+      "xml_hash": "3bfbc41bea28503803e50bdd09fdecd918ed47b646d4a0104c701121208d6c72"
     },
     "nl-19890616-070": {
       "doc_type": "lov",
@@ -2965,15 +2965,15 @@
         "32017R1485",
         "32017R2195"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/energiloven-enl.md",
       "slug": "energiloven-enl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)",
-      "total_changes": null,
-      "xml_hash": "7e4b3ecaddbac791c849c1a4b6b6b9634039033ac25c72ed8659c347142827e3"
+      "total_changes": 4,
+      "xml_hash": "0c02816f5ae21c909cbeba38d5fa3b679bd4019897674fe48842c147e1c3ddf2"
     },
     "nl-19901221-072": {
       "doc_type": "lov",
@@ -3110,15 +3110,15 @@
     "nl-19920626-086": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/tvangsfullbyrdelsesloven-tvangsloven.md",
       "slug": "tvangsfullbyrdelsesloven-tvangsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)",
-      "total_changes": 4,
-      "xml_hash": "9c46fc97e5cb3d3fc96d530742b461dac7a7bbc47283d0907b1e5a9063b1149a"
+      "total_changes": 5,
+      "xml_hash": "97ff7be59a4c74799fa1a4e9725b0129eee64766e0e4127152c7d5f6d0a0aae1"
     },
     "nl-19920626-087": {
       "doc_type": "lov",
@@ -3149,15 +3149,15 @@
     "nl-19920717-099": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/gjeldsordningsloven-gol.md",
       "slug": "gjeldsordningsloven-gol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om frivillig og tvungen gjeldsordning for privatpersoner (gjeldsordningsloven)",
-      "total_changes": null,
-      "xml_hash": "0338b195ae3b0ca4cc2b84ea8219f40996bd7b7b97159a4319ac34e8eabb1430"
+      "total_changes": 4,
+      "xml_hash": "970bc05e61796c46b4dfe203f1cc103605aa148cb254c06716fa84f02967b4f1"
     },
     "nl-19921127-109": {
       "doc_type": "lov",
@@ -3239,15 +3239,15 @@
       "eu_basis": [
         "32019R0006"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/legemiddelloven.md",
       "slug": "legemiddelloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om legemidler m.v. (legemiddelloven)",
-      "total_changes": null,
-      "xml_hash": "cb00137f109a4518084195f0642861ebce33eaac688af340b96b4cc4ebb08a3a"
+      "total_changes": 4,
+      "xml_hash": "ffe667dcf973808999308c34304bcf051b5243e62a3a091fb37dd65c6e2c034b"
     },
     "nl-19930312-032": {
       "doc_type": "lov",
@@ -3359,15 +3359,15 @@
         "32002R0889",
         "32018R1139"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/luftfartsloven-luftl.md",
       "slug": "luftfartsloven-luftl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om luftfart (luftfartsloven)",
-      "total_changes": null,
-      "xml_hash": "4b2b5247886bfb613965eca0e71282f376ba5a89b915fddc77507a2fa07b2a05"
+      "total_changes": 4,
+      "xml_hash": "a218f2020b8e74b95013312511b76c3857e3ddd3a5f0d9f5d5d255d206fabe09"
     },
     "nl-19940325-007": {
       "doc_type": "lov",
@@ -3429,15 +3429,15 @@
         "32009R0392",
         "32010R1177"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/sjøloven-sjøl.md",
       "slug": "sjøloven-sjøl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om sjøfarten (sjøloven)",
-      "total_changes": null,
-      "xml_hash": "9a7e389f93e88dd095ced863f4d3abf788254d1bc85ef4a6b6373b8ff8e2a4b1"
+      "total_changes": 4,
+      "xml_hash": "a1015aa08d01c05bc95434437b3f2f6eb1815dc8a95b19d0f8f4aa06145f0b97"
     },
     "nl-19940701-049": {
       "doc_type": "lov",
@@ -3550,15 +3550,15 @@
     "nl-19950804-053": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/politiloven-politil.md",
       "slug": "politiloven-politil",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om politiet (politiloven)",
-      "total_changes": null,
-      "xml_hash": "b965d38b81c18cd727be70bbfeeb2f1e0d8e724602e688075db7ded303dec6d7"
+      "total_changes": 4,
+      "xml_hash": "a237b7cecad1ecb113b7977db89aaff99cd4cb64e3c2a04e5d96ddc3e2e0756f"
     },
     "nl-19951222-085": {
       "doc_type": "lov",
@@ -3604,15 +3604,15 @@
     "nl-19960621-038": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/naturoppsynsloven.md",
       "slug": "naturoppsynsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om statlig naturoppsyn (naturoppsynsloven)",
-      "total_changes": null,
-      "xml_hash": "37dc1231ab97a4992a0e07242e0840d8965d463acda1e04ac76a7e54fbfe3b10"
+      "total_changes": 4,
+      "xml_hash": "d5bc12609f5f349630a42625b405977c6ec238ae094caff1646e4e65d3dcc784"
     },
     "nl-19960823-063": {
       "doc_type": "lov",
@@ -3661,15 +3661,15 @@
         "31994L0022",
         "32009L0073"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/petroleumsloven-petrl.md",
       "slug": "petroleumsloven-petrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om petroleumsvirksomhet [petroleumsloven]",
-      "total_changes": null,
-      "xml_hash": "8103a8eea8a6221834beb8149614866ba1a8409772f9d464f4f4481a80aae403"
+      "total_changes": 4,
+      "xml_hash": "beca4059e1ab6bb79184529f7c327731a081daaa2b5f5a3568da00a232c4b1a8"
     },
     "nl-19961213-087": {
       "doc_type": "lov",
@@ -3704,15 +3704,15 @@
         "32009R0987",
         "32019L1158"
       ],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/folketrygdloven-ftrl.md",
       "slug": "folketrygdloven-ftrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folketrygd (folketrygdloven)",
-      "total_changes": 6,
-      "xml_hash": "8727219a0714c4c9a020e32cb3f7b69230ab485a87f6b6e82d8db4da642a6a33"
+      "total_changes": 7,
+      "xml_hash": "3a311077a4fd8f31587149b5df276d3e3472c4ee3821e424e412617461ece73d"
     },
     "nl-19970509-026": {
       "doc_type": "lov",
@@ -3782,28 +3782,28 @@
     "nl-19970613-044": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/aksjeloven-asl.md",
       "slug": "aksjeloven-asl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om aksjeselskaper (aksjeloven)",
-      "total_changes": null,
-      "xml_hash": "4a73900360b70e6b5e619af9ccf81e92663b56f10aa4bdf492d021c64669c463"
+      "total_changes": 4,
+      "xml_hash": "3885348cf0f8345b43e053becc8bf289c4af0f3278d267bba54795912d6a39a7"
     },
     "nl-19970613-045": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/allmennaksjeloven-asal.md",
       "slug": "allmennaksjeloven-asal",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om allmennaksjeselskaper (allmennaksjeloven)",
-      "total_changes": null,
-      "xml_hash": "b0a7f2b5b1f8dd5f9256f6b47485c0bfaf25bdee18896b0cc704088d23193a94"
+      "total_changes": 4,
+      "xml_hash": "c445f4f680a7b7188d62fb05e32d7a84ab813fd0d91f373cd3a220e19f795c5e"
     },
     "nl-19970613-047": {
       "doc_type": "lov",
@@ -3873,15 +3873,15 @@
     "nl-19980626-047": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/småbåtloven-småbåtl.md",
       "slug": "småbåtloven-småbåtl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fritids- og småbåter (småbåtloven)",
-      "total_changes": null,
-      "xml_hash": "07c03ca641c93718c0aa255e875624249a274bde2eca320585bd7eaa9ad72e1f"
+      "total_changes": 4,
+      "xml_hash": "0192bf1dea5868dc9d61ffe21250806e50a537557fdc862182eb4589a45fca0c"
     },
     "nl-19980717-054": {
       "doc_type": "lov",
@@ -3943,28 +3943,28 @@
     "nl-19990129-006": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/iks-loven.md",
       "slug": "iks-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om interkommunale selskaper (IKS-loven)",
-      "total_changes": null,
-      "xml_hash": "9a95ca32c63cee97f440481eb2612a0456d6f2836bbbe47ed414852d7744d5a0"
+      "total_changes": 4,
+      "xml_hash": "6746ac1eeb4fd5ab08436e586079b5954c106e0f9bd315a3dbeba6aa80c31c52"
     },
     "nl-19990326-014": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/skatteloven-sktl.md",
       "slug": "skatteloven-sktl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skatt av formue og inntekt (skatteloven)",
-      "total_changes": null,
-      "xml_hash": "a2895955323746e1385171f00906f417e178d488006a90c1562e52c04091c22a"
+      "total_changes": 4,
+      "xml_hash": "1b2c2d8b5dd561bc1d7834c30587b840663a3a164a6e707863e8386c0a409da9"
     },
     "nl-19990326-015": {
       "doc_type": "lov",
@@ -4049,15 +4049,15 @@
     "nl-19990702-061": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/spesialisthelsetjenesteloven-sphl.md",
       "slug": "spesialisthelsetjenesteloven-sphl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven)",
-      "total_changes": 7,
-      "xml_hash": "96804b01f843ece48e67cfd8c5cc1291e5480a843e80e3473ece229bb52fc11c"
+      "total_changes": 8,
+      "xml_hash": "5265f01e3f272cc09b19750ba3fda63eea5a473276076d0d21e5980b116faa5f"
     },
     "nl-19990702-062": {
       "doc_type": "lov",
@@ -4075,28 +4075,28 @@
     "nl-19990702-063": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/pasient-og-brukerrettighetsloven-pbrl.md",
       "slug": "pasient-og-brukerrettighetsloven-pbrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven)",
-      "total_changes": 7,
-      "xml_hash": "a4a2335596d376184d80047277c10f1f8449948375f29ed285920884ab793e38"
+      "total_changes": 8,
+      "xml_hash": "370b870bb1a1ef675f4d06e7ef82b24137c16231cac20d6b5a09721acc0a824b"
     },
     "nl-19990702-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/helsepersonelloven-hpl.md",
       "slug": "helsepersonelloven-hpl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om helsepersonell m.v. (helsepersonelloven)",
-      "total_changes": 4,
-      "xml_hash": "8e8ccb8b0fb35e334d634db6e1c50e1b04facb2c2d8623bea531abf1d88a4617"
+      "total_changes": 5,
+      "xml_hash": "0b8b1f1423d4ec2c0477a298abe9866747eaf9b9c3912e5148fae82e1bd45054"
     },
     "nl-19990716-066": {
       "doc_type": "lov",
@@ -4133,15 +4133,15 @@
       "eu_basis": [
         "31998L0026"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/betalingssystemloven.md",
       "slug": "betalingssystemloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om betalingssystemer m.v.",
-      "total_changes": null,
-      "xml_hash": "0881a71de7924969d1f85865ff403c958cf7b33dd28af5769c0bb4cb05e0698f"
+      "total_changes": 4,
+      "xml_hash": "3966351eb8268e57649cf71829e9fe6b1184c470de1880faacc2719bd7a70a2b"
     },
     "nl-19991222-105": {
       "doc_type": "lov",
@@ -4175,15 +4175,15 @@
         "32009L0138",
         "32003L0041"
       ],
-      "last_changed": "2026-05-09",
-      "last_seen": "2026-05-09T06:13:15.984558Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/foretakspensjonsloven-ftpensjl.md",
       "slug": "foretakspensjonsloven-ftpensjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om foretakspensjon (foretakspensjonsloven)",
-      "total_changes": 5,
-      "xml_hash": "e9c5eaa31dc73ba4043ccda8ab4aefbaea21825795741bf17e4c6c4ae8d80419"
+      "total_changes": 6,
+      "xml_hash": "66a5a2174fdc1970e1ecaa8499e609f1714540b88038ef45fac8eb5c5e0d660c"
     },
     "nl-20000512-036": {
       "doc_type": "lov",
@@ -4201,15 +4201,15 @@
     "nl-20000602-039": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/apotekloven-apotl.md",
       "slug": "apotekloven-apotl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om apotek (apotekloven)",
-      "total_changes": null,
-      "xml_hash": "5e6b7bd724096a382b7c546728c78ced909852eab86f0e27b09fe138e5ff0c5b"
+      "total_changes": 4,
+      "xml_hash": "0de07eca4ac929fd875e65a65aa815f946c1290c4b844fde60f58e75c2bf34a4"
     },
     "nl-20000623-056": {
       "doc_type": "lov",
@@ -4253,15 +4253,15 @@
     "nl-20001124-082": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/vannressursloven-vrl.md",
       "slug": "vannressursloven-vrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om vassdrag og grunnvann (vannressursloven)",
-      "total_changes": null,
-      "xml_hash": "448c33cf7b33ed12a4438e85a444b1863de039306ffd23ff88ac77be53b5afc9"
+      "total_changes": 4,
+      "xml_hash": "c48822de08905e280bf6131032f8643883104c73d2060b23f0fdf9fb88094ce2"
     },
     "nl-20010105-001": {
       "doc_type": "lov",
@@ -4409,15 +4409,15 @@
     "nl-20010615-093": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/helseforetaksloven-hfl.md",
       "slug": "helseforetaksloven-hfl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om helseforetak m.m. (helseforetaksloven)",
-      "total_changes": null,
-      "xml_hash": "9722a1577cdc3477cc8f9b9daa75a4eb0e0b4ceee289e9f2c621471b75050b73"
+      "total_changes": 4,
+      "xml_hash": "5b7d585f599d4b8581f2f8c026875137740525dc258dd87319bc063f2fd04e3d"
     },
     "nl-20011214-095": {
       "doc_type": "lov",
@@ -4618,15 +4618,15 @@
       "eu_basis": [
         "32003L0004"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/miljøinformasjonsloven-mlinfl.md",
       "slug": "miljøinformasjonsloven-mlinfl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven)",
-      "total_changes": null,
-      "xml_hash": "4f249d6f0cefb4d11b529a9d06e4d09cab0b8dc55ff9f46653a2ec13ed725708"
+      "total_changes": 4,
+      "xml_hash": "5bc94cd46b2066ed70cba12aab0e70ba51fda87861b2298d49ec18f84c79aace"
     },
     "nl-20030523-035": {
       "doc_type": "lov",
@@ -4647,28 +4647,28 @@
     "nl-20030606-038": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/bustadbyggjelagslova-bbl.md",
       "slug": "bustadbyggjelagslova-bbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bustadbyggjelag (bustadbyggjelagslova)",
-      "total_changes": null,
-      "xml_hash": "4eaa86306b8910c49fa1f463996515c0145b3539a3544cc31e389352c2efdfa2"
+      "total_changes": 4,
+      "xml_hash": "73d6f29aad05c591cdde205f2b5aed5bfd2f065f5eecbbd720a871a068f6a637"
     },
     "nl-20030606-039": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/burettslagslova-brl.md",
       "slug": "burettslagslova-brl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om burettslag (burettslagslova)",
-      "total_changes": null,
-      "xml_hash": "49fe9f08447b65dc5dda179223ffddaf59787c9ca8653d6e902ee4f38e5cee5f"
+      "total_changes": 4,
+      "xml_hash": "115a4603b02c0cea19b14182ed40bdffb288cad86552eb2b5741cef8bf582615"
     },
     "nl-20030620-044": {
       "doc_type": "lov",
@@ -4725,15 +4725,15 @@
     "nl-20030704-084": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/privatskolelova-prskol.md",
       "slug": "privatskolelova-prskol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om private skolar med rett til statstilskot (privatskolelova)",
-      "total_changes": null,
-      "xml_hash": "5ce7e9c99ea73f7873a09ede8f3f87833875bd9a69347e96c9905c6af6f64803"
+      "total_changes": 4,
+      "xml_hash": "3436ac09ef6ee4380586ce6467f22bcbe1489e582d61738af53f3f7d4433acf9"
     },
     "nl-20030829-090": {
       "doc_type": "lov",
@@ -4816,15 +4816,15 @@
     "nl-20031219-124": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/matloven-matl.md",
       "slug": "matloven-matl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om matproduksjon og mattrygghet mv. (matloven)",
-      "total_changes": null,
-      "xml_hash": "2ba70ca2a74d77e3be54f4d2784c8a5cbc61a024a461b6711b92b6609fa1ae1b"
+      "total_changes": 4,
+      "xml_hash": "4e9a3f914bd6707795525cb1d07a5753d6a180fbdff833ce17a47591d0395615"
     },
     "nl-20031219-130": {
       "doc_type": "lov",
@@ -4883,15 +4883,15 @@
       "eu_basis": [
         "32002L0047"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-finansiell-sikkerhetsstillelse.md",
       "slug": "lov-om-finansiell-sikkerhetsstillelse",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansiell sikkerhetsstillelse",
-      "total_changes": null,
-      "xml_hash": "7c9956e1e1e41d53856f269b9de4e3a4d35a6ea65577ae43e73ecbc66bb9fd4a"
+      "total_changes": 4,
+      "xml_hash": "3cbdc28e43999f281aa0176be6f1950ce4b35e37fe1ea48797b4d09829ef15e5"
     },
     "nl-20040514-025": {
       "doc_type": "lov",
@@ -4922,15 +4922,15 @@
     "nl-20040702-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/brukerromsloven.md",
       "slug": "brukerromsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om ordning med brukerrom for inntak av narkotika (brukerromsloven)",
-      "total_changes": null,
-      "xml_hash": "918714d991b5c568c871f20900f120eaeade56c5995090c029a888ee683fca37"
+      "total_changes": 4,
+      "xml_hash": "dcdcad13a0d607f0d11d55b7155912332b1eb7ccd224a14c4f8afa209a56aa62"
     },
     "nl-20040827-070": {
       "doc_type": "lov",
@@ -4948,15 +4948,15 @@
     "nl-20041119-073": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/bokføringsloven.md",
       "slug": "bokføringsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bokføring (bokføringsloven)",
-      "total_changes": null,
-      "xml_hash": "93cb7be846cb88b57286205d93c802ccabb174cf09d36f8c0a3d27bc3413fb1b"
+      "total_changes": 4,
+      "xml_hash": "cfac5b0f2122f05d7c722886b88163ecb2d04ff6a782a35cf7f16c3819ecfb82"
     },
     "nl-20041210-076": {
       "doc_type": "lov",
@@ -5017,15 +5017,15 @@
         "32023L0959",
         "32015R0757"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/klimakvoteloven.md",
       "slug": "klimakvoteloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven)",
-      "total_changes": null,
-      "xml_hash": "35b21a47e8f6cb273389c8c19060731c42ee3e86d63bf6512c12b97f0ff95245"
+      "total_changes": 4,
+      "xml_hash": "04781107660c86f0b43107666644026859741634c55e804025d82ca4aa8b5671"
     },
     "nl-20041217-101": {
       "doc_type": "lov",
@@ -5120,15 +5120,15 @@
     "nl-20050520-028": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-13",
-      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/straffeloven-strl.md",
       "slug": "straffeloven-strl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om straff (straffeloven)",
-      "total_changes": 4,
-      "xml_hash": "23956bfe117b1876ffe8258c122a7513b594a32c01b5be77f63fcaaf1db5c630"
+      "total_changes": 5,
+      "xml_hash": "f8777fe95865a39ae059b28690a98202a457d82bf38430e82cbc77145fbfe2e6"
     },
     "nl-20050527-031": {
       "doc_type": "lov",
@@ -5161,15 +5161,15 @@
     "nl-20050603-037": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/utdanningsstøtteloven.md",
       "slug": "utdanningsstøtteloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utdanningsstøtte (utdanningsstøtteloven)",
-      "total_changes": null,
-      "xml_hash": "a48c05de5efd60ffa709d180e9de80fca7c4312dad65ab446b1b5dd78d729d47"
+      "total_changes": 4,
+      "xml_hash": "0f7eec0d804c0c3b0926975ce55f5c0c3046267e77e00049a192b762c62c9212"
     },
     "nl-20050610-044": {
       "doc_type": "lov",
@@ -5177,15 +5177,15 @@
         "32016L2341",
         "32003L0041"
       ],
-      "last_changed": "2026-05-09",
-      "last_seen": "2026-05-09T06:13:15.984558Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/forsikringsvirksomhetsloven-forsvl.md",
       "slug": "forsikringsvirksomhetsloven-forsvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsvirksomhet (forsikringsvirksomhetsloven)",
-      "total_changes": 5,
-      "xml_hash": "f78ac4fc4dc9f3249fdc1ef7c52d9327ee24310553cdaf22270abb047dc61b83"
+      "total_changes": 6,
+      "xml_hash": "994fd90a2c30c0f8113d47df34c4d81fe2c2d6472c70bfcf12544fd7e5298e02"
     },
     "nl-20050610-051": {
       "doc_type": "lov",
@@ -5203,41 +5203,41 @@
     "nl-20050617-062": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/arbeidsmiljøloven-aml.md",
       "slug": "arbeidsmiljøloven-aml",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)",
-      "total_changes": null,
-      "xml_hash": "4731e8e5a8948e368db0bb1514c99554f02db2d3974480cfe0594a929a362f4f"
+      "total_changes": 4,
+      "xml_hash": "e14fb95ad90675b7243f10846516263ee86c9819cba64bc86b576bab4864637b"
     },
     "nl-20050617-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/barnehageloven-bhl.md",
       "slug": "barnehageloven-bhl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnehager (barnehageloven)",
-      "total_changes": 5,
-      "xml_hash": "5768d8118ed38fce275efcbea4ef1e8c5fd43ef226794e1e8ad5ac4db0e0544a"
+      "total_changes": 6,
+      "xml_hash": "06750723a9ca412a681d2e92122be44cad848d0cc54ff9e4ed4dc9df0ff5b746"
     },
     "nl-20050617-067": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/skattebetalingsloven-sktbl.md",
       "slug": "skattebetalingsloven-sktbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)",
-      "total_changes": null,
-      "xml_hash": "ea67dba1bd0ab162e30ff2753da46fb4456436905a46fe9b57a72996e61c1370"
+      "total_changes": 4,
+      "xml_hash": "d0dc89e2dc6475a9b6f9fbaecfac3aa42c8c07e479282a6ce292b36b2c3cb6b6"
     },
     "nl-20050617-079": {
       "doc_type": "lov",
@@ -5255,28 +5255,28 @@
     "nl-20050617-085": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/finnmarksloven.md",
       "slug": "finnmarksloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)",
-      "total_changes": null,
-      "xml_hash": "78d06f96bc3ce76e3364dd7f89e09333289b6e9d67faf2bad9f01c521b32972f"
+      "total_changes": 4,
+      "xml_hash": "66dfc8ebe0f7e0474ca3664e6488214868c985ff1eabde4ff7989db5c281d784"
     },
     "nl-20050617-090": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-23",
-      "last_seen": "2026-05-23T06:31:59.201228Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/tvisteloven-tvl.md",
       "slug": "tvisteloven-tvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mekling og rettergang i sivile tvister (tvisteloven)",
-      "total_changes": 5,
-      "xml_hash": "a8c6ef517d49cd31b56ed52fc4e42c46461c5d8c90c2bc67a0611c34e21d9cb9"
+      "total_changes": 6,
+      "xml_hash": "21f06962c7d0881fd059818c813fe1d3908cbaced1ba1c692326f2f156f55290"
     },
     "nl-20050617-098": {
       "doc_type": "lov",
@@ -5372,15 +5372,15 @@
     "nl-20060519-016": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/offentleglova-offl.md",
       "slug": "offentleglova-offl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
-      "total_changes": 4,
-      "xml_hash": "69523525394690fbaa3fa08f766949d9150b1c13c4325b1d9f8e68f65286cc82"
+      "total_changes": 5,
+      "xml_hash": "e5eff449c19c4f5a63c53682c776057b1a4d26246e95fdd351796937b304b91f"
     },
     "nl-20060616-020": {
       "doc_type": "lov",
@@ -5567,28 +5567,28 @@
         "32015R2365",
         "32022R0858"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/verdipapirhandelloven-vphl.md",
       "slug": "verdipapirhandelloven-vphl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirhandel (verdipapirhandelloven)",
-      "total_changes": null,
-      "xml_hash": "82aa87ff55567dc16c964647ae7e2384127cea09f7e26f46dd7a16c4ae2faf20"
+      "total_changes": 4,
+      "xml_hash": "3ef2ac40e4f344e183820918f44328ff543ef487d6846b428649cb99ceb54046"
     },
     "nl-20070629-081": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/samvirkelova.md",
       "slug": "samvirkelova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om samvirkeforetak (samvirkelova)",
-      "total_changes": null,
-      "xml_hash": "8246fe0c300aac5202eb19c3d5a893c4cd797c4753240b752fdfc5361fabb345"
+      "total_changes": 4,
+      "xml_hash": "361d3caf26d91990ceefd1500cf2ae1b59fcf24cf5d80b988d3dbd1f6859c180"
     },
     "nl-20070629-086": {
       "doc_type": "lov",
@@ -5660,15 +5660,15 @@
       "eu_basis": [
         "32004L0038"
       ],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/utlendingsloven-utlendl.md",
       "slug": "utlendingsloven-utlendl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
-      "total_changes": 5,
-      "xml_hash": "eef8f431d9e6357d68833c724672a691d0099a5982a44a6c2bc22c29dc854248"
+      "total_changes": 6,
+      "xml_hash": "9f5c5dc8e9e8162f2093e7d1f81a7c215a695507cf8cd3c3115d72009da049e5"
     },
     "nl-20080606-037": {
       "doc_type": "lov",
@@ -5712,15 +5712,15 @@
     "nl-20080627-071": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/plan-og-bygningsloven-pbl.md",
       "slug": "plan-og-bygningsloven-pbl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)",
-      "total_changes": 5,
-      "xml_hash": "aecd68e9feacc526a73500eebd93ba38da8472e68490475678d6ac5ff99530bc"
+      "total_changes": 6,
+      "xml_hash": "2239bb86af47fd7d0218914000caf83f178bc758849710986b056f342e98e028"
     },
     "nl-20081017-079": {
       "doc_type": "lov",
@@ -5761,15 +5761,15 @@
         "32011L0083",
         "32019L0771"
       ],
-      "last_changed": "2026-05-08",
-      "last_seen": "2026-05-08T05:54:50.775222Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/markedsføringsloven-mfl.md",
       "slug": "markedsføringsloven-mfl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven)",
-      "total_changes": 4,
-      "xml_hash": "a7643e07f2293673c6054c26a83c38cf9473d015cfd1bc4c72b262d368a2933a"
+      "total_changes": 5,
+      "xml_hash": "a8d2c5f79d4659420b5ccfa6e432b927856795ebb0320db02a8dbb54bb5a5d51"
     },
     "nl-20090306-012": {
       "doc_type": "lov",
@@ -5826,15 +5826,15 @@
     "nl-20090605-035": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/markaloven.md",
       "slug": "markaloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om naturområder i Oslo og nærliggende kommuner (markaloven)",
-      "total_changes": null,
-      "xml_hash": "865a037745d212173949644a9762c2e228c12a6c841c53b7a69c5ba42891697c"
+      "total_changes": 4,
+      "xml_hash": "016739cd40b7f9dcf616675878178b724bee985870d71d41fa6859e40e8497a3"
     },
     "nl-20090619-044": {
       "doc_type": "lov",
@@ -5852,15 +5852,15 @@
     "nl-20090619-058": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/merverdiavgiftsloven-mval.md",
       "slug": "merverdiavgiftsloven-mval",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om merverdiavgift (merverdiavgiftsloven)",
-      "total_changes": null,
-      "xml_hash": "aa604d374a7fbb19f6747babaadfef1619afc0c8845a78cc3b5e60c1ed999fbe"
+      "total_changes": 4,
+      "xml_hash": "532515825e79b79fccc41edbb9c9e2c720dad87a36416b0564b1dbd7fe06af46"
     },
     "nl-20090619-073": {
       "doc_type": "lov",
@@ -6000,15 +6000,15 @@
       "eu_basis": [
         "32015L2436"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/varemerkeloven-vml.md",
       "slug": "varemerkeloven-vml",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om beskyttelse av varemerker (varemerkeloven)",
-      "total_changes": null,
-      "xml_hash": "4a37196138d301c2651638e13f40ebbb46cd4800079e9e1ea0c130011b411101"
+      "total_changes": 4,
+      "xml_hash": "7060f1235b0f8ebcd779f67d5ed4292a108e903b524e65e95eabb1976b3cad33"
     },
     "nl-20100326-009": {
       "doc_type": "lov",
@@ -6028,15 +6028,15 @@
       "eu_basis": [
         "32016L0680"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/politiregisterloven.md",
       "slug": "politiregisterloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om behandling av opplysninger i politiet og påtalemyndigheten (politiregisterloven)",
-      "total_changes": null,
-      "xml_hash": "0c023b4e6de1f22514f38197d756c1d6c87faff53b8258454e7cc91b8bcdd2aa"
+      "total_changes": 4,
+      "xml_hash": "ac223ffab624f173c69551221597c0d18351243a4bb531f9f563be0611c9dc9e"
     },
     "nl-20100604-021": {
       "doc_type": "lov",
@@ -6177,15 +6177,15 @@
     "nl-20110624-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/helse-og-omsorgstjenesteloven-hol.md",
       "slug": "helse-og-omsorgstjenesteloven-hol",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)",
-      "total_changes": 8,
-      "xml_hash": "16b0c0f5fbcc177c46c893dfb2940a8ad23828f0a14b255daeab0489fc402316"
+      "total_changes": 9,
+      "xml_hash": "a1b5b201919a71eb9b62efa8a4318c6778fb9d31161a1a0164cf25fa1a400a55"
     },
     "nl-20110624-039": {
       "doc_type": "lov",
@@ -6207,15 +6207,15 @@
         "32015R2365",
         "32017R1131"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/verdipapirfondloven.md",
       "slug": "verdipapirfondloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirfond (verdipapirfondloven)",
-      "total_changes": null,
-      "xml_hash": "3ecd770cefc7514a18e45a0a5da1ccc33438a3d4a6e546870dd963377230a4e6"
+      "total_changes": 4,
+      "xml_hash": "19d146ac90ed08db798b5fa2d33231e9b1153633f645a4bd1b29c2882fc19d91"
     },
     "nl-20111209-052": {
       "doc_type": "lov",
@@ -6378,15 +6378,15 @@
     "nl-20120824-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/bustøttelova.md",
       "slug": "bustøttelova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bustøtte og kommunale bustadtilskot (bustøttelova)",
-      "total_changes": null,
-      "xml_hash": "d0596f2f3fc5db930ce9a5ee1482231f53c2d3beb2ead8900591b1737bef87dc"
+      "total_changes": 4,
+      "xml_hash": "134f35dd2874ba29f0130af1df3922351662a50ac3bac774e4125455ac617398"
     },
     "nl-20121130-070": {
       "doc_type": "lov",
@@ -6579,15 +6579,15 @@
         "32019L2161",
         "32002L0065"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/angrerettloven-angrl.md",
       "slug": "angrerettloven-angrl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler (angrerettloven).",
-      "total_changes": null,
-      "xml_hash": "4bce1e0ac8d3b98925f6b493ffbfa0b23f3a6dc166bb4ebd6f805ff55377652d"
+      "total_changes": 4,
+      "xml_hash": "6df16f7a1beb2c8712ba68ac27cac2da22fa831063fab660d736f04ff04b6238"
     },
     "nl-20140620-028": {
       "doc_type": "lov",
@@ -6598,30 +6598,30 @@
         "32015R0760",
         "32015R2365"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/aif-loven.md",
       "slug": "aif-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forvaltning av alternative investeringsfond",
-      "total_changes": null,
-      "xml_hash": "e687b0fe020525bc107036cfb952db2f3a1e8bb1aef7a6625cd1ee0c33b8d14e"
+      "total_changes": 4,
+      "xml_hash": "b1a1764222ff68ee6ff896194613dd3a644d5e7b3212acb55057b6d30155751c"
     },
     "nl-20140620-030": {
       "doc_type": "lov",
       "eu_basis": [
         "32009R1060"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-kredittvurderingsbyråer.md",
       "slug": "lov-om-kredittvurderingsbyråer",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kredittvurderingsbyråer",
-      "total_changes": null,
-      "xml_hash": "97d813c858839c371b6dcf38cf7ed7bcc162c8c541b4a725e533db507dca6cf7"
+      "total_changes": 4,
+      "xml_hash": "e864a956ac0d88fc895908ce6b1d6962b13fd6135a78ca6745b01f18937463bc"
     },
     "nl-20140620-040": {
       "doc_type": "lov",
@@ -6766,15 +6766,15 @@
         "32017R2402",
         "32016L2341"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/finansforetaksloven.md",
       "slug": "finansforetaksloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansforetak og finanskonsern (finansforetaksloven)",
-      "total_changes": null,
-      "xml_hash": "aa3b62f3ea09a45208f2f86a08edfbc48c3896800b3e57116611152566869bab"
+      "total_changes": 4,
+      "xml_hash": "3c06cd7e301cc1cc4dea7b7b07667364a9415fc0cb9e06b6d491228688574da5"
     },
     "nl-20150424-020": {
       "doc_type": "lov",
@@ -6954,15 +6954,15 @@
       "eu_basis": [
         "32016R1011"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/referanseverdiloven.md",
       "slug": "referanseverdiloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fastsettelse av finansielle referanseverdier (referanseverdiloven)",
-      "total_changes": null,
-      "xml_hash": "f30e216cbc8f7de9d3d76a531894cffc0b877268d12905907307be0ae13eba70"
+      "total_changes": 4,
+      "xml_hash": "9f92e14484bd06af56632927da277e5f721f8046bbf5ffb8c7a7bca40af8080d"
     },
     "nl-20151211-099": {
       "doc_type": "lov",
@@ -7043,15 +7043,15 @@
     "nl-20160527-014": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/skatteforvaltningsloven-sktfvl.md",
       "slug": "skatteforvaltningsloven-sktfvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skatteforvaltning (skatteforvaltningsloven)",
-      "total_changes": null,
-      "xml_hash": "c24bb03107936c9466e3ed8b0316814cc691f08ccc2b58604786baf8b76dd80d"
+      "total_changes": 4,
+      "xml_hash": "4358495c59e831c6c98cd44b009af92b40b5e33557e9f86455d68ad53d16835e"
     },
     "nl-20160617-029": {
       "doc_type": "lov",
@@ -7542,15 +7542,15 @@
     "nl-20180323-003": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-bankenes-sikringsfond.md",
       "slug": "lov-om-bankenes-sikringsfond",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Bankenes sikringsfond",
-      "total_changes": null,
-      "xml_hash": "a4e423cd3379100f1f72f6dbeb3c223e331165e580ec3816ab13a5ea33c03de2"
+      "total_changes": 4,
+      "xml_hash": "a3b0bf698ac20cf584eda581da83b1af6749af3386e58d83cddd3d3be1f7e54c"
     },
     "nl-20180420-007": {
       "doc_type": "lov",
@@ -7568,15 +7568,15 @@
     "nl-20180420-008": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-13",
-      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/grenseloven.md",
       "slug": "grenseloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grensetilsyn og grensekontroll av personer (grenseloven)",
-      "total_changes": 4,
-      "xml_hash": "eff0ca29664b777d16cd956f394e71d7f66f17aa25dfcbcb62f53cdb1a9e7481"
+      "total_changes": 5,
+      "xml_hash": "26b2e9b62ecbe332ede4c8911226a3fdcadaff3b55d62f640e472e4379659339"
     },
     "nl-20180601-023": {
       "doc_type": "lov",
@@ -7584,28 +7584,28 @@
         "32015L0849",
         "32023R1113"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/hvitvaskingsloven-hvvl.md",
       "slug": "hvitvaskingsloven-hvvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)",
-      "total_changes": null,
-      "xml_hash": "d8f89deb62d20a031c5468511a4611620949c8a6494c12005daa3c6e667e3e54"
+      "total_changes": 4,
+      "xml_hash": "83f677377f7d31be1ba70c101afb7b905265406dd9bb6db7e9807e343bad90ff"
     },
     "nl-20180601-024": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/sikkerhetsloven-sikkl.md",
       "slug": "sikkerhetsloven-sikkl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
-      "total_changes": null,
-      "xml_hash": "e8967b868a8113769346244528c9654de7575dd7cf761fd563105e00cc8a188c"
+      "total_changes": 4,
+      "xml_hash": "db7e1a4f2f965a9596c82c4953c54e81e78ae8de894230502e496589724f282c"
     },
     "nl-20180608-028": {
       "doc_type": "lov",
@@ -7722,15 +7722,15 @@
     "nl-20180622-083": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/kommuneloven.md",
       "slug": "kommuneloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kommuner og fylkeskommuner (kommuneloven)",
-      "total_changes": null,
-      "xml_hash": "7048f2d5a0d5d1c001820f660c2f5d155b7fdfe00b197f871f5579e4d933a300"
+      "total_changes": 4,
+      "xml_hash": "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
     },
     "nl-20190301-002": {
       "doc_type": "lov",
@@ -7767,28 +7767,28 @@
         "32014R0909",
         "32017L0828"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/verdipapirsentralloven.md",
       "slug": "verdipapirsentralloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)",
-      "total_changes": null,
-      "xml_hash": "13fb1132286e0bc08120398730986a15941ec709321209bad8abbe8949f1ab26"
+      "total_changes": 4,
+      "xml_hash": "6137a50951df0ab413c38460a279b53115b4d1ea85a5dd0ed57954e551082a7a"
     },
     "nl-20190322-007": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/havbunnsmineralloven.md",
       "slug": "havbunnsmineralloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven)",
-      "total_changes": null,
-      "xml_hash": "b50a0096c53efef953dce034baa73e22f23142a2155f2dffd404e5e4bf8edd6c"
+      "total_changes": 4,
+      "xml_hash": "57c9b1e404d3dfbf02090a13fd4a45be1ceb3759f54f1c00f58717147fbd0cec"
     },
     "nl-20190329-008": {
       "doc_type": "lov",
@@ -7806,15 +7806,15 @@
     "nl-20190614-021": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/arveloven.md",
       "slug": "arveloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om arv og dødsboskifte (arveloven)",
-      "total_changes": null,
-      "xml_hash": "858eb5e8ad82a03a46d0502d2fbf82936bb13e6215fde8334621106d65ccd4a3"
+      "total_changes": 4,
+      "xml_hash": "e4a17d0dd522ffe190fdd0088b1c74a429c57c242244bbafa2a528e59d07ec48"
     },
     "nl-20190621-031": {
       "doc_type": "lov",
@@ -7962,15 +7962,15 @@
     "nl-20191220-109": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/kredittopplysningsloven.md",
       "slug": "kredittopplysningsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)",
-      "total_changes": null,
-      "xml_hash": "691a5a6e3b1598380de6c4b371a1f08f6002a4f7ab5af6130fe47e70d8d86e7d"
+      "total_changes": 4,
+      "xml_hash": "bcf87bcba8fc52b05fb51a3347a1eb067aa6d23cb889a40490a95f110e13ef20"
     },
     "nl-20200327-012": {
       "doc_type": "lov",
@@ -8055,15 +8055,15 @@
     "nl-20200424-031": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/trossamfunnsloven.md",
       "slug": "trossamfunnsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om tros- og livssynssamfunn (trossamfunnsloven)",
-      "total_changes": null,
-      "xml_hash": "1c4aebd6cce4356e86873689d0e73dbb8d06b0664a57d8684890effe61c935c9"
+      "total_changes": 4,
+      "xml_hash": "c250217b46deaf0933dbd73e554da74b3a5ae9a99ff86279e965263d21df20ed"
     },
     "nl-20200424-032": {
       "doc_type": "lov",
@@ -8084,28 +8084,28 @@
         "32017R0745",
         "32017R0746"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-medisinsk-utstyr.md",
       "slug": "lov-om-medisinsk-utstyr",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om medisinsk utstyr",
-      "total_changes": null,
-      "xml_hash": "ce5aa7fa336fae6d10528f8eb8d096ae7baece735915975b2b3ae6767d7bbb3d"
+      "total_changes": 4,
+      "xml_hash": "9d4bb1c4b7d5441765e3112e5b079a4e906c3afbbaf7d23b4e7e2d01f23026c2"
     },
     "nl-20200507-038": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/rekonstruksjonsloven.md",
       "slug": "rekonstruksjonsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven)",
-      "total_changes": null,
-      "xml_hash": "9464c19bc779ec38dbbb7130f192ae7ba06f9fd5340327680a2827b734cd7f91"
+      "total_changes": 4,
+      "xml_hash": "41f9547d59d5c52853b93c426e583c0d21d0051d79c1a396574f56c3d91fb3cc"
     },
     "nl-20200507-040": {
       "doc_type": "lov",
@@ -8164,15 +8164,15 @@
       "eu_basis": [
         "32014L0094"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/lov-om-infrastruktur-for-alternativt-drivstoff.md",
       "slug": "lov-om-infrastruktur-for-alternativt-drivstoff",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om infrastruktur for alternativt drivstoff",
-      "total_changes": null,
-      "xml_hash": "d17320a8cb452191e361b7d88cc152c50c855a515adef03900a2849cd52317f9"
+      "total_changes": 4,
+      "xml_hash": "c89ea2eb09ddeed7eeb8a4d0437f6a1e9724714886d9e4e68af7c69af79731ae"
     },
     "nl-20200623-098": {
       "doc_type": "lov",
@@ -8233,15 +8233,15 @@
         "32014L0056",
         "32014R0537"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/revisorloven.md",
       "slug": "revisorloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om revisjon og revisorer (revisorloven)",
-      "total_changes": null,
-      "xml_hash": "5c4c7fb184aa3ebcdd10a969d99326cd267865d83771ea6c79d65b85ae42cfcd"
+      "total_changes": 4,
+      "xml_hash": "41ceb3a3bc8ac0e7f7aa32cd543e90573df5b033ec37ada3729679221a577f89"
     },
     "nl-20201127-131": {
       "doc_type": "lov",
@@ -8285,15 +8285,15 @@
     "nl-20201218-146": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/finansavtaleloven.md",
       "slug": "finansavtaleloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om finansavtaler (finansavtaleloven)",
-      "total_changes": null,
-      "xml_hash": "37377a8e4fee1eae0915349af2a7321df6264ac7d9dedc74035cd09a8cb70bb1"
+      "total_changes": 4,
+      "xml_hash": "bcadf63ccfbb35c363edbad2dd0ac95a4f84a54247e210fcdad35ad149a64f14"
     },
     "nl-20201218-153": {
       "doc_type": "lov",
@@ -8451,15 +8451,15 @@
     "nl-20210618-097": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/barnevernsloven-bvl.md",
       "slug": "barnevernsloven-bvl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om barnevern (barnevernsloven)",
-      "total_changes": 5,
-      "xml_hash": "abe45950e911978a2d4a76a2cbba5ffe2e65b7ed9259cdde511ae49a17118faa"
+      "total_changes": 6,
+      "xml_hash": "6995444633cd7871ddf360c29f103c7f08069f0d96a1928723942ffe49ae0ba6"
     },
     "nl-20210618-099": {
       "doc_type": "lov",
@@ -8563,15 +8563,15 @@
         "32016L0097",
         "32018L0411"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/forsikringsformidlingsloven.md",
       "slug": "forsikringsformidlingsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om forsikringsformidling (forsikringsformidlingsloven)",
-      "total_changes": null,
-      "xml_hash": "26726bf5d764bc56c027b372def2e53e322464410bdce3c2530f8d547630be81"
+      "total_changes": 4,
+      "xml_hash": "aadf0eb63ba839e84ae892361589378f646241ccb74034cb360e934b6ec6cd7c"
     },
     "nl-20220128-002": {
       "doc_type": "lov",
@@ -8589,15 +8589,15 @@
     "nl-20220304-007": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/støtteprosessloven.md",
       "slug": "støtteprosessloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven)",
-      "total_changes": null,
-      "xml_hash": "0f968e01daf77b737198a0056ba55c4f1a287cc12d93997645e4ae422083cd28"
+      "total_changes": 4,
+      "xml_hash": "d5cb9919a11b2ed5d0871bce3c7f9dd24ad7f2e580edbab81b87a7cc237d7496"
     },
     "nl-20220311-008": {
       "doc_type": "lov",
@@ -8752,30 +8752,30 @@
     "nl-20221216-090": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/regnskapsførerloven.md",
       "slug": "regnskapsførerloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om regnskapsførere (regnskapsførerloven)",
-      "total_changes": null,
-      "xml_hash": "1d39fd2d08b222020116e2e4bfd88c98588619ad00cd3945ebd7c5ec67a749a6"
+      "total_changes": 4,
+      "xml_hash": "6ae412f17d08de74cb750da26eed71c85fe2af7fe5f3d153b5b8d9f91687e069"
     },
     "nl-20221216-091": {
       "doc_type": "lov",
       "eu_basis": [
         "32014L0017"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/låneformidlingsloven.md",
       "slug": "låneformidlingsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om låneformidling (låneformidlingsloven)",
-      "total_changes": null,
-      "xml_hash": "fd289649b9910dcab4873a81e63fd50642f3a3bb37c58205f30677d38cd1deff"
+      "total_changes": 4,
+      "xml_hash": "f775908dcd122a4da43d6a0c818480e1007c28f302b9e7f28d46a84a1f1e4810"
     },
     "nl-20221220-097": {
       "doc_type": "lov",
@@ -8871,28 +8871,28 @@
     "nl-20230609-030": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/opplæringslova.md",
       "slug": "opplæringslova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)",
-      "total_changes": 5,
-      "xml_hash": "0fe7633a7e52784e9c9ecd42e757ab8a561439c48a0456989478e7ccca81e712"
+      "total_changes": 6,
+      "xml_hash": "34745d84a9e575128be9e16d64606bcd9616ebc75dd1a25ddaaa2ae58d86af07"
     },
     "nl-20230616-062": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/valgloven.md",
       "slug": "valgloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om valg til Stortinget, fylkesting og kommunestyrer (valgloven)",
-      "total_changes": null,
-      "xml_hash": "19e57291ea0035efb93bed2da63629accf15aa3471433ee1a80718b544d5a8af"
+      "total_changes": 4,
+      "xml_hash": "b11bc3140a0e8d36ba87d7667f0e2bb2e29d80aee657f3e194c5078f5dcad8df"
     },
     "nl-20230616-064": {
       "doc_type": "lov",
@@ -9055,15 +9055,15 @@
     "nl-20240308-009": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-04",
-      "last_seen": "2026-05-04T10:13:30.563489Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/universitets-og-høyskoleloven.md",
       "slug": "universitets-og-høyskoleloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om universiteter og høyskoler (universitets- og høyskoleloven)",
-      "total_changes": 4,
-      "xml_hash": "32c6a39308d674cebeee6366b7d80d37b4a8b7acbf65eefd9a109b6876b305fc"
+      "total_changes": 5,
+      "xml_hash": "176eb7c3d3031313bbf03e6ba34a6ec1df0a4e4159682355d81eed9a50697b44"
     },
     "nl-20240412-016": {
       "doc_type": "lov",
@@ -9086,15 +9086,15 @@
         "32019R1156",
         "32021R2259"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/priips-loven.md",
       "slug": "priips-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nøkkelinformasjon om sammensatte og forsikringsbaserte investeringsprodukter (PRIIPs-loven)",
-      "total_changes": null,
-      "xml_hash": "a046aa16279cdd0ddba1808ea77fc815c0243d4c6c62134c7d82775a46a32e07"
+      "total_changes": 4,
+      "xml_hash": "c2bfbd879f825e3961b13209b4e663f4bf7d0e248532b0519711d7169d47e06c"
     },
     "nl-20240621-041": {
       "doc_type": "lov",
@@ -9105,15 +9105,15 @@
         "32009L0065",
         "32014L0065"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/finanstilsynsloven.md",
       "slug": "finanstilsynsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om Finanstilsynet (finanstilsynsloven)",
-      "total_changes": null,
-      "xml_hash": "bdfbdc6f7c6a8fce35a0a22dc1b0966823e265dbf82d577cdc90c251ffa3acdb"
+      "total_changes": 4,
+      "xml_hash": "7615d12fe0b8afd09607b9ef4343640bf3c4364704d61b9b25243829df88e62d"
     },
     "nl-20240621-042": {
       "doc_type": "lov",
@@ -9241,15 +9241,15 @@
         "32005L0032",
         "32019R1020"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/bærekraftige-produkter-loven.md",
       "slug": "bærekraftige-produkter-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven)",
-      "total_changes": null,
-      "xml_hash": "60a20f5bfd7aeb59f82707458f43c26efda8378b0ed88c15d6a9d331478a1c08"
+      "total_changes": 4,
+      "xml_hash": "25336bfe1d0a5cdfc6b8d431480b77db9462a572ce707d05a1c52cf70c801999"
     },
     "nl-20241129-073": {
       "doc_type": "lov",
@@ -9275,15 +9275,15 @@
         "32002L0058",
         "32015R2120"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/ekomloven.md",
       "slug": "ekomloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om elektronisk kommunikasjon (ekomloven)",
-      "total_changes": null,
-      "xml_hash": "d5e91e25c81883d7e1d71aeea0d7f564d1bbf331cb5a01d6b44a6a2ad5cd1265"
+      "total_changes": 4,
+      "xml_hash": "6a77414d3177102a9c59180acb3118d794d57935505b0b3af7ccf1c69ec4fc6c"
     },
     "nl-20241213-077": {
       "doc_type": "lov",
@@ -9370,28 +9370,28 @@
     "nl-20250410-009": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/statsføretakslova.md",
       "slug": "statsføretakslova",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om statsføretak (statsføretakslova)",
-      "total_changes": null,
-      "xml_hash": "4ecef0b1f5f9b144541fd459704ab007656af05750b54fe81705dff36f807ea9"
+      "total_changes": 4,
+      "xml_hash": "7e003ac50b2156e0a6c33ce7d2dcf535a11a1a29e89af7db03d0ed61de8bc5e1"
     },
     "nl-20250425-012": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/innkrevingsloven.md",
       "slug": "innkrevingsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om innkreving av statlige krav mv. (innkrevingsloven)",
-      "total_changes": null,
-      "xml_hash": "17804fd74d48da0915f9472766cc2c7542f10478c3f4a6b83c573a266fd42d6f"
+      "total_changes": 4,
+      "xml_hash": "39c53a8dd3b2c5739ec0a83992666d3bea3001e1d4ce7df3908fa438699d7f35"
     },
     "nl-20250527-018": {
       "doc_type": "lov",
@@ -9399,30 +9399,30 @@
         "32022R2554",
         "32022L2556"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/dora-loven.md",
       "slug": "dora-loven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)",
-      "total_changes": null,
-      "xml_hash": "bba6c0aeb799a6d4edd0f59dd0a7cb01a596735452de72d626b57707ffac0d19"
+      "total_changes": 4,
+      "xml_hash": "4b5c9bcffb3af0e732665b378e5489adbbee040a05348c1d5620fafc1d30e82a"
     },
     "nl-20250527-020": {
       "doc_type": "lov",
       "eu_basis": [
         "32023R1114"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/kryptoeiendelsloven.md",
       "slug": "kryptoeiendelsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om kryptoeiendeler (kryptoeiendelsloven)",
-      "total_changes": null,
-      "xml_hash": "880f1118521045bb24d80fdf5246ccdba3e000a945e8ac729f0febe193114219"
+      "total_changes": 4,
+      "xml_hash": "ed724ed428cbb322bddce1e029fc17097974fbb4c2e1f57aa7a778b96c4befbe"
     },
     "nl-20250527-021": {
       "doc_type": "lov",
@@ -9713,41 +9713,41 @@
     "nl-20250620-099": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/folkehøgskoleloven.md",
       "slug": "folkehøgskoleloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folkehøgskoler (folkehøgskoleloven)",
-      "total_changes": null,
-      "xml_hash": "568e31c56b81e26d68e4c02896df57270b29cc4ea64dd7930182a1c0f2664c80"
+      "total_changes": 4,
+      "xml_hash": "bdc1f00d09553452fc02e5bae1204d2ed27cda3198b1ba13cc3c572cadd9b824"
     },
     "nl-20250620-100": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/endringslov-til-barnehageloven.md",
       "slug": "endringslov-til-barnehageloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i barnehageloven (styring og finansiering av barnehagesektoren)",
-      "total_changes": null,
-      "xml_hash": "6e5ec9271574261e8c438c65ad4c4467db719164c0071cea40f48bed4812a4a2"
+      "total_changes": 4,
+      "xml_hash": "a274b98d485b8ac30d5dc0607d7a78ec137aa89d9befd3e84c8f2f051c15cb96"
     },
     "nl-20250620-102": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/viltressursloven.md",
       "slug": "viltressursloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om jakt, fangst og felling av vilt mv. (viltressursloven)",
-      "total_changes": null,
-      "xml_hash": "528ee021cee89b68319d727385bfb220c6a27788f5b4537e7b57e0c106c85bae"
+      "total_changes": 4,
+      "xml_hash": "be9a5b1ee5ad70a81283a10ceb3716f79df48114599ac33afdeed1efb360a2a3"
     },
     "nl-20250620-103": {
       "doc_type": "lov",
@@ -9804,15 +9804,15 @@
     "nl-20250620-107": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/mineralloven-2.md",
       "slug": "mineralloven-2",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)",
-      "total_changes": null,
-      "xml_hash": "f5f8189fc8c7dd1a0803d755bfa4be481a64195420fc97e0278110c51359f21b"
+      "total_changes": 4,
+      "xml_hash": "f35dd5c6c2e692dfa6c84327a24f0bb2d5333b45c442b3126831da18020361b8"
     },
     "nl-20250620-111": {
       "doc_type": "lov",
@@ -9910,15 +9910,15 @@
       "eu_basis": [
         "32020R1503"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/folkefinansieringsloven.md",
       "slug": "folkefinansieringsloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)",
-      "total_changes": null,
-      "xml_hash": "2f4e5daa5ed836b546abaa622adbfe7299106a6a6a0558e39cc1931d001805ca"
+      "total_changes": 4,
+      "xml_hash": "06dc8903ad5cc3c4f27fca064a8c0695a1075e77cc89d36d437720a84860b254"
     },
     "nl-20260206-003": {
       "doc_type": "lov",
@@ -9926,15 +9926,15 @@
         "32019R2033",
         "32019L2034"
       ],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "lover/endringslov-til-verdipapirhandelloven-mv.md",
       "slug": "endringslov-til-verdipapirhandelloven-mv",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i verdipapirhandelloven mv. (kapitalkrav for verdipapirforetak)",
-      "total_changes": null,
-      "xml_hash": "e966deb30fbe255907e19c33d34a686f41732483751a96f74b73328bb1beb5ab"
+      "total_changes": 4,
+      "xml_hash": "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f"
     },
     "nl-20260213-006": {
       "doc_type": "lov",
@@ -10186,6 +10186,386 @@
       "title": "Lov om endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)",
       "total_changes": 2,
       "xml_hash": "064ad4fba085b696047709dbdda1c24d37c9abb427d0d3a0d01217890923cc90"
+    },
+    "nl-20260619-033": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-arbeidsmiljøloven-og-folketrygdloven.md",
+      "slug": "endringslov-til-arbeidsmiljøloven-og-folketrygdloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i arbeidsmiljøloven og folketrygdloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort og trekk av fagforeningskontingent i ytelser)",
+      "total_changes": 1,
+      "xml_hash": "3bcae825eccd478c54b223703f9b7e906ede7fe911772b7d6d536891fb1ecee8"
+    },
+    "nl-20260619-034": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32024L0825"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-markedsføringsloven-mv.md",
+      "slug": "endringslov-til-markedsføringsloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)",
+      "total_changes": 1,
+      "xml_hash": "7453e322bf69852041f2000327d6f12ce7656c0c22a08e079c2d20ce898b3f21"
+    },
+    "nl-20260619-035": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-barnevernsloven.md",
+      "slug": "endringslov-til-barnevernsloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)",
+      "total_changes": 1,
+      "xml_hash": "4a7942ac248888698956a469f18630d3ebd31f6b332573370f0b8550cc793a92"
+    },
+    "nl-20260619-036": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32019L1024",
+        "32022R0868"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/dataforvaltningsloven.md",
+      "slug": "dataforvaltningsloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om datadeling og dataforvaltning (dataforvaltningsloven)",
+      "total_changes": 1,
+      "xml_hash": "2f323f4261d2bd6b66f100237e331e272cd71dad7287b4d5339f208f96db2f36"
+    },
+    "nl-20260619-037": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-energiloven-mv.md",
+      "slug": "endringslov-til-energiloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)",
+      "total_changes": 1,
+      "xml_hash": "a9148fb622fa1a9118a4f771f5e9be432535cf82b998b7be15526806085970d0"
+    },
+    "nl-20260619-038": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-energiloven.md",
+      "slug": "endringslov-til-energiloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)",
+      "total_changes": 5,
+      "xml_hash": "30cbb5f5535c14320d1293a391e75fab1ab82eaa0c66bcd8741941c3c4781837"
+    },
+    "nl-20260619-039": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-bokføringsloven-mv.md",
+      "slug": "endringslov-til-bokføringsloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)",
+      "total_changes": 1,
+      "xml_hash": "d315a1b5fbd2a5388a7a66709f2bf5d878c70bce81d18ab033fba673a8b896ce"
+    },
+    "nl-20260619-040": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32024L1619"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-finansforetaksloven-mv-3.md",
+      "slug": "endringslov-til-finansforetaksloven-mv-3",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
+      "total_changes": 1,
+      "xml_hash": "82286fe4d656f74e9b289e73b26a25f726eabeba1ab9da76d7df093160cbf0f0"
+    },
+    "nl-20260619-041": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/særavgiftsloven-2.md",
+      "slug": "særavgiftsloven-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om særavgifter (særavgiftsloven)",
+      "total_changes": 1,
+      "xml_hash": "aaf10e4126b79e03b96f6b55818c99f6befb729328ac0465d7de6aa717acdfd2"
+    },
+    "nl-20260619-042": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-pasient-og-brukerrettighetsloven-mv-2.md",
+      "slug": "endringslov-til-pasient-og-brukerrettighetsloven-mv-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
+      "total_changes": 1,
+      "xml_hash": "826bf000866d260c14da2c054d8cdf104dbfe439b29ba6b0abad369ad094e994"
+    },
+    "nl-20260619-043": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven.md",
+      "slug": "endringslov-til-brukerromsloven-og-helse-og-omsorgstjenesteloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)",
+      "total_changes": 1,
+      "xml_hash": "48444d74a458100a8909911ffd352d3fcf0c2199d83b6305a81f981055632402"
+    },
+    "nl-20260619-044": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32024R1860"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-apotekloven-legemiddelloven-mv.md",
+      "slug": "endringslov-til-apotekloven-legemiddelloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860)",
+      "total_changes": 1,
+      "xml_hash": "efc8f018db261a313b17b514ae33a4e0b057b4177a723ec5378b4021c24e6866"
+    },
+    "nl-20260619-045": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m.md",
+      "slug": "endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)",
+      "total_changes": 1,
+      "xml_hash": "fd35e5048070d104d09c5ba5e627abfdcd2906d9d16268ad1fb8cea26d4020a2"
+    },
+    "nl-20260619-046": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-politiregisterloven-og-grenseloven-mv.md",
+      "slug": "endringslov-til-politiregisterloven-og-grenseloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i politiregisterloven og grenseloven mv. (testing og utvikling av informasjonssystemer)",
+      "total_changes": 1,
+      "xml_hash": "8a92dcc5b51a4cfa02e0b1b0cc6318f0ca1ff8eebec3c8ee3964ddd32765c1c7"
+    },
+    "nl-20260619-047": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-skadeserstatningsloven.md",
+      "slug": "endringslov-til-skadeserstatningsloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)",
+      "total_changes": 1,
+      "xml_hash": "5458dce5a415008614360487a86a1a4d665ecd564316d930a92ba092c556d601"
+    },
+    "nl-20260619-048": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-konkursloven-mv.md",
+      "slug": "endringslov-til-konkursloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
+      "total_changes": 1,
+      "xml_hash": "2fe23f7b10c1dbfa87571f175f6d2db08b7fe3fc7bd7719a64945fe3b9d9f330"
+    },
+    "nl-20260619-049": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-straffeprosessloven-mv.md",
+      "slug": "endringslov-til-straffeprosessloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)",
+      "total_changes": 1,
+      "xml_hash": "0b9d093f70e28e4dd212a4ac1c60428b20a0e3e8967160d4bc7bc5c87fd1f27d"
+    },
+    "nl-20260619-050": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-utlendingsloven-3.md",
+      "slug": "endringslov-til-utlendingsloven-3",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)",
+      "total_changes": 1,
+      "xml_hash": "3a4f1af1350a40e1bad3a3534370ddc8a3f63698a72e789a2789df3eb2f84e80"
+    },
+    "nl-20260619-051": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-politiloven.md",
+      "slug": "endringslov-til-politiloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i politiloven (generell bevæpning av politiet)",
+      "total_changes": 1,
+      "xml_hash": "be0b260e1d8e068e49a0d8f963e1345bf5fd8900061dc933db0059dabbcd6202"
+    },
+    "nl-20260619-052": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32023R0956"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/cbam-loven.md",
+      "slug": "cbam-loven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven)",
+      "total_changes": 1,
+      "xml_hash": "afa563fdfd8714314061165180084fc8aa7baca79787a20ba72b581b4b42e439"
+    },
+    "nl-20260619-053": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/motorferdselloven-2.md",
+      "slug": "motorferdselloven-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om motorferdsel i utmark og vassdrag (motorferdselloven)",
+      "total_changes": 1,
+      "xml_hash": "fb6af6491d89259e5a3526911948dc42a076ed7239902596755dab64911c7800"
+    },
+    "nl-20260619-055": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-bærekraftige-produkter-loven.md",
+      "slug": "endringslov-til-bærekraftige-produkter-loven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i bærekraftige produkter-loven (hjemmel for bærekrafts- og utslippsreduksjonskriterier i EUs fornybardirektiv)",
+      "total_changes": 1,
+      "xml_hash": "9037b1f85813177b64b6b71428b836db563942141ec9e702cfedad2df6218413"
+    },
+    "nl-20260619-056": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-bustøttelova.md",
+      "slug": "endringslov-til-bustøttelova",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)",
+      "total_changes": 1,
+      "xml_hash": "92351a1db3357f5279e325604dbc4646998a321a76eaa258e0d6a0ff5e02ee54"
+    },
+    "nl-20260619-057": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-valgloven.md",
+      "slug": "endringslov-til-valgloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i valgloven (endringer i valgdistriktene)",
+      "total_changes": 1,
+      "xml_hash": "2aa30123d413090ca3b7c93efbcc6bd0f765fc323e730d59b28ae3fcc9c6c5ac"
+    },
+    "nl-20260619-059": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-opplæringslova-og-barnehageloven-mv.md",
+      "slug": "endringslov-til-opplæringslova-og-barnehageloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i opplæringslova og barnehageloven mv.",
+      "total_changes": 1,
+      "xml_hash": "7e00059c7f9a1cb67b711be3c1ab9816ddba16cba621fb10dfe17bc261ecda2a"
+    },
+    "nl-20260619-060": {
+      "doc_type": "lov",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-universitets-og-høyskoleloven-mv.md",
+      "slug": "endringslov-til-universitets-og-høyskoleloven-mv",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)",
+      "total_changes": 1,
+      "xml_hash": "68caeb0d097210130b7e5119cabab7c3d3f5880df3a9571c138b7966b3184643"
+    },
+    "nl-20260619-062": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32013R0734",
+        "32015R1589"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/endringslov-til-støtteprosessloven.md",
+      "slug": "endringslov-til-støtteprosessloven",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)",
+      "total_changes": 1,
+      "xml_hash": "9ec7c63c611af7d5627c33c9fa2da76c345d20eef75f68ab60086ce878b55a00"
+    },
+    "nl-20260619-063": {
+      "doc_type": "lov",
+      "eu_basis": [
+        "32023R1804"
+      ],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "lover/lov-om-infrastruktur-for-alternativt-drivstoff-2.md",
+      "slug": "lov-om-infrastruktur-for-alternativt-drivstoff-2",
+      "source_dataset": "gjeldende-lover",
+      "status": "current",
+      "title": "Lov om infrastruktur for alternativt drivstoff",
+      "total_changes": 1,
+      "xml_hash": "c814f1db9e55c2549384f64490b7e1e839cdea0981258e774470110440f5a5ea"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -20434,15 +20814,15 @@
     "sf-20011221-1600": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forskrift-om-genmodifiserte-mikroorganismer-gmo.md",
       "slug": "forskrift-om-genmodifiserte-mikroorganismer-gmo",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innesluttet bruk av genmodifiserte mikroorganismer.",
-      "total_changes": null,
-      "xml_hash": "4aed6f0d85761cb77c4de6225bb6b8a21a564e97b8ea15e26c71514c5ddcf749"
+      "total_changes": 4,
+      "xml_hash": "3b5fde6591c45c2c16e124cf134ce15e819e592690c81e53a14b4a21fcb80d25"
     },
     "sf-20011221-1601": {
       "doc_type": "forskrift",
@@ -22774,15 +23154,15 @@
     "sf-20040601-0922": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-19",
-      "last_seen": "2026-05-19T07:43:04.082586Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/produktforskriften.md",
       "slug": "produktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
-      "total_changes": 4,
-      "xml_hash": "1e5e98146dca20b44ba86739caf86f66b2c4dab64057233d53e63ac0b19efe03"
+      "total_changes": 5,
+      "xml_hash": "6a6013e987d823aa04e9116b810b1a8ad8023e5146e7f7ebefe41b7a330981f8"
     },
     "sf-20040601-0930": {
       "doc_type": "forskrift",
@@ -22800,15 +23180,15 @@
     "sf-20040601-0931": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forurensningsforskriften.md",
       "slug": "forurensningsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning av forurensning (forurensningsforskriften)",
-      "total_changes": null,
-      "xml_hash": "5ba9519f4c2c1add7ef2ecd6e7d696dd4f868836b53f73f1edb191255fcdc40d"
+      "total_changes": 4,
+      "xml_hash": "752578ebf3bc326db0e6515aca2a00cc2960529e6539c3cfb2890bd69b7ba8c2"
     },
     "sf-20040622-0972": {
       "doc_type": "forskrift",
@@ -27077,15 +27457,15 @@
     "sf-20090119-0077": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forskrift-om-dyrehelsepersonell.md",
       "slug": "forskrift-om-dyrehelsepersonell",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rett til å arbeide som dyrehelsepersonell eller seminpersonell etter EØS-avtalen mv.",
-      "total_changes": null,
-      "xml_hash": "f7af959ca9fcde2d90eb7c872ab2b1054d692010b146c7132e2f87e6c502e7f3"
+      "total_changes": 4,
+      "xml_hash": "695a5b85d5c71002779364e53fadd6ce07ff5e908473153f1228127829a66089"
     },
     "sf-20090126-0070": {
       "doc_type": "forskrift",
@@ -31484,15 +31864,15 @@
     "sf-20130321-0370": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/vinforskriften.md",
       "slug": "vinforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om vin (vinforskriften)",
-      "total_changes": null,
-      "xml_hash": "7d7bcb38a07427e1386bb857a9b980328c2c32bfaa82594cbde03c0119920964"
+      "total_changes": 4,
+      "xml_hash": "8405d3afe1dd39f4b1ba25f3a54df46d2a16db0789fe56822e263d261c160ba6"
     },
     "sf-20130405-0959": {
       "doc_type": "forskrift",
@@ -36008,15 +36388,15 @@
     "sf-20160914-1064": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-06",
-      "last_seen": "2026-05-06T06:27:51.077504Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/animaliebiproduktforskriften.md",
       "slug": "animaliebiproduktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)",
-      "total_changes": 4,
-      "xml_hash": "06d719671c557ab0435552f5674333aad2368add7c08cfe7dc3e924f16704e05"
+      "total_changes": 5,
+      "xml_hash": "bfbf4466c6ec27e331faf351ac30a9c6f677b06190bc50e1d2318a9dd880146c"
     },
     "sf-20160915-1066": {
       "doc_type": "forskrift",
@@ -38127,15 +38507,15 @@
     "sf-20180131-0145": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/husdyravlsforskriften.md",
       "slug": "husdyravlsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om avl av storfe, svin, sau, geit og hest (husdyravlsforskriften)",
-      "total_changes": null,
-      "xml_hash": "798b3c4e6dd78fc153260c3eb72ab70e0a297d190693be375e12432945a56d2a"
+      "total_changes": 4,
+      "xml_hash": "ba1d1fb549134683864b65e4e6090bc1c905ce53dc352081cbda8a7b661345fc"
     },
     "sf-20180206-0177": {
       "doc_type": "forskrift",
@@ -38322,15 +38702,15 @@
     "sf-20180601-1546": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-30",
-      "last_seen": "2026-05-30T06:43:29.855289Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md",
       "slug": "forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, studier og eksamen ved Handelshøyskolen BI",
-      "total_changes": 5,
-      "xml_hash": "b11f9075e1d9ca7f8334275c75566fc26a930c7315a91fc5aa88c8cfda4e0d45"
+      "total_changes": 6,
+      "xml_hash": "380953677e7bcf6358cca77086cbdc724744391ab9b43ab7cf4f0162a2d25196"
     },
     "sf-20180607-0836": {
       "doc_type": "forskrift",
@@ -40519,15 +40899,15 @@
     "sf-20191220-2136": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole.md",
       "slug": "forskrift-om-opptak-studier-mv-ved-fagskolen-hald-internasjonale-skole",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak, gjennomføring av studier, eksamen, klageregler og skikkethetsvurdering for fagskolen Hald internasjonale skole",
-      "total_changes": null,
-      "xml_hash": "095e4cfcdb9e1c634820840b16db723f16a464063dd42d6a423ff50502816378"
+      "total_changes": 4,
+      "xml_hash": "4198b836161cfb475fa82ec94d31c3d8e74780fc730a9771bd640987f976df76"
     },
     "sf-20191220-2137": {
       "doc_type": "forskrift",
@@ -45173,15 +45553,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-17",
-      "last_seen": "2026-06-17T09:00:33.393426Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 10,
-      "xml_hash": "ff715865b77d48024d77eaf774cf71c80fd9ef82432c15c823e1a6ef8e3f96d8"
+      "total_changes": 11,
+      "xml_hash": "fca702f92b95a00aef5b565d17c3cb5178d16c89401ca341da1f7e6ff55e072b"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -50100,15 +50480,15 @@
     "sf-20250114-0050": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/nettinntektsforskriften.md",
       "slug": "nettinntektsforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om strømnettselskapenes inntekter (nettinntektsforskriften)",
-      "total_changes": null,
-      "xml_hash": "0ff1f7fc30cc4980125c1854bdce501869a855c00ff9890859ebc2560ca0dd1b"
+      "total_changes": 4,
+      "xml_hash": "65e90a169f339acc7747876541b18cf20591dc392966ea723d17319181a55e19"
     },
     "sf-20250120-0052": {
       "doc_type": "forskrift",
@@ -54182,15 +54562,15 @@
     "sf-20260409-0579": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-05-29",
-      "last_seen": "2026-05-29T07:52:43.488317Z",
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
       "markdown_path": "forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md",
       "slug": "forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stenging av områder for fiske etter sei med not",
-      "total_changes": 7,
-      "xml_hash": "4f8c23de7a9d62493c3aa9e6ad2c35dedce5ee495d6c6818176421dbfcd4601d"
+      "total_changes": 8,
+      "xml_hash": "94b683600fae5d216d1056c72c95fc131b2015b08f4f85feca091f867fad5ffd"
     },
     "sf-20260413-0592": {
       "doc_type": "forskrift",
@@ -54490,6 +54870,19 @@
       "title": "Forskrift om utøving av fiske etter anadrome laksefisk",
       "total_changes": 1,
       "xml_hash": "5e7865c619b2a8fd49f4e6a6cf44d0cafb7401a0c673717b94ffde181e044db2"
+    },
+    "sf-20260519-1109": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "forskrifter/endr-i-nettinntekstforskriften.md",
+      "slug": "endr-i-nettinntekstforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om strømnettselskapenes inntekter (nettinntektsforskriften) § 3-2",
+      "total_changes": 1,
+      "xml_hash": "45d8bed16f602eb1332b71d122f9c1108eb3a46eb30e02eaa743f285771f1793"
     },
     "sf-20260521-0960": {
       "doc_type": "forskrift",
@@ -54841,8 +55234,21 @@
       "title": "Forskrift om endring i forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)",
       "total_changes": 1,
       "xml_hash": "00a688c5cbac93e67c49728d7f242cf30d64b3f90739562724111d01ddc67c69"
+    },
+    "sf-20260617-1112": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-20",
+      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "markdown_path": "forskrifter/forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026.md",
+      "slug": "forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om forbud mot fiske i oppvekstområder for torsk i Norges økonomiske sone sør for 62° N i 2026",
+      "total_changes": 1,
+      "xml_hash": "bbbb167e93db4cccf067d072c390a9be8d06e205d4a56365a15272e72321b43c"
     }
   },
-  "generated_at": "2026-06-19T09:04:23.952275Z",
+  "generated_at": "2026-06-20T07:47:39.444689Z",
   "version": 1
 }

@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-039",
+  "events": [
+    {
+      "commit": "f654b72",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 81,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-bokføringsloven-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-bokføringsloven-mv"
+}

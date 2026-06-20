@@ -1,6 +1,16 @@
 # helseforetaksloven-hfl — Change history
 
-_2 events; doc_id `nl-20010615-093`._
+_4 events; doc_id `nl-20010615-093`._
+
+## 2026-06-20 — Content updated
+Lines: +7 -5.
+Subject: `update(lov): helseforetaksloven-hfl`
+Commit: `78ec1ee`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20010615-093.md` → `lover/helseforetaksloven-hfl.md`.

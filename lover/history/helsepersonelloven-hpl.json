@@ -2,6 +2,16 @@
   "doc_id": "nl-19990702-064",
   "events": [
     {
+      "commit": "4e58b0e",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): helsepersonelloven-hpl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0d10682",
       "date": "2026-06-01",
       "from_path": null,

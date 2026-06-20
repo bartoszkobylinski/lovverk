@@ -2,6 +2,16 @@
   "doc_id": "nl-20060519-016",
   "events": [
     {
+      "commit": "2319227",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(lov): offentleglova-offl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "066b1ce",
       "date": "2026-05-30",
       "from_path": null,

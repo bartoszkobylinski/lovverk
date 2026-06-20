@@ -2,6 +2,16 @@
   "doc_id": "nl-20180420-008",
   "events": [
     {
+      "commit": "237c275",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 4,
+      "subject": "update(lov): grenseloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "dad9419",
       "date": "2026-06-13",
       "from_path": null,

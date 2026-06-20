@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-062",
+  "events": [
+    {
+      "commit": "f608bf7",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-støtteprosessloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-støtteprosessloven"
+}

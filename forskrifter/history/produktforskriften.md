@@ -1,6 +1,11 @@
 # produktforskriften — Change history
 
-_4 events; doc_id `sf-20040601-0922`._
+_5 events; doc_id `sf-20040601-0922`._
+
+## 2026-06-20 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): produktforskriften`
+Commit: `ae1c03f`.
 
 ## 2026-05-19 — Content updated
 Lines: +4 -4.

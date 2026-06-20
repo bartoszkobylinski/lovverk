@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-040",
+  "events": [
+    {
+      "commit": "c9c5e3e",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 536,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-finansforetaksloven-mv-3",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-finansforetaksloven-mv-3"
+}

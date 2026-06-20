@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260619-050",
+  "events": [
+    {
+      "commit": "718c9b9",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 38,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-utlendingsloven-3",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-utlendingsloven-3"
+}

@@ -1,6 +1,11 @@
 # universitets-og-høyskoleloven — Change history
 
-_4 events; doc_id `nl-20240308-009`._
+_5 events; doc_id `nl-20240308-009`._
+
+## 2026-06-20 — Content updated
+Lines: +21 -3.
+Subject: `update(lov): universitets-og-høyskoleloven`
+Commit: `2a9917e`.
 
 ## 2026-05-04 — Content updated
 Lines: +2 -2.

@@ -1,6 +1,16 @@
 # småbåtloven-småbåtl — Change history
 
-_2 events; doc_id `nl-19980626-047`._
+_4 events; doc_id `nl-19980626-047`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): småbåtloven-småbåtl`
+Commit: `4531b69`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19980626-047.md` → `"lover/sm\303\245b\303\245tloven-sm\303\245b\303\245tl.md"`.

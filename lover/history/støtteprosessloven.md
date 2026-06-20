@@ -1,6 +1,16 @@
 # støtteprosessloven — Change history
 
-_2 events; doc_id `nl-20220304-007`._
+_4 events; doc_id `nl-20220304-007`._
+
+## 2026-06-20 — Content updated
+Lines: +8 -2.
+Subject: `update(lov): støtteprosessloven`
+Commit: `718cb96`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20220304-007.md` → `"lover/st\303\270tteprosessloven.md"`.

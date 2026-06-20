@@ -2,6 +2,16 @@
   "doc_id": "nl-20230609-030",
   "events": [
     {
+      "commit": "14bcb04",
+      "date": "2026-06-20",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 3,
+      "subject": "update(lov): opplæringslova",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c39f893",
       "date": "2026-06-16",
       "from_path": null,

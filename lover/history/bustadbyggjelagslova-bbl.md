@@ -1,6 +1,16 @@
 # bustadbyggjelagslova-bbl — Change history
 
-_2 events; doc_id `nl-20030606-038`._
+_4 events; doc_id `nl-20030606-038`._
+
+## 2026-06-20 — Content updated
+Lines: +9 -3.
+Subject: `update(lov): bustadbyggjelagslova-bbl`
+Commit: `73a9c10`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20030606-038.md` → `lover/bustadbyggjelagslova-bbl.md`.

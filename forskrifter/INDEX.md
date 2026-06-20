@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3435 current documents_
+_3437 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -135,6 +135,7 @@ _3435 current documents_
 - [endr-i-landingsforskriften](endr-i-landingsforskriften.md) — Forskrift om endring av forskrift om landings- og sluttseddel (landingsforskriften)
 - [endr-i-leketøyforskriften](endr-i-leketøyforskriften.md) — Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)
 - [endr-i-medisinsk-fødselsregisterforskriften](endr-i-medisinsk-fødselsregisterforskriften.md) — Forskrift om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister
+- [endr-i-nettinntekstforskriften](endr-i-nettinntekstforskriften.md) — Forskrift om endring i forskrift om strømnettselskapenes inntekter (nettinntektsforskriften) § 3-2
 - [endr-i-næringsmiddelhygieneforskriften](endr-i-næringsmiddelhygieneforskriften.md) — Forskrift om endring i forskrift om næringsmiddelhygiene
 - [endr-i-opplæringsforskrifta](endr-i-opplæringsforskrifta.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa
 - [endr-i-opplæringsforskrifta-2](endr-i-opplæringsforskrifta-2.md) — Forskrift om endring i forskrift om grunnskoleopplæringa og den vidaregåande opplæringa
@@ -878,6 +879,7 @@ _3435 current documents_
 - [forskrift-om-forbud-mot-fiske-av-brudge-og-pigghå-mv](forskrift-om-forbud-mot-fiske-av-brudge-og-pigghå-mv.md) — Forskrift om forbud mot fiske og fangst av brugde, pigghå, håbrann og silkehai
 - [forskrift-om-forbud-mot-fiske-i-gytefelt-for-torsk](forskrift-om-forbud-mot-fiske-i-gytefelt-for-torsk.md) — Forskrift om forbud mot fiske i gytefelt for torsk
 - [forskrift-om-forbud-mot-fiske-i-gyteområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-i-2026](forskrift-om-forbud-mot-fiske-i-gyteområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-i-2026.md) — Forskrift om forbud mot fiske i gyteområder for torsk i Norges økonomiske sone sør for 62° i 2026
+- [forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026](forskrift-om-forbud-mot-fiske-i-oppvekstområder-for-torsk-i-norges-økonomiske-sone-sør-for-62-n-i-2026.md) — Forskrift om forbud mot fiske i oppvekstområder for torsk i Norges økonomiske sone sør for 62° N i 2026
 - [forskrift-om-forbud-mot-fiske-mv-på-nornefeltet](forskrift-om-forbud-mot-fiske-mv-på-nornefeltet.md) — Forskrift om område med forbud mot oppankring og fiske på Nornefeltet.
 - [forskrift-om-forbud-mot-fisket-etter-lodde-i-barentshavet-i-2026](forskrift-om-forbud-mot-fisket-etter-lodde-i-barentshavet-i-2026.md) — Forskrift om forbud mot fisket etter lodde i Barentshavet i 2026
 - [forskrift-om-forbud-mot-fisket-etter-torsk-og-hyse-i-fiskerisonen-ved-jan-mayen](forskrift-om-forbud-mot-fisket-etter-torsk-og-hyse-i-fiskerisonen-ved-jan-mayen.md) — Forskrift om forbud mot fisket etter torsk og hyse i fiskerisonen ved Jan Mayen

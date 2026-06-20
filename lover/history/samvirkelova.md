@@ -1,6 +1,16 @@
 # samvirkelova — Change history
 
-_2 events; doc_id `nl-20070629-081`._
+_4 events; doc_id `nl-20070629-081`._
+
+## 2026-06-20 — Content updated
+Lines: +8 -4.
+Subject: `update(lov): samvirkelova`
+Commit: `ab51ba6`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20070629-081.md` → `lover/samvirkelova.md`.

@@ -1,6 +1,16 @@
 # energiloven-enl — Change history
 
-_2 events; doc_id `nl-19900629-050`._
+_4 events; doc_id `nl-19900629-050`._
+
+## 2026-06-20 — Content updated
+Lines: +11 -7.
+Subject: `update(lov): energiloven-enl`
+Commit: `561f9ba`.
+
+## 2026-04-29 — Filename renamed
+Lines: +11 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19900629-050.md` → `lover/energiloven-enl.md`.

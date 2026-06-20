@@ -1,6 +1,11 @@
 # helsepersonelloven-hpl — Change history
 
-_4 events; doc_id `nl-19990702-064`._
+_5 events; doc_id `nl-19990702-064`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): helsepersonelloven-hpl`
+Commit: `4e58b0e`.
 
 ## 2026-06-01 — Content updated
 Lines: +20 -22.

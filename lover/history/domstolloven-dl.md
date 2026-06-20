@@ -1,6 +1,11 @@
 # domstolloven-dl — Change history
 
-_4 events; doc_id `nl-19150813-005`._
+_5 events; doc_id `nl-19150813-005`._
+
+## 2026-06-20 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): domstolloven-dl`
+Commit: `594c3ba`.
 
 ## 2026-05-08 — Content updated
 Lines: +11 -11.

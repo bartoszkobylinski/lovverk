@@ -1,6 +1,16 @@
 # skjønnsprosessloven-skjl — Change history
 
-_2 events; doc_id `nl-19170601-001`._
+_4 events; doc_id `nl-19170601-001`._
+
+## 2026-06-20 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): skjønnsprosessloven-skjl`
+Commit: `2b80172`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19170601-001.md` → `"lover/skj\303\270nnsprosessloven-skjl.md"`.

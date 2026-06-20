@@ -1,6 +1,16 @@
 # kraftledningsregisterloven-kregl — Change history
 
-_2 events; doc_id `nl-19270701-001`._
+_4 events; doc_id `nl-19270701-001`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): kraftledningsregisterloven-kregl`
+Commit: `4a68c37`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19270701-001.md` → `lover/kraftledningsregisterloven-kregl.md`.

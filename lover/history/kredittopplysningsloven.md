@@ -1,6 +1,16 @@
 # kredittopplysningsloven — Change history
 
-_2 events; doc_id `nl-20191220-109`._
+_4 events; doc_id `nl-20191220-109`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): kredittopplysningsloven`
+Commit: `4d839f5`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20191220-109.md` → `lover/kredittopplysningsloven.md`.

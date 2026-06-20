@@ -1,6 +1,16 @@
 # lov-om-finansiell-sikkerhetsstillelse — Change history
 
-_2 events; doc_id `nl-20040326-017`._
+_4 events; doc_id `nl-20040326-017`._
+
+## 2026-06-20 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): lov-om-finansiell-sikkerhetsstillelse`
+Commit: `aea7e4c`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20040326-017.md` → `lover/lov-om-finansiell-sikkerhetsstillelse.md`.

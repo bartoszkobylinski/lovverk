@@ -1,6 +1,16 @@
 # vekselloven-vl — Change history
 
-_2 events; doc_id `nl-19320527-002`._
+_4 events; doc_id `nl-19320527-002`._
+
+## 2026-06-20 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): vekselloven-vl`
+Commit: `99c80ae`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19320527-002.md` → `lover/vekselloven-vl.md`.

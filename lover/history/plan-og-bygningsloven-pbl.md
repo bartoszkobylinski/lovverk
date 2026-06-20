@@ -1,6 +1,11 @@
 # plan-og-bygningsloven-pbl — Change history
 
-_5 events; doc_id `nl-20080627-071`._
+_6 events; doc_id `nl-20080627-071`._
+
+## 2026-06-20 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): plan-og-bygningsloven-pbl`
+Commit: `c9d962b`.
 
 ## 2026-06-16 — Content updated
 Lines: +4 -4.

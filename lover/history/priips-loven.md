@@ -1,6 +1,16 @@
 # priips-loven — Change history
 
-_2 events; doc_id `nl-20240621-040`._
+_4 events; doc_id `nl-20240621-040`._
+
+## 2026-06-20 — Content updated
+Lines: +10 -2.
+Subject: `update(lov): priips-loven`
+Commit: `20a6e71`.
+
+## 2026-04-29 — Filename renamed
+Lines: +6 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20240621-040.md` → `lover/priips-loven.md`.

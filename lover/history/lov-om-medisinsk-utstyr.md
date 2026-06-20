@@ -1,6 +1,16 @@
 # lov-om-medisinsk-utstyr — Change history
 
-_2 events; doc_id `nl-20200507-037`._
+_4 events; doc_id `nl-20200507-037`._
+
+## 2026-06-20 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): lov-om-medisinsk-utstyr`
+Commit: `fb61bea`.
+
+## 2026-04-29 — Filename renamed
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20200507-037.md` → `lover/lov-om-medisinsk-utstyr.md`.
