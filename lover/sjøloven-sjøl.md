@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-10-01"
 last_change_in_force: "2025-02-11"
 last_updated: "2023-04-25"
-xml_hash: "9a7e389f93e88dd095ced863f4d3abf788254d1bc85ef4a6b6373b8ff8e2a4b1"
+xml_hash: "a1015aa08d01c05bc95434437b3f2f6eb1815dc8a95b19d0f8f4aa06145f0b97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009R0392"
@@ -312,6 +312,8 @@ Har det vært åpnet forhandling om tvangsakkord under en umiddelbart forutgåen
 
 For at en rett som er stiftet ved avtale skal kunne stå seg ved tvangsakkord, må rettsstiftelsen utenfor de tilfeller som er nevnt i [§ 24](lov/1994-06-24-39/§24) tredje, fjerde og femte ledd være innført i dagboken senest dagen før forhandlingen om tvangsakkord er åpnet.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 26. Ekstinksjon av ugyldighetsinnsigelse, m m
 
 Innsigelse om at registerhjemmel skyldes et ugyldig dokument, kan ikke gjøres gjeldende overfor den som har registrert en rett som denne har ervervet ved avtale med innehaveren av registerhjemmelen, og som var i god tro da innføringen i dagboken fant sted. Innsigelsen kan likevel gjøres gjeldende dersom dokumentet er falsk eller forfalsket eller er ugyldig på grunn av mindreårighet eller er kommet i stand ved grov tvang, jf [avtaleloven § 28](lov/1918-05-31-4/§28).
@@ -360,7 +362,7 @@ Heftelse som åpenbart er opphørt, skal registerføreren slette av eget tiltak.
 
 I tilfelle av uriktig slettelse gjelder [§ 27](lov/1994-06-24-39/§27) tilsvarende.
 
-> Endret ved lover [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [20 des 2023 nr. 115](lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](forskrift/2023-12-20-2168)).
+> Endret ved lover [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [20 des 2023 nr. 115](lov/2023-12-20-115) (i kraft 1 jan 2024 iflg. [res. 20 des 2023 nr. 2168](forskrift/2023-12-20-2168)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 30. Foreldelse av rettsvern
 
@@ -536,7 +538,7 @@ Krav om innfrielse etter første ledd nr. 5 gir ikke rett til å kreve forsinkel
 
 Reglene i første ledd gjelder tilsvarende så langt de passer for innretninger som går inn under [§ 33](lov/1994-06-24-39/§33), og for skip eller innretning under bygging samt for byggekontrakt.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 45. Tilbehør m m
 
@@ -696,7 +698,7 @@ Et skip som er arrestert etter [tvisteloven § 33-2](lov/2005-06-17-90/§33-2) t
 
 For realregistrerte skip som er arrestert etter [tvisteloven § 33-2](lov/2005-06-17-90/§33-2) første ledd eller holdt tilbake etter [tvisteloven kapittel 34](lov/2005-06-17-90/kap34), kan det gis pålegg som nevnt i annet ledd og for øvrig iverksettes tiltak som der bestemt dersom retten finner det nødvendig for å sikre arresten.
 
-> Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995), endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)).
+> Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995), endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 96. Vilkår ved sikkerhetsstillelse
 
@@ -846,6 +848,8 @@ En partreder har i alle tilfelle rett til å utløse den medreder som har bevirk
 
 Utløsningssummen og fristen for gjennomføring av utløsningen eller oppløsningen fastsettes i dommen.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 117. Kumulasjon, verneting
 
 I søksmål etter [§ 116](lov/1994-06-24-39/§116) må alle partredere gjøres til parter. Søksmålet reises i den rettskrets hvor partrederiet har alminnelig verneting.
@@ -865,6 +869,8 @@ For salg i Norge gjelder reglene om tvangssalg av skip tilsvarende så langt de 
 Med mindre en partreder har fått medredernes samtykke til pantsetting, jf [§ 113](lov/1994-06-24-39/§113), kan partrederens særkreditorer ikke ta utlegg i rederiets eiendeler. Derimot kan en særkreditor ta utlegg i det som skyldneren har rett til å kreve av rederiet som andel i overskudd, og den andel skyldneren kan kreve utbetalt ved oppløsning eller utløsning etter [§ 116](lov/1994-06-24-39/§116). Har en særkreditor fått endelig utlegg i skyldnerens andel i tilfelle av oppløsning eller utløsning, kan særkreditoren, med minst ett års varsel, kreve at de øvrige partredere eller en eller flere av dem skal utløse andelen så langt det er nødvendig for å dekke særkreditorens fordring. [§ 116](lov/1994-06-24-39/§116) første ledd annet punktum gjelder tilsvarende. Er særkreditorens krav ikke etterkommet innen fristen, kan særkreditoren forlange partrederiet oppløst.
 
 Dersom en partreder går konkurs eller åpner offentlig akkordforhandling, har partrederens bo ikke større rett enn en utleggstaker etter første ledd.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel 6. Skipsføreren
 
