@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2024-05-24"
 last_updated: "2021-07-01"
-xml_hash: "7193a9954ff349eb3cf7757dc64c02e49389cf6098a6d1a97d4bf27b027510f4"
+xml_hash: "9bf260574342257fd7eee57bb183d9a9317e0bfd5b5325ae4fa599f95560304b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -360,7 +360,7 @@ I andre saker enn de som er nevnt i [§ 42](lov/1917-06-01-1/§42), avgjøres sp
 
 I saker hvor ingen av partene etter rettens mening kan sies å ha vunnet, avgjør retten i hvilken utstrekning den ene parten helt eller delvis skal erstatte motparten hans nødvendige utgifter i anledning skjønnssaken. Det skal her særlig legges vekt på om parten har avslått et rimelig forlikstilbud og om han ellers har forlangt skjønn uten rimelig grunn.
 
-> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 44. (Opphevet)
 
