@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-01-23"
+last_change_in_force: "2026-06-19"
 last_updated: "2026-02-16"
-xml_hash: "abe45950e911978a2d4a76a2cbba5ffe2e65b7ed9259cdde511ae49a17118faa"
+xml_hash: "6995444633cd7871ddf360c29f103c7f08069f0d96a1928723942ffe49ae0ba6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,13 @@ Loven gjelder for barn som har sitt vanlige bosted i Norge og oppholder seg her.
 
 For barn som oppholder seg i en annen stat og har sitt vanlige bosted i Norge, kan det treffes vedtak om omsorgsovertakelse etter [§ 5-1](lov/2021-06-18-97/§5-1) og vedtak om opphold på barnevernsinstitusjon etter [§ 6-2](lov/2021-06-18-97/§6-2). Det kan også treffes vedtak om hjelpetiltak etter [§ 3-1](lov/2021-06-18-97/§3-1) og pålegg om hjelpetiltak etter [§ 3-4](lov/2021-06-18-97/§3-4) når foreldrene oppholder seg i Norge.
 
-For barn som oppholder seg i Norge, men har sitt vanlige bosted i en annen stat, kan det treffes vedtak om hjelpetiltak etter [kapittel 3](lov/2021-06-18-97/kap3), vedtak om akuttiltak etter [kapittel 4](lov/2021-06-18-97/kap4) med unntak av akuttvedtak om utreiseforbud etter [§ 4-6](lov/2021-06-18-97/§4-6), vedtak om frivillig opphold i barnevernsinstitusjon etter [§ 6-1](lov/2021-06-18-97/§6-1), samt vedtak om plassering på institusjon etter [§ 6-6](lov/2021-06-18-97/§6-6) når det er fare for menneskehandel.
+For barn som oppholder seg i Norge, men har sitt vanlige bosted i en annen stat, kan det treffes vedtak om hjelpetiltak etter [kapittel 3](lov/2021-06-18-97/kap3), vedtak om akuttiltak etter [kapittel 4](lov/2021-06-18-97/kap4) med unntak av akuttvedtak om utreiseforbud etter [§ 4-6](lov/2021-06-18-97/§4-6), vedtak om frivillig opphold i barnevernsinstitusjon etter [§ 6-1](lov/2021-06-18-97/§6-1), samt vedtak om opphold på institusjon etter [§ 6-6](lov/2021-06-18-97/§6-6) når det er fare for menneskehandel.
 
 Loven gjelder med de begrensninger som følger av folkeretten.
 
 Kongen kan gi forskrift om lovens anvendelse på Svalbard.
 
-> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)).
+> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)), [19 juni 2026 nr. 35](lov/2026-06-19-35).
 
 ### § 1-3. Barnets beste
 
@@ -158,7 +158,7 @@ Departementet kan i forskrift fastsette hvilke krav til kvalitet som skal stille
 
 Barnevernstjenesten kan tilby fosterhjem eller institusjon som hjelpetiltak når vilkårene i [§ 3-1](lov/2021-06-18-97/§3-1) første ledd er til stede og barnets behov ikke kan ivaretas på annen måte. Barnevernstjenesten kan også tilby opphold i omsorgssenter, jf. [kapittel 11](lov/2021-06-18-97/kap11). Dersom det må antas at foreldrene i lengre tid ikke vil kunne gi barnet forsvarlig omsorg, må barnevernstjenesten vurdere om det med én gang skal reises sak om omsorgsovertakelse, jf. [§ 5-1](lov/2021-06-18-97/§5-1). Bestemmelsen i [§ 5-3](lov/2021-06-18-97/§5-3) tredje ledd gjelder så langt den passer.
 
-> **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> **Endres** ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2027 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-3. Frivillig opphold i fosterhjem eller barnevernsinstitusjon i en annen stat enn der barnet har sitt vanlige bosted
 
@@ -244,7 +244,7 @@ Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge o
 
 Bestemmelsen i [§ 4-2](lov/2021-06-18-97/§4-2) fjerde ledd gjelder tilsvarende.
 
-> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 4-5. Akuttvedtak om opphold i institusjon når det er fare for menneskehandel
 
@@ -270,7 +270,9 @@ Dersom det er behov for videre tiltak, skal barnevernstjenesten snarest følge o
 
 ### § 5-1. Vedtak om omsorgsovertakelse
 
-Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda treffe vedtak om omsorgsovertakelse for et barn i ett eller flere av følgende tilfeller:det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utviklingforeldrene sørger ikke for at et barn som er sykt, har nedsatt funksjonsevne eller er spesielt hjelpetrengende, får dekket sitt særlige behov for behandling og opplæringbarnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmetdet er overveiende sannsynlig at barnets helse eller utvikling kan bli alvorlig skadet fordi foreldrene vil være ute av stand til å ta tilstrekkelig ansvar for barnetdet er overveiende sannsynlig at et barn som ble akuttplassert som nyfødt etter [§ 4-2](lov/2021-06-18-97/§4-2), vil komme i en situasjon som nevnt i bokstav a, b, c eller ddet er overveiende sannsynlig at flytting av et barn som med foreldrenes samtykke bor utenfor hjemmet, vil føre til en situasjon som nevnt i bokstav a, b, c, eller dbarnet har bodd utenfor hjemmet i mer enn to år med foreldrenes samtykke, og barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet.
+Dersom mindre inngripende tiltak ikke kan skape tilfredsstillende forhold for barnet og det er nødvendig ut fra barnets situasjon, kan barneverns- og helsenemnda treffe vedtak om omsorgsovertakelse for et barn i ett eller flere av følgende tilfeller:det er alvorlige mangler ved den omsorgen barnet får, herunder den personlige kontakt og trygghet, sett hen til det barnet trenger etter sin alder og utviklingforeldrene sørger ikke for at et barn som er sykt, har nedsatt funksjonsevne eller er spesielt hjelpetrengende, får dekket sitt særlige behov for behandling og opplæringbarnet blir mishandlet eller utsatt for andre alvorlige overgrep i hjemmetdet er overveiende sannsynlig at barnets helse eller utvikling kan bli alvorlig skadet fordi foreldrene vil være ute av stand til å ta tilstrekkelig ansvar for barnetdet er overveiende sannsynlig at et barn som var omfattet av et akuttvedtak etter [§ 4-2](lov/2021-06-18-97/§4-2) som nyfødt, vil komme i en situasjon som nevnt i bokstav a, b, c eller d.det er overveiende sannsynlig at flytting av et barn som med foreldrenes samtykke bor utenfor hjemmet, vil føre til en situasjon som nevnt i bokstav a, b, c, eller dbarnet har bodd utenfor hjemmet i mer enn to år med foreldrenes samtykke, og barnet er blitt så knyttet til mennesker og miljøet der det er, at flytting kan føre til alvorlige problemer for barnet.
+
+> Endret ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-2. Iverksetting av vedtak om omsorgsovertakelse
 
@@ -402,7 +404,7 @@ Dersom det er nødvendig ut fra formålet med oppholdet, kan nemnda treffe vedta
 
 Barnevernstjenesten kan la være å sette vedtaket i verk dersom forholdene tilsier det. Barnevernstjenesten skal i så fall varsle nemnda. Vedtaket faller bort dersom det ikke er satt i verk innen seks uker.
 
-> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-3. Opphold i fosterhjem med særlige forutsetninger eller i institusjoner med hjem
 
@@ -516,6 +518,8 @@ Etter at et vedtak om hjelpetiltak er iverksatt, skal barnevernstjenesten følge
 
 Når barnevernstjenesten treffer vedtak om hjelpetiltak, skal den utarbeide en plan for tiltakene og for oppfølgingen av barn og foreldre. Planen skal beskrive hva som er målet med hjelpetiltakene, hva de skal inneholde, og hvor lenge de er ment å vare. Planen skal endres dersom barnets behov tilsier det.
 
+> **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
+
 ### § 8-2. Oppfølging av barn og foreldre etter akuttvedtak
 
 Etter at et akuttvedtak er iverksatt, skal barnevernstjenesten følge med på hvordan barnet utvikler seg, og om det får forsvarlig omsorg. Barnevernstjenesten skal vurdere om det er nødvendig å endre tiltaket, eller om det er nødvendig å iverksette ytterligere tiltak for barnet.
@@ -534,7 +538,7 @@ Dersom hensynet til barnet ikke taler mot det, skal barnevernstjenesten legge ti
 
 Så snart som mulig etter at barneverns- og helsenemnda har truffet vedtak om omsorgsovertakelse, skal barnevernstjenesten utarbeide en plan for barnets omsorgssituasjon og oppfølgingen av barnet og foreldrene. Planen skal blant annet beskrive barnets behov og eventuell oppfølging som kan bidra til at foreldrene kan få tilbake omsorgen for barnet. Planen skal endres dersom barnets behov tilsier det.
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-4. Oppfølging av barn og foreldre etter vedtak etter §§ 6-1 og 6-2 om opphold i barnevernsinstitusjon
 
@@ -702,7 +706,7 @@ Tiltak som ikke kan gjennomføres i medhold av omsorgsansvaret, krever hjemmel i
 
 Departementet kan gi forskrift om det nærmere innholdet i omsorgsansvaret og gjennomføring av grensesetting etter denne bestemmelsen.
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-4. Trygghet og trivsel på barnevernsinstitusjonen
 
@@ -782,7 +786,7 @@ Dersom det er strengt nødvendig å isolere barnet etter første ledd, skal mins
 
 Departementet kan gi forskrift om gjennomføring av bruk av fysisk makt etter denne bestemmelsen.
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-7).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-7). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-12. Utvidet adgang til inngrep i barnets rettigheter
 
@@ -792,7 +796,7 @@ Vedtak om inngrep i barnets bevegelsesfrihet og besøk etter første ledd kan tr
 
 Departementet kan gi forskrift om gjennomføring av vedtak etter bestemmelsen.
 
-> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-9).
+> Endret ved lover [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-9). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-13. Rusmiddeltesting av barn i barnevernsinstitusjon etter § 6-2
 
@@ -840,7 +844,7 @@ Institusjonen skal ha en skriftlig plan for sin virksomhet. Institusjonen skal f
 
 Departementet kan gi forskrift om internkontroll og nærmere krav til kvalitet, bemanning og kompetanse i institusjonene.
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-15).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-15). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-18. Krav til bemanning og kompetanse i barnevernsinstitusjon
 
@@ -872,7 +876,7 @@ Avgjørelser om godkjenning kan påklages til sentralt nivå i barne-, ungdoms- 
 
 Departementet kan gi forskrift om godkjenningsordningen, om regnskapsføring og om offentlige myndigheters innsyn i regnskapene.
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-17).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711), tidligere § 10-17). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-20. Kartlegging under opphold på barnevernsinstitusjon
 
@@ -964,7 +968,7 @@ Omsorgssenteret skal kartlegge barnets situasjon og behov. Kartleggingen skal da
 
 Loven [§§ 10-1](lov/2021-06-18-97/§10-1) til [10-11](lov/2021-06-18-97/§10-11), [§ 10-14](lov/2021-06-18-97/§10-14) og [§ 10-16](lov/2021-06-18-97/§10-16) gjelder tilsvarende for omsorgssentre. Det samme gjelder [§§ 10-17](lov/2021-06-18-97/§10-17) til [10-19](lov/2021-06-18-97/§10-19).
 
-> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)).
+> Endret ved lov [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)). **Endres** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-6. Ansvar for etablering, drift og oppholdsutgifter
 
@@ -1000,9 +1004,11 @@ Barnevernstjenesten skal informere foreldre med foreldreansvar om alle vedtak so
 
 ### § 12-3. Barns partsrettigheter
 
-Barn som har fylt 15 år, er part i saken. I saker som gjelder tiltak for barn med atferdsvansker eller tiltak for barn som er utsatt for menneskehandel, er barnet alltid part. For å gjøre partsrettigheter gjeldende må barnet forstå hva saken gjelder.
+Barn som har fylt 15 år, er part i saken. I saker som gjelder tiltak for barn som utsetter sin utvikling for fare eller tiltak for barn som er utsatt for menneskehandel, er barnet alltid part. For å gjøre partsrettigheter gjeldende må barnet forstå hva saken gjelder.
 
 Barneverns- og helsenemnda kan innvilge et barn under 15 år partsrettigheter dersom hensynet til barnet tilsier det.
+
+> Endret ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35).
 
 ### § 12-3 a. Barns rett til å klage på vedtak om flytting
 
@@ -1114,7 +1120,7 @@ Når barnevernstjenesten mottar en bekymringsmelding fra offentlige meldere og y
 
 ### § 13-4. Pålegg om å gi opplysninger
 
-De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker omvedtak om medisinsk undersøkelse og behandling, jf. [§ 3-7](lov/2021-06-18-97/§3-7)vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. [§ 3-8](lov/2021-06-18-97/§3-8)akuttvedtak om omsorgsovertakelse, jf. [§ 4-2](lov/2021-06-18-97/§4-2)vedtak om midlertidig flytteforbud, jf. [§ 4-3](lov/2021-06-18-97/§4-3)akuttvedtak om plassering i barnevernsinstitusjon, jf. [§ 4-4](lov/2021-06-18-97/§4-4)akuttvedtak om plassering av barn i institusjon når det er fare for menneskehandel, jf. [§ 4-5](lov/2021-06-18-97/§4-5)akuttvedtak om utreiseforbud, jf. [§ 4-6](lov/2021-06-18-97/§4-6)vedtak om omsorgsovertakelse, jf. [§ 5-1](lov/2021-06-18-97/§5-1)oppheving av vedtak om omsorgsovertakelse, jf. [§ 5-7](lov/2021-06-18-97/§5-7)vedtak om fratakelse av foreldreansvar, jf. [§ 5-8](lov/2021-06-18-97/§5-8)vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. [§ 5-9](lov/2021-06-18-97/§5-9)vedtak om adopsjon, jf. [§ 5-10](lov/2021-06-18-97/§5-10)vedtak om utreiseforbud, jf. [§ 5-13](lov/2021-06-18-97/§5-13)vedtak om plassering i barnevernsinstitusjon uten samtykke, jf. [§ 6-2](lov/2021-06-18-97/§6-2)vedtak om plassering i institusjon ved fare for menneskehandel, jf. [§ 6-6](lov/2021-06-18-97/§6-6)vedtak om samvær, jf. [§§ 7-2](lov/2021-06-18-97/§7-2) og [7-3](lov/2021-06-18-97/§7-3).
+De organene som er ansvarlige for gjennomføringen av bestemmelser i denne loven, kan gi pålegg til offentlige myndigheter om å gi taushetsbelagte opplysninger når det er nødvendig for å vurdere, forberede og behandle saker omvedtak om medisinsk undersøkelse og behandling, jf. [§ 3-7](lov/2021-06-18-97/§3-7)vedtak om behandling av barn som har særlige behandlings- og opplæringsbehov, jf. [§ 3-8](lov/2021-06-18-97/§3-8)akuttvedtak om omsorgsovertakelse, jf. [§ 4-2](lov/2021-06-18-97/§4-2)vedtak om midlertidig flytteforbud, jf. [§ 4-3](lov/2021-06-18-97/§4-3)akuttvedtak om opphold i barnevernsinstitusjon, jf. [§ 4-4](lov/2021-06-18-97/§4-4)akuttvedtak om opphold i institusjon når det er fare for menneskehandel, jf. [§ 4-5](lov/2021-06-18-97/§4-5)akuttvedtak om utreiseforbud, jf. [§ 4-6](lov/2021-06-18-97/§4-6)vedtak om omsorgsovertakelse, jf. [§ 5-1](lov/2021-06-18-97/§5-1)oppheving av vedtak om omsorgsovertakelse, jf. [§ 5-7](lov/2021-06-18-97/§5-7)vedtak om fratakelse av foreldreansvar, jf. [§ 5-8](lov/2021-06-18-97/§5-8)vedtak om oppheving av vedtak om fratakelse av foreldreansvar, jf. [§ 5-9](lov/2021-06-18-97/§5-9)vedtak om adopsjon, jf. [§ 5-10](lov/2021-06-18-97/§5-10)vedtak om utreiseforbud, jf. [§ 5-13](lov/2021-06-18-97/§5-13)vedtak om opphold i barnevernsinstitusjon uten samtykke, jf. [§ 6-2](lov/2021-06-18-97/§6-2)vedtak om opphold i institusjon ved fare for menneskehandel, jf. [§ 6-6](lov/2021-06-18-97/§6-6)vedtak om samvær, jf. [§§ 7-2](lov/2021-06-18-97/§7-2) og [7-3](lov/2021-06-18-97/§7-3).
 
 Ansvarlige organer kan pålegge myndighetene å gi taushetsbelagte opplysninger også i saker etter [§ 3-4](lov/2021-06-18-97/§3-4) om pålegg om hjelpetiltak når det er nødvendig for å unngå at et barn havner i en alvorlig situasjon som beskrevet i [§ 5-1](lov/2021-06-18-97/§5-1) om omsorgsovertakelse.
 
@@ -1126,7 +1132,7 @@ Også yrkesutøvere i medhold av [helsepersonelloven](lov/1999-07-02-64), [psyki
 
 Myndigheter med ansvar etter denne loven kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven. Sentralmyndigheten for [Haagkonvensjonen 1996](traktat/1996-10-19-26) kan, uten hinder av taushetsplikt, innhente opplysninger fra Folkeregisteret når det er nødvendig å innhente opplysninger for å motta og formidle henvendelser til og fra utenlandske myndigheter i barnevernssaker som ikke reguleres av [Haagkonvensjonen av 1996](traktat/1996-10-19-26).
 
-> Endret ved lover [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 997](forskrift/2022-06-10-997)), [17 juni 2022 nr. 44](lov/2022-06-17-44) (i kraft 17 juni 2022 iflg. [res. 17 juni 2022 nr. 1037](forskrift/2022-06-17-1037)), [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)).
+> Endret ved lover [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 997](forskrift/2022-06-10-997)), [17 juni 2022 nr. 44](lov/2022-06-17-44) (i kraft 17 juni 2022 iflg. [res. 17 juni 2022 nr. 1037](forskrift/2022-06-17-1037)), [17 juni 2022 nr. 45](lov/2022-06-17-45), [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)), [19 juni 2026 nr. 35](lov/2026-06-19-35).
 
 ### § 13-5. Barnevernets opplysningsplikt
 
@@ -1310,9 +1316,11 @@ Nemndlederen kan treffe vedtak etter skriftlig behandling uten å ha gjennomfør
 
 Nemndlederen kan treffe vedtak etter skriftlig behandling uten å ha gjennomført forhandlingsmøte dersom saken gjelder krav om endring av tidligere vedtak eller dom, pålegg om utredning i senter for foreldre og barn etter [§ 2-3](lov/2021-06-18-97/§2-3) eller pålegg om hjelpetiltak etter [§ 3-4](lov/2021-06-18-97/§3-4), og nemndlederen finner det ubetenkelig. Vurderingen skal omfatte blant annet sakens tema, vanskelighetsgrad og behovet for fagkyndighet.
 
-Når vilkårene i andre eller tredje ledd er oppylt1, kan det treffes vedtak på grunnlag av en kombinasjon av forhandlingsmøte og skriftlig behandling.
+Når vilkårene i andre eller tredje ledd er oppfylt, kan det treffes vedtak på grunnlag av en kombinasjon av forhandlingsmøte og skriftlig behandling.
 
 Nemndlederen styrer forhandlingsmøtet og påser at det gjennomføres innenfor de rammene som er fastsatt. For øvrig gjelder [tvisteloven § 9-15](lov/2005-06-17-90/§9-15) tilsvarende så langt den passer.
+
+> Endret ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35).
 
 ### § 14-17. Møter for lukkede dører
 
@@ -1376,7 +1384,7 @@ Nemndlederen skal gi en kort begrunnelse for avgjørelsen.
 
 ### § 14-23. Klage på akuttvedtak og vedtak om midlertidig flytteforbud
 
-De private partene kan påklage akuttvedtak etter [§ 4-2 første](lov/2021-06-18-97/§4-2/ledd/1) og [annet ledd](lov/2021-06-18-97/§4-2/ledd/2), [§§ 4-4](lov/2021-06-18-97/§4-4), [4-5](lov/2021-06-18-97/§4-5), [4-6](lov/2021-06-18-97/§4-6) og vedtak om midlertidig flytteforbud etter [§ 4-3](lov/2021-06-18-97/§4-3).1 Klagen fremsettes direkte for nemnda.
+De private partene kan påklage akuttvedtak etter [§ 4-2 første](lov/2021-06-18-97/§4-2/ledd/1) og [annet ledd](lov/2021-06-18-97/§4-2/ledd/2), [§§ 4-4](lov/2021-06-18-97/§4-4), [4-5](lov/2021-06-18-97/§4-5) og [4-6](lov/2021-06-18-97/§4-6), vedtak om midlertidig flytteforbud etter [§ 4-3](lov/2021-06-18-97/§4-3) og vedtak om midlertidig stans av eller tilsyn under samvær etter [§ 7-7](lov/2021-06-18-97/§7-7). Klagen fremsettes direkte for nemnda.
 
 Klagen behandles av nemndlederen alene. I særlige tilfeller kan nemnda settes som en ordinær nemnd, jf. [§ 14-3](lov/2021-06-18-97/§14-3).
 
@@ -1384,7 +1392,7 @@ Det skal holdes et møte der partene får mulighet til å redegjøre for sitt sy
 
 Vedtak i klagesaken skal treffes innen én uke etter at nemnda mottok saken. Dersom klagen er behandlet av en ordinær nemnd, er fristen for å treffe vedtak to uker etter at nemnda mottok saken.
 
-> Endret ved lover [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)).
+> Endret ved lover [20 juni 2025 nr. 39](lov/2025-06-20-39) (i kraft 1 jan 2026 iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711)), [22 des 2025 nr. 115](lov/2025-12-22-115) (i kraft 23 jan 2026 iflg. [res. 23 jan 2026 nr. 68](forskrift/2026-01-23-68)), [19 juni 2026 nr. 35](lov/2026-06-19-35).
 
 ### § 14-24. Forkynning av nemndas vedtak
 
@@ -1401,6 +1409,10 @@ De private partene eller kommunen kan bringe nemndas vedtak inn for tingretten f
 Fristen for å reise søksmål om rettslig prøving er én måned fra den dagen da den som har rett til å reise søksmål, fikk melding om vedtaket. Retten kan gi tillatelse til å reise søksmål selv om søksmålsfristen ikke er overholdt.
 
 Retten kan legge sakkyndigbevis til grunn bare dersom de har vært vurdert av barnesakkyndig kommisjon, jf. [§ 12-8](lov/2021-06-18-97/§12-8). Dette gjelder likevel ikke ved rettslig prøving av akuttvedtak.
+
+### § 14-26. Periodisk kontroll av vedtak etter § 6-2 tredje ledd
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 35](lov/2026-06-19-35) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 15. Kommunens og barnevernstjenestens ansvar og oppgaver
 
