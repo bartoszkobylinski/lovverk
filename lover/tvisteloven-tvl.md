@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2025-09-24"
-xml_hash: "a8c6ef517d49cd31b56ed52fc4e42c46461c5d8c90c2bc67a0611c34e21d9cb9"
+xml_hash: "21f06962c7d0881fd059818c813fe1d3908cbaced1ba1c692326f2f156f55290"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-23T06:31:59.201228+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2720,11 +2720,15 @@ Retten kan ilegge sakskostnader også i en sak som avgjøres uten innkalling til
 
 (3) Saksøkte kan alltid avverge gjennomføringen ved å stille sikkerhet for saksøkerens krav.
 
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
 ### § 33-6. Valget av formuesgode
 
 (1) Arrest kan tas i ethvert formuesgode som det kan tas utleggspant i. Arrest kan også tas i pengekrav som det kan besluttes utleggstrekk i etter [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) når det er gått minst en måned siden saksøkte kunne fått betaling. Det skal velges et formuesgode som vil gi saksøkeren tilstrekkelig sikkerhet for arrestkravet og som i tilbørlig utstrekning tar hensyn til saksøktes interesser. [Tvangsfullbyrdelsesloven §§ 7-13](lov/1992-06-26-86/§7-13) til [7-16](lov/1992-06-26-86/§7-16) gjelder tilsvarende.
 
 (2) Dersom en arrest blir besluttet uten muntlig forhandling og arrest er begjært i et bestemt formuesgode som det kan tas arrest i, skal det tas arrest i dette. Det gjelder likevel ikke dersom det finnes klart at saksøkeren vil være tilstrekkelig sikret med arrest i et annet formuesgode, og det må antas å være i saksøktes interesse å velge dette.
+
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33-7. Virkningen av arresten, rettsvern m.m.
 
@@ -2733,6 +2737,8 @@ Retten kan ilegge sakskostnader også i en sak som avgjøres uten innkalling til
 (2) Arrest får rettsvern mot saksøktes rettslige disposisjoner etter reglene for utleggspant i panteloven. Om etablering av rettsvern m.m. gjelder [tvangsfullbyrdelsesloven § 7-20](lov/1992-06-26-86/§7-20).
 
 (3) Arrest i et formuesgode gir ikke arresthaveren rett til å kreve tvangsdekning. Dersom det er nødvendig for å forebygge vesentlig verdiforringelse, kan retten på arresthaverens begjæring ved kjennelse bestemme at arresthaveren skal gis adgang til å begjære tvangsdekning. For andel av utbytte som faller på arrestkravet gjelder [tvangsfullbyrdelsesloven § 8-19](lov/1992-06-26-86/§8-19) tredje ledd og [§ 11-36](lov/1992-06-26-86/§11-36) tredje ledd.
+
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33-8. Særregler om arrest i luftfartøy
 
@@ -2812,7 +2818,7 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 (5) Går en midlertidig forføyning ut på å sette et formuesgode i forvaring og det er tvist om eiendomsretten til gjenstanden, skal avkastning av formuesgodet utbetales til retten, som plasserer midlene på best mulige rentebærende vilkår i norsk bank inntil saken er avgjort.
 
-> Endret ved lov [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+> Endret ved lov [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 34-5. Opphevelse av midlertidig forføyning m.m.
 
