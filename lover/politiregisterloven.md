@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-28"
-xml_hash: "0c023b4e6de1f22514f38197d756c1d6c87faff53b8258454e7cc91b8bcdd2aa"
+xml_hash: "ac223ffab624f173c69551221597c0d18351243a4bb531f9f563be0611c9dc9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32016L0680"
@@ -49,7 +49,7 @@ For opplysninger om gjenstand gjelder [kapittel 4](lov/2010-05-28-16/kap4) og re
 
 Loven gjelder også for Svalbard, Jan Mayen og de norske bilandene, med de endringer som Kongen fastsetter av hensyn til de stedlige forhold.
 
-> Endret ved lover [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](forskrift/2021-09-17-2775)), [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)), [28 april 2023 nr. 11](lov/2023-04-28-11) (i kraft 1 sep 2023 iflg. [res. 28 april 2023 nr. 614](forskrift/2023-04-28-614)).
+> Endret ved lover [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](forskrift/2021-09-17-2775)), [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173)), [28 april 2023 nr. 11](lov/2023-04-28-11) (i kraft 1 sep 2023 iflg. [res. 28 april 2023 nr. 614](forskrift/2023-04-28-614)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 2. Krav til behandlingen av opplysninger
 
@@ -173,6 +173,8 @@ I avtalen med den behandlingsansvarlige skal det fremgå at databehandleren plik
 
 Den som er ansatt hos, eller utfører tjeneste eller arbeid for databehandler, og som får tilgang til opplysninger som er underlagt taushetsplikt i henhold til denne loven, skal pålegges taushetsplikt etter [§ 35](lov/2010-05-28-16/§35). En slik plikt skal fremgå av avtalen med den behandlingsansvarlige. Det kan kreves uttømmende og utvidet politiattest av enhver som er ansatt hos eller utfører tjeneste eller arbeid for databehandler. Databehandler plikter å oppgi hvem som får tilgang til de taushetsbelagte opplysningene.
 
+> **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+
 ## Kapittel 5. Utlevering og tilgang til opplysninger
 
 ### § 19. Generelt om utlevering av opplysninger
@@ -293,6 +295,8 @@ I straffesaker treffes beslutning etter første ledd av riksadvokaten og for øv
 
 Bestemmelsene i [forvaltningsloven § 13d](lov/1967-02-10/§13d) annet og tredje ledd og [§ 13e](lov/1967-02-10/§13e) kommer til anvendelse så langt de passer.
 
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
 ### § 34. Taushetsplikt ved utlevering til allmennheten i straffesak
 
 Taushetsplikten som nevnt i [§ 23](lov/2010-05-28-16/§23) første ledd er ikke til hinder for at allmennheten gis opplysninger fra straffesak på følgende vilkår:Når dette er nødvendig for å ivareta straffeforfølgningens allmennpreventive virkning, for offentlig kontroll med myndighetsutøvelsen og for å gi saklig og nøktern informasjon om hendelser av allmenn interesse. Det kan også gis opplysninger med det siktemål å bidra til oppklaring av lovbrudd, jf. [§ 26](lov/2010-05-28-16/§26).Opplysninger skal gis uten bruk av navn og andre identifiserende opplysninger, med mindre dette er nødvendig ut fra formålet, eller for å forhindre forveksling, eller opplysningene allerede er alminnelig kjent.Opplysninger som ikke har vært etterforsket, skal normalt ikke offentliggjøres. Bestemmelsen i [§ 20](lov/2010-05-28-16/§20) første ledd første punktum gjelder tilsvarende.
@@ -355,7 +359,7 @@ Politiattest som er begrunnet i formål som nevnt i [§ 37](lov/2010-05-28-16/§
 8. Har en person flere dommer på ubetinget fengsel i 6 måneder eller mer, sikring, forvaring eller overføring til tvungent psykisk helsevern eller tvungen omsorg, tas alle dommene med i politiattesten, selv om bare en av dem skal oppgis etter tidsfristen i nr. 7.
 9. Kongen gir i forskrift nærmere regler om anmerkning av utenlandske reaksjoner og tiltak på politiattest.
 
-> Endret ved [lover 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](forskrift/2021-06-11-1873)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+> Endret ved [lover 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 721](forskrift/2014-06-13-721)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](forskrift/2021-06-11-1873)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 1 sep 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ### § 41. Uttømmende og utvidet politiattest
 
@@ -434,7 +438,7 @@ Den behandlingsansvarlige kan uten hinder av første ledd lagre personopplysning
 
 Opplysninger innhentet ved kommunikasjonskontroll som ikke er brukt i saken, skal sperres når saken er avgjort ved rettskraftig dom eller endelig henleggelsesbeslutning. Sperrede opplysninger kan benyttes ved begjæring om gjenåpning, ved gjenopptakelse av etterforskning, eller for å ivareta siktedes legitime interesser. Opplysninger som det etter [straffeprosessloven § 216 g](lov/1981-05-22-25/§216g) ikke er adgang til å beholde, skal slettes så snart som mulig. Bestemmelsen gjelder tilsvarende for opplysninger innhentet etter [straffeprosessloven §§ 216 m](lov/1981-05-22-25/§216m) og [216 o](lov/1981-05-22-25/§216o), og for opplysninger innhentet etter [straffeprosessloven §§ 202 a](lov/1981-05-22-25/§202a) og [202 c](lov/1981-05-22-25/§202c) så langt den passer. Kongen gir i forskrift nærmere regler om sletting og bruk av sperrede opplysninger fra kommunikasjonskontroll.
 
-> Endret ved [lover 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+> Endret ved [lover 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [24 april 2020 nr. 33](lov/2020-04-24-33) (ikr. 1 feb 2021 iflg. res. [11 des 2020 nr. 2702](forskrift/2020-12-11-2702)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 51. Retting, sperring og sletting av opplysninger med feil eller mangler
 
@@ -574,7 +578,7 @@ Opplysningene skal slettes senest etter 5 år. Sjefen for Politiets sikkerhetstj
 
 Kongen gir i forskrift nærmere regler om behandling av opplysninger etter denne bestemmelsen, herunder om utlevering, utsatt sletting, tilgangsbegrensning og kontroll.
 
-> Tilføyd ved lov [28 april 2023 nr. 11](lov/2023-04-28-11) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 961](forskrift/2025-06-06-961)).
+> Tilføyd ved lov [28 april 2023 nr. 11](lov/2023-04-28-11) (i kraft 1 juli 2025 iflg. [res. 6 juni 2025 nr. 961](forskrift/2025-06-06-961)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ### § 66. Informasjonsplikt, innsyn og forholdet til offentleglova
 
@@ -612,7 +616,7 @@ Kongen kan i forskrift gi nærmere regler til gjennomføring av denne lov, herun
 
 Kongen kan videre i forskrift gi nærmere regler om behandling av opplysninger som følger av konvensjoner mv. som nevnt i [§ 22](lov/2010-05-28-16/§22) annet ledd.
 
-> Endret ved [lover 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](forskrift/2018-04-27-642)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](forskrift/2021-06-11-1873)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](forskrift/2021-09-17-2775)), [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 639](forskrift/2022-04-29-639)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+> Endret ved [lover 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [21 juni 2017 nr. 94](lov/2017-06-21-94) (ikr. 6 mai 2018 iflg. [res. 27 apr 2018 nr. 642](forskrift/2018-04-27-642)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1873](forskrift/2021-06-11-1873)), [11 juni 2021 nr. 72](lov/2021-06-11-72) (ikr. 17 sep 2021 iflg. [res. 17 sep 2021 nr. 2775](forskrift/2021-09-17-2775)), [29 april 2022 nr. 26](lov/2022-04-29-26) (i kraft 1 mai 2022 iflg. [res. 29 april 2022 nr. 639](forskrift/2022-04-29-639)), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 13. Sluttbestemmelser
 
