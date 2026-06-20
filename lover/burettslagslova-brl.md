@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-05"
-xml_hash: "49fe9f08447b65dc5dda179223ffddaf59787c9ca8653d6e902ee4f38e5cee5f"
+xml_hash: "115a4603b02c0cea19b14182ed40bdffb288cad86552eb2b5741cef8bf582615"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -774,6 +774,8 @@ Når ikkje anna er avtala eller følgjer av stiftingsgrunnlaget eller av [§ 6-1
 
 (3) For at ein frivillig stifta rett skal ha rettsvern ved tvangsakkord, må retten vere registrert seinast dagen før opninga av forhandling om tvangsakkord.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 6-12. Prioritet i tilfelle av registreringsfeil o.a.
 
 (1) Blir eit rettserverv ført feil inn i grunnboka, kan det likevel gjerast gjeldande i forhold til eit seinare registrert rettserverv.
@@ -1281,6 +1283,8 @@ Skadebotansvar etter [§ 12-1](lov/2003-06-06-39/§12-1) kan lempast etter [skad
 (1) Generalforsamlinga avgjer om laget skal fremje skadebotkrav etter [§ 12-1](lov/2003-06-06-39/§12-1). Er det opna gjeldsforhandling eller konkurs, gjeld føresegnene i konkursloven.
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom laget og nokon som er nemnd i [§ 12-1](lov/2003-06-06-39/§12-1), som regulerer eller avgrensar skadebotansvaret deira.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12-4. Krav på vegner av laget
 
