@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-01-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2025-01-09"
-xml_hash: "aa3b62f3ea09a45208f2f86a08edfbc48c3896800b3e57116611152566869bab"
+xml_hash: "3c06cd7e301cc1cc4dea7b7b07667364a9415fc0cb9e06b6d491228688574da5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -79,7 +79,7 @@ Formålet med loven er å bidra til finansiell stabilitet, herunder at finansfor
 
 (11) Departementet kan i forskrift gi nærmere regler om hvilke foretak som skal anses som mindre og ikke-komplekse foretak etter loven her.
 
-> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1-6. Unntak fra loven
 
@@ -95,13 +95,13 @@ Departementet kan gi forskrift om gjennomføring, utfylling og avgrensning av lo
 
 Kongen i statsråd kan gi Norges Bank i oppgave å fastsette krav i medhold av denne lov til finansforetak ut fra hensynet til å fremme finansiell stabilitet. I vedtaket kan det fastsettes at [sentralbankloven § 1-4](lov/2019-06-21-31/§1-4) annet ledd skal gjelde tilsvarende, og at enkeltvedtak ikke skal kunne påklages.
 
-> Endret ved lov [21 juni 2019 nr. 31](lov/2019-06-21-31) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804)).
+> Endret ved lov [21 juni 2019 nr. 31](lov/2019-06-21-31) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1-8. Forskrift om tilsyns- og kapitalkrav for kredittinstitusjoner og verdipapirforetak
 
 Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-regler om tilsyns- og kapitalkrav for kredittinstitusjoner og verdipapirforetak.
 
-> Tilføyd ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Oppheves** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 2. Krav om tillatelse til å etablere og drive virksomhet som finansforetak
 
@@ -119,7 +119,7 @@ Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-r
 
 (5) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her, herunder fastsette plikter for og regler om tilsyn med foretak som er unntatt fra forbudet i første ledd.
 
-> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-2. Innskuddsvirksomhet mv.
 
@@ -189,7 +189,7 @@ Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta an
 
 ### § 2-8 a. Konsesjon som foretak som nevnt i forordning (EU) nr. 575/2013 artikkel 4 nr. 1 (1) bokstav b
 
-> **Tilføyes** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-9. Konsesjon som finansieringsforetak
 
@@ -227,7 +227,7 @@ Tillatelse til å drive virksomhet som kredittforetak gir adgang til å motta an
 
 (5) Departementet kan ved forskrift fastsette nærmere regler om kravene til opplysningsfullmektigers virksomhet, vilkår for tillatelse og tilbakekall av tillatelse, utenrettslig tvisteløsningsordning, tilsyn, ansvarsforsikring og tilsvarende garanti, herunder om beregning av minimumsbeløpet.
 
-> Tilføyd ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)).
+> Tilføyd ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-11. Konsesjon som e-pengeforetak
 
@@ -345,7 +345,7 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (5) Departementet kan gi nærmere regler om kravene til søknader fra betalingsforetak og e-pengeforetak i forskrift.
 
-> Endret ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)).
+> Endret ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-2. Tildeling, vilkår mv.
 
@@ -357,7 +357,7 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (4) Avgjørelse av en søknad skal meddeles søkeren innen seks måneder etter at søknaden er mottatt. For søknad om tillatelse som betalingsforetak eller e-pengeforetak er fristen tre måneder. Dersom søknaden ikke inneholder de opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt, likevel slik at søknaden i alle tilfelle skal være avgjort innen tolv måneder etter at den er mottatt.
 
-> Endret ved lov [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 juli 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)).
+> Endret ved lov [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 juli 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-3. Eierforhold
 
@@ -389,6 +389,8 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (3) Første ledd gjelder tilsvarende for andre personer med nøkkelfunksjoner i foretaket.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 3-6. Igangsetting av virksomhet
 
 (1) Virksomhet som finansforetak kan ikke settes i gang før foretaket er registrert i Foretaksregisteret.
@@ -405,7 +407,7 @@ Utenlandsk finansforetak som har adgang til å drive virksomhet her i riket, kan
 
 (3) Tilbakekalles tillatelsen til et finansforetak med hovedsete her i riket som også driver virksomhet i fremmed stat, skal Finanstilsynet underrette tilsynsmyndighetene i vertsstaten.
 
-> Endret ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-8. Endring av konsesjonsvilkår
 
@@ -469,6 +471,8 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (3) Departementet kan ved forskrift fastsette nærmere regler for virksomhet som drives av datterforetak av finansforetak hjemmehørende i fremmed stat her i riket, herunder gjøre unntak fra bestemmelser i denne loven.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 5-2. Filial av kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
 
 (1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,filialens adresse,hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket, og en bekreftelse på at denne personen oppfyller egnethetskravene,hvem som skal inngå i ledelsen av virksomheten ved filialen, og en bekreftelse på at disse personene oppfyller egnethetskravene,en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
@@ -481,7 +485,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (5) Departementet kan gi forskrift som utfyller eller gjør unntak fra reglene i paragrafen her for ulike typer finansforetak. Departementet kan herunder gi regler om hva slags virksomhet som er omfattet av retten til å drive virksomhet gjennom filial og om hvilke opplysninger Finanstilsynet skal motta fra tilsynsmyndighetene i foretakets hjemstat.
 
-> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-3. Filial av finansieringsforetak med hovedsete i en annen EØS-stat
 
@@ -489,7 +493,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (2) Tilsynsmyndigheten i hjemstaten skal bekrefte at vilkårene etter første ledd er oppfylt. For øvrig gjelder bestemmelsene i [§ 5-2](lov/2015-04-10-17/§5-2) tilsvarende.
 
-> Endret ved lov [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)).
+> Endret ved lov [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-4. Virksomhet i filial av finansforetak med hovedsete i en annen EØS-stat
 
@@ -501,7 +505,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (4) Departementet kan i forskrift fastsette nærmere regler for virksomhet i filial av finansforetak med hovedsete i en annen EØS-stat. Departementet kan ved forskrift og enkeltvedtak gjøre unntak fra denne paragrafen når virksomheten er underlagt regler i hjemstaten som regulerer samme forhold.
 
-> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)), [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-5. Grensekryssende virksomhet fra en annen EØS-stat
 
@@ -515,7 +519,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (5) Departementet kan fastsette nærmere regler for virksomhet som omfattes av første og annet ledd, herunder om hva slags virksomhet som er omfattet av retten til å drive grensekryssende virksomhet. Departementet kan ved forskrift fastsette krav til kvalifikasjoner for ansatte som utformer, tilbyr, bevilger eller gir råd om lån til forbrukere her i riket. Departementet kan ved forskrift og enkeltvedtak gjøre unntak fra bestemmelsene i tredje og fjerde ledd når virksomheten er underlagt regler i hjemstaten som regulerer samme forhold. Departementet kan gi forskrift som utfyller eller gjør unntak fra reglene i paragrafen her for ulike typer finansforetak.
 
-> Endret ved lover [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1108](forskrift/2022-06-22-1108)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [22 des 2025 nr. 125](lov/2025-12-22-125) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1108](forskrift/2022-06-22-1108)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [22 des 2025 nr. 125](lov/2025-12-22-125) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-6. Filial av utenlandske finansforetak som ikke er omfattet av §§ 5-2 og 5-3
 
@@ -529,6 +533,8 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (5) Foretaket skal registrere filialen i Foretaksregisteret før filialen begynner sin virksomhet. Personen som forestår ledelsen av filialen, skal ha fullmakt til å handle på vegne av foretaket og til å reise og motta søksmål som gjelder filialens virksomhet her i riket.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 5-7. Virksomhet i filial av utenlandske finansforetak som ikke er omfattet av §§ 5-2 og 5-3
 
 (1) For finansforetak som driver virksomhet gjennom filial her i riket etter tillatelse etter [§ 5-6](lov/2015-04-10-17/§5-6), gjelder [kapittel 2](lov/2015-04-10-17/kap2) til 3 og [kapittel 17](lov/2015-04-10-17/kap17), samt de bestemmelsene som angitt i eller gitt i medhold av [§ 5-4](lov/2015-04-10-17/§5-4) første og fjerde ledd.
@@ -539,6 +545,8 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (4) Departementet kan ved forskrift fastsette nærmere regler for virksomhet i filial av utenlandsk finansforetak. Departementet kan ved forskrift og enkeltvedtak gjøre unntak fra denne paragrafen når det etter lovgivningen i hjemstaten gjelder tilsvarende regler for virksomheten.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 5-8. Representasjonskontor for utenlandsk finansforetak
 
 Utenlandske finansforetak skal registrere representasjonskontor i Norge hos Finanstilsynet før representasjonskontoret kan starte virksomhet. Departementet kan fastsette nærmere regler om utenlandsk representasjonskontor.
@@ -546,6 +554,8 @@ Utenlandske finansforetak skal registrere representasjonskontor i Norge hos Fina
 ### § 5-9. Megling til utenlandsk forsikringsforetak
 
 Bestemmelsene i [forsikringsformidlingsloven § 5-3](lov/2005-06-10-41/§5-3) om megling av forsikring til utenlandsk forsikringsforetak gjelder tilsvarende for forsikringsforetak.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5-10. Nasjonalt kontaktpunkt for agenter av utenlandske betalingsforetak og e-pengeforetak
 
@@ -581,7 +591,7 @@ Departementet kan i forskrift gi nærmere regler om nasjonalt kontaktpunkt for a
 
 (4) Har to eller flere erververe gitt melding etter [§ 6-1](lov/2015-04-10-17/§6-1) første ledd om erverv av eierandeler i samme finansforetak, skal det ikke skje ugrunnet forskjellsbehandling.
 
-> Endret ved lover [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)).
+> Endret ved lover [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-3. Egnethetsvurdering mv.
 
@@ -600,6 +610,8 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 (4) Er spørsmålet om tillatelse ikke avgjort innen utløpet av fristen etter [§ 6-2](lov/2015-04-10-17/§6-2) tredje ledd, skal tillatelse anses gitt til erverv av den eierandelen som er angitt i meldingen til Finanstilsynet etter [§ 6-1](lov/2015-04-10-17/§6-1) første ledd.
 
 (5) Departementet kan tilbakekalle en tillatelse dersom det er grunn til å anta at innehaveren utviser slik handlemåte at forutsetningene for tillatelsen ikke lenger er til stede.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-5. Konsolidering av eierandeler
 
@@ -652,6 +664,8 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 (2) Ved stiftelse av finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, skal minst halvparten av stifterne være bosatt i riket og ha bodd her i de siste to år, med mindre departementet gjør unntak i det enkelte tilfellet. Like med personer som er bosatt i riket, regnes staten og norske kommuner, samt selskaper med begrenset ansvar, foreninger og stiftelser som har sitt vedtektsbestemte sete (forretningskontor) her i riket.
 
 (3) Annet ledd første punktum gjelder ikke for statsborgere i stater som er part i EØS-avtalen når de er bosatt i en slik stat, og heller ikke for juridiske personer som nevnt i [EØS-avtalen artikkel 34](lov/1992-11-27-109/eøsl/a34) annet ledd, som er opprettet i samsvar med lovgivningen i en annen EØS-stat, og som har sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedkontor i slik stat.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7-6. Stiftelse av finansforetak som aksjeselskap eller allmennaksjeselskap
 
@@ -753,7 +767,11 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (6) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra minstekravet til antall styremedlemmer.
 
-> Endret ved lov [20 des 2023 nr. 114](lov/2023-12-20-114) (i kraft 1 jan 2024).
+> Endret ved lov [20 des 2023 nr. 114](lov/2023-12-20-114) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 8-4 a. Ansattes rett til å velge styremedlemmer
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-5. Styret i finansforetak som er datterforetak i finanskonsern
 
@@ -762,6 +780,8 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 (2) I finansforetak som er datterforetak i finanskonsern, kan inntil tre firedeler av styrets medlemmer være ansatt i foretak i konsernet eller medlem av styre i annet foretak i konsernet. Styrelederen i datterforetak i finanskonsern kan være ansatt i morselskapet.
 
 (3) Styrelederen i morselskap til finansforetaket kan ikke uten samtykke fra Finanstilsynet være medlem av styret i finansforetaket.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-6. Styrets oppgaver og tilsynsansvar
 
@@ -797,7 +817,11 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (3) Finanstilsynet kan gi pålegg om endringer dersom det foreligger forhold som nevnt i [§ 3-5](lov/2015-04-10-17/§3-5), eller fastsette vilkår etter [§ 3-2](lov/2015-04-10-17/§3-2) første ledd for å sikre at de krav som følger av [§ 3-5](lov/2015-04-10-17/§3-5), er oppfylt.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### III. Daglig leder
+
+> Overskrift **endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-10. Daglig ledelse
 
@@ -808,6 +832,8 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 (3) [Allmennaksjeloven § 6-28](lov/1997-06-13-45/§6-28) og [§§ 6-30](lov/1997-06-13-45/§6-30) til [6-34](lov/1997-06-13-45/§6-34) gjelder tilsvarende for daglig leder i finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
 
 (4) Uten Finanstilsynets samtykke kan daglig leder i morselskapet i et finanskonsern ikke også være daglig leder i et datterforetak i konsernet.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-11. Daglig leders oppgaver
 
@@ -845,6 +871,12 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (2) Departementet kan i forskrift fastsette nærmere regler om slik melding.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 8-14 a. Vurdering av egnetheten til personer i den faktiske ledelsen og personer med nøkkelfunksjon
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### IV. Foretaksforsamling
 
 ### § 8-15. Foretaksforsamling
@@ -861,7 +893,7 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (6) Tilhører et foretak et konsern eller en annen gruppe foretak som er knyttet sammen gjennom eierinteresser eller felles ledelse, kan de ansatte i konsernet ved anvendelse av paragrafen her regnes som ansatt i foretaket. Morselskapet og foretak i konsernet kan ha identisk foretaksforsamling. For øvrig gjelder [allmennaksjeloven § 6-40](lov/1997-06-13-45/§6-40) tilsvarende.
 
-> Endret ved lov [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
+> Endret ved lov [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### V. Kontrollorganer
 
@@ -872,6 +904,8 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 (2) Styret skal organisere og fastsette retningslinjer for internrevisjonen. Det tilligger styret å ansette og avskjedige leder av internrevisjonen og å fastsette dennes betingelser. Internrevisjonen skal minst én gang i året avgi rapport til styret om risikostyringen og internkontrollen samt sin virksomhet.
 
 (3) Finanstilsynet kan fastsette nærmere regler om organisering og gjennomføring av internrevisjon i finansforetak, samt gjøre unntak fra første ledd for bestemte grupper av finansforetak.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-17. Revisor
 
@@ -1091,7 +1125,7 @@ For finansforetak som er foretak av allmenn interesse etter [revisorloven § 1-2
 
 (4) Finanstilsynet kan, når hensynet til finansforetakets soliditet tilsier det, gi foretaket pålegg om ikke å dele ut utbytte eller om å dele ut mindre enn det som er foreslått av styret eller vedtatt av generalforsamlingen.
 
-> Endret ved lov [22 mars 2024 nr. 13](lov/2024-03-22-13) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 489](forskrift/2024-03-22-489)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [22 mars 2024 nr. 13](lov/2024-03-22-13) (i kraft 1 juli 2024 iflg. [res. 22 mars 2024 nr. 489](forskrift/2024-03-22-489)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-7. Disponering av overskudd i finansforetak som ikke har utstedt aksjer eller egenkapitalbevis
 
@@ -1483,6 +1517,16 @@ Departementet kan i forskrift fastsette en liste over ikke-samarbeidsvillige jur
 
 (5) Departementet kan i forskrift fastsette nærmere regler om sammenslåing og deling av finansforetak.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 12-1 a. Vurderingskriterier
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 12-1 b. Kundeinformasjon og rett til oppsigelse
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 12-2. Ulike selskapsformer
 
 (1) Bestemmelsene om sammenslåing og deling av finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, gjelder tilsvarende ved sammenslåing av et finansforetak som ikke er organisert som aksjeselskap eller allmennaksjeselskap, med et finansforetak som er organisert etter aksjelovgivningen.
@@ -1503,7 +1547,7 @@ Departementet kan i forskrift fastsette en liste over ikke-samarbeidsvillige jur
 
 (6) Ved sammenslåing eller deling av finansforetak som tar imot innskudd, skal foretaket gi informasjon som nevnt i femte ledd minst én måned før transaksjonen gjennomføres. Innskytere kan innen tre måneder kreve kvalifiserte innskudd som ikke er garantert etter [§ 19-4](lov/2015-04-10-17/§19-4), utbetalt eller overført til annet medlemsforetak.
 
-> Endret ved lover [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Endret ved lover [15 des 2017 nr. 105](lov/2017-12-15-105) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2041](forskrift/2017-12-15-2041), med virkning for regnskapsår avsluttet 31 des 2017 eller senere), [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12-4. Opprettelse av finansstiftelse. Disponering av utbyttemidler mv.
 
@@ -1521,15 +1565,21 @@ Departementet kan i forskrift fastsette en liste over ikke-samarbeidsvillige jur
 
 (2) Bestemmelsene om melding, følgene av fristoversittelse, kunngjøring og kreditorvarsel i [allmennaksjeloven §§ 13-14](lov/1997-06-13-45/§13-14) til [13-16](lov/1997-06-13-45/§13-16) og [14-7](lov/1997-06-13-45/§14-7) gjelder tilsvarende.
 
+> **Oppheves** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 12-6. Melding om ikrafttreden. Gjennomføring
 
 (1) Når fristen fastsatt i kreditorvarselet er utløpt, og forholdet til de kreditorer som i tilfelle har fremsatt innsigelse er avklart, skal det gis melding til Foretaksregisteret om at sammenslåingen eller delingen skal tre i kraft, herunder også melding om registrering av finansforetak eller finansstiftelse som skal opprettes som følge av vedtak om sammenslåing eller deling. Foretaksregisteret skal kontrollere at det er gitt tillatelse, og at vedtektene er godkjent.
 
 (2) Når sammenslåingen eller delingen er registrert i Foretaksregisteret, trer sammenslåingen eller delingen i kraft og kan gjennomføres. [Allmennaksjeloven §§ 13-17](lov/1997-06-13-45/§13-17) til [13-19](lov/1997-06-13-45/§13-19), [14-8](lov/1997-06-13-45/§14-8) og [14-9](lov/1997-06-13-45/§14-9) gjelder tilsvarende.
 
+> **Oppheves** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 12-7. Søksmål om ugyldig sammenslåing eller deling
 
 Bestemmelsene i [allmennaksjeloven §§ 13-20](lov/1997-06-13-45/§13-20) til [13-23](lov/1997-06-13-45/§13-23) og [14-10](lov/1997-06-13-45/§14-10) om søksmålsfrist, virkningene av ugyldighet mv. gjelder tilsvarende.
+
+> **Oppheves** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### II. Avvikling av finansforetak
 
@@ -1552,6 +1602,8 @@ Bestemmelsene i [allmennaksjeloven §§ 13-20](lov/1997-06-13-45/§13-20) til [1
 (2) Foretaksregisteret skal kunngjøre vedtaket med kreditorvarsel. [Allmennaksjeloven § 16-4](lov/1997-06-13-45/§16-4) gjelder tilsvarende for foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
 
 (3) [§ 12-3](lov/2015-04-10-17/§12-3) femte ledd om informasjon til kundene gjelder tilsvarende.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12-10. Avviklingsstyre mv.
 
@@ -1703,6 +1755,8 @@ I vedtektene for en sparebankstiftelse skal det fastsettes at stiftelsen skal vi
 
 ### VI. Porteføljeoverdragelse
 
+> Overskrift **endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 12-27. Overdragelse av forsikrings- og låneporteføljer mv.
 
 (1) Avtale om overdragelse av en forsikringsportefølje, låneportefølje eller annen fordringsmasse av vesentlig omfang sett hen til foretakenes virksomhet krever godkjennelse av departementet.
@@ -1711,11 +1765,17 @@ I vedtektene for en sparebankstiftelse skal det fastsettes at stiftelsen skal vi
 
 (3) Departementet kan gi forskrift om overdragelse av forsikringsportefølje som er tegnet etter reglene om etableringsadgang eller adgang til å yte tjenester som følger av EØS-avtalen. Departementet kan også gi forskrift om overdragelse av forsikringsportefølje fra filial her i riket av forsikringsforetak med hovedsete i stat utenfor EØS til forsikringsforetak etablert i Norge eller annen EØS-stat. Forskrift gitt i medhold av første og annet punktum kan også inneholde regler om forhold som nevnt i annet ledd.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 12-28. Overdragelse av pensjonsordninger
 
 Departementet kan i forskrift gi regler om overdragelse av pensjonsordninger og porteføljer av individuelle kontrakter utgått fra kollektive pensjonsordninger mellom pensjonsforetak.
 
 > Tilføyd ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)).
+
+### § 12-29. Overdragelse av porteføljer mv. for kredittinstitusjoner m.fl.
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 13. Krav til virksomheten i finansforetak
 
@@ -1769,7 +1829,7 @@ Departementet kan i forskrift gi regler om overdragelse av pensjonsordninger og 
 
 (6) Departementet kan gi forskrift som utfyller reglene i første til tredje ledd og gi nærmere regler om varsling.
 
-> Endret ved lover [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), [27 mai 2025 nr. 18](lov/2025-05-27-18) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1084](forskrift/2025-06-20-1084)).
+> Endret ved lover [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), [27 mai 2025 nr. 18](lov/2025-05-27-18) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1084](forskrift/2025-06-20-1084)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 13-6. Vurdering av risiko og samlet kapitalbehov
 
@@ -1787,7 +1847,7 @@ Departementet kan i forskrift gi regler om overdragelse av pensjonsordninger og 
 
 (7) Departementet kan i forskrift fastsette bestemmelser om overvåking, vurdering, styring og kontroll av risiko og kapitalbehov, herunder regler om fremgangsmåten for fastsettelse av høyere kapitalkrav eller virksomhetsbegrensninger for å sikre at ansvarlig kapital er i samsvar med foretakets risikoeksponering. Finanstilsynet kan i enkeltvedtak fastsette høyere kapitalkrav eller virksomhetsbegrensninger for å sikre at ansvarlig kapital er i samsvar med foretakets risikoeksponering. Departementet kan i forskrift gjøre unntak fra reglene i denne paragrafen for pensjonsforetak og foretak som omfattes av [§ 14-15](lov/2015-04-10-17/§14-15).
 
-> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
+> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 13-7. Likviditetsstyring, likviditetsreserve og stabil finansiering
 
@@ -1811,7 +1871,7 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (2) Departementet kan gi utfyllende regler i forskrift om eierandeler i foretak som driver annen virksomhet. Departementet kan i særlige tilfelle ved enkeltvedtak gjøre unntak fra bestemmelsene i paragrafen her og sette vilkår for unntaket.
 
-> Endret ved lov [14 des 2018 nr. 92](lov/2018-12-14-92) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1924](forskrift/2018-12-14-1924)).
+> Endret ved lov [14 des 2018 nr. 92](lov/2018-12-14-92) (ikr. 1 jan 2019 iflg. [res. 14 des 2018 nr. 1924](forskrift/2018-12-14-1924)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 13-10. Kapitalforvaltning
 
@@ -1830,6 +1890,18 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 (1) Banker, kredittforetak og finansieringsforetak samt holdingforetak i finanskonsern hvor slikt foretak inngår, skal påse at forholdet mellom markedsrisiko og annen risiko knyttet til foretakets beholdning av aksjer, egenkapitalbevis og andre eierandeler, herunder eierandeler i fast eiendom, og foretakets kjernekapital til enhver tid er forsvarlig.
 
 (2) Foretaket skal gi melding til Finanstilsynet dersom samlet verdi av dets beholdning av eierandeler overstiger foretakets kjernekapital etter siste års- eller delårsregnskap. Eierandeler i datterforetak som omfattes av konsolidering etter [§ 18-2](lov/2015-04-10-17/§18-2) første ledd bokstav a, medregnes ikke.
+
+### § 13-11 a. Erverv som utgjør en vesentlig kapitalandel
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 13-11 b. Meldingens innhold og behandlingen av denne
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 13-11 c. Vurdering av ervervet
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 13-12. Høyeste engasjement med en enkelt motpart
 
@@ -1959,7 +2031,7 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (2) Den ansvarlige kapitalen består av kjernekapital og tilleggskapital. Kjernekapitalen består av egenkapital og annen godkjent kjernekapital. Departementet kan i forskrift fastsette bestemmelser om hva som skal anses som ren kjernekapital, kjernekapital og tilleggskapital, samt sammensetningen av ansvarlig kapital.
 
-> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
+> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-2. Beregningsgrunnlag
 
@@ -1974,6 +2046,8 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 (5) Foretaket kan ikke uten tillatelse fra Finanstilsynet bruke interne målemetoder for kredittrisiko, markedsrisiko eller operasjonell risiko for beregning av kravet til ansvarlig kapital.
 
 (6) Departementet kan gi forskrift om:beregningsgrunnlaget for kredittrisiko, markedsrisiko og operasjonell risiko, herunder regler som sikrer at beregningsgrunnlaget i tilstrekkelig grad reflekterer risikoen i finansforetakets eiendeler,bruk av interne målemetoder for kredittrisiko, markedsrisiko og operasjonell risiko,hvilke sikkerheter det kan tas hensyn til ved beregningen av minstekrav til ansvarlig kapital.
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-3. Bufferkrav
 
@@ -1991,7 +2065,7 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (7) Departementet kan gi forskrift med nærmere regler om bufferkravene etter paragrafen her, herunder om beregningen av bufferkravene og konsekvenser dersom bufferkravene ikke er oppfylt.
 
-> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
+> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14-4. (Opphevet)
 
@@ -2003,6 +2077,8 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (2) Departementet kan gi forskrift om foretakets offentliggjøring av informasjon og krav til dokumentasjon, herunder bestemmelser som gjør unntak fra personopplysningsloven.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 14-6. Tilsynsmessig oppfølging, retting og pålegg
 
 (1) Finanstilsynet skal se til at banker, kredittforetak og finansieringsforetak samt holdingforetak i finanskonsern hvor slikt foretak inngår, har hensiktsmessige og klare retningslinjer og rutiner i samsvar med lov og bestemmelser gitt i medhold av lov, for overvåking, vurdering, styring og kontroll av risiko og kapitalbehov.
@@ -2013,7 +2089,7 @@ Finansforetak skal rapportere til Finanstilsynet om ansvarlig kapital, kapitalkr
 
 (4) Finanstilsynet kan i særlige tilfeller og for en tidsbegrenset periode samtykke i at foretak som nevnt i første ledd kan ha lavere ansvarlig kapital enn minstekravene og bufferkravene.
 
-> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)).
+> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)), [10 april 2025 nr. 11](lov/2025-04-10-11) (i kraft 1 aug 2025 iflg. [res. 24 juni 2025 nr. 1203](forskrift/2025-06-24-1203)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### II. Kapitalkrav for forsikringsforetak
 
@@ -2127,7 +2203,7 @@ Departementet kan i forskrift gjøre helt eller delvis unntak fra bestemmelsene 
 
 Departementet kan gi forskrift om minstekrav til ansvarlig kapital for betalingsforetak og e-pengeforetak.
 
-> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107), tidligere § 14-17).
+> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107), tidligere § 14-17). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 15. Godtgjørelsesordninger i finansforetak
 
@@ -2137,7 +2213,7 @@ Departementet kan gi forskrift om minstekrav til ansvarlig kapital for betalings
 
 (2) Forskriften kan inneholde forskjellige regler om gjennomføring av kravene til godtgjørelsesordninger avhengig av det enkelte foretaks størrelse, organisasjon og virksomhetsområde.
 
-> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
+> Endret ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 15-2. Krav til godtgjørelsesordninger
 
@@ -2207,7 +2283,7 @@ I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fasts
 
 (8) Departementet kan gi forskrift om utlevering av opplysninger.
 
-> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)).
+> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 16-3. Behandling av tvister i klageorgan
 
@@ -2283,7 +2359,7 @@ Departementet kan gi forskrift om plikt for finansforetak om å lenke til prisop
 
 (3) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her. Departementet kan herunder gi regler om hvem som omfattes av bestemmelsene, fastsette krav til kunnskap og kompetanse og gi regler om etterutdanning.
 
-> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)).
+> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 16-13. Produktstyring
 
@@ -2363,7 +2439,7 @@ Departementet kan gi forskrift om plikt for finansforetak om å lenke til prisop
 
 Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [§ 17-3](lov/2015-04-10-17/§17-3) dersom følgende vilkår er oppfylt:foretakets hovedvirksomhet er å eie aksjer i datterforetak,foretaket er ikke utpekt som krisehåndteringsenhet,datterforetaket er kredittinstitusjon som er ansvarlig for å oppfylle tilsynskrav som gjelder på konsolidert nivå i konsernet, og kan oppfylle disse kravene på en effektiv måte,foretaket tar ikke del i ledelsesmessige, operasjonelle eller finansielle beslutninger som berører konsernet eller de regulerte datterforetakene, ogdet er ikke noe som hindrer et effektivt tilsyn med konsernet på konsolidert nivå.
 
-> Tilføyd ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)).
+> Tilføyd ved lov [18 juni 2021 nr. 100](lov/2021-06-18-100) (i kraft 1 juni 2022 iflg. [res. 6 mai 2022 nr. 807](forskrift/2022-05-06-807)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17-4. Konserngruppe etablert av gjensidige forsikringsforetak og sparebanker
 
@@ -2499,7 +2575,7 @@ Finanstilsynet kan etter søknad gjøre unntak fra kravet til tillatelse etter [
 
 (8) Bestemmelsene i paragrafen her gjelder ikke eierforetak som nevnt i § 17-6 annet ledd bokstav c, med mindre annet fastsettes av departementet i forskrift eller ved enkeltvedtak.
 
-> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)).
+> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 18-2. Konsolideringsregler mv.
 
@@ -2707,7 +2783,7 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (6) Kravet om særskilt samtykke fra låntakeren etter [finansavtaleloven § 45](lov/1999-06-25-46/§45) gjelder ikke ved overdragelse eller pantsettelse av lånefordringer til Bankens sikringsfond ved støttetiltak eller yting av kreditt etter paragrafen her.
 
-> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
+> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19-12. Regress
 
@@ -2785,13 +2861,13 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (3) Med norsk finanskonsern menes i kapitlet her bare finanskonsern som har morselskap med hovedsete og forretningskontor her i riket. Med norsk foretak menes foretak som nevnt i første ledd bokstav a og som har hovedsete og forretningskontor her i riket.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), endret ved lov [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), endret ved lov [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [6 feb 2026 nr. 3](lov/2026-02-06-3) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 20-2. Konkursforbud
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som nevnt i [§ 20-1](lov/2015-04-10-17/§20-1) første ledd.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 20-3. Krisehåndteringsmyndighet
 
@@ -3127,7 +3203,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (3) Intern oppkapitalisering etter første og annet ledd skal også omfatte gjeld som er undergitt loven i annen EØS-stat, eller som eies av kreditor i annen EØS-stat. Departementet kan i forskrift gi nærmere regler om intern oppkapitalisering etter [§§ 20-24](lov/2015-04-10-17/§20-24) til [20-26](lov/2015-04-10-17/§20-26), herunder særlige regler for gjeld som er undergitt loven i stat utenfor EØS.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 20-25. Konvertibel gjeld
 
@@ -3181,7 +3257,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (6) Departementet kan i forskrift gi nærmere regler om omorganiseringsplaner, herunder om anvendelsen av reglene i paragrafen her i konsernforhold, og om samarbeid mellom norske og utenlandske myndigheter.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### V. Statlige tiltak
 
@@ -3233,7 +3309,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Bestemmelsene i dette avsnittet gjelder tilsvarende ved avvikling av virksomhet som det ved krisehåndtering av et foretak ikke foreligger grunnlag for å videreføre eller overdra til et annet foretak.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### VI A. Rekkefølgen for dekning av fordringer (prioritetsreglene)
 
@@ -3465,7 +3541,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Finanstilsynet kan i forskrift eller ved enkeltvedtak fastsette at foretak etablert utenfor EØS som driver virksomhet her i riket, skal betale bidrag til krisetiltaksfondet, og fastsette bidragene.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 20-52. Bruk av midler
 
@@ -3677,6 +3753,8 @@ Departementet kan bestemme at det skal etableres garantiordninger for kredittfor
 
 Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som omfattes av [§ 21-7](lov/2015-04-10-17/§21-7). Det samme gjelder foretak som settes under offentlig administrasjon etter [§ 21-11](lov/2015-04-10-17/§21-11) annet ledd.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 21-9. Soliditetssvikt
 
 (1) Har Finanstilsynet grunn til å anta:at et foretak ikke klarer å oppfylle sine forpliktelser etter hvert som de forfaller,at et foretak ikke er i stand til å oppfylle gjeldende krav til ansvarlig kapital i samsvar med pålegg fra Finanstilsynet, ellerat et foretaks eiendeler og inntekter til sammen ikke er tilstrekkelige til fullt ut å dekke forpliktelsene,skal det straks gis slik melding som angitt i annet ledd.
@@ -3755,6 +3833,8 @@ Antar Finanstilsynet at foretaket ikke kan sikres økonomisk grunnlag for videre
 
 (3) Når avviklingen er gjennomført, legger styret frem sluttregnskap med forslag til utlodning til godkjenning av Finanstilsynet, som gir påbud om kunngjøring av det, og sender melding til Foretaksregistret om at foretaket skal slettes fra registeret.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### III. Særskilte regler for forsikrings- og pensjonsforetak
 
 ### § 21-17. Virkeområde
@@ -3795,6 +3875,8 @@ Bestemmelsene i [§§ 21-17](lov/2015-04-10-17/§21-17) til [21-20](lov/2015-04-
 
 ## Kapittel 22. Straff. Sanksjoner
 
+> Overskrift **endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 22-1. Straff
 
 Den som forsettlig eller uaktsomt overtrer denne loven eller bestemmelse eller pålegg gitt med hjemmel i loven, straffes med bøter, eller under særlig skjerpende omstendigheter med fengsel i inntil 1 år, dersom forholdet ikke går inn under noen strengere straffebestemmelse.
@@ -3809,7 +3891,11 @@ Den som forsettlig eller uaktsomt overtrer denne loven eller bestemmelse eller p
 
 (3) Eierandel ervervet i strid med regler om eierkontroll skal umiddelbart tvangsselges. Det samme gjelder dersom en tillatelse er tilbakekalt etter [§ 6-4](lov/2015-04-10-17/§6-4) femte ledd. [Tvangsfullbyrdelsesloven § 10-6](lov/1992-06-26-86/§10-6) jf. [§ 8-16](lov/1992-06-26-86/§8-16), kommer ikke til anvendelse. Det kan ikke utøves stemmerett for slike eierandeler. Dersom departementet har grunn til å anta at en eier av en kvalifisert eierandel i et finansforetak utviser eller vil utvise handlemåte som vil være i strid med forsvarlig og betryggende forvaltning av finansforetaket, kan departementet treffe vedtak om pålegg eller forbud etter reglene i første og annet ledd, herunder at det ikke kan utøves stemmerett for eierandelene.
 
-> Endret ved lov [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)).
+> Endret ved lov [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 22-2 a. Forvaltningstiltak overfor holdingforetak i finanskonsern
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 22-3. Opplysningsplikt
 
@@ -3829,7 +3915,7 @@ Enhver som har eierandel i et finansforetak eller morselskap i finanskonsern pli
 
 Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens finansielle styrke, særlig samlet omsetning eller årsinntekt og eiendelerhvor stor vinning som er oppnådd eller tap som er unngått ved overtredelsentap påført tredjemann som følge av overtredelseni hvilken grad overtrederen har samarbeidet med Finanstilsynettidligere overtredelser.
 
-> Tilføyd ved lov [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)).
+> Tilføyd ved lov [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 22-6).
 
 ### § 22-6. Foreldelse mv.
 
@@ -3837,7 +3923,7 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 (2) Departementet kan fastsette forskrifter om renter ved forsinket betaling av overtredelsesgebyr og nærmere bestemmelser om foreldelse.
 
-> Tilføyd ved lov [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)).
+> Tilføyd ved lov [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 22-7).
 
 ### § 22-7. Finanstilsynets taushetsplikt mv.
 
@@ -3847,7 +3933,11 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 (3) Departementet kan i forskrift gi regler som utfyller bestemmelsene i paragrafen her.
 
-> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)).
+> Tilføyd ved lov [22 des 2021 nr. 163](lov/2021-12-22-163) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3808](forskrift/2021-12-22-3808)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 22-8).
+
+### § 22-9. Forbud mot å ha ledelsesfunksjon
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 23. Ikrafttreden, overgangsbestemmelser, oppheving og endring av andre lover
 
