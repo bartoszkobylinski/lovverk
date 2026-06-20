@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2025-03-04"
-xml_hash: "0fe7633a7e52784e9c9ecd42e757ab8a561439c48a0456989478e7ccca81e712"
+xml_hash: "34745d84a9e575128be9e16d64606bcd9616ebc75dd1a25ddaaa2ae58d86af07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -840,6 +840,8 @@ Kommunen eller fylkeskommunen skal godtgjere at vilkåra i denne paragrafen er o
 
 Departementet kan gi forskrift om fjernundervisning.
 
+> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
+
 ### § 14-5. Forbod mot forkynning
 
 Opplæringa skal ikkje vere forkynnande.
@@ -867,6 +869,8 @@ I den munnlege opplæringa avgjer elevane og lærarane sjølve kva for talemål 
 Kommunen og fylkeskommunen gir forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, anten bokmål eller nynorsk. Skolen skal bruke hovudmålet i den skriftlege opplæringa og i den skriftlege kommunikasjonen med elevane og foreldra.
 
 I samband med skifte av hovudmål på ein grunnskole eller når eit fleirtal i kommunestyret eller minst 1/4 av dei røysteføre i kommunen krev det, skal det haldast rådgivande røysting. Nytt vedtak om hovudmål kan ikkje gjerast før det har gått fem år. Departementet kan gi forskrift om røysterett, ansvar for røystinga og organisering av røystinga.
+
+> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 15-3. Krav til rettskriving og krav til skriftspråk i læremiddel
 
@@ -1230,7 +1234,7 @@ Der lova legg ansvar, oppgåver eller plikter til kommunen, ligg ansvaret ved ei
 
 Heimkommunen skal sørgje for at elevane har same tilgang til den pedagogisk-psykologiske tenesta som elevane i den offentlege skolen.
 
-> Endra ved lov [14 juni 2024 nr. 36](lov/2024-06-14-36).
+> Endra ved lov [14 juni 2024 nr. 36](lov/2024-06-14-36). **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 22-3. Unntak frå visse krav for utanlandske og internasjonale grunnskolar
 
@@ -1343,6 +1347,8 @@ Behandlinga av personopplysningar etter første til fjerde ledd kan også omfatt
 Departementet kan gi forskrift om behandlinga av personopplysningar, mellom anna om formålet med behandlinga, behandlingsansvar, kva opplysningar som kan behandlast og om kven, bruk av automatiserte avgjerder, og tilgang til, vidarebehandling og utlevering av personopplysningar.
 
 Utlevering av personopplysningar etter andre, tredje og fjerde ledd kan gjerast utan hinder av teieplikt.
+
+> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 25-2. Den nasjonale databasen for vitnemål og annan dokumentasjon av oppnådd kompetanse frå vidaregåande opplæring
 
@@ -1497,6 +1503,8 @@ Departementet er klageinstans for enkeltvedtak etter opplæringslova.
 For enkeltvedtak som ikkje gjeld opplæring eller skoleskyss, reisefølge og tilsyn i forbindelse med skyss, gjeld likevel reglane om klageinstans i [forvaltningsloven § 28](lov/1967-02-10/§28). I den vidaregåande opplæringa gjeld reglane om klageinstans i [forvaltningsloven § 28](lov/1967-02-10/§28) også for vedtak om inntak av gjesteelevar og vedtak om kva for utdanningsprogram, programområde og skole ein søkjar skal takast inn på.
 
 Departementet gir forskrift om kven som skal vere klageinstans for enkeltvedtak om individuell vurdering.
+
+> **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 29-2. Statleg tilsyn
 
