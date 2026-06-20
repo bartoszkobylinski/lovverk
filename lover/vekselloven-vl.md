@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1932-11-01"
 last_change_in_force: "2017-06-01"
 last_updated: "2021-08-12"
-xml_hash: "7414580784c8b370d283ee6117db84d08aa653ddb9f22e1aa08398d3ba4c9872"
+xml_hash: "2705fbc6578452240148e29468393da94e6eb9e86c6fea75e547af2c726aba1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -326,7 +326,7 @@ Når forfallstid er inne, kan vekselinnehaveren, dersom vekslen ikke er blitt be
 
 Samme rett har vekselinnehaveren allerede før forfallstid:hvis aksept helt eller delvis er nektet;hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; ellerhvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 44
 
@@ -342,7 +342,7 @@ Hvis det ved tvangsforretning hos trassaten er funnet at han mangler midler til 
 
 Hvis trassaten er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, er det for iverksettelse av regress tilstrekkelig at vekselinnehaveren legger frem rettens bevitnelse for at konkurs eller gjeldsforhandling er åpnet. Det samme gjelder hvis en trassent, som har forbudt vekselens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.
 
-> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60).
+> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 45
 
@@ -696,7 +696,7 @@ Dersom det er nødvendig for at protesten skal kunne opptas i tide, kan namsmann
 
 Tilkalling av vitne er ikke nødvendig.
 
-> Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 88
 
