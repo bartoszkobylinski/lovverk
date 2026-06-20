@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-08-15"
 last_change_in_force: "2024-11-01"
 last_updated: "2021-08-05"
-xml_hash: "4eaa86306b8910c49fa1f463996515c0145b3539a3544cc31e389352c2efdfa2"
+xml_hash: "73d6f29aad05c591cdde205f2b5aed5bfd2f065f5eecbbd720a871a068f6a637"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -580,6 +580,8 @@ Laget skal melde frå til styret i eit dotterselskap om tilhøve som kan ha noko
 
 (2) Det er styret som representerer laget som konkursskyldnar.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 6-17. Saksbehandlinga i styret
 
 (1) Styreleiaren avgjer om sakene skal behandlast i fysisk møte eller på annan måte.
@@ -936,6 +938,8 @@ Det som måtte tilfalle laget av summar som er sette av etter [§ 10-9](lov/2003
 
 (3) Har retten overteke avviklinga, skal avviklinga vidare skje etter reglane i [§ 10-17](lov/2003-06-06-38/§10-17). Orskurden har verknad som ein orskurd om konkursopning etter [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii).
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 10-14. Oppløysing etter orskurd frå tingretten
 
 Dersom ikkje generalforsamlinga vedtek oppløysing, skal tingretten ved orskurd vedta laget oppløyst i desse tilfellanår laget ikkje har meldt til Føretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegner gitt i eller i medhald av lov,når laget ikkje har meldt til Føretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,når laget ikkje har meldt til Føretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,når årsrekneskap, årsmelding og revisjonsmelding som laget skal sende til Rekneskapsregisteret etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
@@ -956,7 +960,7 @@ Dersom ikkje generalforsamlinga vedtek oppløysing, skal tingretten ved orskurd 
 
 (2) Retten skal utan vidare varsel ved orskurd vedta laget oppløyst etter [§ 10-14](lov/2003-06-06-38/§10-14), om ikkje vedtak om oppløysing alt er gjort av generalforsamlinga. Orskurden har verknad som orskurd om konkursopning etter [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii).
 
-> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)).
+> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-17. Avvikling av laget
 
@@ -979,6 +983,8 @@ Skadebotansvar etter [§ 11-1](lov/2003-06-06-38/§11-1) kan lempast etter [skad
 (1) Generalforsamlinga avgjer om laget skal fremje skadebotkrav etter [§ 11-1](lov/2003-06-06-38/§11-1). Er det opna gjeldsforhandling eller konkurs, gjeld føresegnene i konkursloven.
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom laget og nokon som er nemnd i [§ 11-1](lov/2003-06-06-38/§11-1), som regulerer eller avgrensar skadebotansvaret deira.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11-4. Krav på vegner av laget
 
