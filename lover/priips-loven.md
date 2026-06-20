@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a046aa16279cdd0ddba1808ea77fc815c0243d4c6c62134c7d82775a46a32e07"
+xml_hash: "c2bfbd879f825e3961b13209b4e663f4bf7d0e248532b0519711d7169d47e06c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32014R1286"
@@ -74,6 +74,8 @@ Departementet fastsetter de øvre grensene for overtredelsesgebyr for fysiske og
 
 Med bøter eller fengsel inntil ett år straffes den som forsettlig eller uaktsomt overtrer bestemmelser som angitt i [§ 7 første ledd](lov/2024-06-21-40/§7/ledd/1).
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 9).
+
 ## § 9. Taushetsplikt
 
 Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet, har taushetsplikt overfor uvedkommende om identiteten til personer som har gitt meldinger, tips eller liknende opplysninger om overtredelser av loven og tilhørende forskrifter, og om andre opplysninger som kan gjøre identiteten kjent, med mindre bruk av opplysningene er nødvendig som ledd i ytterligere undersøkelser av overtredelsen eller etterfølgende rettsforfølgning av saken. Taushetsplikten etter første punktum gjelder også identiteten til den fysiske personen opplysningene gjelder. Taushetsplikten gjelder også overfor sakens parter og deres representanter.
@@ -82,10 +84,16 @@ Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet
 
 Departementet kan i forskrift gi regler som utfyller reglene i første og annet ledd.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ## § 10. Ikrafttredelse og overgangsregler
 
 Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Departementet kan gi overgangsregler.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ## § 11. Endringer i andre lover
 
 Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover: – – –
+
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
