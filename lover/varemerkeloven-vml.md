@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-07-01"
 last_change_in_force: "2024-05-24"
 last_updated: "2022-03-28"
-xml_hash: "4a37196138d301c2651638e13f40ebbb46cd4800079e9e1ea0c130011b411101"
+xml_hash: "7060f1235b0f8ebcd779f67d5ed4292a108e903b524e65e95eabb1976b3cad33"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32015L2436"
@@ -563,7 +563,7 @@ Om anmerkning i varemerkeregisteret av utlegg og arrest i registrerte varemerker
 
 Partene kan påklage Patentstyrets nektelse av å foreta anmerkning etter paragrafen her til Klagenemnden. Klagen må være innkommet til Patentstyret innen to måneder fra den dagen meldingen om nektelsen ble sendt vedkommende part. Det skal betales fastsatt gebyr, ellers opptas ikke klagen til behandling. Er vilkårene for å behandle klagen oppfylt, kan Patentstyret endre avgjørelsen hvis det finner at klagen er begrunnet. Blir det ikke truffet slik avgjørelse, skal saken sendes til Klagenemnden. Klagenemndens leder kan alltid avgjøre klager etter leddet her alene.
 
-> Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler).
+> Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 56 b. Kollisjon mellom rettserverv mv.
 
