@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1962-01-01"
 last_change_in_force: "2016-01-01"
 last_updated: "2021-08-27"
-xml_hash: "bbc338c45d2e0f0cd45dfc39ebe3bc26c1a77cb117d9c4e6b74742d350b1a28d"
+xml_hash: "6806a11c8b9ed3850c9f2cda438bb09da26d7263b33c90801930d2736443c624"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -146,7 +146,7 @@ Avgjerdene jordskifteretten tek er tvangsgrunnlag på same måte som orskurder. 
 
 Når den eine grannen ikkje oppfyller gjerdehaldsskyldnaden, kan nåmsmannen lata den andre få fullmakt til å setja arbeidet i verk på hans kostnad. Har kravet ikkje tvangskraft, skal nåmsmannen gjeva grannen høve til å seia si meining før han tek avgjerda si. Er det ikkje tvangsgrunnlag frå før, kan tvist om kostnadsspørsmålet avgjerast av jordskifteretten når arbeidet er gjort.
 
-> Endra med [lover 16 juni 1961 nr. 15 § 24](lov/1961-06-16-15/§24), [26 jan 1973 nr. 3](lov/1973-01-26-3), [26 juni 1992 nr. 86](lov/1992-06-26-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endra med [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Endra med [lover 16 juni 1961 nr. 15 § 24](lov/1961-06-16-15/§24), [26 jan 1973 nr. 3](lov/1973-01-26-3), [26 juni 1992 nr. 86](lov/1992-06-26-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endra med [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)). **Vert endra** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Vedtekter.
 
