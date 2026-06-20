@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2005-01-01"
-last_change_in_force: "2025-06-20"
+last_change_in_force: "2026-06-19"
 last_updated: "2022-03-29"
-xml_hash: "35b21a47e8f6cb273389c8c19060731c42ee3e86d63bf6512c12b97f0ff95245"
+xml_hash: "04781107660c86f0b43107666644026859741634c55e804025d82ca4aa8b5671"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32003L0087"
@@ -39,11 +39,11 @@ Loven gjelder med de begrensninger som måtte følge av folkerettslig sedvane el
 
 Loven gjelder i riket, unntatt på Svalbard, og på Norges kontinentalsokkel.
 
-Loven gjelder også for følgende aktiviteter:luftfartsaktiviteter innen EØS-områdetluftfartsaktiviteter til og fra EØS-områdetøvrige internasjonale luftfartsaktivitetermaritim transportaktivitet innen EØS-områdetmaritim transportaktivitet til og fra EØS-området.
+Loven gjelder også for følgende aktiviteter:luftfartsaktiviteter innenfor og til og fra EØS-områdetøvrige internasjonale luftfartsaktivitetermaritim transportaktivitet innenfor og til og fra EØS-områdettransport av klimagasser innenfor og til og fra EØS-området
 
 Kongen kan i forskrift bestemme at loven skal gjelde på Svalbard, samt gi nærmere bestemmelser om lovens stedlige virkeområde ellers.
 
-> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [21 juni 2019 nr. 53](lov/2019-06-21-53), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024).
+> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [21 juni 2019 nr. 53](lov/2019-06-21-53), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 2 a. (definisjoner)
 
@@ -67,9 +67,9 @@ Kongen kan gi forskrift om hvilke aktiviteter, aktører og utslipp av gasser og 
 
 Kongen kan gi forskrift omat utslipp av klimagasser fra produksjonsenheter med kapasitet under en fastsatt grense skal være unntatt fra lovenat flere produksjonsenheter som ligger på samme sted og står i nær driftsmessig sammenheng, eller som ikke ligger på samme sted, men som står i nær driftsmessig og fysisk sammenheng, skal vurderes under ett ved beregningen av kapasitetenat visse transportaktiviteter, som transportaktiviteter som ikke overstiger visse aktivitets- eller utslippsgrenser, skal være unntatt fra loven.
 
-Kongen kan gi forskrift om hvilke luftfartøysoperatører og skipsoperatører som skal forholde seg til norske administrerende myndigheter.
+Kongen kan gi forskrift om hvilke luftfartøysoperatører, skipsoperatører og anleggsoperatører som skal forholde seg til norske administrerende myndigheter.
 
-> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [27 feb 2009 nr. 10](lov/2009-02-27-10), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [21 juni 2019 nr. 53](lov/2019-06-21-53), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), [20 juni 2025 nr. 91](lov/2025-06-20-91).
+> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [27 feb 2009 nr. 10](lov/2009-02-27-10), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [21 juni 2019 nr. 53](lov/2019-06-21-53), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), [20 juni 2025 nr. 91](lov/2025-06-20-91), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 3 a. (utslipp fra luftfartsaktiviteter og maritim transportaktivitet som ikke er omfattet av EUs klimakvotesystem)
 
@@ -93,17 +93,17 @@ Operatører med ansvar for kvotepliktige utslipp fra aktiviteter som nevnt i for
 
 ### § 4 a. (tillatelse og krav til godkjent overvåkingsplan)
 
-For anlegg som omfattes av [forurensningsloven](lov/1981-03-13-6), og for brenselsoperatører, kreves tillatelse etter [forurensningsloven § 11](lov/1981-03-13-6/§11). For luftfartøysoperatører og skipsoperatører som har kvotepliktige utslipp, kreves en plan for overvåking av utslipps- og aktivitetsdata som er godkjent av klimakvotemyndigheten.
+For anleggsoperatører og brenselsoperatører kreves tillatelse etter [forurensningsloven § 11 annet ledd](lov/1981-03-13-6/§11/ledd/2) for aktiviteter som nevnt i forskrift gitt i medhold av [§ 3](lov/2004-12-17-99/§3), med unntak for aktiviteter som kun har krav til måling og rapportering. For luftfartøysoperatører og skipsoperatører som har kvotepliktige utslipp, kreves en plan for overvåking av utslipps- og aktivitetsdata som er godkjent av klimakvotemyndigheten.
 
-> Tilføyd ved lov [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), endret ved lov [20 juni 2025 nr. 91](lov/2025-06-20-91).
+> Tilføyd ved lov [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), endret ved lover [20 juni 2025 nr. 91](lov/2025-06-20-91), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
-### § 5. (søknad om utslippstillatelse og kvotetildeling)
+### § 5. (søknad om tillatelse og kvotetildeling)
 
-Kongen kan gi forskrift om søknader om tillatelse til kvotepliktige utslipp etter [forurensningsloven § 11 annet ledd](lov/1981-03-13-6/§11/ledd/2) og om søknader om tildeling av vederlagsfrie kvoter. Klimakvotemyndigheten kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.
+Kongen kan gi forskrift om søknader om tillatelse etter [forurensningsloven § 11 annet ledd](lov/1981-03-13-6/§11/ledd/2) og om søknader om tildeling av vederlagsfrie kvoter. Klimakvotemyndigheten kan i det enkelte tilfellet fastsette hvilke opplysninger eller undersøkelser søkeren må sørge for.
 
 Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene i [tjenesteloven](lov/2009-06-19-103) for søknad om tildeling av vederlagsfrie kvoter og for kontroll av rapporterte klimagassutslipp etter [§ 15](lov/2004-12-17-99/§15), blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra [tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.
 
-> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024).
+> Endret ved lover [29 juni 2007 nr. 93](lov/2007-06-29-93) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 823](forskrift/2007-06-29-823)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [15 apr 2011 nr. 12](lov/2011-04-15-12), [25 mai 2012 nr. 29](lov/2012-05-25-29), [15 des 2023 nr. 91](lov/2023-12-15-91) (i kraft 1 jan 2024), [19 juni 2026 nr. 54](lov/2026-06-19-54).
 
 ### § 6. (ansvar for kostnader fra kvoteplikt for maritim transportaktivitet)
 
