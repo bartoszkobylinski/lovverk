@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-04-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "bdfbdc6f7c6a8fce35a0a22dc1b0966823e265dbf82d577cdc90c251ffa3acdb"
+xml_hash: "7615d12fe0b8afd09607b9ef4343640bf3c4364704d61b9b25243829df88e62d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -66,6 +66,8 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 (2) Kongen og departementet kan ikke av eget tiltak omgjøre Finanstilsynets vedtak, jf. [forvaltningsloven § 35](lov/1967-02-10/§35), med unntak av saker av prinsipiell eller stor samfunnsmessig betydning.
 
 (3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetanse som krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3).
+
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 2 Organisering av Finanstilsynet
 
@@ -217,6 +219,8 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 (5) Departementet kan i forskrift gi regler om Finanstilsynsklagenemndas sammensetning og virksomhet, saksbehandling, sekretariat og finansiering, samt om rapportering om nemndas virksomhet.
 
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+
 ### § 5-2. Søksmål
 
 (1) En part som har fått saken sin behandlet av Finanstilsynsklagenemnda, kan ved å reise søksmål mot staten ved Finanstilsynsklagenemnda prøve gyldigheten av vedtaket. Gjelder vedtaket en sak mellom private parter fattet i medhold av [verdipapirhandelloven kapittel 6](lov/2007-06-29-75/kap6), må søksmål om vedtaket reises mot den andre private parten, og retten kan prøve alle sider av saken. Departementet kan i forskrift gi nærmere regler om hvilke saker som regnes som en sak mellom private parter.
@@ -252,6 +256,10 @@ Departementet kan i forskrift gi regler om Finanstilsynets behandling av saker s
 (1) Tillitsvalgte eller ansatte i foretak under tilsyn som forsettlig eller uaktsomt overtrer [§ 3-1](lov/2024-06-21-41/§3-1), [§ 3-2](lov/2024-06-21-41/§3-2), [§ 3-3](lov/2024-06-21-41/§3-3), [§ 3-4](lov/2024-06-21-41/§3-4), [§ 3-5](lov/2024-06-21-41/§3-5), [§ 4-1](lov/2024-06-21-41/§4-1), [§ 4-2](lov/2024-06-21-41/§4-2), [§ 4-4](lov/2024-06-21-41/§4-4) eller [§ 4-6](lov/2024-06-21-41/§4-6) eller bestemmelse eller pålegg gitt med hjemmel i disse bestemmelsene, straffes med bøter eller fengsel inntil 1 år eller begge deler, for så vidt forholdet ikke går inn under noen strengere straffebestemmelse.
 
 (2) Personer, tillitsvalgte eller ansatte i foretak som forsettlig eller uaktsomt overtrer pålegg gitt med hjemmel i [§ 4-2](lov/2024-06-21-41/§4-2) eller [§ 3-5](lov/2024-06-21-41/§3-5), straffes som etter første ledd.
+
+### § 6-5. Offentliggjøring av vedtak om administrative sanksjoner mv.
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 7 Ikrafttreden og overgangsbestemmelser. Endringer i andre lover
 
