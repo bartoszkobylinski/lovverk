@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2012-01-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2021-07-01"
-xml_hash: "16b0c0f5fbcc177c46c893dfb2940a8ad23828f0a14b255daeab0489fc402316"
+xml_hash: "a1b5b201919a71eb9b62efa8a4318c6778fb9d31161a1a0164cf25fa1a400a55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -170,7 +170,7 @@ Kommunen skal ha en rådgivende enhet for russaker. Denne enheten skal ha ansvar
 
 Departementet kan gi nærmere forskrifter om den rådgivende enheten, blant annet om organisering og tjenestens innhold, inkludert formidling til og samhandling med andre tjenester og om kommunens behandling av opplysninger i slike saker.
 
-> Tilføyd ved lov [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), endret ved lov [3 mai 2024 nr. 20](lov/2024-05-03-20) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3501](forskrift/2024-12-13-3501), tidligere § 3-9b). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), endret ved lov [3 mai 2024 nr. 20](lov/2024-05-03-20) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3501](forskrift/2024-12-13-3501), tidligere § 3-9b). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ### § 3-10. Pasienters og brukeres innflytelse og samarbeid med frivillige organisasjoner
 
@@ -211,6 +211,10 @@ Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og op
 Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første ledd.
 
 > Tilføyd ved lov [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), endret ved lover [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)).
+
+### § 4-2 b. Om medvirkning
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ## Kapittel 5. Særlige plikter og oppgaver
 
@@ -260,7 +264,7 @@ Kommunelegen skal være medisinskfaglig rådgiver for kommunen.
 
 Brukerromsordninger etablert i medhold av [brukerromsloven](lov/2004-07-02-64) er å anse som en kommunal helse- og omsorgstjeneste. Kommunen avgjør om den vil etablere en brukerromsordning. Kommunen kan ikke inngå avtale med private om drift av brukerromsordning.
 
-> Endret ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020).
+> Endret ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ### § 5-7. Registrering av meldinger
 
