@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-23"
-xml_hash: "c24bb03107936c9466e3ed8b0316814cc691f08ccc2b58604786baf8b76dd80d"
+xml_hash: "4358495c59e831c6c98cd44b009af92b40b5e33557e9f86455d68ad53d16835e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 
 Loven gjelder for fastsetting avskatt på formue og inntekt, tonnasjeskatt, naturressursskatt og grunnrenteskatt etter skatteloven og trygdeavgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (formues- og inntektsskatt)skatt på formue og inntekt etter Svalbardskatteloven (svalbardskatt)skatt på inntekt etter Jan Mayen-skatteloven (Jan Mayen-skatt)skatt på inntekt etter artistskatteloven (artistskatt)skatt på formue og inntekt etter petroleumsskatteloven (petroleumsskatt)merverdiavgift etter merverdiavgiftsloven (merverdiavgift)arbeidsgiveravgift etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (arbeidsgiveravgift)særavgifter etter særavgiftsloven (særavgifter)avgifter etter motorkjøretøy- og båtavgiftsloven (motorkjøretøyavgifter)kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. etter merverdiavgiftskompensasjonsloven (merverdiavgiftskompensasjon)finansskatt på lønn etter [folketrygdloven kapittel 23](lov/1997-02-28-19/kap23) (finansskatt på lønn)suppleringsskatt etter [suppleringsskatteloven](lov/2024-01-12-1).
 
-> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024).
+> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1-2. Definisjoner
 
@@ -67,6 +67,8 @@ Skattekontoret og Skattedirektoratet er myndigheter for særavgifter.
 ### § 2-6. Motorkjøretøyavgifter
 
 Skattekontoret og Skattedirektoratet er myndigheter for motorkjøretøyavgifter.
+
+> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-7. Skattemyndighet i første instans
 
@@ -544,11 +546,13 @@ Den som skal levere skattemelding mv. etter dette kapitlet, skal gi riktige og f
 
 (6) Skattemyndighetene kan utstede skattemeldinger med forhåndsutfylt informasjon som har betydning for fastsetting av skattegrunnlaget etter [kapittel 9](lov/2016-05-27-14/kap9).
 
-> Endret ved lov [22 des 2021 nr. 158](lov/2021-12-22-158) (ikr. 1 jan 2022).
+> Endret ved lov [22 des 2021 nr. 158](lov/2021-12-22-158) (ikr. 1 jan 2022). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-5. Skattemelding for motorkjøretøyavgifter
 
 Den som er skattepliktig etter motorkjøretøy- og båtavgiftsloven, skal levere skattemelding med opplysninger om bruk eller endring av motorkjøretøy og andre opplysninger som har betydning for fastsetting av motorkjøretøyavgifter. Dette gjelder likevel ikke når den skattepliktige har gitt riktige og fullstendige opplysninger til vegmyndighetene.
+
+> **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-6. Skattemelding for arbeidsgiveravgift og finansskatt på lønn
 
@@ -684,7 +688,7 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (3) Trekkpliktige fastsetter grunnlaget for skatt av inntekt etter [skatteloven kapittel 20](lov/1999-03-26-14/kap20) (kildeskatteordning), artistskatt, skatt av renter og vederlag for bruk av eller retten til å bruke immaterielle rettigheter og skip, fartøy, rigger mv., fly og helikopter etter [skatteloven §§ 10-80](lov/1999-03-26-14/§10-80) og [10-81](lov/1999-03-26-14/§10-81), skatt av utbytte og uttak fra aksjesparekonto som er skattepliktig etter [skatteloven § 10-13](lov/1999-03-26-14/§10-13), og skatt som skal beregnes etter [Svalbardskatteloven § 3-1](lov/1996-11-29-68/§3-1), ved levering av melding om trekk som nevnt i [§ 8-8](lov/2016-05-27-14/§8-8).
 
-> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [20 des 2019 nr. 101](lov/2019-12-20-101) (med virkning fra 1 jan 2019), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [20 des 2023 nr. 101](lov/2023-12-20-101), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024).
+> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [20 des 2019 nr. 101](lov/2019-12-20-101) (med virkning fra 1 jan 2019), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [20 des 2023 nr. 101](lov/2023-12-20-101), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-2. Beregning av skatt
 
@@ -694,7 +698,7 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (3) Skattemyndighetene beregner øvrig skatt.
 
-> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [20 des 2023 nr. 101](lov/2023-12-20-101), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024).
+> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [20 des 2023 nr. 101](lov/2023-12-20-101), [12 jan 2024 nr. 7](lov/2024-01-12-7) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-3. Melding om skatteoppgjør mv.
 
@@ -712,7 +716,7 @@ Den som krever å få kompensert merverdiavgift etter merverdiavgiftskompensasjo
 
 (3) Departementet kan gi forskrift om hvordan opplysninger skal gis og leveringssted for endringsmelding og kan utforme endringsmeldinger. Departementet kan gi forskrift om vilkår for endring av beregningsgrunnlaget for utgående merverdiavgift ved for mye angitt merverdiavgift i salgsdokumentasjon.
 
-> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [21 juni 2017 nr. 86](lov/2017-06-21-86), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [23 juni 2020 nr. 108](lov/2020-06-23-108), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [22 des 2025 nr. 122](lov/2025-12-22-122).
+> Endret ved [lover 20 des 2016 nr. 120](lov/2016-12-20-120), [21 juni 2017 nr. 86](lov/2017-06-21-86), [22 juni 2018 nr. 71](lov/2018-06-22-71) (ikr. 1 jan 2019 med virkning for inntektsåret 2019), [23 juni 2020 nr. 108](lov/2020-06-23-108), [21 des 2020 nr. 171](lov/2020-12-21-171) (ikr. 1 juli 2021), [22 des 2025 nr. 122](lov/2025-12-22-122). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9-5. Trekkpliktiges adgang til å endre fastsatt skatt på utbytte til utenlandske aksjonærer
 
@@ -826,7 +830,7 @@ Skattepliktige som direkte eller indirekte har eierinteresse i utenlandsk selska
 
 (3) Skattemyndighetene kan kreve at skattepliktig framstiller kjøretøy hos Statens vegvesen for kontroll av kjøretøyets registreringsforhold av hensyn til om riktig avgift er fastsatt.
 
-> Endret ved [lov 21 juni 2019 nr. 68](lov/2019-06-21-68) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 869](forskrift/2019-06-21-869)).
+> Endret ved [lov 21 juni 2019 nr. 68](lov/2019-06-21-68) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 869](forskrift/2019-06-21-869)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10-9. Plikt til å framvise HMS-kort
 
