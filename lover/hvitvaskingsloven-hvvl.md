@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-15"
 last_change_in_force: "2025-07-01"
 last_updated: "2023-06-15"
-xml_hash: "d8f89deb62d20a031c5468511a4611620949c8a6494c12005daa3c6e667e3e54"
+xml_hash: "83f677377f7d31be1ba70c101afb7b905265406dd9bb6db7e9807e343bad90ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -484,6 +484,8 @@ Dersom tilsynsmyndigheten får mistanke om at det foreligger forhold med tilknyt
 
 (3) Opplysninger om ilagte forbud kan utveksles mellom tilsynsmyndighetene.
 
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
 ### § 49. Overtredelsesgebyr
 
 (1) Dersom rapporteringspliktige eller noen som har handlet på vegne av et rapporteringspliktig foretak, har overtrådt [§§ 6](lov/2018-06-01-23/§6) til [8](lov/2018-06-01-23/§8), [kapittel 4](lov/2018-06-01-23/kap4), [§§ 25](lov/2018-06-01-23/§25), [26](lov/2018-06-01-23/§26), [27](lov/2018-06-01-23/§27), [28](lov/2018-06-01-23/§28), [30](lov/2018-06-01-23/§30), [35](lov/2018-06-01-23/§35), [36](lov/2018-06-01-23/§36), [39](lov/2018-06-01-23/§39), [42](lov/2018-06-01-23/§42) eller [52](lov/2018-06-01-23/§52) eller forskrift gitt i medhold av disse bestemmelsene, kan tilsynsmyndigheten ilegge den rapporteringspliktige overtredelsesgebyr. For ileggelse av overtredelsesgebyr til rapporteringspliktige foretak gjelder [forvaltningsloven § 46 første ledd første punktum](lov/1967-02-10/§46/ledd/1/setning/1). Rapporteringspliktige som ikke er foretak, må ha utvist forsett eller grov uaktsomhet.
@@ -500,7 +502,7 @@ Dersom tilsynsmyndigheten får mistanke om at det foreligger forhold med tilknyt
 
 (7) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen har opphørt. Foreldelsesfristen avbrytes ved at tilsynsmyndigheten sender forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.
 
-> Endret ved lover [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 22 juni 2022 iflg. [res. 22 juni 2022 nr. 1108](forskrift/2022-06-22-1108)), [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)), [20 juni 2025 nr. 47](lov/2025-06-20-47) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1110](forskrift/2025-06-20-1110)).
+> Endret ved lover [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 22 juni 2022 iflg. [res. 22 juni 2022 nr. 1108](forskrift/2022-06-22-1108)), [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)), [20 juni 2025 nr. 47](lov/2025-06-20-47) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1110](forskrift/2025-06-20-1110)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 50. Vurderingsmomenter for forbud mot å ha ledelsesfunksjon og vedtak om overtredelsesgebyr
 
