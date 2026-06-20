@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-11-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-23"
-xml_hash: "7048f2d5a0d5d1c001820f660c2f5d155b7fdfe00b197f871f5579e4d933a300"
+xml_hash: "35100872d345fa73707d67ac1544a9265af1794e06ad4c0c2916ab0d79b40a81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1635,6 +1635,8 @@ Hvis det er avgitt en revisjonsberetning med negativ konklusjon om årsregnskape
 Det kan ikke tas utlegg eller arrest i eiendelene til en kommune eller fylkeskommune.
 
 En kommune eller fylkeskommune kan ikke tas under konkursbehandling eller begjære åpning av gjeldsforhandling etter konkursloven.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 29-2. Vedtak om betalingsinnstilling. Oppnevning av tilsynsnemnd
 
