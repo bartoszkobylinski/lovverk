@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2021-09-09"
-xml_hash: "97d813c858839c371b6dcf38cf7ed7bcc162c8c541b4a725e533db507dca6cf7"
+xml_hash: "e864a956ac0d88fc895908ce6b1d6962b13fd6135a78ca6745b01f18937463bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32009R1060"
@@ -65,7 +65,7 @@ Departementet kan gi forskrift om hvilke forhold som kan vektlegges ved avgjøre
 
 Enhver som utfører tjeneste eller arbeid for Finanstilsynet, har taushetsplikt overfor uvedkommende om opplysninger som omhandler tiltak og sanksjoner for overtredelse av kredittvurderingsbyråforordningen artikkel 4 nr. 1 som gjennomført i [§ 1](lov/2014-06-20-30/§1), dersom offentliggjøring av opplysningene kan skape alvorlig uro på finansmarkedene eller påføre de berørte parter uforholdsmessig stor skade.
 
-> Tilføyd ved lov [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607)).
+> Tilføyd ved lov [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ## § 7. Forskrifter
 
