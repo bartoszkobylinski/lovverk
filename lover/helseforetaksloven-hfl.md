@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2002-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-23"
-xml_hash: "9722a1577cdc3477cc8f9b9daa75a4eb0e0b4ceee289e9f2c621471b75050b73"
+xml_hash: "5b7d585f599d4b8581f2f8c026875137740525dc258dd87319bc063f2fd04e3d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -70,7 +70,7 @@ Konkurs og gjeldsforhandling etter konkursloven kan ikke åpnes i foretak. Foret
 
 Foretakene regnes som organer etter [arkivlova § 2 bokstav h](lov/2025-06-20-96/§2/bokstav/h).
 
-> Endret ved [lover 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](lov/2022-06-10-37), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)).
+> Endret ved [lover 19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)), [10 juni 2022 nr. 37](lov/2022-06-10-37), [20 juni 2025 nr. 96](lov/2025-06-20-96) (i kraft 1 jan 2026 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 2. Partsstilling og ansvar
 
@@ -336,7 +336,7 @@ Regionalt helseforetak skal sørge for at virksomheter som yter spesialisthelset
 
 Regionalt helseforetak skal sørge for at den enkelte pasients utvidede rett til bruk av samisk språk i spesialisthelsetjenesten blir ivaretatt, jf. [sameloven § 3-1](lov/1987-06-12-56/§3-1) nr. 4 og [§ 3-5](lov/1987-06-12-56/§3-5).
 
-> Endret ved [lov 22 juni 2012 nr. 46](lov/2012-06-22-46).
+> Endret ved [lov 22 juni 2012 nr. 46](lov/2012-06-22-46). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ## Kapittel 8. Daglig leder
 
@@ -480,7 +480,7 @@ Det som er bestemt i paragrafen her, gjelder tilsvarende ved overføring av virk
 
 Bestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mellom foretak etter loven her. Forrige punktum medfører ingen begrensninger i ansvaret etter [§ 7](lov/2001-06-15-93/§7).
 
-> Endret ved [lov 14 des 2012 nr. 86](lov/2012-12-14-86) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1210](forskrift/2012-12-14-1210)).
+> Endret ved [lov 14 des 2012 nr. 86](lov/2012-12-14-86) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1210](forskrift/2012-12-14-1210)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 15. Ikraftsettings- og overgangsbestemmelser. Endringer i andre lover
 
@@ -501,6 +501,8 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 9. Både staten og vedkommende fylkeskommune kan kreve at spørsmål som gjelder nærmere klargjøring og konkretisering av hvilke formuesposisjoner staten har rett og plikt til å overta fra den enkelte fylkeskommune etter nr. 6 første og annet ledd, skal avgjøres av en nemnd. Nemnda vurderer ikke hvilke konkrete gjeldsforpliktelser staten har rett og plikt til å tre inn i. Hvilke regionale helseforetak som skal overta de enkelte formuesposisjoner besluttes av departementet.Nemnda skal ha syv medlemmer. Departementet oppnevner tre medlemmer og varamedlemmer for disse til nemnda. Kommunenes Sentralforbund oppnevner tre medlemmer og varamedlemmer for disse til nemnda. I tillegg utpeker førstelagmannen i Borgarting leder for nemnda og leders varamedlem. Nemndas leder og leders varamedlem skal ha de egenskapene som er foreskrevet for dommere, se [domstolsloven § 53](lov/1915-08-13-5/§53), jf. [§ 54](lov/1915-08-13-5/§54) annet ledd.Nemndas avgjørelse, som treffes ved kjennelse, skal være begrunnet.Utgiftene til nemndas virksomhet fastsettes og dekkes av departementet. Departementet kan gi nærmere regler for nemndas virksomhet.
 10. Spørsmål om rettigheter og plikter etter nr. 6 første og annet ledd, kan ikke bringes inn for de alminnelige domstoler før muligheten til å få saken avgjort av nemnd opprettet etter nr. 9 annet ledd, er nyttet.
 11. Klage over beslutninger truffet i medhold av denne loven, gir ikke oppsettende virkning for statens rettigheter og plikter etter nr. 6.
+
+> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 53. Endring i andre lover
 
