@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2026-06-15"
-xml_hash: "eef8f431d9e6357d68833c724672a691d0099a5982a44a6c2bc22c29dc854248"
+xml_hash: "9f5c5dc8e9e8162f2093e7d1f81a7c215a695507cf8cd3c3115d72009da049e5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -193,7 +193,7 @@ Vedtak om bortvisning treffes av Utlendingsdirektoratet dersomutlendingen oppgir
 
 Kongen kan i forskrift gi myndighet til politimesteren eller den politimesteren gir fullmakt, til å treffe vedtak om bortvisning også senere enn sju dager etter innreise. Kongen kan også gi myndighet til politiet eller annen myndighet til å treffe vedtak om bortvisning av hensyn til folkehelsen etter [utlendingsloven § 17](lov/2008-05-15-35/§17) første ledd bokstav l.
 
-> Endret ved lover [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [19 juni 2020 nr. 83](lov/2020-06-19-83) (ikr. 1 juli 2020 iflg. [vedtak 29 juni 2020 nr. 1412](forskrift/2020-06-29-1412)).
+> Endret ved lover [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [19 juni 2020 nr. 83](lov/2020-06-19-83) (ikr. 1 juli 2020 iflg. [vedtak 29 juni 2020 nr. 1412](forskrift/2020-06-29-1412)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 19. Utlendingens plikt til å gi melding til myndighetene
 
@@ -221,13 +221,15 @@ I forbindelse med håndheving av bestemmelsene om utlendingers innreise og oppho
 
 Ved planlagte aksjoner treffes beslutningen om kontroll i medhold av første ledd av politimesteren eller den politimesteren gir fullmakt. For øvrig treffes beslutningen av polititjenestemann.
 
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
 ### § 21 a. Tilbakeholdelse og innbringelse
 
 Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon, lensmannskontor eller annet lokale som benyttes under polititjenesten nårutlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, ellerutlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
 
 Ingen må holdes tilbake lenger enn nødvendig etter denne paragrafen og ikke ut over 4 timer. Tiden inngår i beregningen av frister etter [§§ 106 a](lov/2008-05-15-35/§106a) til [106 c](lov/2008-05-15-35/§106c) og [politiloven § 8](lov/1995-08-04-53/§8).
 
-> Tilføyd ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)).
+> Tilføyd ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 22. Adgang til å gjennomføre utlendingskontroll
 
@@ -375,7 +377,7 @@ I en krisesituasjon med ekstraordinært høye ankomster av asylsøkere kan Konge
 
 Beslutninger som treffes av Kongen i statsråd i medhold av femte ledd skal fortrinnsvis gjelde for to uker og maksimalt seks uker. Nevnte beslutninger kan fornyes én gang. Beslutningen kan fornyes ytterligere én gang dersom behovet oppstår når Stortinget ikke er samlet.
 
-> Endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [20 nov 2015 nr. 94](lov/2015-11-20-94), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 nov 2015 nr. 94](lov/2015-11-20-94) som endret ved lov [15 des 2017 nr. 108](lov/2017-12-15-108), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)).
+> Endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [20 nov 2015 nr. 94](lov/2015-11-20-94), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 nov 2015 nr. 94](lov/2015-11-20-94) som endret ved lov [15 des 2017 nr. 108](lov/2017-12-15-108), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33. Adgang til å stille saksbehandlingen i bero ved utsikt til bedring av situasjonen i et område
 
@@ -393,7 +395,7 @@ Vedtak etter annet og tredje ledd treffes av Utlendingsdirektoratet. Direktorate
 
 Kongen kan gi nærmere regler i forskrift.
 
-> Endret ved lover [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [18 des 2020 nr. 150](lov/2020-12-18-150) (ikr. 18 des 2020 iflg. [res. 18 des 2020 nr. 2834](forskrift/2020-12-18-2834), endringen gjelder fra 1 des 2020, se loven del III nr. 2), [29 nov 2024 nr. 71](lov/2024-11-29-71) (i kraft 1 jan 2025 iflg. [res. 29 nov 2024 nr. 2891](forskrift/2024-11-29-2891)).
+> Endret ved lover [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [18 des 2020 nr. 150](lov/2020-12-18-150) (ikr. 18 des 2020 iflg. [res. 18 des 2020 nr. 2834](forskrift/2020-12-18-2834), endringen gjelder fra 1 des 2020, se loven del III nr. 2), [29 nov 2024 nr. 71](lov/2024-11-29-71) (i kraft 1 jan 2025 iflg. [res. 29 nov 2024 nr. 2891](forskrift/2024-11-29-2891)). **Endres** ved lov [19 juni 2026 nr. 50](lov/2026-06-19-50) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1136](forskrift/2026-06-19-1136)).
 
 ### § 35. Overføring av utlendinger etter anmodning fra internasjonale organisasjoner mv. (overføringsflyktninger)
 
@@ -891,7 +893,7 @@ Nemndas møter foregår for lukkede dører. Enhver som deltar ved behandlingen a
 
 Kongen kan gi forskrift med nærmere bestemmelser om oppnevning av nemndmedlemmer og om vilkårene for å bli løst fra vervet.
 
-> Endret ved lover [13 apr 2012 nr. 15](lov/2012-04-13-15) (ikr. 1 mai 2012 iflg. [res. 13 apr 2012 nr. 327](forskrift/2012-04-13-327)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 66](lov/2020-06-12-66) (ikr. 12 juni 2020 iflg. [res. 12 juni 2020 nr. 1185](forskrift/2020-06-12-1185)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [2 juni 2023 nr. 20](lov/2023-06-02-20) (i kraft 1 jan 2025 iflg. [res. 15 sep 2023 nr. 2100](forskrift/2023-09-15-2100)).
+> Endret ved lover [13 apr 2012 nr. 15](lov/2012-04-13-15) (ikr. 1 mai 2012 iflg. [res. 13 apr 2012 nr. 327](forskrift/2012-04-13-327)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [12 juni 2020 nr. 66](lov/2020-06-12-66) (ikr. 12 juni 2020 iflg. [res. 12 juni 2020 nr. 1185](forskrift/2020-06-12-1185)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [2 juni 2023 nr. 20](lov/2023-06-02-20) (i kraft 1 jan 2025 iflg. [res. 15 sep 2023 nr. 2100](forskrift/2023-09-15-2100)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 78. Avgjørelsesformer mv. i Utlendingsnemnda
 
@@ -1257,7 +1259,7 @@ Kongen kan i forskrift gi nærmere regler om varigheten av tillatelser til å ta
 
 Tillatelser etter første og tredje ledd gis av Utlendingsdirektoratet, som også kan gi politiet myndighet til å gi slike tillatelser. [Forvaltningsloven kapittel IV](lov/1967-02-10/kapiv) til VI om saksforberedelse, vedtak og klage gjelder ikke for vedtak om slike tillatelser.
 
-> Endret ved lover [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [15 des 2017 nr. 108](lov/2017-12-15-108) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2045](forskrift/2017-12-15-2045)), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)).
+> Endret ved lover [19 juni 2009 nr. 38](lov/2009-06-19-38) (ikr. 1 jan 2010 iflg. [res. 30 okt 2009 nr. 1324](forskrift/2009-10-30-1324)), [15 des 2017 nr. 108](lov/2017-12-15-108) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2045](forskrift/2017-12-15-2045)), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)). **Endres** ved lov [19 juni 2026 nr. 50](lov/2026-06-19-50) (i kraft fra den tid Kongen bestemmer).
 
 ### § 94 a. Klagefrist ved åpenbart grunnløse asylsøknader
 
@@ -1521,7 +1523,7 @@ Beslutning om undersøkelse skal så vidt mulig være skriftlig og opplyse om hv
 
 Ved gjennomføring av undersøkelser etter denne paragraf gjelder reglene i [straffeprosessloven §§ 199](lov/1981-05-22-25/§199) (vitne til ransaking), [199 a](lov/1981-05-22-25/§199a) (pålegg om å gi politiet tilgang til datasystem ved ransaking), 200 annet ledd (tilkalling av medlem av husstand eller nabo ved ransaking, og om å åpne adgang med makt mv.) og 201 (skånsom ransaking) tilsvarende.
 
-> Endret ved lover [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 103 a. (Opphevet)
 
@@ -1529,7 +1531,7 @@ Ved gjennomføring av undersøkelser etter denne paragraf gjelder reglene i [str
 
 ### § 103 b. Visitasjon og undersøkelse i forbindelse med registrering av søknad om beskyttelse
 
-> **Tilføyes** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft når tilføyelsen ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) trer i kraft).
 
 ### § 103 c. Sekundærbruk i politiet av opplysninger fra undersøkelse av elektroniske enheter
 
@@ -1555,11 +1557,11 @@ Politiet kan beslutte inndragning av en ting som er beslaglagt i medhold av love
 
 Reglene i [straffeprosessloven §§ 204](lov/1981-05-22-25/§204) (forbud mot beslag), [207](lov/1981-05-22-25/§207) (gjennomføring av beslag) og [214](lov/1981-05-22-25/§214) (tilbakelevering av beslaglagte gjenstander) gjelder så langt de passer.
 
-> Endret ved lover [15 jan 2010 nr. 3](lov/2010-01-15-3) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 32](forskrift/2010-01-15-32)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [15 jan 2010 nr. 3](lov/2010-01-15-3) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 32](forskrift/2010-01-15-32)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 104 a. Beslag overfor asylsøkere
 
-> **Tilføyes** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft når tilføyelsen ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) trer i kraft).
 
 ### § 105. Meldeplikt og bestemt oppholdssted
 
@@ -1599,7 +1601,7 @@ Når pågripelse er foretatt, skal politiet sørge for underretning til den påg
 
 Vil politiet beholde den pågrepne, må vedkommende snarest mulig og senest den tredje dagen etter pågripelsen fremstilles for tingretten på det sted der fremstilling mest hensiktsmessig kan skje, med begjæring om internering. Dersom utlendingen først var pågrepet etter straffeprosessloven, skal også denne tiden medregnes, med mindre grunnlaget for pågripelse etter utlendingsloven først oppsto i ettertid som følge av ilagt straff. [Domstolloven § 149](lov/1915-08-13-5/§149) første ledd gjelder ikke ved beregning av fremstillingsfristen. Er fremstilling for retten ikke skjedd innen den andre dagen etter pågripelsen, skal grunnen til det opplyses i rettsboken.
 
-> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)).
+> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 106 b. Internering
 
@@ -1667,7 +1669,7 @@ Et uavhengig tilsynsråd fører tilsyn med tvangsreturer, driften av utlendingsi
 
 Kongen kan gi utfyllende bestemmelser i forskrift.
 
-> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)).
+> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ### § 108. Straff
 
