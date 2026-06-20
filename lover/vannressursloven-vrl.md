@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2024-01-01"
-xml_hash: "448c33cf7b33ed12a4438e85a444b1863de039306ffd23ff88ac77be53b5afc9"
+xml_hash: "c48822de08905e280bf6131032f8643883104c73d2060b23f0fdf9fb88094ce2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Bruk av vassdrag i samsvar med første ledd skal skje så hensynsfullt at det ik
 
 Enhver har rett til å ta opp gjenstander som er sunket i vassdrag og til å fløte tømmer i vassdrag som er fløtbare så langt det ikke utløses konsesjonsplikt etter [§ 8](lov/2000-11-24-82/§8). Hvis en opptatt gjenstand må regnes som hittegods, gjelder reglene i [lov 29. mai 1953 nr. 3](lov/1953-05-29-3) om hittegods. Må den regnes som avfall, gjelder reglene i forurensningsloven. Om retten til fiske gjelder reglene i [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v.
 
-> Endret ved lov [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
+> Endret ved lov [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17. (rådigheten over midtstykket i innsjøer)
 
@@ -325,6 +325,8 @@ Når det treffes vedtak eller gjennomføres tiltak som kan påvirke laksens leve
 ### § 36. (forskrifter om krav til sikkerhet)
 
 Vassdragsmyndigheten kan gi forskrift for å fremme sikkerhet mot skade på mennesker, miljø og eiendom.
+
+> **Endres** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ### § 37. (vedlikehold av vassdragstiltak)
 
