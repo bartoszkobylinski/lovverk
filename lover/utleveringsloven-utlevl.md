@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1975-08-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2022-04-25"
-xml_hash: "f29f7b0ac82d8bdd329b26d08c0d0186c7fdc92c2da6817644848ca15cf7fe7f"
+xml_hash: "77713cc7ec95402792790562a0299ca77e4073595bb1b462f81ab62d6cc66574"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,7 +120,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 1. Til fremme av undersøkelsen og for å sikre utlevering kan de tvangsmidler som er nevnt i [straffeprosessloven](lov/1981-05-22-25) kapitler [14](lov/1981-05-22-25/kap14), [15](lov/1981-05-22-25/kap15), [15 a](lov/1981-05-22-25/kap15a), [16](lov/1981-05-22-25/kap16), [16 a](lov/1981-05-22-25/kap16a), [16 b](lov/1981-05-22-25/kap16b) og [16 d](lov/1981-05-22-25/kap16d), samt båndlegging etter [politiloven § 17 g](lov/1995-08-04-53/§17g), anvendes i samme utstrekning som i saker angående lovbrudd av tilsvarende art som forfølges her i riket. Ved avgjørelsen av om vilkårene for å anvende tvangsmidler er til stede, kan den rettsavgjørelse som følger med begjæringen om utlevering, legges til grunn uten ytterligere prøving av bevisene for vedkommende persons skyld.
 2. Når retten ikke bestemmer annet, skal dens beslutning om å anvende tvangsmiddel gjelde til begjæringen om utlevering er avgjort, og utlevering i tilfelle satt i verk, jfr. dog [§ 19](lov/1975-06-13-39/§19) nr. 2. Den som er begjært utlevert, skal likevel ha rett til å få prøvet slik beslutning på nytt når det er gått mer enn 3 uker siden beslutningen ble truffet eller sist prøvet.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 16
 
@@ -168,7 +168,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 1. Når en person i fremmed stat er siktet, tiltalt eller domfelt for en straffbar handling som kan begrunne utlevering etter denne lov, kan tvangsmidler etter [straffeprosessloven](lov/1981-05-22-25) kapitler [14](lov/1981-05-22-25/kap14), [15](lov/1981-05-22-25/kap15), [15 a](lov/1981-05-22-25/kap15a), [16](lov/1981-05-22-25/kap16), [16 a](lov/1981-05-22-25/kap16a), [16 b](lov/1981-05-22-25/kap16b) og [16 d](lov/1981-05-22-25/kap16d), samt båndlegging etter [politiloven § 17 g](lov/1995-08-04-53/§17g), anvendes overfor ham i samme utstrekning som i saker angående lovbrudd av tilsvarende art som forfølges her i riket, såframt kompetent myndighet i den fremmede stat ber om det før utleveringsbegjæring er framsatt. Det samme gjelder når vedkommende i den fremmede stat er etterlyst for lovbruddet. Om oppnevning av forsvarer gjelder [straffeprosessloven §§ 96](lov/1981-05-22-25/§96) flg. tilsvarende. Rettens kjennelse om bruk av tvangsmidler kan ankes etter reglene i [straffeprosessloven kapittel 26](lov/1981-05-22-25/kap26). [Straffeprosessloven § 186](lov/1981-05-22-25/§186) første ledd gjelder tilsvarende.
 2. Om beslutning om bruk av tvangsmidler etter første ledd skal det uten opphold gis underretning til departementet. Departementet kan bestemme at bruken av tvangsmidler skal opphøre dersom det antar at det ikke er grunn til utlevering. Dersom slik beslutning ikke treffes uten opphold, skal departementet straks sørge for at den fremmede stat blir underrettet om beslutningen om bruk av tvangsmiddel, og om at beslutningen vil bli opphevd dersom begjæring om utlevering ikke mottas så snart som mulig. Er begjæring om utlevering ikke mottatt innen 4 uker etter at underretning ble sendt, kan tvangsmiddel ikke lenger nyttes. I særlige tilfelle kan retten forlenge denne frist.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [28 juni 2002 nr. 54](lov/2002-06-28-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 21
 
@@ -225,7 +225,7 @@ En anmodning om rettslig bistand fra Den europeiske påtalemyndighet skal behand
 4. Departementet kan straks avslå begjæringen dersom den ikke fyller vilkårene i annet ledd, eller det klart framgår at den ikke vil bli etterkommet. Blir begjæringen ikke avslått etter denne bestemmelse, sendes saken til påtalemyndigheten. Når retten prøver om det er rettslig adgang til bruk av tvangsmidler, prøver den også om vilkårene etter denne paragraf er til stede. Reglene i [§ 17](lov/1975-06-13-39/§17) tredje ledd gjelder tilsvarende. I samband med overenskomst som nevnt i annet ledds første punktum kan det dog bestemmes at saken skal avgjøres av annen myndighet enn departementet.
 5. Er det sannsynlig at person som oppholder seg i Norge og som ikke er siktet under forfølgningen, er berettiget til beslaglagt gjenstand, skal overlevering av denne til det annet lands myndighet skje på vilkår av at den uten kostnad leveres tilbake når forfølgningen er slutt.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 25 mars 2001 iflg. [res. 21 des 2000 nr. 1348](forskrift/2000-12-21-1348)), [28 juni 2002 nr. 54](lov/2002-06-28-54), [30 juni 2006 nr. 49](lov/2006-06-30-49), [20 jan 2012 nr. 4](lov/2012-01-20-4) (ikr. 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1999 nr. 39](lov/1999-06-11-39) (ikr. 1 juli 1999 iflg. [res. 11 juni 1999 nr. 663](forskrift/1999-06-11-663)), [16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 25 mars 2001 iflg. [res. 21 des 2000 nr. 1348](forskrift/2000-12-21-1348)), [28 juni 2002 nr. 54](lov/2002-06-28-54), [30 juni 2006 nr. 49](lov/2006-06-30-49), [20 jan 2012 nr. 4](lov/2012-01-20-4) (ikr. 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 24 a
 
