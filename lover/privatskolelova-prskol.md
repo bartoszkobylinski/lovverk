@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2003-10-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-19"
 last_updated: "2022-03-29"
-xml_hash: "5ce7e9c99ea73f7873a09ede8f3f87833875bd9a69347e96c9905c6af6f64803"
+xml_hash: "3436ac09ef6ee4380586ce6467f22bcbe1489e582d61738af53f3f7d4433acf9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,6 +72,8 @@ Departementet kan godkjenne private skolar og driftsendringar ved godkjende priv
 
 Skolane skal drive verksemda si på følgjande grunnlag:livssynanerkjend pedagogisk retninginternasjonaltsærskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrettnorsk grunnskoleopplæring i utlandetsærskilt tilrettelagd opplæring for elevar med dokumenterte behovvidaregåande opplæring i tradisjonshandverksfag.
 
+For å få godkjenning på grunnlag av livssyn etter andre ledd bokstav a skal skolen ha ei tilknyting til livssynet det blir søkt om godkjenning på grunnlag av.
+
 Med særskild tilrettelagd vidaregåande opplæring i kombinasjon med toppidrett etter andre ledd bokstav d, er det i denne samanhengen meint årstimetalet for utdanningsprogram idrettsfag eller årstimetalet for utdanningsprogram studiespesialisering med tillegg av 140 årstimar toppidrett på vidaregåande trinn 1. Toppidrett på første årstrinn i vidaregåande opplæring kan vere programfaget toppidrett eller toppidrett etter eigen læreplan som er godkjend av departementet. Skolane må tilby toppidrett som eit programfag på vidaregåande trinn 2 og 3.
 
 Opplæringa skal vere på norsk eller samisk. Dette kravet gjeld likevel ikkje internasjonale skolar. Viktige dokument om verksemda etter lova skal i alle høve vere tilgjengelege på norsk eller samisk.
@@ -82,7 +84,7 @@ Krava i andre ledd om eit særskilt grunnlag gjeld likevel ikkje allereie godkje
 
 Departementet kan gi forskrift om fristar i samband med søknader om godkjenning av private skolar.
 
-> Endra ved lover [4 juli 2003 nr. 85](lov/2003-07-04-85) (ikr. 1 okt 2003), [26 nov 2004 nr. 74](lov/2004-11-26-74) (ikr. 1 des 2004, sjå lovas III), [9 juni 2006 nr. 17](lov/2006-06-09-17), [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [22 juni 2012 nr. 53](lov/2012-06-22-53) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 582](forskrift/2012-06-22-582)), [20 juni 2014 nr. 53](lov/2014-06-20-53), [19 juni 2015 nr. 75](lov/2015-06-19-75) (ikr. 1 aug 2015 iflg. [res. 19 juni 2015 nr. 701](forskrift/2015-06-19-701)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 997](forskrift/2022-06-10-997)), [9 juni 2023 nr. 31](lov/2023-06-09-31) (i kraft 1 aug 2023 iflg. [res. 9 juni 2023 nr. 825](forskrift/2023-06-09-825)), [14 juni 2024 nr. 34](lov/2024-06-14-34) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 954](forskrift/2024-06-14-954)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)).
+> Endra ved lover [4 juli 2003 nr. 85](lov/2003-07-04-85) (ikr. 1 okt 2003), [26 nov 2004 nr. 74](lov/2004-11-26-74) (ikr. 1 des 2004, sjå lovas III), [9 juni 2006 nr. 17](lov/2006-06-09-17), [29 juni 2007 nr. 92](lov/2007-06-29-92) (ikr. 1 juli 2007 iflg. [res. 29 juni 2007 nr. 757](forskrift/2007-06-29-757)), [22 juni 2012 nr. 53](lov/2012-06-22-53) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 582](forskrift/2012-06-22-582)), [20 juni 2014 nr. 53](lov/2014-06-20-53), [19 juni 2015 nr. 75](lov/2015-06-19-75) (ikr. 1 aug 2015 iflg. [res. 19 juni 2015 nr. 701](forskrift/2015-06-19-701)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), [10 juni 2022 nr. 39](lov/2022-06-10-39) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 997](forskrift/2022-06-10-997)), [9 juni 2023 nr. 31](lov/2023-06-09-31) (i kraft 1 aug 2023 iflg. [res. 9 juni 2023 nr. 825](forskrift/2023-06-09-825)), [14 juni 2024 nr. 34](lov/2024-06-14-34) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 954](forskrift/2024-06-14-954)), [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)), [19 juni 2026 nr. 58](lov/2026-06-19-58) (i kraft 19 juni 2026 iflg. [res. 19 juni 2026 nr. 1133](forskrift/2026-06-19-1133)).
 
 ### § 2-2. Krav til verksemda til skolen
 
@@ -840,7 +842,7 @@ Departementet kan gi forskrift om behandlinga av personopplysningar, mellom anna
 
 Utlevering av opplysningar etter andre, tredje og fjerde ledd kan gjerast utan hinder av teieplikt.
 
-> Tilføyd ved lov [11 juni 2021 nr. 80](lov/2021-06-11-80) (ikr. 1 aug 2021 iflg. [res. 11 juni 2021 nr. 1899](forskrift/2021-06-11-1899)), endra ved lov [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)).
+> Tilføyd ved lov [11 juni 2021 nr. 80](lov/2021-06-11-80) (ikr. 1 aug 2021 iflg. [res. 11 juni 2021 nr. 1899](forskrift/2021-06-11-1899)), endra ved lov [9 juni 2023 nr. 30](lov/2023-06-09-30) (i kraft 1 aug 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028)). **Vert endra** ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 7-10. Plikt til å levere vitnemål frå vidaregåande opplæring til nasjonal database for vitnemål og dokumentasjon av kompetanse
 
