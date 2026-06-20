@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "e966deb30fbe255907e19c33d34a686f41732483751a96f74b73328bb1beb5ab"
+xml_hash: "b2d5cd9d5362566f81fa22034d107c33e9567c8a709436778f7502b278dd3a0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis:
   - "32019R2033"
@@ -204,6 +204,8 @@ slik at den ansvarlige kapitalen til enhver tid minst skal tilsvare en fjerdedel
 verdipapirforetak etablert i en EØS-stat, med tillatelse til å yte tilknyttet tjeneste som nevnt i [verdipapirhandelloven § 2-6 første ledd nr. 1](lov/2007-06-29-75/§2-6/ledd/1/nummer/1) og som har en ansvarlig kapital som minst utgjør et beløp i norske kroner tilsvarende 750 000 euro, eller
 
 ## III
+
+> Endringene i del III **oppheves** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 (4) Som kredittinstitusjon regnes bank, kredittforetak og foretak som nevnt i artikkel 4 nr. 1 (1) bokstav b i forordning [(EU) nr. 575/2013](eu/32013r0575), som gjennomført i forskrift fastsatt med hjemmel i [§ 1-8](lov/2015-04-10-17/§1-8).
 
