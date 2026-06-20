@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-01-01"
 last_change_in_force: "2021-01-01"
 last_updated: "2021-08-10"
-xml_hash: "93cb7be846cb88b57286205d93c802ccabb174cf09d36f8c0a3d27bc3413fb1b"
+xml_hash: "cfac5b0f2122f05d7c722886b88163ecb2d04ff6a782a35cf7f16c3819ecfb82"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -43,6 +43,8 @@ For bokføringspliktige etter annet ledd kan departementet i forskrift gjøre un
 ## § 3. Pliktig regnskapsrapportering
 
 Med pliktig regnskapsrapportering menes i denne loven årsregnskap og annen rapportering av historiske regnskapsopplysninger til eksterne parter, gitt i skriftlig form til fastsatt tidspunkt og med et forhåndsdefinert innhold, og som er fastsatt i eller med hjemmel i lov. Departementet fastsetter i forskrift hva som er pliktig regnskapsrapportering etter denne loven.
+
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## § 3 a. Personalliste
 
@@ -88,6 +90,8 @@ Bokføring skal skje så ofte som virksomhetens og transaksjonenes art og omfang
 
 Kontanttransaksjoner skal registreres daglig, med mindre det benyttes fast kasse.
 
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+
 ## § 8. Bokføringsvaluta
 
 Bokføringen skal skje i norske kroner, med mindre departementet i forskrift bestemmer noe annet.
@@ -106,7 +110,7 @@ Departementet kan i forskrift fastsette krav til dokumentasjon av elektroniske f
 
 Departementet kan i forskrift fastsette krav til dokumentasjonens format.
 
-> Endret ved [lov 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)).
+> Endret ved [lov 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## § 10 a. Særlige regler om dokumentasjon av kontantsalg
 
@@ -120,7 +124,7 @@ Ved utarbeidelse av årsregnskap og næringsoppgave skal det foreligge dokumenta
 
 Departementet kan i forskrift fastsette nærmere regler om dokumentasjon av de enkelte balansepostene.
 
-> Endret ved [lov 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
+> Endret ved [lov 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## § 12. Krav til språk
 
@@ -140,7 +144,7 @@ Regnskapsmaterialet skal være tilgjengelig i lesbar form og skal kunne skrives 
 
 Departementet kan i forskrift fastsette krav om lengre oppbevaringstid for nærmere angitte typer primærdokumentasjon enn det som følger av annet ledd når det finnes nødvendig av hensyn til pliktig regnskapsrapportering eller skatte- og avgiftskontroll. Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra bestemmelsene i annet ledd om oppbevaringssted og oppbevaringstid.
 
-> Endret ved [lover 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566), og med virkning for regnskapsår påbegynt etter 31 des 2012 iflg. [res. 7 sep 2012 nr. 864](forskrift/2012-09-07-864)), [13 des 2013 nr. 121](lov/2013-12-13-121) (ikr. 1 feb 2014 iflg. [res. 24 jan 2014 nr. 53](forskrift/2014-01-24-53)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)).
+> Endret ved [lover 22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566), og med virkning for regnskapsår påbegynt etter 31 des 2012 iflg. [res. 7 sep 2012 nr. 864](forskrift/2012-09-07-864)), [13 des 2013 nr. 121](lov/2013-12-13-121) (ikr. 1 feb 2014 iflg. [res. 24 jan 2014 nr. 53](forskrift/2014-01-24-53)), [20 nov 2020 nr. 128](lov/2020-11-20-128) (ikr. 1 jan 2021 iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
 
 ## § 13 b. Elektronisk tilgjengelighet
 
