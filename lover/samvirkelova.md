@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2024-11-01"
 last_updated: "2021-07-02"
-xml_hash: "8246fe0c300aac5202eb19c3d5a893c4cd797c4753240b752fdfc5361fabb345"
+xml_hash: "361d3caf26d91990ceefd1500cf2ae1b59fcf24cf5d80b988d3dbd1f6859c180"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -732,7 +732,7 @@ Styret skal føre tilsyn med den daglege leiinga og verksemda i foretaket elles.
 
 (5) Føresegnene i denne paragrafen kan fråvikast i vedtektene.
 
-> Endra med lov [28 mai 2021 nr. 51](lov/2021-05-28-51) (ikr. 1 juni 2021 iflg. [res. 28 mai 2021 nr. 1667](forskrift/2021-05-28-1667)).
+> Endra med lov [28 mai 2021 nr. 51](lov/2021-05-28-51) (ikr. 1 juni 2021 iflg. [res. 28 mai 2021 nr. 1667](forskrift/2021-05-28-1667)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 83. Krav om styrebehandling o.a.
 
@@ -1162,6 +1162,8 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (4) Er foretaket oppløyst på grunn av føresegner i lov eller vedtekter, kan buet leverast tilbake til foretaket etter [konkurslova § 136](lov/1984-06-08-58/§136) dersom oppløysingsgrunnen ikkje lenger er til stades. [§ 139](lov/1984-06-08-58/§139) andre ledd gjeld tilsvarande.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 141. Oppløysing etter orskurd frå tingretten
 
 (1) Dersom ikkje årsmøtet vedtek oppløysing, skal tingretten ved orskurd vedta foretaket oppløyst i desse tilfella:når foretaket skal løysast opp som følgje av føresegner i lov eller vedtekter,når foretaket ikkje har meldt til Foretaksregisteret eit styre som fyller dei vilkåra som følgjer av føresegnene gitt i eller i medhald av lov,når foretaket etter lova skal ha dagleg leiar, og ikkje har meldt til Foretaksregisteret ein dagleg leiar som fyller dei vilkåra som er fastsette i lov,når foretaket er revisjonspliktig etter revisorlova og ikkje har meldt til Foretaksregisteret ein revisor som fyller dei vilkåra som er fastsette i lov,når årsrekneskap, årsmelding og revisjonsmelding som foretaket skal sende til Rekneskapsregisteret etter [rekneskapslova § 8-2](lov/1998-07-17-56/§8-2), ikkje er innsende innan seks månader etter fristen for slik innsending, eller når Rekneskapsregisteret når fristen er ute, ikkje kan godkjenne det innsende materialet som årsrekneskap, årsmelding og revisjonsmelding.
@@ -1186,7 +1188,7 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (3) Dersom vesentlege samfunnsmessige omsyn tilseier det, kan Kongen av eige tiltak gjere vedtak om at foretaket kan drive vidare, og at saka likevel ikkje skal sendast til tingretten for tvangsoppløysing, men at foretaket skal få ein ytterlegare frist før tvangsoppløysing blir gjennomført. Kongen skal gjere vedtak om at foretaket i så fall skal betale ei løpande tvangsmulkt til staten frå ein frist som blir sett og fram til forholdet er retta.
 
-> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)).
+> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 144. Avvikling av foretaket
 
@@ -1265,6 +1267,8 @@ Skadebotansvar etter [§ 153](lov/2007-06-29-81/§153) kan lempast etter [skades
 (1) Årsmøtet avgjer om foretaket skal fremje skadebotkrav etter [§ 153](lov/2007-06-29-81/§153). Er det opna gjeldsforhandling eller konkurs, gjeld føresegnene i konkurslova.
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom foretaket og nokon som er nemnd i [§ 153](lov/2007-06-29-81/§153), som regulerer eller avgrensar skadebotansvaret deira.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 156. Krav på vegner av foretaket
 
