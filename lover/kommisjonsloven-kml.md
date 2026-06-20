@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: "2002-07-01"
 last_updated: "2021-08-19"
-xml_hash: "e0efaab6d92608d7aaa3d211470ec794816d753a792b729d385ec20a33c45c4c"
+xml_hash: "07a9b11eaf09b1535e9ff25ea53ed563e07beddeec5e093518760723b1e99b5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -284,7 +284,7 @@ Kommer kommittenten eller kommisjonæren under konkurs, faller oppdraget bort. D
 
 Når kommittenten går konkurs, gjelder likevel reglene i § 100 annet og fjerde ledd i lov om gjeldsforhandling og konkurs tilsvarende for kommisjonærens adgang til å slutte avtaler for kommittentens regning.
 
-> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60).
+> Endret ved [lov 8 juni 1984 nr. 60](lov/1984-06-08-60). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 48
 
@@ -354,7 +354,7 @@ Ved avtale, som kommissionæren slutter for kommittentens regning, men i eget na
 
 Tredjemand kan ikke grunde nogen ret overfor kommissionæren paa, at denne har krav paa at faa eller har faat gods eller penger av kommittenten til opfyldelse av avtalen. Dette gjelder også om det åpnes konkurs eller gjeldsforhandling i kommisjonærens bo.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 57
 
