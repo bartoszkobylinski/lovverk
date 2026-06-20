@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1999-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-24"
-xml_hash: "07c03ca641c93718c0aa255e875624249a274bde2eca320585bd7eaa9ad72e1f"
+xml_hash: "0192bf1dea5868dc9d61ffe21250806e50a537557fdc862182eb4589a45fca0c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,7 +134,7 @@ Når tap av førerett er rettskraftig avgjort, eller det er truffet vedtak om mi
 
 Kongen gir forskrift med nærmere regler om fastsetting av tap eller midlertidig tilbakekall av førerett, herunder hva som skal anses som grove lovbrudd, hvilke overtredelser som gir grunnlag for tap av førerett utover ett år, og under hvilke omstendigheter føreretten kan tapes for mindre enn ett år. Kongen kan også gi forskrift om anvendelse av kapitlet på Svalbard og Jan Mayen.
 
-> Tilføyd ved [lov 25 juni 2010 nr. 50](lov/2010-06-25-50) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 946](forskrift/2010-06-25-946)).
+> Tilføyd ved [lov 25 juni 2010 nr. 50](lov/2010-06-25-50) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 946](forskrift/2010-06-25-946)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 28 b. Tilbakekall av retten til å føre fritidsbåt m.v. på grunn av særlige forhold
 
@@ -300,7 +300,7 @@ Polititjenestemann eller tolltjenestemann som ellers ikke har foreleggsmyndighet
 
 Departementet gir nærmere regler om bruk av forenklet forelegg og fastsetter bøtesatser og subsidiær fengselsstraff for de forskjellige lovbrudd som ordningen skal omfatte.
 
-> Tilføyd ved [lov 12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Tilføyd ved [lov 12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 43. Ikrafttredelse. Overgangsbestemmelser
 
