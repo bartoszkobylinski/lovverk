@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1957-07-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2021-07-01"
-xml_hash: "0d76411177215969a4d808c87d4d2b6b038cfb202f3a98dbbddd0e76f0c4479c"
+xml_hash: "a2fea2d657cfeb13e19a4cbb2a410414265c6d3b1284b772071b8a9e82c2633a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Det samme gjelder ferdsel med ride- eller kløvhest, kjelke, tråsykkel eller li
 
 Om motorferdsel i utmark gjelder også lov om motorferdsel i utmark og vassdrag.
 
-> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2020 nr. 85](lov/2020-06-19-85).
+> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [11 juni 1993 nr. 85](lov/1993-06-11-85), [21 juni 1996 nr. 37](lov/1996-06-21-37), [19 juni 2020 nr. 85](lov/2020-06-19-85). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3. (Ferdsel i innmark.)
 
@@ -88,7 +88,7 @@ På sjøen er ferdsel med båt fri for enhver. Ferdsel på islagt sjø er også 
 
 Om ferdsel på innsjøer og elver (åpent eller islagt vassdrag) gjelder reglene i [lov 24. november 2000 nr. 82](lov/2000-11-24-82) om vassdrag og grunnvann og [lov 10. juni 1977 nr. 82](lov/1977-06-10-82) om motorferdsel i utmark og vassdrag.
 
-> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
+> Endret ved [lover 10 juni 1977 nr. 82](lov/1977-06-10-82), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7. (Landsetting og fortøyning av båt.)
 
