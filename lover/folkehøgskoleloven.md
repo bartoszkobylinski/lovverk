@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2025-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-19"
 last_updated: "2025-11-12"
-xml_hash: "568e31c56b81e26d68e4c02896df57270b29cc4ea64dd7930182a1c0f2664c80"
+xml_hash: "bdc1f00d09553452fc02e5bae1204d2ed27cda3198b1ba13cc3c572cadd9b824"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,7 +108,9 @@ Departementet ansetter elevombudet på åremål for en periode på fire til seks
 
 Den som skal ansettes fast eller midlertidig ved en folkehøgskole, skal legge fram politiattest som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1). Personer som er dømt for seksuelle overgrep mot mindreårige, skal ikke ansettes fast eller midlertidig i slike skoler. I andre tilfeller må konsekvensene av merknader på politiattesten vurderes konkret.
 
-## Kapittel 4 Kurs, bo- og læringsmiljøet, opptak, skole-regler og reaksjoner ved brudd på skolereglene mv.
+## Kapittel 4 Kurs, bo- og læringsmiljøet, opptak, skoleregler og reaksjoner ved brudd på skolereglene mv.
+
+> Endret ved lov [19 juni 2026 nr. 59](lov/2026-06-19-59) (i kraft 19 juni 2026 iflg. [res. 19 juni 2026 nr. 1137](forskrift/2026-06-19-1137)).
 
 ### § 13. Kvalitetssikring og rapportering
 
