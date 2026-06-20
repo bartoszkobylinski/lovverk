@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-10-01"
 last_change_in_force: "2025-10-12"
 last_updated: "2021-07-01"
-xml_hash: "b965d38b81c18cd727be70bbfeeb2f1e0d8e724602e688075db7ded303dec6d7"
+xml_hash: "a237b7cecad1ecb113b7977db89aaff99cd4cb64e3c2a04e5d96ddc3e2e0756f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,11 +30,13 @@ Staten skal sørge for den polititjeneste som samfunnet har behov for. Polititje
 
 Politiet skal gjennom forebyggende, håndhevende og hjelpende virksomhet være et ledd i samfunnets samlede innsats for å fremme og befeste borgernes rettssikkerhet, trygghet og alminnelige velferd for øvrig.
 
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
 ### § 2. Politiets oppgaver
 
 Politiet skalbeskytte person, eiendom og fellesgoder og verne om all lovlig virksomhet, opprettholde den offentlige orden og sikkerhet og enten alene eller sammen med andre myndigheter verne mot alt som truer den alminnelige tryggheten i samfunnetforebygge kriminalitet og andre krenkelser av den offentlige orden og sikkerhetavdekke og stanse kriminell virksomhet og forfølge straffbare forhold i samsvar med regler gitt i eller i medhold av lovyte borgerne hjelp og tjenester i faresituasjoner, i lovbestemte tilfeller og ellers når forholdene tilsier at bistand er påkrevet og naturligpå anmodning yte andre offentlige myndigheter vern og bistand under deres tjenesteutøvelse når dette følger av lov eller sedvanesamarbeide med andre myndigheter og organisasjoner tillagt oppgaver som berører politiets virkefelt så langt regler gitt i eller i medhold av lov ikke er til hinder for detteutføre andre oppgaver som er fastsatt i lov eller som følger av sedvane, herunder oppgaver som i lov er lagt til den alminnelige namsmannen.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3. Forholdet til folkeretten
 
@@ -64,7 +66,7 @@ Politidirektoratet kan beslutte at politiet skal være bevæpnet i daglig tjenes
 
 Når tjenestehandlingen berører eller skjer overfor eller i nærvær av barn, skal barnets beste være et grunnleggende hensyn.
 
-> Endret ved lover [7 juni 2024 nr. 28](lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)).
+> Endret ved lover [7 juni 2024 nr. 28](lov/2024-06-07-28) (i kraft 7 juni 2024 iflg. [res. 7 juni 2024 nr. 929](forskrift/2024-06-07-929)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 51](lov/2026-06-19-51) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6 a. Kameraovervåking
 
@@ -115,6 +117,8 @@ Beslutningen om visitasjon i medhold av paragrafen her treffes av politimesteren
 Politiet kan innbringe til politistasjon, lensmannskontor eller annet lokale som benyttes under polititjenestenden som på offentlig sted forstyrrer ro og orden eller den lovlige ferdselden som ikke etterkommer pålegg fra politiet om å fjerne seg fra offentlig sted når omstendighetene gir skjellig grunn til å frykte for forstyrrelse av den alminnelige ro og orden eller den lovlige ferdselden som ikke oppgir navn, fødselsdato, fødselsår, stilling og bopel når politiet forlanger det, eller som gir opplysninger herom som det er grunn til å tvile på riktigheten avden som treffes på eller ved et sted der det må antas å være begått en forbrytelse umiddelbart forut.
 
 Ingen må holdes tilbake lenger enn nødvendig etter denne bestemmelsen og ikke ut over 4 timer.
+
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9. Inngrep overfor berusede personer
 
@@ -314,7 +318,7 @@ Kongen kan bestemmeat det for ett eller flere bestemte politigjøremål skal opp
 
 For øvrig gir departementet organisatoriske bestemmelser. Departementet kan herunder fastsette samarbeidsordninger mellom distrikter, gi bestemmelser om bruk av politistyrker ut over distriktsgrenser og om ordninger som nevnt i tredje ledd nr. 3 når dette skjer for en bestemt anledning eller for et avgrenset tidsrom.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [4 sep 2015 nr. 88](lov/2015-09-04-88) (ikr. 4 sep 2015 iflg. [res. 4 sep 2015 nr. 1024](forskrift/2015-09-04-1024)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [4 sep 2015 nr. 88](lov/2015-09-04-88) (ikr. 4 sep 2015 iflg. [res. 4 sep 2015 nr. 1024](forskrift/2015-09-04-1024)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 17. Den alminnelige namsmannen
 
@@ -324,7 +328,7 @@ Namsmann for Svalbard er sysselmesteren.
 
 Kongen fastsetter hvilke namsmannsdistrikter norsk kontinentalsokkel og norsk økonomisk sone hører til.
 
-> Opphevet ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), tilføyd ved lov [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+> Opphevet ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), tilføyd ved lov [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kapittel III a. Politiets sikkerhetstjeneste. Organisering, oppgaver, forebyggende bruk av tvangsmidler og båndlegging
 
@@ -362,7 +366,7 @@ Dersom det ved opphold er stor fare for at muligheten til å forebygge et forhol
 
 Sjefen eller den assisterende sjefen for Politiets sikkerhetstjeneste kan på samme vilkår som nevnt i første jf. annet ledd tillate bruk av tvangsmidler som nevnt i [straffeprosessloven §§ 202 b](lov/1981-05-22-25/§202b) og [216 l](lov/1981-05-22-25/§216l).
 
-> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)).
+> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [17 juni 2016 nr. 54](lov/2016-06-17-54) (ikr. 17 juni 2016 iflg. [res. 17 juni 2016 nr. 668](forskrift/2016-06-17-668)), [31 mai 2024 nr. 25](lov/2024-05-31-25) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 871](forskrift/2024-05-31-871)). **Endres** ved lov [19 juni 2026 nr. 49](lov/2026-06-19-49) (i kraft 1 okt 2026 iflg. [res. 19 juni 2026 nr. 1135](forskrift/2026-06-19-1135)).
 
 ### § 17 e. Behandlingen av begjæringer om bruk av tvangsmidler i forebyggende øyemed mv.
 
@@ -384,7 +388,7 @@ Taushetsplikten er ikke til hinder for at opplysningene brukessom ledd i å fore
 
 Alle skal bevare taushet overfor uvedkommende om opplysninger om noens private forhold som de blir kjent med i forbindelse med bruken av tvangsmidler.
 
-> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 59](lov/2017-06-16-59) (ikr. 16 juni 2017 iflg. [res. 16 juni 2017 nr. 783](forskrift/2017-06-16-783)). **Endres** ved lov [15 apr 2011 nr. 11](lov/2011-04-15-11) (ikr. fra den tid Kongen bestemmer).
+> Tilføyd ved lov [17 juni 2005 nr. 87](lov/2005-06-17-87) (ikr. 5 aug 2005 iflg. [res. 5 aug 2005 nr. 849](forskrift/2005-08-05-849)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [16 juni 2017 nr. 59](lov/2017-06-16-59) (ikr. 16 juni 2017 iflg. [res. 16 juni 2017 nr. 783](forskrift/2017-06-16-783)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [15 apr 2011 nr. 11](lov/2011-04-15-11) (ikr. fra den tid Kongen bestemmer).
 
 ### § 17 g. Beslutning om båndlegging
 
@@ -448,7 +452,7 @@ Politiet kan kreve fremleggelse av uttømmende og utvidet politiattest, jf. [pol
 
 Departementet fastsetter krav for ansettelse i stillinger tillagt alminnelig politimyndighet.
 
-> Endret ved lover [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)).
+> Endret ved lover [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 19. Ansettelse mv.
 
@@ -496,7 +500,7 @@ Utenlandsk tjenestemann som nevnt i første ledd, er å anse som offentlig tjene
 
 Kongen kan gi nærmere regler om vilkår for og gjennomføringen av internasjonalt samarbeid som nevnt i første ledd, herunder særlig om vilkårene for adgangen til å fortsette observasjon og forfølgelse som nevnt i første ledd annet punktum.
 
-> Tilføyd ved lov [16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 27 apr 2001 iflg. [res. 27 apr 2001 nr. 418](forskrift/2001-04-27-418)), endret ved lover [4 juli 2003 nr. 78](lov/2003-07-04-78) (ikr. 21 nov 2003 iflg. [res. 21 nov 2003 nr. 1358](forskrift/2003-11-21-1358)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
+> Tilføyd ved lov [16 juli 1999 nr. 67](lov/1999-07-16-67) (ikr. 27 apr 2001 iflg. [res. 27 apr 2001 nr. 418](forskrift/2001-04-27-418)), endret ved lover [4 juli 2003 nr. 78](lov/2003-07-04-78) (ikr. 21 nov 2003 iflg. [res. 21 nov 2003 nr. 1358](forskrift/2003-11-21-1358)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 21. Tjenesteområdet for politiets personale
 
@@ -508,7 +512,7 @@ Når det bestemmes i medhold av [§ 16](lov/1995-08-04-53/§16) at visse politig
 
 Bestemmelsene i denne paragrafen gjelder ikke for personell uten politimyndighet, hvis ikke bestemmelsene uttrykkelig er gjort gjeldende i ansettelsesvilkårene.
 
-> Endret ved lover [25 feb 2000 nr. 12](lov/2000-02-25-12) (ikr. 25 feb 2000 iflg. [res. 25 feb 2000 nr. 109](forskrift/2000-02-25-109)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)).
+> Endret ved lover [25 feb 2000 nr. 12](lov/2000-02-25-12) (ikr. 25 feb 2000 iflg. [res. 25 feb 2000 nr. 109](forskrift/2000-02-25-109)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 22. Boplikt, tjenesteplikt i fritiden og bierverv
 
@@ -516,7 +520,7 @@ Embets- og tjenestemenn med politimyndighet plikter å bosette seg i tjenestemes
 
 Embets- og tjenestemenn med politimyndighet må ikke ha annen lønnet stilling, drive privat erverv eller inneha offentlig bevilling for virksomhet uten samtykke fra politimesteren eller vedkommende politisjef. Samtykke må ikke gis der det kan oppstå tvil om hvilken egenskap politimannen opptrer i, eller om hans uavhengighet i tjenestlige saker. Samtykke må heller ikke gis der biervervet kan redusere politimannens evne eller mulighet til å utføre tjenesten forsvarlig. Departementet gir samtykke til politimestrene og øvrige sjefer i politiet. Samtykke kan når som helst tas tilbake.
 
-> Endret ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)).
+> Endret ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 23. Forbud mot rusdrikk
 
@@ -568,7 +572,7 @@ Opptak til videreutdanning og høyere grads studier foretas av Politihøgskolen.
 
 Vedtak om avslag på søknad om opptak kan påklages til Politihøgskolens styre eller til en klagenemnd oppnevnt av styret. Klagen behandles etter reglene i forvaltningsloven. Tildeling av studiested er ikke gjenstand for klage.
 
-> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lov [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)).
+> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lov [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
 
 ### § 24c. Utvisning, bortvisning og utestengning
 
@@ -634,7 +638,7 @@ Kongen fastsetter en alminnelig tjenesteinstruks for politiet. Departementet gir
 
 Departementet gir nærmere regler om i hvilken utstrekning namsmannen kan overlate sine oppgaver etter lov til sine underordnede.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [27 jan 2017 nr. 3](lov/2017-01-27-3) (ikr. straks iflg. [res. 27 jan 2017 nr. 78](forskrift/2017-01-27-78)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [22 juni 2018 nr. 81](lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](forskrift/2018-06-22-949)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [27 jan 2017 nr. 3](lov/2017-01-27-3) (ikr. straks iflg. [res. 27 jan 2017 nr. 78](forskrift/2017-01-27-78)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [22 juni 2018 nr. 81](lov/2018-06-22-81) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 949](forskrift/2018-06-22-949)), [10 jan 2020 nr. 1](lov/2020-01-10-1) (ikr. 1 feb 2020 iflg. [res. 10 jan 2020 nr. 13](forskrift/2020-01-10-13)), [20 juni 2025 nr. 87](lov/2025-06-20-87) (i kraft 20 juni 2025 iflg. [res. 20. juni 2025 nr. 1111](forskrift/2025-06-20-1111)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 29 a. Politiets tilgang til opplysninger
 
