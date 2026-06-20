@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2026-04-15"
 last_updated: "2023-01-12"
-xml_hash: "23956bfe117b1876ffe8258c122a7513b594a32c01b5be77f63fcaaf1db5c630"
+xml_hash: "f8777fe95865a39ae059b28690a98202a457d82bf38430e82cbc77145fbfe2e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -854,7 +854,7 @@ Avbrytes fristen overfor noen som har handlet på vegne av et foretak, gjelder a
 
 Foreldelsesfristen for overtredelse av [§§ 392](lov/2005-05-20-28/§392) til [394](lov/2005-05-20-28/§394) og kapittel [31](lov/2005-05-20-28/§31) om kreditorvern løper ikke under konkurs eller gjeldsforhandling etter loven. Fristen kan likevel ikke forlenges med mer enn 5 år etter denne paragraf.
 
-> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+> Endret ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 91. Straffansvar som ikke foreldes
 
@@ -1444,7 +1444,7 @@ Den som unndrar seg gjennomføringen av idømt frihetsstraff, straffes med bot e
 
 Den som ikke oppgir sitt navn, fødselsdato, fødselsår, stilling eller bopel til et stevnevitne, en polititjenestemann eller annen offentlig myndighet som ber om opplysningen som ledd i tjenesteutøvelsen, straffes med bot. På samme måte straffes den som oppgir uriktige slike opplysninger om seg selv eller andre.
 
-> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4).
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 163. Brudd på meldeplikt ved dødsfall
 
@@ -3062,13 +3062,13 @@ Med bot eller fengsel inntil 2 år straffes en insolvent skyldner som forsettlig
 
 Unnlatelse av å begjære gjeldsforhandling eller konkurs er likevel straffri dersom skyldneren har opptrådt i forståelse med fordringshavere som representerer en vesentlig del av fordringsmassen med hensyn til beløp og antall.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 408. Boforringelse under fellesforfølgning
 
 Med bot eller fengsel inntil 2 år straffes en skyldner som under konkurs eller gjeldsforhandling etter lovenopptrer på en måte som er egnet til å hindre at et formuesgode tjener til dekning eller utnyttelse for fordringshaverne, elleruriktig oppgir eller vedkjenner seg forpliktelser.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 409. Grov boforringelse under fellesforfølgning
 
