@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-07-15"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-26"
-xml_hash: "a48c05de5efd60ffa709d180e9de80fca7c4312dad65ab446b1b5dd78d729d47"
+xml_hash: "0f7eec0d804c0c3b0926975ce55f5c0c3046267e77e00049a192b762c62c9212"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-20T07:47:39.444689+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -159,6 +159,8 @@ Departementet oppnevner en klagenemnd som er klageinstans for enkeltvedtak etter
 Klagenemnda har tre medlemmer med personlige varamedlemmer som oppnevnes for inntil tre år. Departementet fastsetter hvem som skal være leder og nestleder i klagenemnda. Lånekassens administrasjon er sekretariat for klagenemnda.
 
 I tjenestemannssaker og klagesaker etter [offentleglova](lov/2006-05-19-16) er departementet klageinstans.
+
+> **Endres** ved lov [19 juni 2026 nr. 60](lov/2026-06-19-60) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1141](forskrift/2026-06-19-1141)).
 
 ### § 19. Regnskap, revisjon og kontroll
 
