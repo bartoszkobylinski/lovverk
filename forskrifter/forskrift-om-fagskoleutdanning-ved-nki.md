@@ -4,18 +4,18 @@ slug: "forskrift-om-fagskoleutdanning-ved-nki"
 type: "forskrift"
 ref_id: "forskrift/2017-08-01-1230"
 title: "Forskrift om fagskoleutdanning ved NKI"
-short_title: "Forskrift om fagskoleutdanning ved NKI"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2017-08-01"
 last_change_in_force: null
 last_updated: "2017-08-18"
-xml_hash: "782c752b16d3982774044153e92a99505a9eaff50a448a0e176eb8f8775d74f5"
+xml_hash: "6c7b4f194513f66583ecc028d5fc7d5e3318fb0d9e1444f16cf772451da2ec9a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
