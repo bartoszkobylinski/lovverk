@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2027-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "9037b1f85813177b64b6b71428b836db563942141ec9e702cfedad2df6218413"
+xml_hash: "2571ee68667cedf8dbab909f305d1bd3a6d0318517179e1aba231fd2162c334d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,13 +28,13 @@ eu_basis: []
 
 Kongen kan gi forskrift for å gjennomføre EØS-rettslige forpliktelser om bærekraftskrav for brensler, blant annet ombærekraft i livsløpet, herunder krav til reduksjon av klimagassutslipp, energibruk og økt energieffektivitetdokumentasjon av bærekraftsaspekterrestriksjoner på, forbud mot og krav til omsetning og bruktildeling av økonomisk støtte.
 
-Tilsynsmyndigheten kan fatte enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), 4 a, [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11), blant annetforby produksjon, innførsel, omsetning, eksport, bruk eller annen behandling av produkterpålegge tilbakekall eller tilbaketrekking av produkterpålegge gjennomføring av tiltak for å bringe et produkt eller et tilfelle i samsvar med bestemmelser gitt i medhold av denne loven.
+Tilsynsmyndigheten kan fatte enkeltvedtak som er nødvendige for gjennomføringen av bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11), blant annetforby produksjon, innførsel, omsetning, eksport, bruk eller annen behandling av produkterpålegge tilbakekall eller tilbaketrekking av produkterpålegge gjennomføring av tiltak for å bringe et produkt eller et tilfelle i samsvar med bestemmelser gitt i medhold av denne loven.
 
-Kongen kan gi forskrifter som er nødvendige for å gjennomføre bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), 4 a, [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
+Kongen kan gi forskrifter som er nødvendige for å gjennomføre bestemmelser gitt i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
 
-Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrerbestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), 4 a, [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), 4 a, [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
+Kongen kan gi forskrift om ileggelse og utmåling av overtredelsesgebyr til den som forsettlig eller uaktsomt overtrerbestemmelser i forskrift gitt med hjemmel i [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [7](lov/2024-06-25-69/§7), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11)plikter som følger av enkeltvedtak gitt med hjemmel i [§§ 6](lov/2024-06-25-69/§6) til [9](lov/2024-06-25-69/§9)plikter som følger av enkeltvedtak gitt med hjemmel i forskrift i medhold av [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11).
 
-I forskrift etter [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), 4 a, [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11) kan det bestemmes at forsettlig eller uaktsom overtredelse av forskriften straffes med bøter.
+I forskrift etter [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [4 a](lov/2024-06-25-69/§4a), [6](lov/2024-06-25-69/§6), [8](lov/2024-06-25-69/§8), [10](lov/2024-06-25-69/§10) og [11](lov/2024-06-25-69/§11) kan det bestemmes at forsettlig eller uaktsom overtredelse av forskriften straffes med bøter.
 
 ## II
 
