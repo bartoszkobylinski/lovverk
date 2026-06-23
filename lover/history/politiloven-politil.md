@@ -1,6 +1,11 @@
 # politiloven-politil — Change history
 
-_4 events; doc_id `nl-19950804-053`._
+_5 events; doc_id `nl-19950804-053`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): politiloven-politil`
+Commit: `a0f81e9`.
 
 ## 2026-06-20 — Content updated
 Lines: +18 -14.

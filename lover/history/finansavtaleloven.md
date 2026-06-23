@@ -1,6 +1,11 @@
 # finansavtaleloven — Change history
 
-_4 events; doc_id `nl-20201218-146`._
+_5 events; doc_id `nl-20201218-146`._
+
+## 2026-06-23 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): finansavtaleloven`
+Commit: `02f4807`.
 
 ## 2026-06-20 — Content updated
 Lines: +10 -2.

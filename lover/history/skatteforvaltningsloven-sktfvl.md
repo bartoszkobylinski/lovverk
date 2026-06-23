@@ -1,6 +1,11 @@
 # skatteforvaltningsloven-sktfvl — Change history
 
-_4 events; doc_id `nl-20160527-014`._
+_5 events; doc_id `nl-20160527-014`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): skatteforvaltningsloven-sktfvl`
+Commit: `2bc5313`.
 
 ## 2026-06-20 — Content updated
 Lines: +12 -8.

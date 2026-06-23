@@ -2,6 +2,16 @@
   "doc_id": "nl-19270701-001",
   "events": [
     {
+      "commit": "c41004c",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 5,
+      "subject": "update(lov): kraftledningsregisterloven-kregl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4a68c37",
       "date": "2026-06-20",
       "from_path": null,

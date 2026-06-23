@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1132",
+  "events": [
+    {
+      "commit": "0b01cca",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-utlendingsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-utlendingsforskriften"
+}

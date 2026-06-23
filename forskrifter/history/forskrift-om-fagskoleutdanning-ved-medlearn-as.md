@@ -1,6 +1,16 @@
 # forskrift-om-fagskoleutdanning-ved-medlearn-as — Change history
 
-_2 events; doc_id `sf-20211124-3371`._
+_4 events; doc_id `sf-20211124-3371`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-fagskoleutdanning-ved-medlearn-as`
+Commit: `5aab047`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20211124-3371.md` → `forskrifter/forskrift-om-fagskoleutdanning-ved-medlearn-as.md`.

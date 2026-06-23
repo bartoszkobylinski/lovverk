@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-039",
   "events": [
     {
+      "commit": "15dc911",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-bokføringsloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f654b72",
       "date": "2026-06-20",
       "from_path": null,

@@ -1,6 +1,11 @@
 # verdipapirhandelloven-vphl — Change history
 
-_4 events; doc_id `nl-20070629-075`._
+_5 events; doc_id `nl-20070629-075`._
+
+## 2026-06-23 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): verdipapirhandelloven-vphl`
+Commit: `ba64deb`.
 
 ## 2026-06-20 — Content updated
 Lines: +5 -5.

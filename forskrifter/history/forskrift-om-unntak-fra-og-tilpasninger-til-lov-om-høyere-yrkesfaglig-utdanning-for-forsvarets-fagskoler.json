@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1140",
+  "events": [
+    {
+      "commit": "97b8379",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 99,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler"
+}

@@ -2,6 +2,16 @@
   "doc_id": "nl-20250410-009",
   "events": [
     {
+      "commit": "4023ad6",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): statsføretakslova",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "252807e",
       "date": "2026-06-20",
       "from_path": null,

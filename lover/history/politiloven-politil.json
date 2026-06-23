@@ -2,6 +2,16 @@
   "doc_id": "nl-19950804-053",
   "events": [
     {
+      "commit": "a0f81e9",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): politiloven-politil",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "15f7e9d",
       "date": "2026-06-20",
       "from_path": null,

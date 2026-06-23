@@ -2,6 +2,16 @@
   "doc_id": "nl-20200507-038",
   "events": [
     {
+      "commit": "bfc7ae1",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): rekonstruksjonsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a4def7e",
       "date": "2026-06-20",
       "from_path": null,

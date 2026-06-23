@@ -1,6 +1,11 @@
 # regnskapsførerloven — Change history
 
-_4 events; doc_id `nl-20221216-090`._
+_5 events; doc_id `nl-20221216-090`._
+
+## 2026-06-23 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): regnskapsførerloven`
+Commit: `a47c479`.
 
 ## 2026-06-20 — Content updated
 Lines: +6 -2.

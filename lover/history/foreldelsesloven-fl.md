@@ -1,6 +1,11 @@
 # foreldelsesloven-fl — Change history
 
-_4 events; doc_id `nl-19790518-018`._
+_5 events; doc_id `nl-19790518-018`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): foreldelsesloven-fl`
+Commit: `b02d059`.
 
 ## 2026-06-20 — Content updated
 Lines: +5 -5.

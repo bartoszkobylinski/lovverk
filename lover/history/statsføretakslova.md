@@ -1,6 +1,11 @@
 # statsføretakslova — Change history
 
-_4 events; doc_id `nl-20250410-009`._
+_5 events; doc_id `nl-20250410-009`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): statsføretakslova`
+Commit: `4023ad6`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

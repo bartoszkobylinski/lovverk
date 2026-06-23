@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_3437 current documents_
+_3442 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -116,6 +116,8 @@ _3437 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
 - [endr-i-anskaffelsesforskriften-mfl](endr-i-anskaffelsesforskriften-mfl.md) — Forskrift om endring i forskrifter til anskaffelsesloven
+- [endr-i-brukerromsforskriften](endr-i-brukerromsforskriften.md) — Forskrift om endring i forskrift om ordning med brukerrom for inntak av narkotika (brukerromsforskriften)
+- [endr-i-byggesaksforskriften-sak-10](endr-i-byggesaksforskriften-sak-10.md) — Forskrift om endring i byggesaksforskriften
 - [endr-i-byggteknisk-forskrift-tek17](endr-i-byggteknisk-forskrift-tek17.md) — Forskrift om endring i forskrift om tekniske krav til byggverk (Byggteknisk forskrift)
 - [endr-i-eksplosivforskriften](endr-i-eksplosivforskriften.md) — Forskrift om endring i forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)
 - [endr-i-eu-gjødselvareforskriften](endr-i-eu-gjødselvareforskriften.md) — Forskrift om endring i forskrift om EU-gjødselvarer
@@ -717,6 +719,7 @@ _3437 current documents_
 - [forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av](forskrift-om-endring-i-forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport-og-forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av.md) — Forskrift om endring i forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport og forskrift om krav til nullutslipp av klimagasser ved offentlig anskaffelse av sjøtransport
 - [forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og](forskrift-om-endring-i-forskrifter-hjemlet-i-helsepersonelloven-og-pasientjournalloven-mv-som-en-følge-av-ikraftsetting-av-lov-23-januar-2026-nr-1-om-endringer-i-helsepersonelloven-og.md) — Forskrift om endring i forskrifter hjemlet i helsepersonelloven og pasientjournalloven mv. som en følge av ikraftsetting av lov 23. januar 2026 nr. 1 om endringer i helsepersonelloven og pasientjournalloven mv. (taushetsplikt og tilgjengeliggjøring av pasientopplysninger)
 - [forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina](forskrift-om-endring-i-midlertidig-forskrift-om-unntak-fra-plan-og-bygningsloven-for-å-håndtere-høye-ankomster-av-fordrevne-fra-ukraina.md) — Forskrift om endring i midlertidig forskrift om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne fra Ukraina
+- [forskrift-om-endring-i-utlendingsforskriften](forskrift-om-endring-i-utlendingsforskriften.md) — Forskrift om endring i utlendingsforskriften (unntak fra krav om asylintervju)
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
 - [forskrift-om-energifondet](forskrift-om-energifondet.md) — Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)
 - [forskrift-om-energiklagenemnda](forskrift-om-energiklagenemnda.md) — Forskrift om Energiklagenemnda
@@ -1777,6 +1780,7 @@ _3437 current documents_
 - [forskrift-om-opptak-studier-og-eksamen-ved-dne](forskrift-om-opptak-studier-og-eksamen-ved-dne.md) — Forskrift om opptak, studier og eksamen ved Den norske Eurytmihøyskole (DnE).
 - [forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-for-bokbransjen](forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-for-bokbransjen.md) — Forskrift om opptak, studier og eksamen ved Fagskolen for bokbransjen
 - [forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania](forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania.md) — Forskrift om opptak, studier og eksamen ved Fagskolen Kristiania
+- [forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania-2](forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania-2.md) — Forskrift om opptak, studier og eksamen ved Fagskolen Kristiania
 - [forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken](forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken.md) — Forskrift om opptak, studier og eksamen ved Fagskolen Viken
 - [forskrift-om-opptak-studier-og-eksamen-ved-fih](forskrift-om-opptak-studier-og-eksamen-ved-fih.md) — Forskrift om opptak, studier og eksamen ved Fjellhaug Internasjonale Høgskole
 - [forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi](forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md) — Forskrift om opptak, studier og eksamen ved Handelshøyskolen BI
@@ -2726,6 +2730,7 @@ _3437 current documents_
 - [forskrift-om-unntak-fra-likebehandlingsreglene-bemanningsforetak](forskrift-om-unntak-fra-likebehandlingsreglene-bemanningsforetak.md) — Forskrift om adgang til ved tariffavtale å fravike reglene om likebehandling ved utleie fra bemanningsforetak
 - [forskrift-om-unntak-fra-medlemskap-i-statens-pensjonskasse](forskrift-om-unntak-fra-medlemskap-i-statens-pensjonskasse.md) — Forskrift om unntak fra medlemskap i Statens pensjonskasse
 - [forskrift-om-unntak-fra-notifikasjonsplikt-for-offentlig-støtte](forskrift-om-unntak-fra-notifikasjonsplikt-for-offentlig-støtte.md) — Forskrift om unntak fra notifikasjonsplikt for offentlig støtte
+- [forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler](forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler.md) — Forskrift om unntak fra og tilpasninger til lov om høyere yrkesfaglig utdanning for Forsvarets fagskoler
 - [forskrift-om-unntak-fra-plikt-om-oppholdsrom-for-dyr](forskrift-om-unntak-fra-plikt-om-oppholdsrom-for-dyr.md) — Forskrift om unntak fra plikten til å sørge for oppholdsrom for dyr
 - [forskrift-om-unntak-fra-redegjørelse-om-aksjeinnskudd](forskrift-om-unntak-fra-redegjørelse-om-aksjeinnskudd.md) — Forskrift om unntak fra kravet til redegjørelse om aksjeinnskudd med andre eiendeler enn penger
 - [forskrift-om-unntak-fra-rett-og-plikt-til-deltagelse-i-opplæring-i-norsk-og-samfunnskunnskap-for-personer-som-omfattes-av-separasjonsavtalen](forskrift-om-unntak-fra-rett-og-plikt-til-deltagelse-i-opplæring-i-norsk-og-samfunnskunnskap-for-personer-som-omfattes-av-separasjonsavtalen.md) — Forskrift om unntak fra rett og plikt til deltagelse i opplæring i norsk og samfunnskunnskap for personer som omfattes av avtale mellom EØS/EFTA-statene og Storbritannia om ordninger som følge av Storbritannias uttreden fra EU og EØS-avtalen

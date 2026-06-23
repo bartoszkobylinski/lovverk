@@ -2,6 +2,16 @@
   "doc_id": "nl-20030606-039",
   "events": [
     {
+      "commit": "7bca3ea",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): burettslagslova-brl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d6950d1",
       "date": "2026-06-20",
       "from_path": null,

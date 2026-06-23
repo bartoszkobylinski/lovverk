@@ -2,6 +2,16 @@
   "doc_id": "nl-20160527-014",
   "events": [
     {
+      "commit": "2bc5313",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): skatteforvaltningsloven-sktfvl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e60902c",
       "date": "2026-06-20",
       "from_path": null,

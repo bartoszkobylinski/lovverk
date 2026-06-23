@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260618-1131",
+  "events": [
+    {
+      "commit": "8cd6abb",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 402,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania-2"
+}

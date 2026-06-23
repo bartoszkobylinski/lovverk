@@ -2,6 +2,16 @@
   "doc_id": "nl-20180323-003",
   "events": [
     {
+      "commit": "6c9967b",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): lov-om-bankenes-sikringsfond",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d42d709",
       "date": "2026-06-20",
       "from_path": null,

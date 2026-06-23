@@ -1,6 +1,11 @@
 # skattebetalingsloven-sktbl — Change history
 
-_4 events; doc_id `nl-20050617-067`._
+_5 events; doc_id `nl-20050617-067`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -5.
+Subject: `update(lov): skattebetalingsloven-sktbl`
+Commit: `e1aab4d`.
 
 ## 2026-06-20 — Content updated
 Lines: +27 -13.

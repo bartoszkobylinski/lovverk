@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-037",
   "events": [
     {
+      "commit": "6728006",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-energiloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7254535",
       "date": "2026-06-20",
       "from_path": null,

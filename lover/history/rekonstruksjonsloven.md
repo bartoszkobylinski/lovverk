@@ -1,6 +1,11 @@
 # rekonstruksjonsloven — Change history
 
-_4 events; doc_id `nl-20200507-038`._
+_5 events; doc_id `nl-20200507-038`._
+
+## 2026-06-23 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): rekonstruksjonsloven`
+Commit: `bfc7ae1`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -6.

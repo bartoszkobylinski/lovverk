@@ -1,6 +1,11 @@
 # tvangsfullbyrdelsesloven-tvangsloven — Change history
 
-_5 events; doc_id `nl-19920626-086`._
+_6 events; doc_id `nl-19920626-086`._
+
+## 2026-06-23 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): tvangsfullbyrdelsesloven-tvangsloven`
+Commit: `27235b1`.
 
 ## 2026-06-20 — Content updated
 Lines: +123 -61.

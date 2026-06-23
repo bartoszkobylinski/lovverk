@@ -1,6 +1,11 @@
 # konkursloven-kkl — Change history
 
-_5 events; doc_id `nl-19840608-058`._
+_6 events; doc_id `nl-19840608-058`._
+
+## 2026-06-23 — Content updated
+Lines: +115 -93.
+Subject: `update(lov): konkursloven-kkl`
+Commit: `a21f685`.
 
 ## 2026-06-20 — Content updated
 Lines: +51 -25.

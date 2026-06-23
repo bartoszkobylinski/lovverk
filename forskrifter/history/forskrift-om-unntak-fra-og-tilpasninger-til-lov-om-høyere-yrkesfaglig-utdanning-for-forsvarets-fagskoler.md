@@ -1,0 +1,8 @@
+# forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler — Change history
+
+_1 events; doc_id `sf-20260619-1140`._
+
+## 2026-06-23 — Added to corpus
+Lines: +99 -0.
+Subject: `add(forskrift): forskrift-om-unntak-fra-og-tilpasninger-til-lov-om-høyere-yrkesfaglig-utdanning-for-forsvarets-fagskoler`
+Commit: `97b8379`.

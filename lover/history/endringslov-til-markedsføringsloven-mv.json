@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-034",
   "events": [
     {
+      "commit": "f8fb891",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): endringslov-til-markedsføringsloven-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2690c0c",
       "date": "2026-06-20",
       "from_path": null,

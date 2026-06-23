@@ -1,6 +1,16 @@
 # brukerromsforskriften — Change history
 
-_2 events; doc_id `sf-20041217-1661`._
+_4 events; doc_id `sf-20041217-1661`._
+
+## 2026-06-23 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): brukerromsforskriften`
+Commit: `cda4d11`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20041217-1661.md` → `forskrifter/brukerromsforskriften.md`.

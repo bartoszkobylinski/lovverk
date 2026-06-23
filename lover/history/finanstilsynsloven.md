@@ -1,6 +1,11 @@
 # finanstilsynsloven — Change history
 
-_4 events; doc_id `nl-20240621-041`._
+_5 events; doc_id `nl-20240621-041`._
+
+## 2026-06-23 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): finanstilsynsloven`
+Commit: `10b400d`.
 
 ## 2026-06-20 — Content updated
 Lines: +10 -2.

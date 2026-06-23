@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-041",
   "events": [
     {
+      "commit": "2b201d0",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): særavgiftsloven-2",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2ae6627",
       "date": "2026-06-20",
       "from_path": null,

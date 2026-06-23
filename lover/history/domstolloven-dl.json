@@ -2,6 +2,16 @@
   "doc_id": "nl-19150813-005",
   "events": [
     {
+      "commit": "b00c7d2",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): domstolloven-dl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "594c3ba",
       "date": "2026-06-20",
       "from_path": null,

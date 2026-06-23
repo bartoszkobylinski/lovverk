@@ -1,6 +1,11 @@
 # dekningsloven-deknl — Change history
 
-_4 events; doc_id `nl-19840608-059`._
+_5 events; doc_id `nl-19840608-059`._
+
+## 2026-06-23 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): dekningsloven-deknl`
+Commit: `3a6b6b1`.
 
 ## 2026-06-20 — Content updated
 Lines: +32 -22.

@@ -2,6 +2,16 @@
   "doc_id": "nl-20190315-006",
   "events": [
     {
+      "commit": "b91b0aa",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): verdipapirsentralloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2b20ce0",
       "date": "2026-06-20",
       "from_path": null,

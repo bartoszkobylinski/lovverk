@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-055",
   "events": [
     {
+      "commit": "871eede",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): endringslov-til-bærekraftige-produkter-loven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c338ab8",
       "date": "2026-06-20",
       "from_path": null,

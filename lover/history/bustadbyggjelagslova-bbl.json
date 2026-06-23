@@ -2,6 +2,16 @@
   "doc_id": "nl-20030606-038",
   "events": [
     {
+      "commit": "ecc21b8",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): bustadbyggjelagslova-bbl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "73a9c10",
       "date": "2026-06-20",
       "from_path": null,

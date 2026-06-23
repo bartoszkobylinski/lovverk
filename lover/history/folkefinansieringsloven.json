@@ -2,6 +2,16 @@
   "doc_id": "nl-20260206-002",
   "events": [
     {
+      "commit": "b4addbb",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(lov): folkefinansieringsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "b02131d",
       "date": "2026-06-20",
       "from_path": null,

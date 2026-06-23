@@ -1,6 +1,11 @@
 # lov-om-bankenes-sikringsfond — Change history
 
-_4 events; doc_id `nl-20180323-003`._
+_5 events; doc_id `nl-20180323-003`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): lov-om-bankenes-sikringsfond`
+Commit: `6c9967b`.
 
 ## 2026-06-20 — Content updated
 Lines: +6 -2.

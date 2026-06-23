@@ -1,6 +1,11 @@
 # kraftledningsregisterloven-kregl — Change history
 
-_4 events; doc_id `nl-19270701-001`._
+_5 events; doc_id `nl-19270701-001`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -5.
+Subject: `update(lov): kraftledningsregisterloven-kregl`
+Commit: `c41004c`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

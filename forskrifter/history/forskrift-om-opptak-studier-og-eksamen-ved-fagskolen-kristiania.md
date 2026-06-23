@@ -1,6 +1,16 @@
 # forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania — Change history
 
-_2 events; doc_id `sf-20230620-1072`._
+_4 events; doc_id `sf-20230620-1072`._
+
+## 2026-06-23 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania`
+Commit: `5e7bdf8`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20230620-1072.md` → `forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-kristiania.md`.

@@ -2,6 +2,16 @@
   "doc_id": "nl-19840608-058",
   "events": [
     {
+      "commit": "a21f685",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 115,
+      "lines_removed": 93,
+      "subject": "update(lov): konkursloven-kkl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e2c513c",
       "date": "2026-06-20",
       "from_path": null,

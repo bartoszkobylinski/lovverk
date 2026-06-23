@@ -1,6 +1,11 @@
 # endringslov-til-støtteprosessloven — Change history
 
-_1 events; doc_id `nl-20260619-062`._
+_2 events; doc_id `nl-20260619-062`._
+
+## 2026-06-23 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): endringslov-til-støtteprosessloven`
+Commit: `c3d43ec`.
 
 ## 2026-06-20 — Added to corpus
 Lines: +37 -0.

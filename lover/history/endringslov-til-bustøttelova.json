@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-056",
   "events": [
     {
+      "commit": "3fdd06d",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): endringslov-til-bustøttelova",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6679ef9",
       "date": "2026-06-20",
       "from_path": null,

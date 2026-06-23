@@ -2,6 +2,16 @@
   "doc_id": "nl-20221216-090",
   "events": [
     {
+      "commit": "a47c479",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): regnskapsførerloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9274c08",
       "date": "2026-06-20",
       "from_path": null,

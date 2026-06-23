@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1149",
+  "events": [
+    {
+      "commit": "4ffcb00",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-brukerromsforskriften",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-brukerromsforskriften"
+}

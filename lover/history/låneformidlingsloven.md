@@ -1,6 +1,11 @@
 # låneformidlingsloven — Change history
 
-_4 events; doc_id `nl-20221216-091`._
+_5 events; doc_id `nl-20221216-091`._
+
+## 2026-06-23 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): låneformidlingsloven`
+Commit: `5e912ea`.
 
 ## 2026-06-20 — Content updated
 Lines: +12 -2.

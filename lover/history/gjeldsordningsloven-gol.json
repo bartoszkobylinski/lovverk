@@ -2,6 +2,16 @@
   "doc_id": "nl-19920717-099",
   "events": [
     {
+      "commit": "817db31",
+      "date": "2026-06-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 8,
+      "subject": "update(lov): gjeldsordningsloven-gol",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "537b481",
       "date": "2026-06-20",
       "from_path": null,
