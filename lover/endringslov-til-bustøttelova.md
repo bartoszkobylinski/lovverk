@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "92351a1db3357f5279e325604dbc4646998a321a76eaa258e0d6a0ff5e02ee54"
+xml_hash: "e23ef66ce625e49a311b4bb27de79bb2d4e78938748f0f023762919424beaffb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Husbanken kan utan hinder av teieplikt handsame opplysningar som er henta inn i 
 
 Departementet kan gje forskrift om utlevering, innhenting, samanstilling og anna handsaming av personopplysningar frå den statlege bustøtta og andre kjelder til forsking, statistikk og analysar.
 
-Husbanken kan handsame dei personopplysningane som er nemnde i § 8 d, når det er nødvendig for å teste, drifte og utvikle IT-systema til Husbanken, men berre dersom det er umogleg eller uforholdsmessig vanskeleg å oppnå føremålet ved å bruke anonyme eller fiktive opplysningar.
+Husbanken kan handsame dei personopplysningane som er nemnde i [§ 8 d](lov/2012-08-24-64/§8d), når det er nødvendig for å teste, drifte og utvikle IT-systema til Husbanken, men berre dersom det er umogleg eller uforholdsmessig vanskeleg å oppnå føremålet ved å bruke anonyme eller fiktive opplysningar.
 
 Departementet kan gje forskrift om handsaming av personopplysningar i samband med testing, drift og utvikling.
 
