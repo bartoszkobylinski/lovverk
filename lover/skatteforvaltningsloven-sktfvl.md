@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-23"
-xml_hash: "4358495c59e831c6c98cd44b009af92b40b5e33557e9f86455d68ad53d16835e"
+xml_hash: "44dc96845bacb7ec839c9daa8cdf943cf7851c91196c4dad276a0e63d976fc9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Skattekontoret og Skattedirektoratet er myndigheter for særavgifter.
 
 Skattekontoret og Skattedirektoratet er myndigheter for motorkjøretøyavgifter.
 
-> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+> **Oppheves** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-7. Skattemyndighet i første instans
 
