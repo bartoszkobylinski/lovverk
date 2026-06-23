@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-04"
-xml_hash: "970bc05e61796c46b4dfe203f1cc103605aa148cb254c06716fa84f02967b4f1"
+xml_hash: "7a1b08ce4e03db2a8f4b90e88292318cfae27005089fe64ae7c983af30175040"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -138,9 +138,7 @@ Avgjørelse av om gjeldsforhandling skal åpnes, treffes av retten ved kjennelse
 
 Namsmannens avgjørelse om å åpne gjeldsforhandlinger kan påklages av fordringshaverne innen en uke etter at namsmannen har sendt varsel om åpning av gjeldsforhandling, jf. [§ 3-2](lov/1992-07-17-99/§3-2) annet ledd. Namsmyndighetens avgjørelse om å åpne gjeldsforhandling på vilkår kan også påklages eller ankes av skyldneren. Tingrettens avgjørelse om å åpne gjeldsforhandling uten vilkår er endelig.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov
-
-> **Endres** ved lov
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 3-2. Oppfordring om å melde krav m.m.
 
@@ -206,7 +204,7 @@ Dersom retten har åpnet gjeldsforhandlingen, sender namsmannen saken over til r
 
 Skyldneren skal gis anledning til å uttale seg før det treffes avgjørelse om heving. Klage og anke etter denne paragraf har oppsettende virkning. Dersom en beslutning om å heve saken blir omgjort, kan gjeldsforhandlingsperioden om nødvendig forlenges med den tid saken er blitt forsinket på grunn av hevingssaken.
 
-> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kap 4. Frivillig gjeldsordning
 
@@ -334,7 +332,7 @@ Namsmannen skal etter begjæring fra skyldneren beslutte nødvendig forlengelse 
 
 Dersom det benyttes rettsmidler mot en avgjørelse om å nekte stadfestelse av tvungen gjeldsordning eller dersom en kjennelse om tvungen gjeldsordning blir opphevet av ankeinstansen, skal gjeldsforhandlingsperioden anses å løpe inntil rettskraftig avgjørelse foreligger i saken. En gjeldsforhandlingsperiode kan likevel ikke overstige ett år.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-2. Særlige regler om innholdet av en tvungen gjeldsordning
 
@@ -366,7 +364,7 @@ Retten skal stadfeste skyldnerens forslag til tvungen gjeldsordning dersom vilk�
 
 Rettens avgjørelse treffes ved kjennelse. Kjennelsen forkynnes for skyldneren og meddeles sakens øvrige parter på den måte retten finner hensiktsmessig. En kjennelse som nekter stadfestelse kan bare ankes av skyldneren.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## Kap 6. Endring av en gjeldsordning
 
