@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2026-06-19"
 last_updated: "2022-03-28"
-xml_hash: "06750723a9ca412a681d2e92122be44cad848d0cc54ff9e4ed4dc9df0ff5b746"
+xml_hash: "962c89ac63df5fbbebf188667408ae4388fe063de2787375492b67963476f31b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,13 +192,13 @@ Kommunen har rett til innsyn i dokumenter og adgang til barnehagelokaler i den u
 
 Kommunen skal likebehandle private og kommunale barnehager når den utfører oppgaver som barnehagemyndighet. Kommunen skal organisere oppgavene den har som barnehagemyndighet adskilt fra oppgavene den har som barnehageeier når dette er egnet til å ivareta tilliten til kommunens upartiskhet som barnehagemyndighet.
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91)(ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
 
 ### § 12. Særlige regler om klageinstans
 
 Statsforvalteren er klageinstans for vedtak fattet av kommunen eller fylkeskommunen etter [§§ 14](lov/2005-06-17-64/§14) og [15](lov/2005-06-17-64/§15), [§ 19](lov/2005-06-17-64/§19) første ledd, [§§ 24](lov/2005-06-17-64/§24) til [26](lov/2005-06-17-64/§26), [§§ 35](lov/2005-06-17-64/§35) til [38](lov/2005-06-17-64/§38), [§ 53](lov/2005-06-17-64/§53) og der det følger av forskrift gitt i medhold av denne loven.
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91)(ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [10 juni 2022 nr. 40](lov/2022-06-10-40) (i kraft 1 juli 2022 iflg. [res. 10 juni 2022 nr. 998](forskrift/2022-06-10-998)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 13. Statlig råd og veiledning
 
@@ -282,7 +282,7 @@ Kommunen skal behandle private barnehager som mottar tilskudd, likeverdig med ko
 
 Departementet kan gi forskrift om midlertidig tilskudd til drift av barnehager og barnehageplasser som er godkjent med hjemmel i forskrift etter [§ 14 fjerde ledd](lov/2005-06-17-64/§14/ledd/4).
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91)(ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)) **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)) **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 19 a. Driftstilskudd til private barnehager
 
@@ -308,7 +308,7 @@ Departementet kan gi forskrift om foreldrebetaling i barnehagen, blant annet om 
 
 ## Kapittel V. Krav til bruk av offentlige tilskudd og foreldrebetaling i private barnehager mv.
 
-> Kapitlet tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91)(ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
+> Kapitlet tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)).
 
 ### § 21. Virkeområde og formål
 
