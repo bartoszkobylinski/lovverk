@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-05-11"
 last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "41f9547d59d5c52853b93c426e583c0d21d0051d79c1a396574f56c3d91fb3cc"
+xml_hash: "4ed3ce1c003d6a03ba17cec9a3ba6041978abecf0e1425e2a852e139dc0f83bd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på en frivillig ordning av gjelden eller tvangsakkord når begjæring om slik forhandling kommer inn til retten etter lovens ikrafttredelse. Loven gjelder også forhandling med fordringshaverne som skal behandles etter denne loven etter reglene i [§ 65](lov/2020-05-07-38/§65). Når rekonstruksjonen behandles etter reglene i denne loven, gjelder ikke reglene i [konkursloven](lov/1984-06-08-58) §§ 1 a til 59.
+Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på en frivillig ordning av gjelden eller tvangsakkord når begjæring om slik forhandling kommer inn til retten etter lovens ikrafttredelse. Loven gjelder også forhandling med fordringshaverne som skal behandles etter denne loven etter reglene i [§ 65](lov/2020-05-07-38/§65). Når rekonstruksjonen behandles etter reglene i denne loven, gjelder ikke reglene i [konkursloven §§ 1 a](lov/1984-06-08-58/§1a) til [59](lov/1984-06-08-58/§59).
 
 ## Kapittel 2. Åpning av rekonstruksjonsforhandling
 
@@ -62,7 +62,7 @@ Loven gjelder forhandling med fordringshaverne om rekonstruksjon med sikte på e
 
 ### § 5. Tingrettens avgjørelse. Rettsmidler
 
-(1) Tingretten skal avslå begjæringen dersomden ikke tilfredsstiller kravene etter [§§ 2](lov/2020-05-07-38/§2) og 3, og manglene ikke blir rettet i tideskyldneren unnlater å skaffe de ytterligere opplysningene som tingretten krevertingretten etter de opplysningene som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig rekonstruksjon eller tvangsakkordskyldneren motsetter seg rekonstruksjonsforhandling når begjæringen er fremsatt av en fordringshaver.
+(1) Tingretten skal avslå begjæringen dersomden ikke tilfredsstiller kravene etter [§§ 2](lov/2020-05-07-38/§2) og [3](lov/2020-05-07-38/§3), og manglene ikke blir rettet i tideskyldneren unnlater å skaffe de ytterligere opplysningene som tingretten krevertingretten etter de opplysningene som foreligger, finner det lite sannsynlig at skyldneren vil kunne oppnå frivillig rekonstruksjon eller tvangsakkordskyldneren motsetter seg rekonstruksjonsforhandling når begjæringen er fremsatt av en fordringshaver.
 
 (2) Retten skal treffe sin avgjørelse snarest mulig, normalt innen tre dager etter at skyldnerens begjæring kom inn til retten, eller innen to uker etter at en fordringshavers begjæring kom inn til retten.
 
