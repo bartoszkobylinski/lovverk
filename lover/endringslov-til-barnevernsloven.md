@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-06-19"
 last_change_in_force: null
 last_updated: null
-xml_hash: "4a7942ac248888698956a469f18630d3ebd31f6b332573370f0b8550cc793a92"
+xml_hash: "e72f946360e71bf7f3b57f26460913b4a2c65b39fed126dfc1b3eee1a1591c7b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -79,4 +79,4 @@ Vedtak i saken skal treffes innen tre uker etter at nemnda mottok saken dersom s
 1. Loven gjelder fra den tiden Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 2. Endringene i [barnevernsloven § 1-2](lov/2021-06-18-97/§1-2), [§ 5-1 første ledd bokstav e](lov/2021-06-18-97/§5-1/ledd/1/bokstav/e), [§ 12-3](lov/2021-06-18-97/§12-3), [§ 13-4](lov/2021-06-18-97/§13-4), [§ 14-16](lov/2021-06-18-97/§14-16) og [§ 14-23](lov/2021-06-18-97/§14-23) trer i kraft straks.
 3. Departementet kan gi overgangsbestemmelser.
-4. Ny § 14-26 gjelder kontroll av vedtak som treffes etter ikrafttredelsestidspunktet.
+4. Ny [§ 14-26](lov/2021-06-18-97/§14-26) gjelder kontroll av vedtak som treffes etter ikrafttredelsestidspunktet.
