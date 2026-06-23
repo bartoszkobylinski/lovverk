@@ -7,15 +7,15 @@ title: "Lov om endringer i energiloven mv. (prioritert tilknytning til strømnet
 short_title: "Endringslov til energiloven mv."
 language: "nb"
 ministry:
-  - "01.07.2026"
-date_in_force: null
+  - "Energidepartementet"
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a9148fb622fa1a9118a4f771f5e9be432535cf82b998b7be15526806085970d0"
+xml_hash: "3214ee1351ba74084867a662e042447c0a0dab8da3b116848a613d990a2191f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
