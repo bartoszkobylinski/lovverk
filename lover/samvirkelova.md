@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2024-11-01"
 last_updated: "2021-07-02"
-xml_hash: "361d3caf26d91990ceefd1500cf2ae1b59fcf24cf5d80b988d3dbd1f6859c180"
+xml_hash: "78704e91392a1f51abc2bcd6d0b6549efb8b9a11119f2955889c657dfd1a6a03"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -720,6 +720,8 @@ Styret skal føre tilsyn med den daglege leiinga og verksemda i foretaket elles.
 
 (2) Styret representerer foretaket som konkursskyldnar.
 
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
+
 ### § 82. Saksbehandlinga i styret
 
 (1) Styret skal behandle sakene i møte om ikkje styreleiaren meiner at saka kan leggjast fram skriftleg eller takast opp på annan måte. Behandlingsmåten skal vere forsvarleg.
@@ -732,7 +734,7 @@ Styret skal føre tilsyn med den daglege leiinga og verksemda i foretaket elles.
 
 (5) Føresegnene i denne paragrafen kan fråvikast i vedtektene.
 
-> Endra med lov [28 mai 2021 nr. 51](lov/2021-05-28-51) (ikr. 1 juni 2021 iflg. [res. 28 mai 2021 nr. 1667](forskrift/2021-05-28-1667)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endra med lov [28 mai 2021 nr. 51](lov/2021-05-28-51) (ikr. 1 juni 2021 iflg. [res. 28 mai 2021 nr. 1667](forskrift/2021-05-28-1667)).
 
 ### § 83. Krav om styrebehandling o.a.
 
@@ -1162,7 +1164,7 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (4) Er foretaket oppløyst på grunn av føresegner i lov eller vedtekter, kan buet leverast tilbake til foretaket etter [konkurslova § 136](lov/1984-06-08-58/§136) dersom oppløysingsgrunnen ikkje lenger er til stades. [§ 139](lov/1984-06-08-58/§139) andre ledd gjeld tilsvarande.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 141. Oppløysing etter orskurd frå tingretten
 
@@ -1188,7 +1190,7 @@ Det som måtte tilfalle foretaket av summar som er sette av etter [§ 135](lov/2
 
 (3) Dersom vesentlege samfunnsmessige omsyn tilseier det, kan Kongen av eige tiltak gjere vedtak om at foretaket kan drive vidare, og at saka likevel ikkje skal sendast til tingretten for tvangsoppløysing, men at foretaket skal få ein ytterlegare frist før tvangsoppløysing blir gjennomført. Kongen skal gjere vedtak om at foretaket i så fall skal betale ei løpande tvangsmulkt til staten frå ein frist som blir sett og fram til forholdet er retta.
 
-> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 144. Avvikling av foretaket
 
@@ -1268,7 +1270,7 @@ Skadebotansvar etter [§ 153](lov/2007-06-29-81/§153) kan lempast etter [skades
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom foretaket og nokon som er nemnd i [§ 153](lov/2007-06-29-81/§153), som regulerer eller avgrensar skadebotansvaret deira.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 156. Krav på vegner av foretaket
 
