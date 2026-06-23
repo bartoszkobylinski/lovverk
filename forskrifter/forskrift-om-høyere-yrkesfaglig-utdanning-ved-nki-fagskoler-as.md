@@ -4,18 +4,18 @@ slug: "forskrift-om-høyere-yrkesfaglig-utdanning-ved-nki-fagskoler-as"
 type: "forskrift"
 ref_id: "forskrift/2019-11-18-2264"
 title: "Forskrift om høyere yrkesfaglig utdanning ved NKI Fagskoler AS"
-short_title: "Forskrift om høyere yrkesfaglig utdanning ved NKI Fagskoler AS"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2020-01-01"
 last_change_in_force: "2021-05-01"
 last_updated: null
-xml_hash: "4ecec6f8b9810c153cce518fc5bb1ceb445307ea757fc29d0c59f33f3b4e295a"
+xml_hash: "748a77bcd665f8528b5e4abd83c190a62c6fc990e6202537d951afb031e5415f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
