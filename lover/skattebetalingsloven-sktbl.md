@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-01"
-xml_hash: "d0dc89e2dc6475a9b6f9fbaecfac3aa42c8c07e479282a6ce292b36b2c3cb6b6"
+xml_hash: "844da44327fc21a040bb808ec663ceec5b1bb586e639c9e23b44f472bf206b5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -794,9 +794,7 @@ Suppleringsskatt forfaller til betaling tre uker etter leveringsfrist for skatte
 
 (6) Avgiftsmyndigheten kan kreve at den avgiftspliktige stiller sikkerhet for avgiften.
 
-> Tilføyd ved [lov 9 des 2005 nr. 115](lov/2005-12-09-115), endret ved lover [12 des 2008 nr. 100](lov/2008-12-12-100) (med virkning for arv og gave hvor rådigheten erverves av mottaker 1 jan 2009 eller senere), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved [lov 18 des 2020 nr. 149](lov/2020-12-18-149)).
-
-> **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer, blir § 10-41).
+> Tilføyd ved [lov 9 des 2005 nr. 115](lov/2005-12-09-115), endret ved lover [12 des 2008 nr. 100](lov/2008-12-12-100) (med virkning for arv og gave hvor rådigheten erverves av mottaker 1 jan 2009 eller senere), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved [lov 18 des 2020 nr. 149](lov/2020-12-18-149)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer, blir § 10-41).
 
 ### Innenlands særavgifter, tollavgift og merverdiavgift og særavgifter som oppstår ved innførsel
 
