@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "4b5c9bcffb3af0e732665b378e5489adbbee040a05348c1d5620fafc1d30e82a"
+xml_hash: "60f1d8dda4c5d97f764a39caa1882c3a26e10456d1e871f4e1d00013b3802736"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32022R2554"
@@ -40,7 +40,7 @@ eu_basis:
 
 (2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## § 3. Tilsyn mv.
 
@@ -52,7 +52,7 @@ eu_basis:
 
 (4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorgan i henhold til DORA-forordningen artikkel 26.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## § 4. Overtredelsesgebyr
 
