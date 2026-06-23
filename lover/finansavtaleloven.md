@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2022-02-24"
-xml_hash: "bcadf63ccfbb35c363edbad2dd0ac95a4f84a54247e210fcdad35ad149a64f14"
+xml_hash: "11ffc1bbb603ef35fe87fe820ef12976d1c26cb4d4ad3ee4dbf7cbae7d013de0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -308,7 +308,7 @@ Når pengekravet er tilbakebetalt eller på annen måte falt bort, skal kreditor
 
 (7) Kongen kan i forskrift fastsette nærmere regler om tjenesteyterens plikter etter første til femte ledd, herunder krav til faglige kvalifikasjoner for virksomheten og ansatte i virksomheten, krav om dokumentasjon av kvalifikasjonene og regler om tilsyn med disse kravene.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-2. Elektroniske meldinger, varsler og skriftlig dokument
 
@@ -498,7 +498,7 @@ En tjenesteyter som tilbyr en kunde å inngå finansavtale ved bruk av elektroni
 
 (6) Kongen kan i forskrift gi nærmere regler om opplysningsplikt for visse avtaler eller finansielle tjenester som helt eller delvis fraviker opplysningsplikten i første ledd.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-23. Hvordan opplysningene skal gis
 
@@ -782,7 +782,7 @@ Ved finansoppdrag som nevnt i [§ 3-22](lov/2020-12-18-146/§3-22) annet ledd bo
 
 (3) Med finansmegler menes en tjenesteyter som formidler finansielle tjenester som et uavhengig mellomledd og ikke påtar seg å fremme noen av partenes interesser særskilt.
 
-> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 3-57. Krav til finansmegleres uavhengighet mv.
 
@@ -1526,7 +1526,7 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket
 
 (4) Kredittyteren kan hindre at kausjonisten trer inn i kredittavtalen ved å frita kausjonisten for kausjonsansvaret i samme utstrekning som innfrielsen ville ha fritatt kausjonisten for videre ansvar.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-10. Kausjonens forfall mv.
 
