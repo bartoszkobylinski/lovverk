@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-12-17"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "1e8c6a6a8f3efad415511ec53c042a065ebc26963b7d91b0c2aa456806169d1f"
+xml_hash: "3b0065baa7828997a8d77061a145b0f4004f59bf6970bdb298b9007e46438b13"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ En person har lovlig adgang til brukerromsordningens tjenester når han eller hu
 
 For å bli registrert som bruker av ordningen, må en person halangvarig narkotikaavhengighet og en helseskadelig injeksjonspraksis, ogha fylt 18 år.
 
-> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 2), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 2), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019). **Endres** ved forskrift [19 juni 2026 nr. 1149](forskrift/2026-06-19-1149) (i kraft 1 juli 2026).
 
 ## § 2. Håndheving av adgangskriteriene og krav til dokumentasjon
 
@@ -68,7 +68,7 @@ Ved lokaliseringen av brukerromsordningen, skal det tas hensyn til avstanden til
 
 Ved fastsettelsen av åpningstider og utformingen av brukerromsordningens lokaler, skal det tas hensyn til brukernes behov.
 
-> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 6), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 6), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025). **Endres** ved forskrift [19 juni 2026 nr. 1149](forskrift/2026-06-19-1149) (i kraft 1 juli 2026).
 
 ## § 6. Personalet
 
@@ -82,7 +82,7 @@ Brukerromsordningen skal være tilstrekkelig bemannet til samtidig å kunne fore
 
 Departementet kan gjøre unntak fra kravene i første og fjerde ledd når dette kan begrunnes i unntak etter [§ 5 andre ledd](forskrift/2004-12-17-1661/§5/ledd/2).
 
-> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 7), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 7), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019), [20 juni 2025 nr. 1137](forskrift/2025-06-20-1137) (i kraft 1 juli 2025). **Endres** ved forskrift [19 juni 2026 nr. 1149](forskrift/2026-06-19-1149) (i kraft 1 juli 2026).
 
 ## § 7. Plikt til å føre journal i brukerromsordningen
 
@@ -96,7 +96,7 @@ Det er ikke plikt til å føre journal for helsehjelp som nevnt i [§ 5](forskri
 
 Kommunen kan behandle helseopplysninger som er nødvendig for å oppfylle regler gitt i brukerromsloven eller forskriften her, jf. [brukerromsloven § 5](lov/2004-07-02-64/§5). Kommunen kan ikke registrere andre helseopplysninger enn brukerens navn, eventuelt kombinert med bilde, alder, kjønn, bosted og tidspunkt for bruk av injiseringsrommet eller inhaleringsrommet.
 
-> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 10), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 10), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019). **Endres** ved forskrift [19 juni 2026 nr. 1149](forskrift/2026-06-19-1149) (i kraft 1 juli 2026).
 
 ## § 9. Formål med behandlingen av helseopplysningene
 
@@ -104,7 +104,7 @@ Formålet med behandlingen av helseopplysningene er åholde oversikt over bruker
 
 Dersom personalet er i tvil om en person er registrert bruker av ordningens tjenester, kan personalet innhente opplysning om dette fra registeret, jf. første ledd bokstav a. Opplysninger fra registeret til bruk for kommunens planlegging, tilrettelegging og drift av brukerromsordningen, jf. første ledd bokstav b, skal behandles uten individualiserende kjennetegn.
 
-> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 11), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019).
+> Endret ved [forskrifter 26 juni 2009 nr. 872](forskrift/2009-06-26-872) (i kraft 17 des 2009, tidligere § 11), [20 des 2018 nr. 2061](forskrift/2018-12-20-2061) (i kraft 1 jan 2019). **Endres** ved forskrift [19 juni 2026 nr. 1149](forskrift/2026-06-19-1149) (i kraft 1 juli 2026).
 
 ## § 10. Sletting av helseopplysninger
 
