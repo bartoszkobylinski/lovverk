@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2023-06-01"
 last_updated: "2021-06-21"
-xml_hash: "a3b0bf698ac20cf584eda581da83b1af6749af3386e58d83cddd3d3be1f7e54c"
+xml_hash: "b9cbd9fe2a30fbbbe02fb648c81b0758fe58a35a47c0fd97ca2eeba6cc952b40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ eu_basis: []
 
 (3) Bankenes sikringsfond skal yte bistand til Finanstilsynet etter [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) tredje ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ## § 3. Styret
 
