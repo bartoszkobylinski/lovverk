@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-11-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2023-02-02"
-xml_hash: "3ef2ac40e4f344e183820918f44328ff543ef487d6846b428649cb99ceb54046"
+xml_hash: "b6e1db283ce0082c578d670fe843c8654b9acc4d77d4783ee6e0be7d838a32c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -516,7 +516,7 @@ Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](
 
 (7) Departementet kan i forskrift fastsette nærmere regler om informasjon til aksjeeier.
 
-> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 5-10. Informasjon til långivere mv.
 
@@ -794,7 +794,7 @@ Aksjeeiere som forsømmer sin tilbudsplikt etter [§ 6-1](lov/2007-06-29-75/§6-
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her og i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene gjennomført i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.
 
-> Endret ved lover [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802), kap endret i sin helhet), [22 des 2021 nr. 162](lov/2021-12-22-162) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 551](forskrift/2022-04-08-551)), [31 mars 2023 nr. 4](lov/2023-03-31-4) (i kraft 1 juni 2023 iflg. [res. 21 april 2023 nr. 525](forskrift/2023-04-21-525)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 21 juli 2019 iflg. [res. 21 juni 2019 nr. 802](forskrift/2019-06-21-802), kap endret i sin helhet), [22 des 2021 nr. 162](lov/2021-12-22-162) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 551](forskrift/2022-04-08-551)), [31 mars 2023 nr. 4](lov/2023-03-31-4) (i kraft 1 juni 2023 iflg. [res. 21 april 2023 nr. 525](forskrift/2023-04-21-525)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 7-2. Anvendelse på egenkapitalbevis
 
@@ -1035,7 +1035,7 @@ ellerden som yter investeringstjenester, unntatt handel for egen regning, i vare
 
 (4) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 feb 2023 iflg. [res. 13 jan 2023 nr. 42](forskrift/2023-01-13-42)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [22 juni 2022 nr. 79](lov/2022-06-22-79) (i kraft 1 feb 2023 iflg. [res. 13 jan 2023 nr. 42](forskrift/2023-01-13-42)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 9-4. Lovens anvendelse for kredittinstitusjoner
 
@@ -3134,7 +3134,7 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 15-8), [21 juni 2019 nr. 41](lov/2019-06-21-41)(ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 15-8), [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 aug 2024 iflg. res. [25. juni 2024 nr. 1214](forskrift/2024-06-25-1214)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19-9. Midlertidig forbud mot medlemskap på regulert marked mv.
 
