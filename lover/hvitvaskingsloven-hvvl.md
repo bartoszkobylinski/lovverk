@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-15"
 last_change_in_force: "2025-07-01"
 last_updated: "2023-06-15"
-xml_hash: "83f677377f7d31be1ba70c101afb7b905265406dd9bb6db7e9807e343bad90ff"
+xml_hash: "9acfaf0753d363db347c4f24b461428fe298ce94b4d94522273ec24b266951d0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32015L0849"
@@ -60,7 +60,7 @@ I denne loven forstås med:hvitvasking: handling som beskrevet i [straffeloven �
 
 (7) Departementet kan i forskrift gjøre unntak fra bestemmelsene i loven for rapporteringspliktige som driver sporadisk eller svært begrenset finansiell aktivitet og for tilbydere av spilltjenester.
 
-> Endret ved lover [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [16 des 2022 nr. 90](lov/2022-12-16-90) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2255](forskrift/2022-12-16-2255)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 jan 2025 iflg. [res. 25 juni 2024 nr. 1214](forskrift/2024-06-25-1214)), [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)), [20 juni 2025 nr. 47](lov/2025-06-20-47) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1110](forskrift/2025-06-20-1110)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [16 des 2022 nr. 90](lov/2022-12-16-90) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2255](forskrift/2022-12-16-2255)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)), [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 jan 2025 iflg. [res. 25 juni 2024 nr. 1214](forskrift/2024-06-25-1214)), [27 mai 2025 nr. 19](lov/2025-05-27-19) (i kraft 1 juli 2025 iflg. [res. 27 mai 2025 nr. 869](forskrift/2025-05-27-869)), [20 juni 2025 nr. 47](lov/2025-06-20-47) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1110](forskrift/2025-06-20-1110)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ## Kapittel 2. Beløpsgrense for kontantvederlag
 
