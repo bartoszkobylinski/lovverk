@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-22"
-xml_hash: "a2243e6270d806f54e6c0a19aa95580bfdec3599ce3699a82f50b2a458d462e2"
+xml_hash: "d1a58b1b9fa9d1c6507e287fd13df8fd14994a9b07bdcbc820795c0e2014fa1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -310,6 +310,8 @@ Reglene i dette kapittel gjelder ansvarlige selskaper og kommandittselskaper ett
 
 Selskapets fordringshavere har fortrinnsrett til dekning av selskapsmidlene. Særskilt gjeldsforhandling og konkurs kan åpnes i selskapets bo.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 4-3. De særlige fordringshaveres dekningsrett.
 
 Et selskapsmedlems særlige fordringshavere kan bare kreve dekning i det som medlemmet har rett til å kreve av selskapet som andel i overskudd og i den andel medlemmet kan kreve ved oppløsning av selskapet eller når medlemmet blir utløst av de andre medlemmer.
@@ -514,7 +516,7 @@ Skyldnerens avtaler løper videre etter åpning av gjeldsforhandling. Åpningen 
 
 Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsmannen eller tingretten før åpningen av gjeldsforhandlingen.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7-4. Virkningen av at konkursboet trer inn.
 
