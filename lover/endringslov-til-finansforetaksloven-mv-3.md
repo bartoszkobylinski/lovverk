@@ -8,14 +8,14 @@ short_title: "Endringslov til finansforetaksloven mv."
 language: "nb"
 ministry:
   - "Finansdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "82286fe4d656f74e9b289e73b26a25f726eabeba1ab9da76d7df093160cbf0f0"
+xml_hash: "abfa4ef5e990f755aa7e31d0270a84fd5db7d4307b2bef3382010d4d54b9ccd1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32024L1619"
@@ -98,7 +98,7 @@ hvem som skal inngå i ledelsen av virksomheten ved filialen,
 
 (3) Bestemmelsene i første og annet ledd gjelder tilsvarende for datterforetak av finansinstitusjon som nevnt i første ledd.
 
-For filial som etter reglene i [§§ 5-2](lov/2015-04-10-17/§5-2) og [5-3](lov/2015-04-10-17/§5-3) driver virksomhet her i riket, gjelder [kapittel 1](lov/2015-04-10-17/kap1) samt bestemmelsene i [§§ 2-19](lov/2015-04-10-17/§2-19) til [2-22](lov/2015-04-10-17/§2-22), [§ 9-1 annet](lov/2015-04-10-17/§9-1/ledd/2) og [tredje ledd](lov/2015-04-10-17/§9-1/ledd/3), [§ 9-2](lov/2015-04-10-17/§9-2), [§§ 9-4](lov/2015-04-10-17/§9-4) til [9-6](lov/2015-04-10-17/§9-6), [§ 12-27](lov/2015-04-10-17/§12-27), § 12-29, [§ 13-5 fjerde ledd](lov/2015-04-10-17/§13-5/ledd/4), [§ 13-7 første ledd](lov/2015-04-10-17/§13-7/ledd/1), [§ 13-17](lov/2015-04-10-17/§13-17), [kapittel 16](lov/2015-04-10-17/kap16), [§ 17-11 sjette ledd](lov/2015-04-10-17/§17-11/ledd/6), [§ 17-12](lov/2015-04-10-17/§17-12), [§ 17-13 første](lov/2015-04-10-17/§17-13/ledd/1) og [tredje ledd](lov/2015-04-10-17/§17-13/ledd/3), [§ 19-2](lov/2015-04-10-17/§19-2), [§ 20A-3 annet ledd](lov/2015-04-10-17/§20A-3/ledd/2), [§ 21-7 annet ledd](lov/2015-04-10-17/§21-7/ledd/2), [§§ 22-1](lov/2015-04-10-17/§22-1) til [22-3](lov/2015-04-10-17/§22-3) og [§§ 22-5](lov/2015-04-10-17/§22-5) til [22-7](lov/2015-04-10-17/§22-7).
+For filial som etter reglene i [§§ 5-2](lov/2015-04-10-17/§5-2) og [5-3](lov/2015-04-10-17/§5-3) driver virksomhet her i riket, gjelder [kapittel 1](lov/2015-04-10-17/kap1) samt bestemmelsene i [§§ 2-19](lov/2015-04-10-17/§2-19) til [2-22](lov/2015-04-10-17/§2-22), [§ 9-1 annet](lov/2015-04-10-17/§9-1/ledd/2) og [tredje ledd](lov/2015-04-10-17/§9-1/ledd/3), [§ 9-2](lov/2015-04-10-17/§9-2), [§§ 9-4](lov/2015-04-10-17/§9-4) til [9-6](lov/2015-04-10-17/§9-6), [§ 12-27](lov/2015-04-10-17/§12-27), [§ 12-29](lov/2015-04-10-17/§12-29), [§ 13-5 fjerde ledd](lov/2015-04-10-17/§13-5/ledd/4), [§ 13-7 første ledd](lov/2015-04-10-17/§13-7/ledd/1), [§ 13-17](lov/2015-04-10-17/§13-17), [kapittel 16](lov/2015-04-10-17/kap16), [§ 17-11 sjette ledd](lov/2015-04-10-17/§17-11/ledd/6), [§ 17-12](lov/2015-04-10-17/§17-12), [§ 17-13 første](lov/2015-04-10-17/§17-13/ledd/1) og [tredje ledd](lov/2015-04-10-17/§17-13/ledd/3), [§ 19-2](lov/2015-04-10-17/§19-2), [§ 20A-3 annet ledd](lov/2015-04-10-17/§20A-3/ledd/2), [§ 21-7 annet ledd](lov/2015-04-10-17/§21-7/ledd/2), [§§ 22-1](lov/2015-04-10-17/§22-1) til [22-3](lov/2015-04-10-17/§22-3) og [§§ 22-5](lov/2015-04-10-17/§22-5) til [22-7](lov/2015-04-10-17/§22-7).
 
 (2) Første ledd gjelder tilsvarende for finansinstitusjon som oppfyller vilkårene i [§ 5-3](lov/2015-04-10-17/§5-3) for å kunne drive virksomhet her i riket gjennom filial, og for datterforetak av slik finansinstitusjon.
 
@@ -130,7 +130,7 @@ Bestemmelsene i [forsikringsformidlingsloven § 8-6](lov/2021-12-22-163/§8-6) o
 
 (2) Meldingen skal også inneholde de opplysninger som vil være av betydning ved vurderingen av om tillatelse skal gis.
 
-(3) Departementet fastsetter nærmere regler om behandlingen av meldinger etter [§ 6-1](lov/2015-04-10-17/§6-1) i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med meldingen om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov/2015-04-10-17/§17-3) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov/2015-04-10-17/§17-3a), samt om samordning av frister dersom et erverv også er meldepliktig etter § 13-11 a.
+(3) Departementet fastsetter nærmere regler om behandlingen av meldinger etter [§ 6-1](lov/2015-04-10-17/§6-1) i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med meldingen om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov/2015-04-10-17/§17-3) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov/2015-04-10-17/§17-3a), samt om samordning av frister dersom et erverv også er meldepliktig etter [§ 13-11 a](lov/2015-04-10-17/§13-11a).
 
 (3) Departementet kan nekte ervervet hvis erverver er hjemmehørende i et tredjeland som er listeført som et høyrisikoland med strategiske mangler i regimet for bekjempelse av hvitvasking og terrorfinansiering, jf. forskrift med hjemmel i [hvitvaskingsloven § 17 tredje ledd](lov/2018-06-01-23/§17/ledd/3), eller i et tredjeland omfattet av restriktive tiltak gjennomført i norsk rett og dette etter departementets vurdering påvirker erververs mulighet til å følge krav i hvitvaskingsregelverket.
 
@@ -142,7 +142,7 @@ Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprett
 
 (2) Daglig leder kan ikke være medlem av styret. Styreleder og til sammen minst to tredeler av styret skal ikke være ansatt i foretaket eller i foretak i samme konsern. Styret i en pensjonskasse skal ha minst ett medlem uten annen tilknytning til arbeidsgiver, foretak eller forening med pensjonsordning i pensjonskassen, samt ett medlem som representerer medlemmer, herunder pensjonister, i pensjonsordningen i pensjonskassen.
 
-(3) Styrets leder og de øvrige medlemmene velges av generalforsamlingen når annet ikke følger av § 8-4 a eller av [§ 8-15](lov/2015-04-10-17/§8-15). Departementet kan i forskrift fastsette krav om at generalforsamlingen i nærmere angitte foretak skal oppnevne en valgkomité som skal forberede valget, hvem som kan oppnevnes, og nærmere regler om valgkomiteens arbeid. Vedtektene skal inneholde regler om valget.
+(3) Styrets leder og de øvrige medlemmene velges av generalforsamlingen når annet ikke følger av [§ 8-4 a](lov/2015-04-10-17/§8-4a) eller av [§ 8-15](lov/2015-04-10-17/§8-15). Departementet kan i forskrift fastsette krav om at generalforsamlingen i nærmere angitte foretak skal oppnevne en valgkomité som skal forberede valget, hvem som kan oppnevnes, og nærmere regler om valgkomiteens arbeid. Vedtektene skal inneholde regler om valget.
 
 (4) [Allmennaksjeloven §§ 6-6](lov/1997-06-13-45/§6-6) til [6-11 a](lov/1997-06-13-45/§6-11a) gjelder for øvrig tilsvarende for foretak som ikke er organisert som aksjeselskap eller allmennaksjeselskap.
 
@@ -242,7 +242,7 @@ Bestemmelsen i § 8-4 a annet ledd gjelder ikke datterforetak i finanskonsern de
 
 (3) Følgende transaksjoner omfattes ikke av meldeplikten etter første ledd:overføring av misligholdte lånlån som overføres til kredittforetak for å inngå i sikkerhetsmassen etter reglene om obligasjoner med fortrinnsrett i [kapittel 11 avsnitt II](lov/2015-04-10-17/KAPITTEL_11-2)lån som overføres til spesialforetak for verdipapirisering etter [finansforetaksloven kapittel 11 avsnitt III](lov/2015-04-10-17/KAPITTEL_11-3)transaksjoner i forbindelse med krisetiltak etter [§ 20-19 første ledd bokstav a](lov/2015-04-10-17/§20-19/ledd/1/bokstav/a) til [c](lov/2015-04-10-17/§20-19/ledd/1/bokstav/c).
 
-(3) Bestemmelsene i § 12-1 b gjelder tilsvarende.
+(3) Bestemmelsene i [§ 12-1 b](lov/2015-04-10-17/§12-1b) gjelder tilsvarende.
 
 (4) Departementet kan fastsette nærmere regler om behandlingen av meldinger etter første ledd i forskrift.
 
@@ -266,9 +266,9 @@ Ved vurderingen av risiko knyttet til virksomheten og samlet risikoeksponering s
 
 (4) Meldeplikten gjelder ikke erverv som omfattes av [§ 13-2 annet ledd](lov/2015-04-10-17/§13-2/ledd/2).
 
-(1) Melding etter § 13-11 a skal angi størrelsen på eierandelen og inneholde de opplysningene som er nødvendige for at Finanstilsynet kan vurdere ervervet.
+(1) Melding etter [§ 13-11 a](lov/2015-04-10-17/§13-11a) skal angi størrelsen på eierandelen og inneholde de opplysningene som er nødvendige for at Finanstilsynet kan vurdere ervervet.
 
-(2) Departementet kan i forskrift fastsette regler om krav til innholdet i meldingen. Departementet fastsetter nærmere regler om behandlingen av meldinger etter § 13-11 a i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med melding om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov/2015-04-10-17/§17-3) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov/2015-04-10-17/§17-3a), samt om samordning av frister dersom et erverv også er meldepliktig etter [§ 6-1](lov/2015-04-10-17/§6-1).
+(2) Departementet kan i forskrift fastsette regler om krav til innholdet i meldingen. Departementet fastsetter nærmere regler om behandlingen av meldinger etter [§ 13-11 a](lov/2015-04-10-17/§13-11a) i forskrift, herunder frist for å bekrefte mottak, frist for behandling, regler om fristavbrytelse dersom det samtidig med melding om ervervet søkes om tillatelse til å etablere holdingforetak i finanskonsern etter [§ 17-3](lov/2015-04-10-17/§17-3) eller om å få unntak fra kravet til slik tillatelse etter [§ 17-3 a](lov/2015-04-10-17/§17-3a), samt om samordning av frister dersom et erverv også er meldepliktig etter [§ 6-1](lov/2015-04-10-17/§6-1).
 
 (3) Hvis Finanstilsynet ikke skriftlig har nektet ervervet innen utløpet av saksbehandlingsfristen som fastsatt i forskrift, kan ervervet gjennomføres i samsvar med meldingen.
 
@@ -362,13 +362,13 @@ Omorganiseringsplanen skal gi en redegjørelse for tiltak som kan gjenopprette d
 
 (3) Eierandel ervervet i strid med regler om eierkontroll skal umiddelbart tvangsselges. Det samme gjelder dersom en tillatelse er tilbakekalt etter [§ 6-4 sjette ledd](lov/2015-04-10-17/§6-4/ledd/6). [Tvangsfullbyrdelsesloven § 10-6](lov/1992-06-26-86/§10-6) jf. [§ 8-16](lov/1992-06-26-86/§8-16), kommer ikke til anvendelse. Det kan ikke utøves stemmerett for slike eierandeler. Dersom departementet har grunn til å anta at en eier av en kvalifisert eierandel i et finansforetak utviser eller vil utvise handlemåte som vil være i strid med forsvarlig og betryggende forvaltning av finansforetaket, kan departementet treffe vedtak om pålegg eller forbud etter reglene i første og annet ledd, herunder at det ikke kan utøves stemmerett for eierandelene. Det samme gjelder dersom en tillatelse er tilbakekalt etter [§ 6-4 sjette ledd](lov/2015-04-10-17/§6-4/ledd/6).
 
-(4) Dersom et foretak som nevnt i § 13-11 a første ledd unnlater å underrette om planlagt erverv av vesentlig kapitalandel etter reglene i §§ 13-11 a og 13-11 b, eller har ervervet en vesentlig kapitalandel til tross for at Finanstilsynet har nektet dette, kan Finanstilsynet treffe egnede tiltak, herunder beslutte at stemmeretter ikke kan utøves.
+(4) Dersom et foretak som nevnt i § 13-11 a første ledd unnlater å underrette om planlagt erverv av vesentlig kapitalandel etter reglene i [§§ 13-11 a](lov/2015-04-10-17/§13-11a) og [13-11 b](lov/2015-04-10-17/§13-11b), eller har ervervet en vesentlig kapitalandel til tross for at Finanstilsynet har nektet dette, kan Finanstilsynet treffe egnede tiltak, herunder beslutte at stemmeretter ikke kan utøves.
 
 (1) Dersom et holdingforetak i finanskonsern er etablert i strid med [§ 17-3](lov/2015-04-10-17/§17-3), eller ikke lenger fyller vilkårene for å få tillatelse til å være holdingforetak i finanskonsern etter [§ 17-5 tredje ledd](lov/2015-04-10-17/§17-5/ledd/3), kan Finanstilsynet anvende ett eller flere av følgende virkemidler overfor holdingforetaket:pålegge foretaket å ikke utøve stemmerett til aksjer i datterforetak som er kredittinstitusjon eller verdipapirforetakpålegge foretaket å overføre aksjene i datterforetak, som er kredittinstitusjon eller verdipapirforetak, til foretakets aksjeeiereutpeke et annet holdingforetak, eller en annen kredittinstitusjon i konsernet som ansvarlig for overholdelse av soliditets- og sikkerhetskrav på konsolidert nivåpålegge foretaket å begrense utbetaling av utbytte til aksjeeiere, eller forby slik utbetalingpålegge foretaket å selge, eller selge seg ned i, kredittinstitusjon, verdipapirforetak eller andre foretak i finansiell sektorpålegge foretaket å legge frem en plan for overholdelse av krav som gjelder for foretaket.
 
 (2) Finanstilsynet skal ved bruk av virkemidler overfor holdingforetak i blandede konsern ta særlig hensyn til virkningene for konsernet.
 
-(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [kapittel 2](lov/2015-04-10-17/kap2), [§ 3-5](lov/2015-04-10-17/§3-5), [§ 6-1](lov/2015-04-10-17/§6-1), [§ 6-2](lov/2015-04-10-17/§6-2), [§ 6-5](lov/2015-04-10-17/§6-5), [§ 10-6](lov/2015-04-10-17/§10-6), [§§ 11-6](lov/2015-04-10-17/§11-6) til [11-13](lov/2015-04-10-17/§11-13), [§ 12-1](lov/2015-04-10-17/§12-1), [§ 12-27](lov/2015-04-10-17/§12-27), § 12-29, [§ 13-5](lov/2015-04-10-17/§13-5), [§ 13-7](lov/2015-04-10-17/§13-7), [§ 13-8](lov/2015-04-10-17/§13-8), [§ 13-10](lov/2015-04-10-17/§13-10), § 13-11 a, [§ 13-12](lov/2015-04-10-17/§13-12), [§ 14-3 sjette ledd](lov/2015-04-10-17/§14-3/ledd/6), [§ 14-5](lov/2015-04-10-17/§14-5), [§ 14-12](lov/2015-04-10-17/§14-12), [kapittel 15](lov/2015-04-10-17/kap15), [§ 16-1](lov/2015-04-10-17/§16-1), [§ 16-8](lov/2015-04-10-17/§16-8), [§ 17-3](lov/2015-04-10-17/§17-3), [§ 20-5](lov/2015-04-10-17/§20-5), [§ 20-6](lov/2015-04-10-17/§20-6), [§ 20-8](lov/2015-04-10-17/§20-8), [§ 20-13 første](lov/2015-04-10-17/§20-13/ledd/1) og [tredje ledd](lov/2015-04-10-17/§20-13/ledd/3) og forskrifter gitt til utfylling av disse bestemmelsene.
+(1) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av [kapittel 2](lov/2015-04-10-17/kap2), [§ 3-5](lov/2015-04-10-17/§3-5), [§ 6-1](lov/2015-04-10-17/§6-1), [§ 6-2](lov/2015-04-10-17/§6-2), [§ 6-5](lov/2015-04-10-17/§6-5), [§ 10-6](lov/2015-04-10-17/§10-6), [§§ 11-6](lov/2015-04-10-17/§11-6) til [11-13](lov/2015-04-10-17/§11-13), [§ 12-1](lov/2015-04-10-17/§12-1), [§ 12-27](lov/2015-04-10-17/§12-27), [§ 12-29](lov/2015-04-10-17/§12-29), [§ 13-5](lov/2015-04-10-17/§13-5), [§ 13-7](lov/2015-04-10-17/§13-7), [§ 13-8](lov/2015-04-10-17/§13-8), [§ 13-10](lov/2015-04-10-17/§13-10), [§ 13-11 a](lov/2015-04-10-17/§13-11a), [§ 13-12](lov/2015-04-10-17/§13-12), [§ 14-3 sjette ledd](lov/2015-04-10-17/§14-3/ledd/6), [§ 14-5](lov/2015-04-10-17/§14-5), [§ 14-12](lov/2015-04-10-17/§14-12), [kapittel 15](lov/2015-04-10-17/kap15), [§ 16-1](lov/2015-04-10-17/§16-1), [§ 16-8](lov/2015-04-10-17/§16-8), [§ 17-3](lov/2015-04-10-17/§17-3), [§ 20-5](lov/2015-04-10-17/§20-5), [§ 20-6](lov/2015-04-10-17/§20-6), [§ 20-8](lov/2015-04-10-17/§20-8), [§ 20-13 første](lov/2015-04-10-17/§20-13/ledd/1) og [tredje ledd](lov/2015-04-10-17/§20-13/ledd/3) og forskrifter gitt til utfylling av disse bestemmelsene.
 
 (2) Finanstilsynet kan ilegge overtredelsesgebyr ved overtredelse av kapitalkravsforordningen artikkel 92 nr. 1, artikkel 430 nr. 1 til 3, artikkel 430a, artikkel 431 nr. 1 til 3 og artikkel 451 nr. 1 samt kapitalkravsforordningen andre del, tredje del avdeling II til VI, fjerde del, sjette del avdeling I og IV og syvende del, og forskrifter gitt til utfylling av disse bestemmelsene.
 
@@ -532,5 +532,5 @@ Departementet kan i forskrift gi regler som utfyller reglene i paragrafen her.
 
 ## XIX
 
-1. Loven gjelder fra den tid Kongen bestemmer. Bestemmelsene kan settes i kraft til ulik tid.
+1. Loven gjelder fra den tid1 Kongen bestemmer. Bestemmelsene kan settes i kraft til ulik tid.
 2. Departementet kan gi overgangsregler.
