@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "8a92dcc5b51a4cfa02e0b1b0cc6318f0ca1ff8eebec3c8ee3964ddd32765c1c7"
+xml_hash: "37a99017acfdb7829973756d3f9fc44c4c16b549241a4a0893e13d98d1e167ab"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ Opplysninger som behandles etter annet ledd i bestemmelsen her, skal holdes atsk
 
 Ansiktsbilder og fingeravtrykk skal slettes i form av tilintetgjøring, jf. [arkivlova § 13 annet ledd](lov/2025-06-20-96/§13/ledd/2).
 
-behandling av personopplysninger, herunder om innsyn, retting og sletting, behandling av opplysninger i forbindelse med testing og utvikling, samt behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. [§§ 22](lov/2018-04-20-8/§25) og 22 a,
+behandling av personopplysninger, herunder om innsyn, retting og sletting, behandling av opplysninger i forbindelse med testing og utvikling, samt behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. [§§ 22](lov/2018-04-20-8/§25) og [22 a](lov/2018-04-20-8/§22a),
 
 ## VI
 
