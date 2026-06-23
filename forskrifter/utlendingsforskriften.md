@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2022-10-20"
-xml_hash: "01b8cfbb9bb3d774781862a8463b32e3e380ef4be0e558020c0ee4612597d905"
+xml_hash: "482eaf6c105eea63bfc46d27f777aa6a3c46f8a509379d3b827bd8ad907001c1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-18T08:43:09.372724+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2501,7 +2501,7 @@ Søkeren skal gis anledning til å forklare seg med egne ord. Intervjueren skal 
 
 Det kan tas lyd- og bildeopptak av samtaler med asylsøkeren. Asylsøkeren skal orienteres om at det tas slike opptak.
 
-> Endret ved [forskrifter 16 des 2013 nr. 1526](forskrift/2013-12-16-1526) (i kraft 1 jan 2014), [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [14 sep 2015 nr. 1047](forskrift/2015-09-14-1047) (i kraft 1 okt 2015), [13 des 2021 nr. 3489](forskrift/2021-12-13-3489) (i kraft 1 jan 2022).
+> Endret ved [forskrifter 16 des 2013 nr. 1526](forskrift/2013-12-16-1526) (i kraft 1 jan 2014), [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [14 sep 2015 nr. 1047](forskrift/2015-09-14-1047) (i kraft 1 okt 2015), [13 des 2021 nr. 3489](forskrift/2021-12-13-3489) (i kraft 1 jan 2022). **Endres** ved forskrift [19 juni 2026 nr. 1132](forskrift/2026-06-19-1132) (i kraft 1 juli 2026).
 
 ### § 17-3. Høring av barn
 
