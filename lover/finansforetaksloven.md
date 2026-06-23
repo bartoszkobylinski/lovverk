@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2016-01-01"
 last_change_in_force: "2025-08-01"
 last_updated: "2025-01-09"
-xml_hash: "3c06cd7e301cc1cc4dea7b7b07667364a9415fc0cb9e06b6d491228688574da5"
+xml_hash: "9f0ce749a0b945a99c396dda0ee14244f0b837941d0ea78d4184cd4452254b6f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -119,7 +119,7 @@ Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-r
 
 (5) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her, herunder fastsette plikter for og regler om tilsyn med foretak som er unntatt fra forbudet i første ledd.
 
-> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 2-2. Innskuddsvirksomhet mv.
 
@@ -471,7 +471,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (3) Departementet kan ved forskrift fastsette nærmere regler for virksomhet som drives av datterforetak av finansforetak hjemmehørende i fremmed stat her i riket, herunder gjøre unntak fra bestemmelser i denne loven.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-2. Filial av kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
 
@@ -485,7 +485,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (5) Departementet kan gi forskrift som utfyller eller gjør unntak fra reglene i paragrafen her for ulike typer finansforetak. Departementet kan herunder gi regler om hva slags virksomhet som er omfattet av retten til å drive virksomhet gjennom filial og om hvilke opplysninger Finanstilsynet skal motta fra tilsynsmyndighetene i foretakets hjemstat.
 
-> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-3. Filial av finansieringsforetak med hovedsete i en annen EØS-stat
 
@@ -555,7 +555,7 @@ Utenlandske finansforetak skal registrere representasjonskontor i Norge hos Fina
 
 Bestemmelsene i [forsikringsformidlingsloven § 5-3](lov/2005-06-10-41/§5-3) om megling av forsikring til utenlandsk forsikringsforetak gjelder tilsvarende for forsikringsforetak.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-10. Nasjonalt kontaktpunkt for agenter av utenlandske betalingsforetak og e-pengeforetak
 
@@ -665,7 +665,7 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (3) Annet ledd første punktum gjelder ikke for statsborgere i stater som er part i EØS-avtalen når de er bosatt i en slik stat, og heller ikke for juridiske personer som nevnt i [EØS-avtalen artikkel 34](lov/1992-11-27-109/eøsl/a34) annet ledd, som er opprettet i samsvar med lovgivningen i en annen EØS-stat, og som har sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedkontor i slik stat.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 7-6. Stiftelse av finansforetak som aksjeselskap eller allmennaksjeselskap
 
@@ -781,7 +781,7 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (3) Styrelederen i morselskap til finansforetaket kan ikke uten samtykke fra Finanstilsynet være medlem av styret i finansforetaket.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-6. Styrets oppgaver og tilsynsansvar
 
@@ -2283,7 +2283,7 @@ I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fasts
 
 (8) Departementet kan gi forskrift om utlevering av opplysninger.
 
-> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 16-3. Behandling av tvister i klageorgan
 
@@ -2783,7 +2783,7 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (6) Kravet om særskilt samtykke fra låntakeren etter [finansavtaleloven § 45](lov/1999-06-25-46/§45) gjelder ikke ved overdragelse eller pantsettelse av lånefordringer til Bankens sikringsfond ved støttetiltak eller yting av kreditt etter paragrafen her.
 
-> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 19-12. Regress
 
@@ -3541,7 +3541,7 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Finanstilsynet kan i forskrift eller ved enkeltvedtak fastsette at foretak etablert utenfor EØS som driver virksomhet her i riket, skal betale bidrag til krisetiltaksfondet, og fastsette bidragene.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 20-52. Bruk av midler
 
