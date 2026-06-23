@@ -4,18 +4,18 @@ slug: "forskrift-om-fagskoleutdanning-ved-medlearn-as"
 type: "forskrift"
 ref_id: "forskrift/2021-11-24-3371"
 title: "Forskrift om fagskoleutdanning ved Medlearn AS"
-short_title: "Forskrift om fagskoleutdanning ved Medlearn AS"
+short_title: null
 language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2022-01-10"
 last_change_in_force: null
 last_updated: null
-xml_hash: "9d9b80cdf1629587ea32687504fe5af73033d0d7d7653c31020f7f2c91814aa5"
+xml_hash: "5bf9e756dcde62172d9636d383e31c98d9df4797f0c8395111e4aa0db84ca540"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
