@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: "2022-04-22"
-xml_hash: "d0bb0d3664d116d18682627203212ea633b7a043c91031332ac735b8883c089b"
+xml_hash: "8cd1cc916345391dd6f5ab4e18ac04920f683039ec20807ad85cd40e39e1f3f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,23 +24,23 @@ eu_basis: []
 
 ## Første del. Gjeldsforhandling.
 
-> **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Første del **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel I. Åpning av gjeldsforhandling.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1. Anvendelsen av lovens regler så lenge rekonstruksjonsloven er i kraft
 
 Når forhandlinger med fordringshaverne skal gjennomføres etter reglene i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19, gjelder den nevnte lovens regler i stedet for reglene i §§ 1 a til 59 i loven her. Så lenge midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 er i kraft, kan det ikke åpnes gjeldsforhandlinger etter §§ 1 a til 59 i loven her, med unntak av tvangsakkord under konkursbehandling når konkurs er åpnet før ikrafttredelsen av midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19.
 
-> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)).
+> Tilføyd ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 1 a. Gjeldsforhandlingens formål.
 
 En skyldner som ikke kan oppfylle sine forpliktelser etter hvert som de forfaller, kan begjære åpnet gjeldsforhandling etter reglene i loven for å forhandle med sine fordringshavere om frivillig gjeldsordning eller tvangsakkord.
 
-> Endret ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947), tidligere § 1).
+> Endret ved [lov 7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947), tidligere § 1). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2. Begjæring om åpning av gjeldsforhandling.
 
@@ -52,7 +52,7 @@ Retten kan kreve at skyldneren gir nærmere opplysninger om ethvert forhold som 
 
 Retten kan i den utstrekning og på den måte den finner hensiktsmessig, innhente opplysninger fra skyldnerens fordringshavere og drøfte skyldnerens begjæring med dem.
 
-> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3. Forskudd, sikkerhet og ansvar for omkostningene ved gjeldsforhandlingen.
 
@@ -62,7 +62,7 @@ Retten kan forlange at skyldneren betaler passende forskudd til dekning av omkos
 
 Omkostninger som skyldneren ikke kan betale, plikter staten å dekke.
 
-> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 4. Tingrettens avgjørelse. Rettsmidler.
 
@@ -74,7 +74,7 @@ Retten treffer sin avgjørelse ved kjennelse. En kjennelse som tar begjæringen 
 
 Blir begjæringen tatt til følge, anses gjeldsforhandlingen for å være åpnet fra det tidspunkt da begjæringen kom inn til retten. I tilfeller som nevnt i [§ 6a](lov/1984-06-08-58/§6a) anses forhandling om tvangsakkord for å være åpnet fra det tidspunkt da begjæringen om forhandling om tvangsakkord kom inn til retten.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 5. Melding ved åpning av gjeldsforhandling.
 
@@ -82,7 +82,7 @@ Blir en begjæring om åpning av gjeldsforhandling tatt til følge, skal retten 
 
 Retten skal straks underrette Norges Bank når den har avsagt kjennelse om åpning av gjeldsforhandling i institusjon som deltar i system som nevnt i [lov om betalingssystemer § 1-1](lov/1999-12-17-95/§1-1) første ledd eller [§ 1-2](lov/1999-12-17-95/§1-2).
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [17 des 1999 nr. 95](lov/1999-12-17-95) (ikr. 14 apr 2000 iflg. [forskr. 13 apr 2000 nr. 324](forskrift/2000-04-13-324)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [17 des 1999 nr. 95](lov/1999-12-17-95) (ikr. 14 apr 2000 iflg. [forskr. 13 apr 2000 nr. 324](forskrift/2000-04-13-324)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6. Offentlighet ved gjeldsforhandling.
 
@@ -90,17 +90,17 @@ Når forhandling om frivillig gjeldsordning er åpnet, skal gjeldsnemnda, hvis i
 
 Rettsmøter som holdes under forhandling om frivillig gjeldsordning eller tvangsakkord er offentlige. I særlige tilfeller kan retten likevel bestemme at rettsmøter under forhandling om frivillig gjeldsordning skal holdes for lukkede dører.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6a. Endring av gjeldsforhandlingen.
 
 Etter at gjeldsforhandling er åpnet, kan skyldneren begjære endring av forhandlingen dersom gjeldsnemnda samtykker. Samtykke er likevel ikke nødvendig ved begjæring om forhandling om tvangsakkord når forslag om frivillig gjeldsordning har fått tilslutning fra fordringshavere som representerer minst 3/4 av det samlede beløp som gir stemmerett. For øvrig gjelder reglene i [§§ 2](lov/1984-06-08-58/§2) og [4](lov/1984-06-08-58/§4) tilsvarende for endringsbegjæringer.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel II. Gjeldsnemnd og revisor.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7. Oppnevnelse av gjeldsnemnd.
 
@@ -112,7 +112,7 @@ Gjeldsnemnda skal bestå av en leder – som regel en advokat – og av fra ett 
 
 Når boet er lite eller retten av andre grunner finner at gjeldsnemndas gjøremål kan utføres av lederen alene, skal retten unnlate å oppnevne flere medlemmer av nemnda.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8. Representant for de ansatte som medlem av gjeldsnemnda.
 
@@ -124,7 +124,7 @@ Retten kan likevel etter en vurdering av boets stilling, utsiktene for videre dr
 
 Kongen kan ved forskrift eller vedtak i det enkelte tilfelle gjøre unntak fra regelen i denne paragraf og gi utfyllende forskrifter, herunder om reglenes anvendelse i konserner og konsernliknende forhold.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 9. Gjeldsnemndas vedtak m m.
 
@@ -136,7 +136,7 @@ Gjeldsnemnda kan i den utstrekning den finner det hensiktsmessig, overlate til l
 
 Retten kan når som helst forlange at gjeldsnemnda og dens medlemmer gir fulle opplysninger om gjeldsforhandlingen.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 10. Overprøving av vedtak.
 
@@ -144,13 +144,13 @@ Retten kan etter begjæring fra skyldneren, en fordringshaver eller et medlem av
 
 Slik begjæring må fremsettes uten ugrunnet opphold. Den som har gjort vedtaket, kan fastsette en frist for å bringe vedtaket inn for retten. Retten kan gi oppfriskning under de samme vilkår som om avgjørelsen var tatt under rettergang.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 11. Oppnevnelse av revisor.
 
 Retten skal, etter innstilling fra gjeldsnemnda, oppnevne en revisor til å foreta revisjon av skyldnerens regnskaper og forretningsførsel, når ikke retten finner det ubetenkelig å overlate revisjonen til et av gjeldsnemndas medlemmer.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 12. Habilitetsregler for medlemmene av gjeldsnemnda og revisor.
 
@@ -160,6 +160,8 @@ Til medlem av gjeldsnemnda eller til revisor bør som regel ikke oppnevnes noen 
 
 Medlem av gjeldsnemnda eller revisor må ikke delta i behandlingen eller avgjørelsen av noe spørsmål som denne har en fremtredende personlig eller økonomisk særinteresse i.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 13. Tilbakekalling av oppnevnelse.
 
 Dersom et medlem av gjeldsnemnda eller revisor senere kommer i en stilling som ville ha utelukket oppnevnelse, kan retten etter begjæring av skyldneren eller av en fordringshaver eller av eget tiltak tilbakekalle oppnevnelsen og oppnevne en annen.
@@ -168,11 +170,11 @@ Det samme gjelder når retten finner at den som er oppnevnt, ikke har vist seg s
 
 Før avgjørelse blir tatt, skal vedkommende få anledning til å uttale seg.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel III. Virkningen av at gjeldsforhandling blir åpnet.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 14. Skyldneren blir undergitt gjeldsnemndas tilsyn.
 
@@ -182,7 +184,7 @@ Skyldneren må ikke uten gjeldsnemndas tillatelse stifte eller fornye gjeld, for
 
 Dersom skyldneren er næringsdrivende og virksomheten skal drives videre under gjeldsforhandlingen, plikter skyldneren å fremlegge et driftsbudsjett og en finansieringsplan for gjeldsnemnda.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 15. Skyldneren er legitimert utad.
 
@@ -190,7 +192,7 @@ Gyldigheten av skyldnerens disposisjoner er i forhold til godtroende tredjeperso
 
 Hvis tredjeperson ikke var i god tro, har vedkommende ikke adgang til å gjøre noe krav gjeldende mot skyldneren eller til å ta imot dekning fra skyldneren før etter at gjeldsforhandlingen er avsluttet, og en vedtatt frivillig gjeldsordning eller tvangsakkord er avviklet eller oppfylt.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 16. Begrensning av adgangen til å åpne konkurs.
 
@@ -204,7 +206,7 @@ Dersom forhandling om tvangsakkord blir besluttet åpnet, kan skyldnerens bo ikk
 
 En konkursbegjæring som fremsettes av minst tre dividendeberettigede fordringshavere hvis fordringer utgjør minst 2/5 av de kjente dividendeberettigede fordringers samlede beløp, kan fremmes uten hinder av bestemmelsene i de foregående ledd. Det samme gjelder en konkursbegjæring som fremsettes etter at gjeldsforhandlingen er rettskraftig innstilt eller avsluttet.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 17. Begrensning av adgangen til å ta utlegg og gjennomføre tvangsdekning. Forholdet til panthaverne.
 
@@ -218,7 +220,7 @@ Skyldneren kan med gjeldsnemndas samtykke avhende varer av pantsatt varelager og
 
 Gjeldsnemnda skal utarbeide en plan for ivaretakelse av panthaverens interesser og kan i den forbindelse bestemme at panthaveren skal motta en andel av vederlaget ved salg som nevnt i fjerde ledd.
 
-> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 mars 1990 nr. 8](lov/1990-03-30-8), [26 juni 1992 nr. 86](lov/1992-06-26-86), [11 juni 1993 nr. 83](lov/1993-06-11-83), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 mars 1990 nr. 8](lov/1990-03-30-8), [26 juni 1992 nr. 86](lov/1992-06-26-86), [11 juni 1993 nr. 83](lov/1993-06-11-83), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 18. Skyldnerens opplysningsplikt.
 
@@ -226,17 +228,17 @@ Skyldneren har plikt til å bistå tingretten, gjeldsnemnda og revisor med å sk
 
 Retten kan der den finner det påkrevd, pålegge skyldneren å gi opplysning som nevnt i første ledd, selv om skyldneren derved må åpenbare en forretnings- eller driftshemmelighet. Retten kan i så fall bestemme at opplysningen bare skal gis til den selv eller til ett eller flere av gjeldsnemndas medlemmer.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 18a. Regnskapsførers og revisors bistandsplikt.
 
 Skyldnerens regnskapsfører og revisor plikter å utlevere til gjeldsnemnda regnskaper og regnskapsmateriale vedrørende skyldneren. Dette gjelder selv om honorar for utført arbeid ikke er betalt. Gjeldsnemndas krav på utlevering er særlig tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13). Regnskapsfører og revisor plikter også vederlagsfritt å bistå gjeldsnemnda med opplysninger om skyldnerens regnskaps- og forretningsførsel. Bistandsplikten etter denne paragrafen kan oppfylles uhindret av eventuell taushetsplikt.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel IV. Gjeldsnemndas gjennomgåelse av skyldnerens formuesforhold.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19. Underretning til fordringshaverne.
 
@@ -244,7 +246,7 @@ Gjeldsnemnda skal uten opphold underrette hver enkelt av skyldnerens kjente ford
 
 Dersom det åpnes forhandling om tvangsakkord uten forutgående forhandling om frivillig gjeldsordning, skal det i underretningen også opplyses om tid og sted for fordringshavermøte, jf. [§ 38a](lov/1984-06-08-58/§38a). Har retten bestemt at det ikke skal holdes fordringshavermøte, skal det opplyses om dette.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 20. Regnskaper og forretningsførsel gjennomgås. Eiendelene verdsettes.
 
@@ -252,7 +254,7 @@ Gjeldsnemnda skal i samarbeid med revisor snarest mulig gjennomgå skyldnerens r
 
 Skyldnerens eiendeler skal verdsettes. Så vidt mulig angis den verdi eiendelene antas å ville ha dersom skyldnerens virksomhet blir fortsatt, og hva eiendelene, samlet eller delt, kan antas å ville innbringe ved salg. Krever verdsettelsen særskilt sakkyndighet, eller vil gjeldsnemnda av andre grunner ikke selv utføre den, kan nemnda tilkalle en eller flere sakkyndige medhjelpere. [§ 12](lov/1984-06-08-58/§12) gjelder tilsvarende for slike medhjelpere.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 21. Gjeldsnemndas redegjørelse.
 
@@ -262,7 +264,7 @@ Dersom særskilt revisor er oppnevnt, vedlegges denne innberetning.
 
 Finner gjeldsnemnda at det kan være grunn til strafforfølgning for forhold som nevnt i første ledd nr. 6, skal redegjørelsen sendes til påtalemyndigheten. Gjeldsnemnda bør i nødvendig utstrekning gi påtalemyndigheten underretning om mulige straffbare forhold også på et tidligere tidspunkt.
 
-> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 22. Utarbeidelse av forslag til frivillig gjeldsordning eller tvangsakkord.
 
@@ -270,11 +272,11 @@ Dersom gjeldsnemnda finner at det er utsikt til at skyldneren vil kunne oppnå f
 
 Dersom gjeldsnemnda finner at det ikke er utsikt til at skyldneren vil kunne oppnå frivillig gjeldsordning eller tvangsakkord, skal gjeldsnemnda gi innberetning til retten om forholdet, jf [§ 57](lov/1984-06-08-58/§57) første ledd nr. 1. Tilsvarende gjelder dersom skyldneren ikke innen rimelig tid har fremsatt forslag til frivillig gjeldsordning eller tvangsakkord.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel V. Frivillig gjeldsordning.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 23. Forslagets innhold.
 
@@ -286,13 +288,15 @@ Følgende fordringer kan imidlertid holdes utenfor ordningen eller, om de medtas
 
 Reglene i annet ledd er ikke til hinder for at enkelte fordringshavere etter samtykke stilles dårligere enn de øvrige fordringshavere.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 24. Utsendelse av forslaget. Svarfrist.
 
 Når skyldneren har utarbeidet et forslag til gjeldsordning, og gjeldsnemnda finner å burde fremme det, skal nemnda sende forslaget til alle fordringshavere hvis fordringer omfattes av det. Med forslaget skal følge:den redegjørelse som er nevnt i [§ 21](lov/1984-06-08-58/§21),skyldnerens erklæring om at alt skyldneren eier og skylder er oppgitt, samtgjeldsnemndas uttalelse om hvorvidt den anbefaler forslaget vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, om de betingelser som nemnda har satt for å anbefale forslaget, samt om hvordan boets stilling antas å ville bli i tilfelle av konkurs.
 
 Fordringshaverne oppfordres samtidig til innen en frist som ikke må settes kortere enn to uker, og ikke lengre enn tre uker, å underrette gjeldsnemnda skriftlig om de vedtar forslaget.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 25. Vedtagelse av forslaget.
 
@@ -302,11 +306,13 @@ Dersom forslaget ved utløpet av fristen etter [§ 24](lov/1984-06-08-58/§24) a
 
 Når det er sendt ut oppfordringer som nevnt i annet ledd, og svarfristen er utløpt uten at noen av fordringshaverne har forkastet forslaget, anses dette for vedtatt dersom det er godtatt av fordringshavere som tilsammen representerer minst 3/4 av det samlede pålydende av de fordringer som forslaget omfatter.
 
-> Endret ved [lov 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)).
+> Endret ved [lov 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 26. Nytt forslag.
 
 Dersom forslaget til frivillig gjeldsordning ikke blir vedtatt, og skyldneren utarbeider et nytt forslag som gjeldsnemnda finner at det er god utsikt til å få vedtatt, skal nemnda sende det til fordringshaverne i samsvar med reglene i [§ 24](lov/1984-06-08-58/§24), men uten de vedlegg som er nevnt i [§ 24](lov/1984-06-08-58/§24) første ledd nr. 1 og 2. Reglene i [§ 25](lov/1984-06-08-58/§25) gjelder tilsvarende. Ytterligere forslag kan ikke fremsettes.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 27. Underretning om vedtatt forslag.
 
@@ -316,7 +322,7 @@ Gjeldsnemnda skal samtidig sende retten:det vedtatte forslag til gjeldsordning, 
 
 Retten skal føre inn forslaget med påtegning i skifteprotokollen, med angivelse av når det kom inn til retten.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 28. Ugyldig moratorium og akkord.
 
@@ -324,7 +330,7 @@ Dersom et frivillig moratorium, en frivillig akkord eller en frivillig likvidasj
 
 En fordringshavers rett etter foregående ledd foreldes ett år fra den dag da han fikk vite om det forhold som ga ham adgang til å angripe gjeldsordningen, men kan ikke i noe tilfelle gjøres gjeldende om retten ikke er erkjent eller gjort gjeldende ved søksmål senest tre år etter at gjeldsforhandlingen er opphørt.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 29. Misligholdt akkord.
 
@@ -332,9 +338,11 @@ Dersom en skyldner har fått frivillig akkord eller frivillig likvidasjonsakkord
 
 Bestemmelsene i første ledd og første og tredje punktum gjelder tilsvarende for fordringshavere som ifølge [§ 28](lov/1984-06-08-58/§28) er ubundet av akkorden.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### Kapittel VI. Tvangsakkord.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 30. Hva en tvangsakkord kan gå ut på.
 
@@ -350,25 +358,27 @@ En tvangsakkord kan gå ut på at enhver fordringshavers samlede tilgodehavende 
 
 En tvangsakkord kan bare gå ut på dekning til etterprioriterte fordringer når de alminnelige fordringshavere er tilsagt full dekning.
 
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+
 ### § 31. Bortfall av pantheftelser.
 
 Ved tvangsakkord bortfaller pantheftelser som ligger utenfor pantets antatte verdi.
 
 Gjeldsnemnda foretar verdsettelsen av pantet. En panthaver med sikkerhet utenfor pantets antatte verdi kan bringe verdsettelsen inn for retten med begjæring om at det avholdes skiftetakst. Kostnadene ved skiftetaksten bæres av panthaveren dersom gjeldsnemndas verdsettelse opprettholdes eller endres med mindre enn 10 prosent. For øvrig gjelder [arveloven § 106](lov/2019-06-14-21/§106) annet til femte ledd tilsvarende. I særlige tilfeller kan retten fravike satsene for godtgjørelse av skjønnsmedlemmer som ellers gjelder ved skiftetakst.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 32. (Opphevet)
 
-> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Tilføyes** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 33. (Opphevet)
 
-> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Tilføyes** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 34. (Opphevet)
 
-> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Opphevet ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Tilføyes** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 35. Kunngjøring av at forhandling om tvangsakkord er åpnet
 
@@ -380,7 +390,7 @@ Har det før forhandlingen om tvangsakkord vært forhandling om frivillig gjelds
 
 Alle som har en rettslig interesse i bobehandlingen, har rett til å gjøre seg kjent med den listen over fordringshavere som var vedlegg til skyldnerens begjæring om åpning av gjeldsforhandling, jf. [§ 2](lov/1984-06-08-58/§2) første ledd tredje punktum nr. 2, og med fordringsanmeldelsene.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 36. Tinglysing m.m. av melding om at forhandling om tvangsakkord er åpnet
 
@@ -388,19 +398,21 @@ Melding om at skyldneren har åpnet forhandling om tvangsakkord, skal på begjæ
 
 Gjeldsnemnda skal videre sende underretning om åpningen av forhandling om tvangsakkord til de banker og tilsvarende institusjoner hvor skyldneren har innskudd.
 
-> Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
+> Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 37. Underretning ved bestridte fordringer
 
 Dersom en anmeldt fordring helt eller delvis blir bestridt, skal gjeldsnemnda uten opphold underrette fordringshaveren og samtidig gjøre vedkommende oppmerksom på reglene i [§ 47](lov/1984-06-08-58/§47) annet ledd. Underretningen skal sendes med rekommandert brev eller ved bruk av elektronisk kommunikasjon hvor det er benyttet en betryggende metode for å sikre at underretningen er mottatt.
 
-> Endret ved [lov 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)).
+> Endret ved [lov 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 38. Omstøtelse.
 
 Dersom skyldnerens disposisjoner er omstøtelige etter [lov om fordringshavernes dekningsrett kapittel 5](lov/1984-06-08-59/kap5), kan omstøtelseskravet gjøres gjeldende av gjeldsnemnda.
 
 Akkorden kan i akkordforslaget gjøres betinget av at søksmål til omstøtelse av skyldnerens disposisjoner skal anlegges eller fortsettes for skyldnerens regning etter gjeldsnemndas eller tilsynsmannens nærmere bestemmelse.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 38a. Fordringshavermøte.
 
@@ -410,13 +422,13 @@ Ytterligere fordringshavermøter kan holdes hvis gjeldsnemnda finner behov for d
 
 Retten kan beslutte at det ikke skal holdes fordringshavermøte. Beslutningen kan omgjøres.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 39. Skyldnerens møteplikt.
 
 Skyldneren plikter å være til stede på fordringshavermøter og et eventuelt avstemningsmøte, hvis ikke skyldneren har gyldig fravær eller har fått tillatelse av gjeldsnemnda til å være fraværende.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 40. Utsendelse av akkordforslaget. Avstemningen.
 
@@ -430,7 +442,7 @@ Tilbakekalling av en vedtagelse må skje ved en skriftlig erklæring som sendes 
 
 Dersom vedtakelsen eller tilbakekallingen er skjedd ved en representant som ikke har fremlagt betryggende legitimasjon for sin myndighet til å forplikte fordringshaveren, skal vedtakelsen eller tilbakekallingen godtas såfremt betryggende legitimasjon fremlegges innen den fastsatte avstemningsfrist eller på et eventuelt avstemningsmøte.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 41. Fordringshaverliste.
 
@@ -440,13 +452,13 @@ For fordringer som etter forslaget vil få full dekning, jf. [§ 30](lov/1984-06
 
 Når noen i forbindelse med avstemningen bestrider en oppført fordring eller mener at en fordring er ført opp med et for lite beløp eller med urette er blitt utelatt, gjør gjeldsnemnda merknad om det i listen.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 42. Fordringer som ikke gir stemmerett.
 
 Ved avstemningen over akkordforslaget skal alle kjente fordringer regnes med, selv om de ikke er meldt til gjeldsnemnda. Likevel skal følgende fordringer settes ut av betraktning:fordring som akkorden etter [§ 55](lov/1984-06-08-58/§55) ikke vil bli bindende for. Dersom en fordring er sikret ved panterett eller annen sikkerhetsrett i skyldnerens eiendeler, kan fordringshaveren utøve stemmerett for den del av fordringen som sikkerheten antas ikke å ville gi dekning for, eller – hvis fordringshaveren uttrykkelig frafaller sin sikkerhetsrett for en større del av fordringen – da for denne del. En fordring som er utstyrt med lovbestemt fortrinnsrett, gir stemmerett i den utstrekning fortrinnsretten uttrykkelig frafalles;fordring som er avhengig av en betingelse som ennå ikke er inntrådt;fordring som er overdratt til fordringshaveren etter at gjeldsforhandlingen ble åpnet. Dette gjelder likevel ikke når fordringshaveren ved ervervelsen var uvitende om at begjæring om åpning av gjeldsforhandling var innkommet til retten eller hvis fordringshaveren har overtatt fordringen i samsvar med en tidligere forpliktelse;fordring som tilhører skyldnerens nærstående, jf [lov om fordringshavernes dekningsrett § 1-5](lov/1984-06-08-59/§1-5);fordring eller del av fordring som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd;etterprioritert fordring som faller bort ved akkorden.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 43. Nødvendig flertall ved vedtagelsen av akkordforslaget.
 
@@ -455,6 +467,8 @@ Dersom akkordforslaget går ut på å betale minst 50 prosent av fordringshavern
 Går forslaget ut på å betale mindre enn 50 prosent av fordringshavernes tilgodehavende, kreves det 3/4 flertall i begge henseender.
 
 Gjelder forslaget en likvidasjonsakkord, kreves det 3/4 flertall i begge henseender. Dersom skyldneren har innestått for at fordringshaverne får en minstedividende på 50 prosent eller mer, er imidlertid 3/5 flertall nok.
+
+> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 44. Nytt akkordforslag.
 
@@ -466,13 +480,13 @@ Dersom skyldneren i et avstemningsmøte vil gjøre forandringer i akkordforslage
 
 I det nye avstemningsmøtet kan skyldneren ikke gjøre noen forandring i akkordforslaget.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 45. Redegjørelse for avstemningen sendes tingretten.
 
 Gjeldsnemnda skal innen en uke etter avstemningen sende tingretten en redegjørelse for resultatet av avstemningen med uttalelse om hvorvidt det antas å foreligge noe forhold som vil være til hinder for stadfestelse av akkorden. Med redegjørelsen skal følge:legitimasjoner for at forhandlingen om tvangsakkord har vært kunngjort og bekreftelse av at fordringshaverne har vært varslet om avstemningen i overensstemmelse med lovens regler;gjeldsnemndas forhandlingsbok;den liste over fordringshaverne som er nevnt i [§ 41](lov/1984-06-08-58/§41), vedlagt fordringsanmeldelsene og de dokumenter som foreligger om omtvistede eller uklare fordringer;skyldnerens endelige akkordforslag og fordringshavernes vedtagelser;andre dokumenter som måtte være fremlagt i forbindelse med avstemningen, og de protester som måtte være fremkommet mot stadfestelse av akkorden.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 46. Stadfestelsesmøtet.
 
@@ -484,7 +498,7 @@ Viser det seg nødvendig å innhente ytterligere opplysninger, kan retten utsett
 
 Rettens avgjørelse etter denne paragraf er ikke gjenstand for anke.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 47. Stemmerettstvister. Avsetning til omtvistede fordringer.
 
@@ -492,25 +506,25 @@ Dersom det er tvist eller uklarhet om hvorvidt eller for hvilket beløp en fordr
 
 Når vedkommende fordringshaver krever det, kan retten bestemme at den dividende som faller på en omtvistet fordring eller på den omtvistede del av en fordring skal settes inn i bank på en separat konto som disponeres av retten. Retten skal i så fall samtidig sette fordringshaveren en frist til å reise søksmål. Blir søksmål ikke reist innen fristens utløp, skal retten frigi beløpet til skyldneren med mindre annet fremgår av akkorden.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 48. Tilfeller hvor stadfestelse skal nektes.
 
 Retten skal nekte å stadfeste akkorden:når reglene om fremgangsmåten ved gjeldsforhandlingen ikke har vært overholdt, og retten finner det sannsynlig at feilen har hatt avgjørende betydning for vedtagelsen av akkorden;når akkordforslaget går ut på betaling av mindre enn den foreskrevne minstedividende, eller ikke er blitt vedtatt med det nødvendige flertall, jf [§§ 30](lov/1984-06-08-58/§30) og [43](lov/1984-06-08-58/§43);når akkorden ikke vil gi like rett for alle alminnelige fordringshavere som den vil bli bindende for, og som ikke har samtykket i å stå tilbake;når det viser seg at det foreligger omstendigheter som nevnt i [§ 50](lov/1984-06-08-58/§50) nr. 1 og 2, og som ikke er meddelt fordringshaverne før avstemningen, såfremt forholdet kan antas å ha hatt avgjørende innflytelse på utfallet av denne.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 49. Tilfeller hvor stadfestelse kan nektes.
 
 Retten kan nekte å stadfeste akkorden:når skyldneren vegrer seg for å gi de opplysninger retten trenger ved avgjørelsen, eller uten gyldig grunn uteblir fra fordringshavermøtet, avstemningsmøtet eller stadfestelsesmøtet;når retten finner det godtgjort at skyldneren i løpet av de siste tre år før åpningen av gjeldsforhandlingen eller senere har gjort seg skyldig i straffbare forhold i forbindelse med økonomisk virksomhet. Er skyldneren en sammenslutning eller en stiftelse, kan stadfestelse nektes dersom forretningsfører eller styremedlem i det nevnte tidsrom har gjort seg skyldig i slike straffbare forhold til skyldnerens fordel eller på skyldnerens vegne.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 50. Tilfeller hvor stadfestelse kan nektes etter begjæring.
 
 Etter begjæring av gjeldsnemnda eller av en fordringshaver som i tilfelle vil bli bundet av akkorden, kan retten nekte stadfestelse:når det påvises at akkorden er brakt i stand ved at en fordringshaver er blitt begunstiget eller har fått løfte om begunstigelse, enten av skyldneren eller av tredjeperson;når det påvises at akkorden ikke stemmer med fordringshavernes felles interesser, fordi f eks:den dividende som er tilbudt, står i fremtredende misforhold til skyldnerens betalingsmuligheter, ellerde fordringsbeløp som skal dekkes fullt ut i henhold til akkordforslaget, jf [§ 30](lov/1984-06-08-58/§30) femte ledd, er så betydelige at det innebærer en urimelig forfordeling av fordringshaverne, ellerde betalingsterminer som er oppstilt, medfører en utsettelse av betalingen som går lenger enn det finnes rimelig, ellerdet ikke er rimelig utsikt til at akkorden vil bli oppfylt.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 51. Tilsyn med oppfyllelsen av akkorden.
 
@@ -520,7 +534,7 @@ Tilsyn utøves av ett eller flere av gjeldsnemndas medlemmer eller av en eller f
 
 Bestemmelsene i [§§ 10](lov/1984-06-08-58/§10), [12](lov/1984-06-08-58/§12) og [13](lov/1984-06-08-58/§13) gjelder tilsvarende for tilsynet.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 52. Stadfestelseskjennelsen. Anke.
 
@@ -530,7 +544,7 @@ En kjennelse som stadfester akkorden, kan ankes av skyldneren og av enhver fordr
 
 Dersom tingretten eller ankeinstansen nekter stadfestelse, skal den samtidig treffe de avgjørelser som er nevnt i [§ 57](lov/1984-06-08-58/§57).
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 53. Melding om og kunngjøring av den stadfestede akkord.
 
@@ -540,7 +554,7 @@ Når stadfestelseskjennelsen er blitt rettskraftig, skal gjeldsnemnda kunngjøre
 
 Dersom akkorden innebærer at pantheftelser som er registrert i et rettsvernsregister helt eller delvis bortfaller, skal gjeldsnemnda straks stadfestelsen er rettskraftig, sørge for at kjennelsen registreres. Ved håndpant eller ved pant i enkle krav skal melding om bortfallet gis til den som besitter pantet eller til skyldneren for kravet.
 
-> Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 54. Bestemmelse om tilsyn truffet etter stadfestelsen.
 
@@ -550,7 +564,7 @@ Retten treffer sin avgjørelse ved kjennelse etter at skyldneren har fått anled
 
 Bestemmelsen i [§ 51](lov/1984-06-08-58/§51) annet og tredje ledd gjelder tilsvarende.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 55. Hvem akkorden er bindende for.
 
@@ -558,11 +572,11 @@ Den stadfestede akkord er bindende for alle fordringshavere hvis fordringer skri
 
 [§§ 28](lov/1984-06-08-58/§28) og [29](lov/1984-06-08-58/§29) gjelder tilsvarende ved tvangsakkord.
 
-> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel VII. Gjeldsforhandlingens avslutning.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 56. Innstilling av gjeldsforhandlingen med fordringshavernes samtykke.
 
@@ -570,7 +584,7 @@ Retten skal innstille gjeldsforhandlingen ved kjennelse når det etter utløpet 
 
 [§ 53](lov/1984-06-08-58/§53) får tilsvarende anvendelse, annet ledd likevel bare der det har vært kunngjort at skyldneren har åpnet forhandling om tvangsakkord.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 57. Innstilling av mislykket gjeldsforhandling og åpning av konkurs.
 
@@ -580,25 +594,25 @@ Retten kan etter begjæring av gjeldsnemnda innstille gjeldsforhandlingen og åp
 
 Retten treffer sin avgjørelse ved kjennelse. Før retten avsier kjennelse, skal skyldneren innkalles til rettsmøte på den måte og med det varsel som bestemt i [§ 70](lov/1984-06-08-58/§70). Ved anke over kjennelsen gjelder [§ 72](lov/1984-06-08-58/§72) annet ledd tilsvarende.
 
-> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 mars 1990 nr. 8](lov/1990-03-30-8), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 14 juni 1985 nr. 69](lov/1985-06-14-69), [30 mars 1990 nr. 8](lov/1990-03-30-8), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 58. Tidspunktet for gjeldsforhandlingens avslutning.
 
 Gjeldsforhandlingen anses for avsluttet:når retten mottar melding om at skyldneren har fått frivillig gjeldsordning, jf [§ 27](lov/1984-06-08-58/§27);når skyldneren har fått tvangsakkord som er stadfestet ved rettskraftig kjennelse, jf [§ 52](lov/1984-06-08-58/§52);når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 56](lov/1984-06-08-58/§56), og kjennelsen er blitt rettskraftig;når det er avsagt kjennelse om innstilling av gjeldsforhandlingen etter [§ 57](lov/1984-06-08-58/§57) uten at konkurs er blitt åpnet, og kjennelsen er blitt rettskraftig.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 59. Følgene av at skyldneren dør under gjeldsforhandlingen.
 
 Dersom skyldneren dør før kjennelse om konkursåpning er avsagt i henhold til [§ 57](lov/1984-06-08-58/§57) eller før gjeldsforhandlingen anses for avsluttet, jf § 58, skal gjeldsforhandlingen innstilles og skyldnerens bo behandles i samsvar med [arveloven](lov/2019-06-14-21).
 
-> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ## Annen del. Konkurs.
 
 ### Kapittel VIII. Konkursåpningen.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XI).
 
 ### § 60. Konkurs på grunnlag av insolvens.
 
@@ -636,7 +650,7 @@ Likestilt med panterett er annen tilsvarende sikkerhetsrett. Likestilt med pante
 
 Dersom en skyldner som har fått tvangsakkord, og som er blitt undergitt tilsyn med oppfyllelse av akkorden, grovt eller gjentatte ganger har handlet mot sine plikter etter [§§ 51](lov/1984-06-08-58/§51) eller [54](lov/1984-06-08-58/§54), skal retten åpne konkurs i skyldnerens bo etter begjæring av tilsynet når det ikke er klart at skyldneren likevel kan oppfylle akkorden.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 66. Nærmere regler om konkursbegjæringen.
 
@@ -704,7 +718,7 @@ Skyldner, arbeidstaker eller annen privat fordringshaver som er fritatt fra å s
 
 Omkostninger som den som har begjært konkurs åpnet, ikke hefter for eller ikke kan betale, plikter staten å dekke. Det samme gjelder omkostninger ved en konkurs åpnet i henhold til [§§ 57](lov/1984-06-08-58/§57) og [65](lov/1984-06-08-58/§65) når disse ikke kan dekkes av boets midler.
 
-> Endret ved [lover 10 apr 1992 nr. 42](lov/1992-04-10-42), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 10 apr 1992 nr. 42](lov/1992-04-10-42), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 74. Konkursens varighet.
 
@@ -722,7 +736,7 @@ Når det finnes sannsynlig at skyldneren ellers ville forføye over sine eiendel
 
 Før det blir gjort vedtak etter denne paragraf, bør skyldneren så vidt mulig få anledning til å uttale seg. Vedtaket skal gjøres ved kjennelse. Anke har ikke oppsettende virkning med mindre retten bestemmer det.
 
-> Endret ved [lover 30 mars 1990 nr. 8](lov/1990-03-30-8), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 30 mars 1990 nr. 8](lov/1990-03-30-8), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 76. Erstatningsansvar for urettmessig konkursbegjæring m v.
 
@@ -732,11 +746,11 @@ Den som har fremsatt begjæring om rådighetsforbud etter [§ 75](lov/1984-06-08
 
 Dersom krav etter første og annet ledd bringes inn for retten, treffer den sin avgjørelse ved dom.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel IX. Forholdsregler som skal treffes umiddelbart etter konkursåpningen.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XII).
 
 ### § 77. Oppnevnelse av bostyrer, kreditorutvalg og revisor.
 
@@ -790,7 +804,7 @@ Ved registreringsforretning kan det tilkalles vitne dersom det av særlige grunn
 
 Bostyreren eller retten kan om nødvendig kreve hjelp av politiet til å gjennomføre sikring, registrering og forsegling etter denne paragrafen.
 
-> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40) (ikr. 1 jan 1991), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40) (ikr. 1 jan 1991), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 81. (Opphevet)
 
@@ -804,7 +818,7 @@ Rettens avgjørelser etter [§ 77](lov/1984-06-08-58/§77) annet ledd og [§§ 7
 
 ### Kapittel X. Boets organer.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XIII).
 
 ### § 83. Kreditorutvalg og bostyre.
 
@@ -960,7 +974,7 @@ Retten kan av eget tiltak eller etter begjæring av skyldneren, en fordringshave
 
 ### Kapittel XI. Skyldnerens stilling under konkursen m.v.
 
-> Overskriften endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Overskriften endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XIV).
 
 ### § 100. Skyldnerens rett og legitimasjon til å forføye over boets eiendeler.
 
@@ -982,7 +996,7 @@ Skattemyndighetene skal på forlangende fra retten eller bostyreren gi opplysnin
 
 Om regnskapsførers og revisors bistandsplikt gjelder [§ 18a](lov/1984-06-08-58/§18a) tilsvarende.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 102. Reiseforbud.
 
@@ -1038,6 +1052,8 @@ For personer som ikke har vært i slik stilling senere enn ett år før fristdag
 
 ### Kapittel XII. Anmeldelse og prøving av fordringer.
 
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XV).
+
 ### § 109. Oppfordring til anmeldelse. Frist.
 
 I kunngjøringen av at konkurs er åpnet, skal retten oppfordre skyldnerens fordringshavere til skriftlig å melde sine fordringer til bostyreren innen en nærmere angitt frist. Med anmeldelsen skal følge de dokumenter som tjener som bevis for fordringene, og opplysning skal gis om grunnlaget for fordringene, og de sikkerheter i skyldnerens eller tredjepersons eiendeler som måtte hefte for dem, og om hvorvidt det er solidarisk medforpliktede.
@@ -1046,7 +1062,7 @@ Dersom konkursen blir åpnet i direkte fortsettelse av en gjeldsforhandling, jf 
 
 Fristen for anmeldelse må være minst tre og høyst seks uker regnet fra den dag konkursåpningen ble kunngjort i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 110. Anmeldelseslisten. Bostyrerens innstilling.
 
@@ -1110,6 +1126,8 @@ Den endrede eller rettede anmeldelse betraktes som en ny anmeldelse, dersom den 
 
 ### Kapittel XIII. Realisering av boets eiendeler. Innberetning og regnskap.
 
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XVI).
+
 ### § 117. Realisering av boets eiendeler.
 
 Innenfor de grenser som næringslovgivningen setter, skal boets eiendeler realiseres på den måte som etter forholdene antas å ville gi størst utbytte. Bortsalg ved offentlig auksjon bør ikke skje med mindre det er grunn til å tro at det ved denne salgsmåte blir oppnådd bedre priser enn ved underhåndsalg.
@@ -1118,7 +1136,7 @@ Salg av boets eiendeler til skyldneren eller til skyldnerens nærstående som ne
 
 Reglene i [§ 17](lov/1984-06-08-58/§17) annet ledd gjelder tilsvarende, likevel slik at fristen regnes fra fristdagen.
 
-> Endret ved [lov 23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lov 23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 117a. Salg av overbeheftede eiendeler.
 
@@ -1192,7 +1210,7 @@ Dersom konkursen blir åpnet i direkte fortsettelse av en gjeldsforhandling, jf 
 
 Bostyreren skal gjøre innberetningen kjent for fordringshaverne ved å sende den til dem, eller gjøre den elektronisk tilgjengelig dersom fordringshaveren har godtatt bruk av elektronisk kommunikasjon. Bostyreren skal sende innberetningen til Konkursregisteret og skyldneren.
 
-> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 121. Årsredegjørelse for bobehandlingen. Tingrettens kontroll.
 
@@ -1230,7 +1248,7 @@ Skyldnerens regnskapsmateriale kan makuleres dersom bostyreren finner at det ikk
 
 ### Kapittel XIV. Tvangsakkord under konkurs.
 
-> Kapittelet **endres** i sin helhet ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Kapittelet **endres** i sin helhet ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XVII).
 
 ### § 123. Akkordforslag.
 
@@ -1238,7 +1256,7 @@ Skyldneren kan fremsette forslag til tvangsakkord etter at innberetning nevnt i 
 
 Forslaget, som må være i samsvar med reglene i [§ 30](lov/1984-06-08-58/§30), fremsettes skriftlig overfor bostyreren eller bostyret dersom det er oppnevnt kreditorutvalg, som sender det til tingretten med sin uttalelse om hvorvidt forslaget anbefales vedtatt, om utsikten til og den sikkerhet som has for at forslaget vil bli oppfylt fra skyldnerens side, og om de betingelser som bostyreren eller bostyret har satt for å anbefale forslaget. [§ 22](lov/1984-06-08-58/§22) første ledd annet og tredje punktum gjelder tilsvarende. Dersom bostyreren eller bostyret kommer til at avstemningen over forslaget bør skje i avstemningsmøte, jf. [§ 40](lov/1984-06-08-58/§40) annet ledd, skal begjæring om dette samtidig sendes tingretten.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 124. Vedtagelse av forslaget.
 
@@ -1246,7 +1264,7 @@ Retten avgjør ved kjennelse om forslaget skal tas under behandling og tar samti
 
 Når forslaget er besluttet tatt under behandling, skal bostyreren sende det sammen med sin eller bostyrets uttalelse og den listen som er nevnt i [§ 41](lov/1984-06-08-58/§41) til alle kjente fordringshavere. Reglene i [§§ 40](lov/1984-06-08-58/§40) til [44](lov/1984-06-08-58/§44) får tilsvarende anvendelse, idet bostyreren eller bostyret trer istedenfor gjeldsnemnda. Dersom fordringshaveren har godtatt bruk av elektronisk kommunikasjon, kan fordringshaveren i varselet gjøres kjent med fristen etter [§ 40](lov/1984-06-08-58/§40) og om hvor forslaget, bostyrerens og bostyrets uttalelse og fordringshaverlisten finnes elektronisk tilgjengelig.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)), som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)), som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 125. Stadfestelse av akkorden.
 
@@ -1256,7 +1274,7 @@ Dersom akkorden blir stadfestet, skal bobehandlingen samtidig innstilles. Når k
 
 Når kjennelsen om stadfestelse er blitt rettskraftig, skal bostyreren betale massefordringene og de fortrinnsberettigede fordringer, eller – for så vidt fordringene er omtvistet – sette inn i bank de nødvendige beløp til dekning av dem, idet [§ 47](lov/1984-06-08-58/§47) annet ledd får tilsvarende anvendelse.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 126. Tvangsakkord etter at skyldneren er død.
 
@@ -1266,11 +1284,11 @@ Reglene i [§§ 18](lov/1984-06-08-58/§18) og [39](lov/1984-06-08-58/§39) gjel
 
 Reglene i første og annet ledd anvendes tilsvarende på skyldnerens ektefelle eller samboer, dersom han eller hun etter [arveloven](lov/2019-06-14-21) har rett til å sitte i uskiftet bo og sender melding til retten om at han eller hun vil nytte sin rett, under forutsetning av at akkord blir brakt i stand. Uskifteattest som nevnt i [arveloven § 97](lov/2019-06-14-21/§97) utferdiges i så fall av retten når rettskraftig stadfestelseskjennelse foreligger.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Kapittel XV. Slutning, utlodning og utbetaling.
 
-> Overskriften endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)).
+> Overskriften endret ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XVIII).
 
 ### § 127. Foreløpige utlodninger.
 
@@ -1340,6 +1358,8 @@ Når en fordringshavers oppholdssted er ukjent, skal det beløp som tilkommer fo
 
 ### Kapittel XVI. Konkursens avslutning.
 
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XIX).
+
 ### § 135. Innstilling av bobehandlingen fordi boets midler ikke kan dekke omkostningene.
 
 Dersom bostyreren finner at boets midler, medregnet midler boet får i medhold av legalpanteretten etter [panteloven § 6-4](lov/1980-02-08-2/§6-4), er utilstrekkelige til å dekke omkostningene ved dets fortsatte behandling, skal bostyreren vurdere å kontakte fordringshavere eller berørte offentlige myndigheter med sikte på å få dem til å stille sikkerhet for omkostningene ved en fortsatt bobehandling. Dersom bostyreren ikke finner grunn til å ta slik kontakt, eller ingen sikkerhet blir stilt, skal bostyreren avgi innstilling til retten om at bobehandlingen skal innstilles. Innstillingen kan inntas i bostyrerens sluttredegjørelse, jf. [§ 122](lov/1984-06-08-58/§122).
@@ -1360,7 +1380,7 @@ Dersom boets kontantbeholdning ikke er tilstrekkelig til å dekke massefordringe
 
 Kunngjøring om at bobehandlingen er innstilt, skal offentliggjøres i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.
 
-> Endret ved [lover 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74)), [14 juni 2013 nr. 41](lov/2013-06-14-41) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 638](forskrift/2013-06-14-638)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 137. Endelig avslutning av bobehandlingen.
 
@@ -1382,6 +1402,8 @@ Retten kan ved kjennelse bestemme at en avsluttet bobehandling skal fortsette n�
 
 ### Kapittel XVII. Særregler for visse konkursbo.
 
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XX).
+
 ### § 140. Konkursbehandling av dødsbo.
 
 Konkurs kan åpnes etter reglene i denne lov i dødsbo hvor avdødes gjeld ikke er overtatt av gjenlevende ektefelle eller av arvingene.
@@ -1398,7 +1420,7 @@ Dersom proklama er utferdiget før konkurs blir åpnet, skal en opplysning om de
 
 ### Kapittel XVIII. Regler som hindrer konkursskyldnere m v i å drive næringsvirksomhet i selskapsform.
 
-> Overskriften tilføyd ved [lov 7 juni 1985 nr. 52](lov/1985-06-07-52).
+> Overskriften tilføyd ved [lov 7 juni 1985 nr. 52](lov/1985-06-07-52). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XXI).
 
 ### § 142. Vilkår for konkurskarantene.
 
@@ -1438,7 +1460,7 @@ Den som forsettlig eller uaktsomt opptrer i strid med kjennelse etter [§ 143](l
 
 ### Kapittel XIX. Registrering i konkursregister.
 
-> Tilføyd ved [lov 19 mars 1993 nr. 34](lov/1993-03-19-34).
+> Tilføyd ved [lov 19 mars 1993 nr. 34](lov/1993-03-19-34). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer, blir kapittel XXII).
 
 ### § 144. Registrering i konkursregister.
 
@@ -1454,7 +1476,7 @@ Departementet bestemmer hvilke opplysninger som skal medtas i utskrift fra regis
 
 ## Tredje del. Fellesregler for gjeldsforhandling og konkurs.
 
-> Overskriften **endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Overskriften **endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 145. Tingrettens saklige kompetanse.
 
@@ -1468,7 +1490,7 @@ Andre krav mot et konkursbo kan bringes inn for tingretten etter reglene i denne
 
 Skyldneren kan bringe sitt krav etter [§ 76](lov/1984-06-08-58/§76) inn for tingretten etter denne lov, eller ved ordinært søksmål etter tvistelovens regler.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [17 juni 2016 nr. 55](lov/2016-06-17-55) (ikr. 1 juli 2021 iflg. [res. 28 mai 2021 nr. 1699](forskrift/2021-05-28-1699), se overgangsregler i forskrift [21 mai 2021 nr. 1618](forskrift/2021-05-21-1618)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [17 juni 2016 nr. 55](lov/2016-06-17-55) (ikr. 1 juli 2021 iflg. [res. 28 mai 2021 nr. 1699](forskrift/2021-05-28-1699), se overgangsregler i forskrift [21 mai 2021 nr. 1618](forskrift/2021-05-21-1618)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 146. Tingrettens stedlige kompetanse.
 
@@ -1538,7 +1560,7 @@ Fristene for anke over en avgjørelse som ikke skal forkynnes eller meddeles ved
 
 Etter at stadfestelse av tvangsakkord eller sluttutlodning er blitt rettskraftig, kan oppfriskning mot forsømmelser under bobehandlingen ikke gis og gjenåpning ikke kreves.
 
-> Endret ved [lover 30 mars 1990 nr. 8](lov/1990-03-30-8), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 30 mars 1990 nr. 8](lov/1990-03-30-8), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 154. Behandling av tvist ved allmennprosess.
 
@@ -1578,7 +1600,7 @@ Kongen kan i forskrift gi regler om begrenset tilgang til opplysninger som er el
 
 Kongen kan gi forskrift med nærmere bestemmelser om gjennomføring av kunngjøring, herunder hvilke opplysninger som skal kunngjøres når kunngjøringen skal ha en forkortet form og om sletting av elektronisk lagrede kunngjøringsopplysninger.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 for sjette ledd iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74), ikr. 1 mars 2008 for første til femte ledd iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 jan 2006 nr. 4](lov/2006-01-27-4) (ikr. 1 feb 2006 for sjette ledd iflg. [res. 27 jan 2006 nr. 74](forskrift/2006-01-27-74), ikr. 1 mars 2008 for første til femte ledd iflg. [res. 15 feb 2008 nr. 137](forskrift/2008-02-15-137)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 156 a. Abonnementsavtaler
 
@@ -1598,7 +1620,7 @@ Dersom et medlem av gjeldsnemnda, bostyreren eller et medlem av kreditorutvalget
 
 Forskudd på godtgjørelse kan i konkursbo bare gis med samtykke av retten.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved [lov 19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 158. Godtgjørelse til revisor.
 
