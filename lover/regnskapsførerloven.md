@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "6ae412f17d08de74cb750da26eed71c85fe2af7fe5f3d153b5b8d9f91687e069"
+xml_hash: "a3f9a48aa2daa0bf55274b2868a17b2b448107b2c5f733b3fd58f79540ae20ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,7 @@ Finanstilsynet gir godkjenning som statsautorisert regnskapsfører til person so
 
 Tittelen statsautorisert regnskapsfører kan bare benyttes av person som har godkjenning etter første ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 2-4. Deponering
 
@@ -114,7 +114,7 @@ For revisorer som er godkjent etter [revisorloven](lov/2020-11-20-128), likestil
 
 Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 3-3. Vilkår om å være skikket
 
