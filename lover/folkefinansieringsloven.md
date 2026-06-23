@@ -8,14 +8,14 @@ short_title: "Folkefinansieringsloven"
 language: "nb"
 ministry:
   - "Finansdepartementet"
-date_in_force: null
+date_in_force: "2026-08-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "06dc8903ad5cc3c4f27fca064a8c0695a1075e77cc89d36d437720a84860b254"
+xml_hash: "a9fe3a97bd3b2fc58112697df107d18c9d2ee29f8bfa638ff8f6031a37bab92b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32020R1503"
@@ -42,7 +42,7 @@ eu_basis:
 
 (4) Departementet kan i forskrift gi nærmere regler om ikke-samarbeidsvillige jurisdiksjoner som nevnt i [folkefinansieringsforordningen](eu/32020r1503) artikkel 5.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 1-2. Virkeområde
 
@@ -190,7 +190,7 @@ Dersom det er rimelig grunn til å anta at bestemmelser gitt i eller i medhold a
 
 ### § 4-1. Ikrafttredelse
 
-Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 ### § 4-2. Overgangsregler
 
