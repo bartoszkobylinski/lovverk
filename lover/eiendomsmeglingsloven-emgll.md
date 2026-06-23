@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-19"
-xml_hash: "e5891d50b4fd2bc74903dcc9b0bf8af8409e76f38768fa5aeac0c95e573c42a1"
+xml_hash: "439aba40d5e8cf5d866c9b0a2e270ef7214c6da5b7300e22c3de2ff03d373c8a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -416,7 +416,7 @@ Oppdragstakeren kan ikke binde oppdragsgiveren overfor en tredjeperson uten sær
 
 (3) Oppdragstakere som forestår oppgjør, skal sørge for at kjøperen har fått rettsvern for sitt erverv før kjøpesummen disponeres på vegne av selgeren. Departementet kan gi nærmere regler i forskrift om gjennomføring av det økonomiske oppgjøret, herunder unntak fra regelen i første punktum.
 
-> Endret ved lover [11 apr 2014 nr. 12](lov/2014-04-11-12) (ikr. 1 juli 2014 iflg. [res. 11 apr 2014 nr. 547](forskrift/2014-04-11-547)), [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [10 april 2025 nr. 10](lov/2025-04-10-10) (i kraft 1 juli 2025 iflg. [res. 10 juni 2025 nr. 987](forskrift/2025-06-10-987), tidligere § 6-9).
+> Endret ved lover [11 apr 2014 nr. 12](lov/2014-04-11-12) (ikr. 1 juli 2014 iflg. [res. 11 apr 2014 nr. 547](forskrift/2014-04-11-547)), [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [10 april 2025 nr. 10](lov/2025-04-10-10) (i kraft 1 juli 2025 iflg. [res. 10 juni 2025 nr. 987](forskrift/2025-06-10-987), tidligere § 6-9). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 7. Vederlag. Utlegg
 
