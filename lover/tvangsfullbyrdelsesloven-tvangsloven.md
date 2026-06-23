@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-12-05"
-xml_hash: "97ff7be59a4c74799fa1a4e9725b0129eee64766e0e4127152c7d5f6d0a0aae1"
+xml_hash: "8417c5bf811eabd3773b1f18f129177b56f08bc111d7cfb625583271c8c113f2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1892,7 +1892,7 @@ Dersom salget skal skje ved auksjon holdt av namsmyndigheten, bestemmer retten o
 
 Skal namsmannen holde auksjonen, sendes sakens dokumenter til namsmannen, som forbereder og holder auksjonsmøtet.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
+> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 11-44. Forberedelse av auksjonsmøtet, salgets omfang og forholdet til andre heftelser m m
 
@@ -1902,7 +1902,7 @@ Den namsmyndighet som skal holde auksjonen, skal straks underrette partene og pe
 
 Er omsetningen av formuesgodet underlagt konsesjon, skal namsmyndigheten før auksjonen holdes, bringe på det rene den høyeste pris som vil bli akseptert. Den myndighet som avgjør konsesjonsspørsmålet, har plikt til å gi namsmyndigheten bindende uttalelse om høyeste pris som vil bli godkjent. Namsmyndigheten skal ikke holde auksjonen før klagefristen for denne uttalelsen er utløpt eller klagesaken er avgjort.
 
-> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
 ### § 11-45. Utarbeidelse av auksjonsvilkår
 
