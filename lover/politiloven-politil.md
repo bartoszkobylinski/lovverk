@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-10-01"
 last_change_in_force: "2025-10-12"
 last_updated: "2021-07-01"
-xml_hash: "a237b7cecad1ecb113b7977db89aaff99cd4cb64e3c2a04e5d96ddc3e2e0756f"
+xml_hash: "278c377a07b451b07da46edd5553b2b49ef6feb05601cc09f48e3c355f928f24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -512,7 +512,7 @@ Når det bestemmes i medhold av [§ 16](lov/1995-08-04-53/§16) at visse politig
 
 Bestemmelsene i denne paragrafen gjelder ikke for personell uten politimyndighet, hvis ikke bestemmelsene uttrykkelig er gjort gjeldende i ansettelsesvilkårene.
 
-> Endret ved lover [25 feb 2000 nr. 12](lov/2000-02-25-12) (ikr. 25 feb 2000 iflg. [res. 25 feb 2000 nr. 109](forskrift/2000-02-25-109)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 feb 2000 nr. 12](lov/2000-02-25-12) (ikr. 25 feb 2000 iflg. [res. 25 feb 2000 nr. 109](forskrift/2000-02-25-109)), [18 juni 2021 nr. 123](lov/2021-06-18-123) (i kraft 1 sep 2022 iflg. [res. 12 aug 2022 nr. 1443](forskrift/2022-08-12-1443)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 22. Boplikt, tjenesteplikt i fritiden og bierverv
 
