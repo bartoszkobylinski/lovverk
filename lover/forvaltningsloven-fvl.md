@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1970-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-08-10"
-xml_hash: "8c2aadd2f6d7f17dc7ea17d6f59cfbbca90136fed7199e6a5bbaf1b8feb00998"
+xml_hash: "63a5ceaaa677e95770179b764829beed73ef9cc6b244e9b26fe01bc4b99ff373"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ Loven gjelder for Svalbard for så vidt ikke annet fastsettes av Kongen.
 
 Loven gjelder ikke for Stortinget, Riksrevisjonen, Sivilombudet og andre organer for Stortinget.
 
-> Endret ved lover [19 juni 1969 nr. 54](lov/1969-06-19-54), [12 des 1975 nr. 59](lov/1975-12-12-59), [27 mai 1977 nr. 40](lov/1977-05-27-40) (i kraft 1 jan 1978 iflg. [res. 16 des 1977 nr. 9](forskrift/1977-12-16-9)), [17 juli 1992 nr. 99](lov/1992-07-17-99), [12 jan 1995 nr. 4](lov/1995-01-12-4) (ikr. 1 apr 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [14 juni 2019 nr. 21](lov/2019-06-14-21)(ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [20 des 2022 nr. 115](lov/2022-12-20-115).
+> Endret ved lover [19 juni 1969 nr. 54](lov/1969-06-19-54), [12 des 1975 nr. 59](lov/1975-12-12-59), [27 mai 1977 nr. 40](lov/1977-05-27-40) (i kraft 1 jan 1978 iflg. [res. 16 des 1977 nr. 9](forskrift/1977-12-16-9)), [17 juli 1992 nr. 99](lov/1992-07-17-99), [12 jan 1995 nr. 4](lov/1995-01-12-4) (ikr. 1 apr 1995), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
 ### § 5. (adgang for Kongen til å gi visse bestemmelser om lovens rekkevidde).
 
