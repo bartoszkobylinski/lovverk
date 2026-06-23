@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2005-08-15"
 last_change_in_force: "2024-11-01"
 last_updated: "2021-08-05"
-xml_hash: "73d6f29aad05c591cdde205f2b5aed5bfd2f065f5eecbbd720a871a068f6a637"
+xml_hash: "9bd5436b14359f170dbd937b2c931905e9f125d31bb80b6a1ad278fd252fed6c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -580,7 +580,7 @@ Laget skal melde frå til styret i eit dotterselskap om tilhøve som kan ha noko
 
 (2) Det er styret som representerer laget som konkursskyldnar.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 6-17. Saksbehandlinga i styret
 
@@ -938,7 +938,7 @@ Det som måtte tilfalle laget av summar som er sette av etter [§ 10-9](lov/2003
 
 (3) Har retten overteke avviklinga, skal avviklinga vidare skje etter reglane i [§ 10-17](lov/2003-06-06-38/§10-17). Orskurden har verknad som ein orskurd om konkursopning etter [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii).
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 10-14. Oppløysing etter orskurd frå tingretten
 
@@ -960,7 +960,7 @@ Dersom ikkje generalforsamlinga vedtek oppløysing, skal tingretten ved orskurd 
 
 (2) Retten skal utan vidare varsel ved orskurd vedta laget oppløyst etter [§ 10-14](lov/2003-06-06-38/§10-14), om ikkje vedtak om oppløysing alt er gjort av generalforsamlinga. Orskurden har verknad som orskurd om konkursopning etter [konkursloven kapittel VIII](lov/1984-06-08-58/kapviii).
 
-> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endra med lov [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 10-17. Avvikling av laget
 
@@ -984,7 +984,7 @@ Skadebotansvar etter [§ 11-1](lov/2003-06-06-38/§11-1) kan lempast etter [skad
 
 (2) Første ledd gjeld tilsvarande for inngåing av førehandsavtale mellom laget og nokon som er nemnd i [§ 11-1](lov/2003-06-06-38/§11-1), som regulerer eller avgrensar skadebotansvaret deira.
 
-> **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> **Vert endra** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft frå den tid Kongen bestemmer).
 
 ### § 11-4. Krav på vegner av laget
 
