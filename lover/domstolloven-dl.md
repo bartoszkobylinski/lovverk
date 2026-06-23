@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-25"
-xml_hash: "f4fd016dc9da37531d493568a04e4cbcf137dcea9505fa7d624fa3aac9052f1b"
+xml_hash: "45e1cc34b796db7d0caaa98103e6a7d01a3d608309a92402aa6ecdf01075d53b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1680,7 +1680,7 @@ Notarius og stevnevitne plikter å gi bevitnelse om noen krever det.
 
 Det skrift som skal forkynnes kan overgis i lukket omslag. Omslaget må være forsynt med en bevitnelse, som angir, hvem som lar forkynningen utføre, og det, som ellers er nødvendig for å betegne skriftet, hvis ikke forkynningen foregår postalt etter [§ 163 a](lov/1915-08-13-5/§163a) eller gjennom rekommandert brev etter [§ 178](lov/1915-08-13-5/§178). Bevitnelsen gis av en offentlig tjenestemann eller en advokat, og omslaget lukkes med hans segl. [§ 162](lov/1915-08-13-5/§162) andet led faar anvendelse.
 
-> Endret ved lover [14 feb 1969 nr. 9](lov/1969-02-14-9), [7 juni 1985 nr. 56](lov/1985-06-07-56), [9 jan 1998 nr. 5](lov/1998-01-09-5). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [14 feb 1969 nr. 9](lov/1969-02-14-9), [7 juni 1985 nr. 56](lov/1985-06-07-56), [9 jan 1998 nr. 5](lov/1998-01-09-5).
 
 ### § 163 a
 
@@ -1696,7 +1696,7 @@ Kongen kan gi nærmere forskrifter om postforkynning.
 
 Kongen kan ved forskrift gi nærmere regler om elektronisk forkynning, herunder om hvilke krav som skal stilles til den tekniske løsningen for at den skal anses som betryggende.
 
-> Tilføyd ved lov [7 juni 1985 nr. 56](lov/1985-06-07-56), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [9 jan 1998 nr. 5](lov/1998-01-09-5), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [4 sep 2015 nr. 90](lov/2015-09-04-90) (ikr. 1 jan 2017 iflg. [res. 25 nov 2016 nr. 1407](forskrift/2016-11-25-1407)), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [19 des 2017 nr. 114](lov/2017-12-19-114) (ikr. 1 jan 2018 iflg. [res. 19 des 2017 nr. 2155](forskrift/2017-12-19-2155)), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Tilføyd ved lov [7 juni 1985 nr. 56](lov/1985-06-07-56), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [9 jan 1998 nr. 5](lov/1998-01-09-5), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [4 sep 2015 nr. 90](lov/2015-09-04-90) (ikr. 1 jan 2017 iflg. [res. 25 nov 2016 nr. 1407](forskrift/2016-11-25-1407)), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [19 des 2017 nr. 114](lov/2017-12-19-114) (ikr. 1 jan 2018 iflg. [res. 19 des 2017 nr. 2155](forskrift/2017-12-19-2155)), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 163 b
 
