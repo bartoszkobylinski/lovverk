@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-02-18"
-xml_hash: "937b933ad2c8ec651b40a747566971938043e4666f9a2b641584452f20b6d11f"
+xml_hash: "59ca2ab589b227db4de04cc7642de65a5da5059c47d605a23fbbe967918eb4e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -122,7 +122,7 @@ For eksisterende taubaneanlegg, herunder bærende konstruksjoner, som er gitt dr
 
 Tiltakshaver skal underrette kommunen når tiltak etter denne bestemmelsen er godkjent etter andre lover, og angi tidspunktet for igangsetting. Alle opplysninger om tiltakets plassering som er nødvendige for ajourføring av det offentlige kartverket, herunder kommunenes og statens felles kartdatabaser, skal sendes kommunen sammen med underretningen, jf. [plan- og bygningsloven kapittel 2](lov/2008-06-27-71/kap2) (Krav om kartgrunnlag, stedfestet informasjon mv.). Slik underretning er ikke nødvendig når kommunen er godkjenningsmyndighet for tiltaket i henhold til annet lovverk. Tiltakshaver skal senest innen fire uker etter at tiltaket er ferdig, sende underretning til kommunen om tiltakets plassering slik det er utført.
 
-> Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [6 des 2016 nr. 1451](forskrift/2016-12-06-1451) (i kraft 1 jan 2017), [17 des 2017 nr. 2137](forskrift/2017-12-17-2137) (i kraft 1 jan 2018), [28 nov 2024 nr. 2911](forskrift/2024-11-28-2911) (i kraft 1 juli 2025).
+> Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [6 des 2016 nr. 1451](forskrift/2016-12-06-1451) (i kraft 1 jan 2017), [17 des 2017 nr. 2137](forskrift/2017-12-17-2137) (i kraft 1 jan 2018), [28 nov 2024 nr. 2911](forskrift/2024-11-28-2911) (i kraft 1 juli 2025). **Endres** ved forskrift [12 juni 2026 nr. 1130](forskrift/2026-06-12-1130) (i kraft 1 juli 2026).
 
 ### § 4-4. Unntak for nødvendige sikringstiltak etter akutte hendelser
 
@@ -134,7 +134,11 @@ Eier eller den ansvarlige har ansvar for at sikringstiltak utføres i samsvar me
 
 For å kunne gjennomføre sikringstiltak på byggverk som etter [plan- og bygningsloven](lov/2008-06-27-71) er gitt bevaringsstatus i plan, må eier eller den ansvarlige avklare nærmere med kommunen hvilke sikringstiltak som kan gjennomføres slik at byggverkets bevaringsverdi så langt mulig blir ivaretatt. Avklaring kan gis i forhåndskonferanse, jf. [§ 6-1](forskrift/2010-03-26-488/§6-1) og [§ 7-1](forskrift/2010-03-26-488/§7-1) første ledd bokstav a).
 
-> Tilføyd ved [forskrift 24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017).
+> Tilføyd ved [forskrift 24 juni 2017 nr. 975](forskrift/2017-06-24-975) (i kraft 1 juli 2017). **Endres** ved forskrift [12 juni 2026 nr. 1130](forskrift/2026-06-12-1130) (i kraft 1 juli 2026).
+
+### § 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse
+
+> **Tilføyes** ved forskrift [12 juni 2026 nr. 1130](forskrift/2026-06-12-1130) (i kraft 1 juli 2026).
 
 ### Kapittel 5. Søknad og dokumentasjon
 
