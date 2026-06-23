@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "6137a50951df0ab413c38460a279b53115b4d1ea85a5dd0ed57954e551082a7a"
+xml_hash: "d1ba5886dbb1350057729207bcbe1a03cc272a49aea71bb6b2bfeff636564b55"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32014R0909"
@@ -296,7 +296,7 @@ Dersom noen med hjemmel i selskapslovgivning eller tilsvarende lovgivning i en a
 
 Departementet kan i forskrift gi nærmere regler om rett til innsyn, herunder utvide retten til innsyn etter bestemmelsen her og gi regler om en verdipapirsentrals adgang til å gi opplysninger til en annen verdipapirsentral som den har opprettet en forbindelse til etter verdipapirsentralforordningen artikkel 48.
 
-> Endret ved lov [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-4. Opplysninger til bruk for forskning
 
