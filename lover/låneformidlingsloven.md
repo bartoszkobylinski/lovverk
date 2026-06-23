@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-07-01"
 last_change_in_force: null
 last_updated: "2023-06-15"
-xml_hash: "f775908dcd122a4da43d6a0c818480e1007c28f302b9e7f28d46a84a1f1e4810"
+xml_hash: "f5008f88c63d4983bc87d1c5232ac5fc13cc6f90428988cc610783dcd572ccbf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -33,7 +33,7 @@ eu_basis:
 
 (3) Departementet kan i forskrift gi regler om i hvilken utstrekning loven skal gjelde for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene.
 
-> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 1-2. Definisjoner
 
