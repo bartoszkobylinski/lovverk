@@ -11,11 +11,11 @@ ministry:
 date_in_force: null
 last_change_in_force: null
 last_updated: null
-xml_hash: "7453e322bf69852041f2000327d6f12ce7656c0c22a08e079c2d20ce898b3f21"
+xml_hash: "d695c4f0966b85bbf941868958178f6a49860dac73b2f0332c2b65dbceaf56f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32024L0825"
@@ -109,7 +109,7 @@ der dette er relevant, utenrettslig klage- og erstatningsordning som den næring
 
 der dette er relevant, at prisen er personlig tilpasset basert på automatiserte beslutninger.
 
-Den næringsdrivende skal også gi forbrukeren et standardisert skjema for bruk av angrerett (angreskjema). Den næringsdrivende skal anses for å ha gitt opplysninger etter første ledd bokstav h, i og j dersom denne har gitt forbrukeren korrekt utfylt skjema om opplysninger om angreretten. Der dette er relevant, skal det gis informasjon om eksistensen og plasseringen av elektronisk angrefunksjon, jf. § 20 a.
+Den næringsdrivende skal også gi forbrukeren et standardisert skjema for bruk av angrerett (angreskjema). Den næringsdrivende skal anses for å ha gitt opplysninger etter første ledd bokstav h, i og j dersom denne har gitt forbrukeren korrekt utfylt skjema om opplysninger om angreretten. Der dette er relevant, skal det gis informasjon om eksistensen og plasseringen av elektronisk angrefunksjon, jf. [§ 20 a](lov/2014-06-20-27/§20a).
 
 Opplysningene etter første ledd bokstav l skal vises på en fremtredende måte ved bruk av en harmonisert melding. Opplysningene etter første ledd bokstav m skal sammen med opplysningene etter første ledd bokstav l vises på en fremtredende måte ved bruk av en harmonisert etikett, jf. sjette ledd.
 
@@ -117,7 +117,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om standardisert angreskj
 
 Når en avtale som skal inngås elektronisk forplikter forbrukeren til å betale, skal den næringsdrivende tydelig og i fremhevet form gjøre forbrukeren oppmerksom på opplysningene fastsatt i [§ 8 første ledd bokstav a](lov/2014-06-20-27/§8/ledd/1/bokstav/a), [e](lov/2014-06-20-27/§8/ledd/1/bokstav/e), [m](lov/2014-06-20-27/§8/ledd/1/bokstav/m) og [t](lov/2014-06-20-27/§8/ledd/1/bokstav/t) umiddelbart før forbrukeren foretar bestillingen.
 
-For avtaler som er inngått ved bruk av et nettbasert grensesnitt, kan meldingen også fremsettes ved hjelp av en elektronisk angrefunksjon, jf. § 20 a.
+For avtaler som er inngått ved bruk av et nettbasert grensesnitt, kan meldingen også fremsettes ved hjelp av en elektronisk angrefunksjon, jf. [§ 20 a](lov/2014-06-20-27/§20a).
 
 For fjernsalgsavtaler inngått ved hjelp av et nettbasert grensesnitt skal den næringsdrivende sikre at forbrukeren kan benytte angreretten også ved å bruke en elektronisk angrefunksjon.
 
