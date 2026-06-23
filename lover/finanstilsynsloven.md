@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-04-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "7615d12fe0b8afd09607b9ef4343640bf3c4364704d61b9b25243829df88e62d"
+xml_hash: "140aed8b12fe2b370bcb7b6da23e1caa5258abafbe27e526a44fd60dc6084f07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -45,7 +45,7 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 (5) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra paragrafen her.
 
-> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)).
 
 ### § 1-3. Tilsyn med foretak og markeder
 
@@ -67,7 +67,7 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 (3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetanse som krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3).
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## Kapittel 2 Organisering av Finanstilsynet
 
@@ -219,7 +219,7 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 (5) Departementet kan i forskrift gi regler om Finanstilsynsklagenemndas sammensetning og virksomhet, saksbehandling, sekretariat og finansiering, samt om rapportering om nemndas virksomhet.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 5-2. Søksmål
 
