@@ -8,14 +8,14 @@ short_title: "Endringslov til bokføringsloven mv."
 language: "nb"
 ministry:
   - "Finansdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "d315a1b5fbd2a5388a7a66709f2bf5d878c70bce81d18ab033fba673a8b896ce"
+xml_hash: "54d03ea9c6d7f1070ac7cbdb53bce3e7afd8c0b6adb5acb84fbdd2279eda4f0c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,5 +77,5 @@ Forordning [(EU) 2020/1503](eu/32020r1503) om europeiske tilbydere av folkefinan
 
 ## VII
 
-1. Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
+1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 2. Departementet kan gi overgangsregler.
