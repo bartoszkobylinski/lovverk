@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-07-01"
 last_change_in_force: "2024-01-01"
 last_updated: "2021-08-25"
-xml_hash: "ef91cb923949bd215ba611efab037bf080ae62fe5ced6381ed1fafec23e83f00"
+xml_hash: "f67ac934b97968a6c663d23110ebd6b203fc3df633e8ac3ba84393dd45f7840b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-23T07:44:24.925655+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -386,16 +386,16 @@ Første ledd gjelder ikke dersom de mottatte opplysningene viser at arbeidstaker
 
 Loven gjelder fra det tidspunktet1 Kongen bestemmer.
 
-> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82)(i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 29).
+> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 29).
 
 ### § 31. Opphevelse og endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft, oppheves [lov 14. juni 1912 nr. 1](lov/1912-06-14-1) om taugbaner og løipestrenger.
 
-> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82)(i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 30).
+> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 30).
 
 ### § 32. Overgangsbestemmelser
 
 Forskrifter og vedtak gitt i medhold av bestemmelser i [lov 14. juni 1912 nr. 1](lov/1912-06-14-1) om taugbaner og løipestrenger gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i lov.
 
-> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82)(i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 31).
+> Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 31).
