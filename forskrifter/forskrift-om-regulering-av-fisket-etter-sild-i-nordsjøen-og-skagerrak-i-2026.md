@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-16"
+last_change_in_force: "2026-06-19"
 last_updated: null
-xml_hash: "e638f8f2a445225a92a468d5ce42a4c2143722dd4f5abb992c11336c44d2d67d"
+xml_hash: "65e7057e5005f1074bd0acc6d235f22b14576224d7a475c5ad1b5e5f3b3f89d8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-19T09:04:23.952275+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,9 +82,9 @@ Kvoten til det enkelte fartøy fremkommer ved å multiplisere fartøyets kvotefa
 
 Kvoteenheten for fartøy med ringnottillatelse fastsettes til 1,7456. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 1,1 fiskes i britisk sone.
 
-Kvoteenheten for små ringnotfartøy fastsettes til 1,2421. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,3299 fiskes i britisk sone.
+Kvoteenheten for små ringnotfartøy fastsettes til 1,2421. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,5 fiskes i britisk sone.
 
-> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [16 juni 2026 nr. 1098](forskrift/2026-06-16-1098).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [16 juni 2026 nr. 1098](forskrift/2026-06-16-1098), [19 juni 2026 nr. 1172](forskrift/2026-06-19-1172).
 
 ### § 8. Kvotefleksibilitet på fartøynivå
 
@@ -124,11 +124,11 @@ Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektor
 
 Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta sild:*Hjemmelslengde**Kvotefaktor**Maksimalkvote (tonn)**Herav garantert kvote (tonn)*Fartøy under 7,0 meter19,01716,9362Fartøy 7,0–7,99 meter218,034113,8724Fartøy 8,0–8,99 meter327,051220,8086Fartøy 9,0–9,99 meter436,068227,7448Fartøy 10,0–10,99 meter545,085334,6810Fartøy 11,0–11,99 meter654,102441,6172Fartøy 12,0–12,99 meter763,119448,5534Fartøy 13,0–13,99 meter872,136555,4896Fartøy 14,0–14,99 meter981,153562,4258Fartøy 15,0–15,99 meter1090,170669,3620Fartøy 16,0–16,99 meter1199,187776,2982Fartøy 17,0–17,99 meter12108,204783,2344Fartøy 18,0–18,99 meter13117,221890,1706Fartøy 19,0–19,99 meter14126,238897,1068Fartøy 20,0–20,99 meter15135,2559104,0430Fartøy 21,0–21,35 meter16144,2730110,9792
 
-Av kvoten etter første ledd kan en maksimalkvote på 120 tonn fiskes i britisk sone.
+Av kvoten etter første ledd kan en maksimalkvote på 210 tonn fiskes i britisk sone.
 
 Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for maksimalkvoten er fastsatt til 9,0171 tonn. Ved en eventuell stopp i fisket i lukket gruppe kan det enkelte fartøy likevel fortsette fisket innenfor en kvoteenhet fastsatt til 6,9362 tonn.
 
-> Endret ved forskrift [22 mai 2026 nr. 904](forskrift/2026-05-22-904).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [19 juni 2026 nr. 1172](forskrift/2026-06-19-1172).
 
 ### § 13. Kvoter for fartøy i åpen gruppe
 
