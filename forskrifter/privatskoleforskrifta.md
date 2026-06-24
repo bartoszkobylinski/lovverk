@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-05-18"
+last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "6e6d0c90656eb1e3d98816315b7c77c040ee28bf885a6d50bf080d7b4618836d"
+xml_hash: "17362defb3a76bd105a80ba4fafca6d40cbc709b63373a34227a7bf58caef44a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-20T07:40:56.944763+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -108,9 +108,11 @@ Skolar nemnde i [§ 3-5](forskrift/2024-06-03-901/§3-5) kan også ta inn vaksne
 
 Ungdom med rett til vidaregåande opplæring skal prioriterast føre vaksne søkjarar.
 
-Søkjarar til eit fullstendig utdanningsprogram eller programområde skal takast inn før andre søkjarar.
+Søkjarar til eit fullstendig utdanningsprogram eller programområde skal takast inn før andre søkjarar. Dei som gjer omval og dei som forserer fag, har rett til opplæring også i dei faga som allereie er bestått og skal reknast som søkjarar til eit fullstendig utdanningsprogram.
 
 For søkjarar mellom 19 og 24 år og vaksne søkjarar over 25 år med kort butid i Noreg kan ei vurdering av formalkompetansen erstatte realkompetansevurderinga som skal gjerast etter [privatskolelova § 3-1 andre ledd](lov/2003-07-04-84/§3-1/ledd/2). For vaksne søkjarar over 25 år med kort butid i Norge kan ei vurdering av formalkompetansen skje på grunnlag av dokumentasjon som fortel kva for fag søkjarane må ta for å komme vidare i utdanningsløpet. Det er dagleg leiar som skal vurdere formalkompetansen, og kvar enkelt elev må sjølv leggje fram den nødvendige dokumentasjonen.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 3-3. Meir opplæring for elevar i fag som ikkje er bestått
 
@@ -678,7 +680,9 @@ Dersom dokumentasjonen går tapt, skal det utferdast ny dokumentasjon som er så
 
 Vitnemål i vidaregåande opplæring skal givast som dokumentasjon på bestått opplæringsløp. Skolen kan utferde vitnemål med norsk og samisk tekst til elevar som har hatt opplæring i eller på samisk, og til dei som ber om det.
 
-For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanen skolen har fått godkjend etter [privatskolelova § 2-3](lov/2003-07-04-84/§2-3). Dette gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 4-6](forskrift/2024-06-03-901/§4-6)dei som er fritatt frå vurdering med karakter etter [§ 6-19](forskrift/2024-06-03-901/§6-19) eller [§ 6-21](forskrift/2024-06-03-901/§6-21) til [6-23](forskrift/2024-06-03-901/§6-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 6-47](forskrift/2024-06-03-901/§6-47)dei som har fått dispensasjon etter [§ 6-10](forskrift/2024-06-03-901/§6-10) eller [§ 6-39](forskrift/2024-06-03-901/§6-39).
+For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanen skolen har fått godkjend etter [privatskolelova § 2-3](lov/2003-07-04-84/§2-3). Dette gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 4-6](forskrift/2024-06-03-901/§4-6)dei om er fritatt frå opplæring i kroppsøving etter [§ 4-6](forskrift/2024-06-03-901/§4-6)dei som er fritatt frå vurdering med karakter etter [§ 6-19](forskrift/2024-06-03-901/§6-19) eller [§ 6-21](forskrift/2024-06-03-901/§6-21) til [§ 6-23](forskrift/2024-06-03-901/§6-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 6-47](forskrift/2024-06-03-901/§6-47)dei som har fått dispensasjon etter [§ 6-10](forskrift/2024-06-03-901/§6-10) eller [§ 6-39](forskrift/2024-06-03-901/§6-39).
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 6-46. Førstegongsvitnemål i vidaregåande opplæring
 
@@ -712,9 +716,11 @@ Dersom ein elev ikkje fullfører eit fag på det nivået der standpunktkarakter 
 
 I eit fag der det er fastsett i læreplanen at privatistar kan ta eksamen på høgare nivå og få godskrive faget på lågare nivå, er det eksamenskarakteren på høgaste nivå som skal førast.
 
-Når ein elev har fått sluttvurdering med bestått karakter i eit fag, skal karakteren følgje eleven fram til kompetansebevis og vitnemål. Eleven kan då ikkje bli elev i faget på nytt. Ein elev som har brukt retten til å gjere omval, jf. [opplæringslova § 5-5](lov/2023-06-09-30/§5-5), eller som har fått sluttvurdering i eit fag frå vidaregåande opplæring på 8. til 10. trinn, jf. [§ 1-10](forskrift/2024-06-03-901/§1-10), kan velje mellom å få faget godkjent etter [§ 4-8](forskrift/2024-06-03-901/§4-8) eller å ta faget på nytt som elev. Det er den siste beståtte karakteren som skal førast på vitnemålet eller kompetansebeviset.
+Når ein elev har fått sluttvurdering med bestått karakter i eit fag, skal karakteren følgje eleven fram til kompetansebevis og vitnemål. Eleven kan då ikkje bli elev i faget på nytt. For elevar som i samband med omval eller forsering har brukt retten til å ta fag på nytt som elev, jf. [§ 3-2](forskrift/2024-06-03-901/§3-2), er det den siste beståtte karakteren som skal førast på vitnemålet eller kompetansebeviset.
 
 Elevar med individuell opplæringsplan som ikkje gir grunnlag for å fastsetje standpunktkarakter i eitt eller fleire fag, skal få ført på kompetansebeviset at dei er vurderte etter individuell opplæringsplan. Kompetansen til eleven skal dokumenterast i eit vedlegg til kompetansebeviset.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 6-50. Føring av fråvær i vidaregåande opplæring
 
