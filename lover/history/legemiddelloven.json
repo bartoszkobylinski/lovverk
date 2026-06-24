@@ -2,6 +2,16 @@
   "doc_id": "nl-19921204-132",
   "events": [
     {
+      "commit": "ebb61c7",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): legemiddelloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "37483e7",
       "date": "2026-06-20",
       "from_path": null,

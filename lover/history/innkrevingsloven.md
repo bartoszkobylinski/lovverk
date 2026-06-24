@@ -1,6 +1,11 @@
 # innkrevingsloven — Change history
 
-_4 events; doc_id `nl-20250425-012`._
+_5 events; doc_id `nl-20250425-012`._
+
+## 2026-06-24 — Content updated
+Lines: +5 -5.
+Subject: `update(lov): innkrevingsloven`
+Commit: `5619dd3`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

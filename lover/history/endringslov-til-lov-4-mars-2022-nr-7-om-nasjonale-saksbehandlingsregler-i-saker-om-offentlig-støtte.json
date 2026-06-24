@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260623-076",
+  "events": [
+    {
+      "commit": "363d4fa",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 36,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte"
+}

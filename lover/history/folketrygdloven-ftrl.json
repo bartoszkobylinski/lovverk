@@ -2,6 +2,16 @@
   "doc_id": "nl-19970228-019",
   "events": [
     {
+      "commit": "5cea53a",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 10,
+      "lines_removed": 8,
+      "subject": "update(lov): folketrygdloven-ftrl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0e2a359",
       "date": "2026-06-20",
       "from_path": null,

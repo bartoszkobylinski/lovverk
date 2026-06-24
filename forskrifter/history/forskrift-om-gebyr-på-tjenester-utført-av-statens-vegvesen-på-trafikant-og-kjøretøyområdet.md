@@ -1,6 +1,16 @@
 # forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet — Change history
 
-_2 events; doc_id `sf-20231010-1650`._
+_4 events; doc_id `sf-20231010-1650`._
+
+## 2026-06-24 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet`
+Commit: `8ceb4be`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20231010-1650.md` → `"forskrifter/forskrift-om-gebyr-p\303\245-tjenester-utf\303\270rt-av-statens-vegvesen-p\303\245-trafikant-og-kj\303\270ret\303\270yomr\303\245det.md"`.

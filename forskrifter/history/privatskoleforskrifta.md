@@ -1,6 +1,11 @@
 # privatskoleforskrifta — Change history
 
-_4 events; doc_id `sf-20240603-0901`._
+_5 events; doc_id `sf-20240603-0901`._
+
+## 2026-06-24 — Content updated
+Lines: +12 -6.
+Subject: `update(forskrift): privatskoleforskrifta`
+Commit: `421b91c`.
 
 ## 2026-05-20 — Content updated
 Lines: +23 -3.

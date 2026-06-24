@@ -1,6 +1,36 @@
 {
-  "doc_id": "nl-20251222-119",
+  "doc_id": "nl-20260623-066",
   "events": [
+    {
+      "commit": "23a3aa6",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 45,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-skatteloven-5",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 121,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

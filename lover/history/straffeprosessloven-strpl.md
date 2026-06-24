@@ -1,6 +1,11 @@
 # straffeprosessloven-strpl — Change history
 
-_6 events; doc_id `nl-19810522-025`._
+_7 events; doc_id `nl-19810522-025`._
+
+## 2026-06-24 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): straffeprosessloven-strpl`
+Commit: `80483aa`.
 
 ## 2026-06-20 — Content updated
 Lines: +28 -22.

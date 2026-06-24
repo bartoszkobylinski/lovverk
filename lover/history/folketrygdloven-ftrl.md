@@ -1,6 +1,11 @@
 # folketrygdloven-ftrl — Change history
 
-_7 events; doc_id `nl-19970228-019`._
+_8 events; doc_id `nl-19970228-019`._
+
+## 2026-06-24 — Content updated
+Lines: +10 -8.
+Subject: `update(lov): folketrygdloven-ftrl`
+Commit: `5cea53a`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260623-067",
+  "events": [
+    {
+      "commit": "1d91bbf",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 45,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-vareførselsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-vareførselsloven"
+}

@@ -2,6 +2,16 @@
   "doc_id": "nl-20220304-007",
   "events": [
     {
+      "commit": "37c7335",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 2,
+      "subject": "update(lov): støtteprosessloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "718cb96",
       "date": "2026-06-20",
       "from_path": null,

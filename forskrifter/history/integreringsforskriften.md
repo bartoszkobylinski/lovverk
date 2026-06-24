@@ -1,6 +1,16 @@
 # integreringsforskriften — Change history
 
-_2 events; doc_id `sf-20201215-2912`._
+_4 events; doc_id `sf-20201215-2912`._
+
+## 2026-06-24 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): integreringsforskriften`
+Commit: `89e252d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20201215-2912.md` → `forskrifter/integreringsforskriften.md`.

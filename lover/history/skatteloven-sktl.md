@@ -1,6 +1,11 @@
 # skatteloven-sktl — Change history
 
-_4 events; doc_id `nl-19990326-014`._
+_5 events; doc_id `nl-19990326-014`._
+
+## 2026-06-24 — Content updated
+Lines: +16 -16.
+Subject: `update(lov): skatteloven-sktl`
+Commit: `cef182a`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

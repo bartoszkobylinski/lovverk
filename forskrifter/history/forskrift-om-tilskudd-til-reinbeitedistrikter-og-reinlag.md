@@ -1,6 +1,11 @@
 # forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag — Change history
 
-_5 events; doc_id `sf-20221221-2468`._
+_6 events; doc_id `sf-20221221-2468`._
+
+## 2026-06-24 — Content updated
+Lines: +10 -6.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag`
+Commit: `8263972`.
 
 ## 2026-05-14 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,11 @@
 # forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026 — Change history
 
-_5 events; doc_id `sf-20251219-2828`._
+_6 events; doc_id `sf-20251219-2828`._
+
+## 2026-06-24 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026`
+Commit: `2abc845`.
 
 ## 2026-06-19 — Content updated
 Lines: +7 -7.

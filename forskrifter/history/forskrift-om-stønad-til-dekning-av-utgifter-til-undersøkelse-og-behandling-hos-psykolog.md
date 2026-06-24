@@ -1,6 +1,16 @@
 # forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-psykolog — Change history
 
-_2 events; doc_id `sf-20200618-1262`._
+_4 events; doc_id `sf-20200618-1262`._
+
+## 2026-06-24 — Content updated
+Lines: +9 -9.
+Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-psykolog`
+Commit: `10eade8`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20200618-1262.md` → `"forskrifter/forskrift-om-st\303\270nad-til-dekning-av-utgifter-til-unders\303\270kelse-og-behandling-hos-psykolog.md"`.

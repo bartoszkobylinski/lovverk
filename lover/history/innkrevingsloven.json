@@ -2,6 +2,16 @@
   "doc_id": "nl-20250425-012",
   "events": [
     {
+      "commit": "5619dd3",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(lov): innkrevingsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9630b90",
       "date": "2026-06-20",
       "from_path": null,

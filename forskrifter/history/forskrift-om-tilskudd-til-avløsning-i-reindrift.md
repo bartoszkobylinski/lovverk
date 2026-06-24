@@ -1,6 +1,16 @@
 # forskrift-om-tilskudd-til-avløsning-i-reindrift — Change history
 
-_2 events; doc_id `sf-20210622-2268`._
+_4 events; doc_id `sf-20210622-2268`._
+
+## 2026-06-24 — Content updated
+Lines: +17 -5.
+Subject: `update(forskrift): forskrift-om-tilskudd-til-avløsning-i-reindrift`
+Commit: `b475673`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20210622-2268.md` → `"forskrifter/forskrift-om-tilskudd-til-avl\303\270sning-i-reindrift.md"`.

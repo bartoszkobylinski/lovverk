@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260623-065",
+  "events": [
+    {
+      "commit": "5a5a0cf",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-folketrygdloven-4",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-folketrygdloven-4"
+}

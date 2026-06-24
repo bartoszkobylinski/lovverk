@@ -2,6 +2,16 @@
   "doc_id": "nl-20200507-037",
   "events": [
     {
+      "commit": "21af852",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(lov): lov-om-medisinsk-utstyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fb61bea",
       "date": "2026-06-20",
       "from_path": null,

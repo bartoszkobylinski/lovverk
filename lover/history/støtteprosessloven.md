@@ -1,6 +1,11 @@
 # støtteprosessloven — Change history
 
-_4 events; doc_id `nl-20220304-007`._
+_5 events; doc_id `nl-20220304-007`._
+
+## 2026-06-24 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): støtteprosessloven`
+Commit: `37c7335`.
 
 ## 2026-06-20 — Content updated
 Lines: +8 -2.

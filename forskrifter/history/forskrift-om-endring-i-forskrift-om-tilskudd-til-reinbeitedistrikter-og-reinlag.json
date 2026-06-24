@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260622-1178",
+  "events": [
+    {
+      "commit": "53d4963",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag"
+}

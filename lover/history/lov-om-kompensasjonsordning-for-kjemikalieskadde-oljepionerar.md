@@ -1,6 +1,16 @@
 # lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar — Change history
 
-_2 events; doc_id `nl-20251222-116`._
+_4 events; doc_id `nl-20251222-116`._
+
+## 2026-06-24 — Content updated
+Lines: +6 -4.
+Subject: `update(lov): lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar`
+Commit: `37bfdee`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20251222-116.md` → `lover/lov-om-kompensasjonsordning-for-kjemikalieskadde-oljepionerar.md`.

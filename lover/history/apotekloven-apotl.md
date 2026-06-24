@@ -1,6 +1,11 @@
 # apotekloven-apotl — Change history
 
-_4 events; doc_id `nl-20000602-039`._
+_5 events; doc_id `nl-20000602-039`._
+
+## 2026-06-24 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): apotekloven-apotl`
+Commit: `7653ffc`.
 
 ## 2026-06-20 — Content updated
 Lines: +3 -3.

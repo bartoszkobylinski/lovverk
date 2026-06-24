@@ -1,0 +1,17 @@
+{
+  "doc_id": "nl-20260623-070",
+  "events": [
+    {
+      "commit": "a200d50",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(lov): endringslov-til-endringslov-til-merverdiavgiftsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endringslov-til-endringslov-til-merverdiavgiftsloven"
+}

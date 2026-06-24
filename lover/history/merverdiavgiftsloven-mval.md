@@ -1,6 +1,11 @@
 # merverdiavgiftsloven-mval — Change history
 
-_4 events; doc_id `nl-20090619-058`._
+_5 events; doc_id `nl-20090619-058`._
+
+## 2026-06-24 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): merverdiavgiftsloven-mval`
+Commit: `71b8e3d`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -4.

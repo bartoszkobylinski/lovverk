@@ -1,6 +1,36 @@
 {
-  "doc_id": "sf-20260116-0054",
+  "doc_id": "sf-20260622-1185",
   "events": [
+    {
+      "commit": "abb8b0d",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 34,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-gebyr-på-tjenester-utført-av-statens-vegvesen-på-trafikant-og-kjøretøyområdet",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "5511aa4",
+      "date": "2026-05-04",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 96,
+      "subject": "sync: 2 new, 20 changed, 30 renamed, 373 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

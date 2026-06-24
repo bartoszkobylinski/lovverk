@@ -1,6 +1,21 @@
 # endringslov-til-skatteloven-5 — Change history
 
-_2 events; doc_id `nl-20251222-119`._
+_5 events; doc_id `nl-20260623-066`._
+
+## 2026-06-24 — Added to corpus
+Lines: +45 -0.
+Subject: `add(lov): endringslov-til-skatteloven-5`
+Commit: `23a3aa6`.
+
+## 2026-05-04 — Content updated
+Lines: +0 -121.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20251222-119.md` → `lover/endringslov-til-skatteloven-5.md`.

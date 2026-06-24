@@ -1,6 +1,11 @@
 # sikkerhetsloven-sikkl — Change history
 
-_4 events; doc_id `nl-20180601-024`._
+_5 events; doc_id `nl-20180601-024`._
+
+## 2026-06-24 — Content updated
+Lines: +4 -2.
+Subject: `update(lov): sikkerhetsloven-sikkl`
+Commit: `6d33883`.
 
 ## 2026-06-20 — Content updated
 Lines: +4 -2.

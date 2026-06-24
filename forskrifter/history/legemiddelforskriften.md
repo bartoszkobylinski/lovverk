@@ -1,6 +1,11 @@
 # legemiddelforskriften — Change history
 
-_4 events; doc_id `sf-20091218-1839`._
+_5 events; doc_id `sf-20091218-1839`._
+
+## 2026-06-24 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): legemiddelforskriften`
+Commit: `4692bb2`.
 
 ## 2026-05-08 — Content updated
 Lines: +17 -11.

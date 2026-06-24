@@ -1,6 +1,11 @@
 # utleveringsloven-utlevl — Change history
 
-_5 events; doc_id `nl-19750613-039`._
+_6 events; doc_id `nl-19750613-039`._
+
+## 2026-06-24 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): utleveringsloven-utlevl`
+Commit: `ea100e6`.
 
 ## 2026-06-20 — Content updated
 Lines: +5 -5.

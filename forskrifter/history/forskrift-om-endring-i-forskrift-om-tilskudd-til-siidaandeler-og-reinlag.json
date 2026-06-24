@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260622-1177",
+  "events": [
+    {
+      "commit": "b0f5f72",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 43,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tilskudd-til-siidaandeler-og-reinlag",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tilskudd-til-siidaandeler-og-reinlag"
+}

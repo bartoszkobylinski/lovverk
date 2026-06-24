@@ -1,6 +1,26 @@
 {
-  "doc_id": "sf-20250508-0892",
+  "doc_id": "sf-20260507-1167",
   "events": [
+    {
+      "commit": "f672fb0",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 158,
+      "lines_removed": 162,
+      "subject": "add(forskrift): forskrift-for-graden-philosophiae-doctor-ved-nord-universitet",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

@@ -2,6 +2,16 @@
   "doc_id": "nl-20090619-058",
   "events": [
     {
+      "commit": "71b8e3d",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): merverdiavgiftsloven-mval",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "e403cc6",
       "date": "2026-06-20",
       "from_path": null,

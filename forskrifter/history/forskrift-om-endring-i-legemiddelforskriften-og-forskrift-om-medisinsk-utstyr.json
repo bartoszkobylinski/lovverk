@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260615-1169",
+  "events": [
+    {
+      "commit": "e65c637",
+      "date": "2026-06-24",
+      "from_path": null,
+      "lines_added": 39,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-legemiddelforskriften-og-forskrift-om-medisinsk-utstyr",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-legemiddelforskriften-og-forskrift-om-medisinsk-utstyr"
+}

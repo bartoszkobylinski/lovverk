@@ -1,6 +1,11 @@
 # forskrift-om-medisinsk-utstyr — Change history
 
-_4 events; doc_id `sf-20210509-1476`._
+_5 events; doc_id `sf-20210509-1476`._
+
+## 2026-06-24 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): forskrift-om-medisinsk-utstyr`
+Commit: `a4ad7cb`.
 
 ## 2026-05-08 — Content updated
 Lines: +5 -5.
