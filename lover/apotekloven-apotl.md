@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-03-01"
 last_change_in_force: "2024-07-01"
 last_updated: "2021-11-17"
-xml_hash: "0de07eca4ac929fd875e65a65aa815f946c1290c4b844fde60f58e75c2bf34a4"
+xml_hash: "78d28bc8f4071e6f480dde2d9d773e1733bf40ceb8eed6d518307b2a32e288e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -314,7 +314,7 @@ Apoteket skal registrere etterspørsel og utlevering av legemidler ved apoteket,
 
 Departementet kan gi forskrift om hvilke varer et apotek alltid skal ha på lager og stille minstekrav til leveringsgrad for legemidler og om apotekenes plikter ved mottak av legemidler fra leverandør og om adgangen for apotek til å levere legemidler til hverandre.
 
-> Endret ved lov [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ### § 5-5. Regnskap og annen virksomhetsregistrering
 
