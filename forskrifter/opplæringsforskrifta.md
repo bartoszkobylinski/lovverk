@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "933fa58f99663a7c75daf17e99933217ba97daeda241c96a188822c456c7ce0d"
+xml_hash: "1bec691668bfc28d8095c05be898d79b215388e06d0c1b198b19958c231b4c61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -178,9 +178,11 @@ Kommunen avgjer om ein søkjar har realkompetanse tilsvarande fullført førebua
 
 ### § 4-2. Inntak til utdanningsprogram og programområde
 
-Søkjarar skal takast inn til eit fullstendig utdanningsprogram på vidaregåande trinn 1 eller eit fullstendig programområde på vidaregåande trinn 2 eller vidaregåande trinn 3. Dette gjeld også søkjarar som gjer omval, som forserer fag, eller som planlegg å bruke lengre enn normert tid på trinnet, jf. [§ 5-1](forskrift/2024-06-03-900/§5-1) tredje ledd.
+Søkjarar skal takast inn til eit fullstendig utdanningsprogram på vidaregåande trinn 1 eller eit fullstendig programområde på vidaregåande trinn 2 eller vidaregåande trinn 3. Dette gjeld også søkjarar som gjer omval, som forserer fag, eller som planlegg å bruke lengre enn normert tid på trinnet, jf. [§ 5-1](forskrift/2024-06-03-900/§5-1) tredje ledd. Dei som gjer omval og dei som forserer fag, har rett til opplæring også i dei faga som allereie er bestått.
 
 Ein elev kan søkje fylkeskommunen om å ikkje delta i opplæringa i eit eller fleire fag for å ta eksamen som privatist. Fylkeskommunen kan innvilge søknaden om det ligg føre tungtvegande grunnar.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 4-3. Meir opplæring for elevar i fag som er gjennomført, men ikkje bestått
 
@@ -1126,7 +1128,9 @@ Dersom dokumentasjonen går tapt, skal det utferdast ny dokumentasjon som er så
 
 Vitnemål i vidaregåande opplæring skal givast som dokumentasjon på bestått opplæringsløp. Skolen eller fylkeskommunen skal utferde vitnemål med norsk og samisk tekst til elevar som har hatt opplæring i eller på samisk, og privatistar som har tatt eksamen i eller på samisk, og til dei som ber om det.
 
-For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanverket. Dette gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 5-9](forskrift/2024-06-03-900/§5-9)dei som er fritatt frå vurdering med karakter etter [§ 9-19](forskrift/2024-06-03-900/§9-19) eller [§ 9-21](forskrift/2024-06-03-900/§9-21) til [§ 9-23](forskrift/2024-06-03-900/§9-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 9-48](forskrift/2024-06-03-900/§9-48)dei som har fått dispensasjon etter [§ 9-10](forskrift/2024-06-03-900/§9-10) eller [§ 9-40](forskrift/2024-06-03-900/§9-40).
+For å få vitnemål må ein ha bestått alle nødvendige fag og eksamenar i samsvar med læreplanverket. Dette gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 5-9](forskrift/2024-06-03-900/§5-9)dei som er fritatt frå opplæring i kroppsøving etter [§ 5-10](forskrift/2024-06-03-900/§5-10)dei som er fritatt frå vurdering med karakter etter [§ 9-19](forskrift/2024-06-03-900/§9-19) eller [§ 9-21](forskrift/2024-06-03-900/§9-21) til [§ 9-23](forskrift/2024-06-03-900/§9-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 9-49](forskrift/2024-06-03-900/§9-49)dei som har fått dispensasjon etter [§ 9-10](forskrift/2024-06-03-900/§9-10) eller [§ 9-40](forskrift/2024-06-03-900/§9-40).
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 9-47. Førstegongsvitnemål i vidaregåande opplæring
 
@@ -1140,11 +1144,11 @@ Dersom det allereie er utferda eit førstegongsvitnemål, skal dette berre endra
 
 Fag- og sveinebrev skal givast som dokumentasjon på bestått fag- og sveineprøve i vidaregåande opplæring. Praksisbrev skal givast som dokumentasjon på bestått praksisbrevprøve.
 
-Det er berre dei som har bestått alle relevante fag og eksamenar, som kan få fag- og sveinebrev og praksisbrev. Dette kravet gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 5-9](forskrift/2024-06-03-900/§5-9)dei som er fritatt frå vurdering med karakter etter [§ 9-19](forskrift/2024-06-03-900/§9-19) eller [§ 9-21](forskrift/2024-06-03-900/§9-21) til [§ 9-23](forskrift/2024-06-03-900/§9-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 9-50](forskrift/2024-06-03-900/§9-50)dei som har fått dispensasjon etter [§ 9-10](forskrift/2024-06-03-900/§9-10) og [§ 9-40](forskrift/2024-06-03-900/§9-40)dei som har bestått språkfag i svensk eller dansk som kan sidestillast med kravet til norsk.
+Det er berre dei som har bestått alle relevante fag og eksamenar, som kan få fag- og sveinebrev og praksisbrev. Dette kravet gjeld likevel ikkje fordei som er fritatt frå opplæring i eitt av dei norske skriftspråka etter [§ 5-9](forskrift/2024-06-03-900/§5-9)dei som er fritatt frå opplæring i kroppsøving etter [§ 5-10](forskrift/2024-06-03-900/§5-10)dei som er fritatt frå vurdering med karakter etter [§ 9-19](forskrift/2024-06-03-900/§9-19) eller [§ 9-21](forskrift/2024-06-03-900/§9-21) til [§ 9-23](forskrift/2024-06-03-900/§9-23)dei som fell inn under dei særskilde reglane om dokumentasjon etter [§ 9-49](forskrift/2024-06-03-900/§9-49)dei som har fått dispensasjon etter [§ 9-10](forskrift/2024-06-03-900/§9-10) og [§ 9-40](forskrift/2024-06-03-900/§9-40)dei som har bestått språkfag i svensk eller dansk som kan sidestillast med kravet til norsk.
 
 Praksiskandidatar og kandidatar for fagbrev på jobb treng ikkje fellesfag for å få utferda fag- eller sveinebrev.
 
-> Endra ved forskrift [20 juni 2025 nr. 1179](forskrift/2025-06-20-1179) (i kraft 1 aug 2025).
+> Endra ved forskrifter [20 juni 2025 nr. 1179](forskrift/2025-06-20-1179) (i kraft 1 aug 2025), [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 9-49. Særskilde reglar om dokumentasjon i yrkesfaglege utdanningsprogram for dei med store lærevanskar
 
@@ -1174,11 +1178,13 @@ Dersom ein elev ikkje fullfører eit fag på det nivået der standpunktkarakter 
 
 I eit fag der det er fastsett i læreplanen at privatistar kan ta eksamen på høgare nivå og få godskrive faget på lågare nivå, er det eksamenskarakteren på høgaste nivå som skal førast.
 
-Når ein elev har fått sluttvurdering med bestått karakter i eit fag, skal karakteren følgje eleven fram til kompetansebevis og vitnemål. Eleven kan då ikkje bli elev i faget på nytt. Ein elev som har brukt retten til å gjere omval, jf. [opplæringslova § 5-5](lov/2023-06-09-30/§5-5), eller som har fått sluttvurdering i eit fag frå vidaregåande opplæring på 8. til 10. trinn, jf. [§ 1-12](forskrift/2024-06-03-900/§1-12), kan velje mellom å få faget godkjent etter [§ 5-11](forskrift/2024-06-03-900/§5-11) eller å ta faget på nytt som elev. Det er den siste beståtte karakteren som skal førast på vitnemålet eller kompetansebeviset.
+Når ein elev har fått sluttvurdering med bestått karakter i eit fag, skal karakteren følgje eleven fram til kompetansebevis og vitnemål. Eleven kan då ikkje bli elev i faget på nytt. For elevar som i samband med omval eller forsering har brukt retten til å ta fag på nytt som elev, jf. [§ 4-2](forskrift/2024-06-03-900/§4-2), er det den siste beståtte karakteren som skal førast på vitnemålet eller kompetansebeviset.
 
 På vitnemålet eller kompetansebeviset til privatistar skal det berre førast eksamenskarakterar. Eventuelle tidlegare standpunkt- og eksamenskarakterar i eit fag fell bort når ein privatist får eksamenskarakteren ført på vitnemålet eller kompetansebeviset.
 
 Elevar med individuell opplæringsplan som ikkje gir grunnlag for å fastsetje standpunktkarakter i eitt eller fleire fag, skal få ført på kompetansebeviset at dei er vurderte etter individuell opplæringsplan. Kompetansen til eleven skal dokumenterast i eit vedlegg til kompetansebeviset.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 9-53. Føring av fråvær i vidaregåande opplæring
 
@@ -1316,9 +1322,11 @@ Dersom fag- eller sveineprøva, praksisbrevprøva eller kompetanseprøva ikkje e
 
 Lærebedrifta skal sørgje for oppmelding for dei som har hatt læretid i bedrift. Fylkeskommunen skal sørgje for oppmelding for dei som har hatt opplæring i skole. Fylkeskommunen har ansvaret for å gjennomføre prøva og skal dekkje dei kostnadene lærebedrifta har i samband med gjennomføringa.
 
-Dersom kandidaten får godkjent forlenging av lærekontrakt eller ny lærekontrakt i lærefaget, eller får tilbod om meir opplæring i lærefaget av fylkeskommunen, gjeld ikkje avgrensinga om berre ei ny prøve etter første ledd.
+Dersom kandidaten får godkjent forlenging av lærekontrakt eller ny lærekontrakt i lærefaget, eller får tilbod om meir opplæring i lærefaget av fylkeskommunen, gjeld ikkje avgrensinga om berre ei ny prøve etter første ledd. Den gjeld heller ikkje der ein lærekandidat eller praksisbrevkandidat får godkjent forlenga eller ny opplæringskontrakt.
 
 Første og andre ledd gjeld ikkje for praksiskandidatar. Praksiskandidatar kan melde seg opp til ny prøve tidlegast seks månader etter den førre prøva. Dei må sjølve melde seg opp til ny prøve og betale ny prøveavgift.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 9-67. Utsett fag- eller sveineprøve, praksisbrevprøve eller kompetanseprøve
 
@@ -1630,7 +1638,9 @@ Resultatet av realkompetansevurderinga dannar grunnlag for opplæringstilbodet o
 
 Fylkeskommunen skal formidle vaksne som har rett til læreplass etter [opplæringslova § 18-6](lov/2023-06-09-30/§18-6).
 
-Reglane i [§ 7-2](forskrift/2024-06-03-900/§7-2), § 7-7 og § 7-8 gjeld ved formidling av vaksne til læreplass.
+Reglane i [§ 6-3](forskrift/2024-06-03-900/§6-3), [§ 6-4](forskrift/2024-06-03-900/§6-4) og [§ 7-2](forskrift/2024-06-03-900/§7-2) gjeld ved formidling av vaksne til læreplass.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### Kapittel 14. Innhaldet i opplæringa for vaksne
 
@@ -1710,7 +1720,9 @@ Varselet skal gi den vaksne deltakaren høve til å få karakter i fag og modula
 
 Med realkompetansevurdering skal ein utan bruk av tradisjonelle prøveordningar avgjere om realkompetansen til ein vaksen deltakar kan reknast som likeverdig med den kompetansen ein får gjennom grunnopplæringa. Realkompetansen skal vurderast ut frå kompetansemåla i læreplanane i faga eller modulane.
 
-Kommunen og fylkeskommunen har ansvaret for at realkompetansevurderinga blir gjennomført på forsvarleg grunnlag og så snart som mogleg. Kommunen og fylkeskommunen kan velje å gjennomføre vurderinga på andre språk enn norsk og samisk.
+Kommunen og fylkeskommunen har ansvaret for at realkompetansevurderinga blir gjennomført på forsvarleg grunnlag og så snart som mogleg. Kommunen og fylkeskommunen kan velje å gjennomføre vurderinga på andre språk enn norsk, samisk eller norsk teiknspråk.
+
+> Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### § 15-6. System for føring av karakterar
 
