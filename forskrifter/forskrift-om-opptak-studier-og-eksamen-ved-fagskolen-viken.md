@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-06-15"
 last_change_in_force: "2025-05-01"
 last_updated: null
-xml_hash: "70595cd1b9034eae0d8f119e433334cb10c8834aa357a6079e2223316e79f3a2"
+xml_hash: "125e958f8b43689b4cbb8a9fd5d6c2a3d09921dc4095f60eb167a028c134fc46"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ eu_basis: []
 
 (2) Forskriften gjelder for personer somsøker om opptak til studieprogram ved Fagskolen Vikenhar studierett og status som student ved Fagskolen Viken
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 1-2. Definisjoner
 
@@ -61,7 +61,15 @@ eu_basis: []
 - *Studiepoeng:* Mål på arbeidsmengde til en utdanning eller et emne i høyere utdanning. Ett studieår med fulltidsstudier tilsvarer 60 studiepoeng, noe som tilsvarer ca. 1500–1800 arbeidstimer.
 - *Utsatt eksamen:* Eksamen som kan arrangeres for studenter som har vært syke eller som har hatt gyldig grunn til fravær ved ordinær eksamen.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
+### § 1-3. Innhenting og behandling av personopplysninger
+
+> **Tilføyes** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
+### § 1-4. Forholdet til annet regelverk
+
+> **Tilføyes** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2. Studentens ansvar og rettigheter
 
@@ -79,13 +87,13 @@ eu_basis: []
 
 (6) En student som følger studiet på normert tid, har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres vesentlig. Mindre endringer må ikke medføre at studenten blir forsinket i sin progresjon.
 
-> Tilføyd ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023).
+> Tilføyd ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-2. Studentenes rett til opplæring
 
 Student som er tatt opp til en utdanning og har akseptert plass, har rett til opplæring, vurderinger, dokumentasjon og et forsvarlig læringsmiljø i samsvar med de lover og regler som gjelder for utdanningen.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-1). [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-1). [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-2-1. Rett til permisjon og midlertidig studieavbrudd
 
@@ -103,7 +111,7 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 (7) Student med permisjon plikter å varsle skolen når studiet skal gjenopptas i henhold til angitte frister i Studenthåndboken.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-1-1), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-1-1), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-3. Studentens ansvar og undersøkelses- og opplysningsplikt
 
@@ -131,7 +139,7 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 (12) Arbeidsinnsatsen for en fulltidsstudent er forventet å tilsvare et normalt arbeidsår, det vil si mellom 1500–1800 arbeidstimer per studieår. Studenten er selv ansvarlig for å følge opp sin egen undervisning-/utdanningsplan.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-2), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-2), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-4. Studentens studieavbrudd
 
@@ -145,7 +153,7 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 ### § 2-5. Mislighold av studentenes rettigheter og plikter
 
-> Endret ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4).
+> Endret ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-5-1. Fagskolens mislighold
 
@@ -165,7 +173,7 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 (8) For de emnene av studiet som allerede er fullført, vil kompetansebevis utstedes. Kompetansebeviset vil synliggjøre hvor stor andel av studiet som er ferdigstilt.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4-1), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4-1), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-5-2. Studentenes mislighold
 
@@ -173,13 +181,13 @@ Student som er tatt opp til en utdanning og har akseptert plass, har rett til op
 
 (2) Overholder ikke studenten sine plikter, jf. [§ 2-3](forskrift/2021-06-14-1978/§2-3), eller dersom beskrevet i lover og sentrale forskrifter, kan fagskolen vedta å ikke tildele studenten vitnemål ved fullført utdanning.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4-2), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, endring av § 2-5-1 første ledd antatt å gjelde § 2-5-2 første ledd, Lovdatas anm.).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-4-2), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, endring av § 2-5-1 første ledd antatt å gjelde § 2-5-2 første ledd, Lovdatas anm.). **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-6. Betalingsforpliktelser
 
 Studentens betalingsforpliktelser og fagskolens ulike avgifter henvises til fagskolens nettsider.
 
-> Endret ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-5).
+> Endret ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023, tidligere § 2-5). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 2-7. Krav til studieprogresjon
 
@@ -195,7 +203,7 @@ Studentens betalingsforpliktelser og fagskolens ulike avgifter henvises til fags
 
 Studieretten opphører når:studenten etter tre eksamensforsøk ikke har bestått eksamen i samme emne.studenten etter tre ganger ikke har bestått samme emnet med unntak av § 2-8 c.studenten to ganger ikke har bestått det samme praksisemnet eller praksisperiode. Tilsvarende gjelder når hovedoppgave ikke blir innlevert til ordinær eller utsatt frist.studenten ikke har betalt studiekostnaden eller annen avgift som er oppgitt etter fastsatt friststudenten unnlater å levere original dokumentasjon eller vitnemål når dette blir etterspurtstudenten ved falskt vitnemål eller annen ugyldig dokumentasjon er innvilget opptakstudenten er utestengt etter forhold regulert i [fagskoleloven § 25](lov/2018-06-08-28/§25).studenten ikke tilfredsstiller vilkårene for betinget opptak, jf. [§ 3-3-3](forskrift/2021-06-14-1978/§3-3-3).studenten ikke har fullført studieprogrammet innen forlenget studieløp, jf. [§ 2-1](forskrift/2021-06-14-1978/§2-1) (3) og (4).
 
-> Tilføyd ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Tilføyd ved forskrift [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ## Kapittel 3. Opptak
 
@@ -221,9 +229,11 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (4) En student kan få innvilget opptak maksimalt tre ganger til samme studieprogram ved Fagskolen Viken hvis studiet tidligere har vært påbegynt.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3. Opptakskrav
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-1. Generelt opptaksgrunnlag
 
@@ -239,7 +249,7 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (6) Hvilke fag/svennebrev eller vitnemål for yrkeskompetanser som gir rett til opptak, samt øvrige opptakskrav for den aktuelle utdanningen er gjengitt i den aktuelle studieplan for utdanningen.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-2. Opptak på grunn av realkompetanse
 
@@ -251,9 +261,11 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (4) Hvis det er tvil om realkompetansen er god nok, kan det bli aktuelt å gjennomføre opptaksprøve av søkere for å få et bedre vurderingsgrunnlag.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-3. Betinget opptak
+
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-3-1. Betinget opptak
 
@@ -269,7 +281,7 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (6) Studenter med betinget opptak, som gjennomfører et emne eller går opp til eksamen i en utdanning, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-3-2. Opptak på grunnlag av utenlandsk utdanning
 
@@ -278,6 +290,8 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 (2) Søkere fra nordiske land får sin kompetanse realkompetansevurdert av skolen. Søkere utenfor Norden må dokumentere opplæring og praksis ved autorisert translatør og ha bestått eller ha likeverdig realkompetanse i de felles allmenne fagene tilsvarende Vg1 og Vg2 i yrkesfaglige utdanningsprogram.
 
 (3) Ved opptak til fagskoleutdanning i helsefag må søkere med utenlandsk utdanning, være autorisert i Norge.
+
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-4. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
 
@@ -295,11 +309,15 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (7) Ved utdanninger som stiller språkkrav til engelsk, vil disse kravene fremkomme i utdanningenes studieplan og på fagskolens nettside der dette er relevant.
 
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-3-5. Overgangsregler for opptak
 
 (1) Generell studiekompetanse etter tidligere ordninger reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning](forskrift/2017-01-06-13).
 
 (2) Omregningstabell for søkere med vitnemål fra norsk gymnas med bokstavkarakterer reguleres i [forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning](forskrift/2017-01-06-13).
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-3-6. Reservasjon av studieplass
 
@@ -307,7 +325,11 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (2) Søknad skal sendes til fagskolen innen tre uker fra tilbudet om studieplass ble mottatt.
 
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-4. Politiattest ved opptak til fagskoleutdanning
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-4-1. Generelt om politiattest
 
@@ -319,23 +341,33 @@ Studieretten opphører når:studenten etter tre eksamensforsøk ikke har beståt
 
 (4) Informasjon om krav til politiattest fremkommer også i brev om tilbud om studieplass.
 
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-4-2. Tidspunkt for fremleggelse av politiattest
 
 (1) Alle søkere som får tilbud om plass ved utdanninger med krav om politiattest jf. § 3-4-1 første ledd, skal fremlegge politiattest til studiestedet innen fire uker fra tilbudet kommer frem.
 
 (2) Politiattesten må ikke være eldre enn tre måneder på tidspunktet for fremleggelse av attesten.
 
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-4-3. Bekreftelse ved opptak
 
 Til utdanninger med krav om politiattest skal søkere, sammen med melding om at de tar imot tilbud om studieplass, bekrefte at de kjenner regelverket om politiattest, og at de innen fristen vil fremlegge attest som er relevant for opptak til søkerens utdanning.
+
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-4-4. Fornyet vandelskontroll
 
 Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
 
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-4-5. Behandling av politiattest med merknad
 
 Kravet til behandling av politiattest med merknad er regulert i [fagskoleloven § 26](lov/2018-06-08-28/§26).
+
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-4-6. Følger av at politiattest ikke fremlegges og/eller at studenten kan delta i praksisopplæring eller klinisk undervisning
 
@@ -344,6 +376,8 @@ Kravet til behandling av politiattest med merknad er regulert i [fagskoleloven �
 (2) Det kan gjøres unntak fra første ledd dersom årsaken til at søkeren eller studenten ikke fremlegger politiattest ligger utenfor kontroll til vedkommende.
 
 (3) Studenter som ikke kan delta i obligatorisk praksisopplæring eller klinisk undervisning etter [fagskoleloven § 27](lov/2018-06-08-28/§27) får ikke vitnemål for fullført grad eller utdanning.
+
+> **Oppheves** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-5. Godskriving og fritak
 
@@ -379,7 +413,11 @@ Kravet til behandling av politiattest med merknad er regulert i [fagskoleloven �
 
 (5) Hvis det er venteliste etter at det ordinære opptaket er gjennomført, men fagskolen får ledige studieplasser etter studiestart, skal fagskolen tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan Fagskolen Viken tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
+### § 3-6-1. Språkkrav for søkere med utenlandsk utdanning
+
+> **Tilføyes** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 3-7. Poengberegning ved rangering av søkere
 
@@ -403,9 +441,13 @@ Ved beregning av karakterpoeng skal karakterforbedringer erstatte tidligere kara
 
 (2) I vurderingen skal fagskolen legge vekt på søkerens reelle kvalifikasjoner for studiet, herunder søkerens norskkunnskaper.
 
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
 ### § 3-10. Rangering på grunnlag av opptaksprøve
 
 Søkere til fagskoleutdanninger som har opptaksprøve som spesielt opptakskrav, skal rangeres på grunnlag av § 3-1, § 3-3–§ 3-4 og opptaksprøven. Fagskolen fastsetter hvor stor vekt opptaksprøven skal tillegges.
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ## Kapittel 4. Avsluttende vurdering, eksamen og sensur
 
@@ -453,7 +495,7 @@ Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon 
 
 (7) Tellende forsøk av emne er når studentenhar bestått emnefår karakteren F / ikke beståttfår emne annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 4-4-1. Obligatoriske arbeidskrav
 
@@ -465,9 +507,19 @@ Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon 
 
 (4) Tellende forsøk av obligatoriske arbeidskrav er når studentenhar bestått arbeidskravfår vurdering «ikke godkjent»Trekker seg etter avmeldingsfristens utløpikke møter til obligatorisk arbeidskravikke leverer obligatorisk arbeidskrav innen fristhar møtt til obligatorisk arbeidskrav, men velger å trekke seg under gjennomføring av arbeidskravfår obligatorisk arbeidskrav annullert grunnet fusk, forsøk på fusk, falske vitnemål eller annen uskikket opptreden.
 
-> Tilføyd ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Tilføyd ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
+### § 4-4-2. Obligatoriske arbeidskrav
+
+> **Tilføyes** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
+
+### § 4-4-3. Sykdom ved vurderingstellende arbeid
+
+> **Tilføyes** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 4-5. Eksamen
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 4-5-1. Vilkår for å gå opp til eksamen
 
@@ -583,7 +635,7 @@ Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon 
 
 (7) Det skal gjennomføres ekstern evaluering av eksamensformen(e).
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 4-7. Særskilt om klagesensur
 
@@ -635,7 +687,7 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 (6) I saker om mistanke om- eller avdekking av fusk og plagiering har studenten rett til å bli hørt før endelig vedtak fattes. Vedtaket er et enkeltvedtak og kan påklages, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24) og [§ 25](lov/2018-06-08-28/§25).
 
-> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2627](forskrift/2022-12-05-2627) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ## Kapittel 6. Dokumentasjon
 
@@ -653,7 +705,7 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 (6) Det utstedes normalt kun ett vitnemål pr. kandidat. I særlige tilfeller hvor det kan sannsynliggjøres/dokumenteres at vitnemål er tapt, kan det utstedes nytt vitnemål. Hver side stemples med «DUPLIKAT». Dersom kandidaten forbedrer karakterer som inngår i vitnemålet, dokumenteres dette gjennom karakterutskrift.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 6-2. Karakterutskrift
 
@@ -661,7 +713,7 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 (2) En student som ikke har fullført fagskoleutdanning, kan be om en karakterutskrift som viser beståtte emner og prøver og andre vurderinger studenten har fått.
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, tidligere § 6-3).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, tidligere § 6-3). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 6-3. Studiepoeng
 
@@ -679,7 +731,7 @@ Sensur inkluderer plagiatkontroll av innleverte eksamensbesvarelser og annet stu
 
 (7) Minste resultatbærende enhet er emne og gis uttelling i studiepoeng. Det gis ikke studiepoeng på temaer i emne(r).
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, tidligere § 6-4).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025, tidligere § 6-4). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 6-4. Gradsbetegnelse for fagskoleutdanning
 
@@ -734,6 +786,8 @@ En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 (7) Vedtak om utestenging etter denne bestemmelsen kan påklages til det nasjonale klageorganet for fagskoleutdanning.
 
 (8) Departementet kan gi forskrift om saksbehandling ved utestenging på grunn av straffbare forhold.
+
+> **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ## Kapittel 8. Læringsmiljø og studentorgan
 
@@ -809,7 +863,7 @@ En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
 (7) Taushetsplikten gjelder til enhver tid (også i fritid, og etter at arbeidsforholdet er opphørt).
 
-> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrift [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ## Kapittel 10. Klagebehandling
 
@@ -825,7 +879,7 @@ En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:
 
 (5) Nasjonal klagenemnd er klageinstans for klager etter [fagskolelovens § 16](lov/2018-06-08-28/§16), [§ 16a](lov/2018-06-08-28/§16a) og [§ 23](lov/2018-06-08-28/§23)–[§ 27](lov/2018-06-08-28/§27). Vedtak etter klageinstansen er endelig og kan ikke påklages.
 
-> Endret ved forskrifter [5 des 2022 nr. 2636](forskrift/2022-12-05-2636) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025).
+> Endret ved forskrifter [5 des 2022 nr. 2636](forskrift/2022-12-05-2636) (i kraft 1 jan 2023), [11 feb 2025 nr. 834](forskrift/2025-02-11-834) (i kraft 1 mai 2025). **Endres** ved forskrift [9 des 2025 nr. 3091](forskrift/2025-12-09-3091) (i kraft 1 aug 2026).
 
 ### § 10-2. Klage over formelle feil ved eksamen, tester eller annet arbeid som bedømmes med karakter
 
