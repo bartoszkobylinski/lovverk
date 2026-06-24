@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-07-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "14c72e44c30a48671751c9d771fb67008277ff18eaf61abf27e1172e6becb08a"
+xml_hash: "de0cdf956e9caf3fe38c9a662f26dfce721653ab0f8ed66abce577eb6b52b6fa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 Formålet med ordningen er å bidra til å finansiere leie av avløsere i reindriften ved svangerskap, fødsel, adopsjon av barn under 15 år og ved siidaandelsleders død, og for å styrke kvinnenes stilling og den familiebaserte reindriften.
 
-> Endret ved forskrift [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022).
+> Endret ved forskrift [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022). **Endres** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
 
 ## § 2. Grunnvilkår for tilskudd
 
@@ -40,7 +40,19 @@ Dersom avdøde siidaandelsleder ikke har gjenlevende familie, jf. tredje ledd, k
 
 Det kreves at siidaandelen oppfyller vilkårene til tilskudd etter gjeldende [forskrift om tilskudd til siidaandeler og reinlag](forskrift/2019-06-20-865).
 
-> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023).
+> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
+
+## § 2a. Avløsning ved svangerskap/fødsel
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
+
+## § 2b. Avløsning ved adopsjon
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
+
+## § 2c. Avløsning ved dødsfall
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
 
 ## § 3. Krav til arbeidsforhold og avløser
 
@@ -66,7 +78,7 @@ Dersom barnet dør eller foreldrene ikke lenger har omsorg for barnet kan det yt
 
 Det kan ytes tilskudd til avløsning i forbindelse med siidaandelsleders død inntil 8 uker etter dødsfallet.
 
-> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023), [20 juni 2024 nr. 1067](forskrift/2024-06-20-1067) (i kraft 1 juli 2024).
+> Endret ved forskrifter [20 juni 2022 nr. 1099](forskrift/2022-06-20-1099) (i kraft 1 juli 2022), [21 juni 2023 nr. 1016](forskrift/2023-06-21-1016) (i kraft 1 juli 2023), [20 juni 2024 nr. 1067](forskrift/2024-06-20-1067) (i kraft 1 juli 2024). **Oppheves** ved forskrift [22 juni 2026 nr. 1179](forskrift/2026-06-22-1179) (i kraft 1 juli 2026).
 
 ## § 7. Krav til søknad
 
