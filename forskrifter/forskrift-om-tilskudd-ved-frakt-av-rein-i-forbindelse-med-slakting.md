@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-07-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "38317f81f8e90943c099526838e1d3fa237d6e622fad4f2429cf1b5d7e2373c6"
+xml_hash: "23d24b816fbbd5562de92ba6697a83bd26f5b133a654978f15aeecdc7b2efae9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Tilskuddssatsen for frakt av skrott i perioden 1. januar t.o.m. 31. mars er 40 k
 
 Det kan ikke gis mer enn ett tilskudd per rein.
 
-> Endret ved [forskrifter 19 juni 2012 nr. 597](forskrift/2012-06-19-597), [30 mai 2013 nr. 623](forskrift/2013-05-30-623) (i kraft 1 juli 2013), [21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [20 juni 2019 nr. 850](forskrift/2019-06-20-850) (i kraft 1 juli 2019), [21 juni 2023 nr. 1013](forskrift/2023-06-21-1013) (i kraft 1 juli 2023).
+> Endret ved [forskrifter 19 juni 2012 nr. 597](forskrift/2012-06-19-597), [30 mai 2013 nr. 623](forskrift/2013-05-30-623) (i kraft 1 juli 2013), [21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [20 juni 2019 nr. 850](forskrift/2019-06-20-850) (i kraft 1 juli 2019), [21 juni 2023 nr. 1013](forskrift/2023-06-21-1013) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
 
 ## § 4. Krav til søknad
 
@@ -92,7 +92,7 @@ Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelful
 
 Dersom tilskuddsmottaker i henhold til Reindriftsmyndighetenes vedtak driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, og det er utvist uaktsomhet eller forsett, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
 
-> Endret ved [forskrift 21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016).
+> Endret ved [forskrift 21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016). **Endres** ved forskrift [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
 
 ## § 9. Innkreving av tilbakebetalings- eller avkortingsbeløp
 
