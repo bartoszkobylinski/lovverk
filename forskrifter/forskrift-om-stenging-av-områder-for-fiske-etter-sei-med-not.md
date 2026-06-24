@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-04-15"
 last_change_in_force: "2026-06-18"
 last_updated: null
-xml_hash: "94b683600fae5d216d1056c72c95fc131b2015b08f4f85feca091f867fad5ffd"
+xml_hash: "747e5239509ea456bd0b02e452b0447469e085e2844da8ca4276830545f760e7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -143,16 +143,28 @@ Det er forbudt å fiske etter sei med not i et område på Kleivklakken i Møre 
 
 > Tilføyd ved forskrift [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115).
 
-## § 28. Straff
+## § 28. Griptaran i Møre og Romsdal
+
+Det er forbudt å fiske etter sei med not i et område på Griptaran i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 63 grader 13,800 minutter. Øst 007 grader 6,500 minutter.Nord 63 grader 18,000 minutter. Øst 007 grader 5,400 minutter.Nord 63 grader 21,000 minutter. Øst 007 grader 20,800 minutter.Nord 63 grader 20,700 minutter. Øst 007 grader 28,000 minutter.Nord 63 grader 14,900 minutter. Øst 007 grader 26,600 minutter.Herfra videre til posisjon 1.
+
+> Tilføyd ved forskrift [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170).
+
+## § 29. Turiskallen i Møre og Romsdal
+
+Etter dette er det forbudt å fiske etter sei med not i et område på Turiskallen i Møre og Romsdal, avgrenset av rette linjer mellom følgende posisjoner:Nord 62 grader 57,700 minutter. Øst 006 grader 44,700 minutter.Nord 63 grader 2,200 minutter. Øst 006 grader 43,200 minutter.Nord 63 grader 3,200 minutter. Øst 006 grader 53,900 minutter.Nord 62 grader 58,000 minutter. Øst 006 grader 50,400 minutter.Herfra videre til posisjon 1.
+
+> Tilføyd ved forskrift [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170).
+
+## § 30. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 28).
 
-## § 29. Ikrafttredelse
+## § 31. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29).
