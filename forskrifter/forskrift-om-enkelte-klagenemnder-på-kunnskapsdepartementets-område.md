@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-08-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "06e851d4fc7ada1a72e6fdc9e4e40febe891177a5d211219ea61ebe26c3c65a2"
+xml_hash: "386081e3102eecb9c8ebcac36e8238388158050e9c29394ae6b74e7d614b6afa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,6 +29,8 @@ eu_basis: []
 Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:NOKUTs klagenemndKlagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenning.
 
 Forskriften gir regler om klagenemndenes oppgaver, organisering og saksbehandling.
+
+> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
 
 ## Kapittel 2. NOKUTs klagenemnd
 
@@ -62,6 +64,8 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 Klagenemnda skal behandle klager over enkeltvedtak om godkjenning av utenlandsk fag- og yrkesopplæring etter [opplæringsloven § 23-3](lov/2023-06-09-30/§23-3), om generell godkjenning av utenlandsk fagskoleutdanning etter [fagskoleloven § 7](lov/2018-06-08-28/§7), og om generell godkjenning av utenlandsk høyere utdanning etter [universitets- og høyskoleloven §§ 9-7](lov/2024-03-08-9/§9-7) og [9-8](lov/2024-03-08-9/§9-8).
 
+> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+
 ### § 7. Klagenemndas oppnevning og sammensetning
 
 Klagenemnda oppnevnes av departementet.
@@ -82,8 +86,12 @@ Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslut
 
 ## Kapittel 4. Ikrafttredelse og overgangsordning
 
+> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
+
 ### § 10. Ikrafttredelse og overgangsordning
 
 Forskriften trer i kraft 1. august 2025.
 
 Endringene får ikke virkning for klagenemnder, medlemmer og varamedlemmer som er oppnevnt før ikrafttredelsen. Tidligere forskriftsbestemmelser som regulerer de aktuelle forholdene, gjelder frem til neste oppnevning.
+
+> **Endres** ved forskrift [19 juni 2026 nr. 1171](forskrift/2026-06-19-1171) (i kraft 1 aug 2026).
