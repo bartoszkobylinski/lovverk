@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-07-01"
 last_change_in_force: "2026-01-06"
 last_updated: "2020-07-01"
-xml_hash: "a8416dd7d62ef3a50ecffe3a956ad0adfe807984a1819b05a4a0df8d906dd171"
+xml_hash: "c3308c05e172abc7a02869761b6808aad6b6de8ec20c28d8469050a933e796d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -81,7 +81,7 @@ Det godtgjøres bare for én konsultasjon per dag. Ved behandling for akutt psyk
 4. Øvrige takster
 5. Undersøkelse eller behandling i pasientens hjem – reisetillegg.
 
-> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026).
+> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ### A. Utredende samtaler hos psykolog
 
@@ -93,7 +93,7 @@ Ved behov kan takstene benyttes ved e-konsultasjon. Med e-konsultasjon menes at 
 
 Det er ikke anledning til å kreve fakturagebyr eller andre betalinger fra pasientene enn de fastsatte egenandeler. Bruk av taksten forutsetter at e-konsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. Norm for informasjonssikkerhet i helse- og omsorgstjenesten.
 
-> Endret ved forskrifter [28 aug 2020 nr. 1695](forskrift/2020-08-28-1695), [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026).
+> Endret ved forskrifter [28 aug 2020 nr. 1695](forskrift/2020-08-28-1695), [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ### B. Undersøkelse hos psykolog
 
@@ -121,7 +121,7 @@ For å kunne utløse takst 19 må det foreligge mistanke om nevropsykologisk/kor
 
 Takst 19 kan benyttes inntil to ganger per kalenderår.
 
-> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026).
+> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ### C. Behandling hos psykolog
 
@@ -141,7 +141,7 @@ Taksten omfatter ikke timebestillinger, avbestillinger og enkle forespørsler. D
 
 Taksten kan utløses for de seks første konsultasjonene av nyhenviste pasienter. Taksten kan utløses på nytt dersom pasienten henvises på nytt og det har vært et opphold i behandlingen på minimum seks måneder.
 
-> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). [19 des 2025 nr. 2741](forskrift/2025-12-19-2741) (i kraft 1 jan 2026), [6 jan 2026 nr. 7](forskrift/2026-01-06-7).
+> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). [19 des 2025 nr. 2741](forskrift/2025-12-19-2741) (i kraft 1 jan 2026), [6 jan 2026 nr. 7](forskrift/2026-01-06-7). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ### D. Øvrige takster
 
@@ -151,7 +151,7 @@ Taksten kan også benyttes ved rådgivning overfor behandlingsformidler, dvs. pe
 
 (Opphevet.)
 
-> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026).
+> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ### E. Undersøkelse eller behandling i pasientens hjem – reisetillegg
 
@@ -161,13 +161,13 @@ Beregningsgrunnlaget for reisetillegget er antall tilbakelagte kilometer. Ved be
 
 Ved sykebesøk på landet i en avstand (tur) av mindre enn 1 kilometer fra psykologens kontor (bolig) ytes ikke reisetillegg selv om befordringsmiddel er benyttet. Det samme gjelder – med unntak av hjemmebehandlingstillegget – ved sykebesøk i byer og bymessig bebygde strøk, se [§ 5](forskrift/2003-12-19-1728/§5) i [forskrift om dekning av utgifter til transport av helsepersonell m.m. i forbindelse med reise for å foreta undersøkelse eller behandling](forskrift/2003-12-19-1728).
 
-> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026).
+> Endret ved forskrifter [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025), [16 des 2025 nr. 2592](forskrift/2025-12-16-2592) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ## Kapittel III. Tilskudd til fellesformål for psykologer
 
 Folketrygden yter i perioden 1. juli 2025 til 30. juni 2026 kr 2 436 000 til Fond for videre- og etterutdanning av psykologer i privat praksis.
 
-> Tilføyd ved forskrift [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), endret ved forskrifter [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025).
+> Tilføyd ved forskrift [23 okt 2020 nr. 2151](forskrift/2020-10-23-2151) (i kraft 1 nov 2020), endret ved forskrifter [18 juni 2021 nr. 2128](forskrift/2021-06-18-2128) (i kraft 1 juli 2021), [28 juni 2022 nr. 1222](forskrift/2022-06-28-1222) (i kraft 1 juli 2022), [27 juni 2023 nr. 1134](forskrift/2023-06-27-1134) (i kraft 1 juli 2023), [14 juni 2024 nr. 1004](forskrift/2024-06-14-1004) (i kraft 1 juli 2024), [23 juni 2025 nr. 1193](forskrift/2025-06-23-1193) (i kraft 1 juli 2025). **Endres** ved forskrift [21 juni 2026 nr. 1156](forskrift/2026-06-21-1156) (i kraft 1 juli 2026).
 
 ## Kapittel IV. Ikrafttredelse
 
