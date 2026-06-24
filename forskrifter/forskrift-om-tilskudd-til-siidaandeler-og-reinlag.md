@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-07-01"
 last_change_in_force: "2025-12-18"
 last_updated: null
-xml_hash: "138782540f2709da26574a3c08bd59c8e17fe18335c5c7c19c8267714b9e0c41"
+xml_hash: "477813c975ba97f2114aa9e6c0da47db8ac0a18cc7a89132e887721506fcae5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Det er et vilkår for å motta tilskudd at siidaens reintall per 31. mars i tils
 
 Hvis reintallet i siidaen overskrider fastsatt øvre reintall, kan leder av siidaandelen likevel få tilskudd dersom:siidaen har utarbeidet en reduksjonsplan etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til denne, ellersiidaandelen er i en reduksjonsprosess vedtatt av reindriftsstyret etter [reindriftsloven § 60a](lov/2007-06-15-40/§60a), og siidaandelens reintall er i henhold til dette, ellersiidaen har fastsatt øvre reintall per siidaandel i henhold til [reindriftsloven § 60 tredje ledd](lov/2007-06-15-40/§60/ledd/3) der summen av siidaandelenes reintall ikke overskrider siidaens fastsatte øvre reintall, og siidaandelens reintall er i henhold til dette, ellersiidaandelen ikke omfattes av bokstavene a–c, og ikke har økt sitt reintall fra det reintall som siidaandelen hadde i året før siidaen overskred fastsatt øvre reintall.
 
-> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [18 des 2025 nr. 2675](forskrift/2025-12-18-2675).
+> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [18 des 2025 nr. 2675](forskrift/2025-12-18-2675). **Endres** ved forskrift [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
 
 ## § 5. Utmåling av tilskudd
 
@@ -55,6 +55,8 @@ Dersom siidaandelene har fått fastsatt et øvre reintall, og siidaandelen ikke 
 Dersom siidandelene ikke har fått fastsatt et øvre reintall, og siidaandelen har økt sitt reintall i strid med [§ 4](forskrift/2019-06-20-865/§4) andre ledd bokstav f kan leder av siidaandelen likevel få tilskudd etter følgende beregning:ved økning mellom 1 og 10 rein, reduseres tilskuddet med 1000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 11 og 20 rein, reduseres tilskuddet med 2000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall,ved økning mellom 21 og 30 rein reduseres tilskuddet med 3000 kroner per rein som overskrider det reintall siidaandelen hadde året før siidaen overskred fastsatt øvre reintall.
 
 Ved overskridelser eller økning av reintallet på mer enn 30 rein kan det ikke innvilges tilskudd.
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
 
 ## § 6. Krav til søknaden
 
@@ -70,6 +72,8 @@ I særlige tilfeller kan statsforvalteren dispensere fra søknadsfristen.
 
 Leder av siidaandelen som er under 30 år per 1. januar i driftsåret, kan innvilges driftstilskudd på inntil 40 000 kroner. I felles siidaandel kan likevel eldste ektefelle eller samboer være over 30 år.
 
+> **Endres** ved forskrift [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
+
 ## § 8. Særskilt driftstilskudd til kvinner
 
 Kvinner som står alene som leder av siidaandel og som har reindrift som hovednæring, kan innvilges særskilt driftstilskudd på inntil 40 000 kroner.
@@ -84,7 +88,7 @@ Person som får overdratt eller opprettet siidaandel til seg før han eller hun 
 
 Den som søker om etableringstilskudd er fritatt fra inntektskravet i [§ 3](forskrift/2019-06-20-865/§3) nr. 2.
 
-> Endret ved forskrifter [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022).
+> Endret ved forskrifter [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [20 juni 2022 nr. 1115](forskrift/2022-06-20-1115) (i kraft 1 juli 2022). **Endres** ved forskrift [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
 
 ## § 10. Produksjonspremie
 
@@ -120,7 +124,7 @@ Tilskuddet kan innvilges for kalver slaktet i perioden 15. august–31. mars.
 
 Kalveslaktetilskuddet kan også innvilges for kasserte kalver og kalver som tapes som følge av radioaktivitetstiltak.
 
-> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [16 april 2021 nr. 1187](forskrift/2021-04-16-1187), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025).
+> Endret ved forskrifter [29 juni 2020 nr. 1427](forskrift/2020-06-29-1427) (i kraft 1 juli 2020), [16 april 2021 nr. 1187](forskrift/2021-04-16-1187), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2270](forskrift/2021-06-22-2270) (i kraft 1 juli 2021), [21 juni 2023 nr. 1014](forskrift/2023-06-21-1014) (i kraft 1 juli 2023), [20 juni 2024 nr. 1064](forskrift/2024-06-20-1064) (i kraft 1 juli 2024), [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1177](forskrift/2026-06-22-1177) (i kraft 1 juli 2026).
 
 ## § 12. Ektefelle-/samboertillegg
 
