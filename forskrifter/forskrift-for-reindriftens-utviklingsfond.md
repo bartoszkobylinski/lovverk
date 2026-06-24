@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-07-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2019-07-02"
-xml_hash: "5f0fcfef9ba3507bc916effcc964185803860baa67fcfb9219ea32b8e3d3cbb4"
+xml_hash: "f2b7bb3df077ade92efb641e7621e7248660a1ce2e1c67dc8767f2829ddeba3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,7 +72,7 @@ Tilskudd fra Reindriftens Utviklingsfond kan innvilges etter ordningene fortilsk
 
 Økonomisk støtte kan for øvrig innvilges til andre tiltak i samsvar med forskriftens formål, jf. § 1-1, herundersikring av reindriftens beiterett, herunder støtte til distriktenes arbeid med sikring av reindriftens arealer,praktiske tiltak innenfor reindriften,faglige tiltak til fremme for reindriften, herunder veiledning, kursvirksomhet, etterutdanning, beitegransking, planlegging og avlstiltak,utvikling av binæringer og formål av generell kulturell betydning for reindriftssamene,tiltak for å fremme likestilling og kvinners situasjon i reindriften,tilskudd til tiltak for reindriftsnæringen som følge av klimaendringer,forskning og kunnskapsformidling,tilrettelegging for at reineiere med nedsatt funksjonsevne kan delta i reindriftsarbeidet,tilskudd til fjerning av gammelt gjerdemateriell,stipend på 15 000 kroner til personer med rein i eget merke som skriver reindriftsrelatert masteroppgave.
 
-> Endret ved forskrifter [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [20 juni 2024 nr. 1060](forskrift/2024-06-20-1060) (i kraft 1 juli 2024), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025).
+> Endret ved forskrifter [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023), [20 juni 2024 nr. 1060](forskrift/2024-06-20-1060) (i kraft 1 juli 2024), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 1-7. Fellesvilkår
 
@@ -102,7 +102,7 @@ Landbruksdirektoratet utbetaler 50 prosent av tilskuddet ved innvilgelsen dersom
 
 Uanvendt, innvilget tilskudd tilbakeføres til Reindriftens Utviklingsfond.
 
-> Endret ved forskrift [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021).
+> Endret ved forskrift [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 1-11. Opplysningsplikt og kontroll
 
@@ -136,11 +136,13 @@ Vedtak etter denne forskrift kan påklages til Landbruks- og matdepartementet et
 
 ## Kapittel 2. Tilskudd ved omfattende tap av rein i ulykker
 
+> Kapittel 2 **oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
+
 ### § 2-1. Formål
 
 Formålet med tilskuddet er å bidra til å dekke tap som påføres berørte siidaandeler og reinlag som følge av omfattende tap av rein i ulykker.
 
-> Endret ved forskrifter [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021).
+> Endret ved forskrifter [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021). **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 2-2. Definisjoner
 
@@ -150,13 +152,15 @@ Tap som er forårsaket av låste beiter, nedslitte beiter, lavt slakteuttak elle
 
 Med flokkens størrelse før tap menes reintall ved siste offentlig kontrollerte telling. Dersom slik telling ikke er foretatt siste driftsår, legges reintallet i siste melding om reindrift til grunn.
 
+> **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
+
 ### § 2-3. Vilkår for tilskudd
 
 Tilskudd kan innvilges til den enkelte siidaandel/reinlag dersom følgende vilkår er oppfylttapet skyldes ulykke, jf. [§ 2-2](forskrift/2019-06-20-864/§2-2),tapet ikke er erstattet over andre ordninger,antall tapte rein i samme ulykke utgjør minst 10 prosent av flokkens størrelse før tapet. Det kan uavhengig av dette innvilges tilskudd når tapet overstiger 150 rein. Det innvilges ikke tilskudd ved tap av under 10 rein,tapte rein etter bokstav c er dokumentert i henhold til [§ 2-4](forskrift/2019-06-20-864/§2-4),siidaandelen/reinlaget har varslet tapet umiddelbart til statsforvalteren. Siidaandelen må i tillegg ha varslet tapet til distriktsstyret.siidaandelen/reinlaget har iverksatt alle nødvendige tiltak for å forebygge/begrense tapet,siidaandelen/reinlaget har mottatt produksjonspremie1 i minst ett av de tre foregående driftsårene,siidaandelens reintall i driftsåret oppfyller vilkår for tilskudd etter [forskrift om tilskudd til siidaandeler og reinlag § 4](forskrift/2019-06-20-865/§4).
 
 Hvis flere siidaandeler blir berørt av samme ulykke og det ikke er mulig å fastslå hvem som eier reinen, kan tilskudd innvilges til reinbeitedistriktet eller siidaen. I slike tilfeller skal reinbeitedistriktet eller siidaen fordele tilskuddet mellom de berørte siidaandelene som oppfyller vilkår for tilskudd, jf. første ledd.
 
-> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025).
+> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025). **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 2-4. Dokumentasjon
 
@@ -166,7 +170,7 @@ Ved tap i snøskred kan dokumentasjon av kadaver foretas etter snøsmelting.
 
 Der full kadaverdokumentasjon er umulig eller svært vanskelig, kan en sannsynliggjøring av tapets omfang godkjennes som tilstrekkelig dokumentasjon ut fra antall rein før og etter tapet. Slik før- og ettervurdering av reintallet utføres av statsforvalteren.
 
-> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) som endret ved [forskrift 21 juni 2022 nr. 1121](forskrift/2022-06-21-1121) (i kraft 1 juli 2022).
+> Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) som endret ved [forskrift 21 juni 2022 nr. 1121](forskrift/2022-06-21-1121) (i kraft 1 juli 2022). **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 2-5. Beregning av tilskudd
 
@@ -176,7 +180,7 @@ Det skal gjøres fratrekk for en egenandel på 10 000 kroner per siidaandel.
 
 Ufødt kalv kan bare medregnes som del av tapet dersom drektige simlerein går tapt. Det skal da gjøres en skjønnsmessig beregning av kalvetap, på grunnlag av forventet merkeprosent.
 
-> Endret ved forskrifter [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025).
+> Endret ved forskrifter [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025). **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 2-6. Særskilt krav til søknad
 
@@ -184,7 +188,7 @@ Søknad om tilskudd ved omfattende tap av rein i ulykker skal sendes så raskt s
 
 Søknaden skal minst inneholdeoversikt over antall tapte dyr, fordelt på kjønn og alder (over 2 år, 1–2 år, kalv),kadaverdokumentasjon, jf. [§ 2-4](forskrift/2019-06-20-864/§2-4),beskrivelse av hendelsesforløpet fram til tapet,beskrivelse av tiltak som er iverksatt for å forebygge/begrense tapet.
 
-> Endret ved forskrift [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023).
+> Endret ved forskrift [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023). **Oppheves** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ## Kapittel 3. Tilskudd til reindriftsanlegg
 
@@ -218,7 +222,7 @@ Det kan ikke innvilges tilskudd til anlegg som er gitt tilskudd etter forskrift 
 
 Tiltaket må være gjennomført innen tre år fra bevilgningsdato.
 
-> Endret ved forskrifter [29 juni 2020 nr. 1422](forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023).
+> Endret ved forskrifter [29 juni 2020 nr. 1422](forskrift/2020-06-29-1422) (i kraft 1 juli 2020), [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [22 juni 2021 nr. 2306](forskrift/2021-06-22-2306) (i kraft 1 juli 2021), [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022), [21 juni 2023 nr. 1010](forskrift/2023-06-21-1010) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 3-4. Tilskuddsberettigede kostnader
 
@@ -280,7 +284,7 @@ For at refusjon skal kunne innvilges må reineier ha rein i eget merke. Videre m
 
 Dersom leder/ledere av siidaandel som søker tilhører oppfyller vilkårene for å motta etableringstilskudd etter forskrift for siidaandeler og reinlag § 9 gjelder ikke inntektskravet i [§ 4-2](forskrift/2019-06-20-864/§4-2) andre ledd.
 
-> Endret ved forskrift [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021).
+> Endret ved forskrift [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 4-3. Beregning av støtte
 
@@ -312,7 +316,7 @@ Tilskudd til pass av egne barn og/eller ektefelles/samboers barn kan kun innvilg
 
 Den som utfører pass av barn, må være fylt 15 år.
 
-> Endret ved forskrifter [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025).
+> Endret ved forskrifter [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021), [24 juni 2025 nr. 1259](forskrift/2025-06-24-1259) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 5-4. Tilskuddets størrelse
 
@@ -374,7 +378,7 @@ Reinbeitedistrikter eller siidaer, som var omfattet av den opphevede reinbeiteko
 
 Det innvilges ikke tilskudd i tvister internt i norsk reindrift eller i tvister mellom norsk reindrift og norske eller svenske reindriftsmyndigheter.
 
-> Tilføyd ved forskrift [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022).
+> Tilføyd ved forskrift [20 juni 2022 nr. 1091](forskrift/2022-06-20-1091) (i kraft 1 juli 2022). **Endres** ved forskrift [22 juni 2026 nr. 1173](forskrift/2026-06-22-1173) (i kraft 1 juli 2026).
 
 ### § 7-3. Tilskuddsberettigede kostnader
 
