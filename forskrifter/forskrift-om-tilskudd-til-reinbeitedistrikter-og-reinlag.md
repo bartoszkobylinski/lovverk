@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-12-21"
 last_change_in_force: "2026-05-08"
 last_updated: null
-xml_hash: "f09cf3a2a5da6ffaa56dcac167e4eaf5a4141f69c6b68777c751f5b97e218ed3"
+xml_hash: "9786c9eda8194095b859711526d92ca65120e4da57b671cb0940511ccf241269"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-14T06:44:22.849555+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,6 +31,8 @@ Distriktstilskudd skal bidra til å gi reinbeitedistrikter og reinlag økt medan
 Avsetning og tilskudd til beredskapfond skal legge til rette for reinbeitedistriktenes og reinlagenes nødvendige tiltak i forbindelse med beitekriser.
 
 Ekstraordinært tilskudd til beredskap skal bidra til å forhindre omfattende tap av rein eller andre store dyrevelferdsmessige utfordringer ved beitekriser, når reinbeitedistriktets eller reinlagets eget beredskapsfond ikke er tilstrekkelig til gjennomføring av nødvendige tiltak.
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
 ### § 1-2. Definisjoner
 
@@ -114,13 +116,13 @@ I tillegg ytes et beløp per siidaandel på inntil 22 500 kroner. For siidaande
 
 Distrikter som har vedtatt en siidainndeling gjennom årsmøtevedtak kan fordele midlene på de ulike siidaene.
 
-> Endret ved forskrifter [21 juni 2023 nr. 1015](forskrift/2023-06-21-1015) (i kraft 1 juli 2023), [20 juni 2024 nr. 1065](forskrift/2024-06-20-1065) (i kraft 1 juli 2024), [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025).
+> Endret ved forskrifter [21 juni 2023 nr. 1015](forskrift/2023-06-21-1015) (i kraft 1 juli 2023), [20 juni 2024 nr. 1065](forskrift/2024-06-20-1065) (i kraft 1 juli 2024), [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
 ### § 2-3. Bruk av distriktstilskudd
 
 Tilskudd etter dette kapittelet gir grunnlag for tiltak som er i samsvar med forskriftens formål i [§ 1-1](forskrift/2022-12-21-2468/§1-1) første ledd, herunder:administrasjon og ressursforvaltning,avsetning til beredskapsfond,kjøp av utstyr til krisefôring som framgår av distriktets beredskapsplan,arbeid med helse, miljø og sikkerhet,avløsning ved sykdom ut over folketrygdens generelle ordninger,avløsning ved ferie og fritid,felles investeringer i utstyr som kan bidra til klimatilpasning.
 
-> Endret ved forskrift [20 juni 2024 nr. 1065](forskrift/2024-06-20-1065) (i kraft 1 juli 2024).
+> Endret ved forskrift [20 juni 2024 nr. 1065](forskrift/2024-06-20-1065) (i kraft 1 juli 2024). **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
 ### § 2-4. Særskilt tilskudd for Trollheimen
 
@@ -148,7 +150,7 @@ Tilskudd til beredskapsfond utbetales ikke til distriktene 17, 30A, 30B, 30C, og
 
 Reinbeitedistrikt og reinlag plikter å ha en egen bankkonto for beredskapsfondet. Det skal føres separat regnskap for beredskapsfondet.
 
-> Endret ved forskrift [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025).
+> Endret ved forskrift [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
 ### § 3-2. Bruk av beredskapsfond
 
@@ -170,6 +172,8 @@ For dekning av bruk av enkeltpersoners transportmidler og annet utstyr anvendes 
 
 Statsforvalteren kan kreve hele eller deler av de brukte midlene tilbakeført til beredskapsfondet dersom:fondet brukes i strid med de generelle vilkårene i [§ 3-2](forskrift/2022-12-21-2468/§3-2), ellerstatsforvalteren ikke godkjenner rapporteringen ved bruk av fondet etter [§ 1-4](forskrift/2022-12-21-2468/§1-4).
 
+> **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
+
 ## Kapittel 4. Ekstraordinært tilskudd til beredskap
 
 ### § 4-1. Vilkår for tilskudd
@@ -180,7 +184,7 @@ Ekstraordinært tilskudd til beredskap ytes ikke til distriktene 17, 30A, 30B, 3
 
 Tilskudd skal utbetales til reinbeitedistriktets og reinlagets beredskapsfond og brukes i henhold til [kapittel 3](forskrift/2022-12-21-2468/kap3).
 
-> Endret ved forskrift [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025).
+> Endret ved forskrift [24 juni 2025 nr. 1287](forskrift/2025-06-24-1287) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1178](forskrift/2026-06-22-1178) (i kraft 1 juli 2026).
 
 ### § 4-2. Beregning av tilskudd
 
