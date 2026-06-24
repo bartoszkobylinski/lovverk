@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2021-07-05"
-xml_hash: "1c83ff1ac30d9d16dfb8c0bbaf5bb8d5ff8d4d172c766ef6490440a832c4f9bb"
+xml_hash: "78204d569900375c0e83c97874325b613da7075f4706e85ee3a1f2d7e023a6e2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -77,7 +77,7 @@ Til fondet for videre- og etterutdanning av kiropraktorer yter folketrygden et t
 
 Tilskottet utbetales av Helsedirektoratet eller det organ Helsedirektoratet bestemmer til Norsk Kiropraktorforening med et passende beløp hvert kvartal og med endelig avregning ved årets utgang.
 
-> Endret ved [forskrifter 21 juni 2006 nr. 676](forskrift/2006-06-21-676) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [22 des 2016 nr. 1844](forskrift/2016-12-22-1844) (i kraft 1 jan 2017).
+> Endret ved [forskrifter 21 juni 2006 nr. 676](forskrift/2006-06-21-676) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [22 des 2016 nr. 1844](forskrift/2016-12-22-1844) (i kraft 1 jan 2017). **Oppheves** ved forskrift [9 juni 2026 nr. 1168](forskrift/2026-06-09-1168) (i kraft 1 juli 2026).
 
 ## § 9. Ikrafttredelse
 
