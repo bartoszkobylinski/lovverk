@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-01-01"
 last_change_in_force: "2024-06-14"
 last_updated: "2022-03-23"
-xml_hash: "db7e1a4f2f965a9596c82c4953c54e81e78ae8de894230502e496589724f282c"
+xml_hash: "95843479e1d7c46b6cbd78c661f6a309b65fd6426f634b2b94969ee80beedb19"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -561,6 +561,8 @@ Kongen utpeker én klareringsmyndighet for forsvarssektoren og én for sivile se
 Når særlige grunner taler for det, kan Kongen utpeke andre klareringsmyndigheter enn dem som er nevnt i første ledd.
 
 Kongen kan gi forskrift om opprettelsen av et sentralt register for klareringsavgjørelser.
+
+> **Endres** ved lov [23 juni 2026 nr. 74](lov/2026-06-23-74) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-17. Klage på avgjørelse om klarering
 
