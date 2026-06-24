@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2025-12-22"
+last_change_in_force: "2026-06-23"
 last_updated: "2025-10-02"
-xml_hash: "39c53a8dd3b2c5739ec0a83992666d3bea3001e1d4ce7df3908fa438699d7f35"
+xml_hash: "f5346e64feee5038dc25b045e468379e2f5f962d296abff7da3fefc09097e659"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -236,9 +236,9 @@ Departementet kan i forskrift bestemme hvilken dekningsrekkefølge som skal gjel
 
 (4) [Forvaltningsloven § 17 andre](lov/1967-02-10/§17/ledd/2) og [tredje ledd](lov/1967-02-10/§17/ledd/3) gjelder ikke ved behandling av saker om utlegg.
 
-(5) Departementet kan i forskrift fastsette gebyr som Innkrevingsmyndigheten kan kreve av skyldneren når den sender varsel om utlegg eller treffer beslutning om utlegg. Gebyret er tvangsgrunnlag for utlegg og legges til kravet ved innkrevingen. Skyldnerens plikt til å betale gebyret bortfaller dersom utlegget kjennes ugyldig eller tvangsgrunnlaget oppheves.
+(5) Departementet kan i forskrift fastsette gebyr som Innkrevingsmyndigheten kan kreve av skyldneren når den sender varsel om utlegg eller treffer beslutning om utlegg. Gebyret er tvangsgrunnlag for utlegg og legges til kravet ved innkrevingen. Avgjørelse om gebyr har tvangskraft. Skyldnerens plikt til å betale gebyret bortfaller dersom utlegget kjennes ugyldig eller tvangsgrunnlaget oppheves.
 
-> Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
+> Endret ved lover [22 des 2025 nr. 124](lov/2025-12-22-124), [23 juni 2026 nr. 68](lov/2026-06-23-68).
 
 ### § 24. Tvangsdekning i enkle pengekrav
 
