@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-06-12"
+last_change_in_force: "2026-06-21"
 last_updated: "2022-10-20"
-xml_hash: "482eaf6c105eea63bfc46d27f777aa6a3c46f8a509379d3b827bd8ad907001c1"
+xml_hash: "403bf08446b85b535a63789a489dbe28061695c23e5292376df020a0f721b1da"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -3315,13 +3315,15 @@ Bestemmelsen i første ledd gjelder ikkeEØS-borgere som er arbeidstakere eller 
 
 Utlendinger som nevnt i lovens § 111 første ledd, som søker arbeid, skal melde seg for politiet eller ved et Servicesenter for utenlandske arbeidstakere senest innen tre måneder etter innreise. De skal legitimere seg og gi opplysninger om at de er arbeidssøkende. Meldingen skal registreres i Datasystemet for utlendings- og flyktningsaker (DUF).
 
-Meldeplikten etter første ledd gjelder også familiemedlemmer, jf. lovens § 111 annet ledd.
+Meldeplikten etter første ledd gjelder også familiemedlemmer, jf. [lovens § 110 annet ledd](lov/2008-05-15-35/§110/ledd/2).
 
 Særlige tilfeller som kan gi grunnlag for oppholdsrett utover seks måneder etter lovens § 111 tredje ledd, kan være når den arbeidssøkende kan dokumentere at det i nær framtid foreligger utsikter til ansettelse eller mulighet for etablering av næringsvirksomhet.
 
 Bestemmelsene i [§ 19-22](forskrift/2009-10-15-1286/§19-22) sjette ledd gjelder tilsvarende.
 
 Utlendingsdirektoratet kan gi nærmere retningslinjer om gjennomføringen av meldeplikten etter første og annet ledd.
+
+> Endret ved forskrift [21 juni 2026 nr. 1157](forskrift/2026-06-21-1157).
 
 ### Lovens § 112. Oppholdsrett i mer enn tre måneder for EØS-borgere
 
