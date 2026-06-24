@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1986-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2026-01-25"
-xml_hash: "af941722b2880b44d691cd3da9a5389d5e6a5e73245b2692e579494917d5a690"
+xml_hash: "3b4b7394cb28776adcfefbb506e8ef7100590fcf888eec44eb075e1cc71ce29f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -4904,7 +4904,7 @@ En dommer som har deltatt ved avgjørelsen av straffesaken mot siktede, skal ikk
 
 Innsyn i opplysninger som hører til straffesaken, kan nektes på de vilkår som er fastsatt i [§ 242 a første ledd](lov/1981-05-22-25/§242a/ledd/1). Reglene i [§ 242 a andre](lov/1981-05-22-25/§242a/ledd/2) og [tredje ledd](lov/1981-05-22-25/§242a/ledd/3) og [§ 292 a](lov/1981-05-22-25/§292a) gjelder tilsvarende så langt de passer.
 
-> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [9 mai 2003 nr. 30](lov/2003-05-09-30) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)).
+> Endret ved lover [9 mai 2003 nr. 30](lov/2003-05-09-30), [10 jan 2003 nr. 3](lov/2003-01-10-3) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [9 mai 2003 nr. 30](lov/2003-05-09-30) (ikr. 1 jan 2004 iflg. [res. 12 des 2003 nr. 1471](forskrift/2003-12-12-1471)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Endres** ved lov [23 juni 2026 nr. 73](lov/2026-06-23-73) (i kraft fra den tid Kongen bestemmer).
 
 ### § 450
 
