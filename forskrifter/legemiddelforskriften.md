@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-12"
 last_change_in_force: "2026-05-01"
 last_updated: "2024-10-21"
-xml_hash: "c2576b52f6a019b777b5bc20f5f6a310bd4d06f9e02523ef1c409d025d870bf6"
+xml_hash: "cbc7233add425e10bd32c973795ad5b7b1217af296cf96208a64067b51316f21"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,7 @@ Forskriften gjelder for legemidler, med unntak av [§ 14-3a](forskrift/2009-12-1
 
 Med mindre annet fremgår av forskriften, omfatter forskriften legemidler som skal ha markedsføringstillatelse etter bestemmelsene i [kapittel 2](forskrift/2009-12-18-1839/kap2). Bestemmelsene i [kapittel 3](forskrift/2009-12-18-1839/kap3) om merking og pakningsvedlegg og [§ 7-5](forskrift/2009-12-18-1839/§7-5) og [§ 7-6](forskrift/2009-12-18-1839/§7-6) om reseptstatus mv. kommer likevel til anvendelse så langt de passer også på andre legemidler.
 
-> Endret ved forskrifter [23 juni 2020 nr. 1384](forskrift/2020-06-23-1384) (i kraft 1 juli 2020), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [23 mars 2026 nr. 471](forskrift/2026-03-23-471).
+> Endret ved forskrifter [23 juni 2020 nr. 1384](forskrift/2020-06-23-1384) (i kraft 1 juli 2020), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [23 mars 2026 nr. 471](forskrift/2026-03-23-471). **Endres** ved forskrift [15 juni 2026 nr. 1169](forskrift/2026-06-15-1169) (i kraft 1 juli 2026).
 
 ### § 1-3. Alminnelige definisjoner
 
@@ -1780,7 +1780,7 @@ Forordning [(EU) 2023/1182](eu/32023r1182) om markedsføring av legemidler i Nor
 
 ### § 15-6. (Opphevet)
 
-> Endret ved forskrift [12 jan 2017 nr. 36](forskrift/2017-01-12-36) som endret ved forskrift [4 feb 2022 nr. 181](forskrift/2022-02-04-181) (i kraft 4 feb 2022), opphevet ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022).
+> Endret ved forskrift [12 jan 2017 nr. 36](forskrift/2017-01-12-36) som endret ved forskrift [4 feb 2022 nr. 181](forskrift/2022-02-04-181) (i kraft 4 feb 2022), opphevet ved forskrift [23 aug 2022 nr. 1572](forskrift/2022-08-23-1572) (i kraft 16 sep 2022). **Tilføyes** ved forskrift [15 juni 2026 nr. 1169](forskrift/2026-06-15-1169) (i kraft 1 juli 2026).
 
 ### § 15-6a. Klinisk utprøving av legemidler
 
