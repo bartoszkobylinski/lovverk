@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-06-19"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "4282dd8f867ea363b485bee50639a2d4effaefaefee93b64a21e86a5496af8b7"
+xml_hash: "2339a6a5cecc514bdecddcdf85ce339e7d860949a5468e879db55295da6b9ff3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,13 +26,13 @@ eu_basis: []
 
 Formålet med tilskudd til konfliktforebyggende tiltak er å redusere konfliktene mellom reindriften og det øvrige landbruk, samt konflikter knyttet til by og rein.
 
-> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019).
+> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 2. Part
 
 Partene etter denne forskriften er reindriften ved reinbeitedistrikt, siida eller reinlag på den ene siden, og enten landbruk og/eller annen berørt part på den andre side.
 
-> Endret ved [forskrifter 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), [24 juni 2025 nr. 1260](forskrift/2025-06-24-1260) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), [24 juni 2025 nr. 1260](forskrift/2025-06-24-1260) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 3. Vilkår for tilskudd
 
@@ -50,7 +50,7 @@ Det kan innvilges tilskudd med inntil 90 prosent av godkjent kostnadsoverslag.
 
 Der egen arbeidsinnsats inngår i kostnadsoverslaget er timesatsen 210 kroner.
 
-> Tilføyd ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), endret ved forskrifter [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021), [20 juni 2022 nr. 1092](forskrift/2022-06-20-1092) (i kraft 1 juli 2022), [21 juni 2023 nr. 1012](forskrift/2023-06-21-1012) (i kraft 1 juli 2023).
+> Tilføyd ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019), endret ved forskrifter [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021), [20 juni 2022 nr. 1092](forskrift/2022-06-20-1092) (i kraft 1 juli 2022), [21 juni 2023 nr. 1012](forskrift/2023-06-21-1012) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 4. Særlig om gjerdetiltak
 
@@ -72,7 +72,7 @@ De regionale konfliktråd1 kan i samarbeid med partene fremme søknad om tilskud
 
 Ved oversendelse til Statsforvalteren i Trøndelag bør det foreligge forslag om hvem av de to lokale instanser som skal ha det offentlige oppfølgingsansvar for prosjektet, jf. [§ 6](forskrift/2008-06-19-707/§6) og [§ 7](forskrift/2008-06-19-707/§7).
 
-> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 4), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021).
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 4), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 6. Innvilgningsmyndighet
 
@@ -82,7 +82,7 @@ Ved innvilgning av søknaden skal Statsforvalteren i Trøndelag fastsette kostna
 
 Søknad om tilskudd kan avslås av Statsforvalteren i Trøndelag dersom arbeidene er påbegynt før søknaden er avgjort.
 
-> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 5), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 5), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 7. Utbetaling
 
@@ -92,13 +92,13 @@ Sluttutbetalingen kan foretas når ferdigattest/sluttrapport og attestert regnsk
 
 Det kan kreves sikkerhet for tilskuddet, og det er ikke anledning til å overdra krav på tilskudd til eie eller pant.
 
-> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 6), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 6), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 8. Kontroll
 
 Statsforvalteren i Trøndelag skal følge opp tiltak som får støtte gjennom den lokale oppfølgingsinstans, jf. [§ 4](forskrift/2008-06-19-707/§4) og [§ 5](forskrift/2008-06-19-707/§5). Denne skal kontrollere at vilkårene for tilskuddet blir overholdt. Mottaker av tilskudd må godta kontroll i samband med dette og er forpliktet til å gi de nødvendige opplysninger.
 
-> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 7), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+> Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 7), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 9. Rapportering
 
@@ -120,7 +120,7 @@ Når krav om tilbakebetaling er framsatt, kan det motregnes i andre investerings
 
 Landbruks- og matdepartementet kan i særlige tilfelle fravike bestemmelsene i forskriften.
 
-> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 10).
+> Endret ved [forskrift 20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 10). **Endres** ved forskrift [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
 ## § 12. Klage
 
