@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2026-04-15"
 last_updated: "2023-01-12"
-xml_hash: "f8777fe95865a39ae059b28690a98202a457d82bf38430e82cbc77145fbfe2e6"
+xml_hash: "237c299fa767d328649598ba32e52780df5b8b12ec119a08d7b51e1249a7f4cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1728,6 +1728,14 @@ Medvirkning straffes ikke.
 
 > Tilføyd ved lov [18 juni 2021 nr. 128](lov/2021-06-18-128) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1963](forskrift/2021-06-18-1963)).
 
+### § 200. Involvering av mindreårige i kriminalitet
+
+> **Tilføyes** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
+
+### § 200 a. Grov involvering av mindreårige i kriminalitet
+
+> **Tilføyes** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
+
 ### Kapittel 21. Vern av informasjon og informasjonsutveksling
 
 > Kapitlet tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
@@ -2408,7 +2416,7 @@ For bestemmelsene i [§§ 299-306](lov/2005-05-20-28/§299) fører uvitenhet om 
 
 Straff etter bestemmelsene i [§§ 299-304](lov/2005-05-20-28/§299), [§ 305](lov/2005-05-20-28/§305) bokstav b annet alternativ og [§ 306](lov/2005-05-20-28/§306) kan falle bort eller settes under minstestraffen i [§ 300](lov/2005-05-20-28/§300) dersom de involverte er omtrent jevnbyrdige i alder og utvikling.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
 
 ### § 309. Kjøp av seksuelle tjenester fra mindreårige
 
