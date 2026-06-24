@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1975-08-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2022-04-25"
-xml_hash: "77713cc7ec95402792790562a0299ca77e4073595bb1b462f81ab62d6cc66574"
+xml_hash: "4c100238966e338ecdaab25bc095699f8c378dce6f4e07099d5cfe8703fcca34"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -152,7 +152,7 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 3. I forbindelse med utlevering kan det bestemmes at gjenstander som er beslaglagt under saken, skal overgis til den myndighet som har begjært utleveringen, likevel med de forbehold som det finnes grunn til å stille for å beskytte tredjemanns rett.
 4. Klage over vedtak om utlevering har oppsettende virkning.
 
-> Endret ved [lov 19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)).
+> Endret ved [lov 19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)). **Endres** ved lov [23 juni 2026 nr. 72](lov/2026-06-23-72) (i kraft 1 juli 2026).
 
 ### § 19
 
