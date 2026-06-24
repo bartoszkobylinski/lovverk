@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2025-01-01"
 last_updated: null
-xml_hash: "df7a63b55718b1c78267aeb52993cb8da7870d5495316501be548fd1a411dcf5"
+xml_hash: "7b3163eb2e7a7e74656d81b6d170e3fe6044d5d248510ef066bc59ad983782c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,7 @@ I denne loven menes meddeklarasjonspliktig: den som leverer en deklarasjon i ege
 
 (2) Departementet kan gi forskrift om hvilke opplysninger som skal gis, når opplysningene skal gis, leveringsmåten og om unntak fra pliktene. Departementet kan gi forskrift om at melde- og opplysningsplikten også skal gjelde for fører av motorvogn og tog.
 
-> Endret ved [lov 20 des 2022 nr. 111](lov/2022-12-20-111).
+> Endret ved [lov 20 des 2022 nr. 111](lov/2022-12-20-111). **Endres** ved lov [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 15 sep 2026 iflg. [res. 23 juni 2026 nr. 1237](forskrift/2026-06-23-1237)).
 
 ### § 2-4. Fremleggelse av varer for kontroll
 
@@ -521,6 +521,10 @@ Uten hinder av taushetsplikt skal myndigheter som gir tillatelse til inn- eller 
 (3) Tollmyndighetene kan kreve at tollrepresentanten sannsynliggjør at vedkommende handler på vegne av den representerte. Dersom dette ikke kan sannsynliggjøres, anses vedkommende for å handle i eget navn og på egne vegne.
 
 > Tilføyd ved [lov 20 des 2022 nr. 111](lov/2022-12-20-111).
+
+### § 7-22. Registrering av aktører
+
+> **Tilføyes** ved lov [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 1 juli 2026).
 
 ## Kapittel 8 Kontroll
 
