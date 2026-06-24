@@ -8,14 +8,14 @@ short_title: "Endringslov til apotekloven, legemiddelloven mv."
 language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "efc8f018db261a313b17b514ae33a4e0b057b4177a723ec5378b4021c24e6866"
+xml_hash: "107c3376abc068910183f6af497e840d7e8f053052171c8b1526086243d63914"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis:
   - "32024R1860"
@@ -47,4 +47,4 @@ Departementet kan pålegge markedsaktører å registrere opplysninger som er nø
 
 ## IV
 
-Loven gjelder fra den tiden Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
