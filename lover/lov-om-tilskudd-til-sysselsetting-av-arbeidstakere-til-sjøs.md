@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-06-01"
 last_change_in_force: null
 last_updated: "2021-09-29"
-xml_hash: "e8ee2b01ceb0571b9ff0cd58c167ccc653420e50631fe046df13d568662a872e"
+xml_hash: "f5bf2ab721d56c0dd957a0cb70e29265b16c7a77d42bbc7b4799edd1608cd6f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,9 +26,13 @@ eu_basis: []
 
 Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land.
 
+> **Endres** ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft fra den tid Kongen bestemmer).
+
 ## § 2. Tilskuddsmottakere
 
 Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS).
+
+> **Endres** ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft fra den tid Kongen bestemmer).
 
 ## § 3. Beregning av tilskudd
 
