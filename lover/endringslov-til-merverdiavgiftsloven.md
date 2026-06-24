@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "ffea846c05760897ba6b8467f6eec2a16bad50ed16d06b9b91f690f25e797d36"
+xml_hash: "2f4b0e3e667378790d12cce8252c40033d6b413b428cb145373298e902079982"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,6 +31,8 @@ eu_basis: []
 (2) Dersom mottakeren av tjenesten er hjemmehørende utenfor merverdiavgiftsområdet, skal det beregnes merverdiavgift når tjenesten er til bruk i merverdiavgiftsområdet av det samme rettssubjektet som mottar tjenesten. Plikten til å beregne merverdiavgift forutsetter at tjenesten er til bruk av næringsdrivende eller offentlig virksomhet hjemmehørende i merverdiavgiftsområdet.
 
 (3) Plikten til å beregne merverdiavgift etter annet ledd gjelder ikke dersom tjenesten fullt ut er til bruk som ville gitt fradragsrett for inngående merverdiavgift. Det samme gjelder dersom virksomheten kan dokumentere at det er beregnet merverdiavgift av tjenesten utenfor merverdiavgiftsområdet, og sannsynliggjøre at denne merverdiavgiften ikke kan fradragsføres.
+
+> **Endres** ved lov [23 juni 2026 nr. 70](lov/2026-06-23-70) (i kraft 1 juli 2026).
 
 (3) Departementet kan gi forskrift om beregningsgrunnlaget for merverdiavgift for fjernleverbare tjenester som er avgiftspliktige etter [§ 3-30 annet ledd](lov/2009-06-19-58/§3-30/ledd/2).
 
