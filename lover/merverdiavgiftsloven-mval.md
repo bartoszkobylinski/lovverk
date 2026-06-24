@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2021-07-01"
-xml_hash: "532515825e79b79fccc41edbb9c9e2c720dad87a36416b0564b1dbd7fe06af46"
+xml_hash: "cf6f3ed1f295468efddeebcfe0e45a860eed8f878f0a50ef9a302a6282338037"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -326,7 +326,7 @@ Uttak av varer og tjenester fra offentlige virksomheter som hver for seg eller i
 
 (3) Skjer leveringen av elektroniske kommunikasjonstjenester gjennom en fast terminal i merverdiavgiftsområdet, skal det beregnes merverdiavgift selv om mottakeren ikke er hjemmehørende i merverdiavgiftsområdet. Skjer leveringen gjennom fast terminal utenfor merverdiavgiftsområdet, skal det ikke beregnes merverdiavgift selv om mottakeren er hjemmehørende i merverdiavgiftsområdet.
 
-> Endret ved lover [10 des 2010 nr. 71](lov/2010-12-10-71) (ikr. 1 juli 2011) som endret ved [lov 24 juni 2011 nr. 27](lov/2011-06-24-27), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023). **Endres** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
+> Endret ved lover [10 des 2010 nr. 71](lov/2010-12-10-71) (ikr. 1 juli 2011) som endret ved [lov 24 juni 2011 nr. 27](lov/2011-06-24-27), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023). **Endres** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026, endring endres ved lov [23 juni 2026 nr. 70](lov/2026-06-23-70)).
 
 ### IV Dispensasjon
 
