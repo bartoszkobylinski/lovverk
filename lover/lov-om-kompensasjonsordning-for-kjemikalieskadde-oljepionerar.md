@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2025-12-22"
-last_change_in_force: null
+last_change_in_force: "2026-06-23"
 last_updated: null
-xml_hash: "8f7c45ee7d84b6adf925bc7b3694ecbd093012d4facf47769866b03205d3145b"
+xml_hash: "2039b545f9448a7e27af858f638cecd9e2bfa78914b40b357fb88313ab588706"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,9 @@ Aktivitetsområda produksjon og vedlikehald omfattar desse arbeidstakargruppene:
 
 ## § 3. Sjukdom og skade som kan gi rett til kompensasjon
 
-Følgande sjukdommar og skade kan gi rett til kompensasjon etter denne lova:akutt myelogen leukemimyelodysplastisk neoplasi (MDS)myelomatosekronisk lymfatisk leukemilungekreftlungehinnekreft (mesoteliom)bukhinnekreft (mesoteliom)eggstokkreftstrupekreftasbestoseløysemiddelskade på sentralnervesystemet.
+Følgande sjukdommar og skade kan gi rett til kompensasjon etter denne lova:akutt myelogen leukemimyelodysplastisk neoplasi (MDS)myelomatosenon-Hodgkin lymfomlungekreftlungehinnekreft (mesoteliom)bukhinnekreft (mesoteliom)eggstokkreftstrupekreftasbestoseløysemiddelskade på sentralnervesystemet.
+
+> Endret ved lov [23 juni 2026 nr. 69](lov/2026-06-23-69).
 
 ## § 4. Kompensasjon til etterlatne
 
