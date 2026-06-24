@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-05-07"
 last_change_in_force: "2026-01-01"
 last_updated: "2023-02-16"
-xml_hash: "9d4bb1c4b7d5441765e3112e5b079a4e906c3afbbaf7d23b4e7e2d01f23026c2"
+xml_hash: "862e11bc5a6deca762ad1bab41144cbb090293c5e3939142ec85baab0ed71adf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-24T07:36:55.746362+00:00"
 status: "current"
 eu_basis:
   - "32017R0745"
@@ -32,7 +32,7 @@ Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utst
 
 Departementet kan gi forskrift om gjennomføring og utfylling av forordningene gjennomført i første og andre ledd. Departementet kan også gi forskrift om endringer av forordningene i samsvar med rettsakter som vedtas av EU-kommisjonen og innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-> Endret ved lover [20 des 2024 nr. 97](lov/2024-12-20-97), [20 juni 2025 nr. 76](lov/2025-06-20-76) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1121](forskrift/2025-06-20-1121)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [20 des 2024 nr. 97](lov/2024-12-20-97), [20 juni 2025 nr. 76](lov/2025-06-20-76) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1121](forskrift/2025-06-20-1121)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ## § 2. Saklig virkeområde
 
@@ -102,7 +102,7 @@ Tilsynsmyndighetene gir de pålegg og treffer de enkeltvedtak som ellers er nød
 
 Departementet kan gi forskrift om tilsynet etter denne bestemmelsen.
 
-> **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ## § 12. Tvangsmulkt
 
