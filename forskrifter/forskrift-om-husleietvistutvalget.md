@@ -10,12 +10,12 @@ ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2016-07-01"
 last_change_in_force: "2026-03-06"
-last_updated: "2021-09-01"
-xml_hash: "37d790cec56964a14e395cc6c416e1611c3c65c9cdf856ae6764edefec37f6a5"
+last_updated: "2026-06-24"
+xml_hash: "d38d381a7f71ad735eb940a00870352663d610905bd15f4af726aa715c56b123"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -210,9 +210,11 @@ Et bredt utvalg av Husleieutvalgets avgjørelser, herunder samtlige avgjørelser
 
 ## § 20. Innsynsrett
 
-(1) Et avslag på krav om innsyn skal være skriftlig, opplyse om hvilken bestemmelse som ligger til grunn for avslaget, med eventuelle ledd, bokstaver og nummer, og opplyse om retten til å klage og klagefristen. Departementet er klageinstans. Ved behandling av klage gjelder reglene i [forvaltningsloven kapittel VI](lov/1967-02-10/kapvi).
+(1) For partenes og allmennhetens rett til innsyn i Husleietvistutvalgets saksdokumenter gjelder reglene i [tvisteloven § 14-1](lov/2005-06-17-90/§14-1) til [§ 14-5](lov/2005-06-17-90/§14-5) så langt de passer.
 
-> Tilføyd ved forskrift [22 juni 2021 nr. 2124](forskrift/2021-06-22-2124) (i kraft 1 sep 2021), endret ved forskrift [6 mars 2026 nr. 357](forskrift/2026-03-06-357).
+(2) Et avslag på krav om innsyn skal være skriftlig, opplyse om hvilken bestemmelse som ligger til grunn for avslaget, med eventuelle ledd, bokstaver og nummer, og opplyse om retten til å klage og klagefristen. Departementet er klageinstans. Ved behandling av klage gjelder reglene i [forvaltningsloven kapittel VI](lov/1967-02-10/kapvi).
+
+> Tilføyd ved forskrift [22 juni 2021 nr. 2124](forskrift/2021-06-22-2124) (i kraft 1 sep 2021).
 
 ## § 21. Ikraftsetting
 
