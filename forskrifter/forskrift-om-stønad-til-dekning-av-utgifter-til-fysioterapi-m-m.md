@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-07-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "72bb0bd44abecc211f3ba49a9ca607440f255b8051365b3d3b2ee7cf1c491641"
+xml_hash: "dd76764fbdf4ae0550494aea48161b69adde006b66cc813b6530125fdfc1c26b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,7 @@ Hvis et medlem ikke kan møte fram på behandlingsstedet på grunn av sin helset
 
 Fullt driftstilskudd er fra 1. juli 2025 kroner 576 492 pr. år. Driftstilskuddet utbetales forholdsmessig etter antall driftstilskuddstimer fysioterapeuten har avtale om.
 
-> Endret ved forskrift [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025).
+> Endret ved forskrift [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1212](forskrift/2026-06-22-1212) (i kraft 1 juli 2026).
 
 ## Kapittel II. Takster
 
@@ -145,7 +145,7 @@ Medlemskap i Norsk Helsenett er knyttet til virksomheten og registreres på orga
 
 Takstene gjelder egenandeler for undersøkelse og behandling utført av turnuskandidat og kan benyttes av avtalefysioterapeut som tar imot turnuskandidat, jf. denne forskriften [§ 5 fjerde ledd](forskrift/2024-06-17-1184/§5/ledd/4). Avtalefysioterapeuten må informere Helfo om inntak av turnuskandidat, oppgi turnuskandidatens HPR-nummer og i hvilken periode turnuskandidaten skal ha turnustjeneste ved instituttet. Avtalefysioterapeuten har det overordnede ansvaret for undersøkelse og behandling gitt av turnuskandidaten og står ansvarlig for kravet overfor Helfo.
 
-> Endret ved forskrifter [10 des 2024 nr. 3012](forskrift/2024-12-10-3012) (i kraft 1 jan 2025), [24 feb 2025 nr. 285](forskrift/2025-02-24-285), [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025).
+> Endret ved forskrifter [10 des 2024 nr. 3012](forskrift/2024-12-10-3012) (i kraft 1 jan 2025), [24 feb 2025 nr. 285](forskrift/2025-02-24-285), [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1212](forskrift/2026-06-22-1212) (i kraft 1 juli 2026).
 
 ## Kapittel III. Egenandeler og pasientbetaling
 
@@ -167,11 +167,13 @@ Fysioterapeuten kan ikke kreve gebyr for bruk av elektronisk timebestillingssyst
 
 Betaling for forbruksmateriell, uteblivelse fra time og ekspedisjonsgebyr dekkes ikke av folketrygden og anses ikke som godkjent egenandel etter bestemmelser gitt med hjemmel i [lov 28. februar 1997 nr. 19 om folketrygd § 5-3](lov/1997-02-28-19/§5-3).
 
+> **Endres** ved forskrift [22 juni 2026 nr. 1212](forskrift/2026-06-22-1212) (i kraft 1 juli 2026).
+
 ## Kapittel IV. Tilskott til fellesformål for fysioterapeuter
 
 Folketrygden yter i perioden 1. juli 2025–30. juni 2026 44,0 mill. kroner til Fond til etter- og videreutdanning av fysioterapeuter.
 
-> Endret ved forskrift [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025).
+> Endret ved forskrift [23 juni 2025 nr. 1196](forskrift/2025-06-23-1196) (i kraft 1 juli 2025). **Endres** ved forskrift [22 juni 2026 nr. 1212](forskrift/2026-06-22-1212) (i kraft 1 juli 2026).
 
 ## Kapittel V. Ikrafttredelse
 
