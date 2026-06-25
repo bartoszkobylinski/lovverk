@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "17362defb3a76bd105a80ba4fafca6d40cbc709b63373a34227a7bf58caef44a"
+xml_hash: "9c2f398a2f8717133d224cc76f811d2d083dd9d7a17d9ba90412f9032f5ac62b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -363,6 +363,8 @@ Skolen skal rette og attestere føringsfeil.
 Elevar som er fritatt for opplæringsplikt etter [opplæringslova § 2-2 tredje ledd](lov/2023-06-09-30/§2-2/ledd/3), jf. [privatskolelova § 3-3](lov/2003-07-04-84/§3-3), skal framleis stå oppførte i systemet for føring av karakterar.
 
 Skolen skal dokumentere fråvær kvart halvår.
+
+> **Vert endra** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 6-10. Dispensasjon frå reglane om individuell vurdering
 
