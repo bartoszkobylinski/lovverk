@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "8b78c69047750cfe872fc2b55a470f2d51008238fd4b16496421597a28b80932"
+xml_hash: "9404f81dafe83915b5e267b3bc71e33788c5d94c74b173adcaf4608ac989f95c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ På samme måte straffes den som rekrutterer en mindreårig til å begå en stra
 
 Uvitenhet om den mindreåriges alder fører ikke til straffrihet hvis gjerningspersonen kan klandres for sin uvitenhet.
 
-Grov overtredelse av § 200 straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den mindreårige ble involvert i eller rekruttert til å begå en alvorlig straffbar handling, om overtredelsen har et systematisk eller organisert preg, og om den mindreårige var under 15 år.
+Grov overtredelse av [§ 200](lov/2005-05-20-28/§200) straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den mindreårige ble involvert i eller rekruttert til å begå en alvorlig straffbar handling, om overtredelsen har et systematisk eller organisert preg, og om den mindreårige var under 15 år.
 
 § 200 tredje ledd gjelder tilsvarende.
 
