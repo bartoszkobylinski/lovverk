@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-08-13"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "f344d2f065d3129a15b9175e54f4351438b4691657ca95c484245ab13715046e"
+xml_hash: "9f9c3f44a4ec905441f911952e991d03810eb9d09e2a96130f4f83772c6996aa"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -75,7 +75,7 @@ Takstene 1b og 1c kan benyttes ved telefonkonsultasjoner og ved videokonsultasjo
 
 Takst 2 er en egenandel, og kan benyttes ved individuell prevensjonsveiledning som skjer uavhengig av svangerskapsomsorg. Taksten kan ikke kreves av jordmor som arbeider i helsestasjon.
 
-> Endret ved forskrifter [23 mars 2020 nr. 389](forskrift/2020-03-23-389), [28 aug 2020 nr. 1693](forskrift/2020-08-28-1693), [20 okt 2020 nr. 2098](forskrift/2020-10-20-2098) (i kraft 1 nov 2020), [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025).
+> Endret ved forskrifter [23 mars 2020 nr. 389](forskrift/2020-03-23-389), [28 aug 2020 nr. 1693](forskrift/2020-08-28-1693), [20 okt 2020 nr. 2098](forskrift/2020-10-20-2098) (i kraft 1 nov 2020), [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1240](forskrift/2026-06-18-1240) (i kraft 1 juli 2026).
 
 ## Kapittel III. Takster for jordmorhjelp ved fødsel utenfor institusjon
 
@@ -91,7 +91,7 @@ Takst 6a og 6b kan kun benyttes i forbindelse med planlagt hjemmefødsel.
 
 Takst 8 kan benyttes én gang av jordmor som assisterer primærjordmor ved hjemmefødsel.
 
-> Endret ved forskrifter [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025).
+> Endret ved forskrifter [30 okt 2020 nr. 2211](forskrift/2020-10-30-2211) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2258](forskrift/2021-06-28-2258) (i kraft 1 juli 2021), [28 juni 2022 nr. 1227](forskrift/2022-06-28-1227) (i kraft 1 juli 2022), [26 juni 2023 nr. 1100](forskrift/2023-06-26-1100) (i kraft 1 juli 2023), [21 juni 2024 nr. 1162](forskrift/2024-06-21-1162) (i kraft 1 juli 2024), [23 juni 2025 nr. 1292](forskrift/2025-06-23-1292) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1240](forskrift/2026-06-18-1240) (i kraft 1 juli 2026).
 
 ## Kapittel IV. Ikrafttredelse
 
