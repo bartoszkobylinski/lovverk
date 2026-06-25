@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1994-01-01"
 last_change_in_force: "2025-05-01"
 last_updated: "2023-02-16"
-xml_hash: "19ac195cefa49f698a8b0baa743d60921e38ddcf33985eb3efffbe8057795560"
+xml_hash: "597b254da1af2999ce76727248d10e1cfc5fbd6eb1c48c5e7e0f759302622828"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "32019R0006"
@@ -29,7 +29,7 @@ eu_basis:
 
 Denne lov gjelder legemidler og visse andre varer til medisinsk bruk. Uavhengig av [§ 2](lov/1992-12-04-132/§2) første ledd gjelder denne loven også for de stoffer, droger, planter, sopper og blandinger som Kongen etter [§ 22](lov/1992-12-04-132/§22) har fastsatt som narkotika.
 
-For legemidler til dyr gjelder kapittel I a. Dette gjelder likevel ikke for legemidler som nevnt i forordning om legemidler til dyr artikkel 2 nr. 7 bokstav a, b og d og for andre legemidler til dyr som ikke omfattes av virkeområdet til forordningen. For disse legemidlene gjelder loven med tilhørende forskrifter med unntak av bestemmelsene i kapittel I a.
+For legemidler til dyr gjelder [kapittel I a](lov/1992-12-04-132/kapia). Dette gjelder likevel ikke for legemidler som nevnt i forordning om legemidler til dyr artikkel 2 nr. 7 bokstav a, b og d og for andre legemidler til dyr som ikke omfattes av virkeområdet til forordningen. For disse legemidlene gjelder loven med tilhørende forskrifter med unntak av bestemmelsene i [kapittel I a](lov/1992-12-04-132/kapia).
 
 > Endret ved lover [24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
 
@@ -221,7 +221,7 @@ Kongen kan i forskrift gjøre unntak fra klagerett over vedtak fattet i medhold 
 
 ### § 13 b. Tilbakeholdelse, beslagleggelse og destruksjon av legemidler til dyr
 
-Legemidler til dyr som importeres i strid med kapittel I a eller forskrifter gitt i medhold av kapittel I a, kan tilbakeholdes, beslaglegges og destrueres.
+Legemidler til dyr som importeres i strid med [kapittel I a](lov/1992-12-04-132/kapia) eller forskrifter gitt i medhold av [kapittel I a](lov/1992-12-04-132/kapia), kan tilbakeholdes, beslaglegges og destrueres.
 
 Ved tilbakehold skal mottakeren varsles om at legemidlene vil bli vurdert beslaglagt og destruert, og gis mulighet til å uttale seg i saken innen en nærmere angitt frist.
 
