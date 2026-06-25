@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-10-01"
 last_change_in_force: "2025-10-12"
 last_updated: "2021-07-01"
-xml_hash: "278c377a07b451b07da46edd5553b2b49ef6feb05601cc09f48e3c355f928f24"
+xml_hash: "76e0425ad5dca815e1fe0b81fec62865e1f984c05a10ee5f536e60a7fa04e05a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -572,7 +572,7 @@ Opptak til videreutdanning og høyere grads studier foretas av Politihøgskolen.
 
 Vedtak om avslag på søknad om opptak kan påklages til Politihøgskolens styre eller til en klagenemnd oppnevnt av styret. Klagen behandles etter reglene i forvaltningsloven. Tildeling av studiested er ikke gjenstand for klage.
 
-> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lov [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lov [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 24c. Utvisning, bortvisning og utestengning
 
