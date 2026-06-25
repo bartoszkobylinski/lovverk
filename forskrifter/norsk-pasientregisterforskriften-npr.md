@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2009-04-15"
 last_change_in_force: "2025-01-01"
 last_updated: "2021-06-15"
-xml_hash: "d7d89e01bbbf942ae2e0dc9b281b1fc1ecf77dc59771bfe35c97252593f7cf16"
+xml_hash: "971882d0d6f93baecb239fe1c5750526e74ff185999e23665cb2bb4290e722e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -177,7 +177,7 @@ Sammenstilling med sykdoms- og kvalitetsregistre skal ikke føre til at Norsk pa
 
 Eventuell kontakt med pasienter ved etablering av sykdoms- eller kvalitetsregistre skal ikke gjøres av Norsk pasientregister. Slik eventuell førstegangskontakt skal gjøres av behandlende institusjon. Dersom et sykdoms- eller kvalitetsregister eller annen institusjon skal kunne ta førstegangskontakt, kreves det dispensasjon fra taushetsplikten jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29).
 
-> Endret ved [forskrifter 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [23 april 2021 nr. 1269](forskrift/2021-04-23-1269) som endret ved forskrift [12 mai 2021 nr. 1902](forskrift/2021-05-12-1902) (i kraft 1 juni 2021, tidligere § 3-7).
+> Endret ved [forskrifter 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [23 april 2021 nr. 1269](forskrift/2021-04-23-1269) som endret ved forskrift [12 mai 2021 nr. 1902](forskrift/2021-05-12-1902) (i kraft 1 juni 2021, tidligere § 3-7). **Endres** ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
 
 ### § 3-6. Informasjonsstrategi rettet mot brukergrupper
 
