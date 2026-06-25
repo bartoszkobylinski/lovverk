@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-07-01"
 last_change_in_force: null
 last_updated: "2023-06-15"
-xml_hash: "f5008f88c63d4983bc87d1c5232ac5fc13cc6f90428988cc610783dcd572ccbf"
+xml_hash: "d329aa11aecfddc11df653972900394bfa46cd22e9cf97a2a627cf5dede2c2e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "32014L0017"
@@ -311,11 +311,19 @@ Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår
 
 (2) Første ledd gjelder tilsvarende for overtredelser av bestemmelser gitt i medhold av bestemmelsene angitt i første ledd og for pålegg gitt med hjemmel i [§ 9-3](lov/2022-12-16-91/§9-3) for overtredelser av bestemmelser gitt i medhold av disse bestemmelsene.
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+### § 9-5. Forbud mot å ha ledelsesfunksjon
 
 > **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
+### § 9-6. Overtredelsesgebyr
+
 > **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 9-7. Momenter ved ileggelse og utmåling av overtredelsesgebyr
+
+> **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+
+### § 9-8. Finanstilsynets taushetsplikt mv.
 
 > **Tilføyes** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
