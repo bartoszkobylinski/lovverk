@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-08-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "c645ca8d389eb5f20a339b2ed469f2f4292c9cdeca91a5b35d7b113d6c5cb21f"
+xml_hash: "a90eed9862b466eefcff5cc15712aa09eb5f5d82aafe8903156fea4d9f5c0327"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,9 +34,13 @@ Departementet skal, ved eventuelle endringer i EUs liste over ikke-samarbeidsvil
 
 Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Amerikansk SamoaAnguillaFijiGuamPalauPanamaRusslandSamoaTrinidad og TobagoDe amerikanske JomfruøyeneVanuatu.
 
+> **Endres** ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
+
 ## § 4. Stater oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål
 
 Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Antigua og BarbudaBelizeDe britiske JomfruøyeneBruneiEswatiniSeychelleneTyrkiaVietnam.
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
 
 ## § 5. Ikrafttredelse
 
