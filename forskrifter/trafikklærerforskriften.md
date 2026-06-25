@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2026-03-01"
 last_updated: null
-xml_hash: "629e181b04f01be080f2321679801fff19a4e08ddb8e003b4a72af00ce6ce61f"
+xml_hash: "afdcb4cd6184772330a75403073dcecfb0f483bd8014644abd70bf148fb6670f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -388,7 +388,7 @@ Ved regodkjenning av trafikklærer hvor godkjenningen har vært mistet skal det 
 
 For godkjenning som kursarrangør eller kurstilbyder av etterutdanning skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1) nr. X.
 
-> Tilføyd ved forskrift [25 feb 2026 nr. 277](forskrift/2026-02-25-277) (i kraft 1 mars 2026).
+> Tilføyd ved forskrift [25 feb 2026 nr. 277](forskrift/2026-02-25-277) (i kraft 1 mars 2026). **Endres** ved forskrift [22 juni 2026 nr. 1210](forskrift/2026-06-22-1210) (i kraft 1 juli 2026).
 
 ### § 34. Ikrafttredelse
 
