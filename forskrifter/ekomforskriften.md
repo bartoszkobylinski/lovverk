@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2025-01-01"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-06-23"
 last_updated: null
-xml_hash: "39fc2060dfc84fdd996326b75cd68c861f6305c4f05810e7ba5304a7c7a6fb2b"
+xml_hash: "b8543f04958cec4c9ca95008ea55dd0ae35f3a4fbb0a2f1a8c970dc6702233d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -200,9 +200,9 @@ Ved driftsstans skal tilbyder ved gjenoppretting prioritere hensynet til sluttbr
 
 Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller så langt det er nødvendig for å sikre offentlige interesser, pålegge tilbyder å gi prioritet til viktige samfunnsaktører ved gjenoppretting etter driftsstans.
 
-### § 2-11. Gjennomføring av forordning om ENISA
+### § 2-11. (Opphevet)
 
-[EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5cp (europaparlaments- og rådsforordning [(EU) 2019/881](eu/32019r0881) av 17. april 2019 om ENISA (den europeiske unions byrå for nett- og informasjonssikkerhet (ENISA), om cybersikkerhetssertifisering av informasjons- og kommunikasjonsteknologi og om opphevelse av forordning [(EU) nr. 526/2013](eu/32013r0526)), med unntak av bestemmelsene i forordningens del III om cybersikkerhetssertifisering, gjelder som forskrift med de tilpasninger som følger av [vedlegg XI](avtale/avt-1992-05-02-1-v11), protokoll 1 til avtalen og avtalen for øvrig.
+> Opphevet ved forskrift [23 juni 2026 nr. 1250](forskrift/2026-06-23-1250).
 
 ## Kapittel 3. Kommunikasjonsvern
 
