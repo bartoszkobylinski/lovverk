@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-10-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "c2bfbd879f825e3961b13209b4e663f4bf7d0e248532b0519711d7169d47e06c"
+xml_hash: "1b8666bac1a664f2d928b4710894d294e61fea7ef972e7926bbd9052fc525633"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "32014R1286"
@@ -84,16 +84,16 @@ Enhver som utfører arbeid eller tjeneste for Finanstilsynet eller departementet
 
 Departementet kan i forskrift gi regler som utfyller reglene i første og annet ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 10).
 
 ## § 10. Ikrafttredelse og overgangsregler
 
-Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Departementet kan gi overgangsregler.
+Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Departementet kan gi overgangsregler.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 11).
 
 ## § 11. Endringer i andre lover
 
 Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover: – – –
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 12).
