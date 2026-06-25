@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1981-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-04-25"
-xml_hash: "3c9407a8082040d7da4edf4fd8e3ab88b01ce1db3a6e795080f69897d640d682"
+xml_hash: "c70c91b5ae95f676614d70b231b904694ec7ff63ea706d4c75736401c6e877c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -562,7 +562,7 @@ Bestemmelsene i [§ 4-6](lov/1980-02-08-2/§4-6) annet ledd, [§ 4-7](lov/1980-0
 
 (4) [§ 3-1 a](lov/1980-02-08-2/§3-1a) gjelder tilsvarende for panterett etter denne paragrafen til sikring av lån til finansiering under rekonstruksjonsforhandling etter § 19 i midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19.
 
-> Endret ved [lover 20 juli 1991 nr. 68](lov/1991-07-20-68), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Oppheves** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 20 juli 1991 nr. 68](lov/1991-07-20-68), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [7 mai 2020 nr. 38](lov/2020-05-07-38) (ikr. 11 mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947)), [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### Patenter, varemerker og planteforedlerretter.
 
