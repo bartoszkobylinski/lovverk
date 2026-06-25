@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2026-06-15"
-xml_hash: "9f5c5dc8e9e8162f2093e7d1f81a7c215a695507cf8cd3c3115d72009da049e5"
+xml_hash: "fcbe64731d986a8ded15585fce32ef9e0cfbe18caac21a5b887ab8d90758f968"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -1669,7 +1669,7 @@ Et uavhengig tilsynsråd fører tilsyn med tvangsreturer, driften av utlendingsi
 
 Kongen kan gi utfyllende bestemmelser i forskrift.
 
-> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 108. Straff
 
