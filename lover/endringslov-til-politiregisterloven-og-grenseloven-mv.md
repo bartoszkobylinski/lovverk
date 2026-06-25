@@ -8,14 +8,14 @@ short_title: "Endringslov til politiregisterloven og grenseloven mv."
 language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "37a99017acfdb7829973756d3f9fc44c4c16b549241a4a0893e13d98d1e167ab"
+xml_hash: "cb6cd48f85e76dc86496b9f3c41fdd0c09a0f8b2ed621976797ae3f59f500178"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,5 +78,5 @@ behandling av personopplysninger, herunder om innsyn, retting og sletting, behan
 
 ## VI
 
-1. Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Kongen kan gi nærmere overgangsregler.
