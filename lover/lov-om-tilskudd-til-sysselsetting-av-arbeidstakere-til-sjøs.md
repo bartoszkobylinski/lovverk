@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-06-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-23"
 last_updated: "2021-09-29"
-xml_hash: "f5bf2ab721d56c0dd957a0cb70e29265b16c7a77d42bbc7b4799edd1608cd6f8"
+xml_hash: "5143f1dffc56a65d5761ba677fb44a3198599f92315bc565127b3905f4d747c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,15 +24,15 @@ eu_basis: []
 
 ## § 1. Formål
 
-Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land.
+Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for norsk maritim virksomhet. Ordningen skal sikre maritim kompetanse og rekruttering av sjøfolk og bidra til å sikre sjøfolks konkurranseevne og skipsfarten som beredskapsressurs.
 
-> **Endres** ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft 23 juni 2026 iflg. [res. 23 juni 2026 nr. 1257](forskrift/2026-06-23-1257)).
 
 ## § 2. Tilskuddsmottakere
 
-Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS).
+Tilskudd kan gis til organisasjoner som har drift av skip registrert i skipsregistre som nærmere fastsettes i forskrift.
 
-> **Endres** ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [23 juni 2026 nr. 77](lov/2026-06-23-77) (i kraft 23 juni 2026 iflg. [res. 23 juni 2026 nr. 1257](forskrift/2026-06-23-1257)).
 
 ## § 3. Beregning av tilskudd
 
