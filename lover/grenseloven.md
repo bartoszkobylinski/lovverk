@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-05-01"
 last_change_in_force: "2026-06-12"
 last_updated: "2021-08-25"
-xml_hash: "26b2e9b62ecbe332ede4c8911226a3fdcadaff3b55d62f640e472e4379659339"
+xml_hash: "017359a05841c9adeb7c9d47613e99ce1c6287613fbd282c9f00318b990665c9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -212,11 +212,11 @@ Politiet kan behandle opplysninger om reisende i et register som grunnlag for gj
 
 Biometrisk personinformasjon (ansiktsfoto og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.
 
-> Endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1877](forskrift/2025-09-19-1877)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1877](forskrift/2025-09-19-1877)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 22 a. Testing og utvikling
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> **Tilføyes** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 23. Overvåkingsmetoder og bruk av teknisk overvåkingsutstyr
 
@@ -268,7 +268,7 @@ Utlendingen kan kreve spørsmålet om rettmessigheten av tvangsinngrepet brakt i
 
 Kongen kan gi forskrift om gjennomføring av loven, blant annet omlovens anvendelse for Svalbard, Jan Mayen og bilandene Bouvetøya, Peter I Øy og Dronning Maud Land, blant annet om kontroll med reisende og andre særlige regler av hensyn til de stedlige forholdene, jf. [§ 3](lov/2018-04-20-8/§3),gjennomføring av forpliktelser etter avtale med nabostat, blant annet om immunitet og privilegier, jf. [kapittel 2](lov/2018-04-20-8/kap2),grenseovergangssteder, blant annet om fastsetting, innretting av kontrollen og samarbeid mellom grensekontrollmyndigheten og eier eller driver av grenseovergangssted, jf. [§ 13](lov/2018-04-20-8/§13),midlertidig gjeninnføring av grensekontroll på indre Schengen-grense, jf. [§ 14](lov/2018-04-20-8/§14),gjennomføring av inn- og utreisekontroll, blant annet for reisende som kommer fra eller reiser til Svalbard eller innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, jf. [§ 15](lov/2018-04-20-8/§15),politiets myndighet til å kreve inn pass og andre reise- eller legitimasjonsdokumenter fra utlending før innreise, samt til å ta kopi av slike dokumenter, jf. [§ 15](lov/2018-04-20-8/§15),plikt for transportør av sjøfartøy, luftfartøy eller yrkesmessig landtransport av personer til å kontrollere at de reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse, jf. [§ 15](lov/2018-04-20-8/§15),hvilke fartøy og opplysninger som omfattes av [§ 16](lov/2018-04-20-8/§16), av hvem, når og hvordan opplysningene skal oversendes og om plikt for fører til å rette seg etter politiets anvisning om ankomst-, anløps- eller avreisested for gjennomføring av inn- og utreisekontroll,sjøfolks landlov og sjøfolks og blindpassasjerers adgang til å gå i land i riket, og om saksbehandling og klageadgang i slike saker, jf. [§ 17](lov/2018-04-20-8/§17),behandling av personopplysninger, blant annet om innsyn, retting og sletting og om behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. [§ 22](lov/2018-04-20-8/§22),bruk av teknisk overvåkingsutstyr, jf. [§ 23](lov/2018-04-20-8/§23),gjennomføringen av rettsakter som nevnt i [§ 8 første ledd](lov/2018-04-20-8/§8/ledd/1), blant annet om behandling av personopplysninger,gjennomføringen av forordning [(EU) 2019/817](eu/32019r0817) artikkel 20 og forordning [(EU) 2019/818](eu/32019r0818) artikkel 20,gjennomføring av endringer i vedlegg III, IV, VIII og XI til forordning [(EU) 2016/399](eu/32016r0399) (grenseforordningen) med senere endringer vedtatt av Europakommisjonen i medhold av grenseforordningen artikkel 36, jf. [§ 8 første ledd nr. 1](lov/2008-05-15-35/§8/ledd/1/nummer/1).
 
-> Endret ved lover [29 april 2022 nr. 26](lov/2022-04-29-26), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876), endring endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85)), [20 juni 2025 nr. 85](lov/2025-06-20-85) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1877](forskrift/2025-09-19-1877)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [29 april 2022 nr. 26](lov/2022-04-29-26), [21 juni 2024 nr. 47](lov/2024-06-21-47) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1876](forskrift/2025-09-19-1876), endring endret ved lov [20 juni 2025 nr. 85](lov/2025-06-20-85)), [20 juni 2025 nr. 85](lov/2025-06-20-85) (i kraft 12 okt 2025 iflg. [res. 19 sep 2025 nr. 1877](forskrift/2025-09-19-1877)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 26. Straff
 
