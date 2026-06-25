@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-28"
-xml_hash: "ac223ffab624f173c69551221597c0d18351243a4bb531f9f563be0611c9dc9e"
+xml_hash: "180a2cce36f4c7b7a59f39562b24729b7018a857ac54fb343d0512b0f38b7e3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "32016L0680"
@@ -173,7 +173,7 @@ I avtalen med den behandlingsansvarlige skal det fremgå at databehandleren plik
 
 Den som er ansatt hos, eller utfører tjeneste eller arbeid for databehandler, og som får tilgang til opplysninger som er underlagt taushetsplikt i henhold til denne loven, skal pålegges taushetsplikt etter [§ 35](lov/2010-05-28-16/§35). En slik plikt skal fremgå av avtalen med den behandlingsansvarlige. Det kan kreves uttømmende og utvidet politiattest av enhver som er ansatt hos eller utfører tjeneste eller arbeid for databehandler. Databehandler plikter å oppgi hvem som får tilgang til de taushetsbelagte opplysningene.
 
-> **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ## Kapittel 5. Utlevering og tilgang til opplysninger
 
