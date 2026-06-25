@@ -2,6 +2,26 @@
   "doc_id": "sf-20250704-1465",
   "events": [
     {
+      "commit": "3495968",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 22,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-nasjonal-retningslinje-for-sosionomutdanning",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "renamed"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20250704-1465.md",

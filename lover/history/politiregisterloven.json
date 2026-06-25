@@ -2,6 +2,16 @@
   "doc_id": "nl-20100528-016",
   "events": [
     {
+      "commit": "efbe0e9",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): politiregisterloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "adba26d",
       "date": "2026-06-20",
       "from_path": null,

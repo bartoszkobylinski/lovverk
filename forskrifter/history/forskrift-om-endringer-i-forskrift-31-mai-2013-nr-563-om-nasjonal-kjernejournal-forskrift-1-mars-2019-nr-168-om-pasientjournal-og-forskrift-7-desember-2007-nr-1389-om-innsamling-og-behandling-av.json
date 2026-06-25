@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1242",
+  "events": [
+    {
+      "commit": "c4213b5",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endringer-i-forskrift-31-mai-2013-nr-563-om-nasjonal-kjernejournal-forskrift-1-mars-2019-nr-168-om-pasientjournal-og-forskrift-7-desember-2007-nr-1389-om-innsamling-og-behandling-av",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endringer-i-forskrift-31-mai-2013-nr-563-om-nasjonal-kjernejournal-forskrift-1-mars-2019-nr-168-om-pasientjournal-og-forskrift-7-desember-2007-nr-1389-om-innsamling-og-behandling-av"
+}

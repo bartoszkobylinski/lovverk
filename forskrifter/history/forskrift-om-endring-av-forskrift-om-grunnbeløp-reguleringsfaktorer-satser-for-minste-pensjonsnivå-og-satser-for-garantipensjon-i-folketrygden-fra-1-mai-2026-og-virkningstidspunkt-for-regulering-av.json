@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260623-1239",
+  "events": [
+    {
+      "commit": "35cd4b8",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-av-forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virkningstidspunkt-for-regulering-av",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-av-forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virkningstidspunkt-for-regulering-av"
+}

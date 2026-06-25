@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260623-1250",
+  "events": [
+    {
+      "commit": "4272453",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 89,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-cybersikkerhetssertifisering",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-cybersikkerhetssertifisering"
+}

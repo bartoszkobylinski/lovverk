@@ -1,6 +1,11 @@
 # priips-loven — Change history
 
-_4 events; doc_id `nl-20240621-040`._
+_5 events; doc_id `nl-20240621-040`._
+
+## 2026-06-25 — Content updated
+Lines: +6 -6.
+Subject: `update(lov): priips-loven`
+Commit: `e509757`.
 
 ## 2026-06-20 — Content updated
 Lines: +10 -2.

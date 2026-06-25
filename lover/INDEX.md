@@ -1,6 +1,6 @@
 # Lover
 
-_789 current documents_
+_788 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -169,7 +169,6 @@ _789 current documents_
 - [endringslov-til-lov-om-pensjonsordning-for-sykepleiere](endringslov-til-lov-om-pensjonsordning-for-sykepleiere.md) — Lov om endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)
 - [endringslov-til-lov-om-statens-pensjonsfond](endringslov-til-lov-om-statens-pensjonsfond.md) — Lov om endringer i lov om Statens pensjonsfond
 - [endringslov-til-lov-om-statens-pensjonskasse-mfl](endringslov-til-lov-om-statens-pensjonskasse-mfl.md) — Lov om endringer i lov om Statens pensjonskasse og enkelte andre lover (ny uførepensjonsordning)
-- [endringslov-til-lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs](endringslov-til-lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs.md) — Lov om endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 - [endringslov-til-markedsføringsloven-mv](endringslov-til-markedsføringsloven-mv.md) — Lov om endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet)
 - [endringslov-til-matloven](endringslov-til-matloven.md) — Lov om endringer i matloven (hjemmel for overtredelsesgebyr ved brudd på forskrift)
 - [endringslov-til-merverdiavgiftsloven](endringslov-til-merverdiavgiftsloven.md) — Lov om endringer i merverdiavgiftsloven

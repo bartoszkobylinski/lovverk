@@ -1,6 +1,11 @@
 # legemiddelloven — Change history
 
-_5 events; doc_id `nl-19921204-132`._
+_6 events; doc_id `nl-19921204-132`._
+
+## 2026-06-25 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): legemiddelloven`
+Commit: `c8adb27`.
 
 ## 2026-06-24 — Content updated
 Lines: +4 -4.

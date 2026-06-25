@@ -2,6 +2,16 @@
   "doc_id": "nl-19800208-002",
   "events": [
     {
+      "commit": "875c326",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(lov): panteloven-pantel",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3f505c2",
       "date": "2026-06-20",
       "from_path": null,

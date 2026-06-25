@@ -2,6 +2,16 @@
   "doc_id": "nl-20260623-067",
   "events": [
     {
+      "commit": "cd89a7a",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): endringslov-til-vareførselsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "1d91bbf",
       "date": "2026-06-24",
       "from_path": null,

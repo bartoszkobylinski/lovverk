@@ -1,6 +1,11 @@
 # panteloven-pantel — Change history
 
-_4 events; doc_id `nl-19800208-002`._
+_5 events; doc_id `nl-19800208-002`._
+
+## 2026-06-25 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): panteloven-pantel`
+Commit: `875c326`.
 
 ## 2026-06-20 — Content updated
 Lines: +13 -11.

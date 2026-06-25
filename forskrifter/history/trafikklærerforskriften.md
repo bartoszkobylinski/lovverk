@@ -1,6 +1,16 @@
 # trafikklærerforskriften — Change history
 
-_2 events; doc_id `sf-20241015-2556`._
+_4 events; doc_id `sf-20241015-2556`._
+
+## 2026-06-25 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): trafikklærerforskriften`
+Commit: `c9dbf50`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20241015-2556.md` → `"forskrifter/trafikkl\303\246rerforskriften.md"`.

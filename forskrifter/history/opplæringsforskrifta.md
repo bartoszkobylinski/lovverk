@@ -1,6 +1,11 @@
 # opplæringsforskrifta — Change history
 
-_4 events; doc_id `sf-20240603-0900`._
+_5 events; doc_id `sf-20240603-0900`._
+
+## 2026-06-25 — Content updated
+Lines: +6 -2.
+Subject: `update(forskrift): opplæringsforskrifta`
+Commit: `31fb2f7`.
 
 ## 2026-06-24 — Content updated
 Lines: +23 -11.

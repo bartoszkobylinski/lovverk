@@ -2,6 +2,16 @@
   "doc_id": "sf-20240603-0901",
   "events": [
     {
+      "commit": "f6b23df",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 2,
+      "subject": "update(forskrift): privatskoleforskrifta",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "421b91c",
       "date": "2026-06-24",
       "from_path": null,

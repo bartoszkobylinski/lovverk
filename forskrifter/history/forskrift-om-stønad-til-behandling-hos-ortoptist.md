@@ -1,6 +1,16 @@
 # forskrift-om-stønad-til-behandling-hos-ortoptist — Change history
 
-_2 events; doc_id `sf-20010628-0795`._
+_4 events; doc_id `sf-20010628-0795`._
+
+## 2026-06-25 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-stønad-til-behandling-hos-ortoptist`
+Commit: `1944389`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20010628-0795.md` → `"forskrifter/forskrift-om-st\303\270nad-til-behandling-hos-ortoptist.md"`.

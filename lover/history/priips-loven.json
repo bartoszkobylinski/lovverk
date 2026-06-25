@@ -2,6 +2,16 @@
   "doc_id": "nl-20240621-040",
   "events": [
     {
+      "commit": "e509757",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(lov): priips-loven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "20a6e71",
       "date": "2026-06-20",
       "from_path": null,

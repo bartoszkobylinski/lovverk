@@ -1,6 +1,16 @@
 # forskrift-om-utgifter-til-jordmorhjelp — Change history
 
-_2 events; doc_id `sf-20190813-1061`._
+_4 events; doc_id `sf-20190813-1061`._
+
+## 2026-06-25 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): forskrift-om-utgifter-til-jordmorhjelp`
+Commit: `bb7191a`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20190813-1061.md` → `forskrifter/forskrift-om-utgifter-til-jordmorhjelp.md`.

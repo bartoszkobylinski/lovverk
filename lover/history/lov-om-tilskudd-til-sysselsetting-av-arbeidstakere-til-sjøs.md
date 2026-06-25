@@ -1,6 +1,11 @@
 # lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs — Change history
 
-_4 events; doc_id `nl-20170522-028`._
+_5 events; doc_id `nl-20170522-028`._
+
+## 2026-06-25 — Content updated
+Lines: +7 -7.
+Subject: `update(lov): lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs`
+Commit: `c9eda67`.
 
 ## 2026-06-24 — Content updated
 Lines: +6 -2.

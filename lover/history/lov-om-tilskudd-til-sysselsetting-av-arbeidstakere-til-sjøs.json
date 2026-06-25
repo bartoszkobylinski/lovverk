@@ -2,6 +2,16 @@
   "doc_id": "nl-20170522-028",
   "events": [
     {
+      "commit": "c9eda67",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(lov): lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7dfc61c",
       "date": "2026-06-24",
       "from_path": null,

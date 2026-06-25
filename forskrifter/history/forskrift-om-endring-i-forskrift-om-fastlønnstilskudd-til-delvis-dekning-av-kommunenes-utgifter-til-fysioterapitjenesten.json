@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260618-1208",
+  "events": [
+    {
+      "commit": "7bd9aea",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 37,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-fastlønnstilskudd-til-delvis-dekning-av-kommunenes-utgifter-til-fysioterapitjenesten",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-fastlønnstilskudd-til-delvis-dekning-av-kommunenes-utgifter-til-fysioterapitjenesten"
+}

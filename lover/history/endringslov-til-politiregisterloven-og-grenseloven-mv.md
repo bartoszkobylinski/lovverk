@@ -1,6 +1,11 @@
 # endringslov-til-politiregisterloven-og-grenseloven-mv — Change history
 
-_2 events; doc_id `nl-20260619-046`._
+_3 events; doc_id `nl-20260619-046`._
+
+## 2026-06-25 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): endringslov-til-politiregisterloven-og-grenseloven-mv`
+Commit: `2f22889`.
 
 ## 2026-06-23 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,11 @@
 # angrerettloven-angrl — Change history
 
-_4 events; doc_id `nl-20140620-027`._
+_5 events; doc_id `nl-20140620-027`._
+
+## 2026-06-25 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): angrerettloven-angrl`
+Commit: `a62e5eb`.
 
 ## 2026-06-20 — Content updated
 Lines: +13 -5.

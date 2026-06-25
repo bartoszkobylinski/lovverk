@@ -2,6 +2,16 @@
   "doc_id": "sf-20260619-1171",
   "events": [
     {
+      "commit": "c381867",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-enkelte-klagenemnder-på-kunnskapsdepartementets-område",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8429a31",
       "date": "2026-06-24",
       "from_path": null,

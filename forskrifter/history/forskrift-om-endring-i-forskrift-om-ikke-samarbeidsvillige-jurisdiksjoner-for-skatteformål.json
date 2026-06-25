@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260622-1214",
+  "events": [
+    {
+      "commit": "3e261c3",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål"
+}

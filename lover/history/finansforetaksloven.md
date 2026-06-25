@@ -1,6 +1,11 @@
 # finansforetaksloven — Change history
 
-_5 events; doc_id `nl-20150410-017`._
+_6 events; doc_id `nl-20150410-017`._
+
+## 2026-06-25 — Content updated
+Lines: +14 -10.
+Subject: `update(lov): finansforetaksloven`
+Commit: `1da8f32`.
 
 ## 2026-06-23 — Content updated
 Lines: +11 -11.

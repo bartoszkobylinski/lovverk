@@ -2,6 +2,16 @@
   "doc_id": "nl-20150410-017",
   "events": [
     {
+      "commit": "1da8f32",
+      "date": "2026-06-25",
+      "from_path": null,
+      "lines_added": 14,
+      "lines_removed": 10,
+      "subject": "update(lov): finansforetaksloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "607a156",
       "date": "2026-06-23",
       "from_path": null,
