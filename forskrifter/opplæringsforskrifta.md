@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "1bec691668bfc28d8095c05be898d79b215388e06d0c1b198b19958c231b4c61"
+xml_hash: "263249a1313ea60476ea923581b86cdd3aad9f06807122f2139abb4597965419"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -793,6 +793,8 @@ Kommunen og fylkeskommunen skal sørgje for at føringsfeil blir retta og attest
 Elevar som er fritatt for opplæringsplikt etter [opplæringslova § 2-2 tredje ledd](lov/2023-06-09-30/§2-2/ledd/3), skal framleis stå oppførte i systemet for føring av karakterar.
 
 Kommunen og fylkeskommunen skal sørgje for at fråvær blir dokumentert kvart halvår.
+
+> **Vert endra** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 9-10. Dispensasjon frå reglane om individuell vurdering
 
@@ -2267,6 +2269,8 @@ Deltakarar i vidaregåande opplæring for vaksne som per 31. juli 2025 får oppl
 ### § 23-9. Overgangsregel for forskrift om hovudmål på kvar skole
 
 Fylkeskommunen treng ikkje oppfylle kravet i [opplæringslova § 15-2 første ledd](lov/2023-06-09-30/§15-2/ledd/1) om å gi forskrift om kva skriftspråk som skal vere hovudmålet på kvar skole, før 1. august 2026.
+
+> **Vert oppheva** ved forskrift [22 juni 2026 nr. 1213](forskrift/2026-06-22-1213) (i kraft 1 aug 2026).
 
 ### § 23-10. Overgangsregel for krav om å tilby arbeidslivsfag på 8. til 10. trinn
 
