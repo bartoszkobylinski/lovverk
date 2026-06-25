@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-05-22"
 last_change_in_force: null
 last_updated: null
-xml_hash: "b7f34bb6581a2212b016b0bf4337bdb257c9317f68ba70029b61554b75bdd107"
+xml_hash: "2a2cd765ad8ca06eb0240d3e9fbd4d65744851e7e1a40c80a88795e1e0e4c76c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-23T06:31:59.201228+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -33,6 +33,8 @@ Reguleringsfaktoren etter [§ 19-14 første ledd](lov/1997-02-28-19/§19-14/ledd
 ## § 3.
 
 Fra 1. mai 2026 fastsettes satsene for minste pensjonsnivå etter [folketrygdloven § 19-8](lov/1997-02-28-19/§19-8) tredje til sjette ledd slik:Lav sats etter tredje ledd fastsettes til 209 531 kronerOrdinær sats etter fjerde ledd fastsettes til 242 509 kronerHøy sats etter femte ledd fastsettes til 255 191 kronerSærskilt sats etter sjette ledd bokstav a fastsettes til 293 062 kronerSærskilt sats etter sjette ledd bokstav b fastsettes til 397 215 kroner
+
+> **Endres** ved forskrift [23 juni 2026 nr. 1239](forskrift/2026-06-23-1239) (i kraft 1 sept 2026 med virkning fra 1 mai 2026 og 1 jan 2027, se [endringsforskriftens del II](forskrift/2026-06-23-1239/kapII)).
 
 ## § 4.
 
