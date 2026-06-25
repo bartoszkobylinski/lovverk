@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-01-01"
 last_change_in_force: "2025-07-01"
 last_updated: null
-xml_hash: "6e2c5e353267f230ae95323fea06f0232e48cfa7e9d3758fbf24d0ca8518ce17"
+xml_hash: "0256e4fd69948f2417bdc3e6cf8f5d2a77b3590e268d96d8f9c7ae7daad4e1d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -73,7 +73,7 @@ Ugyldig takstkombinasjon: Alle333M43*B. Tillegg for behandling i pasientens hjem
 Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B1174M60B1Reisetillegg per kilometer
 Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B1011M6, M7Rep.
 
-> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025).
+> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
 
 ### Merknader:
 
@@ -99,7 +99,7 @@ Beregningsgrunnlaget for reisetillegget er antall tilbakelagte kilometer. Ved be
 
 Veilengden regnes fra logopedens eller audiopedagogens kontor (bolig), men skjer utreisen fra et midlertidig oppholdssted, regnes den fra dette hvis reisen derfra til pasienten er kortere.
 
-> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025).
+> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
 
 ## Kapittel 3. Ikrafttredelse
 
