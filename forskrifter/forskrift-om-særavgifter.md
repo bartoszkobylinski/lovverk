@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2002-01-01"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-06-23"
 last_updated: "2023-08-03"
-xml_hash: "cb758b7b3de658b2125c1d23afda6117404d5ef4deb8377f555046872ae3efb2"
+xml_hash: "eb8be8e1687fc27faf3fe96354a6ece589b9be45278f2fbff22541f9f11bf6a2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-14T06:44:22.849555+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -464,17 +464,19 @@ Det gis fritak for avgift ved utførsel dersom det utføres over 4 000 liter mi
 
 ### § 3-6-6. Fritak for bruk som gir kvotepliktig utslipp
 
-(1) Det gis refusjon for innbetalt CO2-avgift på mineralolje, bensin, naturgass og LPG som leveres til bruk som gir kvotepliktig utslipp etter [klimakvoteloven](lov/2004-12-17-99) og som ikke er omfattet av innsatsfordelingsforordningen. Refusjonsordningen omfatter ikke innenriks kvotepliktig luftfart.
+(1) Det gis refusjon for innbetalt CO2-avgift på mineralolje, bensin, naturgass og LPG som leveres til bruk som gir kvotepliktig utslipp etter [klimakvoteloven](lov/2004-12-17-99) og som ikke er omfattet av innsatsfordelingsforordningen. For innenriks kvotepliktig sjøfart og innenriks kvotepliktig luftfart gjelder henholdsvis [kap. 4-3](forskrift/2001-12-11-1451/KAPITTEL_4-3) og [kap. 4-6](forskrift/2001-12-11-1451/KAPITTEL_4-6).
 
-(2) Det er et vilkår for fritak at det angis beregnede eller faktiske kvotepliktige utslipp i henhold til godkjent overvåkingsplan, jf. [klimakvoteforskriften](forskrift/2004-12-23-1851).
+(2) For perioden 1. januar 2026 til og med 28. februar 2026 gis det refusjon for innbetalt CO2-avgift på mineralolje, bensin, naturgass og LPG levert til bruk som gir kvotepliktig utslipp etter [klimakvoteloven](lov/2004-12-17-99) og som ikke er omfattet av innsatsfordelingsforordningen.
 
-(3) Virksomheten skal årlig innen 18. mai oversende verifisert utslippsrapport med kvittering fra klimakvotemyndigheten for innsendt rapport, til skattekontoret. Fritaket gis med forbehold om at klimakvotemyndigheten ikke fatter vedtak om endringer i utslippstallet.
+(3) Det er et vilkår for fritak at det angis beregnede eller faktiske kvotepliktige utslipp i henhold til godkjent overvåkingsplan, jf. [klimakvoteforskriften](forskrift/2004-12-23-1851).
 
-(4) Dersom virksomheten som er kvotepliktig etter klimakvoteloven ikke selv eier levert naturgass eller LPG, kan eieren søke om refusjon. Vilkårene i andre og tredje ledd gjelder tilsvarende. Virksomheten som fikk refundert avgift er ansvarlig for tilbakebetaling av avgift dersom klimakvotemyndigheten fatter vedtak om endringer i utslippstallet. Skattekontoret kan sette ytterligere vilkår for refusjon dersom eier av produktet og den kvotepliktige er to ulike virksomheter.
+(4) Virksomheten skal årlig innen 18. mai oversende verifisert utslippsrapport med kvittering fra klimakvotemyndigheten for innsendt rapport, til skattekontoret. Fritaket gis med forbehold om at klimakvotemyndigheten ikke fatter vedtak om endringer i utslippstallet.
 
-(5) Søknad om refusjon sendes månedlig til skattekontoret.
+(5) Dersom virksomheten som er kvotepliktig etter klimakvoteloven ikke selv eier levert naturgass eller LPG, kan eieren søke om refusjon. Vilkårene i andre og tredje ledd gjelder tilsvarende. Virksomheten som fikk refundert avgift er ansvarlig for tilbakebetaling av avgift dersom klimakvotemyndigheten fatter vedtak om endringer i utslippstallet. Skattekontoret kan sette ytterligere vilkår for refusjon dersom eier av produktet og den kvotepliktige er to ulike virksomheter.
 
-> Tilføyd ved [forskrift 25 aug 2008 nr. 945](forskrift/2008-08-25-945) (i kraft 1 sep 2008), endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [7 april 2020 nr. 763](forskrift/2020-04-07-763) (i kraft 1 april 2020), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [12 jan 2024 nr. 63](forskrift/2024-01-12-63) (i kraft 1 jan 2024), [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [3 mars 2026 nr. 321](forskrift/2026-03-03-321) (i kraft 1 mars 2026).
+(6) Søknad om refusjon sendes månedlig til skattekontoret.
+
+> Tilføyd ved [forskrift 25 aug 2008 nr. 945](forskrift/2008-08-25-945) (i kraft 1 sep 2008), endret ved [forskrifter 24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [7 april 2020 nr. 763](forskrift/2020-04-07-763) (i kraft 1 april 2020), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [12 jan 2024 nr. 63](forskrift/2024-01-12-63) (i kraft 1 jan 2024), [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [3 mars 2026 nr. 321](forskrift/2026-03-03-321) (i kraft 1 mars 2026), [23 juni 2026 nr. 1247](forskrift/2026-06-23-1247).
 
 ### § 3-6-7. Redusert sats for anleggsdiesel
 
@@ -1702,7 +1704,9 @@ Avgiftsplikten oppstår når kraft produseres i landbaserte vindkraftverk.
 
 (3) For avgiftsbelagte produkter som er levert fra ikke registrerte virksomheter gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen som skal betales etter Stortingets avgiftsvedtak § 1.
 
-> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026).
+(4) For mineralolje, naturgass og LPG levert til innenriks kvotepliktig sjøfart i perioden fra og med 1. januar 2026 til og med 28. februar 2026 gis det refusjon for differansen mellom innbetalt CO2-avgift og den reduserte satsen som skal betales etter Stortingets avgiftsvedtak § 1.
+
+> Endret ved [forskrifter 13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [27 feb 2009 nr. 246](forskrift/2009-02-27-246) (i kraft 1 mars 2009), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [12 juni 2012 nr. 521](forskrift/2012-06-12-521) (i kraft 1 juli 2012), [24 juni 2014 nr. 844](forskrift/2014-06-24-844) (i kraft 1 juli 2014), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), opphevet ved forskrift [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), tilføyd ved forskrift [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [30 april 2026 nr. 692](forskrift/2026-04-30-692) (i kraft 1 mai 2026), [23 juni 2026 nr. 1247](forskrift/2026-06-23-1247).
 
 ### § 4-3-2. Vilkår for fritak
 
@@ -1814,7 +1818,7 @@ Søknad om refusjon sendes til skattekontoret.
 
 (1) Mineralolje, bensin, naturgass, LPG og smøreolje til utenriks luftfart er fritatt fra CO2-avgift på mineralske produkter, svovelavgift, veibruksavgift på bensin og avgift på smøreolje mv., dersom levering av avgiftsbelagte produkter skjer direkte på luftfartøyets tank. Med utenriks luftfart menes flyvning fra innenlands lufthavn til utenlandsk lufthavn, Svalbard eller Jan Mayen.
 
-(2) Mineralolje, bensin, naturgass og LPG til innenriks kvotepliktig luftfart er fritatt for CO2-avgift på mineralske produkter dersom levering av avgiftsbelagte produkter skjer direkte på luftfartøyets tank.
+(2) Mineralolje, bensin, naturgass og LPG til innenriks kvotepliktig luftfart er fritatt for CO2-avgift på mineralske produkter dersom levering av avgiftsbelagte produkter skjer direkte på luftfartøyets tank. For mineralolje, bensin, naturgass og LPG levert til innenriks kvotepliktig luftfart i perioden fra og med 1. januar 2026 til og med 28. februar 2026 gis det refusjon for innbetalt CO2-avgift.
 
 (3) Luftfartøy som har innenlands lufthavn som første destinasjon er fritatt for veibruksavgift på bensin og avgift på smøreolje mv. dersom levering av avgiftsbelagte produkter skjer direkte på luftfartøyets tank.
 
@@ -1826,7 +1830,7 @@ Søknad om refusjon sendes til skattekontoret.
 
 (7) Ikke-kommersielle privatflyginger skal for mineralolje betale den sats som er fastsatt i Stortingets vedtak om CO2-avgift på mineralske produkter § 1 første ledd for ikke-kvotepliktig innenriks luftfart.
 
-> Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [18 feb 2004 nr. 411](forskrift/2004-02-18-411), [10 des 2004 nr. 1599](forskrift/2004-12-10-1599) (i kraft 1 jan 2005), [13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [19 des 2014 nr. 1804](forskrift/2014-12-19-1804) (i kraft 1 jan 2015), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [29 aug 2018 nr. 1278](forskrift/2018-08-29-1278), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [23 juni 2025 nr. 1192](forskrift/2025-06-23-1192) (i kraft 1 juli 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026), [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [11 mars 2026 nr. 389](forskrift/2026-03-11-389) (i kraft 1 mars 2026).
+> Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [18 feb 2004 nr. 411](forskrift/2004-02-18-411), [10 des 2004 nr. 1599](forskrift/2004-12-10-1599) (i kraft 1 jan 2005), [13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [24 aug 2010 nr. 1212](forskrift/2010-08-24-1212) (i kraft 1 sep 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [19 des 2014 nr. 1804](forskrift/2014-12-19-1804) (i kraft 1 jan 2015), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [29 aug 2018 nr. 1278](forskrift/2018-08-29-1278), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [23 juni 2025 nr. 1192](forskrift/2025-06-23-1192) (i kraft 1 juli 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026), [27 feb 2026 nr. 308](forskrift/2026-02-27-308) (i kraft 1 mars 2026), [11 mars 2026 nr. 389](forskrift/2026-03-11-389) (i kraft 1 mars 2026), [23 juni 2026 nr. 1247](forskrift/2026-06-23-1247).
 
 ### § 4-6-2. Fremgangsmåten for refusjon
 
