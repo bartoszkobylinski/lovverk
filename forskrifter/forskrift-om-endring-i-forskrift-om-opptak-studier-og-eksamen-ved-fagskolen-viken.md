@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-08-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "fdcfbcce222c5e1ac7973d4f474a177fb5fa202037b00b911075d89d24807eba"
+xml_hash: "7f9f1806473dd5b2c92f3f3618f8dce6078999100e9a48643f0c69b2f5b95452"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -132,7 +132,7 @@ Student som har studierett etter [§ 2-1](forskrift/2021-06-14-1978/§2-1), har 
 
 (3) Det foretas en helhetlig vurdering av søkerens samlede kompetanse for å avgjøre om den er likeverdig med det generelle opptaksgrunnlaget for den aktuelle utdanningen. Vurderingen skal knyttes til utdanningen søkeren ønsker opptak til.
 
-(4) Søker må dokumentere tilstrekkelige språkferdigheter til å kunne gjennomføre den aktuelle utdanningen. Krav til språknivå er spesifisert i studieplanen for utdanningen. For søkere med utenlandsk utdanning følger krav til språkkompetanse av § 3-6-1.
+(4) Søker må dokumentere tilstrekkelige språkferdigheter til å kunne gjennomføre den aktuelle utdanningen. Krav til språknivå er spesifisert i studieplanen for utdanningen. For søkere med utenlandsk utdanning følger krav til språkkompetanse av [§ 3-6-1](forskrift/2021-06-14-1978/§3-6-1).
 
 (5) Hvis det er tvil om realkompetansen er tilstrekkelig, kan det gjennomføres opptaksprøve for å gi et bedre vurderingsgrunnlag.
 
