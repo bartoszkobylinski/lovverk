@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-06-20"
 last_change_in_force: "2023-10-01"
 last_updated: "2023-06-15"
-xml_hash: "6df16f7a1beb2c8712ba68ac27cac2da22fa831063fab660d736f04ff04b6238"
+xml_hash: "6beb477283dcb5bc468be15ffef21a63fd5f289f020cf0142513ec46e7c4abf6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-25T07:39:53.488438+00:00"
 status: "current"
 eu_basis:
   - "31993L0013"
@@ -42,7 +42,7 @@ Loven gjelder for Svalbard og Jan Mayen. Departementet kan likevel i forskrift b
 
 ### § 2. Unntak fra lovens virkeområde
 
-Loven gjelder ikke for:avtaler om salg av varer og tjenester fra salgsautomater og automatiserte forretningslokaler,avtaler om salg eller oppføring av fast eiendom og avtaler som gjelder rettigheter i fast eiendom, med unntak av utleie. Som salg av fast eiendom regnes også salg av adkomstdokumenter med tilknyttet leierett eller borett i bolig,avtaler som omfattes av [lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)](lov/2012-05-25-27),avtaler om pakkereiser, jf. [pakkereiseloven § 6](lov/2018-06-15-32/§6),avtaler om persontransporttjenester. Kravene i [§ 16](lov/2014-06-20-27/§16) får likevel anvendelse,avtaler som omfattes av [finansavtaleloven](lov/1999-06-25-46) og [forsikringsavtaleloven](lov/1989-06-16-69),avtaler om salg av varer og tjenester utenom faste forretningslokaler når den samlede kontraktssummen, inkludert frakt- og tilleggskostnader som forbrukeren skal betale, er 300 kr eller mindre,avtaler som er inngått med ekomtilbyder gjennom offentlig tilgjengelige betalingstelefoner for bruk av disse, eller som er inngått for bruk av én enkelt telefon-, Internett- eller telefaksforbindelse opprettet av en forbruker,avtaler om pengespill.avtaler om salg av varer som selges på tvangsauksjon eller på annen måte tvangsmessig i henhold til lov.
+Loven gjelder ikke for:avtaler om salg av varer og tjenester fra salgsautomater og automatiserte forretningslokaler,avtaler om salg eller oppføring av fast eiendom og avtaler som gjelder rettigheter i fast eiendom, med unntak av utleie. Som salg av fast eiendom regnes også salg av adkomstdokumenter med tilknyttet leierett eller borett i bolig,avtaler som omfattes av [lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven)](lov/2012-05-25-27),avtaler om pakkereiser, jf. [pakkereiseloven § 6](lov/2018-06-15-32/§6),avtaler om persontransporttjenester. Kravene i [§ 16](lov/2014-06-20-27/§16) får likevel anvendelse,avtaler som omfattes av [finansavtaleloven](lov/2020-12-18-146) og [forsikringsavtaleloven](lov/1989-06-16-69),avtaler om salg av varer og tjenester utenom faste forretningslokaler når den samlede kontraktssummen, inkludert frakt- og tilleggskostnader som forbrukeren skal betale, er 300 kr eller mindre,avtaler som er inngått med ekomtilbyder gjennom offentlig tilgjengelige betalingstelefoner for bruk av disse, eller som er inngått for bruk av én enkelt telefon-, Internett- eller telefaksforbindelse opprettet av en forbruker,avtaler om pengespill.avtaler om salg av varer som selges på tvangsauksjon eller på annen måte tvangsmessig i henhold til lov.
 
 > Endret ved lover [15 juni 2018 nr. 32](lov/2018-06-15-32) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885)), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), [16 juni 2023 nr. 39](lov/2023-06-16-39), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)). **Endres** ved lov [19 juni 2026 nr. 34](lov/2026-06-19-34) (i kraft fra den tid Kongen bestemmer).
 
