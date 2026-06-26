@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-06-22"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "0a89fc6e1cb625c4e1055f1858d460554b66d4472c55a592ea0472b652f6cd91"
+xml_hash: "4c8582cecb2d95e3f161fffa4546deb15a36c5adcd55e222f37d39d71b7c2d40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,7 +78,7 @@ Støttegiveren skal registrere opplysninger om tildelt støtte i Registeret for 
 
 Departementet kan gi forskrift om omfanget av og innholdet i registreringsplikten og på hvilket tidspunkt registreringsplikten inntrer og om plikten til å registrere opplysninger om bagatellmessig støtte.
 
-> **Endres** ved lov [23 juni 2026 nr. 76](lov/2026-06-23-76) (i kraft fra den tid Kongen bestemmer).
+> **Endres** ved lov [23 juni 2026 nr. 76](lov/2026-06-23-76) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1323](forskrift/2026-06-23-1323)).
 
 ## § 8. Opplysnings- og oppbevaringsplikt
 
