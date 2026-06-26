@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2025-12-03"
-xml_hash: "bf21c9d023ab7e9967570557a902880b34102bf92210412327cb47be2ed6f2e3"
+xml_hash: "5cac84b728c2536b7bc6f9fdaa6f1c7e61c1071a0ea749741e366aada3b5d973"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -848,7 +848,7 @@ Universiteter og høyskoler skal gjøre skikkethetsvurdering etter [universitets
 
 Institusjonene skal også gjøre skikkethetsvurderinger i master- og videreutdanninger som fører til en spesialisering, og som bygger på én eller flere av utdanningene som er nevnt i første ledd.
 
-> Endret ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026, endringene i nr. 39 og 40 gjelder for utdanninger som starter opp etter 1. august 2026).
+> Endret ved forskrift [12 des 2025 nr. 2609](forskrift/2025-12-12-2609) (i kraft 1 jan 2026, endringene i nr. 39 og 40 gjelder for utdanninger som starter opp etter 1. august 2026). **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### § 7-2. Formålet med skikkethetsvurdering
 
@@ -1038,6 +1038,10 @@ Overtredelsesgebyr etter [universitets- og høyskoleloven §§ 3-10](lov/2024-03
 
 Private høyskoler som mottar statstilskudd, og som ikke oppfyller kravet til institusjonsakkreditering etter [universitets- og høyskoleloven § 6-1 første ledd](lov/2024-03-08-9/§6-1/ledd/1), må oppfylle kravet til institusjonsakkreditering innen 31. desember 2030.
 
+### § 12-3. Studenters rett til å få dekket utgifter til advokat
+
+> **Tilføyes** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+
 ## Kapittel 13. Ikrafttredelse, overgangsregler og endringer i andre forskrifter
 
 ### § 13-1. Ikrafttredelse
@@ -1075,6 +1079,10 @@ Institusjoner som er akkreditert som høyskole, vitenskapelig høyskole etter de
 Tilsyn med akkreditering som NOKUT har påbegynt før 1. januar 2025, behandles etter tidligere regler med mindre det er til fordel for institusjonen å legge nye regler til grunn.
 
 > Tilføyd ved forskrift [9 des 2024 nr. 3006](forskrift/2024-12-09-3006) (i kraft 1 jan 2025).
+
+### § 13-7. Overgangsregler for kapittel 12 Forskjellige regler
+
+> **Tilføyes** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ## Vedlegg I. Institusjonenes rett til å gi grader og yrkesutdanninger med beskyttet tittel
 
@@ -1206,6 +1214,8 @@ Sámi allaskuvla / Samisk høgskole kan gi følgende yrkesutdanninger:grunnskole
 
 Forsvarets høgskole kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelorbachelor, utvidet, i militære studier med fordypning i sjømilitær ledelse og navigasjonmaster, erfaringsbasert.
 
+> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
+
 ### Politihøgskolen
 
 Politihøgskolen kan tildele følgende grader som gir rett til tilsvarende tittel:bachelormastermaster, erfaringsbasert.
@@ -1215,6 +1225,8 @@ Politihøgskolen kan tildele følgende grader som gir rett til tilsvarende titte
 ### Kriminalomsorgens høgskole og utdanningssenter
 
 Kriminalomsorgens høgskole og utdanningssenter (KRUS) kan tildele følgende grader som gir rett til tilsvarende tittel:høgskolekandidatbachelor.
+
+> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Private institusjoner:
 
@@ -1253,6 +1265,8 @@ Fjellhaug Internasjonale Høgskole kan tildele følgende grad som gir rett til t
 ### Høyskolen for ledelse og teologi
 
 Høyskolen for ledelse og teologi kan tildele følgende grad som gir rett til tilsvarende tittel:bachelor.
+
+> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ### Høyskolen Kristiania
 
@@ -1315,6 +1329,8 @@ Oslo Nye Høyskole kan tildele følgende grader som gir rett til tilsvarende tit
 ### Steinerhøyskolen
 
 Steinerhøyskolen kan tildele følgende grad som gir rett til tilsvarende tittel:bachelormastermaster, integrert – fellesgrad med OsloMet-storbyuniversitetet.
+
+> **Endres** ved forskrift [19 juni 2026 nr. 1251](forskrift/2026-06-19-1251) (i kraft 1 aug 2026).
 
 ## Vedlegg II
 
