@@ -1,6 +1,21 @@
 # forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk — Change history
 
-_2 events; doc_id `sf-20251218-2659`._
+_5 events; doc_id `sf-20260624-1260`._
+
+## 2026-06-26 — Added to corpus
+Lines: +31 -0.
+Subject: `add(forskrift): forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk`
+Commit: `82c26ed`.
+
+## 2026-05-04 — Content updated
+Lines: +0 -31.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251218-2659.md` → `"forskrifter/forskrift-om-endring-i-forskrift-om-omsetningsavgift-p\303\245-jordbruksvarer-og-om-overproduksjonsavgift-p\303\245-mj\303\270lk.md"`.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260623-1256",
+  "events": [
+    {
+      "commit": "c6d41fb",
+      "date": "2026-06-26",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "add(forskrift): endr-i-produktforskriften-3",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-produktforskriften-3"
+}

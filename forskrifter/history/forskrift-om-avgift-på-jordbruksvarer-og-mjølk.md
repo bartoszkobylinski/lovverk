@@ -1,6 +1,16 @@
 # forskrift-om-avgift-på-jordbruksvarer-og-mjølk — Change history
 
-_2 events; doc_id `sf-19990629-0763`._
+_4 events; doc_id `sf-19990629-0763`._
+
+## 2026-06-26 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-avgift-på-jordbruksvarer-og-mjølk`
+Commit: `879f5de`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19990629-0763.md` → `"forskrifter/forskrift-om-avgift-p\303\245-jordbruksvarer-og-mj\303\270lk.md"`.

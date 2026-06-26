@@ -8589,15 +8589,15 @@
     "nl-20220304-007": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-06-24T07:36:55.746362Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "lover/støtteprosessloven.md",
       "slug": "støtteprosessloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven)",
-      "total_changes": 5,
-      "xml_hash": "0a89fc6e1cb625c4e1055f1858d460554b66d4472c55a592ea0472b652f6cd91"
+      "total_changes": 6,
+      "xml_hash": "4c8582cecb2d95e3f161fffa4546deb15a36c5adcd55e222f37d39d71b7c2d40"
     },
     "nl-20220311-008": {
       "doc_type": "lov",
@@ -10288,15 +10288,15 @@
       "eu_basis": [
         "32024L1619"
       ],
-      "last_changed": "2026-06-23",
-      "last_seen": "2026-06-23T07:44:24.925655Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "lover/endringslov-til-finansforetaksloven-mv-3.md",
       "slug": "endringslov-til-finansforetaksloven-mv-3",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
-      "total_changes": 2,
-      "xml_hash": "abfa4ef5e990f755aa7e31d0270a84fd5db7d4307b2bef3382010d4d54b9ccd1"
+      "total_changes": 3,
+      "xml_hash": "82cd7ce5d85c79160c0c514f1a763183a4963a5b29e7810b06f7fa83147edc53"
     },
     "nl-20260619-041": {
       "doc_type": "lov",
@@ -10700,28 +10700,15 @@
     "nl-20260623-076": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-06-24T07:36:55.746362Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "lover/endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte.md",
       "slug": "endringslov-til-lov-4-mars-2022-nr-7-om-nasjonale-saksbehandlingsregler-i-saker-om-offentlig-støtte",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i støtteprosessloven (registreringsplikt)",
-      "total_changes": 1,
-      "xml_hash": "a87eedba4d1326b54283595db463476d08d981e70bf62ff2c86432fcd3206644"
-    },
-    "nl-20260623-077": {
-      "doc_type": "lov",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-06-24T07:36:55.746362Z",
-      "markdown_path": "lover/endringslov-til-lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs.md",
-      "slug": "endringslov-til-lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs",
-      "source_dataset": "gjeldende-lover",
-      "status": "removed",
-      "title": "Lov om endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
-      "total_changes": null,
-      "xml_hash": "296476b47383216d0f03f1adc97fd4f80e8affb4c950390d2d103ba4ecffb26a"
+      "total_changes": 2,
+      "xml_hash": "cbf8c9be97a39f0e3aa1a01cd3a9ee0aa91fc1ef59f26db50d8a47235173f5ce"
     },
     "sf-18960626-9805": {
       "doc_type": "forskrift",
@@ -19150,15 +19137,15 @@
     "sf-19990629-0763": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/forskrift-om-avgift-på-jordbruksvarer-og-mjølk.md",
       "slug": "forskrift-om-avgift-på-jordbruksvarer-og-mjølk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk",
-      "total_changes": null,
-      "xml_hash": "17853f525b9f09de8c6e703114b3de810c007cd76f46b5da1b33ece80a04d3a9"
+      "total_changes": 4,
+      "xml_hash": "c1d7e9adba534a5d88b8a0381c2f558dc25afd957f00fd830581b26ad974b6c8"
     },
     "sf-19990630-1499": {
       "doc_type": "forskrift",
@@ -23310,15 +23297,15 @@
     "sf-20040601-0922": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/produktforskriften.md",
       "slug": "produktforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)",
-      "total_changes": 5,
-      "xml_hash": "6a6013e987d823aa04e9116b810b1a8ad8023e5146e7f7ebefe41b7a330981f8"
+      "total_changes": 6,
+      "xml_hash": "c53eb8e368c47324cf806cc1de8b59e31c7895d0a12dc26336794075499db8d4"
     },
     "sf-20040601-0930": {
       "doc_type": "forskrift",
@@ -26079,15 +26066,15 @@
     "sf-20070628-0814": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-01",
-      "last_seen": "2026-06-01T09:23:05.781615Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/blåreseptforskriften.md",
       "slug": "blåreseptforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)",
-      "total_changes": 6,
-      "xml_hash": "085ddd3aafc2ea292d6af0489c9aa7c94062c8ffe01abb0995196356af766900"
+      "total_changes": 7,
+      "xml_hash": "d455b2c5aac7e79deea55a937e1d040d2c496a5d74ec018a7a870a785f12ef87"
     },
     "sf-20070629-0742": {
       "doc_type": "forskrift",
@@ -28640,15 +28627,15 @@
     "sf-20091218-1839": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-24",
-      "last_seen": "2026-06-24T07:36:55.746362Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/legemiddelforskriften.md",
       "slug": "legemiddelforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om legemidler til mennesker (legemiddelforskriften)",
-      "total_changes": 5,
-      "xml_hash": "cbc7233add425e10bd32c973795ad5b7b1217af296cf96208a64067b51316f21"
+      "total_changes": 6,
+      "xml_hash": "24e65ceda4cc5fdf93d3a95e3f2c06db91d05b5dc5f3c84c3de2feff205bebd8"
     },
     "sf-20091221-1738": {
       "doc_type": "forskrift",
@@ -32579,15 +32566,15 @@
     "sf-20131004-1185": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
       "slug": "forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsvars- og sikkerhetsanskaffelser",
-      "total_changes": null,
-      "xml_hash": "3394b41d6db47c8ef7a67731756fae858c82affeb61627bea238ce03d4725485"
+      "total_changes": 4,
+      "xml_hash": "27e9560f1abff7089ba3a248e2892a2ea608e9b98234820c45690f0541c04bb6"
     },
     "sf-20131008-1212": {
       "doc_type": "forskrift",
@@ -33203,15 +33190,15 @@
     "sf-20140613-0724": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/forskrift-om-livsoppholdssatser.md",
       "slug": "forskrift-om-livsoppholdssatser",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om livsoppholdssatser ved utleggstrekk og gjeldsordning",
-      "total_changes": null,
-      "xml_hash": "14c8aa07ae8738e56cd01ce953603aa66a3e0c14ae9d03d80adfc7d0b35607e4"
+      "total_changes": 4,
+      "xml_hash": "48bd1be8326b1333f05fe5bcb639d9087cb8edda642a07419f01b20aa015750a"
     },
     "sf-20140613-0725": {
       "doc_type": "forskrift",
@@ -33541,15 +33528,15 @@
     "sf-20140715-0980": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder.md",
       "slug": "forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om rapportering, registrering og merking av luftfartshinder",
-      "total_changes": null,
-      "xml_hash": "8ee2945e991021ac376d8e862efe3883c66e041342d0fb3246ec1b5879620966"
+      "total_changes": 4,
+      "xml_hash": "63d0aa25ff5be377ed5399a79b052d060dae9c4ac4293bbccfd815f8dcec5f9f"
     },
     "sf-20140811-1074": {
       "doc_type": "forskrift",
@@ -45722,15 +45709,15 @@
     "sf-20220406-0633": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-20",
-      "last_seen": "2026-06-20T07:47:39.444689Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/dyreimportforskriften.md",
       "slug": "dyreimportforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
-      "total_changes": 11,
-      "xml_hash": "fca702f92b95a00aef5b565d17c3cb5178d16c89401ca341da1f7e6ff55e072b"
+      "total_changes": 12,
+      "xml_hash": "f35836583ebc50c397499ab4d15991275b401c2aa6111e320a8f37ca0304977f"
     },
     "sf-20220406-0634": {
       "doc_type": "forskrift",
@@ -49505,15 +49492,15 @@
     "sf-20240628-1392": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
       "markdown_path": "forskrifter/universitets-og-høyskoleforskriften.md",
       "slug": "universitets-og-høyskoleforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift til universitets- og høyskoleloven (universitets- og høyskoleforskriften)",
-      "total_changes": null,
-      "xml_hash": "bf21c9d023ab7e9967570557a902880b34102bf92210412327cb47be2ed6f2e3"
+      "total_changes": 4,
+      "xml_hash": "5cac84b728c2536b7bc6f9fdaa6f1c7e61c1071a0ea749741e366aada3b5d973"
     },
     "sf-20240702-1800": {
       "doc_type": "forskrift",
@@ -51503,19 +51490,6 @@
       "title": "Forskrift om forsøksordning med nettlege i allmennlegetjenesten (kommunal nettlege)",
       "total_changes": null,
       "xml_hash": "c9b7dac8072171bbd16f55a111a8055e35d56593f50756929b7907ff35b36ebd"
-    },
-    "sf-20250623-1281": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
-      "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-brisling-i-2025-2026.md",
-      "slug": "forskrift-om-regulering-av-fisket-etter-brisling-i-2025-2026",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om regulering av fisket etter brisling i 2025–2026",
-      "total_changes": null,
-      "xml_hash": "27a79e9cf59657e331e8526b4a5d899f29179e6ecf872056fefeb7e0dbed07ca"
     },
     "sf-20250624-1285": {
       "doc_type": "forskrift",
@@ -54132,13 +54106,13 @@
     },
     "sf-20260115-0047": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/forskrift-om-forlenget-gyldighet-for-autorisasjonsbevis-for-plantevernmidler.md",
       "slug": "forskrift-om-forlenget-gyldighet-for-autorisasjonsbevis-for-plantevernmidler",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om forlenget gyldighet for autorisasjonsbevis for plantevernmidler",
       "total_changes": null,
       "xml_hash": "afd7d12736a1bf2e55bf52375f6342983030820d6573cd0ac127966a767aa324"
@@ -55573,6 +55547,19 @@
       "total_changes": 1,
       "xml_hash": "676fb08304770b17a8fb3ff507b71449978549df9bee73a4a93c646754de4283"
     },
+    "sf-20260619-1251": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/endr-i-universitets-og-høyskoleforskriften.md",
+      "slug": "endr-i-universitets-og-høyskoleforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift til universitets- og høyskoleloven",
+      "total_changes": 5,
+      "xml_hash": "5cef6ff9133c5b2c74681e452d5772328d142a6affdb35fd044438314d68d65f"
+    },
     "sf-20260621-1155": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -55598,6 +55585,19 @@
       "title": "Forskrift om endring i forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos psykolog",
       "total_changes": 5,
       "xml_hash": "c7edac9b096f57842464fc5317bbf7cab20d0bee69ec829a025a190a055ab683"
+    },
+    "sf-20260621-1252": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/endr-i-legemiddelforskriften-og-blåreseptforskriften.md",
+      "slug": "endr-i-legemiddelforskriften-og-blåreseptforskriften",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i legemiddelforskriften og blåreseptforskriften",
+      "total_changes": 1,
+      "xml_hash": "34b72131715fabc902d1003458fbbc0f24dc15a9597045325218b665be6f90f2"
     },
     "sf-20260622-1158": {
       "doc_type": "forskrift",
@@ -55858,8 +55858,73 @@
       "title": "Forskrift om cybersikkerhetssertifisering",
       "total_changes": 1,
       "xml_hash": "956e49872b076e3f2fb61a0631d5308cd2745ca619c58a69598156ce1280bd4e"
+    },
+    "sf-20260623-1254": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser.md",
+      "slug": "forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift 4. oktober 2013 nr. 1185 om forsvars- og sikkerhetsanskaffelser (FOSA)",
+      "total_changes": 1,
+      "xml_hash": "0713b83bad60641d98990ce3d9aa07defe247dbf8140512ed8bad06ea8d4cb35"
+    },
+    "sf-20260623-1255": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-rapportering-registrering-og-merking-av-luftfartshinder",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om rapportering, registrering og merking av luftfartshinder",
+      "total_changes": 5,
+      "xml_hash": "eb041930e4272236d9703e35fa0cd9ff6fd78254f260b4fbb28983bdd996524e"
+    },
+    "sf-20260623-1256": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/endr-i-produktforskriften-3.md",
+      "slug": "endr-i-produktforskriften-3",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter kjemikalier og andre produkter (revisjon av kvikksølvforordningen)",
+      "total_changes": 1,
+      "xml_hash": "9aab9076c388fba3faa689d5ae5fbb0e00da7dca641fe8551ed619262829af3f"
+    },
+    "sf-20260624-1259": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-livsoppholdssatser-ved-utleggstrekk-og-gjeldsordning.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-livsoppholdssatser-ved-utleggstrekk-og-gjeldsordning",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om livsoppholdssatser ved utleggstrekk og gjeldsordning",
+      "total_changes": 1,
+      "xml_hash": "d4784cfa424ce1bec181b0db2b36a5b7f54db7b70de4107160bfbf66d9c0bd3e"
+    },
+    "sf-20260624-1260": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-06-26",
+      "last_seen": "2026-06-26T07:48:15.016944Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk",
+      "total_changes": 5,
+      "xml_hash": "daf6bd8b5d1207bebc39e4ff7c39aee1395014cf37bc9ffb8d1dec993795259a"
     }
   },
-  "generated_at": "2026-06-25T07:39:53.488438Z",
+  "generated_at": "2026-06-26T07:48:15.016944Z",
   "version": 1
 }

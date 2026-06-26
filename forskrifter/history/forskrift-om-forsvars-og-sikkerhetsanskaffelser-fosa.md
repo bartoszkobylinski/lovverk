@@ -1,6 +1,16 @@
 # forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa — Change history
 
-_2 events; doc_id `sf-20131004-1185`._
+_4 events; doc_id `sf-20131004-1185`._
+
+## 2026-06-26 — Content updated
+Lines: +11 -3.
+Subject: `update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa`
+Commit: `8bbc5ea`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20131004-1185.md` → `forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md`.

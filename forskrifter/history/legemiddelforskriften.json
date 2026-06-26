@@ -2,6 +2,16 @@
   "doc_id": "sf-20091218-1839",
   "events": [
     {
+      "commit": "c5fc5bf",
+      "date": "2026-06-26",
+      "from_path": null,
+      "lines_added": 16,
+      "lines_removed": 16,
+      "subject": "update(forskrift): legemiddelforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4692bb2",
       "date": "2026-06-24",
       "from_path": null,

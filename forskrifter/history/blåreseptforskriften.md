@@ -1,6 +1,11 @@
 # blåreseptforskriften — Change history
 
-_6 events; doc_id `sf-20070628-0814`._
+_7 events; doc_id `sf-20070628-0814`._
+
+## 2026-06-26 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): blåreseptforskriften`
+Commit: `6702985`.
 
 ## 2026-06-01 — Content updated
 Lines: +5 -5.
