@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "abfa4ef5e990f755aa7e31d0270a84fd5db7d4307b2bef3382010d4d54b9ccd1"
+xml_hash: "82cd7ce5d85c79160c0c514f1a763183a4963a5b29e7810b06f7fa83147edc53"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis:
   - "32024L1619"
