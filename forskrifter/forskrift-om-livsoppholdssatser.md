@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-07-01"
 last_change_in_force: "2025-07-01"
 last_updated: "2015-09-01"
-xml_hash: "14c8aa07ae8738e56cd01ce953603aa66a3e0c14ae9d03d80adfc7d0b35607e4"
+xml_hash: "48bd1be8326b1333f05fe5bcb639d9087cb8edda642a07419f01b20aa015750a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,7 +38,7 @@ Satsene skal dekke alminnelige forbruksutgifter, herunder utgifter til kollektiv
 
 Som boligutgifter regnes husleie, betjening av boligtilknyttet gjeld, boligforsikring, kommunale avgifter, festeavgift, nødvendig vedlikehold, felleskostnader i boligsammenslutninger og andre nødvendige utgifter som gjelder boligen. Utgifter til elektrisitet, oppvarming og innboforsikring anses ikke som boligutgifter.
 
-> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025). **Endres** ved forskrift [24 juni 2026 nr. 1259](forskrift/2026-06-24-1259) (i kraft 1 juli 2026).
 
 ## § 4. Tillegg for underhold av barn
 
@@ -48,7 +48,7 @@ Barnetillegget skal dekke alminnelige forbruksutgifter, men ikke barnets andel a
 
 Det gjøres et fradrag i tillegget på 20 prosent fra og med person nummer fire i husstanden. Fradraget skal gjøres i tillegget for de yngste barna.
 
-> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [9 juni 2023 nr. 805](forskrift/2023-06-09-805) (i kraft 1 juli 2023), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [9 juni 2023 nr. 805](forskrift/2023-06-09-805) (i kraft 1 juli 2023), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025). **Endres** ved forskrift [24 juni 2026 nr. 1259](forskrift/2026-06-24-1259) (i kraft 1 juli 2026).
 
 ## § 5. Tillegg for samvær med barn
 
@@ -60,7 +60,7 @@ Det gjøres et fradrag i tillegget på 20 prosent fra og med barn nummer tre som
 
 Tillegg for samvær med barn gjelder så lenge foreldrene har underholdsplikt etter [barneloven § 68](lov/1981-04-08-7/§68).
 
-> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025).
+> Endret ved [forskrifter 28 juni 2017 nr. 1057](forskrift/2017-06-28-1057) (i kraft 1 juli 2017), [27 juni 2018 nr. 1056](forskrift/2018-06-27-1056) (i kraft 1 juli 2018), [24 juni 2019 nr. 908](forskrift/2019-06-24-908) (i kraft 1 juli 2019), [30 juni 2020 nr. 1451](forskrift/2020-06-30-1451) (i kraft 1 juli 2020), [28 juni 2021 nr. 2264](forskrift/2021-06-28-2264) (i kraft 1 juli 2021), [28 juni 2022 nr. 1232](forskrift/2022-06-28-1232) (i kraft 1 juli 2022), [27 juni 2023 nr. 1135](forskrift/2023-06-27-1135) (i kraft 1 juli 2023), [18 juni 2024 nr. 1185](forskrift/2024-06-18-1185) (i kraft 1 juli 2024), [24 juni 2025 nr. 1201](forskrift/2025-06-24-1201) (i kraft 1 juli 2025). **Endres** ved forskrift [24 juni 2026 nr. 1259](forskrift/2026-06-24-1259) (i kraft 1 juli 2026).
 
 ## § 6. Justering av satsene
 
