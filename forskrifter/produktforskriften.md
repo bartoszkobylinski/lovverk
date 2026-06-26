@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-07-01"
 last_change_in_force: "2026-03-23"
 last_updated: "2022-11-14"
-xml_hash: "6a6013e987d823aa04e9116b810b1a8ad8023e5146e7f7ebefe41b7a330981f8"
+xml_hash: "c53eb8e368c47324cf806cc1de8b59e31c7895d0a12dc26336794075499db8d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,7 +82,7 @@ Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvf
 
 Første ledd gjelder ikke for Svalbard, Jan Mayen eller bilandene.
 
-> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026).
+> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026). **Endres** ved forskrift [23 juni 2026 nr. 1256](forskrift/2026-06-23-1256) (i kraft 1 juli 2026).
 
 ### § 2-5. Oktylfenol
 
