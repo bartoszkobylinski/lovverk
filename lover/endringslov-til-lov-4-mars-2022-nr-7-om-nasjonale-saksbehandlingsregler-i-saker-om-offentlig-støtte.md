@@ -8,14 +8,14 @@ short_title: "Endringslov til lov 4. mars 2022 nr. 7 om nasjonale saksbehandling
 language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "a87eedba4d1326b54283595db463476d08d981e70bf62ff2c86432fcd3206644"
+xml_hash: "cbf8c9be97a39f0e3aa1a01cd3a9ee0aa91fc1ef59f26db50d8a47235173f5ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,5 +32,5 @@ Departementet kan gi forskrift om at støttegiveren skal registrere opplysninger
 
 ## II
 
-1. Loven gjelder fra den tiden Kongen bestemmer.
+1. Loven gjelder fra den tiden1 Kongen bestemmer.
 2. Departementet kan gi nærmere overgangsbestemmelser.
