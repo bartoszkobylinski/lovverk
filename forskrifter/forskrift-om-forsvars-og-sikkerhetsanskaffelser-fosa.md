@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-01-01"
 last_change_in_force: "2026-04-21"
 last_updated: "2022-03-24"
-xml_hash: "3394b41d6db47c8ef7a67731756fae858c82affeb61627bea238ce03d4725485"
+xml_hash: "27e9560f1abff7089ba3a248e2892a2ea608e9b98234820c45690f0541c04bb6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,6 +59,8 @@ Denne forskrift kommer til anvendelse for oppdragsgivere som:er offentlig myndig
 (2) Forskriftens del I og del II gjelder for kontrakter hvor den anslåtte verdi overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2).
 
 (3) Kontrakter som gjelder uprioriterte tjenester, jf. vedlegg 6, følger reglene i del I selv om den anslåtte verdi overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2). Dersom anskaffelsen overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2) gjelder også [§ 8-3](forskrift/2013-10-04-1185/§8-3) og [§ 9-5](forskrift/2013-10-04-1185/§9-5). Tilsvarende unntak gjelder for kontrakter om utførelse av opptrenings- og rehabiliteringstjenester som ytes utenfor sykehus og som omfattes av de regionale helseforetakenes ansvar for spesialisthelsetjenester etter [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. [§ 2-1a](lov/1999-07-02-61/§2-1a), selv om tjenesten ikke leveres av en ideell organisasjon.
+
+> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 2-2. Terskelverdier og CPV-koder
 
@@ -180,6 +182,8 @@ Oppdragsgiver kan kjøpe varer, tjenester og bygge- og anleggsarbeid fra eller g
 
 (2) Protokollen skal beskrive alle vesentlige forhold og viktige beslutninger gjennom hele anskaffelsesprosessen. Protokollen skal minst omfatte opplysningene som fremgår av forskriftens vedlegg 3 eller 4.
 
+> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+
 ### § 3-12. Skatteattest
 
 (1) Oppdragsgiver skal for anskaffelser som overstiger 100 000 kroner eksl. mva. kreve at samtlige norske leverandører som leverer tilbud fremlegger skatteattest for merverdiavgift og skatteattest for skatt.
@@ -189,6 +193,8 @@ Oppdragsgiver kan kjøpe varer, tjenester og bygge- og anleggsarbeid fra eller g
 (3) Skatteattestene skal ikke være eldre enn seks måneder regnet fra fristen i annet ledd.
 
 (4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget, som overstiger en verdi på 100 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse, skal bæres av entreprenøren.
+
+> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 3-13. (Opphevet)
 
@@ -459,6 +465,8 @@ Oppdragsgiver kan kreve at leverandøren skal opplyse om:hvilken del eller deler
 (3) Skatteattestene skal ikke være eldre enn seks måneder regnet fra fristen i annet ledd.
 
 (4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget som overstiger en verdi på 100 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse skal bæres av entreprenøren.
+
+> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 8-18. (Opphevet)
 
@@ -865,7 +873,7 @@ og DA04
 
 For å lese vedlegg 3 se her: [](static/SF/sf-20131004-1185-v3-01-02.doc)
 
-> Endret ved [forskrift 19 mars 2014 nr. 298](forskrift/2014-03-19-298).
+> Endret ved [forskrift 19 mars 2014 nr. 298](forskrift/2014-03-19-298). **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ## Vedlegg 4. Protokoll for forsvars- og sikkerhetsanskaffelser som overstiger 5 millioner kroner ekskl. mva.
 
