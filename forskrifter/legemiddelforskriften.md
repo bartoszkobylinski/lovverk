@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-12"
 last_change_in_force: "2026-05-01"
 last_updated: "2024-10-21"
-xml_hash: "cbc7233add425e10bd32c973795ad5b7b1217af296cf96208a64067b51316f21"
+xml_hash: "24e65ceda4cc5fdf93d3a95e3f2c06db91d05b5dc5f3c84c3de2feff205bebd8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1555,13 +1555,13 @@ Reklame for homøopatiske legemidler som er registrert i henhold til [§ 3-21](f
 
 ## Kapittel 14. Stønad etter folketrygdloven § 5-14
 
-> Hele [kapittel 14](forskrift/2009-12-18-1839/kap14) gitt på nytt ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018).
+> Hele [kapittel 14](forskrift/2009-12-18-1839/kap14) gitt på nytt ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-1. Finansiering av legemidler over folketrygden
 
 Stønad til dekning av utgifter til legemidler etter [folketrygdloven § 5-14](lov/1997-02-28-19/§5-14) ytes etter reglene i dette kapitlet og forskrift om stønad til viktige legemidler mv. (blåreseptforskriften).
 
-> Endret ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018).
+> Endret ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-2. Metodevarsling
 
@@ -1569,7 +1569,7 @@ Direktoratet for medisinske produkter skal utarbeide et varsel om nye legemidler
 
 Direktoratet for medisinske produkter skal publisere metodevarsel, som skal inneholde en kort beskrivelse av den nye metoden, status for dokumentasjon og godkjenning, aktuell pasientgruppe og gjeldende behandlingstilbud.
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-3. Metodevurdering
 
@@ -1581,7 +1581,7 @@ Ressursbruk inkluderer gjennomsnittlig legemiddelkostnad og øvrig ressursbruk i
 
 Alvorlighet skal måles ved hvor mange gode leveår pasienter i den aktuelle gruppen i gjennomsnitt taper ved fravær av det tiltaket som vurderes.
 
-> Endret ved forskrifter [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [17 jan 2025 nr. 61](forskrift/2025-01-17-61), [24 juni 2025 nr. 1414](forskrift/2025-06-24-1414) (i kraft 12 juli 2025), [23 mars 2026 nr. 471](forskrift/2026-03-23-471).
+> Endret ved forskrifter [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [17 jan 2025 nr. 61](forskrift/2025-01-17-61), [24 juni 2025 nr. 1414](forskrift/2025-06-24-1414) (i kraft 12 juli 2025), [23 mars 2026 nr. 471](forskrift/2026-03-23-471). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-3a. Gjennomføring av forordninger om medisinske metodevurderinger
 
@@ -1599,7 +1599,7 @@ Forordning [(EU) 2025/117](eu/32025r0117) om prosedyrene for felles vitenskapeli
 
 Forordning [(EU) 2025/2086](eu/32025r2086) om prosedyrene for felles kliniske vurderinger for medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II kapittel XIII](avtale/avt-1992-05-02-1-v2/kapXIII) nr. 23f, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [23 mars 2026 nr. 471](forskrift/2026-03-23-471), endret ved forskrifter [27 mars 2026 nr. 510](forskrift/2026-03-27-510), [28 april 2026 nr. 736](forskrift/2026-04-28-736) (i kraft 1 mai 2026).
+> Tilføyd ved forskrift [23 mars 2026 nr. 471](forskrift/2026-03-23-471), endret ved forskrifter [27 mars 2026 nr. 510](forskrift/2026-03-27-510), [28 april 2026 nr. 736](forskrift/2026-04-28-736) (i kraft 1 mai 2026). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-4. Innhenting av opplysninger fra legemidlets rettighetshaver
 
@@ -1615,7 +1615,7 @@ I særlige tilfeller kan Direktoratet for medisinske produkter gjøre en metodev
 
 Direktoratet for medisinske produkter fastsetter nærmere retningslinjer for gjennomføring av bestemmelsen.
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-5. Kriterier for forhåndsgodkjent refusjon
 
@@ -1627,7 +1627,7 @@ Et legemiddel som ikke tilfredsstiller kravet etter annet ledd kan likevel i sæ
 
 Beslutning baseres på en metodevurdering, jf. [§ 14-3](forskrift/2009-12-18-1839/§14-3). Er det gjennomført en anskaffelse i medhold av [anskaffelsesloven](lov/2016-06-17-73) som omfatter det aktuelle legemidlet, skal beslutningen i tillegg til metodevurderingen også baseres på resultatene fra anskaffelsen. Kvalitet og usikkerhet ved dokumentasjon og budsjettkonsekvenser av et tiltak skal tillegges vekt ved beslutningen.
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-6. Krav om markedsføringstillatelse for forhåndsgodkjent refusjon
 
@@ -1639,7 +1639,7 @@ Ved leveringssvikt for legemidler som har forhåndsgodkjent refusjon kan Direkto
 
 Direktoratet for medisinske produkter kan i særlige tilfeller gjøre andre unntak fra kravet om markedsføringstillatelse forutsatt at legemidlet har markedsføringstillatelse for den aktuelle indikasjonen i minst ett EØS-land.
 
-> Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 21 nov 2013 nr. 1368](forskrift/2013-11-21-1368), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-7. Fullmaktsgrense
 
@@ -1653,7 +1653,7 @@ Hvis utgiftsveksten til refusjon av et legemiddel overstiger fullmaktsgrensen sk
 
 Legemidlets rettighetshaver kan påklage vurderingen etter fjerde ledd for så vidt gjelder saksbehandlingen. [Forvaltningslovens](lov/1967-02-10) bestemmelser om klage på enkeltvedtak gjelder tilsvarende.
 
-> Endret ved forskrifter [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 sep 2023 nr. 1437](forskrift/2023-09-18-1437), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved forskrifter [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 sep 2023 nr. 1437](forskrift/2023-09-18-1437), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-8. Vedtak om forhåndsgodkjent refusjon
 
@@ -1665,13 +1665,13 @@ Vedtaket om forhåndsgodkjent refusjon kan gjøres betinget av at ytterligere do
 
 Direktoratet for medisinske produkter skal publisere en liste over legemidler som har forhåndsgodkjent refusjon (refusjonsliste), jf. [blåreseptforskriften § 1b](forskrift/2007-06-28-814/§1b).
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [4 juli 2018 nr. 1144](forskrift/2018-07-04-1144), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [4 juli 2018 nr. 1144](forskrift/2018-07-04-1144), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-9. Refusjonspris
 
 Samtidig som vedtak om forhåndsgodkjent refusjon fattes skal Direktoratet for medisinske produkter fastsette refusjonspris. Refusjonspris kan være legemidlets maksimalpris eller pris fastsatt etter prisforhandlinger med legemidlets rettighetshaver, jf. [§ 12-3](forskrift/2009-12-18-1839/§12-3) og [§ 12-8](forskrift/2009-12-18-1839/§12-8).
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-10. Tidsfrist
 
@@ -1681,7 +1681,7 @@ Tidsfristen suspenderes hvis Direktoratet for medisinske produkter anser det nø
 
 Tidsfristen kan også suspenderes ved prisforhandlinger og ved offentlig anskaffelse som omfatter det aktuelle legemidlet.
 
-> Endret ved [forskrifter 24 juni 2011 nr. 684](forskrift/2011-06-24-684) (i kraft 1 juli 2011), [23 april 2012 nr. 348](forskrift/2012-04-23-348), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 24 juni 2011 nr. 684](forskrift/2011-06-24-684) (i kraft 1 juli 2011), [23 april 2012 nr. 348](forskrift/2012-04-23-348), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-11. Revurdering av refusjonsstatus
 
@@ -1693,13 +1693,13 @@ Finner Direktoratet for medisinske produkter at legemidlet ikke oppfyller vilkå
 
 Dersom vilkårene i [§ 14-5](forskrift/2009-12-18-1839/§14-5) ikke kan oppfylles, eller dersom det må fastsettes nye refusjonsvilkår, fatter Direktoratet for medisinske produkter nytt refusjonsvedtak, jf. [§ 14-8](forskrift/2009-12-18-1839/§14-8).
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-12. Retningslinjer
 
 Direktoratet for medisinske produkter kan gi nærmere retningslinjer til bestemmelsene i dette kapittel.
 
-> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 14-13. (Opphevet)
 
