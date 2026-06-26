@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-03-03"
 last_change_in_force: "2026-06-01"
 last_updated: "2021-02-24"
-xml_hash: "085ddd3aafc2ea292d6af0489c9aa7c94062c8ffe01abb0995196356af766900"
+xml_hash: "d455b2c5aac7e79deea55a937e1d040d2c496a5d74ec018a7a870a785f12ef87"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-01T09:23:05.781615+00:00"
+retrieved_at: "2026-06-26T07:48:15.016944+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,7 +50,7 @@ Helsedirektoratet beslutter om et legemiddel, eller en bestemt bruk av et legemi
 
 Folketrygden yter ikke stønad til legemidler for behandling av nikotinavhengighet.
 
-> Tilføyd ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018).
+> Tilføyd ved [forskrift 15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 1c. Stønad til medisinsk forbruksmateriell
 
@@ -72,7 +72,7 @@ Folketrygden yter stønad etter [§ 6](forskrift/2007-06-28-814/§6) til dekning
 
 Stønad i form av forhåndsgodkjent refusjon gis for legemidler som er oppført på refusjonslisten, jf. [forskrift 18. desember 2009 nr. 1839 om legemidler § 14-8 fjerde ledd](forskrift/2009-12-18-1839/§14-8/ledd/4), dersom legemidlet er forskrevet i samsvar med de vilkår og begrensninger som fremgår av refusjonslisten.
 
-> Endret ved [forskrifter 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018).
+> Endret ved [forskrifter 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 3. Stønad til legemidler etter individuell søknad
 
@@ -90,7 +90,7 @@ Søknad om stønad fremmes av lege på vegne av pasienten. Helsedirektoratet, el
 
 Helsedirektoratet, eller det organ Helsedirektoratet bestemmer, gir nærmere retningslinjer om vilkår for stønad etter denne bestemmelsen, herunder krav til utforming og innsending av søknad.
 
-> Endret ved [forskrifter 25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018).
+> Endret ved [forskrifter 25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 4. Legemidler ved smittsomme sykdommer
 
@@ -160,7 +160,7 @@ Utleverer kan ikke kreve høyere pris enn det som følger av den til enhver tid 
 
 Det ytes stønad til full dekning av utgifter til legemidler forskrevet etter [§ 4](forskrift/2007-06-28-814/§4) til medisinsk forbruksmateriell forskrevet etter [§ 5 første ledd](forskrift/2007-06-28-814/§5/ledd/1) nr. 12 og for legemidler forskrevet etter [§ 2](forskrift/2007-06-28-814/§2) og [§ 3](forskrift/2007-06-28-814/§3) på følgende refusjonskoder:B90 HIV-sykdom/AIDS (ICPC-2)B99 Immunsvikt INA (ICPC-2)B20 HIV-sykdom med infek.sykd. og parasittsykdommer som følge (ICD-10)B21 HIV-sykdom med ondartede svulster som følge (ICD-10)B22 HIV-sykdom med andre spesifiserte sykdommer som følge (ICD-10)B23 HIV-sykdom med andre tilstander som følge (ICD-10)B24 Uspesifisert humant immunsviktvirussykdom [HIV-sykdom] (ICD-10)Z21 Symptomfri bærer av humant immunsviktvirus [HIV] (ICD-10)D80 Immunsvikt med overveiende antistoffmangel (ICD-10)D81 Kombinert immunsvikt (ICD-10)D82 Immunsvikt forbundet med andre større defekter (ICD-10)D83 Vanlig variabel immunsvikt (ICD-10)D84 Annen immunsvikt (ICD-10)A84 Legemiddelforgiftning (ICPC-2)T50 Forgiftning med andre og ikke spesifiserte legemidler og biologiske substanser (ICD-10)-53 Fordøyelsesplager ved ondartet kreftsykdom-81 Bivirkninger ved tuberkulosebehandling-90 Palliativ behandling i livets sluttfase.
 
-> Endret ved [forskrifter 12 feb 2008 nr. 134](forskrift/2008-02-12-134), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [17 des 2008 nr. 1406](forskrift/2008-12-17-1406) (i kraft 1 jan 2009), [17 des 2009 nr. 1719](forskrift/2009-12-17-1719) (i kraft 1 jan 2010), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [8 okt 2014 nr. 1301](forskrift/2014-10-08-1301) (i kraft 1 nov 2014), [21 des 2015 nr. 1830](forskrift/2015-12-21-1830) (i kraft 1 jan 2016), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 des 2020 nr. 2995](forskrift/2020-12-18-2995) (i kraft 1 jan 2021), [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2022 nr. 2430](forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 20 mars 2025), [2 april 2025 nr. 577](forskrift/2025-04-02-577), [17 des 2025 nr. 2621](forskrift/2025-12-17-2621) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 12 feb 2008 nr. 134](forskrift/2008-02-12-134), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [17 des 2008 nr. 1406](forskrift/2008-12-17-1406) (i kraft 1 jan 2009), [17 des 2009 nr. 1719](forskrift/2009-12-17-1719) (i kraft 1 jan 2010), [25 nov 2013 nr. 1405](forskrift/2013-11-25-1405) (i kraft 1 jan 2014), [8 okt 2014 nr. 1301](forskrift/2014-10-08-1301) (i kraft 1 nov 2014), [21 des 2015 nr. 1830](forskrift/2015-12-21-1830) (i kraft 1 jan 2016), [15 sep 2017 nr. 1408](forskrift/2017-09-15-1408) (i kraft 1 jan 2018), [18 des 2020 nr. 2995](forskrift/2020-12-18-2995) (i kraft 1 jan 2021), [24 juni 2021 nr. 2274](forskrift/2021-06-24-2274) (i kraft 1 juli 2021), [13 juni 2022 nr. 1026](forskrift/2022-06-13-1026), [21 des 2022 nr. 2430](forskrift/2022-12-21-2430) (i kraft 1 jan 2023), [19 des 2024 nr. 3285](forskrift/2024-12-19-3285) (i kraft 20 mars 2025), [2 april 2025 nr. 577](forskrift/2025-04-02-577), [17 des 2025 nr. 2621](forskrift/2025-12-17-2621) (i kraft 1 jan 2026). **Endres** ved forskrift [21 juni 2026 nr. 1252](forskrift/2026-06-21-1252) (i kraft 1 juli 2026).
 
 ### § 9. Legers opplysningsplikt
 
