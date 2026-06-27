@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2015-07-01"
-last_change_in_force: "2025-06-26"
+last_change_in_force: "2026-06-23"
 last_updated: "2023-08-07"
-xml_hash: "7b0b8c4dd72e076a8207790e70cf94dff3d2faf2af167be8614bef6d52f55786"
+xml_hash: "a074188ea83e8561c68d97d48f4978ea840f4292fa808cae2dedaa046de895f1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,9 +42,9 @@ Uavhengig av materialbruk og innfestingsmetode skal følgende regnes med:dekkska
 
 Skip med største lengde 15 meter og mer og flyttbare innretninger skal ha målebrev i tråd med [§ 4](forskrift/2015-06-30-823/§4) til [§ 15](forskrift/2015-06-30-823/§15).
 
-Målebrevet skal oppbevares om bord.
+Målebrevet skal være tilgjengelig om bord.
 
-> Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
+> Endret ved [forskrifter 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022), [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
 ## § 4. Måleregler for skip med største lengde på 15 meter eller mer og flyttbare innretninger
 
@@ -62,9 +62,11 @@ Skip med lengde (L) under 24 meter som er kjølstrukket 30. desember 1954 eller 
 
 Skipet må måles på nytt etter [§ 4](forskrift/2015-06-30-823/§4) andre ledd dersom det endres eller bygges om slik at bruttotonnasjen etter 1947-konvensjonen økes eller reduseres med mer enn 1 prosent.
 
+For målebrev utstedt etter første ledd kan det gjøres rettelser i målebrevet når navn, hjemsted, fartøytype, dypgang eller største lengde endres.
+
 Rederiet kan uavhengig av endring eller ombygging utarbeide tonnasjeberegninger etter [§ 4](forskrift/2015-06-30-823/§4) andre ledd og be om utstedelse av nytt målebrev.
 
-> Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
+> Endret ved [forskrifter 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022), [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
 ## § 6. Sikkerhetstonnasje for skip med lengde (L) 24 meter eller mer
 
@@ -100,9 +102,11 @@ Ved endring eller ombygging er det ikke krav om å benytte godkjent program ders
 
 Søknad om målebrev skal sendes på fastsatt skjema til Sjøfartsdirektoratet.
 
-Ved nybygging skal rederiet søke om målebrev senest tre måneder før skipet eller den flyttbare innretningen settes i fart.
+Ved nybygging skal rederiet søke om målebrev før skipet eller den flyttbare innretningen settes i fart.
 
-Ved endring eller ombygging skal rederiet søke om å få gjort rettelser i målebrevet eller å få utstedt nytt målebrev i henhold til [§ 12](forskrift/2015-06-30-823/§12).
+Ved endring eller ombygging skal rederiet søke om å få utstedt nytt målebrev i henhold til [§ 12](forskrift/2015-06-30-823/§12).
+
+> Endret ved forskrift [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
 ## § 10. Dokumentasjon som skal legges ved søknad om målebrev
 
@@ -110,21 +114,25 @@ Følgende dokumentasjon skal legges ved søknaden om målebrev:beregninger etter
 
 Ved innflagging skal kopi av det utenlandske målebrevet legges ved søknad om målebrev.
 
-Sjøfartsdirektoratet kan kreve at rederiet legger fram ytterligere dokumentasjon som er nødvendig for å kunne behandle søknader om utstedelse av målebrev, rettelser i målebrev eller påtegning av utenlandske målebrev.
+> Endret ved forskrift [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
-## § 11. Merking som vilkår for å få utlevert målebrev
+## § 11. Merking som vilkår for å få utstedt målebrev
 
-Før målebrevet kan utleveres, skal skipet eller den flyttbare innretningen være merket etter reglene om merking av skip og flyttbare innretninger.
+Før målebrevet kan utstedes, skal skipet eller den flyttbare innretningen være merket etter reglene om merking av skip og flyttbare innretninger.
 
-## § 12. Utstedelse av målebrev og rettelser i målebrev
+> Endret ved forskrift [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
+
+## § 12. Utstedelse av målebrev
 
 Det utstedes følgende målebrev:internasjonalt målebrev (1969) til målepliktige skip med lengde (L) 24 meter eller mer og flyttbare innretningernorsk innenriks målebrev (1982) til målepliktige skip med lengde (L) under 24 meter.
 
-Når navn, hjemsted, fartøytype, dypgang eller største lengde endres, kan det gjøres rettelser i målebrevet. I følgende tilfeller er det likevel krav om nytt målebrev:når et skip eller en flyttbar innretning endres eller bygges om slik at brutto- eller nettotonnasjen øker med én enhet eller mernår et skip eller en flyttbar innretning overføres mellom norsk ordinært skipsregister (NOR) og norsk internasjonalt skipsregister (NIS)når et skip med målebrev etter 1947-konvensjonen endres eller bygges om som nevnt i [§ 5](forskrift/2015-06-30-823/§5)når det originale målebrevet er tapt, med unntak av målebrev som nevnt i tredje ledd.
+Det skal utstedes nytt målebrev nåret skip eller en flyttbar innretning endres eller bygges om slik at brutto- eller nettotonnasjen øker med én enhet eller meret skip eller en flyttbar innretning overføres mellom norsk ordinært skipsregister (NOR) og norsk internasjonalt skipsregister (NIS)et skip med målebrev etter 1947-konvensjonen endres eller bygges om som nevnt i [§ 5](forskrift/2015-06-30-823/§5)det originale målebrevet er tapt, med unntak av målebrev som nevnt i tredje leddnavn, hjemsted, dypgang eller største lengde endres, med unntak av målebrev utstedt etter [§ 5](forskrift/2015-06-30-823/§5).
 
 Som erstatning for et tapt målebrev som er utstedt etter 1947-konvensjonen, kan rederiet be om kopi av målingsbevis i stedet for norsk innenriks målebrev (1982).
 
-Ved utstedelse av nytt målebrev skal det eksisterende målebrevet returneres.
+Dersom skipet eller den flyttbare innretningen har et fysisk målebrev når nytt målebrev utstedes, skal det fysiske målebrevet returneres.
+
+> Endret ved forskrift [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
 ## § 13. Utenlandsk målebrev som grunnlag for registrering i norsk skipsregister
 
@@ -134,9 +142,11 @@ Norsk målebrev utstedes på grunnlag av beregningene for det utenlandske måleb
 
 Utenlandsk målebrev er gyldig i tre måneder etter at skipet er registrert i norsk skipsregister. Rederiet må sørge for at norsk målebrev kan utstedes innen gyldighetsperiodens utløp på grunnlag av tonnasjeberegninger som er nevnt i annet ledd.
 
-## § 14. Retur av målebrevet ved utflagging, forlis og kondemnering
+## § 14. Retur av det fysiske målebrevet ved utflagging, forlis og kondemnering
 
-Det eksisterende målebrevet må returneres ved utflagging eller hvis skipet eller den flyttbare innretningen på annen måte mister retten til å føre norsk flagg. Etter forlis eller kondemnering skal målebrevet returneres hvis det er i behold.
+Dersom skipet eller den flyttbare innretningen har et fysisk målebrev, skal dette returneres dersom retten til å føre norsk flagg opphører ved utflagging eller på annen måte. Etter forlis eller kondemnering skal det fysiske målebrevet returneres hvis det er i behold.
+
+> Endret ved forskrift [23 juni 2026 nr. 1321](forskrift/2026-06-23-1321).
 
 ## § 15. Anvendelse av tonnasje som parameter
 
