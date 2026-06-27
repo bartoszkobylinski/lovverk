@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2019-03-01"
-last_change_in_force: "2025-10-31"
+last_change_in_force: "2026-06-18"
 last_updated: "2021-03-11"
-xml_hash: "794afebaa87a409aea8a8ab587d75cb714d00adacd2584d3c00ee0cb4af6c5c1"
+xml_hash: "b5b041e5ae04d9927e7d91e65a40bf25e15b99c8c7356780def2406eb86555d5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -308,21 +308,21 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 
 ### § 4-11. Karakterbegrunnelse og klage på karakterfastsetting
 
-(1) Studenten har rett til å få en begrunnelse for karakterfastsettingen i henhold til de til enhver tid gjeldende bestemmelser i [universitets- og høyskoleloven](lov/2005-04-01-15).
+(1) Studenten har rett til å få en begrunnelse for karakterfastsettingen i henhold til de til enhver tid gjeldende bestemmelser i [universitets- og høyskoleloven](lov/2024-03-08-9).
 
-(2) Krav om begrunnelse må fremmes innen én uke etter at karakteren ble kunngjort. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt.
+(2) Krav om begrunnelse må fremmes innen én uke etter at karakteren ble kunngjort. Ved muntlig eksamen som etter sin art ikke lar seg etterprøve eller bedømmelse av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er meddelt.
 
 (3) I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen kan gis muntlig eller skriftlig, og sensorene bestemmer selv formen.
 
-(4) Studenten har rett til å klage på karakterfastsettingen i henhold til de til enhver tid gjeldende bestemmelser i [universitets- og høyskoleloven](lov/2005-04-01-15).
+(4) Studenten har rett til å klage på karakterfastsettingen i henhold til de enhver tid gjeldende bestemmelser i [universitets- og høyskoleloven](lov/2024-03-08-9).
 
-(5) Ved ny sensurering etter klage benyttes to nye sensorer, hvorav minst én er ekstern. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal høyskolen foreta en ny vurdering før endelig karakter fastsettes.
+(5) Ved ny sensurering etter klage benyttes to sensorer, hvorav minst én er ekstern. Hvis karakteren ved ny sensur avviker med to eller flere karakterer fra opprinnelig sensur, skal høyskolen foreta en ny vurdering før endelig karakter fastsettes.
 
-(6) Bedømmelse av muntlig og praktisk eksamen som ikke lar seg etterprøve, kan ikke påklages.
+(6) Bedømmelse av muntlig eksamen som etter sin art ikke lar seg etterprøve og bedømmelse av praktiske ferdigheter, kan ikke påklages.
 
 (7) Karakterfastsetting ved ny sensur kan ikke påklages.
 
-> Endret ved forskrift [1 des 2022 nr. 2188](forskrift/2022-12-01-2188).
+> Endret ved forskrifter [1 des 2022 nr. 2188](forskrift/2022-12-01-2188), [18 juni 2026 nr. 1355](forskrift/2026-06-18-1355).
 
 ### § 4-12. Klage på formelle feil
 
@@ -361,6 +361,18 @@ I helsefagene kan det stilles krav om at visse spørsmål i et eksamenssett må 
 (3) Overvåkningsdata behandles i samsvar med gjeldende personvernlovgivning, herunder [personopplysningsloven](lov/2018-06-15-38) og [GDPR](lov/2018-06-15-38/gdpr):Bildet, lyden og skjermopptakene lagres kun i den tiden det er nødvendig for vurdering eller klagebehandling, med maksimum lagringsperiode spesifisert av høyskolens retningslinjer.Opptak slettes automatisk når denne perioden er utløpt, med mindre særskilt grunn (eksempelvis mistanke om fusk) krever videre oppbevaring.
 
 > Tilføyd ved forskrift [31 okt 2025 nr. 2166](forskrift/2025-10-31-2166).
+
+### § 4-15. Nødvendig utstyr
+
+(1) Studenten er selv ansvarlig for å ha tilgang til og benytte nødvendig utstyr ved gjennomføring av arbeidskrav og eksamen, herunder blant annet teknisk utstyr til lyd, bilde og kommunikasjon hvor dette er påkrevd.
+
+(2) Utstyrskrav skal stå i rimelig forhold til eksamens- eller arbeidskravets art og omfang.
+
+(3) Krav til utstyr skal fremgå av emneinformasjonen.
+
+(4) Manglende eller utilstrekkelig utstyr fritar ikke studenten fra plikten til å gjennomføre arbeidskravet eller eksamenen til fastsatt tid.
+
+> Tilføyd ved forskrift [18 juni 2026 nr. 1355](forskrift/2026-06-18-1355).
 
 ## Kapittel 5. Vitnemål
 
