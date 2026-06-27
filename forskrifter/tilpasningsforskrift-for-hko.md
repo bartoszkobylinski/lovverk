@@ -8,14 +8,14 @@ short_title: "Tilpasningsforskrift for HKO"
 language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
-date_in_force: null
-last_change_in_force: null
+date_in_force: "2026-06-24"
+last_change_in_force: "2026-06-24"
 last_updated: null
-xml_hash: "397920e4d01b26dd11d5555f1c9bee8d4c1cfa8f0f6ff168c4aeab776379dda6"
+xml_hash: "6b3a01771d67f7e95f91eaa95486fafe1b666d7024f16beab2e87b7db3d19a15"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Høgskolen for kriminalomsorg kan i forskrift fastsette regler som gjelder ansat
 
 ## § 7. Ikrafttredelse og opphevelse
 
-Forskriften trer i kraft fra det tidspunktet Justis- og beredskapsdepartementet bestemmer. Fra samme tidspunkt oppheves [forskrift 26. oktober 2012 nr. 993 om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2012-10-26-993). Departementet kan beslutte delvis ikrafttredelse.
+Forskriften trer i kraft fra det tidspunktet Justis- og beredskapsdepartementet bestemmer1. Fra samme tidspunkt oppheves [forskrift 26. oktober 2012 nr. 993 om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2012-10-26-993). Departementet kan beslutte delvis ikrafttredelse.
 
 ## § 8. Overgangsregler
 
