@@ -4,18 +4,18 @@ slug: "forskrift-om-straffegjennomføring"
 type: "forskrift"
 ref_id: "forskrift/2002-02-22-183"
 title: "Forskrift om straffegjennomføring"
-short_title: "Forskrift om straffegjennomføring"
+short_title: null
 language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2002-03-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-24"
 last_updated: "2022-03-16"
-xml_hash: "97a733393266f2bb2249733158e3a08dfe05343cfa21965464a5fa66ee1aa51b"
+xml_hash: "771d4c99bca96daf11f02d296cf15d0add169dbc31dd7765cea4a6f3cbbe373c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,9 +64,9 @@ Det delegeres myndighet til lokalt nivå til å innvilge søknader etter [straff
 
 ### § 2-2. Krav til tilsatte i fengsler
 
-For å bli fast tilsatt som fengselsbetjent kreves det at den tilsatte har gjennomgått og bestått en nærmere fastsatt fengselsbetjentutdanning. Kriminalomsorgsdirektoratet gir forskrift om opptak av aspiranter og innholdet i utdanningen, herunder avleggelse og gjennomføring av eksamen og prøver.
+For å bli fast tilsatt som fengselsbetjent kreves det at den tilsatte har gjennomgått og bestått en nærmere fastsatt fengselsbetjentutdanning.
 
-> Endret ved [forskrifter 23 juni 2011 nr. 853](forskrift/2011-06-23-853), [26 juni 2014 nr. 878](forskrift/2014-06-26-878).
+> Endret ved [forskrifter 23 juni 2011 nr. 853](forskrift/2011-06-23-853), [26 juni 2014 nr. 878](forskrift/2014-06-26-878), [24 juni 2026 nr. 1325](forskrift/2026-06-24-1325).
 
 ### § 2-3. (Opphevet)
 
