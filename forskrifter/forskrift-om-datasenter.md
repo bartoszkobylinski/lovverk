@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "88aa50083c49df65ec398cdbede5683a4898cb90d573fff3907c556b6a2d7e80"
+xml_hash: "e0e3864b3a23ba3ad192e03d53be84d05979ff335416ffec1cc107147454d6fe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,6 +42,24 @@ Nasjonal kommunikasjonsmyndighet kan fastsette standardskjema som skal nyttes ve
 
 Nasjonal kommunikasjonsmyndighet kan pålegge datasenteroperatører som faller under terskelverdien, men som er av særlig viktighet, å registrere seg. Nasjonal kommunikasjonsmyndighet kan ved enkeltvedtak gi unntak fra registreringsplikten i tilfeller der registrering er unødvendig for å oppfylle formålet med registreringen.
 
+> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+
+### § 1-4. Plikt til å ha oppdatert kundeinformasjon tilgjengelig
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+
+### § 1-5. Plikt til å utlevere kundeinformasjon
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+
+### § 1-6. Krav om fysisk representant i Norge
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+
+### § 1-7. Krav til responstid
+
+> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+
 ## Kapittel 2. Sikkerhet og beredskap
 
 ### § 2-1. Krav til sikkerhetsstyring
@@ -61,6 +79,8 @@ En datasenteroperatør skal utarbeide og vedlikeholde risiko- og sårbarhetsvurd
 Ved endringer som kan påvirke sikkerheten skal datasenteroperatøren vurdere hvilken risiko endringene medfører.
 
 Datasenteroperatørens risiko- og sårbarhetsvurderinger skal dokumenteres.
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 2-3. Krav til grunnsikring og skadebegrensningstiltak
 
@@ -127,6 +147,8 @@ Nasjonal kommunikasjonsmyndighet fører tilsyn med at kravene i forskriften blir
 ### § 3-2. Overtredelsesgebyr
 
 Nasjonal kommunikasjonsmyndighet kan pålegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer kravene i [§ 1-3](forskrift/2024-12-18-3313/§1-3) (Registreringsplikt for datasenteroperatører), [§ 2-1](forskrift/2024-12-18-3313/§2-1) (Krav til sikkerhetsstyring), [§ 2-2](forskrift/2024-12-18-3313/§2-2) (Krav om risiko- og sårbarhetsvurderinger), [§ 2-3](forskrift/2024-12-18-3313/§2-3) (Krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-18-3313/§2-4) (Krav til sikringsplaner), [§ 2-5](forskrift/2024-12-18-3313/§2-5) (Krav om beredskapsplanlegging og -øvelser), [§ 2-7](forskrift/2024-12-18-3313/§2-7) (Plikt til å følge opp at andre oppfyller sikkerhetskravene) og [§ 2-8](forskrift/2024-12-18-3313/§2-8) (Plikt til å varsle om uønskede hendelser).overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-6](forskrift/2024-12-18-3313/§2-6) (Adgang til å pålegge sikkerhetsrevisjon) [§ 2-9](forskrift/2024-12-18-3313/§2-9) (Adgang til å pålegge datasentrene å ha nasjonal autonomi) og [§ 2-10](forskrift/2024-12-18-3313/§2-10) (Adgang til å pålegge prioritering av tjenestetilbud).
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 3-3. Utmåling av overtredelsesgebyr
 
