@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2026-05-18"
+last_change_in_force: "2026-06-25"
 last_updated: "2024-01-16"
-xml_hash: "b8230f5ffef971b1328e44c41f79d58604672c9b27c027dec0fcda4796cc2d48"
+xml_hash: "80caaac1445eb97d7a2bf2040a23f0fb67d8f17627544f2f1d79dae33aee7238"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-21T07:46:41.614504+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -693,6 +693,12 @@ Fiskeridirektoratet kan stoppe fisket nevnt i annet ledd, innskrenke eller utvid
 Fiskeridirektoratet kan stenge hele eller deler av området nevnt i tredje ledd dersom innblanding av sild under minstemål i de enkelte fangster overstiger 20 % i antall.
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [12 okt 2022 nr. 1731](forskrift/2022-10-12-1731), [28 okt 2022 nr. 1968](forskrift/2022-10-28-1968) (i kraft 1 nov 2022), [13 sep 2023 nr. 1415](forskrift/2023-09-13-1415), [20 nov 2023 nr. 1888](forskrift/2023-11-20-1888).
+
+### § 59a. Forbud mot å høste sild i et område i Nordsjøen
+
+Det er forbudt å fiske sild med fartøy på eller over 21 meter største lengde fra og med 15. mai til og med 31. juli innenfor et område avgrenset av rette linjer mellom følgende posisjoner:Fra land på N59° 30′00" og videre rett vest tilN 59° 30′00"; Ø 003° 20′00"N 59° 00′00"; Ø 003° 30′00"N 58° 00′00"; Ø 004° 15′00"Videre til midtlinjen med Danmark på Ø 007° 40′00"Videre følges midtlinjen til grensen mellom Skagerrak og Nordsjøen (linje mellom Hanstholm fyr og Lindesnes fyr)Videre til Lindesnes fyr.
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1371](forskrift/2026-06-25-1371).
 
 ## Kapittel XIII. Adgang til å fiske med trål innenfor 12 nautiske mil fra grunnlinjene utenfor det norske fastland
 
