@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260623-1356",
+  "events": [
+    {
+      "commit": "db9e56b",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 85,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade"
+}

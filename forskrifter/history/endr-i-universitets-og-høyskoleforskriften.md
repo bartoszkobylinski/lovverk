@@ -1,6 +1,11 @@
 # endr-i-universitets-og-høyskoleforskriften — Change history
 
-_5 events; doc_id `sf-20260619-1251`._
+_6 events; doc_id `sf-20260619-1251`._
+
+## 2026-06-27 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): endr-i-universitets-og-høyskoleforskriften`
+Commit: `eeaedfd`.
 
 ## 2026-06-26 — Added to corpus
 Lines: +44 -0.

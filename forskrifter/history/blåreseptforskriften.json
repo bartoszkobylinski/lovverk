@@ -2,6 +2,16 @@
   "doc_id": "sf-20070628-0814",
   "events": [
     {
+      "commit": "b5c3a89",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): blåreseptforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6702985",
       "date": "2026-06-26",
       "from_path": null,

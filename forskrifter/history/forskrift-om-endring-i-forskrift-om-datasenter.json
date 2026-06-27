@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260622-1320",
+  "events": [
+    {
+      "commit": "7adafa1",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-datasenter",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-datasenter"
+}

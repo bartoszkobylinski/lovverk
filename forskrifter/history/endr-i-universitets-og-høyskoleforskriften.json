@@ -2,6 +2,16 @@
   "doc_id": "sf-20260619-1251",
   "events": [
     {
+      "commit": "eeaedfd",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): endr-i-universitets-og-høyskoleforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "7689517",
       "date": "2026-06-26",
       "from_path": null,

@@ -1,6 +1,16 @@
 # forskrift-om-datasenter — Change history
 
-_2 events; doc_id `sf-20241218-3313`._
+_4 events; doc_id `sf-20241218-3313`._
+
+## 2026-06-27 — Content updated
+Lines: +24 -2.
+Subject: `update(forskrift): forskrift-om-datasenter`
+Commit: `0d87bb6`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20241218-3313.md` → `forskrifter/forskrift-om-datasenter.md`.

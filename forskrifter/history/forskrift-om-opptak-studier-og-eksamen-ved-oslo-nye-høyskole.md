@@ -1,6 +1,16 @@
 # forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-høyskole — Change history
 
-_2 events; doc_id `sf-20190301-1082`._
+_4 events; doc_id `sf-20190301-1082`._
+
+## 2026-06-27 — Content updated
+Lines: +21 -9.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-høyskole`
+Commit: `931c840`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20190301-1082.md` → `"forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-h\303\270yskole.md"`.

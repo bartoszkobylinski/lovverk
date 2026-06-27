@@ -1,6 +1,11 @@
 # endr-i-blåreseptforskriften — Change history
 
-_5 events; doc_id `sf-20260429-0746`._
+_6 events; doc_id `sf-20260618-1354`._
+
+## 2026-06-27 — Added to corpus
+Lines: +6 -6.
+Subject: `add(forskrift): endr-i-blåreseptforskriften`
+Commit: `62a248a`.
 
 ## 2026-05-09 — Added to corpus
 Lines: +29 -0.

@@ -1,6 +1,11 @@
 # høstingsforskriften — Change history
 
-_4 events; doc_id `sf-20211223-3910`._
+_5 events; doc_id `sf-20211223-3910`._
+
+## 2026-06-27 — Content updated
+Lines: +9 -3.
+Subject: `update(forskrift): høstingsforskriften`
+Commit: `df69a84`.
 
 ## 2026-05-21 — Content updated
 Lines: +8 -10.

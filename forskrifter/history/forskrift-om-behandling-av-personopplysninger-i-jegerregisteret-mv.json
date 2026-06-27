@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260626-1373",
+  "events": [
+    {
+      "commit": "32a5299",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 111,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv"
+}

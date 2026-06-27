@@ -2,6 +2,16 @@
   "doc_id": "sf-20211223-3910",
   "events": [
     {
+      "commit": "df69a84",
+      "date": "2026-06-27",
+      "from_path": null,
+      "lines_added": 9,
+      "lines_removed": 3,
+      "subject": "update(forskrift): høstingsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3fb1c0f",
       "date": "2026-05-21",
       "from_path": null,
