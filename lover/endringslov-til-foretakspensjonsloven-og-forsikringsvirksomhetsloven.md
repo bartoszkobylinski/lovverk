@@ -8,14 +8,14 @@ short_title: "Endringslov til foretakspensjonsloven og forsikringsvirksomhetslov
 language: "nb"
 ministry:
   - "Finansdepartementet"
-date_in_force: null
+date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "bcae2341d2c8c2d3f3600deafdccb9a6afe1d00638029c758f18e9f7c732a27f"
+xml_hash: "324809590f21c6b7e434aee9aad4063e20040b5e771c05f0157b2f70e4a03604"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-06-27T06:50:25.382483+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -61,5 +61,5 @@ Er premiereserve for pensjonsforsikring, overføring fra premiefond og bufferfon
 
 ## III
 
-1. Loven gjelder fra den tid Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.1
+1. Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.2
 2. Departementet kan gi nærmere overgangsregler.
