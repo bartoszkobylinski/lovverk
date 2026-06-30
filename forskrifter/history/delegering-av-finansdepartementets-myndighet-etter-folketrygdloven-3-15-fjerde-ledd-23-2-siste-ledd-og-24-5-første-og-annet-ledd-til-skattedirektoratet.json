@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20221209-2139",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-finansdepartementets-myndighet-etter-folketrygdloven-3-15-fjerde-ledd-23-2-siste-ledd-og-24-5-første-og-annet-ledd-til-skattedirektoratet"
+}

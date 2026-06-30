@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20201211-2704",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "deleg-av-myndighet-etter-våpenlova-4-5-6-11-12-13-16-19-21-22-23-26-29-40-41-og-43-til-justis-og-beredskapsdepartementet"
+}

@@ -1,0 +1,8 @@
+# delegering-av-myndighet-etter-tvisteloven-22-3-og-straffeprosessloven-118-og-230-fra-arbeids-og-inkluderingsdepartementet-til-statsforvalteren-og-integrerings-og-mangfoldsdirektoratet — Change history
+
+_1 events; doc_id `sf-20240619-1377`._
+
+## 2026-06-30 — Added to corpus
+Lines: +39 -0.
+Subject: `sync: 1693 new, 0 changed, 1 renamed, 0 removed`
+Commit: `5244bff`.

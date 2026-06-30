@@ -1,0 +1,8 @@
+# delegering-til-longyearbyen-lokalstyre-av-myndighet-etter-forskrift-om-forurensing-og-avfall-på-svalbard — Change history
+
+_1 events; doc_id `sf-20201222-3401`._
+
+## 2026-06-30 — Added to corpus
+Lines: +31 -0.
+Subject: `sync: 1693 new, 0 changed, 1 renamed, 0 removed`
+Commit: `5244bff`.

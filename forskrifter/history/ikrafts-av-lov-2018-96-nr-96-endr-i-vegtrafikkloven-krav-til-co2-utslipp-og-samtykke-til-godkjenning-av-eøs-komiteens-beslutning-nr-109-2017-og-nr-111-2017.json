@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20181214-1921",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 27,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "ikrafts-av-lov-2018-96-nr-96-endr-i-vegtrafikkloven-krav-til-co2-utslipp-og-samtykke-til-godkjenning-av-eøs-komiteens-beslutning-nr-109-2017-og-nr-111-2017"
+}

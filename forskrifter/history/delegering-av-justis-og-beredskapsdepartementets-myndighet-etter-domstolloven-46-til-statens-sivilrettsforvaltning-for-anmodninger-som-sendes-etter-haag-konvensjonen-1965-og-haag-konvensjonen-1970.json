@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20221031-1972",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-justis-og-beredskapsdepartementets-myndighet-etter-domstolloven-46-til-statens-sivilrettsforvaltning-for-anmodninger-som-sendes-etter-haag-konvensjonen-1965-og-haag-konvensjonen-1970"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260417-0603",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 26,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-kongens-myndighet-til-å-endre-forskrift-om-tilpasning-til-universitets-og-høyskoleloven-for-høgskolen-for-kriminalomsorg-etter-lov-8-mars-2024-nr-9-om-universiteter-og-høyskoler-1-2"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20250626-1341",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "vedtak-om-delegering-og-endring-i-vedtak-om-delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet"
+}

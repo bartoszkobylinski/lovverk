@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20220408-0559",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-kongens-myndighet-etter-lov-16-juni-2017-nr-51-om-likestilling-og-forbud-mot-diskriminering-3-17-26-26a-og-28-til-kultur-og-likestillingsdepartementet"
+}

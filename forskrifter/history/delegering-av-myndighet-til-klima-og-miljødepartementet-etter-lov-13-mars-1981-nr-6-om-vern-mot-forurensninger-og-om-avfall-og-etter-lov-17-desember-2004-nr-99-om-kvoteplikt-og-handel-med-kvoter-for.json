@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1138",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-myndighet-til-klima-og-miljødepartementet-etter-lov-13-mars-1981-nr-6-om-vern-mot-forurensninger-og-om-avfall-og-etter-lov-17-desember-2004-nr-99-om-kvoteplikt-og-handel-med-kvoter-for"
+}

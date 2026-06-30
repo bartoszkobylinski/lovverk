@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20241018-2506",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 27,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "overføring-av-forvaltningsansvaret-for-statens-eierskap-i-allstad-as-lov-18-juni-2021-nr-98-om-opplysningsvesenets-fond-og-lov-25-juni-2024-nr-58-om-omdanning-av-opplysningsvesenets-fond-til"
+}

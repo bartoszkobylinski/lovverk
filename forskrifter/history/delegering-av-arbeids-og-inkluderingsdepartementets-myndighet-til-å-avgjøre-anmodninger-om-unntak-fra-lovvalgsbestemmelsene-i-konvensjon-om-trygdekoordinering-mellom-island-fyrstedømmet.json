@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20240628-1388",
+  "events": [
+    {
+      "commit": "5244bff",
+      "date": "2026-06-30",
+      "from_path": null,
+      "lines_added": 33,
+      "lines_removed": 0,
+      "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-konvensjon-om-trygdekoordinering-mellom-island-fyrstedømmet"
+}
