@@ -1,0 +1,41 @@
+---
+id: "sf-20070216-0171"
+slug: "deleg-til-nhd-etter-skipssikkerhetsloven"
+type: "forskrift"
+ref_id: "forskrift/2007-02-16-171"
+title: "Delegering av myndighet til Nærings- og handelsdepartementet, Miljøverndepartementet og Forsvarsdepartementet etter skipssikkerhetsloven og utpeking av tilsynsmyndighet."
+short_title: "Deleg. til NHD etter skipssikkerhetsloven"
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2007-02-16"
+last_change_in_force: null
+last_updated: null
+xml_hash: "16c64b56c64fe177d0eb8b0c40254e824372ec4973d3be33dc34cf1f0434a106"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Delegering av myndighet til Nærings- og handelsdepartementet, Miljøverndepartementet og Forsvarsdepartementet etter skipssikkerhetsloven og utpeking av tilsynsmyndighet.
+
+Delegering av Kongens myndighet etter lov om skipssikkerhet i samsvar med fremlagt forslag.1
+
+## Vedlegg
+
+Ny skipssikkerhetslov ble vedtatt av Stortinget 8. februar 2007. Kongens myndighet etter skipssikkerhetsloven skal delegeres til Nærings- og handelsdepartementet, Miljøverndepartementet og Forsvarsdepartementet. Forslag til delegering har vært forelagt Miljøverndepartementet og Forsvarsdepartementet før utarbeidelse av den kongelige resolusjonen.
+
+Kongens myndighet etter følgende bestemmelser delegeres til Nærings- og handelsdepartementet:§ 2 annet ledd, § 2 tredje ledd bokstav a, b, c, d, e, g, h og § 2 fjerde ledd.
+
+Med departementet forstås i følgende bestemmelser Nærings- og handelsdepartementet:§ 4 fjerde ledd§ 5 annet ledd§ 6 tredje ledd§ 7 tredje ledd§ 8 tredje ledd§ 9 annet ledd§ 10 annet ledd§ 11 annet ledd§ 12 første ledd og annet ledd§ 13 første ledd og tredje ledd§ 14 annet ledd§ 15 tredje ledd§ 16 annet ledd§ 17 annet ledd§ 18 annet ledd§ 19 tredje ledd§ 20 annet ledd§ 21 annet ledd§ 22 annet ledd§ 23 annet ledd§ 24 fjerde ledd§ 25 annet ledd§ 26 annet ledd§ 27 tredje ledd§ 28 annet ledd§ 29 tredje ledd§ 30 annet ledd§ 39 tredje ledd§ 40 fjerde ledd§ 41 annet ledd og tredje ledd§ 42 tredje ledd§ 43 annet ledd og femte ledd§ 44 annet ledd§ 45 fjerde ledd§ 46 annet ledd§ 47 fjerde ledd§ 48 tredje ledd§ 49 tredje ledd§ 50 fjerde ledd§ 51 annet ledd§ 52 tredje ledd§ 53 første ledd§ 54 annet ledd§ 55 femte ledd§ 56 fjerde ledd.
+
+Kongens myndighet etter følgende bestemmelser delegeres til Miljøverndepartementet:§ 2 tredje ledd bokstav a, b, c, d, e, f, g, h for så vidt gjelder miljømessig sikkerhet§ 2 fjerde ledd for så vidt gjelder miljømessig sikkerhet§ 3 tredje ledd for så vidt gjelder miljømessig sikkerhet.
+
+Med departementet forstås i følgende bestemmelser Miljøverndepartementet:§ 4 fjerde ledd for så vidt gjelder miljømessig sikkerhet§ 5 annet ledd for så vidt gjelder miljømessig sikkerhet§ 6 tredje ledd for så vidt gjelder miljømessig sikkerhet§ 31 fjerde ledd§ 32 annet ledd§ 33 annet ledd§ 34 tredje ledd§ 35 annet ledd§ 36 annet ledd§ 37 annet ledd§ 38 annet ledd§ 43 annet ledd og femte for så vidt gjelder miljømessig sikkerhet§ 44 annet ledd for så vidt gjelder miljømessig sikkerhet§ 45 fjerde ledd for så vidt gjelder miljømessig sikkerhet§ 46 annet ledd for så vidt gjelder miljømessig sikkerhet§ 47 fjerde ledd for så vidt gjelder miljømessig sikkerhet§ 49 tredje ledd for så vidt gjelder miljømessig sikkerhet§ 50 fjerde ledd for så vidt gjelder miljømessig sikkerhet§ 52 tredje ledd for så vidt gjelder miljømessig sikkerhet§ 53 første ledd for så vidt gjelder miljømessig sikkerhet§ 54 annet ledd for så vidt gjelder miljømessig sikkerhet§ 55 femte ledd for så vidt gjelder miljømessig sikkerhet§ 56 fjerde ledd for så vidt gjelder miljømessig sikkerhet.
+
+Kongens myndighet etter § 2 tredje ledd bokstav f og § 2 fjerde ledd, for så vidt gjelder skip som nevnt i § 2 tredje ledd bokstav f, delegeres til Forsvarsdepartementet.
+
+Tilsynsmyndighet etter § 41 første ledd skal være Sjøfartsdirektoratet.

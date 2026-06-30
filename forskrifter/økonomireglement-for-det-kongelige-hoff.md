@@ -1,0 +1,152 @@
+---
+id: "sf-20020705-0717"
+slug: "økonomireglement-for-det-kongelige-hoff"
+type: "forskrift"
+ref_id: "forskrift/2002-07-05-717"
+title: "Økonomireglement for Det Kongelige Hoff"
+short_title: null
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "2002-07-05"
+last_change_in_force: "2020-02-07"
+last_updated: null
+xml_hash: "417062ed3eab96e0ab54c34f70860b7967e2eac6d0bde4fc6826d22c37a37093"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Økonomireglement for Det Kongelige Hoff
+
+## § 1. Innledende bestemmelser
+
+Dette reglementet gjelder statens overføringer til Det Kongelige Hoff, som bevilges over kap. 0001 H.M. Kongen og H.M. Dronningen og kap. 0002 H.K.H. Kronprinsen og H.K.H. Kronprinsessen. Reglementet gjelder ikke disse kapitlenes post 01 Apanasje.
+
+Reglementet skal sikre at disse midler brukes effektivt og korrekt i samsvar med Stortingets forutsetninger og de alminnelige prinsipper for statens økonomiforvaltning. Dette reglementet har tilsvarende funksjon som Økonomireglement for staten, fastsatt ved kgl.res. 26. januar 1996, har for statsforvaltningen.
+
+- Budsjettdisponeringsmyndighet er myndighet til å bestemme hva budsjettmidler skal brukes til innenfor en administrativ enhet, og til å inngå bindende avtaler, jf. [§ 2](forskrift/2002-07-05-717/§2) og [§ 5](forskrift/2002-07-05-717/§5).
+- Anvisningsmyndighet er myndighet til å bestemme at utbetaling kan skje i det enkelte tilfellet, jf. pkt. 7.1.
+- Bestillingsrett er myndighet til å inngå avtaler om kjøp av varer og tjenester, jf. pkt. 7.3. Den inngår alltid i budsjettdisponeringsmyndigheten. Andre ansatte kan få delegert begrenset bestillingsrett.
+- Attestasjon er påtegning på et utbetalingsdokument som bekrefter at de faktiske forhold som utbetalingsdokumentet refererer til er korrekte, jf. pkt. 7.1.
+
+## § 2. Myndighet og ansvar for Hoffsjefen
+
+Hoffsjefen har det øverste administrative ansvaret for den interne økonomiforvaltningen ved Det Kongelige Hoff.
+
+Hoffsjefen har budsjettdisponeringsmyndighet og anvisningsmyndighet for de midler som bevilges av Stortinget utenom post 01 Apanasje. Myndigheten kan delegeres, jf. [§ 5](forskrift/2002-07-05-717/§5).
+
+Hoffsjefen fastsetter regler som er nødvendige til utfylling og gjennomføring av dette reglementet.
+
+## § 3. Kommunikasjon mellom Hoffsjefen og departementene
+
+Hoffsjefen kommuniserer med Arbeids- og administrasjonsdepartementet (AAD) i budsjettsaker.
+
+Budsjettforslag utarbeides av Hoffsjefen og meddeles AAD etter avtale innen den frist som departementet angir.
+
+AAD meddeler Hoffsjefen det budsjett som Stortinget har bevilget. Dersom det skal fastsettes ytterligere forutsetninger enn de som er angitt i budsjettproposisjonen, for eksempel om hvor stor del av bevilgningen som skal gå til vedlikehold, utformes de i avtale mellom Hoffsjefen og AAD.
+
+AAD overfører den gitte bevilgningen i kvartalsvise beløp til Det Kongelige Hoffs bankforbindelse, jf. [§ 6](forskrift/2002-07-05-717/§6) og [§ 8](forskrift/2002-07-05-717/§8).
+
+Hoffsjefen avgir årsrapport med årsregnskap til AAD, jf. [§ 10](forskrift/2002-07-05-717/§10).
+
+## § 4. Kommunikasjon mellom Hoffsjefen og Statsbygg
+
+Det Kongelige Hoff har ansvar for det løpende indre vedlikehold og den daglige drift og forvaltning av Slottet, Bygdø kongsgård og Oscarshall. Hoffsjefen orienterer Statsbygg på et tidlig stadium hvert år om hvilke planer Det Kongelige Hoff har for påfølgende år med hensyn til vedlikehold, og ber om eventuell kommentar fra Statsbygg før budsjettforslaget meddeles AAD.
+
+Statsbygg har ansvaret for ytre vedlikehold og større innvendige arbeider ved forannevnte eiendommer. Statsbygg skal i sin planlegging av ytre vedlikehold og større innvendige arbeider innhente synspunkter fra Det Kongelige Hoff vedrørende forestående prosjekter. I tillegg kan Det Kongelige Hoff på selvstendig grunnlag fremme forslag overfor Statsbygg om tiltak man mener bør iverksettes. Statsbygg orienterer Det Kongelige Hoff om hvilke tiltak som er innarbeidet i Statsbyggs årlige budsjettforslag og i deres langtidsplan.
+
+## § 5. Intern planlegging – delegering av budsjettdisponeringsmyndighet
+
+AAD gir Det Kongelige Hoff melding om Stortingets bevilgning med tilhørende forutsetninger. Hoffsjefen påser at det blir utarbeidet et internbudsjett for hele året. Der tas det med hva som forutsettes av andre inntekter enn utbetalingen fra AAD, og i hvilken grad det er aktuelt å bruke avsetninger, eventuelt å dekke underskudd, fra tidligere terminer, jf. [§ 10](forskrift/2002-07-05-717/§10).
+
+Hoffsjefen bestemmer selv i hvilken grad det skal delegeres budsjettdisponeringsmyndighet. Delegeringen gis i form av skriftlige meldinger, som presiserer hva delegeringen innebærer.
+
+## § 6. Generelt om regnskapsføring
+
+Det Kongelige Hoff fører regnskap for sine utgifter og inntekter. Hoffsjefen har det overordnede ansvar for regnskapsarbeidet, herunder at Det Kongelige Hoff har et elektronisk økonomisystem som er tilfredsstillende for de oppgaver og funksjoner som skal utføres.
+
+Regnskapsføringen skal innrettes slik at den gir oversikt over og sikrer kontroll med inn- og utbetalinger og disponering av gitte bevilgninger. Her registreres brutto utgifter og inntekter. Overføringen fra AAD av nettobevilgningen under post 50 er en av inntektspostene i regnskapet. Det Kongelige Hoff skal ikke gi rapporter til det sentrale statsregnskapet.
+
+Regnskapsføringen skal følge regnskapsloven og reglene for god regnskapsskikk.
+
+Hoffsjefen fastsetter nærmere regler for regnskapsføringen, herunder den kontoplan som skal brukes.
+
+Hoffsjefen har ansvar for at det blir avklart med Riksarkivet arkivering av regnskapsmateriell utover bestemmelsene i regnskapsloven.
+
+## § 7. Løpende økonomiforvaltning
+
+Hvert enkelt utbetalingsdokument skal attesteres og anvises før utbetaling finner sted.
+
+Før fakturaer og andre utbetalingsdokumenter anvises til utbetaling skal de være kontrollert og etterregnet, samt attestert av en tjenestemann som har nødvendig grunnlag for å kontrollere at regningen er i overensstemmelse med de underliggende forhold og følger fastsatte regler for avlønning og innkjøp.
+
+Den som anviser skal påse at det er hjemmel for disposisjonen i stortingsvedtak, melding fra Hoffsjefen eller andre vedtak, at det er budsjettmessig dekning for utbetalingen og at disposisjonen er økonomisk forsvarlig.
+
+Myndighet til å anvise utgifter til utbetaling tilligger i utgangspunktet Hoffsjefen, jf. pkt. 2.2 foran. Hoffsjefen kan delegere anvisningsmyndighet når det anses nødvendig og forsvarlig. Den som anviser kan ikke selv foreta attestasjon.
+
+Delegering av anvisningsmyndighet skal skje skriftlig, med gjenpart til revisor. Et delegeringsvedtak faller bort når den som har fått delegert myndighet fratrer den aktuelle stillingen. Hoffsjefen plikter å føre kontroll med hvordan anvisningsmyndigheten utøves.
+
+Den anvisningsberettigede kan ikke anvise reiseregninger, reiseforskudd eller refusjon av utlegg til seg selv. Slike utbetalinger til Hoffsjefen personlig anvises av Hoffmarskalken.
+
+Det Kongelige Hoff må ha tilgang til et edb-basert lønns- og personalsystem som på en tilfredsstillende måte beregner lønn, trekk og feriepenger for alle ansatte og ivaretar krav til rapportering til offentlige myndigheter.
+
+Hoffsjefen fastsetter nærmere regler om registrering av data vedrørende lønn og trekk, om beregning og avsetning av feriepenger og om utbetaling og innhenting av refusjoner, samt innberetninger og kontroll.
+
+Hoffsjefen fastsetter nærmere regler for kjøp av varer og tjenester ved Det Kongelige Hoff. Lov og forskrift om offentlige anskaffelser får anvendelse når Det kongelige hoff foretar anskaffelser på det offentliges vegne og for å utføre offentlige oppgaver. Anskaffelser som ikke er av en slik art, vil falle utenfor anskaffelsesreglene. Dette vil gjelde anskaffelser som faller inn under den private sfæren.
+
+Hoffsjefen fastsetter nærmere regler om framgangsmåten ved bestilling, mottak og fakturabehandling, blant annet om hvem som kan delegeres bestillingsrett som er begrenset innenfor en fastsatt budsjettramme.
+
+Overføringen av bevilgningen under post 50 fra AAD føres som inntekt i regnskapet for Det Kongelige Hoff.
+
+Hoffsjefen fastsetter regler om håndtering av andre inntekter, herunder salg, husleie og kontantomsetning ved omvisninger og lignende.
+
+## § 8. Ut- og innbetaling
+
+Hoffsjefen velger hvilken bank som skal være Det Kongelige Hoffs bankforbindelse. Valget skal være basert på konkurrerende tilbud og gjelder for en begrenset periode på ikke over fem år. Hoffsjefen fastsetter nærmere regler om kommunikasjonen mellom Det Kongelige Hoffs regnskapsenhet og banken.
+
+Det Kongelige Hoff kan ha en kontantkasse for utgifter som det er hensiktsmessig å gjøre opp i kontanter. Anmodning om uttak fra bankkontoen for oppbevaring i kontantkassen undertegnes av Hoffsjefen og en annen ansatt. Hoffsjefen fastsetter nærmere regler, blant annet om disponering og betryggende oppbevaring.
+
+## § 9. Kontroll og budsjettoppfølging
+
+Hoffsjefen har ansvar for at Det Kongelige Hoff har et system for tilfredsstillende økonomikontroll og for å påse at dette til enhver tid fungerer.
+
+Regnskapsføring av ut- og innbetalinger skal skje uten unødvendig opphold. Alle bankkonti og beholdningskonti skal avstemmes jevnlig.
+
+Hoffsjefen fastsetter regler om intern rapportering i løpet av året av regnskapstall og bestillinger sammenholdt med internbudsjettet, med sikte på å holde forbruket innenfor disponibelt beløp. Samtidig må det påses at de oppgaver som er forutsatt i budsjettet blir utført.
+
+Hoffsjefen fastsetter regler om begrensninger i adgangen for ansatte ved Det Kongelige Hoff til å motta gaver.
+
+## § 10. Årsavslutning og rapportering
+
+Hoffsjefen må påse at det etter årets utgang utarbeides årsregnskap i samsvar med regnskapsloven for bruken av de bevilgede midler med tillegg av regnskapsførte inntekter og eventuelle avsetninger. Videre må det utarbeides en årsrapport der årsregnskapet kort kommenteres, blant annet om hvilke formål midlene er brukt til, spesielt hva som er brukt til vedlikehold, jf. pkt. 3.3 og 4.1. Avsetninger for fremtidig bruk omtales. Årsrapport, årsregnskap og revisjonsberetning sendes AAD, Riksrevisjonen og Stortingets presidentskap innen den frist som departementet angir. Dokumentet skal ikke sendes Regnskapsregisteret.
+
+Det Kongelige Hoff beholder disposisjonsretten til utbetalte midler dersom årsregnskapet viser et positivt driftsresultat, og har alternativt ansvaret for å dekke et eventuelt negativt årsresultat.
+
+## § 11. Revisjon
+
+Det Kongelige Hoff skal ha statsautorisert revisor. Hoffsjefen velger hvilken statsautorisert revisor som skal forestå revisjonen. Valget skal være basert på konkurrerende tilbud og gjelder for en begrenset periode på ikke over fem år.
+
+## § 12. Behandling av verdipost og verdipapirer
+
+Verdipost og verdipapirer skal behandles på forsvarlig måte, blant annet gjennom oppbevaring i pengeskap. Hoffsjefen gir nødvendige presiseringer.
+
+## § 13. Oppbevaring og vedlikehold av materiell og utstyr – forsikring
+
+Hoffsjefen skal sørge for betryggende registrering og oppbevaring av materiell, utstyr, inventar og kunst som er eller blir kjøpt inn av Det Kongelige Hoff for statlige midler, eller er mottatt som ikke-private gaver.
+
+Siden Hoffsjefen også vil ha ansvaret for å registrere og oppbevare utstyr, inventar og kunst som er kongefamiliens personlige eiendom, må registreringssystemet tydelig markere hva som er statens eiendom og hva som er privat eiendom, etter retningslinjer fastsatt av Styringsmøtet, som det øverste beslutningsorgan for Det Kongelige Hoff.
+
+For materiell som anskaffes til løpende forbruk eller til lager, skal det sikres forsvarlig oversikt over beholdningene og kontroll med at beholdningene blir holdt på et rimelig nivå, og at uttaket skjer på økonomisk og rettmessig måte.
+
+Hoffsjefen har ansvaret for at det blir ført tilsyn med at utstyr og inventar blir forsvarlig vedlikeholdt, og at det blir opprettet service- og vedlikeholdsavtaler der dette er hensiktsmessig.
+
+For kassasjon og salg fastsetter Hoffsjefen nærmere regler.
+
+Staten står som selvassurandør for statens løsøre og innredning i de kongelige eiendommer, med mindre annet er bestemt av Finansdepartementet.
+
+## § 14. Ikrafttreden
+
+Dette reglement trer i kraft umiddelbart.

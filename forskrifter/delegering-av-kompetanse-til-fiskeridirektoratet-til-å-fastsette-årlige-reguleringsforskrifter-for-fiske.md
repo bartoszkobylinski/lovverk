@@ -1,0 +1,78 @@
+---
+id: "sf-20011016-4686"
+slug: "delegering-av-kompetanse-til-fiskeridirektoratet-til-å-fastsette-årlige-reguleringsforskrifter-for-fiske"
+type: "forskrift"
+ref_id: "forskrift/2001-10-16-4686"
+title: "Delegering av kompetanse til Fiskeridirektoratet til å fastsette årlige reguleringsforskrifter for fiske"
+short_title: null
+language: "no"
+ministry:
+  - "Nærings- og fiskeridepartementet"
+date_in_force: "2001-10-16"
+last_change_in_force: "2021-12-10"
+last_updated: "2016-03-22"
+xml_hash: "ada64b16f17761bb4b29a68d0419f2b726d793d85edadde6b7c517a8f903dfce"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Delegering av kompetanse til Fiskeridirektoratet til å fastsette årlige reguleringsforskrifter for fiske
+
+Vi viser til Fiskeridepartementets brev 16. oktober 2000 nr. 1670 om delegering av kompetanse til å fastsette årlige reguleringsforskrifter etter inngåelse av kvoteavtaler med andre land. Bakgrunnen for dette var at de politiske vurderingene er lagt gjennom de inngåtte kvoteavtalene og at reguleringsforskriftene kun er en iverksettelse av de aktuelle avtalene.
+
+Det er departementets oppfatning at delegeringen har fungert hensiktsmessig. Departementet ønsker derfor å forenkle prosessen med fastsettelse av årlige reguleringsforskrifter ytterligere.
+
+Fiskeri- og kystdepartementets kompetanse etter [havressursloven § 11](lov/2008-06-06-37/§11), [§ 12](lov/2008-06-06-37/§12), [§ 13](lov/2008-06-06-37/§13), [§ 15](lov/2008-06-06-37/§15), [§ 16](lov/2008-06-06-37/§16), [§ 26](lov/2008-06-06-37/§26), [§ 27](lov/2008-06-06-37/§27), [§ 36](lov/2008-06-06-37/§36), [§ 37](lov/2008-06-06-37/§37) og [§ 47](lov/2008-06-06-37/§47) samt [deltakerloven § 20](lov/1999-03-26-15/§20) og § [21](lov/1999-03-26-15/§21), jf. kongelig [resolusjon 11. februar 2000 nr. 99](forskrift/2000-02-11-99) til å fastsette årlige reguleringsforskrifter, delegeres til Fiskeridirektoratet i følgende tilfeller;Forskrifter om regulering av fiske som foregår i NAFO-området.Forskrift om regulering av fisket etter lodde ved Grønland, Island og Jan Mayen, som fastsettes for en sesong av gangen.
+
+Delegering av kompetanse forutsettes også å omfatte endringer i de nevnte forskriftene.
+
+Den kompetanse som med dette er delegert, skal utøves i samsvar med regler som er fastsatt i eller i medhold av de aktuelle lovene og de instrukser som er eller blir gitt av departementet.
+
+En oversikt over de reguleringsforskrifter som Fiskeridirektoratet etter dette er gitt kompetanse til å fastsette følger vedlagt. Fiskeridirektoratet gis dessuten kompetanse til å fastsette forskrift i medhold av [havressursloven § 14](lov/2008-06-06-37/§14) om kvotebytte i eller mellom fiskeriene som er nevnt i vedlegget, og mellom fisket etter kolmule og fiskerier nevnt i vedlegget.
+
+> Endret ved vedtak [12 des 2008 nr. 1356](forskrift/2008-12-12-1356), [10 des 2021 nr. 3462](forskrift/2021-12-10-3462).
+
+## Vedlegg. Reguleringsforskrifter delegert til Fiskeridirektoratet
+
+- Norsk fiske etter rognkjeks i Nordland, Troms og Finnmark
+- Norsk fiske etter brisling i NØS og i EU-sonen i Nordsjøen og Skagerrak
+- Norsk fiske etter rødspette i Skagerrak og Nordsjøen
+- Norsk fiske etter dyphavsarter
+- Norsk fiske etter sjøtunge
+- Norsk fiske etter bunnfisk i grønlandsk fiskeriterritorium
+- Norsk fiske etter reker ved Øst-Grønland
+- Norsk fiske i færøysk sone
+- Norsk forsøksfiske etter blåkveite og breiflabb ved Færøyene
+- Norsk fiske etter brosme, lange og blålange i Islands økonomiske sone
+- Norsk fiske etter lodde ved Island, Grønland og Jan Mayen
+- Norsk fiske etter reker i NAFO-området
+- Norsk fiske etter uer i ICES' statistikkområder XII og XIV og NAFO-område 1F utenfor noen stats jurisdiksjon (internasjonalt område)
+- Fiske med fartøy som fører russisk flagg i NØS og i fiskerisonen ved Jan Mayen
+- Fiske med fartøy som fører flagg fra medlemsstater i EU i NØS og i fiskerisonen ved Jan Mayen
+- Fiske med fartøy som fører svensk flagg i NØS sør for 62° N
+- Fiske med fartøy som fører islandsk flagg i NØS og fiskerisonen ved Jan Mayen
+- Fiske med fartøy som fører færøysk flagg i NØS og fiskerisonen ved Jan Mayen
+- Fiske med fartøy som fører grønlandsk flagg i NØS
+- Fiske med fartøy som fører polsk flagg i NØS og i fiskerisonen ved Jan Mayen
+- Enkeltvedtak etter [havressurslova § 13](lov/2008-06-06-37/§13)
+- Norsk fiske etter torsk i NAFO-området
+- Norsk fiske etter tobis
+- Norsk fiske etter øyepål
+- Norsk fiske etter vassild
+- Norsk fiske etter hestmakrell
+- Norsk fiske etter nordsjøsild
+- Norsk fiske etter reker i Nordsjøen og Skagerrak
+- Norsk fiske etter sei i Nordsjøen og Skagerrak
+- Norsk fiske etter lodde i Barentshavet
+- Norsk fiske etter lodde ved Grønland, Island og Jan Mayen
+- Norsk fiske etter blåkveite
+- Norsk fiske etter leppefisk
+- Norsk fiske etter rødåte.
+
+Forskrifter som fastsettes med hjemmel i ovennevnte forskrifter er ikke tatt med i oversikten – eks. forskrift om utøvelse av fisket etter bunnfisk i grønlandsk fiskeriterritorium mfl. Slike forskrifter fastsettes som før av direktoratet.
+
+> Endret ved [vedtak 24 sep 2008 nr. 1072](forskrift/2008-09-24-1072), [12 des 2008 nr. 1356](forskrift/2008-12-12-1356), [29 jan 2009 nr. 83](forskrift/2009-01-29-83), [19 nov 2009 nr. 1390](forskrift/2009-11-19-1390), [10 mars 2015 nr. 889](forskrift/2015-03-10-889), [16 okt 2018 nr. 1576](forskrift/2018-10-16-1576), [13 mars 2019 nr. 224](forskrift/2019-03-13-224).

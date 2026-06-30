@@ -1,0 +1,101 @@
+---
+id: "sf-20220705-1292"
+slug: "instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften"
+type: "forskrift"
+ref_id: "forskrift/2022-07-05-1292"
+title: "Instruks til Debio og Mattilsynet tilsynet om utøvelse av delegert myndighet etter økologiforskriften"
+short_title: null
+language: "no"
+ministry:
+  - "Landbruks- og matdepartementet"
+date_in_force: "2022-07-05"
+last_change_in_force: "2025-05-20"
+last_updated: null
+xml_hash: "c71f1dda042fcd98898d51d2c45c046f50badf96089fa9ea461de559e82dce24"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Instruks til Debio og Mattilsynet tilsynet om utøvelse av delegert myndighet etter økologiforskriften
+
+## I
+
+### 1. Debio
+
+Dersom det konstateres overtredelser av bestemmelsene i [økologiforskriften](forskrift/2022-06-11-1171) kan Debio i enkeltvedtak påby at henvisninger til økologisk produksjonsmetode skal fjernes fra det aktuelle produktet, partiet eller hele produksjonen.
+
+Dersom det konstateres klare eller gjentatte overtredelser av bestemmelsene i [økologiforskriften](forskrift/2022-06-11-1171) eller overtredelser av bestemmelsene i forskriften som kan ha langvarig virkning, kan Debio i enkeltvedtak forby virksomheten å markedsføre produkter med henvisning til økologisk produksjonsmetode for en periode på inntil seks måneder. Produktene kan likevel markedsføres uten henvisning til økologisk produksjonsmetode.
+
+Overtredelse av bestemmelsene i [økologiforskriften](forskrift/2022-06-11-1171) og vedtak gitt i medhold av forskriften er straffbart etter [matloven § 28](lov/2003-12-19-124/§28).
+
+Debio kan også som ledd i sin saksbehandling i enkeltvedtak avslå en søknad om tilknytning til kontrollordningen, nekte fornyelse eller utvidelse av godkjenningen til en allerede tilknyttet virksomhet og kreve ny omlegging (karenstid) dersom vilkårene for å være tilknyttet kontrollordningen ikke er til stede. I slike tilfeller kan det eventuelt også settes frister for retting av feilene slik at godkjenning kan gis på et senere tidspunkt. Dersom det er mistanke om at et produkt ikke oppfyller kravene i [økologiforskriften](forskrift/2022-06-11-1171), skal Debio midlertidig forby omsetning av de aktuelle produktene som økologiske, jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 41 nr. 1 bokstav b.
+
+Debio skal følge opp overtredelser av bestemmelsene i [økologiforskriften](forskrift/2022-06-11-1171) med enkeltvedtak som er i tråd med avvikskatalogen som Mattilsynet har utarbeidet. Vedtakene skal være forholdsmessige, effektive og skal ha preventiv effekt. Debio skal videre kontrollere at pålegg, forbud og sanksjoner mv. etterleves av virksomhetene.
+
+Dersom Debios påbud og forbud og sanksjoner mv. jf. ovenfor ikke etterleves, og det skulle bli nødvendig med en opptrapping av virkemiddelbruken overfor virksomheten, skal saken oversendes til Mattilsynet tilsynet i det aktuelle området for oppfølging.
+
+Kravene i [økologiforskriften](forskrift/2022-06-11-1171) gjelder som frivillig tillegg til andre krav som stilles til virksomhetene i øvrig regelverk som håndheves av Mattilsynet eller andre offentlige etater, for eksempel om hygiene, helse, velferd, merking og miljøovervåking. Et grunnvilkår som må være oppfylt for at en virksomhet skal kunne drive økologisk produksjon eller markedsføre produkter som økologiske mv. er derfor at virksomheten overholder alle de krav som stilles i øvrig obligatorisk regelverk. Dersom Debio ved inspeksjon i en virksomhet oppdager forhold som kan tenkes å være overtredelser av øvrig regelverk som håndheves av Mattilsynet eller andre etater, skal Debio varsle henholdsvis Mattilsynet tilsynet i det aktuelle området eller andre etater om dette skriftlig. I et slikt tilfelle kan ikke virksomheten få fornyet godkjenning for økologisk produksjon mv. før det er avklart om virksomheten overholder kravene i det øvrige generelle og spesielle regelverket.
+
+Når Debio fører tilsyn og fatter vedtak etter [økologiforskriften](forskrift/2022-06-11-1171) er Debio å anse som et forvaltningsorgan, og pålegges derfor å følge bestemmelsene i [forvaltningsloven](lov/1967-02-10), [offentleglova](lov/2006-05-19-16) og alminnelige forvaltningsmessige prinsipper. Dette omfatter også plikt til å veilede om regelverket.
+
+Debio skal også motta og saksforberede søknader om dispensasjon og oversende en begrunnet innstilling til Mattilsynet i dispensasjonssaker. Innstillinger oversendes sammen med alle dokumenter som er relevante for saken. For eksempel vil det ofte være nødvendig å oversende virksomhetens beskrivelse av driften. Debio skal for øvrig gi råd og bistand til Mattilsynet i det løpende arbeidet på økologiområdet nasjonalt og internasjonalt.
+
+Debio skal føre tilsyn med at virksomhetene etterlever vilkår i tillatelser og dispensasjoner gitt av Mattilsynet.
+
+Ved usikkerhet om tolkningen av økologiregelverket, delegeringsvedtaket med eventuelle tilhørende instrukser og avtaler skal Debio ta kontakt med Mattilsynet.
+
+Debio skal utarbeide en plan for tilleggskontroller, uanmeldte kontroller og prøvetaking som skal utføres i løpet av året og en prosedyre for risikovurdering av virksomheter.
+
+Debio skal utføre minst 10 prosent tilleggskontroller og minst 10 prosent uanmeldte kontrollbesøk. Dette følger av [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 38 nr. 4 og [økologiforskriften § 3](forskrift/2022-06-11-1171/§3) bokstav e, jf. forordning [(EU) 2021/279](eu/32021r0279) artikkel 7. Tilleggskontrollene skal i hovedsak være uanmeldte. Risikovurderingen av virksomhetene skal ligge til grunn for utvelgelsen av virksomheter som skal ha tilleggs- og uanmeldte kontroller, samt for utvelgelse av virksomheter hvor det skal tas prøver.
+
+> Endret ved vedtak [20 mai 2025 nr. 825](forskrift/2025-05-20-825).
+
+### 2. Særlig om rapportering fra Debio til Mattilsynet
+
+Debio skal ha interne rutiner som sikrer at tall og annen informasjon som rapporteres til Mattilsynet er tilstrekkelig kvalitetssikret før informasjonen oversende
+
+Dersom Debio avdekker regelverkovertredelser som påvirker produktenes økologiske status og derfor fatter vedtak om fjerning av merking, forbud mot markedsføring, om at ny omleggingsperiode må gjennomføres, vedtak om å ikke fornye godkjenningen eller vedtak om at godkjenningen trekkes tilbake helt eller delvis, skal Debio uten opphold informere Mattilsynet. Dette innebærer at Debio skal varsle Mattilsynet innen 24 timer etter at vedtak om avvik ble fattet.
+
+Debio skal løpende oversende til Mattilsynet alle rapporter de mottar fra Norsk Akkreditering angående deres tilsyn med Debio.
+
+Debio skal hvert kvartal sende Mattilsynet en rapport. Rapporten skal inneholde en oversikt over utviklingen i antallet virksomheter som er omfattet av kontrollordningen, det vil si antallet innmeldte og utmeldte virksomheter hittil i året.
+
+Rapporten skal også inneholde informasjon om antall tilleggskontroller og uanmeldte kontroller som er gjennomført hittil i året, og informasjon om i hvilken grad kontrollene er gjennomført i henhold til den årlige planen for slike kontroller.
+
+Videre skal rapporten inneholde en oversikt over alle tilfeller av avvik i kategorien «mindre avvik» for hvert kvartal.
+
+Det skal også framgå av kvartalsrapporten hvordan Debio har fulgt opp virksomheter med sikte på en eventuell tilknytning til kontrollordningen når Debio har fått kjennskap til at virksomheter som ikke er omfattet av kontrollordningen omsetter produkter som økologiske.
+
+Debio skal innen 31. januar hvert år oversende Mattilsynet en liste over driftsansvarlige som var underlagt deres kontroll per 31. desember det foregående året, jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 40 nr. 10. Innen 31. januar skal Debio også oversende årets plan for tilleggskontroller, uanmeldte kontroller og prosedyren for risikovurdering av virksomhetene.
+
+Debio skal også oversende opplysninger om offentlig kontroll og annen offentlig virksomhet som ble utført foregående år, til støtte for utarbeiding til den årlige rapporten nevnt i [forskrift om offentlig kontroll på matområdet § 2](forskrift/2020-03-03-704/§2), jf. forordning [(EU) 2017/625](eu/32017r0625) artikkel 113 innen 1. juni hvert år.
+
+Opplysninger fra økodatabasen skal rapporteres til Mattilsynet innen 1. juni, jf. [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 53 punkt 6 bokstav a og b, jf. vedlegg II del I punkt 1.8.5.1, samt [økologiforskriften § 3](forskrift/2022-06-11-1171/§3) bokstav b, jf. forordning [(EU) 2020/464](eu/32020r0464) artikkel 25, jf. vedlegg III, del I.
+
+Et utkast til plan for prøvetaking som skal utføres det påfølgende året skal sendes innen 10. desember. Som grunnlag for Mattilsynets risikobaserte prøvetaking av importerte produkter skal Debio innen samme dato også oversende en oversikt over alle importvirksomheter sortert på risikoklasse.
+
+Debio skal publisere en oppdatert liste med navn og adresser til alle virksomheter som er omfattet av kontrollordningen på sine hjemmesider.
+
+### 3. Mattilsynet tilsynet
+
+Som nevnt ovenfor i punkt 1.1 skal Mattilsynet tilsynet i de aktuelle områder etter anmodning fra Debio overta oppfølgingen av saker der Debios bruk av sanksjoner og virkemidler ikke etterkommes av virksomheten. Mattilsynet tilsynet skal også etter anmodning fra Debio ta stilling til om en virksomhet skal anmeldes til politiet for spesielt grove overtredelser av bestemmelsene i [økologiforskriften](forskrift/2022-06-11-1171).
+
+Mattilsynet tilsynet skal også følge opp saker om uriktig henvisning til økologisk produksjonsmetode dersom de ved tilsyn oppdager økologisk merking i virksomheter som ikke er tilknyttet kontrollordningen og derfor ikke blir kontrollert av Debio.
+
+Storkjøkkenvirksomheter er ikke omfattet av virkeområdet for [økologiforskriften](forskrift/2022-06-11-1171). Videre er enkelte detaljister unntatt fra plikten til å være tilknyttet kontrollordningen etter [økologiforskriften](forskrift/2022-06-11-1171). Saker om uriktig henvisning til økologiske produksjonsmetode i slike virksomheter, følges derfor opp av Mattilsynet tilsynet og ikke av Debio. Ettersom storkjøkkenvirksomhet ikke er omfattet av [økologiforskriften](forskrift/2022-06-11-1171), skal saker om uriktig henvisning til den økologiske produksjonsmetoden i slike virksomheter følges opp etter [matinformasjonsforskriften § 1](forskrift/2014-11-28-1497/§1), jf. matinformasjonsforordningen artikkel 7 om villedende merking.
+
+Dersom Mattilsynet tilsynet oppdager at andre virksomheter omfattet av [økologiforskriften](forskrift/2022-06-11-1171) enn dem nevnt over bruker henvisning til økologisk produksjonsmetode uten å være tilknyttet kontrollordningen, skal det sendes skriftlig varsel til Debio, som skal ta kontakt med virksomhetene med sikte på eventuell tilknytning til kontrollordningen.
+
+Mattilsynet tilsynet skal etter anmodning fra Debio gi nødvendige opplysninger og yte nødvendig bistand dersom Debio trenger dette for å kunne ta stilling til om en virksomhet kan godkjennes for økologisk produksjon eller markedsføring mv. av økologiske produkter, jf. ovenfor i punkt 1.1.
+
+Regionen skal oversende nødvendige data til hovedkontoret relatert unntak som er gitt i samsvar med [økologiforskriften § 2](forskrift/2022-06-11-1171/§2), jf. forordning [(EU) 2018/848](eu/32018r0848) artikkel 53 punkt 6 bokstav b, jf. vedlegg II del II punkt. 1.3.4.4, samt [økologiforskriften § 3](forskrift/2022-06-11-1171/§3) bokstav b, jf. forordning [(EU) 2020/464](eu/32020r0464) artikkel 25, punkt. 2 og 3, jf. vedlegg III, del II, innen 1. mai hvert år. Regionen skal også oversende en årlig oppsummering av rapportering som er gjennomført som følge av rapporteringskrav til Kommisjonen innen samme dato.
+
+> Endret ved vedtak [20 mai 2025 nr. 825](forskrift/2025-05-20-825).
+
+## II
+
+Instruksen trer i kraft straks. Samtidig oppheves [instruks 2. juli 2019 nr. 961 fra Mattilsynet ved Hovedkontoret til Debio og det regionale Mattilsynet om utøving av delegert myndighet etter økologiforskriften](forskrift/2019-07-02-961).

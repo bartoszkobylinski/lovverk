@@ -1,0 +1,107 @@
+---
+id: "sf-20251218-2748"
+slug: "stortingsvedtak-om-fastsetting-av-avgifter-mv-til-folketrygden-for-2026"
+type: "forskrift"
+ref_id: "forskrift/2025-12-18-2748"
+title: "Stortingsvedtak om fastsetting av avgifter mv. til folketrygden for 2026"
+short_title: null
+language: "nb"
+ministry:
+  - "Stortinget"
+date_in_force: null
+last_change_in_force: "2026-06-19"
+last_updated: null
+xml_hash: "5a89ca13c78bc49d965ebb8fb2f2210ab28f295ccdd01585bf1b6e2b3f5b5f60"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Stortingsvedtak om fastsetting av avgifter mv. til folketrygden for 2026
+
+For inntektsåret 2026 svares folketrygdavgifter etter følgende regler og satser, jf. [lov 28. februar 1997 nr. 19 om folketrygd kapittel 23](lov/1997-02-28-19/kap23):
+
+## Arbeidsgiveravgift
+
+### § 1. Beregning av avgift og regler om soneplassering
+
+(1) Arbeidsgiveravgift beregnes som hovedregel etter satsen som gjelder i den sonen hvor arbeidsgiver anses å drive virksomhet. Det kan likevel ikke benyttes redusert sats for virksomhet innenfor nærmere angitte sektorer eller når arbeidsgiver er i økonomiske vanskeligheter, jf. [§ 4](forskrift/2025-12-18-2748/§4) og [§ 3 annet ledd](forskrift/2025-12-18-2748/§3/ledd/2).
+
+(2) Et foretak som er arbeidsgiver, anses å drive virksomhet på det stedet hvor foretaket skal være registrert etter [enhetsregisterloven](lov/2025-06-20-105). En privatperson som er arbeidsgiver, anses å drive virksomhet på det stedet hvor vedkommende er bosatt ifølge folkeregisteret.
+
+(3) Dersom arbeidsgiver er et foretak med registrerte underenheter, jf. [forskrift 9. februar 1995 nr. 114 om registrering av juridiske personer m.m. i Enhetsregisteret § 10](forskrift/1995-02-09-114/§10), anses hver underenhet som egen beregningsenhet for arbeidsgiveravgift.
+
+(4) Utføres hoveddelen av arbeidstakerens arbeid i en annen sone enn der virksomheten anses å bli drevet etter annet ledd, og enhetsregisterreglene på grunn av virksomhetens art ikke påbyr at underenhet registreres i sonen hvor arbeidet utføres (ambulerende virksomhet), benyttes satsen i denne andre sonen hvor arbeidet utføres, på den del av lønn mv. som knytter seg til dette arbeidet. Dette gjelder likevel ikke for ambulerende virksomhet som ikke trenger å utføres på et bestemt sted (fjernarbeid), når arbeidet utføres i en sone med lavere sats. Med hoveddelen av arbeidet menes her mer enn halvparten av antall arbeidsdager arbeidstakeren har gjennomført for arbeidsgiveren i løpet av kalendermåneden. Arbeidsgiveravgift av etterbetaling av lønn mv., beregnes forholdsmessig med de satsene som skal benyttes på lønn mv. til den enkelte arbeidstaker, for arbeid utført i inneværende kalendermåned. For etterbetaling som er knyttet til aktiviteter som nevnt i [§ 4 første ledd](forskrift/2025-12-18-2748/§4/ledd/1), skal likevel arbeidsgiveravgift beregnes med satsen for sone I.
+
+(5) Flytter arbeidsgiveren eller underenheten fra én sone til en annen, legges satsen i tilflyttingssonen til grunn fra og med påfølgende kalendermåned etter registrert flyttedato.
+
+### § 2. Soner for arbeidsgiveravgift
+
+(1) Sone I omfatter de områder som ikke er nevnt nedenfor. Arbeidsgivere beregner avgiften etter satsen som gjelder for sone I, hvis ikke annet følger av dette vedtaket.
+
+(2) Sone Ia omfatter:kommunene Frosta, Midtre Gauldal og Selbu i Trøndelag fylke,kommunene Haram, Gjemnes og Aukra i Møre og Romsdal fylke,området i Hustadvika kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Eide i Møre og Romsdal fylke,kommunene Etne, Bømlo og Kvam i Vestland fylke,områdene i henholdsvis Kinn kommune, Sunnfjord kommune og Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Flora, Førde og Sogndal i Sogn og Fjordane fylke,kommunene Utsira og Kvitsøy i Rogaland fylke,kommunene Hægebostad, Sirdal og Iveland i Agder fylke,området i Lyngdal kommune i Agder fylke som før 1. januar 2020 var Audnedal kommune i Vest-Agder fylke,kommunen Sigdal i Buskerud fylke,kommunen Gausdal i Innlandet fylke.
+
+(3) Sone II omfatter:kommunene Meråker, Indre Fosen og Inderøy i Trøndelag fylke,områdene i henholdsvis Steinkjer kommune, Ørland kommune og Orkland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Verran, Ørland og Agdenes i Trøndelag fylke,kommunene Sande, Stranda, Sykkylven, Fjord, Vestnes, Rauma, Tingvoll og Sunndal i Møre og Romsdal fylke,områdene i henholdsvis Ålesund kommune og Molde kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunene Sandøy, Midsund og Nesset i Møre og Romsdal fylke,området i Volda kommune i Møre og Romsdal fylke som før 1. januar 2020 var kommunen Hornindal i Sogn og Fjordane fylke,kommunene Gulen, Solund, Hyllestad, Høyanger, Vik, Aurland, Lærdal, Årdal, Luster, Askvoll, Fjaler, Bremanger, Stad, Gloppen, Stryn, Tysnes, Kvinnherad, Ullensvang, Eidfjord, Ulvik, Modalen, Fedje og Masfjorden i Vestland fylke,området i Sunnfjord kommune i Vestland fylke som før 1. januar 2020 var kommunene Gaular, Jølster og Naustdal i Sogn og Fjordane fylke,området i Sogndal kommune i Vestland fylke som før 1. januar 2020 var kommunene Balestrand og Leikanger i Sogn og Fjordane fylke,området i Kinn kommune i Vestland fylke som før 1. januar 2020 var kommunen Vågsøy i Sogn og Fjordane fylke,området i Voss herad i Vestland fylke som før 1. januar 2020 var Granvin kommune i Hordaland fylke,kommunene Hjelmeland, Suldal og Sauda i Rogaland fylke,kommunene Risør, Gjerstad, Åmli, Bygland, Valle, Bykle, Åseral og Evje og Hornnes i Agder fylke,kommunene Drangedal, Nome, Tinn, Hjartdal, Seljord, Kviteseid, Nissedal, Fyresdal, Tokke og Vinje i Telemark fylke,kommunene Flå, Nesbyen, Gol, Hemsedal, Ål, Hol, Rollag og Nore og Uvdal i Buskerud fylke,kommunene Nord-Fron, Sør-Fron, Ringebu, Søndre Land, Nordre Land, Kongsvinger, Nord-Odal, Sør-Odal, Eidskog, Grue, Åsnes, Våler, Trysil og Åmot i Innlandet fylke.
+
+(4) Sone III omfatter:kommunene Heim, Hitra, Frøya, Oppdal, Rennebu, Røros, Holtålen, Tydal og Rindal i Trøndelag fylke,området i Orkland kommune i Trøndelag fylke som før 1. januar 2020 var del av kommunen Snillfjord i Trøndelag fylke,området i henholdsvis Orkland kommune og Ørland kommune i Trøndelag fylke som før 1. januar 2020 var kommunene Meldal og Bjugn i Trøndelag fylke,kommunene Vanylven, Surnadal og Aure i Møre og Romsdal fylke,kommunene Dovre, Lesja, Skjåk, Lom, Vågå, Sel, Sør-Aurdal, Etnedal, Nord-Aurdal, Vestre Slidre, Øystre Slidre, Vang, Stor-Elvdal, Rendalen, Engerdal, Tolga, Tynset, Alvdal, Folldal og Os i Innlandet fylke.
+
+(5) Sone IV omfatter:kommunene Balsfjord, Bardu, Dyrøy, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Målselv, Salangen, Senja, Sørreisa og Tjeldsund i Troms fylke,Nordland fylke, med unntak av kommunen Bodø,kommunene Namsos, Snåsa, Lierne, Røyrvik, Namsskogan, Grong, Høylandet, Overhalla, Flatanger, Nærøysund, Leka, Åfjord og Osen i Trøndelag fylke,kommunen Smøla i Møre og Romsdal fylke.
+
+(6) Sone IVa omfatter:kommunen Tromsø i Troms fylke,kommunen Bodø i Nordland fylke.
+
+(7) Sone V omfatter:Finnmark fylke og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke.
+
+### § 3. Satser for arbeidsgiveravgift etter sone
+
+(1) Satsene for arbeidsgiveravgift for inntektsåret 2026 er:Sone I: 14,1 pst.Sone Ia: 14,1 pst., men likevel 10,6 pst. så lenge differansen mellom den avgift som ville følge av satser på henholdsvis 14,1 pst. og 10,6 pst. ikke overstiger grensene for bagatellmessig støtte, jf. [§ 4 fjerde](forskrift/2025-12-18-2748/§4/ledd/4) og [femte ledd](forskrift/2025-12-18-2748/§4/ledd/5). Bestemmelsene om redusert avgiftssats i sone Ia gjelder ikke foretak som er omfattet av [helseforetaksloven](lov/2001-06-15-93), og statsforvaltningen som omfattes av reglene i [folketrygdloven § 24-5 tredje ledd](lov/1997-02-28-19/§24-5/ledd/3).Sone II: 10,6 pst.Sone III: 6,4 pst.Sone IV: 5,1 pst.Sone IVa: 7,9 pst.Sone V: 0 pst. Samme sats gjelder for avgift som svares av arbeidsgivere hjemmehørende på Svalbard for arbeid utført der, og når andre arbeidsgivere utbetaler lønn og annen godtgjørelse som blir skattlagt etter [lov 29. november 1996 nr. 68 om skatt til Svalbard](lov/1996-11-29-68).
+
+(2) Arbeidsgivere som er i økonomiske vanskeligheter, jf. ESAs retningslinjer for støtte til foretak i vanskeligheter, må beregne avgift etter satsen som gjelder i sone I. Det samme gjelder arbeidsgivere med utestående krav om tilbakebetaling av ulovlig statsstøtte etter vedtak fattet av ESA, jf. avsnitt III i protokoll 3 til avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA). Bestemmelsen i første og annet punktum gjelder likevel ikke så lenge differansen mellom den avgiften som ville følge av satsen i lokaliseringssonen og satsen i sone I, ikke overstiger grensene for bagatellmessig støtte, jf. [§ 4 fjerde](forskrift/2025-12-18-2748/§4/ledd/4) og [femte ledd](forskrift/2025-12-18-2748/§4/ledd/5).
+
+(3) Arbeidsgivere som beregner arbeidsgiveravgift med reduserte satser, plikter å avgi erklæring om hvorvidt foretaket er i økonomiske vanskeligheter eller har utestående krav om tilbakebetaling av ulovlig støtte, jf. annet ledd.
+
+(4) Arbeidsgivere som beregner arbeidsgiveravgift med reduserte satser, plikter å gi opplysninger om eventuell annen støtte til dekning av lønnskostnader som arbeidsgiver har blitt eller blir tildelt for kalendermåneden.
+
+### § 4. Særregler om avgiftssats og avgiftsberegning for arbeidsgivere med aktiviteter innenfor visse sektorer og andre arbeidsgivere som beregner avgift med redusert sats etter reglene om bagatellmessig støtte
+
+(1) Arbeidsgivere i sonene II–V, eller med ambulerende virksomhet i disse sonene, som utfører en eller flere av følgende aktiviteter, skal beregne avgift etter satsen for sone I:Aktiviteter knyttet til produksjon av stålprodukter som nevnt i Annex VI til ESAs retningslinjer for regionalstøtte 2022–2027Aktiviteter i kullsektoren, slik dette er definert i ESAs retningslinjer for regionalstøtteTilsvarende gjelder for lønn mv. til utleide arbeidstakere som utfører slike aktiviteter.
+
+(2) Arbeidsgivere med blandet virksomhet kan, dersom de har et klart regnskapsmessig skille mellom lønn mv. knyttet til aktiviteter som nevnt i første ledd og andre aktiviteter, uten hinder av første ledd beregne avgiften etter satsene i [§ 3](forskrift/2025-12-18-2748/§3), eventuelt i [§ 5](forskrift/2025-12-18-2748/§5), for den del av avgiftsgrunnlaget som ikke er knyttet til aktiviteter som nevnt i første ledd.
+
+(3) Arbeidsgivere med en av følgende aktiviteter som hovedaktivitet, skal beregne avgift etter satsen for sone I for alle ansatte:Aktiviteter omfattet av Næringshovedområde L – Finansiell tjenesteytingAktiviteter omfattet av 70.10 Hovedkontortjenester eller 70.22 Bedriftsrådgivning og annen administrativ rådgivning, når disse ytes innenfor konsernArbeidsgivere som leier ut ansatte til en arbeidsgiver som nevnt i første punktum, skal beregne avgift etter satsen som gjelder for sone I for utleieperioden.
+
+(4) Arbeidsgivere kan uten hinder av første ledd beregne arbeidsgiveravgift for aktiviteter som nevnt i første ledd etter satsene for lokaliseringssonen, så lenge differansen mellom den avgift som ville følge av satsen i lokaliseringssonen, og satsen i sone I ikke overstiger 850 000 kroner for arbeidsgiveren i 2026. Dersom arbeidsgiver anses å være en del av et konsern, jf. Europakommisjonens forordning om bagatellmessig støtte, gjelder beløpsgrensen for hele konsernet under ett. Første og annet punktum gjelder tilsvarende for arbeidsgivere som nevnt i tredje ledd.
+
+(5) Når en arbeidsgiver beregner avgift med redusert sats i sone Ia eller etter fjerde ledd, kan den samlede fordelen av bagatellmessig støtte i form av redusert avgift og annen bagatellmessig støtte til arbeidsgiveren ikke overstige 850 000 kroner i 2026, jf. Europakommisjonens forordning om bagatellmessig støtte. Arbeidsgiver som mottar annen støtte til dekning av lønn mv., kan ikke beregne redusert avgift etter bestemmelsene i denne paragraf, dersom det fører til at maksimal tillatt statsstøtte etter disse andre ordningene overskrides.
+
+(6) Arbeidsgivere som beregner avgift med redusert sats etter bestemmelsene i fjerde og femte ledd, plikter å gi opplysninger om eventuell annen bagatellmessig støtte og støtte til dekning av lønnskostnader som arbeidsgiver har blitt eller blir tildelt for kalendermåneden.
+
+> Endret ved vedtak [19 juni 2026 nr. 1244](forskrift/2026-06-19-1244).
+
+### § 5. Særregel om avgiftssats for aktiviteter knyttet til produkter som ikke omfattes av EØS-avtalen
+
+Arbeidsgivere som utfører aktiviteter knyttet til produksjon, foredling og engroshandel av produkter som ikke omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl), jf. avtalens § 8, beregner arbeidsgiveravgift med 5,1 pst. når virksomheten drives i sone IVa, og med 10,6 pst. når den drives i sone Ia. Dette gjelder aktiviteter som er omfattet av næringskodene i tabellen nedenfor. Dersom arbeidsgiver også utfører andre aktiviteter enn de som er nevnt nedenfor, gjelder [§ 4 annet ledd](forskrift/2025-12-18-2748/§4/ledd/2) om blandet virksomhet tilsvarende.*Næringskode, jf. Norsk standard for næringsgruppering (SN2007)*01.1–01.3Dyrking av ettårige vekster, flerårige vekster og planteformering01.4Husdyrhold01.5Kombinert husdyrhold og planteproduksjon01.6Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting01.7Jakt, viltstell og tjenester tilknyttet jakt og viltstell02.1–02.3Skogskjøtsel og andre skogbruksaktiviteter, avvirkning og innsamling av viltvoksende produkter av annet enn tre og del av 16.10 (produksjon av pæler)02.40Tjenester tilknyttet skogbruk (med unntak av tømmermåling)03.11–03.12Hav- og kystfiske og fangst og ferskvannsfiske03.21–03.22Hav- og kystbasert akvakultur og ferskvannsbasert akvakultur10.11–10.13Bearbeiding og konservering av kjøtt og fjørfekjøtt og produksjon av kjøtt- og fjørfevarer10.20Bearbeiding og konservering av fisk, skalldyr og bløtdyr10.3Bearbeiding og konservering av frukt og grønnsaker10.4Produksjon av vegetabilske og animalske oljer og fettstoffer10.5Produksjon av meierivarer og iskrem10.6Produksjon av kornvarer, stivelse og stivelsesprodukter, samt del av 10.89 (produksjon av kunstig honning og karamell)10.85Produksjon av ferdigmat10.9Produksjon av fôrvarer46.2Engroshandel med jordbruksråvarer og levende dyr46.31Engroshandel med frukt og grønnsaker, samt del av 10.39 (produksjon av skrellede grønnsaker og blandede salater)46.32Engroshandel med kjøtt og kjøttvarer46.33Engroshandel med meierivarer, egg, matolje og -fett46.381Engroshandel med fisk, skalldyr og bløtdyr50.202Innenriks sjøtransport med gods, men bare for så vidt gjelder drift av brønnbåter52.10Lagring, men bare for så vidt gjelder drift av kornsiloer.
+
+## Trygdeavgift
+
+### § 6. Trygdeavgift av pensjon mv.
+
+Av pensjon i og utenfor arbeidsforhold, føderåd, livrente som ledd i pensjonsordning i arbeidsforhold, engangsutbetaling fra pensjonsordning etter [innskuddspensjonsloven](lov/2000-11-24-81), engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet, engangsutbetaling fra pensjonsavtale etter [lov om individuell pensjonsordning](lov/2008-06-27-62) og personinntekt for skattyter under 17 år og over 69 år, som nevnt i [folketrygdloven § 23-3 annet ledd nr. 1](lov/1997-02-28-19/§23-3/ledd/2/nummer/1), beregnes trygdeavgift med 5,1 pst.
+
+### § 7. Trygdeavgift av lønnsinntekt mv.
+
+Av lønnsinntekt og annen personinntekt som nevnt i [folketrygdloven § 23-3 annet ledd nr. 2](lov/1997-02-28-19/§23-3/ledd/2/nummer/2), beregnes trygdeavgift med 7,6 pst.
+
+### § 8. Trygdeavgift av næringsinntekt mv.
+
+Av næringsinntekt og annen personinntekt som nevnt i [folketrygdloven § 23-3 annet ledd nr. 3](lov/1997-02-28-19/§23-3/ledd/2/nummer/3), beregnes trygdeavgift med 10,8 pst.
+
+## Andre bestemmelser
+
+### § 9. Forskriftsfullmakt mv.
+
+Departementet gir regler om grunnlag og satser for avgifter og tilskudd etter [folketrygdloven § 23-4](lov/1997-02-28-19/§23-4) for visse grupper av medlemmer i trygden. Satsen på 14,1 pst. skal legges til grunn for arbeidsgiveravgift fastsatt etter denne bestemmelsen.
+
+Departementet kan gi regler til utfylling og gjennomføring av bestemmelsene i [§ 1](forskrift/2025-12-18-2748/§1) til [§ 5](forskrift/2025-12-18-2748/§5).

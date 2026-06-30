@@ -1,0 +1,35 @@
+---
+id: "sf-20200701-1489"
+slug: "delegering-av-myndighet-til-å-tildele-vedtakskompetanse"
+type: "forskrift"
+ref_id: "forskrift/2020-07-01-1489"
+title: "Delegering av myndighet til å tildele vedtakskompetanse"
+short_title: "Delegering av myndighet til å tildele vedtakskompetanse"
+language: "no"
+ministry:
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "2020-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "fb044104e3973ac449fad9dc12951fb28bb3efce7687996a5fcd6216856c2873"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Delegering av myndighet til å tildele vedtakskompetanse
+
+Justis- og beredskapsdepartementet viser til delegeringsvedtakvedtak 17. mars 2020 nr. 381 i medhold av [forskrift 15. mars 2020 nr. 293](forskrift/2020-03-15-293) om bortvisning mv. av utlendinger uten oppholdstillatelse i riket av hensyn til folkehelsen. Fra 1. juli i år er forskriften erstattet av midlertidig [lov 19. juni 2020 nr. 83](lov/2020-06-19-83) om innreiserestriksjoner for utlendinger av hensyn til folkehelsen og [forskrift 29. juni 2020 nr. 1423](forskrift/2020-06-29-1423) om innreiserestriksjoner for utlendinger av hensyn til folkehelsen. Delegeringsvedtaket av 17. mars erstattes således av delegeringssvedtak i brevet her.
+
+Etter midl.lov om innreiserestriksjoner for utlendinger av hensyn til folkehelsen § 6 tredje ledd treffes vedtak om bortvisning av utlending uten oppholdstillatelse etter utlendingsloven av Utlendingsdirektoratet eller politiet. Etter § 6 tredje ledd andre punktum kan Justis- og beredskapsdepartementet tildele vedtakskompetanse til annen myndighet.
+
+Hensyn til bemanning og ressursdisponering til å utføre grensekontrolloppgaver, herunder midlertidig personkontroll på indre Schengen-grense, kan gi behov for å tildele vedtakskompetanse til Tolletaten og Forsvarets personell.
+
+For å effektivisere saksgangen delegerer Justis- og beredskapsdepartementet med dette myndigheten til å tildele vedtakskompetanse til Tolletaten og Forsvarets personell til Utlendingsdirektoratet og Politidirektoratet. Politidirektoratet kan delegere sin myndighet til å tildele vedtakskompetanse til politimestrene og Sysselmannen på Svalbard.
+
+Departementet presiserer at tildeling av vedtakskompetanse til disse myndighetene forutsetter at de har kapasitet og nødvendig kunnskap om vilkårene for bortvisning og om saksbehandlingen og UDIs retningslinjer, jf. lovens § 6 tredje ledd siste setning.
+
+Videre presiseres at UDIs instruksjonsadgang også gjelder overfor disse myndighetenes utøvelse av tildelt vedtakskompetanse.

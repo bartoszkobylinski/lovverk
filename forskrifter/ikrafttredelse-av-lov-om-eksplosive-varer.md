@@ -1,0 +1,54 @@
+---
+id: "sf-19770318-4194"
+slug: "ikrafttredelse-av-lov-om-eksplosive-varer"
+type: "forskrift"
+ref_id: "forskrift/1977-03-18-4194"
+title: "Ikraftredelse av lov av 14. juni 1974 nr. 39 om eksplosive varer. Delegasjon av fullmakt m.v."
+short_title: "Ikrafttredelse av lov om eksplosive varer."
+language: "no"
+ministry:
+  - "Arbeids- og inkluderingsdepartementet"
+  - "Justis- og beredskapsdepartementet"
+date_in_force: "1977-04-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "cf44a959e066230c0c1e2365b6401e58951319e3bcf93fd30f81cbe17648899b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Ikraftredelse av lov av 14. juni 1974 nr. 39 om eksplosive varer. Delegasjon av fullmakt m.v.
+
+## I
+
+Loven med unntak av § 3 første ledd trer i kraft 1. april 1977 for Norge utenom Svalbard.
+
+## II
+
+Lovens § 3 første ledd trer i kraft 1. april 1978 for Norge utenom Svalbard.
+
+## III
+
+I medhold av lovens § 1 annet ledd b bestemmes at de bestemmelser om transport av eksplosiv vare som er gitt i eller i medhold av loven, også skal gjelde for transport av eksplosiv vare som er bestemt for eller som tilhører Forsvaret, når transporten ikke er undergitt militær kommando.
+
+## IV
+
+I medhold av lovens § 2 siste ledd bestemmes at loven ikke skal gjelde for eksplosiv vare som utelukkende brukes til eller som er bestemt for fremstilling av legemidler.
+
+## V
+
+I medhold av lovens § 25 bestemmes at tillatelse til erverv av eksplosiv vare skal gis av politimesteren i det distrikt hvor varen skal brukes eller av politiet (lensmannen) på det stedet hvor varen skal brukes, etter nærmere regler fastsatt av Kommunal- og arbeidsdepartementet. Departementet kan bestemme at tillatelsen til erverv av alle eller bestemte typer eksplosive varer skal gis av annen myndighet.
+
+## VI
+
+I medhold av lovens § 26 bestemmes at tillatelse til handel med pyroteknisk vare gis av brannstyret i den kommune hvor virksomheten skal drives. Tillatelse til handel med annen eksplosiv vare gis av politimesteren i det distrikt hvor virksomheten drives. Kommunal- og arbeidsdepartementet kan bestemme at tillatelse til å drive handel med alle eller bestemte typer eksplosive varer skal gis av annen myndighet.
+
+## VII
+
+I bestemmelser om skytevåpen og ammunisjon fastsatt ved kgl. res. av 25. januar 1963 i medhold av lov 9. juni 1961 om skytevåpen og ammunisjon gjøres følgende endringer:
+
+Under del II oppheves punkt 4 første ledd og punkt 5.

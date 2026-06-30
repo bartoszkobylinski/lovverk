@@ -1,0 +1,55 @@
+---
+id: "sf-20191108-1491"
+slug: "delegering-av-myndighet-etter-lov-om-elektroniske-tillitstjenester"
+type: "forskrift"
+ref_id: "forskrift/2019-11-08-1491"
+title: "Delegering av myndighet etter lov om elektroniske tillitstjenester"
+short_title: null
+language: "no"
+ministry:
+  - "Digitaliserings- og forvaltningsdepartementet"
+date_in_force: "2019-11-08"
+last_change_in_force: null
+last_updated: "2024-01-02"
+xml_hash: "821051de9947197f58ce86921de02cbf826a67433a0a6cf7b16171504e9f63a7"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Delegering av myndighet etter lov om elektroniske tillitstjenester
+
+## I
+
+Pkt. I av [kgl.res. 15. juni 2018 nr. 874](forskrift/2018-06-15-874) om delegering av Kongens myndighet etter [lov 15. juni 2018 nr. 44](lov/2018-06-15-44) om elektroniske tillitstjenester, oppheves.
+
+## II
+
+Kommunal- og moderniseringsdepartementet delegeres myndighet etter følgende bestemmelser i [lov 15. juni 2018 nr. 44](lov/2018-06-15-44) om elektroniske tillitstjenester:
+
+§ 1 annet ledd (myndighet til å gi forskrift om etablering av et felles tillitsmerke, om tillitslister, om akkreditering av samsvarsvurderingsorganer, om utforming av samsvarsvurderingsrapport og regler for gjennomføring av samsvarsrevisjoner, om krav til og sertifisering av kvalifiserte elektroniske signatur- og seglfremstillingssystemer, om kvalifiserte valideringstjenester for elektronisk signatur og elektronisk segl).
+
+§ 1 tredje ledd (myndighet til å fastsette hvilket organ som skal være meldingsmyndighet overfor Europakommisjonen).
+
+§ 1 fjerde ledd (myndighet til å fastsette hvilket organ som skal opprette, ajourføre og offentliggjøre en tillitsliste).
+
+§ 1 femte ledd (myndighet til å fastsette hvilket organ som skal godkjenne kvalifiserte elektroniske signaturfremstillingssystemer).
+
+§ 3 første ledd (myndighet til å fastsette hvilket organ som skal føre tilsyn med at bestemmelsene gitt i eller i medhold av loven, blir oppfylt).
+
+§ 3 femte ledd (myndighet til å gi forskrift om tilsynets virksomhet).
+
+§ 3 sjette ledd (myndighet til å gi forskrift om at tjenestetilbydere som er registreringspliktige etter § 1, skal betale avgift).
+
+§ 6 (myndighet til å fastsette hvilket organ tilsynets avgjørelser etter bestemmelser gitt i eller i medhold av loven, kan påklages til).
+
+§ 7 første ledd (myndighet til å gi forskrift om at tjenestetilbydere som er registreringspliktige etter loven eller etter forskrift gitt med hjemmel i § 2, skal betale avgift).
+
+§ 8 (myndighet til å gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastsette særlige regler under hensyn til de stedlige forhold).
+
+## III
+
+Vedtakene i Pkt. I og II trer i kraft straks.

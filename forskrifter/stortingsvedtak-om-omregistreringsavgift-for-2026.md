@@ -1,0 +1,43 @@
+---
+id: "sf-20251218-2758"
+slug: "stortingsvedtak-om-omregistreringsavgift-for-2026"
+type: "forskrift"
+ref_id: "forskrift/2025-12-18-2758"
+title: "Stortingsvedtak om omregistreringsavgift for 2026"
+short_title: null
+language: "nb"
+ministry:
+  - "Stortinget"
+date_in_force: null
+last_change_in_force: null
+last_updated: null
+xml_hash: "8c8990c4d1c0b426569ca892948e835c1ae0bf4c07db3b0f0025f6806f95d88b"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Stortingsvedtak om omregistreringsavgift for 2026
+
+## § 1.
+
+Fra 1. januar 2026 skal det i henhold til [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2) betales avgift til statskassen ved omregistrering av nevnte, tidligere her i landet registrerte motorvogner, og tilhengere med følgende beløp:*Registreringsår**2026 til 2023 (kr)**2022 til 2015 (kr)**2014 og eldre (kr)*a.Mopeder, motorsykler og beltemotorsykler645645645b.PersonbilerEgenvekt (typegodkjent):1. t.o.m. 1 200 kg4 9183 2361 9422. over 1 200 kg7 5054 5321 942c.Lastebiler, trekkbiler, varebiler, kombinerte biler, campingbiler, beltebiler og busser med tillatt totalvekt inntil 7 500 kg2 4591 5531 296d.Biltilhengere, herunder semitrailere og campingtilhengere, med egenvekt (typegodkjent) over 350 kg645645645
+
+Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften.
+
+## § 2.
+
+Det gis fritak for avgift ved omregistrering av kjøretøy:ved ren navneendringpå ektefellemellom foreldre og barn som arv (fullt skifte)som er 30 år eller eldresom utloddes og som tidligere har vært registrert på utlodderensom skal registreres på kjennemerker med gule tegn på blå reflekterende bunnpå NATO eller NATOs hovedkvarter i Norge, styrker eller personell i den utstrekning dette følger av internasjonale avtaler Norge er forpliktet av. Fritaket omfatter på tilsvarende vilkår også styrker fra land som deltar i Partnerskap for fredsom registreres på Den nordiske investeringsbank og som er nødvendig for bankens offisielle virksomhetsom har vært registrert på samme eier i to måneder eller mindre (samlet påskiltings-/registreringstid)som tas tilbake av selger som følge av heving eller omlevering etter [kjøpslovens](lov/1988-05-13-27) eller [forbrukerkjøpslovens](lov/2002-06-21-34) bestemmelserved omorganiseringer som gjennomføres med lovfestet selskapsrettslig kontinuitet, samt ved omorganiseringer som kan gjennomføres med skattemessig kontinuitet etter [skatteloven §§ 11-2](lov/1999-03-26-14/§11-2) til [11-5](lov/1999-03-26-14/§11-5), [§ 11-11](lov/1999-03-26-14/§11-11) og [§ 11-20](lov/1999-03-26-14/§11-20) med tilhørende forskrifter. Omorganiseringen og omregistreringen av kjøretøy må ha funnet sted etter 1. januar 2016.ved sletting av registrert eier eller medeier i Kjøretøyregisteret.
+
+Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak.
+
+## § 3.
+
+Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.
+
+## § 4.
+
+Departementet kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da avgiftsvedtaket ble truffet og når avgiften i det spesielle enkelttilfellet får en utilsiktet virkning.

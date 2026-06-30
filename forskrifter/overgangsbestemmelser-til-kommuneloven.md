@@ -1,0 +1,33 @@
+---
+id: "sf-19921127-0865"
+slug: "overgangsbestemmelser-til-kommuneloven"
+type: "forskrift"
+ref_id: "forskrift/1992-11-27-865"
+title: "Ikrafttredelse av lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner. Overgangsbestemmelser."
+short_title: "Overgangsbestemmelser til kommuneloven"
+language: "no"
+ministry:
+  - "Kommunal- og distriktsdepartementet"
+date_in_force: "1993-01-01"
+last_change_in_force: "2014-04-11"
+last_updated: null
+xml_hash: "46d875df80dda44623434632b48c17d7739257bc92945dca28bde810b767c0de"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Ikrafttredelse av lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner. Overgangsbestemmelser.
+
+## 1.
+
+[Lov av 25. september 1992 nr. 107](lov/1992-09-25-107) om kommuner og fylkeskommuner trer i kraft fra 1. januar 1993. Fra dette tidspunktet trer også forskriftene i medhold av loven i kraft, med mindre noe annet er sagt i forskriften selv.
+
+## 2.
+
+Følgende overgangsordninger skal gjelde:For kontrollutvalg som velges i inneværende kommunestyreperiode kan det gjøres unntak fra valgbarhetsbetingelsene i lovens § 60 nr. 2. Kontrollutvalg som allerede er oppnevnt, kan likeledes fortsette perioden ut, selv om noen av medlemmene ikke er valgbare etter § 60 nr. 2.Ved behandling av saker i kontrollutvalget, er ansatte eller folkevalgte som var med på å treffe det/de aktuelle vedtak, eller som medvirket ved tilretteleggelsen av grunnlaget for vedtaket/vedtakene, inhabile ved kontrollutvalgets behandling av saken. Er en overordnet ansatt inhabil i en sak, kan heller ikke direkte underordnet ansatt delta ved kontrollutvalgets behandling av saken.For kommunene Borge, Kråkerøy, Onsøy og Rolvsøy i Østfold fylke, gjøres det unntak fra kravet i § 60 nr. 2 om å opprette kontrollutvalg. Unntaket gjelder kun for 1993. I denne perioden kan det løpende tilsynet ivaretas av de respektive formannskapene. Når disse kommunene f.o.m. 1. januar 1994 er sluttet sammen med Fredrikstad, skal det etter § 60 nr. 2 opprettes og velges kontrollutvalg i nye Fredrikstad kommune. Unntakene fra valgbarhetsbetingelsene, jf. første avsnitt under dette punktet, gjelder også for Fredrikstad ut valgperioden 1994-95.Bestemmelsen om økonomiplan i [kommuneloven § 44](lov/1992-09-25-107/§44) og forskrifter med hjemmel i [§ 44](lov/1992-09-25-107/§44) nr. 6, får virkning først for økonomiplaner som har 1995 som første budsjettår i planen.Budsjett- og regnskapsforskriftene av 23. mars 1990 og [1. mars 1990 nr. 715](forskrift/1990-03-01-715) fastsatt med hjemmel i någjeldende kommunelov § 24 nr. 10 og §§ 50 og 58, og tilsvarende bestemmelser i fylkeskommuneloven, gjelder for budsjett- og regnskapsåret 1993 med mindre noe annet blir bestemt i nye forskrifter. Resultatorientert budsjett og regnskap skal likevel være obligatorisk for så vidt gjelder energiverk fra 1. januar 1993.Bestemmelsen i gjeldende kommunelov § 50 og fylkeskommunelov § 47 om at underskudd etter samtykke kan dekkes inn over flere år, gjelder for underskudd i regnskapet for 1991.Inndekning av regnskapsunderskudd for året 1992 og anvendelse av regnskapsoverskudd for det samme år følger bestemmelsen i § 49 i den nye lov.Reglene i någjeldende kommunelov § 50 og fylkeskommunelov § 47 om fond til kapitalformål skal gjelde for fond avsatt i regnskapet for 1992 og tidligere års regnskaper. Kommunal- og moderniseringsdepartementet kan i særlige tilfelle dispensere fra denne bestemmelsen.
+
+> Endret ved [vedtak 11 april 2014 nr. 536](forskrift/2014-04-11-536).

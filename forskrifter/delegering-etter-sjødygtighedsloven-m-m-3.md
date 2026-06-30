@@ -1,0 +1,45 @@
+---
+id: "sf-19800108-0001"
+slug: "delegering-etter-sjødygtighedsloven-m-m-3"
+type: "forskrift"
+ref_id: "forskrift/1980-01-08-1"
+title: "Delegering av myndighet til Sjøfartsdirektoratet etter lov av 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. kapittel 11 og lov av 17. juni 1966 nr. 2 om luftputefartøyer § 3a."
+short_title: "Delegering etter sjødygtighedsloven m.m."
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: null
+last_change_in_force: "2014-01-01"
+last_updated: null
+xml_hash: "b981f81202b9a9249340b94f44e423cd5281e4ce512743de497cb75b40353fd1"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Delegering av myndighet til Sjøfartsdirektoratet etter lov av 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. kapittel 11 og lov av 17. juni 1966 nr. 2 om luftputefartøyer § 3a.
+
+## I. Lov av 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v.
+
+Klima- og miljødepartementet delegerer herved til Sjøfartsdirektoratet myndighet til å gi forskrifter og treffe enkeltvedtak etter følgende bestemmelser i [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v.:
+
+Delegeringen omfatter myndighet til å fastsette om de forskrifter som Sjøfartsdirektoratet gir i medhold av lovens kapittel 11 også skal gjelde forskip av mindre drektighet enn 50 registertonn brutto,boreplattformer og andre flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster, samt flyttbare innretninger til hjelp for slik virksomhet,flytekran, flytedokk, mudderapparat og andre flytende innretninger.
+
+Sjøfartsdirektoratet gis myndighet til å bestemme at de forskrifter som gis i medhold av kapittel 11 også skal gjelde for utenlandske skip og innretninger som nevnt ovenfor, når de befinner seg i indre norske farvann. Med mindre annet følger av regler som er anerkjent i folkeretten eller av overenskomst med fremmed stat, kan Sjøfartsdirektoratet også gi forskriftene anvendelse på utenlandske skip og innretninger som nevnt, når de befinner seg på norsk sjøterritorium, eller norsk del av kontinentalsokkelen, eller i Norges økonomiske sone.
+
+Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak omtransport av skadelige stoffer, herunder bestemmelser om kvantum, emballering og stuing,lasting og lossing av skip som fører skadelige stoffer,bunkring,hvilke skadelige stoffer som det er forbudt å slippe ut i sjø, vassdrag og luft, i hvilke områder utslipp kan foretas og hvilke forholdsregler som skal tas ved utslipp,konstruksjon og utrustning av skipet, og at det om bord skal være sertifikat som viser at skipet er konstruert og utrustet i overensstemmelse med slike bestemmelser,at det om bord skal føres en særskilt dagbok for behandling av skadelige stoffer.
+
+Sjøfartsdirektoratet gis myndighet til å gi forskrifter om gjennomføringen av tilsynet.
+
+Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak om at skip som ikke har gyldig sertifikat om bord fastsatt i medhold av § 114 nr. 5 ikke får seile under norsk flagg.
+
+Sjøfartsdirektoratet gis myndighet til å legge tvangsmulkt for den som ikke etterkommer pålegg gitt i medhold av bestemmelsene i kapittel 11. Sjøfartsdirektoratet kan også beslutte at ilagt tvangsmulkt skal frafalles når det finnes rimelig.
+
+> Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+## II. Lov av 17. juni 1966 nr. 2 om luftputefartøyer § 3a
+
+Sjøfartsdirektoratet kan fastsette at de bestemmelser som Sjøfartsdirektoratet gir om forurensning fra skip i medhold av lov om Statskontrol med Skibes Sjødygtighed m.v. skal få tilsvarende anvendelse for luftputefartøy.

@@ -1,0 +1,61 @@
+---
+id: "sf-19960626-0586"
+slug: "ikrafttr-mv-av-endr-i-verdipapirhandelloven"
+type: "forskrift"
+ref_id: "forskrift/1996-06-26-586"
+title: "Forskrift om ikrafttredelse og overgangsbestemmelser til lov 7. juni 1996 nr. 25 om endringer i lov 14. juni 1985 nr. 61 om verdipapirhandel m.v."
+short_title: "Ikrafttr. mv av endr. i verdipapirhandelloven"
+language: "no"
+ministry:
+  - "Finansdepartementet"
+date_in_force: "1996-06-26"
+last_change_in_force: "1996-10-02"
+last_updated: null
+xml_hash: "ac62dd2df85cbe5212966f336240622ffa87d295ceb324f2f94b71c77d30b7a4"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Forskrift om ikrafttredelse og overgangsbestemmelser til lov 7. juni 1996 nr. 25 om endringer i lov 14. juni 1985 nr. 61 om verdipapirhandel m.v.
+
+## I
+
+### § 1. Ikrafttredelse
+
+I [lov 7. juni 1996 nr. 25](lov/1996-06-07-25) om endringer i [lov 14. juni 1985 nr. 61](lov/1985-06-14-61) om verdipapirhandel m.v. trer følgende bestemmelser i kraft 1. juli 1996:§ 3-3§ 3-4§ 3-5 femte og åttende ledd§ 3-8§ 3-9§ 4-2§ 4-5 annet ledd annet punktum§ 4-6 tredje ledd siste punktum§ 4-8 første ledd annet punktum og fjerde ledd§ 4-9 annet ledd§ 4-10 annet ledd§ 4-11 annet og tredje ledd§ 4-12 annet ledd§ 4-13 tredje og fjerde ledd§ 5-4 første ledd annet punktum§ 5-6 annet punktum§ 6-4 annet ledd annet punktum§ 7-2 tredje leddkapittel 8del X.
+
+Lovens øvrige bestemmelser trer i kraft 31. desember 1996.
+
+### § 2. Opphevelse av forskrifter
+
+Følgende forskrifter gitt i medhold av verdipapirhandelloven oppheves 1. juli 1996: – – –
+
+Følgende forskrifter gitt i medhold av verdipapirhandelloven oppheves 31. desember 1996: – – –
+
+### § 3. Overgangsbestemmelser
+
+Fondsmeglerforetak med tillatelse til å drive virksomhet etter tidligere kap. 3 del I og som har søkt om tillatelse til å drive virksomhet etter endringslovens bestemmelser innen 1. november 1996, kan fortsette sin virksomhet i henhold til tillatelsen inntil 1. juni 1997. Lovens tidligere kap. 3, 4 og 5 med tilhørende forskrifter gjelder for slik virksomhet.
+
+Første ledd første punktum gjelder tilsvarende for forretnings- og sparebanker samt foretak som driver virksomhet i henhold til [forskrift 25. mars 1983 nr. 732](forskrift/1983-03-25-732) om valutameglervirksomhet, når disse driver virksomhet som vil kreve tillatelse etter endringslovens bestemmelser. Virksomheten skal i disse tilfeller drives i samsvar med de bestemmelser som gjaldt før 31. desember 1996.
+
+For verdipapirforetak som driver virksomhet i medhold av [verdipapirhandelloven § 3-8](lov/1985-06-14-61/§3-8) jf. [§ 4](lov/1985-06-14-61/§4) fjerde ledd, gjelder følgende av verdipapirhandellovens bestemmelser frem til 31. desember 1996:Kap. 1 om alminnelige bestemmelserKap. 2 om emisjonerKap. 2a om opsjoner til verdipapirer, terminer§ 29 om taushetsplikt i fondsmeglervirksomhet§ 62 om straff.
+
+I tillegg til bestemmelsene som nevnt i annet ledd, gjelder følgende bestemmelser for foretakenes virksomhet, med unntak av verdipapirforetaks grenseoverskridende fondsmegling her i riket knyttet til utenlandske verdipapirer og rettet mot kvalifiserte investorer:§ 18 om god meglerskikk§ 19 om opplysningsplikt§ 22 om ansattes verdipapirhandel§ 24 om fondsmegleres adgang til å drive næringsvirksomhet mv§ 25 om kredittgivning§ 26 om regnskapsplikt§ 27 om suspenderte verdipapirer mm§ 28 om kurtasje mmKap. 4 om verdipapirhandel gjennom fondsmeglerforetak§ 60 om god forretningsskikk mv.
+
+Kredittilsynet kan gjøre unntak fra bestemmelsene som nevnt i tredje og fjerde ledd, dersom det utenlandske foretaket er underlagt tilsvarende bestemmelser i henhold til hjemlandets lovgivning.
+
+> Endret ved [forskrift 2 okt 1996 nr. 958](forskrift/1996-10-02-958).
+
+### § 4. Søknad om konsesjon etter endringsloven
+
+Kompetansen til å gi tillatelse etter § 3-2, jf. [§§ 3-3](forskrift/1996-06-26-586/§3) og [3-4](forskrift/1996-06-26-586/§3), § [3-9](forskrift/1996-06-26-586/§3), § [3-10](forskrift/1996-06-26-586/§3) tredje ledd og [§ 4-2](forskrift/1996-06-26-586/§4) delegeres til Kredittilsynet.
+
+Verdipapirforetak kan ikke starte virksomhet iht. tillatelse etter bestemmelsene som nevnt i første ledd før 31. desember 1996.
+
+## II
+
+Denne forskrift trer i kraft straks.

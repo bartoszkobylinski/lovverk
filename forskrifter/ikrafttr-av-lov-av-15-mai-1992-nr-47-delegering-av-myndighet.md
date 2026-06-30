@@ -1,0 +1,33 @@
+---
+id: "sf-19921127-0864"
+slug: "ikrafttr-av-lov-av-15-mai-1992-nr-47-delegering-av-myndighet"
+type: "forskrift"
+ref_id: "forskrift/1992-11-27-864"
+title: "Ikrafttredelse av lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. § 50. Delegering av myndighet."
+short_title: "Ikrafttr. av lov av 15. mai 1992 nr. 47, delegering av myndighet"
+language: "no"
+ministry:
+  - "Klima- og miljødepartementet"
+date_in_force: "1993-01-01"
+last_change_in_force: "2021-11-01"
+last_updated: null
+xml_hash: "dbc239f45b51d58c2e0b7b4755c6749b79ad86deddc82e6b6dcce9e869f5dc0e"
+source_provider: "Lovdata"
+source_dataset: "gjeldende-sentrale-forskrifter"
+source_license: "NLOD 2.0"
+retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+status: "current"
+eu_basis: []
+---
+
+# Ikrafttredelse av lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. § 50. Delegering av myndighet.
+
+1. I henhold til lov om laksefisk og innlandsfisk m.v. av [15. mai 1992 nr. 47 § 50](lov/1992-05-15-47/§50) settes loven i kraft fra og med 1. januar 1993.
+2. Den myndighet som etter lov om laksefisk og innlandsfisk m.v. er lagt til departementet legges til Klima- og miljødepartementet.
+3. Den myndighet som i samme lov er tillagt Kongen etter følgende paragrafer delegeres til Klima- og miljødepartementet:§ 3, § 6 annet ledd, § 27 fjerde ledd og § 38.
+4. Den myndighet som er lagt til departementet etter følgende paragrafer delegeres til Miljødirektoratet:§ 10, § 11 første og annet ledd, § 14, § 15 annet ledd, § 18, § 25 annet ledd, § 26, § 27 første og tredje ledd, § 33 annet ledd, § 37, § 39, § 42, § 43, § 44, § 45 og § 47.
+5. Den myndighet som er lagt til departementet etter følgende paragrafer delegeres til statsforvalteren eller fylkeskommunen:§ 11 annet ledd, § 12, § 13, § 15 første ledd, § 19, § 20, § 21, § 25 tredje, fjerde og femte ledd, § 31, § 34, § 35, § 36 og § 40.
+
+Klima- og miljødepartementet gir nærmere retningslinjer om fordeling av myndighet mellom statsforvalteren og fylkeskommunen.
+
+> Endret ved [vedtak 28 des 2009 nr. 1815](forskrift/2009-12-28-1815) (i kraft 1 jan 2010), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [2 juli 2019 nr. 962](forskrift/2019-07-02-962), [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
