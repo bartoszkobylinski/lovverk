@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2025-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "e0e3864b3a23ba3ad192e03d53be84d05979ff335416ffec1cc107147454d6fe"
+xml_hash: "ddc08bfca4f8541af70cb9a24b4a5fc4fcd64833017470d7ffdc0f827cfabb3c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-27T06:50:25.382483+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,29 +36,43 @@ Terskelverdien etter [ekomloven § 1-5](lov/2024-12-13-76/§1-5) nr. 38 bokstav 
 
 En datasenteroperatør skal registrere seg hos Nasjonal kommunikasjonsmyndighet før virksomheten starter opp. Virksomheten kan settes i gang når registrering er sendt.
 
-Registreringen skal inneholdedatasenteroperatørs navnnorsk organisasjonsnummer eller datasenteroperatørens rettslige status, form og registreringsnummer dersom datasenteroperatøren er registrert i et handelsregister eller et lignende offentlig register i EØSnorsk adresse eller adressen til datasenteroperatørens eventuelle hovedforetak i EØS og eventuelt en sekundær filialdatasenteroperatørens nettadressedatasentrenes fysiske lokasjonkontaktinformasjonen til en representant for datasenteroperatøren som kan møte opp fysisk med fullmakter og kunnskap til å kunne følge opp henvendelser fra myndigheteneen beskrivelse av hvilke tjenester som tilbysinformasjon om norske statlige, fylkeskommunale og kommunale myndigheter, organer og virksomheter som er kunder hos datasenteroperatørenanslag over prosentvis andel av kraftforbruket som skal anvendes til utvinning av kryptovalutaopplysninger om størrelsen på abonnert elektrisk effektforventet oppstart av virksomheten.
+Registreringen skal inneholdedatasenteroperatørs navnnorsk organisasjonsnummer eller datasenteroperatørens rettslige status, form og registreringsnummer dersom datasenteroperatøren er registrert i et handelsregister eller et lignende offentlig register i EØSnorsk adresse eller adressen til datasenteroperatørens eventuelle hovedforetak i EØS og eventuelt en sekundær filialdatasenteroperatørens nettadressedatasentrenes fysiske lokasjonkontaktinformasjonen til datasenteroperatørens fysiske representant i Norgeen beskrivelse av hvilke tjenester som tilbysinformasjon om norske statlige, fylkeskommunale og kommunale myndigheter, organer og virksomheter som er kunder hos datasenteroperatørenanslag over prosentvis andel av kraftforbruket som skal anvendes til utvinning av kryptovalutaopplysninger om størrelsen på abonnert elektrisk effektforventet oppstart av virksomhetennavn på eier av bygning der datasenteret er lokalisert.
 
 Nasjonal kommunikasjonsmyndighet kan fastsette standardskjema som skal nyttes ved registreringen, og nærmere krav til selve registreringen. Endringer i registrerte opplysninger, herunder om opphør av virksomheten og sletting i registeret, skal snarest mulig og senest to uker etter endringen meldes til Nasjonal kommunikasjonsmyndighet.
 
 Nasjonal kommunikasjonsmyndighet kan pålegge datasenteroperatører som faller under terskelverdien, men som er av særlig viktighet, å registrere seg. Nasjonal kommunikasjonsmyndighet kan ved enkeltvedtak gi unntak fra registreringsplikten i tilfeller der registrering er unødvendig for å oppfylle formålet med registreringen.
 
-> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 1-4. Plikt til å ha oppdatert kundeinformasjon tilgjengelig
 
-> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+En datasenteroperatør skal ha tilgjengelig og oppdatert informasjon om kunder som får tilgang til datasentertjenester, jf. [ekomloven § 1-5](lov/2024-12-13-76/§1-5) nr. 37. Informasjonen skal omfatte hvor i datasenteret de enkelte kundenes fysiske utstyr er plassert og kundenesnavneventuelle organisasjonsnummer eller rettslige status, form og registreringsnummer dersom kunden er registrert i et handelsregister eller et lignende offentlig registeradressetelefonnummere-postadresseeventuelle nettadresse.
+
+> Tilføyd ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 1-5. Plikt til å utlevere kundeinformasjon
 
-> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 om én eller enkelte angitte kunder tilpolitiet eller påtalemyndigheten når og i det omfang det er nødvendig for å stanse eller avverge et lovbrudd rettet mot eller begått ved bruk av utstyr i et datasenter.Politiets sikkerhetstjeneste når det er det er grunn til å undersøke om noen forbereder en handling som nevnt i [politiloven § 17b](lov/1995-08-04-53/§17b), og det er grunn til å tro at informasjonen er av betydning for å forebygge handlingen.
+
+En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 tilNasjonal sikkerhetsmyndighet når og i det omfang det er nødvendig for å drive den nasjonale responsfunksjonen ved alvorlige digitale angrep og det nasjonale varslingssystemet for digital infrastruktur etter [sikkerhetsloven § 2-4](lov/2018-06-01-24/§2-4).Nasjonal kommunikasjonsmyndighet når og i det omfang det er nødvendig for å utføre oppgaver etter [sikkerhetsloven](lov/2018-06-01-24).
+
+Pålegget om utlevering av informasjon etter første og andre ledd skal fremsettes skriftlig av lederen av det aktuelle organet eller den denne bemyndiger. Pålegget skal så vidt mulig opplyse om hva saken gjelder, formålet med pålegget og hva det omfatter. Pålegget skal også opplyse om hvilken myndighet som er klageinstans. Det skal fremgå at vilkårene for utlevering av informasjonen er vurdert.
+
+> Tilføyd ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 1-6. Krav om fysisk representant i Norge
 
-> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+En datasenteroperatør skal ha en representant som er til stede i Norge. Representanten skal kunne møte opp fysisk og ha nødvendig fullmakt og kunnskap til å kunne følge opp henvendelser fra myndighetene, herunder til å kunne bistå når myndighetene har hjemmel til å gjennomføre tiltak etter lov eller forskrift gitt med hjemmel i lov, som forskriften § 1-5, [straffeprosessloven](lov/1981-05-22-25), [politiloven](lov/1995-08-04-53) eller [sikkerhetsloven](lov/2018-06-01-24).
+
+> Tilføyd ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 1-7. Krav til responstid
 
-> **Tilføyes** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+Innenfor arbeidstid skal datasenteroperatøren etterkomme pålegg etter § 1-5 uten ugrunnet opphold. Det samme gjelder bistand til gjennomføring av tiltak som nevnt i § 1-6.
+
+Utenfor normal arbeidstid skal datasenteroperatøren ha beredskap for på kort varsel å følge opp henvendelser som nevnt i første ledd i saker som haster av hensyn til kriminalitetsbekjempelse eller nasjonal sikkerhet.
+
+> Tilføyd ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ## Kapittel 2. Sikkerhet og beredskap
 
@@ -74,13 +88,13 @@ Datasenteroperatøren skal jevnlig kontrollere og revidere planverk og dokumenta
 
 ### § 2-2. Krav om risiko- og sårbarhetsvurdering
 
-En datasenteroperatør skal utarbeide og vedlikeholde risiko- og sårbarhetsvurderinger for å ivareta forsvarlig sikkerhet i datasenteret. Risiko- og sårbarhetsvurderingene skal være at et slikt omfang av virksomheten kan identifisere organisatoriske, fysiske, logiske og menneskelige sikkerhetstiltak.
+En datasenteroperatør skal utarbeide og vedlikeholde risiko- og sårbarhetsvurderinger for å ivareta forsvarlig sikkerhet i datasenteret. Risiko- og sårbarhetsvurderingene skal være av et slikt omfang at virksomheten kan identifisere organisatoriske, fysiske, logiske og menneskelige sikkerhetstiltak.
 
 Ved endringer som kan påvirke sikkerheten skal datasenteroperatøren vurdere hvilken risiko endringene medfører.
 
 Datasenteroperatørens risiko- og sårbarhetsvurderinger skal dokumenteres.
 
-> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 2-3. Krav til grunnsikring og skadebegrensningstiltak
 
@@ -146,9 +160,9 @@ Nasjonal kommunikasjonsmyndighet fører tilsyn med at kravene i forskriften blir
 
 ### § 3-2. Overtredelsesgebyr
 
-Nasjonal kommunikasjonsmyndighet kan pålegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer kravene i [§ 1-3](forskrift/2024-12-18-3313/§1-3) (Registreringsplikt for datasenteroperatører), [§ 2-1](forskrift/2024-12-18-3313/§2-1) (Krav til sikkerhetsstyring), [§ 2-2](forskrift/2024-12-18-3313/§2-2) (Krav om risiko- og sårbarhetsvurderinger), [§ 2-3](forskrift/2024-12-18-3313/§2-3) (Krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-18-3313/§2-4) (Krav til sikringsplaner), [§ 2-5](forskrift/2024-12-18-3313/§2-5) (Krav om beredskapsplanlegging og -øvelser), [§ 2-7](forskrift/2024-12-18-3313/§2-7) (Plikt til å følge opp at andre oppfyller sikkerhetskravene) og [§ 2-8](forskrift/2024-12-18-3313/§2-8) (Plikt til å varsle om uønskede hendelser).overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-6](forskrift/2024-12-18-3313/§2-6) (Adgang til å pålegge sikkerhetsrevisjon) [§ 2-9](forskrift/2024-12-18-3313/§2-9) (Adgang til å pålegge datasentrene å ha nasjonal autonomi) og [§ 2-10](forskrift/2024-12-18-3313/§2-10) (Adgang til å pålegge prioritering av tjenestetilbud).
+Nasjonal kommunikasjonsmyndighet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer [§ 1-3](forskrift/2024-12-18-3313/§1-3) (Registreringsplikt for datasenteroperatører), § 1-4 (Plikt til å ha oppdatert kundeinformasjon tilgjengelig), § 1-6 (Krav om fysisk representant i Norge), § 1-7 (Krav til responstid), [§ 2-1](forskrift/2024-12-18-3313/§2-1) (Krav til sikkerhetsstyring), [§ 2-2](forskrift/2024-12-18-3313/§2-2) (Krav om risiko- og sårbarhetsvurderinger), [§ 2-3](forskrift/2024-12-18-3313/§2-3) (Krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-18-3313/§2-4) (Krav til sikringsplaner), [§ 2-5](forskrift/2024-12-18-3313/§2-5) (Krav om beredskapsplanlegging og -øvelser), [§ 2-7](forskrift/2024-12-18-3313/§2-7) (Plikt til å følge opp at andre oppfyller sikkerhetskravene) eller [§ 2-8](forskrift/2024-12-18-3313/§2-8) (Plikt til å varsle om uønskede hendelser)overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-6](forskrift/2024-12-18-3313/§2-6) (Adgang til å pålegge sikkerhetsrevisjon), [§ 2-9](forskrift/2024-12-18-3313/§2-9) (Adgang til å pålegge datasentrene å ha nasjonal autonomi) eller [§ 2-10](forskrift/2024-12-18-3313/§2-10) (Adgang til å pålegge prioritering av tjenestetilbud), ellerovertrer pålegg fastsatt med hjemmel i § 1-5 (Plikt til å utlevere kundeinformasjon).
 
-> **Endres** ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 3-3. Utmåling av overtredelsesgebyr
 

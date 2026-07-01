@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1932-11-01"
-last_change_in_force: "2017-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-12"
-xml_hash: "2705fbc6578452240148e29468393da94e6eb9e86c6fea75e547af2c726aba1b"
+xml_hash: "2a7145cabe0674ae0310a32948f1e923f5d92bbde017c668a2ea820ad7c068e0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -690,13 +690,13 @@ Loven i det land hvor en veksel er betalbar, bestemmer de forholdsregler som må
 
 ### § 87
 
-Protest tas opp av namsmannen.
+Protest tas opp av namsfogden.
 
-Dersom det er nødvendig for at protesten skal kunne opptas i tide, kan namsmannen ta opp protest utenfor sitt distrikt.
+Dersom det er nødvendig for at protesten skal kunne opptas i tide, kan namsfogden ta opp protest utenfor sitt distrikt.
 
 Tilkalling av vitne er ikke nødvendig.
 
-> Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 88
 

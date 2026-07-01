@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "cf6f3ed1f295468efddeebcfe0e45a860eed8f878f0a50ef9a302a6282338037"
+xml_hash: "36cc14160838abc89e801cde6944f84be6e4b1432dd5e8b82e6c6b698380450d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -322,11 +322,13 @@ Uttak av varer og tjenester fra offentlige virksomheter som hver for seg eller i
 
 (1) Det skal beregnes merverdiavgift av fjernleverbare tjenester som er kjøpt utenfor merverdiavgiftsområdet når mottakeren er hjemmehørende i merverdiavgiftsområdet og tjenesten er merverdiavgiftspliktig ved omsetning i merverdiavgiftsområdet. Dette gjelder likevel ikke dersom tjenesten inngår i beregningsgrunnlaget etter [§ 4-11](lov/2009-06-19-58/§4-11) første ledd.
 
-(2) Dersom tjenesten er til bruk i merverdiavgiftsområdet av næringsdrivende eller offentlig virksomhet hjemmehørende i merverdiavgiftsområdet, skal det beregnes merverdiavgift selv om tjenesten leveres til mottaker som er hjemmehørende utenfor merverdiavgiftsområdet. Dette gjelder likevel ikke dersom det kan dokumenteres at det er beregnet merverdiavgift av tjenesten utenfor merverdiavgiftsområdet.
+(2) Dersom mottakeren av tjenesten er hjemmehørende utenfor merverdiavgiftsområdet, skal det beregnes merverdiavgift når tjenesten er til bruk i merverdiavgiftsområdet av det samme rettssubjektet som mottar tjenesten. Plikten til å beregne merverdiavgift forutsetter at tjenesten er til bruk av næringsdrivende eller offentlig virksomhet hjemmehørende i merverdiavgiftsområdet.
 
-(3) Skjer leveringen av elektroniske kommunikasjonstjenester gjennom en fast terminal i merverdiavgiftsområdet, skal det beregnes merverdiavgift selv om mottakeren ikke er hjemmehørende i merverdiavgiftsområdet. Skjer leveringen gjennom fast terminal utenfor merverdiavgiftsområdet, skal det ikke beregnes merverdiavgift selv om mottakeren er hjemmehørende i merverdiavgiftsområdet.
+(3) Plikten til å beregne merverdiavgift etter annet ledd gjelder ikke dersom tjenesten fullt ut er til bruk som ville gitt fradragsrett for inngående merverdiavgift. Det samme gjelder dersom virksomheten kan dokumentere at det er beregnet merverdiavgift av tjenesten utenfor merverdiavgiftsområdet, og sannsynliggjøre at denne merverdiavgiften ikke kan fradragsføres eller refunderes.
 
-> Endret ved lover [10 des 2010 nr. 71](lov/2010-12-10-71) (ikr. 1 juli 2011) som endret ved [lov 24 juni 2011 nr. 27](lov/2011-06-24-27), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023). **Endres** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026, endring endres ved lov [23 juni 2026 nr. 70](lov/2026-06-23-70)).
+(4) Skjer leveringen av elektroniske kommunikasjonstjenester gjennom en fast terminal i merverdiavgiftsområdet, skal det beregnes merverdiavgift selv om mottakeren ikke er hjemmehørende i merverdiavgiftsområdet. Skjer leveringen gjennom fast terminal utenfor merverdiavgiftsområdet, skal det ikke beregnes merverdiavgift selv om mottakeren er hjemmehørende i merverdiavgiftsområdet.
+
+> Endret ved lover [10 des 2010 nr. 71](lov/2010-12-10-71) (ikr. 1 juli 2011) som endret ved [lov 24 juni 2011 nr. 27](lov/2011-06-24-27), [20 des 2022 nr. 108](lov/2022-12-20-108) (i kraft 1 jan 2023), [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026, endring endret ved lov [23 juni 2026 nr. 70](lov/2026-06-23-70)).
 
 ### IV Dispensasjon
 
@@ -444,7 +446,9 @@ Ved uttak av brukte varer, kunstverk, samleobjekter og antikviteter kan beregnin
 
 (2) Vederlag som er angitt i utenlandsk valuta, omregnes til norske kroner ut fra omregningskursen på leveringstidspunktet fastsatt med hjemmel i [vareførselsloven § 6-12](lov/2022-03-11-9/§6-12).
 
-> Endret ved lov [16 juni 2023 nr. 50](lov/2023-06-16-50). **Endres** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
+(3) Departementet kan gi forskrift om beregningsgrunnlaget for merverdiavgift for fjernleverbare tjenester som er avgiftspliktige etter [§ 3-30 annet ledd](lov/2009-06-19-58/§3-30/ledd/2).
+
+> Endret ved lover [16 juni 2023 nr. 50](lov/2023-06-16-50), [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
 
 ## Kapittel 5. Merverdiavgiftssatsene og områdene for disse
 
@@ -966,7 +970,11 @@ Selv om fradragsretten er begrenset etter [§§ 8-2](lov/2009-06-19-58/§8-2) ti
 
 ### § 8-9. Fjernleverbare tjenester som er til bruk utenfor merverdiavgiftsområdet
 
-> **Tilføyes** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
+(1) Et registrert avgiftssubjekt har rett til fradrag for inngående merverdiavgift på anskaffelser av fjernleverbare tjenester som er til bruk av avgiftssubjektet utenfor merverdiavgiftsområdet.
+
+(2) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for fradrag.
+
+> Tilføyd ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
 
 ## Kapittel 9. Justering og tilbakeføring av inngående merverdiavgift
 
@@ -1102,9 +1110,13 @@ Departementet kan på grunnlag av traktater og andre internasjonale avtaler gi f
 
 (2) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder om vilkår for refusjon.
 
-### § 10-5. (Opphevet)
+### § 10-5. Fjernleverbare tjenester som er til bruk utenfor merverdiavgiftsområdet
 
-> Opphevet ved [lov 11 des 2009 nr. 129](lov/2009-12-11-129). **Tilføyes** ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
+(1) Næringsdrivende eller offentlig virksomhet som er hjemmehørende i merverdiavgiftsområdet, har rett til refusjon av inngående merverdiavgift på anskaffelser av fjernleverbare tjenester som er til bruk av virksomheten utenfor merverdiavgiftsområdet.
+
+(2) Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fastsette vilkår for refusjon.
+
+> Opphevet ved [lov 11 des 2009 nr. 129](lov/2009-12-11-129), tilføyd ved lov [22 des 2025 nr. 121](lov/2025-12-22-121) (i kraft 1 juli 2026).
 
 ### § 10-6. Lottfiskere
 

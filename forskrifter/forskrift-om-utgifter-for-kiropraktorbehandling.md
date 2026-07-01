@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-05"
-xml_hash: "78204d569900375c0e83c97874325b613da7075f4706e85ee3a1f2d7e023a6e2"
+xml_hash: "e0683534cd2209e3d9c712e9180c986b547df78e9583c0edd64a3d744e67f56e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -71,13 +71,9 @@ Samarbeidet kan omfatte diagnostisering, kartlegging av rehabiliteringsbehov, ut
 
 > Endret ved [forskrifter 13 juni 2008 nr. 624](forskrift/2008-06-13-624) (i kraft 1 juli 2008), [22 juni 2009 nr. 828](forskrift/2009-06-22-828) (i kraft 1 juli 2009), [24 juni 2010 nr. 971](forskrift/2010-06-24-971) (i kraft 1 juli 2010), [24 juni 2011 nr. 681](forskrift/2011-06-24-681) (i kraft 1 juli 2011), [20 juni 2012 nr. 631](forskrift/2012-06-20-631) (i kraft 1 juli 2012), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [24 juni 2013 nr. 751](forskrift/2013-06-24-751) (i kraft 1 juli 2013), [20 juni 2014 nr. 839](forskrift/2014-06-20-839) (i kraft 1 juli 2014), [23 juni 2016 nr. 776](forskrift/2016-06-23-776) (i kraft 1 juli 2016), [22 des 2016 nr. 1844](forskrift/2016-12-22-1844) (i kraft 1 jan 2017), [22 juni 2018 nr. 1017](forskrift/2018-06-22-1017) (i kraft 1 juli 2018), [2 juli 2018 nr. 1109](forskrift/2018-07-02-1109), [25 juni 2019 nr. 899](forskrift/2019-06-25-899) (i kraft 1 juli 2019), [23 mars 2020 nr. 387](forskrift/2020-03-23-387), [28 aug 2020 nr. 1691](forskrift/2020-08-28-1691), [20 okt 2020 nr. 2097](forskrift/2020-10-20-2097) (i kraft 1 nov 2020), [30 okt 2020 nr. 2209](forskrift/2020-10-30-2209) (i kraft 1 nov 2020), [8 des 2020 nr. 2643](forskrift/2020-12-08-2643) (i kraft 1 jan 2021), [28 juni 2021 nr. 2256](forskrift/2021-06-28-2256) (i kraft 1 juli 2021), [28 juni 2022 nr. 1231](forskrift/2022-06-28-1231) (i kraft 1 juli 2022), [26 juni 2023 nr. 1101](forskrift/2023-06-26-1101) (i kraft 1 juli 2023), [21 des 2023 nr. 2306](forskrift/2023-12-21-2306) (i kraft 1 jan 2024), [21 juni 2024 nr. 1161](forskrift/2024-06-21-1161) (i kraft 1 juli 2024), [19 des 2024 nr. 3384](forskrift/2024-12-19-3384) (i kraft 1 jan 2025), [20 juni 2025 nr. 1149](forskrift/2025-06-20-1149) (i kraft 1 juli 2025 med virkning fra 1 jan 2025).
 
-## § 8. Tilskott til fellesformål for kiropraktorer
+## § 8. (Opphevet)
 
-Til fondet for videre- og etterutdanning av kiropraktorer yter folketrygden et tilskott tilsvarende 5 prosent av utgifter folketrygden har til behandling hos kiropraktor.
-
-Tilskottet utbetales av Helsedirektoratet eller det organ Helsedirektoratet bestemmer til Norsk Kiropraktorforening med et passende beløp hvert kvartal og med endelig avregning ved årets utgang.
-
-> Endret ved [forskrifter 21 juni 2006 nr. 676](forskrift/2006-06-21-676) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [22 des 2016 nr. 1844](forskrift/2016-12-22-1844) (i kraft 1 jan 2017). **Oppheves** ved forskrift [9 juni 2026 nr. 1168](forskrift/2026-06-09-1168) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 21 juni 2006 nr. 676](forskrift/2006-06-21-676) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [22 des 2016 nr. 1844](forskrift/2016-12-22-1844) (i kraft 1 jan 2017), opphevet ved forskrift [9 juni 2026 nr. 1168](forskrift/2026-06-09-1168) (i kraft 1 juli 2026).
 
 ## § 9. Ikrafttredelse
 

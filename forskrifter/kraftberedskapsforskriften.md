@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Energidepartementet"
 date_in_force: "2013-01-01"
-last_change_in_force: "2025-01-22"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-04-10"
-xml_hash: "55cafc621c08666bfbf0a09192d26fb400a9caa396705c6cf556dae615d8c31b"
+xml_hash: "d3d26ea0368bad7e036b881fde27de157623c23c2d69a730a9b806573dd27c06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-07T06:32:55.817317+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -206,9 +206,15 @@ Beredskapsmyndigheten kan delegere oppgaver innenfor varsling, informasjonsdelin
 
 KBO-enheter skal planlegge for og etablere en organisasjon med nødvendig personell, kompetanse, utholdenhet og ressurser til å holde driften gående, gjenopprette funksjon og gjennomføre oppgaver som kreves under alle ekstraordinære situasjoner på en sikker og effektiv måte.
 
-Reparasjonsberedskapen skal dimensjoneres etter stedlige forhold og anleggenes tilstand og klasse. Så langt som det er samfunnsmessig rasjonelt, skal hensynet til liv og helse og annen samfunnskritisk virksomhet prioriteres ved gjenoppretting av funksjon.
+KBO-enheter skal dimensjonere reparasjonsberedskapen på grunnlag av risikovurderinger jf. [§ 2-3](forskrift/2012-12-07-1157/§2-3), og også ta hensyn til stedlige forhold og anleggenes tilstand og klasse.
 
-> Endret ved [forskrift 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019). **Endres** ved forskrift [4 mai 2026 nr. 717](forskrift/2026-05-04-717) (i kraft 1 juli 2026).
+Ved dimensjonering av reparasjonsberedskap skal nettselskaper som er KBO-enheter, også legge til grunn at sabotasje samtidig rammer minst to av selskapets anlegg eller systemer, som transformatorstasjoner, koblingsstasjoner, kraftledninger, omformerstasjoner, beredskapslager eller driftskontrollsystem, og at sabotasje samtidig også rammer andre KBO enheter.
+
+Liv og helse og annen samfunnskritisk virksomhet skal prioriteres ved gjenoppretting av funksjon.
+
+Beredskapsmyndigheten kan fatte vedtak om at KBO-enheter i sin dimensjonering av reparasjonsberedskapen, skal legge til grunn andre spesifikke ekstraordinære forhold enn det som fremgår av tredje ledd.
+
+> Endret ved [forskrifter 1 nov 2018 nr. 1641](forskrift/2018-11-01-1641) (i kraft 1 jan 2019), [4 mai 2026 nr. 717](forskrift/2026-05-04-717) (i kraft 1 juli 2026).
 
 ### § 4-2. Kompetanse og personell
 

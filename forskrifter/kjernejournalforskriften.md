@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2013-05-31"
-last_change_in_force: "2025-05-15"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-09-28"
-xml_hash: "b7fa14aa1e99717f61aafe6fab12b85bb0e821f9fb36e7a1a8f3d4371769fbaa"
+xml_hash: "d46c69328e2b5024a0c0d6c20226f35e9913cced76e082d44df1e16d4c5a57c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,9 +74,9 @@ Den registrerte har rett til innsyn i egne opplysninger i den nasjonale kjernejo
 
 Den registrerte skal informeres om oppslag i nasjonal kjernejournal. Pasient- og [brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) og [§ 3-4](lov/1999-07-02-63/§3-4) gjelder tilsvarende.
 
-Krav om retting eller sletting av opplysninger skal fremsettes overfor primærkilden for opplysningene, med mindre feilen oppstod ved registreringen i den nasjonale kjernejournalen. Den registrerte kan kreve at tilgangen til opplysningene i den nasjonale kjernejournalen blir sperret, jf. [helsepersonelloven § 45](lov/1999-07-02-64/§45), første ledd første punktum og pasient- og [brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3).
+Krav om retting eller sletting av opplysninger skal fremsettes overfor primærkilden for opplysningene, med mindre feilen oppstod ved registreringen i den nasjonale kjernejournalen. Den registrerte kan kreve at tilgangen til opplysningene i den nasjonale kjernejournalen blir sperret, jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3).
 
-> **Endres** ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
+> Endret ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
 
 ## § 7. Unntak fra kravet om samtykke
 

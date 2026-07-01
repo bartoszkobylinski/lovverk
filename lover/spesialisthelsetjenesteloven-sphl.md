@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-31"
-xml_hash: "5265f01e3f272cc09b19750ba3fda63eea5a473276076d0d21e5980b116faa5f"
+xml_hash: "c273ece10be5ba72bac1a27412c8c6cc3533f108c85340dcda7e76982ab63596"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,7 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvilke pasientgrupper 
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å foreta omstillinger eller prioriteringer for å bidra til å sikre at spesialisthelsetjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-5](lov/1999-07-02-61/§2-5) om individuell plan[§ 2-5 a](lov/1999-07-02-61/§2-5a) om koordinator[§ 2-5 c](lov/1999-07-02-61/§2-5c) om kontaktlege.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), oppheva ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 2-6. Utskrivningsklare pasienter
 
@@ -222,15 +222,9 @@ Departementet kan gi forskrift om det nærmere innhold i plikten til å yte øye
 
 > Tilføyd ved lov [28 nov 2003 nr. 99](lov/2003-11-28-99) (i kraft 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1403](forskrift/2003-11-28-1403)), opphevet ved lov [21 des 2007 nr. 123](lov/2007-12-21-123) (ikr. 1 jan 2008 iflg. [res. 21 des 2007 nr. 1574](forskrift/2007-12-21-1574)).
 
-### § 3-2. Journal- og informasjonssystemer
+### § 3-2. (Opphevet)
 
-Helseinstitusjon som omfattes av denne loven, skal sørge for at journal- og informasjonssystemene ved institusjonen er forsvarlige. Den skal ta hensyn til behovet for effektiv elektronisk samhandling ved anskaffelse og videreutvikling av sine journal- og informasjonssystemer.
-
-Departementet kan gi forskrift om drift, innhold og opprettelse av journal- og informasjonssystemer.
-
-Kongen kan i forskrift fastsette nærmere bestemmelser om bruk av elektronisk journal, og kan herunder oppstille krav om opplæring og tiltak som skal sikre at utenforstående ikke får kjennskap eller tilgang til journalen.
-
-> Endret ved lov [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)). **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), opphevet ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 3-2 a. Plikt til bevaring, kassasjon og avlevering av pasientarkiv
 
@@ -246,13 +240,15 @@ Bevaring, kassasjon og avlevering etter første og andre ledd skal skje i samsva
 
 ### § 3-3. (Opphevet)
 
-> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 juli 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)) som endret ved lov [22 juni 2012 nr. 46](lov/2012-06-22-46), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2016), opphevet ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 15 mai 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
+> Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 juli 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252), endring endret ved lov [22 juni 2012 nr. 46](lov/2012-06-22-46)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2016), opphevet ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 15 mai 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).
 
-### § 3-3 a. Varsel om alvorlige hendelser
+### § 3-3 a. Melding og rapport om alvorlige hendelser
 
-Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og lov 16. juni 2017 nr. 56 om Statens undersøkelseskommisjon for helse- og omsorgstjenesten [§ 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
 
-> Tilføyd ved lov [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), endret ved lover [16 juni 2017 nr. 56](lov/2017-06-16-56) (ikr. 1 mai 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+> Tilføyd ved lov [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), endret ved lover [16 juni 2017 nr. 56](lov/2017-06-16-56) (ikr. 1 mai 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 3-4. Kvalitets- og pasientsikkerhetsutvalg
 
@@ -336,7 +332,9 @@ Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten ett
 
 ### § 3-11 a. Om medvirkning
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
+Helseinstitusjoner som omfattes av loven her, skal sørge for at pasienten eller brukeren får medvirke ved gjennomføring av helse- og omsorgstjenester etter [pasient- og brukerrettighetsloven § 3-1](lov/1999-07-02-63/§3-1).
+
+> Tilføyd ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ### § 3-12. Henvisning fra den kommunale helse- og omsorgstjenesten og sosialtjenesten
 

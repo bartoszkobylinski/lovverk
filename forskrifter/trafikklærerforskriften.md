@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2025-01-01"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "afdcb4cd6184772330a75403073dcecfb0f483bd8014644abd70bf148fb6670f"
+xml_hash: "2a46061a80c5da7a557e6c394dac338642176ef1d9e6bf7a98f4b4dea46a8bc5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -382,13 +382,11 @@ Ved utvidelse av godkjenningen som trafikklærer, skal det betales et gebyr ette
 
 Ved behandling av søknad om godkjenning som trafikklærer eller faglig leder på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. [yrkeskvalifikasjonsloven](lov/2017-06-16-69), skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1). Ved gjennomføring av prøveperiode for trafikklærer og faglig leder, skal det før oppstart betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1).
 
-Ved regodkjenning av trafikklærer og faglig leder etter gjennomført etterutdanning skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1) nr. X.
+Ved behandling av regodkjenning av trafikklærer etter gjennomført etterutdanning skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1).
 
-Ved regodkjenning av trafikklærer hvor godkjenningen har vært mistet skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1) nr. X.
+Ved søknad om godkjenning som kursarrangør eller kurstilbyder skal det betales gebyr for hvert kurs det søkes godkjenning for etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1).
 
-For godkjenning som kursarrangør eller kurstilbyder av etterutdanning skal det betales et gebyr etter satsene i [forskrift 10. oktober 2023 nr. 1650 om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet § 10-1](forskrift/2023-10-10-1650/§10-1) nr. X.
-
-> Tilføyd ved forskrift [25 feb 2026 nr. 277](forskrift/2026-02-25-277) (i kraft 1 mars 2026). **Endres** ved forskrift [22 juni 2026 nr. 1210](forskrift/2026-06-22-1210) (i kraft 1 juli 2026).
+> Tilføyd ved forskrift [25 feb 2026 nr. 277](forskrift/2026-02-25-277) (i kraft 1 mars 2026), endret ved forskrift [22 juni 2026 nr. 1210](forskrift/2026-06-22-1210) (i kraft 1 juli 2026).
 
 ### § 34. Ikrafttredelse
 

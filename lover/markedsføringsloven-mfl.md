@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2009-06-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-10-25"
-xml_hash: "a8d2c5f79d4659420b5ccfa6e432b927856795ebb0320db02a8dbb54bb5a5d51"
+xml_hash: "a333377a4006e4d2a154dae2f975ba7a650f9bc8b5c721ee8fa5776bc713227c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32002L0065"
@@ -455,9 +455,9 @@ Ved vurderingen av om pålegg skal gis, skal det blant annet tas hensyn til info
 
 Retten treffer pålegg etter [§ 43](lov/2009-01-09-2/§43) som midlertidig forføyning etter reglene i [tvisteloven kapittel 32](lov/2005-06-17-90/kap32) og [34](lov/2005-06-17-90/kap34), med de tilpasninger som følger av [§ 43 b](lov/2009-01-09-2/§43b) og [§ 43 c](lov/2009-01-09-2/§43c). Den som overtrer regelverket etter [§ 43](lov/2009-01-09-2/§43) første ledd og den som skal gjennomføre pålegget etter [§ 43](lov/2009-01-09-2/§43) første ledd bokstav a til d, får stilling som saksøkt.
 
-Begjæring om midlertidig forføyning settes frem skriftlig for Oslo byfogdembete. Begjæringen må angi alle partene. I begjæringen skal det redegjøres for de grunner den bygger på. Dokumenter som påberopes og som saksøkeren er i besittelse av, skal følge med begjæringen.
+Begjæring om midlertidig forføyning settes frem skriftlig for Oslo tingrett. Begjæringen må angi alle partene. I begjæringen skal det redegjøres for de grunner den bygger på. Dokumenter som påberopes og som saksøkeren er i besittelse av, skal følge med begjæringen.
 
-> Tilføyd ved lov [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res. 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Tilføyd ved lov [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res. 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)), endret ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 43 b. Rettens avgjørelse mv.
 

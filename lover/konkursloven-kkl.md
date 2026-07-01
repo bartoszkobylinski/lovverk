@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1986-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-22"
-xml_hash: "8cd1cc916345391dd6f5ab4e18ac04920f683039ec20807ad85cd40e39e1f3f2"
+xml_hash: "75e5453da106833e670dd10c65bb4749a5fead506e7907cdbb333914f0958403"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -798,13 +798,13 @@ I den utstrekning retten finner det nødvendig eller hensiktsmessig, kan den la 
 
 Skyldneren plikter å være til stede ved registreringsforretningen om det forlanges av retten eller bostyreren.
 
-Registrerings- og forseglingsforretningene kan overlates til namsmannen eller lensmannen eller til en annen skikket person oppnevnt av retten.
+Registrerings- og forseglingsforretningene kan overlates til namsfogden eller til en annen skikket person oppnevnt av retten.
 
 Ved registreringsforretning kan det tilkalles vitne dersom det av særlige grunner finnes ønskelig eller retten bestemmer det. Domstollovens regler om rettsvitne gjelder tilsvarende så langt de passer. Når verdsettingen krever særskilt sakkyndighet, kan bostyreren eller retten tilkalle en eller flere sakkyndige medhjelpere. [§ 12](lov/1984-06-08-58/§12) gjelder tilsvarende for slike medhjelpere.
 
 Bostyreren eller retten kan om nødvendig kreve hjelp av politiet til å gjennomføre sikring, registrering og forsegling etter denne paragrafen.
 
-> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40) (ikr. 1 jan 1991), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 22 juni 1990 nr. 40](lov/1990-06-22-40) (ikr. 1 jan 1991), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 81. (Opphevet)
 

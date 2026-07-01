@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2003-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-01-10"
-xml_hash: "b4eadf1e10e4154daf5e4c606798e8ee917722bd905db0f496a5dd98561a3d47"
+xml_hash: "4c327a7e6be1605ca9de810f5d2733e8cba5bae3ed042e85823fe13ad33a9904"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -188,7 +188,13 @@ Departementet kan i tvilstilfelle i forskrift eller einskildvedtak fastsetje kva
 
 ### § 9 f. Internkontroll og tilsyn
 
-> **Vert føyd til** ved lov [20 juni 2025 nr. 111](lov/2025-06-20-111) (i kraft 1 juli 2026 iflg. [res. 19 sep 2025 nr. 1874](forskrift/2025-09-19-1874)).
+(1) Drosjesentralen skal sørge for at det vert innført og utøvd internkontroll i eiga verksemd og i verksemda til løyvehavarane som er knytte til sentralen. Internkontrollen skal gjennomførast i samarbeid med tilknytte løyvehavarar, arbeidstakarar og representantane deira.
+
+(2) Internkontrollen skal sikre at aktivitetane til løyvehavarane og sentralane vert planlagde, organiserte, utførte og vedlikehaldne i samsvar med krav fastsett i eller i medhald av gjeldande regelverk for løyvehavarar, sentralar og deira tilsette.
+
+(3) Fylkeskommunen fører nødvendig tilsyn med at føresegnene om internkontroll, fastsette i eller i medhald av denne lova, vert etterlevde. Fylkeskommunen kan treffe vedtak med pålegg om retting der sentralen ikkje oppfyller krav eller etterlever pliktene som følgjer av denne føresegna eller forskrift om internkontroll i drosjeverksemd. Det skal setjast ein frist for retting. Dersom pålegget ikkje vert følgt, kan løyvet trekkast tilbake.
+
+> Tilføyd ved lov [20 juni 2025 nr. 111](lov/2025-06-20-111) (i kraft 1 juli 2026 iflg. [res. 19 sep 2025 nr. 1874](forskrift/2025-09-19-1874)).
 
 ### § 9 g. Unnatak frå sentralane sine plikter
 
@@ -564,7 +570,7 @@ Departementet kan i forskrift gje nærare reglar om kjøresetel.
 
 For personar med mellombels kollektivt vern etter [utlendingsloven § 34](lov/2008-05-15-35/§34) som legg fram politiattest som klart framstår autentisk frå heimstaten sin, gjeld ikkje kravet i [§ 37 c andre ledd](lov/2002-06-21-45/§37/ledd/2) om butid for utferding av kjøresetel.
 
-Kjøresetel for personar med mellombels kollektivt vern som har budd mindre enn fire år i Noreg, gjeld berre persontransport med bil for persontransport med over 8 sitteplassar i tillegg til førarsetet og tillaten totalvekt over 5000 kg. Politiet skal påføre kjøresetelen merknad om kva for kjøretøy han gjeld for.
+Kjøresetel for personar med mellombels kollektivt vern som har budd mindre enn fire år i Noreg, gjeld berre persontransport med bil for persontransport med over 8 sitjeplassar i tillegg til førarsetet og tillaten totalvekt over 5000 kg. Politiet skal påføre kjøresetelen merknad om kva for kjøretøy han gjeld for.
 
 Part eller annan med rettsleg klageinteresse kan ikkje klage på avslag som har grunnlag i forhold kring autentisiteten til politiattesten.
 
@@ -572,7 +578,7 @@ Politiet kan krevje at personar med mellombels kollektivt vern kjem til intervju
 
 Kjøresetel utferda med grunnlag i dette unntaket gjeld til innehavaren har budd fire år i Noreg, med mindre anna er bestemt om føresetnader som gjeld alder i [§ 37 a tredje ledd](lov/2002-06-21-45/§37/ledd/3). Politiet skal påføre kjøresetelen merknad om kva for periode han gjeld for.
 
-> Tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Vert oppheva** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Vert tilføyd** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Vert oppheva** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), oppheva ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Vert oppheva** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ## Kap. 8. Kontroll, sanksjonar mv.
 

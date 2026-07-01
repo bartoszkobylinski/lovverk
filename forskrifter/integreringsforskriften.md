@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2021-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "5ca3311c95394f5b1506c1518a6263728beddcd7a62c2e20f32c8b8372f3b741"
+xml_hash: "36990ac340ec658c1a718cd13f35c8dbf1745ade0cf134ee267569be44354fb0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ Den som skal gi foreldreveiledning, skal ha godkjenning eller være sertifisert 
 
 Kommunen kan gjøre unntak fra kravene i fjerde ledd om antall veiledningsmøter og veiledningssamtaler dersom kapasitetshensyn i kommunen gjør det nødvendig. Veiledning i gruppe etter [§ 3 fjerde ledd andre punktum](forskrift/2020-12-15-2912/§3/ledd/4/setning/2) skal likevel bestå av minst fire veiledningsmøter. Individuell veiledning etter [§ 3 fjerde ledd tredje punktum](forskrift/2020-12-15-2912/§3/ledd/4/setning/3) skal likevel bestå av minst to veiledningssamtaler.
 
-> Endret ved forskrifter [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), [20 juni 2025 nr. 1154](forskrift/2025-06-20-1154) (i kraft 1 juli 2025). **Endres** ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026, se endringsforskriften for overgangsregel), [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026), [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
+> Endret ved forskrifter [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), [20 juni 2025 nr. 1154](forskrift/2025-06-20-1154) (i kraft 1 juli 2025), [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026, se endringsforskriften for overgangsregel), [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Endres** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
 
 ### § 4. Kurs i livsmestring
 
@@ -466,9 +466,9 @@ Kandidater som blir bortvist fra prøvelokalet etter første ledd eller får en 
 
 > Endret ved forskrift [26 juni 2023 nr. 1105](forskrift/2023-06-26-1105) (i kraft 1 aug 2023).
 
-## Kapittel 8A. Midlertidige regler for personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34)
+## Kapittel 8A. Midlertidige regler for personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34) mv.
 
-> Kapittelet tilføyd ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195), opphevet ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195) (i kraft 1 juli 2023), tilføyd ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), opphevet ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024). **Oppheves** ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026). **Tilføyes** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
+> Kapittelet tilføyd ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195), opphevet ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195) (i kraft 1 juli 2023), tilføyd ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), opphevet ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), opphevet ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026), tilføyd ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
 
 ### § 43a. (Opphevet)
 
@@ -480,9 +480,9 @@ Kandidater som blir bortvist fra prøvelokalet etter første ledd eller får en 
 
 ### § 43c. Unntak fra kompetansekrav for lærere
 
-Dersom det ikke finnes søkere som oppfyller kravene i § 67 første ledd, kan andre tilsettes midlertidig dersom det er nødvendig for at kommunen skal kunne gi tilbud om opplæring i norsk etter [integreringsloven § 37d](lov/2020-11-06-127/§37d). For øvrig gjelder første til tredje ledd i § 68.
+Dersom det ikke finnes søkere som oppfyller kravene i [§ 67 første ledd](forskrift/2020-12-15-2912/§67/ledd/1), kan andre tilsettes midlertidig dersom det er nødvendig for at kommunen skal kunne gi tilbud om opplæring i norsk etter [integreringsloven § 37d](lov/2020-11-06-127/§37d). For øvrig gjelder første til tredje ledd i [§ 68](forskrift/2020-12-15-2912/§68).
 
-> Tilføyd ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195), opphevet ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195) (i kraft 1 juli 2023), tilføyd ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), opphevet ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024). **Oppheves** ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026). **Tilføyes** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
+> Tilføyd ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195), opphevet ved [forskrift 27 juni 2022 nr. 1195](forskrift/2022-06-27-1195) (i kraft 1 juli 2023), tilføyd ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), opphevet ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), opphevet ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026), tilføyd ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
 
 ### § 43d. (Opphevet)
 
@@ -496,21 +496,17 @@ Dersom det ikke finnes søkere som oppfyller kravene i § 67 første ledd, kan a
 
 > Tilføyd ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2023), opphevet ved forskrift [9 juni 2023 nr. 831](forskrift/2023-06-09-831) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), opphevet ved forskrift [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 jan 2026).
 
-### § 43g. Utvidet norskopplæring
+### § 43g. (Opphevet)
 
-Kommunen og fylkeskommunen kan gi utvidet norskopplæring til deltagere som omfattes av [integreringsloven § 37d](lov/2020-11-06-127/§37d) og har behov for utvidet opplæring for å oppnå et minimumsnivå i norsk, jf. § 27 og § 28. Utvidet opplæring etter første punktum skal gis i tilknytning til opplæringen etter [integreringsloven § 37d](lov/2020-11-06-127/§37d). Kommunen og fylkeskommunen kan likevel gi utvidet opplæring til deltagere som per 1. juli 2023 ikke lenger har rett til opplæring.
-
-Utvidet opplæring kan gis i inntil seks måneder til deltagere som har utdanning på videregående nivå eller høyere fra før. Utvidet opplæring kan gis i seks måneder av gangen i inntil to år til deltagere som ikke har utdanning på videregående nivå eller høyere fra før.
-
-> Tilføyd ved forskrift [26 juni 2023 nr. 1106](forskrift/2023-06-26-1106) (i kraft 1 juli 2023), opphevet ved forskrift [26 juni 2023 nr. 1106](forskrift/2023-06-26-1106) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024). **Oppheves** ved forskrifter [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026), [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026).
+> Tilføyd ved forskrift [26 juni 2023 nr. 1106](forskrift/2023-06-26-1106) (i kraft 1 juli 2023), opphevet ved forskrift [26 juni 2023 nr. 1106](forskrift/2023-06-26-1106) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), opphevet ved forskrifter [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026), [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026).
 
 ### § 43h. Rettigheter og plikter for deltagere som har hatt midlertidig kollektiv beskyttelse ved overgang til andre oppholdstillatelser
 
 Deltagere som har hatt oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34) og som har fått vedtak om introduksjonsprogram eller opplæring i norsk etter de midlertidige reglene i [integreringsloven kapittel 6A](lov/2020-11-06-127/kap6A), får ikke nye rettigheter eller plikter etter [integreringsloven](lov/2020-11-06-127) ved overgang til en annen oppholdstillatelse som nevnt i loven [§§ 27](lov/2020-11-06-127/§27) eller [28](lov/2020-11-06-127/§28).
 
-Deltagere som nevnt i første ledd har rett til å fullføre påbegynt introduksjonsprogram etter [integreringsloven § 37 c](lov/2020-11-06-127/§37c) eller eventuell gjenstående norskopplæring etter [integreringsloven § 37d](lov/2020-11-06-127/§37d) eller forskriften [§ 43g](forskrift/2020-12-15-2912/§43g).
+Deltagere som nevnt i første ledd har rett til å fullføre påbegynt introduksjonsprogram etter [integreringsloven § 37c](lov/2020-11-06-127/§37c) eller eventuell gjenstående norskopplæring etter [integreringsloven § 37d](lov/2020-11-06-127/§37d).
 
-> Tilføyd ved forskrift [30 jan 2024 nr. 146](forskrift/2024-01-30-146) (i kraft 1 feb 2024), opphevet ved forskrift [30 jan 2024 nr. 146](forskrift/2024-01-30-146) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), endret ved forskrift [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 jan 2026). **Oppheves** ved forskrifter [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026) og [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 juli 2026). **Tilføyes** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
+> Tilføyd ved forskrift [30 jan 2024 nr. 146](forskrift/2024-01-30-146) (i kraft 1 feb 2024), opphevet ved forskrift [30 jan 2024 nr. 146](forskrift/2024-01-30-146) (i kraft 1 juli 2024), tilføyd ved forskrift [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2024), endret ved forskrift [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 jan 2026), opphevet ved forskrifter [26 juni 2024 nr. 1359](forskrift/2024-06-26-1359) (i kraft 1 juli 2026) og [17 sep 2025 nr. 1909](forskrift/2025-09-17-1909) (i kraft 1 juli 2026), tilføyd ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2026). **Oppheves** ved forskrift [21 juni 2026 nr. 1155](forskrift/2026-06-21-1155) (i kraft 1 juli 2028).
 
 ### § 43i. (Opphevet)
 

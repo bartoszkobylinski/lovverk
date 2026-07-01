@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-04-21"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-05-08"
-xml_hash: "37b909fd6ef38c5d0355eaf959312f70edfe22ef22cdd47b35a8cef8be6ce341"
+xml_hash: "2d13ebbaf2be5f534065760a016eac6e2bd2e6596e424d282f443f9be530c799"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,11 @@ eu_basis: []
 
 ### § 1-1. Hvilke anskaffelser som er omfattet av forskriften
 
-(1) Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) inngår konsesjonskontrakter om tjenester eller bygge- og anleggsarbeider, med en anslått verdi som er lik eller overstiger 100 000 kroner ekskl. mva.
+(1) Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) inngår konsesjonskontrakter om tjenester eller bygge- og anleggsarbeider, med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
 
 (2) For oppdragsgivere som nevnt i [§ 1-3](forskrift/2016-08-12-976/§1-3) første ledd bokstav e og f gjelder forskriften bare når de inngår konsesjonskontrakter knyttet til utøvelsen av forsyningsaktiviteter.
 
-> Endret ved [forskrift 20 des 2016 nr. 1746](forskrift/2016-12-20-1746) (i kraft 1 jan 2017). **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 20 des 2016 nr. 1746](forskrift/2016-12-20-1746) (i kraft 1 jan 2017), [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 1-2. Konsesjonskontrakt
 
@@ -268,17 +268,17 @@ Alle frister skal beregnes i samsvar med forskrift om tidsfrister i EØS-avtalen
 
 Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverandøren utformer tilbudene og andre dokumenter på norsk.
 
-### § 7-6. Klima- og miljøhensyn i offentlige anskaffelser
+### § 7-6. Klima- og miljøhensyn
 
-(1) Krav og kriterier etter denne bestemmelsen skal ha som mål å redusere anskaffelsens samlede klimaavtrykk eller miljøbelastning.
+(1) Oppdragsgiver skal ta hensyn til klima og miljø i alle anskaffelser for å redusere anskaffelsens samlede klimaavtrykk og miljøbelastning.
 
-(2) Der oppdragsgiver angir tildelingskriteriene i prioritert rekkefølge, bør klima- og miljøhensyn være blant de tre høyest prioriterte.
+(2) I kunngjøringspliktige anskaffelser skal oppdragsgiver som angir tildelingskriteriene i prioritert rekkefølge, angi klima- og miljøhensyn blant de tre høyest prioriterte. Tildelingskriterier etter første punktum kan erstattes eller kombineres med klima- og miljøkrav i kravspesifikasjonen dersom dette gir en bedre klima- eller miljøeffekt. Dette skal begrunnes i anskaffelsesdokumentene.
 
-(3) Tildelingskriterier etter andre ledd kan erstattes med klima- og miljøkrav i kravspesifikasjonen, dersom det er klart at dette gir en bedre klima- og miljøeffekt og dette begrunnes i anskaffelsesdokumentene. Dersom oppdragsgiver ikke prioriterer i tråd med andre ledd, skal det stilles klima- og miljøkrav i kravspesifikasjonen, og dette skal begrunnes i anskaffelsesdokumentene.
+(3) Forpliktelsene etter første og andre ledd gjelder ikke dersom anskaffelsen etter sin art har et uvesentlig klimaavtrykk og miljøbelastning, eller dersom forpliktelsene går på bekostning av vesentlige interesser innenfor helse, sikkerhet eller beredskap. Dette skal begrunnes i anskaffelsesdokumentene.
 
-(4) Forpliktelsen til å stille krav eller kriterier etter denne bestemmelsen gjelder ikke dersom anskaffelsen etter sin art har et klimaavtrykk og en miljøbelastning som er uvesentlig og dette begrunnes i anskaffelsesdokumentene.
+(4) Forpliktelsene etter første og andre ledd gjelder heller ikke dersom oppdragsgiver med hjemmel i [anskaffelsesloven](lov/2016-06-17-73) er pålagt å stille standardiserte minimumskrav eller -kriterier til klimaavtrykk eller miljøbelastning. Kravene eller kriteriene må gjelde hovedytelsen som anskaffes.
 
-> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrift [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024). **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrifter [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024), [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ## Del II. Anskaffelser over EØS-terskelverdien
 

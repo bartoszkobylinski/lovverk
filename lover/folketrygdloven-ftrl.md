@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1997-05-01"
-last_change_in_force: "2026-06-23"
+last_change_in_force: "2026-07-01"
 last_updated: "2026-01-09"
-xml_hash: "292094c590e2354ea202dc6245181069372010a8e4c82639ca3cfea51e90dfd2"
+xml_hash: "2f6d7472afebb930f144e1e5fe0e5df929203de8343c9753a0c41f25e1673407"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32004R0883"
@@ -2597,9 +2597,9 @@ Det er et vilkår for rett til uføretrygd at vedkommende har vært medlem i fol
 
 Vilkåret om fem års forutgående medlemskap i første ledd gjelder ikke for en person som har vært medlem i trygden i minst ett år umiddelbart før han eller hun setter fram krav om uføretrygd, dersomvedkommende ble ufør før fylte 26 år og da var medlem i trygden, ellervedkommende etter fylte 16 år har vært medlem i trygden med unntak av maksimum fem år.
 
-Vilkåret i første ledd gjelder ikke dersom vedkommende var medlem i folketrygden på uføretidspunktet og uføretrygd ved 100 prosent uføregrad:beregnet av grunnlaget etter [§ 12-11](lov/1997-02-28-19/§12-11) første ledd minst vil svare til halvparten av høy sats etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd tredje punktum, ellerberegnet på grunnlag av perioder med medlemskap minst vil svare til halvparten av minsteytelsen etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd.Framtidig trygdetid skal ikke regnes med, se [§ 12-12](lov/1997-02-28-19/§12-12) femte ledd.
+Vilkåret i første ledd gjelder ikke dersom vedkommende var medlem i folketrygden på uføretidspunktet og uføretrygd ved 100 prosent uføregrad:beregnet av grunnlaget etter [§ 12-11 første ledd](lov/1997-02-28-19/§12-11/ledd/1) minst vil svare til halvparten av høy sats etter [§ 12-13 andre ledd](lov/1997-02-28-19/§12-13/ledd/2) andre punktum, ellerberegnet på grunnlag av perioder med medlemskap minst vil svare til halvparten av minsteytelsen etter [§ 12-13](lov/1997-02-28-19/§12-13) andre ledd.Framtidig trygdetid skal ikke regnes med, se [§ 12-12](lov/1997-02-28-19/§12-12) femte ledd.
 
-> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
+> Endret ved lover [19 des 1997 nr. 99](lov/1997-12-19-99) (med virkning fra 1 juli 1997), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [20 des 2016 nr. 105](lov/2016-12-20-105) (ikr. 1 jan 2017), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
 
 ### § 12-3. Fortsatt medlemskap
 
@@ -2663,7 +2663,7 @@ Dersom uføregraden økes fordi inntektsevnen er blitt ytterligere nedsatt, se [
 
 Inntekt før uførhet fastsettes til personens normale årsinntekt i full stilling før uføretidspunktet. For selvstendig næringsdrivende legges den gjennomsnittlige inntekten for de siste tre kalenderårene før uføretidspunktet til grunn.
 
-Inntekt før uførhet skal ikke settes lavere enn3,3 ganger grunnbeløpet for personer som lever sammen med en ektefelle (se [§ 1-5](lov/1997-02-28-19/§1-5)) eller med en samboer i et samboerforhold som har vart i minst 12 av de siste 18 månedene.3,5 ganger grunnbeløpet for enslige,4,5 ganger grunnbeløpet for medlemmer som fyller vilkårene for rett til minsteytelse som ung ufør.
+Inntekt før uførhet skal ikke settes lavere enn 3,5 ganger grunnbeløpet. For medlemmer som fyller vilkårene for rett til minsteytelse som ung ufør, skal inntekt før uførhet ikke settes lavere enn 4,5 ganger grunnbeløpet.
 
 Inntekt etter uførhet fastsettes til den inntekt han eller hun forutsettes å kunne skaffe seg ved å utnytte sin restinntektsevne.
 
@@ -2673,7 +2673,7 @@ Som inntekt etter paragrafen her regnes all pensjonsgivende inntekt, se [§ 3-15
 
 Departementet kan i forskrift gi nærmere regler om fastsetting av inntekt før og etter uførhet, blant annet om stillingsandelens betydning og om at visse inntekter ikke skal medregnes.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (i kraft 1 jan 2004), [16 des 2005 nr. 118](lov/2005-12-16-118) (i kraft 1 jan 2006 med virkning også for løpende tilfeller), [5 juni 2009 nr. 33](lov/2009-06-05-33) (i kraft 5 juni 2009 iflg. [res. 5 juni 2009 nr. 599](forskrift/2009-06-05-599)), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), tilføyd igjen ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (i kraft 1 jan 2004), [16 des 2005 nr. 118](lov/2005-12-16-118) (i kraft 1 jan 2006 med virkning også for løpende tilfeller), [5 juni 2009 nr. 33](lov/2009-06-05-33) (i kraft 5 juni 2009 iflg. [res. 5 juni 2009 nr. 599](forskrift/2009-06-05-599)), opphevet ved lov [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), tilføyd igjen ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24)), [18 des 2015 nr. 103](lov/2015-12-18-103), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 12-10. Fastsetting og endring av uføregrad
 
@@ -2727,7 +2727,7 @@ Når den samlede trygdetiden utgjør minst fem år, avrundes den til nærmeste h
 
 Uføretrygd ytes med 66 prosent av grunnlaget etter [§ 12-11](lov/1997-02-28-19/§12-11).
 
-Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer som lever sammen med en ektefelle (se [§ 1-5](lov/1997-02-28-19/§1-5)) eller med en samboer i et samboerforhold som har vart i minst 12 av de siste 18 månedene. Minste årlige ytelse er likevel 2,379 ganger grunnbeløpet dersom vedkommende mottar en uføretrygd som er en omregnet uførepensjon. For andre utgjør minste årlige ytelse 2,529 ganger grunnbeløpet (høy sats).
+Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer som lever sammen med en ektefelle (se [§ 1-5](lov/1997-02-28-19/§1-5)) eller med en samboer i et samboerforhold som har vart i minst 12 av de siste 18 månedene. For andre utgjør minste årlige ytelse 2,529 ganger grunnbeløpet (høy sats).
 
 For et medlem som har blitt ufør før fylte 26 år på grunn av en alvorlig og varig sykdom, skade eller lyte som er klart dokumentert, er minsteytelsene som nevnt i andre ledd henholdsvis 2,709 og 2,959 ganger grunnbeløpet. Dette gjelder selv om et medlem har vært mer enn 50 prosent yrkesaktiv etter fylte 26 år, dersom det er klart dokumentert at vilkårene i første punktum var oppfylt før 26 år og kravet settes fram før fylte 36 år. Bestemmelsen i første punktum gjelder også når uføretrygd gis på nytt etter at ytelsen er falt bort på grunn av prøving mot inntekt etter [§ 12-14](lov/1997-02-28-19/§12-14). Minsteytelsen etter leddet her ytes tidligst fra og med den måneden medlemmet fyller 20 år.
 
@@ -2735,13 +2735,13 @@ Når trygdetiden etter [§ 12-12](lov/1997-02-28-19/§12-12) er kortere enn 40 �
 
 Dersom uføregraden etter [§ 12-10](lov/1997-02-28-19/§12-10) er lavere enn 100 prosent, fastsettes uføretrygden til en forholdsmessig andel av beløpet etter første til fjerde ledd.
 
-> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
+> Endret ved lover [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [11 juni 2004 nr. 36](lov/2004-06-11-36), [16 des 2005 nr. 119](lov/2005-12-16-119) (ikr. 1 juni 2006), [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [19 des 2008 nr. 107](lov/2008-12-19-107) (ikr. 1 jan 2009), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [16 des 2011 nr. 58](lov/2011-12-16-58), [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lov [20 juni 2014 nr. 24](lov/2014-06-20-24), [18 des 2015 nr. 103](lov/2015-12-18-103) (ikr. 1 sep 2016), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2021 iflg. res. [18 des 2020 nr. 2860](forskrift/2020-12-18-2860), for overgangsbestemmelser se loven del V), [20 des 2023 nr. 95](lov/2023-12-20-95) (i kraft 1 juli 2024), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026). **Endres** ved lov [23 juni 2026 nr. 65](lov/2026-06-23-65) (i kraft 1 okt 2026, med virkning fra 1 juli 2026).
 
 ### § 12-14. Reduksjon av uføretrygd på grunn av inntekt
 
-Når uføregraden fastsettes etter [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes en inntektsgrense, som skal svare til inntekt etter uførhet (se [§ 12-9](lov/1997-02-28-19/§12-9) tredje ledd) tillagt 40 prosent av grunnbeløpet per kalenderår.
+Når uføregraden fastsettes etter [§ 12-10](lov/1997-02-28-19/§12-10), skal det fastsettes et bunnfradrag, som skal svare til inntekt etter uførhet (se [§ 12-9 tredje ledd](lov/1997-02-28-19/§12-9/ledd/3)) tillagt 40 prosent av grunnbeløpet per kalenderår.
 
-Dersom mottakeren av uføretrygd har inntekt som overstiger inntektsgrensen, skal uføretrygden reduseres. Reduksjonen skal svare til den overskytende inntekten multiplisert med en brøk der vedkommendes uføretrygd ved 100 prosent uføregrad er teller og inntekt før uførhet (se [§ 12-9](lov/1997-02-28-19/§12-9) første og andre ledd) er nevner. Som inntekt regnes pensjonsgivende inntekt eller inntekt av samme art fra utlandet.
+Uføretrygd skal reduseres med en andel av inntekt som overstiger bunnfradraget. Andelen (reduksjonsprosenten) skal svare til mottakerens uføretrygd ved 100 prosent uføregrad delt på mottakerens inntekt før uførhet (se [§ 12-9 første](lov/1997-02-28-19/§12-9/ledd/1) og [andre ledd](lov/1997-02-28-19/§12-9/ledd/2)). Reduksjonsprosenten skal likevel ikke overstige 70 prosent. Som inntekt regnes pensjonsgivende inntekt og inntekt av samme art fra utlandet.
 
 Det utbetales ikke uføretrygd når den pensjonsgivende inntekten utgjør mer enn 80 prosent av inntekt før uførhet.
 
@@ -2751,7 +2751,7 @@ Når en mottaker av uføretrygd får økonomiske ytelser som ikke er pensjonsgiv
 
 Departementet kan i forskrift gi nærmere regler om reduksjon av uføretrygd på grunn av inntekt og om etteroppgjør.
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum). **Endres** ved lov [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-14 endret paragrafnummer til § 12-21), endret ved lover [18 des 2015 nr. 103](lov/2015-12-18-103), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026 med virkning fra 1 jan 2026, gjelder andre ledd tredje punktum), [22 des 2025 nr. 117](lov/2025-12-22-117) (i kraft 1 juli 2026, gjelder første ledd første punktum og andre ledd første, andre og fjerde punktum). **Endres** ved lov [12 juni 2026 nr. 24](lov/2026-06-12-24) (i kraft 1 okt 2026 med virkning fra 1 jan 2026 iflg. [res. 12 juni 2026 nr. 1078](forskrift/2026-06-12-1078)).
 
 ### § 12-15. Barnetillegg
 
@@ -2805,7 +2805,7 @@ Tillegget skal justeres for uføregrad. Dersom den gjenlevende har inntekt som v
 
 Tillegget faller bort når den gjenlevende gifter seg igjen, se [§ 1-5](lov/1997-02-28-19/§1-5).
 
-> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797)) som endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73) (tidligere § 12-18 endret paragrafnummer til § 12-17), endret ved lov [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
+> Tilføyd ved lov [16 des 2011 nr. 59](lov/2011-12-16-59) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797), endring endret ved lover [20 juni 2014 nr. 24](lov/2014-06-20-24) og [19 des 2014 nr. 73](lov/2014-12-19-73), tidligere § 12-18 endret paragrafnummer til § 12-17), endret ved lover [20 des 2016 nr. 105](lov/2016-12-20-105), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)).
 
 ### § 12-19. Uføretrygd under opphold i institusjon
 
@@ -3255,9 +3255,9 @@ Departementet gir forskrifter til utfylling og gjennomføring av bestemmelsene i
 
 ### § 15-1. Formål
 
-Formålet med stønad etter dette kapitlet er å sikre inntekt for medlemmer som har aleneomsorg for barn, og å gi disse medlemmene midlertidig hjelp til selvhjelp slik at de kan bli i stand til å forsørge seg selv ved eget arbeid.
+Formålet med stønad etter dette kapitlet er å sikre inntekt for medlemmer som på grunn av aleneomsorg for små eller særlig tilsynskrevende barn i en midlertidig periode er ute av stand til å forsørge seg selv ved eget arbeid.
 
-> **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 15-1 a. Forholdet til bestemmelser om internasjonal trygdekoordinering
 
@@ -3297,29 +3297,23 @@ Medlemmet har selv bevisbyrden for at han eller hun er enslig mor eller far med 
 
 ### § 15-5. Overgangsstønad
 
-Overgangsstønad ytes til et medlem som på grunn av omsorg for barn er midlertidig ute av stand til å forsørge seg selv ved eget arbeid, eller først etter en tid med omstilling eller utdanning kan få et arbeid.
+Overgangsstønad ytes til en enslig mor eller far som på grunn av omsorg for barn er midlertidig ute av stand til å forsørge seg selv ved eget arbeid.
 
-Stønad kan gis til enslig mor eller far som har barn under åtte år. For et medlem som er forhindret fra å arbeide på grunn av omsorg for barn som krever særlig tilsyn, kan det innvilges overgangsstønad inntil barnet fyller 18 år. Det kan gjøres unntak fra aldersgrensen i første punktum i forbindelse med forlengelser etter [§ 15-8](lov/1997-02-28-19/§15-8) annet ledd tredje punktum, fjerde ledd og femte ledd.
+Overgangsstønad kan gis fra det tidspunktet den enslige moren eller faren får aleneomsorgen, og fram til utløpet av den måneden barnet fyller 14 måneder. I forbindelse med fødsel kan det i tillegg ytes stønad i inntil to måneder før fødselen.
+
+I direkte tilknytning til en løpende stønadsperiode kan stønadstiden forlenges med inntil 24 måneder, dersom barnet har en forbigående sykdom som hindrer medlemmet i å arbeide. Sykdommen må dokumenteres med legeerklæring.
+
+Dersom medlemmet er forhindret fra å arbeide fordi barnet krever særlig tilsyn på grunn av funksjonshemming, sykdom eller store sosiale problemer, kan det innvilges overgangsstønad inntil utløpet av den måneden barnet fyller 18 år. Barnets fysiske eller psykiske tilstand må dokumenteres av lege. Det må også framlegges dokumentasjon på at medlemmet er forhindret fra å arbeide som følge av barnets tilstand.
 
 Et medlem som uten rimelig grunn har sagt opp et arbeidsforhold de siste seks månedene før søknadstidspunktet, får ikke overgangsstønad.
 
-> Endret ved lover [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 18 des 1998 for fjerde ledd), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 juli 1999 for tredje ledd), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+Departementet kan gi forskrifter om beregning av stønadsperiodens lengde, herunder om oppdeling og avkorting av stønadsperioden.
 
-### § 15-6. Plikt til yrkesrettet aktivitet
+> Endret ved lover [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 18 des 1998 for fjerde ledd), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 juli 1999 for tredje ledd), [20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
-Når det yngste barnet har fylt ett år, er det et vilkår for rett til overgangsstønad at medlemmet entener i arbeid som utgjør minst halvparten av full tid,har meldt seg til arbeids- og velferdsetaten som reell arbeidssøker,gjennomfører utdanning eller opplæring som utgjør minst halvparten av full tid som arbeids- og velferdsetaten vurderer er nødvendig og hensiktsmessig for at medlemmet skal kunne få eller beholde et arbeid, elleretablerer egen virksomhet, se [§ 4-6](lov/1997-02-28-19/§4-6) tredje ledd.
+### § 15-6. (Opphevet)
 
-Arbeids- og velferdsetaten skal etter behov innkalle til samtaler for å vurdere oppfølging av medlemmet og om det skal settes i verk tiltak med sikte på overgang til arbeid.
-
-Et medlem som er reell arbeidssøker, jf. første ledd bokstav b), må melde seg hver fjortende dag til arbeids- og velferdsetaten. Arbeids- og velferdsetaten bestemmer hvordan melding skal skje.
-
-Aktivitetsplikten gjelder ikke hvis medlemmet er forhindret fra å arbeide på grunn av omsorg for barn som krever særlig tilsyn som nevnt i [§ 15-8](lov/1997-02-28-19/§15-8) tredje ledd.
-
-Om medlemmet ikke er i yrkesrettet aktivitet etter første ledd, ytes likevel overgangsstønad i inntil seks måneder hvis barnet ikke har en tilfredsstillende tilsynsordning og dette ikke kan tilskrives medlemmet selv. Det kan gis overgangsstønad uten begrensning på seks måneder til et medlem som ikke er i yrkesrettet aktivitet, dersom den enslige moren eller faren eller barnet har en sykdom som hindrer yrkesrettet aktivitet. Sykdommen skal dokumenteres med legeerklæring.
-
-Departementet kan gi forskrifter om hvilken utdanning som kan godkjennes og kravet om å være reell arbeidssøker.
-
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2000 nr. 125](lov/2000-12-21-125), [20 des 2002 nr. 111](lov/2002-12-20-111) (ikr. 1 jan 2003), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [15 juni 2007 nr. 21](lov/2007-06-15-21), [14 des 2012 nr. 80](lov/2012-12-14-80) (ikr. 1 jan 2013), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [8 des 2023 nr. 87](lov/2023-12-08-87) (i kraft 1 feb 2024 iflg. [res. 12 jan 2024 nr. 60](forskrift/2024-01-12-60)). **Oppheves** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2000 nr. 125](lov/2000-12-21-125), [20 des 2002 nr. 111](lov/2002-12-20-111) (ikr. 1 jan 2003), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [15 juni 2007 nr. 21](lov/2007-06-15-21), [14 des 2012 nr. 80](lov/2012-12-14-80) (ikr. 1 jan 2013), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [8 des 2023 nr. 87](lov/2023-12-08-87) (i kraft 1 feb 2024 iflg. [res. 12 jan 2024 nr. 60](forskrift/2024-01-12-60)), opphevet ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 15-7. Overgangsstønadens størrelse
 
@@ -3327,21 +3321,9 @@ Departementet kan gi forskrifter om hvilken utdanning som kan godkjennes og krav
 
 > Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [12 des 2008 nr. 83](lov/2008-12-12-83) (ikr. 1 mai 2008), [18 des 2009 nr. 133](lov/2009-12-18-133) (ikr. 1 mai 2010), [13 des 2013 nr. 105](lov/2013-12-13-105).
 
-### § 15-8. Stønadsperiode
+### § 15-8. (Opphevet)
 
-Overgangsstønad kan ytes i tre år til sammen. Et medlem som tidligere har mottatt overgangsstønad en hel stønadsperiode, kan innvilges nye stønadsperioder til og med den kalendermåneden barnet fyller fjorten måneder. I forbindelse med fødsel kan det i tillegg ytes stønad i inntil to måneder før fødselen.
-
-Stønadstiden kan utvides med opptil to år når den enslige moren eller faren er under nødvendig og hensiktsmessig utdanning, jf. [§ 15-6](lov/1997-02-28-19/§15-6) første ledd bokstav c). Dersom den enslige moren eller faren har aleneomsorg for flere enn to barn eller fikk aleneomsorg for barn før fylte 18 år, kan stønadstiden utvides med opptil tre år. Stønadstiden kan ytterligere forlenges til og med den måneden et påbegynt utdanningsår avsluttes. Det gis vanligvis ikke stønad etter at yrkeskompetanse er oppnådd.
-
-Stønadstiden kan utvides inntil barnet fyller 18 år dersom medlemmet er forhindret fra å arbeide fordi barnet krever særlig tilsyn på grunn av funksjonshemming, sykdom eller store sosiale problemer. Barnets fysiske eller psykiske tilstand må dokumenteres av lege. Det må også framlegges dokumentasjon på at medlemmet er forhindret fra å arbeide som en følge av barnets tilstand.
-
-I direkte tilknytning til en løpende stønadsperiode kan stønadstiden forlenges med inntil to år dersom medlemmet eller barnet har en forbigående sykdom som hindrer medlemmet i å arbeide. Sykdommen må dokumenteres med legeerklæring.
-
-I direkte tilknytning til en løpende stønadsperiode kan stønadstiden i særlige tilfelle forlenges i inntil seks måneder i påvente av skolestart, barnetilsyn, et konkret arbeidstilbud eller etter at medlemmet har meldt seg som reell arbeidssøker ved arbeids- og velferdsetaten.
-
-Departementet kan gi forskrifter om beregning av stønadsperiodens lengde, herunder om oppdeling og avkorting av stønadsperioden.
-
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 aug 2002), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [17 des 2021 nr. 146](lov/2021-12-17-146), [8 des 2023 nr. 87](lov/2023-12-08-87) (i kraft 1 feb 2024 iflg. [res. 12 jan 2024 nr. 60](forskrift/2024-01-12-60)). **Oppheves** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 aug 2002), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 1 jan 2004, se dens III), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 1 jan 2012), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [17 des 2021 nr. 146](lov/2021-12-17-146), [8 des 2023 nr. 87](lov/2023-12-08-87) (i kraft 1 feb 2024 iflg. [res. 12 jan 2024 nr. 60](forskrift/2024-01-12-60)), opphevet ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 15-9. Avkorting mot inntekt
 
@@ -3355,43 +3337,29 @@ Departementet gir forskrifter om fastsetting og endring av forventet pensjonsgiv
 
 > Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2002), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [13 des 2013 nr. 105](lov/2013-12-13-105), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [22 des 2025 nr. 117](lov/2025-12-22-117).
 
-### § 15-10. Stønad til barnetilsyn til enslig mor eller far som er i arbeid mv.
+### § 15-10. Stønad til barnetilsyn til enslig mor eller far som er i arbeid
 
-Stønad til barnetilsyn ytes til et medlem som må overlate nødvendig tilsyn med barn til andre på grunn av arbeid eller at de etablerer egen virksomhet, jf. [§ 4-6](lov/1997-02-28-19/§4-6) tredje ledd. Stønaden er uavhengig av retten til og perioden for overgangsstønad.
+Stønad til barnetilsyn ytes til enslig mor eller far som må overlate nødvendig tilsyn med barn under 14 måneder til andre på grunn av arbeid. Stønaden er uavhengig av retten til og perioden for overgangsstønad.
 
-Stønad kan ytes til barnet har fullført fjerde skoleår. For barn som har fullført fjerde skoleår, kan det gis stønad til tilsyn når barnet må ha vesentlig mer tilsyn enn det som er vanlig for jevnaldrende, eller når medlemmet på grunn av sitt arbeid må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn det en vanlig arbeidsdag medfører. Stønad til barnetilsyn kan også gis i inntil ett år når medlemmet har en forbigående sykdom som hindrer vedkommende i å være i arbeid.
+For barn som må ha vesentlig mer tilsyn enn det som er vanlig for jevnaldrende, kan det gis stønad til barnetilsyn også når barnet er mellom 14 måneder og 18 år. Det samme gjelder når medlemmet på grunn av sitt arbeid må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn det en vanlig arbeidsdag medfører. Stønad til barnetilsyn kan også gis i inntil ett år når medlemmet har en forbigående sykdom som hindrer vedkommende i å være i arbeid.
 
-Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de beløp som Stortinget fastsetter. Det gis ikke stønad når den pensjonsgivende inntekten er større enn seks ganger grunnbeløpet.
+Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de beløp som Stortinget fastsetter. Det gis ikke stønad når den pensjonsgivende inntekten er større enn seks ganger grunnbeløpet. Etterbetaling av trygdeytelser skal ikke medregnes ved beregning av pensjonsgivende inntekt etter dette leddet.
 
-Departementet kan gi forskrifter om stønad til barnetilsyn.
+Departementet kan i forskrift fastsette nærmere regler om vilkårene for og beregning av stønad til barnetilsyn.
 
-> Endret ved lov [28 feb 1997 nr. 20](lov/1997-02-28-20) (i kraft 1 jan 1998), opphevet ved lov [15 juni 2001 nr. 37](lov/2001-06-15-37) (ikr. 1 okt 2003 iflg. [res. 31 jan 2003 nr. 78](forskrift/2003-01-31-78)), tilføyd igjen ved lov [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016, tidligere § 15-11). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lov [28 feb 1997 nr. 20](lov/1997-02-28-20) (i kraft 1 jan 1998), opphevet ved lov [15 juni 2001 nr. 37](lov/2001-06-15-37) (i kraft 1 okt 2003 iflg. [res. 31 jan 2003 nr. 78](forskrift/2003-01-31-78)), tilføyd igjen ved lov [19 juni 2015 nr. 42](lov/2015-06-19-42) (i kraft 1 jan 2016, tidligere § 15-11), endret ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
-### § 15-11. Tilleggsstønader og stønad til skolepenger mv.
+### § 15-11. (Opphevet)
 
-Et medlem som gjennomfører utdanning eller opplæring etter [§ 15-6](lov/1997-02-28-19/§15-6) første ledd bokstav c), kan gis tilleggsstønader som helt eller delvis dekkerutgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningen,utgifter til hjemreiser i forbindelse med utdanningen,nødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomført,nødvendige utgifter til tilsyn for barn i forbindelse med utredning eller gjennomføring av utdanningen,nødvendige ekstrautgifter til bolig i forbindelse med utredning, eller gjennomføring av utdanningen,stønad til dekning av dokumenterte utgifter til læremidler.
-
-Stønad til flytting etter første ledd bokstav c) kan også gis til et medlem som må flytte fra hjemstedet for å starte i arbeid på et annet sted. Flyttestønad gis bare når medlemmet har flyttet i et tidsrom der han eller hun har rett til overgangsstønad eller innen seks måneder etter at overgangsstønaden falt bort.
-
-Stønad til tilsyn for barn etter første ledd bokstav d) kan også gis til et medlem som står tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker etter [§ 15-6](lov/1997-02-28-19/§15-6) første ledd bokstav b).
-
-Det kan gis stønad til dekning av skolepenger mv. med utgangspunkt i satsene for skolepenger fra Statens lånekasse for utdanning. Utdanning ved private utdanningsinstitusjoner gir bare rett til stønad i særlige tilfeller.
-
-Tilleggsstønader og stønad til skolepenger mv. gis bare for tidsrom den enslige moren eller faren har rett til overgangsstønad.
-
-Departementet kan i forskrift fastsette nærmere regler om tilleggsstønadene, og om skolepenger og utdanning ved private utdanningsinstitusjoner.
-
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [15 juni 2001 nr. 90](lov/2001-06-15-90) (ikr. 1 aug 2001), [20 des 2002 nr. 111](lov/2002-12-20-111) (ikr. 1 jan 2003), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 20 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016, tidligere § 15-11 endret paragrafnummer til § 15-10), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 mars 2020). **Oppheves** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [10 des 1999 nr. 84](lov/1999-12-10-84), [15 juni 2001 nr. 90](lov/2001-06-15-90) (ikr. 1 aug 2001), [20 des 2002 nr. 111](lov/2002-12-20-111) (ikr. 1 jan 2003), [19 des 2003 nr. 135](lov/2003-12-19-135) (ikr. 20 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016, tidligere § 15-11 endret paragrafnummer til § 15-10), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 mars 2020), opphevet ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 15-12. Sanksjonsregler
-
-Stønad etter dette kapittelet faller bort en måned dersom medlemmet uten rimelig grunn sier opp sin stilling, nekter å ta imot tilbudt arbeid, unnlater å gjenoppta sitt arbeidsforhold etter endt foreldrepermisjon, nekter å delta i arbeidsmarkedstiltak eller unnlater å møte ved innkalling til arbeids- og velferdsetaten. Bortfallsperioden vil trekkes fra den innvilgede stønadsperioden.
 
 Dersom medlemmet har gitt uriktige opplysninger om forhold som har betydning for retten til stønader etter dette kapittelet, og han eller hun var klar over eller burde vært klar over dette, kan medlemmet utestenges fra rett til stønad i inntil tre måneder første gang og inntil seks måneder ved gjentakelser i løpet av de siste tre årene. Det samme gjelder dersom medlemmet har unnlatt å gi opplysninger av betydning for retten til stønad.
 
 Departementet kan gi forskrifter om utestengningstidens lengde.
 
-> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [10 des 1999 nr. 84](lov/1999-12-10-84), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 15-13. Forholdet til andre folketrygdytelser m.m.
 
@@ -3563,19 +3531,39 @@ Departementet kan gi forskrifter om detaljer om reduksjon av stønad etter denne
 
 > Endret ved lover [23 juni 2000 nr. 55](lov/2000-06-23-55) (ikr. 1 jan 2002), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002 for nytt andre ledd, for etterlatte som mottar ytelser pr. 31 des 2001 trer endringen ikr. 1 jan 2003), [20 juni 2003 nr. 53](lov/2003-06-20-53), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [26 nov 2010 nr. 59](lov/2010-11-26-59) (ikr. 1 jan 2011), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36), tidligere § 17-8, se endringslovene for overgangsregler), [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)), [22 des 2025 nr. 117](lov/2025-12-22-117), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
-### § 17-10. Stønad til barnetilsyn, tilleggsstønader, stønader til skolepenger m.m.
+### § 17-10. Stønad til barnetilsyn til gjenlevende i arbeid
 
-Til en gjenlevende som fyller vilkårene i [§ 17-4](lov/1997-02-28-19/§17-4), kan det gisstønad til barnetilsyn etter [§ 15-10](lov/1997-02-28-19/§15-10),tilleggsstønader og stønad til skolepenger mv. etter [§ 15-11](lov/1997-02-28-19/§15-11).
+Til en gjenlevende som er i arbeid, og som fyller vilkårene i [§ 17-2](lov/1997-02-28-19/§17-2) til [§ 17-4](lov/1997-02-28-19/§17-4), kan det gis stønad til barnetilsyn. Stønaden er uavhengig av retten til og perioden for omstillingsstønad.
 
-Stønad til barnetilsyn etter [§ 15-10](lov/1997-02-28-19/§15-10) eller [§ 15-11](lov/1997-02-28-19/§15-11) første ledd bokstav d gis for barn som blir forsørget av den gjenlevende.
+Stønad til barnetilsyn gis til en gjenlevende som må overlate nødvendig tilsyn med barn til andre på grunn av arbeid eller at de etablerer egen virksomhet, jf. [§ 4-6 tredje ledd](lov/1997-02-28-19/§4-6/ledd/3).
 
-For fosterbarn, se [barnevernsloven § 9-1](lov/2021-06-18-97/§9-1), kan det ytes stønad til barnetilsyn etter [§ 15-10](lov/1997-02-28-19/§15-10) og [§ 15-11](lov/1997-02-28-19/§15-11) første ledd bokstav d når den gjenlevende har forsørget barnet de siste to årene eller oppfostringen tok til før dødsfallet.
+Stønad til barnetilsyn kan gis til barnet har fullført fjerde skoleår. For barn som har fullført fjerde skoleår, kan det gis stønad når barnet må ha vesentlig mer tilsyn enn det som er vanlig for jevnaldrende, eller når den gjenlevende på grunn av sitt arbeid må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn det en vanlig arbeidsdag medfører. Stønad til barnetilsyn kan også gis i inntil ett år når den gjenlevende har en forbigående sykdom som hindrer vedkommende i å være i arbeid.
 
-> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36), tidligere § 17-9). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+Stønaden er 64 prosent av dokumenterte utgifter til barnetilsyn opptil de beløpene som Stortinget fastsetter. Det gis ikke stønad når den pensjonsgivende inntekten er større enn seks ganger grunnbeløpet.
+
+Stønad gis for barn som blir forsørget av den gjenlevende. For barn som bor i fosterhjem, jf. [barnevernsloven § 9-1](lov/2021-06-18-97/§9-1), kan det gis stønad når den gjenlevende har forsørget barnet de siste to årene eller oppfostringen tok til før dødsfallet.
+
+Departementet kan i forskrift fastsette nærmere regler om vilkårene for og beregning av stønad til barnetilsyn etter denne bestemmelsen.
+
+> Endret ved lover [28 feb 1997 nr. 20](lov/1997-02-28-20) (ikr. 1 jan 1998), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36), tidligere § 17-9), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 17-10 a. Tilleggsstønader og stønader til skolepenger m.m.
 
-> **Tilføyes** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+Til en gjenlevende som fyller vilkårene i [§ 17-2](lov/1997-02-28-19/§17-2) til [§ 17-4](lov/1997-02-28-19/§17-4), og som gjennomfører utdanning eller opplæring etter [§ 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), kan det gis tilleggsstønader og stønad til skolepenger m.m. som helt eller delvis dekkerutgifter til daglige reiser i forbindelse med utredning eller gjennomføring av utdanningenutgifter til hjemreiser i forbindelse med utdanningennødvendige utgifter til flytting fra hjemstedet i forbindelse med utdanningen eller i forbindelse med arbeid etter at utdanningen er gjennomførtnødvendige utgifter til barnetilsyn i forbindelse med utredning eller gjennomføring av utdanningennødvendige ekstrautgifter til bolig i forbindelse med utredning eller gjennomføring av utdanningennødvendige utgifter til læremidler.
+
+Stønad etter denne bestemmelsen kan bare gis for tidsrom den gjenlevende har rett til omstillingsstønad, jf. [§ 17-5](lov/1997-02-28-19/§17-5).
+
+Stønad til flytting etter første ledd bokstav c kan også gis til en gjenlevende som må flytte fra hjemstedet for å starte i arbeid på et annet sted. Flyttestønad gis bare når den gjenlevende har flyttet i et tidsrom der han eller hun har rett til omstillingsstønad, eller innen seks måneder etter at omstillingsstønaden falt bort.
+
+Stønad etter første ledd bokstav d gis for barn som blir forsørget av den gjenlevende. For barn som bor i fosterhjem, jf. [barnevernsloven § 9-1](lov/2021-06-18-97/§9-1), kan det gis slik stønad når den gjenlevende har forsørget barnet de siste to årene eller oppfostringen tok til før dødsfallet.
+
+Stønad til barnetilsyn etter første ledd bokstav d kan også gis til et medlem som står tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker etter [§ 17-7 første ledd bokstav b](lov/1997-02-28-19/§17-7/ledd/1/bokstav/b).
+
+Det kan gis stønad til dekning av skolepenger m.m. etter satsene for skolepenger fra Statens lånekasse for utdanning. Utdanning ved private utdanningsinstitusjoner gir bare rett til skolepenger m.m. i særlige tilfeller.
+
+Departementet kan i forskrift fastsette nærmere regler om vilkårene for og beregningen av tilleggsstønader og stønad til skolepenger etter denne bestemmelsen, herunder stønad til skolepenger til utdanning ved private utdanningsinstitusjoner.
+
+> Tilføyd ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 17-11. Bortfall av ytelser
 
@@ -3631,11 +3619,11 @@ For rett til ytelser etter dette kapitlet måpleieren ha vært ugift i minst fem
 
 Full årlig omstillingsstønad utgjør 2,25 ganger grunnbeløpet og gis dersom den tidligere familiepleieren hadde minst 40 års trygdetid etter bestemmelsene i [§ 3-5](lov/1997-02-28-19/§3-5). Dersom trygdetiden er kortere, reduseres omstillingsstønaden forholdsmessig.
 
-Til en tidligere familiepleier kan det ytes tilleggsstønader og stønad til skolepenger mv. etter [§ 15-11](lov/1997-02-28-19/§15-11) for at vedkommende kan komme i arbeid.
+Til en tidligere familiepleier kan det gis tilleggsstønader og stønad til skolepenger m.m. etter § 17-10 a for at vedkommende kan komme i arbeid.
 
 Bestemmelsene i [§§ 17-5](lov/1997-02-28-19/§17-5), [17-7](lov/1997-02-28-19/§17-7), [17-8](lov/1997-02-28-19/§17-8), [17-9](lov/1997-02-28-19/§17-9), [17-11](lov/1997-02-28-19/§17-11), [17-13](lov/1997-02-28-19/§17-13) og [17-14](lov/1997-02-28-19/§17-14) gjelder tilsvarende.
 
-> Tilføyd ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Tilføyd ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)), endret ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### Kapittel 17 A. Overgangsregler for gjenlevende ektefelle og tidligere familiepleier som har rett til ytelse med virkning før 1. januar 2024
 
@@ -3697,11 +3685,11 @@ En gjenlevende ektefelle som ikke har fylt 55 år, skal forventes å få en pens
 
 Pensjonen eller overgangsstønaden skal ikke reduseres hvis den faktiske eller forventede pensjonsgivende inntekten på årsbasis er mindre enn halvparten av grunnbeløpet. Ytelsen skal reduseres med 40 prosent av pensjonsgivende inntekt over halvparten av grunnbeløpet.
 
-Likestilt med pensjonsgivende inntekt er tilsvarende inntekt fra utlandet og pensjonsytelser som det gis statstilskott til etter [AFP-tilskottsloven](lov/2010-02-19-5) og avtalefestet pensjon etter [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2](lov/2010-06-25-28/kap2) eller tilsvarende ordning.
+Likestilt med pensjonsgivende inntekt er tilsvarende inntekt fra utlandet, uføretrygd etter [kapittel 12](lov/1997-02-28-19/kap12) der uføregraden er under 100 prosent, og pensjonsytelser som det gis statstilskott til etter [AFP-tilskottsloven](lov/2010-02-19-5) og avtalefestet pensjon etter [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse kapittel 2](lov/2010-06-25-28/kap2) eller tilsvarende ordning.
 
 Departementet kan gi forskrifter om fastsetting og endring av forventet pensjonsgivende inntekt. Det kan herunder gjøres unntak fra bestemmelsene i [§ 22-12](lov/1997-02-28-19/§22-12).
 
-> Tilføyd ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)), endret ved lover [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)), [22 des 2025 nr. 117](lov/2025-12-22-117). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
+> Tilføyd ved lov [18 des 2020 nr. 139](lov/2020-12-18-139) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929), endring endret ved lov [16 juni 2023 nr. 36](lov/2023-06-16-36)), endret ved lover [12 april 2024 nr. 14](lov/2024-04-12-14) (i kraft 1 okt 2024 iflg. [res. 20 sep 2024 nr. 2209](forskrift/2024-09-20-2209)), [22 des 2025 nr. 117](lov/2025-12-22-117), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 17 A-7. Ytelser under opphold i institusjon
 
@@ -4651,7 +4639,7 @@ Helsedirektoratet skal forvalte [kapittel 5](lov/1997-02-28-19/kap5), sikre rett
 
 Vedtak om ytelser etter [kapittel 5](lov/1997-02-28-19/kap5) fattes av Helsedirektoratet. Helsedirektoratet kan delegere vedtakskompetansen til underliggende organer eller, etter godkjenning fra departementet, til Arbeids- og velferdsdirektoratet. Nasjonalt klageorgan for helsetjenesten er klageinstans. Når slike vedtak er lite inngripende overfor den enkelte, kan vedtakene være utelukkende basert på automatisert behandling av helseopplysninger eller andre personopplysninger. Bestemmelsene om Helsedirektoratet i tredje og fjerde ledd gjelder tilsvarende for det organet Helsedirektoratet delegerer vedtakskompetanse til, og for Nasjonalt klageorgan for helsetjenesten.
 
-[Arbeids- og velferdsforvaltningsloven § 6](lov/2006-06-16-20/§6) og [§ 7](lov/2006-06-16-20/§7) første og tredje ledd gjelder tilsvarende for Helsedirektoratet ved behandling av saker etter kapittel 5. Den særskilte taushetsplikten gjelder likevel bare for opplysninger om stønadstakere og andre privatpersoner.
+[Arbeids- og velferdsforvaltningsloven § 6](lov/2006-06-16-20/§6) og [§ 7](lov/2006-06-16-20/§7) første og tredje ledd gjelder tilsvarende for Helsedirektoratet ved behandling av saker etter [kapittel 5](lov/1997-02-28-19/kap5). Den særskilte taushetsplikten gjelder likevel bare for opplysninger om stønadstakere og andre privatpersoner.
 
 Arbeids- og velferdsetaten plikter uten hinder av taushetsplikt å opplyse til Helsedirektoratet om et medlem er minstepensjonist.
 
@@ -4659,13 +4647,13 @@ Helsedirektoratet plikter å utlevere opplysninger til Kommunalt pasient- og bru
 
 [Pasientjournalloven](lov/2014-06-20-42) og [helseregisterloven](lov/2014-06-20-43) får ikke anvendelse på behandling av helseopplysninger i saker etter [kapittel 5](lov/1997-02-28-19/kap5).
 
-Ved behandling av personopplysninger i saker etter [kapittel 5](lov/1997-02-28-19/kap5) er Helsedirektoratet behandlingsansvarlig, jf. personvernforordningen artikkel 4 nr. 7. Nasjonalt klageorgan for helsetjenesten er behandlingsansvarlig ved behandling av klage på vedtak etter kapittel 5. Departementet kan i forskrift gi nærmere regler om behandlingsansvaret til Helsedirektoratet og Nasjonalt klageorgan for helsetjenesten.
+Ved behandling av personopplysninger i saker etter [kapittel 5](lov/1997-02-28-19/kap5) er Helsedirektoratet behandlingsansvarlig, jf. personvernforordningen artikkel 4 nr. 7. Nasjonalt klageorgan for helsetjenesten er behandlingsansvarlig ved behandling av klage på vedtak etter [kapittel 5](lov/1997-02-28-19/kap5). Departementet kan i forskrift gi nærmere regler om behandlingsansvaret til Helsedirektoratet og Nasjonalt klageorgan for helsetjenesten.
 
 Departementet kan i forskrift gi nærmere bestemmelser om behandling av opplysningene i saker etter [kapittel 5](lov/1997-02-28-19/kap5), blant annet om automatiserte vedtak, informasjonssikkerhet, internkontroll og utlevering av opplysninger til Kommunalt pasient- og brukerregister. Forskriften kan gi adgang til å fatte automatiserte vedtak selv om vedtaket ikke er lite inngripende overfor den enkelte.
 
-Innkrevingsmyndigheten eller den Helsedirektoratet bestemmer, opptrer på vegne av staten ved tvangsforretning for namsmannen og annen rettslig inndriving og sikring av krav som skriver seg fra direktoratets forvaltning av [kapittel 5](lov/1997-02-28-19/kap5) samt forhandlinger etter [gjeldsordningsloven](lov/1992-07-17-99).
+Innkrevingsmyndigheten eller den Helsedirektoratet bestemmer, opptrer på vegne av staten ved tvangsforretning for namsfogden og annen rettslig inndriving og sikring av krav som skriver seg fra direktoratets forvaltning av [kapittel 5](lov/1997-02-28-19/kap5) samt forhandlinger etter [gjeldsordningsloven](lov/1992-07-17-99).
 
-> Tilføyd ved lov [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), endret ved lover [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 juni 2009 nr. 66](lov/2009-06-19-66) (ikr. 19 juni 2009 iflg. [res. 19 juni 2009 nr. 838](forskrift/2009-06-19-838)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [lov 18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [19 des 2008 nr. 109](lov/2008-12-19-109) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1444](forskrift/2008-12-19-1444)), endret ved lover [16 jan 2009 nr. 5](lov/2009-01-16-5) (ikr. 1 jan 2009, se dens VIII), [19 juni 2009 nr. 66](lov/2009-06-19-66) (ikr. 19 juni 2009 iflg. [res. 19 juni 2009 nr. 838](forskrift/2009-06-19-838)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [17 juni 2016 nr. 47](lov/2016-06-17-47) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 730](forskrift/2016-06-17-730)), [18 des 2015 nr. 121](lov/2015-12-18-121) (ikr. 1 jan 2017 iflg. [res. 11 nov 2016 nr. 1309](forskrift/2016-11-11-1309)), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [lov 18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)), [3 mars 2023 nr. 2](lov/2023-03-03-2) (i kraft 1 juli 2023 iflg. [res. 3 mars 2023 nr. 289](forskrift/2023-03-03-289)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 21-11 b. Saksbehandling m.m. i saker etter kapittel 21, 22 og 25 med tilknytning til ytelser etter kapittel 5 Stønad ved helsetjenester
 
@@ -4675,7 +4663,7 @@ Bestemmelsene i [§ 21-11 a](lov/1997-02-28-19/§21-11a) gjelder også når de o
 
 ### § 21-12. Klage og anke i trygdesaker
 
-Vedtak etter folketrygdloven kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Vedtak etter kapittel 5 kan påklages til Nasjonalt klageorgan for helsetjenesten. Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i [lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten.
+Vedtak etter folketrygdloven kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Vedtak etter [kapittel 5](lov/1997-02-28-19/kap5) kan påklages til Nasjonalt klageorgan for helsetjenesten. Etter at denne klageadgangen er benyttet, kan klageinstansens vedtak, også vedtak om å avvise en klage, ankes inn for Trygderetten etter reglene i [lov 16. desember 1966 nr. 9](lov/1966-12-16-9) om anke til Trygderetten.
 
 Departementet kan bestemme at visse vedtak skal kunne bringes direkte inn for Trygderetten. Overprøving av en sak skal i sin helhet skje i Trygderetten dersom hensynet til sammenhengen i saken tilsier det.
 
@@ -4837,13 +4825,13 @@ Når det er utbetalt stønad etter [lov 29. april 2005 nr. 21](lov/2005-04-29-21
 
 ### § 22-10. Utbetalingsterminer
 
-Følgende ytelser utbetales som engangsbeløp:stønad ved helsetjenester ([kapittel 5](lov/1997-02-28-19/kap5))gravferdsstønad, stønad til båretransport og stønad ved dødsfall i utlandet ([kapittel 7](lov/1997-02-28-19/kap7))engangsstønad ved fødsel og adopsjon (§ 14-17)
+Følgende ytelser utbetales som engangsbeløp:stønad ved helsetjenester ([kapittel 5](lov/1997-02-28-19/kap5))gravferdsstønad, stønad til båretransport og stønad ved dødsfall i utlandet ([kapittel 7](lov/1997-02-28-19/kap7))engangsstønad ved fødsel og adopsjon [(§ 14-17)](lov/1997-02-28-19/§14-17)
 
-Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:sykepenger ([kapittel 8](lov/1997-02-28-19/kap8))omsorgspenger ved barns sykdom (§§ 9-5 til 9-9)opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn (§ 9-14)pleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-13)svangerskapspenger ([kapittel 14](lov/1997-02-28-19/kap14))foreldrepenger ([kapittel 14](lov/1997-02-28-19/kap14))
+Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:sykepenger ([kapittel 8](lov/1997-02-28-19/kap8))omsorgspenger ved barns sykdom ([§§ 9-5](lov/1997-02-28-19/§9-5) til [9-9](lov/1997-02-28-19/§9-9))opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn [(§ 9-14)](lov/1997-02-28-19/§9-14)pleiepenger for pleie av barn og nærstående ([§§ 9-10](lov/1997-02-28-19/§9-10) til [9-13](lov/1997-02-28-19/§9-13))svangerskapspenger ([kapittel 14](lov/1997-02-28-19/kap14))foreldrepenger ([kapittel 14](lov/1997-02-28-19/kap14))
 
 Følgende ytelser gis pr. måned og utbetales innen utgangen av måneden:grunnstønad og hjelpestønad ([kapittel 6](lov/1997-02-28-19/kap6))uføretrygd ([kapittel 12](lov/1997-02-28-19/kap12))overgangsstønad til enslig mor eller far ([kapittel 15](lov/1997-02-28-19/kap15))stønad til barnetilsyn ([§§ 15-10](lov/1997-02-28-19/§15-10) og [17-10](lov/1997-02-28-19/§17-10))omstillingsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17)](lov/1997-02-28-19/kap17)pensjon og overgangsstønad til gjenlevende ektefelle og tidligere familiepleier [(kapittel 17 A)](lov/1997-02-28-19/kap17A)barnepensjon ([kapittel 18](lov/1997-02-28-19/kap18))alderspensjon ([kapittel 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20))
 
-Følgende ytelser kan utbetales enten som engangsbeløp eller som løpende ytelser:stønad til bedring av funksjonsevnen (§§ 10-5 til 10-7)tilleggsstønader ([kapittel 11 A](lov/1997-02-28-19/kap11a))tilleggsstønader og stønad til skolepenger mv. ([§§ 15-11](lov/1997-02-28-19/§15-11), [17-10](lov/1997-02-28-19/§17-10) og [17-15](lov/1997-02-28-19/§17-15))menerstatning ved yrkesskade (§ 13-17).
+Følgende ytelser kan utbetales enten som engangsbeløp eller som løpende ytelser:stønad til bedring av funksjonsevnen ([§§ 10-5](lov/1997-02-28-19/§10-5) til [10-7](lov/1997-02-28-19/§10-7))tilleggsstønader ([kapittel 11 A](lov/1997-02-28-19/kap11a))tilleggsstønader og stønad til skolepenger m.m. ([§§ 17-10 a](lov/1997-02-28-19/§17-10a) og [17-15](lov/1997-02-28-19/§17-15))menerstatning ved yrkesskade (§ 13-17).
 
 Feriepenger av ytelser etter [kapitlene 8](lov/1997-02-28-19/kap8), [9](lov/1997-02-28-19/kap9) og [14](lov/1997-02-28-19/kap14) utbetales i andre halvdel av mai måned året etter opptjeningsåret.
 
@@ -4851,7 +4839,7 @@ Dersom pensjonisten eller stønadsmottakeren er bosatt i utlandet, kan ytelsen u
 
 Dagpenger under arbeidsløshet ([kapittel 4](lov/1997-02-28-19/kap4)) og arbeidsavklaringspenger ([kapittel 11](lov/1997-02-28-19/kap11)) gis pr. dag og utbetales vanligvis etterskottsvis hver fjortende dag. Departementet gir forskrifter om utbetaling og kontroll av dagpenger under arbeidsløshet etter [kapittel 4](lov/1997-02-28-19/kap4) og arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11).
 
-> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36), [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 juni 1998 nr. 38](lov/1998-06-18-38) (ikr. 1 okt 1998), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [22 des 2006 nr. 95](lov/2006-12-22-95) (ikr. 1 jan 2007), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 16 des 2011 og 1 jan 2012). [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36), [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998), [19 des 1997 nr. 99](lov/1997-12-19-99) (ikr. 1 jan 1998), [18 juni 1998 nr. 38](lov/1998-06-18-38) (ikr. 1 okt 1998), [30 juni 2000 nr. 57](lov/2000-06-30-57) (ikr. 1 jan 2002 iflg. [res. 31 aug. 2001 nr. 1015](forskrift/2001-08-31-1015)), [21 des 2001 nr. 118](lov/2001-12-21-118) (ikr. 1 jan 2002), [20 juni 2003 nr. 55](lov/2003-06-20-55) (ikr. 1 jan 2004), [17 des 2004 nr. 85](lov/2004-12-17-85) (ikr. 1 jan 2005), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [22 des 2006 nr. 95](lov/2006-12-22-95) (ikr. 1 jan 2007), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [16 des 2011 nr. 58](lov/2011-12-16-58) (ikr. 16 des 2011 og 1 jan 2012). [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)), [20 juni 2014 nr. 24](lov/2014-06-20-24) (ikr. 1 jan 2015 iflg. [res. 20 juni 2014 nr. 799](forskrift/2014-06-20-799)), [19 juni 2015 nr. 42](lov/2015-06-19-42) (ikr. 1 jan 2016), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [16 juni 2023 nr. 36](lov/2023-06-16-36) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 907](forskrift/2023-06-16-907)), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 22-11. Avrunding av ytelser
 
@@ -4881,7 +4869,7 @@ Krav om en ytelse som utbetales som et engangsbeløp, se [§ 22-10](lov/1997-02-
 
 En ytelse som gis pr. dag eller pr. måned, se [§ 22-10](lov/1997-02-28-19/§22-10) andre, tredje og fjerde ledd, gis for opptil tre måneder før den måneden da kravet ble satt fram, dersom vilkårene var oppfylt i denne perioden.
 
-Det gjelder følgende unntak fra bestemmelsen i tredje ledd:Barnepensjon etter [kapittel 18](lov/1997-02-28-19/kap18) og menerstatning etter [§ 13-17](lov/1997-02-28-19/§13-17) gis for opptil tre år før den måneden da kravet ble satt fram.Overgangsstønad til enslig mor gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se [§ 15-8](lov/1997-02-28-19/§15-8) første ledd tredje punktum.Alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20) gis tidligst fra og med måneden etter den måneden da kravet ble satt fram.
+Det gjelder følgende unntak fra bestemmelsen i tredje ledd:Barnepensjon etter [kapittel 18](lov/1997-02-28-19/kap18) og menerstatning etter [§ 13-17](lov/1997-02-28-19/§13-17) gis for opptil tre år før den måneden da kravet ble satt fram.Overgangsstønad til enslig mor eller far gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se [§ 15-5 andre ledd](lov/1997-02-28-19/§15-5/ledd/2).Alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20) gis tidligst fra og med måneden etter den måneden da kravet ble satt fram.
 
 Dagpenger under arbeidsløshet etter [kapittel 4](lov/1997-02-28-19/kap4) og arbeidsavklaringspenger etter [kapittel 11](lov/1997-02-28-19/kap11) gis tidligst fra det tidspunktet da kravet ble satt fram. Bestemmelsen i syvende ledd gjelder ikke for dagpenger under arbeidsløshet.
 
@@ -4891,7 +4879,7 @@ En ytelse kan gis for opptil tre år før kravet ble satt fram, dersom den som h
 
 Krav om omregning og etterbetaling av ytelse etter [kapittel 8](lov/1997-02-28-19/kap8), [9](lov/1997-02-28-19/kap9) eller [14](lov/1997-02-28-19/kap14) på grunn av tariffrevisjon må settes fram innen tre måneder etter at tariffavtalen ble endret.
 
-> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998 for endringen i fjerde ledd bokstav b), [10 des 1999 nr. 84](lov/1999-12-10-84), [23 juni 2000 nr. 55](lov/2000-06-23-55), [17 juni 2005 nr. 57](lov/2005-06-17-57) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 627](forskrift/2005-06-17-627)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III), [16 des 2011 nr. 58](lov/2011-12-16-58), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)). **Endres** ved lov [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
+> Endret ved lover [6 juni 1997 nr. 36](lov/1997-06-06-36) (ikr. 1 jan 1998 for endringen i fjerde ledd bokstav b), [10 des 1999 nr. 84](lov/1999-12-10-84), [23 juni 2000 nr. 55](lov/2000-06-23-55), [17 juni 2005 nr. 57](lov/2005-06-17-57) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 627](forskrift/2005-06-17-627)), [18 des 2009 nr. 137](lov/2009-12-18-137) (ikr. 1 jan 2010 iflg. [res. 18 des 2009 nr. 1583](forskrift/2009-12-18-1583)), [11 des 2009 nr. 112](lov/2009-12-11-112) (ikr. 1 jan 2011, se dens III), [16 des 2011 nr. 58](lov/2011-12-16-58), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [12 juni 2026 nr. 27](lov/2026-06-12-27) (i kraft 1 juli 2026).
 
 ### § 22-14. Foreldelse
 

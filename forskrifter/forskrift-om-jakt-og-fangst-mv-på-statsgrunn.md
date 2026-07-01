@@ -10,13 +10,13 @@ ministry:
   - "Klima- og miljødepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2007-09-01"
-last_change_in_force: "2025-06-18"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-04-30"
-xml_hash: "f3d54159615c7a0c99b317a9407de069546ae2872d374b39b206f52050d1de4a"
+xml_hash: "55c705966e8454046ed91f9eb404656381af8d91a023614f16888d6731b92ebf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -31,7 +31,9 @@ Viltet og fisken skal forvaltes slik at hensynet til det biologiske mangfoldet i
 
 ### § 2. Virkeområde og administrasjon
 
-Forskriften regulerer jakt, felling, fangst og fiske på statsgrunn utenom statsallmenning forvaltet etter fjelloven. Jakt, felling, fangst og fiske i henhold til denne forskrift administreres av Statskog SF i samsvar med bestemmelsene i [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v. og [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet.
+Forskriften regulerer jakt, felling, fangst og fiske på statsgrunn utenom statsallmenning forvaltet etter fjelloven. Jakt, felling, fangst og fiske i henhold til denne forskrift administreres av Statskog SF i samsvar med bestemmelsene i [lakse- og innlandsfiskloven](lov/1992-05-15-47) og [viltressursloven](lov/2025-06-20-102).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 3. Retten til jakt, felling, fangst og fiske
 
@@ -161,15 +163,15 @@ Enkeltvedtak om prisfastsettelse for jakt og fiske kan påklages til henholdsvis
 
 Landbruksdirektoratet eller Miljødirektoratet kan i særlige tilfeller dispensere fra disse bestemmelsene for henholdsvis jakt og fangst og for fiske.
 
-Statskog SF kan bestemme at personer uten fast bosted i Norge jf. [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet [§ 31](lov/1981-05-29-38/§31), første ledd og [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v. [§ 22](lov/1992-05-15-47/§22), første ledd, etter søknad kan få adgang til slik jakt og fiske som denne forskriften omfatter.
+Statskog SF kan bestemme at personer uten fast bosted i Norge jf. [viltressursloven § 37 første ledd](lov/2025-06-20-102/§37/ledd/1) og [lakse- og innlandsfiskloven § 22 første ledd](lov/1992-05-15-47/§22/ledd/1), etter søknad kan få adgang til slik jakt og fiske som denne forskriften omfatter.
 
-> Endret ved [forskrifter 24 sep 2007 nr. 1078](forskrift/2007-09-24-1078) (i kraft 1 sep 2007), [7 juni 2013 nr. 589](forskrift/2013-06-07-589) (tidligere § 17), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070).
+> Endret ved [forskrifter 24 sep 2007 nr. 1078](forskrift/2007-09-24-1078) (i kraft 1 sep 2007), [7 juni 2013 nr. 589](forskrift/2013-06-07-589) (tidligere § 17), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 19. Straff
 
-Overtredelse av denne forskrifts [§ 4](forskrift/2007-08-20-987/§4) og [§ 7](forskrift/2007-08-20-987/§7) eller forskrift gitt i medhold av disse bestemmelser, er straffbart, jf. [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk mv. [§ 49](lov/1992-05-15-47/§49) og [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt [§ 56](lov/1981-05-29-38/§56).
+Overtredelse av denne forskrifts [§ 4](forskrift/2007-08-20-987/§4) og [§ 7](forskrift/2007-08-20-987/§7) eller forskrift gitt i medhold av disse bestemmelser, er straffbart, jf. [lakse- og innlandsfiskloven § 49](lov/1992-05-15-47/§49) og [viltressursloven § 60](lov/2025-06-20-102/§60).
 
-> Endret ved [forskrift 7 juni 2013 nr. 589](forskrift/2013-06-07-589) (tidligere § 18).
+> Endret ved [forskrifter 7 juni 2013 nr. 589](forskrift/2013-06-07-589) (tidligere § 18), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 20. Ikrafttredelse
 

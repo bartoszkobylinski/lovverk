@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2004-01-01"
-last_change_in_force: "2023-06-16"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-02"
-xml_hash: "b76d55f7068cfdffda635cbcd806546f4c8394cfac95caba971dea14e29f658e"
+xml_hash: "47363b1e57adcd128a288a393feed007e9bfd7950e3bd8da4b72f370dc697607"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,9 +116,9 @@ Om ferdsel med hund i område hvor tamrein beiter, gjelder også [reindriftslove
 
 Jakthundtrening, jakthundprøver og dressur kan bare foregå med samtykke av grunneieren eller den som har en allmenn bruksrett til eiendommen. For statsallmenningene gis samtykke av fjellstyret.
 
-For bruk av hund under jakt og fangst mv. gjelder også [viltloven § 23](lov/1981-05-29-38/§23), jf. [§ 26](lov/1981-05-29-38/§26), [reindriftsloven § 65](lov/2007-06-15-40/§65) og [naturmangfoldloven § 34](lov/2009-06-19-100/§34) med forskrifter.
+For bruk av hund under jakt og fangst mv. gjelder også [viltressursloven § 27](lov/2025-06-20-102/§27), [reindriftsloven § 65](lov/2007-06-15-40/§65) og [naturmangfoldloven § 34](lov/2009-06-19-100/§34) med forskrifter.
 
-> Endret ved lover [15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lover [15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 9. Unntak fra sikringsreglene
 
@@ -126,11 +126,11 @@ Båndtvang fastsatt i eller i medhold av [§§ 4](lov/2003-07-04-74/§4), [6](lo
 
 Hund som nevnt i første ledd bokstav a til d eller i bestemmelse som gjelder særlige bruksformål etter bokstav e, kan på en aktsom måte slippes slik det er naturlig ut fra bruksformålet.
 
-En hund som nyttes som jakthund eller er under trening eller prøve for dette, kan slippes på en aktsom måte slik det er naturlig ut fra bruksformålet uten hinder av [§ 4](lov/2003-07-04-74/§4) fjerde ledd når dette ikke er i strid med [viltloven](lov/1981-05-29-38), [naturmangfoldloven](lov/2009-06-19-100), [reindriftsloven](lov/2007-06-15-40) eller regler om båndtvang. Det samme gjelder for trening og prøving av ettersøkshunder.
+En hund som nyttes som jakthund eller er under trening eller prøve for dette, kan slippes på en aktsom måte, slik det er naturlig ut fra bruksformålet uten hinder av [§ 4 fjerde ledd](lov/2003-07-04-74/§4/ledd/4), når dette ikke er i strid med [viltressursloven](lov/2025-06-20-102), [naturmangfoldloven](lov/2009-06-19-100), [reindriftsloven](lov/2007-06-15-40) eller regler om båndtvang. Det samme gjelder for trening og prøving av ettersøkshunder.
 
 Kongen kan gi forskrift om unntak fra sikringsregler fastsatt i [§ 4](lov/2003-07-04-74/§4), [§ 6](lov/2003-07-04-74/§6) første ledd og forskrifter fastsatt med hjemmel i [§ 6](lov/2003-07-04-74/§6) annet ledd og [§ 7](lov/2003-07-04-74/§7).
 
-> Endret ved lover [28 mars 2014 nr. 9](lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](forskrift/2014-03-28-371)), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lover [28 mars 2014 nr. 9](lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](forskrift/2014-03-28-371)), [17 juni 2022 nr. 69](lov/2022-06-17-69) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1069](forskrift/2022-06-17-1069)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ## Kapittel 3. Løse hunder
 

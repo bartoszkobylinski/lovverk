@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2020-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "d1ba5886dbb1350057729207bcbe1a03cc272a49aea71bb6b2bfeff636564b55"
+xml_hash: "0a03dd5eede9d48828e9f274bcfb387c080bfb4bb69d0d8874dcb1fa5f657450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32014R0909"
@@ -290,13 +290,13 @@ Reglene i første ledd gjelder tilsvarende for kontoførere og andre som utføre
 
 ### § 8-3. Innsynsrett
 
-Uten hinder av taushetsplikten etter [§ 8-1](lov/2019-03-15-6/§8-1) gjelder følgende om rett til å få opplysninger fra en verdipapirsentral:En kontohaver har rett til å få alle opplysninger som er registrert på verdipapirkontoen.En panthaver eller rettighetshaver til en annen begrenset rettighet registrert på en verdipapirkonto har rett til å få alle opplysninger som er registrert på kontoen som kan ha betydning for rettigheten.Tingretten og namsmannen har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en person som er fratatt rettslig handleevne, og om det er øvrige begrensede rettigheter i disse. Føreren av Konkursregisteret, retten, bostyrer og leder av gjeldsnemnd som er oppnevnt av retten, har rett til å få alle opplysninger som er registrert om en konkursskyldner eller en skyldner som er under gjeldsforhandling, eller om en avdød ved skifte av insolvent dødsbo, herunder alle opplysninger om finansielle instrumenter som er innført i verdipapirsentralen. Tilsvarende gjelder for leder av administrasjonsstyret for finansforetak oppnevnt av Finansdepartementet eller Finanstilsynet.Enhver har rett til å få opplysninger som er registrert om et finansielt instrument, med mindre noe annet følger av lov eller forskrift.Dersom noen med hjemmel i lov har krav på opplysninger og opplysningene finnes i registeret i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen.
+Uten hinder av taushetsplikten etter [§ 8-1](lov/2019-03-15-6/§8-1) gjelder følgende om rett til å få opplysninger fra en verdipapirsentral:En kontohaver har rett til å få alle opplysninger som er registrert på verdipapirkontoen.En panthaver eller rettighetshaver til en annen begrenset rettighet registrert på en verdipapirkonto har rett til å få alle opplysninger som er registrert på kontoen som kan ha betydning for rettigheten.Tingretten og namsfogden har rett til å få opplyst hvilke registrerte finansielle instrumenter som tilhører en saksøkt, en skyldner eller en person som er fratatt rettslig handleevne, og om det er øvrige begrensede rettigheter i disse. Føreren av Konkursregisteret, retten, bostyrer og leder av gjeldsnemnd som er oppnevnt av retten, har rett til å få alle opplysninger som er registrert om en konkursskyldner eller en skyldner som er under gjeldsforhandling, eller om en avdød ved skifte av insolvent dødsbo, herunder alle opplysninger om finansielle instrumenter som er innført i verdipapirsentralen. Tilsvarende gjelder for leder av administrasjonsstyret for finansforetak oppnevnt av Finansdepartementet eller Finanstilsynet.Enhver har rett til å få opplysninger som er registrert om et finansielt instrument, med mindre noe annet følger av lov eller forskrift.Dersom noen med hjemmel i lov har krav på opplysninger og opplysningene finnes i registeret i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen.
 
 Dersom noen med hjemmel i selskapslovgivning eller tilsvarende lovgivning i en annen EØS-stat har krav på å få opplysninger om eiere og andre rettighetshavere til finansielle instrumenter utstedt etter den aktuelle EØS-statens lovgivning, og opplysningene finnes i en verdipapirsentral, har vedkommende rett til å få disse opplysningene fra verdipapirsentralen. For aksjer og andre finansielle instrumenter som kan sidestilles med aksjer og som er utstedt etter lovgivningen i en stat utenfor EØS-området, har utstederen rett til å få opplysninger om hvem som eier aksjene, dersom utstederen har krav på å få opplysningene etter utstederlandets selskapslovgivning eller tilsvarende lovgivning.
 
 Departementet kan i forskrift gi nærmere regler om rett til innsyn, herunder utvide retten til innsyn etter bestemmelsen her og gi regler om en verdipapirsentrals adgang til å gi opplysninger til en annen verdipapirsentral som den har opprettet en forbindelse til etter verdipapirsentralforordningen artikkel 48.
 
-> Endret ved lov [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [30 april 2021 nr. 28](lov/2021-04-30-28) (ikr. 15 mai 2021 iflg. [res. 30 april 2021 nr. 1334](forskrift/2021-04-30-1334)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-4. Opplysninger til bruk for forskning
 

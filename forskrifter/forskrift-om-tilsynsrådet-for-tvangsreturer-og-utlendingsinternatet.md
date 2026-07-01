@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-26"
 last_updated: null
-xml_hash: "90ff1f82fec028cfcbc18fb5f3d3f261f3defd039118440bed3ae4c065064da2"
+xml_hash: "47c67a109b6651ba070283880d80d257dad3120431cd5372cec64f3e52127753"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,9 @@ Tilsynet med tvangsreturer gjelder fra avhenting av utlendingen og frem til over
 
 ### § 3. Oppnevning
 
-Departementet oppnevner leder, nestleder, medlemmer og varamedlemmer av tilsynsrådet for en funksjonstid på to år. Tilsynsrådets leder bør være eller ha vært dommer. Leder må uansett fylle kravene til å være dommer. Personer som i løpet av oppnevningsperioden fyller 70 år eller mer, kan ikke oppnevnes. Medlemmene bør ikke gjenoppnevnes mer enn to ganger.
+Departementet oppnevner leder, nestleder, medlemmer og varamedlemmer av tilsynsrådet for en funksjonstid på to år. Tilsynsrådets leder bør være eller ha vært dommer. Leder må uansett fylle kravene til å være dommer. Samtlige medlemmer må fylle kravene til meddommere i [domstolloven § 70 annet ledd nr. 1](lov/1915-08-13-5/§70/ledd/2/nummer/1) til [3](lov/1915-08-13-5/§70/ledd/2/nummer/3) og [5](lov/1915-08-13-5/§70/ledd/2/nummer/5). Medlemmene bør ikke gjenoppnevnes mer enn to ganger.
+
+> Endret ved forskrift [26 juni 2026 nr. 1396](forskrift/2026-06-26-1396).
 
 ### § 4. Krav til opplæring
 

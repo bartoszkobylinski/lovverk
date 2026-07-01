@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1981-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "c70c91b5ae95f676614d70b231b904694ec7ff63ea706d4c75736401c6e877c5"
+xml_hash: "e39807518da1af0c09552b3844488605751b7254565ac30e53a11e959ebb31a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -82,11 +82,11 @@ Panteretten etter første ledd bokstav b for renter opptjent senere enn to år f
 
 (2) Den som har pant i verdipapirer, finansielle instrumenter registrert i et verdipapirregister, innløsningspapirer, aksjer eller enkle pengekrav, kan kreve og motta renter, utbytte og avdrag som forfaller mens panteretten består. De beløp som panthaveren mottar, kan han bruke til dekning av forfalte renter av pantekravet og forfalte deler av hovedstolen. Overskytende beløp kan eieren kreve å få utbetalt av panthaveren. Skal det pantsatte papir eller krav innløses, kan panthaveren motta og beholde innløsningssummen i den utstrekning dette er nødvendig til sikring også av de uforfalte deler av pantekravet. Panterett i aksjer omfatter også fondsaksjer (friaksjer).
 
-(3) Ved namsutlegg i verdipapirer, innløsningspapirer eller enkle pengekrav skal avdrag og renter betales til namsmannen. Både saksøkeren og saksøkte kan foreta det som trengs for å holde kravet i kraft. Første punktum gjelder tilsvarende ved hel innfrielse av kravet.
+(3) Ved namsutlegg i verdipapirer, innløsningspapirer eller enkle pengekrav skal avdrag og renter betales til namsmyndigheten. Både saksøkeren og saksøkte kan foreta det som trengs for å holde kravet i kraft. Første punktum gjelder tilsvarende ved hel innfrielse av kravet.
 
 (4) Annet ledd gjør ingen endring i [lov av 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler [§ 15-8](lov/1989-06-16-69/§15-8) første ledd tredje punktum.
 
-> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [16 juni 1989 nr. 69](lov/1989-06-16-69), [26 juni 1992 nr. 86](lov/1992-06-26-86), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [16 juni 1989 nr. 69](lov/1989-06-16-69), [26 juni 1992 nr. 86](lov/1992-06-26-86), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [25 apr 2003 nr. 25](lov/2003-04-25-25) (ikr. 25 apr 2003 iflg. [res. 25 apr 2003 nr. 487](forskrift/2003-04-25-487)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 1-7. Bruksrett, vedlikeholds- og forsikringsplikt.
 
@@ -128,11 +128,11 @@ Panteretten etter første ledd bokstav b for renter opptjent senere enn to år f
 
 (2) Om adgangen til avhendelse av driftstilbehør og varelager som er pantsatt slik det til enhver tid er, gjelder [§§ 3-7](lov/1980-02-08-2/§3-7) og [3-13](lov/1980-02-08-2/§3-13). Bestemmelsene gjelder tilsvarende ved utleggspant og lovbestemt pant i slike formuesgoder. Om avhendelse av salgspantbeheftet løsøre gjelder [§ 3-16](lov/1980-02-08-2/§3-16).
 
-(3) Ved underpant i annet løsøre som ikke er realregistrert, kan løsøret ikke avhendes uten samtykke fra panthaveren. Tilsvarende gjelder andre frivillige disposisjoner enn avhendelse, unntatt stiftelse av ytterligere underpant. Ved namsutlegg kan samtykket i stedet gis av namsmannen.
+(3) Ved underpant i annet løsøre som ikke er realregistrert, kan løsøret ikke avhendes uten samtykke fra panthaveren. Tilsvarende gjelder andre frivillige disposisjoner enn avhendelse, unntatt stiftelse av ytterligere underpant. Ved namsutlegg kan samtykket i stedet gis av namsmyndigheten.
 
 (4) Panterett i fast eiendom som erverves av stat, statsforetak, fylkeskommune eller kommune til veg- eller jernbaneformål, faller bort ved ervervet. Bestemmelsen i første ledd annet punktum gjelder tilsvarende også ved erverv av helt panteobjekt. Dersom gjenværende eiendom ikke gir full sikkerhet, skal vedkommende myndighet sørge for at panthaveren får sin del av kjøpesummen før eieren.
 
-> Endret ved [lover 5 juni 1981 nr. 50](lov/1981-06-05-50) (nytt fjerde ledd), [26 juni 1992 nr. 86](lov/1992-06-26-86), [16 des 2016 nr. 101](lov/2016-12-16-101) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1591](forskrift/2016-12-16-1591)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 5 juni 1981 nr. 50](lov/1981-06-05-50) (nytt fjerde ledd), [26 juni 1992 nr. 86](lov/1992-06-26-86), [16 des 2016 nr. 101](lov/2016-12-16-101) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1591](forskrift/2016-12-16-1591)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 1-12. Fellespant.
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2009-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-02"
-xml_hash: "5be7e5e2e71326bd09d2aecaa96adf0745bb18b914782ca5acc94cf62f02310a"
+xml_hash: "61d22e7f5fd3db9c66aa5f40193f84a639add22bbea5449fa54167e6602cbd85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,7 +120,7 @@ Høsting og annen utnyttelse av marine organismer reguleres av [lov 6. juni 2008
 
 ### § 16. (høsting av vilt og lakse- og innlandsfisk)
 
-Vedtak om å tillate høsting av vilt treffes med hjemmel i [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt (viltloven).
+Vedtak om å tillate høsting av vilt treffes med hjemmel i [lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven)](lov/2025-06-20-102).
 
 Vedtak om å tillate høsting av lakse- og innlandsfisk treffes med hjemmel i [lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v. (lakse- og innlandsfiskloven).
 
@@ -130,7 +130,7 @@ Ved avgjørelsen om å tillate høsting og om fremgangsmåten ved høsting skal 
 
 Tredje og fjerde ledd gjelder ikke ved vedtak om høsting av fremmede organismer.
 
-> **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 17. (alminnelige regler om annet uttak av vilt og lakse- og innlandsfisk )
 
@@ -162,11 +162,11 @@ Kongen kan ved forskrift eller enkeltvedtak tillate uttak av vilt og lakse- og i
 
 Vedtak etter første ledd bokstav a til f kan bare treffes hvis uttaket ikke truer bestandens overlevelse og formålet ikke kan nås på annen tilfredsstillende måte. Det skal ved vurdering av uttak av rovvilt etter første ledd bokstav c legges vekt på om bestandsmål som er vedtatt i Stortinget er nådd.
 
-Myndigheten etter loven kan av eget tiltak iverksette uttak med formål som nevnt i første ledd bokstav a til d og g, jf. annet ledd. Uttaket regnes ikke som enkeltvedtak, og kan om nødvendig skje på annens eiendom. Kongen kan gi nærmere forskrift om slikt uttak.
+Myndigheten etter loven kan av eget tiltak iverksette uttak med formål som nevnt i første ledd bokstav a til d og g, jf. annet ledd. Uttaket regnes ikke som enkeltvedtak, og kan skje på andres eiendom. Kongen kan gi nærmere forskrift om slikt uttak.
 
 Kommunen kan gi tillatelse til uttak av hjortevilt og bever for å avverge skade etter [§ 18](lov/2009-06-19-100/§18) første ledd bokstav b, samt til å fjerne beverbolig eller dam for å hindre vesentlig skade ved oversvømmelse. Kommunens vedtak kan påklages til statsforvalteren.
 
-> Endret ved [lover 18 nov 2016 nr. 83](lov/2016-11-18-83) (ikr. 18 nov 2016 iflg. [res. 18 nov 2016 nr. 1343](forskrift/2016-11-18-1343)), [19 juni 2020 nr. 88](lov/2020-06-19-88), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lover [18 nov 2016 nr. 83](lov/2016-11-18-83) (ikr. 18 nov 2016 iflg. [res. 18 nov 2016 nr. 1343](forskrift/2016-11-18-1343)), [19 juni 2020 nr. 88](lov/2020-06-19-88), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 19. (erstatning for tap og følgekostnader når husdyr og tamrein blir drept eller skadet av rovvilt)
 

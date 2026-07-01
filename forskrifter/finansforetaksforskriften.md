@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-01-16"
+last_change_in_force: "2026-07-01"
 last_updated: "2025-09-22"
-xml_hash: "04b58bf10c0e52dac9c278b5583e9acfbba404d1a1e5f0af0b9d4ce1dd439a50"
+xml_hash: "084641739b227cf3d1ef9799b1614eab7d8ed811e88fe87b80d799fcbd49b9ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1637,6 +1637,16 @@ Ved risikojustering av bidrag til krisetiltaksfondet etter [finansforetaksloven 
 Henvisninger til beløp i euro skal forstås som henvisninger til et tilsvarende beløp i norske kroner.
 
 > Tilføyd ved forskrift [19 des 2018 nr. 2144](forskrift/2018-12-19-2144) (i kraft 1 jan 2019), endret ved forskrift [29 aug 2025 nr. 1755](forskrift/2025-08-29-1755) (tidligere § 20-10).
+
+### § 20-18a. Finansiering av bistand fra Bankenes sikringsfond til Finanstilsynet
+
+For å dekke kostnader ved bistand som Bankenes sikringsfond yter til Finanstilsynet etter [finansforetaksloven § 20-3 tredje ledd](lov/2015-04-10-17/§20-3/ledd/3), skal 2 promille av det samlede årlige bidraget til krisetiltaksfondet etter [finansforetaksloven § 20-51 første ledd](lov/2015-04-10-17/§20-51/ledd/1) skilles ut og settes på en særskilt konto før bidraget tilføres fondet. Slike kostnader kan belastes kontoen etter nærmere avtale mellom Finanstilsynet og Bankenes sikringsfond.
+
+Dersom innestående på kontoen som nevnt i første ledd overstiger 5 millioner kroner ved årsslutt, skal overskytende beløp overføres til krisetiltaksfondet.
+
+Dersom krisetiltaksfondet er lavere enn minstekravet i [finansforetaksloven § 20-50 første ledd](lov/2015-04-10-17/§20-50/ledd/1), skal avsetning etter første ledd stanses inntil minstekravet igjen er oppfylt.
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1370](forskrift/2026-06-25-1370) (i kraft 1 juli 2026).
 
 ### § 20-19. Innholdet i finansieringsplaner
 

@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-06-20"
 last_change_in_force: null
 last_updated: null
-xml_hash: "2c59dd7191a3aa1c6a74e59adb4cf041267104787e0eaa27c8d1c23f8aad9d5b"
+xml_hash: "eb1d7b0f3c0e5d0c8da09fa1fb0089a0f0e4194feaf0a1bc70375fc55219994d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,12 +30,6 @@ eu_basis: []
 (2) – – – . – – – . – – – . Løyvehavaren skal sikre at betaling for all løyvepliktig drosjetransport vert registrert i ei godkjend kontrollutrusting hos ein drosjesentral som løyvehavar er knytt til. Bestilling av og betaling for bestilt drosjetransport skal registrerast automatisk i kontrollutrustinga. Kontrollutrustinga skal ha fast tilknyting til motorvogna gjennom fysisk kopling eller på anna sikkert vis når det går fram av forskrift fastsett av departementet. Løyvestyresmakta kan gje dispensasjon frå krava i dette leddet på vilkår som vert nærare fastsett av departementet i forskrift.
 
 taksameter som er installert i drosja, inkludert serienummer, eller anna kontrollutrusting
-
-(1) Drosjesentralen skal sørge for at det vert innført og utøvd internkontroll i eiga verksemd og i verksemda til løyvehavarane som er knytte til sentralen. Internkontrollen skal gjennomførast i samarbeid med tilknytte løyvehavarar, arbeidstakarar og representantane deira.
-
-(2) Internkontrollen skal sikre at aktivitetane til løyvehavarane og sentralane vert planlagde, organiserte, utførte og vedlikehaldne i samsvar med krav fastsett i eller i medhald av gjeldande regelverk for løyvehavarar, sentralar og deira tilsette.
-
-(3) Fylkeskommunen fører nødvendig tilsyn med at føresegnene om internkontroll, fastsette i eller i medhald av denne lova, vert etterlevde. Fylkeskommunen kan treffe vedtak med pålegg om retting der sentralen ikkje oppfyller krav eller etterlever pliktene som følgjer av denne føresegna eller forskrift om internkontroll i drosjeverksemd. Det skal setjast ein frist for retting. Dersom pålegget ikkje vert følgt, kan løyvet trekkast tilbake.
 
 ## II
 

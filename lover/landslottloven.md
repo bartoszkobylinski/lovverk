@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "1930-06-01"
-last_change_in_force: "2022-12-20"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-09-09"
-xml_hash: "9d834354be970ad195c866e096f2a91b3c9084c99b942a592e8d0084ecb8bf60"
+xml_hash: "f431144fdec1067af0a0e5b668d5a975da148018a9c93c22c0f2e04b4297531f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,25 +76,15 @@ Landslotten forfaller til betaling når fangsten er solgt og levert. Blir fangst
 
 Kvittering for den del av landslotten som ifølge [§ 4](lov/1930-03-14/§4), første og annet ledd, tilfaller et gårdsnummer, kan meddeles av hvilken som helst berettiget under gårdsnummeret.
 
-Er ingen berettiget til stede for å motta landslottbeløpet, eller er det tvil angående dets betaling, kan det deponeres hos lensmannen, namsfogden eller politistasjon med sivile rettspleieoppgaver i det distrikt hvor fangsten er gjort.
-
-> Endret ved lover 2 mars 1973 nr. 12, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 2 mars 1973 nr. 12, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 7.
 
 Blir under sådant notfiske som omhandles i denne lov skade eller ulempe tilføiet en landslottberettiget, kan særskilt erstatning utenfor landslotten ikke kreves, medmindre der er voldt større skade eller ulempe enn fangstarbeidet i almindelighet fører med sig.
 
-## § 8.
+## § 8. (Opphevet)
 
-Tvist om betaling av landslott, eller om erstatning for skade voldt under sådant notfiske som i denne lov omhandlet, kan kreves avgjort ved skjønn efter [loven av 1 juni 1917](lov/1917-06-01-1), første kapitel.
-
-Skjønnet styres av lensmannen, namsfogden eller politistasjonssjef med sivile rettspleieoppgaver på det sted der fangsten eller skaden er gjort.
-
-Skjønnet treffer bestemmelse om saksomkostninger, under særlig hensyn til hvem avgjørelsen er gått imot.
-
-Beløp som skjønnet har pålagt en part å betale, kan drives inn efter reglene om fullbyrdelse av kjennelser.
-
-> Endret ved lover 18 juni 1965 nr. 5, [26 jan 1973 nr. 3](lov/1973-01-26-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84). **Oppheves** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 18 juni 1965 nr. 5, [26 jan 1973 nr. 3](lov/1973-01-26-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), opphevet ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 9.
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2016-01-08"
-last_change_in_force: "2025-06-18"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-01-06"
-xml_hash: "ca7bf7974b25cc28545fdf0b6f7a64600abcb968726dfd2114b3415fae15c3b6"
+xml_hash: "8a06bd014d37ce360be2ea9feccdf303a6834949ccc971683b8f615f4acc8f80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -164,13 +164,13 @@ Kommunen skal sende fellingstillatelsen til valdansvarlig representant innen 15.
 
 ## § 21. Om villreinnemndene
 
-Villrein i alle villreinområder med areal i to eller flere kommuner skal forvaltes av ei villreinnemnd. Villreinnemnda skal arbeide for en langsiktig bærekraftig forvaltning av villreinen og dens leveområder i samsvar med naturmangfoldloven og viltloven.
+Villrein i alle villreinområder med areal i to eller flere kommuner skal forvaltes av ei villreinnemnd. Villreinnemnda skal arbeide for en langsiktig bærekraftig forvaltning av villreinen og dens leveområder i samsvar med [naturmangfoldloven](lov/2009-06-19-100) og [viltressursloven](lov/2025-06-20-102).
 
 Det skal være ni villreinnemnderVillreinnemnda for SetesdalområdetVillreinnemnda for Brattefjell-Vindeggen, Blefjell og Norefjell-ReinsjøfjellVillreinnemnda for HardangerviddaområdetVillreinnemnda for Nordfjella, Fjellheimen og RaudafjellVillreinnemnda for Sogn og FjordaneVillreinnemnda for Reinheimen-BreheimenVillreinnemnda for Rondane og SølnklettenVillreinnemnda for Snøhetta og KnutshøVillreinnemnda for Forollhogna.Tolga kommune fungerer som villreinnemnd for Tolga Østfjell villreinområde.
 
 Villreinnemndas medlemmer og personlige varamedlemmer oppnevnes av Landbruksdirektoratet etter forslag om en kvinnelig og en mannlig kandidat fra hver kommune som har villreinareal innenfor den enkelte nemnds virkeområde. Oppnevningsperioden for medlemmene følger valgperioden for kommunevalget. Villreinnemnda velger selv leder og nestleder.
 
-> Endret ved [forskrifter 12 april 2019 nr. 499](forskrift/2019-04-12-499), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070).
+> Endret ved [forskrifter 12 april 2019 nr. 499](forskrift/2019-04-12-499), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 22. Åpning av jakt på villrein
 
@@ -272,7 +272,9 @@ Villreinnemnda kan nekte tildeling av frie fellingstillatelser for jakt på vill
 
 ## § 35. Straff
 
-Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften straffes etter [viltloven § 56](lov/1981-05-29-38/§56).
+Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften straffes etter [viltressursloven § 60](lov/2025-06-20-102/§60).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 36. Klageadgang
 

@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2022-06-15"
-last_change_in_force: "2024-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2026-06-17"
-xml_hash: "8e210465cf08edda291171b28d5ec764f35edc249add10abd39f1bf19d5a63e1"
+xml_hash: "7a0db0af5b43bc85cb1ccb2cb1b87ecb62c4aed953dedbf87a6624a0644397cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-19T09:04:23.952275+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,6 +68,6 @@ Når behovet for unntak etter [§ 20-9](lov/2008-06-27-71/§20-9) første ledd i
 
 ## § 7. Ikrafttredelse og varighet
 
-Forskriften trer i kraft 15. juni og oppheves 1. juli 2026. Samtidig oppheves [midlertidig forskrift 31. mars 2022 nr. 499 om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne ukrainere](forskrift/2022-03-31-499).
+Forskriften trer i kraft 15. juni 2022 og oppheves 1. juli 2028. Samtidig oppheves [midlertidig forskrift 31. mars 2022 nr. 499 om unntak fra plan- og bygningsloven for å håndtere høye ankomster av fordrevne ukrainere](forskrift/2022-03-31-499).
 
-> Endret ved forskrifter [6 juni 2023 nr. 798](forskrift/2023-06-06-798), [25 juni 2024 nr. 1317](forskrift/2024-06-25-1317) (i kraft 1 juli 2024). **Endres** ved forskrift [15 juni 2026 nr. 1099](forskrift/2026-06-15-1099) (i kraft 1 juli 2026).
+> Endret ved forskrifter [6 juni 2023 nr. 798](forskrift/2023-06-06-798), [25 juni 2024 nr. 1317](forskrift/2024-06-25-1317) (i kraft 1 juli 2024), [15 juni 2026 nr. 1099](forskrift/2026-06-15-1099) (i kraft 1 juli 2026).

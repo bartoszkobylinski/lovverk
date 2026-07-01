@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "1996-06-21"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-01"
-xml_hash: "d5bc12609f5f349630a42625b405977c6ec238ae094caff1646e4e65d3dcc784"
+xml_hash: "272721dc30ed32c48c8a55017f61c996fd8c7db28067f003c7b0ada959971502"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Oppsynets stedlige virkeområde er sammenfallende med det stedlige virkeområde 
 
 ## § 2. Oppsynets oppgaver
 
-Oppsynet skal føre kontroll med at bestemmelsene gitt i eller i medhold av[lov 28. juni 1957 nr. 16 om friluftslivet](lov/1957-06-28-16),[lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100), og eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77),[lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82),[lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50),[lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet,[lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v.,[lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven)](lov/2009-06-05-35),[lov 26. juni 1998 nr. 47 om fritids- og småbåter § 40](lov/1998-06-26-47/§40), og[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33)blir overholdt. Det samme gjelder [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall](lov/1981-03-13-6), så langt departementet bestemmer.
+Oppsynet skal føre kontroll med at bestemmelsene gitt i eller i medhold av[lov 28. juni 1957 nr. 16 om friluftslivet](lov/1957-06-28-16),[lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100), og eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77),[lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag](lov/1977-06-10-82),[lov 9. juni 1978 nr. 50 om kulturminner](lov/1978-06-09-50),[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),[lov 15. mai 1992 nr. 47](lov/1992-05-15-47) om laksefisk og innlandsfisk m.v.,[lov 5. juni 2009 nr. 35 om naturområder i Oslo og nærliggende kommuner (markaloven)](lov/2009-06-05-35),[lov 26. juni 1998 nr. 47 om fritids- og småbåter § 40](lov/1998-06-26-47/§40), og[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33)blir overholdt. Det samme gjelder [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall](lov/1981-03-13-6), så langt departementet bestemmer.
 
 Departementet kan gi forskrift om at oppsynet skal føre kontroll med overholdelsen av bestemmelser gitt i medhold av [plan- og bygningsloven](lov/2008-06-27-71) så langt disse er gitt for å gjennomføre [naturmangfoldloven kapittel VI](lov/2009-06-19-100/kapvi) (utvalgte naturtyper).
 
@@ -40,7 +40,7 @@ Departementet kan pålegge oppsynet andre oppgaver.
 
 På Finnmarkseiendommens grunn skal oppsynet føre den ytterligere kontroll som departementet og Finnmarkseiendommen avtaler.
 
-> Endret ved lover [17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [5 juni 2009 nr. 35](lov/2009-06-05-35) (ikr. 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](forskrift/2009-06-05-618)), [17 sep 2010 nr. 57](lov/2010-09-17-57), [14 juni 2013 nr. 49](lov/2013-06-14-49), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [5 juni 2009 nr. 35](lov/2009-06-05-35) (ikr. 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](forskrift/2009-06-05-618)), [17 sep 2010 nr. 57](lov/2010-09-17-57), [14 juni 2013 nr. 49](lov/2013-06-14-49), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)). **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
 ## § 3. Oppsynets fullmakter
 

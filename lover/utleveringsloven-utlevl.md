@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1975-08-01"
-last_change_in_force: "2026-06-12"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "4c100238966e338ecdaab25bc095699f8c378dce6f4e07099d5cfe8703fcca34"
+xml_hash: "286ec00422442a289eb011bb25dd2a370082ff92ec9a0e417889475a6e9837df"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -147,12 +147,14 @@ Utlevering kan ikke skje når adgangen til henholdsvis straffeforfølgning eller
 
 ### § 18
 
-1. Er det ved kjennelse endelig avgjort at lovens vilkår for utlevering foreligger, sendes sakens dokumenter snarest mulig av påtalemyndigheten til departementet, som avgjør om utleveringsbegjæringen skal etterkommes.
-2. I tilfelle som nevnt i [§ 11](lov/1975-06-13-39/§11) andre ledd innhentes uttalelse fra kriminalomsorgen før avgjørelse treffes, såframt den det gjelder soner straff eller er anbrakt i anstalt.
-3. I forbindelse med utlevering kan det bestemmes at gjenstander som er beslaglagt under saken, skal overgis til den myndighet som har begjært utleveringen, likevel med de forbehold som det finnes grunn til å stille for å beskytte tredjemanns rett.
-4. Klage over vedtak om utlevering har oppsettende virkning.
+1. Påtalemyndigheten skal sende saken til departementet straks saken er rettskraftig avgjort.
+2. Er det rettskraftig avgjort at vilkårene for utlevering ikke er oppfylt, skal departementet avslå utleveringsbegjæringen og underrette utenlandsk myndighet om avgjørelsen.
+3. Er det rettskraftig avgjort at vilkårene for utlevering er oppfylt, skal departementet snarest mulig avgjøre om utlevering skal skje. Departementet skal vurdere om utleveringen skal utsettes eller gjøres midlertidig etter [§ 11](lov/1975-06-13-39/§11), sette nødvendige vilkår for utleveringen etter [§ 12](lov/1975-06-13-39/§12) og vurdere hvilken utleveringsbegjæring som skal etterkommes ved konkurrerende begjæringer. Departementet skal videre vurdere andre forhold som retten ikke har vurdert.
+4. I tilfelle som nevnt i [§ 11 andre ledd](lov/1975-06-13-39/§11/ledd/2) skal departementet innhente uttalelse fra kriminalomsorgen før avgjørelse treffes.
+5. I forbindelse med utlevering kan det bestemmes at gjenstander som er beslaglagt under saken, skal overgis til myndigheten som har begjært utleveringen, likevel med de forbehold som det finnes grunn til å stille for å beskytte tredjemanns rett.
+6. Departementets vedtak kan ikke påklages.
 
-> Endret ved [lov 19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)). **Endres** ved lov [23 juni 2026 nr. 72](lov/2026-06-23-72) (i kraft 1 juli 2026).
+> Endret ved lover [19 sep 2008 nr. 77](lov/2008-09-19-77) (ikr. 19 sep 2008 iflg. [res. 19 sep 2008 nr. 1037](forskrift/2008-09-19-1037)), [23 juni 2026 nr. 72](lov/2026-06-23-72) (i kraft 1 juli 2026).
 
 ### § 19
 

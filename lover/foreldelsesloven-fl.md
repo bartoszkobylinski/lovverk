@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1980-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "02f85a2ae77e296e1c05c2a198d40a7a5fdbf627016b0bb331f0d8e51bd2af42"
+xml_hash: "8584187cbe9171b0cf2210b0f6087422eb7b832b507860b9ff0d45d41d491a9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -168,11 +168,11 @@ Foreldelse avbrytes når skyldneren overfor fordringshaveren uttrykkelig eller v
 
 1. Når fordringshaveren begjærer konkurs eller offentlig skifte, blir dermed foreldelse av hans fordring avbrutt.
 
-2. Er skyldnerens bo under konkurs, gjeldsforhandling etter konkursloven, offentlig skifte, eller er det åpnet gjeldsforhandling etter gjeldsordningsloven, avbrytes ellers foreldelse når fordringshaveren anmelder fordringen i boet eller til namsmannen. Foreldelse av alle fordringer som blir anmeldt innen utløpet av meldefristen i boet anses avbrutt den dag da det ble åpnet konkurs, gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller offentlig skifte.
+2. Er skyldnerens bo under konkurs, gjeldsforhandling etter [konkursloven](lov/1984-06-08-58), offentlig skifte, eller er det åpnet gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), avbrytes ellers foreldelse når fordringshaveren anmelder fordringen i boet eller til namsmyndigheten. Foreldelse av alle fordringer som blir anmeldt innen utløpet av meldefristen i boet anses avbrutt den dag da det ble åpnet konkurs, gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller offentlig skifte.
 
 3. Avbrudd har virkning også i forhold til skyldneren og hans arvinger.
 
-> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [7 juni 1985 nr. 52](lov/1985-06-07-52), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [7 juni 1985 nr. 52](lov/1985-06-07-52), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19. (Prosessvarsel.)
 

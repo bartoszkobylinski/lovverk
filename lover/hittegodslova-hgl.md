@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1953-07-01"
-last_change_in_force: "2015-10-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-27"
-xml_hash: "5b8509f7440a36c7fd282f3226bc908106a8d0f15c7ac238516c2ef2f1b40d01"
+xml_hash: "0d79929983d515f7b93ce56b7d5c8069c992fa389ca7c6c3f09bc2d68732580b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -100,11 +100,9 @@ Det som er fastsett i §§ 2-3 og 5-9 om eigar av hittegods, gjeld på tilsvaran
 
 Innkome frå sal av hittegods etter [§§ 7](lov/1953-05-29-3/§7) og [8](lov/1953-05-29-3/§8) skal gå til eigaren ifall det ikkje melder seg nokon annan som provar at han har retten til pengane eller til noko av dei.
 
-## § 11.
+## § 11. (Oppheva)
 
-Avgjerd som lensmannen tek om finnarløn og annan kostnad som skal svarast før eigaren får hittegodset att, kan klagast inn for politimeisteren, når tvisten gjeld ein sum på kr. 100 eller meir, eller klagaren meiner avgjerda er lovstridig. Avgjerd som politimeisteren tek i fyrste hand eller i klagesak, kan klagast inn for departementet på det grunnlag at avgjerda er lovstridig.
-
-> Endra med [lover 15 des 1967 nr. 2](lov/1967-12-15-2), [19 juni 1969 nr. 54](lov/1969-06-19-54), 2 mars 1973 nr. 12, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)). **Oppheves** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endra med [lover 15 des 1967 nr. 2](lov/1967-12-15-2), [19 juni 1969 nr. 54](lov/1969-06-19-54), 2 mars 1973 nr. 12, [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), oppheva ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 12.
 

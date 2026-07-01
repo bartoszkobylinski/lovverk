@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "1999-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-24"
-xml_hash: "0192bf1dea5868dc9d61ffe21250806e50a537557fdc862182eb4589a45fca0c"
+xml_hash: "6719fe6cb01ee1bf6ff7f0883aa9df48a74433cf4590372ee3789afee4c7822d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -128,13 +128,13 @@ Tap av førerett skal settes til minst ett år. Det kan likevel besluttes tap av
 
 Den som taper retten til å føre båtførerbevispliktig fritidsbåt, skal ha bestått båtførerprøven før vedkommende kan føre slik båt igjen.
 
-Finner politiet at føreren eller eieren av en fritidsbåt, eller den som på eierens vegne har rådigheten over fritidsbåten, med skjellig grunn er mistenkt for et straffbart forhold som kan medføre tap av retten til å føre båtførerbevispliktig fritidsbåt, kan en polititjenestemann midlertidig tilbakekalle føreretten ved å ta beslag av båtførerbeviset eller ved å ilegge kjøreforbud til person som ikke har plikt til å ha båtførerbevis. Spørsmålet om å opprettholde midlertidig tap av føreretten skal snarest mulig forelegges for en tjenestemann som hører til påtalemyndigheten. Beslutningen skal være skriftlig. Dersom den mistenkte ikke samtykker i det midlertidige tilbakekallet av føreretten, må spørsmålet innen tre uker oversendes tingretten til avgjørelse.
+Finner politiet at føreren eller eieren av en fritidsbåt, eller den som på eierens vegne har rådigheten over fritidsbåten, med skjellig grunn er mistenkt for et straffbart forhold som kan medføre tap av retten til å føre båtførerbevispliktig fritidsbåt, kan en polititjenesteperson midlertidig tilbakekalle føreretten ved å ta beslag av båtførerbeviset eller ved å ilegge kjøreforbud til person som ikke har plikt til å ha båtførerbevis. Spørsmålet om å opprettholde midlertidig tap av føreretten skal snarest mulig forelegges for en tjenestemann som hører til påtalemyndigheten. Beslutningen skal være skriftlig. Dersom den mistenkte ikke samtykker i det midlertidige tilbakekallet av føreretten, må spørsmålet innen tre uker oversendes tingretten til avgjørelse.
 
 Når tap av førerett er rettskraftig avgjort, eller det er truffet vedtak om midlertidig tilbakekall av retten til å føre fritidsbåt og midlertidig beslag av båtførerbevis, plikter rettighetshaveren straks å levere båtførerbeviset til politiet.
 
 Kongen gir forskrift med nærmere regler om fastsetting av tap eller midlertidig tilbakekall av førerett, herunder hva som skal anses som grove lovbrudd, hvilke overtredelser som gir grunnlag for tap av førerett utover ett år, og under hvilke omstendigheter føreretten kan tapes for mindre enn ett år. Kongen kan også gi forskrift om anvendelse av kapitlet på Svalbard og Jan Mayen.
 
-> Tilføyd ved [lov 25 juni 2010 nr. 50](lov/2010-06-25-50) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 946](forskrift/2010-06-25-946)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 25 juni 2010 nr. 50](lov/2010-06-25-50) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 946](forskrift/2010-06-25-946)), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 28 b. Tilbakekall av retten til å føre fritidsbåt m.v. på grunn av særlige forhold
 
@@ -258,7 +258,7 @@ Kongen kan i forskrift gjøre unntak fra bestemmelser i forskrift gitt i medhold
 
 Den som forsettlig eller uaktsomt overtrer bestemmelsene i § 40 tredje eller fjerde ledd eller bestemmelser i forskrift fastslått med hjemmel i [§ 40](lov/1998-06-26-47/§40) tredje eller fjerde ledd, straffes med bøter.
 
-> Tilføyd ved [lov 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), endret ved [lover 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), tidligere § 40, [21 juni 2013 nr. 101](lov/2013-06-21-101) (ikr. 1 juli 2013 iflg. [res. 21 juni 2013 nr. 699](forskrift/2013-06-21-699)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
+> Tilføyd ved [lov 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), endret ved [lover 16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170), tidligere § 40), [21 juni 2013 nr. 101](lov/2013-06-21-101) (ikr. 1 juli 2013 iflg. [res. 21 juni 2013 nr. 699](forskrift/2013-06-21-699)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
 ## Kapittel 6. Avsluttende bestemmelser
 
@@ -268,7 +268,7 @@ Den som forsettlig eller uaktsomt overtrer bestemmelsene i § 40 tredje eller fj
 
 Kongen kan i forskrift gi nærmere bestemmelser om utfylling og gjennomføring av loven her.
 
-> Endret ved [lov 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), tidligere § 38.
+> Endret ved [lov 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731), tidligere § 38).
 
 ### § 41 a. Forvaltningstiltak
 
@@ -296,11 +296,11 @@ Forelegg utskrevet på stedet faller bort dersom det ikke straks vedtas. For for
 
 Påtalemyndigheten kan til gunst for siktede oppheve vedtatte forelegg.
 
-Polititjenestemann eller tolltjenestemann som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utferdige forenklet forelegg.
+Polititjenesteperson eller tolltjenesteperson som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utferdige forenklet forelegg.
 
 Departementet gir nærmere regler om bruk av forenklet forelegg og fastsetter bøtesatser og subsidiær fengselsstraff for de forskjellige lovbrudd som ordningen skal omfatte.
 
-> Tilføyd ved [lov 12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 43. Ikrafttredelse. Overgangsbestemmelser
 
@@ -308,10 +308,10 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelsene kan s
 
 Kongen kan gi nærmere overgangsbestemmelser.
 
-> Endret ved [lover 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), tidligere § 39, [12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), tidligere § 42.
+> Endret ved [lover 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731), tidligere § 39), [12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001, tidligere § 42).
 
 ### § 44. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
-> Endret ved [lover 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731)), tidligere § 40, [12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001), tidligere § 43.
+> Endret ved [lover 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731), tidligere § 40), [12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001, tidligere § 43).

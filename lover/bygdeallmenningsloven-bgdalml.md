@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "1993-01-01"
-last_change_in_force: "2019-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-04"
-xml_hash: "5527c0ca62d62ed333f09d8540e36fad8aa5e109997c1317f16011acc9e13720"
+xml_hash: "85997fad708d2b7d6c5eab52afa5363270648adfa823f38c4ee8eeab686b51f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -512,11 +512,9 @@ Allmenningsstyret avgjør om andre personer enn de i [§ 7-1](lov/1992-06-19-59/
 
 > Endret ved [lov 24 mai 2019 nr. 18](lov/2019-05-24-18) (ikr. 1 juli 2019 iflg. [res. 24 mai 2019 nr. 673](forskrift/2019-05-24-673)).
 
-### § 7-3. (felles viltområde)
+### § 7-3. (Opphevet)
 
-Allmenningsstyret kan beslutte at bygdeallmenning eller del av bygdeallmenning skal inngå i slike felles viltområder som omhandlet i [lov av 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet [§§ 37](lov/1981-05-29-38/§37) og [38](lov/1981-05-29-38/§38).
-
-> **Oppheves** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Opphevet ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 7-4. (driftsavtale)
 

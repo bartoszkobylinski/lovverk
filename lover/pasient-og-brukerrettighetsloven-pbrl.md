@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-31"
-xml_hash: "370b870bb1a1ef675f4d06e7ef82b24137c16231cac20d6b5a09721acc0a824b"
+xml_hash: "35cddf038849f68254f7331c5dc04be77ffa5c4ffc186d43a796b418cc01d450"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -202,9 +202,9 @@ Familier som har eller venter barn med alvorlig sykdom, skade eller nedsatt funk
 
 ### § 2-5 d. Midlertidige unntak fra rettigheter
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3) om fastsettelse av tidsfrist for når pasienten senest skal få nødvendig helsehjelp[§ 2-2 b første ledd](lov/1999-07-02-63/§2-2b/ledd/1) om rett til nødvendig helsehjelp uten opphold ved brudd på tidsfrist fastsatt etter [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3)[§ 2-2 a andre ledd bokstav a](lov/1999-07-02-63/§2-2a/ledd/2/bokstav/a) om informasjon om rett til nødvendig helsehjelp[§ 2-2 a andre ledd bokstav b](lov/1999-07-02-63/§2-2a/ledd/2/bokstav/b) om informasjon om tidspunkt for oppstart av helsehjelpen[§ 2-2 b første ledd](lov/1999-07-02-63/§2-2b/ledd/1) om plikt til å kontakte HELFO[§ 2-3](lov/1999-07-02-63/§2-3) om rett til fornyet vurdering[§ 2-4](lov/1999-07-02-63/§2-4) om rett til valg av behandlingssted[§ 2-5](lov/1999-07-02-63/§2-5) om rett til individuell plan[§ 2-5 a](lov/1999-07-02-63/§2-5a) om rett til kontaktlege[§ 2-5 b](lov/1999-07-02-63/§2-5b) om rett til koordinator[§ 2-5 c](lov/1999-07-02-63/§2-5c) om rett til barnekoordinator.
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3) om fastsettelse av tidsfrist for når pasienten senest skal få nødvendig helsehjelp[§ 2-2 a tredje ledd bokstav a](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/a) om informasjon om rett til nødvendig helsehjelp[§ 2-2 a tredje ledd bokstav b](lov/1999-07-02-63/§2-2a/ledd/3/bokstav/b) om informasjon om tidspunkt for oppstart av helsehjelpen[§ 2-2 b første ledd første punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/1) om rett til nødvendig helsehjelp uten opphold ved brudd på tidsfrist fastsatt etter [§ 2-2 a andre ledd tredje punktum](lov/1999-07-02-63/§2-2a/ledd/2/setning/3)[§ 2-2 b første ledd andre punktum](lov/1999-07-02-63/§2-2b/ledd/1/setning/2) om plikt til å kontakte Helfo[§ 2-3](lov/1999-07-02-63/§2-3) om rett til fornyet vurdering[§ 2-4](lov/1999-07-02-63/§2-4) om rett til valg av behandlingssted[§ 2-5](lov/1999-07-02-63/§2-5) om rett til individuell plan[§ 2-5 a](lov/1999-07-02-63/§2-5a) om rett til kontaktlege[§ 2-5 b](lov/1999-07-02-63/§2-5b) om rett til koordinator[§ 2-5 c](lov/1999-07-02-63/§2-5c) om rett til barnekoordinator.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lover [2 juni 2023 nr. 17](lov/2023-06-02-17), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), endret ved lover [2 juni 2023 nr. 17](lov/2023-06-02-17), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 1 juni 2024 iflg. [res. 26 april 2024 nr. 746](forskrift/2024-04-26-746)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 2-6. Dekning av utgifter til pasientreiser
 
@@ -264,9 +264,9 @@ Dersom pasienten ikke har beslutningskompetanse, har pasientens nærmeste pårø
 
 Dersom pasienten har beslutningskompetanse, har pasientens nærmeste pårørende rett til å medvirke når:pasienten har en alvorlig sinnslidelse og utgjør en nærliggende og alvorlig fare for andres liv eller helsehensynet til barn pasienten har omsorgsansvar for, taler for at pårørende skal få medvirke.
 
-Ønsker pasient eller bruker at andre personer skal være til stede når helse- og omsorgstjenester gis, skal dette som hovedregel imøtekommes.
+Pasient eller bruker har rett til å ha andre personer til stede når helse- og omsorgstjenester gis. Det kan gjøres unntak dersom det er nødvendig for å kunne gi forsvarlige helse- og omsorgstjenester.
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)), [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ### § 3-2. Pasientens og brukerens rett til informasjon
 
@@ -280,13 +280,13 @@ Dersom pasienten eller brukeren blir påført skade eller alvorlige komplikasjon
 
 Dersom pasienten eller brukeren blir påført skade eller alvorlige komplikasjoner, og utfallet er uventet ut fra påregnelig risiko, skal pasienten eller brukeren også informeres om hvilke tiltak helse- og omsorgstjenesten vil iverksette for at lignende hendelse ikke skal skje igjen.
 
-Dersom skade eller komplikasjon som nevnt i femte ledd er svært alvorlig, skal pasienten eller brukeren gis tilbud om møte med helse- og omsorgstjenesten så snart som mulig etter hendelsen, og senest ti dager etter hendelsen. Slike møter skal ha til formål å gi pasienten eller brukeren informasjon etter fjerde og femte ledd og svar på spørsmål knyttet til hendelsen og den videre oppfølgingen av denne. Ved dødsfall som følge av alvorlig hendelse, skal nærmeste pårørende tilbys tilsvarende møte.
+Dersom skade eller komplikasjon som nevnt i femte ledd er svært alvorlig, skal pasienten eller brukeren gis tilbud om møte med helse- og omsorgstjenesten så snart som mulig etter hendelsen, og senest ti dager etter hendelsen. Slike møter skal ha til formål å gi pasienten eller brukeren informasjon etter fjerde og femte ledd, utveksle informasjon knyttet til hendelsen og avklare hvilket behov pasienten eller brukeren har for videre oppfølging. Ved dødsfall som følge av alvorlig hendelse, skal nærmeste pårørende tilbys tilsvarende møte.
 
 Dersom det etter at behandlingen er avsluttet, oppdages at pasienten kan ha blitt påført betydelig skade som følge av helsehjelpen, skal pasienten om mulig informeres om dette.
 
 Brukere skal ha den informasjon som er nødvendig for å få tilstrekkelig innsikt i tjenestetilbudet og for å kunne ivareta sine rettigheter.
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 948](forskrift/2018-06-22-948)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [22 juni 2018 nr. 76](lov/2018-06-22-76), [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2018 iflg. [res. 22 juni 2018 nr. 948](forskrift/2018-06-22-948)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 3-3. Informasjon til pasientens eller brukerens nærmeste pårørende
 
@@ -574,11 +574,15 @@ Pasienten, brukeren eller den som opplysningene gjelder, kan kreve at opplysning
 
 > Endret ved lov [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
 
-### § 5-3. Overføring og tilgjengeliggjøring av journal
+### § 5-3. Rett til å motsette seg tilgjengeliggjøring av opplysninger i journal
 
-Pasienten og brukeren har rett til å motsette seg overføring og tilgjengeliggjøring av journal eller opplysninger i journal. Opplysningene kan heller ikke overføres eller tilgjengeliggjøres dersom det er grunn til å tro at pasienten eller brukeren ville motsette seg det ved forespørsel. Overføring og tilgjengeliggjøring kan likevel skje dersom tungtveiende grunner taler for det. Overføring og tilgjengeliggjøring av journal eller opplysninger i journal skal skje i henhold til bestemmelsene i lov om helsepersonell.
+Pasienten og brukeren kan motsette seg tilgjengeliggjøring av opplysninger i journal i samsvar med [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasientjournalloven § 17](lov/2014-06-20-42/§17).
 
-> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+Opplysningene kan heller ikke tilgjengeliggjøres dersom det er grunn til å tro at pasienten eller brukeren ville motsette seg det ved forespørsel.
+
+Tilgjengeliggjøring kan likevel skje dersom tungtveiende grunner taler for det.
+
+> Endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ## Kapittel 6. Barns særlige rettigheter
 
@@ -600,15 +604,15 @@ Barn har rett til samvær med minst en av foreldrene eller andre med foreldreans
 
 Barn har rett til å bli aktivisert og stimulert under opphold i helseinstitusjon, så langt dette er forsvarlig ut fra barnets helsetilstand.
 
-### § 6-4. Barns rett til undervisning i helseinstitusjon
+### § 6-4. Barns rett til opplæring og spesialpedagogisk hjelp i helseinstitusjon
 
-Barn i skolepliktig alder har rett til undervisning under opphold i helseinstitusjon, i den grad dette følger av opplæringslova.
+Barn i opplæringspliktig alder har rett til grunnskoleopplæring under opphold i helseinstitusjon, i den grad dette følger av [opplæringslova](lov/2023-06-09-30).
 
-Ungdom har rett til undervisning under opphold i helseinstitusjon, i den grad dette følger av opplæringslova.
+Ungdom har rett til videregående opplæring under opphold i helseinstitusjon, i den grad dette følger av [opplæringslova](lov/2023-06-09-30).
 
-Førskolebarn har rett til spesialpedagogisk hjelp under opphold i helseinstitusjon, i den grad dette følger av opplæringslova.
+Barn under opplæringspliktig alder har rett til spesialpedagogisk hjelp under opphold i helseinstitusjon, i den grad dette følger av [barnehageloven](lov/2005-06-17-64).
 
-> Endret ved lov [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 6-5. Barns partsrettigheter
 
@@ -644,9 +648,7 @@ Klage til statsforvalteren skal være skriftlig. Klagen skal være undertegnet a
 
 Pasienten, brukeren, eller andre som har rett til det, kan be tilsynsmyndigheten om en vurdering dersom vedkommende mener bestemmelser om plikter fastsatt i eller i medhold av [helsepersonelloven](lov/1999-07-02-64), [spesialisthelsetjenesteloven](lov/1999-07-02-61), [helse- og omsorgstjenesteloven](lov/2011-06-24-30) og [tannhelsetjenesteloven](lov/1983-06-03-54) er brutt til ulempe for seg eller den hun eller han opptrer på vegne av. Tilsvarende rett gjelder for nærmeste pårørende til en avdød pasient eller bruker og for nærmeste pårørende til en pasient eller bruker over 18 år som mangler beslutningskompetanse etter [§ 4-3 annet ledd](lov/1999-07-02-63/§4-3/ledd/2).
 
-Tilsynsmyndigheten kan eventuelt ilegge en administrativ reaksjon etter [helsepersonelloven kapittel 11](lov/1999-07-02-64/kap11) og gi pålegg til virksomhet etter [helsetilsynsloven § 8](lov/2017-12-15-107/§8) og [spesialisthelsetjenesteloven § 7-1](lov/1999-07-02-61/§7-1).
-
-> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. [res. 28 april 2023 nr. 613](forskrift/2023-04-28-613)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+> Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [28 april 2023 nr. 9](lov/2023-04-28-9) (i kraft 28 april 2023 iflg. [res. 28 april 2023 nr. 613](forskrift/2023-04-28-613)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-4 a. Saksbehandling ved anmodning om tilsyn
 
@@ -654,9 +656,9 @@ Statsforvalteren skal vurdere de synspunkter som er fremsatt i anmodningen etter
 
 Statsforvalteren skal vurdere hvordan anmodningen skal følges opp. Dersom det er grunn til å anta at det foreligger forhold som er til fare for pasient- og brukersikkerheten, skal statsforvalteren snarest mulig undersøke forholdet.
 
-Hvis statsforvalteren mener at det bør ilegges en reaksjon som nevnt i [§ 7-4](lov/1999-07-02-63/§7-4) andre ledd, skal saken oversendes Statens helsetilsyn. Dette gjelder likevel ikke når statsforvalteren selv vil gi faglig pålegg etter [helsepersonelloven § 56](lov/1999-07-02-64/§56). Første og andre ledd gjelder tilsvarende for behandlingen av saken hos Statens helsetilsyn.
+Hvis statsforvalteren mener at det bør gis pålegg til virksomhet etter [helsetilsynsloven §§ 8](lov/2017-12-15-107/§8) eller [9](lov/2017-12-15-107/§9) og [spesialisthelsetjenesteloven § 7-1](lov/1999-07-02-61/§7-1), eller at helsepersonell bør ilegges en reaksjon som nevnt i [helsepersonelloven kapittel 11](lov/1999-07-02-64/kap11), skal saken oversendes Statens helsetilsyn. Dette gjelder likevel ikke når statsforvalteren selv vil gi pålegg om retting etter [helsetilsynsloven § 8](lov/2017-12-15-107/§8) eller faglig pålegg etter [helsepersonelloven § 56](lov/1999-07-02-64/§56). Første og andre ledd gjelder tilsvarende for behandlingen av saken hos Statens helsetilsyn.
 
-Statsforvalteren skal gi den som har fremsatt en anmodning, innsyn i relevante saksdokumenter og anledning til å uttale seg til disse, så langt taushetsplikt ikke er til hinder for dette. Det samme gjelder i saker hvor Statens helsetilsyn behandler varsler etter [spesialisthelsetjenesteloven § 3-3 a](lov/1999-07-02-61/§3-3a), [helsetilsynsloven § 6](lov/2017-12-15-107/§6), [helse- og omsorgstjenesteloven § 12-3 a](lov/2011-06-24-30/§12-3a) og [pasient- og brukerrettighetsloven § 7-6](lov/1999-07-02-63/§7-6).
+Statsforvalteren skal gi den som har fremsatt en anmodning om tilsyn, innsyn i relevante saksdokumenter og anledning til å uttale seg til disse så langt taushetsplikt ikke er til hinder for dette. Det samme gjelder pasient, bruker eller nærmeste pårørende i saker hvor statsforvalteren behandler meldinger om alvorlige hendelser etter [§ 7-6](lov/1999-07-02-63/§7-6) i loven her, [helsetilsynsloven § 6](lov/2017-12-15-107/§6), [spesialisthelsetjenesteloven § 3-3 a](lov/1999-07-02-61/§3-3a), [helse- og omsorgstjenesteloven § 12-3 a](lov/2011-06-24-30/§12-3a) og [tannhelsetjenesteloven § 1-7](lov/1983-06-03-54/§1-7).
 
 Statens helsetilsyn eller statsforvalteren skal gi den som har fremsatt en anmodning informasjon om hvordan tilsynsmyndigheten har fulgt opp henvendelsen.
 
@@ -664,7 +666,7 @@ Reglene om klage i dette kapitlet kommer ikke til anvendelse på anmodninger om 
 
 Departementet kan i forskrift fastsette nærmere bestemmelser om Statens helsetilsyn og statsforvalterens saksbehandling, herunder fastsette regler om frist for fremsettelse av anmodning etter paragrafen her.
 
-> Tilføyd ved lov [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+> Tilføyd ved lov [7 juni 2013 nr. 29](lov/2013-06-07-29) (ikr. 1 jan 2014 iflg. [res. 6 des 2013 nr. 1398](forskrift/2013-12-06-1398)), endret ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-5. Frist for klage
 
@@ -672,13 +674,13 @@ Fristen for klage etter [§ 7-2](lov/1999-07-02-63/§7-2) er fire uker etter at 
 
 > Endret ved lover [29 aug 2003 nr. 87](lov/2003-08-29-87) (ikr. 1 sep 2003 iflg. [res. 29 aug 2003 nr. 1092](forskrift/2003-08-29-1092)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)).
 
-### § 7-6. Varsel om alvorlige hendelser
+### § 7-6. Melding om alvorlige hendelser
 
-En pasient, bruker eller nærmeste pårørende kan varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av ytelse av helse- og omsorgstjenester eller ved at en pasient eller bruker skader en annen. Adgangen til å varsle gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+En pasient, bruker eller nærmeste pårørende kan sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av ytelse av helse- og omsorgstjenester eller ved at en pasient eller bruker skader en annen. Adgangen til å sende melding gjelder dersom utfallet er uventet ut fra påregnelig risiko.
 
-Departementet kan gi forskrift om varsling etter første ledd, også om innholdet i varslene.
+Departementet kan gi forskrift om melding etter første ledd, også om innholdet i meldingene.
 
-> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 april 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 april 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lover [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 7-7. Forvaltningslovens anvendelse
 

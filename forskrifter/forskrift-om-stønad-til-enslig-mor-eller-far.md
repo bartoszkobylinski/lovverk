@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2024-04-25"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "2cb25d686d8e17c27c00cab2c1bc33102b64a5afc6878dd83a354270bf81efd5"
+xml_hash: "60fb2c52d1401e3f26152a4a70c714737a6cefcf2043d26fbaa3e909c4d0e889"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,33 +38,21 @@ Foreldre som bor i samme hus, og huset har fire eller færre boenheter, har et n
 
 Også andre boforhold kan anses å tilsvare det å bo i et hus med fire eller færre boenheter, slik at ingen av foreldrene skal anses å være alene om omsorgen. Dette gjelder når foreldrene bor iselvstendige boliger på samme tomt eller gårdsbruk,selvstendige boliger rundt samme gårdstun,nærmeste boliger eller rekkehus i samme gate,tilstøtende boliger med atkomst mellom boligene, ellersamme boligblokk eller annen bolig som har mer enn fire boenheter.
 
-## § 4. Reell arbeidssøker
+## § 4. (Opphevet)
 
-Som reell arbeidssøker regnes den som er arbeidsfør, og er villig til åta ethvert arbeid som er lønnet etter tariff eller sedvane,ta ethvert arbeid hvor reisetiden utgjør opptil én time hver vei med offentlig transport mellom hjem og arbeidsplass,ta arbeid som utgjør minst halvparten av full tid, ogdelta på arbeidsmarkedstiltak.
+> Opphevet ved forskrift [25 juni 2026 nr. 1363](forskrift/2026-06-25-1363) (i kraft 1 juli 2026).
 
-Den enslige moren eller faren kan reservere seg mot kvelds-, natt-, og helgearbeid.
+## § 5. (Opphevet)
 
-## § 5. Nødvendig og hensiktsmessig utdanning eller opplæring
+> Opphevet ved forskrift [25 juni 2026 nr. 1363](forskrift/2026-06-25-1363) (i kraft 1 juli 2026).
 
-Det er vanligvis ikke nødvendig å ta utdanning eller opplæring når den enslige moren eller faren har yrkeskompetanse. Utdanning eller opplæring kan likevel anses som nødvendig og hensiktsmessig dersom yrkeskompetansen er utdatert eller denne ikke er forenlig med aleneomsorg for små barn.
+## § 6. (Opphevet)
 
-Utdanningen eller opplæringen skal normalt gjennomføres ved offentlige utdanningsinstitusjoner eller som lærling med godkjent lærekontrakt. Utdanning eller opplæring ved private utdanningsinstitusjoner kan godkjennes i særlige tilfeller.
+> Opphevet ved forskrift [25 juni 2026 nr. 1363](forskrift/2026-06-25-1363) (i kraft 1 juli 2026).
 
-Utdanning ved militære skoler eller til etatsopplæring kan ikke godkjennes som nødvendig og hensiktsmessig utdanning eller opplæring.
+## § 7. (Opphevet)
 
-Den enslige moren eller faren skal i samarbeid med Arbeids- og velferdsetaten utarbeide en konkret plan for gjennomføringen og målet for utdanningen eller opplæringen (aktivitetsplan), jf. [lov 16. juni 2006 nr. 20](lov/2006-06-16-20) om arbeids- og velferdsforvaltningen [§ 14a](lov/2006-06-16-20/§14a) tredje ledd. Aktivitetsplanen danner grunnlag for vedtak om nødvendig og hensiktsmessig utdanning eller opplæring.
-
-## § 6. Stønadstid for overgangsstønad
-
-Overgangsstønaden kan gis sammenhengende eller i flere atskilte tidsrom.
-
-Alle tidsrom som en enslig mor eller far har fått utbetalt overgangsstønad for, skal regnes som stønadstid. Selv om det ikke blir utbetalt overgangsstønad, løper stønadstiden etter [folketrygdloven § 15-8](lov/1997-02-28-19/§15-8) første ledd og andre ledd første og andre punktum, dersom det blir utbetalt andre løpende ytelser etter [folketrygdloven kapittel 15](lov/1997-02-28-19/kap15).
-
-Overgangsstønad etter [folketrygdloven § 15-8](lov/1997-02-28-19/§15-8) andre ledd første og andre punktum kan gis i opptil 36 måneder i sammenheng eller i flere atskilte tidsrom.
-
-## § 7. Stønad til dekning av utgifter til skolepenger mv.
-
-Stønad til skolepenger, semesteravgift og eksamensgebyr gis på grunnlag av de faktiske utgiftene, med utgangspunkt i Statens lånekasse for utdannings satser for skolepenger. For utdanning på deltid dekkes skolepenger med opptil 1/4, 1/2, 2/3 eller 3/4 av maksimal stønad på full tid. Stønaden reduseres med stipend som gis til samme formål og som ikke er behovsprøvd.
+> Opphevet ved forskrift [25 juni 2026 nr. 1363](forskrift/2026-06-25-1363) (i kraft 1 juli 2026).
 
 ## § 8. Beregning av stønad til barnetilsyn
 

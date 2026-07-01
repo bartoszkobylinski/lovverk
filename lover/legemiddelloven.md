@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1994-01-01"
-last_change_in_force: "2025-05-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-02-16"
-xml_hash: "597b254da1af2999ce76727248d10e1cfc5fbd6eb1c48c5e7e0f759302622828"
+xml_hash: "0627056c57691001be7db2d515128b2aceee84d8c25360bb91999350b7925a07"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32019R0006"
@@ -29,7 +29,7 @@ eu_basis:
 
 Denne lov gjelder legemidler og visse andre varer til medisinsk bruk. Uavhengig av [§ 2](lov/1992-12-04-132/§2) første ledd gjelder denne loven også for de stoffer, droger, planter, sopper og blandinger som Kongen etter [§ 22](lov/1992-12-04-132/§22) har fastsatt som narkotika.
 
-For legemidler til dyr gjelder [kapittel I a](lov/1992-12-04-132/kapia). Dette gjelder likevel ikke for legemidler som nevnt i forordning om legemidler til dyr artikkel 2 nr. 7 bokstav a, b og d og for andre legemidler til dyr som ikke omfattes av virkeområdet til forordningen. For disse legemidlene gjelder loven med tilhørende forskrifter med unntak av bestemmelsene i [kapittel I a](lov/1992-12-04-132/kapia).
+For legemidler til dyr gjelder kapittel I a. Dette gjelder likevel ikke for legemidler som nevnt i forordning om legemidler til dyr artikkel 2 nr. 7 bokstav a, b og d og for andre legemidler til dyr som ikke omfattes av virkeområdet til forordningen. For disse legemidlene gjelder loven med tilhørende forskrifter med unntak av bestemmelsene i kapittel I a.
 
 > Endret ved lover [24 juni 2011 nr. 28](lov/2011-06-24-28) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 638](forskrift/2011-06-24-638)), [17 juni 2022 nr. 54](lov/2022-06-17-54) (i kraft 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576)).
 
@@ -149,7 +149,7 @@ Departementet kan kalle markedsføringstillatelsen tilbake dersom:Preparatet ikk
 
 ### § 10
 
-Kongen gir nærmere forskrifter om vilkår for markedsføringstillatelse, forpliktelser knyttet til markedsføringstillatelser og sanksjoner ved brudd på disse. Kongen kan gi forskrift med bestemmelser om omsetning og kontroll av legemidler som nevnt i [§ 8](lov/1992-12-04-132/§8) første ledd.
+Kongen gir nærmere forskrifter om vilkår for markedsføringstillatelse, forpliktelser knyttet til markedsføringstillatelser og sanksjoner ved brudd på disse. Kongen kan gi forskrift med bestemmelser om omsetning og kontroll av legemidler som nevnt i [§ 8 første ledd](lov/1992-12-04-132/§8/ledd/1). Departementet kan i forskrift bestemme at Det europeiske legemiddelbyrå kan pålegge innehavere av markedsføringstillatelse å gjøre bestemte opplysninger tilgjengelige for byrået.
 
 Kongen kan i særlige tilfeller gjøre unntak fra kravene i [§ 8](lov/1992-12-04-132/§8).
 
@@ -159,7 +159,7 @@ Departementet kan gi forskrift om sektoravgift på salg av legemidler fra inneha
 
 Departementet kan gi forskrift om gebyr for myndighetenes arbeid med å utstede sertifikater for legemidler.
 
-> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
+> Endret ved [lover 20 des 1996 nr. 109](lov/1996-12-20-109), [14 feb 2003 nr. 11](lov/2003-02-14-11) (ikr. 1 mars 2003 iflg. [res. 14 feb 2003 nr. 152](forskrift/2003-02-14-152)), [19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), [18 des 2009 nr. 138](lov/2009-12-18-138) (ikr. 8 jan 2010 iflg. [res. 8 jan 2010 nr. 2](forskrift/2010-01-08-2)), [16 juni 2017 nr. 57](lov/2017-06-16-57) (ikr. 1 sep 2017 iflg. [res. 16 juni 2017 nr. 785](forskrift/2017-06-16-785)), [27 apr 2018 nr. 14](lov/2018-04-27-14) (ikr. 1 juli 2018 iflg. [res. 27 apr 2018 nr. 675](forskrift/2018-04-27-675)), [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ### § 11
 
@@ -221,7 +221,7 @@ Kongen kan i forskrift gjøre unntak fra klagerett over vedtak fattet i medhold 
 
 ### § 13 b. Tilbakeholdelse, beslagleggelse og destruksjon av legemidler til dyr
 
-Legemidler til dyr som importeres i strid med [kapittel I a](lov/1992-12-04-132/kapia) eller forskrifter gitt i medhold av [kapittel I a](lov/1992-12-04-132/kapia), kan tilbakeholdes, beslaglegges og destrueres.
+Legemidler til dyr som importeres i strid med kapittel I a eller forskrifter gitt i medhold av kapittel I a, kan tilbakeholdes, beslaglegges og destrueres.
 
 Ved tilbakehold skal mottakeren varsles om at legemidlene vil bli vurdert beslaglagt og destruert, og gis mulighet til å uttale seg i saken innen en nærmere angitt frist.
 
@@ -241,11 +241,11 @@ Departementet kan gi forskrift om vilkår for godkjenning til grossistvirksomhet
 
 Godkjenning kan gis betinget og tidsbegrenset og kan kalles tilbake dersom betingelsene for godkjenning ikke oppfylles.
 
-Departementet kan pålegge grossister og andre som driver grossistvirksomhet, å registrere opplysninger om omsetningen. Opplysningene skal gjøres tilgjengelig for departementet. Departementet kan gi forskrift om hvordan opplysningene skal oppbevares og gjøres tilgjengelig.
+Departementet kan pålegge grossister og andre som driver grossistvirksomhet, å registrere opplysninger om omsetningen, logistiske utfordringer, tilgjengelighet av legemidler og prognoser for etterspørsel av legemidler. Opplysningene skal gjøres tilgjengelige for departementet. Departementet kan gi forskrift om hvordan opplysningene skal oppbevares og gjøres tilgjengelig. Departementet kan i forskrift bestemme at Det europeiske legemiddelbyrå kan pålegge grossister og andre som driver grossistvirksomhet, å gjøre opplysninger om logistiske utfordringer tilgjengelige for byrået.
 
 Grossister og andre som driver grossistvirksomhet, plikter å gi departementet elektronisk tilgang til opplysninger om lagerstatus ved fare for tilgangen til legemidler i Norge. Departementet kan gi forskrift om gjennomføringen av første punktum.
 
-> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
+> Endret ved lover [20 des 1996 nr. 109](lov/1996-12-20-109), [15 juni 2001 nr. 94](lov/2001-06-15-94) (ikr. 1 juli 2001 iflg. [res. 15 juni 2001 nr. 665](forskrift/2001-06-15-665)), [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)), [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ### § 15
 

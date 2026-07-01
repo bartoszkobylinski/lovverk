@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2010-03-01"
-last_change_in_force: "2021-10-30"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-04-19"
-xml_hash: "28a202bb5dc35d199ecc1d2f2a1d16a5a4b981c8ffa489c1b21d688cd8c330d3"
+xml_hash: "4b89000b66509c614ddd5c5b00a2d6a99044ec8e3f2e026da60f5362539c8ceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,9 +60,9 @@ EØS-avtalens vedlegg II kapittel XII nr. 105 (forordning [(EU) nr. 210/2013](eu
 
 ### § 2. Gjennomføring av forordning (EF) nr. 2073/2005
 
-EØS-avtalen vedlegg I kapittel I del 6.2 nr. 52 og vedlegg II kapittel XII nr. 54zzzj (forordning [(EF) nr. 2073/2005](eu/32005r2073*) som endret ved forordning [(EF) nr. 1441/2007](eu/32007r1441*), forordning [(EU) nr. 365/2010](eu/32010r0365), forordning [(EU) nr. 1086/2011](eu/32011r1086*), forordning [(EU) nr. 209/2013](eu/32013r0209), forordning [(EU) nr. 1019/2013](eu/32013r1019*), forordning [(EU) nr. 217/2014](eu/32014r0217), forordning [(EU) 2015/2285](eu/32015r2285), forordning [(EU) 2017/1495](eu/32017r1495), forordning [(EU) 2019/229](eu/32019r0229) og forordning [(EU) 2020/205](eu/32020r0205)) om mikrobiologiske kriterier for næringsmidler (mikrobiologiforordningen) gjelder som forskrift med de tilpasninger som følger av vedlegg I vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 6.2 nr. 52 og [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzj (forordning [(EF) nr. 2073/2005](eu/32005r2073) som endret ved forordning [(EF) nr. 1441/2007](eu/32007r1441), forordning [(EU) nr. 365/2010](eu/32010r0365), forordning [(EU) nr. 1086/2011](eu/32011r1086), forordning [(EU) nr. 209/2013](eu/32013r0209), forordning [(EU) nr. 1019/2013](eu/32013r1019), forordning [(EU) nr. 217/2014](eu/32014r0217), forordning [(EU) 2015/2285](eu/32015r2285), forordning [(EU) 2017/1495](eu/32017r1495), forordning [(EU) 2019/229](eu/32019r0229), forordning [(EU) 2020/205](eu/32020r0205) og forordning [(EU) 2024/2895](eu/32024r2895)) om mikrobiologiske kriterier for næringsmidler (mikrobiologiforordningen) gjelder som forskrift med de tilpasninger som følger av vedlegg I vedlegg II, protokoll 1 til avtalen og avtalen forøvrig.
 
-> Endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [24 okt 2011 nr. 1079](forskrift/2011-10-24-1079) (i kraft 1 nov 2011), [19 mai 2014 nr. 658](forskrift/2014-05-19-658), [30 juni 2014 nr. 921](forskrift/2014-06-30-921), [27 okt 2014 nr. 1341](forskrift/2014-10-27-1341), [4 aug 2016 nr. 954](forskrift/2016-08-04-954), [14 juni 2019 nr. 745](forskrift/2019-06-14-745), [15 juni 2020 nr. 1200](forskrift/2020-06-15-1200), [28 sep 2020 nr. 1913](forskrift/2020-09-28-1913). **Endres** ved forskrift [1 juli 2025 nr. 1399](forskrift/2025-07-01-1399) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), [24 okt 2011 nr. 1079](forskrift/2011-10-24-1079) (i kraft 1 nov 2011), [19 mai 2014 nr. 658](forskrift/2014-05-19-658), [30 juni 2014 nr. 921](forskrift/2014-06-30-921), [27 okt 2014 nr. 1341](forskrift/2014-10-27-1341), [4 aug 2016 nr. 954](forskrift/2016-08-04-954), [14 juni 2019 nr. 745](forskrift/2019-06-14-745), [15 juni 2020 nr. 1200](forskrift/2020-06-15-1200), [28 sep 2020 nr. 1913](forskrift/2020-09-28-1913), [1 juli 2025 nr. 1399](forskrift/2025-07-01-1399) (i kraft 1 juli 2026).
 
 ## Kapittel II. Bestemmelser om bulktransport av flytende oljer, fettstoffer og råsukker
 
@@ -669,7 +669,7 @@ Utferdiget i Brussel, 19. september 2011.
 
 ### Konsolidert forordning (EF) nr. 2073/2005
 
-> Forordningen endret ved [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), vedlegget endret 18. mai 2010, forordningen endret ved [forskrifter 24 okt 2011 nr. 1079](forskrift/2011-10-24-1079) (i kraft 1 nov 2011), [19 mai 2014 nr. 658](forskrift/2014-05-19-658), [30 juni 2014 nr. 921](forskrift/2014-06-30-921), [27 okt 2014 nr. 1341](forskrift/2014-10-27-1341), [4 aug 2016 nr. 954](forskrift/2016-08-04-954), [14 juni 2019 nr. 745](forskrift/2019-06-14-745), [15 juni 2020 nr. 1200](forskrift/2020-06-15-1200), [28 sep 2020 nr. 1913](forskrift/2020-09-28-1913). **Endres** ved forskrift [1 juli 2025 nr. 1399](forskrift/2025-07-01-1399) (i kraft 1 juli 2026).
+> Forordningen endret ved [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010), vedlegget endret 18. mai 2010, forordningen endret ved [forskrifter 24 okt 2011 nr. 1079](forskrift/2011-10-24-1079) (i kraft 1 nov 2011), [19 mai 2014 nr. 658](forskrift/2014-05-19-658), [30 juni 2014 nr. 921](forskrift/2014-06-30-921), [27 okt 2014 nr. 1341](forskrift/2014-10-27-1341), [4 aug 2016 nr. 954](forskrift/2016-08-04-954), [14 juni 2019 nr. 745](forskrift/2019-06-14-745), [15 juni 2020 nr. 1200](forskrift/2020-06-15-1200), [28 sep 2020 nr. 1913](forskrift/2020-09-28-1913), [1 juli 2025 nr. 1399](forskrift/2025-07-01-1399) (i kraft 1 juli 2026).
 
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 6.2 nr. 52 og vedlegg II kapittel XII nr. 54zzzj (forordning [(EF) nr. 2073/2005](eu/32005r2073*) som endret ved forordning [(EF) nr. 1441/2007](eu/32007r1441*), forordning [(EU) nr. 365/2010](eu/32010r0365), forordning [(EU) nr. 1086/2011](eu/32011r1086*), forordning [(EU) nr. 209/2013](eu/32013r0209), forordning [(EU) nr. 1019/2013](eu/32013r1019*), forordning [(EU) nr. 217/2014](eu/32014r0217), forordning [(EU) 2015/2285](eu/32015r2285), forordning [(EU) 2017/1495](eu/32017r1495), forordning [(EU) 2019/229](eu/32019r0229) og forordning [(EU) 2020/205](eu/32020r0205)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
@@ -685,6 +685,7 @@ Forordning [(EF) nr. 2073/2005](eu/32005r2073*) er konsolidert med endringer gje
 - ► **M8** Forordning [(EU) 2017/1495](eu/32017r1495) av 23. august 2017
 - ► **M9** Kommisjonsforordning [(EU) 2019/229](eu/32019r0229) av 7. februar 2019
 - ► **M10** Kommisjonsforordning [(EU) 2020/205](eu/32020r0205) av 14. februar 2020
+- ► **M11** Kommisjonsforordning [(EU) 2024/2895](eu/32024r2895) om *Listeria monocytogenes*
 
 ### KOMMISJONSFORORDNING [(EF) nr. 2073/2005](eu/32005r2073*)
 av 15. november 2005
@@ -794,7 +795,7 @@ Analyseresultatene viser den mikrobiologiske kvaliteten på det partiet som er u
 - tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
 
-- tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
+- tilfredsstillende dersom ingen av de målte verdiene viser at bakterien er påvist i noen av prøveenhetene.
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
 
 - tilfredsstillende dersom de målte verdiene er ≤ grenseverdien,

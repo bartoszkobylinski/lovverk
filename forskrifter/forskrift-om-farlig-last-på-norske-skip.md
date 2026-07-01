@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2014-09-15"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-01-01"
-xml_hash: "7527129f537be8c22f9a2f95db9a2e745c9ac0619ea185bfb836e38e7cc249ba"
+xml_hash: "76812b9db6e78277c537625feff4031fc3b94768a658090e92f2528ba2306b5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,9 +52,9 @@ Skip som frakter pakket farlig last skal i tillegg ha prosedyrer for håndtering
 
 ### § 5. Frakt av farlig last på skip i utenriksfart
 
-For lasteskip og passasjerskip i utenriksfart gjelder som forskrift[Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1) konsolidert utgave 2020 kapittel VIIInternational Maritime Dangerous Goods Code (IMDG-koden) konsolidert utgave 2024 jf. MSC.556 (108).International code for the construction and equipment of ships carrying dangerous chemicals in bulk (IBC-koden) jf. MSC.4(48), konsolidert utgave 2020 som endret ved MSC.460(101) og MSC.526(106)International Code for the construction and equipment of ships carrying liquefied gases in bulk (IGC-koden) konsolidert utgave 2014 jf. MSC.370(93), som endret ved MSC.411(97), MSC.441(99), MSC.476(102), MSC.492(104) og MSC.523.(106).International Code for the Safe Carriage of Packaged Irridated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships (INF-koden), jf. MSC.88(71), som endret ved MSC.118(74), MSC.135(76) og MSC.241(83).
+For lasteskip og passasjerskip i utenriksfart gjelder som forskrift[Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1) konsolidert utgave 2020 kapittel VIIInternational Maritime Dangerous Goods Code (IMDG-koden) konsolidert utgave 2024 jf. MSC.556 (108).International code for the construction and equipment of ships carrying dangerous chemicals in bulk (IBC-koden) jf. MSC.4(48), konsolidert utgave 2020 som endret ved MSC.460(101) og MSC.526(106)International Code for the construction and equipment of ships carrying liquefied gases in bulk (IGC-koden) konsolidert utgave 2014 jf. MSC.370(93), som endret ved MSC.411(97), MSC.441(99), MSC.476(102), MSC.492(104), MSC.523(106) og MSC.566(109).International Code for the Safe Carriage of Packaged Irridated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships (INF-koden), jf. MSC.88(71), som endret ved MSC.118(74), MSC.135(76) og MSC.241(83).
 
-> Endret ved [forskrifter 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016), [19 des 2017 nr. 2347](forskrift/2017-12-19-2347) (i kraft 1 jan 2018), [11 des 2019 nr. 1708](forskrift/2019-12-11-1708) (i kraft 1 jan 2020), [18 des 2019 nr. 1888](forskrift/2019-12-18-1888) (i kraft 1 jan 2020), [17 des 2020 nr. 2985](forskrift/2020-12-17-2985) (i kraft 1 jan 2021), [1 juni 2022 nr. 1323](forskrift/2022-06-01-1323), [7 nov 2023 nr. 1794](forskrift/2023-11-07-1794) (i kraft 1 jan 2024), [21 juni 2024 nr. 1307](forskrift/2024-06-21-1307) (i kraft 1 juli 2024), [15 des 2025 nr. 2917](forskrift/2025-12-15-2917) (i kraft 1 jan 2026).
+> Endret ved [forskrifter 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016), [19 des 2017 nr. 2347](forskrift/2017-12-19-2347) (i kraft 1 jan 2018), [11 des 2019 nr. 1708](forskrift/2019-12-11-1708) (i kraft 1 jan 2020), [18 des 2019 nr. 1888](forskrift/2019-12-18-1888) (i kraft 1 jan 2020), [17 des 2020 nr. 2985](forskrift/2020-12-17-2985) (i kraft 1 jan 2021), [1 juni 2022 nr. 1323](forskrift/2022-06-01-1323), [7 nov 2023 nr. 1794](forskrift/2023-11-07-1794) (i kraft 1 jan 2024), [21 juni 2024 nr. 1307](forskrift/2024-06-21-1307) (i kraft 1 juli 2024), [15 des 2025 nr. 2917](forskrift/2025-12-15-2917) (i kraft 1 jan 2026), [29 juni 2026 nr. 1399](forskrift/2026-06-29-1399) (i kraft 1 juli 2026).
 
 ### § 6. Frakt av farlige flytende stoffer i offshorevirksomhet
 

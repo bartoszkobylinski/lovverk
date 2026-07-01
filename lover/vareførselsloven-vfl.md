@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "7b3163eb2e7a7e74656d81b6d170e3fe6044d5d248510ef066bc59ad983782c9"
+xml_hash: "f0cd897bee4556c4026f32d22d146f29a94af6f1d93fd788fd05187cd506045f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -524,7 +524,15 @@ Uten hinder av taushetsplikt skal myndigheter som gir tillatelse til inn- eller 
 
 ### § 7-22. Registrering av aktører
 
-> **Tilføyes** ved lov [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 1 juli 2026).
+(1) Aktører i Norge som må ha et identifikasjonsnummer som følge av bruk av EORI-nummer i EU-rettsakter som er innlemmet i [EØS-avtalen](lov/1992-11-27-109/eøsl) og gjennomført i norsk rett, må registrere seg hos tollmyndighetene.
+
+(2) Følgende opplysninger registreres:organisasjonsnummer med prefikset NOaktørens navnorganisasjonsformadressenæringskode.Telefonnummer og andre elektroniske adresser kan registreres hvis opplysningene er registrert i Enhetsregisteret.
+
+(3) Ved registreringen tildeler tollmyndighetene identifikasjonsnummeret.
+
+(4) Tollmyndighetene kan dele de registrerte opplysningene med EU.
+
+> Tilføyd ved lov [23 juni 2026 nr. 67](lov/2026-06-23-67) (i kraft 1 juli 2026).
 
 ## Kapittel 8 Kontroll
 

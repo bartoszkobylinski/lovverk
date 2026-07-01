@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2023-12-19"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "5943a3ad222eaf452bccd2012ab2ec4eb1fa9d3f8e5e128395d94e3eb01aac1f"
+xml_hash: "e75ddccbfc9409909c4c5344cab1016b638bcdf728e74143b1e9d83dc920dc80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---

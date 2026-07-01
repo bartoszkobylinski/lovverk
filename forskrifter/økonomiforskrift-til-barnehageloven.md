@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "83d0c578b3625b9845717cecc09ab8b01af2aa2775221646886a006c93781ab0"
+xml_hash: "77237e5da0b4cefc8dbb8ad72fc445d7a734d18906c17e85dc1840cce0af90c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,7 @@ Tilleggsvirksomhet etter [§ 3 første ledd](forskrift/2022-12-16-2322/§3/ledd/
 
 Ved handel med nærstående, jf. [barnehageloven § 22](lov/2005-06-17-64/§22), skal barnehagen i note til årsregnskapet spesifisere hvem barnehagen har handlet med, hvilke varer og tjenester som er kjøpt og totalbeløpene for de ulike varene og tjenestene. Barnehager som ikke har hatt handel med nærstående, jf. [barnehageloven § 22](lov/2005-06-17-64/§22), skal oppgi dette.
 
-> Endret ved forskrifter [16 des 2024 nr. 3179](forskrift/2024-12-16-3179) (i kraft 1 jan 2025), [19 des 2025 nr. 2825](forskrift/2025-12-19-2825) (i kraft 1 jan 2026).
+> Endret ved forskrifter [16 des 2024 nr. 3179](forskrift/2024-12-16-3179) (i kraft 1 jan 2025), [19 des 2025 nr. 2825](forskrift/2025-12-19-2825) (i kraft 1 jan 2026). **Endres** ved forskrift [26 juni 2026 nr. 1394](forskrift/2026-06-26-1394) (i kraft 1 jan 2027).
 
 ## § 5. Krav til regnskap og bokføring for barnehager som er unntatt fra kravet om å være et selvstendig rettssubjekt
 

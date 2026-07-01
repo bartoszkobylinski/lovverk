@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-12-17"
-last_change_in_force: "2024-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-29"
-xml_hash: "dcdcad13a0d607f0d11d55b7155912332b1eb7ccd224a14c4f8afa209a56aa62"
+xml_hash: "4ae0e9842f0c5db3d6833077614fb92effbd2f91daeb8548aad466be12ab95a4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,19 +26,19 @@ eu_basis: []
 
 Lovens formål er å legge til rette for etablering av ordning med brukerrom for inntak av narkotika (brukerromsordning).
 
-Brukerromsordningen skal bidra til økt verdighet for mennesker med langvarig narkotikaavhengighet ved å tilby hygieniske rammer for injisering av narkotika og motivere for mer skånsomme inntaksmåter. Videre skal brukerromsordningen bidra til økt helsemessig trygghet, blant annet forebygge infeksjoner og smitte og gi raskere hjelp ved overdoser, gjennom tilstedeværelse og tilsyn av helsepersonell. Formålet er også å bidra til økt mulighet for kontakt og samtaler mellom den enkelte bruker og hjelpeapparatet med sikte på tverrfaglig oppfølging og behandling.
+Brukerromsordningen skal bidra til økt verdighet for mennesker med helseskadelig og risikofylt bruk av narkotika ved å tilby hygieniske rammer for inntak av narkotika og motivere for mest mulig skånsomt inntak. Videre skal brukerromsordningen bidra til økt helsemessig trygghet, blant annet forebygge infeksjoner og smitte og gi raskere hjelp ved overdoser, gjennom tilstedeværelse og tilsyn av helsepersonell. Formålet er også å bidra til økt mulighet for kontakt og samtaler mellom den enkelte bruker og hjelpeapparatet med sikte på tverrfaglig oppfølging og behandling.
 
-> Endret ved [lover 19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Endret ved [lover 19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ## § 2. Brukerromsordningen
 
 En brukerromsordning som er etablert i medhold av denne loven, er å anse som kommunal helse- og omsorgstjeneste.
 
-En brukerromsordning skal inneholde et injiseringsrom, fremmøterom og samtalerom. I tillegg skal brukerromsordningen ha tilgang til et behandlingsrom.
+En brukerromsordning skal inneholde et injiseringsrom, et inhaleringsrom, et fremmøterom og et samtalerom. I tillegg skal brukerromsordningen ha tilgang til et behandlingsrom.
 
-Ordningen skal også inneholde et rom for inhalering av narkotika (inhaleringsrom).
+Departementet kan i en godkjenning etter [§ 3](lov/2004-07-02-64/§3) eller ved endring av en slik godkjenning gjøre unntak fra kravene i andre ledd.
 
-> Endret ved [lover 17 des 2004 nr. 91](lov/2004-12-17-91) (ikr. 17 des 2004 iflg. [res. 17 des 2004 nr. 1671](forskrift/2004-12-17-1671)), [19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Endret ved [lover 17 des 2004 nr. 91](lov/2004-12-17-91) (ikr. 17 des 2004 iflg. [res. 17 des 2004 nr. 1671](forskrift/2004-12-17-1671)), [19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ## § 3. Etablering av brukerromsordning og krav om godkjenning
 
@@ -58,9 +58,9 @@ Det er tillatt for personalet i brukerromsordningen å gi brukerne individuell o
 
 ## § 5. Behandling av helseopplysninger
 
-En kommune som etablerer en godkjent brukerromsordning, kan føre helseregister og behandle helseopplysninger som nevnt i [helseregisterloven § 2](lov/2014-06-20-43/§2) bokstav a og andre personopplysninger i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her. Registrering og annen behandling av opplysningene kan skje uten samtykke fra den registrerte.
+En kommune som etablerer en godkjent brukerromsordning, kan føre helseregister og behandle helseopplysninger som nevnt i [helseregisterloven § 2](lov/2014-06-20-43/§2) bokstav a og andre personopplysninger i den grad det er nødvendig for å oppfylle reglene gitt i eller i medhold av loven her. Det samme gjelder en tjenesteyter som driver brukerrom etter avtale med kommunen. Registrering og annen behandling av opplysningene kan skje uten samtykke fra den registrerte.
 
-> Endret ved [lover 17 des 2004 nr. 91](lov/2004-12-17-91) (ikr. 17 des 2004 iflg. [res. 17 des 2004 nr. 1671](forskrift/2004-12-17-1671)), [19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Endret ved [lover 17 des 2004 nr. 91](lov/2004-12-17-91) (ikr. 17 des 2004 iflg. [res. 17 des 2004 nr. 1671](forskrift/2004-12-17-1671)), [19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)), [20 des 2018 nr. 113](lov/2018-12-20-113) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2060](forskrift/2018-12-20-2060)), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ## § 6. Avgjørelse om adgang til brukerromsordningens tjenester
 

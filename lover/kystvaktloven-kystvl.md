@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Forsvarsdepartementet"
 date_in_force: "1999-11-05"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-31"
-xml_hash: "992b594b5eb14b636eb51d69986237d6d2c104f813b136fd9bfbce12815c47ec"
+xml_hash: "c12caf68557e2c371b7e24393624c4a914fcef12ec0a7e9b2e856f3b0e3b598a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,11 +110,11 @@ Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av [var
 
 ### § 11. Miljøoppsyn m.v.
 
-Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdtlov om skipssikkerhet (skipssikkerhetsloven) [kapittel 5](lov/2007-02-16-9/kap5).[lov av 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet,[lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven),[lov av 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner,[lov av 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven),[lov av 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt,[lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.](lov/1992-05-15-47),[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
+Kystvakten kan føre kontroll med at bestemmelser gitt i eller i medhold av følgende lover blir overholdtlov om skipssikkerhet (skipssikkerhetsloven) [kapittel 5](lov/2007-02-16-9/kap5).[lov av 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet,[lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven),[lov av 9. juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner,[lov av 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven),[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),[lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv.](lov/1992-05-15-47),[lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet](lov/2025-06-10-33).
 
 Det samme gjelder bestemmelser gitt i og i medhold av lov om miljøvern på Svalbard (svalbardmiljøloven).
 
-> Endret ved [lover 15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)). **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lover [15 juni 2001 nr. 79](lov/2001-06-15-79) (ikr. 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648)), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [10 juni 2025 nr. 33](lov/2025-06-10-33) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966)), [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 12. Andre oppsynsoppgaver
 

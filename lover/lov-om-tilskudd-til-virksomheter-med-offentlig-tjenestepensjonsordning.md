@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2019-03-01"
-last_change_in_force: "2023-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-09-27"
-xml_hash: "a5168a340c998bfc0bf04b8f432ceada8bbf4270ae2e83a183345773ca88c607"
+xml_hash: "c9fb36ee888f68775a55e44aab2c655a4f07f9254d93c19a8492a75039f8eab0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,9 +38,9 @@ Søknader om tilskudd avgjøres av departementet.
 
 Det skal ytes årlige tilskudd beregnet på grunnlag av virksomhetens årlige pensjonspremie, begrenset til premie for pensjonsrettigheter som medlemmer av pensjonsordningen har opptjent før 1. januar 2019. Tilskuddet omfatter ikke premie som er knyttet til annen virksomhet enn levering av tjenester som nevnt i [§ 2](lov/2019-03-01-3/§2).
 
-I tilskuddet skal det gjøres fradrag forvirksomhetens avkastning på premiereserve og tilleggsavsetninger forvaltet av tjenestepensjonsleverandør for den andel som tilskuddsordningen dekker, fratrukket administrative kostnaderkompensasjon som allerede er gitt eller er forutsatt dekket etter avtale.
+I tilskuddet skal det gjøres fradrag forvirksomhetens avkastning på premiereserve og bufferfond forvaltet av tjenestepensjonsleverandør for den andel som tilskuddsordningen dekker, fratrukket administrative kostnaderkompensasjon som allerede er gitt eller er forutsatt dekket etter avtale.
 
-> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ## § 4. Forskrifter
 

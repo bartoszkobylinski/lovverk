@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2022-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "0256e4fd69948f2417bdc3e6cf8f5d2a77b3590e268d96d8f9c7ae7daad4e1d2"
+xml_hash: "60ebbb7474abf5dde05dd4c2265718d31fe5a9a2bcc3dfe67ac5d1f3213ed5c6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -55,25 +55,9 @@ Hvis medlemmet ikke kan møte fram på behandlingsstedet på grunn av sin helset
 - Ugyldig takstkombinasjon betyr at takstene ikke kan kombineres i samme behandling / på samme regning.
 
 - *0* – betyr at taksten ikke kan repeteres i samme behandling, det vil si at en prosedyre/undersøkelse/behandling bare refunderes én gang selv om den gjentas.
-- *Rep.* – betyr at taksten kan repeteres flere ganger i samme behandling. Står det i stedet et tall, kan taksten repeteres dette antallet ganger.*Takst**Tekst**Refusjon**Merknad**Repetisjon*A. *Undersøkelse og behandling*A1aUndersøkelse
-Ugyldig takstkombinasjon: Alle unntatt A1b, B10, B1718M1, M20A1bTillegg for undersøkelse ut over 30 minutter per påbegynte 15 minutter
-Ugyldig takstkombinasjon: Alle unntatt A1a, B10, B1359M1, M25A2aBehandling
-Ugyldig takstkombinasjon: Alle unntatt A2b, B10 og B1656M1, M20A2bTillegg for behandling ut over 30 minutter per påbegynte 15 minutter
-Ugyldig takstkombinasjon: Alle unntatt A2a, B10 og B1328M1, M25A3aBehandling i grupper på inntil 8 personer – 60 minutter
-Ugyldig takstkombinasjon: Alle unntatt A3b1320M3, M50A3bTillegg per pasient i gruppen
-Ugyldig takstkombinasjon: Alle unntatt A3a38M3, M50A4aBehandling i grupper på inntil 8 personer – 90 minutter
-Ugyldig takstkombinasjon: Alle unntatt A4b1975M3, M50A4bTillegg per pasient i gruppen
-Ugyldig takstkombinasjon: Alle unntatt A4a44M3, M50A5aMøtegodtgjørelse med reisetid når logopeden eller audiopedagogen deltar i planlagt tverrfaglig eller flerfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst A5a beregnes for arbeid i inntil en halv time og deretter utløses takst A5b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene A5a og A5b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst A5a og A5b kan ikke benyttes ved samtidig konsultasjon eller dersom møtet blir avlyst.
-Ugyldig takstkombinasjon: Alle unntatt A5b6120A5bTillegg når møtet varer ut over 30 minutter, per påbegynte 30 minutter
-Ugyldig takstkombinasjon: Alle unntatt A5a612Rep.A6Telefonsamtale/skriftlig kommunikasjon om enkeltpasient med fagpersoner i kommunal helse- og omsorgstjeneste og i spesialisthelsetjenesten
-Ugyldig takstkombinasjon: Alle1340A7aBehandling ved videokonsultasjon
-Ugyldig takstkombinasjon: Alle unntatt A7b656M1, M2, M30A7bTillegg for behandling ved videokonsultasjon ut over 30 minutter per påbegynte 15 minutter
-Ugyldig takstkombinasjon: Alle unntatt A7a328M1, M2, M35A7cFaglig råd og veiledning via fysisk fremmøte, telefon eller video av pårørende eller personell som følger opp pasient, 15 minutter. Taksten kan også benyttes ved skriftlig veiledning når denne er utformet spesifikt for pasienten det gis faglig råd og veiledning om. Taksten kan repeteres ved tidsbruk ut over 15 minutter.
-Ugyldig takstkombinasjon: Alle333M43*B. Tillegg for behandling i pasientens hjem og reisetillegg*B10Tillegg ved behandling i pasientens hjem
-Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B1174M60B1Reisetillegg per kilometer
-Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B1011M6, M7Rep.
+- *Rep.* – betyr at taksten kan repeteres flere ganger i samme behandling. Står det i stedet et tall, kan taksten repeteres dette antallet ganger.
 
-> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
+> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025), [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
 
 ### Merknader:
 
@@ -99,7 +83,7 @@ Beregningsgrunnlaget for reisetillegget er antall tilbakelagte kilometer. Ved be
 
 Veilengden regnes fra logopedens eller audiopedagogens kontor (bolig), men skjer utreisen fra et midlertidig oppholdssted, regnes den fra dette hvis reisen derfra til pasienten er kortere.
 
-> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
+> Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025), [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
 
 ## Kapittel 3. Ikrafttredelse
 

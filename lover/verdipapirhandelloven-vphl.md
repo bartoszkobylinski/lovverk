@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2007-11-01"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-02-02"
-xml_hash: "b6e1db283ce0082c578d670fe843c8654b9acc4d77d4783ee6e0be7d838a32c9"
+xml_hash: "a91120ad09ddc254955a31ef3af399f0d88fab649dd6b494d7e0cde012dd13ef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32014R0596"
@@ -512,11 +512,11 @@ Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](
 
 (5) Aksjeutsteder skal offentliggjøre opplysninger om tildeling og utbetaling av utbytte, samt om utstedelse av nye aksjer, herunder eventuelle ordninger for tildeling, tegning, annullering og konvertering.
 
-(6) Aksjeutsteder kan bruke elektronisk kommunikasjon når meldinger, varsler, informasjon, dokumenter, underretninger og lignende skal gis til en aksjeeier, dersom aksjeeier uttrykkelig har godtatt dette. Når en aksjeutsteder skal gi meldinger mv. til aksjeeier, kan han eller hun gjøre dette ved bruk av elektronisk kommunikasjon til den e-postadressen eller på den måten aksjeeier har angitt for dette formålet.
+(6) Dersom det er truffet beslutning om det på en generalforsamling, kan aksjeutsteder bruke elektronisk kommunikasjon når meldinger, varsler, informasjon, dokumenter, underretninger og lignende skal gis til en aksjeeier, med mindre aksjeeieren har reservert seg mot dette. Aksjeutsteder skal klart informere om retten til å reservere seg mot elektronisk kommunikasjon og angi en enkel fremgangsmåte for å reservere seg.
 
 (7) Departementet kan i forskrift fastsette nærmere regler om informasjon til aksjeeier.
 
-> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)). **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lover [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)), [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 5-10. Informasjon til långivere mv.
 
@@ -1217,7 +1217,7 @@ Departementet kan gi markedsoperatør tillatelse til å drive en multilateral ha
 
 (3) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [27 juni 2008 nr. 63](lov/2008-06-27-63) (ikr. 1 juli 2010 iflg. [forskr. 26 mars 2010 nr. 466](forskrift/2010-03-26-466)) som endret ved lov [19 juni 2009 nr. 48](lov/2009-06-19-48), [14 juni 2013 nr. 34](lov/2013-06-14-34) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 620](forskrift/2013-06-14-620)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet).
+> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [27 juni 2008 nr. 63](lov/2008-06-27-63) (ikr. 1 juli 2010 iflg. [forskr. 26 mars 2010 nr. 466](forskrift/2010-03-26-466), endring endret ved lov [19 juni 2009 nr. 48](lov/2009-06-19-48)), [14 juni 2013 nr. 34](lov/2013-06-14-34) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 620](forskrift/2013-06-14-620)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet).
 
 ### § 9-16. Generelle krav til organisering av virksomheten
 
@@ -1305,7 +1305,7 @@ Departementet kan i forskrift gi regler om klagebehandling.
 
 (4) Departementet kan fastsette utfyllende forskrifter til bestemmelsen her.
 
-> Endret ved lover [27 juni 2008 nr. 63](lov/2008-06-27-63) (ikr. 1 juli 2010 iflg. [forskr. 26 mars 2010 nr. 466](forskrift/2010-03-26-466)) som endret ved lov [19 juni 2009 nr. 48](lov/2009-06-19-48), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)), [14 juni 2013 nr. 34](lov/2013-06-14-34) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 620](forskrift/2013-06-14-620)), [16 des 2016 nr. 90](lov/2016-12-16-90) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1592](forskrift/2016-12-16-1592)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. res. 30 april 2021 nr. 1316).
+> Endret ved lover [27 juni 2008 nr. 63](lov/2008-06-27-63) (ikr. 1 juli 2010 iflg. [forskr. 26 mars 2010 nr. 466](forskrift/2010-03-26-466), endring endret ved lov [19 juni 2009 nr. 48](lov/2009-06-19-48)), [4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), [22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)), [14 juni 2013 nr. 34](lov/2013-06-14-34) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 620](forskrift/2013-06-14-620)), [16 des 2016 nr. 90](lov/2016-12-16-90) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1592](forskrift/2016-12-16-1592)), [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), kap endret i sin helhet), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. res. 30 april 2021 nr. 1316).
 
 ### § 9-22. Definisjoner av algoritmehandel og direkte elektronisk tilgang
 

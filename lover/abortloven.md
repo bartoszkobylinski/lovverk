@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2025-06-01"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "1441135ec2cdcef0b6511b6859630a3214e92eecfef11f9218c9119348d633ba"
+xml_hash: "328f78eb86c449fbb16130a84ed360c0368e42ed50f575171f3ab2eba693ad3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,15 +84,15 @@ Når en gravid som er under 16 år, setter frem krav om abort, gjelder [pasient-
 
 Dersom en gravid som er under 16 år, ikke er i stand til å forstå valgsituasjonen og hva inngrepet innebærer, eller ikke selv kan fremsette krav om abort, kan kravet settes frem av foreldrene eller andre som har foreldreansvaret. [Pasient- og brukerrettighetsloven § 4-4](lov/1999-07-02-63/§4-4) om samtykke på vegne av barn gjelder tilsvarende. Den gravide skal først ha fått tilbud om informasjon og veiledning etter [§ 6](lov/2024-12-20-96/§6) i loven her. Det skal legges vekt på hva den gravide mener, i samsvar med den gravides alder og modenhet. Dersom den gravide ikke har fått tilbud om informasjon og veiledning, eller dersom den gravide motsetter seg inngrepet, kan det ikke gjennomføres. Dette gjelder ikke dersom den gravide risikerer vesentlig helseskade.
 
-### § 9. Gravide som mangler samtykkekompetanse
+### § 9. Gravide som mangler beslutningskompetanse
 
-Dersom den gravide mangler samtykkekompetanse etter [pasient- og brukerrettighetsloven § 4-3](lov/1999-07-02-63/§4-3) andre til fjerde ledd, og har en verge eller fremtidsfullmektig som har et mandat som omfatter bistand i spørsmålet om abort, kan vergen eller fremtidsfullmektigen kreve abort på den gravides vegne. Den gravide skal først ha fått tilbud om informasjon og veiledning etter [§ 6](lov/2024-12-20-96/§6) i loven her. Vergen skal legge den gravides eget ønske til grunn, ut fra den beste tolkningen av den gravides vilje og preferanser.
+Dersom den gravide mangler beslutningskompetanse etter [pasient- og brukerrettighetsloven § 4-3 andre](lov/1999-07-02-63/§4-3/ledd/2) til [fjerde ledd](lov/1999-07-02-63/§4-3/ledd/4), og har en verge eller fremtidsfullmektig som har et mandat som omfatter bistand i spørsmålet om abort, kan vergen eller fremtidsfullmektigen kreve abort på den gravides vegne. Den gravide skal først ha fått tilbud om informasjon og veiledning etter [§ 6](lov/2024-12-20-96/§6) i loven her. Vergen skal legge den gravides eget ønske til grunn, ut fra den beste tolkningen av den gravides vilje og preferanser.
 
 Dersom den gravide ikke har fått tilbud om informasjon og veiledning, eller dersom den gravide motsetter seg inngrepet, kan det ikke gjennomføres. Dette gjelder ikke dersom den gravide risikerer vesentlig helseskade.
 
 Hvis den gravide ikke har verge eller fremtidsfullmektig som har mandat til å bistå i spørsmålet om abort, kan statsforvalteren oppnevne verge eller endre vergemålet i tråd med [vergemålsloven §§ 20](lov/2010-03-26-9/§20) og [21](lov/2010-03-26-9/§21).
 
-> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ## Kapittel 4. Vedtaksmyndighet i abortsaker
 

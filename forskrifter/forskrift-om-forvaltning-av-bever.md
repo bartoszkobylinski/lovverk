@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2017-05-15"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: "2021-04-30"
-xml_hash: "d8ed6efc7935b0039d25162e4061988f732006159993ab37960c59d1c54bd221"
+xml_hash: "9f77c0af213c4bcf2bcb4fadc1a02105dc888fb3651be52416498358ea2d5e32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,11 +34,13 @@ Nabokommuner med felles vassdrag med bever bør samarbeide og koordinere sin for
 
 ## § 3. Åpning av jakt og fangst av bever
 
-Kommunen kan ved forskrift åpne for jakt og fangst av bever i hele eller deler av kommunen i en nærmere fastsatt periode, innenfor jakttid for arten fastsatt i forskrift om jakt og fangsttider vedtatt med hjemmel i [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt [§ 9](lov/1981-05-29-38/§9).
+Kommunen kan ved forskrift åpne for jakt og fangst av bever i hele eller deler av kommunen i en nærmere fastsatt periode, innenfor jakttid for arten fastsatt i [forskrift om jakt og fangsttider](forskrift/2024-04-05-568) vedtatt med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10).
 
 Kommunen kan innenfor de områder som åpnes for jakt og fangst fastsette en kvote for uttaket.
 
 Forskriften fastsettes i samsvar med vedtatt målsetting i [§ 2](forskrift/2017-04-26-519/§2) og vilkårene for høsting i [naturmangfoldloven § 16](lov/2009-06-19-100/§16) tredje og fjerde ledd.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 4. Endring eller opphør av jakt og fangst
 

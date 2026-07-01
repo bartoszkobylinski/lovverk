@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2020-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "b5b0115426afe5b563b6a01fe080105812d95c2dd48582e5dbb6ce0dbdda8917"
+xml_hash: "99c11166885c90f6af6e8c4489bbc5fe7b06eac27a37c3252d863460449f4d9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -48,7 +48,7 @@ Satsene for priskompensasjon ved innenlands produksjon av skilleprodukter fastse
 
 Omsetningsrådet avgjør om priskompensasjon gis til eggehvite eller eggeplomme eller begge.
 
-Satser for priskompensasjon ved innenlands produksjon av skilleprodukter av egg i perioden 1. juli 2025 til 31. desember 2025 skal være 17,80 kroner per kilogram eggehvite.
+Satser for priskompensasjon ved innenlands produksjon av skilleprodukter av egg i perioden 1. juli 2026 til 31. desember 2026 skal være 18,05 kroner per kilogram eggehvite.
 
 Satser for priskompensasjon ved innenlands produksjon av skilleprodukter av egg i perioden 1. januar 2026 til 30. juni 2026 skal være 16,70 kroner per kilogram eggehvite.
 
@@ -56,7 +56,7 @@ Satser for priskompensasjon ved innenlands produksjon av skilleprodukter av egg 
 
 Satsene gjelder for den perioden produktet er solgt.
 
-> Endret ved forskrifter [11 des 2020 nr. 3311](forskrift/2020-12-11-3311) (i kraft 1 jan 2021), [21 juni 2021 nr. 2220](forskrift/2021-06-21-2220) (i kraft 1 juli 2021), [4 nov 2021 nr. 3422](forskrift/2021-11-04-3422) (i kraft 1 jan 2022), [23 juni 2022 nr. 1190](forskrift/2022-06-23-1190) (i kraft 1 juli 2022), [9 des 2022 nr. 2128](forskrift/2022-12-09-2128) (i kraft 1 jan 2023), [23 juni 2023 nr. 1151](forskrift/2023-06-23-1151) (i kraft 1 juli 2023), [8 des 2023 nr. 1982](forskrift/2023-12-08-1982) (1 jan 2024), [20 juni 2024 nr. 1348](forskrift/2024-06-20-1348) (i kraft 1 juli 2024), [11 des 2024 nr. 3050](forskrift/2024-12-11-3050) (i kraft 1 jan 2025), [17 juni 2025 nr. 2274](forskrift/2025-06-17-2274) (i kraft 1 juli 2025), [8 des 2025 nr. 2455](forskrift/2025-12-08-2455) (i kraft 1 jan 2026).
+> Endret ved forskrifter [11 des 2020 nr. 3311](forskrift/2020-12-11-3311) (i kraft 1 jan 2021), [21 juni 2021 nr. 2220](forskrift/2021-06-21-2220) (i kraft 1 juli 2021), [4 nov 2021 nr. 3422](forskrift/2021-11-04-3422) (i kraft 1 jan 2022), [23 juni 2022 nr. 1190](forskrift/2022-06-23-1190) (i kraft 1 juli 2022), [9 des 2022 nr. 2128](forskrift/2022-12-09-2128) (i kraft 1 jan 2023), [23 juni 2023 nr. 1151](forskrift/2023-06-23-1151) (i kraft 1 juli 2023), [8 des 2023 nr. 1982](forskrift/2023-12-08-1982) (1 jan 2024), [20 juni 2024 nr. 1348](forskrift/2024-06-20-1348) (i kraft 1 juli 2024), [11 des 2024 nr. 3050](forskrift/2024-12-11-3050) (i kraft 1 jan 2025), [17 juni 2025 nr. 2274](forskrift/2025-06-17-2274) (i kraft 1 juli 2025), [8 des 2025 nr. 2455](forskrift/2025-12-08-2455) (i kraft 1 jan 2026), [22 juni 2026 nr. 1389](forskrift/2026-06-22-1389) (i kraft 1 juli 2026).
 
 ## § 6. Prognoser
 

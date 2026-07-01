@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2021-05-26"
-last_change_in_force: "2026-05-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-06-16"
-xml_hash: "ca6f2162dbe8089b2de50d85a5d9e0f0a08c131f45d10b528f6c3f867486e832"
+xml_hash: "915fba9eb70418d7ea98ffb05ebb4f91e815a5fca7d0e462a614d9aae8b99a2e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,9 @@ Forordning [(EU) 2021/2226](eu/32021r2226) om elektroniske bruksanvisninger for 
 
 ### § 1i. Utvidet mandat til Det europeiske legemiddelbyrået
 
-> **Tilføyes** ved forskrift [15 juni 2026 nr. 1169](forskrift/2026-06-15-1169) (i kraft 1 juli 2026).
+[Legemiddelforskriften § 15-6](forskrift/2009-12-18-1839/§15-6) gjelder for medisinsk utstyr etter forskriften her.
+
+> Tilføyd ved forskrift [15 juni 2026 nr. 1169](forskrift/2026-06-15-1169) (i kraft 1 juli 2026).
 
 ## Kapittel II. Utfyllende nasjonale bestemmelser om myndigheter
 

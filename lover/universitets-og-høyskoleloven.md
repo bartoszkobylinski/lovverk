@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2024-08-01"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2025-08-20"
-xml_hash: "176eb7c3d3031313bbf03e6ba34a6ec1df0a4e4159682355d81eed9a50697b44"
+xml_hash: "36adee974869a718f9a87d9f509def7d21ac28a44eebd48f79edf5ff80d391b0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -852,11 +852,11 @@ Vedtak om inndragning av dokumenter, karantenetid og utestenging ved et universi
 
 Dersom den som behandler saker om opptak eller om godkjenning av utdanning og kompetanse etter denne loven, oppdager at en søker eller student har levert falske dokumenter, skal forholdet anmeldes til politiet.
 
-Dersom en eksamen eller en obligatorisk aktivitet blir annullert, skal studenten levere tilbake eventuelle vitnemål eller annen dokumentasjon av resultater til institusjonen. Dersom en student ikke leverer vitnemålet eller annen dokumentasjon av resultater tilbake innen gitt frist, kan institusjonen kreve namsmannens hjelp til tilbakelevering i samsvar med reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
+Dersom en eksamen eller en obligatorisk aktivitet blir annullert, skal studenten levere tilbake eventuelle vitnemål eller annen dokumentasjon av resultater til institusjonen. Dersom en student ikke leverer vitnemålet eller annen dokumentasjon av resultater tilbake innen gitt frist, kan institusjonen kreve namsfogdens hjelp til tilbakelevering i samsvar med reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
 
 Departementet kan gi forskrift om hva som anses som falske dokumenter.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 12-2. Krav om politiattest
 
@@ -898,11 +898,11 @@ En student som forsettlig har medvirket til opptreden som beskrevet i første og
 
 Vedtak etter denne paragrafen fattes av styret selv eller institusjonens nemnd for studentsaker, jf. [§ 14-1](lov/2024-03-08-9/§14-1). Vedtak om utestenging og tap av eksamensrett fattes med to tredels flertall.
 
-Dersom en eksamen eller en obligatorisk aktivitet blir annullert, skal studenten levere tilbake eventuelle vitnemål og annen dokumentasjon av resultater til institusjonen. Dersom en student ikke leverer vitnemålet eller annen dokumentasjon av resultater tilbake til institusjonen innen gitt frist, kan institusjonen kreve namsmannens hjelp til tilbakelevering i samsvar med reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
+Dersom en eksamen eller en obligatorisk aktivitet blir annullert, skal studenten levere tilbake eventuelle vitnemål og annen dokumentasjon av resultater til institusjonen. Dersom en student ikke leverer vitnemålet eller annen dokumentasjon av resultater tilbake til institusjonen innen gitt frist, kan institusjonen kreve namsfogdens hjelp til tilbakelevering i samsvar med reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
 
 Dersom vitnemålet kan danne grunnlag for autorisasjon for yrkesutøvelse, skal institusjonen gi melding om annulleringen til den rette myndigheten.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 12-5. Forstyrrende opptreden
 

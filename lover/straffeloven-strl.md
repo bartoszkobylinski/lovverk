@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2015-10-01"
-last_change_in_force: "2026-04-15"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-01-12"
-xml_hash: "237c299fa767d328649598ba32e52780df5b8b12ec119a08d7b51e1249a7f4cd"
+xml_hash: "0bcfbc6f1a82fd27a8b2f8bba3c475b5dc6ecc44046b533f0166e2984ab03e7d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1442,9 +1442,9 @@ Den som unndrar seg gjennomføringen av idømt frihetsstraff, straffes med bot e
 
 ### § 162. Brudd på identifikasjonsplikten
 
-Den som ikke oppgir sitt navn, fødselsdato, fødselsår, stilling eller bopel til et stevnevitne, en polititjenestemann eller annen offentlig myndighet som ber om opplysningen som ledd i tjenesteutøvelsen, straffes med bot. På samme måte straffes den som oppgir uriktige slike opplysninger om seg selv eller andre.
+Den som ikke oppgir sitt navn, fødselsdato, fødselsår, stilling eller bopel til et stevnevitne, en polititjenesteperson eller annen offentlig myndighet som ber om opplysningen som ledd i tjenesteutøvelsen, straffes med bot. På samme måte straffes den som oppgir uriktige slike opplysninger om seg selv eller andre.
 
-> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [7 mars 2008 nr. 4](lov/2008-03-07-4), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 163. Brudd på meldeplikt ved dødsfall
 
@@ -1730,11 +1730,21 @@ Medvirkning straffes ikke.
 
 ### § 200. Involvering av mindreårige i kriminalitet
 
-> **Tilføyes** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
+Den som involverer en mindreårig i en straffbar handling som kan medføre fengsel i 3 år eller mer, eller som nevnt i [§§ 160](lov/2005-05-20-28/§160), [189](lov/2005-05-20-28/§189), [190](lov/2005-05-20-28/§190), [231](lov/2005-05-20-28/§231), [263](lov/2005-05-20-28/§263), [271](lov/2005-05-20-28/§271), [321](lov/2005-05-20-28/§321), [332](lov/2005-05-20-28/§332), [336](lov/2005-05-20-28/§336), [337](lov/2005-05-20-28/§337) eller [341](lov/2005-05-20-28/§341), straffes med bot eller fengsel inntil 3 år. Involveringen kan for eksempel gå ut på å gi oppdrag, yte fordeler eller overlevere gjenstander til den mindreårige eller å medbringe den mindreårige.
+
+På samme måte straffes den som rekrutterer en mindreårig til å begå en straffbar handling som nevnt i første ledd.
+
+Uvitenhet om den mindreåriges alder fører ikke til straffrihet hvis gjerningspersonen kan klandres for sin uvitenhet.
+
+> Tilføyd ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
 
 ### § 200 a. Grov involvering av mindreårige i kriminalitet
 
-> **Tilføyes** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
+Grov overtredelse av § 200 straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den mindreårige ble involvert i eller rekruttert til å begå en alvorlig straffbar handling, om overtredelsen har et systematisk eller organisert preg, og om den mindreårige var under 15 år.
+
+§ 200 tredje ledd gjelder tilsvarende.
+
+> Tilføyd ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
 
 ### Kapittel 21. Vern av informasjon og informasjonsutveksling
 
@@ -2414,9 +2424,9 @@ For bestemmelsene i [§§ 299-306](lov/2005-05-20-28/§299) fører uvitenhet om 
 
 ### § 308. Mulighet for straffbortfall
 
-Straff etter bestemmelsene i [§§ 299-304](lov/2005-05-20-28/§299), [§ 305](lov/2005-05-20-28/§305) bokstav b annet alternativ og [§ 306](lov/2005-05-20-28/§306) kan falle bort eller settes under minstestraffen i [§ 300](lov/2005-05-20-28/§300) dersom de involverte er omtrent jevnbyrdige i alder og utvikling.
+Straff etter bestemmelsene i [§§ 299](lov/2005-05-20-28/§299)–[304](lov/2005-05-20-28/§304), [§ 305 bokstav b](lov/2005-05-20-28/§305/bokstav/b) annet alternativ og [§ 306](lov/2005-05-20-28/§306) kan falle bort dersom de involverte er omtrent jevnbyrdige i alder og utvikling.
 
-> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74). **Endres** ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
+> Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [23 juni 2026 nr. 71](lov/2026-06-23-71) (i kraft 1 juli 2026 iflg. [res. 23 juni 2026 nr. 1238](forskrift/2026-06-23-1238)).
 
 ### § 309. Kjøp av seksuelle tjenester fra mindreårige
 

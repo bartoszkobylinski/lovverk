@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2017-07-01"
-last_change_in_force: "2026-02-17"
+last_change_in_force: "2026-07-01"
 last_updated: "2018-04-12"
-xml_hash: "98b0f17868decf68d1313c5af959a52f6e46a372880c0450acf0e0141e107d46"
+xml_hash: "6ae8fdb1440dbf0556725e2cf4ed9627e440b1954ca3cae1cdfa68a0ac1508ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -679,7 +679,11 @@ Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffbla
 
 ### § 79a. Bergsprengning under vann
 
-> **Tilføyes** ved forskrift [17 feb 2026 nr. 227](forskrift/2026-02-17-227) (i kaft 1 juli 2026).
+(1) Lading og kobling av salver under vann kan bare utføres av arbeidsdykker med dykkebevis klasse B og som i tillegg har:gyldig sertifikat som bergsprengerbestått prøve i sprengning under vann i regi av høyskole, ellergjennomført særskilt kurs og bestått tilhørende prøve i regi av kursadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap.
+
+(2) Dykker som ikke selv er bergsprenger skal ved lading og kobling av salver under vann ha direkte og kontinuerlig talekommunikasjon og videooverføring med en bergsprenger over vann. Bergsprenger som er over vann må være ansatt i en virksomhet som tilfredsstiller kravene i [§ 79](forskrift/2017-06-15-844/§79). Bergsprenger over vann må ha gjennomført særskilt kurs og bestått tilhørende prøve i regi av kursadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap.
+
+> Tilføyd ved forskrift [17 feb 2026 nr. 227 (i kraft 1 juli 2026)](forskrift/2026-02-17-227).
 
 ### § 80. Sertifikat som bergsprengningsleder
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-06-12"
+last_change_in_force: "2026-07-01"
 last_updated: "2026-06-15"
-xml_hash: "fcbe64731d986a8ded15585fce32ef9e0cfbe18caac21a5b887ab8d90758f968"
+xml_hash: "51796efb31039f5085d0a4b3e6478f30c402958b8c673a044d7c24c92ea8068e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -187,13 +187,13 @@ Kongen kan i forskrift gi regler om unntak fra bestemmelsene i første ledd for 
 
 ### § 18. Vedtaksmyndighet i sak om bortvisning
 
-Vedtak om bortvisning ved innreise eller innen sju dager etter innreise treffes av politimesteren eller den politimesteren gir fullmakt, hvis ikke annet framgår av annet ledd. Sjudagersfristen anses overholdt dersom en sak om bortvisning er reist innen sju dager. Vedtak om bortvisning ved grensekontroll etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav a til c kan treffes av polititjenestemann.
+Vedtak om bortvisning ved innreise eller innen sju dager etter innreise treffes av politimesteren eller den politimesteren gir fullmakt, hvis ikke annet framgår av annet ledd. Sjudagersfristen anses overholdt dersom en sak om bortvisning er reist innen sju dager. Vedtak om bortvisning ved grensekontroll etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav a til c kan treffes av polititjenesteperson.
 
 Vedtak om bortvisning treffes av Utlendingsdirektoratet dersomutlendingen oppgir å være flyktning, jf. [§ 28](lov/2008-05-15-35/§28), eller for øvrig gir opplysninger som tyder på at utlendingen er vernet mot utsendelse etter [§ 73](lov/2008-05-15-35/§73),vedtaket treffes senere enn sju dager etter innreise,vedtaket gjelder bortvisning etter [§ 17](lov/2008-05-15-35/§17) første ledd bokstav h og l, ellerUtlendingsdirektoratet beslutter at saken skal avgjøres av direktoratet.
 
 Kongen kan i forskrift gi myndighet til politimesteren eller den politimesteren gir fullmakt, til å treffe vedtak om bortvisning også senere enn sju dager etter innreise. Kongen kan også gi myndighet til politiet eller annen myndighet til å treffe vedtak om bortvisning av hensyn til folkehelsen etter [utlendingsloven § 17](lov/2008-05-15-35/§17) første ledd bokstav l.
 
-> Endret ved lover [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [19 juni 2020 nr. 83](lov/2020-06-19-83) (ikr. 1 juli 2020 iflg. [vedtak 29 juni 2020 nr. 1412](forskrift/2020-06-29-1412)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [19 juni 2020 nr. 83](lov/2020-06-19-83) (ikr. 1 juli 2020 iflg. [vedtak 29 juni 2020 nr. 1412](forskrift/2020-06-29-1412)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 19. Utlendingens plikt til å gi melding til myndighetene
 
@@ -219,17 +219,17 @@ Regler om plikt for transportør av luft- og sjøfartøy til å gi forhåndsmeld
 
 I forbindelse med håndheving av bestemmelsene om utlendingers innreise og opphold i riket kan politiet stanse en person og kreve legitimasjon når det er grunn til å anta at vedkommende er utenlandsk statsborger, og tid, sted og situasjon gir grunn til slik kontroll. Ved slik kontroll må utlendingen vise legitimasjon og om nødvendig gi opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene. Kongen kan i forskrift gi nærmere regler om gjennomføringen av kontrollen, herunder om adgangen til å ta kopi av dokumenter.
 
-Ved planlagte aksjoner treffes beslutningen om kontroll i medhold av første ledd av politimesteren eller den politimesteren gir fullmakt. For øvrig treffes beslutningen av polititjenestemann.
+Ved planlagte aksjoner treffes beslutningen om kontroll i medhold av første ledd av politimesteren eller den politimesteren gir fullmakt. For øvrig treffes beslutningen av polititjenesteperson.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 21 a. Tilbakeholdelse og innbringelse
 
-Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon, lensmannskontor eller annet lokale som benyttes under polititjenesten nårutlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, ellerutlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
+Politiet kan holde tilbake en utlending eller innbringe vedkommende til politistasjon eller annet lokale som benyttes under polititjenesten nårutlendingen ikke gir opplysninger for å bringe identiteten og lovligheten av oppholdet i riket på det rene i forbindelse med en alminnelig utlendingskontroll når politiet forlanger det, eller gir opplysninger under slik kontroll som det er grunn til å tvile på riktigheten av, ellerutlendingen stanses i en inn- eller utreisekontroll og det foreligger, eller undersøkes om det foreligger, grunnlag for bortvisning eller utvisning.
 
 Ingen må holdes tilbake lenger enn nødvendig etter denne paragrafen og ikke ut over 4 timer. Tiden inngår i beregningen av frister etter [§§ 106 a](lov/2008-05-15-35/§106a) til [106 c](lov/2008-05-15-35/§106c) og [politiloven § 8](lov/1995-08-04-53/§8).
 
-> Tilføyd ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 22. Adgang til å gjennomføre utlendingskontroll
 
@@ -373,11 +373,11 @@ Adgangen til å nekte realitetsbehandling etter første ledd gjelder likevel ikk
 
 Forordning [(EU) 2024/1351](eu/32024r1351) om asyl- og migrasjonshåndtering del III, V og VII og forordning [(EU) 2024/1359](eu/32024r1359) om håndtering av krise- og force majeure-situasjoner innenfor asyl- og migrasjonsområdet artikkel 12 og 13, samt artikkel 1 til 6 i den utstrekning de gjelder for artikkel 12 og 13, gjelder som lov. Kongen kan i forskrift gi regler om definisjoner og gjennomføring av bestemmelsen.2
 
-I en krisesituasjon med ekstraordinært høye ankomster av asylsøkere kan Kongen i statsråd beslutte at søknader om beskyttelse, jf. [§ 28](lov/2008-05-15-35/§28), skal kunne nektes realitetsbehandlet dersom søkeren ankommer direkte fra en nordisk stat. Kongen i statsråd kan beslutte at myndighet til å nekte realitetsbehandling, og myndighet til å bortvise i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller legges til polititjenestemann. Kongen i statsråd kan beslutte at nektelse av realitetsbehandling, og bortvisning i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller ikke anses som enkeltvedtak. Bestemmelsene i første til tredje punktum gjelder uten hensyn til hva som ellers ville fulgt av fjerde ledd. Det gjelder ikke plikt til forhåndsvarsling etter [forvaltningsloven § 37](lov/1967-02-10/§37) før Kongen i statsråd fatter beslutninger som nevnt i første til tredje punktum.
+I en krisesituasjon med ekstraordinært høye ankomster av asylsøkere kan Kongen i statsråd beslutte at søknader om beskyttelse, jf. [§ 28](lov/2008-05-15-35/§28), skal kunne nektes realitetsbehandlet dersom søkeren ankommer direkte fra en nordisk stat. Kongen i statsråd kan beslutte at myndighet til å nekte realitetsbehandling, og myndighet til å bortvise i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller legges til polititjenesteperson. Kongen i statsråd kan beslutte at nektelse av realitetsbehandling, og bortvisning i medhold av [§ 17](lov/2008-05-15-35/§17) første ledd, i slike tilfeller ikke anses som enkeltvedtak. Bestemmelsene i første til tredje punktum gjelder uten hensyn til hva som ellers ville fulgt av fjerde ledd. Det gjelder ikke plikt til forhåndsvarsling etter [forvaltningsloven § 37](lov/1967-02-10/§37) før Kongen i statsråd fatter beslutninger som nevnt i første til tredje punktum.
 
 Beslutninger som treffes av Kongen i statsråd i medhold av femte ledd skal fortrinnsvis gjelde for to uker og maksimalt seks uker. Nevnte beslutninger kan fornyes én gang. Beslutningen kan fornyes ytterligere én gang dersom behovet oppstår når Stortinget ikke er samlet.
 
-> Endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [20 nov 2015 nr. 94](lov/2015-11-20-94), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 nov 2015 nr. 94](lov/2015-11-20-94) som endret ved lov [15 des 2017 nr. 108](lov/2017-12-15-108), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 des 2013 nr. 132](lov/2013-12-17-132) (ikr. 1 jan 2014 iflg. [res. 17 des 2013 nr. 1480](forskrift/2013-12-17-1480)), [20 nov 2015 nr. 94](lov/2015-11-20-94), [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [20 nov 2015 nr. 94](lov/2015-11-20-94) som endret ved lov [15 des 2017 nr. 108](lov/2017-12-15-108), [21 juni 2019 nr. 47](lov/2019-06-21-47) (ikr. 1 okt 2019 iflg. [res. 21 juni 2019 nr. 811](forskrift/2019-06-21-811)), [12 juni 2026 nr. 29](lov/2026-06-12-29) (i kraft 12 juni 2026 kl. 15.00 iflg. [res. 12 juni 2026 nr. 1059](forskrift/2026-06-12-1059)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33. Adgang til å stille saksbehandlingen i bero ved utsikt til bedring av situasjonen i et område
 
@@ -393,9 +393,11 @@ En søknad om beskyttelse etter [§ 28](lov/2008-05-15-35/§28) fra en utlending
 
 Vedtak etter annet og tredje ledd treffes av Utlendingsdirektoratet. Direktoratet kan gi politiet myndighet til å gi oppholdstillatelse og stille søknader som nevnt i bero.
 
+[Forvaltningsloven §§ 28](lov/1967-02-10/§28) til [34](lov/1967-02-10/§34) om klage gjelder ikke for tillatelser etter annet ledd første til fjerde punktum.
+
 Kongen kan gi nærmere regler i forskrift.
 
-> Endret ved lover [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [18 des 2020 nr. 150](lov/2020-12-18-150) (ikr. 18 des 2020 iflg. [res. 18 des 2020 nr. 2834](forskrift/2020-12-18-2834), endringen gjelder fra 1 des 2020, se loven del III nr. 2), [29 nov 2024 nr. 71](lov/2024-11-29-71) (i kraft 1 jan 2025 iflg. [res. 29 nov 2024 nr. 2891](forskrift/2024-11-29-2891)). **Endres** ved lov [19 juni 2026 nr. 50](lov/2026-06-19-50) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1136](forskrift/2026-06-19-1136)).
+> Endret ved lover [17 juni 2016 nr. 58](lov/2016-06-17-58) (ikr. 1 sep 2016 iflg. [res. 26 aug 2016 nr. 1005](forskrift/2016-08-26-1005)), [18 des 2020 nr. 150](lov/2020-12-18-150) (ikr. 18 des 2020 iflg. [res. 18 des 2020 nr. 2834](forskrift/2020-12-18-2834), endringen gjelder fra 1 des 2020, se loven del III nr. 2), [29 nov 2024 nr. 71](lov/2024-11-29-71) (i kraft 1 jan 2025 iflg. [res. 29 nov 2024 nr. 2891](forskrift/2024-11-29-2891)), [19 juni 2026 nr. 50](lov/2026-06-19-50) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1136](forskrift/2026-06-19-1136)).
 
 ### § 35. Overføring av utlendinger etter anmodning fra internasjonale organisasjoner mv. (overføringsflyktninger)
 
@@ -1281,15 +1283,9 @@ Kongen kan gi forskrift om innkvarteringsordninger, blant annet om tildeling og 
 
 > Endret ved lover [6 nov 2020 nr. 127](lov/2020-11-06-127) (ikr. 1 jan 2021 iflg. [res. 6 nov 2020 nr. 2247](forskrift/2020-11-06-2247)), [11 mai 2021 nr. 36](lov/2021-05-11-36) (ikr. 1 juli 2021 iflg. [res. 11 mai 2021 nr. 1472](forskrift/2021-05-11-1472)), [25 mars 2022 nr. 16](lov/2022-03-25-16) (i kraft 1 mai 2022 iflg. [res. 8 april 2022 nr. 549](forskrift/2022-04-08-549)), [17 juni 2022 nr. 61](lov/2022-06-17-61) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1066](forskrift/2022-06-17-1066)).
 
-### § 95 a. Midlertidige forskrifter om at kommunen skal sørge for innkvartering
+### § 95 a. (Opphevet)
 
-Dersom det i en krisesituasjon med høye ankomster av asylsøkere er nødvendig for å kunne gi tilbud om innkvartering etter lovens [§ 95](lov/2008-05-15-35/§95), kan Kongen i statsråd gi midlertidig forskrift om at kommuner skal sørge for innkvarteringstilbud for asylsøkere.
-
-Forskrift etter første ledd kan gjelde i inntil seks måneder. Den kan fornyes for tre måneder av gangen.
-
-I forskrift etter første ledd kan det også gis bestemmelser om rekvirering av bruksrett eller annen særlig rådighet over fast eiendom for innkvarteringsformål.
-
-> Tilføyd ved lov [21 juni 2024 nr. 50](lov/2024-06-21-50) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1105](forskrift/2024-06-21-1105)). **Oppheves** ved lov [21 juni 2024 nr. 50](lov/2024-06-21-50) (i kraft 1 juli 2026).
+> Tilføyd ved lov [21 juni 2024 nr. 50](lov/2024-06-21-50) (i kraft 1 juli 2024 iflg. [res. 21. juni 2024 nr. 1105](forskrift/2024-06-21-1105)), opphevet ved lov [21 juni 2024 nr. 50](lov/2024-06-21-50) (i kraft 1 juli 2026).
 
 ### § 96. Tvangsfullbyrdelse i saker om innkvartering
 
@@ -1517,13 +1513,13 @@ Det kan foretas undersøkelse av utlendingens person, bolig, rom eller annet opp
 
 Det er ikke adgang til undersøkelse av utlendingens bolig etter første ledd bokstav b og c, med mindre utlendingen har ulovlig opphold som omfattes av straffebestemmelsen i [§ 108](lov/2008-05-15-35/§108) eller det gjelder undersøkelse etter bokstav c, og utlendingen har unnlatt å etterkomme et pålegg etter [§ 21](lov/2008-05-15-35/§21) eller [§ 83](lov/2008-05-15-35/§83) om å legge frem reisedokumenter.
 
-Uten utlendingens skriftlige samtykke kan undersøkelser som nevnt i første ledd bare foretas etter beslutning fra retten. Er det fare ved opphold, kan beslutningen treffes av politimesteren eller den politimesteren gir fullmakt. Uten beslutning som nevnt i første og annet punktum, kan polititjenestemann foreta undersøkelser av hus eller rom som etter sin art er tilgjengelig for alle, eller er stedet for en virksomhet som krever tillatelse av politiet. Polititjenestemann som etter beslutning fra politimesteren eller den politimesteren gir fullmakt skal pågripe en utlending, kan i dette øyemed foreta undersøkelse av utlendingens bolig eller rom, og foreta undersøkelse på sted hvor det er særlig grunn til å anta at utlendingen oppholder seg. Det samme gjelder polititjenestemann som har kompetanse til å beslutte pågripelse etter [§ 106 a](lov/2008-05-15-35/§106a) første ledd annet punktum, fordi det er fare ved opphold.
+Uten utlendingens skriftlige samtykke kan undersøkelser som nevnt i første ledd bare foretas etter beslutning fra retten. Er det fare ved opphold, kan beslutningen treffes av politimesteren eller den politimesteren gir fullmakt. Uten beslutning som nevnt i første og annet punktum, kan polititjenesteperson foreta undersøkelser av hus eller rom som etter sin art er tilgjengelig for alle, eller er stedet for en virksomhet som krever tillatelse av politiet. Polititjenesteperson som etter beslutning fra politimesteren eller den politimesteren gir fullmakt skal pågripe en utlending, kan i dette øyemed foreta undersøkelse av utlendingens bolig eller rom, og foreta undersøkelse på sted hvor det er særlig grunn til å anta at utlendingen oppholder seg. Det samme gjelder polititjenesteperson som har kompetanse til å beslutte pågripelse etter [§ 106 a](lov/2008-05-15-35/§106a) første ledd annet punktum, fordi det er fare ved opphold.
 
 Beslutning om undersøkelse skal så vidt mulig være skriftlig og opplyse om hva saken gjelder, formålet med undersøkelsen og hva undersøkelsen omfatter. En muntlig beslutning skal snarest mulig nedtegnes. Før undersøkelsen foretas, skal beslutningen så vidt mulig leses opp eller forevises utlendingen. Foreligger det ingen skriftlig beslutning, skal det så vidt mulig muntlig opplyses hva saken gjelder og formålet med undersøkelsen.
 
 Ved gjennomføring av undersøkelser etter denne paragraf gjelder reglene i [straffeprosessloven §§ 199](lov/1981-05-22-25/§199) (vitne til ransaking), [199 a](lov/1981-05-22-25/§199a) (pålegg om å gi politiet tilgang til datasystem ved ransaking), 200 annet ledd (tilkalling av medlem av husstand eller nabo ved ransaking, og om å åpne adgang med makt mv.) og 201 (skånsom ransaking) tilsvarende.
 
-> Endret ved lover [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
 
 ### § 103 a. (Opphevet)
 
@@ -1547,7 +1543,7 @@ Det kan foretas beslag av reisedokumenter til utlendinger hvis eneste grunnlag f
 
 Avgjørelsen om beslag besluttes av politimesteren eller den politimesteren gir fullmakt. Beslutningen skal så vidt mulig være skriftlig og opplyse om hva saken gjelder, formålet med beslaget og hva det skal omfatte. En muntlig beslutning skal snarest mulig nedtegnes. Før beslaget iverksettes, skal beslutningen så vidt mulig leses opp eller forevises utlendingen. Foreligger det ingen skriftlig beslutning, skal det så vidt mulig muntlig opplyses om hva saken gjelder og formålet med beslaget.
 
-Når utlendingen ankommer riket, ved undersøkelse etter [§ 103](lov/2008-05-15-35/§103) og i situasjoner hvor det er fare ved opphold, kan beslag tas av en polititjenestemann. Beslaget skal straks meldes til den som ellers treffer avgjørelser om beslag, jf. fjerde ledd. Hvis beslaget opprettholdes, nedtegnes det en beslutning etter fjerde ledd.
+Når utlendingen ankommer riket, ved undersøkelse etter [§ 103](lov/2008-05-15-35/§103) og i situasjoner hvor det er fare ved opphold, kan beslag tas av en polititjenesteperson. Beslaget skal straks meldes til den som ellers treffer avgjørelser om beslag, jf. fjerde ledd. Hvis beslaget opprettholdes, nedtegnes det en beslutning etter fjerde ledd.
 
 Enhver som rammes av beslaget, kan kreve spørsmålet om det skal opprettholdes brakt inn for retten. Politiet sørger for at den som rammes av beslaget, blir gjort kjent med denne retten. Rettens avgjørelse treffes ved kjennelse.
 
@@ -1557,7 +1553,7 @@ Politiet kan beslutte inndragning av en ting som er beslaglagt i medhold av love
 
 Reglene i [straffeprosessloven §§ 204](lov/1981-05-22-25/§204) (forbud mot beslag), [207](lov/1981-05-22-25/§207) (gjennomføring av beslag) og [214](lov/1981-05-22-25/§214) (tilbakelevering av beslaglagte gjenstander) gjelder så langt de passer.
 
-> Endret ved lover [15 jan 2010 nr. 3](lov/2010-01-15-3) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 32](forskrift/2010-01-15-32)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [15 jan 2010 nr. 3](lov/2010-01-15-3) (ikr. 15 jan 2010 iflg. [res. 15 jan 2010 nr. 32](forskrift/2010-01-15-32)), [17 des 2010 nr. 88](lov/2010-12-17-88) (ikr. 24 des 2010 iflg. [res. 17 des 2010 nr. 1612](forskrift/2010-12-17-1612)), [6 jan 2012 nr. 2](lov/2012-01-06-2) (ikr. 1 mars 2012 iflg. [res. 6 jan 2012 nr. 4](forskrift/2012-01-06-4)), [21 juni 2013 nr. 92](lov/2013-06-21-92) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1497](forskrift/2013-12-13-1497)), [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 des 2022 nr. 120](lov/2022-12-20-120) (i kraft fra den tid Kongen bestemmer).
 
 ### § 104 a. Beslag overfor asylsøkere
 
@@ -1587,7 +1583,7 @@ Pågripelse og internering etter første ledd bokstav a kan bare besluttes når 
 
 ### § 106 a. Pågripelse og fremstilling
 
-Pågripelse besluttes av politimesteren eller den politimesteren gir fullmakt. Når det er fare ved opphold, kan en polititjenestemann foreta pågripelse. Beslutning om pågripelse skal være skriftlig og inneholde betegnelse av den pågrepne og en kort beskrivelse av grunnen til pågripelsen. Er det fare ved opphold, kan beslutningen gis muntlig, men skal da snarest mulig nedtegnes.
+Pågripelse besluttes av politimesteren eller den politimesteren gir fullmakt. Når det er fare ved opphold, kan en polititjenesteperson foreta pågripelse. Beslutning om pågripelse skal være skriftlig og inneholde betegnelse av den pågrepne og en kort beskrivelse av grunnen til pågripelsen. Er det fare ved opphold, kan beslutningen gis muntlig, men skal da snarest mulig nedtegnes.
 
 Når noen er pågrepet uten beslutning av politimesteren eller den politimesteren gir fullmakt, skal spørsmålet om å opprettholde pågripelsen snarest mulig forelegges for politimesteren eller den politimesteren gir fullmakt. Ved opprettholdelse skal det utferdiges en skriftlig beslutning.
 
@@ -1601,7 +1597,7 @@ Når pågripelse er foretatt, skal politiet sørge for underretning til den påg
 
 Vil politiet beholde den pågrepne, må vedkommende snarest mulig og senest den tredje dagen etter pågripelsen fremstilles for tingretten på det sted der fremstilling mest hensiktsmessig kan skje, med begjæring om internering. Dersom utlendingen først var pågrepet etter straffeprosessloven, skal også denne tiden medregnes, med mindre grunnlaget for pågripelse etter utlendingsloven først oppsto i ettertid som følge av ilagt straff. [Domstolloven § 149](lov/1915-08-13-5/§149) første ledd gjelder ikke ved beregning av fremstillingsfristen. Er fremstilling for retten ikke skjedd innen den andre dagen etter pågripelsen, skal grunnen til det opplyses i rettsboken.
 
-> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 106 b. Internering
 
@@ -1667,9 +1663,11 @@ Kongen kan gi utfyllende bestemmelser i forskrift.
 
 Et uavhengig tilsynsråd fører tilsyn med tvangsreturer, driften av utlendingsinternatet og særskilt tilrettelagte innkvarteringssteder og behandlingen av utlendingene som oppholder seg der.
 
+Enhver som utfører tjeneste eller arbeid for tilsynsrådet, har taushetsplikt etter [forvaltningsloven](lov/1967-02-10). Taushetsplikten omfatter også forhold av betydning for sikkerheten ved utlendingsinternatet og ved særskilt tilrettelagte innkvarteringssteder, opplysninger knyttet til forestående tvangsreturer og opplysninger som det av hensyn til politiets operative virksomhet eller arbeid med tvangsreturer er behov for å holde hemmelig.
+
 Kongen kan gi utfyllende bestemmelser i forskrift.
 
-> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)). **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
+> Tilføyd ved lov [11 juni 2021 nr. 72](lov/2021-06-11-72) (i kraft 1 jan 2023 iflg. [res. 16 des 2022 nr. 2254](forskrift/2022-12-16-2254)), endret ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 108. Straff
 

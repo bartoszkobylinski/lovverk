@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Energidepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-01-01"
-xml_hash: "c48822de08905e280bf6131032f8643883104c73d2060b23f0fdf9fb88094ce2"
+xml_hash: "7de79abec5d3d24685f0f9134970f5042b83b07e108d7367ad1e81f6b25093c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -324,9 +324,9 @@ Når det treffes vedtak eller gjennomføres tiltak som kan påvirke laksens leve
 
 ### § 36. (forskrifter om krav til sikkerhet)
 
-Vassdragsmyndigheten kan gi forskrift for å fremme sikkerhet mot skade på mennesker, miljø og eiendom.
+Vassdragsmyndigheten kan gi forskrift for å fremme sikkerhet mot skade på mennesker, miljø og eiendom, herunder om informasjonssikkerhet og taushetsplikt.
 
-> **Endres** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
+> Endret ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ### § 37. (vedlikehold av vassdragstiltak)
 

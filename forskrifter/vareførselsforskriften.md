@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-07-30"
-xml_hash: "ee1e529988993c32f48a3e9dffb22c4d9b1439d114bb79e3f1dc116b61bc3edb"
+xml_hash: "33ecf668b086e5093440869f71f86d90fe073a2f744c8a98f95d138508ea016c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2168,13 +2168,13 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 
 ### § 12-11-1. Forenklet forelegg – varer og bøtebeløp
 
-(1) Forenklet forelegg kan ilegges ved ulovlig innførsel av følgende varer, og med følgende bøtebeløp:inntil 10 liter drikk med alkoholinnhold over 22 til og med 60 volumprosent:*Antall liter**Beløp*til og med 1400 krderover til og med 2800 krderover til og med 31 600 krderover til og med 42 500 krderover til og med 53 400 krderover til og med 64 500 krderover til og med 87 000 krderover til og med 109 500 krinntil 20 liter drikk med alkoholinnhold over 7,0 til og med 22 volumprosent:*Antall liter**Beløp*til og med 2400 krderover til og med 4800 krderover til og med 61 600 krderover til og med 82 500 krderover til og med 103 400 krderover til og med 124 500 krderover til og med 167 000 krderover til og med 209 500 krinntil 100 liter drikk med alkoholinnhold over 2,5 til og med 7,0 volumprosent:*Antall liter**Beløp*til og med 10400 krderover til og med 20800 krderover til og med 301 600 krderover til og med 402 500 krderover til og med 503 400 krderover til og med 604 500 krderover til og med 807 000 krderover til og med 1009 500 krinntil 2 000 sigaretter, sigarer eller sigarillos:*Antall**Beløp*til og med 400400 krderover til og med 600800 krderover til og med 8001 600 krderover til og med 1 0002 500 krderover til og med 1 2003 600 krderover til og med 1 6006 100 krderover til og med 2 0008 600 krinntil 2 000 gram snus, skråtobakk og røyketobakk:*Antall gram**Beløp*til og med 500400 krderover til og med 750800 krderover til og med 10001 600 krderover til og med 12502 500 krderover til og med 15003 600 krderover til og med 20006 100 krinntil 80 kg kjøttvarer:*Antall kg**Beløp*til og med 10400 krderover til og med 20800 krderover til og med 301 600 krderover til og med 402 500 krderover til og med 604 500 krderover til og med 806 500 krdrivstoff:*Antall liter**Beløp*til og med 100400 krderover til og med 200800 krderover til og med 4001 600 krderover til og med 5002 500 krderover til og med 6003 400 krandre varer til en verdi av inntil 20 000 kr:*Verdi i norske kroner**Beløp*til og med 2 800400 krderover til og med 5 000800 krderover til og med 7 5001 600 krderover til og med 10 0002 500 krderover til og med 15 0004 500 krderover til og med 20 0006 500 kr
+(1) Forenklet forelegg kan ilegges ved ulovlig innførsel av følgende varer, og med følgende bøtebeløp:inntil 10 liter drikk med alkoholinnhold over 22 til og med 60 volumprosent:*Antall liter**Beløp*til og med 1600 krderover til og med 21 200 krderover til og med 32 400 krderover til og med 43 500 krderover til og med 54 800 krderover til og med 66 400 krderover til og med 89 900 krderover til og med 1013 400 krinntil 20 liter drikk med alkoholinnhold over 7,0 til og med 22 volumprosent:*Antall liter**Beløp*til og med 2600 krderover til og med 41 200 krderover til og med 62 400 krderover til og med 83 500 krderover til og med 104 800 krderover til og med 126 400 krderover til og med 169 900 krderover til og med 2013 400 krinntil 100 liter drikk med alkoholinnhold over 2,5 til og med 7,0 volumprosent:*Antall liter**Beløp*til og med 10600 krderover til og med 201 200 krderover til og med 302 400 krderover til og med 403 500 krderover til og med 504 800 krderover til og med 606 400 krderover til og med 809 900 krderover til og med 10013 400 krinntil 2 000 sigaretter, sigarer eller sigarillos:*Antall**Beløp*til og med 400600 krderover til og med 6001 200 krderover til og med 8002 400 krderover til og med 1 0003 500 krderover til og med 1 2005 100 krderover til og med 1 6008 600 krderover til og med 2 00012 100 krinntil 2 000 gram snus, skråtobakk og røyketobakk:*Antall gram**Beløp*til og med 500600 krderover til og med 7501 200 krderover til og med 10002 400 krderover til og med 12503 500 krderover til og med 15005 100 krderover til og med 20008 600 krinntil 80 kg kjøttvarer:*Antall kg**Beløp*til og med 10600 krderover til og med 201 200 krderover til og med 302 400 krderover til og med 403 500 krderover til og med 606 400 krderover til og med 809 100 krdrivstoff:*Antall liter**Beløp*til og med 100600 krderover til og med 2001 200 krderover til og med 4002 400 krderover til og med 5003 500 krderover til og med 6004 800 krandre varer til en verdi av inntil 20 000 kr:*Verdi i norske kroner**Beløp*til og med 2 800600 krderover til og med 5 0001 200 krderover til og med 7 5002 400 krderover til og med 10 0003 500 krderover til og med 15 0006 400 krderover til og med 20 0009 100 kr
 
 (2) Det kan ikke utstedes forenklet forelegg for vare som det kreves særskilt tillatelse til å innføre, herunder narkotika, legemidler, våpen, levende dyr og kjøtt fra land hvor det foreligger fare for smitte av husdyrsykdommer.
 
-(3) Omfatter én og samme overtredelse flere varetyper som nevnt i første ledd, legges bøtebeløpene sammen til en felles bot. Forenklet forelegg kan ikke utferdiges dersom bøtebeløpene til sammen overstiger 20 000 norske kroner.
+(3) Omfatter én og samme overtredelse flere varetyper som nevnt i første ledd, legges bøtebeløpene sammen til en felles bot. Forenklet forelegg kan ikke utferdiges dersom bøtebeløpene til sammen overstiger 28 900 norske kroner.
 
-> **Endres** ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
+> Endret ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
 
 ### § 12-11-2. Inndragning
 
@@ -2184,9 +2184,11 @@ Ved destruksjon etter [§ 11-7](forskrift/2022-10-27-1901/§11-7) første ledd s
 
 ### § 12-11-3. Subsidiær fengselsstraff
 
-Forelegget skal omfatte subsidiær fengselsstraff. Den subsidiære fengselsstraffen fastsettes på følgende måte:ved bot til og med 400 kr: 1 dags fengselved bot til og med 1 500 kr: 2 dager fengselved bot til og med 3 000 kr: 3 dager fengselved bot til og med 8 000 kr: 4 dager fengselved bot til og med 14 000 kr: 6 dager fengselved bot til og med 20 000 kr: 9 dager fengsel.
+Forelegget skal omfatte subsidiær fengselsstraff. Den subsidiære fengselsstraffen settes til en dags fengsel tilsvarende hver hele 1 000 kroner, likevel slik at den subsidiære fengselsstraffen ikke kan settes høyere enn 15 dager.
 
-> **Endres** ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
+Dersom siktede var under 18 år på overtredelsestidspunktet, fastsettes ikke subsidiær fengselsstraff etter første ledd.
+
+> Endret ved forskrift [5 mai 2026 nr. 749](forskrift/2026-05-05-749) (i kraft 1 juli 2026).
 
 ### § 12-11-4. Utferdigelse av forelegg
 

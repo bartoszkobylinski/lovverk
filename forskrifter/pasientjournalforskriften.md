@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2019-07-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-10-01"
-xml_hash: "a75b5bcad2a6b2b054ea7b687e1221f11f747b8ae98f63841239a7a9ae2fdc84"
+xml_hash: "edf13bef9619ecdd2f92930bcb35f94c2fb219fae56ce21a952cb4b358bfaa1d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,15 +106,9 @@ Journalopplysninger kan bare gjøres tilgjengelig for personell som gjennom aute
 
 Den dataansvarlige skal ha oversikt over hvem som har tilgang til hvilke typer opplysninger og kunne kontrollere i ettertid hvem som har benyttet seg av tilgangen.
 
-## § 14. Krav til loggføring
+## § 14. (Opphevet)
 
-Tilgjengeliggjøring av opplysninger skal dokumenteres automatisk hos virksomheten. Dokumentasjonen skal minst inneholde informasjon omidentitet og organisatorisk tilhørighet til den som har hentet fram helseopplysningergrunnlaget for tilgjengeliggjøringentidsperioden for tilgjengeliggjøringen.
-
-Den registrerte har rett til innsyn i dokumentasjonen.
-
-Dersom oversikten viser at noen urettmessig har hentet frem journalopplysninger, skal virksomheten opplysningene er hentet fra og den registrerte, varsles, jf. [personvernforordningen artikkel 33](lov/2018-06-15-38/gdpr/a33) og [34](lov/2018-06-15-38/gdpr/a34).
-
-> **Oppheves** ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
+> Opphevet ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
 
 ## § 15. Retting og sletting
 
@@ -128,11 +122,11 @@ Når journaldokumenter på analoge lagringsmidler er digitalisert på forsvarlig
 
 ## § 17. Opphør av virksomhet mv.
 
-Hvis det ved overdragelse eller opphør av virksomhet ikke er aktuelt å overføre pasientjournalene til et bestemt helsepersonell eller til en bestemt virksomhet, skal de avleveres til Helsedirektoratet eller det organ direktoratet bestemmer. Helsedirektoratet er dataansvarlig for behandlingen av opplysningene etter at de er avlevert. Pasientjournaler skal avleveres i det format og etter de rutiner som fastsettes av den dataansvarlige.
+Hvis det ved overdragelse eller opphør av virksomhet ikke er aktuelt å overføre pasientjournalene til et bestemt helsepersonell eller til en bestemt virksomhet, skal de avleveres til Nasjonalarkivet eller det organ Nasjonalarkivet bestemmer. Nasjonalarkivet er dataansvarlig for behandlingen av opplysningene etter at de er avlevert.
 
-Journaler som avleveres oppbevares til det av hensyn til helsehjelpens karakter ikke lenger antas å bli bruk for dem, og kan deretter tilintetgjøres etter samråd med Riksarkivaren eller avleveres til offentlig arkivdepot. Materialet fra spesialisthelsetjenesten skal behandles som bestemt i [helsearkivforskriften](forskrift/2016-03-18-268).
+Journaler som avleveres oppbevares til det av hensyn til helsehjelpens karakter ikke lenger antas å bli bruk for dem, jf. [pasientjournalloven § 25](lov/2014-06-20-42/§25). Hvis ikke opplysningene deretter skal bevares etter [arkivloven](lov/2025-06-20-96) eller annen lovgivning, skal de slettes. Materialet fra spesialisthelsetjenesten skal behandles som bestemt i [helsearkivforskriften](forskrift/2016-03-18-268).
 
-> Endret ved forskrift [24 sep 2021 nr. 2892](forskrift/2021-09-24-2892) (i kraft 1 okt 2021), [6 sep 2024 nr. 2090](forskrift/2024-09-06-2090) (i kraft 1 jan 2025, endring endret ved forskrift [6 nov 2024 nr. 2743](forskrift/2024-11-06-2743)). **Endres** ved forskrift [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
+> Endret ved forskrifter [24 sep 2021 nr. 2892](forskrift/2021-09-24-2892) (i kraft 1 okt 2021), [6 sep 2024 nr. 2090](forskrift/2024-09-06-2090) (i kraft 1 jan 2025, endringen endret ved forskrift [6 nov 2024 nr. 2743](forskrift/2024-11-06-2743)), [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
 
 ## § 18. Ikrafttredelse og endringer i andre forskrifter
 

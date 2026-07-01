@@ -8,14 +8,14 @@ short_title: null
 language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
-date_in_force: null
-last_change_in_force: null
+date_in_force: "2026-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "1ae4b9e6fca415fed95add0b8221e0f01522d29df3754ae5c5a30d456fa8edc6"
+xml_hash: "4b51821e72280bbcf2d72dca61e85dc0dc0770c0ce335561454e596207e2d1d2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,4 +96,4 @@ Klagenemnda for Forsvarets fagskoler er også klageinstans for enkeltvedtak truf
 
 ## § 11. Ikrafttredelse
 
-Forskriften trer i kraft fra den tid Forsvarsdepartementet bestemmer.
+Forskriften trer i kraft fra den tid Forsvarsdepartementet bestemmer.1

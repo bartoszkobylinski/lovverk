@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2022-04-01"
-last_change_in_force: "2024-04-05"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "dc181f93e3f032d5043c1896703625d1032dfe5de3446fb23b5db1a52ee295cf"
+xml_hash: "d7937554127be61e5598a64446815a46c148aec2b5d9fa84731165a3b7ce5ad9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ Jaktbare arter er alle arter med jakttid etter § 2. Jakttidsrammen tilsvarer ja
 
 ## § 2. Jakttider
 
-> Endret ved forskrifter [3 juni 2022 nr. 980](forskrift/2022-06-03-980), [5 april 2024 nr. 568](forskrift/2024-04-05-568).
+> Endret ved forskrifter [3 juni 2022 nr. 980](forskrift/2022-06-03-980), [5 april 2024 nr. 568](forskrift/2024-04-05-568), [26 juni 2026 nr. 1379](forskrift/2026-06-26-1379) (i kraft 1 juli 2026), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 3. Delegering av myndighet
 
@@ -71,7 +71,9 @@ Miljødirektoratet kan i særlige tilfeller gjøre unntak fra bestemmelsene i de
 
 ## § 8. Straff
 
-Overtredelser av bestemmelser gitt i eller i medhold av denne forskriften straffes etter [viltloven § 56](lov/1981-05-29-38/§56).
+Overtredelser av bestemmelser gitt i eller i medhold av denne forskriften straffes etter [viltressursloven § 60](lov/2025-06-20-102/§60).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 9. Fylkesgrenser
 

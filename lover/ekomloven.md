@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Digitaliserings- og forvaltningsdepartementet"
 date_in_force: "2025-01-01"
-last_change_in_force: "2025-12-19"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "6a77414d3177102a9c59180acb3118d794d57935505b0b3af7ccf1c69ec4fc6c"
+xml_hash: "2faadaeabb00b9fb182d71e21c1b1c06384b20274b1e5736eef57682a5c84499"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32002D0676"
@@ -1031,13 +1031,9 @@ Departementet kan etter søknad gjennomføre innmelding av satellittsystemer til
 
 Departementet kan gi forskrift om innmelding av satellittsystem, krav til søker og til søknaden, betaling av vederlag, og avgifter til Den internasjonale teleunionen.
 
-### § 11-17. Regressansvar for skade voldt av romgjenstand
+### § 11-17. (Opphevet)
 
-I den utstrekning Norge i henhold til internasjonal overenskomst har utbetalt erstatning for skade voldt av romgjenstand, kan departementet kreve regress hos ansvarlig virksomhet.
-
-Departementet kan pålegge den som ber om oppskyting av romgjenstand, å stille sikkerhet gjennom forsikring eller garanti for erstatningsforpliktelser som den norske stat kan pådra seg etter internasjonal overenskomst som Norge har sluttet seg til.
-
-> **Oppheves** ved lov [22 des 2025 nr. 128](lov/2025-12-22-128) (i kraft 1 juli 2026 iflg. [res. 22 des 2025 nr. 2838](forskrift/2025-12-22-2838)).
+> Opphevet ved lov [22 des 2025 nr. 128](lov/2025-12-22-128) (i kraft 1 juli 2026 iflg. [res. 22 des 2025 nr. 2838](forskrift/2025-12-22-2838)).
 
 ## Kapittel 12. Nummer, navn, domenenavn og adresser
 

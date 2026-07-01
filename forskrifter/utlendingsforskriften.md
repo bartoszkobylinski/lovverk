@@ -10,13 +10,13 @@ ministry:
   - "Arbeids- og inkluderingsdepartementet"
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-06-21"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-10-20"
-xml_hash: "403bf08446b85b535a63789a489dbe28061695c23e5292376df020a0f721b1da"
+xml_hash: "d7317bf25ed60b54db84f7ede5aef8aa4ec7595d7e3468bc4a98268bb0e638f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -665,13 +665,11 @@ En utlending som har fått oppholdstillatelse før innreise, skal senest innen �
 
 Arbeidstakere som omfattes av en gruppetillatelse, jf. [§ 6-7](forskrift/2009-10-15-1286/§6-7) og [§ 6-15](forskrift/2009-10-15-1286/§6-15), skal også melde seg for politiet som nevnt i første ledd. Etter ankomst får arbeidstakeren individuell tillatelse til arbeid i gruppen, jf. § 6-7 femte ledd og § 6-15 sjette ledd, med mindre det foreligger omstendigheter som vil gi grunn til å nekte arbeidstakeren adgang til eller opphold i riket i medhold av andre bestemmelser i loven, jf. lovens § 59.
 
-Når en utlending fremmer søknad om oppholdstillatelse eller beskyttelse fra riket, skal utlendingen møte personlig for politiet, jf. forskriftens [§ 10-2](forskrift/2009-10-15-1286/§10-2) og lovens § 93 første ledd.
-
 Regler om meldeplikt for utlendinger som er unntatt fra kravet om oppholdstillatelse etter forskriftens [kapittel 1](forskrift/2009-10-15-1286/kap1), følger av [§ 1-1](forskrift/2009-10-15-1286/§1-1) tolvte ledd.
 
 Når utlendingen skal oppholde seg i riket ut over tre måneder, skal politiet gjøre vedkommende kjent med plikten til å fremstille seg til tuberkuloseundersøkelse etter [lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer (smittevernloven)](lov/1994-08-05-55). Politiet skal gi vedkommende helsemyndighet melding om kontaktopplysninger til utlendinger som skal oppholde seg i riket utover tre måneder og, hvis kjent, hvilket språk utlendingen kan kommunisere forsvarlig på.
 
-> Endret ved [forskrifter 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024). **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013), [19 des 2014 nr. 1889](forskrift/2014-12-19-1889) (i kraft 15 jan 2015), [17 juni 2016 nr. 712](forskrift/2016-06-17-712) (i kraft 1 juli 2016), [31 jan 2018 nr. 155](forskrift/2018-01-31-155) (i kraft 1 mars 2018), [12 mars 2024 nr. 425](forskrift/2024-03-12-425) (i kraft 25 mars 2024), [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
 
 ### § 4-23. Melding til myndighetene ved skifte av bopel
 
@@ -1231,9 +1229,9 @@ Samtidig med vedtak om overføring kan Utlendingsdirektoratet avgjøre om utlend
 
 Utlendinger som er innvilget innreisetillatelse til Norge, skal få informasjon om at dette også innebærer oppholdstillatelse. En utlending som samtidig er innvilget flyktningstatus og oppholdstillatelse etter lovens § 28 annet ledd, eller tillatelse etter lovens § 38, skal informeres om dette og om virkningen av vedtaket. Utlendinger som bare er innvilget innreisetillatelse, skal gis informasjon om at spørsmålet om flyktningstatus vil bli avgjort etter ankomst.
 
-Utlendingen skal gjøres kjent med plikten til å melde seg for politiet senest innen en uke etter innreisen og plikten til å fremstille seg til tuberkuloseundersøkelse, jf. [§ 4-22](forskrift/2009-10-15-1286/§4-22) femte ledd.
+Utlendingen skal gjøres kjent med plikten til å melde seg for politiet senest innen en uke etter innreisen og plikten til å fremstille seg til tuberkuloseundersøkelse, jf. [§ 4-22 fjerde ledd](forskrift/2009-10-15-1286/§4-22/ledd/4).
 
-> **Endres** ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
+> Endret ved forskrift [15 juni 2026 nr. 1087](forskrift/2026-06-15-1087) (i kraft 1 juli 2026).
 
 ### § 7-9. Virkning av vedtak om overføring av flyktninger mv. etter lovens § 35
 
@@ -2489,9 +2487,11 @@ Første ledd gjelder likevel ikke dersom det anses åpenbart unødvendig fordi h
 
 ### § 17-2. Asylintervju
 
-Med mindre søkeren blir bortvist til et første asylland eller land som deltar i Dublinsamarbeidet, jf. lovens § 32 fjerde ledd, skal asylintervju foretas snarest mulig. Asylsøkere over 18 år skal intervjues atskilt. Søkerens ektefelle eller samboer bør som regel intervjues, selv om vedkommende ikke søker beskyttelse.
+I saker om beskyttelse etter lovens [§ 28](lov/2008-05-15-35/§28) skal asylintervju gjennomføres snarest mulig, med mindre følgende vilkår er oppfylt:søkeren har gyldig oppholdstillatelse i Norge,det er foretatt registrering hos politiet,det er ikke tvil om identitet eller opplysninger i saken som tyder på at saken bør utredes nærmere, jf. lovens [§ 31](lov/2008-05-15-35/§31) og [kapittel 14](lov/2008-05-15-35/kap14), ogsøknaden anses som en klar innvilgelsessak i henhold til praksis i Utlendingsdirektoratet.
 
-Intervjuet skal tilrettelegges på en måte som sikrer at saken blir best mulig opplyst. Utlendingsdirektoratet skal klarlegge om søkeren ut fra grunnlaget for asylsøknaden eller ut fra livssituasjonen, har særlige behov under intervjusituasjonen. Kvinner skal spørres om de ønsker at intervjuer og tolk skal være kvinner. Slike ønsker, og andre særskilte behov, skal etterkommes så langt det er praktisk mulig.
+Asylintervju kan også unnlates dersom ett av følgende vilkår er oppfylt:asylsøknaden blir nektet realitetsbehandlet etter lovens [§ 32](lov/2008-05-15-35/§32),asylsøknaden anses som åpenbart grunnløs, ellerlandinformasjon og asylpraksis tilsier at det er svært høy sannsynlighet for at søknaden vil bli avslått.For å kunne unnlate asylintervju etter bokstav b og c, er det en forutsetning at søkeren har fått uttale seg om årsaken til søknaden og hva vedkommende frykter ved retur til hjemlandet.
+
+Asylsøkere over 18 år skal intervjues atskilt. Søkerens ektefelle eller samboer bør som regel intervjues, selv om vedkommende ikke søker beskyttelse. Intervjuet skal tilrettelegges på en måte som sikrer at saken blir best mulig opplyst. Utlendingsdirektoratet skal klarlegge om søkeren ut fra grunnlaget for asylsøknaden eller ut fra livssituasjonen har særlige behov under intervjusituasjonen. Kvinner skal spørres om de ønsker at intervjuer og tolk skal være kvinner. Slike ønsker, og andre særskilte behov, skal etterkommes så langt det er praktisk mulig.
 
 Med mindre søkeren og den som skal foreta intervjuet kan kommunisere forsvarlig på et felles språk, skal tolk tilkalles. Søkeren skal opplyses om tolkens rolle under asylintervjuet og at tolken har taushetsplikt etter [forvaltningsloven § 13](lov/1967-02-10/§13) flg. og [tolkeloven § 15](lov/2021-06-11-79/§15). Det skal også opplyses om at overtredelse av taushetsplikten kan medføre straffansvar etter [straffeloven § 209](lov/2005-05-20-28/§209).
 
@@ -2501,7 +2501,7 @@ Søkeren skal gis anledning til å forklare seg med egne ord. Intervjueren skal 
 
 Det kan tas lyd- og bildeopptak av samtaler med asylsøkeren. Asylsøkeren skal orienteres om at det tas slike opptak.
 
-> Endret ved [forskrifter 16 des 2013 nr. 1526](forskrift/2013-12-16-1526) (i kraft 1 jan 2014), [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [14 sep 2015 nr. 1047](forskrift/2015-09-14-1047) (i kraft 1 okt 2015), [13 des 2021 nr. 3489](forskrift/2021-12-13-3489) (i kraft 1 jan 2022). **Endres** ved forskrift [19 juni 2026 nr. 1132](forskrift/2026-06-19-1132) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 16 des 2013 nr. 1526](forskrift/2013-12-16-1526) (i kraft 1 jan 2014), [17 des 2013 nr. 1568](forskrift/2013-12-17-1568) (i kraft 1 jan 2014), [14 sep 2015 nr. 1047](forskrift/2015-09-14-1047) (i kraft 1 okt 2015), [13 des 2021 nr. 3489](forskrift/2021-12-13-3489) (i kraft 1 jan 2022), [19 juni 2026 nr. 1132](forskrift/2026-06-19-1132) (i kraft 1 juli 2026).
 
 ### § 17-3. Høring av barn
 
@@ -3262,6 +3262,16 @@ Tjenesteytere og etablerere som nevnt i lovens § 110 fjerde ledd, som ikke har 
 Familiemedlemmer til en nordisk borger omfattes av bestemmelsene i dette kapittelet dersom de følger eller gjenforenes med nordisk borger som kommer til eller oppholder seg i riket og som fyller vilkårene for oppholdsrett etter lovens § 111 eller § 112.
 
 > Tilføyd ved [forskrift 19 mai 2011 nr. 583](forskrift/2011-05-19-583).
+
+### § 19-5b. Oppholdsrett etter EØS-arbeidstakerforordningen
+
+EØS-borgere og deres familiemedlemmer har rett til fortsatt opphold etter at deres oppholdsrett etter lovens [kapittel 13](lov/2008-05-15-35/kap13) har bortfalt dersom det følger av forordning [(EU) nr. 492/2011](eu/32011r0492) artikkel 10, jf. [EØS-arbeidstakarlova § 1](lov/2012-12-14-81/§1).
+
+Tredjelandsborgere med oppholdsrett etter første ledd plikter å søke om nytt oppholdskort innen utløpet av gjeldende oppholdskort, jf. [§ 19-23](forskrift/2009-10-15-1286/§19-23). Lovens [§ 118 andre ledd bokstav a](lov/2008-05-15-35/§118/ledd/2/bokstav/a) og [b](lov/2008-05-15-35/§118/ledd/2/bokstav/b), [fjerde](lov/2008-05-15-35/§118/ledd/4) og [femte ledd](lov/2008-05-15-35/§118/ledd/5) og forskriftens [§ 19-23](forskrift/2009-10-15-1286/§19-23) gjelder tilsvarende for søknader om oppholdskort etter dette leddet.
+
+Lovens [§§ 120](lov/2008-05-15-35/§120) til [124](lov/2008-05-15-35/§124) og forskriftens [§§ 19-2](forskrift/2009-10-15-1286/§19-2) til [19-5](forskrift/2009-10-15-1286/§19-5) og [19-27](forskrift/2009-10-15-1286/§19-27) til [19-30](forskrift/2009-10-15-1286/§19-30) gjelder tilsvarende for personer med oppholdsrett etter første ledd.
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1375](forskrift/2026-06-25-1375).
 
 ### Lovens § 110. Nærmere om hvem kapittelet gjelder for
 

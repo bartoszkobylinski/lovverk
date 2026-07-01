@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2010-01-01"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-05"
-xml_hash: "4120292467239c6c1aa771b6cf4fd114f0c2386d490c60db91c258b6bcaef2c1"
+xml_hash: "001631927234696bef6272590a6ea5f322ab9d9f062c74229f0064310eb1f6d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1797,6 +1797,20 @@ Beløp som gjelder levering av varer med lav verdi etter [merverdiavgiftsloven �
 Omtvistede beløp som har sitt grunnlag i tilvirkningskontrakter og hvor det objektivt sett er rimelig tvil om kreditor har rett på vederlaget, skal oppgis i skattemeldingen for den termin kravet er avklart eller betalt. Dette gjelder ikke dersom debitor og kreditor er å anse som nærstående etter [skatteforvaltningsloven § 8-11](lov/2016-05-27-14/§8-11) fjerde ledd.
 
 > Tilføyd ved [forskrift 22 des 2022 nr. 2472](forskrift/2022-12-22-2472) (i kraft 1 jan 2023, se endringsforskriften for overgangsregel).
+
+### § 15-9-4. Fjernleverbare tjenester mottatt utenfor merverdiavgiftsområdet
+
+Denne paragrafen oppstiller et alternativ til hovedregelen i [merverdiavgiftsloven § 15-9 første ledd](lov/2009-06-19-58/§15-9/ledd/1) for avgiftspliktige beløp etter [merverdiavgiftsloven § 3-30 annet ledd](lov/2009-06-19-58/§3-30/ledd/2), jf. [tredje ledd](lov/2009-06-19-58/§3-30/ledd/3). Dersom den alternative metoden velges, må den omfatte alle avgiftspliktige beløp nevnt i første punktum.
+
+Beløp nevnt i første ledd oppgis i skattemeldingen på grunnlag av et budsjett for en periode som ikke kan overstige tolv måneder. De budsjetterte beløpene skal fordeles likt på terminene i budsjettperioden, eller i henhold til et periodisert budsjett.
+
+Dersom forutsetningene for budsjettet endrer seg, kan virksomheten justere grunnlaget for innberetning etter annet ledd. Dersom forutsetningene for budsjettet endrer seg vesentlig, skal virksomhetenjustere grunnlaget for innberetning etter annet ledd, elleroppgi beløp i skattemeldingen etter [merverdiavgiftsloven § 15-9 første ledd](lov/2009-06-19-58/§15-9/ledd/1).
+
+Senest seks måneder etter utløpet av budsjettperioden skal det foretas en avstemming av beløpene som er oppgitt i skattemeldingene i henhold til budsjettet, mot de faktisk avgiftspliktige beløpene i budsjettperioden. Differansen oppgis senest i skattemeldingen for den siste terminen i budsjettperioden.
+
+Budsjett, dokumentasjon av eventuelle endringer etter tredje ledd, avstemming etter fjerde ledd og kjøpsdokumentasjon etter [bokføringsforskriften § 5-5-1](forskrift/2004-12-01-1558/§5-5-1), anses som dokumentasjon av bokførte opplysninger og skal oppbevares i samsvar med bestemmelsene i [bokføringsloven](lov/2004-11-19-73).
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1398](forskrift/2026-06-26-1398) (i kraft 1 juli 2026).
 
 ### § 15-10. Dokumentasjonsplikt
 

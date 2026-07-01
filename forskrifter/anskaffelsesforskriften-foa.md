@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-04-21"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-24"
-xml_hash: "43be7befb814c47e9ee24c798271a4e9d5f8391d920bb36e4b53529733199369"
+xml_hash: "9a651c6b6204b9c145ca7ea1bf99a6024a7b5ffff550f3275a8099524b813f05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-07T06:32:55.817317+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,9 +28,9 @@ eu_basis: []
 
 ### § 1-1. Hvilke anskaffelser som er omfattet av forskriften
 
-Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-974/§1-2) inngår vare-, tjeneste- eller bygge- og anleggskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 100 000 kroner ekskl. mva.
+Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-974/§1-2) inngår vare-, tjeneste- eller bygge- og anleggskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
 
-> **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Endret ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 1-2. Hvem forskriften gjelder for
 
@@ -40,7 +40,7 @@ Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-1
 
 ### § 1-3. Subsidierte bygge- og anleggskontrakter og tilknyttede tjenestekontrakter
 
-(1) [Anskaffelsesloven](lov/2016-06-17-73) og forskriften gjelder for følgende kontrakter som oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-974/§1-2) ikke inngår selv, men som de yter et direkte tilskudd til med mer enn 50 prosent:bygge- og anleggskontrakter med en anslått verdi som er lik eller overstiger 8,7 millioner kroner ekskl. mva. og som gjelder anleggsarbeider som angitt i vedlegg 1 eller oppføring av sykehus, idretts-, rekreasjons- og fritidsanlegg, skole- og universitetsbygninger eller bygninger til forvaltningsformåltjenestekontrakter med tilknytning til en bygge- og anleggskontrakt som nevnt i bokstav a, med en anslått verdi som er lik eller overstiger 2,5 millioner kroner ekskl. mva.
+(1) [Anskaffelsesloven](lov/2016-06-17-73) og forskriften gjelder for følgende kontrakter som oppdragsgivere som nevnt i § 1-2 ikke inngår selv, men som de yter et direkte tilskudd til med mer enn 50 prosent:bygge- og anleggskontrakter med en anslått verdi som er lik eller overstiger 8,7 millioner kroner ekskl. mva. og som gjelder anleggsarbeider som angitt i vedlegg 1 eller oppføring av sykehus, idretts-, rekreasjons- og fritidsanlegg, skole- og universitetsbygninger eller bygninger til forvaltningsformåltjenestekontrakter med tilknytning til en bygge- og anleggskontrakt som nevnt i bokstav a, med en anslått verdi som er lik eller overstiger 2,5 millioner kroner ekskl. mva.
 
 (2) Ved inngåelse av kontrakter etter første ledd er tilskuddsmottakeren oppdragsgiver i henhold til anskaffelsesloven og forskriften. Tilskuddsgiveren skal underrette tilskuddsmottakeren om denne bestemmelsen, senest ved tildelingen av tilskuddet.
 
@@ -258,15 +258,9 @@ I forskriften menes med*Doffin:* den norske offisielle databasen for kunngjørin
 
 (3) Vesentlige forhold for gjennomføringen av anskaffelsen skal nedtegnes eller samles i en protokoll.
 
-### § 7-2. Skatteattest
+### § 7-2. (Opphevet)
 
-(1) Oppdragsgiveren skal kreve at den valgte leverandøren leverer skatteattest for merverdiavgift og skatteattest for skatt for anskaffelser som overstiger 500 000 kroner ekskl. mva. Dette gjelder bare for norske leverandører.
-
-(2) Skatteattesten skal ikke være eldre enn 6 måneder regnet fra fristen for å levere forespørsel om å delta i konkurransen eller tilbud.
-
-(3) Ved bygge- og anleggskontrakter skal leverandøren tilsvarende kreve skatteattest fra alle underleverandører ved inngåelse av kontrakter i tilknytning til oppdraget, som overstiger en verdi på 500 000 kroner ekskl. mva. Brudd på leverandørens plikt til å kreve skatteattest gir oppdragsgiveren rett til å kreve at leverandøren erstatter vedkommende underleverandør med en underleverandør som kan levere skatteattest. Oppdragsgiveren kan tilsvarende kreve at leverandøren erstatter en underleverandør som ikke har oppfylt sine forpliktelser til å betale skatter og avgifter. Eventuelle økonomiske krav fra underleverandører eller omkostninger for øvrig som følge av heving av avtaler med underleverandører i denne forbindelse, skal bæres av leverandøren.
-
-> **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-3. Offentlighet
 
@@ -304,19 +298,9 @@ Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverand�
 
 > Endret ved [forskrift 19 des 2017 nr. 2247](forskrift/2017-12-19-2247) (i kraft 1 jan 2018).
 
-### § 7-9. Klima- og miljøhensyn i offentlige anskaffelser
+### § 7-9. (Opphevet)
 
-(1) Krav og kriterier etter denne bestemmelsen skal ha som mål å redusere anskaffelsens samlede klimaavtrykk eller miljøbelastning.
-
-(2) Oppdragsgiver skal vekte klima- og miljøhensyn med minimum tretti prosent.
-
-(3) Der oppdragsgiver angir tildelingskriteriene i prioritert rekkefølge, bør klima- og miljøhensyn være blant de tre høyest prioriterte.
-
-(4) Tildelingskriterier etter andre og tredje ledd kan erstattes med klima- og miljøkrav i kravspesifikasjonen, dersom det er klart at dette gir en bedre klima- og miljøeffekt og dette begrunnes i anskaffelsesdokumentene. Dersom oppdragsgiver ikke prioriterer i tråd med tredje ledd, skal det stilles klima- og miljøkrav i kravspesifikasjonen, og dette skal begrunnes i anskaffelsesdokumentene.
-
-(5) Forpliktelsen til å stille krav eller kriterier etter denne bestemmelsen gjelder ikke dersom anskaffelsen etter sin art har et klimaavtrykk og en miljøbelastning som er uvesentlig og dette begrunnes i anskaffelsesdokumentene.
-
-> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrift [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrift [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ## Del II. Anskaffelser under EØS-terskelverdiene og særlige tjenester
 
@@ -408,29 +392,13 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (2) Oppdragsgiveren kan fastsette endringsklausuler, for eksempel prisindeksklausuler eller opsjoner. Endringsklausulene skal angis i anskaffelsesdokumentene, og det skal fremgå klart hvilke endringer oppdragsgiveren kan foreta, i hvilket omfang og på hvilke vilkår. Endringsklausulene kan ikke åpne for at anskaffelsens overordnede karakter blir endret.
 
-### § 8-12a. Krav til kontraktsvilkår om betaling av lønn mv. via bank eller foretak med rett til å drive betalingsformidling
+### § 8-12a. (Opphevet)
 
-(1) Oppdragsgivere skal stille kontraktsvilkår med tilhørende sanksjoner om at lønn og annen godtgjørelse til leverandørens ansatte, ansatte hos underleverandører og innleide som direkte medvirker i forbindelse med utførelsen av bygge- og anleggsarbeider eller renholdstjenester som er omfattet av CPV-kode 90910000 (rengjøring), skal utbetales via bank eller annet foretak med rett til å drive betalingsformidling. Alle avtaler leverandøren inngår for utføring av arbeid under denne kontrakten, skal inneholde tilsvarende bestemmelser.
+> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
-(2) Oppdragsgiver skal gjennomføre nødvendig kontroll av om kontraktsvilkår i henhold til første ledd overholdes.
+### § 8-13. (Opphevet)
 
-(3) Leverandøren og eventuelle underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår som nevnt i første ledd.
-
-(4) Unntak for andre betalingsmåter i medhold av [skatteloven § 6-51](lov/1999-03-26-14/§6-51) tredje ledd gjelder så langt det passer.
-
-(5) For utbetaling av lønn gjelder unntakene i [arbeidsmiljøloven § 14-15](lov/2005-06-17-62/§14-15) annet ledd så langt de passer.
-
-(6) [Personopplysningsloven](lov/2018-06-15-38) gjelder for behandlingen av opplysningene hvis ikke annet er bestemt.
-
-> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
-
-### § 8-13. Begrensning av antallet ledd i leverandørkjeden
-
-(1) Oppdragsgiveren skal stille krav om at leverandørene kan ha maksimalt to ledd i leverandørkjeden under seg når leverandøren skal utføre bygge- og anleggsarbeider i kontrakter som har en anslått verdi som er lik eller overstiger 1,3 millioner kroner ekskl. mva. for statlige oppdragsgivere og 2,05 millioner kroner ekskl. mva. for andre oppdragsgivere.
-
-(2) Oppdragsgiveren kan godta flere ledd i leverandørkjeden dersom det er nødvendig for å sikre tilstrekkelig konkurranse. Det maksimale antallet ledd oppdragsgiveren kan godta, skal angis i anskaffelsesdokumentene. Etter at kontrakten er inngått, kan oppdragsgiveren godta flere ledd dersom det på grunn av uforutsette omstendigheter er nødvendig for å få gjennomført kontrakten.
-
-> Endret ved [forskrifter 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), [12 feb 2020 nr. 128](forskrift/2020-02-12-128). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), [12 feb 2020 nr. 128](forskrift/2020-02-12-128), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 8-14. Frister for mottak av forespørsler om å delta i konkurransen og tilbud
 
@@ -854,7 +822,7 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 ### § 18-1. Tildelingskriterier
 
-(1) Oppdragsgiveren skal velge tilbud på grunnlag av det beste forholdet mellom pris eller kostnad og kvalitet. Dersom klima- og miljøhensyn ikke brukes som tildelingskriterium etter [§ 7-9](forskrift/2016-08-12-974/§7-9) andre ledd, kan oppdragsgiveren også velge tilbud på grunnlag av den laveste prisen eller den laveste kostnaden.
+(1) Oppdragsgiveren skal velge tilbud på grunnlag av det beste forholdet mellom pris eller kostnad og kvalitet. Dersom klima- og miljøhensyn ikke brukes som tildelingskriterium etter anskaffelsesloven § 5b kan oppdragsgiveren også velge tilbud på grunnlag av den laveste prisen eller den laveste kostnaden.
 
 (2) Ved valg av tilbud på grunnlag av den laveste kostnaden skal oppdragsgiveren basere valget på en kostnadseffektivitetsberegning, som for eksempel en beregning av livssykluskostnader etter [§ 18-2](forskrift/2016-08-12-974/§18-2).
 
@@ -872,7 +840,7 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (9) Oppdragsgiveren skal angi krav til dokumentasjon for hvert tildelingskriterium.
 
-> Endret ved forskrift [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024). **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Endret ved forskrifter [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024), [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 18-2. Beregning av livssykluskostnader
 
@@ -900,13 +868,9 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (4) Ved anskaffelser av tjenester som skal leveres på steder som er under oppdragsgiverens direkte tilsyn, og bygge- og anleggsarbeider, skal oppdragsgiveren kreve slike opplysninger som nevnt i tredje ledd for underleverandørene som har kontrakt direkte med leverandøren, og som skal delta i utførelsen av tjenestene eller bygge- og anleggsarbeidene.
 
-### § 19-3. Begrensning av antallet ledd i leverandørkjeden
+### § 19-3. (Opphevet)
 
-(1) Oppdragsgiveren skal stille krav om at leverandørene kan ha maksimalt to ledd i leverandørkjeden under seg når leverandøren skal utføre bygge- og anleggsarbeider eller renholdstjenester som er omfattet av CPV-kode 90910000 (rengjøring).
-
-(2) Oppdragsgiveren kan godta flere ledd i leverandørkjeden dersom det er nødvendig for å sikre tilstrekkelig konkurranse. Det maksimale antallet ledd oppdragsgiveren kan godta, skal angis i anskaffelsesdokumentene. Etter at kontrakt er inngått, kan oppdragsgiveren godta flere ledd dersom det på grunn av uforutsette omstendigheter er nødvendig for å få gjennomført kontrakten.
-
-> **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 19-4. Oppdeling av anskaffelser
 
@@ -920,21 +884,9 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 (5) Dersom oppdragsgiveren har tillatt leverandørene å gi tilbud på flere delkontrakter, kan han likevel tildele en samlet kontrakt til en leverandør. Dette gjelder selv om leverandøren ikke har levert det beste tilbudet for hver delkontrakt, når det samlede tilbudet fra denne leverandøren totalt sett oppfyller tildelingskriteriene bedre. Dersom oppdragsgiveren vil forbeholde seg retten til å gjøre dette, skal det angis i kunngjøringen eller i invitasjonen til å bekrefte interesse. Han skal også angi hvilke delkontrakter som kan slås sammen i en samlet kontrakt.
 
-### § 19-5. Krav til kontraktsvilkår om betaling av lønn mv. via bank eller foretak med rett til å drive betalingsformidling
+### § 19-5. (Opphevet)
 
-(1) Oppdragsgivere skal stille kontraktsvilkår med tilhørende sanksjoner om at lønn og annen godtgjørelse til leverandørens ansatte, ansatte hos underleverandører og innleide som direkte medvirker i forbindelse med utførelsen av bygge- og anleggsarbeider eller renholdstjenester som er omfattet av CPV-kode 90910000 (rengjøring), skal utbetales via bank eller annet foretak med rett til å drive betalingsformidling. Alle avtaler leverandøren inngår for utføring av arbeid under denne kontrakten, skal inneholde tilsvarende bestemmelser.
-
-(2) Oppdragsgiver skal gjennomføre nødvendig kontroll av om kontraktsvilkår i henhold til første ledd overholdes.
-
-(3) Leverandøren og eventuelle underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår som nevnt i første ledd.
-
-(4) Unntak for andre betalingsmåter i medhold av [skatteloven § 6-51](lov/1999-03-26-14/§6-51) tredje ledd gjelder så langt det passer.
-
-(5) For utbetaling av lønn gjelder unntakene i [arbeidsmiljøloven § 14-15](lov/2005-06-17-62/§14-15) annet ledd så langt de passer.
-
-(6) [Personopplysningsloven](lov/2018-06-15-38) gjelder for behandlingen av opplysningene hvis ikke annet er bestemt.
-
-> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026, endring endret ved forskrift [30 april 2026 nr. 713](forskrift/2026-04-30-713)).
+> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026, endring endret ved forskrift [30 april 2026 nr. 713](forskrift/2026-04-30-713)).
 
 ### Kapittel 20. Frister
 

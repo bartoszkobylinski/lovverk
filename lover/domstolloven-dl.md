@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1927-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "45e1cc34b796db7d0caaa98103e6a7d01a3d608309a92402aa6ecdf01075d53b"
+xml_hash: "2020dd28864a2a80ba30bf79aff7c144b966c7a8c615dcdf93510ba34c96f879"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ De alminnelige domstoler er:Høyesterettlagmannsrettenetingrettene
 
 Forliksrådene er meklingsinstitusjoner med begrenset domsmyndighet som angitt i [tvisteloven § 6-10](lov/2005-06-17-90/§6-10).
 
-> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 2
 
@@ -38,19 +38,19 @@ Særdomstoler er:jordskifterettene;– – –de overordentlige domstoler, som n
 
 For de domstoler som er nevnt under nr. 1-4, gjelder denne lov om ikke annet er bestemt. For Riksretten gjelder den ikke.
 
-> Endret ved [lover 22 des 1950 nr. 2 § 110](lov/1950-12-22-2/§110), [26 nov 1954 nr. 6](lov/1954-11-26-6), 17 juni 1966 nr. 8, [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved lov [8 mai 2009 nr. 27](lov/2009-05-08-27).
+> Endret ved lover [22 des 1950 nr. 2 § 110](lov/1950-12-22-2/§110), [26 nov 1954 nr. 6](lov/1954-11-26-6), 17 juni 1966 nr. 8, [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896), endring endret ved lov [8 mai 2009 nr. 27](lov/2009-05-08-27)).
 
 ### § 3
 
-Høyesterett har sitt sete i rikets hovedstad når ikke særlige forhold er til hinder. Retten skal ha en formann og så mange andre dommere som til enhver tid er bestemt.
+Høyesterett har sitt sete i rikets hovedstad når ikke særlige forhold er til hinder. Retten skal ha en justitiarius og nitten andre dommere.
 
-> Endret ved lov 9 juni 1939 nr. 9. **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover 9 juni 1939 nr. 9, [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 4
 
-Når saksmengden gjør det påkrevd, kan Høyesterett, for saker som skal avgjøres av fem dommere, deles i flere avdelinger etter bestemmelse av Kongen. For saker som skal avgjøres av tre dommere, kan Høyesterett nedsette ett eller flere utvalg, som betegnes som Høyesteretts ankeutvalg. Høyesteretts domstolleder leder behandlingen i avdelinger og utvalg og behandlingen av saker i storkammer eller plenum, som hun eller han er med i. Ellers ledes behandlingen av eldste dommer som er med.
+Når saksmengden gjør det påkrevd, kan Høyesterett, for saker som skal avgjøres av fem dommere, deles i flere avdelinger etter bestemmelse av høyesterettsjustitiarius. For saker som skal avgjøres av tre dommere, kan Høyesterett nedsette ett eller flere utvalg, som betegnes som Høyesteretts ankeutvalg. Høyesterettsjustitiarius leder behandlingen i avdelinger og utvalg og behandlingen av saker i storkammer eller plenum, som hun eller han er med i. Ellers ledes behandlingen av eldste dommer som er med.
 
-> Endret ved lover 9 juni 1939 nr. 9, [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover 9 juni 1939 nr. 9, [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 5
 
@@ -64,17 +64,17 @@ I saker etter første og annet ledd som er av særlig viktighet, kan det bestemm
 
 Får noen av rettens medlemmer forfall i saker etter fjerde ledd, kan retten avgjøre saken så lenge det er minst fem dommere tilbake. Er det ved avgjørelsen et like antall dommere, fratrer yngste dommer.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 6
 
-Avgjørelse om at Høyesterett skal ha en annen sammensetning enn den som følger av [§ 5](lov/1915-08-13-5/§5) første ledd første punktum, treffes før saken er fordelt til forberedende dommer, av Høyesteretts domstolleder. Etter fordeling treffes avgjørelsen av ankeutvalget, men slik at domstollederen treffer eventuell avgjørelse om at saken skal behandles i storkammer eller plenum.
+Avgjørelse om at Høyesterett skal ha en annen sammensetning enn den som følger av [§ 5 første ledd første punktum](lov/1915-08-13-5/§5/ledd/1/setning/1), treffes før saken er fordelt til forberedende dommer, av høyesterettsjustitiarius. Etter fordeling treffes avgjørelsen av ankeutvalget, men slik at domstollederen treffer eventuell avgjørelse om at saken skal behandles i storkammer eller plenum.
 
 Avgjørelse om at Høyesterett skal ha en annen sammensetning enn den som følger av [§ 5](lov/1915-08-13-5/§5) annet ledd, treffes av domstollederen før den muntlige ankeforhandling er begynt, eller i skriftlige saker før partene har inngitt sitt siste skriftlige innlegg. Etter dette tidspunkt, kan to av avdelingens fem dommere kreve at avgjørelsen skal treffes med en sammensetning etter [§ 5](lov/1915-08-13-5/§5) fjerde ledd. Domstollederen avgjør da om retten skal settes med 11 eller med alle Høyesteretts dommere.
 
-Når det er truffet avgjørelse om at Høyesterett skal settes i storkammer, kan Høyesteretts domstolleder i stedet bestemme at avgjørelsen skal treffes av Høyesterett i plenum. Det skal gjøres hvis minst seks av Høyesteretts dommere krever det. Vedtak etter første punktum og krav etter annet punktum må i tilfelle settes fram før ankeforhandlingen eller den avsluttende skriftlige behandlingen i den forsterkede rett påbegynnes.
+Når det er truffet avgjørelse om at Høyesterett skal settes i storkammer, kan høyesterettsjustitiarius i stedet bestemme at avgjørelsen skal treffes av Høyesterett i plenum. Det skal gjøres hvis minst seks av Høyesteretts dommere krever det. Vedtak etter første punktum og krav etter annet punktum må i tilfelle settes fram før ankeforhandlingen eller den avsluttende skriftlige behandlingen i den forsterkede rett påbegynnes.
 
-> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 7
 
@@ -82,15 +82,15 @@ Når Høyesterett skal treffe avgjørelser som ikke gjelder de enkelte rettssake
 
 I de avgjørelser som er nevnt i [§ 8](lov/1915-08-13-5/§8) annet punktum, skal alle dommere være med, men avgjørelse kan treffes selv om noen av dommerne har forfall.
 
-> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 9 juni 1939 nr. 9, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 8
 
-Høyesteretts domstolleder leder rettens forretninger, fastsetter tiden for dens møter og for behandlingen av sakene og fordeler forretningene mellom rettens medlemmer og i tilfelle dens avdelinger og utvalg. Alminnelige regler om dette kan fastsettes i en forretningsorden.
+Høyesterettsjustitiarius leder rettens forretninger, fastsetter tiden for dens møter og for behandlingen av sakene og fordeler forretningene mellom rettens medlemmer og i tilfelle dens avdelinger og utvalg. Alminnelige regler om dette kan fastsettes i en forretningsorden.
 
-Har domstollederen forfall, gjør eldste dommer tjeneste så lenge ingen annen er oppnevnt.
+Har justitiarius forfall, gjør eldste dommer tjeneste så lenge ingen annen er oppnevnt.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [8 juni 1984 nr. 60](lov/1984-06-08-60), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [8 juni 1984 nr. 60](lov/1984-06-08-60), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 9
 
@@ -104,7 +104,7 @@ Lagmannsrettene skal ha en førstelagmann som leder og så mange lagmenn, lagdom
 
 Førstelagmannen kan tilkalle dommere fra tingrettene i lagdømmet til å ta sete i retten. Når særlige grunner foreligger, kan førstelagmannen også tilkalle dommere ved tingrettene og lagmannsretten i et annet lagdømme dersom de er villige til å gjøre tjeneste. Dette gjelder også for jordskiftelagdommere. Retten kan ikke settes med mer enn en tilkalt dommer eller pensjonist som er konstituert etter [§ 55 f](lov/1915-08-13-5/§55f) uten når en av lagmannsrettens dommere uventet får forfall. I saker hvor retten skal settes med to fagdommere etter [straffeprosessloven § 332](lov/1981-05-22-25/§332) første ledd første punktum, kan ikke retten settes med en tilkalt dommer eller pensjonist som er konstituert etter [§ 55 f](lov/1915-08-13-5/§55f), uten når en av lagmannsrettens dommere uventet får forfall. Til behandling av anke tilkalles ikke dommere fra den tingrett som har behandlet saken i første instans.
 
-> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [21 juni 1935 nr. 8](lov/1935-06-21-8), [26 nov 1954 nr. 1](lov/1954-11-26-1), [16 juni 1989 nr. 64](lov/1989-06-16-64), [24 aug 1990 nr. 54](lov/1990-08-24-54), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513) – se dens V), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [21 juni 1935 nr. 8](lov/1935-06-21-8), [26 nov 1954 nr. 1](lov/1954-11-26-1), [16 juni 1989 nr. 64](lov/1989-06-16-64), [24 aug 1990 nr. 54](lov/1990-08-24-54), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513) – se dens V), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 11
 
@@ -116,9 +116,9 @@ Førstelagmannen kan bemyndige lagmennene til å utføre de forretningene som et
 
 Hvor saksmengden gjør det påkrevet, kan lagmannsretten etter bestemmelse av domstoladministrasjonen deles i avdelinger. I så fall kan det utnevnes en lagmann som leder for hver avdeling. Førstelagmannen fordeler sakene mellom avdelingene og treffer bestemmelse om dommernes tjenestegjøring. Lagmannen fordeler sakene mellom dommerne i avdelingen. Annet og tredje ledd gjelder tilsvarende.
 
-Kongen kan gi nærmere regler om fordelingen av sakene i lagmannsrettene.
+Saker skal fordeles slik at det er tilfeldig hvilken dommer som får den til behandling. Utgangspunktet om tilfeldig saksfordeling kan fravikes dersom saklige grunner tilsier det, herunder for å sikre en rimelig arbeidsfordeling mellom dommerne, eller dersom det er behov for særskilt kompetanse eller erfaring i den enkelte sak. Omfordeling av en sak skal begrunnes skriftlig dersom dommeren som er tildelt saken, motsetter seg omfordelingen.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 12
 
@@ -130,7 +130,7 @@ I vidtløftige saker kan førstelagmannen bestemme at et varamedlem skal følge 
 
 I saker hvor det blir gitt informasjon som etter sikkerhetsloven er skjermingsverdig, skal det alene delta dommere som har nødvendig klarering og er autorisert for den aktuelle sikkerhetsgrad. Nærmere regler om klarering og autorisasjon kan gis av Kongen.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8). [17 des 1982 nr. 88](lov/1982-12-17-88), [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [20 mars 1998 nr. 10](lov/1998-03-20-10) (ikr. 1 juli 2001 iflg. [res. 29 juni 2001 nr. 720](forskrift/2001-06-29-720)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 1 juli 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8). [17 des 1982 nr. 88](lov/1982-12-17-88), [14 juni 1985 nr. 71](lov/1985-06-14-71), [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [20 mars 1998 nr. 10](lov/1998-03-20-10) (ikr. 1 juli 2001 iflg. [res. 29 juni 2001 nr. 720](forskrift/2001-06-29-720)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 1 juli 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
 ### § 13
 
@@ -142,7 +142,7 @@ Avgjørelser og andre forføyninger, som ikke gjelder de enkelte rettssaker, tre
 
 Lagmannsretten settes med meddommere i de tilfælde som straffeprosessloven, tvisteloven og jordskiftelova bestemmer.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [16 juni 1989 nr. 68](lov/1989-06-16-68), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 15
 
@@ -150,7 +150,7 @@ Faar nogen av rettens medlemmer forfald, efterat hovedforhandlingen er begyndt, 
 
 Når lagmannsretten bare er sammensatt av tre fagdommere, kan saksbehandlingen ikke fortsettes om noen av dem får forfall.
 
-> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [14 juni 1985 nr. 71](lov/1985-06-14-71), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [14 juni 1985 nr. 71](lov/1985-06-14-71), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 16
 
@@ -178,19 +178,17 @@ Til å ta sete i retten i en eller flere bestemte saker kan domstolens leder til
 
 Har tingretten flere dommere, fordeler domstolens leder forretningene mellom dem.
 
-Hvor saksmengden gjør det påkrevet, kan tingrettene etter bestemmelse av domstoladministrasjonen deles i avdelinger. I så fall kan det utnevnes en dommer som leder for hver avdeling. Domstolens leder fordeler sakene mellom avdelingene og treffer bestemmelse om dommernes tjenestegjøring. Avdelingslederen fordeler sakene mellom dommerne i avdelingene. Første ledd tredje og fjerde punktum gjelder tilsvarende for avdelingene. Domstolens leder kan bemyndige avdelingsledere til å utføre de oppgaver som etter andre lovbestemmelser er tillagt denne.
+Hvor saksmengden gjør det påkrevet, kan tingrettene etter bestemmelse av domstoladministrasjonen deles i avdelinger. I så fall kan det utnevnes en dommer som leder for hver avdeling. Domstolens leder fordeler sakene mellom avdelingene og treffer bestemmelse om dommernes tjenestegjøring. Avdelingslederen fordeler sakene mellom dommerne i avdelingene. Første ledd annet og tredje punktum gjelder tilsvarende for avdelingene. Domstolens leder kan bemyndige avdelingsledere til å utføre de oppgaver som etter andre lovbestemmelser er tillagt denne.
 
-Kongen kan gi nærmere regler om fordelingen av sakene i tingrettene, herunder om fordelingen mellom rettsstedene.
+Saker skal fordeles slik at det er tilfeldig hvilken dommer som får den til behandling. Utgangspunktet om tilfeldig saksfordeling kan fravikes dersom saklige grunner tilsier det, herunder for å sikre en rimelig arbeidsfordeling mellom dommerne, eller dersom det er behov for særskilt kompetanse eller erfaring i den enkelte sak. Omfordeling av en sak skal begrunnes skriftlig dersom dommeren som er tildelt saken, motsetter seg omfordelingen.
 
-> Endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 20
 
-Kongen kan bestemme, at en eller flere av tingrettenes forretningsgrener skal styres selvstændig av en eller flere av dommerne eller henlægges til særskilte embedsmænd.
-
 Domstoladministrasjonen kan oppnevne en særskilt dommer til en eller flere bestemte straffesaker eller til å styre skjønn, ekspropriasjonssaker eller saker som reises under ett etter [tvisteloven § 4-5](lov/2005-06-17-90/§4-5) første ledd, når det er påkrevet fordi saken er vidløftig eller fordi forretningene bør ledes av samme dommer i flere domssokn. For skjønn, ekspropriasjonssaker og saker etter [tvisteloven § 4-5](lov/2005-06-17-90/§4-5) første ledd kan domstoladministrasjonen oppnevne et varamedlem som skal følge forhandlingene og tre inn i retten om lederen får forfall.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 20 juni 1952 nr. 3, [14 juni 1985 nr. 71](lov/1985-06-14-71), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 20 juni 1952 nr. 3, [14 juni 1985 nr. 71](lov/1985-06-14-71), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [21 des 2007 nr. 127](lov/2007-12-21-127)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 21
 
@@ -200,7 +198,7 @@ I den enkelte sak gjør bare en dommer tjeneste. I vidløftige saker kan domstol
 
 I saker hvor det blir gitt informasjon som etter sikkerhetsloven er skjermingsverdig, skal det alene delta dommere som har nødvendig klarering og er autorisert for den aktuelle sikkerhetsgrad. Nærmere regler om klarering og autorisasjon kan gis av Kongen. Om klarering og autorisasjon av meddommere gjelder [§ 91](lov/1915-08-13-5/§91) første ledd bokstav e.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [26 feb 1960 nr. 1](lov/1960-02-26-1), [14 juni 1985 nr. 71](lov/1985-06-14-71), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [3 mars 2000 nr. 13](lov/2000-03-03-13), [20 mars 1998 nr. 10](lov/1998-03-20-10) (ikr. 1 juli 2001 iflg. [res. 29 juni 2001 nr. 720](forskrift/2001-06-29-720)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), [26 feb 1960 nr. 1](lov/1960-02-26-1), [14 juni 1985 nr. 71](lov/1985-06-14-71), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [3 mars 2000 nr. 13](lov/2000-03-03-13), [20 mars 1998 nr. 10](lov/1998-03-20-10) (ikr. 1 juli 2001 iflg. [res. 29 juni 2001 nr. 720](forskrift/2001-06-29-720)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 22
 
@@ -228,11 +226,11 @@ Dersom ikke staten stiller rettslokale til rådighet, skal vedkommende kommune e
 
 Rettslokalene må være godkjent av domstoladministrasjonen.
 
-Når det er hensiktsmessig, kan rett settes på andre steder.
-
 Dersom ikke staten stiller rettslokale til rådighet for jordskifteretten, skal vedkommende kommune eller kommuner skaffe rettslokale. Andre til fjerde ledd gjelder tilsvarende for lokaler jordskifteretten bruker til rettsmøter.
 
-> Endret ved lover [18 des 1959 nr. 11](lov/1959-12-18-11), [3 juni 1983 nr. 43](lov/1983-06-03-43), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+Saker i tingrettene og jordskifterettene skal behandles ved rettsstedet i den delen av rettskretsen hvor sakene geografisk hører hjemme. Når det er hensiktsmessig, kan saker behandles på andre faste rettssteder i rettskretsen eller rett settes på andre steder enn de faste rettsstedene.
+
+> Endret ved lover [18 des 1959 nr. 11](lov/1959-12-18-11), [3 juni 1983 nr. 43](lov/1983-06-03-43), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [21 des 2020 nr. 173](lov/2020-12-21-173) (ikr. 1 april 2021 iflg. [res. 19 mars 2021 nr. 760](forskrift/2021-03-19-760)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 26. (Opphevet)
 
@@ -256,11 +254,11 @@ Med samtykke fra departementet kan kommunestyret fastsette at forliksrådet skal
 
 Arbeids-, skyss- og kostgodtgjørelse til medlemmene og varamedlemmene fastsettes i samsvar med forskrift gitt av Kongen. For bestemte kommuner kan departementet fastsette at formannen og i tilfelle også de øvrige medlemmene skal ha et midlertidig tilsettingsforhold etter [tjenestemannsloven](lov/1983-03-04-3).1
 
-Den alminnelige namsmannen er sekretariat for forliksrådene i sitt distrikt. Kongen kan ved forskrift gi regler om forholdet mellom forliksrådet og sekretariatet.
+Namsfogden er sekretariat for forliksrådene i sitt distrikt. Kongen kan ved forskrift gi regler om forholdet mellom forliksrådet og sekretariatet.
 
 Kommuner som har samme sekretariat for forliksrådet og dessuten ligger i samme domssogn, kan med tilslutning av minst 2/3 av hver av kommunestyrenes medlemmer beslutte å ha felles forliksråd dersom kommunene samtidig er enige om hvor mange medlemmer og varamedlemmer hver kommune skal velge, og om hvordan det skal sikres at det blant både medlemmene og varamedlemmene er både kvinner og menn. Felles forliksråd kan opprettes uavhengig av funksjonsperioden etter [§ 57](lov/1915-08-13-5/§57).
 
-> Endret ved lover [17 des 1982 nr. 86](lov/1982-12-17-86), [27 juni 1986 nr. 48](lov/1986-06-27-48), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 des 1982 nr. 86](lov/1982-12-17-86), [27 juni 1986 nr. 48](lov/1986-06-27-48), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 28
 
@@ -280,7 +278,7 @@ Naar parterne samtykker, kan Kongen nedsætte overordentlige domstoler til at ut
 
 Naar en overordentlig domstol nedsættes eller naar en særskilt dommer opnævnes efter [§ 20](lov/1915-08-13-5/§20) til at utføre forretninger i flere domssogn, skal det, hvis ikke loven gir regler om det, tillike bestemmes, hvilken domstol skal behandle anke og begjæring om gjenåpning.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 31
 
@@ -324,7 +322,7 @@ Direktøren for domstoladministrasjonen eller den direktøren bemyndiger, har m�
 
 ### § 33 b
 
-Forvaltningsloven og offentleglova gjelder for domstoladministrasjonens virksomhet. Klageinstans for direktørens vedtak er styret og for styrets vedtak Kongen i statsråd.
+[Forvaltningsloven](lov/1967-02-10) og [offentleglova](lov/2006-05-19-16) gjelder for domstoladministrasjonens virksomhet. Klageinstans for direktørens vedtak er styret og for styrets vedtak Kongen i statsråd.
 
 Styret har tilsettingsmyndighet for domstoladministrasjonens stillinger. For lederstillinger utenom stillingen som domstoladministrasjonens direktør, avgir direktøren forslag. For andre stillinger avgis innstillingen fra et innstillingsråd etter tjenestemannsloven.1 Styret kan delegere til direktøren å foreta ansettelser.
 
@@ -338,9 +336,9 @@ Styret fastsetter eventuell stillingsinstruks for direktøren og instruks for sa
 
 Domstoladministrasjonen fremmer forslag til budsjett for domstolene for departementet.
 
-Domstoladministrasjonen fastsetter antall faste dommerstillinger for den enkelte domstol. I tillegg kan det opprettes faste dommerstillinger felles for flere domstoler. Domstoladministrasjonen gir nærmere bestemmelser om organiseringen av disse dommernes tjenester. For Høyesterett fastsetter Kongen antall dommerstillinger.
+Domstoladministrasjonen fastsetter antall faste dommerstillinger for den enkelte domstol. I tillegg kan det opprettes faste dommerstillinger felles for flere domstoler. Domstoladministrasjonen gir nærmere bestemmelser om organiseringen av disse dommernes tjenester.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 33 d
 
@@ -368,23 +366,23 @@ Hvis ikke andet er bestemt, prøver enhver domstol av eget tiltak, om en sak hø
 
 Ved denne prøvelse lægger retten i sivile tvister saksøkerens fremstilling til grund, saalænge det ikke er godtgjort, at den er urigtig. Ellers foretar retten de nødvendige undersøkelser uten at være bundet ved parternes anførsler.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [18 juni 2021 nr. 122](lov/2021-06-18-122) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 570](forskrift/2022-04-08-570)).
 
 ### § 37
 
 Har en domstol tat en sak til behandling, og saken ikke hører under norsk domsmyndighet, kan vedkommende regjeringsdepartement paa det offentliges vegne fremsætte indsigelse og erklære anke til Høiesteret for at faa saksbehandlingen og avgjørelsen kjendt ugyldig. For denne anke gjælder ingen tidsfrist eller ankesum.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 38
 
 Den domstol som en sak er brakt inn for, kan etter søknad fra en part eller av eget tiltak beslutte at saken skal overføres til en annen domstol av samme orden, når særlige grunner gjør det påkrevd eller hensiktsmessig. Domstolen skal gi motparten, eller partene, og den domstol som i tilfelle skal overta saken, anledning til å uttale seg før det treffes beslutning om overføring. Dersom den domstol som i tilfelle skal overta saken, motsetter seg overføring, avgjøres spørsmålet av den domstol som er nærmest overordnet den domstol som saken er brakt inn for, eller av Høyesteretts ankeutvalg dersom saken står for lagmannsretten. Søknad om overføring har bare oppsettende virkning når retten bestemmer det. Beslutninger etter denne paragraf kan ikke angripes.
 
-> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 39. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 40
 
@@ -412,7 +410,7 @@ Enhver domstol, som skal avgjøre en sak, har ret til selv at opta de nødvendig
 
 En granskingskommisjon, et kontrollutvalg eller et annet særskilt organ som er oppnevnt av Kongen, Stortinget eller et departement eller en statsforvalter for å granske faktiske forhold med sikte på å avdekke lovbrudd eller kritikkverdige forhold, kan kreve bevisopptak ved domstolene etter [§ 44](lov/1915-08-13-5/§44). Videre kan et forvaltningsorgan som ledd i forberedelsen av eller kontrollen med enkeltvedtak kreve slikt bevisopptak. Også i de her nevnte tilfelle gjelder reglene om bevisopptak i sivile tvister når ikke annet er bestemt ved lov.
 
-> Endret ved lover 15 nov 1974 nr. 59, [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover 15 nov 1974 nr. 59, [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 44
 
@@ -432,7 +430,7 @@ Hvis den domstol, som har faat en retsanmodning efter [§ 44](lov/1915-08-13-5/�
 
 Finder den ret, som har faat en retsanmodning, at den burde være henvendt til en anden ret eller myndighet, kan den sende anmodningen videre til denne. Herom skal den uten ophold gi meddelelse til den ret, som har stillet anmodningen.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 46
 
@@ -448,7 +446,7 @@ Det, som ovenfor er bestemt, gjælder ikke fuldbyrdelse av utenlandske retsavgj�
 
 EFTA-domstolen kan i samsvar med Avtalen mellom EFTA-statene om opprettelse av et overvåkingsorgan og en domstol protokoll 5 artikkel 25 begjære bevisopptak direkte for den domstol som skal holde bevisopptaket.
 
-> Endret ved lover [13 juni 1975 nr. 39](lov/1975-06-13-39), [1 juni 1979 nr. 24](lov/1979-06-01-24), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
+> Endret ved lover [13 juni 1975 nr. 39](lov/1975-06-13-39), [1 juni 1979 nr. 24](lov/1979-06-01-24), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
 
 ### § 47
 
@@ -460,7 +458,7 @@ Den part, som begjærer bevisoptagelsen, maa stille sikkerhet for omkostningene,
 
 For bevisopptak i straffesak ved utenlandsk myndighet gjelder også [lov 13. juni 1975 nr. 39](lov/1975-06-13-39) om utlevering av lovbrytere m.v. [§ 23 b](lov/1975-06-13-39/§23b).
 
-> Endret ved lover 13 feb 1976 nr. 2, [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
+> Endret ved lover 13 feb 1976 nr. 2, [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
 
 ### § 48
 
@@ -510,7 +508,7 @@ Når en norsk domstol i en sak må ta stilling til tolkningen av Avtalen om Det 
 
 Også domstoler som ikke er nevnt i [§§ 1](lov/1915-08-13-5/§1) og [2](lov/1915-08-13-5/§2) første ledd har adgang til å forelegge tolkningsspørsmål for EFTA-domstolen. Forliksrådene har ikke adgang til å forelegge tolkningsspørsmål for EFTA-domstolen.
 
-> Tilføyd ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## 3dje kapitel. Dommere og rettens øvrige embets- og tjenestemenn.
 
@@ -552,7 +550,7 @@ Tilsettingsmyndigheten kan kreve fremleggelse av uttømmende politiattest i forb
 
 Dommere kan ikke sies opp eller forflyttes mot sin vilje og kan bare avskjediges etter rettergang og dom.
 
-> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [24 aug 1990 nr. 54](lov/1990-08-24-54), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 apr 2004 iflg. [res. 20 feb 2004 nr. 399](forskrift/2004-02-20-399)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Endret ved lover [21 juni 1935 nr. 8](lov/1935-06-21-8), 9 juni 1939 nr. 9, [24 aug 1990 nr. 54](lov/1990-08-24-54), [2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 apr 2004 iflg. [res. 20 feb 2004 nr. 399](forskrift/2004-02-20-399)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 55 a
 
@@ -582,7 +580,7 @@ Kongen kan gi nærmere forskrifter om behandlingen av innstillingssaker.
 
 Reglene i denne paragrafen gjelder ikke for utnevning av høyesterettsjustitiarius.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 55 c
 
@@ -594,7 +592,7 @@ Dersom Kongen vurderer å utnevne en søker som ikke er innstilt, skal det bes o
 
 Midlertidige dommere til Høyesterett, lagmannsrettene, tingrettene og jordskifterettene kan bare konstitueres eller tilsettes i de tilfeller som er nevnt i [§§ 55 e](lov/1915-08-13-5/§55e) til [55 g](lov/1915-08-13-5/§55g).
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 55 e
 
@@ -646,11 +644,11 @@ Innstillingsrådets innstilling uten begrunnelse er offentlig. Det samme gjelder
 
 Domstoladministrasjonen avgjør søknader om permisjon fra faste og midlertidige dommere. Permisjoner med varighet inntil tre måneder avgjøres av domstollederen.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)).
 
 ### § 56
 
-Forliksrådsmedlemmer må ha fylt 25 år. For øvrig gjelder [§ 70](lov/1915-08-13-5/§70) annet ledd nr. 1 om en øvre aldersgrense og §§ 71-74 tilsvarende for forliksrådsmedlemmer.
+Forliksrådsmedlemmer må ha fylt 25 år. For øvrig gjelder [§ 70](lov/1915-08-13-5/§70) annet ledd nr. 1 om en øvre aldersgrense og [§§ 71-74](lov/1915-08-13-5/§71) tilsvarende for forliksrådsmedlemmer.
 
 Som forliksrådsmedlemmer skal bare velges personer som anses særlig egnet til oppgaven, og som behersker norsk skriftlig og muntlig godt.
 
@@ -694,7 +692,7 @@ Den som oppnevnes som medlem eller varamedlem etter denne paragraf, kommer i rek
 
 Alle dommere unntatt meddommere og skjønnsmedlemmer skal gi skriftlig forsikring om at de samvittighetsfullt vil oppfylle sine plikter. Forsikringen sendes til domstoladministrasjonen eller til statsforvalteren for så vidt gjelder forsikring for dommere i forliksrådet. Kongen fastsetter hvordan forsikringen skal lyde.
 
-> Endret ved lover 11 mai 1979 nr. 14, [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved lover 11 mai 1979 nr. 14, [14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 61
 
@@ -720,15 +718,15 @@ Lagmannsrettene skal ha jordskifteteknisk personale.
 
 ### § 63
 
-Hovedstevnevitne er den som er utpekt som namsmann etter [politiloven § 17](lov/1995-08-04-53/§17).
+Namsfogden er hovedstevnevitne i sitt distrikt.
 
-Hjelpestevnevitner for hovedstevnevitnet må godkjennes av tingretten. Ligger avgjørelsen under flere retter, treffes den ved uenighet av domstoladministrasjonen. Med politimesterens samtykke kan det oppnevnes hjelpestevnevitner fra andre lensmannskontorer og politistasjoner i namsmannsdistriktet.
+Hjelpestevnevitner for hovedstevnevitnet må godkjennes av tingretten. Ligger avgjørelsen under flere retter, treffes den ved uenighet av domstoladministrasjonen. Med politimesterens samtykke kan det oppnevnes hjelpestevnevitner fra andre politistasjoner i namsfogddistriktet.
 
 Ved Høyesterett kan det ansettes et eller flere stevnevitner til å utføre forkynnelser i den kommunen der Høyesterett har sete.
 
 Stevnevitner skal avgi forsikring til vedkommende rett om at de samvittighetsfullt vil oppfylle sine plikter som stevnevitne. Kongen fastsetter hvordan forsikringen skal lyde.
 
-> Endret ved lover 14 aug 1918 nr. 4 § 84, [18 juni 1965 nr. 5](lov/1965-06-18-5), 2 mars 1973 nr. 12, [17 des 1982 nr. 86](lov/1982-12-17-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 14 aug 1918 nr. 4 § 84, [18 juni 1965 nr. 5](lov/1965-06-18-5), 2 mars 1973 nr. 12, [17 des 1982 nr. 86](lov/1982-12-17-86), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 63a
 
@@ -738,7 +736,7 @@ Dommere og andre som utfører tjeneste eller arbeid for et dommerkontor plikter 
 
 Paragrafen her gjelder ikke for noe som er kommet frem i et rettsmøte eller en rettsavgjørelse. Taushetsplikten gjelder heller ikke om det som er framkommet i de deler av et saksdokument som allmennheten kan gis innsyn i etter reglene i [tvisteloven kapittel 14](lov/2005-06-17-90/kap14).
 
-> Tilføyd ved lov [16 mai 1986 nr. 21](lov/1986-05-16-21), endret ved lover [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)).
+> Tilføyd ved lov [16 mai 1986 nr. 21](lov/1986-05-16-21), endret ved lover [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)).
 
 ### § 63 b
 
@@ -832,7 +830,7 @@ Dom på samfunnsstraff eller ungdomsstraff medfører utelukkelse etter første l
 
 ### § 73
 
-Kommunen skal kontrollere at ingen velges i strid med §§ 70-72.
+Kommunen skal kontrollere at ingen velges i strid med [§§ 70-72](lov/1915-08-13-5/§70).
 
 For kontroll etter [§ 72](lov/1915-08-13-5/§72) kan det foretas vandelsvurdering etter reglene i [politiregisterloven § 45](lov/2010-05-28-16/§45).
 
@@ -912,7 +910,7 @@ Etter anmodning fra en domstol, kommune eller fylkeskommune skal politiet gi opp
 
 ### § 85
 
-Meddommere og varamedlemmer for meddommere trekkes til den enkelte sak etter reglene i §§ 86-92, med mindre vilkårene for tilkalling etter [§ 93](lov/1915-08-13-5/§93) er til stede.
+Meddommere og varamedlemmer for meddommere trekkes til den enkelte sak etter reglene i [§§ 86](lov/1915-08-13-5/§86)-[92](lov/1915-08-13-5/§92), med mindre vilkårene for tilkalling etter [§ 93](lov/1915-08-13-5/§93) er til stede.
 
 Utfallet av trekningen og de avgjørelser som er truffet etter [§ 91](lov/1915-08-13-5/§91), nedtegnes og oppbevares blant sakens dokumenter.
 
@@ -1044,7 +1042,7 @@ Første gang nogen gjør tjeneste som meddommer, skal rettens leder foreholde ha
 
 Alle tilstedeværende skal reise seg når forsikringen avgis.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 101
 
@@ -1090,7 +1088,7 @@ Rettsvitne godtgjøres etter forskrifter gitt av Kongen. Utgiftene dekkes av det
 
 Avgjørelser om godtgjørelse etter paragrafen her kan ankes etter reglene i [lov av 21. juli 1916 nr. 2](lov/1916-07-21-2) om vidners og sakkyndiges godtgjørelse m.v. [§ 12](lov/1916-07-21-2/§12).
 
-> Tilføyd ved lov [17 des 1982 nr. 86](lov/1982-12-17-86), endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Tilføyd ved lov [17 des 1982 nr. 86](lov/1982-12-17-86), endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [29 juni 1990 nr. 47](lov/1990-06-29-47), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ## 6te kapitel. Ugildhet.
 
@@ -1098,7 +1096,7 @@ Avgjørelser om godtgjørelse etter paragrafen her kan ankes etter reglene i [lo
 
 Ingen kan være dommer:naar han selv er part i saken eller medberettiget, medforpligtet eller regrespligtig i forhold til en part, eller naar han i en straffesak er fornærmet ved den strafbare handling;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskendebarn med nogen, som staar i saadant forhold til saken som nævnt under nr. 1;naar han er eller har været gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til nogen, som staar i saadant forhold til saken som nævnt under nr. 1;når han er verge for noen, som står i slikt forhold til saken som nevnt under nr. 1, eller har vært verge for en part, etter at saken begynte;når han styrer eller er medlem eller varamedlem av styret for et selskap, et samvirkeforetak, en forening, sparebank, stiftelse eller offentlig innretning eller ordfører eller varaordfører i en kommune eller fylkeskommune som står i et slikt forhold til saken som nevnt i nr. 1, eller når han styrer eller er medlem eller varamedlem av styret for et bo som står i slikt forhold til saken, og det ikke er tingretten selv som styrer boet;naar han har handlet i saken for en part, eller for paatalemyndigheten eller den fornærmede;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som handler i saken for en part eller for paatalemyndigheten eller den fornærmede;når han tidligere har hatt med saken å gjøre som voldgiftsdommer eller i lavere rett som dommer eller lagrettemedlem;naar han er i slegt eller svogerskap i op- eller nedstigende linje eller i sidelinjen saa nær som søskende eller gift med eller forlovet med nogen, som har været dommer i saken i lavere ret.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 107
 
@@ -1108,7 +1106,7 @@ Den, som er vidne i saken, kan ikke være dommer, saafremt han har hat noget at 
 
 Hvis en dommer forlanges ført som vidne, men ikke har noget at forklare, som vedkommer saken, kan han avgi forklaring herom fra dommersætet. Under samme betingelse kan retten beslutte, at han skal avgi sin forklaring paa forhaand i et retsmøte, som parterne varsles til. Beslutningen kan ikke angripes.
 
-> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 108
 
@@ -1146,7 +1144,7 @@ Naar en enedommer eller leder av retten er i et tilfælde, som er nævnt i [§ 1
 
 Andre tjenestemænd som er i et saadant tilfælde, skal i tide si fra til rettens leder.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 113
 
@@ -1154,7 +1152,7 @@ Finder en dommer, at han er i en stilling, som gir parterne ret til at kræve ha
 
 Er et rettsvitne, en protokollfører eller en annen embets- eller tjenestemann i sådan stilling, skal han si fra til rettens leder.
 
-> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [14 juni 1985 nr. 71](lov/1985-06-14-71), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [14 juni 1985 nr. 71](lov/1985-06-14-71), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 114. (Opphevet)
 
@@ -1164,7 +1162,7 @@ Er et rettsvitne, en protokollfører eller en annen embets- eller tjenestemann i
 
 Før forhandlingen i den enkelte sak begynner, skal rettens leder gjøre meddommerne opmerksom på, at de er utelukket fra å gjøre tjeneste, hvis de er i noget tilfelle som er nevnt i [§ 106](lov/1915-08-13-5/§106) eller [§ 107](lov/1915-08-13-5/§107), eller hvis der for deres vedkommende foreligger sådanne omstendigheter som omhandlet i [§ 108](lov/1915-08-13-5/§108), og han skal opfordre dem og partene til å si fra, hvis det måtte være tilfellet.
 
-> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
+> Endret ved lover [24 juni 1933 nr. 5](lov/1933-06-24-5), [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [16 juni 2017 nr. 58](lov/2017-06-16-58) (ikr. 1 jan 2018 iflg. [res. 13 okt 2017 nr. 1613](forskrift/2017-10-13-1613)).
 
 ### § 116
 
@@ -1178,7 +1176,7 @@ Reises spørsmål om utelukking forut for det rettsmøte i Høyesterett hvor sak
 
 Også i andre domstoler kan spørsmål om utelukking avgjøres forut for det rettsmøte hvor saken skal behandles. I så fall kan rettens leder treffe avgjørelsen alene dersom retten har flere medlemmer, men det kan også settes alminnelig rett til å avgjøre spørsmålet på forhånd når det kan gjøres uten vesentlig ulempe eller utgift. Er det spørsmål om å utelukke en enedommer eller domstolens leder eller to av domstolens faste medlemmer, kan enedommeren eller lederen beslutte at spørsmålet isteden skal forelegges for den nærmest overordnede domstol, eller for Høyesteretts ankeutvalg dersom saken står for lagmannsretten.
 
-> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [8 juni 1984 nr. 60](lov/1984-06-08-60), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [8 juni 1984 nr. 60](lov/1984-06-08-60), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 118
 
@@ -1194,7 +1192,7 @@ Har en part krevd at alle eller de fleste dommerne ved en domstol skal vike sete
 
 Søkes det om slik overføring etter at en domstol i medhold av bestemmelsene i [§§ 116](lov/1915-08-13-5/§116) til [118](lov/1915-08-13-5/§118) har avgjort at alle dommere ved domstolen eller de fleste av dem er utelukket fra å gjøre tjeneste i en sak, kan den overordnede domstolen oppheve kjennelsen dersom den finner at utelukkelsen er besluttet uten gyldig grunn.
 
-> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127).
+> Endret ved lover [18 juni 1971 nr. 82](lov/1971-06-18-82), [11 juni 1993 nr. 83](lov/1993-06-11-83), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127)).
 
 ### § 120
 
@@ -1204,7 +1202,7 @@ Ellers kan en kjendelse, som avgjør, at nogen er ugild, ikke angripes.
 
 En kjendelse, som negter utelukkelse i de tilfælde, som er nævnt i [§ 110](lov/1915-08-13-5/§110) tredje led, kan heller ikke angripes.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 121
 
@@ -1228,7 +1226,7 @@ Med sidegjøremål forstås medlemskap, verv eller andre engasjementer i eller f
 
 En dommer i Høyesterett, lagmannsrettene, tingrettene og jordskifterettene kan ikke utøve rettshjelp til stadighet eller mot vederlag.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 apr 2004 iflg. [res. 20 feb 2004 nr. 399](forskrift/2004-02-20-399)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 apr 2004 iflg. [res. 20 feb 2004 nr. 399](forskrift/2004-02-20-399)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 121 c
 
@@ -1238,7 +1236,7 @@ Unntatt fra godkjenning ervalg eller oppnevning som foretas av Stortinget eller 
 
 Når Kongen i statsråd foretar oppnevninger etter første ledd jf. annet ledd nr. 1, skal det likevel innhentes uttalelse fra domstoladministrasjonen hvis det ikke gjelder oppnevning til granskingskommisjon eller medlem til styret i domstoladministrasjonen, Tilsynsutvalget eller Innstillingsrådet.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 121 d
 
@@ -1258,7 +1256,7 @@ Unntaket i annet ledd nr. 1 og 2 gjelder ikke for sidegjøremål i ideelle foren
 
 Investeringer som representerer eierinteresser i selskaper, skal registreres dersom de overstiger en grense som fastsettes av Kongen.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 121 f
 
@@ -1310,7 +1308,7 @@ Ved retsmøter forstaaes de møter, som en ret holder til forhandling mellem par
 
 Etter nærmere forskrift gitt av Kongen, skal enhver på forespørsel i alminnelighet gis opplysning om tid og sted for berammede rettsmøter. Kongen kan gi forskrift om at opplysninger som nevnt skal gis ved oppslag ved rettens kontor.
 
-> Endret ved lover [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 123
 
@@ -1318,7 +1316,7 @@ Rettens leder aapner, leder og slutter forhandlingen. Han bestemmer den orden, h
 
 Har retten flere medlemmer, avgjør den samlede ret indsigelser mot lederens procesledelse.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 124
 
@@ -1384,7 +1382,7 @@ I saker etter ekteskapsloven eller barneloven og i saker mellom ektefeller eller
 
 Referatforbud etter første eller annet ledd gjelder til retten beslutter at det skal oppheves. Forbud etter annet ledd bokstav a gjelder aldri lenger enn til dom er avsagt. Forbud etter annet ledd skal oppheves når det antas at grunnen til forbudet ikke lenger er til stede og kan ankes av dem som har vært til stede under forhandlingen.
 
-> Tilføyd ved lov [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 130
 
@@ -1396,7 +1394,7 @@ I saker etter ekteskapsloven eller barneloven og i saker mellom ektefeller eller
 
 Kjennelse som forbyr bruk av opplysninger som nevnt i [straffeprosessloven § 216 i](lov/1981-05-22-25/§216i) første ledd tredje punktum bokstav d første punktum, jf. [§ 216 m](lov/1981-05-22-25/§216m) sjette ledd, som bevis, kan bare gjengis offentlig i anonymisert form.
 
-> Tilføyd ved lov [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)).
+> Tilføyd ved lov [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), endret ved lover [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)).
 
 ### § 131
 
@@ -1446,7 +1444,7 @@ Folk, som forstyrrer forhandlingen eller krænker domstolens værdighet, kan vis
 
 Naar det regnes like med fravær i saken, at en part eller hans stedfortræder eller procesfuldmægtig vises ut eller fratages ordet, bør han først være gjort opmerksom paa denne følge.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 134
 
@@ -1508,7 +1506,7 @@ I rettsferiene løper ikke frister for prosesshandlinger som er nødvendige for 
 
 Retten kan beslutte at fristen skal løpe i rettsferien dersom saken trenger hurtig behandling eller hensynet til partene ikke taler imot. Beslutningen kan ikke angripes. Ved pålegget om prosesshandlingen skal det meddeles parten at det er truffet beslutning om at fristen for handlingen også skal løpe i rettsferien.
 
-> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [24 aug 1990 nr. 54](lov/1990-08-24-54), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 141
 
@@ -1536,13 +1534,13 @@ Kongen kan i forskrift bestemme at det etableres en prøveordning ved enkelte ti
 
 ## 8de kapitel. Frister
 
-> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Overskriften endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 145
 
 Naar denne lov eller lovene om rettergangsmaaten for sivile tvister og i straffesaker eller loven om tvangsfuldbyrdelse har fastsat en frist, som maa gives ved indkaldelse til retsmøte eller til møte for dommer, skal til fristen lægges den tid, som antagelig vil gaa med til at reise fra opholdsstedet til retsstedet og til at forberede reisen.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 146
 
@@ -1586,7 +1584,7 @@ Retten kan forkorte baade de lovbestemte frister og de, den selv har fastsat, hv
 
 Er en part hindret fra at foreta proceshandlingen før utløpet av fristen, kan retten, hvis han begjærer det, forlænge fristen enten fra først av eller under dens løp. Er fristen lovbestemt, kan den bare forlænges, hvis det særlig er bestemt ved lov. At parterne er enige om forlængelse, er ikke avgjørende. En frist, som en gang er forlænget, maa ikke paany forlænges, uten at den anden part saavidt mulig har faat adgang til at uttale sig.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 152
 
@@ -1598,27 +1596,27 @@ Naar følgen bare indtræder efter begjæring, kan en proceshandling foretages o
 
 ### § 153. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 154. (Opphevet)
 
-> Endret ved lov 13 juni 1969 nr. 27, opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov 13 juni 1969 nr. 27, opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 155. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 156. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 157. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 158. (Opphevet)
 
-> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## Kapittel 9. Forkynnelser, meddelelser og elektronisk kommunikasjon
 
@@ -1662,7 +1660,7 @@ Forhåndsinnkalling og dokumenter som nevnt i annet, tredje og fjerde ledd skal 
 
 Det, som skal forkyndes, maa foreligge skriftlig. Det maa være underskrevet og datert, hvis det ikke bare er bilag til et andet skrift.
 
-Et eksemplar av skriftet eller en avskrift av det maa efter reglerne i §§ 162-185 overgives til den, det skal forkyndes for, eller stilles til raadighet for ham. Har nogen ret til at ta imot forkyndelse for flere uten at være deres fælles procesfuldmægtig, skal han ha et eksemplar eller en avskrift for hver av dem.
+Et eksemplar av skriftet eller en avskrift av det maa efter reglerne i [§§ 162](lov/1915-08-13-5/§162)-[185](lov/1915-08-13-5/§185) overgives til den, det skal forkyndes for, eller stilles til raadighet for ham. Har nogen ret til at ta imot forkyndelse for flere uten at være deres fælles procesfuldmægtig, skal han ha et eksemplar eller en avskrift for hver av dem.
 
 ### § 161
 
@@ -1686,7 +1684,7 @@ Det skrift som skal forkynnes kan overgis i lukket omslag. Omslaget må være fo
 
 Offentlige myndigheter som nevnt i annet ledd kan forkynne dokumenter ved direkte oversendelse til den som skal motta forkynningen. Oversendelsen kan enten skje elektronisk ved bruk av en betryggende teknisk løsning som gir bevis for at dokumentet er mottatt av rette vedkommende, ved vanlig brev vedlagt mottakskvittering eller ved rekommandert brev. Forliksrådets dokumenter kan også forkynnes i vanlig brev uten mottakskvittering.
 
-Følgende myndigheter kan foreta forkynning etter første ledd: de alminnelige domstoler, jordskifterettene, Forbrukerklageutvalget, Husleietvistutvalget, Parkeringsklagenemnda, fylkesnemndene for barnevern og sosiale saker, påtalemyndigheten, namsmenn, lensmenn og statsforvaltere.
+Følgende myndigheter kan foreta forkynning etter første ledd: de alminnelige domstoler, jordskifterettene, Forbrukerklageutvalget, Husleietvistutvalget, Parkeringsklagenemnda, fylkesnemndene for barnevern og sosiale saker, påtalemyndigheten, namsfogder og statsforvaltere.
 
 En domstol kan pålegge en klager eller en saksøker å fremskaffe motpartens adresse. Forliksrådet skal foreta en rutinemessig kontroll av klagemotpartens adresse opp mot folkeregisteret eller det elektroniske adresseregisteret til Posten Norge AS.
 
@@ -1696,7 +1694,7 @@ Kongen kan gi nærmere forskrifter om postforkynning.
 
 Kongen kan ved forskrift gi nærmere regler om elektronisk forkynning, herunder om hvilke krav som skal stilles til den tekniske løsningen for at den skal anses som betryggende.
 
-> Tilføyd ved lov [7 juni 1985 nr. 56](lov/1985-06-07-56), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [9 jan 1998 nr. 5](lov/1998-01-09-5), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [4 sep 2015 nr. 90](lov/2015-09-04-90) (ikr. 1 jan 2017 iflg. [res. 25 nov 2016 nr. 1407](forskrift/2016-11-25-1407)), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [19 des 2017 nr. 114](lov/2017-12-19-114) (ikr. 1 jan 2018 iflg. [res. 19 des 2017 nr. 2155](forskrift/2017-12-19-2155)), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [7 juni 1985 nr. 56](lov/1985-06-07-56), endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [9 jan 1998 nr. 5](lov/1998-01-09-5), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [1 des 2006 nr. 65](lov/2006-12-01-65) (ikr. 1 jan 2008 iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348)), [4 sep 2015 nr. 91](lov/2015-09-04-91) (ikr. 1 jan 2016 iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027)), [4 sep 2015 nr. 90](lov/2015-09-04-90) (ikr. 1 jan 2017 iflg. [res. 25 nov 2016 nr. 1407](forskrift/2016-11-25-1407)), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [19 des 2017 nr. 114](lov/2017-12-19-114) (ikr. 1 jan 2018 iflg. [res. 19 des 2017 nr. 2155](forskrift/2017-12-19-2155)), [22 juni 2018 nr. 80](lov/2018-06-22-80) (ikr. 1 sep 2018 iflg. [res. 10 aug 2018 nr. 1229](forskrift/2018-08-10-1229)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 163 b
 
@@ -1774,11 +1772,11 @@ Negter han at ta imot skriftet, kan stevnevidnet lægge det igjen eller lægge d
 
 ### § 175
 
-Den, som faar noget forkyndt paa en andens vegne efter §§ 169-171, skal uten ophold underrette vedkommende om forkyndelsen og overgi skriftet til ham, hvis han kan gjøre det uten utgift eller særlig besvær. Han skal straks si fra, hvis han vet om noget, som kan være til hinder for, at vedkommende i tide faar underretning.
+Den, som faar noget forkyndt paa en andens vegne efter [§§ 169](lov/1915-08-13-5/§169)-[171](lov/1915-08-13-5/§171), skal uten ophold underrette vedkommende om forkyndelsen og overgi skriftet til ham, hvis han kan gjøre det uten utgift eller særlig besvær. Han skal straks si fra, hvis han vet om noget, som kan være til hinder for, at vedkommende i tide faar underretning.
 
 ### § 176
 
-Negter de, som er nævnt i §§ 169-171, at ta imot skriftet paa vedkommendes vegne, eller er de hindret fra at gi underretning, eller findes der ikke nogen, som forkyndelsen kan foregaa for, skal stevnevidnet efterlate i lukket omslag en skriftlig meddelelse om, at skriftet kan hentes paa rettens kontor eller paa nærmeste poststed eller paa et andet høvelig sted.
+Negter de, som er nævnt i [§§ 169](lov/1915-08-13-5/§169)-[171](lov/1915-08-13-5/§171), at ta imot skriftet paa vedkommendes vegne, eller er de hindret fra at gi underretning, eller findes der ikke nogen, som forkyndelsen kan foregaa for, skal stevnevidnet efterlate i lukket omslag en skriftlig meddelelse om, at skriftet kan hentes paa rettens kontor eller paa nærmeste poststed eller paa et andet høvelig sted.
 
 Er det sted, hvor forkyndelsen foregaar, stængt, eller er det av andre grunde hensigtsmæssig, skal stevnevidnet slaa meddelelsen op paa døren eller anbringe den paa anden iøinefaldende maate. Bor der folk i nærheten, bør han tillike underrette etpar av dem om forkyndelsen og opfordre dem til at gjøre vedkommende opmerksom paa den.
 
@@ -1904,7 +1902,7 @@ Forkynnelser og meddelelser om anke mot avgjørelser som avslutter en sak eller 
 
 Når innkalling til et rettsmøte forkynnes for en part personlig, skal hans prosessfullmektig gis meddelelse om møtet.
 
-> Endret ved lover 20 juni 1952 nr. 3, [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513) – se dens V), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 20 juni 1952 nr. 3, [11 juni 1993 nr. 80](lov/1993-06-11-80) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 513](forskrift/1995-06-02-513) – se dens V), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 194
 
@@ -1918,7 +1916,7 @@ Hvis en part ikke her i riket har bopæl eller fast arbeidssted eller forretning
 
 Forpliktelsen varer til saken er avgjort ved rettskraftig dom. Etterkommer parten ikke forpliktelsen, kan forkynningen foregå gjennom rekommandert brev til partens siste kjente adresse, og forkynningen ansees da for utført når brevet er innlevert til tilbyder av posttjenester.
 
-> Endret ved lover [9 jan 1998 nr. 5](lov/1998-01-09-5), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [20 des 2018 nr. 114](lov/2018-12-20-114).
+> Endret ved lover [9 jan 1998 nr. 5](lov/1998-01-09-5), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 des 2018 nr. 114](lov/2018-12-20-114).
 
 ### § 196
 
@@ -1928,7 +1926,7 @@ Naar en part eller hans lovlige stedfortræder eller procesfuldmægtig eller nog
 
 ### § 197
 
-I straffesaker faar bestemmelserne i §§ 193-196 bare anvendelse paa den private saksøker og den fornærmede, som har sluttet sig til forfølgningen.
+I straffesaker faar bestemmelserne i [§§ 193](lov/1915-08-13-5/§193)-[196](lov/1915-08-13-5/§196) bare anvendelse paa den private saksøker og den fornærmede, som har sluttet sig til forfølgningen.
 
 Forkynning av tiltalebeslutning og innkalling til hovedforhandling i straffesaker kan sendes til siktedes offentlig oppnevnte forsvarer med anmodning om at denne forestår forkynning overfor siktede etter reglene i [§ 179](lov/1915-08-13-5/§179).
 
@@ -1978,7 +1976,7 @@ Erstatningssøksmål om en tjenestemanns eller det offentliges ansvar i anlednin
 
 For krav om at staten erstatter sakskostnader på grunn av feil ved rettens behandling, gjelder [tvisteloven § 20-12](lov/2005-06-17-90/§20-12).
 
-> Endret ved lover [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 201
 
@@ -1994,13 +1992,13 @@ Straff av bøter kan også ilegges en part, partshjelper, stedfortreder, prosess
 
 Disse bestemmelser gjælder ikke den sigtede i en sak, som angaar straf, og heller ikke paatalemyndigheten.
 
-> Endret ved lover 25 feb 1927, [1 juni 1934 nr. 3](lov/1934-06-01-3), [20 juli 1991 nr. 66](lov/1991-07-20-66), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 25 feb 1927, [1 juni 1934 nr. 3](lov/1934-06-01-3), [20 juli 1991 nr. 66](lov/1991-07-20-66), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 203
 
 Den, som aapenbart uten grund har erklært anke over kjennelse eller beslutning, kan straffes med bøter. Hvis anken efter loven har opsættende virkning, kan det ogsaa paalægges ham helt eller delvis at erstatte de omkostninger, som er voldt ved utsættelsen. [§ 202](lov/1915-08-13-5/§202) andet led faar tilsvarende anvendelse.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 204
 
@@ -2016,7 +2014,7 @@ Har vidnet faat ny indkaldelse eller opfordring til at møte, og det uteblir igj
 
 Like med uteblivelse uten gyldig fravær regnes det, at et vidne maa vises bort, fordi det er beruset.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 206
 
@@ -2030,25 +2028,25 @@ Straf og erstatningsansvar kan ikke ilægges mer end to ganger, om negtelsen gje
 
 Unnlater eller nekter et vitne å etterkomme et pålegg fra retten om å undersøke registrerte regnskapsopplysninger, regnskapsmateriale, brev eller andre ting eller å gjøre og ta med seg opptegnelser, regnes det likt med uteblivelse uten gyldig fravær.
 
-> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [17 juli 1998 nr. 56](lov/1998-07-17-56) (ikr. 1 jan 1999), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 208
 
 Negter en sakkyndig eller en retstolk at overta hvervet, og han ikke opgir nogen grund eller bare opgir en grund, som er forkastet ved retskraftig kjendelse, eller uteblir han fra et retsmøte uten gyldig fravær eller uten at melde sit fravær i tide, eller forlater han retsstedet uten tilladelse, før møtet er slut, eller gjør han sig skyldig i andet forsømmelig eller utilbørlig forhold, kan han straffes med bøter og paalægges helt eller delvis at erstatte de omkostninger, som er voldt.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 209
 
 Undlater nogen, som ikke er part, at efterkomme et paalæg fra retten om at fremlægge eller gi tilgang til realbevis, og han ikke opgir nogen grund eller bare opgir en grund, som er forkastet ved retskraftig kjendelse, kan han ilægges straf og erstatningsansvar efter samme regler som for negtet vidnesbyrd.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 210
 
 Straf og erstatningsansvar efter [§§ 205](lov/1915-08-13-5/§205), [206](lov/1915-08-13-5/§206), [207](lov/1915-08-13-5/§207) og [209](lov/1915-08-13-5/§209) kan ogsaa ilægges parter og stedfortredere, naar de efter [tvisteloven § 23-1](lov/2005-06-17-90/§23-1) eller [§ 23-2](lov/2005-06-17-90/§23-2) pligter at møte, avgi forklaring eller forsikring, eller naar de efter samme lovs [§ 26-8](lov/2005-06-17-90/§26-8) annet ledd pligter at fremlægge eller gi tilgang til realbevis. Straff etter [§ 206](lov/1915-08-13-5/§206) kan også ilegges en saksøkt som i en sak om tvangsfullbyrdelse eller midlertidig sikring unnlater å gi namsmyndighetene opplysninger som vedkommende er pålagt å gi etter [tvangsfullbyrdelsesloven § 5-7 første ledd](lov/1992-06-26-86/§5-7/ledd/1).
 
-> Endret ved lover 12 juni 1936 nr. 3, [21 des 1956 nr. 8](lov/1956-12-21-8), [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
+> Endret ved lover 12 juni 1936 nr. 3, [21 des 1956 nr. 8](lov/1956-12-21-8), [14 juni 1985 nr. 71](lov/1985-06-14-71), [18 des 1987 nr. 97](lov/1987-12-18-97), [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
 ### § 211
 
@@ -2058,7 +2056,7 @@ Dersom vitner, sakkyndige og rettstolker ved rettsstridig adferd under rettergan
 
 ### § 212
 
-Negter nogen, som er nævnt i §§ 169-171, at ta imot forkyndelse paa en andens vegne, eller undlater han at gjøre det, som paaligger ham efter [§ 175](lov/1915-08-13-5/§175), kan han straffes med bøter og paalægges helt eller delvis at erstatte de omkostninger, som er voldt.
+Negter nogen, som er nævnt i [§§ 169](lov/1915-08-13-5/§169)-[171](lov/1915-08-13-5/§171), at ta imot forkyndelse paa en andens vegne, eller undlater han at gjøre det, som paaligger ham efter [§ 175](lov/1915-08-13-5/§175), kan han straffes med bøter og paalægges helt eller delvis at erstatte de omkostninger, som er voldt.
 
 ### § 213
 
@@ -2066,17 +2064,17 @@ Naar det ikke gjælder dommere, kan enhver ret, som har med saken at gjøre, il�
 
 Dommere kan ilægges saadant ansvar av høiere ret uten særskilt søksmaal eller tiltale.
 
-Hvis de lovbrud, som er nævnt i [§ 200](lov/1915-08-13-5/§200) og §§ 205-212, er begaat ved en anden ret end den, som har hovedsaken til behandling, kan det overlates til den at ilægge erstatningsansvar.
+Hvis de lovbrud, som er nævnt i [§ 200](lov/1915-08-13-5/§200) og [§§ 205](lov/1915-08-13-5/§205)-[212](lov/1915-08-13-5/§212), er begaat ved en anden ret end den, som har hovedsaken til behandling, kan det overlates til den at ilægge erstatningsansvar.
 
-Spørsmål om ansvar i anledning av en sak om tvangsfullbyrdelse eller midlertidig sikring for namsmannen kan bringes inn for tingretten.
+Spørsmål om ansvar i anledning av en sak om tvangsfullbyrdelse eller midlertidig sikring for namsfogden kan bringes inn for tingretten.
 
 Spørsmål om ansvar i anledning av etterforskning kan bringes inn for tingretten på stedet for den påklagede handling, såfremt det ikke er noen annen rett som spørsmålet kan bringes inn for etter foranstående regler.
 
-> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [22 mai 1981 nr. 27](lov/1981-05-22-27), [26 juni 1992 nr. 86](lov/1992-06-26-86), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 214
 
-Straf og erstatning til det offentlige og erstatning til sigtede i en sak, som angaar straf, ilægger retten av eget tiltak eller efter begjæring, men andet erstatningsansvar bare efter begjæring fra den skadelidende. Avgjørelsen træffes i dommen eller i den kjendelse, som avslutter saken, eller naar det ikke gjælder §§ 201-203, ved særskilt kjendelse under saken.
+Straf og erstatning til det offentlige og erstatning til sigtede i en sak, som angaar straf, ilægger retten av eget tiltak eller efter begjæring, men andet erstatningsansvar bare efter begjæring fra den skadelidende. Avgjørelsen træffes i dommen eller i den kjendelse, som avslutter saken, eller naar det ikke gjælder [§§ 201](lov/1915-08-13-5/§201)-[203](lov/1915-08-13-5/§203), ved særskilt kjendelse under saken.
 
 Ogsaa efter sakens slutning kan ansvarsspørsmaalet avgjøres uten særskilt søksmaal eller tiltale, naar det gjælder retsstridig forhold av en procesfuldmægtig, retslig medhjælper eller privat forsvarer overfor parten, og begjæring fremsættes senest en maaned efter sakens slutning.
 
@@ -2108,7 +2106,7 @@ Bringes hovedsaken ind for høiere ret, kan denne helt eller delvis ophæve stra
 
 Ankes en kjendelse, som ilægger nogen straf, fordi han har negtet at efterkomme en retsavgjørelse, kan ankedomstolen ogsaa prøve rigtigheten av den avgjørelse, som ikke er efterkommet.
 
-> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 217 a
 
@@ -2136,7 +2134,7 @@ For behandling av søknader etter første ledd skal saksbehandlingsfrist, som ne
 
 Enhver advokat har rett til å la en autorisert advokatfullmektig opptre for seg i rettergang. Fullmektigen kan ikke opptre for Høyesterett, ved saker som behandles muntlig for lagmannsrett eller ved hovedforhandling for tingrett i saker om straff for forbrytelser som etter loven kan medføre fengsel i mer enn 6 år, uten at vedkommende har tillatelse etter [tvisteloven § 3-3](lov/2005-06-17-90/§3-3) eller [straffeprosessloven § 95](lov/1981-05-22-25/§95) til å opptre ved vedkommende rett. Lagmannsretten kan for den enkelte sak tillate at en advokat opptrer ved autorisert fullmektig ved hovedforhandling i andre saker enn saker om straff for forbrytelser som etter loven kan medføre fengsel i mer enn 6 år. I sivile saker kan fullmektigen opptre for Høyesteretts ankeutvalg når anken gjelder kjennelser og beslutninger avsagt av lagmannsrettene.
 
-> Endret ved lover 20 juni 1952 nr. 3, [4 des 1964 nr. 2](lov/1964-12-04-2), [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juli 1991 nr. 44](lov/1991-07-04-44), [27 nov 1992 nr. 113](lov/1992-11-27-113), [1 sep 1995 nr. 60](lov/1995-09-01-60) (ikr. 1 jan 1997), [17 des 2004 nr. 94](lov/2004-12-17-94) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1647](forskrift/2004-12-17-1647)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84), [30 juni 2006 nr. 51](lov/2006-06-30-51) (ikr. 30 juni 2006 iflg. [res. 30 juni 2006 nr. 771](forskrift/2006-06-30-771)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
+> Endret ved lover 20 juni 1952 nr. 3, [4 des 1964 nr. 2](lov/1964-12-04-2), [14 juni 1985 nr. 71](lov/1985-06-14-71), [4 juli 1991 nr. 44](lov/1991-07-04-44), [27 nov 1992 nr. 113](lov/1992-11-27-113), [1 sep 1995 nr. 60](lov/1995-09-01-60) (ikr. 1 jan 1997), [17 des 2004 nr. 94](lov/2004-12-17-94) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1647](forskrift/2004-12-17-1647)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [30 juni 2006 nr. 51](lov/2006-06-30-51) (ikr. 30 juni 2006 iflg. [res. 30 juni 2006 nr. 771](forskrift/2006-06-30-771)), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [12 mai 2022 nr. 28](lov/2022-05-12-28) (i kraft 1 jan 2025 iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461), endring endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46)).
 
 ### § 220
 
@@ -2168,7 +2166,7 @@ Tilsynsutvalget kan gi en uttalelse om hva som er god dommerskikk, uten at domme
 
 Tilsynsutvalget kan ikke vurdere forhold som kan overprøves etter reglene i rettspleielovgivningen for øvrig.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
 ### § 237
 
@@ -2200,7 +2198,7 @@ Tilsynsutvalget kan gi utvalgets leder eller et annet av utvalgets medlemmer myn
 
 Tilsynsutvalgets vedtak i disiplinærsaker er offentlige i anonymisert form.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
 
 ### § 239
 
@@ -2210,7 +2208,7 @@ Partene i saken kan bringe Tilsynsutvalgets vedtak inn for tingretten ved søksm
 
 Retten kan bare prøve vedtakets lovlighet. Ved prøving av vedtakets lovlighet skal retten ta stilling til om vedtaket er innholdsmessig lovlig, om det er truffet av den myndighet som kreves etter loven her og om det er blitt til på lovlig måte. Ved behandlingen i tingretten og lagmannsretten skal retten settes med meddommere.
 
-> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)) som endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), endring endret ved lov [14 des 2001 nr. 98](lov/2001-12-14-98)), endret ved lov [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 240
 

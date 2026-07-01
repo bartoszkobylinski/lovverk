@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1927-07-01"
-last_change_in_force: "2024-05-24"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "9bf260574342257fd7eee57bb183d9a9317e0bfd5b5325ae4fa599f95560304b"
+xml_hash: "0c532ae017dc13731c8c51570540fb4ebbf851a22586a3a741fcd187deb4eb44"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -356,11 +356,11 @@ For øvrig gjelder [§§ 54 a](lov/1917-06-01-1/§54a) og [54 b](lov/1917-06-01-
 
 ### § 43
 
-I andre saker enn de som er nevnt i [§ 42](lov/1917-06-01-1/§42), avgjøres spørsmålet om dekning av omkostningene etter reglene i [tvisteloven kapittel 20](lov/2005-06-17-90/kap20). Feil begått av en lensmann kan ikke kreves erstattet etter reglene i [tvisteloven § 20-12](lov/2005-06-17-90/§20-12).
+I andre saker enn de som er nevnt i [§ 42](lov/1917-06-01-1/§42), avgjøres spørsmålet om dekning av omkostningene etter reglene i [tvisteloven kapittel 20](lov/2005-06-17-90/kap20).
 
 I saker hvor ingen av partene etter rettens mening kan sies å ha vunnet, avgjør retten i hvilken utstrekning den ene parten helt eller delvis skal erstatte motparten hans nødvendige utgifter i anledning skjønnssaken. Det skal her særlig legges vekt på om parten har avslått et rimelig forlikstilbud og om han ellers har forlangt skjønn uten rimelig grunn.
 
-> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 44. (Opphevet)
 

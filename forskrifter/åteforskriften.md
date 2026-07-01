@@ -10,13 +10,13 @@ ministry:
   - "Klima- og miljødepartementet"
   - "Landbruks- og matdepartementet"
 date_in_force: "2020-01-01"
-last_change_in_force: "2025-06-18"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "8ec0e4cc793a514530eef12b07cf74aedbc26cf48832bb206c3f855e021c9754"
+xml_hash: "2cfd16da81f9ee0a8d2f14c58e22fe3dfe885bed1b44fc77e3990db6e6a8ecad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -29,7 +29,9 @@ Formålet med denne forskriften er å hindre at det oppstår unødig skade på e
 
 ## § 2. Virkeområde
 
-Forskriften gjelder innenfor det stedlige virkeområdet til [lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt (viltloven).
+Forskriften gjelder innenfor det stedlige virkeområdet til [viltressursloven](lov/2025-06-20-102).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 3. Forholdet til annen lovgivning
 
@@ -91,7 +93,9 @@ Statsforvalterens vedtak fattet med hjemmel i [§ 9 annet ledd](forskrift/2019-1
 
 ## § 12. Straff
 
-Overtredelser av bestemmelser gitt i denne forskriften straffes etter [viltloven § 56](lov/1981-05-29-38/§56).
+Overtredelser av bestemmelser gitt i denne forskriften straffes etter [viltressursloven § 60](lov/2025-06-20-102/§60).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 13. Ikrafttredelse
 

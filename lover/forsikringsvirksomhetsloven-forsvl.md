@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2006-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-05"
-xml_hash: "2223bda5d3c60de25bcd562a25e08e65e8e2696c9a09781b787b4991bf1cd032"
+xml_hash: "4a84eaeeb3d6b2b64df8f19c3579a1ad1e9224ed18f82c16c204aac08d2baae7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-27T06:50:25.382483+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32016L2341"
@@ -280,7 +280,7 @@ Eiendeler som motsvarer forsikringskapital knyttet til verdien av særskilte inv
 
 Eiendeler som motsvarer forsikringskapital knyttet til kontraktfastsatte uføre- og etterlatteforpliktelser, skal inngå i kollektivporteføljen selv om midler knyttet til alderspensjonsytelser er plassert i særskilt investeringsportefølje. Dette gjelder likevel ikke når forsikringskapital knyttet til kontraktfastsatte uføre- og etterlatteforpliktelser forvaltes i investeringsvalgporteføljen etter reglene i [foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1).
 
-Eiendeler som ikke inngår i kollektivporteføljen eller investeringsvalgporteføljen, skal inngå i selskapsporteføljen.
+Eiendeler som ikke inngår i kollektivporteføljen eller investeringsvalgporteføljen, skal inngå i selskapsporteføljen. Eiendeler som motsvarer betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a) for å dekke årlig krav til tilførsel til premiereserven, kan inngå i selskapsporteføljen.
 
 Premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond anses her som del av den portefølje de øvrige midler knyttet til kontrakten inngår i, med mindre det følger av kontrakten at midlene i fondet skal plasseres på annen måte.
 
@@ -294,7 +294,7 @@ Finanstilsynet kan, i samsvar med bestemmelsene i denne paragrafen, treffe avgj�
 
 Kongen kan gi forskrift til utfylling av reglene i paragrafen her.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-7). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-7), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 3-12. Forvaltning av porteføljene
 
@@ -308,7 +308,7 @@ Midlene i investeringsvalgporteføljen skal plasseres i særskilte investeringsp
 
 Avkastning ved forvaltning av midler plassert i kollektivporteføljen skal årlig fordeles mellom de kontrakter som omfattes. Fordelingen foretas etter forholdet mellom den forsikringskapital som er knyttet til hver av kontraktene.
 
-Avkastning tilordnet en kontrakt skal etter fradrag for tilordning i samsvar med beregningsgrunnlaget for kontrakten og i tilfelle avsetning til bufferfond etter [§ 3-19](lov/2005-06-10-44/§3-19), tilordnes kontrakten som overskudd på avkastningsresultatet. Tilsvarende gjelder tilordning av avkastning av midler som svarer til premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond. Avkastning av midler i risikoutjevningsfondet tilordnes dette fondet.
+Avkastning tilordnet en kontrakt skal etter fradrag for tilordning i samsvar med beregningsgrunnlaget for kontrakten, reduksjon av betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a) og i tilfelle avsetning til bufferfond etter [§ 3-19](lov/2005-06-10-44/§3-19), tilordnes kontrakten som overskudd på avkastningsresultatet. Tilsvarende gjelder tilordning av avkastning av midler som svarer til premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond og reguleringsfond. Avkastning av midler i risikoutjevningsfondet tilordnes dette fondet.
 
 Avkastning ved forvaltning av midler plassert i særskilt investeringsportefølje skal årlig tilordnes den kontrakt porteføljen er knyttet til. Er det knyttet avkastningsgaranti til en investeringsportefølje, skal garantert avkastning som ikke dekkes av oppnådd avkastning, dekkes av forsikringsforetaket. Tilsvarende gjelder tilordning av avkastning av midler i premiefond, innskuddsfond, pensjonistenes overskuddsfond, pensjonsreguleringsfond eller reguleringsfond forvaltet i særskilt investeringsportefølje.
 
@@ -318,7 +318,7 @@ Eiendelene skal verdsettes i samsvar med de regler som er gitt i årsregnskapsfo
 
 Kongen kan i forskrift gi nærmere regler om verdivurdering av eiendeler.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-9), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-9), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 3-14. Overskudd på risikoresultat
 
@@ -382,7 +382,13 @@ Midler som er avsatt til bufferfond, kan i et senere år tilordnes kontrakten so
 
 ### § 3-19 a. Betinget egenkapitalbidrag for kontraktsfastsatte forpliktelser
 
-> **Tilføyes** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+Hvis avkastningen tilordnet en kontrakt i kollektivporteføljen i et år er negativ eller ikke er stor nok til å dekke det årlige kravet til økning i premiereserven etter premieberegningsgrunnlaget, og kravet heller ikke kan oppfylles ved bruk av bufferfond tilordnet kontrakten, kan kravet oppfylles ved betinget egenkapitalbidrag fra foretaket.
+
+For kontrakter som har fått tilført betinget egenkapitalbidrag, skal foretaket benytte hele eller deler av tilført avkastning utover tilordning i samsvar med beregningsgrunnlaget for kontrakten til økning av premiereserven og tilsvarende reduksjon av betinget egenkapitalbidrag.
+
+Ved gjenkjøp eller opphør av kontrakten skal egenkapitalbidraget anses som tilført med endelig virkning.
+
+> Tilføyd ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 3-20. Premie- og innskuddsfond mv.
 
@@ -662,7 +668,7 @@ En pensjonsinnretning som har en eller flere fellesordninger skal føre regnskap
 
 Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensning av reglene i kapitlet her.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved lover [15 juni 2007 nr. 29](lov/2007-06-15-29) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 649](forskrift/2007-06-15-649)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-1.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved lover [15 juni 2007 nr. 29](lov/2007-06-15-29) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 649](forskrift/2007-06-15-649)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-1).
 
 ### § 5-2. Årets premier
 
@@ -670,7 +676,7 @@ Departementet kan gi nærmere regler til utfylling, gjennomføring og avgrensnin
 
 Premier beregnes etter [§ 5-3](lov/2005-06-10-44/§5-3) hvis ikke noe annet følger av reglene i [§§ 5-4](lov/2005-06-10-44/§5-4) og [5-5](lov/2005-06-10-44/§5-5) om fellesordning for premieberegning.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-2.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-2).
 
 ### § 5-3. Premieberegning
 
@@ -680,7 +686,7 @@ Pensjonsordningen skal i tillegg hvert år tilføres premie til dekning av oppre
 
 Pensjonsordningen skal også hvert år tilføres premie til dekning av pensjonsrettigheter som medlemmene i tilfelle får i løpet av året, og som ikke kan premiesettes på forhånd ut fra forsikringstekniske beregninger. Slik premie beregnes på det tidspunkt pensjonsrettighetene oppstår.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-3.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-3).
 
 ### § 5-4. Vilkår for fellesordning for premieberegning
 
@@ -690,7 +696,7 @@ Alle pensjonsordningene i en fellesordning skal ha pensjonsplaner som gir samme 
 
 Pensjonsordninger med pensjonsplaner som gir forskjellig ytelsesnivå for alderspensjon, kan inngå i samme fellesordning.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-4.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-4).
 
 ### § 5-5. Premieberegning i fellesordninger
 
@@ -706,13 +712,13 @@ Reguleringspremie for pensjoner under utbetaling skal beregnes og betales særsk
 
 Det skal fastsettes i forsikringsavtalen i hvilken utstrekning premier som nevnt i [§ 5-3](lov/2005-06-10-44/§5-3) tredje ledd skal beregnes særskilt for hver pensjonsordning eller helt eller delvis ved gjennomsnittsberegning som nevnt i første ledd.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-5.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-5).
 
 ### § 5-6. Eldre arbeidstakere
 
 Alle pensjonsordninger i en fellesordning skal ha samme regler om opptak av medlemmer som har mindre enn 10 år igjen til pensjonsalderen, og om rett til pensjon og medregning av tidligere tjenestetid for slike arbeidstakere når de er opptatt som medlemmer, jf. [foretakspensjonsloven § 3-9](lov/2000-03-24-16/§3-9) annet og tredje ledd, jf. [§ 5-6](lov/2000-03-24-16/§5-6) første ledd bokstav c.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-6.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-6).
 
 ### § 5-7. Innbetaling av premie
 
@@ -720,7 +726,7 @@ Blir premie for et forsikringsår ikke innbetalt ved årets utgang eller ved utl
 
 Departementet kan ved forskrift fastsette nærmere regler om innbetaling av premie.
 
-> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350)), tidligere § 10A-7.
+> Tilføyd ved [lov 30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 10A-7).
 
 ## Kapittel 6. Flytting
 
@@ -754,11 +760,11 @@ Gjelder flyttingen et foretak som har felles pensjonsordning med ett eller flere
 
 Arbeidstakernes og pensjonistenes rettigheter etter flyttingen skal fastsettes i regelverket for den nye pensjonsordningen.
 
-Det nye regelverket kan ikke inneholde bestemmelser som innebærer reduksjon av arbeidstakeres rett til opptjent pensjon med tilhørende premiereserve eller til opptjent pensjonskapital. Pensjonister skal sikres pensjonsytelser med tilhørende premiereserve eller pensjonskapital som minst tilsvarer den rett til ytelser som gjaldt før flyttingen.
+Det nye regelverket kan ikke inneholde bestemmelser som innebærer reduksjon av arbeidstakeres rett til opptjent pensjon med tilhørende premiereserve eller til opptjent pensjonskapital. Pensjonister skal sikres pensjonsytelser med tilhørende premiereserve eller pensjonskapital som minst tilsvarer den rett til ytelser som gjaldt før flyttingen. Retten til opptjent pensjon og pensjonsytelser etter bestemmelsen her kan sikres ved betinget egenkapitalbidrag etter [§ 3-19 a](lov/2005-06-10-44/§3-19a).
 
 Bestemmelsene i paragrafen her er ikke til hinder for at regelverket for pensjonsordningen endres etter ellers gjeldende regler med virkning for opptjening av pensjon ved tjenestetid etter flyttingen, og heller ikke for at pensjonsordningens midler etter flyttingen forvaltes helt eller delvis som egen investeringsportefølje etter ellers gjeldende regler.
 
-> Endret ved [lov 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-3). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved [lover 10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-3), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 6-4. Medlemmenes uttalerett mv.
 
@@ -796,11 +802,11 @@ En ytelsesbasert pensjonsordnings midler omfatter premiereserve til sikring av o
 
 I pensjonsordninger med innskuddspensjon omfatter pensjonsordningens midler pensjonskapitalen og innskuddsfondet, samt pensjonsordningens andel av overskudd i flytteåret.
 
-Ved flytting overføres den forsikringskapital som er knyttet til pensjonsordningen beregnet på tidspunktet for oppsigelsestidens utløp. Pensjonsordningens andel av overskudd i flytteåret frem til tidspunktet for oppsigelsestidens utløp omfattes også.
+Ved flytting overføres den forsikringskapital som er knyttet til pensjonsordningen beregnet på tidspunktet for oppsigelsestidens utløp. Pensjonsordningens andel av overskudd i flytteåret frem til tidspunktet for oppsigelsestidens utløp omfattes også. Betingede egenkapitalbidrag i samsvar med [§ 3-19 a](lov/2005-06-10-44/§3-19a) omfattes ikke.
 
 Forvaltes pensjonsordningens midler i egen eller egne investeringsporteføljer, legges markedsverdien av porteføljen ved utløpet av oppsigelsesfristen til grunn ved verdiberegningen. Dette gjelder også avkastnings- og verdisikringsgarantier knyttet til porteføljene. [Foretakspensjonsloven § 11-1](lov/2000-03-24-16/§11-1) fjerde ledd gjelder tilsvarende.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-7), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 jan 2027 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-7), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juni 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 jan 2027 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
 
 ### § 6-8. Premiereserve for uføreytelser
 
@@ -828,13 +834,13 @@ Overført premiereserve skal anvendes til sikring av medlemmenes og pensjonisten
 
 Bufferfond, pensjonistenes overskuddsfond og premiefond skal etter overføringen fortsatt være en del av pensjonsordningens midler og anvendes etter ellers gjeldende regler.
 
-Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene til de enkelte medlemmer eller pensjonister etter beregningsgrunnlaget i pensjonsinnretningen det flyttes til, skal manglende premiereserve tilføres fra premiefondet. Resten dekkes i tilfelle ved overført bufferfond eller ved overføringer fra foretaket.
+Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene til de enkelte medlemmer eller pensjonister etter beregningsgrunnlaget i pensjonsinnretningen det flyttes til, skal manglende premiereserve tilføres fra premiefondet. Er overført premiereserve og premiefond ikke tilstrekkelig til å sikre rettighetene etter det nye beregningsgrunnlaget, skal manglende premiereserve dekkes ved overført bufferfond, eventuelt betinget egenkapitalbidrag fra pensjonsinnretningen det flyttes til eller ved overføringer fra foretaket.
 
 Er overført premiereserve knyttet til medlemmenes og pensjonistenes rett til opptjent pensjon større enn nødvendig for å sikre deres rettigheter etter beregningsgrunnlaget i pensjonsinnretningen det flyttes til, skal overskytende premiereserve benyttes til engangspremie for tillegg til pensjonsytelsene. I kommunale pensjonsordninger skal overskytende premiereserve overføres til premiefondet.
 
 Pensjonskapital og innskuddsfond i pensjonsordning med innskuddspensjon skal etter overføringen forvaltes i samsvar med det nye regelverket for pensjonsordningen og det beregningsgrunnlag dette i tilfelle bygger på.
 
-> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-10), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-10), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 6-11. Flytting av pensjonsrettigheter utgått fra kollektive pensjonsordninger
 
@@ -856,9 +862,9 @@ Den som har rett til pensjonsrettigheter knyttet til fripolise, pensjonsbevis el
 
 Bestemmelsene om formkrav til oppsigelse i [§ 6-5](lov/2005-06-10-44/§6-5) første ledd annet og tredje punktum, risikoovergang i [§ 6-5](lov/2005-06-10-44/§6-5) tredje ledd, samt oppgjørsfrist i [§ 6-6](lov/2005-06-10-44/§6-6) gjelder tilsvarende.
 
-Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7), [6-8](lov/2005-06-10-44/§6-8), [6-9](lov/2005-06-10-44/§6-9) og [6-10](lov/2005-06-10-44/§6-10) første, annet, fjerde og femte ledd tilsvarende. Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved overført bufferfond.
+Ved beregning, oppgjør og anvendelse av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7), [6-8](lov/2005-06-10-44/§6-8), [6-9](lov/2005-06-10-44/§6-9) og [6-10](lov/2005-06-10-44/§6-10) første, annet, fjerde og femte ledd tilsvarende. Er overført premiereserve ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved overført bufferfond. Er overført premiereserve og bufferfond ikke tilstrekkelig til å sikre rettighetene etter en fripolise, skal manglende premiereserve dekkes ved betinget egenkapitalbidrag fra pensjonsinnretningen det flyttes til.
 
-> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)). [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-13), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [14 mars 2008 nr. 6](lov/2008-03-14-6) (ikr. 14 mars 2008 iflg. [res. 14 mars 2008 nr. 250](forskrift/2008-03-14-250)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)). [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-13), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ### § 6-14. Flytting av individuelle pensjonsavtaler
 
@@ -868,13 +874,13 @@ Bestemmelsene om formkrav til oppsigelse i [§ 6-5](lov/2005-06-10-44/§6-5) fø
 
 Ved beregningen av de midler som skal overføres, gjelder bestemmelsene i [§§ 6-7](lov/2005-06-10-44/§6-7) og [6-8](lov/2005-06-10-44/§6-8). Oppgjør foretas etter reglene i [§ 6-9](lov/2005-06-10-44/§6-9).
 
-Overførte midler skal anvendes til å sikre rettighetene etter den nye pensjonsavtalen etter reglene i [§ 6-10](lov/2005-06-10-44/§6-10) første og annet ledd. Er premiereserve for pensjonsforsikring ikke tilstrekkelig til å sikre rettighetene etter den nye kontrakten, kan resten dekkes ved overføring fra premiefondet eller i tilfelle fra bufferfond knyttet til forsikringen. Overskytende premiereserve benyttes til å øke ytelsene, med mindre forsikringstakeren krever at midlene skal overføres til premiefond.
+Overførte midler skal anvendes til å sikre rettighetene etter den nye pensjonsavtalen etter reglene i [§ 6-10](lov/2005-06-10-44/§6-10) første og annet ledd. Er premiereserve for pensjonsforsikring ikke tilstrekkelig til å sikre rettighetene etter den nye kontrakten, kan resten dekkes ved overføring fra premiefondet eller i tilfelle fra bufferfond knyttet til forsikringen. Er premiereserve for pensjonsforsikring, overføring fra premiefond og bufferfond knyttet til forsikringen ikke tilstrekkelig til å sikre rettighetene etter den nye kontrakten, skal manglende premiereserve dekkes ved betinget egenkapitalbidrag fra pensjonsinnretningen det flyttes til. Overskytende premiereserve benyttes til å øke ytelsene, med mindre forsikringstakeren krever at midlene skal overføres til premiefond
 
 Person som er oppnevnt som begunstiget under pensjonsavtalen, skal underrettes om flyttingen.
 
 For individuelle pensjonsavtaler kan avgivende pensjonsinnretning ta forbehold om at det skal beregnes et fradrag i premiereserven (seleksjonsfradrag). Slikt fradrag kan bare kreves dersom den pensjonsinnretningen kontrakten flyttes til, legger til grunn ny helseprøving av forsikrede. Departementet kan gi nærmere regler.
 
-> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-14), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Endret ved lover [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 1 juli 2009 for annet ledd, ikr. 1 okt 2009 for første ledd iflg. [res. 19 juni 2009 nr. 693](forskrift/2009-06-19-693)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 11-14), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341), se forskrift for overgangsregel).
 
 ## Kapittel 7. Skadeforsikring
 

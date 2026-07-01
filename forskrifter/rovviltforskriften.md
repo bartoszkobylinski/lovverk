@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2005-04-01"
-last_change_in_force: "2026-05-28"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-04-12"
-xml_hash: "564b974e3bb940db7dfd2a79a7b83537be42bdb085ee1e04aeacdebdaea6a8a1"
+xml_hash: "863b65e5ab3b6c8f3263a8c899d2476e2c8c1579c705b233fb0171e97f76724e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-02T08:26:01.859598+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,9 +32,9 @@ Forskriften skal sikre en forvaltning som vektlegger forutsigbarhet og lokal med
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med*Betinget skadefelling:* Vedtak med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) om felling av enkeltindivider av rovvilt for å stanse eller forhindre skader på husdyr, tamrein eller annen eiendom som nevnt i loven [§ 18](lov/2009-06-19-100/§18) første ledd b), der det på forhånd er fastsatt kvote og vilkår av overordnet myndighet.*Bufe:* Sau, geit, storfe og hest.*Familiegruppe av ulv:* Minst tre ulver som opptrer i følge innenfor et revir, hvorav minst ett individ markerer revir regelmessig, og yngling er påvist minst en gang i de siste to år.*Ulvesone:* området som består av:Oslo kommune,følgende deler av Akershus fylke: kommunene Aurskog-Høland, Bærum, Enebakk, Frogn, Lørenskog, Nesodden, Nordre Follo, Rælingen, Vestby og Ås, Asker kommune med unntak av de deler som tidligere utgjorde Hurum og Røyken kommuner, de deler som ligger øst for Glomma av kommunene Nes og Lillestrøm, og Nittedal vest for Nitelva,følgende deler av Innlandet fylke: Eidskog kommune, samt de deler av Elverum, Grue, Kongsvinger, Sør-Odal, Våler, Åmot og Åsnes kommuner som ligger øst for Glomma og de deler av Trysil kommune som ligger sør for en rett linje fra der Senna renner ut i Trysilelva til der kommunegrensen mellom Trysil og Engerdal gjør en vinkel ved Litlskorhøa, ogØstfold fylke.*Irregulær avgang av rovvilt:* Menneskeskapt avgang som påkjørsler, ulovlige fellinger, nødverge, særskilte fellinger og lignende.*Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltloven § 9](lov/1981-05-29-38/§9), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), der kvoten er fastsatt av offentlig myndighet.*Lisensfelling:* Felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) og c), der kvoten er fastsatt av offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å kunne delta.*Nasjonalt overvåkingsprogram:* Et særskilt bestandsovervåkingsprogram for rovvilt der rovviltforekomst og ynglinger estimeres samlet for Norge og fordelt på nærmere bestemte regioner i samsvar med fastsatt metodikk.*Revirmarkerende par av ulv:* To stasjonære ulver av ulikt kjønn som regelmessig markerer revir sammen, og hvor løpeblod i tispas urin er registrert.*Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.*Rovviltnemnd:* Offentlig viltorgan opprettet i medhold av [viltloven § 4](lov/1981-05-29-38/§4) med ansvar for forvaltning av gaupe, jerv, bjørn og ulv i en region.*Tamrein:* Rein som inngår i reindrift som drives i samsvar med reindriftslovens bestemmelser. Rein som eies av Rendalen Renselskap omfattes ikke.*Årlig yngling:* Yngling som er godkjent av Nasjonalt overvåkingsprogram for rovvilt.
+I denne forskrift forstås med*Betinget skadefelling:* Vedtak med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) om felling av enkeltindivider av rovvilt for å stanse eller forhindre skader på husdyr, tamrein eller annen eiendom som nevnt i loven [§ 18](lov/2009-06-19-100/§18) første ledd b), der det på forhånd er fastsatt kvote og vilkår av overordnet myndighet.*Bufe:* Sau, geit, storfe og hest.*Familiegruppe av ulv:* Minst tre ulver som opptrer i følge innenfor et revir, hvorav minst ett individ markerer revir regelmessig, og yngling er påvist minst en gang i de siste to år.*Ulvesone:* området som består av:Oslo kommune,følgende deler av Akershus fylke: kommunene Aurskog-Høland, Bærum, Enebakk, Frogn, Lørenskog, Nesodden, Nordre Follo, Rælingen, Vestby og Ås, Asker kommune med unntak av de deler som tidligere utgjorde Hurum og Røyken kommuner, de deler som ligger øst for Glomma av kommunene Nes og Lillestrøm, og Nittedal vest for Nitelva,følgende deler av Innlandet fylke: Eidskog kommune, samt de deler av Elverum, Grue, Kongsvinger, Sør-Odal, Våler, Åmot og Åsnes kommuner som ligger øst for Glomma og de deler av Trysil kommune som ligger sør for en rett linje fra der Senna renner ut i Trysilelva til der kommunegrensen mellom Trysil og Engerdal gjør en vinkel ved Litlskorhøa, ogØstfold fylke.*Irregulær avgang av rovvilt:* Menneskeskapt avgang som påkjørsler, ulovlige fellinger, nødverge, særskilte fellinger og lignende.*Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), der kvoten er fastsatt av offentlig myndighet.*Lisensfelling:* Felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) og c), der kvoten er fastsatt av offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å kunne delta.*Nasjonalt overvåkingsprogram:* Et særskilt bestandsovervåkingsprogram for rovvilt der rovviltforekomst og ynglinger estimeres samlet for Norge og fordelt på nærmere bestemte regioner i samsvar med fastsatt metodikk.*Revirmarkerende par av ulv:* To stasjonære ulver av ulikt kjønn som regelmessig markerer revir sammen, og hvor løpeblod i tispas urin er registrert.*Rovvilt:* Gaupe, jerv, bjørn, ulv og kongeørn.*Rovviltnemnd:* Offentlig organ opprettet i medhold av [viltressursloven § 6](lov/2025-06-20-102/§6) med ansvar forvaltning av gaupe, jerv, bjørn og ulv i en region.*Tamrein:* Rein som inngår i reindrift som drives i samsvar med reindriftslovens bestemmelser. Rein som eies av Rendalen Renselskap omfattes ikke.*Årlig yngling:* Yngling som er godkjent av Nasjonalt overvåkingsprogram for rovvilt.
 
-> Endret ved [forskrifter 21 feb 2006 nr. 231](forskrift/2006-02-21-231) (i kraft 1 april 2006), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [6 juni 2017 nr. 705](forskrift/2017-06-06-705), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [28 mai 2026 nr. 939](forskrift/2026-05-28-939).
+> Endret ved [forskrifter 21 feb 2006 nr. 231](forskrift/2006-02-21-231) (i kraft 1 april 2006), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [6 juni 2017 nr. 705](forskrift/2017-06-06-705), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [28 mai 2026 nr. 939](forskrift/2026-05-28-939), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 2. Bestandsmål, forvaltningsregioner og rovviltnemnder
 
@@ -64,9 +64,9 @@ Fylkestingene skal foreslå en kvinnelig og en mannlig kandidat for hvert medlem
 
 Oppnevningsperioden for medlemmene følger valgperioden for fylkestinget og Sametinget. Rovviltnemnden velger leder.
 
-Miljødirektoratet avgjør hvilket statsforvalterembete som skal være sekretariat for den enkelte rovviltnemnd. Miljødirektoratet gir nærmere veiledning og retningslinjer for rovviltnemndens og sekretariatets virksomhet, herunder om samarbeid over regiongrenser, jf. [viltloven § 6](lov/1981-05-29-38/§6) annet ledd.
+Miljødirektoratet avgjør hvilket statsforvalterembete som skal være sekretariat for den enkelte rovviltnemnd. Miljødirektoratet gir nærmere veiledning og retningslinjer for rovviltnemndens og sekretariatets virksomhet, herunder om samarbeid over regiongrenser, jf. [viltressursloven § 6 andre ledd](lov/2025-06-20-102/§6/ledd/2).
 
-> Endret ved [forskrifter 24 sep 2010 nr. 1300](forskrift/2010-09-24-1300), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 24 sep 2010 nr. 1300](forskrift/2010-09-24-1300), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 3. Forvaltningsplan, myndighet og jakt- og fellingsformer
 
@@ -106,9 +106,9 @@ Statsforvalteren kan av eget tiltak eller etter søknad fatte vedtak om iverkset
 
 Ved vurderingen av om det skal gis tillatelse til skadefelling skal det legges vekt på føringene i regional forvaltningsplan, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6). Felling kan bare gjennomføres dersom det ikke finnes annen tilfredsstillende løsning ut fra prinsippet om geografisk differensiert forvaltning. Det skal særlig tas hensyn tilområdets betydning som beitemarkskadenes omfang og utviklingpotensialet for fremtidige skadermuligheten for å gjennomføre forebyggende tiltak.
 
-Felling skal være rettet mot bestemte individer. Vedtak om felling skal være begrenset til et bestemt område, tidsrom og antall dyr. Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at bestemte typer dyr skal være unntatt, at felling skal foretas av nærmere bestemte personer, samt metoder for felling. Det kan også gis bestemmelser om dekning av påløpte utgifter i forbindelse med felling. Felling og forsøk på felling i henhold til denne bestemmelsen gjennomføres uavhengig av grunneiers jaktrett, jf. [viltloven § 35](lov/1981-05-29-38/§35).
+Felling skal være rettet mot bestemte individer. Vedtak om felling skal være begrenset til et bestemt område, tidsrom og antall dyr. Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at bestemte typer dyr skal være unntatt, at felling skal foretas av nærmere bestemte personer, samt metoder for felling. Bruk av metoder for felling som i utgangspunktet er forbudt etter [Bernkonvensjonen](traktat/1971-07-24-1), forutsetter at det ikke vil være skadelig for bestandens overlevelse og at det ikke er noen annen tilfredsstillende løsning. Formålet med bruken av metoden må være for enten å verne flora og fauna, for å avverge alvorlig skade på avling, husdyr, tamrein, skog, fiske, vann eller andre former for eiendom. Metoder for felling kan også avgrenses av hensyn til arten som skal felles, øvrig vilt, dyrevelferd, økonomi, påvirkning på naturmangfold, allmenn sikkerhet eller andre offentlige interesser av vesentlig betydning. Det kan også gis bestemmelser om dekning av påløpte utgifter i forbindelse med felling. Felling og forsøk på felling i henhold til denne bestemmelsen gjennomføres uavhengig av grunneiers jaktrett, jf. [viltressursloven § 33](lov/2025-06-20-102/§33).
 
-> Endret ved [forskrifter 28 aug 2008 nr. 965](forskrift/2008-08-28-965) (med virkning fra 1 juni 2008 til 31 des 2009), [16 des 2008 nr. 1373](forskrift/2008-12-16-1373) (med virkning til 31 des 2009), [14 sep 2011 nr. 934](forskrift/2011-09-14-934) (i kraft 1 okt 2011), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021).
+> Endret ved [forskrifter 28 aug 2008 nr. 965](forskrift/2008-08-28-965) (med virkning fra 1 juni 2008 til 31 des 2009), [16 des 2008 nr. 1373](forskrift/2008-12-16-1373) (med virkning til 31 des 2009), [14 sep 2011 nr. 934](forskrift/2011-09-14-934) (i kraft 1 okt 2011), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 9a. Godtgjøring ved fellingsforsøk
 
@@ -130,23 +130,23 @@ Rovviltnemnden kan til enhver tid endre eget vedtak om kvote for lisensfelling d
 
 Fellingsperioden er for:a. gaupe:1. februar til og med 31. marsb. jerv:20. august til og med 15. februarc. bjørn:21. august til og med 15. oktoberd. ulv innenfor ulvesonen:1. januar til og med 15. februare. ulv utenfor ulvesonen:1. desember til og med 31. mai.
 
-Rovviltnemnden kan fastsette en kortere fellingsperiode dersom særlige forhold tilsier det. Det kan ikke utøves lisensfelling i de fredningsperioder som [viltloven § 10](lov/1981-05-29-38/§10) fastsetter.
+Rovviltnemnden kan fastsette en kortere fellingsperiode dersom særlige forhold tilsier det. Det kan ikke utøves lisensfelling i de fredningsperioder som [viltressursloven § 13](lov/2025-06-20-102/§13) fastsetter.
 
 Vedtak etter denne paragraf skal avgrense fellingsområder, bestemme antall dyr som kan felles, eventuell fordeling på kjønn og alder og om bestemte typer dyr skal være unntatt, samt nærmere vilkår for gjennomføring av lisensfellingen i samsvar med regional forvaltningsplan for rovvilt, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6).
 
-> Endret ved [forskrifter 6 juli 2011 nr. 748](forskrift/2011-07-06-748), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [14 feb 2017 nr. 180](forskrift/2017-02-14-180), [6 juni 2017 nr. 705](forskrift/2017-06-06-705), [7 mars 2019 nr. 252](forskrift/2019-03-07-252), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [17 aug 2022 nr. 1452](forskrift/2022-08-17-1452).
+> Endret ved [forskrifter 6 juli 2011 nr. 748](forskrift/2011-07-06-748), [20 juni 2016 nr. 725](forskrift/2016-06-20-725), [14 feb 2017 nr. 180](forskrift/2017-02-14-180), [6 juni 2017 nr. 705](forskrift/2017-06-06-705), [7 mars 2019 nr. 252](forskrift/2019-03-07-252), [12 okt 2020 nr. 2036](forskrift/2020-10-12-2036), [17 aug 2022 nr. 1452](forskrift/2022-08-17-1452), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 11. Kvote for jakt på gaupe
 
-Dersom vilkårene i forskriften [§ 7](forskrift/2005-03-18-242/§7) er oppfylt, kan en rovviltnemnd fatte vedtak om kvote for jakt på gaupe i medhold av [viltloven § 9](lov/1981-05-29-38/§9), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16).
+Dersom vilkårene i forskriften [§ 7](forskrift/2005-03-18-242/§7) er oppfylt, kan en rovviltnemnd fatte vedtak om kvote for jakt på gaupe i medhold av [viltressursloven § 10](lov/2025-06-20-102/§10), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16).
 
 Vedtak etter første ledd skal avgrense jaktområdet, bestemme antall dyr som kan skytes, eventuell fordeling på kjønn og alder og om bestemte typer dyr skal være unntatt, samt nærmere vilkår for gjennomføring av kvotejakten i samsvar med regional forvaltningsplan, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6).
 
 Rovviltnemnden kan til enhver tid endre eget vedtak om kvote for jakt på gaupe dersom nye opplysninger tilsier det.
 
-Jakttidsramme for kvotejakt på gaupe er 1. februar til og med 31. mars. Rovviltnemnden kan fastsette en kortere jakttid dersom særlige forhold tilsier det. Det kan ikke utøves kvotejakt i de fredningsperioder som [viltloven § 10](lov/1981-05-29-38/§10) fastsetter.
+Jakttidsramme for kvotejakt på gaupe er 1. februar til og med 31. mars. Rovviltnemnden kan fastsette en kortere jakttid dersom særlige forhold tilsier det. Det kan ikke utøves kvotejakt i de fredningsperioder som [viltressursloven § 13](lov/2025-06-20-102/§13) fastsetter.
 
-> Endret ved [forskrift 6 juni 2017 nr. 705](forskrift/2017-06-06-705).
+> Endret ved [forskrifter 6 juni 2017 nr. 705](forskrift/2017-06-06-705), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 12. Skadefelling av kongeørn
 
@@ -206,9 +206,9 @@ Ved brudd på gjeldende bestemmelser og fastsatte vilkår for lisensfelling, og 
 
 Felling eller forsøk på felling av gaupe, jerv, bjørn, ulv eller kongeørn og jakt på gaupe skal umiddelbart meldes til statsforvalteren og andre på slik måte som det bestemmes i vedtak om skadefelling, lisensfelling eller kvotejakt. Jeger skal fremvise felt dyr for Statens naturoppsyn for umiddelbar kontroll, merking og prøvetaking av biologisk materiale, og jeger skal kunne påvise fellingssted etter anmodning fra Statens naturoppsyn, politiet eller statsforvalteren.
 
-Den som feller gaupe, jerv, bjørn eller ulv plikter vederlagsfritt å innlevere dyret til vitenskapelige formål, jf. [viltloven § 48](lov/1981-05-29-38/§48) og [§ 50](lov/1981-05-29-38/§50). Jeger eller preparant plikter å innlevere dyret innen 1. juni. Dersom felt rovvilt først leveres til preparant, skal dette gjøres innen 1. mai. Dersom innleveringsplikten ikke overholdes tilfaller individet i sin helhet Viltfondet, jf. [viltloven § 48](lov/1981-05-29-38/§48) og [§ 50](lov/1981-05-29-38/§50).
+Den som feller gaupe, jerv, bjørn eller ulv plikter vederlagsfritt å innlevere dyret til vitenskapelige formål, jf. [viltressursloven §§ 19](lov/2025-06-20-102/§19) og [51](lov/2025-06-20-102/§51). Jeger eller preparant plikter å innlevere dyret innen 1. juni. Dersom felt rovvilt først leveres til preparant, skal dette gjøres innen 1. mai. Dersom innleveringsplikten ikke overholdes tilfaller individet i sin helhet det statlige viltfondet, jf. [viltressursloven §§ 19](lov/2025-06-20-102/§19) og [51](lov/2025-06-20-102/§51).
 
-> Endret ved [forskrifter 21 feb 2006 nr. 231](forskrift/2006-02-21-231) (i kraft 1 april 2006), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021).
+> Endret ved [forskrifter 21 feb 2006 nr. 231](forskrift/2006-02-21-231) (i kraft 1 april 2006), [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 17. Ettersøk av såret og skadet rovvilt
 
@@ -219,6 +219,14 @@ Den som under jakt eller ved skadefelling/lisensfelling skadeskyter gaupe, jerv,
 Ved ettersøk av rovvilt som påtreffes skadet eller skades utenom lovlig jakt eller fellingsforsøk skal kommunen straks varsle statsforvalteren og nærmeste politimyndighet. Statsforvalteren og politiet kan beslutte at ettersøk skal gjennomføres med særlig kvalifisert personell.
 
 > Endret ved forskrift [14 des 2020 nr. 3367](forskrift/2020-12-14-3367) (i kraft 10 sep 2021).
+
+### § 17a. Varsling og rapportering av bruk av metoder ved skadefelling
+
+Den som ved skadefelling eller forsøk på skadefelling av gaupe, jerv, bjørn, ulv eller kongeørn tar i bruk synlig lys eller særskilte siktemidler, jf. [viltressursloven § 26](lov/2025-06-20-102/§26), eller luftfartøy, motorkjøretøy eller motorfartøy, jf. [viltressursloven § 29](lov/2025-06-20-102/§29), skal varsle grunneieren, politiet og kommunen før metodene brukes.
+
+Den som ved skadefelling eller forsøk på skadefelling av gaupe, jerv, bjørn, ulv eller kongeørn tar i bruk synlig lys eller særskilte siktemidler, jf. [viltressursloven § 26](lov/2025-06-20-102/§26), eller luftfartøy, motorkjøretøy eller motorfartøy, jf. [viltressursloven § 29](lov/2025-06-20-102/§29), skal rapportere bruken til den myndighet som har fattet avgjørelsen om uttak av det skadegjørende individ.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 5. Klage, dispensasjon, straff og ikrafttreden
 
@@ -248,9 +256,9 @@ Klima- og miljødepartementet kan vedta endringer i denne forskrift.
 
 ### § 21. Straff
 
-Overtredelse av bestemmelsene i denne forskrift er straffbart, jf. [viltloven § 56](lov/1981-05-29-38/§56) og [naturmangfoldloven § 75](lov/2009-06-19-100/§75).
+Overtredelse av bestemmelsene i denne forskriften er straffbart, jf. [viltressursloven § 60](lov/2025-06-20-102/§60) og [naturmangfoldloven § 75](lov/2009-06-19-100/§75).
 
-> Endret ved [forskrift 6 juni 2017 nr. 705](forskrift/2017-06-06-705).
+> Endret ved [forskrifter 6 juni 2017 nr. 705](forskrift/2017-06-06-705), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 22. Ikrafttreden
 
@@ -266,11 +274,11 @@ Forskrift om forvaltning av rovvilt ble i sin tid utarbeidet med hjemmel i viltl
 
 Da [lov 19. juni 2009 nr. 100](lov/2009-06-19-100) om forvaltning av naturens mangfold (naturmangfoldloven) trådte i kraft, ble flere av bestemmelsene i viltloven opphevet og disse spørsmålene reguleres nå i naturmangfoldloven. Rovviltforskriften står imidlertid fremdeles ved lag. Dette pga. [naturmangfoldloven § 77](lov/2009-06-19-100/§77) som slår fast at «forskrifter (...) med hjemmel i bestemmelser som oppheves eller endres ved denne loven, står fortsatt ved lag inntil Kongen bestemmer annet». Rovviltforskriften og dens kommentarer er ved flere anledninger endret etter at naturmangfoldloven trådte i kraft.
 
-Naturmangfoldloven og viltloven fastsetter de juridiske rammene for forvaltningen av rovvilt. Viltloven har et tosidig formål: Viltet og viltets leveområder skal forvaltes i samsvar med naturmangfoldloven og slik at naturens produktivitet og artsmangfold bevares. Innenfor denne ramme kan viltproduksjonen høstes til gode for landbruksnæring og friluftsliv.
+[Naturmangfoldloven](lov/2009-06-19-100) og [viltressursloven](lov/2025-06-20-102) fastsetter de juridiske rammene for forvaltningen av rovvilt. [Viltressurslovens](lov/2025-06-20-102) formål er å sikre at forvaltning av viltressursene gjennom jakt, fangst, felling og annen håndtering av vilt skjer på en bærekraftig og forsvarlig måte, i samsvar med [naturmangfoldloven](lov/2009-06-19-100) og [dyrevelferdsloven](lov/2009-06-19-97).
 
 Jerv, bjørn, ulv og kongeørn er fredet. Gaupe er en jaktbar art, men også denne er fåtallig, og krever forvaltningsmessige tiltak for å sikre overlevelsen. Dette innebærer at målsettingen om en bærekraftig forvaltning er et overordnet hensyn ved forvaltningen av disse artene.
 
-Samtidig er det slik at rovvilt volder skade på næringsutøvelse, primært bufe- og tamreinnæring, samt på andre samfunnsinteresser. For blant annet å forhindre skade på bufe eller tamrein eller skade på person eller vesentlig skade på eiendom kan rovvilt felles med hjemmel i unntaksbestemmelsene i naturmangfoldloven, herunder loven [§ 18](lov/2009-06-19-100/§18) første ledd b) og c). Stortinget har dessuten ved behandlingen av rovviltmeldingen lagt vekt på at det skal være mulig med levedyktige næringsvirksomheter i landbruket, herunder næringsdrift basert på utmarksbeiting både for bufe og tamrein. Dessuten skal det tas hensyn til bosetting og livskvalitet i områder med rovvilt. Hensynet til disse interessene medfører at forvaltningen ikke kan legges opp på en slik måte at det overordnede hensynet til rovvilt alene kan tillegges vekt. En bærekraftig forvaltning må derfor avveie og ivareta de ulike hensyn på en best mulig måte innenfor de rammer som følger av viltloven og naturmangfoldloven. Ofte vil det være slik at ikke alle interesser kan ivaretas i samme område eller til samme tid. Forvaltningen må derfor være differensiert. Det innebærer at bruken av ulike tiltak og virkemidler må legges opp på en måte som så langt det er mulig differensierer mellom de ulike interesser i ulike geografiske områder.
+Samtidig er det slik at rovvilt volder skade på næringsutøvelse, primært på bufe- og tamreinnæring, samt på andre samfunnsinteresser. For blant annet å forhindre skade på bufe eller tamrein eller skade på person eller vesentlig skade på eiendom kan rovvilt felles med hjemmel i unntaksbestemmelsene i [naturmangfoldloven](lov/2009-06-19-100), herunder loven § 18 første ledd b) og c). Stortinget har dessuten ved behandlingen av rovviltmeldingen lagt vekt på at det skal være mulig med levedyktige næringsvirksomheter i landbruket, herunder næringsdrift basert på utmarksbeiting både for bufe og tamrein. Dessuten skal det tas hensyn til bosetting og livskvalitet i områder med rovvilt. Hensynet til disse interessene medfører at forvaltningen ikke kan legges opp på en slik måte at det overordnede hensynet til rovvilt alene kan tillegges vekt. En bærekraftig forvaltning må derfor avveie og ivareta de ulike hensyn på en best mulig måte innenfor de rammer som følger av [viltressursloven](lov/2025-06-20-102) og [naturmangfoldloven](lov/2009-06-19-100). Ofte vil det være slik at ikke alle interesser kan ivaretas i samme område eller til samme tid. Forvaltningen må derfor være differensiert. Det innebærer at bruken av ulike tiltak og virkemidler må legges opp på en måte som så langt det er mulig differensierer mellom de ulike interesser i ulike geografiske områder.
 
 Det er imidlertid et ufravikelig vilkår at forvaltningen av rovvilt ikke må true bestandens overlevelse. Dette er også vektlagt av Stortinget, jf. [Innst.S.nr. 174 (2003–2004)](forarbeid/inns-s-174-200304).
 
@@ -278,7 +286,9 @@ Det legges vekt på at forvaltningen skal være tydelig i prioriteringen mellom 
 
 Stortinget har i forbindelse med behandlingen av rovviltmeldingen understreket at berørte næringsorganisasjoner og andre skal trekkes aktivt inn i rovviltnemndenes arbeid. Det er derfor i formålsbestemmelsen vist til at lokal medvirkning er viktig i forvaltningen av rovvilt. En særlig viktig arena for slik medvirkning vil være arbeidet med de regionale forvaltningsplaner for rovvilt, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6) og kommentarene til denne.
 
-Stedlig virkeområde for forskriften følger av viltloven og naturmangfoldloven. Dette innebærer at forskriften ikke gjelder på Svalbard og Jan Mayen.
+Stedlig virkeområde for forskriften følger av [viltressursloven](lov/2025-06-20-102) og [naturmangfoldloven](lov/2009-06-19-100). Dette innebærer at forskriften ikke gjelder på Svalbard og Jan Mayen.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Til § 2 Definisjoner
 
@@ -408,9 +418,11 @@ Statsforvalteren kan knytte nærmere vilkår til fellingstillatelsen, herunder a
 
 Dersom forutsetningene for de vurderingene som er gjort i en rovviltnemnd eller i Miljødirektoratet om kvote for felling endres på en måte som kunne hatt betydning for det aktuelle skadefellingsvedtaket, skal statsforvalteren raskest mulig informere overordnet myndighet (rovviltnemnden og dens sekretariat i regionen eller Miljødirektoratet) om slike endringer. I slike tilfeller skal overordnet myndighet vurdere om det er behov for endringer i det kvotevedtak som er gjort.
 
-Fellingstillatelse blir normalt gitt til en berørt part eller en kommune som søker om dette, og forsøk på felling gjennomføres normalt av et lokalt fellingslag oppnevnt av kommunen. Statens naturoppsyn (SNO) kan bistå lokale fellingslag etter anmodning og nærmere vurdering. Statsforvalteren kan ved iverksetting av felling sette til side de regler som ellers gjelder i viltloven om felling/jakt- og fangstmetoder, jf. [Ot.prp.nr.37 (1999–2000), kapittel 4.1](forarbeid/otprp-37-199900/kap4.1) og 4.4. Vedtak om skadefelling etter denne paragraf er frikoblet fra grunneierretten, jf. [viltloven § 35](lov/1981-05-29-38/§35).
+Fellingstillatelse blir normalt gitt til en berørt part eller en kommune som søker om dette, og forsøk på felling gjennomføres normalt av et lokalt fellingslag oppnevnt av kommunen. Statens naturoppsyn (SNO) kan bistå lokale fellingslag etter anmodning og nærmere vurdering. Statsforvalteren kan ved iverksetting av felling sette til side de regler som ellers gjelder. Hovedregelen er at de regler som gjelder ved jakt og fangst, også gjelder ved gjennomføring av skadefelling, se [viltressursloven § 46 første ledd](lov/2025-06-20-102/§46/ledd/1) og [§ 47 første ledd](lov/2025-06-20-102/§47/ledd/1). Det vil likevel være et avveiningsspørsmål hvilke metoder for felling som kan og bør tillates i det enkelte tilfelle i lys av alminnelige forvaltningsrettslige regler om forholdsmessighet og forpliktelser etter [Bernkonvensjonen](traktat/1971-07-24-1). I vurderingen inngår de hensyn som er nevnt i forskriften [§ 9 tredje ledd](forskrift/2005-03-18-242/§9/ledd/3). Vedtak om skadefelling etter denne paragraf er frikoblet fra grunneierretten, jf. [viltressursloven § 33](lov/2025-06-20-102/§33).
 
 Midler til administrasjon og organisering av fellingslag ved førstegangs iverksetting av skadefellingstillatelse på gaupe, jerv, bjørn og ulv kan belastes den årlige bevilgning til forebyggende og konfliktdempende tiltak. Rovviltnemnden vurderer hvilket beløp som årlig skal avsettes til iverksetting av fellingsforsøk i lokal regi. På denne måten kan lokale fellingslag søke om dekning for direkte og dokumenterte kostnader ved oppdraget, begrenset oppad til kr 35 900,–. Det er ikke anledning til å benytte bevilgningen til lønnskostnader, dekning av administrative utgifter for kommunen mv. i tilknytning til lokalt organiserte jegere i forbindelse med iverksetting av fellingstillatelser. Det kan imidlertid ytes godtgjøring til kommunale og interkommunale fellingslag ved fellingsforsøk iht. [§ 9a](forskrift/2005-03-18-242/§9a).
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Til § 9a Godtgjøring ved fellingsforsøk
 
@@ -440,13 +452,13 @@ Statsforvalteren gir tilskudd til kommunen til utbetaling av godtgjøring i over
 
 Nemndens myndighet til å fatte vedtak og fastsette kvote følger av forskriften [§ 7](forskrift/2005-03-18-242/§7).
 
-Lisensfelling er ikke jakt, men felling hjemlet i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b) og c), jf. definisjonen i forskriften [§ 2](forskrift/2005-03-18-242/§2). Bruk av denne fellingsformen kan være betinget av at den aktuelle arten ikke er en jaktbar art etter [viltloven § 9](lov/1981-05-29-38/§9), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), og/eller at arten er fredet for å oppfylle vilkår i internasjonale avtaler Norge har sluttet seg til.
+Lisensfelling er ikke jakt, men felling hjemlet i [naturmangfoldloven § 18 første ledd](lov/2009-06-19-100/§18/ledd/1) b) og c), jf. definisjonen i forskriften [§ 2](forskrift/2005-03-18-242/§2). Bruk av denne fellingsformen kan være betinget av at den aktuelle arten ikke er en jaktbar art etter [viltressursloven § 10](lov/2025-06-20-102/§10), jf. [naturmangfoldloven § 16](lov/2009-06-19-100/§16), og/eller at arten er fredet for å oppfylle vilkår i internasjonale avtaler Norge har sluttet seg til.
 
 Vilkår for deltakelse i lisensfelling følger av bestemmelsene i forskriften [§ 15](forskrift/2005-03-18-242/§15).
 
-Paragrafen hjemler en mulighet for lisensfelling av gaupe i tillegg til kvotejakt på gaupe, jf. forskriften [§ 11](forskrift/2005-03-18-242/§11). Gaupe er i dag en jaktbar art med fastsatt jakttid i medhold av [viltloven § 9](lov/1981-05-29-38/§9). Erfaringer med kvotejakt på gaupe er at denne i de fleste områder utøves med tilstrekkelig effektivitet i forhold til de forvaltningsmål som er satt, og det er prinsipielt mest riktig at arter som tilfredsstiller høstingskriteriene etter [naturmangfoldloven § 16](lov/2009-06-19-100/§16), forvaltes som jaktbare på ordinær måte. Dette er imidlertid ikke til hinder for at det i gitte situasjoner kan iverksettes andre former for skademotivert felling eller bestandsregulering også for gaupe.
+Paragrafen hjemler en mulighet for lisensfelling av gaupe i tillegg til kvotejakt på gaupe, jf. forskriften [§ 11](forskrift/2005-03-18-242/§11). Gaupe er i dag en jaktbar art med fastsatt jakttid i medhold av [viltressursloven § 10](lov/2025-06-20-102/§10). Erfaringer med kvotejakt på gaupe er at denne i de fleste områder utøves med tilstrekkelig effektivitet i forhold til de forvaltningsmål som er satt, og det er prinsipielt mest riktig at arter som tilfredsstiller høstingskriteriene etter [naturmangfoldloven § 16](lov/2009-06-19-100/§16), forvaltes som jaktbare på ordinær måte. Dette er imidlertid ikke til hinder for at det i gitte situasjoner kan iverksettes andre former for skademotivert felling eller bestandsregulering også for gaupe.
 
-Det følger av annet ledd at fellingsvedtak bare kan gis dersom det ikke finnes noen annen tilfredsstillende løsning. Etter naturmangfoldlovens og viltlovens forarbeider vil vurderingen av hva som er en tilfredsstillende løsning være forskjellig i ulike områder og for de ulike rovviltartene. Særlig innenfor forvaltningsområder for rovvilt eller områder innenfor en region der rovvilt er prioritert i en vedtatt regional forvaltningsplan for rovvilt, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6), skal det legges langt større vekt på å finne alternative løsninger til felling.
+Det følger av annet ledd at fellingsvedtak bare kan gis dersom det ikke finnes noen annen tilfredsstillende løsning. Etter [naturmangfoldlovens](lov/2009-06-19-100) og [viltressurslovens](lov/2025-06-20-102) forarbeider vil vurderingen av hva som er en tilfredsstillende løsning være forskjellig i ulike områder og for de ulike rovviltartene. Særlig innenfor forvaltningsområder for rovvilt eller områder innenfor en region der rovvilt er prioritert i en vedtatt regional forvaltningsplan for rovvilt, jf. forskriften [§ 6](forskrift/2005-03-18-242/§6), skal det legges langt større vekt på å finne alternative løsninger til felling.
 
 Det følger av [naturmangfoldloven § 18](lov/2009-06-19-100/§18) andre ledd at det ved vurdering av uttak av rovvilt etter første ledd bokstav c skal legges vekt på om bestandsmål som er vedtatt i Stortinget er nådd. Som det følger av ordlyden, gjelder dette ved vurdering av [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd bokstav c om uttak for å ivareta allmenne helse- og sikkerhetshensyn eller andre offentlige interesser av vesentlig betydning. Regelen gjelder ikke ved vurdering av [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd bokstav b om uttak for avverge skade.
 
@@ -460,7 +472,7 @@ Utenfor ulvesonen vil det i hovedsak være lisensfelling rettet mot streifdyr. I
 
 Tamreindrift kan være sårbar for forstyrrelse hele året, og særlig gjelder dette i siste del av lisensfellingsperioden for ulv utenfor ulvesonen i april–mai. Det påhviler derfor et ansvar på lisensjegere om at lisensfelling av ulv i tamreinområder gjennomføres i samråd med berørte reinbeitedistrikt.
 
-Lisensfelling av alle rovviltarter omfattes av grunneiers enerett. Miljødirektoratet kan imidlertid bestemme at felling kan utføres uavhengig av grunneierretten, jf. [viltloven § 35](lov/1981-05-29-38/§35). Dette kan for eksempel være aktuelt for å sikre at felling av skadevoldende individer gjennomføres på en effektiv måte.
+Lisensfelling av alle rovviltarter omfattes av grunneiers enerett. Miljødirektoratet kan imidlertid bestemme at felling kan utføres uavhengig av grunneierretten, jf. [viltressursloven § 45](lov/2025-06-20-102/§45). Dette kan for eksempel være aktuelt for å sikre at felling av skadevoldende individer gjennomføres på en effektiv måte.
 
 For å unngå for stor avskyting av hunndyr bør det som en hovedregel benyttes egne hunndyrkvoter som sikrer en større kontroll med den reproduserende del av bestanden. Tilfeldigheter i forhold til hvilke kjønns- og aldersklasser av dyr som felles ett enkelt år vil kunne få store konsekvenser for bestanden i et område. Videre kan det vurderes å fastsette en kortere fellings-/jaktperiode enn den som går frem av forskriften dersom dette anses hensiktsmessig for å ivareta de overordnede hensyn knyttet til forskriftens formål. På samme måte som ved iverksetting av fellingstillatelser kan det ved særskilte behov fastsettes vilkår for gjennomføring av lisensfellingen som kan bidra til å hindre at spesielle individer blir felt, jf. også kommentarene til forskriften [§ 9](forskrift/2005-03-18-242/§9).
 
@@ -468,13 +480,13 @@ Det kan også settes vilkår knyttet til jegers bosted i forbindelse med utstede
 
 Ved avgrensning av fellingsområder må det tas hensyn til familiegrupper og revirmarkerende par av ulv som en ønsker å beholde for å oppfylle bestandsmålet. Lisensfellingsområdet må derfor avgrenses slik at det ikke berører revirene for slike grupper.
 
-> Endret ved forskrift [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024).
+> Endret ved forskrifter [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Til § 11 Kvote for jakt på gaupe
 
 Nemndens myndighet til å fatte vedtak og fastsette kvote følger av forskriften [§ 7](forskrift/2005-03-18-242/§7).
 
-Kvotejakt på gaupe er ordinær jakt med hjemmel i viltloven § 9 i den forstand at jakten utøves på en art som oppfyller høstingskriteriene som er fastslått i [naturmangfoldloven § 16](lov/2009-06-19-100/§16). Høsting (jakt) kan bare tillates når arten produserer et høstingsverdig overskudd. I tillegg skal det ved avgjørelsen om å tillate høsting legges vekt på artens funksjon i økosystemet, den virkning høstingen kan ha på det biologiske mangfold for øvrig, artens betydning for næring eller rekreasjon, høstingstradisjon i vedkommende område og på skade som arten gjør.
+Kvotejakt på gaupe er ordinær jakt med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10) i den forstand at jakten utøves på en art som oppfyller høstingskriteriene som er fastslått i [naturmangfoldloven § 16](lov/2009-06-19-100/§16). Høsting (jakt) kan bare tillates når arten produserer et høstingsverdig overskudd. I tillegg skal det ved avgjørelsen om å tillate høsting legges vekt på artens funksjon i økosystemet, den virkning høstingen kan ha på det biologiske mangfold for øvrig, artens betydning for næring eller rekreasjon, høstingstradisjon i vedkommende område og på skade som arten gjør.
 
 Kvotevedtaket til rovviltnemnden bør i størst mulig grad baseres på utvikling av bestanden de siste tre årene slik dette er rapportert i Nasjonalt overvåkingsprogram for rovvilt. I tillegg også bl.a. på den skade viltet gjør, da kvote for jakt på gaupe også er motivert ut fra skadereduksjon, samt de øvrige momenter som fremgår av [naturmangfoldloven § 16](lov/2009-06-19-100/§16) fjerde ledd.
 
@@ -486,13 +498,17 @@ For gaupe kan rovviltnemnden sette av egne områder for kvotefri jakt i forbinde
 
 Det kan vurderes å fastsette en kortere jaktperiode enn den som fremgår av forskriften, for eksempel dersom dette er nødvendig for å sikre et bedre bestandsestimat i forkant av jakten, jf. annet punktum.
 
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
+
 ### Til § 12 Skadefelling av kongeørn
 
 Statsforvalteren har ansvaret for forvaltningen av kongeørn. Felling av kongeørn har hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) første ledd b), og fellingsvedtak kan fattes gjennom enkeltvedtak i akutte saker der det voldes vesentlig skade på bufe eller tamrein. For felling av kongeørn er det et vilkår at formålet ikke kan nås på annen tilfredsstillende måte.
 
-Bestanden av kongeørn i landet antas å utnytte sitt potensiale fullt ut gjennom dagens bestandsutbredelse og antall. Kongeørn opptrer som skadevolder i mer avgrensede tidsperioder enn de andre artene, og skader kan ofte forebygges gjennom enklere tiltak. Fellingstillatelser kan gis for å stoppe en pågående skadesituasjon, men det tillates ikke felling utelukkende for å forhindre fremtidige skader som for de andre artene. Statsforvalteren kan derfor gi tillatelse til felling av enkeltindivider av kongeørn som volder vesentlig skade på bufe eller tamrein, forutsatt at felling kan rettes mot bestemte individer som volder skade. Vedtak om felling skal være begrenset til et bestemt område og tidsrom. Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at etablerte par eller voksenfugler skal være unntatt og at felling foretas av nærmere bestemte personer. Felling kan iverksettes uten hensyn til fredning, men skal følge bestemmelsene om ordinær jaktutøvelse fastsatt i medhold av viltloven.
+Bestanden av kongeørn i landet antas å utnytte sitt potensiale fullt ut gjennom dagens bestandsutbredelse og antall. Kongeørn opptrer som skadevolder i mer avgrensede tidsperioder enn de andre artene, og skader kan ofte forebygges gjennom enklere tiltak. Fellingstillatelser kan gis for å stoppe en pågående skadesituasjon, men det tillates ikke felling utelukkende for å forhindre fremtidige skader som for de andre artene. Statsforvalteren kan derfor gi tillatelse til felling av enkeltindivider av kongeørn som volder vesentlig skade på bufe eller tamrein, forutsatt at felling kan rettes mot bestemte individer som volder skade. Vedtak om felling skal være begrenset til et bestemt område og tidsrom. Det kan knyttes nærmere vilkår til fellingstillatelsen, herunder at etablerte par eller voksenfugler skal være unntatt og at felling foretas av nærmere bestemte personer. Felling kan iverksettes uten hensyn til fredning, men skal følge bestemmelsene om ordinær jaktutøvelse fastsatt i medhold av [viltressursloven](lov/2025-06-20-102).
 
 Selv om myndigheten til å fatte vedtak om felling er gitt direkte til statsforvalteren, er dette ikke til hinder for at rovviltnemnden i sin regionale forvaltningsplan innarbeider kongeørn. På denne måten kan nemnden ha en helhetlig innfallsvinkel til de arter som omfattes av denne forskrift, blant annet gjennom prioritering av midler til forebyggende og konfliktdempende tiltak, og legge til rette for at statsforvalterens vedtaksmyndighet nyttes i tråd med nemndens prioriteringer og anbefalte geografiske differensiering av virkemidler.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Til § 13 Miljødirektoratets myndighet til å fatte vedtak om felling og jakt
 
@@ -526,7 +542,7 @@ Direktoratet skal som nasjonalt fagdirektorat ha løpende kontakt med svenske na
 
 Se omtalen til forskriften [§ 7](forskrift/2005-03-18-242/§7) femte ledd.
 
-Når det gjelder prinsipper og metoder for felling, sier [viltloven § 35](lov/1981-05-29-38/§35) første ledd at Miljødirektoratet kan bestemme at felling kan utføres uten hensyn til reglene i [kapittel VI](lov/1981-05-29-38/kapvi). Dette innebærer at de restriksjoner viltloven setter når det gjelder bruken av jakt- og fangstmetoder i [kapittel VI](lov/1981-05-29-38/kapvi) kan settes til side av Miljødirektoratet eller Klima- og miljødepartementet. Det følger av forarbeidene til [viltloven § 35](lov/1981-05-29-38/§35), jf. [Prop.118 L (2015–2016)](forarbeid/prop-118-l-201516), og forarbeidene til den tilsvarende tidligere bestemmelsen i viltloven, at det uansett vil være et avveiningsspørsmål hva som kan og bør tillates i det enkelte tilfelle i lys av alminnelige forvaltningsrettslige regler om forholdsmessighet og [Bernkonvensjonens](traktat/1971-07-24-1) regler om dette.
+Når det gjelder prinsipper og metoder for felling, er hovedregelen at de regler som gjelder ved jakt og fangst, også gjelder ved gjennomføring av skadefelling, se [viltressursloven § 46 første ledd](lov/2025-06-20-102/§46/ledd/1) og [§ 47 første ledd](lov/2025-06-20-102/§47/ledd/1). Det vil likevel være et avveiningsspørsmål hvilke metoder for felling som kan og bør tillates i det enkelte tilfelle i lys av alminnelige forvaltningsrettslige regler om forholdsmessighet og forpliktelser etter [Bernkonvensjonen](traktat/1971-07-24-1). I vurderingen inngår de hensyn som er nevnt i forskriften [§ 9 tredje ledd](forskrift/2005-03-18-242/§9/ledd/3).
 
 Felling kan i visse situasjoner være forbundet med så strenge krav til kompetanse at myndigheten er lagt til Miljødirektoratet. Eksempler på slike situasjoner er felling av spesifikke dyr i familiegrupper av ulv som bidrar til å oppfylle bestandsmålet eller hiuttak av jerv. Gjennomføringen av slik felling legges til særskilt kompetent personell i regi av offentlig forvaltningsmyndighet. Normalt vil det være det særskilte statlige fellingslaget i Statens naturoppsyn som benyttes i slike tilfeller. Klima- og miljødepartementet har fastsatt egen instruks for fellingslagets virksomhet, herunder bruk av fellingsmetoder mv.
 
@@ -534,7 +550,7 @@ Av og til vil bestemte enkeltindivider av rovvilt kunne utvikle en særlig probl
 
 I enkelte tilfeller kan det oppstå en situasjon der hensyn til andre interesser enn skade på bufe og tamrein anses som tilstrekkelig tungtveiende til å tillate felling, for eksempel skade på person eller vesentlig skade på eiendom. Det vises her til bestemmelsen om uttak av eget tiltak i [naturmangfoldloven § 18](lov/2009-06-19-100/§18) tredje ledd, og den nærmere omtalen av denne.
 
-> Endret ved forskrift [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024).
+> Endret ved forskrifter [18 des 2023 nr. 2258](forskrift/2023-12-18-2258) (i kraft 1 jan 2024), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Kapittel 4. Administrasjon, deltakelse, rapportering, meldeplikt og ettersøk
 
@@ -566,13 +582,15 @@ Rapporteringsplikten er viktig for å sikre en raskest mulig oppdatering av fell
 
 Ulovlig felling av rovvilt kan medføre at de fastsatte bestandsmålene ikke oppnås, og forvaltningen av artene blir betydelig mer komplisert. I små bestander kan også bestandens overlevelse trues. Ved ulovlige fellinger eller ved mistanke om ulovlig jaktutøvelse i forbindelse med jakt skal politiet straks kontaktes.
 
-Statens naturoppsyn skal blant annet føre kontroll med at bestemmelsene gitt i eller i medhold av naturmangfoldloven og viltloven overholdes, jf. [lov 21. juni 1996 nr. 38](lov/1996-06-21-38) om statlig naturoppsyn.
+Statens naturoppsyn skal blant annet føre kontroll med at bestemmelsene gitt i eller i medhold av [naturmangfoldloven](lov/2009-06-19-100) og [viltressursloven](lov/2025-06-20-102) overholdes, jf. [lov 21. juni 1996 nr. 38 om statlig naturoppsyn](lov/1996-06-21-38).
 
 Forvaltningen av fåtallige arter krever en høy grad av presisjon. Dette innebærer at opplysninger om kjønn, alder, vekt, reproduksjonsstatus, slektskapsforhold mv. kan være avgjørende for videre forvaltningstiltak. Myndighetene vil derfor nytte informasjon fra døde/felte dyr på best mulig måte. Erfaringsmessig er det viktig at informasjon om døde dyr kommer raskt. Forskriften første ledd annet punktum regelfester derfor en plikt for den aktuelle jeger til å fremstille dyret for umiddelbar kontroll hos Statens naturoppsyn. Ved kontrollen vil det bli registrert vekt og mål av dyret, bedømt alder og kjønn, og samlet inn biologisk materiale. Dette materialet vil omfatte hårprøver, vevsprøver, ekskrementer og om mulig blodprøver. Det felte dyret vil i tillegg bli merket med et elektronisk mikrochip for senere identifisering.
 
-Det følger av annet ledd første punktum at eiendomsretten til felt vilt er regulert i [viltloven § 48](lov/1981-05-29-38/§48) og [§ 50](lov/1981-05-29-38/§50). Innlevering av det felte dyret er en del av jegerens rapporteringsplikt. Dersom innlevering ikke skjer eller fristene ikke overholdes, kan adgangen til å registrere seg som lisensjeger i Jegerregisteret bortfalle. Når det gjelder innsending av dyret til laboratorium for mer detaljerte og eksakte vitenskapelige analyser vil jegeren få detaljinformasjon om hvordan vedkommende skal forholde seg.
+Det følger av annet ledd første punktum at eiendomsretten til felt vilt er regulert i [viltressursloven § 51](lov/2025-06-20-102/§51) og [§ 19](lov/2025-06-20-102/§19). Innlevering av det felte dyret er en del av jegerens rapporteringsplikt. Dersom innlevering ikke skjer eller fristene ikke overholdes, kan adgangen til å registrere seg som lisensjeger i Jegerregisteret bortfalle. Når det gjelder innsending av dyret til laboratorium for mer detaljerte og eksakte vitenskapelige analyser vil jegeren få detaljinformasjon om hvordan vedkommende skal forholde seg.
 
 Skinnet av rovdyr felt under lisensfelling vil normalt tilfalle lisensjegeren.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Til § 17 Ettersøk av såret og skadet rovvilt
 
@@ -581,6 +599,16 @@ Bestemmelsen understreker plikten til å ettersøke rovvilt som skadeskytes, og 
 Den som har skadeskutt gaupe, jerv, bjørn, ulv eller kongeørn skal uten opphold alltid melde fra til statsforvalteren og nærmeste politimyndighet. Statsforvalteren har ansvaret for å varsle videre til berørte kommuner. Statsforvalteren har også myndighet til å fatte beslutninger om iverksetting og avslutning av ettersøk, og om særlig kvalifisert personell skal delta. Dette vil normalt skje i samråd med kommunen og fellings-/jaktlaget. Dette innebærer også at det er statsforvalteren som avgjør om påskutt, men ikke gjenfunnet dyr skal belastes kvote/fellingstillatelse.
 
 Ved kvotejakt, lisensfelling eller skadefellingsforsøk vil normalt rapporteringsrutiner fremgå av vilkårene. Utenfor slike situasjoner kan det likevel oppstå behov for ettersøk og evaluering av status for skadde rovviltindivider. Det er normalt kommunen som har ansvar for å ivareta disse forhold i sin kommune. Imidlertid kan det oppstå situasjoner der for eksempel en skadet bjørn kan utgjøre en særlig risiko for ettersøkspersonell. Det er derfor lagt opp til at kommunen straks skal varsle statsforvalteren og nærmeste politimyndighet ved ettersøk av rovvilt som påtreffes skadet eller skades utenom jakt eller fellingsforsøk. Statsforvalteren og politiet kan beslutte at ettersøk skal gjennomføres med særlig kvalifisert personell. Tilsvarende bør politiet varsles ved situasjoner som oppfattes som sikkerhetsmessig vanskelig eller andre situasjoner der det er nødvendig og hensiktsmessig at politiet er orientert.
+
+### Til § 17a Varsling og rapportering av bruk av metoder ved skadefelling
+
+Ved gjennomføring av skadefelling gjelder de samme regler som ved jakt og fangst, se [viltressursloven § 46 første ledd](lov/2025-06-20-102/§46/ledd/1) og [§ 47 første ledd](lov/2025-06-20-102/§47/ledd/1). Det er ved skadefelling med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18), gjort unntak fra forbudene i [viltressursloven § 26](lov/2025-06-20-102/§26) om bruk av synlig lys og særskilte siktemidler og [§ 29](lov/2025-06-20-102/§29) om bruk av luftfartøy, motorkjøretøy og motorfartøy. Slike metoder omfattes av [Bernkonvensjonens artikkel 8](traktat/1971-07-24-1/a8) om forbud mot bruk av alle metoder som er ikke-selektive for fangst og avliving av arter av vill fauna og bruk av alle metoder som kan forårsake at den lokale bestand av en art forsvinner eller forstyrres alvorlig, og især metoder i vedlegg IV. Forbudet gjelder for arter opplistet i konvensjonens vedlegg II (dyrearter som er totalfredet) og III (andre dyrearter som omfattes av konvensjonen uten at disse er totalfredet). Eventuelle unntak fra forbudet mot bruk av metoder i vedlegg IV, må oppfylle vilkårene som følger av [Bernkonvensjonen artikkel 9](traktat/1971-07-24-1/a9). For å overholde Norges forpliktelser etter [Bernkonvensjonen](traktat/1971-07-24-1), er adgangen til å ta i bruk metoder for felling, inkludert bruk av synlig lys eller særskilte siktemidler, eller luftfartøy, motorkjøretøy eller motorfartøy, presisert i § 9 tredje ledd. Unntak fra forbudene krever rapportering til konvensjonens permanente komite, jf. [Bernkonvensjonens artikkel 9 nr. 2](traktat/1971-07-24-1/a9/nummer/2). Der det er praktisk mulig, skal det i tillegg rapporteres på det antall eksemplarer metodene er anvendt på.
+
+Den som ved skadefelling eller forsøk på skadefelling av gaupe, jerv, bjørn, ulv eller kongeørn tar i bruk metodene som nevnt i [viltressursloven §§ 26](lov/2025-06-20-102/§26) eller [29](lov/2025-06-20-102/§29), skal varsle grunneieren, politiet og kommunen om bruken. Varslingen må skje før metodene tas i bruk.
+
+For å oppfylle Norges forpliktelser etter [Bernkonvensjonen](traktat/1971-07-24-1) skal den som ved felling eller forsøk på felling av skadegjørende individ tar i bruk metodene som nevnt i [viltressursloven § 26](lov/2025-06-20-102/§26) eller [§ 29](lov/2025-06-20-102/§29), rapportere bruken til den myndighet som har fattet avgjørelsen om uttak av det skadegjørende individ.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Kapittel 5. Klage, dispensasjon, straff og ikrafttreden
 

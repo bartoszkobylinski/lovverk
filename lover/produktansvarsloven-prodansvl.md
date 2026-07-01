@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1989-01-01"
-last_change_in_force: "2022-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-25"
-xml_hash: "77b44141fba743bc3bfec21bd4014b0ed20efe6e25836d47fa0d127e4a3ba8ca"
+xml_hash: "ef519e6e7141fe97d188d7be526184e459320a83517491a6b626ddc7664d23a9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "31985L0374"
@@ -171,11 +171,11 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 ### § 3-7. (forholdsmessig oppgjør)
 
-(1) Er ikke beløpene i [§ 3-6](lov/1988-12-23-104/§3-6) tilstrekkelige til å dekke tapet for alle som har rett til erstatning, nedsettes erstatningen forholdsmessig. Det samlete oppgjør må godkjennes ved kjennelse av Oslo byfogdembete. Bestemmelsene i [lov 14. juni 2019 nr. 21 om arv og dødsboskifte kapittel 17](lov/2019-06-14-21/kap17) avsnitt V gjelder tilsvarende så lenge de passer for rettens avgjørelse, om ikke annet blir fastsatt i forskrift av Kongen.
+(1) Er ikke beløpene i [§ 3-6](lov/1988-12-23-104/§3-6) tilstrekkelige til å dekke tapet for alle som har rett til erstatning, nedsettes erstatningen forholdsmessig. Det samlete oppgjør må godkjennes ved kjennelse av Oslo tingrett. Bestemmelsene i [lov 14. juni 2019 nr. 21 om arv og dødsboskifte kapittel 17](lov/2019-06-14-21/kap17) avsnitt V gjelder tilsvarende så lenge de passer for rettens avgjørelse, om ikke annet blir fastsatt i forskrift av Kongen.
 
 (2) Dersom det er grunn til å rekne med at nedsetting kan bli nødvendig, skal Legemiddelforsikringen straks gi departementet skriftlig melding om det og snarest mulig nærmere opplysninger om skadenes størrelse og omfang. Departementet kan i et slikt tilfelle treffe bestemmelse om skademeldinger, meldefrister, foreløpige utbetalinger og det endelige oppgjør.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 des 2018 nr. 114](lov/2018-12-20-114), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 3-8. (personlig ansvar og regress)
 

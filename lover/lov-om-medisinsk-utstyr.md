@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2020-05-07"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-02-16"
-xml_hash: "862e11bc5a6deca762ad1bab41144cbb090293c5e3939142ec85baab0ed71adf"
+xml_hash: "0fa404e7a048f2f4b49eff55f4777b976c43a2f1b7d42d825caa63d4374cb808"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32017R0745"
@@ -26,13 +26,13 @@ eu_basis:
 
 ## § 1. Gjennomføring av forordningene om medisinsk utstyr
 
-Forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 11, gjelder som lov. Forordningen gjelder med tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2020/561](eu/32020r0561)forordning [(EU) 2023/502](eu/32023r0502)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2023/2197](eu/32023r2197)
+Forordning [(EU) 2017/745](eu/32017r0745) om medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 11, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2020/561](eu/32020r0561)forordning [(EU) 2023/502](eu/32023r0502)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2023/2197](eu/32023r2197)forordning [(EU) 2024/1860](eu/32024r1860)
 
-Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalen vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12, gjelder som lov. Forordningen gjelder med tilpasninger som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2022/112](eu/32022r0112)forordning [(EU) 2023/503](eu/32023r0503)forordning [(EU) 2023/607](eu/32023r0607)
+Forordning [(EU) 2017/746](eu/32017r0746) om in vitro-diagnostisk medisinsk utstyr, som inntatt i [EØS-avtalens vedlegg II, kapittel XXX](avtale/avt-1992-05-02-1-v2/kapXXX) nr. 12, gjelder som lov. Forordningen gjelder med tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av:forordning [(EU) 2022/112](eu/32022r0112)forordning [(EU) 2023/503](eu/32023r0503)forordning [(EU) 2023/607](eu/32023r0607)forordning [(EU) 2024/1860](eu/32024r1860)
 
 Departementet kan gi forskrift om gjennomføring og utfylling av forordningene gjennomført i første og andre ledd. Departementet kan også gi forskrift om endringer av forordningene i samsvar med rettsakter som vedtas av EU-kommisjonen og innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
-> Endret ved lover [20 des 2024 nr. 97](lov/2024-12-20-97), [20 juni 2025 nr. 76](lov/2025-06-20-76) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1121](forskrift/2025-06-20-1121)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
+> Endret ved lover [20 des 2024 nr. 97](lov/2024-12-20-97), [20 juni 2025 nr. 76](lov/2025-06-20-76) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1121](forskrift/2025-06-20-1121)), [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ## § 2. Saklig virkeområde
 
@@ -100,9 +100,11 @@ Dersom utstyr kan medføre fare for folkehelsen, eller noens helse eller sikkerh
 
 Tilsynsmyndighetene gir de pålegg og treffer de enkeltvedtak som ellers er nødvendige for gjennomføringen av tilsynet, dette kan blant annet omfatte krav om retting, midlertidig stans av virksomhet og forbud mot markedsføring.
 
+Departementet kan pålegge markedsaktører å registrere opplysninger som er nødvendige for å overvåke forsyningssikkerheten av medisinsk utstyr. Opplysningene skal gjøres tilgjengelige for departementet. Departementet kan i forskrift bestemme at Det europeiske legemiddelbyrå kan pålegge markedsaktørene å gjøre opplysningene tilgjengelige for byrået. Departementet kan gi forskrift om hvordan opplysningene skal oppbevares og gjøres tilgjengelige.
+
 Departementet kan gi forskrift om tilsynet etter denne bestemmelsen.
 
-> **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
+> Endret ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ## § 12. Tvangsmulkt
 

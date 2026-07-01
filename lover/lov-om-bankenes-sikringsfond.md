@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2019-01-01"
-last_change_in_force: "2023-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-06-21"
-xml_hash: "b9cbd9fe2a30fbbbe02fb648c81b0758fe58a35a47c0fd97ca2eeba6cc952b40"
+xml_hash: "69837cb3e44e5dc12c3b645b3e3aeb64b335e4e480f6eb740938afc205c718f0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,9 +44,9 @@ eu_basis: []
 
 (2) Bankenes sikringsfond skal forvalte midlene i krisetiltaksfondet og kan utføre andre administrative gjøremål som gjelder krisetiltaksfondet i samsvar med bestemmelsene i [finansforetaksloven § 20-56](lov/2015-04-10-17/§20-56). Det samme gjelder for midlene i Verdipapirforetakenes sikringsfond så langt det passer. Krisetiltaksfondet og Verdipapirforetakenes sikringsfond skal belastes kostnader som gjelder gjøremål for fondene.
 
-(3) Bankenes sikringsfond skal yte bistand til Finanstilsynet etter [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) tredje ledd.
+(3) Bankenes sikringsfond skal yte bistand til Finanstilsynet etter [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) tredje ledd. Kostnader ved slik bistand kan belastes midler som er avsatt til dette formålet etter forskrift gitt i medhold av [finansforetaksloven § 20-51 sjette ledd](lov/2015-04-10-17/§20-51/ledd/6).
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ## § 3. Styret
 

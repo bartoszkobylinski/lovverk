@@ -11,20 +11,16 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "1ec9efc3c604e9908820032106acc8db1e97e2085e61956087babd3a675b477c"
+xml_hash: "a7cc2d154d69267f163de8abdbaeb39dfdc6815e0e1e7e9f457f1b7b696095c4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om aktiviteter i verdensrommet (romloven)
-
-- [Lov 13. juni 1969 nr. 38 om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet](lov/1969-06-13-38)
-
-- [Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven)](lov/2024-12-13-76).
 
 ## Kapittel 1. Formål og virkeområde
 

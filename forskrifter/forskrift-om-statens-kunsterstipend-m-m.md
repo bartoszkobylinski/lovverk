@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kultur- og likestillingsdepartementet"
 date_in_force: "1998-09-16"
-last_change_in_force: "2021-01-15"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "65b7ad5496f3f5235522e54ff4087c80d14999c1d432ba9e99e19178957a9f49"
+xml_hash: "ff7e0e637523aa07965ed26935f74ec8d81b3a2c1b05162e05b4ab1a32177c84"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,227 +24,83 @@ eu_basis: []
 
 ## Del I. Generelt
 
-### 1. Statens stipend og garantiinntekter for kunstnere
+### 1. (Opphevet)
 
-Statens stipend og garantiinntekter for kunstnere omfatter garantiinntekt, arbeidsstipend, arbeidsstipend for yngre/nyetablerte, diversestipend, diversestipend for nyutdannede kunstnere, stipend for eldre fortjente kunstnere, stipend for etablerte kunstnere og stipend for seniorkunstnere. Stipend tildeles etter søknad fra den enkelte kunstner.
+> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [27 april 2012 nr. 367](forskrift/2012-04-27-367), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Det tildeles ikke nye garantiinntekter eller stipend for eldre fortjente kunstnere.
+### 2. (Opphevet)
 
-> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [27 april 2012 nr. 367](forskrift/2012-04-27-367), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 2. Bevilgning og fordeling
-
-Stortinget fastsetter hvert år bevilgningen til statens stipend og garantiinntekter for kunstnere. Departementet fastsetter, etter samråd med Utvalget for statens stipend og garantiinntekter for kunstnere, heretter kalt Utvalget, og forhandlingsberettigede organisasjoner, fordelingen av midlene mellom de ulike kunstnergruppene (kvotefordelingen).
-
-Størrelsen på arbeidsstipend, arbeidsstipend for yngre/nyetablerte kunstnere, stipend for etablerte kunstnere, stipend for seniorkunstnere og stipend for eldre fortjente kunstnere samt maksimumsbeløp for garantiinntekt fastsettes av Stortinget i de årlige budsjettvedtak.
-
-> Endret ved [forskrifter 24 juni 2013 nr. 758](forskrift/2013-06-24-758), [15 mars 2018 nr. 357](forskrift/2018-03-15-357). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 24 juni 2013 nr. 758](forskrift/2013-06-24-758), [15 mars 2018 nr. 357](forskrift/2018-03-15-357), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
 ## Del II. Fellesbestemmelser
 
-### 3. Formål med ordningene
+### 3. (Opphevet)
 
-Stipend- og garantiinntektsordningen skal bidra til at målene i den statlige kunstnerpolitikken nås ved å legge forholdene til rette for at enkeltkunstnere, gjennom å motta direkte tilskudd fra staten, skal kunne bidra til et mangfoldig og nyskapende kunstliv.
+> Opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-> **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+### 4. (Opphevet)
 
-### 4. Målgruppe
+> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Statens stipend for kunstnere kan tildeles kunstnere som i hovedsak bor og har sitt virke i Norge. Når det anses som rimelig, kan det gjøres unntak fra regelen om å bo og virke i Norge.
+### 5. (Opphevet)
 
-Stipendene gjelder ikke kunstnere i en grunnutdanningsfase.
+> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [27 april 2012 nr. 367](forskrift/2012-04-27-367), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+### 6. (Opphevet)
 
-### 5. Kriterier for tildeling
+> Endret ved [forskrifter 15 juni 2001 nr. 706](forskrift/2001-06-15-706) (i kraft 29 juni 2001), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), [1 juli 2020 nr. 1463](forskrift/2020-07-01-1463), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Ved tildeling av stipend skal det bare legges vekt på kunstnerisk aktivitet og kvalitet.
+### 7. (Opphevet)
 
-Det skal ikke tas hensyn til kjønn, medlemskap i kunstnerorganisasjoner, eller religiøs eller politisk oppfatning. Alder skal/kan tas hensyn til bare i de tilfeller der departementet har fastsatt at det er/kan være kriterium for tildeling.
+> Endret ved [forskrifter 15 juni 2001 nr. 706](forskrift/2001-06-15-706) (i kraft 29 juni 2001), [6 juli 2009 nr. 1020](forskrift/2009-07-06-1020), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Som hovedregel kan ikke samme kunstner få tildelt mer enn ett statlig stipend samme år. Mottakere av garantiinntekt, stipend for etablerte kunstnere, stipend for seniorkunstnere, arbeidsstipend og arbeidsstipend for yngre/nyetablerte kunstnere kan likevel få tildelt diversestipend, diversestipend for nyutdannede kunstnere og utstillingsstipend.
+### 8. (Opphevet)
 
-> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [27 april 2012 nr. 367](forskrift/2012-04-27-367), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 8 sep 1999 nr. 1049](forskrift/1999-09-08-1049), [5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-### 6. Kunngjøring, søknadsfrist
+### 9. (Opphevet)
 
-Stipend og søknadsfrist kunngjøres på Kulturrådets nettsider. Søknader som er levert etter søknadsfristen, blir ikke behandlet.
+> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-> Endret ved [forskrifter 15 juni 2001 nr. 706](forskrift/2001-06-15-706) (i kraft 29 juni 2001), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), [1 juli 2020 nr. 1463](forskrift/2020-07-01-1463). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+### 10. (Opphevet)
 
-### 7. Krav til søknadens innhold og form
+> Opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Det skal søkes på fastsatt søknadsskjema. Søknaden må være fullstendig utfylt med fyllestgjørende begrunnelse.
+### 11. (Opphevet)
 
-For billedkunstnere, kunsthåndverkere og fotografer som søker stipend, kan det settes som vilkår at søkeren sender inn arbeider til stipendutstillinger eller samtykker til andre former for offentliggjøring av innsendt materiale. Opplysning om slike vilkår skal fremgå av utlysningstekst og søknadsskjema.
+> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-> Endret ved [forskrifter 15 juni 2001 nr. 706](forskrift/2001-06-15-706) (i kraft 29 juni 2001), [6 juli 2009 nr. 1020](forskrift/2009-07-06-1020), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+### 12. (Opphevet)
 
-### 8. Søknadsbehandling, innstilling og tildeling
-
-Utvalget tildeler stipend etter innstilling fra sakkyndige komiteer oppnevnt av kunstnerorganisasjonene.
-
-Utvalgets sekretariat mottar og registrerer søknader, forbereder de saker som skal opp på Utvalgets møter og iverksetter Utvalgets vedtak.
-
-Arbeidet skal følge forvaltningslovens bestemmelser om saksbehandling, herunder habilitet, taushetsplikt og veiledningsplikt.
-
-Utvalget består av fem medlemmer med varamedlemmer som oppnevnes av departementet. Departementet velger leder og nestleder. To av medlemmene med varamedlemmer oppnevnes etter felles innstilling fra mer enn halvparten av de kunstnerorganisasjonene som overfor Utvalget innstiller til stipend. Dersom det ikke innkommer et felles forslag innen to måneder før Utvalgets funksjonstid utløper, kan departementet etter beste skjønn selv finne fram til kandidatene.
-
-Utvalgets medlemmer og varamedlemmer oppnevnes for fire år.
-
-For gyldig vedtak kreves at fire av fem medlemmer er til stede, av disse begge kunstnerrepresentantene eller deres varamedlemmer. Av statens representanter må lederen eller nestlederen møte.
-
-Lederen, eventuelt nestlederen hvis lederen har forfall, har dobbeltstemme ved stemmelikhet.
-
-Utvalget skal veilede stipendkomiteene om prinsippene for forsvarlig saksbehandling og så langt det er mulig føre tilsyn med at prinsippene følges. Utvalget kan utarbeide utfyllende retningslinjer for stipendkomiteenes arbeid.
-
-Utvalget skal tildele stipend etter innstilling fra sakkyndige stipendkomiteer. Utvalget skal påse at lovanvendelse og saksbehandling er korrekt.
-
-Standardbegrunnelse vil bli gitt til søkere som får avslag.
-
-Utvalget skal føre protokoll fra sine møter.
-
-Utskrift av protokoll og oversikt over tildelingene sendes til departementet til orientering.
-
-Stipendkomiteene er faglige sakkyndige organer for Utvalget. De innstiller til stipend samt innstiller til Utvalget om fortsatt opprettholdelse eller bortfall av garantiinntekten. Stipendkomiteene avgir uttalelse til Utvalget ved søknader om omdisponering av allerede tildelte stipend og avgir også uttalelse til Utvalget i klagesaker.
-
-Stipendkomiteer oppnevnes for et tidsrom på inntil tre år av kunstnerorganisasjonenes generalforsamlinger, årsmøter eller annen innretning som organisasjonene anser som høyeste fungerende myndighet i slike saker.
-
-For kunstnergrupper der det ikke utpeker seg noen representativ organisasjon med nødvendig sakkyndighet, kan den innstillende komité oppnevnes av departementet eller den departementet delegerer til. Det samme gjelder hvis en kunstnerorganisasjon ikke oppnevner sakkyndig komite innen fastsatt frist, eller hvis innstillingen ikke avgis i samsvar med vedtektene og de retningslinjene som gjelder for stipendkomiteens arbeid.
-
-Stipendkomiteene skal bestå av minst tre medlemmer, eventuelt med varamedlemmer.
-
-Stipendkomiteene er beslutningsdyktige når minst tre medlemmer eller deres varamedlemmer deltar. Varamedlemmer har bare stemmerett hvis de erstatter et av medlemmene.
-
-Stipendkomiteene skal innstille søkere på grunnlag av en skjønnsmessig vurdering av kunstnerisk kvalitet og aktivitet og i samsvar med gjeldende retningslinjer.
-
-Stipendkomiteene avgir skriftlige innstillinger til Utvalget. Det skal gis en kortfattet begrunnelse for innstillingene for hver person, der de momenter som har vært utslagsgivende, presiseres.
-
-Stipendkomiteene skal føre protokoll fra sine innstillingsmøter.
-
-Utskrift av protokollen sendes Utvalget sammen med innstillingene.
-
-Stipendkomiteenes innstillinger skal være konfidensielle inntil Utvalget har truffet avgjørelse om tildeling, og denne avgjørelse er offentliggjort. Innstillingen forblir konfidensiell når det gjelder reservekandidater.
-
-> Endret ved [forskrifter 8 sep 1999 nr. 1049](forskrift/1999-09-08-1049), [5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 9. Klageadgang
-
-Utvalgets vedtak kan påklages til departementet. Klagen skal sendes til Utvalget.
-
-Det er ikke adgang til å klage over det faglige kunstneriske skjønn, jf. [forskrift 20. november 1987 nr. 924](forskrift/1987-11-20-924).
-
-Utvalget behandler klagen og kan omgjøre sitt vedtak. Dersom Utvalget opprettholder det opprinnelige vedtaket, sendes Utvalgets anbefaling til departementet.
-
-> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 10. Krav til rapportering og oppfølging
-
-Personer som er tildelt garantiinntekt eller kunstnerstipend har plikt til å sende rapport om bruken av stipendet/garantiinntekten til Utvalget. Rapportering skal skje på fastsatt skjema og til fastsatt tidspunkt.
-
-Sekretariatet for Utvalget foretar en generell formalia- og rimelighetskontroll av rapportene, det vil si en kontroll av at mottatte rapportskjemaer er utfylt og signert. Videre gjennomgår sekretariatet rapportene for å vurdere om bruken av stipendet/garantiinntekten er gjennomført etter forutsetningen for tildelingen. Sekretariatets kontroll baserer seg på de opplysninger som er gitt av stipend/garantiinntektsmottakeren.
-
-> **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 11. Konsekvenser ved misvisende informasjon eller manglende overholdelse av betingelser
-
-Dersom rapporteringsplikten ikke overholdes, stanses utbetaling av stipend/garantiinntekt inntil rapporteringsplikten er overholdt. Garantiinntektsinnehavere og stipendiater som unnlater å sende inn rapport, kan etter beslutning i Utvalget tape retten til å opprettholde stipend og garantiinntekt.
-
-Dersom oppgitt informasjon er misvisende eller betingelsene for å motta stipend eller garantiinntekt ikke overholdes, kan hele eller deler av stipendet/garantiinntekten kreves tilbakebetalt. Slike forhold vil også kunne få betydning for eventuell tildeling av nye stipend.
-
-Rapporteringsplikten gjelder ikke for stipend for eldre fortjente kunstnere.
-
-I henhold til Stortingets bevilgningsreglement § 10 har tilskuddsforvalteren adgang til å føre kontroll med at midlene benyttes etter forutsetningene.
-
-> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 12. Utsettelse/endret bruk av stipend
-
-Stipendmottakere kan i særskilte tilfeller søke om utsettelse/endret bruk av stipend. Søknaden sendes Utvalget.
-
-> **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+> Opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
 ## Del III. Særlige bestemmelser om de enkelte stipend og om garantiinntekt
 
-### 13. Arbeidsstipend
+### 13. (Opphevet)
 
-Arbeidsstipend skal gi kunstnere anledning til å videreutvikle sitt kunstneriske virke og til å kunne ha kunstnerisk aktivitet som sin hovedbeskjeftigelse.
+> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Arbeidsstipend skal også kunne gis til omskolering til annen kunstnerisk virksomhet.
+### 14. (Opphevet)
 
-Arbeidsstipend tildeles for fra ett til fem år. Ved fastsettelse av stipendets varighet skal det hovedsakelig legges vekt på søkers begrunnelse i søknaden.
+> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Dersom det er særskilte grunner for at kunstneren bør få fornyet sitt arbeidsstipend, kan dette vurderes etter særskilt begrunnelse fra søker og stipendkomité. Slik fornyelse behandles av Utvalget.
+### 15. (Opphevet)
 
-Kunstnere som mottar arbeidsstipend, kan ikke være tilsatt i varig arbeidsforhold hvis stillingen overstiger 50%. Kunstner som tildeles arbeidsstipend, kan om nødvendig fortsette i full stilling i åtte måneder regnet fra 1. januar i tildelingsåret. Kunstnere som tildeles arbeidsstipend, og som ved tildelingen er beskjeftiget i varig arbeidsforhold i mer enn 50% av full stilling, må fremlegge dokumentasjon fra arbeidsgiver om reduksjon av stillingen. Stipendmottaker har plikt til å informere om at eventuelle arbeidsforhold er i overensstemmelse med retningslinjene.
+> Endret ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Arbeidsstipendiater plikter å sende årlig rapport som redegjør for den kunstneriske aktiviteten i stipendåret. Opplysningene gis på fastsatt skjema. Unnlater kunstneren å gjøre dette, vil stipendet bli holdt tilbake inntil forholdet er brakt i orden. For siste året i en stipendperiode og for arbeidsstipend tildelt for ett år, skal arbeidsstipendiaten sende en kortfattet rapport om hvorledes stipendet er benyttet senest tre måneder etter at stipendperioden er utløpt. Rapporten gis på fastsatt skjema.
+### 16. (Opphevet)
 
-Arbeidsstipendiater har rett til permisjon fra stipendet i forbindelse med svangerskap, fødsel og adopsjon, men med den begrensning at permisjon ikke gis for mer enn 59 uker. Permisjonens varighet må være overensstemmende med det valg som er meldt folketrygden/annen arbeidsgiver og kan ikke senere endres.
+> Opphevet ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971). Tilføyd igjen ved [forskrift 27 april 2012 nr. 367](forskrift/2012-04-27-367), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Arbeidsstipendiater har, med de begrensninger som følger av folketrygdloven, også rett til permisjon ved sykdom.
-
-Søknad om permisjon eller melding om sykdom skal sendes sekretariatet for Utvalget.
-
-Stipendet er å regne som skattepliktig arbeidsinntekt og blir utbetalt i månedlige rater. Staten betaler arbeidsgiveravgift til folketrygden.
-
-> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 14. Arbeidsstipend for yngre/nyetablerte kunstnere
-
-Arbeidsstipendet skal gi yngre/nyetablerte kunstnere i etableringsfasen anledning til å utvikle seg kunstnerisk og sette dem bedre i stand til å leve av sitt virke som kunstner.
-
-Arbeidsstipendene blir tildelt for fra ett til tre år. Ved tildelingen skal det legges vekt på det kunstneriske nivået og planen for hva stipendtiden skal brukes til.
-
-En kunstner som har fått stipend for ett eller to år, kan søke om forlengelse inntil i alt tre år. Søknad om forlengelse vil bli vurdert på lik linje med andre søknader og i konkurranse med dem.
-
-Ordningen er opprettet for kunstnere som er i en etableringsfase og som ikke er over 35 år det året søknaden sendes inn. Det kan gjøres unntak i særskilte tilfeller.
-
-Søkere må kunne dokumentere et godt kunstnerisk nivå.
-
-Punkt 13.4 gjelder tilsvarende.
-
-Punkt 13.5 gjelder tilsvarende.
-
-Punkt 13.6 gjelder tilsvarende.
-
-Punkt 13.7 gjelder tilsvarende.
-
-> Endret ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 15. Diversestipend
-
-Diversestipend skal være et bidrag til den enkelte søkers kunstneriske virksomhet. Det kan bl.a. gis støtte til etablering, kurs, reiser, studier, fordypning, materialer, utstyr, markedsføring, konsulentbistand osv. Det gis ikke støtte til ordinær utdanning, prosjekter eller utgifter man har hatt før tildelingsåret.
-
-Hele stipendet utbetales under ett direkte til kunstneren så raskt som mulig etter tilsagn om stipend. Det trekkes ikke skatt av stipendet, men det er oppgavepliktig.
-
-> Endret ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 16. Diversestipend for nyutdannede kunstnere
-
-Diversestipend for nyutdannede kunstnere skal bidra til å lette overgangen til yrkeslivet for kunstnere som har gjennomført kunstutdanning på bachelor- eller masternivå. Kunstnere med høyeste grad innenfor sitt fagområde skal prioriteres.
-
-Bestemmelsen i punkt 15.1, Formål/målgruppe gjelder tilsvarende.
-
-Det kan bare søkes på diversestipend for nyutdannede én gang. Ved avslag på innsendt søknad etter avsluttet bacheloreksamen, kan det likevel søkes på nytt etter avsluttet mastereksamen.
-
-Søknaden må være innsendt innen 15. oktober det året utdanningen er avsluttet eller innen nærmeste søknadsfrist dersom utdanningen avsluttes senere på året. Det kan også etter søknad gis utsettelse til påfølgende søknadsfrist. Masterstudenter som har påbegynt sitt siste studieår, kan velge å søke om stipendet før utdanningen er avsluttet, men må i så fall dokumentere avsluttet grad for å få stipendet utbetalt.
-
-Kandidater som har mottatt stipend basert på gjennomført kunstutdanning, kan ikke senere tildeles diversestipend for nyutdannede kunstnere.
-
-Bestemmelsen i punkt 15.2, Utbetaling, gjelder tilsvarende.
-
-> Opphevet ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971). Tilføyd igjen ved [forskrift 27 april 2012 nr. 367](forskrift/2012-04-27-367). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 17. ---
+### 17. (Opphevet)
 
 > Opphevet ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971).
 
-### 18. ---
+### 18. (Opphevet)
 
 > Opphevet ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971).
 
-### 19. ---
+### 19. (Opphevet)
 
 > Opphevet ved [forskrift 5 juli 2007 nr. 971](forskrift/2007-07-05-971).
 
@@ -272,9 +128,9 @@ Ved forventet endring i inntekt (40% eller mer) foretas justert beregning av ege
 
 Utbetaling skal heller ikke skje dersom en kunstner går over i fast lønnet stilling med en årslønn som overstiger det dobbelte av garantiinntektens maksimumsbeløp.
 
-En kunstner som er tildelt statens garantiinntekt for kunstnere, beholder retten til denne inntekten til og med den måneden vedkommende fyller 67 år, med mindre retten til garantiinntekt tapes etter reglene i punkt 10 og 11. Garantiinntekt kommer til utbetaling også under sykdom som berettiger til sykepenger. Staten har til gjengjeld rett til overfor trygdemyndighetene å kreve sykepengene utbetalt direkte til seg. Blir kunstnere berettiget til annen stønad fra folketrygden som er ment helt eller delvis å erstatte garantiinntekten, faller garantiinntekten bort i samme utstrekning for den perioden stønaden gjelder.
+Garantiinntekt varer til og med den måneden kunstneren fyller 67 år. Garantiinntekt kommer til utbetaling også under sykdom som berettiger til sykepenger. Staten har til gjengjeld rett til overfor trygdemyndighetene å kreve sykepengene utbetalt direkte til seg. Blir kunstnere berettiget til annen stønad fra folketrygden som er ment helt eller delvis å erstatte garantiinntekten, faller garantiinntekten bort i samme utstrekning for den perioden stønaden gjelder.
 
-For å beholde rett til å motta garantiinntekt, må kunstneren være yrkesaktiv som kunstner. Når det er gått fem år fra tildelingen av garantiinntekt til en kunstner, og senere hvert tredje år, foretas en vurdering av om vedkommende fortsatt kan anses som yrkesaktiv kunstner. Slik vurdering kan også ellers skje når det finnes særlig grunn til det. Vurderingen foretas av Utvalget etter innstilling fra sakkyndige komiteer som nevnt i punkt 8.2.
+For å beholde rett til å motta garantiinntekt, må kunstneren være yrkesaktiv som kunstner. Når det er gått fem år fra tildelingen av garantiinntekt til en kunstner, og senere hvert tredje år, foretas en vurdering av om vedkommende fortsatt kan anses som yrkesaktiv kunstner. Slik vurdering kan også ellers skje når det finnes særlig grunn til det.
 
 Finner Utvalget at en kunstner ikke lenger er yrkesaktiv som kunstner, faller retten til garantiinntekt bort. Det samme gjelder dersom en yrkesaktiv kunstner ikke lenger har slik tilknytning til Norge at det er naturlig å oppebære garantiinntekt. Hvis Utvalget finner at særlige grunner tilsier det, kan det treffe beslutning om å utsette avgjørelsen i maksimalt to år.
 
@@ -282,7 +138,9 @@ En kunstner som er tildelt garantiinntekt, plikter på anmodning fra Utvalget å
 
 Garantiinntekten er å regne som skattepliktig arbeidsinntekt og blir utbetalt i månedlige rater. Staten betaler arbeidsgiveravgift til folketrygden.
 
-> Endret ved [forskrifter 7 jan 2002 nr. 14](forskrift/2002-01-07-14), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), [15 mars 2018 nr. 357](forskrift/2018-03-15-357). **Endres** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+Det tildeles ikke nye garantiinntekter.
+
+> Endret ved [forskrifter 7 jan 2002 nr. 14](forskrift/2002-01-07-14), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), [15 mars 2018 nr. 357](forskrift/2018-03-15-357), [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
 ### 21. Stipend for eldre fortjente kunstnere
 
@@ -294,85 +152,25 @@ Ordningen med stipend for eldre, fortjente kunstnere avvikles fra og med 2013. I
 
 Stipendet utbetales i halvårlige rater. Det trekkes skatt av stipendet.
 
-> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Endres** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+Det tildeles ikke nye stipend for eldre fortjente kunstnere.
 
-### 22. Stipend for etablerte kunstnere
+> Endret ved [forskrifter 5 juli 2007 nr. 971](forskrift/2007-07-05-971), [24 juni 2013 nr. 758](forskrift/2013-06-24-758), [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Stipend for etablerte kunstnere skal gi kunstnere anledning til å utvikle sitt kunstneriske virke over en lengre periode og til å kunne ha kunstnerisk aktivitet som sin hovedbeskjeftigelse.
+### 22. (Opphevet)
 
-Stipend for etablerte kunstnere kan tildeles yrkesaktiv kunstner som gjennom noen års virksomhet har ytt en kvalitetsmessig verdifull kunstnerisk innsats.
+> Tilføyd ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Ved tildeling skal det bare legges vekt på søkerens kunstneriske innsats, dens omfang og den kunstneriske kvaliteten, jf. for øvrig punkt 5 i Del II Fellesbestemmelser.
+### 23. (Opphevet)
 
-Stipendets størrelse skal tilsvare størrelsen på garantiinntekten og fastsettes hvert år i forbindelse med Stortingets budsjettbehandling.
+> Tilføyd ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Stipend for etablerte kunstnere tildeles for ti år. Stipendet kan fornyes for ytterligere ti år etter søknad. Slik fornyelse behandles av Utvalget etter innstilling fra stipendkomiteene. Vedtak om fornyelse skal foreligge senest 8 måneder før opprinnelig stipendperiode utløper.
+### 24. (Opphevet)
 
-Stipendet bortfaller dersom mottaker fyller 67 år i løpet av stipendperioden. Stipendet opphører fra og med måneden etter fylte 67 år.
+> Tilføyd ved [forskrift 1 juli 2020 nr. 1463](forskrift/2020-07-01-1463), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
-Punkt 13.4 gjelder tilsvarende.
+### 25. (Opphevet)
 
-For å beholde retten til å motta stipendet, må kunstneren være yrkesaktiv som kunstner. Når det er gått fem år fra tildelingen eller fornyelsen av stipendet, foretas en vurdering av om mottakeren fortsatt kan anses som yrkesaktiv kunstner. Slik vurdering kan også ellers skje når det finnes særlig grunn til det. Vurderingen foretas av Utvalget etter innstilling fra sakkyndige komiteer som nevnt i punkt 8.2.
-
-Finner Utvalget at en kunstner ikke lenger er yrkesaktiv som kunstner, faller retten til stipend bort. Det samme gjelder dersom en yrkesaktiv kunstner ikke lenger har slik tilknytning til Norge at det er naturlig å oppebære stipendet. I år fem av stipendperioden foretas en inntektsvurdering av mottakeren. Dersom stipendmottakeren har hatt en gjennomsnittlig netto årsinntekt (alminnelig inntekt) på over seks ganger grunnbeløpet i folketrygden de første fire årene av stipendperioden, faller stipendet bort fra og med år seks. Ved eventuell fornyelse av stipendet, foretas tilsvarende inntektsvurdering i år 10 og år 15.
-
-Stipendiater plikter å sende årlig rapport som redegjør for den kunstneriske aktiviteten og inntekten i stipendåret. Opplysningene gis på fastsatt skjema.
-
-Unnlater en kunstner uten gyldig grunn å sende inn slike opplysninger innen fastsatt frist, vil vedkommendes stipend bli holdt tilbake inntil forholdet er brakt i orden.
-
-Punkt 13.6 gjelder tilsvarende.
-
-Stipendet er å regne som skattepliktig arbeidsinntekt og blir utbetalt i månedlige rater. Staten betaler arbeidsgiveravgift til folketrygden.
-
-> Tilføyd ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 23. Stipend for seniorkunstnere
-
-Stipend for seniorkunstnere skal sikre mottakerne økonomisk trygghet, slik at de kan ha kunstnerisk aktivitet som sin hovedbeskjeftigelse.
-
-Stipend for seniorkunstnere kan tildeles yrkesaktiv kunstner som gjennom mange års virksomhet har ytt en kvalitetsmessig verdifull innsats. Stipendet kan tildeles kunstnere som er 57 år eller eldre i tildelingsåret.
-
-Ved tildeling skal det bare legges vekt på søkerens kunstneriske innsats, dens omfang og den kunstneriske kvaliteten, jf. for øvrig punkt 5 i Del II Fellesbestemmelser.
-
-Stipendets størrelse skal tilsvare størrelsen på garantiinntekten og fastsettes hvert år i forbindelse med Stortingets budsjettbehandling.
-
-Stipend for seniorkunstnere tildeles for perioden frem til mottakeren fyller 67 år. Stipendet opphører fra og med måneden etter fylte 67 år.
-
-Punkt 13.4 gjelder tilsvarende.
-
-Punkt 22.6 gjelder tilsvarende, så langt det passer.
-
-Stipendet er å regne som skattepliktig arbeidsinntekt og blir utbetalt i månedlige rater. Staten betaler arbeidsgiveravgift til folketrygden.
-
-> Tilføyd ved [forskrift 24 juni 2013 nr. 758](forskrift/2013-06-24-758). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 24. Midlertidig stipend – covid-19
-
-Formålet med stipendet er å opprettholde kontinuitet i kunstnerisk produksjon og sikre sysselsetting.
-
-Bevilgningen til midlertidig stipend fastsettes av Stortinget. Fordelingen av midlene mellom kunstnergruppene vedtas av Utvalget for Statens kunstnerstipend.
-
-Mottakere av garantiinntekt, stipend for etablerte kunstnere, stipend for seniorkunstnere, arbeidsstipend, arbeidsstipend for yngre/nyetablerte kunstnere kan ikke tildeles midlertidig stipend – covid-19.
-
-I stipendkomiteenes innstilling til Utvalget gis det ikke en begrunnelse for innstillingene for hver person.
-
-Hele stipendet utbetales under ett direkte til kunstneren så raskt som mulig etter tilsagn om stipend. Det trekkes ikke skatt av stipendet, men det er oppgavepliktig.
-
-Rapportering skal skje på fastsatt skjema og senest en måned etter at stipendperioden er utløpt.
-
-> Tilføyd ved [forskrift 1 juli 2020 nr. 1463](forskrift/2020-07-01-1463). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
-
-### 25. Særlige bestemmelser for midlertidig arbeidsstipend og midlertidig arbeidsstipend for yngre/nyetablerte kunstnere
-
-Midlertidig arbeidsstipend tildeles som ordinært arbeidsstipend og arbeidsstipend for yngre/nyetablerte kunstnere. For midlertidige arbeidsstipend gjelder punkt 13.1 og punktene 13.3 til 13.7 tilsvarende. For midlertidig arbeidsstipend for yngre/nyetablerte kunstnere gjelder punkt 14.1 og punktene 14.3 til 14.8 tilsvarende.
-
-Midlertidig arbeidsstipend og midlertidig arbeidsstipend for yngre/nyetablerte kunstnere tildeles for ett år.
-
-Bevilgningen til midlertidig arbeidsstipend og midlertidig arbeidsstipend for yngre/nyetablerte kunstnere fastsettes av Stortinget. Fordelingen av midlene mellom kunstnergruppene vedtas av Utvalget for Statens kunstnerstipend.
-
-I stipendkomiteenes innstilling til Utvalget gis det ikke en særskilt begrunnelse for innstillingene for hver person.
-
-> Tilføyd ved forskrift [15 jan 2021 nr. 99](forskrift/2021-01-15-99). **Oppheves** ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
+> Tilføyd ved forskrift [15 jan 2021 nr. 99](forskrift/2021-01-15-99), opphevet ved forskrift [26 mai 2026 nr. 906](forskrift/2026-05-26-906) (i kraft 1 juli 2026).
 
 ### 26. Ikrafttredelse
 

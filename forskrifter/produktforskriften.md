@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2004-07-01"
-last_change_in_force: "2026-03-23"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-11-14"
-xml_hash: "c53eb8e368c47324cf806cc1de8b59e31c7895d0a12dc26336794075499db8d4"
+xml_hash: "69b40eb90a3b56a859d434ff68975a9d21f07b416ad157222db564e1a25d59d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-26T07:48:15.016944+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -78,11 +78,13 @@ Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvf
 
 ### § 2-4. Gjennomføring av forordningen om kvikksølv
 
-[EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a (forordning [(EU) 2017/852](eu/32017r0852) som endret ved forordning [(EU) 2022/2526](eu/32022r2526) og forordning [(EU) 2023/2049](eu/32023r2049)) om kvikksølv gjelder som forskrift med de tilpasninger som følger av [vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV), protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv (kvikksølvforordningen), som inntatt i [EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a, gjelder som forskrift, med de tilpasninger som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20) kapittel IV, protokoll 1 til avtalen og avtalen for øvrig.
+
+Forordningen gjelder med endringene som følger avforordning [(EU) 2022/2526](eu/32022r2526)forordning [(EU) 2023/2049](eu/32023r2049)forordning [(EU) 2024/1849](eu/32024r1849).
 
 Første ledd gjelder ikke for Svalbard, Jan Mayen eller bilandene.
 
-> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026). **Endres** ved forskrift [23 juni 2026 nr. 1256](forskrift/2026-06-23-1256) (i kraft 1 juli 2026).
+> Endret ved [forskrift 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), opphevet ved [forskrift 22 juli 2014 nr. 995](forskrift/2014-07-22-995), tilføyd ved forskrift [4 mai 2021 nr. 1397](forskrift/2021-05-04-1397), endret ved forskrifter [29 nov 2022 nr. 2047](forskrift/2022-11-29-2047), [8 des 2023 nr. 2013](forskrift/2023-12-08-2013), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026), [23 juni 2026 nr. 1256](forskrift/2026-06-23-1256) (i kraft 1 juli 2026).
 
 ### § 2-5. Oktylfenol
 
@@ -673,7 +675,10 @@ Miljødirektoratet kan ved overtredelse av bestemmelser i dette kapitlet ilegge 
 ### Vedlegg 1
 Bruksområder som er unntatt fra forbudet i § 2a-3
 
-> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424). **Endres** ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
+- Mengden bly som avgis fra slikt elektrisk og elektronisk utstyr eller enhver tilgjengelig del, uansett om den er belagt eller ikke, ikke overskrider 0,05 μg/cm2 per time (som tilsvarer 0,05 μg/g/t).
+- For belagte produkter, at belegget er tilstrekkelig til å sikre at denne mengden ikke overskrides i løpet av minst to års bruk under normale eller forventede bruksforhold.
+
+> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424), [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 2
 Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for medisinsk utstyr og overvåkings- og kontrollinstrumenter
@@ -691,7 +696,13 @@ Unntak gitt for spesifikke bruksområder:i produktkategori 1–7, 10 har en gyld
 
 Søknader om tildeling, fornyelse eller tilbakekalling av et unntak skal sendes til Kommisjonen. Kommisjonen skal gjøre søknadene offentlig tilgjengelig. Søknader om fornyelse av et unntak skal sendes inn senest 18 måneder før utløpet av unntaket.
 
-> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 16 jan 2017 nr. 39](forskrift/2017-01-16-39), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795). **Endres** ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
+> Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 16 jan 2017 nr. 39](forskrift/2017-01-16-39), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795).
+
+### Krav til søknad
+
+Søknader om unntak, fornyelse eller tilsvarende tilbakekalling av et unntak, kan sendes inn av en produsent, en produsents representant eller en markedsdeltaker i forsyningskjeden og skal minst inneholde:søkerens navn og adresse og kontaktopplysninger,opplysninger om materialet eller komponenten og om de særlige bruksområdene for stoffet i materialet og komponenten som det søkes om unntak eller tilbakekalling av et unntak for, samt om stoffets spesifikke egenskaper,en kontrollérbar og dokumentert begrunnelse for et unntak eller dets tilbakekalling, i tråd med vilkårene som fremgår i avsnittet over,en livssyklusbasert analyse av mulige alternative stoffer, materialer eller utforminger, herunder opplysninger, i den grad de er tilgjengelige, om uavhengig forskning, fagfelleundersøkelser og utviklingsaktiviteter utført av søkeren, og en analyse av tilgjengeligheten av slike alternativer,opplysninger om mulige forberedelser med sikte på ombruk eller gjenvinning av avfallsmateriale fra elektrisk og elektronisk utstyr i forbindelse med hensiktsmessig behandling i henhold til [§ 2a-10](forskrift/2004-06-01-922/§2a-10),andre relevante opplysninger,søkerens foreslåtte tiltak for å utvikle, be om å få utviklet og/eller bruke mulige alternativer, herunder en tidsplan for slike tiltak,dersom det er aktuelt, en beskrivelse av hvilke opplysninger som bør anses som forretningshemmeligheter, ledsaget av en kontrollérbar begrunnelse,når det søkes om et unntak, forslag til en presis og klar ordlyd for unntaket,et sammendrag av søknaden.
+
+> Tilføyd ved forskrift [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 4. EU-samsvarserklæring
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2018-06-15"
-last_change_in_force: "2021-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-23"
-xml_hash: "cda604b4cec7b851ff0304f4415360e5867d0791f67a54c17bd1844f76d19f9a"
+xml_hash: "a8b271996bc9f5fd901bd54c871963dde0dac26874ca83ad160422ae384e6e20"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-30T06:25:40.160175+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,15 +62,15 @@ Departementet kan i forskrift gi nærmere bestemmelser om arbeidet i undersøkel
 
 Undersøkelseskommisjonen skal rapportere årlig til departementet om virksomhetens aktiviteter og resultater.
 
-## § 7. Varsel til undersøkelseskommisjonen om alvorlige hendelser
+## § 7. Melding til undersøkelseskommisjonen om alvorlige hendelser
 
-En virksomhet som yter helse- og omsorgstjenester, skal straks varsle Statens undersøkelseskommisjon om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen. Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+En virksomhet som yter helse- og omsorgstjenester, skal snarest mulig og senest innen fem virkedager sende melding til Statens undersøkelseskommisjon om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen. Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
 
-Pasienter, brukere eller nærmeste pårørende kan varsle undersøkelseskommisjonen om hendelser som nevnt i første ledd.
+Pasienter, brukere eller nærmeste pårørende kan sende melding til undersøkelseskommisjonen om hendelser som nevnt i første ledd.
 
-Når undersøkelseskommisjonen har mottatt varsel etter første eller andre ledd skal den uten ugrunnet opphold avgjøre om det skal iverksettes undersøkelse.
+Når undersøkelseskommisjonen har mottatt melding etter første eller andre ledd skal den uten ugrunnet opphold avgjøre om det skal iverksettes undersøkelse.
 
-> Endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+> Endret ved lover [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ## § 8. Underretning og adgang til å uttale seg
 

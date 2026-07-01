@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1986-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-22"
-xml_hash: "d1a58b1b9fa9d1c6507e287fd13df8fd14994a9b07bdcbc820795c0e2014fa1e"
+xml_hash: "4ec187326eddba3e946325e8a0949693416261907736794885764c3210c1cbe6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -514,9 +514,9 @@ Bestemmelsene i foregående ledd griper ikke inn i den annen parts rett til å p
 
 Skyldnerens avtaler løper videre etter åpning av gjeldsforhandling. Åpningen gir ikke i seg selv den annen part rett til å heve avtalen med skyldneren. Bestemmelsene i [§ 7-3](lov/1984-06-08-59/§7-3) annet ledd gjelder likevel tilsvarende.
 
-Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsmannen eller tingretten før åpningen av gjeldsforhandlingen.
+Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsfogden eller tingretten før åpningen av gjeldsforhandlingen.
 
-> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 7-4. Virkningen av at konkursboet trer inn.
 
@@ -590,11 +590,11 @@ Konkursboet trer uten særskilt vedtagelse inn i avtaler om leie av fast eiendom
 
 Selv om konkursboet erklærer ikke å ville tre inn, må det utrede leien som masseforpliktelse for så vidt angår tiden fra åpningen av bobehandlingen inntil erklæringen kommer frem til utleieren, eller inntil det senere tidspunkt da det leiede blir stilt til utleierens rådighet. Dersom det på eiendommen er eiendeler som inngår i konkursbeslaget, anses ikke det leiede stilt til rådighet før eiendelene enten er fjernet eller abandonert. For øvrig gjelder [§ 7-6](lov/1984-06-08-59/§7-6) annet ledd tilsvarende.
 
-At skyldneren har misligholdt sin plikt til å betale leie, gir ikke utleieren rett til å kreve fravikelse, med mindre begjæring om fravikelse er mottatt hos namsmannen eller tingretten før åpningen av bobehandlingen.
+At skyldneren har misligholdt sin plikt til å betale leie, gir ikke utleieren rett til å kreve fravikelse, med mindre begjæring om fravikelse er mottatt hos namsfogden eller tingretten før åpningen av bobehandlingen.
 
 En avtalebestemmelse om at en leieavtale ikke kan overføres sammen med overføring av den virksomhet som drives i lokalet, er ikke bindende for konkursboet.
 
-> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [23 apr 2004 nr. 18](lov/2004-04-23-18) (ikr. 1 jan 2005 iflg. [res. 17 des 2004 nr. 1665](forskrift/2004-12-17-1665)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-11. Arbeidsavtalers stilling ved konkurs.
 

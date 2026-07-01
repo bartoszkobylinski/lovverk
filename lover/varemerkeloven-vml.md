@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2010-07-01"
-last_change_in_force: "2024-05-24"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-28"
-xml_hash: "7060f1235b0f8ebcd779f67d5ed4292a108e903b524e65e95eabb1976b3cad33"
+xml_hash: "991acb5d564772f19ba6b136fd14dc0babf5571a1a3e7e9e785fdef8925de1b7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32015L2436"
@@ -559,11 +559,11 @@ En lisens til et varemerke som er registrert eller søkt registrert, skal innfø
 
 Panterett i varemerke som nevnt i [panteloven § 4-11](lov/1980-02-08-2/§4-11) skal etter krav fra panthaveren eller innehaveren av søknaden eller rettigheten som pantsettelsen gjelder, anmerkes i varemerkeregisteret. Det samme gjelder for overdragelse og frempantsettelse av en slik panterett. Dokumentasjon for pantsettelsen eller overdragelsen skal følge med et krav om anmerkning. Patentstyret skal bygge på at den som er oppført som innehaver av en søknad eller rettighet i varemerkeregisteret, har rett til å samtykke til pantsettelsen, med mindre det foreligger klare holdepunkter for at en annen er innehaver. Det samme gjelder for den som har overdratt eller frempantsatt en panterett. Når panteretten er opphørt, skal det gjøres anmerkning om dette.
 
-Om anmerkning i varemerkeregisteret av utlegg og arrest i registrerte varemerker og varemerkesøknader gjelder [tvangsfullbyrdelsesloven § 7-20](lov/1992-06-26-86/§7-20) niende ledd, jf. [tvisteloven § 33-7](lov/2005-06-17-90/§33-7) annet ledd.
+Om anmerkning i varemerkeregisteret av utlegg og arrest i registrerte varemerker og varemerkesøknader gjelder [tvangsfullbyrdelsesloven § 7-19 niende ledd](lov/1992-06-26-86/§7-19/ledd/9), jf. [tvisteloven § 33-7 annet ledd](lov/2005-06-17-90/§33-7/ledd/2).
 
 Partene kan påklage Patentstyrets nektelse av å foreta anmerkning etter paragrafen her til Klagenemnden. Klagen må være innkommet til Patentstyret innen to måneder fra den dagen meldingen om nektelsen ble sendt vedkommende part. Det skal betales fastsatt gebyr, ellers opptas ikke klagen til behandling. Er vilkårene for å behandle klagen oppfylt, kan Patentstyret endre avgjørelsen hvis det finner at klagen er begrunnet. Blir det ikke truffet slik avgjørelse, skal saken sendes til Klagenemnden. Klagenemndens leder kan alltid avgjøre klager etter leddet her alene.
 
-> Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [12 juni 2020 nr. 67](lov/2020-06-12-67) (i kraft 1 mars 2023 iflg. [res. 17 feb 2023 nr. 229](forskrift/2023-02-17-229), se [res. 17 feb 2023 nr. 230](forskrift/2023-02-17-230) for overgangsregler), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 56 b. Kollisjon mellom rettserverv mv.
 

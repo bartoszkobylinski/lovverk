@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1993-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-12-05"
-xml_hash: "8417c5bf811eabd3773b1f18f129177b56f08bc111d7cfb625583271c8c113f2"
+xml_hash: "1b78f34ab504a6c68cebb436dd635e17d171dcb6b6edd82b0121f0e0dbe607b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,9 +94,9 @@ Med verdipapir menes omsetningsgjeldsbrev og dermed likestilte dokumenter, samt 
 
 Med adkomstdokument til leierett eller borett til husrom menes dokument som representerer en leierett eller borett til husrom knyttet til en overførbar fordring på utleieren eller en andelsrett i et selskap, unntatt borettslagsandel som er registrert i grunnboken.
 
-Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsmannsdistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i [tvisteloven § 4-4](lov/2005-06-17-90/§4-4) tredje til femte ledd. Den som har bopel i flere rettskretser eller namsmannsdistrikter, har alminnelig verneting i alle disse. Den som ikke har kjent bopel, har verneting i den rettskrets eller i det namsmannsdistrikt hvor vedkommende oppholder seg når en begjæring etter loven her meddeles. Har personen heller ikke kjent oppholdssted i riket, har vedkommende verneting i den rettskrets eller i det namsmannsdistrikt han eller hun sist hadde kjent bopel eller oppholdssted, dersom saken gjelder en forpliktelse pådratt i Norge eller en forpliktelse som skal oppfylles i Norge.
+Med en persons alminnelige verneting menes i denne loven den rettskrets eller det namsfogddistrikt hvor vedkommende har bopel eller slik tilknytning som nevnt i [tvisteloven § 4-4](lov/2005-06-17-90/§4-4) tredje til femte ledd. Den som har bopel i flere rettskretser eller namsfogddistrikter, har alminnelig verneting i alle disse. Den som ikke har kjent bopel, har verneting i den rettskrets eller i det namsfogddistrikt hvor vedkommende oppholder seg når en begjæring etter loven her meddeles. Har personen heller ikke kjent oppholdssted i riket, har vedkommende verneting i den rettskrets eller i det namsfogddistrikt vedkommende sist hadde kjent bopel eller oppholdssted, dersom saken gjelder en forpliktelse pådratt i Norge eller en forpliktelse som skal oppfylles i Norge.
 
-> Endret ved lover [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [12 juni 2009 nr. 37](lov/2009-06-12-37). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [12 juni 2009 nr. 37](lov/2009-06-12-37), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 1-9. Hvor visse formuesgoder skal anses for å være
 
@@ -122,75 +122,75 @@ Annet ledd gjelder tilsvarende for varsel etter [§ 1-3](lov/1992-06-26-86/§1-3
 
 ### § 2-1. Namsmyndighetene
 
-Namsmyndighet er namsmannen og tingretten.
+Namsmyndighet er namsfogden og tingretten.
 
 Namsmyndighetene avgjør alle begjæringer og innvendinger som blir satt fram under en sak om tvangsfullbyrdelse, og som gjelder fremme av saken eller fremgangsmåten under gjennomføringen.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-2. Namsmannen
+### § 2-2. Namsfogden
 
-Namsmannen er den som er utpekt som namsmann etter [politiloven § 17](lov/1995-08-04-53/§17).
+Namsfogden er den som er utpekt som namsfogd etter [politiloven § 17](lov/1995-08-04-53/§17).
 
-Under namsmannen hører de saker som loven legger til namsmannen, og dessuten de saker om gjennomføring som tingretten pålegger namsmannen etter loven.
+Under namsfogden hører de saker som loven legger til namsfogden, og dessuten de saker om gjennomføring som tingretten pålegger namsfogden etter loven.
 
-Namsmannen plikter etter anmodning å bistå tingretten i forhold som gjelder tvangsfullbyrdelse.
+Namsfogden plikter etter anmodning å bistå tingretten i forhold som gjelder tvangsfullbyrdelse.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-3. Namsmannens stedlige kompetanse
+### § 2-3. Namsfogdens stedlige kompetanse
 
-Når en begjæring om tvangsfullbyrdelse lovlig er satt fram for den kompetente namsmann etter loven, vedblir namsmannen å være stedlig kompetent selv om det senere skjer slike endringer at namsmannen ikke fra først av kunne tatt saken til behandling. Tilsvarende gjelder når en domstol har overlatt til namsmannen å gjennomføre rettens beslutning om tvangsfullbyrdelse.
+Når en begjæring om tvangsfullbyrdelse lovlig er satt fram for den kompetente namsfogd etter loven, vedblir namsfogden å være stedlig kompetent selv om det senere skjer slike endringer at namsfogden ikke fra først av kunne tatt saken til behandling. Tilsvarende gjelder når en domstol har overlatt til namsfogden å gjennomføre rettens beslutning om tvangsfullbyrdelse.
 
-En namsmann kan ikke holde forretninger eller på annen måte opptre utenfor sitt distrikt. Unntak kan gjøres i påtrengende tilfeller, eller hvis distriktets namsmann samtykker og omstendighetene gjør det hensiktsmessig at namsmannen opptrer utenfor sitt distrikt. En namsmann kan alltid holde tvangssalg utenfor distriktet.
+En namsfogd kan ikke holde forretninger eller på annen måte opptre utenfor sitt distrikt. Unntak kan gjøres i påtrengende tilfeller, eller hvis distriktets namsfogd samtykker og omstendighetene gjør det hensiktsmessig at namsfogden opptrer utenfor sitt distrikt. En namsfogd kan alltid holde tvangssalg utenfor distriktet.
 
-I særlige tilfeller kan en namsmann be namsmannen i et annet distrikt om å stå for skritt som den første namsmannen ikke selv kan foreta.
+I særlige tilfeller kan en namsfogd be namsfogden i et annet distrikt om å stå for skritt som den første namsfogden ikke selv kan foreta.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-4. Rettsvitne i saker for namsmannen
+### § 2-4. Rettsvitne i saker for namsfogden
 
-Til namsmannens forretninger og møter kan namsmannen tilkalle et rettsvitne dersom det av særlige grunner finnes ønskelig. [Domstolloven § 90](lov/1915-08-13-5/§90) første ledd første punktum og annet ledd og §§ 101-105 a gjelder tilsvarende.
+Til namsfogdens forretninger og møter kan namsfogden tilkalle et rettsvitne dersom det av særlige grunner finnes ønskelig. [Domstolloven § 90](lov/1915-08-13-5/§90) første ledd første punktum og annet ledd og §§ 101-105 a gjelder tilsvarende.
 
-> Endret ved [lov 15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-5. Namsmannens habilitet
+### § 2-5. Namsfogdens habilitet
 
-Om habilitet for namsmannen gjelder [domstolloven §§ 106](lov/1915-08-13-5/§106), [108](lov/1915-08-13-5/§108), [109](lov/1915-08-13-5/§109), [111](lov/1915-08-13-5/§111) til [113](lov/1915-08-13-5/§113) og [121](lov/1915-08-13-5/§121) tilsvarende.
+Om habilitet for namsfogden gjelder [domstolloven §§ 106](lov/1915-08-13-5/§106), [108](lov/1915-08-13-5/§108), [109](lov/1915-08-13-5/§109), [111](lov/1915-08-13-5/§111) til [113](lov/1915-08-13-5/§113) og [121](lov/1915-08-13-5/§121) tilsvarende.
 
-Antas det at både namsmannen og namsmannens fullmektiger er ugilde, skal namsmannen forelegge spørsmålet for tingretten. Namsmannen kan også ellers forelegge spørsmål om sin egen eller fullmektigers habilitet for retten. Retten oppnevner eventuelt stedfortreder. [Domstolloven § 118](lov/1915-08-13-5/§118) og [§ 120](lov/1915-08-13-5/§120) annet ledd gjelder tilsvarende.
+Antas det at både namsfogden og namsfogdens fullmektiger er ugilde, skal namsfogden forelegge spørsmålet for tingretten. Namsfogden kan også ellers forelegge spørsmål om sin egen eller fullmektigers habilitet for retten. Retten oppnevner eventuelt stedfortreder. [Domstolloven § 118](lov/1915-08-13-5/§118) og [§ 120](lov/1915-08-13-5/§120) annet ledd gjelder tilsvarende.
 
-Namsmenn og namsmannsfullmektiger blir ikke ugilde av den grunn at de selv har begjært tvangsfullbyrdelse av krav som det hører til deres tjenesteplikt å inndrive.
+Namsfogder og namsfogdfullmektiger blir ikke ugilde av den grunn at de selv har begjært tvangsfullbyrdelse av krav som det hører til deres tjenesteplikt å inndrive.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-6. Taushetsplikt i saker for namsmannen
+### § 2-6. Taushetsplikt i saker for namsfogden
 
-Om taushetsplikt for namsmannen og andre som utfører tjeneste eller arbeid for namsmannen gjelder [domstolloven § 63 a](lov/1915-08-13-5/§63a) tilsvarende.
+Om taushetsplikt for namsfogden og andre som utfører tjeneste eller arbeid for namsfogden gjelder [domstolloven § 63 a](lov/1915-08-13-5/§63a) tilsvarende.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 2-7. Frister i saker for namsmannen
+### § 2-7. Frister i saker for namsfogden
 
-Om beregning og avbrytelse av frister i saker for namsmannen gjelder [domstolloven §§ 146](lov/1915-08-13-5/§146) annet ledd, [148](lov/1915-08-13-5/§148) og [149](lov/1915-08-13-5/§149) tilsvarende. Om oppfriskning for oversittelse av frist for å klage til tingretten etter [§ 5-16](lov/1992-06-26-86/§5-16) gjelder [tvisteloven §§ 16-12](lov/2005-06-17-90/§16-12) til [16-14](lov/2005-06-17-90/§16-14) tilsvarende.
+Om beregning og avbrytelse av frister i saker for namsfogden gjelder [domstolloven §§ 146](lov/1915-08-13-5/§146) annet ledd, [148](lov/1915-08-13-5/§148) og [149](lov/1915-08-13-5/§149) tilsvarende. Om oppfriskning for oversittelse av frist for å klage til tingretten etter [§ 5-16](lov/1992-06-26-86/§5-16) gjelder [tvisteloven §§ 16-12](lov/2005-06-17-90/§16-12) til [16-14](lov/2005-06-17-90/§16-14) tilsvarende.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-8. Tingretten
 
 Tingretten behandler saker om tvangsfullbyrdelse i sin rettskrets.
 
-Under retten hører de saker som loven legger til retten, klager over namsmannens avgjørelser og handlemåte etter [§ 5-16](lov/1992-06-26-86/§5-16), og dessuten saker som retten av særlige grunner beslutter å overta fra namsmannen.
+Under retten hører de saker som loven legger til retten, klager over namsfogdens avgjørelser og handlemåte etter [§ 5-16](lov/1992-06-26-86/§5-16), og dessuten saker som retten av særlige grunner beslutter å overta fra namsfogden.
 
-> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-9. Bemyndigelse av funksjonærer
 
 Tingrettene kan overlate utførelsen av sine gjøremål etter denne lov til sine funksjonærer. Tingretten kan likevel ikke overlate til funksjonærer å avsi dommer og kjennelser eller å treffe beslutning om tvangssalg etter [§ 11-9](lov/1992-06-26-86/§11-9). Kongen gir nærmere regler om bemyndigelse av funksjonærer.
 
-For namsmennenes adgang til å overlate gjøremål til sine underordnede gjelder [politiloven § 29](lov/1995-08-04-53/§29) annet ledd.
+For namsfogdenes adgang til å overlate gjøremål til sine underordnede gjelder [politiloven § 29 annet ledd](lov/1995-08-04-53/§29/ledd/2).
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-10. Medhjelper ved tvangssalg
 
@@ -198,15 +198,15 @@ Medhjelper ved tvangssalg skal fylle de krav som er fastsatt i eller i medhold a
 
 Om habilitet for medhjelper gjelder [§ 2-5](lov/1992-06-26-86/§2-5) første ledd tilsvarende. Det kan likevel oppnevnes en medhjelper uavhengig av første punktum dersom det finnes ubetenkelig, og vedkommende har særlige forutsetninger for å forestå salget.
 
-Ved tvangssalg av fast eiendom og adkomstdokumenter til leierett eller borett til husrom i lensmannsdistrikt kan namsmannen oppnevnes som medhjelper. Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett eller borett til husrom i andre tilfeller kan namsmannen oppnevnes som medhjelper i samsvar med bestemmelser gitt av Kongen. En namsmann som oppnevnes som medhjelper, har ikke krav på godtgjørelse som medhjelper og har ikke plikt til å stille sikkerhet. Kongen kan gi nærmere bestemmelser om namsmannens oppgaver og myndighet som medhjelper.
+Ved tvangssalg av realregistrerte formuesgoder og adkomstdokumenter til leierett eller borett til husrom kan namsfogden oppnevnes som medhjelper i samsvar med bestemmelser gitt av Kongen. En namsfogd som oppnevnes som medhjelper, har ikke krav på godtgjørelse som medhjelper og har ikke plikt til å stille sikkerhet. Kongen kan gi nærmere bestemmelser om namsfogdens oppgaver og myndighet som medhjelper.
 
-> Endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 aug 1993), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 aug 1993), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-11. Utelukkelse fra å kjøpe ved tvangssalg
 
-Utelukket fra å kjøpe selv eller opptre som fullmektig for kjøper er:ved tvangssalg gjennom tingretten; tingrettens ansatte,ved tvangssalg gjennom namsmannen; namsmannens og tingrettens ansatte,medhjelper ved et tvangssalg og dennes ansatte, ogrettsvitne ved et auksjonssalg.
+Utelukket fra å kjøpe selv eller opptre som fullmektig for kjøper er:ved tvangssalg gjennom tingretten; tingrettens ansatte,ved tvangssalg gjennom namsfogden; namsfogdens og tingrettens ansatte,medhjelper ved et tvangssalg og dennes ansatte, ogrettsvitne ved et auksjonssalg.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 2-12. Høyere rettsinstanser m m
 
@@ -224,9 +224,9 @@ Om rettsmidler mot rettens avgjørelser gjelder [tvisteloven sjette del og kapit
 
 ### § 2-14. Kommunens namskompetanse
 
-En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har påeiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).
+En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har påeiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).besøksbidrag og tvangsmulkt etter besøksbidragsloven.
 
-> Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [20 juni 2025 nr. 104](lov/2025-06-20-104) (i kraft 1 juli 2026 iflg. [res. 20 mars 2026 nr. 445](forskrift/2026-03-20-445)).
+> Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [20 juni 2025 nr. 104](lov/2025-06-20-104) (i kraft 1 juli 2026 iflg. [res. 20 mars 2026 nr. 445](forskrift/2026-03-20-445)).
 
 ### § 2-15. Kommunens beslutninger om utlegg
 
@@ -248,21 +248,21 @@ Dersom kommunen beslutter utleggspant for kravet, gjennomføres utlegget som fas
 
 ### § 2-17. Gjennomføring av beslutning om utleggstrekk
 
-Dersom kommunen beslutter utleggstrekk, fremsettes beslutningen for den alminnelige namsmannen som er kompetent til å etablere utleggstrekk mot skyldneren. Kongen kan fastsette hvordan beslutningen skal fremsettes.
+Dersom kommunen beslutter utleggstrekk, fremsettes beslutningen for den namsfogden som er kompetent til å etablere utleggstrekk mot skyldneren. Kongen kan fastsette hvordan beslutningen skal fremsettes.
 
 Beslutningen skal inneholde skyldnerens navn, adresse og fødselsnummer eller d-nummer, en nøyaktig beregning av kravet med sakskostnader og renter fram til beslutningsdatoen, nøyaktige opplysninger om beregningen av renter fra beslutningsdatoen, og en angivelse av kravets prioritet etter [dekningsloven § 2-8](lov/1984-06-08-59/§2-8).
 
 Dersom det allerede løper utleggstrekk mot skyldneren, meldes kravet umiddelbart inn i trekket.
 
-Dersom det ikke allerede løper utleggstrekk mot skyldneren, skal namsmannen forsøke å etablere utleggstrekk mot vedkommende. Namsmannen skal av eget tiltak påse at denne er kompetent til å etablere utleggstrekk, og at skyldneren har partsevne og er prosessdyktig.
+Dersom det ikke allerede løper utleggstrekk mot skyldneren, skal namsfogden forsøke å etablere utleggstrekk mot vedkommende. Namsfogden skal av eget tiltak påse at denne er kompetent til å etablere utleggstrekk, og at skyldneren har partsevne og er prosessdyktig.
 
-Namsmannen forelegger kommunens beslutning for skyldneren med oppfordring om å uttale seg om forhold av betydning for om utleggstrekk kan etableres og om trekkets størrelse. Skyldnerens frist for å uttale seg fastsettes til en bestemt dato som ligger minst tre uker fra foreleggelsen ble sendt. Kongen kan i forskrift gi regler om det nærmere innholdet i foreleggelsen.
+Namsfogden forelegger kommunens beslutning for skyldneren med oppfordring om å uttale seg om forhold av betydning for om utleggstrekk kan etableres og om trekkets størrelse. Skyldnerens frist for å uttale seg fastsettes til en bestemt dato som ligger minst tre uker fra foreleggelsen ble sendt. Kongen kan i forskrift gi regler om det nærmere innholdet i foreleggelsen.
 
-Når skyldnerens frist for å uttale seg har løpt ut, avgjør namsmannen om det skal etableres utleggstrekk. Et utleggstrekk etableres og gjennomføres som fastsatt i [§ 7-20](lov/1992-06-26-86/§7-20). Dersom det ikke er rom for trekk, underretter namsmannen kommunen og skyldneren om det.
+Når skyldnerens frist for å uttale seg har løpt ut, avgjør namsfogden om det skal etableres utleggstrekk. Et utleggstrekk etableres og gjennomføres som fastsatt i [§ 7-20](lov/1992-06-26-86/§7-20). Dersom det ikke er rom for trekk, underretter namsfogden kommunen og skyldneren om det.
 
-Både kommunen og skyldneren kan påklage namsmannens avgjørelser i samsvar med [§§ 5-16](lov/1992-06-26-86/§5-16) og [7-24](lov/1992-06-26-86/§7-24).
+Både kommunen og skyldneren kan påklage namsfogdens avgjørelser i samsvar med [§§ 5-16](lov/1992-06-26-86/§5-16) og [7-24](lov/1992-06-26-86/§7-24).
 
-> Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lover [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lover [31 mars 2017 nr. 14](lov/2017-03-31-14) (ikr. 18 april 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### Kapittel 3. Sakskostnader, erstatning og sikkerhetsstillelse
 
@@ -456,9 +456,9 @@ Er tvangsfullbyrdelse ikke begjært innen ett år etter at det ble adgang til de
 
 Første ledd gjelder tilsvarende dersom en sak som er utsatt, begjæres fortsatt senere enn ett år etter utsettelsen.
 
-### Kapittel 5. Alminnelige regler om saksbehandlingen i saker for namsmannen
+### Kapittel 5. Alminnelige regler om saksbehandlingen i saker for namsfogden
 
-> Overskrift **endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Overskrift endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-1. Prosessdyktighet og prosessfullmektig
 
@@ -470,7 +470,7 @@ Om prosessfullmektig gjelder [tvisteloven kapittel 3](lov/2005-06-17-90/kap3) ti
 
 ### § 5-2. Begjæring om tvangsfullbyrdelse
 
-Begjæring om tvangsfullbyrdelse skal inneholdeopplysning om hva slags tvangsfullbyrdelse som begjæres,saksøkerens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,saksøktes navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,dersom saksøkeren bruker prosessfullmektig, prosessfullmektigens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,bestemt betegnelse av kravet, og for pengekrav særskilt angivelse av hovedkrav og grunngitte tilleggskrav,bestemt betegnelse av tvangsgrunnlaget, og dessuten de opplysninger namsmannen ellers trenger for å avgjøre om det er adgang til å ta begjæringen til følge.
+Begjæring om tvangsfullbyrdelse skal inneholdeopplysning om hva slags tvangsfullbyrdelse som begjæres,saksøkerens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,saksøktes navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,dersom saksøkeren bruker prosessfullmektig, prosessfullmektigens navn, adresse og fødselsnummer, d-nummer eller organisasjonsnummer,bestemt betegnelse av kravet, og for pengekrav særskilt angivelse av hovedkrav og grunngitte tilleggskrav,bestemt betegnelse av tvangsgrunnlaget, og dessuten de opplysninger namsfogden ellers trenger for å avgjøre om det er adgang til å ta begjæringen til følge.
 
 Privatpersoner kan i begjæringen unnlate å opplyse om saksøktes fødselsnummer eller d-nummer og kun opplyse om saksøktes fødselsdato.
 
@@ -478,153 +478,153 @@ Dersom saksøktes fødselsdato ikke kan fremskaffes eller saksøkte, saksøkeren
 
 Skriftlige tvangsgrunnlag skal legges ved i gjenpart eller original hvis ikke annet er bestemt. Saksøkeren trenger ikke legge fram bevis for at grunnlaget ikke er angrepet. Dersom tvangsgrunnlaget er en utenlandsk avgjørelse som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f), skal det legges ved dokumentasjon for at avgjørelsen kan fullbyrdes i vedkommende fremmede stat, og de øvrige dokumenter som overenskomsten med den fremmede stat bestemmer. Er grunnlaget en avgjørelse som nevnt i [§ 4-1 annet ledd bokstav g](lov/1992-06-26-86/§4-1/ledd/2/bokstav/g), skal det legges ved dokumentasjon for at avgjørelsen er tvangskraftig. Dersom tvangsgrunnlaget er et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), vedlegges de dokumenter som overenskomsten bestemmer.1 Om oversettelse av dokumenter gjelder [domstolloven § 136](lov/1915-08-13-5/§136) tilsvarende.
 
-Begjæring kan fremsettes så vel muntlig som skriftlig. En skriftlig begjæring skal være undertegnet. En muntlig begjæring nedtegnes av namsmannen og undertegnes av saksøkeren. Kongen kan i forskrift bestemme at begjæringer skal settes fram på en nærmere angitt måte. Andre enn privatpersoner kan pålegges å sende begjæringer elektronisk. Det kan fastsettes hvilket format opplysningene i elektroniske begjæringer skal ha.
+Begjæring kan fremsettes så vel muntlig som skriftlig. En skriftlig begjæring skal være undertegnet. En muntlig begjæring nedtegnes av namsfogden og undertegnes av saksøkeren. Kongen kan i forskrift bestemme at begjæringer skal settes fram på en nærmere angitt måte. Andre enn privatpersoner kan pålegges å sende begjæringer elektronisk. Det kan fastsettes hvilket format opplysningene i elektroniske begjæringer skal ha.
 
-Kongen fastsetter i forskrift i hvilken utstrekning krav til innhold og vedlegg i begjæringer kan oppfylles ved at det i begjæringen vises til dokumenter som allerede er elektronisk tilgjengelige for namsmannen. Andre enn privatpersoner kan i forskrift pålegges i slike tilfeller å vise til dokumentet i stedet for å legge det ved. Som tilgjengelige for namsmannen regnes også dokumenter som er tilgjengelige for namsmannen som sekretariat for forliksrådet og dokumenter som er tilgjengelige for andre namsmenn.
+Kongen fastsetter i forskrift i hvilken utstrekning krav til innhold og vedlegg i begjæringer kan oppfylles ved at det i begjæringen vises til dokumenter som allerede er elektronisk tilgjengelige for namsfogden. Andre enn privatpersoner kan i forskrift pålegges i slike tilfeller å vise til dokumentet i stedet for å legge det ved. Som tilgjengelige for namsfogden regnes også dokumenter som er tilgjengelige for namsfogden som sekretariat for forliksrådet og dokumenter som er tilgjengelige for andre namsfogder.
 
-> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 5-3. Namsmannens og partenes ansvar for opplysning av saken
+### § 5-3. Namsfogdens og partenes ansvar for opplysning av saken
 
-Namsmannen skal av eget tiltak påse at denne er kompetent til å behandle saken, at partene har partsevne og er prosessdyktige, og dessuten at det foreligger tvangskraftig tvangsgrunnlag for kravet. Det påhviler ellers partene å gjøre rede for de faktiske forhold og bevis som kan være av betydning for namsmannens avgjørelser under fullbyrdelsen.
+Namsfogden skal av eget tiltak påse at denne er kompetent til å behandle saken, at partene har partsevne og er prosessdyktige, og dessuten at det foreligger tvangskraftig tvangsgrunnlag for kravet. Det påhviler ellers partene å gjøre rede for de faktiske forhold og bevis som kan være av betydning for namsfogdens avgjørelser under fullbyrdelsen.
 
-Namsmannen skal gi partene og andre interesserte den veiledning som er nødvendig for å forebygge eller rette feil og forsømmelser.
+Namsfogden skal gi partene og andre interesserte den veiledning som er nødvendig for å forebygge eller rette feil og forsømmelser.
 
-Namsmannen kan av eget tiltak innhente uttalelser fra partene og andre, og kan oppfordre dem til å skaffe bevis. Namsmannen avgjør om slike opplysninger skal forelegges for partene og interesserte før avgjørelse blir truffet.
+Namsfogden kan av eget tiltak innhente uttalelser fra partene og andre, og kan oppfordre dem til å skaffe bevis. Namsfogden avgjør om slike opplysninger skal forelegges for partene og interesserte før avgjørelse blir truffet.
 
-I saker om utlegg skal namsmannen av eget tiltak i rimelig utstrekning undersøke om saksøkte har formuesgoder eller lønnsinntekter mv. som det kan tas utlegg i.
+I saker om utlegg skal namsfogden av eget tiltak i rimelig utstrekning undersøke om saksøkte har formuesgoder eller lønnsinntekter mv. som det kan tas utlegg i.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-4. Foreløpig prøving av begjæringen
 
-Når en begjæring om tvangsfullbyrdelse innkommer til namsmannen, skal denne snarest mulig foreta en foreløpig prøving av begjæringen. Dersom namsmannen av eget tiltak skal nekte fullbyrdelsen fremmet, treffer namsmannen straks avgjørelse om det.
+Når en begjæring om tvangsfullbyrdelse innkommer til namsfogden, skal denne snarest mulig foreta en foreløpig prøving av begjæringen. Dersom namsfogden av eget tiltak skal nekte fullbyrdelsen fremmet, treffer namsfogden straks avgjørelse om det.
 
 Dersom feilen kan rettes, skal saksøkeren få en frist til å rette feilen. Blir feilen ikke rettet, skal fullbyrdelsen nektes fremmet uten at begjæringen blir forelagt for saksøkte.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-5. Overføring av sak
 
-Er en begjæring om tvangsfullbyrdelse satt fram for en namsmann som ikke er kompetent, kan namsmannen istedenfor å nekte fullbyrdelsen fremmet, overføre saken til den namsmyndigheten som er stedlig og saklig kompetent. Det samme gjelder om det senere viser seg at fullbyrdelsen ikke kan gjennomføres i namsmannens distrikt. Ved overføringen skal namsmannen gi de nødvendige opplysninger om saken og dessuten underrette saksøkeren om overføringen.
+Er en begjæring om tvangsfullbyrdelse satt fram for en namsfogd som ikke er kompetent, kan namsfogden istedenfor å nekte fullbyrdelsen fremmet, overføre saken til den namsmyndigheten som er stedlig og saklig kompetent. Det samme gjelder om det senere viser seg at fullbyrdelsen ikke kan gjennomføres i namsfogdens distrikt. Ved overføringen skal namsfogden gi de nødvendige opplysninger om saken og dessuten underrette saksøkeren om overføringen.
 
-En namsmann som mottar en sak ved overføring, overtar saken i den stilling den sto for den foregående namsmann. Namsmann som mottar saken kan likevel gjenta skritt som den foregående namsmann har foretatt, og er ikke bundet av dennes avgjørelser i større utstrekning enn denne selv er.
+En namsfogd som mottar en sak ved overføring, overtar saken i den stilling den sto for den foregående namsfogd. Namsfogd som mottar saken kan likevel gjenta skritt som den foregående namsfogd har foretatt, og er ikke bundet av dennes avgjørelser i større utstrekning enn denne selv er.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-6. Innvendinger og begjæringer
 
-Innvendinger og begjæringer under saken kan settes fram både muntlig og skriftlig. Settes de fram muntlig, skal namsmannen skrive dem ned. Innvendinger og begjæringer som settes fram under en forretning eller et møte, bør avgjøres med det samme.
+Innvendinger og begjæringer under saken kan settes fram både muntlig og skriftlig. Settes de fram muntlig, skal namsfogden skrive dem ned. Innvendinger og begjæringer som settes fram under en forretning eller et møte, bør avgjøres med det samme.
 
 Innvendinger kan settes ut av betraktning hvis de ikke blir satt fram så snart det er anledning til det. Innvendinger mot at saksøkerens krav består eller mot størrelsen av kravet kan likevel ikke settes ut av betraktning. Det samme gjelder innvendinger mot at det foreligger tvangsgrunnlag eller mot at de materielle og personlige vilkår for tvangskraft er oppfylt.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 5-7. Namsmannens adgang til å pålegge partene og andre opplysningsplikt
+### § 5-7. Namsfogdens adgang til å pålegge partene og andre opplysningsplikt
 
-Namsmannen kan pålegge partene å gi opplysninger eller legge fram bevis som kan ha betydning for tvangsfullbyrdelsen. Når et formuesgode er besluttet tvangssolgt, har saksøkte plikt til å gi slike opplysninger også etter forespørsel fra en medhjelper.
+Namsfogden kan pålegge partene å gi opplysninger eller legge fram bevis som kan ha betydning for tvangsfullbyrdelsen. Når et formuesgode er besluttet tvangssolgt, har saksøkte plikt til å gi slike opplysninger også etter forespørsel fra en medhjelper.
 
-Namsmannen kan pålegge enhver tredjeperson å gi opplysninger som kan ha betydning for tvangsfullbyrdelsen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger omkrav som saksøkte har eller har hatt mot dem, og om hvordan kravet har falt bortformuesgoder som saksøkte eier, og som de har eller har hatt i sin besittelse, og hvordan besittelsen opphørte.
+Namsfogden kan pålegge enhver tredjeperson å gi opplysninger som kan ha betydning for tvangsfullbyrdelsen. I den utstrekning opplysningene ikke knytter seg til deres næringsvirksomhet, plikter fysiske personer bare å gi opplysninger omkrav som saksøkte har eller har hatt mot dem, og om hvordan kravet har falt bortformuesgoder som saksøkte eier, og som de har eller har hatt i sin besittelse, og hvordan besittelsen opphørte.
 
 Opplysningsplikten om forhold som nevnt i annet ledd bokstav a og b gjelder uten hinder av taushetsplikt. [Tvisteloven kapittel 22](lov/2005-06-17-90/kap22) gjelder tilsvarende.
 
 Departementet kan gi forskrift om at offentlige myndigheter, offentlige innretninger mv. og deres ansatte skal gi opplysninger som kan ha betydning for tvangsfullbyrdelsen, uten hinder av taushetsplikt.
 
-Namsmannen kan kreve at folkeregistermyndigheten uten hinder av taushetsplikt skal gi opplysninger som kan ha betydning for namsmannens arbeid etter denne loven.
+Namsfogden kan kreve at folkeregistermyndigheten uten hinder av taushetsplikt skal gi opplysninger som kan ha betydning for namsfogdens arbeid etter denne loven.
 
-Klage til tingretten over pålegg etter annet ledd har oppsettende virkning. Namsmannen eller tingretten kan bestemme at klagen likevel ikke skal ha oppsettende virkning dersom den er åpenbart grunnløs.
+Klage til tingretten over pålegg etter annet ledd har oppsettende virkning. Namsfogden eller tingretten kan bestemme at klagen likevel ikke skal ha oppsettende virkning dersom den er åpenbart grunnløs.
 
-Opplysninger og bevis som er mottatt av en namsmann, kan deles med andre namsmenn, dersom de kan ha betydning for saken.
+Opplysninger og bevis som er mottatt av en namsfogd, kan deles med andre namsfogder, dersom de kan ha betydning for saken.
 
 Kongen kan i forskrift gi nærmere regler om hvordan opplysninger skal gis, signatur, leveringsfrist og leveringssted.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-8. Partenes møteplikt, rett til å være til stede
 
-Partene har bare plikt til å være til stede ved en forretning eller et møte når namsmannen pålegger dem det. Uteblir en part som plikter å være til stede, avgjør namsmannen om forretningen eller møtet skal holdes eller utsettes. Dersom saksøkeren uteblir uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, kan saken heves.
+Partene har bare plikt til å være til stede ved en forretning eller et møte når namsfogden pålegger dem det. Uteblir en part som plikter å være til stede, avgjør namsfogden om forretningen eller møtet skal holdes eller utsettes. Dersom saksøkeren uteblir uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, kan saken heves.
 
-Alle som har en rett som blir berørt av det som skal foretas, har rett til å være til stede ved namsmannens forretninger og møter. Andre har ikke rett til å være til stede om ikke namsmannen tillater det. Den som opptrer forstyrrende, kan vises bort.
+Alle som har en rett som blir berørt av det som skal foretas, har rett til å være til stede ved namsfogdens forretninger og møter. Andre har ikke rett til å være til stede om ikke namsfogden tillater det. Den som opptrer forstyrrende, kan vises bort.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
-### § 5-9. Namsmannens adgang til bolig, forretningslokaler m.m.
+### § 5-9. Namsfogdens adgang til bolig, forretningslokaler m.m.
 
-I den utstrekning det er nødvendig for fullbyrdelsen, kan namsmannen kreve å få adkomst til bolig, forretningslokaler eller annen eiendom som saksøkte helt eller delvis eier eller besitter.
+I den utstrekning det er nødvendig for fullbyrdelsen, kan namsfogden kreve å få adkomst til bolig, forretningslokaler eller annen eiendom som saksøkte helt eller delvis eier eller besitter.
 
-Når et formuesgode er besluttet tvangssolgt, har saksøkte og besitteren plikt til å gi medhjelper og andre etter namsmannens eller medhjelperens bestemmelse adkomst til salgsgjenstanden. Namsmannen kan bestemme at saksøkte ikke skal ha anledning til å være til stede når de som er interessert i å kjøpe, gis adgang til å besiktige salgsgjenstanden.
+Når et formuesgode er besluttet tvangssolgt, har saksøkte og besitteren plikt til å gi medhjelper og andre etter namsfogdens eller medhjelperens bestemmelse adkomst til salgsgjenstanden. Namsfogden kan bestemme at saksøkte ikke skal ha anledning til å være til stede når de som er interessert i å kjøpe, gis adgang til å besiktige salgsgjenstanden.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-10. Bruk av makt og plikt til varsomhet under fullbyrdelsen
 
-Dersom tvangsfullbyrdelse møter motstand, eller en person som er varslet om en tvangsforretning unnlater å være til stede for å åpne, kan namsmannen bruke nødvendig makt. Namsmannen kan om nødvendig kreve bistand fra politiet.
+Dersom tvangsfullbyrdelse møter motstand, eller en person som er varslet om en tvangsforretning unnlater å være til stede for å åpne, kan namsfogden bruke nødvendig makt. Namsfogden kan om nødvendig kreve bistand fra politiet.
 
 Under tvangsfullbyrdelsen skal det vises den hensynsfullhet og varsomhet som forholdene tillater. Det skal tas hensyn til saksøktes interesser og ønsker i den utstrekning forholdene tillater det. Fullbyrdelse skal ikke foretas i større omfang enn nødvendig. En sak om tvangsdekning skal heves dersom fortsatt gjennomføring vil medføre kostnader som vil overstige det som vil komme inn ved dekningen.
 
 Bare dersom det er påtrengende nødvendig, kan tvangsforretninger holdes om natten eller på helligdager. Saksøkeren kan i påtrengende tilfeller kreve at fullbyrdelsen gjennomføres utenfor kontortiden.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-11. Utsettelse
 
-Namsmannen kan beslutte å utsette tvangsfullbyrdelsen dersom saksøkeren begjærer det og hensynet til saksøkte ikke taler imot. Ved tvangsfullbyrdelse i henhold til et særlig tvangsgrunnlag, kan det dessuten etter begjæring fra saksøkte gis utsettelse dersom det er reist søksmål om kravet. Er det særlige tvangsgrunnlaget et forvaltningsvedtak, gjelder det samme også dersom vedtaket er påklaget til overordnet forvaltningsorgan. Utsettelse kan gjøres avhengig av at det blir stilt sikkerhet. De skritt som er nødvendige for å hindre at fullbyrdelsen forspilles, kan alltid foretas.
+Namsfogden kan beslutte å utsette tvangsfullbyrdelsen dersom saksøkeren begjærer det og hensynet til saksøkte ikke taler imot. Ved tvangsfullbyrdelse i henhold til et særlig tvangsgrunnlag, kan det dessuten etter begjæring fra saksøkte gis utsettelse dersom det er reist søksmål om kravet. Er det særlige tvangsgrunnlaget et forvaltningsvedtak, gjelder det samme også dersom vedtaket er påklaget til overordnet forvaltningsorgan. Utsettelse kan gjøres avhengig av at det blir stilt sikkerhet. De skritt som er nødvendige for å hindre at fullbyrdelsen forspilles, kan alltid foretas.
 
 Utsettelse gis så vidt mulig på bestemt tid. Er fullbyrdelsen utsatt på ubestemt tid, fortsettes den ikke uten begjæring fra saksøkeren. Går det mer enn to år fra fullbyrdelsen ble utsatt, må begjæring om fullbyrdelse inngis på nytt.
 
 Blir fullbyrdelsen utsatt, skal partene og andre som er varslet om fullbyrdelsen underrettes.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-12. Utsettelse ved betalingsvansker
 
-Dersom saksøkte i en sak om tvangsdekning er kommet i forbigående betalingsvansker på grunn av sykdom, arbeidsløshet eller andre særlige forhold, kan namsmannen etter begjæring fra saksøkte beslutte utsettelse av saken når saksøkte betaler en femtedel av saksøkerens samlede krav og forplikter seg til å betale det resterende i månedlige avdrag etter namsmannens bestemmelse. Før namsmannen beslutter utsettelse, skal saksøkeren gis anledning til å uttale seg. Dersom et avdrag ikke betales i rett tid, bortfaller utsettelsen. Ny utsettelse kan bare gis dersom det foreligger særlige grunner.
+Dersom saksøkte i en sak om tvangsdekning er kommet i forbigående betalingsvansker på grunn av sykdom, arbeidsløshet eller andre særlige forhold, kan namsfogden etter begjæring fra saksøkte beslutte utsettelse av saken når saksøkte betaler en femtedel av saksøkerens samlede krav og forplikter seg til å betale det resterende i månedlige avdrag etter namsfogdens bestemmelse. Før namsfogden beslutter utsettelse, skal saksøkeren gis anledning til å uttale seg. Dersom et avdrag ikke betales i rett tid, bortfaller utsettelsen. Ny utsettelse kan bare gis dersom det foreligger særlige grunner.
 
 Blir fullbyrdelsen utsatt, skal partene og andre som er varslet om fullbyrdelsen underrettes.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-13. Når avgjørelser skal grunngis og meddeles
 
-Dersom namsmannen nekter å ta en begjæring om tvangsfullbyrdelse til følge, skal saksøkeren gis skriftlig meddelelse. Det skal redegjøres kort for grunnen. Samme meddelelse gis til saksøkte dersom fullbyrdelsen nektes fremmet etter at saksøkte har vært underrettet, og til tredjeperson som har kommet med innvendinger mot fullbyrdelsen.
+Dersom namsfogden nekter å ta en begjæring om tvangsfullbyrdelse til følge, skal saksøkeren gis skriftlig meddelelse. Det skal redegjøres kort for grunnen. Samme meddelelse gis til saksøkte dersom fullbyrdelsen nektes fremmet etter at saksøkte har vært underrettet, og til tredjeperson som har kommet med innvendinger mot fullbyrdelsen.
 
-Dersom namsmannen tar en begjæring om tvangsdekning til følge etter at saksøkte eller tredjeperson har fremsatt innvendinger, skal vedkommende varsles om det før dekningen gjennomføres.
+Dersom namsfogden tar en begjæring om tvangsdekning til følge etter at saksøkte eller tredjeperson har fremsatt innvendinger, skal vedkommende varsles om det før dekningen gjennomføres.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-14. Adgang til å unnlate å gi meddelelse, fullbyrdelse mot ukjent eier
 
-Selv om namsmannen etter loven er pålagt å gi noen en meddelelse, kan tvangsfullbyrdelsen likevel gjennomføres uten meddelelse dersom vedkommende ikke har kjent adresse eller kjent fullmektig med kjent adresse.
+Selv om namsfogden etter loven er pålagt å gi noen en meddelelse, kan tvangsfullbyrdelsen likevel gjennomføres uten meddelelse dersom vedkommende ikke har kjent adresse eller kjent fullmektig med kjent adresse.
 
 Foreligger det tvangsgrunnlag for fullbyrdelse mot en person i egenskap av eier av et formuesgode eller en annen gjenstand, hindres ikke gjennomføringen av at eieren er ukjent.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-15. Omgjøring
 
-Namsmannen kan av eget tiltak omgjøre en beslutning om fremme av tvangsfullbyrdelsen, valg av gjennomføringsmåte og andre avgjørelser i den grad fullbyrdelsen ikke er avsluttet eller en tredjepersons rett er til hinder for omgjøringen. Om retting av namsmannens avgjørelser gjelder [tvisteloven § 19-8](lov/2005-06-17-90/§19-8) første ledd tilsvarende.
+Namsfogden kan av eget tiltak omgjøre en beslutning om fremme av tvangsfullbyrdelsen, valg av gjennomføringsmåte og andre avgjørelser i den grad fullbyrdelsen ikke er avsluttet eller en tredjepersons rett er til hinder for omgjøringen. Om retting av namsfogdens avgjørelser gjelder [tvisteloven § 19-8](lov/2005-06-17-90/§19-8) første ledd tilsvarende.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-16. Klage
 
-Namsmannens avgjørelser og handlemåte under tvangsfullbyrdelsen kan påklages til tingretten av alle som rammes, i den grad fullbyrdelsen ikke er avsluttet. Klagen settes fram for namsmannen. Klagen kan fremsettes så vel muntlig som skriftlig. En skriftlig klage skal være undertegnet. En muntlig klage nedtegnes av namsmannen og undertegnes av klageren. Klagen har ikke oppsettende virkning om ikke namsmannen eller retten bestemmer det. Klage over namsmannens avgjørelse om fravikelse etter [§ 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstavene a og b har oppsettende virkning. Namsmannen eller retten kan bestemme at klagen likevel ikke skal ha oppsettende virkning dersom den er åpenbart grunnløs.
+Namsfogdens avgjørelser og handlemåte under tvangsfullbyrdelsen kan påklages til tingretten av alle som rammes, i den grad fullbyrdelsen ikke er avsluttet. Klagen settes fram for namsfogden. Klagen kan fremsettes så vel muntlig som skriftlig. En skriftlig klage skal være undertegnet. En muntlig klage nedtegnes av namsfogden og undertegnes av klageren. Klagen har ikke oppsettende virkning om ikke namsfogden eller retten bestemmer det. Klage over namsfogdens avgjørelse om fravikelse etter [§ 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstavene a og b har oppsettende virkning. Namsfogden eller retten kan bestemme at klagen likevel ikke skal ha oppsettende virkning dersom den er åpenbart grunnløs.
 
-Finner namsmannen klagen berettiget, skal namsmannen omgjøre sin avgjørelse dersom det er adgang til det. Dersom namsmannen ikke omgjør avgjørelsen, skal klageren få beskjed om det med en begrunnelse og en frist for å opprettholde klagen, med mindre klageren har bedt om at klagen straks oversendes til retten. Opprettholdes klagen, oversendes den sammen med de tilhørende dokumenter og opplysninger uten opphold til tingretten i rettskretsen der saksøkte bor. Hvis namsmannens stedlige kompetanse bygger på annet grunnlag enn saksøktes bopel, oversendes klagen til tingretten i rettskretsen som saken har slik tilknytning til. Om rettens behandling av klagen gjelder saksbehandlingsreglene i [kapittel 6](lov/1992-06-26-86/kap6).
+Finner namsfogden klagen berettiget, skal namsfogden omgjøre sin avgjørelse dersom det er adgang til det. Dersom namsfogden ikke omgjør avgjørelsen, skal klageren få beskjed om det med en begrunnelse og en frist for å opprettholde klagen, med mindre klageren har bedt om at klagen straks oversendes til retten. Opprettholdes klagen, oversendes den sammen med de tilhørende dokumenter og opplysninger uten opphold til tingretten i rettskretsen der saksøkte bor. Hvis namsfogdens stedlige kompetanse bygger på annet grunnlag enn saksøktes bopel, oversendes klagen til tingretten i rettskretsen som saken har slik tilknytning til. Om rettens behandling av klagen gjelder saksbehandlingsreglene i [kapittel 6](lov/1992-06-26-86/kap6).
 
-Etter at saken er avsluttet, kan saksøkeren påklage en beslutning om å nekte å ta en begjæring om tvangsfullbyrdelse til følge eller om å heve en sak, såfremt klagen fremsettes innen en måned etter at saksøkeren ble underrettet om beslutningen. Namsmannens avgjørelse av krav om sakskostnader kan påklages innen en måned etter underretningen om avslutningen av saken. Det samme gjelder dersom namsmannen har unnlatt å ta stilling til kostnadskravet.
+Etter at saken er avsluttet, kan saksøkeren påklage en beslutning om å nekte å ta en begjæring om tvangsfullbyrdelse til følge eller om å heve en sak, såfremt klagen fremsettes innen en måned etter at saksøkeren ble underrettet om beslutningen. Namsfogdens avgjørelse av krav om sakskostnader kan påklages innen en måned etter underretningen om avslutningen av saken. Det samme gjelder dersom namsfogden har unnlatt å ta stilling til kostnadskravet.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-17. Heving av sak
 
-En sak som er til behandling hos namsmannen skal heves:når saksøkte oppfyller saksøkerens krav, eller kravet på annen måte faller bort,når saksøkeren begjærer det, ognår tvangsgrunnlaget oppheves, faller bort eller kjennes ugyldig.En sak om tvangssalg kan likevel ikke heves etter at bindende salgsavtale er inngått, hvis ikke kjøperen samtykker. Etter at kjøperen har betalt kjøpesummen, kan saken ikke heves.
+En sak som er til behandling hos namsfogden skal heves:når saksøkte oppfyller saksøkerens krav, eller kravet på annen måte faller bort,når saksøkeren begjærer det, ognår tvangsgrunnlaget oppheves, faller bort eller kjennes ugyldig.En sak om tvangssalg kan likevel ikke heves etter at bindende salgsavtale er inngått, hvis ikke kjøperen samtykker. Etter at kjøperen har betalt kjøpesummen, kan saken ikke heves.
 
-En sak om tvangsdekning eller om utlevering av løsøre eller verdipapir som er reist for kompetent namsmann, skal heves dersom gjennomføringen er umulig fordi pantet eller gjenstanden ikke kan finnes, med mindre saken overføres til annen namsmyndighet etter [§ 5-5](lov/1992-06-26-86/§5-5).
+En sak om tvangsdekning eller om utlevering av løsøre eller verdipapir som er reist for kompetent namsfogd, skal heves dersom gjennomføringen er umulig fordi pantet eller gjenstanden ikke kan finnes, med mindre saken overføres til annen namsmyndighet etter [§ 5-5](lov/1992-06-26-86/§5-5).
 
 Når en sak heves, skal det gis meddelelse til partene og andre som er underrettet om fullbyrdelsen.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-18. Overgang av kravet under saken
 
@@ -646,13 +646,13 @@ Alle som har en rett som blir berørt, kan, uten hinder av taushetsplikt, kreve 
 
 ### § 5-21. Sammenstilling og automatiserte avgjørelser
 
-Namsmannen kan sammenstille innhentede personopplysninger når det er nødvendig for namsmannens arbeid, herunder til kontroll-, veilednings-, analyse- og statistikkformål.
+Namsfogden kan sammenstille innhentede personopplysninger når det er nødvendig for namsfogdens arbeid, herunder til kontroll-, veilednings-, analyse- og statistikkformål.
 
-Namsmannen kan treffe avgjørelser som utelukkende er basert på automatisert behandling. Behandlingen må sikre partenes krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Partene har rett til manuell overprøving av avgjørelsen.
+Namsfogden kan treffe avgjørelser som utelukkende er basert på automatisert behandling. Behandlingen må sikre partenes krav til forsvarlig saksbehandling og være forenlig med retten til vern av personopplysninger. Avgjørelsen kan ikke bygge på skjønnsmessige vilkår i lov eller forskrift, med mindre avgjørelsen er utvilsom. Partene har rett til manuell overprøving av avgjørelsen.
 
 Kongen kan i forskrift gi nærmere regler om sammenstilling og automatiserte avgjørelser, blant annet om formålet med behandlingen, hvilke personopplysninger som kan behandles, og hvem det kan behandles opplysninger om.
 
-> Tilføyd ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 5-22. Bruk av personopplysninger ved utvikling og testing av IT-systemer
 
@@ -694,9 +694,9 @@ Før retten avsier en kjennelse, skal den så vidt mulig gi partene anledning ti
 
 Retten kan av eget tiltak omgjøre en beslutning om fremme av tvangsfullbyrdelsen, valg av gjennomføringsmåte og andre avgjørelser i den grad fullbyrdelsen ikke er avsluttet eller en tredjepersons rett ikke er til hinder for omgjøringen. Første punktum gjelder ikke avgjørelser truffet under behandling ved allmennprosess.
 
-Når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for retten, kan retten etter begjæring oppheve utleggspantet i samme utstrekning som ved klage. Det samme gjelder når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for namsmannen, og det i denne saken settes fram klage for retten.
+Når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for retten, kan retten etter begjæring oppheve utleggspantet i samme utstrekning som ved klage. Det samme gjelder når et utleggspant påberopes som tvangsgrunnlag i en sak om tvangsdekning for namsfogden, og det i denne saken settes fram klage for retten.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [21 des 2007 nr. 127](lov/2007-12-21-127) (ikr. 1 jan 2008), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 6-5. Utsettelse og sikkerhetsstillelse ved innvendinger mot fullbyrdelsen
 
@@ -742,19 +742,19 @@ Tvangsgrunnlag som nevnt i første ledd bokstav a til g er også tvangsgrunnlag 
 
 ### § 7-3. Kompetent namsmyndighet
 
-Begjæring om utlegg skal settes fram for namsmannen i det distriktet der saksøkte har alminnelig verneting.
+Begjæring om utlegg skal settes fram for namsfogden i det distriktet der saksøkte har alminnelig verneting.
 
-Med unntak for begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan en begjæring om utlegg også settes fram for namsmannen i et annet distrikt hvor saksøkte har formuesgoder når:det er sannsynlig at det ikke vil være tilstrekkelige eller hensiktsmessige formuesgoder til utlegg i det distrikt der saksøkte har alminnelig verneting,utlegg søkes i et formuesgode som saksøkeren har panterett eller tilbakeholdsrett i for sitt krav, og dette befinner seg i distriktet,saksøkte er næringsdrivende og har forretnings- eller driftssted i distriktet,saksøkte ikke har kjent alminnelig verneting i riket,saksøkte har samtykket etter at kravet ble misligholdt, ellertvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
+Med unntak for begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) kan en begjæring om utlegg også settes fram for namsfogden i et annet distrikt hvor saksøkte har formuesgoder når:det er sannsynlig at det ikke vil være tilstrekkelige eller hensiktsmessige formuesgoder til utlegg i det distrikt der saksøkte har alminnelig verneting,utlegg søkes i et formuesgode som saksøkeren har panterett eller tilbakeholdsrett i for sitt krav, og dette befinner seg i distriktet,saksøkte er næringsdrivende og har forretnings- eller driftssted i distriktet,saksøkte ikke har kjent alminnelig verneting i riket,saksøkte har samtykket etter at kravet ble misligholdt, ellertvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
 
-For saksøkte som ikke har kjent bopel i riket, og for saksøkte med adressesperre i Folkeregisteret, kan begjæring om utlegg settes fram for en namsmann som Kongen har utpekt.
+For saksøkte som ikke har kjent bopel i riket, og for saksøkte med adressesperre i Folkeregisteret, kan begjæring om utlegg settes fram for en namsfogd som Kongen har utpekt.
 
-For saksøkte som har kjent bopel i riket, kan beslutning om etablering av utleggstrekk bare treffes av namsmannen i det distrikt der saksøkte har bopel. For saksøkte med kjent bopel i utlandet og for saksøkte med adressesperre i Folkeregisteret kan beslutning om etablering av utleggstrekk bare treffes av namsmannen utpekt etter tredje ledd.
+For saksøkte som har kjent bopel i riket, kan beslutning om etablering av utleggstrekk bare treffes av namsfogden i det distrikt der saksøkte har bopel. For saksøkte med kjent bopel i utlandet og for saksøkte med adressesperre i Folkeregisteret kan beslutning om etablering av utleggstrekk bare treffes av namsfogden utpekt etter tredje ledd.
 
-Dersom det begjæres utlegg på grunnlag av et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f) til [h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), skal begjæringen settes fram for tingretten istedenfor namsmannen. Retten forelegger begjæringen for saksøkte etter [§ 7-6](lov/1992-06-26-86/§7-6). Etter utløpet av fristen avgjør retten om begjæringen skal tas til følge og sender i tilfelle saken til namsmannen for gjennomføring.
+Dersom det begjæres utlegg på grunnlag av et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f) til [h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), skal begjæringen settes fram for tingretten istedenfor namsfogden. Retten forelegger begjæringen for saksøkte etter [§ 7-6](lov/1992-06-26-86/§7-6). Etter utløpet av fristen avgjør retten om begjæringen skal tas til følge og sender i tilfelle saken til namsfogden for gjennomføring.
 
-Kongen kan i forskrift fastsette at saksøker kan inngi begjæringer elektronisk uten å angi hvilken namsmann som er adressat for begjæringen, og gi bestemmelser om hvilken namsmann som i slike tilfeller skal motta begjæringen.
+Kongen kan i forskrift fastsette at saksøker kan inngi begjæringer elektronisk uten å angi hvilken namsfogd som er adressat for begjæringen, og gi bestemmelser om hvilken namsfogd som i slike tilfeller skal motta begjæringen.
 
-> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 89](lov/2005-06-17-89) (ikr. 1 nov 2005 iflg. [res. 28 okt 2005 nr. 1242](forskrift/2005-10-28-1242)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 89](lov/2005-06-17-89) (ikr. 1 nov 2005 iflg. [res. 28 okt 2005 nr. 1242](forskrift/2005-10-28-1242)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-4. Kumulasjon
 
@@ -774,29 +774,29 @@ Foruten å oppfylle kravene i [§ 5-2](lov/1992-06-26-86/§5-2) skal en begjæri
 
 ### § 7-6. Foreleggelse av begjæringen
 
-Finner namsmannen at begjæringen kan tas til følge, skal begjæringen meddeles saksøkte med oppfordring om å uttale seg om forhold av betydning for om utlegg skal tas, og om valg av gjenstand for utlegget. Saksøktes frist for å uttale seg fastsettes til en bestemt dato som ligger minst tre uker fra foreleggelsen ble sendt. Saksøkte skal i oppfordringen gjøres oppmerksom på hvilke kostnader som er påløpt, på at ytterligere kostnader vil påløpe om utlegg blir tatt, på at utlegg kan unngås ved at kravet med renter og kostnader betales innen fristen etter annet punktum, og på bestemmelsene i [dekningsloven kapittel 2](lov/1984-06-08-59/kap2) om hva som kan unntas fra utlegg. Foreleggelsen skal inneholde det som er nødvendig for at saksøkte skal kunne ivareta sine interesser. Kongen kan i forskrift gi regler om det nærmere innholdet i foreleggelsen.
+Finner namsfogden at begjæringen kan tas til følge, skal begjæringen meddeles saksøkte med oppfordring om å uttale seg om forhold av betydning for om utlegg skal tas, og om valg av gjenstand for utlegget. Saksøktes frist for å uttale seg fastsettes til en bestemt dato som ligger minst tre uker fra foreleggelsen ble sendt. Saksøkte skal i oppfordringen gjøres oppmerksom på hvilke kostnader som er påløpt, på at ytterligere kostnader vil påløpe om utlegg blir tatt, på at utlegg kan unngås ved at kravet med renter og kostnader betales innen fristen etter annet punktum, og på bestemmelsene i [dekningsloven kapittel 2](lov/1984-06-08-59/kap2) om hva som kan unntas fra utlegg. Foreleggelsen skal inneholde det som er nødvendig for at saksøkte skal kunne ivareta sine interesser. Kongen kan i forskrift gi regler om det nærmere innholdet i foreleggelsen.
 
 Ved begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) skal saksøkte dessuten oppfordres til å opplyse om sitt standpunkt til saksøkerens krav. Saksøkte skal opplyses om at saken vil bli behandlet i forliksrådet eller hevet dersom det reises innvendinger mot kravet.
 
 Vil tvangsfullbyrdelsen ellers bli vesentlig vanskeliggjort, kan meddelelse til saksøkte unnlates. Dette gjelder likevel ikke ved begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f).
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-7. Behandling i forliksrådet
 
-Ved begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) skal saken behandles i forliksrådet dersom saksøkte har reist innvendinger mot saksøkerens krav innen fristen etter [§ 7-6](lov/1992-06-26-86/§7-6) og saksøkeren i begjæringen har opplyst at behandling i forliksrådet i så fall ønskes. Dersom saksøkte har reist innvendinger mot kravet, og saksøkeren ikke har ønsket behandling i forliksrådet, skal namsmannen heve saken. Saksøktes innvendinger legges ved underretningen til saksøkeren. Saksøkeren kan ombestemme seg med hensyn til behandling i forliksrådet dersom melding om det kommer fram til namsmannen før innkalling til forliksrådet eller meddelelse om heving er sendt.
+Ved begjæring om utlegg etter [§ 7-2 bokstav f](lov/1992-06-26-86/§7-2/bokstav/f) skal saken behandles i forliksrådet dersom saksøkte har reist innvendinger mot saksøkerens krav innen fristen etter [§ 7-6](lov/1992-06-26-86/§7-6) og saksøkeren i begjæringen har opplyst at behandling i forliksrådet i så fall ønskes. Dersom saksøkte har reist innvendinger mot kravet, og saksøkeren ikke har ønsket behandling i forliksrådet, skal namsfogden heve saken. Saksøktes innvendinger legges ved underretningen til saksøkeren. Saksøkeren kan ombestemme seg med hensyn til behandling i forliksrådet dersom melding om det kommer fram til namsfogden før innkalling til forliksrådet eller meddelelse om heving er sendt.
 
-Første ledd gjelder tilsvarende dersom saksøkte etter fristens utløp, men før utlegg er tatt, reiser innvendinger mot kravet. Namsmannen kan beslutte at utlegg likevel skal tas dersom innvendingen er åpenbart grunnløs.
+Første ledd gjelder tilsvarende dersom saksøkte etter fristens utløp, men før utlegg er tatt, reiser innvendinger mot kravet. Namsfogden kan beslutte at utlegg likevel skal tas dersom innvendingen er åpenbart grunnløs.
 
 Avsluttes en sak som er behandlet i forliksrådet etter første eller annet ledd, med en kjennelse eller dom i forliksrådet som pålegger klagemotparten en betalingsplikt overfor klageren, kan klageren innen en måned etter utløpet av dennes frist for å angripe avgjørelsen uten oppfriskning kreve at utleggssaken skal fortsette. Avsluttes saken med rettsforlik i forliksrådet, kan slikt krav fremmes innen en måned etter at forliket er inngått.
 
-> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-8. Flere begjæringer mot samme saksøkt
 
-Dersom namsmannen har mottatt flere begjæringer om utlegg mot samme saksøkte, behandles begjæringene i den rekkefølgen de er kommet inn. Rekkefølgen kan fravikes dersom behandlingen av en begjæring ellers ville bli forsinket av grunner som bare vedrører en annen begjæring.
+Dersom namsfogden har mottatt flere begjæringer om utlegg mot samme saksøkte, behandles begjæringene i den rekkefølgen de er kommet inn. Rekkefølgen kan fravikes dersom behandlingen av en begjæring ellers ville bli forsinket av grunner som bare vedrører en annen begjæring.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### II. Gjennomføring av saker om utlegg
 
@@ -804,13 +804,13 @@ Dersom namsmannen har mottatt flere begjæringer om utlegg mot samme saksøkte, 
 
 ### § 7-9. Innledning
 
-Når saksøktes frist etter [§ 7-6](lov/1992-06-26-86/§7-6) for å uttale seg har løpt ut, tar namsmannen saken opp til videre behandling. Namsmannen kan ta saken opp til videre behandling tidligere dersom saksøkte ber om det. I tilfeller som nevnt i [§ 7-6 tredje ledd](lov/1992-06-26-86/§7-6/ledd/3) kan saken umiddelbart tas opp til videre behandling.
+Når saksøktes frist etter [§ 7-6](lov/1992-06-26-86/§7-6) for å uttale seg har løpt ut, tar namsfogden saken opp til videre behandling. Namsfogden kan ta saken opp til videre behandling tidligere dersom saksøkte ber om det. I tilfeller som nevnt i [§ 7-6 tredje ledd](lov/1992-06-26-86/§7-6/ledd/3) kan saken umiddelbart tas opp til videre behandling.
 
-Dersom en av partene har bedt om det, eller finner namsmannen grunn til det, kan namsmannen innkalle saksøkte og eventuelt også saksøkeren til et møte. Møtet kan holdes på namsmannens kontor, på saksøktes bopel, forretningssted eller driftssted, på sted der det antas å kunne være formuesgoder til utlegg, eller som fjernmøte.
+Dersom en av partene har bedt om det, eller finner namsfogden grunn til det, kan namsfogden innkalle saksøkte og eventuelt også saksøkeren til et møte. Møtet kan holdes på namsfogdens kontor, på saksøktes bopel, forretningssted eller driftssted, på sted der det antas å kunne være formuesgoder til utlegg, eller som fjernmøte.
 
-Namsmannen skal ta imot betaling eller avdrag på saksøkerens vegne når det tilbys. Er tvangsgrunnlaget et verdipapir som ikke er innsendt tidligere, varsler namsmannen saksøkeren om betalingen og pålegger denne å fremlegge dokumentet. Betalingen påføres dokumentet før beløpet betales til saksøkeren.
+Namsfogden skal ta imot betaling eller avdrag på saksøkerens vegne når det tilbys. Er tvangsgrunnlaget et verdipapir som ikke er innsendt tidligere, varsler namsfogden saksøkeren om betalingen og pålegger denne å fremlegge dokumentet. Betalingen påføres dokumentet før beløpet betales til saksøkeren.
 
-Før utlegg blir tatt i et formuesgode, skal namsmannen i rimelig utstrekning undersøke om andre har rettigheter i formuesgodet.
+Før utlegg blir tatt i et formuesgode, skal namsfogden i rimelig utstrekning undersøke om andre har rettigheter i formuesgodet.
 
 Dekning ved utleggstrekk kan ikke besluttes etter et alminnelig tvangsgrunnlag før grunnlaget er rettskraftig.
 
@@ -818,7 +818,7 @@ Kongen kan i forskrift gi bestemmelser om valg av utleggsgjenstand.
 
 Det føres namsbok når det besluttes utleggspant eller dekning ved utleggstrekk, eller saken avsluttes med intet til utlegg, eller det fastsettes endringer i slike beslutninger.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-10. Gjentatt foreleggelse
 
@@ -870,73 +870,73 @@ Utleggspant skal ikke tas i saksøktes lønn eller andre ytelser som nevnt i [de
 
 ### § 7-17. Beslutning om utleggspant
 
-Utleggspant stiftes ved at namsmannen fører inn i namsboken at det for saksøkerens krav etter tvangsgrunnlaget med sakskostnader er tatt utlegg i et eller flere bestemte formuesgoder.
+Utleggspant stiftes ved at namsfogden fører inn i namsboken at det for saksøkerens krav etter tvangsgrunnlaget med sakskostnader er tatt utlegg i et eller flere bestemte formuesgoder.
 
-Namsmannen anslår hvilket beløp de formuesgodene det tas utlegg i, antas å ville innbringe ved tvangsdekning. Beløpet inntas i namsboken. Der det er tatt utlegg i ett formuesgode og det er åpenbart at tvangsdekning vil gi saksøkeren full dekning, er det tilstrekkelig at dette angis.
+Namsfogden anslår hvilket beløp de formuesgodene det tas utlegg i, antas å ville innbringe ved tvangsdekning. Beløpet inntas i namsboken. Der det er tatt utlegg i ett formuesgode og det er åpenbart at tvangsdekning vil gi saksøkeren full dekning, er det tilstrekkelig at dette angis.
 
-Begrensede rettigheter i formuesgodet som namsmannen kjenner til, skal anmerkes i namsboken. For rettigheter som er registrert i et offentlig register, er det tilstrekkelig at namsboken nevner i hvilket register rettighetene er registrert.
+Begrensede rettigheter i formuesgodet som namsfogden kjenner til, skal anmerkes i namsboken. For rettigheter som er registrert i et offentlig register, er det tilstrekkelig at namsboken nevner i hvilket register rettighetene er registrert.
 
 Når det blir tatt utlegg i en hovedgjenstand med tilbehør, behøver ikke tilbehøret oppregnes enkeltvis. Verdianslaget skjer samlet for hovedgjenstand og tilbehør. Tilsvarende gjelder ved utlegg i tingsinnbegrep eller i enkle krav etter [panteloven § 4-10](lov/1980-02-08-2/§4-10).
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-18). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-18), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-18. Underretning om utleggspant
 
-Når det er tatt utleggspant, skal namsmannen gjøre saksøkte kjent med utlegget og med at det er forbudt å forføye over det utlagte formuesgodet i strid med saksøkerens panterett, og med at saksøkeren har rett til å begjære tvangsdekning to uker etter at utlegget ble tatt. Dersom utlegget skal registreres i Løsøreregisteret, skal det opplyses om det i namsboken. Partene skal gis gjenpart av namsboken. I tilfeller som nevnt i [§ 7-12](lov/1992-06-26-86/§7-12) skal namsmannen også gi underretning som nevnt i første punktum til vedkommende tredjeperson.
+Når det er tatt utleggspant, skal namsfogden gjøre saksøkte kjent med utlegget og med at det er forbudt å forføye over det utlagte formuesgodet i strid med saksøkerens panterett, og med at saksøkeren har rett til å begjære tvangsdekning to uker etter at utlegget ble tatt. Dersom utlegget skal registreres i Løsøreregisteret, skal det opplyses om det i namsboken. Partene skal gis gjenpart av namsboken. I tilfeller som nevnt i [§ 7-12](lov/1992-06-26-86/§7-12) skal namsfogden også gi underretning som nevnt i første punktum til vedkommende tredjeperson.
 
 Dersom saksøkte er gift eller lever i et ekteskapslignende forhold, og det blir tatt utlegg i felles bolig, skal ektefellen eller samboeren gis underretning om utleggspantet. Det samme gjelder ved utlegg i tidligere felles bolig der saksøktes ektefelle, tidligere ektefelle eller tidligere samboer fortsatt bor.
 
-> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89) (ikr. 1 mars 2009 iflg. [res. 27 feb 2009 nr. 237](forskrift/2009-02-27-237), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-19). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89) (ikr. 1 mars 2009 iflg. [res. 27 feb 2009 nr. 237](forskrift/2009-02-27-237), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-19), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-19. Sikring av rettsvern for utleggspant
 
-Ved utlegg i et formuesgode som er registrert i et realregister, i en registrert særlig rett i et slikt formuesgode eller i en ideell del i et slikt formuesgode eller en slik rett, sender namsmannen omgående underretning om utleggspantet til registrering i realregisteret. Tilsvarende gjelder ved utlegg i utinglyst rettighet i fast eiendom. For tilbehør til fast eiendom, gjelder annet ledd tilsvarende.
+Ved utlegg i et formuesgode som er registrert i et realregister, i en registrert særlig rett i et slikt formuesgode eller i en ideell del i et slikt formuesgode eller en slik rett, sender namsfogden omgående underretning om utleggspantet til registrering i realregisteret. Tilsvarende gjelder ved utlegg i utinglyst rettighet i fast eiendom. For tilbehør til fast eiendom, gjelder annet ledd tilsvarende.
 
-Ved utlegg i løsøre som ikke er realregistrert, kan namsmannen ta løsøret i forvaring eller på annen måte frata saksøkte rådigheten over det som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3), dersom det er grunn til å frykte at saksøkte vil forføye over det i strid med saksøkerens panterett. Tiltak etter første punktum skal føres inn i namsboken. Dersom saksøkeren ikke har begjært tvangsdekning innen en måned etter å ha fått underretning om utlegget, kan namsmannen av eget tiltak oppheve tiltak etter første punktum. Dersom saksøkeren ikke har begjært tvangsdekning innen fristen etter tredje punktum, skal tiltaket oppheves dersom saksøkte begjærer det og det ikke lenger er grunn til å tro at saksøkte vil forføye over løsøret i strid med saksøkerens panterett.
+Ved utlegg i løsøre som ikke er realregistrert, kan namsfogden ta løsøret i forvaring eller på annen måte frata saksøkte rådigheten over det som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3), dersom det er grunn til å frykte at saksøkte vil forføye over det i strid med saksøkerens panterett. Tiltak etter første punktum skal føres inn i namsboken. Dersom saksøkeren ikke har begjært tvangsdekning innen en måned etter å ha fått underretning om utlegget, kan namsfogden av eget tiltak oppheve tiltak etter første punktum. Dersom saksøkeren ikke har begjært tvangsdekning innen fristen etter tredje punktum, skal tiltaket oppheves dersom saksøkte begjærer det og det ikke lenger er grunn til å tro at saksøkte vil forføye over løsøret i strid med saksøkerens panterett.
 
-Ved utlegg i verdipapirer tar namsmannen papirene i forvaring eller fratar på annen måte saksøkte rådigheten over dem som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre. Ved utlegg i penger tar namsmannen pengene i forvaring. Norske penger som er tatt i forvaring, plasseres til best mulig rente i norsk bank. Utenlandske penger veksles bare om til norske penger dersom saksøkte samtykker.
+Ved utlegg i verdipapirer tar namsfogden papirene i forvaring eller fratar på annen måte saksøkte rådigheten over dem som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre. Ved utlegg i penger tar namsfogden pengene i forvaring. Norske penger som er tatt i forvaring, plasseres til best mulig rente i norsk bank. Utenlandske penger veksles bare om til norske penger dersom saksøkte samtykker.
 
-Ved utlegg i finansielle instrumenter som er registrert i en verdipapirsentral, registrerer namsmannen omgående at bare namsmannen kan disponere kontoen.
+Ved utlegg i finansielle instrumenter som er registrert i en verdipapirsentral, registrerer namsfogden omgående at bare namsfogden kan disponere kontoen.
 
-Ved utlegg i aksjer som ikke er registrert i en verdipapirsentral, underretter namsmannen, dersom det lar seg gjøre, snarest selskapet og forbyr selskapet å betale eller yte til saksøkte.
+Ved utlegg i aksjer som ikke er registrert i en verdipapirsentral, underretter namsfogden, dersom det lar seg gjøre, snarest selskapet og forbyr selskapet å betale eller yte til saksøkte.
 
-Ved utlegg i et innløsningspapir som ikke er verdipapir, underretter namsmannen snarest den forpliktede og forbyr denne å betale eller yte til saksøkte. Namsmannen tar dessuten innløsningspapiret i forvaring eller fratar på annen måte saksøkte rådigheten over papiret som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre.
+Ved utlegg i et innløsningspapir som ikke er verdipapir, underretter namsfogden snarest den forpliktede og forbyr denne å betale eller yte til saksøkte. Namsfogden tar dessuten innløsningspapiret i forvaring eller fratar på annen måte saksøkte rådigheten over papiret som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre.
 
-Ved utlegg i adkomstdokumenter til leierett eller borett til husrom underretter namsmannen vedkommende utleier eller selskap, jf. [panteloven § 5-8](lov/1980-02-08-2/§5-8). Namsmannen tar dessuten dokumentet i forvaring eller fratar på annen måte saksøkte rådigheten som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre.
+Ved utlegg i adkomstdokumenter til leierett eller borett til husrom underretter namsfogden vedkommende utleier eller selskap, jf. [panteloven § 5-8](lov/1980-02-08-2/§5-8). Namsfogden tar dessuten dokumentet i forvaring eller fratar på annen måte saksøkte rådigheten som angitt i [panteloven § 3-2 annet](lov/1980-02-08-2/§3-2/ledd/2) og [tredje ledd](lov/1980-02-08-2/§3-2/ledd/3) dersom det lar seg gjøre.
 
-Ved utlegg i enkle krav underretter namsmannen dersom det lar seg gjøre snarest den forpliktede og forbyr denne å betale eller yte til saksøkte.
+Ved utlegg i enkle krav underretter namsfogden dersom det lar seg gjøre snarest den forpliktede og forbyr denne å betale eller yte til saksøkte.
 
-Ved utlegg i immaterialrettigheter som det finnes særskilt register for, sender namsmannen omgående underretning om utleggspantet til registrering i registeret.
+Ved utlegg i immaterialrettigheter som det finnes særskilt register for, sender namsfogden omgående underretning om utleggspantet til registrering i registeret.
 
-Ved utlegg i elsertifikater registrerer namsmannen omgående i elsertifikatregisteret at bare namsmannen kan disponere over elsertifikater det er tatt utlegg i.
+Ved utlegg i elsertifikater registrerer namsfogden omgående i elsertifikatregisteret at bare namsfogden kan disponere over elsertifikater det er tatt utlegg i.
 
-Ved utlegg i andre formuesgoder enn nevnt i første ledd sørger namsmannen omgående for at utlegget blir registrert i Løsøreregisteret.
+Ved utlegg i andre formuesgoder enn nevnt i første ledd sørger namsfogden omgående for at utlegget blir registrert i Løsøreregisteret.
 
-Dersom et formuesgode befinner seg hos en tredjeperson, kan namsmannen pålegge vedkommende å utlevere formuesgodet dersom ikke tredjepersonen har en rett til å sitte med formuesgodet som har bedre prioritet enn saksøkerens panterett.
+Dersom et formuesgode befinner seg hos en tredjeperson, kan namsfogden pålegge vedkommende å utlevere formuesgodet dersom ikke tredjepersonen har en rett til å sitte med formuesgodet som har bedre prioritet enn saksøkerens panterett.
 
-> Endret ved lover [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne (ikr. 1 mars 2009 iflg. [res. 27 feb 2009 nr. 237](forskrift/2009-02-27-237), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [24 juni 2011 nr. 39](lov/2011-06-24-39) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1244](forskrift/2011-12-16-1244)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-20). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560), se endringslovens VI), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)), [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne (ikr. 1 mars 2009 iflg. [res. 27 feb 2009 nr. 237](forskrift/2009-02-27-237), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [24 juni 2011 nr. 39](lov/2011-06-24-39) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1244](forskrift/2011-12-16-1244)), [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-20), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-20. Beslutning og underretning om utleggstrekk
 
 En beslutning om at et krav skal dekkes ved utleggstrekk, skjer ved at det etableres utleggstrekk for kravet, eller, dersom det allerede foreligger utleggstrekk mot saksøkte, ved at kravet meldes inn i trekket, jf. [dekningsloven § 2-8](lov/1984-06-08-59/§2-8).
 
-En beslutning om utleggstrekk føres inn i namsboken. Namsmannen skal i namsboken gi en nøyaktig beregning av saksøkerens krav med sakskostnader og renter fram til utleggsdagen og nøyaktige opplysninger om beregningen av renter fra utleggsdagen. Kravets prioritet etter [dekningsloven § 2-8](lov/1984-06-08-59/§2-8) skal fastsettes og angis i namsboken. Størrelsen av krav som i prioritetsrekken ligger foran eller likt med saksøkers krav, skal også angis. Saksøkeren skal gjøres oppmerksom på plikten til å holde Innkrevingsmyndigheten orientert om endringer i kravsforholdet.
+En beslutning om utleggstrekk føres inn i namsboken. Namsfogden skal i namsboken gi en nøyaktig beregning av saksøkerens krav med sakskostnader og renter fram til utleggsdagen og nøyaktige opplysninger om beregningen av renter fra utleggsdagen. Kravets prioritet etter [dekningsloven § 2-8](lov/1984-06-08-59/§2-8) skal fastsettes og angis i namsboken. Størrelsen av krav som i prioritetsrekken ligger foran eller likt med saksøkers krav, skal også angis. Saksøkeren skal gjøres oppmerksom på plikten til å holde Innkrevingsmyndigheten orientert om endringer i kravsforholdet.
 
-Dersom det ikke allerede løper utleggstrekk mot saksøkte, skal namsmannen dessuten i namsboken fastsette trekkets størrelse og angi hvem som er trekkpliktig. Saksøkte skal gjøres oppmerksom på at det vil bli registrert i Løsøreregisteret at utleggstrekk er etablert.
+Dersom det ikke allerede løper utleggstrekk mot saksøkte, skal namsfogden dessuten i namsboken fastsette trekkets størrelse og angi hvem som er trekkpliktig. Saksøkte skal gjøres oppmerksom på at det vil bli registrert i Løsøreregisteret at utleggstrekk er etablert.
 
 Partene skal gis gjenpart av namsboken. Innkrevingsmyndigheten skal underrettes om trekkbeslutningen.
 
-> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne, (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-21). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne, (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-21), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-21. Endring av utleggstrekk
 
 Dersom det inntrer endringer i saksøktes økonomiske forhold eller det foreligger endrede opplysninger m.m., kan namsmyndigheten regulere trekket. Namsmyndigheten kan også regulere trekket dersom det klart foreligger feil ved fastsettelsen av trekkets størrelse. Saksøkte kan begjære regulering. Fordringshavere som har krav i trekket, kan begjære regulering når endringen i saksøktes økonomiske forhold er vesentlig eller de nye opplysningene er av vesentlig betydning. Saksøkte skal forelegges en ny trekkberegning med oppfordring til å uttale seg innen en frist på minst tre uker fra avsendelsen før det kan treffes beslutning om å øke trekket.
 
-Har Innkrevingsmyndigheten krav i trekket, treffes avgjørelser som nevnt i første ledd av Innkrevingsmyndigheten. Hvis Innkrevingsmyndigheten ikke har krav i trekket, treffes avgjørelsen av den alminnelige namsmannen som har kompetanse etter [§ 7-3 fjerde ledd](lov/1992-06-26-86/§7-3/ledd/4) til å etablere utleggstrekk. Kongen kan gi forskrift om hvilken namsmyndighet som skal treffe slike avgjørelser i tilfeller som ikke dekkes av første og annet punktum.
+Har Innkrevingsmyndigheten krav i trekket, treffes avgjørelser som nevnt i første ledd av Innkrevingsmyndigheten. Hvis Innkrevingsmyndigheten ikke har krav i trekket, treffes avgjørelsen av den namsfogden som har kompetanse etter [§ 7-3 fjerde ledd](lov/1992-06-26-86/§7-3/ledd/4) til å etablere utleggstrekk. Kongen kan gi forskrift om hvilken namsmyndighet som skal treffe slike avgjørelser i tilfeller som ikke dekkes av første og annet punktum.
 
-Dersom en namsmyndighet som melder nye krav inn i trekket, mener at trekket bør reguleres, men ikke selv er kompetent etter annet ledd til å gjøre det, kan den oppfordre den kompetente namsmyndigheten til å vurdere regulering av trekket. En alminnelig namsmann inntar oppfordring som nevnt i namsboken.
+Dersom en namsmyndighet som melder nye krav inn i trekket, mener at trekket bør reguleres, men ikke selv er kompetent etter annet ledd til å gjøre det, kan den oppfordre den kompetente namsmyndigheten til å vurdere regulering av trekket. En namsfogd inntar oppfordring som nevnt i namsboken.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-23). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-23), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-22. Skifte av trekkpliktig
 
@@ -948,11 +948,11 @@ Dersom en saksøkt som er pålagt utleggstrekk i lønn, skifter arbeidsgiver, sk
 
 ### § 7-23. Avslutning av sak med intet til utlegg
 
-Når det ikke blir tatt utlegg fordi saksøkte ikke har formuesgoder eller lønn eller andre pengekrav som nevnt i [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) som det kan tas utlegg i, avsluttes saken ved at namsmannen gir begge parter gjenpart av namsboken som viser utfallet og hva som er foretatt. I namsboken skal det opplyses at utfallet vil bli registrert i Løsøreregisteret. Namsmannen sørger omgående for registreringen.
+Når det ikke blir tatt utlegg fordi saksøkte ikke har formuesgoder eller lønn eller andre pengekrav som nevnt i [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) som det kan tas utlegg i, avsluttes saken ved at namsfogden gir begge parter gjenpart av namsboken som viser utfallet og hva som er foretatt. I namsboken skal det opplyses at utfallet vil bli registrert i Løsøreregisteret. Namsfogden sørger omgående for registreringen.
 
-Der saksøkte er en fysisk person som ikke allerede er ilagt utleggstrekk, skal utfallet bare registreres i Løsøreregisteret dersom namsmannen er kompetent til å etablere utleggstrekk.
+Der saksøkte er en fysisk person som ikke allerede er ilagt utleggstrekk, skal utfallet bare registreres i Løsøreregisteret dersom namsfogden er kompetent til å etablere utleggstrekk.
 
-> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-25). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 89](lov/2005-06-17-89), se denne (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-25), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### III. Klage, bortfall og opphevelse av utlegg mv.
 
@@ -974,19 +974,19 @@ Dersom et krav som er sikret ved utleggspant, er dekket eller opphørt på annen
 
 ### § 7-26. Beslutning om opphevelse av utlegg
 
-I tilfeller som nevnt i [§ 7-25](lov/1992-06-26-86/§7-25) skal namsmannen på begjæring treffe beslutning om opphevelse av utlegget.
+I tilfeller som nevnt i [§ 7-25](lov/1992-06-26-86/§7-25) skal namsfogden på begjæring treffe beslutning om opphevelse av utlegget.
 
-Viser det seg at utlegg er tatt i større omfang enn nødvendig fordi saksøkte har betalt avdrag eller tvangsgrunnlaget er blitt begrenset, skal namsmannen på begjæring treffe beslutning om delvis opphevelse.
+Viser det seg at utlegg er tatt i større omfang enn nødvendig fordi saksøkte har betalt avdrag eller tvangsgrunnlaget er blitt begrenset, skal namsfogden på begjæring treffe beslutning om delvis opphevelse.
 
-Før namsmannen treffer beslutning etter første ledd, skal saksøkeren gis anledning til å uttale seg. Partene gis meddelelse om beslutningen. Beslutningen kan påklages innen en måned etter at meddelelsen er sendt. Den kan ikke gjennomføres før klagefristen er løpt ut. Klage har oppsettende virkning.
+Før namsfogden treffer beslutning etter første ledd, skal saksøkeren gis anledning til å uttale seg. Partene gis meddelelse om beslutningen. Beslutningen kan påklages innen en måned etter at meddelelsen er sendt. Den kan ikke gjennomføres før klagefristen er løpt ut. Klage har oppsettende virkning.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-28). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 7-28), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-27. Beslutning om opphør av registrering av «intet til utlegg»
 
-Er det krav som ble søkt inndrevet i en sak som ble avsluttet ved intet til utlegg, dekket eller bortfalt på annen måte, eller er tvangsgrunnlaget opphevet, falt bort eller kjent ugyldig, skal namsmannen på begjæring treffe beslutning om at registreringen i Løsøreregisteret av beslutningen om intet til utlegg skal slettes. [§ 7-26 tredje ledd](lov/1992-06-26-86/§7-26/ledd/3) gjelder tilsvarende.
+Er det krav som ble søkt inndrevet i en sak som ble avsluttet ved intet til utlegg, dekket eller bortfalt på annen måte, eller er tvangsgrunnlaget opphevet, falt bort eller kjent ugyldig, skal namsfogden på begjæring treffe beslutning om at registreringen i Løsøreregisteret av beslutningen om intet til utlegg skal slettes. [§ 7-26 tredje ledd](lov/1992-06-26-86/§7-26/ledd/3) gjelder tilsvarende.
 
-> Tilføyd ved [lov 17 juni 2005 nr. 89](lov/2005-06-17-89), se denne, (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 29). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 17 juni 2005 nr. 89](lov/2005-06-17-89), se denne, (ikr. 1 mars 2008 iflg. [res. 15 feb 2008 nr. 136](forskrift/2008-02-15-136), ikr. 15 des 2011 iflg. [res. 9 des 2011 nr. 1194](forskrift/2011-12-09-1194), ikr. 11 juni 2012 iflg. [res. 8 juni 2012 nr. 496](forskrift/2012-06-08-496) og ikr. 16 mars 2013 iflg. [res. 15 mars 2013 nr. 273](forskrift/2013-03-15-273)), endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene, tidligere § 29), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 7-28. Opphør av utleggstrekk
 
@@ -1020,11 +1020,11 @@ For utlegg etter første ledd bokstav b som er stiftet av namsmyndighetene, kan 
 
 ### § 8-3. Kompetent namsmyndighet
 
-Begjæring om tvangssalg settes fram for namsmannen i det distriktet der løsøret er eller ventes å komme i nær fremtid. Befinner løsøret seg i flere distrikter, kan begjæringen settes fram i hvilket som helst av distriktene.
+Begjæring om tvangssalg settes fram for namsfogden i det distriktet der løsøret er eller ventes å komme i nær fremtid. Befinner løsøret seg i flere distrikter, kan begjæringen settes fram i hvilket som helst av distriktene.
 
 Dersom salg begjæres på grunnlag av utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f) og [g](lov/1992-06-26-86/§4-1/ledd/2/bokstav/g), gjelder [§ 7-3 femte ledd](lov/1992-06-26-86/§7-3/ledd/5) tilsvarende.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-4. Hvem begjæringen skal rettes mot
 
@@ -1054,87 +1054,87 @@ Ved særskilt tvangssalg av lagrede reservedeler som omfattes av rettigheter i l
 
 ### § 8-7. Foreleggelse av begjæringen for saksøkte
 
-Finner namsmannen at begjæringen kan tas til følge, skal begjæringen meddeles saksøkte med oppfordring om innen to uker å uttale seg om forhold av betydning for gjennomføringen av tvangssalget. Saksøkte skal samtidig oppfordres til å opplyse om det finnes rettigheter i løsøret som ikke går fram av Løsøreregisteret eller begjæringen, eller om det finnes tilbehørsgjenstander som eies av andre eller som er beheftet særskilt. Saksøkte skal samtidig gjøres oppmerksom på hvilke kostnader som har påløpt, at ytterligere kostnader vil påløpe dersom salget blir gjennomført, og at tvangssalg kan unngås ved at kravet med renter og kostnader blir betalt innen fristen etter første punktum. Finner namsmannen grunn til det, kan det samtidig opplyses om tid og sted for avhenting av det som skal selges.
+Finner namsfogden at begjæringen kan tas til følge, skal begjæringen meddeles saksøkte med oppfordring om innen to uker å uttale seg om forhold av betydning for gjennomføringen av tvangssalget. Saksøkte skal samtidig oppfordres til å opplyse om det finnes rettigheter i løsøret som ikke går fram av Løsøreregisteret eller begjæringen, eller om det finnes tilbehørsgjenstander som eies av andre eller som er beheftet særskilt. Saksøkte skal samtidig gjøres oppmerksom på hvilke kostnader som har påløpt, at ytterligere kostnader vil påløpe dersom salget blir gjennomført, og at tvangssalg kan unngås ved at kravet med renter og kostnader blir betalt innen fristen etter første punktum. Finner namsfogden grunn til det, kan det samtidig opplyses om tid og sted for avhenting av det som skal selges.
 
-Etter at begjæringen er forelagt saksøkte, må løsøret ikke flyttes fra riket eller innretning på norsk kontinentalsokkel uten namsmannens samtykke. I meddelelsen skal det opplyses om dette.
+Etter at begjæringen er forelagt saksøkte, må løsøret ikke flyttes fra riket eller innretning på norsk kontinentalsokkel uten namsfogdens samtykke. I meddelelsen skal det opplyses om dette.
 
 Dersom det er nødvendig for å forebygge verdiforringelse, kan varslingsfristen etter første ledd forkortes eller foreleggelse helt unnlates.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-8. Foreleggelse av begjæringen for andre
 
-Namsmannen kan gi meddelelse som nevnt i [§ 8-7](lov/1992-06-26-86/§8-7) til den som kan antas helt eller delvis å eie løsøret uten å være saksøkt.
+Namsfogden kan gi meddelelse som nevnt i [§ 8-7](lov/1992-06-26-86/§8-7) til den som kan antas helt eller delvis å eie løsøret uten å være saksøkt.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-9. Beslutning om tvangssalg
 
-Når saksøkte og de som er underrettet etter [§ 8-8](lov/1992-06-26-86/§8-8) har uttalt seg, eller fristen for å uttale seg er løpt ut, avgjør namsmannen om tvangssalg skal gjennomføres.
+Når saksøkte og de som er underrettet etter [§ 8-8](lov/1992-06-26-86/§8-8) har uttalt seg, eller fristen for å uttale seg er løpt ut, avgjør namsfogden om tvangssalg skal gjennomføres.
 
-Dersom tvangsgrunnlaget er et omsetningsgjeldsbrev som ikke tidligere er innsendt, skal namsmannen pålegge saksøkeren å fremlegge dokumentet. Blir ikke det gjort, skal saken heves.
+Dersom tvangsgrunnlaget er et omsetningsgjeldsbrev som ikke tidligere er innsendt, skal namsfogden pålegge saksøkeren å fremlegge dokumentet. Blir ikke det gjort, skal saken heves.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-10. Tvangssalgets omfang ved pant i ideelle andeler
 
-Selv om saksøkeren bare har pant i en ideell del av løsøret, kan namsmannen beslutte at salget skal omfatte hele gjenstanden dersom det blir gitt samtykke av saksøkte eller en annen sameier som har rett til å kreve sameiet oppløst ved tvangssalg.
+Selv om saksøkeren bare har pant i en ideell del av løsøret, kan namsfogden beslutte at salget skal omfatte hele gjenstanden dersom det blir gitt samtykke av saksøkte eller en annen sameier som har rett til å kreve sameiet oppløst ved tvangssalg.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-11. Flere gjenstander
 
 Dersom det i en begjæring er krevet salg av flere løsøregjenstander etter [§ 8-5](lov/1992-06-26-86/§8-5) annet ledd, kan gjenstandene selges samlet dersom dette gir størst utbytte. Er det mulighet for at et samlet salg vil føre til salg av gjenstander ut over det som er nødvendig for at alle rettighetshavere i gjenstandene skal få dekning, skal gjenstandene selges enkeltvis hvis ikke saksøkte samtykker i et samlet salg.
 
-Skal gjenstandene selges enkeltvis og det er mulig at saksøkeren vil få dekning uten at alt selges, bestemmer namsmannen rekkefølgen ved salget.
+Skal gjenstandene selges enkeltvis og det er mulig at saksøkeren vil få dekning uten at alt selges, bestemmer namsfogden rekkefølgen ved salget.
 
-> Endret ved [lov 11 juni 1993 nr. 83](lov/1993-06-11-83). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### II. Gjennomføring av tvangssalget
 
 ### § 8-12. Salgsmåte
 
-Tvangssalget gjennomføres på den måte som antas å gi størst utbytte. Namsmannen kan overlate til en medhjelper å stå for salget.
+Tvangssalget gjennomføres på den måte som antas å gi størst utbytte. Namsfogden kan overlate til en medhjelper å stå for salget.
 
-Det kan bestemmes at salget skal skje ved en auksjon som namsmannen holder, jf avsnitt III.
+Det kan bestemmes at salget skal skje ved en auksjon som namsfogden holder, jf avsnitt III.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-13. Særskilt om salg ved medhjelper
 
-Namsmannen avgjør om medhjelperen skal ha adgang til å inngå bindende salgsavtale. Dersom medhjelperen ikke har adgang til å inngå bindende avtale, innhenter medhjelperen bud og forelegger det for namsmannen til godkjenning. Det samme kan medhjelperen gjøre også ellers.
+Namsfogden avgjør om medhjelperen skal ha adgang til å inngå bindende salgsavtale. Dersom medhjelperen ikke har adgang til å inngå bindende avtale, innhenter medhjelperen bud og forelegger det for namsfogden til godkjenning. Det samme kan medhjelperen gjøre også ellers.
 
-Namsmannen avgjør om medhjelperen skal motta kjøpesummen og kan i tilfelle pålegge medhjelperen å holde kjøpesummen adskilt fra egne midler. Namsmannen kan bestemme at medhjelperen skal utbetale kjøpesummen til parter og rettighetshavere når det finnes ubetenkelig. Dersom medhjelperen ikke skal gjøre dette, skal kjøpesummen innbetales til namsmannen med fradrag for medhjelperens godtgjørelse.
+Namsfogden avgjør om medhjelperen skal motta kjøpesummen og kan i tilfelle pålegge medhjelperen å holde kjøpesummen adskilt fra egne midler. Namsfogden kan bestemme at medhjelperen skal utbetale kjøpesummen til parter og rettighetshavere når det finnes ubetenkelig. Dersom medhjelperen ikke skal gjøre dette, skal kjøpesummen innbetales til namsfogden med fradrag for medhjelperens godtgjørelse.
 
-Dersom medhjelperen antar at en annen fremgangsmåte enn salg gjennom medhjelperen sannsynligvis vil gi større utbytte, skal namsmannen underrettes. Medhjelperens krav på godtgjørelse dekkes etter [§ 8-19](lov/1992-06-26-86/§8-19) annet ledd, selv om tvangssalget gjennomføres på annen måte.
+Dersom medhjelperen antar at en annen fremgangsmåte enn salg gjennom medhjelperen sannsynligvis vil gi større utbytte, skal namsfogden underrettes. Medhjelperens krav på godtgjørelse dekkes etter [§ 8-19](lov/1992-06-26-86/§8-19) annet ledd, selv om tvangssalget gjennomføres på annen måte.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-14. Avhenting av løsøret
 
-Besitter saksøkte løsøret, skal namsmannen om nødvendig hente det eller på annen måte sikre det mot rettsstridig forføyning fra saksøktes side, hvis ikke særlige forhold tilsier at det forblir i saksøktes besittelse inntil salget er gjennomført. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes også før tvangssalg er besluttet.
+Besitter saksøkte løsøret, skal namsfogden om nødvendig hente det eller på annen måte sikre det mot rettsstridig forføyning fra saksøktes side, hvis ikke særlige forhold tilsier at det forblir i saksøktes besittelse inntil salget er gjennomført. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes også før tvangssalg er besluttet.
 
-Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Forhåndsvarsel er ikke nødvendig dersom namsmannen finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
+Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Forhåndsvarsel er ikke nødvendig dersom namsfogden finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
 
-Har saksøkeren eller en tredjeperson på saksøkerens vegne løsøret i sin besittelse, kan namsmannen pålegge saksøkeren å bringe det til et fastsatt sted. Dersom pålegget ikke blir etterkommet, skal saken heves.
+Har saksøkeren eller en tredjeperson på saksøkerens vegne løsøret i sin besittelse, kan namsfogden pålegge saksøkeren å bringe det til et fastsatt sted. Dersom pålegget ikke blir etterkommet, skal saken heves.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-15. Salgsvilkår
 
-Det skal gjøres oppmerksom på at salget er et tvangssalg og at kjøperen har begrenset adgang til å påberope mangler. Dersom kjøpesummen skal betales til namsmannen, skal kjøperen gjøres oppmerksom på dette. Det skal ellers gjøres oppmerksom på heftelser som kjøperen skal overta i tillegg til kjøpesummen etter [§ 8-16](lov/1992-06-26-86/§8-16) første ledd tredje punktum. Det kan fastsettes nærmere salgsvilkår.
+Det skal gjøres oppmerksom på at salget er et tvangssalg og at kjøperen har begrenset adgang til å påberope mangler. Dersom kjøpesummen skal betales til namsfogden, skal kjøperen gjøres oppmerksom på dette. Det skal ellers gjøres oppmerksom på heftelser som kjøperen skal overta i tillegg til kjøpesummen etter [§ 8-16](lov/1992-06-26-86/§8-16) første ledd tredje punktum. Det kan fastsettes nærmere salgsvilkår.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-16. Forholdet til bedre prioriterte rettighetshavere
 
-Salget kan bare gjennomføres dersom den pris som oppnås dekker alle heftelser med bedre prioritet enn saksøkerens krav. For beregning av foranstående pengeheftelser gjelder [§ 8-19](lov/1992-06-26-86/§8-19) annet og tredje ledd tilsvarende. Foranstående heftelser som ikke er pengeheftelser, skal overtas av kjøperen utenfor kjøpesummen hvis ikke rettighetshaveren samtykker i at heftelsen gjøres om i penger. Dersom det viser seg at den nødvendige pris ikke kan oppnås, skal namsmannen heve saken.
+Salget kan bare gjennomføres dersom den pris som oppnås dekker alle heftelser med bedre prioritet enn saksøkerens krav. For beregning av foranstående pengeheftelser gjelder [§ 8-19](lov/1992-06-26-86/§8-19) annet og tredje ledd tilsvarende. Foranstående heftelser som ikke er pengeheftelser, skal overtas av kjøperen utenfor kjøpesummen hvis ikke rettighetshaveren samtykker i at heftelsen gjøres om i penger. Dersom det viser seg at den nødvendige pris ikke kan oppnås, skal namsfogden heve saken.
 
 Uansett pris kan et salg gjennomføres dersom foranstående rettighetshavere har samtykket i salget, eller saksøkeren har stilt sikkerhet for deres krav.
 
 Dersom løsøret besittes av en bedre prioritert panthaver, kan tvangssalg bare gjennomføres dersom gjenstanden stilles til disposisjon for den som forestår salget. Er det stilt sikkerhet for panthaverens krav, plikter vedkommende å utlevere gjenstanden til den som forestår salget.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-17. Virkningen av salget
 
@@ -1142,11 +1142,11 @@ Ved inngåelsen av salgsavtalen blir kjøperen eier av gjenstanden hvis ikke ann
 
 Ved betalingen av kjøpesummen kan kjøperen kreve salgsgjenstanden utlevert. Ved betalingen bortfaller alle begrensede rettigheter i salgsgjenstanden. Dette gjelder likevel ikke foranstående heftelser som ikke er pengeheftelser når de skal overtas av kjøperen utenfor kjøpesummen eller er beskyttet etter [§ 8-21](lov/1992-06-26-86/§8-21) tredje ledd.
 
-Når kjøpesummen er betalt, gir namsmannen på begjæring av kjøperen eller saksøkte skriftlig erklæring om salget.
+Når kjøpesummen er betalt, gir namsfogden på begjæring av kjøperen eller saksøkte skriftlig erklæring om salget.
 
 Dersom det solgte løsøre besittes av noen av partene, eller av en person som er varslet etter [§ 8-8](lov/1992-06-26-86/§8-8), og det viser seg at vedkommende etter salget ikke er villig til å oppgi besittelsen, kan kjøperen på grunnlag av salget og uten gebyr kreve tvangsfullbyrdelse etter [kapittel 13](lov/1992-06-26-86/kap13).
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-18. Mislighold fra kjøperen
 
@@ -1154,9 +1154,9 @@ Dersom kjøpesummen ikke blir betalt innen betalingsfristen, plikter kjøperen �
 
 Oversitter kjøperen betalingsfristen, skal den som står for salget straks varsle kjøperen om at kjøpet vil bli hevet dersom kjøpesummen med renter ikke er betalt innen en frist på minst to uker. Oversittes denne fristen, skal kjøpet heves og salget fortsettes.
 
-Blir salg gjennomført etter opphevelsen, er kjøperen ansvarlig for forskjellen overfor rettighetshavere som ville fått bedre dekning ved det første salget enn ved det siste, dersom ikke misligholdet skyldtes en uforutsett hindring utenfor kjøperens kontroll. Krav mot kjøperen etter dette leddet gjøres gjeldende ved søksmål for de alminnelige domstoler. Søksmålet kan reises i den rettskrets der namsmannen har sitt kontor.
+Blir salg gjennomført etter opphevelsen, er kjøperen ansvarlig for forskjellen overfor rettighetshavere som ville fått bedre dekning ved det første salget enn ved det siste, dersom ikke misligholdet skyldtes en uforutsett hindring utenfor kjøperens kontroll. Krav mot kjøperen etter dette leddet gjøres gjeldende ved søksmål for de alminnelige domstoler. Søksmålet kan reises i den rettskrets der namsfogden har sitt kontor.
 
-> Endret ved [lov 11 juni 1993 nr. 83](lov/1993-06-11-83). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-19. Avslutningen av salget
 
@@ -1174,23 +1174,23 @@ For pantekrav som er knyttet til et verdipapir, skal det ikke utbetales del av k
 
 En mangel foreligger når:gjenstanden ikke svarer til opplysninger om vesentlige forhold som den som står for salget har gitt og som kan antas å ha innvirket på kjøpet,den som står for salget har forsømt å gi opplysning om vesentlige forhold som vedkommende måtte kjenne til og som kjøperen hadde grunn til å regne med å få, såfremt unnlatelsen kan antas å ha innvirket på kjøpet, ellergjenstanden er i vesentlig dårligere stand enn kjøperen hadde grunn til å regne med.
 
-Dersom gjenstanden har mangler, kan kjøperen kreve prisavslag. Kjøperen kan ikke heve kjøpet på grunn av mangler etter at kjøpesummen er betalt. Erstatning kan bare kreves av den som står for salget dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav om prisavslag eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven. Ved søksmål om prisavslag saksøkes de som har fått del i den del av kjøpesummen som rammes av prisavslaget.
+Dersom gjenstanden har mangler, kan kjøperen kreve prisavslag. Kjøperen kan ikke heve kjøpet på grunn av mangler etter at kjøpesummen er betalt. Erstatning kan bare kreves av den som står for salget dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav om prisavslag eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsfogden har sitt kontor, eller for den domstol som saken hører under etter tvisteloven. Ved søksmål om prisavslag saksøkes de som har fått del i den del av kjøpesummen som rammes av prisavslaget.
 
 Kjøpesummen må betales selv om prisavslag kreves med mindre kjøperen hever kjøpet. Dersom kjøperen krever at den del av kjøpesummen som rammes av kravet om prisavslag, ikke skal utbetales til de berettigede, skal denne delen av kjøpesummen holdes tilbake. Dersom retten etter begjæring fra en av de berettigede finner kravet om prisavslag åpenbart grunnløst, skal likevel hele kjøpesummen utbetales. Dersom kjøperen ikke har reist søksmål om prisavslag innen to måneder regnet fra forfallstidspunktet for kjøpesummen, skal den tilbakeholdte del av kjøpesummen ikke lenger holdes tilbake.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-21. Rettsmangler
 
-Dersom løsøret før tvangssalget helt eller delvis var eiet av en person som ikke var saksøkt og heller ikke ble varslet etter [§ 8-8](lov/1992-06-26-86/§8-8), er vedkommendes eiendomsrett fortsatt i behold hvis ikke eiendomsretten er falt bort ved overtakelsen av løsøret etter reglene om erverv i god tro. Tvist om eiendomsretten avgjøres ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
+Dersom løsøret før tvangssalget helt eller delvis var eiet av en person som ikke var saksøkt og heller ikke ble varslet etter [§ 8-8](lov/1992-06-26-86/§8-8), er vedkommendes eiendomsrett fortsatt i behold hvis ikke eiendomsretten er falt bort ved overtakelsen av løsøret etter reglene om erverv i god tro. Tvist om eiendomsretten avgjøres ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsfogden har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
 
-Dersom kjøperen må gi fra seg løsøret, kan denne av enhver som har fått del i kjøpesummen, kreve tilbake det vedkommende har fått. Etter at kjøpesummen er betalt, kan kjøperen ikke heve kjøpet på grunn av rettsmangelen. Erstatning kan bare kreves av den som står for salget dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav på tilbakebetaling eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsmannen har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
+Dersom kjøperen må gi fra seg løsøret, kan denne av enhver som har fått del i kjøpesummen, kreve tilbake det vedkommende har fått. Etter at kjøpesummen er betalt, kan kjøperen ikke heve kjøpet på grunn av rettsmangelen. Erstatning kan bare kreves av den som står for salget dersom denne har utvist skyld eller det foreligger annet særskilt rettsgrunnlag. Krav på tilbakebetaling eller erstatning gjøres gjeldende ved søksmål. Søksmålet reises for tingretten for den rettskrets der namsfogden har sitt kontor, eller for den domstol som saken hører under etter tvisteloven.
 
 Kjøpesummen må betales selv om det er fare for at kjøperen må gi fra seg løsøret til en tredjeperson etter første ledd. Dersom kjøperen krever at kjøpesummen ikke skal utbetales til de berettigede, skal kjøpesummen holdes tilbake. Dersom retten etter begjæring fra en av de berettigede finner at det åpenbart ikke er fare for at kjøperen må gi fra seg løsøret, skal kjøpesummen likevel utbetales. Dersom kjøperen ikke har reist søksmål mot tredjepersonen innen to måneder regnet fra forfallstidspunktet for kjøpesummen, skal kjøpesummen ikke lenger holdes tilbake.
 
 Dersom noen før salget hadde en bedre prioritert heftelse som ikke er pengeheftelse og som det ikke ble tatt forbehold om ved salget, er heftelsen i behold så langt den ikke faller bort etter reglene i godtroervervsloven. Er heftelsen i behold, gjelder [§ 8-20](lov/1992-06-26-86/§8-20) annet og tredje ledd tilsvarende.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-22. Uriktig utbetaling av kjøpesummen
 
@@ -1200,9 +1200,9 @@ Skyldes forbigåelsen at saksøkeren har unnlatt å gjøre oppmerksom på en ret
 
 Krav etter denne paragrafen gjøres gjeldende ved søksmål for de alminnelige domstoler.
 
-### III. Særregler for auksjoner holdt av namsmannen
+### III. Særregler for auksjoner holdt av namsfogden
 
-> Overskrift **endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Overskrift endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-23. Stedet for auksjonen m m
 
@@ -1212,21 +1212,21 @@ Under auksjonen skal vanligvis løsøret være til stede. Dette er likevel ikke 
 
 ### § 8-24. Varsel og kunngjøring
 
-Partene skal gis meddelelse om tid og sted for auksjonen dersom de har bedt om det eller namsmannen finner grunn til det.
+Partene skal gis meddelelse om tid og sted for auksjonen dersom de har bedt om det eller namsfogden finner grunn til det.
 
-Minst tre dager før auksjonen holdes, skal namsmannen kunngjøre tid og sted i en avis eller et blad som er alminnelig lest blant dem som kan tenkes å være interessert i løsøret. Det skal opplyses at salget er et tvangssalg og gis en alminnelig angivelse av det som skal selges. Særlig verdifulle gjenstander skal fremheves, og det skal opplyses hvor løsøret kan besiktiges.
+Minst tre dager før auksjonen holdes, skal namsfogden kunngjøre tid og sted i en avis eller et blad som er alminnelig lest blant dem som kan tenkes å være interessert i løsøret. Det skal opplyses at salget er et tvangssalg og gis en alminnelig angivelse av det som skal selges. Særlig verdifulle gjenstander skal fremheves, og det skal opplyses hvor løsøret kan besiktiges.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 8-25. Auksjonsmøtet
 
 Auksjonsmøtet er offentlig. Den som opptrer forstyrrende, kan vises ut.
 
-Auksjonen starter med at namsmannen nevner i korthet hva som skal selges, vilkårene for salget og at namsmannen ikke plikter å godta noen av budene. Det skal også nevnes at løsøret selges med begrenset adgang til å påberope mangler. Dersom det ikke før oppropet er tatt forbehold om frist for å godta budene, er bud som ikke godtas i auksjonsmøtet, ikke lenger bindende.
+Auksjonen starter med at namsfogden nevner i korthet hva som skal selges, vilkårene for salget og at namsfogden ikke plikter å godta noen av budene. Det skal også nevnes at løsøret selges med begrenset adgang til å påberope mangler. Dersom det ikke før oppropet er tatt forbehold om frist for å godta budene, er bud som ikke godtas i auksjonsmøtet, ikke lenger bindende.
 
-Namsmannen oppfordrer deretter de tilstedeværende om å gi bud. Når ingen flere bud blir gitt, skal namsmannen gjentatte ganger høyt og tydelig kunngjøre det siste budet og si fra at oppropet vil slutte dersom ikke flere bud blir gitt. Blir det da ikke gitt flere bud, avsluttes oppropet.
+Namsfogden oppfordrer deretter de tilstedeværende om å gi bud. Når ingen flere bud blir gitt, skal namsfogden gjentatte ganger høyt og tydelig kunngjøre det siste budet og si fra at oppropet vil slutte dersom ikke flere bud blir gitt. Blir det da ikke gitt flere bud, avsluttes oppropet.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### Kapittel 9. Tvangsdekning i løsøre ved tilbakelevering til salgspanthaver
 
@@ -1258,11 +1258,11 @@ Om namsmyndighet, innholdet av begjæringen, foreleggelse og beslutning om tilba
 
 ### § 9-4. Forberedelse
 
-Når tilbakelevering er besluttet, kan namsmannen hente det som skal tilbakeleveres dersom det finnes hensiktsmessig å holde tilbakeleveringsforretningen på annet sted enn der løsøret er. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes eller på annen måte sikres mot rettsstridig forføyning fra saksøktes side før tilbakelevering er besluttet.
+Når tilbakelevering er besluttet, kan namsfogden hente det som skal tilbakeleveres dersom det finnes hensiktsmessig å holde tilbakeleveringsforretningen på annet sted enn der løsøret er. Dersom fullbyrdelsen ellers vil bli vesentlig vanskeliggjort, kan løsøret avhentes eller på annen måte sikres mot rettsstridig forføyning fra saksøktes side før tilbakelevering er besluttet.
 
-Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Varselet kan gis ved foreleggelsen av begjæringen. Forhåndsvarsel er likevel ikke nødvendig dersom namsmannen finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen vil bli vesentlig vanskeliggjort om meddelelse gis.
+Avhenting kan bare skje etter forhåndsvarsel til saksøkte. Varselet kan gis ved foreleggelsen av begjæringen. Forhåndsvarsel er likevel ikke nødvendig dersom namsfogden finner saksøkte eller en myndig person i saksøktes husstand på stedet, eller dersom fullbyrdelsen vil bli vesentlig vanskeliggjort om meddelelse gis.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-5. Stedet for og varsel om forretningen
 
@@ -1272,23 +1272,23 @@ Partene skal gis meddelelse om tid og sted for forretningen. Meddelelse til saks
 
 ### § 9-6. Innledning av forretningen
 
-Tilbakeleveringsforretningen begynner med at namsmannen regner ut saksøkerens krav med renter og kostnader. Deretter oppfordres saksøkte, om denne er til stede, til å betale beløpet. [§ 7-9 tredje ledd](lov/1992-06-26-86/§7-9/ledd/3) gjelder tilsvarende.
+Tilbakeleveringsforretningen begynner med at namsfogden regner ut saksøkerens krav med renter og kostnader. Deretter oppfordres saksøkte, om denne er til stede, til å betale beløpet. [§ 7-9 tredje ledd](lov/1992-06-26-86/§7-9/ledd/3) gjelder tilsvarende.
 
-Dersom saksøkte er til stede og ikke betaler, skal namsmannen gjøre saksøkte kjent med dennes rettigheter etter denne lov.
+Dersom saksøkte er til stede og ikke betaler, skal namsfogden gjøre saksøkte kjent med dennes rettigheter etter denne lov.
 
-> Endret ved lover [24 juni 2011 nr. 31](lov/2011-06-24-31), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [24 juni 2011 nr. 31](lov/2011-06-24-31), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-7. Verdsetting
 
 Ved tilbakelevering skal saksøkte godskrives den verdi tingen har, når den blir tatt tilbake. Med tingens verdi forstås den verdi som kan innvinnes ved salg av tingen på hensiktsmessig måte, eventuelt etter en rimelig reparasjon.
 
-Verdien av løsøret fastsettes av namsmannen og eventuelle rettsvitner. Namsmannen kan oppnevne ett eller to rettsvitner med særlige kunnskaper til å ta del i verdsettingen dersom det finnes nødvendig. Partene kan kreve at ett eller to rettsvitner deltar.
+Verdien av løsøret fastsettes av namsfogden og eventuelle rettsvitner. Namsfogden kan oppnevne ett eller to rettsvitner med særlige kunnskaper til å ta del i verdsettingen dersom det finnes nødvendig. Partene kan kreve at ett eller to rettsvitner deltar.
 
-Ved uenighet om verdien, fastsettes den ved stemmeflerhet. Deltar bare ett rettsvitne i verdsettingen, er namsmannens stemme avgjørende.
+Ved uenighet om verdien, fastsettes den ved stemmeflerhet. Deltar bare ett rettsvitne i verdsettingen, er namsfogdens stemme avgjørende.
 
 I namsboken skal det tas inn en kort redegjørelse for de forhold som har vært lagt til grunn for verdsettingen.
 
-> Endret ved [lov 7 mai 2010 nr. 15](lov/2010-05-07-15) (ikr. 11 juni 2010 iflg. [res. 7 mai 2010 nr. 653](forskrift/2010-05-07-653)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [7 mai 2010 nr. 15](lov/2010-05-07-15) (ikr. 11 juni 2010 iflg. [res. 7 mai 2010 nr. 653](forskrift/2010-05-07-653)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-8. Det økonomiske oppgjøret og tilbakeleveringen
 
@@ -1296,35 +1296,35 @@ Saksøkeren kan ved tilbakeleveringen godskrive segden gjenstående del av kredi
 
 Dersom løsørets verdi er større enn saksøkerens krav, skal saksøkte ved tilbakeleveringen ha utbetalt forskjellen. Dersom løsørets verdi er mindre enn saksøkerens krav, kan saksøkeren kreve forskjellen.
 
-Etter verdsettingen skal namsmannen ta løsøret fra saksøkte og levere det til saksøkeren. Er løsørets verdi større enn saksøkerens krav, kan løsøret ikke utleveres til saksøkeren før saksøkeren har innbetalt forskjellen til namsmannen.
+Etter verdsettingen skal namsfogden ta løsøret fra saksøkte og levere det til saksøkeren. Er løsørets verdi større enn saksøkerens krav, kan løsøret ikke utleveres til saksøkeren før saksøkeren har innbetalt forskjellen til namsfogden.
 
-Dersom det er rettighetshavere i løsøret som har bedre prioritet enn saksøkeren, kan løsøret heller ikke utleveres til saksøkeren uten at denne innbetaler til namsmannen dennes tilgodehavende eller stiller sikkerhet for deres krav.
+Dersom det er rettighetshavere i løsøret som har bedre prioritet enn saksøkeren, kan løsøret heller ikke utleveres til saksøkeren uten at denne innbetaler til namsfogden dennes tilgodehavende eller stiller sikkerhet for deres krav.
 
-> Endret ved [lov 7 mai 2010 nr. 15](lov/2010-05-07-15) (ikr. 11 juni 2010 iflg. [res. 7 mai 2010 nr. 653](forskrift/2010-05-07-653)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [7 mai 2010 nr. 15](lov/2010-05-07-15) (ikr. 11 juni 2010 iflg. [res. 7 mai 2010 nr. 653](forskrift/2010-05-07-653)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-9. Underretning
 
-Namsmannen skal gi partene meddelelse om verdsettingen dersom de er til stede og ellers snarest mulig etter at forretningen er holdt. Saksøkeren skal gis meddelelse om at innbetaling etter [§ 9-8](lov/1992-06-26-86/§9-8) må skje innen utløpet av klagefristen etter [§ 9-12](lov/1992-06-26-86/§9-12) første punktum. Dersom saksøkeren ikke har gjort dette og heller ikke har påklaget namsmannens beslutning, skal saken heves. Har namsmannen tatt løsøret i forvaring, skal det leveres tilbake til saksøkte.
+Namsfogden skal gi partene meddelelse om verdsettingen dersom de er til stede og ellers snarest mulig etter at forretningen er holdt. Saksøkeren skal gis meddelelse om at innbetaling etter [§ 9-8](lov/1992-06-26-86/§9-8) må skje innen utløpet av klagefristen etter [§ 9-12](lov/1992-06-26-86/§9-12) første punktum. Dersom saksøkeren ikke har gjort dette og heller ikke har påklaget namsfogdens beslutning, skal saken heves. Har namsfogden tatt løsøret i forvaring, skal det leveres tilbake til saksøkte.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-10. Virkningen av tilbakeleveringen
 
 Når løsøret er verdsatt og levert til saksøkeren, blir saksøkeren eier av løsøret og risikoen går over på denne. Fra samme tidspunkt faller alle begrensede rettigheter i løsøret bort.
 
-Namsmannen gir på begjæring partene skriftlig erklæring om tilbakeleveringen.
+Namsfogden gir på begjæring partene skriftlig erklæring om tilbakeleveringen.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-11. Utbetaling av innbetaling fra saksøkeren
 
-Av innbetaling fra saksøkeren etter [§ 9-8](lov/1992-06-26-86/§9-8) dekkes først eventuelle andre panthavere og innehavere av begrensede rettigheter i løsøret etter prioritet. Før en eventuell restsum utbetales til eieren, undersøker namsmannen i Løsøreregisteret om det er ytterligere heftelser i løsøret.
+Av innbetaling fra saksøkeren etter [§ 9-8](lov/1992-06-26-86/§9-8) dekkes først eventuelle andre panthavere og innehavere av begrensede rettigheter i løsøret etter prioritet. Før en eventuell restsum utbetales til eieren, undersøker namsfogden i Løsøreregisteret om det er ytterligere heftelser i løsøret.
 
 Utbetaling til panthavere kan ikke foretas før klagefristen etter [§ 9-12](lov/1992-06-26-86/§9-12) første punktum er løpt ut. Klage har oppsettende virkning.
 
 [§ 8-22](lov/1992-06-26-86/§8-22) gjelder tilsvarende.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-12. Særregler for klage
 
@@ -1332,11 +1332,11 @@ Klage til tingretten etter [§ 5-16](lov/1992-06-26-86/§5-16) kan settes fram i
 
 Verdsettingen etter [§ 9-7](lov/1992-06-26-86/§9-7) kan bare angripes når angrepet gjelder en formuesverdi på minst 20.000 kroner eller gjelder saksbehandlingen eller rettsanvendelsen. [Tvisteloven kapittel 17](lov/2005-06-17-90/kap17) og [§ 29-13](lov/2005-06-17-90/§29-13) første ledd annet punktum gjelder tilsvarende.
 
-Erklærer saksøkte eller saksøker før løsøret er tilbakelevert, at den skjønnsmessige side av verdsettingen etter [§ 9-7](lov/1992-06-26-86/§9-7) vil bli påklaget, kan namsmannen bestemme at løsøret midlertidig skal tas i forvaring om ikke dette allerede er gjort.
+Erklærer saksøkte eller saksøker før løsøret er tilbakelevert, at den skjønnsmessige side av verdsettingen etter [§ 9-7](lov/1992-06-26-86/§9-7) vil bli påklaget, kan namsfogden bestemme at løsøret midlertidig skal tas i forvaring om ikke dette allerede er gjort.
 
 Foretar retten ny verdsetting, skal to skjønnsmedlemmer ta del i verdsettingen. Når en part krever det og retten anser det påkrevd, skal fire skjønnsmedlemmer delta.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 9-13. Begrensning i ankeadgangen.
 
@@ -1390,11 +1390,11 @@ I særlige tilfelle kan det besluttes at tvangsdekningen skal gjennomføres på 
 
 ### § 10-5. Forberedelse av salget
 
-Når tvangssalg av finansielle instrumenter er besluttet, skal namsmannen registrere at bare namsmannen kan disponere kontoen hvis dette ikke allerede er gjort.
+Når tvangssalg av finansielle instrumenter er besluttet, skal namsfogden registrere at bare namsfogden kan disponere kontoen hvis dette ikke allerede er gjort.
 
-Når tvangssalg av verdipapirer er besluttet, skal saksøkeren pålegges å bringe verdipapirene til namsmannen eller medhjelperen hvis dette ikke allerede er gjort. Namsmannen skal dersom det er nødvendig, med bindende virkning for saksøkte og de som er varslet etter [§ 8-8](lov/1992-06-26-86/§8-8), gi verdipapiret de påskrifter og avgi de erklæringer som trengs for å gjennomføre salget.
+Når tvangssalg av verdipapirer er besluttet, skal saksøkeren pålegges å bringe verdipapirene til namsfogden eller medhjelperen hvis dette ikke allerede er gjort. Namsfogden skal dersom det er nødvendig, med bindende virkning for saksøkte og de som er varslet etter [§ 8-8](lov/1992-06-26-86/§8-8), gi verdipapiret de påskrifter og avgi de erklæringer som trengs for å gjennomføre salget.
 
-> Endret ved [lov 5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [vedtak 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 10-6. Nærmere om salget
 
@@ -1408,21 +1408,21 @@ Når verdipapirforetaket får ansvar overfor kjøperen etter [verdipapirhandello
 
 ### § 10-7. Dekningsmåte
 
-Tvangsdekning i pengekrav som ikke faller inn under avsnitt II, skjer ved at kravet anvises saksøkeren til innkreving. Er kravet større enn saksøkerens krav, eller er det begrensede rettigheter i kravet med bedre prioritet enn saksøkerens panterett, kan namsmannen sette som vilkår for anvisningen at saksøkeren stiller sikkerhet for det som tilkommer saksøkte og foranstående rettighetshavere. Stilles det ikke sikkerhet, skal kravet anvises til innkreving med forbehold om at den forpliktede skal betale til namsmannen. Er kravet større enn saksøkerens krav og rettsforholdet mellom saksøkte og den forpliktede tillater at kravet deles opp, kan namsmannen begrense anvisningen til en del av kravet. Ved anvisning anses tvangsfullbyrdelsen først for avsluttet når det anviste beløpet er utbetalt til saksøkeren.
+Tvangsdekning i pengekrav som ikke faller inn under avsnitt II, skjer ved at kravet anvises saksøkeren til innkreving. Er kravet større enn saksøkerens krav, eller er det begrensede rettigheter i kravet med bedre prioritet enn saksøkerens panterett, kan namsfogden sette som vilkår for anvisningen at saksøkeren stiller sikkerhet for det som tilkommer saksøkte og foranstående rettighetshavere. Stilles det ikke sikkerhet, skal kravet anvises til innkreving med forbehold om at den forpliktede skal betale til namsfogden. Er kravet større enn saksøkerens krav og rettsforholdet mellom saksøkte og den forpliktede tillater at kravet deles opp, kan namsfogden begrense anvisningen til en del av kravet. Ved anvisning anses tvangsfullbyrdelsen først for avsluttet når det anviste beløpet er utbetalt til saksøkeren.
 
-Forfaller kravet først om lengre tid, eller er det avhengig av en motytelse fra saksøkte som saksøkte ikke frivillig yter, eller vil inndrivingen medføre uforholdsmessige vansker eller kostnader, kan namsmannen beslutte at tvangsdekningen skal gjennomføres på annen måte. Avsnitt VI gjelder da tilsvarende.
+Forfaller kravet først om lengre tid, eller er det avhengig av en motytelse fra saksøkte som saksøkte ikke frivillig yter, eller vil inndrivingen medføre uforholdsmessige vansker eller kostnader, kan namsfogden beslutte at tvangsdekningen skal gjennomføres på annen måte. Avsnitt VI gjelder da tilsvarende.
 
-> Endret ved lover [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 10-8. Underretning om anvisningen m m
 
-Namsmannen skal underrette saksøkte om anvisningen.
+Namsfogden skal underrette saksøkte om anvisningen.
 
-Dersom kravet er anvist med forbehold om at betalingen skal skje til namsmannen, skal den forpliktede underrettes om dette. [Gjeldsbrevloven § 27](lov/1939-02-17-1/§27) gjelder tilsvarende.
+Dersom kravet er anvist med forbehold om at betalingen skal skje til namsfogden, skal den forpliktede underrettes om dette. [Gjeldsbrevloven § 27](lov/1939-02-17-1/§27) gjelder tilsvarende.
 
-Anvises et krav som er knyttet til et verdipapir eller et innløsingspapir, skal det overleveres til saksøkeren med påtegning om anvisningen. Er kravet anvist med forbehold, skal det nevnes i påtegningen at betaling bare skal skje til namsmannen.
+Anvises et krav som er knyttet til et verdipapir eller et innløsingspapir, skal det overleveres til saksøkeren med påtegning om anvisningen. Er kravet anvist med forbehold, skal det nevnes i påtegningen at betaling bare skal skje til namsfogden.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 10-9. Virkningen av anvisningen
 
@@ -1430,13 +1430,13 @@ Saksøkeren har rett til å si opp kravet og drive det inn rettslig. Er det anvi
 
 Saksøkte plikter å utlevere til saksøkeren alle dokumenter som trengs for å gjøre kravet gjeldende. Nekter saksøkte å utlevere dokumentene, kan saksøkeren på grunnlag av anvisningen og uten gebyr kreve dokumentene utlevert etter [kapittel 13](lov/1992-06-26-86/kap13).
 
-Er kravet avhengig av at saksøkte som motytelse utleverer et formuesgode, plikter saksøkte etter eget valg å utlevere dette til saksøkeren, den forpliktede eller namsmannen hvis ikke formuesgodet er unntatt fra utlegg, eller en bedre rett er til hinder. Nekter saksøkte å utlevere formuesgodet, kan saksøkeren kreve utlevering etter [kapittel 13](lov/1992-06-26-86/kap13).
+Er kravet avhengig av at saksøkte som motytelse utleverer et formuesgode, plikter saksøkte etter eget valg å utlevere dette til saksøkeren, den forpliktede eller namsfogden hvis ikke formuesgodet er unntatt fra utlegg, eller en bedre rett er til hinder. Nekter saksøkte å utlevere formuesgodet, kan saksøkeren kreve utlevering etter [kapittel 13](lov/1992-06-26-86/kap13).
 
 Reiser saksøkeren søksmål til innkreving, skal saksøkeren underrette saksøkte om søksmålet med oppfordring om å tre inn i saken som partshjelper. Utfallet av søksmålet har virkning for og imot saksøkte og rettighetshavere i kravet.
 
 Den som mottar betalingen fra den forpliktede, fordeler den mellom partene og rettighetshaverne. [§ 8-22](lov/1992-06-26-86/§8-22) første ledd gjelder tilsvarende.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 10-10. Saksøkerens ansvar
 
@@ -1444,21 +1444,21 @@ Saksøkeren er ansvarlig for tap som voldes saksøkte og rettighetshavere i krav
 
 ### § 10-11. Opphevelse av anvisningen
 
-Opptrer saksøkeren uaktsomt under innkrevingen, kan saksøkte og rettighetshavere i kravet kreve at anvisningen blir opphevet. Saksøkeren skal få adgang til å uttale seg før namsmannen avgjør spørsmålet om opphevelse.
+Opptrer saksøkeren uaktsomt under innkrevingen, kan saksøkte og rettighetshavere i kravet kreve at anvisningen blir opphevet. Saksøkeren skal få adgang til å uttale seg før namsfogden avgjør spørsmålet om opphevelse.
 
 Når anvisningen faller bort, gjelder [§ 10-9](lov/1992-06-26-86/§10-9) annet og tredje ledd tilsvarende for saksøkerens plikt til å levere fra seg dokumenter og formuesgoder som er mottatt.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### IV. Tvangsdekning i penger
 
 ### § 10-12. Dekningsmåte
 
-Norske gangbare penger som forvares av namsmannen, eller som er plassert etter [§ 7-19 tredje ledd](lov/1992-06-26-86/§7-19/ledd/3), sørger namsmannen for å utbetale til saksøkeren.
+Norske gangbare penger som forvares av namsfogden, eller som er plassert etter [§ 7-19 tredje ledd](lov/1992-06-26-86/§7-19/ledd/3), sørger namsfogden for å utbetale til saksøkeren.
 
-Utenlandske gangbare penger utbetaler namsmannen dersom saksøkeren er villig til å motta dem etter utbetalingsdagens kurs. Er saksøkeren ikke det, veksler namsmannen pengene i bank og foretar deretter utbetaling.
+Utenlandske gangbare penger utbetaler namsfogden dersom saksøkeren er villig til å motta dem etter utbetalingsdagens kurs. Er saksøkeren ikke det, veksler namsfogden pengene i bank og foretar deretter utbetaling.
 
-> Endret ved lov [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### V. Tvangsdekning i immaterialrettigheter
 
@@ -1466,13 +1466,13 @@ Utenlandske gangbare penger utbetaler namsmannen dersom saksøkeren er villig ti
 
 ### § 10-13. Dekningsmåte
 
-Blir det søkt tvangsdekning i immaterialrettigheter, bestemmer namsmannen, etter særskilt å ha forelagt dekningsalternativene for partene, på hvilken måte dekningen skal skje. Det kan besluttes salg, at det skal utstedes lisenser eller at inntekter etter allerede etablerte lisenser skal tilfalle saksøkeren.
+Blir det søkt tvangsdekning i immaterialrettigheter, bestemmer namsfogden, etter særskilt å ha forelagt dekningsalternativene for partene, på hvilken måte dekningen skal skje. Det kan besluttes salg, at det skal utstedes lisenser eller at inntekter etter allerede etablerte lisenser skal tilfalle saksøkeren.
 
-Det kan besluttes at salg skal skje etter reglene for frivillig omsetning. Namsmannen kan overlate til en medhjelper å stå for salget. [§ 8-13](lov/1992-06-26-86/§8-13) gjelder i så fall tilsvarende. Det kan også besluttes salg ved auksjon holdt av namsmannen etter reglene i [kapittel 8](lov/1992-06-26-86/kap8) avsnitt III.
+Det kan besluttes at salg skal skje etter reglene for frivillig omsetning. Namsfogden kan overlate til en medhjelper å stå for salget. [§ 8-13](lov/1992-06-26-86/§8-13) gjelder i så fall tilsvarende. Det kan også besluttes salg ved auksjon holdt av namsfogden etter reglene i [kapittel 8](lov/1992-06-26-86/kap8) avsnitt III.
 
-Når dekningen skal skje ved utstedelse av lisenser eller at inntekter etter allerede etablerte lisenser skal tilfalle saksøkeren, kan namsmannen beslutte at rådigheten over rettigheten skal overlates til saksøkeren eller en bestyrer for utøvelse i samsvar med bestemmelser som namsmannen fastsetter. Saksøkeren eller bestyreren skal gi namsmannen revidert regnskap en gang i året, og i alle tilfeller når utøvelsen opphører. Namsmannen skal forelegge regnskapet for saksøkte. Andre rettighetshavere kan kreve kopi av regnskapet.
+Når dekningen skal skje ved utstedelse av lisenser eller at inntekter etter allerede etablerte lisenser skal tilfalle saksøkeren, kan namsfogden beslutte at rådigheten over rettigheten skal overlates til saksøkeren eller en bestyrer for utøvelse i samsvar med bestemmelser som namsfogden fastsetter. Saksøkeren eller bestyreren skal gi namsfogden revidert regnskap en gang i året, og i alle tilfeller når utøvelsen opphører. Namsfogden skal forelegge regnskapet for saksøkte. Andre rettighetshavere kan kreve kopi av regnskapet.
 
-> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494), se endringslovens VII), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### VI. Tvangsdekning i andre formuesgoder
 
@@ -1480,9 +1480,9 @@ Når dekningen skal skje ved utstedelse av lisenser eller at inntekter etter all
 
 ### § 10-14. Dekningsmåte
 
-Blir det søkt tvangsdekning i andre formuesgoder enn de som er nevnt foran, bestemmer namsmannen, etter særskilt å ha forelagt dekningsalternativene for partene, på hvilken måte dekningen skal skje. Det kan besluttes salg, utleie, at en fordring skal anvises saksøkeren til innkreving eller, når det er lovlig adgang til det, at rettigheten skal utøves ved en bestyrer etter regler som namsmannen fastsetter. Det kan også besluttes at formuesgodet skal selges ved en auksjon holdt av namsmannen etter reglene i [kapittel 8](lov/1992-06-26-86/kap8) avsnitt III.
+Blir det søkt tvangsdekning i andre formuesgoder enn de som er nevnt foran, bestemmer namsfogden, etter særskilt å ha forelagt dekningsalternativene for partene, på hvilken måte dekningen skal skje. Det kan besluttes salg, utleie, at en fordring skal anvises saksøkeren til innkreving eller, når det er lovlig adgang til det, at rettigheten skal utøves ved en bestyrer etter regler som namsfogden fastsetter. Det kan også besluttes at formuesgodet skal selges ved en auksjon holdt av namsfogden etter reglene i [kapittel 8](lov/1992-06-26-86/kap8) avsnitt III.
 
-> Endret ved [lov 23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [23 jan 2015 nr. 4](lov/2015-01-23-4) (ikr. 1 juli 2015 iflg. [res. 12 mai 2015 nr. 494](forskrift/2015-05-12-494)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### Kapittel 11. Tvangsdekning i realregistrerte formuesgoder
 
@@ -1562,9 +1562,9 @@ Ved tvangsdekning i fast eiendom eller i borettslagsandel som er registrert i gr
 
 Retten kan varsle sosialkontoret når det er grunn til det.
 
-Retten kan forelegge begjæringen for namsmannen til uttalelse om hvordan tvangsdekningen bør gjennomføres og andre forhold av betydning.
+Retten kan forelegge begjæringen for namsfogden til uttalelse om hvordan tvangsdekningen bør gjennomføres og andre forhold av betydning.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 11-9. Beslutning om å gjennomføre tvangsdekning
 
@@ -1886,13 +1886,13 @@ Dersom saksøkeren har unnlatt å gjøre oppmerksom på en uregistrert rettighet
 
 ### III. Auksjonssalg
 
-### § 11-43. Vilkår for auksjonssalg
+### § 11-43. Gjennomføring av auksjonssalg
 
-Dersom salget skal skje ved auksjon holdt av namsmyndigheten, bestemmer retten om denne eller namsmannen skal holde auksjonen. Auksjon over fast eiendom i lensmannsdistrikt holdes i alminnelighet av namsmannen.
+Dersom salget skal skje ved auksjon holdt av namsmyndigheten, bestemmer retten om denne eller namsfogden skal holde auksjonen.
 
-Skal namsmannen holde auksjonen, sendes sakens dokumenter til namsmannen, som forbereder og holder auksjonsmøtet.
+Skal namsfogden holde auksjonen, sendes sakens dokumenter til namsfogden, som forbereder og holder auksjonsmøtet.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 11-44. Forberedelse av auksjonsmøtet, salgets omfang og forholdet til andre heftelser m m
 
@@ -1928,7 +1928,7 @@ Dersom det før et auksjonsmøte oppdages at første og annet ledd er overtrådt
 
 Et auksjonsmøte som tingretten holder er et rettsmøte.
 
-I rettsboken, eller namsboken dersom namsmannen holder auksjonsmøtet, skal de parter og rettighetshavere som møter nevnes. Dessuten føres inn alle bud som auksjonsstyreren finner at det kan bli spørsmål om å stadfeste. Videre føres inn alle erklæringer, påstander, innvendinger, avgjørelser og andre omstendigheter som er av betydning for spørsmålet om stadfestelse eller for en rettighetshavers rett.
+I rettsboken, eller namsboken dersom namsfogden holder auksjonsmøtet, skal de parter og rettighetshavere som møter nevnes. Dessuten føres inn alle bud som auksjonsstyreren finner at det kan bli spørsmål om å stadfeste. Videre føres inn alle erklæringer, påstander, innvendinger, avgjørelser og andre omstendigheter som er av betydning for spørsmålet om stadfestelse eller for en rettighetshavers rett.
 
 Oppstår det tvist om kjensgjerninger av betydning som har inntruffet under auksjonsmøtet, skal opplysning straks søkes ved forklaring av de tilstedeværende, og det nødvendige protokolleres.
 
@@ -1936,7 +1936,7 @@ Auksjonsmøtet er offentlig. Den som opptrer forstyrrende, kan vises ut. Møtet 
 
 Sakens dokumenter skal være tilgjengelige for parter, rettighetshavere og kjøpsinteresserte.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 11-48. Innledningen av auksjonsmøtet
 
@@ -1962,9 +1962,9 @@ Saksøkeren kan gjøre begjæringen om stadfestelse betinget av at byderen still
 
 Saksøkeren kan forbeholde seg en frist til å ta stilling til om bud vil bli begjært stadfestet. Begjæringen må i tilfelle være kommet inn til tingretten innen en måned etter auksjonsdagen. Forbeholder saksøkeren seg frist til å begjære stadfestelse, kan saksøkeren ikke gjøre begjæringen betinget av at byderen stiller sikkerhet.
 
-Er auksjonen holdt av namsmannen, skal sakens dokumenter og utskrift av auksjonsprotokollen straks sendes tilbake til tingretten etter at møtet er holdt. Vedlagt saksdokumentene skal følge et anslag over formuesgodets verdi. Saksdokumentene sendes ikke tilbake dersom det ikke er gitt bindende bud eller saksøkeren har erklært at ingen av budene vil bli begjært stadfestet, og det er uklart om saksøkeren vil kreve ny auksjon.
+Er auksjonen holdt av namsfogden, skal sakens dokumenter og utskrift av auksjonsprotokollen straks sendes tilbake til tingretten etter at møtet er holdt. Vedlagt saksdokumentene skal følge et anslag over formuesgodets verdi. Saksdokumentene sendes ikke tilbake dersom det ikke er gitt bindende bud eller saksøkeren har erklært at ingen av budene vil bli begjært stadfestet, og det er uklart om saksøkeren vil kreve ny auksjon.
 
-> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 11-51. Stadfestelse, virkningen av stadfestelse, rettsmiddel mot stadfestelse m m
 
@@ -2160,13 +2160,13 @@ Skriftlig avtale som nevnt i annet ledd og tredje ledd kan inngås elektronisk.
 
 ### § 13-3. Kompetent namsmyndighet
 
-Begjæring om utlevering av løsøre eller verdipapir skal settes fram for namsmannen i det distrikt hvor formuesgodet er. Dersom utlevering begjæres på grunnlag av et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f) til [h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), gjelder [§ 7-3 femte ledd](lov/1992-06-26-86/§7-3/ledd/5) tilsvarende.
+Begjæring om utlevering av løsøre eller verdipapir skal settes fram for namsfogden i det distrikt hvor formuesgodet er. Dersom utlevering begjæres på grunnlag av et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1 annet ledd bokstav f](lov/1992-06-26-86/§4-1/ledd/2/bokstav/f) til [h](lov/1992-06-26-86/§4-1/ledd/2/bokstav/h), gjelder [§ 7-3 femte ledd](lov/1992-06-26-86/§7-3/ledd/5) tilsvarende.
 
-Begjæring om fravikelse av fast eiendom skal settes fram for namsmannen i det distrikt hvor eiendommen er. Når tvangsfullbyrdelse blir begjært etter tvangsgrunnlag som nevnt i første ledd annet punktum og i [§ 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstav d og e, skal begjæringen settes fram for tingretten. Saksøkeren kan i så fall overfor tingretten også påberope andre tvangsgrunnlag for fravikelsen.
+Begjæring om fravikelse av fast eiendom skal settes fram for namsfogden i det distrikt hvor eiendommen er. Når tvangsfullbyrdelse blir begjært etter tvangsgrunnlag som nevnt i første ledd annet punktum og i [§ 13-2](lov/1992-06-26-86/§13-2) tredje ledd bokstav d og e, skal begjæringen settes fram for tingretten. Saksøkeren kan i så fall overfor tingretten også påberope andre tvangsgrunnlag for fravikelsen.
 
 Begjæring om tvangsfullbyrdelse av andre krav settes fram for tingretten i det distrikt hvor saksøkte har alminnelig verneting. Begjæringen kan også settes fram for tingretten i det distrikt hvor det formuesgodet eller den gjenstand finnes som fullbyrdelsen gjelder.
 
-> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 13-4. Hvem begjæringen skal rettes mot
 
@@ -2192,25 +2192,25 @@ Vil fullbyrdelsen ellers bli vesentlig vanskeliggjort, kan meddelelse som nevnt 
 
 Når den eller de som er varslet etter [§ 13-6](lov/1992-06-26-86/§13-6) har uttalt seg eller fristen er løpt ut, avgjør namsmyndigheten om tvangsfullbyrdelsen skal gjennomføres. Treffes avgjørelsen av retten, skal det skje ved kjennelse.
 
-Har retten besluttet fullbyrdelse, sendes saken til namsmannen dersom denne skal gjennomføre fullbyrdelsen. Gjennomføringen kan overlates til namsmannen i et hvilket som helst distrikt.
+Har retten besluttet fullbyrdelse, sendes saken til namsfogden dersom denne skal gjennomføre fullbyrdelsen. Gjennomføringen kan overlates til namsfogden i et hvilket som helst distrikt.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### II. Utlevering av løsøre og verdipapirer
 
 ### § 13-8. Fullbyrdelsesmåte
 
-Utlevering av en bestemt løsøregjenstand eller et verdipapir, eller av en viss mengde løsøregjenstander eller verdipapirer av en bestemt art, skjer ved at namsmannen tar det som skal leveres fra saksøkte og leverer det til saksøkeren. Dersom det kommer inn flere begjæringer om utlevering av løsøre eller verdipapirer bestemt etter sin art, gjelder [§ 7-8](lov/1992-06-26-86/§7-8) tilsvarende.
+Utlevering av en bestemt løsøregjenstand eller et verdipapir, eller av en viss mengde løsøregjenstander eller verdipapirer av en bestemt art, skjer ved at namsfogden tar det som skal leveres fra saksøkte og leverer det til saksøkeren. Dersom det kommer inn flere begjæringer om utlevering av løsøre eller verdipapirer bestemt etter sin art, gjelder [§ 7-8](lov/1992-06-26-86/§7-8) tilsvarende.
 
-Dersom en bestemt løsøregjenstand eller et verdipapir ikke finnes i saksøktes besittelse, og saksøkte ikke gjør sannsynlig at oppfyllelse er umulig, skal namsmannen underrette saksøkeren om at denne innen en frist fastsatt av namsmannen kan begjære at saksøkte pålegges en løpende mulkt for å fremtvinge utlevering. Begjærer saksøkeren det innen fristen, skal namsmannen sende saken til tingretten, som ved kjennelse kan pålegge saksøkte en løpende mulkt for hver dag eller uke som går uten at gjenstanden blir utlevert. Oversitter saksøkeren fristen eller underretter saksøkeren namsmannen om at løpende mulkt ikke vil bli begjært, skal namsmannen heve saken.
+Dersom en bestemt løsøregjenstand eller et verdipapir ikke finnes i saksøktes besittelse, og saksøkte ikke gjør sannsynlig at oppfyllelse er umulig, skal namsfogden underrette saksøkeren om at denne innen en frist fastsatt av namsfogden kan begjære at saksøkte pålegges en løpende mulkt for å fremtvinge utlevering. Begjærer saksøkeren det innen fristen, skal namsfogden sende saken til tingretten, som ved kjennelse kan pålegge saksøkte en løpende mulkt for hver dag eller uke som går uten at gjenstanden blir utlevert. Oversitter saksøkeren fristen eller underretter saksøkeren namsfogden om at løpende mulkt ikke vil bli begjært, skal namsfogden heve saken.
 
-Mulkten tilfaller statskassen og skal betales til namsmannen. Tvangsmulkten inndrives etter reglene i denne loven om inndriving av pengekrav etter begjæring av saksøkeren. Den kan ikke inndrives for mer enn åtte uker om gangen. Lar saksøkeren det gå lengre tid med inndrivingen, løper ingen videre mulkt før den påløpte mulkten er betalt eller det er tatt utlegg for den.
+Mulkten tilfaller statskassen og skal betales til namsfogden. Tvangsmulkten inndrives etter reglene i denne loven om inndriving av pengekrav etter begjæring av saksøkeren. Den kan ikke inndrives for mer enn åtte uker om gangen. Lar saksøkeren det gå lengre tid med inndrivingen, løper ingen videre mulkt før den påløpte mulkten er betalt eller det er tatt utlegg for den.
 
 Når saksøkte godtgjør at utleveringskravet er oppfylt, eller sannsynliggjør at det er umulig å oppfylle kravet, skal retten på saksøktes begjæring stanse inndrivingen av mulkten og oppheve utlegg som måtte være gitt. Dette gjelder bare mulkt som er påløpt etter oppfyllelsen eller etter at hindringen er inntrådt.
 
 Kongen kan i særlige tilfeller ettergi påløpt mulkt.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 13-9. Tredjepersons eiendomsrett
 
@@ -2220,29 +2220,29 @@ Er gjenstanden for utleveringen bestemt etter sin art, skal den ikke utleveres h
 
 ### § 13-10. Varsel om forretningen
 
-Namsmannen skal gi saksøkte meddelelse om tid og sted for forretningen. Meddelelse kan unnlates dersom tvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort. Saksøkeren skal gis meddelelse dersom vedkommende blir pålagt å være til stede eller har bedt om å bli varslet.
+Namsfogden skal gi saksøkte meddelelse om tid og sted for forretningen. Meddelelse kan unnlates dersom tvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort. Saksøkeren skal gis meddelelse dersom vedkommende blir pålagt å være til stede eller har bedt om å bli varslet.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### III. Fravikelse av fast eiendom
 
 ### § 13-11. Fullbyrdelsesmåte
 
-Fravikelse av fast eiendom skjer ved at namsmannen fjerner de personer eller det løsøre som skal fjernes fra eiendommen. For løsøre som ikke er av personlig karakter eller vanlig innbo, gjelder [§ 13-14](lov/1992-06-26-86/§13-14) tilsvarende.
+Fravikelse av fast eiendom skjer ved at namsfogden fjerner de personer eller det løsøre som skal fjernes fra eiendommen. For løsøre som ikke er av personlig karakter eller vanlig innbo, gjelder [§ 13-14](lov/1992-06-26-86/§13-14) tilsvarende.
 
-Dersom det ikke er mulig å overgi løsøret til saksøkte eller til noen på saksøktes vegne, sørger namsmannen for transport og oppbevaring. Vil det medføre uforholdsmessige vansker eller kostnader å flytte løsøret, kan namsmannen beslutte at det foreløpig skal oppbevares på eiendommen. Rent skrot kan kastes umiddelbart.
+Dersom det ikke er mulig å overgi løsøret til saksøkte eller til noen på saksøktes vegne, sørger namsfogden for transport og oppbevaring. Vil det medføre uforholdsmessige vansker eller kostnader å flytte løsøret, kan namsfogden beslutte at det foreløpig skal oppbevares på eiendommen. Rent skrot kan kastes umiddelbart.
 
-Namsmannen gir så vidt mulig saksøkte og de som namsmannen vet er interessert i løsøret, underretning om hvor løsøret er og oppfordring til å hente det mot å betale kostnadene ved transporten og oppbevaringen. Dersom løsøret er unntatt fra utlegg eller kan kreves unntatt, har saksøkte rett til å hente det uten å betale noe for transport og oppbevaring hvis hentingen skjer innen to uker etter underretningen.
+Namsfogden gir så vidt mulig saksøkte og de som namsfogden vet er interessert i løsøret, underretning om hvor løsøret er og oppfordring til å hente det mot å betale kostnadene ved transporten og oppbevaringen. Dersom løsøret er unntatt fra utlegg eller kan kreves unntatt, har saksøkte rett til å hente det uten å betale noe for transport og oppbevaring hvis hentingen skjer innen to uker etter underretningen.
 
-Blir løsøret tross gjentatte oppfordringer ikke hentet innen den frist som namsmannen setter, kan namsmannen selge løsøret til dekning av kostnadene. Løsøret kan kastes dersom salg vil medføre kostnader som vil overstige det som kommer inn ved salget. Personlige dokumenter o l oppbevares likevel i rimelig utstrekning.
+Blir løsøret tross gjentatte oppfordringer ikke hentet innen den frist som namsfogden setter, kan namsfogden selge løsøret til dekning av kostnadene. Løsøret kan kastes dersom salg vil medføre kostnader som vil overstige det som kommer inn ved salget. Personlige dokumenter o l oppbevares likevel i rimelig utstrekning.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 13-12. Varsel om forretning
 
-Namsmannen skal gi partene meddelelse om tid og sted for forretningen. Meddelelse til saksøkte kan unnlates dersom tvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
+Namsfogden skal gi partene meddelelse om tid og sted for forretningen. Meddelelse til saksøkte kan unnlates dersom tvangsfullbyrdelsen ellers vil bli vesentlig vanskeliggjort.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### IV. Sikkerhetsstillelse
 
@@ -2256,13 +2256,13 @@ Tvangsfullbyrdelse av krav om sikkerhetsstillelse skjer ved at saksøkte ved kje
 
 Tvangsfullbyrdelse av andre handleplikter enn de som er nevnt i [§§ 13-8](lov/1992-06-26-86/§13-8), [13-11](lov/1992-06-26-86/§13-11) og [13-13](lov/1992-06-26-86/§13-13), skjer ved at tingretten ved kjennelse enten gir saksøkeren rett til å utføre handlingen, eller bestemmer at namsmyndigheten selv skal utføre den, eller pålegger saksøkte en løpende mulkt for hver dag eller uke som går uten at handleplikten blir oppfylt.
 
-Blir oppfyllelsen gjennomført ved at saksøkeren eller namsmyndigheten selv utfører den handling som saksøkte plikter å utføre, svarer saksøkte for utgiftene. Retten kan ved kjennelse pålegge saksøkte å betale de sannsynlige kostnader forskuddsvis. Etter utførelsen kan retten på samme måte i tilfelle bestemme hva saksøkeren skal betale tilbake. Blir saksøkeren gitt rett til å utføre handlingen og saksøkte eller noen annen gjør motstand, kan saksøkeren kreve hjelp hos namsmannen.
+Blir oppfyllelsen gjennomført ved at saksøkeren eller namsmyndigheten selv utfører den handling som saksøkte plikter å utføre, svarer saksøkte for utgiftene. Retten kan ved kjennelse pålegge saksøkte å betale de sannsynlige kostnader forskuddsvis. Etter utførelsen kan retten på samme måte i tilfelle bestemme hva saksøkeren skal betale tilbake. Blir saksøkeren gitt rett til å utføre handlingen og saksøkte eller noen annen gjør motstand, kan saksøkeren kreve hjelp hos namsfogden.
 
 Blir oppfyllelsen søkt fremtvunget ved mulkt, gjelder [§ 13-8](lov/1992-06-26-86/§13-8) tredje til femte ledd tilsvarende.
 
 Løpende mulkt kan ikke anvendes for å fremtvinge tjeneste i arbeidsforhold eller for å tvinge noen til å motta en som er ansatt i slik tjeneste.
 
-> Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 13-15. Varsel om forretning
 

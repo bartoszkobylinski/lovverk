@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-08-10"
-xml_hash: "dedea07a46c37e06fb2587c033e82afce8bff9ee2257e98af6a37ec61d00efce"
+xml_hash: "29448b6ea1a06d2d3efe7bad471103e45165b139c333012e8da417384102e050"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,7 +66,7 @@ Strålebruken skal være optimalisert. Dette innebærer at eksponering for ionis
 
 For ikke-ioniserende stråling skal all eksponering av mennesker holdes så lav som god praksis tilsier.
 
-### § 6. Eksponering av mennesker: Dosegrenser, grenseverdier og tiltaksgrenser
+### § 6. Eksponering av mennesker: Dosegrenser, grenseverdier, doseføringer og tiltaksgrenser
 
 Dosegrenser og grenseverdier gjelder for mennesker som blir eksponert for stråling, men ikke for pasienter.
 
@@ -74,11 +74,15 @@ Dosegrenser og grenseverdier for yrkeseksponering fremgår av [§ 32](forskrift/
 
 Effektiv dose til allmennhet og ikke-yrkeseksponerte arbeidstakere skal ikke overstige 1 mSv/år for ioniserende stråling. Ekvivalent dose til øyelinse skal ikke overstige 15 mSv/år. Ekvivalent dose til hud skal ikke overstige 50 mSv/år, målt eller beregnet over et vilkårlig hudareal på 1 cm2.
 
-Virksomheten skal planlegge strålingen og skjermingstiltakene slik at ikke-yrkeseksponerte arbeidstakere og allmennhet ikke eksponeres for en effektiv dose som overstiger 0,25 mSv/år.
+For omsorgsytere som er over 18 år og ikke er gravide, samt friske frivillige personer som deltar i medisinsk forskning, kan høyere doser enn dosegrensene for allmennheten være berettiget. For disse gruppene skal det settes doseføringer i henhold til § 40a for de tilfellene dosegrensene for allmenheten ikke overholdes.
+
+Virksomheten skal planlegge strålingen og skjermingstiltakene slik at ikke-yrkeseksponerte arbeidstakere og allmennhet ikke eksponeres for en effektiv dose som overstiger 0,25 mSv/år. Ved hjemsendelse av pasienter som har vært til nukleærmedisinsk behandling, skal virksomheten planlegge stråleverntiltakene slik at husstandsmedlemmene ikke eksponeres for en effektiv dose som overstiger 1 mSv/år.
 
 Der det ikke finnes nasjonale retningslinjer og grenseverdier innen optisk stråling og elektromagnetiske felt er sist oppdatert versjon av Guideline on limited exposure to Non-Ionizing Radiation fra den Internasjonale kommisjonen for beskyttelse mot ikke-ioniserende stråling (ICNIRP) veiledende for hva god praksis tilsier.
 
-Radonreduserende tiltak skal iverksettes i barnehager, skoler mv. som er omfattet av [forskrift 1. desember 1995 nr. 928](forskrift/1995-12-01-928) om miljørettet helsevern i barnehager og skoler mv. [§ 2](forskrift/1995-12-01-928/§2), dersom radonnivået overstiger 100 Bq/m3 (tiltaksgrense). Tilsvarende gjelder for boliger hvor eier ikke bor eller oppholder seg. Radonnivået skal ikke overstige grenseverdien på 200 Bq/m3 i slike bygninger og lokaler.
+Radonreduserende tiltak skal iverksettes i barnehager, skoler mv. som er omfattet av [forskrift 28. mars 2023 nr. 449 om helse og miljø i barnehager, skoler og skolefritidsordninger § 2](forskrift/2023-03-28-449/§2), dersom radonnivået overstiger 100 Bq/m3 (tiltaksgrense). Tilsvarende gjelder for boliger hvor eier ikke bor eller oppholder seg. Radonnivået skal ikke overstige grenseverdien på 200 Bq/m3 i slike bygninger og lokaler.
+
+> Endret ved forskrift [26 juni 2026 nr. 1397](forskrift/2026-06-26-1397) (i kraft 1 juli 2026).
 
 ### § 7. Dosegrenser for redningsarbeid
 
@@ -107,6 +111,10 @@ Det er forbudt å eie, besitte, tilvirke, importere, eksportere, overlate, hånd
 Det kan gis godkjenning både til virksomheter og enkeltpersoner. En godkjenning kan omfatte flere laserpekere og kan være tidsbegrenset.
 
 > Endret ved [forskrifter 15 sep 2017 nr. 1396](forskrift/2017-09-15-1396), [20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
+
+### § 10a. Godkjenning av persondosimetritjenester
+
+> **Tilføyes** ved forskrift [26 juni 2026 nr. 1397](forskrift/2026-06-26-1397) (i kraft 1 juli 2027).
 
 ### § 11. Vilkår i godkjenningen
 
@@ -316,6 +324,8 @@ Virksomheten skal sørge for at yrkeseksponerte i kategori B som kan få effekti
 
 Arbeidstaker skal medvirke til dosemonitorering, og virksomheten skal sørge for at arbeidstaker informeres skriftlig eller elektronisk om doseavlesningene og iverksette tiltak ved behov.
 
+> **Endres** ved forskrift [26 juni 2026 nr. 1397](forskrift/2026-06-26-1397) (i kraft 1 juli 2027).
+
 ### § 34. Nasjonalt yrkesdoseregister og doserapportering
 
 Direktoratet for strålevern og atomsikkerhet er behandlingsansvarlig for nasjonalt yrkesdoseregister. Registeret skal ha til formål å gi en samlet nasjonal oversikt over doser fra ioniserende stråling, verne arbeidstaker mot uønsket stråleeksponering og forebygge helseskader.
@@ -386,7 +396,19 @@ Strålebelastning av arbeidstaker, omsorgsyter og befolkning skal inkluderes i b
 
 Virksomheten skal sørge for optimalisert medisinsk strålebruk. I optimaliseringen inngår blant annet valg av metode, apparatur og utstyr, arbeidsteknikk, vurdering av stråledose til og dosefordeling i pasient, bildekvalitet og behandlingseffekt.
 
-Optimaliseringen skal utføres tverrfaglig, være en kontinuerlig prosess og vurderes mot nasjonale referanseverdier eller faglige anbefalinger der dette finnes.
+Optimaliseringen skal utføres tverrfaglig, være en kontinuerlig prosess og vurderes mot nasjonale referanseverdier, doseføringer eller faglige anbefalinger der dette finnes.
+
+> Endret ved forskrift [26 juni 2026 nr. 1397](forskrift/2026-06-26-1397) (i kraft 1 juli 2026).
+
+### § 40a. Doseføringer som grunnlag for optimalisering av strålevernet
+
+For omsorgsytere som er omtalt i [§ 6 fjerde ledd](forskrift/2016-12-16-1659/§6/ledd/4) skal virksomheten sette doseføringer.
+
+Ved stråleeksponering innen forskning skal en regional etisk komite, på bakgrunn av retningslinjer gitt av DSA, sette doseføringer for friske frivillige personer som ikke forventes å få noen direkte medisinsk fordel av eksponeringen.
+
+Dersom stråledosene antas å overstige doseføringene i vesentlig grad, skal virksomheten vurdere tiltak for å redusere dosene.
+
+> Tilføyd ved forskrift 26 juni 2026 nr. 1397 (i kraft 1 juli 2026).
 
 ### § 41. Prosedyrer
 

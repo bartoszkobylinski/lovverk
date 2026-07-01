@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2004-01-01"
-last_change_in_force: "2024-12-20"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-24"
-xml_hash: "4e9a3f914bd6707795525cb1d07a5753d6a180fbdff833ce17a47591d0395615"
+xml_hash: "df459842bb9db7e1db100a2a3c6727f29c24c67427addecf794cdcaaad814ca2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -288,11 +288,11 @@ Forelegg som er skrevet ut på stedet, faller bort dersom det ikke straks vedtas
 
 Påtalemyndigheten kan til gunst for siktede oppheve et vedtatt forelegg.
 
-Politimann som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utferdige forenklet forelegg.
+Polititjenestepersoner som ellers ikke har foreleggsmyndighet, kan gis myndighet til å utferdige forenklet forelegg.
 
 Kongen gir nærmere regler om bruk av forenklet forelegg etter denne paragrafen og fastsetter bøtesatser og subsidiær fengselsstraff for de overtredelser som ordningen skal omfatte.
 
-> Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kapittel VI. Andre bestemmelser
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2002-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-23"
-xml_hash: "5b7d585f599d4b8581f2f8c026875137740525dc258dd87319bc063f2fd04e3d"
+xml_hash: "802102d077a3df23ba690a810ef2c630d298844f3fa2e22defcba3463473b34f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -334,9 +334,9 @@ Regionalt helseforetak skal sørge for at representanter for pasienter og andre 
 
 Regionalt helseforetak skal sørge for at virksomheter som yter spesialisthelsetjenester og andre tjenester som hører naturlig sammen med dette, etablerer systemer for innhenting av pasienters og andre brukeres erfaringer og synspunkter.
 
-Regionalt helseforetak skal sørge for at den enkelte pasients utvidede rett til bruk av samisk språk i spesialisthelsetjenesten blir ivaretatt, jf. [sameloven § 3-1](lov/1987-06-12-56/§3-1) nr. 4 og [§ 3-5](lov/1987-06-12-56/§3-5).
+Regionalt helseforetak skal sørge for at den enkelte pasients utvidede rett til bruk av samisk språk i spesialisthelsetjenesten blir ivaretatt, jf. [sameloven § 3-1 bokstav b](lov/1987-06-12-56/§3-1/bokstav/b) og [§ 3-5](lov/1987-06-12-56/§3-5).
 
-> Endret ved [lov 22 juni 2012 nr. 46](lov/2012-06-22-46). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Endret ved [lover 22 juni 2012 nr. 46](lov/2012-06-22-46), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ## Kapittel 8. Daglig leder
 

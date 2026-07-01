@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-11-17"
-xml_hash: "099000b9bb74d6600011e2ca3dfac7b5b19c2b18382df0fd8ec3c58bc46b88a4"
+xml_hash: "d8915b62570abc74bdf072881f15f356825200e0420431675f37540dc408cc95"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-01T09:23:05.781615+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,11 +72,13 @@ Ved behandling av helseopplysninger til internkontroll eller kvalitetssikring sk
 
 Behandlingsrettede helseregistre skal understøtte pasientforløp i klinisk praksis og være lett å bruke og å finne frem i.
 
-Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:taushetsplikt, jf. [§ 15](lov/2014-06-20-42/§15),forbud mot urettmessig tilegnelse av helseopplysninger, jf. [§ 16](lov/2014-06-20-42/§16),retten til å motsette seg behandling av helseopplysninger, jf. [§ 17](lov/2014-06-20-42/§17),retten til informasjon og innsyn, jf. [§ 18](lov/2014-06-20-42/§18),helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov/1999-07-02-64/§39),tilgjengeliggjøring av helseopplysninger, jf. [§§ 19](lov/2014-06-20-42/§19) og [20](lov/2014-06-20-42/§20) oginformasjonssikkerhet og internkontroll, jf. [§§ 22](lov/2014-06-20-42/§22) og [23](lov/2014-06-20-42/§23).
+Behandlingsrettede helseregistre skal være utformet og organisert slik at krav fastsatt i eller i medhold av lov kan oppfylles. Dette gjelder blant annet regler om:taushetsplikt, jf. [§ 15](lov/2014-06-20-42/§15),forbud mot urettmessig tilegnelse av helseopplysninger, jf. [§ 16](lov/2014-06-20-42/§16),retten til å motsette seg behandling av helseopplysninger, jf. [§ 17](lov/2014-06-20-42/§17),retten til informasjon og innsyn, jf. [§ 18](lov/2014-06-20-42/§18),helsepersonells dokumentasjonsplikt, jf. [helsepersonelloven § 39](lov/1999-07-02-64/§39),tilgjengeliggjøring av helseopplysninger, jf. [§§ 19](lov/2014-06-20-42/§19) og [20](lov/2014-06-20-42/§20) oginformasjonssikkerhet, logg og internkontroll, jf. [§§ 22](lov/2014-06-20-42/§22), [22 a](lov/2014-06-20-42/§22a) og [23](lov/2014-06-20-42/§23).
+
+Virksomheten skal ta hensyn til behovet for effektiv samhandling ved anskaffelse og videreutvikling av sine behandlingsrettede helseregistre.
 
 Departementet kan i forskrift gi nærmere bestemmelser om plikt til å ha elektroniske systemer, om godkjenning av programvare og sertifisering og om bruk av standarder, standardsystemer, kodeverk og klassifikasjonssystemer.
 
-> **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 8. Virksomheters plikt til å sørge for behandlingsrettede helseregistre
 
@@ -156,11 +158,11 @@ Nasjonal kjernejournal er et sentralt virksomhetsovergripende behandlingsrettet 
 
 Opplysninger kan registreres og på annen måte behandles uten samtykke fra pasienten. Den registrerte har rett til å motsette seg at helseopplysninger behandles i registeret.
 
-Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra pasienten der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til at det gis slik tilgang, jf. personvernforordningen artikkel 4 nr. 11. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder [helsepersonelloven § 45](lov/1999-07-02-64/§45) første ledd første punktum tilsvarende.
+Helsepersonell med tjenstlig behov ved ytelse av helsehjelp kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Med samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra pasienten der vedkommende ved en erklæring eller en tydelig bekreftelse gir sitt samtykke til at det gis slik tilgang, jf. personvernforordningen artikkel 4 nr. 11. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder [helsepersonelloven § 25 første ledd](lov/1999-07-02-64/§25/ledd/1) og [§ 29](lov/1999-07-02-64/§29) tilsvarende.
 
 Kongen i statsråd kan i forskrift gi nærmere bestemmelser om innholdet i kjernejournalen, drift av kjernejournalen og behandling av helseopplysningene. Dette omfatter blant annet hvilke opplysninger som skal behandles, hvem som er dataansvarlig, regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter.
 
-> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), [16 juni 2023 nr. 56](lov/2023-06-16-56) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 945](forskrift/2023-06-16-945)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), [16 juni 2023 nr. 56](lov/2023-06-16-56) (i kraft 1 juli 2023 iflg. [res. 16 juni 2023 nr. 945](forskrift/2023-06-16-945)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 14. Registrering og melding av helseopplysninger
 
@@ -182,33 +184,33 @@ Det er forbudt å lese, søke etter eller på annen måte tilegne seg, bruke ell
 
 ### § 17. Rett til å motsette seg behandling av helseopplysninger
 
-Pasienten eller brukeren kan motsette seg athelseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov/2014-06-20-42/§8) til [10](lov/2014-06-20-42/§10) gjøres tilgjengelige for helsepersonell etter [§ 19](lov/2014-06-20-42/§19), jf. [helsepersonelloven §§ 25](lov/1999-07-02-64/§25) og [45](lov/1999-07-02-64/§45) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3),opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov/2014-06-20-42/§11), oghelseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov/2014-06-20-42/§13).helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov/2014-06-20-42/§9a).
+Pasienten eller brukeren kan motsette seg athelseopplysninger i et behandlingsrettet helseregister etablert med hjemmel i [§§ 8](lov/2014-06-20-42/§8) til [10](lov/2014-06-20-42/§10) gjøres tilgjengelige for helsepersonell etter [§ 19](lov/2014-06-20-42/§19), jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3),opplysninger om betalte egenandeler i tilknytning til vedtak om frikort og refusjon registreres automatisk i system etablert med hjemmel i [§ 11](lov/2014-06-20-42/§11), oghelseopplysninger registreres eller behandles på andre måter i nasjonal kjernejournal etablert med hjemmel i [§ 13](lov/2014-06-20-42/§13).helseopplysninger registreres eller behandles på andre måter i register etablert med hjemmel i [§ 9 a](lov/2014-06-20-42/§9a).
 
 Reglene om beslutningskompetanse i [pasient- og brukerrettighetsloven §§ 4-3](lov/1999-07-02-63/§4-3) til [4-7](lov/1999-07-02-63/§4-7) gjelder tilsvarende for retten til å motsette seg behandling av opplysningene.
 
-> Endret ved lover [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 18. Informasjon og innsyn
 
-Pasienten eller brukeren har rett til informasjon og innsyn i henhold til [pasient- og brukerrettighetsloven § 3-6](lov/1999-07-02-63/§3-6) tredje ledd og [§ 5-1](lov/1999-07-02-63/§5-1) og til personvernforordningen artikkel 13 og 15.
+Pasienten eller brukeren har rett til informasjon og innsyn i henhold til [§ 22 a](lov/2014-06-20-42/§22a), [pasient- og brukerrettighetsloven § 3-6 tredje ledd](lov/1999-07-02-63/§3-6/ledd/3) og [§ 5-1](lov/1999-07-02-63/§5-1) og til [personvernforordningen artikkel 13](lov/2018-06-15-38/gdpr/a13) og [15](lov/2018-06-15-38/gdpr/a15).
 
 Når det er nødvendig for å gi innsyn, kan den dataansvarlige innhente personopplysninger fra Folkeregisteret. Dette gjelder uten hensyn til om opplysningene er underlagt taushetsplikt etter [folkeregisterloven](lov/2016-12-09-88).
 
 Kongen kan i forskrift gi nærmere bestemmelser om retten til innsyn i behandlingsrettede helseregistre.
 
-> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [17 juni 2022 nr. 51](lov/2022-06-17-51) (i kraft 1 juli 2022 iflg. [res. 17 juni 2022 nr. 1042](forskrift/2022-06-17-1042)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ## Kapittel 4. Virksomhetens plikter ved behandling av helseopplysninger
 
 ### § 19. Helseopplysninger ved helsehjelp
 
-Innenfor rammen av taushetsplikten skal den dataansvarlige sørge for at relevante og nødvendige helseopplysninger er tilgjengelige for helsepersonell og annet samarbeidende personell når dette er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp til den enkelte.
+Innenfor rammen av taushetsplikten etter [helsepersonelloven](lov/1999-07-02-64) skal den dataansvarlige sørge for at relevante og nødvendige helseopplysninger er tilgjengelige for helsepersonell og annet samarbeidende personell når dette er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp. Personellet kan innenfor rammene av denne taushetsplikten behandle opplysningene så langt det er nødvendig for å yte, administrere eller kvalitetssikre helsehjelp.
 
-Den dataansvarlige bestemmer på hvilken måte opplysningene skal gjøres tilgjengelige. Opplysningene skal gjøres tilgjengelige på en måte som ivaretar informasjonssikkerheten.
+Med mindre annet er fastsatt i lov eller i medhold av lov, skal den dataansvarlige bestemme på hvilken måte opplysningene skal gjøres tilgjengelige. Opplysningene skal gjøres tilgjengelige på en måte som ivaretar informasjonssikkerheten.
 
 Departementet kan i forskrift gi nærmere bestemmelser om hvordan helseopplysninger i behandlingsrettede helseregistre kan gjøres tilgjengelige.
 
-> Endret ved lov [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 20. Helseopplysninger til andre formål enn helsehjelp
 
@@ -240,7 +242,15 @@ Departementet kan i forskrift fastsette nærmere krav til tekniske og organisato
 
 ### § 22 a. Dokumentasjon av tilgjengeliggjøring
 
-> **Tilføyes** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+Tilgjengeliggjøring av helseopplysninger etter denne loven og [helsepersonelloven](lov/1999-07-02-64) skal dokumenteres i en logg eller i pasientens journal. I logg skal det minst dokumenteres informasjon om:identiteten og den organisatoriske tilhørigheten til den som får helseopplysningenegrunnlaget for tilgjengeliggjøringentidsperioden for tilgjengeliggjøringenhvilke opplysninger eller dokumenter som blir tilgjengeliggjort.
+
+Den registrerte har rett til innsyn i dokumentasjonen.
+
+Dersom oversikten viser at noen urettmessig har hentet frem journalopplysninger, skal virksomheten opplysningene er hentet fra og den registrerte varsles, jf. [personvernforordningen artikkel 33](lov/2018-06-15-38/gdpr/a33) og [34](lov/2018-06-15-38/gdpr/a34).
+
+Departementet kan gi forskrift om dokumentasjon av tilgjengeliggjøring av helseopplysninger.
+
+> Tilføyd ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 23. Internkontroll
 
@@ -290,19 +300,17 @@ Ved behandling av helseopplysninger i strid med loven eller forskrifter gitt i m
 
 ### § 30. Straff for brudd på taushetsplikt
 
-Overtredelse av [§ 15](lov/2014-06-20-42/§15) om taushetsplikt straffes etter [straffeloven § 209](lov/2005-05-20-28/§209), likevel slik at medvirkning straffes.
+Overtredelse av [§ 15](lov/2014-06-20-42/§15) om taushetsplikt straffes etter [straffeloven § 209](lov/2005-05-20-28/§209), likevel slik at også medvirkning straffes.
 
-> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 30 a. Straff for urettmessig tilegnelse av helseopplysninger
 
-Den som forsettlig eller grovt uaktsomt overtrer forbudet mot urettmessig tilegnelse av helseopplysninger i [§ 16](lov/2014-06-20-42/§16), straffes med bøter eller fengsel i inntil 1 år.
+Den som forsettlig eller grovt uaktsomt overtrer forbudet i [§ 16](lov/2014-06-20-42/§16) mot urettmessig tilegnelse av helseopplysninger, straffes med bøter eller fengsel i inntil ett år.
 
-Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil 3 år.
+Grov urettmessig tilegnelse av helseopplysninger straffes med fengsel i inntil tre år. Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov, skal det særlig legges vekt påfaren for stor skade eller ulempe for pasienten eller brukerenom det foreligger en tilsiktet vinning med overtredelsenovertredelsens varighet og omfangden utviste skyldom handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
 
-Ved avgjørelsen av om den urettmessige tilegnelsen av helseopplysninger er grov skal det særlig legges vekt påfaren for stor skade eller ulempe for pasienten eller brukeren,den tilsiktede vinningen med overtredelsen,overtredelsens varighet og omfang,den utviste skyld, ogom handlingen er begått av noen som tidligere er ilagt en strafferettslig reaksjon for liknende handlinger.
-
-> Tilføyd ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)). **Endres** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved lov [10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 31. Erstatning
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2024-01-01"
-last_change_in_force: "2024-04-25"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "ecdb6bdd9435b57f0d3a6f70e4a60ece1945c02ab983f5edb7214df2b2069ff8"
+xml_hash: "b74ae460f25d5825cd85b79e1e92e6719f7a947906c5d9d81ddeb371ca34126a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-Forskriften inneholder bestemmelser som utfyller [folketrygdloven § 17-7](lov/1997-02-28-19/§17-7), [§ 17-8](lov/1997-02-28-19/§17-8) og [§ 17-9](lov/1997-02-28-19/§17-9) om ytelser til gjenlevende ektefelle og tidligere familiepleier.
+Forskriften inneholder bestemmelser som utfyller [folketrygdloven § 17-7](lov/1997-02-28-19/§17-7), [§ 17-8](lov/1997-02-28-19/§17-8), [§ 17-9](lov/1997-02-28-19/§17-9), [§ 17-10](lov/1997-02-28-19/§17-10) og [§ 17-10a](lov/1997-02-28-19/§17-10a) om ytelser til gjenlevende ektefelle og tidligere familiepleier.
+
+> Endret ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
 
 ## Kapittel 2. Aktivitetsplikten
 
@@ -90,11 +92,13 @@ Arbeids- og velferdsetaten kan frita stønadsmottakeren fra meldeplikten. Fritak
 
 Dersom stønadsmottakeren plikter å være i arbeid eller aktivitet med sikte på å komme i arbeid og ikke oppfyller denne plikten i en periode på tre sammenhengende måneder, kan det fattes vedtak om at omstillingsstønaden opphører.
 
-## Kapittel 4. Reduksjon av stønad på grunnlag av arbeidsinntekt m.m.
+## Kapittel 4. Reduksjon av stønad på grunnlag av pensjonsgivende inntekt m.m.
+
+> Overskrift endret ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
 
 ### § 9. Gjennomføring av inntektsavkorting
 
-Med inntekt i denne bestemmelsen menes arbeidsinntekt og ytelser likestilt med arbeidsinntekt, jf. [folketrygdloven § 17-9](lov/1997-02-28-19/§17-9) første og tredje ledd.
+Med inntekt i denne bestemmelsen menes pensjonsgivende inntekt og ytelser likestilt med pensjonsgivende inntekt, jf. [folketrygdloven § 17-9 første](lov/1997-02-28-19/§17-9/ledd/1) og [tredje ledd](lov/1997-02-28-19/§17-9/ledd/3).
 
 Stønadsmottakeren skal på forhånd melde inn forventet inntekt og om endringer i inntekten. Den månedlige ytelsen reduseres mot det stønadsmottakeren har meldt inn. Dersom det er utbetalt for lite eller for mye sammenlignet med vedkommendes faktiske inntekt det aktuelle inntektsåret, skal det foretas et etteroppgjør. Etteroppgjøret skal foretas når skatteoppgjøret foreligger.
 
@@ -108,7 +112,7 @@ Dersom stønadsmottakeren dør i samme år som etteroppgjøret gjelder for, skal
 
 I inngangsår eller opphørsår for omstillingsstønaden skal det tas utgangspunkt i perioden for rett til omstillingsstønad og inntekten i samme periode.
 
-> Endret ved forskrift [25 april 2024 nr. 687](forskrift/2024-04-25-687) (med virkning fra 1 jan 2024).
+> Endret ved forskrifter [25 april 2024 nr. 687](forskrift/2024-04-25-687) (med virkning fra 1 jan 2024), [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
 
 ### § 10. Tidspunkt for når omstillingsstønaden skal reduseres på grunn av inntekten og fordeling av reduksjon gjennom kalenderåret
 
@@ -116,8 +120,32 @@ Det er inntekt for hele kalenderåret som legges til grunn ved reduksjon av omst
 
 Når Arbeids- og velferdsetaten mottar opplysninger fra A-ordningen om at stønadsmottakeren har tjent over den forventede inntekten, kan omstillingsstønaden reduseres. Endringen foretas fra måneden etter at Arbeids- og velferdsetaten mottar opplysninger om slike overskridelser fra A-ordningen.
 
-## Kapittel 5. Ikrafttredelse
+## Kapittel 5. Forskjellige bestemmelser
 
-### § 11. Ikrafttredelse
+> Tilføyd ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
+
+### § 11. Stønad til dekning av utgifter til skolepenger mv.
+
+Stønad til skolepenger, semesteravgift og eksamensgebyr etter [folketrygdloven § 17-10a bokstav f](lov/1997-02-28-19/§17-10a/bokstav/f), gis på grunnlag av de faktiske utgiftene, med utgangspunkt i Statens lånekasse for utdannings satser for skolepenger. For utdanning på deltid dekkes skolepenger med opptil 1/4, 1/2, 2/3 eller 3/4 av maksimal stønad på full tid. Stønaden reduseres med stipend som gis til samme formål og som ikke er behovsprøvd.
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
+
+### § 12. Beregning av stønad til barnetilsyn
+
+Før stønad til barnetilsyn beregnes etter [folketrygdloven § 17-10 tredje ledd](lov/1997-02-28-19/§17-10/ledd/3), skal månedsbeløpet som er innvilget i kontantstøtte for den gjenlevendes barn trekkes fra de dokumenterte månedlige utgiftene til barnetilsyn. Dette gjelder også når kontantstøtten utbetales til en annen som bor sammen med den gjenlevende og barnet. Det skal gjøres fradrag for innvilget kontantstøtte selv om den gjenlevende ikke har søkt om stønad til barnetilsyn for det barnet det utbetales kontantstøtte for.
+
+Arbeids- og velferdsetaten kan kontrollere om det utbetales kontantstøtte som det skal gjøres fradrag for og med hvilket beløp.
+
+Etterbetaling av trygdeytelser skal ikke medregnes ved beregning av pensjonsgivende inntekt etter [§ 17-10 tredje ledd](lov/1997-02-28-19/§17-10/ledd/3).
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026).
+
+## Kapittel 6. Ikrafttredelse
+
+> Endret ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026, tidligere kapittel 5).
+
+### § 13. Ikrafttredelse
 
 Forskriften trer i kraft 1. januar 2024.
+
+> Endret ved forskrift [25 juni 2026 nr. 1376](forskrift/2026-06-25-1376) (i kraft 1 juli 2026, tidligere § 11).

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2004-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-02"
-xml_hash: "50e8b1b823f9368bad6d3567c73450cdb78210f880d76c9e874dc1990b0a14d7"
+xml_hash: "8121d97bd815957247d8f476fc13e5006925b92aa794373f6e99b3ade16a7634"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,11 @@ Loven har til formål å regulere og kontrollere omsetningen av fast eiendom for
 
 Med de unntak som følger av loven, kan fast eiendom ikke erverves uten tillatelse av Kongen (konsesjon). Kongen kan gi forskrift om at myndigheten til å treffe avgjørelse i nærmere bestemte saker tildeles kommunen. Statsforvalteren er klageinstans for vedtak truffet av kommunen etter loven. Når vilkårene for omgjøring etter [forvaltningsloven § 35](lov/1967-02-10/§35) er oppfylt, kan vedtaket også omgjøres av departementet.
 
-Loven omfatter ikke ervervsom er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,som er konsesjonspliktige etter [lov 29. juni 1990 nr. 50 kapittel 3](lov/1990-06-29-50/kap3) om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.,som har sitt grunnlag i ekspropriasjonstillatelse etter [lov 19. juni 2009 nr. 101](lov/2009-06-19-101) om erverv og utvinning av mineralressurser (mineralloven) [§ 37](lov/2009-06-19-101/§37) andre ledd og [§ 38](lov/2009-06-19-101/§38) andre ledd,som er nødvendig for drift på mineralsk forekomst når erververen sender søknad om driftskonsesjon etter [lov 19. juni 2009 nr. 101](lov/2009-06-19-101) om erverv og utvinning av mineralressurser (mineralloven) [§ 43](lov/2009-06-19-101/§43) og driftskonsesjon innvilges.
+Loven omfatter ikke ervervsom er konsesjonspliktige eller som krever vedtak etter vannfallrettighetsloven,som er konsesjonspliktige etter [lov 29. juni 1990 nr. 50 kapittel 3](lov/1990-06-29-50/kap3) om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.,som har sitt grunnlag i ekspropriasjonstillatelse etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) § 9-1 første ledd bokstav d](lov/2025-06-20-107/§9-1/ledd/1/bokstav/d) og [e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e).som er nødvendig for drift på mineralsk forekomst når erververen sender søknad om driftskonsesjon etter [lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven) §§ 6-2](lov/2025-06-20-107/§6-2) og [6-3](lov/2025-06-20-107/§6-3) og driftskonsesjon innvilges.
 
 Kongen kan ved forskrift gjøre unntak fra konsesjonsplikten utover det som følger av [§§ 4](lov/2003-11-28-98/§4), [5](lov/2003-11-28-98/§5) og [7](lov/2003-11-28-98/§7). Når særlige hensyn foreligger, kan Kongen også i det enkelte tilfelle gjøre unntak fra konsesjonsplikt.
 
-> Endret ved [lover 19 juni 2009 nr. 101](lov/2009-06-19-101) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 673](forskrift/2009-06-19-673)), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 16 mars 2012 iflg. [res. 16 mars 2012 nr. 225](forskrift/2012-03-16-225)), [21 juni 2017 nr. 101](lov/2017-06-21-101) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2034](forskrift/2017-12-15-2034)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)). **Endres** ved lov [20 juni 2025 nr. 107](lov/2025-06-20-107) (i kraft 1 juli 2026 iflg. [res. 20. juni 2025 nr. 1108](forskrift/2025-06-20-1108)).
+> Endret ved lover [19 juni 2009 nr. 101](lov/2009-06-19-101) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 673](forskrift/2009-06-19-673)), [27 jan 2012 nr. 11](lov/2012-01-27-11) (ikr. 16 mars 2012 iflg. [res. 16 mars 2012 nr. 225](forskrift/2012-03-16-225)), [21 juni 2017 nr. 101](lov/2017-06-21-101) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2034](forskrift/2017-12-15-2034)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)), [20 juni 2025 nr. 107](lov/2025-06-20-107) (i kraft 1 juli 2026 iflg. [res. 20. juni 2025 nr. 1108](forskrift/2025-06-20-1108)).
 
 ## Kapittel 2. Disposisjoner som likestilles med erverv av fast eiendom
 

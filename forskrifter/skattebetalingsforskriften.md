@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2008-01-01"
-last_change_in_force: "2026-03-02"
+last_change_in_force: "2026-06-26"
 last_updated: "2024-09-04"
-xml_hash: "9061268fab1bf258f7c750bdd26707c9765b5b22149e5a2a532437e1cccdc50a"
+xml_hash: "96790e5b7305ee06d6f07d1fd55b051e3a6f0d7694e702a0843c1f41cf051a23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -564,9 +564,9 @@ Skattedirektoratet kan etter søknad gi helt eller delvis fritak fra plikten til
 
 (4) Fritaket for forskuddstrekk for tidsrom i november og desember skal også omfatte tilleggsytelser som skattlegges som lønn og som blir utbetalt sammen med annen lønn for tidsrommet, selv om tilleggsytelsene helt eller delvis er opptjent i et annet tidsrom. Dette gjelder likevel bare så langt den samlede ytelsen ikke overstiger arbeidstakerens gjennomsnittsfortjeneste hos arbeidsgiveren i denne del av inntektsåret.
 
-(5) Skattepliktige med livrente, pensjon, vartpenger og supplerende stønad til person med kort botid i Norge er fritatt for forskuddstrekk i slik ytelse for november eller desember
+(5) Skattepliktige med livrente, pensjon, vartpenger og supplerende stønad til person som har fylt 67 år er fritatt for forskuddstrekk i slik ytelse for november eller desember.
 
-> Endret ved forskrifter [9 april 2010 nr. 504](forskrift/2010-04-09-504), [20 mai 2016 nr. 511](forskrift/2016-05-20-511) (fom inntektsåret 2016), [1 nov 2016 nr. 1282](forskrift/2016-11-01-1282) (med virkning fra inntektsåret 2016), [5 jan 2026 nr. 3](forskrift/2026-01-05-3) (med virkning fra inntektsåret 2026).
+> Endret ved forskrifter [9 april 2010 nr. 504](forskrift/2010-04-09-504), [20 mai 2016 nr. 511](forskrift/2016-05-20-511) (fom inntektsåret 2016), [1 nov 2016 nr. 1282](forskrift/2016-11-01-1282) (med virkning fra inntektsåret 2016), [5 jan 2026 nr. 3](forskrift/2026-01-05-3) (med virkning fra inntektsåret 2026), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 5-8. Nærmere om beregningsgrunnlaget for forskuddstrekk
 
@@ -762,7 +762,9 @@ Beregningsgrunnlaget for forskuddstrekk reduseres med fradragsberettiget konting
 
 ### § 5-9-10. Beløpsgrense for fradrag for sjøfolk
 
-Fradrag i beregningsgrunnlaget for forskuddstrekk etter [skattebetalingsloven § 5-9](lov/2005-06-17-67/§5-9) bokstav d annet punktum er begrenset til 4 200 kroner per måned.
+Fradrag i beregningsgrunnlaget for forskuddstrekk etter [skattebetalingsloven § 5-9 første ledd bokstav c annet punktum](lov/2005-06-17-67/§5-9/ledd/1/bokstav/c/setning/2) er begrenset til 4 200 kroner per måned.
+
+> Endret ved forskrift [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 5-10. Gjennomføring av forskuddstrekk
 
@@ -790,9 +792,7 @@ Fradrag i beregningsgrunnlaget for forskuddstrekk etter [skattebetalingsloven §
 
 (2) Når det avgjøres hvor langt tidsrom godtgjørelsen gjelder for, skal alle dager i tidsrommet regnes med, også fraværsdager (når ikke utbetaling fra NAV-kontoret erstatter lønnen), lørdager og søndager, hellig- og høytidsdager. Tidsrom som det etter [§ 5-7-1](forskrift/2007-12-21-1766/§5-7-1) og [§ 5-7-2](forskrift/2007-12-21-1766/§5-7-2) ikke skal foretas forskuddstrekk for, skal ikke medregnes. Når skattyteren ikke har lønn i ferien, skal feriedager ikke medregnes. Det samme gjelder når feriegodtgjørelse er utbetalt i en tidligere lønnsperiode. Når trekkpliktig feriegodtgjørelse til arbeidstakere over 60 år utbetales etter 31. desember i opptjeningsåret, går godtgjørelsen inn under bestemmelsene i første ledd. Ved valg mellom dagtabellene og mellom uke- og dagtabell etter første ledd bokstav a og b, skal arbeidsgiveren heller ikke regne med fraværsdager som det ikke betales lønn eller godtgjørelse for.
 
-(3) Ved beregning av tabelltrekk i pensjoner, livrenter, vartpenger samt lønn mv. til arbeidstaker som fyller 70 år eller mer i løpet av inntektsåret, som det skal svares trygdeavgift av etter lav sats, benyttes den særskilte månedstabell «Kun pensjon». Foreligger det slike utbetalinger for tidsrom som ikke lar seg lese av månedstabellen, skal pensjonsutbetaleren benytte tabellene for lønnstakere. Trekkbeløpet som trekktabellen viser skal da reduseres med den prosenten av beregningsgrunnlaget for forskuddstrekk som Skattedirektoratet fastsetter.
-
-> Endret ved [forskrift 27 sep 2013 nr. 1149](forskrift/2013-09-27-1149) (fom inntektsåret 2014).
+> Endret ved [forskrifter 27 sep 2013 nr. 1149](forskrift/2013-09-27-1149) (fom inntektsåret 2014), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 5-10-3. Prosenttrekk
 
@@ -810,7 +810,9 @@ Ved gjennomføring av prosenttrekk skal beregningsgrunnlaget rundes av nedover t
 
 (1) Arbeidsgiveren kan la være å foreta forskuddstrekk ved utbetalingen av forskudd på månedslønn, ukelønn, timelønn eller annen tidslønn som blir regelmessig avregnet for like lange tidsrom på høyst en måned, når beløpet er forskudd for løpende eller utløpt avregningstidsrom. Bestemmelsen gjelder bare dersom lønnsoppgjør skal foretas i samme år og forskuddet ikke er større enn at skattyteren etter et forsvarlig skjønn må ventes å ville ha nok til gode ved lønnsoppgjøret til dekning av forskuddstrekk i den samlede lønn mv. for tidsrommet.
 
-(2) Hvis det ikke er foretatt forskuddstrekk ved utbetaling av forskudd på lønn mv., skal forskuddet tas med i beregningsgrunnlaget ved første lønnsoppgjør. Om dette ikke finner sted til forutsatt tid, skal arbeidsgiveren likevel senest på den forutsatte oppgjørsdag beregne forskuddstrekk av forskuddet og behandle og gjøre opp trekkbeløpet i samsvar med [skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11), [§ 5-12](lov/2005-06-17-67/§5-12) og [§ 9-1](lov/2005-06-17-67/§9-1). På samme måte skal forskuddstrekk foretas i den samlede forskudds- og restlønn når lønnsoppgjøret blir foretatt til forutsatt tid, men restlønnen ikke gir dekning for trekkbeløpet. Trekkbeløp som i slike tilfeller ikke kan avkortes med det samme, kan arbeidsgiveren så snart det er adgang til det, avkorte i annen lønn mv. etter at det er foretatt pliktig forskuddstrekk i denne.
+(2) Hvis det ikke er foretatt forskuddstrekk ved utbetaling av forskudd på lønn mv., skal forskuddet tas med i beregningsgrunnlaget ved første lønnsoppgjør. Om dette ikke finner sted til forutsatt tid, skal arbeidsgiveren likevel senest på den forutsatte oppgjørsdag beregne forskuddstrekk av forskuddet og behandle og gjøre opp trekkbeløpet i samsvar med [skattebetalingsloven § 5-11](lov/2005-06-17-67/§5-11), [§ 9-1](lov/2005-06-17-67/§9-1) og [§ 10-10](lov/2005-06-17-67/§10-10). På samme måte skal forskuddstrekk foretas i den samlede forskudds- og restlønn når lønnsoppgjøret blir foretatt til forutsatt tid, men restlønnen ikke gir dekning for trekkbeløpet. Trekkbeløp som i slike tilfeller ikke kan avkortes med det samme, kan arbeidsgiveren så snart det er adgang til det, avkorte i annen lønn mv. etter at det er foretatt pliktig forskuddstrekk i denne.
+
+> Endret ved forskrift [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 5-10-11. (Opphevet)
 
@@ -1198,7 +1200,7 @@ Departementets myndighet etter [skattebetalingsloven § 8-1](lov/2005-06-17-67/�
 
 ### § 9-1-1. Betaling via bank
 
-(1) Ved betaling av skatte- og avgiftskrav via bank skal innbetaling skje til den bankkonto innkrevingsmyndigheten for kravet bestemmer.
+(1) Ved betaling av skatte- og avgiftskrav via bank skal innbetaling skje til den bankkonto skattekontoret bestemmer.
 
 (2) Innbetaling til bank kan skje elektronisk eller ved bruk av betalingsblankett. Skattedirektoratet kan fastsette særskilte betalingsblanketter og bestemme at disse skal benyttes når betaling via bank skjer ved bruk av betalingsblankett.
 
@@ -1208,7 +1210,7 @@ Departementets myndighet etter [skattebetalingsloven § 8-1](lov/2005-06-17-67/�
 
 (5) Ved betaling via bank skal bankene og deres avregningssentraler sørge for at faktisk innbetalingsdato til banken blir registrert og følger betalingstransaksjonen til betalingsmottaker.
 
-> Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
+> Endret ved [forskrifter 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 9-1-2. Betaling av toll og avgifter mv.
 
@@ -1324,9 +1326,9 @@ Arbeidsgiveravgift fra arbeidsgivere som har lønnsutbetalinger som er fritatt f
 
 > Opphevet ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
 
-Bestemmelsene i [skattebetalingsloven § 10-10](lov/2005-06-17-67/§10-10) gjelder også arbeidsgiveravgift og finansskatt på lønn innrapportert på skattemelding som ikke er levert innen leveringsfristen. Tilsvarende gjelder ved førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn når skattemelding ikke er levert.
+Bestemmelsen i [skattebetalingsloven § 10-10 annet ledd](lov/2005-06-17-67/§10-10/ledd/2) gjelder også arbeidsgiveravgift og finansskatt på lønn innrapportert på skattemelding som ikke er levert innen leveringsfristen. Tilsvarende gjelder ved førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn når skattemelding ikke er levert.
 
-> Tilføyd ved [forskrift 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017).
+> Tilføyd ved [forskrift 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 > Tilføyd ved [forskrift 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), endret ved [forskrifter 30 okt 2020 nr. 2221](forskrift/2020-10-30-2221) (i kraft 1 nov 2020), [13 juni 2025 nr. 1006](forskrift/2025-06-13-1006) (i kraft 1 jan 2026), opphevet ved forskrift [8 aug 2025 nr. 1606](forskrift/2025-08-08-1606) (i kraft 1 jan 2026).
 
@@ -1454,11 +1456,9 @@ Ved for sent innbetalt forskuddsskatt kan renteberegningen utsettes til etter av
 
 > Endret ved [forskrift 30 okt 2020 nr. 2221](forskrift/2020-10-30-2221) (i kraft 1 nov 2020).
 
-### § 11-1-3. Beregning av forsinkelsesrenter for privat arbeidsgiver, samt veldedig eller allmennyttig organisasjon eller institusjon
+### § 11-1-3. (Opphevet)
 
-Når en privat arbeidsgiver som nevnt i [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2) sjette eller syvende ledd, eller en veldedig eller allmennyttig institusjon eller organisasjon som nevnt i [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2) åttende ledd, leverer opplysninger om forskuddstrekket etter [a-opplysningsforskriften § 2-1](forskrift/2014-06-24-857/§2-1) tredje ledd, beregnes forsinkelsesrenter av for sent innsendt oppgjør likevel først fra de ordinære forfallstidspunkter som følger av [skattebetalingsloven § 10-10](lov/2005-06-17-67/§10-10).
-
-> Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015).
+> Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), opphevet ved forskrift [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 11-1-4. (Opphevet)
 
@@ -1490,11 +1490,11 @@ Ved beregning av renter etter vedtak om endring og egenretting, skal renter bere
 
 ### § 11-2-3. Renteberegning ved flere endringer i samme termin eller år
 
-(1) Dersom et skatte- eller avgiftskrav økes i forhold til foregående skattemelding eller tidligere leverte opplysninger, egenretting eller vedtak, skal renteberegningen skje på grunnlag av økningen. Er det foretatt flere egenrettinger før skatte- og avgiftsmyndigheten har godkjent skattemeldingene eller opplysningene, skal renter bare beregnes av det beløpet som samlet blir å utbetale.
+(1) Dersom et skatte- eller avgiftskrav økes i forhold til foregående skattemelding eller tidligere leverte opplysninger, egenretting eller vedtak, skal renteberegningen skje på grunnlag av økningen. Er det foretatt flere egenrettinger før skatte- og avgiftsmyndigheten har godkjent skattemeldingene eller opplysningene, skal renter bare beregnes av det beløpet som samlet blir å betale.
 
 (2) For skatte- og avgiftskrav som tidligere har vært innbetalt en periode, og som det er ytt renter for etter [skattebetalingsloven § 11-4](lov/2005-06-17-67/§11-4), skal det ved den nye beregningen benyttes samme sats som etter [§ 11-4](lov/2005-06-17-67/§11-4) for den perioden.
 
-> Endret ved [forskrifter 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017).
+> Endret ved [forskrifter 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 11-2-4. Renter ved restitusjonskontroll før utbetaling av merverdiavgift
 
@@ -1622,9 +1622,9 @@ Rentetillegg skal ikke beregnes ved avregning etter forhåndsfastsetting når av
 
 ### § 11-5-6. Beregningsgrunnlaget for renter etter skattebetalingsloven § 11-5
 
-Ved beregning av renter etter [skattebetalingsloven § 11-5](lov/2005-06-17-67/§11-5) skal forsinkelsesavgift, tilleggsskatt og renter etter [§ 11-2](lov/2005-06-17-67/§11-2) og [§ 11-4](lov/2005-06-17-67/§11-4) ikke inngå i beregningsgrunnlaget.
+Ved beregning av renter etter [skattebetalingsloven § 11-5](lov/2005-06-17-67/§11-5) skal tilleggsskatt og renter etter [§ 11-2](lov/2005-06-17-67/§11-2) og [§ 11-4](lov/2005-06-17-67/§11-4) ikke inngå i beregningsgrunnlaget.
 
-> Endret ved [forskrift 19 des 2008 nr. 1487](forskrift/2008-12-19-1487).
+> Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 11-5-7. (Opphevet)
 
@@ -1680,13 +1680,13 @@ Skattedirektoratet og Tolldirektoratet kan sette ned eller frafalle renter etter
 
 ### § 11-7-5. Renter beregnet av sanksjon under klage- eller domstolsbehandling
 
-(1) Av tilleggsskatt, tilleggsavgift og overtredelsesgebyr med utsatt iverksetting etter [skatteforvaltningsloven § 14-10](lov/2016-05-27-14/§14-10) eller [tollavgiftsloven § 12-7](lov/2022-03-11-8/§12-7), som fastholdes, beregnes rente etter reglene i [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2) og [§ 11-6](lov/2005-06-17-67/§11-6) annet ledd første punktum. Renten skal løpe fra tre uker etter at klagefristen for vedtaket er utløpt og frem til klagen er avgjort eller endelig rettsavgjørelse foreligger. Er det innvilget utsatt iverksetting uten at det tas ut søksmål, beregnes renten fram til utløpet av søksmålsfristen.
+(1) Av tilleggsskatt, tilleggsavgift og overtredelsesgebyr med utsatt iverksetting etter [skatteforvaltningsloven § 14-10](lov/2016-05-27-14/§14-10), [tollavgiftsloven § 12-7](lov/2022-03-11-8/§12-7) eller [vareførselsloven § 12-2 fjerde](lov/2022-03-11-9/§12-2/ledd/4) og [femte ledd](lov/2022-03-11-9/§12-2/ledd/5), som fastholdes, beregnes rente etter reglene i [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2) og [§ 11-6 annet ledd første punktum](lov/2005-06-17-67/§11-6/ledd/2/setning/1). Renten skal løpe fra tre uker etter at klagefristen for vedtaket er utløpt og frem til klagen er avgjort eller endelig rettsavgjørelse foreligger. Er det innvilget utsatt iverksetting uten at det tas ut søksmål, beregnes renten fram til utløpet av søksmålsfristen.
 
 (2) Er innkrevingen av sanksjon som nevnt i første ledd stilt i bero i medhold av instruks 11. desember 2015 fra Finansdepartementet til Skattedirektoratet, svares rente tilsvarende satsen i [skattebetalingsloven § 11-6](lov/2005-06-17-67/§11-6) annet ledd første punktum fra forfall for kravet og frem til klagen er avgjort eller endelig rettsavgjørelse foreligger. Endelig renteberegning skal først skje etter at hovedkravet er innfridd.
 
 (3) Denne paragraf gjelder ikke tilleggsavgift som ilegges ved forsinket betaling av krav om årsavgift.
 
-> Tilføyd ved [forskrift 11 des 2015 nr. 1463](forskrift/2015-12-11-1463), endret ved [forskrifter 13 des 2016 nr. 1573](forskrift/2016-12-13-1573) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026).
+> Tilføyd ved [forskrift 11 des 2015 nr. 1463](forskrift/2015-12-11-1463), endret ved [forskrifter 13 des 2016 nr. 1573](forskrift/2016-12-13-1573) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023), [23 des 2025 nr. 2867](forskrift/2025-12-23-2867) (i kraft 1 jan 2026), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
 ### § 11-7-6. Renter ved endring av utskrevet terminskatt
 

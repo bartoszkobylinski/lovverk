@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "a90eed9862b466eefcff5cc15712aa09eb5f5d82aafe8903156fea4d9f5c0327"
+xml_hash: "2feb61d086e1b7195e6bf768001e56f1b03a11c4a74a75ecd64ac516890c26f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,15 +32,15 @@ Departementet skal, ved eventuelle endringer i EUs liste over ikke-samarbeidsvil
 
 ## § 3. Stater oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål
 
-Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Amerikansk SamoaAnguillaFijiGuamPalauPanamaRusslandSamoaTrinidad og TobagoDe amerikanske JomfruøyeneVanuatu.
+Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Amerikansk SamoaAnguillaGuamPalauPanamaRusslandDe amerikanske JomfruøyeneTurks- og CaicosøyeneVanuatuVietnam.
 
-> **Endres** ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
 
 ## § 4. Stater oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål
 
-Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Antigua og BarbudaBelizeDe britiske JomfruøyeneBruneiEswatiniSeychelleneTyrkiaVietnam.
+Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:BelizeDe britiske JomfruøyeneBruneiEswatiniTyrkia.
 
-> **Endres** ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1214](forskrift/2026-06-22-1214) (i kraft 1 juli 2026).
 
 ## § 5. Ikrafttredelse
 

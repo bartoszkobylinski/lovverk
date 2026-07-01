@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-02-24"
-xml_hash: "11ffc1bbb603ef35fe87fe820ef12976d1c26cb4d4ad3ee4dbf7cbae7d013de0"
+xml_hash: "af5d3a44ac932017ad8adb10deb04eec7b4b0d3a5979719ffa1ad20e7f4aa2ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1520,13 +1520,13 @@ Kausjonisten kan på ethvert tidspunkt kreve at kredittyteren opplyser omhvilket
 
 (1) Hvis kredittkunden har misligholdt kredittavtalen i ikke uvesentlig grad, eller det må antas at slikt mislighold vil inntre, har kausjonisten rett til å innfri kausjonsansvaret helt eller delvis. Kausjonisten skal i tilfelle varsle kredittyteren og kredittkunden om når betaling vil finne sted.
 
-(2) Varsel etter første ledd kan unnlates hvis kredittyteren har tatt rettslige skritt mot kredittkunden etter [§ 6-10](lov/2020-12-18-146/§6-10) eller har varslet kausjonisten om at slike skritt vil bli tatt. Det samme gjelder hvis kredittkunden har innledet gjeldsforhandlinger, har søkt om gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99) for namsmannen eller det er åpnet konkurs i kredittkundens bo.
+(2) Varsel etter første ledd kan unnlates hvis kredittyteren har tatt rettslige skritt mot kredittkunden etter [§ 6-10](lov/2020-12-18-146/§6-10) eller har varslet kausjonisten om at slike skritt vil bli tatt. Det samme gjelder hvis kredittkunden har innledet gjeldsforhandlinger, har søkt om gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99) for namsfogden eller det er åpnet konkurs i kredittkundens bo.
 
 (3) Ved innfrielse av kausjonsansvaret trer kausjonisten etter alminnelige regler inn i kredittavtalen og de sikkerhetene som er stilt for kredittyterens krav.
 
 (4) Kredittyteren kan hindre at kausjonisten trer inn i kredittavtalen ved å frita kausjonisten for kausjonsansvaret i samme utstrekning som innfrielsen ville ha fritatt kausjonisten for videre ansvar.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 6-10. Kausjonens forfall mv.
 

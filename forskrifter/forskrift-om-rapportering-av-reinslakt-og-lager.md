@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2011-07-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "c764b4a4a8a67daa0a9d6adf3efe32888fd6b9036b114f9d782b3e73a5ea2cbe"
+xml_hash: "8f63ab814f7a2246acadf97c437416d142c92602e72fc94e0c74603bf0af34e8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ Den som rapporterer skal føre en slaktejournal med prisrapportering. Opplysning
 
 Slaktejournalen skal inneholde opplysninger omslakteriets EFTA-nummer,slaktedato,slaktenummer,avregningsvekt,klasse,fettgruppe,kasseringstype,dyrekode,bekreftelse på optisk lengdemåling av det enkelte dyret,distriktsnummer.
 
-Prisrapportering skal inneholde opplysninger omslaktenummer,avregningsnummer,reineiers fødselsnummer,nettopris eksklusive mva. (pris hel skrott).
+Prisrapportering skal inneholde opplysninger omslaktenummer,avregningsnummer,reineiers fødselsnummer,nettopris, jf. [§ 2 andre ledd](forskrift/2011-06-21-617/§2/ledd/2).
 
 Krav til rapportering av reineierens fødselsnummer gjelder ikke ved slakt av umerket og ufordelt rein.
 
@@ -72,7 +72,7 @@ Landbruksdirektoratet kan i særlige tilfeller fravike kravene til rapportering.
 
 Rapportering etter andre ledd bokstav e og f skal skje i henhold til Klassifiseringshåndboken.
 
-> Endret ved [forskrifter 19 juni 2012 nr. 594](forskrift/2012-06-19-594) (i kraft 1 juli 2012), [30 mai 2013 nr. 628](forskrift/2013-05-30-628) (i kraft 1 juli 2013), [28 nov 2013 nr. 1372](forskrift/2013-11-28-1372), [12 juni 2014 nr. 774](forskrift/2014-06-12-774) (i kraft 1 juli 2014), [1 juli 2015 nr. 833](forskrift/2015-07-01-833), [21 juni 2016 nr. 757](forskrift/2016-06-21-757) (i kraft 1 juli 2016), [26 juni 2018 nr. 1026](forskrift/2018-06-26-1026) (i kraft 1 juli 2018), [20 juni 2019 nr. 764](forskrift/2019-06-20-764) (i kraft 1 juli 2019), [24 juni 2019 nr. 875](forskrift/2019-06-24-875) (i kraft 1 juli 2019), [29 juni 2020 nr. 1425](forskrift/2020-06-29-1425) (i kraft 1 juli 2020), [20 juni 2022 nr. 1093](forskrift/2022-06-20-1093) (i kraft 1 juli 2022), [21 juni 2023 nr. 1011](forskrift/2023-06-21-1011) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1175](forskrift/2026-06-22-1175) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 19 juni 2012 nr. 594](forskrift/2012-06-19-594) (i kraft 1 juli 2012), [30 mai 2013 nr. 628](forskrift/2013-05-30-628) (i kraft 1 juli 2013), [28 nov 2013 nr. 1372](forskrift/2013-11-28-1372), [12 juni 2014 nr. 774](forskrift/2014-06-12-774) (i kraft 1 juli 2014), [1 juli 2015 nr. 833](forskrift/2015-07-01-833), [21 juni 2016 nr. 757](forskrift/2016-06-21-757) (i kraft 1 juli 2016), [26 juni 2018 nr. 1026](forskrift/2018-06-26-1026) (i kraft 1 juli 2018), [20 juni 2019 nr. 764](forskrift/2019-06-20-764) (i kraft 1 juli 2019), [24 juni 2019 nr. 875](forskrift/2019-06-24-875) (i kraft 1 juli 2019), [29 juni 2020 nr. 1425](forskrift/2020-06-29-1425) (i kraft 1 juli 2020), [20 juni 2022 nr. 1093](forskrift/2022-06-20-1093) (i kraft 1 juli 2022), [21 juni 2023 nr. 1011](forskrift/2023-06-21-1011) (i kraft 1 juli 2023), [22 juni 2026 nr. 1175](forskrift/2026-06-22-1175) (i kraft 1 juli 2026).
 
 ## § 6. Rapportering lagerbeholdning
 

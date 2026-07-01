@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1984-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "aa73e18aa7a07b741e6b7d8663c12e2953749cfd7a32cf2a4198564796feb2b0"
+xml_hash: "fd86ba981956444eb273345a52b07db8f46cb5174d9b34f76d93cbdaafc26b0c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-30T06:25:40.160175+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,11 +106,13 @@ Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten ett
 
 > Tilføyd ved lov [21 juni 2019 nr. 43](lov/2019-06-21-43) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 793](forskrift/2019-06-21-793)), endret ved lov [20 mai 2022 nr. 29](lov/2022-05-20-29) (i kraft 1 juli 2022 iflg. [res. 20 mai 2022 nr. 887](forskrift/2022-05-20-887)).
 
-### § 1-7. Varsel om alvorlige hendelser
+### § 1-7. Melding og rapport om alvorlige hendelser
 
-Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen, eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
 
-> Tilføyd ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (i kraft 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+> Tilføyd ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (i kraft 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), endret ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 1-8. Folkerettslige forpliktelser om trygdekoordinering
 

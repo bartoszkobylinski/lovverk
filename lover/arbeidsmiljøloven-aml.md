@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-08"
-xml_hash: "e14fb95ad90675b7243f10846516263ee86c9819cba64bc86b576bab4864637b"
+xml_hash: "56546f38f0274d93f3bcb154bfdc0e0b25548ec615ee80bfb8d6d92e6c862488"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -292,11 +292,11 @@ Arbeidsgiver skal, i tilknytning til det systematiske helse-, miljø- og sikkerh
 
 (6) Departementet kan gi forskrift om begrensning i adgangen til å sysselsette visse grupper arbeidstakere som i særlig grad kan være utsatt for ulykkes- eller helsefare og om omplassering av slike arbeidstakere.
 
-(7) Departementet kan gi forskrift som pålegger bruk av HMS-kort for arbeidstakere innenfor bransjer der det er nødvendig eller hensiktsmessig for å ivareta arbeidstakernes helse, miljø og sikkerhet og om oversiktslister over hvem som til enhver tid er sysselsatt på arbeidsplassen. Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av taushetsplikt å gi utsteder av HMS-kort alle opplysninger fra offentlige registre som er nødvendige for utstedelse av HMS-kort.
+(7) Departementet kan gi forskriftsom pålegger bruk av HMS-kort for arbeidstakere innenfor bransjer der det er nødvendig eller hensiktsmessig for å ivareta arbeidstakernes helse, miljø og sikkerhetom oversiktslister over hvem som til enhver tid er sysselsatt på arbeidsplassenom at oppdragsgivere i kontrakt med oppdragstakere skal ta inn kontraktsvilkår som skal sikre at forskrifter om HMS-kort overholdesom at oppdragsgivere skal kontrollere at oppdragstakere overholder forskrifter om HMS-kortom at oppdragstakere skal utlevere den dokumentasjonen som er nødvendig for at en oppdragsgiver kan oppfylle kontrollplikten.Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av taushetsplikt å gi utsteder av HMS-kort alle opplysninger fra offentlige registre som er nødvendige for utstedelse av HMS-kort.
 
 (8) Når hensynet til helse, miljø og sikkerhet tilsier det, kan departementet i forskrift gi bestemmelser om at virksomheter som tilbyr renholdstjenester eller tjenester i forbindelse med vedlikehold og reparasjon av motorvogn, må godkjennes av Arbeidstilsynet, og om det nærmere innholdet i en slik godkjenningsordning. Når det stilles krav om slik godkjenning, vil det være ulovlig å benytte tjenester fra virksomheter uten godkjenning.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 2 9 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)). **Endres** ved lov [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139)).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), 2 9 juni 2007 nr. 42 (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1140](forskrift/2007-10-12-1140)), [20 juni 2008 nr. 42](lov/2008-06-20-42) (ikr. 1 jan 2009 iflg. [res. 20 juni 2008 nr. 631](forskrift/2008-06-20-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [16 des 2011 nr. 58](lov/2011-12-16-58), [18 des 2015 nr. 103](lov/2015-12-18-103), [11 juni 2021 nr. 59](lov/2021-06-11-59) (ikr. 1 jan 2022 iflg. [res. 11 juni 2021 nr. 1872](forskrift/2021-06-11-1872)), [19 juni 2026 nr. 33](lov/2026-06-19-33) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139)).
 
 ### § 4-2. Krav til tilrettelegging, medvirkning og utvikling
 
@@ -1178,7 +1178,7 @@ Endringer i arbeidsforholdet som nevnt i [§§ 14-6](lov/2005-06-17-62/§14-6) o
 
 (7) Arbeidstaker som har vært sammenhengende midlertidig ansatt i mer enn tre år etter andre ledd bokstav a, b, tidligere f eller noen av disse i kombinasjon, skal anses som fast ansatt slik at reglene om oppsigelse av arbeidsforhold kommer til anvendelse. Ved beregning av ansettelsestid skal det ikke gjøres fradrag for arbeidstakers fravær.
 
-> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [25 juni 2010 nr. 31](lov/2010-06-25-31) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 976](forskrift/2010-06-25-976)), [24 apr 2015 nr. 20](lov/2015-04-24-20) (ikr. 1 juli 2015 iflg. [res. 24 apr 2015 nr. 399](forskrift/2015-04-24-399)), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [18 mars 2022 nr. 10](lov/2022-03-18-10) som endret ved lov [17 juni 2022 nr. 42](lov/2022-06-17-42) (i kraft 1 juli 2022 iflg. [res. 18 mars 2022 nr. 412](forskrift/2022-03-18-412)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
+> Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [25 juni 2010 nr. 31](lov/2010-06-25-31) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 976](forskrift/2010-06-25-976)), [24 apr 2015 nr. 20](lov/2015-04-24-20) (ikr. 1 juli 2015 iflg. [res. 24 apr 2015 nr. 399](forskrift/2015-04-24-399)), [22 juni 2018 nr. 46](lov/2018-06-22-46) (ikr. 1 jan 2019 iflg. [res. 22 juni 2018 nr. 944](forskrift/2018-06-22-944)), [20 des 2018 nr. 98](lov/2018-12-20-98) (ikr. 1 jan 2019), [21 juni 2019 nr. 25](lov/2019-06-21-25) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 781](forskrift/2019-06-21-781)), [18 mars 2022 nr. 10](lov/2022-03-18-10) (i kraft 1 juli 2022 iflg. [res. 18 mars 2022 nr. 412](forskrift/2022-03-18-412), endring endret ved lov [17 juni 2022 nr. 42](lov/2022-06-17-42)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
 
 ### § 14-10. Åremål
 
@@ -1262,7 +1262,7 @@ Endringer i arbeidsforholdet som nevnt i [§§ 14-6](lov/2005-06-17-62/§14-6) o
 
 (5) [§ 14-12](lov/2005-06-17-62/§14-12) fjerde ledd gjelder tilsvarende.
 
-> Endret ved lover [29 juni 2007 nr. 42](lov/2007-06-29-42) (ikr. 1 juli 2008 iflg. [res. 29 feb 2008 nr. 200](forskrift/2008-02-29-200)) som endret ved lov [21 des 2007 nr. 118](lov/2007-12-21-118), [20 des 2022 nr. 99](lov/2022-12-20-99) (i kraft 1 apr 2023 iflg. [res. 20 des 2022 nr. 2300](forskrift/2022-12-20-2300)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
+> Endret ved lover [29 juni 2007 nr. 42](lov/2007-06-29-42) (ikr. 1 juli 2008 iflg. [res. 29 feb 2008 nr. 200](forskrift/2008-02-29-200), endring endret ved lov [21 des 2007 nr. 118](lov/2007-12-21-118)), [20 des 2022 nr. 99](lov/2022-12-20-99) (i kraft 1 apr 2023 iflg. [res. 20 des 2022 nr. 2300](forskrift/2022-12-20-2300)), [17 mars 2023 nr. 3](lov/2023-03-17-3) (i kraft 1 jan 2024 iflg. [res. 17 mars 2023 nr. 341](forskrift/2023-03-17-341)).
 
 ### § 14-13 a. Innleie av avløser fra avløserlag
 
@@ -1660,7 +1660,7 @@ Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arb
 
 (5) Fagforening som har medlemmer i en virksomhet som har leid inn arbeidstaker fra bemanningsforetak, jf. [§ 14-12](lov/2005-06-17-62/§14-12), kan reise søksmål i eget navn om lovligheten av slik innleie. I tilknytning til slik sak vil begge parter ha rett til å kreve forhandlinger i tråd med reglene i [§ 17-3](lov/2005-06-17-62/§17-3).
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [14 juni 2013 nr. 32](lov/2013-06-14-32) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 617](forskrift/2013-06-14-617)), [24 apr 2015 nr. 21](lov/2015-04-24-21) (ikr. 1 juli 2015 iflg. [res. 24 apr 2015 nr. 398](forskrift/2015-04-24-398)), [8 april 2022 nr. 19](lov/2022-04-08-19) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 550](forskrift/2022-04-08-550)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [14 juni 2013 nr. 32](lov/2013-06-14-32) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 617](forskrift/2013-06-14-617)), [24 apr 2015 nr. 21](lov/2015-04-24-21) (ikr. 1 juli 2015 iflg. [res. 24 apr 2015 nr. 398](forskrift/2015-04-24-398)), [8 april 2022 nr. 19](lov/2022-04-08-19) (i kraft 1 juli 2022 iflg. [res. 8 april 2022 nr. 550](forskrift/2022-04-08-550)).
 
 ### § 17-2. Tvisteløsningsnemnd
 
@@ -1756,7 +1756,7 @@ Tidligere og ny arbeidsgiver skal så tidlig som mulig informere de berørte arb
 
 (3) Ved oppsigelse under permisjon ved svangerskap, fødsel, adopsjon eller omsorg for små barn etter [§§ 12-1](lov/2005-06-17-62/§12-1) til [12-6](lov/2005-06-17-62/§12-6) eller under permisjon ved militærtjeneste mv. etter [§ 12-12](lov/2005-06-17-62/§12-12) kan retten gi oppfriskning for oversittelse av fristene for å kreve forhandlinger eller for søksmål, dersom arbeidstaker krever det og retten finner det rimelig.
 
-> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)).
+> Endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 okt 2012 nr. 68](lov/2012-10-19-68) (ikr. 1 jan 2013 iflg. [res. 19 okt 2012 nr. 978](forskrift/2012-10-19-978)).
 
 ### § 17-6. Meddommerutvalg
 
@@ -1772,7 +1772,7 @@ Domstoladministrasjonen oppnevner ett eller flere særskilte arbeidslivskyndige 
 
 (4) Retten kan likevel settes uten meddommere dersom partene og retten er enig i at meddommere er unødvendig.
 
-> Endret ved lover [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## Kapittel 18. Tilsynet med loven
 

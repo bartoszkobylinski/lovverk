@@ -11,18 +11,16 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "b1db036498d200f457be009f183ff8a7d5e399f1eb9a25bbe8258d223b3a2d41"
+xml_hash: "db67093486d2c27c96d8183604f265e5a54dda2421941bdbe3a961a6a084e3ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om besøksbidrag (besøksbidragsloven)
-
-- [Lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)](lov/1992-06-26-86).
 
 ## Kapittel 1. Formål og virkeområde
 
@@ -149,7 +147,3 @@ Kommunen er innkrevingsmyndighet.
 (3) Inntil endringen fastsatt i [§ 5-2](lov/2025-06-20-104/§5-2) begynner å gjelde, kan besøksbidrag kreves inn etter reglene for innkreving av skatt.
 
 ### § 5-2. Endringer i annen lov
-
-Fra den tid Kongen bestemmer, gjøres følgende endringer i [lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse: § 2-14 ny bokstav f](lov/1992-06-26-86/§2-14/bokstav/f) skal lyde:
-
-besøksbidrag og tvangsmulkt etter besøksbidragsloven.

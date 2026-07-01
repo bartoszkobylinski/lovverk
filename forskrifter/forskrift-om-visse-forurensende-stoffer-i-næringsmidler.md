@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2015-07-03"
-last_change_in_force: "2026-02-13"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-01-31"
-xml_hash: "db98a5fc3394df9a6cd5bf65d8c7402b8b2b259f45203685715a4d204c8b63e2"
+xml_hash: "78004a2e3e7f4fb4edeef2f7e947a00ac389b1851223a34be2565ca1c6ac1cbd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -50,11 +50,9 @@ Med drikkevann forstås drikkevann som definert i [forskrift 22. desember 2016 n
 
 > Tilføyd ved forskrift [22 des 2016 nr. 1869](forskrift/2016-12-22-1869) (i kraft 1 jan 2017).
 
-## § 4b. Midlertidig videreføring av grenseverdi for kadmium i løk
+## § 4b. (Opphevet)
 
-Fram til 30. juni 2026 videreføres grenseverdien for kadmium i løk på 0,050 mg/kg våtvekt.
-
-> Tilføyd ved forskrift [13 feb 2026 nr. 258](forskrift/2026-02-13-258). **Oppheves** ved forskrift [13 feb 2026 nr. 258](forskrift/2026-02-13-258) (i kraft 1 juli 2026).
+> Tilføyd ved forskrift [13 feb 2026 nr. 258](forskrift/2026-02-13-258), opphevet ved forskrift [13 feb 2026 nr. 258](forskrift/2026-02-13-258) (i kraft 1 juli 2026).
 
 ## § 5. Tilsyn og vedtak
 

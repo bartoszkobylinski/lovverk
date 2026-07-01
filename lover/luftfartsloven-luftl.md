@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "1994-04-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-04"
-xml_hash: "a218f2020b8e74b95013312511b76c3857e3ddd3a5f0d9f5d5d255d206fabe09"
+xml_hash: "08d167e586efb060e6823554fb7d7026a84cd227d0f2b1e8f7c943dae1e3b369"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32010R0996"
@@ -525,9 +525,9 @@ Har et luftfartøy som er registrert i utlandet, her i riket voldt skade på per
 
 ### § 3-52. Særregler om fordelingen av kjøpesummen ved særskilt tvangssalg av reservedeler til utenlandske luftfartøyer
 
-Særskilt tvangssalg av reservedeler til et utenlandsk luftfartøy kan gjennomføres etter begjæring fra en utleggshaver selv om foranstående heftelser som hviler på både reservedelene og luftfartøyet, ikke får full dekning, når kjøpesummen er minst to tredeler av reservedelenes verdi som fastsatt av namsmannen og to rettsvitner med særlige forutsetninger for å ta del i verdsettelsen. Namsmannen kan til fordel for saksøkeren bestemme at de foranstående rettighetshavernes andel av kjøpesummen skal begrenses til to tredeler av kjøpesummen etter fradrag for omkostningene.
+Særskilt tvangssalg av reservedeler til et utenlandsk luftfartøy kan gjennomføres etter begjæring fra en utleggshaver selv om foranstående heftelser som hviler på både reservedelene og luftfartøyet, ikke får full dekning, når kjøpesummen er minst to tredeler av reservedelenes verdi som fastsatt av namsfogden og to rettsvitner med særlige forutsetninger for å ta del i verdsettelsen. Namsfogden kan til fordel for saksøkeren bestemme at de foranstående rettighetshavernes andel av kjøpesummen skal begrenses til to tredeler av kjøpesummen etter fradrag for omkostningene.
 
-> Tilføyd ved [lov 11 mars 1994 nr. 3](lov/1994-03-11-3). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 11 mars 1994 nr. 3](lov/1994-03-11-3), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### G. Internasjonale sikkerhetsretter i luftfartøysløsøre
 
@@ -2187,11 +2187,11 @@ Dersom rettighetshaveren tidligere er ilagt straff for overtredelse av [§ 6-11]
 
 Departementet kan gi forskrift med nærmere regler om fastsetting av hvor lenge tap av førerrett skal vare.
 
-Finner politiet at fører av luftfartøy med skjellig grunn er mistenkt for et straffbart forhold som kan medføre tap av retten til å føre sertifikatpliktig luftfartøy, kan en polititjenestemann midlertidig tilbakekalle førerretten og ta sertifikatet fra ham. Spørsmålet om å opprettholde midlertidig tilbakekall av førerretten og beslaget skal snarest mulig forelegges for en tjenestemann som hører til påtalemyndigheten. Beslutningen skal være skriftlig. Dersom den mistenkte ikke samtykker i det midlertidige tilbakekallet av førerretten og beslaget, må spørsmålet innen 3 uker oversendes tingretten til avgjørelse.
+Finner politiet at fører av luftfartøy med skjellig grunn er mistenkt for et straffbart forhold som kan medføre tap av retten til å føre sertifikatpliktig luftfartøy, kan en polititjenesteperson midlertidig tilbakekalle førerretten og ta sertifikatet fra vedkommende. Spørsmålet om å opprettholde midlertidig tilbakekall av førerretten og beslaget skal snarest mulig forelegges for en tjenestemann som hører til påtalemyndigheten. Beslutningen skal være skriftlig. Dersom den mistenkte ikke samtykker i det midlertidige tilbakekallet av førerretten og beslaget, må spørsmålet innen 3 uker oversendes tingretten til avgjørelse.
 
 Når tap av førerrett er rettskraftig avgjort eller det er truffet vedtak om midlertidig tilbakekall av retten til å føre luftfartøy og midlertidig beslag av sertifikat, plikter rettighetshaveren straks å levere sertifikatet til politiet.
 
-> Endret ved [lov 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)), opphevet ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), tilføyd ved lov [25 juni 2024 nr. 70](lov/2024-06-25-70) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1243](forskrift/2024-06-25-1243)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)), opphevet ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), tilføyd ved lov [25 juni 2024 nr. 70](lov/2024-06-25-70) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1243](forskrift/2024-06-25-1243)), endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 14-33. Andre enn eier eller bruker som straffebudene er rettet mot
 

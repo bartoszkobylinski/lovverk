@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1994-10-01"
-last_change_in_force: "2025-02-11"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-04-25"
-xml_hash: "a1015aa08d01c05bc95434437b3f2f6eb1815dc8a95b19d0f8f4aa06145f0b97"
+xml_hash: "4e2c351fd7cde5ec5f626fffa6431fd7d63d9d5a96d654f99d6d5d025fb46cb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32009R0392"
@@ -692,13 +692,13 @@ Første og annet ledd gjelder ikke dersom saksøkeren godtgjør at sikkerhetssti
 
 ### § 95. Nærmere om gjennomføring av arresten
 
-Arrest i skip kan bare besluttes dersom skipet befinner seg i eller ventes å komme til rettskretsen, eller namsmannsdistriktet dersom namsmannen skal utpeke arrestgjenstanden. En arrest kan bare gjennomføres dersom skipet befinner seg i riket. Gjennomføringen kan skje selv om skipet befinner seg i en annen rettskrets enn den hvor arrestbeslutningen ble avsagt. Uten hinder av første og annet punktum kan arrest besluttes og gjennomføres dersom skipet er i virksomhet på norsk kontinentalsokkel.
+Arrest i skip kan bare besluttes dersom skipet befinner seg i eller ventes å komme til rettskretsen, eller namsfogddistriktet dersom namsfogden skal utpeke arrestgjenstanden. En arrest kan bare gjennomføres dersom skipet befinner seg i riket. Gjennomføringen kan skje selv om skipet befinner seg i en annen rettskrets enn den hvor arrestbeslutningen ble avsagt. Uten hinder av første og annet punktum kan arrest besluttes og gjennomføres dersom skipet er i virksomhet på norsk kontinentalsokkel.
 
 Et skip som er arrestert etter [tvisteloven § 33-2](lov/2005-06-17-90/§33-2) tredje ledd, må ikke forlate det sted det ligger før tvangssalg er holdt eller tvangsbruk iverksatt. Ligger et arrestert skip ikke i riket når arresten besluttes, skal saksøkte i beslutningen pålegges å bringe det til et angitt sted. Etter ankomst dit gjelder forbud som nevnt i første punktum. [Tvangsfullbyrdelsesloven § 11-10](lov/1992-06-26-86/§11-10) annet ledd annet og tredje punktum gjelder tilsvarende. Retten kan likevel på begjæring av saksøkeren, på nærmere angitte vilkår, tillate at skipet settes i virksomhet, i eller utenfor riket. Pålegg etter paragrafen her skal også forkynnes for skipsføreren. Annet punktum er ikke til hinder for at skip som er i virksomhet på norsk kontinentalsokkel, tillates å fortsette virksomheten på sokkelen.
 
 For realregistrerte skip som er arrestert etter [tvisteloven § 33-2](lov/2005-06-17-90/§33-2) første ledd eller holdt tilbake etter [tvisteloven kapittel 34](lov/2005-06-17-90/kap34), kan det gis pålegg som nevnt i annet ledd og for øvrig iverksettes tiltak som der bestemt dersom retten finner det nødvendig for å sikre arresten.
 
-> Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995), endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved [lov 11 juni 1993 nr. 77](lov/1993-06-11-77) (ikr. 1 mai 1995), endret ved lover [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 96. Vilkår ved sikkerhetsstillelse
 

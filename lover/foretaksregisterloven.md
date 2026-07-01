@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-01-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "4352d4fb6aebb91595d72ffd3de492f82b6e04a3f392239cd4e6762d1660712e"
+xml_hash: "52773fa07b4e8e4092d0b9b3244de67bb707168d7e495d46cd669f516569c38d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-09T07:43:36.516087+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -252,7 +252,7 @@ Når meldte opplysninger er kontrollert og funnet i orden, skal registerføreren
 
 (1) Registerføreren skal straks sende underretning om vedtaket til innsenderen av meldingen og foretaket. Underretning skal også sendes til den som etter [§ 5-1 fjerde ledd](lov/2025-06-20-106/§5-1/ledd/4) er gitt anledning til å uttale seg. Hvis vedtaket gjelder emisjon av finansielle instrumenter, skal også verdipapirsentralen underrettes.
 
-(2) Når det blir registrert endringer i styret eller av hvem som er daglig leder, skal registerføreren straks sende underretning om vedtaket til den som ikke lenger er registrert som styremedlem, varamedlem eller daglig leder som følge av registreringen.1
+(2) Når det blir registrert endringer i styret eller av hvem som er daglig leder, skal registerføreren straks sende underretning om vedtaket til den som ikke lenger er registrert som styremedlem, varamedlem eller daglig leder som følge av registreringen.
 
 (3) Når det blir registrert opplysninger om et foretak, skal registerføreren straks sende en oversikt over det som er registrert, til innsenderen av meldingen og foretaket eller angi hvor oversikten er tilgjengelig. Dette gjelder tilsvarende for dem som skal motta underretning om vedtaket etter første ledd andre og tredje punktum og andre ledd.
 

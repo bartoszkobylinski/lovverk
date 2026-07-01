@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2025-05-01"
-xml_hash: "196ca77d57d598c97596bf88b92f99e776c06001d493dcf05cb8972310ab9e8e"
+xml_hash: "e18f78234de9fa6770fbd8ff044ba7d1e00a0f04e1a19a0754dc9593c6af87d6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,9 +68,7 @@ Tilsynet skal legges til et tidspunkt der det kan forventes at barna er til sted
 
 Statsforvalteren skal sørge for at det enkelte barn gis tilstrekkelig og tilpasset informasjon om tilsynet, herunder om at barnet kan ta kontakt med statsforvalteren også utenom det regelmessige stedlige tilsynet.
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at statsforvalteren skal kunne prioritere sine tilsynsoppgaver på en formålstjenlig og forsvarlig måte, kan statsforvalteren uten hinder av minstekravene i første ledd, vurdere hvor mange årlige tilsyn som skal føres ved besøk i det enkelte omsorgssenteret eller familiebaserte botilbudet.
-
-> **Endres** ved forskrift [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2026, se § 8 annet ledd).
+> Endret ved forskrift [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2026, se § 8 annet ledd).
 
 ## § 6. Tilsynssamtaler
 

@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1978-01-01"
 last_change_in_force: "2013-03-16"
 last_updated: "2023-06-29"
-xml_hash: "07f66813cc3ec4ad417b73415e9d6d7a84a14161ca541d9df93793c74dad3854"
+xml_hash: "1cacc38401f532239c272ad584027c23c67e2b2490e1129579117545d6818b5b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-23T06:31:59.201228+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32011L0007"
@@ -83,7 +83,7 @@ Er skyldneren skyldner i egenskap av forbruker, gjelder i tillegg til [§§ 2](l
 
 > Endret ved [lover 12 juni 1981 nr. 67](lov/1981-06-12-67), [13 mai 1988 nr. 26](lov/1988-05-13-26), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 jan 1994), [15 feb 2013 nr. 8](lov/2013-02-15-8) (ikr. 16 mars 2013 iflg. [res. 15 feb 2013 nr. 173](forskrift/2013-02-15-173)). **Endres** ved lov [22 mai 2026 nr. 19](lov/2026-05-22-19) (i kraft fra den tid Kongen bestemmer).
 
-## § 4 a. Anvendelse av [avtaleloven § 36](lov/1918-05-31-4/§36) mv.
+## § 4 a. Anvendelse av avtaleloven § 36 mv.
 
 Ved anvendelsen av [avtaleloven § 36](lov/1918-05-31-4/§36) skal et vilkår eller en praksis som utelukker renter ved forsinket betaling, alltid anses urimelig. Et vilkår eller en praksis som utelukker kompensasjon for inndrivelseskostnader i samsvar med [§ 3 a](lov/1976-12-17-100/§3a), skal presumeres å være urimelig.
 

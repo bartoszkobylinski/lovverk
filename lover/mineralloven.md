@@ -1,586 +1,640 @@
 ---
-id: "nl-20090619-101"
+id: "nl-20250620-107"
 slug: "mineralloven"
 type: "lov"
-ref_id: "lov/2009-06-19-101"
-title: "Lov om erverv og utvinning av mineralressurser (mineralloven)"
+ref_id: "lov/2025-06-20-107"
+title: "Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)"
 short_title: "Mineralloven"
 language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
-date_in_force: "2010-01-01"
-last_change_in_force: "2021-12-22"
-last_updated: "2022-03-28"
-xml_hash: "a93989d34664dc6976b1f3da320e7cfa4be3425d0f2aeb214c86985c5605bee9"
+date_in_force: "2026-07-01"
+last_change_in_force: null
+last_updated: null
+xml_hash: "ed098d4a74343b5f9e8555cbab69bcbe65a8dabd9d455fb656156556f47cca9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Lov om erverv og utvinning av mineralressurser (mineralloven)
+# Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)
 
 ## Kapittel 1. Innledende bestemmelser
 
-### § 1. Lovens formål
+### § 1-1. Lovens formål
 
-Formålet med loven er å fremme og sikre samfunnsmessig forsvarlig forvaltning og bruk av mineralressursene i samsvar med prinsippet om en bærekraftig utvikling.
+Loven skal sikre bærekraftig mineralvirksomhet og forvaltning av mineralressurser som legger til rette for høyest mulig samlet verdiskaping og å ivareta samfunnets behov for mineraler.
 
-### § 2. Hensyn ved forvaltning og bruk av mineralressursene
+Mineralvirksomhet og forvaltning av mineralressurser skal skje i et langsiktig perspektiv og skal ivareta hensynet til klima og miljø, annen næringsvirksomhet, lokalmiljøet ellers og naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv.
 
-Innenfor rammen av [§ 1](lov/2009-06-19-101/§1) skal forvaltning og bruk av mineralressursene etter denne lov ivareta hensynet til:verdiskaping og næringsutvikling,naturgrunnlaget for samisk kultur, næringsliv og samfunnsliv,omgivelsene og nærliggende områder under drift,miljømessige konsekvenser av utvinning, oglangsiktig planlegging for etterbruk eller tilbakeføring av området.
+### § 1-2. Lovens saklige virkeområde
 
-### § 3. Saklig virkeområde
+Loven gjelder mineralvirksomhet og forvaltning av mineralressurser.
 
-Loven gjelder aktiviteter som har til formål å kartlegge mineralske ressurser med sikte på utvinning.
+Ved uttak av mineraler som hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet der massene tas ut, gjelder kun [§§ 2-1](lov/2025-06-20-107/§2-1), [2-2](lov/2025-06-20-107/§2-2) og [7-4](lov/2025-06-20-107/§7-4). Ved vurderingen av om et uttak hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet der massene tas ut, skal det legges vekt påhvor konkret planen for fremtidig bruk av området erhvor viktig det kommersielle aspektet ved uttaket erhvor lenge uttaket vil foregå, og hvor langt frem i tid den alternative bruken av grunnområdet ligger.
 
-Loven gjelder ethvert uttak av mineralske forekomster. Loven gjelder likevel ikke uttak som hovedsakelig er en del av annen utnyttelse av grunnen.
+Loven omfatter ikke petroleumsressurser (hydrokarboner).
 
-Departementet kan gi forskrift om hvilke aktiviteter eller uttak som omfattes av loven. Tilsvarende kan bestemmes av Direktoratet for mineralforvaltning ved enkeltvedtak.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan fatte enkeltvedtak om hvilke aktiviteter eller uttak av mineraler som omfattes av første og andre ledd.
 
-### § 4. Stedlig virkeområde
+### § 1-3. Lovens geografiske virkeområde
 
-Loven gjelder på norsk territorium med unntak av Svalbard.
+Loven gjelder i riket med unntak av Svalbard og Jan Mayen.
 
-Loven gjelder ikke utenfor den private eiendomsrettens grenser i sjø. Loven gjelder likevel for aktiviteter som har til formål å utvinne mineralske forekomster fra innslagspunkt på land, men hvor den mineralske forekomsten strekker seg ut under havbunnen.
+Loven gjelder ikke utenfor grensen for privat eiendomsrett i sjø, med mindre aktiviteten har til formål å utvinne mineralforekomster fra innslagspunkt på land og forekomstene befinner seg både innenfor og utenfor grensen for privat eiendomsrett i sjø.
 
-Med Finnmark menes i denne loven det området som frem til sammenslåingen med Troms utgjorde Finnmark fylke.
+### § 1-4. Forholdet til annet regelverk, private rettigheter mv.
 
-> Endret ved [lover 22 mars 2019 nr. 7](lov/2019-03-22-7) (ikr. 1 juli 2019 iflg. [res. 22 mars 2019 nr. 264](forskrift/2019-03-22-264)), [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Mineralvirksomhet kan bare utøves innenfor de rammene som er satt i denne loven og annen lovgivning.
 
-### § 5. Forholdet til annet regelverk
+Tillatelser etter denne loven erstatter ikke krav om arealavklaring eller nødvendige tillatelser etter annen lovgivning, med mindre noe annet går frem av loven.
 
-Tillatelser etter denne lov erstatter ikke krav om tillatelse, godkjenning, arealplan eller konsesjon etter annen lovgivning. Leting, undersøkelse, utvinning og drift på mineralske forekomster kan bare utøves innenfor de begrensninger som følger av denne lov og annen lovgivning.
+Tillatelser etter denne loven griper ikke inn i og innebærer ingen avgjørelse av private rettsforhold mellom den som får tillatelsen, og andre, med mindre noe annet følger av loven.
 
-Tillatelser etter denne loven griper ikke inn i privatrettslige forhold mellom en tiltakshaver og andre, med mindre noe annet følger av loven. Tillatelse etter denne loven innebærer ingen avgjørelse av privatrettslige forhold.
-
-> Endret ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
-
-### § 6. Forholdet til folkeretten
+### § 1-5. Forholdet til folkeretten
 
 Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.
 
-### § 6 a. Kvalifikasjoner for å drive mineralvirksomhet
+### § 1-6. Retten til forekomster
 
-Rettighetshaveren og andre som deltar i mineralvirksomhet, skal ha nødvendige kvalifikasjoner for å utføre arbeidet på en forsvarlig måte.
+Med statens mineraler menes i denne lov:metaller med egenvekt 5 gram/cm3 eller høyere, herunder krom, mangan, molybden, niob, vanadium, jern, nikkel, kobber, sink, sølv, gull, kobolt, bly, platina, tinn, sink, zirkonium, wolfram, uran, kadmium og thorium og malmer av slike metaller. Dette gjelder likevel ikke alluvialt gull,metallene titan og arsen og malmer av disse,magnetkis og svovelkis.
 
-Departementet kan gi forskrift om innholdet i kvalifikasjonskravet.
+Med grunneiers mineraler menes i denne lov alle mineraler som ikke er statens mineraler etter første ledd. Dette gjelder likevel ikke petroleum etter [lov 4. mai 1973 nr. 21 om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde](lov/1973-05-04-21).
 
-> Tilføyd ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+### § 1-7. Definisjoner
 
-### § 7. Lovens mineralkategorier
+I denne loven forstås medmineralvirksomhet: leting etter, undersøkelse av og utvinning av mineraler fra naturlig forekommende mineralforekomster og etterlatte masser fra tidligere mineraluttakleting: mindre inngripende arbeider i og prøvetaking fra grunnens overflate og geofysiske målinger og andre målinger av grunnen for å identifisere mulige mineralforekomster i grunnenundersøkelse: aktivitet som er nødvendig for å kunne vurdere om det finnes en mineralforekomst med rikholdighet, størrelse og kvaliteter som gjør at forekomsten kan antas å være drivverdig eller å bli drivverdig innen rimelig tidprøveuttak: uttak fra en mineralforekomst for å vurdere forekomstens egenskaper og drivverdighetutvinning: uttak av mineraler der formålet er å nyttiggjøre seg mineralenedrift: utvinning samt knusing og annen bearbeiding direkte knyttet til utvinningen og transport av masser i utvinningsområdettiltakshaver: fysisk eller juridisk person som søker om eller driver mineralvirksomhet, med unntak av Norges geologiske undersøkelsebyggeråstoff: mineraler som benyttes til bygge- og anleggsformål, med unntak av natursteinnaturstein: bergarter som bearbeides og sorteres til murestein, plater og emner for bruk i utearealer, benkeplater, bygninger, monumenter og lignendeindustrimineraler: mineraler som utnyttes i industrielle prosesser uten å være råstoff til metaller eller byggeråstofflette metaller: metaller med egenvekt under 5 g/cm3 som ikke er statens mineraler jf. [§ 1-6 første ledd](lov/2025-06-20-107/§1-6/ledd/1).
 
-Med statens mineraler menes i denne lov:metaller med egenvekt 5 gram/cm3 eller høyere, herunder krom, mangan, molybden, niob, vanadium, jern, nikkel, kobber, sink, sølv, gull, kobolt, bly, platina, tinn, sink, zirikonium, wolfram, uran, kadmium og thorium og malmer av slike metaller. Dette gjelder likevel ikke alluvialt gull,metallene titan og arsen og malmer av disse,magnetkis og svovelkis.
+### § 1-8. Krav om samordning av saksbehandling
 
-Med grunneiers mineraler menes i denne lov alle mineraler som ikke er statens mineraler etter første ledd. Dette gjelder likevel ikke petroleum etter [lov 4. mai 1973 nr. 21](lov/1973-05-04-21) om undersøkelser etter og utvinning av petroleum i grunnen under norsk landområde.
+Myndighetene skal sørge for at prosesser for behandling av planer og søknader om tillatelser som kreves for mineralvirksomhet, samordnes på en effektiv og hensiktsmessig måte.
 
-## Kapittel 2. Leting
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan avholde et dialogmøte for å planlegge behandlingen av en søknad om tillatelse til mineralvirksomhet. Tiltakshaveren, den berørte kommunen og andre relevante myndigheter som er berørt av den aktuelle saken, skal delta.
 
-### § 8. Leteretten
+Departementet kan gi forskrift om gjennomføringen av samordningen som er nevnt i denne bestemmelsen.
 
-Enhver kan lete etter mineralske forekomster på fremmed grunn med de begrensninger som følger av denne lov og annen lovgivning. Leteretten omfatter ikke innsamling av mineraler som ligger utenfor lovens formål og virkeområde.
+### § 1-9. Hensynet til nasjonal sikkerhet
 
-Letingen skal ikke være til hinder for andres undersøkelse, utvinning og drift etter denne lov.
+Kongen kan gi forskrift om tiltak som er nødvendige for å ivareta hensynet til nasjonal sikkerhet knyttet til mineralvirksomhet og forvaltning av mineralressurser.
 
-### § 9. Leterettens omfang
+## Kapittel 2. Krav til mineralvirksomhet
 
-Leteren kan foreta arbeider i grunnens overflate som er nødvendige for å påvise mineralske forekomster.
+### § 2-1. Krav til forsvarlig mineralvirksomhet
 
-Inngrep som kan medføre skade av betydning, kan ikke foretas uten samtykke fra grunneieren og brukeren av grunnen.
+Mineralvirksomhet skal foregå på en forsvarlig måte og i samsvar med gjeldende regelverk og skal ivareta hensynet til forsvarlig ressursforvaltning og sikkerhet for personell, miljø og omgivelser. Planlegging og gjennomføring av mineralvirksomhet skal skje slik at inngrep i grunn, naturmangfold og kulturminner og ulemper for nærmiljøet og dets brukere begrenses mest mulig innenfor hva som er praktisk og økonomisk forholdsmessig. Mineralvirksomheten må ikke hindre eller vanskeliggjøre annen næringsvirksomhet uten rimelig grunn eller vanskeliggjøre den i urimelig grad.
 
-### § 10. Varslingsplikt
+Kravet til forsvarlig mineralvirksomhet gjelder også for mineraluttak som omfattes av rapporteringsplikten i [§ 7-4](lov/2025-06-20-107/§7-4).
 
-Leteren skal varsle grunneieren og brukeren av grunnen senest en uke før letingen igangsettes. Varsling kan skje muntlig eller skriftlig. Dersom det er forbundet med urimelig ulempe å varsle muntlig eller skriftlig, kan varsling skje ved kunngjøring i en avis som er alminnelig lest på stedet.
+### § 2-2. Krav om kompetanse
 
-Ved leting i Finnmark skal leter i tillegg skriftlig varsle Sametinget, Finnmarkseiendommen som grunneier, statsforvalteren og distriktsstyret for reindriften. Når det er praktisk mulig, skal siidaene, jf. [lov 15. juni 2007 nr. 40](lov/2007-06-15-40) om reindrift [(reindriftsloven)](lov/2007-06-15-40) [§ 51](lov/2007-06-15-40/§51), varsles muntlig. Varsling skal skje så tidlig som mulig og senest to uker før leting startes.
+Tiltakshaveren skal sørge for at mineralvirksomheten utøves med den kompetanse som er nødvendig for å sikre at krav til forsvarlig mineralvirksomhet oppfylles, og for at virksomheten utøves i samsvar med bestemmelser gitt i eller med hjemmel i loven.
 
-Departementet kan gi forskrift om varslingsplikten og om unntak fra denne.
+Kravet om nødvendig kompetanse gjelder også for uttak som omfattes av rapporteringsplikten i [§ 7-4](lov/2025-06-20-107/§7-4).
 
-> Endret ved [lover 14 juni 2013 nr. 45](lov/2013-06-14-45) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 646](forskrift/2013-06-14-646)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+### § 2-3. Plikt til å informere og invitere til dialog
 
-## Kapittel 3. Undersøkelse av grunneiers mineraler
+Tiltakshaveren skal invitere til dialog og informere grunneiere, naboer, berørte bruksrettshavere og kommunen om pågående og planlagt mineralvirksomhet.
 
-### § 11. Avtale om undersøkelsesrett
+For større mineraluttak og for undersøkelsesarbeid av større omfang eller i områder med vesentlige og motstridende hensyn skal tiltakshaver gjennomføre årlige møter.
 
-Den som vil undersøke forekomster av grunneiers mineraler, må inngå avtale med grunneieren. Dersom avtale ikke kommer i stand, kan det søkes om ekspropriasjon, jf. [§ 37](lov/2009-06-19-101/§37).
+### § 2-4. Plikt til sikring
 
-### § 12. Prøveuttak
+Tiltakshaveren skal iverksette og vedlikeholde sikringstiltak slik at mineralvirksomheten ikke medfører fare for skade på mennesker, husdyr, tamrein eller eiendom.
 
-I tillegg til avtale med grunneier krever prøveuttak særskilt tillatelse fra Direktoratet for mineralforvaltning. Med prøveuttak menes uttak som er nødvendig for å vurdere forekomstens drivverdighet. Tillatelse til prøveuttak kan ikke gis for uttak av mer enn 2 000 m3 masse unntatt i særlige tilfeller. Det kan settes vilkår for tillatelsen.
+Plikten til sikring etter første ledd gjelder også for sikring mot fare som har oppstått fra tidligere aktiviteter innenfor området der tiltakshaveren har driftskonsesjon eller utvinner mineraler som ikke krever driftskonsesjon. Sikringsplikten for tidligere aktiviteter gjelder også for tiden etter at tiltakshaverens drift har opphørt.
 
-Før tillatelse gis, skal Direktoratet for mineralforvaltning gi grunneieren, brukeren av grunnen, statsforvalteren, fylkeskommunen og kommunen anledning til å uttale seg.
+Når mineralvirksomheten opphører, skal tiltakshaveren gjennomføre nødvendige tiltak for varig sikring mot slik fare som er nevnt i første ledd.
 
-Undersøker skal skriftlig varsle Direktoratet for mineralforvaltning minst tre uker før arbeidene igangsettes. Direktoratet for mineralforvaltning skal varsle kommunen, fylkeskommunen og statsforvalteren.
+### § 2-5. Plikt til opprydding og istandsetting
 
-Ved prøveuttak i Finnmark gjelder [§ 17](lov/2009-06-19-101/§17) andre til sjette ledd tilsvarende.
+Tiltakshaveren skal sørge for forsvarlig opprydding og istandsetting innenfor rettighetsområdet mens mineralvirksomheten pågår. Når virksomheten opphører, skal grunnen og naturmangfoldet så langt det lar seg gjøre, istandsettes på en måte som ivaretar hensynet til videre bruk og til naturens reproduksjonsevne.
 
-> Endret ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan fastsette en frist for når opprydding og istandsetting skal være fullført.
 
-## Kapittel 4. Undersøkelse av statens mineraler
+### § 2-6. Sikkerhet for dekning av kostnader ved sikring, opprydding og istandsetting
 
-### § 13. Søknad om undersøkelsesrett
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan pålegge tiltakshavere som gjennomfører undersøkelser etter [§ 4-3](lov/2025-06-20-107/§4-3), å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter [§ 2-4](lov/2025-06-20-107/§2-4) og oppryddings- og istandsettingstiltak etter [§ 2-5](lov/2025-06-20-107/§2-5).
 
-Den som vil sikre seg rett til å undersøke forekomster av statens mineraler, må søke Direktoratet for mineralforvaltning om undersøkelsesrett.
+Direktoratet skal pålegge tiltakshavere for prøveuttak eller konsesjonspliktig drift å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter [§ 2-4](lov/2025-06-20-107/§2-4) og oppryddings- og istandsettingstiltak etter [§ 2-5](lov/2025-06-20-107/§2-5). Direktoratet kan også fatte vedtak om økonomisk sikkerhetsstillelse for utvinning som ikke krever driftskonsesjon. I særlige tilfeller kan direktoratet gjøre helt eller delvis unntak fra krav om økonomisk sikkerhetsstillelse.
 
-Tillatelse kan bare tildeles foretak som er registrert i Foretaksregisteret.
+Direktoratet kan pålegge tiltakshavere å stille sikkerhet til staten for sikringstiltak og oppryddings- og istandsettingsbehov som kan oppstå etter at mineralvirksomheten er avsluttet.
 
-Søknaden kan avslås dersom søkeren tidligere har begått grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven.
+### § 2-7. Vektlegging av tiltakets virkninger for naturgrunnlaget for samisk kultur mv.
 
-Undersøkeren kan bare få én undersøkelsesrett i samme område.
+Ved vurderingen av om det skal gis tillatelse til mineralvirksomhet som nevnt i [§§ 4-3](lov/2025-06-20-107/§4-3), [4-13](lov/2025-06-20-107/§4-13), [5-2](lov/2025-06-20-107/§5-2) eller [6-3](lov/2025-06-20-107/§6-3) eller tillatelse til ekspropriasjon etter [§ 9-1](lov/2025-06-20-107/§9-1) i tradisjonelle samiske områder, skal det legges vesentlig vekt på den virkningen det planlagte tiltaket vil ha for naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv.
 
-Den som har utvinningsrett til forekomst av statens mineraler kan ikke søke om undersøkelsesrett i samme område.
+I vurderingen etter første ledd skal tiltakets virkninger sees i sammenheng med andre gjennomførte eller planlagte tiltak i området. Det skal også legges vekt på momenter av betydning for naturgrunnlaget for samisk kultur, næringsutøvelse og samfunnsliv som kommer frem i konsultasjoner som er gjennomført etter [§ 2-8](lov/2025-06-20-107/§2-8).
 
-I Finnmark skal Direktoratet for mineralforvaltning orientere grunneieren, Sametinget, statsforvalteren, distriktsstyret for reindriften og kommunen om tillatelsen.
+Dersom en søknad om tillatelse som nevnt i første ledd innvilges, kan det settes vilkår for å ivareta hensynet til samisk kultur, næringsutøvelse og samfunnsliv.
 
-> Endret ved [lover 14 juni 2013 nr. 45](lov/2013-06-14-45) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 646](forskrift/2013-06-14-646)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)), [22 des 2021 nr. 169](lov/2021-12-22-169).
+### § 2-8. Gjennomføring og samordning av konsultasjoner i tradisjonelle samiske områder
 
-### § 14. Forholdet til andre rettighetshavere
+Konsultasjoner etter denne loven skal gjennomføres i samsvar med reglene i [sameloven kapittel 4](lov/1987-06-12-56/kap4).
 
-Undersøkere med samme prioritet i et område har lik rett til å foreta undersøkelser.
+Dersom det skal gjennomføres konsultasjoner om flere vedtak etter loven her i samme sak, skal myndighetene så langt det er mulig, samordne konsultasjonene.
 
-En undersøker kan ikke uten samtykke foreta undersøkelser i området til en annen undersøker med bedre prioritet eller en utvinner av forekomst av statens mineraler.
+### § 2-9. Forskrift om krav til mineralvirksomhet
 
-### § 15. Undersøkelsesområdet
+Departementet kan gi forskrift om krav til mineralvirksomhet, herunder omkrav til forsvarlig mineralvirksomhet og nødvendig kompetanse, jf. [§ 2-1](lov/2025-06-20-107/§2-1) og [§ 2-2](lov/2025-06-20-107/§2-2)det nærmere innholdet i informasjonsplikten, jf. [§ 2-3](lov/2025-06-20-107/§2-3)plikten til sikring, opprydding og istandsetting, jf. [§ 2-4](lov/2025-06-20-107/§2-4) og [§ 2-5](lov/2025-06-20-107/§2-5)sikkerhet for dekning av kostnader ved sikring, opprydding og istandsetting, jf. [§ 2-6](lov/2025-06-20-107/§2-6).
 
-Departementet kan gi forskrift om undersøkelsesområdet, herunder om dets form og størrelse.
+## Kapittel 3. Leting
 
-### § 16. Prioritet
+### § 3-1. Leterett
 
-Undersøkerens prioritet i et undersøkelsesområde regnes fra den dagen søknaden om undersøkelsesrett kommer inn til Direktoratet for mineralforvaltning.
+Enhver kan lete etter mineralforekomster på fremmed grunn.
 
-Departementet kan gi forskrift om beregningen av undersøkerens prioritet.
+Det kreves samtykke fra grunneier og berørte bruksrettshavere til grunnen dersom det skal letes i områder der allmennheten ikke har ferdselsrett etter [friluftsloven](lov/1957-06-28-16).
 
-### § 17. Søknad om undersøkelser i Finnmark
+Det kreves samtykke fra ansvarlig myndighet dersom det skal letes i områder som tilhører et militært anlegg eller øvingsområde, eller i nedlagte gruveområder, inkludert deponier.
 
-I Finnmark gir ikke undersøkelsesretten rett til å foreta undersøkelser eller prøveuttak før Direktoratet for mineralforvaltning har gitt særskilt tillatelse til dette.
+Leteretten gjelder med de begrensninger som følger av loven her og av annet regelverk og vedtak om områdevern etter [naturmangfoldloven](lov/2009-06-19-100) og [kulturminneloven](lov/1978-06-09-50). Letingen skal ikke være til hinder for andres undersøkelse eller drift etter denne loven.
 
-Undersøker skal i rimelig utstrekning fremskaffe opplysninger om direkte berørte samiske interesser i området som skal undersøkes.
+Områdebegrensningene etter denne bestemmelsen gjelder ikke ved luftbårne målinger.
 
-Særskilt tillatelse kan avslås dersom hensynet til samiske interesser taler imot at søknaden innvilges. Ved vurderingen skal det legges vesentlig vekt på hensynet til samisk kultur, reindrift, næringsutøvelse og samfunnsliv. Innvilges søknaden, kan det settes vilkår for å ivareta disse hensyn.
+### § 3-2. Varslings- og meldeplikt ved leting
 
-Ved behandlingen av søknaden skal Direktoratet for mineralforvaltning gi grunneieren, Sametinget, kommunen, statsforvalteren og distriktsstyret for reindriften anledning til å uttale seg.
+Leteren skal varsle grunneier og berørte bruksrettshavere senest to uker før letingen igangsettes. Ved målinger fra luften i tradisjonelle samiske områder skal leteren også varsle Sametinget, statsforvalteren og distriktsstyret for reindriften. Der det er forbundet med urimelig ulempe å muntlig eller skriftlig varsle den enkelte grunneier eller bruksrettshaver individuelt, kan varsling skje på en annen egnet måte. Varselet skal inneholde en angivelse av området det skal letes i, hvilke aktiviteter som skal gjennomføres, tidsrom det skal letes i, og kontaktinformasjon til leteren.
 
-Dersom Sametinget eller grunneieren går imot at søknaden innvilges, skal søknaden avgjøres av departementet.
+Den som skal gjennomføre geofysiske målinger og andre målinger av grunnen etter [§ 3-1](lov/2025-06-20-107/§3-1), jf. [§ 1-7 bokstav b](lov/2025-06-20-107/§1-7/bokstav/b), skal også melde fra til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard senest to uker før arbeidene igangsettes. Meldingen skal være skriftlig og angi hvilke målinger som skal foretas, området der målingene skal foretas, og når målingene skal finne sted.
 
-Hvis departementet innvilger søknaden i tilfeller som nevnt i femte ledd, har klage til Kongen fra Sametinget eller grunneieren oppsettende virkning.
+### § 3-3. Erstatning for skade, ulempe eller merarbeid
 
-> Endret ved [lover 14 juni 2013 nr. 45](lov/2013-06-14-45) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 646](forskrift/2013-06-14-646)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+Leteren plikter uten hensyn til skyld å erstatte økonomisk tap som følge av skade, ulempe eller merarbeid som letingen medfører for grunneier eller berørte bruksrettshavere i området.
 
-### § 18. Varslingsplikt
+Tvist om krav om erstatning avgjøres ved skjønn, jf. [§ 10-9](lov/2025-06-20-107/§10-9).
 
-Undersøker skal skriftlig varsle Direktoratet for mineralforvaltning, grunneieren og brukeren av grunnen om undersøkelsene minst to måneder før arbeidene igangsettes. Varslingsfristen kan frafalles der det foreligger et skriftlig samtykke fra Direktoratet for mineralforvaltning, grunneier og brukeren av grunnen og eventuelle andre berørte parter. Direktoratet for mineralforvaltning skal varsle kommunen, fylkeskommunen og statsforvalteren.
+## Kapittel 4. Undersøkelse og prøveuttak
 
-I Finnmark skal undersøker i tillegg skriftlig varsle Sametinget, statsforvalteren, og distriktsstyret for reindriften. Når det er praktisk mulig, skal siidaene, jf. [reindriftsloven § 51](lov/2007-06-15-40/§51), varsles muntlig.
+### § 4-1. Undersøkelser av mineralforekomster
 
-Varselet skal inneholde en plan for arbeidene og for atkomsten til og i undersøkelsesområdet, en redegjørelse for mulige skader som kan oppstå og for hvilke tiltak som skal settes i verk for å hindre slike skader.
+Bestemmelsene i [§ 3-1](lov/2025-06-20-107/§3-1) andre til fjerde ledd gjelder tilsvarende ved undersøkelser. I områder med anlegg for allmennyttige formål og områder som ligger mindre enn 20 meter fra slike, kan undersøkelse ikke skje uten samtykke fra ansvarlig myndighet. I områder som ligger mindre enn 50 meter fra en bygning som er brukt til boligformål, kan undersøkelse ikke skje uten særskilt samtykke fra grunneiere og berørte bruksrettshavere.
 
-Den som har utvinningsrett til statens mineraler, skal varsle om undersøkelsesarbeider i utvinningsområdet i tråd med første til tredje ledd.
+Bestemmelsen i [§ 3-3](lov/2025-06-20-107/§3-3) gjelder tilsvarende.
 
-Departementet kan gi forskrift om varslingsplikten.
+### § 4-2. Rett til undersøkelse av byggeråstoff, naturstein mv.
 
-> Endret ved [lover 14 juni 2013 nr. 45](lov/2013-06-14-45) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 646](forskrift/2013-06-14-646)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Rett til undersøkelse av grunneiers mineraler som ikke er industrimineraler og lette metaller, etableres ved avtale med grunneier. Dersom avtale ikke kommer i stand, kan det søkes om ekspropriasjon etter [§ 9-1](lov/2025-06-20-107/§9-1).
 
-### § 19. Undersøkelsesrettens innhold
+### § 4-3. Tillatelse til undersøkelse av statens mineraler, industrimineraler og lette metaller
 
-Undersøkeren kan gjøre nødvendige undersøkelser for å vurdere om det finnes en forekomst av mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid. Undersøkelsesretten omfatter nødvendig tilgang til grunnen for å foreta undersøkelsene, herunder midlertidig lagringsplass. Undersøkelsesretten omfatter ikke veirett.
+Undersøkelser av statens mineraler, industrimineraler og lette metaller krever tillatelse fra Direktoratet for mineralforvaltning med Bergmesteren for Svalbard. Det samme gjelder undersøkelser av etterlatte masser fra tidligere mineralvirksomhet.
 
-Inngrep i grunnen som kan medføre vesentlig skade kan bare foretas med samtykke fra eieren og brukeren av grunnen.
+Direktoratet kan gi undersøkelsestillatelse dersomundersøkelsene slik de er planlagt, oppfyller krav til forsvarlig mineralvirksomhet i [§ 2-1](lov/2025-06-20-107/§2-1) og tiltakshaver oppfyller krav om kompetanse i [§ 2-2](lov/2025-06-20-107/§2-2)undersøkelsesplanen oppfyller kravene i [§ 4-6](lov/2025-06-20-107/§4-6)søker er et foretak som er registrert i Foretaksregisteretdet ikke er særlige forhold ved det omsøkte undersøkelsesområdet som tilsier at undersøkelsestillatelse ikke bør gis, herunder at det før lovens ikrafttredelse er inngått avtale med grunneier om fremtidig utvinning i området som er rimelig reserve for eksisterende drift, ogingen andre har reservert området etter [§ 4-5 andre ledd](lov/2025-06-20-107/§4-5/ledd/2) eller har undersøkelsestillatelse, utvinningsrett eller driftskonsesjon til statens mineraler, industrimineraler eller lette metaller i undersøkelsesområdet.
 
-### § 20. Prøveuttak
+Søknaden om undersøkelsestillatelse kan avslås dersom søkeren tidligere har begått alvorlige eller gjentatte overtredelser av bestemmelser gitt i eller med hjemmel i denne loven eller tidligere minerallovgivning.
 
-Prøveuttak krever særskilt tillatelse fra Direktoratet for mineralforvaltning. Med prøveuttak menes uttak som er nødvendig for å vurdere forekomstens drivverdighet. Tillatelse til prøveuttak kan ikke gis for uttak av mer enn 2 000 m3 masse unntatt i særlige tilfeller. Det kan settes vilkår for tillatelsen. [§ 12](lov/2009-06-19-101/§12) andre og tredje ledd gjelder tilsvarende.
+Direktoratet kan stille vilkår for tillatelsen og fastsette eventuelle begrensninger i aktiviteter og tidspunkter for undersøkelser.
 
-Ved prøveuttak i Finnmark gjelder [§ 17](lov/2009-06-19-101/§17) andre til sjette ledd tilsvarende.
+Direktoratet skal fastsette undersøkelsesområdet. Området må være avgrenset på en hensiktsmessig måte og ha en størrelse og utforming som kan undersøkes innenfor reglene om undersøkelsestillatelsens varighet etter [§ 4-8](lov/2025-06-20-107/§4-8).
 
-### § 21. Sikkerhetsstillelse
+### § 4-4. Innholdet i undersøkelsestillatelse
 
-Hvis eieren eller brukeren av grunnen krever det, skal undersøkeren stille sikkerhet for kostnader til sikringstiltak etter [§ 49](lov/2009-06-19-101/§49), opprydding etter [§ 50](lov/2009-06-19-101/§50) og for det ansvaret som kan oppstå etter [§ 52](lov/2009-06-19-101/§52).
+Undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) gir rett til nødvendig tilgang til og bruk av grunnen for å foreta undersøkelsen. Fysiske inngrep i overflaten av eiendommen krever samtykke fra grunneieren.
 
-Tvist om omfanget av sikkerhetsstillelsen avgjøres ved skjønn, jf. [§ 53](lov/2009-06-19-101/§53). Før slik tvist er avgjort, må undersøkelser ikke finne sted uten skjønnsrettens samtykke.
+### § 4-5. Krav til innhold i søknad om undersøkelsestillatelse, saksbehandling mv.
 
-### § 22. Opphør av undersøkelsesretten
+Søknad om undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) skal inneholde de opplysningene som er nødvendige for å vurdere om tillatelse bør gis, og hvilke vilkår som skal stilles, herundersøkerens foretaksnavn og kontaktinformasjonen angivelse av det geografiske området søknaden gjelderdokumentasjon på samtykke fra grunneiere og berørte bruksrettshavere dersom det skal undersøkes i områder som er nevnt i [§ 3-1 andre ledd](lov/2025-06-20-107/§3-1/ledd/2) og [§ 4-1 første ledd tredje punktum](lov/2025-06-20-107/§4-1/ledd/1/setning/3)forslag til undersøkelsesplan, jf. [§ 4-6](lov/2025-06-20-107/§4-6).
 
-Undersøkelsesretten opphører når syv år er gått fra den dagen den ble utferdiget, eller når forlenget frist etter [§ 23](lov/2009-06-19-101/§23) er utløpt. Fristen på syv år løper først fra den dagen undersøkeren får best prioritet i undersøkelsesområdet.
+Søkeren får reservert søknadsområdet fra det tidspunktet søknaden er mottatt hos Direktoratet for mineralforvaltning med Bergmesteren for Svalbard, og frem til søknaden er behandlet. Forslag til undersøkelsesplan og dokumentasjon som nevnt i første ledd bokstav c kan ettersendes senest tre måneder etter at søknaden om undersøkelsestillatelse ble sendt inn.
 
-Når søknad om utvinningsrett eller forlengelse av undersøkelsesretten er kommet inn til Direktoratet for mineralforvaltning før utløpet av fristen etter første ledd, opphører undersøkelsesretten tidligst 30 dager etter avslag på søknaden eller tidligst samtidig med tildelingen av utvinningsretten.
+Søknaden og undersøkelsesplanen skal legges ut til offentlig ettersyn og sendes på høring til kommunen, fylkeskommunen, statsforvalteren, grunneiere og berørte bruksrettshavere. Søknad om undersøkelse i tradisjonelle samiske områder skal også sendes på høring til Sametinget. Søkeren skal varsle berørte naboer om søknaden og undersøkelsesplanen.
 
-### § 23. Forlengelse av undersøkelsesretten
+### § 4-6. Undersøkelsesplan
 
-Direktoratet for mineralforvaltning kan forlenge fristen etter [§ 22](lov/2009-06-19-101/§22) første ledd første punktum med inntil tre år, dersom søkeren sannsynliggjør atundersøkelsene ikke kan bli fullført innen fristen på grunn av ekstraordinære forhold som ikke skyldes søkeren, elleren forlengelse vil gi nødvendig kunnskap om ressursen for å kunne vurdere om det er grunnlag for å søke utvinningsrett.
+Undersøkelsesplanen skal gi nødvendige opplysninger omhvilke undersøkelser som planleggeshvilke mineraler undersøkelsene tar sikte på å avdekke forekomster avhvor undersøkelsene skal gjennomføresplanlagt tidsrom for når undersøkelsene skal gjennomføresden eksisterende bruken av områdetplanstatus for området etter [plan- og bygningsloven](lov/2008-06-27-71)tiltakets virkning i området søknaden gjelder, og omgivelsene, herunder kulturmiljøet, andre næringer, naturmiljøet i området og naturgrunnlaget for samisk kulturutøvelseplanlagte kostnader og investeringer.
 
-Har det vært tvist om undersøkelsesretten eller om adgangen til å foreta undersøkelser, kan Direktoratet for mineralforvaltning etter søknad forlenge fristen etter [§ 22](lov/2009-06-19-101/§22) første ledd første punktum med like lang tid som arbeidene har vært forhindret på grunn av tvisten.
+Dersom andre undersøkelser planlegges ved eventuell forlengelse av undersøkelsestillatelsen, skal undersøkelsesplanen gi en overordnet beskrivelse av disse. Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan kreve at undersøkelsesplanen gir andre relevante opplysninger.
 
-Søknad om forlengelse må være kommet inn til Direktoratet for mineralforvaltning før utløpet av fristene etter [§ 22](lov/2009-06-19-101/§22).
+I områder der tiltakshaver har tillatelse til prøveuttak etter [§ 4-13](lov/2025-06-20-107/§4-13), gjelder ikke krav om undersøkelsesplan.
 
-> Endret ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Dersom det foretas vesentlige endringer i undersøkelsesplanen, skal revidert undersøkelsesplan sendes til direktoratet for godkjenning.
 
-### § 24. Karantene ved opphør av undersøkelsesrett eller utvinningsrett
+> **Endres** ved lov [19 juni 2026 nr. 53](lov/2026-06-19-53) (i kraft fra den tid Kongen bestemmer).
 
-Den som tidligere har hatt en undersøkelsesrett med best prioritet, kan ikke få ny undersøkelsesrett i samme undersøkelsesområde før ett år etter at undersøkelsesretten opphørte.
+### § 4-7. Varslings- og meldeplikt før oppstart av undersøkelser av statens mineraler, industrimineraler og lette metaller
 
-Den som tidligere har hatt utvinningsrett til forekomst av statens mineraler, kan ikke få ny undersøkelsesrett i samme utvinningsområde før ett år etter at utvinningsretten opphørte.
+Tiltakshaver etter [§ 4-3](lov/2025-06-20-107/§4-3) skal varsle grunneiere og berørte bruksrettshavere og gi melding til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard om oppstart av undersøkelsesarbeider minst fire uker før disse igangsettes. Varsel og melding skal inneholde nødvendig informasjon om undersøkelsene som skal finne sted. Ved opphold i arbeidene i mer enn ett år må det sendes nytt varsel minst fire uker før arbeidene gjenopptas.
 
-### § 25. Undersøkelsesrapporter, måledata og prøvemateriale
+### § 4-8. Varigheten av undersøkelsestillatelse
 
-Departementet kan gi forskrift om undersøkerens plikt til å utarbeide, lagre og sende inn undersøkelsesrapporter, måledata og prøvemateriale.
+Tillatelse til undersøkelser etter [§ 4-3](lov/2025-06-20-107/§4-3) har en varighet på tre år fra vedtaksdatoen.
 
-### § 26. Overdragelse av undersøkelsesrett
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan etter søknad forlenge undersøkelsestillatelsen med inntil tre år av gangen forutsatt atvidere undersøkelser er nødvendige for å avklare om det foreligger en drivverdig forekomst av statens mineraler, industrimineraler eller lette metallertiltakshaver har oppfylt plikter gitt i eller med hjemmel i denne lovenarbeidene som inngår i undersøkelsesplanen, jf. [§ 4-6](lov/2025-06-20-107/§4-6), er utført på en tilfredsstillende måte, eller at manglende utføring skyldes særlige forhold og tiltakshaver kan sannsynliggjøre at området vil bli undersøkt ved en forlengelse av undersøkelsestillatelsen.
 
-Undersøkelsesrett kan overdras. Overdragelsen skal godkjennes av Direktoratet for mineralforvaltning. Ved overdragelse gjelder [§§ 13](lov/2009-06-19-101/§13) og 27 tilsvarende. Søknad om godkjennelse skal sendes Direktoratet for mineralforvaltning uten ugrunnet opphold etter at avtale om overdragelsen er inngått.
+Søknaden må være kommet inn til direktoratet senest tre måneder før undersøkelsestillatelsen opphører. Undersøkelsestillatelsen gjelder frem til søknad om forlengelse av undersøkelsestillatelse eller søknad om utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2) er endelig avgjort i forvaltningen.
 
-Hvis noen erverver mer enn 50 prosent av samtlige eierandeler eller stemmeberettigede eierandeler i et selskap med undersøkelsesrett, og erververen eller annen person eller selskap som nevnt i [§ 27](lov/2009-06-19-101/§27) første ledd allerede har en undersøkelsesrett i samme eller overlappende område, skal den ene rettigheten enten avhendes eller begjæres slettet.
+Ved forlengelse av undersøkelsestillatelsen etter andre ledd skal tiltakshaver oppdatere undersøkelsesplanen, jf. [§ 4-6](lov/2025-06-20-107/§4-6). Tiltakshaver kan ved forlengelsen redusere undersøkelsesområdet. Hvis den oppdaterte undersøkelsesplanen innebærer vesentlige endringer, skal planen legges ut til offentlig ettersyn og sendes på høring som fastsatt i [§ 4-5 tredje ledd](lov/2025-06-20-107/§4-5/ledd/3).
 
-Direktoratet for mineralforvaltning skal fastsette en frist for avhending eller begjæring om sletting. Oversittes fristen, skal Direktoratet for mineralforvaltning slette en av rettighetene.
+Undersøkelsestillatelsen kan maksimalt vare i 15 år.
 
-### § 27. Likestilling av personer og selskaper med søker
+### § 4-9. Overdragelse av undersøkelsestillatelse
 
-Følgende personer eller selskaper skal likestilles med søkeren ved anvendelsen av [§ 13](lov/2009-06-19-101/§13) andre og tredje ledd og [§ 24](lov/2009-06-19-101/§24):ektefelle eller person som søkeren bor sammen med i ekteskapsliknende forhold,slektninger i rett oppstigende eller nedstigende linje og søsken av søkeren,slektninger i rett oppstigende eller nedstigende linje og søsken til en person som nevnt i bokstav a,selskap innen samme konsern som søkeren,selskap der søkeren selv eller sammen med noen som nevnt i bokstav a til d eier mer enn 50 prosent av samtlige eierandeler eller stemmeberettigede eierandeler, ogperson som selv eller sammen med noen som nevnt i bokstav a til e eier mer enn 50 prosent av samtlige eierandeler eller stemmeberettigede eierandeler i søkeren.
+Undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) kan overdras etter godkjenning fra Direktoratet for mineralforvaltning med Bergmesteren for Svalbard. Søknad om godkjenning må inneholde nødvendige opplysninger om erververen.
 
-Direktoratet for mineralforvaltning kan gjøre unntak fra første ledd ved enkeltvedtak.
+Direktoratet skal avslå en søknad om overdragelse dersom erververen ikke oppfyller kravet i [§ 4-3 andre ledd bokstav c](lov/2025-06-20-107/§4-3/ledd/2/bokstav/c). [§ 4-3 tredje ledd](lov/2025-06-20-107/§4-3/ledd/3) gjelder tilsvarende.
 
-## Kapittel 5. Utvinningsrett til grunneiers mineraler
+Det kan settes som vilkår for overdragelse at pålegg gitt av direktoratet med hjemmel i loven er oppfylt før overdragelse skjer.
 
-### § 28. Avtale om utvinningsrett
+Ved overdragelse av undersøkelsestillatelse trer erververen inn i alle overdragerens rettigheter og plikter etter eller med hjemmel i denne loven og undersøkelsestillatelsen.
 
-Den som vil utvinne forekomst av grunneiers mineraler, må inngå avtale med grunneieren. Dersom avtale ikke kommer i stand, kan det søkes om ekspropriasjon, jf. [§ 37](lov/2009-06-19-101/§37).
+### § 4-10. Karanteneperiode etter opphør av undersøkelsestillatelse mv.
 
-## Kapittel 6. Utvinningsrett til statens mineraler
+I områder hvor tillatelse til undersøkelse etter [§ 4-3](lov/2025-06-20-107/§4-3) opphører uten at det er gitt utvinningsrett, kan det i en karanteneperiode på seks måneder fra det tidspunktet tillatelsen opphører, ikke gis ny undersøkelsestillatelse.
 
-### § 29. Søknad om utvinningsrett
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan ikke behandle søknader om undersøkelsestillatelse i karanteneperioden. Ved karanteneperiodens utløp gjelder reglene i [§ 4-3](lov/2025-06-20-107/§4-3).
 
-Undersøker med best prioritet kan søke Direktoratet for mineralforvaltning om utvinningsrett. Utvinningsrett skal gis når søkeren sannsynliggjør at det i undersøkelsesområdet finnes en forekomst av statens mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid. Det kan ikke tildeles flere utvinningsretter i samme område.
+Før utløpet av karanteneperioden kan direktoratet beslutte at området skal lyses ut særskilt. Direktoratet skal fastsette en frist for å søke om undersøkelsestillatelse. Vilkårene for tildeling av undersøkelsestillatelse etter [§ 4-3 andre](lov/2025-06-20-107/§4-3/ledd/2) og [tredje ledd](lov/2025-06-20-107/§4-3/ledd/3) gjelder tilsvarende. Direktoratet kan fastsette saklige og objektive kriterier som skal benyttes ved valg mellom flere søkere til det utlyste området.
 
-Dersom søknaden gjelder områder som ikke er dekket av området for undersøkelsesretten, regnes søknaden også som søknad om undersøkelsesrett. Søknaden får prioritet fra den dagen søknaden kom inn til Direktoratet for mineralforvaltning.
+### § 4-11. Forskrift om undersøkelsestillatelse
 
-Undersøkere med samme prioritet har lik rett til å søke utvinningsrett. Blir utvinningsrett gitt til flere enn én, får de retten i fellesskap, med mindre partene blir enige om en annen ordning. Ved uenighet om utnyttelsen av utvinningsretten, kan hver av dem kreve fellesskapet oppløst. [Lov 18. juni 1965 nr. 6](lov/1965-06-18-6) om sameige [§ 15](lov/1965-06-18-6/§15) gis anvendelse så langt den passer.
+Departementet kan gi forskrift om undersøkelsestillatelse til statens mineraler, industrimineraler og lette metaller, blant annet omkrav til søknad om undersøkelsestillatelse, jf. [§ 4-5](lov/2025-06-20-107/§4-5)saksbehandlingen, inkludert høring og offentlig ettersyn, jf. [§ 4-5](lov/2025-06-20-107/§4-5)undersøkelsesplanen, jf. [§ 4-6](lov/2025-06-20-107/§4-6)undersøkelsesområdet, jf. [§ 4-3 femte ledd](lov/2025-06-20-107/§4-3/ledd/5)krav til søknad om overdragelse, jf. [§ 4-9](lov/2025-06-20-107/§4-9).
 
-Departementet kan gi forskrift om saksbehandlingen i forbindelse med tildeling av utvinningsrett.
+### § 4-12. Undersøkelse etter og kartlegging av mineraler som gjennomføres av Norges geologiske undersøkelse
 
-### § 30. Utvinningsrett i Finnmark
+Norges geologiske undersøkelse kan gjennomføre undersøkelse etter og kartlegging av mineraler uten krav om undersøkelsesrett etter [§ 4-2](lov/2025-06-20-107/§4-2) eller undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3). Inngrep som kan medføre vesentlig skade på eiendommen, kan bare foretas med samtykke til dette fra grunneiere og berørte bruksrettshavere.
 
-Bestemmelsene i [§ 17](lov/2009-06-19-101/§17) gjelder tilsvarende for utvinningsrett i Finnmark.
+Aktiviteter etter denne bestemmelsen skal oppfylle kravene i [§§ 2-1](lov/2025-06-20-107/§2-1) til [2-5](lov/2025-06-20-107/§2-5).
 
-### § 31. Utvinningsområdet
+I områder der det er gitt undersøkelsestillatelse eller utvinningsrett til statens mineraler, industrimineraler og lette metaller eller driftskonsesjon, kan Norges geologiske undersøkelse bare foreta undersøkelser og kartlegging med samtykke fra den som har slik tillatelse.
 
-Departementet kan gi forskrift om utvinningsområdet, herunder om form, størrelse og merking.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard, grunneiere og berørte bruksrettshavere skal varsles om oppstart av kartlegging og undersøkelser etter denne bestemmelsen minst fire uker før aktivitetene igangsettes. Varselet skal inneholde nødvendig informasjon om aktivitetene som skal finne sted.
 
-### § 32. Utvinningsrettens innhold
+Bestemmelsen i [§ 3-3](lov/2025-06-20-107/§3-3) gjelder tilsvarende.
 
-Utvinner kan ta ut og nyttiggjøre seg alle forekomster av statens mineraler i utvinningsområdet. Forekomst av grunneiers mineraler kan tas ut så langt det er nødvendig for å ta ut forekomst av statens mineraler.
+### § 4-13. Tillatelse til prøveuttak
 
-Utvinner kan nyttiggjøre seg forekomst av grunneiers mineraler som blir tatt ut i medhold av første ledd. Dette gjelder likevel ikke hvis Direktoratet for mineralforvaltning før driften settes i gang finner at mineralforekomstene åpenbart kan utnyttes selvstendig. Grunneieren eller den som utleder sin rett fra vedkommende, har i slike tilfeller rett til enten å overta mineralforekomstene mot å betale utvinneren av forekomst av statens mineraler et vederlag, eller å overlate utnyttelsen til utvinneren av forekomst av statens mineraler mot at denne betaler et vederlag. Tvist om vederlagets størrelse avgjøres ved skjønn, jf. [§ 53](lov/2009-06-19-101/§53).
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi en tidsbegrenset tillatelse til prøveuttak til tiltakshaver etter [§§ 4-2](lov/2025-06-20-107/§4-2), [4-3](lov/2025-06-20-107/§4-3), [5-1](lov/2025-06-20-107/§5-1) eller [5-2](lov/2025-06-20-107/§5-2). Tillatelse til prøveuttak kan kun gis for den mengden som er nødvendig for å vurdere forekomstens egenskaper og drivverdighet. Direktoratet kan sette vilkår for tillatelsen.
 
-### § 33. Opphør av utvinningsrett
+Direktoratet kan gi tillatelse til prøveuttak dersomsøker har fått samtykke fra grunneieren og berørte bruksrettshavere til å gjennomføre prøveuttaket eller har fått slik rett ved ekspropriasjon etter [§ 9-1](lov/2025-06-20-107/§9-1)prøveuttaket, slik det er planlagt, oppfyller krav til forsvarlig mineralvirksomhet i [§ 2-1](lov/2025-06-20-107/§2-1) og tiltakshaver oppfyller krav om kompetanse i [§ 2-2](lov/2025-06-20-107/§2-2)prøveuttaksplanen oppfyller kravene i [§ 4-15](lov/2025-06-20-107/§4-15)søker er et foretak som er registrert i Foretaksregisteret.
 
-Utvinningsrett opphører nårdriftskonsesjon etter [§ 43](lov/2009-06-19-101/§43) ikke er gitt innen ti år fra den dagen utvinningsretten ble gitt,uttaket ikke faller inn under lovens krav om driftskonsesjon og det er gått mer enn ti år fra den dagen utvinningsretten ble gitt uten at drift er satt i gang,forlenget frist etter [§ 34](lov/2009-06-19-101/§34) er utløpt, ellerett år er gått siden driftskonsesjonen bortfalt.
+Søknaden om tillatelse til prøveuttak kan avslås dersom søkeren tidligere har begått alvorlige eller gjentatte overtredelser av bestemmelser gitt i eller med hjemmel i denne loven eller tidligere minerallovgivning.
 
-Dersom det er søkt om driftskonsesjon etter [§ 43](lov/2009-06-19-101/§43) eller om forlengelse etter [§ 34](lov/2009-06-19-101/§34) og søknaden avslås, opphører utvinningsretten tidligst 30 dager etter avslaget. Utvinneren beholder sin rett i den delen av utvinningsområdet som ikke er omfattet av søknaden om driftskonsesjon inntil fristen etter første ledd bokstav a eller en forlenget frist etter [§ 34](lov/2009-06-19-101/§34) er løpt ut.
+### § 4-14. Søknad om tillatelse til prøveuttak
 
-### § 34. Forlengelse av utvinningsrett
+Søknad om tillatelse til prøveuttak skal inneholde de opplysningene som er nødvendige for å vurdere om tillatelse bør gis, og hvilke vilkår som skal stilles, herunderdokumentasjon på at søkeren har undersøkelsesrett, undersøkelsestillatelse eller utvinningsrett til mineralforekomstendokumentasjon på samtykke eller ekspropriasjonsvedtak som nevnt i [§ 4-13 bokstav a](lov/2025-06-20-107/§4-13/bokstav/a)forslag til prøveuttaksplan, jf. [§ 4-15](lov/2025-06-20-107/§4-15)forslag til økonomisk sikkerhetsstillelse for sikring, opprydding og istandsetting av prøveuttaksområdet.
 
-Direktoratet for mineralforvaltning kan forlenge fristen etter [§ 33](lov/2009-06-19-101/§33) første ledd bokstav a og b med inntil ti år av gangen. Forlengelse av fristen bør normalt gis dersom forekomsten må anses å være en rimelig reserve for søkerens drift. En søknad om forlengelse må være kommet inn til Direktoratet for mineralforvaltning innen fristen i [§ 33](lov/2009-06-19-101/§33) første ledd bokstav a til c.
+Søknaden skal legges ut til offentlig ettersyn og sendes på høring til kommunen, fylkeskommunen, statsforvalteren, grunneier og berørte bruksrettshavere. Søknad om prøveuttak i tradisjonelle samiske områder skal også sendes på høring til Sametinget. Søkeren skal varsle berørte naboer om søknaden.
 
-### § 35. Overdragelse av utvinningsrett
+### § 4-15. Prøveuttaksplan
 
-Ved overdragelse av utvinningsrett gjelder [§ 26](lov/2009-06-19-101/§26) tilsvarende.
+Prøveuttaksplanen skal gi nødvendige opplysninger omformålet med og størrelsen på prøveuttaketområdet der prøveuttaket skal foregå, og kart som viser plasseringen av uttaketplanlagt tidsrom for når prøveuttaket skal gjennomføresplanlagt adkomst til prøveuttaksområdetden eksisterende bruken av områdettiltakets virkning i området søknaden gjelder, og omgivelsene, herunder kulturmiljøet, andre næringer, naturmiljøet i området og naturgrunnlaget for samisk kulturutøvelsehvordan prøveuttaket skal foregå og avsluttes på en måte som ivaretar sikkerheten for personell, miljø og omgivelserplanlagt håndtering av masser fra prøveuttaket.
 
-### § 36. Tinglysing
+### § 4-16. Overdragelse av tillatelse til prøveuttak
 
-Utvinningsrett skal tinglyses i grunnboken.
+En tillatelse til prøveuttak kan overdras sammen med undersøkelsestillatelse eller undersøkelsesrett. Bestemmelsen i [§ 4-9](lov/2025-06-20-107/§4-9) gjelder tilsvarende.
 
-Overdragelse og pantsettelse av utvinningsrett får rettsvern ved tinglysing i grunnboken. Det samme gjelder for andre rettsstiftelser i utvinningsretten dersom ikke annet er bestemt i forskrift i medhold av tredje ledd.
+### § 4-17. Forskrift om prøveuttak
 
-Departementet kan gi [forskrift om tinglysing](forskrift/1995-11-03-875) etter første og andre ledd.
+Departementet kan gi forskrift om prøveuttak, herunder om krav til søknad om tillatelse til prøveuttak, jf. [§ 4-14](lov/2025-06-20-107/§4-14), og prøveuttaksplanen, jf. [§ 4-15](lov/2025-06-20-107/§4-15).
 
-## Kapittel 7. Ekspropriasjon
+## Kapittel 5. Utvinningsrett til mineraler
 
-### § 37. Ekspropriasjon av grunneiers mineraler
+### § 5-1. Utvinningsrett til byggeråstoff, naturstein mv.
 
-Enhver kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å undersøke om det finnes forekomst av grunneiers mineraler med en slik rikholdighet, størrelse og beskaffenhet at den kan antas å være drivverdig, eller å bli drivverdig innen rimelig tid.
+Utvinning av grunneiers mineraler som ikke er industrimineraler og lette metaller, krever avtale med grunneier. Dersom en avtale ikke kommer i stand, kan tiltakshaver søke om ekspropriasjon av grunn og rettigheter etter [§ 9-1 første ledd bokstav e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e). Tiltakshaver blir eier av mineralene når de er tatt ut fra grunnen, med mindre et annet tidspunkt er avtalt med grunneieren.
 
-Enhver kan søke departementet om tillatelse til ekspropriasjon avforekomst av grunneiers mineraler,nødvendig grunn og rettigheter for utvinning, herunder atkomst til forekomsten,nødvendig grunn og rettigheter til foredling av grunneiers mineraler.
+### § 5-2. Utvinningsrett til statens mineraler, industrimineraler og lette metaller
 
-Ved vurderingen av om ekspropriasjon skal innvilges skal det legges vekt på om søker har undersøkt forekomsten.
+Den som har undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) eller rett til å gjøre undersøkelser etter [§ 5-3 fjerde ledd](lov/2025-06-20-107/§5-3/ledd/4), kan søke Direktoratet for mineralforvaltning med Bergmesteren for Svalbard om utvinningsrett til forekomster av statens mineraler, industrimineraler og lette metaller.
 
-Det kan settes vilkår for ekspropriasjonstillatelsen.
+Dersom søkeren kan sannsynliggjøre at det finnes én eller flere forekomster av mineralene som nevnt i første ledd i undersøkelsesområdet som har en slik rikholdighet, størrelse og kvalitet at de kan antas å være drivverdige eller å bli drivverdige innen rimelig tid, har søkeren krav på utvinningsrett til de drivverdige forekomstene. Ved vurderingen av drivverdighet etter dette leddet er det mineralenes verdi på det tidspunktet direktoratet behandler søknaden, som skal legges til grunn.
 
-### § 38. Ekspropriasjon av grunn og rettigheter for undersøkelse og utvinning av statens mineraler
+Utvinningsrett til drivverdige forekomster av industrimineraler og lette metaller krever avtale med grunneier i tillegg til utvinningsrett etter første ledd. Dersom en avtale ikke kommer i stand, kan den som har undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3), søke om ekspropriasjon av grunn og rettigheter etter [§ 9-1 første ledd bokstav e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e).
 
-Undersøkeren kan søke Direktoratet for mineralforvaltning om tillatelse til ekspropriasjon av nødvendig grunn og rettigheter for å kunne foreta undersøkelsen. Dersom det er en undersøker med bedre prioritet i undersøkelsesområdet, skal tillatelse til ekspropriasjon bare gis hvis vedkommende samtykker.
+Tildeling av utvinningsrett til statens mineraler, industrimineraler eller lette metaller fra etterlatte masser fra tidligere mineraluttak forutsetter ikke undersøkelsestillatelse i området. Utvinningsrett kan ikke gis dersom andre enn søker har undersøkelsestillatelse, utvinningsrett eller driftskonsesjon i området.
 
-Utvinner av forekomst av statens mineraler kan søke departementet om tillatelse til ekspropriasjon avnødvendig grunn og rettigheter for utvinning, ognødvendig grunn og rettigheter til foredling av mineraler.
+Departementet kan gi forskrift om krav til søknader om utvinningsrett og om saksbehandlingen i forbindelse med tildelingen av utvinningsrett etter denne bestemmelsen.
 
-Det kan settes vilkår for ekspropriasjonstillatelsen.
+### § 5-3. Innholdet i utvinningsrett til statens mineraler, industrimineraler og lette metaller
 
-### § 39. Erstatning
+Den som har utvinningsrett til statens mineraler, kanta ut og nyttiggjøre seg alle forekomster av statens mineraler i utvinningsområdetta ut forekomster av grunneiers mineraler så langt det er nødvendig for å ta ut forekomsten av statens mineralernyttiggjøre seg ikke-drivverdige forekomster av grunneiers mineraler som er tatt ut i medhold av første ledd bokstav b, mot vederlag etter [§ 10-3](lov/2025-06-20-107/§10-3).Utvinner får eiendomsrett til mineralene når de er tatt ut fra grunnen.
 
-Ved ekspropriasjon av rett til å utvinne forekomst av grunneiers mineraler etter [§ 37](lov/2009-06-19-101/§37) andre ledd bokstav a skal erstatningen fastsettes på grunnlag av markedspris og uavhengig av påregnelighetskravet i [lov 6. april 1984 nr. 17](lov/1984-04-06-17) om vederlag ved oreigning av fast eigedom [(ekspropriasjonserstatningslova)](lov/1984-04-06-17) [§§ 5](lov/1984-04-06-17/§5) og [6](lov/1984-04-06-17/§6). Erstatningen skal settes til en avgift per utvunnet enhet av mineralet hvis ikke særlige grunner taler mot dette. Det kan fastsettes en minsteavgift som skal betales uavhengig av produksjonens størrelse.
+Den som har utvinningsrett til industrimineraler og lette metaller, kanta ut og nyttiggjøre seg alle forekomster av industrimineraler og lette metaller i utvinningsområdetta ut og nyttiggjøre seg ikke-drivverdige forekomster av statens mineraler så langt det er nødvendig for å ta ut forekomsten av industrimineraler og lette metaller, mot vederlag etter [§ 10-3](lov/2025-06-20-107/§10-3).Utvinner får eiendomsrett til mineralene når de er tatt ut fra grunnen, med mindre et annet tidspunkt er avtalt.
 
-Ved ekspropriasjon etter [§ 37](lov/2009-06-19-101/§37) første ledd og andre ledd bokstav b og c og [§ 38](lov/2009-06-19-101/§38) skal det ytes erstatning etter [ekspropriasjonserstatningslova](lov/1984-04-06-17).
+Ved vurderingen av drivverdighet etter første og andre ledd er det mineralenes verdi på det tidspunktet Direktoratet for mineralforvaltning med Bergmesteren for Svalbard behandler en søknad om driftskonsesjon etter [§ 6-3](lov/2025-06-20-107/§6-3), som skal legges til grunn.
 
-Tilkjente erstatninger fastsettes til årlige beløp. Engangserstatning kan likevel fastsettes dersom særlige grunner foreligger.
+Utvinningsretten gir rett til å gjennomføre undersøkelser i rettighetsområdet. Bestemmelsene om tilgang til og bruk av grunnen i [§ 4-4 første ledd](lov/2025-06-20-107/§4-4/ledd/1) gjelder tilsvarende. Dersom det skal gjennomføres undersøkelser, skal det utarbeides en undersøkelsesplan, jf. [§ 4-6](lov/2025-06-20-107/§4-6). Før oppstart av undersøkelsene skal undersøkelsesplanen godkjennes av direktoratet, som kan bestemme at undersøkelsesretten skal være tidsbegrenset. Varslings- og meldeplikten i [§ 4-7](lov/2025-06-20-107/§4-7) gjelder tilsvarende.
 
-Hver av partene kan kreve at erstatningen skal fastsettes ved nytt skjønn når det er gått ti år siden erstatningen ble fastsatt.
+### § 5-4. Samordnet utvinning
 
-Blir driften nedlagt, bortfaller erstatningen fra og med kalenderåret etter nedleggelsen.
+Der forskjellige rettighetshavere har rett til ulike deler av den samme mineralforekomsten, og det av hensyn til god ressursforvaltning, kostnader eller miljøet klart er rasjonelt å samordne utvinningen av forekomsten, kan Direktoratet for mineralforvaltning med Bergmesteren for Svalbard gi rettighetshaverne pålegg om utarbeiding av plan for samordnet utvinning. Det samme gjelder der det vil være klart rasjonelt med samordnet utvinning av flere mineralforekomster.
 
-### § 40. Alminnelige ekspropriasjonsregler
+### § 5-5. Området for utvinningsrett til statens mineraler, industrimineraler og lette metaller
 
-Om ikke annet er bestemt i dette kapittel, gjelder bestemmelsene i [lov 23. oktober 1959 nr. 3](lov/1959-10-23-3) om oreigning av fast eigedom [(oreigningslova)](lov/1959-10-23-3) og [ekspropriasjonserstatningslova](lov/1984-04-06-17) så langt de passer ved ekspropriasjon etter §[§ 37](lov/2009-06-19-101/§37) og [38](lov/2009-06-19-101/§38).
+Utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2) skal gis for nærmere angitte geografiske områder. Området må være avgrenset på en hensiktsmessig måte og ha en hensiktsmessig størrelse og utforming.
 
-Er det satt vilkår om at retten som eksproprieres skal anvendes på en bestemt måte innen en viss frist, og fristen oversittes, kan den opprinnelige eieren eller rettighetshaveren kreve ekspropriasjonsvedtaket omgjort.
+Departementet kan gi forskrift om utvinningsområdet for statens mineraler, industrimineraler og lette metaller, herunder om størrelse og utforming.
 
-Bestemmelsene i [§ 17](lov/2009-06-19-101/§17) andre til sjette ledd gjelder tilsvarende ved behandling av søknader om tillatelse til ekspropriasjon i Finnmark.
+### § 5-6. Opphør av utvinningsrett til statens mineraler, industrimineraler og lette metaller
 
-## Kapittel 8. Drift
+Utvinningsrett til statens mineraler, industrimineraler og lette metaller opphører nårutvinningen faller inn under lovens krav om driftskonsesjon og søknad om driftskonsesjon etter [§ 6-3](lov/2025-06-20-107/§6-3) ikke er sendt til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard innen ti år fra den dagen utvinningsretten ble gittutvinningen ikke faller inn under lovens krav om driftskonsesjon og det er gått mer enn ti år fra den dagen utvinningsretten ble gitt, uten at drift er satt i gangdet har gått ett år fra driftskonsesjonen falt bort.
 
-### § 41. Bergfaglig forsvarlig drift
+Fristen etter første ledd bokstav a og b kan forlenges etter [§ 5-7](lov/2025-06-20-107/§5-7). Ved avslag på søknad om driftskonsesjon etter [§ 6-3](lov/2025-06-20-107/§6-3) eller søknad om forlengelse etter [§ 5-7](lov/2025-06-20-107/§5-7) opphører utvinningsretten tidligst 30 dager etter avslaget. Søknader som ikke er innkommet innen fristene som følger av bokstav a til c, vil ikke behandles. Tiltakshaver beholder sin rett til den delen av utvinningsområdet som ikke er omfattet av søknaden om driftskonsesjon, inntil fristen etter første ledd bokstav a eller en forlenget frist etter [§ 5-7](lov/2025-06-20-107/§5-7) er utløpt.
 
-Drift på mineralforekomster skal skje på en bergfaglig forsvarlig måte.
+### § 5-7. Forlengelse av utvinningsrett
 
-### § 42. Meldepliktige uttak
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan forlenge fristene etter [§ 5-6 første ledd bokstav a](lov/2025-06-20-107/§5-6/ledd/1/bokstav/a) og [b](lov/2025-06-20-107/§5-6/ledd/1/bokstav/b) med inntil ti år av gangen. Forlengelse av fristene bør normalt gis dersom forekomsten må anses å være en rimelig reserve for søkerens drift. En søknad om forlengelse må være kommet inn til direktoratet innen fristene i [§ 5-6 første ledd bokstav a](lov/2025-06-20-107/§5-6/ledd/1/bokstav/a) til c.
 
-Ved uttak over 500 m3 masse skal det sendes melding til Direktoratet for mineralforvaltning. Meldingen skal sendes inn minst 30 dager før oppstart av drift.
+### § 5-8. Overdragelse av utvinningsrett til mineraler
 
-I særlige tilfeller kan Direktoratet for mineralforvaltning kreve fremlagt driftsplan. Direktoratet for mineralforvaltning kan bestemme at drift ikke kan settes i gang før driftsplanen er godkjent.
+Bestemmelsen i [§ 4-9](lov/2025-06-20-107/§4-9) gjelder tilsvarende for overdragelse av utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2).
 
-### § 43. Konsesjonspliktige uttak (driftskonsesjon)
+### § 5-9. Tinglysing
 
-Samlet uttak av mineralforekomster på mer enn 10 000 m3 urørt (in situ) masse krever driftskonsesjon fra Direktoratet for mineralforvaltning. Prøveuttak etter [§§ 12](lov/2009-06-19-101/§12) og 20 krever ikke driftskonsesjon.
+Utvinningsrett til statens mineraler skal tinglyses i grunnboken.
 
-Driftskonsesjon kan bare gis til den som har utvinningsrett. Ved vurdering av om driftskonsesjon skal gis, skal det legges vekt på om søkeren er kvalifisert til å utvinne forekomsten. Det kan settes vilkår i konsesjonen. Driftsområdet skal fastsettes i konsesjonen. Søknaden om driftskonsesjon skal inneholde driftsplan.
+Overdragelse av utvinningsrett får rettsvern ved tinglysing i grunnboken. Det samme gjelder for andre rettsstiftelser i utvinningsretten dersom ikke annet er bestemt i forskrift.
 
-Konsesjonen kan tidsbegrenses. Det kan bestemmes at konsesjonen skal revideres etter en nærmere angitt tid. Konsesjonen kan uansett revideres hvert tiende år.
+Departementet kan gi forskrift om tinglysing av utvinningsrett og rettsstiftelser i utvinningsretten etter første og andre ledd.
 
-Bestemmelsene i [§ 17](lov/2009-06-19-101/§17) andre til sjette ledd gjelder tilsvarende ved behandling av søknader om driftskonsesjon i Finnmark.
+## Kapittel 6. Drift av mineraluttak
 
-Departementet kan gi forskrifter omdriftskonsesjon og unntak fra krav om driftskonsesjon,krav til faglige kvalifikasjoner hos personell som forestår drift av mineralforekomster etter denne lov, samt regler om godkjenning av tilsvarende kompetanse for borgere fra EØS-området.1
+### § 6-1. Meldepliktig utvinning
 
-> Endret ved lover [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)), [22 des 2021 nr. 169](lov/2021-12-22-169).
+Planlagt samlet utvinning av mineralforekomster over 500 m3 og opp til 10 000 m3 skal meldes til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard minst fire uker før driften blir satt i gang.
 
-### § 44. Melding om igangsetting og stans av drift
+### § 6-2. Mineralutvinning som krever driftskonsesjon
 
-For konsesjonspliktige tiltak etter [§ 43](lov/2009-06-19-101/§43) skal det sendes inn melding til Direktoratet for mineralforvaltning før drift startes, stanses midlertidig eller legges ned.
+Planlagt samlet utvinning av mineralforekomster på mer enn 10 000 m3 krever konsesjon fra Direktoratet for mineralforvaltning med Bergmesteren for Svalbard. Prøveuttak etter [§ 4-13](lov/2025-06-20-107/§4-13) krever ikke driftskonsesjon.
 
-### § 45. Bortfall av driftskonsesjon
+Dersom særlige forhold tilsier det, kan direktoratet fastsette at det skal kreves driftskonsesjon for samlet utvinning under grensen etter første ledd. Direktoratet kan fravike enkeltkrav til innhold i søknad fastsatt i [§ 6-4 første ledd](lov/2025-06-20-107/§6-4/ledd/1).
 
-En driftskonsesjon bortfaller hvis ikke driften er satt i gang senest fem år etter at den ble gitt. Det samme gjelder hvis driften blir innstilt i mer enn ett år. Direktoratet for mineralforvaltning kan forlenge fristen etter første og andre punktum. Fristen etter andre punktum kan forlenges med inntil tre år av gangen. Det kan settes vilkår for forlengelsen.
+### § 6-3. Tildeling av driftskonsesjon
 
-Driftskonsesjon faller også bort dersomutvinningsretten slettesavtalen om rett til å utnytte forekomsten av grunneiers mineraler opphørerskjønn ikke er krevd innen ett år etter at ekspropriasjonstillatelse er gitt etter [§ 37](lov/2009-06-19-101/§37) andre ledd bokstav adet er fattet vedtak om overdragelse av driftskonsesjonen, og driften ikke er igangsatt innen ett år fra endelig vedtak om overdragelse.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi driftskonsesjon dersomvirksomheten, slik den er planlagt, oppfyller krav til forsvarlig mineralvirksomhet i [§ 2-1](lov/2025-06-20-107/§2-1) og tiltakshaver oppfyller krav om kompetanse i [§ 2-2](lov/2025-06-20-107/§2-2)driftsplanen oppfyller kravene i [§ 6-5](lov/2025-06-20-107/§6-5)tiltakshaveren har utvinningsrett i området det søkes om driftskonsesjon fortiltakshaveren er et foretak som er registrert i Foretaksregisterettiltakshaveren ikke tidligere har begått alvorlige eller gjentatte overtredelser av bestemmelser gitt i eller med hjemmel i denne loven eller tidligere minerallovgivning.
 
-> Endret ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Konsesjonsområdet skal fastsettes i driftskonsesjonen. Det kan settes vilkår for konsesjonen. Driftskonsesjonen kan tidsbegrenses.
 
-### § 45 a. Overdragelse av driftskonsesjon
+Før det kan fattes vedtak om driftskonsesjon, skal konsesjonsområdet være avklart i vedtak etter [plan- og bygningsloven](lov/2008-06-27-71).
 
-Direktoratet for mineralforvaltning kan etter søknad godkjenne en avtale om overdragelse av driftskonsesjon dersom følgende vilkår er oppfylt:overdrageren av driftskonsesjonen har, i henhold til årlig driftsrapportering etter [§ 46](lov/2009-06-19-101/§46), foretatt uttak i konsesjonsområdet det siste året før søknaden om overdragelse mottas.overtageren oppfyller kravene til driftskonsesjon i [§ 43](lov/2009-06-19-101/§43).overdrageren har ikke uoppfylte pålegg fra Direktoratet for mineralforvaltning vedtatt i medhold av [kapittel 12](lov/2009-06-19-101/kap12) i denne loven.overtageren kan dokumentere utvinningsrett til forekomsten senest på det tidspunktet overdragelsen av driftskonsesjonen godkjennes.
+### § 6-4. Søknad om driftskonsesjon
 
-Avtalen om overdragelse av driftskonsesjonen og avtalen om utvinningsrett skal være vedlagt søknaden.
+En søknad om driftskonsesjon skal inneholde all informasjon som er nødvendig for å ta stilling til om vilkårene i [§ 6-3](lov/2025-06-20-107/§6-3) er oppfylt, inkludertangivelse av området søknaden gjelderdokumentasjon av utvinningsrett når det søkes om tillatelse til utvinning av grunneiers mineraleropplysninger om områdets status etter [plan- og bygningsloven](lov/2008-06-27-71)beskrivelse av tiltakets virkning på området søknaden gjelder, og omgivelsene, inkludert kulturmiljøet, andre næringer, naturmiljøet i området og naturgrunnlaget for samisk kulturutøvelse, og tiltakshaverens vurdering og håndtering av risikoelementerdriftsplanbeskrivelse av prosjektets økonomi og tiltakshaverens finansielle evneforslag til økonomisk sikkerhetsstillelse for sikring, opprydding og istandsetting etter [§§ 2-4](lov/2025-06-20-107/§2-4) og [2-5](lov/2025-06-20-107/§2-5).
 
-Ved overdragelse av driftskonsesjon trer overtageren inn i alle overdragerens rettigheter og plikter etter denne loven og vedtaket om driftskonsesjon. Dette gjelder også for tidligere arbeider som er utført eller manglende utført av overdrageren. Privatrettslige avtaler mellom overdrageren og overtageren innskrenker ikke overtagerens plikter etter denne loven eller vedtak gitt i medhold av loven.
+Søknaden skal legges ut til offentlig ettersyn og sendes på høring til kommunen, fylkeskommunen, statsforvalteren, grunneiere, berørte bruksrettshavere og andre som kan berøres direkte av den planlagte driften. Søknad om drift i tradisjonelle samiske områder skal også sendes på høring til Sametinget.
 
-Departementet kan gi forskrift om innholdet i søknader om overdragelse av driftskonsesjon.
+### § 6-5. Driftsplan
 
-> Tilføyd ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Driftsplanen skal beskrive hvordan utvinningen skal drives i hele driftsperioden, og hvordan uttaket skal avsluttes.
 
-### § 46. Opplysninger om drift
+Planen skal baseres på bruk av de beste tilgjengelige driftsmetodene og teknologiene. Ved vurderingen av hvilke driftsmetoder og hvilken teknologi som skal benyttes, skal kostnaden for tiltakshaveren veies opp mot effekten av tiltaket.
 
-Departementet kan gi forskrift om plikt til å sende inn driftsrapport til Direktoratet for mineralforvaltning og om rapportens innhold.
+### § 6-6. Melding om oppstart og stans av konsesjonspliktig drift
 
-## Kapittel 9. Generelle bestemmelser
+Den som har driftskonsesjon, skal melde fra til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard før driftstartesstanses midlertidig i mer enn fire måneder på en måte som avviker fra godkjent driftsplangjenopptas etter midlertidig stansavsluttes.
 
-### § 47. Områder unntatt fra leting og undersøkelse
+### § 6-7. Revisjon av driftskonsesjon og driftsplan
 
-Det kan ikke letes og undersøkes i områder som omfattes av [lov 5. juni 2009 nr. 35](lov/2009-06-05-35) om naturområder i Oslo og nærliggende kommuner [(markaloven)](lov/2009-06-05-35).
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan kreve at vilkårene i driftskonsesjonen revideres når det har gått ti år siden konsesjonen ble gitt eller revidert. Det samme gjelder for driftsplanen når det har gått fem år siden driftsplanen sist ble godkjent.
 
-Leter og undersøker må ikke uten samtykke fra grunneieren, brukeren av grunnen og vedkommende myndighet lete eller undersøke i:innmark,industriområder, herunder massetak, brudd eller gruve i drift,område som ligger mindre enn 100 meter fra bygning brukt til permanent eller midlertidig bolig, herunder hytte,område for anlegg for allmennyttige formål og steder som ligger mindre enn 20 meter fra slike anlegg,område som hører til militært anlegg eller øvingsområde,nedlagte gruveområder, herunder bergvelter og avgangsdeponier.
+Dersom det foretas vesentlige endringer i driften eller driftsplanen, skal tiltakshaver på eget initiativ sende revidert driftsplan til direktoratet for godkjenning.
 
-Departementet kan i forskrift fastsette at andre ledd skal gjelde tilsvarende for andre områder enn de som er nevnt i andre ledd.
+### § 6-8. Bortfall av driftskonsesjon
 
-Direktoratet for mineralforvaltning kan etter søknad bestemme at forekomst av statens mineraler kan undersøkes i områder som nevnt i andre ledd dersom fordelene ved undersøkelsene er større enn den skade og ulempe det vil påføre grunneieren og brukeren av grunnen.
+Driftskonsesjonen faller bort dersomdriften ikke har startet senest fem år etter at driftskonsesjon ble tildeltdriften blir stanset i mer enn to årutvinningsretten til grunneiers mineraler bortfallerutvinningsretten til statens mineraler bortfallerskjønn ikke er krevd innen ett år etter at ekspropriasjonstillatelse er gitt etter [§ 9-1 første ledd bokstav d](lov/2025-06-20-107/§9-1/ledd/1/bokstav/d).
 
-### § 48. Varsomhetsplikt
+I tilfeller som er nevnt i første ledd bokstav a til c, kan Direktoratet for mineralforvaltning med Bergmesteren for Svalbard etter søknad forlenge driftskonsesjonen med inntil tre år av gangen fra tidspunktet da bortfall ellers ville ha skjedd. Det kan settes vilkår for forlengelsen.
 
-Arbeider etter denne lov skal utføres med varsomhet slik at skadene ikke blir større enn nødvendig, og slik at arbeidene ikke fører til unødvendig forurensning eller unødvendig skade på miljøet.
+### § 6-9. Overdragelse av driftskonsesjon
 
-### § 49. Sikringsplikt
+Driftskonsesjon etter denne loven og [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101) kan overdras. Overdragelse krever godkjenning fra Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.
 
-Undersøker, utvinner og driver av mineralforekomster skal iverksette og vedlikeholde sikringstiltak for hele området slik at arbeidene ikke medfører fare for mennesker, husdyr eller tamrein. Utvinner og driver har tilsvarende sikringsplikt for gruveåpninger, tipper og utlagte masser utenfor rettighetsområdet med tilknytning til området.
+Direktoratet skal avslå søknad om overdragelse dersom den som søker om å overta driftskonsesjonen, ikke oppfyller vilkårene for å få driftskonsesjon. Det kan settes som vilkår for overdragelse at pålegg gitt av direktoratet med hjemmel i loven er oppfylt før overdragelse skjer.
 
-Utvinners og drivers sikringsplikt etter første ledd gjelder også for tidligere arbeider som er foretatt av andre.
+Dokumentasjon av avtale om overdragelse av driftskonsesjonen og dokumentasjon av utvinningsrett skal være vedlagt søknaden.
 
-Området skal være varig sikret når arbeidene avsluttes.
+Ved overdragelse av driftskonsesjon trer erververen inn i alle overdragerens rettigheter og plikter etter eller med hjemmel i denne loven og vedtaket om driftskonsesjon.
 
-Departementet kan gi forskrift om hvordan åpninger i grunnen og andre inngrep i terrenget skal sikres og om vedlikeholdet av sikringstiltakene.
+### § 6-10. Avslutningskontroll
 
-### § 50. Oppryddingsplikt
+Ved avslutning av drift som krever driftskonsesjon etter [§ 6-2](lov/2025-06-20-107/§6-2), skal Direktoratet for mineralforvaltning med Bergmesteren for Svalbard gjennomføre en avslutningskontroll for å kontrollere at tiltakshaver har avsluttet driften i samsvar med driftsplanen.
 
-Undersøker, utvinner og driver av mineralforekomster skal sørge for forsvarlig opprydding av området mens arbeidene pågår og etter at disse er avsluttet. Direktoratet for mineralforvaltning kan fastsette en frist for når oppryddingen skal være avsluttet.
+### § 6-11. Forskrift om drift
 
-Departementet kan gi forskrift om det nærmere innholdet i opprydningsplikten.
+Departementet kan gi forskrift om drift, herunder omkrav til meldingen for meldepliktig utvinning, jf. [§ 6-1](lov/2025-06-20-107/§6-1)unntak fra krav om driftskonsesjon etter [§ 6-2](lov/2025-06-20-107/§6-2) og krav om at utvinning som er unntatt krav om driftskonsesjon, skal være omfattet av krav om driftsplankrav til søknaden om driftskonsesjon, driftsplanen og overdragelse av driftskonsesjon, jf. [§§ 6-4](lov/2025-06-20-107/§6-4), [6-5](lov/2025-06-20-107/§6-5) og [6-9](lov/2025-06-20-107/§6-9)gjennomføringen av avslutningskontroll ved avslutning av konsesjonspliktig drift, jf. [§ 6-10](lov/2025-06-20-107/§6-10).
 
-> Endret ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+## Kapittel 7. Rapportering og forvaltning av opplysninger og materiale
 
-### § 51. Dekning av kostnader ved opprydding og sikring
+### § 7-1. Rapportering fra målinger av grunnen
 
-Direktoratet for mineralforvaltning kan pålegge den som vil foreta eller har satt i gang undersøkelser, herunder prøveuttak, eller drift på mineralforekomster, å stille økonomisk sikkerhet for gjennomføring av sikringstiltak etter [§ 49](lov/2009-06-19-101/§49) og oppryddingstiltak etter [§ 50](lov/2009-06-19-101/§50).
+Tiltakshavere som gjennomfører geofysiske målinger og andre målinger av grunnen for å identifisere mulige mineralforekomster i grunnen, jf. [§ 1-7 bokstav b](lov/2025-06-20-107/§1-7/bokstav/b), skal rapportere om målingene og resultatene fra målingene til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard etter at de er gjennomført.
 
-Departementet kan gi forskrift om krav til sikkerhetsstillelsen.
+### § 7-2. Rapportering fra undersøkelser
 
-### § 52. Erstatningsplikt
+Tiltakshavere med følgende tillatelser skal årlig rapportere om omfanget av og resultatene fra sine undersøkelser til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard:undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3)utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2)tillatelse til prøveuttak etter [§ 4-13](lov/2025-06-20-107/§4-13).
 
-Leteren plikter uten hensyn til skyld å erstatte skade som arbeidene påfører grunnen, bygninger eller anlegg. Første punktum gjelder tilsvarende for den ulempe som påføres grunneieren eller brukeren av grunnen.
+Når en tillatelse eller rett som nevnt i første ledd opphører, skal tiltakshaveren levere sluttrapport til direktoratet innen tre måneder. I tillegg skal tiltakshaveren vederlagsfritt overlevere et representativt utvalg av prøvematerialet. Dersom tiltakshaveren får andre rettigheter til området etter denne loven, kan prøvematerialet ikke kreves overlevert før rettighetene opphører. Direktoratet kan forlenge fristen med inntil seks måneder dersom det er særlige grunner til det.
 
-For undersøker av forekomst av statens mineraler gjelder første ledd tilsvarende. Det samme gjelder for undersøker av forekomst av grunneiers mineraler, dersom ikke erstatningsansvaret er regulert i avtale med grunneier.
+Direktoratet kan pålegge den som avslutter undersøkelser av eller drift på grunneiers mineraler som ikke er industrimineraler og lette metaller, sluttrapportering som etter andre ledd.
 
-Tvist om krav om erstatning avgjøres ved skjønn, jf. [§ 53](lov/2009-06-19-101/§53).
+### § 7-3. Rapportering fra drift
 
-### § 53. Skjønn
+Tiltakshavere for et meldepliktig uttak etter [§ 6-1](lov/2025-06-20-107/§6-1) og tiltakshavere som har driftskonsesjon etter [§ 6-3](lov/2025-06-20-107/§6-3), skal årlig rapportere om driften til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard.
 
-Nødvendige utgifter som etter lovverket er forbundet med et skjønn etter [§§ 21](lov/2009-06-19-101/§21), 32, 52 og 57 dekkes av leteren, undersøkeren og utvinneren. Ved overskjønn gjelder likevel [lov 1. juni 1917 nr. 1](lov/1917-06-01-1) om skjønn og ekspropriasjonssaker [§ 54 a](lov/1917-06-01-1/§54a).
+Når driften avsluttes eller driftskonsesjon etter [§ 6-3](lov/2025-06-20-107/§6-3) opphører, skal tiltakshaveren levere sluttrapport til direktoratet innen tre måneder. Sluttrapporten skal inneholde den informasjonen som er nødvendig for at direktoratet skal kunne kontrollere at driften er avsluttet i samsvar med driftsplanen og krav fastsatt i eller med hjemmel i denne loven. I tillegg kan direktoratet kreve at tiltakshaveren vederlagsfritt skal overlevere et representativt utvalg av prøvematerialet. Direktoratet kan forlenge fristen med inntil seks måneder dersom det er særlige grunner til det. Rapporteringsplikten etter dette leddet gjelder tilsvarende når driftskonsesjon faller bort etter [§ 6-8](lov/2025-06-20-107/§6-8).
 
-Skjønnsretten kan foreta de granskinger av eiendommen som skjønnsretten finner nødvendig. Volder granskingen tap eller ulempe, fastsettes erstatningen for dette under skjønnet.
+### § 7-4. Rapportering om uttak av mineraler som hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet
 
-> Endret ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+Den som er ansvarlig for et uttak som hovedsakelig skjer som ledd i tilrettelegging for annen bruk av grunnområdet der massene tas ut, jf. [§ 1-2 andre ledd](lov/2025-06-20-107/§1-2/ledd/2), skal rapportere om uttaket til Direktoratet for mineralforvaltning med Bergmesteren for Svalbard dersom uttaket overstiger 5000 m3.
 
-### § 54. Krav til søknader og bruk av elektronisk kommunikasjon
+### § 7-5. Forskrift om rapportering
 
-Departementet kan gi forskrift omhvilke opplysninger søknader skal inneholde, om bruk av bestemte søknadsskjemaer og om søkerens plikt til å gi tilleggsopplysninger, ogbruk av elektronisk kommunikasjon.
+Departementet kan gi forskrift om rapporteringsplikt etter [§§ 7-1](lov/2025-06-20-107/§7-1) til [7-4](lov/2025-06-20-107/§7-4), blant annet om rapportenes innhold og format og unntak fra rapporteringspliktene.
 
-## Kapittel 10. Gebyrer og avgifter
+### § 7-6. Pålegg om overlevering av materiale og opplysninger
 
-### § 55. Behandlings- og tilsynsgebyr
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan der det er nødvendig, gi pålegg om at materiale og opplysninger som tiltakshaveren har eller utarbeider om planlegging og gjennomføring av mineralvirksomhet etter denne loven, skal overleveres vederlagsfritt til direktoratet eller til den som departementet utpeker. Materialet og opplysningene skal overleveres på den måten og i den formen som direktoratet bestemmer, så langt det er rimelig. Direktoratet kan også kreve at slikt materiale og slike opplysninger skal være tilgjengelige i Norge. Direktoratet kan også gi pålegg etter denne bestemmelsen til den som utfører arbeid for tiltakshaveren.
 
-Departementet kan gi forskrift om gebyrer for behandling av søknader og for tilsyn etter denne lov.
+### § 7-7. Taushetsplikt om geologiske forhold
 
-### § 56. Årsavgift til staten
+Enhver som utfører tjeneste eller arbeid for Direktoratet for mineralforvaltning med Bergmesteren for Svalbard eller andre forvaltningsorgan, plikter å hindre at informasjon om geologiske forhold som er innrapportert etter [§§ 7-1](lov/2025-06-20-107/§7-1) og [7-2](lov/2025-06-20-107/§7-2), gjøres tilgjengelig for andre uten samtykke fra tiltakshaveren.
 
-Undersøker og utvinner av forekomst av statens mineraler skal betale en årlig avgift til staten for undersøkelsesrett og utvinningsrett. Avgiftenes størrelse fastsettes i forskrift etter tredje ledd.
+Taushetsplikten etter første ledd opphører når rettighetshaver ikke lenger har undersøkelsesrett eller utvinningsrett i området.
 
-Avgiftene skal betales forskuddsvis til Direktoratet for mineralforvaltning innen 15. januar. Blir avgiftene ikke betalt innen fristen, skal en tilleggsavgift på 50 prosent betales innen 30. april samme år. Direktoratet for mineralforvaltning kan i særlige tilfeller gjøre unntak fra dette. Rettigheten faller bort dersom tilleggsavgiften ikke blir betalt innen fristen.
+Taushetsplikten etter første ledd er ikke til hinder for at direktoratet utveksler informasjon om geologiske forhold med Norges geologiske undersøkelse.
 
-Departementet kan gi forskrift om størrelsen på årsavgift etter første ledd og om betalingen av disse.
+### § 7-8. Forvaltning av informasjon
 
-Departementet kan gi forskrift om at den som utvinner forekomst av statens mineraler skal betale en årlig avgift til staten.
+Tiltakshaver skal sørge for forsvarlig oppbevaring av materiale og opplysninger som skal rapporteres etter dette kapittelet.
 
-### § 57. Årsavgift til grunneieren
+## Kapittel 8. Internkontroll og tilsyn
 
-Utvinner av forekomst av statens mineraler skal betale grunneieren en årlig avgift på 0,5 prosent av omsetningsverdien av det som utvinnes. Avgiften for det enkelte år forfaller til betaling 31. mars året etter.
+### § 8-1. Internkontroll
 
-Er det flere grunneiere i utvinningsområdet, fordeles avgiften mellom dem i forhold til det areal hver av dem eier i utvinningsområdet.
+Tiltakshaver skal etablere og gjennomføre systematiske kontrolltiltak for å sikre at mineralvirksomheten gjennomføres forsvarlig og i samsvar med tillatelser etter denne loven, og at bestemmelser gitt i eller med hjemmel i loven blir oppfylt.
 
-Tvist om beregningen eller fordelingen av avgiften avgjøres ved skjønn, jf. [§ 53](lov/2009-06-19-101/§53).
+### § 8-2. Tilsyn med mineralvirksomhet
 
-Departementet kan gi forskrift om beregningen av årsavgiften og om plikt til å føre protokoll for beregningen.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard er tilsynsmyndighet etter loven og fører tilsyn med at tiltakshaver overholder bestemmelser og vedtak gitt i eller med hjemmel i loven.
 
-### § 58. Forhøyet grunneieravgift i Finnmark
+### § 8-3. Plikt til å gi opplysninger mv. ved tilsyn
 
-For utvinning av statens mineraler på Finnmarkseiendommens grunn kan departementet ved forskrift fastsette en høyere årsavgift til grunneier enn angitt i [§ 57](lov/2009-06-19-101/§57) første ledd første punktum.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi pålegg om at tiltakshaver vederlagsfritt skal gi opplysninger, overlevere dokumenter og annet materiale og gjennomføre rimelige tiltak som er nødvendige for at direktoratet skal kunne utføre oppgavene sine etter loven.
 
-## Kapittel 11. Tilsyn
+Når særlige grunner tilsier det, kan direktoratet pålegge andre enn tiltakshaver å gi opplysninger og overlevere dokumenter og annet materiale etter første ledd.
 
-### § 59. Tilsyn
+### § 8-4. Plikt til å gi tilgang til områder og nødvendig bistand ved tilsyn
 
-Direktoratet for mineralforvaltning skal føre tilsyn med atundersøkelse, herunder prøveuttak, og drift foregår på en bergfaglig forsvarlig måte i samsvar med lovens krav,vilkår, godkjent driftsplan og pålegg gitt i eller i medhold av denne lov overholdes,sikrings- og oppryddingsplikten etterleves, ogarbeider ikke fører til unødvendig forurensning eller unødvendig skade på miljøet.
+Tiltakshaver skal gi Direktoratet for mineralforvaltning med Bergmesteren for Svalbard uhindret tilgang til områder, innretninger og utstyr i tilknytning til mineralvirksomheten, slik at direktoratet kan gjennomføre tilsynet.
 
-### § 60. Undersøkelser og rett til opplysninger ved tilsyn
+Tiltakshaver skal vederlagsfritt gi nødvendig bistand ved gjennomføring av tilsynet.
 
-Direktoratet for mineralforvaltning skal ved tilsyn ha uhindret tilgang til områder og anlegg og kunne foreta nødvendige undersøkelser av slike områder og anlegg.
+### § 8-5. Forskrift om internkontroll og tilsyn
 
-Tiltakshaver plikter etter pålegg å legge frem for Direktoratet for mineralforvaltning opplysninger, dokumenter eller annet materiale av betydning for tilsynet. Når særlige grunner tilsier det, kan slike opplysninger etter pålegg kreves av andre.
+Departementet kan gi forskrift om internkontroll og tilsyn, herunder ominternkontroll, jf. [§ 8-1](lov/2025-06-20-107/§8-1)innhold, gjennomføring og rapportering av tilsyn, jf. [§ 8-2](lov/2025-06-20-107/§8-2)opplysnings-, dokumentasjons- og tiltaksplikten ved tilsyn, jf. [§ 8-3](lov/2025-06-20-107/§8-3)plikt til å gi tilgang til områder, innretninger og utstyr, jf. [§ 8-4](lov/2025-06-20-107/§8-4)
 
-Utgiftene til tilsyn kan kreves dekket av den som tilsynet retter seg mot.
+## Kapittel 9. Ekspropriasjon
 
-### § 61. Internkontroll
+### § 9-1. Ekspropriasjon av rettigheter
 
-Virksomheten skal sørge for at relevante bestemmelser gitt i eller i medhold av [mineralloven](lov/2009-06-19-101) etterleves.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi tillatelse til ekspropriasjon avundersøkelsesrett til mineralergrunn og rettigheter som er nødvendige for undersøkelser av mineralergrunn og rettigheter som er nødvendige for prøveuttak av mineralerutvinningsrett til grunneiers mineralergrunn og rettigheter som er nødvendige for utvinning av mineralergrunn og rettigheter som er nødvendige for bearbeiding av mineraler i naturlig forbindelse med driften.
 
-Virksomheten har plikt til å etablere og gjennomføre systematiske kontrolltiltak.
+Når det er gitt tillatelse til ekspropriasjon av undersøkelsesrett til grunneiers mineraler som ikke er industrimineraler og lette metaller, kan ikke grunneier inngå avtale om undersøkelsesrett eller utvinningsrett til disse mineralene i undersøkelsesområdet med andre enn den som har fått tillatelse til ekspropriasjon, før det er gått ti år siden ekspropriasjonen. Dette gjelder likevel ikke dersom den som har ekspropriert undersøkelsesretten, samtykker, eller der undersøkelsesarbeidet har opphørt.
 
-Departementet kan gi forskrift om internkontroll.
+Tillatelse til ekspropriasjon av utvinningsrett til grunneiers mineraler som ikke er industrimineraler og lette metaller, kan bare gis til den som har undersøkelsesrett til disse mineralene etter avtale eller ekspropriasjonsvedtak som er mindre enn ti år gammelt. Dette gjelder likevel ikke der ingen andre har slik undersøkelsesrett til området og undersøkelser ikke er nødvendig for å påvise at det finnes en drivverdig forekomst av grunneiers mineraler.
 
-> Endret ved lov [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+### § 9-2. Alminnelige ekspropriasjonsregler
 
-## Kapittel 12. Forvaltningstiltak og administrative sanksjoner
+Om ikke annet er bestemt, gjelder [oreigningslova](lov/1959-10-23-3) og [ekspropriasjonserstatningslova](lov/1984-04-06-17) tilsvarende ved ekspropriasjon etter [§ 9-1](lov/2025-06-20-107/§9-1).
 
-### § 62. Pålegg
+### § 9-3. Erstatning ved ekspropriasjon
 
-Direktoratet for mineralforvaltning kan gi pålegg om å rette eller stanse forhold som er i strid med bestemmelser eller vedtak gitt i eller i medhold av loven. I pålegget skal det settes en frist for oppfyllelse.
+Ved ekspropriasjon etter [§ 9-1 første ledd bokstav a](lov/2025-06-20-107/§9-1/ledd/1/bokstav/a), [b](lov/2025-06-20-107/§9-1/ledd/1/bokstav/b), [c](lov/2025-06-20-107/§9-1/ledd/1/bokstav/c), [e](lov/2025-06-20-107/§9-1/ledd/1/bokstav/e) og [f](lov/2025-06-20-107/§9-1/ledd/1/bokstav/f) skal det ytes erstatning etter [ekspropriasjonserstatningslova](lov/1984-04-06-17).
 
-### § 63. Umiddelbar iverksetting ved Direktoratet for mineralforvaltning
+Ved ekspropriasjon etter [§ 9-1 første ledd bokstav d](lov/2025-06-20-107/§9-1/ledd/1/bokstav/d) skal erstatningen fastsettes på grunnlag av verdien av mineralet etter markedspris og uavhengig av påregnelighetskravet i [ekspropriasjonserstatningslova §§ 5](lov/1984-04-06-17/§5) og [6](lov/1984-04-06-17/§6). Dette gjelder også dersom ekspropriasjonstillatelse er gitt med grunnlag i en annen lov. Erstatningen skal settes til et beløp per utvunnet enhet av mineralet hvis ikke særlige grunner taler mot dette. Det kan fastsettes et minstebeløp som skal betales uavhengig av produksjonens størrelse.
 
-Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i eller i medhold av loven, kan Direktoratet for mineralforvaltning sørge for å iverksette tiltaket.
+Tilkjente erstatninger fastsettes til årlige beløp. Engangserstatning kan likevel fastsettes dersom en eiendom eller rettighet i sin helhet eller for en vesentlig del blir avstått, eller dersom andre særlige grunner foreligger.
 
-Tiltak kan iverksettes uten forutgående pålegg dersom det er nødvendig for å avverge overhengende fare, eller dersom det etter omstendighetene vil være urimelig byrdefullt å finne frem til den ansvarlige.
+Når det har gått ti år fra ekspropriasjonserstatningen ble fastsatt ved skjønn, kan hver av partene kreve at erstatning fastsatt som årlige beløp fastsettes ved nytt skjønn dersom utviklingen har ført til at den fastsatte erstatningen ikke lenger er rimelig.
+
+Hvis ekspropriasjonstillatelsen gir rett til ekspropriasjon av rettigheter for den tid mineralvirksomheten foregår, og mineralvirksomheten opphører, faller kravet på erstatning bort fra utløpet av det kalenderåret virksomheten opphører.
+
+## Kapittel 10. Gebyr, vederlag og skjønn
+
+### § 10-1. Behandlings- og tilsynsgebyr
+
+Departementet kan gi forskrift om gebyrer for behandling av søknader og for tilsyn etter denne loven.
+
+### § 10-2. Årlig vederlag til staten for undersøkelsestillatelse og utvinningsrett til statens mineraler
+
+Den som søker om og den som har undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) eller utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2) til statens mineraler, skal betale et årlig vederlag til staten. Første vederlag skal betales før reservasjon for undersøkelsestillatelse gis av Direktoratet for mineralforvaltning med Bergmesteren for Svalbard etter [§ 4-5](lov/2025-06-20-107/§4-5), eller før utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2) gis. Vederlaget skal deretter betales forskuddsvis. Departementet kan i særlige tilfeller gjøre unntak fra plikten til å betale vederlag etter dette leddet.
+
+Rettighetene faller bort dersom tiltakshaveren ikke har betalt vederlag i samsvar med første ledd.
+
+Departementet kan gi forskrift om størrelsen på det årlige vederlaget og om frister og betalingen.
+
+### § 10-3. Vederlag til grunneier ved utvinning av statens mineraler
+
+Den som har utvinningsrett til statens mineraler, industrimineraler og lette metaller etter [§ 5-2](lov/2025-06-20-107/§5-2), skal betale grunneier et årlig vederlag på 0,5 prosent av omsetningsverdien av det som utvinnes og nyttiggjøres av statens mineraler og ikke-drivverdige forekomster av grunneiers mineraler som tas ut sammen med statens mineraler etter [§ 5-3 første ledd bokstav c](lov/2025-06-20-107/§5-3/ledd/1/bokstav/c).
+
+Er det flere grunneiere i utvinningsområdet, fordeles vederlaget mellom dem etter eierbrøk i området som utvinningsretten dekker.
+
+Tvist om vederlagets størrelse avgjøres ved skjønn, jf. [§ 10-9](lov/2025-06-20-107/§10-9).
+
+Departementet kan gi forskrift om beregningen av vederlaget og om betalingen og dokumentasjon.
+
+### § 10-4. Vederlag til grunneier ved samordnet utvinning av forekomster
+
+Ved samordnet utvinning av statens mineraler og grunneiers mineraler etter [§ 5-4](lov/2025-06-20-107/§5-4) der disse er drivverdige hver for seg, fastsettes vederlag for grunneiers mineraler ved avtale. Oppnås det ikke enighet om vederlagets størrelse, skal dette fastsettes ved skjønn, jf. [§ 10-9](lov/2025-06-20-107/§10-9).
+
+### § 10-5. Vederlag til staten for utvinning av statens mineraler
+
+Departementet kan gi forskrift om at den som utvinner forekomst av statens mineraler, skal betale et årlig vederlag til staten.
+
+### § 10-6. Erstatning for tap i tradisjonelle samiske områder
+
+Hvis mineralvirksomhet foregår i tradisjonelle samiske områder, skal tiltakshaveren betale erstatning for økonomisk tap som følge av inngrep i naturgrunnlaget for tradisjonelle samiske næringer. Erstatningen skal betales etter alminnelige regler om ekspropriasjonserstatning, med mindre noe annet avtales mellom partene.
+
+### § 10-7. Avgift ved utvinning av statens mineraler i tradisjonelle samiske områder
+
+Når statens mineraler utvinnes i tradisjonelle samiske områder, skal tiltakshaveren betale en årlig avgift til statskassen i samsvar med Stortingets vedtak.
+
+Departementet kan gi forskrift om innbetaling og kontroll av avgiften.
+
+### § 10-8. Vederlag til berørte samiske rettighetshavere i tradisjonelle samiske områder
+
+Ved utvinning av statens mineraler i tradisjonelle samiske områder skal berørte samiske rettighetshavere gis et årlig vederlag som tilsvarer innbetalt avgift etter [§ 10-7 første ledd](lov/2025-06-20-107/§10-7/ledd/1).
+
+Departementet kan i forskrift fastsette nærmere regler om utbetaling og fordeling av vederlaget etter bestemmelsen her.
+
+### § 10-9. Fordeling av utgifter ved skjønn med grunnlag i mineralloven
+
+Nødvendige utgifter til gjennomføringen av skjønn etter [§ 3-3](lov/2025-06-20-107/§3-3), [§ 4-1 andre ledd](lov/2025-06-20-107/§4-1/ledd/2), [§ 4-12 femte ledd](lov/2025-06-20-107/§4-12/ledd/5), [§ 9-3 fjerde ledd](lov/2025-06-20-107/§9-3/ledd/4), [§ 10-3 første ledd](lov/2025-06-20-107/§10-3/ledd/1) og [§ 10-4](lov/2025-06-20-107/§10-4) dekkes av tiltakshaver. Ved overskjønn kan likevel skjønnsretten fastsette en annen fordeling dersom det vil være sterkt urimelig at tiltakshaver dekker utgiftene.
+
+Utgifter til gjennomføringen av skjønn etter [§ 10-3 andre ledd](lov/2025-06-20-107/§10-3/ledd/2) fordeles mellom partene etter reglene i [skjønnsprosessloven § 43](lov/1917-06-01-1/§43).
+
+Skjønnsretten kan foreta de bevisundersøkelser av eiendommen som den finner nødvendig. Fører bevisundersøkelsen til tap eller ulempe, fastsettes erstatningen for dette under skjønnet.
+
+## Kapittel 11. Forvaltningstiltak og administrative sanksjoner
+
+### § 11-1. Pålegg om stans, retting og umiddelbar iverksetting
+
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan gi pålegg om å rette eller stanse forhold som er i strid med bestemmelser i denne loven eller vedtak gitt med hjemmel i denne loven eller [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101).
+
+Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i medhold av første ledd, det er ukjent hvem som er ansvarlig, eller det er urimelig byrdefullt å finne frem til den ansvarlige, kan direktoratet iverksette tiltaket uten forutgående pålegg dersom det er nødvendig for å avverge overhengende fare eller det foreligger andre særlige grunner.
 
 Utgiftene til iverksettingen kan kreves dekket av den ansvarlige. Krav om utgiftsdekning er tvangsgrunnlag for utlegg.
 
-### § 64. Midlertidig stans av virksomhet
+### § 11-2. Endring og tilbakekall av tillatelse mv.
 
-Hvis den ansvarlige ikke etterkommer pålegg om tiltak gitt i eller i medhold av loven, kan Direktoratet for mineralforvaltning kreve midlertidig stans av virksomheten.
+Departementet og Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan oppheve eller endre vilkårene i tillatelse gitt med hjemmel i denne loven eller [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101), eller sette nye vilkår og om nødvendig trekke tillatelsen tilbake, dersomdet foreligger alvorlige eller gjentatte overtredelser av bestemmelser gitt i eller med hjemmel i denne loventiltakshaver ikke etterkommer pålegg etter [§ 11-1](lov/2025-06-20-107/§11-1)vesentlige forutsetninger som lå til grunn for å gi tillatelsen, er bortfaltdet følger av ellers gjeldende omgjøringsregler.
 
-Direktoratet for mineralforvaltning kan iverksette midlertidig stans av virksomheten uten forutgående pålegg dersom dette er nødvendig for å avverge overhengende fare.
+Ved avgjørelser etter første ledd skal det tas hensyn til det økonomiske tapet og de ulempene som en endring eller et tilbakekall vil påføre tiltakshaveren, og de fordelene og ulempene som endringen eller tilbakekallet ellers vil medføre.
 
-Utgiftene til å stanse virksomheten kan kreves dekket av den ansvarlige. Krav om utgiftsdekning er tvangsgrunnlag for utlegg.
+### § 11-3. Tvangsmulkt
 
-### § 65. Endring og tilbakekall av tillatelse mv.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan fastsette tvangsmulkt for gjennomføring av pålegg gitt med hjemmel i loven innen den fristen direktoratet fastsetter.
 
-Departementet og Direktoratet for mineralforvaltning kan oppheve eller endre vilkårene i tillatelse etter loven eller forskrift i medhold av loven, eller sette nye vilkår, og om nødvendig trekke tillatelsen tilbake dersomdet foreligger grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven,innehaveren av tillatelsen ikke etterkommer pålegg etter [§ 62](lov/2009-06-19-101/§62),tillatelsen er gitt på grunnlag av uriktige eller ufullstendige opplysninger om forhold av vesentlig betydning,vesentlige forutsetninger som lå til grunn for å gi tillatelsen er bortfalt, ellerdet for øvrig følger av ellers gjeldende omgjøringsregler.
-
-Endring og tilbakekall av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbakekall kan gjøres betinget av at bestemte forhold utbedres eller endres.
-
-Ved avgjørelser etter paragrafen her skal det tas hensyn til det økonomiske tapet og de ulempene som det må påregnes at en endring eller et tilbakekall vil påføre innehaveren av tillatelsen, og de fordelene og ulempene som endringen eller tilbakekallet for øvrig vil medføre.
-
-Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbakekall av tillatelser.
-
-### § 66. Tvangsmulkt
-
-Når det foreligger forhold i strid med bestemmelser gitt i eller i medhold av denne lov, kan Direktoratet for mineralforvaltning fastsette tvangsmulkt for å få gjennomført gitte pålegg innen en særskilt angitt frist.
-
-Tvangsmulkten kan fastsettes samtidig med et pålegg om retting og løper fra fristoverskridelsen for retting. Der tvangsmulkten ikke fastsettes samtidig med pålegget, skal det gis et eget forhåndsvarsel om tvangsmulkt.
+Tvangsmulkten kan fastsettes samtidig med et pålegg om retting og løper da fra fristen for retting er oversittet. Hvis tvangsmulkten ikke fastsettes samtidig med pålegget, skal det gis et eget forhåndsvarsel om tvangsmulkt.
 
 Tvangsmulkten ilegges den ansvarlige for overtredelsen, tilfaller statskassen og løper inntil det ulovlige forholdet er rettet. Det kan fastsettes at tvangsmulkten løper inntil den ansvarlige har dokumentert at pålegget er oppfylt.
 
-Tvangsmulktens størrelse fastsettes blant annet under hensyn til hvor viktig det er at pålegget gjennomføres, og hvilke kostnader det antas å medføre.
+Tvangsmulktens størrelse fastsettes blant annet under hensyn til hvor viktig det er at pålegget gjennomføres, og hvilke kostnader pålegget antas å medføre.
 
-Vedtak om tvangsmulkt er tvangsgrunnlag for utlegg.
+### § 11-4. Overtredelsesgebyr
 
-Departementet kan gi forskrift om tvangsmulkt, blant annet om tvangsmulktens størrelse og varighet, fastsettelse av tvangsmulkt og inndrivelse og ettergivelse av påløpt tvangsmulkt.
+Direktoratet for mineralforvaltning med Bergmesteren for Svalbard kan ilegge overtredelsesgebyr i form av et pengebeløp til statskassen til den somhar, gjør eller setter i verk mineralvirksomhet i strid med bestemmelser eller tillatelser gitt i eller med hjemmel i denne lovenikke utfører kontroll av egen mineralvirksomhet i samsvar med bestemmelser eller tillatelser gitt i eller med hjemmel i denne loventross skriftlige pålegg ikke oppfyller pliktene etter [§§ 2-1](lov/2025-06-20-107/§2-1) og [2-2](lov/2025-06-20-107/§2-2) om krav til forsvarlig mineralvirksomhet og nødvendig kompetansetross skriftlige pålegg ikke oppfyller sikrings- og oppryddingsplikten etter [§§ 2-4](lov/2025-06-20-107/§2-4) og [2-5](lov/2025-06-20-107/§2-5)tross skriftlige pålegg ikke oppfyller rapporteringsplikten etter [kapittel 7](lov/2025-06-20-107/kap7)gir uriktige eller villedende opplysninger til departementet eller direktoratetikke etterkommer særskilt pålegg eller forbud gitt med hjemmel i denne loven, når departementet eller direktoratet først skriftlig har opplyst om at overtredelsesgebyr kan inntre hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne fristen er oversittet.
 
-> Endret ved [lover 25 mars 2011 nr. 8](lov/2011-03-25-8), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+Overtredelsesgebyr kan også ilegges ved overtredelse av forskriftsbestemmelser gitt med hjemmel i denne loven når det i forskrift er fastsatt at overtredelse av den aktuelle bestemmelsen kan medføre overtredelsesgebyr.
 
-### § 67. Overtredelsesgebyr
+Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. For foretak er skyldkravet uaktsomhet.
 
-Direktoratet for mineralforvaltning kan pålegge den som har overtrådt bestemmelser gitt i eller i medhold av denne lov, å betale et pengebeløp til statskassen (overtredelsesgebyr). Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Et foretak kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor foretakets kontroll.
+Ved vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det blant annet legges vekt på hvor alvorlig overtredelsen er, og graden av skyld.
 
-Ved vurderingen av om overtredelsesgebyr skal ilegges og ved utmålingen skal det blant annet legges vekt på hvor alvorlig overtredelsen er og graden av skyld.
+Den overtredelsesgebyret rettes mot, skal varsles særskilt før det treffes vedtak om gebyr, og gis anledning til å uttale seg innen en frist som ikke skal være kortere enn tre uker. Oppfyllelsesfristen er fire uker fra vedtaket ble truffet.
 
-Den ansvarlige skal varsles særskilt før overtredelsesgebyr vedtas, og gis anledning til å uttale seg innen en frist som ikke skal være kortere enn tre uker. Oppfyllelsesfristen er fire uker fra vedtaket ble truffet.
+Adgangen til å ilegge overtredelsesgebyr faller bort fem år etter at overtredelsen har opphørt, med mindre tilsynsmyndigheten innen denne fristen gir forhåndsvarsel om overtredelsesgebyr.
 
-Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.
+### § 11-5. Forskrift om forvaltningstiltak og administrative sanksjoner
 
-Departementet kan gi forskrift om overtredelsesgebyr, blant annet om størrelsen på overtredelsesgebyret, om renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall, og om inndrivelse og ettergivelse av ilagt overtredelsesgebyr.
+Departementet kan gi forskrift om forvaltningstiltak og administrative sanksjoner, herunder omnærmere bestemmelser om endring og tilbakekall, jf. [§ 11-2](lov/2025-06-20-107/§11-2)tvangsmulkt, blant annet om tvangsmulktens størrelse og varighet, fastsettelse av tvangsmulkt og inndrivelse og ettergivelse av påløpt tvangsmulkt, jf. [§ 11-3](lov/2025-06-20-107/§11-3)overtredelsesgebyr, blant annet om størrelsen på overtredelsesgebyret, om renter og tilleggsgebyr dersom gebyret ikke blir betalt ved forfall, og om inndrivelse og ettergivelse av ilagt overtredelsesgebyr, jf. [§ 11-4](lov/2025-06-20-107/§11-4).
 
-> Endret ved [lover 25 mars 2011 nr. 8](lov/2011-03-25-8), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), [11 juni 2021 nr. 85](lov/2021-06-11-85) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1909](forskrift/2021-06-11-1909)).
+## Kapittel 12. Ikrafttredelses- og overgangsbestemmelser
 
-## Kapittel 13. Ikrafttredelses- og overgangsbestemmelser
+### § 12-1. Ikrafttredelse
 
-### § 68. Ikrafttredelse
+Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
-Loven trer i kraft fra den tid Kongen bestemmer.1
+Fra den tiden loven trer i kraft, oppheves [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101).
 
-### § 69. Overgangsbestemmelser
+### § 12-2. Overgangsbestemmelser
 
-1. Søknader etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk [(bergverksloven)](lov/1972-06-30-70), [lov 3. juli 1914 nr. 5](lov/1914-07-03-5) om erverv av kalkstensforekomster (kalkstensloven), [lov 17. juni 1949 nr. 3](lov/1949-06-17-3) om erverv av kvartsforekomster (kvartsloven), [lov 21. mars 1952 nr. 1](lov/1952-03-21-1) om avståing av grunn m.v. til drift av ikke mutbare mineralske forekomster (mineralavståingsloven), [lov 28. november 2003 nr. 98](lov/2003-11-28-98) om konsesjon ved erverv av fast eiendom [(konsesjonsloven)](lov/2003-11-28-98) mv. og [lov 14. desember 1917 nr. 16](lov/1917-12-14-16) om erverv av vannfall, bergverk og annen fast eiendom m.v. [(industrikonsesjonsloven) kapittel II](lov/1917-12-14-16/kapii), jf. [kapittel V](lov/1917-12-14-16/kapv), som er innkommet til rette instans før lovens ikrafttreden, behandles etter nevnte regelverk.
-2. Mutingsbrev etter [bergverksloven kapittel 3](lov/1972-06-30-70/kap3) gir fra lovens ikrafttreden samme rett som undersøkelsesrett etter denne lov og med samme prioritet som mutingsbrevet hadde etter [bergverksloven § 16](lov/1972-06-30-70/§16). Fristen i [§ 22](lov/2009-06-19-101/§22) første ledd regnes fra utstedelsen av mutingsbrevet.
-3. Utmål etter [bergverksloven kapittel 4](lov/1972-06-30-70/kap4) gir fra lovens ikrafttreden samme rett som utvinningsrett etter denne lov. Fristen i [§ 33](lov/2009-06-19-101/§33) første ledd bokstav a løper fra utstedelsen av utmålet. Bestemmelsene i [§ 45](lov/2009-06-19-101/§45) første ledd gjelder fra lovens ikrafttreden med mindre annet følger av konsesjonsvilkår gitt før dette tidspunktet.
-4. Bestemmelsen i [§ 20](lov/2009-06-19-101/§20) er ikke til hinder for at den som ved lovens ikrafttreden har igangsatt prøvedrift med hjemmel i [industrikonsesjonsloven](lov/1917-12-14-16), fortsetter slik virksomhet i inntil ett år etter lovens ikrafttreden.
-5. Igangværende drift med konsesjon etter [industrikonsesjonsloven § 13](lov/1917-12-14-16/§13), ervervskonsesjon etter kalkstensloven, kvartsloven og [konsesjonsloven](lov/2003-11-28-98) kan fortsette driften uten hinder av [§ 43](lov/2009-06-19-101/§43) på de vilkår som gjelder etter konsesjonen. Konsesjonsvilkår som strider mot denne lovens øvrige regler med unntak av [§ 45](lov/2009-06-19-101/§45) første ledd, skal likevel vike. Direktoratet for mineralforvaltning kan etter søknad endre vilkårene i konsesjonen. Direktoratet for mineralforvaltning kan dersom særlige grunner tilsier det, likevel kreve at tiltakshaver søker driftskonsesjon etter [§ 43](lov/2009-06-19-101/§43).
-6. Ved lovens ikrafttredelse skal drivere på mineralressurser som ikke faller inn under nr. 5 sende melding og driftsplan til Direktoratet for mineralforvaltning. Igangværende drift på mineralressurser som ikke faller inn under nr. 5 skal innen fem år fra lovens ikrafttredelse oppfylle kravene i [§ 43](lov/2009-06-19-101/§43). Direktoratet for mineralforvaltning kan i det enkelte tilfelle fravike denne tidsfristen.
-7. Igangværende virksomheter omfattes av [§ 51](lov/2009-06-19-101/§51) fem år fra lovens ikrafttreden.
-8. For igangværende drift på forekomst av statens mineraler kan departementet fastsette en gradvis opptrapping av årlig avgift til grunneier de fem første årene etter lovens ikrafttredelse.
+1. Søknader innkommet før denne lovens ikrafttredelse skal behandles etter [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101) med forskrifter. Dersom søkeren ønsker det og søknadsbehandlingen ikke har startet, kan søknaden likevel behandles etter loven her.
+2. For undersøkelsesrett til statens mineraler etter [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser kapittel 4](lov/2009-06-19-101/kap4) gjelder følgende:Undersøkelsesrett til statens mineraler med best prioritet regnes som undersøkelsestillatelse etter lovens [§ 4-3](lov/2025-06-20-107/§4-3), med varighet på tre år fra lovens ikrafttredelse. Undersøkelser på industrimineraler og lette metaller i samme område krever likevel samtykke fra grunneier de tre første årene etter lovens ikrafttredelse. Krav til undersøkelsesplan i [§ 4-6](lov/2025-06-20-107/§4-6) og rapportering etter [§ 7-2](lov/2025-06-20-107/§7-2) gjelder fra første søknad om forlengelse etter [§ 4-8](lov/2025-06-20-107/§4-8).Undersøkelsesretter som ikke har førsteprioritet når loven trer i kraft, er omfattet av overgangsbestemmelsen i bokstav b første strekpunkt dersom de rykker opp til førsteprioritet senest tre år etter lovens ikrafttredelse. Etter denne fristen faller undersøkelsesretter som ikke har førsteprioritet, bort. Krav om vederlag etter [§ 10-2](lov/2025-06-20-107/§10-2) gjelder for undersøkelsesretter uavhengig av prioritet.
+3. I områder der undersøkelser på industrimineraler eller lette metaller er påbegynt eller planlagt før lovens ikrafttredelse, kan grunneieren eller den som har avtale med grunneieren, undersøke industrimineraler og lette metaller uten krav om undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) de første fem årene etter lovens ikrafttredelse.
+4. I områder der undersøkelser på industrimineraler eller lette metaller er påbegynt eller planlagt før lovens ikrafttredelse, kan det kun gis undersøkelsestillatelse etter [§ 4-3](lov/2025-06-20-107/§4-3) til statens mineraler de første fem årene etter lovens ikrafttredelse.
+5. Utvinningsrett og utmål gitt etter tidligere regelverk regnes som utvinningsrett etter [§ 5-2](lov/2025-06-20-107/§5-2) fra lovens ikrafttredelse.
+6. Krav om godkjent undersøkelsesplan etter [§ 5-3 fjerde ledd tredje](lov/2025-06-20-107/§5-3/ledd/4/setning/3) og [fjerde punktum](lov/2025-06-20-107/§5-3/ledd/4/setning/4) og plikt til rapportering etter [§ 7-2](lov/2025-06-20-107/§7-2) fra undersøkelser med hjemmel i [§ 5-3 fjerde ledd](lov/2025-06-20-107/§5-3/ledd/4) inntrer tre år etter lovens ikrafttredelse.
+7. Eksisterende drift med konsesjon etter [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101) kan fortsette på de vilkårene som gjelder etter driftskonsesjonen. Direktoratet kan kreve revisjon av driftskonsesjonen og driftsplanen i samsvar med [§ 6-7](lov/2025-06-20-107/§6-7) i loven her.
+8. Eksisterende drift med konsesjon etter [lov 14. desember 1917 nr. 16](lov/1917-12-14-16) om erverv av vannfall, bergverk og annen fast eiendom mv., [lov 3. juli 1914 nr. 5 om erverv av kalkstensforekomster](lov/1914-07-03-5), [lov 17. juni 1949 nr. 3 om erverv av kvartsforekomster](lov/1949-06-17-3) og [lov 28. november 2003 nr. 98 om konsesjon ved erverv av fast eiendom mv.](lov/2003-11-28-98) kan ved lovens ikrafttredelse fortsette på de vilkårene som gjelder etter konsesjonen. Etter fem år fra lovens ikrafttredelse kan departementet kreve at det etter en rimelig frist søkes om driftskonsesjon etter denne lovens kapittel 6.
+9. For eksisterende drift i tradisjonelle samiske områder kan det innkreves vederlag etter denne loven [§ 10-7](lov/2025-06-20-107/§10-7) om avgift ved utvinning av statens mineraler fem år etter lovens ikrafttredelse.
+10. Departementet kan fastsette forlenget frist etter denne bestemmelsen bokstav b og f.
+11. Direktoratet kan i særlige tilfeller fastsette forlenget frist i denne bestemmelsen bokstav b og f.
+12. Departementet kan fastsette overgangsregler.
 
-### § 70. Endringer i andre lover
+### § 12-3. Endringer i andre lover
 
-Når loven trer i kraft gjøres følgende endringer i andre lover: – – –
+Når loven trer i kraft, gjøres følgende endringer i andre lover: – – –

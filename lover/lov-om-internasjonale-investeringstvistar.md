@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1967-09-15"
-last_change_in_force: "2005-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-30"
-xml_hash: "d7840c8659624c69898d6858907b8cbcd77937abe8f4821f2697642ba8bcca9e"
+xml_hash: "26b899c3408d193225b3c879e564e393b9a0e9df46466c6f08ab9519711c9470"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,11 +32,11 @@ Under «skilsdom» går her og avgjerder etter artiklane 50, 51 eller 52 i avtal
 
 Skilsdom som er gjord med heimel i avtala, er bindande her i riket.
 
-Går ein skilsdom ut på at nokon skal reida ut pengar kan skilsdomen fullførast her i riket so framt fullføringa ikkje er utdrygd etter reglane i avtala. Krav om fullføring vert framsett for nåmsmannen. [Tvangsfullbyrdelsesloven § 4-2](lov/1992-06-26-86/§4-2) fjerde ledd gjeld ikkje for fullføring av skilsdom som er gjord med heimel i avtala.
+Går ein skilsdom ut på at nokon skal reida ut pengar kan skilsdomen fullførast her i riket so framt fullføringa ikkje er utdrygd etter reglane i avtala. Krav om fullføring vert framsett for namsfuten. [Tvangsfullbyrdelsesloven § 4-2](lov/1992-06-26-86/§4-2) fjerde ledd gjeld ikkje for fullføring av skilsdom som er gjord med heimel i avtala.
 
 Vert det opplyst at fullføring er utdrygd etter reglane i avtala, skal ei fullføringssak som går her i riket, likeins utsetjast. Elles kan fullføring her ikkje utdrygjast av di det er kravt at skilsdomen skal verta tolka, brigda eller gjord om inkje etter reglane i avtala.
 
-> Endra med [lov 14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)). **Vert endra** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endra ved lover [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 3.
 

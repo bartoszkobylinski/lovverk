@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "d230fbd6b7ecd33ba1d40b3bdf4552fe20e27092d7aa6684419286def1b4fbdd"
+xml_hash: "e5311011e6cb34bab23c080748aa5c58f6dd8e2210d9e094fb3f8a3b1638dd32"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -27,8 +27,6 @@ eu_basis: []
 Departementets myndighet etter [lov 2. juli 2004 nr. 64 om ordning med brukerrom for inntak av narkotika (brukerromsloven) § 2 tredje ledd](lov/2004-07-02-64/§2/ledd/3) slik det lyder etter endring ved [lov 19. juni 2026 nr. 43](lov/2026-06-19-43), delegeres til Helsedirektoratet.
 
 ## II
-
-- [§ 2 tredje ledd](lov/2004-07-02-64/§2/ledd/3): Myndighet til å gjøre unntak fra kravene i [§ 2 andre ledd](lov/2004-07-02-64/§2/ledd/2).
 
 ## III
 

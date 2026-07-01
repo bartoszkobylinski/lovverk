@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-06-19"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-28"
-xml_hash: "962c89ac63df5fbbebf188667408ae4388fe063de2787375492b67963476f31b"
+xml_hash: "e34b1d28a8ac8b2e07924cca42f6d008db540f8d723191d7a3fafd7eff7c9047"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -220,11 +220,7 @@ Kommunen kan ved godkjenningen sette vilkår for driften med hensyn til antall b
 
 Kommunens vedtak kan påklages til statsforvalteren.
 
-Departementet kan gi forskrift om midlertidig godkjenning ved etablering av barnehager og barnehageplasser som opprettes for å dekke et midlertidig behov som følge av at det kommer svært mange fordrevne barn under opplæringspliktig alder fra Ukraina.
-
-Departementet kan gi forskrift om unntak fra kravene til organisering i [§ 7 a](lov/2005-06-17-64/§7a) for ordinære barnehager som har fått midlertidig godkjenning etter forskrift med hjemmel i fjerde ledd i denne paragrafen.
-
-> Endret ved lover [19 juni 2009 nr. 93](lov/2009-06-19-93) (ikr. 1 jan 2011 iflg. [res. 29 okt 2010 nr. 1378](forskrift/2010-10-29-1378)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
+> Endret ved lover [19 juni 2009 nr. 93](lov/2009-06-19-93) (ikr. 1 jan 2011 iflg. [res. 29 okt 2010 nr. 1378](forskrift/2010-10-29-1378)), [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
 
 ### § 14 a. Private barnehager uten kommunalt tilskudd
 
@@ -234,7 +230,11 @@ Private barnehager som har fått vedtak om godkjenning av barnehagedriften etter
 
 ### § 14 b. Midlertidig godkjenning i en situasjon med svært mange fordrevne
 
-> **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+Departementet kan gi forskrift om midlertidig godkjenning ved etablering av barnehager og barnehageplasser som opprettes for å dekke et midlertidig behov som følge av at det kommer svært mange fordrevne barn under opplæringspliktig alder fra Ukraina.
+
+Departementet kan gi forskrift om unntak fra kravene til organisering i [§ 7 a](lov/2005-06-17-64/§7a) for ordinære barnehager som har fått midlertidig godkjenning etter forskrift med hjemmel i første ledd.
+
+> Tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 15. Familiebarnehager
 
@@ -280,9 +280,11 @@ Kommunen kan gi tilskudd til godkjente private barnehager.
 
 Kommunen skal behandle private barnehager som mottar tilskudd, likeverdig med kommunale barnehager. Departementet kan gi forskrift om hva som er likeverdig behandling.
 
-Departementet kan gi forskrift om midlertidig tilskudd til drift av barnehager og barnehageplasser som er godkjent med hjemmel i forskrift etter [§ 14 fjerde ledd](lov/2005-06-17-64/§14/ledd/4).
+– – –1
 
-> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Endres** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)) **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+Departementet kan gi forskrift om midlertidig tilskudd til drift av barnehager og barnehageplasser som er godkjent med hjemmel i forskrift etter [§ 14 b](lov/2005-06-17-64/§14b).
+
+> Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 19 a. Driftstilskudd til private barnehager
 

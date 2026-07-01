@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2023-10-10"
-last_change_in_force: "2026-02-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "8ae9c38eef362ce2aa444291651f6cd7730b4dc904499385bfe0a6456f230333"
+xml_hash: "db796422a49f85aca12ca5f2d5b76d84f31539f78e71b53251c15f3569ff3d81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -135,9 +135,9 @@ Gebyrsatsene er som følger:Motorsykkel: kr 11 330,–Bil: kr 13 850,–.
 
 ### § 10-1. Godkjenning av trafikkskole, kursarrangør, trafikklærer og faglig leder
 
-Gebyrsatsene for behandling av søknad er som følger:Godkjenning som trafikkskole eller kursarrangør: kr 2 940,–Godkjenning som trafikklærer eller faglig leder: kr 2 940,–Utvidelse av godkjenning som trafikklærer: kr 2 940,–Vurdering av yrkeskvalifikasjoner: kr 3 870,–Prøveperiode for trafikklærer: kr 7 230,–Prøveperiode for faglig leder: kr 4 820,–.
+Gebyrsatsene for behandling av søknad er som følger:Godkjenning som trafikkskole eller kursarrangør: kr 2 940,–Godkjenning som trafikklærer eller faglig leder: kr 2 940,–Utvidelse av godkjenning som trafikklærer: kr 2 940,–Vurdering av yrkeskvalifikasjoner: kr 3 870,–Prøveperiode for trafikklærer: kr 7 230,–Prøveperiode for faglig leder: kr 4 820,–Regodkjenning av trafikklærer: kr 2 390,–Godkjenning som kursarrangør eller kurstilbyder: kr 2 940,–.
 
-> Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026). **Endres** ved forskrift [22 juni 2026 nr. 1185](forskrift/2026-06-22-1185) (i kraft 1 juli 2026).
+> Endret ved forskrifter [8 des 2023 nr. 2257](forskrift/2023-12-08-2257) (i kraft 1 jan 2024), [18 des 2024 nr. 3381](forskrift/2024-12-18-3381) (i kraft 1 jan 2025), [16 jan 2026 nr. 54](forskrift/2026-01-16-54) (i kraft 1 feb 2026), [22 juni 2026 nr. 1185](forskrift/2026-06-22-1185) (i kraft 1 juli 2026).
 
 ## Kapittel 11. Søknad om godkjenning som kursarrangør, utrykningsinstruktør og undervisningsansvarlig [(utrykningsforskriften)](forskrift/2009-06-12-637)
 

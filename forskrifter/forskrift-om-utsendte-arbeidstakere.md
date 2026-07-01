@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2020-03-09"
-xml_hash: "d4f46db12c1745ce8f1b8b700bbd33961ccdd912e6c02dc91c2e99a5c1284453"
+xml_hash: "bec2c872089b2ac80d37b1fcb0cbc30a4e7aa58ac55325c9a2fe2a0be7e4c877"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,11 +26,11 @@ eu_basis: []
 
 Forskriften gjelder når utenlandsk virksomhet sender arbeidstaker til Norge i forbindelse med tjenesteyting, jf. [arbeidsmiljøloven § 1-7](lov/2005-06-17-62/§1-7) første til tredje ledd, forutsatt at det foreligger et arbeidsforhold mellom den utenlandske virksomheten og den utsendte arbeidstakeren i utsendingsperioden.
 
-[§ 14a](forskrift/2005-12-16-1566/§14a) til [§ 14e](forskrift/2005-12-16-1566/§14e) gjelder når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender en sjåfør til Norge for egen regning og risiko og under egen ledelse for å utføregodstransport på vei i Norge med kjøretøy med totalvekt over 3 500 kg medregnet tilhenger eller semitrailerpersontransport på vei i Norge i eller utenfor rute med kjøretøy som er beregnet for transport av mer enn 9 personer inkludert sjåføren.
+[§ 14a](forskrift/2005-12-16-1566/§14a) til [§ 14e](forskrift/2005-12-16-1566/§14e) gjelder når utenlandsk virksomhet etter avtale med en mottaker av transporttjeneste i Norge sender en sjåfør til Norge for egen regning og risiko og under egen ledelse for å utføregodstransport på vei i Norge med kjøretøy med totalvekt over 2 500 kg medregnet tilhenger eller semitrailerpersontransport på vei i Norge i eller utenfor rute med kjøretøy som er beregnet for transport av mer enn 9 personer inkludert sjåføren.
 
 Forskriften får ikke anvendelse på Svalbard.
 
-> Endret ved forskrifter [28 okt 2022 nr. 1895](forskrift/2022-10-28-1895) (i kraft 1 jan 2023), [30 juni 2023 nr. 1178](forskrift/2023-06-30-1178) (i kraft 3 nov 2023 iflg. vedtak [3 nov 2023 nr. 1769](forskrift/2023-11-03-1769)).
+> Endret ved forskrifter [28 okt 2022 nr. 1895](forskrift/2022-10-28-1895) (i kraft 1 jan 2023), [30 juni 2023 nr. 1178](forskrift/2023-06-30-1178) (i kraft 3 nov 2023 iflg. vedtak [3 nov 2023 nr. 1769](forskrift/2023-11-03-1769)), [26 juni 2026 nr. 1392](forskrift/2026-06-26-1392) (i kraft 1 juli 2026).
 
 ## § 2. Vurdering av om det foreligger utsending av arbeidstakere
 

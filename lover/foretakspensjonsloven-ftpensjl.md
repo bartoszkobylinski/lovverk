@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2024-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2023-07-01"
-xml_hash: "7aa8739b78053b4118aae1804f20051b770a51a3042cf0ca3d9b95909f4e813e"
+xml_hash: "a288f58a1790c8529c093534b5a153c087e90f160b0215c8cf646e168a421348"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-27T06:50:25.382483+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -380,13 +380,13 @@ Opptjent pensjon for arbeidstaker i deltidsstilling skal utgjøre en forholdsmes
 
 (4) Pensjonsinnretningen kan kreve vederlag for administrasjon og forvaltning av fripolisen, for fripoliseinnehaverens bruk av rett til å endre investeringsporteføljen, samt for eventuell avkastningsgaranti knyttet til fripolisen. Kongen kan gi nærmere regler i forskrift om vederlag knyttet til fripolisen og om dekning av vederlag ved belastning av fripolisekontoen.
 
-(5) Ved uttak av alderspensjon gjelder reglene i [§§ 5-7 a](lov/2000-03-24-16/§5-7a) til [5-7 d](lov/2000-03-24-16/§5-7d). Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi på uttakstidspunktet. Midlene knyttet til fripolisen skal på uttakstidspunktet overføres til alminnelig forvaltning i kollektivporteføljen, med mindre fripoliseinnehaveren krever at midlene knyttet til fripolisen fortsatt skal forvaltes som egen investeringsportefølje. Hvis fripolisen fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi ved hver utbetaling. Kongen kan gi nærmere regler om beregning og utbetaling av årlig alderspensjon fra fripolisen i forskrift.
+(5) Ved uttak av alderspensjon gjelder reglene i [§§ 5-7 a](lov/2000-03-24-16/§5-7a) til [5-7 d](lov/2000-03-24-16/§5-7d). Årlig alderspensjon beregnes med utgangspunkt i investeringsporteføljens verdi på uttakstidspunktet. Midlene knyttet til fripolisen skal på uttakstidspunktet fortsatt forvaltes som egen investeringsportefølje, med mindre fripoliseinnehaveren krever at midlene knyttet til fripolisen overføres til alminnelig forvaltning i kollektivporteføljen. Hvis fripolisen fortsatt skal forvaltes som egen investeringsportefølje, skal årlig alderspensjon beregnes ut fra investeringsporteføljens verdi ved hver utbetaling. Kongen kan gi nærmere regler om beregning og utbetaling av årlig alderspensjon fra fripolisen i forskrift.
 
 (6) Før det inngås avtale om utstedelse av fripolise tilordnet egen investeringsportefølje, skal pensjonsinnretningen skriftlig opplyse fripoliseinnehaveren om at:investeringsporteføljen tilordnet fripolisen vil bli forvaltet for fripoliseinnehaverens regning og risiko,pensjonsytelsene bestemmes ut fra verdien av porteføljen på tidspunktet for uttak av pensjon,pensjonsinnretningens ansvar for avkastningsresultatet og verdiutviklingen over tid bortfaller med mindre annet er avtalt, og atpensjonsinnretningen har rett til vederlag som nevnt i fjerde ledd.For hvert forhold det opplyses om etter bokstav a til d skal det samtidig opplyses skriftlig om hvilke vilkår som gjelder for en fripolise som undergis alminnelig forvaltning. Hvis avtalen omfatter kompensasjon etter annet ledd skal det gis skriftlig informasjon om hvordan kompensasjonen er beregnet.
 
-(7) Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko og til å opplyse om eventuelle forhold som tilsier at en avtale om forvaltning av fripolisen i en egen investeringsportefølje ikke vil være i fripoliseinnehaverens interesse. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen i alle tilfelle gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen tilpasset blant annet gjenstående tid til uttak av alderspensjon og størrelsen av midlene knyttet til fripolisen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen gi råd om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift.
+(7) Pensjonsinnretningen har plikt til å kartlegge fripoliseinnehaverens behov og ønske om risiko. Pensjonsinnretningen skal opplyse både om eventuelle forhold som taler for at en avtale om forvaltning av fripolisen i en egen investeringsportefølje vil være i fripoliseinnehaverens interesse, og om eventuelle forhold som taler mot. Før det inngås avtale om utstedelse av fripolise tilordnet en egen investeringsportefølje, skal pensjonsinnretningen gi fripoliseinnehaveren råd om sammensetningen av investeringsporteføljen. Når fripoliseinnehaveren har nådd en alder med få år igjen til uttak av pensjon, skal pensjonsinnretningen informere om risikoreduserende tiltak. En skriftlig sammenfatning av de opplysninger og råd som pensjonsinnretningen gir etter leddet her, skal sendes fripoliseinnehaveren. Kongen kan gi nærmere regler om pliktig informasjon og rådgivning i forskrift.
 
-> Tilføyd ved [lov 14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 sep 2014 iflg. [vedtak 27 juni 2014 nr. 884](forskrift/2014-06-27-884)), endret ved lover [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+> Tilføyd ved [lov 14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 sep 2014 iflg. [vedtak 27 juni 2014 nr. 884](forskrift/2014-06-27-884)), endret ved lover [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
 
 ### § 4-7 b. Investeringsvalg knyttet til utstedte fripoliser
 
@@ -482,11 +482,13 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 
 (2) Det kan fastsettes i regelverket at alderspensjon skal opphøre eller settes ned ved fylte 77 år eller senere, men ikke i noe tilfelle før alderspensjon har vært utbetalt minst i 10 år. Utbetalingstiden for opphørende og livsvarige ytelser kan settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 30 prosent av folketrygdens grunnbeløp. Medlemmet kan kreve at utbetalingstiden for opphørende og livsvarige ytelser settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 50 prosent av folketrygdens grunnbeløp. Medlemmet og pensjonsinnretningen kan avtale at opphørende og livsvarige ytelser settes ned til det antall hele år som er nødvendig for at samlet årlig alderspensjon utgjør om lag 100 prosent av folketrygdens grunnbeløp. Ved omregning etter annet og tredje punktum gjelder [§ 5-6](lov/2000-03-24-16/§5-6) annet ledd annet punktum tilsvarende. Kongen kan i forskrift gi nærmere regler om pliktig informasjon og rådgivning som skal gis før det inngås avtale etter fjerde punktum.
 
-(3) For stillinger med rett til uttak av alderspensjon før 62 år kan det likevel fastsettes i regelverket at pensjonen bare skal løpe fram til, eller settes ned ved, fylte 67 år.
+(3) Krav eller avtale om at utbetalingstiden reduseres som angitt i annet ledd annet til fjerde punktum, må fremsettes eller inngås senest ett år etter at uttak av pensjon startet.
 
-(4) Kongen kan i særlige tilfelle gjøre unntak fra første og annet ledd.
+(4) For stillinger med rett til uttak av alderspensjon før 62 år kan det likevel fastsettes i regelverket at pensjonen bare skal løpe fram til, eller settes ned ved, fylte 67 år.
 
-> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1230](forskrift/2012-12-14-1230)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)). **Endres** ved lov [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
+(5) Kongen kan i særlige tilfelle gjøre unntak fra første og annet ledd.
+
+> Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [14 des 2012 nr. 84](lov/2012-12-14-84) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1230](forskrift/2012-12-14-1230)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)), [7 mai 2026 nr. 16](lov/2026-05-07-16) (i kraft 1 juli 2026 iflg. [forskrift 25 juni 2026 nr. 1341](forskrift/2026-06-25-1341)).
 
 ### § 5-2. Alderspensjonens størrelse
 

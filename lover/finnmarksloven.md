@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2005-11-25"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2026-04-17"
-xml_hash: "66dfc8ebe0f7e0474ca3664e6488214868c985ff1eabde4ff7989db5c281d784"
+xml_hash: "c2c79bc1b1821a06742674892ccf8e02a6e0d61e9f7b30d62b6ba62a0bc23401"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -200,11 +200,11 @@ Finnmarkseiendommen har ikke vern mot at dens rettsstilling eller rettigheter en
 
 ### § 21. Hovedprinsipper for forvaltningen
 
-Finnmarkseiendommen skal forvalte de fornybare ressursene på sin grunn i samsvar med lovens formål og innenfor de rammer som følger av viltloven, lakse- og innlandsfiskloven og annen lovgivning. Naturens mangfold og produktivitet skal bevares.
+Finnmarkseiendommen skal forvalte de fornybare ressursene på sin grunn i samsvar med lovens formål og innenfor de rammer som følger av [viltressursloven](lov/2025-06-20-102), [lakse- og innlandsfiskloven](lov/1992-05-15-47) og annen lovgivning. Naturens mangfold og produktivitet skal bevares.
 
 Reglene i kapittelet her gjelder ikke i den utstrekning annet følger av særlige rettsforhold.
 
-> **Endres** ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
+> Endret ved lov [20 juni 2025 nr. 102](lov/2025-06-20-102) (i kraft 1 juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105)).
 
 ### § 22. Rettigheter for personer bosatt i kommunen
 

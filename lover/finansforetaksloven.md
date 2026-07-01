@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2025-08-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2025-01-09"
-xml_hash: "352a925cf82e8abbaad1eb87695c669780bc008b061442eed892bb9780d77d2e"
+xml_hash: "e59ef3da99933c528f8c66ac3a213d3f1170ed912b0f29ca00e6917c3533838c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -113,13 +113,13 @@ Departementet kan i forskrift fastsette nærmere regler som gjennomfører EØS-r
 
 (2) Som finansieringsvirksomhet regnes:å yte kreditt og stille garantier for egen regning, herunder finansiell leasing,å formidle kreditt og garantier, samt annen medvirkning ved finansiering av annet enn egen virksomhet.
 
-(3) Som finansieringsvirksomhet regnes ikke:virksomhet i offentlig institusjon eller fond som er opprettet for særlige kredittformål,virksomhet i stiftelse som ikke har til formål å drive næringsvirksomhet, eller statsforvalterens forvaltning av finansielle eiendeler etter vergemålsloven,å yte kreditt til, eller stille garantier for, ansatte i foretaket eller foretak i samme konsern som kredittgiver eller garantistiller,å yte kreditt som selger av en vare eller tjeneste. Det samme gjelder kreditt til kjøperen som etter avtale skal ytes av et foretak i samme konsern som selgeren, dersom foretaket finansierer sin kredittvirksomhet ved lån fra finansforetak eller lån fra foretak som inngår i konsernet, med mindre foretaket som yter selgerkreditten også driver annen finansieringsvirksomhet,virksomhet som finansagent eller finansrådgiver,finansiering som bare ytes i enkeltstående tilfeller.
+(3) Som finansieringsvirksomhet regnes ikke:virksomhet i offentlig institusjon eller fond som er opprettet for særlige kredittformål,virksomhet i stiftelse som ikke har til formål å drive næringsvirksomhet, eller statsforvalterens forvaltning av finansielle eiendeler etter vergemålsloven,å yte kreditt til, eller stille garantier for, ansatte i foretaket eller foretak i samme konsern som kredittgiver eller garantistiller,å yte kreditt til, eller stille garantier for, tilknyttet selskap som nevnt i [regnskapsloven § 1-4](lov/1998-07-17-56/§1-4). Unntaket i foregående punktum gjelder ikke dersom foretaket som yter kreditt eller stiller garantier, eller foretak i samme konsern, tar imot tilbakebetalingspliktige midler fra allmennheten.å yte kreditt som selger av en vare eller tjeneste. Det samme gjelder kreditt til kjøperen som etter avtale skal ytes av et foretak i samme konsern som selgeren, dersom foretaket finansierer sin kredittvirksomhet ved lån fra finansforetak eller lån fra foretak som inngår i konsernet, med mindre foretaket som yter selgerkreditten også driver annen finansieringsvirksomhet,virksomhet som finansagent eller finansrådgiver,finansiering som bare ytes i enkeltstående tilfeller.
 
 (4) Unntakene i tredje ledd bokstav d og f gjelder ikke dersom en selger som ikke er forbruker, yter kreditt i forbindelse med salg av bolig som er knyttet til eller skal knyttes til andel i borettslag. Finanstilsynet kan ved enkeltvedtak gjøre unntak fra første punktum.
 
 (5) Departementet kan gi forskrifter som gjør unntak fra, avgrenser eller utfyller bestemmelsene i paragrafen her, herunder fastsette plikter for og regler om tilsyn med foretak som er unntatt fra forbudet i første ledd.
 
-> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+> Endret ved lover [4 des 2015 nr. 96](lov/2015-12-04-96) (ikr. 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)), [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)), [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [6 feb 2026 nr. 2](lov/2026-02-06-2) (i kraft 1 aug 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 2-2. Innskuddsvirksomhet mv.
 
@@ -467,15 +467,15 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (1) Finansforetak som er hjemmehørende utenfor Norge kan etablere datterforetak her i riket etter reglene i [kapittel 7](lov/2015-04-10-17/kap7) og drive virksomhet i henhold til tillatelse etter reglene i [§§ 2-7](lov/2015-04-10-17/§2-7) til [2-18](lov/2015-04-10-17/§2-18), [§ 17-3](lov/2015-04-10-17/§17-3) og [kapittel 3](lov/2015-04-10-17/kap3). Erverv som medfører at finansforetak etablert her i riket blir datterforetak av finansforetak hjemmehørende utenfor Norge, kan bare skje etter tillatelse gitt etter reglene i [§ 17-1](lov/2015-04-10-17/§17-1) første og annet ledd og [§ 17-5](lov/2015-04-10-17/§17-5).
 
-(2) Det utenlandske finansforetaket regnes som morselskap for det norske datterforetaket og bestemmelsene i [§§ 18-3](lov/2015-04-10-17/§18-3) til [18-5](lov/2015-04-10-17/§18-5) gjelder tilsvarende for datterforetaket.
+(2) Det utenlandske finansforetaket regnes som morselskap for det norske datterforetaket og bestemmelsene i [§§ 18-3](lov/2015-04-10-17/§18-3) til [18-5](lov/2015-04-10-17/§18-5) gjelder tilsvarende for datterforetaket. For datterforetak av et utenlandsk finansforetak hjemmehørende i EØS gjelder også [§ 7-1 annet ledd](lov/2015-04-10-17/§7-1/ledd/2), [§ 7-2 annet ledd første punktum](lov/2015-04-10-17/§7-2/ledd/2/setning/1), [§ 8-5](lov/2015-04-10-17/§8-5) og [§ 8-18 annet ledd bokstav a](lov/2015-04-10-17/§8-18/ledd/2/bokstav/a) tilsvarende.
 
 (3) Departementet kan ved forskrift fastsette nærmere regler for virksomhet som drives av datterforetak av finansforetak hjemmehørende i fremmed stat her i riket, herunder gjøre unntak fra bestemmelser i denne loven.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-2. Filial av kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat
 
-(1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,filialens adresse,hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket, og en bekreftelse på at denne personen oppfyller egnethetskravene,hvem som skal inngå i ledelsen av virksomheten ved filialen, og en bekreftelse på at disse personene oppfyller egnethetskravene,en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
+(1) Kredittinstitusjon, forsikringsforetak, betalingsforetak og e-pengeforetak med hovedsete i en annen EØS-stat som har tillatelse og er undergitt tilsyn fra myndighetene i hjemstaten, kan drive virksomhet som foretaket kan drive etter tillatelsen i hjemstaten, gjennom filial her i riket. Filialen kan etableres to måneder etter at Finanstilsynet har mottatt følgende opplysninger fra tilsynsmyndighetene i foretakets hjemstat:en virksomhetsplan som angir hvilke typer av finansielle tjenester virksomheten skal omfatte og filialens organisatoriske oppbygning,en erklæring om at planlagt virksomhet er omfattet av foretakets tillatelse i hjemstaten,filialens adresse,hvem som skal forestå ledelsen av filialen og ha fullmakt til å handle på vegne av foretaket,hvem som skal inngå i ledelsen av virksomheten ved filialen,en erklæring om at finansforetaket oppfyller de krav til ansvarlig kapital som gjelder for foretaket,den garantiordningen som i tilfelle skal gjelde for filialens virksomhet,ytterligere opplysninger som fastsatt i forskrift gitt i medhold av femte ledd.
 
 (2) Finanstilsynet skal innen to måneder etter at opplysningene er mottatt fra tilsynsmyndighetene i foretakets hjemstat, gi foretaket melding om at filialen kan etableres, og gi filialen en oversikt over hvilke regler som vil gjelde for virksomheten her i riket. Foretaket skal registrere filialen i Foretaksregisteret før filialen begynner sin virksomhet.
 
@@ -485,7 +485,7 @@ Departementet kan ved forskrift fastsette nærmere regler om virksomhet som nors
 
 (5) Departementet kan gi forskrift som utfyller eller gjør unntak fra reglene i paragrafen her for ulike typer finansforetak. Departementet kan herunder gi regler om hva slags virksomhet som er omfattet av retten til å drive virksomhet gjennom filial og om hvilke opplysninger Finanstilsynet skal motta fra tilsynsmyndighetene i foretakets hjemstat.
 
-> Endret ved lov [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lover [8 april 2022 nr. 20](lov/2022-04-08-20) (i kraft 1 jan 2023 iflg. [res. 22 juni 2022 nr. 1107](forskrift/2022-06-22-1107)), [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-3. Filial av finansieringsforetak med hovedsete i en annen EØS-stat
 
@@ -553,9 +553,9 @@ Utenlandske finansforetak skal registrere representasjonskontor i Norge hos Fina
 
 ### § 5-9. Megling til utenlandsk forsikringsforetak
 
-Bestemmelsene i [forsikringsformidlingsloven § 5-3](lov/2005-06-10-41/§5-3) om megling av forsikring til utenlandsk forsikringsforetak gjelder tilsvarende for forsikringsforetak.
+Bestemmelsene i [forsikringsformidlingsloven § 8-6](lov/2021-12-22-163/§8-6) om megling av forsikring til utenlandsk forsikringsforetak gjelder tilsvarende for forsikringsforetak.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 5-10. Nasjonalt kontaktpunkt for agenter av utenlandske betalingsforetak og e-pengeforetak
 
@@ -659,13 +659,9 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 ### § 7-5. Krav til stifterne
 
-(1) Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprette, datere og skrive under et stiftelsesdokument som inneholder foretakets vedtekter og oppfyller kravene i [§§ 7-6](lov/2015-04-10-17/§7-6) til [7-8](lov/2015-04-10-17/§7-8).
+Et finansforetak kan stiftes av én eller flere stiftere. Stifterne skal opprette, datere og skrive under et stiftelsesdokument som inneholder foretakets vedtekter og oppfyller kravene i [§§ 7-6](lov/2015-04-10-17/§7-6) til [7-8](lov/2015-04-10-17/§7-8).
 
-(2) Ved stiftelse av finansforetak som ikke organiseres som aksjeselskap eller allmennaksjeselskap, skal minst halvparten av stifterne være bosatt i riket og ha bodd her i de siste to år, med mindre departementet gjør unntak i det enkelte tilfellet. Like med personer som er bosatt i riket, regnes staten og norske kommuner, samt selskaper med begrenset ansvar, foreninger og stiftelser som har sitt vedtektsbestemte sete (forretningskontor) her i riket.
-
-(3) Annet ledd første punktum gjelder ikke for statsborgere i stater som er part i EØS-avtalen når de er bosatt i en slik stat, og heller ikke for juridiske personer som nevnt i [EØS-avtalen artikkel 34](lov/1992-11-27-109/eøsl/a34) annet ledd, som er opprettet i samsvar med lovgivningen i en annen EØS-stat, og som har sitt vedtektsbestemte sete, sin hovedadministrasjon eller sitt hovedkontor i slik stat.
-
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 7-6. Stiftelse av finansforetak som aksjeselskap eller allmennaksjeselskap
 
@@ -781,7 +777,9 @@ Ved avgjørelsen av om tillatelse skal gis etter [§ 6-1 annet ledd](lov/2015-04
 
 (3) Styrelederen i morselskap til finansforetaket kan ikke uten samtykke fra Finanstilsynet være medlem av styret i finansforetaket.
 
-> **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
+(4) Departementet kan pålegge datterforetak i finanskonsern å ha flere styremedlemmer enn minstekravet til antall styremedlemmer, kreve at færre enn tre firedeler av styrets medlemmer kan være ansatt i foretak i konsernet eller medlem av styret i annet foretak i konsernet, samt kreve at styreleder i datterforetak ikke kan være ansatt i morselskapet.
+
+> Endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer).
 
 ### § 8-6. Styrets oppgaver og tilsynsansvar
 
@@ -2269,25 +2267,31 @@ I forskrift gitt med hjemmel i [§ 15-1](lov/2015-04-10-17/§15-1) kan det fasts
 
 > Endret ved lov [16 des 2022 nr. 91](lov/2022-12-16-91) (i kraft 1 juli 2023 iflg. [res. 16 des 2022 nr. 2266](forskrift/2022-12-16-2266)).
 
-### § 16-2. Finansforetaks taushetsplikt, behandling av kundeopplysninger mv.
+### § 16-2. Finansforetaks taushetsplikt, behandling av opplysninger mv.
 
 (1) Et finansforetak plikter å hindre at uvedkommende får adgang eller kjennskap til opplysninger om kunders og andres forretningsmessige eller personlige forhold som foretaket mottar under utøvelsen av virksomheten, med mindre foretaket etter lov eller forskrifter gitt med hjemmel i lov har plikt til å gi opplysninger eller er gitt adgang til å gi ellers taushetspliktbelagte opplysninger. Når særlige hensyn tilsier det, kan Finanstilsynet helt eller delvis oppheve taushetsplikten.
 
-(2) Taushetsplikten etter første ledd er ikke til hinder for at en person som har taushetsplikt etter [§ 9-6](lov/2015-04-10-17/§9-6), gis de opplysninger om kunders forhold som den ansatte eller tillitsvalgte har behov for ved utførelsen av sine arbeidsoppgaver for finansforetaket. Taushetsplikten er heller ikke til hinder for at opplysninger utleveres etter skriftlig samtykke fra den som har krav på taushet.
+(2) Taushetsplikten etter første ledd er ikke til hinder for at en person som har taushetsplikt etter § 9-6, gis de opplysninger om kunders og andres forhold som den ansatte eller tillitsvalgte har behov for ved utøvelsen av sine arbeidsoppgaver for finansforetaket. Taushetsplikten er heller ikke til hinder for at opplysninger utleveres etter skriftlig samtykke fra den som har krav på taushet.
 
-(3) Taushetsplikten etter første ledd er ikke til hinder for at et finansforetak i særlige tilfelle gir et annet finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersom:formålet er å avdekke eller motvirke økonomisk kriminalitet eller annen alvorlig kriminalitet,formålet er å gjennomføre kundeoppdrag og oppgjør av krav fra eller mot kunder, eller annen berettiget ivaretakelse av finansforetakets eller dets kunders interesser, ellerdet er nødvendig å meddele opplysninger om kunders helseforhold og andre personopplysninger til annet finansforetak, unntatt når annet følger av bestemmelser i personopplysningsloven.Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
+(3) Taushetsplikten etter første ledd er ikke til hinder for at et finansforetak i særlige tilfeller gir et annet finansforetak opplysninger som foretaket har mottatt under utøvelsen av virksomheten, dersomformålet er å gjennomføre kundeoppdrag og oppgjør av krav fra eller mot kunder, eller annen berettiget ivaretakelse av finansforetakets eller dets kunders interesser, ellerdet er nødvendig å meddele opplysninger om kunders helseforhold og andre personopplysninger til annet finansforetak, unntatt når annet følger av bestemmelser i [personopplysningsloven](lov/2018-06-15-38).Utlevering av opplysninger etter første punktum kan bare skje i henhold til styrevedtak.
 
-(4) Taushetsplikten etter første ledd er ikke til hinder for utlevering av gjeldsopplysninger i henhold til gjeldsinformasjonsloven.
+(4) Taushetsplikten etter første ledd er ikke til hinder for at finansforetak utleverer opplysninger til andre finansforetak, tilbydere av elektroniske identiteter og tillitstjenester eller til politiet når dette er nødvendig for å forebygge eller avdekke bedragerier eller misbruk av elektroniske identiteter og elektroniske tillitstjenester. Mottaker av opplysningene må ha taushetsplikt om opplysningene, som skal være minst like streng som den som følger av første ledd. Før utlevering skal finansforetaket forsikre seg om at mottaker er underlagt slik taushetsplikt eller aksepterer å bli underlagt slik taushetsplikt. Opplysninger som mottas etter denne bestemmelsen, kan ikke benyttes til andre formål enn det de er utlevert for. Mottatte opplysninger skal slettes så snart opplysningene ikke lenger er nødvendige for formålet, og uansett etter 5 år.
 
-(5) Taushetsplikten etter første ledd er ikke til hinder for utlevering av opplysninger i forbindelse med gjennomføring av betalingstransaksjoner eller ved tilbud av en tjeneste betalingstjenestebrukeren har anmodet om.
+(5) Taushetsplikten etter første ledd er ikke til hinder for at finansforetak i særlige tilfeller utleverer opplysninger som foretaket har mottatt under utøvelsen av virksomheten, til andre finansforetak eller til politiet, dersom formålet er å avdekke eller motvirke økonomisk kriminalitet eller annen alvorlig kriminalitet.
 
-(6) Et finansforetak skal ha kontrollordninger for å sikre at kundeopplysninger blir behandlet på en betryggende måte, og at uvedkommende ikke får tilgang eller kjennskap til opplysningene.
+(6) Taushetsplikten etter første ledd er ikke til hinder for utlevering av gjeldsopplysninger i henhold til [gjeldsinformasjonsloven](lov/2017-06-16-47).
 
-(7) Et finansforetak kan begjære utlevert fra Folkeregisteret opplysning om ektefelle, barn, foreldre, foreldreansvar, opplysninger om vergemål, herunder innholdet av vergemålet og vergens oppdrag, og stadfestet fremtidsfullmakt. Folkeregistermyndigheten kan, uten hinder av taushetsplikt, utlevere opplysningen når det er nødvendig for utførelsen av finansforetakets plikter eller oppgaver hjemlet i denne lov.
+(7) Taushetsplikten etter første ledd er ikke til hinder for utlevering av opplysninger i forbindelse med gjennomføring av betalingstransaksjoner eller ved tilbud av en tjeneste betalingstjenestebrukeren har anmodet om.
 
-(8) Departementet kan gi forskrift om utlevering av opplysninger.
+(8) Et finansforetak skal ha kontrollordninger for å sikre at opplysninger undergitt taushetsplikt blir behandlet på en betryggende måte, og at uvedkommende ikke får tilgang eller kjennskap til opplysningene. Finansforetak kan behandle personopplysninger, også opplysninger omfattet av [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10), når formålet er å forebygge eller avdekke økonomisk kriminalitet og annen alvorlig kriminalitet. Behandling av opplysninger omfattet av [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10) forutsetter at det er nødvendig, og at finansforetakene etablerer særskilte rutiner for behandling av opplysningene og innfører tiltak på et høyt sikkerhetsnivå, jf. [personvernforordningen artikkel 32](lov/2018-06-15-38/gdpr/a32), særlig for å sikre opplysningenes konfidensialitet.
 
-> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+(9) Et finansforetak kan begjære utlevert fra Folkeregisteret opplysning om ektefelle, barn, foreldre, foreldreansvar, opplysninger om vergemål, herunder innholdet av vergemålet og vergens oppdrag, og stadfestet fremtidsfullmakt. Folkeregistermyndigheten kan, uten hinder av taushetsplikt, utlevere opplysningen når det er nødvendig for utførelsen av finansforetakets plikter eller oppgaver hjemlet i denne lov.
+
+(10) Når Finanstilsynet finner det rimelig, og det ikke medfører uforholdsmessig ulempe for andre interesser, kan Finanstilsynet bestemme at et finansforetak kan utlevere opplysninger til bruk for forskning. Finanstilsynet kan fastsette vilkår for adgangen til å utlevere opplysninger for dette formålet. Enhver som utfører tjeneste eller arbeid i forbindelse med et forskningsprosjekt som får utlevert opplysninger etter første punktum, plikter å hindre at andre får adgang eller kjennskap til opplysningene, og opplysningene skal bare brukes til det som er nødvendig for forskningsarbeidet og i samsvar med vilkår fastsatt av Finanstilsynet. Brudd på taushetsplikten etter tredje punktum straffes etter [straffeloven § 209](lov/2005-05-20-28/§209). Ved utlevering av opplysninger etter første punktum skal det opplyses om at brudd på taushetsplikten er straffesanksjonert.
+
+(11) Departementet kan i forskrift gi regler om behandling og utlevering av opplysninger, også opplysninger omfattet av [personvernforordningen artikkel 9](lov/2018-06-15-38/gdpr/a9) og [10](lov/2018-06-15-38/gdpr/a10), herunder om utlevering av opplysninger etter fjerde og femte ledd til andre offentlige og private aktører for å forebygge eller avdekke økonomisk kriminalitet eller annen alvorlig kriminalitet, samarbeidsordninger for informasjonsdeling og utlevering av opplysninger til bruk for forskning.
+
+> Endret ved lover [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [16 juni 2017 nr. 47](lov/2017-06-16-47) (ikr. 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766)), [23 nov 2018 nr. 87](lov/2018-11-23-87) (ikr. 1 apr 2019 iflg. [res. 15 feb 2019 nr. 125](forskrift/2019-02-15-125)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 mai 2020 iflg. [res. 24 april 2020 nr. 870](forskrift/2020-04-24-870)), [31 mars 2023 nr. 5](lov/2023-03-31-5) (i kraft 1 april 2023 iflg. [res. 31 mars 2023 nr. 445](forskrift/2023-03-31-445)), [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 16-3. Behandling av tvister i klageorgan
 
@@ -2785,9 +2789,9 @@ Departementet kan i forskrift fastsette nærmere krav til virksomheten i finansk
 
 (5) Vedtak etter denne paragrafen kan ikke påklages.
 
-(6) Kravet om særskilt samtykke fra låntakeren etter [finansavtaleloven § 45](lov/1999-06-25-46/§45) gjelder ikke ved overdragelse eller pantsettelse av lånefordringer til Bankens sikringsfond ved støttetiltak eller yting av kreditt etter paragrafen her.
+(6) Kravet om særskilt samtykke fra låntakeren etter [finansavtaleloven § 2-13](lov/2020-12-18-146/§2-13) gjelder ikke ved overdragelse eller pantsettelse av lånefordringer til Bankens sikringsfond ved støttetiltak eller yting av kreditt etter paragrafen her.
 
-> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+> Endret ved lover [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), [13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)), [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 19-12. Regress
 
@@ -3545,7 +3549,9 @@ Gjeldsforhandling eller konkurs etter konkursloven kan ikke åpnes i foretak som
 
 (5) Finanstilsynet kan i forskrift eller ved enkeltvedtak fastsette at foretak etablert utenfor EØS som driver virksomhet her i riket, skal betale bidrag til krisetiltaksfondet, og fastsette bidragene.
 
-> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)). **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
+(6) Departementet kan i forskrift fastsette nærmere bestemmelser om at en andel av de årlige bidragene fra foretakene som nevnt i første ledd skal avsettes til å dekke kostnader ved bistand fra Bankenes sikringsfond til Finanstilsynet etter [§ 20-3 tredje ledd](lov/2015-04-10-17/§20-3/ledd/3).
+
+> Tilføyd ved lov [23 mars 2018 nr. 2](lov/2018-03-23-2) (ikr. 1 jan 2019 iflg. [res. 23 mars 2018 nr. 453](forskrift/2018-03-23-453)), endret ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1151](forskrift/2026-06-19-1151)).
 
 ### § 20-52. Bruk av midler
 

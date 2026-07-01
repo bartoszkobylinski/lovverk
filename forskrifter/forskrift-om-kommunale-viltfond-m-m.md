@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2011-06-01"
-last_change_in_force: "2021-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-04-30"
-xml_hash: "e316c6a727ed6b8a57f9ee943036c8d117c15c4057113b7458ddac8ed9727959"
+xml_hash: "d27f9c4eb13b11cf5fd4db3b4902d9f7c548973b190a10dfbcfc21f70172081f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,11 +49,13 @@ Kommunale og fylkeskommunale viltfond: bundne driftsfond som utelukkende kan for
 
 ## § 6. Om fellingsavgifter
 
-Kommuner der det er adgang til jakt etter elg og/eller hjort, skal fastsette og kreve inn fellingsavgift for felte dyr av disse artene. Satsene for fellingsavgifter skal fastsettes av kommunen gjennom vedtak innenfor rammer fastsatt av Kongen jf. [viltloven § 40](lov/1981-05-29-38/§40).
+Kommuner der det er adgang til jakt etter elg og/eller hjort, skal fastsette og kreve inn fellingsavgift for felte dyr av disse artene. Satsene for fellingsavgifter skal fastsettes av kommunen gjennom forskrift innenfor rammer fastsatt av Kongen jf. [viltressursloven § 9](lov/2025-06-20-102/§9).
 
 Fellingsavgiftene skal gjelde for vald som er godkjent av kommunen, selv om valdet omfatter areal i nabokommuner.
 
 Dersom valdet omfatter flere kommuner, skal inntektene årlig fordeles mellom kommunene i samme forhold som fordelingen av tellende areal for vedkommende art.
+
+> Endret ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 7. Tilsyn og kontroll
 

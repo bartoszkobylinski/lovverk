@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2021-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-06-22"
 last_updated: null
-xml_hash: "df06fad8405bd4e40992d123278e7a702f87c005d3ca6ce8eac893792e9569b6"
+xml_hash: "0b63b9fe72f8f48a2ebe14ed03bf1d7d8dada92aee28f164a6a8d8e2788ac597"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -76,7 +76,11 @@ Det kan gis prisnedskriving for egg og eggprodukter etter satser per kg solgt me
 
 Det kan gis prisnedskriving for følgende kjøttprodukter, ferskt eller fryselagret, etter satser per kg solgt mengde:*Svin**Storfe**Lam**Sau*Svin koteletterStorfe mørbradLam – lår m/beinSau grytekjøtt m/beinSvin kam u/beinStorfe 5 %Lam – lår u/beinSau grytekjøtt u/beinSvin nakke m/beinStorfe 14 %Lam – bog m/beinSau indrefiletSvin nakke u/beinLam – bog u/beinSau ytrefiletSvin indrefiletSau 25 %Svin ytrefiletSvin 23 %
 
-> Tilføyd ved forskrift [7 nov 2024 nr. 2700](forskrift/2024-11-07-2700) (i kraft 1 jan 2025).
+Kverning av sorteringer til deig er tillatt. Det er også tillatt å blande sorteringer/deiger, men prisnedskriving gis kun for den andelen av produktet som består av en sortering med sats for prisnedskriving. Dersom blandingen inneholder sorteringer med ulike satser, skal satsen for hver enkelt sortering benyttes for den andelen av produktet som sorteringen utgjør. Ved blanding av sorteringer skal aktøren dokumentere hvilke sorteringer som inngår og hvor stor andel hver sortering utgjør av produktet.
+
+Produktene skal være rene kjøttprodukter, uten andre ingredienser eller tilsetningsstoffer.
+
+> Tilføyd ved forskrift [7 nov 2024 nr. 2700](forskrift/2024-11-07-2700) (i kraft 1 jan 2025), endret ved forskrift [22 juni 2026 nr. 1390](forskrift/2026-06-22-1390).
 
 ## § 6. Satser
 
@@ -92,13 +96,15 @@ Frist for innsending av forslag etter første ledd er 25. august året før det 
 
 Omsetningsrådet fastsetter satsene forskuddsvis en gang per år med grunnlag i satsene foreslått i henhold til første ledd. Satser for prisnedskriving ved salg til spesialmarkeder i perioden 1. januar 2026–31. desember 2026 skal være som følger:Eggkr3,00per kgEggprodukterkr0,00per kgNaturell yoghurtkr5,50per kgHvitostkr33,00per kgSmørkr0,00per kgSvin indrefiletkr0,00per kgSvin ytrefiletkr0,00per kgSvin nakke m/beinkr0,00per kgSvin nakke u/beinkr0,00per kgSvin kam u/beinkr0,00per kgSvin koteletterkr0,00per kgSvin 23 %kr0,00per kgLam lår m/beinkr0,00per kgLam lår u/beinkr0,00per kgLam bog m/beinkr0,00per kgLam bog u/beinkr0,00per kgSau grytekjøtt m/beinkr35,00per kgSau grytekjøtt u/beinkr55,00per kgSau indrefiletkr85,00per kgSau ytrefiletkr75,00per kgSau 25 %kr40,00per kgStorfe mørbradkr0,00per kgStorfe 5 %kr0,00per kgStorfe 14 %kr0,00per kg
 
-> Endret ved forskrifter [25 sep 2020 nr. 3309](forskrift/2020-09-25-3309) (i kraft 1 jan 2021), [14 sep 2021 nr. 2937](forskrift/2021-09-14-2937) (i kraft 1 jan 2022), [6 des 2021 nr. 3416](forskrift/2021-12-06-3416) (i kraft 1 jan 2022), [21 sep 2022 nr. 1665](forskrift/2022-09-21-1665) (i kraft 1 jan 2023), [14 sep 2023 nr. 1920](forskrift/2023-09-14-1920) (i kraft 1 jan 2024), [19 sep 2024 nr. 2636](forskrift/2024-09-19-2636) (i kraft 1 jan 2025), [7 nov 2024 nr. 2700](forskrift/2024-11-07-2700) (i kraft 1 jan 2025), [18 sep 2025 nr. 2581](forskrift/2025-09-18-2581) (i kraft 1 jan 2026).
+> Endret ved forskrifter [25 sep 2020 nr. 3309](forskrift/2020-09-25-3309) (i kraft 1 jan 2021), [14 sep 2021 nr. 2937](forskrift/2021-09-14-2937) (i kraft 1 jan 2022), [6 des 2021 nr. 3416](forskrift/2021-12-06-3416) (i kraft 1 jan 2022), [21 sep 2022 nr. 1665](forskrift/2022-09-21-1665) (i kraft 1 jan 2023), [14 sep 2023 nr. 1920](forskrift/2023-09-14-1920) (i kraft 1 jan 2024), [19 sep 2024 nr. 2636](forskrift/2024-09-19-2636) (i kraft 1 jan 2025), [7 nov 2024 nr. 2700](forskrift/2024-11-07-2700) (i kraft 1 jan 2025), [18 sep 2025 nr. 2581](forskrift/2025-09-18-2581) (i kraft 1 jan 2026). **Endres** ved forskrift [22 juni 2026 nr. 1391](forskrift/2026-06-22-1391) (i kraft 1 jan 2027).
 
 ## § 7. Prognoser
 
 For å motta prisnedskriving ved salg til spesialmarkeder må søker innen 1. september foregående år ha sendt prognose for året det søkes om prisnedskriving for.
 
 Prognosene sendes til Omsetningsrådet og skal inneholde en oversikt over budsjettert salgskvantum neste kalenderår, spesifisert per varetype eller produktgruppe.
+
+> **Endres** ved forskrift [22 juni 2026 nr. 1391](forskrift/2026-06-22-1391) (i kraft 1 jan 2027).
 
 ## § 8. Søknad og frister
 

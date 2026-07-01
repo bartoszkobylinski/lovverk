@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1925-08-14"
-last_change_in_force: "2023-08-25"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-28"
-xml_hash: "1bce3a9bc4579fc4aff068d18675aad1393641e3ad382c095661d6331dbfaa51"
+xml_hash: "9b20270ca88fd1f7e53ecaabd207674b2b59417464047702df7bd7ff067b7f5f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,9 +60,9 @@ På Svalbard skal det være en sysselmester som oppnevnes av Kongen.
 
 Sysselmesteren har samme myndighet som en statsforvalter. Sysselmesteren er også politimester og notarius publicus, så lenge det ikke er særskilte tjenestepersoner i disse stillingene.
 
-På Svalbard er sysselmesteren namsmann og hovedstevnevitne. Veksel- og sjekkprotester tas opp av Sysselmesteren.
+På Svalbard er sysselmesteren namsfogd.
 
-> Endret ved [lover 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)),[7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)),[7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 6
 
@@ -92,7 +92,7 @@ Skjønn i ekspropriasjonssaker avgis av tre skjønnsmedlemmer. Overskjønn avgis
 
 Er saken særlig viktig, kan Kongen etter begjæring av en part bestemme at en skjønnsstyrer som oppnevnes av Kongen og to skjønnsmedlemmer skal avgi skjønnet. Overskjønn avgis i så fall av fem skjønnsmedlemmer og styres av en skjønnsstyrer som Kongen oppnevner.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
 
 ### § 11
 
@@ -102,13 +102,13 @@ Skjønnsmedlemmer og rettsvitner oppnevnes av retten.
 
 De som opnevnes, plikter å ta imot hvervet. Reise- og kostgodtgjørelse kan tilstås efter regler som Kongen fastsetter.
 
-> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 14 juni 1985 nr. 71](lov/1985-06-14-71), [15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 12
 
 På Svalbard kan meldinger om dødsfall etter [arveloven § 89](lov/2019-06-14-21/§89) gis til Sysselmesteren.
 
-> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86), tilføyd igjen ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
+> Opphevet ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86), tilføyd igjen ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), endret ved lover [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021).
 
 ### § 13
 
@@ -120,11 +120,11 @@ Tinglysingsregisteret (grunnboken) for Svalbard er et edb-basert register over t
 
 ### § 14. (Opphevet)
 
-> Endret ved [lov 22 apr 1927 nr. 3](lov/1927-04-22-3), opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Endret ved [lov 22 apr 1927 nr. 3](lov/1927-04-22-3), opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12)).
 
 ### § 15. (Opphevet)
 
-> Opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Opphevet ved [lov 26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12)).
 
 ### § 16. (Opphevet)
 
@@ -396,10 +396,10 @@ Følgende kapitler i kommuneloven gjelder tilsvarende for Longyearbyen lokalstyr
 
 Kongen kan fastsette at personer og selskaper fra stater som står utenfor [Svalbardtraktaten](traktat/1920-02-09-1) skal kunne erhverve bergverksrettigheter, eiendomsrett eller bruksrett til fast eiendom på Svalbard helt eller delvis på samme vilkår som om de hørte hjemme i traktatstatene.
 
-> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), tidligere § 29.
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695), tidligere § 29).
 
 ### § 46
 
 Denne lov trer i kraft fra den tid Kongen fastsetter.1
 
-> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695)), tidligere § 30.
+> Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695), tidligere § 30).

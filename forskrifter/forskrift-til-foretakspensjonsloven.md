@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2001-01-01"
-last_change_in_force: "2024-12-20"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "0e338f5da993b235cce55aa214b235d95a9bcebfec008c308506ba04b2504aae"
+xml_hash: "2a3e8ae3a2a20abacd53adddbc5f6f3c27eead49a1e0aa3217cfd5355dd20101"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -223,6 +223,16 @@ Reglene i dette kapitlet trer i kraft 1. mars 2010.
 (3) For arbeidstaker som er medlem av foretakets pensjonsordning under permittering etter første ledd, gjelder retten til å fortsette forsikringsforholdet etter [forsikringsavtaleloven § 19-7](lov/1989-06-16-69/§19-7) første ledd tilsvarende. Forsikringsselskapet skal sende melding som nevnt i [forsikringsavtaleloven § 19-7](lov/1989-06-16-69/§19-7) første ledd tredje punktum til medlemmene. Fristen i [forsikringsavtaleloven § 19-7](lov/1989-06-16-69/§19-7) første ledd siste punktum gjelder tilsvarende. Ved gjeninntreden i arbeidsforholdet etter permittering har medlemmet rett til å avslutte forsikringsforholdet og få tilbakebetalt uavløpt premie. Det skal ikke stilles krav om ny egenerklæring, arbeidsdyktighetserklæring eller karensperiode ved gjeninntreden i arbeidsforholdet.
 
 > Tilføyd ved forskrift [28 feb 2022 nr. 307](forskrift/2022-02-28-307) (i kraft 1 mars 2022, se endringsforskriften del II for overgangsregler).
+
+## Kapittel 8A. Utfyllende bestemmelser om informasjon til arbeidstaker
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1360](forskrift/2026-06-25-1360) (i kraft 1 juli 2026).
+
+### § 8A-1. Informasjon om reglene om redusert utbetalingstid
+
+Pensjonsinnretningen skal i løpet av det året arbeidstaker fyller 61 år, gi vedkommende informasjon om adgangen etter [foretakspensjonsloven § 5-1 annet ledd](lov/2000-03-24-16/§5-1/ledd/2) til å kreve eller avtale reduksjon av utbetalingstiden for alderspensjon. Første punktum gjelder tilsvarende når pensjonsinnretningen mottar melding etter [foretakspensjonsloven § 5-7 b](lov/2000-03-24-16/§5-7b) om uttak av pensjon før nådd opptjeningsalder.
+
+> Tilføyd ved forskrift [25 juni 2026 nr. 1360](forskrift/2026-06-25-1360) (i kraft 1 juli 2026).
 
 ## Kapittel 9. Ikrafttredelse
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-07-01"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "60f1d8dda4c5d97f764a39caa1882c3a26e10456d1e871f4e1d00013b3802736"
+xml_hash: "ad3b63951814eb3af6b8cdbfab7fe6c3607df6a70b8c15e0a7c04941c0e5ae50"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32022R2554"
@@ -36,11 +36,11 @@ eu_basis:
 
 ## § 2. Forordningens anvendelse på andre foretak
 
-(1) Departementet kan i forskrift fastsette at bestemmelsene i [§ 1](lov/2025-05-27-18/§1) helt eller delvis skal gjelde for:foretak nevnt i DORA-forordningen artikkel 2 nr. 3,finansieringsforetak,låneformidlingsforetak,inkassoforetak,eiendomsmeglingsforetak,morselskap i finanskonsern.
+(1) Departementet kan i forskrift fastsette at bestemmelsene i [§ 1](lov/2025-05-27-18/§1) helt eller delvis skal gjelde for:foretak nevnt i DORA-forordningen artikkel 2 nr. 3,finansieringsforetak,låneformidlingsforetak,inkassoforetak,eiendomsmeglingsforetak,morselskap i finanskonsern,Norsk naturskadepool.
 
 (2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## § 3. Tilsyn mv.
 
@@ -50,9 +50,9 @@ eu_basis:
 
 (3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.
 
-(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorgan i henhold til DORA-forordningen artikkel 26.
+(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorganer i henhold til DORA-forordningen artikkel 26. Departementet kan i forskrift også fastsette bestemmelser om fordeling av myndighetsorganers utgifter knyttet til TLPT mellom foretak som pålegges å gjennomføre slik testing, herunder bestemmelser om innkreving og betaling av slike bidrag til kostnadsdekning. Ilagte bidrag er tvangsgrunnlag for utlegg.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## § 4. Overtredelsesgebyr
 

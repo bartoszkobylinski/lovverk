@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-06-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "850c775726c8209c397bdf106a50b579ec80d074790e7ef8c38a442633c8b5dd"
+xml_hash: "6e2b1b15a1e0e0e08802922019aeefcfecdcd43ba378571a307e2db2be2ef467"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,9 +46,9 @@ Krav om fastlønnstilskudd kan fremmes overfor Helsedirektoratet eller det organ
 
 Dersom kommunen har fått skriftlig melding om tildeling av turnuskandidat, men kandidaten ikke møter, gis likevel fastlønnstilskudd for inntil to måneder.
 
-Fullt fastlønnstilskudd for perioden 1. januar 2025 til 31. desember 2025 er 262 584 kroner.
+Fullt fastlønnstilskudd for perioden 1. januar 2026 til 31. desember 2026 er 274 610 kroner.
 
-> Endret ved [forskrifter 24 juni 2002 nr. 726](forskrift/2002-06-24-726), [19 juni 2003 nr. 723](forskrift/2003-06-19-723), [25 juni 2004 nr. 1037](forskrift/2004-06-25-1037), [21 juni 2005 nr. 667](forskrift/2005-06-21-667), [21 juni 2006 nr. 679](forskrift/2006-06-21-679) (i kraft 1 juli 2006), [12 juni 2007 nr. 606](forskrift/2007-06-12-606) (i kraft 1 juli 2007), [19 juni 2008 nr. 628](forskrift/2008-06-19-628), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [18 juni 2009 nr. 685](forskrift/2009-06-18-685) (i kraft 1 juli 2009), [24 juni 2010 nr. 969](forskrift/2010-06-24-969) (i kraft 1 juli 2010), [24 juni 2011 nr. 679](forskrift/2011-06-24-679) (i kraft 1 juli 2011), [20 juni 2012 nr. 629](forskrift/2012-06-20-629) (i kraft 1 juli 2012), [21 juni 2013 nr. 743](forskrift/2013-06-21-743) (i kraft 1 juli 2013), [20 juni 2014 nr. 813](forskrift/2014-06-20-813) (i kraft 1 juli 2014), [16 juni 2015 nr. 659](forskrift/2015-06-16-659) (i kraft 1 juli 2015), [23 juni 2016 nr. 773](forskrift/2016-06-23-773) (i kraft 1 juli 2016), [14 juni 2017 nr. 743](forskrift/2017-06-14-743) (i kraft 1 juli 2017), [22 juni 2018 nr. 1016](forskrift/2018-06-22-1016) (i kraft 1 juli 2018), [25 juni 2019 nr. 895](forskrift/2019-06-25-895) (i kraft 1 juli 2019), [30 okt 2020 nr. 2208](forskrift/2020-10-30-2208) (i kraft 1 nov 2020), [24 juni 2021 nr. 2179](forskrift/2021-06-24-2179) (i kraft 1 juli 2021), [28 juni 2022 nr. 1225](forskrift/2022-06-28-1225) (i kraft 1 juli 2022), [26 juni 2023 nr. 1097](forskrift/2023-06-26-1097) (i kraft 1 juli 2023), [21 juni 2024 nr. 1163](forskrift/2024-06-21-1163) (i kraft 1 juli 2024), [23 juni 2025 nr. 1291](forskrift/2025-06-23-1291) (i kraft 1 juli 2025). **Endres** ved forskrift [18 juni 2026 nr. 1208](forskrift/2026-06-18-1208) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 24 juni 2002 nr. 726](forskrift/2002-06-24-726), [19 juni 2003 nr. 723](forskrift/2003-06-19-723), [25 juni 2004 nr. 1037](forskrift/2004-06-25-1037), [21 juni 2005 nr. 667](forskrift/2005-06-21-667), [21 juni 2006 nr. 679](forskrift/2006-06-21-679) (i kraft 1 juli 2006), [12 juni 2007 nr. 606](forskrift/2007-06-12-606) (i kraft 1 juli 2007), [19 juni 2008 nr. 628](forskrift/2008-06-19-628), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [18 juni 2009 nr. 685](forskrift/2009-06-18-685) (i kraft 1 juli 2009), [24 juni 2010 nr. 969](forskrift/2010-06-24-969) (i kraft 1 juli 2010), [24 juni 2011 nr. 679](forskrift/2011-06-24-679) (i kraft 1 juli 2011), [20 juni 2012 nr. 629](forskrift/2012-06-20-629) (i kraft 1 juli 2012), [21 juni 2013 nr. 743](forskrift/2013-06-21-743) (i kraft 1 juli 2013), [20 juni 2014 nr. 813](forskrift/2014-06-20-813) (i kraft 1 juli 2014), [16 juni 2015 nr. 659](forskrift/2015-06-16-659) (i kraft 1 juli 2015), [23 juni 2016 nr. 773](forskrift/2016-06-23-773) (i kraft 1 juli 2016), [14 juni 2017 nr. 743](forskrift/2017-06-14-743) (i kraft 1 juli 2017), [22 juni 2018 nr. 1016](forskrift/2018-06-22-1016) (i kraft 1 juli 2018), [25 juni 2019 nr. 895](forskrift/2019-06-25-895) (i kraft 1 juli 2019), [30 okt 2020 nr. 2208](forskrift/2020-10-30-2208) (i kraft 1 nov 2020), [24 juni 2021 nr. 2179](forskrift/2021-06-24-2179) (i kraft 1 juli 2021), [28 juni 2022 nr. 1225](forskrift/2022-06-28-1225) (i kraft 1 juli 2022), [26 juni 2023 nr. 1097](forskrift/2023-06-26-1097) (i kraft 1 juli 2023), [21 juni 2024 nr. 1163](forskrift/2024-06-21-1163) (i kraft 1 juli 2024), [23 juni 2025 nr. 1291](forskrift/2025-06-23-1291) (i kraft 1 juli 2025), [18 juni 2026 nr. 1208](forskrift/2026-06-18-1208) (i kraft 1 juli 2026).
 
 ## § 4. Ikrafttredelse
 

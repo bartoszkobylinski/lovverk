@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2001-03-01"
-last_change_in_force: "2024-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-11-17"
-xml_hash: "78d28bc8f4071e6f480dde2d9d773e1733bf40ceb8eed6d518307b2a32e288e7"
+xml_hash: "043cfd7141b349e011812db5f4b9cae727297767aeb389715b6cd1d401629457"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -308,13 +308,13 @@ Apoteket skal ha rutiner for tilførsel av varer som sikrer rask levering til la
 
 Den alminnelige lagerbeholdningen skal stå i forhold til arten og omfanget av apotekets omsetning. Apoteket skal alltid ha beholdning av forhandlingspliktige varer som jevnlig rekvireres eller etterspørres av leger, tannleger, veterinærer og annet helsepersonell på stedet.
 
-Apotek plikter å gi departementet elektronisk tilgang til opplysninger om lagerstatus ved fare for tilgangen til legemidler i Norge. Departementet kan gi forskrift om gjennomføringen av første punktum.
+Apotek plikter å gi departementet elektronisk tilgang til opplysninger om lagerstatus ved fare for tilgangen til legemidler i Norge. Apotek plikter også å gi departementet informasjon om tilgjengelighet av legemidler og prognoser for etterspørsel av legemidler. Departementet kan gi forskrift om gjennomføringen av første og andre punktum.
 
 Apoteket skal registrere etterspørsel og utlevering av legemidler ved apoteket, slik at leveringsgraden går fram.
 
 Departementet kan gi forskrift om hvilke varer et apotek alltid skal ha på lager og stille minstekrav til leveringsgrad for legemidler og om apotekenes plikter ved mottak av legemidler fra leverandør og om adgangen for apotek til å levere legemidler til hverandre.
 
-> Endret ved lov [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)). **Endres** ved lov [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
+> Endret ved lover [25 juni 2024 nr. 68](lov/2024-06-25-68) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1268](forskrift/2024-06-25-1268)), [19 juni 2026 nr. 44](lov/2026-06-19-44) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1235](forskrift/2026-06-19-1235)).
 
 ### § 5-5. Regnskap og annen virksomhetsregistrering
 

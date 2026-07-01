@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "a3f9a48aa2daa0bf55274b2868a17b2b448107b2c5f733b3fd58f79540ae20ac"
+xml_hash: "ead7baa901a8972f84f50bd5c384452092334d56450f04476411e26c269ac523"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,11 +64,13 @@ Finanstilsynet kan kreve at det legges frem ordinær politiattest etter [politir
 
 ### § 2-3. Statsautorisert regnskapsfører
 
-Finanstilsynet gir godkjenning som statsautorisert regnskapsfører til person som oppfyller vilkårene i [§ 3-1](lov/2022-12-16-90/§3-1) til [§ 3-3](lov/2022-12-16-90/§3-3). Godkjenning som statsautorisert regnskapsfører gis også til person med yrkeskvalifikasjoner fra en annen EØS-stat eller Sveits som oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) og i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) og forskrifter gitt i medhold av [yrkeskvalifikasjonsloven](lov/2017-06-16-69). Godkjenning gis også til personer med yrkeskvalifikasjoner fra Storbritannia som oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) og nærmere regler fastsatt i forskrift til [yrkeskvalifikasjonsloven](lov/2017-06-16-69).
+Finanstilsynet gir godkjenning som statsautorisert regnskapsfører til person som oppfyller vilkårene i [§ 3-1](lov/2022-12-16-90/§3-1) til [§ 3-3](lov/2022-12-16-90/§3-3). Godkjenning som statsautorisert regnskapsfører gis også til person med yrkeskvalifikasjoner fra en annen EØS-stat eller Sveits som oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) og i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) og forskrifter gitt i medhold av [yrkeskvalifikasjonsloven](lov/2017-06-16-69). Godkjenning gis også til personer med yrkeskvalifikasjoner fra Storbritannia som oppfyller vilkårene i [§ 3-3](lov/2022-12-16-90/§3-3) og nærmere regler fastsatt i forskrift til [yrkeskvalifikasjonsloven](lov/2017-06-16-69). Departementet kan i forskrift fastsette at personer fra andre land enn nevnt i dette leddet kan gis godkjenning etter annet eller tredje punktum.
+
+[Yrkeskvalifikasjonsloven § 2 tredje ledd](lov/2017-06-16-69/§2/ledd/3) om yrkesutøver med yrkeskvalifikasjoner fra tredjeland gjelder ikke for personer fra andre land enn de som er omfattet av [regnskapsførerloven § 2-3 første ledd annet](lov/2022-12-16-90/§2-3/ledd/1/setning/2) og [tredje punktum](lov/2022-12-16-90/§2-3/ledd/1/setning/3).
 
 Tittelen statsautorisert regnskapsfører kan bare benyttes av person som har godkjenning etter første ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 2-4. Deponering
 
@@ -110,11 +112,11 @@ Departementet kan i forskrift fastsette nærmere regler om utdanningskrav for go
 
 Søker med bachelorgrad som nevnt i [§ 3-1](lov/2022-12-16-90/§3-1) skal ha minst tre års variert praksis som er relevant for yrkesutøvelsen. Minst to år av praksisen skal gjennomføres i et regnskapsforetak. Søker med mastergrad som nevnt i [§ 3-1](lov/2022-12-16-90/§3-1) skal ha minst to års variert praksis som er relevant for yrkesutøvelsen. Minst ett år av praksisen skal gjennomføres i et regnskapsforetak. Minst ett år av praksisen skal gjennomføres etter at kravene i [§ 3-1](lov/2022-12-16-90/§3-1) første til tredje ledd er oppfylt.
 
-For revisorer som er godkjent etter [revisorloven](lov/2020-11-20-128), likestilles revisjonspraksis med praksis fra et regnskapsforetak etter første ledd. Dette gjelder ikke for godkjente revisorer som har deponert sin godkjenning etter [revisorloven § 3-8](lov/2020-11-20-128/§3-8).
+For revisorer som er godkjent etter [revisorloven](lov/2020-11-20-128), likestilles praksis fra revisjonsforetak med praksis fra et regnskapsforetak etter første ledd. Dette gjelder ikke for godkjente revisorer som har deponert sin godkjenning etter [revisorloven § 3-8](lov/2020-11-20-128/§3-8).
 
 Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 3-3. Vilkår om å være skikket
 

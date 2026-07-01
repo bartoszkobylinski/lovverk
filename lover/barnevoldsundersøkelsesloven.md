@@ -11,18 +11,16 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "88b47e7b685611bb6c307ff6c9928963424fb00ca8453dfd1fb6a29993acb8c5"
+xml_hash: "e18f43e890e28c08a16c40b6dc1744b2a93c85190adc23da548d8948eafeeb94"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om undersøkelser av offentlige virksomheters arbeid i saker om drap, vold, overgrep og omsorgssvikt mot barn (barnevoldsundersøkelsesloven)
-
-- [Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova)](lov/2006-05-19-16).
 
 ## § 1. Lovens formål
 
@@ -154,6 +152,4 @@ Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte
 
 ## § 19. Endringer i andre lover
 
-Fra den tiden loven trer i kraft, gjøres følgende endringer i [lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd](lov/2006-05-19-16):
-
-Lova gjeld ikkje for dokument som blir behandla av Etterretningstenesta etter [etterretningstjenesteloven](lov/2020-06-19-77), eller for straffesaksdokument som blir lånte ut frå politiet til Statens kommisjon for partnardrap eller til Statens helsetilsyn etter [barnevoldsundersøkelsesloven § 9](lov/2026-05-29-20/§9).
+Fra den tiden loven trer i kraft, gjøres følgende endringer i [lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd](lov/2006-05-19-16): – – –

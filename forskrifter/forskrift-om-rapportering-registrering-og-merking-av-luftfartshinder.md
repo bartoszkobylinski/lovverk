@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2014-09-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-01-09"
-xml_hash: "63d0aa25ff5be377ed5399a79b052d060dae9c4ac4293bbccfd815f8dcec5f9f"
+xml_hash: "18aa2e1c1d4efb5cd222058a1ac22882107fd0a5ff4f182d9e8366201c07548a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-26T07:48:15.016944+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -276,11 +276,11 @@ Stag, kabler og andre forankringsanordninger for luftfartshinder skal merkes med
 
 (10) Luftspenn omfattet av forskriftens § 9 (7) skal merkes innen 31. desember 2025.
 
-(11) Eier av luftfartshinder omfattet av forskriftens § 15 (3) plikter å utføre merking av luftfartshinderet innen 31. desember 2027.
+(11) Eier av luftfartshinder omfattet av forskriftens [§ 15 (3)](forskrift/2014-07-15-980/§15/ledd/3) plikter å utføre merking av luftfartshinderet innen 31. desember 2030.
 
-(12) Luftfartshinder omfattet av forskriftens [§ 16 (3)](forskrift/2014-07-15-980/§16/ledd/3) og [§ 16 (4)](forskrift/2014-07-15-980/§16/ledd/4) skal merkes med hinderlys på mellomliggende nivå innen 31. desember 2027.
+(12) Luftfartshinder omfattet av forskriftens [§ 16 (3)](forskrift/2014-07-15-980/§16/ledd/3) og [§ 16 (4)](forskrift/2014-07-15-980/§16/ledd/4) skal merkes med hinderlys på mellomliggende nivå innen 31. desember 2030.
 
-> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026). **Endres** ved forskrift [23 juni 2026 nr. 1255](forskrift/2026-06-23-1255) (i kraft 1 juli 2026).
+> Endret ved forskrifter [16 okt 2020 nr. 2068](forskrift/2020-10-16-2068) (i kraft 1 jan 2023, endringen endret ved forskrift [8 april 2022 nr. 573](forskrift/2022-04-08-573)), [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026), [23 juni 2026 nr. 1255](forskrift/2026-06-23-1255) (i kraft 1 juli 2026).
 
 ## Vedlegg 1. Fargekoder luftfartshinder
 

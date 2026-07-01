@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2012-01-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "a1b5b201919a71eb9b62efa8a4318c6778fb9d31161a1a0164cf25fa1a400a55"
+xml_hash: "299ae9aa245d67606bfb410ce17f9033c1d045e5c72da4af5ec3aa886db625a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -166,11 +166,11 @@ Kommunen skal ha tilbud om nødvendige helse- og omsorgstjenester for barn som e
 
 ### § 3-9 c. Rådgivende enhet for russaker
 
-Kommunen skal ha en rådgivende enhet for russaker. Denne enheten skal ha ansvaret for å møte personer når oppmøte for enheten er satt som vilkår for en bestemt strafferettslig reaksjon, inkludert gjennomføre ruskontroll etter [straffeloven § 37](lov/2005-05-20-28/§37) første ledd bokstav d dersom det er satt som vilkår.
+Kommunen skal ha en rådgivende enhet for russaker. Denne enheten skal ha ansvaret for å møte personer når oppmøte for enheten er satt som vilkår for en bestemt strafferettslig reaksjon.
 
 Departementet kan gi nærmere forskrifter om den rådgivende enheten, blant annet om organisering og tjenestens innhold, inkludert formidling til og samhandling med andre tjenester og om kommunens behandling av opplysninger i slike saker.
 
-> Tilføyd ved lov [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), endret ved lov [3 mai 2024 nr. 20](lov/2024-05-03-20) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3501](forskrift/2024-12-13-3501), tidligere § 3-9b). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Tilføyd ved lov [18 juni 2021 nr. 117](lov/2021-06-18-117) (i kraft 1 juli 2022 iflg. [res. 24 sep 2021 nr. 2837](forskrift/2021-09-24-2837)), endret ved lover [3 mai 2024 nr. 20](lov/2024-05-03-20) (i kraft 1 jan 2025 iflg. [res. 13 des 2024 nr. 3501](forskrift/2024-12-13-3501), tidligere § 3-9b), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)). **Endres** ved lov [20 juni 2025 nr. 83](lov/2025-06-20-83) (i kraft fra den tid Kongen bestemmer).
 
 ### § 3-10. Pasienters og brukeres innflytelse og samarbeid med frivillige organisasjoner
 
@@ -214,7 +214,9 @@ Departementet kan gi forskrift om det nærmere innhold i informasjonsplikten ett
 
 ### § 4-2 b. Om medvirkning
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
+Kommunen eller andre som yter tjenester etter loven her, skal sørge for at pasienten eller brukeren får medvirke ved gjennomføring av helse- og omsorgstjenester etter [pasient- og brukerrettighetsloven § 3-1](lov/1999-07-02-63/§3-1).
+
+> Tilføyd ved lov [19 juni 2026 nr. 42](lov/2026-06-19-42) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1142](forskrift/2026-06-19-1142)).
 
 ## Kapittel 5. Særlige plikter og oppgaver
 
@@ -246,7 +248,7 @@ Politiattesten skal ikke være eldre enn tre måneder.
 
 Plikten til å kreve politiattest omfatter ikke personer som bare sporadisk yter tjenester etter loven her og som i alminnelighet ikke vil være alene med pasienten eller brukeren.
 
-> Endret ved lover [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [17 juni 2016 nr. 49](lov/2016-06-17-49) (ikr. 1 jan 2017 iflg. [res. 9 des 2016 nr. 1460](forskrift/2016-12-09-1460)), [22 juni 2018 nr. 76](lov/2018-06-22-76).
+> Endret ved lover [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132), endring endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [17 juni 2016 nr. 49](lov/2016-06-17-49) (ikr. 1 jan 2017 iflg. [res. 9 des 2016 nr. 1460](forskrift/2016-12-09-1460)), [22 juni 2018 nr. 76](lov/2018-06-22-76).
 
 ### § 5-4 a. Konsekvenser av anmerkninger på en politiattest
 
@@ -262,9 +264,9 @@ Kommunelegen skal være medisinskfaglig rådgiver for kommunen.
 
 ### § 5-6. Brukerrom
 
-Brukerromsordninger etablert i medhold av [brukerromsloven](lov/2004-07-02-64) er å anse som en kommunal helse- og omsorgstjeneste. Kommunen avgjør om den vil etablere en brukerromsordning. Kommunen kan ikke inngå avtale med private om drift av brukerromsordning.
+Brukerromsordninger etablert i medhold av [brukerromsloven](lov/2004-07-02-64) er å anse som en kommunal helse- og omsorgstjeneste. Kommunen avgjør om den vil etablere en brukerromsordning. Kommunen kan ikke inngå avtale med andre private enn ideelle organisasjoner om drift av brukerromsordning.
 
-> Endret ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020). **Endres** ved lov [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
+> Endret ved lover [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020), [19 juni 2026 nr. 43](lov/2026-06-19-43) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1148](forskrift/2026-06-19-1148)).
 
 ### § 5-7. Registrering av meldinger
 
@@ -284,11 +286,9 @@ Bestemmelsene i [helsetilsynsloven § 7](lov/2017-12-15-107/§7) om plikt til å
 
 > Endret ved lover [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
-### § 5-10. Journal- og informasjonssystemer
+### § 5-10. (Opphevet)
 
-Kommunen og virksomhet som har avtale med kommunen om å yte helse- og omsorgstjenester, skal sørge for at journal- og informasjonssystemene i virksomheten er forsvarlige. De skal ta hensyn til behovet for effektiv elektronisk samhandling ved anskaffelse og videreutvikling av sine journal- og informasjonssystemer.
-
-> **Oppheves** ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Opphevet ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 5-11. Veiledningsplikt overfor spesialisthelsetjenesten
 
@@ -366,7 +366,7 @@ Kongen i statsråd kan i forskrift gi nærmere bestemmelser om hvilken kompetans
 
 Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig å kunne foreta omstillinger eller prioriteringer for å bidra til å sikre at den kommunale helse- og omsorgstjenestens kapasitet ikke overskrides, kan departementet gi forskrift om helt eller delvis unntak fra følgende bestemmelser:[§ 7-1](lov/2011-06-24-30/§7-1) om individuell plan[§ 7-2](lov/2011-06-24-30/§7-2) om koordinator[§ 7-2 a](lov/2011-06-24-30/§7-2a) om barnekoordinator.
 
-> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)). **Oppheves** ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026). **Tilføyes** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
+> Tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
 ### § 7-3. Koordinerende enhet
 
@@ -668,11 +668,13 @@ Statsforvalteren skal føre tilsyn med lovligheten av kommunens oppfyllelse av p
 
 > Endret ved lover [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 20 juni 2025 iflg. [res. 20 juni 2025 nr. 1101](forskrift/2025-06-20-1101)).
 
-### § 12-3 a. Varsel om alvorlige hendelser
+### § 12-3 a. Melding og rapport om alvorlige hendelser
 
-Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.
+Virksomheter som er omfattet av loven her, skal snarest mulig og senest innen fem virkedager sende melding til statsforvalteren og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen eller ved at en pasient eller bruker skader en annen, jf. [helsetilsynsloven § 6](lov/2017-12-15-107/§6) og [lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7](lov/2017-06-16-56/§7). Meldeplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko. En kopi av meldingen skal sendes til Statens helsetilsyn.
 
-> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lov [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)). **Endres** ved lov [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
+Virksomheten skal i tillegg oversende en rapport om hendelsen til statsforvalteren innen tre måneder etter at melding er sendt. Rapporten skal blant annet inneholde en gjennomgang av hendelsen og mulige årsaker, hvilke tiltak virksomheten vil sette i verk for at lignende hendelser ikke skal skje igjen, og hvordan pasienten, brukeren, nærmeste pårørende og berørt helsepersonell er fulgt opp og involvert i forbedringsarbeidet.
+
+> Tilføyd ved lov [15 des 2017 nr. 107](lov/2017-12-15-107) (ikr. 1 juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541)), endret ved lover [7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), [20 juni 2025 nr. 74](lov/2025-06-20-74) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 675](forskrift/2026-04-10-675)).
 
 ### § 12-4. Særlige bestemmelser ved opphold i institusjon
 

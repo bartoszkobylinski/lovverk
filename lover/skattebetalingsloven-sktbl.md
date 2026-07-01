@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2009-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "844da44327fc21a040bb808ec663ceec5b1bb586e639c9e23b44f472bf206b5e"
+xml_hash: "6a85951d2b4c5a0139994e3c0222358d947ff108a5c6f0f3d33cd2978c3be8a8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -192,7 +192,7 @@ Forskudd på skatt kan innbetales med høyere beløp enn det som er utskrevet n�
 
 (3) De bestemmelser som blir gitt i medhold av første og annet ledd, kunngjøres på den måten som finnes hensiktsmessig og skal snarest mulig meddeles Stortinget.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1371](forskrift/2007-12-07-1371)), tidligere § 4-7, [20 des 2019 nr. 97](lov/2019-12-20-97) (ikr. 1 nov 2020 iflg. [res. 16 okt 2020 nr. 2060](forskrift/2020-10-16-2060)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1371](forskrift/2007-12-07-1371), tidligere § 4-7), [20 des 2019 nr. 97](lov/2019-12-20-97) (ikr. 1 nov 2020 iflg. [res. 16 okt 2020 nr. 2060](forskrift/2020-10-16-2060)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### Kapittel 5. Forskuddstrekk og skattetrekk
 
@@ -1054,13 +1054,13 @@ Ansvarskrav etter [kapittel 16](lov/2005-06-17-67/kap16), ansvarskrav etter [§ 
 
 (2) Dersom krav som nevnt i første ledd ikke betales til rett tid, kan registreringsmyndigheten nekte på- eller omregistrering i Statens vegvesens motorvognregister.
 
-(3) Kjøretøy som er bestemt stanset i medhold av første ledd, kan avskiltes. Skattekontoret kan be tollmyndighetene, politi, lensmann eller annen offentlig myndighet om å gjennomføre avskiltingen.
+(3) Kjøretøy som er bestemt stanset i medhold av første ledd, kan avskiltes. Skattekontoret kan be tollmyndighetene, politiet eller annen offentlig myndighet om å gjennomføre avskiltingen.
 
 (4) Skattekontorets stansningsrett kan bortfalle ved rettsvinning etter [lov 2. juni 1978 nr. 37 om godtroerverv av løsøre](lov/1978-06-02-37). Dette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter [§§ 16-40](lov/2005-06-17-67/§16-40) og [16-41](lov/2005-06-17-67/§16-41).
 
 (5) Departementet kan i forskrift gi nærmere regler om betaling av gebyr til dekning av utgifter påløpt ved avskiltingen, og om fremgangsmåten for stansning.
 
-> Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [21 des 2020 nr. 166](lov/2020-12-21-166). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [15 des 2006 nr. 85](lov/2006-12-15-85), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2016), [21 des 2020 nr. 166](lov/2020-12-21-166), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
 
 ### Kreditt og sikkerhetsstillelse – merverdiavgift, særavgifter og tollavgift
 

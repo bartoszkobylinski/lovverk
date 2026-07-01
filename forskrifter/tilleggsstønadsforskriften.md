@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "78753b783e2f07e39230f03c2e93b01563e4c1a7abec83377cf5edcf57df5d23"
+xml_hash: "56f01c82b17f02a7a645b281c5166eb1d5e43e9d2d91b9d97fbcaad0b1504ea5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,13 @@ eu_basis: []
 
 ## § 1. Vilkår for stønad
 
-Stønader etter denne forskriften kan gis tilen person med nedsatt arbeidsevne som gjennomfører et arbeidsrettet tiltak og som fyller vilkårene for tilleggsstønad i folketrygdloven § 11A-4 jf. § 11A-3,enslig mor eller far som gjennomfører godkjent utdanning og fyller vilkårene for tilleggsstønad i [folketrygdloven § 15-11](lov/1997-02-28-19/§15-11). Stønad til tilsyn for barn kan også gis til enslig mor eller far som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet,tidligere familiepleier som gjennomfører godkjent utdanning og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-15](lov/1997-02-28-19/§17-15) femte ledd, jf. [§ 15-11](lov/1997-02-28-19/§15-11).gjenlevende ektefelle som gjennomfører godkjent utdanning og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-10](lov/1997-02-28-19/§17-10), jf. [§ 15-11](lov/1997-02-28-19/§15-11). Stønad til tilsyn for barn kan også gis til en gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
+Stønader etter denne forskriften kan gis tilen person med nedsatt arbeidsevne som gjennomfører et arbeidsrettet tiltak og som fyller vilkårene for tilleggsstønad i folketrygdloven § 11A-4 jf. § 11A-3,– – –tidligere familiepleier som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-15 femte ledd](lov/1997-02-28-19/§17-15/ledd/5).gjenlevende ektefelle som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og fyller vilkårene for tilleggsstønad i [folketrygdloven § 17-10a](lov/1997-02-28-19/§17-10a). Stønad til tilsyn for barn kan også gis til en gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
 
 En deltaker på et arbeidsmarkedstiltak som fyller vilkårene for stønad til dekning av reiseutgifter i [arbeidsmarkedsloven § 13](lov/2004-12-10-76/§13) andre ledd, gis stønad til reise etter § 3 i denne forskriften.
 
 En arbeidssøker som uforskyldt ikke får arbeid på hjemstedet, kan etter [arbeidsmarkedsloven § 13](lov/2004-12-10-76/§13) tredje ledd gis stønad til reise og flytting etter § 4 og § 6 i denne forskriften for å fremme sin geografiske mobilitet på arbeidsmarkedet. Stønadene kan også gis til dekning av utgifter til reise og flytting til utlandet.
 
-> Endret ved [forskrifter 13 des 2017 nr. 2098](forskrift/2017-12-13-2098) (i kraft 1 jan 2018), [10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser), [5 nov 2023 nr. 1799](forskrift/2023-11-05-1799), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 13 des 2017 nr. 2098](forskrift/2017-12-13-2098) (i kraft 1 jan 2018), [10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser), [5 nov 2023 nr. 1799](forskrift/2023-11-05-1799), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 2. (Opphevet)
 
@@ -38,11 +38,11 @@ En arbeidssøker som uforskyldt ikke får arbeid på hjemstedet, kan etter [arbe
 
 ## § 3. Stønader til reise
 
-Personer med nedsatt arbeidsevne som deltar på arbeidsrettet tiltak, enslige eller gjenlevende som gjennomfører godkjent utdanning, og deltakere på arbeidsmarkedstiltak som gir rett til reisestønad etter [arbeidsmarkedsloven § 13](lov/2004-12-10-76/§13) andre ledd har krav på stønad til dekning av nødvendige utgifter tildaglige reiser mellom bostedet og stedet der tiltaket eller utdanningen blir gjennomført, dersom reiseavstanden er seks kilometer eller mer hver vei. Personer som på grunn av funksjonshemning, midlertidig skade eller sykdom har et særskilt behov for transport, kan få stønad selv om reiseavstanden er under seks kilometer,reiser til og fra obligatoriske samlinger i forbindelse med et tiltak eller utdanning som er tildelt eller godkjent av Arbeids- og velferdsetaten, dersom reiseavstanden er 30 kilometer eller mer hver vei,reiser til og fra tiltaks- eller utdanningsstedet ved oppstart og avslutning av tiltaket eller utdanningen når personen midlertidig må bo borte fra hjemmet,fire hjemreiser per år når personen midlertidig må bo borte fra hjemmet under deltakelse på tiltaket eller gjennomføring av utdanningen. De som har barn som ikke har fullført fjerde skoleår og som blir igjen på hjemstedet, får stønad til åtte hjemreiser per år. Arbeids- og velferdsetaten kan i særlige tilfeller gi stønad til flere hjemreiser,reiser etter bokstavene c og d for barn under 18 år som flytter med til tiltaks- eller utdanningsstedet.
+Personer med nedsatt arbeidsevne som deltar på arbeidsrettet tiltak, gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), og deltakere på arbeidsmarkedstiltak som gir rett til reisestønad etter [arbeidsmarkedsloven § 13 andre ledd](lov/2004-12-10-76/§13/ledd/2) har krav på stønad til dekning av nødvendige utgifter tildaglige reiser mellom bostedet og stedet der tiltaket eller utdanningen blir gjennomført, dersom reiseavstanden er seks kilometer eller mer hver vei. Personer som på grunn av funksjonshemning, midlertidig skade eller sykdom har et særskilt behov for transport, kan få stønad selv om reiseavstanden er under seks kilometer,reiser til og fra obligatoriske samlinger i forbindelse med et tiltak eller utdanning som er tildelt eller godkjent av Arbeids- og velferdsetaten, dersom reiseavstanden er 30 kilometer eller mer hver vei,reiser til og fra tiltaks- eller utdanningsstedet ved oppstart og avslutning av tiltaket eller utdanningen når personen midlertidig må bo borte fra hjemmet,fire hjemreiser per år når personen midlertidig må bo borte fra hjemmet under deltakelse på tiltaket eller gjennomføring av utdanningen. De som har barn som ikke har fullført fjerde skoleår og som blir igjen på hjemstedet, får stønad til åtte hjemreiser per år. Arbeids- og velferdsetaten kan i særlige tilfeller gi stønad til flere hjemreiser,reiser etter bokstavene c og d for barn under 18 år som flytter med til tiltaks- eller utdanningsstedet.
 
 Det gis også stønad til reiser etter første ledd ved arbeidsrettet utredning i forbindelse med tiltak eller utdanning.
 
-> Endret ved [forskrift 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 4. Stønad til reise for å fremme geografisk mobilitet
 
@@ -66,13 +66,13 @@ Dersom det ikke er praktisk mulig å bruke et rutegående transportmiddel eller 
 
 ## § 6. Stønad til flytting
 
-Personer med nedsatt arbeidsevne som må flytte fra hjemstedet for å delta på et arbeidsrettet tiltak og enslige eller gjenlevende som må flytte fra hjemstedet for å gjennomføre godkjent utdanning har krav på stønad til dekning av nødvendige utgifter til flyttingen.
+Personer med nedsatt arbeidsevne som må flytte fra hjemstedet for å delta på et arbeidsrettet tiltak og gjenlevende som må flytte fra hjemstedet for å gjennomføre godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) har krav på stønad til dekning av nødvendige utgifter til flyttingen.
 
-Personer med nedsatt arbeidsevne og enslige eller gjenlevende som flytter i forbindelse med arbeid etter at det arbeidsrettede tiltaket eller utdanningen er gjennomført kan gis stønad til dekning av nødvendige utgifter til flyttingen. Enslige eller gjenlevende kan i tillegg få stønad til flytting dersom de må flytte fra hjemstedet for å starte i arbeid på et annet sted, se [folketrygdloven § 15-11](lov/1997-02-28-19/§15-11) andre ledd, [§ 17-15](lov/1997-02-28-19/§17-15) femte ledd og [§ 17-10](lov/1997-02-28-19/§17-10).
+Personer med nedsatt arbeidsevne og gjenlevende som flytter i forbindelse med arbeid etter at det arbeidsrettede tiltaket eller utdanningen er gjennomført kan gis stønad til dekning av nødvendige utgifter til flyttingen. Gjenlevende kan i tillegg få stønad til flytting dersom de må flytte fra hjemstedet for å starte i arbeid på et annet sted, se [folketrygdloven § 17-10a](lov/1997-02-28-19/§17-10a) og [§ 17-15 femte ledd](lov/1997-02-28-19/§17-15/ledd/5).
 
 En arbeidssøker som må flytte fra hjemstedet for å starte i arbeid på et annet sted i Norge, Norden eller i EØS-området kan gis stønad til dekning av nødvendige utgifter til flyttingen, jf. [§ 1](forskrift/2015-07-02-867/§1) tredje ledd.
 
-> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 7. Beregning av stønad til flytting
 
@@ -82,11 +82,11 @@ Den som velger å flytte selv, får dekket utgiftene til kjøring med egen bil �
 
 ## § 8. Stønad til bolig eller overnatting
 
-Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og enslige eller gjenlevende som gjennomfører godkjent utdanning, har krav på stønad til dekning av nødvendige merutgifter til bolig eller overnatting som følge av deltakelsen. Det gis også stønad til bolig eller overnatting ved arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning.
+Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), har krav på stønad til dekning av nødvendige merutgifter til bolig eller overnatting som følge av deltakelsen. Det gis også stønad til bolig eller overnatting ved arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning.
 
 Stønaden gis til dekning av deltakerensutgifter til bolig eller overnatting som kommer i tillegg til utgiftene til bolig på hjemstedet ellerutgifter som følger av at boutgiftene på tiltaksstedet er høyere enn på hjemstedet.
 
-> Endret ved [forskrift 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 9. Beregning av stønad til bolig eller overnatting
 
@@ -98,29 +98,29 @@ Det gis ikke stønad til boutgifter til deltakere som har rett til støtte til d
 
 ## § 10. Stønad til tilsyn for barn
 
-Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og enslige eller gjenlevende som gjennomfører godkjent utdanning har krav på stønad til dekning av nødvendige utgifter til tilsyn for barn som ikke har fullført fjerde skoleår. Det kan gis stønad til tilsyn for barn som har fullført fjerde skoleår nårbarnet må ha vesentlig mer pleie og/eller tilsyn enn det som er vanlig for jevnaldrende, ellerpersonen på grunn av det arbeidsrettede tiltaket eller utdanningen må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn en vanlig arbeidsdag.
+Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak, og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), har krav på stønad til dekning av nødvendige utgifter til tilsyn for barn som ikke har fullført fjerde skoleår. Det kan gis stønad til tilsyn for barn som har fullført fjerde skoleår nårbarnet må ha vesentlig mer pleie og/eller tilsyn enn det som er vanlig for jevnaldrende, ellerpersonen på grunn av det arbeidsrettede tiltaket eller utdanningen må være borte fra hjemmet i lengre perioder eller på andre tidspunkter enn en vanlig arbeidsdag.
 
-Det gis også stønad til tilsyn etter første ledd i forbindelse med arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning, og til enslig mor eller far og gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
+Det gis også stønad til tilsyn etter første ledd ved arbeidsrettet utredning i forbindelse med et arbeidsrettet tiltak eller utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), og til gjenlevende ektefelle som er tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker som yrkesrettet aktivitet.
 
 Hvis begge foreldrene deltar på et arbeidsrettet tiltak eller gjennomfører utdanning, gis stønad til tilsyn for barn til en av foreldrene.
 
-> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 11. Beregning av stønad til tilsyn for barn og andre familiemedlemmer
 
-Stønad til barnetilsyn beregnes til 64 prosent av de faktiske tilsynsutgiftene oppad begrenset til de beløp som fastsettes av Stortinget etter [folketrygdloven § 15-10](lov/1997-02-28-19/§15-10) tredje ledd. Månedsbeløpet omregnes til en dagsats.
+Stønad til barnetilsyn beregnes til 64 prosent av de faktiske tilsynsutgiftene oppad begrenset til de beløp som fastsettes av Stortinget etter [folketrygdloven § 17-10 fjerde ledd](lov/1997-02-28-19/§17-10/ledd/4). Månedsbeløpet omregnes til en dagsats.
 
 Før stønaden beregnes etter første ledd, skal månedsbeløpet som er innvilget i kontantstøtte for medlemmets barn trekkes fra de dokumenterte månedlige utgiftene til barnetilsyn. Dette gjelder også når kontantstøtten utbetales til en annen som bor sammen med medlemmet og barnet. Det skal gjøres fradrag for innvilget kontantstøtte selv om medlemmet ikke har søkt om stønad til barnetilsyn for det barnet det utbetales kontantstøtte for.
 
 Arbeids- og velferdsetaten kan kontrollere om det utbetales kontantstøtte som det skal gjøres fradrag for og med hvilket beløp.
 
-> Endret ved [forskrifter 21 des 2015 nr. 1826](forskrift/2015-12-21-1826) (i kraft 1 jan 2016), [13 des 2018 nr. 1913](forskrift/2018-12-13-1913) (i kraft 1 jan 2019), [10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser).
+> Endret ved [forskrifter 21 des 2015 nr. 1826](forskrift/2015-12-21-1826) (i kraft 1 jan 2016), [13 des 2018 nr. 1913](forskrift/2018-12-13-1913) (i kraft 1 jan 2019), [10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [10 des 2019 nr. 1713](forskrift/2019-12-10-1713) (i kraft 1 mars 2020, se endringsforskriften romertall III for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 12. Stønad til læremidler
 
-Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og enslige eller gjenlevende som gjennomfører utdanning og som ikke har rett til gratis læremidler etter annet regelverk, har krav på stønad til nødvendige utgifter til læremidler.
+Personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og gjenlevende som gjennomfører utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c) og som ikke har rett til gratis læremidler etter annet regelverk, har krav på stønad til nødvendige utgifter til læremidler.
 
-> Endret ved [forskrift 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 13. Beregning av stønad til læremidler
 
@@ -146,11 +146,11 @@ Søknad om stønad til reise for å fremme geografisk mobilitet og flytting ette
 
 ## § 16. Klageadgang mv.
 
-For personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og enslige eller gjenlevende som gjennomfører godkjent utdanning som får vedtak iht. [§ 1](forskrift/2015-07-02-867/§1) første ledd gjelder reglene om klage og anke i [folketrygdloven § 21-12](lov/1997-02-28-19/§21-12). For øvrig gjelder de alminnelige saksbehandlingsreglene i [folketrygdloven kapittel 21](lov/1997-02-28-19/kap21).
+For personer med nedsatt arbeidsevne som deltar på et arbeidsrettet tiltak og gjenlevende som gjennomfører godkjent utdanning etter [folketrygdloven § 17-7 første ledd bokstav c](lov/1997-02-28-19/§17-7/ledd/1/bokstav/c), som får vedtak iht. § 1 første ledd gjelder reglene om klage og anke i [folketrygdloven § 21-12](lov/1997-02-28-19/§21-12). For øvrig gjelder de alminnelige saksbehandlingsreglene i [folketrygdloven kapittel 21](lov/1997-02-28-19/kap21).
 
 For en deltaker i et arbeidsmarkedstiltak og en arbeidssøker som får vedtak iht. [§ 1](forskrift/2015-07-02-867/§1) andre og tredje ledd, gjelder reglene om klage i [arbeidsmarkedsloven § 17](lov/2004-12-10-76/§17). For øvrig gjelder de alminnelige saksbehandlingsreglene som følger av [arbeidsmarkedsloven kapittel 6](lov/2004-12-10-76/kap6).
 
-> Endret ved [forskrift 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser).
+> Endret ved [forskrifter 10 des 2019 nr. 1712](forskrift/2019-12-10-1712) (i kraft 1 jan 2020, se endringsforskriften romertall II for overgangsbestemmelser), [25 juni 2026 nr. 1362](forskrift/2026-06-25-1362) (i kraft 1 juli 2026).
 
 ## § 17. Ikrafttredelse mv.
 

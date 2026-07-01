@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1927-07-01"
-last_change_in_force: "2022-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-26"
-xml_hash: "ff957c4b74d4d9e7309fe5473d948b46ec0b07b595b72a9ef77b13e2547da080"
+xml_hash: "7d81a5e1adef59a98784997b6153627dad5f988212be0f68519e0651a7a5a63e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,9 +94,9 @@ Naar en, som ikke er part i en sivil sak maa fremlægge eller gi adgang til skri
 
 ## § 12.
 
-Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følgende måte:Avgjørelser truffet av en domstol kan ankes til overordnet domstol etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27). Avgjørelser truffet av Arbeidsretten og gjenopptakelseskommisjonen kan ikke ankes. Avgjørelser truffet ved norsk konsulrett kan ankes til Borgarting lagmannsrett.Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27).Avgjørelser truffet av en namsmann kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.Avgjørelser truffet av andre organer enn nevnt i nr. 1 til 3 kan påklages til departementet etter reglene i forvaltningsloven.
+Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følgende måte:Avgjørelser truffet av en domstol kan ankes til overordnet domstol etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27). Avgjørelser truffet av Arbeidsretten og gjenopptakelseskommisjonen kan ikke ankes. Avgjørelser truffet ved norsk konsulrett kan ankes til Borgarting lagmannsrett.Avgjørelser truffet av Trygderetten kan ankes til Borgarting lagmannsrett etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27).Avgjørelser truffet av en namsfogd kan påklages til tingretten etter reglene i [tvangsfullbyrdelsesloven § 5-16](lov/1992-06-26-86/§5-16). Avgjørelsen kan påklages selv om fullbyrdelsen er avsluttet. Klagefristen er en måned.Avgjørelser truffet av andre organer enn nevnt i nr. 1 til 3 kan påklages til departementet etter reglene i forvaltningsloven.
 
-> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Opphevet ved lov 29 juni 1956 nr. 11, tilføyd ved lov [29 juni 1990 nr. 47](lov/1990-06-29-47), endret ved lover [8 jan 1993 nr. 20](lov/1993-01-08-20), [23 juni 1995 nr. 34](lov/1995-06-23-34) (ikr. 1 aug 1995), [15 juni 2001 nr. 63](lov/2001-06-15-63) (ikr. 1 jan 2004 iflg. [res. 21 nov 2003 nr. 1359](forskrift/2003-11-21-1359)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
 
 ## Slutningsbestemmelse.
 

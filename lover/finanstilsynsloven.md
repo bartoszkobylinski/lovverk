@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2025-04-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "140aed8b12fe2b370bcb7b6da23e1caa5258abafbe27e526a44fd60dc6084f07"
+xml_hash: "1c69fe4ff8a2d5f8182050de636ecd170c662c3ae9a503f3eeee5d84327c84ed"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32009L0138"
@@ -65,9 +65,9 @@ Finanstilsynets virksomhet etter denne loven skal bidra til finansiell stabilite
 
 (2) Kongen og departementet kan ikke av eget tiltak omgjøre Finanstilsynets vedtak, jf. [forvaltningsloven § 35](lov/1967-02-10/§35), med unntak av saker av prinsipiell eller stor samfunnsmessig betydning.
 
-(3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetanse som krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3).
+(3) Begrensninger i instruksjons- og omgjøringsmyndighet etter første og annet ledd gjelder ikke for Finanstilsynets oppgaver og kompetansesom krisehåndteringsmyndighet som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3)etter [sikkerhetsloven](lov/2018-06-01-24).
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ## Kapittel 2 Organisering av Finanstilsynet
 
@@ -209,7 +209,7 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 ### § 5-1. Finanstilsynsklagenemnda
 
-(1) Klage over vedtak truffet av Finanstilsynet skal behandles av Finanstilsynsklagenemnda. Dette gjelder likevel ikke klage over vedtak som nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) om krisehåndteringsmyndighet eller klage over vedtak etter [gjeldsinformasjonsloven](lov/2017-06-16-47).
+(1) Klage over vedtak truffet av Finanstilsynet skal behandles av Finanstilsynsklagenemnda. Dette gjelder likevel ikke klage over vedtaksom nevnt i [finansforetaksloven § 20-3](lov/2015-04-10-17/§20-3) om krisehåndteringsmyndighetetter [gjeldsinformasjonsloven](lov/2017-06-16-47)etter [sikkerhetsloven](lov/2018-06-01-24).
 
 (2) Finanstilsynsklagenemnda kan ikke instrueres om behandlingen av den enkelte klagesak. Departementets generelle instrukser og instrukser i medhold av [§ 1-4 første ledd](lov/2024-06-21-41/§1-4/ledd/1) rettet mot Finanstilsynet skal legges til grunn av klagenemnda i dens behandling av klagesaker.
 
@@ -219,7 +219,9 @@ Finanstilsynet kan innkalle til møter i styre, kontrollkomité og representants
 
 (5) Departementet kan i forskrift gi regler om Finanstilsynsklagenemndas sammensetning og virksomhet, saksbehandling, sekretariat og finansiering, samt om rapportering om nemndas virksomhet.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+(6) For saker der det er tvil om hvilket forvaltningsorgan som er rett klageinstans, kan departementet i forskrift fastsette hvilket forvaltningsorgan som skal behandle klagen.
+
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 5-2. Søksmål
 

@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2009-07-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "23d24b816fbbd5562de92ba6697a83bd26f5b133a654978f15aeecdc7b2efae9"
+xml_hash: "c2999fade41e721b98965f0b28fc39cefc45a93fec6d8ae2b706c42545d408a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,15 @@ For at tilskudd skal kunne innvilges etter denne forskrift måreinen være frakt
 
 ## § 3. Beregning av tilskudd
 
-For frakt av levende rein og frakt av skrotter i perioden 15. august t.o.m. 31. desember er tilskuddssatsen 50 kroner per dyr.
+For frakt av levende rein i perioden 15. august t.o.m. 31. desember er tilskuddssatsen 65 kroner per dyr.
+
+For frakt av skrotter i perioden 15. august t.o.m. 31. desember er tilskuddssatsen 50 kroner per dyr.
 
 Tilskuddssatsen for frakt av skrott i perioden 1. januar t.o.m. 31. mars er 40 kroner per dyr.
 
 Det kan ikke gis mer enn ett tilskudd per rein.
 
-> Endret ved [forskrifter 19 juni 2012 nr. 597](forskrift/2012-06-19-597), [30 mai 2013 nr. 623](forskrift/2013-05-30-623) (i kraft 1 juli 2013), [21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [20 juni 2019 nr. 850](forskrift/2019-06-20-850) (i kraft 1 juli 2019), [21 juni 2023 nr. 1013](forskrift/2023-06-21-1013) (i kraft 1 juli 2023). **Endres** ved forskrift [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 19 juni 2012 nr. 597](forskrift/2012-06-19-597), [30 mai 2013 nr. 623](forskrift/2013-05-30-623) (i kraft 1 juli 2013), [21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [20 juni 2019 nr. 850](forskrift/2019-06-20-850) (i kraft 1 juli 2019), [21 juni 2023 nr. 1013](forskrift/2023-06-21-1013) (i kraft 1 juli 2023), [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
 
 ## § 4. Krav til søknad
 
@@ -90,9 +92,9 @@ Reindriftsmyndighetene kan rette feil i utbetalt tilskudd, enten ved etterbetali
 
 Dersom tilskuddsmottaker uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknaden som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet, kan hele eller deler av tilskuddet avkortes.
 
-Dersom tilskuddsmottaker i henhold til Reindriftsmyndighetenes vedtak driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, og det er utvist uaktsomhet eller forsett, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
+Dersom tilskuddsmottaker i henhold til reindriftsmyndighetenes vedtak driver eller har drevet sin virksomhet i strid med lover eller forskrifter for reindriftsnæringen, og det er utvist uaktsomhet eller forsett, kan hele eller deler av tilskuddet holdes tilbake inntil forholdet er rettet. Er det ved overtredelsen av slikt regelverk utvist grov uaktsomhet eller forsett, kan hele eller deler av tilskuddet avkortes.
 
-> Endret ved [forskrift 21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016). **Endres** ved forskrift [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 21 juni 2016 nr. 756](forskrift/2016-06-21-756) (i kraft 1 juli 2016), [22 juni 2026 nr. 1176](forskrift/2026-06-22-1176) (i kraft 1 juli 2026).
 
 ## § 9. Innkreving av tilbakebetalings- eller avkortingsbeløp
 

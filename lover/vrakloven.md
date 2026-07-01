@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1894-07-01"
-last_change_in_force: "2023-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-26"
-xml_hash: "30017b3fc433bf74c04b4719ccc73b9ee3f2d6ddd6d74977071ca26056b2de3d"
+xml_hash: "4c8e40922d8602a3533d8bf2b1aad12c8cef4ca51356789a118c792662b06754"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -118,11 +118,9 @@ Gjelder søksmål i samsvar med annet ledd størrelsen av bergelønn, og er eier
 
 ## § 11.
 
-Godtgjørelse og erstatning etter [§§ 1](lov/1893-07-20-2/§1) og 5 fastsettes i lensmannsdistrikter av lensmannen. Over lensmannens avgjørelse kan det klages til politimesteren dersom tvisten gjelder en sum på 100 kroner eller mer eller klageren mener avgjørelsen ikke er lovmessig.
+Vedkommer godtgjørelsen eller erstatningen etter [§§ 1](lov/1893-07-20-2/§1) og [5](lov/1893-07-20-2/§5) skip eller gods, blir den som andre kostnader å dekke av dette. Erstatning for ytelser m.m. til skipbrudne som nevnt i [§ 5](lov/1893-07-20-2/§5) utredes av staten. Det samme gjelder godtgjørelse etter [§ 1](lov/1893-07-20-2/§1) når den ikke kan dekkes av de bergete eller strandete ting.
 
-Vedkommer utgiften skip eller gods, blir den som andre kostnader å dekke av dette. Erstatning for ytelser m.m. til skipbrudne som nevnt i [§ 5](lov/1893-07-20-2/§5) utredes av staten. Det samme gjelder godtgjørelse etter [§ 1](lov/1893-07-20-2/§1), når den ikke kan dekkes av de bergete eller strandete ting.
-
-> Endret ved lover 12 juni 1964 nr. 4, [19 juni 1969 nr. 54](lov/1969-06-19-54), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 12 juni 1964 nr. 4, [19 juni 1969 nr. 54](lov/1969-06-19-54), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 12.
 
@@ -130,15 +128,13 @@ Kongen kan gi forskrifter til utfylling og gjennomføring av reglene i denne lov
 
 > Endret ved lov 12 juni 1964 nr. 4.
 
-## § 13.
+## § 13. (Opphevet)
 
-Politimesterens avgjørelse om godtgjørelse eller erstatning etter denne lovs [§§ 1](lov/1893-07-20-2/§1) og 5 og vedtak i klagesak kan påklages til departementet på det grunnlag at avgjørelsen ikke er lovmessig.
-
-> Endret ved lover 12 juni 1964 nr. 4, 15 des 1967 nr. 2, [19 juni 1969 nr. 54](lov/1969-06-19-54), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)). **Oppheves** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover 12 juni 1964 nr. 4, 15 des 1967 nr. 2, [19 juni 1969 nr. 54](lov/1969-06-19-54), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), opphevet ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## § 14.
 
-Overtredelse av bestemmelsene i [§§ 1](lov/1893-07-20-2/§1), 2 og 5 straffes med bøter.
+Overtredelse av bestemmelsene i [§§ 1](lov/1893-07-20-2/§1), [2](lov/1893-07-20-2/§2) og [5](lov/1893-07-20-2/§5) straffes med bøter.
 
 > Endret ved lover 21 juni 1913 nr. 5, [14 aug 1918 nr. 4 § 2](lov/1918-08-14-4/§2), 12 juni 1964 nr. 4.
 

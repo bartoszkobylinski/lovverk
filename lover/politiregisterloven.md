@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2014-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-28"
-xml_hash: "180a2cce36f4c7b7a59f39562b24729b7018a857ac54fb343d0512b0f38b7e3c"
+xml_hash: "92c05646fb6ca33dd95231bf428e8cd2674ee753d427dec3e0ccefeee6cad6c8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-25T07:39:53.488438+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32016L0680"
@@ -171,9 +171,9 @@ En databehandler kan ikke behandle personopplysninger på annen måte enn den so
 
 I avtalen med den behandlingsansvarlige skal det fremgå at databehandleren plikter å gjennomføre slike sikringstiltak som følger av [§ 15](lov/2010-05-28-16/§15).
 
-Den som er ansatt hos, eller utfører tjeneste eller arbeid for databehandler, og som får tilgang til opplysninger som er underlagt taushetsplikt i henhold til denne loven, skal pålegges taushetsplikt etter [§ 35](lov/2010-05-28-16/§35). En slik plikt skal fremgå av avtalen med den behandlingsansvarlige. Det kan kreves uttømmende og utvidet politiattest av enhver som er ansatt hos eller utfører tjeneste eller arbeid for databehandler. Databehandler plikter å oppgi hvem som får tilgang til de taushetsbelagte opplysningene.
+Den som er ansatt hos, eller utfører tjeneste eller arbeid for databehandler, og som får tilgang til opplysninger som er taushetsbelagt i henhold til denne loven, skal være underlagt taushetsplikt. Omfanget av taushetsplikten skal fremgå av den behandlingsansvarliges avtale med databehandler. Det kan kreves uttømmende og utvidet politiattest av enhver som er ansatt hos eller utfører tjeneste eller arbeid for databehandler. Databehandler plikter på forespørsel å oppgi hvem som får tilgang til de taushetsbelagte opplysningene.
 
-> **Endres** ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
+> Endret ved lov [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ## Kapittel 5. Utlevering og tilgang til opplysninger
 
@@ -289,13 +289,13 @@ Taushetsplikten er ikke til hinder for at opplysninger brukes for statistisk bea
 
 ### § 33. Taushetsplikt ved forskning
 
-Når det finnes rimelig og ikke medfører uforholdmessig ulempe for andre interesser, kan det bestemmes at opplysninger i det enkelte tilfelle gis til bruk for forskning, uten hinder av taushetsplikten i [§ 23](lov/2010-05-28-16/§23).
+Når det finnes rimelig og ikke medfører uforholdsmessig ulempe for andre interesser, kan det bestemmes at opplysninger i det enkelte tilfelle gis til bruk for forskning uten hinder av taushetsplikten i [§ 23](lov/2010-05-28-16/§23).
 
 I straffesaker treffes beslutning etter første ledd av riksadvokaten og for øvrig av Politidirektoratet, eller av Justisdepartementet for så vidt gjelder opplysninger i saker som behandles av Politiets sikkerhetstjeneste.
 
 Bestemmelsene i [forvaltningsloven § 13d](lov/1967-02-10/§13d) annet og tredje ledd og [§ 13e](lov/1967-02-10/§13e) kommer til anvendelse så langt de passer.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 34. Taushetsplikt ved utlevering til allmennheten i straffesak
 

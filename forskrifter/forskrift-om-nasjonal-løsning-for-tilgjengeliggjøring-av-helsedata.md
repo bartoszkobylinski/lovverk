@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2023-01-11"
-last_change_in_force: "2024-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "d0b4d268630b67c9514fbb016efd080e99407981758bfaafa3d1c981785c0e00"
+xml_hash: "0cafe99748e0f52fe1a7ae67b6520e3b5e2b527d1e620accfa58070b2844bfe2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-17T09:00:33.393426+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,11 +72,11 @@ I saker der Folkehelseinstituttet kan ta avgjørelser etter [§ 4](forskrift/202
 
 ## § 7. Dispensasjon fra taushetsplikten
 
-Folkehelseinstituttet kan fatte vedtak etter [helseregisterloven § 19e](lov/2014-06-20-43/§19e) og [helsepersonelloven § 29](lov/1999-07-02-64/§29) om dispensasjon fra taushetsplikten for tilgjengeliggjøring av helseopplysninger. Myndigheten gjelder opplysninger fra registre som er besluttet inkludert i løsningen etter [§ 3](forskrift/2023-01-11-48/§3) eller som skal sammenstilles med opplysninger fra slike registre. Dersom vedtaket krever særlig kjennskap til opplysningene i eller fra et helseregister, skal Folkehelseinstituttet rådføre seg med registerforvalteren for det aktuelle registeret.
+Folkehelseinstituttet kan fatte vedtak etter [helseregisterloven § 19e](lov/2014-06-20-43/§19e) og [helsepersonelloven § 29e](lov/1999-07-02-64/§29e) om dispensasjon fra taushetsplikten for tilgjengeliggjøring av helseopplysninger. Myndigheten gjelder opplysninger fra registre som er besluttet inkludert i løsningen etter [§ 3](forskrift/2023-01-11-48/§3) eller som skal sammenstilles med opplysninger fra slike registre. Dersom vedtaket krever særlig kjennskap til opplysningene i eller fra et helseregister, skal Folkehelseinstituttet rådføre seg med registerforvalteren for det aktuelle registeret.
 
 Søknader etter første ledd fra Folkehelseinstituttet, behandles av Helsedirektoratet.
 
-> Endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024). **Endres** ved forskrift [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
+> Endret ved forskrifter [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [15 juni 2026 nr. 1084](forskrift/2026-06-15-1084) (i kraft 1 juli 2026).
 
 ## § 8. Betaling for tilgjengeliggjøring av opplysninger
 

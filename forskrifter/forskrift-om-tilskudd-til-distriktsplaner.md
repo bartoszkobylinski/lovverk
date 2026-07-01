@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2024-07-01"
-last_change_in_force: "2025-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "07f16e54b0c39f6e0ee423701286de80ea32cbc28e43fb97cc0f53f9636c965a"
+xml_hash: "fd7c7c3ab80bb64eb85c19a42d5eed5cd12846a9e3dbd4db3de4c656ef15d361"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,9 +38,7 @@ Distriktsplan eller reindriftsplan skal være vedtatt senest ett år etter at ti
 
 Det kan innvilges tilskudd på inntil 40 000 kroner til arbeidet med distriktsplan eller reindriftsplan.
 
-For reinbeitedistrikt 16 kan det innvilges tilskudd på inntil 60 000 kroner.
-
-> **Endres** ved forskrift [22 juni 2026 nr. 1180](forskrift/2026-06-22-1180) (i kraft 1 juli 2026).
+> Endret ved forskrift [22 juni 2026 nr. 1180](forskrift/2026-06-22-1180) (i kraft 1 juli 2026).
 
 ## § 4. Krav til søknad
 

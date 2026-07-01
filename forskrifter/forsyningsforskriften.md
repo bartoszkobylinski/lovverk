@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-04-21"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-24"
-xml_hash: "c70529299162349d6462c9cc6b3fa58b22d60ec438b434385abddc7672a0203a"
+xml_hash: "5d503bb5b7384fc1ff1385279af3e6b5d1c387cd49d8e51e3a299e9adbe1f9ec"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,9 +30,9 @@ eu_basis: []
 
 ### § 1-1. Hvilke anskaffelser som er omfattet av forskriften
 
-Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-975/§1-2) inngår vare-, tjeneste- eller bygge- og anleggskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 100 000 kroner ekskl. mva., knyttet til utøvelsen av følgende forsyningsaktiviteter:gass og varme som definert i [§ 1-3](forskrift/2016-08-12-975/§1-3)elektrisitet som definert i [§ 1-4](forskrift/2016-08-12-975/§1-4)drikkevann som definert i [§ 1-5](forskrift/2016-08-12-975/§1-5)transport som definert i [§ 1-6](forskrift/2016-08-12-975/§1-6)havner og lufthavner som definert i [§ 1-7](forskrift/2016-08-12-975/§1-7)post som definert i [§ 1-8](forskrift/2016-08-12-975/§1-8)olje, gass, kull og andre typer fast brensel som definert i [§ 1-9](forskrift/2016-08-12-975/§1-9).
+Forskriften gjelder når oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-975/§1-2) inngår vare-, tjeneste- eller bygge- og anleggskontrakter, eller gjennomfører plan- og designkonkurranser, med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift, knyttet til utøvelsen av følgende forsyningsaktiviteter:gass og varme som definert i [§ 1-3](forskrift/2016-08-12-975/§1-3)elektrisitet som definert i [§ 1-4](forskrift/2016-08-12-975/§1-4)drikkevann som definert i [§ 1-5](forskrift/2016-08-12-975/§1-5)transport som definert i [§ 1-6](forskrift/2016-08-12-975/§1-6)havner og lufthavner som definert i [§ 1-7](forskrift/2016-08-12-975/§1-7)post som definert i [§ 1-8](forskrift/2016-08-12-975/§1-8)olje, gass, kull og andre typer fast brensel som definert i [§ 1-9](forskrift/2016-08-12-975/§1-9).
 
-> **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Endret ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 1-2. Hvem forskriften gjelder for
 
@@ -236,6 +236,8 @@ I forskriften menes med*Doffin:* den norske offisielle databasen for kunngjørin
 
 (2) EØS-terskelverdien er 11,6 millioner kroner ekskl. mva. for kontrakter om særlige tjenester og helse- og sosialtjenester.
 
+(2) EØS-terskelverdien er 10,4 millioner kroner ekskl. mva. for kontrakter om særlige tjenester og helse- og sosialtjenester.
+
 > Endret ved [forskrifter 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), [12 feb 2020 nr. 128](forskrift/2020-02-12-128), [18 mars 2022 nr. 442](forskrift/2022-03-18-442), [14 mars 2024 nr. 449](forskrift/2024-03-14-449), [21 april 2026 nr. 623](forskrift/2026-04-21-623).
 
 ### § 5-3. Beregning av anskaffelsens anslåtte verdi
@@ -364,71 +366,105 @@ Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverand�
 
 > Endret ved [forskrift 19 des 2017 nr. 2247](forskrift/2017-12-19-2247) (i kraft 1 jan 2018).
 
-### § 7-8. Begrensning av antallet ledd i leverandørkjeden
+### § 7-8. (Opphevet)
 
-(1) Oppdragsgivere som nevnt i [§ 1-2](forskrift/2016-08-12-975/§1-2) første ledd bokstav a til d skal stille krav om at leverandørene kan ha maksimalt to ledd i leverandørkjeden under seg når leverandøren skal utføre bygge- og anleggsarbeider eller renholdstjenester som er omfattet av CPV-kode 90910000 (rengjøring) i kontrakter med en anslått verdi som er lik eller overstiger 4,1 millioner kroner ekskl. mva.
+> Endret ved [forskrift 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
-(2) Oppdragsgiveren kan godta flere ledd i leverandørkjeden dersom det er nødvendig for å sikre tilstrekkelig konkurranse. Det maksimale antallet ledd oppdragsgiveren kan godta, skal angis i anskaffelsesdokumentene. Etter at kontrakten er inngått, kan oppdragsgiveren godta flere ledd dersom det på grunn av uforutsette omstendigheter er nødvendig for å få gjennomført kontrakten.
+### § 7-9. Klima- og miljøhensyn
 
-> Endret ved [forskrift 4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) Oppdragsgiver skal ta hensyn til klima og miljø i alle anskaffelser for å redusere anskaffelsens samlede klimaavtrykk og miljøbelastning.
 
-### § 7-9. Klima- og miljøhensyn i offentlige anskaffelser
+(2) I kunngjøringspliktige anskaffelser skal oppdragsgiver som vekter tildelingskriteriene, vekte klima- og miljøhensyn med minimum tretti prosent. Hvis oppdragsgiver angir tildelingskriteriene i prioritert rekkefølge, skal klima- og miljøhensyn være blant de tre høyest prioriterte. Tildelingskriterier etter første og andre punktum kan erstattes eller kombineres med klima- og miljøkrav i kravspesifikasjonen dersom dette gir en bedre klima- eller miljøeffekt. Dette skal begrunnes i anskaffelsesdokumentene.
 
-(1) Krav og kriterier etter denne bestemmelsen skal ha som mål å redusere anskaffelsens samlede klimaavtrykk eller miljøbelastning.
+(3) Forpliktelsene etter første og andre ledd gjelder ikke dersom anskaffelsen etter sin art har et uvesentlig klimaavtrykk og miljøbelastning, eller dersom forpliktelsene går på bekostning av vesentlige interesser innenfor helse, sikkerhet eller beredskap. Dette skal begrunnes i anskaffelsesdokumentene.
 
-(2) Oppdragsgiver skal vekte klima- og miljøhensyn med minimum tretti prosent.
+(4) Forpliktelsene etter første og andre ledd gjelder heller ikke dersom oppdragsgiver med hjemmel i [anskaffelsesloven](lov/2016-06-17-73) er pålagt å stille standardiserte minimumskrav eller -kriterier til klimaavtrykk eller miljøbelastning. Kravene eller kriteriene må gjelde hovedytelsen som anskaffes.
 
-(3) Der oppdragsgiver angir tildelingskriteriene i prioritert rekkefølge, bør klima- og miljøhensyn være blant de tre høyest prioriterte.
+> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrifter [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024), [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
-(4) Tildelingskriterier etter andre og tredje ledd kan erstattes med klima- og miljøkrav i kravspesifikasjonen, dersom det er klart at dette gir en bedre klima- og miljøeffekt og dette begrunnes i anskaffelsesdokumentene. Dersom oppdragsgiver ikke prioriterer i tråd med tredje ledd, skal det stilles klima- og miljøkrav i kravspesifikasjonen, og dette skal begrunnes i anskaffelsesdokumentene.
+### § 7-10. (Opphevet)
 
-(5) Forpliktelsen til å stille krav eller kriterier etter denne bestemmelsen gjelder ikke dersom anskaffelsen etter sin art har et klimaavtrykk og en miljøbelastning som er uvesentlig og dette begrunnes i anskaffelsesdokumentene.
-
-> Tilføyd ved [forskrift 20 april 2017 nr. 484](forskrift/2017-04-20-484) (i kraft 1 mai 2017), endret ved forskrift [1 aug 2023 nr. 1305](forskrift/2023-08-01-1305) (i kraft 1 jan 2024). **Endres** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
-
-### § 7-10. Krav til kontraktsvilkår om betaling via bank eller foretak med rett til å drive betalingsformidling
-
-(1) Oppdragsgivere som nevnt i § 1-2 bokstav a til d skal stille kontraktsvilkår med tilhørende sanksjoner om at lønn og annen godtgjørelse til leverandørens ansatte, ansatte hos underleverandører og innleide som direkte medvirker i forbindelse med utførelsen av bygge- og anleggsarbeider eller renholdstjenester som er omfattet av CPV-kode 90910000 (rengjøring), skal utbetales via bank eller annet foretak med rett til å drive betalingsformidling. Alle avtaler leverandøren inngår for utføring av arbeid under denne kontrakten, skal inneholde tilsvarende bestemmelser. Kravet gjelder for kontrakter med en anslått verdi som er lik eller overstiger 4,5 millioner kroner ekskl. mva.
-
-(2) Oppdragsgiver skal gjennomføre nødvendig kontroll av om kontraktsvilkår i henhold til første ledd overholdes.
-
-(3) Leverandøren og eventuelle underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår som nevnt i første ledd.
-
-(4) Unntak for andre betalingsmåter i medhold av [skatteloven § 6-51](lov/1999-03-26-14/§6-51) tredje ledd gjelder så langt det passer.
-
-(5) For utbetaling av lønn gjelder unntakene i [arbeidsmiljøloven § 14-15](lov/2005-06-17-62/§14-15) annet ledd så langt de passer.
-
-(6) [Personopplysningsloven](lov/2018-06-15-38) gjelder for behandlingen av opplysningene hvis ikke annet er bestemt.
-
-> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024). **Oppheves** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+> Tilføyd ved forskrift [29 aug 2023 nr. 1368](forskrift/2023-08-29-1368) (i kraft 1 jan 2024), opphevet ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-11. Kontraktsvilkår om lønns- og arbeidsvilkår
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) I tjeneste- og bygge- og anleggskontrakter skal oppdragsgivere som nevnt i [§ 1-2 første ledd bokstav a](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/a) til [d](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/d) stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, minst har:lønns- og arbeidsvilkår som er i samsvar med gjeldende forskrifter om allmenngjort tariffavtale gitt med hjemmel i [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler § 5](lov/1993-06-04-58/§5), ellerlønns- og arbeidsvilkår som er i samsvar med bestemmelser om arbeidstid, lønn, herunder overtidstillegg, skift- og turnustillegg og ulempetillegg, og dekning av utgifter til reise, kost og losji i en gjeldende landsomfattende tariffavtale for den aktuelle bransje.
+
+(2) Kravet gjelder når kontraktens verdi er lik eller overstiger verdien for kunngjøringsplikt for vare- og tjenestekontrakter som angitt i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).
+
+(3) Oppdragsgiver skal i kontrakten kreve at leverandør og underleverandører på forespørsel dokumenterer overholdelse av kontraktsvilkåret.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-12. Kontraktsvilkår om lønns- og arbeidsvilkår i bygge-, anleggs- og renholdskontrakter
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) I bygge- og anleggskontrakter og kontrakter om renholdstjenester skal oppdragsgivere som nevnt i [§ 1-2 første ledd bokstav a](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/a) til [d](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/d) stille kontraktsvilkår om at ansatte og innleide hos leverandør og underleverandører som direkte medvirker til å oppfylle kontrakten, har følgende:obligatorisk tjenestepensjon i samsvar med [lov om obligatorisk tjenestepensjon](lov/2005-12-21-124)HMS-kort i samsvar med krav til HMS-kort fastsatt i forskrifter gitt med hjemmel i [arbeidsmiljøloven §§ 1-4](lov/2005-06-17-62/§1-4) og [4-1](lov/2005-06-17-62/§4-1) om HMS-kort på bygge- og anleggsplasser og godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester.
+
+(2) I bygge- og anleggskontrakter skal oppdragsgiver i tillegg stille kontraktsvilkår om informasjonsplikt og språkferdigheter i samsvar med krav om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser fastsatt i forskrift gitt med hjemmel i [arbeidsmiljøloven §§ 1-4](lov/2005-06-17-62/§1-4) og [4-1](lov/2005-06-17-62/§4-1) om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser.
+
+(3) Kravet gjelder når kontraktens verdi er lik eller overstiger verdien for kunngjøringsplikt for vare- og tjenestekontrakter som angitt i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).
+
+(4) Oppdragsgiver skal i kontrakten kreve at leverandør og underleverandører på forespørsel dokumenterer overholdelse av kontraktsvilkårene.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-13. Kontraktsvilkår om betaling av lønn og annen godtgjørelse via bank eller annet foretak med rett til å drive betalingsformidling
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) I kontrakter om utførelse av bygge- og anleggsarbeider eller renholdstjenester skal oppdragsgivere som nevnt i [§ 1-2 første ledd bokstav a](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/a) til [d](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/d) stille kontraktsvilkår om at lønn og annen godtgjørelse skal utbetales via bank eller annet foretak med rett til å drive betalingsformidling. Kravet gjelder utbetalinger til ansatte og innleide som direkte medvirker i utførelsen av arbeidet eller tjenesten.
+
+(2) Kravet gjelder når kontraktens verdi er lik eller overstiger verdien for kunngjøringsplikt for vare- og tjenestekontrakter som angitt i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).
+
+(3) Oppdragsgiver skal stille kontraktsvilkår om at leverandør og underleverandører på forespørsel dokumenterer overholdelse av kontraktsvilkåret.
+
+(4) Alle avtaler leverandøren inngår om utføring av arbeid under kontrakten, skal inneholde tilsvarende bestemmelser.
+
+(5) Unntaket for andre betalingsmåter i medhold av [skatteloven § 6-51 tredje ledd](lov/1999-03-26-14/§6-51/ledd/3) gjelder så langt det passer.
+
+(6) Unntaket i [arbeidsmiljøloven § 14-15 annet ledd](lov/2005-06-17-62/§14-15/ledd/2) gjelder så langt det passer.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-14. Kontraktsvilkår om bruk av lærlinger
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) I tjenestekontrakter og kontrakter om bygge- og anleggsarbeider skal oppdragsgivere som nevnt i [§ 1-2 første ledd bokstav a](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/a) til [d](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/d) stille kontraktsvilkår om at leverandør er tilknyttet en lærlingordning. Oppdragsgiver skal også stille kontraktsvilkår om at minst ti prosent av arbeidet utføres av lærlinger, og at minst én av dem som deltar i arbeidet med å oppfylle kontrakten, skal være lærling.
+
+(2) Kravene etter første ledd gjelder når følgende vilkår er oppfylt:Kontraktens verdi er lik eller overstiger verdien for kunngjøringsplikt for vare- og tjenestekontrakter som angitt i [anskaffelsesforskriften § 5-3](forskrift/2016-08-12-974/§5-3).Kontrakten har en varighet på over tre måneder.Kontraktens hovedelement omfatter arbeider der det er relevant å benytte arbeidskraft med fag- eller svennebrev.Det er et særlig behov for læreplasser. Med dette menes at underdekningen på læreplasser er mer enn ti prosent av søkertallet til læreplasser innenfor et utdanningsprogram.
+
+(3) Utenlandske leverandører kan oppfylle kontraktsvilkåret ved å benytte lærling fra en lærlingordning i opprinnelseslandet. Dersom opprinnelseslandet ikke har en lærlingordning, kan kontraktsvilkåret oppfylles ved å benytte praksiselev fra en opplæringsordning i opprinnelseslandet.
+
+(4) Kravene etter første ledd gjelder ikke når et slikt kontraktsvilkår er uforholdsmessig sett hen til kontraktens innhold, omfanget av arbeidet der det er relevant å benytte arbeidskraft med fag- eller svennebrev, eller av andre grunner.
+
+(5) Kontraktsvilkåret er oppfylt dersom en leverandør som er tilknyttet en lærlingordning, kan dokumentere ett av følgende forhold:at det er gjort reelle forsøk på å inngå kontrakt med lærling uten å lykkesat lærlingen ikke kan benyttes i kontraktsarbeidet på grunn av forhold med lærlingen, og reelle forsøk på å inngå kontrakt med ny lærling ikke har lykkes.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-15. Krav til kontroll
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) Oppdragsgiver skal føre nødvendig kontroll av at kontraktsvilkårene som nevnt i §§ 7-11 første ledd, 7-12 første ledd, 7-13 og 7-14 overholdes. Risikovurderingen og etterfølgende dokumentasjonskontroll skal dokumenteres.
+
+(2) Leverandører og underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår tilknyttet bestemmelsene som nevnt i §§ 7-11 til 7-13.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-16. Tilsyn med krav til lønns- og arbeidsvilkår
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) Arbeidstilsynet fører innenfor sitt myndighetsområde tilsyn med at pliktene etter §§ 7-11, 7-12 og 7-15 overholdes. Tilsynet gir pålegg og treffer enkeltvedtak som er nødvendige for gjennomføring av bestemmelsen. [Arbeidsmiljøloven §§ 18-4](lov/2005-06-17-62/§18-4), [18-5](lov/2005-06-17-62/§18-5), [18-6](lov/2005-06-17-62/§18-6) første, andre, sjette, sjuende og åttende ledd samt [§§ 18-7](lov/2005-06-17-62/§18-7), [18-8](lov/2005-06-17-62/§18-8), [18-10](lov/2005-06-17-62/§18-10), [18-10 a](lov/2005-06-17-62/§18-10a), [18-12](lov/2005-06-17-62/§18-12) og [18-13](lov/2005-06-17-62/§18-13) får tilsvarende anvendelse.
+
+(2) Havindustritilsynet har innenfor sitt myndighetsområde tilsvarende tilsynsansvar og myndighet.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-17. Kontraktsvilkår om begrensning i antall ledd i leverandørkjeden
 
-> **Tilføyes** ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
+(1) Oppdragsgivere som nevnt i [§ 1-2 første ledd bokstav a](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/a) til [d](forskrift/2016-08-12-975/§1-2/ledd/1/bokstav/d) skal stille kontraktsvilkår om at leverandør ikke har mer enn to ledd i leverandørkjeden under seg når leverandøren skal utføre bygge- og anleggsarbeider eller renholdstjenester.
+
+(2) Kravet gjelder når kontraktens verdi er lik eller overstiger verdien for kunngjøringsplikt som angitt i [forsyningsforskriften § 5-2 første ledd bokstav a](forskrift/2016-08-12-975/§5-2/ledd/1/bokstav/a).
+
+(3) Oppdragsgiver kan åpne for flere ledd i leverandørkjeden dersom det er nødvendig for å sikre tilstrekkelig konkurranse. Det maksimale antallet ledd skal angis i kontrakten.
+
+(4) Etter at kontrakt er inngått, kan oppdragsgiver godta flere ledd dersom det på grunn av uforutsette omstendigheter er nødvendig for å få gjennomført kontrakten.
+
+> Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ## Del II. Anskaffelser over EØS-terskelverdiene
 

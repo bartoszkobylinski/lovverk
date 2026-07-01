@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-12-01"
 last_change_in_force: "2026-01-21"
 last_updated: "2021-01-19"
-xml_hash: "0bbfbde3666d5513a37f60e78facf25a2c394df750e675dbbd723f53f56ff54d"
+xml_hash: "8ceb3002a02a9a763a41ff494410b6dda3aec50aba5a5ae8368d9902bf5c74de"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,7 +56,7 @@ Endringer i opptakskrav som er av betydning for søkernes valg av grunnlag for o
 
 Andre endringer må vedtas og kunngjøres innen 1. oktober året før studiestart.
 
-> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 des 2023), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 des 2023), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 1-6. Kvoter
 
@@ -70,7 +70,7 @@ Søkere med utenlandsk utdanning, søkere som søker opptak på grunnlag av real
 
 Dekanen ved det enkelte fakultet har ansvar for at slik vurdering blir foretatt.
 
-> Endret ved forskrifter [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 1-8. Realkompetanse
 
@@ -82,7 +82,7 @@ Dekanen ved det enkelte fakultet har ansvar for at slik vurdering blir foretatt.
 
 4. Denne regel gjelder ikke dersom søkeren er kvalifisert til vedkommende studieprogram eller emne etter andre regler.
 
-> Endret ved forskrift [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-14).
+> Endret ved forskrift [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-14). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 1-9. Tidlig opptak
 
@@ -90,7 +90,7 @@ Dekanen ved det enkelte fakultet har ansvar for at slik vurdering blir foretatt.
 
 2. Søkere til studier med lokalt opptak til høstsemesteret kan gis tidlig opptak dersom de på søknadstidspunktet fyller opptakskravene, kan poengberegnes og har en konkurransepoengsum som ligger over medianen fra fjorårets opptak.
 
-> Endret ved forskrifter [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-11).
+> Endret ved forskrifter [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-11). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 1-10. Reservert studieplass
 
@@ -114,7 +114,7 @@ Styret kan gjøre vedtak om trekk av studium dersom det ikke er nok kvalifiserte
 
 4. Klager på enkeltvedtak i forbindelse med opptak til studium eller emner som ikke inngår i Samordna opptak, blir behandlet av Nemnd for studentsaker ved Universitetet i Stavanger, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1).
 
-> Endret ved forskrifter [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ## Kapittel II – Opptak til grunnutdanninger
 
@@ -128,7 +128,7 @@ For enkelte studieprogram med spesiell tilrettelegging – Y-vei, kan det gis un
 
 Søkere rangeres følgende:Søkere rangeres etter karaktersnitt på den utdanningen som kvalifiserer for opptak.Søkere med høy poengsum rangeres foran søkere med lav poengsum.Har søkerne fremdeles like mange poeng skal de rangeres etter alder hvor eldre søkere går foran yngre søkere.
 
-> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 2-3. Opptak til 2.–5. studieår
 
@@ -141,7 +141,7 @@ Til enkelte studier kan det gis opptak til 2.–5. studieår. Dekan kan gi nærm
 1. Minstekrav for opptak til 1-årig studieprogram i norsk språk og kultur er generell studiekompetanse med følgende unntak:Søkere må dokumentere A2 nivå (trinn 1) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 2 og 3.Søkere må dokumentere B1 nivå (trinn 2) eller tilsvarende i norsk, både skriftlig og muntlig, for å kvalifisere til opptak til nivå 3 og 4.Søkere med generell studiekompetanse der norskkravet er dekket, vil ikke få tilbud om studieplass på dette studieprogrammet.
 2. Søkerne rangeres følgende:Søkere til nivå 2 og 3 blir rangert etter følgende kriterier:Søkere bosatt i Norge uten høyere akademisk utdanningSøkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategorien 4)Søkere fra land der det ikke kreves visum og som ikke har høyere utdanningSøkere bosatt i Norge med utdanning tilsvarende mastergradSøkere fra land der det ikke kreves visum og som har høyere utdanningAndre søkere.Søkere til nivå 3 og 4 blir rangert etter følgende kriterier:Søkere bosatt i Norge med utdanning tilsvarende mastergradSøkere fra land der det ikke kreves visum og som har høyere utdanningSøkere bosatt i Norge uten høyere utdanning tilsvarende mastergrad (obs: Studenter som holder på med masterstudier på dette tidspunktet plasseres i kategori 1)Søkere bosatt i Norge uten høyere akademisk utdanningSøkere fra land der det ikke kreves visum og som ikke har høyere utdanningAndre søkere.Ved lik rangering rangeres søkerne på bakgrunn av loddtrekning.
 
-> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ## Kapittel III – Opptak til masterstudier og videreutdanning
 
@@ -152,7 +152,7 @@ Til enkelte studier kan det gis opptak til 2.–5. studieår. Dekan kan gi nærm
 3. Dekan avgjør hva som anses som relevant yrkespraksis. Dekan kan og fastsette krav om lengre praksis erfaringsbasert mastergrad etter [universitets- og høyskoleforskriften § 2-7](forskrift/2024-06-28-1392/§2-7).
 4. Søkere må dokumentere at krav om norsk og engelsk er oppfylt, jf. [Forskrift om opptak til høgare utdanning §§ 2-1](forskrift/2017-01-06-13/§2-1) til [2-4](forskrift/2017-01-06-13/§2-4).Kravene til norskkunnskaper gjelder ikke for søkere som skal tas opp til engelskspråklige masterstudier, og studenter som deltar i internasjonale utvekslingsprogram.
 
-> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 3-2. Engelskkrav for søkere med utenlandsk utdanningsbakgrunn
 
@@ -162,7 +162,7 @@ Følgende test fra GSU-listen vil ikke dekke engelskkravetThe University of Camb
 
 Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:Bestått engelsk i norsk videregående skole (140 årstimer / 5 uketimer) med karakterer lavere enn 4.Fullført en mastergrad undervist på engelsk utenfor nordiske land.Fullført en universitetsgrad i engelsk språk og litteratur, der engelsk har et omfang på minst 60 ECTS eller tilsvarende.
 
-> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [11 nov 2020 nr. 3255](forskrift/2020-11-11-3255), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026), [8 jan 2026 nr. 16](forskrift/2026-01-08-16) (i kraft 21 jan 2026).
+> Endret ved forskrifter [11 des 2019 nr. 1982](forskrift/2019-12-11-1982) (med virkning for opptak fra og med våren 2020), [11 nov 2020 nr. 3255](forskrift/2020-11-11-3255), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026), [8 jan 2026 nr. 16](forskrift/2026-01-08-16) (i kraft 21 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 3-3. Rangering av søkere med norsk utdanningsbakgrunn
 
@@ -182,7 +182,7 @@ Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:Bestått engelsk 
 
 8. Utdanningsutvalget kan fastsette egne omregningsskalaer for andre tall- eller bokstavkarakterer fra eldre utdanninger.
 
-> Endret ved forskrifter [2 des 2021 nr. 3551](forskrift/2021-12-02-3551), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [2 des 2021 nr. 3551](forskrift/2021-12-02-3551), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 3-4. Rangering av søkere med utenlandsk utdanningsbakgrunn
 
@@ -212,7 +212,7 @@ Søkerne må også dokumentere nødvendige norsk- og engelskkunnskaper i henhold
 
 I tillegg gjelder eventuelle krav fastsatt i utfyllende regler for opptak til praktisk-pedagogisk utdanning (PPU) allmennfag og yrkesfag.
 
-> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 4-2. Rangering for søkere til praktisk-pedagogisk utdanning i allmennfag
 
@@ -224,6 +224,8 @@ Fullført grad fra universitet eller høgskoleHøyeste grad går foran.Søkere m
 
 Søkere prioriteres etter ansiennitetYrkeserfaringen skal være relevant innenfor søkers fagbakgrunn.Yrkespraksis regnes fra etter fullført fagbrev/høyere utdanning.Ved lik ansiennitet avgjøres det ved loddtrekning.
 
+> **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
+
 ## Kapittel V – Opptak til enkeltemner
 
 ### § 5-1. Opptakskrav
@@ -232,7 +234,7 @@ Opptakskravet til enkeltemner fremgår av emnebeskrivelsen.
 
 For opptak til emner på masternivå følger språkkrav som fastsatt i [§ 3-1 fjerde ledd](forskrift/2018-10-18-1671/§3-1/ledd/4) og [§ 3-2](forskrift/2018-10-18-1671/§3-2).
 
-> Endret ved forskrifter [28 okt 2024 nr. 3749](forskrift/2024-10-28-3749) (i kraft 1 aug 2025), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [28 okt 2024 nr. 3749](forskrift/2024-10-28-3749) (i kraft 1 aug 2025), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 5-2. Rangering
 
@@ -240,7 +242,7 @@ For åpne emner vil alle kvalifiserte søkere få tilbud.
 
 For emner med plassbegrensning vil søkerne rangeres etter søknadstidspunkt dersom ikke annet er vedtatt av dekan.
 
-> Endret ved forskrift [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023).
+> Endret ved forskrift [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ## Kapittel VI – Opptak til forkurs og realfagkurs
 
@@ -252,19 +254,21 @@ Som minstekrav for opptak gjelder reglene i forskrift om opptak til høyere utda
 
 Søkere med fullført og bestått fagskoleutdanning i tekniske fag etter lov om fagskoler av 2003 vil også være kvalifisert for opptak. Utdanningen må være normert til 2 års fulltidsutdanning og godkjent av NOKUT.
 
+> **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
+
 ### § 6-2. Rangering til realfagskurs
 
 For søkere med generell studiekompetanse gjelder regler for poengberegning og rangering som beskrevet i forskrift om opptak til høgre utdanning.
 
 Søkere med vitnemål fra godkjent fagskole vurderes skjønnsmessig.
 
-> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrift [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 6-3. Opptakskrav til 1-årig forkurs for ingeniørutdanning
 
 Minstekrav for opptak er en av følgende:Fullført og bestått alle fag ved GK/VG1 og VK1/VG2 (+ ev. VK2/VG3) i yrkesfaglige studieretninger i norsk eller nordisk videregående skole.Fagbrev eller svenneprøve fra norsk eller nordiske land.
 
-> Endret ved forskrift [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023).
+> Endret ved forskrift [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 6-4. Rangering til 1-årig forkurs for ingeniørutdanning
 
@@ -276,7 +280,7 @@ Søkerne rangeres etter summen av karakterpoeng, praksispoeng og tilleggspoeng.
 
 Søkere det ikke er mulig å regne poeng på, vil rangeres etter skjønnsmessig vurdering.
 
-> Endret ved forskrifter [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026).
+> Endret ved forskrifter [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ## Kapittel VII – Øvrige bestemmelser
 

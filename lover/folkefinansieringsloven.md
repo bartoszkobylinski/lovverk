@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2026-08-01"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "a9fe3a97bd3b2fc58112697df107d18c9d2ee29f8bfa638ff8f6031a37bab92b"
+xml_hash: "f102ff17f1f9856607926480fbae9e7558f46c9243c3a1b3f955898a4ecce01d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-23T07:44:24.925655+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32020R1503"
@@ -34,7 +34,7 @@ eu_basis:
 
 ### § 1-1. Gjennomføring av folkefinansieringsforordningen
 
-(1) Forordning [(EU) 2020/1503](eu/32020r1503) om europeiske tilbydere av folkefinansieringstjenester til næringsvirksomhet og om endring av forordning [(EU) 2017/1129](eu/32017r1129) og direktiv [(EU) 2019/1937](eu/32019l1937) ([folkefinansieringsforordningen](eu/32020r1503)), som inntatt i [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29bd,1 gjelder som lov. Forordningen gjelder med tilpasningene som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
+(1) Forordning [(EU) 2020/1503](eu/32020r1503) om europeiske tilbydere av folkefinansieringstjenester til næringsvirksomhet og om endring av forordning [(EU) 2017/1129](eu/32017r1129) og direktiv [(EU) 2019/1937](eu/32019l1937) (folkefinansieringsforordningen), som inntatt i [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bl, gjelder som lov. Forordningen gjelder med tilpasningene som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
 (2) Når det i loven her vises til [folkefinansieringsforordningen](eu/32020r1503), menes forordningen slik den er gjennomført i første ledd.
 
@@ -42,7 +42,7 @@ eu_basis:
 
 (4) Departementet kan i forskrift gi nærmere regler om ikke-samarbeidsvillige jurisdiksjoner som nevnt i [folkefinansieringsforordningen](eu/32020r1503) artikkel 5.
 
-> **Endres** ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
+> Endret ved lov [19 juni 2026 nr. 39](lov/2026-06-19-39) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1154](forskrift/2026-06-19-1154)).
 
 ### § 1-2. Virkeområde
 

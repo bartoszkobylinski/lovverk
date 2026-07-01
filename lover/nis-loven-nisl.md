@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "1987-07-01"
-last_change_in_force: "2022-12-20"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-16"
-xml_hash: "a0a931760c1b0fa66f677be4e007291ac50035081b83195b11e8d2990d9eed99"
+xml_hash: "4aa84fec55f03431359f180daac6ce2559023b29258fbe7b69aefb869b6a9ab3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,11 +98,11 @@ Arbeidstid utover alminnelig arbeidstid skal godtgjøres som fastsatt i avtale m
 
 ### § 8. Skipsarbeidsloven
 
-Bestemmelsene i [skipsarbeidsloven § 3-1](lov/2013-06-21-102/§3-1) fjerde ledd, [§§ 3-3](lov/2013-06-21-102/§3-3) til [3-8](lov/2013-06-21-102/§3-8), [§ 4-2](lov/2013-06-21-102/§4-2) tredje ledd, [§ 4-6](lov/2013-06-21-102/§4-6) første ledd bokstav a, [§ 5-2](lov/2013-06-21-102/§5-2) første ledd annet punktum og annet og tredje ledd, [§ 5-3](lov/2013-06-21-102/§5-3) annet ledd og tredje ledd bokstav a til d, [§ 5-4](lov/2013-06-21-102/§5-4), [§ 5-6](lov/2013-06-21-102/§5-6) annet ledd, [§ 5-7](lov/2013-06-21-102/§5-7), [§ 5-9](lov/2013-06-21-102/§5-9), [§ 5-10](lov/2013-06-21-102/§5-10), [§ 5-12](lov/2013-06-21-102/§5-12), [§ 5 A-2](lov/2013-06-21-102/§5a-2), [§§ 6-1](lov/2013-06-21-102/§6-1) til [6-3](lov/2013-06-21-102/§6-3), [§ 7-2](lov/2013-06-21-102/§7-2), [§ 7-3](lov/2013-06-21-102/§7-3), [§§ 7-5](lov/2013-06-21-102/§7-5) til [7-12](lov/2013-06-21-102/§7-12), [§ 8-4](lov/2013-06-21-102/§8-4) og [§ 11-2](lov/2013-06-21-102/§11-2) kan fravikes i tariffavtale.
+Bestemmelsene i [skipsarbeidsloven §§ 3-3](lov/2013-06-21-102/§3-3) til [3-8](lov/2013-06-21-102/§3-8), [§ 4-2 tredje ledd](lov/2013-06-21-102/§4-2/ledd/3), [§ 4-6 første ledd bokstav a](lov/2013-06-21-102/§4-6/ledd/1/bokstav/a), [§ 5-2 første ledd annet punktum](lov/2013-06-21-102/§5-2/ledd/1/setning/2) og [annet](lov/2013-06-21-102/§5-2/ledd/2) og [tredje ledd](lov/2013-06-21-102/§5-2/ledd/3), [§ 5-3 annet ledd](lov/2013-06-21-102/§5-3/ledd/2) og [tredje ledd bokstav a](lov/2013-06-21-102/§5-3/ledd/3/bokstav/a) til [d](lov/2013-06-21-102/§5-3/ledd/3/bokstav/d), [§ 5-4](lov/2013-06-21-102/§5-4), [§ 5-6 annet ledd](lov/2013-06-21-102/§5-6/ledd/2), [§ 5-7](lov/2013-06-21-102/§5-7), [§ 5-9](lov/2013-06-21-102/§5-9), [§ 5-10](lov/2013-06-21-102/§5-10), [§ 5-12](lov/2013-06-21-102/§5-12), [§ 5 A-2](lov/2013-06-21-102/§5A-2), [§§ 6-1](lov/2013-06-21-102/§6-1) til [6-3](lov/2013-06-21-102/§6-3), [§ 7-2](lov/2013-06-21-102/§7-2), [§ 7-3](lov/2013-06-21-102/§7-3), [§§ 7-5](lov/2013-06-21-102/§7-5) til [7-12](lov/2013-06-21-102/§7-12), [§ 8-4](lov/2013-06-21-102/§8-4) og [§ 11-2](lov/2013-06-21-102/§11-2) kan fravikes i tariffavtale.
 
 Utgifter ved forhyring og mønstring skal bæres av rederi eller annen arbeidsgiver.
 
-> Endret ved [lover 31 mai 1991 nr. 20](lov/1991-05-31-20), [18 juni 1993 nr. 108](lov/1993-06-18-108), [8 des 1995 nr. 65](lov/1995-12-08-65), [21 juni 2013 nr. 102](lov/2013-06-21-102) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [14 juni 2019 nr. 22](lov/2019-06-14-22) (ikr. 1 aug 2019 iflg. [res. 14 juni 2019 nr. 726](forskrift/2019-06-14-726)). **Endres** ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
+> Endret ved [lover 31 mai 1991 nr. 20](lov/1991-05-31-20), [18 juni 1993 nr. 108](lov/1993-06-18-108), [8 des 1995 nr. 65](lov/1995-12-08-65), [21 juni 2013 nr. 102](lov/2013-06-21-102) (ikr. 20 aug 2013 iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [14 juni 2019 nr. 22](lov/2019-06-14-22) (ikr. 1 aug 2019 iflg. [res. 14 juni 2019 nr. 726](forskrift/2019-06-14-726)), [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
 ## Kap. III. Forskrifter, straff, slettelse mv.
 

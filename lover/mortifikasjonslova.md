@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "1961-01-01"
-last_change_in_force: "2013-07-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-27"
-xml_hash: "f4f4aa3d44107292928621628942107bf53bb33b27ed9f0be0db7eb2d5580307"
+xml_hash: "54f944ccfcb665dde41fa71cc197126ee8e98a6ad964035e46776d4c8f700698"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,9 @@ Eit kupongark, med eller utan talong, kan verta mortifisert saman med dokumentet
 
 ## § 4.
 
-Krav om mortifikasjon som høyrer under norsk domstol, lyt søkjaren bera fram for Brønnøy tingrett.
+Krav om mortifikasjon som høyrer under norsk domstol, lyt søkjaren bera fram for Helgeland tingrett.
 
-> Endra med [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endra med [lover 24 aug 1990 nr. 54](lov/1990-08-24-54), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endra med lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ## § 5.
 
@@ -56,7 +56,7 @@ Munnleg kravsmål om mortifikasjon skal domaren skriva ned og skriva under saman
 
 Domaren kan påleggja søkjaren å få til vegar fleire opplysningar og jamvel kalla inn søkjaren og andre som truleg kan gjeva opplysningar, til å møta i retten og gjeva munnleg utgreiing. Reglane i [tvisteloven](lov/2005-06-17-90) om opptak av prov i rettssak, gjeld då på tilsvarande måte så langt dei høver.
 
-> Endra med [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endra med [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## § 7.
 
@@ -74,7 +74,7 @@ Har ingen rettshavar etter dokumentet meldt seg når fristen i [§ 7](lov/1959-1
 
 Melder nokon seg før fristen er ute og gjer motmæle mot at dokumentet vert mortifisert, skal saka overførast til ein annan domstol i samsvar med vernetingsreglane i [tvisteloven §§ 4-4](lov/2005-06-17-90/§4-4), [4-5](lov/2005-06-17-90/§4-5) og [4-7](lov/2005-06-17-90/§4-7) og deretter halde fram etter dei vanlege reglane i tvisteloven.
 
-> Endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
+> Endra med [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [20 juni 2008 nr. 46](lov/2008-06-20-46) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 619](forskrift/2008-06-20-619)).
 
 ## § 9.
 
@@ -108,7 +108,7 @@ Nøgnare reglar om trygdegjeving etter denne paragrafen kan Kongen fastsetja.
 
 [Paragraf 200 i lova om domstolane](lov/1915-08-13-5/§200) gjeld på tilsvarande måte når ein domar har føre kravsmål om mortifikasjon etter denne lova.
 
-> Endra med [lover 9 mars 1962 nr. 1](lov/1962-03-09-1), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endra med [lover 9 mars 1962 nr. 1](lov/1962-03-09-1), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endra med [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ## § 15.
 

@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "49e21267727ffc33833644a4e434b669657caa129720fe18402208a4ccbe813a"
+xml_hash: "57a4d868270e281c79b1b9dede3117f71edfc1787338ee37a9281738d9b39de8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,13 +44,13 @@ Institusjonen kan bare godkjennes dersom den viloppfylle krav i [barnevernsloven
 
 Tett geografisk konsentrasjon av institusjoner kan inngå som et moment i vurderingen av om institusjonen kan gi barn forsvarlig omsorg og behandling.
 
-Dersom særlige hensyn tilsier det kan institusjoner som ikke oppfyller alle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt vilkår stilt i eller med hjemmel i annen lovgivning, gis midlertidig godkjenning. Slik godkjenning kan bare gis dersom det er forsvarlig ut fra hensynet til barna og institusjonen ellers kan drives på forsvarlig måte. Midlertidig godkjenning kan bare gis én gang for en periode inntil seks måneder. Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for å ivareta ansvaret for omsorgssentre for enslige mindreårige asylsøkere etter [barnevernsloven § 11-1](lov/2021-06-18-97/§11-1), kan midlertidig godkjenning gis for en periode på inntil tolv måneder.
+Dersom særlige hensyn tilsier det kan institusjoner som ikke oppfyller alle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt vilkår stilt i eller med hjemmel i annen lovgivning, gis midlertidig godkjenning. Slik godkjenning kan bare gis dersom det er forsvarlig ut fra hensynet til barna og institusjonen ellers kan drives på forsvarlig måte. Midlertidig godkjenning kan bare gis én gang for en periode inntil seks måneder.
 
 Institusjonen kan bestå av flere avdelinger. Dersom en institusjonsavdeling utfører selvstendige faglige og administrative oppgaver, må den ha egen godkjenning.
 
 Ny godkjenning kreves ved omlegging og utvidelse av institusjonens virksomhet og ved flytting av institusjonen.
 
-> Endret ved forskrift [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026). **Endres** ved forskrift 22 des 2022 nr. 2474 (i kraft 1 juli 2026, se § 16 annet ledd).
+> Endret ved forskrifter [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026), 22 des 2022 nr. 2474 (i kraft 1 juli 2026, se § 16 annet ledd).
 
 ### § 4. Godkjenningsmyndighet og klageinstans
 

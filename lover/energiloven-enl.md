@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Energidepartementet"
 date_in_force: "1991-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2024-01-01"
-xml_hash: "0c02816f5ae21c909cbeba38d5fa3b679bd4019897674fe48842c147e1c3ddf2"
+xml_hash: "abe64e46014a9e2beede65a1d7a81ce980b8cd693fb3525b9373e84b1b112885"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
   - "32010L0031"
@@ -121,9 +121,7 @@ Reglene om innsigelse i [plan- og bygningsloven §§ 5-4](lov/2008-06-27-71/§5-
 
 Behandlingen av en søknad etter denne loven kan utsettes i påvente av en energiutredning etter forskrift fastsatt i medhold av [§ 7-1](lov/1990-06-29-50/§7-1).
 
-[Behandlingen av en søknad etter denne lov kan utsettes i påvente av en energiplan etter [§ 7-1](lov/1990-06-29-50/§7-1).]1
-
-> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-2), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-1). **Endres** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344), tidligere § 2-2), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447)), [11 jan 2013 nr. 5](lov/2013-01-11-5) (ikr. 15 jan 2013 iflg. [res. 11 jan 2013 nr. 21](forskrift/2013-01-11-21)), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), tidligere § 2-1), [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ### § 2-3. (Mangelfull melding eller søknad)
 
@@ -259,7 +257,17 @@ Departementet kan gi forskrifter om utpeking av konsesjonær etter [§§ 3-1](lo
 
 ### § 3-8. (Vedtak om prioritering av uttakskunde av hensyn til nasjonale sikkerhetsinteresser)
 
-> **Tilføyes** ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
+Når det er nødvendig for å ivareta nasjonale sikkerhetsinteresser, kan Kongen fatte vedtak om at konsesjonærer etter [kapittel 3](lov/1990-06-29-50/kap3) skal prioritere nettilknytning eller kapasitetsøkning for en bestemt uttakskunde.
+
+Vedtaket skal utformes slik at det medfører minst mulig ulempe for tredjeparter. Tilknyttede kunder kan ikke fratas kapasitet som er tatt i bruk.
+
+Før det fattes vedtak, skal departementet innhente rådgivende uttalelser fra andre relevante departementer med vurdering av behovet for prioritering av den aktuelle uttakskunden. Vedtak kan fattes uten hensyn til bestemmelser i [energiloven](lov/1990-06-29-50) med forskrifter, konsesjoner og konsesjonsvilkår.
+
+Vedtak etter første ledd er særlig tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13).
+
+Kongen kan gi forskrift om prioritering av nettilknytning eller kapasitetsøkning, til utfylling og gjennomføring av bestemmelsen.
+
+> Tilføyd ved lov [19 juni 2026 nr. 37](lov/2026-06-19-37) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1147](forskrift/2026-06-19-1147)).
 
 ## Kap. 4. Omsetning av elektrisk energi
 
@@ -499,7 +507,7 @@ Plikten til å skaffe fjernvarme faller bort i tilfelle krig, streik, lockout, e
 
 Konsesjonæren plikter å treffe midlertidig tiltak for i størst mulig utstrekning å avbøte skader og ulemper ved stans i leveringene når dette er mulig.
 
-> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896), endring endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27)).
 
 ### § 5-5. (Pris)
 
@@ -511,7 +519,7 @@ Enhver som er pålagt å tilknytte seg fjernvarmeanlegg etter plan- og [bygnings
 
 Når tilknytningsplikt til fjernvarmeanlegg er pålagt i medhold av plan- og [bygningsloven § 27-5](lov/2008-06-27-71/§27-5), skal abonnenten betale tilknytningsavgift og fast årlig avgift uavhengig av om fjernvarme nyttes eller ikke.
 
-> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896)) som endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
+> Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2010 iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896), endring endret ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27)).
 
 ### § 5-6. (Forhandlingsplikt)
 
@@ -791,7 +799,7 @@ Blir pålegg etter [kapittel 9](lov/1990-06-29-50/kap9) ikke etterkommet innen d
 
 Tvangsmulkt og utgifter til utføring av pålegg er tvangsgrunnlag for utlegg.
 
-> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-3), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)).
+> Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-3), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [18 des 2020 nr. 157](lov/2020-12-18-157) (ikr. 1 juli 2021 iflg. [res. 4 juni 2021 nr. 1778](forskrift/2021-06-04-1778)).
 
 ### § 10-4. (Omgjøring)
 

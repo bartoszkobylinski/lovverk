@@ -9,15 +9,16 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2013-08-20"
-last_change_in_force: "2023-10-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-08-10"
-xml_hash: "7fff122d925f75698ed7f238fc18e7be098dde5faa6ed928064282951557ef94"
+xml_hash: "55a1e3a0b224665108dd1956771507f109a40cf7209ae20441c1631c36ba6bf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis:
+  - "32019L1152"
   - "32009L0013"
 ---
 
@@ -107,7 +108,7 @@ Med arbeidsgiveren menes i denne lov den som har ansatt arbeidstaker for arbeid 
 
 ### § 3-1. Krav om skriftlig arbeidsavtale
 
-(1) Det skal inngås skriftlig arbeidsavtale mellom arbeidsgiver og arbeidstaker. Den skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet.
+(1) Det skal inngås skriftlig arbeidsavtale mellom arbeidsgiver og arbeidstaker. Avtalen skal inneholde opplysninger om forhold av vesentlig betydning i arbeidsforholdet. Dersom det ikke fremgår av arbeidsavtalen at arbeidsforholdet er midlertidig, jf. [§ 3-4 første ledd](lov/2013-06-21-102/§3-4/ledd/1), skal det legges til grunn at arbeidstakeren har fast ansettelse, dersom ikke noe annet gjøres overveiende sannsynlig. Dersom stillingsomfanget ikke fremgår av arbeidsavtalen, skal arbeidstakerens påstand om stillingsomfang legges til grunn dersom ikke noe annet gjøres overveiende sannsynlig.
 
 (2) Skriftlig arbeidsavtale skal foreligge snarest mulig, og senest ved tiltredelse av tjenesten om bord.
 
@@ -115,15 +116,17 @@ Med arbeidsgiveren menes i denne lov den som har ansatt arbeidstaker for arbeid 
 
 (4) Departementet kan gi forskrift om:minimumskrav til innholdet i den skriftlige avtalen,kontraktsformular,unntak fra annet ledd når det er nødvendig på grunn av særlige forhold utenfor partenes kontroll,krav til endring av arbeidsavtalen eller til skriftlig informasjon til arbeidstaker ved endringer i arbeidsforholdet.
 
-> **Endres** ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
+> Endret ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
 ### § 3-2. Ansettelse med prøvetid
 
-(1) Prøvetid på inntil seks måneder kan avtales skriftlig.
+(1) Prøvetid på inntil seks måneder kan avtales skriftlig. Ved midlertidig ansettelse kan prøvetiden ikke overstige halvparten av ansettelsesforholdets varighet.
 
-(2) Har arbeidstakeren vært fraværende fra arbeidet i prøvetiden og dette ikke skyldes arbeidsgiveren, kan prøvetiden forlenges med en periode som tilsvarer lengden av fraværet. Forlengelse kan bare skje dersom arbeidsgiver har orientert arbeidstaker skriftlig både om adgangen til forlengelse ved ansettelsen og om forlengelsen innen utløpet av prøveperioden.
+(2) Har arbeidstakeren vært fraværende fra arbeidet i prøvetiden og dette ikke skyldes arbeidsgiveren, kan prøvetiden etter første ledd forlenges med en periode som tilsvarer lengden av fraværet. Forlengelse kan bare skje dersom arbeidsgiver har orientert arbeidstaker skriftlig både om adgangen til forlengelse ved ansettelsen og om forlengelsen innen utløpet av prøveperioden.
 
-> **Endres** ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
+(3) Det kan ikke avtales ny prøvetid dersom arbeidstaker skal fortsette i samme stilling eller i en stilling som i det vesentlige er likeartet stillingen arbeidstakeren har hatt i samme virksomhet. Ved fast ansettelse kan ny prøvetid likevel avtales dersom arbeidstakerens tidligere ansettelsestid og ny prøvetid samlet ikke overstiger seks måneder.
+
+> Endret ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
 ### § 3-3. Informasjon om ledige stillinger i virksomheten
 
@@ -233,7 +236,9 @@ Arbeidsgiver skal informere arbeidstakerne om ledige stillinger i virksomheten.
 
 ### § 4-5 a. Arbeidsavtalens gyldighet ved fangenskap som følge av piratvirksomhet eller væpnet ran
 
-> **Tilføyes** ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
+Arbeidsavtalen skal fortsatt gjelde hvis arbeidstakeren holdes i fangenskap på eller utenfor skipet som følge av piratvirksomhet eller væpnet ran mot skipet. Arbeidstakeren har krav på lønn og øvrige rettigheter i arbeidsforholdet så lenge arbeidsforholdet består, jf. [§ 5-9 a](lov/2013-06-21-102/§5-9a).
+
+> Tilføyd ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
 ### § 4-6. Rett til fri hjemreise
 
@@ -355,7 +360,9 @@ Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den 
 
 ### § 5-9 a. Vern mot opphør av arbeidsforhold ved fangenskap som følge av piratvirksomhet eller væpnet ran
 
-> **Tilføyes** ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
+Arbeidsforholdet skal fortsette dersom arbeidstakeren holdes i fangenskap på eller utenfor skipet som følge av piratvirksomhet eller væpnet ran mot skipet. Det kan ikke bringes til opphør før arbeidstakeren har blitt løslatt og fått fri hjemreise. Dette gjelder også hvis arbeidsavtalens gyldighetsperiode er utløpt eller det er meldt oppsigelse av arbeidsavtalen i forkant av eller under fangenskapet.
+
+> Tilføyd ved lov [10 april 2026 nr. 14](lov/2026-04-10-14) (i kraft 1 juli 2026 iflg. [res. 10 april 2026 nr. 566](forskrift/2026-04-10-566)).
 
 ### § 5-10. Rett til å fortsette i stillingen
 
@@ -425,7 +432,7 @@ Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den 
 
 (2) [§§ 5 A-3](lov/2013-06-21-102/§5a-3) til 5 A-5 gjelder bare nårvirksomheten eller den delen av virksomheten som skal overdras ligger innenfor EØS, ogerververen ligger innenfor EØS, eller den virksomheten eller delen av denne som overdras, forblir innenfor EØS.
 
-(3) [§§ 5 A-2](lov/2013-06-21-102/§5a-2) og 5 A-3 gjelder ikke ved overdragelse fra et konkursbo.
+(3) [§§ 5 A-2](lov/2013-06-21-102/§5a-2) og [5 A-3](lov/2013-06-21-102/§5a-3) gjelder ikke ved overdragelse fra et konkursbo.
 
 > Tilføyd ved [lov 14 juni 2019 nr. 22](lov/2019-06-14-22) (ikr. 1 aug 2019 iflg. [res. 14 juni 2019 nr. 726](forskrift/2019-06-14-726)).
 

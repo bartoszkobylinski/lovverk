@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "1962-07-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-04-01"
-xml_hash: "8247758616abcfe0bcedc71d4f8e83ef247c17138dfca7a602fece065c67ebeb"
+xml_hash: "b45e2e7dedc9ab6c7bbf4ef1f781ae414a45bd2533b734b13eb80d222266cfce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-16T09:23:10.172217+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,7 @@ Departementet kan unnta fra pensjonsordningen sykepleiere som på grunn av still
 
 ### § 5
 
-Som pensjonsgivende tjenestetid ved beregning av pensjon regnes den tid som det er betalt innskott for, jfr. [§ 28](lov/1962-06-22-12/§28), tillagt tjenestetid som vedkommende måtte være godskrevet fra tiden før lovens ikrafttreden etter bestemmelsene i [§ 40](lov/1962-06-22-12/§40). Kun tjenestetid i stillinger med særaldersgrense skal inngå i beregningen etter [§ 11 p](lov/1962-06-22-12/§11p). Andre punktum gjelder ikke for tjenestetid før 1. januar 2025.
+Som pensjonsgivende tjenestetid ved beregning av pensjon regnes den tid som det er betalt innskott og premie for, jfr. [§ 28](lov/1962-06-22-12/§28) og [§ 30](lov/1962-06-22-12/§30), tillagt tjenestetid som vedkommende måtte være godskrevet fra tiden før lovens ikrafttreden etter bestemmelsene i [§ 40](lov/1962-06-22-12/§40). Kun tjenestetid i stillinger med særaldersgrense skal inngå i beregningen etter [§ 11 p](lov/1962-06-22-12/§11p). Andre punktum gjelder ikke for tjenestetid før 1. januar 2025.
 
 Ved beregning av pensjon etter [kapittel 4](lov/1962-06-22-12/kap4), [§ 11 n](lov/1962-06-22-12/§11n), [kapittel 5](lov/1962-06-22-12/kap5) og [6](lov/1962-06-22-12/kap6) avrundes samlet tjenestetid slik at brøkdel av et år mindre enn en halv ikke regnes med. En større brøkdel regnes som et helt år.
 
@@ -70,7 +70,7 @@ Ved fastsetting av alders-, ektefelle- og barnepensjon får pensjonist med midle
 
 Departementet gir forskrifter om medlemskap og opptjening når medlemmet har midlertidig uførepensjon og uførepensjon.
 
-> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
+> Endret ved lover 21 juni 1974 nr. 57, [8 juni 1979 nr. 54](lov/1979-06-08-54), [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [21 juni 2019 nr. 26](lov/2019-06-21-26) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 782](forskrift/2019-06-21-782)), [10 juni 2025 nr. 31](lov/2025-06-10-31) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 965](forskrift/2025-06-10-965)), [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
 
 ## Kapittel 3. Aldersgrenser.
 
@@ -688,7 +688,7 @@ Etter forfall kan det kreves renter etter en rentefot som fastsettes av pensjons
 
 ### § 30
 
-Under pliktig militærtjeneste og under pliktig sivil tjeneste med delvis lønn skal arbeidsgiver betale premie ut fra medlemmets fulle lønn, jfr. [§ 31](lov/1962-06-22-12/§31).
+Under pliktig militærtjeneste og under pliktig sivil tjeneste med delvis lønn skal arbeidsgiver betale premie ut fra medlemmets fulle lønn, jfr. [§ 31](lov/1962-06-22-12/§31). Når det er bestemt i tariffavtale, betaler arbeidsgiver premie i inntil tre år hvor medlemmet har ulønnet permisjon og mottar pleiepenger etter [folketrygdloven](lov/1997-02-28-19). Opptjeningen etter andre punktum skjer på grunnlag av pensjonsgrunnlaget i stillingen som medlemmet har permisjon fra.
 
 Ved annen permisjon uten lønn eller med delvis lønn betales premie ut fra den lønn som utbetales. Ved avtalt permisjon i inntil 2 år er vedkommende dekket i tilfelle død eller uførhet som om de ikke hadde permisjon. Det betales ikke premie for denne risikodekningen. Dersom vedkommende blir medlem av annen pensjonsordning i permisjonstiden, gjelder risikodekningen likevel ikke.
 
@@ -698,11 +698,11 @@ Den som ønsker å betale frivillig premie, må melde dette til pensjonsordninge
 
 Når den egne premiebetaling etter dette punkt opphører uten at medlemskapet i pensjonsordningen fortsetter gjennom arbeidsgiver, gjelder bestemmelsene i [§ 10](lov/1962-06-22-12/§10).
 
-Premien for frivillig medlemskap fastsettes i samsvar med reglene i [§ 31](lov/1962-06-22-12/§31). Styret kan fastsette særskilte regler for fastsettelse av frivillig premie, når vedkommende ikke er trygdet etter [lov om folketrygd kapittel 1](lov/1997-02-28-19/kap1).
+Premien for frivillig medlemskap fastsettes i samsvar med reglene i [§ 31](lov/1962-06-22-12/§31). Styret kan fastsette særskilte regler for fastsettelse av frivillig premie, når vedkommende ikke er medlem av folketrygden etter lov om folketrygd.
 
 Et medlem som ved permisjon uten lønn eller med delvis lønn betaler frivillig premie til pensjonsordningen, skal innbetale slik premie direkte til pensjonsordningen innen de frister styret fastsetter. Etter forfall kan det kreves renter etter en rentesats som fastsettes av styret. Hvis premien ikke blir betalt, blir tiden ikke registrert som pensjonsgivende. Varsel om dette må gis i samsvar med [forsikringsavtalelovens §§ 14-1](lov/1989-06-16-69/§14-1) og [14-2](lov/1989-06-16-69/§14-2).
 
-> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)). **Endres** ved lov [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
+> Endret ved lover [16 juni 1995 nr. 32](lov/1995-06-16-32), [19 des 2014 nr. 73](lov/2014-12-19-73) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1717](forskrift/2014-12-19-1717)), [12 juni 2026 nr. 26](lov/2026-06-12-26) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1074](forskrift/2026-06-12-1074)).
 
 ### § 31
 

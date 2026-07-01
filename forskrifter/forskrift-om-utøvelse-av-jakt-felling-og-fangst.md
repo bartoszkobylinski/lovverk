@@ -7,16 +7,16 @@ title: "Forskrift om utøvelse av jakt, felling og fangst"
 short_title: null
 language: "no"
 ministry:
-  - "Landbruks- og matdepartementet"
   - "Klima- og miljødepartementet"
+  - "Landbruks- og matdepartementet"
 date_in_force: "2002-04-02"
-last_change_in_force: "2025-06-18"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-02-05"
-xml_hash: "cc5b91e52ffb5c1384c098ff085de0b8fbdbbceb76751be00770edc504c9e446"
+xml_hash: "20e77d61a91c3dfdf6ab4fc9af903ea8b0fa140ac4786e70514796172db19066"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,17 +45,17 @@ Forskriften gjelder også ved lisensfelling innenfor fastsatt fellingsperiode og
 
 Med storvilt menes i denne forskrift følgende viltarter: elg, hjort, dåhjort, villrein, rådyr, villsvin, muflon, moskusfe, bjørn, ulv, jerv og gaupe.
 
-*Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltloven § 9](lov/1981-05-29-38/§9), der kvoten er fastsatt av offentlig myndighet.
+*Kvotejakt:* Ordinær jakt på et bestemt antall individer av en viltart med hjemmel i [viltressursloven § 10](lov/2025-06-20-102/§10), der kvoten er fastsatt av offentlig myndighet.
 
 *Lisensfelling:* Skademotivert felling av et bestemt antall individer av en viltart med hjemmel i [naturmangfoldloven § 18](lov/2009-06-19-100/§18), der kvoten er fastsatt av offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å kunne delta.
 
-> Endret ved [forskrifter 18 mars 2005 nr. 244](forskrift/2005-03-18-244) (i kraft 1 april 2005), [14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065).
+> Endret ved [forskrifter 18 mars 2005 nr. 244](forskrift/2005-03-18-244) (i kraft 1 april 2005), [14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 4. Nødvendig dokumentasjon under jakt, felling og fangst
 
-Under jakt, lisensfelling og fangst skal gyldig jegeravgiftskort og våpenkort, jf. [lov 20. april 2018 nr. 7 om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova) § 20](lov/2018-04-20-7/§20), medbringes. Under jakt og felling av storvilt medbringes dokumentasjon for avlagt skyteprøve når jakta eller fellingen utøves med rifle. Under jakt på elg, hjort og rådyr medbringes i tillegg dokumentasjon på tilgang til godkjent ettersøkshund. Lisensjegere skal medbringe personlig lisens for gjeldende art og jaktår under fellingen. Under jakt på villrein medbringes kontrollkort og eventuell skriftlig fellesjaktavtale.
+Under jakt, lisensfelling og fangst skal dokumentasjon på betalt jegeravgift og dokumentasjon på våpentillatelse, jf. [våpenlova § 20](lov/2018-04-20-7/§20), medbringes. Under jakt og felling av storvilt medbringes dokumentasjon for avlagt skyteprøve når jakta eller fellingen utøves med rifle. Under jakt på elg, hjort og rådyr medbringes i tillegg dokumentasjon på tilgang til godkjent ettersøkshund. Lisensjegere skal medbringe personlig lisens for gjeldende art og jaktår under fellingen. Under jakt på villrein medbringes kontrollkort og eventuell skriftlig fellesjaktavtale.
 
-> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 jan 2023 nr. 75](forskrift/2023-01-24-75).
+> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 jan 2023 nr. 75](forskrift/2023-01-24-75), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 2. Aldersgrenser
 
@@ -95,9 +95,9 @@ Jegerprøven består av et obligatorisk kurs og en elektronisk eksamen.
 
 Jegerprøven kan avlegges fra og med det kalenderåret kursdeltakeren fyller 14 år.
 
-Personer som er fast bosatt i utlandet trenger ikke avlegge jegerprøve dersom de kan dokumentere at de fyller vilkårene for å drive tilsvarende jakt i sitt bopelsland.
+Personer som er fast bosatt i utlandet trenger ikke avlegge jegerprøve dersom de kan dokumentere at de fyller vilkårene for å drive tilsvarende jakt og fangst i sitt bopelsland. Søknaden skal være vedlagt attestert kopi fra bopelslandets viltmyndigheter som viser adgangen til jakt og fangst, som ikke er eldre enn ett år fra søknadstidspunktet. Dokumentasjon som ikke er på svensk eller dansk skal også være oversatt til norsk eller engelsk.
 
-> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [2 feb 2021 nr. 325](forskrift/2021-02-02-325), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070).
+> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [2 feb 2021 nr. 325](forskrift/2021-02-02-325), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 9. Obligatorisk kurs
 
@@ -135,9 +135,9 @@ Den som etter rettskraftig dom er fradømt retten til å drive jakt og fangst, j
 
 Det kreves autorisasjon fra Landbruksdirektoratet for å undervise som jegerprøveinstruktør. Autorisasjonen gis på bakgrunn av fullført utdanning etter studieplan fastsatt av Landbruksdirektoratet. Landbruksdirektoratet kan sette vilkår for autorisasjon etter denne paragrafen.
 
-Landbruksdirektoratet kan trekke tilbake autorisasjonen dersom jegerprøveinstruktøren straffes for overtredelse av [naturmangfoldloven](lov/2009-06-19-100), [viltloven](lov/1981-05-29-38) eller [våpenloven](lov/1961-06-09-1), eller bryter gjeldende bestemmelser om jegerprøveopplæringen eller vilkår satt ved utstedelse av autorisasjonen. For å få ny autorisasjon, må vedkommende gjennomføre utdanningen for jegerprøveinstruktører på nytt. Det skal angis i vedtaket om tilbaketrekking når denne utdanningen tidligst kan påbegynnes.
+Landbruksdirektoratet kan trekke tilbake autorisasjonen dersom jegerprøveinstruktøren straffes for overtredelse av [naturmangfoldloven](lov/2009-06-19-100), [viltressursloven](lov/2025-06-20-102) eller [våpenloven](lov/2018-04-20-7), eller bryter gjeldende bestemmelser om jegerprøveopplæringen eller vilkår satt ved utstedelse av autorisasjonen. For å få ny autorisasjon, må vedkommende gjennomføre utdanningen for jegerprøveinstruktører på nytt. Det skal angis i vedtaket om tilbaketrekking når denne utdanningen tidligst kan påbegynnes.
 
-> Tilføyd ved [forskrift 1 feb 2007 nr. 113](forskrift/2007-02-01-113), endret ved [forskrifter 16 des 2009 nr. 1798](forskrift/2009-12-16-1798) (i kraft 28 des 2009), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [2 feb 2021 nr. 325](forskrift/2021-02-02-325), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070).
+> Tilføyd ved [forskrift 1 feb 2007 nr. 113](forskrift/2007-02-01-113), endret ved [forskrifter 16 des 2009 nr. 1798](forskrift/2009-12-16-1798) (i kraft 28 des 2009), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [2 feb 2021 nr. 325](forskrift/2021-02-02-325), [18 juni 2025 nr. 1070](forskrift/2025-06-18-1070), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 4. Lisensfelling
 
@@ -159,9 +159,9 @@ Ved brudd på gjeldende bestemmelser og fastsatte vilkår for lisensfelling, og 
 
 Felling eller forsøk på felling av gaupe, jerv, bjørn, ulv eller kongeørn og jakt på gaupe skal umiddelbart meldes til statsforvalteren og andre på slik måte som det bestemmes i vedtak om skadefelling, lisensfelling eller kvotejakt. Jeger skal fremvise felt dyr for Statens naturoppsyn for umiddelbar kontroll, merking og prøvetaking av biologisk materiale, og jeger skal kunne påvise fellingssted etter anmodning fra Statens naturoppsyn, politiet eller statsforvalteren.
 
-Den som feller gaupe, jerv, bjørn eller ulv plikter vederlagsfritt å innlevere dyret til vitenskapelige formål, jf. [viltloven § 48](lov/1981-05-29-38/§48) og [§ 50](lov/1981-05-29-38/§50). Jeger eller preparant plikter å innlevere dyret innen 1. juni. Dersom felt rovvilt først leveres til preparant, skal dette gjøres innen 1. mai. Dersom innleveringsplikten ikke overholdes tilfaller individet i sin helhet Viltfondet, jf. [viltloven § 48](lov/1981-05-29-38/§48) og [§ 50](lov/1981-05-29-38/§50).
+Den som feller gaupe, jerv, bjørn eller ulv plikter vederlagsfritt å innlevere dyret til vitenskapelige formål, jf. [viltressursloven § 19](lov/2025-06-20-102/§19) og [51](lov/2025-06-20-102/§51). Jeger eller preparant plikter å innlevere dyret innen 1. juni. Dersom felt rovvilt først leveres til preparant, skal dette gjøres innen 1. mai. Dersom innleveringsplikten ikke overholdes tilfaller individet i sin helhet det statlige viltfondet, jf. [viltressursloven § 19](lov/2025-06-20-102/§19) og [51](lov/2025-06-20-102/§51).
 
-> Endret ved [forskrifter 18 mars 2005 nr. 244](forskrift/2005-03-18-244) (i kraft 1 april 2005), [14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+> Endret ved [forskrifter 18 mars 2005 nr. 244](forskrift/2005-03-18-244) (i kraft 1 april 2005), [14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 5. Våpen og ammunisjon
 
@@ -243,13 +243,33 @@ Personer som er fast bosatt i utlandet trenger ikke avlegge skyteprøve dersom d
 
 > Overskriften endret ved [forskrift 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006).
 
-### § 22. Løs, på drevet halsende hund
+### § 22. Drivende hund
 
-Bruk av løs, på drevet halsende hund er tillatt brukt under jakt på følgende viltarter: hjort, rådyr, gaupe, rødrev og hare, eller felling av gaupe. Boghøyde til løs, på drevet halsende hund som brukes under jakt på hjort og rådyr må ikke overstige 41 cm.
+Det er forbudt å benytte drivende hund under jakt, med unntak for jakt på følgende viltarter: elg, hjort, rådyr, gaupe, rødrev og hare, og i forbindelse med felling av gaupe.
 
-Bruk av løs, på drevet halsende hund under jakt på gaupe og rødrev, eller felling av gaupe er ikke tillatt i ordinær båndtvangstid. Under jakt på rådyr er bruk av løs, på drevet halsende hund tillatt fra og med 25. september og inntil jakttidens slutt.
+Med drivende hund menes hund som forfølger og driver viltet foran seg med los over lengre tid.
 
-> Endret ved [forskrift 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006).
+Mankehøyde tildrivende hund som brukes under jakt på elg, hjort og rådyr må ikke overstige 41 cm.
+
+Bruk av drivende hund under jakt på gaupe og rødrev, eller felling av gaupe, er ikke tillatt i ordinær båndtvangstid. Under jakt på rådyr er bruk av drivende hund tillatt fra og med 25. september og inntil jakttidens slutt.
+
+> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
+
+### § 22a. Bruk av flere løse hunder på samme vilt
+
+Det er forbudt under jakt å la flere enn to løse hunder forfølge det samme dyret samtidig. Forbudet gjelder selv om hundene har forskjellig eier eller bruker.
+
+Forbudet i første ledd gjelder ikke for fuglehund under fuglejakt.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
+
+### § 22b. Forbud mot bruk av hunder med bestemte funksjonsmåter
+
+Det er forbudt å benytte hund under jakt og jakthundtrening som ved bitt holder, skader eller dreper vilt.
+
+Forbudet i første ledd gjelder ikke hund som apporterer påskutt småvilt.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 23. Krav om godkjent ettersøkshund
 
@@ -337,17 +357,29 @@ Dersom det felte dyret er hjortevilt eller bever, tilfaller viltet kommunen. Der
 
 > Endret ved [forskrifter 18 mars 2005 nr. 244](forskrift/2005-03-18-244) (i kraft 1 april 2005), [14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
-### § 29a. Kunstig lys ved åtejakt på jerv
+### § 29a. Tillatt bruk av synlig lys og restlysforsterkende og termiske siktemidler
 
-Fast montert kunstig lys kan benyttes ved åtejakt på jerv som gjennomføres som ledd i lisensfelling.
+Fastmontert synlig lys kan benyttes for å belyse åte i forbindelse med lisensfellingav jerv. Slik bruk skal rapporteres til statsforvalteren.
 
-Bruk av kunstig lys etter første ledd skal rapporteres til statsforvalteren.
+Synlig lys kan benyttes ved avliving av vilt som er fanget levende i felle.
 
-> Tilføyd ved [forskrift 14 juli 2015 nr. 897](forskrift/2015-07-14-897), endret ved [forskrifter 29 okt 2018 nr. 1627](forskrift/2018-10-29-1627), [8 sep 2020 nr. 1736](forskrift/2020-09-08-1736), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+Synlig lys og restlysforsterkende og termiske siktemidler kan benyttes ved jakt på villsvin og rødrev når jakten foregår i åpent terreng eller ved åteplass.
 
-### § 29b. (Opphevet)
+For å avverge alvorlig skade på natur- eller samfunnsinteresser som følge av høy bestandstetthet, kan kommunen i forskrift åpne for bruk av restlysforsterkende og termiske siktemidler ved jakt på hjort. Bruken av restlysforsterkende og termiske siktemidler skal avgrenses til jakt i åpent terreng. Kommunen skal vurdere behovet for videreføring av en slik forskriftsregel hvert femte år. Kopi av vurderingen skal sendes Landbruksdirektoratet. Jegeren skal rapportere bruk av restlysforsterkende og termiske siktemidler ved felling av hjort i Hjorteviltregisteret.
 
-> Tilføyd ved [forskrift 1 april 2020 nr. 550](forskrift/2020-04-01-550), opphevet ved forskrift [2 juli 2021 nr. 2352](forskrift/2021-07-02-2352).
+Synlig lys kan benyttes ved den umiddelbare undersøkelsen av og rundt skuddstedet. Dette gjelder ikke ved kvotejakt og skadefelling av gaupe eller ved felling av jerv, bjørn og ulv med mindre noe annet følger av forskrift eller enkeltvedtak.
+
+Synlig lys og restlysforsterkende og termiske siktemidler kan benyttes ved ettersøk av påskutt hjortevilt, villsvin og rødrev. Jegeren har bevisbyrden for at påskytingen er lovlig, og skal varsle grunneieren, politiet og kommunen om bruken av synlig lys og restlysforsterkende og termiske siktemidler før ettersøket tar til. Dersom varsling i vesentlig grad vil forsinke ettersøket, kan begrunnet melding om slik bruk sendes samme instanser umiddelbart etter avsluttet søk.
+
+> Tilføyd ved [forskrift 14 juli 2015 nr. 897](forskrift/2015-07-14-897), endret ved [forskrifter 29 okt 2018 nr. 1627](forskrift/2018-10-29-1627), [8 sep 2020 nr. 1736](forskrift/2020-09-08-1736), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
+
+### § 29b. Varsling og rapportering av bruk av metoder ved skadefelling
+
+Den som ved felling eller forsøk på felling av skadegjørende individ etter [naturmangfoldloven § 18](lov/2009-06-19-100/§18), [rovviltforskriften § 9](forskrift/2005-03-18-242/§9) eller [§ 13](forskrift/2005-03-18-242/§13) første eller sjette ledd eller etter [viltforskriften kapittel 3](forskrift/2020-04-01-565/kap3), tar i bruk synlig lys eller særskilte siktemidler, jf. [viltressursloven § 26](lov/2025-06-20-102/§26), eller luftfartøy, motorkjøretøy, eller motorfartøy, jf. [viltressursloven § 29](lov/2025-06-20-102/§29), skal varsle grunneieren, politiet og kommunen før metodene brukes.
+
+Den som ved felling eller forsøk på felling av skadegjørende individ etter [naturmangfoldloven § 18](lov/2009-06-19-100/§18), [rovviltforskriften § 9](forskrift/2005-03-18-242/§9) eller [§ 13](forskrift/2005-03-18-242/§13) første eller sjette ledd eller etter [viltforskriften kapittel 3](forskrift/2020-04-01-565/kap3), tar i bruk synlig lys eller særskilte siktemidler, jf. [viltressursloven § 26](lov/2025-06-20-102/§26), eller luftfartøy, motorkjøretøy eller motorfartøy, jf. [viltressursloven § 29](lov/2025-06-20-102/§29), skal rapportere bruken til beslutningsmyndigheten. Ved skadefelling etter skadelidtes egen beslutning etter [viltforskriften § 3-4](forskrift/2020-04-01-565/§3-4), skal slik rapportering gjøres til kommunen.
+
+> Tilføyd ved [forskrift 1 april 2020 nr. 550](forskrift/2020-04-01-550), opphevet ved forskrift [2 juli 2021 nr. 2352](forskrift/2021-07-02-2352), tilføyd ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## Kapittel 9. Fangst
 
@@ -361,9 +393,7 @@ Den som utøver fangst skal innrette fangsten slik at den bare retter seg mot de
 
 Feller skal ikke plasseres i områder hvor alminnelig ferdsel medfører at det kan oppstå fare for mennesker eller husdyr.
 
-Det er ikke tillatt å bruke levende dyr eller lydavspillinger for å lokke viltet inn i feller.
-
-> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [9 mars 2017 nr. 289](forskrift/2017-03-09-289) (i kraft 1 april 2017), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024).
+> Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [16 mai 2012 nr. 433](forskrift/2012-05-16-433), [9 mars 2017 nr. 289](forskrift/2017-03-09-289) (i kraft 1 april 2017), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 31. Tillatte feller
 
@@ -375,9 +405,9 @@ Ved fangst av gaupe og jerv kreves i tillegg tillatelse fra statsforvalteren i s
 
 ### § 32. Merking av feller
 
-Feller skal være synlig merket med brukerens navn og telefonnummer. Dette kravet gjelder ikke rypesnarer.
+Feller skal være synlig merket med brukerens jegernummer. Ved fangst av viltarter opplistet i [vedlegg 1](forskrift/2002-03-22-313/vedlegg1), unntatt gaupe og jerv, skal feller i tillegg merkes med telefonnummer til kommunal viltmyndighet. Ved kvotejakt på gaupe, og lisensfelling av jerv, skal feller i tillegg til brukerens jegernummer, merkes med telefonnummeret til statsforvalteren. Disse kravene gjelder ikke rypesnarer.
 
-> Endret ved forskrifter [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024).
+> Endret ved forskrifter [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024), [26 juni 2026 nr. 1379](forskrift/2026-06-26-1379) (i kraft 1 juli 2026).
 
 ### § 33. Krav om tilsyn
 
@@ -407,9 +437,17 @@ Feller som ikke er tillatt eller som ikke er utplassert eller merket i samsvar m
 
 > Endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [9 mars 2017 nr. 289](forskrift/2017-03-09-289) (i kraft 1 april 2017), [1 des 2022 nr. 2065](forskrift/2022-12-01-2065), [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024).
 
-## Kapittel 10. Oppsyn og kontroll
+## Kapittel 10. Rapportering, oppsyn og kontroll
 
-> Overskriften endret ved [forskrift 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006).
+> Overskriften endret ved [forskrifter 14 mars 2006 nr. 304](forskrift/2006-03-14-304) (i kraft 1 april 2006), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
+
+### § 35a. Plikt til rapportering
+
+Den som har betalt jegeravgiften for et jaktår skal innen 1. mai påfølgende jaktår levere inn rapporteringsskjema til Statistisk sentralbyrå med de opplysninger Landbruksdirektoratet bestemmer.
+
+Den som ikke har oppfylt rapporteringsplikten etter første ledd må betale tilleggsgebyr fastsatt i Stortingets årlige budsjettvedtak ved betaling av jegeravgiften for det påfølgende jaktåret.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 36. Plikt til å la seg kontrollere
 
@@ -437,9 +475,9 @@ Kommunen kan i særlige tilfeller gi enkelte jaktlag eller enkeltjegere tidsbegr
 
 ### § 39. Straff
 
-Overtredelse av bestemmelser gitt i eller i medhold av denne forskrift, straffes etter straffereglene i [lov av 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet [§ 56](lov/1981-05-29-38/§56).
+Overtredelse av bestemmelser gitt i eller i medhold av denne forskrift, straffes etter straffereglene i [viltressursloven § 60](lov/2025-06-20-102/§60).
 
-> Endret ved forskrift [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024, tidligere § 40).
+> Endret ved forskrifter [24 nov 2023 nr. 1908](forskrift/2023-11-24-1908) (i kraft 1 april 2024, tidligere § 40), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### § 40. Ikrafttredelse
 
@@ -453,9 +491,9 @@ Fra samme tidspunkt oppheves:[Forskrift av 28. oktober 1986 nr. 2050](forskrift/
 
 ### Kommentar til § 29a
 
-[Bernkonvensjonen](traktat/1979-09-19-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. Bernkonvensjonen artikkel 8 og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til Bernkonvensjonen skal bruk av kunstig lys ved åtejakt på jerv rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:Antall individer av jerv som er felt i lisensfelling der kunstig lys er benyttetHvordan lyskilden som ble benyttet var montertTid og sted for fellingen.
+[Bernkonvensjonen](traktat/1971-07-24-1) forbyr bruk av kunstige lyskilder ved jakt og fangst av jerv, jf. [Bernkonvensjonen artikkel 8](traktat/1971-07-24-1/a8) og konvensjonens vedlegg II og IV. Konvensjonen åpner imidlertid for unntak fra forbudet og stiller krav om at unntak rapporteres, jf. artikkel 9. For å muliggjøre rapportering til [Bernkonvensjonen](traktat/1971-07-24-1) skal felling av jerv ved bruk av fast montert synlig lys for å belyse åte i forbindelse med lisensfelling av jerv etter § 29a første ledd rapporteres til statsforvalteren. Rapporteringen til statsforvalteren skal inneholde informasjon om:Antall individer av jerv som er felt i lisensfelling der fast montert synlig lys er benyttetTid og sted for fellingen.
 
-> Tilføyd ved [forskrift 14 juli 2015 nr. 897](forskrift/2015-07-14-897), endret ved [forskrifter 8 sep 2020 nr. 1736](forskrift/2020-09-08-1736), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+> Tilføyd ved [forskrift 14 juli 2015 nr. 897](forskrift/2015-07-14-897), endret ved [forskrifter 8 sep 2020 nr. 1736](forskrift/2020-09-08-1736), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ### Kommentar til § 34 (Opphevet)
 

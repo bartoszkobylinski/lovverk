@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2008-01-01"
-last_change_in_force: "2025-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: "2025-09-24"
-xml_hash: "21f06962c7d0881fd059818c813fe1d3908cbaced1ba1c692326f2f156f55290"
+xml_hash: "3dba59f702062cb0cdc8de7979719a802d8b169e2f2565a19ca4b74d5339650a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -64,7 +64,7 @@ Loven gjelder med de begrensninger som er anerkjent i folkeretten eller følger 
 
 (6) En kommune eller fylkeskommune kan i forbindelse med søksmål etter første ledd fremme krav om erstatning fra staten. Erstatning kan kun idømmes der avgjørelsen det er reist søksmål om gyldigheten av, blir kjent ugyldig.
 
-> Tilføyd ved lov [16 juni 2017 nr. 63](lov/2017-06-16-63) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 757](forskrift/2017-06-16-757)), endret ved lover [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)) som endret ved lov [21 juni 2019 nr. 55](lov/2019-06-21-55), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)).
+> Tilføyd ved lov [16 juni 2017 nr. 63](lov/2017-06-16-63) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 757](forskrift/2017-06-16-757)), endret ved lover [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879), endring endret ved lov [21 juni 2019 nr. 55](lov/2019-06-21-55)), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)).
 
 ### § 1-5. Hvem søksmål om gyldigheten av offentlige vedtak skal rettes mot
 
@@ -94,7 +94,7 @@ Søksmål om gyldigheten av forvaltningsvedtak reises mot den myndighet som har 
 
 (5) Saken kan avvises dersom den utvilsomt ikke kan ha et fornuftig formål og er anlagt av en person som misbruker rettsapparatet ved gjentatte ganger å ha anlagt slike saker.
 
-> Endret ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Endret ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)).
 
 ### § 2-3. Stedfortreder
 
@@ -102,7 +102,7 @@ Søksmål om gyldigheten av forvaltningsvedtak reises mot den myndighet som har 
 
 (2) For personer som mangler prosessdyktighet etter [§ 2-2](lov/2005-06-17-90/§2-2) fjerde ledd, er vergen stedfortreder.
 
-> Endret ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12).
+> Endret ved lov [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)).
 
 ### § 2-4. Stedfortreder for mindreårige og personer som er fratatt rettslig handleevne mv.
 
@@ -320,7 +320,7 @@ Partene skal undersøke om det er mulig å løse tvisten i minnelighet før sak 
 
 (2) Før en sak om formuesverdier kan tas til behandling i tingretten, skal forliksrådet behandle saken når vilkårene i første ledd er oppfylt. Denne regelen gjelder likevel ikke nårtvistesummen er minst kr 200 000, og begge parter har vært bistått av advokat,utenrettslig mekling etter [kapittel 7](lov/2005-06-17-90/kap7) er gjennomført,tvisten er blitt realitetsbehandlet i klage- eller reklamasjonsnemnd etter samtykke fra den annen part eller i en slik nemnd som er offentlig godkjent etter særskilt lovbestemmelse, ellerdet etter reglene i [§§ 15-1](lov/2005-06-17-90/§15-1) til [15-3](lov/2005-06-17-90/§15-3) bringes inn et nytt krav eller en ny part i saken.
 
-> Endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3), [12 des 2008 nr. 85](lov/2008-12-12-85) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1354](forskrift/2008-12-12-1354)), [17 april 2020 nr. 26](lov/2020-04-17-26) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 807](forskrift/2020-04-17-807), se denne for overgangsbestemmelser), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149), [11 mai 2023 nr. 13](lov/2023-05-11-13) (i kraft 1 jan 2024 iflg. [res. 11 mai 2023 nr. 683](forskrift/2023-05-11-683)).
+> Endret ved lover [26 jan 2007 nr. 3](lov/2007-01-26-3), [12 des 2008 nr. 85](lov/2008-12-12-85) (ikr. 1 jan 2009 iflg. [res. 12 des 2008 nr. 1354](forskrift/2008-12-12-1354)), [17 april 2020 nr. 26](lov/2020-04-17-26) (ikr. 1 juli 2020 iflg. [res. 17 april 2020 nr. 807](forskrift/2020-04-17-807), se denne for overgangsbestemmelser), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), endring endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149)), [11 mai 2023 nr. 13](lov/2023-05-11-13) (i kraft 1 jan 2024 iflg. [res. 11 mai 2023 nr. 683](forskrift/2023-05-11-683)).
 
 ### § 6-3. Forliksklage
 
@@ -1864,9 +1864,9 @@ En part eller et vitne kan nekte å gi tilgang til bevis som ikke kan gjøres ti
 
 (3) Når parter forklarer seg om krav de ikke har partsstilling for, får reglene om vitner anvendelse.
 
-(4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten eller bevisopptak, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
+(4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
 
-> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### Kapittel 24. Vitnebevis
 
@@ -1878,9 +1878,9 @@ En part eller et vitne kan nekte å gi tilgang til bevis som ikke kan gjøres ti
 
 (3) Om vitnet skal innkalles til å avgi forklaring direkte for den dømmende rett, ved fjernavhør eller ved bevisopptak, bestemmes etter reglene i [§§ 21-10](lov/2005-06-17-90/§21-10) og [21-11](lov/2005-06-17-90/§21-11).
 
-(4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) i utpekte domstoler skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten eller bevisopptak, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
+(4) Kongen kan i forskrift gi regler om at opptak foretatt etter [§ 13-7](lov/2005-06-17-90/§13-7) skal spilles av for helt eller delvis å tre i stedet for direkte forklaring for retten, når hensynet til forsvarlig saksbehandling ikke taler imot det. Kongen kan gi nærmere regler om avspilling i forskrift.
 
-> Endret ved lov [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)). **Endres** ved lov [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
+> Endret ved lover [22 juni 2018 nr. 79](lov/2018-06-22-79) (ikr. 1 okt 2018 iflg. [res. 28 sep 2018 nr. 1470](forskrift/2018-09-28-1470)), [7 mai 2026 nr. 17](lov/2026-05-07-17) (i kraft 1 juli 2026 iflg. [res. 7 mai 2026 nr. 743](forskrift/2026-05-07-743)).
 
 ### § 24-2. Møteplikt for vitner som er berøvet friheten
 
@@ -2714,31 +2714,31 @@ Retten kan ilegge sakskostnader også i en sak som avgjøres uten innkalling til
 
 ### § 33-5. Gjennomføring av arrest
 
-(1) En arrest skal gjennomføres straks. Er saksøkeren pålagt å stille sikkerhet, skal den gjennomføres straks retten er meddelt at sikkerhet er stilt. Det hører under gjennomføringen å beslutte hvilket formuesgode det skal tas arrest i, hvis dette ikke allerede er gjort etter [§ 33-4](lov/2005-06-17-90/§33-4) første ledd, og å etablere rettsvern for arresten og gi partene meddelelse om utfallet av gjennomføringen. Retten kan helt eller delvis overlate gjennomføringen til namsmannen i et hvilket som helst distrikt. Dersom retten overlater til namsmannen å bestemme formuesgodet, kan den bestemme hvilket formuesgode namsmannen fortrinnsvis skal søke etter.
+(1) En arrest skal gjennomføres straks. Er saksøkeren pålagt å stille sikkerhet, skal den gjennomføres straks retten er meddelt at sikkerhet er stilt. Det hører under gjennomføringen å beslutte hvilket formuesgode det skal tas arrest i, hvis dette ikke allerede er gjort etter [§ 33-4](lov/2005-06-17-90/§33-4) første ledd, og å etablere rettsvern for arresten og gi partene meddelelse om utfallet av gjennomføringen. Retten kan helt eller delvis overlate gjennomføringen til namsfogden i et hvilket som helst distrikt. Dersom retten overlater til namsfogden å bestemme formuesgodet, kan den bestemme hvilket formuesgode namsfogden fortrinnsvis skal søke etter.
 
-(2) Om gjennomføringen av arrest gjelder [tvangsfullbyrdelsesloven §§ 5-5](lov/1992-06-26-86/§5-5) til [5-10](lov/1992-06-26-86/§5-10), [5-13](lov/1992-06-26-86/§5-13) til [5-16](lov/1992-06-26-86/§5-16) og [5-19](lov/1992-06-26-86/§5-19) og [§§ 7-8](lov/1992-06-26-86/§7-8), [7-9](lov/1992-06-26-86/§7-9) og [7-12](lov/1992-06-26-86/§7-12) tilsvarende. Skal arrestgjenstand utpekes, gjelder også [tvangsfullbyrdelsesloven §§ 7-18](lov/1992-06-26-86/§7-18), [7-19](lov/1992-06-26-86/§7-19) og [7-25](lov/1992-06-26-86/§7-25). Er avgjørelsen ikke forkynt for saksøkte på forhånd, forkynnes den under forretningen, eller hvis det ikke lar seg gjøre, straks etter.
+(2) Om gjennomføringen av arrest gjelder [tvangsfullbyrdelsesloven §§ 5-5](lov/1992-06-26-86/§5-5) til [5-10](lov/1992-06-26-86/§5-10), [5-13](lov/1992-06-26-86/§5-13) til [5-16](lov/1992-06-26-86/§5-16) og [5-19](lov/1992-06-26-86/§5-19) til [5-22](lov/1992-06-26-86/§5-22) og [§ 7-8](lov/1992-06-26-86/§7-8) og [§ 7-9 annet ledd](lov/1992-06-26-86/§7-9/ledd/2) tilsvarende. Skal arrestgjenstand utpekes, gjelder også [tvangsfullbyrdelsesloven §§ 7-17](lov/1992-06-26-86/§7-17), [7-18](lov/1992-06-26-86/§7-18) og [7-23](lov/1992-06-26-86/§7-23). Er avgjørelsen ikke forkynt for saksøkte på forhånd, forkynnes den under forretningen, eller hvis det ikke lar seg gjøre, straks etter.
 
 (3) Saksøkte kan alltid avverge gjennomføringen ved å stille sikkerhet for saksøkerens krav.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33-6. Valget av formuesgode
 
-(1) Arrest kan tas i ethvert formuesgode som det kan tas utleggspant i. Arrest kan også tas i pengekrav som det kan besluttes utleggstrekk i etter [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) når det er gått minst en måned siden saksøkte kunne fått betaling. Det skal velges et formuesgode som vil gi saksøkeren tilstrekkelig sikkerhet for arrestkravet og som i tilbørlig utstrekning tar hensyn til saksøktes interesser. [Tvangsfullbyrdelsesloven §§ 7-13](lov/1992-06-26-86/§7-13) til [7-16](lov/1992-06-26-86/§7-16) gjelder tilsvarende.
+(1) Arrest kan tas i ethvert formuesgode som det kan tas utleggspant i. Arrest kan også tas i pengekrav som det kan besluttes utleggstrekk i etter [dekningsloven § 2-7](lov/1984-06-08-59/§2-7) når det er gått minst en måned siden saksøkte kunne fått betaling. Det skal velges et formuesgode som vil gi saksøkeren tilstrekkelig sikkerhet for arrestkravet og som i tilbørlig utstrekning tar hensyn til saksøktes interesser. [Tvangsfullbyrdelsesloven § 7-9 sjette ledd](lov/1992-06-26-86/§7-9/ledd/6) og [§§ 7-11](lov/1992-06-26-86/§7-11) til [7-15](lov/1992-06-26-86/§7-15) gjelder tilsvarende.
 
 (2) Dersom en arrest blir besluttet uten muntlig forhandling og arrest er begjært i et bestemt formuesgode som det kan tas arrest i, skal det tas arrest i dette. Det gjelder likevel ikke dersom det finnes klart at saksøkeren vil være tilstrekkelig sikret med arrest i et annet formuesgode, og det må antas å være i saksøktes interesse å velge dette.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33-7. Virkningen av arresten, rettsvern m.m.
 
 (1) Arresten medfører at skyldneren mister retten til å råde over de arresterte formuesgoder til skade for arresthaveren. Om skyldnerens råderett gjelder for øvrig de samme regler som for utleggspant.
 
-(2) Arrest får rettsvern mot saksøktes rettslige disposisjoner etter reglene for utleggspant i panteloven. Om etablering av rettsvern m.m. gjelder [tvangsfullbyrdelsesloven § 7-20](lov/1992-06-26-86/§7-20).
+(2) Arrest får rettsvern mot saksøktes rettslige disposisjoner etter reglene for utleggspant i panteloven. Om etablering av rettsvern m.m. gjelder [tvangsfullbyrdelsesloven § 7-19](lov/1992-06-26-86/§7-19).
 
 (3) Arrest i et formuesgode gir ikke arresthaveren rett til å kreve tvangsdekning. Dersom det er nødvendig for å forebygge vesentlig verdiforringelse, kan retten på arresthaverens begjæring ved kjennelse bestemme at arresthaveren skal gis adgang til å begjære tvangsdekning. For andel av utbytte som faller på arrestkravet gjelder [tvangsfullbyrdelsesloven § 8-19](lov/1992-06-26-86/§8-19) tredje ledd og [§ 11-36](lov/1992-06-26-86/§11-36) tredje ledd.
 
-> **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 33-8. Særregler om arrest i luftfartøy
 
@@ -2808,17 +2808,17 @@ Foruten etter bortfallsgrunnene i [§ 33-10](lov/2005-06-17-90/§33-10) første 
 
 ### § 34-4. Gjennomføring av midlertidig forføyning
 
-(1) En midlertidig forføyning gjennomføres etter reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) II til VI. Forføyningen skal gjennomføres straks saksøkeren begjærer det. Begjæringen framsettes for retten. Begjæring om gjennomføringstiltak som skal utføres av namsmannen, kan framsettes direkte for den namsmannen som utførelsen hører under. Framsettes begjæringen for retten, kan retten overlate til den namsmannen som utførelsen hører under, å utføre gjennomføringstiltak som krever at det holdes en forretning på annet sted enn rettens kontor.
+(1) En midlertidig forføyning gjennomføres etter reglene i [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) II til VI. Forføyningen skal gjennomføres straks saksøkeren begjærer det. Begjæringen framsettes for retten. Begjæring om gjennomføringstiltak som skal utføres av namsfogden, kan framsettes direkte for den namsfogden som utførelsen hører under. Framsettes begjæringen for retten, kan retten overlate til den namsfogden som utførelsen hører under, å utføre gjennomføringstiltak som krever at det holdes en forretning på annet sted enn rettens kontor.
 
 (2) Er saksøkeren pålagt å stille sikkerhet for en midlertidig forføyning, trer forføyningen ikke i kraft og kan ikke gjennomføres før retten har meddelt saksøkte at sikkerhet er stilt, dersom retten ikke har bestemt annet.
 
-(3) For forretninger for gjennomføring som holdes på annet sted enn rettens kontor, gjelder [tvangsfullbyrdelsesloven §§ 5-5](lov/1992-06-26-86/§5-5) til [5-10](lov/1992-06-26-86/§5-10), [5-13](lov/1992-06-26-86/§5-13) til [5-16](lov/1992-06-26-86/§5-16) og [5-19](lov/1992-06-26-86/§5-19) tilsvarende. Er forføyningskjennelsen ikke forkynt for saksøkte på forhånd, forkynnes den under forretningen, eller hvis det ikke lar seg gjøre, straks etter.
+(3) For forretninger for gjennomføring som holdes på annet sted enn rettens kontor, gjelder [tvangsfullbyrdelsesloven §§ 5-5](lov/1992-06-26-86/§5-5) til [5-10](lov/1992-06-26-86/§5-10), [5-13](lov/1992-06-26-86/§5-13) til [5-16](lov/1992-06-26-86/§5-16) og [5-19](lov/1992-06-26-86/§5-19) til [5-22](lov/1992-06-26-86/§5-22) tilsvarende. Er forføyningskjennelsen ikke forkynt for saksøkte på forhånd, forkynnes den under forretningen, eller hvis det ikke lar seg gjøre, straks etter.
 
 (4) Gjelder en midlertidig forføyning en rettighet i et realregistrert formuesgode, eller begrenser den saksøktes rådighet over et realregistrert formuesgode, kan retten bestemme at forføyningen skal registreres som ledd i gjennomføringen. Tilsvarende gjelder for rettigheter registrert i en verdipapirsentral eller i et særskilt register for immaterialrettigheter.
 
 (5) Går en midlertidig forføyning ut på å sette et formuesgode i forvaring og det er tvist om eiendomsretten til gjenstanden, skal avkastning av formuesgodet utbetales til retten, som plasserer midlene på best mulige rentebærende vilkår i norsk bank inntil saken er avgjort.
 
-> Endret ved lov [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)). **Endres** ved lov [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved lover [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 34-5. Opphevelse av midlertidig forføyning m.m.
 

@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2017-07-01"
-last_change_in_force: "2025-08-15"
+last_change_in_force: "2026-07-01"
 last_updated: "2017-08-30"
-xml_hash: "20d4abd35e75f5eb94e364a53e3d79d8375b220ce6ee3ceeaf28320daae2e44a"
+xml_hash: "1f4fa2278cd8603267bd9cc95c4ba7ed572e34ed1139ae48da4df46ee4d13372"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-18T08:43:09.372724+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1093,19 +1093,19 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ## Kapittel 16. Sikkerhetskontroll av heis
 
-### § 16-1. Løfteinnretninger. Administrative bestemmelser
+### § 16-1. Administrative bestemmelser
 
-(1) For heis, rulletrapp, rullende fortau, løfteplattform og trappeheis gjelder, i tillegg til de krav som følger av [plan- og bygningsloven § 29-9](lov/2008-06-27-71/§29-9), følgende:Kommunen skal gi driftstillatelse før løfteinnretning tas i bruk.Løfteinnretning skal ikke tas i bruk etter ulykke, ombygging eller flytting før sikkerhetskontrollorgan har foretatt kontroll og kommunen har gitt driftstillatelse.Når feil på installasjon kan medføre umiddelbar fare for personsikkerhet, skal løfteinnretning settes ut av drift og forholdet meldes til kommune og eier.Eier skal umiddelbart melde ulykker og hendelser til kommunen og sikkerhetskontrollorgan. Sikkerhetskontrollorgan skal innrapportere ulykker og hendelser til nasjonalt installasjonsregister.Utført reparasjonsarbeid skal føres i loggbok for hver løfteinnretning. Loggboken skal være tilgjengelig ved sikkerhetskontroll.Eier skal få utført sikkerhetskontroll minst hvert annet år når løfteinnretningen er i drift. Sikkerhetskontroll kan i tillegg foretas ved stikkprøver av løfteinnretning i drift.Ved skifte av eier og når installasjonen tas permanent ut av drift, skal eier melde dette til kommunen og nasjonalt installasjonsregister.
+(1) For heis, rulletrapp, rullende fortau, løfteplattform, løftebord og trappeheis gjelder, i tillegg til de krav som følger av [plan- og bygningsloven § 29-9](lov/2008-06-27-71/§29-9), følgende:Løfteinnretning skal ikke tas i bruk etter ulykke, ombygging eller flytting før sikkerhetskontrollorgan har foretatt kontroll og kommunen har gitt driftstillatelse.Når feil på installasjon kan medføre fare for personsikkerhet, skal løfteinnretning settes ut av drift og forholdet meldes til kommune og eier.Eier skal umiddelbart melde ulykker og hendelser til kommunen og sikkerhetskontrollorgan.Sikkerhetskontrollorgan skal innrapportere ulykker og hendelser til Direktoratet for byggkvalitet.Utført reparasjonsarbeid skal føres i loggbok for hver løfteinnretning. Loggboken skal være tilgjengelig ved sikkerhetskontroll.Eier skal få utført sikkerhetskontroll minst hvert annet år når løfteinnretningen er i drift. Sikkerhetskontroll kan i tillegg foretas ved stikkprøver av løfteinnretning i drift.Ved skifte av eier og når installasjonen tas permanent ut av drift, skal eier melde dette til kommunen og nasjonalt installasjonsregister.
 
-(2) For løfteplattform og trappeheis innenfor en boenhet gjelder følgende:Eier kan selv forestå installering av løfteplattform og trappeheis innenfor en boenhet, jf. [forskrift 26. mars 2010 nr. 488 om byggesak § 4-1](forskrift/2010-03-26-488/§4-1) første ledd bokstav d nr. 4.Eier av løfteinnretning er ansvarlig for at løfteinnretning som er i bruk, er sikkerhetsmessig forsvarlig og at det utføres vedlikehold og ettersyn med denne.Eier skal umiddelbart melde ulykker/hendelser til kommunen og til nasjonalt installasjonsregister.
+(2) Kravene i første ledd gjelder ikke for:Løfteplattformer og løftebord som utelukkende brukes i arbeidssammenhengLøfteplattformer og løftebord som er beregnet for bil- eller varetransport, når innretningen betjenes av operatør på utsiden av innretningen og ikke er beregnet for at personer skal oppholde seg på innretningen under bruk og ikke er ment for bruk av allmennheten.Automatiske parkeringsanlegg uten persontransport.Med arbeidssammenheng i bokstav a menes at innretningen eksempelvis brukes som ledd i vareproduksjon, intern varetransport, oppføring, drift eller vedlikehold av byggverk, eller for atkomst til særlige arbeidsplasser.
 
-(3) Når feil på installasjonen kan medføre fare for personsikkerhet, skal løfteinnretningen settes ut av drift.
+(3) For løfteplattform og trappeheis som er tildelt eller utlånt som hjelpemiddel fra Arbeids- og velferdsetaten, eller som er innenfor en boenhet, gjelder følgende:Eier av løfteinnretning er ansvarlig for at løfteinnretning som er i bruk, er sikkerhetsmessig forsvarlig og at det utføres vedlikehold og ettersyn med denne.Eier skal umiddelbart melde ulykker og hendelser til kommunen og til Direktoratet for byggkvalitet.Når feil på installasjonen kan medføre fare for personsikkerhet, skal løfteinnretningen settes ut av drift.
 
-> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Endret ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll
 
-(1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordninglandsdekkende heiskontrollordning med bemyndigelse fra departementetlandsdekkende heiskontrollordning som utfører sikkerhetskontroll på midlertidig grunnlagDirektoratet for byggkvalitet.
+(1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordningsikkerhetskontrollør tilsatt i landsdekkende heiskontrollordning med bemyndigelse fradepartementetsikkerhetskontrollør som utfører sikkerhetskontroll på midlertidig grunnlagsikkerhetskontrollør tilsatt i Direktoratet for byggkvalitet.
 
 (2) Sikkerhetskontrollør skal godkjennes av Direktoratet for byggkvalitet.
 
@@ -1113,57 +1113,39 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (4) Godkjenning av sikkerhetskontrollør gis for 2 år og ved fornyelse vurderes blant annet følgendeom søker har arbeidet som sikkerhetskontrollørom søker kan dokumentere oppdatert kunnskap om løfteinnretning og tilhørende regelverk.
 
-> Endret ved [forskrift 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164). **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Endret ved [forskrifter 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164), [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
-### § 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for heis for personer med yrkeskvalifikasjoner fra annen EØS-stat
+### § 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for personer med yrkeskvalifikasjoner fra andre land
 
-(1) Bestemmelsens formål er å gjennomføre rettigheter og plikter som følger av direktiv [2005/36/EF](eu/32005l0036) om godkjenning av yrkeskvalifikasjoner. Bestemmelsen gjelder godkjenning for å utføre periodisk sikkerhetskontroll av heis for søker som har tilegnet seg yrkeskvalifikasjoner i et annet EØS-land. Bestemmelsen gjelder også rett til midlertidig og tilfeldig tjenesteyting i Norge.
+(1) Direktoratet for byggkvalitet kan gi godkjenning som sikkerhetskontrollør til person med yrkeskvalifikasjoner fra en annen EØS-stat, Sveits eller Storbritannia etter reglene i [yrkeskvalifikasjonsloven](lov/2017-06-16-69) og [forskrift om godkjenning av yrkeskvalifikasjoner](forskrift/2017-12-22-2384).
 
-(2) I bestemmelsen menes med*lovregulert yrke:* Yrke der det direkte eller indirekte framgår av lov eller forskrift at det for adgang til eller utførelse av yrket kreves bestemte kvalifikasjoner.*yrkeskvalifikasjoner:* Kvalifikasjoner bevitnet med kvalifikasjonsbevis, kompetanseattest som vist til i direktivets artikkel 11 bokstav a) i) og/eller yrkeserfaring.*kvalifikasjonsbevis:* Diplomer, attester og annen dokumentasjon utstedt av en kompetent myndighet i en medlemsstat. Kvalifikasjonsbeviset skal dokumentere bestått yrkeskompetansegivende utdanning som i hovedsak er ervervet i EØS-området. Som kvalifikasjonsbevis regnes også bevis utstedt av en tredjestat dersom innehaveren har tre års yrkeserfaring i det aktuelle yrket i den medlemsstat som godkjente beviset.*yrkeserfaring:* Faktisk og lovlig utøvelse av det aktuelle yrket i en medlemsstat.*prøveperiode:* Utøvelse av et lovregulert yrke i vertsstaten under tilsyn av en kvalifisert utøver av dette yrket.*egnethetsprøve:* En prøve avgrenset til søkerens faglige kunnskaper som gjennomføres av vedkommende myndigheter i vedkommende vertsstat med sikte på å vurdere søkerens evne til å utøve et lovregulert yrke i medlemsstaten.
+(2) Søker fra annen EØS-stat, Sveits eller Storbritannia som ikke omfattes av reglene etter [yrkeskvalifikasjonsloven](lov/2017-06-16-69) og [forskrift om godkjenning av yrkeskvalifikasjoner](forskrift/2017-12-22-2384), kan godkjennes dersom søker har likeverdige kvalifikasjoner som nevnt i [§ 16-2 tredje ledd](forskrift/2017-06-19-840/§16-2/ledd/3).
 
-(3) Statsborgere fra en EØS-stat har rett til godkjenning som periodisk sikkerhetskontrollør for heis dersom dette følger av reglene i direktiv [2005/36/EF](eu/32005l0036), selv om de ikke har kvalifikasjoner som er likeverdige med kravene i [§ 16-2](forskrift/2017-06-19-840/§16-2) tredje ledd. Godkjenning som sikkerhetskontrollør skal gis dersom den aktuelle virksomheten tidligere har vært utøvdi seks sammenhengende år som selvstendig næringsdrivende eller som leder av et foretak, elleri tre sammenhengende år som selvstendig næringsdrivende eller som leder av et foretak, dersom den begunstigede kan bevise at vedkommende i den aktuelle virksomheten har fått minst tre års forutgående opplæring, bevitnet ved en attest godkjent av medlemsstaten eller ansett som fullt ut tilfredsstillende av et kompetent bransjeorgan, elleri fire sammenhengende år som selvstendig næringsdrivende eller som leder av et foretak, dersom den begunstigede kan bevise at vedkommende i den aktuelle virksomheten har fått minst to års forutgående opplæring, bevitnet ved en attest godkjent av medlemsstaten eller ansett som fullt ut tilfredsstillende av et kompetent bransjeorgan, elleri tre sammenhengende år som selvstendig næringsdrivende dersom den begunstigede kan bevise at vedkommende har utøvd den aktuelle virksomheten i minst fem år som lønnsmottaker, elleri fem sammenhengende år som selvstendig næringsdrivende, der minst tre av disse årene har medført tekniske plikter og ansvar for minst en avdeling i selskapet, dersom den begunstigede for den aktuelle virksomheten kan bevise at vedkommende har fått minst tre års forutgående opplæring, bevitnet ved en attest godkjent av medlemsstaten eller ansett som fullt ut tilfredsstillende av et kompetent bransjeorgan.
+(3) For yrkesutøvere med yrkeskvalifikasjoner fra land som ikke omfattes av første ledd, gjelder [yrkeskvalifikasjonsloven § 2 tredje ledd](lov/2017-06-16-69/§2/ledd/3) og bestemmelser gitt i medhold av [yrkeskvalifikasjonsloven § 2 femte ledd](lov/2017-06-16-69/§2/ledd/5).
 
-(4) I tilfelle av bokstav a til d i tredje ledd må virksomheten ikke ha vært avsluttet i mer enn ti år før dato for oversendelse av fullstendig søknad.
-
-(5) Søker som ikke oppfyller kravene i [§ 16-2](forskrift/2017-06-19-840/§16-2) tredje ledd, kan søke alternativ godkjenning som periodisk sikkerhetskontrollør for heis. Søkeren framlegger kvalifikasjonsbevis som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene som følger av [§ 16-2](forskrift/2017-06-19-840/§16-2) tredje ledd. I tillegg kan det i slike tilfelle kreves utligningstiltak som beskrevet i syvende ledd. Ved sammenligning av utdanningsnivåene gjelder følgende fem kvalifikasjonsnivåer:A – kompetansebevisB – bevis på avsluttet videregående opplæringC – eksamensbevis fra utdanning etter videregående opplæring på minst 1 årD – eksamensbevis fra utdanning etter videregående opplæring på minst 3 år og høyst 4 år ved universitet eller høyere utdanningsinstitusjonE – eksamensbevis fra utdanning etter videregående opplæring på minst 4 år ved universitet eller høyere utdanningsinstitusjon.
-
-(6) Kvalifikasjonskravene etter [§ 16-2](forskrift/2017-06-19-840/§16-2) tredje ledd alternativ 1 tilsvarer nivå D, alternativ 2 tilsvarer nivå C og alternativ 3 tilsvarer nivå B. Søker som har arbeidet som sikkerhetskontrollør for heis i en EØS-stat hvor yrket ikke er lovregulert, har rett til godkjenning dersom søker har utøvd yrket på heltid i minst to år, eller tilsvarende periode på deltid, i løpet av de siste ti år. Søkeren må framlegge bevis på yrkeskvalifikasjoner som dokumenterer at søker kan arbeide som periodisk sikkerhetskontrollør for heis.
-
-(7) For godkjenning etter femte og sjette ledd kan søkeren pålegges å fullføre en prøveperiode på høyst tre år eller avlegge en egnethetsprøve dersomvarigheten av opplæringen søkeren framlegger kvalifikasjonsbevis for i henhold til vilkårene i [§ 16-2](forskrift/2017-06-19-840/§16-2) tredje ledd er minst ett år kortere enn det som kreves av vertsstaten, ellerutdanningen som søkeren har gjennomgått, omfatter vesentlig andre fagområder enn de som omfattes av det kvalifikasjonsbeviset som kreves i vertsstaten, ellerdet lovregulerte yrket i vertsstaten omfatter en eller flere former for lovregulert yrkesvirksomhet som ikke eksisterer i det tilsvarende yrket i søkerens hjemstat, jf. direktiv [2005/36/EF](eu/32005l0036) artikkel 4 nr. 2, og at forskjellen består i særlig utdanning som kreves i vertsstaten og som omfatter vesentlig andre saker enn de som omfattes av søkerens kompetanseattest eller kvalifikasjonsbevis.
-
-(8) Dersom vertsstaten gjør bruk av muligheten for utlikningstiltak etter sjuende ledd, skal den gi søkeren valget mellom en prøveperiode og en egnethetsprøve.
-
-(9) For godkjenning av yrkeskvalifikasjoner skal godkjenningsmyndigheten kreve at søker framleggerbevis på vedkommende persons nasjonalitetkopier av attester på vedkommendes kompetanse eller av de kvalifikasjonsbevis som gir adgang til det lovregulerte yrket samt attestering av vedkommendes yrkeserfaring.
-
-(10) Direktoratet for byggkvalitet skal behandle søknader så raskt som mulig. Innen en måned etter at søknad er mottatt, skal mottaket av søknaden bekreftes og informere søkeren om eventuelle manglende dokumenter. Vedtak skal fattes senest innen fire måneder etter at all nødvendig dokumentasjon er lagt frem. Selv om en person oppfyller de kvalifikasjonskrav som er oppstilt for godkjenning som periodisk sikkerhetskontrollør for heis, kan Direktoratet for byggkvalitet på bakgrunn av manglende dokumentasjon avslå søknad om godkjenning. Avslag på søknad kan påklages av parter eller annen med rettslig klageinteresse.
-
-> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Endret ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-4. Midlertidig utøvelse av sikkerhetskontroll
 
-(1) Periodisk sikkerhetskontroll av heis kan utføres på midlertidig og tilfeldig grunnlag av personer som er lovlig etablert i en annen EØS-stat med sikte på å drive slik virksomhet der, jf. artikkel 5. Tjenesteytelsens midlertidige karakter skal vurderes fra sak til sak på bakgrunn av ytelsens varighet, hyppighet, regelmessighet og kontinuitet. Ved førstegangs ytelse av tjenesten, eller dersom det senere foreligger en vesentlig endring av de forhold som omhandles i dokumentene, skal tjenesteyteren underrette Direktoratet for byggkvalitet ved innsendelse av forhåndsmelding som ledsages av følgende dokumenter:bevis på tjenesteyterens nasjonalitetbevis på at vedkommende er lovlig etablert i en annen EØS-stat med det formål å utøve den aktuelle virksomheten, og at det på tidspunktet for innsendelsen ikke er forbudt for vedkommende å praktisere, heller ikke midlertidigyrkeskvalifikasjonerdersom yrket ikke er lovregulert i det land tjenesteyter har etablert sin virksomhet, bevis på å ha utøvd den aktuelle virksomheten i minst to av de siste ti årene.
+(1) Periodisk sikkerhetskontroll kan utføres på midlertidig og tilfeldig grunnlag av yrkesutøver som oppfyller kravene i [yrkeskvalifikasjonsloven § 4](lov/2017-06-16-69/§4).
 
-(2) Underretning til Direktoratet for byggkvalitet skal skje for hvert år tjenesteyter ønsker å utøve yrket. Direktoratet for byggkvalitet kan kontrollere tjenesteyterens yrkeskvalifikasjoner før tjenesten ytes for første gang for å unngå alvorlig skade på tjenestemottakernes helse eller sikkerhet på grunn av manglende faglige kvalifikasjoner. Kontrollen skal ikke gå ut over det som er nødvendig for formålet. Direktoratet for byggkvalitet skal informere tjenesteyter om yrkeskvalifikasjonene vil bli kontrollert eller ikke, innen en måned etter å ha mottatt nødvendig dokumentasjon eller om resultatet av en slik kontroll. Der det foreligger vansker som vil føre til forsinkelse, skal tjenesteyter underrettes om grunnen til dette og om tidsplanen for en beslutning. Beslutningen må ikke være truffet innen to måneder etter mottak av fullstendig dokumentasjon. Tjenesteyter som ikke har mottatt beslutning om kontroll av yrkeskvalifikasjoner innen denne frist, har rett til å utøve yrket.
+(2) Første gang tjeneste som nevnt i første ledd ytes i Norge, skal tjenesteyter levere forhåndsmelding og dokumentasjon til Direktoratet for byggkvalitet i samsvar med [yrkeskvalifikasjonsloven § 5](lov/2017-06-16-69/§5) og [forskrift om godkjenning av yrkeskvalifikasjoner § 2-2](forskrift/2017-12-22-2384/§2-2). Underretning til Direktoratet for byggkvalitet skal skje for hvert år tjenesteyter ønsker å utøve yrket.
 
-> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Endret ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-5. Språkkrav
 
 Direktoratet for byggkvalitet kan kreve at person som gis godkjenning som sikkerhetskontrollør for heis etter [§ 16-3](forskrift/2017-06-19-840/§16-3) eller som skal utøve midlertidig tjeneste i samsvar med [§ 16-4](forskrift/2017-06-19-840/§16-4), dokumenterer å ha tilstrekkelige norskkunnskaper for å kunne praktisere yrket.
 
-### § 16-6. Installasjonsregister
+### § 16-6. Nasjonalt installasjonsregister
 
-Det skal føres register over installerte løfteinnretninger og ulykker med løfteinnretninger. Eier av løfteinnretning skal melde installasjonen til kommunen og det organ som fører registeret. Registerførende organ utpekes av Direktoratet for byggkvalitet.
+Det skal føres register over installerte løfteinnretninger og gjennomførte sikkerhetskontroller. Kravet om registrering gjelder likevel ikke løfteinnretninger som omfattes av [§ 16-1 (2)](forskrift/2017-06-19-840/§16-1/ledd/2) og [(3)](forskrift/2017-06-19-840/§16-1/ledd/3). Eier av løfteinnretning skal melde installasjonen til kommunen og registeret. Sikkerhetskontrollorganene skal uten ugrunnet opphold melde inn gjennomført sikkerhetskontroll til registeret. Registerførende organ utpekes av Direktoratet for byggkvalitet.
 
-> **Endres** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Endret ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
-### § 16-7. Administrativt samarbeid
+### § 16-7. (Opphevet)
 
-(1) Direktoratet for byggkvalitet skal så vidt mulig underrette kompetent myndighet i annen EØS-stat hvor søker utøver virksomhet som omhandlet i forskriften, dersom yrkesutøveren her i landet gis administrative reaksjoner, ilegges strafferettslige sanksjoner eller det oppstår andre alvorlige omstendigheter som kan få konsekvenser for utøvelse av yrket. Har kompetent myndighet i en annen EØS-stat bedt om opplysninger, skal opplysningene gis så snart som mulig og senest innen to måneder etter at forespørselen ble mottatt.
-
-(2) Vedkommende myndigheter i vertsstater og hjemstater skal samarbeide nært og gi hverandre gjensidig bistand for å tilrettelegge anvendelsen av direktiv [2005/36/EF](eu/32005l0036). Opplysninger som utveksles skal behandles fortrolig.
-
-> **Oppheves** ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
+> Opphevet ved forskrift [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
 
 ### § 16-8. Prisregulering
 

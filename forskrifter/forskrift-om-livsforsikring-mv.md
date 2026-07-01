@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2006-07-01"
-last_change_in_force: "2024-06-12"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-01-01"
-xml_hash: "55ab3e44ce8018aeec8cde314a22c9c1cef9943d1549d99ec4271a17ca452c88"
+xml_hash: "ca735cb222c1ddb0e289b5a0e4986213ce4f2598f9ca6b4771715b4c2ebf2a35"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -232,11 +232,11 @@ Avkastningen av midlene svarende til denne premiereserven skal tilordnes avsetni
 
 Bufferfond knyttet til individuell kapitalforsikring skal utbetales ved forsikringstilfellet eller ved gjenkjøp i samme utstrekning som det foretas gjenkjøp. Det samme gjelder ved gjenkjøp av individuell livrente.
 
-Bufferfond knyttet til individuell rente- og pensjonsforsikring skal benyttes til engangspremier for årlig forhøyelse av pensjonsytelsene, første gang innen ett år etter at pensjon ble utbetalt. Hvert år benyttes en del av bufferfondet tilsvarende den prosentvise reduksjonen av premiereserven i løpet av året, eller en så stor del at ytelsene kan forhøyes like meget som i foregående år. Skal pensjon utbetales i et fastsatt antall av år, skal i tilfelle gjenværende bufferfond utbetales i det siste år av perioden.
+Bufferfond knyttet til individuell rente- og pensjonsforsikring skal benyttes til engangspremier for årlig forhøyelse av pensjonsytelsene, første gang innen ett år etter at pensjon ble utbetalt. Hvert år benyttes den del av bufferfondet som frigjøres som følge av foretakets nedbygging av bufferfond i tråd med retningslinjene etter [§ 5-6](forskrift/2006-06-30-869/§5-6). Skal pensjon utbetales i et fastsatt antall av år, skal i tilfelle gjenværende bufferfond utbetales i det siste år av perioden.
 
 Bufferfond knyttet til kollektiv pensjonsordning skal ved opphør og avvikling eller endringer i arbeidsgiverforetaket disponeres i samsvar med reglene om pensjonsordningens midler i [foretakspensjonsloven kapitlene 12](lov/2000-03-24-16/kap12) til [15](lov/2000-03-24-16/kap15), [innskuddspensjonsloven kapitlene 10](lov/2000-11-24-81/kap10) til [14](lov/2000-11-24-81/kap14) og [tjenestepensjonsloven kapittel 7](lov/2013-12-13-106/kap7).
 
-> Endret ved forskrifter [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
+> Endret ved forskrifter [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024), [25 juni 2026 nr. 1360](forskrift/2026-06-25-1360) (i kraft 1 juli 2026).
 
 ### § 5-5. Annen bruk av bufferfond
 
@@ -248,7 +248,11 @@ Har et foretak tapt sin ansvarlige kapital, og kan kravet til premiereserve for 
 
 Foretaket kan ved avsetning til bufferfond i prosent av premiereserve knyttet til den enkelte kontrakt i kollektivporteføljen etter [forsikringsvirksomhetsloven § 3-19 annet ledd](lov/2005-06-10-44/§3-19/ledd/2), benytte en annen prosentsats for grupper av kontrakter eller avstå fra å benytte overskudd på avkastningsresultatet til bufferfond, begrunnet i kontraktenes behov for bufferfond. I vurderingen skal det tas hensyn til nivået på kontraktenes beregningsrente, kontraktenes eksisterende bufferfond og nivået på eventuelle andre buffere knyttet til eiendeler i kollektivporteføljen, kontraktenes gjenstående løpetid og andre relevante forhold. Avsetningene til bufferfond skal innrettes på en måte som ikke fører til urimelig forskjellsbehandling og interessekonflikter mellom kunder og kundegrupper og mellom kunder og foretaket. Foretaket skal ha retningslinjer for avsetninger til bufferfond.
 
-> Tilføyd ved [forskrift 14 mars 2008 nr. 258](forskrift/2008-03-14-258) (fom regnskapsåret 2007), endret ved [forskrifter 21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [11 feb 2022 nr. 237](forskrift/2022-02-11-237) (med virkning for regnskapsår som begynner 1 januar 2022 eller senere), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
+Foretaket skal ha retningslinjer for maksimalt nivå på bufferfond knyttet til kontraktene og for nedbygging av bufferfond. Første ledd annet og tredje punktum gjelder tilsvarende ved fastsettelse og bruk av retningslinjer for maksimalt nivå og nedbygging av bufferfond.
+
+Foretaket skal offentliggjøre hovedinnholdet i foretakets retningslinjer etter første og annet ledd.
+
+> Tilføyd ved [forskrift 14 mars 2008 nr. 258](forskrift/2008-03-14-258) (fom regnskapsåret 2007), endret ved [forskrifter 21 des 2011 nr. 1442](forskrift/2011-12-21-1442), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [11 feb 2022 nr. 237](forskrift/2022-02-11-237) (med virkning for regnskapsår som begynner 1 januar 2022 eller senere), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024), [25 juni 2026 nr. 1360](forskrift/2026-06-25-1360) (i kraft 1 juli 2026).
 
 ### § 5-7. Risikoutjevningsfond
 
@@ -344,13 +348,15 @@ Opplysningene i kontoutskriften skal gis på norsk, men kan gis på et annet spr
 
 Det skal i kontoutskriften gis særskilt opplysning om de midler som er knyttet til kontrakten, herunder premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning.
 
-Kontoutskriften skal vise saldoen ved utgangen av foregående år og utgangen av året, samt alle bevegelser som er relevante for saldoens utvikling, inkludert:Årets premie eller innskudd.Årets vederlag for dekning av henholdsvis risiko, administrative tjenester og forvaltning av midlene knyttet til kontrakten, samt eventuelt vederlag som er avregnet i avkastning av forvaltning av midlene.Årets belastning av kontraktens administrasjonsreserver.Årets avkastning på midler knyttet til kontrakten, herunder eventuell avkastning som er benyttet til å dekke vederlag for forvaltning av midlene. I tillegg skal det opplyses om årets overskudd på avkastning tilordnet midlene og fordeling av overskuddet til henholdsvis premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning etter [§ 6-3](forskrift/2006-06-30-869/§6-3). Hvis årets avkastning ikke er tilstrekkelig til å dekke økningen av premiereserve etter kontraktens premieberegningsgrunnlag, skal bruk av bufferfond og bufferavsetning samt tilførte midler fra foretaket fremgå.Årets overskudd på risikoresultatet tilordnet kontrakten og fordeling av overskuddet til henholdsvis premiereserve, premiefond og pensjonistenes overskuddsfond. Hvis årets risikoresultat er negativt, skal bruk av risikoutjevningsfond og tilførte midler fra foretaket fremgå.
+Kontoutskriften skal vise saldoen ved utgangen av foregående år og utgangen av året, samt alle bevegelser som er relevante for saldoens utvikling, inkludert:Årets premie eller innskudd.Årets vederlag for dekning av henholdsvis risiko, administrative tjenester og forvaltning av midlene knyttet til kontrakten, samt eventuelt vederlag som er avregnet i avkastning av forvaltning av midlene.Årets belastning av kontraktens administrasjonsreserver.Årets avkastning på midler knyttet til kontrakten, herunder eventuell avkastning som er benyttet til å dekke vederlag for forvaltning av midlene. I tillegg skal det opplyses om årets overskudd på avkastning tilordnet midlene og fordeling av overskuddet til henholdsvis premiereserve, pensjonskapital, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond og bufferavsetning etter [§ 6-3](forskrift/2006-06-30-869/§6-3). Hvis årets avkastning ikke er tilstrekkelig til å dekke økningen av premiereserve etter kontraktens premieberegningsgrunnlag, skal bruk av bufferfond og bufferavsetning samt tilførte midler fra foretaket fremgå.Årets overskudd på risikoresultatet tilordnet kontrakten og fordeling av overskuddet til henholdsvis premiereserve, premiefond og pensjonistenes overskuddsfond. Hvis årets risikoresultat er negativt, skal bruk av risikoutjevningsfond og tilførte midler fra foretaket fremgå.Årets belastning av motregningskrav etter [forsikringsvirksomhetsloven § 3-19a](lov/2005-06-10-44/§3-19a).
 
 Kontoutskriften skal opplyse om risikoutjevningsfondets størrelse ved utgangen av året. Størrelsen skal oppgis både i kroner og i prosent av forsikringskapitalen. Det skal også opplyses om kontraktens andel av årets overskudd som overføres til risikoutjevningsfondet. Andelen beregnes ved at det etter at overføringen til risikoutjevningsfondet er fordelt mellom de enkelte grupper av kontrakter iht. § 5-7 annet ledd annet punktum i forskriften her, foretas en fordeling på de enkelte kontrakter i gruppen etter forholdet mellom de risikopremier som er betalt for den enkelte kontrakt.
 
 Kontoutskriften skal også opplyse om bokført kapitalavkastningsrente for regnskapsåret for den portefølje kontrakten inngår i, beregnet etter forskrift fastsatt av Finanstilsynet. foretaket kan eventuelt opplyse om den kapitalavkastningsrente som er benyttet i forbindelse med tildeling av årets overskudd på den enkelte kontrakt dersom dette gir et riktigere bilde av tilført avkastning.
 
-> Tilføyd ved [forskrift 3 des 2009 nr. 1439](forskrift/2009-12-03-1439) (se denne for overgangsregel), endret ved forskrifter [18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
+I note til kontoutskriften skal det klart fremgå hvordan saldoen for eventuelle betingede egenkapitalbidrag fra foretaket har utviklet seg fra ikrafttredelsestidspunktet for [forsikringsvirksomhetsloven § 3-19a](lov/2005-06-10-44/§3-19a) og frem til utgangen av foregående år samt utviklingen frem til utgangen av året. Alle bevegelser som er relevante for saldoens utvikling, herunder foretatte motregningskrav skal fremgå.
+
+> Tilføyd ved [forskrift 3 des 2009 nr. 1439](forskrift/2009-12-03-1439) (se denne for overgangsregel), endret ved forskrifter [18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [9 des 2016 nr. 1504](forskrift/2016-12-09-1504) (i kraft 1 jan 2017), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024), [25 juni 2026 nr. 1360](forskrift/2026-06-25-1360) (i kraft 1 juli 2026).
 
 ### § 8-4. Tilleggsopplysninger for kommunale pensjonsordninger som inngår i fellesordninger
 

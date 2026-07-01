@@ -9,13 +9,13 @@ language: "nn"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2009-01-01"
-last_change_in_force: "2025-06-20"
+last_change_in_force: "2026-07-01"
 last_updated: "2022-03-28"
-xml_hash: "e5eff449c19c4f5a63c53682c776057b1a4d26246e95fdd351796937b304b91f"
+xml_hash: "c80284df355161a93b7f8c1eac34771e7df0ce92888d6a570e6891d76764665f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,7 +36,7 @@ Kongen kan gi forskrift om at lova ikkje skal gjelde for sjølvstendige rettssub
 
 Lova gjeld ikkje for Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget.
 
-Lova gjeld ikkje for gjeremål som domstolane har etter rettsstellovene. Lova gjeld heller ikkje for gjeremål som andre organ har etter rettsstellovene i eigenskap av rettsstellorgan. Lova gjeld dessutan ikkje for gjeremål som politiet og påtalemakta har etter straffeprosessloven. Lova gjeld ikkje for dokument som blir behandla av Etterretningstenesta etter [etterretningstjenesteloven](lov/2020-06-19-77), eller for straffesaksdokument som blir lånte ut frå politiet til Statens kommisjon for partnardrap. Kongen kan gi forskrifter om kva lover som skal reknast som rettsstellover, og om at enkelte gjeremål etter rettsstellovene likevel skal vere omfatta av lova.
+Lova gjeld ikkje for gjeremål som domstolane har etter rettsstellovene. Lova gjeld heller ikkje for gjeremål som andre organ har etter rettsstellovene i eigenskap av rettsstellorgan. Lova gjeld dessutan ikkje for gjeremål som politiet og påtalemakta har etter straffeprosessloven. Lova gjeld ikkje for dokument som blir behandla av Etterretningstenesta etter [etterretningstjenesteloven](lov/2020-06-19-77), eller for straffesaksdokument som blir lånte ut frå politiet til Statens kommisjon for partnardrap eller til Statens helsetilsyn etter [barnevoldsundersøkelsesloven § 9](lov/2026-05-29-20/§9). Kongen kan gi forskrifter om kva lover som skal reknast som rettsstellover, og om at enkelte gjeremål etter rettsstellovene likevel skal vere omfatta av lova.
 
 Lova gjeld ikkje ved innsyn i Folkeregisteret i opplysningar som i medhald av [folkeregisterloven § 3-1](lov/2016-12-09-88/§3-1) er registrerte om enkeltpersonar.
 
@@ -44,7 +44,7 @@ Lova gjeld for Svalbard dersom ikkje anna blir fastsett av Kongen.
 
 Føresegnene i [§ 6](lov/2006-05-19-16/§6), [§ 7](lov/2006-05-19-16/§7) andre ledd, [§ 8](lov/2006-05-19-16/§8) tredje ledd andre punktum og fjerde og femte ledd og [§ 30](lov/2006-05-19-16/§30) første ledd tredje punktum og andre ledd gjeld uavhengig av føresegnene i paragrafen her for alle verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)). **Vert endra** ved lov [29 mai 2026 nr. 20](lov/2026-05-29-20) (i kraft 1 juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
+> Endra ved lover [28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)), [9 des 2016 nr. 88](lov/2016-12-09-88) (ikr. 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718)), [19 juni 2020 nr. 77](lov/2020-06-19-77) (ikr. 1 jan 2021 iflg. res. [1 nov 2020 nr. 2296](forskrift/2020-11-10-2296)), [20 des 2022 nr. 115](lov/2022-12-20-115), [28 mars 2025 nr. 5](lov/2025-03-28-5) (i kraft 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544)), [29 mai 2026 nr. 20](lov/2026-05-29-20) (i kraft 1 juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ## Kapittel 2. Hovudreglane om innsyn
 
@@ -72,7 +72,7 @@ For saksdokument som er utarbeidde av eller til EOS-utvalet i saker som utvalet 
 
 Dersom vesentlege private eller offentlege omsyn tilseier det, kan innsyn i eit dokument utsetjast til det har komme fram til den det vedkjem, eller hendinga der det skal offentleggjerast, har funne stad.
 
-> Endra med [lover 19 des 2014 nr. 92](lov/2014-12-19-92) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1731](forskrift/2014-12-19-1731)), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [18 juni 2021 nr. 124](lov/2021-06-18-124), [20 juni 2025 nr. 51](lov/2025-06-20-51).
+> Endra ved [lover 19 des 2014 nr. 92](lov/2014-12-19-92) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1731](forskrift/2014-12-19-1731)), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)), [18 juni 2021 nr. 124](lov/2021-06-18-124), [20 juni 2025 nr. 51](lov/2025-06-20-51).
 
 ### § 6. Forbod mot forskjellsbehandling
 
@@ -82,7 +82,7 @@ Forbodet i første ledd er ikkje til hinder for at det kan gjerast avtalar om ei
 
 Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i paragrafen her berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
+> Endra ved [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 7. Bruk av offentleg informasjon
 
@@ -90,7 +90,7 @@ Informasjon som det er gitt tilgang til etter lova her eller anna lovgiving som 
 
 I verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor, skal eventuelle standardlisensar om bruk av offentleg informasjon vere tilgjengelege i digitalt format, og dei må kunne behandlast elektronisk. Kongen kan i forskrift fastsetje at det same skal gjelde for verksemder som ikkje er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
+> Endra ved [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 8. Hovudregel om gratis innsyn
 
@@ -106,7 +106,7 @@ Verksemder som til vanleg krev betaling for informasjon, skal på førehand offe
 
 Dersom ikkje anna blir fastsett av Kongen i forskrift, gjeld føresegnene i tredje ledd andre punktum og i fjerde og femte ledd berre for verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003/98/EF](eu/32003l0098) som endra ved direktiv [2013/37/EU](eu/32013l0037)) om vidarebruk av informasjon frå offentleg sektor.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
+> Endra ved [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 9. Rett til å krevje innsyn i ei samanstilling frå databasar
 
@@ -120,7 +120,7 @@ Kongen kan gi forskrift om at organ som fører elektronisk journal, skal gjere h
 
 Organ som er omfatta av lova her, kan gjere dokument allment tilgjengelege på Internett, med unntak for opplysningar som er underlagde teieplikt i lov eller i medhald av lov. Kongen kan gi forskrift om tilgjengeleggjering av dokument på Internett og om at visse typar personopplysningar og dokument som ein tredjeperson har immaterielle rettar til, ikkje skal gjerast tilgjengelege på denne måten.
 
-> Endra med [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
+> Endra ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
 ### § 11. Meirinnsyn
 
@@ -166,7 +166,7 @@ Unntaket i [§ 14](lov/2006-05-19-16/§14) gjeld ikkje for dokument frå eller t
 
 Unntaket i [§ 14](lov/2006-05-19-16/§14) gjeld heller ikkje for dokument frå eller til ei kommunal eller fylkeskommunal eining på område der einingane har sjølvstendig avgjerdsrett. Unntaket i [§ 14](lov/2006-05-19-16/§14) gjeld likevel for dokument i saker der administrasjonssjefen eller kommunerådet gjennomfører kontrolltiltak overfor ei eining, og for utkast til vedtak og innstillingar som blir lagde fram for administrasjonssjefen eller kommunerådet før det blir gjort vedtak, eller før ei innstilling blir lagd fram for eit folkevalt organ. Unntaket i [§ 14](lov/2006-05-19-16/§14) gjeld også for merknader frå administrasjonssjefen eller kommunerådet til slike utkast som er nemnde i førre punktum.
 
-> Endra med [lover 19 juni 2015 nr. 64](lov/2015-06-19-64), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)).
+> Endra ved [lover 19 juni 2015 nr. 64](lov/2015-06-19-64), [22 juni 2018 nr. 83](lov/2018-06-22-83) (ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879)).
 
 ### § 17. Unntak for visse dokument som gjeld Det Kongelege Hoff
 
@@ -180,7 +180,7 @@ Det kan gjerast unntak frå innsyn for dokument som eit organ har utarbeidd elle
 
 Det kan gjerast unntak frå innsyn for dokument som blir utveksla mellom statlege organ og Sametinget og andre som ledd i konsultasjonar etter reglane i [sameloven kapittel 4](lov/1987-06-12-56/kap4). Dette gjeld ikkje dokument som blir utveksla som ledd i allmenn høyring i ei sak.
 
-> Endra med lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
+> Endra ved lov [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870)).
 
 ### § 20. Unntak av omsyn til Noregs utanrikspolitiske interesser
 
@@ -208,7 +208,7 @@ Det kan gjerast unntak frå innsyn for tilbod og protokoll etter regelverk som e
 
 Det kan gjerast unntak frå innsyn for dokument som gjeld selskap der staten eller ein kommune eller fylkeskommune har eigarinteresser, og som blir behandla av vedkommande organ som eigar, dersom selskapet ikkje er omfatta av verkeområdet for lova her.
 
-> Endra med [lov 21 apr 2017 nr. 18](lov/2017-04-21-18).
+> Endra ved [lov 21 apr 2017 nr. 18](lov/2017-04-21-18).
 
 ### § 24. Unntak for kontroll- og reguleringstiltak, dokument om lovbrot og opplysningar som kan lette gjennomføringa av lovbrot m.m.
 
@@ -226,7 +226,7 @@ Unntaket i første ledd gjeld ikkje søkjarlister. Organet skal snarast etter at
 
 Det kan gjerast unntak frå innsyn for skriftleg oppgåve over utrekna lønn eller liknande godtgjering, utrekningsgrunnlag for feriepengar og trekk som blir gjorde ved utbetalinga. Unntaket i første punktum omfattar ikkje opplysningar om bruttoutbetalingar. Innsyn i opplysningar om bruttoutbetalingar kan givast ved oppstilling av opplysningane i eit anna dokument.
 
-> Endra med lover [16 des 2011 nr. 62](lov/2011-12-16-62), [24 april 2020 nr. 31](lov/2020-04-24-31) (ikr. 1 jan 2021 iflg. [res. 24 april 2020 nr. 855](forskrift/2020-04-24-855)).
+> Endra ved lover [16 des 2011 nr. 62](lov/2011-12-16-62), [24 april 2020 nr. 31](lov/2020-04-24-31) (ikr. 1 jan 2021 iflg. [res. 24 april 2020 nr. 855](forskrift/2020-04-24-855)).
 
 ### § 26. Unntak for eksamensdokument, forskingsopplysningar og fødselsnummer m.m.
 
@@ -242,7 +242,7 @@ Det kan gjerast unntak frå innsyn for fødselsnummer og nummer med tilsvarande 
 
 Det kan gjerast unntak frå innsyn for samanstillingar av og oversikter over personopplysningar som blir utarbeidde som ei direkte følgje av innsynskrav etter personvernforordninga artikkel 15.
 
-> Endra med [lover 30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 30 jan 2009 iflg. [res. 30 jan 2009 nr. 76](forskrift/2009-01-30-76)), [16 des 2011 nr. 62](lov/2011-12-16-62), [18 juni 2021 nr. 124](lov/2021-06-18-124) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1967](forskrift/2021-06-18-1967)).
+> Endra ved [lover 30 jan 2009 nr. 7](lov/2009-01-30-7) (ikr. 30 jan 2009 iflg. [res. 30 jan 2009 nr. 76](forskrift/2009-01-30-76)), [16 des 2011 nr. 62](lov/2011-12-16-62), [18 juni 2021 nr. 124](lov/2021-06-18-124) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1967](forskrift/2021-06-18-1967)).
 
 ### § 27. Forskriftsheimel
 
@@ -272,7 +272,7 @@ Når verksemder som er omfatta av EØS-avtalen vedlegg XI nr. 5k (direktiv [2003
 
 Dersom verksemder som nemnde i andre ledd gjer dokument med tilhøyrande metadata allment tilgjengelege, skal tilgjengeleggjeringa skje i alle eksisterande format og språkversjonar, så langt slik tilgjengeleggjering er i samsvar med lova her og tilhøyrande forskrift. Plikta omfattar maskinleselege format. Plikta etter første punktum omfattar ikkje format som berre blir brukte til lagring eller annan intern bruk, eller som elles er ueigna for tilgjengeleggjering.
 
-> Endra med [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
+> Endra ved [lov 28 apr 2017 nr. 22](lov/2017-04-28-22) (ikr. 28 apr 2017 iflg. [res. 28 apr 2017 nr. 502](forskrift/2017-04-28-502)). **Vert endra** ved lov [19 juni 2026 nr. 36](lov/2026-06-19-36) (i kraft frå den tid Kongen bestemmer).
 
 ### § 31. Avslag og grunngiving
 
@@ -290,7 +290,7 @@ Klaga skal førebuast og avgjerast utan ugrunna opphald. Elles gjeld reglane i [
 
 Vedtaket til klageinstansen er særleg tvangsgrunnlag etter [tvangsfullbyrdelsesloven kapittel 13](lov/1992-06-26-86/kap13) overfor kommunar og fylkeskommunar og rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d.
 
-> Endra med lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 des 2022 nr. 115](lov/2022-12-20-115).
+> Endra ved lover [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
 ## Kapittel 5. Sluttføresegner
 
@@ -302,7 +302,7 @@ For rettssubjekt som blir omfatta av lova etter [§ 2](lov/2006-05-19-16/§2) f�
 
 Avtalar om einerett til tilgang til informasjon som eksisterer når lova tek til å gjelde, og som ikkje oppfyller vilkåra i [§ 6](lov/2006-05-19-16/§6) andre ledd, skal opphøyre når avtalen går ut, men likevel seinast den 31. desember 2008.
 
-> Endra med [lov 30 juni 2006 nr. 52](lov/2006-06-30-52) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 727](forskrift/2006-06-30-727)).
+> Endra ved [lov 30 juni 2006 nr. 52](lov/2006-06-30-52) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 727](forskrift/2006-06-30-727)).
 
 ### § 34. Endringar i andre lover
 

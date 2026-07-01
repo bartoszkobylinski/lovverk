@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "3a4f1af1350a40e1bad3a3534370ddc8a3f63698a72e789a2789df3eb2f84e80"
+xml_hash: "8ce6606142ab41d4838f4fc64de2526d1d41a8e518fd0c3eaf681c39737288d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -25,8 +25,6 @@ eu_basis: []
 - [Lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her (utlendingsloven)](lov/2008-05-15-35).
 
 ## I
-
-[Forvaltningsloven §§ 28](lov/1967-02-10/§28) til [34](lov/1967-02-10/§34) om klage gjelder ikke for tillatelser etter annet ledd første til fjerde punktum.
 
 Det kan gjøres unntak fra kravet om gjennomført asylintervju i første ledd bokstav a dersom det er høy sannsynlighet for at søkeren vil få oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) eller dersom søkeren har hatt kollektiv beskyttelse etter [§ 34](lov/2008-05-15-35/§34).
 

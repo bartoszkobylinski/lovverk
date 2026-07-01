@@ -11,28 +11,16 @@ ministry:
 date_in_force: "2026-07-01"
 last_change_in_force: "2026-06-19"
 last_updated: "2025-08-12"
-xml_hash: "be9a5b1ee5ad70a81283a10ceb3716f79df48114599ac33afdeed1efb360a2a3"
+xml_hash: "500eec66c5073bd7364d0a74dfa36cbcc82484e0518e0bfadc0f71c48ea236d1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om jakt, fangst og felling av vilt mv. (viltressursloven)
-
-- [Lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven)](lov/1981-05-29-38).
-
-1. [Lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom (oreigningslova)](lov/1959-10-23-3).
-2. [Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven)](lov/1981-05-22-25).
-3. [Lov 19. juni 1992 nr. 59 om bygdeallmenninger](lov/1992-06-19-59).
-4. [Lov 21. juni 1996 nr. 38 om statlig naturoppsyn (naturoppsynsloven)](lov/1996-06-21-38).
-5. [Lov 13. juni 1997 nr. 42 om Kystvakten (kystvaktloven)](lov/1997-06-13-42).
-6. [Lov 4. juli 2003 nr. 74 om forsvarlig hundehold (hundeloven)](lov/2003-07-04-74).
-7. [Lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)](lov/2005-06-17-85).
-8. [Lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven)](lov/2009-06-19-100).
-9. [Lov 20. april 2018 nr. 7 om våpen, skytevåpen, våpendelar og ammunisjon (våpenlova)](lov/2018-04-20-7).
 
 ## Kapittel 1 Innledende bestemmelser
 
@@ -504,22 +492,4 @@ Departementet kan gi overgangsbestemmelser.
 
 ### § 62. Endringer i andre lover
 
-Fra det tidspunktet loven her begynner å gjelde, gjøres følgende endringer i andre lover:
-
-overtredelse av [militær straffelov § 34 annet ledd annet straffalternativ](lov/1902-05-22-13/§34/ledd/2/straffalternativ/2), jf. [tredje ledd](lov/1902-05-22-13/§34/ledd/3), [vareførselsloven § 12-9](lov/2022-03-11-9/§12-9), [skatteforvaltningsloven §§ 14-12](lov/2016-05-27-14/§14-12) og [14-13](lov/2016-05-27-14/§14-13), [utlendingsloven § 108 tredje ledd](lov/2008-05-15-35/§108/ledd/3), jf. [sjette ledd](lov/2008-05-15-35/§108/ledd/6), [regnskapsloven § 8-5 første ledd første](lov/1998-07-17-56/§8-5/ledd/1/setning/1) og [tredje punktum](lov/1998-07-17-56/§8-5/ledd/1/setning/3), jf. [tredje ledd første punktum](lov/1998-07-17-56/§8-5/ledd/3/setning/1), [bokføringsloven § 15 første ledd første](lov/2004-11-19-73/§15/ledd/1/setning/1) og [tredje punktum](lov/2004-11-19-73/§15/ledd/1/setning/3), jf. [tredje ledd første punktum](lov/2004-11-19-73/§15/ledd/3/setning/1), [alkoholloven § 10-1 annet ledd](lov/1989-06-02-27/§10-1/ledd/2), [arbeidsmiljøloven § 19-1 annet ledd](lov/2005-06-17-62/§19-1/ledd/2), [allmenngjøringsloven § 15](lov/1993-06-04-58/§15), [kystvaktloven § 36 annet ledd](lov/1997-06-13-42/§36/ledd/2), [viltressursloven § 60](lov/2025-06-20-102/§60), [forurensningsloven § 78 første ledd](lov/1981-03-13-6/§78/ledd/1) og [§ 79 tredje ledd](lov/1981-03-13-6/§79/ledd/3), [produktkontrolloven § 12 første ledd](lov/1976-06-11-79/§12/ledd/1), [svalbardmiljøloven § 99 første ledd første punktum](lov/2001-06-15-79/§99/ledd/1/setning/1) og [transplantasjonslova § 23a](lov/2015-05-07-25/§23a).
-
-[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),
-
-[lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv.](lov/2025-06-20-102),
-
-For bruk av hund under jakt og fangst mv. gjelder også [viltressursloven § 27](lov/2025-06-20-102/§27), [reindriftsloven § 65](lov/2007-06-15-40/§65) og [naturmangfoldloven § 34](lov/2009-06-19-100/§34) med forskrifter.
-
-En hund som nyttes som jakthund eller er under trening eller prøve for dette, kan slippes på en aktsom måte, slik det er naturlig ut fra bruksformålet uten hinder av [§ 4 fjerde ledd](lov/2003-07-04-74/§4/ledd/4), når dette ikke er i strid med viltressursloven, [naturmangfoldloven](lov/2009-06-19-100), [reindriftsloven](lov/2007-06-15-40) eller regler om båndtvang.
-
-Finnmarkseiendommen skal forvalte de fornybare ressursene på sin grunn i samsvar med lovens formål og innenfor de rammer som følger av viltressursloven, [lakse- og innlandsfiskloven](lov/1992-05-15-47) og annen lovgivning.
-
-Vedtak om å tillate høsting av vilt treffes med hjemmel i [lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven)](lov/2025-06-20-102).
-
-Uttaket regnes ikke som enkeltvedtak, og kan skje på andres eiendom.
-
-Dei skytevåpna som er nemnde i første og andre punktum, skal i tillegg oppfylle krava til jaktvåpen som er gjevne i eller i medhald av [viltressursloven § 24](lov/2025-06-20-102/§24).
+Fra det tidspunktet loven her begynner å gjelde, gjøres følgende endringer i andre lover: – – –

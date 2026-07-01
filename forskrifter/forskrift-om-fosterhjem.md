@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2024-01-01"
-last_change_in_force: "2026-03-05"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "72b6650cdc4a0885d6e408f38bd56524f97691b9d1e8174a7a6fe0f264d6da92"
+xml_hash: "c2dbdc58be5e0feddb23cc9da6b9a869b93daeb4df5785226321ab84ad271332"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,11 +116,9 @@ Dersom barnevernstjenesten vurderer forholdene i fosterhjemmet som gode, og barn
 
 Bestemmelsen gjelder tilsvarende for Barne-, ungdoms- og familieetaten for å ivareta sitt ansvar etter [§ 9](forskrift/2023-10-13-1632/§9/ledd/4) fjerde ledd.
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at barnevernstjenesten skal kunne prioritere sine oppgaver på en formålstjenlig og forsvarlig måte, kan antall oppfølgingsbesøk jf. første og tredje ledd, reduseres til minimum to ganger i året selv om barnet har bodd i fosterhjemmet i mindre enn to år. Det er en forutsetning at barnevernstjenesten vurderer forholdene i fosterhjemmet som gode. Barnevernstjenesten skal orientere statsforvalteren når unntaksadgangen benyttes.
-
 Omfanget av oppfølgingen av varige fosterhjem avtales mellom barnevernstjenesten og fosterforeldrene etter [barnevernsloven § 5-12](lov/2021-06-18-97/§5-12).
 
-> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [5 mars 2026 nr. 336](forskrift/2026-03-05-336). **Endres** ved [forskrift 13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, femte ledd oppheves, se § 20 tredje ledd).
+> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [5 mars 2026 nr. 336](forskrift/2026-03-05-336), [forskrift 13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
 
 ### § 11. Informasjon til barnet og fosterhjemmet
 
@@ -192,9 +190,7 @@ Tilsynspersonen skal ta kontakt med barnet. Barn som er i stand til å danne seg
 
 Tilsynspersonen skal føre tilsyn med barnet så ofte som nødvendig, og minimum fire ganger i året. Tilsyn skal skje ved stedlige besøk. Er forholdene i fosterhjemmet gode, og barnet samtykker, kan fosterhjemskommunen vedta å redusere tilsynet til minimum to ganger i året for barn som er fylt 15 år og som har bodd i fosterhjemmet i mer enn to år. Barnevernstjenesten i omsorgskommunen skal samtykke til redusering av antall tilsyn. Ved vedtak om varig opphold i fosterhjem etter [barnevernsloven § 5-12](lov/2021-06-18-97/§5-12), skal det føres tilsyn med barnet minimum to ganger i året.
 
-Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at fosterhjemskommunen skal kunne prioritere sine oppgaver etter [barnevernsloven](lov/2021-06-18-97) på en formålstjenlig og forsvarlig måte, kan antall tilsynsbesøk jf. første og tredje ledd, reduseres til minimum to ganger i året selv om barnet har bodd i fosterhjemmet i mindre enn to år og barnet er under 15 år. Det er en forutsetning at fosterhjemskommunen vurderer forholdene i fosterhjemmet som gode og at barnevernstjenesten i omsorgskommunen samtykker. Barn som er fylt 15 år må samtykke. Fosterhjemskommunen skal orientere statsforvalteren når unntaksadgangen benyttes.
-
-> Endret ved forskrift [5 jan 2026 nr. 1](forskrift/2026-01-05-1). **Endres** ved [forskrift 13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, fjerde ledd oppheves, se § 20 tredje ledd).
+> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1) [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
 
 ### § 19. Rapportering
 

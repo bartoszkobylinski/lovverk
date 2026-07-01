@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Arbeids- og inkluderingsdepartementet"
 date_in_force: "2015-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "f253f917471a6ad452a85ead58d10fb4603c1d76e78b4dd8d0f16a4d68798d33"
+xml_hash: "8a5f0963dffb4f6d46b7e0548a2a2d9d167e29c8ab1ea85745ad2fc2264f8975"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-01T08:08:55.828874+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,9 +54,11 @@ Arbeidstaker med gradert uføretrygd kan få fastsatt ny inntekt før og etter u
 
 ## Kapittel 3. Reduksjon av uføretrygd på grunn av inntekt
 
-### § 3-1. Inntektsgrense for personer som mottar uføretrygd i varig tilrettelagt arbeid (VTA)
+### § 3-1. Fribeløp for personer som mottar uføretrygd i varig tilrettelagt arbeid (VTA)
 
-For personer som mottar uføretrygd i varig tilrettelagt arbeid (VTA) fastsettes det en inntektsgrense, jf. [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14) første ledd, som svarer til inntekt etter uførhet tillagt 100 prosent av grunnbeløpet per kalenderår.
+For personer som mottar uføretrygd i varig tilrettelagt arbeid (VTA) utgjør fribeløpet, jf. [folketrygdloven § 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1), 100 prosent av grunnbeløpet per kalenderår så lenge personen deltar i tiltaket.
+
+> Endret ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 3-2. Pensjonsgivende inntekt som ikke skal føre til reduksjon av uføretrygd
 
@@ -72,7 +74,7 @@ Personen må selv opplyse om og dokumentere slike inntekter.
 
 Det er inntekt for hele kalenderåret som legges til grunn ved reduksjon i uføretrygd og barnetillegg. En uføretrygdet som informerer Arbeids- og velferdsetaten om forventet inntekt for kalenderåret før året starter, får en jevn reduksjon i uføretrygden hele kalenderåret. Dersom den uføretrygdede informerer Arbeids- og velferdsetaten om en inntektsendring i løpet av kalenderåret, skal reduksjonen fordeles på gjenværende del av året. Endringer i uføretrygden foretas fra måneden etter at den uføretrygdede gir slik informasjon.
 
-Når Arbeids- og velferdsetaten mottar opplysninger fra A-ordningen om at den uføretrygdede har tjent over inntektsgrensen eller forventet inntekt, kan uføretrygden reduseres. Endringen foretas fra måneden etter at Arbeids- og velferdsetaten mottar opplysninger om slike overskridelser fra A-ordningen.
+Når Arbeids- og velferdsetaten mottar opplysninger fra A-ordningen om at den uføretrygdede har tjent over bunnfradraget eller forventet inntekt, kan uføretrygden reduseres. Endringen foretas fra måneden etter at Arbeids- og velferdsetaten mottar opplysninger om slike overskridelser fra A-ordningen.
 
 Bestemmelsene i første og andre ledd gjelder tilsvarende for fastsettelse av tidspunkt og fordeling av reduksjon på barnetillegget. Ved barnetillegg til felles barn gjelder første punktum likt for begge foreldre.
 
@@ -80,17 +82,39 @@ Reduksjon av uføretrygd og gjenlevendetillegg baserer seg på pensjonsgivende i
 
 I inngangsår eller opphørsår for uføretrygd skal det tas utgangspunkt i perioden for rett til uføretrygd og inntekten i samme periode. Dersom perioden for barnetillegg avviker fra perioden for uføretrygd, skal det for barnetillegget tas utgangspunkt i en forholdsmessig andel av inntekten i perioden for uføretrygd.
 
-> Endret ved [forskrift 18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016).
+> Endret ved [forskrifter 18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016), [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 3-4. Hvilende rett til uføretrygd når pensjonsgivende inntekt utgjør mer enn 80 prosent av inntekt før uførhet
 
 Det utbetales ikke uføretrygd når pensjonsgivende inntekt utgjør mer enn 80 prosent av inntekt før uførhet, jf. [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14) tredje ledd og [§ 12-9](lov/1997-02-28-19/§12-9) første og andre ledd.
 
-En periode med hvilende rett etter [folketrygdloven § 12-10](lov/1997-02-28-19/§12-10) tredje ledd fastsettes når etteroppgjøret foretas, og skal gjelde for hele kalenderåret etteroppgjøret foretas for dersom vedkommende ikke har hatt rett til utbetaling av uføretrygd i noen av månedene. Personen anses for å ha meldt i fra om arbeidsinntekten når Arbeids- og velferdsetaten mottar ligningsopplysninger fra skatteetaten til bruk i etteroppgjøret.
+En periode med hvilende rett etter [folketrygdloven § 12-10](lov/1997-02-28-19/§12-10) tredje ledd fastsettes når etteroppgjøret foretas, og skal gjelde for hele kalenderåret etteroppgjøret foretas for dersom vedkommende ikke har hatt rett til utbetaling av uføretrygd i noen av månedene. Personen anses for å ha meldt ifra om arbeidsinntekten når Arbeids- og velferdsetaten mottar opplysninger knyttet til skattefastsettingen fra skatteetaten til bruk i etteroppgjøret.
 
 En person som i løpet av en periode på fem år ikke har hatt utbetaling av uføretrygd, skal kontaktes av Arbeids- og velferdsetaten med spørsmål om vedkommende ønsker å søke om retten til opprinnelig uføregrad i ytterligere fem år. Dette gjøres i forbindelse med etteroppgjøret for det fjerde hele kalenderåret på rad hvor personen ikke har hatt utbetaling av uføretrygd. Personens ønske skal uten videre legges til grunn. Det kan ses bort fra at svar ikke er gitt, dersom det foreligger gode grunner som kan forklare dette.
 
 Tellingen av antall år med hvilende rett skal stanses når den uføretrygdede har inntekt som innebærer at utbetalt uføretrygd ikke faller bort for alle kalendermåneder i et år. Ny periode med hvilende rett, det vil si nye fem + fem år, starter ikke opp igjen før etteroppgjøret viser at personen ikke hadde rett til utbetaling av uføretrygd for hele det foregående kalenderåret.
+
+> Endret ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
+
+### § 3-5. Unntak fra ny ventetid for økt fribeløp
+
+Dersom uføregraden til en person som mottar uføretrygd øker uten at restinntektsevnen til personen er vurdert på nytt, skal ikke økningen ha betydning for fastsettelsen av fribeløpet etter [folketrygdloven § 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1).
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
+
+### § 3-6. Begrensning av fribeløpet
+
+Fribeløpet til en person som mottar uføretrygd er 40 prosent av grunnbeløpet eller 100 prosent av grunnbeløpet, se [folketrygdloven § 12-14 første ledd](lov/1997-02-28-19/§12-14/ledd/1). Fribeløpet for et kalenderår kan likevel maksimalt utgjøre differansen mellom 80 prosent av inntekt før uførhet og 100 prosent av inntekt etter uførhet.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
+
+### § 3-7. Beregning av fribeløpet for et kalenderår
+
+Dersom fribeløpet til en person som mottar uføretrygd har endret seg i løpet av et kalenderår, utgjør fribeløpet for kalenderåret summen av fribeløpene for hver av årets kalendermåneder.
+
+Fribeløpet for en kalendermåned er en tolvtedel av fribeløpet som gjaldt den aktuelle måneden uttrykt som en andel av grunnbeløpet som gjaldt den aktuelle måneden.
+
+> Tilføyd ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ## Kapittel 4. Etteroppgjør
 
@@ -100,11 +124,11 @@ Dersom den uføretrygdede har fått utbetalt for lite eller for mye etter [folke
 
 Når etteroppgjøret gjelder flere ytelser jf. første ledd, skal for mye eller for lite utbetalt uføretrygd beregnes først, deretter gjenlevendetillegg og så barnetillegg. For mye eller for lite utbetalt i den enkelte ytelse, fastsatt etter tredje til sjette ledd, summeres mot hverandre før det vurderes om etteroppgjør foretas.
 
-Etteroppgjøret foretas etter at ligningen for kalenderåret foreligger.
+Etteroppgjøret foretas etter at skattefastsettingen for kalenderåret foreligger.
 
 Det skal ikke kreves tilbake for mye utbetalt uføretrygd som skyldes at årlig pensjonsgivende inntekt har oversteget 80 prosent av samlet inntekt før uførhet, se [folketrygdloven § 12-14 tredje ledd](lov/1997-02-28-19/§12-14/ledd/3), dersom inntektsøkningen skyldes arbeidsforsøk.
 
-Har den uføretrygdede fått for mye utbetalt barnetillegg, skal dette ikke kreves tilbake dersom ett barn dør samme år etteroppgjøret gjelder for eller før etteroppgjøret er gjennomført det påfølgende år. For mye utbetalt barnetillegg legges i slike tilfeller heller ikke til grunn ved summering av for mye eller for lite utbetalte ytelser, se andre ledd andre punktum.
+Har den uføretrygdede fått for mye utbetalt barnetillegg, skal dette ikke kreves tilbake dersom et barn dør samme år etteroppgjøret gjelder for eller før etteroppgjøret er gjennomført det påfølgende år. For mye utbetalt barnetillegg legges i slike tilfeller heller ikke til grunn ved summering av for mye eller for lite utbetalte ytelser, se andre ledd andre punktum.
 
 Dersom den uføretrygdede døde i samme år som etteroppgjøret gjelder for, skal det ikke gjennomføres etteroppgjør. Det samme gjelder der det foreligger rett til barnetillegg, forsørgerne bor sammen og den andre forsørgeren dør. Dersom dødsfallet er senere enn det året etteroppgjøret gjelder for, skal tilbakekreving unnlates, mens etterbetaling gjennomføres etter de vanlige reglene.
 
@@ -114,17 +138,17 @@ Den uføretrygdede skal få melding om resultatet av etteroppgjøret og få en f
 
 Etteroppgjør utsettes ikke som følge av klage over ligningen. Hvis etteroppgjøret innbefatter barnetillegg for felles barn, gjelder første punktum likt for begge foreldre.
 
-> Endret ved forskrifter [18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016), [13 mars 2018 nr. 339](forskrift/2018-03-13-339) (i kraft 1 april 2018), [19 des 2022 nr. 2340](forskrift/2022-12-19-2340) (i kraft 1 jan 2023), [23 des 2024 nr. 3474](forskrift/2024-12-23-3474) (i kraft straks med virkning for inntektsåret 2024), [15 des 2025 nr. 2561](forskrift/2025-12-15-2561) (i kraft 1 jan 2026).
+> Endret ved forskrifter [18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016), [13 mars 2018 nr. 339](forskrift/2018-03-13-339) (i kraft 1 april 2018), [19 des 2022 nr. 2340](forskrift/2022-12-19-2340) (i kraft 1 jan 2023), [23 des 2024 nr. 3474](forskrift/2024-12-23-3474) (i kraft straks med virkning for inntektsåret 2024), [15 des 2025 nr. 2561](forskrift/2025-12-15-2561) (i kraft 1 jan 2026), [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 4-2. Gjennomføring av tilbakekreving i etteroppgjøret
 
-For mye utbetalt ytelse etter [§ 4-1](forskrift/2014-12-05-1602/§4-1) første ledd kan avregnes i (framtidig) uføretrygd, etterlattepensjon og overgangsstønad etter [folketrygdloven kapitlene 15](lov/1997-02-28-19/kap15) og [17A](lov/1997-02-28-19/kap17A), omstillingsstønad etter [folketrygdloven kapittel 17](lov/1997-02-28-19/kap17), ektefelletillegg og barnetillegg som kan reduseres etter [folketrygdloven § 3-26](lov/1997-02-28-19/§3-26) og [§ 12-16](lov/1997-02-28-19/§12-16), alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20), AFP i offentlig sektor, krigspensjon og pensjon etter [yrkesskadetrygdloven](lov/1958-12-12-10). Det kan foretas avregning også etter overgang fra en av disse ytelsene til en annen.
+For mye utbetalt ytelse etter [§ 4-1 første ledd](forskrift/2014-12-05-1602/§4-1) kan avregnes i (framtidig) uføretrygd, etterlattepensjon og overgangsstønad etter [folketrygdloven kapitlene 15](lov/1997-02-28-19/kap15) og [17A](lov/1997-02-28-19/kap17A), omstillingsstønad etter [folketrygdloven kapittel 17](lov/1997-02-28-19/kap17), barnetillegg som kan reduseres etter [folketrygdloven § 12-16](lov/1997-02-28-19/§12-16), alderspensjon etter [kapitlene 19](lov/1997-02-28-19/kap19) og [20](lov/1997-02-28-19/kap20), AFP i offentlig sektor, krigspensjon og pensjon etter [yrkesskadetrygdloven](lov/1958-12-12-10). Det kan foretas avregning også etter overgang fra en av disse ytelsene til en annen.
 
 Avregning etter første ledd gjøres etter trekk til forskuddsskatt og før eventuelle utleggstrekk og med opptil 10 prosent av samlet månedlig ytelse. Ved uføretrygd og gjenlevendetillegg skal det avregnede beløpet beregnes før inntektsreduksjon etter [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14). Den uføretrygdede har rett til å betale tilbake for mye utbetalt i sin helhet eller med høyere sats enn det som er fastsatt etter første og annet punktum.
 
 Dersom det ikke er en ytelse som nevnt i første ledd å avregne i, kan for mye utbetalt ytelse etter [§ 4-1 første ledd](forskrift/2014-12-05-1602/§4-1/ledd/1) inndrives av Innkrevingsmyndigheten etter reglene i [innkrevingsloven](lov/2025-04-25-12).
 
-> Endret ved forskrifter [18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016), [13 mars 2018 nr. 339](forskrift/2018-03-13-339) (i kraft 1 april 2018), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024), [15 des 2025 nr. 2561](forskrift/2025-12-15-2561) (i kraft 1 jan 2026).
+> Endret ved forskrifter [18 des 2015 nr. 1739](forskrift/2015-12-18-1739) (i kraft 1 jan 2016), [13 mars 2018 nr. 339](forskrift/2018-03-13-339) (i kraft 1 april 2018), [21 juni 2023 nr. 1008](forskrift/2023-06-21-1008) (i kraft 1 jan 2024), [15 des 2025 nr. 2561](forskrift/2025-12-15-2561) (i kraft 1 jan 2026), [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ## Kapittel 5. Barnetillegg
 
@@ -176,9 +200,9 @@ Samlet inntekt for hvert kalenderår fastsatt etter første og andre ledd kan li
 
 [Kapittel](forskrift/2014-12-05-1602/kap7) 7 gjelder ved særlig bestemmelser for uføretrygd til personer som har fått uførepensjon omregnet til uføretrygd etter [forskrift 3. juli 2014 nr. 947](forskrift/2014-07-03-947) om omregning av uførepensjon til uføretrygd og der det senere skjer endringer som har betydning for beregning av uføretrygden.
 
-### § 7-2. Reduksjon av uføretrygd på grunn av inntekt
+### § 7-2. (Opphevet)
 
-Uføretrygden reduseres etter bestemmelsene i [folketrygdloven § 12-14](lov/1997-02-28-19/§12-14). Reduksjonen skal svare til den overskytende inntekten mulitiplisert med en brøk der vedkommendes uføretrygd ved 100 prosent uføregrad er teller og inntekten før uførheten er nevner. Den prosentmessige reduksjonen skal likevel maksimalt være 70 prosent.
+> Opphevet ved forskrift [26 juni 2026 nr. 1383](forskrift/2026-06-26-1383) (i kraft 1 juli 2026 med virkning fra 1 jan 2026).
 
 ### § 7-3. Ytterligere reduksjon av personens inntektsevne
 
