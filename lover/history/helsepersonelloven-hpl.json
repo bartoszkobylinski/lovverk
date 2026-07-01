@@ -2,6 +2,16 @@
   "doc_id": "nl-19990702-064",
   "events": [
     {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 111,
+      "lines_removed": 113,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "4e58b0e",
       "date": "2026-06-20",
       "from_path": null,

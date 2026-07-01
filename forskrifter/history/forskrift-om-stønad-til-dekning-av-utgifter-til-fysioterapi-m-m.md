@@ -1,6 +1,11 @@
 # forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m — Change history
 
-_4 events; doc_id `sf-20240617-1184`._
+_5 events; doc_id `sf-20240617-1184`._
+
+## 2026-07-01 — Content updated
+Lines: +36 -16.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-25 — Content updated
 Lines: +7 -5.

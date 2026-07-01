@@ -2,6 +2,16 @@
   "doc_id": "nl-19810522-025",
   "events": [
     {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 35,
+      "lines_removed": 35,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "80483aa",
       "date": "2026-06-24",
       "from_path": null,

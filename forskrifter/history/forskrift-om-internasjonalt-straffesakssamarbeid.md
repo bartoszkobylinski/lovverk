@@ -1,6 +1,11 @@
 # forskrift-om-internasjonalt-straffesakssamarbeid — Change history
 
-_4 events; doc_id `sf-20121214-1227`._
+_5 events; doc_id `sf-20121214-1227`._
+
+## 2026-07-01 — Content updated
+Lines: +8 -10.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-16 — Content updated
 Lines: +6 -2.

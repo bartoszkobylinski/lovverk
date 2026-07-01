@@ -1,6 +1,16 @@
 # skipsarbeidsloven — Change history
 
-_2 events; doc_id `nl-20130621-102`._
+_4 events; doc_id `nl-20130621-102`._
+
+## 2026-07-01 — Content updated
+Lines: +18 -11.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-04-29 — Filename renamed
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20130621-102.md` → `lover/skipsarbeidsloven.md`.

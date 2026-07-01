@@ -1,6 +1,11 @@
 # barnehageloven-bhl — Change history
 
-_7 events; doc_id `nl-20050617-064`._
+_8 events; doc_id `nl-20050617-064`._
+
+## 2026-07-01 — Content updated
+Lines: +13 -11.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-23 — Content updated
 Lines: +6 -6.

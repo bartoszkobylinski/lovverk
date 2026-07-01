@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260626-1394",
+  "events": [
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "endr-i-økonomiforskrift-til-barnehageloven"
+}

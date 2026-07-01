@@ -1,6 +1,11 @@
 # pasientjournalloven — Change history
 
-_4 events; doc_id `nl-20140620-042`._
+_5 events; doc_id `nl-20140620-042`._
+
+## 2026-07-01 — Content updated
+Lines: +30 -22.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-01 — Content updated
 Lines: +5 -5.

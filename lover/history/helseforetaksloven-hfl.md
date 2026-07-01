@@ -1,6 +1,11 @@
 # helseforetaksloven-hfl — Change history
 
-_4 events; doc_id `nl-20010615-093`._
+_5 events; doc_id `nl-20010615-093`._
+
+## 2026-07-01 — Content updated
+Lines: +5 -5.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-20 — Content updated
 Lines: +7 -5.

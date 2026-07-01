@@ -1,6 +1,16 @@
 # konsesjonskontraktforskriften — Change history
 
-_2 events; doc_id `sf-20160812-0976`._
+_4 events; doc_id `sf-20160812-0976`._
+
+## 2026-07-01 — Content updated
+Lines: +11 -11.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20160812-0976.md` → `forskrifter/konsesjonskontraktforskriften.md`.

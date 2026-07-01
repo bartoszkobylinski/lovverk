@@ -1,6 +1,21 @@
 # endr-i-strålevernforskriften — Change history
 
-_2 events; doc_id `sf-20251102-2170`._
+_5 events; doc_id `sf-20260626-1397`._
+
+## 2026-07-01 — Added to corpus
+Lines: +39 -0.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-05-04 — Content updated
+Lines: +0 -31.
+Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
+Commit: `5511aa4`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251102-2170.md` → `"forskrifter/endr-i-str\303\245levernforskriften.md"`.

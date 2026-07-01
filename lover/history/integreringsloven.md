@@ -1,6 +1,11 @@
 # integreringsloven — Change history
 
-_5 events; doc_id `nl-20201106-127`._
+_6 events; doc_id `nl-20201106-127`._
+
+## 2026-07-01 — Content updated
+Lines: +18 -18.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-16 — Content updated
 Lines: +10 -10.

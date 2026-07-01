@@ -1,6 +1,11 @@
 # gjeldsordningsloven-gol — Change history
 
-_5 events; doc_id `nl-19920717-099`._
+_6 events; doc_id `nl-19920717-099`._
+
+## 2026-07-01 — Content updated
+Lines: +73 -73.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-23 — Content updated
 Lines: +6 -8.

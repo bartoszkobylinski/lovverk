@@ -1,6 +1,11 @@
 # mortifikasjonslova — Change history
 
-_4 events; doc_id `nl-19591218-001`._
+_5 events; doc_id `nl-19591218-001`._
+
+## 2026-07-01 — Content updated
+Lines: +8 -8.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-05-08 — Content updated
 Lines: +3 -3.

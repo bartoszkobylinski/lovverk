@@ -1,6 +1,11 @@
 # forskrift-om-melkeprisutjevningssatser-mv — Change history
 
-_4 events; doc_id `sf-20070629-0904`._
+_5 events; doc_id `sf-20070629-0904`._
+
+## 2026-07-01 — Content updated
+Lines: +10 -10.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-05-13 — Content updated
 Lines: +5 -5.

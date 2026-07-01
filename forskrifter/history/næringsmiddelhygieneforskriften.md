@@ -1,6 +1,16 @@
 # næringsmiddelhygieneforskriften — Change history
 
-_2 events; doc_id `sf-20081222-1623`._
+_4 events; doc_id `sf-20081222-1623`._
+
+## 2026-07-01 — Content updated
+Lines: +8 -7.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20081222-1623.md` → `"forskrifter/n\303\246ringsmiddelhygieneforskriften.md"`.

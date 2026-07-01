@@ -1,6 +1,11 @@
 # forsinkelsesrenteloven-rentel — Change history
 
-_4 events; doc_id `nl-19761217-100`._
+_5 events; doc_id `nl-19761217-100`._
+
+## 2026-07-01 — Content updated
+Lines: +3 -3.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-05-23 — Content updated
 Lines: +3 -3.

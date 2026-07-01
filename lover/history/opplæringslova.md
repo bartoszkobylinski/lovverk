@@ -1,6 +1,11 @@
 # opplæringslova — Change history
 
-_6 events; doc_id `nl-20230609-030`._
+_7 events; doc_id `nl-20230609-030`._
+
+## 2026-07-01 — Content updated
+Lines: +6 -6.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-20 — Content updated
 Lines: +11 -3.

@@ -1,6 +1,11 @@
 # yrkestransportlova — Change history
 
-_5 events; doc_id `nl-20020621-045`._
+_6 events; doc_id `nl-20020621-045`._
+
+## 2026-07-01 — Content updated
+Lines: +12 -6.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-16 — Content updated
 Lines: +3 -3.

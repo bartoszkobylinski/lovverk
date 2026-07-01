@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260625-1378",
+  "events": [
+    {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 29,
+      "lines_removed": 0,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet"
+}

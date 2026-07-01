@@ -1,6 +1,11 @@
 # folketrygdloven-ftrl — Change history
 
-_8 events; doc_id `nl-19970228-019`._
+_9 events; doc_id `nl-19970228-019`._
+
+## 2026-07-01 — Content updated
+Lines: +76 -88.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-24 — Content updated
 Lines: +10 -8.

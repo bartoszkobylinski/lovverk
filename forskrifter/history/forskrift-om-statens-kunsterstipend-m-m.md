@@ -1,6 +1,11 @@
 # forskrift-om-statens-kunsterstipend-m-m — Change history
 
-_4 events; doc_id `sf-19980916-0936`._
+_5 events; doc_id `sf-19980916-0936`._
+
+## 2026-07-01 — Content updated
+Lines: +53 -255.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-05-30 — Content updated
 Lines: +27 -21.

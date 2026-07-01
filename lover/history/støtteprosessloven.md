@@ -1,6 +1,11 @@
 # støtteprosessloven — Change history
 
-_6 events; doc_id `nl-20220304-007`._
+_7 events; doc_id `nl-20220304-007`._
+
+## 2026-07-01 — Content updated
+Lines: +6 -6.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-26 — Content updated
 Lines: +3 -3.

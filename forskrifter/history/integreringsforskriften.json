@@ -2,6 +2,16 @@
   "doc_id": "sf-20201215-2912",
   "events": [
     {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 16,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "89e252d",
       "date": "2026-06-24",
       "from_path": null,

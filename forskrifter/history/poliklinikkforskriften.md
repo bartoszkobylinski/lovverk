@@ -1,6 +1,11 @@
 # poliklinikkforskriften — Change history
 
-_4 events; doc_id `sf-20071219-1761`._
+_5 events; doc_id `sf-20071219-1761`._
+
+## 2026-07-01 — Content updated
+Lines: +4 -4.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-27 — Content updated
 Lines: +3 -3.

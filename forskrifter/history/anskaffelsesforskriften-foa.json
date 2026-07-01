@@ -2,6 +2,16 @@
   "doc_id": "sf-20160812-0974",
   "events": [
     {
+      "commit": "2032c09",
+      "date": "2026-07-01",
+      "from_path": null,
+      "lines_added": 20,
+      "lines_removed": 68,
+      "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "fb8c121",
       "date": "2026-05-07",
       "from_path": null,

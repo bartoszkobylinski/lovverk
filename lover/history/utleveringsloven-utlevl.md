@@ -1,6 +1,11 @@
 # utleveringsloven-utlevl — Change history
 
-_6 events; doc_id `nl-19750613-039`._
+_7 events; doc_id `nl-19750613-039`._
+
+## 2026-07-01 — Content updated
+Lines: +10 -8.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-24 — Content updated
 Lines: +3 -3.

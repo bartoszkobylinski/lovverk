@@ -1,6 +1,11 @@
 # bustøttelova — Change history
 
-_4 events; doc_id `nl-20120824-064`._
+_5 events; doc_id `nl-20120824-064`._
+
+## 2026-07-01 — Content updated
+Lines: +19 -7.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-20 — Content updated
 Lines: +11 -3.

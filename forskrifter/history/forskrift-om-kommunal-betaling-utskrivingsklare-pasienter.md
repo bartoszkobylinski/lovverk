@@ -1,6 +1,11 @@
 # forskrift-om-kommunal-betaling-utskrivingsklare-pasienter — Change history
 
-_4 events; doc_id `sf-20111118-1115`._
+_5 events; doc_id `sf-20111118-1115`._
+
+## 2026-07-01 — Content updated
+Lines: +6 -6.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-17 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,11 @@
 # forskrift-om-avgift-på-jordbruksvarer-og-mjølk — Change history
 
-_4 events; doc_id `sf-19990629-0763`._
+_5 events; doc_id `sf-19990629-0763`._
+
+## 2026-07-01 — Content updated
+Lines: +5 -5.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-26 — Content updated
 Lines: +3 -3.

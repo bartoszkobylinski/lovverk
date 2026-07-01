@@ -1,6 +1,11 @@
 # helsetilsynsloven — Change history
 
-_4 events; doc_id `nl-20171215-107`._
+_5 events; doc_id `nl-20171215-107`._
+
+## 2026-07-01 — Content updated
+Lines: +15 -13.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-04-30 — Content updated
 Lines: +5 -5.

@@ -1,6 +1,11 @@
 # blåreseptforskriften — Change history
 
-_8 events; doc_id `sf-20070628-0814`._
+_9 events; doc_id `sf-20070628-0814`._
+
+## 2026-07-01 — Content updated
+Lines: +17 -17.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-27 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,16 @@
 # forskrift-om-ytelser-til-gjenlevende-ektefelle-og-tidligere-familiepleier-etter-folketrygdloven-kapittel-17 — Change history
 
-_2 events; doc_id `sf-20230621-1007`._
+_4 events; doc_id `sf-20230621-1007`._
+
+## 2026-07-01 — Content updated
+Lines: +37 -9.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20230621-1007.md` → `forskrifter/forskrift-om-ytelser-til-gjenlevende-ektefelle-og-tidligere-familiepleier-etter-folketrygdloven-kapittel-17.md`.

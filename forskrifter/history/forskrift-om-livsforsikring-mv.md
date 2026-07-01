@@ -1,6 +1,16 @@
 # forskrift-om-livsforsikring-mv — Change history
 
-_2 events; doc_id `sf-20060630-0869`._
+_4 events; doc_id `sf-20060630-0869`._
+
+## 2026-07-01 — Content updated
+Lines: +14 -8.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060630-0869.md` → `forskrifter/forskrift-om-livsforsikring-mv.md`.

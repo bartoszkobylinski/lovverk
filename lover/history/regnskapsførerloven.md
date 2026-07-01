@@ -1,6 +1,11 @@
 # regnskapsførerloven — Change history
 
-_5 events; doc_id `nl-20221216-090`._
+_6 events; doc_id `nl-20221216-090`._
+
+## 2026-07-01 — Content updated
+Lines: +9 -7.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-23 — Content updated
 Lines: +4 -4.

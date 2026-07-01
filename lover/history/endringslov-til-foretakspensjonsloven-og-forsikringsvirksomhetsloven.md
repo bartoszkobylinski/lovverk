@@ -1,6 +1,11 @@
 # endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven — Change history
 
-_3 events; doc_id `nl-20260507-016`._
+_4 events; doc_id `nl-20260507-016`._
+
+## 2026-07-01 — Content updated
+Lines: +2 -28.
+Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
+Commit: `2032c09`.
 
 ## 2026-06-27 — Content updated
 Lines: +4 -4.
