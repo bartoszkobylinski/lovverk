@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2026-03-25"
+last_change_in_force: "2026-06-29"
 last_updated: "2022-02-22"
-xml_hash: "5c3dda8bf87463a62f6e48fae2d2b52746da1716532240e04fe1df81b85c10d8"
+xml_hash: "f9e398d81e54f746081d6f5bd86e3ac37bc09fae27cbe8352320d511c91c197e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,11 +74,11 @@ Private barnehager som samlet over de tre siste årene har mer enn fem prosent h
 
 Kommunen skal legge til grunn barnehagens pensjonsutgifter som fremgår av barnehagens regnskap.
 
-Kommunens plikt til å dekke barnehagens pensjonsutgifter etter første ledd er oppad begrenset til 13 prosent av gjennomsnittlig pensjonsgivende lønn i barnehagen de tre siste årene. Barnehagen skal dokumentere samlet pensjonsgivende lønn i barnehagen for de årene barnehagen søker om dekning for.
+Kommunens plikt til å dekke barnehagens pensjonsutgifter etter første ledd er oppad begrenset til 16 prosent av gjennomsnittlig pensjonsgivende lønn i barnehagen de tre siste årene. Barnehagen skal dokumentere samlet pensjonsgivende lønn i barnehagen for de årene barnehagen søker om dekning for.
 
 Kommunen skal indeksregulere søknadsgrunnlaget etter denne paragrafen med kommunal deflator.
 
-> Tilføyd ved [forskrift 9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), endret ved [forskrifter 23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022), [22 des 2025 nr. 2919](forskrift/2025-12-22-2919) (i kraft 1 jan 2026).
+> Tilføyd ved [forskrift 9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), endret ved [forskrifter 23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022), [22 des 2025 nr. 2919](forskrift/2025-12-22-2919) (i kraft 1 jan 2026), [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 
 ## § 4b. Særregel for pensjonstilskudd til private barnehager med historiske forpliktelser basert på avtale om offentlig tjenestepensjon
 
@@ -212,7 +212,7 @@ Søknader om ekstra pensjonstilskudd som gjelder dekning av pensjonsutgifter for
 
 ## Vedlegg 1. Liste over private barnehager som omfattes av § 4b om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
 
-> Tilføyd ved forskrift [22 des 2025 nr. 2919](forskrift/2025-12-22-2919) (i kraft 1 jan 2026, korrigert ved kunngjøring [6 jan 2026 nr. 6](forskrift/2026-01-06-6)).
+> Tilføyd ved forskrift [22 des 2025 nr. 2919](forskrift/2025-12-22-2919) (i kraft 1 jan 2026, korrigert ved kunngjøring [6 jan 2026 nr. 6](forskrift/2026-01-06-6)), endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 
 ## Merknader til de enkelte bestemmelsene
 
