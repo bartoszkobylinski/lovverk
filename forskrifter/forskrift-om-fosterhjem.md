@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "c2dbdc58be5e0feddb23cc9da6b9a869b93daeb4df5785226321ab84ad271332"
+xml_hash: "fe5f389b4e558bf20a7758bcbb0c0657b73c35e0c946e80dda940e03f3aab52a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -190,7 +190,7 @@ Tilsynspersonen skal ta kontakt med barnet. Barn som er i stand til å danne seg
 
 Tilsynspersonen skal føre tilsyn med barnet så ofte som nødvendig, og minimum fire ganger i året. Tilsyn skal skje ved stedlige besøk. Er forholdene i fosterhjemmet gode, og barnet samtykker, kan fosterhjemskommunen vedta å redusere tilsynet til minimum to ganger i året for barn som er fylt 15 år og som har bodd i fosterhjemmet i mer enn to år. Barnevernstjenesten i omsorgskommunen skal samtykke til redusering av antall tilsyn. Ved vedtak om varig opphold i fosterhjem etter [barnevernsloven § 5-12](lov/2021-06-18-97/§5-12), skal det føres tilsyn med barnet minimum to ganger i året.
 
-> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1) [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
+> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
 
 ### § 19. Rapportering
 
