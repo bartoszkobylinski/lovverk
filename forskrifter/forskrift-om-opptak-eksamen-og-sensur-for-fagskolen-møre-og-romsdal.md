@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-10-20"
 last_change_in_force: "2024-01-01"
 last_updated: null
-xml_hash: "3095e82dac2decf4005f4a69c570b2f4a26ea7082edba55c0ace236750aa039e"
+xml_hash: "258598283c508c8f15c04d828e930cd1e606d844b21899e68d5de6ce6bc9fd63"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ eu_basis: []
 
 (2) Forskrifta fastsetter regler for opptak, eksamen og sensur, og skikkethetsvurdering og har som hensikt å sikre en forsvarlig gjennomføring av studiene ved Fagskolen Møre og Romsdal.
 
-> Endret ved forskrift [7 des 2023 nr. 2151](forskrift/2023-12-07-2151) (i kraft 1 jan 2024).
+> Endret ved forskrift [7 des 2023 nr. 2151](forskrift/2023-12-07-2151) (i kraft 1 jan 2024). **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ## Kapittel 2. Opptak
 
@@ -39,6 +39,8 @@ eu_basis: []
 (1) Opptak av studenter til Fagskolen i Møre og Romsdal skjer gjennom Samordna opptak. Opptak av studenter skjer på grunnlag av poengutregning og rangering Realkompetanse blir regnet om til poeng.
 
 (2) Ordinær søknadsfrist til fagskoleutdanning ved Fagskolen i Møre og Romsdal følger Samordna opptak og er 15. april. Dersom det etter at opptaket er gjennomført, er ledige plasser ved skolen, vil det være mulig å søke opptak direkte til skolen.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 2-2. Formelle krav til kompetanse
 
@@ -51,6 +53,8 @@ eu_basis: []
 (4) Med spesielle omstendigheter menes sykdom, ulykke eller dødsfall i nær familie.
 
 (5) Studenter som ikke fullfører fag-/svenneprøve eller eksamen innen de fristene som er fastsatt i denne bestemmelsen, mister skoleplassen.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 2-3. Realkompetanse
 
@@ -76,6 +80,8 @@ eu_basis: []
 
 (3) Søkerne må kunne dokumentere kunnskaper i norsk høyere nivå, Bergenstesten eller tilsvarende nivå, jf. [§ 9](forskrift/2019-07-11-1005/§9/ledd/3) tredje ledd i [fagskoleforskrifta](forskrift/2019-07-11-1005).
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 2-5. Poengberegning
 
 (1) Alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget skal tas med i beregning av karakterpoeng. Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.
@@ -93,6 +99,8 @@ eu_basis: []
 (3) Dersom det er venteliste etter at det ordinære opptaket er gjennomført, skal fagskolen tilby eventuelle ledige studieplasser til søkerne på venteliste i den rekkefølge søkerne er rangert etter poengsum.
 
 (4) Dersom det er ledige studieplasser uten venteliste etter det ordinære opptaket er gjennomført, kan fagskolen tilby studieplassene til kvalifiserte søkere. Disse søknadene blir behandlet i den rekkefølgen de kommer inn.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 2-7. Reservasjon av studieplassen
 
@@ -114,17 +122,23 @@ eu_basis: []
 
 (5) Vedtak om utestengelse kan påklages til den nasjonale klagenemnda etter reglene i [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 2-9. Ansvar for opptak
 
 (1) Rektor er ansvarlig for opptak og skal sørge for at opptaket til fagskoleutdanningen blir gjennomført korrekt. Rektor oppnevner en opptakskomité som består av avdelingsleder og den faglige/pedagogiske ledelsen. Komitéen skal gjennomføre det praktiske opptaket og også vurdere realkompetanse. Det er rektor som fatter endelig vedtak om opptak.
 
 (2) Tilbud om skoleplass blir gitt med forbehold om at studietilbudet blir iverksatt.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 2-10. Klage på vedtak om opptak
 
 (1) Vedtak om opptak gjennom Samordna opptak kan påklages til den nasjonale klagenemnda etter [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
 (2) Vedtak om opptak på grunnlag av realkompetansevurdering og opptak på grunnlag av særskilte lokale opptakskrav, kan påklages til den lokale klagenemnda etter reglene i [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 2-11. Godskriving og fritak for emner
 
@@ -142,6 +156,8 @@ eu_basis: []
 
 (7) Vedtak om godskriving og fritak kan påklages til den lokale klagenemnda etter [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 2-12. Annullering og utestenging
 
 (1) Hvis en student har fått fritak eller godskriving ved å benytte falskt vitnemål eller andre falske dokumenter, eller ved annen uredelig opptreden, kan den lokale klagenemnda annullere fritaket eller godkjenninga.
@@ -150,7 +166,11 @@ eu_basis: []
 
 (3) Vedtak etter denne bestemmelsen kan påklages til den nasjonale klagenemnda etter [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ## Kapittel 3. Skikkethet
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 3-1. Skikkethetsvurdering
 
@@ -162,7 +182,7 @@ eu_basis: []
 
 Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. [§ 3-1](forskrift/2020-10-20-2103/§3-1). Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Møre og Romsdal, jf. [fagskoleforskrifta § 27](forskrift/2019-07-11-1005/§27):Utdanninger innen helse og oppvekstProsessteknikk.
 
-> Endret ved [forskrift 1 des 2022 nr. 2189](forskrift/2022-12-01-2189) (i kraft 1 jan 2023).
+> Endret ved [forskrift 1 des 2022 nr. 2189](forskrift/2022-12-01-2189) (i kraft 1 jan 2023). **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 3-3. Skikkethetsnemnd
 
@@ -194,6 +214,10 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 (2) Vedtaket kan påklages til den nasjonale klagenemnda etter [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+### § 3-7. Politiattest
+
+> **Tilføyes** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ## Kapittel 4. Avsluttende vurdering, eksamen, og sensur
 
 ### § 4-1. Generelle bestemmelser
@@ -220,7 +244,7 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 (11) Arbeidskrav skal komme frem av studieplanen, samt hvilke vurderinger som danner grunnlag for sluttvurdering i emnet.
 
-> Endret ved [forskrift 1 des 2022 nr. 2189](forskrift/2022-12-01-2189) (i kraft 1 jan 2023).
+> Endret ved [forskrift 1 des 2022 nr. 2189](forskrift/2022-12-01-2189) (i kraft 1 jan 2023). **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-2. Rett til å gå opp til eksamen
 
@@ -234,7 +258,7 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 
 (5) Når en student ikke fullfører studiet/emnet innen normert studietid og det i mellomtiden er gjort vesentlige endringer i studieplanen, gjelder retten til å fullføre etter den opprinnelige studieplanen i ett år etter at endringen ble gjort gjeldende.
 
-> Endret ved forskrift [7 des 2023 nr. 2151](forskrift/2023-12-07-2151) (i kraft 1 jan 2024).
+> Endret ved forskrift [7 des 2023 nr. 2151](forskrift/2023-12-07-2151) (i kraft 1 jan 2024). **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-3. Bortvisning fra eksamen
 
@@ -251,6 +275,8 @@ Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjør
 (3) Dersom det under eksamen oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen.
 
 (4) Fusk kan føre til at eksamen eller resultat av prøve, eller godkjenning av emne blir annullert, jf. denne forskrifta [§ 4-14](forskrift/2020-10-20-2103/§4-14) og adgangen til utestenging etter [§ 4-15](forskrift/2020-10-20-2103/§4-15) i denne forskrifta.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-5. For sent fremmøte til eksamen
 
@@ -276,9 +302,13 @@ Studenter som kommer for sent til eksamen kan nektes adgang til eksamenslokalet 
 
 (4) Ved rett til utsatt eksamen skal det ikke betales ny eksamensavgift.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-8. Gjennomføring av eksamen etter avbrutt studium
 
 En student som har avbrutt ordinært studieprogram og kommer tilbake senere for å fullføre utdanningen, må inngå skriftlig avtale med fagskolen om hvilke eksamener som skal gjennomføres.
+
+> **Oppheves** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-9. Særskilt tilrettelegging av eksamen
 
@@ -292,6 +322,8 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 
 (5) Vedtak om tilrettelegging kan påklages i henhold til [kapittel 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-10. Rett til begrunnelse
 
 (1) Studenten har rett til begrunnelse for karakterer. Dette omfatter i tillegg til eksamenskarakterer alle prøver, innleveringer eller annet arbeid som blir bedømt med karakter. Krav om begrunnelse må fremsettes til fagskolen innen én uke etter at karakteren er kunngjort.
@@ -302,6 +334,8 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 
 (4) Dersom det er gitt skriftlige retningslinjer for bedømmelsen skal disse være tilgjengelig for studentene etter at karakteren er fastsatt.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-11. Rett til å klage på karakterfastsetting
 
 (1) Studenter har rett til å klage på eksamenskarakter. Klagen sendes skriftlig til fagskolen innen tre uker etter at eksamensresultatet har blitt kunngjort, eller fra det tidspunkt begrunnelse for karakterfastsetting er mottatt.
@@ -310,6 +344,8 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 
 (3) Bedømmelse av muntlig prestasjon, praksisopplæring eller lignende som ikke kan etterprøves, kan ikke påklages.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-12. Ny sensur
 
 (1) Ved klage på karakterfastsetting skal det gjennomføres ny sensur. Ved ny sensur benyttes én eller flere sensorer, hvorav minst én sensor må være ekstern. Det er rektor som oppnevner sensorer.
@@ -317,6 +353,8 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 (2) Ved ny sensur skal sensor ikke få vite opprinnelig karakter, sensors begrunnelse for karakteren, eller studentens begrunnelse for klagen, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22).
 
 (3) Karakter etter ny sensur er endelig og kan ikke påklages videre.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-13. Rett til å klage over formelle feil
 
@@ -328,6 +366,8 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 
 (4) Skolen eller den lokale klagenemnda kan bestemme om det skal foretas ny sensur eller holdes ny eksamen. I noen tilfeller vil dette medføre ny eksamen for hele klassen.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-14. Annullering av eksamen eller prøve eller lignende
 
 (1) Den lokale klagenemnda kan annullere resultater av en eksamen eller prøve eller lignende dersom det fremkommer at studenten har benyttet falske vitnemål eller andre falske dokumenter, eller opptrådt uredelig på annen måte og dermed fått avlegge eksamen, prøve eller levere annet arbeid som blir bedømt med karakter.
@@ -336,11 +376,15 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 
 (3) Vedtak etter denne bestemmelsen kan påklages til den nasjonale klagenemnda etter reglene i [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 4-15. Utestenging
 
 (1) Den lokale klagenemnda kan vedta at en student som har opptrådt som nevnt i [§ 4-14](forskrift/2020-10-20-2103/§4-14), kan utestenges fra all utdanning ved Fagskolen i Møre og Romsdal i inntil ett år. Det samme gjelder student som har medvirket til fusk, jf. [fagskoleloven § 25](lov/2018-06-08-28/§25)
 
 (2) Vedtaket kan påklages til den nasjonale klagenemnda etter [kap. 5](forskrift/2020-10-20-2103/kap5) i denne forskrifta.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 4-16. Klage på undervisning og studiekvalitet
 
@@ -349,6 +393,12 @@ En student som har avbrutt ordinært studieprogram og kommer tilbake senere for 
 (2) Fagskolen skal gjøre de undersøkelser som klagen gir grunn til. På grunnlag av de opplysninger som kommer fram gjennom disse undersøkelsene, skal fagskolen vurdere om klagen gir grunnlag for å iverksette tiltak. Fagskolen skal deretter oversende saken til fagskolestyret vedlagt klagen og sakens dokumenter. I oversendelsesbrevet skal det gjøres rede for fagskolens vurdering av klagen og skolens forslag til tiltak.
 
 (3) Fagskolestyret kan prøve alle sider ved saken og kan pålegge fagskolen å gjennomføre de tiltak som etter fagskolestyrets vurdering er nødvendige for å rette kritikkverdige forhold. Ved denne vurderingen er fagskolestyret ikke bundet av de tiltak som fagskolen har foreslått.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
+### § 4-17. Vurderingsuttrykk og karakterbeskrivelse
+
+> **Tilføyes** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ## Kapittel 5. Klagebehandling
 
@@ -363,6 +413,8 @@ Klage på karakter og klage på formelle feil ved eksamen skal følge reglene i 
 (2) Den lokale klagenemnda for fagskolen i Møre og Romsdal er klageinstans for vedtak som nevnt i pkt. b–g.
 
 (3) Den nasjonale klagenemnda for fagskolen er klageinstans for vedtak som nevnt i pkt. a, h–k.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 5-3. Klagefrist og fremgangsmøte ved klage
 
@@ -390,6 +442,8 @@ Klage på karakter og klage på formelle feil ved eksamen skal følge reglene i 
 
 (6) For klage på opptak gjennom samordna opptak, skal rektor vurdere klagegrunnlaget. Rektor kan ta klagen til følge. Dersom rektor ikke tar klagen til følge, skal rektor sende saken til den nasjonale klagenemnda til endelig avgjørelse i samsvar med [§ 5-7](forskrift/2020-10-20-2103/§5-7) i denne forskrifta.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 5-5. Den lokale klagenemndens behandling av klage
 
 (1) Klagenemnda har ansvar for at saken er forsvarlig opplyst før det blir gjort endelig vedtak. Klagenemnda kan be fagskolen og den som klager om å fremskaffe flere opplysninger.
@@ -400,6 +454,8 @@ Klage på karakter og klage på formelle feil ved eksamen skal følge reglene i 
 
 (4) Den lokale klagenemndas vedtak er endelig og kan ikke påklages videre.
 
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
+
 ### § 5-6. Behandling av klage når Nasjonal klagenemnd for fagskolen er klageinstans
 
 (1) Klagen skal fremsettes for den lokale klagenemnda. Klagen sendes til fylkesutdanningssjefen i Møre og Romsdal.
@@ -407,6 +463,8 @@ Klage på karakter og klage på formelle feil ved eksamen skal følge reglene i 
 (2) Den lokale klagenemnda skal behandle saken i samsvar med [§ 5-5](forskrift/2020-10-20-2103/§5-5) i denne forskrifta.
 
 (3) Dersom klagenemnda ikke tar klagen til følge, skal klagen sendes til Nasjonal klagenemnd ved sekretariatet. Sammen med klagen oversendes alle saksdokumentene og møtebok for klagenemndas vurdering av klagen. Klager skal ha kopi av alle dokumentene.
+
+> **Endres** ved forskrift [4 juni 2026 nr. 1436](forskrift/2026-06-04-1436) (i kraft 1 aug 2026).
 
 ### § 5-7. Habilitet
 
