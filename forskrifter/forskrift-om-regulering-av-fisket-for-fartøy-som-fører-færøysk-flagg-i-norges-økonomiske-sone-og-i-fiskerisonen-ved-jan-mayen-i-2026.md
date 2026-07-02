@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-05"
-last_change_in_force: "2026-02-02"
+last_change_in_force: "2026-06-29"
 last_updated: null
-xml_hash: "c78f961a972f49ccc6e09f254d881316090c4ea09bbf9dd84a8fd4a0b6f02ccc"
+xml_hash: "c4aeefac76c03fcb674f14bd6cde80bfc14dfad5abad57eb416cc5becd6d1b3b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,20 +58,34 @@ Maksimalt 12 fartøy kan delta i fisket samtidig.
 
 > Endret ved forskrifter [28 jan 2026 nr. 106](forskrift/2026-01-28-106), [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 5).
 
-## § 7. Beregning av fangstkvanta
+## § 7. Soneadgang ved fiske etter makrell
+
+Uten hinder av forbudet i [§ 1](forskrift/2026-01-05-5/§1) har fartøy som fører færøysk flagg adgang til å fiske 14 352 tonn makrell i Norges økonomiske sone.
+
+> Tilføyd ved forskrift [29 juni 2026 nr. 1444](forskrift/2026-06-29-1444).
+
+## § 8. Begrensninger ved fiske etter makrell
+
+Maksimalt 12 fartøy kan delta i fisket etter makrell samtidig.
+
+Sør for 62° N er det kun tillatt å fiske etter makrell med not.
+
+> Tilføyd ved forskrift [29 juni 2026 nr. 1444](forskrift/2026-06-29-1444).
+
+## § 9. Beregning av fangstkvanta
 
 Alle fangstkvanta skal beregnes i rund vekt.
 
-> Endret ved forskrift [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 6).
+> Endret ved forskrifter [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 6), [29 juni 2026 nr. 1444](forskrift/2026-06-29-1444) (tidligere § 7).
 
-## § 8. Straff og inndragning
+## § 10. Straff og inndragning
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften, straffes i henhold til [lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 8](lov/1976-12-17-91/§8) og [9](lov/1976-12-17-91/§9). På samme måte straffes medvirkning og forsøk.
 
-> Endret ved forskrift [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 7).
+> Endret ved forskrifter [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 7), [29 juni 2026 nr. 1444](forskrift/2026-06-29-1444) (tidligere § 8).
 
-## § 9. Ikrafttredelse
+## § 11. Ikrafttredelse
 
 Forskriften trer i kraft straks og gjelder til og med 31. desember 2026.
 
-> Endret ved forskrift [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 8).
+> Endret ved forskrift [2 feb 2026 nr. 127](forskrift/2026-02-02-127) (tidligere § 8), [29 juni 2026 nr. 1444](forskrift/2026-06-29-1444) (tidligere § 9).
