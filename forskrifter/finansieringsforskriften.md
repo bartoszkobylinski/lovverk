@@ -8,14 +8,14 @@ short_title: "Finansieringsforskriften"
 language: "nb"
 ministry:
   - "Kunnskapsdepartementet"
-date_in_force: null
-last_change_in_force: "2026-05-13"
+date_in_force: "2026-08-01"
+last_change_in_force: "2026-06-29"
 last_updated: null
-xml_hash: "4a0bd6db48720d503dec405b68113055e9aac60e93929721181a9b74a9403117"
+xml_hash: "90b99c95b5b08ad212bd886a3d585f7f9b6b3ba40820618206205d48ea97835a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-19T07:43:04.082586+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -124,11 +124,13 @@ Private barnehager som samlet over de tre siste årene har mer enn fem prosent h
 
 Kommunen skal legge til grunn barnehagens pensjonsutgifter som fremgår av barnehagens regnskap.
 
-Kommunens plikt til å dekke barnehagens pensjonsutgifter etter første ledd er oppad begrenset til [13](forskrift/2026-03-23-454/§13) prosent av gjennomsnittlig pensjonsgivende lønn i barnehagen de tre siste årene.
+Kommunens plikt til å dekke barnehagens pensjonsutgifter etter første ledd er oppad begrenset til 16 prosent av gjennomsnittlig pensjonsgivende lønn i barnehagen de tre siste årene.
 
 Kommunen skal indeksregulere søknadsgrunnlaget med kommunal deflator.
 
 Frem til barnehagen har rapportert om samlet lønn etter [§ 5 andre ledd](forskrift/2026-03-23-454/§5/ledd/2), skal den private barnehagen dokumentere samlet pensjonsgivende lønn i barnehagen for de årene barnehagen søker om dekning for.
+
+> Endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 
 ### § 16. Særregel for pensjonstilskudd til private barnehager med historiske forpliktelser basert på avtale om offentlig tjenestepensjon
 
@@ -194,9 +196,11 @@ Ved kommunesammenslåing skal den nye kommunen beregne tilskuddet til private ba
 
 ### § 25. Ikraftsetting og oppheving
 
-Forskriften trer i kraft på et senere tidspunkt. [Forskrift 9. oktober 2015 nr. 1166 om tildeling av tilskudd til private barnehager](forskrift/2015-10-09-1166) oppheves 31. desember 2026.
+Forskriften trer i kraft 1. august 2026 og gjelder fra og med tilskuddsåret 2027. [Forskrift 9. oktober 2015 nr. 1166 om tildeling av tilskudd til private barnehager](forskrift/2015-10-09-1166) oppheves 31. desember 2026.
 
 [§ 26](forskrift/2026-03-23-454/§26) oppheves 1. januar 2030.
+
+> Endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 
 ### § 26. Overgangsordning for samlet tilskudd
 
@@ -214,9 +218,9 @@ Søknader om ekstra pensjonstilskudd som gjelder dekning av pensjonsutgifter for
 
 > Tilføyd ved forskrift [13 mai 2026 nr. 812](forskrift/2026-05-13-812).
 
-## Vedlegg 1: Liste over private barnehager som omfattes av [§ 16](forskrift/2026-03-23-454/§16) om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
+## Vedlegg 1. Liste over private barnehager som omfattes av § 16 om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
 
-*Virksomhetsnr.**Navn*916381689Aglo barnehage Eventyrhuset AS916381662Aglo barnehage Sentrum AS973445936Andungen barnehage 1. Sa973597639Askeladden barnehage977010047Barnehagen Himmelblå873893362BARNEHAGEN I BRYNE KYRKJE974796732Bekkelaget Kirkes barnehage973470434Berg Barnehage SA973454870Bergerkollektivet barnehage975183408BETANIEN BARNEHAGE930333263Betanien barnehage AS973383531Bjørset barnehage AS973383248BJØRKETUN BARNEHAGE982367409Blå Kors barnehage Øvrebø AS973346504BMB Barnehage AS994875698BOGAFJELL ÅPNE BARNEHAGE996006344Byggeklossen Open barnehage975314456BØLER MENIGHETS BARNEHAGE973782975Bøler åpen barnehage995319101Den Tysk-Norske Barnehagen i Oslo A875028642Diakonhjemmet Barnehage Borgenveien AS974838028Eikely Barnehage as988541222Engan Gårdsbarnehage AS975266702ENGELSRUD BARNEHAGE985773017Eplehagen Barnehage (Eidanger Barnehage as)974703351Fagerborg menighetsbarnehage973337491Festningsgata menighets-barnehage973337459Fevik barnehage988820628Fitjar Soknerådsbarnehage Stifting975048179Fjelltun barnehage AS973457497Fossekallen Barnehage Sti975183939Fredly Barnehage AS987532874FRIDALEN MENIGHETS ÅPNE BARNEHAGE974294443Grefsen Kirkes barnehage973471872Hagen barnehage SA973382403Hasle Barnehage AS973383191Haugar barnehage973469207Helgerud Menighets barnehage975315258Helse Bergen Hf Hunstad barnehage975315096Helse Bergen Hf Ravnebjerget barnehage974737760Helse Bergen Hf Vinterdalen barnehage979468105Helse Bergen Hf Vognstolen barnehage873885262Hem barnehage973456636Hofmoen barnehage873349352HOLMENTOPPEN BARNEHAGE974102226Hvitsten Naturbarnehage SA974305658Ihle Barnehage974157187Imi barnehage996005364JESSHEIM ÅPEN BARNEHAGE973469819Jondalen barnehage973454544Kirkestallen barnehage874800082Kirketunet barnehage973448706Kirketunet barnehage AS973352377Klingen naturbarnehage SA989536338KLYVE ÅPEN BARNEHAGE973817493Knatten barnehage982451361Knøttene åpen barnehage993131075Lekestua barnehage994249622Lillefot barnehage996000389LITEN OG STOR ÅPEN BARNEHAGE974703009Ljan Kirkes barnehage981232232Lommedalen Menighets barnehage993804703Lovisenberg Diakonale barnehage AS973269852Mandal Sanitetsforenings barnehage994915959MARIAKIRKEN ÅPEN BARNEHAGE874116572Martina Hansens Hospital973449133Maurtua Barnehage Bømlo SA974156318Misjonshusets Barnehage983214770Mølleplassen Spesialbarnehage972209503Myre Bedriftsbarnehage AS980098974Nedre Stabæk barnehage AS973304143Nesttun Indremisjons barnehage981133234Nidelven åpen barnehage994947362NOA ÅPEN BARNEHAGE920560504Noahs Ark barnehage AS982926610NOAS ARK OPEN BARNEHAGE974702843Nordberg menighetsbarnehage973479881Nordstrand Kirkes barnehage972138487AS Norrøna barnehage994915274NYKIRKEN ÅPEN BARNEHAGE973469983NØTTELITEN BARNEHAGE996004783OLSVIK MENIGHETS ÅPEN BARNEHAGE994902903Osøyro Open barnehage972517038PETRINE BARNEHAGE975185117Preg barnehager Botne as874703362Rishaven menighetsbarnehage AS973455710Rosenhagen Steinerbarnehage974703386Røa menighetsbarnehage995119560Sakkeus Åpen barnehage974725142SCHAFTELØKKEN MENIGHETS BARNEHAGE889857072Semsløkka barnehage974224356Skjoldtun barnehage979781857Skogstjerna Natur og menighetsbarnehage974142740Solborg barnehage931679007Sole Skog Barnehage AS973448633Solvang barnehage SA974857561Solvang barnehage Førde AS973382322Solvangkirkens barnehage993266361Starefossen barnehage981098749Stiftelsen Gullhaugen steinerbarnehage973489321Stiftelsen KF Ansattes Barnehage973494368Stiftelsen Norby Gård barnehage979740530Stiftelsen Sesam996000540Stjernen Åpen barnehage974798670Stiftelsen Håholen barnehage973390953Stiftelsen Ullevålsletta barnehage875211382Store Brevik barnehage AS985917981STORHAUG ÅPEN BARNEHAGE974197901Svartskog Friluftsbarnehage SA973456458Sørbyen barnehage AS987751894SØRNES ÅPEN BARNEHAGE973535765Tananger Menighetsbarnehage973772503TEIE KIRKES BARNEHAGE996006158Torridal åpen barnehage974194678Torvteigen barnehage AS975266842TRIPP TRAPP ÅPEN BARNEHAGE994274406Tripp-Trapp Åpen barnehage974703408Ullern Menighetsbarnehage Holgerslyst974156458Ulset Barnehage973334875Unneland barnehage972339563VASSBAKKEN BARNEHAGE SA983604560Vike Montessoribarnehage SA973763881VONHEIM OPEN BARNEHAGE973456466Østenstad Menighetsbarnehage973458515Østerhus barnehage990635498Øygarden Kfuk-Kfum avd åpen barnehage990635285Øygarden Kfuk-Kfum avd Straume991843876Øygarden Kfuk-Kfum avd Landro973454528Øymark barnehage972290920Åkebakke Barnehage993481947ÅPEN BARNEHAGE FANA KM973877070Åpen barnehage Haugesund
+> Endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 
 ## Veiledning til de enkelte bestemmelsene i forskrift om finansiering av private barnehager (finansieringsforskriften)
 
