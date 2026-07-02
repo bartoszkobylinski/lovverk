@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-24"
-xml_hash: "9a651c6b6204b9c145ca7ea1bf99a6024a7b5ffff550f3275a8099524b813f05"
+xml_hash: "0d321da5a463282ce8e2cc8563e1f459d6fed544bd1b0b9b9a372f22d3fa6095"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -822,7 +822,7 @@ Oppdragsgiveren kan begrense konkurransen til virksomheter eller programmer som 
 
 ### § 18-1. Tildelingskriterier
 
-(1) Oppdragsgiveren skal velge tilbud på grunnlag av det beste forholdet mellom pris eller kostnad og kvalitet. Dersom klima- og miljøhensyn ikke brukes som tildelingskriterium etter anskaffelsesloven § 5b kan oppdragsgiveren også velge tilbud på grunnlag av den laveste prisen eller den laveste kostnaden.
+(1) Oppdragsgiveren skal velge tilbud på grunnlag av det beste forholdet mellom pris eller kostnad og kvalitet. Dersom klima- og miljøhensyn ikke brukes som tildelingskriterium etter [anskaffelsesloven § 5b](lov/2016-06-17-73/§5b) kan oppdragsgiveren også velge tilbud på grunnlag av den laveste prisen eller den laveste kostnaden.
 
 (2) Ved valg av tilbud på grunnlag av den laveste kostnaden skal oppdragsgiveren basere valget på en kostnadseffektivitetsberegning, som for eksempel en beregning av livssykluskostnader etter [§ 18-2](forskrift/2016-08-12-974/§18-2).
 
