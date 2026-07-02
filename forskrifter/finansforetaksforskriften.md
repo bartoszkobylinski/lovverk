@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2025-09-22"
-xml_hash: "084641739b227cf3d1ef9799b1614eab7d8ed811e88fe87b80d799fcbd49b9ac"
+xml_hash: "d9116e1110116b4d4d97fae748e3a8b4052a863cf0d4ab49785975bb00bd9231"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1165,6 +1165,24 @@ Bestemmelsene i § 16-12 til § 16-13 gjelder tilsvarende for ansatte i filial a
 Bestemmelsen i § 16-12 og § 16-13 første ledd nr. 2, 3, 5 og 6 gjelder tilsvarende for ansatte i kredittinstitusjoner som yter grensekryssende virksomhet fra annen EØS-stat her i riket.
 
 > Tilføyd ved forskrift [28 juni 2023 nr. 1155](forskrift/2023-06-28-1155) (i kraft 1 juli 2023, se endringsforskriften for overgangsregler).
+
+### Del VII. Taushetsplikt og behandling av personopplysninger
+
+> Tilføyd ved forskrift [30 juni 2026 nr. 1445](forskrift/2026-06-30-1445) (i kraft 1 juli 2026).
+
+### § 16-17. Utlevering av opplysninger
+
+(1) Opplysninger som kan utleveres i medhold av [finansforetaksloven § 16-2 fjerde](lov/2015-04-10-17/§16-2/ledd/4) og [femte ledd](lov/2015-04-10-17/§16-2/ledd/5), kan også omfatte opplysninger innhentet gjennom kundetiltak etter [hvitvaskingsloven](lov/2018-06-01-23).
+
+(2) Finansforetak kan også utlevere opplysninger i medhold av [finansforetaksloven § 16-2 fjerde ledd](lov/2015-04-10-17/§16-2/ledd/4) til:tilbyder av elektroniske kommunikasjonsnett og -tjenester, som er registrert i medhold av [lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven)](lov/2024-12-13-76)utenlandske foretak som yter betalingstjenester med tillatelser tilsvarende [finansforetaksloven kapittel 2](lov/2015-04-10-17/kap2), gitt i annen EU/EØS-statSkatteetaten, Arbeids- og velferdsetaten og Brønnøysundregistrene.
+
+> Tilføyd ved forskrift [30 juni 2026 nr. 1445](forskrift/2026-06-30-1445) (i kraft 1 juli 2026).
+
+### § 16-18. Samarbeidsordninger for informasjonsdeling
+
+Finansforetak kan behandle opplysninger etter [finansforetaksloven § 16-2 fjerde](lov/2015-04-10-17/§16-2/ledd/4) og [femte ledd](lov/2015-04-10-17/§16-2/ledd/5) gjennom ordninger for informasjonsdeling, herunder samle inn, bearbeide, sammenstille, analysere og lagre opplysninger. [Finansforetaksloven § 9-6](lov/2015-04-10-17/§9-6) og [§ 16-2](lov/2015-04-10-17/§16-2) første til femte ledd og åttende ledd gjelder tilsvarende for ordningen.
+
+> Tilføyd ved forskrift [30 juni 2026 nr. 1445](forskrift/2026-06-30-1445) (i kraft 1 juli 2026).
 
 ## Kapittel 17. Finanskonsern og samarbeidsavtaler
 
