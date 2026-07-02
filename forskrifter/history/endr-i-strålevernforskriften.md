@@ -1,6 +1,11 @@
 # endr-i-strålevernforskriften — Change history
 
-_5 events; doc_id `sf-20260626-1397`._
+_6 events; doc_id `sf-20260626-1397`._
+
+## 2026-07-02 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): endr-i-strålevernforskriften`
+Commit: `dd1874f`.
 
 ## 2026-07-01 — Added to corpus
 Lines: +39 -0.

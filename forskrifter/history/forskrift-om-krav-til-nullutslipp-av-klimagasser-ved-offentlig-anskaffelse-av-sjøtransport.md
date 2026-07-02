@@ -1,6 +1,11 @@
 # forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av-sjøtransport — Change history
 
-_4 events; doc_id `sf-20241113-3329`._
+_5 events; doc_id `sf-20241113-3329`._
+
+## 2026-07-02 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av-sjøtransport`
+Commit: `74d1715`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -3.

@@ -1,6 +1,11 @@
 # forskrift-om-fosterhjem — Change history
 
-_4 events; doc_id `sf-20231013-1632`._
+_5 events; doc_id `sf-20231013-1632`._
+
+## 2026-07-02 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-fosterhjem`
+Commit: `84958f2`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -9.

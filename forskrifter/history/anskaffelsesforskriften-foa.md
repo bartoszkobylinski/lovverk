@@ -1,6 +1,11 @@
 # anskaffelsesforskriften-foa — Change history
 
-_5 events; doc_id `sf-20160812-0974`._
+_6 events; doc_id `sf-20160812-0974`._
+
+## 2026-07-02 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): anskaffelsesforskriften-foa`
+Commit: `78503a9`.
 
 ## 2026-07-01 — Content updated
 Lines: +20 -68.

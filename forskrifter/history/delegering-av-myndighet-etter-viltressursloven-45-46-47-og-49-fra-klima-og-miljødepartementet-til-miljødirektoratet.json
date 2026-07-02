@@ -2,6 +2,16 @@
   "doc_id": "sf-20260625-1378",
   "events": [
     {
+      "commit": "4eee239",
+      "date": "2026-07-02",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

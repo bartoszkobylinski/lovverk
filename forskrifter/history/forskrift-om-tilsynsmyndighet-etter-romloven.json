@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260630-1450",
+  "events": [
+    {
+      "commit": "dcbb7b0",
+      "date": "2026-07-02",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-tilsynsmyndighet-etter-romloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-tilsynsmyndighet-etter-romloven"
+}

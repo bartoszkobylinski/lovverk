@@ -1,6 +1,11 @@
 # strålevernforskriften — Change history
 
-_4 events; doc_id `sf-20161216-1659`._
+_5 events; doc_id `sf-20161216-1659`._
+
+## 2026-07-02 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): strålevernforskriften`
+Commit: `cecdeb8`.
 
 ## 2026-07-01 — Content updated
 Lines: +29 -7.

@@ -1,6 +1,11 @@
 # finansieringsforskriften — Change history
 
-_4 events; doc_id `sf-20260323-0454`._
+_5 events; doc_id `sf-20260323-0454`._
+
+## 2026-07-02 — Content updated
+Lines: +12 -8.
+Subject: `update(forskrift): finansieringsforskriften`
+Commit: `3d02c87`.
 
 ## 2026-05-19 — Content updated
 Lines: +11 -3.

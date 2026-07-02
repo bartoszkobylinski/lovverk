@@ -1,6 +1,11 @@
 # kjernejournalforskriften — Change history
 
-_5 events; doc_id `sf-20130531-0563`._
+_6 events; doc_id `sf-20130531-0563`._
+
+## 2026-07-02 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): kjernejournalforskriften`
+Commit: `cfba5f2`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

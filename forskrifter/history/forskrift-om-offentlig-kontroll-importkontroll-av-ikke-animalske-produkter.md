@@ -1,6 +1,11 @@
 # forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter — Change history
 
-_5 events; doc_id `sf-20200309-0717`._
+_6 events; doc_id `sf-20200309-0717`._
+
+## 2026-07-02 — Content updated
+Lines: +17 -10.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter`
+Commit: `5041999`.
 
 ## 2026-05-16 — Content updated
 Lines: +9 -13.

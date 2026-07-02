@@ -1,6 +1,11 @@
 # forskrift-om-datasenter — Change history
 
-_5 events; doc_id `sf-20241218-3313`._
+_6 events; doc_id `sf-20241218-3313`._
+
+## 2026-07-02 — Content updated
+Lines: +7 -7.
+Subject: `update(forskrift): forskrift-om-datasenter`
+Commit: `9c06df1`.
 
 ## 2026-07-01 — Content updated
 Lines: +27 -13.

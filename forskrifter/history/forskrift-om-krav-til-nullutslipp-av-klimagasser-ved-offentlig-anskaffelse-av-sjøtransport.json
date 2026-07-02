@@ -2,6 +2,16 @@
   "doc_id": "sf-20241113-3329",
   "events": [
     {
+      "commit": "74d1715",
+      "date": "2026-07-02",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-krav-til-nullutslipp-av-klimagasser-ved-offentlig-anskaffelse-av-sjøtransport",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

@@ -1,6 +1,16 @@
 # forskrift-om-regulering-av-fisket-for-fartøy-som-fører-færøysk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026 — Change history
 
-_2 events; doc_id `sf-20260105-0005`._
+_4 events; doc_id `sf-20260105-0005`._
+
+## 2026-07-02 — Content updated
+Lines: +23 -9.
+Subject: `update(forskrift): forskrift-om-regulering-av-fisket-for-fartøy-som-fører-færøysk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026`
+Commit: `fd9820e`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20260105-0005.md` → `"forskrifter/forskrift-om-regulering-av-fisket-for-fart\303\270y-som-f\303\270rer-f\303\246r\303\270ysk-flagg-i-norges-\303\270konomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026.md"`.

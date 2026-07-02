@@ -1,6 +1,16 @@
 # forskrift-om-arbeidsavtale-og-lønnsoppgave-skip — Change history
 
-_2 events; doc_id `sf-20130819-1000`._
+_4 events; doc_id `sf-20130819-1000`._
+
+## 2026-07-02 — Content updated
+Lines: +22 -8.
+Subject: `update(forskrift): forskrift-om-arbeidsavtale-og-lønnsoppgave-skip`
+Commit: `ea327ee`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20130819-1000.md` → `"forskrifter/forskrift-om-arbeidsavtale-og-l\303\270nnsoppgave-skip.md"`.

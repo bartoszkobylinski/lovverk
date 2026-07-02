@@ -1,6 +1,16 @@
 # forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten — Change history
 
-_2 events; doc_id `sf-20250622-1188`._
+_4 events; doc_id `sf-20250622-1188`._
+
+## 2026-07-02 — Content updated
+Lines: +145 -9.
+Subject: `update(forskrift): forskrift-om-forsøksordning-med-nettlege-i-allmennlegetjenesten`
+Commit: `bb9ca5d`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250622-1188.md` → `"forskrifter/forskrift-om-fors\303\270ksordning-med-nettlege-i-allmennlegetjenesten.md"`.

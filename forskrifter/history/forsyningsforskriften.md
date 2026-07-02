@@ -1,6 +1,11 @@
 # forsyningsforskriften — Change history
 
-_4 events; doc_id `sf-20160812-0975`._
+_5 events; doc_id `sf-20160812-0975`._
+
+## 2026-07-02 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forsyningsforskriften`
+Commit: `747167f`.
 
 ## 2026-07-01 — Content updated
 Lines: +70 -34.

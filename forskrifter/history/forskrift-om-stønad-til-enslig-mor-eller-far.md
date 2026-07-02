@@ -1,6 +1,11 @@
 # forskrift-om-stønad-til-enslig-mor-eller-far — Change history
 
-_4 events; doc_id `sf-20151121-1341`._
+_5 events; doc_id `sf-20151121-1341`._
+
+## 2026-07-02 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-stønad-til-enslig-mor-eller-far`
+Commit: `541a694`.
 
 ## 2026-07-01 — Content updated
 Lines: +11 -23.

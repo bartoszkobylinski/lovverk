@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260629-1443",
+  "events": [
+    {
+      "commit": "fe24233",
+      "date": "2026-07-02",
+      "from_path": null,
+      "lines_added": 49,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-regulering-av-fisket-med-fartøy-som-fører-islandsk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-regulering-av-fisket-med-fartøy-som-fører-islandsk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026"
+}

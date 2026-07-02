@@ -1,6 +1,11 @@
 # forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport — Change history
 
-_4 events; doc_id `sf-20221220-2384`._
+_5 events; doc_id `sf-20221220-2384`._
+
+## 2026-07-02 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport`
+Commit: `da25031`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -3.

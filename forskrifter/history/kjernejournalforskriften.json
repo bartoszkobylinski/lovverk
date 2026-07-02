@@ -2,6 +2,16 @@
   "doc_id": "sf-20130531-0563",
   "events": [
     {
+      "commit": "cfba5f2",
+      "date": "2026-07-02",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): kjernejournalforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

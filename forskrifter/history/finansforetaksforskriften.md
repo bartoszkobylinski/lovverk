@@ -1,6 +1,11 @@
 # finansforetaksforskriften — Change history
 
-_4 events; doc_id `sf-20161209-1502`._
+_5 events; doc_id `sf-20161209-1502`._
+
+## 2026-07-02 — Content updated
+Lines: +20 -2.
+Subject: `update(forskrift): finansforetaksforskriften`
+Commit: `4294a2e`.
 
 ## 2026-07-01 — Content updated
 Lines: +13 -3.

@@ -1,6 +1,16 @@
 # forskrift-om-tobakksvarer-og-relaterte-produkter — Change history
 
-_2 events; doc_id `sf-20260327-0526`._
+_4 events; doc_id `sf-20260327-0526`._
+
+## 2026-07-02 — Content updated
+Lines: +14 -6.
+Subject: `update(forskrift): forskrift-om-tobakksvarer-og-relaterte-produkter`
+Commit: `3162358`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20260327-0526.md` → `forskrifter/forskrift-om-tobakksvarer-og-relaterte-produkter.md`.
