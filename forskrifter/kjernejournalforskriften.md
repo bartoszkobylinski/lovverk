@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2013-05-31"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-09-28"
-xml_hash: "d46c69328e2b5024a0c0d6c20226f35e9913cced76e082d44df1e16d4c5a57c8"
+xml_hash: "f446cf504a03bc1c50948e78e03b7f6b7e8c4c8e1eb94c13df5539d6c27e065b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,7 +46,7 @@ Den registrerte har rett til å reservere seg mot behandling av helseopplysninge
 
 Uten samtykke kan en nasjonal kjernejournal inneholde:navn og fødselsnummer eller D-nummerkontaktinformasjon til den registrertekontaktinformasjon tilpårørendefastlege eller annen legeaktuelle kommunale helse- og omsorgstjenesteren oversikt over legemidler og annet rekvirert på reseptfra Reseptformidleren som er rekvirert og/eller utlevertordinert internt i sykehjemfra fastlege eller annet behandlende helsepersonellkritisk informasjon omalvorlige allergiske reaksjoner og andre overfølsomhetsreaksjonerimplantaterhelsehjelp som kan være kontraindisertandre kritiske opplysninger, blant annet dersom vanlig behandlingsrutine ikke skal følges, komplikasjoner etter tidligere helsehjelp, medisinsk tilstand som krever særlig oppmerksomhet, pågående behandling og meldepliktige infeksjonssykdommer der sykdommen vil kunne påvirke valg av helsehjelplaboratorie- og bildediagnostiske svar ommedisinsk biokjemiklinisk farmakologiimmunologi og transfusjonsmedisinmedisinsk mikrobiologimedisinsk genetikkpatologiradiologinukleærmedisinpasientens kontakt med helsetjenesten vedtid og sted for kontakt med spesialisthelsetjenestentid og sted for kontakt med kommunal helse- og omsorgstjenestereferanse til ytterligere informasjon, herunder epikriser, prøvesvar, billedundersøkelser og henvisningerpasientens felteradministrativ informasjon omeventuell reservasjon mot at det opprettes en kjernejournalsamtykke til tilgang til journalopplysningertilgangsbegrensningerkrav om retting og sletting som er under behandling i primærkildenlogg over hvem som har hatt tilgang til opplysninger om pasienten.
 
-Samtykker den registrerte kan kjernejournalen inneholde:førstevalg behandlingavtalte behandlings- og omsorgstiltakreservasjon mot behandling, jf. pasient- og [brukerrettighetsloven § 4-9](lov/1999-07-02-63/§4-9).
+Samtykker den registrerte kan kjernejournalen inneholde:førstevalg behandlingavtalte behandlings- og omsorgstiltakreservasjon mot behandling, jf. [pasient- og brukerrettighetsloven § 4-9](lov/1999-07-02-63/§4-9).
 
 Den enkelte kan reservere seg mot at det registreres informasjon som nevnt i første ledd nr. 6. Har den registrerte reservert seg mot at det opprettes en kjernejournal, skal bare opplysninger som nevnt i § 4 første ledd nr. 1 og nr. 10 bokstav a registreres.
 
@@ -70,9 +70,9 @@ Den dataansvarlige har ansvar for at bare opplysninger som nevnt i [§ 4](forskr
 
 ## § 6. Rett til innsyn, varsel, retting, sletting og sperring
 
-Den registrerte har rett til innsyn i egne opplysninger i den nasjonale kjernejournalen, og i opplysninger om hvem som har gjort oppslag i kjernejournalen. Pasient- og [brukerrettighetsloven § 5-1](lov/1999-07-02-63/§5-1), jf. [§ 3-3](lov/1999-07-02-63/§3-3) og [§ 3-4](lov/1999-07-02-63/§3-4) gjelder tilsvarende.
+Den registrerte har rett til innsyn i egne opplysninger i den nasjonale kjernejournalen, og i opplysninger om hvem som har gjort oppslag i kjernejournalen. [Pasient- og brukerrettighetsloven § 5-1](lov/1999-07-02-63/§5-1), jf. [§ 3-3](lov/1999-07-02-63/§3-3) og [§ 3-4](lov/1999-07-02-63/§3-4) gjelder tilsvarende.
 
-Den registrerte skal informeres om oppslag i nasjonal kjernejournal. Pasient- og [brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) og [§ 3-4](lov/1999-07-02-63/§3-4) gjelder tilsvarende.
+Den registrerte skal informeres om oppslag i nasjonal kjernejournal. [Pasient- og brukerrettighetsloven § 3-3](lov/1999-07-02-63/§3-3) og [§ 3-4](lov/1999-07-02-63/§3-4) gjelder tilsvarende.
 
 Krav om retting eller sletting av opplysninger skal fremsettes overfor primærkilden for opplysningene, med mindre feilen oppstod ved registreringen i den nasjonale kjernejournalen. Den registrerte kan kreve at tilgangen til opplysningene i den nasjonale kjernejournalen blir sperret, jf. [helsepersonelloven § 29](lov/1999-07-02-64/§29) og [pasient- og brukerrettighetsloven § 5-3](lov/1999-07-02-63/§5-3).
 
