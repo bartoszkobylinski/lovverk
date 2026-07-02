@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-19"
+last_change_in_force: "2026-06-29"
 last_updated: null
-xml_hash: "65e7057e5005f1074bd0acc6d235f22b14576224d7a475c5ad1b5e5f3b3f89d8"
+xml_hash: "95c9012cc24c4668905a43034cc895b9b3828714edef0c26f0f07e39f7c0c550"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -102,9 +102,9 @@ Kvoten til det enkelte fartøy fremkommer ved å multiplisere fartøyets kvotefa
 
 Ved beregning av fartøyets kvotefaktor gjelder tonnasje i henhold til skipskontrollens målebrev/identitetsbevis utstedt senest 31. desember 2001, eventuelt fartøyets tonnasje i henhold til Skipskontrollens målebrev/identitetsbevis etter foretatt utskifting eller ombygging i overensstemmelse med utskifting/ombyggingstillatelse gitt senest samme dato. Ved eierskifte nyttes bruttotonnasje per nevnte tidspunkt for det fartøy reder hadde konsesjon på ved årets begynnelse eller tidligere.
 
-Kvoteenheten fastsettes til 0,4997. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,3 fiskes i britisk sone.
+Kvoteenheten fastsettes til 0,4997. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,4 fiskes i britisk sone.
 
-> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [16 juni 2026 nr. 1098](forskrift/2026-06-16-1098).
+> Endret ved forskrifter [22 mai 2026 nr. 904](forskrift/2026-05-22-904), [16 juni 2026 nr. 1098](forskrift/2026-06-16-1098), [29 juni 2026 nr. 1449](forskrift/2026-06-29-1449).
 
 ### § 10. Kvotefleksibilitet på fartøynivå
 
