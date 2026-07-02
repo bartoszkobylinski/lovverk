@@ -11,13 +11,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2020-04-07"
-last_change_in_force: "2026-05-15"
+last_change_in_force: "2026-06-30"
 last_updated: "2025-01-29"
-xml_hash: "2b35d409e7bf78c79437b5664507b8dda538b37a3483f42f157ee4fd1921e890"
+xml_hash: "afed05b5293634bf7b9fbfc4a5e6f0109424129991a1210949639d39be9fdf9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-16T06:19:44.356932+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,9 +40,9 @@ Ved konflikt mellom forordningens bestemmelser og denne bestemmelse, går alltid
 
 ## § 2. Kontroll av ikke animalske produkter
 
-[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bm, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qm og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164m (forordning [(EU) 2019/1793](eu/32019r1793)), som endret ved [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 7.1 nr. 13, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 41 og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v12/kapXII) nr. 54zzzc (forordning [(EU) 2020/625](eu/32020r0625), forordning [(EU) 2021/608](eu/32021r0608), forordning [(EU) 2021/1900](eu/32021r1900), forordning [(EU) 2021/2246](eu/32021r2246), forordning [(EU) 2022/913](eu/32022r0913), forordning [(EU) 2023/174](eu/32023r0174), forordning [(EU) 2023/1110](eu/32023r1110), forordning [(EU) 2024/286](eu/32024r0286), forordning [(EU) 2024/1662](eu/32024r1662), forordning [(EU) 2024/3153](eu/32024r3153), forordning [(EU) 2025/1441](eu/32025r1441), forordning [(EU) 2026/194](eu/32026r0194) og forordning [(EU) 2026/459](eu/32026r0459)) om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel til Unionen av visse varer fra visse tredjestater, om gjennomføring av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) og [(EF) nr. 178/2002](eu/32002r0178), og om oppheving av kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669), [(EU) nr. 884/2014](eu/32014r0884), [(EU) 2015/175](eu/32015r0175), [(EU) 2017/186](eu/32017r0186) og [(EU) 2018/1660](eu/32018r1660) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalens vedlegg I kapittel I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bm, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qm og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164m (forordning [(EU) 2019/1793](eu/32019r1793)), som endret ved [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 7.1 nr. 13, kap. II nr. 41 og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzc (forordning [(EU) 2020/625](eu/32020r0625), forordning [(EU) 2021/608](eu/32021r0608), forordning [(EU) 2021/1900](eu/32021r1900), forordning [(EU) 2021/2246](eu/32021r2246), forordning [(EU) 2022/913](eu/32022r0913), forordning [(EU) 2023/174](eu/32023r0174), forordning [(EU) 2023/1110](eu/32023r1110), forordning [(EU) 2024/286](eu/32024r0286), forordning [(EU) 2024/1662](eu/32024r1662), forordning [(EU) 2024/3153](eu/32024r3153), forordning [(EU) 2025/1441](eu/32025r1441), forordning [(EU) 2026/194](eu/32026r0194), forordning [(EU) 2026/459](eu/32026r0459) og forordning [(EU) 2026/1206](eu/32026r1206) om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel til Unionen av visse varer fra visse tredjestater, om gjennomføring av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) og [(EF) nr. 178/2002](eu/32002r0178), og om oppheving av kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669), [(EU) nr. 884/2014](eu/32014r0884), [(EU) 2015/175](eu/32015r0175), [(EU) 2017/186](eu/32017r0186) og [(EU) 2018/1660](eu/32018r1660) gjelder som forskrift med de tilpasninger som følger av [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 20 mai 2020 nr. 1075](forskrift/2020-05-20-1075) (i kraft 27 mai 2020), [26 okt 2020 nr. 2152](forskrift/2020-10-26-2152), [30 april 2021 nr. 1475](forskrift/2021-04-30-1475) (i kraft 5 mai 2021), [8 nov 2021 nr. 3215](forskrift/2021-11-08-3215) (i kraft 23 nov 2021), [4 jan 2022 nr. 12](forskrift/2022-01-04-12) (i kraft 6 jan 2022), [30 juni 2022 nr. 1389](forskrift/2022-06-30-1389) (i kraft 3 juli 2022), [3 feb 2023 nr. 162](forskrift/2023-02-03-162) (i kraft 16 feb 2023), [23 juni 2023 nr. 1304](forskrift/2023-06-23-1304) (i kraft 27 juni 2023), [26 jan 2024 nr. 132](forskrift/2024-01-26-132) (i kraft 6 feb 2024), [24 juni 2024 nr. 1312](forskrift/2024-06-24-1312) (i kraft 2 juli 2024), [6 jan 2025 nr. 11](forskrift/2025-01-06-11) (i kraft 8 jan 2025), [1 aug 2025 nr. 1593](forskrift/2025-08-01-1593) (i kraft 12 aug 2025), [26 feb 2026 nr. 295](forskrift/2026-02-26-295).
+> Endret ved [forskrifter 20 mai 2020 nr. 1075](forskrift/2020-05-20-1075) (i kraft 27 mai 2020), [26 okt 2020 nr. 2152](forskrift/2020-10-26-2152), [30 april 2021 nr. 1475](forskrift/2021-04-30-1475) (i kraft 5 mai 2021), [8 nov 2021 nr. 3215](forskrift/2021-11-08-3215) (i kraft 23 nov 2021), [4 jan 2022 nr. 12](forskrift/2022-01-04-12) (i kraft 6 jan 2022), [30 juni 2022 nr. 1389](forskrift/2022-06-30-1389) (i kraft 3 juli 2022), [3 feb 2023 nr. 162](forskrift/2023-02-03-162) (i kraft 16 feb 2023), [23 juni 2023 nr. 1304](forskrift/2023-06-23-1304) (i kraft 27 juni 2023), [26 jan 2024 nr. 132](forskrift/2024-01-26-132) (i kraft 6 feb 2024), [24 juni 2024 nr. 1312](forskrift/2024-06-24-1312) (i kraft 2 juli 2024), [6 jan 2025 nr. 11](forskrift/2025-01-06-11) (i kraft 8 jan 2025), [1 aug 2025 nr. 1593](forskrift/2025-08-01-1593) (i kraft 12 aug 2025), [26 feb 2026 nr. 295](forskrift/2026-02-26-295), [24 juni 2026 nr. 1438](forskrift/2026-06-24-1438) (i kraft 30 juni 2026).
 
 ## § 3. Gebyr
 
@@ -78,11 +78,11 @@ Samtidig oppheves følgende forskrifter:[forskrift 2. september 2014 nr. 1140](f
 
 ### Konsolidert forordning (EU) 2019/1793 om kontroll av ikke animalske produkter
 
-> Endret ved [forskrifter 20 mai 2020 nr. 1075](forskrift/2020-05-20-1075) (i kraft 27 mai 2020), [26 okt 2020 nr. 2152](forskrift/2020-10-26-2152), [30 april 2021 nr. 1475](forskrift/2021-04-30-1475) (i kraft 5 mai 2021), [8 nov 2021 nr. 3215](forskrift/2021-11-08-3215) (i kraft 23 nov 2021), [4 jan 2022 nr. 12](forskrift/2022-01-04-12) (i kraft 6 jan 2022), [1 feb 2022 nr. 155](forskrift/2022-02-01-155), [30 juni 2022 nr. 1389](forskrift/2022-06-30-1389) (i kraft 3 juli 2022), [3 feb 2023 nr. 162](forskrift/2023-02-03-162) (i kraft 16 feb 2023), [23 juni 2023 nr. 1304](forskrift/2023-06-23-1304) (i kraft 27 juni 2023), [26 jan 2024 nr. 132](forskrift/2024-01-26-132) (i kraft 6 feb 2024), [24 juni 2024 nr. 1312](forskrift/2024-06-24-1312) (i kraft 2 juli 2024), [5 juli 2024 nr. 1580](forskrift/2024-07-05-1580), [6 jan 2025 nr. 11](forskrift/2025-01-06-11) (i kraft 8 jan 2025), [1 aug 2025 nr. 1593](forskrift/2025-08-01-1593) (i kraft 12 aug 2025), [26 feb 2026 nr. 295](forskrift/2026-02-26-295).
+> Endret ved [forskrifter 20 mai 2020 nr. 1075](forskrift/2020-05-20-1075) (i kraft 27 mai 2020), [26 okt 2020 nr. 2152](forskrift/2020-10-26-2152), [30 april 2021 nr. 1475](forskrift/2021-04-30-1475) (i kraft 5 mai 2021), [8 nov 2021 nr. 3215](forskrift/2021-11-08-3215) (i kraft 23 nov 2021), [4 jan 2022 nr. 12](forskrift/2022-01-04-12) (i kraft 6 jan 2022), [1 feb 2022 nr. 155](forskrift/2022-02-01-155), [30 juni 2022 nr. 1389](forskrift/2022-06-30-1389) (i kraft 3 juli 2022), [3 feb 2023 nr. 162](forskrift/2023-02-03-162) (i kraft 16 feb 2023), [23 juni 2023 nr. 1304](forskrift/2023-06-23-1304) (i kraft 27 juni 2023), [26 jan 2024 nr. 132](forskrift/2024-01-26-132) (i kraft 6 feb 2024), [24 juni 2024 nr. 1312](forskrift/2024-06-24-1312) (i kraft 2 juli 2024), [5 juli 2024 nr. 1580](forskrift/2024-07-05-1580), [6 jan 2025 nr. 11](forskrift/2025-01-06-11) (i kraft 8 jan 2025), [1 aug 2025 nr. 1593](forskrift/2025-08-01-1593) (i kraft 12 aug 2025), [26 feb 2026 nr. 295](forskrift/2026-02-26-295), [24 juni 2026 nr. 1438](forskrift/2026-06-24-1438) (i kraft 30 juni 2026).
 
-Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bm, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qm og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164m (forordning [(EU) 2019/1793](eu/32019r1793)), og [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 7.1 nr. 13, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 41 og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzc (forordning [(EU) 2020/625](eu/32020r0625), forordning [(EU) 2021/608](eu/32021r0608), forordning [(EU) 2021/1900](eu/32021r1900), forordning [(EU) 2021/2246](eu/32021r2246), forordning [(EU) 2022/913](eu/32022r0913), forordning [(EU) 2023/174](eu/32023r0174), forordning [(EU) 2023/1110](eu/32023r1110), forordning [(EU) 2024/286](eu/32024r0286), forordning [(EU) 2024/1662](eu/32024r1662), forordning [(EU) 2024/3153](eu/32024r3153), forordning [(EU) 2025/1441](eu/32025r1441), forordning [(EU) 2026/194](eu/32026r0194), forordning [(EU) 2026/459](eu/32026r0459) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll I til EØS-avtalen.
+Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11bm, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31qm og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164m (forordning (EU) 2019/1793), og [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 7.1 nr. 13, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 41 og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzc (forordning [(EU) 2020/625](eu/32020r0625), forordning [(EU) 2021/608](eu/32021r0608), forordning [(EU) 2021/1900](eu/32021r1900), forordning [(EU) 2021/2246](eu/32021r2246), forordning [(EU) 2022/913](eu/32022r0913), forordning [(EU) 2023/174](eu/32023r0174), forordning [(EU) 2023/1110](eu/32023r1110), forordning [(EU) 2024/286](eu/32024r0286), forordning [(EU) 2024/1662](eu/32024r1662), forordning [(EU) 2024/3153](eu/32024r3153), forordning [(EU) 2025/1441](eu/32025r1441) og forordning [(EU) 2026/194](eu/32026r0194) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2), protokoll I til EØS-avtalen.
 
-Forordning [(EU) 2019/1793](eu/32019r1793) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2026/459](eu/32026r0459).
+Forordning [(EU) 2019/1793](eu/32019r1793) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2026/1206](eu/32026r1206).
 
 - ►**M1** Kommisjonsforordning [(EU) 2020/625](eu/32020r0625) av 6. mai 2020
 - ►**M2** Kommisjonsforordning [(EU) 2020/1540](eu/32020r1540) av 22. oktober 2020
@@ -98,6 +98,7 @@ Forordning [(EU) 2019/1793](eu/32019r1793) er konsolidert til og med endringer g
 - ►**M12** Kommisjonsforordning [(EU) 2025/1441](eu/32025r1441) av 18. juli 2025
 - ►**M13** Kommisjonsforordning [(EU) 2026/194](eu/32026r0194) av 28. januar 2026
 - ►**M14** Kommisjonsforordning [(EU) 2026/459](eu/32026r0459) av 24. februar 2026
+- ►**M15** Kommisjonsforordning [(EU) 2026/1206](eu/32026r1206) av 9. juni 2026
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1793](eu/32019r1793)
 av 22. oktober 2019
@@ -272,10 +273,10 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 Utferdiget i Brussel 22. oktober 2019.
 
 ### VEDLEGG I
-Næringsmidler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner og kontrollsteder
+Nærings­midler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner og kontrollsteder
 
 ### VEDLEGG II
-Næringsmidler og fôrvarer fra visse stater utenfor EØS-området som skal underkastes særlige importbetingelser ved import til unionen som følge av risikoen for forurensning av mykotoksiner, inkludert aflatoksiner, plantevernmiddelrester, mikrobiologisk forurensning, cereulide-giftstoffer, sudan-fargestoffer og plantetoksiner
+Nærings­midler og fôr fra visse tredjestater som er underlagt særlige vilkår for innførsel til Unionen på grunn av risiko for forurensning med mykotoksiner, herunder aflatoksiner, cereulidtoksin, plantevernmiddelrester, mikrobiologisk forurensning, Sudan-fargestoffer og plantetoksiner
 
 ### ► **M3** VEDLEGG IIa
 Næringsmidler og fôr fra visse stater utenfor EØS-området som skal underkastes forbud mot innførsel til unionen, som nevnt i artikkel 11a
@@ -320,3 +321,9 @@ For å lese forordning [(EU) 2026/194](eu/32026r0194) (på engelsk), se her: [pd
 For å lese forordning [(EU) 2026/459](eu/32026r0459) (på engelsk), se her: [pdf-fil](static/SF/32026r0459e-01.pdf).
 
 > Tilføyd ved forskrift [26 feb 2026 nr. 295](forskrift/2026-02-26-295).
+
+### Forordning (EU) 2026/1206
+
+For å lese forordning [(EU) 2026/1206](eu/32026r1206) (på engelsk), se her: [pdf-fil](static/SF/32026r1206e-01.pdf).
+
+> Tilføyd ved forskrift [24 juni 2026 nr. 1438](forskrift/2026-06-24-1438) (i kraft 30 juni 2026).
