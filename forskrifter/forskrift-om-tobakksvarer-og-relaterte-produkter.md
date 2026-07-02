@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2026-03-30"
-last_change_in_force: null
+last_change_in_force: "2026-06-30"
 last_updated: null
-xml_hash: "2042cb93aa72c0d212a5e5883ca6cc88b452c6014e43ecf2d4f40705af485839"
+xml_hash: "de238ee5e7abea04b2c0193196b6a4e9c52d3eb089ea2130229d1fe2665be433"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -176,13 +176,15 @@ Alle advarslene skal alterneres årlig slik at hver og en av dem forekommer like
 
 Enkeltpakninger og ytre emballasje for røykfrie tobakksvarer skal merkes med en av følgende advarsler:«Denne tobakksvaren er helseskadelig og avhengighetsskapende»«Denne tobakksvaren øker risikoen for fosterskader og dødfødsel».
 
-Advarslene skal fordeles likt på de enkelte produktvariantene, slik at begge advarsler forekommer på det enkelte vareparti til enhver tid.
+Advarslene skal forekomme like regelmessig på de enkelte produktvariantene.
 
 Advarselen i første ledd skal påføres pakningens to største flater, og dekke minst 30 prosent av hver overflate. Størrelsen på advarselen skal beregnes ut ifra den aktuelle overflate når pakningen er lukket. Advarselen skal være fullt synlig, uten at pakningen må dreies.
 
 Advarselen skal være sentrert på pakningen, rektangulær og tverrgående i samme retning som merke- og variantnavnet. Teksten skal være parallell med hovedteksten på overflaten som er forbeholdt disse advarslene.
 
 I tilknytning til, men utenfor det området som er reservert for advarselsmerkingen på begge flater, skal følgende slutteinformasjon fremgå: «Slutte? Se Slutta.no». Slutteinformasjonen skal utformes i svart, fet Helvetica skrifttype på en gul overflate (C0, M10, Y100 og K0), og skal dekke 10 prosent av overflaten. Slutteinformasjonen skal ha en 1 mm bred svart ramme på innsiden av overflaten som er reservert for den.
+
+> Endret ved forskrift [30 juni 2026 nr. 1447](forskrift/2026-06-30-1447).
 
 ### § 21. Helseadvarsel for urtebaserte røykeprodukter
 
@@ -193,6 +195,8 @@ Advarselen skal trykkes på pakningenes forside og bakside, og dekke minst 30 pr
 ### § 22. Generelle krav til utforming av advarselsmerking
 
 Merking etter [§§ 16](forskrift/2026-03-27-526/§16), [18](forskrift/2026-03-27-526/§18), [20](forskrift/2026-03-27-526/§20) og [21](forskrift/2026-03-27-526/§21) skal oppfylle følgende krav:Helseadvarselen skal være på norsk og dekke hele det areal på pakningen eller den ytre emballasjen som er forbeholdt den og må ikke kommenteres, omformuleres eller på noen måte henvises til.Helseadvarslene skal være fullt synlige, og ikke kunne fjernes eller slettes. De må ikke helt eller delvis skjules eller forstyrres av avgiftsmerking, prismerking, sikkerhetsmerking, omslag, futteral, esker eller lignende, når de bringes i omsetning. På andre pakninger enn for sigaretter og rulletobakk i pung, kan helseadvarslene festes ved selvklebende merker, dersom disse merkene ikke kan fjernes.Helseadvarslene skal være intakte ved åpning av enkeltpakningen, unntatt for pakninger med brettbart lokk (flipp-topp), hvor helseadvarselen kan brytes ved åpning av pakken, men kun på en måte som sikrer den grafiske helheten og synligheten av tekst, bilde og slutteinformasjon.Helseadvarslene må ikke skjule eller forstyrre avgiftsmerker, prismerker, sporingsmerker eller sikkerhetsmerker på enkeltpakninger.Dimensjonene på helseadvarslene skal beregnes i forhold til den gjeldende overflate når pakningen er lukket.Helseadvarslene skal være omgitt av en svart kantlinje på 1 mm innenfor området som er reservert for advarselsmerkingen.
+
+> Endret ved forskrift [30 juni 2026 nr. 1447](forskrift/2026-06-30-1447).
 
 ### § 23. Utforming av generell advarsel og informasjonstekst og av helseadvarsel for røykfri tobakk og urtebaserte røykeprodukter
 
@@ -362,7 +366,9 @@ Det er forbudt å innføre og bringe i omsetning i Norge elektroniske sigaretter
 
 Det er forbudt å innføre og bringe i omsetning i Norge vannpipetobakk.
 
-Denne bestemmelsen gjelder inntil 1. juli 2026.
+Denne bestemmelsen gjelder inntil 31. desember 2026.
+
+> Endret ved forskrift [30 juni 2026 nr. 1447](forskrift/2026-06-30-1447).
 
 ## Kapittel 10. Administrative bestemmelser
 
@@ -421,4 +427,6 @@ Prioritetsliste over tilsetningsstoffer i sigaretter og rulletobakk som omfattes
 
 ## Vedlegg 2 til forskrift om tobakksvarer og relaterte produkter
 
-- [Pdf-fil](static/SF/sf-20260327-0526-01-01.pdf).
+- [Pdf-fil](static/SF/sf-20260327-0526-01-02.pdf).
+
+> Endret ved forskrift [30 juni 2026 nr. 1447](forskrift/2026-06-30-1447).
