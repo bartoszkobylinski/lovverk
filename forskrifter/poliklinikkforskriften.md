@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2020-01-20"
-xml_hash: "86515e45b52d5386173f16ad9ede7330191e99a093591e66ebf09a2aa45c9d02"
+xml_hash: "e86ebb54025476ea60667f8e57db7e613bde0fb9bde71584ff638d455a70c4ba"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,7 +40,7 @@ Unntak gjelder for pasienten som på egen hånd oppsøker sykehusets akuttfunksj
 
 Pasienten skal etter endt behandling tilbakeføres til henvisende instans med epikrise.
 
-> Endret ved [forskrifter 26 feb 2008 nr. 192](forskrift/2008-02-26-192), [7 jan 2009 nr. 28](forskrift/2009-01-07-28), [18 des 2009 nr. 1728](forskrift/2009-12-18-1728) (i kraft 1 jan 2010), [26 aug 2014 nr. 1114](forskrift/2014-08-26-1114) (i kraft 1 sep 2014), [22 juni 2015 nr. 748](forskrift/2015-06-22-748) (i kraft 1 juli 2015), [20 des 2016 nr. 1848](forskrift/2016-12-20-1848) (i kraft 1 jan 2017), [29 juni 2020 nr. 1450](forskrift/2020-06-29-1450) (i kraft 3 juli 2020), [22 des 2020 nr. 3092](forskrift/2020-12-22-3092) (i kraft 1 jan 2021), [24 okt 2025 nr. 2092](forskrift/2025-10-24-2092).
+> Endret ved [forskrifter 26 feb 2008 nr. 192](forskrift/2008-02-26-192), [7 jan 2009 nr. 28](forskrift/2009-01-07-28), [18 des 2009 nr. 1728](forskrift/2009-12-18-1728) (i kraft 1 jan 2010), [26 aug 2014 nr. 1114](forskrift/2014-08-26-1114) (i kraft 1 sep 2014), [22 juni 2015 nr. 748](forskrift/2015-06-22-748) (i kraft 1 juli 2015), [20 des 2016 nr. 1848](forskrift/2016-12-20-1848) (i kraft 1 jan 2017), [29 juni 2020 nr. 1450](forskrift/2020-06-29-1450) (i kraft 3 juli 2020), [22 des 2020 nr. 3092](forskrift/2020-12-22-3092) (i kraft 1 jan 2021), [24 okt 2025 nr. 2092](forskrift/2025-10-24-2092). **Endres** ved forskrift [26 juni 2026 nr. 1439](forskrift/2026-06-26-1439) (i kraft 1 sep 2026).
 
 ### § 3
 
