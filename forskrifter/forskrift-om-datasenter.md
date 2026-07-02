@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "ddc08bfca4f8541af70cb9a24b4a5fc4fcd64833017470d7ffdc0f827cfabb3c"
+xml_hash: "b6f3297d6334d6fce132e5a469005d5dbdbef9d6ff9da81ec0c64fb601f200e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,9 +52,9 @@ En datasenteroperatør skal ha tilgjengelig og oppdatert informasjon om kunder s
 
 ### § 1-5. Plikt til å utlevere kundeinformasjon
 
-En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 om én eller enkelte angitte kunder tilpolitiet eller påtalemyndigheten når og i det omfang det er nødvendig for å stanse eller avverge et lovbrudd rettet mot eller begått ved bruk av utstyr i et datasenter.Politiets sikkerhetstjeneste når det er det er grunn til å undersøke om noen forbereder en handling som nevnt i [politiloven § 17b](lov/1995-08-04-53/§17b), og det er grunn til å tro at informasjonen er av betydning for å forebygge handlingen.
+En datasenteroperatør har plikt til å utlevere informasjon som nevnt i [§ 1-4](forskrift/2024-12-18-3313/§1-4) om én eller enkelte angitte kunder tilpolitiet eller påtalemyndigheten når og i det omfang det er nødvendig for å stanse eller avverge et lovbrudd rettet mot eller begått ved bruk av utstyr i et datasenter.Politiets sikkerhetstjeneste når det er det er grunn til å undersøke om noen forbereder en handling som nevnt i [politiloven § 17b](lov/1995-08-04-53/§17b), og det er grunn til å tro at informasjonen er av betydning for å forebygge handlingen.
 
-En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 tilNasjonal sikkerhetsmyndighet når og i det omfang det er nødvendig for å drive den nasjonale responsfunksjonen ved alvorlige digitale angrep og det nasjonale varslingssystemet for digital infrastruktur etter [sikkerhetsloven § 2-4](lov/2018-06-01-24/§2-4).Nasjonal kommunikasjonsmyndighet når og i det omfang det er nødvendig for å utføre oppgaver etter [sikkerhetsloven](lov/2018-06-01-24).
+En datasenteroperatør har plikt til å utlevere informasjon som nevnt i [§ 1-4](forskrift/2024-12-18-3313/§1-4) tilNasjonal sikkerhetsmyndighet når og i det omfang det er nødvendig for å drive den nasjonale responsfunksjonen ved alvorlige digitale angrep og det nasjonale varslingssystemet for digital infrastruktur etter [sikkerhetsloven § 2-4](lov/2018-06-01-24/§2-4).Nasjonal kommunikasjonsmyndighet når og i det omfang det er nødvendig for å utføre oppgaver etter [sikkerhetsloven](lov/2018-06-01-24).
 
 Pålegget om utlevering av informasjon etter første og andre ledd skal fremsettes skriftlig av lederen av det aktuelle organet eller den denne bemyndiger. Pålegget skal så vidt mulig opplyse om hva saken gjelder, formålet med pålegget og hva det omfatter. Pålegget skal også opplyse om hvilken myndighet som er klageinstans. Det skal fremgå at vilkårene for utlevering av informasjonen er vurdert.
 
@@ -62,13 +62,13 @@ Pålegget om utlevering av informasjon etter første og andre ledd skal fremsett
 
 ### § 1-6. Krav om fysisk representant i Norge
 
-En datasenteroperatør skal ha en representant som er til stede i Norge. Representanten skal kunne møte opp fysisk og ha nødvendig fullmakt og kunnskap til å kunne følge opp henvendelser fra myndighetene, herunder til å kunne bistå når myndighetene har hjemmel til å gjennomføre tiltak etter lov eller forskrift gitt med hjemmel i lov, som forskriften § 1-5, [straffeprosessloven](lov/1981-05-22-25), [politiloven](lov/1995-08-04-53) eller [sikkerhetsloven](lov/2018-06-01-24).
+En datasenteroperatør skal ha en representant som er til stede i Norge. Representanten skal kunne møte opp fysisk og ha nødvendig fullmakt og kunnskap til å kunne følge opp henvendelser fra myndighetene, herunder til å kunne bistå når myndighetene har hjemmel til å gjennomføre tiltak etter lov eller forskrift gitt med hjemmel i lov, som forskriften [§ 1-5](forskrift/2024-12-18-3313/§1-5), [straffeprosessloven](lov/1981-05-22-25), [politiloven](lov/1995-08-04-53) eller [sikkerhetsloven](lov/2018-06-01-24).
 
 > Tilføyd ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
 ### § 1-7. Krav til responstid
 
-Innenfor arbeidstid skal datasenteroperatøren etterkomme pålegg etter § 1-5 uten ugrunnet opphold. Det samme gjelder bistand til gjennomføring av tiltak som nevnt i § 1-6.
+Innenfor arbeidstid skal datasenteroperatøren etterkomme pålegg etter [§ 1-5](forskrift/2024-12-18-3313/§1-5) uten ugrunnet opphold. Det samme gjelder bistand til gjennomføring av tiltak som nevnt i [§ 1-6](forskrift/2024-12-18-3313/§1-6).
 
 Utenfor normal arbeidstid skal datasenteroperatøren ha beredskap for på kort varsel å følge opp henvendelser som nevnt i første ledd i saker som haster av hensyn til kriminalitetsbekjempelse eller nasjonal sikkerhet.
 
@@ -160,7 +160,7 @@ Nasjonal kommunikasjonsmyndighet fører tilsyn med at kravene i forskriften blir
 
 ### § 3-2. Overtredelsesgebyr
 
-Nasjonal kommunikasjonsmyndighet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer [§ 1-3](forskrift/2024-12-18-3313/§1-3) (Registreringsplikt for datasenteroperatører), § 1-4 (Plikt til å ha oppdatert kundeinformasjon tilgjengelig), § 1-6 (Krav om fysisk representant i Norge), § 1-7 (Krav til responstid), [§ 2-1](forskrift/2024-12-18-3313/§2-1) (Krav til sikkerhetsstyring), [§ 2-2](forskrift/2024-12-18-3313/§2-2) (Krav om risiko- og sårbarhetsvurderinger), [§ 2-3](forskrift/2024-12-18-3313/§2-3) (Krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-18-3313/§2-4) (Krav til sikringsplaner), [§ 2-5](forskrift/2024-12-18-3313/§2-5) (Krav om beredskapsplanlegging og -øvelser), [§ 2-7](forskrift/2024-12-18-3313/§2-7) (Plikt til å følge opp at andre oppfyller sikkerhetskravene) eller [§ 2-8](forskrift/2024-12-18-3313/§2-8) (Plikt til å varsle om uønskede hendelser)overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-6](forskrift/2024-12-18-3313/§2-6) (Adgang til å pålegge sikkerhetsrevisjon), [§ 2-9](forskrift/2024-12-18-3313/§2-9) (Adgang til å pålegge datasentrene å ha nasjonal autonomi) eller [§ 2-10](forskrift/2024-12-18-3313/§2-10) (Adgang til å pålegge prioritering av tjenestetilbud), ellerovertrer pålegg fastsatt med hjemmel i § 1-5 (Plikt til å utlevere kundeinformasjon).
+Nasjonal kommunikasjonsmyndighet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomtovertrer [§ 1-3](forskrift/2024-12-18-3313/§1-3) (Registreringsplikt for datasenteroperatører), [§ 1-4](forskrift/2024-12-18-3313/§1-4) (Plikt til å ha oppdatert kundeinformasjon tilgjengelig), [§ 1-6](forskrift/2024-12-18-3313/§1-6) (Krav om fysisk representant i Norge), [§ 1-7](forskrift/2024-12-18-3313/§1-7) (Krav til responstid), [§ 2-1](forskrift/2024-12-18-3313/§2-1) (Krav til sikkerhetsstyring), [§ 2-2](forskrift/2024-12-18-3313/§2-2) (Krav om risiko- og sårbarhetsvurderinger), [§ 2-3](forskrift/2024-12-18-3313/§2-3) (Krav til grunnsikring og skadebegrensningstiltak), [§ 2-4](forskrift/2024-12-18-3313/§2-4) (Krav til sikringsplaner), [§ 2-5](forskrift/2024-12-18-3313/§2-5) (Krav om beredskapsplanlegging og -øvelser), [§ 2-7](forskrift/2024-12-18-3313/§2-7) (Plikt til å følge opp at andre oppfyller sikkerhetskravene) eller [§ 2-8](forskrift/2024-12-18-3313/§2-8) (Plikt til å varsle om uønskede hendelser)overtrer enkeltvedtak fastsatt med hjemmel i [§ 2-6](forskrift/2024-12-18-3313/§2-6) (Adgang til å pålegge sikkerhetsrevisjon), [§ 2-9](forskrift/2024-12-18-3313/§2-9) (Adgang til å pålegge datasentrene å ha nasjonal autonomi) eller [§ 2-10](forskrift/2024-12-18-3313/§2-10) (Adgang til å pålegge prioritering av tjenestetilbud), ellerovertrer pålegg fastsatt med hjemmel i [§ 1-5](forskrift/2024-12-18-3313/§1-5) (Plikt til å utlevere kundeinformasjon).
 
 > Endret ved forskrift [22 juni 2026 nr. 1320](forskrift/2026-06-22-1320) (i kraft 1 juli 2026).
 
