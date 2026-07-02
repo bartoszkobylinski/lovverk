@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-24"
-xml_hash: "5d503bb5b7384fc1ff1385279af3e6b5d1c387cd49d8e51e3a299e9adbe1f9ec"
+xml_hash: "3ecfb8ba0d1cc4cadd390110a355f9ff71fe65d73f50137eef4a1a1f876eddf8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -440,15 +440,15 @@ Oppdragsgiveren kan utforme alle dokumenter på norsk, og kan kreve at leverand�
 
 ### § 7-15. Krav til kontroll
 
-(1) Oppdragsgiver skal føre nødvendig kontroll av at kontraktsvilkårene som nevnt i §§ 7-11 første ledd, 7-12 første ledd, 7-13 og 7-14 overholdes. Risikovurderingen og etterfølgende dokumentasjonskontroll skal dokumenteres.
+(1) Oppdragsgiver skal føre nødvendig kontroll av at kontraktsvilkårene som nevnt i §§ 7-11 første ledd, 7-12 første ledd, [7-13](forskrift/2016-08-12-975/§7-13) og [7-14](forskrift/2016-08-12-975/§7-14) overholdes. Risikovurderingen og etterfølgende dokumentasjonskontroll skal dokumenteres.
 
-(2) Leverandører og underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår tilknyttet bestemmelsene som nevnt i §§ 7-11 til 7-13.
+(2) Leverandører og underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår tilknyttet bestemmelsene som nevnt i [§§ 7-11](forskrift/2016-08-12-975/§7-11) til [7-13](forskrift/2016-08-12-975/§7-13).
 
 > Tilføyd ved forskrift [14 april 2026 nr. 617](forskrift/2026-04-14-617) (i kraft 1 juli 2026).
 
 ### § 7-16. Tilsyn med krav til lønns- og arbeidsvilkår
 
-(1) Arbeidstilsynet fører innenfor sitt myndighetsområde tilsyn med at pliktene etter §§ 7-11, 7-12 og 7-15 overholdes. Tilsynet gir pålegg og treffer enkeltvedtak som er nødvendige for gjennomføring av bestemmelsen. [Arbeidsmiljøloven §§ 18-4](lov/2005-06-17-62/§18-4), [18-5](lov/2005-06-17-62/§18-5), [18-6](lov/2005-06-17-62/§18-6) første, andre, sjette, sjuende og åttende ledd samt [§§ 18-7](lov/2005-06-17-62/§18-7), [18-8](lov/2005-06-17-62/§18-8), [18-10](lov/2005-06-17-62/§18-10), [18-10 a](lov/2005-06-17-62/§18-10a), [18-12](lov/2005-06-17-62/§18-12) og [18-13](lov/2005-06-17-62/§18-13) får tilsvarende anvendelse.
+(1) Arbeidstilsynet fører innenfor sitt myndighetsområde tilsyn med at pliktene etter [§§ 7-11](forskrift/2016-08-12-975/§7-11), [7-12](forskrift/2016-08-12-975/§7-12) og [7-15](forskrift/2016-08-12-975/§7-15) overholdes. Tilsynet gir pålegg og treffer enkeltvedtak som er nødvendige for gjennomføring av bestemmelsen. [Arbeidsmiljøloven §§ 18-4](lov/2005-06-17-62/§18-4), [18-5](lov/2005-06-17-62/§18-5), [18-6](lov/2005-06-17-62/§18-6) første, andre, sjette, sjuende og åttende ledd samt [§§ 18-7](lov/2005-06-17-62/§18-7), [18-8](lov/2005-06-17-62/§18-8), [18-10](lov/2005-06-17-62/§18-10), [18-10 a](lov/2005-06-17-62/§18-10a), [18-12](lov/2005-06-17-62/§18-12) og [18-13](lov/2005-06-17-62/§18-13) får tilsvarende anvendelse.
 
 (2) Havindustritilsynet har innenfor sitt myndighetsområde tilsvarende tilsynsansvar og myndighet.
 
