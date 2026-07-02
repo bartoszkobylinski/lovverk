@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2026-06-24"
-last_change_in_force: null
+last_change_in_force: "2026-06-30"
 last_updated: null
-xml_hash: "7bae4b6f824a22dc2d8404b48388b56215a3537efd0f8453f80c752e2a95cd7b"
+xml_hash: "b928db480ad3dd653891a8e7829e287ff8ce24fc4dec516bb6c2377595603809"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-27T06:50:25.382483+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -88,7 +88,7 @@ Oppskyting av avansert rakett skal kun drives av juridiske personer, eller fysis
 
 Oppskyting av avansert rakett kan kun finne sted etter tillatelse fra Luftfartstilsynet.
 
-Søknad om tillatelse skal minst inneholde:opplysninger om den planlagte oppskytingen, herunder spesifikasjoner for raketten og drivstoff,opplysninger om eventuell nyttelast, herunder innhold av farlige materialer,opplysninger om planlagt oppskytingsbane,opplysninger om området som kan bli berørt av planlagt eller ikke-planlagt nedfall,en sikkerhetsvurdering i samsvar med [§ 13](forskrift/2026-06-24-1327/§13),opplysninger om miljøvurdering etter [§ 17](forskrift/2026-06-24-1327/§17),dokumentasjon på forsikring eller annen sikkerhet som dekker ansvar etter [§ 18](forskrift/2026-06-24-1327/§18).
+Søknad om tillatelse skal minst inneholde:opplysninger om den planlagte oppskytingen, herunder spesifikasjoner for raketten og drivstoff,opplysninger om eventuell nyttelast, herunder innhold av farlige materialer,opplysninger om planlagt oppskytingsbane,opplysninger om området som kan bli berørt av planlagt eller ikke-planlagt nedfall,en sikkerhetsvurdering i samsvar med [§ 11](forskrift/2026-06-24-1327/§11),opplysninger om miljøvurdering etter [§ 17](forskrift/2026-06-24-1327/§17),dokumentasjon på forsikring eller annen sikkerhet som dekker ansvar etter [§ 18](forskrift/2026-06-24-1327/§18).
 
 Før søknaden sendes, bør søker kontakte Luftfartstilsynet for forhåndskonferanse.
 
@@ -97,6 +97,8 @@ Luftfartstilsynet kan kreve ytterligere opplysninger fra søker.
 Luftfartstilsynet kan gi tillatelse som omfatter oppskyting av flere raketter innenfor en bestemt tidsperiode.
 
 Tillatelse kan gis når forskriftens bestemmelser er oppfylt og sikkerheten anses ivaretatt etter en konkret vurdering.
+
+> Endret ved forskrift [30 juni 2026 nr. 1446](forskrift/2026-06-30-1446).
 
 ### § 11. Krav til sikkerhetsvurdering (safety case)
 
