@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2013-08-20"
-last_change_in_force: "2022-01-24"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "a21796782657ec8264ffb571e0e933839d49a4e5ad80b04680b2af1e4424fa71"
+xml_hash: "202d3210cb24a069316b63dd980a80b78f7db388f6282e841a13e01fcffcd80e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,11 +28,17 @@ Med de unntak som følger av denne forskriften og [forskrift om skipsarbeidslove
 
 ## § 2. Arbeidsavtalens innhold mv.
 
-Arbeidsavtalen skal inneholde opplysninger omarbeidstakerens fulle navn, bosted, nasjonalitet, fødested og fødselsnummer eller, dersom arbeidstakeren ikke har fødselsnummer, fødselsår og dato,arbeidsgiverens navn og adresse,fartøyets navn når det gjelder tjeneste på ett fartøy,arbeidstakerens stilling,det som måtte være avtalt omansettelse med rett og plikt til å tjenestegjøre på flere fartøy,ansettelse for et bestemt tidsrom,ansettelse for en bestemt reise,arbeid av forbigående varighet,eventuell prøvetid,gjensidig oppsigelsesfrist,eventuell tidligste oppsigelsesdato,eventuelt sted for fratredelse ved arbeidsforholdets opphør,tariffavtale som vil komme til anvendelse på forholdet eller, dersom slik tariffavtale ikke foreligger, avtalt månedslønn og overtidsbetaling pr. time,den dag lønnen skal løpe fra, samt hvor lang tid reisen forutsettes å ta hvis lønnen er fastsatt for en bestemt reise,omfanget av årlig ferie med lønn, eller eventuelt formelen som er benyttet for å beregne den,sykepenger og trygdeytelser som arbeidsgiveren skal sørge for at arbeidstakeren er dekket av,arbeidstakerens rett til hjemreise,eventuelt andre arbeidsvilkår,sted og dato for arbeidsavtalens inngåelse.
+Arbeidsavtalen skal inneholde opplysninger omarbeidstakerens fulle navn, bosted, nasjonalitet, fødested og fødselsnummer eller, dersom arbeidstakeren ikke har fødselsnummer, fødselsår og datoarbeidsgiverens navn og adressefartøyets navn når det gjelder tjeneste på ett fartøyarbeidstakerens stillingdet som måtte være avtalt eller lovfestet omansettelse med rett og plikt til å tjenestegjøre på flere fartøyansettelse for et bestemt tidsromansettelse for en bestemt reisearbeid av forbigående varighetvarighet av og vilkår for eventuell prøvetidfremgangsmåte ved opphør av arbeidsforholdet, herunder formkrav og oppsigelsesfristereventuell tidligste oppsigelsesdatoeventuelt sted for fratredelse ved arbeidsforholdets opphør,tariffavtale som vil komme til anvendelse på arbeidsforholdet, angitt ved tittel eller navn på partene. Dersom det er avtalt vilkår som er gunstigere for arbeidstakeren enn det som følger av tariffavtalen, skal vilkårene fremgå av arbeidsavtalen. Dersom slik tariffavtale ikke foreligger, skal arbeidsavtalen inneholde opplysninger om de ulike komponentene som utgjør avtalt løpende tidslønn eller annet arbeidsvederlag, betaling per time for arbeid utover avtalt arbeidstid, utbetalingsmåte og tidspunkt for utbetaling av avtalt lønn eller annet arbeidsvederlag, samt eventuelle tillegg og andre godtgjørelser som kommer i tillegg til dettearbeidsforholdets oppstartsdato og datoen lønnen eller arbeidsvederlaget skal løpe fra, samt hvor lang tid reisen forutsettes å ta hvis lønnen eller arbeidsvederlaget er fastsatt for en bestemt reiseomfanget av årlig ferie med lønn eller eventuelt formelen som er benyttet for å beregne densykepenger og trygdeytelser som arbeidsgiveren skal sørge for at arbeidstakeren er dekket avarbeidstakerens rett til hjemreiserett til kompetanseutvikling som arbeidsgiveren eventuelt tilbyrvarigheten av arbeidstakerens rett til annet fravær enn ferie som helt eller delvis skal betales av arbeidsgiver, eller reglene for tildeling og fastsettelse av slikt fravær dersom varigheten ikke kan fastsettes ved inngåelse av arbeidsavtalenlengden på den normale arbeidsdagen eller -uken, samt eventuelle ordninger for arbeid utover avtalt arbeidstid og vaktendringer, dersom arbeidsmønsteret er helt eller overveiende forutsigbarteventuelt andre arbeidsvilkårsted og dato for inngåelse av arbeidsavtalen.
+
+Opplysninger som nevnt i første ledd bokstav e punkt v og vi og bokstav f, h, i, j, k, l, m og n kan gis i arbeidsavtalen ved å vise til relevante lover, forskrifter eller relevant tariffavtale som regulerer disse forholdene, angitt ved tittel eller ved navn på partene i tariffavtalen.
 
 Arbeidsavtalen skal undertegnes av arbeidstakeren og arbeidsgiveren eller den arbeidsgiveren gir fullmakt. Avtalepartene skal ha hver sin original av arbeidsavtalen.
 
-Dersom arbeidsgiveren er en annen enn rederiet, skal arbeidsgiveren i forbindelse med inngåelsen av arbeidsavtalen skriftlig informere arbeidstakeren om hvem rederiet er. Er det ved avtaleinngåelsen ikke klart hvem rederiet er, skal arbeidsgiveren informere arbeidstakeren skriftlig så snart arbeidsgiveren vet hvem rederiet er.
+Dersom arbeidsgiveren er en annen enn rederiet, skal arbeidsgiveren i forbindelse med inngåelsen av arbeidsavtalen skriftlig informere arbeidstakeren om hvem rederiet er. Dersom det ved avtaleinngåelse ikke er klart hvem rederiet er, skal arbeidsgiveren informere arbeidstakeren skriftlig så snart arbeidsgiveren vet hvem rederiet er. Det samme gjelder dersom arbeidstakeren leies inn av annen virksomhet enn rederiet.
+
+Ved endringer i arbeidsforholdet som innebærer at arbeidsavtalen ikke lenger er oppdatert, skal arbeidsavtalen endres tilsvarende så snart som mulig. Inntil nødvendige endringer er gjort i arbeidsavtalen, er det tilstrekkelig at arbeidsgiveren gir skriftlig informasjon om endringer i arbeidsforholdet i et dokument som rettes til hver enkelt arbeidstaker senest på den dato endringene trer i kraft. Det er ikke nødvendig å endre arbeidsavtalen ved endringer i lover, forskrifter eller tariffavtale som det vises til i arbeidsavtalen, men referanser til nytt regelverk skal tas inn i arbeidsavtalen dersom lov eller forskrift oppheves av nytt regelverk.
+
+> Endret ved forskrift [29 juni 2026 nr. 1441](forskrift/2026-06-29-1441) (i kraft 1 juli 2026).
 
 ## § 3. Formular for arbeidsavtale
 
@@ -40,7 +46,9 @@ Arbeidsavtalen skal inngås på formular fastsatt av Sjøfartsdirektoratet.
 
 Sjøfartsdirektoratet kan etter søknad godkjenne annet formular for arbeidsavtale.
 
-Bestemmelsen her gjelder ikke for arbeidstakere på fiske- og fangstfartøy.
+Bestemmelsen her gjelder ikke for arbeidstakere på fiske- og fangstfartøy og skip registrert i norsk internasjonalt skipsregister.
+
+> Endret ved forskrift [29 juni 2026 nr. 1441](forskrift/2026-06-29-1441) (i kraft 1 juli 2026).
 
 ## § 4. Utbetaling av lønn og rett til fri hjemreise
 
@@ -60,9 +68,15 @@ Ved arbeidsforholdets opphør skal lønnsoppgaven undertegnes av arbeidstakeren 
 
 ## § 6. Overgangsbestemmelse
 
-Kravet til bruk av formular for arbeidsavtale som inneholder punktene i [§ 2](forskrift/2013-08-19-1000/§2) første ledd bokstav h, i og j, gjelder for arbeidsavtaler som er inngått 20. august 2013 eller senere. Det samme gjelder kravet til informasjon om fødested i [§ 2](forskrift/2013-08-19-1000/§2) første ledd bokstav a.
+Krav om bruk av arbeidsavtale som inneholder punktene i [§ 2 første ledd bokstav h](forskrift/2013-08-19-1000/§2/ledd/1/bokstav/h), [i](forskrift/2013-08-19-1000/§2/ledd/1/bokstav/i) og [j](forskrift/2013-08-19-1000/§2/ledd/1/bokstav/j), gjelder for arbeidsavtaler som er inngått 20. august 2013 eller senere. Det samme gjelder kravet til informasjon om fødested i [§ 2 første ledd bokstav a](forskrift/2013-08-19-1000/§2/ledd/1/bokstav/a). For arbeidsavtaler som er inngått før 20. august 2013, skal arbeidsgiveren sørge for at arbeidstakeren har en oppdatert arbeidsavtale eller et vedlegg til denne som inneholder disse opplysningene.
 
-Arbeidsgiveren skal i alle tilfeller sørge for at rettighetene som følger av [§ 2](forskrift/2013-08-19-1000/§2) første ledd er oppfylt, og disse rettighetene skal fremgå av arbeidsavtalen eller vedlegg til denne.
+Krav om bruk av arbeidsavtale som inneholder alle punktene i [§ 2 første ledd](forskrift/2013-08-19-1000/§2/ledd/1), gjelder for arbeidsavtaler som inngås 1. oktober 2026 eller senere.
+
+Når arbeidsavtalen er inngått før 1. oktober 2026, skal arbeidsgiveren, dersom arbeidstakeren ber om det, sørge for at arbeidstakeren får en oppdatert arbeidsavtale eller et vedlegg til denne som inneholder alle opplysninger i [§ 2 første ledd](forskrift/2013-08-19-1000/§2/ledd/1) som er relevante for arbeidsforholdet. Arbeidsgiveren skal sørge for at arbeidstakeren får denne dokumentasjonen så snart som mulig og senest to måneder etter at arbeidstakeren har sendt anmodningen.
+
+Arbeidsgiveren skal i alle tilfeller sørge for at rettighetene som følger av [§ 2 første ledd](forskrift/2013-08-19-1000/§2/ledd/1), til enhver tid er oppfylt.
+
+> Endret ved forskrift [29 juni 2026 nr. 1441](forskrift/2026-06-29-1441) (i kraft 1 juli 2026).
 
 ## § 7. Ikrafttredelse
 
