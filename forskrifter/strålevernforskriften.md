@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-08-10"
-xml_hash: "29448b6ea1a06d2d3efe7bad471103e45165b139c333012e8da417384102e050"
+xml_hash: "a80a5b142f50156ef1ddfc965ca96fd5606892339dd3411bee3f6cbf4e1e0398"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-02T07:28:16.500138+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -74,7 +74,7 @@ Dosegrenser og grenseverdier for yrkeseksponering fremgår av [§ 32](forskrift/
 
 Effektiv dose til allmennhet og ikke-yrkeseksponerte arbeidstakere skal ikke overstige 1 mSv/år for ioniserende stråling. Ekvivalent dose til øyelinse skal ikke overstige 15 mSv/år. Ekvivalent dose til hud skal ikke overstige 50 mSv/år, målt eller beregnet over et vilkårlig hudareal på 1 cm2.
 
-For omsorgsytere som er over 18 år og ikke er gravide, samt friske frivillige personer som deltar i medisinsk forskning, kan høyere doser enn dosegrensene for allmennheten være berettiget. For disse gruppene skal det settes doseføringer i henhold til § 40a for de tilfellene dosegrensene for allmenheten ikke overholdes.
+For omsorgsytere som er over 18 år og ikke er gravide, samt friske frivillige personer som deltar i medisinsk forskning, kan høyere doser enn dosegrensene for allmennheten være berettiget. For disse gruppene skal det settes doseføringer i henhold til [§ 40a](forskrift/2016-12-16-1659/§40a) for de tilfellene dosegrensene for allmenheten ikke overholdes.
 
 Virksomheten skal planlegge strålingen og skjermingstiltakene slik at ikke-yrkeseksponerte arbeidstakere og allmennhet ikke eksponeres for en effektiv dose som overstiger 0,25 mSv/år. Ved hjemsendelse av pasienter som har vært til nukleærmedisinsk behandling, skal virksomheten planlegge stråleverntiltakene slik at husstandsmedlemmene ikke eksponeres for en effektiv dose som overstiger 1 mSv/år.
 
