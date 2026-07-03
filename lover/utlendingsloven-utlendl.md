@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2026-06-15"
-xml_hash: "51796efb31039f5085d0a4b3e6478f30c402958b8c673a044d7c24c92ea8068e"
+xml_hash: "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis:
   - "32004L0038"
@@ -1597,7 +1597,7 @@ Når pågripelse er foretatt, skal politiet sørge for underretning til den påg
 
 Vil politiet beholde den pågrepne, må vedkommende snarest mulig og senest den tredje dagen etter pågripelsen fremstilles for tingretten på det sted der fremstilling mest hensiktsmessig kan skje, med begjæring om internering. Dersom utlendingen først var pågrepet etter straffeprosessloven, skal også denne tiden medregnes, med mindre grunnlaget for pågripelse etter utlendingsloven først oppsto i ettertid som følge av ilagt straff. [Domstolloven § 149](lov/1915-08-13-5/§149) første ledd gjelder ikke ved beregning av fremstillingsfristen. Er fremstilling for retten ikke skjedd innen den andre dagen etter pågripelsen, skal grunnen til det opplyses i rettsboken.
 
-> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lov [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Tilføyd ved lov [20 apr 2018 nr. 9](lov/2018-04-20-9) (ikr. 15 mai 2018 iflg. [res. 20 apr 2018 nr. 590](forskrift/2018-04-20-590)), endret ved lover [20 des 2018 nr. 117](lov/2018-12-20-117) (ikr. 1 jan 2019 iflg. [res. 20 des 2018 nr. 2065](forskrift/2018-12-20-2065)), [4 april 2025 nr. 7](lov/2025-04-04-7) (i kraft 2 juni 2025 iflg. [res. 4 april 2025 nr. 602](forskrift/2025-04-04-602)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 106 b. Internering
 
