@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1995-10-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "1d842eb7b1ebfffd271f326afd45013692aa37d9365fada239428b631fbfc8da"
+xml_hash: "33d69446f7bd7f2a75fe5db1c05b279105345b6d621ed55f478fdd51f8e8c2f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -328,7 +328,7 @@ Namsfogd for Svalbard er sysselmesteren.
 
 Kongen fastsetter hvilke namsfogddistrikter norsk kontinentalsokkel og norsk økonomisk sone hører til.
 
-> Opphevet ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), tilføyd ved lov [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), endret ved lov [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Opphevet ved lov [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)), tilføyd ved lov [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), endret ved lover [11 juni 2021 nr. 68](lov/2021-06-11-68) (ikr. 1 juli 2021), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ## Kapittel III a. Politiets sikkerhetstjeneste. Organisering, oppgaver, forebyggende bruk av tvangsmidler og båndlegging
 
@@ -572,7 +572,7 @@ Opptak til videreutdanning og høyere grads studier foretas av Politihøgskolen.
 
 Vedtak om avslag på søknad om opptak kan påklages til Politihøgskolens styre eller til en klagenemnd oppnevnt av styret. Klagen behandles etter reglene i forvaltningsloven. Tildeling av studiested er ikke gjenstand for klage.
 
-> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lov [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)), [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
+> Tilføyd ved lov [2 juli 2004 nr. 60](lov/2004-07-02-60) (ikr. 2 juli 2004 iflg. [res. 2 juli 2004 nr. 1066](forskrift/2004-07-02-1066)), endret ved lover [20 juni 2014 nr. 47](lov/2014-06-20-47) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 792](forskrift/2014-06-20-792)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)), [19 juni 2026 nr. 46](lov/2026-06-19-46) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1283](forskrift/2026-06-19-1283)).
 
 ### § 24c. Utvisning, bortvisning og utestengning
 
