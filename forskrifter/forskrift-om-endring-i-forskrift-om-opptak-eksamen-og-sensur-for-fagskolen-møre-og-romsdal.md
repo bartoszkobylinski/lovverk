@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-08-01"
 last_change_in_force: null
 last_updated: null
-xml_hash: "6b41d19bff24ddcef6670cc38e4f77547bf86400c778c69370d2bce4487bc81b"
+xml_hash: "d5d914f9b7a008e60fde74b42b546d7bf6e30a069330878c962b359edb96a725"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -158,7 +158,7 @@ Besvarelsen/presentasjonen viser at studenten har manglende kunnskap innen sentr
 
 (5) For klage på formelle feil ved eksamen, gjelder reglene i [fagskoleloven § 23 fjerde ledd](lov/2018-06-08-28/§23/ledd/4).
 
-(6) For klage på opptak gjennom samordna opptak, skal rektor vurdere klagegrunnlaget. Rektor kan ta klagen til følge. Dersom rektor ikke tar klagen til følge, skal rektor sende saken til den nasjonale klagenemnda til endelig avgjørelse i samsvar med § 5-7 i denne forskrifta.
+(6) For klage på opptak gjennom samordna opptak, skal rektor vurdere klagegrunnlaget. Rektor kan ta klagen til følge. Dersom rektor ikke tar klagen til følge, skal rektor sende saken til den nasjonale klagenemnda til endelig avgjørelse i samsvar med [§ 5-7](forskrift/2020-10-20-2103/§5-7) i denne forskrifta.
 
 (1) Klagenemnda har ansvar for at saken er forsvarlig opplyst før det blir gjort endelig vedtak. Klagenemnda kan be fagskolen og den som klager om å fremskaffe flere opplysninger.
 
