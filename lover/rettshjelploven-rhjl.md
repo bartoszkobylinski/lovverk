@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1981-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2022-03-10"
-xml_hash: "50ccb9cfa4196988590175985a35a6ab015ae755c111b6de298f37bd779e275b"
+xml_hash: "b5caae75266fc45a16de93813fa241f74218adecb338c4b51924498483b03e04"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-13T06:46:02.636283+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ eu_basis: []
 
 Fri rettshjelp etter denne lov er en sosial støtteordning med formål å sikre nødvendig juridisk bistand til personer som ikke selv har økonomiske forutsetninger for å kunne ivareta et rettshjelpsbehov av stor personlig og velferdsmessig betydning.
 
-Fri rettshjelp etter denne lov betales helt eller delvis av staten og gis som fritt rettsråd, fri sakførsel eller fritak for rettsgebyr, jf. [kapittel II](lov/1980-06-13-35/kapii), III og IV.
+Fri rettshjelp etter denne lov betales helt eller delvis av staten og gis som fritt rettsråd, fri sakførsel eller fritak for rettsgebyr, jf. [kapittel II](lov/1980-06-13-35/kapii), [III](lov/1980-06-13-35/kapiii) og [IV](lov/1980-06-13-35/kapiv).
 
 > Endret ved lover [15 sep 1995 nr. 62](lov/1995-09-15-62) (ikr. 1 jan 1997), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)).
 
@@ -138,7 +138,7 @@ Departementet gir forskrift om det økonomiske vilkåret og utregningen av dette
 
 ### § 12. Fritt rettsråd ved utenlandsk domstol eller forvaltningsorgan.
 
-Søknad om fritt rettsråd kan innvilges helt eller delvis til den som oppfyller det økonomiske vilkåret i § 11 annet og tredje ledd, i følgende tilfeller:for den som er part i sak som er tatt til behandling av Den europeiske menneskerettighetsdomstol,for den som har fått sitt barn ulovlig bortført fra Norge, jf. [barnebortføringskonvensjonen av 25. oktober 1980 art 3](lov/1988-07-08-72/bbk/a3). Det samme gjelder for den som har fått sitt barn ulovlig bortført fra Norge og politiet har registrert et barn som savnet eller det er opprettet straffesak om barnebortføring.
+Søknad om fritt rettsråd kan innvilges helt eller delvis til den som oppfyller det økonomiske vilkåret i [§ 11](lov/1980-06-13-35/11) annet og tredje ledd, i følgende tilfeller:for den som er part i sak som er tatt til behandling av Den europeiske menneskerettighetsdomstol,for den som har fått sitt barn ulovlig bortført fra Norge, jf. [barnebortføringskonvensjonen av 25. oktober 1980 art 3](lov/1988-07-08-72/bbk/a3). Det samme gjelder for den som har fått sitt barn ulovlig bortført fra Norge og politiet har registrert et barn som savnet eller det er opprettet straffesak om barnebortføring.
 
 I andre saker for utenlandsk domstol eller forvaltningsorgan kan det unntaksvis innvilges helt eller delvis fritt rettsråd dersom det økonomiske vilkåret i [§ 11 annet](lov/1980-06-13-35/§11/ledd/2) og [tredje ledd](lov/1980-06-13-35/§11/ledd/3) er oppfylt og særlige grunner taler for det.
 
