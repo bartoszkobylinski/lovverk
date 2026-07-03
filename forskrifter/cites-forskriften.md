@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2018-07-01"
-last_change_in_force: "2026-03-05"
+last_change_in_force: "2026-06-30"
 last_updated: "2021-10-14"
-xml_hash: "4b1d967155a15918855fce98ac50f10e0e59fba996d815a7b3e6418b75bf40cf"
+xml_hash: "fb78564877fb515429be4d4525464be1c6ae531e0854e6fa5973b97b63e3cc24"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -342,7 +342,7 @@ Fra samme tid oppheves [forskrift 15. november 2002 nr. 1276](forskrift/2002-11-
 
 ## Vedlegg 1 – Artsliste
 
-> Endret ved forskrifter [4 des 2019 nr. 1631](forskrift/2019-12-04-1631), [23 juni 2021 nr. 2135](forskrift/2021-06-23-2135), [15 des 2021 nr. 4026](forskrift/2021-12-15-4026), [23 feb 2023 nr. 249](forskrift/2023-02-23-249), [11 april 2024 nr. 610](forskrift/2024-04-11-610), [10 april 2025 nr. 653](forskrift/2025-04-10-653), [26 feb 2026 nr. 316](forskrift/2026-02-26-316) (i kraft 5 mars 2026).
+> Endret ved forskrifter [4 des 2019 nr. 1631](forskrift/2019-12-04-1631), [23 juni 2021 nr. 2135](forskrift/2021-06-23-2135), [15 des 2021 nr. 4026](forskrift/2021-12-15-4026), [23 feb 2023 nr. 249](forskrift/2023-02-23-249), [11 april 2024 nr. 610](forskrift/2024-04-11-610), [10 april 2025 nr. 653](forskrift/2025-04-10-653), [26 feb 2026 nr. 316](forskrift/2026-02-26-316) (i kraft 5 mars 2026), [30 juni 2026 nr. 1455](forskrift/2026-06-30-1455).
 
 ## Vedlegg 2 – Stater med handelssuspensjoner
 
