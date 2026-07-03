@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2016-09-18"
-last_change_in_force: "2024-09-23"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-02-15"
-xml_hash: "2e48910a98bec498bab9b5bbb91206dcf7520645722866756821a8013e2a2cf6"
+xml_hash: "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -419,7 +419,7 @@ Signed for and on behalf of: . . . . . . . . . . . . . . . . . . . .
 
 ## Vedlegg IV
 
-> Endret ved forskrifter [13 juni 2018 nr. 859](forskrift/2018-06-13-859) (i kraft 19 juni 2018), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
+> Endret ved forskrifter [13 juni 2018 nr. 859](forskrift/2018-06-13-859) (i kraft 19 juni 2018), [27 mars 2023 nr. 459](forskrift/2023-03-27-459), [29 juni 2026 nr. 1453](forskrift/2026-06-29-1453) (i kraft 1 juli 2026).
 
 ## Vedlegg V
 
