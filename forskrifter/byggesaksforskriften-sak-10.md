@@ -10,12 +10,12 @@ ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2010-07-01"
 last_change_in_force: "2026-07-01"
-last_updated: "2021-02-18"
-xml_hash: "4885a8f83f13ef37c2d71542000e56f023fc6579a8b34c1d2716526fcfaf7900"
+last_updated: "2026-07-02"
+xml_hash: "e9b4e4edc1632ffc659be2a29fd3d5f6337b597b6d9a8f32a4a8dbbc5221f241"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -126,7 +126,7 @@ Tiltakshaveren har ansvaret for at tiltaket utføres i samsvar med paragrafen he
 
 ### § 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse
 
-På eksisterende småhusbebyggelse, jf. [§ 4-3 tredje ledd andre punktum](forskrift/2010-03-26-488/§4-3/ledd/3/setning/2), er utvendig etterisolering av yttervegg og tak inntil 15 centimeter, inkludert isolasjon, utlekting og ny kledning, unntatt fra krav om søknad, tillatelse og dispensasjon fra krav i arealplan om grad av utnytting. Unntaket gjelder ikke dersom tiltaket krever inngrep i bygningens bærende konstruksjoner, fører til at bygningens karakter endres vesentlig, fører til at et brannskille brytes eller t fører til at krav til avstand etter [plan- og bygningsloven § 29-4](lov/2008-06-27-71/§29-4) eller avstandskrav fastsatt i plan ikke lenger er oppfylt.
+På eksisterende småhusbebyggelse, jf. [§ 4-3 tredje ledd andre punktum](forskrift/2010-03-26-488/§4-3/ledd/3/setning/2), er utvendig etterisolering av yttervegg og tak inntil 15 centimeter, inkludert isolasjon, utlekting og ny kledning, unntatt fra krav om søknad, tillatelse og dispensasjon fra krav i arealplan om grad av utnytting. Unntaket gjelder ikke dersom tiltaket krever inngrep i bygningens bærende konstruksjoner, fører til at bygningens karakter endres vesentlig, fører til at et brannskille brytes eller fører til at krav til avstand etter [plan- og bygningsloven § 29-4](lov/2008-06-27-71/§29-4) eller avstandskrav fastsatt i plan ikke lenger er oppfylt.
 
 Unntaket etter første ledd omfatter flytting av vinduer og dører, også plassering lenger ut i vegglivet, dersom dette er nødvendig som del av etterisoleringen, og ikke i seg selv medfører at bygningens karakter endres vesentlig.
 
