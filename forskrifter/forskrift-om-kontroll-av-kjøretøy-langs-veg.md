@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2018-10-01"
 last_change_in_force: "2023-01-25"
 last_updated: null
-xml_hash: "3554a9bdeef3d08885b5891d94f870d2b51932b4141926495005b06a4bea22bd"
+xml_hash: "661385a8936b7c1448ab590ca65761b657f523cfc03e0021b63a3f9b5e26908d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,7 @@ Denne forskriften gjelder for følgende nyttekjøretøy med en konstruksjonshast
 
 Denne forskriften hindrer ikke muligheten for kontroll av andre kjøretøy som ikke er nevnt i første ledd, bokstav a–e.
 
-> Endret ved [forskrift 11 mai 2018 nr. 708](forskrift/2018-05-11-708).
+> Endret ved [forskrift 11 mai 2018 nr. 708](forskrift/2018-05-11-708). **Endres** ved forskrift [1 juli 2026 nr. 1459](forskrift/2026-07-01-1459) (i kraft 1 april 2027).
 
 ### § 1a. Gjennomføring av EU-rettsakter
 
