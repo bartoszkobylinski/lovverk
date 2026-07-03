@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-01-12"
-xml_hash: "0bcfbc6f1a82fd27a8b2f8bba3c475b5dc6ecc44046b533f0166e2984ab03e7d"
+xml_hash: "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1740,7 +1740,7 @@ Uvitenhet om den mindreåriges alder fører ikke til straffrihet hvis gjerningsp
 
 ### § 200 a. Grov involvering av mindreårige i kriminalitet
 
-Grov overtredelse av § 200 straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den mindreårige ble involvert i eller rekruttert til å begå en alvorlig straffbar handling, om overtredelsen har et systematisk eller organisert preg, og om den mindreårige var under 15 år.
+Grov overtredelse av [§ 200](lov/2005-05-20-28/§200) straffes med fengsel inntil 6 år. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den mindreårige ble involvert i eller rekruttert til å begå en alvorlig straffbar handling, om overtredelsen har et systematisk eller organisert preg, og om den mindreårige var under 15 år.
 
 § 200 tredje ledd gjelder tilsvarende.
 
