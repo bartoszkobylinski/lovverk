@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-26"
 last_updated: null
-xml_hash: "8784463426f14654285f4b09773436c6d9edb8c02a2fdf26e6d4533c65ccf4a8"
+xml_hash: "1fb4df97cf84a26b64185d9dcf635b822640ef587e7d8fea5f4af38a04b65eef"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,23 +46,29 @@ Fartøy med adgang til å fiske sei med konvensjonelle redskap kan maksimalt fis
 
 ## § 5. Maksimalkvote for fartøy med torsketråltillatelse
 
-Fartøy med torsketråltillatelse og som er registrert som fabrikktrålere kan maksimalt fiske og lande inntil 714 tonn.
+Fartøy med torsketråltillatelse og som er registrert som fabrikktrålere kan maksimalt fiske og lande inntil 1 050 tonn.
 
-Fartøy med torsketråltillatelse som er registrert som ferskfisk- og rundfrystrålere eller småtrålere kan maksimalt fiske og lande inntil 510 tonn.
+Fartøy med torsketråltillatelse som er registrert som ferskfisk- og rundfrystrålere eller småtrålere kan maksimalt fiske og lande inntil 750 tonn.
+
+> Endret ved forskrift [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452).
 
 ## § 6. Maksimalkvote for fartøy med seitråltillatelse
 
-Fartøy med seitråltillatelse med kvotefaktor 1,00 kan maksimalt fiske og lande inntil 200 tonn.
+Fartøy med seitråltillatelse med kvotefaktor 1,00 kan maksimalt fiske og lande inntil 250 tonn.
+
+> Endret ved forskrift [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452).
 
 ## § 7. Maksimalkvoter for fartøy med pelagisk tråltillatelse, nordsjøtråltillatelse eller avgrenset nordsjøtråltillatelse
 
 Fartøy med pelagisk tråltillatelse og fartøy med nordsjøtråltillatelse kan maksimalt fiske og lande inntil 600 tonn.
 
-Fartøy med avgrenset nordsjøtråltillatelse som har fisket mer enn 325 tonn sei i ett av årene 2006, 2007 og 2008 får kvotefaktor 1,0 og kan maksimalt fiske og lande inntil 280 tonn. Andre fartøy med avgrenset nordsjøtråltillatelse får kvotefaktor 0,5 og kan maksimalt fiske og lande inntil 140 tonn.
+Fartøy med avgrenset nordsjøtråltillatelse som har fisket mer enn 325 tonn sei i ett av årene 2006, 2007 og 2008 får kvotefaktor 1,0 og kan maksimalt fiske og lande inntil 480 tonn. Andre fartøy med avgrenset nordsjøtråltillatelse får kvotefaktor 0,5 og kan maksimalt fiske og lande inntil 240 tonn.
 
 Maksimalkvotene i første og andre ledd skal også dekke bifangst av sei i fartøyenes pelagiske trålfiske.
 
 Fartøy med nordsjøtråltillatelse eller avgrenset nordsjøtråltillatelse som også har adgang til å fiske sei med konvensjonelle redskaper, kan uten hinder av forbudet i [§ 10 første ledd](forskrift/2025-12-19-2737/§10/ledd/1) fiske begge seikvotene. Fartøyet kan til sammen likevel ikke fiske mer enn den høyeste maksimalkvoten som gjelder for én av gruppene fartøyet deltar i.
+
+> Endret ved forskrift [26 juni 2026 nr. 1452](forskrift/2026-06-26-1452).
 
 ## § 8. Beregning av kvote ved utskifting og ombygging
 
